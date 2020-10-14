@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-bletchley-park-donation/?amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i.insider.com/5f858116c255d800190b9832?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Facebook changes course to ban Holocaust denial"
-    excerpt: "In a major departure from Mark Zuckerberg’s past approach to Holocaust denial on Facebook, the company said Monday that it would ban such content and make related changes in the coming weeks. — FCC slot,"
-    publishedDateTime: 2020-10-13T14:08:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/13/facebook-changes-course-to-ban-holocaust-denial-790938"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 24
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
   - title: "Facebook Donates £1 Million to Help Keep Bletchley Park Open"
     excerpt: "Facebook is donating £1 million (nearly $1.3 million) to help keep Bletchley Park in the U.K. open to the public. Bletchley Park, in Milton Keynes, was where nearly 10,000 people—75% of them women—worked to change the course of World War II by cracking the secret code used by the Nazis to communicate."

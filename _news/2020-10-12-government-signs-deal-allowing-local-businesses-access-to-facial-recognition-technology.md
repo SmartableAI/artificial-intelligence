@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.amp.html"
 type: article
 quality: 51
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newshub
@@ -27,63 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition deal opens access to public and private parties"
-    excerpt: "The government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
-    publishedDateTime: 2020-10-11T19:14:00Z
-    webUrl: "https://www.nzherald.co.nz/technology/facial-recognition-deal-opens-access-to-public-and-private-parties/WYCET4X7G5BMLQYSELSD7LBHBA/"
+  - title: "Cabot animal shelter using facial recognition to help find lost pets"
+    excerpt: "That's why they're now using new facial recognition technology to help connect lost pets to their owners. Imagine if a single picture could be the key to finding your lost pet more efficiently and effectively. That’s what the app Finding Rover works to do."
+    publishedDateTime: 2020-10-14T15:45:00Z
+    webUrl: "https://www.whas11.com/article/life/pets/animal-shelter-using-facial-recognition-to-help-find-lost-pets/91-09b79d39-8153-4e10-a85e-44e16644f9bf"
+    ampWebUrl: "https://www.whas11.com/amp/article/life/pets/animal-shelter-using-facial-recognition-to-help-find-lost-pets/91-09b79d39-8153-4e10-a85e-44e16644f9bf"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/life/pets/animal-shelter-using-facial-recognition-to-help-find-lost-pets/91-09b79d39-8153-4e10-a85e-44e16644f9bf"
     type: article
     provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 39
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 59
     images:
-      - url: "https://www.nzherald.co.nz/resizer/z_KV0bXxbvv_DCZtGHsbff6ujSY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/RZPFWX7I2GZDU3MHXMT3BKUDZA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Government facial recognition tech deal offers wide access"
-    excerpt: "The Department of Internal Affairs has signed an agreement with a global biometrics tech supplier that just about any organisation can join."
-    publishedDateTime: 2020-10-11T18:42:00Z
-    webUrl: "https://www.stuff.co.nz/national/crime/300130018/government-facial-recognition-tech-deal-offers-wide-access"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/m/q/d/image.related.StuffLandscapeSixteenByNine.1420x800.4yotsy.png/1602441234083.jpg"
-        width: 1420
-        height: 797
-        isCached: true
-  - title: "Vermont lawmakers approve ban on facial recognition technology"
-    excerpt: "Darren Perron spoke with Jay Diaz with the Vermont ACLU and Claire Garvey, a senior associate at Georgetown University Center on Privacy and Technology, who has studied facial recognition."
-    publishedDateTime: 2020-10-13T22:51:00Z
-    webUrl: "https://www.wcax.com/2020/10/13/vermont-lawmakers-approve-ban-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: WCAX3
-      domain: wcax.com
-    quality: 39
-    images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/w1yRg1ibSlqj1jcDMeW3bLsHrGU=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/JKYAV7HQLFHVHEQPD73SJAXCMM.PNG"
-        width: 980
-        height: 502
-        isCached: true
-  - title: "Nigerian teens design phone app which helps dementia patients identify loved ones by showing them photos and plays them uplifting songs if facial recognition senses a change in ..."
-    excerpt: "Irish girls took first place in the the Technovation World Summit with an app that helps dementia patients and caretakers. Memory Haven includes memory games and photo albums."
-    publishedDateTime: 2020-10-09T21:28:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8824059/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8824059/amp/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8824059/amp/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 6
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/09/21/34208010-0-image-a-26_1602274978382.jpg"
-        width: 636
-        height: 382
+      - url: "https://media.whas11.com/assets/KTHV/images/8cfe5278-b06e-4b94-8056-eb04c1961257/8cfe5278-b06e-4b94-8056-eb04c1961257_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "rkhEMNHujsY8jI+E8iV+4vImGJ8TuEkCIlt3YchRXEdjbNBIlopvV7zk64VETG8WubtxscIcLkcH2AVYQRN8CyRg57MfBYPDst4oekjVINmNBV89e3CHmBySt5kYsiKNM3nKf1TqXfIBUudqE4j+5tyAzJP3f+EK+eT+hhsM4+x8Im5jp2y9bNg22MJQvW4PXKTsIWppy2CUzAPT8oytO6hBVG/jf+oYxkjQWi16r4Ji8wdEq/lqqQU4eVttwmNGtlYcZe9hKIrh8MW8wrGrLLrQX0b5vXkdRAMxNU/5gw6irEqpM2mifNGYpMxyi4QoZCUBI6TCU3PITLe8GerqTN4+U4ge/ZnkgzbXaoMAaiH7YqRIJlbjXmrPVwsPzDOi9ZjYawPfGrtXAc8Y8vAQLIreqCOB91dmglbh4uLqMo7xbUAIPx7RmbVWE4PM2tNeOBUzuhNhPHLr+3XJm6RiI+miPEqXBu5xYMm/7Egl6UCdOVCiBInS63xl3FjX56DzzBxtDP+Ln8TVjUwvjxKPKA==;RmUtBL5YOr86iVPeUtgJEQ=="

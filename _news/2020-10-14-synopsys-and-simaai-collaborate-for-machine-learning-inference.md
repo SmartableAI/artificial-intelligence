@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "Synopsys and SiMa.ai Collaborate to Bring Machine Learning Inference at Scale to the Embedded Edge"
-    excerpt: "(Nasdaq: SNPS) today announced its collaboration with SiMa.ai to bring its machine learning inference at scale"
-    publishedDateTime: 2020-10-14T13:05:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/synopsys-and-sima-ai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded-edge-9391759"
+    excerpt: "MOUNTAIN VIEW, Calif., Oct. 14, 2020 /PRNewswire/ -- (Nasdaq: SNPS) today announced its collaboration with SiMa.ai to bring its machine learning inference at scale to the embedded edge."
+    publishedDateTime: 2020-10-14T14:01:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/synopsys-and-sima-ai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded/article_b8eebd58-965e-5efc-a754-854673de040f.html"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 40
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 42
     images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "+LK9X/9QgESsGOy6wDXp625iVypRoAbdbtlTzEdKdYke3Dkoj3CJjiW4AAP1em9PQ8NF5C8tY2lWo1EVXnS/Upn83K3puuP5LSBR4AOsK0pMLyZvXAlxHfzbQwlqGhCv+43gECDngIj4vztyhVNQs1s4SceReA8PDvCNQb0N26ygk7MRBqfRUXPRB445qjytR7JUDVm3DgefgQSVh8/OlMJjznHKwtLq0MC/ACv2j3r6MvG2B/5amPkBEcrLUWOGxTgDQH25x6DFiGsQCOg+npflPbY+CahqYTfFDPjH0v5xeftOtdDC+vrqkIqjg+5xxkduTyH4yYUDiFYYC4s+tA6QJAzUUY4pphG4ji2QaFE=;+paGudbl1W6V8HR5jN/Lsg=="

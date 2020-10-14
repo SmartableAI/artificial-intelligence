@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202010/facial-recognition-legislat
 webUrl: "https://www.biometricupdate.com/202010/facial-recognition-legislation-delayed-in-new-orleans-considered-in-pennsylvania"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,36 +24,6 @@ images:
     width: 1920
     height: 1005
     isCached: true
-
-related:
-  - title: "Portland voters to decide on strengthening facial recognition ban"
-    excerpt: "Bennett | BDN PORTLAND, Maine — This year, Portland residents will vote on a proposal to add enforcements to the ordinance that bans the use of facial recognition software by police and city ..."
-    publishedDateTime: 2020-10-13T09:34:00Z
-    webUrl: "https://bangordailynews.com/2020/10/13/politics/portland-voters-to-decide-on-strengthening-facial-recognition-ban/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 39
-    images:
-      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/early-vote-2-1.jpg?fit=1024%2C683&#038;ssl=1"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Portland voters asked to strengthen facial surveillance ban"
-    excerpt: "Question B on the city ballot would add enforcement provisions – including a private right of action for people to sue the city – to an existing prohibition on city employees using facial recognition technology."
-    publishedDateTime: 2020-10-12T08:26:00Z
-    webUrl: "https://www.centralmaine.com/2020/10/12/portland-voters-asked-to-strengthen-facial-surveillance-ban/"
-    type: article
-    provider:
-      name: Kennebec Journal
-      domain: centralmaine.com
-    quality: 24
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
-        width: 816
-        height: 554
-        isCached: true
 
 secured: "CxKd0QqGUilGnLSVB4EpWvS1W9aD8P5GS2ybG/2nJ8dzxKFZtkWE+VOLxyq5R3fI/RxrUqiE2SaymrauZAPe42vP4wk1VHcOkRPkLQB9/MP94U64KGMHu6AglyjfzZTOCJNnqyGR62pMmXeAEewGLZxDhRIgLpmLISiNxm8y2UArnXXyCjVQTt93RkVDH1zQbXVEtCARjbIAMw6ukzfu5RvcxGOGCOG7NQshkJsq2Vyo9Wmv4XGSmRVdPNPirPc+rvFXhovELruNigM1wtytMfXhlvRHnKMHOWBuWtDM+Q2Iy5529fFdVb6sll7C1ih0ZwViTMPG/lRk+uKdDnkSSkJ7bG5WX0AEgGTTKFqzKgk/3Dl0eDsHd/HTCNud4bOF2TNNgFELLnKHOKPH3lMLj77/LMiS66lIPwg8aMENJKUL3oMWscZLF7t9rYivNQkxxJba4yt+3TaVTG/zsXvhhhPp7qmgMLuC+XTMYd4rT+2S9sqTePFQpQN5OIj66pkxKx8Vnhl9YZ4sGKhdxZ7b3w==;wYseD30TxI0ruevK0ykaPw=="
 ---

@@ -44,6 +44,20 @@ related:
         width: 800
         height: 388
         isCached: true
+  - title: "AI dataset startup Dataloop lands $11M funding round"
+    excerpt: "Dataloop Ltd., a Tel Aviv-based startup that helps companies create training datasets for their machine learning projects, today announced that it has closed a $11 million funding round led by Amiti Ventures."
+    publishedDateTime: 2020-10-14T14:04:00Z
+    webUrl: "https://siliconangle.com/2020/10/14/ai-dataset-startup-dataloop-lands-11m-funding-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/dataloop.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "RBC Capital Markets launches Aiden® - a new AI-powered electronic trading platform"
     excerpt: "RBC Capital Markets today announced the launch of Aiden®, an AI-based electronic trading platform that uses the computational power of deep reinforcement learning in its pursuit of improved trading results and insights for clients."
     publishedDateTime: 2020-10-14T12:00:00Z
@@ -73,6 +87,6 @@ related:
         height: 600
         isCached: true
 
-secured: "MHJvV3xKD0gQoqFmlEr8UN4x47Bme2JbuatJgpdfD2LziFjmsHDCDDaVY60TeSaZVzCqtaiB+HVDh8lxRqZMpB8+W/8KoTXD6BDIwykStRzXJ8bEqGIYL035QVj4d5GMkQ8OgGblz5rCy92bcbBKCs3VxoJIb86ifVVKCPjY8Tqe1uSU0nraxV6pZtZvZtaE9sCuRxMRKcSGfgNA321yvP2AX+NvBKQwUskEBlzHR9vLpkXJzlJc2dDFQoFoW705cstgtUtKQikU86R8foPm8Oy4owGykF1ZPKB+8DsfV0yygHKNGrpQNN2Hmh9N9eGARciPk5Vy8AmsqXWAV7Gf7Cpy1Pp6JY9VF37oczgKmgU=;VkGNo+LRmSUFCW8tdVmRRw=="
+secured: "kdyxWNqT1r1Jl4lQYrw0ULqaU4aAtXfR3DG9gEboFirDcXm5z14p9BzJC1cIDHg9v+zXHaHn3IgM0gV0d53A9gpxe8nf9LDoUjPlL+ER8/uV/shnb8vKdunI0W4gklqMOfhsR3qq6SfzIllKCiAvP2QBFOh+06Bq2m50iGo/gSyoYkw5hLQuoKfvRyywPfTTWUYDDuf3hHbrLRPldxboO82a1OEzfbNAxROHuILNXMGqzflThcmRkExuhfiAlfVbnfaozvLZm4uuhf4qxGVx/T3FfMLaSt0RN1blH/ol1tfmZrnnTeJAq6URZbc2n73Th+A0FPJZYIJ3nSd7NaKiPkq4iSbUMfGi0RoYwQCPjKrgpTxxw0QOQQy5mb/349z8JgEIuybHKHI8YWj16TnB6ZYqOKg2ujfUlZ4MqjHVXSJ8PvdYSgbExIQTsSpyNaQjPsyH7j89w2PvFQmc1W52iN3QDXmQlrYXkUVZe4BW+2Z6ThIKG1xEMnuYimk6PRBOIQ/gf+vQwRkT0Z2TMkREzw==;Rooa9CK4BMG49xknSI33Jw=="
 ---
 

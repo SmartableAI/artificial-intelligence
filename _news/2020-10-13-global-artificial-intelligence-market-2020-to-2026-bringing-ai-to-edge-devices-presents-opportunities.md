@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-
 webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -38,6 +38,20 @@ related:
       - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
         width: 800
         height: 419
+        isCached: true
+  - title: "Artificial Intelligence Market by Technology, Hardware, End-user Industry, and Region - Global Forecast to 2026 - ResearchAndMarkets.com"
+    excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-10-14T14:24:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-malware-industrial-technology-9e6b83acdad64ac4a73f34ac0d7689c1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "vdcdNazdnpStGz3qJoZMqBQkSfUkLN5/NzVobgcLh2egVeVPKjUxtg/75BC3zdUfF1trOzhSld+wtgvv62lvtlV2a0Jpbq05HWVmz7nqKCOuU8o520SQ0u94gcXqY2615kQ29LLVP2UEdWvAhHJBNCGaDwn7RFvirK76JxvC2WV/lnTbczPFG86X+ltsUqab2K7FQWLpjsKbzN9hWaRlSFc2QwwZsTtMrDcIB6vYCRniCaadKBB/nUAuBa4PjvgFLkPgCTj5ma7aie4RbEr0U/t2G5boaIq1Q816EOSYJFIIm1bG6zhYkdMyKRN1R5XZqabwI/p9QRaxEuRviVJaQJzWVPEDpbbPpt9TSCTx+jU=;z/w/Vt2t6nPXNI8im0xbDg=="

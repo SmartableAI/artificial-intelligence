@@ -8,8 +8,8 @@ webUrl: "https://www.telegraph.co.uk/environment/2020/10/14/google-launches-auto
 ampWebUrl: "https://www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/amp/"
 type: article
-quality: 70
-heat: 70
+quality: 72
+heat: 72
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.telegraph.co.uk/content/dam/environment/2020/10/14/alphabet_trans_NvBQzQNjv4BqEo7ukXPj3dSVEb29e9SgAAI0OcPg6ShMBBRXr6oDkZQ.jpg"
@@ -26,6 +27,6 @@ images:
     height: 439
     isCached: true
 
-secured: "xSphUUF2vVkioo1rXGcdB7F7mjJHvQBI+zTEp178SxWzL3cdWSmhFX4gvngDKD5FkGtS4p5IBskYbECZwzJ1ZIxjI2BLvj8HNv8Q48avWhwPHIdJzP9dJCNwc6k4n9PklpxmEY4XaBrt5NAMBETwFkxpyGntIZBI2x9d875NaI87jHRer08cOt/YGih33lH7yAtZXHpYeRRjGZRzBNPOLG5RkbhThj4i6KByx3JopCtraAKw4H45IADV8Vz6+z4vhdm2M4/Fty7woHa0CT+Q4BCTuctgP6KLnrQjqnuXOrXGZyUVrq52kIBN/nJsDfM4dLBUHB2T4YRHLTX5sPsnWeacLm1600GycnMLJjqqeMg=;KYd1Yhnny/+1HXMGSgyP9g=="
+secured: "5xC15vpnqwFMkibSZKZU5j/6eqvfWRRrUDF2KCEHXA0HBoEUSpYcxq99hTKTtFMymwM+cwG/2hIrjs1Jv+V0W0kbIXWnVTc0BnqyOoILBZIVmWe64pFJSItxY26U4gkt4iFrcHOVQVvhYaQMK9zvYK3mKduydCE9A9asidNUkXYK+sMJG/iq2vVMVx0hRd5MQnOpANAASGdrxHohk7+Rq090bAkFb5Esz5GWGWgv5xU/yfkzZj2iZC9rJW29zGYKkZpBQE3kuHVsSR4gK0mZ19Di6cMWt8fTMyNn5/7M3pC4E49n/gz++HnXoa5LdbO/+2iJ+3Yr7PSO3zXdVQf4lF2wslBI7zv6298/E+XNQZuhzuFs7+jtZspfsheSwLBDwE3bcr95XaonZ07YJIqHSqkUUW7eWNv5R7UwXjjsvggs2YcIohMvRlGcsWm7vwzta1jRefnmy/Zx1sdctBWNB/DWQCpJggJ7fxjvsA8TtdGmtGycPxxxp2jpcuKGFqAMM8g+kHIC6+p7o4fRwy+08g==;OCLqHbGN9LOuT9u0U/atBw=="
 ---
 

@@ -8,9 +8,9 @@ webUrl: "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-s
 ampWebUrl: "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 89
+heat: 129
+published: true
 
 provider:
   name: Engadget
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F64625200-0d97-11eb-b2ff-474c419ab255&client=amp-blogside-v2&signature=44deace43d9002073d11fa617625620dd03d9831"
@@ -30,39 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook's AI Flags Onion Photo as 'Overtly Sexual'"
-    excerpt: "A Canadian seed company that posted a photo featuring a pile of onions was notified by Facebook that 'listings may not position products or services in a sexually suggestive manner.'"
-    publishedDateTime: 2020-10-09T21:33:00Z
-    webUrl: "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual"
-    ampWebUrl: "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true"
+  - title: "AI in Fashion Market is set to see Revolutionary growth in decade | Microsoft, IBM, Google, AWS, SAP, Facebook"
+    excerpt: "Latest released the research study on Global AI in Fashion Market offers a detailed overview of the factors influencing the global business scope AI in Fashion Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2020-10-13T20:36:00Z
+    webUrl: "https://www.openpr.com/news/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
+    ampWebUrl: "https://www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 87
+      name: openpr.com
+      domain: openpr.com
+    quality: 73
     images:
-      - url: "https://i.pcmag.com/imagery/articles/030jVR79RwEptik80LTAPr9-1.1602278178.fit_lim.size_1200x630.jpg"
-        width: 1121
-        height: 630
+      - url: "https://cdn.openpr.com/T/a/Ta13288706_g.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Study reveals the simple way people get around Facebook's fact-checking AI"
-    excerpt: "Facebook Pages that spread misinformation are finding their way around one of the platform’s most important tools for fighting fake news: its AI system. When Facebook’s fact-checkers debunk a ..."
-    publishedDateTime: 2020-10-09T22:27:00Z
-    webUrl: "https://mashable.com/article/facebook-avaaz-study/"
-    ampWebUrl: "https://mashable.com/article/facebook-avaaz-study.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facebook-avaaz-study.amp"
+  - title: "Facebook and Carnegie Mellon launch project to discover better ways to store renewable energy"
+    excerpt: "Facebook today announced a partnership with Carnegie Mellon University on a research project — the Open Catalyst Project — that will leverage AI to accelerate the search for electrocatalysts ..."
+    publishedDateTime: 2020-10-14T13:02:00Z
+    webUrl: "https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/"
+    ampWebUrl: "https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/amp/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 85
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
     images:
-      - url: "https://mondrian.mashable.com/2020%252F10%252F09%252F1a%252F3ed24ba1a52d43ab89e60a7b7214f207.b4fb3.jpg%252F1200x630.jpg?signature=t51jPMwvDM2dkWg9XqM-7of1HfM="
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&#038;strip=all"
         width: 1200
-        height: 630
+        height: 700
+        isCached: true
+  - title: "Facebook’s Open Catalyst Project uses AI to find new ways to store renewable energy"
+    excerpt: "The idea is to discover new “electrocatalysts” that can provide a more efficient and scalable method of storing and using renewable energy. Facebook AI research scientist Larry Zitnick said in a blog post the project aims to tackle the intermittent nature of renewable energy sources such as wind and solar energy."
+    publishedDateTime: 2020-10-14T13:46:00Z
+    webUrl: "https://siliconangle.com/2020/10/14/facebooks-open-catalyst-project-using-ai-discover-new-ways-store-renewable-energy/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/windrader-1048981_1280.jpg"
+        width: 1280
+        height: 809
+        isCached: true
+  - title: "Facebook changes course to ban Holocaust denial"
+    excerpt: "In a major departure from Mark Zuckerberg’s past approach to Holocaust denial on Facebook, the company said Monday that it would ban such content and make related changes in the coming weeks. — FCC slot,"
+    publishedDateTime: 2020-10-13T14:08:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/13/facebook-changes-course-to-ban-holocaust-denial-790938"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 24
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
-secured: "OzSV7QsuRWya9KEE63iNiQvMWV8W0h7UZ9L8/Sv26ezp89iserKzI5j4F+Nkv3Ae7f/M1tgn6rSBsnCgMLBDVv8a7lOgWaxl+bvSmj+0S/NrVOuRwanhbZxFZFKjL9CBHnQWrjtCfvjuvjxOzgVVUdRrDZccRvc2uVmWNZRwBY0kXWxEpPLrqfw0PLUOEfhnfC5HNXNft1Nj8JZ9HO9U1V+g/2znrRjJUHU1BRgMkW+/bN/xagG1sWNkwztM2+Vmu0kCA61vqD0/g2tQCMZtnd6X4M9SuFlippXoyiMdg4XwIkV6LFYJ8huBqfbjPG2Yhy0DYpICpYYYCAofZdYRspEskV4orSKp/Q6giDkoOeE=;G017yJRr9O6978wSCpLE9w=="
+secured: "uVQ/AHd5NrTkKiJScLnzDN6d9ZRB/jR1bLLS5a1nZdSQXq599YGRTQmrkSYmBnVGsUOqvc4+ITeGzmuat3o5KzHNIR9sZ6x1PbF/WYAn5tKuynDCN5zENNZySu2oKmDJdNzOey1uFd/SUBVVJeBZZHcYqp0gyjz45K8l95BnwDEEKv3L/QHBeWbA8hNjJ9yiKTUGQNoy+qVfR5Gsl4l2VNAvmWAdj+ffFgmOrYB1yMsjSieNQ1Qrh2fGxmCGOLKuafrxLd8VZwEc9oJmzL/61i7qk7BDErSaxrhCoqTQ80xBTdPCOzd3qmUeeiY3UvZBfVY6gdFNKI/vojCYZMi7Nwqd9V6+1BGxgYfZGsT1w03cBE/zazTAdomwkegUaFf2Eu31f/FB/CTS8xLKGR2qItJGj9XP1bF4WjmO5HjH5/8JOrX7x+q+LEmcLzIE0S73lIGFRbh/NdHdaS7kY95Bxyy9bbY93/6zt9FS6F543SQK6WcMe3R5dX1PYktxWrgFCzRowvOpyuOywoyxRwh27w==;QQp6ymaW04Shyk1i+2/kBA=="
 ---
 

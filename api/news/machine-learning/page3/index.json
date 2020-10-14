@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-28-moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue.md",
+      "title": "Moving from notebooks to automated ML pipelines using Amazon SageMaker and AWS Glue",
+      "excerpt": "A typical machine learning (ML) workflow involves processes such as data extraction, data preprocessing, feature engineering, model training and evaluation, and model deployment. As data changes over time, when you deploy models to production, you want your model to learn continually from the stream",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/24/1-Retraining-Pipeline.jpg",
+          "width": 1000,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T11:56:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-neural-network-trained-to-control-anesthetic-doses-keep-patients-under-during-surgery.md",
       "title": "Neural network trained to control anesthetic doses, keep patients under during surgery",
       "excerpt": "and Massachusetts General Hospital have demonstrated how neural networks can be trained to administer anesthetic during surgery. Over the past decade, machine learning (ML), artificial ...",
@@ -1353,49 +1406,6 @@
       "provider": {
         "name": "Odessa American",
         "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-deepcube-raises-series-a-funding-to-realize-real-world-deployments-of-deep-learning-on-edge-devices-at-scale.md",
-      "title": "DeepCube Raises Series A Funding to Realize Real-World Deployments of Deep Learning on Edge Devices, at Scale",
-      "excerpt": "DeepCube, the award-winning deep learning pioneer, today announced that it has closed $7 million in Series A funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200922005177/en/DeepCube-Raises-Series-A-Funding-to-Realize-Real-World-Deployments-of-Deep-Learning-on-Edge-Devices-at-Scale",
-      "originalUrl": "https://www.businesswire.com/news/home/20200922005177/en/DeepCube-Raises-Series-A-Funding-to-Realize-Real-World-Deployments-of-Deep-Learning-on-Edge-Devices-at-Scale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200922005177/en/790877/23/DeepCube_logo_on_black.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

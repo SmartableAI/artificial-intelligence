@@ -2,6 +2,325 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-14-artificial-intelligence-in-healthcare-market-set-to-take-giant-positive-leap.md",
+      "title": "Artificial Intelligence in Healthcare Market Set to Take Giant Positive Leap",
+      "excerpt": "The Artificial Intelligence in Healthcare Market research report includes Market Size, Upstream Situation, Market Segmentation, Artificial Intelligence in Healthcare Market Segmentation, Price & Cost And Industry Environment. In addition, the report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
+      "originalUrl": "https://www.openpr.com/news/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta13437067_g.jpg",
+          "width": 800,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
+      "publishedDateTime": "2020-10-13T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone.md",
+      "title": "Saturn Cloud Enables Easy and Powerful NVIDIA GPU Computing For Everyone",
+      "excerpt": "Today, Saturn Cloud, the GPU data science company, announces the launch of Saturn Cloud Hosted, an open platform for multi-node multi-GPU computing in the cloud. The platform is available to anyone and everyone: corporations,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
+      "publishedDateTime": "2020-10-13T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature.md",
+      "title": "Tisane Labs' Solutions on Microsoft Azure Add Wikidata Extraction Feature",
+      "excerpt": "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft Azure Marketplace and AppSource. With the new feature, Tisane API now allows tagging and extraction of Wikidata entities,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775",
+      "publishedDateTime": "2020-10-13T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-fda-clears-ge-healthcare-ai-powered-cardiovascular-ultrasound-system.md",
+      "title": "FDA clears GE Healthcare AI-powered cardiovascular ultrasound system",
+      "excerpt": "GE Healthcare announced that it received FDA 510(k) clearance for its Ultra Edition package on Vivid cardivascular ultrasound systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.massdevice.com/fda-clears-ge-healthcare-ai-powered-cardiovascular-ultrasound-system/",
+      "originalUrl": "https://www.massdevice.com/fda-clears-ge-healthcare-ai-powered-cardiovascular-ultrasound-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.massdevice.com/wp-content/uploads/2019/07/GE-Healthcare-logo.png",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassDevice",
+        "domain": "massdevice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30.md",
+      "title": "Amazon Personalize improvements reduce model training time by up to 40% and latency for generating recommendations by up to 30%",
+      "excerpt": "We’re excited to announce new efficiency improvements for Amazon Personalize. These improvements decrease the time required to train solutions (the machine learning models trained with your data) by up to 40% and reduce the latency for generating real-time recommendations by up to 30%. Amazon Personalize",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/12/2-1-5.jpg",
+          "width": 900,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T09:48:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-spotify-open-sources-klio-a-framework-for-ai-audio-research.md",
+      "title": "Spotify open-sources Klio, a framework for AI audio research",
+      "excerpt": "Over the years, the company has begun to tap natural language processing, audio models, and filtering to serve up recommendations and curate playlists including Discovery Weekly and Release Radar.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/",
+      "originalUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/04/spotify-nyse.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/",
+      "publishedDateTime": "2020-10-13T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-researchers-develop-new-model-of-the-brains-real-life-neural-networks.md",
+      "title": "Researchers develop new model of the brain's real-life neural networks",
+      "excerpt": "Physical Systems Group at the USC Viterbi School of Engineering, in conjunction with the University of Illinois at Urbana-Champaign, have developed a new model of how information deep in the brain could flow from one network to another and how these neuronal network clusters self-optimize over time.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/8-brain.jpg",
+          "width": 1741,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
+      "publishedDateTime": "2020-10-13T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-olive-rolled-out-a-new-ai-powered-healthcare-platform-that-streamlines-revenue-cycle-management.md",
       "title": "Olive rolled out a new AI-powered healthcare platform that streamlines revenue cycle management",
       "excerpt": "Olive debuted a platform that speeds up revenue cycle management processes for healthcare workers—like prior authorizations and patient verifications.",
@@ -147,6 +466,51 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities.md",
+      "title": "Global Artificial Intelligence Market (2020 to 2026) - Bringing AI to Edge Devices Presents Opportunities",
+      "excerpt": "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
       ]
     },
     {
@@ -604,60 +968,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs.md",
-      "title": "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs",
-      "excerpt": "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/06/28/1491d2a1-5b91-4521-a753-791b9f03ed42/resize/1200x/0a58b39878159fc665d3cd9d948840c6/istock-873015278.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "publishedDateTime": "2020-10-12T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-10-12-how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education.md",
       "title": "How CogAbility and the University of Florida are using Watson to build the future of education",
       "excerpt": "As they do every fall, 55,000 students descended on the University of Florida this year. But with mask and physical distancing guidelines, alterations to policies on campus gatherings, and new behavioral expectations, operating and attending a university during a pandemic is anything but business as",
@@ -863,352 +1173,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-study-reveals-big-regional-divides-in-views-on-ai-risks.md",
-      "title": "Study reveals big regional divides in views on AI risks",
-      "excerpt": "New research on opinions about using AI in decision-making suggests concerns are highest in Latin America and the Caribbean and lowest in East Asia.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/12/study-reveals-big-regional-divides-in-views-on-ai-risks/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/12/study-reveals-big-regional-divides-in-views-on-ai-risks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-12T164927.997-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/12/study-reveals-big-regional-divides-in-views-on-ai-risks/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/12/study-reveals-big-regional-divides-in-views-on-ai-risks/amp/",
-      "publishedDateTime": "2020-10-12T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-caterpillar-bets-on-self-driving-machines-impervious-to-pandemics.md",
-      "title": "Caterpillar bets on self-driving machines impervious to pandemics",
-      "excerpt": "How can a company like Caterpillar <CAT.N> try to counter a slump in sales of bulldozers and trucks during a pandemic that has made every human a potential disease vector?",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-caterpillar-services-technology-focus-idUSKBN26X1ET",
-      "originalUrl": "https://www.reuters.com/article/us-caterpillar-services-technology-focus-idUSKBN26X1ET",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537123187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B0S1",
-          "width": 807,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26X1ET",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X1ET",
-      "publishedDateTime": "2020-10-12T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-adobe-puts-artificial-intelligence-tools-into-its-marketing-software.md",
-      "title": "Adobe puts artificial intelligence tools into its marketing software",
-      "excerpt": "Adobe Inc <ADBE.O> said on Monday that it has put a new set of artificial intelligence tools into its digital marketing software with the aim of helping companies sharpen their marketing campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-adobe-ai-idUSKBN26X24O",
-      "originalUrl": "https://www.reuters.com/article/us-adobe-ai-idUSKBN26X24O",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537156171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B19R",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26X24O",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X24O",
-      "publishedDateTime": "2020-10-12T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030.md",
-      "title": "South Korea targets to develop 50 Artificial Intelligence chips by 2030",
-      "excerpt": "South Korea aims to develop up to 50 types of artificial intelligence-focused system semiconductors by 2030, the ICT ministry said Monday, as the country strives to take",
-      "sourceUrl": null,
-      "webUrl": "https://english.madhyamam.com/technology/south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030-584315",
-      "originalUrl": "https://english.madhyamam.com/technology/south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030-584315",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.madhyamam.com/h-upload/2020/10/12/500x300_716622-fb-photo.jpg",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.madhyamam.com/amp/technology/south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030-584315",
-      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030-584315",
-      "publishedDateTime": "2020-10-12T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madhyamam",
-        "domain": "madhyamam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-in-singapore-facial-recognition-is-getting-woven-into-everyday-life.md",
-      "title": "In Singapore, facial recognition is getting woven into everyday life",
-      "excerpt": "Citizens of the island state will soon use their face to sign in to pay taxes and access over 400 digital services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/singapore-facial-recognition-getting-woven-everyday-life-n1242945",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/singapore-facial-recognition-getting-woven-everyday-life-n1242945",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_39/3414967/200925-singapore-face-recognition-al-1030_8d8fed63df4768948a8bd02b8f9dfc21.jpg",
-          "width": 2500,
-          "height": 1407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242945",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242945",
-      "publishedDateTime": "2020-10-12T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble.md",
-      "title": "Hidden Factor Steering For Trouble In Latest Elon Musk Versus Waymo Self-Driving Cars Squabble",
-      "excerpt": "Latest spat of Elon Musk and Waymo highlights steering for troubles in self-driving. getty. There is an elephant in the room, but it seems as though nobody is noticing it. In the",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8393a16e24fdc40c0501f3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3685%26cropY1%3D1078%26cropY2%3D3843",
-          "width": 1199,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/",
-      "publishedDateTime": "2020-10-12T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als.md",
-      "title": "Microsoft partners with Team Gleason to build a computer vision dataset for ALS",
-      "excerpt": "The organizations hope to foster innovation in computer vision and broaden the potential for connectivity and communication for people with accessibility challenges. Microsoft and Team Gleason ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/",
-      "originalUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/microsoft-logo.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/",
-      "publishedDateTime": "2020-10-12T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI dataset startup Dataloop lands $11M funding round"
+    excerpt: "Dataloop Ltd., a Tel Aviv-based startup that helps companies create training datasets for their machine learning projects, today announced that it has closed a $11 million funding round led by Amiti Ventures."
+    publishedDateTime: 2020-10-14T14:04:00Z
+    webUrl: "https://siliconangle.com/2020/10/14/ai-dataset-startup-dataloop-lands-11m-funding-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/dataloop.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Findem, an AI-backed startup that aims to make HR and recruiting more data-driven, just emerged from stealth with $7.3 million in Series A funding"
     excerpt: "Business Insider got the exclusive look at Findem, which \"enables teams to do what they do best\": engaging with candidates, not pipeline building."
     publishedDateTime: 2020-10-14T11:11:00Z

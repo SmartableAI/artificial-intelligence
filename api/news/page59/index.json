@@ -2,37 +2,38 @@
   "page": 59,
   "value": [
     {
-      "path": "_news/2020-08-19-the-outside-context-problem-of-the-pandemic-underscores-the-importance-of-human-ai-collaboration.md",
-      "title": "The 'Outside Context Problem' Of The Pandemic Underscores The Importance Of Human-AI Collaboration",
-      "excerpt": "We’ve learned how humans and our machines can help each other gain crucial contextual awareness in situations where we would be unable to do so alone.",
+      "path": "_news/2020-08-28-self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026.md",
+      "title": "Self-Driving Car Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026",
+      "excerpt": "Aug 28, 2020 (Profound via COMTEX) -- The report provides rational insights along with historical and forecast data to aid in better understanding of the Global Self-Driving Car Market.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/the-outside-context-problem-of-the-pandemic-underscores-the-importance-of-human-ai-collaboration/",
-      "originalUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bd6aebee53d03e84653a1%2F0x0.jpg",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 800,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/the-outside-context-problem-of-the-pandemic-underscores-the-importance-of-human-ai-collaboration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/19/the-outside-context-problem-of-the-pandemic-underscores-the-importance-of-human-ai-collaboration/amp/",
-      "publishedDateTime": "2020-08-19T05:29:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -48,139 +49,40 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-08-19-five-ways-ai-can-help-revolutionize-mental-healthcare.md",
-      "title": "Five Ways AI Can Help Revolutionize Mental Healthcare",
-      "excerpt": "AI has the potential to revolutionize mental healthcare, ultimately making care more accessible, more responsive and more affordable.",
+      "path": "_news/2020-08-28-the-tiniest-computer-vision-platform-just-got-better.md",
+      "title": "The Tiniest Computer Vision Platform Just Got Better",
+      "excerpt": "The future, if you believe the ad copy, is a world filled with cameras backed by intelligence, neural nets, and computer vision. Despite the hype, this may actually turn out to be true ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/",
-      "originalUrl": null,
+      "webUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
+      "originalUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bd781a3e144a79d4653a1%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://hackaday.com/wp-content/uploads/2018/09/openmvheader.png",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/amp/",
-      "publishedDateTime": "2020-08-19T05:25:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting.md",
-      "title": "14 Ways Artificial Intelligence Will Disrupt Job Searches And Recruiting",
-      "excerpt": "With AI being increasingly used in hiring and recruiting, company leaders need to be thinking of how they can effectively utilize it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3af16974bbc69e4903f35b%2F0x0.jpg",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/amp/",
-      "publishedDateTime": "2020-08-19T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work.md",
-      "title": "Hashtag Trending – Facial recognition in New York; Airbnb at Blockbuster; Swiping right at work",
-      "excerpt": "The New York City Police Department uses facial recognition to find a man who allegedly shouted into a police officer’s ear with a bullhorn, you may soon be able to experience the nostalgia of BlockBuster,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1",
-      "publishedDateTime": "2020-08-19T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
+        "name": "Hackaday",
+        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -195,261 +97,35 @@
       ]
     },
     {
-      "path": "_news/2020-08-19-meet-your-post-pandemic-coworker-an-ai-bot.md",
-      "title": "Meet Your Post-Pandemic Coworker: An AI Bot",
-      "excerpt": "Ready to swap your old cube-mate for a disembodied AI? IPsoft CEO Chetan Dube, creator of AI co-worker AMELIA, gives his take on the post-COVID office landscape.",
+      "path": "_news/2020-08-28-using-deep-learning-to-study-how-mental-disorders-affect-the-brain.md",
+      "title": "Using deep learning to study how mental disorders affect the brain",
+      "excerpt": "Georgia State University researchers are working to harness deep learning and artificial intelligence to learn more about how mental illness and other disorders affect the brain. Led by Vince Calhoun, Distinguished University Professor of Psychology at ...",
       "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot",
-      "originalUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/m/meet-your-/meet-your-post-pandemic-coworker-an-ai-bot_vxzc.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1",
-      "publishedDateTime": "2020-08-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years.md",
-      "title": "Vroom vroom: AI reveals F1’s fastest drivers of the past 40 years",
-      "excerpt": "F1 and AWS have used an algorithm to rank the fastest drivers of all time, but not everyone is convinced by the system's calculations.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-19T105234.562-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/amp/",
-      "publishedDateTime": "2020-08-19T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-aaeon-and-aotuai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot.md",
-      "title": "AAEON and Aotu.ai Announce the Release of a Smart Vision AI Developers Kit on an Intel AI Platform for IoT",
-      "excerpt": "AAEON and AOTU.AI are excited to announce the launch of the BrainFrame Edge AI Developers Kit (DevKit) on an Intel AI platform for IoT that will allow developers and system integrators to rapidly create and deploy Smart Vision applications.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
-      "publishedDateTime": "2020-08-19T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-smart-dubais-artificial-intelligence-ethics-advisory-board-convenes-for-its-2nd-meeting-for-2020-explores-next-steps.md",
-      "title": "Smart Dubai's artificial intelligence ethics advisory board convenes for its 2nd meeting for 2020, explores next steps",
-      "excerpt": "The meeting was split into three main portions, presenting options for the future roll-out of tools for better AI, considering the potential of AI Audit Practices, and Cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819101836/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819101836/",
-      "publishedDateTime": "2020-08-19T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why.md",
-      "title": "Fintech just made a big leap forward in this tiny country: Here's why",
-      "excerpt": "But now its fintech industry, especially the digital-payments sector, is also beginning to make its mark. When Microblink, an R&D company based in Zagreb, Croatia, started out in 2013, it had to rely on its founders' finances,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
-      "originalUrl": "https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/10/25/55775b91-e663-4566-b8d3-471de68b11e7/thumbnail/1200x675/53c53f5d09cf88bbcb76eb0d0ea7e347/fintech-startups-why-bulgaria-is-a-hotbe-5da7266bdc406100013edd0f-1-oct-25-2019-19-26-43-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
-      "publishedDateTime": "2020-08-19T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-machine-learning-in-retail-market.md",
-      "title": "Machine Learning in Retail Market",
-      "excerpt": "Machine Learning in Retail Market 2020 report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
-      "originalUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.openpr.com/T/8/T819308741_g.jpg",
-          "width": 562,
-          "height": 313,
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
-      "publishedDateTime": "2020-08-19T02:11:00-07:00",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx",
+      "publishedDateTime": "2020-08-27T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -464,598 +140,36 @@
       ]
     },
     {
-      "path": "_news/2020-08-19-how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human.md",
-      "title": "How Ancient Rules of Logic Could Make Artificial Intelligence More Human",
-      "excerpt": "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human.",
+      "path": "_news/2020-08-28-orlando-police-end-test-of-amazons-real-time-facial-rekognition-system.md",
+      "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
+      "excerpt": "The city of Orlando, Fla., says it has ended a pilot program in which its police force used Amazon's real-time facial recognition — a system called \"Rekognition\" that had triggered complaints from rights and privacy groups when its use was revealed ...",
       "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/",
-      "originalUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/",
+      "webUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "originalUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png",
-          "width": 1051,
-          "height": 597,
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/22686fc/2147483647/strip/true/crop/1289x725+0+0/resize/1289x725!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F31%2F05%2Ff38c541872ecbe4555d2826173f0%2Forlando-traffic-cam-wide-4d242769fd25bb799656278a22eeccd635957ace.jpg",
+          "width": 1289,
+          "height": 725,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/",
-      "publishedDateTime": "2020-08-19T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-facial-recognition-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
-      "title": "Facial Recognition market - What Are The Main Factors That Contributing Towards Industry Growth?",
-      "excerpt": "Facial Recognition is a biometric application which captures image of an individual and identify it by applying",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-08-19",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T01:49:00-07:00",
+      "publishedDateTime": "2020-08-27T15:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-artificial-intelligence-ai-in-drug-discovery-market.md",
-      "title": "Artificial Intelligence (AI) in Drug Discovery Market",
-      "excerpt": "The large Artificial intelligence (AI) in drug discovery market report contains wide-ranging and comprehensive market insights which are based on business intelligence. A strong research methodology used in this marketing report comprises of data models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T819553587_g.jpg",
-          "width": 800,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
-      "publishedDateTime": "2020-08-19T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
+        "name": "WGBH",
+        "domain": "wgbh.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-inside-drift-meet-carolina-caprile-natural-language-processing-engineer.md",
-      "title": "Inside Drift: Meet Carolina Caprile, Natural Language Processing Engineer",
-      "excerpt": "Carolina Caprile breaks down her work as a natural language processing engineer and talks about what it was like to do stand-up comedy in Argentina.",
-      "sourceUrl": null,
-      "webUrl": "https://www.drift.com/blog/carolina-caprile-nlp-engineer/",
-      "originalUrl": "https://www.drift.com/blog/carolina-caprile-nlp-engineer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0drift0ho9g7wbfexi.kinstacdn.com/wp-content/uploads/2020/08/2008-Inside-Drift-Carolina-Caprile-1.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drift",
-        "domain": "drift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-how-to-leverage-on-artificial-intelligence-to-transform-the-way-entrepreneurs-do-business.md",
-      "title": "How to Leverage on Artificial Intelligence to Transform the Way Entrepreneurs Do Business",
-      "excerpt": "This situation has raised the importance and prominence of technology. As it recovers from human and economic ravages, AI is positioned to play a critical role",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/354973",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597821086-artificial-intelligence-4715585.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354973",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354973",
-      "publishedDateTime": "2020-08-19T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-deep-learning-market-2020-2023-growth-emerging-trends-and-forecast.md",
-      "title": "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast",
-      "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-ai-health-startup-can-get-15-vital-signs-via-your-phone-camera.md",
-      "title": "AI Health Startup Can Get 15 Vital Signs Via Your Phone Camera",
-      "excerpt": "And having the results funneled to your personal medical AI engine to monitor you for any signs of poor health, ready to notify your physician if anything looks out of the ordinary. Like higher temperature,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ca44b72dedd269d7b253d%2F0x0.jpg",
-          "width": 1000,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/",
-      "publishedDateTime": "2020-08-18T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-how-duolingo-uses-ai-in-every-part-of-its-app.md",
-      "title": "How Duolingo uses AI in every part of its app",
-      "excerpt": "We spoke to von Ahn about all the ways Duolingo uses AI and then ... Knowing how to translate individual words isn’t enough for effective communication in a new language. Sentence construction ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/duolingo-luis-von-ahn.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/amp/",
-      "publishedDateTime": "2020-08-18T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-chinese-ai-giant-blacklisted-by-trump-thrives-in-virus-era.md",
-      "title": "Chinese AI Giant Blacklisted by Trump Thrives in Virus Era",
-      "excerpt": "The Hong Kong-based startup’s revenue surged 147% to 5 billion yuan ($720 ... to develop its own tech industry and overtake the U.S. in key sectors. Read more: AI Unicorn SenseTime Is Said to Mull Hong Kong, China IPO In the case of facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iclFGm8eeMXk/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "publishedDateTime": "2020-08-18T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-artificial-intelligence-automation-and-robotics.md",
-      "title": "Artificial intelligence, automation and robotics",
-      "excerpt": "We look at how AI and data science are supporting the global push to deal with the coronavirus pandemic. We reveal, and talk to, the man behind the world’s first computer virus pandemic, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
-      "originalUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T19:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-global-facial-recognition-company-working-closely-with-nz-govt.md",
-      "title": "Global facial recognition company working closely with NZ govt",
-      "excerpt": "NEC itself is on the wrong side of a pushback against facial recognition in the US. There, three tech giants Amazon, IBM and Microsoft in June called a halt to supplying the tech to US police in a moratorium over brutality against black people. But NEC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvnz.co.nz/one-news/new-zealand/global-facial-recognition-company-working-closely-nz-govt",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg==",
-      "cdnAmpWebUrl": "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg==",
-      "publishedDateTime": "2020-08-18T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TVNZ 1",
-        "domain": "tvnz.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-the-sound-of-indias-ai-potential.md",
-      "title": "The sound of India’s AI potential",
-      "excerpt": "On August 15, India’s Independence Day, it’s customary to sing Jana Gana Mana: the Indian national anthem, originally composed by the poet Rabindranath Tagore and adopted as the anthem after India gained full independence.  This year, together with Prasar Bharati and Virtual Bharat, we offered Indians",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/500d84ff-924b-400e-9b5f-0c244bc858b2_1.max-1300x1300.png",
-          "width": 1260,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/amp/",
-      "publishedDateTime": "2020-08-18T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-is-anthos-the-edge-google-needs-in-enterprise-cloud.md",
-      "title": "Is Anthos the edge Google needs in enterprise cloud?",
-      "excerpt": "In 3rd place in the cloud wars for years, the emergence of Google's Anthos last year was a welcome move that makes a versatile multicloud future for businesses not just a possibility, but a practical option today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/10/2f5cb054-c9f7-4ebb-9c6f-9c1698ba44e9/thumbnail/1200x675/422a12290de5e69249993f300448f6ca/thumb.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
-      "publishedDateTime": "2020-08-18T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1069,25 +183,35 @@
       ]
     },
     {
-      "path": "_news/2020-08-19-artificial-intelligence-loopholes-could-be-deadly.md",
-      "title": "Artificial Intelligence Loopholes Could Be Deadly",
-      "excerpt": "Artificial intelligence (AI) has become an intimate part of our lives. It all started in 1950 when philosopher and mathematician Alan Turing revisited the question of whether machines (or computers) can “think.",
+      "path": "_news/2020-08-28-frost-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning.md",
+      "title": "Frost & Sullivan Recognizes LinkShadow as Innovation Leader in User and Entity Behavior Analytics Based on Machine Learning",
+      "excerpt": "Frost & Sullivan has named LinkShadow as a top industry innovator in the Frost Radar™: User and Entity Behavior Analytics Based on",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-832126362.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-832126362.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly?amp",
-      "publishedDateTime": "2020-08-18T17:26:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T14:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1097,42 +221,77 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-08-19-a-photo-editing-ai-thought-this-blurry-photo-was-actor-ryan-goslings-face.md",
-      "title": "A photo-editing AI thought this blurry photo was actor Ryan Gosling's face",
-      "excerpt": "When a photographer used Gigapixel AI to enlarge an image, the software reportedly saw Ryan Gosling's face in a fuzzy part of the picture.",
+      "path": "_news/2020-08-28-solidus-strike-gold-with-100m-contract-and-partnership-with-microsoft.md",
+      "title": "Solidus strike gold with €100m contract and partnership with Microsoft",
+      "excerpt": "The World as we know it is forever and progressively evolving, and thus has become more reliant on technology for our day to day",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ryan-gosling-face-photo-editor-gigapixel-ai-2020-8",
-      "originalUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/solidus-strike-gold-with-100m-contract-and-partnership-with-microsoft-301120002.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/solidus-strike-gold-with-100m-contract-and-partnership-with-microsoft-301120002.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f3bf135a3eafa001de06b7a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ryan-gosling-face-photo-editor-gigapixel-ai-2020-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ryan-gosling-face-photo-editor-gigapixel-ai-2020-8?amp",
-      "publishedDateTime": "2020-08-18T17:14:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T12:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up.md",
+      "title": "Qualcomm-backed firm releases processor as AI chip race heats up",
+      "excerpt": "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc and Alibaba Group Holding Ltd, on Thursday announced a new chip aimed at handling artificial intelligence functions on battery-powered devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K",
+      "originalUrl": "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25N23K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25N23K",
+      "publishedDateTime": "2020-08-27T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1148,9 +307,10 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     }
   ],
-  "nextPage": 60
+  "nextPage": null
 }

@@ -2,60 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-13-microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs.md",
-      "title": "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs",
-      "excerpt": "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/06/28/1491d2a1-5b91-4521-a753-791b9f03ed42/resize/1200x/0a58b39878159fc665d3cd9d948840c6/istock-873015278.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "publishedDateTime": "2020-10-12T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-10-12-the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks.md",
       "title": "The state of AI in 2020: Biology and healthcare's AI moment, ethics, predictions, and graph neural networks",
       "excerpt": "Research and industry breakthroughs, ethics, and predictions. This is what AI looks like today, and what it's likely to look like tomorrow.",
@@ -1421,6 +1367,50 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-rethinking-ai-ethics-asimov-has-a-lot-to-answer-for.md",
+      "title": "Rethinking AI Ethics - Asimov has a lot to answer for",
+      "excerpt": "Is the current obsession with AI Ethics doing any good? Maybe Asimov's Three Laws of Robotics wasn't such a great starting point after all",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/rethinking-ai-ethics-asimov-has-lot-answer",
+      "originalUrl": "https://diginomica.com/rethinking-ai-ethics-asimov-has-lot-answer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-09/shutterstock-Andrey-Suslov-1231251634.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/rethinking-ai-ethics-asimov-has-lot-answer",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/rethinking-ai-ethics-asimov-has-lot-answer",
+      "publishedDateTime": "2020-09-08T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

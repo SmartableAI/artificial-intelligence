@@ -25,61 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook donates vital funds to iconic WWII code-breaking center"
-    excerpt: "On Tuesday, Facebook announced a donation of $1.3 million (1 million ... which caused its closure for several months this year. Although artificial intelligence was not officially formed as a discipline until after Turing’s untimely death, Turing was ..."
-    publishedDateTime: 2020-10-13T20:29:00Z
-    webUrl: "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/"
-    ampWebUrl: "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-bletchley-park-donation/?amp"
+  - title: "Facebook deploys its AI to find green energy storage solutions"
+    excerpt: "One alternative is putting that excess power to work driving catalytic reactions. “There are a lot of different ways that we can store the energy,” Zack Ulissi, CMU Assistant Professor of Chemical Engineering and Materials Science and Engineering,"
+    publishedDateTime: 2020-10-14T13:41:00Z
+    webUrl: "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    ampWebUrl: "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/turing-memorial-mpk6-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Facebook donated $1.3 million to the UK's World War II code-breaking hub, Bletchley Park"
-    excerpt: "Facebook Chief Technology Officer Mike Schroepfer ... Ideas developed at Bletchley Park remain at the heart of cutting-edge research in fields like artificial intelligence, online security and cryptography today, more than 80 years after the first ..."
-    publishedDateTime: 2020-10-13T11:14:00Z
-    webUrl: "https://www.businessinsider.com/facebook-donates-1-million-to-bletchley-park-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/facebook-donates-1-million-to-bletchley-park-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-donates-1-million-to-bletchley-park-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/5f858116c255d800190b9832?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Facebook Donates £1 Million to Help Keep Bletchley Park Open"
-    excerpt: "Facebook is donating £1 million (nearly $1.3 million) to help keep Bletchley Park in the U.K. open to the public. Bletchley Park, in Milton Keynes, was where nearly 10,000 people—75% of them women—worked to change the course of World War II by cracking the secret code used by the Nazis to communicate."
-    publishedDateTime: 2020-10-13T16:44:00Z
-    webUrl: "https://www.adweek.com/digital/facebook-donates-1-million-to-help-keep-bletchley-park-open/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 24
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/10/BletchleyPark-600x315.jpg"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F64625200-0d97-11eb-b2ff-474c419ab255&client=amp-blogside-v2&signature=44deace43d9002073d11fa617625620dd03d9831"
         width: 600
-        height: 315
+        height: 350
         isCached: true
-  - title: "Facebook donates 1mn pound to 'birthplace of computer'"
-    excerpt: "Facebook has announced a donation of 1 million pounds ($1.3 million) to Bletchley Park, a heritage attraction and museum that served as the British code-breaking hub during World War Two."
-    publishedDateTime: 2020-10-13T15:08:00Z
-    webUrl: "https://www.sify.com/news/facebook-donates-1mn-pound-to-birthplace-of-computer-news-international-uknn4qibadhgf.html"
+  - title: "AI in Fashion Market is set to see Revolutionary growth in decade | Microsoft, IBM, Google, AWS, SAP, Facebook"
+    excerpt: "Latest released the research study on Global AI in Fashion Market offers a detailed overview of the factors influencing the global business scope AI in Fashion Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2020-10-13T20:36:00Z
+    webUrl: "https://www.openpr.com/news/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
+    ampWebUrl: "https://www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 4
+      name: openpr.com
+      domain: openpr.com
+    quality: 73
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta13288706_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Facebook and Carnegie Mellon launch project to discover better ways to store renewable energy"
+    excerpt: "Facebook today announced a partnership with Carnegie Mellon University on a research project — the Open Catalyst Project — that will leverage AI to accelerate the search for electrocatalysts ..."
+    publishedDateTime: 2020-10-14T13:02:00Z
+    webUrl: "https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/"
+    ampWebUrl: "https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Facebook’s Open Catalyst Project uses AI to find new ways to store renewable energy"
+    excerpt: "The idea is to discover new “electrocatalysts” that can provide a more efficient and scalable method of storing and using renewable energy. Facebook AI research scientist Larry Zitnick said in a blog post the project aims to tackle the intermittent nature of renewable energy sources such as wind and solar energy."
+    publishedDateTime: 2020-10-14T13:46:00Z
+    webUrl: "https://siliconangle.com/2020/10/14/facebooks-open-catalyst-project-using-ai-discover-new-ways-store-renewable-energy/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/windrader-1048981_1280.jpg"
+        width: 1280
+        height: 809
+        isCached: true
 
 secured: "LIgCbOrnxKygD/0eYZoKt4rJzQh0rJgadcQKS+fep6U5PWc5yVbnUOLUKmb49k+TdZixTvlQo0Fl8oZmgbIDQDhYSLAWIMOzvhCR6JQsHVKDqcgIvL9Mf6kHtIgO9NCFcu0g+F4JNOAEVVjn3+ZXjHRmt/mjH0HzxvfQhFRsGm9F7TVGpxhLBo06NuKrgNvW7QtwjQ+gN16vfZRcCW+pvK6mtFETsCk+6YYexqE90HcPjgou/TjPiCoxu+tt129fEJDRoKLV2zrMUrqqztLNT+55MZ8XWrrP0K0GzmETXmdIj45tsMf9jZxsDqu0S8O9/Cc8x2azZbKP+S2Nt5x6HW3SoJow/9tVSpxUjG/RcAQ=;OkTIb/sclslXslKJgkFl/Q=="
 ---

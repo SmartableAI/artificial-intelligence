@@ -54,60 +54,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs.md",
-      "title": "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs",
-      "excerpt": "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/06/28/1491d2a1-5b91-4521-a753-791b9f03ed42/resize/1200x/0a58b39878159fc665d3cd9d948840c6/istock-873015278.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "publishedDateTime": "2020-10-12T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-10-12-amazon-rekognition-adds-support-for-six-new-content-moderation-categories.md",
       "title": "Amazon Rekognition adds support for six new content moderation categories",
       "excerpt": "Amazon Rekognition content moderation is a deep learning-based service that can detect inappropriate, unwanted, or offensive images and videos, making it easier to find and remove such content at scale. Amazon Rekognition provides a detailed taxonomy of moderation categories, such as Explicit Nudity,",
@@ -298,49 +244,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.md",
-      "title": "Government signs deal allowing local businesses access to facial recognition technology",
-      "excerpt": "The Government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.html",
-      "originalUrl": "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology/_jcr_content/par/image.dynimg.768.q75.jpg/v1602452244144/GETTY-face-recognition-technology-stock-pic-1120.jpg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.amp.html",
-      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.amp.html",
-      "publishedDateTime": "2020-10-11T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newshub",
-        "domain": "newshub.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1462,6 +1365,110 @@
         "name": "Just Auto",
         "domain": "just-auto.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-amazon-spent-24000-to-kill-portlands-facial-recognition-ban.md",
+      "title": "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban",
+      "excerpt": "On Wednesday, Portland lawmakers will vote on what could be the strongest facial recognition ban in the United States. In November 2019, city officials revealed they were crafting legislation that would ban the use of facial recognition technology by both ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
+      "originalUrl": "https://www.vice.com/en/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f592142fafbbe00943f97f5/lede/1599678133842-gettyimages-1220178244.jpeg?crop=1xw:0.8665xh;0xw,0.0392xh",
+          "width": 5037,
+          "height": 2829,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
+      "publishedDateTime": "2020-09-29T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-best-facial-recognition-security-cameras-to-buy-in-2020.md",
+      "title": "Best facial recognition security cameras to buy in 2020",
+      "excerpt": "Select home security cameras have facial recognition, an option that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your list of known faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/",
+      "publishedDateTime": "2020-09-29T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

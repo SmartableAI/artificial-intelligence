@@ -2,6 +2,317 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-14-on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem.md",
+      "title": "On The Hit-And-Maybe-Run Self-Driving Car Dilemma (Akin To ‘The Molly Problem’)",
+      "excerpt": "AI Ethics and the self-driving car hit-and-maybe-run dilemma. getty. Please prepare yourself for a driving scenario that we all dread and profusely hope will never occur. Wham, wh",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/14/on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/14/on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f867f6d004ee7742e9545b4%2F0x0.jpg%3FcropX1%3D191%26cropX2%3D4608%26cropY1%3D395%26cropY2%3D2879",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/14/on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/14/on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem/amp/",
+      "publishedDateTime": "2020-10-14T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration.md",
+      "title": "Azure Data Explorer gets new engine, numerous enhancements and Synapse integration",
+      "excerpt": "Microsoft is taking Azure Data Explorer (ADX), a hidden gem in its cloud platform, and trotting it out to join the Azure analytics mainstream. Performance gains and numerous integrations should make ADX's heretofore latent value much more apparent and beneficial,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
+      "originalUrl": "https://www.zdnet.com/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/14/8f1d0a74-ad46-4527-b056-747840964fa8/3.png",
+          "width": 999,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
+      "publishedDateTime": "2020-10-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-whats-that-microsofts-latest-breakthrough-now-in-azure-ai-describes-images-as-well-as-people-do.md",
+      "title": "What’s that? Microsoft’s latest breakthrough, now in Azure AI, describes images as well as people do",
+      "excerpt": "The post What’s that? Microsoft’s latest breakthrough, now in Azure AI, describes images as well as people do appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/azure-image-captioning/",
+      "originalUrl": "https://blogs.microsoft.com/ai/azure-image-captioning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/sb10068701p-001_1200x630-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T07:59:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-uk-regulators-host-first-forum-to-assess-use-of-ai-in-financial-services.md",
+      "title": "UK regulators host first Forum to assess use of AI in financial services",
+      "excerpt": "UK regulators are meeting with private stakeholders to assess potential guidelines for the increasing use of AI in financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uk-forum-holds-meeting-to-assess-ai-in-financial-services-2020-10",
+      "originalUrl": "https://www.businessinsider.com/uk-forum-holds-meeting-to-assess-ai-in-financial-services-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f593d1d7ed0ee001e25e59d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-how-innovative-ai-solutions-can-help-combat-global-warming.md",
+      "title": "How Innovative AI Solutions Can Help Combat Global Warming",
+      "excerpt": "However, technology alone is not enough. Solutions to big problems such as climate change require an urgent and integrated focus on several key areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/how-innovative-ai-solutions-can-help-combat-global-warming/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/how-innovative-ai-solutions-can-help-combat-global-warming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f860440de0526febe29e364%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-facebook-deploys-its-ai-to-find-green-energy-storage-solutions.md",
+      "title": "Facebook deploys its AI to find green energy storage solutions",
+      "excerpt": "One alternative is putting that excess power to work driving catalytic reactions. “There are a lot of different ways that we can store the energy,” Zack Ulissi, CMU Assistant Professor of Chemical Engineering and Materials Science and Engineering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
+      "originalUrl": "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F64625200-0d97-11eb-b2ff-474c419ab255&client=amp-blogside-v2&signature=44deace43d9002073d11fa617625620dd03d9831",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
+      "publishedDateTime": "2020-10-14T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-dataloop-raises-11m-series-a-round-for-its-ai-data-management-platform.md",
       "title": "Dataloop raises $11M Series A round for its AI data management platform",
       "excerpt": "Dataloop, a Tel Aviv-based startup that specializes in helping businesses manage the entire data lifecycle for their AI projects, including helping them annotate their datasets, today announced that it has now raised a total of $16 million.",
@@ -10,7 +321,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -208,7 +519,7 @@
       "originalUrl": "https://www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -239,7 +550,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -275,6 +587,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-rbc-rolls-out-ai-based-trading-platform-to-global-clients.md",
+      "title": "RBC Rolls Out AI-Based Trading Platform to Global Clients",
+      "excerpt": "Royal Bank of Canada is launching an artificial intelligence-based electronic-trading platform to clients around the world, starting with an algorithm designed to help reduce trading slippage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHiN2vOALFkg/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
+      "publishedDateTime": "2020-10-14T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -696,7 +1059,7 @@
       "originalUrl": "https://techcrunch.com/sponsor/idb-taiwan/these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -741,51 +1104,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade-microsoft-ibm-google-aws-sap-facebook.md",
-      "title": "AI in Fashion Market is set to see Revolutionary growth in decade | Microsoft, IBM, Google, AWS, SAP, Facebook",
-      "excerpt": "Latest released the research study on Global AI in Fashion Market offers a detailed overview of the factors influencing the global business scope AI in Fashion Market research report shows the latest market insights current situation analysis with upcoming trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade",
-      "originalUrl": "https://www.openpr.com/news/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta13288706_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade",
-      "publishedDateTime": "2020-10-13T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-14-4-things-to-know-about-ibms-spin-off-plans.md",
       "title": "4 Things to Know About IBM's Spin-Off Plans",
       "excerpt": "IBM's stock recently rallied after the tech giant announced it would spin off its managed infrastructure services unit into a new company. That split will enable IBM to divest its",
@@ -794,7 +1112,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -846,7 +1164,7 @@
       "originalUrl": "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -940,282 +1258,6 @@
         "AI",
         "AWS AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-artificial-intelligence-in-healthcare-market-set-to-take-giant-positive-leap.md",
-      "title": "Artificial Intelligence in Healthcare Market Set to Take Giant Positive Leap",
-      "excerpt": "The Artificial Intelligence in Healthcare Market research report includes Market Size, Upstream Situation, Market Segmentation, Artificial Intelligence in Healthcare Market Segmentation, Price & Cost And Industry Environment. In addition, the report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
-      "originalUrl": "https://www.openpr.com/news/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta13437067_g.jpg",
-          "width": 800,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
-      "publishedDateTime": "2020-10-13T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone.md",
-      "title": "Saturn Cloud Enables Easy and Powerful NVIDIA GPU Computing For Everyone",
-      "excerpt": "Today, Saturn Cloud, the GPU data science company, announces the launch of Saturn Cloud Hosted, an open platform for multi-node multi-GPU computing in the cloud. The platform is available to anyone and everyone: corporations,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
-      "publishedDateTime": "2020-10-13T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-fda-clears-ge-healthcare-ai-powered-cardiovascular-ultrasound-system.md",
-      "title": "FDA clears GE Healthcare AI-powered cardiovascular ultrasound system",
-      "excerpt": "GE Healthcare announced that it received FDA 510(k) clearance for its Ultra Edition package on Vivid cardivascular ultrasound systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.massdevice.com/fda-clears-ge-healthcare-ai-powered-cardiovascular-ultrasound-system/",
-      "originalUrl": "https://www.massdevice.com/fda-clears-ge-healthcare-ai-powered-cardiovascular-ultrasound-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.massdevice.com/wp-content/uploads/2019/07/GE-Healthcare-logo.png",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassDevice",
-        "domain": "massdevice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30.md",
-      "title": "Amazon Personalize improvements reduce model training time by up to 40% and latency for generating recommendations by up to 30%",
-      "excerpt": "We’re excited to announce new efficiency improvements for Amazon Personalize. These improvements decrease the time required to train solutions (the machine learning models trained with your data) by up to 40% and reduce the latency for generating real-time recommendations by up to 30%. Amazon Personalize",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/12/2-1-5.jpg",
-          "width": 900,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T09:48:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-spotify-open-sources-klio-a-framework-for-ai-audio-research.md",
-      "title": "Spotify open-sources Klio, a framework for AI audio research",
-      "excerpt": "Over the years, the company has begun to tap natural language processing, audio models, and filtering to serve up recommendations and curate playlists including Discovery Weekly and Release Radar.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/",
-      "originalUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/04/spotify-nyse.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/",
-      "publishedDateTime": "2020-10-13T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-researchers-develop-new-model-of-the-brains-real-life-neural-networks.md",
-      "title": "Researchers develop new model of the brain's real-life neural networks",
-      "excerpt": "Physical Systems Group at the USC Viterbi School of Engineering, in conjunction with the University of Illinois at Urbana-Champaign, have developed a new model of how information deep in the brain could flow from one network to another and how these neuronal network clusters self-optimize over time.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/8-brain.jpg",
-          "width": 1741,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
-      "publishedDateTime": "2020-10-13T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

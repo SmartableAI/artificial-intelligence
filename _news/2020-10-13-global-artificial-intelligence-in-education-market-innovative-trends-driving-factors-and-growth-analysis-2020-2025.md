@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving Car Market Share Analysis, Future Growth Insights and Regional Outlook By 2027"
-    excerpt: "Self driving cars are the vehicles that are capable of sensing the environment around and manoeuvring safely with a little or even no human support These vehicles are installed with various sensors such as artificial intelligence AI light detection ranging"
-    publishedDateTime: 2020-10-12T21:45:00Z
-    webUrl: "https://www.openpr.com/news/2156561/self-driving-car-market-share-analysis-future-growth-insights"
-    ampWebUrl: "https://www.openpr.com/amp/2156561/self-driving-car-market-share-analysis-future-growth-insights"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2156561/self-driving-car-market-share-analysis-future-growth-insights"
+  - title: "How Innovative AI Solutions Can Help Combat Global Warming"
+    excerpt: "However, technology alone is not enough. Solutions to big problems such as climate change require an urgent and integrated focus on several key areas."
+    publishedDateTime: 2020-10-14T14:03:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/how-innovative-ai-solutions-can-help-combat-global-warming/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://cdn.openpr.com/T/a/Ta12516223_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f860440de0526febe29e364%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "1QE6vCd68XHv8TsBGwT9nfL3gCTJS+KwzDhg2wTqgN/DlB0cObLIor+p0pBd9TY6P8wX0zc2oQwk1jktHAPXrx7rsAirnhvdrY9UsuW2OfUJAlujxqAavZNwy1tFYsb+/xOdqe+PzdM15iE2QPi3/CuWgW0UCloQtvwvQKmIXsWDlSoQAKAkIy69ZTJ1V3715hx9UQKA64gy0a5QbdZPQxs2+gy82QGOzYMrGR6/G00XprICEgo2lrHpso1yer9wkoXtAFZA/XjFWk91YZfivcgP9ljvJ7Wca1zGSWrdfN4Tr3Wi+SyDyk7NVbn08/YrbnTHsnHP1qsnNT4AjOaqgNyes49e+agw9Wz25dOhxRo=;ilVFRyv8Fo1+5HSQtLdZIQ=="

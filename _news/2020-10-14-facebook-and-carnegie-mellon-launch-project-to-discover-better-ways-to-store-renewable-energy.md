@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-laun
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/amp/"
 type: article
 quality: 63
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,68 @@ images:
     height: 700
     isCached: true
 
-secured: "Nh+l2GWPYKWtGRo6qRExQT0Wb0jlP4chq1VVq9X7NiOk7OVJ88nmOIX9yYvi47oPa23b7aCpv6v5zw0b89Qif753VRCeyb1BG3Mfaf1T7jtwJ1xF+4UN5anXc3RSTvnpiVck4xnZwYNByPQ6VYWe1vT8okCm1vt8wS3EY7uwTAiuswYVRZjRE2rCg7LZNrmTtqWd7z+9i4V0YzAi5Qc0ePJvz4UEdJ2BBApo6oAUgg5hw0PU+Rjoi+YNK6bzWGD6I1ZfBVpiqD8JbRNT/mYfT0nxKNh9uZjx/Np20iDgr0z4ftFA/Sun4EOfGRUfxzQ5aKuZPq/fOxzGuIUBS4x03g068IqzGujn47D0nNxaoMQ=;myiMo6hbR01ReFdBqlgHYA=="
+related:
+  - title: "Facebook deploys its AI to find green energy storage solutions"
+    excerpt: "One alternative is putting that excess power to work driving catalytic reactions. “There are a lot of different ways that we can store the energy,” Zack Ulissi, CMU Assistant Professor of Chemical Engineering and Materials Science and Engineering,"
+    publishedDateTime: 2020-10-14T13:41:00Z
+    webUrl: "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    ampWebUrl: "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F64625200-0d97-11eb-b2ff-474c419ab255&client=amp-blogside-v2&signature=44deace43d9002073d11fa617625620dd03d9831"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "AI in Fashion Market is set to see Revolutionary growth in decade | Microsoft, IBM, Google, AWS, SAP, Facebook"
+    excerpt: "Latest released the research study on Global AI in Fashion Market offers a detailed overview of the factors influencing the global business scope AI in Fashion Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2020-10-13T20:36:00Z
+    webUrl: "https://www.openpr.com/news/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
+    ampWebUrl: "https://www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 73
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta13288706_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Facebook’s Open Catalyst Project uses AI to find new ways to store renewable energy"
+    excerpt: "The idea is to discover new “electrocatalysts” that can provide a more efficient and scalable method of storing and using renewable energy. Facebook AI research scientist Larry Zitnick said in a blog post the project aims to tackle the intermittent nature of renewable energy sources such as wind and solar energy."
+    publishedDateTime: 2020-10-14T13:46:00Z
+    webUrl: "https://siliconangle.com/2020/10/14/facebooks-open-catalyst-project-using-ai-discover-new-ways-store-renewable-energy/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/windrader-1048981_1280.jpg"
+        width: 1280
+        height: 809
+        isCached: true
+  - title: "Facebook changes course to ban Holocaust denial"
+    excerpt: "In a major departure from Mark Zuckerberg’s past approach to Holocaust denial on Facebook, the company said Monday that it would ban such content and make related changes in the coming weeks. — FCC slot,"
+    publishedDateTime: 2020-10-13T14:08:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/13/facebook-changes-course-to-ban-holocaust-denial-790938"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 24
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+
+secured: "xnXijFSdYyHb7a/5Bz6d4kxOOi4qupjKFdQedcpoXJxa1uMTKr7t//EogIRD81hbq1qHFtnbuf9AEDJHAVcS6jFAG4K2FyCXXa7T6PQy8lEvscqC6n0t/ZE4k24MO5tEvUc2iGLbO+MAHu90OobNHD9nnNYA5jGh/zmIeVTPyfhW+g2MKxh9V03cnXSDwdESHyTWNhKlPPTW3kYKkzYsywYpRV74kV4iuuRBZQIcTBggPR9DAdpOC5hr2fwD+aTYSdoMbzKvv9AlqUFUCUNWmDJ7Y063FIjcA8be+c5dGc8sWzNaf4/Dklq0XA1UInkgcqR+58wJufnU26/gSfBkS89mEaNGOdhHBlXbjZwICDmwYYG+6a3yix2A3wqPEzd2t50asxR8RZPgl3uGVL+Q1aXMwek0gCh2f1Wpm/te99m/SegiD6Ph9m8hL0CLhDSqgAhb4nZoNwAolPxjhwkH8yYmV+NwwgEBoAcqUHuTw12MlYI/wJTyNG2Xp0h+n6Xe2Yw3mzXBA5FtvBl4wcc4FA==;p0NkuIaPht7iQkmMyanV3g=="
 ---
 

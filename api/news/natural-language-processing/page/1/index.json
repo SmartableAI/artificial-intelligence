@@ -107,6 +107,51 @@
       ]
     },
     {
+      "path": "_news/2020-10-13-global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities.md",
+      "title": "Global Artificial Intelligence Market (2020 to 2026) - Bringing AI to Edge Devices Presents Opportunities",
+      "excerpt": "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-can-facial-recognition-tech-boost-asias-biometric-acceptance.md",
       "title": "Can facial recognition tech boost Asia’s biometric acceptance?",
       "excerpt": "Biometric facial recognition technology is becoming increasingly accepted, including in Southeast Asia where it has shown potential.",
@@ -1321,58 +1366,6 @@
         "name": "Windows",
         "domain": "compsmag.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-ai-system-detects-loneliness-in-natural-speech-patterns.md",
-      "title": "AI system detects loneliness in natural speech patterns",
-      "excerpt": "A new proof of concept study, led by researchers at University of California San Diego School of Medicine, has demonstrated how speech-analyzing artificial intelligence tools can effectively predict the level of loneliness in older adults.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
-      "originalUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/78f4ee9/2147483647/strip/true/crop/2000x1333+0+4/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc1%2F6c%2F6dec48c041d6aa9d714bfb5dfa8a%2Fdepositphotos-59728757-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
-      "publishedDateTime": "2020-09-24T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,342 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-09-16-over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools.md",
+      "title": "Over 1,000 parents sign open letter protesting facial recognition in schools",
+      "excerpt": "More than 1,000 parents from all 50 U.S. states signed an open letter advocating for a ban on facial recognition in schools.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/",
+      "originalUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/amp/",
+      "publishedDateTime": "2020-09-16T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-life-academy-promotes-ethical-ways-ai-can-with-help-food-security.md",
+      "title": "Life academy promotes ethical ways AI can with help food security",
+      "excerpt": "As part of its ongoing collaboration with two of the world's leading developers of AI software, the Pontifical Academy for Life will launch a new joint project looking at ethical ways artificial intelligence can be used to guarantee food security.",
+      "sourceUrl": null,
+      "webUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
+      "originalUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cruxnow.com/wp-content/uploads/2020/09/cyber-4062449_1280.jpg",
+          "width": 1280,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/amp/",
+      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/amp/",
+      "publishedDateTime": "2020-09-16T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crux",
+        "domain": "cruxnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-uber-backup-driver-charged-in-fatal-2018-self-driving-car-crash.md",
+      "title": "Uber backup driver charged in fatal 2018 self-driving car crash",
+      "excerpt": "The backup safety driver who was behind the wheel when one of Uber’s self-driving cars struck and killed a pedestrian in 2018 has been charged with negligent homicide, the New York Times reports. Rafaela Vasquez,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
+      "originalUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 344,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/Bjdq9rwdqqGu0imAP6-L8aQZTe4=/0x0:1434x790/1400x933/filters:focal(603x281:831x509):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67414250/uber_tempe_2.0.png",
+          "width": 1400,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
+      "publishedDateTime": "2020-09-16T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-trial-backs-lillys-olumiant-plus-remdesivir-as-combo-covid-19-therapy.md",
+      "title": "Trial backs Lilly’s Olumiant plus remdesivir as combo COVID-19 therapy",
+      "excerpt": "Eli Lilly says rheumatoid arthritis drug Olumiant helps speed COVID-19 recovery when added to Gilead's remdesivir by around 1 day. Will discuss emergency use with FDA",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/news/trial-backs-lillys-olumiant-plus-remdesivir-as-combo-covid-19-therapy/",
+      "originalUrl": "https://pharmaphorum.com/news/trial-backs-lillys-olumiant-plus-remdesivir-as-combo-covid-19-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/wp-content/uploads/2016/06/LillYLOGO.jpg",
+          "width": 1800,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum.com",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-baidu-apollo-head-says-technical-issues-and-high-costs-likely-to-delay-full-roll-out-of-robotaxis-until-2025.md",
+      "title": "Baidu Apollo head says technical issues and high costs likely to delay full roll-out of robotaxis until 2025",
+      "excerpt": "At the Baidu World event, the company also unveiled a fully-autonomous driving vehicle without a safety driver in a live demonstration, where a remote control was used, connected",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/16/d3e3d840-f7dc-11ea-a41c-8cbd1416100a_image_hires_151856.JPG?itok=T_fg0rL_&v=1600240743",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
+      "publishedDateTime": "2020-09-16T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025.md",
+      "title": "Computer Vision Market In-deep Analysis And Experts Review Report 2020-2025",
+      "excerpt": "The report titled \"Computer Vision Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-inside-politics-dominic-raab-goes-to-washington-to-explain-brexit-bill.md",
+      "title": "Inside Politics: Dominic Raab goes to Washington to explain Brexit bill",
+      "excerpt": "The foreign secretary wants to reassure US politicians they have nothing to worry about when it comes to Britain’s minor foray into international law-breaking, writes Adam Forrest",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/brexit-dominic-raab-us-washington-pelosi-pompeo-trade-deal-b450849.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-the-clippers-fell-short-of-an-nba-title-but-doc-rivers-still-showed-the-way.md",
       "title": "The Clippers fell short of an NBA title, but Doc Rivers still showed the way",
       "excerpt": "As the LA Clippers head out of the NBA bubble stunned and disappointed after being eliminated by the Denver Nuggets in Game 7 of their",
@@ -833,340 +1169,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-get-this-deep-learning-data-analysis-certification-bundle-for-only-3999.md",
-      "title": "Get this Deep Learning & Data Analysis Certification Bundle for only $39.99",
-      "excerpt": "Deep Learning Statistics & Machine Learning For Regression Modeling With R Learn Hands-On Regression Analysis for Practical Statistical Modeling & Machine Learning in R Master PyTorch For ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999",
-      "originalUrl": "https://www.neowin.net/news/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2016/11/1478080627_deep_learning_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999/",
-      "publishedDateTime": "2020-09-15T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-challenges-of-dods-ethical-principles-for-ai.md",
-      "title": "Challenges of DoD’s Ethical Principles for AI",
-      "excerpt": "The development and publication of the DoD principles and actions it has taken since demonstrate that DoD is taking this seriously.",
-      "sourceUrl": null,
-      "webUrl": "https://federalnewsnetwork.com/commentary/2020/09/ethical-challenges-of-dods-ethical-principles-for-ai/",
-      "originalUrl": "https://federalnewsnetwork.com/commentary/2020/09/ethical-challenges-of-dods-ethical-principles-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://federalnewsnetwork.com/wp-content/uploads/2020/04/AI-featured-gif.png",
-          "width": 435,
-          "height": 290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://federalnewsnetwork.com/commentary/2020/09/ethical-challenges-of-dods-ethical-principles-for-ai/amp/",
-      "cdnAmpWebUrl": "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/commentary/2020/09/ethical-challenges-of-dods-ethical-principles-for-ai/amp/",
-      "publishedDateTime": "2020-09-15T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "federalnewsnetwork.com",
-        "domain": "federalnewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans.md",
-      "title": "Harvard researchers developed an AI to determine how medical treatments affect life spans",
-      "excerpt": "It was created by researchers from Harvard Medical School’s Sinclair Lab, who say it’s the first study to track a mouse’s frailty for the duration of its life. They plan to use the predictions to quickly test interventions intended to extend the mice’s lives and move towards doing the same in humans.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-15T163117.825-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/amp/",
-      "publishedDateTime": "2020-09-15T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-ottonomy-io-and-snapdeal-conduct-last-mile-deliveries-using-autonomous-robotic-vehicles.md",
-      "title": "Ottonomy IO and Snapdeal conduct last-mile deliveries using autonomous robotic vehicles",
-      "excerpt": "Developed by Ottonomy IO for last-mile and local shipments, the delivery robots can run along sidewalks and local streets autonomously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
-      "originalUrl": "https://www.indiatoday.in/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/Snapdeal_Ottonomy_1-647x363.jpeg?N8ZyGJDkFdGpML9aacdA3tvg1tTyQHvK",
-          "width": 647,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
-      "publishedDateTime": "2020-09-15T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-latent-ai-makes-edge-ai-workloads-more-efficient.md",
-      "title": "Latent AI makes edge AI workloads more efficient",
-      "excerpt": "Latent AI, a startup that was spun out of SRI International, makes it easier to run AI workloads at the edge by dynamically managing workloads as necessary. Using its proprietary compression and compilation process,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/",
-      "originalUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1222958278.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/amp/",
-      "publishedDateTime": "2020-09-15T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month.md",
-      "title": "Apple unveils its super fast five nanometer A14 chip, shipping in the new iPad Air next month",
-      "excerpt": "No iPhone 12 announced today, but Apple unveiled a new chip that will power the next generation of its hardware (including that phone whenever it’s launched). The A14 Bionic, which will ship first with the new iPad Air,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
-      "originalUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-15-at-1.54.30-PM-2.png?w=680",
-          "width": 680,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
-      "publishedDateTime": "2020-09-15T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts.md",
-      "title": "JPMorgan and BlackRock tap AI startup to automate opening custody accounts",
-      "excerpt": "JPMorgan Chase & Co and BlackRock Inc have teamed up with artificial intelligence (AI) technology startup Saphyre to automate the opening of custody accounts, the companies said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre-idUSKBN26624L",
-      "originalUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre-idUSKBN26624L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26624L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26624L",
-      "publishedDateTime": "2020-09-15T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI dataset startup Dataloop lands $11M funding round"
+    excerpt: "Dataloop Ltd., a Tel Aviv-based startup that helps companies create training datasets for their machine learning projects, today announced that it has closed a $11 million funding round led by Amiti Ventures."
+    publishedDateTime: 2020-10-14T14:04:00Z
+    webUrl: "https://siliconangle.com/2020/10/14/ai-dataset-startup-dataloop-lands-11m-funding-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/dataloop.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "RBC Capital Markets launches Aiden® - a new AI-powered electronic trading platform"
     excerpt: "RBC Capital Markets today announced the launch of Aiden®, an AI-based electronic trading platform that uses the computational power of deep reinforcement learning in its pursuit of improved trading results and insights for clients."
     publishedDateTime: 2020-10-14T12:00:00Z

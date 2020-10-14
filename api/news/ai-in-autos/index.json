@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-14-on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem.md",
+      "title": "On The Hit-And-Maybe-Run Self-Driving Car Dilemma (Akin To ‘The Molly Problem’)",
+      "excerpt": "AI Ethics and the self-driving car hit-and-maybe-run dilemma. getty. Please prepare yourself for a driving scenario that we all dread and profusely hope will never occur. Wham, wh",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/14/on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/14/on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f867f6d004ee7742e9545b4%2F0x0.jpg%3FcropX1%3D191%26cropX2%3D4608%26cropY1%3D395%26cropY2%3D2879",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/14/on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/14/on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem/amp/",
+      "publishedDateTime": "2020-10-14T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-google-launches-autonomous-robot-to-analyse-farms-with-artificial-intelligence.md",
+      "title": "Google launches autonomous robot to analyse farms with artificial intelligence",
+      "excerpt": "Google has launched an autonomous robot which uses artificial intelligence to monitor crops. Powered by solar panels, the buggy travels through crops using cameras and sensors to predict agricultural yields and help farmers decide how much pesticide and fertiliser to use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/",
+      "originalUrl": "https://www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/environment/2020/10/14/alphabet_trans_NvBQzQNjv4BqEo7ukXPj3dSVEb29e9SgAAI0OcPg6ShMBBRXr6oDkZQ.jpg",
+          "width": 701,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-10-14T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-optimizing-the-cost-of-training-aws-deepracer-reinforcement-learning-models.md",
       "title": "Optimizing the cost of training AWS DeepRacer reinforcement learning models",
       "excerpt": "AWS DeepRacer&nbsp;is a cloud-based 3D racing simulator, an autonomous 1/18th scale race car driven by&nbsp;reinforcement learning, and a global racing league. Reinforcement learning (RL), an advanced&nbsp;machine learning&nbsp;(ML) technique, enables models to learn complex behaviors without labeled",
@@ -639,21 +735,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
-      "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
-      "excerpt": "For details about Maxim Integrated's Artificial Intelligence solutions, visit http://bit.ly/Maxim_AI To order MAX78000 or learn more, visit http://bit.ly/MAX78000 ...",
+      "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
       "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772",
+      "webUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -661,14 +757,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T07:00:00-07:00",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2020-10-07T06:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -678,9 +783,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
@@ -1332,101 +1435,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle.md",
-      "title": "Uber Safety Driver Charged In First Death Caused By 'Self-Driving' Vehicle",
-      "excerpt": "On Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona. For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle",
-      "originalUrl": "https://www.vice.com/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f636781e2069b0095ed22d7/lede/1600350374335-gettyimages-609845734.jpeg?crop=1xw:0.8588xh;0xw,0.1412xh",
-          "width": 4200,
-          "height": 2359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle",
-      "publishedDateTime": "2020-09-29T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-bjarke-ingels-group-plans-ai-city-in-china-to-advance-future-of-artificial-intelligence.md",
-      "title": "bjarke ingels group plans AI CITY in china to advance future of artificial intelligence",
-      "excerpt": "BIG AI CITY seeks to provide terminus, and the world’s leading tech companies, with a place to advance the future of artificial intelligence and robotics, and build the foundations of a new sustainable development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0",
-      "originalUrl": "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2020/09/bjarke-ingels-group-BIG-AI-city-terminus-group-chongqing-china-designboom-Fb.jpg",
-          "width": 1000,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Designboom",
-        "domain": "designboom.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

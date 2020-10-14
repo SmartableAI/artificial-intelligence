@@ -33,6 +33,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Artificial Intelligence Market by Technology, Hardware, End-user Industry, and Region - Global Forecast to 2026 - ResearchAndMarkets.com"
+    excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-10-14T14:24:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-malware-industrial-technology-9e6b83acdad64ac4a73f34ac0d7689c1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "uxlkiaUlHg2l8IdTrJAt/8kUw0+sqe31Ts4ZUwA9iW19ZUyt3FA/EMoM9qCVSRL6CquY/AI7EgosCJMX8aGjokRK7G3NJNzFWlhIyDuHuG8p8df35u5I3qUaepBWggt9ZPM/7LN1+fcB1tLNl8Xn50T8Xk2BKs9stdLQJXenP1pLP1YVP8Ra8Djcoqwf9Ltd9rHTHz5uNKXThEvVGqAJbxcE/dfkUDtxykFe4oGZjrSI2cHtWCOrOM2YFWzWlHZz8ia2qZjM9vtbf2VicRXjLMquY90233elatsauKrklpFRbiCVIJrghEy11osrsxApLTT/AjCROAXOZw9yuirfBqxmOANOfSFMECDuu+8h1HE=;TvAXLqmUiWH70CTAbKySOg=="
 ---

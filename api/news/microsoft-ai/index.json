@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-14-ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade-microsoft-ibm-google-aws-sap-facebook.md",
-      "title": "AI in Fashion Market is set to see Revolutionary growth in decade | Microsoft, IBM, Google, AWS, SAP, Facebook",
-      "excerpt": "Latest released the research study on Global AI in Fashion Market offers a detailed overview of the factors influencing the global business scope AI in Fashion Market research report shows the latest market insights current situation analysis with upcoming trends",
+      "path": "_news/2020-10-14-azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration.md",
+      "title": "Azure Data Explorer gets new engine, numerous enhancements and Synapse integration",
+      "excerpt": "Microsoft is taking Azure Data Explorer (ADX), a hidden gem in its cloud platform, and trotting it out to join the Azure analytics mainstream. Performance gains and numerous integrations should make ADX's heretofore latent value much more apparent and beneficial,",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade",
-      "originalUrl": "https://www.openpr.com/news/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade",
+      "webUrl": "https://www.zdnet.com/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
+      "originalUrl": "https://www.zdnet.com/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.openpr.com/T/a/Ta13288706_g.jpg",
-          "width": 800,
-          "height": 533,
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/14/8f1d0a74-ad46-4527-b056-747840964fa8/3.png",
+          "width": 999,
+          "height": 513,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade",
-      "publishedDateTime": "2020-10-13T13:36:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
+      "publishedDateTime": "2020-10-14T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,10 +49,103 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-whats-that-microsofts-latest-breakthrough-now-in-azure-ai-describes-images-as-well-as-people-do.md",
+      "title": "What’s that? Microsoft’s latest breakthrough, now in Azure AI, describes images as well as people do",
+      "excerpt": "The post What’s that? Microsoft’s latest breakthrough, now in Azure AI, describes images as well as people do appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/azure-image-captioning/",
+      "originalUrl": "https://blogs.microsoft.com/ai/azure-image-captioning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/sb10068701p-001_1200x630-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T07:59:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
-        "AWS AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature.md",
+      "title": "Tisane Labs' Solutions on Microsoft Azure Add Wikidata Extraction Feature",
+      "excerpt": "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft Azure Marketplace and AppSource. With the new feature, Tisane API now allows tagging and extraction of Wikidata entities,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775",
+      "publishedDateTime": "2020-10-13T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -88,60 +190,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs.md",
-      "title": "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs",
-      "excerpt": "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/06/28/1491d2a1-5b91-4521-a753-791b9f03ed42/resize/1200x/0a58b39878159fc665d3cd9d948840c6/istock-873015278.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
-      "publishedDateTime": "2020-10-12T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1365,58 +1413,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-how-microsoft-flight-simulator-became-a-living-game-with-azure-ai.md",
-      "title": "How 'Microsoft Flight Simulator' became a 'living game' with Azure AI",
-      "excerpt": "Flight Simulator is a triumph, one that fully captures the meditative experience of soaring through the clouds. But to bring the game to life,  and developer As",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api",
-      "originalUrl": "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F92036cb1-ff61-11ea-bf3e-731546a38c60&client=amp-blogside-v2&signature=ffe8a2b4c0f922e4dd987dfb384f0ddaa42ed397",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "What’s that? Microsoft’s latest breakthrough, now in Azure AI, describes images as well as people do"
+    excerpt: "The post What’s that? Microsoft’s latest breakthrough, now in Azure AI, describes images as well as people do appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-10-14T14:59:46Z
+    webUrl: "https://blogs.microsoft.com/ai/azure-image-captioning/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/sb10068701p-001_1200x630-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs"
     excerpt: "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ..."
     publishedDateTime: 2020-10-12T20:03:00Z
@@ -44,6 +58,22 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2018/06/28/1491d2a1-5b91-4521-a753-791b9f03ed42/resize/1200x/0a58b39878159fc665d3cd9d948840c6/istock-873015278.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Microsoft’s new image-captioning AI will help accessibility in Word, Outlook, and beyond"
+    excerpt: "Microsoft does not disclose user numbers for Seeing AI, but Eric Boyd, corporate vice president of Azure AI, told The Verge the software is “one of the leading apps for people who are blind or have low vision.” Seeing AI has been voted best app or best ..."
+    publishedDateTime: 2020-10-14T15:03:00Z
+    webUrl: "https://www.theverge.com/2020/10/14/21514405/image-captioning-seeing-ai-microsoft-algorithm-word-powerpoint-outlook"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/14/21514405/image-captioning-seeing-ai-microsoft-algorithm-word-powerpoint-outlook"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/14/21514405/image-captioning-seeing-ai-microsoft-algorithm-word-powerpoint-outlook"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 95
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/YnhU1HLrhZhr5au0U7NOXnGX9Cg=/0x0:1536x1024/1400x933/filters:focal(646x390:890x634):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67630053/Netherlands_Florian_Beijers_792A5956_1536x1024.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Microsoft partners chip maker Arm to boost AI innovation for IoT devices"
     excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
@@ -76,20 +106,6 @@ related:
       - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Microsoftpng1572886233736png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
-        isCached: true
-  - title: "Microsoft Touts Arm Partnership on Edge Devices and Azure Tools"
-    excerpt: "Microsoft and Arm are collaborating on Azure developer tools for 'intelligent edge devices' that use artificial intelligence, per a Thursday announcement."
-    publishedDateTime: 2020-10-09T22:36:00Z
-    webUrl: "https://rcpmag.com/articles/2020/10/09/microsoft-and-arm-edge-device-partnership.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 54
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/1216vrm_CrankyAdmin_Image1.jpg"
-        width: 647
-        height: 450
         isCached: true
 
 secured: "UcKMTfF0oFmY1lD+7TwY6//0yxW7/yuoQ5paladXhGgRJoIf9Q4inmHm5cDeaA218/zrs7aWwDryrqF3L6cL9oPvuDmTZ6gYq7FoqwK2dtxo+OD4r3UdiM4m1BVizGrSCPGxK7HGsrqybc+H/9P0tcuQ8Ra/siyk3AZsPclfn2sCK/P5SWyLLderPVGtR8v/IGb5Sng5dMTOoKb8HlJEbU44wxgo7hQfLfBKfcbihTe8jX4rogY4Usox6eXJGznnmzQ1kM2EXIHymbEvtWqeJpN5EyvDazChycJGqWGSNkZ1+5Ej09/7iYxZtx0R9pQFW9j5KVu3++xUVD11JhfVpHXDEjBtDJjaCftWK4Mk4jQ=;4bTFHJ25ZJ8S12fm81TbvA=="

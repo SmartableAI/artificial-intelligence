@@ -2,6 +2,352 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-12-study-reveals-big-regional-divides-in-views-on-ai-risks.md",
+      "title": "Study reveals big regional divides in views on AI risks",
+      "excerpt": "New research on opinions about using AI in decision-making suggests concerns are highest in Latin America and the Caribbean and lowest in East Asia.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/12/study-reveals-big-regional-divides-in-views-on-ai-risks/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/12/study-reveals-big-regional-divides-in-views-on-ai-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-12T164927.997-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/12/study-reveals-big-regional-divides-in-views-on-ai-risks/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/12/study-reveals-big-regional-divides-in-views-on-ai-risks/amp/",
+      "publishedDateTime": "2020-10-12T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-caterpillar-bets-on-self-driving-machines-impervious-to-pandemics.md",
+      "title": "Caterpillar bets on self-driving machines impervious to pandemics",
+      "excerpt": "How can a company like Caterpillar <CAT.N> try to counter a slump in sales of bulldozers and trucks during a pandemic that has made every human a potential disease vector?",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-caterpillar-services-technology-focus-idUSKBN26X1ET",
+      "originalUrl": "https://www.reuters.com/article/us-caterpillar-services-technology-focus-idUSKBN26X1ET",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537123187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B0S1",
+          "width": 807,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26X1ET",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X1ET",
+      "publishedDateTime": "2020-10-12T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-adobe-puts-artificial-intelligence-tools-into-its-marketing-software.md",
+      "title": "Adobe puts artificial intelligence tools into its marketing software",
+      "excerpt": "Adobe Inc <ADBE.O> said on Monday that it has put a new set of artificial intelligence tools into its digital marketing software with the aim of helping companies sharpen their marketing campaigns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-adobe-ai-idUSKBN26X24O",
+      "originalUrl": "https://www.reuters.com/article/us-adobe-ai-idUSKBN26X24O",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537156171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B19R",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26X24O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X24O",
+      "publishedDateTime": "2020-10-12T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030.md",
+      "title": "South Korea targets to develop 50 Artificial Intelligence chips by 2030",
+      "excerpt": "South Korea aims to develop up to 50 types of artificial intelligence-focused system semiconductors by 2030, the ICT ministry said Monday, as the country strives to take",
+      "sourceUrl": null,
+      "webUrl": "https://english.madhyamam.com/technology/south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030-584315",
+      "originalUrl": "https://english.madhyamam.com/technology/south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030-584315",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.madhyamam.com/h-upload/2020/10/12/500x300_716622-fb-photo.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.madhyamam.com/amp/technology/south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030-584315",
+      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030-584315",
+      "publishedDateTime": "2020-10-12T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madhyamam",
+        "domain": "madhyamam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-in-singapore-facial-recognition-is-getting-woven-into-everyday-life.md",
+      "title": "In Singapore, facial recognition is getting woven into everyday life",
+      "excerpt": "Citizens of the island state will soon use their face to sign in to pay taxes and access over 400 digital services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/singapore-facial-recognition-getting-woven-everyday-life-n1242945",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/singapore-facial-recognition-getting-woven-everyday-life-n1242945",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_39/3414967/200925-singapore-face-recognition-al-1030_8d8fed63df4768948a8bd02b8f9dfc21.jpg",
+          "width": 2500,
+          "height": 1407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242945",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242945",
+      "publishedDateTime": "2020-10-12T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble.md",
+      "title": "Hidden Factor Steering For Trouble In Latest Elon Musk Versus Waymo Self-Driving Cars Squabble",
+      "excerpt": "Latest spat of Elon Musk and Waymo highlights steering for troubles in self-driving. getty. There is an elephant in the room, but it seems as though nobody is noticing it. In the",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8393a16e24fdc40c0501f3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3685%26cropY1%3D1078%26cropY2%3D3843",
+          "width": 1199,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/",
+      "publishedDateTime": "2020-10-12T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als.md",
+      "title": "Microsoft partners with Team Gleason to build a computer vision dataset for ALS",
+      "excerpt": "The organizations hope to foster innovation in computer vision and broaden the potential for connectivity and communication for people with accessibility challenges. Microsoft and Team Gleason ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/",
+      "originalUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/microsoft-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/",
+      "publishedDateTime": "2020-10-12T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai.md",
       "title": "Snapdocs raises $60 million to expedite mortgage processing with AI",
       "excerpt": "Snapdocs’ AI algorithms identify which pages can be electronically signed and which require ink, after which they detect where electronic signature tags are needed and apply metadata that ...",
@@ -724,49 +1070,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-12-government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.md",
-      "title": "Government signs deal allowing local businesses access to facial recognition technology",
-      "excerpt": "The Government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.html",
-      "originalUrl": "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology/_jcr_content/par/image.dynimg.768.q75.jpg/v1602452244144/GETTY-face-recognition-technology-stock-pic-1120.jpg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.amp.html",
-      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.amp.html",
-      "publishedDateTime": "2020-10-11T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newshub",
-        "domain": "newshub.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-11-best-facial-recognition-security-cameras-to-buy-this-year.md",
       "title": "Best facial recognition security cameras to buy this year",
       "excerpt": "Select home security cameras have facial recognition, an advanced option that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face,",
@@ -921,316 +1224,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-ibm-is-breaking-up-into-two-companies-renewed-focus-on-ai-and-the-cloud.md",
-      "title": "IBM is breaking up into two companies, renewed focus on AI and the cloud",
-      "excerpt": "IBM has announced that it will be splitting the company into two in order to increase its revenue margins. According to a statement issued by CEO",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87053-ibm-set-launch-new-cloud-computing-company-end.html",
-      "originalUrl": "https://www.techspot.com/news/87053-ibm-set-launch-new-cloud-computing-company-end.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-09-image-29.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87053-ibm-set-launch-new-cloud-computing-company-end.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87053-ibm-set-launch-new-cloud-computing-company-end.html",
-      "publishedDateTime": "2020-10-10T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-rights-group-criticizes-buenos-aires-for-using-face-recognition-tech-on-kids.md",
-      "title": "Rights group criticizes Buenos Aires for using face recognition tech on kids",
-      "excerpt": "Human Rights Watch wants the city of Buenos Aires to stop using live facial recognition to identify children accused of committing crimes, the rights group said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-argentina-rights/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids-idUKKBN26U208",
-      "originalUrl": "https://www.reuters.com/article/uk-argentina-rights/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids-idUKKBN26U208",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536893280&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98188",
-          "width": 814,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN26U23Z",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26U23Z",
-      "publishedDateTime": "2020-10-09T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-experts-urge-vigilance-over-ai-data-security.md",
-      "title": "Experts Urge Vigilance Over AI Data Security",
-      "excerpt": "The expanded use of artificial intelligence in nearly all areas of business means companies must pay more attention to the integrity and security of the data used to train algorithms, a panel of security and AI experts said earlier this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-security-11602272062",
-      "originalUrl": "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-security-11602272062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-242976/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-facebooks-ai-flags-onion-photo-as-overtly-sexual.md",
-      "title": "Facebook's AI Flags Onion Photo as 'Overtly Sexual'",
-      "excerpt": "A Canadian seed company that posted a photo featuring a pile of onions was notified by Facebook that 'listings may not position products or services in a sexually suggestive manner.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual",
-      "originalUrl": "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/030jVR79RwEptik80LTAPr9-1.1602278178.fit_lim.size_1200x630.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true",
-      "publishedDateTime": "2020-10-09T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls.md",
-      "title": "AI Weekly: Nvidia’s Maxine opens the door to deepfakes and bias in video calls",
-      "excerpt": "Will AI power video chats of the future? That’s what Nvidia implied this week with the unveiling of Maxine, a platform that provides developers with a suite of GPU-accelerated AI conferencing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/",
-      "originalUrl": "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/NVIDIA-Maxine-Streaming-Video-AI-Platform-GTC-e1601673784391.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/",
-      "publishedDateTime": "2020-10-09T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic.md",
-      "title": "Adorable red self-driving robot delivering mail in Japan during pandemic",
-      "excerpt": "A Japan Post mail delivery robot debuts in Tokyo, and is being tested to keep human interaction to a minimum during the coronavirus crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
-      "originalUrl": "https://www.cnet.com/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/2ZG9ZsmU2Kgz845wDeGvuVSdlDA=/2020/10/09/650978af-dde5-4803-8185-35f85a7ef12c/japanpostrobot1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
-      "publishedDateTime": "2020-10-09T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

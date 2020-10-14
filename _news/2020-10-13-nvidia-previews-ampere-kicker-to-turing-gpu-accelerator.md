@@ -38,6 +38,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
+  - title: "Dell Technologies, NVIDIA further ties to launch smarter GPU acceleration platforms"
+    excerpt: "Dell Technologies & NVIDIA have built their relationship to bring smarter GPU acceleration platforms, as a part of the Dell EMC PowerEdge server family."
+    publishedDateTime: 2020-10-14T15:08:00Z
+    webUrl: "https://www.voicendata.com/dell-technologies-nvidia-ties-launch-smarter-gpu-acceleration-platforms/"
+    ampWebUrl: "https://www.voicendata.com/dell-technologies-nvidia-ties-launch-smarter-gpu-acceleration-platforms/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/dell-technologies-nvidia-ties-launch-smarter-gpu-acceleration-platforms/amp/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 53
+    images:
+      - url: "https://www.voicendata.com/wp-content/uploads/2020/10/Dell-EMC-PowerEdge-server.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "T57CTm2jmUxI8qvXCAX4ttWsMdAHwqcrd1X5vSvbNmDTHtMUzlqEAf2lytkkptlDwyONi6GGu+N2Jh1+PkI4dkF54c5CqpyEY1V9UH1GRDxF755JS5sU58Wf5mUTyJtyj26yMpgefdrbKdpY2mU5OTa0ptGvl67AsVpXjqYDi19UGFlb0XOu0BR8SUK2HkzkbP45+4LAseLGHnzl3dr+IhOHs/qedLfYMZN9h4NT3vefALlpAyTwY9Al+S2eUe9r/uNHBz8n1QHSvdWs+5s0my+lcf1ZI4zCfmo2k129sX55zVBAfcGFIKz0ixaaD4RW2YAs6aRJC8jJyVJt3VWkywx6+BXg3kmrm4StMb8puh/lg08MgaT061s9hnuve1nOwlwfu5cIFGtig5iC6ofpChuXTkRCgmkGWAzefQ1ijimphLAIJySqR+PzBHmKQptmQcxNDNbu1QhWFwfg87+yJgtaI9ify0eXCJNuTG+EHWySSLX3XokofoVj2GlOMXTHerGmwxujOWZlb9zqpfuyEw==;L5KsXJU621eBWWUGZ8EceQ=="
 ---

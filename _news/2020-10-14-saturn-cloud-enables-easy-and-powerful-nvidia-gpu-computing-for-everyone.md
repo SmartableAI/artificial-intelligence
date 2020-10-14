@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/saturn-cloud-enables-ea
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-a40-logo.jpg"
         width: 812
         height: 514
+        isCached: true
+  - title: "Dell Technologies, NVIDIA further ties to launch smarter GPU acceleration platforms"
+    excerpt: "Dell Technologies & NVIDIA have built their relationship to bring smarter GPU acceleration platforms, as a part of the Dell EMC PowerEdge server family."
+    publishedDateTime: 2020-10-14T15:08:00Z
+    webUrl: "https://www.voicendata.com/dell-technologies-nvidia-ties-launch-smarter-gpu-acceleration-platforms/"
+    ampWebUrl: "https://www.voicendata.com/dell-technologies-nvidia-ties-launch-smarter-gpu-acceleration-platforms/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/dell-technologies-nvidia-ties-launch-smarter-gpu-acceleration-platforms/amp/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 53
+    images:
+      - url: "https://www.voicendata.com/wp-content/uploads/2020/10/Dell-EMC-PowerEdge-server.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "Cge0I1ojC5SQc9k13zQx9fQ/iS8K28gjCwzMQbzgPhPeFwXbEqeX/BuEedFJXDKqSwXOoC1JqSPlgukNx6bBEhGZdlsQc/j8m0ATPBYICk/j6wyTaJZHaFBMk3edX4iHPcag2m74nGykInQ0aWutqMzhshLwwcshPCUxy68/T2jvz5M6iTV+1SpBooYQY6JZ2RGrgSUuDhPZKtWXBwI/BpmLvXLkbfEAWd/b1bopJa4e3xfVFaqGlkDgZCgKJSRUXTHGg5K38oBFSGRADslZF5dpT+FFHh2EUbJiFM+s+7VU+XYI7P4sLYo6et6NqybIflMB0SZnZV3oeyxUr/TqFdVYpmwcGpEey0XVH1jPIyk=;O5RbNIOT/D4m4MdBgtBHSA=="

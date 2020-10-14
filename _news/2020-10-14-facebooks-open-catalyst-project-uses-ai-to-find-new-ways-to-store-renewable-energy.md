@@ -25,61 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "These 8 tech companies are using AI to improve healthcare, renewable energy, and more"
-    excerpt: "We often see news and headlines about the dark side of AI, its weaponization, and “algorithmic warfare”. A plethora of AI-driven, dystopian paradigms await us in the future, but there is also a bright side!"
-    publishedDateTime: 2020-10-13T22:08:00Z
-    webUrl: "https://techcrunch.com/sponsor/idb-taiwan/these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more/"
+  - title: "Facebook deploys its AI to find green energy storage solutions"
+    excerpt: "One alternative is putting that excess power to work driving catalytic reactions. “There are a lot of different ways that we can store the energy,” Zack Ulissi, CMU Assistant Professor of Chemical Engineering and Materials Science and Engineering,"
+    publishedDateTime: 2020-10-14T13:41:00Z
+    webUrl: "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    ampWebUrl: "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/1024x683_Hero-Image_thingnario.jpg?w=600"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F64625200-0d97-11eb-b2ff-474c419ab255&client=amp-blogside-v2&signature=44deace43d9002073d11fa617625620dd03d9831"
         width: 600
-        height: 400
+        height: 350
         isCached: true
-  - title: "How Is Artificial Intelligence Used In B2B Companies: Here Are Powerful Examples"
-    excerpt: "There’s often a misconception that artificial intelligence (AI) is only applicable to businesses in the B2C space. It's thought that since B2C companies have more customers, they have more data to leverage to make AI impactful."
-    publishedDateTime: 2020-10-11T13:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-used-b2b-companies-here-powerful-marr"
+  - title: "AI in Fashion Market is set to see Revolutionary growth in decade | Microsoft, IBM, Google, AWS, SAP, Facebook"
+    excerpt: "Latest released the research study on Global AI in Fashion Market offers a detailed overview of the factors influencing the global business scope AI in Fashion Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2020-10-13T20:36:00Z
+    webUrl: "https://www.openpr.com/news/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
+    ampWebUrl: "https://www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 34
+      name: openpr.com
+      domain: openpr.com
+    quality: 73
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGQWfYANMb3rw/article-cover_image-shrink_720_1280/0?e=1608163200&v=beta&t=r0-X7ooUKQ0yxEnWb7s7etVufEzuJ1JRIhISgQ2E98s"
-        width: 1280
-        height: 692
+      - url: "https://cdn.openpr.com/T/a/Ta13288706_g.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
-    publishedDateTime: 2020-10-13T10:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
+  - title: "Facebook and Carnegie Mellon launch project to discover better ways to store renewable energy"
+    excerpt: "Facebook today announced a partnership with Carnegie Mellon University on a research project — the Open Catalyst Project — that will leverage AI to accelerate the search for electrocatalysts ..."
+    publishedDateTime: 2020-10-14T13:02:00Z
+    webUrl: "https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/"
+    ampWebUrl: "https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
     images:
-      - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 700
         isCached: true
-  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
-    publishedDateTime: 2020-10-13T17:01:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
+  - title: "Facebook changes course to ban Holocaust denial"
+    excerpt: "In a major departure from Mark Zuckerberg’s past approach to Holocaust denial on Facebook, the company said Monday that it would ban such content and make related changes in the coming weeks. — FCC slot,"
+    publishedDateTime: 2020-10-13T14:08:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/13/facebook-changes-course-to-ban-holocaust-denial-790938"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
+      name: Politico
+      domain: politico.com
+    quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "eEc4iunAKVfmjC+xJleONU6hnyEXP399SK7y+HVT7dsM8nxtSEF56nkJEtyz5fOtoP1yrBY9EWL4ST1MthnNibgpJp1R5X1hr4SWmRA2yipiox0mnlYWCKrzTGyQ6IiyOlv4EB3luKvScbIwkMkdwD3ryEGYg9EIu2sAfMJf5EIGFKTjs6td7iN7R6dSc5ro5vBqUyYSFCYHriWpLE4LuIXPBH6kUbny6PuckzARUGhF5mnFiK1yy2+SeiQQFM6jzJ4pTMy4SARQL8jAEo4spPSTTtufo0sOkQ3pOdrKebKnEVoomG/+/tjQRBW+SqSNQXp0qwpcr2ZjQc6oTHzpzvngJ7358aWyXErqvgmLsew=;CEI1RfWqVoI79Fv0DMUHCg=="

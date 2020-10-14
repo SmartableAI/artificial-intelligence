@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook changes course to ban Holocaust denial"
-    excerpt: "In a major departure from Mark Zuckerberg’s past approach to Holocaust denial on Facebook, the company said Monday that it would ban such content and make related changes in the coming weeks. — FCC slot,"
-    publishedDateTime: 2020-10-13T14:08:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/13/facebook-changes-course-to-ban-holocaust-denial-790938"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 24
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
   - title: "Facebook donates 1mn pound to 'birthplace of computer'"
     excerpt: "Facebook has announced a donation of 1 million pounds ($1.3 million) to Bletchley Park, a heritage attraction and museum that served as the British code-breaking hub during World War Two."
     publishedDateTime: 2020-10-13T15:08:00Z
