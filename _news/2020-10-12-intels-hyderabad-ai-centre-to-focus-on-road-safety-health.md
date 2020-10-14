@@ -9,7 +9,7 @@ ampWebUrl: "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety
 cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.thehindu.com/business/i18ihs/article32837596.ece/ALTERNATES/LANDSCAPE_615/TH13BURAVISHANKARPRASAD"
         width: 615
         height: 384
+        isCached: true
+  - title: "Intel India sharpens focus on human-centric AI"
+    excerpt: "Bengaluru: Intel India is focussing on human-centric artificial intelligence (AI) for solving problems in the healthcare and smart mobility segments, Nivruti Rai, country head, Intel India, said at the ongoing all."
+    publishedDateTime: 2020-10-12T11:14:00Z
+    webUrl: "https://www.livemint.com/companies/news/intel-india-sharpens-focus-on-human-centric-ai-11602499977854.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/intel-india-sharpens-focus-on-human-centric-ai/amp-11602499977854.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/intel-india-sharpens-focus-on-human-centric-ai/amp-11602499977854.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2020/10/12/600x338/Nivruti_Raibloomberg_1565544177175_1602500571810.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Intel, IIIT-Hyderabad, PHFI And Telangana Government Launch Applied Artificial Intelligence Research Center"
     excerpt: "At the inaugural all.ai 2020 Virtual Summit, Intel India in collaboration with the Government of Telangana, International Institute of Information Technology, H"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/9-alzheimers.jpg"
         width: 1280
         height: 988
-        isCached: true
-  - title: "How to Build, Deploy, and Operationalize AI Assistants"
-    excerpt: "While chatbot PoCs are simple, building production-grade conversational software is challenging. Enterprises experience challenges in production systems that have large user bases, security mandates,"
-    publishedDateTime: 2020-10-09T12:15:00Z
-    webUrl: "https://www.infoq.com/articles/build-deploy-ai-assistants/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 43
-    images:
-      - url: "https://res.infoq.com/articles/build-deploy-ai-assistants/en/headerimage/croppted-build-deploy-ai-assistants-1602098758941.jpeg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "The Next Level of Alt Data"
     excerpt: "New sources of information continue to be revealed by technological innovation, placing an emphasis on blending it with experience and investment expertise."

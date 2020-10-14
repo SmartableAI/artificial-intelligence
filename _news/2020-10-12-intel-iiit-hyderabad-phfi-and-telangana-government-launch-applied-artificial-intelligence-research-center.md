@@ -59,6 +59,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Intel India sharpens focus on human-centric AI"
+    excerpt: "Bengaluru: Intel India is focussing on human-centric artificial intelligence (AI) for solving problems in the healthcare and smart mobility segments, Nivruti Rai, country head, Intel India, said at the ongoing all."
+    publishedDateTime: 2020-10-12T11:14:00Z
+    webUrl: "https://www.livemint.com/companies/news/intel-india-sharpens-focus-on-human-centric-ai-11602499977854.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/intel-india-sharpens-focus-on-human-centric-ai/amp-11602499977854.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/intel-india-sharpens-focus-on-human-centric-ai/amp-11602499977854.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2020/10/12/600x338/Nivruti_Raibloomberg_1565544177175_1602500571810.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Hailo Goes Head to Head With Intel and Google on AI Acceleration Modules"
     excerpt: "... Acceleration Module Hailo's AI acceleration modules have some leverage over other competitors because it integrates the Hailo-8 processor—a device that Hailo says delivers 26 tera-operations per second (TOPS) in chip processing capabilities and 3 ..."
     publishedDateTime: 2020-10-09T17:47:00Z

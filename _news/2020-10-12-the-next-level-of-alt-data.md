@@ -100,20 +100,6 @@ related:
         width: 1280
         height: 988
         isCached: true
-  - title: "How to Build, Deploy, and Operationalize AI Assistants"
-    excerpt: "While chatbot PoCs are simple, building production-grade conversational software is challenging. Enterprises experience challenges in production systems that have large user bases, security mandates,"
-    publishedDateTime: 2020-10-09T12:15:00Z
-    webUrl: "https://www.infoq.com/articles/build-deploy-ai-assistants/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 43
-    images:
-      - url: "https://res.infoq.com/articles/build-deploy-ai-assistants/en/headerimage/croppted-build-deploy-ai-assistants-1602098758941.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tyto Care Launches the Next Generation of Telehealth with an AI-Powered Diagnostic Support Solution"
     excerpt: "Tyto Care, the healthcare industry’s first all-in-one modular device and examination platform for AI-powered, on-demand, remote medical exams, today announced its AI-powered diagnostic support solution,"
     publishedDateTime: 2020-10-13T19:30:00Z

@@ -59,20 +59,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Face recognition tool reunites UP boy with parents after 5 years"
-    excerpt: "The missing boy was found by Goalpara police on July 23, 2015 and was sent to the Child Welfare Centre Telangana State police's face recognition tool 'Darpan' has helped reunite a missing boy from Uttar Pradesh with his parents after five years."
-    publishedDateTime: 2020-10-09T12:07:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/face-recognition-tool-reunites-up-boy-with-parents-after-5-years-153319"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_1014741573.jpg"
-        width: 660
-        height: 440
-        isCached: true
 
 secured: "wt4u0OKJZNAQ+BfEdRzTo+Vhd0LQFnr0LU6gfDfvUKE34fGIVwYC/+owE1kXxQIsu5HB8ge9ElD9MIZyXq1aSd8QJ/RYyhcetZlbZF8v0cpgElMe0V+vrWwHUdU9+GeXKY8nKSaH5hUzujE3SEKJ+Om4Q0Lnvn6q+2wkFT00szt57uH0vGpFm8/J/PQT0dMRLDJgz/20jMR6h2PJX52o4f/jFVGd5BFBIst+1lZCJJxanB+SVEXLzmtcn4+SZnvBDDNYjgYAMvta+chc+nRHmvTDMwtXSYbpWWRC5S6AGhmMWm26GD8RjW2rEINVSDh++FvfUcjSl/kkA6YZhWuhaAuqIyDQh32mOH12wnq+6xuEgkGtXl4ZwycgR2cV8KnelQv0deVexTVq58h24ShSF0rWrChD7QO9IvkJ1Z/sjMzcb4OsN1fiWSUMkLBJ6EMyTuvX+h6xtuW8rmlwzMDz6Vn6fAq23A7xvWMLCCrIEz79Zd5RBF5qhUWru07qs/D+sTjpRdAnSGNL1HsQglsw7g==;syzCPPTXUyAO4PdiGIAcmg=="
 ---

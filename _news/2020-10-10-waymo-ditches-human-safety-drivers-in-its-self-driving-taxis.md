@@ -43,6 +43,20 @@ related:
         width: 1199
         height: 900
         isCached: true
+  - title: "In the cab with the Waymo Driver: How trucks help advance our self-driving technology"
+    excerpt: "In 2017, after nearly a decade of developing self-driving technology for passenger cars, we launched our trucking and local delivery program now known as Waymo Via. Since then, our autonomous Class 8 trucks have been tested in a wide variety of cities and environments in California,"
+    publishedDateTime: 2020-10-13T17:44:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/in-the-cab-with-the-waymo-driver-how-trucks-help-advance-our-self-driving-technology/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 32
+    images:
+      - url: "https://1.bp.blogspot.com/-X4ESQdGmUIE/X4TlPXyPgGI/AAAAAAAAEfg/fd8IHTtghWUzpWrRIIJd9bCjlBqqx0i8gCNcBGAsYHQ/w640-h361/lanechange%2B%25281%2529.gif"
+        width: 579
+        height: 326
+        isCached: true
   - title: "EPFL tests out self-driving delivery service"
     excerpt: "EPFL's Lausanne campus will serve as a testing ground for a high-tech delivery service that uses a self-driving van. A"
     publishedDateTime: 2020-10-12T09:40:00Z
