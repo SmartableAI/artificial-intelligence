@@ -20,22 +20,6 @@ topics:
   - IBM AI
   - AI
 
-related:
-  - title: "AI Eye Episode 450: IBM (NYSE: $IBM) Brings AI and Cloud Computing to Esports with Overwatch (NasdaqGS: $ATVI) League Deal"
-    excerpt: "IBM (NYSE:IBM) and the Overwatch League, a global esports league created by Blizzard Entertainment - a division of Activision Blizzard (NasdaqGS:ATVI) - have announced a multi-year deal to bring IBM's cloud computing and artificial intelligence (AI) technology to esports."
-    publishedDateTime: 2020-10-09T17:03:00Z
-    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/10091AIEye-IBM-ATVI.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 15
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
-        isCached: true
-
 secured: "F8MAgrAoujIez73j81TC+ow75MZouk6PpGEUHH20UjX/ax4gY/ZgnyUrpBF3bpv6/Khj7XHaHrxIx5I3u1nNu5lkeuPepurZFs18UTOnHSbS6kIiztnDpBAgL7QdQShIeC1Tpt9fa90WDJISdnAvOY53bIpqYaEq4GgtJ9t7HVHL7xoH5B6xDwl4f0TP3FQuPlLNWXhScOysPEWU0zGswVid8bTW9Mv214PxrBOmq9yRaQC00uk6mwgs992nIULghCwEyzgz+aTqeSdki5tyokLHW3NIyyHOCuhu7z8DOkxYPnJjZytZV4/OwDZR7nmuopYeb7sV8csyKfQvZH9WjBnT1ohC2OZ1IDefuV9ByzxnYMnsGqBhoq97cE+DDGWttvTzzAx8iAMLXzAQuup8qGATj8gCjjVHD9Zo4XRVWNvgQDv0v6Jeq9FLUkGKJC2f8Rs7jz8ZdW9riTvXHsjb7iPZmnEIpvVEK0cRKWk/TwTBMYa1U1VJLhTPPmqGyjKvVRdPelrZYaR6JxtCtvWcoQ==;FXADUq3Eoz1wNBhCpiavbg=="
 ---
 

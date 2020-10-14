@@ -36,6 +36,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
+  - title: "Data Science Platform Market Size Worth $25.94 Billion By 2027: Grand View Research, Inc."
+    excerpt: "The global data science platform market size is expected to reach USD 25.94 billion by 2027, according to a new report by Grand View"
+    publishedDateTime: 2020-10-14T09:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/data-science-platform-market-size-worth-25-94-billion-by-2027-grand-view-research-inc-301151910.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
+        width: 1400
+        height: 733
+        isCached: true
 
 secured: "HeoHNihqTC4meJl7+reNc1c7UgNV/FFyE1/rLK1UXSN+TlmqkVsSMq+hXRGTTxcB+oHawR+8bKX2um9hL+O++595SA6yOdjfvHH93v+QYMHcnsh3lxPVwBw35OYduXGc8xsYq44QkWKHNkkuACZfn4ypyNbflG6q8btXuL8pCqwfMzlgvEO9AT3tfW1v3bqZsj8q8ibQGP19hvsKHZVEcDiY9ViUQmfUrytbT0n/a7r6wKaSQkYbWlZL95oconpKTBwg8G50RKwyP9YpUSqLeBeSvJnbMFWI0UWVOKdOuyl2uqtuzvtcWELel+Zc+8z5RdUk5urzblPmOurll4uVFzQL2SjRSWS2QAZOUXHMUZE=;cOpYPTystym6z4KTj4rgUA=="
 ---

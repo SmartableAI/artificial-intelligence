@@ -25,45 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Study Explores the Use of Robots, AI to Ease COVID-19 Pressures on Hospitals"
-    excerpt: "Hospitals across the globe could raise their productivity and efficiency as well as increase safety and quality while limiting and decreasing charges."
-    publishedDateTime: 2020-10-09T15:05:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11686"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11686"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686"
+  - title: "Artificial intelligence 'to hasten Covid-19 detection'"
+    excerpt: "A JAPANESE technology, dubbed \"Genki Medical Imaging,\" is seen to help speed up detection of coronavirus in individuals.The technology,"
+    publishedDateTime: 2020-10-12T14:35:00Z
+    webUrl: "https://www.sunstar.com.ph/article/1873243/Baguio/Local-News/Artificial-intelligence-to-hasten-Covid-19-detection"
+    ampWebUrl: "https://www.sunstar.com.ph/ampArticle/1873243"
+    cdnAmpWebUrl: "https://www-sunstar-com-ph.cdn.ampproject.org/c/s/www.sunstar.com.ph/ampArticle/1873243"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 71
+      name: Sun Star
+      domain: sunstar.com.ph
+    quality: 59
     images:
-      - url: "https://www.azorobotics.com/images/news/ImageForNews_11686_16022476570691643.png"
-        width: 950
-        height: 907
+      - url: "https://www.sunstar.com.ph/themes/sunstar/images/no-image-sunstar.png"
+        width: 700
+        height: 470
         isCached: true
-  - title: "Data-Driven Businesses Are Better Prepared to Emerge from COVID-19"
-    excerpt: "Again, many cloud tools lend themselves to running statistical tests, like GCP AI Platform Notebooks (serverless Jupyter Notebook environment running Python and R), Amazon Sagemaker, Microsoft Azure Notebooks. This is where machine learning (ML ..."
-    publishedDateTime: 2020-10-09T19:37:00Z
-    webUrl: "https://www.datanami.com/2020/10/09/data-driven-businesses-are-better-prepared-to-emerge-from-covid-19/"
+  - title: "Global Contact Center Industry Meets COVID-19 Challenge with Remote Work, Automation, AI"
+    excerpt: "(GLOBE NEWSWIRE) -- The global effects of the COVID-19 pandemic have forced contact centers to quickly change the way they operate and sharpened interest in new technologies to address shifts in demand and consumer behavior,"
+    publishedDateTime: 2020-10-12T14:09:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/virus-outbreak-technology-business-lifestyle-connecticut-4f3abd780184670c8dc52647843e4f56"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/graphs_covid_shutterstock_PopTika.jpg"
-        width: 1000
-        height: 457
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Compunnel Digital Launches Complete AI COVID-19 Response System; The Technology Uses Sophisticated Machine Learning to Monitor for Safety Compliance"
-    excerpt: "Compunnel Digital, a leading global IT and consulting company, has launched the first complete safety compliance monitoring and COVID-19 response system for the enterprise. The program was created in partnership with Dori."
-    publishedDateTime: 2020-10-14T07:34:00Z
-    webUrl: "https://www.pr.com/press-release/823135"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 0
 
 secured: "IY6ggKFbjDqwyIFisTtmAcGonSs7zoZ2c1c35vzw2OX6yVBxMnHpqfPm447s9ot1w3Wn3Zk57oTXu+Oc68ClXrfjq48H42OTNglptuLKGW6lf9p7TYDoEqbwzCEFbVosnoHUQyvifFEjwK5oQj21qgj4hlwHUngKyf3+qjzPmmg5sLspOs/StF4YyGRm6Q/1nzt2XZskYHf0dPZshC3nC9k2UXWZ/rB4LKLkHVEAPAJZzUvNA6r9nFtq9cuWRtM7sQxiS98HKMovE+l6hstN43CTJWyQBI5GlztrbASmW2wB0MHWKA5GaIEcYIsdrO66SB3bALYhwI1P3Yslt7IY3fz6YkNReL+Ah31R6r8OyNg=;h/lUS+sj7faEFCE+nWMN9w=="
 ---

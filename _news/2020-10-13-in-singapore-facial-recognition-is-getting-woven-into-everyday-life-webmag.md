@@ -41,38 +41,6 @@ related:
         width: 2500
         height: 1407
         isCached: true
-  - title: "Facial recognition software helps identify missing teen"
-    excerpt: "A 13-year-old autistic boy who went missing from Uttar Pradesh five years ago was traced at a child home in Assam with the help of facial recognition tool of Telangana police ‘Darpan’. He was reunited with his parents on Friday."
-    publishedDateTime: 2020-10-09T16:36:00Z
-    webUrl: "https://www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Live facial recognition is tracking kids suspected of being criminals"
-    excerpt: "In Buenos Aires, the first known system of its kind is hunting down minors who appear in a national database of alleged offenders. In a national database in Argentina, tens of thousands of entries detail the names, birthdays, and national IDs of people ..."
-    publishedDateTime: 2020-10-09T15:24:00Z
-    webUrl: "https://www.technologyreview.com/2020/10/09/1009992/live-facial-recognition-is-tracking-kids-suspected-of-crime/"
-    ampWebUrl: "https://www.technologyreview.com/2020/10/09/1009992/live-facial-recognition-is-tracking-kids-suspected-of-crime/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/09/1009992/live-facial-recognition-is-tracking-kids-suspected-of-crime/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/KidID-988704018-web_01.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Hyundai's new Singapore R&D hub features helipad for flying cars"
     excerpt: "Hyundai Motor has begun building a research and development center in Singapore for next-generation applications such as artificial intelligence and driverless technology, the South Korean automaker said Tuesday."
     publishedDateTime: 2020-10-13T14:12:00Z

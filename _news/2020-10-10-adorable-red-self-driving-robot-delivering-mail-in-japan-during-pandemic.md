@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/adorable-red-self-driving-robot
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/"
 type: article
 quality: 105
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://s3-ap-southeast-1.amazonaws.com/tz-mag-media/wp-content/uploads/2020/10/13154623/robot.jpg"
         width: 660
         height: 434
-        isCached: true
-  - title: "Raining on the parade of self-driving cars"
-    excerpt: "Developing sensors that enable autonomous vehicles to cope with tough weather conditions is tricky – and the economics may be more challenging still"
-    publishedDateTime: 2020-10-09T16:39:00Z
-    webUrl: "https://physicsworld.com/a/raining-on-the-parade-of-self-driving-cars/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 39
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2020/10/bad-weather-caution-497639283-iStock_trendobjects.jpg"
-        width: 1200
-        height: 797
         isCached: true
   - title: "Something Something Self Driving Boat"
     excerpt: "As the philosopher Dr. Steve Brule once said, the most important thing to know about going on a boat is \"stay on the boat.\" (Or \"broat.\") This rule escaped a trio of guys doing a photo shoot on the water in Florida;"

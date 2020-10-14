@@ -71,20 +71,6 @@ related:
         width: 660
         height: 434
         isCached: true
-  - title: "Raining on the parade of self-driving cars"
-    excerpt: "Developing sensors that enable autonomous vehicles to cope with tough weather conditions is tricky – and the economics may be more challenging still"
-    publishedDateTime: 2020-10-09T16:39:00Z
-    webUrl: "https://physicsworld.com/a/raining-on-the-parade-of-self-driving-cars/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 39
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2020/10/bad-weather-caution-497639283-iStock_trendobjects.jpg"
-        width: 1200
-        height: 797
-        isCached: true
   - title: "Self-Driving Cars Are Not Self-Driving–Marketing Confusing."
     excerpt: "Motorists using active driving assistance systems, which combine vehicle acceleration with braking and steering, tend to overlook safety limitations when the branding and marketing used to sell it"
     publishedDateTime: 2020-10-11T20:18:00Z

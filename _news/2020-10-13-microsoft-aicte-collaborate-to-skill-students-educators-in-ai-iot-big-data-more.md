@@ -73,22 +73,6 @@ related:
         width: 1961
         height: 2560
         isCached: true
-  - title: "Microsoft partners with ARM to improve AI innovation for IoT products"
-    excerpt: "Microsoft partners with ARM to improve AI innovation for IoT products.The partnership will allow developers to target a large range of ARM-based devices."
-    publishedDateTime: 2020-10-09T15:53:00Z
-    webUrl: "https://www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/"
-    ampWebUrl: "https://www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/?amp"
-    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/?amp"
-    type: article
-    provider:
-      name: The Indian Wire
-      domain: theindianwire.com
-    quality: 74
-    images:
-      - url: "https://www.theindianwire.com/wp-content/uploads/2020/10/1601348370-9773.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "Microsoft Touts Arm Partnership on Edge Devices and Azure Tools"
     excerpt: "Microsoft and Arm are collaborating on Azure developer tools for 'intelligent edge devices' that use artificial intelligence, per a Thursday announcement."
     publishedDateTime: 2020-10-09T22:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-bio
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
 type: article
 quality: 124
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     width: 860
     height: 396
     isCached: true
-
-related:
-  - title: "The State of AI in Higher Education"
-    excerpt: "Both industry and higher ed experts see opportunities and risk, hype and reality with AI for teaching and learning."
-    publishedDateTime: 2020-10-09T16:34:00Z
-    webUrl: "https://campustechnology.com/articles/2020/10/09/the-state-of-ai-in-higher-education.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 41
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20201009ai.jpg"
-        width: 644
-        height: 300
-        isCached: true
 
 secured: "XSbJ+Bd2wN/Fq4TNSY0dYQBRoTy5Gm2ZTl2muUuNWmYCKfUiGcDKGWJ3/8RCyJPRawCKV/tERC1yHShEdec9LTWDZw3PmqnejwAjYv2owad/1/UtDccmffJWzZaY6mY2cg0rhcJVWb10xu6UsDH9doVD4iIX0UCOmzHD7vrl8fKuC7IGN6m4YmD1fpHKpJaWk46zN3j598fzFACouveVPeZRdgujvKkqep/gNdzgdny+Xpd07T4PTqTI0V/0m2M/81BynLxEF2rU9mSCWLLYbCKbk0Yu/Vaed7tE3PqYIZm7SDIm1mnhk4636zazizKb6EKuvZThw9VSOCtu+KNISSTSHcXANLulJ9rGojWC4aP2n5OIaSpv0KQwcwqQkXC7ss+J49sMxGjtOwrH9+2ahbbX7rBTYXysY3CjXOJUY8g4BxWvJTU+xTfIq48DlRktNcDYJcjaJ21uv94tXJduJhMz3OJl9u4x7Uxe1bexA2bDHvV6qNT6EHDsdIGc8teysppi5evaY+EitBSAt91aeA==;K9YwQl6cca4eSR/8W8keaQ=="
 ---

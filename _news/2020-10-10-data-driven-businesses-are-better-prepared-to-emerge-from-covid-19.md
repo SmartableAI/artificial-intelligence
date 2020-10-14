@@ -25,45 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Study Explores the Use of Robots, AI to Ease COVID-19 Pressures on Hospitals"
-    excerpt: "Hospitals across the globe could raise their productivity and efficiency as well as increase safety and quality while limiting and decreasing charges."
-    publishedDateTime: 2020-10-09T15:05:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11686"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11686"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686"
+  - title: "Robotics, a Game Changer for Businesses in Post COVID-19 India"
+    excerpt: "Robots are moving from controlled environments to uncontrolled environments and from select industries to every industry faster than we could have expected. Tha"
+    publishedDateTime: 2020-10-14T03:46:00Z
+    webUrl: "https://www.cxotoday.com/news-analysis/robotics-a-game-changer-for-businesses-in-post-covid-19-india/"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 71
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 54
     images:
-      - url: "https://www.azorobotics.com/images/news/ImageForNews_11686_16022476570691643.png"
-        width: 950
-        height: 907
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/10/robotics-deloitte.jpg"
+        width: 601
+        height: 450
         isCached: true
-  - title: "Xilinx and Spline.ai use AI to enable COVID-19 detection at the edge"
-    excerpt: "Computer chipmaker Xilinx Inc. said today it has teamed up with an artificial intelligence startup called Spline.ai to create a medical X-ray classification model that it says is able to improve prediction rates for COVID-19 and pneumonia using AI at the edge."
-    publishedDateTime: 2020-10-14T00:24:00Z
-    webUrl: "https://siliconangle.com/2020/10/13/xilinx-spline-ai-use-ai-enable-covid-19-detection-edge/"
+  - title: "Accelerating Natural Selection. Investing in a Post-COVID World Economy."
+    excerpt: "In the upcoming webcast, Accelerating Natural Selection. Investing in a Post-COVID World Economy, David Mazza, Managing Director, Product, Direxion; and Sylvia Jablonski, Managing Director, Head of Capital Markets & Institutional Strategy Team,"
+    publishedDateTime: 2020-10-12T22:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/accelerating-natural-selection.-investing-in-a-post-covid-world-economy.-2020-10-12"
+    ampWebUrl: "https://www.nasdaq.com/articles/accelerating-natural-selection.-investing-in-a-post-covid-world-economy.-2020-10-12?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accelerating-natural-selection.-investing-in-a-post-covid-world-economy.-2020-10-12?amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Compunnel Digital Launches Complete AI COVID-19 Response System; The Technology Uses Sophisticated Machine Learning to Monitor for Safety Compliance"
-    excerpt: "Compunnel Digital, a leading global IT and consulting company, has launched the first complete safety compliance monitoring and COVID-19 response system for the enterprise. The program was created in partnership with Dori."
-    publishedDateTime: 2020-10-14T07:34:00Z
-    webUrl: "https://www.pr.com/press-release/823135"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 0
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 53
 
 secured: "CmQU22p1oyU+VmhOdoagsTdacA/OM7gkTFit/NUiVpE5TDmHbjBEzxYU1LWk2d36Rn9XaIpLQcPUuBxjJJJG+lKJoqJ/wNRoO+MaZ+g7pFiqQslPyYUlyF/PffcdRxX/hoWCwC8ihMREvqd9axjSMyKFBIpmf+F4tpKajiOQQBdonjGjU6PfDcHD8OkvTgPkpruKjZNQ7zuDF62HpueNDhyRZOHrHQkOYBAEwwOF7bxNOHAhp7RKdvvS4P/CJNnmKvxMRSvFtVC07eH9CTpoaZKOiCiXHPwZDs3CjY0JnX3NIKNVDUIwnDI1c9x2wDsH1WWlGOf5aWY4H2eZSnOn3bCztDQwPUMKAqptenI8mfA=;I8pt9AyLOHr+dNM0ziUv3g=="
 ---

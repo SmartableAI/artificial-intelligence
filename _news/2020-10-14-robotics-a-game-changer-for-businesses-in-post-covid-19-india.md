@@ -36,19 +36,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 53
-  - title: "Demand for AI talent pool continues to surge in India."
-    excerpt: "AI has become a most sought-after career opportunity for tech enthusiasts. Getting an education in AI requires a degree in computer science and equivalent streams, along with technical skills such as programming languages,"
-    publishedDateTime: 2020-10-12T05:53:00Z
-    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-jobs-india-october-2020/"
+  - title: "Data-Driven Businesses Are Better Prepared to Emerge from COVID-19"
+    excerpt: "Again, many cloud tools lend themselves to running statistical tests, like GCP AI Platform Notebooks (serverless Jupyter Notebook environment running Python and R), Amazon Sagemaker, Microsoft Azure Notebooks. This is where machine learning (ML ..."
+    publishedDateTime: 2020-10-09T19:37:00Z
+    webUrl: "https://www.datanami.com/2020/10/09/data-driven-businesses-are-better-prepared-to-emerge-from-covid-19/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
     images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-10.jpg"
-        width: 1440
-        height: 720
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/graphs_covid_shutterstock_PopTika.jpg"
+        width: 1000
+        height: 457
         isCached: true
 
 secured: "TB+R1AeFIkujNhgjHfYnZUY04KxIo9ufnBfnCCljsuExOqMkJE+R82alHZ2i01macY/3STHbHHvOTEJpmZYT3JORcJvEOquspqqHBCagHRCg0NR1DsEGFEkHrUPRrUjQQ+EhpIzptCoLQ4yFzOQ3zEV/v95skKdCg9KDODXyCklAA3SwLw5S9/+jo/yYLozOQB3XeCssZUzq7qEgvlW/vHYdW5iN1+Fh04r6uzs2SY5Fe0hzBfD/PAX3X7sdB8ufPzvcBOKg62SD5umLd1Q3fT5DqkfS9KoW5SRaBJEvSqEKblb+q3bQmROWKYVmOD1qqnZPXqrLJr/jpLviKc/cKOHXGXqj69Be0j/ooeriM+M=;87U+PqKCvHe0YTUjLBI8gQ=="

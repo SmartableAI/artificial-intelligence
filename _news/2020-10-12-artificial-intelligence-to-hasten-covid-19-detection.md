@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sunstar.com.ph/ampArticle/1873243"
 cdnAmpWebUrl: "https://www-sunstar-com-ph.cdn.ampproject.org/c/s/www.sunstar.com.ph/ampArticle/1873243"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Sun Star
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Xilinx and Spline.ai use AI to enable COVID-19 detection at the edge"
+    excerpt: "Computer chipmaker Xilinx Inc. said today it has teamed up with an artificial intelligence startup called Spline.ai to create a medical X-ray classification model that it says is able to improve prediction rates for COVID-19 and pneumonia using AI at the edge."
+    publishedDateTime: 2020-10-14T00:24:00Z
+    webUrl: "https://siliconangle.com/2020/10/13/xilinx-spline-ai-use-ai-enable-covid-19-detection-edge/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Global Contact Center Industry Meets COVID-19 Challenge with Remote Work, Automation, AI"
     excerpt: "(GLOBE NEWSWIRE) -- The global effects of the COVID-19 pandemic have forced contact centers to quickly change the way they operate and sharpened interest in new technologies to address shifts in demand and consumer behavior,"
     publishedDateTime: 2020-10-12T14:09:00Z

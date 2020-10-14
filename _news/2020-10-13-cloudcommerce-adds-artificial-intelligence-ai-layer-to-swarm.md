@@ -1,27 +1,28 @@
 ---
 category: news
 title: "CloudCommerce Adds Artificial Intelligence (AI) Layer to SWARM"
-excerpt: "( CLWD ), a leading provider of digital advertising solutions, today announced that it has entered into a license agreement with Pattern89 to add its artificial intelligence (AI) technology to SWARM,"
-publishedDateTime: 2020-10-13T07:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm-1029672436"
-webUrl: "https://markets.businessinsider.com/news/stocks/cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm-1029672436"
+excerpt: "( CLWD), a leading provider of digital advertising solutions, today announced that it has entered into a license agreement with Pattern89 to add its artificial intelligence (AI) technology to SWARM, the Company’s proprietary audience intelligence solution."
+publishedDateTime: 2020-10-13T07:01:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-9810f74b52d1cedcdaee6c67344d828a"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-9810f74b52d1cedcdaee6c67344d828a"
 type: article
-quality: 64
-heat: 64
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Facebook AI
   - AI
 
-secured: "/yvI3CzCL4RWadm9LEF7Mr4pyowzGU0ExU15RvPqfGUtpOxFrjwsY1ZVOJP10VTGs09GZwzEY0EDadwKSfhwaXZQAdwlc8kPw3KNHAIl8f1sLxq2x1BSQcA4f/XuP2k0QqWmt/kY+KsjGxm3KkNQyNSNGPlPi0VmJBT+oITWJtcNG1BmwXYUsc6NCiYyksyKOV/GeT/HeP5yNOnUv6elpmI80VNm9STPLipH+6vdGhKJDAsWIY2yB5SxfzzvFeqwsYGrbwOkaLilQfMXE1A0RtsQWUV8b7/bruMOvEBgUV/SSrHCTB4LijCplHa+vs8hw5zC4hF7F1iI2iXHKxBLaLkF7frfPHpA7hEIkHGkwLQ=;b26CpxqP7Xr/ADjOQhCbtA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "tw1P7V+mdHbizZ2mi2qHEd5/lc/sNkXB4E13ZAY/gmvFswCiIDvM/yf9EqCHTz3SHn6wS9ragxtSXwekn4bCa1p/g37TkIt7qDsZ40rrynyalwobW20Teblwnv/mEmanphLssB5eVhLACrlHck9fuTaR7xWK449NHd5gIrlDznpY6sxY8sdR3YsyAB0/J92O6XOlK88PFMlSIPA72E7aiu6qppSxpEUtgWIHGsqC7wFdG1G/srwrh6G/imTH5MTWmAmshV3CuYRH3iQzIl2y+KSY5hQVoqc5fEkqB8fduMvYpTxswmCMt439/0ooyNHmceWLBHqxoQlBojWJr6+nIZkUDoIt2bviYH8tvjQKvEQ=;8t3elPexez4QFQwWCxhK6g=="
 ---
 

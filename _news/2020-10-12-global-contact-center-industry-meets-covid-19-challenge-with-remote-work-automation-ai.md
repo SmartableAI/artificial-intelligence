@@ -40,6 +40,20 @@ related:
         width: 700
         height: 470
         isCached: true
+  - title: "Xilinx and Spline.ai use AI to enable COVID-19 detection at the edge"
+    excerpt: "Computer chipmaker Xilinx Inc. said today it has teamed up with an artificial intelligence startup called Spline.ai to create a medical X-ray classification model that it says is able to improve prediction rates for COVID-19 and pneumonia using AI at the edge."
+    publishedDateTime: 2020-10-14T00:24:00Z
+    webUrl: "https://siliconangle.com/2020/10/13/xilinx-spline-ai-use-ai-enable-covid-19-detection-edge/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Wz/lNnEMwgPlBy72wASfQZT6znkiIx+enF5r0s8f/w+BCV7DesUUzHek3/6+rcliMpVuW/8SlW0FCCWEkAa0WBHJ9HmMC6Iqu0650ierGgbePF5mRwcCUpt988ViILRjNOzr2N7xRgPJApaVO2s/WPNdG9CjCF96KiFMg3C2jYl7qj0qzIB5s43vFdzoi58wXWZVGbUVuXeo6MGbk+1xN0afseIt6XViu+ySpF8HNtH2frXJPyKVmWdT+zjXf6aDn7srZ3OobvZkCBg2YwgJMVHA1nkYz01HLt7c7i0tT6xj5QXu7axhPmO+ztw4IioHVwHr6M5G/I5KhfzVJ0koaZ0v91cKNQ9FOYnZj4ZFkiU=;hSSoOFjMzA2/XpU7QDShIw=="
 ---

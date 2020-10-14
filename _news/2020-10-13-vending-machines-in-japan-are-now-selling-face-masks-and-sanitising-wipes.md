@@ -71,20 +71,6 @@ related:
         width: 660
         height: 434
         isCached: true
-  - title: "Raining on the parade of self-driving cars"
-    excerpt: "Developing sensors that enable autonomous vehicles to cope with tough weather conditions is tricky – and the economics may be more challenging still"
-    publishedDateTime: 2020-10-09T16:39:00Z
-    webUrl: "https://physicsworld.com/a/raining-on-the-parade-of-self-driving-cars/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 39
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2020/10/bad-weather-caution-497639283-iStock_trendobjects.jpg"
-        width: 1200
-        height: 797
-        isCached: true
   - title: "Something Something Self Driving Boat"
     excerpt: "As the philosopher Dr. Steve Brule once said, the most important thing to know about going on a boat is \"stay on the boat.\" (Or \"broat.\") This rule escaped a trio of guys doing a photo shoot on the water in Florida;"
     publishedDateTime: 2020-10-12T12:03:00Z

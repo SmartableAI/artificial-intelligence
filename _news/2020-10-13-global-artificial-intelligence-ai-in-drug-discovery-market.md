@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2156548/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2156548/global-artificial-intelligence-ai-in-drug-discovery-market"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Experts say military could treat artificial intelligence (AI) in the say they treat any intelligence"
+    excerpt: "The dogfighting victory of an AI agent, or the use of AI to defeat salvos of incoming missiles suggest AI will profoundly affect military operations."
+    publishedDateTime: 2020-10-14T08:41:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14185255/military-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 37
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/10/AI_intelligence_14_Oct_2020.5f85feff50fcd.png?auto=format&fit=max&w=1200"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Development and Growth Forecast to 2025"
     excerpt: "The development prediction report titled Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 focuses on thoughtful insights and facts relating to the market."
     publishedDateTime: 2020-10-12T16:27:00Z

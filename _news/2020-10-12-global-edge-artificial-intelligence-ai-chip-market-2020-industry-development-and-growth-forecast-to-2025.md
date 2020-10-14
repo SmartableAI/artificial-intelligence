@@ -35,6 +35,20 @@ related:
         width: 800
         height: 473
         isCached: true
+  - title: "Experts say military could treat artificial intelligence (AI) in the say they treat any intelligence"
+    excerpt: "The dogfighting victory of an AI agent, or the use of AI to defeat salvos of incoming missiles suggest AI will profoundly affect military operations."
+    publishedDateTime: 2020-10-14T08:41:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14185255/military-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 37
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/10/AI_intelligence_14_Oct_2020.5f85feff50fcd.png?auto=format&fit=max&w=1200"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "XcRd+iKPaJd1kF+ZtygQ6GcMF0K03Gy729nmjbg4TFoK6TRaOu1qjQaoshcyOxf3ztwZ93T0h5M9RR3xhW9LzhnxszbxlZoCghSR4WnirvYKHF8jCQW0v/kQ88sP8oOe5EejR4g0p76iQfpVQjnzuSbBfjElExtW77BANQ/5DdJyu0AYRAL7W5Fx8v4Rjs6mpqfCxDzk1vI1FsSLqOEM48miXB73oyZbynLjUKpeGg10krlK3vawwWEf1nIxN8q9UEyidm524ek7pGFShB0AJo3Xl9BEq1XnXio9Zh6KUo9wbHrNUWuetJ/jZ+DcyKnkC4PeIUQPL+s/eYBxCGGHDux9V4zu9FC2wAUDA2QsHQU=;SqpBy6KdLJDurviqAT+djg=="
 ---

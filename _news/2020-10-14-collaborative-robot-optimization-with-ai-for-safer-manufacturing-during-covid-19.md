@@ -53,6 +53,20 @@ related:
         width: 740
         height: 450
         isCached: true
+  - title: "Results are coming in on the AI systems built at the height of New York City’s spring Covid-19 outbreak"
+    excerpt: "New results are coming in on artificial intelligence models built at the height of New York's Covid-19 outbreak in the spring."
+    publishedDateTime: 2020-10-14T08:43:00Z
+    webUrl: "https://www.statnews.com/2020/10/14/covid19-artificial-intelligence-hospitals-nyc/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 21
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2020/10/GettyImages-1217636837-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "aKH+oV2+uLVnAdIRehZdjSmK3WKcO+Xy37WhQuwCrQEM0b9hFuqjP1aVYEB3diz+Y3RF1r5Fxo/pey5rUK6BlhmhKksNmVSle9MEhuCGwOl9ogF6vPLXSFqrRME5ltYTRECiWkpDmYIt+L637bqJaxtToiE3j7Z9BKgZVyHwvxbhhd6v5Q0ODm476iBZvJYs49bGsuP/A2ltiri4pBwL3TPMtOH0nITg9uQQm4GPVczLEdJe0zuwRbpw/zDP/4E9Twl86dkWpm0lFjBMLYcXH7w3puCSnk6PoFl38IBE8qB0y6oUZ1JIj8LNTEW/SvxltdqAwDI9AtlTpjlg36ldMv1zoE//cvZ0uV7nyJAvpO40YPkdYKAcY/noYE1dc3ryKSGsgUA8MA9E7OvMR1aTnN2XhW3LVH32qq24AOLxD95Iezh8Mp0Ca0507PRhCRZhNC5QvYcbbr/AXiqTl9bJp3xy3W+scNo3oCczs3BHioxTs/P+GIRKFmz7lpoC2oPKe1aWvo7kD7eJDnXv/nDyIg==;xLwMJV/ejjaDWTl9J25XKg=="
 ---
