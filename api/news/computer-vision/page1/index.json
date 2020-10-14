@@ -1380,21 +1380,21 @@
       ]
     },
     {
-      "path": "_news/2020-09-30-amazon-spent-24000-to-kill-portlands-facial-recognition-ban.md",
-      "title": "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban",
-      "excerpt": "On Wednesday, Portland lawmakers will vote on what could be the strongest facial recognition ban in the United States. In November 2019, city officials revealed they were crafting legislation that would ban the use of facial recognition technology by both ...",
+      "path": "_news/2020-09-30-12-things-you-need-to-know-about-facial-recognition-technology.md",
+      "title": "12 Things You Need To Know About Facial Recognition Technology",
+      "excerpt": "Due to the facial identification features in today’s smart devices and laptops, many people are familiar with the concept of facial recognition technology. However, they may not know exactly how ...",
       "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
-      "originalUrl": "https://www.vice.com/en/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/30/12-things-you-need-to-know-about-facial-recognition-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/30/12-things-you-need-to-know-about-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://video-images.vice.com//articles/5f592142fafbbe00943f97f5/lede/1599678133842-gettyimages-1220178244.jpeg?crop=1xw:0.8665xh;0xw,0.0392xh",
-          "width": 5037,
-          "height": 2829,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f73371c3dd9c174f20a6877%2F0x0.jpg",
+          "width": 1200,
+          "height": 857,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1402,16 +1402,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
-      "publishedDateTime": "2020-09-29T14:05:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/30/12-things-you-need-to-know-about-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/30/12-things-you-need-to-know-about-facial-recognition-technology/amp/",
+      "publishedDateTime": "2020-09-30T05:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1432,21 +1432,21 @@
       ]
     },
     {
-      "path": "_news/2020-09-30-best-facial-recognition-security-cameras-to-buy-in-2020.md",
-      "title": "Best facial recognition security cameras to buy in 2020",
-      "excerpt": "Select home security cameras have facial recognition, an option that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your list of known faces.",
+      "path": "_news/2020-09-30-programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group.md",
+      "title": "Programming artificial intelligence for object recognition made easy – by the BMW Group",
+      "excerpt": "just-auto gives its paid members access to the very best automotive market coverage. And now there’s just-auto plus, our premium membership that gives you exclusive component forecast data ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/",
+      "webUrl": "https://www.just-auto.com/news/programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group_id197954.aspx",
+      "originalUrl": "https://www.just-auto.com/news/programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group_id197954.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "url": "https://www.just-auto.com/images/just-auto-share.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 799,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1454,23 +1454,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/",
-      "publishedDateTime": "2020-09-29T10:16:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T02:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

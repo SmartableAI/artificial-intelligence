@@ -42,6 +42,22 @@ related:
         width: 1121
         height: 630
         isCached: true
+  - title: "Facebook deploys its AI to find green energy storage solutions"
+    excerpt: "One alternative is putting that excess power to work driving catalytic reactions. “There are a lot of different ways that we can store the energy,” Zack Ulissi, CMU Assistant Professor of Chemical Engineering and Materials Science and Engineering,"
+    publishedDateTime: 2020-10-14T13:41:00Z
+    webUrl: "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    ampWebUrl: "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F64625200-0d97-11eb-b2ff-474c419ab255&client=amp-blogside-v2&signature=44deace43d9002073d11fa617625620dd03d9831"
+        width: 600
+        height: 350
+        isCached: true
 
 secured: "ZSvYmIfk5Y9U+EFn9E/YUbce+dfWZ7SZSYilOUCiAedkrGI+iwfwtI+hJ9a2KmKolQk0aOrDE4wzNo3t1pokeM+HvzTF7O2c6jDqG1ZsuHmfxNurO+nu4K8ayZj1D4sixVh98PGBf0PtObiSfLpeA7JEfb+tcDTKKLeqJI6PgenAKUKb/XTNnINyeM4XHmR1L5S2CZUF+KyvBBY3jdlq96AIP4rHW8O5pq359X759Sht6QjhK2oherAgMDwAEewXbnuZZ8anK5icDdc7l+ocFcZROt/Hl4FbBwS56sqwy94b0jCYH22OWZ2Q5UswkJWU9csPfZqmYDM/zsnLiZerbdYK/glBZFmoH6DQdVPTfqkPVCybcZOijVuVUynXfYQ710SXQ1BJRkOtV6BeoqqFTiaAzwL3IgGEjmpXJZDZh2KZmcnhUfh15nYrpmVQPcRewCIS04qS0RlPF7dISawT0qYaRqbyWbEIKI7OGMfNLiRrjV0I6D8EpumK63orVq+e8/PXffESlKL1keQOX2csSg==;q30v84yEvAOIW8rf4ZGKrQ=="
 ---

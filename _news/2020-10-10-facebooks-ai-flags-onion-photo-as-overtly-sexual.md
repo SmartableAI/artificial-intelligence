@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook deploys its AI to find green energy storage solutions"
+    excerpt: "One alternative is putting that excess power to work driving catalytic reactions. “There are a lot of different ways that we can store the energy,” Zack Ulissi, CMU Assistant Professor of Chemical Engineering and Materials Science and Engineering,"
+    publishedDateTime: 2020-10-14T13:41:00Z
+    webUrl: "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    ampWebUrl: "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F64625200-0d97-11eb-b2ff-474c419ab255&client=amp-blogside-v2&signature=44deace43d9002073d11fa617625620dd03d9831"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Study reveals the simple way people get around Facebook's fact-checking AI"
     excerpt: "Facebook Pages that spread misinformation are finding their way around one of the platform’s most important tools for fighting fake news: its AI system. When Facebook’s fact-checkers debunk a ..."
     publishedDateTime: 2020-10-09T22:27:00Z

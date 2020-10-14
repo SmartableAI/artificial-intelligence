@@ -2,21 +2,31 @@
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in October"
 excerpt: "Artificial intelligence (AI) is a fast-growing segment ... from quantum computing to start-ups like self-driving car outfit Waymo. This research racks up substantial losses right now, with the ..."
-publishedDateTime: 2020-10-05T15:18:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october-2020-10-05"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october-2020-10-05"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october-2020-10-05?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october-2020-10-05?amp"
+publishedDateTime: 2020-10-05T15:14:00Z
+originalUrl: "https://www.fool.com/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/"
+webUrl: "https://www.fool.com/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "uCPtny5D9C3P1xTK84wErccOO1SqeV+JfFRMHDPSSQVz4l8tsz6Zj/1OLu3zPeF1WRUhY9jaPw259AswMZrt35UoQ06fpHo7V6Erc/VTCzifDmHz+I57NBex84NxdpKrwNTITENEEkYKWP7nZ9Bru1wvwBunio6bBh31XczYsJzOH4KAkQElADEMdgztjh0rtwkNKljVej18Wb9lZ4gPg6Djq0P8cNiPVV3xEVuDMp2XtZJnVWrXouuRkJPMVIoZzL/6pWxU/BXXdm/tkSzpRVKokjrIdoVePx+xsLDe2dtcMnSrX4xN33QonrdEGSUyQjjbcQhWjar5EI4+T7HzMLHWGlqsCqE5y2dqaPasJoo=;mZ215UJy9XL8G39PgfGyug=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593834%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "/1LPlKsCPcWqYB3doiKmnzUCHZv9djgAIUNUFD2RGCZMJig8BQSkTC/4lkQPzjlLqgx394vWlRNWEBzRIY0lfuxcCrNR2KxjsO5GGZvx/v0s3iTsB1tiaupWs61keXGKC3E7qRUvbOpdhw89oDYqCyglm4DtVdIoQpQHfi6ULafB8MtHvMCyDWAcSIyni5hZjerdy+D1aUbrSJC9RE0hDIzvDC2RZKbZv8rFFB2pt87nYiRt/9rJ6TOq8pPGUcUYsWopNhTUIOLYOajhSevlG7eeBEfjf9qZvdXonzZbpry2BkRV0UAdLKNVlT5QAck5/k0Mi8MyZ2I9QMwRht0dISMG3EC9Kkiir+nJxDBgv9I=;il76UaoR85ngbcRwlzdjdg=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-29-bjarke-ingels-group-plans-ai-city-in-china-to-advance-future-of-artificial-intelligence.md",
-      "title": "bjarke ingels group plans AI CITY in china to advance future of artificial intelligence",
-      "excerpt": "BIG AI CITY seeks to provide terminus, and the world’s leading tech companies, with a place to advance the future of artificial intelligence and robotics, and build the foundations of a new sustainable development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0",
-      "originalUrl": "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2020/09/bjarke-ingels-group-BIG-AI-city-terminus-group-chongqing-china-designboom-Fb.jpg",
-          "width": 1000,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Designboom",
-        "domain": "designboom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan.md",
       "title": "Data Science to Accelerate Drug Discovery with Artificial Intelligence and Machine Learning, Says Frost & Sullivan",
       "excerpt": "When combined with other emerging tech areas, artificial intelligence (AI) technologies move to the next phase of advancements. Hence, they are expected to witness adoption by pharma and biotech ...",
@@ -1364,6 +1321,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-engineering-students-to-design-the-perfect-self-driving-indy-race-car.md",
+      "title": "Engineering students to design the perfect self-driving Indy race car",
+      "excerpt": "A new competition pits engineering squads in the task of designing the ultimate high-speed controls architecture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/engineering-students-to-design-the-perfect-self-driving-indy-race-car/",
+      "originalUrl": "https://www.zdnet.com/video/engineering-students-to-design-the-perfect-self-driving-indy-race-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/16/d3af512b-0e0c-424f-9b1a-034aa89bd41d/thumbnail/370x278/46c4cff050aba7218eac14a0caae0916/20200916-beth-appleone.jpg",
+          "width": 370,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

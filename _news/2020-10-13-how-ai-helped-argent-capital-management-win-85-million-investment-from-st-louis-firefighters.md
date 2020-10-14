@@ -19,17 +19,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Cloud and AI key to managing risk management and compliance"
-    excerpt: "IT leaders are overwhelmed with security and regulation requirements. But integrating AI tools in the cloud strategy can help to mitigate security risk."
-    publishedDateTime: 2020-10-09T19:54:00Z
-    webUrl: "https://www.fedscoop.com/radio/cloud-ai-key-managing-risk-management-compliance/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 17
-
 secured: "KZyX/3gZrTeevb7YqOOp536GmVjA4dozecoZoQ2Jkl0ImLTcDzQKzSYDk5yCWF5HyNjZCPdlPZLFboH1OLZQklJFTitGWQr9TTixt1/gKps0YF7aFJg75PDAHzCdj7I7cR1ej46xYZUgawzGrr4gwxWRU496eK7z3lHk753vxKiyMokQvrNLRiipuRPofc1diylR7TY6eH+6heodRtx7A1BadGntzwVfsHBp0JSvjR9j5C4/8AyxrovVVDnsiJyUR20f3Mi2KemPeefJ0BoC7zkEKzeFvWC6Nkyh2qWu/gEE6A6hsPVGbh460lsRboJsXPcvogarhdR3ePSa33WapY6xwKXdZ0GFjRdojr+c93s/B68eE5mHAZQKFY/nsW6NL3v8itwkojAZkd8l1Km527ugEapNxJl/rlBwSh4sxKtYWjSnLBuq/8LG2LCRb8ueZcil9DYmIMa8qwTnDFYXH6qKfVF81+jR35HGyIIbu6j9EkDgUiaV0wbj3tEEmG3P5ECSIQjdL433B2Vnf/g42Q==;HaM/jqXmJ+ptezEyXpa+sQ=="
 ---
 

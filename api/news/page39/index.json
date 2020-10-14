@@ -2,6 +2,419 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-09-11-new-wsu-smart-factory-to-have-artificial-intelligence-robotics-as-it-looks-to-future.md",
+      "title": "New WSU smart factory to have artificial intelligence, robotics as it looks to future",
+      "excerpt": "A new smart factory at Wichita State University will explore manufacturing possibilities through a partnership with Deloitte.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kansas.com/news/business/article245609400.html",
+      "originalUrl": "https://www.kansas.com/news/business/article245609400.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998028001/dea73a44-1daa-42fa-a764-e842fd4a899c/e24cb380-15bf-4dad-998c-b4735c284642/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kansas.com/news/business/article245609400.html",
+      "cdnAmpWebUrl": "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article245609400.html",
+      "publishedDateTime": "2020-09-10T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wichita Eagle",
+        "domain": "kansas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-defense-department-official-says-victory-garden-approach-could-aid-ai-effort.md",
+      "title": "Defense Department Official Says 'Victory Garden' Approach Could Aid AI Effort",
+      "excerpt": "The Defense Department can use the same methods that were used to bolster the war effort during World War II to advance artificial intelligence today, DOD officials say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/",
+      "originalUrl": "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.defense.gov/2020/Sep/10/2002494573/1280/1280/0/170506-M-XO599-133A.JPG",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "US Department of Defense",
+        "domain": "defense.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars.md",
+      "title": "DuckieNet lets developers test autonomous vehicle systems using toy cars",
+      "excerpt": "DuckieNet is an open source platform for developing, testing, and evaluating autonomous navigation and perception algorithms with miniature car models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/",
+      "originalUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/e07586e7-ad6b-42c4-8d7c-eac746decddd-e1599752755921.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/amp/",
+      "publishedDateTime": "2020-09-10T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-startup-raises-45-million-to-predict-faults-in-chips-before-they-fail.md",
+      "title": "Startup Raises $45 Million to Predict Faults in Chips Before They Fail",
+      "excerpt": "Tecs sells tools to identify areas for improvement in new chips and anticipate potential failures in the field. The company said it serves \"some of the largest\" electronics vendors in the data center,",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail",
+      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/09/28436328267_c1fd36f23d_o.5f5a433841886.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-portland-just-passed-our-countrys-broadest-ban-on-facial-recognition.md",
+      "title": "Portland Just Passed Our Country's Broadest Ban On Facial Recognition",
+      "excerpt": "Portland, Oregon might be best known as the home of bohemian stereotypes a- plenty and some of the wildest donuts you can find in the state. Now it’s also earned the reputation for ambitious privacy legislation after passing the country’s broadest ban on facial recognition technology to date.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594",
+      "originalUrl": "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tjgsnhla145urojh2w3s.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594/amp",
+      "publishedDateTime": "2020-09-10T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-lockdown-couldnt-keep-waymo-from-testing-self-driving-cars-in-a-fake-city.md",
+      "title": "Lockdown couldn’t keep Waymo from testing self-driving cars … in a fake city",
+      "excerpt": "Waymo uses a 113-acre closed-course testing facility to develop its self-driving cars. Called Castle, the facility became even more valuable during lockdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/",
+      "originalUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/?amp",
+      "publishedDateTime": "2020-09-10T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-varian-announces-goshen-center-for-cancer-care-treats-first-patient-with-ethos-therapy-expanding-access-to-personalized-cancer-care.md",
+      "title": "Varian Announces Goshen Center for Cancer Care Treats First Patient with Ethos® Therapy, Expanding Access to Personalized Cancer Care",
+      "excerpt": "PALO ALTO, Calif., Sept. 10, 2020 /PRNewswire/ -- Varian (NYSE: VAR) today announced the Goshen Center for Cancer Care in Goshen, Ind., treated its first patient with Ethos((TM)) therapy, marking",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/varian-announces-goshen-center-for-cancer-care-treats-first-patient-with-ethos-therapy-expanding-access/article_41599b40-1f5d-52e8-a86a-38166829a717.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/varian-announces-goshen-center-for-cancer-care-treats-first-patient-with-ethos-therapy-expanding-access/article_41599b40-1f5d-52e8-a86a-38166829a717.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-covid-19-pushing-investors-into-logistics-robotics.md",
+      "title": "COVID-19 Pushing Investors into Logistics Robotics",
+      "excerpt": "In this article, we will discuss some of the reasons why investors are hot for logistics robots and how these technological advancements as",
+      "sourceUrl": null,
+      "webUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/",
+      "originalUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fincyte.com/wp-content/uploads/2020/09/COVID-19-Pushing-Investors-into-Logistics-Robotics.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/?amp",
+      "cdnAmpWebUrl": "https://www-fincyte-com.cdn.ampproject.org/c/s/www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/?amp",
+      "publishedDateTime": "2020-09-10T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Top",
+        "domain": "fincyte.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-replicant-raises-27-million-to-propel-its-voice-ai-for-customer-service-phone-calls.md",
+      "title": "Replicant Raises $27 Million To Propel Its Voice AI For Customer Service Phone Calls",
+      "excerpt": "Replicant wants to take talking bots like Siri and Alexa to the next level: the highly conversational field of customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f59af3806cd33cc970dc30b%2F0x0.jpg%3FcropX1%3D293%26cropX2%3D2845%26cropY1%3D0%26cropY2%3D1701",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/amp/",
+      "publishedDateTime": "2020-09-10T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-why-cloud-gaming-is-the-future-of-xbox.md",
       "title": "Why cloud gaming is the future of Xbox",
       "excerpt": "Standard gaming consoles cost a few hundred bucks, and while some graphics cards are so powerful they can run full artificial intelligence systems, they are also more expensive than a lot of computers.",
@@ -773,421 +1186,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021.md",
-      "title": "Microsoft joins Nasscom to skill 10 lakh students in AI by 2021",
-      "excerpt": "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence (AI) by 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html",
-      "originalUrl": "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html",
-      "publishedDateTime": "2020-09-10T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-centre-for-artificial-intelligence-and-robotics.md",
-      "title": "Centre for Artificial Intelligence and Robotics",
-      "excerpt": "Read all the latest news, breaking stories, top headlines, opinion, pictures and videos about Centre for Artificial Intelligence and Robotics from Nigeria and the world on today.ng",
-      "sourceUrl": null,
-      "webUrl": "https://www.today.ng/topic/centre-for-artificial-intelligence-and-robotics",
-      "originalUrl": "https://www.today.ng/topic/centre-for-artificial-intelligence-and-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.today.ng/wp-content/uploads/2019/08/14053638.png",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.today.ng/topic/centre-for-artificial-intelligence-and-robotics/amp",
-      "cdnAmpWebUrl": "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/topic/centre-for-artificial-intelligence-and-robotics/amp",
-      "publishedDateTime": "2020-09-10T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TODAY",
-        "domain": "today.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-millions-of-indians-are-getting-connected-to-an-internet-they-cant-use.md",
-      "title": "Millions of Indians are getting connected to an internet they can’t use",
-      "excerpt": "Most Indian businesses, banks, and government services develop their websites and apps in English and Hindi. What about the users who speak other languages?",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/",
-      "originalUrl": "https://qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2016-08-31T120000Z_705861842_S1AETYOUITAA_RTRMADP_3_RELIANCE-TELECOMS-JIO-e1599688175138.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/amp/",
-      "publishedDateTime": "2020-09-10T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-vibrosense-tracks-home-appliance-usage-via-deep-learning-and-lasers.md",
-      "title": "VibroSense tracks home appliance usage via deep learning and lasers",
-      "excerpt": "Advances in technology have made many household appliances more energy efficient, and even given outdated old ones some energy-saving smarts, but addressing the power usage of each individual device across the home is still a tall order.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/",
-      "originalUrl": "https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/1dcf0a2/2147483647/strip/true/crop/2000x1333+0+74/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbc%2F53%2Fa0112d054ab18aca18b8bef4d205%2Fdepositphotos-42162953-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/?amp=true",
-      "publishedDateTime": "2020-09-10T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-compiling-and-optimizing-neural-nets.md",
-      "title": "Compiling And Optimizing Neural Nets",
-      "excerpt": "Running a neural network efficiently and achieving good performance on an edge device have two significant challenges — processing compute intensive convolutions and manipulating large amounts of data,",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/compiling-and-optimizing-neural-nets/",
-      "originalUrl": "https://semiengineering.com/compiling-and-optimizing-neural-nets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/SE_Moyer_01.png?fit=936%2C468&#038;ssl=1",
-          "width": 936,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-smart-office-market-technological-innovation-by-leading-key-players-2022.md",
-      "title": "Smart Office Market Technological Innovation by Leading Key Players 2022",
-      "excerpt": "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/smart-office-market-technological-innovation-by-leading-key-players-2022-2020-09-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/smart-office-market-technological-innovation-by-leading-key-players-2022-2020-09-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift.md",
-      "title": "Clean Energy Regulator to power up AI tools after Microsoft Azure shift",
-      "excerpt": "The Clean Energy Regulator is preparing to use its new Microsoft Azure environment to trial a series of artificial intelligence tools aimed at automating emissions reduction compliance. The agency, which is tasked with monitoring and reducing emissions through initiatives like the renewable energy target,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift-553060",
-      "originalUrl": "https://www.itnews.com.au/news/clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift-553060",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/wind_turbine_solar_cell_renewable_energy.jpg",
-          "width": 1254,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-ai-ruined-chess-now-its-making-the-game-beautiful-again.md",
-      "title": "AI Ruined Chess. Now, It's Making the Game Beautiful Again",
-      "excerpt": "A former world champion teams up with the makers of AlphaZero to test variants on the age-old game that can jolt players into creative patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
-      "originalUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f592bfb643fbe1f6e6807ec/master/pass/business_chess_1200074974.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/amp",
-      "publishedDateTime": "2020-09-09T19:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-portlands-facial-recognition-ban-is-a-major-win-especially-against-amazon.md",
-      "title": "Portland's facial recognition ban is a major win, especially against Amazon",
-      "excerpt": "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
-      "originalUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 422,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F09%252F10%252Fa0%252F625cc075eb3d4b72acffa2daaa3fb2de.17453.jpg%252F1200x630.jpg?signature=YwVn_DbOwjdC5xvuZXDlAGIu194=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-bans-facial-recognition-technology.amp",
-      "publishedDateTime": "2020-09-09T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

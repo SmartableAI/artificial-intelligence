@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-13-new-age-revolutionised-by-ai-5g-communication-robotics.md",
+      "title": "New age revolutionised by AI, 5G communication, robotics",
+      "excerpt": "The industry experts and researchers from around the world, who gave plenary talks and presented a glimpse of future technology in the post-Corona Virus era during HYDCON 2020 opined that the",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
+      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2020/09/12/998150-robotics.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
+      "publishedDateTime": "2020-09-12T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-12-how-to-edit-writing-by-a-robot-a-step-by-step-guide.md",
       "title": "How to edit writing by a robot: a step-by-step guide",
       "excerpt": "Commissioning GPT-3 was a fun – and strange – lesson in artificial intelligence ... would deploy in attempting to convince humans that robots come in peace. Here’s how we went about it ...",
@@ -1334,49 +1377,6 @@
           "url": "https://hackaday.com/wp-content/uploads/2019/09/Password-thumb.jpg?w=600&#038;h=600",
           "width": 600,
           "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-farmbot-unveils-new-cnc-gardening-robot-models.md",
-      "title": "FarmBot Unveils New CNC Gardening Robot Models",
-      "excerpt": "Across the Northern Hemisphere it is now summer and the growing season is in full swing. Vigorous plants that will soon bear tasty fruit are springing forth from the soil, but unfortunately so are ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/07/01/farmbot-unveils-new-cnc-gardening-robot-models/",
-      "originalUrl": "https://hackaday.com/2019/07/01/farmbot-unveils-new-cnc-gardening-robot-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/07/FarmBot-Genesis-XL.jpg",
-          "width": 4898,
-          "height": 3265,
           "title": null,
           "attribution": null,
           "isCached": true

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Technique Could Improve Fusion Energy Outputs"
-    excerpt: "Machine-learning techniques, best known for teaching self-driving cars to stop at red lights, may soon help researchers around the world improve their"
-    publishedDateTime: 2020-10-09T19:34:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/machine-learning-technique-could-improve-fusion-energy-outputs/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/sandia-machine-learning_600x.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Machine-learning technique from Sandia Labs could improve fusion energy outputs"
     excerpt: "Machine learning techniques are being used to improve simulations of the reactor's wall material as it interacts with plasma. This has been beyond he scope of atomic-scale simulations of the past.The expected result should suggest procedural or structural modifications to improve nuclear energy output."
     publishedDateTime: 2020-10-12T04:00:00Z

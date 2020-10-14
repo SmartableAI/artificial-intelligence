@@ -2,6 +2,446 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-25-researchers-demonstrate-how-deep-learning-can-advance-study-of-neural-degeneration.md",
+      "title": "Researchers demonstrate how deep learning can advance study of neural degeneration",
+      "excerpt": "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. \"Having tools that allow us to identify these patterns of neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html",
+      "originalUrl": "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/232-researchersd.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-09-deep-advance-neural-degeneration.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-deep-advance-neural-degeneration.amp",
+      "publishedDateTime": "2020-09-24T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web.md",
+      "title": "DHS Admits Facial Recognition Photos Were Hacked, Released on Dark Web",
+      "excerpt": "Traveler’s faces, license plates, and care information were hacked from a subcontractor called Perceptics and released on the dark web.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web",
+      "originalUrl": "https://www.vice.com/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f6ccbdc98c1d9009cb46dbf/lede/1600965870073-gettyimages-905553688.jpeg?crop=1xw:0.7347xh;0xw,0.1422xh",
+          "width": 4875,
+          "height": 2738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web",
+      "publishedDateTime": "2020-09-24T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-ais-latest-breakthrough-will-transform-learninghere-are-5-ways.md",
+      "title": "AI’s Latest Breakthrough Will Transform Learning—Here Are 5 Ways",
+      "excerpt": "In this post, I examine the potential of GPT-3, the AI program by OpenAI. It started out as a language model to predict the next word in a sentence and has vastly exceeded that capability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-latest-breakthrough-will-transform-learning-here-are-5-ways/",
+      "originalUrl": "https://www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-latest-breakthrough-will-transform-learning-here-are-5-ways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cec69c5d877773123e979%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-latest-breakthrough-will-transform-learning-here-are-5-ways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-latest-breakthrough-will-transform-learning-here-are-5-ways/amp/",
+      "publishedDateTime": "2020-09-24T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-transforming-enterprises-through-robot-processing-automation.md",
+      "title": "Transforming Enterprises Through Robot Processing Automation",
+      "excerpt": "Robot Processing Automation (RPA) is the process of automating tasks which are repetitive and are performed by humans using software and hardware in a variety of applications. Unlike cognitive intelligence or deep learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/",
+      "originalUrl": "https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/09/RPA.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-return-on-ai-the-cdao-perspective.md",
+      "title": "Return On AI: The CDAO Perspective",
+      "excerpt": "Of course, some of the issues around return on AI would be faced by any technology, or at least any new technology. But others are specific to AI because of its insight and decision orientation, or because of the extreme levels of hype and fear around the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/09/24/return-on-ai-the-cdao-perspective/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2020/09/24/return-on-ai-the-cdao-perspective/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6ce0459b0b8cb6a2849745%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/09/24/return-on-ai-the-cdao-perspective/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/09/24/return-on-ai-the-cdao-perspective/amp/",
+      "publishedDateTime": "2020-09-24T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-amazon-redesigns-the-echo-with-a-new-spherical-design-and-a-custom-machine-learning-processor.md",
+      "title": "Amazon redesigns the Echo with a new spherical design and a custom machine learning processor",
+      "excerpt": "Amazon has announced the fourth-generation version of its main Echo smart speaker, bringing a new spherical design and better sound performance. But the biggest change is a new, on-device speech recognition module that will locally process your audio on the Echo,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
+      "originalUrl": "https://www.theverge.com/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/tEU5cAXnuXGjzhmDHRI_SkJtjws=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67463013/msedge_X9RFhS71eu.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
+      "publishedDateTime": "2020-09-24T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-alexa-gets-smarter-more-conversational-with-teachable-ai.md",
+      "title": "Alexa gets smarter, more conversational with teachable AI",
+      "excerpt": "Amazon has unveiled new artificial intelligence capabilities for Alexa, aimed at making the voice assistant more conversational in your home. Alexa will be \"more natural and more expressive,\" Amazon said during its annual product launch event Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/",
+      "originalUrl": "https://www.cnet.com/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/N4wEwahDtTeUbGfYdXvv7s9RFl4=/1200x630/2020/04/13/3ef98427-1cf3-4dde-90b8-7f9afd264fb3/amazon-echo-dot-3.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/",
+      "publishedDateTime": "2020-09-24T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-expanding-amazon-lex-conversational-experiences-with-us-spanish-and-british-english.md",
+      "title": "Expanding Amazon Lex conversational experiences with US Spanish and British English",
+      "excerpt": "Amazon Lex provides the power of automatic speech recognition (ASR) for converting speech to text, along with natural language understanding (NLU) for recognizing user intents. This combination allows you to develop sophisticated conversational interfaces using both voice and text for chatbots, IVR bots,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expanding-amazon-lex-conversational-experiences-with-us-spanish-and-british-english/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expanding-amazon-lex-conversational-experiences-with-us-spanish-and-british-english/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/22/1-Chart-849x630.jpg",
+          "width": 849,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T10:11:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-6-growth-bound-artificial-intelligence-stocks-to-buy.md",
+      "title": "6 Growth-Bound Artificial Intelligence Stocks to Buy",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Investors are keen to understand the confluence of artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/6-growth-bound-artificial-intelligence-stocks-to-buy-1029620414",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/6-growth-bound-artificial-intelligence-stocks-to-buy-1029620414",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/6-growth-bound-artificial-intelligence-stocks-to-buy-1029620414",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/6-growth-bound-artificial-intelligence-stocks-to-buy-1029620414",
+      "publishedDateTime": "2020-09-24T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-facebooks-new-benchmarking-system-asks-humans-to-interrogate-ais.md",
       "title": "Facebook's new benchmarking system asks humans to interrogate AIs",
       "excerpt": "Facebook’s AI research (FAIR) lab has taken a new approach to benchmarking: it's putting humans in the loop to help train their natural language processing (NLP) AIs directly and dynamically.",
@@ -802,437 +1242,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global.md",
-      "title": "Hailing a self-driving taxi when blind. Learn how Waymo answers that challenge at Sight Tech Global",
-      "excerpt": "Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provide her with the still remarkable option to get up and go",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/",
-      "originalUrl": "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Waymo-image-.png?w=1024",
-          "width": 1024,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/amp/",
-      "publishedDateTime": "2020-09-24T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-waymo-expands-its-partnerships-in-phoenix-teams-up-with-walmart-and-avis.md",
-      "title": "Waymo expands its partnerships in Phoenix, teams up with Walmart and Avis",
-      "excerpt": "Waymo, the former Google self-driving car project, is stepping up its efforts to get autonomous-driving tech ready for prime time. After an initial trial run in Arizona, Waymo expanded its fully ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/waymo-arizona-early-rider-program/",
-      "originalUrl": "https://www.digitaltrends.com/cars/waymo-arizona-early-rider-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-arizona-early-rider-program/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-arizona-early-rider-program/?amp",
-      "publishedDateTime": "2020-09-24T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-where-are-all-the-self-driving-cars-we-were-promised.md",
-      "title": "Where are all the self-driving cars we were promised?",
-      "excerpt": "Join us at TNW2020 where we will discuss the future of autonoous driving and how we can make it safe with industry experts.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/",
-      "originalUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/third-autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/",
-      "publishedDateTime": "2020-09-24T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-ripjar-founded-by-gchq-alums-raises-368m-for-ai-that-detects-financial-crime.md",
-      "title": "Ripjar, founded by GCHQ alums, raises $36.8M for AI that detects financial crime",
-      "excerpt": "Financial crime as a wider category of cybercrime continues to be one of the most potent of online threats, covering nefarious actives as diverse as fraud, money laundering and funding terrorism. Today,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/",
-      "originalUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1142858578.jpg?w=1024",
-          "width": 1024,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/amp/",
-      "publishedDateTime": "2020-09-24T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice.md",
-      "title": "Tomorrow: Socrates.ai to Host Webinar \"Giving Your Company a Single Voice\"",
-      "excerpt": "During this webinar, Socrates.ai will get to the heart of this problem, explaining how and why companies can speak with a single voice. Attendees will learn how artificial intelligence helps close the information gap to ensure employees get accurate answers to their questions and take away the insights needed to create a frictionless workforce experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-four-steps-to-accelerate-your-machine-learning-journey.md",
-      "title": "Four steps to accelerate your machine learning journey",
-      "excerpt": "Another approach used by Morningstar — a global financial services firm — used hands-on training for their employees with AWS DeepRacer to accelerate the application of machine learning across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey",
-      "originalUrl": "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey?amp",
-      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey?amp",
-      "publishedDateTime": "2020-09-24T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support.md",
-      "title": "Artificial Intelligence Is Ready For Prime Time, But Needs Full Executive Support",
-      "excerpt": "Bay CTO points out foundational AI capabilities are quickly becoming table stakes. However, AI is emerging and aspiring to have broader applications when it is leveraged to augment human tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/09/23/artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/09/23/artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6c09ef6f3e8d71727f7953%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/09/23/artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/09/23/artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support/amp/",
-      "publishedDateTime": "2020-09-23T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-singapore-hopes-artificial-intelligence-will-help-boost-its-tourism-industry.md",
-      "title": "Singapore hopes artificial intelligence will help boost its tourism industry",
-      "excerpt": "Local start-ups like Vouch and Travelstop are betting on their AI-powered systems to help the country navigate new security standards, as Singapore prepares to reopen its borders again after months of coronavirus travel restriction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "originalUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106706240-1600338869741-gettyimages-1136947347-nik_1761-----gi--19mar19.jpeg?v=1600339088",
-          "width": 5568,
-          "height": 3712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "publishedDateTime": "2020-09-23T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-how-deep-learning-can-advance-study-of-neural-degeneration.md",
-      "title": "How deep learning can advance study of neural degeneration",
-      "excerpt": "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. Researchers from North Carolina State University have demonstrated the utility of artificial intelligence (AI) in identifying and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/09/200924141616.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/09/200924141616.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

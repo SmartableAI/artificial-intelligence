@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: Nvidia’s Maxine opens the door to deepfakes and bias in video calls"
-    excerpt: "Will AI power video chats of the future? That’s what Nvidia implied this week with the unveiling of Maxine, a platform that provides developers with a suite of GPU-accelerated AI conferencing ..."
-    publishedDateTime: 2020-10-09T19:51:00Z
-    webUrl: "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/"
-    ampWebUrl: "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/"
+  - title: "In a battle of AI versus AI, researchers are preparing for the coming wave of deepfake propaganda"
+    excerpt: "As researchers who have been studying deepfake detection and developing a tool for journalists, we see a future for these tools. They won’t solve all our problems, though, and they will be just one part of the arsenal in the broader fight against disinformation."
+    publishedDateTime: 2020-10-13T02:18:00Z
+    webUrl: "https://www.thestreet.com/phildavis/news/researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda"
+    ampWebUrl: "https://www.thestreet.com/.amp-phildavis/phildavis/news/researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-phildavis/phildavis/news/researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/NVIDIA-Maxine-Streaming-Video-AI-Platform-GTC-e1601673784391.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc2MDU4NTI0MTU2MDQ0NzEz/file-20201007-16-1x1f5g5.jpg"
+        width: 620
+        height: 348
         isCached: true
 
 secured: "4X4yLeoQCP45bZRO3i3FUp5gpzik7aY/lPsv7OXn117T2Fr5SOa8s77QKCxP7E8r3ApmG6bndv2TWxehmRH5Ra/JPFwgdlkbBTPlNBPKoUWgINmFYY56kN0N/ILIS93yiNZAaGZzLufZJB462nac5KV8duaaBjj/2Cfg4+EzPTgsstdKFdqmDmciz5yvWhZXZYIsDGHXWH0PLPnDMCpuFRuYD05o7kEpytOMlxzBuicBGtg/6tNcBCW2lznQ2Mul6FoQ6TnoB2+TdQlEY7NC6WxYdyjhTRu0G+e+/U0hVPt2fKetEwW1BUFNnuVIie8JPOuRF+3moi6NdoYEiNYhsjJhBJJDpwjzwLCgNMoP730=;aweLk3UsSStpN5vr67Xf1Q=="

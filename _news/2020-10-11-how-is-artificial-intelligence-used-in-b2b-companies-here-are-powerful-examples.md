@@ -43,6 +43,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Facebook’s Open Catalyst Project uses AI to find new ways to store renewable energy"
+    excerpt: "The idea is to discover new “electrocatalysts” that can provide a more efficient and scalable method of storing and using renewable energy. Facebook AI research scientist Larry Zitnick said in a blog post the project aims to tackle the intermittent nature of renewable energy sources such as wind and solar energy."
+    publishedDateTime: 2020-10-14T13:46:00Z
+    webUrl: "https://siliconangle.com/2020/10/14/facebooks-open-catalyst-project-using-ai-discover-new-ways-store-renewable-energy/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/windrader-1048981_1280.jpg"
+        width: 1280
+        height: 809
+        isCached: true
   - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
     excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
     publishedDateTime: 2020-10-13T10:01:00Z

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-05-farmbot-unveils-new-cnc-gardening-robot-models.md",
+      "title": "FarmBot Unveils New CNC Gardening Robot Models",
+      "excerpt": "Across the Northern Hemisphere it is now summer and the growing season is in full swing. Vigorous plants that will soon bear tasty fruit are springing forth from the soil, but unfortunately so are ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/07/01/farmbot-unveils-new-cnc-gardening-robot-models/",
+      "originalUrl": "https://hackaday.com/2019/07/01/farmbot-unveils-new-cnc-gardening-robot-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/07/FarmBot-Genesis-XL.jpg",
+          "width": 4898,
+          "height": 3265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-nigeria-to-establish-centre-for-artificial-intelligence-robotics.md",
       "title": "Nigeria to establish centre for artificial intelligence, robotics",
       "excerpt": "The National Information Technology Development Agency (NITDA) has said it is set to establish a Centre for Artificial Intelligence and Robotics in Nigeria.",

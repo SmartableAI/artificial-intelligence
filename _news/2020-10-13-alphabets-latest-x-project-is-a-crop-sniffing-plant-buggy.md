@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/12/21513353/alphabet-g
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/12/21513353/alphabet-google-x-lab-moonshot-computational-agriculture-mineral-revealed"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -29,6 +29,24 @@ images:
     width: 1400
     height: 933
     isCached: true
+
+related:
+  - title: "Alphabet X has built a ‘plant buggy’ — a cute lil’ AI farmer"
+    excerpt: "The prototype device is part of the moonshot factory's \"computational agriculture\" project Alphabet‘s X lab has unveiled its latest moonshot project: a crop-inspecting robot named the “plant buggy.” The solar-powered prototype roams autonomously through fields,"
+    publishedDateTime: 2020-10-14T12:28:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/14/alphabet-x-has-built-a-plant-buggy-a-cute-lil-ai-farmer/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/14/alphabet-x-has-built-a-plant-buggy-a-cute-lil-ai-farmer/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/14/alphabet-x-has-built-a-plant-buggy-a-cute-lil-ai-farmer/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-14T121955.859-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
 
 secured: "RhBzN/qejoCq+kcVXpOCjJNni9/niy6i1JLD/BU/V5WUniYkYhPjiNoBkbWyHofXs/jat0j5ViiYe8GHmlrACPxQY2VPv3Sosat1ipk6V2BqYrWy6VaI2WsVmbBs8VSvDoZp+CbsG3OuCC1imeTiN/O7a2/Z6mAdEMqBrim/Xi6+VenJrTxPccF3juNGUpEWfqHQJ12I91pZnWMM/0AdIbCwtjIjx0KHr8wacJAlYGr95rJh3CJlD/D2apNH+Wzq87+O9xfCc8Vk/qElxy1bs82L10rlB+ej9wFY1Xv3Z6KcsmegudHuoQyRDrkuKKdwEAuYe3yapJhwVc3MIaGEh0ZCJKbG5r7qdEgEF7QMOjtGq9zFf15kdMPyER2VF7Wooo2eYmWzeL+tCqiMxRFHmhzjUWqBrKy+6tmXmEEL18XgbeKOLu+cy0+uxTHNu+9Dvba9R0mRzqkYJezev6KYSI2yvGBXnxrRK2qIdcbjkTNRJPpS3Aicu17j1/prt/uXXgYd2T/SAeZ27yRoSZLHNQ==;pmKju/ObgUjpygevadHX0A=="
 ---

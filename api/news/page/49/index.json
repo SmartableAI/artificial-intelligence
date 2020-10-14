@@ -2,6 +2,429 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-09-03-space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off.md",
+      "title": "Space is the place for Irish AI chip as PhiSat-1 satellite blasts off",
+      "excerpt": "The PhiSat-1 is the first European satellite carrying out an experiment to demonstrate how onboard deep learning technology can speed up the rate at which observation data is proessed and transmitted back to Earth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
+      "originalUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/image-creator/?id=1.4345721&origw=1440",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
+      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
+      "publishedDateTime": "2020-09-03T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-invest-in-miso-robotics-now-for-the-kitchen-of-the-future.md",
+      "title": "Invest in Miso Robotics Now for the Kitchen of the Future",
+      "excerpt": "Miso Robotics is focused on two red-hot areas of technology: artificial intelligence (AI) and yes, robotics. This helps explain why the startup has been so successful with its equity crowdfunding campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03",
+      "originalUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03?amp",
+      "publishedDateTime": "2020-09-03T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-what-coronavirus-means-for-the-future-of-self-driving-cars.md",
+      "title": "What coronavirus means for the future of self-driving cars",
+      "excerpt": "It's 2025 and driverless cars still aren't zooming around everywhere. Where are the chilled out passengers on their phones, or napping, as an invisible \"driver\" navigates a crowded intersection? They're still mostly stuck in the backseat as a human driver shuttles them around.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
+      "originalUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F03%252F6f%252Fa6d4e4206f524273a456c835e927fc6a.f164f.jpg%252F1200x630.jpg?signature=Gkxu5UScrquIxeAET3ZxIXak-BE=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/autonomous-vehicles-2025.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp",
+      "publishedDateTime": "2020-09-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-facial-recognition-market-size-to-witness-huge-growth-by-2026.md",
+      "title": "Facial Recognition Market Size to Witness Huge Growth by 2026",
+      "excerpt": "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-garmin-catalyst-is-an-ai-racing-coach-that-that-literally-shows-you-how-to-be-faster.md",
+      "title": "Garmin Catalyst is an AI racing coach that that literally shows you how to be faster",
+      "excerpt": "Garmin's new performance analyzer coaches drivers to faster lap times by generating a seamless video based on captured race data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/8L8TePMz_n4e-RBSBhQNYCc5Do8=/2020/09/02/af4cb264-c1ef-4bc6-b98b-1ff0bc1bc635/ogi-catalyst-hr-1002-4.jpg",
+          "width": 6290,
+          "height": 3302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "publishedDateTime": "2020-09-03T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025.md",
+      "title": "Artificial Intelligence in Retail Market Advancements and Business Opportunities 2020-2025",
+      "excerpt": "The report provides a detailed assessment of the 'Global Artificial Intelligence in Retail Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025-2020-09-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025-2020-09-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies.md",
+      "title": "NASA’s impressive new AI can predict when a hurricane intensifies",
+      "excerpt": "NASA has developed a machine learning model that, in tests, predicted when a hurricane will intensify more accurately than an existing operational model.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-03T103620.842-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/amp/",
+      "publishedDateTime": "2020-09-03T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-nitda-plans-centre-for-artificial-intelligence-robotics.md",
+      "title": "NITDA plans centre for artificial intelligence, robotics",
+      "excerpt": "In an effort to achieve a robust digital economy, the National Information Technology Development Agency, (NITDA) is set to establish a Centre for Artificial Intelligence and Robotics in Nigeria (CFAIR).",
+      "sourceUrl": null,
+      "webUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206",
+      "originalUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.today.ng/wp-content/uploads/2017/08/NITDA.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206/amp",
+      "cdnAmpWebUrl": "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206/amp",
+      "publishedDateTime": "2020-09-03T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TODAY",
+        "domain": "today.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-the-distributed-cloud-era-has-arrived.md",
+      "title": "The distributed cloud era has arrived",
+      "excerpt": "The rise of distributed clouds and app-to-app networking dictates the use of cloud-native network and security infrastructure",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.html",
+      "originalUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/07/cso_nw_cloud_computing_distributed_decentralized_network_connections_iot_internet_of_things_thinkstock_853701240_3x2_1500x1000-100801371-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.amp.html",
+      "publishedDateTime": "2020-09-03T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-using-robotics-and-immersive-technologies-to-support-work-from-home-employees.md",
       "title": "Using robotics and immersive technologies to support work-from-home employees",
       "excerpt": "According to a recent enterprise survey by 451 Research, the emerging technology research unit of S&P Global Market Intelligence, 80 percent have implemented or expanded universal work-from-home policies,",
@@ -771,412 +1194,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-tensorflow-tutorial-uses-python.md",
-      "title": "Tensorflow Tutorial Uses Python",
-      "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
-      "originalUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/09/a2.png?w=600&#038;h=600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-traffic-prediction-with-advanced-graph-neural-networks.md",
-      "title": "Traffic prediction with advanced Graph Neural Networks",
-      "excerpt": "Working with our partners at Google Maps, we used advanced machine learning techniques including Graph Neural Networks, to improve the accuracy of real time ETAs by up to 50%.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks",
-      "originalUrl": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/_0l569a7inOy7JzU1-ZvhKqYL6pCL6q_yEMTOPtZx-IeFPzN2yvLIRC8vZe922Q1JL4WB2JziEXj0CurKHeD5vSt3ILJtHgX5d36Fg",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-phoenixville-public-library-offers-free-online-program-in-september.md",
-      "title": "Phoenixville Public Library offers free online program in September",
-      "excerpt": "Phoenixville Public Library will host a free online presentation — “The Red Cross and YOU!” — on Tuesday, September 8 at 7:00 PM. Lynn Cohen of the American Red Cross, Southeastern PA Region, will be the speaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html",
-      "originalUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/1/37/1374194e-56cf-51d3-8af3-4f8e7208d475/5e615e660e7be.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.amp.html",
-      "cdnAmpWebUrl": "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.amp.html",
-      "publishedDateTime": "2020-09-02T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mercury",
-        "domain": "pottsmerc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-a-path-forward-for-eliminating-structural-bias-in-ai-tech.md",
-      "title": "A Path Forward For Eliminating Structural Bias In AI Tech",
-      "excerpt": "Until federal and state lawmakers pass meaningful laws to keep biased data-based systems from proliferating, it falls to the companies that use artificial intelligence-based technologies to help develop socially responsible and ethical governance approaches that advance anti-discrimination principles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law360.com/whitecollar/articles/1304822/-a-path-forward-for-eliminating-structural-bias-in-ai-tech",
-      "originalUrl": "https://www.law360.com/whitecollar/articles/1304822/-a-path-forward-for-eliminating-structural-bias-in-ai-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1304822",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1304822",
-      "publishedDateTime": "2020-09-02T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-track-self-driving-car-tests-in-your-area-with-the-latest-internet-tool.md",
-      "title": "Track self-driving car tests in your area with the latest internet tool",
-      "excerpt": "Curious about the locations where autonomous cars are tested? The US Department of Transportation has a new tool for that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-tests-locations-tracking-tool/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-tests-locations-tracking-tool/",
-      "publishedDateTime": "2020-09-02T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-low-code-can-lower-the-barrier-to-entry-for-ai.md",
-      "title": "Low-Code Can Lower the Barrier to Entry for AI",
-      "excerpt": "Organizations that want to get started quickly with machine learning may be interested in investigating emerging low-code options for AI. While low-code",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2020/09/02/low-code-can-lower-the-barrier-to-entry-for-ai/",
-      "originalUrl": "https://www.datanami.com/2020/09/02/low-code-can-lower-the-barrier-to-entry-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/low_code_shutterstock_Visual-Generation.jpg",
-          "width": 1000,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-latest-research-report-ai-translation-market-with-major-companies-like-ibm-corporation-microsoft-corporation-sdl-plc-lionbridge-technologies.md",
-      "title": "Latest Research Report AI Translation Market with Major Companies like IBM Corporation, Microsoft Corporation, SDL PLC, Lionbridge Technologies",
-      "excerpt": "AI translation is based on text-to text translation and speech recognition which converts words, phrase, as well as paragraph into another language. Get Sample Copy of this Report @ https ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latest-research-report-ai-translation-market-with-major-companies-like-ibm-corporation-microsoft-corporation-sdl-plc-lionbridge-technologies-2020-09-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/latest-research-report-ai-translation-market-with-major-companies-like-ibm-corporation-microsoft-corporation-sdl-plc-lionbridge-technologies-2020-09-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart-and-embedded-vision-systems.md",
-      "title": "Lattice Expands CrossLink-NX FPGA Family of Best-in-Class Low Power FPGAs for Smart and Embedded Vision Systems",
-      "excerpt": "Lattice Semiconductor Corporation (NASDAQ: LSCC), the low power programmable leader, today announced the CrossLink™-NX-17 FPGA is now available. CrossLink-NX FPGAs deliver the best-in-class low power consumption,",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart/article_0727305f-420b-590d-ae6b-3415106b55ca.html",
-      "originalUrl": "https://www.oaoa.com/news/business/lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart/article_0727305f-420b-590d-ae6b-3415106b55ca.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-nfl-reveals-new-expected-rush-yards-stat-with-help-from-amazon-web-services.md",
-      "title": "NFL reveals new ‘Expected Rush Yards’ stat, with help from Amazon Web Services",
-      "excerpt": "Football fans wondering whether the next handoff to a running back could be another Beast Quake have another stat to track thanks to Next Gen Stats, the platform powered by Amazon Web Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
-      "originalUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/bigstock-Football-field-114165206-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/amp/",
-      "publishedDateTime": "2020-09-02T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
