@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-14T00:24:00Z
 originalUrl: "https://siliconangle.com/2020/10/13/xilinx-spline-ai-use-ai-enable-covid-19-detection-edge/"
 webUrl: "https://siliconangle.com/2020/10/13/xilinx-spline-ai-use-ai-enable-covid-19-detection-edge/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AWS AI
 
 images:
   - url: "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png"

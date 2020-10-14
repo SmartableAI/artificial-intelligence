@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/medtech/takeda-to-transform-into-a-c
 webUrl: "https://www.fiercebiotech.com/medtech/takeda-to-transform-into-a-cloud-first-company-through-accenture-aws-partnership"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Takeda Joins Forces with Accenture, AWS to Transform to Cloud-Based Company"
+    excerpt: "Takeda entered into a five-year agreement with Accenture and Amazon Web Services (AWS) to support moving 80% of the Tokyo-based pharmaceutical company's applications to the “cloud” and modernizing the drugmaker's research tools."
+    publishedDateTime: 2020-10-14T16:40:00Z
+    webUrl: "https://www.pharmalive.com/takeda-joins-forces-with-accenture-aws-to-transform-to-cloud-based-company/"
+    type: article
+    provider:
+      name: PharmaLive
+      domain: pharmalive.com
+    quality: 37
+    images:
+      - url: "https://www.pharmalive.com/wp-content/uploads/2020/10/Takeda-Joins-Forces-with-Accenture-AWS-to-Transform-to-Cloud-Based-Company-BioSpace-10-14-20.jpeg"
+        width: 625
+        height: 350
+        isCached: true
   - title: "Takeda, Accenture, and AWS agree on 5-year partnership to accelerate Takeda’s digital transformation"
     excerpt: "Takeda Pharmaceutical Company Limited, Accenture and Amazon Web Services (AWS) have entered into a five-year strategic agreement to accelerate Takeda’s digital transformation. Not only will patients benefit from Takeda’s ability to respond with greater speed,"
     publishedDateTime: 2020-10-13T12:09:00Z

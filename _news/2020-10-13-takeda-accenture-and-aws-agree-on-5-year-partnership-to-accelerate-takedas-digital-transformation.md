@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Takeda Joins Forces with Accenture, AWS to Transform to Cloud-Based Company"
+    excerpt: "Takeda entered into a five-year agreement with Accenture and Amazon Web Services (AWS) to support moving 80% of the Tokyo-based pharmaceutical company's applications to the “cloud” and modernizing the drugmaker's research tools."
+    publishedDateTime: 2020-10-14T16:40:00Z
+    webUrl: "https://www.pharmalive.com/takeda-joins-forces-with-accenture-aws-to-transform-to-cloud-based-company/"
+    type: article
+    provider:
+      name: PharmaLive
+      domain: pharmalive.com
+    quality: 37
+    images:
+      - url: "https://www.pharmalive.com/wp-content/uploads/2020/10/Takeda-Joins-Forces-with-Accenture-AWS-to-Transform-to-Cloud-Based-Company-BioSpace-10-14-20.jpeg"
+        width: 625
+        height: 350
+        isCached: true
   - title: "Takeda to transform into a 'cloud-first company' through Accenture, AWS partnership"
     excerpt: "As an increasing number of biopharmaceutical companies go all-in on artificial intelligence, Takeda has now committed to equipping each of its scientists with cloud-based research tools by the end of this decade."
     publishedDateTime: 2020-10-13T14:50:00Z

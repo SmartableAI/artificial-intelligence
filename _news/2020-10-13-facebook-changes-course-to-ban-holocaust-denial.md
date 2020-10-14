@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Facebook to Explore Using AI to Help Store Renewable Energy"
+    excerpt: "Facebook, partnering with Carnegie Mellon University, launched the Open Catalyst Project to find cost-effective ways to store and use renewable energy."
+    publishedDateTime: 2020-10-14T17:01:00Z
+    webUrl: "https://www.thestreet.com/investing/facebook-to-use-ai-to-help-store-renewable-energy"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/facebook-to-use-ai-to-help-store-renewable-energy"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/facebook-to-use-ai-to-help-store-renewable-energy"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/QMhGwMSn-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Facebook’s Open Catalyst Project uses AI to find new ways to store renewable energy"
     excerpt: "The idea is to discover new “electrocatalysts” that can provide a more efficient and scalable method of storing and using renewable energy. Facebook AI research scientist Larry Zitnick said in a blog post the project aims to tackle the intermittent nature of renewable energy sources such as wind and solar energy."
     publishedDateTime: 2020-10-14T13:46:00Z

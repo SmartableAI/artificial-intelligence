@@ -48,7 +48,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png"
         width: 1200

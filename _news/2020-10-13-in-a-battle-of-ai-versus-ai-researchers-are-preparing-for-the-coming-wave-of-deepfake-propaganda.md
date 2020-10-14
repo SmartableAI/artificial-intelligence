@@ -25,22 +25,6 @@ images:
     height: 348
     isCached: true
 
-related:
-  - title: "Soon, Only AI Will Able to Detect AI \"Deepfake\" Videos"
-    excerpt: "Deepfakes are here to stay. Managing disinformation and protecting the public will be more challenging than ever as artificial intelligence gets more powerful."
-    publishedDateTime: 2020-10-10T00:00:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/soon-only-ai-will-able-detect-ai-deepfake-videos-170542"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 39
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2019-11-11T203337Z_1214682097_RC289D9IZ78P_RTRMADP_3_TWITTER-DEEPFAKES.JPG"
-        width: 1800
-        height: 1012
-        isCached: true
-
 secured: "qgKtIVp+oYRD1husA+tyI4peuqZNghA3eo6v+ozTDtDkxFqlBRIGywCugSTlXt0p7a0eNXtb1c/7n/k+5vjaG6LaPAzctPbFsXUftYMZmVIeXQW0OL5b4EF7GyhHvXsPJxIemGV19PT5BAtUPPHd8HHuetjKDq4qGdyudO8xIXg5otUZb9GEAwXVTCmi09V+d2W7qLTRZp6TT3A3t+t/d9WOIQDIpHDuiV+d+f6vF7wQ/oXMbbw6vH2DswgMwhVEveR1T/S8/pG5Z39YsJEqRjL73pc9B8BGs6XOK6auMixWVlugrav4QO0Y1C8Kh/QAk8LecN4F3m6JTWAfclAlHof4vpeb8/nMA5hCO0b+nVIRZiKQ6f7Phh2QMA40bMBL8vdqbUAQq8r0BBnmRvLev2C2CE/Gsa4DQCPg8dCNGlcasCz4FcF9AOIBDqB6cXur2/9LIomP6FbJpiZ5TyCC1Zo8BX8rb4Rq2aDIyklswsPe8lQCyFOsqWjmpPHhNZ6/iOtL5+mcoYdj61vZ8kakQg==;xrfPQkru7O+EuORB/Me+1Q=="
 ---
 

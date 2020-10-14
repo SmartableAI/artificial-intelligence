@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New deep learning models: Fewer neurons, more intelligence"
-excerpt: "An international research team from TU Wien, IST Austria and MIT has developed a new artificial intelligence system based on the brains of tiny animals, such as threadworms. This novel AI-system can control a vehicle with just a few artificial neurons."
+excerpt: "An international research team has developed a new artificial intelligence system based on the brains of tiny animals, such as threadworms. This novel AI-system can control a vehicle with just a few artificial neurons."
 publishedDateTime: 2020-10-13T16:26:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/iosa-ndl101320.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/iosa-ndl101320.php"
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php"
 type: article
 quality: 39
 heat: 39
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/245741_web.jpg"
-    width: 720
-    height: 697
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "+3HFDo4FcA3lqgPKBfxnoDyg+ois9wFM6BOG/eisXgjLMJ0Kg2dcb5nuXkhihisKOUiOOv7iDEJhVNZWTIyLd0pMdnY6ys0x+DBygH0fyhgjjC9SAggXzgKM1YCnV/BPR7nEXE0qcgH9hatJP6jnEYxeoQyq4nCtjHV5bdcGveJxVXfHkDrO/HmjmLJkEybS8wNU9w9CdJG23zWccfFlzFL7YhOYovghcTBKbrM4ohdicVhkQAzM8g7HqfbY+2iaM3+yOQXl40ZluMyaNDRx0nxPe45hRMtKUpwhjpoLNm9Rv/umRFubqYTEVKh3rRNAs1hf+TMLEHvzjRJ0JaILEUohyOABsPs+OxnTULqZpq6zmc3uJ9jFuNRnN+lQU8wESsTmS3ZL+JN91d0qpBFqAoViONOG7LEsMOUwQUs0wUdw4vx3abu9DADdqKwdI2C3obIoj9ZuSLzlw7dZCAh7DroFr7kLffNaSkl8yjlG3W+hJo6dituyg9dwQJ9rx1OM088yGpiwcYIJx3lcOVO0nw==;eNPDQOdggQFhZPZViRYXoA=="
+secured: "AMcSOYVo2bLayQOlGpLh3Tjy+4JefmzLvegRCS1NgJ6ZhYsvNEQ0XkOUeIusaVLA7SF9YjmFZy74mTF5/ByBdBrEpehZ+SexLi1/UYNWA7YlZw4W+Y3qn8DaKBjtHWNJe0sdlvwYMYF3WJ9Z4Iw5QkaW4TGJlKY7k69ta54R3hY2SgXTtSD+zOqR5wjcsBHNIv3lBD22cv146xyfqyv/GyrywfFhgv7CcemneLfGtz2Bfsp8Ym3ToDsIdqLk1gfFAL1ovjtgn39gNCRK3h2BGPIIZ47aES1YE8UWZpTLSqxzH4XnZe/RLOpkQ3JPMjTDOPZy7hxOKhxAXmbH73Gnak9UfN5aE+3uvhI17e9EO8I=;B/aIco2eXoZQmYHyF6CV+g=="
 ---
 

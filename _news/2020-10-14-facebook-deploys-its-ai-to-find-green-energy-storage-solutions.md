@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-e
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&#038;strip=all"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Facebook to Explore Using AI to Help Store Renewable Energy"
+    excerpt: "Facebook, partnering with Carnegie Mellon University, launched the Open Catalyst Project to find cost-effective ways to store and use renewable energy."
+    publishedDateTime: 2020-10-14T17:01:00Z
+    webUrl: "https://www.thestreet.com/investing/facebook-to-use-ai-to-help-store-renewable-energy"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/facebook-to-use-ai-to-help-store-renewable-energy"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/facebook-to-use-ai-to-help-store-renewable-energy"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/QMhGwMSn-720.jpg"
+        width: 720
+        height: 406
         isCached: true
   - title: "Facebook’s Open Catalyst Project uses AI to find new ways to store renewable energy"
     excerpt: "The idea is to discover new “electrocatalysts” that can provide a more efficient and scalable method of storing and using renewable energy. Facebook AI research scientist Larry Zitnick said in a blog post the project aims to tackle the intermittent nature of renewable energy sources such as wind and solar energy."

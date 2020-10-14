@@ -7,7 +7,7 @@ originalUrl: "https://blogs.microsoft.com/ai/azure-image-captioning/"
 webUrl: "https://blogs.microsoft.com/ai/azure-image-captioning/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Microsoftpng1572886233736png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
+        isCached: true
+  - title: "Microsoft’s New Image Captioning AI is More Accurate than Humans"
+    excerpt: "AI researchers at Microsoft reached a major milestone this week: they managed to create a new \"artificial intelligence system\" that is, in many cases,"
+    publishedDateTime: 2020-10-14T16:41:00Z
+    webUrl: "https://petapixel.com/2020/10/14/microsofts-ai-is-now-better-at-creating-photo-captions-than-a-human/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 54
+    images:
+      - url: "https://petapixel.com/assets/uploads/2020/10/greycat.jpg"
+        width: 1600
+        height: 840
         isCached: true
 
 secured: "9xTV8sAIc9F2GPAgrbJsFDGcGq/qOFa7oDj6srcxx0fpwb6inw9YJZRDaQEFKilfkc569/SpB6v3+37O6nh95QVlL9Ua41llxnjxgwVCTP1vGeGveWxRDpec79E8TiQoPAPaKhsXWRXBURy5IYeb1CxjcUz7P4wYiwEULfCfDUaxBBk+oaZ9z0c5LwC44axDDVcRZtN+HE0cHanmu0AzVWB3Ea3zZKQPeiu9C2UWg72lG0jTyb4OAV+iBj/cYEelR+fDH5UyK+w+hqt5SpDQBV0zfYL5+5albm9rkWMFJsvFBhYH07QoBNeafgcklvOCZKK15i72TddnuyL+qs/o+zf4+ZfF4i2o5wwEF0DanW0=;QUiLOsbF8qDozuPiDaS0ig=="
