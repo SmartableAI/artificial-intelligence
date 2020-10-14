@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tiny Changes Let False Claims About COVID-19, Voting Evade Facebook Fact Checks"
-    excerpt: "A new report highlights how easy it is to spread hoaxes on Facebook, despite the tech giant's increasing efforts to stop misinformation about the coronavirus and the election."
-    publishedDateTime: 2020-10-09T10:01:00Z
-    webUrl: "https://www.npr.org/2020/10/09/921791419/tiny-changes-let-false-claims-about-covid-19-voting-evade-facebook-fact-checks"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 35
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/08/fact-check-warning_wide-65e5eee84289323c3baabdcf9295c23c877b7914.png?s=1400"
-        width: 723
-        height: 407
-        isCached: true
   - title: "Facebook Donates £1 Million to Help Keep Bletchley Park Open"
     excerpt: "Facebook is donating £1 million (nearly $1.3 million) to help keep Bletchley Park in the U.K. open to the public. Bletchley Park, in Milton Keynes, was where nearly 10,000 people—75% of them women—worked to change the course of World War II by cracking the secret code used by the Nazis to communicate."
     publishedDateTime: 2020-10-13T16:44:00Z

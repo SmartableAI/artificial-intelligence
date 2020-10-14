@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-bletchley-park-donation/?amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i.insider.com/5f858116c255d800190b9832?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Tiny Changes Let False Claims About COVID-19, Voting Evade Facebook Fact Checks"
-    excerpt: "A new report highlights how easy it is to spread hoaxes on Facebook, despite the tech giant's increasing efforts to stop misinformation about the coronavirus and the election."
-    publishedDateTime: 2020-10-09T10:01:00Z
-    webUrl: "https://www.npr.org/2020/10/09/921791419/tiny-changes-let-false-claims-about-covid-19-voting-evade-facebook-fact-checks"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 35
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/08/fact-check-warning_wide-65e5eee84289323c3baabdcf9295c23c877b7914.png?s=1400"
-        width: 723
-        height: 407
         isCached: true
   - title: "Facebook changes course to ban Holocaust denial"
     excerpt: "In a major departure from Mark Zuckerberg’s past approach to Holocaust denial on Facebook, the company said Monday that it would ban such content and make related changes in the coming weeks. — FCC slot,"

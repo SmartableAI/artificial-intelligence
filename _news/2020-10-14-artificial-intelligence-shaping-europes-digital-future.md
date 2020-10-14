@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-14T00:25:00Z
 originalUrl: "https://idw-online.de/de/news755773"
 webUrl: "https://idw-online.de/de/news755773"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "http://www.idw-online.de/de/institutionlogo21873"

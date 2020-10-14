@@ -37,36 +37,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
-  - title: "IBM Makes Esports Debut With Multi-Year Overwatch Deal"
-    excerpt: "Starting from 2021, IBM would deploy its technological expertise to improve Overwatch’s league ranking systems. Reports also suggest the use of Watson AI, developed by IBM research, for predictive analysis. Why Does It Matter: IBM has contributed to ..."
-    publishedDateTime: 2020-10-09T09:31:00Z
-    webUrl: "https://www.benzinga.com/news/20/10/17847437/ibm-makes-esports-debut-with-multi-year-overwatch-deal"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17847437"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17847437"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/2212158644_cdfdb7f997_o.jpg"
-        width: 1070
-        height: 1600
-        isCached: true
-  - title: "IBM makes esports entry with multi-year Overwatch League deal"
-    excerpt: "US technology company IBM has made its first foray into the world of esports by signing a multi-year deal with Activision Blizzard’s Overwatch League (OWL). The agreement, which covers this year’s Grand Finals and the 2021 and 2022 seasons,"
-    publishedDateTime: 2020-10-09T10:56:00Z
-    webUrl: "https://www.sportspromedia.com/news/overwatch-league-ibm-esports-sponsorship-ai-cloud-analytics"
-    type: article
-    provider:
-      name: SportsPro
-      domain: sportspromedia.com
-    quality: 24
-    images:
-      - url: "http://cdn.sportspromedia.com/images/made/images/uploads/news/owlibm_600_347.jpg"
-        width: 600
-        height: 347
-        isCached: true
   - title: "IBM signs first esports deal with Activision Blizzard’s Overwatch League"
     excerpt: "IBM's Watson artificial intelligence and machine learning. The sponsorship deal kicks off at this year's 2020 Overwatch League Grand Finals, which started Oct. 8 and run through Oct. 10. The deal covers the 2020 Grand Finals and the entirety of the 2021 ..."
     publishedDateTime: 2020-10-09T21:43:00Z

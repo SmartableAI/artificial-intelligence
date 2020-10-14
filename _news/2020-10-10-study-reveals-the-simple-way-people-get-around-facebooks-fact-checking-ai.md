@@ -42,22 +42,6 @@ related:
         width: 1121
         height: 630
         isCached: true
-  - title: "Facebook's nudity-spotting AI mistook a photo of some onions for 'sexually suggestive' content"
-    excerpt: "Facebook said the onion-seed ad had been removed for breaking its rules on \"products with overtly sexual positioning.\""
-    publishedDateTime: 2020-10-09T10:14:00Z
-    webUrl: "https://www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/5f80352d4c3b2e0019bba0d4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "ZSvYmIfk5Y9U+EFn9E/YUbce+dfWZ7SZSYilOUCiAedkrGI+iwfwtI+hJ9a2KmKolQk0aOrDE4wzNo3t1pokeM+HvzTF7O2c6jDqG1ZsuHmfxNurO+nu4K8ayZj1D4sixVh98PGBf0PtObiSfLpeA7JEfb+tcDTKKLeqJI6PgenAKUKb/XTNnINyeM4XHmR1L5S2CZUF+KyvBBY3jdlq96AIP4rHW8O5pq359X759Sht6QjhK2oherAgMDwAEewXbnuZZ8anK5icDdc7l+ocFcZROt/Hl4FbBwS56sqwy94b0jCYH22OWZ2Q5UswkJWU9csPfZqmYDM/zsnLiZerbdYK/glBZFmoH6DQdVPTfqkPVCybcZOijVuVUynXfYQ710SXQ1BJRkOtV6BeoqqFTiaAzwL3IgGEjmpXJZDZh2KZmcnhUfh15nYrpmVQPcRewCIS04qS0RlPF7dISawT0qYaRqbyWbEIKI7OGMfNLiRrjV0I6D8EpumK63orVq+e8/PXffESlKL1keQOX2csSg==;q30v84yEvAOIW8rf4ZGKrQ=="
 ---

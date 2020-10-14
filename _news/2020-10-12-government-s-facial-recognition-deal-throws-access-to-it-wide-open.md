@@ -135,6 +135,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "J-K Civil Secretariat Employees To Mark Attendance Through Facial Recognition System"
+    excerpt: "Employees of the Jammu and Kashmir Civil Secretariat will mark their attendance through a facial recognition system from next week, an official circular issued on Tuesday said"
+    publishedDateTime: 2020-10-14T02:58:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/j-k-civil-secretariat-employees-to-mark-attendance-through-facial-recognition-system.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 32
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wcf1suarecosngc0_1602644255.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
+        isCached: true
 
 secured: "SWaMCfdH8XuRmp08ppBhNn2LFeEzRYijYrO7odQuuZTHXK+nYcEcijlwAR1gKaw8qU8Fiej7DBdEWNkgMavTet/DDpOcGpD0MAroWCvIriWB0PAzVBtiVeC+Gan3fBetCB6WYtQ4z9j46mgTVTLaaHibteAzbWc+fWHCqXqH/182/aYgZJVif07LfPiZm36A+2OWnl1DhN0ppHz6VkIc1IvleTIzjpnLJR21haTuEt+iCiCdLw4SDXzkjRXfOyeIRY+b+lCi6yYjw9FxhMSO2+BjZvDx7WwYzmYWAtpEebciDjq3oFk22gPuu8dTZc9GkbBs43JGteD2XXZYiPMzqPdqbqBV7/qsUXVaZitht9tQF62KG8kI0jFwM77lOsV+P28UgABU7KL3+bZZHzQf4ZfQCg5bMHazeio/lgXP8veslo6VDFGB+kfch2kI2ccMJJvnA3eq6bGvTdkCxo80jwsr6ou/fy+JXB7T1/+m00yOSuknAG/hXRXqvqYP/x1XMZ1ouyrbaRUx3GYFNL8DQg==;ydou7l4z4vEQxsW/fUUDiQ=="
 ---

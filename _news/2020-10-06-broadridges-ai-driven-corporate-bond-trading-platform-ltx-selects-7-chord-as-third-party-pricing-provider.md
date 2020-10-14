@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Broadridge's AI-driven Corporate Bond Trading Platform LTX® Selects 7 Chord as Third-Party Pricing Provider"
-excerpt: "PRNewswire/ -- (NYSE:BR), a global Fintech leader, today announced that it selected 7 Chord, an independent predictive pricing and analytics provider,"
+excerpt: "Broadridge Financial Solutions, Inc., a global Fintech leader, today announced that it selected 7 Chord, an independent predictive pricing and analytics provider, as the source for intraday corporate bond prices on its new artificial intelligence- driven,"
 publishedDateTime: 2020-10-06T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/broadridges-ai-driven-corporate-bond-trading-platform-ltx-selects-7-chord-as-third-party-pricing/article_61c7d200-cbdf-596b-8ad6-dfee29d1a627.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/broadridges-ai-driven-corporate-bond-trading-platform-ltx-selects-7-chord-as-third-party-pricing/article_61c7d200-cbdf-596b-8ad6-dfee29d1a627.html"
+originalUrl: "https://www.nasdaq.com/press-release/broadridges-ai-driven-corporate-bond-trading-platform-ltxr-selects-7-chord-as-third"
+webUrl: "https://www.nasdaq.com/press-release/broadridges-ai-driven-corporate-bond-trading-platform-ltxr-selects-7-chord-as-third"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "joQbvl863QVuxJ3C9hrBoEipJBm675kVB2AyFkiVqZ8OOLgOevrusqBOeyYKwCABn26cWJQapRcW2o+pQX8p1qDrDMHOIvy0/M4Vd5j2Tgu4Fe2dRSDKZGbDxTdZaN42DB9Hsuv4+LfzhIdqFadYLe86fFu9lmUm3xG6YSEdW0YwivHBUNOWQpkmuANQWAKDLhXvOeFCY9iGNmxWVh5rwGYXAh0pit5JUdBEpMZ5dua859uKrXU/HDmo/zaDpzeQ2Csn45lmzeOSX2L/6xdpuiqJU12bII73yxWC6syKDKsFdOi0QfQbBJRlvnAhp8p2BuBR2/jG926CS+NvTUtJq/V9I9svMmp5fMpy/AfpKkY=;KOePG8xWVRa81Vv6DndRDA=="
+secured: "fPfscOdcP1Snmd1/U7hOjtQJT2Jmos1oCDlv3OsU/fHf/mUL7DpWQdmHxVd39z6lAXLeIkN5AP5gD9yOVQMdna4wSy+kX8YInHip7ASgJzQN0N+rEavdIQCrBnA7rZa/jPqOgpqF6J1gzRA1PI4PbICbE3zRcIRgn6/idsrVgq7MsxLBxlq/ZdXy9xH1M6UotYKLe4XBARTeumIJ+0E9zq2lich7l45zHnihFgUulKI8zAs6yi3r1rScwNXz07nUdsn4XChYWQk2Lz7qjbncGcQphdbXnVfC/B3MZt2sWHfhvK5Tg+TZOnOZ4ej77fESMG+L5jb5zDRwAm4TgcgHW9WaN2IPUbAxJh/EXMRLxzk=;Mbyj+irFensnmEpNA0A/VQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F10%252F09%252F1a%252F3ed24ba1a52d43ab89e60a7b7214f207.b4fb3.jpg%252F1200x630.jpg?signature=t51jPMwvDM2dkWg9XqM-7of1HfM="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facebook's nudity-spotting AI mistook a photo of some onions for 'sexually suggestive' content"
-    excerpt: "Facebook said the onion-seed ad had been removed for breaking its rules on \"products with overtly sexual positioning.\""
-    publishedDateTime: 2020-10-09T10:14:00Z
-    webUrl: "https://www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/5f80352d4c3b2e0019bba0d4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "1744SF3AmPJIHY3aFBsNXHUfNOW1D7APgQVD2yJ5VaYIFn3CvGyrvCdV48Jy3lfICkRQnePGIcko+ovY/qti9YX7Bbf+uNxssMIiCGkmGS6oOqJHdmAx+8gLRyCUiGaohBadPpu3woWwEox+WVL9qeW/DiTU297YHQNhslmboCpxP+m46EpEMT+Cxl/qXKqJUfQwonsRulxTJOeNT7xcK+ibBBAPNlVdPur1+7XlBXU7xszZj0AzXHa67N4gZuJHqM8mC7gqoHzsD6pageHFNl62hRYFoFlNrUDFch/MV2LTgl0rc1fcACj62ynu4JviyBJRBUYRlEjUu+o+22F29zUtJHAvlyA0rF8zdzr/1+WQpY+rynMJu8uybum3ZZ0ZrVgFIxsJwhumQQh2JjxxDHkMmwEWDFyNROSTGlg5dbsyMEJyKURqFCDNTdMaF6PJ5QHJwSstLsC7U4Vhdrvc+g9DKRSrenV8Qp2tAW7BUecT5h9RQI7zXO5tMecVYJftxJM/FtxrXZSOaLpk/CiGrA==;CI23GZQmVYacXyWyIxLOJQ=="

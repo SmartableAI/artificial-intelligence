@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Best facial recognition security cameras to buy this year - CNET"
-excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves. The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"
-publishedDateTime: 2020-10-11T08:35:00Z
-originalUrl: "https://www.newsoneplace.com/33252581911/cnet-best-facial"
-webUrl: "https://www.newsoneplace.com/33252581911/cnet-best-facial"
+title: "J-K Civil Secretariat Employees To Mark Attendance Through Facial Recognition System"
+excerpt: "Employees of the Jammu and Kashmir Civil Secretariat will mark their attendance through a facial recognition system from next week, an official circular issued on Tuesday said"
+publishedDateTime: 2020-10-14T02:58:00Z
+originalUrl: "https://www.republicworld.com/india-news/general-news/j-k-civil-secretariat-employees-to-mark-attendance-through-facial-recognition-system.html"
+webUrl: "https://www.republicworld.com/india-news/general-news/j-k-civil-secretariat-employees-to-mark-attendance-through-facial-recognition-system.html"
 type: article
-quality: 39
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: newsoneplace.com
-  domain: newsoneplace.com
+  name: RepublicWorld
+  domain: republicworld.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/u6hR0A8J2nLaSvXpk9Bfy9ieJLg=/300x0/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg&h=250"
-    width: 444
-    height: 250
+  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wcf1suarecosngc0_1602644255.jpeg?tr=f-jpeg"
+    width: 1242
+    height: 709
     isCached: true
 
 related:
@@ -93,6 +93,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Best facial recognition security cameras to buy this year - CNET"
+    excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves. The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"
+    publishedDateTime: 2020-10-11T08:35:00Z
+    webUrl: "https://www.newsoneplace.com/33252581911/cnet-best-facial"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 39
+    images:
+      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/u6hR0A8J2nLaSvXpk9Bfy9ieJLg=/300x0/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg&h=250"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Facial Recognition Technology Can prove a Curse"
     excerpt: "Divyanshu Dembi Facial recognition technology as a concept, is not new. Charles Darwin, in his book Expressions of Emotions argued that human facial"
     publishedDateTime: 2020-10-10T18:34:00Z
@@ -135,21 +149,7 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "J-K Civil Secretariat Employees To Mark Attendance Through Facial Recognition System"
-    excerpt: "Employees of the Jammu and Kashmir Civil Secretariat will mark their attendance through a facial recognition system from next week, an official circular issued on Tuesday said"
-    publishedDateTime: 2020-10-14T02:58:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/j-k-civil-secretariat-employees-to-mark-attendance-through-facial-recognition-system.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 32
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wcf1suarecosngc0_1602644255.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
 
-secured: "oWiBZmCuadUBPzF6JIGpP+QOJoVDC5Vkh+4ue8Vhtfeu5yfdRNqt8ECTLB56mAvpBP8JR9SWs975kkpeD2/SOmaF6zrBjMGrnv9p7bpLGEimDxZ96kLh70HrgpldkoExOx0JyEpE90GddmA0tQNfWvA50zLknBbnXmChoM8yCJO2mbKzbCbLAwwNZySNG7cEYUyshidQ0o/mDE6pSPH8cX7lK0R1Sx45IA7PPgQv61sNLpih7rA3j/QrCWDzCznDY4GYo8NK6r7e07977L/pDca/NRsREEcjvmVR5+hy/uB73vgl87BMCvYGmxml1t+R7e+cDVq6QB3FlDdqq6igjMUh6j4w7IIibnqOoYlq3Ylioz9ywFmr4Ou2epHFLptm8uhvFLE50wgU765wx7DNfsz6T90yb1AOLwtM1V/bc5wp6amHqF7znTREPLsSxHivbu3s9X44ishIgYE13sWIG4jKI5uBxgeBbx48CIgEN4UMaps6xFXpOWgTvReOExP+cKxsUrTgOrvULoktIjU+LQ==;cg+moLykuQC2LMotjlqX4g=="
+secured: "YPa6NY6U5spzpYBgMCrWBfz/E5bg/ujGrU/lSB0HSnittll8tPpUUm5tYWCDIQcpXxAQwMkJQCW/VvA+34GIBufjLdA2ax9I/M4fJEUCakUH1D3aXwjbErQCmVYMqEToxk/gvRUwDKyVpwo6ye/lQYsTqRNlDO2l/9hMNwCFr9d0KGMnSUt2pBaOXhfqhRgJ42dZiFt02IYj86SfubGrtidJFipDLoDlmhPrQpBdnLPdXtJYhfvK2LyQiomOgXJWP2+6l5c0FfCRBY6W4gANhOqHgrBPvC3Riv6qFBCdBEt7QHkJJ1bres4RLCd4MsDNcTd0DSK8qss6h76Kyai6reTCpUO0Tv9lYlnJheXJy7A=;C3iP+SnKWdKVyj1xZOkwCQ=="
 ---
 
