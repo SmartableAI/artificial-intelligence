@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-
 ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-hw-summit/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-hw-summit/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8735e73053aa8ee6859662%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 441
     isCached: true
 
-secured: "RK7fBYlKUVXnY4dxxh+b+q6ECOCJ2d1pD0m6hhtdwlukiA+QnLn30QxKuPVdzAIgGQ5pfAhR8miUusYavYesFSlA6iv3s7X+XJfhhtxYaIUUae3VtBUu5LbHKyc0jSDyd1m8RzH4C9iENVsPUnUpu6yHPLxP5VcihA27jGlNBtYfVWdkFariiZRRRTwdledJPn2HZsUN50g243fzW4/fL/juxWjF3juUtucT9VBFNKpy0cdEWi29UA1craiag6ouIRnwVPpUmbYDiSQXurt4XbaPh2dXccAYqaB3HQ+S9yMzLpzz6GIM/AHW+t4dVfcsNF5LIgPdo8OIt1v5Ef7tQtawGBh7/45LKH8fJj4UI60=;7eLDxKEd0E56Ru4ohrrJJg=="
+secured: "wdjJk2Ju7pEQD1uS9k/OoXk0rI0nBaycYITQUWPhYTkXPfaPMYlU8gayXyrsJnVHALClsuUFTxtuamhjSq0wRauhOxOvp0SWg6bp9Egc5N7Vl13rjxcYLBZOObXaA59cXWFN3zHpPPbiP8SBUVs0gow+wcNLsfgkt10vcBMvqawdAz+VD/vzB9zWK4vJsD6h+fQOFvPwJa6DSS8/WjESbcfiK+7tTD1WlJEGW6BpW4QZiA0/uT4psbRa+dQsEmkMyTcOUtrfpkDo5mwggm6U1SpgZOXxv6e33ayNf7jDqn8iFYZfICNVSTt/bSyzdOJMx6j+Je9lobRWBRRJxWGK9GlOcvmhGHjER6/o6xgad8IyoVSUtFV8chUlqZlLLAmcg9cJC4OZklaaPrOE2U5UQzYWBnU9ByYgoqbLAssV6L83oV4hUn1y0Oh7ZNdm2u9u7vjGprGjABv64N/sZvxYfbQri5m215x3tzJ0xFMw+8jXb641fn/s78zS6quDSEqQjA9O0jqCtT2OczWDy4R4Kw==;rR4XnaH58/a7Nixu6T0N7w=="
 ---
 

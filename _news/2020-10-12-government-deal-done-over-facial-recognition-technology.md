@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Brazil’s Government Wants Facial Recognition Boarding at Every Airport"
+    excerpt: "The Ministry of Infrastructure wants to implement a new technology for the boarding process in Brazil's airports. The project, called 'Embarque Seguro' (Safe Boarding), enables the use of facial recog"
+    publishedDateTime: 2020-10-11T10:16:00Z
+    webUrl: "https://riotimesonline.com/brazil-news/technology/government-wants-facial-recognition-at-every-airport-in-brazil/"
+    type: article
+    provider:
+      name: The Rio Times
+      domain: riotimesonline.com
+    quality: 54
+    images:
+      - url: "https://riotimes-11af1.kxcdn.com/wp-content/uploads/2020/10/Facial-Recog.jpeg"
+        width: 2048
+        height: 1463
+        isCached: true
 
 secured: "/vf1pkQ0pQbXVOAOrBRn89fVwKnSlL5om+oy0UQyQiceXbDDvbJVF6dHl0ifxfSoLn2/sA6tx5wmG77lW8bBioaKmtOI2tWQJgt3L3UJHdjGQxEEcsUox5D5dC3kF0Qd2dcJ0tzYKLnXI16+QGTw4zdaqhfkkq0WCflQ9TuuiXm5UP4cWZYubg4fvbE1CdnfEzmcGZH5CCSSGmwnk2L4rtL+dT6QvCVCV3CyPyja/x66px8SzPE2XWLfrxnSRi+QyCmvnj7VKGpFMTzotrFpktD+D0zrW+LqyOnWkTywtuND4Skfimzw4tlh4DYFBvIxo5QZMBlILEFLItiYElSgn0cF3DPs+Qu9JccK7tDAapw=;R+VlD3S2nxatlngzvtNkOQ=="
 ---

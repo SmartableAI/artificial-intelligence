@@ -3,10 +3,10 @@ category: news
 title: "Azure Data Explorer gets new engine, numerous enhancements and Synapse integration"
 excerpt: "Microsoft is taking Azure Data Explorer (ADX), a hidden gem in its cloud platform, and trotting it out to join the Azure analytics mainstream. Performance gains and numerous integrations should make ADX's heretofore latent value much more apparent and beneficial,"
 publishedDateTime: 2020-10-14T15:30:00Z
-originalUrl: "https://www.zdnet.com/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/"
-webUrl: "https://www.zdnet.com/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/"
 type: article
 quality: 83
 heat: 83
@@ -30,6 +30,6 @@ images:
     height: 513
     isCached: true
 
-secured: "Xnd7zxjlBh6VS8FW3/FAosRgNDuyTrwZsEmky92LkkLmwnGI3t03vwpFkEf92FF88ya6RkQf5vtyBBWue+mj527/5yrUEKYOHHF28ELP+WfqwdjLMSABLNWUAaLXgKTA0rqa3tcg2kqqQxHBW1C4wi98h7O1wViXVMC68LzsKpsrpB0LncvD52m++2jLKlcGw+Xp62nHpA51FsX+1KxqVIqJHppxiBgKTKGZzctBBRBqAstafI4hxMNGg+lFdh+EZ3OPfy1Q8I8hrHrxfUhHPdrlnxLikAbOWdOvTmDu1W/n8L4CBGdxkmOOJox5YH1+zOlCs/wuMkTbFTnUZsaYAx8wDfBUiK4EhzjDi+wIqSE/YRgE58k20rrNaKu0Kq48LRxUI5pmMCmTQxp58n9qi9XTI4+7o2CEjF8CX/weeH/fehdQgT6P7JjQx65zjh1TfJCHp/E8G7vbQZezxRPoU+CwH2+FlpXJ31hHh7iW3U3+kr4wR2/BIB689+iZ+nVc1Y9ahTDEDEkC10v8sciRmw==;E0RrP1vrgqICepda1KK+hA=="
+secured: "B9FPqZwzJNdizdODke/hxyFFK+FqRlLfknk7Rc859M89uiE3Djxxrr/m+yfiF+7Lg2D3GiLloSIbq7pM556+HPaakFg17JfA0oAE/9EirdNei/grzNktTPIJCpeae5ZJQ5rEnovVcZqrrd/unTQfnktr/b7Bb0dtvy0I3Nv6FqWfoSbvsTKRB++HXIBSc41ExBObVbKOqO6e0LRm73ML6ncre44I2JBABLGQCDBBJyCFynWdqgyK76nVoT4a//Js87HlzcLq6b+IGXhj/9BGIBwv+nBc5www+pvwsxV0lKUWIo09ucga4fP3Q2lAop5dRsszxDpfbz5FZ3QSqgA015w29n5SDCHMYVA1pLxZg78=;MLe5gaCB/STfBVQLc3XzRA=="
 ---
 

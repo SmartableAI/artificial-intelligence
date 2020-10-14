@@ -45,6 +45,20 @@ related:
         isCached: true
   - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
     excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
+    publishedDateTime: 2020-10-13T10:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
+  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
+    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
     publishedDateTime: 2020-10-13T17:01:00Z
     webUrl: "https://www.prnewswire.com/il/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
     type: article
@@ -57,15 +71,6 @@ related:
         width: 2700
         height: 1414
         isCached: true
-  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by Grove Ventures. Navina has already been integrated into several large,"
-    publishedDateTime: 2020-10-13T10:13:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20201013ln56426/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "9AIqnShJvMss7SsUMmdyrjkqfQSwrQTkNQoSKNq8ICc6OkExyBWub7+4l/uHli1AIZJwIogo8sLYJLtTwuVEoelBr7K16YuT9J3SgYKGGdX5/0I4bJz998T1ZEy+/Qur4F58Yv9H3zkQ1YEyWJyrwJd+oe/pnGEV+E6a8Nrz9utD6qnQMvRRp4VlKTH6baBLIel81weghSuqP0dVR735QyGyN1ZrDa544wScHmCPsWnYrs93mcsugMWSNfxeTMSUVswcayJAgnc7ek8OfKggrtd++eCLZatSeAiwWbNTMweqsrxZdU2uhyouQEuoV3jgmlgJfwV4gd1RZNTZodpKBRzs+T+VI9DzEzb+yxtW7MuNcA8WMBPZOHWYUO+SZXrJJo56Y2BPCW01UhQy+Di7f5CEtzJI+nORKQQ6MeXd5jB2thIUCmwVpO5TVkC6R4iHmdyP6sKDhNzc0Mf4H6JAMseX2mbqroE1oAKwAkI46nqowAKD2BlMckpN+9Ln9M/+ryULilGBVySqVJ+LLAxdQA==;QPIQ0JSSP69MoTU5ebbgwQ=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by Grove Ventures. Navina has already been integrated into several large,"
-publishedDateTime: 2020-10-13T10:13:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20201013ln56426/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20201013ln56426/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care"
+excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
+publishedDateTime: 2020-10-13T10:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
+webUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
 
 related:
   - title: "These 8 tech companies are using AI to improve healthcare, renewable energy, and more"
@@ -62,6 +68,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "3vbwCmRipmvUAqBoMY8RGgoqm8dNFG7h0uznLkMKHx69JciRExDV9bLCaq5A9q7/VbMv3zd+REZtiZBXXT9FYrVWL25ajyc+upsCm2ZjCaWaFmXiu1rvr3RmDgCCT9afZF3mLuX35NL8XtCrwM6puRcOaR2ha/wvr6DS7PT7HQI3aHTvDYMUEjkIaYwiVCuHyAfzXJD62Iy6lBUf4gaAdoJXCL9wKmJ0RG/nxPcDPmRMUy/nE5UfQahnW/Lk8WUqjLqAL0HST+w+HF8qGN8AYKQ0o81Z7lPYSLlLnOm17sMYopmpcXQPs956eumEqAp4eQWcpUuqTBm/4xRuDBbNEyJqjFfHOfiQUt6SKIH20L4=;hjaIFJIyrBowrVXj/zRKPA=="
+secured: "8cTAlT+nISFJQMY0GwsLSiMd//LCt1MPhflPBhkYseu/o/FOj1Oogtb/tR/ZMbm80VApDtS7rR5ae8fWHuTJHKYGysiMb76cmqsWOPVQmfmPfvd/YFmy/H0uEJfBp0MtgvsleJ+GPlOtj5hFABcHFCzb7zNcKw7YnJibypXhOP3yhi6g2Ib2K4yB8Z7IuL+AHxcld0eT9sc/9bNYcnD2fWwkLyV+epsdrYmZtUhWwf3wV1f3F8LJGQ5b6/eIQbB98LYU3qSCuW/zPkTDaM1cBX/PilfgymR5S34I7Fo0j2oxLVf8spwbXPChBLapKHPBB1mgfpHDJG52KyhJnv/2XjNeN+YjWm40608c1r4ugms=;wASfsC86dWX7G8qzd5tSHw=="
 ---
 

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Alation Named a Leader in Machine Learning Data Catalogs Report by Independent Global Research Firm"
-excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, has been named a Leader in the “ The Forrester Wave™: Machine Learning Data Catalogs, Q4 2020 ” report. Alation received the highest score among all vendors in the strategy category and in the machine learning criterion,"
+excerpt: "Received top score in strategy category and highest possible scores in 26 criteria including machine learning Alation Inc., the leader in enterprise data intelligence"
 publishedDateTime: 2020-10-14T13:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-sapphire-computing-and-information-technology-data-management-f0e6aa3249c444d28267f7d07fa6f41c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-sapphire-computing-and-information-technology-data-management-f0e6aa3249c444d28267f7d07fa6f41c"
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/b17902825/alation-named-a-leader-in-machine-learning-data-catalogs-report-by-independent-global-research-fir"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/b17902825/alation-named-a-leader-in-machine-learning-data-catalogs-report-by-independent-global-research-fir"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17902825"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17902825"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Collibra Named a Leader in Machine Learning Data Catalogs by Independent Research Firm"
@@ -40,6 +36,6 @@ related:
         height: 1132
         isCached: true
 
-secured: "vIUfgZbICLJqfZTThLp4E+JrSlfnCYXfki4BDfQxxQS2ClY1qahmbcIW1M5XjFsdMLckAHJGXGJN88HuzPUK3U+io9YOF9DMjIg8aALazuU5ZDHyz84Tf1sfGe7N+mqxRdRt4cQ8JW2Tvp/I1FurrOqeEPPVJrJH3Os7tEw5Xnqf36xw+daLoC2kaUcppj6NRURgLzGUdV1XKF6eE8c5RQL7wWmlcYj3ToI0lLyAwHGG2eV37wpDco+V5Ze1WaOgKGhbZ5NrehEIMEVDgIvS53ZO5myJZroDXsRQjHZCvq8KdXANhJkEXd1iFvp/bmUPtkQT2yoCBtSKok89I0cIEcJYM5LYrlP1cqVDhViZkII=;TkNnLFqs0PDCzbSr4DXRXA=="
+secured: "HIyyQ7kdaYZcPFz5Nn37yPPCyF1jMnzJ9z2F2NWm0JyrPjQ46nxGrIA1PeOSk5srp4soL6tQ3JjEJJU1+Qh4p7W+T0gQ88dj+9odmz1myB9amVR2KOhNueNMKE9+X0tJITEDn00mEfo/3byuaKhaRjTx9sbmMLG7CrzbR2PrdnFcIRc4lOOA5iqfAWjcYYRlwSMlIefaWbDUTTL4sBfZwtuROWbi5niPsS7ncht+olzSfnArEZ/wnptmdf246gDJaSqLOS3lVqleS0PRQmDzeX0QFdOto0qN0SnTbAn5qhWj4g/Tu+OLO3BKbYt1b0ENHaFUO/vwATtijlkcpfJL2IzT4ODDiZuj36seriFgQ/Q=;DMzMPxm8z5p3T3INBQWY4w=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 442
         height: 619
         isCached: true
-  - title: "OPINION | WALTER WILLIAMS: The fight for free speech"
-    excerpt: "The violence, looting and mayhem this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts common sense and the principles of liberty."
-    publishedDateTime: 2020-10-10T02:09:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/oct/08/walter-williams-the-fight-for-free-speech/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
-        width: 340
-        height: 246
-        isCached: true
   - title: "WILLIAMS: The fight for free speech"
     excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
     publishedDateTime: 2020-10-11T10:15:00Z
