@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Alation Named a Leader in Machine Learning Data Catalogs Report by Independent Global Research Firm"
-excerpt: "Received top score in strategy category and highest possible scores in 26 criteria including machine learning Alation Inc., the leader in enterprise data intelligence"
-publishedDateTime: 2020-10-14T13:22:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/b17902825/alation-named-a-leader-in-machine-learning-data-catalogs-report-by-independent-global-research-fir"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/b17902825/alation-named-a-leader-in-machine-learning-data-catalogs-report-by-independent-global-research-fir"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17902825"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17902825"
+excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, has been named a Leader in the “The Forrester Wave™: Machine Learning Data Catalog"
+publishedDateTime: 2020-10-14T15:48:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201014005579/en/Alation-Named-a-Leader-in-Machine-Learning-Data-Catalogs-Report-by-Independent-Global-Research-Firm"
+webUrl: "https://www.businesswire.com/news/home/20201014005579/en/Alation-Named-a-Leader-in-Machine-Learning-Data-Catalogs-Report-by-Independent-Global-Research-Firm"
 type: article
-quality: 25
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
@@ -36,6 +34,6 @@ related:
         height: 1132
         isCached: true
 
-secured: "CI13pf1wI+omkC6/SAx+dDn9CQ3d8wEbZHS7SMe/86AnuVUVyPN5oDuVHrJMonuU6KMclbOfMDvG+FnLsPJ3ZiJM4769VUJStFZ4K3Mvt5+ISZJ1AE2GL/7biGzBbqsL8gztgX69VunxttAi8GWKyeOuIJLUUdLYUxRB7c2plZMOHpIDagUPHEKSCL4rv9efTHziDWBDo7vk9AmjSndYsOuHZolR5ko2l7OQV9MalytpG0JF1Nuz13r2749Xzd32v3KzPerCg/F+iSEYOw/Flv+/k1w0LsBLxHkM8atg+k4jU0MVAz975M4YGoaH4kWJvRH6KOIiu8/yZkfVbIe+0gnCxXc4qMK3F1laI8YrCyU=;OGeTGvKZeQOCuvfKPRIerw=="
+secured: "yZCM7K9FaGZE9B+RjXruDTfJrPMpzQzZdkcxw7vhwkCb9GOp22nKRbUKJ5Hl0HbDZUwrXhUbJIWUl18+HWbK7FopBePaYb3BpUXKRa5bXmipGrkDPAXMJ90drOjwaWPTKpxSDQDkypStNS8P2YgcGWjO5j6ZUQF/LBgChpQJUzf/+MZhYrm8G2vV8P+Um8Sht7DjDzomy1oErM3mAJctCTrlMtRWZluwlr2hvymg+VjRH1CD29Wd9DtyWtDzwbLcy14OuKPSbLGn8iB+fte9xyBa+ViOebJlWRWjTUuOzE9/uNH8c839H82zsDucZgxKkRaQ3WsxKvvBPboQlVH2zB7NRV67Nui0mkP48qvo69A=;dCZTIws7oWrx3dK8itG3aw=="
 ---
 

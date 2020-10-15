@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Riding in a self-driving car is Waymo relaxing than you might expect"
+    excerpt: "Subscribe to the Roadshow newsletter, receive notifications and see related stories on CNET. Now, suppose you need a little refresher on self-driving cars. In that case, Level 4 autonomy means that a vehicle can complete an entire journey without driver ..."
+    publishedDateTime: 2020-10-15T00:45:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-van-phoenix-youtube/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/9uba5kNbIBwHtaYmXNybVv9IYxM=/2019/07/02/ffa46822-32cb-4b06-81a6-aa82f237cb11/waymo-ogi.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hidden Factor Steering For Trouble In Latest Elon Musk Versus Waymo Self-Driving Cars Squabble"
     excerpt: "Latest spat of Elon Musk and Waymo highlights steering for troubles in self-driving. getty. There is an elephant in the room, but it seems as though nobody is noticing it. In the"
     publishedDateTime: 2020-10-12T16:01:00Z
@@ -40,20 +56,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8393a16e24fdc40c0501f3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3685%26cropY1%3D1078%26cropY2%3D3843"
         width: 1199
         height: 900
-        isCached: true
-  - title: "EPFL tests out self-driving delivery service"
-    excerpt: "EPFL's Lausanne campus will serve as a testing ground for a high-tech delivery service that uses a self-driving van. A"
-    publishedDateTime: 2020-10-12T09:40:00Z
-    webUrl: "https://www.miragenews.com/epfl-tests-out-self-driving-delivery-service/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
         isCached: true
 
 secured: "plSGLEGwj/DFQRfC0ZCgMqcyYulliw8ap3fPZ8yRpxTX11jHIS9H9+NWTv6SvkUynOEImKISXIJ4/U+TsL3PztvJ9CfuT2IHjRZ+VitoeWjuNzuxXAqdbVAvpUnfNVmed0MYzdg63r7MYwD4WNuQC2DrdvNPFmipyVv+KPCazK/Tr2ceapNE05Zm2wrnZEyy5/vdA3Q0x5m2cg8lx4gFoOlYRcr+vi0aDyz2DnPN2fMTsTkfKp3MfH0CPVz5RQ94/MFhPXPeSV96jxXSLTCoJBAKF2e+MeAQRL5sNSQR+qDKS0lHD22Ln5tXdN4/FpxHF7JyGJgS8WFtwItXjzKxu+3mP80VIZmhYnO3CrUqoKJBIU74dQ4+JZblzuHJVvtNANevOodl5CcbNF2xixeRhVd6771C9PUZpbK16Xoob2lbteOvKiPIZZJX6WewdxfKxcqbRXSMNX8mTvWIfz87cXP+7HWU3AOpqIhNTlkd+SylXtBDqVRqgdF3zQy22knrWaGm2eJodZ8DApvRmLzc1w==;Tn/L5K8BqhybwnrTi8pL2w=="

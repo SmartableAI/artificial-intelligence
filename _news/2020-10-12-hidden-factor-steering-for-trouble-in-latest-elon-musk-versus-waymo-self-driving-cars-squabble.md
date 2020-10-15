@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-ste
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/"
 type: article
 quality: 77
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Riding in a self-driving car is Waymo relaxing than you might expect"
+    excerpt: "Subscribe to the Roadshow newsletter, receive notifications and see related stories on CNET. Now, suppose you need a little refresher on self-driving cars. In that case, Level 4 autonomy means that a vehicle can complete an entire journey without driver ..."
+    publishedDateTime: 2020-10-15T00:45:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-van-phoenix-youtube/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/9uba5kNbIBwHtaYmXNybVv9IYxM=/2019/07/02/ffa46822-32cb-4b06-81a6-aa82f237cb11/waymo-ogi.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In the cab with the Waymo Driver: How trucks help advance our self-driving technology"
     excerpt: "In 2017, after nearly a decade of developing self-driving technology for passenger cars, we launched our trucking and local delivery program now known as Waymo Via. Since then, our autonomous Class 8 trucks have been tested in a wide variety of cities and environments in California,"
     publishedDateTime: 2020-10-13T17:44:00Z
@@ -44,20 +60,6 @@ related:
       - url: "https://1.bp.blogspot.com/-X4ESQdGmUIE/X4TlPXyPgGI/AAAAAAAAEfg/fd8IHTtghWUzpWrRIIJd9bCjlBqqx0i8gCNcBGAsYHQ/w640-h361/lanechange%2B%25281%2529.gif"
         width: 579
         height: 326
-        isCached: true
-  - title: "EPFL tests out self-driving delivery service"
-    excerpt: "EPFL's Lausanne campus will serve as a testing ground for a high-tech delivery service that uses a self-driving van. A"
-    publishedDateTime: 2020-10-12T09:40:00Z
-    webUrl: "https://www.miragenews.com/epfl-tests-out-self-driving-delivery-service/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
         isCached: true
 
 secured: "dj9ZggczGmGTHDdo4pqeOWpvOoKpMiICJ3fQWtvYLDfyYZpW8rvtZuqTzQmInzaExfEsBhkAgp9lwKxCQcQy8DhgLWKLhBZkiU8LTZCZWXbP0VKYEgcNiMD2nICynoev2GyHouu7iGUM+9OreKzfeCgU8dHfIPtydoVycpcnAE29tXtWFoHzmRU/DsZ8oUtVHoorhRr5LT9dNi9imbFrk6AwstN2QGscuxEAaj4dK4DS5XPcsQAkvVMAQU6CDeN8fvySMT+mMlXqnd+izu9WtBpf6yDtFzM0HO9b3nAtAGGwQJf7n+V+VD/ZgNg3d0q5W6l/Tbw5An4p1ThJZcere0N4VdqRg+ZBFsZv4RgczIBMS/PCAEdc3AbQK+8x+0DOJg5d9xrAFrXUtKYBzRsHl+ugWPE8CxKlo1uxAkXccYZ4yW8EP6OHrrAXNLGuHz4LBilwEF549oBjOZOaXGEgiQ7lDrBIXNdguvLfPAkYPNNldIB/tk31cK09SlBkxTmIsuBiUXawFG9H3TTTKV1jiw==;VsTtmViZdiX2ohk2D/LLzw=="

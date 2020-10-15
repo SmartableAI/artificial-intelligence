@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-25-improve-hey-siri-on-iphone-by-re-training-voice-recognition.md",
+      "title": "Improve “Hey Siri” on iPhone by Re-Training Voice Recognition",
+      "excerpt": "Training Voice Recognition So after a lot of requests from our users here is a guide about Improve “Hey Siri” on iPhone by Re-Training Voice Recognition. Having Hey Siri enabled for hands-free activation of the virtual assistant is no doubt useful,",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/how-to/improve-hey-siri-on-iphone-by-re-training-voice-recognition/",
+      "originalUrl": "https://www.compsmag.com/how-to/improve-hey-siri-on-iphone-by-re-training-voice-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/wp-content/uploads/2020/09/1601031610_960_Improve-Hey-Siri-on-iPhone-by-Re-Training-Voice-Recognition.jpg",
+          "width": 450,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/how-to/improve-hey-siri-on-iphone-by-re-training-voice-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/how-to/improve-hey-siri-on-iphone-by-re-training-voice-recognition/amp/",
+      "publishedDateTime": "2020-09-25T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-ai-system-detects-loneliness-in-natural-speech-patterns.md",
       "title": "AI system detects loneliness in natural speech patterns",
       "excerpt": "A new proof of concept study, led by researchers at University of California San Diego School of Medicine, has demonstrated how speech-analyzing artificial intelligence tools can effectively predict the level of loneliness in older adults.",
@@ -1383,50 +1426,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-id-rd-voice-biometrics-solutions-now-available-on-microsoft-azure-marketplace.md",
-      "title": "ID R&D Voice Biometrics Solutions Now Available on Microsoft Azure Marketplace",
-      "excerpt": "ID R&D has announced that its artificial intelligence-based voice biometrics solutions are now available on the Microsoft Azure Marketplace",
-      "sourceUrl": null,
-      "webUrl": "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/",
-      "originalUrl": "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://findbiometrics.com/wp-content/uploads/47280552_thumbnail1-e1441294667310.jpg",
-          "width": 1637,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecuriMetrics HIIDE",
-        "domain": "findbiometrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Marsai Martin on Growing Up in the Spotlight and Finding Her Voice (Exclusive)"
-excerpt: "For the latest episode of ET's Unfiltered, the 16-year-old Black-ish star dished on her favorite makeup looks while speaking candidly about growing up in the spotlight, and finding her voice. “I’m blessed to actually have the platform that I have,"
+excerpt: "As Hollywood’s youngest executive producer, Marsai Martin is doing pretty well for herself. The teen launched her own production company, Genius Entertainment, and landed a first look studio deal with Universal Pictures under which her 2018 comedy,"
 publishedDateTime: 2020-10-14T13:03:00Z
-originalUrl: "https://www.9news.com/article/entertainment/entertainment-tonight/marsai-martin-on-growing-up-in-the-spotlight-and-finding-her-voice-exclusive/603-2211bf1f-01e9-4ab4-a870-4fa8f7538ab3"
-webUrl: "https://www.9news.com/article/entertainment/entertainment-tonight/marsai-martin-on-growing-up-in-the-spotlight-and-finding-her-voice-exclusive/603-2211bf1f-01e9-4ab4-a870-4fa8f7538ab3"
-ampWebUrl: "https://www.9news.com/amp/article/entertainment/entertainment-tonight/marsai-martin-on-growing-up-in-the-spotlight-and-finding-her-voice-exclusive/603-2211bf1f-01e9-4ab4-a870-4fa8f7538ab3"
-cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/entertainment/entertainment-tonight/marsai-martin-on-growing-up-in-the-spotlight-and-finding-her-voice-exclusive/603-2211bf1f-01e9-4ab4-a870-4fa8f7538ab3"
+originalUrl: "https://www.etonline.com/marsai-martin-on-growing-up-in-the-spotlight-and-finding-her-voice-exclusive-154542"
+webUrl: "https://www.etonline.com/marsai-martin-on-growing-up-in-the-spotlight-and-finding-her-voice-exclusive-154542"
+ampWebUrl: "https://www.etonline.com/marsai-martin-on-growing-up-in-the-spotlight-and-finding-her-voice-exclusive-154542?amp"
+cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/marsai-martin-on-growing-up-in-the-spotlight-and-finding-her-voice-exclusive-154542?amp"
 type: article
 quality: 55
 heat: 65
 published: false
 
 provider:
-  name: KUSA
-  domain: 9news.com
+  name: Entertainment Tonight
+  domain: etonline.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.9news.com/assets/ETONLINE/images/52f72db5-fac9-4ae9-bad5-3225f9745c80/52f72db5-fac9-4ae9-bad5-3225f9745c80_750x422.jpg"
-    width: 750
-    height: 422
+  - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-10/eto_unfiltered_marsai_martin_100920_vidpic.jpg?h=d1cb525d&itok=S4s4lCIJ"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
         height: 422
         isCached: true
 
-secured: "jiZR4HQJAHIG+YnFeLTAAfnHES5RfzJpRwvqoT6CF2yYO6FG/7U93qcg23Htk8pGkzHQIPw3yKYgqtVvCfJ3nLFK55cs8g2l0HyL9Se8wwGBPVOLWqiZxOYtjpwJzouQeEPWy1MkFCseKWLl4N/Kh6UhoICedeobU5n8cVAv7HO/M6T3fJr1hVUJhafJSw0ja1fYoVyKYZcFISg8Mx9SJMhvVC1XiYzNDswp3V/BBd5tRT7igBhQfhqkXkQox+7UXuOueQNvodWzjuI0gUIJn5uuZfdMUvL9JZCrYDdFeNyzAjB+CIv5y1dKVrVtJMyR98OxlLZC0tjSit7JiSVHlG+2H1q5qqS0eAgzOsMOP/M=;qe9502MsbJC6L6OQMMymHg=="
+secured: "bb8GR3pYlsP/01ksi/wQ+npw0O83RBxp0GYWBiQ2mUmLVyABzMxMAuAzDA7r9AyOZrcB+y+ETkcSvwMKNR/3g+zxflAev0xbCNptCUK8HKR12OjBS7omrbXPlGtSY8YeZBRCdY+CTTdo58FYbXrnTmS1YkBT0MOfkcnADeljNtECebfPFbD9hSAk5Bruu3+RDIbqgs41Teb8mRuXjX95baWbG/6ccxSxjnApH3nutKgOUqNSgTSoHGCIm6akg5w4uqO1pnaunyPraKsxZeIYBAcEKt+BNgTYR47lrNcDdq4yBDZHNjKZQfVc0S2zVUPrAzRx19osz8tzYS5LYofOXp5tbal7DP1zB6IqAYOZSwc=;LLgjqnkOTWp9/lrq9No2Uw=="
 ---
 

@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Hidden Factor Steering For Trouble In Latest Elon Musk Versus Waymo Self-Driving Cars Squabble"
-    excerpt: "Latest spat of Elon Musk and Waymo highlights steering for troubles in self-driving. getty. There is an elephant in the room, but it seems as though nobody is noticing it. In the"
-    publishedDateTime: 2020-10-12T16:01:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/"
+  - title: "Self-Driving Delivery Robot Hits the Streets in Japan"
+    excerpt: "Following this notion, Japan’s postal service has recently unveiled a self-driving delivery robot! The self-driving delivery robot is the size of a wheelchair and has built-in cameras and sensors. It was first operated on a sidewalk in Tokyo’s Chiyoda Ward in Japan."
+    publishedDateTime: 2020-10-13T09:11:00Z
+    webUrl: "https://www.tripzilla.com/self-driving-delivery-robot-japan/115421"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: TripZilla
+      domain: tripzilla.com
+    quality: 41
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8393a16e24fdc40c0501f3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3685%26cropY1%3D1078%26cropY2%3D3843"
-        width: 1199
-        height: 900
-        isCached: true
-  - title: "In the cab with the Waymo Driver: How trucks help advance our self-driving technology"
-    excerpt: "In 2017, after nearly a decade of developing self-driving technology for passenger cars, we launched our trucking and local delivery program now known as Waymo Via. Since then, our autonomous Class 8 trucks have been tested in a wide variety of cities and environments in California,"
-    publishedDateTime: 2020-10-13T17:44:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/in-the-cab-with-the-waymo-driver-how-trucks-help-advance-our-self-driving-technology/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 32
-    images:
-      - url: "https://1.bp.blogspot.com/-X4ESQdGmUIE/X4TlPXyPgGI/AAAAAAAAEfg/fd8IHTtghWUzpWrRIIJd9bCjlBqqx0i8gCNcBGAsYHQ/w640-h361/lanechange%2B%25281%2529.gif"
-        width: 579
-        height: 326
+      - url: "https://s3-ap-southeast-1.amazonaws.com/tz-mag-media/wp-content/uploads/2020/10/13154623/robot.jpg"
+        width: 660
+        height: 434
         isCached: true
 
 secured: "h8mu7673uSYVTa/5aSjp91wNz0cxfIc+iDzBjLsPeUMIKsWtPA8CDWs29Aq2QmKSNBGCRKgWYAK9LiRMSm1e4YGWhSdoTNwvELBzKOfcJGuIokcTTTv/I2nX6iToNHDci6/9G9cJRWsY6GYqb/xhQdDDIW6nbuocSrWRbmW9MmasT1dKQwVfuWUm/TRmybW4BPJA1Nxmzzp05hSdJ/sVWkP7/qwmP5CsrZE7gxx5U1gjQ4BJu2bkE3QHsbOD4zsXWSmSx3gGUMdR6FDFJNXllcY1hg5/3J/lGg3NHKryLwdTG5NolzaWqGmVj+T6xMYLQs1qZfAmEfHwwQXhXPjWX6YpzTEddwjxlahAvj8zVY4=;CrgcwsWkEWDNa/X2oq6wGg=="

@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-14T21:18:00Z
 originalUrl: "https://www.press.bmwgroup.com/latin-america-caribbean/article/detail/T0318747EN/seven-principles-for-ai:-bmw-group-sets-out-code-of-ethics-for-the-use-of-artificial-intelligence?language=en"
 webUrl: "https://www.press.bmwgroup.com/latin-america-caribbean/article/detail/T0318747EN/seven-principles-for-ai:-bmw-group-sets-out-code-of-ethics-for-the-use-of-artificial-intelligence?language=en"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Robotics
+  - Natural Language Processing
 
 images:
   - url: "https://mediapool.bmwgroup.com/cache/P9/202010/P90403170/P90403170-artificial-intelligence--bmw-group-1920px.jpg"

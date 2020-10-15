@@ -47,7 +47,21 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Cohesity partners with AWS on cloud-based data management"
+    excerpt: "Data management software company Cohesity Inc. said today it’s creating a new cloud-based data management-as-a-service offering in partnership with Amazon Web Services Inc. The new offering is aimed at enterprises and mid-sized businesses that want an easier way to back up,"
+    publishedDateTime: 2020-10-15T00:22:00Z
+    webUrl: "https://siliconangle.com/2020/10/14/cohesity-partners-aws-cloud-based-data-management/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/121570386_1622273837947228_6036408418401195216_o.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "5s6M5Et/WElGFM8/WjKLbIvu+1cP7fe1stRb2LVrhvUDsgOr5YJ6COc7RTwjGBU/ek1N6MGSrXHD2cUSZjr0NJnXMAT4ThPvunQUeBDKFZhu7KSIuBFKIml6N89ifesC9Qf/1mYpRZUFtPl2D8SdjMmLGsZdQD0XnvTZrd2nOyBkIU4mrMuN91wNlSsYebZl+NQnnv+DVc588Gu/qtV0gJ2T7nQJ32klsHkJnqiljPqDUPGEXtwQzlz00uyQnYXP1jmKrHiA4Gz8cRUupnHs/BSXBWCC2eE+L9B8f0Ov/fgttQY3FlA1bNaOwnTSNyEA7wsqfAzGoCSTX8f//lhFCPWTUhg6WoF5LzQERZV3Vj0=;JUFGikHBkmRv+Qiqwt5Osg=="
+secured: "Lh9qFjRPF9zLCLApavkindp0x/1JGjIRVMbpmNVk2XWaUSyOgJCFye825J7Xc7vGgVPyGxKqFlWna7z8qMhHtN9wBBnkfbPfr2XasQftErHedk7tkewWTf9KY9/lyCSl+Bc7Cqk25mPAEqg4h5/6vQawZeUl/rRTnlAPnmiRscKn2h7tlmyOcZL2sU99hZyO1ubiLjHdzPFvivFiIdLnJP8QLXGNRgbWjGTlPlTHE/Y0TQ80c5IMHX5NlQ5j07LQj1rV0jJz9iGdW6P9gnAHfsOo8ECvKqu2hrsWwkRpME2NNRU3vRE6DjymmkFASnf2/6HU0SZuswliterEZAQr0dCYfVw2YB+A1Kurpn6sQAD5DqXtg4DnxIeRHtgqfJ62hkFx9XqdSaaLnslf51PxdJWSYGgpjm1BAI31aT0l9PCK9DOh8N0hxMTMl9wpgEhtVjuPbHobDw7b/cEKf+Dx5LnJ2d38DfgDyI/T11vWrYExnsqU37+EB+7HMVNV829xUYxPm4Z0iqCOt2+exWV2/Q==;sNKsqLOnVinqzKV1UJEtnw=="
 ---
 

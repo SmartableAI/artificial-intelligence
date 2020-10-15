@@ -29,13 +29,13 @@ images:
 
 related:
   - title: "S Korea aims to develop 50 AI chips by 2030"
-    excerpt: "AI chips refer to high performance and power efficient semiconductors that specialize in AI services. Early this year, South Korea placed big bets on developing the next-generation chips with a ..."
-    publishedDateTime: 2020-10-12T19:55:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20201013/3640933.html"
+    excerpt: "South Korea targets to develop up to 50 types of artificial intelligence-focused system semiconductors by 2030, the ICT ministry said Monday, as the country strives to take a leading position in the semiconductor sector beyond its traditional foothold in memory chips."
+    publishedDateTime: 2020-10-12T19:12:00Z
+    webUrl: "https://www.sify.com/news/s-korea-aims-to-develop-50-ai-chips-by-2030-news-education-ukmo5Gghaacbe.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: Sify.com
+      domain: sify.com
     quality: 34
 
 secured: "EmgQngDGL0QBnyY93CCTtRjfSvbn9h0J+VPH1UuvCb2MjX92zP1obAf4Eqsn0b5qivbPnVvLHOBiAL12tC9P4I70gV0IaEdolJWOUfVlchwSxhx9mdYmiONDSRlqkEvKZNmrivsNs6/F6JjLTEdRsbWm/d+scpIGWMAoyuQ/2J6wyp146INCA97Agj/3KaBNA2LvVCd32Own7C6WyGgrGcJ629ykmDlNIuk+UXHNbW9kIi3uW62TmVtxY44M9ApTXSuzY0tDfu4fYRYau8HHSekptsguhZr/svRFYt2/VbHDLvHAPpzPspQOQcOZdDeQawUHhyG17Tjy4sy/rVhN8xJGS7sHtkFvnaeaoE9Hnp8=;7Vqvr4A+2dsAT1dcLTNwfA=="

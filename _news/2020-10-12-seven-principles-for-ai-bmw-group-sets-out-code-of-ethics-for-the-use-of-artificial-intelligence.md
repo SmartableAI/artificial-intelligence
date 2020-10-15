@@ -29,7 +29,7 @@ related:
     provider:
       name: www.press.bmwgroup.com
       domain: bmwgroup.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://mediapool.bmwgroup.com/cache/P9/202010/P90403170/P90403170-artificial-intelligence--bmw-group-1920px.jpg"
         width: 1920

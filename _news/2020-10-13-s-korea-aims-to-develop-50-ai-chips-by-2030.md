@@ -1,18 +1,18 @@
 ---
 category: news
 title: "S Korea aims to develop 50 AI chips by 2030"
-excerpt: "AI chips refer to high performance and power efficient semiconductors that specialize in AI services. Early this year, South Korea placed big bets on developing the next-generation chips with a ..."
-publishedDateTime: 2020-10-12T19:55:00Z
-originalUrl: "https://news.webindia123.com/news/articles/Science/20201013/3640933.html"
-webUrl: "https://news.webindia123.com/news/articles/Science/20201013/3640933.html"
+excerpt: "South Korea targets to develop up to 50 types of artificial intelligence-focused system semiconductors by 2030, the ICT ministry said Monday, as the country strives to take a leading position in the semiconductor sector beyond its traditional foothold in memory chips."
+publishedDateTime: 2020-10-12T19:12:00Z
+originalUrl: "https://www.sify.com/news/s-korea-aims-to-develop-50-ai-chips-by-2030-news-education-ukmo5Gghaacbe.html"
+webUrl: "https://www.sify.com/news/s-korea-aims-to-develop-50-ai-chips-by-2030-news-education-ukmo5Gghaacbe.html"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI Hardware
@@ -36,6 +36,6 @@ related:
         height: 300
         isCached: true
 
-secured: "8j6HXy7E94akVPgzZhr2gzjHPlFJC7dH7vbMWdkXeCcxlEvDvBKAQR6K8HLw9uKv58Ie87YJuYg/qfg8FaZZrADuHILMsexpc+bCFclE65PbyDJ67pD56TZ+Qh8OFMzvM6FxbBhk6hlNTi033PUqtqvByZoXfQL8Q/iRKhya4SsjnB6JC0N7+rEv25Q/v4GUhBzwxmOeLjY6rWaTulda3z0ED7oq1RjAapB4QTOKvtccUZcK0rhsk82LFlffoGoE9mO1IKVHY3/N3cPZsAmM9qsc2sCyyhuqr40Mr6sHjr4w0l74thPr50GJEo7CybrdwmhxuHH5q+Y9q4kbki+OIl+sCVrkAUgR0KZksbNuaGs=;1/pk7hO8JArviWVyd1KkSQ=="
+secured: "xh2jUn8cyTG8qAeLskoILBpy1oGprT3iBmTAnFLFCEcDfAG5InhqNziOC/vr7ezIFNohwDeRKYdJw+3wEb554tKrsnd/tBMMbIggeYvvcoQAMTKufMWIsYeonjppaimuUQc8dq7ULNbUC9KLnVgMqhabBkM9aVGpRAkjg2qmQr2aOUjV3V9guC6CGUAJNa3qaD8QvjjOAJYew3ffgmn1xql9g4D10aZjzViHnqDcyYwteo8irq+ZIvWQDIvq4LN09e0BQu+COf6sEw2AeJRknnb4IUCBjKjlE8b5pR2xZadFssT8OIZi0oHaRLJNe4ukOC7qTaGO4YkTZr0iKlONU0ldhoK6/lnv/TLeLkeCnyI=;7RPwe+3HEAXKzbkPWx3aGg=="
 ---
 
