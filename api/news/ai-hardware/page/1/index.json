@@ -10,7 +10,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/10/14/this-high-growth-chip-stock-just-beat-guidance-and/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-hw-summit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -102,7 +102,8 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Microsoft AI"
       ]
     },
     {
@@ -205,8 +206,8 @@
       "title": "Imagination Technologies takes aim at data centers with new chip designs",
       "excerpt": "Imagination Technologies on Tuesday released new chip technology that it hopes will help it expand into the market for data center chips.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/imagination-tech-idUKL1N2H31H2",
-      "originalUrl": "https://www.reuters.com/article/imagination-tech-idUKL1N2H31H2",
+      "webUrl": "https://www.reuters.com/article/imagination-tech/imagination-technologies-takes-aim-at-data-centers-with-new-chip-designs-idUSL1N2H31H2",
+      "originalUrl": "https://www.reuters.com/article/imagination-tech/imagination-technologies-takes-aim-at-data-centers-with-new-chip-designs-idUSL1N2H31H2",
       "featuredContent": null,
       "highlight": null,
       "heat": 83,
@@ -214,8 +215,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKL1N2H31H2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2H31H2",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2H31H2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2H31H2",
       "publishedDateTime": "2020-10-13T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

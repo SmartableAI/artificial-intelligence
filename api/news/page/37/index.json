@@ -2,6 +2,92 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-09-13-custom-object-detection-tflite-model-for-android-using-tensorflow.md",
+      "title": "Custom Object Detection Tflite Model for Android using Tensorflow",
+      "excerpt": "In this tutorial, we will learn how to make a custom object detection model in TensorFlow and then converting the model to tflite for android. I will go through step by step. Every step is ...",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/analytics-vidhya/custom-object-detection-tflite-model-for-android-using-tensorflow-3d76e31afbc4",
+      "originalUrl": "https://medium.com/analytics-vidhya/custom-object-detection-tflite-model-for-android-using-tensorflow-3d76e31afbc4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-when-will-driverless-cars-be-a-part-of-our-everyday-lives.md",
+      "title": "When Will Driverless Cars Be A Part Of Our Everyday Lives?",
+      "excerpt": "Researcher Sebastian Thrun helped build Google's amazing driverless car ... His research focuses on robotics and artificial intelligence. He led the development of the robotic vehicle called ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2013/09/13/215843842/when-will-driveless-cars-be-a-part-of-our-everyday-lives",
+      "originalUrl": "https://www.npr.org/2013/09/13/215843842/when-will-driveless-cars-be-a-part-of-our-everyday-lives",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2013/12/18/sebastianthrun_2011-stageshot_wide-8c42119c4dad6466d32339997083fcd4cf5fcb59.jpg?s=1400",
+          "width": 1394,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-how-i-see-deepmind-as-a-promising-future-for-machine-intelligence.md",
       "title": "How I see ‘DeepMind’ as a promising future for Machine Intelligence.",
       "excerpt": "It has nearly been ten years since the company, ‘DeepMind’ broke new ground in the Artificial Intelligence (AI) domain. Although the past decade has seen a rapid development of smart machines ...",
@@ -1096,109 +1182,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-ai-weekly-what-ml-practitioners-are-doing-about-climate-change.md",
-      "title": "AI Weekly: What ML practitioners are doing about climate change",
-      "excerpt": "Projects are underway to use AI to address climate change and its impact from groups like Climate Change AI and Climate Trace.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/",
-      "originalUrl": "https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1271593615.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/amp/",
-      "publishedDateTime": "2020-09-11T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-how-to-edit-writing-by-a-robot-a-step-by-step-guide.md",
-      "title": "How to edit writing by a robot: a step-by-step guide",
-      "excerpt": "Commissioning GPT-3 was a fun – and strange – lesson in artificial intelligence ... would deploy in attempting to convince humans that robots come in peace. Here’s how we went about it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/commentisfree/2020/sep/11/artificial-intelligence-robot-writing-gpt-3",
-      "originalUrl": "https://www.theguardian.com/technology/commentisfree/2020/sep/11/artificial-intelligence-robot-writing-gpt-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9ba12a5d0cc638c3cc4ae33a351f6a47b631b83d/0_0_2173_1305/master/2173.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e99d6dbe47f38e2edba5007d92d6b38d",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/commentisfree/2020/sep/11/artificial-intelligence-robot-writing-gpt-3",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/commentisfree/2020/sep/11/artificial-intelligence-robot-writing-gpt-3",
-      "publishedDateTime": "2020-09-11T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

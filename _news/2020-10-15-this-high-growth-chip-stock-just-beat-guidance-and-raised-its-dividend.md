@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/14/this-high-growth-chip-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/14/this-high-growth-chip-stock-just-beat-guidance-and/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

@@ -2,6 +2,110 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-09-08-how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases.md",
+      "title": "How To Separate The Wheat From The Chaff In A Sea Of Ventures With AI Use Cases",
+      "excerpt": "Two criteria separate the leaders from the pack of AI ventures. What are they? And what are some of the most promising AI ventures at the moment?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/",
+      "originalUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f573662b42731bf605ee3e0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6144%26cropY1%3D455%26cropY2%3D3911",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/amp/",
+      "publishedDateTime": "2020-09-08T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening.md",
+      "title": "Skin Analytics raises £4M Series A to use AI for skin cancer screening",
+      "excerpt": "Skin Analytics, a U.K.-based startup that has developed a skin cancer screening service that uses artificial intelligence, has raised £4 million in Series A funding. The round was led by Hoxton Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/",
+      "originalUrl": "https://techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/132880_Skin-Analytics-Teledermatology-Project_Clinical-Photography-5-r....jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/amp/",
+      "publishedDateTime": "2020-09-08T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-impact-analysis-of-covid-19.md",
       "title": "Impact Analysis of Covid-19",
       "excerpt": "The rising demand for improved customer services in the healthcare and life sciences sector is a major factor driving growth of the natural language processing in healthcare and life sciences market.",
@@ -1077,104 +1181,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-meet-the-8-foot-tall-robot-designed-to-insert-elon-musks-neuralink-ai-brain-chip-heres-how-it-works.md",
-      "title": "Meet the 8-foot-tall robot designed to insert Elon Musk's Neuralink AI brain chip — here's how it works",
-      "excerpt": "Musk founded the neural tech company in 2016, and says the chip will enable a \"symbiosis\" between the human brain and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
-      "originalUrl": "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f529d817ed0ee001e25da6c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
-      "publishedDateTime": "2020-09-07T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook.md",
-      "title": "Europe AI in Social Media Market, Forecast to 2025 with Profiles of 10 Leading Players Including Microsoft, Google, AWS, Adobe and Facebook",
-      "excerpt": "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

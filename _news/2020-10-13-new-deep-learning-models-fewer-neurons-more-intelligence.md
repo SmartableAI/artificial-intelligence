@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New deep learning models: Fewer neurons, more intelligence"
-excerpt: "An international research team has developed a new artificial intelligence system based on the brains of tiny animals, such as threadworms. This novel AI-system can control a vehicle with just a few artificial neurons."
+excerpt: "An international research team from TU Wien, IST Austria and MIT has developed a new artificial intelligence system based on the brains of tiny animals, such as threadworms. This novel AI-system can control a vehicle with just a few artificial neurons."
 publishedDateTime: 2020-10-13T16:26:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php"
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/iosa-ndl101320.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/iosa-ndl101320.php"
 type: article
 quality: 39
 heat: 39
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://media.eurekalert.org/multimedia_prod/pub/web/245741_web.jpg"
+    width: 720
+    height: 697
     isCached: true
 
-secured: "5CUSmHRNYwNXnONXhP3hwOJJ0cAbkfnHQZMTvwJndFholyoYEMIpRhJw1yzYDW3dhMm0+pkbBck5X8ZY/sZTs2XeyxRxGVD9XiEF3UBuxkTNwHiatbB/uewcHsG4UY9SruN2y+x6y2kZA8WfEO5UftbhR667mcZ0VSespp+8CiXCgQS0GduSdjpEalIb2jLAfrm5Xap4gQp5ro5vjhMalzzKrt1gdEUvRMoRgMJBeFNLt7F09EIUK98i6mUR8c+NOjnZNUvag8RMWgaVVdt+9FPaLDjhfLwzjh6OqtkA7biYBCNPuFOzW3eHK82zLvpiKv2mcUVfYGBBzuFDUnrhO/f1tz3+eyfAfc9rMZUXNao=;o4+Y6wwVM1qDdT/A3uhxTQ=="
+secured: "K1rYxhyNHX20gnZ4+iOnwOwNj592tnpXiTQhMVDtRoPxIohiD1NSlKx2EOzlTjfy8AM6c9l8KrjOpCKVLlFMjoBN7LW2m3IOUWOPaQeOabkl1VDchrE/7ESs4riyhpDtQtZJIi5SQln6hllr6dMIOcNUISiyRL570aH/fFrX3N4rAhJgD7SuEmb1y+u6V5WZKFIfY5zcubyq/DOiUU5irvduBou4qoFSO+8N8dsRrxm+xdoz98vriLCbvYEK+RHK3Yq5psqT3uGk6YuZg6/WTL65YCnl8yH8NNpOgm1eYcO10KERKp3VG1Zoc0hAHFT13FkCGvd+w2FqEKbdO0+afg5NPYFx649gA89ovpYliMo=;/wY0viCL0mKp9JrqYQTVGg=="
 ---
 

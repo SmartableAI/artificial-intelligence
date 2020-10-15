@@ -2,6 +2,93 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-09-03-telix-pharmaceuticals-enters-strategic-collaboration-with-varian-medical-systems-for-advanced-prostate-imaging.md",
+      "title": "Telix Pharmaceuticals Enters Strategic Collaboration with Varian Medical Systems for Advanced Prostate Imaging",
+      "excerpt": "(GLOBE NEWSWIRE) -- Telix Pharmaceuticals Limited (ASX: TLX, ‘Telix’, the ‘Company’) today announced it has entered into a strategic collaboration agreement with Palo Alto-based Varian Medical Systems,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/9b9b175758637c609edb95d11560c242",
+      "originalUrl": "https://apnews.com/9b9b175758637c609edb95d11560c242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-tensorflow-tutorial-uses-python.md",
+      "title": "Tensorflow Tutorial Uses Python",
+      "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
+      "originalUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/09/a2.png?w=600&#038;h=600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-traffic-prediction-with-advanced-graph-neural-networks.md",
       "title": "Traffic prediction with advanced Graph Neural Networks",
       "excerpt": "Working with our partners at Google Maps, we used advanced machine learning techniques including Graph Neural Networks, to improve the accuracy of real time ETAs by up to 50%.",
@@ -1103,92 +1190,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers.md",
-      "title": "To build responsibly, tech needs to do more than just hire chief ethics officers",
-      "excerpt": "Sarah Drinkwater works to fuel the responsible tech movement through her role as director at Omidyar Network. In the last couple of years, we’ve seen new teams in tech companies emerge that ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/",
-      "originalUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1162201571.jpg?w=1000",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/amp/",
-      "publishedDateTime": "2020-09-02T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-pershing-takes-step-forward-to-a-password-less-future.md",
-      "title": "Pershing takes ‘step forward’ to a password-less future",
-      "excerpt": "Fingerprint and facial-recognition capabilities for NetX360 desktop is now available on Apple devices, with support for Android planned in 2021. Imagine never having to type a password to access ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360",
-      "originalUrl": "https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Planning",
-        "domain": "financial-planning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

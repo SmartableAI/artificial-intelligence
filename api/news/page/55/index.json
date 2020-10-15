@@ -2,6 +2,92 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-09-01-newfront-insurance-named-to-the-2020-cb-insights-fintech-250-list-of-fastest-growing-fintech-startups.md",
+      "title": "Newfront Insurance Named to the 2020 CB Insights Fintech 250 List of Fastest-Growing Fintech Startups",
+      "excerpt": "CB Insights today named Newfront Insurance to the third annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. The recognition by CB Insights is the latest in a string of milestones for three-year old Newfront,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/PR Newswire/0db8ebfe0c1cb7b738d3be49ab3df670",
+      "originalUrl": "https://apnews.com/PR Newswire/0db8ebfe0c1cb7b738d3be49ab3df670",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-wearable-robot-company-marches-to-big-raise.md",
+      "title": "Wearable robot company marches to big raise",
+      "excerpt": "There's are two reasons I've written glowingly about a Utah-based robotics company called Sarcos, which just locked in an additional $40M in Series C funding. The first is the company's pragmatic approach to becoming a key automation supplier in the near-term.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/wearable-robot-company-marches-to-big-raise/",
+      "originalUrl": "https://www.zdnet.com/article/wearable-robot-company-marches-to-big-raise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/wearable-robot-company-marches-to-big-raise/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wearable-robot-company-marches-to-big-raise/",
+      "publishedDateTime": "2020-09-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-trevor-paglen-is-putting-the-art-in-artificial-intelligence.md",
       "title": "Trevor Paglen Is Putting the Art in Artificial Intelligence",
       "excerpt": "With two upcoming exhibitions that center on AI, the multimedia artist is drawing attention to a hidden world of modern phrenology, racist categorizations and the surreality of facial recognition.",
@@ -1090,102 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-more-businesses-are-using-ai-to-drive-user-experiences.md",
-      "title": "More Businesses Are Using AI to Drive User Experiences",
-      "excerpt": "Companies like TransUnion and Buffalo Jeans get improved sales, smarter marketing, improved IT uptime and more.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences",
-      "originalUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/BT_Q320-Feat-Wong-AI-HERO.jpg?itok=MC6JSjke",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp",
-      "publishedDateTime": "2020-08-31T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-teslas-slow-self-driving-progress-continues-with-green-light-warning.md",
-      "title": "Tesla’s slow self-driving progress continues with green light warning",
-      "excerpt": "The initial version of the stoplight feature would slow down for a stoplight whether it was red or green. The driver had to signal the car to proceed through the intersection if the light was green—otherwise,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2020/08/teslas-slow-self-driving-progress-continues-with-green-light-warning/",
-      "originalUrl": "https://arstechnica.com/cars/2020/08/teslas-slow-self-driving-progress-continues-with-green-light-warning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1201203240-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-31T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
