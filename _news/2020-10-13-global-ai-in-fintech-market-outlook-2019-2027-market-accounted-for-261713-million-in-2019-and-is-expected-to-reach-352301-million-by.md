@@ -25,29 +25,83 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Agriculture Market To Advance At 25.4% CAGR From 2020 To 2025 Due To Rising Adoption of AI-Enabled"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-10-13T09:43:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-10-13/artificial-intelligence-in-agriculture-market-to-advance-at-25-4-cagr-from-2020-to-2025-due-to-rising-adoption-of-ai-enabled"
+  - title: "Banking on AI: How AI is changing the face of Fintech"
+    excerpt: "A recent study by McKinsey suggested that by 2022, over 30% of the tasks in the Fintech sector would be taken over by machines."
+    publishedDateTime: 2020-10-15T02:29:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 55
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 74
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
         isCached: true
-  - title: "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025"
-    excerpt: "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025), owing to the rising demand for hygiene globally across various sectors. The global Disinfectant Robot Market (henceforth,"
-    publishedDateTime: 2020-10-12T14:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025-1029670262"
+  - title: "5 fintech startups to get funding from ING-Unicef program"
+    excerpt: "Dutch financial giant ING and the United Nations Children’s Fund (Unicef) have selected five promising local fintech startups that will receive fresh funding and mentorship under their joint program"
+    publishedDateTime: 2020-10-13T21:10:00Z
+    webUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program"
+    ampWebUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
+    cdnAmpWebUrl: "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 44
+    images:
+      - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/10/News87524-e1602260971308-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
+  - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
+    excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
+    publishedDateTime: 2020-10-10T18:50:00Z
+    webUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/61668108_thumbnail-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "Embedded Finance: What it is and What it Means for the Fintech Industry"
+    excerpt: "The fintech industry is always evolving. But one development in particular is generating significant buzz and market-wide revenue predictions to the tune of over $7 trillion in just 10 years. That development is embedded finance,"
+    publishedDateTime: 2020-10-14T00:51:00Z
+    webUrl: "https://www.finextra.com/blogposting/19418/embedded-finance-what-it-is-and-what-it-means-for-the-fintech-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "Polish Fintech Symmetrical.ai, which helps Employees Maintain Financial Wellbeing, has been Issued Small Payment Institution License"
+    excerpt: "Polish-British Fintech Symmetrical.ai, which helps employees maintain financial well-being, has been issued a small payment institution license. The company said that the new permit should allow it to make Symmetrical-backed salaries “even faster ..."
+    publishedDateTime: 2020-10-13T11:51:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 8
+  - title: "UAE’s Fintech Galaxy to Focus on Financial Inclusion via Hackathon for Implementing Digital Lending and Other Financial Tech Solutions"
+    excerpt: "UAE's Fintech Galaxy to focus on financial inclusion via hackathon for implementing digital lending and other financial tech solutions."
+    publishedDateTime: 2020-10-13T00:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "JFxkRx7xXCrphm0gPk4IkdRmppbfJ5LzhFuH2lnnShq3m76tSeIHTeql+ncGRaoLhaKJAw3/u0/IExWBAGY1850mxlDQ2hz2HcerTkFM6zkCVV2qMn2iinjpba6xXdILGKI2OlJbTmDTUPd27K5xZPRu19Zho/guuYMjg/gOzfGscVcpgGn7kJo7Y3pjv6fU7xFHN56XrQ/z99ayiU4xSbzUhwhqdpzdeKLTKzCiNTSDY7dRI0YaXF5hJPnG7scjGEVztEOj8MADljlXkf7M5dkOKsK16SFsRHeGJR88f0USGrwdmKOEoFXGxOJmv4xqWylBhC867FX+qFiQII1fBGBMJuLQnTwm0P8VmQj321Y=;5fuzb5g90cY/bLnYoKbtPA=="
 ---

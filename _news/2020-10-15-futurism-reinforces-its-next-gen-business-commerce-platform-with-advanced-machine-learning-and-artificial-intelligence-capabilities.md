@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Futurism Reinforces Its Next-Gen Business Commerce Platform With Advanced Machine Learning and Artificial Intelligence Capabilities"
-excerpt: "Futurism Technologies, a leading provider of digital transformation solutions, is bringing to life its Futurism Dimensions business"
-publishedDateTime: 2020-10-14T22:34:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-301152696.html"
-webUrl: "https://www.prnewswire.com/news-releases/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-301152696.html"
+excerpt: "Futurism Technologies, a leading provider of digital transformation solutions, is bringing to life its Futurism Dimensions business commerce suite with additional artificial intelligence and"
+publishedDateTime: 2020-10-14T23:19:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence/article_d45c219c-dbca-5167-8781-3879302447f4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence/article_d45c219c-dbca-5167-8781-3879302447f4.html"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://mma.prnewswire.com/media/1312995/Futurism_Logo.jpg?p=facebook"
-    width: 2148
-    height: 1126
-    isCached: true
-
-secured: "wnHrdSE1EFlBeLvMoFvhw5rL7VdmtVhWAdMczpfcyXRPclMxcnS0wvySrpjna9KU/IC+ly7kXFt1XRp21CkO2tZDUUDOBGb7pGmOlU2uvTOtbqpRhNlzHJx8vHKhFPl2s4Sz++1O4ZkJwmCc6EswMNP8Ca+87KiWAdqySDvL8WG4PtkyZZ7xrNdtrXGw43OvuMojI07NZBFY6NFyhtF4w644eDJFJMSsdOxE3gBrdlkYZHO48IZY+o4Uf/q1g5AaoOgrbs8Zd9c0Fvtely4QWKyUvUiZMHRDWNeo8i/zRKcN5wJoNHaRg1QQXJ99WgnnqQ9Aid2qzfZE9QO4kd6zWxsbwJCExh+A9us3U1QzTYs=;XfWE+1tCrFX3vALLB3k7Tw=="
+secured: "7NBh56QrpNHXC3nWT8krk35bgnraNTqoqT9gpGrfAZwtFIiN8MhDXI1tzEGzxQg6gts/ZNEHXhkBQZ2m9+WWEK/tA8kqBONXRbstu1ogIFr8oJIY0eO43g/NK0aEXen/NZdGCG39g9oa+Go6XfNySZSsc4Jz6OzsbF+k48O00zFM0NbgE5kAOlv7ACQLaW2vgzYhD6ZpxFTNVpUBkVBzrJ4eToUbDWp9QScbIIcD0QcM3cpPMP8Js5ocegK8A1IheCQoQ86GXWFddotVHX7rMXcLAxbDNpNh60CskN2vHbzkIjPE/j7ZEoV1P2svv9/DcdkwWhViIsrcuMIC0GAQrFXQrqfWe3uqTRhvCGPZOdX6WKGXukq9TEdGZQQi/nsdiM1/BN/d7fZBn73mVfL7bvS05vVHOhXO56WRA1GgJaoj+KBkCZPFLRH4vVkCssSt3zAhfS2IYqtD7BFQbhxGQxc+QNqsMS6QqOgP+pVC6j2Y8D+RbDetlX+5dYbr34TpbC92o3pybZVBA4AKzUOSbw==;+7nsOGBUkMWL4YKYeEqmqA=="
 ---
 

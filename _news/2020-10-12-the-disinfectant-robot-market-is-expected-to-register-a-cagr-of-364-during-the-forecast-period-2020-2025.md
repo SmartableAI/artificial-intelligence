@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI in Fintech - Market Outlook 2019 -2027: Market Accounted for $2,617.13 Million in 2019 and is Expected to Reach $35,230.1 Million by 2027, Growing at a CAGR of 38.4% ..."
-    excerpt: "Global Market Outlook (2019 -2027)\" report has been added to ResearchAndMarkets.com's offering. Global AI in Fintech Market accounted for $2,617.13 million in 2019 and is expected to reach $35,230.1 million by 2027,"
-    publishedDateTime: 2020-10-13T15:58:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201013005910/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20201013005910/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "WOA9/uYCvly8/16u6EXf4TzT8Ax6ReC0EGNBdzjnbuMxD9tEzoGzkw7A4hVmf5qbiUdSEgV/PM9sxLdTotflG15B0O96NDnQQnueafgFPwy1KfWAmqf1ZWE7KwKeNYhU6ew9Gmftad2z/34wYZFjRcWNtloQuzfne+6fpZ2Xpatryd67RuRuImQcW3kZ71dXJArJO3BfJZRpECkVtSX/KQWsjw+Ryycf1ob1nwlryTIdUHdBAPBvHbvRw/pjzz9nj+IhsraXvAIE/kXApN8FC+WJdJ7ZOtvFtqFOKSA2EFavqxKxEPaV1mh8sC+WttXGkYe50ZnXRiYHuAvPY/X4J29z9yzmEG1kvTg8x5LGFG4=;PvFtWrQjxtzlADTYqnmT7A=="
 ---

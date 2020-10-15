@@ -19,6 +19,38 @@ topics:
   - AI
 
 related:
+  - title: "Banking on AI: How AI is changing the face of Fintech"
+    excerpt: "A recent study by McKinsey suggested that by 2022, over 30% of the tasks in the Fintech sector would be taken over by machines."
+    publishedDateTime: 2020-10-15T02:29:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 74
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
+  - title: "5 fintech startups to get funding from ING-Unicef program"
+    excerpt: "Dutch financial giant ING and the United Nations Children’s Fund (Unicef) have selected five promising local fintech startups that will receive fresh funding and mentorship under their joint program"
+    publishedDateTime: 2020-10-13T21:10:00Z
+    webUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program"
+    ampWebUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
+    cdnAmpWebUrl: "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 44
+    images:
+      - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/10/News87524-e1602260971308-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
     excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
     publishedDateTime: 2020-10-10T18:50:00Z
@@ -33,6 +65,42 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Polish Fintech Symmetrical.ai, which helps Employees Maintain Financial Wellbeing, has been Issued Small Payment Institution License"
+    excerpt: "Polish-British Fintech Symmetrical.ai, which helps employees maintain financial well-being, has been issued a small payment institution license. The company said that the new permit should allow it to make Symmetrical-backed salaries “even faster ..."
+    publishedDateTime: 2020-10-13T11:51:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 8
+  - title: "Global AI in Fintech - Market Outlook 2019 -2027: Market Accounted for $2,617.13 Million in 2019 and is Expected to Reach $35,230.1 Million by 2027, Growing at a CAGR of 38.4% ..."
+    excerpt: "Global Market Outlook (2019 -2027)\" report has been added to ResearchAndMarkets.com's offering. Global AI in Fintech Market accounted for $2,617.13 million in 2019 and is expected to reach $35,230.1 million by 2027,"
+    publishedDateTime: 2020-10-13T15:58:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201013005910/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20201013005910/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "UAE’s Fintech Galaxy to Focus on Financial Inclusion via Hackathon for Implementing Digital Lending and Other Financial Tech Solutions"
+    excerpt: "UAE's Fintech Galaxy to focus on financial inclusion via hackathon for implementing digital lending and other financial tech solutions."
+    publishedDateTime: 2020-10-13T00:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "fxc/R8y95qkzU1UUmslhPmABq8UWNww/wdqXyi355N8ZWP2nV2xs1tAUZio1BXRWT0KGquPVDHzeubByy/A3oHxuNDPZUpnaOPOvVvkO0KPiEouHcDyhnf3/IcZMnJkc/7h6snyspGwW94cGHpOGucFfkG56VCMbpSjoNFT98r9NTjd79/9d3ih/G/nPqghhj6qYRC1ryUwGRGY+VBuiENIbRL6uU98kmic1Jgz3XSQAnnEa34suZwM5RcfFIaaVOUESf2E8dMDClOxV0pGDKiqk5Tr1fq0NKA71mAZ5CgaLKYh8+R6eL+50Yvn9Oyvc/HAISEwtruL/raKw9PaG8drguaNy45wJB33NP+hZ2d4=;7ZGYr/GRYPwQDEWsCzff/A=="
 ---

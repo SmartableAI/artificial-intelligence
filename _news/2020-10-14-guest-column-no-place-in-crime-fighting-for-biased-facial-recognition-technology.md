@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-097
 cdnAmpWebUrl: "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-0973-11eb-b812-1fddca3d8866.amp.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Advocate
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Government deal done over facial recognition technology"
+    excerpt: "The Government has done a deal over facial recognition technology that throws access to it wide open. The Internal Affairs Department has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
+    publishedDateTime: 2020-10-11T23:41:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018767922/government-deal-done-over-facial-recognition-technology"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://www.rnz.co.nz/assets/news_crops/110255/eight_col_121526165_l.jpg?1601428940"
+        width: 720
+        height: 450
+        isCached: true
   - title: "Syndicated column: The fight for free speech"
     excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all"
     publishedDateTime: 2020-10-10T20:00:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theaustralian.com.au/higher-education/robots-will-watch-
 cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Australian
@@ -35,6 +35,15 @@ related:
         width: 632
         height: 422
         isCached: true
+  - title: "Scientists voice concerns, call for transparency and reproducibility in AI research"
+    excerpt: "Scientist challenge scientific journals to hold computational researchers to higher standards of transparency, and call for their colleagues to share their code, models and computational environments in publications."
+    publishedDateTime: 2020-10-14T18:08:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201014114606.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
 
 secured: "h7bHa7QSz4B/WIHCThUFjz/VnjUlr99JNp9s3e+bcXMMStt01l3DewGCE+yL4mNFJ8tSoEacR5WqvLZ5S1GsU8P/P0tN+6xC/lJQbHvETlPY7hbfPC5Po0kxM1ZTxAakCg3u0/sCdfxc8UdCkJkf3j2Ggw/8sJFT3Wf7VPRq4H92ST5hGOxq3jlXi7NpbW2lhCMl2Ywz2GLOw5Sz6id+8fqg8vhTVxQWCGxGfw5+5sVSIoeL1DFmULrCC3ffXrcgmFAppsunDeGXx2fRpcsYUpwW3wNFeSB++RD9trTQb55X9nNLturd3EnfzBFMW71xBI3TFu3lX1N2cZNqpjy/sunX+N4aC5Z3TdQg6z+Ral+eiHmtXK7TE107ejdvibrHse9iZJtoYt0A2fa2JtE7ld+f67Z88srks8sHNKk7KaXSJ6X/IQARRHIMLs7abRW4UTr+2iuNFXy3mba4sDL3/g0UUJ9KL4k/gakq/z5c0Zy/jFbAOtuxGf/8SC3QRnoT218QQBhV8R8NV2KdzuiGcg==;AW8mx2GatphpEZ0XSyGmpw=="
 ---

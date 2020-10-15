@@ -35,6 +35,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 54
+  - title: "Scientists voice concerns, call for transparency and reproducibility in AI research"
+    excerpt: "Scientist challenge scientific journals to hold computational researchers to higher standards of transparency, and call for their colleagues to share their code, models and computational environments in publications."
+    publishedDateTime: 2020-10-14T18:08:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201014114606.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
 
 secured: "52ARuWMm+uO62l/TbLAN4MlJI7xictNz6Ho8x8OegSrxEk8s1T73zroQuH8P1F0BwZKyHfVa94cvnWeLOXJz0Xbrc0mu1oX5ES5lfmtkuEW+mUYh7EvzR7+j+3tLOBemWgWmbnhZHsexw43Dn3Os3iccqxJiKi/Am/dHf2EJm8T50cn4MmkPSo4AZeEAUWJxioQlWX1asC2M+s9ub29RX80fXc80AnW4DlddB4lWpwZhVfUb9uLWesQd+3NtABDfSIFUpmQ0b82+ifJHUMWppG8GNvNuePs3f+s+UfD7cN8aGIXZan4wPKLlZQ3czqfSeV2/tPvqsgTAoMAdcpaJM0ctP433OKdTWd3mf4oJ9yw=;B8Akr3oN3dlab4qE619VFQ=="
 ---
