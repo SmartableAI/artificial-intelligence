@@ -107,20 +107,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Facial Recognition Technology Can prove a Curse"
-    excerpt: "Divyanshu Dembi Facial recognition technology as a concept, is not new. Charles Darwin, in his book Expressions of Emotions argued that human facial"
-    publishedDateTime: 2020-10-10T18:34:00Z
-    webUrl: "https://www.dailyexcelsior.com/facial-recognition-technology-can-prove-a-curse/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 39
-    images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2020/10/11-11.jpg"
-        width: 1000
-        height: 668
-        isCached: true
   - title: "Attendance in Sectt through Facial Recognition System"
     excerpt: "Employees of the Civil Secretariat will mark their attendance through a Facial Recognition system from next week. The use of the biometric attendance system, which requires people to put a finger on the surface of the scanner,"
     publishedDateTime: 2020-10-13T21:35:00Z
@@ -164,6 +150,6 @@ related:
         height: 709
         isCached: true
 
-secured: "UuXsjQDRY4eG6Os4QGI/UQqzCB5U3XgPZn8+O0AtgnNYCdwXgzEfFmIeX1Hu1jhKrPm6dS1I9dUquZLVDdd0uxhG5GTabj91/wGT35rRDj0jAoV+DxcSSd5uvFR8eM8j3woaWBQpPs2Axyj8KxdPsZjiXyJZbwUmHXXIBDko5EzIRyFI3/+4oa3Tr5YgOXV3mITXRt8rzlt9QKHvPCd69roi67gE7aeJZaevapEOfulqrq0oJwqM7DyPXFx/bvGpdYHHmKJpdVX3WgWuGgKiD5GfrQYzIArnbwwKk/V0a3I3eG627B5E3Gm0lIujejexmRxGtWVAp6e0Ed9XzIvJPCsHfcEjvIX3AtRmhm6Y09o=;SceWisUFXY2ZIRjjjX5AQg=="
+secured: "4ROdtk5Kyc3hOKPpQ3U88tmI9krjFa2dF7ph3ra4nkDe6Y9siWI3PNsaVftVbGv0NQPvoravr/Z+meap8s+F4jjtOKXzaOadG5tJ0lEQt23JnOQh22psGZuGHguBwyxQxohjTYlJ+wfL94+FN1Y6rEISwVg6ZHS6Gc2lNtDiHjshlVYFVsgHWqAT6YiTGPpgKyM4Y+67D6FTgMqDnWsA8rjccnGoNMSTHuUnvBpFcFE8uisdyCti3a+FPB1Z0gj1I+6X7Gr6Y07w312Ji19ZpjHQDx2fBZjU5ufB6yxs5IO+7Q8qGQLQB19L8Tyzd2FzbiyVLZNG5ekY2FAWhOuOEwRN8HpxXbc5glnjf+ULvnfFDZ0i03QtfMFyK3Xor0CyU4FoYulk7G0X6MH6NZEFXlvpv1kV6uEetwiSeS84pIbHkXd4e7CIei858vmtWL9jcFIQsDMNAYncTklX/fumwAeqQZwoQakD25qDdmIeSDZDQJ1ox4h+tGo18KDfMCbchqUmEqA224vWHAYORHfPsg==;cURt4B3vBZ+JEWeFwwaegg=="
 ---
 

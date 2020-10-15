@@ -97,20 +97,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Facial Recognition Technology Can prove a Curse"
-    excerpt: "Divyanshu Dembi Facial recognition technology as a concept, is not new. Charles Darwin, in his book Expressions of Emotions argued that human facial"
-    publishedDateTime: 2020-10-10T18:34:00Z
-    webUrl: "https://www.dailyexcelsior.com/facial-recognition-technology-can-prove-a-curse/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 39
-    images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2020/10/11-11.jpg"
-        width: 1000
-        height: 668
-        isCached: true
   - title: "Attendance in Sectt through Facial Recognition System"
     excerpt: "Employees of the Civil Secretariat will mark their attendance through a Facial Recognition system from next week. The use of the biometric attendance system, which requires people to put a finger on the surface of the scanner,"
     publishedDateTime: 2020-10-13T21:35:00Z
@@ -168,6 +154,6 @@ related:
         height: 709
         isCached: true
 
-secured: "XrxfFvXWi3zTQeDnOuAp6u/zI+Y8rdLwRBrfQ4ZE96s1asgrd+AwYk6+d5NZM4h64P/aXcDBfF/n72mfcBSAGU9lqoJoW0LIzPlRiuOnOe6hHsHOxaj+eNhgKdKL8mSZ4lWoov9GPWeIhGJn0mjnYRyI9WlpqFnoXyi4j8RRFVGcUaKpSVBvFjGrZZgQn6JoeGYRAsHUKxxPZCZ+dcAVTd2JnkQKPi9iNlHfbgv4VmGMpHcp6xYniq9tQ8crS8p9Gg/TDKg6LuNhsS151vwAzeNl4F8y7bUj4ONfPBCfFZqptFxPc9Csd8SM9kU+nuaQL3AAORDId/geVOXwDZHFCPCMGwXrWeuVVPXxvG5SGcc=;yKTnAfH83tE1Bm5uhn5iXA=="
+secured: "7gmhRQk+Ak94nFohdu5U1LvXpDuHYKciqd5+fh7XCysK4oLVegAEZWRoj6ij7C6aLZdkQY4B2bv3Wfx4oKpwoNoXBG4cJbepp8b9kFw4vgemJ36OclgFnUWEeVwi2HdpBLXXcEFDGxVJ2vpfMDUoljvb5gcPx5j3SzSWhPrW9iPJtZFUBXvi9UZsALnmk1y3EIUZmYvX6UFhzuYFC+eD1NY6z/am0RgywGtiEaOGUAlMt8Ee5lB8QlStW9M9MyNm+iW8p0eepgQjnqWh8Ua6cis72Pb1YaR2+z09vgFawxiXmpAWeCLaXbSFBmBEtDxM/ZdR5j/AT/1/ptl5I+68QKCtzGzZ4N0zzKD3ZqmV0LJXqmJxQG3zvvOP72W05RHKG9yrh9FKeYOJyUl+KoWio5Tp/+hkERRY8uOUijyuHIO+Hgv4snrmniRKUhtP5W5V9XXeegaPSujQf9bT5+aGSMJvkVL2jOny8ieF6bpL5pIHAoDDOjhPvG0sneGY4OoykkBO+I+JRNv86l5TbPdtjA==;DJza13HqABPU0sYujMds6w=="
 ---
 

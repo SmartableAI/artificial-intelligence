@@ -43,20 +43,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
-    excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
-    publishedDateTime: 2020-10-10T18:50:00Z
-    webUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/61668108_thumbnail-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Embedded Finance: What it is and What it Means for the Fintech Industry"
     excerpt: "The fintech industry is always evolving. But one development in particular is generating significant buzz and market-wide revenue predictions to the tune of over $7 trillion in just 10 years. That development is embedded finance,"
     publishedDateTime: 2020-10-14T00:51:00Z
