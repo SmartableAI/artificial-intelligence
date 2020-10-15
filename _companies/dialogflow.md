@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "Dialogflow"
   url: "https://twitter.com/Dialogflow"
-  followers: 11966
+  followers: 11969
 
 size: 11-50 employees
 yearFounded: 2010
