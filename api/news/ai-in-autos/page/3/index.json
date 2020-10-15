@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-18-driver-found-asleep-as-self-driving-tesla-car-breaks-speed-limit-cops.md",
-      "title": "Driver Found Asleep As Self-Driving Tesla Car Breaks Speed Limit: Cops",
-      "excerpt": "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged with dangerous driving, police said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487",
-      "originalUrl": "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2020-09/sbsv48b8_canada-tesla_625x300_18_September_20.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off",
-      "publishedDateTime": "2020-09-18T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-car-traveling-over-90-mph-cops.md",
       "title": "Tesla driver, 20, charged after found asleep at wheel of self-driving car traveling over 90 mph: cops",
       "excerpt": "A Canadian man has been charged after he was found asleep at the wheel of a self-driving Tesla traveling over 93 mph down a highway in the province of Alberta, authorities said on Thursday.",
@@ -1398,6 +1355,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-ai-will-change-the-way-events-are-planned-and-executed.md",
+      "title": "“AI will change the way events are planned and executed”",
+      "excerpt": "From driverless cars to virtual doctors, artificial intelligence (AI) is transforming the way we live, work, travel, and do business in the 21st century. PwC estimates that AI could add as much as ...",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/@naveengupta_88223/ai-will-change-the-way-events-are-planned-and-executed-db404bfb3308",
+      "originalUrl": "https://medium.com/@naveengupta_88223/ai-will-change-the-way-events-are-planned-and-executed-db404bfb3308",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*uR1V46w9647-E0aqntD3ZA.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

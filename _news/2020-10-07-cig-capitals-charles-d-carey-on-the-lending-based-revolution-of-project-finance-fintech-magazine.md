@@ -1,24 +1,26 @@
 ---
 category: news
 title: "CIG Capital's Charles D. Carey on the lending-based revolution of project finance || FinTech Magazine"
-excerpt: "However, in our lead story, Charles D. Carey, serial entrepreneur and Managing Partner of CIG Capital, reminds us that investment is about more than just money and describes why funding desperately needs to modernise."
-publishedDateTime: 2020-10-07T11:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656467"
-webUrl: "https://markets.businessinsider.com/news/stocks/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656467"
+excerpt: "The financial services landscape is changing rapidly, and, in these turbulent times, investment companies can be inclined to focus solely"
+publishedDateTime: 2020-10-07T11:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html"
+webUrl: "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "CTEFnJi+OlYfciJTkpXDENssRjHb3ndfZqr+QYzVt0vkQSnb294W02EvsNffC0i07wTTZsHjQtw9gHOYsCRU5UCzvA64c9ycR5c+Zw1K/5K/cqbel4uHHwh+j7IDm5+cfOVSuKdlqgtHFGN9sIU0ebuqE6ErGZmkKQ8OWdLQ8UwYSKPTMzqGDyzp/PpNLUzupPDCd7NrnW3VW4jOOAFHvvQc5cflMhfw4DmFFXs+GMsLL3ZzBNXnr2Eb8k7ScS3RZhmK1KhqKIeZ5x0NLwf4p8IJTepdwyt7W7kHxcSYEmSDUuDerY637IC+v98PO9pp8MSRv9A7Oiogs2FL+TOvJqR2LGuydA7paSMPaPp6TRY=;P009jy8vqoHcGAwOJxWSvA=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "qntm1iE3Kp8duvloIFpCzONFB3Mk+5V7HbNxp2uzF04SN8nWyzwyCPF14mGi8PsVdZ8UgDdbpIlHphe4XQvd09JstiKENIBHrBx6EsjHMfUw5VHMOXH4iix+rfmLm7ZXtmNi6wrtgikQdC0ih6QJIfnBeg+Z3DF3IEoRDoFqD9+NSx62WXpUGmVTLBbVDbtO5u/lw0KtVWcOD6VQyEQxZAgyE704C4uMykZhAHVBgXhfvqRH2pWALaodQ4jWY/EUoKusBZWOIjtpqKPbQ2LOPW9dqmg1Dba2rgygfXaAuxyifi/tS+hFXZ2ABuPsfJ8VTT7skN/Z0cMLrP84cMEEe88ZzB2drB8rvPRTBXNuwrw=;10v78+2bvYqaFc17daitww=="
 ---
 

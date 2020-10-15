@@ -40,6 +40,22 @@ related:
         width: 800
         height: 473
         isCached: true
+  - title: "Global AI based Edge Computing Chip Industry Research Analysis by 2020- 2025"
+    excerpt: "Global Info Research has recently published a report titled Global AI based Edge Computing Chip Market 2020 by Manufacturers Regions Type and Application Forecast to 2025 The research report provides an in depth explanation of the various factors that are"
+    publishedDateTime: 2020-10-15T07:33:00Z
+    webUrl: "https://www.openpr.com/news/2160181/global-ai-based-edge-computing-chip-industry-research-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2160181/global-ai-based-edge-computing-chip-industry-research-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2160181/global-ai-based-edge-computing-chip-industry-research-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 71
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta15512674_g.jpg"
+        width: 566
+        height: 348
+        isCached: true
   - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Development and Growth Forecast to 2025"
     excerpt: "The development prediction report titled Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 focuses on thoughtful insights and facts relating to the market."
     publishedDateTime: 2020-10-12T16:27:00Z
