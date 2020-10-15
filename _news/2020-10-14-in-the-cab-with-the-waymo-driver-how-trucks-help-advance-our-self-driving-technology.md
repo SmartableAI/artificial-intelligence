@@ -57,6 +57,22 @@ related:
         width: 1199
         height: 900
         isCached: true
+  - title: "GM's Cruise plans to test unmanned self-driving cars this year in San Francisco"
+    excerpt: "The company received a permit from the California Department of Motor Vehicles to remove the human backup drivers from its self-driving cars. Other companies to previously receive such a permit include Alphabet's Waymo, Autox Technologies, Nuro and Amazon ..."
+    publishedDateTime: 2020-10-15T18:03:00Z
+    webUrl: "https://www.cnbc.com/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105600216-1543518019363cruiseleadership.jpg?v=1543518088"
+        width: 4000
+        height: 2667
+        isCached: true
 
 secured: "plSGLEGwj/DFQRfC0ZCgMqcyYulliw8ap3fPZ8yRpxTX11jHIS9H9+NWTv6SvkUynOEImKISXIJ4/U+TsL3PztvJ9CfuT2IHjRZ+VitoeWjuNzuxXAqdbVAvpUnfNVmed0MYzdg63r7MYwD4WNuQC2DrdvNPFmipyVv+KPCazK/Tr2ceapNE05Zm2wrnZEyy5/vdA3Q0x5m2cg8lx4gFoOlYRcr+vi0aDyz2DnPN2fMTsTkfKp3MfH0CPVz5RQ94/MFhPXPeSV96jxXSLTCoJBAKF2e+MeAQRL5sNSQR+qDKS0lHD22Ln5tXdN4/FpxHF7JyGJgS8WFtwItXjzKxu+3mP80VIZmhYnO3CrUqoKJBIU74dQ4+JZblzuHJVvtNANevOodl5CcbNF2xixeRhVd6771C9PUZpbK16Xoob2lbteOvKiPIZZJX6WewdxfKxcqbRXSMNX8mTvWIfz87cXP+7HWU3AOpqIhNTlkd+SylXtBDqVRqgdF3zQy22knrWaGm2eJodZ8DApvRmLzc1w==;Tn/L5K8BqhybwnrTi8pL2w=="
 ---

@@ -1,24 +1,27 @@
 ---
 category: news
 title: "H2O.ai brings AutoML to Equifax Ignite with Driverless AI"
-excerpt: "H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverles"
-publishedDateTime: 2020-10-08T13:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201008005266/en/"
-webUrl: "https://www.businesswire.com/news/home/20201008005266/en/"
+excerpt: "H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverless AI within Equifax Ignite ®. H2O is a ..."
+publishedDateTime: 2020-10-08T14:05:00Z
+originalUrl: "https://www.oaoa.com/news/business/h2o-ai-brings-automl-to-equifax-ignite-with-driverless-ai/article_3020f4a6-e84b-5620-afe1-ce7fc7241787.html"
+webUrl: "https://www.oaoa.com/news/business/h2o-ai-brings-automl-to-equifax-ignite-with-driverless-ai/article_3020f4a6-e84b-5620-afe1-ce7fc7241787.html"
 type: article
-quality: 51
-heat: 51
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Machine Learning
   - AI
   - AI in Autos
 
-secured: "59V4P2G63CMccFHHlBvVODuE8TLO5Ad+2MTy00AahNg8GsSAaeomoKBS44EI7lYkhvF7hgLbi0TRMvYdZ2ojiMM5sFrxtFaXbysf/l1Htx9qy3V7nczejZYwnOCaO8wV+OR4MCj9BdHrt9u4gdGCbqkXOLxcJDuTLchAxaVnimk+9zqSjrXVyVQkSfjxNETkgT5orI0kpRfwZG3SkopTYoe5/iwu4UIxYyW4+B1hpO1ZybPj6EORl7HviqU4k+0eURY4XljHd7C+1x/MD3iQDlEaEL2Il5XkB35jOoQRctRHlIrj94Ptco2RLM0JXX5n+F4NoyAQjHFH38wq+No9Q4BScn88fOrar8i/IwHIqOY=;RVcDZoz3Mm/dFKvh3qG6rw=="
+images:
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
+    isCached: true
+
+secured: "8qWA8Tmui4cKlqgZu1nkCLR5mrwgadgE2ux0BJTUmVvFCtDIIK2t09tS+X1riZJ8jvGkzk7h/Yozw239OH7GSd8QRNXtMEFkJnfMpw9gyZgKAiV88NbyzGSSMwv7ak/uOU3DnuUKnTs40Y9Bl/dlBu5gHN7Lu0XuP+V/1yGtK9O2yKA7VQ0/j0B56silCMfFGmB1CJ2fS2Tj3zd4QvoS8nd6/+OXb5gcav+cg3sDwOtgGvJt7oEa19ffWDMO3v1M1E+vHgM/Gd9HC9kQ2u71hVJgALIVqLDRss908s7zL2RFsheCF/HhgqcuURIfDpHFFERAuL/cG/0a4ZzAFeTKYwBl7QIm/Wv03xY9t0So6qA=;+ZhYpOuuC1fX5FrddqyVjQ=="
 ---
 

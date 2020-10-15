@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volca
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

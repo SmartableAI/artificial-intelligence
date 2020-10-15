@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Microsoft says its AI can describe images 'as well as people do'"
+    excerpt: "In 2016, Google said its artificial intelligence could caption images almost as well as humans, with 94 percent accuracy. Now Microsoft says it’s gone even further: Its researchers have built an AI system that’s even more accurate than humans — so much so that it now sits at the top of the leaderboard for the nocaps image captioning benchmark ."
+    publishedDateTime: 2020-10-15T15:34:00Z
+    webUrl: "https://www.engadget.com/microsoft-azure-ai-image-captions-humans-150040200.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F433d7370-0e2d-11eb-bbcd-ab2a0273c3f2&client=amp-blogside-v2&signature=dbd9fffaae827c8ebdd2c9403d7d67468fc636d2"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs"
     excerpt: "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ..."
     publishedDateTime: 2020-10-12T20:03:00Z
@@ -120,6 +136,20 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Microsoft Azure Cognitive Services AI System Can Describe Images as Accurately as Humans"
+    excerpt: "Microsoft has revealed a new AI model through Azure Cognitive Services, delivering a breakthrough in image description accuracy."
+    publishedDateTime: 2020-10-15T14:42:00Z
+    webUrl: "https://winbuzzer.com/2020/10/15/microsoft-azure-cognitive-services-ai-system-can-describe-images-as-accurately-as-humans-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 75
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2016/10/Microsoft-Cognitive-Toolkit-Screenshot-YouTube.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft makes breakthrough in AI-assisted image captioning"
     excerpt: "The power of the cloud continues to impress as Microsoft-powered AI can now write image captions as good or better than real people."

@@ -36,6 +36,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "IBM, ServiceNow Deepen Partnership"
+    excerpt: "International Business Machines (NYSE:IBM) and ServiceNow (NYSE:NOW) today announced that they will take their partnership to a new level. IBM, which recently announced a spinoff of a legacy business to focus more on the cloud,"
+    publishedDateTime: 2020-10-15T17:57:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/15/ibm-servicenow-deepen-partnership/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/15/ibm-servicenow-deepen-partnership/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/15/ibm-servicenow-deepen-partnership/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595256%2Fgettyimages-1206796363.jpg&w=1200&op=resize"
+        width: 1200
+        height: 638
+        isCached: true
   - title: "IBM, ServiceNow Partner on AI Effort Aimed at Identifying IT Anomalies"
     excerpt: "The new offering will combine ServiceNow’s IT Service Management and IT Operations Management systems with IBM’s recently introduced Watson AIOps."
     publishedDateTime: 2020-10-15T12:43:00Z
@@ -65,6 +81,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "lIOkGQyRd2Edq0CsQessfVez6vGeDXmzFxmYIr0GSnlQ8VyKZOIEaj5fLCxghTPx93HR+LFwFfPGOkBqPs3gqLjqwD+3IGDryWNCywb8gtDuxI+e4VGp07c31MEdyIQUCZDK6AWKCFT5bQ32VWVRpHcfMbcrnBMWWDVDSjCuPNXFfAAW1OoC6lSETGT1gD89L1kK+L/2J8n+6yAE5Xhnop6A2cFRZnOZfpgdB/Yy39PWaotClp74YqXHTW2GiAGlDXI1UgX7NMNhHg31taw/KBb3Bg9fbCJep6ZcJWJc2olYBCVCTUMMDCdqRoCQdswbOqsWcB11HQd4Fcc2UHj6x1i2JecujmmaH3VEdHL6TUU=;ASlkdyXvzJTKIFAffK7cyg=="
+secured: "s1NWKJTISyeZA4ZHIOHgQCwOsyu/8/e0tNJCIzmdTvpX66POTgpQalBQGiTafX7XkxvN2J09FuFDMjqxKcQcYLJvS0RNqt3wODhfZyqi+cm6wJtYJFjtEs1eE0A1Nf2q/UORGyBiDUuLEJN6SE308Qpu6comkuxs9mkhDESBt7/NRl4xHvUgM6Z+DVET2O1aWdmAzul5zw54JXUA9Z62zfOwXcC2DrB8mxSgF/Xiefm6jTCfa3M9JQvKZqk821pYl3AMV6JkDunXxhcuIKJWoyK3ga4Ag8eIMpR8IDM2ndO0VjEifmc5gxMnNsnscmhW8dRNxWfj5R7oqNvJ2UOko8UEUtBcU/o/QnMpSTEOyvtX3BUU0J0hN+h3xCfIx8wrGilYdQ94dnjwkDvKFgpe6DokU2AiOe0h8SFN2wV+JRDzwA0j71QxTsb0KzZbqktK4gDOqLjXrqpCmaryW9OR8z6TpeAj06+9h5nYkbzkevoSrFOP0M3bLkJ6KTGTHhPU7vCTa5XnN/RXfuo8tI6ghw==;fGJj5CoeM8FVKe79tva9YQ=="
 ---
 

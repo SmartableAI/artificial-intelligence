@@ -37,6 +37,20 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Four Ways on how AI is Transforming the Healthcare Sector"
+    excerpt: "This AI ability is becoming a critical factor in diagnosis, treatment, care delivery, results, and cost. Here are four ways AI is significantly changing the healthcare sector: AI in healthcare can be implemented to automate phishing."
+    publishedDateTime: 2020-10-15T13:53:00Z
+    webUrl: "https://www.cioapplications.com/news/four-ways-on-how-ai-is-transforming-the-healthcare-sector-nid-6662.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/2howe450.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "5 fintech startups to get funding from ING-Unicef program"
     excerpt: "Dutch financial giant ING and the United Nations Children’s Fund (Unicef) have selected five promising local fintech startups that will receive fresh funding and mentorship under their joint program"
     publishedDateTime: 2020-10-13T21:10:00Z

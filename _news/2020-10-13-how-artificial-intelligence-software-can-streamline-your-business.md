@@ -38,6 +38,20 @@ related:
         width: 632
         height: 422
         isCached: true
+  - title: "Streamlit launches cloud service to help developers share open-source AI apps"
+    excerpt: "Streamlit Inc., an artificial intelligence startup backed by Google LLC, today launched a service called Streamlit Share that’s designed to make it easier for developers to share their machine learning applications with users."
+    publishedDateTime: 2020-10-15T15:34:00Z
+    webUrl: "https://siliconangle.com/2020/10/15/streamlit-launches-new-cloud-services-help-developers-build-ai-apps/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/streamlit.png"
+        width: 718
+        height: 400
+        isCached: true
 
 secured: "HSNd9SCpXVbZjNqgzp/AH1U3j8vTy0Jl/Dy6FgfAZ3MYqbKv980DMVXsRHzvLp3HVCDjYP5Wv+q8izJCkhr8Jx0dQ0Gv+E19ek12MQECLllgjBcz0oYxHnFR7efWSenXmMv0o8BxGIYiNTya61qgwpPVkFFC2/aHE8PpKWT3U2LFgGgGRBLVWqRA9Nw+Oi2i7z8mgjRrSczmZAhnXxWUTgVVbrN0Eo7zuAOJmJv4sJ2blGmf1haUjI0zVXAbkxVFg7VBEIvuF4rkGyJj/90Aq2BBA3gqGx2jLHPD4zxPAQgMq7s+jvLKpwrR286ZCWIJhJh8NaBX3mE3kEuV3+in3H5ZxB1Gh/ko3Uc0sH7jVCw=;dkaPCy2ITF3kQk5xedbzUw=="
 ---

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition deal too weak to protect Māori data sovereignty - specialists"
+    excerpt: "Māori data specialists are warning a new government facial recognition deal is too weak to protect the public or Māori data sovereignty."
+    publishedDateTime: 2020-10-15T19:25:00Z
+    webUrl: "https://www.rnz.co.nz/news/te-manu-korihi/428426/facial-recognition-deal-too-weak-to-protect-maori-data-sovereignty-specialists"
+    ampWebUrl: "https://amp.rnz.co.nz/article/72385c3e-ef9f-4056-85f8-5beb92f3574e"
+    cdnAmpWebUrl: "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/72385c3e-ef9f-4056-85f8-5beb92f3574e"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 54
+    images:
+      - url: "https://www.rnz.co.nz/assets/news_crops/107655/eight_col_121526165_l.jpg?1597745835"
+        width: 720
+        height: 450
+        isCached: true
   - title: "Facial recognition deal opens access to public and private parties"
     excerpt: "The government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
     publishedDateTime: 2020-10-11T19:14:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://www.nzherald.co.nz/resizer/z_KV0bXxbvv_DCZtGHsbff6ujSY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/RZPFWX7I2GZDU3MHXMT3BKUDZA.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Portland voters to decide on strengthening facial recognition ban"
-    excerpt: "Bennett | BDN PORTLAND, Maine — This year, Portland residents will vote on a proposal to add enforcements to the ordinance that bans the use of facial recognition software by police and city ..."
-    publishedDateTime: 2020-10-13T09:34:00Z
-    webUrl: "https://bangordailynews.com/2020/10/13/politics/portland-voters-to-decide-on-strengthening-facial-recognition-ban/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 39
-    images:
-      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/early-vote-2-1.jpg?fit=1024%2C683&#038;ssl=1"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "WVAKJjqBYUUQIHC1543cBIxW6YgLANss0bSyo6LV1DJrysYM0kEvTl47S4W698/C91//3MfUzSlSwIi3A3wMLDbsiXVRzIJyKYD3pdM0ZSrt7o5pfExh7dBSSqr7An9brrKRIvAjT6tOzZythnp61reZnQcSf6a/oNbSyjWvdi/6eWkT7RZsQVRZi4BQK2C0uRE3F3gI6F6NnER9l80jt6MpCk0+0hZKegr6/m9/WEWDwzGQOCbjjDHzNWFR1FUIELDZL2e+sDR6u/fF4x+auVM3PdhR3p7piGwh+MsZNIPszMllTeqnsXJu8PFksAXDuENse8aRjP/rOXyf9rIFrRz5fSyEf6C1ucqtOR0TN+x+gXLaf0hVKiX36GKjpvXdp8OW+fBQwKHQevjo9cNeRMKaiDpdFChXhSfZ2SizM+dxcOJ7ZBEsWonpLJMDgwEi/AzG6xzkcHEnjBLZX52dBv4fiCeF2hb1/P3mPyD9DRc/OZ6h6rnar1wqt76IG/cIGtzfvZVLBNh5E36LHRgkcQ==;C8NNwXO2DYDx7DIH6Ylf8A=="

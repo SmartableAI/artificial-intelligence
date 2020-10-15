@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Iris Recognition Market Trends 2020: Industry Analysis Report, Size, Share and Forecast By 2025"
+    excerpt: "According to the latest report by IMARC Group titled Iris Recognition Market Global Industry Trends Share Size Growth Opportunity and Forecast 2020 2025 the global iris recognition market size reached US 1 8 Billion in 2019 Iris recognition is a"
+    publishedDateTime: 2020-10-15T17:49:00Z
+    webUrl: "https://www.openpr.com/news/2161264/iris-recognition-market-trends-2020-industry-analysis-report"
+    ampWebUrl: "https://www.openpr.com/amp/2161264/iris-recognition-market-trends-2020-industry-analysis-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2161264/iris-recognition-market-trends-2020-industry-analysis-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta15363849_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
     excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
     publishedDateTime: 2020-10-12T23:08:00Z

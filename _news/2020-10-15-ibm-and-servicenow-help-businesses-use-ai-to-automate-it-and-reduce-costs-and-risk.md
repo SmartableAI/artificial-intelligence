@@ -36,6 +36,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "IBM, ServiceNow Deepen Partnership"
+    excerpt: "International Business Machines (NYSE:IBM) and ServiceNow (NYSE:NOW) today announced that they will take their partnership to a new level. IBM, which recently announced a spinoff of a legacy business to focus more on the cloud,"
+    publishedDateTime: 2020-10-15T17:57:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/15/ibm-servicenow-deepen-partnership/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/15/ibm-servicenow-deepen-partnership/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/15/ibm-servicenow-deepen-partnership/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595256%2Fgettyimages-1206796363.jpg&w=1200&op=resize"
+        width: 1200
+        height: 638
+        isCached: true
   - title: "IBM, ServiceNow Partner on AI Effort Aimed at Identifying IT Anomalies"
     excerpt: "The new offering will combine ServiceNow’s IT Service Management and IT Operations Management systems with IBM’s recently introduced Watson AIOps."
     publishedDateTime: 2020-10-15T12:43:00Z

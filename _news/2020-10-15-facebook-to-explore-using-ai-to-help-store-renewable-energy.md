@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Facebook and Carnegie Mellon team up for AI-led energy storage research"
+    excerpt: "Facebook and the Carnegie Mellon University Department of Chemical Engineering are partnering to research how AI can accelerate the discovery of energy storage solutions. The Open Catalyst Project aims to help solve the challenge of building a grid reliant ..."
+    publishedDateTime: 2020-10-15T16:49:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/facebook-and-carnegie-mellon-team-ai-led-energy-storage-research/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Wind_power_plants_in_Xinjiang_Chi.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook’s Open Catalyst Project uses AI to find new ways to store renewable energy"
     excerpt: "The idea is to discover new “electrocatalysts” that can provide a more efficient and scalable method of storing and using renewable energy. Facebook AI research scientist Larry Zitnick said in a blog post the project aims to tackle the intermittent nature of renewable energy sources such as wind and solar energy."
     publishedDateTime: 2020-10-14T13:46:00Z
@@ -146,6 +160,20 @@ related:
       name: Politico
       domain: politico.com
     quality: 24
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "How Facebook and Twitter’s content moderation could shape the final weeks of the election"
+    excerpt: "Facebook and Twitter’s handling of the New York Post’s Biden-Burisma story is illustrating how tech platform’s content moderation decisions could shape the final weeks of the election cycle — and Republicans are accusing them of attempting to influence the results."
+    publishedDateTime: 2020-10-15T14:05:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/15/how-facebook-and-twitters-content-moderation-could-shape-the-final-weeks-of-the-election-790994"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 15
     images:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120

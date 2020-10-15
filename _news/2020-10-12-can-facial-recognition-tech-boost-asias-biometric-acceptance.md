@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2020/10/facial-recognition-tech-will-bo
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/10/facial-recognition-tech-will-boost-biometric-id-acceptance-in-sea/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Pakistan deploys facial recognition to secure borders, biometric prisoner identification ordered"
+    excerpt: "Pakistan Customs will put in place a National Targeting Centre (NTC) using biometrics to identify and profile risky goods and individuals, DAWN reports. Established with support from regional"
+    publishedDateTime: 2020-10-15T17:44:00Z
+    webUrl: "https://www.biometricupdate.com/202010/pakistan-deploys-facial-recognition-to-secure-borders-biometric-prisoner-identification-ordered"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 26
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
 
 secured: "sMnuS6ynwxw3ebuAPq6UwUtSyl+I9SjDma7TtETdM7oQm8e2lib9t9CDf9E6kd6NtOV+yOJRhnevob2d7vvzWw/3IuUghACcgwNi3T+3vCiZEEUZDLPDPg7iQVsOhQX06+C6u0MPVQc7thx731CPmvfwK6lI8dxIOrM2FZHivXtc6ezk8xnF1Lu6JTvmGJh1dHmnBaLgzqpJo5Q7hduYSnl5dt7MArhdWY+v1rsRNrcMdkvFlrzqWhOGaYqXYnrDR/ydpGPjC0HiyPU198WdS4eXg8tSPH3rin5D9ckEFxCMDHz6M4eQY4zUjgLykt6lnLLVMseTxSP/fs9I6bHYzW4chRCLvnxD1qpGMqMZAlWSTS2j6VQlBdhA84XVIZ6i+gMH68IoxJvcXBcnGiEQrtqHGDx2ryG7U1N6VOB2MAaKyn+s3SMTy3bfKdrJMQVNhB7LbE1j7GAb4tCsMIYX97m//DvwRlQOQ4Zyf05f9w3db7kPM9IJaKnErq9S5y0GwzXymikbZCF0hWo2IONORA==;etojKn2pBlqpvfUJd6V2rQ=="

@@ -74,20 +74,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "Robotics, a Game Changer for Businesses in Post COVID-19 India"
-    excerpt: "Robots are moving from controlled environments to uncontrolled environments and from select industries to every industry faster than we could have expected. Tha"
-    publishedDateTime: 2020-10-14T03:46:00Z
-    webUrl: "https://www.cxotoday.com/news-analysis/robotics-a-game-changer-for-businesses-in-post-covid-19-india/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 54
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/10/robotics-deloitte.jpg"
-        width: 601
-        height: 450
-        isCached: true
   - title: "A policy framework for the technology can accelerate development in India’s AI sector"
     excerpt: "Tata Sons Chairman N Chandrasekaran addressed the key aspects of AI in education, healthcare and data governance that India should take in order to become the global AI capital."
     publishedDateTime: 2020-10-12T13:43:00Z

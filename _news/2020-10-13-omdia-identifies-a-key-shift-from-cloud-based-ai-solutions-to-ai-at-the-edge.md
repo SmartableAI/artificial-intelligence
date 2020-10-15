@@ -56,6 +56,17 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "The Path to Ethical AI Starts With Collaboration"
+    excerpt: "To the layman, the word-set of ethical AI is a misnomer. AI oftentimes still conjures visions of a dystopian future in which artificial intelligence runs rampant, dominating humankind. Thanks to modern-era entertainment in films such as 2001:A Space Odyssey (HAL 3000) or The Terminator,"
+    publishedDateTime: 2020-10-15T19:37:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Signal, Noise and the Coming Era of AI Curation"
     excerpt: "A look at how \"AI curation\" is being used to figure out what's useful information in the world of crypto and what's just fluff."
     publishedDateTime: 2020-10-11T19:00:00Z

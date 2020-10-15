@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/using-speaker-diariz
 webUrl: "https://aws.amazon.com/blogs/machine-learning/using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "Banking Industry embraces digital transformation using AI and ML"
-    excerpt: "The application of artificial intelligence and machine learning will offer predictive analysis to banks and fintech companies to deliver fast, secure, and personalised banking experience to its customers."
-    publishedDateTime: 2020-10-15T12:14:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-machine-learning-redefining-banking-industry/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 71
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-14.jpg"
-        width: 1680
-        height: 840
-        isCached: true
 
 secured: "r0SgPIxRhrZjhUBoNa4FA2tejgsyftj5Izs6QYccLmY23RVab7WCW/8UGy9aVkH3dVTemrRDhjg2D+v+tRpJw9STdnH4qEYdu8cI57Kwk/atiIjbbXI45NW7M7n5RZWG4SukxqDOOhxt4/NxJILaN0pUCpFiBbPjEQVWsW0WK2cbKH68Iv/hcjJBp/dgHut4zEyjJmxxxMisY2JQNOVqhItql/FbAcFMBRPMbrdVtZcI1m4Tcf/Iy7BBT+Ffd7LcJEKV3OPoNulqfkfbBN50HGFAOi2S2XjJlqry2pMHLNxGo0g4DDJjzeP/eIQ7BLhbUhXnTxUG2hqvxkvGWStntzsFr0M4R9dj145LtXTWpHQ=;4EO2LjoYNDz6BLUli6OUAA=="
 ---

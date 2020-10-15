@@ -1,29 +1,28 @@
 ---
 category: news
 title: "AI HealthTech Startup Savana Secures Series B Funding Led by Cathay Innovation to Expand in America"
-excerpt: "Savana, the healthtech startup accelerating health science with big data, announced today the successful completion of its $15 million B Series led by Cathay Innovation. Other investors include Seaya Ventures,"
+excerpt: "Savana, the healthtech startup accelerating health science with big data, announced today the successful completion of its $15 million B"
 publishedDateTime: 2020-10-15T13:00:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/ai-healthtech-startup-savana-secures-series-b-funding-led-by-cathay-innovation-to-expand-in-america-9396579"
-webUrl: "https://www.finanzen.net/nachricht/aktien/ai-healthtech-startup-savana-secures-series-b-funding-led-by-cathay-innovation-to-expand-in-america-9396579"
+originalUrl: "https://www.prnewswire.com/news-releases/ai-healthtech-startup-savana-secures-series-b-funding-led-by-cathay-innovation-to-expand-in-america-301152618.html"
+webUrl: "https://www.prnewswire.com/news-releases/ai-healthtech-startup-savana-secures-series-b-funding-led-by-cathay-innovation-to-expand-in-america-301152618.html"
 type: article
-quality: 25
-heat: 25
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
     isCached: true
 
-secured: "bylPtr48mm2yB6tKrr+BzGeGOLhFGGTY2fDH8O6eS5OP8UK9q2W7MtHUz7R4CwBwbF3XQMeuytdDh5oZWzXV+6HWa3xZdI73J+ykZvG1YCSWYfEZNK/M861671B0OR0XNjSQ5A5JjV/hGcnSFb9Myc/xLP60ektPm1Bto2qYpSXaHPFtaj9NNAHPD2l+cgvaVW+V5gasY91s7I7RD/JDaZqCeo4zevdAv5RLCdQHJDlbeYf/Feohlnp/vzkzQpaGIu533x1DTwcVSS5qRgoZE45gfd2ruG1g0wK5bx3gUaQ5a57Q1sQsc0KQlBPTnYwG30L60SAuzdTVVKj0lr3ULo18/ABR7OgdfVlCgB6qxDU=;ndSZF5LZeuZBFtqk/8DWOg=="
+secured: "Mfsle/VaiIyVZ0BwbPDEtyYXp1/622g2Be7bUgngtopCrVy3c7a6pYEH+H/P5eashqajSp5Cz6q1HcqPtPkSrWa4xxfJt9KlM7Tn2Hjv4tHbxaVrFYYOX46424Jq0jlEaOFNEpuRRt+cH3Px0VHsk/OZlHPiKy55B1FenbA9kAlkt41fXW2yFpBMhWF/7JE75wYuc3BOyLNw1OREEPoIszCAsDm+YfxbennGpY6Iq7fpSephhQVF4qRz3ltYPOpGxuXNV3PllzkhFQhhZKlWENGBEh85uzAB1cXBIu7heZtSNZMuCVeRwCaIeh+Ew/SV/FhT2R3BDk9z+3BOghU223krCS1uYqo7gbEXkPR8fK0=;PAX93J/avDxcYIEIu7Jy4Q=="
 ---
 

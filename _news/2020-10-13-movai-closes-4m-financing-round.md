@@ -26,8 +26,8 @@ images:
 related:
   - title: "MOV.AI raises $4 million led by SOMV together with NFX and Viola Ventures"
     excerpt: "PRNewswire/ -- MOV.AI ( a provider of an enterprise-grade ROS development & run time environment for cobots (collaborative robots), announces"
-    publishedDateTime: 2020-10-13T07:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/movai-raises-4-million-led-by-somv-together-with-nfx-and-viola-ventures-301150427.html"
+    publishedDateTime: 2020-10-13T12:00:00Z
+    webUrl: "https://www.prnewswire.com/de/pressemitteilungen/mov-ai-raises-4-million-led-by-somv-together-with-nfx-and-viola-ventures-837800051.html"
     type: article
     provider:
       name: PR Newswire

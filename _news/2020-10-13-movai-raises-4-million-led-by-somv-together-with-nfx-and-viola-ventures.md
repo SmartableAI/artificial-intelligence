@@ -2,9 +2,9 @@
 category: news
 title: "MOV.AI raises $4 million led by SOMV together with NFX and Viola Ventures"
 excerpt: "PRNewswire/ -- MOV.AI ( a provider of an enterprise-grade ROS development & run time environment for cobots (collaborative robots), announces"
-publishedDateTime: 2020-10-13T07:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/movai-raises-4-million-led-by-somv-together-with-nfx-and-viola-ventures-301150427.html"
-webUrl: "https://www.prnewswire.com/news-releases/movai-raises-4-million-led-by-somv-together-with-nfx-and-viola-ventures-301150427.html"
+publishedDateTime: 2020-10-13T12:00:00Z
+originalUrl: "https://www.prnewswire.com/de/pressemitteilungen/mov-ai-raises-4-million-led-by-somv-together-with-nfx-and-viola-ventures-837800051.html"
+webUrl: "https://www.prnewswire.com/de/pressemitteilungen/mov-ai-raises-4-million-led-by-somv-together-with-nfx-and-viola-ventures-837800051.html"
 type: article
 quality: 38
 heat: 38
@@ -40,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "n6ifcb++nWudsxfC1GuWUo5LYKgCVEocTb6zAGCnPlRQkINBO8vEwELKSxPYfFilMxe/a3jTL7HOJjzrUreKqBrhaZ996tWVkSUgXKT10FIX6bZICiQmdA29iquNFAmqiawdDs5NiHuZmU0jRZkpufnfnY+r8xBrBJPM1FadHAOmGMoEy7YiYLEdEyIxQ80Um5Ko8R/jDlNFRdBA/7NUXmOd+4rm1jdibfXGg3BDsMrJ751t8iNIZA77LzWzzm6B0u2fcbAHQ2I49Ve5P1it7XTUJg93ATV7Hsl3yWIhUCl8wCKNRHUufuaMFrbZI3wEjJshw7ToLJN3OjmJ9qp9uTp3lX8OVsbhji8TSbBCqqc=;SgmJ+GKOc7gJXqWVPkIEvA=="
+secured: "nq7M4sXv9eUfvwQpPa6sO/b2YgMhIArFmUIrw5UKHGIv+1MtYMzbF9JN4cCLcCMd12TblYZlf7f7OHagw/cL6j4yRCUD1HUct05FNGErwM+G3ACuFTjpMi5hG3p7EPG8GuA8763GqtHk92NSGLAOabkzRja6HKQ+l0Iw+8v1+6QLMao0iJ6LrGs5k09c51npefXAQ55dJDNB5O2ZZ4pjRxD54+nQ3wSEiBcrP6mg02sWYhg2DIosQyv81v5rACLccMvb0dGyczkSPK2ERNCpGP2ORUrFXyspTIwwIhcq5IsfbJ17ELW+IsjsWSMF4/a6/g6hhoKPs0YOoxzfbuesLECrPHyGr8Ax9YpeSIza/Wo=;/9t8mAuk1i5wjsk2tYRr1g=="
 ---
 

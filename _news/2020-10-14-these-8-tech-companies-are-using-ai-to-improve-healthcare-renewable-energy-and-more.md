@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/sponsor/idb-taiwan/these-8-tech-companies-a
 webUrl: "https://techcrunch.com/sponsor/idb-taiwan/these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more/"
 type: article
 quality: 79
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,47 +30,51 @@ images:
     isCached: true
 
 related:
-  - title: "How Is Artificial Intelligence Used In B2B Companies: Here Are Powerful Examples"
-    excerpt: "There’s often a misconception that artificial intelligence (AI) is only applicable to businesses in the B2C space. It's thought that since B2C companies have more customers, they have more data to leverage to make AI impactful."
-    publishedDateTime: 2020-10-11T13:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-used-b2b-companies-here-powerful-marr"
+  - title: "Google details how it’s using AI and machine learning to improve search"
+    excerpt: "During a livestreamed event today, Google announced new ways it's applying AI and machine learning to improve the Google Search experience."
+    publishedDateTime: 2020-10-15T19:40:00Z
+    webUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/"
+    ampWebUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 34
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGQWfYANMb3rw/article-cover_image-shrink_720_1280/0?e=1608163200&v=beta&t=r0-X7ooUKQ0yxEnWb7s7etVufEzuJ1JRIhISgQ2E98s"
-        width: 1280
-        height: 692
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by Grove Ventures. Navina has already been integrated into several large,"
-    publishedDateTime: 2020-10-13T10:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-israel-north-america-medical-technology-middle-east-fc6a7edeeacac53ce91bbf12ebcbdbe2"
+  - title: "Banking Industry embraces digital transformation using AI and ML"
+    excerpt: "The application of artificial intelligence and machine learning will offer predictive analysis to banks and fintech companies to deliver fast, secure, and personalised banking experience to its customers."
+    publishedDateTime: 2020-10-15T12:14:00Z
+    webUrl: "https://www.analyticsinsight.net/ai-machine-learning-redefining-banking-industry/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 71
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-14.jpg"
+        width: 1680
+        height: 840
         isCached: true
-  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
-    publishedDateTime: 2020-10-13T17:01:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
+  - title: "Making new materials using AI"
+    excerpt: "There is an old saying, \"If rubber is the material that opened the way to the ground, aluminum is the one that opened the way to the sky.\" New materials were always discovered at each turning point that changed human history."
+    publishedDateTime: 2020-10-15T14:30:00Z
+    webUrl: "https://phys.org/news/2020-10-materials-ai.html"
+    ampWebUrl: "https://phys.org/news/2020-10-materials-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-materials-ai.amp"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/makingnewmat.jpg"
+        width: 650
+        height: 463
         isCached: true
 
 secured: "54QwL+WWT4L/qn/M3Y2pFJaeD64SYkLyCvDW8G5H7G0ZmRdx1KJBjR+pUfROJOuWt0ubT9gODe78F1WSSH/zlWBsRFW6noQs6sQWhRP4cIKJWG/ejwLqtFCmAD0qeZCGBoRgXgXBMR1TAlHUtAnuM219xVZuDj8brXra14bUkpDftYW2VnaAF+cpfNLrfHBhIvAGtPdYBW/6u0bAIRDi0C5AEgPLG9Y8EzZWSyQdVpfh9MD2ujXQpdELmJq18cUCwf/ckRVginNEjPXUuSdpgapcI+sI3reT4f7wIbn44C2VwgP0Ty03l/IiDJkV1ABnczwujP0hdkYIj3SzvsLdVvkNCSi5pQgx4nOTp+51cfpMoDZTgT/fRihoSh5DVdD1zZfFdbMFCR4Qm8TEcIPCxCQvCqaT16WK40Ow92oqh3jwDeKwOeHZ/kZR/t85nNCoyUbDM97pjZ0JiR+j173sqIVQ//XwPFCnh+g2CZFj4OWAm1yyYMBxPtmoCYexd4RT6VWJaFnrCBL5OVHHIVAyyw==;A6F1dt7/4KFXSUTPk+A50w=="

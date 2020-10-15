@@ -25,91 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Quick AI adoption essential for future of work in India, says Intel"
-    excerpt: "Intel said that Artificial Intelligence is essential to the future of work in a post-pandemic world, with over 90% respondents in a survey considering AI to be essential to their businesses in India"
-    publishedDateTime: 2020-10-15T09:15:00Z
-    webUrl: "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
+  - title: "New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes"
+    excerpt: "Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients,"
+    publishedDateTime: 2020-10-15T17:23:00Z
+    webUrl: "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/"
+    ampWebUrl: "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
     images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/19/full/1560959403-0446.jpg&width=1200"
-        width: 1200
-        height: 900
+      - url: "https://techcrunch.com/wp-content/uploads/2020/10/schematic.png?w=1024"
+        width: 1024
+        height: 491
         isCached: true
-  - title: "Artificial Intelligence Assists With Better Battlefield Intel"
-    excerpt: "For future battlefield operations, speed is the name of the game. The side that can make decisions faster has the advantage. A new, AI-enabled effort by the U.S. Army can give operators the ability to detect,"
-    publishedDateTime: 2020-10-12T21:51:00Z
-    webUrl: "https://breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/"
-    ampWebUrl: "https://breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/amp/"
-    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/amp/"
+  - title: "Using Machine Learning to Calculate Unreported COVID-19 Cases"
+    excerpt: "Researchers at the Chan Zuckerberg Biohub are using machine learning to identify undetected cases of COVID-19."
+    publishedDateTime: 2020-10-13T15:28:00Z
+    webUrl: "https://healthitanalytics.com/news/using-machine-learning-to-calculate-unreported-covid-19-cases"
     type: article
     provider:
-      name: Breaking Defense
-      domain: breakingdefense.com
-    quality: 57
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/10/AH-64-Apache-helicopter-gunnery-training_640x427.jpg"
-        width: 640
-        height: 427
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-181492494.jpg"
+        width: 700
+        height: 364
         isCached: true
-  - title: "US body on AI calls for creating India-US strategic tech alliance"
-    excerpt: "The newly-created National Security Commission on Artificial Intelligence in its report on Tuesday said the Department of State and the Department of Defence should negotiate formal AI cooperation agreements with India, Australia, Japan, New Zealand ..."
-    publishedDateTime: 2020-10-14T09:56:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643"
-    ampWebUrl: "https://www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643"
+  - title: "Results are coming in on the AI systems built at the height of New York City’s spring Covid-19 outbreak"
+    excerpt: "New results are coming in on artificial intelligence models built at the height of New York's Covid-19 outbreak in the spring."
+    publishedDateTime: 2020-10-14T08:43:00Z
+    webUrl: "https://www.statnews.com/2020/10/14/covid19-artificial-intelligence-hospitals-nyc/"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 57
+      name: STAT
+      domain: statnews.com
+    quality: 21
     images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_281592419.jpg"
-        width: 660
-        height: 440
+      - url: "https://www.statnews.com/wp-content/uploads/2020/10/GettyImages-1217636837-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Demand for AI talent pool continues to surge in India."
-    excerpt: "AI has become a most sought-after career opportunity for tech enthusiasts. Getting an education in AI requires a degree in computer science and equivalent streams, along with technical skills such as programming languages,"
-    publishedDateTime: 2020-10-12T05:53:00Z
-    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-jobs-india-october-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-10.jpg"
-        width: 1440
-        height: 720
-        isCached: true
-  - title: "A policy framework for the technology can accelerate development in India’s AI sector"
-    excerpt: "Tata Sons Chairman N Chandrasekaran addressed the key aspects of AI in education, healthcare and data governance that India should take in order to become the global AI capital."
-    publishedDateTime: 2020-10-12T13:43:00Z
-    webUrl: "https://www.analyticsinsight.net/india-can-ai-capital-needed-improvements-existing-programs/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 30
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-13.jpg"
-        width: 1680
-        height: 840
-        isCached: true
-  - title: "Intel, CBSE deliver virtual lesson on AI to 13K students in 24 hrs"
-    excerpt: "New Delhi, Oct 14 (IANS) Chip-making giant Intel and the Central Board of Secondary Education (CBSE) on Wednesday achieved a new Guinness World Records title for most users taking an online artificial intelligence (AI) lesson in 24 hours."
-    publishedDateTime: 2020-10-15T01:08:00Z
-    webUrl: "https://www.sify.com/news/intel-cbse-deliver-virtual-lesson-on-ai-to-13k-students-in-24-hrs-news-education-ukoqlDgefedec.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
 
 secured: "TB+R1AeFIkujNhgjHfYnZUY04KxIo9ufnBfnCCljsuExOqMkJE+R82alHZ2i01macY/3STHbHHvOTEJpmZYT3JORcJvEOquspqqHBCagHRCg0NR1DsEGFEkHrUPRrUjQQ+EhpIzptCoLQ4yFzOQ3zEV/v95skKdCg9KDODXyCklAA3SwLw5S9/+jo/yYLozOQB3XeCssZUzq7qEgvlW/vHYdW5iN1+Fh04r6uzs2SY5Fe0hzBfD/PAX3X7sdB8ufPzvcBOKg62SD5umLd1Q3fT5DqkfS9KoW5SRaBJEvSqEKblb+q3bQmROWKYVmOD1qqnZPXqrLJr/jpLviKc/cKOHXGXqj69Be0j/ooeriM+M=;87U+PqKCvHe0YTUjLBI8gQ=="
 ---
