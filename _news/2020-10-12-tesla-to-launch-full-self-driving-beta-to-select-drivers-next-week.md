@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/tesla-fsd-beta.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-beta.amp"
 type: article
 quality: 104
-heat: 314
+heat: 324
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/29/b0b2b069-530f-4f03-ab3c-f41207823389/thumbnail/1200x675/7dab00fbe159192ec9acc7344002b423/teslas-big-new-feature-autopilot-now-hal-5ea855af1c719e4526590320-1-apr-29-2020-13-36-03-poster.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Self-driving startup Cruise is launching fully driverless testing in San Francisco this year"
+    excerpt: "CEO Dan Ammann has heralded the end of car ownership and advocated for self-driving ride-hailing as a solution to global warming."
+    publishedDateTime: 2020-10-15T21:45:00Z
+    webUrl: "https://www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/5e27d1fbb6d52d4c48798a32?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Tesla to Deploy Limited Full Self-Driving Beta Next Week"
     excerpt: "Tesla TSLA recently announced that it will launch limited models of full self-driving (FSD) vehicles on Oct 20. The fleet of fully-autonomous vehicles to be rolled out next week will be first available for a small number of careful and expert drivers for testing."

@@ -66,7 +66,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 84
+    quality: 86
   - title: "Signal, Noise and the Coming Era of AI Curation"
     excerpt: "A look at how \"AI curation\" is being used to figure out what's useful information in the world of crypto and what's just fluff."
     publishedDateTime: 2020-10-11T19:00:00Z

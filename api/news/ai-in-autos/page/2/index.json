@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-01-baidu-fundraising-puts-3bn-value-on-smart-device-business.md",
+      "title": "Baidu fundraising puts $3bn value on smart device business",
+      "excerpt": "HONG KONG -- Chinese web search leader Baidu has brought in outside investors for its voice assistant and smart device business, setting the stage for a potential spinoff while valuing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/China-tech/Baidu-fundraising-puts-3bn-value-on-smart-device-business",
+      "originalUrl": "https://asia.nikkei.com/Business/China-tech/Baidu-fundraising-puts-3bn-value-on-smart-device-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F8%252F9%252F2%252F29672980-3-eng-GB%252FCropped-1601453378RTX7JFB8.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-worldwide-self-driving-taxi-industry-to-2024-key-leading-countries.md",
       "title": "Worldwide Self-driving Taxi Industry to 2024 - Key Leading Countries",
       "excerpt": "PRNewswire/ -- The 'Global Self-driving Taxi Market 2020-2024' report has been added to ResearchAndMarkets.com's",
@@ -1328,58 +1371,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-german-space-agencys-modular-self-driving-truck-is-just-a-life-size-childrens-toy-from-the-70s.md",
-      "title": "German space agency’s modular self-driving truck is just a life-size children’s toy from the ’70s",
-      "excerpt": "Swiss Army Knives are brilliant. Why have one knife when you can have six in one handy, pocket-sized package? They are the epitome of multi-purpose, functional fashion. Sadly, for the motoring ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/09/21/germanys-space-agency-self-driving-truck-1970s-childrens-toy-big-loader/",
-      "originalUrl": "https://thenextweb.com/shift/2020/09/21/germanys-space-agency-self-driving-truck-1970s-childrens-toy-big-loader/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F09%2Fu-shift-car-ev-truck-autonomous-self-driving-car-future-dlr-germany.jpg&signature=18e893eaf05ec88864fef108044067ec",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

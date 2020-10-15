@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-09-02-amazon-.md",
-      "title": "Amazon запретил полиции использовать технологию распознавания лиц",
-      "excerpt": "Технологический гигант Amazon запретил полиции использовать программы, которые помогают распознать лицо преступника и быстро найти его \"профиль\" в базе данных, как минимум до конца 2020 года. Это прои",
-      "sourceUrl": null,
-      "webUrl": "https://www.pravda.ru/science/1505941-Amazon/",
-      "originalUrl": "https://www.pravda.ru/science/1505941-Amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.pravda.ru/image/preview/article/9/4/1/1505941_five.jpeg",
-          "width": 585,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pravda.ru/amp/science/1505941-Amazon/",
-      "cdnAmpWebUrl": "https://www-pravda-ru.cdn.ampproject.org/c/s/www.pravda.ru/amp/science/1505941-Amazon/",
-      "publishedDateTime": "2020-09-02T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pravda",
-        "domain": "pravda.ru",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-02-aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors.md",
       "title": "Aussie researchers leverage compute power to analyse genomic data and match donors",
       "excerpt": "CSIRO has touted advances in processing data to pinpoint the location of specific disease-causing genes in the human genome, while PathWest is matching bone marrow donors with candidates.",

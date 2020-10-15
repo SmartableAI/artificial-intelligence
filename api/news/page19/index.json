@@ -2,6 +2,108 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-09-29-new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.md",
+      "title": "New Army ‘Accelerated Multi-Node Attack’ enabled by AI at Project Convergence 2020",
+      "excerpt": "Gray Eagle drones were armed with HELLFIRE missiles and GBU-69 glide bombs, 155mm artillery weapons fired rounds 60km (37.3 miles) to destroy SA-22 enemy air defenses and armored ground combat vehicles directly hit multiple T-72 tanks during the Army’s Project Convergence 2020 at Yuma Proving Grounds,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020",
+      "originalUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/ArmyERCA.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.amp",
+      "publishedDateTime": "2020-09-28T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-how-this-digital-avatar-is-elevating-ai-technology.md",
+      "title": "How This Digital Avatar Is Elevating AI Technology",
+      "excerpt": "Lee has created a seamless transition from the physical to digital world with upscale imagery and a unique vision with the digital avatar Aliza Rexx. Aliza is currently one of the fastest growing digital avatars with a loyal following on social media ever since she made her debut in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/",
+      "originalUrl": "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721ba48798ebc8ca144243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D161%26cropY2%3D611",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/",
+      "publishedDateTime": "2020-09-28T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias.md",
       "title": "Study indicates neither algorithmic differences nor diverse data sets solve facial recognition bias",
       "excerpt": "Facial recognition models fail to recognize Black, Middle Eastern, and Latino people more often than those with lighter skin. That’s according to a study by researchers at Witchita State ...",
@@ -1057,101 +1159,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020.md",
-      "title": "Hear from Postmates, Refraction AI and FedEx about autonomous delivery at TC Sessions: Mobility 2020",
-      "excerpt": "Small startups and logistics giants alike are working on how to use automated vehicle technology and robotics for delivery. Some have even accelerated their efforts, with mixed results, as the COVID-19 pandemic drove up demand for delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/",
-      "originalUrl": "https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/kashani-yeung-Johnson-Roberson.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/amp/",
-      "publishedDateTime": "2020-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-how-analytics-and-ai-driven-processes-will-revolutionize-the-industrial-sector.md",
-      "title": "How Analytics and AI-driven Processes Will Revolutionize the Industrial Sector",
-      "excerpt": "Artificial Intelligence and analytics fall into four categories reflecting the type of insight delivered; these categories are predictive, performance, prescriptive and prognostic insights–the Four P’s of industrial AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/september-2020/analytics-ai-processes-revolutionize-industrial?listname=Automation & Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/september-2020/analytics-ai-processes-revolutionize-industrial?listname=Automation & Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/4e040a94-7b96-4132-94d9-6c07174cfd84/Jim-Chappell-sept-2020-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

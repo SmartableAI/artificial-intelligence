@@ -52,6 +52,17 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 61
+  - title: "Get The Most From Your Artificial Intelligence Investments by Operationalizing Analytics"
+    excerpt: "Organizations realize they need analytics to run, grow, and differentiate their products and services. More than just driving strategic"
+    publishedDateTime: 2020-10-15T20:57:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/get-the-most-from-your-artificial-intelligence-investments-by-operationalizing-analytics/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/get-the-most-from-your-artificial-intelligence-investments-by-operationalizing-analytics/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/get-the-most-from-your-artificial-intelligence-investments-by-operationalizing-analytics/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 58
   - title: "Google Analytics Brings Machine Learning to Customer Insights"
     excerpt: "On Wednesday, the tech giant unveiled a new update to Google Analytics that uses machine learning to uncover important insights for retailers. The goal, it said in a blog post published Wednesday ..."
     publishedDateTime: 2020-10-14T21:26:00Z

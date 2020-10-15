@@ -101,6 +101,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving startup Cruise is launching fully driverless testing in San Francisco this year"
+    excerpt: "CEO Dan Ammann has heralded the end of car ownership and advocated for self-driving ride-hailing as a solution to global warming."
+    publishedDateTime: 2020-10-15T21:45:00Z
+    webUrl: "https://www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/5e27d1fbb6d52d4c48798a32?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla’s Full Self-Driving beta lands for select drivers next week"
     excerpt: "Tesla boss Elon Musk has given a date for what will initially be a limited rollout of a beta version of its Full Self-Driving (FSD) software: Tuesday, October 20. The flamboyant CEO offered the tidbit on Twitter in a response to a tweet from CleanTechnica."
     publishedDateTime: 2020-10-13T01:33:00Z

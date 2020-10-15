@@ -27,19 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "How CogAbility and the University of Florida are using Watson to build the future of education"
-    excerpt: "As they do every fall, 55,000 students descended on the University of Florida this year. But with mask and physical distancing guidelines, alterations to policies on campus gatherings, and new behavioral expectations, operating and attending a university during a pandemic is anything but business as"
-    publishedDateTime: 2020-10-12T19:28:21Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/"
+  - title: "Processing auto insurance claims at scale using Amazon Rekognition Custom Labels and Amazon SageMaker Ground Truth"
+    excerpt: "Computer vision uses machine learning (ML) to build applications that process images or videos. With Amazon Rekognition, you can use pre-trained computer vision models to identify objects, people, text, activities, or inappropriate content. Our customers have use cases that span every industry, including"
+    publishedDateTime: 2020-10-15T20:01:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
+      name: AWS
+      domain: aws.amazon.com
+    quality: 114
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Architecture.jpg"
+        width: 900
+        height: 365
+        isCached: true
+  - title: "Amazon Rekognition adds support for six new content moderation categories"
+    excerpt: "Amazon Rekognition content moderation is a deep learning-based service that can detect inappropriate, unwanted, or offensive images and videos, making it easier to find and remove such content at scale. Amazon Rekognition provides a detailed taxonomy of moderation categories, such as Explicit Nudity,"
+    publishedDateTime: 2020-10-12T19:03:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
     quality: 105
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/Watson_UF_ChatBot_Blog_Leadspace_Final_1-2-990x498.jpg"
-        width: 990
-        height: 498
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "Using speaker diarization for streaming transcription with Amazon Transcribe and Amazon Transcribe Medical"
+    excerpt: "Conversational audio data that requires transcription, such as phone calls, doctor visits, and online meetings, often has multiple speakers. In these use cases, it’s important to accurately label the speaker and associate them to the audio content delivered. For example, you can distinguish between a"
+    publishedDateTime: 2020-10-13T22:37:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/Can-you-tell-me-about-the-Amazon-Transcribe-speaker-diarization-for-streaming-audio_-4.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Streamlining data labeling for YOLO object detection in Amazon SageMaker Ground Truth"
+    excerpt: "Object detection is a common task in computer vision (CV), and the YOLOv3 model is state-of-the-art in terms of accuracy and speed. In transfer learning, you obtain a model trained on a large but generic dataset and retrain the model on your custom dataset. One of the most time-consuming parts in transfer"
+    publishedDateTime: 2020-10-14T19:17:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/streamlining-data-labeling-for-yolo-object-detection-in-amazon-sagemaker-ground-truth/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/09/15-Pens-Pencils.jpg"
+        width: 400
+        height: 302
         isCached: true
 
 secured: "dh8e3RffWEaeIlJ5zIxBk31JPkk6Bn/p5TipWjlrBxA8+Rmm1RLtKlkbcWpXfToZzRAQ8AWlO2uyScMJYkASZmDrXbWp5g8043dE+AUtEmpRvab5U4YWvpfmH+t92DWKrabAeHOoXwwJthFxz8vCKfASvli3cMxhgF7mrTT1QiNGpwisSjl5+hM5oed4dNh4RDZ+LyGcNtHOrWlI6NWgiLgjf5pUH67g8scvkrsHjf/oUzzVZSFP8HiGUfoh9Mr4lyNvT24ZLdJbbYvXa8chffOkgmMqWD8IZf6mSXTwEr/3lxnEDYRrY3ej2SzGiHm4HT3KXqW9X0OFtmVFrTbtGXue2XLWJjPpdhJuwO9mkJXPTqNkB7unF/c9U8PxkpUfAnPfKVEU486uxEEJVyt5PSyESutDjlKZqxBHsFYHTUnYh1Hf8k/ZSce8Jk7zxdo63wAuBMAZI3+ybjuAnW8XV9e3EOMO3597uujLQvTBiGvyIk7fGfHB1OoMXqKKCA8zXPzel1N7OL/LBpE3JzH8WQ==;eRi1vh+xQyKGLWSYOl5TNg=="

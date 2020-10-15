@@ -2,6 +2,111 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-09-30-hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices.md",
+      "title": "Hailo challenges Intel and Google with its new AI modules for edge devices",
+      "excerpt": "Hailo, a Tel Aviv-based startup best known for its high-performance AI chips, today announced the launch of its M.2 and Mini PCIe high-AI acceleration modules. Based around its Hailo-8 chip, these new models are meant to be used in edge devices for anything from smart city and smart home solutions",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/",
+      "originalUrl": "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/amp/",
+      "publishedDateTime": "2020-09-30T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai.md",
+      "title": "Intel, Heidelberg University team up to bring Radeon GPU support to AI",
+      "excerpt": "We've been following Intel's oneAPI—an artificial intelligence development platform designed to abstract hardware away from the task of developing AI code—with great interest since its launch last November.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2020/09/intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai/",
+      "originalUrl": "https://arstechnica.com/gadgets/2020/09/intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/pexels-alex-knight-2599244-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-automatic-voice-and-speech-recognition-software-market-poised-for-significant-growth.md",
       "title": "Automatic Voice and Speech Recognition Software Market Poised for Significant Growth",
       "excerpt": "Global Automatic Voice and Speech Recognition Software Market Premium Insight Industry Trends FPNV Positioning Matrix Competitive News Feed Analysis Company Usability Profiles Market Sizing Forecasts to 2024 Covid 19 Outbreak Impact research report added by Report Ocean is an in",
@@ -1085,109 +1190,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-datasaur-snags-39m-investment-to-build-intelligent-machine-learning-labeling-platform.md",
-      "title": "Datasaur snags $3.9M investment to build intelligent machine learning labeling platform",
-      "excerpt": "As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/",
-      "originalUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671392904.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/amp/",
-      "publishedDateTime": "2020-09-29T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home.md",
-      "title": "Roland Garros 2020 Puts AI At The Heart Of The Digital Experience As Tennis Fans Stay At Home",
-      "excerpt": "Only 1,000 fans will be able to attend this year's French Open at Roland Garros. AI hopes to bring the tournament to people's homes like never before",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/",
-      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f734ff73a7334cd624a47b6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/amp/",
-      "publishedDateTime": "2020-09-29T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/"
 type: article
 quality: 105
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -30,63 +30,64 @@ images:
     isCached: true
 
 related:
-  - title: "From AI to facial recognition: How China is setting the rules in new tech"
-    excerpt: "HONG KONG/BEIJING • Mr Zhao Houlin is head of the United Nations' telecommunications agency, an independent international arbiter that sets some of the rules shaping the modern technology industry. But that does not stop him from letting his patriotism burst into the open."
-    publishedDateTime: 2020-10-14T22:48:00Z
-    webUrl: "https://www.straitstimes.com/opinion/from-ai-to-facial-recognition-how-china-is-setting-the-rules-in-new-tech-0"
+  - title: "Processing auto insurance claims at scale using Amazon Rekognition Custom Labels and Amazon SageMaker Ground Truth"
+    excerpt: "Computer vision uses machine learning (ML) to build applications that process images or videos. With Amazon Rekognition, you can use pre-trained computer vision models to identify objects, people, text, activities, or inappropriate content. Our customers have use cases that span every industry, including"
+    publishedDateTime: 2020-10-15T20:01:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 53
+      name: AWS
+      domain: aws.amazon.com
+    quality: 114
     images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/10/15/st_20201015_ftsinotechhuiw_6020007.jpg?itok=j1ad5Bac"
-        width: 763
-        height: 509
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Architecture.jpg"
+        width: 900
+        height: 365
         isCached: true
-  - title: "CUJO AI Launches a Patented Device Identification Solution Solving Major Issues Caused by MAC Address Randomization"
-    excerpt: "CUJO AI, a pioneer and global leader in the development and application of artificial intelligence to improve the security, control, and privacy of connected devices, today announced its newly patented Device Identification feature,"
-    publishedDateTime: 2020-10-13T12:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
+  - title: "Using speaker diarization for streaming transcription with Amazon Transcribe and Amazon Transcribe Medical"
+    excerpt: "Conversational audio data that requires transcription, such as phone calls, doctor visits, and online meetings, often has multiple speakers. In these use cases, it’s important to accurately label the speaker and associate them to the audio content delivered. For example, you can distinguish between a"
+    publishedDateTime: 2020-10-13T22:37:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "SparkCognition Advances the Science of Artificial Intelligence with 85 Patents"
-    excerpt: "Since SparkCognition’s inception, we have placed a major emphasis on advancing the science of AI through research – making advancement through innovation a core company value,” said Amir Husain, founder and CEO of SparkCognition,"
-    publishedDateTime: 2020-10-12T13:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-united-states-ffad0ac1e935de99d32281f36be06ba4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/Can-you-tell-me-about-the-Amazon-Transcribe-speaker-diarization-for-streaming-audio_-4.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "World Image Recognition in CPG Market Analysis 2020-2025, by Component, Application, Deployment Mode, End User and Region"
-    excerpt: "The \"Global Image Recognition in CPG Market by Component (Hardware, Solutions, Services), Application (Inventory Analysis, Product & Shelf Monitoring Analysis, Gauging Emotions), Deployment Mode, End User (Online,"
-    publishedDateTime: 2020-10-15T09:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/world-image-recognition-in-cpg-market-analysis-2020-2025-by-component-application-deployment-mode-end-user-and-region-1029682697"
+  - title: "Streamlining data labeling for YOLO object detection in Amazon SageMaker Ground Truth"
+    excerpt: "Object detection is a common task in computer vision (CV), and the YOLOv3 model is state-of-the-art in terms of accuracy and speed. In transfer learning, you obtain a model trained on a large but generic dataset and retrain the model on your custom dataset. One of the most time-consuming parts in transfer"
+    publishedDateTime: 2020-10-14T19:17:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/streamlining-data-labeling-for-yolo-object-detection-in-amazon-sagemaker-ground-truth/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 9
-  - title: "Local VFW receives national recognition"
-    excerpt: "The Teacher of the Year and Law Enforcement of the Year offer the community a chance to recognize those who are making a difference in their organization, and the Patriots Pen and Voice of Democracy writing competitions offer students a chance to win ..."
-    publishedDateTime: 2020-10-11T12:02:00Z
-    webUrl: "https://www.stardem.com/news/local_news/local-vfw-receives-national-recognition/article_fe650966-551f-59b4-8c0d-6b98b3db663b.html"
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/09/15-Pens-Pencils.jpg"
+        width: 400
+        height: 302
+        isCached: true
+  - title: "IRS, Army using automation to cut hours out of the acquisition process"
+    excerpt: "The use of robotics process automation, natural language processing and other emerging technologies are gaining momentum in the federal acquisition community to move contracting officers away"
+    publishedDateTime: 2020-10-12T21:09:00Z
+    webUrl: "https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/"
+    ampWebUrl: "https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/amp/"
+    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/amp/"
     type: article
     provider:
-      name: Star Democrat
-      domain: stardem.com
-    quality: 4
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 44
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/10/mitchell-winans-2-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "dtBpoLEKEndNrveC4UIH9ldjfkBZSb2wK1z6wBQV7UbZPXaHja0xf+xhD0nvJ+UEEPw73VyDOLdCPdwmOotlkFBv6i0LZDqmCdnv9UxhmTgNzo0LXn3tRmwNe9IMBHuc1ljYfXD0mvYIzstrWXCF8IK3+RPhs8nr6ILIrbRUcVq8i4Mjs3+X+ZHb4mqUUpG5eexngs/mubMEZgLkbRhap2k+NCgZBppSp5q4JIv50Gs0TE9az/omY3wtpL3Ovh79mn6BclZrkq/NzLFPNzyy+BmfnfdMCC52Mb0SY+/qrI56weI8VfYJY0z7HmZtnKfswdaVJ+kKGpLEF4qmh+x0jyhU9WxncFUifRg3SpZHVoY=;oRsDu2a+zhB4KDocirC8oA=="
 ---

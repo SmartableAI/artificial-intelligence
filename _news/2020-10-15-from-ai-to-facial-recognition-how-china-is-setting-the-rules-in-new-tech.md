@@ -25,63 +25,144 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Rekognition adds support for six new content moderation categories"
-    excerpt: "Amazon Rekognition content moderation is a deep learning-based service that can detect inappropriate, unwanted, or offensive images and videos, making it easier to find and remove such content at scale. Amazon Rekognition provides a detailed taxonomy of moderation categories, such as Explicit Nudity,"
-    publishedDateTime: 2020-10-12T19:03:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/"
+  - title: "Best facial recognition security cameras to buy this year"
+    excerpt: "Select home security cameras have facial recognition, an advanced option that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face,"
+    publishedDateTime: 2020-10-11T08:42:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-this-year/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 105
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
+      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+        width: 1200
         height: 630
         isCached: true
-  - title: "CUJO AI Launches a Patented Device Identification Solution Solving Major Issues Caused by MAC Address Randomization"
-    excerpt: "CUJO AI, a pioneer and global leader in the development and application of artificial intelligence to improve the security, control, and privacy of connected devices, today announced its newly patented Device Identification feature,"
-    publishedDateTime: 2020-10-13T12:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
+  - title: "Best facial recognition security cameras to buy in 2020"
+    excerpt: "Select home security cameras have facial recognition, an advanced option that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ..."
+    publishedDateTime: 2020-10-15T08:08:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "SparkCognition Advances the Science of Artificial Intelligence with 85 Patents"
-    excerpt: "Since SparkCognition’s inception, we have placed a major emphasis on advancing the science of AI through research – making advancement through innovation a core company value,” said Amir Husain, founder and CEO of SparkCognition,"
-    publishedDateTime: 2020-10-12T13:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-united-states-ffad0ac1e935de99d32281f36be06ba4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "World Image Recognition in CPG Market Analysis 2020-2025, by Component, Application, Deployment Mode, End User and Region"
-    excerpt: "The \"Global Image Recognition in CPG Market by Component (Hardware, Solutions, Services), Application (Inventory Analysis, Product & Shelf Monitoring Analysis, Gauging Emotions), Deployment Mode, End User (Online,"
-    publishedDateTime: 2020-10-15T09:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/world-image-recognition-in-cpg-market-analysis-2020-2025-by-component-application-deployment-mode-end-user-and-region-1029682697"
+  - title: "Government 's facial recognition deal throws access to it wide open"
+    excerpt: "The government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
+    publishedDateTime: 2020-10-11T19:37:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/government-s-facial-recognition-deal-throws-access-wide-open"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMTAlMkYxMiUyRmdvdmVybm1lbnQtc2lnbnMtZmFjaWFsLXJlY29nbml0aW9uLWRlYWwtd2lkZS1hY2Nlc3M="
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMTAlMkYxMiUyRmdvdmVybm1lbnQtc2lnbnMtZmFjaWFsLXJlY29nbml0aW9uLWRlYWwtd2lkZS1hY2Nlc3M="
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 9
-  - title: "Local VFW receives national recognition"
-    excerpt: "The Teacher of the Year and Law Enforcement of the Year offer the community a chance to recognize those who are making a difference in their organization, and the Patriots Pen and Voice of Democracy writing competitions offer students a chance to win ..."
-    publishedDateTime: 2020-10-11T12:02:00Z
-    webUrl: "https://www.stardem.com/news/local_news/local-vfw-receives-national-recognition/article_fe650966-551f-59b4-8c0d-6b98b3db663b.html"
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 59
+    images:
+      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Maine voters to decide on strengthening facial recognition ban"
+    excerpt: "This year, residents of Portland, Maine, will vote on a proposal to add enforcements to the ordinance that bans the"
+    publishedDateTime: 2020-10-12T23:21:00Z
+    webUrl: "https://whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/"
+    ampWebUrl: "https://whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/amp/"
     type: article
     provider:
-      name: Star Democrat
-      domain: stardem.com
-    quality: 4
+      name: WHDH
+      domain: whdh.com
+    quality: 54
+  - title: "Voters to Decide on Strengthening Facial Recognition Ban"
+    excerpt: "On Nov. 3, Portland voters will decide if an ordinance that would allow citizens to sue the city for illegal surveillance and require the city to suppress illegally obtained evidence, the Portland Press Herald reported. In addition, violations of the ..."
+    publishedDateTime: 2020-10-12T21:56:00Z
+    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2020-10-12/voters-to-decide-on-strengthening-facial-recognition-ban"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "Best facial recognition security cameras to buy this year - CNET"
+    excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves. The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"
+    publishedDateTime: 2020-10-11T08:35:00Z
+    webUrl: "https://www.newsoneplace.com/33252581911/cnet-best-facial"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 39
+    images:
+      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/u6hR0A8J2nLaSvXpk9Bfy9ieJLg=/300x0/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg&h=250"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Attendance in Sectt through Facial Recognition System"
+    excerpt: "Employees of the Civil Secretariat will mark their attendance through a Facial Recognition system from next week. The use of the biometric attendance system, which requires people to put a finger on the surface of the scanner,"
+    publishedDateTime: 2020-10-13T21:35:00Z
+    webUrl: "https://www.dailyexcelsior.com/attendance-in-sectt-through-facial-recognition-system/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2020/10/attendqancwe.jpg"
+        width: 800
+        height: 795
+        isCached: true
+  - title: "Lawmakers consider banning facial recognition"
+    excerpt: "Should police be able to use facial recognition technology?"
+    publishedDateTime: 2020-10-13T22:54:00Z
+    webUrl: "https://www.wcax.com/video/2020/10/13/lawmakers-consider-banning-facial-recognition/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 39
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/e2S0knkKNZ5ab8QW42iHuCfto7o=/980x0/smart/do0bihdskp9dy.cloudfront.net/10-13-2020/t_28fc284ae6df48a7a37ec9d1be82479a_name_file_1280x720_2000_v3_1_.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Best facial recognition security cameras to buy in 2020 - CNET"
+    excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves.       The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"
+    publishedDateTime: 2020-10-15T08:02:00Z
+    webUrl: "https://www.newsoneplace.com/33728791911/cnet-best-facial"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 39
+    images:
+      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/u6hR0A8J2nLaSvXpk9Bfy9ieJLg=/300x0/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg&h=250"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "J-K Civil Secretariat Employees To Mark Attendance Through Facial Recognition System"
+    excerpt: "Employees of the Jammu and Kashmir Civil Secretariat will mark their attendance through a facial recognition system from next week, an official circular issued on Tuesday said"
+    publishedDateTime: 2020-10-14T02:58:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/j-k-civil-secretariat-employees-to-mark-attendance-through-facial-recognition-system.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 32
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wcf1suarecosngc0_1602644255.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
+        isCached: true
 
 secured: "4yucccOvRddgRcDa1N5acDUnv8GUdAYCD0+8amjaLxhQYsjgyMMxMCmfEkFN3JQoXSjHpBypZl750YI1KAgDcrrbBXO3n6nCeaskvlEPRehky5bGOFCvIysbqoX9A0DXukVhaa9xtfI9PX8nOlN87gTGKps4HyqENHccoHQKzfEYPaZKG0i0m5PNYvMqJalP0GDu+EKL1k74b3QVyoRzZVfOS9EDED8/BVOjhYEfT5Qc6PYqO3eV/Z6pMFOswidkkKa0gkTtiU9NileOzRIlqE+woL74dBF1ZIn9AGP7cti1ZrycERYLQjylRuWoKmDqR6AIvUr7HLjKaqbVm+SNw6JYQjPkfezl6nY5TsQWmMg=;9vupgbohIZkjhdw0nBRgqw=="
 ---

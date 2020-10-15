@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-15-five-real-ways-artificial-intelligence-is-upleveling-customer-service.md",
+      "title": "Five Real Ways Artificial Intelligence Is Upleveling Customer Service",
+      "excerpt": "There’s no time like the present to start putting some of the amazing AI tools to work for your customer service program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f451f658461ecb30a7fa9b8%2F0x0.jpg",
+          "width": 1200,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/amp/",
+      "publishedDateTime": "2020-10-15T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-south-korean-startup-cochlearai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition.md",
       "title": "South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition",
       "excerpt": "These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS platform to identify. The company’s goal is to develop software that can identify almost any kind ...",
@@ -131,59 +183,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-14T18:19:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical.md",
-      "title": "Using speaker diarization for streaming transcription with Amazon Transcribe and Amazon Transcribe Medical",
-      "excerpt": "Conversational audio data that requires transcription, such as phone calls, doctor visits, and online meetings, often has multiple speakers. In these use cases, it’s important to accurately label the speaker and associate them to the audio content delivered. For example, you can distinguish between a",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/Can-you-tell-me-about-the-Amazon-Transcribe-speaker-diarization-for-streaming-audio_-4.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T15:37:22-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

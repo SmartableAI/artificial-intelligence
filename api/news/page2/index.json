@@ -2,6 +2,288 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-15-virtual-primary-care-startup-98point6-raises-118m-as-pandemic-sparks-demand-for-digital-health-tech.md",
+      "title": "Virtual primary care startup 98point6 raises $118M as pandemic sparks demand for digital health tech",
+      "excerpt": "Demand is through the roof for Seattle telemedicine startup 98point6. The company, which helps facilitate virtual primary care appointments, has seen its membership base skyrocket 274%",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/",
+      "originalUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/20190502_GeekWire_Awards_1195-630x420-1.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/amp/",
+      "publishedDateTime": "2020-10-15T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform.md",
+      "title": "98point6 nabs $112 million for its AI-powered telemedicine platform",
+      "excerpt": "98point6, a telemedicine startup whose platform pairs clinicians with AI to provide text-based care, today closed a $119 million venture funding round. The company says it will use the proceeds to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/",
+      "originalUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/254d1bd4-41d8-4081-8bc9-2f7cb51956b3-e1585848851613.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/amp/",
+      "publishedDateTime": "2020-10-15T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-biped-robot-maker-agility-raises-20-million.md",
+      "title": "Biped robot maker Agility raises $20 million",
+      "excerpt": "Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out of the lab and into the workplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
+      "originalUrl": "https://www.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701GG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG",
+      "publishedDateTime": "2020-10-15T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-balto-raises-10-million-to-analyze-call-center-conversations-with-ai.md",
+      "title": "Balto raises $10 million to analyze call center conversations with AI",
+      "excerpt": "Balto, a conversational AI startup targeting call centers, has raised $10 million in venture capital to accelerate its go-to-makret strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/amp/",
+      "publishedDateTime": "2020-10-15T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-ai-inevitability-can-we-separate-bias-from-ai-innovation.md",
+      "title": "AI inevitability - can we separate bias from AI innovation?",
+      "excerpt": "AI evangelists pay lip service to solving AI bias - perhaps through better algorithms or other computational means. But is this viable? Is bias in AI inevitable?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation",
+      "originalUrl": "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-11/shutterstock-StunningArt-1121035637.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp",
+      "publishedDateTime": "2020-10-15T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-quick-ai-adoption-essential-for-future-of-work-in-india-says-intel.md",
+      "title": "Quick AI adoption essential for future of work in India, says Intel",
+      "excerpt": "Intel said that Artificial Intelligence is essential to the future of work in a post-pandemic world, with over 90% respondents in a survey considering AI to be essential to their businesses in India",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/19/full/1560959403-0446.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
+      "publishedDateTime": "2020-10-15T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-south-korean-startup-cochlearai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition.md",
       "title": "South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition",
       "excerpt": "These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS platform to identify. The company’s goal is to develop software that can identify almost any kind ...",
@@ -547,58 +829,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-streamlining-data-labeling-for-yolo-object-detection-in-amazon-sagemaker-ground-truth.md",
-      "title": "Streamlining data labeling for YOLO object detection in Amazon SageMaker Ground Truth",
-      "excerpt": "Object detection is a common task in computer vision (CV), and the YOLOv3 model is state-of-the-art in terms of accuracy and speed. In transfer learning, you obtain a model trained on a large but generic dataset and retrain the model on your custom dataset. One of the most time-consuming parts in transfer",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/streamlining-data-labeling-for-yolo-object-detection-in-amazon-sagemaker-ground-truth/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/streamlining-data-labeling-for-yolo-object-detection-in-amazon-sagemaker-ground-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/09/15-Pens-Pencils.jpg",
-          "width": 400,
-          "height": 302,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T12:17:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-15-google-analytics-update-uses-machine-learning-to-surface-more-critical-customer-data.md",
       "title": "Google Analytics update uses machine learning to surface more critical customer data",
       "excerpt": "If you ever doubted the hunger brands have for more and better information about consumers, you only need to look at Twilio buying customer data startup Segment this week for $3.2 billion. Google sees this the same thing as everyone else,",
@@ -607,7 +837,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/14/google-analytics-update-uses-machine-learning-to-surface-more-critical-customer-data/?tpcc=ECTW2020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1002,256 +1232,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-facebook-deploys-its-ai-to-find-green-energy-storage-solutions.md",
-      "title": "Facebook deploys its AI to find green energy storage solutions",
-      "excerpt": "One alternative is putting that excess power to work driving catalytic reactions. “There are a lot of different ways that we can store the energy,” Zack Ulissi, CMU Assistant Professor of Chemical Engineering and Materials Science and Engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
-      "originalUrl": "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F64625200-0d97-11eb-b2ff-474c419ab255&client=amp-blogside-v2&signature=44deace43d9002073d11fa617625620dd03d9831",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
-      "publishedDateTime": "2020-10-14T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-dataloop-raises-11m-series-a-round-for-its-ai-data-management-platform.md",
-      "title": "Dataloop raises $11M Series A round for its AI data management platform",
-      "excerpt": "Dataloop, a Tel Aviv-based startup that specializes in helping businesses manage the entire data lifecycle for their AI projects, including helping them annotate their datasets, today announced that it has now raised a total of $16 million.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/",
-      "originalUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/ea90c01-f5ef5b8-ezgif.com-video-to-gif_3.gif",
-          "width": 800,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/amp/",
-      "publishedDateTime": "2020-10-14T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-this-bot-will-destroy-you-at-pictionary-its-also-a-huge-milestone-for-ai.md",
-      "title": "This bot will destroy you at Pictionary. It’s also a huge milestone for A.I.",
-      "excerpt": "Pixelor isn't just a Pictionary-playing A.I. — it's a groundbreaking new tool that's helping us teach machines to understand human intentions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/",
-      "originalUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/pixelor_-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/pixelor-pictionary-ai/?amp",
-      "publishedDateTime": "2020-10-14T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai.md",
-      "title": "Infiot emerges from stealth with $15 million to manage edge devices using AI",
-      "excerpt": "Infiot, a startup developing an access platform for ... Infiot leverages distributed processing and AI to deliver real-time decisions, ostensibly improving availability while enabling superior ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/",
-      "originalUrl": "https://venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/af27a1a46882a43d9df31265a5d5b952145fda93-e1601915848179.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/amp/",
-      "publishedDateTime": "2020-10-14T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
-      "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
-      "excerpt": "RADAR satellites can collect massive amounts of remote sensing data that can detect ground movements—surface defomations—at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.html",
-      "originalUrl": "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/35-deeplearning.jpg",
-          "width": 730,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.amp",
-      "publishedDateTime": "2020-10-14T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

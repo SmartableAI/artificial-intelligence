@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-way
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f451f658461ecb30a7fa9b8%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 771
     isCached: true
 
-secured: "jzyfizBwtu2stlurbR14nxPVE+FK0jilj5DOHVP7/U2vY2SQNmzO7BdWMV3a0HMQBcsVVJEBvikvXeR+PZomIc6PHqMwl5wI1cw4l7ykCGny9X6O6+x84KREe+kI1do+ky3ktIMrg404NTWzOjlHTIk389mBhkEh81PxJsrvppxA5hlAcAD/yi6W/G33mmM8lV57Ypb+p11OjImkfrFryPRhKoGuy15dmAHPgxd3lIYS0IYN+mt/yTLJESLzypktYpEjTdrvKd8g4gXHJ9FUuY9Oi3kLB4tgcVMY9Fk5/fIf25UvtgdS3buwFcITC8Fu6FBNwavpLy3B4Cbz2+evB0EUchj3bMX4k4AC7/ubyw4=;FF2I43tjpJHjyjYoEQxOQA=="
+secured: "i+7WVpjsyrPqEpvTm1osvXEuhBXuVQ/DB5er3iRXdfrIyx8kUtcfeh1/diK8lzDubLlyKv2gwFrLPsINAW9hUMt0j7lWJk1cFwUSLO7fXKmk4MFY1M8yvFOMydrV78CTQNuq9BpwgCsGGNV3PMlhp+XsOSgpVNXUbtf839MfXvv9ahCYXbEQMU1Bnoa1HNS+KV7DXzJ0+oTMZB9t0hAIkG00XkWCl3ZAj+d+NUDI76xnpkMRJcD+J7AHzPx7vys2/4bZ67BX+2jtfqrJgNkqtlWhf2KItE1bp4PPVFi6O8vXQ5CpBu7nTt8SRo3f5ynULP5f2DQPjgI2rO4iBVvISiCrGDgORi4QshqPYNUNPf+1haWJU0fKwkrrc3z2zh34Ni7FRdPG5PPbmLKJz+drUrsuCXbU2oNfvtgy0EMGJ8qU4QmIvGiOwDXSIZmVEHR67mF0JJcmIMC670ImNTQGpHS4j+xVvmy7wtTeBu/F3gEiA0uuMohgyYWCF8RX5RzPzaRbrgRhTRLfOeRK9iniEQ==;cNGPJK0mO+p9qqeLnTtzgA=="
 ---
 

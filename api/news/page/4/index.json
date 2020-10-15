@@ -2,6 +2,197 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-13-researchers-develop-new-model-of-the-brains-real-life-neural-networks.md",
+      "title": "Researchers develop new model of the brain's real-life neural networks",
+      "excerpt": "Physical Systems Group at the USC Viterbi School of Engineering, in conjunction with the University of Illinois at Urbana-Champaign, have developed a new model of how information deep in the brain could flow from one network to another and how these neuronal network clusters self-optimize over time.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/8-brain.jpg",
+          "width": 1741,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
+      "publishedDateTime": "2020-10-13T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-olive-rolled-out-a-new-ai-powered-healthcare-platform-that-streamlines-revenue-cycle-management.md",
+      "title": "Olive rolled out a new AI-powered healthcare platform that streamlines revenue cycle management",
+      "excerpt": "Olive debuted a platform that speeds up revenue cycle management processes for healthcare workers—like prior authorizations and patient verifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/olive-unveils-ai-powered-platform-to-streamline-healthcare-admin-2020-10",
+      "originalUrl": "https://www.businessinsider.com/olive-unveils-ai-powered-platform-to-streamline-healthcare-admin-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f85a833c255d800190b987e?width=1200&format=jpeg",
+          "width": 650,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks.md",
+      "title": "How Criminals Use Artificial Intelligence To Fuel Cyber Attacks",
+      "excerpt": "As artificial intelligence (AI) breaks into the mainstream, there is a great deal of misinformation and confusion about what it’s capable of and the potential risks it poses. Our culture is rich with dystopian visions of human ruin at the feet of all-knowing machines.",
+      "sourceUrl": null,
+      "webUrl": "https://forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/",
+      "originalUrl": "https://forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8489185bcaa29433f8ecbd%2F0x0.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-imagination-technologies-takes-aim-at-data-centers-with-new-chip-designs.md",
+      "title": "Imagination Technologies takes aim at data centers with new chip designs",
+      "excerpt": "Imagination Technologies on Tuesday released new chip technology that it hopes will help it expand into the market for data center chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2",
+      "originalUrl": "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2H31H2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2H31H2",
+      "publishedDateTime": "2020-10-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities.md",
       "title": "Global Artificial Intelligence Market (2020 to 2026) - Bringing AI to Edge Devices Presents Opportunities",
       "excerpt": "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets.",
@@ -544,7 +735,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -584,59 +775,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-amazon-rekognition-adds-support-for-six-new-content-moderation-categories.md",
-      "title": "Amazon Rekognition adds support for six new content moderation categories",
-      "excerpt": "Amazon Rekognition content moderation is a deep learning-based service that can detect inappropriate, unwanted, or offensive images and videos, making it easier to find and remove such content at scale. Amazon Rekognition provides a detailed taxonomy of moderation categories, such as Explicit Nudity,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1042,157 +1180,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks.md",
-      "title": "The state of AI in 2020: Biology and healthcare's AI moment, ethics, predictions, and graph neural networks",
-      "excerpt": "Research and industry breakthroughs, ethics, and predictions. This is what AI looks like today, and what it's likely to look like tomorrow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
-      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/10/12/fff374f0-59d9-4c75-8931-70212d1b7506/fda-ml.png",
-          "width": 860,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
-      "publishedDateTime": "2020-10-12T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare",
-        "AI Hardware",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-shrinking-the-data-desert-inside-efforts-to-make-ai-systems-more-inclusive-of-people-with-disabilities.md",
-      "title": "Shrinking the ‘data desert’: Inside efforts to make AI systems more inclusive of people with disabilities",
-      "excerpt": "The post Shrinking the ‘data desert’: Inside efforts to make AI systems more inclusive of people with disabilities appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
-      "originalUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/VizWiz_val_00002306-2-1920x1080-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:45:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-artificial-intelligence-to-hasten-covid-19-detection.md",
-      "title": "Artificial intelligence 'to hasten Covid-19 detection'",
-      "excerpt": "A JAPANESE technology, dubbed \"Genki Medical Imaging,\" is seen to help speed up detection of coronavirus in individuals.The technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sunstar.com.ph/article/1873243/Baguio/Local-News/Artificial-intelligence-to-hasten-Covid-19-detection",
-      "originalUrl": "https://www.sunstar.com.ph/article/1873243/Baguio/Local-News/Artificial-intelligence-to-hasten-Covid-19-detection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sunstar.com.ph/themes/sunstar/images/no-image-sunstar.png",
-          "width": 700,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sunstar.com.ph/ampArticle/1873243",
-      "cdnAmpWebUrl": "https://www-sunstar-com-ph.cdn.ampproject.org/c/s/www.sunstar.com.ph/ampArticle/1873243",
-      "publishedDateTime": "2020-10-12T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sun Star",
-        "domain": "sunstar.com.ph",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

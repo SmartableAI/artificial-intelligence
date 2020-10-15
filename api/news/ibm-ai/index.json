@@ -6,8 +6,8 @@
       "title": "ServiceNow, IBM to integrate Watson AIOps, IT service management",
       "excerpt": "Under this partnership, the two companies will initially launch software that will use ServiceNow's IT Service Management historical incident data to train Watson AIOps algorithms",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
-      "originalUrl": "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
       "featuredContent": null,
       "highlight": null,
       "heat": 124,
@@ -15,8 +15,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
       "publishedDateTime": "2020-10-15T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -157,7 +157,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -297,34 +297,34 @@
     {
       "path": "_news/2020-10-09-ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals.md",
       "title": "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals",
-      "excerpt": "Those solutions, which are currently under development, will leverage IBM's suite of analytics tools to process in-match data, adding Watson's AI capabilities through the use of Watson Machine ...",
+      "excerpt": "IBM's Watson artificial intelligence, and machine learning Through the course of the deal, IBM and the Overwatch League plan to leverage IBM's suite of advanced cloud and AI products. Starting in ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting/article_e5d1c22b-cc99-5de0-accc-251c39e035e0.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting/article_e5d1c22b-cc99-5de0-accc-251c39e035e0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315",
-      "publishedDateTime": "2020-10-08T21:11:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T21:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

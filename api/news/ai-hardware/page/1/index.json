@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-16-nvidia-will-power-the-worlds-most-powerful-ai-supercomputer-leonardo.md",
+      "title": "NVIDIA Will Power the World's Most Powerful AI Supercomputer, Leonardo",
+      "excerpt": "The supercomputer arms race is on, and NVIDIA (NASDAQ:NVDA) is leaving the competition in the dust. Of the world's 500 most powerful supercomputers, NVIDIA graphics processing units (GPUs) or networking equipment (by way of its Mellanox acquisition) can be found in 333 of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595333%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "publishedDateTime": "2020-10-15T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-quick-ai-adoption-essential-for-future-of-work-in-india-says-intel.md",
       "title": "Quick AI adoption essential for future of work in India, says Intel",
       "excerpt": "Intel said that Artificial Intelligence is essential to the future of work in a post-pandemic world, with over 90% respondents in a survey considering AI to be essential to their businesses in India",
@@ -1402,50 +1454,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-vmware-embraces-nvidia-gpus-dpus-to-drive-enterprise-ai.md",
-      "title": "VMware Embraces Nvidia GPUs, DPUs To Drive Enterprise AI",
-      "excerpt": "AI is too hard for most enterprises to adopt, just like HPC was and continues to be. The search for “easy AI” – solutions that will reduce the costs and",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/",
-      "originalUrl": "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/VMware-CEOs.png",
-          "width": 1061,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/",
-      "publishedDateTime": "2020-09-30T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI",
         "AI Hardware"
       ]

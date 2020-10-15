@@ -23,68 +23,47 @@ topics:
   - AI
 
 related:
-  - title: "Amazon Rekognition adds support for six new content moderation categories"
-    excerpt: "Amazon Rekognition content moderation is a deep learning-based service that can detect inappropriate, unwanted, or offensive images and videos, making it easier to find and remove such content at scale. Amazon Rekognition provides a detailed taxonomy of moderation categories, such as Explicit Nudity,"
-    publishedDateTime: 2020-10-12T19:03:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/"
+  - title: "Voice Recognition Software Industry Data Statistics Analysis by 2020-2025"
+    excerpt: "Latest Research Study on Global Voice Recognition Software Market published by AMA offers a detailed overview of the factors influencing the global business scope Global Voice Recognition Software Market research report shows the latest market insights with upcoming trends and"
+    publishedDateTime: 2020-10-14T18:37:00Z
+    webUrl: "https://www.openpr.com/news/2159841/voice-recognition-software-industry-data-statistics-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2159841/voice-recognition-software-industry-data-statistics-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2159841/voice-recognition-software-industry-data-statistics-analysis"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 105
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
+      - url: "https://cdn.openpr.com/T/a/Ta14631842_g.jpg"
+        width: 800
+        height: 507
         isCached: true
-  - title: "From AI to facial recognition: How China is setting the rules in new tech"
-    excerpt: "HONG KONG/BEIJING • Mr Zhao Houlin is head of the United Nations' telecommunications agency, an independent international arbiter that sets some of the rules shaping the modern technology industry. But that does not stop him from letting his patriotism burst into the open."
-    publishedDateTime: 2020-10-14T22:48:00Z
-    webUrl: "https://www.straitstimes.com/opinion/from-ai-to-facial-recognition-how-china-is-setting-the-rules-in-new-tech-0"
+  - title: "Iris Recognition Market Trends 2020: Industry Analysis Report, Size, Share and Forecast By 2025"
+    excerpt: "According to the latest report by IMARC Group titled Iris Recognition Market Global Industry Trends Share Size Growth Opportunity and Forecast 2020 2025 the global iris recognition market size reached US 1 8 Billion in 2019 Iris recognition is a"
+    publishedDateTime: 2020-10-15T17:49:00Z
+    webUrl: "https://www.openpr.com/news/2161264/iris-recognition-market-trends-2020-industry-analysis-report"
+    ampWebUrl: "https://www.openpr.com/amp/2161264/iris-recognition-market-trends-2020-industry-analysis-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2161264/iris-recognition-market-trends-2020-industry-analysis-report"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 53
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
     images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/10/15/st_20201015_ftsinotechhuiw_6020007.jpg?itok=j1ad5Bac"
-        width: 763
-        height: 509
+      - url: "https://cdn.openpr.com/T/a/Ta15363849_g.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "CUJO AI Launches a Patented Device Identification Solution Solving Major Issues Caused by MAC Address Randomization"
-    excerpt: "CUJO AI, a pioneer and global leader in the development and application of artificial intelligence to improve the security, control, and privacy of connected devices, today announced its newly patented Device Identification feature,"
-    publishedDateTime: 2020-10-13T12:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
+  - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
+    excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
+    publishedDateTime: 2020-10-12T23:08:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/09/global-artificial-intelligence-in-education-market-innovative-trends-driving-factors-and-growth-analysis-2020-2025/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "SparkCognition Advances the Science of Artificial Intelligence with 85 Patents"
-    excerpt: "Since SparkCognition’s inception, we have placed a major emphasis on advancing the science of AI through research – making advancement through innovation a core company value,” said Amir Husain, founder and CEO of SparkCognition,"
-    publishedDateTime: 2020-10-12T13:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-united-states-ffad0ac1e935de99d32281f36be06ba4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Local VFW receives national recognition"
-    excerpt: "The Teacher of the Year and Law Enforcement of the Year offer the community a chance to recognize those who are making a difference in their organization, and the Patriots Pen and Voice of Democracy writing competitions offer students a chance to win ..."
-    publishedDateTime: 2020-10-11T12:02:00Z
-    webUrl: "https://www.stardem.com/news/local_news/local-vfw-receives-national-recognition/article_fe650966-551f-59b4-8c0d-6b98b3db663b.html"
-    type: article
-    provider:
-      name: Star Democrat
-      domain: stardem.com
-    quality: 4
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "9Dm9VJF0LpQS2MWMMhfu6OADzc5zv/cc8V1xt7V08ZotcooTf39bjQb5f+KpjGmRHg2QQUX0h4nnx7fAgJqzma+o3iPh8+tBaAZBG8oFzl0sF29uFu3NlcYY93gp7svoEFoj7VehVg4CvhuCsONln0QA5oRE2zdjIoY/zX1445CHz0GnRq651uN+D5Rudk/RmaA5GdlpafuZLAQHt7lvMty+fRb75wjU4viqPlaCQV/Jidjtp7gS2wLDsECaw7hfsgZxq41eKi5aju0l6r01o+Q0MtWpOfloJ7BoJ4TV8Q8fud/SW0OE/PI08pQvev9qa8SqMqEA5NkGJ3XDD/9BURAwR0AISdvXcuzwdsIuFOg=;a5FIswYDtiIpqn8reRoloQ=="
 ---

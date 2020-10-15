@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu’s Driverless Taxis Hit Beijing Streets, With Free, Unbooked Test Rides"
-    excerpt: "Chinese tech firm Baidu’s self-driving taxi service Apollo GO went into operation in Beijing yesterday. Users can order free test rides of the service at cab ranks in the city’s western Haidian and southern Yizhuang hi-tech districts without reservations,"
-    publishedDateTime: 2020-10-12T08:06:00Z
-    webUrl: "https://www.yicaiglobal.com/news/baidu-driverless-taxis-hit-beijing-streets-with-free-unbooked-test-rides"
+  - title: "Baidu fully opens Apollo Go Robotaxi services in Beijing"
+    excerpt: "An autonomous Apollo Robotaxi from Baidu in Changsha, Central China's Hunan Province Photo: courtesy of Baidu. Chinese search engine Baidu announced Sunday that it has opened up i"
+    publishedDateTime: 2020-10-12T05:21:00Z
+    webUrl: "https://www.globaltimes.cn/content/1203174.shtml"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 51
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 39
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/baidu-driverless-taxis-hit-beijing-streets-with-free-unbooked-test-rides/8546190089781248.jpg"
-        width: 720
-        height: 480
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-20/8db12994-3a72-4061-a358-df866e9fae9f.jpg"
+        width: 864
+        height: 575
         isCached: true
   - title: "Baidu opens robotaxi service in Beijing"
     excerpt: "Chinese internet search giant Baidu Inc announced on Sunday night it has fully opened Apollo Go Robotaxi, its self-driving taxi service, to the public in Beijing, becoming the first company to carry passengers in autonomous vehicles in the capital."

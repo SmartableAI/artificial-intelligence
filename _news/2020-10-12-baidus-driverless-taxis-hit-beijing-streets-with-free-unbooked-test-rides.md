@@ -7,8 +7,8 @@ originalUrl: "https://www.yicaiglobal.com/news/baidu-driverless-taxis-hit-beijin
 webUrl: "https://www.yicaiglobal.com/news/baidu-driverless-taxis-hit-beijing-streets-with-free-unbooked-test-rides"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Yicai Global
@@ -25,34 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu opens robotaxi service in Beijing"
-    excerpt: "Chinese internet search giant Baidu Inc announced on Sunday night it has fully opened Apollo Go Robotaxi, its self-driving taxi service, to the public in Beijing, becoming the first company to carry passengers in autonomous vehicles in the capital."
-    publishedDateTime: 2020-10-12T02:56:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202010/12/WS5f83c5cba31024ad0ba7e11c.html"
+  - title: "GM will test fully driverless cars in SF later this year"
+    excerpt: "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ..."
+    publishedDateTime: 2020-10-15T21:45:00Z
+    webUrl: "https://www.engadget.com/cruise-testing-san-francisco-214222312.html"
+    ampWebUrl: "https://www.engadget.com/amp/cruise-testing-san-francisco-214222312.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-testing-san-francisco-214222312.html"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbebd6400-0f2d-11eb-9bfe-e67a76f4a357&client=amp-blogside-v2&signature=4908a2fba8142ca66578860cd136007606108c87"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "NASA scientist and driverless car pioneer crowned top Aussie expats"
+    excerpt: "The first Australian to become a scientific lead on a NASA mission to Mars and the founder of a pioneering driverless vehicle company have been jointly crowned as Australia's top expats."
+    publishedDateTime: 2020-10-15T13:20:00Z
+    webUrl: "https://www.afr.com/technology/nasa-scientist-and-driverless-car-pioneer-crowned-top-aussie-expats-20201013-p564qq"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
     quality: 39
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202010/12/5f83c5cba31024adbd993c22.jpeg"
-        width: 720
-        height: 480
+      - url: "https://static.ffx.io/images/$zoom_0.3281%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_51%2C$y_67/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/t_afr_exclusive_no_age_social_wm/88c89615cbceb34c54a1a27a7a60d166f1ec479c"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Baidu launches program in Beijing to offer free trials of its self-driving taxi service"
-    excerpt: "A woman takes a self-driving taxi at an appointed location on the Daoxianghu Road in Haidian District of Beijing, capital of China, Oct. 14, 2020. China's internet giant Baidu has launched a program in Beijing to offer free trials of its self-driving taxi service from Saturday."
-    publishedDateTime: 2020-10-14T09:25:00Z
-    webUrl: "https://www.globaltimes.cn/content/1203461.shtml"
+  - title: "Cruise to test self-driving cars out in the wild in San Francisco."
+    excerpt: "Cruise announces in a Medium post that it plans to begin testing unmanned autonomous vehicles by the end of this year in San Francisco after landing a permit from the California Department of Motor Vehicles\"Before the end of the year,"
+    publishedDateTime: 2020-10-15T18:37:00Z
+    webUrl: "https://seekingalpha.com/news/3622606-cruise-to-test-self-driving-cars-out-in-wild-in-san-francisco"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 31
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-10-14/8f785bee-602c-4d06-bef8-37e0f3039055.jpeg"
-        width: 800
-        height: 480
-        isCached: true
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "BViOXsfl86lIDFEjEXMvA8AgnpGjcNqepC6jlnmBkcV2Il0mQKthaLWhJ0ZPqG0drfOCrT8xNhzqpOgk/69V6ropyXYSKXH/PK0k9sMU91r4zAHbNPLdZ7Y6/QA2j//LphxrdxB+ls9XCjcQmZ+80pxbcPFYz+OXc46bEvlT0ElM+HjEfrcxiJTPk/lX03PvulZQWjf4Djgd/ueDvw+brlqamoHQZ62USTZNKNrO9iBJC0NZiAOpCAvUf0e+SxUTKEtkLFuhwJX9zYYTMb3wfQFEs50PL5Awtqld9WhRb9fyJAZJfb4L3SYNRMr2fLggpUEJN8elxJ/NCv8R/XSPEn+73NPDWc5fFU1++iwgpKYwipJ+gMOj1++i43eds7OzgBa8H+4cnZnJJzRbebZxwAPc3Jrzy6Spk1HFJ0tX86yCz9hkffojqP8WFrw1tjPQBjM1lBVEtbnG5oIAfcT+g9QDF+zCwA3LvT7sUaSnLmjubuH+T12FosKfQUf1k2c/boleNqi58O8w0fe/yrFN0A==;hwnxHrMvhef2K9WDvssRdg=="
 ---

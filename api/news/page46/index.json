@@ -2,6 +2,101 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-09-08-global-artificial-intelligence-ai-in-drug-discovery-market.md",
+      "title": "Global Artificial Intelligence (AI) in Drug Discovery Market",
+      "excerpt": "The large Artificial intelligence AI in drug discovery market report contains wide ranging and comprehensive market insights which are based on business intelligence A strong research methodology used in this marketing report comprises of data models that include market overview",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2130111/global-artificial-intelligence-ai-in-drug-discovery-market",
+      "originalUrl": "https://www.openpr.com/news/2130111/global-artificial-intelligence-ai-in-drug-discovery-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T908728673_g.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2130111/global-artificial-intelligence-ai-in-drug-discovery-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2130111/global-artificial-intelligence-ai-in-drug-discovery-market",
+      "publishedDateTime": "2020-09-08T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications.md",
+      "title": "How Diffblue uses AI to automate unit testing for Java applications",
+      "excerpt": "On Tuesday Diffblue announced general availability of its flagship Diffblue Cover and Diffblue Cover: Community Edition, a free version created for developers using IntelliJ, the most popular IDE for enterprise Java.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
+      "originalUrl": "https://www.techrepublic.com/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2017/06/15/ddccb0d6-7eee-4b5b-b55e-7195ed76fe03/resize/1200x/aef4190f2e6a01d273c61a78be51e83f/aijobs.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
+      "publishedDateTime": "2020-09-08T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-computer-vision-brings-shoppable-video-to-life.md",
       "title": "Computer vision brings shoppable video to life",
       "excerpt": "Computer vision is a long-established segment of AI which deals with a machine’s ability to understand and process visuals and provide appropriate outputs. But as computer vision is developed and refined, it is increasingly being used in retail marketing ...",
@@ -1078,108 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review.md",
-      "title": "ThoughtRiver nabs $10M to speed up deal-making with AI contract review",
-      "excerpt": "ThoughtRiver, a London-based legaltech startup that’s applying AI to speed up contract pre-screening, has announced a $10 million Series A round of funding led by Octopus Ventures. Existing seed investors Crane,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/07/thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review/",
-      "originalUrl": "https://techcrunch.com/2020/09/07/thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/product-3.png?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/07/thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/07/thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review/amp/",
-      "publishedDateTime": "2020-09-07T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy.md",
-      "title": "This AI analyzes placentas to predict complications in the next pregnancy",
-      "excerpt": "Researchers from Carnegie Mellon University have used machine learning to analyze placenta samples for signs of health risks in future pregnancies.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-07T130915.553-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/amp/",
-      "publishedDateTime": "2020-09-07T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

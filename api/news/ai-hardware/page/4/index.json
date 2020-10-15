@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-09-computer-chips-that-can-read-our-brains-have-moved-from-sci-fi-to-reality-for-better-and-worse.md",
+      "title": "Computer chips that can read our brains have moved from sci-fi to reality, for better and worse",
+      "excerpt": "The near-term applications will mostly benefit society, but the danger of a dystopian future is becoming more real, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_37/3410638/200908-arnold-schwarzenegger-total-recall-ew-626p_e922fd2ecd3b951d1378390b3b409eef.jpg",
+          "width": 2500,
+          "height": 1682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1239575",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1239575",
+      "publishedDateTime": "2020-09-09T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-nvidia-rtx-3090-3080-3070-gpu-price-release-date-and-specs-detailed.md",
       "title": "Nvidia RTX 3090, 3080, 3070 GPU: Price, Release Date, And Specs Detailed",
       "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier in the month--the RTX 3090, 3080, and 3070 cards. The new 3000 series is the second generation of RTX graphics cards that will run features like real-time ray tracing with much higher performance than current RTX cards.",
@@ -1358,49 +1401,6 @@
       "provider": {
         "name": "Dot Esports",
         "domain": "dotesports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio.md",
-      "title": "Acer Announces Support for the New NVIDIA GeForce RTX 30 Series GPUs Across Its Predator Orion Desktop Portfolio",
-      "excerpt": "The GeForce RTX 3090, 3080, and 3070 represent the greatest GPU generational leap in the history ... ray-traced graphics and cutting-edge AI features, and provide gamers with incredible gaming ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-301122037.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-301122037.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1177667/Acer_logo_Logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

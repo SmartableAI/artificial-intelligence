@@ -2,6 +2,256 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-14-facebook-deploys-its-ai-to-find-green-energy-storage-solutions.md",
+      "title": "Facebook deploys its AI to find green energy storage solutions",
+      "excerpt": "One alternative is putting that excess power to work driving catalytic reactions. “There are a lot of different ways that we can store the energy,” Zack Ulissi, CMU Assistant Professor of Chemical Engineering and Materials Science and Engineering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
+      "originalUrl": "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F64625200-0d97-11eb-b2ff-474c419ab255&client=amp-blogside-v2&signature=44deace43d9002073d11fa617625620dd03d9831",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
+      "publishedDateTime": "2020-10-14T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-dataloop-raises-11m-series-a-round-for-its-ai-data-management-platform.md",
+      "title": "Dataloop raises $11M Series A round for its AI data management platform",
+      "excerpt": "Dataloop, a Tel Aviv-based startup that specializes in helping businesses manage the entire data lifecycle for their AI projects, including helping them annotate their datasets, today announced that it has now raised a total of $16 million.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/",
+      "originalUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/ea90c01-f5ef5b8-ezgif.com-video-to-gif_3.gif",
+          "width": 800,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/amp/",
+      "publishedDateTime": "2020-10-14T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-this-bot-will-destroy-you-at-pictionary-its-also-a-huge-milestone-for-ai.md",
+      "title": "This bot will destroy you at Pictionary. It’s also a huge milestone for A.I.",
+      "excerpt": "Pixelor isn't just a Pictionary-playing A.I. — it's a groundbreaking new tool that's helping us teach machines to understand human intentions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/",
+      "originalUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/pixelor_-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/pixelor-pictionary-ai/?amp",
+      "publishedDateTime": "2020-10-14T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai.md",
+      "title": "Infiot emerges from stealth with $15 million to manage edge devices using AI",
+      "excerpt": "Infiot, a startup developing an access platform for ... Infiot leverages distributed processing and AI to deliver real-time decisions, ostensibly improving availability while enabling superior ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/af27a1a46882a43d9df31265a5d5b952145fda93-e1601915848179.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/amp/",
+      "publishedDateTime": "2020-10-14T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
+      "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
+      "excerpt": "RADAR satellites can collect massive amounts of remote sensing data that can detect ground movements—surface defomations—at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.html",
+      "originalUrl": "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/35-deeplearning.jpg",
+          "width": 730,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.amp",
+      "publishedDateTime": "2020-10-14T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-google-launches-autonomous-robot-to-analyse-farms-with-artificial-intelligence.md",
       "title": "Google launches autonomous robot to analyse farms with artificial intelligence",
       "excerpt": "Google has launched an autonomous robot which uses artificial intelligence to monitor crops. Powered by solar panels, the buggy travels through crops using cameras and sensors to predict agricultural yields and help farmers decide how much pesticide and fertiliser to use.",
@@ -549,59 +799,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical.md",
-      "title": "Using speaker diarization for streaming transcription with Amazon Transcribe and Amazon Transcribe Medical",
-      "excerpt": "Conversational audio data that requires transcription, such as phone calls, doctor visits, and online meetings, often has multiple speakers. In these use cases, it’s important to accurately label the speaker and associate them to the audio content delivered. For example, you can distinguish between a",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/Can-you-tell-me-about-the-Amazon-Transcribe-speaker-diarization-for-streaming-audio_-4.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T15:37:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-10-14-4-things-to-know-about-ibms-spin-off-plans.md",
       "title": "4 Things to Know About IBM's Spin-Off Plans",
       "excerpt": "IBM's stock recently rallied after the tech giant announced it would spin off its managed infrastructure services unit into a new company. That split will enable IBM to divest its",
@@ -1040,197 +1237,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-researchers-develop-new-model-of-the-brains-real-life-neural-networks.md",
-      "title": "Researchers develop new model of the brain's real-life neural networks",
-      "excerpt": "Physical Systems Group at the USC Viterbi School of Engineering, in conjunction with the University of Illinois at Urbana-Champaign, have developed a new model of how information deep in the brain could flow from one network to another and how these neuronal network clusters self-optimize over time.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/8-brain.jpg",
-          "width": 1741,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
-      "publishedDateTime": "2020-10-13T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-olive-rolled-out-a-new-ai-powered-healthcare-platform-that-streamlines-revenue-cycle-management.md",
-      "title": "Olive rolled out a new AI-powered healthcare platform that streamlines revenue cycle management",
-      "excerpt": "Olive debuted a platform that speeds up revenue cycle management processes for healthcare workers—like prior authorizations and patient verifications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/olive-unveils-ai-powered-platform-to-streamline-healthcare-admin-2020-10",
-      "originalUrl": "https://www.businessinsider.com/olive-unveils-ai-powered-platform-to-streamline-healthcare-admin-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f85a833c255d800190b987e?width=1200&format=jpeg",
-          "width": 650,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks.md",
-      "title": "How Criminals Use Artificial Intelligence To Fuel Cyber Attacks",
-      "excerpt": "As artificial intelligence (AI) breaks into the mainstream, there is a great deal of misinformation and confusion about what it’s capable of and the potential risks it poses. Our culture is rich with dystopian visions of human ruin at the feet of all-knowing machines.",
-      "sourceUrl": null,
-      "webUrl": "https://forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/",
-      "originalUrl": "https://forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8489185bcaa29433f8ecbd%2F0x0.jpg",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-imagination-technologies-takes-aim-at-data-centers-with-new-chip-designs.md",
-      "title": "Imagination Technologies takes aim at data centers with new chip designs",
-      "excerpt": "Imagination Technologies on Tuesday released new chip technology that it hopes will help it expand into the market for data center chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2",
-      "originalUrl": "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2H31H2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2H31H2",
-      "publishedDateTime": "2020-10-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

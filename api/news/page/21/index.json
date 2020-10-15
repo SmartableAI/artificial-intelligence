@@ -2,6 +2,91 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-09-25-ai-can-detect-how-lonely-you-are-by-analysing-your-speech.md",
+      "title": "AI can detect how lonely you are by analysing your speech",
+      "excerpt": "Researchers in the US used several AI tools, including IBM Watson, to analyse transcripts of older adults interviewed about feelings of loneliness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8772287/amp/AI-detect-lonely-analysing-speech.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-8772287/amp/AI-detect-lonely-analysing-speech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/09/25/13/33614798-0-image-a-10_1601036757144.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8772287/amp/AI-detect-lonely-analysing-speech.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8772287/amp/AI-detect-lonely-analysing-speech.html",
+      "publishedDateTime": "2020-09-25T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-ai-driven-film-payment-tech-can-predict-box-office-success-start-up-filmchain-claims.md",
+      "title": "AI Driven Film Payment Tech Can Predict Box-Office Success, Start Up FilmChain Claims",
+      "excerpt": "A payment system claiming to automate the collection, tracking and allocation of film company revenues, as well as predicting future box-office success, was the second tech firm to pitch at the",
+      "sourceUrl": null,
+      "webUrl": "https://variety.com/2020/film/festivals/san-sebastian-zinemaldia-startup-challenge-filmchain-1234783626/#!",
+      "originalUrl": "https://variety.com/2020/film/festivals/san-sebastian-zinemaldia-startup-challenge-filmchain-1234783626/#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pmcvariety.files.wordpress.com/2020/09/maria-tanjala.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://variety.com/2020/film/festivals/san-sebastian-zinemaldia-startup-challenge-filmchain-1234783626/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/film/festivals/san-sebastian-zinemaldia-startup-challenge-filmchain-1234783626/amp/",
+      "publishedDateTime": "2020-09-25T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-vietnam-ai-platform-rules-language-programming-contest-in-japan.md",
       "title": "Vietnam AI platform rules language programming contest in Japan",
       "excerpt": "Vietnam's artificial intelligence platform FPT.AI ranked first at SHINRA2020-ML, a contest to classify 30 Wikipedia language entities in fine-grained categories, in Japan.",
@@ -1097,109 +1182,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai.md",
-      "title": "GPT-3’s bigotry is exactly why devs shouldn’t use the internet to train AI",
-      "excerpt": "Yeah, but your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should.” – Dr. Ian Malcolm, fictional character, Jurassic Park. It turns out that a $1 billion investment from Microsoft and unfettered access to a supercomputer wasn’t enough to keep OpenAI’s GPT-3 from being just as bigoted as",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/racistAIfeat-796x403.jpg",
-          "width": 796,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/amp/",
-      "publishedDateTime": "2020-09-24T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize.md",
-      "title": "Selecting the right metadata to build high-performing recommendation models with Amazon Personalize",
-      "excerpt": "In this post, we show you how to select the right metadata for your use case when building a recommendation engine using Amazon Personalize. The aim is to help you optimize your models to generate more user-relevant recommendations. We look at which metadata is most relevant to include for different",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T13:21:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

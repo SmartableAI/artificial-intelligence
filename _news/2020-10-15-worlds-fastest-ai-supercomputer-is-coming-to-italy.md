@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/10/15/worlds-fastest-ai-supercomp
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/15/worlds-fastest-ai-supercomputer-is-coming-to-italy/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -29,38 +29,6 @@ images:
     height: 417
     isCached: true
 
-related:
-  - title: "Nvidia will power world’s fastest AI supercomputer, to be located in Europe"
-    excerpt: "Nvidia is is going to be powering the world’s fastest AI supercomputer, a new system dubbed ‘Leonardo’ that’s being built by the Italian multi-university consortium CINECA, a global supercomutin leader."
-    publishedDateTime: 2020-10-15T16:04:00Z
-    webUrl: "https://techcrunch.com/2020/10/15/nvidia-will-power-worlds-fastest-ai-supercomputer-to-be-located-in-europe/"
-    ampWebUrl: "https://techcrunch.com/2020/10/15/nvidia-will-power-worlds-fastest-ai-supercomputer-to-be-located-in-europe/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/nvidia-will-power-worlds-fastest-ai-supercomputer-to-be-located-in-europe/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/CINECA.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "CINECA to Build World’s Fastest AI Supercomputer with NVIDIA and Atos"
-    excerpt: "NVIDIA today announced that the Italian inter-university consortium CINECA — one of the world’s most important supercomputing centers — will use the company’s accelerated computing platform to build the world’s fastest AI supercomputer."
-    publishedDateTime: 2020-10-15T16:35:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/virus-outbreak-technology-business-science-corporate-news-23b7d28e3115e015fcf1ce2ce8005731"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "IIIy3HezCfzZ9oHpFt4JgMNQIku+facZ+D+uLE6Vsi0gZEzam3odKXoRTNRUv8A6Ya7tL3uXuoh7hIFhCcMoQumgRRMWUwKm8nbzwBaQu5X9MQvY0iRlTQMHazGxaGOIYgxggGvSmx8CQjrGNc0Ww1lKQtQGDNfdz1fiZE4NAH21VVqFmnTpcpgtb1V2/h6AFSYAl0oQBX/ACNWpzz76f9cqsJMbZVD+B03G5XvRblG4MKkiv64xEKJIXkhCEG40CBSERzyRJ7PZdHH6cqeQSJorRZVmCAFvgKpHtKMvt7NYVXvwwHNd2WRtw/ImE7FfMBM3murLpqlVJEafDix74X6gA1CdAY/DhaovVhnLHFo=;6NFDj4Bp5lMqm9qN64ewQg=="
+secured: "20xxqu1HMezeulugKKYxAzUNLCo9XUn9CrsAUY+/E/Ef7GrXhdEcwC/0Zc0UotZw4J55ulTBWIbAqax1o4z30upCKD3U924gB0FAhYJC2N0hFhcu3BSyYXRhOCcY+ew6lSmyBDyQpZ5xbJVjYChqNJolbfAJLuA+NWIjA95d/ame9GyK38S82DFqmMR6QOtkDo5TJs3dfXUw7lX033HFtX/2Pke3GckFH/B79MHuvCc1ds1cGjNQAck6VCuBPt6/bJ4FxRcdHtNoItiYhDK0U1LkPHQYQKXSWJuFyNLHVcFDPNGlUibwEAKsRt729OKYacEHYVbBncNZLij8VZ2jilaoQe0hsI3c6grUpfJZfW1rTlnPJ+7Of+HdhClpW4dEz4oyErQIaj+gGhK6ysS5dzL5Li/+l0+DptIonV/SeGJdp0T1hcv30vDzeOtGbEAiBc5Z7Ltg0XkVOTHu41+2nV0paIOJjh3larLUMQeDKouqWQbsBtjagZnNvmxCpqf4Rz7p3wC8t44OTXywEOil0Q==;0U2d3TaONcmRoPnp+J95+w=="
 ---
 

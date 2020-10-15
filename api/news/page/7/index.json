@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-09-enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service.md",
+      "title": "Enhanced computer vision, sensors raise manufacturing stakes for robots as a service",
+      "excerpt": "Firms developing computer vision technology for standard robots, developments in 3D vision and so-called “Robots as a Service” are defining the next wave of automation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/",
+      "originalUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1220591821.jpg?w=1000",
+          "width": 1000,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/",
+      "publishedDateTime": "2020-10-08T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-these-ai-generated-resumes-will-make-your-job-search-even-more-painful.md",
+      "title": "These AI-generated resumes will make your job search even more painful",
+      "excerpt": "The result is Almost Real Resume, a website that spits out an endless stream of fake career highlights for tech job candidates. It gives you a new name, contact details, personal statement, work experience,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-08T162316.764-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/amp/",
+      "publishedDateTime": "2020-10-08T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-from-the-data-and-ai-expert-labs-start-with-outcomes.md",
       "title": "From the Data and AI Expert Labs: Start with outcomes",
       "excerpt": "IBM’s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization’s unique needs. In From the Data and AI Expert Labs, I’ll take the expert learnings",
@@ -344,50 +448,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-08-h2oai-brings-automl-to-equifax-ignite-with-driverless-ai.md",
-      "title": "H2O.ai brings AutoML to Equifax Ignite with Driverless AI",
-      "excerpt": "H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverless AI within Equifax Ignite ®. H2O is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/h2o-ai-brings-automl-to-equifax-ignite-with-driverless-ai/article_3020f4a6-e84b-5620-afe1-ce7fc7241787.html",
-      "originalUrl": "https://www.oaoa.com/news/business/h2o-ai-brings-automl-to-equifax-ignite-with-driverless-ai/article_3020f4a6-e84b-5620-afe1-ce7fc7241787.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-10-08-in-video-trump-calls-his-covid-19-a-blessing-from-god.md",
       "title": "In video, Trump calls his COVID-19 ‘a blessing from God’",
       "excerpt": "Click here to refresh this page. President Trump made the stunning announcement ... But before President Donald Trump’s coronavirus diagnosis earlier this week Biden had not disclosed full details of his testing protocol or the results of each test.",
@@ -511,6 +571,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-h2oai-brings-automl-to-equifax-ignite-with-driverless-ai.md",
+      "title": "H2O.ai brings AutoML to Equifax Ignite with Driverless AI",
+      "excerpt": "H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverles",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1091,103 +1185,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker.md",
-      "title": "Amazon announces price cuts on GPU instances in AWS Sagemaker",
-      "excerpt": "Amazon Web Services is cutting the price of GPU instances on Sagemaker, its fully managed machine learning service. AWS said customers will see up to 18% in price reductions on all ml.p2 and ml.p3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
-      "publishedDateTime": "2020-10-07T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots.md",
-      "title": "Startups joining SK Telecom’s accelerator include AI-driven mapping and vision for delivery robots",
-      "excerpt": "We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless carrier,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/",
-      "originalUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/installation-2.png?w=480",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/amp/",
-      "publishedDateTime": "2020-10-07T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

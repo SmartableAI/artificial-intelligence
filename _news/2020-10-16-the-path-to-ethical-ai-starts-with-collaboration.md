@@ -8,7 +8,7 @@ webUrl: "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-coll
 ampWebUrl: "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 related:
   - title: "The Next Generation Of Artificial Intelligence"

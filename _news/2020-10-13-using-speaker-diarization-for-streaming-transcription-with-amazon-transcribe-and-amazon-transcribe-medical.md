@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/using-speaker-diariz
 webUrl: "https://aws.amazon.com/blogs/machine-learning/using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical/"
 type: article
 quality: 88
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -28,6 +28,66 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "Processing auto insurance claims at scale using Amazon Rekognition Custom Labels and Amazon SageMaker Ground Truth"
+    excerpt: "Computer vision uses machine learning (ML) to build applications that process images or videos. With Amazon Rekognition, you can use pre-trained computer vision models to identify objects, people, text, activities, or inappropriate content. Our customers have use cases that span every industry, including"
+    publishedDateTime: 2020-10-15T20:01:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 114
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Architecture.jpg"
+        width: 900
+        height: 365
+        isCached: true
+  - title: "Amazon Rekognition adds support for six new content moderation categories"
+    excerpt: "Amazon Rekognition content moderation is a deep learning-based service that can detect inappropriate, unwanted, or offensive images and videos, making it easier to find and remove such content at scale. Amazon Rekognition provides a detailed taxonomy of moderation categories, such as Explicit Nudity,"
+    publishedDateTime: 2020-10-12T19:03:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 105
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "Streamlining data labeling for YOLO object detection in Amazon SageMaker Ground Truth"
+    excerpt: "Object detection is a common task in computer vision (CV), and the YOLOv3 model is state-of-the-art in terms of accuracy and speed. In transfer learning, you obtain a model trained on a large but generic dataset and retrain the model on your custom dataset. One of the most time-consuming parts in transfer"
+    publishedDateTime: 2020-10-14T19:17:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/streamlining-data-labeling-for-yolo-object-detection-in-amazon-sagemaker-ground-truth/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/09/15-Pens-Pencils.jpg"
+        width: 400
+        height: 302
+        isCached: true
+  - title: "IRS, Army using automation to cut hours out of the acquisition process"
+    excerpt: "The use of robotics process automation, natural language processing and other emerging technologies are gaining momentum in the federal acquisition community to move contracting officers away"
+    publishedDateTime: 2020-10-12T21:09:00Z
+    webUrl: "https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/"
+    ampWebUrl: "https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/amp/"
+    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/amp/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 44
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/10/mitchell-winans-2-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "r0SgPIxRhrZjhUBoNa4FA2tejgsyftj5Izs6QYccLmY23RVab7WCW/8UGy9aVkH3dVTemrRDhjg2D+v+tRpJw9STdnH4qEYdu8cI57Kwk/atiIjbbXI45NW7M7n5RZWG4SukxqDOOhxt4/NxJILaN0pUCpFiBbPjEQVWsW0WK2cbKH68Iv/hcjJBp/dgHut4zEyjJmxxxMisY2JQNOVqhItql/FbAcFMBRPMbrdVtZcI1m4Tcf/Iy7BBT+Ffd7LcJEKV3OPoNulqfkfbBN50HGFAOi2S2XjJlqry2pMHLNxGo0g4DDJjzeP/eIQ7BLhbUhXnTxUG2hqvxkvGWStntzsFr0M4R9dj145LtXTWpHQ=;4EO2LjoYNDz6BLUli6OUAA=="
 ---

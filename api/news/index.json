@@ -2,6 +2,267 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-16-cambridge-technology-attains-aws-well-architected-partner-status.md",
+      "title": "Cambridge Technology Attains AWS Well-Architected Partner Status",
+      "excerpt": "AWS Well-Architected Partners have the skills ... IT problems by leveraging its competencies and expertise in Artificial Intelligence, Cloud, Big Data, IoT, DevOps, and SaaS & App Development ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-gm-will-test-fully-driverless-cars-in-sf-later-this-year.md",
+      "title": "GM will test fully driverless cars in SF later this year",
+      "excerpt": "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
+      "originalUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbebd6400-0f2d-11eb-9bfe-e67a76f4a357&client=amp-blogside-v2&signature=4908a2fba8142ca66578860cd136007606108c87",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
+      "publishedDateTime": "2020-10-15T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-nvidia-will-power-the-worlds-most-powerful-ai-supercomputer-leonardo.md",
+      "title": "NVIDIA Will Power the World's Most Powerful AI Supercomputer, Leonardo",
+      "excerpt": "The supercomputer arms race is on, and NVIDIA (NASDAQ:NVDA) is leaving the competition in the dust. Of the world's 500 most powerful supercomputers, NVIDIA graphics processing units (GPUs) or networking equipment (by way of its Mellanox acquisition) can be found in 333 of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595333%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "publishedDateTime": "2020-10-15T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-how-can-artificial-intelligence-help-in-the-fight-to-remain-secure.md",
+      "title": "How can artificial intelligence help in the fight to remain secure?",
+      "excerpt": "Artificial intelligence (AI) has gone from being science fiction to an increasingly common part of our lives. TV streaming services use AI and machine learning (ML) to make recommendations of what you might like to watch next,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357448/how-can-artificial-intelligence-help-in-the-fight-to",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357448/how-can-artificial-intelligence-help-in-the-fight-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815737/itpro/2018/01/shutterstock_ai_artificial_intelligence_security.png",
+          "width": 800,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-processing-auto-insurance-claims-at-scale-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-ground-truth.md",
+      "title": "Processing auto insurance claims at scale using Amazon Rekognition Custom Labels and Amazon SageMaker Ground Truth",
+      "excerpt": "Computer vision uses machine learning (ML) to build applications that process images or videos. With Amazon Rekognition, you can use pre-trained computer vision models to identify objects, people, text, activities, or inappropriate content. Our customers have use cases that span every industry, including",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Architecture.jpg",
+          "width": 900,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T13:01:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-google-details-how-its-using-ai-and-machine-learning-to-improve-search.md",
       "title": "Google details how it’s using AI and machine learning to improve search",
       "excerpt": "During a livestreamed event today, Google announced new ways it's applying AI and machine learning to improve the Google Search experience.",
@@ -451,7 +712,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/10/15/worlds-fastest-ai-supercomputer-is-coming-to-italy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -546,6 +807,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-15-machine-learning-uncovers-potential-new-tb-drugs.md",
+      "title": "Machine learning uncovers potential new TB drugs",
+      "excerpt": "Using a machine-learning approach that incorporates uncertainty, MIT researchers identified several promising compounds that target a protein required for the survival of the bacteria that cause tuberculosis.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/gaussian-machine-learning-tb-drug-1015",
+      "originalUrl": "https://news.mit.edu/2020/gaussian-machine-learning-tb-drug-1015",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202010/MIT-MachineLearning-01-Press.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail.md",
       "title": "Commentary: Savitude and StyleSage leverage AI, machine learning in fashion retail",
       "excerpt": "Fashion industry incumbents that have failed to adopt technology to strengthen their business models are at significant risk, particularly as the pandemic accelerates a number of trends.",
@@ -597,7 +910,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -636,7 +949,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -739,8 +1053,8 @@
       "title": "ServiceNow, IBM to integrate Watson AIOps, IT service management",
       "excerpt": "Under this partnership, the two companies will initially launch software that will use ServiceNow's IT Service Management historical incident data to train Watson AIOps algorithms",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
-      "originalUrl": "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
       "featuredContent": null,
       "highlight": null,
       "heat": 124,
@@ -748,8 +1062,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
       "publishedDateTime": "2020-10-15T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -919,288 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-virtual-primary-care-startup-98point6-raises-118m-as-pandemic-sparks-demand-for-digital-health-tech.md",
-      "title": "Virtual primary care startup 98point6 raises $118M as pandemic sparks demand for digital health tech",
-      "excerpt": "Demand is through the roof for Seattle telemedicine startup 98point6. The company, which helps facilitate virtual primary care appointments, has seen its membership base skyrocket 274%",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/",
-      "originalUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/20190502_GeekWire_Awards_1195-630x420-1.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/amp/",
-      "publishedDateTime": "2020-10-15T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform.md",
-      "title": "98point6 nabs $112 million for its AI-powered telemedicine platform",
-      "excerpt": "98point6, a telemedicine startup whose platform pairs clinicians with AI to provide text-based care, today closed a $119 million venture funding round. The company says it will use the proceeds to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/",
-      "originalUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/254d1bd4-41d8-4081-8bc9-2f7cb51956b3-e1585848851613.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/amp/",
-      "publishedDateTime": "2020-10-15T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-biped-robot-maker-agility-raises-20-million.md",
-      "title": "Biped robot maker Agility raises $20 million",
-      "excerpt": "Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out of the lab and into the workplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
-      "originalUrl": "https://www.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701GG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG",
-      "publishedDateTime": "2020-10-15T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-balto-raises-10-million-to-analyze-call-center-conversations-with-ai.md",
-      "title": "Balto raises $10 million to analyze call center conversations with AI",
-      "excerpt": "Balto, a conversational AI startup targeting call centers, has raised $10 million in venture capital to accelerate its go-to-makret strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/amp/",
-      "publishedDateTime": "2020-10-15T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-ai-inevitability-can-we-separate-bias-from-ai-innovation.md",
-      "title": "AI inevitability - can we separate bias from AI innovation?",
-      "excerpt": "AI evangelists pay lip service to solving AI bias - perhaps through better algorithms or other computational means. But is this viable? Is bias in AI inevitable?",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation",
-      "originalUrl": "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-11/shutterstock-StunningArt-1121035637.jpg",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp",
-      "publishedDateTime": "2020-10-15T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-quick-ai-adoption-essential-for-future-of-work-in-india-says-intel.md",
-      "title": "Quick AI adoption essential for future of work in India, says Intel",
-      "excerpt": "Intel said that Artificial Intelligence is essential to the future of work in a post-pandemic world, with over 90% respondents in a survey considering AI to be essential to their businesses in India",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/19/full/1560959403-0446.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
-      "publishedDateTime": "2020-10-15T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

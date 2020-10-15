@@ -32,9 +32,9 @@ related:
   - title: "ServiceNow, IBM to integrate Watson AIOps, IT service management"
     excerpt: "Under this partnership, the two companies will initially launch software that will use ServiceNow's IT Service Management historical incident data to train Watson AIOps algorithms"
     publishedDateTime: 2020-10-15T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
     type: article
     provider:
       name: ZDNet

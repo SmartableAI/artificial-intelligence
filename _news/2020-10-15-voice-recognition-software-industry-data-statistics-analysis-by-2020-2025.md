@@ -43,6 +43,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "World Image Recognition in CPG Market Analysis 2020-2025, by Component, Application, Deployment Mode, End User and Region"
+    excerpt: "The \"Global Image Recognition in CPG Market by Component (Hardware, Solutions, Services), Application (Inventory Analysis, Product & Shelf Monitoring Analysis, Gauging Emotions), Deployment Mode, End User (Online,"
+    publishedDateTime: 2020-10-15T09:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/world-image-recognition-in-cpg-market-analysis-2020-2025-by-component-application-deployment-mode-end-user-and-region-1029682697"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 9
   - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
     excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
     publishedDateTime: 2020-10-12T23:08:00Z

@@ -2,6 +2,100 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-06-teledyne-dalsa-releases-powerful-suite-of-image-processing-and-artificial-intelligence-software.md",
+      "title": "Teledyne DALSA releases powerful suite of image processing and artificial intelligence software",
+      "excerpt": "Teledyne DALSA, a Teledyne Technologies [NYSE:TDY] company and global leader in machine vision, is pleased to announce Sapera™ Vision Software Edition 2020-09 is now available. The latest Sapera Vision Software suite includes Sapera Processing and the new Astrocyte TM graphical application for artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/teledyne-dalsa-releases-powerful-suite-of-image-processing-and-artificial-intelligence-software-1029651817",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/teledyne-dalsa-releases-powerful-suite-of-image-processing-and-artificial-intelligence-software-1029651817",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-tipalti-raises-150-million-to-automate-payment-workflows-with-ai.md",
+      "title": "Tipalti raises $150 million to automate payment workflows with AI",
+      "excerpt": "Payments automation company Tipalti has raised $150 million at a $2 billion valuation to further expand its global workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/04/rendered.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/amp/",
+      "publishedDateTime": "2020-10-06T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results.md",
       "title": "Xbox Series X’s machine-learning auto-HDR renders stunning results",
       "excerpt": "Xbox Series X and S can apply this effect to games that launched before television HDR was even invented. I’ve tested auto-HDR in a number of backward compatible games on a preview version of the Xbox Series X hardware.",
@@ -1095,100 +1189,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi.md",
-      "title": "Must protect world against weaponisation of artificial intelligence: PM Modi",
-      "excerpt": "Speaking at the Raise 2020 conference, he said AI has a big role to play in sectors like agriculture, creating next generation urban infrastructure and making disaster management systems stronger.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/nation/2020/oct/05/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi-2206174.html",
-      "originalUrl": "https://www.newindianexpress.com/nation/2020/oct/05/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi-2206174.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/25/w600X390/PTI25-03-2020_00022.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/nation/2020/oct/05/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi-2206174.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2020/oct/05/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi-2206174.amp",
-      "publishedDateTime": "2020-10-05T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals.md",
-      "title": "Nvidia introduces Ampere-based RTX A6000 GPU for professionals",
-      "excerpt": "Nvidia held its GPU Technology Conference, or GTC, and it unveiled a ton of new technologies and capabilities at the event, including a new Ampere-based professional GPU, the RTX A6000.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals",
-      "originalUrl": "https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/10/1601908637_quadro-rtx-a6000_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/",
-      "publishedDateTime": "2020-10-05T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

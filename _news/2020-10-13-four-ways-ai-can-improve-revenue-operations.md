@@ -56,7 +56,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 84
+    quality: 86
   - title: "Omdia identifies a key shift from cloud-based AI-solutions to AI at the Edge"
     excerpt: "Leading analyst house Omdia has today released its latest report identifying the key areas for growth for AI-at-the-Edge. 'Connecting The Dots: AI at the Edge' has found that more compute is needed at edge locations to manage and support new and proliferating latency-sensitive IoT devices and software technologies that are analysing an increasing amount of data."
     publishedDateTime: 2020-10-13T15:40:00Z

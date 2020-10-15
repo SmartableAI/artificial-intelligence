@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-10-facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says.md",
+      "title": "Facebook can’t catch misinformation it’s already identified as false, activist group says",
+      "excerpt": "With less than four weeks to go before a pivotal US election, Facebook has sought to reassure the public it has learned from its 2016 mistakes. On Wednesday, the company rolled out a new policy against voter intimidation and announced it will temporarily suspend political ads after polls close on Election Day.",
+      "sourceUrl": null,
+      "webUrl": "https://kesq.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/",
+      "originalUrl": "https://kesq.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png",
+          "width": 280,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KESQ News",
+        "domain": "kesq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics.md",
+      "title": "PlayStation founder Ken Kutaragi has started a new career in robotics",
+      "excerpt": "Ken Kutaragi, the former Sony executive widely credited as ‘The Father of PlayStation’, has started a new career in the robotics industry. Since late August Kutaragi has been working as the CEO of Tokyo’s Ascent Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/",
+      "originalUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogameschronicle.com/files/2020/10/np_file_43360.jpeg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/amp/",
+      "publishedDateTime": "2020-10-09T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Video Games Chronicle",
+        "domain": "videogameschronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-taught-by-ai-these-drones-can-perform-incredible-aerial-acrobatics.md",
       "title": "Taught by AI, these drones can perform incredible aerial acrobatics",
       "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
@@ -613,34 +699,34 @@
     {
       "path": "_news/2020-10-09-ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals.md",
       "title": "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals",
-      "excerpt": "Those solutions, which are currently under development, will leverage IBM's suite of analytics tools to process in-match data, adding Watson's AI capabilities through the use of Watson Machine ...",
+      "excerpt": "IBM's Watson artificial intelligence, and machine learning Through the course of the deal, IBM and the Overwatch League plan to leverage IBM's suite of advanced cloud and AI products. Starting in ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting/article_e5d1c22b-cc99-5de0-accc-251c39e035e0.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting/article_e5d1c22b-cc99-5de0-accc-251c39e035e0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315",
-      "publishedDateTime": "2020-10-08T21:11:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T21:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1075,110 +1161,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service.md",
-      "title": "Enhanced computer vision, sensors raise manufacturing stakes for robots as a service",
-      "excerpt": "Firms developing computer vision technology for standard robots, developments in 3D vision and so-called “Robots as a Service” are defining the next wave of automation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1220591821.jpg?w=1000",
-          "width": 1000,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/",
-      "publishedDateTime": "2020-10-08T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-these-ai-generated-resumes-will-make-your-job-search-even-more-painful.md",
-      "title": "These AI-generated resumes will make your job search even more painful",
-      "excerpt": "The result is Almost Real Resume, a website that spits out an endless stream of fake career highlights for tech job candidates. It gives you a new name, contact details, personal statement, work experience,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-08T162316.764-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/amp/",
-      "publishedDateTime": "2020-10-08T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,108 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-09-17-lutherai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations.md",
+      "title": "Luther.AI is a new AI tool that acts like Google for personal conversations",
+      "excerpt": "When it comes to pop culture, a company executive or history questions, most of us use Google as a memory crutch to recall information we can’t always keep in our heads, but Google can’t help you remember the name of your client’s spouse or the great idea you came up with at a",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/",
+      "originalUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2020-09/16/5f62658d2be1612af543ea3d/5f6265e48a54cc704a8a71ba_o_U_v1.jpg?w=550&h=310",
+          "width": 550,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/amp/",
+      "publishedDateTime": "2020-09-16T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai.md",
+      "title": "Do Algorithms Dreams Of Electric Speech? What Virtual Philip K. Dick Can Teach Us About AI",
+      "excerpt": "\"It seems to me that it is really impossible that it could be me.\" What can a conversation between a virtual Philip K Dick and Dr. Ben Goertzel, one of the world's leading AI researchers, teach us about the playful nature of advanced AI development?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f62530595ae669ac72329e4%2F0x0.jpg",
+          "width": 1200,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/amp/",
+      "publishedDateTime": "2020-09-16T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-7-self-driving-car-companies-racing-to-gains.md",
       "title": "7 Self-Driving Car Companies Racing to Gains",
       "excerpt": "Editor’s Note: This article was updated on Sept. 18, 2020, to correct the road fatality statistic. Self-driving car companies hit a major pothole earlier this year. Long a favorite of tech ...",
@@ -1098,101 +1200,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-trial-backs-lillys-olumiant-plus-remdesivir-as-combo-covid-19-therapy.md",
-      "title": "Trial backs Lilly’s Olumiant plus remdesivir as combo COVID-19 therapy",
-      "excerpt": "Eli Lilly says rheumatoid arthritis drug Olumiant helps speed COVID-19 recovery when added to Gilead's remdesivir by around 1 day. Will discuss emergency use with FDA",
-      "sourceUrl": null,
-      "webUrl": "https://pharmaphorum.com/news/trial-backs-lillys-olumiant-plus-remdesivir-as-combo-covid-19-therapy/",
-      "originalUrl": "https://pharmaphorum.com/news/trial-backs-lillys-olumiant-plus-remdesivir-as-combo-covid-19-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pharmaphorum.com/wp-content/uploads/2016/06/LillYLOGO.jpg",
-          "width": 1800,
-          "height": 987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pharmaphorum.com",
-        "domain": "pharmaphorum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-baidu-apollo-head-says-technical-issues-and-high-costs-likely-to-delay-full-roll-out-of-robotaxis-until-2025.md",
-      "title": "Baidu Apollo head says technical issues and high costs likely to delay full roll-out of robotaxis until 2025",
-      "excerpt": "At the Baidu World event, the company also unveiled a fully-autonomous driving vehicle without a safety driver in a live demonstration, where a remote control was used, connected",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/16/d3e3d840-f7dc-11ea-a41c-8cbd1416100a_image_hires_151856.JPG?itok=T_fg0rL_&v=1600240743",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
-      "publishedDateTime": "2020-09-16T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

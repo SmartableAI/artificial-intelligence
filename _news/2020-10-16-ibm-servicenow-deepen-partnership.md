@@ -34,9 +34,9 @@ related:
   - title: "ServiceNow, IBM to integrate Watson AIOps, IT service management"
     excerpt: "Under this partnership, the two companies will initially launch software that will use ServiceNow's IT Service Management historical incident data to train Watson AIOps algorithms"
     publishedDateTime: 2020-10-15T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
     type: article
     provider:
       name: ZDNet
@@ -85,6 +85,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "2wHzXox4INfIPvpIFakRprFElt2sMFZaOZz9uCmh32qb3aAsUltC/T6TLnXEIysy94eQtZVVl1uTxI8N368ye07QaBW7Qx+cikwg3zIMQ0KzHJvqiib1+CzOsjfCx7P1TbEJGalJRJ5ebQSjNEBchLOX/bYNtWt4XWx3MnuDpY/sdz4VCTrMoBNr4+ZGB7gyJ0bGJ7ATH9/UvW8ScqIa7b634iASSf0B5Iqpy5Zv+J72GAcJRaskJ9yahfUHM0Ajq9JP7qob1Y+H3fxSIUilBepv14X7aYHcdNCDJcGbPCkJyG/BGNkwvR19lAIhgOkMBFR02ACdjov2kMsHO7D9d4MuZPzKQ58mZIny1lIAVnY=;13/uRirsPuK4b73DQqK84w=="
+secured: "G8km7JXpNjlzv+R1o3JLNdlKrRvkWrh98HN3WJy9fIaWItQ9/WqZGV5XEbwiDKGWJSPGNSYHgPqq7IbvSorvj67rL9v+i2eICi96Lxs7SPktp6B8UeryYttPamcAM3c7Y9OYJxWvb1hpcbNaYyrPFAFYxbsEviweeYG8AN89tO6dKJE3Ezp4U9Ojamv1uymjd7u5swGBy7B8Qpmc5xdQ6mQk1BbTOmCbWi/Yel4JO/r3edgS98dZH5mIZM5JEOFLSnez2eplfECWCLxfQjp/Kr+7RexOhBF61C3DPxMQabgpSH8c8fTKkizCogabHDYqrb5dfSDuRL7XV+nWsXlX9+7ZU99upLCG3W/ZiSrO726diezU82MA60YICDYUR5+Prr5lhNBm0bMT7zgtsrCZoYJWx79g8+GyPb9cNZzQ6kXZfR1Hg/rr28m25MPE3K1W6+/atej2loPJDlaLji34tdSj206+yBn14GEEY5XSBY+20I+R1FrUTSQZslWTsaXGzvDNLwIK0cx6QAbuhWU8Lw==;srrphJwmVo3phcU9ZYX6Uw=="
 ---
 

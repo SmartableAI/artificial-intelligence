@@ -2,6 +2,157 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-12-the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks.md",
+      "title": "The state of AI in 2020: Biology and healthcare's AI moment, ethics, predictions, and graph neural networks",
+      "excerpt": "Research and industry breakthroughs, ethics, and predictions. This is what AI looks like today, and what it's likely to look like tomorrow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
+      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/10/12/fff374f0-59d9-4c75-8931-70212d1b7506/fda-ml.png",
+          "width": 860,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
+      "publishedDateTime": "2020-10-12T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare",
+        "AI Hardware",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-shrinking-the-data-desert-inside-efforts-to-make-ai-systems-more-inclusive-of-people-with-disabilities.md",
+      "title": "Shrinking the ‘data desert’: Inside efforts to make AI systems more inclusive of people with disabilities",
+      "excerpt": "The post Shrinking the ‘data desert’: Inside efforts to make AI systems more inclusive of people with disabilities appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
+      "originalUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/VizWiz_val_00002306-2-1920x1080-1-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T07:45:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-artificial-intelligence-to-hasten-covid-19-detection.md",
+      "title": "Artificial intelligence 'to hasten Covid-19 detection'",
+      "excerpt": "A JAPANESE technology, dubbed \"Genki Medical Imaging,\" is seen to help speed up detection of coronavirus in individuals.The technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sunstar.com.ph/article/1873243/Baguio/Local-News/Artificial-intelligence-to-hasten-Covid-19-detection",
+      "originalUrl": "https://www.sunstar.com.ph/article/1873243/Baguio/Local-News/Artificial-intelligence-to-hasten-Covid-19-detection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sunstar.com.ph/themes/sunstar/images/no-image-sunstar.png",
+          "width": 700,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sunstar.com.ph/ampArticle/1873243",
+      "cdnAmpWebUrl": "https://www-sunstar-com-ph.cdn.ampproject.org/c/s/www.sunstar.com.ph/ampArticle/1873243",
+      "publishedDateTime": "2020-10-12T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sun Star",
+        "domain": "sunstar.com.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-tesla-to-launch-full-self-driving-beta-to-select-drivers-next-week.md",
       "title": "Tesla to launch Full Self Driving beta to select drivers next week",
       "excerpt": "Tesla CEO Elon Musk said on Monday the company will launch its next-gen Full Self Driving (FSD) set of features to \"a small number of people who are expert & careful drivers.\" The beta will become ...",
@@ -10,7 +161,7 @@
       "originalUrl": "https://mashable.com/article/tesla-fsd-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -434,49 +585,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-12-baidus-driverless-taxis-hit-beijing-streets-with-free-unbooked-test-rides.md",
-      "title": "Baidu’s Driverless Taxis Hit Beijing Streets, With Free, Unbooked Test Rides",
-      "excerpt": "Chinese tech firm Baidu’s self-driving taxi service Apollo GO went into operation in Beijing yesterday. Users can order free test rides of the service at cab ranks in the city’s western Haidian and southern Yizhuang hi-tech districts without reservations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/baidu-driverless-taxis-hit-beijing-streets-with-free-unbooked-test-rides",
-      "originalUrl": "https://www.yicaiglobal.com/news/baidu-driverless-taxis-hit-beijing-streets-with-free-unbooked-test-rides",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/baidu-driverless-taxis-hit-beijing-streets-with-free-unbooked-test-rides/8546190089781248.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-12-can-facial-recognition-tech-boost-asias-biometric-acceptance.md",
       "title": "Can facial recognition tech boost Asia’s biometric acceptance?",
       "excerpt": "Biometric facial recognition technology is becoming increasingly accepted, including in Southeast Asia where it has shown potential.",
@@ -581,7 +689,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1138,92 +1246,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says.md",
-      "title": "Facebook can’t catch misinformation it’s already identified as false, activist group says",
-      "excerpt": "With less than four weeks to go before a pivotal US election, Facebook has sought to reassure the public it has learned from its 2016 mistakes. On Wednesday, the company rolled out a new policy against voter intimidation and announced it will temporarily suspend political ads after polls close on Election Day.",
-      "sourceUrl": null,
-      "webUrl": "https://kesq.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/",
-      "originalUrl": "https://kesq.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png",
-          "width": 280,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KESQ News",
-        "domain": "kesq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics.md",
-      "title": "PlayStation founder Ken Kutaragi has started a new career in robotics",
-      "excerpt": "Ken Kutaragi, the former Sony executive widely credited as ‘The Father of PlayStation’, has started a new career in the robotics industry. Since late August Kutaragi has been working as the CEO of Tokyo’s Ascent Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/",
-      "originalUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogameschronicle.com/files/2020/10/np_file_43360.jpeg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/amp/",
-      "publishedDateTime": "2020-10-09T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Video Games Chronicle",
-        "domain": "videogameschronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

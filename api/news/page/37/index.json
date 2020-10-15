@@ -2,6 +2,100 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-09-14-the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success.md",
+      "title": "The Surprisingly Critical (Yet Often Undervalued) Ingredient For AI Success",
+      "excerpt": "It’s easy to become enamored with ML and AI technologies and all that they can offer, but true success relies on the humans behind the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/amp/",
+      "publishedDateTime": "2020-09-14T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.md",
+      "title": "Chip maker Nvidia takes a $40B chance on Arm Holdings",
+      "excerpt": "Nvidia's deal to buy Arm would launch the processor maker as a world-class power with reach into servers and cell phones - if regulators allow it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
+      "originalUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/gamble_chance_risk_chips_thinkstock_490734911-100749268-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html",
+      "publishedDateTime": "2020-09-14T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-amazon-google-and-microsoft-take-their-clouds-to-the-edge.md",
       "title": "Amazon, Google, and Microsoft take their clouds to the edge",
       "excerpt": "As enterprises ramp up edge computing deployments, the big three clouds are ponying up a surprising array of edge options for a broad range of needs.",
@@ -1093,111 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-machine-learning-market-analysis-size-share-growth-trends-and-forecast.md",
-      "title": "Machine learning Market Analysis, Size, Share, Growth, Trends, and Forecast",
-      "excerpt": "The Global Machine learning market report provides an in-depth analysis of the Global Machine learning market during",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-analysis-size-share-growth-trends-and-forecast-2020-09-13?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-analysis-size-share-growth-trends-and-forecast-2020-09-13?mod=mw_quote_news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-north-america-self-driving-car-market-global-industry-analysis-size-share-growth-trends-and-forecast.md",
-      "title": "North America Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast",
-      "excerpt": "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-self-driving-car-market---global-industry-analysis-size-share-growth-trends-and-forecast-2020-09-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-self-driving-car-market---global-industry-analysis-size-share-growth-trends-and-forecast-2020-09-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

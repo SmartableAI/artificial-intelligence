@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Sponsored: Move the world with Motional. The leading self-driving car company is hiring in Pittsburgh"
+    excerpt: "Motional, a global leader in driverless technology, is looking for new team members to bring some of the most cutting-edge innovation to the world."
+    publishedDateTime: 2020-10-13T14:07:00Z
+    webUrl: "https://nextpittsburgh.com/from-our-sponsors/sponsored-move-the-world-with-motional-the-leading-self-driving-car-company-is-hiring-in-pittsburgh/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 9
+    images:
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2020/10/13085858/Employee-Photo_1.jpg"
+        width: 700
+        height: 467
+        isCached: true
+
 secured: "uPaawr08tclalcYgBaHZ5DDsvoHDKYCuBkFJxKcG4giGyB66veP1M+Lw0xFwmJwg7IuK0QWfJXBHXx4PbwSWrTXwEnOO5voAeNPeNzE3074jujFZMXNA2MWQ8qYehcdcqDLdT4/G9ptbVp6HcOVqzyjUi3kcIqO0T6qwceWsjGeb4qI8Ams4qErNqs+fECrbarqm7eqwdzM7L5RZvgNHIICe7C/IaFsjR/j5PJgKfDaJaTlam5b7LqN6KXRi8ldmuDKdZ39nwCzWEF5EcI5kSWgOTCYHWh90VZ/u9fAQTpvhr9K5OfQf4Eqej6wUBsp2bWxSrUjhuybuXivGUV2HXaaTa9Wv5f8G9kbrbelqSHXOhn0xOLfPX4kv3XpLXzwXZJ0jOqA2T/OSkZ9gaA3x+pW28n/xm1ISg8c7jRHtCEGS+e2GTdO0UVoty23T5W9+jy4Wnqox2BkG2OIgKe4v2RMOLEVsayvYv9lpBfu+mS7slb1VWnbyEWZt3XA1/bfoSL+fGMoFIxkDx2hgZNzR/w==;MczoZKd+Ck5KooOrBTVenQ=="
 ---
 

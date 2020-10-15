@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-04-yandex-restructures-self-driving-business.md",
+      "title": "Yandex Restructures Self-Driving Business",
+      "excerpt": "04, 2020 (GLOBE NEWSWIRE) -- Yandex N.V. (NASDAQ and MOEX: YNDX) and Uber today entered into agreements to spin off the self-driving vehicles business, Yandex Self Driving Group B.V. (“Yandex ...",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/business/consumer/yandex-restructures-self-driving-business/article_6afbd278-39a3-5fe8-bf20-8f0f1ebbd808.html",
+      "originalUrl": "https://omaha.com/business/consumer/yandex-restructures-self-driving-business/article_6afbd278-39a3-5fe8-bf20-8f0f1ebbd808.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-04T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco.md",
       "title": "Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco",
       "excerpt": "Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do.",
