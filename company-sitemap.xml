@@ -601,12 +601,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/company/bluehexagon.ai/</loc>
-    <lastmod>2020-10-12T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/ai/company/brainomix/</loc>
     <lastmod>2020-10-12T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -800,6 +794,12 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/viz.ai/</loc>
+    <lastmod>2020-10-12T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/company/bluehexagon.ai/</loc>
     <lastmod>2020-10-12T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
