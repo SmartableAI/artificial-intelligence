@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Alation Named a Leader in Machine Learning Data Catalogs Report by Independent Global Research Firm"
-excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, has been named a Leader in the “The Forrester Wave™: Machine Learning Data Catalog"
-publishedDateTime: 2020-10-14T15:48:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201014005579/en/"
-webUrl: "https://www.businesswire.com/news/home/20201014005579/en/"
+excerpt: "Received top score in strategy category and highest possible scores in 26 criteria including machine learning Alation Inc., the leader in enterprise data intelligence"
+publishedDateTime: 2020-10-14T13:22:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/b17902825/alation-named-a-leader-in-machine-learning-data-catalogs-report-by-independent-global-research-fir"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/b17902825/alation-named-a-leader-in-machine-learning-data-catalogs-report-by-independent-global-research-fir"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17902825"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17902825"
 type: article
-quality: 5
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
@@ -34,6 +36,6 @@ related:
         height: 1132
         isCached: true
 
-secured: "fCZ0scAlE1KUrpV6CTYJ6Ob6S8EWPu7P/FJhe1aZAgv5tjyrw0crkh3iI7JWaHlDABrlcWDtii1xF68FaLdf+0IRzleXaixMPpzLnpupnzUHG1ZjXajl1/zg2pYiRNFUyicyfPcZUB+ehG8tU11ED3fN+IG5K7+P4bjCwIevnQh2wSOZL7RVhH0pbAfXaYQgLxKhx9exFEJjJf3to2aOaj3kdnSxxZyWWq0drfgA7kNI/UktmxrH/YYZzobvBMNEsATIff3AR9EGeWqJxOvVF3zdTdfq9wgc/jDZ069fW7pTF2kLS+FS5W4AeMDYBeMXpo+6z0XiIV3TboJ4R+x8VYLfDP9fu4ypEbagOsdiOA0=;6ui0Kg0ChkWSnVdEvPwedw=="
+secured: "CI13pf1wI+omkC6/SAx+dDn9CQ3d8wEbZHS7SMe/86AnuVUVyPN5oDuVHrJMonuU6KMclbOfMDvG+FnLsPJ3ZiJM4769VUJStFZ4K3Mvt5+ISZJ1AE2GL/7biGzBbqsL8gztgX69VunxttAi8GWKyeOuIJLUUdLYUxRB7c2plZMOHpIDagUPHEKSCL4rv9efTHziDWBDo7vk9AmjSndYsOuHZolR5ko2l7OQV9MalytpG0JF1Nuz13r2749Xzd32v3KzPerCg/F+iSEYOw/Flv+/k1w0LsBLxHkM8atg+k4jU0MVAz975M4YGoaH4kWJvRH6KOIiu8/yZkfVbIe+0gnCxXc4qMK3F1laI8YrCyU=;OGeTGvKZeQOCuvfKPRIerw=="
 ---
 

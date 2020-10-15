@@ -2,6 +2,91 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-13-bernard-marr-what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence.md",
+      "title": "Bernard Marr: What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence?",
+      "excerpt": "LinkedIn has ranked Bernard as one of the world’s top 5 business influencers. He is a frequent contributor to the World Economic Forum and writes a regular column for Forbes. Every day Bernard actively engages his 1.5 million social media followers and ...",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/BernardMarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/bernard-marr-what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence/ar-BB19XKVy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "twitter.com/bernardmarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
+        "domain": "twitter.com/bernardmarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia.md",
+      "title": "Drone maker Delair spins out its computer vision platform to create Alteia",
+      "excerpt": "In a recognition of how the drone business has shifted in recent years, Delair announced today that it will spin out its drone-data platform into a separate company called Alteia. The new company ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/",
+      "originalUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/Delair.ai_Tablet-e1602535031922.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/amp/",
+      "publishedDateTime": "2020-10-12T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-new-bbc-microbit-supports-ai-and-machine-learning-adds-speaker-and-microphone.md",
       "title": "New BBC micro:bit supports AI and machine learning, adds speaker and microphone",
       "excerpt": "(Pocket-lint) - The BBC micro:bit is a clever little piece of technology designed to help people learn to code on the small scale. The original was launched in 2016 - with 5 million in use across 60 countries - and there's a new version 2 that's going to be available from mid-November.",
@@ -251,7 +336,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1135,101 +1220,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-robotic-interviews-machine-learning-and-the-future-of-workforce-recruitment.md",
-      "title": "Robotic Interviews, Machine Learning And the Future Of Workforce Recruitment",
-      "excerpt": "These would affect all aspects of HR functions such as the way HR professionals on-board and hire people, and the way they train them",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357593",
-      "originalUrl": "https://www.entrepreneur.com/article/357593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602496955-artificial-intelligence-2167835.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357593",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357593",
-      "publishedDateTime": "2020-10-12T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-data-analysts-learn-how-to-use-python-r-deep-learning-more-in-these-online-courses.md",
-      "title": "Data analysts: Learn how to use Python, R, deep learning, more in these online courses",
-      "excerpt": "The Deep Learning & Data Analysis Certification Bundle will help you take your analytical skills to the next level so you can land the best and most lucrative positions in your field, and it's available today for over 95% off at just $39.99. With eight ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/data-analysts-learn-how-to-use-python-r-deep-learning-more-in-these-online-courses/",
-      "originalUrl": "https://www.techrepublic.com/article/data-analysts-learn-how-to-use-python-r-deep-learning-more-in-these-online-courses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/data-analysts-learn-how-to-use-python-r-deep-learning-more-in-these-online-courses/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/data-analysts-learn-how-to-use-python-r-deep-learning-more-in-these-online-courses/",
-      "publishedDateTime": "2020-10-12T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

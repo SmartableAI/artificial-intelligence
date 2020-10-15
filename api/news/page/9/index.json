@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-06-artificial-intelligence-to-empower-agriculture-healthcare-and-education-pm-at-raise-2020.md",
+      "title": "Artificial intelligence to empower agriculture, healthcare and education: PM at RAISE 2020",
+      "excerpt": "Prime Minister Narendra Modi inaugurated RAISE 2020, a mega virtual summit on artificial intelligence, and spoke about how technology can empower sectors",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/",
+      "originalUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/04/artificial-intelligence-4625878_640-1.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/amp/",
+      "publishedDateTime": "2020-10-05T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.md",
+      "title": "Artificial intelligence should not become weapon of non-state actors: PM Modi at RAISE 2020",
+      "excerpt": "Inaugurating a five-day global virtual summit on artificial intelligence (AI), Responsible AI for Social Empowerment or RAISE 2020, Prime Minister Narendra Modi highlighted how the use of AI will empower India and also warned against the pitfalls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsx.com/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
+      "originalUrl": "https://www.newsx.com/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newsx.com/wp-content/uploads/2020/09/narendra-modi-106034-k931Sjej.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsx.com/amp/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
+      "cdnAmpWebUrl": "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
+      "publishedDateTime": "2020-10-05T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NewsX",
+        "domain": "newsx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-for-mukesh-ambani-ai-is-indispensable-to-indias-digital-destiny.md",
       "title": "For Mukesh Ambani, AI is indispensable to India’s “digital destiny”",
       "excerpt": "Data is the raw material for artificial intelligence. Intelligent data is digital capital. It is a vital national resource.",
@@ -294,49 +380,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-06-explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist.md",
-      "title": "Explainable-AI (Artificial Intelligence - XAI) Image Recognition Startup Won US Air Force Space Challenge Competition, as a Finalist",
-      "excerpt": "POTOMAC, Md., Oct. 5, 2020 /PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, has won the prestigious \"Engage-Space Challenge\" competition by the US Air Force (managed by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-9361661",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-9361661",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-05-evaluating-an-automatic-speech-recognition-service.md",
       "title": "Evaluating an automatic speech recognition service",
       "excerpt": "Over the past few years, many automatic speech recognition (ASR) services have entered the market, offering a variety of different features. When deciding whether to use a service, you may want to evaluate its performance and compare it to another service. This evaluation process often analyzes a service",
@@ -586,6 +629,48 @@
         "AI in Healthcare",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist.md",
+      "title": "Explainable-AI (Artificial Intelligence - XAI) Image Recognition Startup Won US Air Force Space Challenge Competition, as a Finalist",
+      "excerpt": "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, has won the prestigious \"Engage-Space Challenge\" competition by the US Air Force",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence---xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-301145180.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence---xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-301145180.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1306837/ZAC_fig_for_PR_5Oct2020.jpg?p=facebook",
+          "width": 2339,
+          "height": 1226,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1102,91 +1187,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-nvidia-pledges-to-build-britains-largest-supercomputer-following-40-billion-bid-for-arm.md",
-      "title": "Nvidia pledges to build Britain’s largest supercomputer following $40 billion bid for Arm",
-      "excerpt": "Nvidia has announced plans to build a £40 million ($52 million) supercomputer in Cambridge, England, weeks after saying it intends to buy British rival Arm for $40 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-      "originalUrl": "https://www.msn.com/en-us/money/companies/nvidia-pledges-to-build-britain-s-largest-supercomputer-following-40-billion-bid-for-arm/ar-BB19IxkS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106729864-1601898836598-Cambridge-1__002.jpg?v=1601898919",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-      "publishedDateTime": "2020-10-05T06:01:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-        "domain": "com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working-and.md",
-      "title": "NVIDIA Announces Cloud-AI Video-Streaming Platform to Better Connect Millions Working and ...",
-      "excerpt": "NVIDIA today announced the NVIDIA Maxine platform, which provides developers with a cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video — the internet’s No.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-cloud-computing-eea824f1038c940ab802e5a9865893bd",
-      "originalUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-cloud-computing-eea824f1038c940ab802e5a9865893bd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

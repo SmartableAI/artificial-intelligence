@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Binary Classification Using PyTorch: Defining a Network"
-excerpt: "Dr. James McCaffrey of Microsoft Research tackles how to define a network in the second of a series of four articles that present a complete end-to-end production-quality example of binary classification using a PyTorch neural network, including a full ..."
-publishedDateTime: 2020-10-14T21:24:00Z
-originalUrl: "https://visualstudiomagazine.com/Articles/2020/10/14/pytorch-define-network.aspx?p=1"
-webUrl: "https://visualstudiomagazine.com/Articles/2020/10/14/pytorch-define-network.aspx?p=1"
+excerpt: "Their values must be determined by trial and error guided by experience. The term \"AutoML\" is sometimes used for any system that programmatically, to some extent, tries to determine good hyperparameter values. More hidden layers and more hidden nodes is ..."
+publishedDateTime: 2020-10-14T20:52:00Z
+originalUrl: "https://visualstudiomagazine.com/articles/2020/10/14/pytorch-define-network.aspx"
+webUrl: "https://visualstudiomagazine.com/articles/2020/10/14/pytorch-define-network.aspx"
 type: article
 quality: 41
 heat: 41
@@ -25,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "xTnf48Axdd0KW0eDVqv55tqcHGiPmLa3z4ZwJJlsxYudUHyVcQY0c5fb73xtAKDQjZGVJHgv1oe5LD3HWweGuat0hhBuxRh1prbakPqQgf2CuN5GevW0g+cGsqnRArzA88+3pDIfDvKdLeg8187EufnXDyg5Rupn6S0xzoo18DuvwG8wkZcc7dVby0gejCGVB+OUJTU5KI9pCHfKz7gq5evp6BaELmSPo5torxdym2+xOw8BZ2FVFekGO7rsT7LiQbR8Ughab5oAdrSP1HbNj16z4/bGBnnXKFWWaOXFKjxYs0+T2wvJIT7NtISN+EF7DsEmmAob4BpVXG5XpprKiAUddOmFejxidcoq8u/BllY=;3UnfokuygEK9JZCc7Smqhg=="
+secured: "KPzTrkpnty4M74CgaD88KKfi+lIDXEUDmcdL+mdozoJESbvApBAT5TnTIYm6UOPs5zs0k9EN6Nb3LkHjD/ti/byYmBVbBpoSKOUa+S80R0qwI5QeMhAro4auT/BDUjt7bQEodiILcxGCK3pW0neSGWm7KhgqZf0drs9IzE9ZBBBqx3Kc9MVPaEsXJuIoyMxLSrjHw8NALXHjt2rb09i2PpDgTMfJT4SIw4soRImagfFmL6YAZmgHcY8iAnLp5BoA4elz5+GmUIjq4fXOTWTOSohRZbZbaq6im+791AlRLH1PLeqPNKeuOcTsSTalewE/w02vt0QFGa/3hedmG5yofImfxVQisnLNbj8V6ea3cEE=;2ZwIX3OaV05ymkRcVuDucg=="
 ---
 

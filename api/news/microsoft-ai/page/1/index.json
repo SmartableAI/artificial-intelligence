@@ -62,7 +62,7 @@
       "originalUrl": "https://blogs.microsoft.com/ai/azure-image-captioning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -557,19 +557,19 @@
     {
       "path": "_news/2020-10-01-sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale-on-azure.md",
       "title": "Sycomp launches an unmatched cloud data experience with Sycomp Storage Fueled by IBM Spectrum Scale on Azure",
-      "excerpt": "Sycomp today introduces the first IBM Spectrum Scale solution on Azure. Sycomp Storage Fueled by IBM Spectrum Scale, a new cloud storage",
+      "excerpt": "Sycomp today introduces the first IBM Spectrum Scale solution on Azure. Sycomp Storage Fueled by IBM Spectrum Scale, a new cloud storage solution now available on the Microsoft Azure Marketplace. Sycomp Storage Fueled by IBM Spectrum Scale enables organizations to utilize different storage tiers,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale/article_d6d52ced-9668-5c43-825d-e0bcaf90702a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale/article_d6d52ced-9668-5c43-825d-e0bcaf90702a.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-cloud-computing-it-conglomerates-information-technology-2c24e5e9c07ed40ce3b962089e8df224",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-cloud-computing-it-conglomerates-information-technology-2c24e5e9c07ed40ce3b962089e8df224",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/79/279ff7f9-501f-5469-ae1c-7e43ac3af324/5f75f6281233c.image.jpg?resize=400%2C302",
-          "width": 400,
-          "height": 302,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -579,11 +579,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T08:23:00-07:00",
+      "publishedDateTime": "2020-10-01T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -595,6 +595,59 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-astrazeneca-is-using-pytorch-powered-algorithms-to-discover-new-drugs.md",
+      "title": "AstraZeneca is using PyTorch-powered algorithms to discover new drugs",
+      "excerpt": "Combining PyTorch with Microsoft Azure Machine Learning, AstraZeneca's technology can comb through massive amounts of data to gain new insights about the complex links between drugs, diseases ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/astrazeneca-is-using-pytorch-powered-algorithms-to-discover-new-drugs/",
+      "originalUrl": "https://www.zdnet.com/article/astrazeneca-is-using-pytorch-powered-algorithms-to-discover-new-drugs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/18/98d3b8f1-e85b-4a80-b8d1-3e1e98d6727b/thumbnail/1200x675/a149f22109b892c62588d4d67f218f5e/20200814-owen-karen-weeds.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/astrazeneca-is-using-pytorch-powered-algorithms-to-discover-new-drugs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/astrazeneca-is-using-pytorch-powered-algorithms-to-discover-new-drugs/",
+      "publishedDateTime": "2020-09-30T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1370,58 +1423,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-how-microsoft-flight-simulator-became-a-living-game-with-azure-ai.md",
-      "title": "How 'Microsoft Flight Simulator' became a 'living game' with Azure AI",
-      "excerpt": "Flight Simulator is a triumph, one that fully captures the meditative experience of soaring through the clouds. But to bring the game to life,  and developer As",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api",
-      "originalUrl": "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F92036cb1-ff61-11ea-bf3e-731546a38c60&client=amp-blogside-v2&signature=ffe8a2b4c0f922e4dd987dfb384f0ddaa42ed397",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -114,7 +114,7 @@
       "originalUrl": "https://www.wsj.com/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -324,7 +324,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1280,19 +1280,19 @@
     {
       "path": "_news/2020-10-01-aws-announces-general-availability-of-amazon-timestream.md",
       "title": "AWS Announces General Availability of Amazon Timestream",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications that can scale to process trillions of time series events per day up to 1,",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Timestream, a new time seri",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-business-amazoncom-inc-corporate-news-building-construction-15b4cac4c728480abae476bdfa6d82af",
-      "originalUrl": "https://apnews.com/article/technology-business-amazoncom-inc-corporate-news-building-construction-15b4cac4c728480abae476bdfa6d82af",
+      "webUrl": "https://www.businesswire.com/news/home/20200930006011/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20200930006011/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mms.businesswire.com/media/20200930006011/en/826518/23/AWS_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1302,11 +1302,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T16:15:00-07:00",
+      "publishedDateTime": "2020-09-30T18:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

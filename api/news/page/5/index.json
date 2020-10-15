@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-09-15-important-factors-in-building-a-more-human-centric-ai-application.md",
+      "title": "15 Important Factors In Building A More Human-Centric AI Application",
+      "excerpt": "As the technology behind artificial intelligence evolves, developers must continue to consider one of the primary goals of AI development: to make it more “human” than “artificial.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f37ac272eb96e41c134f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/amp/",
+      "publishedDateTime": "2020-10-09T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-ibm-enters-the-esports-fray-with-overwatch-league-partnership.md",
+      "title": "IBM enters the esports fray with Overwatch League partnership",
+      "excerpt": "IBM has announced its debut into the esports arena through a multi-year deal inked with the Overwatch League.  Esports is roughly described as competitive videogaming, team-based play, and digital tournaments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/",
+      "publishedDateTime": "2020-10-09T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-how-machine-learning-will-boost-5g-network-performance.md",
       "title": "How Machine Learning Will Boost 5G Network Performance",
       "excerpt": "Such a complex network requires a simplified solution, and deploying artificial intelligence (AI) and machine learning (ML) to solve these problems could be the solution carriers need to ensure they remain in control of their networks. AI/ML solutions ...",
@@ -1101,101 +1195,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-ibm-shares-rise-on-plans-to-spin-off-its-it-infrastructure-unit-and-focus-on-the-cloud-business.md",
-      "title": "IBM shares rise on plans to spin off its IT infrastructure unit and focus on the cloud business",
-      "excerpt": "IBM said on Thursday it would spin off its IT infrastructure unit to focus more on cloud computing, a high-margin business that has seen a boost as companies increasingly ramp up their digital shift.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html",
-      "originalUrl": "https://www.cnbc.com/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106365286-1580420465213preview-2.jpg?v=1595268430",
-          "width": 3915,
-          "height": 2534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html",
-      "publishedDateTime": "2020-10-08T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-commentary-can-ai-and-machine-learning-improve-the-economy.md",
-      "title": "Commentary: Can AI and machine learning improve the economy?",
-      "excerpt": "By the time entrenched incumbents awaken to the threats posed by newly developed general purpose technologies (GPTs), a crop of challengers who had no option but to adopt the new GPT at the outset has become powerful enough to threaten the financial stability of an industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy",
-      "originalUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/10/Aoaeh_commentary_100620_1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy/amp",
-      "publishedDateTime": "2020-10-08T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

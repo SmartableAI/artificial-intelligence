@@ -38,6 +38,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "From AI to facial recognition: How China is setting the rules in new tech"
+    excerpt: "HONG KONG/BEIJING • Mr Zhao Houlin is head of the United Nations' telecommunications agency, an independent international arbiter that sets some of the rules shaping the modern technology industry. But that does not stop him from letting his patriotism burst into the open."
+    publishedDateTime: 2020-10-14T22:48:00Z
+    webUrl: "https://www.straitstimes.com/opinion/from-ai-to-facial-recognition-how-china-is-setting-the-rules-in-new-tech-0"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 53
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/10/15/st_20201015_ftsinotechhuiw_6020007.jpg?itok=j1ad5Bac"
+        width: 763
+        height: 509
+        isCached: true
   - title: "SparkCognition Advances the Science of Artificial Intelligence with 85 Patents"
     excerpt: "Since SparkCognition’s inception, we have placed a major emphasis on advancing the science of AI through research – making advancement through innovation a core company value,” said Amir Husain, founder and CEO of SparkCognition,"
     publishedDateTime: 2020-10-12T13:00:00Z

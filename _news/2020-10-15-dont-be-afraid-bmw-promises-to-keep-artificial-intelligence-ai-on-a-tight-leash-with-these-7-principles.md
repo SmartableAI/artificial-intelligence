@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2020/10/bmw-promises-to-keep-artificial-in
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/10/bmw-promises-to-keep-artificial-intelligence-ai-on-a-tight-leash-using-these-7-principles/amp/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1024
     height: 555
     isCached: true
-
-related:
-  - title: "Seven principles for AI: BMW Group sets out code of ethics for the use of artificial intelligence"
-    excerpt: "The use of artificial intelligence (AI) is a central element of the digital transformation process at the BMW Group. The BMW Group already uses AI throughout the value chain to generate added value for customers,"
-    publishedDateTime: 2020-10-12T08:49:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/seven-principles-for-ai-bmw-group-sets-out-code-of-ethics-for-the-use-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 40
 
 secured: "ZxyyP5Tk8oT0/kWuswnHhAHjlqMx8iciqkxZb/LpsNLIXGo0BzkR74sp6Sn9/hdBXcQSMSlom3tUt67VPX1CdlfFDsSI8vbJvuYeCH2LjwXMyIwnM/4Vn0MAMpv15NF042yWiKRZl+QVgZ1elPbwCzfWdvZmXluoEUCp5i1Y3mDRiTX4Nc++hZjdEg5YROKWmvgioMQWoRX8KZzGg6JqZHv8F5JdplLOxhKsJWtMtECmN0C4g8wOJmitlmsFdM3knYHvpgukpBSKzcPonVEDFDKx0FztsApkca92aw3X/fpQr1EPiVoAr8cqYeHsTf62Eopk+C0Oj9spizucIBLfl2+JTpDbrctCuuVOm7aib3M=;WnJ1pKE9Kr1/W3dNjTdpNw=="
 ---

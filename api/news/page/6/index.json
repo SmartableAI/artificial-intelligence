@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-08-ibm-shares-rise-on-plans-to-spin-off-its-it-infrastructure-unit-and-focus-on-the-cloud-business.md",
+      "title": "IBM shares rise on plans to spin off its IT infrastructure unit and focus on the cloud business",
+      "excerpt": "IBM said on Thursday it would spin off its IT infrastructure unit to focus more on cloud computing, a high-margin business that has seen a boost as companies increasingly ramp up their digital shift.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html",
+      "originalUrl": "https://www.cnbc.com/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106365286-1580420465213preview-2.jpg?v=1595268430",
+          "width": 3915,
+          "height": 2534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html",
+      "publishedDateTime": "2020-10-08T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-commentary-can-ai-and-machine-learning-improve-the-economy.md",
+      "title": "Commentary: Can AI and machine learning improve the economy?",
+      "excerpt": "By the time entrenched incumbents awaken to the threats posed by newly developed general purpose technologies (GPTs), a crop of challengers who had no option but to adopt the new GPT at the outset has become powerful enough to threaten the financial stability of an industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy",
+      "originalUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/10/Aoaeh_commentary_100620_1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy/amp",
+      "publishedDateTime": "2020-10-08T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-in-video-trump-calls-his-covid-19-a-blessing-from-god.md",
       "title": "In video, Trump calls his COVID-19 ‘a blessing from God’",
       "excerpt": "Click here to refresh this page. President Trump made the stunning announcement ... But before President Donald Trump’s coronavirus diagnosis earlier this week Biden had not disclosed full details of his testing protocol or the results of each test.",
@@ -1086,109 +1181,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-bringing-the-power-of-embedded-analytics-to-your-apps-and-services-with-amazon-quicksight.md",
-      "title": "Bringing The Power Of Embedded Analytics To Your Apps And Services With Amazon QuickSight",
-      "excerpt": "The constant evolution of the platform has been impressive: ML-powered anomaly detection, Amazon SageMaker integration, embedding, theming, and cross-visual filtering. Our users consume insights ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2020/10/07/bringing-the-power-of-embedded-analytics-to-your-apps-and-services-with-amazon-quicksight/",
-      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2020/10/07/bringing-the-power-of-embedded-analytics-to-your-apps-and-services-with-amazon-quicksight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f68f4061bbfe5de2085c4de%2F0x0.jpg",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2020/10/07/bringing-the-power-of-embedded-analytics-to-your-apps-and-services-with-amazon-quicksight/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2020/10/07/bringing-the-power-of-embedded-analytics-to-your-apps-and-services-with-amazon-quicksight/amp/",
-      "publishedDateTime": "2020-10-07T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy.md",
-      "title": "Synthetic Faces: This AI Falsifies Reality In The Name Of Privacy",
-      "excerpt": "The deepfake technology I’m taking about is from a Berlin-based startup called Brighter AI, which provides privacy solutions for an increasingly surveilled world: license plate blurring and face blurring so companies with cameras can comply with European privacy laws,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de968419bf5f836413c4d%2F0x0.jpg",
-          "width": 1000,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/",
-      "publishedDateTime": "2020-10-07T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

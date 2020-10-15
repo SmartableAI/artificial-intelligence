@@ -119,6 +119,22 @@ related:
         width: 1961
         height: 2560
         isCached: true
+  - title: "Microsoft bringing breakthrough AI image captioning to Word, PowerPoint, Outlook"
+    excerpt: "Microsoft today announced it has achieved a major breakthrough in automatic image captioning using AI. The company hopes the new model can improve accessibility in apps and on the web for people with visual impairments."
+    publishedDateTime: 2020-10-14T21:07:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-bringing-breakthrough-ai-image-captioning-word-powerpoint-outlook"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-bringing-breakthrough-ai-image-captioning-word-powerpoint-outlook?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-bringing-breakthrough-ai-image-captioning-word-powerpoint-outlook?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 69
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/microsoft-enhanced-image-captioning-example.jpg"
+        width: 800
+        height: 407
+        isCached: true
   - title: "Microsoft, AICTE collaborate to skill students, educators in AI, IoT, Big Data, more"
     excerpt: "As part of the partnership, over 1,500-course modules from Microsoft will be made available to students and educators free of cost through AICTE's e-learning portal ELIS."
     publishedDateTime: 2020-10-13T10:10:00Z
@@ -150,6 +166,6 @@ related:
         height: 840
         isCached: true
 
-secured: "UYuxTT4vF4748+pDDb5WB4Gx5fFv2cxo75KeEIoR7WC3xpFQzhVpjYN5VeAyVBUmblmtKlbP8kUO05oQKAXBxCl7uIsnCv1r6pURsIJigYoUCJWt516MlLzZb52nmOacHSfMCGPV6y9LtUGZeVENcANwB9+qofg++INxCwEVeFeeVACGPQKPtBpHOSKkFgVq3NSxyycCBkZhDmu2sM9CSI+kVz0hq+014wsY4A1KpnjmYrHVWhZuv77wToTVmHgieYF0cFE/WKA2MYfMnNpWhghxrmnaezo6ggBWXC7ekt9cXq9C26GrZBadElxTr8YZA5H6a/BRrGRj/hwL8TiWWaBK4/8XQd9ZfR+N3QaSdeA=;+TO6lX9l2qQuG7tzqiW0xQ=="
+secured: "ABirmmRDZCwGiqS3h+9TCgx+zuTfV9F3TFDiSc5boeUW4u0XKKkJXryONOMHoaPbegbP6z5N0pcDQhVWv8kG6TvgNExmDb5M+hdDcpr5IZ/GVhLetZf1sPGEmawKYdIlQbQyK7Nv6QfE5dXXSst9Vp0fdsA1SHIFSn4Eis5awX9YGBtpbpcFBUhaKxNZRKDibkF+GF7mCtBVw7W61KiD7tXL0kOeB99B80kocUHTVGqDgWuWItTdKyatpVx2YadwSkr0ptC2VkIG8m8eWamT5/RB0RnRGvxDo3HfPRQU/rAifWxxhBDzKlNRGXjNkWwzE0oiv0vHZVDzthQjUhVBPyOCrTGurdjtoBV+G/pYylgi9g3k0JNC0UOPvbbzEmcSDNHBgZLsaAj5eNHo19vWtZPRT24Ifqtec4vx513strw3tWKf6nzkEW/5k592ThwJ2G+2VgFSyVBASsUCwU5KLSyE9wGeLFowAXlKMyDVp8tLvnICeUqt1y6QfWBQon1CV3jci0Nw338r0Vs3iqrZQA==;mqVpcJDFJ5qMAn4ROhRbhQ=="
 ---
 

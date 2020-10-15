@@ -125,6 +125,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft bringing breakthrough AI image captioning to Word, PowerPoint, Outlook"
+    excerpt: "Microsoft today announced it has achieved a major breakthrough in automatic image captioning using AI. The company hopes the new model can improve accessibility in apps and on the web for people with visual impairments."
+    publishedDateTime: 2020-10-14T21:07:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-bringing-breakthrough-ai-image-captioning-word-powerpoint-outlook"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-bringing-breakthrough-ai-image-captioning-word-powerpoint-outlook?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-bringing-breakthrough-ai-image-captioning-word-powerpoint-outlook?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 69
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/microsoft-enhanced-image-captioning-example.jpg"
+        width: 800
+        height: 407
+        isCached: true
   - title: "Microsoft, AICTE collaborate to skill students, educators in AI, IoT, Big Data, more"
     excerpt: "As part of the partnership, over 1,500-course modules from Microsoft will be made available to students and educators free of cost through AICTE's e-learning portal ELIS."
     publishedDateTime: 2020-10-13T10:10:00Z

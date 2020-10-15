@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-14-aws-cohesity-announce-partnership-aimed-at-tackling-data-silos.md",
+      "title": "AWS, Cohesity Announce Partnership Aimed at Tackling Data Silos",
+      "excerpt": "Cohesity has entered a data management partnership with Amazon Web Services aimed at helping companies secure, govern and analyze their ever-increasing amounts of data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
+      "originalUrl": "https://www.wsj.com/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-244275?width=620&size=1.5",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
+      "publishedDateTime": "2020-10-14T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance.md",
+      "title": "US body on AI calls for creating India-US strategic tech alliance",
+      "excerpt": "The newly-created National Security Commission on Artificial Intelligence in its report on Tuesday said the Department of State and the Department of Defence should negotiate formal AI cooperation agreements with India, Australia, Japan, New Zealand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643",
+      "originalUrl": "https://www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_281592419.jpg",
+          "width": 660,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643",
+      "publishedDateTime": "2020-10-14T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-how-to-do-the-best-recruiting-for-your-startup.md",
       "title": "How to do the best recruiting for your startup",
       "excerpt": "Define the key competencies of the position. Take into account what type of hard skills and soft skills you require your applicant to possess. Analyze how much the company is going to grow and share it with the HR area,",
@@ -1106,91 +1200,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-bernard-marr-what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence.md",
-      "title": "Bernard Marr: What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence?",
-      "excerpt": "LinkedIn has ranked Bernard as one of the world’s top 5 business influencers. He is a frequent contributor to the World Economic Forum and writes a regular column for Forbes. Every day Bernard actively engages his 1.5 million social media followers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/BernardMarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/bernard-marr-what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence/ar-BB19XKVy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "twitter.com/bernardmarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
-        "domain": "twitter.com/bernardmarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia.md",
-      "title": "Drone maker Delair spins out its computer vision platform to create Alteia",
-      "excerpt": "In a recognition of how the drone business has shifted in recent years, Delair announced today that it will spin out its drone-data platform into a separate company called Alteia. The new company ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/",
-      "originalUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/Delair.ai_Tablet-e1602535031922.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/amp/",
-      "publishedDateTime": "2020-10-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-09-how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides.md",
+      "title": "How the Trevor Project is using AI to prevent LGBTQ suicides",
+      "excerpt": "Over the past three years, the nation’s largest suicide prevention organization for LGBTQ youth has undergone a major tech overhaul, most recently using machine learning to assess high-risk outreach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides",
+      "originalUrl": "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-rethinking-ai-ethics-asimov-has-a-lot-to-answer-for.md",
       "title": "Rethinking AI Ethics - Asimov has a lot to answer for",
       "excerpt": "Is the current obsession with AI Ethics doing any good? Maybe Asimov's Three Laws of Robotics wasn't such a great starting point after all",

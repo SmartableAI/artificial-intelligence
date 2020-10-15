@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/aws-cohesity-announce-partnership-a
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 620
     height: 413
     isCached: true
+
+related:
+  - title: "Cohesity Announces AWS Partnership For Data Management Service"
+    excerpt: "Backup vendor Cohesity has announced a \"strategic partnership\" with AWS for a Data Management as a Service offer that it claims is unlike any offer on the market today."
+    publishedDateTime: 2020-10-14T22:18:00Z
+    webUrl: "https://www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/"
+    ampWebUrl: "https://www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87719fb5aaa5aa86190ecf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1632%26cropY1%3D192%26cropY2%3D1416"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "6H8LV04Z2rxfF0mewNplOwHpUaFh2CL/ZFQK6vxHaEtrZR0d5zQZHx7GfXnfmJQSsCj2xqWJ5OeyjNb21oh7LVHHwxGcq/Pi6snKEQkYCXxF96l+kOZOZZnbOYaUF2fghag5n+rj34INuPIhsSRObsKG+uCjmixC+8t2wyCn8uQvLyk9LrqS3F1eLkRvlnQ9pY/F+dDoNXZYdzHccdbl9dgbGTfJfZ9/OPTcym1bt40QQPJJKakB7IbJtQGp8KwWeUpqjkoGxtCWwK/3M3vSqso34d8mLG/02KZxqnoR5PUe+1ypUHruimJ1ffac1uYmuJiWB3YENnBLvWEm8ftf6yiseOFdFgs/m1Kw8S1qx/OMatsXp9ZxuyVQigdUJ0RO2sPGFJ9RFPrWZrOlqWF6/hwjLSgsMrAYTk5zAmoADnbmMhUWlYHlwnD1GnkveM+JWk3yhrWJLpkKbLlscAj0EVedD3jDPvz2Sz8QK4ohX1xlH909Asgvz/9Mpy+mrPyaqgcvsWjxMfAXXyq0lV3CuA==;l75OSHPkPX9eLE8hWVTHjw=="
 ---
