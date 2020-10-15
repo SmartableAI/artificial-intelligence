@@ -7,7 +7,7 @@ originalUrl: "https://blogs.microsoft.com/ai/azure-image-captioning/"
 webUrl: "https://blogs.microsoft.com/ai/azure-image-captioning/"
 type: article
 quality: 104
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft’s image-captioning AI is pretty darn good at describing pictures like a human"
+    excerpt: "Microsoft has built a new AI image-captioning system that described photos more accurately than humans in limited tests."
+    publishedDateTime: 2020-10-15T12:22:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/15/microsofts-image-captioning-ai-is-pretty-darn-good-at-describing-pictures-like-a-human/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/15/microsofts-image-captioning-ai-is-pretty-darn-good-at-describing-pictures-like-a-human/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/15/microsofts-image-captioning-ai-is-pretty-darn-good-at-describing-pictures-like-a-human/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 96
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-15T114509.811-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Microsoft’s new image-captioning AI will help accessibility in Word, Outlook, and beyond"
     excerpt: "Microsoft does not disclose user numbers for Seeing AI, but Eric Boyd, corporate vice president of Azure AI, told The Verge the software is “one of the leading apps for people who are blind or have low vision.” Seeing AI has been voted best app or best ..."
     publishedDateTime: 2020-10-14T15:03:00Z
@@ -108,6 +124,22 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/14/microsoft-image-captioning-1_feature.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Microsoft says its AI captions images as accurately as humans do"
+    excerpt: "“Image captioning is one of the core computer vision capabilities that can enable a broad range of services,” Xuedong Huang, Microsoft’s CTO, Azure AI Cognitive Services, said in a statement. It is available in Seeing AI, a Microsoft app for blind ..."
+    publishedDateTime: 2020-10-15T12:17:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-says-its-ai-captions-images-as-accurately-as-humans-do/article32862502.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-says-its-ai-captions-images-as-accurately-as-humans-do/article32862502.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-says-its-ai-captions-images-as-accurately-as-humans-do/article32862502.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/tulh8a/article32862527.ece/ALTERNATES/LANDSCAPE_615/microsoft-ai-captioningpng"
+        width: 615
+        height: 384
         isCached: true
   - title: "Microsoft bringing breakthrough AI image captioning to Word, PowerPoint, Outlook"
     excerpt: "Microsoft today announced it has achieved a major breakthrough in automatic image captioning using AI. The company hopes the new model can improve accessibility in apps and on the web for people with visual impairments."

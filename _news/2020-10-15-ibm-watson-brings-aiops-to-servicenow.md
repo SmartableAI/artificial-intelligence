@@ -1,0 +1,70 @@
+---
+category: news
+title: "IBM Watson brings AIOps to ServiceNow"
+excerpt: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk combining Watson AIOps with ServiceNow’s ITSM and ITOM"
+publishedDateTime: 2020-10-15T13:01:00Z
+originalUrl: "https://www.enterprisetimes.co.uk/2020/10/15/ibm-watson-brings-aiops-to-servicenow/"
+webUrl: "https://www.enterprisetimes.co.uk/2020/10/15/ibm-watson-brings-aiops-to-servicenow/"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: enterprisetimes.co.uk
+  domain: enterprisetimes.co.uk
+
+topics:
+  - IBM AI
+  - AI
+
+images:
+  - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/10/digitization-AIOPS.jpg"
+    width: 728
+    height: 410
+    isCached: true
+
+related:
+  - title: "ServiceNow, IBM to integrate Watson AIOps, IT service management"
+    excerpt: "Under this partnership, the two companies will initially launch software that will use ServiceNow's IT Service Management historical incident data to train Watson AIOps algorithms"
+    publishedDateTime: 2020-10-15T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+  - title: "IBM, ServiceNow Partner on AI Effort Aimed at Identifying IT Anomalies"
+    excerpt: "The new offering will combine ServiceNow’s IT Service Management and IT Operations Management systems with IBM’s recently introduced Watson AIOps."
+    publishedDateTime: 2020-10-15T12:43:00Z
+    webUrl: "https://www.wsj.com/articles/ibm-servicenow-partner-on-ai-effort-aimed-at-identifying-it-anomalies-11602763201"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-245239/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
+    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) and ServiceNow (NYSE: NOW) today announced an expansion to their strategic partnership designed to help companies"
+    publishedDateTime: 2020-10-15T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
+
+secured: "lIOkGQyRd2Edq0CsQessfVez6vGeDXmzFxmYIr0GSnlQ8VyKZOIEaj5fLCxghTPx93HR+LFwFfPGOkBqPs3gqLjqwD+3IGDryWNCywb8gtDuxI+e4VGp07c31MEdyIQUCZDK6AWKCFT5bQ32VWVRpHcfMbcrnBMWWDVDSjCuPNXFfAAW1OoC6lSETGT1gD89L1kK+L/2J8n+6yAE5Xhnop6A2cFRZnOZfpgdB/Yy39PWaotClp74YqXHTW2GiAGlDXI1UgX7NMNhHg31taw/KBb3Bg9fbCJep6ZcJWJc2olYBCVCTUMMDCdqRoCQdswbOqsWcB11HQd4Fcc2UHj6x1i2JecujmmaH3VEdHL6TUU=;ASlkdyXvzJTKIFAffK7cyg=="
+---
+

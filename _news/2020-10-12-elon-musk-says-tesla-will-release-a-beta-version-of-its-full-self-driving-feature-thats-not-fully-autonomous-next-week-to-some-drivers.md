@@ -197,6 +197,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ beta releases next week, Musk says"
+    excerpt: "FSD is one of the two autopilot options available to Tesla owners. Still, drivers are said to be fully attentive, and to place their hands on the wheel to be prepared to take over at any moment."
+    publishedDateTime: 2020-10-15T12:44:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-beta-releases-next-week-musk-says/article32862804.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-beta-releases-next-week-musk-says/article32862804.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/teslas-full-self-driving-beta-releases-next-week-musk-says/article32862804.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/btpy0e/article32862716.ece/ALTERNATES/LANDSCAPE_615/Tesla-Autopilot"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Tesla’s Revamped Self-Driving Software Will Go Into Beta Testing Next Week"
     excerpt: "Tesla ’s long-awaited, revamped Autopilot is moving one step closer to becoming a reality. After years in development and no shortage of serious setbacks, the California-based electric car giant is set to begin beta testing its new self-driving software next week."
     publishedDateTime: 2020-10-13T21:53:00Z

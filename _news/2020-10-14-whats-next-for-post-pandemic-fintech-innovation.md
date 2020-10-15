@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI inevitability - can we separate bias from AI innovation?"
+    excerpt: "AI evangelists pay lip service to solving AI bias - perhaps through better algorithms or other computational means. But is this viable? Is bias in AI inevitable?"
+    publishedDateTime: 2020-10-15T09:18:00Z
+    webUrl: "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation"
+    ampWebUrl: "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-11/shutterstock-StunningArt-1121035637.jpg"
+        width: 740
+        height: 450
+        isCached: true
   - title: "RIC20 Startup Innovation Labs Showcase 20 Tech Innovators"
     excerpt: "With a focus on emerging technologies and innovative startups, the 2020 Retail Innovation Conference is featuring three Startup Innovation Lab sessions that will introduce attendees to a total of 20 tech innovators."
     publishedDateTime: 2020-10-13T12:53:00Z

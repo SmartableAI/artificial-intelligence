@@ -41,6 +41,20 @@ related:
         width: 2500
         height: 1407
         isCached: true
+  - title: "NTU Singapore scientists develop 'mini-brains' to help robots recognize pain and to self-repair"
+    excerpt: "Using a brain-inspired approach, scientists from Nanyang Technological University, Singapore (NTU Singapore) have developed a way for robots to have the artificial intelligence (AI) to recognise pain and to self-repair when damaged."
+    publishedDateTime: 2020-10-15T13:37:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/ntu-nss101520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 42
+    images:
+      - url: "https://eurekalert.org/multimedia/pub/web/246003_web.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "In Singapore, facial recognition is getting woven into everyday life – WebMag"
     excerpt: "Singapore already boasts one of the world’s most advanced national digital identity programs, SingPass, which residents can use for more than 400 digital services, including accessing tax returns and applying for public housing."
     publishedDateTime: 2020-10-12T17:10:00Z

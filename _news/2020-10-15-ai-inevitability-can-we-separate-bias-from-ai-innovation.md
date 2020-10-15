@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-inno
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Diginomica
@@ -27,29 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "How Innovative AI Solutions Can Help Combat Global Warming"
-    excerpt: "However, technology alone is not enough. Solutions to big problems such as climate change require an urgent and integrated focus on several key areas."
-    publishedDateTime: 2020-10-14T14:03:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/how-innovative-ai-solutions-can-help-combat-global-warming/"
+  - title: "RIC20 Startup Innovation Labs Showcase 20 Tech Innovators"
+    excerpt: "With a focus on emerging technologies and innovative startups, the 2020 Retail Innovation Conference is featuring three Startup Innovation Lab sessions that will introduce attendees to a total of 20 tech innovators."
+    publishedDateTime: 2020-10-13T12:53:00Z
+    webUrl: "https://retailtouchpoints.com/features/news-briefs/ric20-startup-innovation-labs-showcase-20-tech-innovators"
+    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/ric20-startup-innovation-labs-showcase-20-tech-innovators/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/ric20-startup-innovation-labs-showcase-20-tech-innovators/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 42
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f860440de0526febe29e364%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/10/RIC20-Startup-Innovation-Labs.png"
+        width: 616
+        height: 354
         isCached: true
-  - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
-    excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
-    publishedDateTime: 2020-10-12T23:08:00Z
-    webUrl: "https://ipsnews.net/business/2020/10/09/global-artificial-intelligence-in-education-market-innovative-trends-driving-factors-and-growth-analysis-2020-2025/"
+  - title: "What’s next for post-pandemic fintech innovation?"
+    excerpt: "By Brannan Coady, CEO Netsells Group, CPO YourParkingSpace, Even before 2020, FinTech was fundamentally transforming the way financial services operate. Established market players have been forced to step up their use of technology to keep pace with challenger banks and FinTech start-ups."
+    publishedDateTime: 2020-10-14T08:00:00Z
+    webUrl: "https://www.globalbankingandfinance.com/whats-next-for-post-pandemic-fintech-innovation/"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-14T131808.046.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "d82KTMx3006CHzSuZPeuo0lwim5ZUHWsfuM4frcPN9EmS3YSzk05kKwkwpQz3+ffPnyIefl9MDoVdnWsd3srRgqXCK9OW/moOlj7a5C1eGwUOoheCxQaWNPB8MRY4rKBxNqx5mKH53lNH5kd3BAPwhI0J0uZfC/HnQ7dvNovPALMk7DAh0S4XKq2h1Gi5tF9LisbT/VDu2X0pyYLl+BfRIamggd2O5Uxkto/kYOt7s46jwjyA1/sNvuO/o9OnAsAj52EhfT8JMvQ5bqM7McZEVgd7HArCiTCcnVeWN8yS1YjmstFaZJVSvCplwu7MERDzPRN5edsnOCr9vMYkUjaX1MMbNLWbSj9fDZvPzrFNsHY1JmBB3FyEwdOmjauDUHBIn5SC1/PqWrGZeRCt8AkpnJVLCMaZo/DNQNw8NoJTJGM//DIweJDqxASAeN3w3pZKqrQpc8RpC+9Ni6gkHc+ZQs9MOYfOeMckPUIWX+ZwwVSyT2Or1PC2zBC2Hu8XcvqzZNtHc7tf91WmLf56Cz/Ew==;isT8gHKJZDwCvsUEqhFxvA=="
 ---

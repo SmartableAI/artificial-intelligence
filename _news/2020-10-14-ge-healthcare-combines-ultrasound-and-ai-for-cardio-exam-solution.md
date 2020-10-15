@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "MedTech Startup See-Mode Technologies Receives FDA Clearance for AI Software That Automatically Analyses and Reports Vascular Ultrasound Scans"
+    excerpt: "Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to better predict stroke, today announced that it has"
+    publishedDateTime: 2020-10-15T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/medtech-startup-see-mode-technologies-receives-fda-clearance-for-ai-software-that-automatically-analyses-and/article_edfb8b0a-34b3-58c9-bc7a-12ad75232d81.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 1
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/22/422c9ffd-4ea2-5a2c-add7-bb3d01a0155f/5f884f02ac80c.image.jpg?resize=400%2C387"
+        width: 400
+        height: 387
+        isCached: true
 
 secured: "7YOLyuRuC2iQTtjwWeqHz5DOXm/Koz1OTgFCCD5LfbRV/MYkeYtCjgiDU+fU1S7iWVKvvT1zG5serN3kotE03OapMnCC7zCMhyufMp1AAyWSrprzyN6og7gsZwPwJXAGUKPoS4IlTYe+3n6n2avDlzIwfgtVL9AbR2DzTGVagAYq5VWeQ3DWYYn97zSkh0P4tB2JwzHQcY0FQWpFOmk85pocqoTPLKKfyHlVFCE5OkwaNJRg2aVsiYJrX4hfm8Afp70FPkdYdz/f6RbJ1RJoJ3xK2cNGeafoVQYNR3PjFgYbeXGDdyX/lwZTjv971ZkBCIs4Y7/ZISdtafysDaYU2XhtwJ1L2jEy2EGrTjcqCqYQzZBPOXLPPXfJ59hFoqymW+oUr8DYwpenBFVTna7AMcciZ7Pi6hAEKk4EMR1u6MGseOZyz7mh3ypgb8l0Lzq2CJ6JvzZNBv/WzX7DmapZuwvmpXnXRzGIH+WbFK7JI+PsqqLhQgxPq41H4pO7mnF7Kc+fuACGk44weUud4n7B/A==;OHZjUxkGhjy+ijfcb/KS7A=="
 ---

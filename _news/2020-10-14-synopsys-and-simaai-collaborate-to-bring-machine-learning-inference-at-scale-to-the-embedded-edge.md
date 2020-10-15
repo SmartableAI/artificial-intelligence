@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Synopsys and SiMa.ai Collaborate to Bring Machine Learning Inference at Scale to the Embedded Edge"
+    excerpt: "MOUNTAIN VIEW, Calif., Oct. 14, 2020 /PRNewswire/ — Synopsys, Inc. (Nasdaq: SNPS) today announced its collaboration with SiMa.ai to bring its machine learning inference at scale to the embedded edge. Through this engagement, SiMa.ai has adopted key ..."
+    publishedDateTime: 2020-10-15T13:48:00Z
+    webUrl: "https://www.eejournal.com/industry_news/synopsys-and-sima-ai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded-edge/"
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 42
+    images:
+      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Synopsys and SiMa.ai collaborate for machine learning inference"
     excerpt: "Synopsys (SNPS -0.3%) collaborated with SiMa.ai to bring its machine learning inference at scale to the embedded edge across diverse industries.Through this engagement, SiMa.ai has adopted key products from Synopsys for the development of their MLSoC,"
     publishedDateTime: 2020-10-14T13:29:00Z

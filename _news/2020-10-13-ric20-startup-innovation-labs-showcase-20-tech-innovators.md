@@ -9,7 +9,7 @@ ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/ric20-startup-inn
 cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/ric20-startup-innovation-labs-showcase-20-tech-innovators/amp"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI inevitability - can we separate bias from AI innovation?"
+    excerpt: "AI evangelists pay lip service to solving AI bias - perhaps through better algorithms or other computational means. But is this viable? Is bias in AI inevitable?"
+    publishedDateTime: 2020-10-15T09:18:00Z
+    webUrl: "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation"
+    ampWebUrl: "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-11/shutterstock-StunningArt-1121035637.jpg"
+        width: 740
+        height: 450
+        isCached: true
   - title: "What’s next for post-pandemic fintech innovation?"
     excerpt: "By Brannan Coady, CEO Netsells Group, CPO YourParkingSpace, Even before 2020, FinTech was fundamentally transforming the way financial services operate. Established market players have been forced to step up their use of technology to keep pace with challenger banks and FinTech start-ups."
     publishedDateTime: 2020-10-14T08:00:00Z

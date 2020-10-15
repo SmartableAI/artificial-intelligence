@@ -73,6 +73,22 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Why you should be wary of political news on Facebook, Twitter"
+    excerpt: "In September, Facebook and Twitter said they had uncovered ties between PeaceData and the Internet Research Agency ... some of which appeared to use artificial intelligence to generate fake profile pictures. Subscribe to the CNET Now newsletter for ..."
+    publishedDateTime: 2020-10-15T12:01:00Z
+    webUrl: "https://www.cnet.com/news/why-you-should-be-wary-of-political-news-on-facebook-twitter/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/why-you-should-be-wary-of-political-news-on-facebook-twitter/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-you-should-be-wary-of-political-news-on-facebook-twitter/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/gKDij_RxAohDBdghYbl6qEL54B8=/1200x630/2020/07/25/a5b66fe1-db1a-4c66-85c6-5fb905e14a7c/twitter-facebook-logo-phone-united-states-flag-4542.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fashion Market is set to see Revolutionary growth in decade | Microsoft, IBM, Google, AWS, SAP, Facebook"
     excerpt: "Latest released the research study on Global AI in Fashion Market offers a detailed overview of the factors influencing the global business scope AI in Fashion Market research report shows the latest market insights current situation analysis with upcoming trends"
     publishedDateTime: 2020-10-13T20:36:00Z

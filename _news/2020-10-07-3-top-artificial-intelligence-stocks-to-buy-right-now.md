@@ -1,22 +1,32 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-excerpt: "Artificial intelligence (AI) involves using computers for tasks that normally require intelligent human behavior. AI systems can easily beat human grandmasters in chess, they have started to drive cars,"
-publishedDateTime: 2020-10-07T14:37:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp"
+excerpt: "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting."
+publishedDateTime: 2020-10-07T13:48:00Z
+originalUrl: "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
+webUrl: "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
-secured: "zwHPvaUMBBEAT3Qw0oo1rLrvlFU4NOJmY13lZK6D8YQXF17xYmTjgiJ2neuzVP7p7oQaaMpqxKykQy3E7APaK6msCJdCysICI40b7/vsP7WctG3zgtFc170VjAXfjOnv2XL9Q+gjVa+wwVVDv+fPnJ5Qk0OPZpJ5dWwIp2B5xFmHYxZO7z719/9uA7gRxafYkm3RvjtECwm+DiA+5SnnhXG56bA8bnfHRN9U7NuXRzRrULTguWncrkcM8NUkugPV7Lbtmn0qUeUjWOREIetnSZAovcpI3av7u4IpCYWd4vjgNjVgI2n3CzoZewScL0YNmtHOei2AmrRG+nSR0muaIa06O8d+ptGIrY3lDzI0uOk=;ggCCsnMWE72jB2g3+cpciQ=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "mfXdJ7Yee6153FoCEaf1/JTopITLYxn+4/an5sgMjbZoCgHqHGsbJqw5/L/z7E910SnzPX0fjcYAnAvyFT+jkZYF2Tc/us7ufYsLPS/OBjzlEzM5ZhvyyGre/UIIKNjbCH0x5VinDkbuMZ9bInDZc93NVlXycUoujHG9c9ArQKknogak9z8080bDc79at7oNIqDih7MJNljsfVnA9lHFshu0riIKAgSBk9jqSqSXNf3onrQVnN0SOrHj9nqLFb1NngroT5uKNk5/KQusVmVGU3g+aqi0lAKIqdLj3nE/P/lT9J0lOu2HZSyERvHeS/zyXT0m5K5Mp5zRjYCx1oMfG166iFbkI1mjS8POyaen8X8=;aJGkWi2eU7dSxTDvHfA0AQ=="
 ---
 

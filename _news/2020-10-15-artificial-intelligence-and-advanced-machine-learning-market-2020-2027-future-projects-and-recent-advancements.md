@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2160420/artificial-intelligence-and-advance
 ampWebUrl: "https://www.openpr.com/amp/2160420/artificial-intelligence-and-advanced-machine-learning-market"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2160420/artificial-intelligence-and-advanced-machine-learning-market"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://cdn.openpr.com/T/a/Ta15704662_g.jpg"
@@ -26,6 +27,6 @@ images:
     height: 400
     isCached: true
 
-secured: "EaP1OUrtEBfj9zFCRpUiEmFgDUR+YoJ/L/d6eFZ8KfHqX7+IUxgcxkjZYo3lMhbr/4nuO8tnDbOFaJu8hPFyoEHRe9duqxA5wMbjw71W6PX9ajE+fUbyTGNygBiaTnr5iNvylJPQMZu6vZpLtatC7Q2505Zl2eKAqWAjUB8SFKnmOddFH5xfvguKcGLc7nHy02DidA8QTE2MnRBUb9xj7d0gbBwSXzrvE+KYO8E++e1BiQvUTFObX1P3r5tP2GtbyghzxqaUE0F9tLeFJ4xS1y/43etsn0NkGI2SG14+ZYtdfYwZYVpRsCFK9GgtpKjhIswak7b8MWr7FgfPVLvgIAhQ5yNap/kNO2GDUNcVK6g=;8Gnz9rWxC0QzrLQHhtx7SA=="
+secured: "R0yfef1khfKZryHURjSVjfxkau74Ned7OsSPsPijjE6iqIF1e63svLmX5bOlZ2Eb0N16PXF/mxBirX/0jSo7RxFCoV+zPO9q11759fBJSq1ly+tC7SEPjkno9KZrdjeEDsbRiSzuSrg2xyoHvklNnvHdLdbinrVOfx+LScLTnPO2SZr1smRaJ2TOiK3Nw6DusuMhOubx2rdW38KWaFzG0PQHIg8Kg5Uw8C2F9gEF7UGGx93Uzo+bIIZdh6cZzkL3qO9vjYQvPbM2/QbJCrW/NV3co076WvO4+j+xZIXYTHsxqOJ0u/whla60ZDnKAu8fn4mHnkZMCqvJXZj5nM0SFKnMJwFD2OBAkl+ilkQfK7NMRx/D3I54iAsVZuPwX3QCBr9JqZjlxd3q7Zt48QHQ7xSD771D20jFMtrfjyDeuFUaw8vs0ou1LMjgWwkilTHmjEeN9hzTeBo9n4Yo3Ha0S82mxNZ0TCYwTR4eApBMC0xBuwAizRONQpLM/C6mfxRTdRMzKnzaIxRj4k6jnXSEjw==;TrwtA3i/VeCWQv3lKUXSmQ=="
 ---
 
