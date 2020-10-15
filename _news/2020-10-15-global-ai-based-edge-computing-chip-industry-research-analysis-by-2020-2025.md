@@ -43,6 +43,22 @@ related:
         width: 800
         height: 473
         isCached: true
+  - title: "AI based Edge Computing Chip Market: Competitive Dynamics & Global Outlook 2025"
+    excerpt: "LP INFORMATION recently released a research report on the AI based Edge Computing Chip market analysis and elaborate the industry coverage current market competitive status and market outlook and forecast by 2025 Moreover it categorizes the global AI based Edge"
+    publishedDateTime: 2020-10-15T08:20:00Z
+    webUrl: "https://www.openpr.com/news/2160305/ai-based-edge-computing-chip-market-competitive-dynamics"
+    ampWebUrl: "https://www.openpr.com/amp/2160305/ai-based-edge-computing-chip-market-competitive-dynamics"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2160305/ai-based-edge-computing-chip-market-competitive-dynamics"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 70
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta15569481_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Experts say military could treat artificial intelligence (AI) in the say they treat any intelligence"
     excerpt: "The dogfighting victory of an AI agent, or the use of AI to defeat salvos of incoming missiles suggest AI will profoundly affect military operations."
     publishedDateTime: 2020-10-14T08:41:00Z
@@ -67,6 +83,6 @@ related:
       domain: ipsnews.net
     quality: 31
 
-secured: "osYN6mPe81ff6HSHGSbz1GyKRcbblnCTd9nOy9DZnaxsy7rvfwsMlVv9eN8EFh8kBBNKcCsu8YhCgdJ31/RuFhFwT2v4/12AgoiCzbTO7NQWdehnc6PGvwTdtKXKtcLTVIoejpC2xQg+kpDWsn/kKYS6wOG++rxOJeoTRCAKXaagaIlhfvVF7pEwhAl4/+JEaYHJ+ReLikzqdRS+b6a1XizC+BCtS45ZMIurEB1R42CQoxV6essWLswCeasFHiilxXHmig1rnn7Qudzt9lLC5xdA12GqhX6mlp+nKvgolOdX+G2MBi5G9l5XlwCzAYnAmuQwrXTpPJRbhycv1MlIquNY/zs6xCXe/wmHFwvqAQY=;rbnipJ72dzyioS0XYGniMg=="
+secured: "pSeav/waOJveLxaMSo4Yev8De8Kj1lGkMS1aWwghEe6stS5YEaTOemUCLgm68kZMjloz6GXmFc1NiJNqsFqJClMobu2QGHuKmB/z9zSpVj8n/d5TiEIl9zBzB/DutM2EMnPmn7ovqgqLF7jWmqdWGN+Wo+S9jqIecA0vI6V4TBDJ8ojRrZWaQqH9uyW/1z0+qDnWCHmWUOaWfyG2oIb09/AXCsFqcL561c44BY0kfwgLItR4Hqegp698vam1YBBz+r3fw/zh3he8rgr/e9kH2ovVqi4AFKz+v6uEvCpq++Bm5+V5bFmHfPMaj0F3WOEjVyFoyEmDBvX6lXrerJwfbStQ1TAFCCFgzGIOfBqdS6PDIx9r7IKa8WjQMlO/lnfvb3DDhOko2zCMAx0O2JIH443pn9zB9LLlCGbAJa1iYOMSAV53cqifr4f+GqDWay3QFMSzbpXi+x7nFISRGcGKig16iYUc1ajOScNxfnWJbck0SJ/amRIRjq3rUBquY+Y4RnbSUoPt0VzFT5xo+pNWnw==;hpTNo15tR/FM6Nd4qSwnsg=="
 ---
 

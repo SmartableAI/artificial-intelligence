@@ -32,6 +32,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI inevitability - can we separate bias from AI innovation?"
+    excerpt: "AI evangelists pay lip service to solving AI bias - perhaps through better algorithms or other computational means. But is this viable? Is bias in AI inevitable?"
+    publishedDateTime: 2020-10-15T09:18:00Z
+    webUrl: "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation"
+    ampWebUrl: "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-11/shutterstock-StunningArt-1121035637.jpg"
+        width: 740
+        height: 450
+        isCached: true
 
 secured: "1QE6vCd68XHv8TsBGwT9nfL3gCTJS+KwzDhg2wTqgN/DlB0cObLIor+p0pBd9TY6P8wX0zc2oQwk1jktHAPXrx7rsAirnhvdrY9UsuW2OfUJAlujxqAavZNwy1tFYsb+/xOdqe+PzdM15iE2QPi3/CuWgW0UCloQtvwvQKmIXsWDlSoQAKAkIy69ZTJ1V3715hx9UQKA64gy0a5QbdZPQxs2+gy82QGOzYMrGR6/G00XprICEgo2lrHpso1yer9wkoXtAFZA/XjFWk91YZfivcgP9ljvJ7Wca1zGSWrdfN4Tr3Wi+SyDyk7NVbn08/YrbnTHsnHP1qsnNT4AjOaqgNyes49e+agw9Wz25dOhxRo=;ilVFRyv8Fo1+5HSQtLdZIQ=="
 ---

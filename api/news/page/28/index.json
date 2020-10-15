@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-09-19-vision-processing-unit-market-roadmap-for-recovery-from-covid-19growing-adoption-of-deep-learning-and-ai-to-boost-the-market-growth-technavio.md",
+      "title": "Vision Processing Unit Market- Roadmap for Recovery from COVID-19|Growing Adoption of Deep Learning and AI to boost the Market Growth | Technavio",
+      "excerpt": "Technavio has announced its latest market research report titled 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the vision processing unit market and it is poised to grow by USD 892.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200918005312/en/Vision-Processing-Unit-Market--Roadmap-for-Recovery-from-COVID-19Growing-Adoption-of-Deep-Learning-and-AI-to-boost-the-Market-Growth-Technavio",
+      "originalUrl": "https://www.businesswire.com/news/home/20200918005312/en/Vision-Processing-Unit-Market--Roadmap-for-Recovery-from-COVID-19Growing-Adoption-of-Deep-Learning-and-AI-to-boost-the-Market-Growth-Technavio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200918005312/en/822702/23/IRTNTR43075.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-18T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped.md",
       "title": "People’s notions about AI are terrible, an MIT study asks whether they can be helped",
       "excerpt": "Mistaken notions of AI agency could be helped by hands-on learning, argues MIT scholar Ziv Epstein.  One of the most striking PR moments of the AI age was the sale by Christie's auction house in October,",
@@ -1176,41 +1219,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community.md",
-      "title": "Immervision Introduces JOYCE, the First Humanoid Robot with Intelligent Vision Developed by the Computer Vision Community",
-      "excerpt": "Immervision, the Montreal-based leader in wide-angle intelligent vision, introduces JOYCE, the first humanoid robot developed by the computer vision community to help machines gain human-like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community-69569.html",
-      "originalUrl": "https://www.businesswireindia.com/immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community-69569.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

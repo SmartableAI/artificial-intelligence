@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/how-inno
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/how-innovative-ai-solutions-can-help-combat-global-warming/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI inevitability - can we separate bias from AI innovation?"
+    excerpt: "AI evangelists pay lip service to solving AI bias - perhaps through better algorithms or other computational means. But is this viable? Is bias in AI inevitable?"
+    publishedDateTime: 2020-10-15T09:18:00Z
+    webUrl: "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation"
+    ampWebUrl: "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-11/shutterstock-StunningArt-1121035637.jpg"
+        width: 740
+        height: 450
+        isCached: true
   - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
     excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
     publishedDateTime: 2020-10-12T23:08:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-cre
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Tribune
@@ -26,6 +26,52 @@ images:
     isCached: true
 
 related:
+  - title: "Quick AI adoption essential for future of work in India, says Intel"
+    excerpt: "Intel said that Artificial Intelligence is essential to the future of work in a post-pandemic world, with over 90% respondents in a survey considering AI to be essential to their businesses in India"
+    publishedDateTime: 2020-10-15T09:15:00Z
+    webUrl: "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/19/full/1560959403-0446.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Artificial Intelligence Assists With Better Battlefield Intel"
+    excerpt: "For future battlefield operations, speed is the name of the game. The side that can make decisions faster has the advantage. A new, AI-enabled effort by the U.S. Army can give operators the ability to detect,"
+    publishedDateTime: 2020-10-12T21:51:00Z
+    webUrl: "https://breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/"
+    ampWebUrl: "https://breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/amp/"
+    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/amp/"
+    type: article
+    provider:
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 57
+    images:
+      - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/10/AH-64-Apache-helicopter-gunnery-training_640x427.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Robotics, a Game Changer for Businesses in Post COVID-19 India"
+    excerpt: "Robots are moving from controlled environments to uncontrolled environments and from select industries to every industry faster than we could have expected. Tha"
+    publishedDateTime: 2020-10-14T03:46:00Z
+    webUrl: "https://www.cxotoday.com/news-analysis/robotics-a-game-changer-for-businesses-in-post-covid-19-india/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 54
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/10/robotics-deloitte.jpg"
+        width: 601
+        height: 450
+        isCached: true
   - title: "Demand for AI talent pool continues to surge in India."
     excerpt: "AI has become a most sought-after career opportunity for tech enthusiasts. Getting an education in AI requires a degree in computer science and equivalent streams, along with technical skills such as programming languages,"
     publishedDateTime: 2020-10-12T05:53:00Z
@@ -54,6 +100,15 @@ related:
         width: 1680
         height: 840
         isCached: true
+  - title: "Intel, CBSE deliver virtual lesson on AI to 13K students in 24 hrs"
+    excerpt: "New Delhi, Oct 14 (IANS) Chip-making giant Intel and the Central Board of Secondary Education (CBSE) on Wednesday achieved a new Guinness World Records title for most users taking an online artificial intelligence (AI) lesson in 24 hours."
+    publishedDateTime: 2020-10-15T01:08:00Z
+    webUrl: "https://www.sify.com/news/intel-cbse-deliver-virtual-lesson-on-ai-to-13k-students-in-24-hrs-news-education-ukoqlDgefedec.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
 
 secured: "WzwQ2lrDySk+km33zGFmnF5bvbCbrRCLeOWKr5At4v86NgrHwz4BgvUsppEm1oNXHhkN8VPYa57VkA6V+FQ1mQj+bO1DlIuk+M0R6GB5C0BY5/+FabAWyLjtaJ+v6CH9ox2eL/YiCNZBpOQah6tNU6Ngw3gBitbgG9zDkaVkrAGkEjC+DEtd88KkeK8LRJ1BYaemN/EtKQvz9gO3tKp4+p52nvcBiXHlU/ROc9N/VvFLKtC2lSt1fpJwPOtYcljDXiocToO4SLRohdmVYHUb5fZwBmEZcpescifgNuY2NWHsEAu7XSyo0kXfz7F+uRJpxts7ZIxPsir6r5NcWx+LfyKF+JZUlsDvx/jePJPL6pA=;9nOmALUpr9Xm6D6Rs6s/Vg=="
 ---

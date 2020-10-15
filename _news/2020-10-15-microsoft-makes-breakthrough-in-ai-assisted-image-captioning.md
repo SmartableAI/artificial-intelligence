@@ -105,20 +105,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Microsoft’s Cecily Morrison awarded MBE for services to inclusive design"
-    excerpt: "The post Microsoft’s Cecily Morrison awarded MBE for services to inclusive design appeared first on The AI Blog.\n"
-    publishedDateTime: 2020-10-10T15:36:31Z
-    webUrl: "https://news.microsoft.com/en-gb/2020/10/10/microsofts-cecily-morrison-awarded-mbe-for-services-to-inclusive-design/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 88
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Cecily1-scaled.jpg"
-        width: 1961
-        height: 2560
-        isCached: true
   - title: "Microsoft bringing breakthrough AI image captioning to Word, PowerPoint, Outlook"
     excerpt: "Microsoft today announced it has achieved a major breakthrough in automatic image captioning using AI. The company hopes the new model can improve accessibility in apps and on the web for people with visual impairments."
     publishedDateTime: 2020-10-14T21:07:00Z

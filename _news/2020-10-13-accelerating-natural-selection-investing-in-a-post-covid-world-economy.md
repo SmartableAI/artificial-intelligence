@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/accelerating-natural-selection.-inve
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accelerating-natural-selection.-investing-in-a-post-covid-world-economy.-2020-10-12?amp"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Robotics, a Game Changer for Businesses in Post COVID-19 India"
-    excerpt: "Robots are moving from controlled environments to uncontrolled environments and from select industries to every industry faster than we could have expected. Tha"
-    publishedDateTime: 2020-10-14T03:46:00Z
-    webUrl: "https://www.cxotoday.com/news-analysis/robotics-a-game-changer-for-businesses-in-post-covid-19-india/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 54
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/10/robotics-deloitte.jpg"
-        width: 601
-        height: 450
-        isCached: true
 
 secured: "XGE70Z+eVpISl9nnSbqGG5wwC7If3o2y2j81tmDZOf6vN8/9Q3+Bg2jLq6XQM6HthsotmTOuVE3K/eQ40lk221DkoBpVlBgdzxj7wvUydC5/kbOzMAJxdyjgNH9nM7hgAZeHe1j1A9CN9EN7x5eaIpOba9fqGDYxz4C/g1ZfBz+wWXc/ltvFBtZUfPuJoOJayWa9udDOR2fcSNgL5ws4Srvuo+DXr+oocn4q0jWKD2K2vUfQQIx4BRRYYG/YWr+zsVoaO8iAGqdkBzcTrfj92UH522KUi0zUklIePmuV37eBF85/cWxvORbBE+EoDC7Pv1DtuZDKDgu3WSwO5lNF+T3pAM/+md+h6WHxDHel6slAi4cw2dvW4xd4mqbwOoZhMlwJgI/Ky5gpEpeEGXf764EEFOUId/XhwX/h5cLSX/cQFwSIqqEKZ51SJAK+j5CsJ9IuPdPJ846aPSWCN9CusmDeSXiw2Ei+bsuv55WlecIQjk7SNfOs3H+vz7GJWNMeO4DVkVWlfjvSnNC666E0FA==;xnUfFjZiml/UpHDU8cgGvQ=="
 ---

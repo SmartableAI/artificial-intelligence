@@ -7,7 +7,7 @@ originalUrl: "https://blogs.microsoft.com/ai/azure-image-captioning/"
 webUrl: "https://blogs.microsoft.com/ai/azure-image-captioning/"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Microsoft’s Cecily Morrison awarded MBE for services to inclusive design"
-    excerpt: "The post Microsoft’s Cecily Morrison awarded MBE for services to inclusive design appeared first on The AI Blog.\n"
-    publishedDateTime: 2020-10-10T15:36:31Z
-    webUrl: "https://news.microsoft.com/en-gb/2020/10/10/microsofts-cecily-morrison-awarded-mbe-for-services-to-inclusive-design/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 88
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Cecily1-scaled.jpg"
-        width: 1961
-        height: 2560
         isCached: true
   - title: "Microsoft makes breakthrough in AI-assisted image captioning"
     excerpt: "The power of the cloud continues to impress as Microsoft-powered AI can now write image captions as good or better than real people."

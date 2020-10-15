@@ -72,6 +72,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "World Image Recognition in CPG Market Analysis 2020-2025, by Component, Application, Deployment Mode, End User and Region"
+    excerpt: "The \"Global Image Recognition in CPG Market by Component (Hardware, Solutions, Services), Application (Inventory Analysis, Product & Shelf Monitoring Analysis, Gauging Emotions), Deployment Mode, End User (Online,"
+    publishedDateTime: 2020-10-15T09:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/world-image-recognition-in-cpg-market-analysis-2020-2025-by-component-application-deployment-mode-end-user-and-region-1029682697"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 9
 
 secured: "z/YbfXNy1lPqY+d/Rw3NIDskJ7ys+V44yCU2ICtlX0Z5ZfZRncKO4Y21k+d6A3H4rtVk03/KwPkByO1LwU9f207O1C1LNTivSDw4vw9VsEYkbKzPf/ZCGbNM6a2YABlQ7csL4AE5c0qPnHppzpZY31zx00wsUINPI32q0MaQT+26dAwAOaUck46mi2RQ/HRWUyn0mUIVgk1ZlCrRfemoooB0T6hEXVlyh3yzQIJMS7mLHwgiOMGE7T8iNJu50LJx6TREK3FqQ1GHa4MlU3fTDtNJPWfkXo9GBVKNTk7bU4Qiwl5niIJT8ou3fnbR/6ADa5LVtYIAV4vxaSv89Dc/qs0RzsoLtWZG2Gb5DEtPT7bsWoBn79GxR495JEGg8vNVeiYoDQr7cKqc31cOzk7YaRJ3+zdjc1KMGrmk3ZAWz+0IOBTfpujIK7jR+WB1h71S00pzvsAlX5TJtbnREFzi8oKDZNfMlsc7+nuxnv8PlLAVa3iJRFHa5kYC9w0qM5aprFHJmrnEacTMZzWYNPqxQg==;ZOp0tZZGfjjN90Ch6Cgm1g=="
 ---
