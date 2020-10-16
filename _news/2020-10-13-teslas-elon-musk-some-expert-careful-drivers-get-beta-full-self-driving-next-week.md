@@ -319,20 +319,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Russia to launch self-driving tram and vessel experiments"
-    excerpt: "Several ministries of the Russian Federation, including The Ministry of Finance, the Ministry of Transport, the Ministry of Natural Resources, the"
-    publishedDateTime: 2020-10-11T11:17:00Z
-    webUrl: "https://intellinews.com/index.php/russia-to-launch-self-driving-tram-and-vessel-experiments-193887/?source=russia"
-    type: article
-    provider:
-      name: Business New Europe
-      domain: intellinews.com
-    quality: 24
-    images:
-      - url: "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/bneGeneric_Russia_Moscow_trams_with_fairylights_Xmas_3.jpg"
-        width: 900
-        height: 510
-        isCached: true
   - title: "Self-Driving Cars Are Not Self-Driving–Marketing Confusing."
     excerpt: "Motorists using active driving assistance systems, which combine vehicle acceleration with braking and steering, tend to overlook safety limitations when the branding and marketing used to sell it"
     publishedDateTime: 2020-10-11T20:18:00Z

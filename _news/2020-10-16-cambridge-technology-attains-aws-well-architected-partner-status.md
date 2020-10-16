@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Cambridge Technology Attains AWS Well-Architected Partner Status"
-excerpt: "AWS Well-Architected Partners have the skills ... IT problems by leveraging its competencies and expertise in Artificial Intelligence, Cloud, Big Data, IoT, DevOps, and SaaS & App Development ..."
-publishedDateTime: 2020-10-15T21:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508"
-webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508"
+excerpt: "Cambridge Technology Inc, a global business & technology services company, proudly announced that it has achieved the AWS"
+publishedDateTime: 2020-10-15T21:36:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cambridge-technology-attains-aws-well-architected-partner-status-301153712.html"
+webUrl: "https://www.prnewswire.com/news-releases/cambridge-technology-attains-aws-well-architected-partner-status-301153712.html"
 type: article
-quality: 84
-heat: 94
-published: true
+quality: 54
+heat: 64
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg?p=facebook"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 250
         isCached: true
 
-secured: "xduYElfN7yXQMJfWm9hLlESiYwAcYWmNDRWttkBdlIFS0bLUuozvfNcd4zNIS6KZZMkdCRy5VocNInlh8Lx3HPb/8s+8a2qROogQWuC1nteVbAL4LNWROYIGIltbKIUzkjPU4yOrvrc0HVlV/l4YM/RR1OnVkptHJ2EzuKsRMyd/YTgeR0DGwwxdLIdpTbVp2h2gmxBI/vg1My0S6pdCds/S51AJjs26gvx52C1OXZqzn8JTwqqOQmx++3X+8oghnAgTXMl71spNoD1hPBHs1MDWXlcZIPtp8EoWuyxu3jxC+tpNyJsJ2QAVPg56o2qtPVWFC1oORFxoQbPICa+CQlbiT/xXem3IHpqSmLpNKv4=;+8tDJSrVQIMDsWNBDsstHQ=="
+secured: "W2tQ2KRy2/9g+vlW/auZNNYeZfnqHAPVfkHAj0/w1ebJuE17xrIOyw/QH2KiOLS+mpVxEGrSLNMYOC1OxHXaXDiZLLRphYI+WHhxmvVk9QFI54MnTB+Y4gQYZqnOII1tmoql7l3TVTx5Tv112N2KsirR11sgiPz97FEdKhPgIvzKj54z7ChKL1mrsGjutR50gFoWDUchitkFEsqDbZMDWvZQnfR7JYDBp/kRTx1Rv92XguBHyAkutGzJXuTCTHhAzPVtq2uIJUdr5gH68wxTm2ix4ARpKQ1E53S3TrDyIzQVPgEu4b1TR3/VUN0fhQy/RVUOgQctB+idCYLsm76LPP8lATbjcZzczdeDvcnA9TY=;iiX8ae6rlt/SfkRquQ77yA=="
 ---
 

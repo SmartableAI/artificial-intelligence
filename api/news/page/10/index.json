@@ -1146,21 +1146,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-06-explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist.md",
-      "title": "Explainable-AI (Artificial Intelligence - XAI) Image Recognition Startup Won US Air Force Space Challenge Competition, as a Finalist",
-      "excerpt": "POTOMAC, Md., Oct. 5, 2020 /PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, has won the prestigious \"Engage-Space Challenge\" competition by the US Air Force (managed by ...",
+      "path": "_news/2020-10-05-evaluating-an-automatic-speech-recognition-service.md",
+      "title": "Evaluating an automatic speech recognition service",
+      "excerpt": "Over the past few years, many automatic speech recognition (ASR) services have entered the market, offering a variety of different features. When deciding whether to use a service, you may want to evaluate its performance and compare it to another service. This evaluation process often analyzes a service",
       "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-9361661",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-9361661",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1170,12 +1170,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T12:12:00-07:00",
+      "publishedDateTime": "2020-10-05T12:06:26-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1184,8 +1193,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     }
   ],

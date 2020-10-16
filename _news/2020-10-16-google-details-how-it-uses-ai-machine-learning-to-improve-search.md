@@ -1,36 +1,41 @@
 ---
 category: news
-title: "Google details how it’s using AI and machine learning to improve search"
-excerpt: "During a livestreamed event today, Google announced new ways it's applying AI and machine learning to improve the Google Search experience."
-publishedDateTime: 2020-10-15T19:40:00Z
-originalUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/"
-webUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/"
-ampWebUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
+title: "Google Details How It Uses AI, Machine Learning To Improve Search"
+excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."
+publishedDateTime: 2020-10-16T04:14:00Z
+originalUrl: "https://www.mediapost.com/publications/article/356876/google-details-how-it-uses-ai-machine-learning-to.html"
+webUrl: "https://www.mediapost.com/publications/article/356876/google-details-how-it-uses-ai-machine-learning-to.html"
 type: article
-quality: 104
-heat: 154
-published: true
+quality: 36
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MediaPost
+  domain: mediapost.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&#038;strip=all"
-    width: 1200
-    height: 600
-    isCached: true
+  - Natural Language Processing
 
 related:
+  - title: "Google details how it’s using AI and machine learning to improve search"
+    excerpt: "During a livestreamed event today, Google announced new ways it's applying AI and machine learning to improve the Google Search experience."
+    publishedDateTime: 2020-10-15T19:40:00Z
+    webUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/"
+    ampWebUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "These 8 tech companies are using AI to improve healthcare, renewable energy, and more"
     excerpt: "We often see news and headlines about the dark side of AI, its weaponization, and “algorithmic warfare”. A plethora of AI-driven, dystopian paradigms await us in the future, but there is also a bright side!"
     publishedDateTime: 2020-10-13T22:08:00Z
@@ -89,16 +94,7 @@ related:
         width: 650
         height: 463
         isCached: true
-  - title: "Google Details How It Uses AI, Machine Learning To Improve Search"
-    excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."
-    publishedDateTime: 2020-10-16T04:14:00Z
-    webUrl: "https://www.mediapost.com/publications/article/356876/google-details-how-it-uses-ai-machine-learning-to.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 36
 
-secured: "isWhZQ9JeovOd53W792sd+R19sCZBm8t8F6qR662II+1QFtufBdC66NzvBY/ScMzKtWVgDIqAyRLtH5KMu3Pf6tBtFvA216bLEizinTojFCq73wfmGoUd7UhqHdT/iEmFNufW5kSdUo0G3KCCkQAxauo9sq837jDxJzXxxGtU8RYcKOlcozhw/ipBC0DCOVP35zBBbF77wx+SeF/xaaED0wYFBFTrWmWb24Aa6zJP2FCszZlYNucoOTE2aa8fbGKzrUsu6ZApy63H9fwPwLl93GH179dZzfQgwYzFIi33SnaX8eNW1S543ceZKXQSXDbVFOEAuhj1HX8wHgWGKCADIXJqI1dtrl9LkD7JHLFG/A8uZwANJxSJPwHdxIBkbuVwjwfVmFu3CNC9+q8AuYsZBa/koshn7W3IqDDVvTHGjul9DEh7pSonnDwoijU57jIwzqhhUBGL3ENv9tzKINWXg9WYJ58VuPfE5n5PZdkT+pJAO6Aw0aOKRwsG8CfS+9BYmehrGdIC2PWmaQAs0GsHA==;98P5lZ3+uP6u7mqo+phJ7A=="
+secured: "7DTXKnvoHAni5HIgWhpGLzziV/U7LbIOfU6x4Ggn+X0RZn/JMVYOsPSHVfQeyj+HjrDdUXSPAlwbE0iJnt34PrYotlt0edHKWGYBDqxe86Ker57+4tHj6POZBxckHHZaIcByWEYkFnUW7mR+IIJE8/dj1fQWbZUBAX/R65E7fGxhilm1UZ67sv9fPvgb+Wj6qsJGYVwZqE0Dd9Kv3hlRwhz8vfC2+tNMKOMOsGKqomYaXJ2cLOLA3G1LpI6oKsJpoi2Eim6xCQzipAaeRdwx6DOIok4pmQB3eF+W1U3W5ukCXHkiUqVmSGnM53OC6TqEl5n00Sn7fYRzdvgUFcI2TwN8ffggOWhEIE+k0IyGVLk=;A0EE+M9NIRrmpDwrj8vv8A=="
 ---
 

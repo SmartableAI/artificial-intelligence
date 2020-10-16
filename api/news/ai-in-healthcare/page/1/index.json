@@ -476,6 +476,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-10-otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room.md",
+      "title": "Otologic Technologies hopes to bring artificial intelligence into the exam room",
+      "excerpt": "Otologic Technologies wants to use recordings during ear exams to enhance images inside the ear and compare them to a database of known ear abnormalities to make the",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/wsj/business/otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.html",
+      "originalUrl": "https://madison.com/wsj/business/otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/7/bb/7bb55d7f-31b4-5631-ba37-8813676011e7/5f6e23b91f0d3.preview.png?crop=366%2C232%2C1%2C58",
+          "width": 366,
+          "height": 232,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://madison.com/business/otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/business/otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.amp.html",
+      "publishedDateTime": "2020-10-09T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-these-are-the-3-biggest-bargains-in-biotech.md",
       "title": "These Are the 3 Biggest Bargains in Biotech",
       "excerpt": "Since the March 23 low, investors have taken a particular liking to the technology sector, with cloud computing, cybersecurity, and artificial intelligence stocks rocketing ... as a monotherapy or combination therapy. Even a handful of these clinical ...",
@@ -1332,50 +1375,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-future-demand-market-analysis-outlook-for-2027.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market: Future Demand, Market Analysis & Outlook for 2027",
-      "excerpt": "Industry Analysis of the Natural Language Processing NLP in Healthcare and Life Sciences Market Report 2020 2027 Global Natural Language Processing NLP in Healthcare and Life Sciences market has been leaning towards the growth curve and contributing to the global",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2145396/natural-language-processing-nlp-in-healthcare-and-life",
-      "originalUrl": "https://www.openpr.com/news/2145396/natural-language-processing-nlp-in-healthcare-and-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T929873491_g.jpg",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2145396/natural-language-processing-nlp-in-healthcare-and-life",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2145396/natural-language-processing-nlp-in-healthcare-and-life",
-      "publishedDateTime": "2020-09-29T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

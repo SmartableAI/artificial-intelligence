@@ -1,23 +1,29 @@
 ---
 category: news
 title: "The 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference opened at Hangzhou"
-excerpt: "HANGZHOU, CHINA / ACCESSWIRE / October 15, 2020 / On October 16, the 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference opened at Hangzhou International Expo Center. The exhibition will last for three ..."
-publishedDateTime: 2020-10-16T03:49:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/50973140-the-2nd-china-hangzhou-international-smart-products-expo-and-2020-global-artificial-intelligence-conference-opened-at-hangzhou-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/50973140-the-2nd-china-hangzhou-international-smart-products-expo-and-2020-global-artificial-intelligence-conference-opened-at-hangzhou-200.htm"
+excerpt: "HANGZHOU, CHINA / ACCESSWIRE / October 15, 2020 / On October 16, the 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference opened at Hangzhou International Expo Center."
+publishedDateTime: 2020-10-16T03:25:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-greater-china-asia-hangzhou-china-2d727c3c9de31e4184159672760bec65"
+webUrl: "https://apnews.com/press-release/accesswire/technology-greater-china-asia-hangzhou-china-2d727c3c9de31e4184159672760bec65"
 type: article
-quality: 0
-heat: 0
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
-secured: "yHxUHkjF5yHQE4IPpiWkw18T9CkzUO2ekrL5R1foBlCp4twJtvsrbh3hHdFpQbyGqVmrOOfyH8D5DqiMdLi4VWkxCGPhLyY8Ei/zxFL7u3VIgy5+qwm8sz8nGAnByJwf+2ROxVTz4ip3pottNTNrqF3CHErkiwcPmUELvbgJkUkzaaURa53vZwBcn6oaSwOvQhyyANwRh3pYkhZwJ/SUPn1HMTfPSc9oR5M9K7S2oCENkqE/vjYBHARfRaPK1CbKtwKL1cIs34emmZqgPG3X8Ifoc4DOJ56uBEiWg4gTxAq1uDbTrERm8jEqxtKVhs91Q/OcnqSwyDrd7OsV4nPIT3ErLr0Eig+hpb7NNs/zq2M=;OhLdps3LrI45KWPOTFGvAw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "KqZhMDN32/P1qv0WiacQ7fDZSmAPyQRpJwPRrw1Wh0hHUdtESr8EOgXmAvpM5ak1gsf7r8DQ6J4pk6Y5LzBrW089ZD8yTQlkAw/bkkd88NEH61Huh8j6OQ9oz1W28E5P+OeDBOP6/KoQrn8EfTxXPIaHG9QE0kfC43S6zD2QfI/RY0ZZMQgGhbN50hgR2t9rrrdnjW2JBfcCPS7ux7p4VNmhAXyipkV3a5OykthUAr0+dZcU5UtBZXL8THgjrczGBqjLIs8a5vCq3s096c8nKl7C2dRb/qGcGQLVlcxm/l7t1t54HlnTNUmYalDyPvHE624SuYkq8xONKmMYs71E2rpklq1ik0k4CDGuSrzg/MI=;FhqZdUd79srVKvygXXZSpA=="
 ---
 

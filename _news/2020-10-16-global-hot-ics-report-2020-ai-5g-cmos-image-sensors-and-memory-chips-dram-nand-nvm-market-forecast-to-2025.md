@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Global Artificial Intelligence Market (2020 to 2026) - Bringing AI to Edge Devices Presents Opportunities"
-excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
-publishedDateTime: 2020-10-13T12:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557"
+title: "Global Hot ICs Report 2020: AI, 5G, CMOS Image Sensors, and Memory Chips (DRAM, NAND, NVM) Market Forecast to 2025"
+excerpt: "A Market Analysis of Artificial Intelligence (AI), 5G, CMOS Image Sensors, and Memory Chips\" report from The Information Network has been added to ResearchAndMarkets.com's offering. This report examines in detail Artificial Intelligence (AI),"
+publishedDateTime: 2020-10-16T05:42:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/global-hot-ics-report-2020-ai-5g-cmos-image-sensors-and-memory-chips-dram-nand-nvm-market-forecast-to-2025-1029687117"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-hot-ics-report-2020-ai-5g-cmos-image-sensors-and-memory-chips-dram-nand-nvm-market-forecast-to-2025-1029687117"
 type: article
-quality: 51
-heat: 81
-published: true
+quality: 42
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -19,21 +19,19 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
-  - Machine Learning
-  - Facebook AI
 
 related:
-  - title: "Global Hot ICs Report 2020: AI, 5G, CMOS Image Sensors, and Memory Chips (DRAM, NAND, NVM) Market Forecast to 2025"
-    excerpt: "A Market Analysis of Artificial Intelligence (AI), 5G, CMOS Image Sensors, and Memory Chips\" report from The Information Network has been added to ResearchAndMarkets.com's offering. This report examines in detail Artificial Intelligence (AI),"
-    publishedDateTime: 2020-10-16T05:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-hot-ics-report-2020-ai-5g-cmos-image-sensors-and-memory-chips-dram-nand-nvm-market-forecast-to-2025-1029687117"
+  - title: "Global Artificial Intelligence Market (2020 to 2026) - Bringing AI to Edge Devices Presents Opportunities"
+    excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-10-13T12:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 42
+    quality: 51
   - title: "Asia Pacific Digital Transformation Research Report 2020-2025: Focus on 5G, Artificial Intelligence, Internet of Things, and Smart Cities"
     excerpt: "G, Artificial Intelligence, Internet of Things, and Smart Cities in APAC 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. The AI segment is currently very fragmented, characterized with most companies focusing on silo approaches to solutions."
     publishedDateTime: 2020-10-12T15:15:00Z
@@ -63,6 +61,6 @@ related:
         height: 450
         isCached: true
 
-secured: "vdcdNazdnpStGz3qJoZMqBQkSfUkLN5/NzVobgcLh2egVeVPKjUxtg/75BC3zdUfF1trOzhSld+wtgvv62lvtlV2a0Jpbq05HWVmz7nqKCOuU8o520SQ0u94gcXqY2615kQ29LLVP2UEdWvAhHJBNCGaDwn7RFvirK76JxvC2WV/lnTbczPFG86X+ltsUqab2K7FQWLpjsKbzN9hWaRlSFc2QwwZsTtMrDcIB6vYCRniCaadKBB/nUAuBa4PjvgFLkPgCTj5ma7aie4RbEr0U/t2G5boaIq1Q816EOSYJFIIm1bG6zhYkdMyKRN1R5XZqabwI/p9QRaxEuRviVJaQJzWVPEDpbbPpt9TSCTx+jU=;z/w/Vt2t6nPXNI8im0xbDg=="
+secured: "HkSX+7Ix2jYdxBxGYvzblTOTDSUtd08ZnCNZ0drlFFMyhJy7t44kOXBp9aYjnYhJU7DqxqQDQhgd9GiMoZXgaNRHavzTRVoC6fdybhqdtAOCJjmUlR3Rbil3efugQOWYyUupKUQeHJTKYF3PWsl2/4r2wFClCbnnwbASw5WA3U6OpPEyB2f4IqC2/ZpPqeppSGqBlFel6yikQpPIwsBhcMaNd7laN0+FV4C4noIzZx6zNvIzqFJ26IvYYUqmuE1DqB/K5jdPwVDOUT8Wwov+lO8Rzw/Z07dF/Nsfgncqjzw0tLbjY+Ksryfoint2GqKT8Q35RJowbXFP/K3XLg6klKrLqMRDz+PYo/lEYtwharE=;5lbFyOue7M7g2guJUHk+2Q=="
 ---
 

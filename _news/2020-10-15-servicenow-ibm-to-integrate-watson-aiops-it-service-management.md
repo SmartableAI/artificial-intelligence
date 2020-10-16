@@ -70,19 +70,14 @@ related:
         height: 410
         isCached: true
   - title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) and ServiceNow (NYSE: NOW) today announced an expansion to their strategic partnership designed to help companies"
-    publishedDateTime: 2020-10-15T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
+    excerpt: "ARMONK, N.Y. and SANTA CLARA, Calif., Oct. 15, 2020/ PRNewswire/-- IBM and ServiceNow today announced an expansion to their strategic partnership designed to help companies reduce operational risk and lower costs by applying AI to automate IT operations."
+    publishedDateTime: 2020-10-15T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 43
 
 secured: "Pcd8szYRn0EiURdKepzVL5ZQS1uq35AoJ1CkaDPavO5LcjPMpOMpy8DPmLr3axvIGWxCCBSEGXW2Sph8UrgbEJ0mU4vtZu3aZEg0TZHJCgBNLKnqMJ0aGzAPwsPJaf1CbuH5Fkn61iX4r74GTGSGMqdNTP38+jf7FFZoesQ7z8BZnYAV54fAKl8ccsmnsWVIJO3NHkn4VBzut3CYEJGC0dEmB2EezDJ+2zmfsuQNFQi3LY/xsnc1uXsHlOTiv+TjXq5LR2BFx4jw0Jw4Ad1XIquxbApgo3FIyefejPxFYuKXTOUVgm+L1BA82YgWHIaI95ury2T7Hp198aoZlqo7lOwfQ30olux0fkISUjYFZBOhykKSWuk2vlYdnR28mVS7u9DM+3neajyqA3SJXT8VQnH/ubEzp7y8AZbXlKHA0Hrqi67l81ypTF2F0kMKZmAzcRHpjThIYbd/wg2TYBEZ7pflA8pjI1lTW4kB7QsPyx2h9ygFrjxwPy3QLfhgwu9ZnaiyB0AHfNxjqG/F9rlxpA==;MzCAuPK7jeEZxqYoUtwJpw=="
 ---

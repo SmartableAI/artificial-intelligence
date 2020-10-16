@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-15-rebel-foods-bets-on-robotics-ab-testing-to-scale-food-biz.md",
-      "title": "Rebel Foods bets on robotics, A/B testing to scale food biz",
-      "excerpt": "Rebel Foods grew from its earlier avatar ‘Faasos’ to a multi-brand food firm which currently houses more than 15 brands such as Behrouz Biryani, Oven Story Pizza, Sweet Truth, Slay Everyday, Firangi Bake,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz-11602755900460.html",
-      "originalUrl": "https://www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz-11602755900460.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/10/15/600x338/biriyani_1564638221094_1602756719242.PNG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz/amp-11602755900460.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz/amp-11602755900460.html",
-      "publishedDateTime": "2020-10-15T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-15-how-centralizing-your-global-content-strategy-with-help-from-ai-can-increase-your-roi.md",
       "title": "How Centralizing Your Global Content Strategy -- With Help From AI -- Can Increase Your ROI",
       "excerpt": "Clicks, eyes and conversions aren’t important. The only thing that counts is ROI, and to calculate that, you need to understand what you’re trying to achieve.",
@@ -1222,6 +1179,58 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem.md",
+      "title": "On The Hit-And-Maybe-Run Self-Driving Car Dilemma (Akin To ‘The Molly Problem’)",
+      "excerpt": "AI Ethics and the self-driving car hit-and-maybe-run dilemma. getty. Please prepare yourself for a driving scenario that we all dread and profusely hope will never occur. Wham, wh",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/14/on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/14/on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f867f6d004ee7742e9545b4%2F0x0.jpg%3FcropX1%3D191%26cropX2%3D4608%26cropY1%3D395%26cropY2%3D2879",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/14/on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/14/on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem/amp/",
+      "publishedDateTime": "2020-10-14T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

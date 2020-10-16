@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-10-12-caterpillar-bets-on-self-driving-machines-impervious-to-pandemics.md",
-      "title": "Caterpillar bets on self-driving machines impervious to pandemics",
-      "excerpt": "How can a company like Caterpillar <CAT.N> try to counter a slump in sales of bulldozers and trucks during a pandemic that has made every human a potential disease vector?",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-caterpillar-services-technology-focus-idUSKBN26X1ET",
-      "originalUrl": "https://www.reuters.com/article/us-caterpillar-services-technology-focus-idUSKBN26X1ET",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537123187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B0S1",
-          "width": 807,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26X1ET",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X1ET",
-      "publishedDateTime": "2020-10-12T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-12-adobe-puts-artificial-intelligence-tools-into-its-marketing-software.md",
       "title": "Adobe puts artificial intelligence tools into its marketing software",
       "excerpt": "Adobe Inc <ADBE.O> said on Monday that it has put a new set of artificial intelligence tools into its digital marketing software with the aim of helping companies sharpen their marketing campaigns.",
@@ -411,7 +359,7 @@
       "originalUrl": "https://mashable.com/article/tesla-fsd-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -1177,6 +1125,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room.md",
+      "title": "Otologic Technologies hopes to bring artificial intelligence into the exam room",
+      "excerpt": "Otologic Technologies wants to use recordings during ear exams to enhance images inside the ear and compare them to a database of known ear abnormalities to make the",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/wsj/business/otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.html",
+      "originalUrl": "https://madison.com/wsj/business/otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/7/bb/7bb55d7f-31b4-5631-ba37-8813676011e7/5f6e23b91f0d3.preview.png?crop=366%2C232%2C1%2C58",
+          "width": 366,
+          "height": 232,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://madison.com/business/otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/business/otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.amp.html",
+      "publishedDateTime": "2020-10-09T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },

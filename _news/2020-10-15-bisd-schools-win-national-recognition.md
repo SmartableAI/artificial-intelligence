@@ -24,17 +24,6 @@ images:
     height: 568
     isCached: true
 
-related:
-  - title: "Local VFW receives national recognition"
-    excerpt: "The Teacher of the Year and Law Enforcement of the Year offer the community a chance to recognize those who are making a difference in their organization, and the Patriots Pen and Voice of Democracy writing competitions offer students a chance to win ..."
-    publishedDateTime: 2020-10-11T12:02:00Z
-    webUrl: "https://www.stardem.com/news/local_news/local-vfw-receives-national-recognition/article_fe650966-551f-59b4-8c0d-6b98b3db663b.html"
-    type: article
-    provider:
-      name: Star Democrat
-      domain: stardem.com
-    quality: 4
-
 secured: "EWYlebAmirkZjU/JicqHpnogsHNKq6qoLwUJlh8U7/R5Hdt4lvbEO5AoLSDrIGMAdP7K2L8M8BwxpZlhmLoIKNYiCz9SVSPjSCgJDUAWbyX6i942BagBEdSmtC6+hPo4wFnI/Zt6QmV9D0/q8X/PXKp3rFax61r+Sx91rCTDzYK6+r7Djslxpw0GuyTwLmHLY9oyefw2bgFC4ha4gUZ8yMa7PBwHPcy2/sFJTIF1cWp6+YK6zMf3lM3ftsCl2ozIyuzy4Lw9gKLe3eZFOHONkDkuWpUCPDoeCKVFb7UScbvaaCppp0TSQXozSUeWVI4KN6q4RWXQjksmWU+MVP9grfNAp/QpvF+PXQJOVCsKH/GIIZgJe7VggBuaU+Z24jkbioNN5BpZiQqS5frjHqgsJt7rT2MbObqtOMKp+LAiqOk6MmaWy8lJxKj2fNDRpgyGAWlpoZMOnASEe/YrKt9zbc5PMT1HAcM3U2ZNpZJEQGmMNPZD/uL+PxqsvwHMiBEyZDZbA7G9ZCWY+sTDtyySOA==;pUrzVDUU0rWFohVHJPwFpw=="
 ---
 

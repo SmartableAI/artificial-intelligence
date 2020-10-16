@@ -39,22 +39,6 @@ related:
         width: 800
         height: 507
         isCached: true
-  - title: "Iris Recognition Market Trends 2020: Industry Analysis Report, Size, Share and Forecast By 2025"
-    excerpt: "According to the latest report by IMARC Group titled Iris Recognition Market Global Industry Trends Share Size Growth Opportunity and Forecast 2020 2025 the global iris recognition market size reached US 1 8 Billion in 2019 Iris recognition is a"
-    publishedDateTime: 2020-10-15T17:49:00Z
-    webUrl: "https://www.openpr.com/news/2161264/iris-recognition-market-trends-2020-industry-analysis-report"
-    ampWebUrl: "https://www.openpr.com/amp/2161264/iris-recognition-market-trends-2020-industry-analysis-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2161264/iris-recognition-market-trends-2020-industry-analysis-report"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta15363849_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "9Dm9VJF0LpQS2MWMMhfu6OADzc5zv/cc8V1xt7V08ZotcooTf39bjQb5f+KpjGmRHg2QQUX0h4nnx7fAgJqzma+o3iPh8+tBaAZBG8oFzl0sF29uFu3NlcYY93gp7svoEFoj7VehVg4CvhuCsONln0QA5oRE2zdjIoY/zX1445CHz0GnRq651uN+D5Rudk/RmaA5GdlpafuZLAQHt7lvMty+fRb75wjU4viqPlaCQV/Jidjtp7gS2wLDsECaw7hfsgZxq41eKi5aju0l6r01o+Q0MtWpOfloJ7BoJ4TV8Q8fud/SW0OE/PI08pQvev9qa8SqMqEA5NkGJ3XDD/9BURAwR0AISdvXcuzwdsIuFOg=;a5FIswYDtiIpqn8reRoloQ=="
 ---

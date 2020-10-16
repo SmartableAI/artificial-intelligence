@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Google details how it’s using AI and machine learning to improve search"
-excerpt: "During a livestreamed event today, Google announced new ways it's applying AI and machine learning to improve the Google Search experience."
-publishedDateTime: 2020-10-15T19:40:00Z
-originalUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/"
-webUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/"
-ampWebUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
+title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
+excerpt: "When it's time to learn a new language, Duolingo offers a fun, interactive learning experience through its cross-platform app that's powered by artificial intelligence (AI)."
+publishedDateTime: 2020-10-16T04:36:00Z
+originalUrl: "https://www.forbes.com/sites/bernardmarr/2020/10/16/the-amazing-ways-duolingo-is-using-artificial-intelligence-to-deliver-free-language-learning/"
+webUrl: "https://www.forbes.com/sites/bernardmarr/2020/10/16/the-amazing-ways-duolingo-is-using-artificial-intelligence-to-deliver-free-language-learning/"
 type: article
-quality: 104
-heat: 154
-published: true
+quality: 58
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +23,28 @@ topics:
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&#038;strip=all"
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8921b72cdc5afb81459335%2F0x0.jpg"
     width: 1200
-    height: 600
+    height: 675
     isCached: true
 
 related:
+  - title: "Google details how it’s using AI and machine learning to improve search"
+    excerpt: "During a livestreamed event today, Google announced new ways it's applying AI and machine learning to improve the Google Search experience."
+    publishedDateTime: 2020-10-15T19:40:00Z
+    webUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/"
+    ampWebUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "These 8 tech companies are using AI to improve healthcare, renewable energy, and more"
     excerpt: "We often see news and headlines about the dark side of AI, its weaponization, and “algorithmic warfare”. A plethora of AI-driven, dystopian paradigms await us in the future, but there is also a bright side!"
     publishedDateTime: 2020-10-13T22:08:00Z
@@ -59,20 +73,6 @@ related:
         width: 1680
         height: 840
         isCached: true
-  - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
-    excerpt: "When it's time to learn a new language, Duolingo offers a fun, interactive learning experience through its cross-platform app that's powered by artificial intelligence (AI)."
-    publishedDateTime: 2020-10-16T04:36:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/10/16/the-amazing-ways-duolingo-is-using-artificial-intelligence-to-deliver-free-language-learning/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8921b72cdc5afb81459335%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Making new materials using AI"
     excerpt: "There is an old saying, \"If rubber is the material that opened the way to the ground, aluminum is the one that opened the way to the sky.\" New materials were always discovered at each turning point that changed human history."
     publishedDateTime: 2020-10-15T14:30:00Z
@@ -99,6 +99,6 @@ related:
       domain: mediapost.com
     quality: 36
 
-secured: "isWhZQ9JeovOd53W792sd+R19sCZBm8t8F6qR662II+1QFtufBdC66NzvBY/ScMzKtWVgDIqAyRLtH5KMu3Pf6tBtFvA216bLEizinTojFCq73wfmGoUd7UhqHdT/iEmFNufW5kSdUo0G3KCCkQAxauo9sq837jDxJzXxxGtU8RYcKOlcozhw/ipBC0DCOVP35zBBbF77wx+SeF/xaaED0wYFBFTrWmWb24Aa6zJP2FCszZlYNucoOTE2aa8fbGKzrUsu6ZApy63H9fwPwLl93GH179dZzfQgwYzFIi33SnaX8eNW1S543ceZKXQSXDbVFOEAuhj1HX8wHgWGKCADIXJqI1dtrl9LkD7JHLFG/A8uZwANJxSJPwHdxIBkbuVwjwfVmFu3CNC9+q8AuYsZBa/koshn7W3IqDDVvTHGjul9DEh7pSonnDwoijU57jIwzqhhUBGL3ENv9tzKINWXg9WYJ58VuPfE5n5PZdkT+pJAO6Aw0aOKRwsG8CfS+9BYmehrGdIC2PWmaQAs0GsHA==;98P5lZ3+uP6u7mqo+phJ7A=="
+secured: "9ArZWnj54bzglCmMlPgcuUYd/H0evrz/VeTbF9ETpAx9cUADiiGJ747xgX/38z6ru4Sg55qxy3JB4JTDscNGfBxJaDLbhu5cSdS3ffJ3ze02cj3n0T00rS+LKzNRL9O6crqgy6RFzpKBxZVo6LKOeTDwppEGm3DucJTNSBkpkll1mx3Fh8XQegH5nroCA6Gg/gGRjMp6iBH0MaiCvYMNLG4h69WQCuOqZqjqvtEJ+wRFVSVFjtdQtxXoYgeeCaXilDIMReYbPMpPcl8eskeElIFz+3yuOO2znJJkTiXA9EeB8mxgIltxSrFRKJYEA/FDhzlGuwSyL1e5Ku+mOKs/ejSJxWnW2e5E5u72CLUexRc=;P4DEHwY8upsNGJt8QoFxdQ=="
 ---
 

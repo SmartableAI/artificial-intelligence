@@ -472,7 +472,7 @@
       "originalUrl": "https://mashable.com/article/tesla-fsd-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -997,49 +997,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-06-explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist.md",
-      "title": "Explainable-AI (Artificial Intelligence - XAI) Image Recognition Startup Won US Air Force Space Challenge Competition, as a Finalist",
-      "excerpt": "POTOMAC, Md., Oct. 5, 2020 /PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, has won the prestigious \"Engage-Space Challenge\" competition by the US Air Force (managed by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-9361661",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-9361661",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-05-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in October",
       "excerpt": "Artificial intelligence (AI) is a fast-growing segment ... from quantum computing to start-ups like self-driving car outfit Waymo. This research racks up substantial losses right now, with the ...",
@@ -1461,6 +1418,49 @@
       "provider": {
         "name": "Finanzen",
         "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-baidu-fundraising-puts-3bn-value-on-smart-device-business.md",
+      "title": "Baidu fundraising puts $3bn value on smart device business",
+      "excerpt": "HONG KONG -- Chinese web search leader Baidu has brought in outside investors for its voice assistant and smart device business, setting the stage for a potential spinoff while valuing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/China-tech/Baidu-fundraising-puts-3bn-value-on-smart-device-business",
+      "originalUrl": "https://asia.nikkei.com/Business/China-tech/Baidu-fundraising-puts-3bn-value-on-smart-device-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F8%252F9%252F2%252F29672980-3-eng-GB%252FCropped-1601453378RTX7JFB8.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
         "images": null,
         "publishers": null,
         "authors": null

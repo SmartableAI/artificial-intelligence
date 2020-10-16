@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-16T03:00:00Z
 originalUrl: "https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c"
 webUrl: "https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5246fd70-6619-4c99-8d72-03875cac0f46.jpg?source=next-opengraph&fit=scale-down&width=900"
@@ -168,6 +169,6 @@ related:
         height: 450
         isCached: true
 
-secured: "JxojuWtEkICXoTD8rISNaYZ5ZBQsrHi+iUDQeeDTnhZRk3wzVN0u1Ils0N0fnTSAoHeSTHR/eSFYyy0l0M80Nkt5UZTOQlfCJU4ITusGZItCXjpGhM+GUDoxBHSi2Cxtx0ER8FSKBIRap41rM3sykkrUjjuefyJHTuNfIcb9nnylxOTtICf9exJXNeEzoMwNVAjwLN1IBSNo5Q8QXcdHkevwkJ+YF8L/JyaQaJvqVB8IVWeZsBWqkvKlcTkNxK6yltuvrWOmQ/WxLZH7YcL2zJln1c+gczNUzukeIa4eGyNv3Cf1T5Yc+lowIJJA0vdw9lizW28g5sU1wSEvpLEVJBm+tCkpk5vf6Q/KdNTy3Sc=;XPMLMGQKme2c6UIN6/qDyg=="
+secured: "k/y/kwtAVJdQu+mIEST3mrdZJ31TFMGuN03dWbO8VXKK0hFnkBolUzXN0+vJuQqKfFmMLYiIIdt4pT30NOiBk/0zevvY/sqvCtpFjaggrtwjGkMOd9tk7yMFCGRpSx7yfEJ6rKh6yDGwmW4yGHopKAFx1L+xbUvcuHdtMxpdTGqwkW0BX4OsiS7Q3Vuil4Ih2Qk3NMgMUK1kHSLigcvxlUJN+XwCwsyB3JdkbaP1hlfabSL1RH+ng3xZTibzCEfo+9lsILcHEajkrHUeOGIT3pW29MfqCmVVdz7vmMsm5GPRcs81+RU+vHvM7SgwoBrOcMAxz72ok4upvMVjmUVmJVdZ0GXkjdQ1Hi4OgqJnQ++iu9mwn/i1b1DMzbYY3taxX9Z8eWCw0NvKNjGJTKn9S2a1xCO+S9yfIC/UWJ6mR8uLgzB6C2k3a6kPQyw2KJmY5LKPNg+ERHJ/WrPRTg8VkcuVN7wLE3ICUQRpF85quryZKsfIchmXbhfu1Lo1+x6s9o+KeovwDYWv6Z+U2OjN7A==;jlJaYkb6+SpqMFPH5gvnxQ=="
 ---
 

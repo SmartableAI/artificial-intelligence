@@ -60,6 +60,20 @@ related:
         width: 1680
         height: 840
         isCached: true
+  - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
+    excerpt: "When it's time to learn a new language, Duolingo offers a fun, interactive learning experience through its cross-platform app that's powered by artificial intelligence (AI)."
+    publishedDateTime: 2020-10-16T04:36:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/10/16/the-amazing-ways-duolingo-is-using-artificial-intelligence-to-deliver-free-language-learning/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 58
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8921b72cdc5afb81459335%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Making new materials using AI"
     excerpt: "There is an old saying, \"If rubber is the material that opened the way to the ground, aluminum is the one that opened the way to the sky.\" New materials were always discovered at each turning point that changed human history."
     publishedDateTime: 2020-10-15T14:30:00Z
@@ -76,6 +90,15 @@ related:
         width: 650
         height: 463
         isCached: true
+  - title: "Google Details How It Uses AI, Machine Learning To Improve Search"
+    excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."
+    publishedDateTime: 2020-10-16T04:14:00Z
+    webUrl: "https://www.mediapost.com/publications/article/356876/google-details-how-it-uses-ai-machine-learning-to.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 36
 
 secured: "54QwL+WWT4L/qn/M3Y2pFJaeD64SYkLyCvDW8G5H7G0ZmRdx1KJBjR+pUfROJOuWt0ubT9gODe78F1WSSH/zlWBsRFW6noQs6sQWhRP4cIKJWG/ejwLqtFCmAD0qeZCGBoRgXgXBMR1TAlHUtAnuM219xVZuDj8brXra14bUkpDftYW2VnaAF+cpfNLrfHBhIvAGtPdYBW/6u0bAIRDi0C5AEgPLG9Y8EzZWSyQdVpfh9MD2ujXQpdELmJq18cUCwf/ckRVginNEjPXUuSdpgapcI+sI3reT4f7wIbn44C2VwgP0Ty03l/IiDJkV1ABnczwujP0hdkYIj3SzvsLdVvkNCSi5pQgx4nOTp+51cfpMoDZTgT/fRihoSh5DVdD1zZfFdbMFCR4Qm8TEcIPCxCQvCqaT16WK40Ow92oqh3jwDeKwOeHZ/kZR/t85nNCoyUbDM97pjZ0JiR+j173sqIVQ//XwPFCnh+g2CZFj4OWAm1yyYMBxPtmoCYexd4RT6VWJaFnrCBL5OVHHIVAyyw==;A6F1dt7/4KFXSUTPk+A50w=="
 ---

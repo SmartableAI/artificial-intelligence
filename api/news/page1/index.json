@@ -242,58 +242,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-cambridge-technology-attains-aws-well-architected-partner-status.md",
-      "title": "Cambridge Technology Attains AWS Well-Architected Partner Status",
-      "excerpt": "AWS Well-Architected Partners have the skills ... IT problems by leveraging its competencies and expertise in Artificial Intelligence, Cloud, Big Data, IoT, DevOps, and SaaS & App Development ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-16-gm-will-test-fully-driverless-cars-in-sf-later-this-year.md",
       "title": "GM will test fully driverless cars in SF later this year",
       "excerpt": "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ...",
@@ -511,7 +459,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1242,6 +1190,49 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-rebel-foods-bets-on-robotics-ab-testing-to-scale-food-biz.md",
+      "title": "Rebel Foods bets on robotics, A/B testing to scale food biz",
+      "excerpt": "Rebel Foods grew from its earlier avatar ‘Faasos’ to a multi-brand food firm which currently houses more than 15 brands such as Behrouz Biryani, Oven Story Pizza, Sweet Truth, Slay Everyday, Firangi Bake,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz-11602755900460.html",
+      "originalUrl": "https://www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz-11602755900460.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/10/15/600x338/biriyani_1564638221094_1602756719242.PNG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz/amp-11602755900460.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz/amp-11602755900460.html",
+      "publishedDateTime": "2020-10-15T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

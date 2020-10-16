@@ -27,31 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Recognition Software Industry Data Statistics Analysis by 2020-2025"
-    excerpt: "Latest Research Study on Global Voice Recognition Software Market published by AMA offers a detailed overview of the factors influencing the global business scope Global Voice Recognition Software Market research report shows the latest market insights with upcoming trends and"
-    publishedDateTime: 2020-10-14T18:37:00Z
-    webUrl: "https://www.openpr.com/news/2159841/voice-recognition-software-industry-data-statistics-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2159841/voice-recognition-software-industry-data-statistics-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2159841/voice-recognition-software-industry-data-statistics-analysis"
+  - title: "Natural Language Processing in BFSI Market to Witness Robust Expansion by 2025"
+    excerpt: "LP INFORMATION recently released a research report on the Natural Language Processing in BFSI analysis, which studies the Electrical Cord Reels's industry coverage, current market competitive status, and market outlook and forecast by 2025. Global ..."
+    publishedDateTime: 2020-10-16T05:45:00Z
+    webUrl: "https://www.openpr.com/news/2161487/natural-language-processing-in-bfsi-market-to-witness-robust"
+    ampWebUrl: "https://www.openpr.com/amp/2161487/natural-language-processing-in-bfsi-market-to-witness-robust"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2161487/natural-language-processing-in-bfsi-market-to-witness-robust"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 43
+    quality: 55
     images:
-      - url: "https://cdn.openpr.com/T/a/Ta14631842_g.jpg"
+      - url: "https://cdn.openpr.com/T/a/Ta16149082_g.jpg"
         width: 800
-        height: 507
+        height: 450
         isCached: true
-  - title: "World Image Recognition in CPG Market Analysis 2020-2025, by Component, Application, Deployment Mode, End User and Region"
-    excerpt: "The \"Global Image Recognition in CPG Market by Component (Hardware, Solutions, Services), Application (Inventory Analysis, Product & Shelf Monitoring Analysis, Gauging Emotions), Deployment Mode, End User (Online,"
-    publishedDateTime: 2020-10-15T09:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/world-image-recognition-in-cpg-market-analysis-2020-2025-by-component-application-deployment-mode-end-user-and-region-1029682697"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 9
 
 secured: "Ev0AJmX0+9RnauEC2vB5EzUm9WSD96c2QbIj0U3WITRFIoj/x7wTnnpfgpfsYXm0gk0+XjBWu1F+CH+pc4SLE3n/b4uaoKMBgUPVpGMyBjNvdkPpAMnegdZBp7xmlDgJS82q5dubYix6llsMR34wP6guVNtE94t6Oaz8vKJxsWF9e3EvqIln5heWa3Q06qefPG+/lsi39TWK+5CT9wge9Y9Ol2cCEYncRBFbN4w05zLGcY0er8iFvpynTE8BZGS+z3iXssxCETh0D9LeUTQJFpPf3Irhl1yfLUzlLGCAK9+PJtmfHhwdBDld7UUZWiqHMEcyksf2dFSyCUqTfdWJcqrHxqPrqFTW2FV4NNuCOEs=;DzpcNHVnDuw67MLM4ub2Rw=="
 ---

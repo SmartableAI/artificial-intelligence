@@ -1,28 +1,22 @@
 ---
 category: news
 title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) and ServiceNow (NYSE: NOW) today announced an expansion to their strategic partnership designed to help companies"
-publishedDateTime: 2020-10-15T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
+excerpt: "ARMONK, N.Y. and SANTA CLARA, Calif., Oct. 15, 2020/ PRNewswire/-- IBM and ServiceNow today announced an expansion to their strategic partnership designed to help companies reduce operational risk and lower costs by applying AI to automate IT operations."
+publishedDateTime: 2020-10-15T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk"
+webUrl: "https://www.nasdaq.com/press-release/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk"
 type: article
-quality: 33
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
-    isCached: true
 
 related:
   - title: "ServiceNow, IBM to integrate Watson AIOps, IT service management"
@@ -81,6 +75,6 @@ related:
         height: 410
         isCached: true
 
-secured: "Eea/fDHGUMPQ7MH9uVWGxlOKqBQSdgEyAUaZeLt4wBh+8teYQBYot/5ony/ET0j7o+H/FT4CKrsiZFIizSENhXSx4CzjLir4gJhWwLXTkkEXDijJdtkEg2itZAprrvVjCo6g41koUC36jHOnERqZj6cxCfQ6LiknBfcPd+vwJs4FJ/8g6mYzWEud+dPAsTK9j9AP/9Ndj4rDevYR0FDFrYmcSrvjkb6/QAnu9qIJn9YfQWNJW3wUSWinbPIWa1Uiagyixl8577AHu+rgLi+fGSx6zNoGqv999GHHFQIm+PcmIRtCTK3atoi1xI01QWG5VZ+eOBtN2PHLevDimunQTYLCaTcX7MJe5jStVx1nTbY=;NUau+WLmeilsmFbANJn2Mw=="
+secured: "gTffuCLJa3s7cbLrLWCS2jrQTE3GMqHWm+kiiUPNHzXy1JScbzopW8FIpW2T/1H0geXDZNbu8DgwAon8G3r6lvAcUDUxZcXVcwtGX7sebKOWaVS66PETPvbsuRNzMMpekg2XOyobySnk0Tq2WI6wyTv3NRTVQwCoZIm2dZ5EosFXORYlkOZ89BZHOmDkygVFjN3iQoYc2DEUmRRF7uAK/KOOujgxwDoao+OMUin08NncjJ9pWIK1D/eyOtyIGys5SN9R+P7bFMkUMEpId2rB+I9GPbEVTpJnXNwiql+YSQ+bYQ73wVFXhuSL9W3ztqav74SWyHPiVJGf3IhaTZv5wNmBtUCBfFMUqT/kOlbfcuc=;ENvtuB2ipQlGRuje+5bVCQ=="
 ---
 
