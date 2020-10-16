@@ -137,6 +137,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
+  - title: "Google Search gets hum-to-search and AI query upgrades"
+    excerpt: "Now, Google will start surfacing statistics from the repository in response to user queries. Google also announced more general-purpose enhancements at Search On that focus on boosting the search ..."
+    publishedDateTime: 2020-10-16T17:47:00Z
+    webUrl: "https://siliconangle.com/2020/10/16/google-search-gets-hum-search-ai-query-upgrades/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/google3.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Satellites are mapping out every tree on earth using artificial intelligence"
     excerpt: "To train it, the AI system was shown satellite images where trees had been manually traced. This involved lead author Martin Brandt going through the arduous process of identifying and labelling nearly 90,"
     publishedDateTime: 2020-10-16T11:45:00Z

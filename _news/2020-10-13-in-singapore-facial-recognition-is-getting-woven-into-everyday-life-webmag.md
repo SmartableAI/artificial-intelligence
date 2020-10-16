@@ -41,6 +41,17 @@ related:
         width: 2500
         height: 1407
         isCached: true
+  - title: "Singapore releases AI ethics, governance reference guide"
+    excerpt: "Singapore Computer Society launches reference document to guide businesses in the development of artificial intelligence ethics and governance as well as future training and certification of professionals."
+    publishedDateTime: 2020-10-16T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "From AI to facial recognition: How China is setting the rules in new tech"
     excerpt: "HONG KONG/BEIJING • Mr Zhao Houlin is head of the United Nations' telecommunications agency, an independent international arbiter that sets some of the rules shaping the modern technology industry. But that does not stop him from letting his patriotism burst into the open."
     publishedDateTime: 2020-10-14T22:48:00Z

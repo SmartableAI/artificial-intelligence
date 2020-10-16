@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 1418
         isCached: true
-  - title: "Government deal done over facial recognition technology"
-    excerpt: "The Government has done a deal over facial recognition technology that throws access to it wide open. The Internal Affairs Department has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
-    publishedDateTime: 2020-10-11T23:41:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018767922/government-deal-done-over-facial-recognition-technology"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://www.rnz.co.nz/assets/news_crops/110255/eight_col_121526165_l.jpg?1601428940"
-        width: 720
-        height: 450
-        isCached: true
 
 secured: "3cPwNXdqexAdVHdGupADRy9IPrZB0fvDda7iu8v5G/gQjklTwGxb8GRD9zF+a/xfP/n45Rcb0azKhUQVRuwVKDVc0LV2E4M0VXXEXTiJjfrWwHswbZmndvgi0/LktrHmOuwQPGq5TcjOYUiNQyFDE1BZAneyuQ9UqQ6aV2Bl0NiO87dXfteFPPBcJhEEAKYeamoGbbmQJ4wpQGRZepaDC98w8B+UzfGwzNIwLbZtF9bnTkkiIYBMc+nu6YaFtkY9RJAooFi6+7rpMnpn2rIEUXrtqilCMA0BLTB8mGTIgSURi9dmJRU50PIEGtxr+fTwgDJqTHj8LLdBWVaM9dS8PMb1XPgVPU8sHrPbngb3NrQ=;xAwHP9tNjynSDQnSVc984g=="
 ---

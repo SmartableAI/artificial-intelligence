@@ -133,6 +133,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
+  - title: "Google Search gets hum-to-search and AI query upgrades"
+    excerpt: "Now, Google will start surfacing statistics from the repository in response to user queries. Google also announced more general-purpose enhancements at Search On that focus on boosting the search ..."
+    publishedDateTime: 2020-10-16T17:47:00Z
+    webUrl: "https://siliconangle.com/2020/10/16/google-search-gets-hum-search-ai-query-upgrades/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/google3.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Google Details How It Uses AI, Machine Learning To Improve Search"
     excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."
     publishedDateTime: 2020-10-16T04:14:00Z

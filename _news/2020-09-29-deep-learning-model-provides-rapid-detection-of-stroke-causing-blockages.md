@@ -2,7 +2,7 @@
 category: news
 title: "Deep learning model provides rapid detection of stroke-causing blockages"
 excerpt: "When they tested the deep learning model on multiphase CTA examinations of 62 patients, the model detected all 31 large vessel occlusions for a sensitivity of 100%, a statistically significant ..."
-publishedDateTime: 2020-09-29T14:04:00Z
+publishedDateTime: 2020-09-29T14:04:39Z
 originalUrl: "https://medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.html"
 webUrl: "https://medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.html"
 ampWebUrl: "https://medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.amp"
@@ -17,6 +17,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "ZvgcJzWM5OWgkEAw0fteTIeR0OixtgZYOifeTPZecK94+CS7wY2m2lqrJ2dg8bEtJbirJhnRi7SXm31M/rSHQYf3SSo32Ra17oZUw6qa9A4AVEgkp3MrcaEDziU9C32+3Oeob8k8IcRcsxlPWh9z9Qt4+94cVTs4gtRHKJ2eSzmfXotj7l8CBjMQo3xLuxRo1tkswKZ5P6Tle94ag2IleC9KQO71EzgHS996OL/qUbPgGztZ1mifKBo7xhCDPhK7zFUZp9fOH43MlZp1aKyFfcV5GxztrzCFK9XF+yYKAEjjxINw4t+6AwONGAijt8Nz+/FBs4hoGjY3WuWzr5rjggn0QovXE7uw2l8h1B+exxQ=;/9zCF/4kUybdFJAPpuZqPg=="
+secured: "USuun9AVqMzzYDHp1e1lXZBPkoga4nlLTnna/LFROzmC5dUHuhkPqOp20LLgie2kjmU5UZBYY9jLxrE/U2OmvBgzWd7Hz8yzNpmkTigcy1wk4f4PEsY0v8nGcClVQBfS5KqVJrX4xC7sBXlyaeN/wMtZfXN2YdvC9hSpW5yMpyv9MRaPgTi0bcy1puy7fdpgPuh/K3/VxNJd5yweI3Bjo3GpESoL8kr/gM5mpRFBnUUEYmBugGHvh+SxZOpipZnGfHZ73aOo+CzZdplYO6UHZA3sMKPTD+wgG2nsZi8upv02RcMHAQVEVM+Ne9NyEuJPe3m0arfN5ebH8k+CEdx9/L+o8+tnbzzm/MBlFluzKec=;T6qulpeF1js5br9GbM/QnQ=="
 ---
 

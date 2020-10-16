@@ -28,14 +28,14 @@ related:
   - title: "Brazil launches artificial intelligence center"
     excerpt: "The largest research facility in the country with focus on the technologies is run jointly by IBM and public sector bodies."
     publishedDateTime: 2020-10-14T19:55:00Z
-    webUrl: "https://www.zdnet.com/article/brazil-launches-artificial-intelligence-center/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-launches-artificial-intelligence-center/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-launches-artificial-intelligence-center/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/brazil-launches-artificial-intelligence-center/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 69
+    quality: 67
 
 secured: "6c79zpzckbgiv0TjXtJtZ4/zqfVkLFWtAH8ldTRx+PXCTx9N6iqYERF/yfG9KIrwBW+ycljy3kkDQ8R/XLsGFjZJogfSpu4vG+1/SgMtbNh5w8nPa/yElKCCMAyU6yWT8CLZSo3cJRC3VspjjX3UJj+ZWmKci9exSJ0fUr5fR4p9FH0qMxIlrLFLXIUQ4KEUVaUq8nWdzh31rcXo0wQ3CRo0rerQ/ot7stz1UpBiCI/txtEHXbzqdxcfReVeH0D7TlBSwoIeVk/W38yr8O1EMhbf3MpeKcm3zVtvJewVrGYswGMbPlsVgql92vpJx2BaWdVPM/Odj+ZrPvsF1jOLEu83B8qPG0BqSZzFecHfY5DhkTPfM2Ay9eYNOIgkOWiUwqRlUCqVHNu/YAeTPHqHspXpRVl2BgIRk9nj8Y72pFtoOCsapvFxc7FLccFketAa1G7p+IOFB593ThCibwzxcEmgwhkDfDYmZdc+IKDz/5LPyEOc3k21pt/Yg5cQaSoPl1JcoTL0V9fFyNjk09LZyA==;dbQJophNeT/gGfDL/bT3YA=="
 ---

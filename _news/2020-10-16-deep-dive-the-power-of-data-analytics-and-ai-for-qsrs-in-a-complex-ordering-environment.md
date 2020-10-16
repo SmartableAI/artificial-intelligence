@@ -53,6 +53,22 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 61
+  - title: "7 data science start-ups shaking up AI and analytics – Silicon Republic"
+    excerpt: "From the start-up that wants to make machine learning accessible to everyone, to the one that’s using analytics to monitor and take early action against skin cancer, here are seven up-and-coming science start-ups making waves in AI and analytics."
+    publishedDateTime: 2020-10-16T14:46:00Z
+    webUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic"
+    ampWebUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2019/03/GettyImages-959874388-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "Get The Most From Your Artificial Intelligence Investments by Operationalizing Analytics"
     excerpt: "Organizations realize they need analytics to run, grow, and differentiate their products and services. More than just driving strategic"
     publishedDateTime: 2020-10-15T20:57:00Z
@@ -64,21 +80,21 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 58
-  - title: "7 data science start-ups shaking up AI and analytics – Silicon Republic"
-    excerpt: "From the start-up that wants to make machine learning accessible to everyone, to the one that’s using analytics to monitor and take early action against skin cancer, here are seven up-and-coming science start-ups making waves in AI and analytics."
-    publishedDateTime: 2020-10-16T14:46:00Z
-    webUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic"
-    ampWebUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
+  - title: "Additional data, advanced analytics improve performance of machine learning referral app"
+    excerpt: "Research scientists from Regenstrief Institute and Indiana University have further improved the performance of Uppstroms, a machine learning application that identifies patients who may need referrals to wraparound services,"
+    publishedDateTime: 2020-10-16T17:34:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.amp"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 57
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 50
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2019/03/GettyImages-959874388-620x250.jpg"
-        width: 620
-        height: 250
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/2-additionalda.jpg"
+        width: 794
+        height: 356
         isCached: true
   - title: "Roojoom Designated by Gartner as a 2020 Cool Vendor in AI for Customer Analytics"
     excerpt: "Roojoom ( has been designated a Cool Vendor by Gartner in a recent report \"Cool Vendors: AI for Customer Analytics\". According to Gartner, \"'Born AI' startups are appearing in the hotly contested area of AI for customer analytics,"
@@ -89,6 +105,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Using AI, Data Analytics to Enhance Person-Centered Care for Seniors"
+    excerpt: "Artificial intelligence and data analytics tools could help older adults actively participate in their own care."
+    publishedDateTime: 2020-10-16T14:48:00Z
+    webUrl: "https://healthitanalytics.com/features/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 41
   - title: "Google Analytics Brings Machine Learning to Customer Insights"
     excerpt: "On Wednesday, the tech giant unveiled a new update to Google Analytics that uses machine learning to uncover important insights for retailers. The goal, it said in a blog post published Wednesday ..."
     publishedDateTime: 2020-10-14T21:26:00Z
@@ -103,17 +130,6 @@ related:
         width: 394
         height: 263
         isCached: true
-  - title: "Using AI, Data Analytics to Enhance Person-Centered Care for Seniors"
-    excerpt: "Artificial intelligence and data analytics tools could help older adults actively participate in their own care."
-    publishedDateTime: 2020-10-16T14:48:00Z
-    webUrl: "https://healthitanalytics.com/features/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
   - title: "Google Analytics Gets A Major Privacy And Machine Learning-Focused Overhaul"
     excerpt: "Google is revamping Google Analytics for a world in which privacy plays center stage and identifiers are exiting stage left."
     publishedDateTime: 2020-10-14T12:00:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-097
 cdnAmpWebUrl: "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-0973-11eb-b812-1fddca3d8866.amp.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Advocate
@@ -42,20 +42,6 @@ related:
       - url: "https://propakistani.pk/wp-content/uploads/2020/10/Facial-Recognition-Technology-Pakistan-Customs.jpg"
         width: 1000
         height: 560
-        isCached: true
-  - title: "Government deal done over facial recognition technology"
-    excerpt: "The Government has done a deal over facial recognition technology that throws access to it wide open. The Internal Affairs Department has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
-    publishedDateTime: 2020-10-11T23:41:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018767922/government-deal-done-over-facial-recognition-technology"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://www.rnz.co.nz/assets/news_crops/110255/eight_col_121526165_l.jpg?1601428940"
-        width: 720
-        height: 450
         isCached: true
 
 secured: "0+Eq/i6Dq9Xh8KFqgNZKavEnFWC3RI8B6Xygbhc0rnMJ+NexmvdJJa1LSgAz8uNz1o8FbVIEa5vFLy4/oUgfAqFMutNoUGqFbWl5BkcJFYRBCRXfvOQzMjaIvPniwLzixPL+iv62m85IrgSTk1KZ96SmZVV2h0pYW1vlJX9ThRe+uhbF65wnUUtVra08cbTLsLk6Y/fhF5U0+68k15yau3FGUURGrakzIvzSJLMLNujH+s7bCFyHktFlSD2eGsUPjdKyJcU+5zYIQDd3VHumg8iq4dE3/9lt2vxf8Z6K8OrCRJeUenGoyTfupY6XbJBrESM6DCVyjr2sRp0N+p/D8k6cjHF3SBavbsXIWjvpW+inifxLnUt/3LNa6mkcY90GslY7vTW71fByXRzz1wO/PQq/B7Q+5juySFNlHg1Sha3e/W0wmYO+rpCCGCC3XsHZWKbdJFriS5w1FxF/wRye5o1hkG1B7UlQqRWgCLtU6QKZRdCoJ+fVCMLTM9pkn6OkBVzLZIrz6AiGGsGnJ0DCXg==;VVvCearv4cv/T7yqa0pxzA=="

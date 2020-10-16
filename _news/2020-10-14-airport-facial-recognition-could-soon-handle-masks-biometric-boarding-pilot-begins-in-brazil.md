@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biometric vehicle access forecasts climb, facial recognition features in more new car models"
+    excerpt: "The market for biometrics in automobiles continues to see increased supply, with Cadillac, Buick, and China’s Human Horizons launching new models with facial recognition, a new document-signing"
+    publishedDateTime: 2020-10-16T16:13:00Z
+    webUrl: "https://www.biometricupdate.com/202010/biometric-vehicle-access-forecasts-climb-facial-recognition-features-in-more-new-car-models"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/09130331/automotive-biometrics.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Pakistan deploys facial recognition to secure borders, biometric prisoner identification ordered"
     excerpt: "Pakistan Customs will put in place a National Targeting Centre (NTC) using biometrics to identify and profile risky goods and individuals, DAWN reports. Established with support from regional"
     publishedDateTime: 2020-10-15T17:44:00Z

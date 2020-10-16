@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "ServiceNow And IBM: Making AI Really Work"
+    excerpt: "Both companies have announced an expanded strategic partnership that combines Watson with ServiceNow’s IT platform"
+    publishedDateTime: 2020-10-16T17:42:00Z
+    webUrl: "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/"
+    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89cf29610ad9f8c1e126cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5425%26cropY1%3D275%26cropY2%3D3327"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ServiceNow, IBM to integrate Watson AIOps, IT service management"
     excerpt: "Under this partnership, the two companies will initially launch software that will use ServiceNow's IT Service Management historical incident data to train Watson AIOps algorithms"
     publishedDateTime: 2020-10-15T13:00:00Z

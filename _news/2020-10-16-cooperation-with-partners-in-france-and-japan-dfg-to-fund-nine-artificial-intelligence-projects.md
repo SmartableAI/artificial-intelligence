@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Cooperation with Partners in France and Japan: DFG to Fund Nine Artificial Intelligence Projects"
-excerpt: "Approximately €7 million in funding for three years / Trilateral projects to complement DFG’s strategic funding initiative for research into AI The Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) is funding nine artificial intelligence projects in cooperation with the Agence Nationale de la Recherche (ANR,"
-publishedDateTime: 2020-10-16T13:07:00Z
-originalUrl: "https://idw-online.de/de/news756007"
-webUrl: "https://idw-online.de/de/news756007"
+title: "Cooperation with partners in France and Japan: DFG to fund nine artificial intelligence projects"
+excerpt: "Approximately €7 million in funding for three years. Trilateral projects to complement DFG's strategic funding initiative for research into AI."
+publishedDateTime: 2020-10-16T14:38:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/df-cwp101620.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/df-cwp101620.php"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: idw
-  domain: idw-online.de
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
 
 images:
-  - url: "https://files.idw-online.de/corona_idw.png"
-    width: 615
-    height: 284
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "VTI/Xj8RmxveixbEGn4O4ZiXuW67ROM3+HiToXq7TNKZW0m9bSMoXct10zZuF5DCs8spjONCs+ZXv+YYndz6ilo6Dwqrv8Yj+iAImMVEdx4xO3e/EJMv6ST6npzfNHUh/gQpg34mL8BrUCL+OW+Zn54WBeo64okW3HQDvmK084ZbfhoQ8nYekdznezP+wbcDXO2Lu7KQhArq8KRr9zv5YrC5Jaeh/OzkuNeZwPalFTx3UU+2Xa+0+LEBtwTc9hGX72ZI5KNideY3W+Z1qRV1aq2E0KjH6B5IDtOShube+UWrV+LMFGFpEnLGnonwN+rKYApozUYEJ1BRrlOXztWQeDzGuVqEbY7jpCF3N3vmG/Q=;MzuVhhncLZSZuNkMRQazJQ=="
+secured: "634fjD8e9qJUrWFF3YuCEZanvxFiYswljGZlT+NDlMIYxzli3XyLaKmwtkkfGctMdfTaVC4j3n5Iq54Owy3VNJzqKDtC8+IyZlpuaqjO0V/nkma+RL9F7A63cbCDY/iC1n6DkBrjHSW5IVSsZ88fT/MaM2n1+rvKn/mEb8Pobhy6DHZS8k437ezDthxmkYZQUys5zikaDYYwS8G13F2/rnhvM0iUA0lMz/hVyh0RKW8/OR/DvQiSWE3LU4V/sw4mB2d+OIsYVyLvGXeVYJO6AwtWgRjpvS2/8g7ZfkU/aPlVdPwkA3S2xj8chaWT7F21A62UNxt8TZzvYmWgtHV2VHA7CTNXIgadadvs8SjLnnU=;qg9SCdIGwpdqdxRldhgBTA=="
 ---
 

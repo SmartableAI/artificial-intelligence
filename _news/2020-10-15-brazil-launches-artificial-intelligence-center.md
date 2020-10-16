@@ -3,13 +3,13 @@ category: news
 title: "Brazil launches artificial intelligence center"
 excerpt: "The largest research facility in the country with focus on the technologies is run jointly by IBM and public sector bodies."
 publishedDateTime: 2020-10-14T19:55:00Z
-originalUrl: "https://www.zdnet.com/article/brazil-launches-artificial-intelligence-center/"
-webUrl: "https://www.zdnet.com/article/brazil-launches-artificial-intelligence-center/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-launches-artificial-intelligence-center/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-launches-artificial-intelligence-center/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/brazil-launches-artificial-intelligence-center/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/brazil-launches-artificial-intelligence-center/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/"
 type: article
-quality: 69
-heat: 79
+quality: 67
+heat: 77
 published: true
 
 provider:
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
 
 related:
   - title: "Burger King Brazil Selects IBM Services to Implement AI Strategy to Help Transform Human Resources Processes and Strengthen Employee Relationships"
@@ -40,6 +39,6 @@ related:
         height: 360
         isCached: true
 
-secured: "D9eKh79H3Bflm2FJLiG+KH+gUX+4b1+OmLnFTXGO8elxXat09fLxFsbc5rRXyWt4FPtq0+54YAEl/MM6YlIj4V40Svv9U++QJRVCPuIxUX0I68nT59uW9PHksMELGbCe6itm9XmYFFDk0/fK25dB9oupPWGGTPbOjc6Sdwc3HuDlGFpmDJA7Mz/DbJsa36hvb2wJR2DFwDKrp4HsQZLnLZQZIPejWU1OP8zIXG6JlcudMmsFfcU+ISBSN/pYiHd/kU44VW/xgU/QiljTOCzmtyB+0gDqEbv8VEjToCeTc8ASItuVWFWkNTjwlbbJBJpA/V0bgJktdeZRP9BqQRYw6Uaww3jxhz0U2XvP/iZgKHlQptSfmQuftrlC7qkZYcLQkmca3BQBkmKnNpfsw1olZs5sNk/NGzvONSq51+OE/+tAZaIRD+971jbqhDNdaALvfluJZjsWqxncgdUC67o8Vjm9U3cNopr1MLBsgmvlz3l+uAbb1Lbr3QmrXUnywGCFsPvrEgD8zi0j82xa8qo1VQ==;AawymCxEEo0U75oLgH2jhw=="
+secured: "0XhlYT+IRZoUm3D8VwqjUtqMP7Sk0iSFNWK1q5ikb66cfWaMF9F37kTE9RTlWBFmS7/Jaw/Yb9/o/QhgiQkNXZirZ7EJeEXkYqzhrtWMXZAp0Jb5UzZbq4WZSjhMyZHEtjYanzB24/amFrX27RC+myGm8Nnl/oSb61JLGuUpHoEXGdLa75+4NxsaTv3A8L5ePa1enr76YFs2jeQZcSMIy2OXkyBNhIqlSlCEtpPRoOsZcOXBDhOZoAmN65QpmF0OuOcNS6M3NaZ3Kq+UNJD8VEMuVD1HtZDYWOToOhWitWyQGoKIwsw/K37auKfElmF3qHT0Q9ygBSdLovK86meV64RqehIr9BIAV3Ex+LX7p7/2+gER+lem3+C/ISFqcJ/N/y2ivCIzY+EHygflMqKwyWeeuTZZ0P/6z9+iWhuqfMCOki9Nn4xAUCR9diQCf1CX9JRV/XXskbrKGIqo3I06XDSCm+oNTiQ+7iiKCQOO/cFs+IXYanssBxAfZ5kQNB5vTRYNJXHD41NtlYgXJFFbhA==;TxDfBPwQ5bLFoRwVdIsuYg=="
 ---
 

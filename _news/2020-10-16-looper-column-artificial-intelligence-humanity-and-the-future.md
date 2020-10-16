@@ -8,8 +8,8 @@ webUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-i
 ampWebUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
 cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=LIFESTYLE&ArtNo=201019472&Ref=AR"
@@ -25,6 +26,6 @@ images:
     height: 393
     isCached: true
 
-secured: "j1uKDgPXFNYp2EvgUpkgWZJ+Ls6Qefs11lJy9eRW0VEiBTr/wBoWJG5OFUTf3hslAQuD1xLRL9jupRLnV1a277jbYbL6Scgj5UqyFNce3oMksIy9OTg/ffl0Soyj4wDGa/Z8XoAzEya5u8KYLtb+G5gZ7sOB4cLUdiPfHzVf2l/sIy/I89MJo0tdWHoXL5fXH7GqQn72kdAfBOJI0KORQ/+fSdDhoqOUdGML2HqGrvHLhdnp8SfRgAVnWm9RVbeVi4Xgk7iZRtwWmF7C8YzF+gc26jyyOQS/0maGIjj0sVhSPSCwFYwaaAHyEo656bxBpycbbsq/Cgm7L2CCHTUvJMww+vlm33O8k3Onpz0QUyk=;nCJKefbMA8ymqiTwd9UvWA=="
+secured: "ukTiQGVgV/sCI9WOByBjoedQCu/hriJg8RESyHgDhYskGVv+2DMxEzp4K18jKu39/uZNT7gfEaJejk7v1yQ4kWwUS2KAa7IgBUxxDPBycmC882Cj4MmiNXbieKtU4NhZEK4iir7GvBKvq/kszQ6sGAgrtxAzQlnSNVkksAs4Z0Oicg+Yk5PmYzViSw3zzXfs5VBhzFlGTs4xn7+Vg9Drh2o9DTdfMmc6MqiJxWV4vuw4Z9fmzg2BKdBQ0yasDHYzsl0VV/BPKJOMLhmJTgitL9l1erytHiGaq0r4dQed0qSIWwlSYLvTPMls3ixwRns5Aw1TYpdD8vK43D9wyzVa2d20+Iu25BmN1e9KQVOP3HUT2oszTEuIxRRpt2nITqmwY7gyQTmp4usfQrv9UKM/bxc/AgGPluGPFNHM72RqkTr8KuN7LAy3XG6391m8/JxoO76ga0Ndjz0oQm60O8fUURSqaaz0kkfaqajFgMMSQ6jJ4JCv054CJsVelNkCWy31IQcMulMvKfBmiP4qvKd9NA==;PBtJbAxkt1xKe0PCuplvMQ=="
 ---
 

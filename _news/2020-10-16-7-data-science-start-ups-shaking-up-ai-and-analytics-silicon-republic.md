@@ -8,7 +8,7 @@ webUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-
 ampWebUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i.itworldcanada.com/wp-content/uploads/2019/03/GettyImages-959874388-620x250.jpg"
@@ -64,6 +65,22 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 58
+  - title: "Additional data, advanced analytics improve performance of machine learning referral app"
+    excerpt: "Research scientists from Regenstrief Institute and Indiana University have further improved the performance of Uppstroms, a machine learning application that identifies patients who may need referrals to wraparound services,"
+    publishedDateTime: 2020-10-16T17:34:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/2-additionalda.jpg"
+        width: 794
+        height: 356
+        isCached: true
   - title: "Deep Dive: The Power Of Data Analytics And AI For QSRs In A Complex Ordering Environment"
     excerpt: "This Deep Dive explores how artificial intelligence and data analytics can help quick-service restaurants optimize their operations across a host of use cases."
     publishedDateTime: 2020-10-16T12:10:00Z
@@ -89,6 +106,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Using AI, Data Analytics to Enhance Person-Centered Care for Seniors"
+    excerpt: "Artificial intelligence and data analytics tools could help older adults actively participate in their own care."
+    publishedDateTime: 2020-10-16T14:48:00Z
+    webUrl: "https://healthitanalytics.com/features/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 41
   - title: "Google Analytics Brings Machine Learning to Customer Insights"
     excerpt: "On Wednesday, the tech giant unveiled a new update to Google Analytics that uses machine learning to uncover important insights for retailers. The goal, it said in a blog post published Wednesday ..."
     publishedDateTime: 2020-10-14T21:26:00Z
@@ -103,17 +131,6 @@ related:
         width: 394
         height: 263
         isCached: true
-  - title: "Using AI, Data Analytics to Enhance Person-Centered Care for Seniors"
-    excerpt: "Artificial intelligence and data analytics tools could help older adults actively participate in their own care."
-    publishedDateTime: 2020-10-16T14:48:00Z
-    webUrl: "https://healthitanalytics.com/features/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
   - title: "Google Analytics Gets A Major Privacy And Machine Learning-Focused Overhaul"
     excerpt: "Google is revamping Google Analytics for a world in which privacy plays center stage and identifiers are exiting stage left."
     publishedDateTime: 2020-10-14T12:00:00Z
@@ -143,6 +160,6 @@ related:
         height: 400
         isCached: true
 
-secured: "VeoMD+eWl/DxF6f0tM/83RoWcfHaF7GUh/Ve8bNbIB7vG++v87MgvAA06OXg1fYRO4PyLCz+fcFH+VyOQdEgVIELpN4/KtA3xLGFgJFvYgx63nJn+6ijpehin5pwK6QgCQt5EgIqUhMoeYdGicd5dXPnBdO1552RhcQP23jvayJJ64PdUGNNQprxK1i3oDJy5TiHymYMWFg0MVt2wGnP3qm4P4Rhd0+VBeSd9kPqxedk3fH4Lx/1T80jRQPWQmWG9CfGB7EmNtRxolS07w0aoxbtUEGV9eu4vDUsjyeKM54X0Yv4scfzlYrkBnCqqtlAlZGNEQWWIkBhdWPjNiIRCQ5x6UhNB/rsubKrPPMHgvM=;rhMmT1hZjFiwU3WK3tMS4w=="
+secured: "GciqPUWLm1IYEosSXppOWtUJ0EhuBi+5+e3wblgcNHYdJZIaqQ00SWIM5EU/ZfGZvCahAwh8O2/Rq0X8JHbSVkOWhFZCCXSe7mqvPLuDROA4jRi/fZzV/KJNOcEQTbYalt7u4lB1iLo6snt1+XVC/ZvVfVyS6cr7dKHNJ2H1dFOL3FMK1sNA88AD358RaUx7YOqbtYy/rxecvQkuzYN0epWu1+RwTdAviwHOCRK7GglKsEI/rQ4Uf/UP2YIztrmAZSWHAE9cZbZ5N+z6SbER6uxAkcmqiAK1GznN8xcdJPcjTyOJYTnG/KJTjaSVZ2j/weI52VEortuOsG/xs/npIdIXkvE4fKSk+jn92tdd/+SFCZeYItH/trBlwi1w4A+3uCnZPev6LuuyRCzThUUxSjT3kD5OkpWxMqXFz3MWbQZnvYe32zT0z7pmzAcsgTitV8xaLLReYUXPaQVT0TUXlWq0NqZV7rNpsx8hZko3FDadxrsicDg+KaNa5x+6naMCpZc3wn3piyeLyP1+jigDUQ==;X44FVxovI3vmxplF0seGVQ=="
 ---
 

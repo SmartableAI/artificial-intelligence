@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-mac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/"
 type: article
 quality: 98
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 1200
     height: 833
     isCached: true
+
+related:
+  - title: "Humanity defines the challenges of artificial intelligence"
+    excerpt: "In this episode of Where the world's moving, global AI ethicist Kriti Sharma explains. Paid and presented by OFX."
+    publishedDateTime: 2020-10-16T16:23:00Z
+    webUrl: "https://www.bbc.com/storyworks/where-the-world-is-moving/tech-driven-experiences"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 47
 
 secured: "XHiFihxtGvTx2rqrV0TwhvZLLzxmpv/Lh1kRN9rDv0vmlkkEjxFFOp5NvFgQOFo0SU24JM8cuSxQJ07ntahwNcyqec3/PctmaVIeLa/MedsxUGZXGqNupChdBT5Ry5fW44iBy2F6ZFOo6q8DheJwet+3fww3GZnYgJzf692uxUfEfOlayLn+q7vVP2zL3/4/kSq+eVOjQAxRMgvBpu5CQ5J4nvGEeyD0vDZuqVTG3VWVGwJYVO4zvlDgE/JtosWKGdpghJabtEIxmtleyfKtlJJNZMpvrTdRELlvBxWLFpFy4PWJkDwqPnpJpFVLvPnYgM7ceKr6TfdzcVoQK0VTH7UY45/wf3m5tNAbFprGCmWmBl4TIuhtX2mXwz//I1Kdou7pqlf7NuJoqDBoVxGBu0h7FImvAEWBtB2ZVDozWGAthd6FmaLLmQ9TlkLkjjsBmr3wRu6sQiLDxeJGMzLqmlXbsUHjHrjJ3BI8fjsmuEb3XkAjetlBOCq84ZVvcoYy1JRZ09MBjd5qg2cMn2VMvQ==;705n12DT0LH3h3iIBBaA7A=="
 ---

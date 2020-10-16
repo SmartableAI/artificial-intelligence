@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
 type: article
 quality: 84
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "ServiceNow And IBM: Making AI Really Work"
+    excerpt: "Both companies have announced an expanded strategic partnership that combines Watson with ServiceNow’s IT platform"
+    publishedDateTime: 2020-10-16T17:42:00Z
+    webUrl: "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/"
+    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89cf29610ad9f8c1e126cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5425%26cropY1%3D275%26cropY2%3D3327"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM, ServiceNow Deepen Partnership"
     excerpt: "International Business Machines (NYSE:IBM) and ServiceNow (NYSE:NOW) today announced that they will take their partnership to a new level. IBM, which recently announced a spinoff of a legacy business to focus more on the cloud,"
     publishedDateTime: 2020-10-15T17:57:00Z
