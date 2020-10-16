@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ain_sweden"
   url: "https://www.twitter.com/ain_sweden"
-  followers: 86
+  followers: 87
 
 size: 51-200 employees
 yearFounded: 1996
