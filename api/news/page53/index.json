@@ -2,6 +2,49 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-09-03-lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart-and-embedded-vision-systems.md",
+      "title": "Lattice Expands CrossLink-NX FPGA Family of Best-in-Class Low Power FPGAs for Smart and Embedded Vision Systems",
+      "excerpt": "Lattice Semiconductor Corporation (NASDAQ: LSCC), the low power programmable leader, today announced the CrossLink™-NX-17 FPGA is now available. CrossLink-NX FPGAs deliver the best-in-class low power consumption,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart/article_0727305f-420b-590d-ae6b-3415106b55ca.html",
+      "originalUrl": "https://www.oaoa.com/news/business/lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart/article_0727305f-420b-590d-ae6b-3415106b55ca.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-nfl-reveals-new-expected-rush-yards-stat-with-help-from-amazon-web-services.md",
       "title": "NFL reveals new ‘Expected Rush Yards’ stat, with help from Amazon Web Services",
       "excerpt": "Football fans wondering whether the next handoff to a running back could be another Beast Quake have another stat to track thanks to Next Gen Stats, the platform powered by Amazon Web Services.",
@@ -1162,49 +1205,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-weta-digital-advances-visual-effects-and-animation-in-the-cloud-with-aws.md",
-      "title": "Weta Digital Advances Visual Effects and Animation in the Cloud with AWS",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Weta Digital is going all-in on AWS, leveraging the prove",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200902005251/en/Weta-Digital-Advances-Visual-Effects-Animation-Cloud",
-      "originalUrl": "https://www.businesswire.com/news/home/20200902005251/en/Weta-Digital-Advances-Visual-Effects-Animation-Cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200902005251/en/817650/23/Avatar_viewimage.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

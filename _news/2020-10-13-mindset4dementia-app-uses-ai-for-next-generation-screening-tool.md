@@ -80,22 +80,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Signal, Noise and the Coming Era of AI Curation"
-    excerpt: "A look at how \"AI curation\" is being used to figure out what's useful information in the world of crypto and what's just fluff."
-    publishedDateTime: 2020-10-11T19:00:00Z
-    webUrl: "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast"
-    ampWebUrl: "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 57
-    images:
-      - url: "https://static.coindesk.com/wp-content/uploads/2020/10/SOB-AI-Curation-From-Page-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Exploring the benefits of AI and machine learning"
     excerpt: "Learning Objectives Artificial intelligence (AI) and machine learning (ML) are being used more by manufacturers as they realize their benefi"
     publishedDateTime: 2020-10-14T07:06:00Z

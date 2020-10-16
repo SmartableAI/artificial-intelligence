@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/"
 type: article
 quality: 81
-heat: 111
+heat: 112
 published: true
 
 provider:

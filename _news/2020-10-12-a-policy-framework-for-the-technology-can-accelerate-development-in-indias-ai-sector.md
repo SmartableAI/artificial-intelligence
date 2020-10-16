@@ -95,6 +95,15 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 19
+  - title: "Healthcare Artificial Intelligence Market Bigger Than Expected | Intel Corporation, Nvidia Corporation, Google"
+    excerpt: "Download Free Sample Copy of ‘ Healthcare Artificial Intelligence market’ Report @  Key Segments Studied in the Global Healthcare Artificial Intelligence Market, IBM Corporation, Microsoft Corporation,"
+    publishedDateTime: 2020-10-16T11:01:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/16/healthcare-artificial-intelligence-market-bigger-than-expected-intel-corporation-nvidia-corporation-google/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 14
 
 secured: "JgxazjZJFTwv0Xq1BG1CjZDcuSm+P5uToXTDM4C0Q53kZ7DQ5h4xsD8TrQ2O4Kz1S4L9J626FIjyZHxZhrsVd/CLubYpttdvTU9VA4Pe2Z2ZyKMqqQkMmKH1a8BUK/TloLSDesttCDTtTXzcUGiX8XUtDjY18puCL5S60wDnhmJiLAodD6PPSDkyK5oELkIWxQNOrMBygEhzcQ75T/TM9AWk+YEnHwH5s8OEZVURZDdquK4MnLpqoT1ciRM8janqwb/E5JVBukHHblP7YZn2PzMso5LZe9dXnuj6C+AwH+lv8uyyQePLLQE9sNcD+bnpmSzNLWhDSMlGugsHNTslWIRgSYF7iPKXNJkyv/tb8Uw=;RNie5sIrB8Qm5XC/kOBUEA=="
 ---

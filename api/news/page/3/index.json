@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-15-brazil-launches-artificial-intelligence-center.md",
-      "title": "Brazil launches artificial intelligence center",
-      "excerpt": "The largest research facility in the country with focus on the technologies is run jointly by IBM and public sector bodies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/brazil-launches-artificial-intelligence-center/",
-      "originalUrl": "https://www.zdnet.com/article/brazil-launches-artificial-intelligence-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazil-launches-artificial-intelligence-center/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-launches-artificial-intelligence-center/",
-      "publishedDateTime": "2020-10-14T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2020-10-15-google-analytics-update-uses-machine-learning-to-surface-more-critical-customer-data.md",
       "title": "Google Analytics update uses machine learning to surface more critical customer data",
       "excerpt": "If you ever doubted the hunger brands have for more and better information about consumers, you only need to look at Twilio buying customer data startup Segment this week for $3.2 billion. Google sees this the same thing as everyone else,",
@@ -1147,6 +1104,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-14-googles-search-on-event-will-reveal-new-ai-powered-features-on-thursday.md",
+      "title": "Google's 'Search On' event will reveal new AI-powered features on Thursday",
+      "excerpt": "Google has scheduled a 'Search On' event for October 15th at 3 PM ET, where it will unveil new AI-powered upgrades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-search-on-stream-020155879.html",
+      "originalUrl": "https://www.engadget.com/google-search-on-stream-020155879.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F6f09b080-0dc0-11eb-bcdb-e8df047fd37b&client=amp-blogside-v2&signature=8d654481b7bda6a703df4c607999901c8041a846",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-search-on-stream-020155879.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-search-on-stream-020155879.html",
+      "publishedDateTime": "2020-10-13T19:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-fitness-tech-company-jaxjox-raises-10m-as-it-gets-ready-to-ship-ai-enabled-workout-system.md",
       "title": "Fitness tech company JAXJOX raises $10M as it gets ready to ship AI-enabled workout system",
       "excerpt": "JAXJOX, the Redmond, Wash.-based fitness technology company, has raised $10 million in a new funding round to help pay for the research and development of its signature InteractiveStudio",
@@ -1198,21 +1206,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-4-things-to-know-about-ibms-spin-off-plans.md",
-      "title": "4 Things to Know About IBM's Spin-Off Plans",
-      "excerpt": "IBM's stock recently rallied after the tech giant announced it would spin off its managed infrastructure services unit into a new company. That split will enable IBM to divest its",
+      "path": "_news/2020-10-14-guest-column-no-place-in-crime-fighting-for-biased-facial-recognition-technology.md",
+      "title": "Guest column: No place in crime fighting for biased facial recognition technology",
+      "excerpt": "Across the country and here in Louisiana, Americans of all political stripes are realizing the dangers of mass surveillance technologies, especially when they are deployed without the necessary safegu",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/",
+      "webUrl": "https://www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-0973-11eb-b812-1fddca3d8866.html",
+      "originalUrl": "https://www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-0973-11eb-b812-1fddca3d8866.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594946%2Fgettyimages-1183989198.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 631,
+          "url": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/f/3e/f3e90dcd-7233-52e5-bc98-b1098f5d5ea4/5f77a09c8f85b.image.jpg?resize=1024%2C1418",
+          "width": 1024,
+          "height": 1418,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1220,23 +1228,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/",
-      "publishedDateTime": "2020-10-13T13:30:00-07:00",
+      "ampWebUrl": "https://www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-0973-11eb-b812-1fddca3d8866.amp.html",
+      "cdnAmpWebUrl": "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-0973-11eb-b812-1fddca3d8866.amp.html",
+      "publishedDateTime": "2020-10-13T16:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Advocate",
+        "domain": "theadvocate.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1245,7 +1244,7 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "Computer Vision",
         "AI"
       ]
     }

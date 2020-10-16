@@ -84,6 +84,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "You can now hum into Google Search and it will find the song"
+    excerpt: "Using AI, Google said it could now understand the deep semantics ... and landmarks. It can also translate over 100 languages. Touching on misinformation, Google announced a handful of improvements to the way it handles coronavirus-related queries ..."
+    publishedDateTime: 2020-10-16T11:42:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
   - title: "Google Details How It Uses AI, Machine Learning To Improve Search"
     excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."
     publishedDateTime: 2020-10-16T04:14:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-097
 cdnAmpWebUrl: "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-0973-11eb-b812-1fddca3d8866.amp.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Advocate
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pakistan Customs to Deploy Facial Recognition Technology for Everyone Entering the Country"
+    excerpt: "Pakistan Customs will set up an automated National Targeting Centre (NTC) to identify high-risk items and persons through facial recognition"
+    publishedDateTime: 2020-10-16T10:25:00Z
+    webUrl: "https://propakistani.pk/2020/10/16/pakistan-customs-to-deploy-facial-recognition-technology-for-everyone-entering-the-country/"
+    ampWebUrl: "https://propakistani.pk/2020/10/16/pakistan-customs-to-deploy-facial-recognition-technology-for-everyone-entering-the-country/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/10/16/pakistan-customs-to-deploy-facial-recognition-technology-for-everyone-entering-the-country/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 49
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2020/10/Facial-Recognition-Technology-Pakistan-Customs.jpg"
+        width: 1000
+        height: 560
+        isCached: true
   - title: "Government deal done over facial recognition technology"
     excerpt: "The Government has done a deal over facial recognition technology that throws access to it wide open. The Internal Affairs Department has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
     publishedDateTime: 2020-10-11T23:41:00Z

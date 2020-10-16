@@ -7,7 +7,7 @@ originalUrl: "https://news.stlpublicradio.org/show/st-louis-on-the-air/2020-10-1
 webUrl: "https://news.stlpublicradio.org/show/st-louis-on-the-air/2020-10-14/thursday-artificial-intelligence-shows-both-promise-and-peril"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Google's 'Search On' event will reveal new AI-powered features on Thursday"
+    excerpt: "Google has scheduled a 'Search On' event for October 15th at 3 PM ET, where it will unveil new AI-powered upgrades."
+    publishedDateTime: 2020-10-14T02:17:00Z
+    webUrl: "https://www.engadget.com/google-search-on-stream-020155879.html"
+    ampWebUrl: "https://www.engadget.com/amp/google-search-on-stream-020155879.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-search-on-stream-020155879.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 85
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F6f09b080-0dc0-11eb-bcdb-e8df047fd37b&client=amp-blogside-v2&signature=8d654481b7bda6a703df4c607999901c8041a846"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Google Search Gets More Helpful With The Release of New AI Features"
+    excerpt: "Google Search is getting more helpful. The bread-and-butter service of parent organization Alphabet (NASDAQ:GOOGL)(NASDAQ:GOOG) recently announced new AI-powered features to improve its usefulness. Some are legitimately helpful,"
+    publishedDateTime: 2020-10-16T06:07:00Z
+    webUrl: "https://www.ibtimes.com/google-search-gets-more-helpful-release-new-ai-features-3063047"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/23/google-search.jpeg"
+        width: 385
+        height: 257
+        isCached: true
 
 secured: "bJsEvLf50o48mpJ1nWfcs0TX4KiTenGPlCt69HeIdmQVtv0kcB7ItlWIHHly+B9IBafttbEW4kcQUcTcEJ55fjIEHbylxKxGVPSjpFwKkMlRnku+VqR72kFRk7pYAMD5d3bIndtGqihr+55D62cCqCD83Bl77gi/nY7YoLTZEua7qrvmIM7K8xdVs9LMnoKq+9GhPvngBW8E7UpZIOetcW+INAhtQhSKk5kX0MheVGxwICM9TrNK4xKsaOd8eZe2nIMJqMmBmsSOK6n8KhS3MV0OunX6/gYg5cDmVdkI3wush2UXU8QFirxpAgAXjVPrjgyqgutnWqK1cdKtCY6+JpPVTDsiBph2RTh+oPHsbOGL/KXkR9l/1Xj9ZH3tscILFsHTVeqVty/3cf0NsNaHEJTKHGDCcGmyRWkUOrFOrSvuDUKcOn7Ts69tm4wsKMtA1HLZc4Az4XCHWR1Dx9fJg5KtvBcFCP8KPKm9pm8SXrlklkR4jQfC2FAxPwQ7LpWndxzsKYCKIhR3H+DNRiBXdQ==;cvtmEvv43NA768Ig7csXOA=="
 ---

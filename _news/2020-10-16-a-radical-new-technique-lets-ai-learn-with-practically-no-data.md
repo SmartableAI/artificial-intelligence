@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning
 ampWebUrl: "https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/MnistExamples.png"
@@ -57,6 +58,6 @@ related:
         height: 400
         isCached: true
 
-secured: "cpkfaVataTyhnJmXt4N7/N8knN1kunMH1CNAIVeYGQEGWrLPTxyBMwspWkPUAlN7607xGqmejKF9MT5oJEyY5NXQEsWcTYmUAATlgQB/EuAILIMdoFa4mUmg54kb9NurnSUz1X2eOvSeadq3LvSPzDeMLLkAdFVu1SfcYuaCJ/zi8QH7hpngT240BCxHtrChbonBa5R+MTe4yb753s343NgENqkbx+Tq0ZXZzJoE/dEe5mT5Z2WGW1eX36pkpsZ9y0wvLeb0BWfySB/rvEm5pSP38WsW+uvhsBYZ/fQOPTayN/vDHCCs8fY4n1ApxMa+vdmxnvoxpALI2u7nvy4OpH73z4kRFaCPJNObxKFYmso=;/J/AAyA7rfDYX0h5Tjw3MQ=="
+secured: "/X2v/aka1uDyd7o4EcBuf5/D+E9dzT2pVfRIGwmp/DtGWe6JnI9xXNuOYtS3Bu+c96CXvIjfeLlIC0woK/CHTSYmUD1o4ldJ/OkDeC/p6JeQgBKm03s40V+/hF2QHG9RPVQKWNcJnZ/7z/KY8VXGNBmdJyDWI9Dy5yzu3qZaO8o4X5FtY8xcT0OcJgd9RqJ79xrY1MKJFkptzVZowopufQIfW6SQKYHrbM2ZJXPLkNIhUVJR+gRw+VxtkvCLdfrhpE17fgWLbVm1/JhZteEjyD6Pq/yRjkV9lxZ0vl1N45MmNwuTTlwEg13bTj9l9kaXXDYcuDsIum2UoJCqS3/CrFXlL4bDjiUdJ4R88C6/L6xGPtKEJPNH2tq3kSjl96mUyXg2EIhH1TIkXp/GctDo1VHJd2lRWgQ9Ck2QyViE1kTnYu8/aAzhuMM/9fD7p108uz3TqAh5onAwG2HMHPOsT4IkANKsJF3UICAQdF/KQNn/fMzmsFEC6YglIdf0ul1MFBP8xnDFnPMTBFbVMa4QeQ==;fAE+3Xh059FPQjKcg9SALw=="
 ---
 

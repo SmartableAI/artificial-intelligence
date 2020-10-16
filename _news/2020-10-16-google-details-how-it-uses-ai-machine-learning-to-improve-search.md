@@ -94,6 +94,17 @@ related:
         width: 650
         height: 463
         isCached: true
+  - title: "You can now hum into Google Search and it will find the song"
+    excerpt: "Using AI, Google said it could now understand the deep semantics ... and landmarks. It can also translate over 100 languages. Touching on misinformation, Google announced a handful of improvements to the way it handles coronavirus-related queries ..."
+    publishedDateTime: 2020-10-16T11:42:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
 
 secured: "7DTXKnvoHAni5HIgWhpGLzziV/U7LbIOfU6x4Ggn+X0RZn/JMVYOsPSHVfQeyj+HjrDdUXSPAlwbE0iJnt34PrYotlt0edHKWGYBDqxe86Ker57+4tHj6POZBxckHHZaIcByWEYkFnUW7mR+IIJE8/dj1fQWbZUBAX/R65E7fGxhilm1UZ67sv9fPvgb+Wj6qsJGYVwZqE0Dd9Kv3hlRwhz8vfC2+tNMKOMOsGKqomYaXJ2cLOLA3G1LpI6oKsJpoi2Eim6xCQzipAaeRdwx6DOIok4pmQB3eF+W1U3W5ukCXHkiUqVmSGnM53OC6TqEl5n00Sn7fYRzdvgUFcI2TwN8ffggOWhEIE+k0IyGVLk=;A0EE+M9NIRrmpDwrj8vv8A=="
 ---

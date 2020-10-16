@@ -2,6 +2,59 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-09-22-to-make-fairer-ai-physicists-peer-inside-its-black-box.md",
+      "title": "To Make Fairer AI, Physicists Peer Inside Its Black Box",
+      "excerpt": "After repurposing facial recognition and deepfake tech to study galaxies and the Higgs boson, physicists think they can help shape the responsible use of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/",
+      "originalUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f68ee3340c3a6fb18426ae0/master/pass/Science_CMS_D810_NEF_3483.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/amp",
+      "publishedDateTime": "2020-09-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-best-facial-recognition-home-security-cameras-to-buy-this-year.md",
       "title": "Best facial recognition home security cameras to buy this year",
       "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your list of known faces.",
@@ -1109,57 +1162,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-seattle-based-startup-investment-firm-flying-fish-is-raising-a-new-fund.md",
-      "title": "Seattle-based startup investment firm Flying Fish is raising a new fund",
-      "excerpt": "Flying Fish, a Seattle-based venture capital firm formed in 2018 that invests in Pacific Northwest startups, is raising its second fund. A new SEC filing reveals the new fund.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/seattle-based-startup-investment-firm-flying-fish-raising-new-fund/",
-      "originalUrl": "https://www.geekwire.com/2020/seattle-based-startup-investment-firm-flying-fish-raising-new-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-7.41.12-AM-630x301.png",
-          "width": 630,
-          "height": 301,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-based-startup-investment-firm-flying-fish-raising-new-fund/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-based-startup-investment-firm-flying-fish-raising-new-fund/amp/",
-      "publishedDateTime": "2020-09-21T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
