@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
+    excerpt: "In early 2017, Microsoft updated Office 365 apps like Word and PowerPoint with automatic image captioning, drawing on Cognitive Services Computer Vision. (Cognitive Services is a cloud-based suite ..."
+    publishedDateTime: 2020-10-14T15:02:00Z
+    webUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/"
+    ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 125
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 573
+        isCached: true
   - title: "What’s that? Microsoft’s latest breakthrough, now in Azure AI, describes images as well as people do"
     excerpt: "The post What’s that? Microsoft’s latest breakthrough, now in Azure AI, describes images as well as people do appeared first on The AI Blog.\n"
     publishedDateTime: 2020-10-14T14:59:46Z
@@ -54,22 +70,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F433d7370-0e2d-11eb-bbcd-ab2a0273c3f2&client=amp-blogside-v2&signature=dbd9fffaae827c8ebdd2c9403d7d67468fc636d2"
         width: 600
         height: 350
-        isCached: true
-  - title: "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs"
-    excerpt: "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ..."
-    publishedDateTime: 2020-10-12T20:03:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 103
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2018/06/28/1491d2a1-5b91-4521-a753-791b9f03ed42/resize/1200x/0a58b39878159fc665d3cd9d948840c6/istock-873015278.jpg"
-        width: 1200
-        height: 801
         isCached: true
   - title: "Microsoft claims its image captioning system is more accurate than humans"
     excerpt: "Microsoft today announced the availability of its artificial intelligence-based technology for image captioning via the Azure Cognitive Services. The company also claims the system can now describe images as well as humans do. The new milestone should help ..."
@@ -197,21 +197,33 @@ related:
         width: 800
         height: 407
         isCached: true
-  - title: "Microsoft, AICTE collaborate to skill students, educators in AI, IoT, Big Data, more"
-    excerpt: "As part of the partnership, over 1,500-course modules from Microsoft will be made available to students and educators free of cost through AICTE's e-learning portal ELIS."
-    publishedDateTime: 2020-10-13T10:10:00Z
-    webUrl: "https://yourstory.com/2020/10/microsoft-aicte-skill-students-educators-ai-iot-big-data"
-    ampWebUrl: "https://yourstory.com/2020/10/microsoft-aicte-skill-students-educators-ai-iot-big-data/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/microsoft-aicte-skill-students-educators-ai-iot-big-data/amp"
+  - title: "Microsoft Word, Outlook, and PowerPoint To Get AI-Powered Auto Image Captioning Tool Trained On Large Datasets After Azure Services"
+    excerpt: "Microsoft has confirmed that it has developed a powerful and smart image captioning system. The AI-powered system can quickly and autonomously generate"
+    publishedDateTime: 2020-10-15T06:39:00Z
+    webUrl: "https://appuals.com/microsoft-word-outlook-and-powerpoint-to-get-ai-powered-auto-image-captioning-tool-trained-on-large-datasets-after-azure-services/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 67
+      name: appuals.com
+      domain: appuals.com
+    quality: 39
     images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Microsoftpng1572886233736png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
+      - url: "https://cdn.appuals.com/wp-content/uploads/2018/08/2-CitrixGuru.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Microsoft Word, Outlook, and PowerPoint to get state-of-the-art image captioning technology"
+    excerpt: "Microsoft announced today that it has developed a new image captioning system that can generate captions for images automatically."
+    publishedDateTime: 2020-10-14T18:04:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-word-outlook-and-powerpoint-to-get-state-of-the-art-image-captioning-technology"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 29
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/10/azure-image-captioning.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "0PHiweGux4wclt7RfSP8HKXyiCjJTNZC2oS/dCuBABeHMeZKcUfXw42nS0b+uVrE+S6r8sG4iwoQNEay3BZmnxavrZvaMf2cwEOukwuaZuuUav5Y+xFQ07oDoJajI4lHpcvzmHzNMDhjKMBW4ImsQ77Bwzg9wwzGXMtvIiDX3atqFmM7kIn9OD8JKgsT2zkRW77m/YMxHoQiNL6BtXCT8VjBMmpiFqDd6HuGJ4GBH/emnzbP5JhzLOJwGuMgUSAjA2hfN5vDwOLQkLGDhJcBDV6W52gHxtwTY3lmMM17m9YNsSCz7AoW62FtGwTwWHEdWkHYie0P5A+/OlXzmKBTmnw34r9CX0USbj3NRxA10E4cNicEz5SqcQnnHSlli0sznX5SVWjkJWr90yHqCNlaNmPSjTcai8+JkwmGxgf6X+wq3he1UN1K8ShTwcSGGcLKPIb7oOQnfBTvN6hN7fYez5erxFLmbY1ao9XX2pa5Gdt/QbdZGg+F4StiJg9X0UjPWZe7SZMiCp5RAJip8S2cXw==;8dnhdMow79Obaw5IJovH4g=="

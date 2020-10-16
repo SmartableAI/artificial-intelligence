@@ -34,7 +34,7 @@ related:
   - title: "Facebook plans to use AI to help fight climate change"
     excerpt: "The social network teams up with Carnegie Mellon University to find new ways to store and use renewable energy."
     publishedDateTime: 2020-10-14T20:43:00Z
-    webUrl: "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/?via=indexdotco"
+    webUrl: "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
     ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
     cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
     type: article

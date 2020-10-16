@@ -48,6 +48,20 @@ related:
         height: 400
         isCached: true
   - title: "MedTech Startup See-Mode Technologies Receives FDA Clearance for AI Software That Automatically Analyses and Reports Vascular Ultrasound Scans"
+    excerpt: "Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to better predict stroke, today announced that it has received 510 (k) clearance from the U.S. Food and Drug Administration (FDA) for its debut product,"
+    publishedDateTime: 2020-10-15T23:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/medtech-startup-see-mode-technologies-receives-fda-clearance-for-ai-software-that-automatically-analyses-and-reports-vascular-ultrasound-scans-1029684284"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1313348/See_Mode_Logo.jpg"
+        width: 400
+        height: 387
+        isCached: true
+  - title: "MedTech Startup See-Mode Technologies Receives FDA Clearance for AI Software That Automatically Analyses and Reports Vascular Ultrasound Scans"
     excerpt: "Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to better predict stroke, today announced that it has received 510(k) clearance from the"
     publishedDateTime: 2020-10-12T13:00:00Z
     webUrl: "https://www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically"

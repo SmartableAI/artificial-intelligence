@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         height: 576
         isCached: true
   - title: "CINECA to Build World’s Fastest AI Supercomputer with NVIDIA and Atos"
+    excerpt: "Featuring nearly 14,000 NVIDIA Ampere architecture-based GPUs and NVIDIA ® Mellanox ® HDR 200 Gb/s InfiniBand networking, Leonardo will propel Italy as the global leader in AI and high performance computing research and innovation."
+    publishedDateTime: 2020-10-15T17:36:00Z
+    webUrl: "https://www.nasdaq.com/press-release/cineca-to-build-worlds-fastest-ai-supercomputer-with-nvidia-and-atos-2020-10-15"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "CINECA to Build World’s Fastest AI Supercomputer with NVIDIA and Atos"
     excerpt: "NVIDIA today announced that the Italian inter-university consortium CINECA — one of the world’s most important supercomputing centers — will use the company’s accelerated computing platform to build the world’s fastest AI supercomputer."
     publishedDateTime: 2020-10-15T16:35:00Z
     webUrl: "https://apnews.com/press-release/globe-newswire/virus-outbreak-technology-business-science-corporate-news-23b7d28e3115e015fcf1ce2ce8005731"
@@ -62,6 +71,6 @@ related:
         height: 450
         isCached: true
 
-secured: "DR1XvmM/PVDAgfvNhFe5FGdq6aEmaxk2LRTJ45Oik+oyxfl+t/SVx5nQ6r2H5IgC/qDSi6Z0dKXKXhoWPwjLkabl3sjyUx/J+HCNDKTj2Ft1ekzqDZfhEMSMsiIdXPGjijGlOJwTKNA6WAcFaRAhP62HhheZB5Uc9upF9RaKHw+pQ6G+EQlWGb5t0UDMxQ3OGgjGX0UJBvnHRUxAhE7WYhCP5GF7INjVE5KKM1JrNYLrimwG8EE/VzDsVTVuehzUfLE/2lsmv/Rh3pKvJuhLoa9O8HVgzm6wg/QTh/ZbxtDfgpnoxIV+P5EaP+1BbENwn8glAuD/dmToWquHByZEeS+v7LCh6TfkGmmmGsVqubA=;//bKle/vZGvogYxb8dePCw=="
+secured: "fJYaA5ijzkdY9dnRkw5Znp2VI6OoQePdmo6IsWokZU77Y6JHml8Yi67uA9HOuYvqSU96JuDh8E8NUaxd6EKg6hr4PqwT8P470rLOYBxvK42PmO2xkngG9b7grOUlCPk1IYZASonF+gIkw+5E1L7wthjGtZEWnP/zZlm0yfACB4yW3TPd+LV9QikwAcAw8KaE2jcVMnE5sWUuHQpWO29zaikAAWZvWYQjsESr6i4GM5913GJGrMs3Gmhq3y7Je8Js+Hgk9ihoupm9QVI3OLinhA13azdPcX4462Y490suWPM1xxupmHKjrds9vTxBv+askCa6KrAHZ7wXc5VN8M/2QJ5YUTBqQpj6U3IruHpnCVMLL0u3ON/8NzKFAD5vaqE2uQF997J0VHU9Cc3Oe4AQtKVSX8dtjL4nOQHoEYVLTkVjPu9wuKL1xfNDaIz3+sMLOJZGNEE/YK9lPujG5Cqemy9vnr4KxLwLggUEIIB5B3Kwkm7llJqbjlYMIxqhWvWjtl1MtM37lrSle64waR9kew==;Y1Fu5NVTCMmKq7djtedndg=="
 ---
 

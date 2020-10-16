@@ -41,6 +41,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "GM’s Self Driving Car Service Allowed to Test Vehicles Without Safety Drivers in California"
+    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
+    publishedDateTime: 2020-10-15T21:58:00Z
+    webUrl: "https://lawstreetmedia.com/tech/gms-self-driving-car-service-allowed-to-test-vehicles-without-safety-drivers-in-california/"
+    ampWebUrl: "https://lawstreetmedia.com/tech/gms-self-driving-car-service-allowed-to-test-vehicles-without-safety-drivers-in-california/amp/"
+    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/gms-self-driving-car-service-allowed-to-test-vehicles-without-safety-drivers-in-california/amp/"
+    type: article
+    provider:
+      name: Law Street Media
+      domain: lawstreetmedia.com
+    quality: 49
+    images:
+      - url: "https://lawstreetmedia.com/wp-content/uploads/2020/10/iStock-1183292352-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "NASA scientist and driverless car pioneer crowned top Aussie expats"
     excerpt: "The first Australian to become a scientific lead on a NASA mission to Mars and the founder of a pioneering driverless vehicle company have been jointly crowned as Australia's top expats."
     publishedDateTime: 2020-10-15T13:20:00Z

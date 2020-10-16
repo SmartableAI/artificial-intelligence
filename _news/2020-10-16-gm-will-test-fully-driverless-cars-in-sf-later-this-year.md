@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/cruise-testing-san-francisco-214222312.
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-testing-san-francisco-214222312.html"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "GM’s Self Driving Car Service Allowed to Test Vehicles Without Safety Drivers in California"
+    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
+    publishedDateTime: 2020-10-15T21:58:00Z
+    webUrl: "https://lawstreetmedia.com/tech/gms-self-driving-car-service-allowed-to-test-vehicles-without-safety-drivers-in-california/"
+    ampWebUrl: "https://lawstreetmedia.com/tech/gms-self-driving-car-service-allowed-to-test-vehicles-without-safety-drivers-in-california/amp/"
+    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/gms-self-driving-car-service-allowed-to-test-vehicles-without-safety-drivers-in-california/amp/"
+    type: article
+    provider:
+      name: Law Street Media
+      domain: lawstreetmedia.com
+    quality: 49
+    images:
+      - url: "https://lawstreetmedia.com/wp-content/uploads/2020/10/iStock-1183292352-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "NASA scientist and driverless car pioneer crowned top Aussie expats"
     excerpt: "The first Australian to become a scientific lead on a NASA mission to Mars and the founder of a pioneering driverless vehicle company have been jointly crowned as Australia's top expats."
     publishedDateTime: 2020-10-15T13:20:00Z
@@ -69,6 +85,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "GD2ea9Iyd54OVVN8gFbiQwCbL2AMktmPN13T57WKUjGfY4GVMDG63cTXXo/3LAyJVyUp2EfKIxb00d6AMgWnwHlxAIJIIDbljy2dPpCkF8DlihlDmraNl8sqECcZE0Kwn6Gsl434UMmIjr1UyhflEQ1d28Xpiwo+Dvm+nklhFgvKZxkPSUyYRDPuqQnBMy1CXs0GmZIT3lf4XL3MmkhP6JOBYqajKTKVnh+IDV2STLXh6vRba+o9bJmnGITjHDNwtzk9PzxUFTABJVJgqAdi4hUUCy8Ox+ecx9mo5ROHfE1L8XBsADkV8Nf92K8ZtP+SVwUqLvnS0gp4XtEQOsrlW1MmJbriIHd6w0z5Wa+xQx4=;ilV6JeoXnz9VgIBymYz8KQ=="
+secured: "4i/jwUIoNsX+WsTuwH4VPlrhhw6ENU8apN8XAabtA1rpUKsl21pgZG7KcBdAtnv+g4+N985XSroO1dKlzKniex2f/v4b6ZRVgayKJmJl1RICV4qpLIvI2NAR/dTSEeYmKUuWiXn9VoEOheI1tIvBz/9jC+BKMkzvzZJTSTVHmZ6cXdhYh5WkaGTemehknzJEsmBrM7OFmoaOKQY1L53fYvtFPbPGxZmzYMZWW+NC8m4dwV7ntGFSjZ7J4Jt5zdvN52XvrdwpIfOE6T8HWO+aNI2LUD5lALLcGAnH6FK0f2UMv3ace4674sPd81QItm0mnx5idMIZi1FyOdHuQy8bUU9bdyZ0k7ipK5eEEK0OBklb67cT0ZkM1Ib0WJV/2nlk/UBS2I4x9az3JFmtQYfpjksoqNm7QuKa1FTNSEe7h8w86Wwc47YYdDnwturB1wNfZ9owosUa78bbjklQ37Q9J+oDwmn1kDw+zMPNsF9IDg4vycSMi5KodKk7PN5G1DFBV8Rn+Gx1aD8lqHoibKTsYg==;UXiw5Amw+mrO8II0roaMfg=="
 ---
 

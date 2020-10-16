@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-30-programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group.md",
+      "title": "Programming artificial intelligence for object recognition made easy – by the BMW Group",
+      "excerpt": "just-auto gives its paid members access to the very best automotive market coverage. And now there’s just-auto plus, our premium membership that gives you exclusive component forecast data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/news/programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group_id197954.aspx",
+      "originalUrl": "https://www.just-auto.com/news/programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group_id197954.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/images/just-auto-share.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-amazon-spent-24000-to-kill-portlands-facial-recognition-ban.md",
       "title": "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban",
       "excerpt": "On Wednesday, Portland lawmakers will vote on what could be the strongest facial recognition ban in the United States. In November 2019, city officials revealed they were crafting legislation that would ban the use of facial recognition technology by both ...",
@@ -1374,49 +1417,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-huangs-law-is-the-new-moores-law-and-explains-why-nvidia-wants-arm.md",
-      "title": "Huang’s Law is the new Moore’s law, and explains why Nvidia wants Arm",
-      "excerpt": "voice and object recognition in our personal gadgets. Between November 2012 and this May, performance of Nvidia’s chips increased 317 times for an important class of AI calculations, says Bill ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm-11600530134203.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm-11600530134203.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/09/19/600x338/a35a2ae482ad4a97ab798de3396e67e6-a35a2ae482ad4a97ab798de3396e67e6-1_1600530200000_1600530213133.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm/amp-11600530134203.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm/amp-11600530134203.html",
-      "publishedDateTime": "2020-09-19T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

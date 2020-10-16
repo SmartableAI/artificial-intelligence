@@ -7,7 +7,7 @@ originalUrl: "https://www.massdevice.com/fda-clears-ge-healthcare-ai-powered-car
 webUrl: "https://www.massdevice.com/fda-clears-ge-healthcare-ai-powered-cardiovascular-ultrasound-system/"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Oct132020at31508PM.jpg"
         width: 770
         height: 400
+        isCached: true
+  - title: "MedTech Startup See-Mode Technologies Receives FDA Clearance for AI Software That Automatically Analyses and Reports Vascular Ultrasound Scans"
+    excerpt: "Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to better predict stroke, today announced that it has received 510 (k) clearance from the U.S. Food and Drug Administration (FDA) for its debut product,"
+    publishedDateTime: 2020-10-15T23:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/medtech-startup-see-mode-technologies-receives-fda-clearance-for-ai-software-that-automatically-analyses-and-reports-vascular-ultrasound-scans-1029684284"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1313348/See_Mode_Logo.jpg"
+        width: 400
+        height: 387
         isCached: true
   - title: "GE Healthcare Gets FDA Clearance for AI-Powered Cardiovascular Ultrasound System"
     excerpt: "GE Healthcare said it received U.S. Food and Drug Administration 510k clearance for its Ultra Edition package on Vivid cardiovascular ultrasound systems. The healthcare business of General Electric Co."

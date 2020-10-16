@@ -3,8 +3,8 @@ category: news
 title: "Facebook plans to use AI to help fight climate change"
 excerpt: "The social network teams up with Carnegie Mellon University to find new ways to store and use renewable energy."
 publishedDateTime: 2020-10-14T20:43:00Z
-originalUrl: "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/?via=indexdotco"
-webUrl: "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/?via=indexdotco"
+originalUrl: "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
+webUrl: "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
 ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
 type: article
@@ -184,6 +184,6 @@ related:
         height: 629
         isCached: true
 
-secured: "Cc41CZwiyjTgEqZe1MeHwaE93cJzXodBsvhbKnYbDXwZqTJN6FpzuKUw4FxhFoQtCE17AWZguPZcJfCYlVx73i4igkjuFqOGlK0SZVRNAm7rKE8KxJ1VtyKlJOKuza4ULJhqB36qo1HgUdoAKoDbVYzdkZ3WvYtJKH8iVRkUqHYF5J4v8A2XE2VXZyAbkKApEsunCy43prM8Nj8mcL41XysXksABKYqivmE9t6oL22hMnFM2YUjcrpAMbNSnkznBRktQ1DXfeuyKb1c2ZaCg2tvB3b24D5+ielKwEf750gCeEWFOyFqM5Uoug8HNu3lSKfxOhGeSd8+moJn133fjir9Ol5mLSYwXUURIpz2zydr2w+DLuDw9FN+lf+CwoA0+0QuQtRGlQwZP4IiuQJRlke1hGUT76blwJtczbMrC+Pe9uaYBwqLD04pQ4/PxuGFHO0sPedu3dbEgSo4dTfVzF8k5T58JYJY9ROkyzemWYKVfIiaDb5MtBCpnbYMEaqjIKmoKD4em/w9VwYSIrTDj2A==;/itf2ObxyFzz1cdSn2XNIg=="
+secured: "UnQ99d3BIH1hdJTcR4Bk0vSFg4qu+46oXu2D8TwyNw7YIWP/FXyk4qcyUCk4KUxAiDqhsKnfvaMHpcbGyrlFnegobrEUj2s7p3W2Q+kLgKpcRyx9bsSTwWOJT2V1B0XESKaeuDLiyH3pBkllWGA8VBu0TNw+9Q/0nNCG8ndrvIf6xAUFWSsg5zMwWHDk+YCL9lGl9h01ivZqG1IYiNKIIw1HmD1JZ6L421/eqJttkF1AUvJ1MuCABQ5H6oDP/OQyQGpz7fO7CIGa7JPnxNuQwS3OaJa7jospY9M6qVms+YawJy4/Iqd8g4zcS3Q7ssEqowJEYNQp4Qxhnu1DiXZrVVhy5VOJUztF24qgeMpwCoU=;+OVrwcTCMIVOLhMf/OZf/Q=="
 ---
 
