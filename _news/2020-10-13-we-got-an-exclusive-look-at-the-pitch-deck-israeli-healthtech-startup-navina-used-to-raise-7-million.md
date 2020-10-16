@@ -28,35 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "US-Israeli AI retinal scanner named finalist at global health competition"
-    excerpt: "During the competition, AEYE Health’s CEO will have three minutes to present his company’s latest technology and how it sets to transform the way healthcare systems diagnose retinal conditions."
-    publishedDateTime: 2020-10-11T14:47:00Z
-    webUrl: "https://www.jpost.com/health-science/us-israeli-ai-retinal-scanner-named-finalist-at-global-health-competition-645343"
-    ampWebUrl: "https://m.jpost.com/health-science/us-israeli-ai-retinal-scanner-named-finalist-at-global-health-competition-645343/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/us-israeli-ai-retinal-scanner-named-finalist-at-global-health-competition-645343/amp"
+  - title: "We got an exclusive look at the pitch deck AI training startup Edgify used to raise $6.5 million"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 London-based AI startup Edgify has raised a $6.5 million seed round from an unnamed strategic investor (referred to as a ..."
+    publishedDateTime: 2020-10-12T06:01:00Z
+    webUrl: "https://www.businessinsider.com/edgify-london-ai-startup-transforming-collaboration-on-edge-devices-2020-10"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 56
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/464827"
-        width: 640
-        height: 428
-        isCached: true
-  - title: "Israeli face-recognition tech lets actors work off set"
-    excerpt: "Startup specializing in privacy solutions uses its tech to change and enliven actors’ expressions without them ever needing to leave the house."
-    publishedDateTime: 2020-10-16T01:02:00Z
-    webUrl: "https://www.israel21c.org/israeli-face-recognition-tech-lets-actors-work-off-the-set/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 24
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2020/08/main.jpg"
-        width: 1599
-        height: 899
+      - url: "https://i.insider.com/5f8043bcea74820019ca61d0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "8HBbIirgM+l+nU77jYo/5y17476fl+lyHKtogRJmlyftUBOH3CQffLw6tzLmgr5Rw3PCFKzLgb0kpuDXll83KB+axKdbv9lNKSyCEiBbisa05s27U6wt6X82DjF1R887t10reaDif94baBBblKd/bxWx1yXzntKyfd+Nrxnmb+YnEz5rlpIPCoK8ashW+eogQABnvGa09vxZtoA7hlTSxgAbYVtQCb06SvsLCQRM2cPqNIzlC/6zuus2KUojrjqfMhGoOzWBlJpxXo2BdFfGV/P3okr+IZIT8/Fu4dDl9k0G84SzwmNCht6Z4lQcUNA5IwrImTex+Ja4+yLYZYIivAYegFc6IEdg5i3w5ZbuJX4=;l73Fh9aYOE7lPeEoPyBOXQ=="

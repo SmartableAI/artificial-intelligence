@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Successful A.I. Meets Business Needs—and Human Needs"
+title: "Successful AI Meets Business Needs—and Human Needs"
 excerpt: "A look at how Zulily is using the latest tools in artificial intelligence, machine learning, and cloud computing to innovate and serve its customers with purpose."
-publishedDateTime: 2020-10-15T22:42:00Z
-originalUrl: "https://www.cio.com/article/3585771/successful-a-i-meets-business-needs-and-human-needs.html"
-webUrl: "https://www.cio.com/article/3585771/successful-a-i-meets-business-needs-and-human-needs.html"
+publishedDateTime: 2020-10-16T00:05:00Z
+originalUrl: "https://www.cio.com/article/3585771/successful-ai-meets-business-needsand-human-needs.html"
+webUrl: "https://www.cio.com/article/3585771/successful-ai-meets-business-needsand-human-needs.html"
 type: article
-quality: 24
-heat: 24
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "TRRHWeNStUxJFEfJLT4DAsw8YTFrpfRnxAHWZQ1FeFf4khSymyeupXTWeGMv5hMKJ5FoyiHqaDaRCSyD2hkMVuyF2mrKE+j/G1RgWpNmspVlYhZXlMNIUpkBI6PbbeHh0u4VRiOvHJV6HJcNnz3tx4MKDmPX7WcUfXvxhv+rpVq3nwVy64Lh3qxh6Tu/wHHKHca9zvZKGDqV+l/g7hvHf9+kZR/wt2GXL/GHMYOVYeKTizno2ekU+6h9mZhg8GjhIfRSHvnVw6c19OQJ+t+OzYrW0rNyyKBN4wIeiol4F3cVWahOVlBwjLY9oKFbagV/B2M1FJYSHCrHbNIHESVf5Th1mjOegnk6nSMoMXJLSU8=;5xXUvthfeIAhQfhK+y8uSQ=="
+secured: "AUVRi7MFzT8wp81iRnbvSDXVqDXnqzv8l7uMlVS2V6yPR5C6Mj5PJM80P8o6h2pHh38oyngRTyG+ENKJX9iGa0dRXxWdZ//6ppfYQUjRO4S9wFE9fjaZzpZGVmbiHXRk9sVebtWRTc5Str170xjIsvhyXgKyJxiXZLGrRO1B5KkGR7Aypc5e+Ys57z7mf5+fvLwwPKMx94LcEOe3rfDopd8FLXSICrl9GosC/B2wCGOoxzYV9vuzrLHbGv3yqp6AQurDSTgsFY7uTVRPo1jPW1T/9YmmdG4jYHQIUxvgN60zGNwHi6m8zkY2Kg7nf6OIKq/fzG0d/fYjUcyIpYDLkK++x5XABtQRr/TEGy5gdj8=;oNTe8yAbrhkuyDfWl0ikYQ=="
 ---
 

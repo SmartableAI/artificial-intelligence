@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-16T03:00:00Z
 originalUrl: "https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c"
 webUrl: "https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Ethics
+  - Natural Language Processing
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5246fd70-6619-4c99-8d72-03875cac0f46.jpg?source=next-opengraph&fit=scale-down&width=900"

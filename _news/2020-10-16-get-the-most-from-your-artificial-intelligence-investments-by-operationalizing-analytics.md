@@ -51,6 +51,15 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 61
+  - title: "Roojoom Designated by Gartner as a 2020 Cool Vendor in AI for Customer Analytics"
+    excerpt: "Roojoom ( has been designated a Cool Vendor by Gartner in a recent report \"Cool Vendors: AI for Customer Analytics\". According to Gartner, \"'Born AI' startups are appearing in the hotly contested area of AI for customer analytics,"
+    publishedDateTime: 2020-10-15T23:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/roojoom-designated-by-gartner-as-a-2020-cool-vendor-in-ai-for-customer-analytics-1029684273"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Google Analytics Brings Machine Learning to Customer Insights"
     excerpt: "On Wednesday, the tech giant unveiled a new update to Google Analytics that uses machine learning to uncover important insights for retailers. The goal, it said in a blog post published Wednesday ..."
     publishedDateTime: 2020-10-14T21:26:00Z

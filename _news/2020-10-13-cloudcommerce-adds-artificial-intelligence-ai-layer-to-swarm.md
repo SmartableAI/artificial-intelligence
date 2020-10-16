@@ -2,27 +2,26 @@
 category: news
 title: "CloudCommerce Adds Artificial Intelligence (AI) Layer to SWARM"
 excerpt: "( CLWD ), a leading provider of digital advertising solutions, today announced that it has entered into a license agreement with Pattern89 to add its artificial intelligence (AI) technology to SWARM,"
-publishedDateTime: 2020-10-13T07:01:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-9810f74b52d1cedcdaee6c67344d828a"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-9810f74b52d1cedcdaee6c67344d828a"
+publishedDateTime: 2020-10-13T07:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm-1029672436"
+webUrl: "https://markets.businessinsider.com/news/stocks/cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm-1029672436"
 type: article
-quality: 52
-heat: 52
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "c3565XSwbaG/1TDIp71LNZeZt82CB45NMC3Nn7ze7t9X5IWojRbjTPPZMYQm6iVoe3QtCXPNbc4TeawdIDA2X0iy4jopWkAcnVnZ0Hv8n/ZgPkvYp2/vVrodcxMFUrOOyXqwnz5cNHB/rQzQLz3Jf00TmdSePAUY293Y8zYzUM+90S0Z70UYrnLqMp0ODfapUB2OXCoHEhJ3JoOTuZOlefs2Oz37ivS+j2T+RsXxxYB1yoS5wVzFTY2S1Fmkk59XWAvFUIMXmhCjAPFXhXI7+pxwfNuE/LW0oh5RHBDyklViZVsJtvd8MtdVFWv6CBQA6OoXwxOgt+V7bm0aV54jQS0s+GB93iXKiJ/EshMDZy0=;SS6o1xG11Jy/i1tjifFKZg=="
+secured: "d6NzU01G+p9JLuh8DPg+RYxHLCml1Hk4IWPntKt6E6OXeQSSRVAN1bqveTCN5Jlewh2f4tYyy/bGc1BoJpxBG9yHY1uK1k45V6+7A/KJ2DrL+kxNRRLsoOpXxZZ2hKyDeI9RnTJjn36eO+K4e9sKMzaVBQuoaqyN5ZBamZjeCNiYzHfo7QZJSHzgb0acTAwfehTeKXQ8pcfoLN8fX1OpXu/vZr11Tb5ifswtwaYP3yA6sCWiEQIvnhRFKJwkubn42E5Bxn3VxHWvn5xlImxl9DLF/oMAqwy8EM/acALfYPG9uOIuTfB9mp6Y3Mr59q8CVDH9+ZJ4gQvDtl/GPOhIfM32ZenR31mUjYCHuZEvLRg=;43BKkyzcbVEWbo1zifR1PA=="
 ---
 

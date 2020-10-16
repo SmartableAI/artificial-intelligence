@@ -28,43 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "FDA clears GE Healthcare AI-powered cardiovascular ultrasound system"
-    excerpt: "GE Healthcare announced that it received FDA 510(k) clearance for its Ultra Edition package on Vivid cardivascular ultrasound systems."
-    publishedDateTime: 2020-10-13T17:44:00Z
-    webUrl: "https://www.massdevice.com/fda-clears-ge-healthcare-ai-powered-cardiovascular-ultrasound-system/"
+  - title: "FDA proposes new regulatory framework on artificial intelligence, machine learning technologies"
+    excerpt: "The findings come from a cross-sectional study, published in BMJ Open, of the comments submitted to the US Food and Drug Administration (FDA) 'Proposed Regulatory Framework for Modifications to Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD)--Discussion Paper and Request for Feedback'."
+    publishedDateTime: 2020-10-16T07:16:00Z
+    webUrl: "https://www.news-medical.net/news/20201016/FDA-proposed-regulatory-framework-for-modifications-to-ALML-based-software-as-a-medical-device.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201016/FDA-proposed-regulatory-framework-for-modifications-to-ALML-based-software-as-a-medical-device.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201016/FDA-proposed-regulatory-framework-for-modifications-to-ALML-based-software-as-a-medical-device.aspx"
     type: article
     provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 54
+      name: News Medical
+      domain: news-medical.net
+    quality: 62
     images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2019/07/GE-Healthcare-logo.png"
-        width: 770
-        height: 500
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "GE Healthcare Combines Ultrasound and AI for Cardio Exam Solution"
-    excerpt: "The Chicago, IL-based company has received FDA clearance for the Vivid Ultra Edition, an AI-powered cardiovascular ultrasound system."
-    publishedDateTime: 2020-10-13T20:45:00Z
-    webUrl: "https://www.mddionline.com/digital-health/ge-healthcare-combines-ultrasound-and-ai-cardio-exam-solution"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 54
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Oct132020at31508PM.jpg"
-        width: 770
-        height: 400
-        isCached: true
-  - title: "GE Healthcare Gets FDA Clearance for AI-Powered Cardiovascular Ultrasound System"
-    excerpt: "GE Healthcare said it received U.S. Food and Drug Administration 510k clearance for its Ultra Edition package on Vivid cardiovascular ultrasound systems. The healthcare business of General Electric Co."
-    publishedDateTime: 2020-10-12T12:26:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202010124366/ge-healthcare-gets-fda-clearance-for-ai-powered-cardiovascular-ultrasound-system"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 29
   - title: "MedTech Startup See-Mode Technologies Receives FDA Clearance for AI Software That Automatically Analyses and Reports Vascular Ultrasound Scans"
     excerpt: "Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to better predict stroke, today announced that it has received 510(k) clearance from the"
     publishedDateTime: 2020-10-12T13:00:00Z
@@ -80,20 +59,6 @@ related:
       - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2020/LOGO_0.jpg?itok=EnrZtCRh"
         width: 763
         height: 509
-        isCached: true
-  - title: "GE Healthcare Receives FDA Clearance for Vivid Ultra Edition, AI-Powered Cardiovascular Ultrasound System Designed to Shorten Diagnostic Exam Time and Improve Measurement ..."
-    excerpt: "GE Healthcare today announced U.S. FDA 510k clearance for its Ultra Edition package on Vivid cardiovascular ultrasound systems."
-    publishedDateTime: 2020-10-12T12:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201012005097/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
-    images:
-      - url: "https://mms.businesswire.com/media/20201012005097/en/51143/23/GE_Imagination_at_Work_Logo.jpeg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "MedTech Startup See-Mode Technologies Receives FDA Clearance for AI Software That Automatically Analyses and Reports Vascular Ultrasound Scans"
     excerpt: "Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to better predict stroke, today announced that it has"

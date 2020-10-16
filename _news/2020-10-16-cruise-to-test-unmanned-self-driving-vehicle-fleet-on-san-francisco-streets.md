@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
+  - title: "Self-Driving Car Subway Planned For Las Vegas Strip"
+    excerpt: "(CNN0 – The work on a subway for self-driving cars in Las Vegas could expand; courtesy of businessman Elon Musk. Musk’s company; the Boring Company is already building a underground tunnel loop in the city."
+    publishedDateTime: 2020-10-16T06:57:00Z
+    webUrl: "https://www.wltz.com/2020/10/16/self-driving-car-subway-planned-for-las-vegas-strip/"
+    type: article
+    provider:
+      name: WLTZ
+      domain: wltz.com
+    quality: 24
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.wltz.com/content/uploads/2020/10/Screen-Shot-2020-10-15-at-10.43.30-AM.png"
+        width: 431
+        height: 211
+        isCached: true
 
 secured: "yQCfKtDGF55wEewYWaOIOkdlLJ5L5uM1DxzndP7nNLn/HlvknGM69jB1E277eBXOmiHOzfYyV/JCUyCEmTkow9sl6T0ze5vPZE3HN4vVqWE4IO4KHKxy2rxbtSef5I2ztiCDnPP67aAg/W1D/dDLHGmaAp9NCi2Pm5BbGPhlHDfmuJ//Pcun4AKIuyf+kVE/3dmOMXRIZiJVMR0bmpPx9dSmLYL7QXxplC7KMcSr4XyHx1JnwczH+T5yjsl0Xf7Piij23sAdw8OapL1MCJb/LtkwzppWeCEyO4BsmAqcTqQhJzbfiRgZjcECiQuWIjxAASYKl9176cRlGt5smd36VMkt9mJPzwj+/j7THM+N9dddXNRbIr6fysO/P4nm15bVkvaVbZWLFKRoluSfsUPTX8eJHoq/Hp+pQj+/zeTEmL3cdlSENCGwVZr6OvDWMmzJMNsosh9cvdyTqfy4lO030xKuUf40QkkmS4RoIbrHCIFe3ps2rZ9MDe0TY6gciuMl4pGChbpjH8NoOdv6Gb/5aA==;s1xKwmUEYN6FJ+LxEY/Jpg=="
 ---

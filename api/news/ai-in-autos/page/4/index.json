@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-13-latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players.md",
+      "title": "Latin America Self-driving Car Market 2023| Strategic Assessment By Top Players",
+      "excerpt": "Sep 13, 2020 (AmericaNewsHour) -- Latin America self-driving car market A self-driving car, also known as the driverless car or an autonomous car or",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13?mod=mw_quote_news",
+      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13?mod=mw_quote_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-12T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-12-automakers-may-be-hyping-self-driving-cars-report-warns.md",
       "title": "Automakers may be hyping self-driving cars, report warns",
       "excerpt": "Automakers may be hyping the capabilities of self-driving vehicles through marketing campaigns. Marketing of auto-driving cars stress on convenience and capabilities, instead of its limitations ...",
@@ -1308,49 +1360,6 @@
       "provider": {
         "name": "The Business Journals",
         "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-yandex-restructures-self-driving-business.md",
-      "title": "Yandex Restructures Self-Driving Business",
-      "excerpt": "04, 2020 (GLOBE NEWSWIRE) -- Yandex N.V. (NASDAQ and MOEX: YNDX) and Uber today entered into agreements to spin off the self-driving vehicles business, Yandex Self Driving Group B.V. (“Yandex ...",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/business/consumer/yandex-restructures-self-driving-business/article_6afbd278-39a3-5fe8-bf20-8f0f1ebbd808.html",
-      "originalUrl": "https://omaha.com/business/consumer/yandex-restructures-self-driving-business/article_6afbd278-39a3-5fe8-bf20-8f0f1ebbd808.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-04T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
         "images": null,
         "publishers": null,
         "authors": null

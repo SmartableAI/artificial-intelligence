@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
 type: article
 quality: 125
-heat: 255
+heat: 265
 published: true
 
 provider:
@@ -170,6 +170,22 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/tulh8a/article32862527.ece/ALTERNATES/LANDSCAPE_615/microsoft-ai-captioningpng"
         width: 615
         height: 384
+        isCached: true
+  - title: "Microsoft's latest computer vision technology beats humans at captioning images"
+    excerpt: "The AI is already available to Azure customers and will be incorporated into multiple Microsoft consumer products later this year."
+    publishedDateTime: 2020-10-15T00:00:00Z
+    webUrl: "https://www.dpreview.com/news/9384724203/microsoft-s-latest-computer-vision-technology-beats-humans-at-captioning-images"
+    ampWebUrl: "https://m.dpreview.com/news/9384724203/microsoft-s-latest-computer-vision-technology-beats-humans-at-captioning-images.amp"
+    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/9384724203/microsoft-s-latest-computer-vision-technology-beats-humans-at-captioning-images.amp"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 72
+    images:
+      - url: "https://4.img-dpreview.com/files/p/E~TS520x0~articles/9384724203/scanning"
+        width: 520
+        height: 326
         isCached: true
   - title: "Microsoft bringing breakthrough AI image captioning to Word, PowerPoint, Outlook"
     excerpt: "Microsoft today announced it has achieved a major breakthrough in automatic image captioning using AI. The company hopes the new model can improve accessibility in apps and on the web for people with visual impairments."

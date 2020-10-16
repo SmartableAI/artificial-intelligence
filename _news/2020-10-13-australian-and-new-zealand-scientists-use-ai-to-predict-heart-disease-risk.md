@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/australian-and-new-zealand-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1092
     height: 694
     isCached: true
+
+related:
+  - title: "Services Australia taps AI in document processing"
+    excerpt: "Services Australia and Capgemini have developed a new artificial intelligence (AI) engine in a pilot project to classify and extract information from documents submitted by citizens who are applying for Centrelink, Medicare and Child Support payments and ..."
+    publishedDateTime: 2020-10-16T07:21:00Z
+    webUrl: "https://www.computerweekly.com/news/252490630/Services-Australia-taps-AI-in-document-processing"
+    ampWebUrl: "https://www.computerweekly.com/news/252490630/Services-Australia-taps-AI-in-document-processing?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252490630/Services-Australia-taps-AI-in-document-processing?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/robotic-process-automation-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "nKFBDgpPR7vXMteU13LyiSi3rCgDQMnCAUqEsr3CYE6wytnCAk48pTZ7IbFwxupgS6emKvn9jNd/+xuepypba2vDleNwKJ3ZI/z9jxe6cllmk3BOW/nfn2XqaeqYv5aGLM8OwZrggY2s9J8dY2qF2ngZuRI/BY9UYOn0hTha9xNOnwJBz1oN/uUu04Swlv5bqDYJZz6CoMwtWBGhmEMWEHgK0/ffkqUu3f0Vm+VOS5uEfBCTQuienMZFGmEc8oAYsmqFCDEfrrRMF+EsFQmpDYELZjwx2/NX9txcIUhRXh/CdvRtp8x5OgP3p/rOOUOYcVUia3H/DIofnd8kwP3EH4a7AhzALHFBHu5Nw6/jAfYOlEC7QCJPdZQ05axDiWPcHZgPqLRj9RuuM88vE6vGmP28ilXgmEcETyfVM6CQer+CK6ydUEvK+ejzJ+W5VKBmwPNws5fINXVf/vlrIVbFK+kPJaDrf2lrg0/FU0h3qw1YhhrNx7RIpkXzVfKn4NWz907Y+STtv1LYEyqt5zzXGA==;EYtHVjctdsxKn4rTz5mEwg=="
 ---

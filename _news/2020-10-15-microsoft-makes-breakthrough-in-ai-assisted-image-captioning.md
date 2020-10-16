@@ -167,6 +167,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Microsoft's latest computer vision technology beats humans at captioning images"
+    excerpt: "The AI is already available to Azure customers and will be incorporated into multiple Microsoft consumer products later this year."
+    publishedDateTime: 2020-10-15T00:00:00Z
+    webUrl: "https://www.dpreview.com/news/9384724203/microsoft-s-latest-computer-vision-technology-beats-humans-at-captioning-images"
+    ampWebUrl: "https://m.dpreview.com/news/9384724203/microsoft-s-latest-computer-vision-technology-beats-humans-at-captioning-images.amp"
+    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/9384724203/microsoft-s-latest-computer-vision-technology-beats-humans-at-captioning-images.amp"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 72
+    images:
+      - url: "https://4.img-dpreview.com/files/p/E~TS520x0~articles/9384724203/scanning"
+        width: 520
+        height: 326
+        isCached: true
   - title: "Microsoft bringing breakthrough AI image captioning to Word, PowerPoint, Outlook"
     excerpt: "Microsoft today announced it has achieved a major breakthrough in automatic image captioning using AI. The company hopes the new model can improve accessibility in apps and on the web for people with visual impairments."
     publishedDateTime: 2020-10-14T21:07:00Z
