@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-14-facebook-donates-vital-funds-to-iconic-wwii-code-breaking-center.md",
+      "title": "Facebook donates vital funds to iconic WWII code-breaking center",
+      "excerpt": "On Tuesday, Facebook announced a donation of $1.3 million (1 million ... which caused its closure for several months this year. Although artificial intelligence was not officially formed as a discipline until after Turing’s untimely death, Turing was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/",
+      "originalUrl": "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/turing-memorial-mpk6-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-bletchley-park-donation/?amp",
+      "publishedDateTime": "2020-10-13T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-optimizing-the-cost-of-training-aws-deepracer-reinforcement-learning-models.md",
       "title": "Optimizing the cost of training AWS DeepRacer reinforcement learning models",
       "excerpt": "AWS DeepRacer&nbsp;is a cloud-based 3D racing simulator, an autonomous 1/18th scale race car driven by&nbsp;reinforcement learning, and a global racing league. Reinforcement learning (RL), an advanced&nbsp;machine learning&nbsp;(ML) technique, enables models to learn complex behaviors without labeled",
@@ -1116,57 +1168,6 @@
         "AI",
         "Microsoft AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education.md",
-      "title": "How CogAbility and the University of Florida are using Watson to build the future of education",
-      "excerpt": "As they do every fall, 55,000 students descended on the University of Florida this year. But with mask and physical distancing guidelines, alterations to policies on campus gatherings, and new behavioral expectations, operating and attending a university during a pandemic is anything but business as",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/Watson_UF_ChatBot_Blog_Leadspace_Final_1-2-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T12:28:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

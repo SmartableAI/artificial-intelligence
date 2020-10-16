@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-03-the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.md",
+      "title": "The HP Spectre x360 14 gets a lush OLED display and a lot more AI smarts",
+      "excerpt": "The new HP Spectre x360 14 features OLED, while the Spectre x360 13 and Envy x360 upgrade to 11th-gen Tiger Lake processors",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
+      "originalUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/10/hp-spectre-x360-14-front-facing_natural-silver-100860561-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
+      "publishedDateTime": "2020-10-02T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-landmark-court-decision-says-robots-cant-be-inventors-but-the-fight-isnt-over.md",
       "title": "Landmark court decision says robots can’t be inventors. But the fight isn’t over",
       "excerpt": "The United Kingdom's highest court tossed out a case that would've established that machines can be creative and win patents for their inventions",
@@ -1132,59 +1184,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars.md",
-      "title": "Fast-Tracking AI Ethics Is Dicey And Shortsighted, Especially For Self-Driving Cars",
-      "excerpt": "There seems to be quite a rush to get AI systems out-the-door these days. Unfortunately, there is a devilish price to be paid in such a rush to judgment and the associated misguided assumption that the soonest AI is the best kind of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F488653868%2F0x0.jpg",
-          "width": 1200,
-          "height": 1107,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-10-01T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
       ]
     }
   ],

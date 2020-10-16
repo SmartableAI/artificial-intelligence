@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-09-16-new-data-processing-module-makes-deep-neural-networks-smarter.md",
+      "title": "New data processing module makes deep neural networks smarter",
+      "excerpt": "Artificial intelligence researchers at North Carolina State University have improved the performance of deep neural networks by combining feature normalization and feature attention modules into a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/09/200916131103.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/09/200916131103.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide.md",
       "title": "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide",
       "excerpt": "WASHINGTON (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies UBER.N test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with ...",
@@ -1169,58 +1212,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning.md",
-      "title": "AI researchers devise failure detection method for safety-critical machine learning",
-      "excerpt": "Researchers devised a way to predict the failure rates of safety-critical machine learning systems used in self-driving cars, robotic surgery, and planes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/photo-1539109523166-85417acfcdb7.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/amp/",
-      "publishedDateTime": "2020-09-15T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

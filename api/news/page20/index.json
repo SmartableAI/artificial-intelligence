@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-28-this-interactive-vr-film-lets-you-play-god-to-an-evolving-artificial-intelligence.md",
+      "title": "This interactive VR 'film' lets you play god to an evolving artificial intelligence",
+      "excerpt": "If you could play god to an emerging artificial intelligence, would you? Or better: Should you? That’s the moral dilemma at the heart of Agence, an interactive “dynamic film” that blends ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/agence-ai-vr-film/",
+      "originalUrl": "https://mashable.com/article/agence-ai-vr-film/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F28%252Ffd%252F5554a8fadfd8486f97c31cc8336ffa35.15cd6.jpg%252F1200x630.jpg?signature=1oiSYK9Cltjtd5iFuSmbIu1--2w=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/agence-ai-vr-film.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/agence-ai-vr-film.amp",
+      "publishedDateTime": "2020-09-28T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
       "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
       "excerpt": "PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS) today announced that Arun Venkatachar, VP of AI and Central Engineering, will participate in a panel",
@@ -1075,59 +1118,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-active-learning-workflow-for-amazon-comprehend-custom-classification-models-part-1.md",
-      "title": "Active learning workflow for Amazon Comprehend custom classification models – Part 1",
-      "excerpt": "Amazon Comprehend&nbsp;&nbsp;Custom Classification API enables you to easily build custom text classification models using your business-specific labels without learning ML. For example, your customer support organization can use Custom Classification to automatically categorize inbound requests by problem",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-models-part-1/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-models-part-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/23/FEEDBACKLOOPS-HUMANCLASSIFICATION15-877x630.png",
-          "width": 877,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-25T15:27:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "A radical new technique lets AI learn with practically no data"
+    excerpt: "Less than one”-shot learning can teach a model to identify more objects than the number of examples it is trained on."
+    publishedDateTime: 2020-10-16T09:21:00Z
+    webUrl: "https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/"
+    ampWebUrl: "https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/MnistExamples.png"
+        width: 594
+        height: 361
+        isCached: true
   - title: "Virtual event to examine ethical leadership with AI and Big Data"
     excerpt: "A global panel will consider how to define ethical leadership and the particular challenges posed by emerging technologies in a virtual event from 1-1:45 p.m. ET on Oct. 28. “Defining Ethical Leadership” is free and open to the public."
     publishedDateTime: 2020-10-14T20:58:00Z

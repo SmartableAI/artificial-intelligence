@@ -79,6 +79,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 43
+  - title: "IBM, ServiceNow partner on AI solution to manage IT outages"
+    excerpt: "Expanding their strategic partnership, IBM (IBM -1.1%) and ServiceNow (NOW -1.7%) will release a joint solution that uses AI to more effectively manage IT outages.\"AI is one of the biggest forces driving change in the IT industry to the extent that every company is swiftly becoming an AI company."
+    publishedDateTime: 2020-10-15T19:43:00Z
+    webUrl: "https://seekingalpha.com/news/3622515-ibm-servicenow-partner-on-ai-solution-to-manage-outages?source=cnbc"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "G8km7JXpNjlzv+R1o3JLNdlKrRvkWrh98HN3WJy9fIaWItQ9/WqZGV5XEbwiDKGWJSPGNSYHgPqq7IbvSorvj67rL9v+i2eICi96Lxs7SPktp6B8UeryYttPamcAM3c7Y9OYJxWvb1hpcbNaYyrPFAFYxbsEviweeYG8AN89tO6dKJE3Ezp4U9Ojamv1uymjd7u5swGBy7B8Qpmc5xdQ6mQk1BbTOmCbWi/Yel4JO/r3edgS98dZH5mIZM5JEOFLSnez2eplfECWCLxfQjp/Kr+7RexOhBF61C3DPxMQabgpSH8c8fTKkizCogabHDYqrb5dfSDuRL7XV+nWsXlX9+7ZU99upLCG3W/ZiSrO726diezU82MA60YICDYUR5+Prr5lhNBm0bMT7zgtsrCZoYJWx79g8+GyPb9cNZzQ6kXZfR1Hg/rr28m25MPE3K1W6+/atej2loPJDlaLji34tdSj206+yBn14GEEY5XSBY+20I+R1FrUTSQZslWTsaXGzvDNLwIK0cx6QAbuhWU8Lw==;srrphJwmVo3phcU9ZYX6Uw=="
 ---

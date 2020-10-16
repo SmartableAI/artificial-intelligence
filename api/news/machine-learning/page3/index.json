@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-29-data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan.md",
+      "title": "Data Science to Accelerate Drug Discovery with Artificial Intelligence and Machine Learning, Says Frost & Sullivan",
+      "excerpt": "When combined with other emerging tech areas, artificial intelligence (AI) technologies move to the next phase of advancements. Hence, they are expected to witness adoption by pharma and biotech ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-datasaur-snags-39m-investment-to-build-intelligent-machine-learning-labeling-platform.md",
       "title": "Datasaur snags $3.9M investment to build intelligent machine learning labeling platform",
       "excerpt": "As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch,",
@@ -1390,41 +1434,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-four-steps-to-accelerate-your-machine-learning-journey.md",
-      "title": "Four steps to accelerate your machine learning journey",
-      "excerpt": "Another approach used by Morningstar — a global financial services firm — used hands-on training for their employees with AWS DeepRacer to accelerate the application of machine learning across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey",
-      "originalUrl": "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey?amp",
-      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey?amp",
-      "publishedDateTime": "2020-09-24T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

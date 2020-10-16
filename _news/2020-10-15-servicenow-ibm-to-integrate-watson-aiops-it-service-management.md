@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 43
+  - title: "IBM, ServiceNow partner on AI solution to manage IT outages"
+    excerpt: "Expanding their strategic partnership, IBM (IBM -1.1%) and ServiceNow (NOW -1.7%) will release a joint solution that uses AI to more effectively manage IT outages.\"AI is one of the biggest forces driving change in the IT industry to the extent that every company is swiftly becoming an AI company."
+    publishedDateTime: 2020-10-15T19:43:00Z
+    webUrl: "https://seekingalpha.com/news/3622515-ibm-servicenow-partner-on-ai-solution-to-manage-outages?source=cnbc"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "Pcd8szYRn0EiURdKepzVL5ZQS1uq35AoJ1CkaDPavO5LcjPMpOMpy8DPmLr3axvIGWxCCBSEGXW2Sph8UrgbEJ0mU4vtZu3aZEg0TZHJCgBNLKnqMJ0aGzAPwsPJaf1CbuH5Fkn61iX4r74GTGSGMqdNTP38+jf7FFZoesQ7z8BZnYAV54fAKl8ccsmnsWVIJO3NHkn4VBzut3CYEJGC0dEmB2EezDJ+2zmfsuQNFQi3LY/xsnc1uXsHlOTiv+TjXq5LR2BFx4jw0Jw4Ad1XIquxbApgo3FIyefejPxFYuKXTOUVgm+L1BA82YgWHIaI95ury2T7Hp198aoZlqo7lOwfQ30olux0fkISUjYFZBOhykKSWuk2vlYdnR28mVS7u9DM+3neajyqA3SJXT8VQnH/ubEzp7y8AZbXlKHA0Hrqi67l81ypTF2F0kMKZmAzcRHpjThIYbd/wg2TYBEZ7pflA8pjI1lTW4kB7QsPyx2h9ygFrjxwPy3QLfhgwu9ZnaiyB0AHfNxjqG/F9rlxpA==;MzCAuPK7jeEZxqYoUtwJpw=="
 ---

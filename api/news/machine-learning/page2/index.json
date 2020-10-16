@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-07-researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic.md",
+      "title": "Researchers probe into RNA using deep learning to develop sensors for a COVID-19 diagnostic",
+      "excerpt": "Two teams at the Wyss Institute have demonstrated the use of NLP and CV techniques to optimize RNA sequences to develop improved sensors for the SARS-CoV-2 genome that is responsible for COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic",
+      "originalUrl": "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/10/1602006122_ribocomputing_story.jpg",
+          "width": 760,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/",
+      "publishedDateTime": "2020-10-07T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games.md",
       "title": "EA CEO teases new machine learning and AI features for next-gen games",
       "excerpt": "EA's new experimental technologies like AI/machine learning will start manifesting in next-gen PlayStation 5, Xbox Series X games.",
@@ -1399,50 +1451,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan.md",
-      "title": "Data Science to Accelerate Drug Discovery with Artificial Intelligence and Machine Learning, Says Frost & Sullivan",
-      "excerpt": "When combined with other emerging tech areas, artificial intelligence (AI) technologies move to the next phase of advancements. Hence, they are expected to witness adoption by pharma and biotech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "Machine Learning"
       ]

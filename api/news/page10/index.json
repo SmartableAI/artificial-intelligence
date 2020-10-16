@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-07-getting-inside-the-head-of-a-machine-learning-scientist.md",
+      "title": "Getting inside the head of a machine learning scientist",
+      "excerpt": "More recently a variety of AutoML tools have launched, promising end-to-end capabilities, where data is input, parameters are adjusted, and a fully-trained, deployable ML model is generated.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/06/getting-inside-the-head-of-a-machine-learning-scientist/",
+      "originalUrl": "https://venturebeat.com/2020/10/06/getting-inside-the-head-of-a-machine-learning-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1256603051.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/06/getting-inside-the-head-of-a-machine-learning-scientist/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/getting-inside-the-head-of-a-machine-learning-scientist/amp/",
+      "publishedDateTime": "2020-10-06T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-amax-announces-stormax-200gbs-storage-systems-for-deploying-integrated-ai-computing-at-scale.md",
       "title": "AMAX Announces StorMax® 200Gb/s Storage Systems for Deploying Integrated AI Computing at Scale",
       "excerpt": "AMAX's HPC and AI Solutions Group announced the launch of its updated ultra-high-performance storage solution series, StorMax®, all-flash",
@@ -1144,57 +1196,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-helsinki-rides-the-slush-wave-toward-a-booming-startup-future.md",
-      "title": "Helsinki rides the Slush wave toward a booming startup future",
-      "excerpt": "Helsinki’s City Council approved plans for an expansion of the existing “Maria 01 Campus,” a former downtown hospital complex. Even before it starts spreading its acreage, the facility is already home to 120 startups and 12 venture capital funds.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/",
-      "originalUrl": "https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-841887872.jpg?w=1000",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/amp/",
-      "publishedDateTime": "2020-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

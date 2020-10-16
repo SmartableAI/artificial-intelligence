@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-12-how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education.md",
+      "title": "How CogAbility and the University of Florida are using Watson to build the future of education",
+      "excerpt": "As they do every fall, 55,000 students descended on the University of Florida this year. But with mask and physical distancing guidelines, alterations to policies on campus gatherings, and new behavioral expectations, operating and attending a university during a pandemic is anything but business as",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/Watson_UF_ChatBot_Blog_Leadspace_Final_1-2-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T12:28:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-when-ai-hurts-people-who-is-held-responsible.md",
       "title": "When AI hurts people, who is held responsible?",
       "excerpt": "How to determine whether a human was at fault when AI plays a role in a person’s injury or death is no easy task. If AI is in control and something goes wrong, when is it the human’s fault and ...",
@@ -1176,58 +1227,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-amazons-latest-gimmicks-are-pushing-the-limits-of-privacy.md",
-      "title": "Amazon's Latest Gimmicks Are Pushing the Limits of Privacy",
-      "excerpt": "The company had to impose a yearlong ban on law enforcement using its facial recognition platform Rekognition after criticism and protests about the service's accuracy and reliability. \"Amazon's entire business model is based on surveillance,\" Greer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazon-drone-camera-go-palm-data-privacy/",
-      "originalUrl": "https://www.wired.com/story/amazon-drone-camera-go-palm-data-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f80f4ed340398e14d15b3dd/master/pass/Sec-Amazon_ringdrone.jpg",
-          "width": 2400,
-          "height": 1599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/amazon-drone-camera-go-palm-data-privacy/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-drone-camera-go-palm-data-privacy/amp",
-      "publishedDateTime": "2020-10-11T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

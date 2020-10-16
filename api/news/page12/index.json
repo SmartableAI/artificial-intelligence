@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-05-the-importance-of-human-machine-ai-team-building.md",
+      "title": "The Importance Of Human-Machine AI Team-Building",
+      "excerpt": "In the future, teams of human domain experts and their AI-bot sidekicks could make sure critical assets in the fuel retail industry are safe, always available, performing at their optimal state and protected from cybersecurity threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda4c699cb83e0006e372f4%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/amp/",
+      "publishedDateTime": "2020-10-05T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-artificial-intelligence-ai-chips-market-will-showcase-positive-impact-during-2020-2024-increasing-adoption-of-ai-chips-in-data-centers-to.md",
       "title": "Artificial Intelligence (AI) Chips Market Will Showcase Positive Impact During 2020-2024 | Increasing Adoption of AI Chips in Data Centers to Boost the Market Growth | Technavio",
       "excerpt": "Technavio has been monitoring the artificial intelligence (AI) chips market and it is poised to grow by USD 54.03 bn during 2020-2024, progressing at a CAGR of over 42% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,",
@@ -1132,58 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.md",
-      "title": "The HP Spectre x360 14 gets a lush OLED display and a lot more AI smarts",
-      "excerpt": "The new HP Spectre x360 14 features OLED, while the Spectre x360 13 and Envy x360 upgrade to 11th-gen Tiger Lake processors",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
-      "originalUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/10/hp-spectre-x360-14-front-facing_natural-silver-100860561-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
-      "publishedDateTime": "2020-10-02T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

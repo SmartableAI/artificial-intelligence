@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-29-startup-docai-inks-deal-with-health-insurer-anthem-names-female-cofounder-ceo.md",
+      "title": "Startup Doc.ai Inks Deal With Health Insurer Anthem, Names Female Cofounder CEO",
+      "excerpt": "The deal is worth $100 million over five years, according to CEO Sam De Brouwer, who is focused on scaling up doc.ai’s enterprise offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/09/29/startup-docai-inks-deal-with-health-insurer-anthem-names-female-cofounder-ceo/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/09/29/startup-docai-inks-deal-with-health-insurer-anthem-names-female-cofounder-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x478/https://specials-images.forbesimg.com/imageserve/5f724b92d4abb5d5d5d4acf5/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/09/29/startup-docai-inks-deal-with-health-insurer-anthem-names-female-cofounder-ceo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/09/29/startup-docai-inks-deal-with-health-insurer-anthem-names-female-cofounder-ceo/amp/",
+      "publishedDateTime": "2020-09-29T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-another-strange-shift-for-the-ai-chip-startup-segment.md",
       "title": "Another Strange Shift for the AI Chip Startup Segment",
       "excerpt": "Few of the AI hardware startups that have made it through the first round of reality (roughly 2016 until the present) have managed to navigate the choppy",
@@ -1108,49 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-microsoft-now-supports-12-indian-languages-including-assamese.md",
-      "title": "Microsoft now supports 12 Indian languages including Assamese",
-      "excerpt": "Microsoft Translator, a cloud-based free translation and transcription service from Microsoft, has added support for Assamese, the official language of Assam spoken by more than 14 million people in the Northeast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/",
-      "originalUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/09/Microsoft-now-supports-12-Indian-languages-including-Assamese.png",
-          "width": 920,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/amp/",
-      "publishedDateTime": "2020-09-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
+excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by Grove Ventures. Navina has already been integrated into several large,"
 publishedDateTime: 2020-10-13T10:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
-webUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-israel-north-america-medical-technology-middle-east-fc6a7edeeacac53ce91bbf12ebcbdbe2"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-israel-north-america-medical-technology-middle-east-fc6a7edeeacac53ce91bbf12ebcbdbe2"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "MgwI9GhWvcqiiKlsXywHgAxKOFAuho+fZQm8fKDWs8nWr4C0WssY6fl1+w3hgTuSxzDYw3weQfua7VhVh/9osMpPwMWfVk9anfK/FkAvQ93ny4jODfCo1m3x1qUx2gy0UUT696LHmS+oEYSwttIqhN6IqcCuWS2q1dcwTHzrFcTlW9Ei4h0QtfaiqS3qGzmlY8Qfvkvvz/hZHmb5oARmpXB6G9Ijm94wK5jFyJamkDVX6UGHId3FfFbwPsAB2gtSblHs5Hvhj5FASkI8GyTUfvhPMoEfJ5lntGUrE1SjcG/3jFKyPNrP9+5eUEoWLjcbXl1PkOygdz0SttrN3Iv27/KIOnXiJyuClndma36ATm0=;u8vHuCybThzoE9XTiddHpg=="
+secured: "eDhaApqtCa308HRW24rlYBJ/YwRviWot+1hE9/QEi729iKOOD5i6UCRXVeEejfCT65IIq6eAdLj4Yu5w6l3Sy70PoC59k9jfmzTK0wc79HD52A27TNeLsTv3w15aQPYSCabJocb1RVSdNMkgvXV3L6UtdGwv/+uxf4SMUGMcrSKjd/Yd9Jelk8HRmdxkiB0/3GaxomVUJ6DBP1AvdFmBvi6NIxQ7BF6WAgsW4U+LYOaw0QRQ1DAMLmUQcieF0jDOibYU42KIEG1sp6kd7JEDhtdKqZvn3BnySmawC7G97JCD6+a1iFJBYEyAMZCotuwLlGKhykrDC/rY8OAKgERKRmnFavS8RrCm4xUF8zC4EtE=;TEtjnYTO6Gq2RCmcPpAAQQ=="
 ---
 

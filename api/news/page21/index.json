@@ -2,6 +2,59 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-09-25-active-learning-workflow-for-amazon-comprehend-custom-classification-models-part-1.md",
+      "title": "Active learning workflow for Amazon Comprehend custom classification models – Part 1",
+      "excerpt": "Amazon Comprehend&nbsp;&nbsp;Custom Classification API enables you to easily build custom text classification models using your business-specific labels without learning ML. For example, your customer support organization can use Custom Classification to automatically categorize inbound requests by problem",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-models-part-1/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-models-part-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/23/FEEDBACKLOOPS-HUMANCLASSIFICATION15-877x630.png",
+          "width": 877,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T15:27:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-4-things-to-remember-when-adapting-aiml-learning-models-during-a-pandemic.md",
       "title": "4 things to remember when adapting AI/ML learning models during a pandemic",
       "excerpt": "The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.",
@@ -1127,49 +1180,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-transforming-advertisement-and-graphic-design-through-ai.md",
-      "title": "Transforming advertisement and graphic design through AI",
-      "excerpt": "From Gmail’s smart compose, which recommends what to type next, to Facebook recommending who to tag by ... It is in fact, one of the most recent trends in AI. Recent global research found that nearly 73% of the customers expect a personalized experience ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginewatch.com/2020/09/08/transforming-advertisement-and-graphic-design-through-ai/",
-      "originalUrl": "https://www.searchenginewatch.com/2020/09/08/transforming-advertisement-and-graphic-design-through-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginewatch.com/wp-content/uploads/2020/09/Transforming-advertisement-and-graphic-design-through-AI.png",
-          "width": 728,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginewatch.com/2020/09/08/transforming-advertisement-and-graphic-design-through-ai/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/09/08/transforming-advertisement-and-graphic-design-through-ai/amp/",
-      "publishedDateTime": "2020-09-24T22:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Watch",
-        "domain": "searchenginewatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

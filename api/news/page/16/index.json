@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-09-30-neuromaker-stem-announces-partnership-with-vinci-robotics-academy.md",
+      "title": "NeuroMaker STEM Announces Partnership with Vinci Robotics Academy",
+      "excerpt": "NeuroMaker, the STEM education arm of Somerville based company BrainCo announces their partnership with Vinci Robotics Academy, a 501(c)(3) non-profit organization that operates STEAM educational programs in the greater Boston area.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
+      "publishedDateTime": "2020-09-30T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft-technology.md",
       "title": "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology",
       "excerpt": "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients.",
@@ -1149,58 +1192,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-nvidia-and-vmware-partner-to-bring-ai-into-the-mainstream.md",
-      "title": "NVIDIA and VMWare Partner to Bring AI Into the Mainstream",
-      "excerpt": "Follow @dannyvena At its annual VMworld cloud computing conference, VMware (NYSE:VMW) today announced a partnership with NVIDIA (NASDAQ:NVDA) that has an ambitious goal: to make artificial intelligence (AI) available to every enterprise,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593354%2Fnvidia-dgx-systems-the-worlds-first-portfolio-of-purpose-built-ai-supercomputers.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
-      "publishedDateTime": "2020-09-29T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
