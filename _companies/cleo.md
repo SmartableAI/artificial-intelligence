@@ -5,7 +5,7 @@ otherNames:
   - "Cleo AI Ltd."
 overview: "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla."
 type: "profile"
-heat: 83
+heat: 64
 
 website: https://www.meetcleo.com/
 
@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "meet_cleo"
   url: "https://twitter.com/meet_cleo"
-  followers: 13053
+  followers: 13055
 
 size: 11-50 employees
 yearFounded: 2016
@@ -47,6 +47,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "48Ts3j7rz8adDjdPOVCvERZUguGTUJMACB9v5I4XBe616qN/9H1NXslsD7RcOtkQ1Oc5Dx8bYFMKxqchsHqPNbs2vrM/rCKKToEvpg2LdHvrLKsvG4xDUQ/AXKCGpuahFlhF/S4sc7ZO+rjyciKFwogYz160nR8y3ftuqTHynKTvh8K45X+goNTC3ddTnGqOXoiE2fr/qjpsiPdeR8nwh6R5ccONiQx40IQ/S6KvFfj1qV1LjsSTcTGKmt5qJG/5jLJYzjU7QxozdHe8njtK/Si2gRdmupXkJU4Ku08eaa7IWkvkuG3LxTWgq7PE815XyVifsigb7yhgyjORTsVGGhPTcMKTzQXud/miR3npzBWjcJsrrJeTRU1I31mgON5qq0Oyrp4wCOGXl8fcKdiPlDC3qbr5fQGnaBZ9FwZAe/U=;/w3OBV57HCcPk5mklmAxDQ=="
+secured: "2V5uNQ+j78dhwoopzjT5ohwqmumzPk92noSW8CweJ0Ojcfe1uIjGbdHjX1bjkf0wpeBOzx1kKcuAo/OxD0lAsftQwvHTJrIn5r9sFmjF65KoQmDuYZt6AQX/mEic/TIjWTKNCWNuhTs/+L+pT0STrm0Rypb2sHNwbGWnaS6qzQiZrcNoD/+4hQdXSj4hZTZWmSDp8gTyc2c86i6FaOPhZcElcvuqSfshQeamUUQ5tXSsuJR7zF/Jckxkhwlhb+zy/BtVMu94XtRIRsV7Yn10qtOA42WHahn9pnUw1GY1hcu4YJPtaNPDnz1d1EuoxezZVfLEXQrRnf7nzNN+BXk3CZ2qrAGenMr8mhb2UjR0O/7qIg6t+U2Urad6DyQ5HhZqtk1ypJHSdXsR3mwR7y/bpSFgON6gI1aWdSpp93wxjJs=;pdOouyOGfkbqH+la7Pms8w=="
 ---
 

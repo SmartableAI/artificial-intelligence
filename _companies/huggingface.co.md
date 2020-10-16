@@ -2,7 +2,7 @@
 name: "Hugging Face"
 overview: "We are leading conversational artificial intelligence with more than 200 million messages exchanged with users."
 type: "profile"
-heat: 198
+heat: 185
 
 website: https://huggingface.co/
 
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=e9dLt_TUXAc"
 
-secured: "DrNrb6hqQ+zuspTbKGN3KmX+jg3BNKnkFH2O6Jyb6e62LTwCYJlmLVfYW30dihNIwWnBzZNhBaY6Y3HT/lbJnttBNrKMA4v2FAOtRsmsXbDWmbQx1PPXPQ5v9Fm9ezYz2yZPOzvthjGrknlBp3eVJbcVEmSv1NM0BlFGKdvg3VXyOXU0ypmsA7fU6kzwLVrh+MG9ChafJGgVpeiwW9CikGJXIIZVPRnWEn8z11iHUEu6bWRLcPuC8y5xyYhkzuCdlM8NnYtJ9A0lVY1vDBmYYmt0cxnGwqu/8VjOEPi5MzxixblazTDDlERUs2QXjLmQGsBzlNvswvOMXWzLCmPZK4z6x0cKHIPF2GMoUetpqOOlLv1U70182/jNa/unx2i3UK4Bv5x5ibZiud2DWZLAYQylrHBXMDHjWKAy0s9RvXU=;W/sxWV8QDuAjIfPWaPyI8Q=="
+secured: "Ouf/cZ38h5HFscMV+6imEQ26Ehggwh0L/M4GgmoF4kuhocQ9DqJhK/hqz+qx1JFRfeH8U7JUQxiPT3ZdLV+KGqMJl0CDn5c1knhDkldO4Bi6FDXAXpiJh8PIeExQ89x+y+xdrQ3MB0AvnjFUv5Ay6IhAll3iwfQdVfFfpsGtuHt/ZTvDiFwcyvQi8QMnqce2FoBUtXgb4i49eI1L1blBIjOoXHHDVVt3bFEkATzyKVyk4ezkucHaAF1YB7AQklodrs4NQJNhX/rHf9yfVN0KH3biQyIa0JSdYkRHnmfJyVKGSW0lmbmBmiUsh0ZmgQAuUlS0pAgY8XDXg8b3YuMZex2sDDDxmGF7e+k4sSWWnlfKUI1mqfzCeBtqWpdSfcQq2NwZFrGKnrqQR8ZYg78uZ5T6z8/E2OspL5e9e0WCKeY=;TTKhhaNDhmqD3r1eNirTKA=="
 ---
 
