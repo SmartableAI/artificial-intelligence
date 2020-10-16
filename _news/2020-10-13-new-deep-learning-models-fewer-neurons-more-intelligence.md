@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-13T16:26:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/iosa-ndl101320.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-10/iosa-ndl101320.php"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.eurekalert.org/multimedia_prod/pub/web/245741_web.jpg"

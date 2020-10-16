@@ -40,6 +40,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "DOD must pay more attention to building people’s trust in AI, researchers say"
+    excerpt: "“Proper calibration” is critical, Konaev said, and to start to understand how to calibrate, the institution needs to devote more research dollars to the subject. Trust also comes with a technical component. Investing in parts of AI development that ..."
+    publishedDateTime: 2020-10-16T19:25:00Z
+    webUrl: "https://www.fedscoop.com/ai-trust-dod-cset/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 14
 
 secured: "mfFV9DgeN2TtRLpnnDH8eVxwgd9eUVaesocxxBTQDLdwuf6QbS5M3SYiE+0DpbzjKFtRQHri/UqnSf7+7RToxRHoVsFhL7GJsEPt2x13c+XWKkGPXwjswfhCmY/N9IRDWmOKogfiIdXCl+HetTrDJR0uaNVTOTmj5XmkMWGbJ21dWlyum3yWHVzf0TLpj1rUqiVdjWVpZxb4gQrQBXYqzSgBNnKLrP8mw437POdag69O3BaYplZtm4P75owZ6Mn46RZJEM+tpzGdil0PdHVjkpQZXHTVY5ikYZKWvAUGuGHfPXgdyc13FOZUYmLVJJEloV2zgshnukzD3GI2k+3Hwvzur7w3jbJdFQh3qufY7pr/q1mvp/HKyVLo6EmPDWmblmp1L1FIHhtd2xd+VIGy4W/FYVNfRnjjGf4PrVT92h/kvk+GrRdZU1L82m5/q99o87A7LikLP3NXJi6S91RJcxH8CRrLda8WrBiL4kvosRhos0HVbLkaWpX3CcdiBIWEnEMnhYYnwUHWVxrhnOzW+A==;fPlvW3hMCg8Py/39trgzhw=="
 ---

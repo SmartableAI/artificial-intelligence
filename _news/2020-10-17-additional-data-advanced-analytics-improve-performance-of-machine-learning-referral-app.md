@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2020-10-additional-advanced-analytics-ma
 ampWebUrl: "https://medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.amp"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2020/2-additionalda.jpg"
@@ -160,6 +161,6 @@ related:
         height: 400
         isCached: true
 
-secured: "m9Pq1QhXw8JAJF3tOe5PpeG4cKyUZvJUbv2hCJmiVzwn5K2CROnDhmEkbNPoC8jmo8HUNUmGA/+P1syajuaXyTRp6iSqUIF3xQb1c7UBWHksYePCJ5nGQkAY0uLeV/peSIVDDcgD6ZOecXjMC2mrNfKKEdwY6x6V4SN2ZJGck1qhKKOqb6CeszMFmnXldoGrwj0ctqwTwOOm81vC09JYJFIDTXyLsW0lbAtBSpSNQb46u0ZwYF0LidiGRE8vYBbj2PFnJcZTl7Rc4AI62ukIlU7du+HR+6FEuqHl2gOIpi6+4ca09BjLiSxHF6H6TCNbypJFNvhvACSRNXboLCJor7MA3tlREwNpjU3383UCm5I=;vWbUyLKlypJgPIbn64dX3w=="
+secured: "w4gCpxfv3dfIHe6+1LRQzg9uSwtWmvR14VEVY0G+WHkUrN6Rk9ug6Duzh8SF4wSZL9i0sLAkRRFf6uM9jMZXExL+4l5hWlzhBcKELtt4kbVPt5wqbjETfaX7QPiyT2ydI8yirCVmLjp+xK7ylNAJsouEOr65oVohALnme050GkHVIgMiFBN7vGn5ZBshcklmVfonizJKCmyRYqbi9FlB2+PmT4kbjwomBMxWeo+HKN2fcGIbDbMNiVRWpR2dITRDzRE2JaTkRpnuSBxjb7AnyHaQd+7CvZhxSrfmUZ359krMr8H6fWuaIpL/SeeUpdFh+UY98XfWNtRRQu4F2jtNNIidFGkClfcfhRZfojZjMr2H6Cc8ANRbU64eoWCBS5KsmbWUzHBzH6c71bkvfMdjLKC/wKXBf2u9LrQX2a1hNOU2ZUHoVAZDcXgyk4NJ1gpgFT0LrKuhjO8gxkYj6Pqs4C+TpYrsYIyJH/8YtboYuPl46ZdJjvQGXjRWs4ArRt95HWcySMSRQW/A83dTAssVgA==;hrgmbAi0/CinEKR+u/RuTA=="
 ---
 

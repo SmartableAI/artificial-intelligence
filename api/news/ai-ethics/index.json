@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-17-your-ai-may-be-ethical-but-is-it-prudent.md",
+      "title": "Your AI May Be Ethical, But Is It Prudent?",
+      "excerpt": "Legal is onboard. Your AI is morally defensible. But is it a bad idea? With so many unintended consequences to consider, how do you determine whether your AI deserves to exist?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89cf900c8f22bbbae126cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5082%26cropY1%3D127%26cropY2%3D2986",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/amp/",
+      "publishedDateTime": "2020-10-16T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-ai-inevitability-can-we-separate-bias-from-ai-innovation.md",
       "title": "AI inevitability - can we separate bias from AI innovation?",
       "excerpt": "AI evangelists pay lip service to solving AI bias - perhaps through better algorithms or other computational means. But is this viable? Is bias in AI inevitable?",
@@ -31,49 +83,6 @@
       "provider": {
         "name": "Diginomica",
         "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-a-practical-guide-to-building-ethical-ai.md",
-      "title": "A Practical Guide to Building Ethical AI",
-      "excerpt": "In this environment, data and AI ethics are business necessities, not academic curiosities. Companies need a clear plan to deal with the ethical quandaries this new tech is introducing.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai?ab=hero-subleft-1",
-      "originalUrl": "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai?ab=hero-subleft-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_15_1164825388.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai",
-      "publishedDateTime": "2020-10-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
         "images": null,
         "publishers": null,
         "authors": null

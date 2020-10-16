@@ -30,9 +30,9 @@ related:
   - title: "Singapore releases AI ethics, governance reference guide"
     excerpt: "Singapore Computer Society launches reference document to guide businesses in the development of artificial intelligence ethics and governance as well as future training and certification of professionals."
     publishedDateTime: 2020-10-16T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/singapore-releases-ai-ethics-governance-reference-guide/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
     type: article
     provider:
       name: ZDNet

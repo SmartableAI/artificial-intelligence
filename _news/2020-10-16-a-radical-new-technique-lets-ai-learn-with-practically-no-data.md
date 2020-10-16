@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learn
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Practical Guide to Building Ethical AI"
-    excerpt: "In this environment, data and AI ethics are business necessities, not academic curiosities. Companies need a clear plan to deal with the ethical quandaries this new tech is introducing."
-    publishedDateTime: 2020-10-15T00:00:00Z
-    webUrl: "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai?ab=hero-subleft-1"
-    ampWebUrl: "https://hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 74
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/10/Oct20_15_1164825388.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Virtual event to examine ethical leadership with AI and Big Data"
     excerpt: "A global panel will consider how to define ethical leadership and the particular challenges posed by emerging technologies in a virtual event from 1-1:45 p.m. ET on Oct. 28. “Defining Ethical Leadership” is free and open to the public."
     publishedDateTime: 2020-10-14T20:58:00Z

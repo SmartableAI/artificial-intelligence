@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202010/airport-facial-recognition-
 webUrl: "https://www.biometricupdate.com/202010/airport-facial-recognition-could-soon-handle-masks-biometric-boarding-pilot-begins-in-brazil"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,50 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can facial recognition tech boost Asia’s biometric acceptance?"
-    excerpt: "Biometric facial recognition technology is becoming increasingly accepted, including in Southeast Asia where it has shown potential."
-    publishedDateTime: 2020-10-12T02:52:00Z
-    webUrl: "https://techwireasia.com/2020/10/facial-recognition-tech-will-boost-biometric-id-acceptance-in-sea/"
-    ampWebUrl: "https://techwireasia.com/amp/2020/10/facial-recognition-tech-will-boost-biometric-id-acceptance-in-sea/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/10/facial-recognition-tech-will-boost-biometric-id-acceptance-in-sea/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 61
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2020/10/shutterstock_1197460849-450x300.png"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Vein biometrics could answer security challenges of face recognition"
-    excerpt: "Vein recognition is a biometric modality around which activity has picked up substantially, in terms of research but also pilots and new products. Nok Nok Labs VP of Products Rolf Lindeman tells"
-    publishedDateTime: 2020-10-12T17:01:00Z
-    webUrl: "https://www.biometricupdate.com/202010/vein-biometrics-could-answer-security-challenges-of-face-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Biometric vehicle access forecasts climb, facial recognition features in more new car models"
-    excerpt: "The market for biometrics in automobiles continues to see increased supply, with Cadillac, Buick, and China’s Human Horizons launching new models with facial recognition, a new document-signing"
-    publishedDateTime: 2020-10-16T16:13:00Z
-    webUrl: "https://www.biometricupdate.com/202010/biometric-vehicle-access-forecasts-climb-facial-recognition-features-in-more-new-car-models"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/09130331/automotive-biometrics.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Pakistan deploys facial recognition to secure borders, biometric prisoner identification ordered"
     excerpt: "Pakistan Customs will put in place a National Targeting Centre (NTC) using biometrics to identify and profile risky goods and individuals, DAWN reports. Established with support from regional"
     publishedDateTime: 2020-10-15T17:44:00Z
@@ -82,6 +38,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
+        isCached: true
+  - title: "A year later and UK passport biometric face scan system still favors white males"
+    excerpt: "Almost a year to the day after media stories questioned bias in UK biometric face scanning systems, it appears little has changed. A facial recognition photo checker deployed by the UK government"
+    publishedDateTime: 2020-10-12T18:35:00Z
+    webUrl: "https://www.biometricupdate.com/202010/a-year-later-and-uk-passport-biometric-face-scan-system-still-favors-white-males"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/09161913/biometric-passport-large1.jpg"
+        width: 885
+        height: 620
         isCached: true
 
 secured: "Jq39CWRjnmkip4Cig/H/tbdp6+JK+8y8AGUlkVkxm9bfAPZpYLhqEv5UwFqtfi2NJ2GF0G6qsJWyIDffWlWs5nzAl0ps4AH+gUzHBWZcMINXbrSv3zkgzMFwZhIc2A/K8b6FJ4tI/AKp7AolQkWGCMH7K1UEZUYiQDl1s8AIjN18t5m4Q17pFbMzFTqxD0kM1DRn7mOL3TCCZWoyUbhEb22o0AOsY9rYMTQrkJqnIRQ1jTNJ2WhLkiBlOl/ibIFIAoUqkBt7yRnopnjoy628tyja4LrZS2yF/zif5BSktu0KX7hWqWeEIl53kzt5p2b6zhG4S1bn5UDguArkYkGdgE5B4n8I983CxYeXSOfw4VSq2lDl1AHx2Ha0AnGv5YpJ3gv0fgncvmaDo7OM9ctFkQKJMmKRLwe53ILPPL6sKU4ghbONQraexwCbM2QyO2yKW0VbdY0ltPxPrHSeir/9e9j85Wiyd1UVC5dKkDTEHGX5V7aH46MHuYNCiurNBPVn6cFAi3B/mppVIEGyXXzLsw==;j3TgRVU4IZxlcQzaXhK02A=="

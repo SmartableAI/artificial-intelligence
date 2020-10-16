@@ -29,7 +29,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89cf29610ad9f8c1e126cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5425%26cropY1%3D275%26cropY2%3D3327"
         width: 1200
@@ -90,6 +90,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "IBM and ServiceNow helping businesses reduce costs using AI"
+    excerpt: "IBM and ServiceNow have expanded their strategic partnership to help companies use artificial intelligence (AI) to automate their IT operations. The joint solution will employ IBM's hybrid cloud software and professional services and ServiceNow's intelligent workflow capabilities,"
+    publishedDateTime: 2020-10-16T18:44:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357462/ibm-and-servicenow-helping-businesses-reduce-costs"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 69
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1602872906/itpro/ibm_logo.jpg"
+        width: 2700
+        height: 1411
+        isCached: true
   - title: "IBM Watson brings AIOps to ServiceNow"
     excerpt: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk combining Watson AIOps with ServiceNow’s ITSM and ITOM"
     publishedDateTime: 2020-10-15T13:01:00Z
@@ -113,6 +127,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 43
+  - title: "IBM, ServiceNow Partnership: AI for IT Service Management"
+    excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"
+    publishedDateTime: 2020-10-16T18:53:00Z
+    webUrl: "https://www.channele2e.com/business/digital-transformation/ibm-servicenow-partnership-ai-itsm/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 19
 
 secured: "Q1RCclvTauVMvMwQg2Hdi5JAitJKygGsRBJajfwKx2WKWvJZXBm0cm9Ltv8AhL7ydMkQZ20cXugSncGZ/Rm3NUlvP5MFFTACuul3q0osoZM4Sov9yGBZFjzZaa1Z4vrDZRPAx/JpWoOwyAvx0XLE16GpBvjr3V8MHDwY1vnV+zq1Gh4VYBxXCVL6+AFX0aU+GUhI5uEiIG+Pz6sWhufGtAav9z6jqLb/dvtocPObDoWC/N2okHuKpXeZxYAWDwafOT55J1pkNvHYQ4wFgj6AwTmBvmSoaqhsVsPfUkg0FfPTD4mQ/gCCLBFZ4krkBu0zMqJtmj/EiIWCrhl2GGrhw/rE0HO8MCDslAgzNLk5+VY=;BtgNV0ivyBT4pBfF09aBdQ=="
 ---

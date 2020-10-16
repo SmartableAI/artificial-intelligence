@@ -7,7 +7,7 @@ originalUrl: "https://forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-crim
 webUrl: "https://forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence is Causing Cyber Attacks"
+    excerpt: "Advances in artificial intelligence will benefit companies and improve with experience, but AI attackers can manipulate data and cause harm. Ambitious companies must plan to mitigate the potential risk of cyber-attacks now."
+    publishedDateTime: 2020-10-16T17:53:00Z
+    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-causing-cyber-attacks/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/How-Criminals-Use-Artificial-Intelligence-To-Fuel-Cyber-Attacks.jpg"
+        width: 1680
+        height: 840
+        isCached: true
   - title: "3 ways criminals use artificial intelligence in cybersecurity attacks"
     excerpt: "Three cybersecurity experts explained how artificial intelligence and machine learning can be used to evade cybersecurity defenses and make breaches faster and more efficient during a NCSA and Nasdaq cybersecurity"
     publishedDateTime: 2020-10-13T21:41:00Z

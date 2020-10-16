@@ -1,29 +1,27 @@
 ---
 category: news
 title: "The 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference opened at Hangzhou"
-excerpt: "HANGZHOU, CHINA / ACCESSWIRE / October 15, 2020 / On October 16, the 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference opened at Hangzhou International Expo Center."
-publishedDateTime: 2020-10-16T03:25:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-greater-china-asia-hangzhou-china-2d727c3c9de31e4184159672760bec65"
-webUrl: "https://apnews.com/press-release/accesswire/technology-greater-china-asia-hangzhou-china-2d727c3c9de31e4184159672760bec65"
+excerpt: "HANGZHOU, CHINA / ACCESSWIRE / October 15, 2020 / On October 16, the 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference open"
+publishedDateTime: 2020-10-16T05:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/the-2nd-china-hangzhou-international-smart-products-expo-and-2020-global-artificial-intelligence-conference-opened-at-hangzhou-1029686881"
+webUrl: "https://markets.businessinsider.com/news/stocks/the-2nd-china-hangzhou-international-smart-products-expo-and-2020-global-artificial-intelligence-conference-opened-at-hangzhou-1029686881"
 type: article
-quality: 10
-heat: 10
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "IAXMFPmjgHXPhkbBEzpoga/YUTI5Sp/DyRlFnx321+rmVHVwOt0sN7FqlXNo6+khEQuReubduaKP5psC4u7aLBzPucYJIj4jmZhaLIgzESJzz8Ncf5Ic8BTJK/dJLXMIn0LuMZeu54z/gVpsplYoBdfB2REez2lAF28OFrZpwstcOezKNTZcod3LG+my5Egh40t2hcsQHlDI1KPD9pC5x+FgIcOSaOIZgmpclFZoWrO7gqcW8vddyNJR1grSqxFxND7ZEB8PyZm2/pLMciOdtJZCw8rHKClbeeyeHI9WuIk3eiFI2c67hsktYGTM40RelihiYORfy9nJGGtZVHY6dZEKJKxpbz62VPuPpXn5d+E=;bFhOj1nh9M2sPjA0Q+HcFg=="
+secured: "KX9i16sqE7loyVGPaX6Exj+Cms/Hxs8Wbh7Bi2DWy92hCFNRJkMTDimfrAZQRh53r6nfB3cFmJdiYSPPJVdW0NAf4+6WeO8fXqSw4VxVBIGkj9a0q8T4LMs5DpnENSyWXmZ7w7UoG8YEzZhWFzqDXTfw4d3M/4oBVSFsa/hsid+AYZ+wYb+JNd0+gXe4L/xA/A+w2uqcuEKq5Nn/N5Zz3L9fA21ed18eIO+Wfd+lQwokMRbwbt9ypKwLAD+fqZd/MK6SKDqrNqIdbeXKXUJwopPVprER10DKcYU/PMnJRJxCpeB6tihH6heIa/iDw/gcJkOdQjKV40US4CQnlL7RBNA0ZJDawxOq8E8883XMtVl3l6dmghtxt3yaDUg+GgHWfqdNEZtqD/Gz7cscS7h1i8fIjJBBzpH8eYK7Bu2IkCXeK1AqpAjzlRx01Uo77IaCI5l0IM7DLe6XB2y8qNgqmvQIC5pH/Kegx3ZHkIlNPf87zJaoSwUcaEFILpjmYiRcTu8I7QlbS3dXvyyWRfJ2hw==;Ryr24LSrFPNrMgYvKfrpuQ=="
 ---
 

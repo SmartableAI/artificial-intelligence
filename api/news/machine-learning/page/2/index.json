@@ -636,6 +636,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-03-deploying-deep-learning-in-production-gains-multiple-efficiencies.md",
+      "title": "Deploying Deep Learning in Production Gains Multiple Efficiencies",
+      "excerpt": "One of TalkingData’s core services is leveraging machine learning and deep learning models to predict consumer behaviors (e.g., likelihood of a particular group to buy a house or a car ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3584153/deploying-deep-learning-in-production-gains-multiple-efficiencies.html",
+      "originalUrl": "https://www.infoworld.com/article/3584153/deploying-deep-learning-in-production-gains-multiple-efficiencies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/multicoloured-squares-in-mid-air-gathering-to-form-person-picture-id1169743833-100860342-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-run-a-deep-learning-model-in-java-a-quick-take.md",
       "title": "Run a Deep Learning Model in Java: A Quick Take",
       "excerpt": "For instance, NumPy for data analysis; Matplotlib for visualizations; frameworks such as MXNet, PyTorch, TensorFlow, and many more. But there are very few resources for Java users, even though it is the most popular language in enterprise. We set out with ...",
@@ -1401,49 +1453,6 @@
         "AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-researchers-streamline-ptsd-diagnosis-with-machine-learning.md",
-      "title": "Researchers streamline PTSD diagnosis with machine learning",
-      "excerpt": "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan. And as the COVID crisis continues to take its toll on everyone's mental health,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/combatveteran.jpg",
-          "width": 1920,
-          "height": 1368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
-      "publishedDateTime": "2020-09-30T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

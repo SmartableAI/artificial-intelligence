@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-12-ai-eye-accenture-nyse-acn-introduces-new-generation-of-mywizard-intelligent-automation-platform-ibm-nyse-ibm-announces-ai-powered-trade.md",
+      "title": "AI Eye: Accenture (NYSE: $ACN) Introduces New Generation Of myWizard Intelligent Automation Platform, IBM (NYSE: $IBM) Announces AI-Powered Trade Assistant For ESPN Fantasy ...",
+      "excerpt": "Introduces New Generation of myWizard Intelligent Automation Platform, IBM (NYSE: $IBM) Announces #AI-Powered Trade Assistant for #ESPN #FantasyFootball App Mobile AI Market to Reach $12.4 Billion by 2027 Point Roberts WA,",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5496226-ai-eye-accenture-nyse-acn-introduces-new-generation-of-mywizard-intelligent-automation",
+      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5496226-ai-eye-accenture-nyse-acn-introduces-new-generation-of-mywizard-intelligent-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static3.seekingalpha.com/uploads/2020/9/11/776842-1599845765345105.jpg",
+          "width": 387,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-11T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades.md",
       "title": "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. ARMONK, N.Y., Sept. 10, 2020 /PRNewswire via COMTEX/ -- ARMONK, N.Y., Sept. 10, 2020 ...",

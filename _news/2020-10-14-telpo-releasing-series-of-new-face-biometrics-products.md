@@ -39,6 +39,48 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Vein biometrics could answer security challenges of face recognition"
+    excerpt: "Vein recognition is a biometric modality around which activity has picked up substantially, in terms of research but also pilots and new products. Nok Nok Labs VP of Products Rolf Lindeman tells"
+    publishedDateTime: 2020-10-12T17:01:00Z
+    webUrl: "https://www.biometricupdate.com/202010/vein-biometrics-could-answer-security-challenges-of-face-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Biometric vehicle access forecasts climb, facial recognition features in more new car models"
+    excerpt: "The market for biometrics in automobiles continues to see increased supply, with Cadillac, Buick, and China’s Human Horizons launching new models with facial recognition, a new document-signing"
+    publishedDateTime: 2020-10-16T16:13:00Z
+    webUrl: "https://www.biometricupdate.com/202010/biometric-vehicle-access-forecasts-climb-facial-recognition-features-in-more-new-car-models"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/09130331/automotive-biometrics.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Invixium upgrades face biometrics on IXM TITAN to work with masks"
+    excerpt: "Multipurpose biometric device, IXM TITAN, has been upgraded by Invixium with two new options that make it possible for a person’s face to be accurately identified while having a mask on. The"
+    publishedDateTime: 2020-10-16T19:11:00Z
+    webUrl: "https://www.biometricupdate.com/202010/invixium-upgrades-face-biometrics-on-ixm-titan-to-work-with-masks"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "eOd2qu4mzn1VAo1H7mJVJWCtFZiYJ0PtdWAU7EZbOS8qYoEeh+YRXJNXPVVHDArHeqJ6AQ+wUVXoaeDEtQKibN+xyORfq0bWRPPZmn6LIeTCiS/Cvy8kdgsEQ6hFvKl8P9VwmrfcFU5/NVTOr0xbyM5vTru58/Z2HvLVd5Ozf55x89ZTBa7n7eCprKmp/xnxLzFTI6zyul1FoeeVUOmqk8ZOus0ETI+PrS9V0zbiAwTrvkXdZvIXXdysyjpLgQerWlsKlqIz07VXE0rSr2bfig9q43PLM9DnGrb/eR3D4aD3qIFPaZ1MvIK0XJAHdW4TQwUS/7JI+ZtFnFDJGEh7nDyjQWKpgimZRQ2HpUOVAgY=;H0CYkrukQnjGNv1PeK/e4w=="
 ---

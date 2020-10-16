@@ -39,7 +39,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89cf29610ad9f8c1e126cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5425%26cropY1%3D275%26cropY2%3D3327"
         width: 1200
@@ -86,6 +86,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "IBM and ServiceNow helping businesses reduce costs using AI"
+    excerpt: "IBM and ServiceNow have expanded their strategic partnership to help companies use artificial intelligence (AI) to automate their IT operations. The joint solution will employ IBM's hybrid cloud software and professional services and ServiceNow's intelligent workflow capabilities,"
+    publishedDateTime: 2020-10-16T18:44:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357462/ibm-and-servicenow-helping-businesses-reduce-costs"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 69
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1602872906/itpro/ibm_logo.jpg"
+        width: 2700
+        height: 1411
+        isCached: true
   - title: "IBM Watson brings AIOps to ServiceNow"
     excerpt: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk combining Watson AIOps with ServiceNow’s ITSM and ITOM"
     publishedDateTime: 2020-10-15T13:01:00Z
@@ -117,6 +131,15 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
+    quality: 19
+  - title: "IBM, ServiceNow Partnership: AI for IT Service Management"
+    excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"
+    publishedDateTime: 2020-10-16T18:53:00Z
+    webUrl: "https://www.channele2e.com/business/digital-transformation/ibm-servicenow-partnership-ai-itsm/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
     quality: 19
 
 secured: "lPLZwu26DdyCv1glbKKdWbI8702xsIiUVQoVkeq0ljXGaiE8k9POdk58GhbUU8ll34wPEX6sc0kK6GnA0ZzMQ3pPQf1qX4ixhjl9+aDTtJVSIyouoMER1v+tUzPTFxx3H4gQm+6pN1YfY5U0pQmMOcqMRRQmC46ix5JQyzaYqOiZGvLv4JUugMtDutSHkGI/ywiUbo0jXDndz8HQKBKBOmMwJpgtzvdHz0tTGWb0DrS32uBRDrx784FlBWXdmQifiWD8Z+7ItGi76bsTgtoI5FRAp904domLBRW8G/H/UgKYdK1VQ2LWZgTuRjbl2ZSTK6DcZ/AwLGjsK5NhzW2UiZGhzzy2haGbr1kP1gJsFiAcKAg6GeLYwRyjqGYmYjoQvnPzwm9aEgn63MqGW/5EwtXpYZRa8Q2cueH1ewfhtHyPvHDAsnWaoi2WQiEEDIwHqIj8bWXhb0nNyiIwz3qjts+lmt/PSTUSlrea2Z3L+1wu1DvPikYD5hAAe9jSI6NzYPc7mu0GyNjTdwPDsKPMhg==;2q1I0WVySZyicb9T1i3wcQ=="

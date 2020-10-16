@@ -3,8 +3,8 @@ category: news
 title: "Imagination Technologies takes aim at data centers with new chip designs"
 excerpt: "Imagination Technologies on Tuesday released new chip technology that it hopes will help it expand into the market for data center chips."
 publishedDateTime: 2020-10-13T13:00:00Z
-originalUrl: "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2"
-webUrl: "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2"
+originalUrl: "https://www.reuters.com/article/imagination-tech/imagination-technologies-takes-aim-at-data-centers-with-new-chip-designs-idUSL1N2H31H2"
+webUrl: "https://www.reuters.com/article/imagination-tech/imagination-technologies-takes-aim-at-data-centers-with-new-chip-designs-idUSL1N2H31H2"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2H31H2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2H31H2"
 type: article
@@ -24,6 +24,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "jUSIczUujsU4WPKYesUQREDNZe8JqYINrJtemu45omo0NkZG/zTEQ/ErWggDwFVwWm2+/Abbb9Bq85PnRmBxY/bShL7WQf6RW+kTeX8aiR7vUY71DM+CUzzWTZKb72JnsOjFIzZBYeqx72qCdU9rfCfhPQZJxX5r6dYn6sndUJpBgAJHbU/IuI099RYtuxvAWAAfVarDiQMgfl4YBb1l0Vo0QlSuuAzNmG5sgbt8x4edoL6RRG/VXk1jphuIZxg3maMlVsu0riHk47iROfoswitLHwHzWD1HaXdMSMBDTdjCegdCoQ7s2j2o3uOciLDDbxJrA+++UuT/3GrwCAiAQliscfBjklryafrN1U3CaXA=;EKIRAWanErkLfaOCAh/jNw=="
+secured: "Cc4PubWgWxC0a8g1+BD4yIr3nFeqOoe8EyXRizqD1Hz/fK8xuDsP6XrRLbNBJw9WoNaMLw55e44dTou4Fy268B4yc/lsECpP/abVitjfx9eioERlwBVW3sc485d1i7+PLo6GRxLHbHiTSvSQ2FUmO5RAfiE9saUhzzTFZxGXOJQsnQHeqfaV/dr6TdDPrCLF3chyhUnVkxKwcxK0PZTdtsSWl+VeSayhOblf3+7XM8J/fakCW+Lt+hYzNXkQhVpfDCp91Qfh05M0Ns86Xwt31yBVxBTsoKRQ5mK3e/pMxIwHfExzXirZJliSVNNl7Bx6vjLofQqaPog0bSlWxTfE1kxW3ScrzsiNnhjY4TcM7Rc=;bHcTW/ZnHATQo8cMb0XjQA=="
 ---
 
