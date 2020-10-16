@@ -72,6 +72,20 @@ related:
         width: 900
         height: 471
         isCached: true
+  - title: "Automatically detecting personal protective equipment on persons in images using Amazon Rekognition"
+    excerpt: "Workplace safety hazards can exist in many different forms: sharp edges, falling objects, flying sparks, chemicals, noise, and a myriad of other potentially dangerous situations. Safety regulators such as Occupational Safety and Health Administration (OSHA) and European Commission often require that"
+    publishedDateTime: 2020-10-16T21:12:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Person.jpg"
+        width: 900
+        height: 629
+        isCached: true
   - title: "Streamlining data labeling for YOLO object detection in Amazon SageMaker Ground Truth"
     excerpt: "Object detection is a common task in computer vision (CV), and the YOLOv3 model is state-of-the-art in terms of accuracy and speed. In transfer learning, you obtain a model trained on a large but generic dataset and retrain the model on your custom dataset. One of the most time-consuming parts in transfer"
     publishedDateTime: 2020-10-14T19:17:10Z

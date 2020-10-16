@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-14-aws-cohesity-announce-partnership-aimed-at-tackling-data-silos.md",
+      "title": "AWS, Cohesity Announce Partnership Aimed at Tackling Data Silos",
+      "excerpt": "Cohesity has entered a data management partnership with Amazon Web Services aimed at helping companies secure, govern and analyze their ever-increasing amounts of data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
+      "originalUrl": "https://www.wsj.com/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-244275?width=620&size=1.5",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
+      "publishedDateTime": "2020-10-14T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-how-to-do-the-best-recruiting-for-your-startup.md",
       "title": "How to do the best recruiting for your startup",
       "excerpt": "Define the key competencies of the position. Take into account what type of hard skills and soft skills you require your applicant to possess. Analyze how much the company is going to grow and share it with the HR area,",
@@ -1118,58 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia.md",
-      "title": "Drone maker Delair spins out its computer vision platform to create Alteia",
-      "excerpt": "In a recognition of how the drone business has shifted in recent years, Delair announced today that it will spin out its drone-data platform into a separate company called Alteia. The new company ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/",
-      "originalUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/Delair.ai_Tablet-e1602535031922.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/amp/",
-      "publishedDateTime": "2020-10-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

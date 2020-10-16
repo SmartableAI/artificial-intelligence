@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Synopsys and SiMa.ai Collaborate to Bring Machine Learning Inference at Scale to the Embedded Edge"
-excerpt: "PRNewswire/ -- Synopsys, Inc. (Nasdaq: SNPS) today announced its collaboration with SiMa.ai to bring its machine learning inference at scale to the"
-publishedDateTime: 2020-10-14T13:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/synopsys-and-simaai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded-edge-301152178.html"
-webUrl: "https://www.prnewswire.com/news-releases/synopsys-and-simaai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded-edge-301152178.html"
+excerpt: "MOUNTAIN VIEW, Calif., Oct. 14, 2020 /PRNewswire/ -- (Nasdaq: SNPS) today announced its collaboration with SiMa.ai to bring its machine learning inference at scale to the embedded edge."
+publishedDateTime: 2020-10-14T14:01:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/synopsys-and-sima-ai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded/article_b8eebd58-965e-5efc-a754-854673de040f.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/synopsys-and-sima-ai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded/article_b8eebd58-965e-5efc-a754-854673de040f.html"
 type: article
 quality: 42
 heat: 42
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -49,21 +49,7 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
-  - title: "AI Eye Episode 453: Synopsys (NasdaqGS: $SNPS) to Collaborate with SiMa.ai on ML Platform, and KB Home (NYSE: $KBH) Introduces AI Chatbot"
-    excerpt: "The AI Eye - Watching stock news, deal tracker and advancements in artificial intelligence. Stocks discussed: (NasdaqGS"
-    publishedDateTime: 2020-10-14T17:29:00Z
-    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/10141AIEye-SNPS-KBH.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 23
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
-        isCached: true
 
-secured: "0Ek32w3sBvyJ79XZpyWT52mEJTL1kcUcK+ordHks6aGugXfhNQTFq/NyEfGCm9RH/8KwBkL0FAuUHHBfouaXi73ccZWPsej0i2aZa75zfIz9wrUF9w/z4GFRhGMF92IVvPxRv2ZsUDqGEtp+dQQBQNOvuDa9ud6mx5O3+tAknqwfplRbV73klPRY/OPtSQ6RAjdpFHLr0CXJZUkev5kFSz1JnjpdS5Kk8jOiXyzr9DpqaKOm80BdWmPAQDU+gIpACk+Ar45V0fBZXIYXeZfI1Vi8omYnJHwHz8iq3vE6YVT4UwB7JV/Tq4PVdPr0QkNDie73ckx0o7w6nOazaE9m8krAum1uTC2yirqXk99wPOQ=;/mbdpBgnjLQmRNaJJQvMDQ=="
+secured: "E0/6XxKJRouP2wdRAh8ROQrA2z1p/0yoV5zZVEY1HnGgnDmma2YlCHLXL/HNHqHA86uJ4l77Ch6ZS9cXFn3nks/lC8DbnIrOQo9cHS6jW+WOxHOhyjFVcj8nFCRzEqp5R1cmwcX2QryRm4sMOuLc9SVEWv0f2hPEjp+zf1gUuJCc8kJ6xWV5FZ0O7LU4T6u4NXU2BllxfHJ/8zs6FUeNv6oXErxgNYG2oGUCzjg8w1f6AmqJYCdDLPDPCoUFBybxV3K5i4vge7W/D8yCJLrvIpdc5tdyi6RSAbgWmkr3NRlhZOblaxx8cOHj0kwSl7jfEiIX7DBRFCkjillnp67xkfX1H86Uqjl9PlNLmOUJK0Y=;UsqcsivBiV8p2mZmMAb7FA=="
 ---
 

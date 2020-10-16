@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-14-building-a-medical-image-search-platform-on-aws.md",
+      "title": "Building a medical image search platform on AWS",
+      "excerpt": "Improving radiologist efficiency and preventing burnout is a primary goal for healthcare providers. A nationwide study published in Mayo Clinic Proceedings in 2015 showed radiologist burnout percentage at a concerning 61% [1]. In additon, the report concludes that “burnout and satisfaction with work-life",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-medical-image-search-platform-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-medical-image-search-platform-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/17/2-Solution-Architecture.jpg",
+          "width": 900,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T14:39:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-this-high-growth-chip-stock-just-beat-guidance-and-raised-its-dividend.md",
       "title": "This High-Growth Chip Stock Just Beat Guidance and Raised Its Dividend",
       "excerpt": "High-growth semi-cap equipment maker ASML Holdings (NASDAQ:ASML) just had its third-quarter earnings report today, October 14. The company is the sole provider of extreme ultravio",
@@ -240,7 +292,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/14/google-analytics-update-uses-machine-learning-to-surface-more-critical-customer-data/?tpcc=ECTW2020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -343,7 +395,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-hw-summit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -543,7 +595,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1177,58 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-aws-cohesity-announce-partnership-aimed-at-tackling-data-silos.md",
-      "title": "AWS, Cohesity Announce Partnership Aimed at Tackling Data Silos",
-      "excerpt": "Cohesity has entered a data management partnership with Amazon Web Services aimed at helping companies secure, govern and analyze their ever-increasing amounts of data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
-      "originalUrl": "https://www.wsj.com/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-244275?width=620&size=1.5",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600",
-      "publishedDateTime": "2020-10-14T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

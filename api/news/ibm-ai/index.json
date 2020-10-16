@@ -487,6 +487,40 @@
       ]
     },
     {
+      "path": "_news/2020-10-08-ibm-watson-advertising-expands-suite-makes-artificial-intelligence-the-backbone.md",
+      "title": "IBM Watson Advertising Expands Suite, Makes Artificial Intelligence The Backbone",
+      "excerpt": "IBM Watson Advertising is building a suite of solutions using artificial intelligence as the foundation. The suite, based on privacy measures, leverages first-party data to increase ad ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/356608/ibm-watson-advertising-expands-suite-makes-artifi.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/356608/ibm-watson-advertising-expands-suite-makes-artifi.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T13:55:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud.md",
       "title": "Ricoh and IBM to deliver expanded services to customers via hybrid cloud",
       "excerpt": "\"For everything from Watson AI integration to running everyday applications, IBM Cloud does so much for so many businesses around the world. We are in constant conversation with our partners ...",
@@ -1319,50 +1353,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-artificial-intelligence-and-the-future-of-food-industry.md",
-      "title": "Artificial Intelligence and the future of food industry",
-      "excerpt": "It uses Artificial Intelligence (AI) to help you with recipes that you can make with the ingredients you input. It’s an application that teamed with Bon Appetite, a recipe app, and can read up the chemical compositions of hundreds of ingredients and analyse 10,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html",
-      "originalUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/12/w600X390/Foodtech.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.amp",
-      "publishedDateTime": "2020-09-12T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "IBM AI"
       ]
     }
   ],

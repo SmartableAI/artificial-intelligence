@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-16-new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes.md",
+      "title": "New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes",
+      "excerpt": "Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/",
+      "originalUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/schematic.png?w=1024",
+          "width": 1024,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/",
+      "publishedDateTime": "2020-10-15T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-worlds-fastest-ai-supercomputer-is-coming-to-italy.md",
       "title": "World’s fastest AI supercomputer is coming to Italy",
       "excerpt": "Leonardo is one of four new systems backed by a public-private partnership that's trying to build a world-class supercomputer ecosystem in Europe.",
@@ -1180,58 +1232,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-building-a-medical-image-search-platform-on-aws.md",
-      "title": "Building a medical image search platform on AWS",
-      "excerpt": "Improving radiologist efficiency and preventing burnout is a primary goal for healthcare providers. A nationwide study published in Mayo Clinic Proceedings in 2015 showed radiologist burnout percentage at a concerning 61% [1]. In additon, the report concludes that “burnout and satisfaction with work-life",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-medical-image-search-platform-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-medical-image-search-platform-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/17/2-Solution-Architecture.jpg",
-          "width": 900,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T14:39:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

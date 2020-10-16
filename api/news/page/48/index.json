@@ -2,6 +2,136 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-09-08-airbus-is-to-produce-pilotless-planes-but-will-they-take-off.md",
+      "title": "Airbus is to produce pilotless planes, but will they take off?",
+      "excerpt": "Read more November 23, 2017 Would you entrust your life to a driverless car ... for the country well known for its love of artificial intelligence. However, Airbus’ decision to set up base ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
+      "originalUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/www.alphr.com/wp-content/uploads/2017/11/airbus_is_to_produce_pilotless_planes_but_will_they_take_off_-_1-scaled.jpg?fit=569%2C320&ssl=1",
+          "width": 569,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Alphr",
+        "domain": "alphr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
+      "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
+      "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "originalUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/11/tensor_flow_lite_demo_fe.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-meet-the-robot-designed-to-insert-elon-musks-neuralink-ai-brain-chip-heres-how-it-works.md",
+      "title": "Meet the robot designed to insert Elon Musk's Neuralink AI brain chip — here's how it works",
+      "excerpt": "Elon Musk’s neural technology startup Neuralink showed off a demo ... The neural chip will be inserted surgically by a robot, which is designed to plant the chip and wires while avoiding damage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com.au/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
+      "originalUrl": "https://www.businessinsider.com.au/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f529211e6ff30001d4e739e",
+          "width": 2084,
+          "height": 1563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com.au/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9/amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9/amp",
+      "publishedDateTime": "2020-09-07T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider Australia",
+        "domain": "businessinsider.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life.md",
       "title": "4 Robotics ETFs to Buy as AI Tightens Grip Over All Spheres of Life",
       "excerpt": "We are living in an era largely dominated by AI applications and technological advancements. Amid the coronavirus crisis, demand for online services has increased which in turn has led to the dominance of the AI.",
@@ -1046,146 +1176,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-google-cloud-a-platform-for-innovation.md",
-      "title": "Google Cloud: A platform for innovation",
-      "excerpt": "Using AutoML Vision, organisations can automate the training of their own custom machine learning models. Or they can take advantage of the pre-trained machine learning models in our Vision API to assign labels to images and quickly classify them into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/",
-      "originalUrl": "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/02180919/Colored-pipes-in-The-Dalles.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-06T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "themanufacturer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-roborock-s6-maxv-review-the-robot-vacuum-for-pet-owners-update-remote-view.md",
-      "title": "Roborock S6 MaxV review: The robot vacuum for pet owners (Update: Remote view)",
-      "excerpt": "Its on-board AI has been trained in object recognition so the robovac can better avoid things like power cords, shoes, coffee cups and, yes, even pet poop. Automatic floor recognition means you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/roborock-s6-maxv-review-1112547/",
-      "originalUrl": "https://www.androidauthority.com/roborock-s6-maxv-review-1112547/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/Roborock-S6-MaxV-robot-vacuum-cleaner-front-view-top-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/roborock-s6-maxv-review-1112547/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/roborock-s6-maxv-review-1112547/amp/",
-      "publishedDateTime": "2020-09-06T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-tensorflow-robot-recognizes-objects.md",
-      "title": "TensorFlow Robot Recognizes Objects",
-      "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
-      "originalUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/10/robot.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-06T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI"
       ]
     }

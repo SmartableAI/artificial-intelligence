@@ -2,6 +2,163 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-04-why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution.md",
+      "title": "Why Investors Should Focus More On The Infrastructure Supporting The AI Revolution",
+      "excerpt": "AI has been heralded as the catalyst for a new industrial revolution. While the potential for massive impact is very real, venture investors looking to capitalize on growth ought to spend more time considering the enabling infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f78d185a61efd5ea2abacc9%2F0x0.jpg%3FcropX1%3D1438%26cropX2%3D6256%26cropY1%3D1321%26cropY2%3D4128",
+          "width": 1200,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/",
+      "publishedDateTime": "2020-10-04T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-many-top-ai-researchers-get-financial-backing-from-big-tech.md",
+      "title": "Many Top AI Researchers Get Financial Backing From Big Tech",
+      "excerpt": "Abdalla found that more than half of tenure-track AI faculty at four prominent universities who disclose their funding sources have received some sort of backing from Big Tech. Abdalla says he doesn’t believe any of those faculty are acting unethically ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/",
+      "originalUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f73d8fe8f19c83a58c68524/master/pass/Big-Tech-Influence.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp",
+      "publishedDateTime": "2020-10-04T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-machine-learning-tool-searches-the-lungs-for-signs-of-heart-failure.md",
+      "title": "Machine learning tool searches the lungs for signs of heart failure",
+      "excerpt": "One of the ways physicians can gain some forewarning of impending heart failure is through the detection of excess fluid in the lungs, and MIT researchers have developed a new machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/",
+      "originalUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/0a90af4/2147483647/strip/true/crop/784x523+0+39/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbe%2F14%2F618ef1134cf088b71d33c386abe0%2Fpulmedema.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/machine-learning-lungs-signs-heart-failure/?amp=true",
+      "publishedDateTime": "2020-10-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-7-types-of-ai-marketing-tools-that-drive-leads.md",
       "title": "7 Types of AI Marketing Tools That Drive Leads",
       "excerpt": "People in all kinds of industries are debating artificial intelligence (AI) pros and cons. AI pros and cons are",
@@ -1022,144 +1179,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-make-every-voice-heard-with-natural-language-processing.md",
-      "title": "Make every voice heard with natural language processing",
-      "excerpt": "With natural language processing a machine can quickly and tirelessly sift through constantly growing volumes of data to identify key ideas and topics, uncover emerging trends, analyze sentiment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/208955/make-every-voice-heard-with-natural-language-processing",
-      "originalUrl": "https://www.infoworld.com/resources/208955/make-every-voice-heard-with-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-and-digital-workplaces.md",
-      "title": "CEO's of VEEV, WORK, LGIQ, DOCRF Discuss New Growth Opportunities in Cloud-Based Healthcare, Fintech, and Digital Workplaces",
-      "excerpt": "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/g17754942/ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-an",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/g17754942/ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-an",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17754942",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17754942",
-      "publishedDateTime": "2020-10-02T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-three-best-practices-for-how-banks-can-get-the-most-out-of-investments-in-ai-innovations.md",
-      "title": "Three best practices for how banks can get the most out of investments in AI innovations",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since AI in banking is entering the mainstream as financial institutions start incorporating AI solutions into their businesses: A majority of financial services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10",
-      "originalUrl": "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5e62c54afee23d19745f9109?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

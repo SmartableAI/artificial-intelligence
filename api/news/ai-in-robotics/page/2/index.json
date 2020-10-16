@@ -290,6 +290,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-05-2014-fcat-undergraduate-conference.md",
+      "title": "2014 FCAT Undergraduate Conference",
+      "excerpt": "iRobo explores the idea of an advanced mind-controlled robot that allows the user to live in an idealized form. Its purpose is to help the disabled experience a richer life and be a part of the community again. Hsieh, a presenter at the FCAT Undergraduate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfu.ca/fcat/events/ugc/ugc-2014.html",
+      "originalUrl": "https://www.sfu.ca/fcat/events/ugc/ugc-2014.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sfu.ca/content/sfu/fcat/events/ugc/ugc-2014/_jcr_content/main_content/textimage_1/image.img.original.low.jpg/1534354700435.jpg",
+          "width": 348,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-04T14:45:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Simon Fraser University",
+        "domain": "www.sfu.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-bolstering-robotics-enterprise-potential-using-ai-applications.md",
       "title": "Bolstering Robotics Enterprise Potential using AI Applications",
       "excerpt": "Robots perform tasks like recognizing and grasping objects, automating its navigation and understanding human language with the unveiling of Artificial Intelligence (AI) applications in its system.",
@@ -1386,50 +1429,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-transforming-enterprises-through-robot-processing-automation.md",
-      "title": "Transforming Enterprises Through Robot Processing Automation",
-      "excerpt": "Robot Processing Automation (RPA) is the process of automating tasks which are repetitive and are performed by humans using software and hardware in a variety of applications. Unlike cognitive intelligence or deep learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/",
-      "originalUrl": "https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/09/RPA.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

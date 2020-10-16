@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-12-robotic-interviews-machine-learning-and-the-future-of-workforce-recruitment.md",
+      "title": "Robotic Interviews, Machine Learning And the Future Of Workforce Recruitment",
+      "excerpt": "These would affect all aspects of HR functions such as the way HR professionals on-board and hire people, and the way they train them",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/357593",
+      "originalUrl": "https://www.entrepreneur.com/article/357593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602496955-artificial-intelligence-2167835.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357593",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357593",
+      "publishedDateTime": "2020-10-12T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-robotics-startup-miko-raises-inr-23-cr-from-stride-ventures-angel-investors.md",
       "title": "Robotics Startup Miko raises INR 23 Cr From Stride Ventures, Angel Investors",
       "excerpt": "This infusion comes after the startup had raised INR 15.98 Cr from investors such as WNS group CEO and NASSCOM’s chairman Keshav Rurugesh, Inderjit Kaur Arora, Suresh Subramani, Giridhar Sanjeevi and a few others last year.",
@@ -1164,57 +1216,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-modelops-is-just-the-beginning-of-enterprise-ai.md",
-      "title": "ModelOps Is Just The Beginning Of Enterprise AI",
-      "excerpt": "Most of this year, enterprises have been reviewing the lessons learned in the past few years from their Enterprise AI initiatives; i.e. what has worked, what hasn’t, and how to move forward to modernize their infrastructures and take full advantage of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/09/modelops-is-just-the-beginning-of-enterprise-ai/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/09/modelops-is-just-the-beginning-of-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f806558d9b4b5ae48f74c9a%2F0x0.jpg",
-          "width": 1016,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/09/modelops-is-just-the-beginning-of-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/09/modelops-is-just-the-beginning-of-enterprise-ai/amp/",
-      "publishedDateTime": "2020-10-09T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

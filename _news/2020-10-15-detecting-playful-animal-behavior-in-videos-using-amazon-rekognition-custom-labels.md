@@ -58,6 +58,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Automatically detecting personal protective equipment on persons in images using Amazon Rekognition"
+    excerpt: "Workplace safety hazards can exist in many different forms: sharp edges, falling objects, flying sparks, chemicals, noise, and a myriad of other potentially dangerous situations. Safety regulators such as Occupational Safety and Health Administration (OSHA) and European Commission often require that"
+    publishedDateTime: 2020-10-16T21:12:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Person.jpg"
+        width: 900
+        height: 629
+        isCached: true
   - title: "Using speaker diarization for streaming transcription with Amazon Transcribe and Amazon Transcribe Medical"
     excerpt: "Conversational audio data that requires transcription, such as phone calls, doctor visits, and online meetings, often has multiple speakers. In these use cases, it’s important to accurately label the speaker and associate them to the audio content delivered. For example, you can distinguish between a"
     publishedDateTime: 2020-10-13T22:37:22Z

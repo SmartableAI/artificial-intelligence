@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-08-instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments.md",
+      "title": "Instagram Uses Artificial Intelligence (AI) to Hide Abusive Comments",
+      "excerpt": "As Instagram turns 10, it has decided to roll out many new features including the use of AI to block abusive comments on the social media platform. Instagram said that it'll detect the comments",
+      "sourceUrl": null,
+      "webUrl": "https://english.madhyamam.com/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
+      "originalUrl": "https://english.madhyamam.com/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.madhyamam.com/h-upload/2020/10/08/713407-instagram.jpg",
+          "width": 1311,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.madhyamam.com/amp/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
+      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
+      "publishedDateTime": "2020-10-08T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madhyamam",
+        "domain": "madhyamam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m.md",
       "title": "Headroom, which uses AI to supercharge videoconferencing, raises $5M",
       "excerpt": "Videoconferencing has become a cornerstone of how many of us work these days — so much so that one leading service, Zoom, has graduated into verb status because of how much it’s getting used. But does that mean videoconferencing works as well as it should?",
@@ -1137,59 +1179,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection.md",
-      "title": "Making cycling safer with AWS DeepLens and Amazon SageMaker object detection",
-      "excerpt": "According to the 2018 National Highway Traffic Safety Administration (NHTSA) Traffic Safety Facts, in 2018, there were 857 fatal bicycle and motor vehicle crashes and an additional estimated 47,000 cycling injuries in the US . While motorists often accuse cyclists of being the cause of bike-car accidents,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/29/9-Architecture.jpg",
-          "width": 900,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T12:39:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

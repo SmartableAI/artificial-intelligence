@@ -21,7 +21,7 @@ topics:
 related:
   - title: "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
     excerpt: "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering ..."
-    publishedDateTime: 2020-10-14T16:38:00Z
+    publishedDateTime: 2020-10-14T08:16:42Z
     webUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
     type: article
     provider:
@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "H2O.ai and KNIME: KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
+    excerpt: "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle from data access to optimization and deployment. With this ..."
+    publishedDateTime: 2020-10-14T15:28:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/50957284-h2o-ai-and-knime-knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 8
 
 secured: "RN985rq+vD+dwTLH1TeQBJZxU+IxeZRGiaDWuUfxaBCj/LXAz31Ogcgha/gl8d8rtRC6IZckeysSwy0IpeoPKdHUgCZahMBxlu/Hpw5MBW+oa8uOPli62o4YLcTs6dsemSlKfXCF+qmGsRKcrj7U2yOkJeawt33SuJoLsFXqg98Qx/Y30V/iixlSKoL8NcR3a/sn4WS6fH+iaqM+IZpclO4ENRKmjlZhaCnsxPZB7f6SBOwRU+nRqKehq2zRq51Q1hPu+WJP1ORDE88xyO8r1vGgW7y03VOL0e7rzLlQpz7R1WlDBu9jhhnW309nfgpnWL5Bk6jvFDTskcaxEYs/JugeI7t2AnAQ9Vpxbx6fZpc=;YOohIB/6FTmbib4OZEJCRA=="
 ---

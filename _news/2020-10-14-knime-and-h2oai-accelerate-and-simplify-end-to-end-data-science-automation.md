@@ -2,7 +2,7 @@
 category: news
 title: "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
 excerpt: "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering ..."
-publishedDateTime: 2020-10-14T16:38:00Z
+publishedDateTime: 2020-10-14T08:16:42Z
 originalUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
 webUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
 type: article
@@ -34,7 +34,16 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
+  - title: "H2O.ai and KNIME: KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
+    excerpt: "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle from data access to optimization and deployment. With this ..."
+    publishedDateTime: 2020-10-14T15:28:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/50957284-h2o-ai-and-knime-knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 8
 
-secured: "711UHUYPC/8yDh8EXsixSEoN8krPnmbUg4WCH/cx71Ah6gL7KBnQPeUog0OBt+wTXNJjGCW/uP+x088leKvKqMQSKSKuG0TNoFpG8/hbgthBUSBbYHu6CNv52Rslp0g9P6Tbzy0LTL/OTPUmvcn+ikjsCRm1RzkDDWlkMs7AD4L1C8z0EX6g8ZNsu1AXTuKO0NP/X36+l2gsZ0mz88C1THAVpmbfj/nw6m4AJSWN5aFwS5JB3oxFl5yiZuZqRwVClLpZFehk2O0An/f83eRez+Z8LlHv1mvf0iinCOG+bLVrWjoQ9clJxMfp7kAD/EIEit9xctazHuDVvowFWUQ6nCIV0NfkOTvJEHxCqBUYGd8=;2ZRHA2/riBA30/eKgNT7kA=="
+secured: "iw0Ut1mzOf5yZluEa9Cxp0DTFpgSpOufNgnfFJxPjs4nq9uYOWkYfNnzNXlYO/8cpQUUU7I6D12FzD5dabvhB1JbKXjmbyGWnALSPMAzz2gt5S2O7EerGp5cFTEhuEx8xDQBCZl9WpFdyoHgpIokS+bhCaE+acfOS/TbQpP26IwxPuC2YStFCp99K//F2sSaAHo2ZBDx6NV32AqQ6yL+UH7qaF0E5EI78wYaF5C393Yu4F7fiCIuayZjvXCq6AgxqZ4VQHrHNUqaVTbJ01Yertf5ltYBabl0pawY5jE+3be9kgdGf2w56rgzupEAp0vfLqKt7tpxGWJKkwXDevhzdvyi+/yXRHzpTgE0u4Ak+HQ=;M/dcE1gmEQLeKtQVNVnn6g=="
 ---
 

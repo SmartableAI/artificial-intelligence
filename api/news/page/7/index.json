@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-09-modelops-is-just-the-beginning-of-enterprise-ai.md",
+      "title": "ModelOps Is Just The Beginning Of Enterprise AI",
+      "excerpt": "Most of this year, enterprises have been reviewing the lessons learned in the past few years from their Enterprise AI initiatives; i.e. what has worked, what hasn’t, and how to move forward to modernize their infrastructures and take full advantage of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/09/modelops-is-just-the-beginning-of-enterprise-ai/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/09/modelops-is-just-the-beginning-of-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f806558d9b4b5ae48f74c9a%2F0x0.jpg",
+          "width": 1016,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/09/modelops-is-just-the-beginning-of-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/09/modelops-is-just-the-beginning-of-enterprise-ai/amp/",
+      "publishedDateTime": "2020-10-09T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-you-only-have-one-voice-dont-let-hackers-steal-it.md",
       "title": "You Only Have One Voice — Don't Let Hackers Steal It",
       "excerpt": "While this democratization of synthetic voice presents interesting opportunities for startups, hobbyists and creatives, the reality is that bad actors have already dipped their toes into employing spoofed voices for audio-based fraud.",
@@ -1136,48 +1187,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments.md",
-      "title": "Instagram Uses Artificial Intelligence (AI) to Hide Abusive Comments",
-      "excerpt": "As Instagram turns 10, it has decided to roll out many new features including the use of AI to block abusive comments on the social media platform. Instagram said that it'll detect the comments",
-      "sourceUrl": null,
-      "webUrl": "https://english.madhyamam.com/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
-      "originalUrl": "https://english.madhyamam.com/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.madhyamam.com/h-upload/2020/10/08/713407-instagram.jpg",
-          "width": 1311,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.madhyamam.com/amp/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
-      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
-      "publishedDateTime": "2020-10-08T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madhyamam",
-        "domain": "madhyamam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

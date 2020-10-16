@@ -2,6 +2,162 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-01-automating-data-collection-for-ai-at-morningstar.md",
+      "title": "Automating Data Collection For AI At Morningstar",
+      "excerpt": "We’re also skilling our Analysts on data exploration, data munging and AutoML to help them directly automate their workflows. This will help us scale our process over time where we can collect ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/01/automating-data-collection-for-ai-at-morningstar/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/01/automating-data-collection-for-ai-at-morningstar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75e6af8c6a419ba348ab4d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D482%26cropY1%3D82%26cropY2%3D353",
+          "width": 482,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/01/automating-data-collection-for-ai-at-morningstar/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/01/automating-data-collection-for-ai-at-morningstar/amp/",
+      "publishedDateTime": "2020-10-01T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-will-we-go-back-to-being-robots-after-covid-19.md",
+      "title": "Will We Go Back To Being Robots After Covid-19?",
+      "excerpt": "When it comes to our professional lives, the best positive impact of the coronavirus is the way it has made business less robotic and more human. Will it stay that way?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-back-to-being-robots-after-covid-19/",
+      "originalUrl": "https://www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-back-to-being-robots-after-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75e0aeba1c081f0b54b325%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-back-to-being-robots-after-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-back-to-being-robots-after-covid-19/amp/",
+      "publishedDateTime": "2020-10-01T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-ford-cfo-tim-stone-to-leave-company.md",
+      "title": "Ford CFO Tim Stone to Leave Company",
+      "excerpt": "Mr. Stone, 53 years old, will join ASAPP Inc., an artificial-intelligence software company ... who most recently has been leading Ford’s driverless-car efforts. Mr. Stone’s departure for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ford-cfo-tim-stone-to-leave-company-11601554355",
+      "originalUrl": "https://www.wsj.com/articles/ford-cfo-tim-stone-to-leave-company-11601554355",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-239160/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ford-cfo-tim-stone-to-leave-company-11601554355",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ford-cfo-tim-stone-to-leave-company-11601554355",
+      "publishedDateTime": "2020-10-01T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-how-the-pandemic-has-reshaped-ai-robotics-and-automation.md",
       "title": "How the pandemic has reshaped AI, robotics, and automation",
       "excerpt": "Tonya Hall talks with Dr. Kate Darling, research specialist at the MIT Media Lab, to learn more about how the future of AI, robotics, and automation was reshaped following the COVID-19 pandemic outbreak.",
@@ -196,7 +352,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1043,155 +1200,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-facial-recognition-contract-extension-reopens-rifts-among-detroit-police-commissioners.md",
-      "title": "Facial recognition contract extension reopens rifts among Detroit police commissioners",
-      "excerpt": "Facial recognition technology, a contentious topic in Detroit that has drawn national headlines, continues to garner attention and spark debate. The Detroit City Council Tuesday voted 6-3 to extend a $220,000 contract with law enforcement technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2020/09/30/facial-recognition-police-commissioners-rifts/5869731002/",
-      "originalUrl": "https://www.freep.com/story/news/local/michigan/detroit/2020/09/30/facial-recognition-police-commissioners-rifts/5869731002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/08/07/PDTF/b0927c9f-c34a-495a-ad67-ef97cdf59b70-school_security__080719_13.JPG?auto=webp&crop=3599,2025,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/5869731002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5869731002",
-      "publishedDateTime": "2020-09-30T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions.md",
-      "title": "Using Amazon Rekognition Custom Labels and Amazon A2I for detecting pizza slices and augmenting predictions",
-      "excerpt": "Customers need machine learning (ML) models to detect objects that are interesting for their business. In most cases doing so is hard as these models needs thousands of labelled images and deep learning expertise. &nbsp;Generating this data can take months to gather, and can require large teams of labelers",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/30/3-Custom-labels.jpg",
-          "width": 900,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T14:30:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning.md",
-      "title": "Will AI cross the proverbial chasm? Algorithmia resolves the practical pitfalls of machine learning",
-      "excerpt": "For example, Amazon has made a lot of progress with text translation technology as a service, he noted. But industry-specific, or vertical market machine learning, is something of a different story. One customer of Algorithmia, a large financial firm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/29/8d457003-6fff-4124-8566-6fa533c43731/kenny-daniel-algorithmia-2020.png",
-          "width": 2053,
-          "height": 1118,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "publishedDateTime": "2020-09-30T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

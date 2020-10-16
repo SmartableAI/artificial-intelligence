@@ -76,6 +76,22 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 58
+  - title: "How AI & Data Analytics Can Solve Supply Chain Pitfalls"
+    excerpt: "The supply chain is an ecosystem that affects businesses around the world, and the COVID-19 pandemic has thrown a"
+    publishedDateTime: 2020-10-16T18:59:00Z
+    webUrl: "https://www.business2community.com/business-innovation/how-ai-data-analytics-can-solve-supply-chain-pitfalls-02354669"
+    ampWebUrl: "https://www.business2community.com/business-innovation/how-ai-data-analytics-can-solve-supply-chain-pitfalls-02354669/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-ai-data-analytics-can-solve-supply-chain-pitfalls-02354669/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2020/10/andy-li-CpsTAUPoScw-unsplash-900x600.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Additional data, advanced analytics improve performance of machine learning referral app"
     excerpt: "Research scientists from Regenstrief Institute and Indiana University have further improved the performance of Uppstroms, a machine learning application that identifies patients who may need referrals to wraparound services,"
     publishedDateTime: 2020-10-16T17:34:00Z
@@ -158,6 +174,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/google-analytics.png"
         width: 718
         height: 400
+        isCached: true
+  - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
+    excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio. The report offers an up-to ..."
+    publishedDateTime: 2020-10-16T19:57:00Z
+    webUrl: "https://www.oaoa.com/news/business/global-artificial-intelligence-in-energy-market-growing-demand-for-data-integration-and-visual-analytics-to/article_0bc78387-2f69-5886-8d61-fcf2f06baad8.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 2
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/8/b9/8b93e6d0-3d8f-58f0-8307-03c482dd7786/5f89f8fc91bc3.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "SFJ8ye0YSHcAksNKwYEoQN3VjOh4tBLUYw90IKpWBLMBEGlIbMPTE19aJCTSyXrbV6EdbUQvMn+9ZI87/xDdFoqY0HbjRfLDXkFIRPkV3XomZe2m0TJh2Rr4I0/+IIlYB5YjC89Bohdu33oRSFojqgK8KAqmqlsSNBqGV/HNeifQsEahTNzitMhrD1XOzaR1EOaIgfXcMfzv4qLHJPCGB899a0GBrHNJDYrI9TfIkFDwL1BrAFPdNFm6K7yAehZ9XcZE7373FOBY9Bi8J/MU49WwJHVn3HQJbMiN+F/eRJ/M3Jdt5bgEtG/AeIvuy0s5qbpQXeREuvNH+J8kydhE88r1diL6cqrEm6x2RQZ0KWgxVRapjKxFTwnxE1H6LlZ4nzZPNu9/4YXCpR5o55Mq1ER5A6X3vtsths+ch6XLt11l6vUQdqMCn6OSrahq8IJai7fa3KxYDO77S2iI1fn9zWGpAvEw2RSGO6Iq/8Gui9ZRrj+8AW3TXgEfx/Y69mH4bTJImbf7ZqhAx1TfuqXQWg==;lSe5p/vjy5NBCUddHBMaGg=="

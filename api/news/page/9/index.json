@@ -2,6 +2,93 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-08-ibm-watson-advertising-expands-suite-makes-artificial-intelligence-the-backbone.md",
+      "title": "IBM Watson Advertising Expands Suite, Makes Artificial Intelligence The Backbone",
+      "excerpt": "IBM Watson Advertising is building a suite of solutions using artificial intelligence as the foundation. The suite, based on privacy measures, leverages first-party data to increase ad ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/356608/ibm-watson-advertising-expands-suite-makes-artifi.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/356608/ibm-watson-advertising-expands-suite-makes-artifi.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T13:55:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection.md",
+      "title": "Making cycling safer with AWS DeepLens and Amazon SageMaker object detection",
+      "excerpt": "According to the 2018 National Highway Traffic Safety Administration (NHTSA) Traffic Safety Facts, in 2018, there were 857 fatal bicycle and motor vehicle crashes and an additional estimated 47,000 cycling injuries in the US . While motorists often accuse cyclists of being the cause of bike-car accidents,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/29/9-Architecture.jpg",
+          "width": 900,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T12:39:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-universal-electronics-inc-to-provide-voice-enabled-remotes-for-liberty-globals-new-environmentally-friendly-set-top-box.md",
       "title": "Universal Electronics Inc. to Provide Voice-Enabled Remotes for Liberty Global’s New Environmentally Friendly Set-Top Box",
       "excerpt": "Universal Electronics Inc. to Provide Voice-Enabled Remotes for Liberty Global’s New Environmentally Friendly Set-Top Box (Photo: Business Wire) The BLE voice-enabled remote control is powered by UEI chip technology,",
@@ -590,25 +677,43 @@
     {
       "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) involves using computers for tasks that normally require intelligent human behavior. AI systems can easily beat human grandmasters in chess, they have started to drive cars,",
+      "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216",
+      "webUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp",
-      "publishedDateTime": "2020-10-07T07:37:00-07:00",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2020-10-07T06:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1085,102 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
-      "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
-      "excerpt": "There is no doubt that artificial intelligence (AI) and machine learning (ML) is becoming a hot topic within the fintech industry. At almost every seminar and conference, we are hearing about the rise of these emerging technologies and the potential they have to disrupt businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
-      "originalUrl": "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
-      "publishedDateTime": "2020-10-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says.md",
-      "title": "Facial Recognition at the Border Is Fueling Other Forms of Surveillance, Report Says",
-      "excerpt": "Facial recognition images taken at border crossings can be repurposed by government agencies and private companies, threatening human rights, the report warns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says",
-      "originalUrl": "https://www.vice.com/en/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f7ccce51afc9200936c4579/lede/1602014744178-gettyimages-925054772.jpeg?crop=1xw:0.818xh;0xw,0.0296xh",
-          "width": 3000,
-          "height": 1685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says",
-      "publishedDateTime": "2020-10-07T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2018/08/GettyImages-552163301-mri.jpg?w=1024"

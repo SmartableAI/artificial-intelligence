@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-17-ai-weekly-us-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests.md",
+      "title": "AI Weekly: U.S. lawmakers decry the chilling effect of federal surveillance at protests",
+      "excerpt": "There’s a thread that runs through police violence against Black people and connects to overpolicing, onerous and problematic tactics like facial recognition, AI-powered predictive policing ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/",
+      "originalUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/protest-surveillance-GettyImages-1279056199.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/amp/",
+      "publishedDateTime": "2020-10-16T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-ai-localization-tool-claims-to-translate-your-words-in-your-voice.md",
       "title": "AI localization tool claims to translate your words in your voice",
       "excerpt": "Localization is a tricky issue for all content creators. It can take significant time and resources to make their work fully accessible to folks who speak different languages. One company thinks it has cracked part of that code with an artificial intelligence system that automatically translates speech into other languages in the same speaker’s voice.",
@@ -846,7 +897,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1181,58 +1232,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes.md",
-      "title": "New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes",
-      "excerpt": "Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/",
-      "originalUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/schematic.png?w=1024",
-          "width": 1024,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/",
-      "publishedDateTime": "2020-10-15T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

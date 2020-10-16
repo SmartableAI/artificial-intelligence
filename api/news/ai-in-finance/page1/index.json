@@ -584,6 +584,59 @@
       ]
     },
     {
+      "path": "_news/2020-10-01-combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m.md",
+      "title": "Combining machine learning tools for medical imaging with genetic sequencing nets Sophia Genetics $110M",
+      "excerpt": "SOPHiA GENETICS, the shoutily and poorly capitalized-named startup that’s combining machine learning tools for medical imaging and genetic sequencing to come up with a more holistic view of diseases for better patient care,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/",
+      "originalUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/GettyImages-552163301-mri.jpg?w=1024",
+          "width": 1024,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/amp/",
+      "publishedDateTime": "2020-10-01T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-juniper-research-future-digital-award-winners-announced-for-fintech-payments-2020.md",
       "title": "Juniper Research: Future Digital Award Winners Announced for Fintech & Payments 2020",
       "excerpt": "It is with great pleasure that Juniper Research announces the 2020 winners of the Future Digital Awards for Fintech & Payments. This category recognises the most impactful financial products and services operating across numerous areas,",
@@ -1339,41 +1392,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-franklin-templeton-combines-award-winning-research-with-machine-learning-in-new-goals-optimization-engine.md",
-      "title": "Franklin Templeton Combines Award-Winning Research with Machine Learning in New Goals Optimization Engine",
-      "excerpt": "“We are seeing an increased demand for goals-based planning and personalized investment solutions globally, and the application of machine learning ... advisers and financial services firms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200916005185/en/Franklin-Templeton-Combines-Award-Winning-Research-with-Machine-Learning-in-New-Goals-Optimization-Engine",
-      "originalUrl": "https://www.businesswire.com/news/home/20200916005185/en/Franklin-Templeton-Combines-Award-Winning-Research-with-Machine-Learning-in-New-Goals-Optimization-Engine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

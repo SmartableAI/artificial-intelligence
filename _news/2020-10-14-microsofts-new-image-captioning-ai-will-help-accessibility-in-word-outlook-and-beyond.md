@@ -109,22 +109,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Microsoft partners chip maker Arm to boost AI innovation for IoT devices"
-    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
-    publishedDateTime: 2020-10-12T04:17:00Z
-    webUrl: "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 90
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Microsoft Azure Cognitive Services AI System Can Describe Images as Accurately as Humans"
     excerpt: "Microsoft has revealed a new AI model through Azure Cognitive Services, delivering a breakthrough in image description accuracy."
     publishedDateTime: 2020-10-15T14:42:00Z

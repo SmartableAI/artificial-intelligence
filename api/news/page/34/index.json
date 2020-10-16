@@ -2,6 +2,162 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-09-16-nokia-simplifies-microsoft-azure-integration.md",
+      "title": "Nokia simplifies Microsoft Azure integration",
+      "excerpt": "The announcement comes almost a year after Nokia and Microsoft made their first joint solutions public. In November 2019, the two companies announced a strategic collaboration aim",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration",
+      "originalUrl": "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1594375394/itpro/2020/07/shutterstock_nokia%20data%20centre.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-deep-learning-market-2020-key-regions-company-profile-opportunity-and-challenge-2026.md",
+      "title": "Deep Learning Market 2020 - Key Regions, Company Profile, Opportunity and Challenge 2026",
+      "excerpt": "Sep 16, 2020 (Heraldkeepers) -- Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020---key-regions-company-profile-opportunity-and-challenge-2026-2020-09-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020---key-regions-company-profile-opportunity-and-challenge-2026-2020-09-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-robot-research-vessel-to-set-off-on-epic-ocean-voyage-of-discovery.md",
+      "title": "Robot research vessel to set off on epic ocean voyage of discovery",
+      "excerpt": "On the 400th anniversary of the start of an epic voyage from England to the New World aboard the Mayflower, an autonomous, solar-powered marine research vessel is due to launch on a mission to gather environmental data about the ocean.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/",
+      "originalUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/c79b055/2147483647/strip/true/crop/2160x1440+200+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F32%2F65%2Fe56342c24447b4e08aa4a06e5550%2Fmasinwater-12.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/?amp=true",
+      "publishedDateTime": "2020-09-16T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-as-well.md",
       "title": "Unethical AI unfairly impacts protected classes - and everybody else as well",
       "excerpt": "We've established that unethical AI hurts protected classes - but it doesn't stop there. Across industries and regions, unethical AI can impact the entire population. Here's some questions to consider.",
@@ -1030,152 +1186,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores.md",
-      "title": "Sony’s new AI agent achieves superhuman Gran Turismo Sport scores",
-      "excerpt": "One of the best things about computers is that they can learn just as much from a simulation as they can from so-called ‘real world’ experiences. That means, given the proper simulator, we can teach AI to drive cars without ever putting a single human in danger.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/gtsai-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/amp/",
-      "publishedDateTime": "2020-09-15T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-tech-giant-launches-innovative-virtual-assistant-app.md",
-      "title": "Tech giant launches innovative virtual assistant app",
-      "excerpt": "During the 2022 Winter Olympics, 100 Baidu Apollo self-driving taxis will serve the Shougang Park. It has also launched DuerOS 6.0, the latest version of its conversational AI system, as well as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.globaltimes.cn/content/1201001.shtml",
-      "originalUrl": "https://www.globaltimes.cn/content/1201001.shtml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-09-15/4d81a111-b52d-43fc-9c43-a430eb70a8bb.jpeg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully.md",
-      "title": "In 2020, Warsaw’s startup ecosystem is ‘a place to observe carefully’",
-      "excerpt": "If you listed the trends that have captured the attention of 20 Warsaw-focused investors who replied to our recent surveys, automation/AI, enterprise SaaS, cleantech, health, remote work and the sharing economy would top the list.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/",
-      "originalUrl": "https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1154020009.jpg?w=1000",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/amp/",
-      "publishedDateTime": "2020-09-15T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
