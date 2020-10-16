@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/tesla-fsd-beta.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-beta.amp"
 type: article
 quality: 104
-heat: 314
+heat: 304
 published: true
 
 provider:
@@ -314,20 +314,6 @@ related:
       - url: "https://a3.allaccess.com/assets/ads/300x250/company/Dr_Dave_Ferguson_VO.gif?1575484729"
         width: 300
         height: 250
-        isCached: true
-  - title: "Self-Driving Cars Are Not Self-Driving–Marketing Confusing."
-    excerpt: "Motorists using active driving assistance systems, which combine vehicle acceleration with braking and steering, tend to overlook safety limitations when the branding and marketing used to sell it"
-    publishedDateTime: 2020-10-11T20:18:00Z
-    webUrl: "https://www.autoconnectedcar.com/2020/10/self-driving-cars-are-not-self-driving-marketing-confusing/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 24
-    images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2018/05/teslacrassh.jpg"
-        width: 789
-        height: 502
         isCached: true
   - title: "Tesla Autopilot’s Flaw Found! Instant Apparitions, Phantom Objects Can Cause Full Self-Driving to Malfunction and Harm Passengers"
     excerpt: "Tesla's Autopilot was fool-proof and promising, as advertised by the company; still, Israel-based researchers found its ultimate flaw and weakness using"

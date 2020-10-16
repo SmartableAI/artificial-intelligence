@@ -8,8 +8,8 @@ webUrl: "https://www.digitaltrends.com/features/pixelor-pictionary-ai/"
 ampWebUrl: "https://www.digitaltrends.com/features/pixelor-pictionary-ai/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/pixelor-pictionary-ai/?amp"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Google AI
 
 images:
   - url: "https://icdn4.digitaltrends.com/image/digitaltrends/pixelor_-1200x630-c-ar1.91.jpg"

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-30-using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions.md",
+      "title": "Using Amazon Rekognition Custom Labels and Amazon A2I for detecting pizza slices and augmenting predictions",
+      "excerpt": "Customers need machine learning (ML) models to detect objects that are interesting for their business. In most cases doing so is hard as these models needs thousands of labelled images and deep learning expertise. &nbsp;Generating this data can take months to gather, and can require large teams of labelers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/30/3-Custom-labels.jpg",
+          "width": 900,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T14:30:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-detroit-extends-contract-of-facial-recognition-program-that-doesnt-work.md",
       "title": "Detroit Extends Contract of Facial Recognition Program That Doesn’t Work",
       "excerpt": "The city’s own police chief admits the technology misidentifies 96 percent of time and yet the city voted to extend its use.",
@@ -1365,58 +1418,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition.md",
-      "title": "Samsung Galaxy S30 might include iPhone-rivaling facial recognition",
-      "excerpt": "While the Samsung Galaxy S20 line has the iPhone 11 range matched or beaten in a lot of ways, one thing it can’t match is Apple’s Face ID system for facial recognition. Indeed, Apple’s facial recognition is more secure than just about any Android version,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition",
-      "originalUrl": "https://www.techradar.com/uk/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ECEgY8jasz3nbtrpwrPdK-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition",
-      "publishedDateTime": "2020-09-21T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

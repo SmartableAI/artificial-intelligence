@@ -2,6 +2,289 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-28-mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign.md",
+      "title": "Mental health startup eQuoo will be distributed by Unilever in new global youth campaign",
+      "excerpt": "Last December (yes, in the before-times) UK-based mental health startup eQuoo had a round of announcements, becoming the NHS approved mental health game, as well as signing Barmer, the largest insurance company in Germany,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/",
+      "originalUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/HandPhone04.jpg?w=661",
+          "width": 661,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/amp/",
+      "publishedDateTime": "2020-09-28T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-uk-and-us-marked-down-on-responsible-ai.md",
+      "title": "UK and US marked down on responsible AI",
+      "excerpt": "The UK and US have been rated as leaders in government use of artificial intelligence, but the Nordics and Baltics attained the highest scores for responsible AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI",
+      "originalUrl": "https://www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/article/artificial-intelligence-brain-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI?amp=1",
+      "publishedDateTime": "2020-09-28T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-artificial-intelligence-for-business-2016.md",
+      "title": "Artificial Intelligence for Business 2016",
+      "excerpt": "Cumulative worldwide spending on artificial intelligence (AI) will reach $40.6 billion by 2024. AI is on the verge of becoming a critical part of every business infrastructure, making it vital for company decision-makers to understand how this technology can,",
+      "sourceUrl": null,
+      "webUrl": "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/3",
+      "originalUrl": "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/yumyoshojin/image/fetch/w_829/w_829,h_588,c_crop,g_north/https://www.raconteur.net/wp-content/uploads/2016/07/Raconteur-Artificial-Intelligence-for-Business-2016-Dashboard1-900x1348.jpg",
+          "width": 829,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raconteur",
+        "domain": "raconteur.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-ai-drug-rd-startup-xtalpi-announces-over-300-million-series-c-investment-led-by-softbank-vision-fund-picc-capital-and-morningside.md",
+      "title": "AI Drug R&D Startup XtalPi Announces Over 300 Million Series C Investment Led by SoftBank Vision Fund, PICC Capital, and Morningside",
+      "excerpt": "PRNewswire/ -- XtalPi, an Artificial Intelligence (AI) drug discovery and development technology company, today announces an oversubscribed Series C",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ai-drug-rd-startup-xtalpi-announces-over-300-million-series-c-investment-led-by-softbank-vision-fund-picc-capital-and-morningside-301139002.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ai-drug-rd-startup-xtalpi-announces-over-300-million-series-c-investment-led-by-softbank-vision-fund-picc-capital-and-morningside-301139002.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/632519/XtalPi_Logo.jpg?p=facebook",
+          "width": 1000,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-google-cloud-ai-prediction-service-becomes-generally-available.md",
+      "title": "Google Cloud AI Prediction Service Becomes Generally Available",
+      "excerpt": "Google announced the general availability of AI Prediction service, a key component of its AI Platform. The service supports hosting the models trained in popular machine learning frameworks including TensorFlow,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71e536a0e9f1ca8b01406a%2F0x0.jpg",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/amp/",
+      "publishedDateTime": "2020-09-28T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-neural-network-trained-to-control-anesthetic-doses-keep-patients-under-during-surgery.md",
+      "title": "Neural network trained to control anesthetic doses, keep patients under during surgery",
+      "excerpt": "and Massachusetts General Hospital have demonstrated how neural networks can be trained to administer anesthetic during surgery. Over the past decade, machine learning (ML), artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
+      "originalUrl": "https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/26/819edb0f-11d4-4321-8447-982555f1c2db/thumbnail/1200x675/069dd34a53a6dec72536b86bb559cefe/20200826-daphne-karen-neural.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
+      "publishedDateTime": "2020-09-28T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-our-goal-shouldnt-be-to-build-merely-trustworthy-ai.md",
       "title": "Our goal shouldn’t be to build merely ‘trustworthy’ AI",
       "excerpt": "Mariarosaria Taddeo, Deputy Director of the Oxford Internet Institute's Digital Ethics Lab, explains why AI ethics must be a continuous practice.",
@@ -136,6 +419,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-accelerate-your-applications-with-rocm.md",
+      "title": "Accelerate Your Applications with ROCm",
+      "excerpt": "Frameworks are essential for Machine Learning (ML) applications, and the most popular ones include TensorFlow and PyTorch. TensorFlow is widely used and is an open-source platform that allows researchers and developers to build ML applications quickly and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2020/09/accelerate-your-applications-with-rocm/",
+      "originalUrl": "https://insidehpc.com/2020/09/accelerate-your-applications-with-rocm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/09/ROCm_pic1.png",
+          "width": 700,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T06:01:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -808,315 +1134,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-how-to-improve-bot-detection-with-machine-learning.md",
-      "title": "How To Improve Bot Detection With Machine Learning",
-      "excerpt": "The bot landscape is changing fast as fraudsters look to capitalize on the confusion, fear and uncertainty surrounding Covid-19 and its immediately accelerating e-commerce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70cdf27a22d0b0bf2220f7%2F0x0.jpg%3FcropX1%3D698%26cropX2%3D4871%26cropY1%3D93%26cropY2%3D2875",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/amp/",
-      "publishedDateTime": "2020-09-27T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-5-microsoft-teams-upgrades-that-take-it-deeper-into-the-workplace.md",
-      "title": "5 Microsoft Teams Upgrades That Take It Deeper Into the Workplace",
-      "excerpt": "With Redmond, Wash.-based Microsoft’s reach in the digital workplace as far as it is it is now, its annual Ignite conference is always a high point in the digital workplace calendar in terms of new releases and developments.",
-      "sourceUrl": null,
-      "webUrl": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697",
-      "originalUrl": "https://www.cmswire.com/collaboration-productivity/5-microsoft-teams-upgrades-that-takes-it-deeper-into-the-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/220823i97F191E801AC4FFC?v=1.0",
-          "width": 1597,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial.md",
-      "title": "The Last of Us Part II voice actor breaks new ground with Twitch’s Artificial",
-      "excerpt": "It’s a remotely produced sci-fi series that deals with the boundaries of humanity and artificial intelligence ... probably going to happen someday. A robot is going to kill someone, and who ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/",
-      "originalUrl": "https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/The-Last-of-Us-2-E3-2018-02.jpg?w=1200&#038;strip=all",
-          "width": 1157,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/amp/",
-      "publishedDateTime": "2020-09-26T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-madurai-police-launches-facial-recognition-app-to-reduce-crime-rate.md",
-      "title": "Madurai Police Launches Facial Recognition App To Reduce Crime Rate",
-      "excerpt": "To reduce robberies and other crimes, the Madurai city police has introduced the FACETAGR app, a technology-enabled web-based processor, which matches the facial features of a suspect with the data stored in a database.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538",
-      "originalUrl": "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2019-05/ituc17b_cctv-generic_625x300_29_May_19.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off",
-      "publishedDateTime": "2020-09-26T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-iiit-sri-city-adds-mtech-programme-in-ai-machine-learning.md",
-      "title": "IIIT Sri City adds MTech Programme in AI & Machine Learning",
-      "excerpt": "IBM inaugurated the new MTech Programme in AI & ML at IIIT Sri City. She congratulated IIIT Sri City for pioneering the effort to produce",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/news/national/ukl1r2/article32452998.ece/ALTERNATES/LANDSCAPE_615/bl28-machine-learning",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece/amp/",
-      "publishedDateTime": "2020-09-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-brazilian-man-gets-his-nose-removed-to-look-like-the-human-satan.md",
-      "title": "Brazilian Man Gets His Nose Removed to Look Like the 'Human Satan'",
-      "excerpt": "According to Psychiatryonline.org, there are evidence to correlate extreme body modifications with identity and self. Like us on Facebook to see similar stories",
-      "sourceUrl": null,
-      "webUrl": "https://ajp.psychiatryonline.org/action/cookieAbsent",
-      "originalUrl": "https://www.msn.com/en-in/news/offbeat/brazilian-man-gets-his-nose-removed-to-look-like-the-human-satan/ar-BB19r8hT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-26T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "psychiatryonline.org/action/cookieabsent",
-        "domain": "psychiatryonline.org/action/cookieabsent",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-study-mri-with-machine-learning-reveals-brain-changes-from-ptsd.md",
-      "title": "Study: MRI with machine learning reveals brain changes from PTSD",
-      "excerpt": "A new machine learning approach added to conventional magnetic resonance imaging can identify the regions of the brain causing dissociative symptoms in people with post-traumatic stress disorder, researchers found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
-      "originalUrl": "https://www.upi.com/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/2911601057266/2020/1/16010604892035/v1.5/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD.jpg",
-          "width": 544,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
-      "publishedDateTime": "2020-09-25T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

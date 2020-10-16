@@ -2,6 +2,352 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-09-23-mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live.md",
+      "title": "Mastercard’s VP of AI talks bots, NLP, and why fintechs need AI for customer service (VB Live)",
+      "excerpt": "Join this VB Live event for insights on why AI is essential for fintech companies, plus how to implement it, how to make it perfom, and more. Register here for free. AI has been around for a long ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/mastercard-in-control-mineraltree.jpg?w=1200&#038;strip=all",
+          "width": 993,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/amp/",
+      "publishedDateTime": "2020-09-23T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-teslas-full-self-driving-autopilot-beta-coming-in-a-month-or-so.md",
+      "title": "Tesla's full self-driving Autopilot beta coming in 'a month or so'",
+      "excerpt": "Tesla's CEO shared that its engineers have fully overhauled the Autopilot software stack and are almost ready to share a dramatic upgrade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/-NA7wJ9AEujzfzMLTzIUGTJDz3E=/2018/06/11/5aae38ba-915f-4b34-ba36-58cf2671f07c/tesla-hw2-autopilot-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "publishedDateTime": "2020-09-23T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform.md",
+      "title": "WhyLabs raises $4 million to grow AI and data monitoring platform",
+      "excerpt": "Based in Seattle, WhyLabs uses an open source library to tracks AI models and datasets and notify data scientists if problems arise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/",
+      "originalUrl": "https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/WhyLabs-Zoom-Team-e1600868899982.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/amp/",
+      "publishedDateTime": "2020-09-23T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery.md",
+      "title": "This Startup Has Raised Nearly $100 Million To Make Good On The Promise Of AI For Drug Discovery",
+      "excerpt": "Flagship Pioneering’s David Berry founded Valo Health 18 months ago with an eye to making an AI platform to develop drugs more quickly and efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/",
+      "originalUrl": "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a65baf6e34f6e4c4ea8ef%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D99%26cropY2%3D436",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/amp/",
+      "publishedDateTime": "2020-09-23T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-intel-details-chips-designed-for-iot-and-edge-workloads.md",
+      "title": "Intel details chips designed for IoT and edge workloads",
+      "excerpt": "Intel is targeting the IoT and edge computing market with new processor products, including the Atom x6000E Series, Pentium, Celeron N, and J Series.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/",
+      "originalUrl": "https://venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/intel-raja.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/amp/",
+      "publishedDateTime": "2020-09-23T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-the-next-big-breakthrough-in-ai-will-be-around-language.md",
+      "title": "The Next Big Breakthrough in AI Will Be Around Language",
+      "excerpt": "The 2020s are going to bring major advances in language-based AI tasks. GPT-3, a state-of-the-art natural language processing tool developed by OpenAI, will soon be able to produce short stories, songs,",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
+      "originalUrl": "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/09/Sep20_23_183428120-4.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
+      "publishedDateTime": "2020-09-23T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-ardigen-has-received-funding-to-accelerate-its-ai-driven-tcr-discovery-platform-for-novel-cell-therapies.md",
+      "title": "Ardigen has received funding to accelerate its AI-driven TCR discovery platform for novel cell therapies",
+      "excerpt": "Ardigen is harnessing advanced Artificial Intelligence methods for novel precision medicine. The company accelerates therapy development by designing immunity, decoding microbiome, analysing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ardigen-has-received-funding-to-accelerate-its-ai-driven-tcr-discovery-platform-for-novel-cell-therapies-301136453.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ardigen-has-received-funding-to-accelerate-its-ai-driven-tcr-discovery-platform-for-novel-cell-therapies-301136453.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/969153/Ardigen_SA_Logo.jpg?p=facebook",
+          "width": 798,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-adobes-liquid-mode-uses-ai-to-automatically-redesign-pdfs-for-mobile-devices.md",
       "title": "Adobe’s ‘Liquid Mode’ uses AI to automatically redesign PDFs for mobile devices",
       "excerpt": "We’ve probably all been there: you’ve been poking around your phone for an hour, deep in some sort of Google research rabbit hole. You finally find a link that almost certainly has the info you’ve been looking for.",
@@ -865,323 +1211,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs.md",
-      "title": "Volkswagen’s Truck Unit Ties Up With TuSimple On Robot Big Rigs",
-      "excerpt": "TuSimple, a startup that’s developing self-driving technology for heavy ... (TuSimple is also a standout member of Forbes’ 2020 AI 50 list of companies to watch.)",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a44a97566ec33224ea8ed%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/amp/",
-      "publishedDateTime": "2020-09-23T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-deep-learning-on-steroids-koch-disruptive-technologies-gets-in-on-deepcubes-7m-series-a.md",
-      "title": "Deep Learning on steroids: Koch Disruptive Technologies gets in on DeepCube's $7M Series A",
-      "excerpt": "“The main issue with Deep-Learning models these days is their enormous memory size, which usually means that day-to-day operations become pretty costly. As a result, end-user installation almost doesn’t exist, and costs are extremely high for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/deepcube-raises-7m/",
-      "originalUrl": "https://www.geektime.com/deepcube-raises-7m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2020/09/deep-1600768954-1536x849.png",
-          "width": 1536,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/deepcube-raises-7m/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/deepcube-raises-7m/amp/",
-      "publishedDateTime": "2020-09-22T21:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-microsoft-lands-exclusive-license-for-openais-astonishing-gpt-3-model.md",
-      "title": "Microsoft Lands Exclusive License for OpenAI's Astonishing GPT-3 Model",
-      "excerpt": "Microsoft is having a hell of a week. On Monday, the company announced a $7.5 billion deal to acquire Zenimax and all of its big video game properties. In one move, the Xbox platform’s future suddenly looked a lot brighter.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568",
-      "originalUrl": "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iigrcaogdqbygada6mxc.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568/amp",
-      "publishedDateTime": "2020-09-22T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-twitters-ai-revealed-to-have-racial-bias-after-a-viral-photo-experiment.md",
-      "title": "Twitter’s AI Revealed to Have Racial Bias After a Viral Photo Experiment",
-      "excerpt": "On Saturday, a user tested out racial discrimination existing in Twitter’s AI photo tools using two strips of photos. Twitter crops pictures attached to a tweet, only showing the entire picture after a user clicks on it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias",
-      "originalUrl": "https://www.vice.com/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f69d748e154ad009ce2ccf3/lede/1600774181209-marten-bjork-fvtg38cjck-unsplash.jpeg?crop=1xw:0.3746xh;0xw,0.3438xh",
-          "width": 3506,
-          "height": 1970,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias",
-      "publishedDateTime": "2020-09-22T19:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-elon-musk-says-teslas-full-self-driving-autopilot-is-coming-soon-and-its-clearly-going-to-work.md",
-      "title": "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'",
-      "excerpt": "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
-      "originalUrl": "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-studies-in-natural-language-processing.md",
-      "title": "Studies in Natural Language Processing",
-      "excerpt": "Volumes in the Studies in Natural Language Processing series provide comprehensive surveys of current research topics and applications in the field of natural language processing (NLP) that shed light on language technology, language cognition, language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/series/studies-in-natural-language-processing/ED110EDEE55A3234E91D98348A3A271A",
-      "originalUrl": "https://www.cambridge.org/core/series/studies-in-natural-language-processing/ED110EDEE55A3234E91D98348A3A271A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-chinese-propaganda-network-on-facebook-used-ai-generated-faces.md",
-      "title": "Chinese propaganda network on Facebook used AI-generated faces",
-      "excerpt": "Facebook removed two networks of fake accounts spreading government propaganda on the platform Tuesday, one originating in China and one in the Philippines. In its latest report on this kind of coordinated campaign,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/",
-      "originalUrl": "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/gans-graphika.jpeg?w=680",
-          "width": 680,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/amp/",
-      "publishedDateTime": "2020-09-22T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

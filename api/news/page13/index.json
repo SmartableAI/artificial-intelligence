@@ -2,6 +2,212 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-03-run-a-deep-learning-model-in-java-a-quick-take.md",
+      "title": "Run a Deep Learning Model in Java: A Quick Take",
+      "excerpt": "For instance, NumPy for data analysis; Matplotlib for visualizations; frameworks such as MXNet, PyTorch, TensorFlow, and many more. But there are very few resources for Java users, even though it is the most popular language in enterprise. We set out with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3584152/run-a-deep-learning-model-in-java-a-quick-take.html",
+      "originalUrl": "https://www.infoworld.com/article/3584152/run-a-deep-learning-model-in-java-a-quick-take.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/artificial-intelligence-neural-network-human-face-picture-id1150038843-100860324-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-ai-weekly-palantir-twitter-and-building-public-trust-into-the-ai-design-process.md",
+      "title": "AI Weekly: Palantir, Twitter, and building public trust into the AI design process",
+      "excerpt": "An algorithm registry like the kind proposed by cities like Amsterdam and Helsinki could empower people to keep businesses and governments accountable.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/02/ai-weekly-palantir-twitter-and-building-public-trust-into-the-ai-design-process/",
+      "originalUrl": "https://venturebeat.com/2020/10/02/ai-weekly-palantir-twitter-and-building-public-trust-into-the-ai-design-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/palantir.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/02/ai-weekly-palantir-twitter-and-building-public-trust-into-the-ai-design-process/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/02/ai-weekly-palantir-twitter-and-building-public-trust-into-the-ai-design-process/amp/",
+      "publishedDateTime": "2020-10-02T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai.md",
+      "title": "IBM joins NIH effort to diagnose schizophrenia using AI",
+      "excerpt": "IBM says it will join an U.S. National Institutes of Health effort to apply data analysis to identifying schizophrenia diagnostic techniques and treatments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/amp/",
+      "publishedDateTime": "2020-10-02T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-parkland-parents-create-artificial-intelligence-video-of-slain-son-to-spur-voters.md",
+      "title": "Parkland parents create artificial intelligence video of slain son to spur voters",
+      "excerpt": "Wearing his signature hoodie and beanie, an earbud casually hanging from one ear, passionate Parkland teen Joaquin Oliver urges his peers to vote for lawmakers who will end gun violence in a new video released Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
+      "originalUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92a015b7-e5da-4532-a5e3-7990a14b4476/e83f5a0d-f2ad-49fe-81f0-6d88b306a6ed/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/parkland-ai-video-son-voters.amp",
+      "publishedDateTime": "2020-10-02T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone.md",
       "title": "Writer pens a $5M seed round for its AI style guide that flags bias and tone",
       "excerpt": "Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough,",
@@ -459,6 +665,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-big-plans-artificial-intelligence-run-city-campus-in-china.md",
+      "title": "BIG plans artificial intelligence-run city campus in China",
+      "excerpt": "BIG has drawn up the plans for smart service specialists Terminus Group, which will have its headquarters at the centre of the artificial intelligence ... e-bikes and self-driving cars to cut ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/",
+      "originalUrl": "https://www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2020/10/terminus-group-bjarke-ingels-big-ai-city-china-architecture-news_dezeen_2364_hero-b-852x479.jpg",
+          "width": 852,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/amp/",
+      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/amp/",
+      "publishedDateTime": "2020-10-02T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dezeen",
+        "domain": "dezeen.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-mit-report-how-ai-changes-the-world.md",
       "title": "MIT Report How AI changes the world",
       "excerpt": "Building Workforce Skills for AI As the world becomes more digital, artificial intelligence (AI) is increasingly critical to the way we do business. Leaders are no longer deciding",
@@ -838,6 +1087,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-tool-helps-clear-biases-from-computer-vision.md",
+      "title": "Tool helps clear biases from computer vision",
+      "excerpt": "Because the foundation of computer vision is built on these data sets, images that reflect societal stereotypes and biases can unintentionally influence computer vision models. To help stem this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/pues-thc100120.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/pues-thc100120.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T13:24:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-machine-learning-maximizes-email-marketing-roi-with-list-segmentation.md",
       "title": "Machine Learning Maximizes Email Marketing ROI With List Segmentation",
       "excerpt": "Your email marketing ROI can improve with the help of the superior list segmentation mechanisms that machine learning can provide.",
@@ -878,310 +1170,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-getting-started-with-aws-deepracer-community-races.md",
-      "title": "Getting started with AWS DeepRacer community races",
-      "excerpt": "AWS DeepRacer allows you to get hands-on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. With AWS DeepRacer community",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/1A-758x630.jpg",
-          "width": 758,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T12:19:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-onboarding-amazon-sagemaker-studio-with-aws-sso-and-okta-universal-directory.md",
-      "title": "Onboarding Amazon SageMaker Studio with AWS SSO and Okta Universal Directory",
-      "excerpt": "In 2019, AWS announced Amazon SageMaker Studio, a unified integrated development environment (IDE) for machine learning (ML) development. You can write code, track experiments, visualize data, and perform debugging and monitoring within a single, integrated visual interface. Amazon SageMaker Studio supports",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/onboarding-amazon-sagemaker-studio-with-aws-sso-and-okta-universal-directory/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/onboarding-amazon-sagemaker-studio-with-aws-sso-and-okta-universal-directory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/FeatureImage.jpg",
-          "width": 900,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T11:57:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai.md",
-      "title": "Via acquires delivery logistics startup Fleetonomy to bolster fulfillment with AI",
-      "excerpt": "Via acquired Fleetonomy, a startup that analyzes delivery data and delivers insights to maximize inventory and conduct proactive maintenance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/232a9c02-eb55-4af8-be59-38fb161b1f93-e1601359046546.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/amp/",
-      "publishedDateTime": "2020-10-01T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization.md",
-      "title": "Air Street Capital: AI industry remains strong despite academic brain drain, tech nationalization",
-      "excerpt": "Air Street Capital's annual State of AI report finds that despite challenges, the AI industry remains strong heading into 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/",
-      "originalUrl": "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/amp/",
-      "publishedDateTime": "2020-10-01T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-using-machine-learning-to-predict-pediatric-brain-injury.md",
-      "title": "Using machine learning to predict pediatric brain injury",
-      "excerpt": "When newborn babies or children with heart or lung distress are struggling to survive, doctors often turn to a form of life support that uses artificial lungs. This treatment, called Extracorporeal Membrane Oxygenation (ECMO),",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-usingmachine.jpg",
-          "width": 1440,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.amp",
-      "publishedDateTime": "2020-10-01T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-halloween-themed-aws-deepcomposer-chartbusters-challenge-track-or-treat.md",
-      "title": "Halloween-themed AWS DeepComposer Chartbusters Challenge: Track or Treat",
-      "excerpt": "We are back with a spooktacular AWS DeepComposer Chartbusters challenge, Track or Treat! In this challenge, you can interactively collaborate with the ghost in the machine (learning) and compose spooky music! Chartbusters is a global monthly challenge where you can use AWS DeepComposer to create original",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/halloween-themed-aws-deepcomposer-chartbusters-challenge-track-or-treat/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/halloween-themed-aws-deepcomposer-chartbusters-challenge-track-or-treat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/3-.jpg",
-          "width": 900,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T10:35:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Government 's facial recognition deal throws access to it wide open"
-    excerpt: "The government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
-    publishedDateTime: 2020-10-11T19:37:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/government-s-facial-recognition-deal-throws-access-wide-open"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMTAlMkYxMiUyRmdvdmVybm1lbnQtc2lnbnMtZmFjaWFsLXJlY29nbml0aW9uLWRlYWwtd2lkZS1hY2Nlc3M="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMTAlMkYxMiUyRmdvdmVybm1lbnQtc2lnbnMtZmFjaWFsLXJlY29nbml0aW9uLWRlYWwtd2lkZS1hY2Nlc3M="
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 59
-    images:
-      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format"
-        width: 700
-        height: 394
-        isCached: true
   - title: "J&K Civil Secretariat staff to mark attendance via facial recognition setup"
     excerpt: "The use of the biometric attendance system, which requires people to put a finger on the surface of the scanner, was suspended after the outbreak of the coronavirus pandemic in March this year"
     publishedDateTime: 2020-10-13T18:33:00Z

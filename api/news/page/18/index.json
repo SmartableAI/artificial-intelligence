@@ -2,6 +2,283 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-29-cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace.md",
+      "title": "CyberMDX Healthcare Security Solution is Now Available in AWS Marketplace",
+      "excerpt": "CyberMDX, a leading healthcare cybersecurity provider delivering visibility and threat prevention for medical devices and clinical networks, today announced that the company's solutions",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace/article_d7f5648b-9ed9-5a4a-9681-df5698a324c0.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace/article_d7f5648b-9ed9-5a4a-9681-df5698a324c0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic.md",
+      "title": "Companies are doubling down on artificial intelligence and machine learning due to pandemic",
+      "excerpt": "Companies are planning to increase their spending on artificial intelligence and machine learning as a result of the pandemic, and IT leaders believe that those initiatives should have been a higher priority for their organizations all along, according to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
+      "originalUrl": "https://www.techrepublic.com/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2018/09/18/576ff782-4166-4148-9a24-1a349fb7d430/thumbnail/1200x675/06be1fbef92a10bdaa9eefca101d0989/cyber.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
+      "publishedDateTime": "2020-09-29T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-cannabis-data-lacking-but-machine-learning-could-help-fill-the-gap.md",
+      "title": "Cannabis data lacking, but machine learning could help fill the gap",
+      "excerpt": "Anyone who has used, sold, studied or even read much about marijuana likely recognizes these acronyms as active ingredients in the plant.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.html",
+      "originalUrl": "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/cannabisdata.jpg",
+          "width": 750,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-cannabis-lacking-machine-gap.amp",
+      "publishedDateTime": "2020-09-29T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-deep-learning-model-provides-rapid-detection-of-stroke-causing-blockages.md",
+      "title": "Deep learning model provides rapid detection of stroke-causing blockages",
+      "excerpt": "When they tested the deep learning model on multiphase CTA examinations of 62 patients, the model detected all 31 large vessel occlusions for a sensitivity of 100%, a statistically significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.amp",
+      "publishedDateTime": "2020-09-29T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation.md",
+      "title": "Snowflake Looks Like A Risky Bet At A $60 Billion Plus Valuation",
+      "excerpt": "Snowflake, the cloud-based data warehousing company that went public recently, is valued at about $60 billion, or about $220 per share. The company trades at a whopping 230x trailing Revenues - well above many other high-growth SaaS names.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f72e0242f4428bd11ff2cc3%2F0x0.jpg",
+          "width": 1042,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/amp/",
+      "publishedDateTime": "2020-09-29T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-inside-google-healths-struggle-to-refocus-regain-trust-navigate-healthcare-and-make-money.md",
+      "title": "Inside Google Health's struggle to refocus, regain trust, navigate healthcare, and make money",
+      "excerpt": "The young team is up against trust issues, Alphabet's messy layout, and an industry it can't fix with the click of a button.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-healths-strategy-and-identity-within-alphabet-2020-9",
+      "originalUrl": "https://www.businessinsider.com/google-healths-strategy-and-identity-within-alphabet-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f732abb0ab50d00184aced7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-applying-machine-learning-to-keep-employees-safe-and-save-lives.md",
       "title": "Applying machine learning to keep employees safe and save lives",
       "excerpt": "Warny leverages many of the key AWS Services such as IoT, Greengrass, and Sagemaker. Warny uses sophisticated computer vision algorithms to protect people working around dangerous machines ...",
@@ -884,283 +1161,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm.md",
-      "title": "Deep Neural Networks Market Booming Worldwide with leading Players Google, Oracle, Microsoft, IBM",
-      "excerpt": "Global Deep Neural Networks Market The global Deep Neural Networks Market size was valued at USD 1.26 Billion in 2019 and is anticipated to reach USD 5.98 Billion by 2027 at a CAGR of 21.4%. The global neural networks market is growing predominantly as the demand for implementing the deep neural network in healthcare and BFSI sectors are flourishing extensively.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm-2020-09-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm-2020-09-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-future-demand-market-analysis-outlook-for-2027.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market: Future Demand, Market Analysis & Outlook for 2027",
-      "excerpt": "Industry Analysis of the Natural Language Processing NLP in Healthcare and Life Sciences Market Report 2020 2027 Global Natural Language Processing NLP in Healthcare and Life Sciences market has been leaning towards the growth curve and contributing to the global",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2145396/natural-language-processing-nlp-in-healthcare-and-life",
-      "originalUrl": "https://www.openpr.com/news/2145396/natural-language-processing-nlp-in-healthcare-and-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T929873491_g.jpg",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2145396/natural-language-processing-nlp-in-healthcare-and-life",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2145396/natural-language-processing-nlp-in-healthcare-and-life",
-      "publishedDateTime": "2020-09-29T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-trading-18-higher.md",
-      "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Trading 1.8% Higher",
-      "excerpt": "Shares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)’s share price traded up 1.8% on Monday . The company traded as high as $32.60 and last traded at $32.60. 30,862 shares traded hands during mid-day trading,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/09/29/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-trading-1-8-higher.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/09/29/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-trading-1-8-higher.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/09/29/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-trading-1-8-higher.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/09/29/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-trading-1-8-higher.html/amp",
-      "publishedDateTime": "2020-09-29T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-inside-politics-tory-rebels-hope-for-deal-with-no-10-on-extra-scrutiny-powers.md",
-      "title": "Inside Politics: Tory rebels hope for deal with No 10 on extra scrutiny powers",
-      "excerpt": "Conservative backbenchers believe they’re in line for a bigger say on the coronavirus rules after a ‘cordial’ meeting with Jacob Rees-Mogg and the whips, writes Adam Forrest",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-coronavirus-rules-tory-mps-compromise-eu-brexit-trade-deal-talks-b688535.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-unlocking-the-secrets-of-language-ai-with-inter-language-vector-space.md",
-      "title": "Unlocking the Secrets of Language AI With Inter-language Vector Space",
-      "excerpt": "Interview with XTM International’s Rafał Jaworski on how interlanguage vector space impacts cost, delivery time, accuracy for linguists, LSPs",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/sponsored-content/unlocking-secrets-language-ai-inter-language-vector-space/",
-      "originalUrl": "https://slator.com/sponsored-content/unlocking-secrets-language-ai-inter-language-vector-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2020/09/ILVS-Slator-title-25-09-v2.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
-      "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
-      "excerpt": "MOUNTAIN VIEW, Calif., Sept. 28, 2020 /PRNewswire via COMTEX/ -- MOUNTAIN VIEW, Calif., Sept. 28, 2020 /PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-2020-09-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-2020-09-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

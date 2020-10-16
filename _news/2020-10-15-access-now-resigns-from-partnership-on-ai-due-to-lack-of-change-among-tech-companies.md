@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/10/14/access-now-resigns-from-partnership-
 ampWebUrl: "https://venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/amp/"
 type: article
-quality: 82
-heat: 92
+quality: 84
+heat: 94
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/09/partnership-on-ai.jpg?w=1200&#038;strip=all"

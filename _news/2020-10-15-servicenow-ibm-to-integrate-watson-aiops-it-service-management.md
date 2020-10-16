@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
     excerpt: "The new offering will combine ServiceNow’s IT Service Management and IT Operations Management systems with IBM’s recently introduced Watson AIOps."
     publishedDateTime: 2020-10-15T12:43:00Z
     webUrl: "https://www.wsj.com/articles/ibm-servicenow-partner-on-ai-effort-aimed-at-identifying-it-anomalies-11602763201"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-245239/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "IBM, ServiceNow Partner on AI Effort Aimed at Identifying IT Anomalies"
+    excerpt: "The new offering will combine ServiceNow’s IT Service Management and IT Operations Management systems with IBM’s recently introduced Watson AIOps."
+    publishedDateTime: 2020-10-15T17:00:00Z
+    webUrl: "https://www.wsj.com/articles/ibm-servicenow-partner-on-ai-effort-aimed-at-identifying-it-anomalies-11602763201?mod=business_minor_pos11"
     type: article
     provider:
       name: Wall Street Journal

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-13-nym-health-raises-165-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing.md",
+      "title": "Nym Health raises $16.5 million for its auditable machine learning tools for automating hospital billing",
+      "excerpt": "A little less than two years after raising its seed round, the Israeli-based Nym Health has added another $16.5 million to its cash haul so it can roll out its technology developing auditable machine learning tools for automating hospital billing.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/",
+      "originalUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1211152561.jpg?w=713",
+          "width": 713,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/amp/",
+      "publishedDateTime": "2020-10-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs.md",
       "title": "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs",
       "excerpt": "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ...",
@@ -671,7 +723,7 @@
       "originalUrl": "https://mashable.com/article/tesla-fsd-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -1188,48 +1240,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-us-israeli-ai-retinal-scanner-named-finalist-at-global-health-competition.md",
-      "title": "US-Israeli AI retinal scanner named finalist at global health competition",
-      "excerpt": "During the competition, AEYE Health’s CEO will have three minutes to present his company’s latest technology and how it sets to transform the way healthcare systems diagnose retinal conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/health-science/us-israeli-ai-retinal-scanner-named-finalist-at-global-health-competition-645343",
-      "originalUrl": "https://www.jpost.com/health-science/us-israeli-ai-retinal-scanner-named-finalist-at-global-health-competition-645343",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/464827",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/health-science/us-israeli-ai-retinal-scanner-named-finalist-at-global-health-competition-645343/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/us-israeli-ai-retinal-scanner-named-finalist-at-global-health-competition-645343/amp",
-      "publishedDateTime": "2020-10-11T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -106,6 +106,59 @@
       ]
     },
     {
+      "path": "_news/2020-10-14-this-bot-will-destroy-you-at-pictionary-its-also-a-huge-milestone-for-ai.md",
+      "title": "This bot will destroy you at Pictionary. It’s also a huge milestone for A.I.",
+      "excerpt": "Pixelor isn't just a Pictionary-playing A.I. — it's a groundbreaking new tool that's helping us teach machines to understand human intentions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/",
+      "originalUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/pixelor_-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/pixelor-pictionary-ai/?amp",
+      "publishedDateTime": "2020-10-14T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-android-studio-41-simplifies-using-tensorflow-lite-models-and-android-emulator.md",
       "title": "Android Studio 4.1 simplifies using TensorFlow Lite models and Android Emulator",
       "excerpt": "Version 4.1 includes easier implementation of on-device TensorFlow Lite models, the ability to run Android Emulator directly in the IDE, and support for foldable form factors. There’s also a new ...",
@@ -211,6 +264,110 @@
       ]
     },
     {
+      "path": "_news/2020-10-09-you-only-have-one-voice-dont-let-hackers-steal-it.md",
+      "title": "You Only Have One Voice — Don't Let Hackers Steal It",
+      "excerpt": "While this democratization of synthetic voice presents interesting opportunities for startups, hobbyists and creatives, the reality is that bad actors have already dipped their toes into employing spoofed voices for audio-based fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/you-only-have-one-voice---dont-let-hackers-steal-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/you-only-have-one-voice---dont-let-hackers-steal-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f78253ee3b3da0d40d00c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/you-only-have-one-voice---dont-let-hackers-steal-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/09/you-only-have-one-voice---dont-let-hackers-steal-it/amp/",
+      "publishedDateTime": "2020-10-09T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-think-big-tech-is-getting-broken-up-buy-alphabet-stock.md",
+      "title": "Think Big Tech is Getting Broken Up? Buy Alphabet Stock",
+      "excerpt": "Antitrust actions among corporations, particularly those in the tech industry, have received increased attention recently. Many politicians are explicitly calling for the breakup of some of the biggest tech companies out there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/08/think-big-tech-is-getting-broken-up-buy-alphabet-s/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/08/think-big-tech-is-getting-broken-up-buy-alphabet-s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594098%2Fgettyimages-590033270.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/08/think-big-tech-is-getting-broken-up-buy-alphabet-s/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/08/think-big-tech-is-getting-broken-up-buy-alphabet-s/",
+      "publishedDateTime": "2020-10-08T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-fernanda-viegas-puts-people-at-the-heart-of-ai.md",
       "title": "Fernanda Viégas puts people at the heart of AI",
       "excerpt": "When Fernanda Viégas was in college, it took three years with three different majors before she decided she wanted to study graphic design and art history. And even then, she couldn’t have imagined the job she has today: building artificial intelligence and machine learning with fairness and transparency",
@@ -302,6 +459,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-behringer-deepmind-12-case.md",
+      "title": "Behringer Deepmind 12 + Case",
+      "excerpt": "Reverb Protection has you covered. We provide a safe community for finding the gear you want. As its name suggests, the Behringer DeepMind 12 is a 12-voice polyphonic analog synth, with a 49-note velocity- and and aftertouch-sensitive keyboard. Each voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://reverb.com/item/34032852-behringer-deepmind-12-case",
+      "originalUrl": "https://reverb.com/item/34032852-behringer-deepmind-12-case",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.reverb.com/image/upload/s--ehYWLJcP--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_1600,q_80,w_1600/v1493821653/srnt2x6xtccku92gv2lv.jpg",
+          "width": 850,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T03:36:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -710,6 +910,49 @@
       "provider": {
         "name": "Mashable",
         "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-accelerate-your-applications-with-rocm.md",
+      "title": "Accelerate Your Applications with ROCm",
+      "excerpt": "Frameworks are essential for Machine Learning (ML) applications, and the most popular ones include TensorFlow and PyTorch. TensorFlow is widely used and is an open-source platform that allows researchers and developers to build ML applications quickly and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2020/09/accelerate-your-applications-with-rocm/",
+      "originalUrl": "https://insidehpc.com/2020/09/accelerate-your-applications-with-rocm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/09/ROCm_pic1.png",
+          "width": 700,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T06:01:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1221,249 +1464,6 @@
       "provider": {
         "name": "Business Insider India",
         "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-oracle-open-sources-java-machine-learning-library.md",
-      "title": "Oracle open-sources Java machine learning library",
-      "excerpt": "Tribuo offers tools for building and deploying classification, clustering, and regression models in Java, along with interfaces to TensorFlow, XGBoost, and ONNX",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3574935/oracle-open-sources-java-machine-learning-library.html",
-      "originalUrl": "https://www.infoworld.com/article/3574935/oracle-open-sources-java-machine-learning-library.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3574935/oracle-open-sources-java-machine-learning-library.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3574935/oracle-open-sources-java-machine-learning-library.amp.html",
-      "publishedDateTime": "2020-09-15T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-deepmind-wants-to-teach-robots-to-play-board-games.md",
-      "title": "DeepMind wants to teach robots to play board games",
-      "excerpt": "To encourage the development of techniques that might overcome it, researchers at DeepMind created custom scenarios for the physics engine MuJoCo that task an AI agent with coordinating perception ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/15/deepmind-wants-to-teach-robots-to-play-board-games/",
-      "originalUrl": "https://venturebeat.com/2020/09/15/deepmind-wants-to-teach-robots-to-play-board-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/0963552c-4d31-4cf0-9aea-d44c0262ab4f-e1600151359544.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/15/deepmind-wants-to-teach-robots-to-play-board-games/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/deepmind-wants-to-teach-robots-to-play-board-games/amp/",
-      "publishedDateTime": "2020-09-15T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-deepminds-ai-is-helping-to-re-write-the-rules-of-chess.md",
-      "title": "DeepMind's AI is helping to re-write the rules of chess",
-      "excerpt": "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/22/bb4eab38-d3e2-4df2-97b1-00c89187ee5d/thumbnail/1200x675/a215d738dcece5fd36b570b0e7ef01a3/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "publishedDateTime": "2020-09-15T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-browser-based-models-with-tensorflowjs.md",
-      "title": "Browser-based Models with TensorFlow.js",
-      "excerpt": "The first thing you’ll need to do is add a script tag below the head and above the body of your HTML file to load the TensorFlow.js file. Below is the code to do that. Also, dotraining() should ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/analytics-vidhya/browser-based-models-with-tensorflow-js-afcd10be3615",
-      "originalUrl": "https://medium.com/analytics-vidhya/browser-based-models-with-tensorflow-js-afcd10be3615",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*npKSvz2aHjl3mzVT3bGN-A.png",
-          "width": 1200,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-get-started-in-artificial-intelligence-with-this-online-course-deal.md",
-      "title": "Get started in artificial intelligence with this online course deal",
-      "excerpt": "Artificial intelligence is a hot topic with projects using it to analyze data, to detect social bots and malware, or even to write news articles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/offer/deals/get-started-in-artificial-intelligence-with-this-online-course-deal/",
-      "originalUrl": "https://www.bleepingcomputer.com/offer/deals/get-started-in-artificial-intelligence-with-this-online-course-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/offer/deals/get-started-in-artificial-intelligence-with-this-online-course-deal/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/get-started-in-artificial-intelligence-with-this-online-course-deal/amp/",
-      "publishedDateTime": "2020-09-14T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
         "images": null,
         "publishers": null,
         "authors": null

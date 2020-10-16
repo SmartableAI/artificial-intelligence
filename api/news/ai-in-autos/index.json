@@ -313,7 +313,7 @@
       "originalUrl": "https://www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -515,7 +515,7 @@
       "originalUrl": "https://mashable.com/article/tesla-fsd-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -1212,6 +1212,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-big-plans-artificial-intelligence-run-city-campus-in-china.md",
+      "title": "BIG plans artificial intelligence-run city campus in China",
+      "excerpt": "BIG has drawn up the plans for smart service specialists Terminus Group, which will have its headquarters at the centre of the artificial intelligence ... e-bikes and self-driving cars to cut ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/",
+      "originalUrl": "https://www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2020/10/terminus-group-bjarke-ingels-big-ai-city-china-architecture-news_dezeen_2364_hero-b-852x479.jpg",
+          "width": 852,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/amp/",
+      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/amp/",
+      "publishedDateTime": "2020-10-02T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dezeen",
+        "domain": "dezeen.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-getting-started-with-aws-deepracer-community-races.md",
       "title": "Getting started with AWS DeepRacer community races",
       "excerpt": "AWS DeepRacer allows you to get hands-on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. With AWS DeepRacer community",
@@ -1410,49 +1453,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions.md",
-      "title": "AYN InfoTech Strengthens Organizations Through Artificial Intelligence And Blockchain Enabled Enterprise Software Solutions",
-      "excerpt": "AYN InfoTech is one such company that has made a formidable mark for being a leader in Enterprise Software Solutions using Artificial Intelligence and Blockchain. They have built this reputation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-9350130",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-9350130",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

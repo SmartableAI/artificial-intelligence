@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-01-ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions.md",
+      "title": "AYN InfoTech Strengthens Organizations Through Artificial Intelligence And Blockchain Enabled Enterprise Software Solutions",
+      "excerpt": "AYN InfoTech is one such company that has made a formidable mark for being a leader in Enterprise Software Solutions using Artificial Intelligence and Blockchain. They have built this reputation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-9350130",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-9350130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-baidu-fundraising-puts-3bn-value-on-smart-device-business.md",
       "title": "Baidu fundraising puts $3bn value on smart device business",
       "excerpt": "HONG KONG -- Chinese web search leader Baidu has brought in outside investors for its voice assistant and smart device business, setting the stage for a potential spinoff while valuing the ...",
@@ -1337,40 +1380,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-baidu-unveils-upgraded-products-based-on-ai-technologies.md",
-      "title": "Baidu Unveils Upgraded Products Based on AI Technologies",
-      "excerpt": "BIDU recently unveiled new products and services based on artificial intelligence (AI) technologies at the annual Baidu World Conference in Beijing. In regard to this, the company revealed a few upgrades in the self-driving space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22?amp",
-      "publishedDateTime": "2020-09-22T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

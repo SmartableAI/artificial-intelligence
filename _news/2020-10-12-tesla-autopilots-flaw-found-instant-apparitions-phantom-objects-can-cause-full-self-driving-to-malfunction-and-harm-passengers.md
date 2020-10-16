@@ -325,20 +325,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Self-Driving Cars Are Not Self-Driving–Marketing Confusing."
-    excerpt: "Motorists using active driving assistance systems, which combine vehicle acceleration with braking and steering, tend to overlook safety limitations when the branding and marketing used to sell it"
-    publishedDateTime: 2020-10-11T20:18:00Z
-    webUrl: "https://www.autoconnectedcar.com/2020/10/self-driving-cars-are-not-self-driving-marketing-confusing/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 24
-    images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2018/05/teslacrassh.jpg"
-        width: 789
-        height: 502
-        isCached: true
 
 secured: "qgdLDGcb9azESFmkawfhNClyuUq/L5Ro/uGxR1TynzNdFKA+Kkoo/uIy5+Kgy3yWDi+vIq0pF4RNUlU1p+N5KikYVnkuvZYahQZZgv/ip5aEhKvOiCYrCHKCxWXQj3AjyXfihIKwer+rcdSrpwHa9jjAvR9m+wBjm26sTD2ButA1BEpC5Es1EbYon3MlW3jVdf57mpj4CyFGT4hUSxSdvrLPa75Kl21POr63Nt7ZJDDOMmLxhp7iVPEmPmZeCUmz7cuh/Mx1q7xL+VRtxhrQ9pjw9jZEYm/ZNze3fEvjrbF4OM1JIA+3x6t2GVTzXhW2PaFPFeTORMnpks96WIRXnZMsmwl95xkwlVbTIi/QBQQ=;+MjqOjjnG4xJgnY70xE+0w=="
 ---

@@ -35,13 +35,13 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 82
+    quality: 84
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/09/partnership-on-ai.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
         isCached: true
 
-secured: "iJgpyYYWdEFDuf21/tpLxT5rDtIsIthyT8MOBZUaeetOx2uAa7P8BDqrLNJa5aobiCyBSRC41MScPK1jsE5sYymAbNyK3FFK5yWtvvYZEn6NcRzCPicA2/N1gZgJEdx9TA/7fJLXRVzKUs6ryhyxMD/yPTMbyk00rtQtoDPiDEhnUMz+EEURYt4Q3sZNI5f3KpUKfrteYVm+SvBrDLSRst4noCAt5wsFpMqo2abAG7eQvdN+R4z/g0Bec+OP0I+PijbZiFA+uX13viJ8C5cEetHVRrRLx53N3SlYxYanch/Tqy+b0Q9gBk7FASLhm2/LzUX9WwR8t55Oi686WmH4lU4Mx115XZOG+V62VmNDjWY=;sZCKjg01Ijq+vWPUBn1r7A=="
+secured: "VC79PQKm7xDq+oN/JgOEiugyDk1YXC8ADMFyWm1JQZt+HVFSd7Ha0Dt6tJD2TxkG/UfOLs1kE76OV8FoU2Cp1umXsDWTKWfgzLUdS2GZuIReyqHboaqtM39jrghoIvio8ALgjJB3LeFaU7a0B4R2ouF6yiTCYWF4PHfPBcxshDRWsmcTgND6p6wrxJZi3YHecdnLnvIYRel+lL3JB1fTDEkD7oVF7nPIv5NEGzmVL56sjNjrXh9ePLmeR4srePlTiLplnBGJ5uKx8Erfk02eFg6KaaxZ2dCcqug0zEa+o/JxEtW4yYyr2c4s65e5XlfSiB77I0dOiOFi+1G8z6N9LxvFLekQnKybDBcDZeSU9EtBkvSo+dsB77oI9WT2HziyBvpvzcWQw/IlqG2MD6CmUDVN8R1s8bTjK7vGzdSF6dIec+OqwxnAucZNQwJMJ4fwFiwUvDmp2ziDzoUlpm8qUPnEQuWsuQfzro8LcBzxhQfN+4N9JjY8nio3YaqEx3VxIXQX1EmXaECdaWrxKUXQjQ==;id85S1L4XkpuY4MTpnbs0w=="
 ---
 

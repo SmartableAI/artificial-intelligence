@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-08-facebook-is-working-on-ar-glasses-with-a-focus-on-audio-clarity.md",
+      "title": "Facebook is working on AR glasses with a focus on audio clarity",
+      "excerpt": "Facebook's Reality Labs Research wing is currently working on a number of projects designed to help us cut through noisy environments and zero in on folks we're trying to hold a conversation with, or enhance our daily lives when used with AR glasses.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/",
+      "originalUrl": "https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1fac25b/2147483647/strip/true/crop/2048x1365+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F41%2F1a%2F142f80554c73bf2b53bb42bb56e2%2Ffrl-research-audio-demo-2-2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/?amp=true",
+      "publishedDateTime": "2020-09-08T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-meet-the-8-foot-tall-robot-designed-to-insert-elon-musks-neuralink-ai-brain-chip-heres-how-it-works.md",
       "title": "Meet the 8-foot-tall robot designed to insert Elon Musk's Neuralink AI brain chip — here's how it works",
       "excerpt": "Musk founded the neural tech company in 2016, and says the chip will enable a \"symbiosis\" between the human brain and AI.",

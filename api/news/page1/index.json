@@ -148,6 +148,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-16-san-francisco-based-startup-uses-ai-powered-technology-to-limit-wasted-time-at-work.md",
+      "title": "San Francisco-based startup uses AI-powered technology to limit wasted time at work",
+      "excerpt": "Would you try this? San Francisco-based company says their calendar analyzer can target the wasted work time by tracking your schedule.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/",
+      "originalUrl": "https://abc7news.com/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/7060187_1015220-kgo-woman-on-computer-img_Image_00-00-05,10.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/",
+      "publishedDateTime": "2020-10-15T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-watson-ai-is-debatable.md",
       "title": "Watson AI is Debatable",
       "excerpt": "An AI system under development by IBM researchers seeks to move its Watson platform beyond chess matches and game shows, combining natural language",
@@ -554,7 +596,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1191,58 +1233,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-possible-reality-puts-your-face-on-a-video-game-character.md",
-      "title": "Possible Reality puts your face on a video game character",
-      "excerpt": "“Your face fits with the model of the character ... “There are so many reasons people want to do this, but recognition is one of them,” Isbell said.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/15/possible-reality-puts-your-face-on-a-video-game-character/",
-      "originalUrl": "https://venturebeat.com/2020/10/15/possible-reality-puts-your-face-on-a-video-game-character/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/possible.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/15/possible-reality-puts-your-face-on-a-video-game-character/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/possible-reality-puts-your-face-on-a-video-game-character/amp/",
-      "publishedDateTime": "2020-10-15T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

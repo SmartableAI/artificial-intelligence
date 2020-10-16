@@ -2,6 +2,154 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-07-ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games.md",
+      "title": "EA CEO teases new machine learning and AI features for next-gen games",
+      "excerpt": "EA's new experimental technologies like AI/machine learning will start manifesting in next-gen PlayStation 5, Xbox Series X games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/7/5/75521_6_ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games_full.png",
+          "width": 1200,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html",
+      "publishedDateTime": "2020-10-06T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-achieving-185x-higher-performance-for-deep-learning-based-object-detection-with-an-aws-neuron-compiled-yolov4-model-on-aws-inferentia.md",
+      "title": "Achieving 1.85x higher performance for deep learning based object detection with an AWS Neuron compiled YOLOv4 model on AWS Inferentia",
+      "excerpt": "In this post, we show you how to deploy a TensorFlow based YOLOv4 model, using Keras optimized for inference on AWS Inferentia based Amazon EC2 Inf1 instances. You will set up a benchmarking environment to evaluate throughput and precision, comparing Inf1 with comparable Amazon EC2 G4 GPU-based instances.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improving-performance-for-deep-learning-based-object-detection-with-an-aws-neuron-compiled-yolov4-model-on-aws-inferentia/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improving-performance-for-deep-learning-based-object-detection-with-an-aws-neuron-compiled-yolov4-model-on-aws-inferentia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/05/1-1-1.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T15:20:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-deepminds-demis-hassabis-on-ai-doing-better.md",
+      "title": "DeepMind's Demis Hassabis on AI Doing Better",
+      "excerpt": "The global pandemic has focused attention on the importance of science and technology. What role can AI play in solving the big scientific questions of the coming decades? And how should we respond to the challenges this new technology brings?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/events/deepmind-demis-hassabis-on-ai-doing-better/B1E79F73-609F-4979-8318-D239B3F4BF35.html",
+      "originalUrl": "https://www.wsj.com/video/events/deepmind-demis-hassabis-on-ai-doing-better/B1E79F73-609F-4979-8318-D239B3F4BF35.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://m.wsj.net/video/20201006/100620ceo8/100620ceo8_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-using-machine-learning-to-predict-disease-in-cattle-might-help-solve-a-billion-dollar-problem.md",
       "title": "Using Machine Learning To Predict Disease In Cattle Might Help Solve A Billion-Dollar Problem",
       "excerpt": "This contagious infection is responsible for nearly half of all feedlot deaths for cattle every year in North America.",
@@ -883,6 +1031,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-06-behringer-deepmind-12-case.md",
+      "title": "Behringer Deepmind 12 + Case",
+      "excerpt": "Reverb Protection has you covered. We provide a safe community for finding the gear you want. As its name suggests, the Behringer DeepMind 12 is a 12-voice polyphonic analog synth, with a 49-note velocity- and and aftertouch-sensitive keyboard. Each voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://reverb.com/item/34032852-behringer-deepmind-12-case",
+      "originalUrl": "https://reverb.com/item/34032852-behringer-deepmind-12-case",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.reverb.com/image/upload/s--ehYWLJcP--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_1600,q_80,w_1600/v1493821653/srnt2x6xtccku92gv2lv.jpg",
+          "width": 850,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T03:36:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond.md",
       "title": "This AI Startup Helps Hospitals Navigate Operational Troubles Of Covid-19 And Beyond",
       "excerpt": "M Health Fairview, one of the largest health systems in Minnesota, got an urgent message from one of its vendors: Mountain View, California-based artificial intelligence startup Qventus. The 13-hospital system had contracted the company to help streamline its operations,",
@@ -1017,186 +1208,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-iit-roorkee-offers-online-course-on-machine-learning-and-deep-learning-here-are-the-details.md",
-      "title": "IIT Roorkee Offers Online Course on Machine Learning and Deep Learning: Here Are the Details",
-      "excerpt": "IIT Roorkee is offering a certificate online course on Machine Learning and Deep Learning to anybody who is interested in specializing in the subject IIT Roorkee, through its Electronics and ICT Academy program sponsored by the Ministry of Electronics and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/",
-      "originalUrl": "https://www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/amp/",
-      "publishedDateTime": "2020-10-06T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-artificial-intelligence-to-empower-agriculture-healthcare-and-education-pm-at-raise-2020.md",
-      "title": "Artificial intelligence to empower agriculture, healthcare and education: PM at RAISE 2020",
-      "excerpt": "Prime Minister Narendra Modi inaugurated RAISE 2020, a mega virtual summit on artificial intelligence, and spoke about how technology can empower sectors",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/",
-      "originalUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/04/artificial-intelligence-4625878_640-1.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/amp/",
-      "publishedDateTime": "2020-10-05T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.md",
-      "title": "Artificial intelligence should not become weapon of non-state actors: PM Modi at RAISE 2020",
-      "excerpt": "Inaugurating a five-day global virtual summit on artificial intelligence (AI), Responsible AI for Social Empowerment or RAISE 2020, Prime Minister Narendra Modi highlighted how the use of AI will empower India and also warned against the pitfalls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsx.com/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
-      "originalUrl": "https://www.newsx.com/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newsx.com/wp-content/uploads/2020/09/narendra-modi-106034-k931Sjej.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsx.com/amp/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
-      "cdnAmpWebUrl": "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
-      "publishedDateTime": "2020-10-05T22:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsX",
-        "domain": "newsx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-for-mukesh-ambani-ai-is-indispensable-to-indias-digital-destiny.md",
-      "title": "For Mukesh Ambani, AI is indispensable to India’s “digital destiny”",
-      "excerpt": "Data is the raw material for artificial intelligence. Intelligent data is digital capital. It is a vital national resource.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/",
-      "originalUrl": "https://qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/10/2018-01-23T120623Z_329216982_RC1B30939970_RTRMADP_3_DAVOS-MEETING-1-e1601950681816.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/amp/",
-      "publishedDateTime": "2020-10-05T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

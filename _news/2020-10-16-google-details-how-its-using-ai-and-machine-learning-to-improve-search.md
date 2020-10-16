@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
       name: MediaPost
       domain: mediapost.com
     quality: 36
+  - title: "Satellites are mapping out every tree on earth using artificial intelligence"
+    excerpt: "To train it, the AI system was shown satellite images where trees had been manually traced. This involved lead author Martin Brandt going through the arduous process of identifying and labelling nearly 90,"
+    publishedDateTime: 2020-10-16T11:45:00Z
+    webUrl: "https://www.euronews.com/living/2020/10/16/satellites-are-mapping-out-every-tree-on-earth-using-artificial-intelligence"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 36
+    images:
+      - url: "https://static.euronews.com/articles/stories/05/06/44/46/1000x563_cmsv2_838c94ea-f882-5071-833d-8fd38361bc81-5064446.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "isWhZQ9JeovOd53W792sd+R19sCZBm8t8F6qR662II+1QFtufBdC66NzvBY/ScMzKtWVgDIqAyRLtH5KMu3Pf6tBtFvA216bLEizinTojFCq73wfmGoUd7UhqHdT/iEmFNufW5kSdUo0G3KCCkQAxauo9sq837jDxJzXxxGtU8RYcKOlcozhw/ipBC0DCOVP35zBBbF77wx+SeF/xaaED0wYFBFTrWmWb24Aa6zJP2FCszZlYNucoOTE2aa8fbGKzrUsu6ZApy63H9fwPwLl93GH179dZzfQgwYzFIi33SnaX8eNW1S543ceZKXQSXDbVFOEAuhj1HX8wHgWGKCADIXJqI1dtrl9LkD7JHLFG/A8uZwANJxSJPwHdxIBkbuVwjwfVmFu3CNC9+q8AuYsZBa/koshn7W3IqDDVvTHGjul9DEh7pSonnDwoijU57jIwzqhhUBGL3ENv9tzKINWXg9WYJ58VuPfE5n5PZdkT+pJAO6Aw0aOKRwsG8CfS+9BYmehrGdIC2PWmaQAs0GsHA==;98P5lZ3+uP6u7mqo+phJ7A=="
 ---

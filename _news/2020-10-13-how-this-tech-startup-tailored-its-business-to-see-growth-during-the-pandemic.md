@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/10/tech-startup-mirrorsize-business-growt
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/tech-startup-mirrorsize-business-growth-pandemic/amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "After pandemic slowing, this diversity-focused startup sees new growth"
+    excerpt: "Navigating the pandemic and protests caused by racial injustice, diversity, equity and inclusion startup Kanarys has seen its business shrink and grow with the current times."
+    publishedDateTime: 2020-10-16T13:32:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2020/10/16/kanarys-mandy-price.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "XIjsjXMf5XwLBMYdmmsopNegt4UcYNvjnhhEVXX7hdZeOBYkM+5EC4Qg1RrlUULs7D66ec2xTPSJQ5bZTjot1/4VXbLM8l5axZOMlUicXM7qUUpkZ/HpFs9D8dvaxxsajNDLskFzdBoPHVKS7VeUNtwvLLrTFwPvYDyoWhsWhbB+/GcV8N9Zh8KeZu30lAcbjbX1UB4uqDX+5suw1Ji5DcXyMZBryIXvPJBVLCSPF/6qlAMG/IqGd3+5xcS3fUYeZ/t7Phu8DcAqFdI6v+86cEsmgbphatG/igjdPlnekF4JJuaqslCdySzlqB0GAYPPosxNTnoG/piECbmgvdKpWpf7fGGno/os29lGu5TpaxM=;tvS7f0pNsJyZwrbcfVzccQ=="
 ---

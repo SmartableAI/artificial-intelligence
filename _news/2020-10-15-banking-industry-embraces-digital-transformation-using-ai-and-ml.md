@@ -106,6 +106,20 @@ related:
       name: MediaPost
       domain: mediapost.com
     quality: 36
+  - title: "Satellites are mapping out every tree on earth using artificial intelligence"
+    excerpt: "To train it, the AI system was shown satellite images where trees had been manually traced. This involved lead author Martin Brandt going through the arduous process of identifying and labelling nearly 90,"
+    publishedDateTime: 2020-10-16T11:45:00Z
+    webUrl: "https://www.euronews.com/living/2020/10/16/satellites-are-mapping-out-every-tree-on-earth-using-artificial-intelligence"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 36
+    images:
+      - url: "https://static.euronews.com/articles/stories/05/06/44/46/1000x563_cmsv2_838c94ea-f882-5071-833d-8fd38361bc81-5064446.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "plaONiyvFw+uDmGgYEE/LpR0Jf6KDKarp4q863lqf7NJsd61MtPDQy4/K02olokPc0ObgdEJh1VjKnfq9zKFs3dUCM6MJdQoHCRn4XjVeO2ARSl53lobY/3PMQp3dK5b+QxkyxI5V4ArLZUMAvgJq8m7pZYKsTmZ6xfzY3FTbmwdPI9YvrZczJPpEvWTasKfMMQbsNGkou24xeGbrKYWJOPOWL74Cgvuo7E/9Cg/D5eF9v2g0P2urjYHeIs9Q40YcZOyllJf1ijoq5Gt+dOag6llUbS2tNAXEOqZ91Y2jmgtjN2ONbOTBCCGLvK/Gjb8Pax/I+xgGnw9wnGILN35SepavmgZaNi5ibFdqnvAPbkyejoyfGNrJ1rYxEzDXMM6uq+pW3O3vCrOc4w/qzwZlYV0Lzvm3CPl9fJxcQ3LLqIRsy1NRXo0rcFogcqI4bqTk9gcy+AlSuRA4JprC+lXBX4ybdNT7gXf3zLuBUYhqnuPssEfZgujIXuXPQuj8tWqfkqhdzbuZbxtDzlBxRG/BA==;O/2Sjc/ZVVOkl7GUaSa4UA=="
 ---
