@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-25-vietnam-ai-platform-rules-language-programming-contest-in-japan.md",
+      "title": "Vietnam AI platform rules language programming contest in Japan",
+      "excerpt": "Vietnam's artificial intelligence platform FPT.AI ranked first at SHINRA2020-ML, a contest to classify 30 Wikipedia language entities in fine-grained categories, in Japan.",
+      "sourceUrl": null,
+      "webUrl": "https://e.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "originalUrl": "https://e.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-english.vnecdn.net/2020/09/25/Untitled118-1601018890-4769-1601019122_680x0.jpg",
+          "width": 680,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ampe.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "publishedDateTime": "2020-09-25T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VN Express",
+        "domain": "vnexpress.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-staying-compliant-in-any-language.md",
       "title": "Staying compliant in any language",
       "excerpt": "Financial professionals communicate in multiple languages –– including with slang and emojis, and firms need to remain compliant.",
@@ -1373,49 +1417,6 @@
       "provider": {
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-speech-and-voice-recognition-market-trends-share-industry-size-growth-2019-to-2025.md",
-      "title": "Speech and Voice Recognition Market Trends, Share, Industry Size, Growth 2019 to 2025",
-      "excerpt": "The speech and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025, reaching $26.8 billion by 2025. Speech recognition is the process of using a phone to digitally ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2132851/speech-and-voice-recognition-market-trends-share-industry",
-      "originalUrl": "https://www.openpr.com/news/2132851/speech-and-voice-recognition-market-trends-share-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T911971836_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2132851/speech-and-voice-recognition-market-trends-share-industry",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2132851/speech-and-voice-recognition-market-trends-share-industry",
-      "publishedDateTime": "2020-09-11T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

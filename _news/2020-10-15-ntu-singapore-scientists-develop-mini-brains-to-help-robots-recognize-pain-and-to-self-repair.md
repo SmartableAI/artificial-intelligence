@@ -41,6 +41,29 @@ related:
         width: 2500
         height: 1407
         isCached: true
+  - title: "From AI to facial recognition: How China is setting the rules in new tech"
+    excerpt: "HONG KONG/BEIJING • Mr Zhao Houlin is head of the United Nations' telecommunications agency, an independent international arbiter that sets some of the rules shaping the modern technology industry. But that does not stop him from letting his patriotism burst into the open."
+    publishedDateTime: 2020-10-14T22:48:00Z
+    webUrl: "https://www.straitstimes.com/opinion/from-ai-to-facial-recognition-how-china-is-setting-the-rules-in-new-tech-0"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 53
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/10/15/st_20201015_ftsinotechhuiw_6020007.jpg?itok=j1ad5Bac"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Voters to Decide on Strengthening Facial Recognition Ban"
+    excerpt: "On Nov. 3, Portland voters will decide if an ordinance that would allow citizens to sue the city for illegal surveillance and require the city to suppress illegally obtained evidence, the Portland Press Herald reported. In addition, violations of the ..."
+    publishedDateTime: 2020-10-12T21:56:00Z
+    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2020-10-12/voters-to-decide-on-strengthening-facial-recognition-ban"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Hyundai's new Singapore R&D hub features helipad for flying cars"
     excerpt: "Hyundai Motor has begun building a research and development center in Singapore for next-generation applications such as artificial intelligence and driverless technology, the South Korean automaker said Tuesday."
     publishedDateTime: 2020-10-13T14:12:00Z

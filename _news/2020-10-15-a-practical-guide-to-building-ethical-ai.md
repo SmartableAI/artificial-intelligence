@@ -2,9 +2,9 @@
 category: news
 title: "A Practical Guide to Building Ethical AI"
 excerpt: "In this environment, data and AI ethics are business necessities, not academic curiosities. Companies need a clear plan to deal with the ethical quandaries this new tech is introducing."
-publishedDateTime: 2020-10-15T13:06:00Z
-originalUrl: "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai"
-webUrl: "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai"
+publishedDateTime: 2020-10-15T00:00:00Z
+originalUrl: "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai?ab=hero-subleft-1"
+webUrl: "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai?ab=hero-subleft-1"
 ampWebUrl: "https://hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 400
         isCached: true
 
-secured: "c8uDH3HiF6XkShaxWJ+HM9MWqlqhxyZc6FCvhvYVEvodcAIOq57xE5FDUsrJX5ujXJDQy5Tst+Edt26R0e3e9wBsoIgePVqGAQX9c8olxGVVgPkZQd2kE5ehnTPhGQ2wSGoHTYdTIW3A+++FqXsL4J/LY0GWoymUc9AVvNOTiIulS5JGZ/p/Ela4enadNTyj5NlCVGI7yVaCG7W+k4VLfFe1D3fPBUVEmKD5tAI9aE82X6Cixu7tIqmVKfE3wPOaKYygUZV3LlIjvBgeuMS9GHP6eUujlCJ9+uOkmEmmZhrUdSLmqOk9ws68Nye9dEKftYTABYkuZnm0wc96wWnGJYzSMqd+EL+Qn3uq2BH2ZNUR3sBemYn6MgWDdn35aEHKtucrPP9tdbkMRDxd5FiUnL8G3YYaJuM2KkFl7Kc9Qo1DiA0CmUag1pAyUrLeVIL2Pcsc4QS60MfuM+9zjq6RzgEftHgtUAy40G1n9sqSUojxDR3KbWXYZQ6kz6qj5j8Z6HdlWc/PRxiBi5qXjj3ubg==;hKXn3QZwQrY7h3Q3III70Q=="
+secured: "utOvusR7rq4WYbf1DoRCKjnz5VdJn63cssyXidilFP2T4axXyJ6njBOzGKYBsr3CIZiVm1nsDGg0pUzsY2lFCgJWCPjfBg6x4VKZOT/5SJ0elsScXOOz0scFA1uWv8cLKAwoBqpfFI9aXM1i5PaGoyGXNCzphuGsdWcv234fKJVUPNuMOKzQuDh0GNO3dO7MEm5Xufw5e1apYbl57zAEHJlfb5Xk3WK358uBjMycX2/nZqkOHFTnoYFP/5t/iC9Hdk8WGbRGQo1av+KwFbVpxj+phSJgHBUwI30mYCMqCoy7e+OZ+FfxrY+2GBOdlu0I2AiHp2VJ84PRol5mCF4Uzf0oAj3GM1iwHYus41W5CGE=;4l2pIZ6u6E+aTFKoWz90TQ=="
 ---
 

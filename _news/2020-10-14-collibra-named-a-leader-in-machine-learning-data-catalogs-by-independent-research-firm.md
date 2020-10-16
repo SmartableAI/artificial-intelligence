@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Collibra Named a Leader in Machine Learning Data Catalogs by Independent Research Firm"
-excerpt: "Collibra, the Data Intelligence company, today announced it has been named a Leader in The Forrester Wave™: Machine Learning Data Catalogs,"
-publishedDateTime: 2020-10-14T16:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/collibra-named-a-leader-in-machine-learning-data-catalogs-by-independent-research-firm-301152416.html"
-webUrl: "https://www.prnewswire.com/news-releases/collibra-named-a-leader-in-machine-learning-data-catalogs-by-independent-research-firm-301152416.html"
+excerpt: "Collibra, the Data Intelligence company, today announced it has been named a Leader in The Forrester Wave™: Machine Learning Data Catalogs, Q4 2020 by Forrester Research. Collibra received the highest possible scores in the security,"
+publishedDateTime: 2020-10-14T16:32:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/collibra-named-a-leader-in-machine-learning-data-catalogs-by-independent-research-firm-1029680475"
+webUrl: "https://markets.businessinsider.com/news/stocks/collibra-named-a-leader-in-machine-learning-data-catalogs-by-independent-research-firm-1029680475"
 type: article
-quality: 31
-heat: 31
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/238849/collibra_logo.jpg?p=facebook"
-    width: 2159
-    height: 1132
-    isCached: true
 
 related:
   - title: "Alation Named a Leader in Machine Learning Data Catalogs Report by Independent Global Research Firm"
@@ -40,6 +38,6 @@ related:
         height: 450
         isCached: true
 
-secured: "4wP558i1m9XxE2y0oWGgu+m1EN7UX4w7/oBHwA5+EvQF35pRxvc4wVEozdN9NN6SjkXH0XJUS8v0AuIUo8sunuOBX+e47JHrz818ZvaUv530k1mVQmyi3ytazfHZ8UnkUmjiQ8PnofRb0ouiOtmDjAUnaDajYoO46bh7jU3Fhu2kFs6a41p5WgPSc/JNApO3EMuzfBVP70m8GoFwY58rl3XiYt9PBkniHloGj8csO4lpuaKKUURsY2LIiYlAzcArpCgO4/v4B8/NbL4Og49DH1n8Ty0Qq8IO9ogbp+SeB8B5WGHx3ZM7ayv7brzeuT7fAvuK9vyUTtkgemXMpsZn9UyLckeKd3PwhKFj8JAuIYY=;/I8+T94DH9KSqV5UB6GNpw=="
+secured: "C1BB/WPyjZ6R+BkTRXFwdBKfJX6/TN9hcdwZ8riGKIkoo0hSbFUAeiSDVWePUnEWHvey+9U3kevd8Z0DBv7PCjhL/svhH4Y7h09T0/yMOH371EGSo5awAC+pgNOhGSCzGVGs38f4cqI6B74tJbcZ28lHVh5HCBXgqllcto0JtgPFB9vCTdLgMa0LraBoQ6429VaNiRiKhLKSNIHzjs1qQMVHzWG1OM56KssTskGDbZ/xsszb5w8yV1x9k5B/oqamBWlc5W7CzzJkmYAbD5U9uGUJypNvalm6sM3sFDsDMqPNqOyEZZOTcrnu8b/82KlEnECpO+YDEPp9IKsMwSTIg20as/oXYQLDDhSA6eQ8mCA=;iYbDevOQXDcKSZojbyFXUA=="
 ---
 

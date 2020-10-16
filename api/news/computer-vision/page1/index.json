@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-facial-recognition-deal-too-weak-to-protect-maori-data-sovereignty-specialists.md",
-      "title": "Facial recognition deal too weak to protect Māori data sovereignty - specialists",
-      "excerpt": "Māori data specialists are warning a new government facial recognition deal is too weak to protect the public or Māori data sovereignty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rnz.co.nz/news/te-manu-korihi/428426/facial-recognition-deal-too-weak-to-protect-maori-data-sovereignty-specialists",
-      "originalUrl": "https://www.rnz.co.nz/news/te-manu-korihi/428426/facial-recognition-deal-too-weak-to-protect-maori-data-sovereignty-specialists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rnz.co.nz/assets/news_crops/107655/eight_col_121526165_l.jpg?1597745835",
-          "width": 720,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.rnz.co.nz/article/72385c3e-ef9f-4056-85f8-5beb92f3574e",
-      "cdnAmpWebUrl": "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/72385c3e-ef9f-4056-85f8-5beb92f3574e",
-      "publishedDateTime": "2020-10-15T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rnz",
-        "domain": "rnz.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-15-possible-reality-puts-your-face-on-a-video-game-character.md",
       "title": "Possible Reality puts your face on a video game character",
       "excerpt": "“Your face fits with the model of the character ... “There are so many reasons people want to do this, but recognition is one of them,” Isbell said.",
@@ -130,6 +87,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-best-facial-recognition-security-cameras-to-buy-in-2020.md",
+      "title": "Best facial recognition security cameras to buy in 2020",
+      "excerpt": "Select home security cameras have facial recognition, an advanced option that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
+      "publishedDateTime": "2020-10-15T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -264,7 +273,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/singapore-facial-recognition-getting-woven-everyday-life-n1242945",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 139,
       "tags": null,
       "images": [
         {

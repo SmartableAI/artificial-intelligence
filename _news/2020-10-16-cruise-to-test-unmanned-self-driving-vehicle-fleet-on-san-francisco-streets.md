@@ -28,15 +28,15 @@ related:
   - title: "Self-driving cars can be forced to brake by hijacked billboards"
     excerpt: "Security researchers have demonstrated how hijacked billboards could be used to confuse self-driving cars -- forcing them to slam on the brakes, or worse. Autonomous driving systems have come on leaps and bounds in recent years,"
     publishedDateTime: 2020-10-15T09:26:00Z
-    webUrl: "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 54
 
-secured: "UqXRgFR/T8qZssTMz8TxHo6YbcVRwfiZWA4VoqwLf8wB0Pp1Zi1EdfxTuWOtYjSB5MGA0Va71pZRWzWPAXPiermJmVwXS+JfqJSDd2CHsL54QBPasaN7L+73LQEJDxGU4O910laREnwjKwVvgEjqo6DacT5jSEe2E+Mgx5fXt9DTxcY7ca/3d4O6NfvCkHNPmng4xlGDl6NbzPTQ111NzWacv/r3RmoBv4nM5qMatKGi4+9lxZPvmVUcheNrL2tnqS7CdqoruT5KoXRrumxHC7d/zMPM+NrgTOP7klIZjRmFdev948yiqaNbAihF3195FaWE70sQIj4zdG1rRoeAVFzqOP2IZ+1GbMYC1z+MZ3M=;fllYLSeJ4PeTvFTnFUZ5WQ=="
+secured: "yQCfKtDGF55wEewYWaOIOkdlLJ5L5uM1DxzndP7nNLn/HlvknGM69jB1E277eBXOmiHOzfYyV/JCUyCEmTkow9sl6T0ze5vPZE3HN4vVqWE4IO4KHKxy2rxbtSef5I2ztiCDnPP67aAg/W1D/dDLHGmaAp9NCi2Pm5BbGPhlHDfmuJ//Pcun4AKIuyf+kVE/3dmOMXRIZiJVMR0bmpPx9dSmLYL7QXxplC7KMcSr4XyHx1JnwczH+T5yjsl0Xf7Piij23sAdw8OapL1MCJb/LtkwzppWeCEyO4BsmAqcTqQhJzbfiRgZjcECiQuWIjxAASYKl9176cRlGt5smd36VMkt9mJPzwj+/j7THM+N9dddXNRbIr6fysO/P4nm15bVkvaVbZWLFKRoluSfsUPTX8eJHoq/Hp+pQj+/zeTEmL3cdlSENCGwVZr6OvDWMmzJMNsosh9cvdyTqfy4lO030xKuUf40QkkmS4RoIbrHCIFe3ps2rZ9MDe0TY6gciuMl4pGChbpjH8NoOdv6Gb/5aA==;s1xKwmUEYN6FJ+LxEY/Jpg=="
 ---
 

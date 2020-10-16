@@ -31,6 +31,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Udacity and Microsoft partner up to launch new machine learning program to skill students"
+    excerpt: "The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learn"
+    publishedDateTime: 2020-10-15T11:08:00Z
+    webUrl: "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/articleshow/78680180.cms"
+    ampWebUrl: "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 67
+    images:
+      - url: "https://www.businessinsider.in/thumb/78680236.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
 
 secured: "A8olzjRqpr+D9lkNAFjJijEtiMOW5cReLX0ne1BGgkJMuvKkZbWgJutAXB6srglUvINsg+Zu0Hv2NEqDC2ZoF9IKb7qWAbUaGzCY0zI8R25NKnEtL6lK/t1DVtcsRQ7ItIZ7geTGXU++w57TUE9rIwfj9C+Fl/jl5rT4ab7qM1kLNUZj9C+EhtbNnmPQ0SetVY9LmfdH2jRwrhvlql1HrIfi5nw6bo6L/76Gh005baFNfpry1nYOT7LZueAhmcczw5EuQZfKlE24M153JhDBJKMn2mJCBi7Nyjw3pUMEY29dWaHb5aNImla719xRb0SpHg4dx69J+kBd0VFWc2KfRbzhDVjgGgwsjkJvaEsMJ+8=;tDmwQtGo/5e9MdI4tAF2iw=="
 ---

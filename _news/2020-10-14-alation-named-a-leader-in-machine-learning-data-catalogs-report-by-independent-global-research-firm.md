@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "Collibra Named a Leader in Machine Learning Data Catalogs by Independent Research Firm"
-    excerpt: "Collibra, the Data Intelligence company, today announced it has been named a Leader in The Forrester Wave™: Machine Learning Data Catalogs,"
-    publishedDateTime: 2020-10-14T16:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/collibra-named-a-leader-in-machine-learning-data-catalogs-by-independent-research-firm-301152416.html"
+    excerpt: "Collibra, the Data Intelligence company, today announced it has been named a Leader in The Forrester Wave™: Machine Learning Data Catalogs, Q4 2020 by Forrester Research. Collibra received the highest possible scores in the security,"
+    publishedDateTime: 2020-10-14T16:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/collibra-named-a-leader-in-machine-learning-data-catalogs-by-independent-research-firm-1029680475"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/238849/collibra_logo.jpg?p=facebook"
-        width: 2159
-        height: 1132
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
 
 secured: "IHg0l4FZaSdS3ZS5F7ALdjlX/9Qp8L6zdn3hceUPxPMeiKu77Jml+Flf7sP5OdFp6WyIXU+A9ox1w9jHSZaRh1YBG24CSxUG/+m5M2PekswBGy2rhs+OTM4hGVmrnWMhAyq9xSk1TcJBm9NODxH8qcV1O0CSJbFAGVmRIap8Joowc7i8ooDxY1WoqI2bnye+E/OlJjShaZnNVlLSpaj6awb/W+W4UuimF7Z4ttq9YjB4p5k4OqmRCumiE/djC1q5v/GLU8HXpUgTsIRyLRUla1ZSK0jd99bZOczvHWD5GE/RNEeAgCbqpedp+CE731QIPiqiYGzZXbKF1QRSNpGmwTLhf8JV8e8s2QRmkP1GWh4=;xWG6oiKDEyCF1Ii9y93qAw=="
 ---

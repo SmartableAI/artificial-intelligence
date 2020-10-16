@@ -10,7 +10,7 @@
       "originalUrl": "https://www.datanami.com/2020/10/15/watson-ai-is-debatable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -49,8 +50,8 @@
       "title": "ServiceNow, IBM to integrate Watson AIOps, IT service management",
       "excerpt": "Under this partnership, the two companies will initially launch software that will use ServiceNow's IT Service Management historical incident data to train Watson AIOps algorithms",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
+      "webUrl": "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
+      "originalUrl": "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
       "featuredContent": null,
       "highlight": null,
       "heat": 124,
@@ -58,8 +59,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/",
       "publishedDateTime": "2020-10-15T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

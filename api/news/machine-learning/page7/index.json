@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-08-28-using-deep-learning-to-study-how-mental-disorders-affect-the-brain.md",
-      "title": "Using deep learning to study how mental disorders affect the brain",
-      "excerpt": "Georgia State University researchers are working to harness deep learning and artificial intelligence to learn more about how mental illness and other disorders affect the brain. Led by Vince Calhoun, Distinguished University Professor of Psychology at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx",
-      "publishedDateTime": "2020-08-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-28-frost-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning.md",
       "title": "Frost & Sullivan Recognizes LinkShadow as Innovation Leader in User and Entity Behavior Analytics Based on Machine Learning",
       "excerpt": "Frost & Sullivan has named LinkShadow as a top industry innovator in the Frost Radar™: User and Entity Behavior Analytics Based on",

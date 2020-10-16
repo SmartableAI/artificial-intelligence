@@ -2,6 +2,49 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-09-02-elon-musk-unveils-updated-neuralink-brain-implant-design-and-surgical-robot.md",
+      "title": "Elon Musk unveils updated Neuralink brain implant design and surgical robot",
+      "excerpt": "Elon Musk's neuroscience startup Neuralink has revealed the \"dramatically simplified\" design for an implant that aims to create brain-to-machine interfaces, alongside the robot that will insert it and several pigs that have the device installed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/",
+      "originalUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2020/09/neuralink-elon-musk-woke-studio-technology_dezeen_2364_hero-1-852x479.jpg",
+          "width": 852,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/amp/",
+      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/amp/",
+      "publishedDateTime": "2020-09-02T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dezeen",
+        "domain": "dezeen.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-xanadu-launches-quantum-cloud-platform-plans-to-double-qubits-every-6-months.md",
       "title": "Xanadu launches quantum cloud platform, plans to double qubits every 6 months",
       "excerpt": "Xanadu, the quantum computing startup known for Pennylane and Strawberry Fields, has launched its photonics quantum computing platform.",
@@ -1111,40 +1154,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidia-announces-rtx-30-ampere-gpus.md",
-      "title": "Nvidia announces RTX 30 Ampere GPUs",
-      "excerpt": "Nvidia (NVDA +3.0%) officially unveils its GeForce RTX 30 Series GPUs based on the Ampere architecture.The GeForce RTX 3090, 3080 and 3070 GPUs also utilize the second-gen Nvidia RTX PC gaming platform for real-time ray tracing and AI gaming.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3610560-nvidia-announces-rtx-30-ampere-gpus",
-      "originalUrl": "https://seekingalpha.com/news/3610560-nvidia-announces-rtx-30-ampere-gpus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

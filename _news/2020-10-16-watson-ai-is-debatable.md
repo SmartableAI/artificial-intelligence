@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-15T23:39:00Z
 originalUrl: "https://www.datanami.com/2020/10/15/watson-ai-is-debatable/"
 webUrl: "https://www.datanami.com/2020/10/15/watson-ai-is-debatable/"
 type: article
-quality: 54
-heat: 74
+quality: 56
+heat: 76
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/Watson_Smarter_Planet.png"
@@ -54,6 +55,6 @@ related:
         height: 590
         isCached: true
 
-secured: "VzXzTznOL8+1Yo06IYLdgTEop+O3ZMUKBCeMHCPuxHBFLBzJo7Asng/u0m6ylPFJKbBQXT1wpE8q7zABPmt3hdUeApzBkuSOF8vRDxYPNhF5yHcHPcOEsLpMJzxE1a/E7Z00W+POX8NhpZaRTYgnzb9sAEmQsBo1MUaLm8fg8ozcbczDuOjD2y3ZHzN/90GGbGJjy2pxqIPfmlj8GOq5QRQMZm/FS5/VZJUEeGNS/2kf+LgemJNf08Z5IGox7udij4rd4q+WqmThLsqvH70/8EwucGOc2uANJCAakeim5scCIM7g16Q5kNDutdwhbCTC6Goa0lSXG8Yuze1GW2yCzJOLl940ic6mRke1aCJ8/k4=;4N0L2MxyYBuaBTbME5JfVw=="
+secured: "UrGryhIceHDn3VWTzjyL2WrJ9SNMPPNnmdM5UN1LZy4BueYc5gd2Qz3/y5UvWnuliu0NXXnz1FlgA/P+NiW5Bue9JyzOl5m6qmU5coKl+HKKnXeRoKK153J9ERD1ZkMm5Wqru9gPGnnMmtSZ8KCxzMc7ZSW2Y6I4jNl9c6/unRXqdohC+NnuiK231glHHhg0Y1YSakeez7QYCvFjF29oXgHHcH9TaqxjegbQFUtjhgzTV5MNGIbGsGR1qPjmT011NkPuQm6ugktkqXlyDs0ksxxXPRoHqlitgr93esPUFzMyt63yJ30APSYKrGObpqVv8HCoeZVqtxPlG5l01hbALV5CI50pP/PU6eBcv09lFA1ABKxCKOS6lat2MPI0NX0YmPZulBlOJCX015ljsLYVDgp/35eWZD1tj9L120i/z+Vp/l0WAkUn0jp6fBVVumcxLtm6f9c7X4vh03EfYiydpglPQEtW5l40O2nHD7MdVb9XebGfz0lHEb4aGOTD8a1/gh3szW72DiW4uRuSz3r5mA==;JcmjEPxXxqQaMtqOlqxnPw=="
 ---
 

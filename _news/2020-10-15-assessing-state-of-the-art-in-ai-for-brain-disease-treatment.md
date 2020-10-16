@@ -38,20 +38,6 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "Case Western Reserve University using AI to predict disease outcomes, improve treatment"
-    excerpt: "The work being done by Anant Madabhushi and his team at Case Western Reserve University could make the treatment process less of a mystery. Madabhushi is director of the Center for Computational Imaging and Personalized Diagnostics and the Donnell Institute Professor of Biomedical Engineering at the university."
-    publishedDateTime: 2020-10-11T08:00:00Z
-    webUrl: "https://www.crainscleveland.com/technology/case-western-reserve-university-using-ai-predict-disease-outcomes-improve-treatment"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 29
-    images:
-      - url: "https://www.crainscleveland.com/s3/files/styles/800x600/public/CWRU%20AI%203_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "m9quk3SfmkPtoFLgzBAV8+vghYe+0hu2N1LUmsoBh/PWL8hGZtCo61pF6OYRb11GJ2us1HD1x169rO3tshcLLKbMuM0tFve+vOkwvKQuT0OHJHl3Hy29Ma3bRrAI9k4RKnxxioIk/db8Z7AZ6QunvRaszL4U/pjwHKuh0FV5KxWljYfrslGr/6/5ShwXpCDQOHVDdo+Qb7w4rpGDOEv6Rbl3acdunUQwd98BbxhKERi91Onm7olSU1Obtx8bY3IMIFJjj4vdZ0HJ4vLMp4CDH5bLQ9O79iSxZNUx8TKYUzpvUWhDZErbuZLCQ4zT0swmpOo9FosWDG/PWSARIlx/Eo+jJUyj0eDgH6adbdl5bWg=;niwRyD1aHxVk4AGB43pW4w=="
 ---

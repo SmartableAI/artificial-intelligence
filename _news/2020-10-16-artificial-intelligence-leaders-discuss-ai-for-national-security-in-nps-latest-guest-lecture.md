@@ -3,11 +3,11 @@ category: news
 title: "Artificial Intelligence Leaders Discuss AI for National Security in NPS’ Latest Guest Lecture"
 excerpt: "The Joint Artificial Intelligence Center (JAIC) is the Department of Defense’s lead organization for accelerating the adoption of artificial intelligence (AI) across the services. And it’s a critical role,"
 publishedDateTime: 2020-10-15T18:30:00Z
-originalUrl: "https://www.dvidshub.net/news/380985/artificial-intelligence-leaders-discuss-ai-national-security-nps-latest-guest-lecture"
-webUrl: "https://www.dvidshub.net/news/380985/artificial-intelligence-leaders-discuss-ai-national-security-nps-latest-guest-lecture"
+originalUrl: "https://www.dvidshub.net/news/380988/artificial-intelligence-leaders-discuss-ai-national-security-nps-latest-guest-lecture"
+webUrl: "https://www.dvidshub.net/news/380988/artificial-intelligence-leaders-discuss-ai-national-security-nps-latest-guest-lecture"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: dvidshub.net
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -32,13 +33,13 @@ related:
     provider:
       name: United States Navy
       domain: navy.mil
-    quality: 20
+    quality: 22
     images:
       - url: "https://media.defense.gov/2020/Jul/26/2002464378/1460/1280/0/200730-N-ZZ999-0001.JPG"
         width: 1274
         height: 1280
         isCached: true
 
-secured: "rydjG3QXKuqjljWdMfk75I0QRae6M2mPwXQh7l4MLND91D5cbjvGbOLC50ikCNUjnwsg3RIEULbGVj9eUTZNKckGhDlrKim9PAKkrBy5Bftr9VTX8Qs0pP4/lCFb7zxby41svjY3ckziePYqOs5J7SB7Cu4qTwMzg/T52WXMtgiFiHdx7v+YjktkANE/fVNE9k6kKqM6HdRh7pVTpIr826figI9iJObakWl9anncb+pPJe1xmMomLxIcVzkG1bSsjW+juvwxHW1sCkZLB1+MnN12iN8Me+0B4K1Umbm6n80mMocQSFndGJK2w/QbAOPxqcLIrHabE2UQ3f8P7zZbZSpeKLYzuhHKN6hqh7/2H5A=;XjUoNn/q+rzK0jTmLj2Emg=="
+secured: "h+CrusZMEslO5gi6q3S4laxNqu+dBoMcyOH9uqySZ/E9gjZM6VuQ/9uR0iMF61uJZq3MmyHq0euH6aFL1kdk1ESPPOkGh6eOz/VmYUqdFtr4Uvcs9diU30FQw5D2n+S0RFv0CU/LuEeyhcIKohCTvkKf9ADs9/0o1JxDqzDim0tt3hTwDBDLKNVOA73pmcTnOOoPs2+cUx+19DvyxkcKcJFe7YdNHUuV6JCiorauPavE/hVh/qls7uJCv9HiyEtwpGnI+E9PmIRDXlaLQoEXX5fHpKhyqApo728rsPm8gYUd9BZsRs9PINvzRF+SLf5gPhatvZUHtmLyPUtXVhbIZYn5+L4TzZ/HUWG/U5TgAus=;D8oH/kOClC0yYEjlXIzxiA=="
 ---
 

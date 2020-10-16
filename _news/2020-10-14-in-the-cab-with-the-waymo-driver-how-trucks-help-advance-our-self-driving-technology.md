@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Uber's self-driving-car business has fallen behind Waymo and Cruise — here's why the ride-hail giant might give up on ATG"
+    excerpt: "After the indictment of a former executive and a fatal crash, insiders, investors, and experts question whether Uber ATG can turn things around."
+    publishedDateTime: 2020-10-16T01:09:00Z
+    webUrl: "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/5f886decd260780019341961?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Hidden Factor Steering For Trouble In Latest Elon Musk Versus Waymo Self-Driving Cars Squabble"
     excerpt: "Latest spat of Elon Musk and Waymo highlights steering for troubles in self-driving. getty. There is an elephant in the room, but it seems as though nobody is noticing it. In the"
     publishedDateTime: 2020-10-12T16:01:00Z
@@ -72,6 +88,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/105600216-1543518019363cruiseleadership.jpg?v=1543518088"
         width: 4000
         height: 2667
+        isCached: true
+  - title: "Waymo Has Launched a Self-Driving Taxi Service"
+    excerpt: "The age of the driverless taxi has arrived – at least in parts of Phoenix, Arizona. Self-driving car company Waymo, owned by Google’s parent company Alphabet, announced its autonomous vehicles are now available to the general public (or at least paying customers)."
+    publishedDateTime: 2020-10-16T00:40:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/10/waymo-has-launched-a-self-driving-taxi-service/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/10/waymo-has-launched-a-self-driving-taxi-service/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/waymo-has-launched-a-self-driving-taxi-service/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 59
+    images:
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/16/waymo-self-driving-taxi-1280x678.png"
+        width: 1280
+        height: 678
         isCached: true
 
 secured: "plSGLEGwj/DFQRfC0ZCgMqcyYulliw8ap3fPZ8yRpxTX11jHIS9H9+NWTv6SvkUynOEImKISXIJ4/U+TsL3PztvJ9CfuT2IHjRZ+VitoeWjuNzuxXAqdbVAvpUnfNVmed0MYzdg63r7MYwD4WNuQC2DrdvNPFmipyVv+KPCazK/Tr2ceapNE05Zm2wrnZEyy5/vdA3Q0x5m2cg8lx4gFoOlYRcr+vi0aDyz2DnPN2fMTsTkfKp3MfH0CPVz5RQ94/MFhPXPeSV96jxXSLTCoJBAKF2e+MeAQRL5sNSQR+qDKS0lHD22Ln5tXdN4/FpxHF7JyGJgS8WFtwItXjzKxu+3mP80VIZmhYnO3CrUqoKJBIU74dQ4+JZblzuHJVvtNANevOodl5CcbNF2xixeRhVd6771C9PUZpbK16Xoob2lbteOvKiPIZZJX6WewdxfKxcqbRXSMNX8mTvWIfz87cXP+7HWU3AOpqIhNTlkd+SylXtBDqVRqgdF3zQy22knrWaGm2eJodZ8DApvRmLzc1w==;Tn/L5K8BqhybwnrTi8pL2w=="

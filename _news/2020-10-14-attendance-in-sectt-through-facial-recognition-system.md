@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best facial recognition security cameras to buy this year"
-    excerpt: "Select home security cameras have facial recognition, an advanced option that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face,"
-    publishedDateTime: 2020-10-11T08:42:00Z
-    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-this-year/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Best facial recognition security cameras to buy in 2020"
     excerpt: "Select home security cameras have facial recognition, an advanced option that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ..."
     publishedDateTime: 2020-10-15T08:08:00Z
@@ -73,6 +57,22 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "J&K Civil Secretariat staff to mark attendance via facial recognition setup"
+    excerpt: "The use of the biometric attendance system, which requires people to put a finger on the surface of the scanner, was suspended after the outbreak of the coronavirus pandemic in March this year"
+    publishedDateTime: 2020-10-13T18:33:00Z
+    webUrl: "https://www.business-standard.com/article/current-affairs/j-k-civil-secretariat-staff-to-mark-attendance-via-facial-recognition-setup-120101301562_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/j-k-civil-secretariat-staff-to-mark-attendance-via-facial-recognition-setup-120101301562_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/j-k-civil-secretariat-staff-to-mark-attendance-via-facial-recognition-setup-120101301562_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/26/full/1593115870-6713.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Maine voters to decide on strengthening facial recognition ban"
     excerpt: "This year, residents of Portland, Maine, will vote on a proposal to add enforcements to the ordinance that bans the"
     publishedDateTime: 2020-10-12T23:21:00Z
@@ -84,42 +84,19 @@ related:
       name: WHDH
       domain: whdh.com
     quality: 54
-  - title: "From AI to facial recognition: How China is setting the rules in new tech"
-    excerpt: "HONG KONG/BEIJING • Mr Zhao Houlin is head of the United Nations' telecommunications agency, an independent international arbiter that sets some of the rules shaping the modern technology industry. But that does not stop him from letting his patriotism burst into the open."
-    publishedDateTime: 2020-10-14T22:48:00Z
-    webUrl: "https://www.straitstimes.com/opinion/from-ai-to-facial-recognition-how-china-is-setting-the-rules-in-new-tech-0"
+  - title: "Government facial recognition tech deal offers wide access"
+    excerpt: "The Department of Internal Affairs has signed an agreement with a global biometrics tech supplier that just about any organisation can join."
+    publishedDateTime: 2020-10-11T18:42:00Z
+    webUrl: "https://www.stuff.co.nz/national/crime/300130018/government-facial-recognition-tech-deal-offers-wide-access"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 53
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/10/15/st_20201015_ftsinotechhuiw_6020007.jpg?itok=j1ad5Bac"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Voters to Decide on Strengthening Facial Recognition Ban"
-    excerpt: "On Nov. 3, Portland voters will decide if an ordinance that would allow citizens to sue the city for illegal surveillance and require the city to suppress illegally obtained evidence, the Portland Press Herald reported. In addition, violations of the ..."
-    publishedDateTime: 2020-10-12T21:56:00Z
-    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2020-10-12/voters-to-decide-on-strengthening-facial-recognition-ban"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Best facial recognition security cameras to buy this year - CNET"
-    excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves. The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"
-    publishedDateTime: 2020-10-11T08:35:00Z
-    webUrl: "https://www.newsoneplace.com/33252581911/cnet-best-facial"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
+      name: Stuff.co.nz
+      domain: stuff.co.nz
     quality: 39
     images:
-      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/u6hR0A8J2nLaSvXpk9Bfy9ieJLg=/300x0/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg&h=250"
-        width: 444
-        height: 250
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/m/q/d/image.related.StuffLandscapeSixteenByNine.1420x800.4yotsy.png/1602441234083.jpg"
+        width: 1420
+        height: 797
         isCached: true
   - title: "Lawmakers consider banning facial recognition"
     excerpt: "Should police be able to use facial recognition technology?"

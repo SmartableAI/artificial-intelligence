@@ -44,6 +44,20 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Israeli face-recognition tech lets actors work off set"
+    excerpt: "Startup specializing in privacy solutions uses its tech to change and enliven actors’ expressions without them ever needing to leave the house."
+    publishedDateTime: 2020-10-16T01:02:00Z
+    webUrl: "https://www.israel21c.org/israeli-face-recognition-tech-lets-actors-work-off-the-set/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 24
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2020/08/main.jpg"
+        width: 1599
+        height: 899
+        isCached: true
 
 secured: "8HBbIirgM+l+nU77jYo/5y17476fl+lyHKtogRJmlyftUBOH3CQffLw6tzLmgr5Rw3PCFKzLgb0kpuDXll83KB+axKdbv9lNKSyCEiBbisa05s27U6wt6X82DjF1R887t10reaDif94baBBblKd/bxWx1yXzntKyfd+Nrxnmb+YnEz5rlpIPCoK8ashW+eogQABnvGa09vxZtoA7hlTSxgAbYVtQCb06SvsLCQRM2cPqNIzlC/6zuus2KUojrjqfMhGoOzWBlJpxXo2BdFfGV/P3okr+IZIT8/Fu4dDl9k0G84SzwmNCht6Z4lQcUNA5IwrImTex+Ja4+yLYZYIivAYegFc6IEdg5i3w5ZbuJX4=;l73Fh9aYOE7lPeEoPyBOXQ=="
 ---

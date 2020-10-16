@@ -3,10 +3,10 @@ category: news
 title: "Self-driving cars can be forced to brake by hijacked billboards"
 excerpt: "Security researchers have demonstrated how hijacked billboards could be used to confuse self-driving cars -- forcing them to slam on the brakes, or worse. Autonomous driving systems have come on leaps and bounds in recent years,"
 publishedDateTime: 2020-10-15T09:26:00Z
-originalUrl: "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
-webUrl: "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
 type: article
 quality: 54
 heat: 64
@@ -40,6 +40,6 @@ related:
         height: 667
         isCached: true
 
-secured: "Z+k3ofmslpt1YxIisqEektcUbiOPPQPPX9RYLImQ/tKA9RY80cj1FaQa2uYZTJ7r3FWOlM3X/MqpqAk6AHoLXGVUcN4xP7iII3n9Wg08fGuHmPvWgTIbj1h+AyzUrzvsNcGzzw7WHJZk63BivYt6g//PyxA0ol3+t5qcBPNB2AqHACd/4IFzR+q1+aEj4E0RV+G9o5AYCaRehffTQcFLa5NliZvTC8Kh7hH6BhsPRNRB3eank0do5SiqQ1e8X4SXY/u+lOpTwsrhciGWifaDV49zkUBHkV6sLWUJdWoL7pGP45SbkOyOdkjfOx2FsGqYe95cYGzrbu7N582SkS27jrxEszTDGFQ9JgXspHiyAP4HaVxnjg9Lg1t287rUb9cV+/eTanCanHA0uESbJG4LVHPYC5xpDw/Bfj8O5AmqvZKQFXQZEtH8cHUvAbBeX2NEsC6IueyE40ZUtdfeRiaVH0mmGQTMzag1gzKcWrVXDJpz6fbh5cz6HV/wCAh3P7Fs0WT3PpNAFK+t77tHDCHWJw==;L51x/cSRCPabaE6Oqb8D3w=="
+secured: "5rnze+Tr/8MBsRcghJNsybDTaO3kxGQp7hXS7v84Ut9hL9V3NEBL9tFNhiL3Jvxz3qy5oBnjBM9ZDZuW1Asi9flLBctBPhhXXWWqy3cRse8GYW6w7j8Y5ICiRZ3nn0qrcEFwPTHkcgxrRNjfNLqtnAqogdM6kov7Q/TLPqRukx9pA0mFIRXOpYODrEGv4FTG4CI4/4XD25jRMYwV0JmLLboaVO5UrPwHNwfQfFs6nTfAAzeLTvKj1w84qdfEZ7DDGAbHN0xOrar4+mbrPpLSFFx6sPSP5cqZM/LkuUmwuJ+dnKHjZ+qrpuYMiZ7HMBLKz+AzxZtCXaQqBHjsX0D3+5ypatA2Tncg9GAerTFaAWt071ki/OyPULahfyJIWSoy/VmSjNlRzgOTMS96w1CTI0e7VbJi4sNT9cIdbsB9mSdtiNud18Q0iS9eWdwo4yShdLNPgnueZwfvKrsPnA7VJMVV8AJWcIKsz7MQ9kCwbh8dZ9DPlLFl/GrQQvCDEM6qivFaBcsV923rXZiewu0aCA==;9q8Zx9VVCI+NVIHa9/EHPg=="
 ---
 

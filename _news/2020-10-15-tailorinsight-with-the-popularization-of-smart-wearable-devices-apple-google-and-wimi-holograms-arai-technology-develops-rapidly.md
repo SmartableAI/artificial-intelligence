@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-15T09:13:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/tailorinsight-with-the-popularization-of-smart-wearable-devices-apple-google-and-wimi-hologram-s-ar-ai-technology-develops-rapidly-1029682698"
 webUrl: "https://markets.businessinsider.com/news/stocks/tailorinsight-with-the-popularization-of-smart-wearable-devices-apple-google-and-wimi-hologram-s-ar-ai-technology-develops-rapidly-1029682698"
 type: article
-quality: 19
-heat: 19
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -19,10 +19,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - AI Hardware
+  - AI
 
-secured: "neDktrIXTKunAAuQi/G289RV2CEbAL07tvYwKmILLpv4XzPmtf+XdZH4uRwkIbvGqQ5TiaPul+83OJaGzneqkpo8Zl+Jf9u0kE5vAmvTTVNfR4m3pbNmmRLR4jnlAmCH4euOvMdeJ+fzYDF96pjv+/X9huAw/CwTK/ur8xTLrdi0LBT1phsfy7b/+CHbMF7zqDMsiVENFsWKumuguq54ir6kmoLRQYAC4CLHo6IfplESnraHdB08p+2j1DAEfZQli1reS8zgDXzQeGcP2bNIS3iUErMCy9zGK5a9bZvicBc6Q9VCLZZBFpn4HtZSeja8YihlU3uSCvqMdK4Z3Au+UC1oLy1VsKjlpBljAnOmDfk=;5neO0uLU6hAsOg/icgFqPg=="
+secured: "glRAy4pBJTGF+ctqjQ/gWRyT1J3aBM5XvrQgllH9Rg3T29uzt6kqXY3K3lUc3uOVyBI2B1gGhYvXP61cBVyQivF5ob5Xq3eLnNWZGQboFDOgB+T/6F25gtOFEfdZycH83l3XvCpa5koE+xlS4LZD0WGYE4+ylySf6yJsUgsGgNAQOyi0reBKk5Ll4GT64bgavlVq7UEt1bpwkqiwC+y7lS41EpJ2Bzn7EpaX/Qe/c8WQsLLGpVE+KFr2+M1BA/q96mp9vYB+6EpxZRyv9JP0BX7bVKZ0rxGrgDZ+mSwx2/jpREIaKgNcSCR84EPelfyFtnL3py9o6bVshUbCS+QKPMgJauNyFmhxgPtSbjPcZ5w=;fHLhwWOE+9+ayvnuhND//g=="
 ---
 

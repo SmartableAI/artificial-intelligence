@@ -3,10 +3,10 @@ category: news
 title: "ServiceNow, IBM to integrate Watson AIOps, IT service management"
 excerpt: "Under this partnership, the two companies will initially launch software that will use ServiceNow's IT Service Management historical incident data to train Watson AIOps algorithms"
 publishedDateTime: 2020-10-15T13:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+originalUrl: "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+webUrl: "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
 type: article
 quality: 84
 heat: 124
@@ -84,6 +84,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "Cw716V2vOnobhSsoYkusKZEr6CIQRS7nE8nuQqlEz/8ytsEPEYywMVOG2fyQsWKCHUa07mF2Cf+oeuYwBncOoKs2k23CYGkN9kw/7zL9UqZJ1laqsHVYfrlWtQmUSUwd4keY2RkLISHx9Oc/iGHjcMS0AtvRQ3t6XEtLqXNEecLXPUwflidtrWlXNpPmF49D/thEz5Ep2ynu0XhwLF0nj6NAOuOID7woOQidLAbkFVyZ1zA8G+dgsuqIjecSWYWEuFe/7/x/589yxXci6qJCEs+ffZtqSsZfODR6Ois6eKWC0z5bPVZ54dYfBAlHV5jr91YAPEouNGQqDz8PoE5YE08tXifFqV/pVc4Thuuae/0oymcdiKa4CmoZpkB8mkrQGwzDWiR0s8rGvS/cx9Zvf8LhUUyHRP7nA6lXasyV6jRP1TpR7Ib3S/hObKag30xJvT5HVF9QmCOX8PusLfVsZtYdmnQ9ZONKZaiAIC/m0HZirYY6YTgiLZQTNqchfTdHXPTBtAinMT7cz+nTOihY3g==;yRnEctf+sm1VN+rPAfYZsQ=="
+secured: "Pcd8szYRn0EiURdKepzVL5ZQS1uq35AoJ1CkaDPavO5LcjPMpOMpy8DPmLr3axvIGWxCCBSEGXW2Sph8UrgbEJ0mU4vtZu3aZEg0TZHJCgBNLKnqMJ0aGzAPwsPJaf1CbuH5Fkn61iX4r74GTGSGMqdNTP38+jf7FFZoesQ7z8BZnYAV54fAKl8ccsmnsWVIJO3NHkn4VBzut3CYEJGC0dEmB2EezDJ+2zmfsuQNFQi3LY/xsnc1uXsHlOTiv+TjXq5LR2BFx4jw0Jw4Ad1XIquxbApgo3FIyefejPxFYuKXTOUVgm+L1BA82YgWHIaI95ury2T7Hp198aoZlqo7lOwfQ30olux0fkISUjYFZBOhykKSWuk2vlYdnR28mVS7u9DM+3neajyqA3SJXT8VQnH/ubEzp7y8AZbXlKHA0Hrqi67l81ypTF2F0kMKZmAzcRHpjThIYbd/wg2TYBEZ7pflA8pjI1lTW4kB7QsPyx2h9ygFrjxwPy3QLfhgwu9ZnaiyB0AHfNxjqG/F9rlxpA==;MzCAuPK7jeEZxqYoUtwJpw=="
 ---
 

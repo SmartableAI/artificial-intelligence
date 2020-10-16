@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/announcing-advanced-azure-machine
 webUrl: "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -24,6 +24,22 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Udacity and Microsoft partner up to launch new machine learning program to skill students"
+    excerpt: "The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learn"
+    publishedDateTime: 2020-10-15T11:08:00Z
+    webUrl: "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/articleshow/78680180.cms"
+    ampWebUrl: "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 67
+    images:
+      - url: "https://www.businessinsider.in/thumb/78680236.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "Udacity Collaborates with Microsoft to Launch Machine Learning Engineer for Microsoft Azure Nanodegree Program"
     excerpt: "Udacity has collaborated with Microsoft to bring yet another exciting program for learners. The latest addition to Udacity’s School of Artificial Intelligence is the Machine Learning"
     publishedDateTime: 2020-10-15T17:54:00Z

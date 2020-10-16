@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/health-science/us-israeli-ai-retinal-scanner-nam
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/us-israeli-ai-retinal-scanner-named-finalist-at-global-health-competition-645343/amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Jerusalem Post Blogs
@@ -39,6 +39,20 @@ related:
       - url: "https://i.insider.com/5f85726d91aa9e001880b30f?width=600&format=jpeg&auto=webp"
         width: 600
         height: 450
+        isCached: true
+  - title: "Israeli face-recognition tech lets actors work off set"
+    excerpt: "Startup specializing in privacy solutions uses its tech to change and enliven actors’ expressions without them ever needing to leave the house."
+    publishedDateTime: 2020-10-16T01:02:00Z
+    webUrl: "https://www.israel21c.org/israeli-face-recognition-tech-lets-actors-work-off-the-set/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 24
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2020/08/main.jpg"
+        width: 1599
+        height: 899
         isCached: true
 
 secured: "1NExI+hdMBfop2D7Rbmz9B5NlnP7HPkKCZmURlWCIzVa1ik9oHMEYKIEsYO6fNbgBw3jY3wTl0DrRJWt4YiLw8aGD96Hvpprtbr43nWuIw2/zok1zePbvX2ypOKC2crgjeSMRg2tmWMIWmLnRA8ItbWwtOEZmO14+NyKpzkNh/W5KIvfnzB/K29TOKYCnXEa6adBvKnJqektJ7+uPCQDnf1dFlJ4/0kcqdjwg0rZxCcJHrEk0Q/0HHgB3r0GSZ9DhRsDihHkjBT46C1fy5+r/7TwC0XxCbiBSf2v0l20a4NijPKXwCmlvyKqQhJQYg5KYsFymI6i/doA/KXJ+LIMMv5fVh24jpaQlkbAeHzsFGZc5+QpukBBqHnh3cScvyOo2bQ3qs4vDIml8mZm7Ek8kA1AjNwRudcNRdw/XS3TRqQVrrppx5WZypxM6VYPtso9ge/qWAdPueuOtbSz5sKUzxZk13FtZ9pz7N6xm2KO+3ekD68iOkZL1KfKtm5vWAJwX17MYzTFS7td7rnsTEguZg==;Nal/c8aZ4UqQHVFtzoVVCg=="
