@@ -69,6 +69,34 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Italy's Leonardo system to be \"world's fastest AI supercomputer\""
+    excerpt: "Italian inter-university consortium CINECA has turned to Atos to build what it calls the world’s fastest AI supercomputer. Leonardo will be able to deliver 10 exaflops of FP16 AI performance when it launches next year,"
+    publishedDateTime: 2020-10-16T14:18:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/italys-leonardo-system-be-worlds-fastest-ai-supercomputer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Leonardo_supercomputer.2e16d0ba.fill-1200x630.jpg"
+        width: 480
+        height: 252
+        isCached: true
+  - title: "EuroHPC: 4 Nvidia-based AI Supercomputers Coming from Atos, HPE; 4 More on Way"
+    excerpt: "European initiative will use Nvidia data center accelerators, networks and software for AI and high-performance computing. They include a system dubbed Leonardo, unveiled today at Italy’s CINECA research center,"
+    publishedDateTime: 2020-10-16T12:42:00Z
+    webUrl: "https://insidehpc.com/2020/10/eurohpc-4-nvidia-based-ai-supercomputers-coming-from-atos-hpe-4-more-on-way/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 33
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2019/01/eurohpc.jpg"
+        width: 522
+        height: 522
+        isCached: true
 
 secured: "sKkvmC06TRB/XVbYfE4KhXveC4GnJn7uZndXUqh22VvyA6TKm+0RPtXVcaZBmSLghztKv9ZgfXKsbFQ0RG9QnyojK0QKDUXYZwECNV2ryrO3XCZ88VjVRcDom/EfKt/6VlNPBI03Y6brvTZvE3Bcu1dZIrsV8JsCWlgAv84N2zIhLjPpHquoe/92O6X06+OZIefxzL4mirFNXPEh52RbKSl4Ntr1IBiSiYfDZDelGEJK/BjzsIhYo9+XRGebvu1NIqkL+O9N5wzTb7WUqcpSDlW14QY9ixpN0M0zm21Oey1OMo2cKiug+8MJdH/TkE0h9rG/46g9n0lVwLkuOukK7HbUNnyqWUFQEzDSbRoEvZik3qRx2ViMbFmwqsSBM2PxSkejnImGupLo/UeAnEQezkHIrEiyork7YnOuKPjEgxRYwErZx4/PlRtcj+6DngpiQL/Lv68R+FGzl0pLgIK054jberwrrLQrMPiEmeS0o8MAGFZJn5CxPEBv0P9ansdtL8bhyxy0/gXGj4KNhHrjhg==;vf4arcxStUWqrhR3OPBx+A=="
 ---

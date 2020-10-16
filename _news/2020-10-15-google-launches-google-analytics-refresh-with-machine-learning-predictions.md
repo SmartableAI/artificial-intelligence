@@ -63,6 +63,38 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 58
+  - title: "7 data science start-ups shaking up AI and analytics – Silicon Republic"
+    excerpt: "From the start-up that wants to make machine learning accessible to everyone, to the one that’s using analytics to monitor and take early action against skin cancer, here are seven up-and-coming science start-ups making waves in AI and analytics."
+    publishedDateTime: 2020-10-16T14:46:00Z
+    webUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic"
+    ampWebUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 57
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2019/03/GettyImages-959874388-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
+  - title: "Deep Dive: The Power Of Data Analytics And AI For QSRs In A Complex Ordering Environment"
+    excerpt: "This Deep Dive explores how artificial intelligence and data analytics can help quick-service restaurants optimize their operations across a host of use cases."
+    publishedDateTime: 2020-10-16T12:10:00Z
+    webUrl: "https://www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/"
+    ampWebUrl: "https://www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 48
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/restaurant-data-analytics-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "Roojoom Designated by Gartner as a 2020 Cool Vendor in AI for Customer Analytics"
     excerpt: "Roojoom ( has been designated a Cool Vendor by Gartner in a recent report \"Cool Vendors: AI for Customer Analytics\". According to Gartner, \"'Born AI' startups are appearing in the hotly contested area of AI for customer analytics,"
     publishedDateTime: 2020-10-15T23:07:00Z
@@ -86,6 +118,17 @@ related:
         width: 394
         height: 263
         isCached: true
+  - title: "Using AI, Data Analytics to Enhance Person-Centered Care for Seniors"
+    excerpt: "Artificial intelligence and data analytics tools could help older adults actively participate in their own care."
+    publishedDateTime: 2020-10-16T14:48:00Z
+    webUrl: "https://healthitanalytics.com/features/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
   - title: "Google Analytics Gets A Major Privacy And Machine Learning-Focused Overhaul"
     excerpt: "Google is revamping Google Analytics for a world in which privacy plays center stage and identifiers are exiting stage left."
     publishedDateTime: 2020-10-14T12:00:00Z

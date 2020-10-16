@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp-phildavis/phildavis/news/researchers-
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-phildavis/phildavis/news/researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 620
     height: 348
     isCached: true
-
-related:
-  - title: "Assessing state of the art in AI for brain disease treatment"
-    excerpt: "The range of AI technologies available for dealing with brain disease is growing fast, and exciting new methods are being applied to brain problems as computer scientists gain a deeper understanding of the capabilities of advanced algorithms. Researchers ..."
-    publishedDateTime: 2020-10-14T20:23:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201014141102.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
 secured: "qgKtIVp+oYRD1husA+tyI4peuqZNghA3eo6v+ozTDtDkxFqlBRIGywCugSTlXt0p7a0eNXtb1c/7n/k+5vjaG6LaPAzctPbFsXUftYMZmVIeXQW0OL5b4EF7GyhHvXsPJxIemGV19PT5BAtUPPHd8HHuetjKDq4qGdyudO8xIXg5otUZb9GEAwXVTCmi09V+d2W7qLTRZp6TT3A3t+t/d9WOIQDIpHDuiV+d+f6vF7wQ/oXMbbw6vH2DswgMwhVEveR1T/S8/pG5Z39YsJEqRjL73pc9B8BGs6XOK6auMixWVlugrav4QO0Y1C8Kh/QAk8LecN4F3m6JTWAfclAlHof4vpeb8/nMA5hCO0b+nVIRZiKQ6f7Phh2QMA40bMBL8vdqbUAQq8r0BBnmRvLev2C2CE/Gsa4DQCPg8dCNGlcasCz4FcF9AOIBDqB6cXur2/9LIomP6FbJpiZ5TyCC1Zo8BX8rb4Rq2aDIyklswsPe8lQCyFOsqWjmpPHhNZ6/iOtL5+mcoYdj61vZ8kakQg==;xrfPQkru7O+EuORB/Me+1Q=="
 ---

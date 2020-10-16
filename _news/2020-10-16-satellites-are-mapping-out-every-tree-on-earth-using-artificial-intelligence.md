@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google Search is getting a new AI-powered spell checker"
+    excerpt: "Google has announced a range of AI-powered enhancements to its search engine, including a new algorithm that improves spelling corrections."
+    publishedDateTime: 2020-10-16T12:03:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-16T114024.500-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "These 8 tech companies are using AI to improve healthcare, renewable energy, and more"
     excerpt: "We often see news and headlines about the dark side of AI, its weaponization, and “algorithmic warfare”. A plethora of AI-driven, dystopian paradigms await us in the future, but there is also a bright side!"
     publishedDateTime: 2020-10-13T22:08:00Z
@@ -98,6 +114,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/makingnewmat.jpg"
         width: 650
         height: 463
+        isCached: true
+  - title: "Google taps AI for new search tricks"
+    excerpt: "Google on Thursday outlined a number of new features for its core search product, including the ability to search for that song stuck in your head by humming or whistling. Why it matters: While humming may be a cute use case,"
+    publishedDateTime: 2020-10-16T14:06:00Z
+    webUrl: "https://www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
+    ampWebUrl: "https://www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: "https://images.axios.com/BAmjh43T_0x1TgPV7__2QGbsGEs=/fit-in/1366x1366/2020/10/16/1602856070265.png"
+        width: 1366
+        height: 768
         isCached: true
   - title: "You can now hum into Google Search and it will find the song"
     excerpt: "Using AI, Google said it could now understand the deep semantics ... and landmarks. It can also translate over 100 languages. Touching on misinformation, Google announced a handful of improvements to the way it handles coronavirus-related queries ..."

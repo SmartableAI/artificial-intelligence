@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-16T13:20:00Z
 originalUrl: "https://www.politico.com/news/2020/10/16/artificial-intelligence-cold-war-on-the-horizon-429714"
 webUrl: "https://www.politico.com/news/2020/10/16/artificial-intelligence-cold-war-on-the-horizon-429714"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://static.politico.com/94/ff/fbcfd86f48c381c104e35bdd27ed/global-translations-share.png"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://1.bp.blogspot.com/-X4ESQdGmUIE/X4TlPXyPgGI/AAAAAAAAEfg/fd8IHTtghWUzpWrRIIJd9bCjlBqqx0i8gCNcBGAsYHQ/w640-h361/lanechange%2B%25281%2529.gif"
         width: 579
         height: 326
+        isCached: true
+  - title: "Cruise self-driving cars no longer need a safety driver in California"
+    excerpt: "Cruise, the self-driving technology company backed by General Motors and Honda, on Thursday announced it received a permit from the California DMV to test its prototypes on the state's roads without a safety driver behind the wheel. Nevertheless ..."
+    publishedDateTime: 2020-10-16T15:47:00Z
+    webUrl: "https://www.motorauthority.com/news/1129978_cruise-self-driving-cars-no-longer-need-a-safety-driver-in-california"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/chevrolet-cruise-av-self-driving-car_100646499_h.jpg"
+        width: 1920
+        height: 1196
         isCached: true
 
 secured: "knsn7uyrhJk+F8EgHFFWDh5HWwaIFnVmDy0h5/ogcY8ZlO7E8TTIwfIZwr0SLBiEhnSjcPeSJ8pEqGduW47xntMYhzbDMtt+WhYvYZQq3lRO/RxHTAQpindxHu2pa6a6NEQItzCRFCMXyGEjCIzVnmfjySHQ7Fr1xuF10gAih92aPKZjlmViloIDX/j4NcsQg6jfPa15ScqnFGX0e+P87vV/xwrXGKF0FMmFl/SA597guMUfXa7s5yVaRoez3IMbpFJYVvwjIxAl+driXFXDwiRT+ttac43VEJcBpnW4MscpjAhLz9y5Z6gyCPkO8ujW6ehjLzSwfjuylH1Rt/LJQW+Uhaqu7OGYm9l1uOheu7lNpOe+IHyh5S2c7gfW+PxYLNz1FlO3aCCZ8czcQ1hM+dx69tbuA/Dg4QDBxuibdXw3WnIA8PbQfrOe+gcLAWby/y2t0Z1RGSSYpMXU4N4f0ac0OlcFz0TE5tT0+bZE3DJRfXTnDgZD77PjOpu+iKiLT69zMMCVY4YLfuDAjsDZHw==;eAsDrjwd6DIcCGJtm0T5zw=="

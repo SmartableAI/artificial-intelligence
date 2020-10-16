@@ -65,6 +65,34 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Italy's Leonardo system to be \"world's fastest AI supercomputer\""
+    excerpt: "Italian inter-university consortium CINECA has turned to Atos to build what it calls the world’s fastest AI supercomputer. Leonardo will be able to deliver 10 exaflops of FP16 AI performance when it launches next year,"
+    publishedDateTime: 2020-10-16T14:18:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/italys-leonardo-system-be-worlds-fastest-ai-supercomputer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Leonardo_supercomputer.2e16d0ba.fill-1200x630.jpg"
+        width: 480
+        height: 252
+        isCached: true
+  - title: "EuroHPC: 4 Nvidia-based AI Supercomputers Coming from Atos, HPE; 4 More on Way"
+    excerpt: "European initiative will use Nvidia data center accelerators, networks and software for AI and high-performance computing. They include a system dubbed Leonardo, unveiled today at Italy’s CINECA research center,"
+    publishedDateTime: 2020-10-16T12:42:00Z
+    webUrl: "https://insidehpc.com/2020/10/eurohpc-4-nvidia-based-ai-supercomputers-coming-from-atos-hpe-4-more-on-way/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 33
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2019/01/eurohpc.jpg"
+        width: 522
+        height: 522
+        isCached: true
 
 secured: "jCMnom8R718ivjENSqA0V8Yx3InqCD50SkGM6ICT1drZ7qtkiwD39jaGDj2AGDPCnKad5x0kw/owe5fLGpL5uMsxw+vHcvffBfM/mq4CJXbfui+3pjtdkfZjU5E6xqJtqFBe8o/Oxv1UP//cEP7dfqSrHmMselLmbxrZliCJ5gBK+EN+3ecZrPoHlSWsEWx05tuY71nvbRgRj9c/OUcAfNx+fDL0W/7JtmkMDtnXu3oB9NUw/Vghk2cU/92LDiihOA4eVucTV+Knr+LtPqDd5F9MsvKEODPu+gqk0ugzOP5AqKSOUuNA6z6RWJ55CatKrbPBFmho7TaW9hM5kmdlWXFD4+XusO/qAzCRHbh6lfk=;OE+u9bUg74n8Y2MThm7QoQ=="
 ---

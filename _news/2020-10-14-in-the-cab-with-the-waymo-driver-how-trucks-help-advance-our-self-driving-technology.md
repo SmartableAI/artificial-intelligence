@@ -105,6 +105,20 @@ related:
         width: 1280
         height: 678
         isCached: true
+  - title: "Cruise self-driving cars no longer need a safety driver in California"
+    excerpt: "Cruise, the self-driving technology company backed by General Motors and Honda, on Thursday announced it received a permit from the California DMV to test its prototypes on the state's roads without a safety driver behind the wheel. Nevertheless ..."
+    publishedDateTime: 2020-10-16T15:47:00Z
+    webUrl: "https://www.motorauthority.com/news/1129978_cruise-self-driving-cars-no-longer-need-a-safety-driver-in-california"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/chevrolet-cruise-av-self-driving-car_100646499_h.jpg"
+        width: 1920
+        height: 1196
+        isCached: true
 
 secured: "plSGLEGwj/DFQRfC0ZCgMqcyYulliw8ap3fPZ8yRpxTX11jHIS9H9+NWTv6SvkUynOEImKISXIJ4/U+TsL3PztvJ9CfuT2IHjRZ+VitoeWjuNzuxXAqdbVAvpUnfNVmed0MYzdg63r7MYwD4WNuQC2DrdvNPFmipyVv+KPCazK/Tr2ceapNE05Zm2wrnZEyy5/vdA3Q0x5m2cg8lx4gFoOlYRcr+vi0aDyz2DnPN2fMTsTkfKp3MfH0CPVz5RQ94/MFhPXPeSV96jxXSLTCoJBAKF2e+MeAQRL5sNSQR+qDKS0lHD22Ln5tXdN4/FpxHF7JyGJgS8WFtwItXjzKxu+3mP80VIZmhYnO3CrUqoKJBIU74dQ4+JZblzuHJVvtNANevOodl5CcbNF2xixeRhVd6771C9PUZpbK16Xoob2lbteOvKiPIZZJX6WewdxfKxcqbRXSMNX8mTvWIfz87cXP+7HWU3AOpqIhNTlkd+SylXtBDqVRqgdF3zQy22knrWaGm2eJodZ8DApvRmLzc1w==;Tn/L5K8BqhybwnrTi8pL2w=="
 ---

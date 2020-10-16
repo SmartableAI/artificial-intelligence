@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/"
 type: article
 quality: 89
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -69,6 +69,34 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Italy's Leonardo system to be \"world's fastest AI supercomputer\""
+    excerpt: "Italian inter-university consortium CINECA has turned to Atos to build what it calls the world’s fastest AI supercomputer. Leonardo will be able to deliver 10 exaflops of FP16 AI performance when it launches next year,"
+    publishedDateTime: 2020-10-16T14:18:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/italys-leonardo-system-be-worlds-fastest-ai-supercomputer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Leonardo_supercomputer.2e16d0ba.fill-1200x630.jpg"
+        width: 480
+        height: 252
+        isCached: true
+  - title: "EuroHPC: 4 Nvidia-based AI Supercomputers Coming from Atos, HPE; 4 More on Way"
+    excerpt: "European initiative will use Nvidia data center accelerators, networks and software for AI and high-performance computing. They include a system dubbed Leonardo, unveiled today at Italy’s CINECA research center,"
+    publishedDateTime: 2020-10-16T12:42:00Z
+    webUrl: "https://insidehpc.com/2020/10/eurohpc-4-nvidia-based-ai-supercomputers-coming-from-atos-hpe-4-more-on-way/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 33
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2019/01/eurohpc.jpg"
+        width: 522
+        height: 522
         isCached: true
 
 secured: "NIG3SCu2Y0/VGZvFgITrwktbnnLxWoPD30q1I10e02/XDuf3+PTSONY09xZR3N0nCc6SBA/V5pnH2ltDqlt9/SMtFist6vFS4uthE30/cZTmOMgYbob9V1Yp3zYXu9gDUMoHJ56M1Wuvxy9tr8MaWtatODDAjEanii2dgXhKGPh9JgqFF+LBM7cRQX8Pm5p5qKqG+JkKBKyNFv74IXf16ceobJyU3WBJemmivjMU2zZ1gdITHyiQwTSF2z9pZKzt64FeVIjZkjLt4iI0al1JFc9Dqa2yGCVMw3qga8DheBmg2tgWvFTjbIpumIchsRk+iboPaPB4+/QEXq3EKnAnqNHL1GB4T6TE+2Mgr5kWJbJiBp+dTY7q7LXe7x/54q/Cnf5GAord2kdxWAB2PbC8ep4HUUtD8RY3ow7fxHG/kZVl7Wa4MFhOn0e4302tu1+41iTzay3zn+VNTzmkr853JJHGyPTaIB/m+fMEdibWbcHBtmBXCwn+9BrEMNnmsbZSCuCOGXY7uW4ou+Q0A8/1Gg==;apk78/LUiuqJli5QChQkFw=="

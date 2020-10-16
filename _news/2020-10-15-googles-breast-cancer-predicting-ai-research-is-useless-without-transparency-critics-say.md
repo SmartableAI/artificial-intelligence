@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/14/googles-breast-cancer-predicting-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say/amp/"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Building a landslide prediction tool with Google and AI"
+    excerpt: "AI Impact Challenge, Google asked nonprofits, social enterprises and research institutions around the world, \"How would you use artificial intelligence (AI) for social good?\""
+    publishedDateTime: 2020-10-16T14:09:00Z
+    webUrl: "https://phys.org/news/2020-10-landslide-tool-google-ai.html"
+    ampWebUrl: "https://phys.org/news/2020-10-landslide-tool-google-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-landslide-tool-google-ai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/buildingalan.jpg"
+        width: 730
+        height: 431
+        isCached: true
 
 secured: "O51/aVY+Ai0vwCcVmmOw4ErjWgz9/YQ9U+WkCHiHJOWjOeHzDzgxv0MZuZ/tHYZCu03QNQA9uePV+VYMn1NayAxQQRLuAL2Mtyfn4NrQUyfZ/8v7l8nR1XBataRUja2dUiykE6nedQP7LUa72hvkt47HtcZ1KodE7yOTeoZQJ7ER18fEaOuyBqo48hE5DrEJsGeb9/snpxxgE64t3xavSWAz6ZiVARe+8uEdj9ODBqvzgP5ba0B9jlBWeR7mtjlaTkv5q+xP/3aOQk5Xh9MuSBLdEBc8LLcwkY0vdXqdpxftS8/PkdEn2GJudLG4IYBPQu5leF0MLw/wKdXvWkvkoie4WDk2fhXlqtXlXx+ev9DIwiCFREwA31GhmjWudlW6glHNnGgbNl6wDFcI3KE5zAGFIL7IAXTJYAo0UzDTULiYBz0VRIUyAyvaL6kuG287XDrGJj0P/mJqeTTVfIGMpKLvHdPAfvbAxMdOAk72h7w6ev9dAr+QWYRRMw0Uk94ICxcopamrV34Jr6HHdo8s5Q==;a3S5OB0gbn6jO8i142p2Jg=="
 ---

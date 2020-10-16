@@ -8,7 +8,7 @@ webUrl: "https://www.cnbc.com/2020/10/14/facebook-to-use-ai-in-bid-to-improve-re
 ampWebUrl: "https://www.cnbc.com/amp/2020/10/14/facebook-to-use-ai-in-bid-to-improve-renewable-energy-storage.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/14/facebook-to-use-ai-in-bid-to-improve-renewable-energy-storage.html"
 type: article
-quality: 83
+quality: 85
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Google AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106295252-1576248811685phaseone5.jpg?v=1576248841"

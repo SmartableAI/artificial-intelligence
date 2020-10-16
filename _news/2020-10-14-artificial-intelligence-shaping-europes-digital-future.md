@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Building Health Care AI in Europe’s Strict Regulatory Environment"
-    excerpt: "Many observers blame Europe’s tough laws regarding data privacy, which are more stringent than those in the United States and China. But our survey suggests that regulation isn’t the problem. Rather,"
-    publishedDateTime: 2020-10-16T13:32:00Z
-    webUrl: "https://hbr.org/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment"
+    excerpt: "In leveraging AI to improve and tailor treatments, tech companies struggle with getting training data for their algorithms. Drawing from the experience of three startups, this article describes ..."
+    publishedDateTime: 2020-10-16T13:27:00Z
+    webUrl: "https://hbr.org/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment?ab=hero-subleft-3"
     ampWebUrl: "https://hbr.org/amp/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment"
     cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment"
     type: article
@@ -41,6 +41,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Assessing state of the art in AI for brain disease treatment"
+    excerpt: "The range of AI technologies available for dealing with brain disease is growing fast, and exciting new methods are being applied to brain problems as computer scientists gain a deeper understanding of the capabilities of advanced algorithms. Researchers ..."
+    publishedDateTime: 2020-10-14T20:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201014141102.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "CoMsLskLu/3jaCZu2+IFv+i3+W44d7TUzaap5MZpcIcnfOwL2TSQSmHp/wH7vhcFZEOFaoN9qiWaRQkG/y4r16OBL2qoehx9hXqTymAwU7LNqcYu4cbECUr5CufyNUUJGoCN1qn47sENi9Kj+pTXd88wCmo7VU1sfVUyZbyArG4BpyJfsZz1M6ovGoTxRAEO9ItdUQcubpu4St/CgZgC8YqaTpFeCmKV+9NlWIEULvGqphXxn3IwMACYhNPL1ZtCAGxLpayMS8HoP3T1q0IKdAdim0OEaTvKLjrgsRx2kqWL/3EovUNCcwNlaO32KmHVECirwV9rcnd2cRG2oHIdva4HBCjYcVrnboKGIGxFkgY=;4GiJFvbHT3OWpIwYEqfBLg=="
 ---

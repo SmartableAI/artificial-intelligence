@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Building Health Care AI in Europe’s Strict Regulatory Environment"
-excerpt: "Many observers blame Europe’s tough laws regarding data privacy, which are more stringent than those in the United States and China. But our survey suggests that regulation isn’t the problem. Rather,"
-publishedDateTime: 2020-10-16T13:32:00Z
-originalUrl: "https://hbr.org/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment"
-webUrl: "https://hbr.org/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment"
+excerpt: "In leveraging AI to improve and tailor treatments, tech companies struggle with getting training data for their algorithms. Drawing from the experience of three startups, this article describes ..."
+publishedDateTime: 2020-10-16T13:27:00Z
+originalUrl: "https://hbr.org/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment?ab=hero-subleft-3"
+webUrl: "https://hbr.org/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment?ab=hero-subleft-3"
 ampWebUrl: "https://hbr.org/amp/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Harvard Business Review
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Assessing state of the art in AI for brain disease treatment"
+    excerpt: "The range of AI technologies available for dealing with brain disease is growing fast, and exciting new methods are being applied to brain problems as computer scientists gain a deeper understanding of the capabilities of advanced algorithms. Researchers ..."
+    publishedDateTime: 2020-10-14T20:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201014141102.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Artificial intelligence: shaping Europe’s digital future"
     excerpt: "Expert group publishes ethics guidelines for the implementation of human-centered and trustworthy artificial intelligence (AI) in Europe To further advance the outstanding and trustworthy use of artificial intelligence (AI) across Europe,"
     publishedDateTime: 2020-10-14T00:25:00Z
@@ -41,6 +50,6 @@ related:
         height: 691
         isCached: true
 
-secured: "X6iKvTxsG8N7B6Sx1JCHL6wLBCXjVXO2lSGRPx7uKbuL/S8HxRpmsz41P9c8MkDMYOOg6IT4Iqa+sRg9UGGgELP3ta8ifKuhM5YBCxPpxB7s+JKS0XjjYqf0gUJTRmg8XBas5yez6evRIniY5BSnZ0G8RIkbHQbuTumQyXB3ZTDi2G8PIeQUUK2PaTHCFrKWQQJMe0TAV6Fme3b+2adQKYhxpRMPtoPxbCndQT4d2s6vrIqAOwifTrfviOeotD8P1HvNg0LKUF/jtmdCjZr51A+pA/p3+arqgK+epMZ5op2YNjSYQypBF6F0FjmXrblwPgUjlm8Ez7yo1Jqbk3UIQ74WutrfVtft9Rkin6s4/7Q=;xfW+fXjQ4WSeYAt5CmJ3RA=="
+secured: "2KioxXUFsvHXiiJODMflVGMYne+r7P7k9zH4kQWt986DLnLwKRgCEEB09sCWYhgFdpMGgRoQ3sD+mg0VfVjsNwxS6Wm242f7niU8e/uDrBOebnbA3doq8qRbCfiRou00ESDmLMKTzlh8UR5iHcbNO62HOFU0Rki7n3liIavA7esZGd1vhBZFymI1c+C819BccQTDIOxnXTi00nbxieTziHY1XoyKhu/xujADW09wrNP/+jztmvauUkqQxtK3M7xzkS0yVuoZygTRYSJU4T6Cm51hMVABKmQy3XEzmShCYkqQN23+9GWT9el71UZf/hgeT2Jg1SdbxwvvtCzQEWsuQS+rZ62hbQUXVCiSYK/Mkic=;YqJBIiJdbk4/0ZUwfcnTDQ=="
 ---
 
