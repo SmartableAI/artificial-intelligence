@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-09-26-ibm-smart-lineup-decisions-for-nfl-week-3.md",
+      "title": "IBM Smart Lineup Decisions for NFL Week 3",
+      "excerpt": "That's where IBM Insights comes in, as it uses Watson AI to break down all of the content you're consuming and then some. And by \"some,\" I mean every inch of the interwebs. Below are the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2",
+      "originalUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0925%2Fr750975_1296x729_16%2D9.jpg",
+          "width": 1296,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2?platform=amp",
+      "cdnAmpWebUrl": "https://www-espn-co-uk.cdn.ampproject.org/c/s/www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2?platform=amp",
+      "publishedDateTime": "2020-09-25T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ESPN",
+        "domain": "espn.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-follow-the-leader-a-shortcut-to-autonomous-trucking.md",
       "title": "Follow-the-leader: A shortcut to autonomous trucking",
       "excerpt": "The order will equip 1,120 trucks with Locomation's convoy technology, which enables driverless trucks ... group of specialists in robotics and artificial intelligence along with trucking industry ...",
@@ -1111,49 +1154,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning.md",
-      "title": "Monash University researchers speed up epilepsy diagnosis with machine learning",
-      "excerpt": "A new study by Monash University, together with Alfred Health and The Royal Melbourne Hospital, has uncovered how machine learning technology could be used to automate epilepsy diagnosis. As part of the study,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
-      "publishedDateTime": "2020-09-24T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

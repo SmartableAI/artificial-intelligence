@@ -2,28 +2,26 @@
 category: news
 title: "Department of Energy Enters Into Enterprise Agreement with Google Cloud"
 excerpt: "PRNewswire/ -- Google Cloud today announced a five-year agreement to provide the U.S. Department of Energy (DOE) access to a broad range of Google Cloud technologies, including Google Cloud Platform (GCP) and Google Workspace productivity tools."
-publishedDateTime: 2020-10-15T12:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/virus-outbreak-technology-lung-disease-lawrence-livermore-health-249664b3ee9f85957038b1f70e736414"
-webUrl: "https://apnews.com/press-release/pr-newswire/virus-outbreak-technology-lung-disease-lawrence-livermore-health-249664b3ee9f85957038b1f70e736414"
+publishedDateTime: 2020-10-15T12:59:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/department-of-energy-enters-into-enterprise-agreement-with-google-cloud-1029683915"
+webUrl: "https://markets.businessinsider.com/news/stocks/department-of-energy-enters-into-enterprise-agreement-with-google-cloud-1029683915"
 type: article
-quality: 24
-heat: 24
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "h6ua0dKFuq5nUz6s7Q+AR+tmvhG6e1KZfNxlTyKhGTEK3jRzfwqmoHCGffU8bnitZFI5k6CCfD/3GyFr+JcKXMy1JrMoiYe1YHSULKAlI7Mr83TSNcygjwNM1mg7F/uSmN2O2Vc4cSB5cAMACFVOJU9n4O2kQjmqSb12LUwoxw43vKQW1F1/GErYEQyc7A3eirOdB5/bdT4Rb3zQ9xl724oGGkt3l9CSclvEeriBcSOS0syXSv9vkYmKyZp9g4rmebAWpAZJdhNVZ2P6b8VwqCWAq+5UF1uCesaO1AFtjTS2fabZabFovKFa/26M5mknwWj6bCVMWPOsqY6iLDFRiNyXdQU2jd5FYRg8PCWBjtY=;NzUAam5MpUX7GJYO4UUCWA=="
+secured: "SL8jTk7CojnHKQ78MLYMAnRBcVL6/Udc0B6FmfVaBnAj+QkHi5/AH2+rdyBo08NrPob/aM/DE2LVMdIvoBYk1vhe8dtglo9O/2hevZMyZ3QUsQpkt3nm287rdsxm71h52EYFR61014gkT1n9+KTQsiZaG9RDUJlKmBxpzi9C9cA6XeG+zI1dwkEIN2gsd8/XF5vsmez7JBgvIKcp5Rtzpq1AjmvLfzn0JT9P0qDF23uAQtBbXklW5XED0zHDBCGbK8n/WYx3hFlAyySQkHm4fjKdsWdjoDLQttrXKwPuvtlrLIttqkcbYD1+oEZFeWs/MRTyU4kQW332uFAuy5ToF0h7awtHQqd3OmoEyEgph8k=;o9PMj8fdMgU8SlmOcqpTWA=="
 ---
 

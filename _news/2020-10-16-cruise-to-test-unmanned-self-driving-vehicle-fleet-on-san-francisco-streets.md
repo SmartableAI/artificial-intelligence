@@ -28,9 +28,9 @@ related:
   - title: "Self-driving cars can be forced to brake by hijacked billboards"
     excerpt: "Security researchers have demonstrated how hijacked billboards could be used to confuse self-driving cars -- forcing them to slam on the brakes, or worse. Autonomous driving systems have come on leaps and bounds in recent years,"
     publishedDateTime: 2020-10-15T09:26:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
+    webUrl: "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
     type: article
     provider:
       name: ZDNet

@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-29-microsoft-positions-itself-as-the-platform-of-choice-for-5g.md",
+      "title": "Microsoft Positions Itself as the Platform of Choice for 5G",
+      "excerpt": "Microsoft is also promoting other services, such as Azure Cognitive Services and Azure Machine Learning, to deliver artificial intelligence (AI) support to mobile operators. It also offers ...",
+      "sourceUrl": null,
+      "webUrl": "https://rcpmag.com/articles/2020/09/29/microsoft-platform-for-5g.aspx",
+      "originalUrl": "https://rcpmag.com/articles/2020/09/29/microsoft-platform-for-5g.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/PartyLIghtsinSkySmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Channel Partner",
+        "domain": "rcpmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill.md",
       "title": "iRobot cofounder Helen Greiner named CEO of robotic gardening startup, Tertill",
       "excerpt": "Boston-based robotic gardening startup Tertill this morning announced that it has appointed Helen Greiner as CEO and Chairman. The executive is best known for cofounding iRobot in 1990 along with fellow MIT Artificial Intelligence Lab members Rodney Brooks and Colin Angle (the company’s longtime",
@@ -1135,58 +1178,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation.md",
-      "title": "Windows 10: Lists of vocal commands for speech recognition and dictation",
-      "excerpt": "Windows 10 allows users to talk to their computers, but the list of possible commands is significant. We provide a handy reference to the most common speech recognition commands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
-      "originalUrl": "https://www.techrepublic.com/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/09/28/e51a3589-405f-4398-a331-49ddee712d1c/resize/1200x/caf9c5d3c56947cd35663e4d024df7e1/istock-1135346381.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
-      "publishedDateTime": "2020-09-28T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

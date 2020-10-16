@@ -3,11 +3,11 @@ category: news
 title: "Artificial Intelligence Leaders Discuss AI for National Security in NPS’ Latest Guest Lecture"
 excerpt: "The Joint Artificial Intelligence Center (JAIC) is the Department of Defense’s lead organization for accelerating the adoption of artificial intelligence (AI) across the services. And it’s a critical role,"
 publishedDateTime: 2020-10-15T18:30:00Z
-originalUrl: "https://www.dvidshub.net/news/380988/artificial-intelligence-leaders-discuss-ai-national-security-nps-latest-guest-lecture"
-webUrl: "https://www.dvidshub.net/news/380988/artificial-intelligence-leaders-discuss-ai-national-security-nps-latest-guest-lecture"
+originalUrl: "https://www.dvidshub.net/news/380985/artificial-intelligence-leaders-discuss-ai-national-security-nps-latest-guest-lecture"
+webUrl: "https://www.dvidshub.net/news/380985/artificial-intelligence-leaders-discuss-ai-national-security-nps-latest-guest-lecture"
 type: article
-quality: 43
-heat: 43
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: dvidshub.net
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -40,6 +39,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "h+CrusZMEslO5gi6q3S4laxNqu+dBoMcyOH9uqySZ/E9gjZM6VuQ/9uR0iMF61uJZq3MmyHq0euH6aFL1kdk1ESPPOkGh6eOz/VmYUqdFtr4Uvcs9diU30FQw5D2n+S0RFv0CU/LuEeyhcIKohCTvkKf9ADs9/0o1JxDqzDim0tt3hTwDBDLKNVOA73pmcTnOOoPs2+cUx+19DvyxkcKcJFe7YdNHUuV6JCiorauPavE/hVh/qls7uJCv9HiyEtwpGnI+E9PmIRDXlaLQoEXX5fHpKhyqApo728rsPm8gYUd9BZsRs9PINvzRF+SLf5gPhatvZUHtmLyPUtXVhbIZYn5+L4TzZ/HUWG/U5TgAus=;D8oH/kOClC0yYEjlXIzxiA=="
+secured: "4/hDIHA4aozYAnNZ5wlY2+Mly5dVQKLx+vUaYOmTK8dpTt/FxHD01ExDOu6Ndku4IN8gibVS0O/u3yKHZQiEWULwt7s+W61rkKz177IMFiflPwmYomcyesVIG0609fAO+SMUzY1xNMbtcJjKkvj2+HWsxQHKaI+W7eYJH60NTtNhrR+8CQciEyE0h6TnjeBXc3bNiNRqxT2sqnJN2bBw72k8XVKBTcxxo7uzsUOtTHIZ95uGWB2NgnpUG36dao8tz1oMWTo8niIFmAi1iZJIrtXNQ5rUOFJl8iJWbeGl9szdPKLkQrq+bZcrqelZ7vSJ6uYY9CS0j7t/t1r520y9BZzhVU13Re41VlfbQTPERzk=;R/xRsW4VDUtWsu9+D+sSYQ=="
 ---
 

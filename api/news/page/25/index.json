@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-09-23-sigmasense-closes-22m-series-a-funding-round-with-groundbreaking-invention-enabling-touchless-touch-screens.md",
+      "title": "SigmaSense Closes $22M Series A Funding Round with Groundbreaking Invention Enabling Touchless Touch Screens",
+      "excerpt": "object recognition, digital pens and high hover for touchless gestures on LCD, OLED, EPD and Mini-LED screens AUSTIN, Texas--(BUSINESS WIRE)--SigmaSense, the global leader in touch screen ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200923005265/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20200923005265/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200923005265/en/823840/23/SigmaSense_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-how-artificial-intelligence-can-enable-ethically-driven-investments.md",
       "title": "How Artificial Intelligence Can Enable Ethically Driven Investments",
       "excerpt": "Individuals and investment firms are increasingly interested in more than a balance sheet when making investment decisions.",
@@ -1119,49 +1162,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner.md",
-      "title": "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner",
-      "excerpt": "SES Becomes Microsoft Azure Orbital Founding Connectivity Partner (Photo: Business Wire) The updated release reads: SES BECOMES MICROSOFT AZURE ORBITAL FOUNDING CONNECTIVITY PARTNER SES’s proven low-latency MEO managed services to be part of Microsoft’s new multi-orbit satellite connectivity integrated with Azure,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/business-wire/17a08d01d2314154b83e6bfa51a8632b",
-      "originalUrl": "https://apnews.com/business-wire/17a08d01d2314154b83e6bfa51a8632b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242945"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242945"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://www.360webmag.com/wp-content/uploads/2020/10/In-Singapore-facial-recognition-is-getting-woven-into-everyday-life.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Singapore's private sector launches document for ethical use of AI; certification course to follow next year"
+    excerpt: "Launched on Friday (Oct 16) by the Singapore Computer Society (SCS), \"AI Ethics & Governance Body of Knowledge\" builds on the Singapore government's voluntary framework for the responsible use of AI. It is authored by 29 industry veterans including Dr ..."
+    publishedDateTime: 2020-10-16T03:10:00Z
+    webUrl: "https://www.straitstimes.com/tech/singapores-private-sector-launches-document-for-ethical-use-of-ai-certification-course-to"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 35
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/10/16/nz_robot_161092.jpg?itok=1LzBSNeb"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "Kkr3F2euzhPMI+U6BAK3pl5x2CwziWSmrEWx11bsE0MRpQ5ek/VJxnNv9sksfFaMWAlgh+T8oxMb1Z/Yyc/Z8k7ZQW/4Bh4jQZdhQ4vpZUBBITFdEj0ZZCVASKv9QwELQOS2lWV1NBHBFaGJHVjuXKNf68xaq5g0FthiOD7r2JjTdAMZsNKeaZG499x0/BaR0QQK7VnKPpWl4JHfgwdk2CSB6S7P+Z0ePWkpqClNwbSh5099eaWpPza0UJqMGrStBEWIUsrUO6RlhoHzapyf9TsyP3o+8WYX5iJriN/uoreFVF/sEds7LNkuVTmfeKG3kM+TQuMW6fksMbTKBuuF293tqdM8sWpUfywudLaPBXeMTjZeJ+06dmDJkO1YPr+ddPfrOXTW92dvPnYeF/615sh1JuWPSS5ZAN6j1sOfRyVCzDBM5kP0uelz9oO+L6ZwBdqve4cbYMHrFtpGRJuF8hVafSiefj9vJcKIWeGKCTRd9rO9XClTdeGvjNcffQBkMU2hKuxswuRDZh/hwzCJ6Q==;iQlUOO1HOgbkVsCNRENcwQ=="

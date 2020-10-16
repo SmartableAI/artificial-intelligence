@@ -92,6 +92,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Singapore's private sector launches document for ethical use of AI; certification course to follow next year"
+    excerpt: "Launched on Friday (Oct 16) by the Singapore Computer Society (SCS), \"AI Ethics & Governance Body of Knowledge\" builds on the Singapore government's voluntary framework for the responsible use of AI. It is authored by 29 industry veterans including Dr ..."
+    publishedDateTime: 2020-10-16T03:10:00Z
+    webUrl: "https://www.straitstimes.com/tech/singapores-private-sector-launches-document-for-ethical-use-of-ai-certification-course-to"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 35
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/10/16/nz_robot_161092.jpg?itok=1LzBSNeb"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "/9C5WD5PJ9I5qbug9jRbJh1eLCwRa7t7Tt3KL9q1Gb2IYuVJEAGPkShLFb6uH1mCl+pBTkAadtn9844axeFrUw+FmpA/PQh+4FSg9pOg/aRHwrkIlgi+Npi/qPpvRxGQKhRh03Z+TQXf8hUGgsVSeCMDJz/tQ8e8CnEQK+/NeK45pU+5zA7Y/cp9+7LMoxsYQtP9+czU4bZ4UxEY1ubeaFuwZSGq+VAxhKEmkob7ZSU8vjFXBAcKfzqrR0Kw3IH8WIIR734v9SxCrVrtkmSZ68mOsIv2kfQhX1Tc2zgiREx3OSM9HR67+ZcK4NVO+9mhSOhfcHFu1kPtChkTXEgmsHaBoRTI9SuxBukP9omxwnUQGKEGBj7VT/teUIUKGifMeWAKNUqqQyIHjF4rsqjBDe/Ea3TWVa1KwLkP0A8/cZlUwNqdgnLqmlOCqT9EBqPLq7aFIhh8OiS8KNcjLAS2b0ruXxcD48ACIC60Q9VE0I9GkwAuqDlZT0yQRfrqFfa1IshbbwFnQZuHg8b6vWUBzw==;pDb6cuTiGC6DhYvI5ZUU5A=="
 ---

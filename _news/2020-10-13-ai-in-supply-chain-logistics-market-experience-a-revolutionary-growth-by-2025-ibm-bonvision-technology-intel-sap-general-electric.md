@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Telecommunication Market"
-    excerpt: "By applying market intelligence for this Artificial Intelligence in Telecommunication Market report industry experts assess strategic options outline successful action plans and support companies with critical bottom line decisions Moreover all the stats data facts and figures collected to prepare"
-    publishedDateTime: 2020-10-13T10:34:00Z
-    webUrl: "https://www.openpr.com/news/2157342/artificial-intelligence-in-telecommunication-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2157342/artificial-intelligence-in-telecommunication-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2157342/artificial-intelligence-in-telecommunication-market-size"
+  - title: "32% CAGR | Big Boom in Artificial Intelligence Certification Courses Market 2020 -2027 | IBM, IRPAAI, Intel, Insight data, NobleProg"
+    excerpt: "The Artificial Certification Courses market to grow at a CAGR of more than 32 during the forecast period according to their latest report The demand for AI professionals is growing rapidly in all countries Currently several vacancies require employees"
+    publishedDateTime: 2020-10-11T14:28:00Z
+    webUrl: "https://www.openpr.com/news/2154866/32-cagr-big-boom-in-artificial-intelligence-certification"
+    ampWebUrl: "https://www.openpr.com/amp/2154866/32-cagr-big-boom-in-artificial-intelligence-certification"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2154866/32-cagr-big-boom-in-artificial-intelligence-certification"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 59
+    quality: 43
     images:
-      - url: "https://cdn.openpr.com/T/a/Ta13900366_g.jpg"
-        width: 600
-        height: 351
+      - url: "https://cdn.openpr.com/T/a/Ta11168042_g.jpg"
+        width: 550
+        height: 312
         isCached: true
 
 secured: "tX8aePpjTdWPCxCICoHa8WOYHzVXzNDxqmOmBW1NFJ+ydqLrTA8SmKBxg4eOjXMBM5a3PRf61/iev6FpfTO/1x/UQs4xfOMwpEx50oQldoE+RuNTPg+VhV4RFnqgnR3Mm4u9Vu0cgq+rCN9B89NqxhBrtl+jFg058TGic99wd9AewQsy2wbdwfwmc5pt5FxcgmjtXH6VHHtPa3LtX5Uk1Epw+iBagdko2TII4T8/C9rDFXfh9eBF5wL2RDxXyZvUwwKJ1b5kbt+VJSyVVk2z5Hj7ncj3vPUg6POsXJCHLYw2J12tqzDjvWBVMuwsPf0JQ4zA0n2Yt/E1+vH0HkICvjpcKD4qU/F5kWSZuyGgzI4=;vo9oL4sqEE1thqGNqNWPdw=="

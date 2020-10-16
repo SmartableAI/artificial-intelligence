@@ -113,6 +113,20 @@ related:
         width: 645
         height: 350
         isCached: true
+  - title: "The impact of AI on business and society"
+    excerpt: "In July, the Financial Times Future Forum think-tank convened a panel of experts to discuss the realities of AI — what it can and cannot do, and what it may mean for the future. Entitled “The Impact of Artificial Intelligence on Business and Society”,"
+    publishedDateTime: 2020-10-16T03:00:00Z
+    webUrl: "https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5246fd70-6619-4c99-8d72-03875cac0f46.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Roche Enlists Dyno to Bring AI to Next-Generation Liver, CNS Gene Therapies"
     excerpt: "Roche made a splash with its acquisition of Spark Therapeutics, whose Luxturna, a gene therapy for an inherited form of vision loss, was the first such"
     publishedDateTime: 2020-10-14T10:08:00Z
