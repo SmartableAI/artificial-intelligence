@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/content/1203461.shtml"
 webUrl: "https://www.globaltimes.cn/content/1203461.shtml"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 480
     isCached: true
-
-related:
-  - title: "Baidu fully opens Apollo Go Robotaxi services in Beijing"
-    excerpt: "An autonomous Apollo Robotaxi from Baidu in Changsha, Central China's Hunan Province Photo: courtesy of Baidu. Chinese search engine Baidu announced Sunday that it has opened up i"
-    publishedDateTime: 2020-10-12T05:21:00Z
-    webUrl: "https://www.globaltimes.cn/content/1203174.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-20/8db12994-3a72-4061-a358-df866e9fae9f.jpg"
-        width: 864
-        height: 575
-        isCached: true
 
 secured: "CNPpeX6ALiR8vXP1jYSHoeqQjXfOIVgZNPJRZhN6CpsdYnpIO48lB5V1Wh79re9Kzjwv4Vud6fV3ANlf3QdbV4PrtxEs9D0xV5ZkjYpSVx4M1zO4gWyUGNzi3Ssvh57MOM5U1t7NT8COuMSBM9a1AE9DFV/vA/se8fa6d0L9qkHxeLjG5YarRl7reaflbw2G0dvIRU7FPzyHRjx7f7RfFfVZOV/JxIZ547rNlIb43qLY9TEXfKT35ZZbhzKTcyol6wHRRyNqVI+t2oj3njUxgDoMpSdvlyjjzkV7jTvj1JqYLLJWX/UJwF7pTacEJbyKd33rmNvmXLB0arYsORnQbNF2VKefQ/b0XqOm1ORHGIc=;bvIW30QW999THEF+dnptlA=="
 ---

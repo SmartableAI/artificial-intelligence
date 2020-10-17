@@ -8,9 +8,9 @@ webUrl: "https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning
 ampWebUrl: "https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/amp/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: MIT Technology Review
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/MnistExamples.png"

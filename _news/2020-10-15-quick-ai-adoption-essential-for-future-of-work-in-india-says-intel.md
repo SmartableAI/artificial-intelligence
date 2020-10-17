@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/quick-ai-ad
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_281592419.jpg"
         width: 660
         height: 440
-        isCached: true
-  - title: "Demand for AI talent pool continues to surge in India."
-    excerpt: "AI has become a most sought-after career opportunity for tech enthusiasts. Getting an education in AI requires a degree in computer science and equivalent streams, along with technical skills such as programming languages,"
-    publishedDateTime: 2020-10-12T05:53:00Z
-    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-jobs-india-october-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-10.jpg"
-        width: 1440
-        height: 720
         isCached: true
   - title: "A policy framework for the technology can accelerate development in India’s AI sector"
     excerpt: "Tata Sons Chairman N Chandrasekaran addressed the key aspects of AI in education, healthcare and data governance that India should take in order to become the global AI capital."

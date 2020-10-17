@@ -122,7 +122,7 @@ related:
   - title: "IBM, ServiceNow partner on AI solution to manage IT outages"
     excerpt: "Expanding their strategic partnership, IBM (IBM -1.1%) and ServiceNow (NOW -1.7%) will release a joint solution that uses AI to more effectively manage IT outages.\"AI is one of the biggest forces driving change in the IT industry to the extent that every company is swiftly becoming an AI company."
     publishedDateTime: 2020-10-15T19:43:00Z
-    webUrl: "https://seekingalpha.com/news/3622515-ibm-servicenow-partner-on-ai-solution-to-manage-outages?source=cnbc"
+    webUrl: "https://seekingalpha.com/news/3622515-ibm-servicenow-partner-on-ai-solution-to-manage-outages"
     type: article
     provider:
       name: Seeking Alpha

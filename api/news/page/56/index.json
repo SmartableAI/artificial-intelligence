@@ -2,6 +2,49 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-09-02-amazons-top-robotics-engineer-joins-ai-startup-scale.md",
+      "title": "Amazon’s Top Robotics Engineer Joins AI Startup Scale",
+      "excerpt": "Brad Porter, who recently defended working conditions at Amazon warehouses, leaves to run Scale’s tech division.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380",
+      "originalUrl": "https://www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1487381!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/brad-porter-vice-president-of-robotics-for-amazon-com-inc-speaks-during-a-prime-air-delivery-drone-reveal-event-in-las-vegas-nevada-u-s-on-wednesday-june-5-2019-amazon-com-inc-has-unveiled-a-revolutionary-new-drone-part-helicopter-and-part-science-fiction-aircraft-that-the-company-expects-to-use-for-test-deliveries-of-toothpaste-and-other-household-goods-starting-within-months.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380.amp.html",
+      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380.amp.html",
+      "publishedDateTime": "2020-09-01T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-get-amplified-with-zotac-gaming-geforce-rtx-30-series.md",
       "title": "Get Amplified with ZOTAC GAMING GeForce RTX™ 30 Series",
       "excerpt": "The GeForce RTX 3090, 3080, and 3070 represent the greatest GPU generational leap in the history of NVIDIA. The Fastest GPU For Gaming The ZOTAC GAMING GeForce RTX 30 Series introduces a fresh ...",
@@ -1110,49 +1153,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidias-monster-rtx-30-series-gpus-are-listed-with-twice-the-rumoured-core-count.md",
-      "title": "Nvidia's monster RTX 30-series GPUs are listed with twice the rumoured core count",
-      "excerpt": "Hsun Huang threw down the news we’ve all been waiting for—the official specs for the new 30-series Nvidia Ampere graphics cards. Nvidia has pulled up with the next step in the RTX revolution, promising AI powered acceleration with almost twice the performance-per-Watt of the Turing predecessors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/nvidia-ampere-30-series-announcement/",
-      "originalUrl": "https://www.pcgamer.com/nvidia-ampere-30-series-announcement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/LTiBwMDLNWHiwwViu3LuDb-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/nvidia-ampere-30-series-announcement/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidia-ampere-30-series-announcement/",
-      "publishedDateTime": "2020-09-01T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

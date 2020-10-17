@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-09-torc-robotics-to-scale-self-driving-fleet-with-daimler-test-trucks.md",
+      "title": "Torc Robotics to scale self-driving fleet with Daimler test trucks",
+      "excerpt": "Torc Robotics announced that it will scale its self-driving truck testing in the southwest in early 2021 using an enhanced prototype truck developed with Daimler Trucks North America (DTNA).AdvertisementClick Here to Read MoreAdvertisement This new generation of Freightliner Cascadia test trucks bolsters Torc’s capability to develop and test its Level 4 self-driving technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetequipmentmag.com/torc-robotics-scale-self-driving-fleet-daimler-trucks/",
+      "originalUrl": "https://www.fleetequipmentmag.com/torc-robotics-scale-self-driving-fleet-daimler-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s18391.pcdn.co/wp-content/uploads/2020/10/Torc-Daimler.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Equipment Magazine",
+        "domain": "fleetequipmentmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-modelops-is-just-the-beginning-of-enterprise-ai.md",
       "title": "ModelOps Is Just The Beginning Of Enterprise AI",
       "excerpt": "Most of this year, enterprises have been reviewing the lessons learned in the past few years from their Enterprise AI initiatives; i.e. what has worked, what hasn’t, and how to move forward to modernize their infrastructures and take full advantage of AI.",
@@ -1135,58 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-from-the-data-and-ai-expert-labs-start-with-outcomes.md",
-      "title": "From the Data and AI Expert Labs: Start with outcomes",
-      "excerpt": "IBM’s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization’s unique needs. In From the Data and AI Expert Labs, I’ll take the expert learnings",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V1.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T09:09:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

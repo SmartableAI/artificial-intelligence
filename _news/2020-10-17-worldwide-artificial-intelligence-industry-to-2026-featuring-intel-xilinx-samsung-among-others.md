@@ -1,29 +1,38 @@
 ---
 category: news
 title: "Worldwide Artificial Intelligence Industry to 2026 - Featuring Intel, Xilinx & Samsung Among Others"
-excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research."
-publishedDateTime: 2020-10-16T21:48:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/worldwide-artificial-intelligence-industry-to-2026---featuring-intel-xilinx--samsung-among-others-301154088.html"
-webUrl: "https://www.prnewswire.com/news-releases/worldwide-artificial-intelligence-industry-to-2026---featuring-intel-xilinx--samsung-among-others-301154088.html"
+excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
+publishedDateTime: 2020-10-16T22:04:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/worldwide-artificial-intelligence-industry-to-2026-featuring-intel-xilinx-samsung-among-others-1029689939"
+webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-artificial-intelligence-industry-to-2026-featuring-intel-xilinx-samsung-among-others-1029689939"
 type: article
-quality: 25
-heat: 25
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
+related:
+  - title: "AI in Supply Chain & Logistics Market Experience a Revolutionary growth by 2025 | IBM, BonVision Technology, Intel, SAP, General Electric"
+    excerpt: "Global AI in Supply Chain & Logistics Market Size Study by Component (Hardware, Software, Services), by Technology (Machine Learning, NLP, Context Aware Computing, Computer Vision) and by Regional Forecasts 2025 ,"
+    publishedDateTime: 2020-10-13T00:01:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/09/ai-in-supply-chain-logistics-market-experience-a-revolutionary-growth-by-2025-ibm-bonvision-technology-intel-sap-general-electric/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
-secured: "p0VSGsbm19VpBixegMgVUbtdQB3+0bdpkwVT45pJZv8O2dJeryGPz6SuSOPVjuNe0SEyVfLW1rYiqo1bf957F5+UYXlhqZSxQ6gZj8cbvDMC8AG5TyNFkuHd97Gry+N+j6vTgLM4e/hssSlSRaCIM+RsW1XZTesY4mqgCK0qNRWPUz5eR9c/zZwD3Cju8mRC+P7w9e9dTnpk6KI1B5I5RFfcPrl8QM9w5fUTndau2EXNhKVgv/n9J7SdFtyeJi5Kdb7vgVMNkrQO2ReuVutolV5e6LahnekUh+fMxCZ10XPlkR9jdP2I1BdGNvUVEvtct5JyYMJMqteTpHeM42hDXCIiOAO80XOY4qh1tKRNR+E=;siJxI2FBdNIyypCZwRHeOw=="
+secured: "z96a7Xj/4W7pa6tbIR6rFlaxt5189f3AF+D9bXhwGlisFHHiuRpHL76op3oadzsGIKjzz4ZV9acYZtIKSyEC9uN7pb5BG5B5AUsaaf8J2UWp2UVGMg1/XO21L3UOsFBaq3knhMVjnAsO+MLEiC/F3pogpIT5Wq9GXuc4HJPQmZdR/ofJbxSSyGTb8Fp5KZpWAX77VCkKBWq9RNZ77sTuImkPuAMNsRJ9ZU5NE8s6lQLdgv8l+MFB/SU7nM/OPpD3SdqNDyDbqfXqKTq7PfKl630Nttm8lUh9L6fcV0/QEfSm+FZnQ4Imd7WMM5Sm+IdlbnW4U42DokkBjrnuB8d3p5Uq1ZKICA2ip+e8XKkme24=;XUswodnC/OPD3sEwijUeNg=="
 ---
 

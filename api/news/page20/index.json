@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-29-why-do-we-do-what-we-do-manipulating-yourself-to-better-manipulate-others.md",
+      "title": "Why Do We Do What We Do? Manipulating Yourself To Better Manipulate Others",
+      "excerpt": "Have you ever wondered what are the hidden motives behind your actions? Why do we convince ourselves to believe something that is simply not true? Why do we ignore aging and imminent death and focus on the current events?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2020/09/28/why-do-we-do-what-we-do-manipulating-yourself-to-better-manipulate-others/",
+      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2020/09/28/why-do-we-do-what-we-do-manipulating-yourself-to-better-manipulate-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f724f734e817dcca1144241%2F0x0.jpg",
+          "width": 1200,
+          "height": 1798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2020/09/28/why-do-we-do-what-we-do-manipulating-yourself-to-better-manipulate-others/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2020/09/28/why-do-we-do-what-we-do-manipulating-yourself-to-better-manipulate-others/amp/",
+      "publishedDateTime": "2020-09-28T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale.md",
       "title": "AWS Inferentia is now available in 11 AWS Regions, with best-in-class performance for running object detection models at scale",
       "excerpt": "AWS has expanded the availability of Amazon EC2 Inf1 instances to four new AWS Regions, bringing the total number of supported Regions to 11: US East (N. Virginia, Ohio), US West (Oregon), Asia Pacific (Mumbai, Singapore, Sydney, Tokyo), Europe (Frankfurt, Ireland, Paris), and South America (S&atilde;o",
@@ -1172,48 +1224,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-dissident-ai-weiwei-protests-possible-extradition-of-assange.md",
-      "title": "Dissident Ai Weiwei protests possible extradition of Assange",
-      "excerpt": "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London's Old Bailey court on Monday against the possible extradition of WikiLeaks founder Julian Assange to the United States,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php",
-      "originalUrl": "https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php",
-      "publishedDateTime": "2020-09-28T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

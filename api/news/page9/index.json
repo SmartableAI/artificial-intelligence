@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-08-startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots.md",
+      "title": "Startups joining SK Telecom’s accelerator include AI-driven mapping and vision for delivery robots",
+      "excerpt": "We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless carrier,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/",
+      "originalUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/installation-2.png?w=480",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/amp/",
+      "publishedDateTime": "2020-10-07T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-ibm-watson-advertising-expands-suite-makes-artificial-intelligence-the-backbone.md",
       "title": "IBM Watson Advertising Expands Suite, Makes Artificial Intelligence The Backbone",
       "excerpt": "IBM Watson Advertising is building a suite of solutions using artificial intelligence as the foundation. The suite, based on privacy measures, leverages first-party data to increase ad ...",
@@ -1050,34 +1103,34 @@
     {
       "path": "_news/2020-10-07-cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine.md",
       "title": "CIG Capital's Charles D. Carey on the lending-based revolution of project finance || FinTech Magazine",
-      "excerpt": "However, in our lead story, Charles D. Carey, serial entrepreneur and Managing Partner of CIG Capital, reminds us that investment is about more than just money and describes why funding desperately needs to modernise.",
+      "excerpt": "The financial services landscape is changing rapidly, and, in these turbulent times, investment companies can be inclined to focus solely",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466",
+      "webUrl": "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T04:46:00-07:00",
+      "publishedDateTime": "2020-10-07T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1139,57 +1192,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-how-ai-is-transforming-the-future-of-sales.md",
-      "title": "How AI Is Transforming The Future Of Sales",
-      "excerpt": "Highly optimized sales processes backed by AI and machine learning technology aren't a wishful future; they are already here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8c0a4bcc30e0006c1d9f4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/",
-      "publishedDateTime": "2020-10-07T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

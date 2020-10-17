@@ -116,6 +116,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "VXG announces platform to receive automated analysis at scale, effectively making any camera a smart camera"
+    excerpt: "For an example, one really has to look no further than Amazon Rekognition, which leverages Machine Learning (ML) to make it easy to identify things like objects, people, or text within videos and images. Outside of the technology industry, however ..."
+    publishedDateTime: 2020-10-15T09:38:02Z
+    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 26
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/retail-security_1599042170.jpg"
+        width: 612
+        height: 355
+        isCached: true
 
 secured: "/o16tuPxD3ZIlh1Xb2kPZ7EMVRTJualUlAOMG1s7mogGx5SkkHmSfD/0WU9QATE2E+KE5Qepxcbv/ajaMSxUk+zdyRhgD4wU9vg4X6vzj0wVTBL/aj+F3xJxJMDpBZuKXNLBT5ndLkHLxGufPRx5Tezzo19wgxOp6Xwvl9ua2ysIKbsnS1gixFkcUgEdf0OweJyAlGczAKX+zo9NVRJSqWfEAy0KngZyQKSKflBopQxgqyfSuYuspmXbuS3IocxxB1cZ+EQMXbzPkZGBlJgfdvR60n+X9Ji2MR2GG6q9CuBFMd+0N5ta+16SHoA32Fn/8VebXFs4Lku5+fkwhpSLIi4AXKt5pbTv3poQAPQmgTs=;SouhAyOt1uR3YTCTKxhacA=="
 ---

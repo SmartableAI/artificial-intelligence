@@ -2,6 +2,49 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-09-07-azure-machine-learning-studio-web-debuts.md",
+      "title": "Azure Machine Learning Studio Web Debuts",
+      "excerpt": "Microsoft announced the Azure Machine Learning studio web experience is generally available. The company yesterday (July 8) announced the advancement to GA, with a bevy of new features touching upon Notebooks functionality, the designer, experiment ...",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2020/07/09/azure-ml-studio-web.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2020/07/09/azure-ml-studio-web.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2017/0117vsm_McCaffreyDataSciLab.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-google-cloud-a-platform-for-innovation.md",
       "title": "Google Cloud: A platform for innovation",
       "excerpt": "Using AutoML Vision, organisations can automate the training of their own custom machine learning models. Or they can take advantage of the pre-trained machine learning models in our Vision API to assign labels to images and quickly classify them into ...",
@@ -1134,49 +1177,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-1980s-toy-robot-arm-converted-to-steam-and-other-explorations.md",
-      "title": "1980s Toy Robot Arm Converted To Steam And Other Explorations",
-      "excerpt": "We were doing our daily harvest of YouTube for fresh hacks when we stumbled on a video that eventually led us to this conversion of a 1980s Armatron robot to steam power. The video in question was ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/08/03/1980s-toy-robot-arm-converted-to-steam-and-other-explorations/",
-      "originalUrl": "https://hackaday.com/2016/08/03/1980s-toy-robot-arm-converted-to-steam-and-other-explorations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/09/Password-thumb.jpg?w=600&#038;h=600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

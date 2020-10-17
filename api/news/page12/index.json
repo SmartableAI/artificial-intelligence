@@ -2,6 +2,60 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-05-gtc-2020-round-up-nvidia-announces-virtual-world-for-robots-ai-video-calls.md",
+      "title": "GTC 2020 round-up: Nvidia announces virtual world for robots, AI video calls",
+      "excerpt": "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
+      "originalUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/nvidia-gtc-2020-jensen-huang-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp",
+      "publishedDateTime": "2020-10-05T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-want-india-to-become-global-hub-for-artificial-intelligence-pm-modi.md",
       "title": "Want India to become global hub for Artificial Intelligence: PM Modi",
       "excerpt": "Prime Minister Narendra Modi on Monday said that artificial intelligence (AI ... Similarly, it can play a crucial role in healthcare and education. The RAISE summit will also give opportunity to top 15 startups will be given an opportunity to showcase ...",
@@ -1106,49 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-2014-fcat-undergraduate-conference.md",
-      "title": "2014 FCAT Undergraduate Conference",
-      "excerpt": "iRobo explores the idea of an advanced mind-controlled robot that allows the user to live in an idealized form. Its purpose is to help the disabled experience a richer life and be a part of the community again. Hsieh, a presenter at the FCAT Undergraduate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfu.ca/fcat/events/ugc/ugc-2014.html",
-      "originalUrl": "https://www.sfu.ca/fcat/events/ugc/ugc-2014.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sfu.ca/content/sfu/fcat/events/ugc/ugc-2014/_jcr_content/main_content/textimage_1/image.img.original.low.jpg/1534354700435.jpg",
-          "width": 348,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-04T14:45:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Simon Fraser University",
-        "domain": "www.sfu.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

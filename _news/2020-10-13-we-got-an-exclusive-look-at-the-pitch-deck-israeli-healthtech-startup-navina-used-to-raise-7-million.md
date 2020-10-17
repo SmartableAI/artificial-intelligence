@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "We got an exclusive look at the pitch deck AI training startup Edgify used to raise $6.5 million"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 London-based AI startup Edgify has raised a $6.5 million seed round from an unnamed strategic investor (referred to as a ..."
-    publishedDateTime: 2020-10-12T06:01:00Z
-    webUrl: "https://www.businessinsider.com/edgify-london-ai-startup-transforming-collaboration-on-edge-devices-2020-10"
+  - title: "MedTech startup Navina raises $7M, taming medical data chaos with the power of AI"
+    excerpt: "Israeli startup Navina recognizes the COVID accelerated movement in the medical industry, and scores Seed funding to empower physicians with AI-powered insight at"
+    publishedDateTime: 2020-10-13T14:18:00Z
+    webUrl: "https://www.geektime.com/navina-raises-7m/"
+    ampWebUrl: "https://www.geektime.com/navina-raises-7m/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/navina-raises-7m/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: Geektime
+      domain: geektime.com
+    quality: 52
     images:
-      - url: "https://i.insider.com/5f8043bcea74820019ca61d0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.geektime.com/content/images/2020/10/NavinaTeamPhotoGadiOhad-1602495299.png"
+        width: 775
+        height: 521
         isCached: true
 
 secured: "8HBbIirgM+l+nU77jYo/5y17476fl+lyHKtogRJmlyftUBOH3CQffLw6tzLmgr5Rw3PCFKzLgb0kpuDXll83KB+axKdbv9lNKSyCEiBbisa05s27U6wt6X82DjF1R887t10reaDif94baBBblKd/bxWx1yXzntKyfd+Nrxnmb+YnEz5rlpIPCoK8ashW+eogQABnvGa09vxZtoA7hlTSxgAbYVtQCb06SvsLCQRM2cPqNIzlC/6zuus2KUojrjqfMhGoOzWBlJpxXo2BdFfGV/P3okr+IZIT8/Fu4dDl9k0G84SzwmNCht6Z4lQcUNA5IwrImTex+Ja4+yLYZYIivAYegFc6IEdg5i3w5ZbuJX4=;l73Fh9aYOE7lPeEoPyBOXQ=="

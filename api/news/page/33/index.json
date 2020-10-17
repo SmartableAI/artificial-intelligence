@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-09-17-new-ai-paradigm-may-reduce-a-heavy-carbon-footprint.md",
+      "title": "New AI Paradigm May Reduce a Heavy Carbon Footprint",
+      "excerpt": "Now researchers in the U.K. have discovered how to create an energy-efficient artificial neural network without sacrificing accuracy and published the findings in Nature Communications on August ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/new-ai-paradigm-may-reduce-heavy-carbon-footprint",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/new-ai-paradigm-may-reduce-heavy-carbon-footprint",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-09.png?itok=8uWeigq4",
+          "width": 384,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/new-ai-paradigm-may-reduce-heavy-carbon-footprint?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202009/new-ai-paradigm-may-reduce-heavy-carbon-footprint?amp",
+      "publishedDateTime": "2020-09-17T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-inside-politics-joe-biden-offers-brexit-bill-warning.md",
       "title": "Inside Politics: Joe Biden offers Brexit bill warning",
       "excerpt": "Boris Johnson has forged a compromise deal with the Tory rebels on his controversial legislation – but the US presidential candidate has a warning about jeopardising transatlantic trade, writes Adam F",
@@ -1147,58 +1190,6 @@
         "AI Hardware",
         "Natural Language Processing",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-aidoc-raises-20-million-more-for-its-computer-vision-medical-tools.md",
-      "title": "Aidoc raises $20 million more for its computer vision medical tools",
-      "excerpt": "Aidoc, which bills itself as an AI solutions provider for radiologists, today closed a $20 million extension to the series B it raised in April 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Aidoc-Covid-e1599583845771.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/",
-      "publishedDateTime": "2020-09-16T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

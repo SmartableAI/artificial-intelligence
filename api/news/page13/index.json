@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-05-2014-fcat-undergraduate-conference.md",
+      "title": "2014 FCAT Undergraduate Conference",
+      "excerpt": "iRobo explores the idea of an advanced mind-controlled robot that allows the user to live in an idealized form. Its purpose is to help the disabled experience a richer life and be a part of the community again. Hsieh, a presenter at the FCAT Undergraduate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfu.ca/fcat/events/ugc/ugc-2014.html",
+      "originalUrl": "https://www.sfu.ca/fcat/events/ugc/ugc-2014.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sfu.ca/content/sfu/fcat/events/ugc/ugc-2014/_jcr_content/main_content/textimage_1/image.img.original.low.jpg/1534354700435.jpg",
+          "width": 348,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-04T14:45:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Simon Fraser University",
+        "domain": "www.sfu.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution.md",
       "title": "Why Investors Should Focus More On The Infrastructure Supporting The AI Revolution",
       "excerpt": "AI has been heralded as the catalyst for a new industrial revolution. While the potential for massive impact is very real, venture investors looking to capitalize on growth ought to spend more time considering the enabling infrastructure.",
@@ -1136,49 +1179,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-13.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Shares Up 1.3%",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) shot up 1.3% during trading on Thursday . The stock traded as high as $39.44 and last traded at $39.44. 11,825 shares were traded during mid-day trading,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2020/10/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-1-3.html",
-      "originalUrl": "https://theenterpriseleader.com/2020/10/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-1-3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/10/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-1-3.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/10/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-1-3.html/amp",
-      "publishedDateTime": "2020-10-02T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

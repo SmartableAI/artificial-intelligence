@@ -75,20 +75,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Sunil Abraham joins Facebook India's public policy team, headed by Ankhi Das"
-    excerpt: "Sunil Abraham has joined Facebook India's public policy team, headed by Aknhi Das, as director for data and emerging technology."
-    publishedDateTime: 2020-10-12T06:15:00Z
-    webUrl: "https://www.medianama.com/2020/10/223-sunil-abraham-facebook-india/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 21
-    images:
-      - url: "https://i0.wp.com/www.medianama.com/wp-content/uploads/facebook-likes-2.png?fit=800%2C600&#038;ssl=1"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "VruLqDy677nyMd3g4xU8sk+bPDKKhXjYRhULXt53Qmkpe7N1nXQpjxzQQGi/6Qfet4Bah6K5ADArNeT+WTBQJmeOd/t8BjQCrk+7KL1kyhbozlWwDcWlPEIQtpJ4o9fGzs+9EvRQVk4+9pgs8V7nfbl0qIm0g//sqx7JxXbfjicFLV8XHrxRghcSIc0F4pyoF39UrCeOeJssU9+4WyJ+inQDjkE9Hqn6cZaN2BbImD046tjC0u/3HYkOl8dw5MU2p+LwaZFe8c9JIRX5ypKhBKBRfMkXbspBbV/o9KjAR343P3+UME7Wso+e+oIz3wj/zQ65tLwrT/60ny0kAgu5/o+oDmoKqQIwpa6OQ1ZnmLI=;Zf2/2zW4nQFgq36ILME2MA=="
 ---

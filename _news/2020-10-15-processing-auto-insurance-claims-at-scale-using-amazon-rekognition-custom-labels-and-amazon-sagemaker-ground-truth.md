@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-custom-am
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/"
 type: article
 quality: 114
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -115,6 +115,22 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/10/mitchell-winans-2-300x300.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "VXG announces platform to receive automated analysis at scale, effectively making any camera a smart camera"
+    excerpt: "For an example, one really has to look no further than Amazon Rekognition, which leverages Machine Learning (ML) to make it easy to identify things like objects, people, or text within videos and images. Outside of the technology industry, however ..."
+    publishedDateTime: 2020-10-15T09:38:02Z
+    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 26
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/retail-security_1599042170.jpg"
+        width: 612
+        height: 355
         isCached: true
 
 secured: "z4+abj04XdMNsbx0fK9FSLyp/eEUZCJWcyf0Y+u+fg+rSr/0DDNrz/BvmXxyyBhVzjXb66LhXc48BjHlMmVBfH3jc7KDZdvVtAydncpz/Jzjfo/EVtOzznBfPyjU35/LFfZGWZfsraDoIOgekCcF+gO8hnHAo1ThQklhkfItfMHl+TyHmvX+KcOoBpxbF6fnjfx/oOr2duRCG31RzyFUJhwCX/WSoyTLgOU+GB/sdYsU5QEIhqyGGCMW/El3J2njQ6r3uhzSDQNrXHj+T3zLs0MmllXD5nHRjKsX/NkVKXGKYEusf2kPXgGfsiubbs5oNPHqm4xpn7S5n6AweWLGrDxjA5XxgsvMtT5Fn2fcRY0=;Qe/IGv6Sd9KDpuIaiCWZhA=="

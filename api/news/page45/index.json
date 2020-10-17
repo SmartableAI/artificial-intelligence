@@ -2,6 +2,49 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-09-09-tamr-data-mastering-platform-now-available-on-microsoft-azure.md",
+      "title": "Tamr Data Mastering Platform Now Available on Microsoft Azure",
+      "excerpt": "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure. These capabilities allow companies to master",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tamr-data-mastering-platform-now-available-on-microsoft-azure/article_4688590a-bcaf-571f-9e96-50f6646e354e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tamr-data-mastering-platform-now-available-on-microsoft-azure/article_4688590a-bcaf-571f-9e96-50f6646e354e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-facial-recognition-tech-designed-to-identify-african-faces-wins-engineering-award.md",
       "title": "Facial recognition tech designed to identify African faces wins engineering award",
       "excerpt": "Racial bias is a well-documented problem in facial recognition technology. But as Charlette N'Guessan shows, it doesn't have to be.",
@@ -1121,49 +1164,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-computer-chips-that-can-read-our-brains-have-moved-from-sci-fi-to-reality-for-better-and-worse.md",
-      "title": "Computer chips that can read our brains have moved from sci-fi to reality, for better and worse",
-      "excerpt": "The near-term applications will mostly benefit society, but the danger of a dystopian future is becoming more real, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_37/3410638/200908-arnold-schwarzenegger-total-recall-ew-626p_e922fd2ecd3b951d1378390b3b409eef.jpg",
-          "width": 2500,
-          "height": 1682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1239575",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1239575",
-      "publishedDateTime": "2020-09-09T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

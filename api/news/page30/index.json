@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-09-20-ibm-says-us-should-adopt-new-export-controls-on-facial-recognition-systems.md",
+      "title": "IBM says U.S. should adopt new export controls on facial recognition systems",
+      "excerpt": "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations.",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/ibm-facial-recognition-exports-idCNL1N2G8043",
+      "originalUrl": "https://cn.reuters.com/article/ibm-facial-recognition-exports-idCNL1N2G8043",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2G8043",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2G8043",
+      "publishedDateTime": "2020-09-19T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-new-self-driving-truck-unveiled-in-china.md",
       "title": "New self-driving truck unveiled in China",
       "excerpt": "China's state-owned truck manufacturer First Automotive Works Jiefang Co. Ltd (FAW Jiefang) recently rolled out a self-driving heavy-duty truck J7.",
@@ -1146,58 +1198,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-radiation-therapy-market-key-players-industry-size-trend-share-and-global-growth-opportunities-forecast-to-2025.md",
-      "title": "Radiation Therapy Market Key Players Industry Size, Trend, Share and Global Growth Opportunities Forecast to 2025",
-      "excerpt": "Radiation Therapy Industry Description Wiseguyreports.Com Adds \"Radiation Therapy -Market Demand, Growth, Opportunities",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/radiation-therapy-market-key-players-industry-size-trend-share-and-global-growth-opportunities-forecast-to-2025-2020-09-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/radiation-therapy-market-key-players-industry-size-trend-share-and-global-growth-opportunities-forecast-to-2025-2020-09-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

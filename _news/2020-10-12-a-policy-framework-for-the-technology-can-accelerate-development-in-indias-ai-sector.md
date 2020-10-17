@@ -72,20 +72,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "Demand for AI talent pool continues to surge in India."
-    excerpt: "AI has become a most sought-after career opportunity for tech enthusiasts. Getting an education in AI requires a degree in computer science and equivalent streams, along with technical skills such as programming languages,"
-    publishedDateTime: 2020-10-12T05:53:00Z
-    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-jobs-india-october-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-10.jpg"
-        width: 1440
-        height: 720
-        isCached: true
   - title: "Intel, CBSE deliver virtual lesson on AI to 13K students in 24 hrs"
     excerpt: "New Delhi, Oct 14 (IANS) Chip-making giant Intel and the Central Board of Secondary Education (CBSE) on Wednesday achieved a new Guinness World Records title for most users taking an online artificial intelligence (AI) lesson in 24 hours."
     publishedDateTime: 2020-10-15T01:08:00Z

@@ -20,8 +20,8 @@ topics:
 
 related:
   - title: "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
-    excerpt: "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering ..."
-    publishedDateTime: 2020-10-14T08:16:42Z
+    excerpt: "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment."
+    publishedDateTime: 2020-10-14T16:38:00Z
     webUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
     type: article
     provider:

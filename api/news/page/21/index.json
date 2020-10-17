@@ -2,6 +2,48 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-09-28-dissident-ai-weiwei-protests-possible-extradition-of-assange.md",
+      "title": "Dissident Ai Weiwei protests possible extradition of Assange",
+      "excerpt": "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London's Old Bailey court on Monday against the possible extradition of WikiLeaks founder Julian Assange to the United States,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php",
+      "originalUrl": "https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php",
+      "publishedDateTime": "2020-09-28T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-ai-artificial-intelligence-chip-market.md",
       "title": "AI (Artificial Intelligence) Chip Market",
       "excerpt": "The latest study on the AI Artificial Intelligence Chip market published by the Reports and Data offers a deep understanding of the various market dynamics such as the challenges drivers trends and opportunities The report further elaborates on the micro",
@@ -1095,58 +1137,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-how-microsoft-flight-simulator-became-a-living-game-with-azure-ai.md",
-      "title": "How 'Microsoft Flight Simulator' became a 'living game' with Azure AI",
-      "excerpt": "Microsoft Flight Simulator is a triumph, one that fully captures the meditative experience of soaring through the clouds. But to bring the game to life, Microsoft and developer Asobo Studio needed more than an upgraded graphics engine to make its planes look more realistic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html",
-      "originalUrl": "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F92036cb1-ff61-11ea-bf3e-731546a38c60&client=amp-blogside-v2&signature=ffe8a2b4c0f922e4dd987dfb384f0ddaa42ed397",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-25T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
