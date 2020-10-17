@@ -24,21 +24,30 @@ images:
     isCached: true
 
 related:
-  - title: "Snapdocs raises $60 million to expedite mortgage processing with AI"
-    excerpt: "Snapdocs’ AI algorithms identify which pages can be electronically signed and which require ink, after which they detect where electronic signature tags are needed and apply metadata that ..."
-    publishedDateTime: 2020-10-12T15:01:00Z
-    webUrl: "https://venturebeat.com/2020/10/12/snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/10/12/snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai/amp/"
+  - title: "Assessing state of the art in AI for brain disease treatment"
+    excerpt: "The range of AI technologies available for dealing with brain disease is growing fast, and exciting new methods are being applied to brain problems as computer scientists gain a deeper understanding of the capabilities of advanced algorithms. Researchers ..."
+    publishedDateTime: 2020-10-14T20:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201014141102.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+  - title: "In a battle of AI versus AI, researchers are preparing for the coming wave of deepfake propaganda"
+    excerpt: "As researchers who have been studying deepfake detection and developing a tool for journalists, we see a future for these tools. They won’t solve all our problems, though, and they will be just one part of the arsenal in the broader fight against disinformation."
+    publishedDateTime: 2020-10-13T02:18:00Z
+    webUrl: "https://www.thestreet.com/phildavis/news/researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda"
+    ampWebUrl: "https://www.thestreet.com/.amp-phildavis/phildavis/news/researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-phildavis/phildavis/news/researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/2b47b5a2-dc97-41b3-b717-99340b453453-e1601998506908.png?w=1200&#038;strip=all"
-        width: 1199
-        height: 601
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc2MDU4NTI0MTU2MDQ0NzEz/file-20201007-16-1x1f5g5.jpg"
+        width: 620
+        height: 348
         isCached: true
 
 secured: "Wa8IP3kFbqi+CJVSpojUdKiU6ZyHQV5Op6sS0x2CCtHh/yQX5/TaJYVakaVitVXsVugHPx5D8oK19zYv50WLEuVo6+bHV9lG7rJKRebss9gOEn69Cpd3/jIGJd9mh5VVnlOcv+2NEZJI0tY+Odk6tEBprrXRJcPAz6TfrRf1sTlX8cTyOK5FACT2sUmYwya5LrVuN23i9Mz9OTsfPPIWCjhHxT7Cy+CX7Swp/6VJiq8B76m288aLcfi0+RhXcEkNCugIPSOAbFhaStvs7RtBVZ5J9h9MAerf2MAQxYSQ24pIU6dJkMxvQCSo+CaTHoD/rNPmWe14GXUfcQ9k2wgt3rQDtGOfFO7Qz6qZd993BTA=;KsJtIJiKOCOXpTKcJj+dFQ=="

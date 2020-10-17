@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -141,20 +141,6 @@ related:
       - url: "https://media.xconomy.com/wordpress/wp-content/images/2020/10/14003723/iStock-1173782127.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "The Next Level of Alt Data"
-    excerpt: "New sources of information continue to be revealed by technological innovation, placing an emphasis on blending it with experience and investment expertise."
-    publishedDateTime: 2020-10-12T14:09:00Z
-    webUrl: "https://www.institutionalinvestor.com/article/b1nqwsq33p0wck/the-next-level-of-alt-data"
-    type: article
-    provider:
-      name: Institutional Investor
-      domain: institutionalinvestor.com
-    quality: 24
-    images:
-      - url: "https://institutionalinvestor.euromoneycdn.com/Media/images/institutional-investor/tl-2020-10/CFM2-586706738-COVER.jpg"
-        width: 585
-        height: 384
         isCached: true
   - title: "Tyto Care Launches the Next Generation of Telehealth with an AI-Powered Diagnostic Support Solution"
     excerpt: "Tyto Care, the healthcare industry’s first all-in-one modular device and examination platform for AI-powered, on-demand, remote medical exams, today announced its AI-powered diagnostic support solution,"

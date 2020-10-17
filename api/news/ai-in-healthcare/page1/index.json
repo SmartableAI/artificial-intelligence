@@ -54,7 +54,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -124,6 +124,50 @@
       ]
     },
     {
+      "path": "_news/2020-10-14-innovaccers-data-activation-platform-now-on-microsoft-cloud-for-healthcare.md",
+      "title": "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare",
+      "excerpt": "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with its FHIR-enabled Data Activation Platform. Microsoft Cloud is committed to improving connectedness to drive superior performance across providers,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "publishedDateTime": "2020-10-13T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-olive-rolled-out-a-new-ai-powered-healthcare-platform-that-streamlines-revenue-cycle-management.md",
       "title": "Olive rolled out a new AI-powered healthcare platform that streamlines revenue cycle management",
       "excerpt": "Olive debuted a platform that speeds up revenue cycle management processes for healthcare workers—like prior authorizations and patient verifications.",
@@ -184,7 +228,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -237,7 +281,7 @@
       "originalUrl": "https://www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1324,58 +1368,6 @@
         "AWS AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-inside-google-healths-struggle-to-refocus-regain-trust-navigate-healthcare-and-make-money.md",
-      "title": "Inside Google Health's struggle to refocus, regain trust, navigate healthcare, and make money",
-      "excerpt": "The young team is up against trust issues, Alphabet's messy layout, and an industry it can't fix with the click of a button.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-healths-strategy-and-identity-within-alphabet-2020-9",
-      "originalUrl": "https://www.businessinsider.com/google-healths-strategy-and-identity-within-alphabet-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f732abb0ab50d00184aced7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,144 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-05-azure-machine-learning-helps-customers-stay-ahead-of-challenges.md",
+      "title": "Azure Machine Learning helps customers stay ahead of challenges",
+      "excerpt": "Organizations today are striving to build agility and resilience to the fast-changing environment we live in. AI and machine learning innovation can help tackle these emerging challenges and enable cost efficiencies.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-machine-learning-helps-customers-stay-ahead-of-challenges/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-machine-learning-helps-customers-stay-ahead-of-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/54a5211d-b1cd-4904-bdc7-275db6482b0f.png",
+          "width": 727,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-inside-politics-rishi-sunak-clashes-with-boris-johnson-over-eat-out-to-help-out.md",
+      "title": "Inside Politics: Rishi Sunak clashes with Boris Johnson over Eat Out to Help Out",
+      "excerpt": "In a pre-conference speech interview, the chancellor has hit back at the PM’s suggestion that the scheme may have caused the virus to spread, writes Adam Forrest",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-sunak-eat-out-help-out-scheme-tory-conference-brexit-talks-b801042.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-04T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions.md",
+      "title": "IBM, Fenergo to Transform New Customer Onboarding for Financial Institutions",
+      "excerpt": "PRNewswire/ -- SIBOS: IBM (NYSE: IBM ) and Fenergo, a leading provider of client lifecycle management (CLM) solutions for financial institutions, today",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-banking-and-credit-ec2663f8aa896523ece76079d1634583",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-banking-and-credit-ec2663f8aa896523ece76079d1634583",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-04T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-raise-2020-a-mega-virtual-summit-on-artificial-intelligence.md",
       "title": "RAISE 2020: A mega virtual summit on Artificial Intelligence",
       "excerpt": "RAISE 2020, a mega virtual summit on Artificial Intelligence will be inaugurated today by Prime Minister Narendra Modi at 7 pm.",
@@ -292,6 +430,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency.md",
+      "title": "Microsoft Ignites 2020 With New Services And Tools For Business Resiliency",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as the annual Microsoft Ignite Conference showcases its latest and upcoming solutions. Patrick wanted to share some takeaways, which he'll break into",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f78b987dd79fc6f76399291%2F0x0.jpg",
+          "width": 561,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/amp/",
+      "publishedDateTime": "2020-10-03T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1004,188 +1194,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-landmark-court-decision-says-robots-cant-be-inventors-but-the-fight-isnt-over.md",
-      "title": "Landmark court decision says robots can’t be inventors. But the fight isn’t over",
-      "excerpt": "The United Kingdom's highest court tossed out a case that would've established that machines can be creative and win patents for their inventions",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/",
-      "originalUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/?amp",
-      "publishedDateTime": "2020-10-02T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-covid-19-and-mining-social-media-enabling-machine-learning-workloads-with-big-data.md",
-      "title": "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data",
-      "excerpt": "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design",
-      "originalUrl": "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-the-rise-of-computer-vision.md",
-      "title": "The Rise of Computer Vision",
-      "excerpt": "These days, we’re producing more visual data than ever before. With revenues from computer vision expected to soar into the billions over the next few years, many organizations have already ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision",
-      "originalUrl": "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias.md",
-      "title": "AI and ethics: One-third of executives are not aware of potential AI bias",
-      "excerpt": "The majority of consumers expect companies to be accountable for their AI systems, yet about half of companies do not have a dedicated member overseeing ethical AI implementation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
-      "publishedDateTime": "2020-10-02T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

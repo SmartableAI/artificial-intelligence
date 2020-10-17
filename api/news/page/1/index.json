@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-17-artificial-intelligence-advanced-machine-learning-market.md",
+      "title": "Artificial Intelligence & Advanced Machine Learning Market",
+      "excerpt": "The latest 91 page survey report on Global Artificial Intelligence Advanced Machine Learning Market is released by HTF MI covering various players of the industry selected from global geographies like North America Europe Asia Pacific etc A perfect mix of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2162808/artificial-intelligence-advanced-machine-learning-market",
+      "originalUrl": "https://www.openpr.com/news/2162808/artificial-intelligence-advanced-machine-learning-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta17492562_g.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2162808/artificial-intelligence-advanced-machine-learning-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2162808/artificial-intelligence-advanced-machine-learning-market",
+      "publishedDateTime": "2020-10-17T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-ai-weekly-us-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests.md",
       "title": "AI Weekly: U.S. lawmakers decry the chilling effect of federal surveillance at protests",
       "excerpt": "There’s a thread that runs through police violence against Black people and connects to overpolicing, onerous and problematic tactics like facial recognition, AI-powered predictive policing ...",
@@ -1046,7 +1089,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1174,58 +1217,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements.md",
-      "title": "Researchers detail LaND, AI that learns from autonomous vehicle disengagements",
-      "excerpt": "AI researchers often disengagements as a signal ... 2,00 disengagements produced during the LaND training on Berkeley sidewalks. Delivery robot startup Kiwibot also operates at UC Berkeley and ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/",
-      "originalUrl": "https://venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/land.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/amp/",
-      "publishedDateTime": "2020-10-15T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

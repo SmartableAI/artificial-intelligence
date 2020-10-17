@@ -85,20 +85,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "A policy framework for the technology can accelerate development in India’s AI sector"
-    excerpt: "Tata Sons Chairman N Chandrasekaran addressed the key aspects of AI in education, healthcare and data governance that India should take in order to become the global AI capital."
-    publishedDateTime: 2020-10-12T13:43:00Z
-    webUrl: "https://www.analyticsinsight.net/india-can-ai-capital-needed-improvements-existing-programs/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 30
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-13.jpg"
-        width: 1680
-        height: 840
-        isCached: true
   - title: "HSBC UK introduces interactive voice response system for call centre queries"
     excerpt: "HSBC UK has begun the introduction of a new voice-driven menu to assist its telephone banking customers, enabling callers to state their intent verbally and be directed to the correct team automatically,"
     publishedDateTime: 2020-10-14T18:02:00Z

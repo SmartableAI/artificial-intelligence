@@ -44,6 +44,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
+  - title: "Artificial intelligence gets real in the OR"
+    excerpt: "Since the start of the year, some surgeons and residents at UC San Diego Health have had access to a new surgical resource: reams of video recordings of them performing operations, parsed by artificial intelligence."
+    publishedDateTime: 2020-10-17T05:00:00Z
+    webUrl: "https://www.modernhealthcare.com/care-delivery/artificial-intelligence-gets-real-or"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 37
+    images:
+      - url: "https://www.modernhealthcare.com/s3/files/styles/800x600/public/2016%20autonomous%20surgery%20on%20pig%20-%20%20Surgical_WEB.jpg?h=59011727"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "52ARuWMm+uO62l/TbLAN4MlJI7xictNz6Ho8x8OegSrxEk8s1T73zroQuH8P1F0BwZKyHfVa94cvnWeLOXJz0Xbrc0mu1oX5ES5lfmtkuEW+mUYh7EvzR7+j+3tLOBemWgWmbnhZHsexw43Dn3Os3iccqxJiKi/Am/dHf2EJm8T50cn4MmkPSo4AZeEAUWJxioQlWX1asC2M+s9ub29RX80fXc80AnW4DlddB4lWpwZhVfUb9uLWesQd+3NtABDfSIFUpmQ0b82+ifJHUMWppG8GNvNuePs3f+s+UfD7cN8aGIXZan4wPKLlZQ3czqfSeV2/tPvqsgTAoMAdcpaJM0ctP433OKdTWd3mf4oJ9yw=;B8Akr3oN3dlab4qE619VFQ=="
 ---

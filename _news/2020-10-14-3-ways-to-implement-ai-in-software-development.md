@@ -58,20 +58,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "How Will AI Impact the Future of Marketing? We’re Teaming up with Marketing AI Institute to Find Out."
-    excerpt: "Drift is teaming up with the Marketing AI Institute to better understand the true impact of AI on marketing. Be a part of this ground-breaking research here."
-    publishedDateTime: 2020-10-12T14:19:00Z
-    webUrl: "https://www.drift.com/blog/how-will-ai-impact-future-of-marketing/"
-    type: article
-    provider:
-      name: Drift
-      domain: drift.com
-    quality: 22
-    images:
-      - url: "https://www.drift.com/wp-content/uploads/2020/10/2010-Marketing-AI-Institute.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Adobe adds AI features to its digital marketing software"
     excerpt: "Adobe's (NASDAQ:ADBE) digital marketing software now comes with integrated AI tools to help campaigns better target ads based on previously viewed or currently viewing content.The type of AI tech isn't new,"
     publishedDateTime: 2020-10-12T18:29:00Z

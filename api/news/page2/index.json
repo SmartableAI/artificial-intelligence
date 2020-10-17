@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-16-researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements.md",
+      "title": "Researchers detail LaND, AI that learns from autonomous vehicle disengagements",
+      "excerpt": "AI researchers often disengagements as a signal ... 2,00 disengagements produced during the LaND training on Berkeley sidewalks. Delivery robot startup Kiwibot also operates at UC Berkeley and ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/",
+      "originalUrl": "https://venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/land.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/amp/",
+      "publishedDateTime": "2020-10-15T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-logistics-startup-fleetxio-raises-usd-31-mn-from-beenext-and-india-quotient.md",
       "title": "Logistics Startup Fleetx.io Raises USD 3.1 Mn From Beenext and India Quotient",
       "excerpt": "The fresh capital received in the pre-series B round will be used for scaling in India and other markets, strengthening product and technology and hiring talent",
@@ -1094,7 +1146,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-van-phoenix-youtube/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1188,58 +1240,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-toronto-will-trial-self-driving-shuttles-in-early-2021.md",
-      "title": "Toronto will trial self-driving shuttles in early 2021",
-      "excerpt": "Local Motors will supply the latest iteration of its autonomous shuttle, dubbed Olli 2.0, for the trial. Olli 2.0 can accommodate up to eight passengers and",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
-      "originalUrl": "https://www.techspot.com/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-14-image-22.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
-      "publishedDateTime": "2020-10-14T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

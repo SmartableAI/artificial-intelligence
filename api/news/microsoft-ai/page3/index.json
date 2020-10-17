@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-14-better-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it.md",
+      "title": "Better outcomes with AI: Frost & Sullivan names Microsoft the leading AI platform for healthcare IT",
+      "excerpt": "Frost & Sullivan have recognized Microsoft as the “undisputed leader” in global AI platforms for the healthcare IT sector. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/",
+      "originalUrl": "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f86335ef-966f-4fca-bef4-121bf3aab9af.jpg",
+          "width": 954,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T03:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-microsoft-open-sources-tensorflow-directml.md",
+      "title": "Microsoft open sources TensorFlow-DirectML",
+      "excerpt": "Microsoft has announced it is open sourcing its extension of TensorFlow for Windows. The source code for TensorFlow-DirectML is now available on GitHub. “TensorFlow-DirectML bro",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/microsoft-open-sources-tensorflow-directml/",
+      "originalUrl": "https://sdtimes.com/ai/microsoft-open-sources-tensorflow-directml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/09/opensource_tfdml_blogimage-1.png",
+          "width": 624,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-11T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-id-rd-voice-biometrics-solutions-now-available-on-microsoft-azure-marketplace.md",
       "title": "ID R&D Voice Biometrics Solutions Now Available on Microsoft Azure Marketplace",
       "excerpt": "ID R&D has announced that its artificial intelligence-based voice biometrics solutions are now available on the Microsoft Azure Marketplace",
@@ -1287,92 +1392,6 @@
       "provider": {
         "name": "Telecompaper",
         "domain": "telecompaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-phoenixville-public-library-offers-free-online-program-in-september.md",
-      "title": "Phoenixville Public Library offers free online program in September",
-      "excerpt": "Phoenixville Public Library will host a free online presentation — “The Red Cross and YOU!” — on Tuesday, September 8 at 7:00 PM. Lynn Cohen of the American Red Cross, Southeastern PA Region, will be the speaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html",
-      "originalUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/1/37/1374194e-56cf-51d3-8af3-4f8e7208d475/5e615e660e7be.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.amp.html",
-      "cdnAmpWebUrl": "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.amp.html",
-      "publishedDateTime": "2020-09-02T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mercury",
-        "domain": "pottsmerc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-cognizant-to-acquire-pe-backed-10th-magnitude.md",
-      "title": "Cognizant to acquire PE-backed 10th Magnitude",
-      "excerpt": "Cognizant has agreed to acquire Chicago-based 10th Magnitude, a cloud specialist focused on the Microsoft Azure cloud computing platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
-      "originalUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/11/PEHub_NewsBriefs.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PE Hub",
-        "domain": "pehub.com",
         "images": null,
         "publishers": null,
         "authors": null

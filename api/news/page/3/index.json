@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-15-toronto-will-trial-self-driving-shuttles-in-early-2021.md",
+      "title": "Toronto will trial self-driving shuttles in early 2021",
+      "excerpt": "Local Motors will supply the latest iteration of its autonomous shuttle, dubbed Olli 2.0, for the trial. Olli 2.0 can accommodate up to eight passengers and",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
+      "originalUrl": "https://www.techspot.com/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-14-image-22.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
+      "publishedDateTime": "2020-10-14T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-building-a-medical-image-search-platform-on-aws.md",
       "title": "Building a medical image search platform on AWS",
       "excerpt": "Improving radiologist efficiency and preventing burnout is a primary goal for healthcare providers. A nationwide study published in Mayo Clinic Proceedings in 2015 showed radiologist burnout percentage at a concerning 61% [1]. In additon, the report concludes that “burnout and satisfaction with work-life",
@@ -648,7 +700,7 @@
       "originalUrl": "https://www.businessinsider.com/uk-forum-holds-meeting-to-assess-ai-in-financial-services-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1164,57 +1216,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-why-do-most-ai-projects-fail.md",
-      "title": "Why Do Most AI Projects Fail?",
-      "excerpt": "Many organizations fail to understand that the AI model is just as important as the final integration of which it will be a part.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efcc8f4cdc22100069576cc%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/amp/",
-      "publishedDateTime": "2020-10-14T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

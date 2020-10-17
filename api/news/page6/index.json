@@ -2,6 +2,145 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-12-on-heels-of-100m-funding-round-olive-expands-healthcare-ai-capabilities.md",
+      "title": "On heels of $100M funding round, Olive expands healthcare AI capabilities",
+      "excerpt": "Healthcare software startup Olive is expanding its artificial intelligence capabilities to assist healthcare workers with day-to-day tasks like prior authorizations and insurance verifications. The company's new Olive Helps platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities",
+      "originalUrl": "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercehealthcare/1602270586/GettyImages-899023542.jpg/GettyImages-899023542.jpg?s6QSCLVsKF0j8yq07lPNxxduzW8zU.ex",
+          "width": 6584,
+          "height": 4395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fierce Healthcare",
+        "domain": "fiercehealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-intels-hyderabad-ai-centre-to-focus-on-road-safety-health.md",
+      "title": "Intel’s Hyderabad AI centre to focus on road safety, health",
+      "excerpt": "Hyderabad, Oct 12 (IANS) Chip-making giant Intel on Monday said its newly launched applied Artificial Intelligence (AI) research centre in Hyderabad will focus on identifying and solving challenges in the healthcare and smart mobility segments through strong ecosystem collaboration.",
+      "sourceUrl": null,
+      "webUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/",
+      "originalUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsd.in/wp-content/uploads/2020/10/7d5acabd43d2a9d0db88a1ae63b5211f.jpg",
+          "width": 400,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/",
+      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/",
+      "publishedDateTime": "2020-10-12T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsd",
+        "domain": "newsd.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects.md",
+      "title": "AI And Machine Learning Provide Challenges And Opportunities For Data Center Architects",
+      "excerpt": "The ability to share high-speed NVMe flash storage resources can no longer match the performance required to effectively calculate that data in real time for AI+ML operations. Graphics processing (GPU) resources that can calculate data three-dimensionally ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37d1bb8beb90007c3a7d4%2F0x0.jpg",
+          "width": 1200,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/",
+      "publishedDateTime": "2020-10-12T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-robotic-interviews-machine-learning-and-the-future-of-workforce-recruitment.md",
       "title": "Robotic Interviews, Machine Learning And the Future Of Workforce Recruitment",
       "excerpt": "These would affect all aspects of HR functions such as the way HR professionals on-board and hire people, and the way they train them",
@@ -1087,135 +1226,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-taught-by-ai-these-drones-can-perform-incredible-aerial-acrobatics.md",
-      "title": "Taught by AI, these drones can perform incredible aerial acrobatics",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/drones-ai-acrobatics/",
-      "originalUrl": "https://mashable.com/video/drones-ai-acrobatics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F10%252F09%252F14%252Ffb5066ec3bbf42fd9e04464cf84e4044.072ce.jpg%252F1200x630.jpg?signature=38gJR6xTZKIdNAONhPFavOs_Rtw=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/drones-ai-acrobatics.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/drones-ai-acrobatics.amp",
-      "publishedDateTime": "2020-10-09T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-study-explores-the-use-of-robots-ai-to-ease-covid-19-pressures-on-hospitals.md",
-      "title": "Study Explores the Use of Robots, AI to Ease COVID-19 Pressures on Hospitals",
-      "excerpt": "Hospitals across the globe could raise their productivity and efficiency as well as increase safety and quality while limiting and decreasing charges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11686",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=11686",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.azorobotics.com/images/news/ImageForNews_11686_16022476570691643.png",
-          "width": 950,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11686",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686",
-      "publishedDateTime": "2020-10-09T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-torc-robotics-to-scale-self-driving-fleet-with-daimler-test-trucks.md",
-      "title": "Torc Robotics to scale self-driving fleet with Daimler test trucks",
-      "excerpt": "Torc Robotics announced that it will scale its self-driving truck testing in the southwest in early 2021 using an enhanced prototype truck developed with Daimler Trucks North America (DTNA).AdvertisementClick Here to Read MoreAdvertisement This new generation of Freightliner Cascadia test trucks bolsters Torc’s capability to develop and test its Level 4 self-driving technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetequipmentmag.com/torc-robotics-scale-self-driving-fleet-daimler-trucks/",
-      "originalUrl": "https://www.fleetequipmentmag.com/torc-robotics-scale-self-driving-fleet-daimler-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s18391.pcdn.co/wp-content/uploads/2020/10/Torc-Daimler.jpg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Equipment Magazine",
-        "domain": "fleetequipmentmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

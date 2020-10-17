@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-wants-ai-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft unveils efforts to make AI more accessible to people with disabilities"
+    excerpt: "Microsoft has announced a series of new efforts to make AI systems more useful for people with disabilities by developing more inclusive datasets."
+    publishedDateTime: 2020-10-13T15:09:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/13/microsoft-unveils-efforts-to-make-ai-more-accessible-to-people-with-disabilities/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/13/microsoft-unveils-efforts-to-make-ai-more-accessible-to-people-with-disabilities/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/13/microsoft-unveils-efforts-to-make-ai-more-accessible-to-people-with-disabilities/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 101
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-13T150649.322-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Microsoft, AICTE collaborate to skill students, educators in AI, IoT, Big Data, more"
     excerpt: "As part of the partnership, over 1,500-course modules from Microsoft will be made available to students and educators free of cost through AICTE's e-learning portal ELIS."
     publishedDateTime: 2020-10-13T10:10:00Z

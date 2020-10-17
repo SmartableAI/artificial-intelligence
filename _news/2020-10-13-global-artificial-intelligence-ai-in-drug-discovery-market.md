@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2156548/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2156548/global-artificial-intelligence-ai-in-drug-discovery-market"
 type: article
 quality: 72
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://cdn.openpr.com/T/a/Ta15512674_g.jpg"
         width: 566
         height: 348
-        isCached: true
-  - title: "AI based Edge Computing Chip Market: Competitive Dynamics & Global Outlook 2025"
-    excerpt: "LP INFORMATION recently released a research report on the AI based Edge Computing Chip market analysis and elaborate the industry coverage current market competitive status and market outlook and forecast by 2025 Moreover it categorizes the global AI based Edge"
-    publishedDateTime: 2020-10-15T08:20:00Z
-    webUrl: "https://www.openpr.com/news/2160305/ai-based-edge-computing-chip-market-competitive-dynamics"
-    ampWebUrl: "https://www.openpr.com/amp/2160305/ai-based-edge-computing-chip-market-competitive-dynamics"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2160305/ai-based-edge-computing-chip-market-competitive-dynamics"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 70
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta15569481_g.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Artificial Intelligence (AI) is a significant part of Industry 4.0: Global Business Leaders"
     excerpt: "Mr CP Gurnani, Managing Director and Chief Executive Officer, Tech Mahindra today said that artificial intelligence will be the driving force for Industry 4.0. Speaking at the Session"

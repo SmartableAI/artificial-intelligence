@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-14-why-do-most-ai-projects-fail.md",
+      "title": "Why Do Most AI Projects Fail?",
+      "excerpt": "Many organizations fail to understand that the AI model is just as important as the final integration of which it will be a part.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efcc8f4cdc22100069576cc%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/amp/",
+      "publishedDateTime": "2020-10-14T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-aws-cohesity-announce-partnership-aimed-at-tackling-data-silos.md",
       "title": "AWS, Cohesity Announce Partnership Aimed at Tackling Data Silos",
       "excerpt": "Cohesity has entered a data management partnership with Amazon Web Services aimed at helping companies secure, govern and analyze their ever-increasing amounts of data.",
@@ -596,6 +647,50 @@
       ]
     },
     {
+      "path": "_news/2020-10-14-innovaccers-data-activation-platform-now-on-microsoft-cloud-for-healthcare.md",
+      "title": "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare",
+      "excerpt": "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with its FHIR-enabled Data Activation Platform. Microsoft Cloud is committed to improving connectedness to drive superior performance across providers,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "publishedDateTime": "2020-10-13T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30.md",
       "title": "Amazon Personalize improvements reduce model training time by up to 40% and latency for generating recommendations by up to 30%",
       "excerpt": "We’re excited to announce new efficiency improvements for Amazon Personalize. These improvements decrease the time required to train solutions (the machine learning models trained with your data) by up to 40% and reduce the latency for generating real-time recommendations by up to 30%. Amazon Personalize",
@@ -1027,7 +1122,7 @@
       "originalUrl": "https://www.openpr.com/news/2156548/global-artificial-intelligence-ai-in-drug-discovery-market",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1102,73 +1197,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-robots-will-watch-learn-and-reason-in-ais-augmented-reality.md",
-      "title": "Robots will watch, learn and reason in AI’s augmented reality",
-      "excerpt": "Australia has no choice but to step up investment in artificial intelligence, says Anton van den Hengel, whose Adelaide research group was awarded 20m in the federal budget last week to boost Australias position in this highly competitive research field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
-      "originalUrl": "https://www.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
-      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
-      "publishedDateTime": "2020-10-12T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-bernard-marr-what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence.md",
-      "title": "Bernard Marr: What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence?",
-      "excerpt": "LinkedIn has ranked Bernard as one of the world’s top 5 business influencers. He is a frequent contributor to the World Economic Forum and writes a regular column for Forbes. Every day Bernard actively engages his 1.5 million social media followers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/BernardMarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/bernard-marr-what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence/ar-BB19XKVy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "twitter.com/bernardmarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
-        "domain": "twitter.com/bernardmarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

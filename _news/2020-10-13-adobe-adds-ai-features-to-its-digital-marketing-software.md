@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "How Will AI Impact the Future of Marketing? We’re Teaming up with Marketing AI Institute to Find Out."
-    excerpt: "Drift is teaming up with the Marketing AI Institute to better understand the true impact of AI on marketing. Be a part of this ground-breaking research here."
-    publishedDateTime: 2020-10-12T14:19:00Z
-    webUrl: "https://www.drift.com/blog/how-will-ai-impact-future-of-marketing/"
-    type: article
-    provider:
-      name: Drift
-      domain: drift.com
-    quality: 22
-    images:
-      - url: "https://www.drift.com/wp-content/uploads/2020/10/2010-Marketing-AI-Institute.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
 
 secured: "LIbpanq+zU+llJ/VkmJEz9TMCbstNtwJcW+C99gisqfSXM4d2kNSyVYWFhr0hqAZm4cHQo9JTwcvW8o6FQsc9kAZ8mXG7gL/U7fxNxF+Za6I4SSAXCzjifRCFpjtbcPQvsJo87dA2v0e87wPJljYWTsC78vvxDwJ/4EZDa7TQ/Eu/j0qAgzdQjPTQ2wr2NinW0L49xD6shP/rVRwcZOQnrUlzKuqwadZP0bXJtjH0UW+WaJsUzEHDcGwjP9+xmgmXwe4yD+wEuHQqqtuOhNdzmaGqQHH02lovu/mUb+PXQb4GL5+VwX/yj4fUsbDD7kuVc9MbQCtZA2w1Hyq+tdqB5qa3Lr9zWDDLSOXMPfvJ1I=;qntNRzWKQmlJ8k/ExrDXBQ=="
 ---

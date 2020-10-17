@@ -159,6 +159,50 @@
       ]
     },
     {
+      "path": "_news/2020-10-14-innovaccers-data-activation-platform-now-on-microsoft-cloud-for-healthcare.md",
+      "title": "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare",
+      "excerpt": "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with its FHIR-enabled Data Activation Platform. Microsoft Cloud is committed to improving connectedness to drive superior performance across providers,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "publishedDateTime": "2020-10-13T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity.md",
       "title": "Announcing advanced Azure Machine Learning nanodegree program with Udacity",
       "excerpt": "Earlier this year we announced a free ‘introduction to Machine Learning’ course with Udacity, empowering 10,000 scholars from all over the world to learn the basics of machine learning. Today, we announce the new Machine Learning Engineer for Microsoft Azure Nanodegree Program on Udacity—students can",
@@ -211,7 +255,7 @@
       "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -605,6 +649,58 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency.md",
+      "title": "Microsoft Ignites 2020 With New Services And Tools For Business Resiliency",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as the annual Microsoft Ignite Conference showcases its latest and upcoming solutions. Patrick wanted to share some takeaways, which he'll break into",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f78b987dd79fc6f76399291%2F0x0.jpg",
+          "width": 561,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/amp/",
+      "publishedDateTime": "2020-10-03T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1356,93 +1452,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-microsoft-launches-azure-for-operators-cloud-initiative.md",
-      "title": "Microsoft launches Azure for Operators cloud initiative",
-      "excerpt": "Microsoft has announced the launch of Azure for Operators, an initiative aimed at network operators that it says will expand connectivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rapidtvnews.com/2020092959120/microsoft-launches-azure-for-operators-cloud-initiative.html",
-      "originalUrl": "https://www.rapidtvnews.com/2020092959120/microsoft-launches-azure-for-operators-cloud-initiative.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rapidtvnews.com/2020092959120/microsoft-launches-azure-for-operators-cloud-initiative.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020092959120/microsoft-launches-azure-for-operators-cloud-initiative.amp.html",
-      "publishedDateTime": "2020-09-29T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm.md",
-      "title": "Deep Neural Networks Market Booming Worldwide with leading Players Google, Oracle, Microsoft, IBM",
-      "excerpt": "Global Deep Neural Networks Market The global Deep Neural Networks Market size was valued at USD 1.26 Billion in 2019 and is anticipated to reach USD 5.98 Billion by 2027 at a CAGR of 21.4%. The global neural networks market is growing predominantly as the demand for implementing the deep neural network in healthcare and BFSI sectors are flourishing extensively.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm-2020-09-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm-2020-09-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

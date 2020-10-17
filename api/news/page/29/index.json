@@ -2,6 +2,194 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-09-22-the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law.md",
+      "title": "“The Reasonable Robot” Looks At The Intersection Of Artificial Intelligence (AI) And Law",
+      "excerpt": "I have issues with many of the suggestions the author makes, still I think everyone should read the book. It brings up issues of critical importance as AI gains a more prevalent impact on society. What’s needed is the discussion that Ryan Abbot’s book,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/amp/",
+      "publishedDateTime": "2020-09-21T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-long-island-artificial-intelligence-startup-can-write-your-emails.md",
+      "title": "Long Island artificial intelligence startup can write your emails",
+      "excerpt": "The time you spend writing emails could be cut drastically. A college student has launched a Long Island artificial intelligence startup that writes emails automatically from a few fragmentary notes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
+      "originalUrl": "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.49402301.1600711691!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
+      "publishedDateTime": "2020-09-21T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-photoshop-sky-replacement-continues-adobes-ai-magic-rally.md",
+      "title": "Photoshop Sky Replacement continues Adobe’s AI magic rally",
+      "excerpt": "Adobe showed their latest in AI Photoshop magic with Sky Replacement. With this special feature, the user will (most likely) begin with a photo captured outdoors with a view of the sky",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/photoshop-sky-replacement-continues-adobes-ai-magic-rally-21638932/",
+      "originalUrl": "https://www.slashgear.com/photoshop-sky-replacement-continues-adobes-ai-magic-rally-21638932/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/09/expandupouaga.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/photoshop-sky-replacement-continues-adobes-ai-magic-rally-21638932/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/photoshop-sky-replacement-continues-adobes-ai-magic-rally-21638932/amp/",
+      "publishedDateTime": "2020-09-21T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-twitter-investigating-racial-bias-after-users-noticed-the-platform-sometimes-prefers-white-faces.md",
+      "title": "Twitter investigating racial bias after users noticed the platform sometimes prefers White faces",
+      "excerpt": "Twitter says it's investigating why its picture-cropping algorithm sometimes prefers White faces to Black ones after users alerted the company to the issue.",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/elonmusk/status/1307828265445400579?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1307828265445400579|twgr^share_3&ref_url=https%3A%2F%2Felectrek.co%2F2020%2F09%2F21%2Ftesla-offer-machine-learning-training-as-web-service-dojo-supercomputer%2F",
+      "originalUrl": "https://www.cnbc.com/2020/09/21/twitter-investigating-after-users-spot-mobile-app-prefers-white-faces.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-seattle-based-startup-investment-firm-flying-fish-is-raising-a-new-fund.md",
       "title": "Seattle-based startup investment firm Flying Fish is raising a new fund",
       "excerpt": "Flying Fish, a Seattle-based venture capital firm formed in 2018 that invests in Pacific Northwest startups, is raising its second fund. A new SEC filing reveals the new fund.",
@@ -962,205 +1150,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-aws-vs-azure-vs-google-cloud-which-certification-is-best-for-professionals.md",
-      "title": "AWS vs Azure vs Google Cloud – Which certification is best for professionals??",
-      "excerpt": "In this post, we will pit AWS vs Azure vs Google Cloud, to explore which platform makes the most sense for professionals to learn depending on your skills, goals, and experience. A cloud platform is a collection of services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/",
-      "originalUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/03/Man-Laptop-Network-Server-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/amp/",
-      "publishedDateTime": "2020-09-20T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis.md",
-      "title": "Global Natural Language Processing (NLP) Market 2020 Key Players Data, Revenue, Future Development, Trend and Competitive Landscape Analysis by 2025",
-      "excerpt": "We, MarketsandResearch.biz have introduced a new research study titled Global Natural Language Processing (NLP) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 which contains a comprehensive database on future market estimation based on historical data analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-20T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-how-ai-platforms-are-improving-talent-management-in-2020.md",
-      "title": "How AI Platforms Are Improving Talent Management In 2020",
-      "excerpt": "It's encouraging to see how AI platforms evaluate candidates on their capabilities while anonymizing factors that might lead to hiring bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483424715%2F0x0.jpg%3FcropX1%3D967%26cropX2%3D5727%26cropY1%3D0%26cropY2%3D2234",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/amp/",
-      "publishedDateTime": "2020-09-20T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-artificial-intelligence-expert-warns-of-potential-disaster-of-ai-bias.md",
-      "title": "Artificial Intelligence: Expert warns of ‘potential disaster’ of AI bias",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) systems face a fundamental threat due to the influence of inherent bias, an expert has warned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias",
-      "originalUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias-1337896.jpg?r=1600616641231",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias/amp",
-      "publishedDateTime": "2020-09-20T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

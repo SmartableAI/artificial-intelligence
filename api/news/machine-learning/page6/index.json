@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-09-combatting-covid-19-misinformation-with-machine-learning-vb-live.md",
+      "title": "Combatting COVID-19 misinformation with machine learning (VB Live)",
+      "excerpt": "To counter misinformed narratives, Novetta Mission Analytics (NMA) is working with Africa CDC to identify narratives and behavior around the disease.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-498746659.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/amp/",
+      "publishedDateTime": "2020-09-09T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-machine-learning-aids-gene-activation-discovery.md",
       "title": "Machine learning aids gene activation discovery",
       "excerpt": "Scientists have long known that human genes spring into action through instructions delivered by the precise order of our DNA, directed by the four different types of individual links, or \"bases,\" coded A,",
@@ -1371,60 +1423,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-kaldi-speech-recognition-gains-tensorflow-deep-learning-support.md",
-      "title": "Kaldi speech recognition gains TensorFlow deep learning support",
-      "excerpt": "Kaldi, an open-source speech recognition toolkit, has been updated with integration with the open-source TensorFlow deep learning library. Developers Yishay Carmiel and Hainan Xu of Seattle-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
-      "originalUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/08/DSC2820-1.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

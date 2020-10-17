@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X24O"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X24O"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/ai-platforms/searchEnterpriseAI_020.png"
         width: 1200
         height: 400
-        isCached: true
-  - title: "How Will AI Impact the Future of Marketing? We’re Teaming up with Marketing AI Institute to Find Out."
-    excerpt: "Drift is teaming up with the Marketing AI Institute to better understand the true impact of AI on marketing. Be a part of this ground-breaking research here."
-    publishedDateTime: 2020-10-12T14:19:00Z
-    webUrl: "https://www.drift.com/blog/how-will-ai-impact-future-of-marketing/"
-    type: article
-    provider:
-      name: Drift
-      domain: drift.com
-    quality: 22
-    images:
-      - url: "https://www.drift.com/wp-content/uploads/2020/10/2010-Marketing-AI-Institute.jpg"
-        width: 2000
-        height: 1000
         isCached: true
   - title: "Adobe adds AI features to its digital marketing software"
     excerpt: "Adobe's (NASDAQ:ADBE) digital marketing software now comes with integrated AI tools to help campaigns better target ads based on previously viewed or currently viewing content.The type of AI tech isn't new,"

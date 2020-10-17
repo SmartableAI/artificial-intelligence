@@ -2,6 +2,194 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-08-31-getting-started-with-the-amazon-kendra-sharepoint-online-connector.md",
+      "title": "Getting started with the Amazon Kendra SharePoint Online connector",
+      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use enterprise search service powered by machine learning (ML). To get started with Amazon Kendra, we offer data source connectors to get your documents easily ingested and indexed. This post describes how to use Amazon Kendra’s SharePoint Online connector.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-sharepoint-online-connector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-sharepoint-online-connector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/27/4-Select-connector-type.jpg",
+          "width": 900,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T12:14:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-amazons-top-robotics-engineer-joins-ai-startup-scale.md",
+      "title": "Amazon’s Top Robotics Engineer Joins AI Startup Scale",
+      "excerpt": "Amazon.com Inc.’s top robotics engineer, who recently defended the company’s warehouse working conditions, left to join the artificial intelligence startup Scale AI Inc. Brad Porter will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-31/amazon-top-robotics-engineer-joins-scale-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-31/amazon-top-robotics-engineer-joins-scale-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKI.eyWS7Chs/v1/360x-1.jpg",
+          "width": 360,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-31/amazon-top-robotics-engineer-joins-scale-ai",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-31/amazon-top-robotics-engineer-joins-scale-ai",
+      "publishedDateTime": "2020-08-31T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-here-is-the-bloody-face-of-putins-new-crackdown.md",
+      "title": "Here Is the Bloody Face of Putin’s New Crackdown",
+      "excerpt": "On Sunday night, he was beaten up outside his home in Moscow hours after posting a YouTube video ... the Belarusian dictator now being aided and abetted by Putin. Last week, the country was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=sbFHhpYU15w",
+      "originalUrl": "https://www.thedailybeast.com/here-is-the-bloody-face-of-putins-new-crackdown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sbFHhpYU15w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-artificial-intelligence-in-government-global-markets-2020-2025-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Government: Global Markets 2020-2025 - ResearchAndMarkets.com",
+      "excerpt": "The Artificial Intelligence (AI) in government market was valued at US$4.904 billion in 2019. In recent years, government in different countries are taking a keen interest in artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200831005637/en/Artificial-Intelligence-Government-Global-Markets-2020-2025--",
+      "originalUrl": "https://www.businesswire.com/news/home/20200831005637/en/Artificial-Intelligence-Government-Global-Markets-2020-2025--",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200831005637/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research.md",
       "title": "IBM RXN: AI combined with robotics to speed molecular studies and chemical research",
       "excerpt": "AI and robotics are working together to find cures for diseases more quickly. Even if you're not in science, you can learn from this project.",
@@ -1019,203 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-heading-to-a-job-interview-ai-could-and-should-be-in-the-room.md",
-      "title": "Heading To A Job Interview? AI Could (And Should) Be In The Room",
-      "excerpt": "All will be armed with their top accomplishments and glowing references; all will be hoping for a job offer at the end. There’s just one problem: The job interview doesn’t always work. The interview has been the gold standard — maybe even the only standard — for securing a job for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f281b7a2378b9f74663653a%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/amp/",
-      "publishedDateTime": "2020-08-31T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-50-exoplanets-discovered-in-deep-space-by-advanced-artificial-intelligence.md",
-      "title": "50 exoplanets discovered in deep space by advanced artificial intelligence",
-      "excerpt": "More than 4,000 exoplanets have been discovered so far by astronomers. Now, artificial intelligence has discovered an additional 50, thanks to old data from NASA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/exoplanet-water-common.jpg",
-          "width": 1056,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence.amp",
-      "publishedDateTime": "2020-08-31T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-israeli-ai-chip-developer-hailo-opens-doors-on-japanese-expansion.md",
-      "title": "Israeli AI chip developer Hailo opens doors on Japanese expansion",
-      "excerpt": "Israeli microprocessor developer Hailo sees a path to support and dominate growing Asian AI chip market by establishing new Japanese",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/",
-      "originalUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2020/08/Hailo-8-AI-processor.jpg",
-          "width": 1600,
-          "height": 1598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/hailo-announces-japanese-expansion/amp/",
-      "publishedDateTime": "2020-08-31T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-3-top-artificial-intelligence-stocks-to-buy-in-september.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in September",
-      "excerpt": "Many people have probably heard of artificial intelligence but may be unsure ... as quantum computing and self-driving cars with its Waymo subsidiary. Despite its formidable search business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
-      "originalUrl": "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/3377434643bd31fc8332c880784b1b2b.png",
-          "width": 720,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
-      "publishedDateTime": "2020-08-31T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

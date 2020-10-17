@@ -2,6 +2,196 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-30-this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world.md",
+      "title": "This AI advised me to read The Hunger Games to survive this ‘cruel world’",
+      "excerpt": "If you’re unimpressed by the book recommendations provided by your tasteless friends, a new AI tool called GPT-3 Books could help revive your joy of reading. The system is the brainchild of Anurag Ramdasan and Richard Reis.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-30T145811.614-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/amp/",
+      "publishedDateTime": "2020-09-30T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-researchers-streamline-ptsd-diagnosis-with-machine-learning.md",
+      "title": "Researchers streamline PTSD diagnosis with machine learning",
+      "excerpt": "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan. And as the COVID crisis continues to take its toll on everyone's mental health,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/combatveteran.jpg",
+          "width": 1920,
+          "height": 1368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
+      "publishedDateTime": "2020-09-30T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic.md",
+      "title": "Using machine learning to tackle some of the world’s biggest problems (Infographic)",
+      "excerpt": "A look at some of the promising applications of machine learning to benefit society from understanding climate change to finding homes for the homeless.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/",
+      "originalUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/aws_VB-feature-image-01.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/amp/",
+      "publishedDateTime": "2020-09-30T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-ai-chipmaker-hailo-accelerates-deep-learning-at-the-edge.md",
+      "title": "AI chipmaker Hailo accelerates deep learning at the edge",
+      "excerpt": "Artificial intelligence chip company Hailo Technologies Ltd. said today it’s launching two new acceleration modules that will boost the processing capabilities of edge devices that run its specialist hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/09/30/ai-chipmaker-hailo-accelerates-deep-learning-edge/",
+      "originalUrl": "https://siliconangle.com/2020/09/30/ai-chipmaker-hailo-accelerates-deep-learning-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip-800x534.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-neuromaker-stem-announces-partnership-with-vinci-robotics-academy.md",
       "title": "NeuroMaker STEM Announces Partnership with Vinci Robotics Academy",
       "excerpt": "NeuroMaker, the STEM education arm of Somerville based company BrainCo announces their partnership with Vinci Robotics Academy, a 501(c)(3) non-profit organization that operates STEAM educational programs in the greater Boston area.",
@@ -993,205 +1183,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle.md",
-      "title": "Uber Safety Driver Charged In First Death Caused By 'Self-Driving' Vehicle",
-      "excerpt": "On Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona. For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle",
-      "originalUrl": "https://www.vice.com/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f636781e2069b0095ed22d7/lede/1600350374335-gettyimages-609845734.jpeg?crop=1xw:0.8588xh;0xw,0.1412xh",
-          "width": 4200,
-          "height": 2359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle",
-      "publishedDateTime": "2020-09-29T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-giant-tech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair.md",
-      "title": "Giant Tech Firms Could Pose Dangers To Financial System, Warns House Fintech Task Force Chair",
-      "excerpt": "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see too-big-to-fail fintechs in the future in a big,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
-      "originalUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f737b36e2e867ffa50a6877%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3071",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/",
-      "publishedDateTime": "2020-09-29T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace.md",
-      "title": "CyberMDX Healthcare Security Solution is Now Available in AWS Marketplace",
-      "excerpt": "CyberMDX, a leading healthcare cybersecurity provider delivering visibility and threat prevention for medical devices and clinical",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/il/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html",
-      "originalUrl": "https://www.prnewswire.com/il/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-address-returning-to-the-workplace-with-ibm-watson-works.md",
-      "title": "Address Returning to the  workplace  with IBM Watson Works",
-      "excerpt": "As organizations come out of lockdown and return to in-person work, they face hard decisions. At the same time, they are rethinking their previous assumptions about remote work. In the face of a global public health crisis, what resources can an organization look to for the confidence to emerge smarter",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/address-returning-to-the-workplace-with-ibm-watson-works/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/address-returning-to-the-workplace-with-ibm-watson-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/2020_08_28_Blog_WatsonWorksAssessment_Leadspace-1.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T12:16:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

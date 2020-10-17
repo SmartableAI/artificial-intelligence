@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20201013005224/en/Xilinx-an
 webUrl: "https://www.businesswire.com/news/home/20201013005224/en/Xilinx-and-Spline.AI-Develop-X-Ray-Classification-Deep-Learning-Model-and-Reference-Design-on-AWS/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ%3D%3D"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -26,15 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS"
-    excerpt: "model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically distributed inference ..."
-    publishedDateTime: 2020-10-13T09:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/xilinx-and-spline.ai-develop-x-ray-classification-deep-learning-model-and-reference"
+  - title: "Xilinx and Spline.ai use AI to enable COVID-19 detection at the edge"
+    excerpt: "Computer chipmaker Xilinx Inc. said today it has teamed up with an artificial intelligence startup called Spline.ai to create a medical X-ray classification model that it says is able to improve prediction rates for COVID-19 and pneumonia using AI at the edge."
+    publishedDateTime: 2020-10-14T00:24:00Z
+    webUrl: "https://siliconangle.com/2020/10/13/xilinx-spline-ai-use-ai-enable-covid-19-detection-edge/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS"
+    excerpt: "CloseCurlyDoubleQuote; The solution&CloseCurlyQuote;s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically ..."
+    publishedDateTime: 2020-10-13T13:05:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 21
 
 secured: "CbIP+I6KyL5yROTNtTn+TttCb8iZpyASEpmkPlOZrJUfdZq7FUJMMvtIyLzTIHKCkYJa69di4V5zLj3er0uelyci7awuMusnXWtY65jwd1Cs2kdr6nm00l3//vTgQyUPMKj9MA+jhuVkTa22nid1OCjpUnIjEhu43JtUJK4ZsDCz2trSt59d3u52pPGCJxAu7HxVJc2tb49elTUHCvEUsgH9CpQgTZSKNGhRMMnQFsK1Ssy9uIQ/XjiGD6dLSgC0ojLGydEi1wdEiQ0UGwFQZiTGVtsv/ur6swP+Hd1tUWWuGEB2UvrXYnOd6OWQ2nNPwvupTWSwZ6WjcER+eH+8O9vTA4qMkAjTOKOiAPY+TCE=;gAJucMJsk82vJ8+2qzAmiA=="
 ---

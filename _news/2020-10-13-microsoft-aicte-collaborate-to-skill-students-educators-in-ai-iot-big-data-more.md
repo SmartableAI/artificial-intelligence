@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Microsoft unveils efforts to make AI more accessible to people with disabilities"
+    excerpt: "Microsoft has announced a series of new efforts to make AI systems more useful for people with disabilities by developing more inclusive datasets."
+    publishedDateTime: 2020-10-13T15:09:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/13/microsoft-unveils-efforts-to-make-ai-more-accessible-to-people-with-disabilities/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/13/microsoft-unveils-efforts-to-make-ai-more-accessible-to-people-with-disabilities/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/13/microsoft-unveils-efforts-to-make-ai-more-accessible-to-people-with-disabilities/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 101
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-13T150649.322-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
 
 secured: "x/SVogZie0tWHfdP4nj2AMRedLGzyL15rmCG+fPpu4EAC6ZP+y/IEAXL4xgM/Iu7ReHCCxeQWrrQfQss2gKqHfr92RBV8JR7po1A4YEuVvXH/WyhjnuJYZm0mf6zTibbluhv+bK/Y//OEypVFOSd6l9M4wvD1XDmreBJADMll8MQTzenGH6qWF9I2knYxEv+puYqUyLJSrM894s9Bf6CUouhK6FwqxNOhSoc8EA5pZT6N0SSHRHY7b+55N2iiC1e/nfSo039yAle16Dur1ja6+Cd3KjFKwE9rd4IylgwAd2ZYH3ffsQYRVYyM+NUiBuhFov282SiKbae0nbrTtP4c1wFfw7844MfWWZLgcOxDwh1Pcj+L07ax3wHuOXfSbxYVra4WJig5KJbTCtnN2zKMFOc1PR3xFDQAkyis0syWoGAVBCBUliw4VP9kgrDBr4sEBw5J2mlu8c8mtQpN2DeKLhxR7YKf/ifzx4Ynj/PVIrQfnnY11BIpOC57ZI3OqpcuKgnedMwQbUBRMyjj97jKA==;v86tlY5+t/Sj5GMAgENKvw=="
 ---

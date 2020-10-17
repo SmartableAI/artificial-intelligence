@@ -26,36 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence 'to hasten Covid-19 detection'"
-    excerpt: "A JAPANESE technology, dubbed \"Genki Medical Imaging,\" is seen to help speed up detection of coronavirus in individuals.The technology,"
-    publishedDateTime: 2020-10-12T14:35:00Z
-    webUrl: "https://www.sunstar.com.ph/article/1873243/Baguio/Local-News/Artificial-intelligence-to-hasten-Covid-19-detection"
-    ampWebUrl: "https://www.sunstar.com.ph/ampArticle/1873243"
-    cdnAmpWebUrl: "https://www-sunstar-com-ph.cdn.ampproject.org/c/s/www.sunstar.com.ph/ampArticle/1873243"
+  - title: "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS"
+    excerpt: "SAN JOSE, Calif.--(BUSINESS WIRE)--Xilinx, Inc. (NASDAQ: XLNX), the leader in adaptive and intelligent computing, today introduced a fully functional medical X-ray classification deep-learning model and a reference design kit, in association with Spline.AI ..."
+    publishedDateTime: 2020-10-16T01:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201013005224/en/Xilinx-and-Spline.AI-Develop-X-Ray-Classification-Deep-Learning-Model-and-Reference-Design-on-AWS/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ%3D%3D"
     type: article
     provider:
-      name: Sun Star
-      domain: sunstar.com.ph
-    quality: 59
+      name: Business Wire
+      domain: businesswire.com
+    quality: 43
     images:
-      - url: "https://www.sunstar.com.ph/themes/sunstar/images/no-image-sunstar.png"
-        width: 700
-        height: 470
+      - url: "https://mms.businesswire.com/media/20201013005224/en/789319/23/xilinx-logo-full-color_%281%29.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "Global Contact Center Industry Meets COVID-19 Challenge with Remote Work, Automation, AI"
-    excerpt: "(GLOBE NEWSWIRE) -- The global effects of the COVID-19 pandemic have forced contact centers to quickly change the way they operate and sharpened interest in new technologies to address shifts in demand and consumer behavior,"
-    publishedDateTime: 2020-10-12T14:09:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/virus-outbreak-technology-business-lifestyle-connecticut-4f3abd780184670c8dc52647843e4f56"
+  - title: "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS"
+    excerpt: "CloseCurlyDoubleQuote; The solution&CloseCurlyQuote;s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically ..."
+    publishedDateTime: 2020-10-13T13:05:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 21
 
 secured: "2MiMk5KbFsxVkeFaqf3gPg3fwt2X3ltRoy9FQHCxKw65lfbB53/t8UDCFsePWcfC0+ow3SXNErCTJfMzFLbtN5WoHqRJdWbLRp242INXTB04fp7QE9epzCTxTWsHMnWU+CptBHX7MqUnnN6n+kPrHYzDQQr9caAHddPUEaYeJoG/lb3Cl9eQSVGyH104kNBfUdn9fYzwzqqdfMF+9xO9w2X/n65IFnL3ERPevfRu9nN10UhD0Rtk4hfQop5hAVX3TfyLUR3r0N3E6qpGN1ImQtpbDrDfF3Fndr4i0w5drYwJ/SYbPUrSGij19ZpZEx63XW9ZDyNsnX2jwR5s3pDJihc3oTM22dJ0tsK6yU3nE34t8bMLywtA/MQP+fgYHJkoUSkKpCfrG7t6Y8yrhQfA2i6e3BfVP4HNg8ElI1NCtXZq7TkfI/c88GkScSe94Q7OUx4dRoMdTF6V/XVXPkSf3J5OHMWXwyhrw5mazj6O1p+S4Mz5op3zv6qWhmEC3mS3P/gBJK/VQn51vzUZuB/siQ==;SZNvEwakmdDESLPwP4vBQg=="
 ---

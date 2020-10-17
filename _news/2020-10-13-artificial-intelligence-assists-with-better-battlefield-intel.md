@@ -74,20 +74,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "A policy framework for the technology can accelerate development in India’s AI sector"
-    excerpt: "Tata Sons Chairman N Chandrasekaran addressed the key aspects of AI in education, healthcare and data governance that India should take in order to become the global AI capital."
-    publishedDateTime: 2020-10-12T13:43:00Z
-    webUrl: "https://www.analyticsinsight.net/india-can-ai-capital-needed-improvements-existing-programs/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 30
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-13.jpg"
-        width: 1680
-        height: 840
-        isCached: true
   - title: "Intel, IIIT-Hyderabad, PHFI And Telangana Government Launch Applied Artificial Intelligence Research Center"
     excerpt: "The new center will focus on leveraging artificial intelligence (AI) to solve India’s population scale challenges in key sectors such as healthcare and smart mobility Through collaboration with"
     publishedDateTime: 2020-10-12T17:20:00Z

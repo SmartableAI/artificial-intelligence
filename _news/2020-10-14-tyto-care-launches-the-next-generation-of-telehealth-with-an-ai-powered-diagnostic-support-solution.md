@@ -150,20 +150,6 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "The Next Level of Alt Data"
-    excerpt: "New sources of information continue to be revealed by technological innovation, placing an emphasis on blending it with experience and investment expertise."
-    publishedDateTime: 2020-10-12T14:09:00Z
-    webUrl: "https://www.institutionalinvestor.com/article/b1nqwsq33p0wck/the-next-level-of-alt-data"
-    type: article
-    provider:
-      name: Institutional Investor
-      domain: institutionalinvestor.com
-    quality: 24
-    images:
-      - url: "https://institutionalinvestor.euromoneycdn.com/Media/images/institutional-investor/tl-2020-10/CFM2-586706738-COVER.jpg"
-        width: 585
-        height: 384
-        isCached: true
 
 secured: "bTnzW+oNk4ourna08TVNbV9XQrFYd0JblJugIv7eq7QPzbmNIGHejJne/Y5YqSUqleyZFSoTvdo2URrkobEkvdzmDRk50ZpudvQIRO+UgWFL8AmhXIx6zX1QMiVZRs3Azg8C2Rak/wF/C5iXlsn0SqLieAkp00riuLSyUM51XyqY4sRvtay++SJ25K3CN7vyhHY/Odhjgdo3GxD9um10iwSTbCIbBPyTQSolCoNcbHaiB27pfd4B2FYPdZejxwcf3CtKg3gHXS47nEGSjmPYQ/LnhgLUKsGBdybQPwspUckXsLCzaDIVrZ007R74pp+cUhpWnLFYuzwBlNEtdqgf9Y2immQ01UT9jNUab7YMnXA=;+MOLIwxiP856Lo3orQ1X3Q=="
 ---

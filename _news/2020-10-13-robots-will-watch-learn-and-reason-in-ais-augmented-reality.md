@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theaustralian.com.au/higher-education/robots-will-watch-
 cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
+  - title: "Artificial intelligence gets real in the OR"
+    excerpt: "Since the start of the year, some surgeons and residents at UC San Diego Health have had access to a new surgical resource: reams of video recordings of them performing operations, parsed by artificial intelligence."
+    publishedDateTime: 2020-10-17T05:00:00Z
+    webUrl: "https://www.modernhealthcare.com/care-delivery/artificial-intelligence-gets-real-or"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 37
+    images:
+      - url: "https://www.modernhealthcare.com/s3/files/styles/800x600/public/2016%20autonomous%20surgery%20on%20pig%20-%20%20Surgical_WEB.jpg?h=59011727"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "h7bHa7QSz4B/WIHCThUFjz/VnjUlr99JNp9s3e+bcXMMStt01l3DewGCE+yL4mNFJ8tSoEacR5WqvLZ5S1GsU8P/P0tN+6xC/lJQbHvETlPY7hbfPC5Po0kxM1ZTxAakCg3u0/sCdfxc8UdCkJkf3j2Ggw/8sJFT3Wf7VPRq4H92ST5hGOxq3jlXi7NpbW2lhCMl2Ywz2GLOw5Sz6id+8fqg8vhTVxQWCGxGfw5+5sVSIoeL1DFmULrCC3ffXrcgmFAppsunDeGXx2fRpcsYUpwW3wNFeSB++RD9trTQb55X9nNLturd3EnfzBFMW71xBI3TFu3lX1N2cZNqpjy/sunX+N4aC5Z3TdQg6z+Ral+eiHmtXK7TE107ejdvibrHse9iZJtoYt0A2fa2JtE7ld+f67Z88srks8sHNKk7KaXSJ6X/IQARRHIMLs7abRW4UTr+2iuNFXy3mba4sDL3/g0UUJ9KL4k/gakq/z5c0Zy/jFbAOtuxGf/8SC3QRnoT218QQBhV8R8NV2KdzuiGcg==;AW8mx2GatphpEZ0XSyGmpw=="
 ---

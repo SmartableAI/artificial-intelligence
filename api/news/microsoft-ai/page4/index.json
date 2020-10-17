@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-03-phoenixville-public-library-offers-free-online-program-in-september.md",
+      "title": "Phoenixville Public Library offers free online program in September",
+      "excerpt": "Phoenixville Public Library will host a free online presentation — “The Red Cross and YOU!” — on Tuesday, September 8 at 7:00 PM. Lynn Cohen of the American Red Cross, Southeastern PA Region, will be the speaker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html",
+      "originalUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/1/37/1374194e-56cf-51d3-8af3-4f8e7208d475/5e615e660e7be.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.amp.html",
+      "cdnAmpWebUrl": "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.amp.html",
+      "publishedDateTime": "2020-09-02T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mercury",
+        "domain": "pottsmerc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-cognizant-to-acquire-pe-backed-10th-magnitude.md",
+      "title": "Cognizant to acquire PE-backed 10th Magnitude",
+      "excerpt": "Cognizant has agreed to acquire Chicago-based 10th Magnitude, a cloud specialist focused on the Microsoft Azure cloud computing platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
+      "originalUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/11/PEHub_NewsBriefs.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PE Hub",
+        "domain": "pehub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure.md",
       "title": "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure",
       "excerpt": "Press Release dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data scientists to deliver customer insights faster, driving profitability and customer loyalty.",

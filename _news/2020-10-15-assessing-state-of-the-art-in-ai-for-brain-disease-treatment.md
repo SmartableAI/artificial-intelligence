@@ -38,6 +38,20 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Automate Document Processing with AI"
+    excerpt: "Businesses have millions of documents and files, which are a cornerstone of communication, collaboration, transactions, and record-keeping. Yet the information contained within those documents is often inaccessible. Download this eBook to learn how Amazon ..."
+    publishedDateTime: 2020-10-13T17:46:00Z
+    webUrl: "https://www.cio.com/resources/209356/automate-document-processing-with-ai"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "m9quk3SfmkPtoFLgzBAV8+vghYe+0hu2N1LUmsoBh/PWL8hGZtCo61pF6OYRb11GJ2us1HD1x169rO3tshcLLKbMuM0tFve+vOkwvKQuT0OHJHl3Hy29Ma3bRrAI9k4RKnxxioIk/db8Z7AZ6QunvRaszL4U/pjwHKuh0FV5KxWljYfrslGr/6/5ShwXpCDQOHVDdo+Qb7w4rpGDOEv6Rbl3acdunUQwd98BbxhKERi91Onm7olSU1Obtx8bY3IMIFJjj4vdZ0HJ4vLMp4CDH5bLQ9O79iSxZNUx8TKYUzpvUWhDZErbuZLCQ4zT0swmpOo9FosWDG/PWSARIlx/Eo+jJUyj0eDgH6adbdl5bWg=;niwRyD1aHxVk4AGB43pW4w=="
 ---

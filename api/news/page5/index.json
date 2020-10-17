@@ -2,6 +2,73 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-13-robots-will-watch-learn-and-reason-in-ais-augmented-reality.md",
+      "title": "Robots will watch, learn and reason in AI’s augmented reality",
+      "excerpt": "Australia has no choice but to step up investment in artificial intelligence, says Anton van den Hengel, whose Adelaide research group was awarded 20m in the federal budget last week to boost Australias position in this highly competitive research field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
+      "originalUrl": "https://www.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
+      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
+      "publishedDateTime": "2020-10-12T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-bernard-marr-what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence.md",
+      "title": "Bernard Marr: What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence?",
+      "excerpt": "LinkedIn has ranked Bernard as one of the world’s top 5 business influencers. He is a frequent contributor to the World Economic Forum and writes a regular column for Forbes. Every day Bernard actively engages his 1.5 million social media followers and ...",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/BernardMarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/bernard-marr-what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence/ar-BB19XKVy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "twitter.com/bernardmarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
+        "domain": "twitter.com/bernardmarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia.md",
       "title": "Drone maker Delair spins out its computer vision platform to create Alteia",
       "excerpt": "In a recognition of how the drone business has shifted in recent years, Delair announced today that it will spin out its drone-data platform into a separate company called Alteia. The new company ...",
@@ -156,7 +223,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -261,7 +328,7 @@
       "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -409,6 +476,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-13-teslas-full-self-driving-beta-releases-to-some-drivers-on-october-20th.md",
+      "title": "Tesla's 'Full Self-Driving' beta releases to some drivers on October 20th",
+      "excerpt": "A small group of Tesla drivers will get the chance to test the company's 'Full Self-Driving' rewrite next week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
+      "originalUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F3b890af0-0cab-11eb-aff2-f11b123b62a1&client=amp-blogside-v2&signature=d1805af9a493dbf66adae49607fe3512a7edbe41",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html",
+      "publishedDateTime": "2020-10-12T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-intel-india-sets-up-centre-for-artificial-intelligence.md",
       "title": "Intel India sets up centre for artificial intelligence",
       "excerpt": "Intel India said it had partnered IIIT Hyderabad, Public Health Foundation of India and the Telangana government to unveil a research centre to focus on leveraging artificial intelligence (AI) to solve India’s population-scale challenges in sectors such as healthcare and smart mobility.",
@@ -417,7 +536,7 @@
       "originalUrl": "https://www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -616,7 +735,7 @@
       "originalUrl": "https://www.reuters.com/article/us-adobe-ai-idUSKBN26X24O",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1099,145 +1218,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-on-heels-of-100m-funding-round-olive-expands-healthcare-ai-capabilities.md",
-      "title": "On heels of $100M funding round, Olive expands healthcare AI capabilities",
-      "excerpt": "Healthcare software startup Olive is expanding its artificial intelligence capabilities to assist healthcare workers with day-to-day tasks like prior authorizations and insurance verifications. The company's new Olive Helps platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities",
-      "originalUrl": "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercehealthcare/1602270586/GettyImages-899023542.jpg/GettyImages-899023542.jpg?s6QSCLVsKF0j8yq07lPNxxduzW8zU.ex",
-          "width": 6584,
-          "height": 4395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fierce Healthcare",
-        "domain": "fiercehealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-intels-hyderabad-ai-centre-to-focus-on-road-safety-health.md",
-      "title": "Intel’s Hyderabad AI centre to focus on road safety, health",
-      "excerpt": "Hyderabad, Oct 12 (IANS) Chip-making giant Intel on Monday said its newly launched applied Artificial Intelligence (AI) research centre in Hyderabad will focus on identifying and solving challenges in the healthcare and smart mobility segments through strong ecosystem collaboration.",
-      "sourceUrl": null,
-      "webUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/",
-      "originalUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsd.in/wp-content/uploads/2020/10/7d5acabd43d2a9d0db88a1ae63b5211f.jpg",
-          "width": 400,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/",
-      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/",
-      "publishedDateTime": "2020-10-12T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsd",
-        "domain": "newsd.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects.md",
-      "title": "AI And Machine Learning Provide Challenges And Opportunities For Data Center Architects",
-      "excerpt": "The ability to share high-speed NVMe flash storage resources can no longer match the performance required to effectively calculate that data in real time for AI+ML operations. Graphics processing (GPU) resources that can calculate data three-dimensionally ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37d1bb8beb90007c3a7d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/",
-      "publishedDateTime": "2020-10-12T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla to launch Full Self Driving beta to select drivers next week"
-    excerpt: "Tesla CEO Elon Musk said on Monday the company will launch its next-gen Full Self Driving (FSD) set of features to \"a small number of people who are expert & careful drivers.\" The beta will become ..."
-    publishedDateTime: 2020-10-12T13:50:00Z
-    webUrl: "https://mashable.com/article/tesla-fsd-beta/"
-    ampWebUrl: "https://mashable.com/article/tesla-fsd-beta.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-beta.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 104
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F10%252F12%252Fe0%252F5ed98d36ee2242089642c6dacaaf02e1.07ff8.png%252F1200x630.png?signature=fob0FjddhvIdGIaPXMahO4gHE_A="
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla will release 'Full Self-Driving' beta next week, Musk says"
-    excerpt: "At Tesla's Battery Day event, the automaker promised that an early version of its long-awaited \"Full Self-Driving\" system would be available in \"a month or so.\" Now that a month or so has passed, a tweet from CEO Elon Musk makes it sound like everything's ..."
-    publishedDateTime: 2020-10-12T14:59:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-next-week-tweet/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-next-week-tweet/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-next-week-tweet/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla's 'Full Self-Driving' beta releases to some drivers on October 20th"
     excerpt: "A small group of Tesla drivers will get the chance to test the company's 'Full Self-Driving' rewrite next week."
     publishedDateTime: 2020-10-12T17:19:00Z
@@ -78,22 +46,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F3b890af0-0cab-11eb-aff2-f11b123b62a1&client=amp-blogside-v2&signature=d1805af9a493dbf66adae49607fe3512a7edbe41"
         width: 600
         height: 350
-        isCached: true
-  - title: "Self-driving startup Cruise is launching fully driverless testing in San Francisco this year"
-    excerpt: "CEO Dan Ammann has heralded the end of car ownership and advocated for self-driving ride-hailing as a solution to global warming."
-    publishedDateTime: 2020-10-15T21:45:00Z
-    webUrl: "https://www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/5e27d1fbb6d52d4c48798a32?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Tesla to Deploy Limited Full Self-Driving Beta Next Week"
     excerpt: "Tesla TSLA recently announced that it will launch limited models of full self-driving (FSD) vehicles on Oct 20. The fleet of fully-autonomous vehicles to be rolled out next week will be first available for a small number of careful and expert drivers for testing."
@@ -132,22 +84,6 @@ related:
       - url: "https://www.insidehook.com/wp-content/uploads/2020/10/Tesla-Full-Self-Driving-Beta.jpg?resize=1200,800"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Tesla Will Release Full Self-Driving Beta To Some Drivers Next Week"
-    excerpt: "The time has finally come. We can only hope the FSD rewrite is as profound as Elon Musk claims."
-    publishedDateTime: 2020-10-12T13:46:00Z
-    webUrl: "https://insideevs.com/news/448487/tesla-release-full-self-driving-beta-next-week/"
-    ampWebUrl: "https://insideevs.com/news/448487/tesla-release-full-self-driving-beta-next-week/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/448487/tesla-release-full-self-driving-beta-next-week/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/VZGoK/s1/musk-personally-pushes-autopilot-to-the-limit-to-improve-system.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Musk: Tesla Is Rolling Out a Beta of “Full Self-Driving” Next Week"
     excerpt: "Driving Beta” to certain owners some time next week, according to a tweet by CEO Elon Musk. In August, Musk promised that the next Full Self-Driving update will be a “quantum leap, because it’s a fundamental architectural rewrite,"
@@ -275,17 +211,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Tesla Autopilot’s Flaw Found! Instant Apparitions, Phantom Objects Can Cause Full Self-Driving to Malfunction and Harm Passengers"
-    excerpt: "Tesla's Autopilot was fool-proof and promising, as advertised by the company; still, Israel-based researchers found its ultimate flaw and weakness using"
-    publishedDateTime: 2020-10-12T15:27:00Z
-    webUrl: "https://infosurhoy.com/technology/tesla-autopilots-flaw-found-instant-apparitions-phantom-objects-can-cause-full-self-driving-to-malfunction-and-harm-passengers/"
-    ampWebUrl: "https://infosurhoy.com/technology/tesla-autopilots-flaw-found-instant-apparitions-phantom-objects-can-cause-full-self-driving-to-malfunction-and-harm-passengers/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/tesla-autopilots-flaw-found-instant-apparitions-phantom-objects-can-cause-full-self-driving-to-malfunction-and-harm-passengers/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 10
 
 secured: "MYqUrXNYN0udpZed90Rk/dluDz+zxAdwDTLYeRQUYrs9xKsFiM9+xPC+AGBNfMSoeuha0f4eMOHO929DIbRHyc90etZkBaGuEpqr23FZvD8ASF8Ed07v3a78GOcMKYzV3XPL2nhZ8Z2ydwBKDKWhxgFqgvfnaTWQn/5M6VH6574E/npI1teFvHF6YowXAnGWbHe1XT4EWgnjL9yXkgTCIWOT9NagTAYjTOtO+YwOyyTNcOaRBmeEl7GHRUmc3K5rX/VkYl2L4jCaP1pUVd7hxsAUIMWUj0T1gpRrWlPCvBwhZKSu+dXi0Chm79sagGJ6C4IsVNdZjbIHdFjXH6Kj99dQcrhTEbjSXrk2ifnmXPzIT0VWywpGVEaEyBJKXvkTQ0xYDWLJ5pHrcpO+nWmW1CcZbac3kgyUn4y5g8qrklfQ7KT8H5UQJRwV7kvG+nKV53mtMJU0HCBA9fxBmt521Uxd9BPWJEMfInKVCNqY6RKRqC2+IPOH624c6UNyKUnDAsHcZesBg8jY+nvH8I9Ypg==;pE5AtJEs9iQKWQ78a/QiMQ=="
 ---

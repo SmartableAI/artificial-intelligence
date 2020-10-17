@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/press-releases/2020-10-13/artificial-int
 webUrl: "https://www.bloomberg.com/press-releases/2020-10-13/artificial-intelligence-in-agriculture-market-to-advance-at-25-4-cagr-from-2020-to-2025-due-to-rising-adoption-of-ai-enabled"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025"
-    excerpt: "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025), owing to the rising demand for hygiene globally across various sectors. The global Disinfectant Robot Market (henceforth,"
-    publishedDateTime: 2020-10-12T14:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025-1029670262"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
 
 secured: "ZZmUIGbftdnpK1vEmXzqhRacyY4sKlFcUmxHko7vyOrWIElTgmXbz9bMAV5KGMtRflu7eI2Mg+DUy9MugnqD6r157zZx0gNUV7z7c1X2155UJbDnnpIy/W1HwbCbfXBHS2BfmbjEIq5PBqudgqrD2xCrCf0fpSiilTjysMtYgXIa03aBUZNhSHfksN1LN5EdQuhvssPQEmkCGyKyvhCHJcM0CUUR5MnvXTXM/iQNeQW/c7gfjRFBpWYZaafR+CoPH1D7gZdfj6Ti5B3V+tC2pFS0Zlu3krDENyuWUYfV8g5f4Wh+/AT2T6nbBkDymlo5/58tAhisTOatCI4HDPNwpxTfcpbhiu0pNeV8UBNXlK8=;MYOQZcN1KKVpmooNAV9SBw=="
 ---

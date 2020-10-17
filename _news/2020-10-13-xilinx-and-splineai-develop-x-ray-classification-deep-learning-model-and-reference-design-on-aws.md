@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS"
-excerpt: "model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically distributed inference ..."
-publishedDateTime: 2020-10-13T09:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/xilinx-and-spline.ai-develop-x-ray-classification-deep-learning-model-and-reference"
-webUrl: "https://www.nasdaq.com/press-release/xilinx-and-spline.ai-develop-x-ray-classification-deep-learning-model-and-reference"
+excerpt: "CloseCurlyDoubleQuote; The solution&CloseCurlyQuote;s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically ..."
+publishedDateTime: 2020-10-13T13:05:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
+webUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
 type: article
-quality: 51
-heat: 61
+quality: 21
+heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
@@ -33,7 +33,21 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Xilinx and Spline.ai use AI to enable COVID-19 detection at the edge"
+    excerpt: "Computer chipmaker Xilinx Inc. said today it has teamed up with an artificial intelligence startup called Spline.ai to create a medical X-ray classification model that it says is able to improve prediction rates for COVID-19 and pneumonia using AI at the edge."
+    publishedDateTime: 2020-10-14T00:24:00Z
+    webUrl: "https://siliconangle.com/2020/10/13/xilinx-spline-ai-use-ai-enable-covid-19-detection-edge/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "hPO/Egv37X+ONnEdLQVX6b0hCgdfThEKb1sVIkspzOWQQe2GyDZ7ebX0tOQROwcjO3ERxcApKszERH8n/a4PzNuSjOcyk1mCHed6pjXnbKfpwejkIq7+MKHQrTI7VgLKS1DxVZRDg1z8iEeOaockSa2iZFwx6ldBUwOge98DPXl3Zpk1djrZ/iWzS/tOPXSAlRoYPgtFL0r9M4MInI11iPhh2i/VxbVcDv3gR7sVYiE47Rqo6N+LOpWRWG1u3A19/zVEJSEto5cDh7xwgf+z53Swdv6WBEvHutgrZ0gZ3nSUhJQZO/ebEQTc3WjdXdzdIHUytihCpXXSfJ70oFAt/pM9qupd6NjxI2s/5DffNwQ=;kXmdWcsHaMn79d5nJZy4Og=="
+secured: "3IakUqVJVpNqe9AnGqTJJm2cb3780e28eb4m5FL9NrJxPWvZxgd4g7LQvMxW/WO+z+RCpFBnwg/oJjS2Kqgu2ESRGhwr+Kps5VtMslhLeh5daE2p7dK8ur9iYu02171En24w0zdkjTZV56ezHMiFp5hf7djB2XEphLk3Ac+gQXiQ4ly0hRdAM8IK04tNNonqpiNSuHi7Z2lfgAZ1Bl2fmSlgmvY5bCFtdMRJRY7oKp4o3UzVtmwdVnWZ5H+/N4Ysn3QEOyA2CSho3axnfvg5XCWaCcQqLAo1Kh4BFANO6XEm3EfKb1/tSBCXXj0ZaFjYir5gS2ZyJoEK9aIMu5VZH5+oouDfGDNyeCL11H8n1G4=;fQyYoyFAAg03H4A0gcz8wA=="
 ---
 

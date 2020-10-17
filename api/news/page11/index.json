@@ -2,6 +2,152 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-06-this-robot-fry-chef-on-rails-can-be-yours-for-30000.md",
+      "title": "This robot fry chef on rails can be yours for $30,000",
+      "excerpt": "The robot uses machine learning to identify foodstuff and a camera array (which includes a 3D depth-sensing cam from Intel and a thermal camera) to navigate its environment. A robotic arm then wields a spatula and grabs baskets full of food to fry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price",
+      "originalUrl": "https://www.theverge.com/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/7TlofFBOdE7uaQI8TjRq9jR9zKY=/0x0:700x433/1400x933/filters:focal(294x161:406x273):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67588185/flippy_roar.0.gif",
+          "width": 700,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price",
+      "publishedDateTime": "2020-10-06T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions.md",
+      "title": "How AI And Humans Can Work Together To Make Better Recruiting Decisions",
+      "excerpt": "As the co-founder of an AI-powered recruiting organization, I expect that AI won’t displace recruiting jobs. In fact, I anticipate that AI will become an indispensable tool for recruiters. Ask any recruiter: What’s the most tedious aspect of your job?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/amp/",
+      "publishedDateTime": "2020-10-06T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face-voice-authentication.md",
+      "title": "Marquis Software Deploys the Highest Level of Biometric Security by Using Aware's Knomi® for Face + Voice Authentication",
+      "excerpt": "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced that",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face--voice-authentication-301146607.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face--voice-authentication-301146607.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1283061/Aware_Logo.jpg?p=facebook",
+          "width": 1060,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-sarcos-defense-awarded-contract-by-us-air-force-to-develop-smart-dexterous-robotic-systems-with-advanced-artificial-intelligence.md",
       "title": "Sarcos Defense Awarded Contract by U.S. Air Force to Develop “Smart” Dexterous Robotic Systems with Advanced Artificial Intelligence",
       "excerpt": "Sarcos Defense Awarded Contract by U.S. Air Force to Develop “Smart” Dexterous Robotic Systems with Advanced Artificial Intelligence",
@@ -1022,152 +1168,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-nvidia-going-after-more-of-intels-data-center-business-with-new-processor-chips.md",
-      "title": "NVIDIA Going After More of Intel's Data Center Business With New Processor Chips",
-      "excerpt": "When announcing new artificial intelligence (AI) capabilities developed by his company earlier this year, NVIDIA (NASDAQ:NVDA) CEO Jensen Huang outlined a new type of processor that will become increasingly important in the years ahead: the data processing unit (DPU).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594099%2Fsemiconductor.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
-      "publishedDateTime": "2020-10-05T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-these-are-the-best-deals-from-ebays-fall-refresh-sale.md",
-      "title": "These are the best deals from eBay's Fall Refresh sale",
-      "excerpt": "Save an extra 15% on things like AirPods, the DJI Mavic Mini, DeWalt tools and more. Plus: Up to 90% off classic PC games.",
-      "sourceUrl": null,
-      "webUrl": "https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
-      "originalUrl": "https://www.cnet.com/news/these-are-the-best-deals-from-ebays-fall-refresh-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-make-your-everyday-smarter-with-jacquard.md",
-      "title": "Make your everyday smarter with Jacquard",
-      "excerpt": "Technology is most helpful when it’s frictionless. That is why we believe that computing should power experiences through the everyday things around you—an idea we call “ambient computing.” That’s why we developed the Jacquard platform to deliver ambient computing in a familiar, natural way: By building",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/",
-      "originalUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-02_at_1.07.46_PM.max-1200x1200.png",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/atap/jacquard-samsonite-backpacks/amp/",
-      "publishedDateTime": "2020-10-05T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

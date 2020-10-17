@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/uk-forum-holds-meeting-to-assess-a
 webUrl: "https://www.businessinsider.com/uk-forum-holds-meeting-to-assess-ai-in-financial-services-2020-10"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK regulators set up forum to get insights into AI"
-    excerpt: "UK regulators are staging the first meeting of the Artificial Intelligence Public Private Forum, a quarterly talking shop to gauge the impact of AI in financial services. The Forum will capture the views of 21 AI experts from across the financial and ..."
-    publishedDateTime: 2020-10-12T13:08:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36735/uk-regulators-set-up-forum-to-get-insights-into-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "UK regulators set up AI insights forum"
     excerpt: "UK regulators are staging the first meeting of the Artificial Intelligence Public Private Forum, a quarterly talking shop to gauge the impact of AI in financial services."
     publishedDateTime: 2020-10-12T17:32:00Z

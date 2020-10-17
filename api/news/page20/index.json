@@ -2,6 +2,194 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-29-inside-politics-tory-rebels-hope-for-deal-with-no-10-on-extra-scrutiny-powers.md",
+      "title": "Inside Politics: Tory rebels hope for deal with No 10 on extra scrutiny powers",
+      "excerpt": "Conservative backbenchers believe they’re in line for a bigger say on the coronavirus rules after a ‘cordial’ meeting with Jacob Rees-Mogg and the whips, writes Adam Forrest",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-coronavirus-rules-tory-mps-compromise-eu-brexit-trade-deal-talks-b688535.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-unlocking-the-secrets-of-language-ai-with-inter-language-vector-space.md",
+      "title": "Unlocking the Secrets of Language AI With Inter-language Vector Space",
+      "excerpt": "Interview with XTM International’s Rafał Jaworski on how interlanguage vector space impacts cost, delivery time, accuracy for linguists, LSPs",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/sponsored-content/unlocking-secrets-language-ai-inter-language-vector-space/",
+      "originalUrl": "https://slator.com/sponsored-content/unlocking-secrets-language-ai-inter-language-vector-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2020/09/ILVS-Slator-title-25-09-v2.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
+      "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
+      "excerpt": "MOUNTAIN VIEW, Calif., Sept. 28, 2020 /PRNewswire via COMTEX/ -- MOUNTAIN VIEW, Calif., Sept. 28, 2020 /PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS)",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-2020-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-2020-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T19:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology.md",
+      "title": "An AI Paper Published in a Major Journal Dabbles in Phrenology",
+      "excerpt": "On Friday, a trio of evolutionary psychology researchers published a research paper in Nature that sought to use machine learning to track historical changes in \"trustworthiness\" using facial expressions in portraits. The experiment was widely panned ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
+      "originalUrl": "https://www.vice.com/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f6e654076a76b0095a25f2b/lede/1601070833510-post-w-gradient-background-19.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
+      "publishedDateTime": "2020-09-28T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-microsoft-now-supports-12-indian-languages-including-assamese.md",
       "title": "Microsoft now supports 12 Indian languages including Assamese",
       "excerpt": "Microsoft Translator, a cloud-based free translation and transcription service from Microsoft, has added support for Assamese, the official language of Assam spoken by more than 14 million people in the Northeast.",
@@ -1034,204 +1222,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-ai-drug-rd-startup-xtalpi-announces-over-300-million-series-c-investment-led-by-softbank-vision-fund-picc-capital-and-morningside.md",
-      "title": "AI Drug R&D Startup XtalPi Announces Over 300 Million Series C Investment Led by SoftBank Vision Fund, PICC Capital, and Morningside",
-      "excerpt": "PRNewswire/ -- XtalPi, an Artificial Intelligence (AI) drug discovery and development technology company, today announces an oversubscribed Series C",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ai-drug-rd-startup-xtalpi-announces-over-300-million-series-c-investment-led-by-softbank-vision-fund-picc-capital-and-morningside-301139002.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ai-drug-rd-startup-xtalpi-announces-over-300-million-series-c-investment-led-by-softbank-vision-fund-picc-capital-and-morningside-301139002.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/632519/XtalPi_Logo.jpg?p=facebook",
-          "width": 1000,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-google-cloud-ai-prediction-service-becomes-generally-available.md",
-      "title": "Google Cloud AI Prediction Service Becomes Generally Available",
-      "excerpt": "Google announced the general availability of AI Prediction service, a key component of its AI Platform. The service supports hosting the models trained in popular machine learning frameworks including TensorFlow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71e536a0e9f1ca8b01406a%2F0x0.jpg",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/amp/",
-      "publishedDateTime": "2020-09-28T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-neural-network-trained-to-control-anesthetic-doses-keep-patients-under-during-surgery.md",
-      "title": "Neural network trained to control anesthetic doses, keep patients under during surgery",
-      "excerpt": "and Massachusetts General Hospital have demonstrated how neural networks can be trained to administer anesthetic during surgery. Over the past decade, machine learning (ML), artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
-      "originalUrl": "https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/26/819edb0f-11d4-4321-8447-982555f1c2db/thumbnail/1200x675/069dd34a53a6dec72536b86bb559cefe/20200826-daphne-karen-neural.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
-      "publishedDateTime": "2020-09-28T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-our-goal-shouldnt-be-to-build-merely-trustworthy-ai.md",
-      "title": "Our goal shouldn’t be to build merely ‘trustworthy’ AI",
-      "excerpt": "Mariarosaria Taddeo, Deputy Director of the Oxford Internet Institute's Digital Ethics Lab, explains why AI ethics must be a continuous practice.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-28T104701.865-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
-      "publishedDateTime": "2020-09-28T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
