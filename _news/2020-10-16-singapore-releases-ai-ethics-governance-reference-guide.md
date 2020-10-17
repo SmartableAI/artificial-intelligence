@@ -3,10 +3,10 @@ category: news
 title: "Singapore releases AI ethics, governance reference guide"
 excerpt: "Singapore Computer Society launches reference document to guide businesses in the development of artificial intelligence ethics and governance as well as future training and certification of professionals."
 publishedDateTime: 2020-10-16T16:00:00Z
-originalUrl: "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/"
-webUrl: "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/singapore-releases-ai-ethics-governance-reference-guide/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/singapore-releases-ai-ethics-governance-reference-guide/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
 type: article
 quality: 84
 heat: -1
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
 related:
   - title: "In Singapore, facial recognition is getting woven into everyday life"
@@ -121,6 +121,6 @@ related:
         height: 509
         isCached: true
 
-secured: "sg9LSwRCcs0Hind0BH1t/mnL4Uw/rKsKVZkQ/dvcdNgBmEJnt2FfqFMqdRXUbsOBmt3APRY2e0cwCfRES574Cki1nUq9yNs+LfqN9majRNMzzp/fZKofS6skHkdgOWjOaLovQFKAtH72ZputL7B6KfH42tzRI4Af/35JxV5bckDgvJS7HKzBZl7e8HkcsY0sDEoqhrc6HgQ5cxJSGwgz9h8Z58hj8rf2U4mn+Axfpqj0c1XqFQnOfFhQZULnWkhlOmnBhL2DUS1CIb0QZVSyXrGOW70FaEScBjsSRfxYKfiZ4v45qzxegRQytKgxfWb81RUK/AIeZ5CEkj+bPjz9SZ/EWvrL0suOmZqDFLSGUR01vZA2YtHDVchq0F2zPesmFHgGnvtJA7HOvbKLaxzvZJqRLxQA28fljclj2fLTmDTzdRNDz7Hm+4tBQtDLcHOxnodLrIwWgjGV60F6RwBu1p3JoN7aj0KGOrculPxQSddTmEbdFZMpCd39cYUfG81Abjqe3RqKRby/c85obuCwnw==;kDnI36B1nJELVIt/xd6jzQ=="
+secured: "ugy7+4bYe1qNmosi/g/y3lXi9FFZ1zim2kdQDMB32S/DUJV4ZJqd96GfO1UcVWIrDUl21jL8BoJLFyuS00GF+eTYHaiImP7QQ+UdvYhww3gfjA/yNHpdxmmzJho6BU8vEDxX0DunxKKY5pNhyCLD0A6hA2067sRHUBRk6rd/4h2mnvklWrJ0vxfGV4yEmT53GIySNIKugu+kKW6oxWPrUr7YgrGp2Ocy5Io4OtHPBnukt1VM8hi2MR+C0eUsO9EJFMSLjn2WhmIAOdMX6mGhZ48EHQiVKowyQ/UAkON1nYisygDTfe7YjO/UhNdDsCAiJnAUhH5+9FYYmyb6ecz+lo7qVg+AIpyL2qhV4o/qK6SG0FG+N5YX+craINsMCCPPCziRz9RXsjGtjeIz6yvuxYdDbBW2y6CFZNGOkRefz7owq5TpvkT1YnOCYtFxJE9a2mWiHSTz8RN0jZWrkXOm3Ri3GesZwKaBE3rFevkixNWhL5jrV46w6hVabdzHq9tCKu3BXPtX6tensIzQ0DIeNA==;pMlIcMLPBZ7LvCRJFJmyLw=="
 ---
 

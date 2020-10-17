@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "BTS' China Fans Upset Over RM's Van Fleet Award Speech, Says Chinese Media"
-    excerpt: "However, some Twitter users pointed out that the BTS leader did not even mention China and the award is given to those who promote US-Korea relations."
-    publishedDateTime: 2020-10-12T08:53:00Z
-    webUrl: "https://www.huffingtonpost.in/entry/bts-china-fans-rm-van-fleet-award_in_5f8409b5c5b6e5c32000b0bc"
-    ampWebUrl: "https://www.huffingtonpost.in/amp/entry/bts-china-fans-rm-van-fleet-award_in_5f8409b5c5b6e5c32000b0bc/"
-    cdnAmpWebUrl: "https://www-huffingtonpost-in.cdn.ampproject.org/c/s/www.huffingtonpost.in/amp/entry/bts-china-fans-rm-van-fleet-award_in_5f8409b5c5b6e5c32000b0bc/"
-    type: article
-    provider:
-      name: HuffPost India
-      domain: huffingtonpost.in
-    quality: 42
-    images:
-      - url: "https://img.huffingtonpost.com/asset/5f840c261f000038380c1b89.jpeg?cache=boTBcThBQp&ops=1778_1000"
-        width: 1778
-        height: 999
-        isCached: true
 
 secured: "7URTIN8Bj4MFaPeazRTzDjh13uJeZmW3hMWEcH58TtFQXtIjXOq0A8w4ijw7KuMChYMOuvid/sNJDok3zRSw41/dvwPUY20sLF9oZ40c4HzF3b2LFtDBRjt+XI+E5RrIo3yueedrWYD6EhsD0GPy4PK5qGnJtoHq/X2ajZfp4FuavJl5OcH/Onk9JSF/o6SI2NwRVu0jrcH1pXcQGhjG0wOMhPhgTAV/b0mLs3VIqE4V08XlkZwsUG6fk1Ze0gYr/04QrJQL9TWiRd2UHXZ1FQokEjX854lIMu2Os9bQ3S+Ly4lLCWosPeDgqR0QjDwRgnqn39XNtcIaZwg8Sa5F90XjOkairYR3MZ2kxTr2wNUZ4OJEffUyix/thiZWptN8UTMtloDLt+1SRoTzHvYrdZMSQ7fhLL/vaW7gdv4U1z8RPrs2zwXiBGzzM8vTjtR008AUU0QP8yRx1P18my4xYSgNWfuWfJZSwmIQGf55hM/be4jDw2ITtPnqdUG9OQ5fs53TaPx4Pn31YFVC9WY6Fg==;lHf5p6LOuOuTRPRfM6Pr+A=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "VXG announces platform to receive automated analysis at scale, effectively making any camera a smart camera"
 excerpt: "For an example, one really has to look no further than Amazon Rekognition, which leverages Machine Learning (ML) to make it easy to identify things like objects, people, or text within videos and images. Outside of the technology industry, however ..."
-publishedDateTime: 2020-10-15T09:38:02Z
-originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
-webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
+publishedDateTime: 2020-10-15T09:32:00Z
+originalUrl: "https://www.sourcesecurity.com/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html?ref=nav"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
 type: article
@@ -128,6 +128,6 @@ related:
         height: 300
         isCached: true
 
-secured: "UyH3oCXxjcuB+GyS74hLygDmrteXKh0BSEPQ4CQrTUl4kTaakQvXwROllYeG2kZn4hPsBOmpGpn0Z27IBBJwCrswne0/gQipVNUf1JKeDxsrN2sN/ybljinap3WaA1kOqOjkpLqdgWIWICvQWgc2yJRrar/S7QkhWjUWi9xltNPyHYVTZaE0wNBkHGwxbbA/a1eC1PgFizjDat11bYTXxB3ILOGZFM3P3RS0ltc3qumi1tdU90mXXvRcfaTClNVYXgY5D72cbNgT5DTFZLUuT6Fm+jntrTzQ9Bgbtcdc9j/8Sl9r2OcDsTTEsLAQLc6yAACrdZJD6j0l8+O5Xl6WQDUcB2+VConfOxPXZbweFYk=;9VldWVkB7qb6LNMdfMtTuA=="
+secured: "7ZELwpRFOHNOEHFYKDYSiDmkV+iIH2BjNWEJS8h9PoacQS/8ZLyI488gQvcNYpCzMh1IDEsx6cDeOMF7zFcMD8Z1bMNUhnDna4lxvsRDQSEFZRa9nHqEGEe2aBhx4YdoswAvTOjrIgfVApW6bNNKvAayg+FwW4ID27rDrk0rI5abPsQOGd+yAZFaXrwBQvK/ZIfR4gexwoQDhUZYrk/KDKHoGLzeq4LAO4q4UcKO1P9LnJwJnYDw28wMh/EjacOaRLIehhvvSt/zh2HfiOHeStXu7qHq7/yex+hIOy79bVufXRAdhK+PDonx7xFkEt0HD+ujIDIQBu+Vu4gltuI8thv1ROsyqBCFLSeFWbbEYRM=;m3sLkR4J026RN6Kuuug5FQ=="
 ---
 

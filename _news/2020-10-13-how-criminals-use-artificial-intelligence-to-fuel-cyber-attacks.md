@@ -1,13 +1,15 @@
 ---
 category: news
 title: "How Criminals Use Artificial Intelligence To Fuel Cyber Attacks"
-excerpt: "As artificial intelligence (AI) breaks into the mainstream, there is a great deal of misinformation and confusion about what it’s capable of and the potential risks it poses. Our culture is rich with dystopian visions of human ruin at the feet of all-knowing machines."
-publishedDateTime: 2020-10-13T13:07:00Z
-originalUrl: "https://forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/"
-webUrl: "https://forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/"
+excerpt: "As artificial intelligence (AI) breaks into the mainstream ... For many real-world systems, like driverless cars, a complex blend of physical computer vision sensors, complex programming for ..."
+publishedDateTime: 2020-10-13T13:01:00Z
+originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/"
+webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/"
+ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/amp/"
 type: article
-quality: 71
-heat: 91
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -21,7 +23,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8489185bcaa29433f8ecbd%2F0x0.jpg"
@@ -59,6 +60,6 @@ related:
         height: 422
         isCached: true
 
-secured: "nCKpEtv3EXd4MABM8Q3zx+/OCW/3/ZfmOOLmNC1zzH9JAwo62cZUUVFnfbEjej1dYzDx4oWNeBmFRLpX3WofC8y0oFeYC88ef38ILsQIFWag9yj6JmUugvV5qtOtYYrBF6hE30Bb1783rTE7n31UVw4QkI8GnqlrMcVWAf4g9/dbb8szPjlD4Wzo9EboapUEW579eoXlrVYbQYrFqLbUjavuWlCSvRfOGhKTP6UdMsZFiFmpCyEoKMj02iHIfjFHD8JFAyglnR704m3xFite3evnQmRI4J/9YDXirR2GfdGQxBFIJjvfUelZFxqf9Y4lbgo8UpM6zi8DFHAGayk9KfOfoJshid7r/i4Z1dTB0XHRdWFxsAVao3g24ezhKQpLVMKjbUwKr7Zgl0eqlG1eRyi+mT8NWqIRqd26Jv/8mJh1BjVAQ5ZAZ77Kp+syxqA0EkWohIEm/3/IqZLhEtVnp1MGpoqvCA8iLsxK8DUGKCXan4fTZXpHrnbBsRGRcLLwZqCA44qX55zX8dvBQI047w==;IFDIUAlHtjURdNZ4+Wv2NQ=="
+secured: "Uxm8N9pNjupt+qhGfh8qnlM65+7oTZHcBAA6tPGqJ9urI38fL67zDP+/AO6XSdObT8f+KQXM3W9g3FyyQ46M8mO5aHAK1n/XW8mpcZFS9PVXEFPUfmS7BJF9B+heL6bO/q1cRh7TulzXUdqGrZF/9k5KUeK57gHmXVT+pLQRzlu/ddNjqlVCIZjmZk7GD9qBs6GDYbvtmvGi35n2WkIHMeJAGjmSVXu5ZC6lmc0AjrTyAgVEz5LKIrnbHFwnAg/dmLjMU7kciIaXFyg0albrt0S9NBtegH6lfKgoMXffYTi4zv0Y2F4T89dSWw/j8xnPY2XuCKl+vxyk/XlR/tvkavZQvbL8uz9DUiEJN0WICgU=;zTJ1ZSPhsjYz55RCtgTlzQ=="
 ---
 

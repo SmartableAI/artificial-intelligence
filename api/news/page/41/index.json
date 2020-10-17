@@ -2,49 +2,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2020-09-11-coronavirus-led-to-worlds-first-infodemic-but-ai-could-be-answer.md",
-      "title": "Coronavirus led to world's first 'infodemic,' but AI could be answer",
-      "excerpt": "Two American AI experts have blamed the coronavirus pandemic for an intense flurry of published results of scientific studies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/09/11/15/33059130-0-image-a-2_1599834639645.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8722673/amp/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8722673/amp/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html",
-      "publishedDateTime": "2020-09-11T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-11-arizona-state-deploys-starship-robot-delivery.md",
       "title": "Arizona State deploys Starship robot delivery",
       "excerpt": "Arizona State University is the latest university to add robot delivery from Starship, deploying a fleet of 40 autonomous robots on its Tempe campus.",
@@ -1154,6 +1111,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-skin-like-sensors-and-ai-offer-surprisingly-accurate-hand-gesture-recognition.md",
+      "title": "Skin-Like Sensors and AI Offer (Surprisingly) Accurate Hand Gesture Recognition",
+      "excerpt": "Scientists in Singapore have developed an AI system that recognizes hand gestures by combining wearable skin-like sensors with computer vision. Human hand gesture recognition systems have come a long way over the last decade. Today, the technology lends ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.allaboutcircuits.com/news/skin-like-sensors-computer-vision-offer-accurate-hand-gesture-recognition/",
+      "originalUrl": "https://www.allaboutcircuits.com/news/skin-like-sensors-computer-vision-offer-accurate-hand-gesture-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/Skin-like_sensor_and_AI.jpg",
+          "width": 700,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "All About Circuits",
+        "domain": "allaboutcircuits.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

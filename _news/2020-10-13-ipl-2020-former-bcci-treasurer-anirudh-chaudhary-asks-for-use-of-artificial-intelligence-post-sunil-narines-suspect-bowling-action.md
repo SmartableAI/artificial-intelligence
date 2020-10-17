@@ -42,15 +42,6 @@ related:
         width: 806
         height: 605
         isCached: true
-  - title: "IPL 13: Former BCCI Treasurer wants use of Artificial Intelligence after Narine incident"
-    excerpt: "Speaking to ANI, former BCCI Treasurer Anirudh Chaudhry -- first chairman of the Data Management Committee of the board that rolled out the online database management system used by the BCCI in the administration of domestic cricket -- said that it was time to introduce the use of Artificial Intelligence in such cases to increase the fairness quotient of the game."
-    publishedDateTime: 2020-10-12T07:29:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Sports/20201012/3640569.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 8
 
 secured: "MOfVdfMKGIfAit4jQzmX8DhtLkPEOhRcC62jQpYYA0pz7/5XvaaeD+4PGHrtkrP+vII+Rg6jUwd3aqHcd4VsjE+GjObnElR9QK0CFAq++I8E4S+Ac0TMmMqtU8URHA2gTLAO4wmNNjhHepTAmoGf+/RV1/kXwCtNehYjEqLn6e1SVuZSKeXSPzw1tnq8KgEWLTfNIedw+aoCT+lmfFVJEf2HbMIx8Tr2ERSMrKRORqBdkEaa6vPLktMKJ+WaeiRtUgwLWHMLaeu9M6K+82y1eCwjxMnHs8ViFikFM/pcg8i25cjux/ksBbBqTY3WCNy0dwb41Xx4aP+DHmuYb3YBYnqnxNWzKU4URuuaV3XJ8xY=;85GSYGt3aCvNhVw0d6SZyA=="
 ---

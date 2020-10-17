@@ -7,8 +7,8 @@ originalUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-surgical-robo
 webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-surgical-robot-startup-raises-funds"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: NIKKEI
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "BTS' China Fans Upset Over RM's Van Fleet Award Speech, Says Chinese Media"
-    excerpt: "However, some Twitter users pointed out that the BTS leader did not even mention China and the award is given to those who promote US-Korea relations."
-    publishedDateTime: 2020-10-12T08:53:00Z
-    webUrl: "https://www.huffingtonpost.in/entry/bts-china-fans-rm-van-fleet-award_in_5f8409b5c5b6e5c32000b0bc"
-    ampWebUrl: "https://www.huffingtonpost.in/amp/entry/bts-china-fans-rm-van-fleet-award_in_5f8409b5c5b6e5c32000b0bc/"
-    cdnAmpWebUrl: "https://www-huffingtonpost-in.cdn.ampproject.org/c/s/www.huffingtonpost.in/amp/entry/bts-china-fans-rm-van-fleet-award_in_5f8409b5c5b6e5c32000b0bc/"
-    type: article
-    provider:
-      name: HuffPost India
-      domain: huffingtonpost.in
-    quality: 42
-    images:
-      - url: "https://img.huffingtonpost.com/asset/5f840c261f000038380c1b89.jpeg?cache=boTBcThBQp&ops=1778_1000"
-        width: 1778
-        height: 999
-        isCached: true
   - title: "Chinese self-driving cars ready to roll abroad"
     excerpt: "Chinese startups in the field of self-driving or fully automated vehicles are beefing up their presence in foreign markets. Their move comes in the wake of China's imminent lead in both related technologies and their commercialization in the global market."
     publishedDateTime: 2020-10-12T15:38:00Z

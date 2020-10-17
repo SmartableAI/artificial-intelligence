@@ -2,49 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2020-09-24-fintech-machine-learning-leader-attunely-secures-9m-in-funding.md",
-      "title": "Fintech Machine Learning Leader Attunely Secures $9M in Funding",
-      "excerpt": "Press Release Attunely Inc., a pioneer in deploying machine learning to maximize revenue recovery and enhance the consumer experience, today announced $9 million in financing. The new capital includes an earlier seed round as well as a Series A investment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/",
-      "originalUrl": "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/amp/",
-      "publishedDateTime": "2020-09-24T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-24-nvidias-most-powerful-1500-gpu-sold-out-in-minutes.md",
       "title": "Nvidia's Most Powerful, $1,500 GPU Sold Out In Minutes",
       "excerpt": "Within minutes of it going on sale at 6 a.m. Eastern, it had sold out on Nvidia's official site, online electronics retailer Newegg, and B&H.  Nvidia launched it’s RTX 3080 last week and sold out in seconds.",
@@ -1198,6 +1155,50 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community.md",
+      "title": "Immervision Introduces JOYCE, the First Humanoid Robot with Intelligent Vision Developed by the Computer Vision Community",
+      "excerpt": "MONTREAL–(BUSINESS WIRE)–Immervision, the Montreal-based leader in wide-angle intelligent vision, introduces JOYCE, the first humanoid robot developed by the computer vision community to help machines gain human-like perception and beyond. Watch the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eejournal.com/industry_news/immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community/",
+      "originalUrl": "https://www.eejournal.com/industry_news/immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Engineering Journal",
+        "domain": "eejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

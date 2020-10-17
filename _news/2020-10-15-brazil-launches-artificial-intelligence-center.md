@@ -3,13 +3,13 @@ category: news
 title: "Brazil launches artificial intelligence center"
 excerpt: "The largest research facility in the country with focus on the technologies is run jointly by IBM and public sector bodies."
 publishedDateTime: 2020-10-14T19:55:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/brazil-launches-artificial-intelligence-center/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/brazil-launches-artificial-intelligence-center/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-launches-artificial-intelligence-center/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-launches-artificial-intelligence-center/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 related:
@@ -39,6 +40,6 @@ related:
         height: 360
         isCached: true
 
-secured: "0XhlYT+IRZoUm3D8VwqjUtqMP7Sk0iSFNWK1q5ikb66cfWaMF9F37kTE9RTlWBFmS7/Jaw/Yb9/o/QhgiQkNXZirZ7EJeEXkYqzhrtWMXZAp0Jb5UzZbq4WZSjhMyZHEtjYanzB24/amFrX27RC+myGm8Nnl/oSb61JLGuUpHoEXGdLa75+4NxsaTv3A8L5ePa1enr76YFs2jeQZcSMIy2OXkyBNhIqlSlCEtpPRoOsZcOXBDhOZoAmN65QpmF0OuOcNS6M3NaZ3Kq+UNJD8VEMuVD1HtZDYWOToOhWitWyQGoKIwsw/K37auKfElmF3qHT0Q9ygBSdLovK86meV64RqehIr9BIAV3Ex+LX7p7/2+gER+lem3+C/ISFqcJ/N/y2ivCIzY+EHygflMqKwyWeeuTZZ0P/6z9+iWhuqfMCOki9Nn4xAUCR9diQCf1CX9JRV/XXskbrKGIqo3I06XDSCm+oNTiQ+7iiKCQOO/cFs+IXYanssBxAfZ5kQNB5vTRYNJXHD41NtlYgXJFFbhA==;TxDfBPwQ5bLFoRwVdIsuYg=="
+secured: "myHWDmyfbp2J5oPVVQwArXg7BJfwYi1eBXZZVVA2niEv7mVqSzXds2AxxiF5Q9bOtuTAveSlV9d/hVTaBCEAc2mkjXG3OO2TuzTz9XfLDj82t/MdrVKcAxcNMnJcpWhFwpGR/AhAgWykI9cZwO25EZM7oT3q1QlXRjVmgLvigq5nyHoVui8h5Jc6roiADjjXtCBgd37RpmbT7vEIsSS5D0KkRwBAE51mxJyU/Fy+Kr/AIseizRpSmBHDDiLumIFgAwTXRx2DR2fa1XwOroOrS+a7WzmOltVZsRvsofK15NnFmNikEs/n4vP+Q5z4/M+v7v6P81rkwQBW94yjb44bjnrkNcUnLGQsXQj44oXCnO1trLDhuZnYglaYXDzEr7HfGJE52m9mq/gx4uasZDjAkrpD+9J2UTy/ps/uuPD/wTrCgrGY1fDcCLUd3zTujhyHIUbUc94fcMDl8Z2XMuePaGMZhNpv4V6ih02iZfuHeUKIV1cim9lLtSZpi91YEgmSS1dp4gY7b5Y2+yrAL7K4cw==;dcuAKOurKkzIFiEJ7iawcw=="
 ---
 

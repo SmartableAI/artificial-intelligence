@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook India appoints Sunil Abraham as Public Policy Director"
-    excerpt: "Facebook India on Monday announced Sunil Abraham as the company’s public policy director for data and emerging technology. He will lead the company’s stance on technology-related policy issues in India."
-    publishedDateTime: 2020-10-12T08:47:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32833378.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32833378.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32833378.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/3pxhg9/article32833395.ece/ALTERNATES/LANDSCAPE_615/facebook-public-policy-directorjpg"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Facebook India appoints Sunil Abraham as public policy director for data, emerging tech"
     excerpt: "Sunil Abraham will report to Facebook India public policy director Ankhi Das, and will be responsible for building partnerships and engagements with key stakeholders in the public policy area of data privacy,"
     publishedDateTime: 2020-10-12T13:34:00Z

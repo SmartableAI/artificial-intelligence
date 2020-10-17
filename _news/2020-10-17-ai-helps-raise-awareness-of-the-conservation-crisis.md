@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Tyto Care Launches the Next Generation of Telehealth with an AI-Powered Diagnostic Support Solution"
-excerpt: "Tyto Care, the healthcare industry’s first all-in-one modular device and examination platform for AI-powered, on-demand, remote medical exams, today announced its AI-powered diagnostic support solution,"
-publishedDateTime: 2020-10-13T19:30:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/virus-outbreak-business-corporate-news-diseases-and-conditions-products-and-services-8c62e6554746b11439c958c8ca542754"
-webUrl: "https://apnews.com/press-release/pr-newswire/virus-outbreak-business-corporate-news-diseases-and-conditions-products-and-services-8c62e6554746b11439c958c8ca542754"
+title: "AI helps raise awareness of the conservation crisis"
+excerpt: "SiliconANGLE"
+publishedDateTime: 2020-10-17T01:20:00Z
+originalUrl: "https://siliconangle.com/2020/10/16/ai-helps-raise-awareness-of-the-conservation-crisis-exascaleday/"
+webUrl: "https://siliconangle.com/2020/10/16/ai-helps-raise-awareness-of-the-conservation-crisis-exascaleday/"
 type: article
-quality: 23
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/Bryan-Pijanowski-Exascale-Day-2020.png"
+    width: 1141
+    height: 511
     isCached: true
 
 related:
@@ -122,20 +122,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "AI helps raise awareness of the conservation crisis"
-    excerpt: "SiliconANGLE"
-    publishedDateTime: 2020-10-17T01:20:00Z
-    webUrl: "https://siliconangle.com/2020/10/16/ai-helps-raise-awareness-of-the-conservation-crisis-exascaleday/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/Bryan-Pijanowski-Exascale-Day-2020.png"
-        width: 1141
-        height: 511
-        isCached: true
   - title: "Roche Enlists Dyno to Bring AI to Next-Generation Liver, CNS Gene Therapies"
     excerpt: "Roche made a splash with its acquisition of Spark Therapeutics, whose Luxturna, a gene therapy for an inherited form of vision loss, was the first such"
     publishedDateTime: 2020-10-14T10:08:00Z
@@ -164,7 +150,21 @@ related:
         width: 585
         height: 384
         isCached: true
+  - title: "Tyto Care Launches the Next Generation of Telehealth with an AI-Powered Diagnostic Support Solution"
+    excerpt: "Tyto Care, the healthcare industry’s first all-in-one modular device and examination platform for AI-powered, on-demand, remote medical exams, today announced its AI-powered diagnostic support solution,"
+    publishedDateTime: 2020-10-13T19:30:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/virus-outbreak-business-corporate-news-diseases-and-conditions-products-and-services-8c62e6554746b11439c958c8ca542754"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "bTnzW+oNk4ourna08TVNbV9XQrFYd0JblJugIv7eq7QPzbmNIGHejJne/Y5YqSUqleyZFSoTvdo2URrkobEkvdzmDRk50ZpudvQIRO+UgWFL8AmhXIx6zX1QMiVZRs3Azg8C2Rak/wF/C5iXlsn0SqLieAkp00riuLSyUM51XyqY4sRvtay++SJ25K3CN7vyhHY/Odhjgdo3GxD9um10iwSTbCIbBPyTQSolCoNcbHaiB27pfd4B2FYPdZejxwcf3CtKg3gHXS47nEGSjmPYQ/LnhgLUKsGBdybQPwspUckXsLCzaDIVrZ007R74pp+cUhpWnLFYuzwBlNEtdqgf9Y2immQ01UT9jNUab7YMnXA=;+MOLIwxiP856Lo3orQ1X3Q=="
+secured: "y5ptSpDUV6nRlRFrlKAOyxexKpsPKHTxf1uLtj21hMcLkatTp9AV6EGa2+taQHRg75a8VQdPY95QLguA48K+QXwu44Sd5ZujpbLlfEyLIo1uPljHBZBTpUtFnNJGptti2Osv57WhKnaw5fzYK0s7isELnA9fxGtPGKTRVO2samfHLzOPsZXMfpI5upcm591Biy1B2+1pgDVCVAlcXhbW6tmIZndMsbv6s4+F4xExQfz68rS7C8dCpCmFgJh0kIZLZW/kgcFXXoi+vcTT5GBPfcDIotAUnC5uC32krSdeeyKwGBNnkG2OVY49dmklkYsToSVfoiVqqdm1BZj3cw5ZWBTKYxoFQIWZtXvXNtmCZFQ=;taGTs6SDJ5Pk53FLCYSbfg=="
 ---
 

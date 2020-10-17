@@ -2,49 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2020-10-01-sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale-on-azure.md",
-      "title": "Sycomp launches an unmatched cloud data experience with Sycomp Storage Fueled by IBM Spectrum Scale on Azure",
-      "excerpt": "Sycomp today introduces the first IBM Spectrum Scale solution on Azure. Sycomp Storage Fueled by IBM Spectrum Scale, a new cloud storage solution now available on the Microsoft Azure Marketplace. Sycomp Storage Fueled by IBM Spectrum Scale enables organizations to utilize different storage tiers,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-cloud-computing-it-conglomerates-information-technology-2c24e5e9c07ed40ce3b962089e8df224",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-cloud-computing-it-conglomerates-information-technology-2c24e5e9c07ed40ce3b962089e8df224",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-automating-data-collection-for-ai-at-morningstar.md",
       "title": "Automating Data Collection For AI At Morningstar",
       "excerpt": "We’re also skilling our Analysts on data exploration, data munging and AutoML to help them directly automate their workflows. This will help us scale our process over time where we can collect ...",
@@ -347,6 +304,40 @@
       ]
     },
     {
+      "path": "_news/2020-10-01-mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo.md",
+      "title": "mCloud Brings Natural Language Processing to Connected Workers through Partnership with Aiqudo",
+      "excerpt": "Professionals will be able to call up information on-demand with a single natural language request, eliminating the need to search using complex queries or special commands. A demonstration of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-9351204",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-9351204",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m.md",
       "title": "Combining machine learning tools for medical imaging with genetic sequencing nets Sophia Genetics $110M",
       "excerpt": "SOPHiA GENETICS, the shoutily and poorly capitalized-named startup that’s combining machine learning tools for medical imaging and genetic sequencing to come up with a more holistic view of diseases for better patient care,",
@@ -533,49 +524,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo.md",
-      "title": "mCloud Brings Natural Language Processing to Connected Workers through Partnership with Aiqudo",
-      "excerpt": "CNW/ - mCloud Technologies Corp. (TSXV: MCLD) (OTCQB: MCLDF) (\"mCloud\" or the \"Company\"), a leading provider of asset management solutions combining",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html",
-      "originalUrl": "https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1191,6 +1139,58 @@
         "Microsoft AI",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-at-2473-cagr-3d-sensor-market-size-to-surpass-usd-722175-million-by-2025.md",
+      "title": "At 24.73% CAGR, 3D Sensor Market Size to Surpass USD 7221.75 Million by 2025",
+      "excerpt": "Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221.75 Million by 2025 with",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-2473-cagr-3d-sensor-market-size-to-surpass-usd-722175-million-by-2025-2020-09-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-2473-cagr-3d-sensor-market-size-to-surpass-usd-722175-million-by-2025-2020-09-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

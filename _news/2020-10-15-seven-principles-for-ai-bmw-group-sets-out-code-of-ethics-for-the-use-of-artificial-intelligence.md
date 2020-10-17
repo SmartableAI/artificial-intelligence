@@ -7,7 +7,7 @@ originalUrl: "https://www.press.bmwgroup.com/latin-america-caribbean/article/det
 webUrl: "https://www.press.bmwgroup.com/latin-america-caribbean/article/detail/T0318747EN/seven-principles-for-ai:-bmw-group-sets-out-code-of-ethics-for-the-use-of-artificial-intelligence?language=en"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Seven principles for AI: BMW Group sets out code of ethics for the use of artificial intelligence"
-    excerpt: "The use of artificial intelligence (AI) is a central element of the digital transformation process at the BMW Group. The BMW Group already uses AI throughout the value chain to generate added value for customers,"
-    publishedDateTime: 2020-10-12T08:49:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/seven-principles-for-ai-bmw-group-sets-out-code-of-ethics-for-the-use-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 40
 
 secured: "gKASHQQ4/uQkCJtaCyDsxcGApe1/wUAKZhbSSf9sOAUV2BVlWsyDtec69FeFVUJ8rgYDuTg5pCzjrzGPo+fy8H0wP+yG1hnKNC3fZmKwnATV5d3ny/k7yUVCH2lrwwab3aEzLSyIGfe3SE/R9ETNXDAlgGnRcCBK2Q0rpu6bDlL47J/kPeP+OR3vjD9B6QNAIIaN9s0sg6S84EfAHBN9p/P//xkj3hEFu/mUfqdlHRfOTKNiIDHcB6tH8CA0tAHvjljp9SjyVmWO/EszsVGqbRtuW54xnXnnOEylP8OclE7cFidKz8S1gi4KMNb3rBt1GdidnymAZ0+rTIP/w51md83B+1o31mwdQyZVpI72Ar8=;ad1aQ2a9vs4nIHMQQ9NzCg=="
 ---

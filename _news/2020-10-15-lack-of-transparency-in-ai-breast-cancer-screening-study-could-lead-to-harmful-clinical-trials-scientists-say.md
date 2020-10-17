@@ -7,7 +7,7 @@ originalUrl: "https://inews.co.uk/news/technology/lack-transparency-ai-breast-ca
 webUrl: "https://inews.co.uk/news/technology/lack-transparency-ai-breast-cancer-screening-study-clinical-trials-718154"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1600
     height: 936
     isCached: true
-
-related:
-  - title: "Artificial intelligence could speed up breast screening in north-east"
-    excerpt: "Artificial intelligence could be used to carry out breast screenings in the north-east, a leading doctor has revealed."
-    publishedDateTime: 2020-10-12T08:18:00Z
-    webUrl: "https://www.eveningexpress.co.uk/fp/news/local/artificial-intelligence-could-speed-up-breast-screening-in-north-east/"
-    ampWebUrl: "https://www.eveningexpress.co.uk/fp/news/local/artificial-intelligence-could-speed-up-breast-screening-in-north-east/amp/"
-    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/fp/news/local/artificial-intelligence-could-speed-up-breast-screening-in-north-east/amp/"
-    type: article
-    provider:
-      name: Evening Express
-      domain: eveningexpress.co.uk
-    quality: 57
-    images:
-      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/10/2020/10/DSC_0783-843x564.jpg"
-        width: 843
-        height: 564
-        isCached: true
 
 secured: "6n2K47m49G+Y+90chK76thf8UvA3G5ghZ0k8sc/J2U3IrlFFuZd3MaHHbFRHWdrVhebKYe1VIrYPoewyrsX74zwbtYUGZS1QyByKc+o2vnYnbmAGs4lAfDdABfkN8WMEITE/cG/M8U0qTigC7o7DFjz0eIWztLWudWPdMITwcZHugrYES9GP0L0v5PMKcQmLNEuoMzKUujoDiGtTIVuBc1qwCDxbFAms7dXYQEyZYYrBzcD9gJmHJxflA0qCantLN4d+7ALu3b2uccIAuNR0fjbsPEglAtx8zujSranUbtXbUmWlUdbnC8alyIxzubuM5O/YJQrZDHwZV6eiWW8fNtkTquQsKLK5pNcr43MRCBlb9AN/wYh+5VFfMcaXAybCu200gTgd8ENvg50Yh9TY+scxyfwrLi4HO+4PYidefsvPgwI/viBJSH7Z2373mE2bWBpDlRaGPVsUAnDCbHhLw2mBZ7wvsHkw3u2964+c51gzwIi4eJcG/sQ1IXFiUSh4xDNL3Zza1sB4G91/YxM+AA==;2SM2t+IQ2uFLOOq4r2Uosw=="
 ---

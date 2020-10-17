@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Portland voters asked to strengthen facial surveillance ban"
-    excerpt: "Question B on the city ballot would add enforcement provisions – including a private right of action for people to sue the city – to an existing prohibition on city employees using facial recognition technology."
-    publishedDateTime: 2020-10-12T08:26:00Z
-    webUrl: "https://www.centralmaine.com/2020/10/12/portland-voters-asked-to-strengthen-facial-surveillance-ban/"
-    type: article
-    provider:
-      name: Kennebec Journal
-      domain: centralmaine.com
-    quality: 24
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
-        width: 816
-        height: 554
-        isCached: true
 
 secured: "CxKd0QqGUilGnLSVB4EpWvS1W9aD8P5GS2ybG/2nJ8dzxKFZtkWE+VOLxyq5R3fI/RxrUqiE2SaymrauZAPe42vP4wk1VHcOkRPkLQB9/MP94U64KGMHu6AglyjfzZTOCJNnqyGR62pMmXeAEewGLZxDhRIgLpmLISiNxm8y2UArnXXyCjVQTt93RkVDH1zQbXVEtCARjbIAMw6ukzfu5RvcxGOGCOG7NQshkJsq2Vyo9Wmv4XGSmRVdPNPirPc+rvFXhovELruNigM1wtytMfXhlvRHnKMHOWBuWtDM+Q2Iy5529fFdVb6sll7C1ih0ZwViTMPG/lRk+uKdDnkSSkJ7bG5WX0AEgGTTKFqzKgk/3Dl0eDsHd/HTCNud4bOF2TNNgFELLnKHOKPH3lMLj77/LMiS66lIPwg8aMENJKUL3oMWscZLF7t9rYivNQkxxJba4yt+3TaVTG/zsXvhhhPp7qmgMLuC+XTMYd4rT+2S9sqTePFQpQN5OIj66pkxKx8Vnhl9YZ4sGKhdxZ7b3w==;wYseD30TxI0ruevK0ykaPw=="
 ---

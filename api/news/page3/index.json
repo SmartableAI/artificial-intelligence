@@ -298,17 +298,17 @@
       "title": "Brazil launches artificial intelligence center",
       "excerpt": "The largest research facility in the country with focus on the technologies is run jointly by IBM and public sector bodies.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/brazil-launches-artificial-intelligence-center/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/brazil-launches-artificial-intelligence-center/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-launches-artificial-intelligence-center/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-launches-artificial-intelligence-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/",
       "publishedDateTime": "2020-10-14T12:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -332,6 +332,7 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },

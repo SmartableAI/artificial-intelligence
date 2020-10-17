@@ -43,20 +43,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Baidu’s Driverless Taxis Hit Beijing Streets, With Free, Unbooked Test Rides"
-    excerpt: "Chinese tech firm Baidu’s self-driving taxi service Apollo GO went into operation in Beijing yesterday. Users can order free test rides of the service at cab ranks in the city’s western Haidian and southern Yizhuang hi-tech districts without reservations,"
-    publishedDateTime: 2020-10-12T08:06:00Z
-    webUrl: "https://www.yicaiglobal.com/news/baidu-driverless-taxis-hit-beijing-streets-with-free-unbooked-test-rides"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 51
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/baidu-driverless-taxis-hit-beijing-streets-with-free-unbooked-test-rides/8546190089781248.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "NASA scientist and driverless car pioneer crowned top Aussie expats"
     excerpt: "The first Australian to become a scientific lead on a NASA mission to Mars and the founder of a pioneering driverless vehicle company have been jointly crowned as Australia's top expats."
     publishedDateTime: 2020-10-15T13:20:00Z
