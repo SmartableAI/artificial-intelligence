@@ -65,6 +65,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
+    excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
+    publishedDateTime: 2020-10-17T15:46:00Z
+    webUrl: "https://www.cnbc.com/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 68
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "Tesla To Release ‘Full Self-Driving (FSD) Beta’ Next Tuesday: Elon Musk"
     excerpt: "Beta version for some drivers next week, says its CEO Elon Musk. Recently, while replying to an article by a publisher, Elon tweeted that FSD is releasing next Tuesday as promised."
     publishedDateTime: 2020-10-13T11:35:00Z

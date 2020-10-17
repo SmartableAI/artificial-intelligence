@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-16-oracle-open-sources-java-machine-learning-library.md",
+      "title": "Oracle open sources Java machine learning library",
+      "excerpt": "For example, whereas the Google-built TensorFlow library provides core algorithms for deep learning, Tribuo provides several machine learning algorithms, some of which are in TensorFlow and some ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/682955/oracle-open-sources-java-machine-learning-library/",
+      "originalUrl": "https://www.arnnet.com.au/article/682955/oracle-open-sources-java-machine-learning-library/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_167516113_5.jpg",
+          "width": 800,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-10-british-ai-startups-to-look-out-for-in-2016.md",
       "title": "10 British AI startups to look out for in 2016",
       "excerpt": "Google-owned startup DeepMind, a group of approximately 140 people aiming to solve intelligence, is arguably one of the most interesting technology companies operating in the UK right now.",
@@ -1329,58 +1373,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time.md",
-      "title": "How Google Maps uses DeepMind’s AI tools to predict your arrival time",
-      "excerpt": "Google Maps is one of the company’s most widely-used products, and its ability to predict upcoming traffic jams makes it indispensable for many drivers. Each day, says Google, more than 1 billion kilometers of road are driven with the app’s help.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind?via=indexdotco",
-      "originalUrl": "https://www.theverge.com/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/p8KWXd0ewEmX2DlNj2cyh-FLFOI=/0x0:3704x2469/1400x933/filters:focal(1556x939:2148x1531):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67347095/1211180776.jpg.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind",
-      "publishedDateTime": "2020-09-03T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

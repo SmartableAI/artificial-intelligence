@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/quick-ai-ad
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Assists With Better Battlefield Intel"
-    excerpt: "For future battlefield operations, speed is the name of the game. The side that can make decisions faster has the advantage. A new, AI-enabled effort by the U.S. Army can give operators the ability to detect,"
-    publishedDateTime: 2020-10-12T21:51:00Z
-    webUrl: "https://breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/"
-    ampWebUrl: "https://breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/amp/"
-    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/amp/"
-    type: article
-    provider:
-      name: Breaking Defense
-      domain: breakingdefense.com
-    quality: 57
-    images:
-      - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/10/AH-64-Apache-helicopter-gunnery-training_640x427.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "US body on AI calls for creating India-US strategic tech alliance"
     excerpt: "The newly-created National Security Commission on Artificial Intelligence in its report on Tuesday said the Department of State and the Department of Defence should negotiate formal AI cooperation agreements with India, Australia, Japan, New Zealand ..."
     publishedDateTime: 2020-10-14T09:56:00Z

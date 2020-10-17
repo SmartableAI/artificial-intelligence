@@ -82,15 +82,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Voters to Decide on Strengthening Facial Recognition Ban"
-    excerpt: "On Nov. 3, Portland voters will decide if an ordinance that would allow citizens to sue the city for illegal surveillance and require the city to suppress illegally obtained evidence, the Portland Press Herald reported. In addition, violations of the ..."
-    publishedDateTime: 2020-10-12T21:56:00Z
-    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2020-10-12/voters-to-decide-on-strengthening-facial-recognition-ban"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Lawmakers consider banning facial recognition"
     excerpt: "Should police be able to use facial recognition technology?"
     publishedDateTime: 2020-10-13T22:54:00Z

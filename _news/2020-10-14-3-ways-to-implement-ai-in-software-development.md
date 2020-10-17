@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theserverside.com/feature/3-ways-to-implement-AI-in-soft
 cdnAmpWebUrl: "https://www-theserverside-com.cdn.ampproject.org/c/s/www.theserverside.com/feature/3-ways-to-implement-AI-in-software-development?amp=1"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe puts artificial intelligence tools into its marketing software"
-    excerpt: "Adobe Inc <ADBE.O> said on Monday that it has put a new set of artificial intelligence tools into its digital marketing software with the aim of helping companies sharpen their marketing campaigns."
-    publishedDateTime: 2020-10-12T21:03:00Z
-    webUrl: "https://www.reuters.com/article/us-adobe-ai-idUKKBN26X24O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26X24O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26X24O"
+  - title: "Chatbot App Development: Are AI Based Chatbots Necessary to Build into a Mobile App?"
+    excerpt: "The demand for mobile applications across all the industries has gone through the roof over the past few years."
+    publishedDateTime: 2020-10-13T22:30:00Z
+    webUrl: "https://www.business2community.com/mobile-apps/chatbot-app-development-are-ai-based-chatbots-necessary-to-build-into-a-mobile-app-02353875"
+    ampWebUrl: "https://www.business2community.com/mobile-apps/chatbot-app-development-are-ai-based-chatbots-necessary-to-build-into-a-mobile-app-02353875/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/mobile-apps/chatbot-app-development-are-ai-based-chatbots-necessary-to-build-into-a-mobile-app-02353875/amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 50
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537156171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B19R"
-        width: 817
-        height: 545
+      - url: "https://cdn.business2community.com/wp-content/uploads/2020/10/Chatbot-App-Development-Are-AI-Based-Chatbots-Necessary-to-Build-into-a-Mobile-App-900x471.jpg"
+        width: 900
+        height: 471
         isCached: true
 
 secured: "M+leK1WFcKHbxoG6hJqDN8okDMtVhMaTFSzmPdcWq8cxP5ylmoB/454JUXcg6N6HNNfs9ytuRI8kZIW4kV1SR+vqd81uutbnN9xt4y/PJuATyD/H3r9RGou1vSLQma7wG00uF1TswZVa2pOdZWMu+KuoPuV8Vxr7HPgMuCEvU2b6oBO3bS9OMOzVTJhBHW7fsS0CobNSpTFdA4yU/H7uUOl4oGQpzXJ1hWJno+s/itpKNd1gKABSyIl6ZMJG2+6wQL83qijFQIfPuDsHpFGh/rlD+wyd5Hn8w6vX7ZXjagRVX1Mm1sRzZOmyDNBEYyioEy972l0pQ99X0gD/jvY+MTYXbpeECDG7vlbWEH5x6uY=;NcpZD0YaZmQZ/BeOez9yXw=="

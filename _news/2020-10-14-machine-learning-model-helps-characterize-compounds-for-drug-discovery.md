@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2020-10-machine-characterize-compounds-drug-di
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-machine-characterize-compounds-drug-discovery.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -42,6 +42,22 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2fDrug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Machine Learning Model Helps Characterize Compounds for Drug Discovery"
+    excerpt: "A new method of applying machine learning concepts to the tandem mass spectrometry process could improve the flow of information in the development of new drugs"
+    publishedDateTime: 2020-10-15T17:03:00Z
+    webUrl: "https://www.labmanager.com/news/machine-learning-model-helps-characterize-compounds-for-drug-discovery-24096"
+    ampWebUrl: "https://www.labmanager.com/news/machine-learning-model-helps-characterize-compounds-for-drug-discovery-24096/amp"
+    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/machine-learning-model-helps-characterize-compounds-for-drug-discovery-24096/amp"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 59
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/24096/aImg/44600/machine-learning-for-drug-discovery-m.png"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "n1WGLq/EBJMyZJE+PdRoWXbi3iIXEeOsfxxNXU0CE9P/26vHp4kVcMYW8hWYupU7LHf9B9Hfl3Q4W/dYcQHvufZbPZbqD0xwz/ri94JFs9/0iilOi4IV/XbMEC7CwAqqlNT/KfpZWMCTow0URoS0Vc5Q3AZxzZQV0U8E4HYKw8jXePcGQAW5z8pzQxaNj7sXtwmxVJWlropmSATJzQ5AFC+ZsUSoKNKarKS1JE8Vou3eNbgbC2ibPbmy9vwmJEtpXbdKtYu2iRGAC3EVKawzpqTBbpnacTFCJ6nPu4OejfxB+SbLsmwhYtFYKDqzJeF0BK1OOerpZYebEzlJZCJ8qvURgwShJwu7oAcT3GxE6sA1WsvduLwGzC6HCPTdCphQHX7WKB+drtiR+zwdyYByPAy6II7ISwc61a5DRD/a/RekFWYXw4/VHb8eG8HBNXlDh0/7nQ04ob/aTE7wON4qOtDERzZf6TPHjn9jeyv5Ja7jl72tX1s+VyiOaVgU89kjZKnTfgOpkfcf5FtkAqpuUA==;HLTUyYyJRdjbw42LuMsgJA=="

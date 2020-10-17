@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia will build the 'world's fastest AI supercomputer'"
+    excerpt: "Nvidia and Cineca, an Italian inter-university consortium and major supercomputing center, have announced plans to build ‘the world’s fastest AI.’ The upcoming"
+    publishedDateTime: 2020-10-17T15:00:00Z
+    webUrl: "https://www.techradar.com/in/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/EAfqRtmmM6R8WamHJLcRtN-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia will power world’s fastest AI supercomputer, to be located in Europe"
     excerpt: "Nvidia is is going to be powering the world’s fastest AI supercomputer, a new system dubbed ‘Leonardo’ that’s being built by the Italian multi-university consortium CINECA, a global supercomutin leader."
     publishedDateTime: 2020-10-15T16:04:00Z

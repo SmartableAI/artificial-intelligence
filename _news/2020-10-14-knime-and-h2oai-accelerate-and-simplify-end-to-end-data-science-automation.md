@@ -1,27 +1,27 @@
 ---
 category: news
 title: "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
-excerpt: "Oct 14, 2020--KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced"
-publishedDateTime: 2020-10-14T15:16:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-software-industry-information-technology-073d1b6e3cb94a568d9653c01f50cf4c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-software-industry-information-technology-073d1b6e3cb94a568d9653c01f50cf4c"
+excerpt: "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering ..."
+publishedDateTime: 2020-10-14T16:38:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
+webUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
       domain: finanznachrichten.de
     quality: 8
 
-secured: "ZsLWQU0Q8ubLfDCFn3jLhpyH0Rdc5MgwRMArGNBAyxUtFpvIMoBA6eV0WbaqilgxTuKUjo66MCDeCpi5vuX8DWhomTfLwc2drGY46awTI/aKhvGwv/5pr2xpqfAyEuSBsXA2L91sXqugQfUlsbLGmACV/hMQiyQNke6GOlgqS2vsAv1NIutpIBtAsyedmHTd5xQ4yk2lKW1u6LTgw7aVLtwcFxTl340GXAFLxh1YeSXB9LVr7FdATA6YH1pSR5/UUlx3AYqsTg6tETowDjE6Kl9fA/bqGTCucS8gi1M+cuxi+0j+e1Yh3hGJCqn1YscKzcKT9SN01bbmU3cOLzlbzK5hpvDloMuoVFn/1gFWP4M=;PAJVHGqbXTasBQiUgN04sA=="
+secured: "zAdtGrlko84CyouZABncGipLcwUp0s64cK3z7oxMcT42jr1UDguAJEC7OtwMovQIp3jsCf+kGCStoLBeAbuFxNjCWllmUzhEOLVX+H9kmRbsq528PjXYTjNXYyn/nNrYnROG2eOxs7L4TNQBpyuBeALL6qDMAgEs5++uScNWFps2F7zAly0VlAVgOInZgqetZpjc1Xk0qLUxJl+aIzfSb3g4Hx07X+wgb2LNKCBafuucbg7DgyGKFUSu0K/XJJFYAY+v4yfXpdPGcHp/rx/GBIBmIN6EGkGr9LSQlOv/JLgNIBPsMtTm7z2l4CE9waJ2ZrCAGtIQG8FnepuoCgt5EnveGpmTERmIvQgCaWz4JPI=;ML5NqLUyoQTeuNXAiL6suQ=="
 ---
 

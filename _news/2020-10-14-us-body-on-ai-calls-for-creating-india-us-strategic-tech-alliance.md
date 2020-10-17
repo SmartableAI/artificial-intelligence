@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Artificial Intelligence Assists With Better Battlefield Intel"
-    excerpt: "For future battlefield operations, speed is the name of the game. The side that can make decisions faster has the advantage. A new, AI-enabled effort by the U.S. Army can give operators the ability to detect,"
-    publishedDateTime: 2020-10-12T21:51:00Z
-    webUrl: "https://breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/"
-    ampWebUrl: "https://breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/amp/"
-    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/amp/"
-    type: article
-    provider:
-      name: Breaking Defense
-      domain: breakingdefense.com
-    quality: 57
-    images:
-      - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/10/AH-64-Apache-helicopter-gunnery-training_640x427.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Intel, CBSE deliver virtual lesson on AI to 13K students in 24 hrs"
     excerpt: "New Delhi, Oct 14 (IANS) Chip-making giant Intel and the Central Board of Secondary Education (CBSE) on Wednesday achieved a new Guinness World Records title for most users taking an online artificial intelligence (AI) lesson in 24 hours."
     publishedDateTime: 2020-10-15T01:08:00Z

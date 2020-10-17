@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia will build the 'world's fastest AI supercomputer'"
+    excerpt: "Nvidia and Cineca, an Italian inter-university consortium and major supercomputing center, have announced plans to build ‘the world’s fastest AI.’ The upcoming"
+    publishedDateTime: 2020-10-17T15:00:00Z
+    webUrl: "https://www.techradar.com/in/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/EAfqRtmmM6R8WamHJLcRtN-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "CINECA to Build World’s Fastest AI Supercomputer with NVIDIA and Atos"
     excerpt: "Featuring nearly 14,000 NVIDIA Ampere architecture-based GPUs and NVIDIA ® Mellanox ® HDR 200 Gb/s InfiniBand networking, Leonardo will propel Italy as the global leader in AI and high performance computing research and innovation."
     publishedDateTime: 2020-10-15T17:36:00Z

@@ -97,22 +97,6 @@ related:
         width: 400
         height: 302
         isCached: true
-  - title: "IRS, Army using automation to cut hours out of the acquisition process"
-    excerpt: "The use of robotics process automation, natural language processing and other emerging technologies are gaining momentum in the federal acquisition community to move contracting officers away"
-    publishedDateTime: 2020-10-12T21:09:00Z
-    webUrl: "https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/"
-    ampWebUrl: "https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/amp/"
-    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/amp/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 44
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/10/mitchell-winans-2-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "7ZELwpRFOHNOEHFYKDYSiDmkV+iIH2BjNWEJS8h9PoacQS/8ZLyI488gQvcNYpCzMh1IDEsx6cDeOMF7zFcMD8Z1bMNUhnDna4lxvsRDQSEFZRa9nHqEGEe2aBhx4YdoswAvTOjrIgfVApW6bNNKvAayg+FwW4ID27rDrk0rI5abPsQOGd+yAZFaXrwBQvK/ZIfR4gexwoQDhUZYrk/KDKHoGLzeq4LAO4q4UcKO1P9LnJwJnYDw28wMh/EjacOaRLIehhvvSt/zh2HfiOHeStXu7qHq7/yex+hIOy79bVufXRAdhK+PDonx7xFkEt0HD+ujIDIQBu+Vu4gltuI8thv1ROsyqBCFLSeFWbbEYRM=;m3sLkR4J026RN6Kuuug5FQ=="
 ---

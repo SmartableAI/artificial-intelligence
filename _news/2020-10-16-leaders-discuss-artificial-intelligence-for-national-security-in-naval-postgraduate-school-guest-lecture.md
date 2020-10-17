@@ -28,7 +28,7 @@ related:
   - title: "Artificial Intelligence Leaders Discuss AI for National Security in NPS’ Latest Guest Lecture"
     excerpt: "The Joint Artificial Intelligence Center (JAIC) is the Department of Defense’s lead organization for accelerating the adoption of artificial intelligence (AI) across the services. And it’s a critical role,"
     publishedDateTime: 2020-10-15T18:30:00Z
-    webUrl: "https://www.dvidshub.net/news/380988/artificial-intelligence-leaders-discuss-ai-national-security-nps-latest-guest-lecture"
+    webUrl: "https://www.dvidshub.net/news/380985/artificial-intelligence-leaders-discuss-ai-national-security-nps-latest-guest-lecture"
     type: article
     provider:
       name: DVIDSHub

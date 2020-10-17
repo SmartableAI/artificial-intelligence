@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-custom-am
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/"
 type: article
 quality: 114
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -85,22 +85,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/09/15-Pens-Pencils.jpg"
         width: 400
         height: 302
-        isCached: true
-  - title: "IRS, Army using automation to cut hours out of the acquisition process"
-    excerpt: "The use of robotics process automation, natural language processing and other emerging technologies are gaining momentum in the federal acquisition community to move contracting officers away"
-    publishedDateTime: 2020-10-12T21:09:00Z
-    webUrl: "https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/"
-    ampWebUrl: "https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/amp/"
-    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/amp/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 44
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/10/mitchell-winans-2-300x300.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "VXG announces platform to receive automated analysis at scale, effectively making any camera a smart camera"
     excerpt: "For an example, one really has to look no further than Amazon Rekognition, which leverages Machine Learning (ML) to make it easy to identify things like objects, people, or text within videos and images. Outside of the technology industry, however ..."
