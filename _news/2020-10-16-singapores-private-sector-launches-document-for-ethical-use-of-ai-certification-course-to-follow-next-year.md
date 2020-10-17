@@ -50,20 +50,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "In Singapore, facial recognition is getting woven into everyday life – WebMag"
-    excerpt: "Singapore already boasts one of the world’s most advanced national digital identity programs, SingPass, which residents can use for more than 400 digital services, including accessing tax returns and applying for public housing."
-    publishedDateTime: 2020-10-12T17:10:00Z
-    webUrl: "https://www.360webmag.com/in-singapore-facial-recognition-is-getting-woven-into-everyday-life-webmag/"
-    type: article
-    provider:
-      name: WebMag
-      domain: 360webmag.com
-    quality: 36
-    images:
-      - url: "https://www.360webmag.com/wp-content/uploads/2020/10/In-Singapore-facial-recognition-is-getting-woven-into-everyday-life.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Hpzaud+cD00gt+12+UICf61l1qEqLgePZ3bzvN5I/VGUUTjSzMO4pEp+/7E5Ie/RqOZq/xr7YY5VDaZAdUxk02S8+t6/ki8SlQd3sNo60NfiCA9zEG69MNiXvuuT1vXalQEyD/ZW1LJp6YVa8UUhHuco+2FqhpBAwSHRmszCK0XEvBdj350jU4MQShpNRz24SwlTKcf8THWQtniMyGPgP5QwV0bhODgwXtP+jyjgbr/bJcuOlcZkd3U7iFljfv3emBOEaEw8B7xcWkn5tFi6AMpKKgj+ZgcgQ0JXsVoX1cic8iW7P1Fk3jlzFWSv3TtN5bryICE6T7KzCO7yYkc2EjHWpGb9angF4piVnVPGUI4=;IsAh0F7zBlDYeP90z7ubWw=="
 ---

@@ -55,7 +55,7 @@ related:
     provider:
       name: Modern Healthcare
       domain: modernhealthcare.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.modernhealthcare.com/s3/files/styles/800x600/public/2016%20autonomous%20surgery%20on%20pig%20-%20%20Surgical_WEB.jpg?h=59011727"
         width: 800

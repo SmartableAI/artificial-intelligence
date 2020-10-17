@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's 'Full Self-Driving' beta releases to some drivers on October 20th"
-    excerpt: "A small group of Tesla drivers will get the chance to test the company's 'Full Self-Driving' rewrite next week."
-    publishedDateTime: 2020-10-12T17:19:00Z
-    webUrl: "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html"
-    ampWebUrl: "https://www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 88
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F3b890af0-0cab-11eb-aff2-f11b123b62a1&client=amp-blogside-v2&signature=d1805af9a493dbf66adae49607fe3512a7edbe41"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Tesla's Elon Musk: Some 'expert, careful' drivers get beta Full Self-Driving next week"
     excerpt: "Tesla will offer a limited number of \"expert and careful\" drivers a beta of its long-awaited Full Self-Driving capability in Autopilot next Tuesday, according to Tesla chief Elon Musk.  As usual, Musk teased the Full Self-Driving (FSD) beta release in a tweet."
     publishedDateTime: 2020-10-13T09:45:00Z

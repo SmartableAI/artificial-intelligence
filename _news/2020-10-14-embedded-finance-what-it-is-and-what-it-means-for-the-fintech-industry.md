@@ -65,6 +65,20 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Will fintech change the face of banking?"
+    excerpt: "Fancy new apps have become popular for everything from making a payment to buying insurance and shares. Should the big banks be worried? Simon Wilson reports."
+    publishedDateTime: 2020-10-17T10:14:00Z
+    webUrl: "https://moneyweek.com/investments/alternative-finance/602166/will-fintech-change-the-face-of-banking"
+    type: article
+    provider:
+      name: MoneyWeek
+      domain: moneyweek.com
+    quality: 39
+    images:
+      - url: "https://media.moneyweek.com/image/private/s--gSFQ7iVf--/v1602759072/1021_MW_P16_Briefing.jpg"
+        width: 1408
+        height: 792
+        isCached: true
   - title: "The Future of Artificial Intelligence in Financial Markets"
     excerpt: "General Trading Company announced that about 98% of the profits made were due to its unique artificial intelligence technology."
     publishedDateTime: 2020-10-16T12:33:00Z

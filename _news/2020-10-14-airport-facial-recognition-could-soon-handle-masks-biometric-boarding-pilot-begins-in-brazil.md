@@ -39,20 +39,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "A year later and UK passport biometric face scan system still favors white males"
-    excerpt: "Almost a year to the day after media stories questioned bias in UK biometric face scanning systems, it appears little has changed. A facial recognition photo checker deployed by the UK government"
-    publishedDateTime: 2020-10-12T18:35:00Z
-    webUrl: "https://www.biometricupdate.com/202010/a-year-later-and-uk-passport-biometric-face-scan-system-still-favors-white-males"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/09161913/biometric-passport-large1.jpg"
-        width: 885
-        height: 620
-        isCached: true
 
 secured: "Jq39CWRjnmkip4Cig/H/tbdp6+JK+8y8AGUlkVkxm9bfAPZpYLhqEv5UwFqtfi2NJ2GF0G6qsJWyIDffWlWs5nzAl0ps4AH+gUzHBWZcMINXbrSv3zkgzMFwZhIc2A/K8b6FJ4tI/AKp7AolQkWGCMH7K1UEZUYiQDl1s8AIjN18t5m4Q17pFbMzFTqxD0kM1DRn7mOL3TCCZWoyUbhEb22o0AOsY9rYMTQrkJqnIRQ1jTNJ2WhLkiBlOl/ibIFIAoUqkBt7yRnopnjoy628tyja4LrZS2yF/zif5BSktu0KX7hWqWeEIl53kzt5p2b6zhG4S1bn5UDguArkYkGdgE5B4n8I983CxYeXSOfw4VSq2lDl1AHx2Ha0AnGv5YpJ3gv0fgncvmaDo7OM9ctFkQKJMmKRLwe53ILPPL6sKU4ghbONQraexwCbM2QyO2yKW0VbdY0ltPxPrHSeir/9e9j85Wiyd1UVC5dKkDTEHGX5V7aH46MHuYNCiurNBPVn6cFAi3B/mppVIEGyXXzLsw==;j3TgRVU4IZxlcQzaXhK02A=="
 ---

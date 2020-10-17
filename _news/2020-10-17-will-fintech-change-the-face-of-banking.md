@@ -1,26 +1,27 @@
 ---
 category: news
-title: "The Future of Artificial Intelligence in Financial Markets"
-excerpt: "General Trading Company announced that about 98% of the profits made were due to its unique artificial intelligence technology."
-publishedDateTime: 2020-10-16T12:33:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-future-of-artificial-intelligence-in-financial-markets/article_173efa8f-bdd7-5650-abe6-234645c5ce16.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-future-of-artificial-intelligence-in-financial-markets/article_173efa8f-bdd7-5650-abe6-234645c5ce16.html"
+title: "Will fintech change the face of banking?"
+excerpt: "Fancy new apps have become popular for everything from making a payment to buying insurance and shares. Should the big banks be worried? Simon Wilson reports."
+publishedDateTime: 2020-10-17T10:14:00Z
+originalUrl: "https://moneyweek.com/investments/alternative-finance/602166/will-fintech-change-the-face-of-banking"
+webUrl: "https://moneyweek.com/investments/alternative-finance/602166/will-fintech-change-the-face-of-banking"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: MoneyWeek
+  domain: moneyweek.com
 
 topics:
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/73/0731cf8a-b1b2-50aa-aa63-da87e2b38fe5/5f899a4ac1bf7.image.jpg?resize=400%2C267"
-    width: 400
-    height: 267
+  - url: "https://media.moneyweek.com/image/private/s--gSFQ7iVf--/v1602759072/1021_MW_P16_Briefing.jpg"
+    width: 1408
+    height: 792
     isCached: true
 
 related:
@@ -70,19 +71,19 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Will fintech change the face of banking?"
-    excerpt: "Fancy new apps have become popular for everything from making a payment to buying insurance and shares. Should the big banks be worried? Simon Wilson reports."
-    publishedDateTime: 2020-10-17T10:14:00Z
-    webUrl: "https://moneyweek.com/investments/alternative-finance/602166/will-fintech-change-the-face-of-banking"
+  - title: "The Future of Artificial Intelligence in Financial Markets"
+    excerpt: "General Trading Company announced that about 98% of the profits made were due to its unique artificial intelligence technology."
+    publishedDateTime: 2020-10-16T12:33:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-future-of-artificial-intelligence-in-financial-markets/article_173efa8f-bdd7-5650-abe6-234645c5ce16.html"
     type: article
     provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 39
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
     images:
-      - url: "https://media.moneyweek.com/image/private/s--gSFQ7iVf--/v1602759072/1021_MW_P16_Briefing.jpg"
-        width: 1408
-        height: 792
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/73/0731cf8a-b1b2-50aa-aa63-da87e2b38fe5/5f899a4ac1bf7.image.jpg?resize=400%2C267"
+        width: 400
+        height: 267
         isCached: true
   - title: "Early-Stage and Mature Fintechs Chosen to Take Part in Qatar Fintech Hub’s Incubator and Accelerator Programs"
     excerpt: "Early-stage and mature Fintechs chosen to take part in Qatar Fintech Hub's incubator and accelerator programs."
@@ -146,6 +147,6 @@ related:
       domain: crowdfundinsider.com
     quality: 0
 
-secured: "ogN++FbQcruZ4ikPveJxMpGcKaoqiniZuwhfFpdIE2lqtCSLjV9cq/e++PGnryaPWxE7azGYHVTmDxWBU1MBDXuj1jON5/wnZbkawC85bOLi37YqekonnFKw2HkDyXlQ2JTwYSPPM+wr9FBei5A4DH3eBJvBtPfJo4KeDc/G1H/FX0KjBYN5sziMEuvrC01H/sLUkIEGQJVe3skrjwFrzLU6COwBGnBfJPQq2EaeJZJJRI/KbDPX0cgPiipKICgZXBrkRm3Afsa4ffRMDmE1Ec2IJsQtKkycjgVIVQaOxApaAXMBcEjejSJlwiLjvbbu2UuTdJINyn18WKLuIGPRqevw4+pRIdm9DfB4+B5D3mo=;dK6+Sv8w+jRlS45KyCTsdQ=="
+secured: "yDoP6n551UrvTMq3gdxKphnDE7aF1Sfk4JJ8PpSiQd1NdGX4TO5AdSSAGwSurYEIRhto2X/6r3KDLz1X4q9BTyi2krCuhSjW7nCBluTuMn03qs422XCfuyx2atCnkgKbSnB4nmYSFsbdAujF6bCLEatujFsf4d1NxKdXH8ygKaTCiXPBdfQR3LBrV6NLsze+mTtBIn/VPRUdw6Jrl/mP/umXlP6/QxHBLbPiSL2u/1kolkOa6VotlKomlSbFMDq3ZOqeDcKGq6jWVe7pFgkddpJ69uYLprOVMaKiXayu+8q/muKXngfXGbwT+cG5xQSELB2N/LPY0CPYi55UYjspMjjIjCBtibeOBV7H/Btv+CQ=;H72c2LZSSdOAvDLSeXO78w=="
 ---
 

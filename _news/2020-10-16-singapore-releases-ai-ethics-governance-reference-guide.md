@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-ai-ethic
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F0%252F5%252F3%252F29933509-9-eng-GB%252FCropped-1602598991%25E7%258F%25BE%25E4%25BB%25A3%25E8%2587%25AA%25E3%2580%2581%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AB%25EF%25BC%25A9%25EF%25BC%25B4%25E9%2596%258B%25E7%2599%25BA%25E6%258B%25A0%25E7%2582%25B9%25E3%2580%2580%25E2%2596%25A020201013211857361_Data.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
-        isCached: true
-  - title: "In Singapore, facial recognition is getting woven into everyday life – WebMag"
-    excerpt: "Singapore already boasts one of the world’s most advanced national digital identity programs, SingPass, which residents can use for more than 400 digital services, including accessing tax returns and applying for public housing."
-    publishedDateTime: 2020-10-12T17:10:00Z
-    webUrl: "https://www.360webmag.com/in-singapore-facial-recognition-is-getting-woven-into-everyday-life-webmag/"
-    type: article
-    provider:
-      name: WebMag
-      domain: 360webmag.com
-    quality: 36
-    images:
-      - url: "https://www.360webmag.com/wp-content/uploads/2020/10/In-Singapore-facial-recognition-is-getting-woven-into-everyday-life.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Singapore's private sector launches document for ethical use of AI; certification course to follow next year"
     excerpt: "Launched on Friday (Oct 16) by the Singapore Computer Society (SCS), \"AI Ethics & Governance Body of Knowledge\" builds on the Singapore government's voluntary framework for the responsible use of AI. It is authored by 29 industry veterans including Dr ..."

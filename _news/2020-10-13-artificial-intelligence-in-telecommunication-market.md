@@ -43,6 +43,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Meet Q.ai, A Robo Investing App That's Disrupting The Hedge Fund Industry"
+    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking ... Co-Founder and CEO at Q.ai, a Forbes company. Though trading apps like Robinhood democratize financial markets, they don’t allow investors the tools to properly ..."
+    publishedDateTime: 2020-10-16T21:16:00Z
+    webUrl: "https://www.benzinga.com/fintech/20/10/17940541/meet-q-ai-a-robo-investing-app-thats-disrupting-the-hedge-fund-industry"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17940541"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17940541"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_1_0.png"
+        width: 800
+        height: 360
+        isCached: true
   - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
     excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
     publishedDateTime: 2020-10-12T23:08:00Z

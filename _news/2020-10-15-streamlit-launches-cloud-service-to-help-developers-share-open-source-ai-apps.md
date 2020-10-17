@@ -25,20 +25,6 @@ images:
 
 related:
   - title: "How Artificial Intelligence Software Can Streamline Your Business"
-    excerpt: "However, as the tech industry has matured and software/hardware has become more complex and competent, we have seen the emergence of one particularly exciting area of computing – namely Artificial Intelligence (AI)."
-    publishedDateTime: 2020-10-12T17:10:00Z
-    webUrl: "https://www.finsmes.com/2020/10/how-artificial-intelligence-software-can-streamline-your-business.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2018/12/robotics.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "How Artificial Intelligence Software Can Streamline Your Business"
     excerpt: "In recent years, computers and technology have redefined many areas of our lives – everything from how we watch media to how we communicate and shop. However, as the tech […]"
     publishedDateTime: 2020-10-13T21:36:00Z
     webUrl: "https://ctovision.com/how-artificial-intelligence-software-can-streamline-your-business/"

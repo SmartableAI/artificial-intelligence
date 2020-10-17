@@ -1,26 +1,26 @@
 ---
 category: news
 title: "NEC OncoImmunity AS and Oslo University Hospital Team Up to Develop a Diagnostic for COVID-19 Using Artificial Intelligence"
-excerpt: "NEC OncoImmunity AS (NOI), a subsidiary of NEC Corporation (NEC), and Oslo University Hospital (OUH) are pleased to announce that they have recently b"
+excerpt: "NEC OncoImmunity AS (NOI), a subsidiary of NEC Corporation (NEC), and Oslo University Hospital (OUH) are pleased to announce that they have recently been awarded a prestigious grant from the Research Council of Norway (RCN) to develop an artificial intelligence (AI) platform that will enable the rapid design of T-cell diagnostics for emerging or endemic infectious diseases."
 publishedDateTime: 2020-10-08T07:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201008005351/en/NEC-OncoImmunity-AS-and-Oslo-University-Hospital-Team-Up-to-Develop-a-Diagnostic-for-COVID-19-Using-Artificial-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20201008005351/en/NEC-OncoImmunity-AS-and-Oslo-University-Hospital-Team-Up-to-Develop-a-Diagnostic-for-COVID-19-Using-Artificial-Intelligence"
+originalUrl: "https://apnews.com/press-release/business-wire/virus-outbreak-business-technology-pandemics-public-health-e64225e77b534e5aa1c46aee9a23d5a1"
+webUrl: "https://apnews.com/press-release/business-wire/virus-outbreak-business-technology-pandemics-public-health-e64225e77b534e5aa1c46aee9a23d5a1"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201008005351/en/828466/23/icon.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "OqmnA70nLwcmiQJ6gs05YVrcVUC4HCaWltnbgcN8b5SjlMTeFr12e9oFfS9CF4f2VIIJrLT0BFfiuv1ZTbumtg/8hCdfqnOwpb5SOYX7yWlFmOCCzFyFonN7Ujpa4vOqDYAsRJyfYR7MjdlrIB5M1GsqDclAsaj+BXtSeW48B1O1v0STbSX73GbURGFNl6uNmst+Sh9GvCsxUETnmd4ox4YVG0sw8gWZbVAWw6Xwkdws8ShZETf7QtBOq0SKTBPg2xIra5LG86cotYZzGfHWdC/1x99IlZDtUj+tKCuGRPTbivwBaEDoZkv4T2JW6O002H/9sbYwJuMkKAXFbdhPPoT+0y5WCgFj7fXK363DAhU=;5n6JYQ7aMOQmZin5c5TnZg=="
+secured: "4lgkKD7uw7+6RRW7DUB2E8Yrkens0+2Y10O+0dL2mw/ytYK4iZ6TWngjAk6PS5VuYw2VyiIHHPyKyWX28D4mX3meFjUnngFdF5cnKtLRwhaWZX7tYaf6Um71/xf35GYtINAxVeSGwhyxA37y6hvUQ4VjoXYAKdro6tvpJUQ35XziCIL/nkp6LoJ7iSNda5rpl4TTL0L4OrZUn7wmb7l2PahqCRP2Z6H+u8WenABv9ClWc4ChGdxEdm34c+6L6WHQx0je+6fWaata+3BzuPMzvQhxfvCB3sT8XaIhGEHpokrAnzfLupzM5lW6dSJ6gWn3kkJxOs0Lm8XsPmBaxmw012sROoZu84+Y5zOSx9yokaY=;2L96yiHVcCU9MQYQmwgnzw=="
 ---
 

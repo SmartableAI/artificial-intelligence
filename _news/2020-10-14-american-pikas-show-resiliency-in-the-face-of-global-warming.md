@@ -7,7 +7,7 @@ originalUrl: "https://asunow.asu.edu/20201013-american-pikas-show-resiliency-fac
 webUrl: "https://asunow.asu.edu/20201013-american-pikas-show-resiliency-face-global-warming"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 2309
     height: 2450
     isCached: true
-
-related:
-  - title: "The voice of small town America"
-    excerpt: "Kansas native William Allen White is revered for his efforts and dedication to the \"small town values\" over his long career as a journalist and"
-    publishedDateTime: 2020-10-12T17:12:00Z
-    webUrl: "https://www.hutchnews.com/news/20201012/voice-of-small-town-america"
-    ampWebUrl: "https://www.hutchnews.com/news/20201012/voice-of-small-town-america?template=ampart"
-    cdnAmpWebUrl: "https://www-hutchnews-com.cdn.ampproject.org/c/s/www.hutchnews.com/news/20201012/voice-of-small-town-america?template=ampart"
-    type: article
-    provider:
-      name: The Hutchinson News
-      domain: hutchnews.com
-    quality: 24
 
 secured: "dPhYvwzlw1B/9C5U09ot7vMZVxOUmxdzmLcSAPytbYLGj/E7wNwz8GGwOUiDA9dQptw9rhLv/3DZFms/Th2dAqnuTL9Vq/Lk0zTlo+A1DjaUvBW+tw+pHWDNPJXqlsCNkuQsLjfIWd7G0MvtNITWmZaA45U36eTWXxWVjLvbwNND3ro6wfR8N4qSD2BAnt6nggxaKysUElqomjZE0dPo+E5/XisJKU9QPiNCdXNldcsnJnwr24O/58QSwRb7YSwKqIS3IUbmGPMaPLS3tu8u/uZ7kk5OxvpoAqyHpSW8V7IQmDnZzuoQBu3uW2tEvCy4APl7d0YHpsRe69ZqKQYO5/AN0IQ9o4yomRxS/mZ+4p8=;JYWAOYbvAA8bK5gD8Vlphw=="
 ---

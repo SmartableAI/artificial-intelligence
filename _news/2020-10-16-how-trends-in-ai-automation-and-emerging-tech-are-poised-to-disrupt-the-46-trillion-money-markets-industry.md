@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://cdn.openpr.com/T/a/Ta13900366_g.jpg"
         width: 600
         height: 351
+        isCached: true
+  - title: "Meet Q.ai, A Robo Investing App That's Disrupting The Hedge Fund Industry"
+    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking ... Co-Founder and CEO at Q.ai, a Forbes company. Though trading apps like Robinhood democratize financial markets, they don’t allow investors the tools to properly ..."
+    publishedDateTime: 2020-10-16T21:16:00Z
+    webUrl: "https://www.benzinga.com/fintech/20/10/17940541/meet-q-ai-a-robo-investing-app-thats-disrupting-the-hedge-fund-industry"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17940541"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17940541"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_1_0.png"
+        width: 800
+        height: 360
         isCached: true
   - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
     excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."

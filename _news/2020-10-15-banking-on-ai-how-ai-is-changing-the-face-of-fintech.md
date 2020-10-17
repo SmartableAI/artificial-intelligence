@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financ
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/10/News87524-e1602260971308-300x225.jpg"
         width: 300
         height: 225
+        isCached: true
+  - title: "Will fintech change the face of banking?"
+    excerpt: "Fancy new apps have become popular for everything from making a payment to buying insurance and shares. Should the big banks be worried? Simon Wilson reports."
+    publishedDateTime: 2020-10-17T10:14:00Z
+    webUrl: "https://moneyweek.com/investments/alternative-finance/602166/will-fintech-change-the-face-of-banking"
+    type: article
+    provider:
+      name: MoneyWeek
+      domain: moneyweek.com
+    quality: 39
+    images:
+      - url: "https://media.moneyweek.com/image/private/s--gSFQ7iVf--/v1602759072/1021_MW_P16_Briefing.jpg"
+        width: 1408
+        height: 792
         isCached: true
   - title: "The Future of Artificial Intelligence in Financial Markets"
     excerpt: "General Trading Company announced that about 98% of the profits made were due to its unique artificial intelligence technology."

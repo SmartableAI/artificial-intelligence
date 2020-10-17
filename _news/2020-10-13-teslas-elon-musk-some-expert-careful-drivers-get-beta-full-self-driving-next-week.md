@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/teslas-elon-musk-some-exper
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/teslas-elon-musk-some-expert-careful-drivers-get-beta-full-self-driving-next-week/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 171
+published: true
 
 provider:
   name: ZDNet
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's 'Full Self-Driving' beta releases to some drivers on October 20th"
-    excerpt: "A small group of Tesla drivers will get the chance to test the company's 'Full Self-Driving' rewrite next week."
-    publishedDateTime: 2020-10-12T17:19:00Z
-    webUrl: "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html"
-    ampWebUrl: "https://www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 88
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F3b890af0-0cab-11eb-aff2-f11b123b62a1&client=amp-blogside-v2&signature=d1805af9a493dbf66adae49607fe3512a7edbe41"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Tesla to Deploy Limited Full Self-Driving Beta Next Week"
     excerpt: "Tesla TSLA recently announced that it will launch limited models of full self-driving (FSD) vehicles on Oct 20. The fleet of fully-autonomous vehicles to be rolled out next week will be first available for a small number of careful and expert drivers for testing."
     publishedDateTime: 2020-10-13T12:49:00Z

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel India sets up centre for artificial intelligence"
-    excerpt: "Intel India said it had partnered IIIT Hyderabad, Public Health Foundation of India and the Telangana government to unveil a research centre to focus on leveraging artificial intelligence (AI) to solve India’s population-scale challenges in sectors such as healthcare and smart mobility."
-    publishedDateTime: 2020-10-12T17:13:00Z
-    webUrl: "https://www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece"
-    ampWebUrl: "https://www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/business/i18ihs/article32837596.ece/ALTERNATES/LANDSCAPE_615/TH13BURAVISHANKARPRASAD"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Quick AI adoption essential for future of work in India, says Intel"
     excerpt: "Intel said that Artificial Intelligence is essential to the future of work in a post-pandemic world, with over 90% respondents in a survey considering AI to be essential to their businesses in India"
     publishedDateTime: 2020-10-15T09:15:00Z
@@ -74,40 +58,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Intel, IIIT-Hyderabad, PHFI And Telangana Government Launch Applied Artificial Intelligence Research Center"
-    excerpt: "The new center will focus on leveraging artificial intelligence (AI) to solve India’s population scale challenges in key sectors such as healthcare and smart mobility Through collaboration with"
-    publishedDateTime: 2020-10-12T17:20:00Z
-    webUrl: "https://indiaeducationdiary.in/intel-iiit-hyderabad-phfi-and-telangana-government-launch-applied-artificial-intelligence-research-center/"
-    ampWebUrl: "https://indiaeducationdiary.in/intel-iiit-hyderabad-phfi-and-telangana-government-launch-applied-artificial-intelligence-research-center/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/intel-iiit-hyderabad-phfi-and-telangana-government-launch-applied-artificial-intelligence-research-center/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 21
-  - title: "HSBC UK introduces interactive voice response system for call centre queries"
-    excerpt: "HSBC UK has begun the introduction of a new voice-driven menu to assist its telephone banking customers, enabling callers to state their intent verbally and be directed to the correct team automatically,"
-    publishedDateTime: 2020-10-14T18:02:00Z
-    webUrl: "https://www.finextra.com/pressarticle/84506/hsbc-uk-introduces-interactive-voice-response-system-for-call-centre-queries"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 21
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Intel's Hyderabad AI centre to focus on road safety, health"
-    excerpt: "Chip-making giant Intel on Monday said its newly launched applied Artificial Intelligence (AI) research centre in Hyderabad will focus on identifying and solving challenges in the healthcare and smart mobility segments through strong ecosystem collaboration."
-    publishedDateTime: 2020-10-12T17:29:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20201012/3640886.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Intel, CBSE deliver virtual lesson on AI to 13K students in 24 hrs"
     excerpt: "New Delhi, Oct 14 (IANS) Chip-making giant Intel and the Central Board of Secondary Education (CBSE) on Wednesday achieved a new Guinness World Records title for most users taking an online artificial intelligence (AI) lesson in 24 hours."
     publishedDateTime: 2020-10-15T01:08:00Z

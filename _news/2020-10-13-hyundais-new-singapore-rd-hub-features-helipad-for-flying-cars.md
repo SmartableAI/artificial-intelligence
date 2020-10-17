@@ -36,20 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "In Singapore, facial recognition is getting woven into everyday life – WebMag"
-    excerpt: "Singapore already boasts one of the world’s most advanced national digital identity programs, SingPass, which residents can use for more than 400 digital services, including accessing tax returns and applying for public housing."
-    publishedDateTime: 2020-10-12T17:10:00Z
-    webUrl: "https://www.360webmag.com/in-singapore-facial-recognition-is-getting-woven-into-everyday-life-webmag/"
-    type: article
-    provider:
-      name: WebMag
-      domain: 360webmag.com
-    quality: 36
-    images:
-      - url: "https://www.360webmag.com/wp-content/uploads/2020/10/In-Singapore-facial-recognition-is-getting-woven-into-everyday-life.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Singapore's private sector launches document for ethical use of AI; certification course to follow next year"
     excerpt: "Launched on Friday (Oct 16) by the Singapore Computer Society (SCS), \"AI Ethics & Governance Body of Knowledge\" builds on the Singapore government's voluntary framework for the responsible use of AI. It is authored by 29 industry veterans including Dr ..."
     publishedDateTime: 2020-10-16T03:10:00Z

@@ -1,21 +1,30 @@
 ---
 category: news
-title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
-excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
-publishedDateTime: 2020-10-12T23:08:00Z
-originalUrl: "https://ipsnews.net/business/2020/10/09/global-artificial-intelligence-in-education-market-innovative-trends-driving-factors-and-growth-analysis-2020-2025/"
-webUrl: "https://ipsnews.net/business/2020/10/09/global-artificial-intelligence-in-education-market-innovative-trends-driving-factors-and-growth-analysis-2020-2025/"
+title: "Meet Q.ai, A Robo Investing App That's Disrupting The Hedge Fund Industry"
+excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking ... Co-Founder and CEO at Q.ai, a Forbes company. Though trading apps like Robinhood democratize financial markets, they don’t allow investors the tools to properly ..."
+publishedDateTime: 2020-10-16T21:16:00Z
+originalUrl: "https://www.benzinga.com/fintech/20/10/17940541/meet-q-ai-a-robo-investing-app-thats-disrupting-the-hedge-fund-industry"
+webUrl: "https://www.benzinga.com/fintech/20/10/17940541/meet-q-ai-a-robo-investing-app-thats-disrupting-the-hedge-fund-industry"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17940541"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17940541"
 type: article
-quality: 0
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Inter Press Service
-  domain: ipsnews.net
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI in Finance
   - AI
+
+images:
+  - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_1_0.png"
+    width: 800
+    height: 360
+    isCached: true
 
 related:
   - title: "How Trends In AI, Automation And Emerging Tech Are Poised To Disrupt The 4.6 Trillion Money Markets Industry"
@@ -50,23 +59,16 @@ related:
         width: 600
         height: 351
         isCached: true
-  - title: "Meet Q.ai, A Robo Investing App That's Disrupting The Hedge Fund Industry"
-    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking ... Co-Founder and CEO at Q.ai, a Forbes company. Though trading apps like Robinhood democratize financial markets, they don’t allow investors the tools to properly ..."
-    publishedDateTime: 2020-10-16T21:16:00Z
-    webUrl: "https://www.benzinga.com/fintech/20/10/17940541/meet-q-ai-a-robo-investing-app-thats-disrupting-the-hedge-fund-industry"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17940541"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17940541"
+  - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
+    excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
+    publishedDateTime: 2020-10-12T23:08:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/09/global-artificial-intelligence-in-education-market-innovative-trends-driving-factors-and-growth-analysis-2020-2025/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_1_0.png"
-        width: 800
-        height: 360
-        isCached: true
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
-secured: "1QE6vCd68XHv8TsBGwT9nfL3gCTJS+KwzDhg2wTqgN/DlB0cObLIor+p0pBd9TY6P8wX0zc2oQwk1jktHAPXrx7rsAirnhvdrY9UsuW2OfUJAlujxqAavZNwy1tFYsb+/xOdqe+PzdM15iE2QPi3/CuWgW0UCloQtvwvQKmIXsWDlSoQAKAkIy69ZTJ1V3715hx9UQKA64gy0a5QbdZPQxs2+gy82QGOzYMrGR6/G00XprICEgo2lrHpso1yer9wkoXtAFZA/XjFWk91YZfivcgP9ljvJ7Wca1zGSWrdfN4Tr3Wi+SyDyk7NVbn08/YrbnTHsnHP1qsnNT4AjOaqgNyes49e+agw9Wz25dOhxRo=;ilVFRyv8Fo1+5HSQtLdZIQ=="
+secured: "9wF7K8ru652f0oyjs/NeHHe73L/cZqHE77fLdudROy+H1yplGfs+RTdUbF0/wSy+eY7vmQxn9q948I2zEasYN8KRQsZSVkctWsOpLtvvaPoCgL9C1817/nOFcT4Qxa/OmXnelr8gtyPZ1sINhXoA54o1tOfCrRbW9gvccgBOtKlH+w13H94Y/cTN0O5drCtimHbMIUfT/x/GcepuBVPkyvbEqMCOy0OaPh3ozns1tdVueE5aRasvo4Bd5mXNmeZXy4/x+bdO7c3+vctN1xTnL3VXxPf+2mEi6woiQOBpc3IuOA3XvlSLaHbx/I3eHdjLMu4v288wmGqgYx9+tbhPWNB7swtE+EB3b3e8Ub38A8I=;dhH24+O0Eq9ludYotbwyxA=="
 ---
 
