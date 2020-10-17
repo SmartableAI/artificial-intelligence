@@ -166,18 +166,18 @@ related:
         height: 400
         isCached: true
   - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
-    excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio. The report offers an up-to ..."
-    publishedDateTime: 2020-10-16T19:57:00Z
-    webUrl: "https://www.oaoa.com/news/business/global-artificial-intelligence-in-energy-market-growing-demand-for-data-integration-and-visual-analytics-to/article_0bc78387-2f69-5886-8d61-fcf2f06baad8.html"
+    excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
+    publishedDateTime: 2020-10-16T19:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201016005415/en/"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 2
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/8/b9/8b93e6d0-3d8f-58f0-8307-03c482dd7786/5f89f8fc91bc3.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://mms.businesswire.com/media/20201016005415/en/830987/23/IRTNTR45192.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "w4gCpxfv3dfIHe6+1LRQzg9uSwtWmvR14VEVY0G+WHkUrN6Rk9ug6Duzh8SF4wSZL9i0sLAkRRFf6uM9jMZXExL+4l5hWlzhBcKELtt4kbVPt5wqbjETfaX7QPiyT2ydI8yirCVmLjp+xK7ylNAJsouEOr65oVohALnme050GkHVIgMiFBN7vGn5ZBshcklmVfonizJKCmyRYqbi9FlB2+PmT4kbjwomBMxWeo+HKN2fcGIbDbMNiVRWpR2dITRDzRE2JaTkRpnuSBxjb7AnyHaQd+7CvZhxSrfmUZ359krMr8H6fWuaIpL/SeeUpdFh+UY98XfWNtRRQu4F2jtNNIidFGkClfcfhRZfojZjMr2H6Cc8ANRbU64eoWCBS5KsmbWUzHBzH6c71bkvfMdjLKC/wKXBf2u9LrQX2a1hNOU2ZUHoVAZDcXgyk4NJ1gpgFT0LrKuhjO8gxkYj6Pqs4C+TpYrsYIyJH/8YtboYuPl46ZdJjvQGXjRWs4ArRt95HWcySMSRQW/A83dTAssVgA==;hrgmbAi0/CinEKR+u/RuTA=="

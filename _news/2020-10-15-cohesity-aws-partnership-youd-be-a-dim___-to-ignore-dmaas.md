@@ -1,22 +1,30 @@
 ---
 category: news
-title: "IBM, ServiceNow Partnership: AI for IT Service Management"
-excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"
-publishedDateTime: 2020-10-16T18:53:00Z
-originalUrl: "https://www.channele2e.com/business/digital-transformation/ibm-servicenow-partnership-ai-itsm/"
-webUrl: "https://www.channele2e.com/business/digital-transformation/ibm-servicenow-partnership-ai-itsm/"
+title: "Cohesity AWS partnership: you’d be a dim___ to ignore DMaaS"
+excerpt: "Think for example of AWS Macie for Compliance-as-a-Service, AWS Glue for the management of data lakes (ETL) and Analytics-as-a-Service, AWS Redshift for cloud data warehousing and AWS SageMaker ..."
+publishedDateTime: 2020-10-15T12:12:00Z
+originalUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS"
+webUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS"
+ampWebUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS?amp=1"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ChannelE2E
-  domain: channele2e.com
+  name: Computer Weekly
+  domain: computerweekly.com
 
 topics:
-  - IBM AI
+  - AWS AI
   - AI
+
+images:
+  - url: "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/10/data_is_fragmented.jpg"
+    width: 580
+    height: 429
+    isCached: true
 
 related:
   - title: "Cohesity Announces AWS Partnership For Data Management Service"
@@ -51,22 +59,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Cohesity AWS partnership: you’d be a dim___ to ignore DMaaS"
-    excerpt: "Think for example of AWS Macie for Compliance-as-a-Service, AWS Glue for the management of data lakes (ETL) and Analytics-as-a-Service, AWS Redshift for cloud data warehousing and AWS SageMaker ..."
-    publishedDateTime: 2020-10-15T12:12:00Z
-    webUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS"
-    ampWebUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/10/data_is_fragmented.jpg"
-        width: 580
-        height: 429
-        isCached: true
   - title: "Cohesity partners with AWS on cloud-based data management"
     excerpt: "Data management software company Cohesity Inc. said today it’s creating a new cloud-based data management-as-a-service offering in partnership with Amazon Web Services Inc. The new offering is aimed at enterprises and mid-sized businesses that want an easier way to back up,"
     publishedDateTime: 2020-10-15T00:22:00Z
@@ -81,7 +73,16 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "IBM, ServiceNow Partnership: AI for IT Service Management"
+    excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"
+    publishedDateTime: 2020-10-16T18:53:00Z
+    webUrl: "https://www.channele2e.com/business/digital-transformation/ibm-servicenow-partnership-ai-itsm/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 19
 
-secured: "bjNat2TFOMJteNn8OdU6MKz0+7CksoKwYeSb+xu2+ok/pBsD8xKDMO9BNC8K7YUa20BtTLbn9q1NSSuU46/0V7h70WJaEttAkgWxMZz8tJMnw1c2svgh6n00AnaGctu69PcbHbrBiiULrjDsidQLs6KTEWrTfkuN3r8ZBfknLOAF66Jz7TArjVSPyXbNLHH1sRtvhXWqM41wVB4wknFWfyBAf0okZb73mhLrsGhybNuHtIrenDmCFKugoQ9aY1uvjpNYLAA1OPae6h1bOxiOcYnCk7uUaLsGS9B/HO/cLWCLlvEUH/cter6fsnWQqWGYNCYfqGnnZllHb5MPIXnKP7FCQZxdACqqJP0msMMjkWsU/yRFDHo8SYoL3rGsbaiwjb4g3yrIuWk2qts/a9Er/c6ydWXb6uv0iijw39O9cKDzB+zvabzUc2WiFW4i7umelqhcTk4lXAr98NdSDJ9sZ0i7AUy2IVzx0QEWhhVR9op3SgFI0KODs6BhQNXXn88evjKlkLyqfXFA5SO8ZUr54Q==;8pEtuOe/xLVcpyzec8Lzig=="
+secured: "WfTCYVzszDLIDD7q7KY12oF5U8yqQpPGXLYlfsBv5k6+eVIV9qhUUPuhR76ZfSAVvOS6uZPB4VwDvJayrsoHqBsmZ+LNZ9wzbGmF6/9mKiFOr/WyZMN4tN+rTXrfU+QK1qOki6Bm4wyTrF8kLbcppaXmbgoVSCmqD0BYWlTep+Fn+8vJYq5RqWU/sc/2ECqjA7dsxwgdYOPMW8L3paAwjcF/1Bpi+Gn3TJP4C45wK3LRKU/0hhbUSSQD83X6fUS5jBugk1z6MgZ8T2PMLcaOx/2vglqat4ljnlMlOxbIhgOYD+FLwY2tbxbHAWewy5yzSr1IPqH1AfXhmGotGxEcl7rDU8C128d7ROTzYbjApCo=;GJvKlyzTTqXx7ShhCsn5lg=="
 ---
 

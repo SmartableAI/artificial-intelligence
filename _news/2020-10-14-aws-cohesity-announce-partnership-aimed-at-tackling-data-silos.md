@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Cohesity AWS partnership: you’d be a dim___ to ignore DMaaS"
+    excerpt: "Think for example of AWS Macie for Compliance-as-a-Service, AWS Glue for the management of data lakes (ETL) and Analytics-as-a-Service, AWS Redshift for cloud data warehousing and AWS SageMaker ..."
+    publishedDateTime: 2020-10-15T12:12:00Z
+    webUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS"
+    ampWebUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/10/data_is_fragmented.jpg"
+        width: 580
+        height: 429
+        isCached: true
   - title: "Cohesity partners with AWS on cloud-based data management"
     excerpt: "Data management software company Cohesity Inc. said today it’s creating a new cloud-based data management-as-a-service offering in partnership with Amazon Web Services Inc. The new offering is aimed at enterprises and mid-sized businesses that want an easier way to back up,"
     publishedDateTime: 2020-10-15T00:22:00Z

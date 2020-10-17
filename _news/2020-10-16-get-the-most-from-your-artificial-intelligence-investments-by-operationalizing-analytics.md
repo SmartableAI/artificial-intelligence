@@ -167,18 +167,18 @@ related:
         height: 400
         isCached: true
   - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
-    excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio. The report offers an up-to ..."
-    publishedDateTime: 2020-10-16T19:57:00Z
-    webUrl: "https://www.oaoa.com/news/business/global-artificial-intelligence-in-energy-market-growing-demand-for-data-integration-and-visual-analytics-to/article_0bc78387-2f69-5886-8d61-fcf2f06baad8.html"
+    excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
+    publishedDateTime: 2020-10-16T19:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201016005415/en/"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 2
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/8/b9/8b93e6d0-3d8f-58f0-8307-03c482dd7786/5f89f8fc91bc3.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://mms.businesswire.com/media/20201016005415/en/830987/23/IRTNTR45192.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "B5GgVWFdLxANv5cB5ifZea8gO0T+QaGq911cstHlDNZaoAtGG2UtzdFaDYTO5LpjYV2IGYijkqfZ9Oz6GqJqGm44548uxCxLXks9ER8gVyo5wtjRvWUXhkA42eL5zOjePHoK4xuyZVA2BhKgMzQLkoiCnR1KtR6L7fYZilSHSsKkmqSfdhcAkYdgMksYSt8L+d+a1L4LBjoXwDoA89ciKuBkLnTs2T9cpp99fSUaqGH8mgGIYBtPB/q43RvbgGnsrl1gpOeVZdZJGWYS4BsNjj5oqyBiwKvlO4doFgHk/yYt30OfRYswNwwJaDkEOe05HShDtQR/tZLqpGDe5E4UrU/dU5WULv+CeYmKdSoiZOE=;XGOaCaTvLnLZsh4cMvjlfA=="

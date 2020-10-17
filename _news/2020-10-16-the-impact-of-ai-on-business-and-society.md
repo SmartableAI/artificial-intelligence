@@ -27,131 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Next Generation Of Artificial Intelligence"
-    excerpt: "What will the next generation of artificial intelligence look like? Which novel AI approaches will unlock currently unimaginable possibilities in technology and business? This article highlights three emerging areas within AI that are poised to redefine the field—and society—in the years ahead."
-    publishedDateTime: 2020-10-13T01:28:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
+  - title: "The relentless threat of artificial intelligence taking our jobs away"
+    excerpt: "Whether AI will take our jobs or create new ones is one of the greatest debates of the modern world. Every instance when a revolutionary new technology comes in, the same thought fearfully raises its head."
+    publishedDateTime: 2020-10-15T15:45:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/the-relentless-threat-of-artificial-intelligence-taking-our-jobs-away-11602776178980.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/the-relentless-threat-of-artificial-intelligence-taking-our-jobs-away/amp-11602776178980.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/the-relentless-threat-of-artificial-intelligence-taking-our-jobs-away/amp-11602776178980.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: Mint
+      domain: livemint.com
+    quality: 61
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84f4978d786028fac3acbb%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Four Ways AI Can Improve Revenue Operations"
-    excerpt: "How can RevOps best drive value, profit, and growth? The answer lies in a strong foundation of advanced analytics and AI."
-    publishedDateTime: 2020-10-13T11:05:00Z
-    webUrl: "https://www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/"
-    ampWebUrl: "https://www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84b56436b3adb34c19d5b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8032%26cropY1%3D161%26cropY2%3D4681"
-        width: 1199
-        height: 675
-        isCached: true
-  - title: "The Path to Ethical AI Starts With Collaboration"
-    excerpt: "To the layman, the word-set of ethical AI is a misnomer. AI oftentimes still conjures visions of a dystopian future in which artificial intelligence runs rampant, dominating humankind. Thanks to modern-era entertainment in films such as 2001:A Space Odyssey (HAL 3000) or The Terminator,"
-    publishedDateTime: 2020-10-15T19:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
-  - title: "Omdia identifies a key shift from cloud-based AI-solutions to AI at the Edge"
-    excerpt: "Leading analyst house Omdia has today released its latest report identifying the key areas for growth for AI-at-the-Edge. 'Connecting The Dots: AI at the Edge' has found that more compute is needed at edge locations to manage and support new and proliferating latency-sensitive IoT devices and software technologies that are analysing an increasing amount of data."
-    publishedDateTime: 2020-10-13T15:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Mindset4Dementia app uses AI for next generation screening tool"
-    excerpt: "A team of students and doctors, led by UCL medic Hamzah Selim, has launched an innovative app which uses fun brain games to screen people for signs of dementia."
-    publishedDateTime: 2020-10-13T12:31:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-mindset4dementia-app-ai-screening-tool.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-mindset4dementia-app-ai-screening-tool.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-mindset4dementia-app-ai-screening-tool.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/9-alzheimers.jpg"
-        width: 1280
-        height: 988
-        isCached: true
-  - title: "Exploring the benefits of AI and machine learning"
-    excerpt: "Learning Objectives Artificial intelligence (AI) and machine learning (ML) are being used more by manufacturers as they realize their benefi"
-    publishedDateTime: 2020-10-14T07:06:00Z
-    webUrl: "https://www.controleng.com/articles/exploring-the-benefits-of-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 56
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/Capture2.png"
-        width: 645
-        height: 350
-        isCached: true
-  - title: "AI helps raise awareness of the conservation crisis"
-    excerpt: "SiliconANGLE"
-    publishedDateTime: 2020-10-17T01:20:00Z
-    webUrl: "https://siliconangle.com/2020/10/16/ai-helps-raise-awareness-of-the-conservation-crisis-exascaleday/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/Bryan-Pijanowski-Exascale-Day-2020.png"
-        width: 1141
-        height: 511
-        isCached: true
-  - title: "Roche Enlists Dyno to Bring AI to Next-Generation Liver, CNS Gene Therapies"
-    excerpt: "Roche made a splash with its acquisition of Spark Therapeutics, whose Luxturna, a gene therapy for an inherited form of vision loss, was the first such"
-    publishedDateTime: 2020-10-14T10:08:00Z
-    webUrl: "https://xconomy.com/boston/2020/10/14/roche-enlists-dyno-to-bring-ai-to-next-generation-liver-cns-gene-therapies/"
-    type: article
-    provider:
-      name: Xconomy
-      domain: xconomy.com
-    quality: 35
-    images:
-      - url: "https://media.xconomy.com/wordpress/wp-content/images/2020/10/14003723/iStock-1173782127.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "Tyto Care Launches the Next Generation of Telehealth with an AI-Powered Diagnostic Support Solution"
-    excerpt: "Tyto Care, the healthcare industry’s first all-in-one modular device and examination platform for AI-powered, on-demand, remote medical exams, today announced its AI-powered diagnostic support solution,"
-    publishedDateTime: 2020-10-13T19:30:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/virus-outbreak-business-corporate-news-diseases-and-conditions-products-and-services-8c62e6554746b11439c958c8ca542754"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.livemint.com/img/2020/10/15/600x338/AI-kkGH--621x414@LiveMint_1602776283325.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "k/y/kwtAVJdQu+mIEST3mrdZJ31TFMGuN03dWbO8VXKK0hFnkBolUzXN0+vJuQqKfFmMLYiIIdt4pT30NOiBk/0zevvY/sqvCtpFjaggrtwjGkMOd9tk7yMFCGRpSx7yfEJ6rKh6yDGwmW4yGHopKAFx1L+xbUvcuHdtMxpdTGqwkW0BX4OsiS7Q3Vuil4Ih2Qk3NMgMUK1kHSLigcvxlUJN+XwCwsyB3JdkbaP1hlfabSL1RH+ng3xZTibzCEfo+9lsILcHEajkrHUeOGIT3pW29MfqCmVVdz7vmMsm5GPRcs81+RU+vHvM7SgwoBrOcMAxz72ok4upvMVjmUVmJVdZ0GXkjdQ1Hi4OgqJnQ++iu9mwn/i1b1DMzbYY3taxX9Z8eWCw0NvKNjGJTKn9S2a1xCO+S9yfIC/UWJ6mR8uLgzB6C2k3a6kPQyw2KJmY5LKPNg+ERHJ/WrPRTg8VkcuVN7wLE3ICUQRpF85quryZKsfIchmXbhfu1Lo1+x6s9o+KeovwDYWv6Z+U2OjN7A==;jlJaYkb6+SpqMFPH5gvnxQ=="

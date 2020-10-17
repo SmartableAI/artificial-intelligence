@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "UnitedHealth Group CEO Wichmann teases development of new digital therapeutics"
-    excerpt: "UnitedHealth Group unveiled its Level2 digital therapy platform for patients with diabetes earlier this year, and CEO David Wichmann said the company sees more opportunity to continue developing such therapies."
-    publishedDateTime: 2020-10-14T11:10:00Z
-    webUrl: "https://www.fiercehealthcare.com/payer/unitedhealth-group-rakes-3-2-billion-q3-profit"
+  - title: "Roche Enlists Dyno to Bring AI to Next-Generation Liver, CNS Gene Therapies"
+    excerpt: "Roche made a splash with its acquisition of Spark Therapeutics, whose Luxturna, a gene therapy for an inherited form of vision loss, was the first such"
+    publishedDateTime: 2020-10-14T10:08:00Z
+    webUrl: "https://xconomy.com/boston/2020/10/14/roche-enlists-dyno-to-bring-ai-to-next-generation-liver-cns-gene-therapies/"
     type: article
     provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 20
+      name: Xconomy
+      domain: xconomy.com
+    quality: 35
     images:
-      - url: "https://qtxasset.com/fiercehealthcare/1602675000/UHG_Exterior_221.jpg/UHG_Exterior_221.jpg?M1sCW9C2zrVoYDtivG7AouRmHpKoLXR3"
-        width: 2100
-        height: 1400
+      - url: "https://media.xconomy.com/wordpress/wp-content/images/2020/10/14003723/iStock-1173782127.jpg"
+        width: 1254
+        height: 836
         isCached: true
 
 secured: "YmGaBbANOP9oFBGAScMbJm9Gs3spw5xhu/Y6ltjEX5wm0t0nRI2Jx7JdwY+uSxRo3r7h0cln8WpkukYjxvY7PdDV7oaD5vu1sMMqcbdwfnqv+GY2kCcnw/9Wg37V+gtU4fexA71lzQB1PMTgvNB8MGpPHZjd5uyTSlE/UwBPmDCM28avv+Jq2NLVP+19M4jqASqJ5LLimLw2wBVwKgbqJ6UMSxJXCSz82wd5R/C/y7fOnhHYShysilY1SkF87Rn/RDT3ZIWQlzFIH8Jbw7765KLwrNOo2q5VSgLMQvOyh1aMjTQmiw+Cap0fvdzr/PVAqnEzzh9IBO6/1GVAtCAvA0Jcft/ERY2gdTF2gr/woSg=;E7YmE0B5qj/2gb/XLN3z8g=="

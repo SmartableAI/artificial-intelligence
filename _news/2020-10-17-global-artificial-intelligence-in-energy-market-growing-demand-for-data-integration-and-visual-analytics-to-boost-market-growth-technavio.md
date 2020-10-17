@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
-excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio. The report offers an up-to ..."
-publishedDateTime: 2020-10-16T19:57:00Z
-originalUrl: "https://www.oaoa.com/news/business/global-artificial-intelligence-in-energy-market-growing-demand-for-data-integration-and-visual-analytics-to/article_0bc78387-2f69-5886-8d61-fcf2f06baad8.html"
-webUrl: "https://www.oaoa.com/news/business/global-artificial-intelligence-in-energy-market-growing-demand-for-data-integration-and-visual-analytics-to/article_0bc78387-2f69-5886-8d61-fcf2f06baad8.html"
+excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
+publishedDateTime: 2020-10-16T19:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201016005415/en/"
+webUrl: "https://www.businesswire.com/news/home/20201016005415/en/"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/8/b9/8b93e6d0-3d8f-58f0-8307-03c482dd7786/5f89f8fc91bc3.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
+  - url: "https://mms.businesswire.com/media/20201016005415/en/830987/23/IRTNTR45192.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -178,6 +178,6 @@ related:
         height: 400
         isCached: true
 
-secured: "/rhW2FKG2k8uYEOjT0u4mhyiwv8OKm2lyegg2uAVdVaOXw9CHg47gzFsrh0igaspXjUZNFSpr93c3ZLThg6zSW8U3uuaTr0zDWSTsNQObwZvrry9rMS0Kilzqe4lUNlAJ8Bp4vQPcrMKdd+fC2SDsf4SVf2p4Oh3JT42abW1Me0+/gZ1lAeGtJCM9vWq3KiBzaTGiZT3Y6tCFaSTpEzkY4WdhlE/1bwA/z6wiyvb1UJqv9co7C+v7kvqm4NYqb0uhiqTkbAOwRPUdyRmv41Pric1IxJ38SZ9HPNrXxrwomJuD5tIWky8IE12y6Clq6R0wKOGW8viTFIqQML4lwYOtR1p0RUjcAjqv5acOzjjz9s=;p1YSHasgNCZzV2RLbr8ixw=="
+secured: "KO9SVnsQewDQ235IRAIXeJuKgpNe0oxjH0sHgnUYoib0IAP8TMYVo/QMxzbLcEdO+wDLlT2+k3lB4m9NY6tvS+cNqOzx8tbeq/9EQWatTd1SeDVKf419xgkxmNq/d4tzdvn4VYEvgoJaCZ3FrG7ete9W5LFtiEKXd4H8LGfwUKuyu0isxer/+Wxl1gVxFnpqV7Vqg0IHQTpcIUEwRqqeEEkjjlmspJYF2dKZqFxQ0BZS52fGh1797hb8LLCkv+LckR4PcLEJ+talZ5cV2bDSGo86ZDyoXPcpjNvPulJ1mLJW9/XRBj+gjYYmmbZAZi6TIBLeQh/IBbZeK2IlpH4/+r33okY63EEpkJ/QbVDvIoY=;kzvpyrCkPhSqV4UnNGhSig=="
 ---
 

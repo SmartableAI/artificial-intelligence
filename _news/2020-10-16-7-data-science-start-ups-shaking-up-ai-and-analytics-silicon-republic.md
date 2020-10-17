@@ -165,18 +165,18 @@ related:
         height: 400
         isCached: true
   - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
-    excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio. The report offers an up-to ..."
-    publishedDateTime: 2020-10-16T19:57:00Z
-    webUrl: "https://www.oaoa.com/news/business/global-artificial-intelligence-in-energy-market-growing-demand-for-data-integration-and-visual-analytics-to/article_0bc78387-2f69-5886-8d61-fcf2f06baad8.html"
+    excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
+    publishedDateTime: 2020-10-16T19:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201016005415/en/"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 2
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/8/b9/8b93e6d0-3d8f-58f0-8307-03c482dd7786/5f89f8fc91bc3.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://mms.businesswire.com/media/20201016005415/en/830987/23/IRTNTR45192.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "GciqPUWLm1IYEosSXppOWtUJ0EhuBi+5+e3wblgcNHYdJZIaqQ00SWIM5EU/ZfGZvCahAwh8O2/Rq0X8JHbSVkOWhFZCCXSe7mqvPLuDROA4jRi/fZzV/KJNOcEQTbYalt7u4lB1iLo6snt1+XVC/ZvVfVyS6cr7dKHNJ2H1dFOL3FMK1sNA88AD358RaUx7YOqbtYy/rxecvQkuzYN0epWu1+RwTdAviwHOCRK7GglKsEI/rQ4Uf/UP2YIztrmAZSWHAE9cZbZ5N+z6SbER6uxAkcmqiAK1GznN8xcdJPcjTyOJYTnG/KJTjaSVZ2j/weI52VEortuOsG/xs/npIdIXkvE4fKSk+jn92tdd/+SFCZeYItH/trBlwi1w4A+3uCnZPev6LuuyRCzThUUxSjT3kD5OkpWxMqXFz3MWbQZnvYe32zT0z7pmzAcsgTitV8xaLLReYUXPaQVT0TUXlWq0NqZV7rNpsx8hZko3FDadxrsicDg+KaNa5x+6naMCpZc3wn3piyeLyP1+jigDUQ==;X44FVxovI3vmxplF0seGVQ=="

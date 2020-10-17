@@ -97,35 +97,26 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-a-radical-new-technique-lets-ai-learn-with-practically-no-data.md",
-      "title": "A radical new technique lets AI learn with practically no data",
-      "excerpt": "Less than one”-shot learning can teach a model to identify more objects than the number of examples it is trained on.",
+      "path": "_news/2020-10-16-the-path-to-ethical-ai-starts-with-collaboration.md",
+      "title": "The Path to Ethical AI Starts With Collaboration",
+      "excerpt": "To the layman, the word-set of ethical AI is a misnomer. AI oftentimes still conjures visions of a dystopian future in which artificial intelligence runs rampant, dominating humankind. Thanks to modern-era entertainment in films such as 2001:A Space Odyssey (HAL 3000) or The Terminator,",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/",
-      "originalUrl": "https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/",
+      "webUrl": "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15",
+      "originalUrl": "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 106,
       "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/10/MnistExamples.png",
-          "width": 594,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/amp/",
-      "publishedDateTime": "2020-10-16T02:21:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp",
+      "publishedDateTime": "2020-10-15T12:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -135,9 +126,9 @@
         "news"
       ],
       "topics": [
-        "AI",
         "AI Ethics",
-        "Facebook AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {

@@ -58,17 +58,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Tesla’s Full Self-Driving beta lands for select drivers next week"
-    excerpt: "Tesla boss Elon Musk has given a date for what will initially be a limited rollout of a beta version of its Full Self-Driving (FSD) software: Tuesday, October 20. The flamboyant CEO offered the tidbit on Twitter in a response to a tweet from CleanTechnica."
-    publishedDateTime: 2020-10-13T01:33:00Z
-    webUrl: "https://www.digitaltrends.com/cars/teslas-full-self-driving-beta-lands-for-some-drivers-next-week/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/teslas-full-self-driving-beta-lands-for-some-drivers-next-week/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/teslas-full-self-driving-beta-lands-for-some-drivers-next-week/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
   - title: "Musk: Tesla Is Rolling Out a Beta of “Full Self-Driving” Next Week"
     excerpt: "Driving Beta” to certain owners some time next week, according to a tweet by CEO Elon Musk. In August, Musk promised that the next Full Self-Driving update will be a “quantum leap, because it’s a fundamental architectural rewrite,"
     publishedDateTime: 2020-10-13T14:22:00Z

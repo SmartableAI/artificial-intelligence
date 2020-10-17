@@ -16,7 +16,7 @@ provider:
   name: The Verge
   domain: theverge.com
   images:
-    - url: "/assets/images/organizations/theverge.com-50x50.jpg"
+    - url: "/assets/images/organizations/engadget.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -97,6 +97,6 @@ related:
         height: 400
         isCached: true
 
-secured: "yHLjpPMlh1QmyU0cBh54g/iPX07F77udzajGDA9ANaCbkbtTUELD1Gws/YMifvOG7QFPVAtKOc4ncucOJn3KsPEylAziVkaOF3FYm4TwnRFUr4tLursmaYN1S9uEejUWryvEmF9KIINz7i0w1YPjhAmdkbXricEh2CaQqCfjhWPdvxizN95i4WCMsZIwhoODYkVybOvCtNrmBTxVy/IpJ0gfGJik5QGGVrkuuC2ucXsVWooaoOsO4GUpifT8SOWT1gFs0YijZ+Yxymt/Dm6YOuXKCJY5w0UPmGF841tQpO5L4MnDcNL7YxCHD5KkWQ5Q+6/yFSsUNrlo+lb/nDfPBssTM8PfQVdvs0MQjjoGxEY=;dIz5B8z8wQc+o9J9ChsaDw=="
+secured: "FsOE0d0sYMgdb7Bw0PsUAhDw+ECJKu50EwuGS1X1GLoFBEYXomR0RNdZ4hf5Vl9D5SEpDYsnM655Hn1nmtj/V5LqzXR2iItCTrTYd0jfrGYK/L8BkA/Wd9b6DKWjXCOz8D4th5R14oCR3ZxPkl8+QxFZ/2jWWhgTNqzDeoqB+dVx1F9SxEqbk11U51qsUB9g/B0IXkP/U+pN+JN1egOOQixuOTRxkvtv2LANagtphYCRkEInr/SflQKui69Aqbh+nsbvugdTHRSQvngDaB0HG5Ef+xllgdk2ZNYniID8UY1N1mSbSsNyqi7fCESKcq6u0MQmZg6qBciQLq3f7ghZAgO7JWvXymQAeLrE0ZS7/RfkunGUDabfXLPmt/N9qbk0JzmyVg5VJCSAu9qRdSKmLjCxx1q1wzeiLwrulb0SHVwfwiir9z5OBbPe95hVW+XJK4oV/Vt36mU/hRkJ77ir1f5veqS6I5uAxV6pBD/I0sUERlfVW1xvclts4kVJBuZ43dLav2o+AxNrT338O2ZqB/P74Dn0QYUSDqznkeEro6Q=;kdUqVLjpa9/GAvaPmeo9Ig=="
 ---
 

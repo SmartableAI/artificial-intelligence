@@ -57,6 +57,22 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Cohesity AWS partnership: you’d be a dim___ to ignore DMaaS"
+    excerpt: "Think for example of AWS Macie for Compliance-as-a-Service, AWS Glue for the management of data lakes (ETL) and Analytics-as-a-Service, AWS Redshift for cloud data warehousing and AWS SageMaker ..."
+    publishedDateTime: 2020-10-15T12:12:00Z
+    webUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS"
+    ampWebUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/10/data_is_fragmented.jpg"
+        width: 580
+        height: 429
+        isCached: true
   - title: "IBM, ServiceNow Partnership: AI for IT Service Management"
     excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"
     publishedDateTime: 2020-10-16T18:53:00Z

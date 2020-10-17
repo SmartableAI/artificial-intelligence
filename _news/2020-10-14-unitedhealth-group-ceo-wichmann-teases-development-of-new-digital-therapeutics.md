@@ -24,22 +24,6 @@ images:
     height: 1400
     isCached: true
 
-related:
-  - title: "Dyno Therapeutics Enters Collaboration and License Agreement With Roche to Develop Next-Generation AAV Gene Therapy Vectors for CNS Diseases and Liver-Directed Therapies"
-    excerpt: "Dyno Tx Enters Collaboration and License Agreement with Roche to Develop Next-Gen AAV Gene Therapy Vectors for CNS Diseases, Liver-Directed Therapies"
-    publishedDateTime: 2020-10-15T03:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201014005248/en/Dyno-Therapeutics-Enters-Collaboration-and-License-Agreement-With-Roche-to-Develop-Next-Generation-AAV-Gene-Therapy-Vectors-for-CNS-Diseases-and-Liver-Directed-Therapies"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20201014005248/en/790645/23/Dyno-Logo-Final-050820.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
 secured: "ibuwoJ0hTO5w5keL3QvaFBheP9H2vgj/MPhkglxJpq3zYMbUmknoGjgdxQliJOD9E18M9BSetfmupYMMwgfhlZ/i0vmM/HPTOL7CMghWNvb9Cbt2tbD5ssIjK0s+nkF+2y79v1fe9S6pYD/VBNPKJQgbE7gCQlaUaI/9e7MK7VHNjvhx0sghB+ZenRy/dvP2n7KEnZZacBcTb1iDswcuAQdUEJzzxWhDhoDnA8IlwLk/kBqVHOKQ2PktQMc81XFnJlmiOsgcZyv9KAkzcA4Vx3YQNQy9thqAe901v/D3mdw4eMazddm1eKQDdkDfujJZ6FnedRMnNRweE1WO22awC6T0YKQ5nEl3o2BDbMdBhoMPiVjteZywusZTYnfB0dlLQXr2ABfu96DhOzjMxKDURH3mA5nK6lnh4qYzc5j9OzmYiu7pgO6wr1sNYBUjPm/eF+KNknPQZz9JMCtf7AJCKVv/v28Nqob7GxV5S9KCKnlNaCGRI3S/6ImBhHv4VObTp8tvmtMlYOKXFYXQwkfVTw==;DzEfJSZ6Y/a2Qf7Ab3J30A=="
 ---
 

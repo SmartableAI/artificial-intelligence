@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/teslas-elon-musk-some-exper
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/teslas-elon-musk-some-expert-careful-drivers-get-beta-full-self-driving-next-week/"
 type: article
 quality: 81
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
-  - title: "Tesla’s Full Self-Driving beta lands for select drivers next week"
-    excerpt: "Tesla boss Elon Musk has given a date for what will initially be a limited rollout of a beta version of its Full Self-Driving (FSD) software: Tuesday, October 20. The flamboyant CEO offered the tidbit on Twitter in a response to a tweet from CleanTechnica."
-    publishedDateTime: 2020-10-13T01:33:00Z
-    webUrl: "https://www.digitaltrends.com/cars/teslas-full-self-driving-beta-lands-for-some-drivers-next-week/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/teslas-full-self-driving-beta-lands-for-some-drivers-next-week/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/teslas-full-self-driving-beta-lands-for-some-drivers-next-week/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
     quality: 69
   - title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
     excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
