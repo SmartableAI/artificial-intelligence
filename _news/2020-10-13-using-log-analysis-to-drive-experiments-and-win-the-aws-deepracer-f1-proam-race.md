@@ -58,20 +58,6 @@ related:
         width: 483
         height: 471
         isCached: true
-  - title: "Smart strategising for getting the most out of Machine Learning"
-    excerpt: "IoT tracks all the latest IoT news and shows you what's new, what matters, and how is IoT transforming our lives."
-    publishedDateTime: 2020-10-12T09:22:00Z
-    webUrl: "https://talkiot.co.za/2020/10/12/smart-strategising-for-getting-the-most-out-of-machine-learning/"
-    type: article
-    provider:
-      name: Talk IoT
-      domain: talkiot.co.za
-    quality: 41
-    images:
-      - url: "https://talkiot.co.za/wp-content/uploads/2020/10/Andrea-Tucker1-e4-1.jpg"
-        width: 593
-        height: 469
-        isCached: true
 
 secured: "ZShW0AofUlKBN6T1KlPt1b+1Bomg4ZX7Yi5GdA60fsPp+03JTe8k/5qAp4Gve+lBjqqwBTCEwVoHPXigD0JQztTk9e/F+ulAM9oxGj4P17eKxVL74JM9by+lDuDARKFKX7f1yGTkOAPT0W/9s6SgqxoNqqmDa2yOtweZfpcDnJgkJDCiK2mOccusEHQuYDAKeZeFF/8dq6tmdhevqYl5a3UmFGpHPJuQHoenDdSA9TZd5/8Gk17DToqevhoG7shJ2fzjUof2HqRXNEsvdbMWRLWSCgfOipWd2q5kaDdjypQJgU5LtgT4Uej+C3Lg16GnU+6cEfaaCiVsEEgSkydFklNvUvkR1sGyC/VTqLqtC34=;o7o2kURbvCpGf439rt4xsg=="
 ---

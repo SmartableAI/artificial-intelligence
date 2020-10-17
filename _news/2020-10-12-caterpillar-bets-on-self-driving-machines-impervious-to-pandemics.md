@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X1ET"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X1ET"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 807
     height: 545
     isCached: true
-
-related:
-  - title: "FOCUS-Caterpillar bets on self-driving machines impervious to pandemics"
-    excerpt: "With both small and large customers looking to protect their operations from future disruptions, demand has surged for machines that don't require human operators on board. Sales of Caterpillar's autonomous technology for mining operations have been growing at a double-digit percentage clip this year compared with 2019,"
-    publishedDateTime: 2020-10-12T11:00:00Z
-    webUrl: "https://news.trust.org/item/20201012100732-3sfdz"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 4
 
 secured: "hx5Rj2lBTed46U8Zh8zSyAmS6BteI1tu3vEisdsQjDYJk92wkqSsl0A2T1a93NiUM2cPOECa38aHTAuV4xRV97cnHx78wm2KERRfCJl6GVK3ejJCioTzpywonr10pckiENfzCRf5gNgp6hdgfg8BvEJuBeGJuVls6VKn1sgAlrt3hkW1g2r/jGpGlMP42jhLZL2j+1b/48ljXLcAzHiGkZNHpBqXgljNYL1NTLDHtfdl2dOxYYr6Dz0O+PoamG/3d2JL/5ORoLXu87F22cC2Z0qx/VCjnfp5hCSKjP+xMcYS1MCN4scZm1S3hWahUtPyTwqpq0vOLbYQs3ftXUKWD3+3pf1fM2ZEbNHCmG73fqJsE8fn8hr5mmdNF7VB2upx/TfNjLtAhzt1M3ZLwbsbpEGE52q+uKLSNSl03yShSXFNGx7AW6xESyq7kIchBZdia7fRrxzTVFG96KXlMPLfaOBpF4VHAjbx0RjUF3vGH0ivvpN3WLoPCq5OKMgZ1rw5oB0zb43/2p+30dcUSO5Mhg==;ULSeJStlE1UGopS4v6xUkQ=="
 ---

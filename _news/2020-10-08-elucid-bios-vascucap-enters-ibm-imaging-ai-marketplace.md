@@ -1,23 +1,26 @@
 ---
 category: news
 title: "Elucid Bio’s vascuCAP enters IBM Imaging AI Marketplace"
-excerpt: "has been added to the IBM Imaging AI Marketplace, an IBM Watson Health® solution. The IBM Imaging AI Marketplace provides streamlined access to meaningful AI technologies designed to support leaders working in radiology and cardiology. The marketplace is ..."
-publishedDateTime: 2020-10-08T13:37:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201008005045/en/Elucid-Bio’s-vascuCAP-enters-IBM-Imaging-AI-Marketplace"
-webUrl: "https://www.businesswire.com/news/home/20201008005045/en/Elucid-Bio’s-vascuCAP-enters-IBM-Imaging-AI-Marketplace"
+excerpt: "Elucid Bioimaging Inc. (“Elucid Bio”) today announced that vascuCAP, Elucid Bio’s AI-enabled software for evaluating atherosclerotic plaque stability from CTA, has been added to the IBM Imaging AI Marketplace,"
+publishedDateTime: 2020-10-08T13:31:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-cardiovascular-disease-north-america-arteriosclerosis-massachusetts-e91ccd7f88e542c69ff516f65678cebe"
+webUrl: "https://apnews.com/press-release/business-wire/technology-cardiovascular-disease-north-america-arteriosclerosis-massachusetts-e91ccd7f88e542c69ff516f65678cebe"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "DeTBVBkgBMQ29idF/XtG1x2tcibW3EkKtK3uHHgPqZ1Rx0C+Llzcrn5JQ+sygNGHfX2IdvcDkWl8NK2XwyySJjtpF8vyJGeOyOBUX6dc/ZxjHnGk7Jz4U+l3ObJc+fdZ2ahz1HKbtmy+fcdGlL8i1T5Fmf2u7NEvnCXnGUobHZmRGQMDptzTdFG7tgqm8adFtjmG+MZJIF+qfSew9hgIDtWQDlYlmbreZAzIUzPHX4sK1lX7gmbG7pIKj9AkEixJ8M9qyrfE9ha9TAq9cpAVQ5N7YNnOTYTBZGhKWDh/hdIIWGhdnhYN0DewmMhCUifDDhXA6ZZy+AViksTl6wnH5Qv3geHDCe2QWVwZU8I+KKM=;FQo/fTx+W3TQBX0enxQTbg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "Cblh8xptDVLCTosbEZ9hgHuX+pRrlAnRw06RuD9sQYlI+joa74iqz12mefj9/c5ZYghmd7MKrDR5hhUn6tzGaJT3x74HaRKQQIHlZNIQ7Syn4efriarP5/Ai8psa0KhLYXSYB7/9wgaDc1Gc6WpgTvMbyJqrW9jOXpnQeV+TuE8saXw3o8RpdPlBcqqZ8fQwsU2xvZEr7OlWD7WQrG4NRgrsgvzCz/M8rP8pbf742Zoc1rlXdyCY/pw8bJB49g4taaDfyFApYu9mcsSSi6TF8evavjX5u5ekti2/HTSw/h2DC2ZZxweBb+wFdK7aGw+A4PHEeI7+sJFk+wXtorACdu1f90vVAfCVzpo3hC9mS/4=;HLaonpo9QGj0MvB1zkK1Mg=="
 ---
 

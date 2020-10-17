@@ -72,6 +72,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Artificial Intelligence (AI) is a significant part of Industry 4.0: Global Business Leaders"
+    excerpt: "Mr CP Gurnani, Managing Director and Chief Executive Officer, Tech Mahindra today said that artificial intelligence will be the driving force for Industry 4.0. Speaking at the Session"
+    publishedDateTime: 2020-10-17T03:22:00Z
+    webUrl: "https://indiaeducationdiary.in/artificial-intelligence-ai-is-a-significant-part-of-industry-4-0-global-business-leaders/"
+    ampWebUrl: "https://indiaeducationdiary.in/artificial-intelligence-ai-is-a-significant-part-of-industry-4-0-global-business-leaders/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-ai-is-a-significant-part-of-industry-4-0-global-business-leaders/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 64
+    images:
+      - url: "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/EkWBtPjVcAEc5zH.jpg?fit=680%2C382&ssl=1"
+        width: 680
+        height: 382
+        isCached: true
   - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Development and Growth Forecast to 2025"
     excerpt: "The development prediction report titled Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 focuses on thoughtful insights and facts relating to the market."
     publishedDateTime: 2020-10-12T16:27:00Z

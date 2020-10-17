@@ -43,17 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Data analysts: Learn how to use Python, R, deep learning, more in these online courses"
-    excerpt: "The Deep Learning & Data Analysis Certification Bundle will help you take your analytical skills to the next level so you can land the best and most lucrative positions in your field, and it's available today for over 95% off at just $39.99. With eight ..."
-    publishedDateTime: 2020-10-12T09:05:00Z
-    webUrl: "https://www.techrepublic.com/article/data-analysts-learn-how-to-use-python-r-deep-learning-more-in-these-online-courses/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/data-analysts-learn-how-to-use-python-r-deep-learning-more-in-these-online-courses/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/data-analysts-learn-how-to-use-python-r-deep-learning-more-in-these-online-courses/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 61
   - title: "Get The Most From Your Artificial Intelligence Investments by Operationalizing Analytics"
     excerpt: "Organizations realize they need analytics to run, grow, and differentiate their products and services. More than just driving strategic"
     publishedDateTime: 2020-10-15T20:57:00Z

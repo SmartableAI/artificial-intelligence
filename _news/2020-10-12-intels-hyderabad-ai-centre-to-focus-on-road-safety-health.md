@@ -9,7 +9,7 @@ ampWebUrl: "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety
 cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://images.livemint.com/img/2020/10/12/600x338/Nivruti_Raibloomberg_1565544177175_1602500571810.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Intel, IIIT-Hyderabad, PHFI And Telangana Government Launch Applied Artificial Intelligence Research Center"
-    excerpt: "At the inaugural all.ai 2020 Virtual Summit, Intel India in collaboration with the Government of Telangana, International Institute of Information Technology, H"
-    publishedDateTime: 2020-10-12T09:22:00Z
-    webUrl: "https://technuter.com/tech/intel-iiit-hyderabad-phfi-and-telangana-government-launch-applied-artificial-intelligence-research-center.html"
-    ampWebUrl: "https://technuter.com/tech/intel-iiit-hyderabad-phfi-and-telangana-government-launch-applied-artificial-intelligence-research-center.html/amp"
-    cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/tech/intel-iiit-hyderabad-phfi-and-telangana-government-launch-applied-artificial-intelligence-research-center.html/amp"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 41
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/10/intel.jpg"
-        width: 336
-        height: 322
         isCached: true
   - title: "Intel, IIIT-Hyderabad, PHFI And Telangana Government Launch Applied Artificial Intelligence Research Center"
     excerpt: "The new center will focus on leveraging artificial intelligence (AI) to solve India’s population scale challenges in key sectors such as healthcare and smart mobility Through collaboration with"

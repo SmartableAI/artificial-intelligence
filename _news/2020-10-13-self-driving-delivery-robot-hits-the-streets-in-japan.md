@@ -25,22 +25,6 @@ images:
     height: 434
     isCached: true
 
-related:
-  - title: "EPFL tests out self-driving delivery service"
-    excerpt: "EPFL's Lausanne campus will serve as a testing ground for a high-tech delivery service that uses a self-driving van. A"
-    publishedDateTime: 2020-10-12T09:40:00Z
-    webUrl: "https://www.miragenews.com/epfl-tests-out-self-driving-delivery-service/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
-        isCached: true
-
 secured: "4SZEq4o5rU6x1v+5aiyFSuXezGPKeijvLztNGr2oEe0MMgRvsfMygoqkC9TJSJ2NtlhJeu06rrNxPqYFSydEzSc/whCN+gSwji13CdORhY33iB3wzQiI0u52lOkymEEfL9zhVAiF6Q/SePW5vbVCoLMJ+5OIebYVCmv49r/0g2DEXDDGF7pBOwbAqWtZ7kUSsz3mGjZ188zR6fVb/I/GLWktz8+kap83E9QUK+gSSk/YOZG9Rf5tfqYsQSev/mXx3VcNFRB/XN8A4yAlVCvHXyMnmwS//8yDKbgpyvRlSziGyNe8dF5+/EylB6BD31ooYzujkNjmN06mtWjVjI+7JhxAQ2xXG8P4EQwyRuEhvRU=;cdfuCSkRm877cYPyGCIIcw=="
 ---
 

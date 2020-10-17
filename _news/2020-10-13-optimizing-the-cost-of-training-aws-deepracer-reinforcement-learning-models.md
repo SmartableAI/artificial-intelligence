@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-the-cost-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-the-cost-of-training-aws-deepracer-reinforcement-learning-models/"
 type: article
 quality: 134
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://biz-file.com/c/2010/579999.jpg"
         width: 483
         height: 471
-        isCached: true
-  - title: "Smart strategising for getting the most out of Machine Learning"
-    excerpt: "IoT tracks all the latest IoT news and shows you what's new, what matters, and how is IoT transforming our lives."
-    publishedDateTime: 2020-10-12T09:22:00Z
-    webUrl: "https://talkiot.co.za/2020/10/12/smart-strategising-for-getting-the-most-out-of-machine-learning/"
-    type: article
-    provider:
-      name: Talk IoT
-      domain: talkiot.co.za
-    quality: 41
-    images:
-      - url: "https://talkiot.co.za/wp-content/uploads/2020/10/Andrea-Tucker1-e4-1.jpg"
-        width: 593
-        height: 469
         isCached: true
 
 secured: "fjcIP8bgAha6Lp6VMo1H+PTTGiorzyRKkjv6E5/IVPyQ/HVgYVtlp6wrFIG8pSr8FhXtWOhIUR62KwW+I5xI4Zdl7JFXB9fzK79fyaK84YJ5uumggrUY0IgL5VYPq5YpfsxtgzYq5iR8NqjiNy1ridnoemIDSmvzrgwRVCSg7puU1TBMTBgfqzsxgOWrRR7hm258mqKUe3nlu7Mob+Kgz+Gro1Aju5C6pMERvh7npOn7E+DVprlumzwvdy9pkJowKQVCBQxUP8/5BDTK6xSgWdz6XK4ZiBxrecSEAyxQfWSEpNWBuY+/H3f5ihOO0ay+HDhDu+tHGoSHiuGn521D5POW8twt7hrf206D0UZiCPM=;TM2r9on+0eblVASAisUb7A=="
