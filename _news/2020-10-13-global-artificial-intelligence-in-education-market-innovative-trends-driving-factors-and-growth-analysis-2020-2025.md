@@ -18,54 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "How Trends In AI, Automation And Emerging Tech Are Poised To Disrupt The 4.6 Trillion Money Markets Industry"
-    excerpt: "As traditional money markets boom to record highs of 4.6 trillion dollars, it is clear investors are looking for safe returns during these times of economic uncertainty."
-    publishedDateTime: 2020-10-16T02:12:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88fe916c7000f90febf4b8%2F0x0.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Artificial Intelligence in Telecommunication Market"
-    excerpt: "By applying market intelligence for this Artificial Intelligence in Telecommunication Market report industry experts assess strategic options outline successful action plans and support companies with critical bottom line decisions Moreover all the stats data facts and figures collected to prepare"
-    publishedDateTime: 2020-10-13T10:34:00Z
-    webUrl: "https://www.openpr.com/news/2157342/artificial-intelligence-in-telecommunication-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2157342/artificial-intelligence-in-telecommunication-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2157342/artificial-intelligence-in-telecommunication-market-size"
+  - title: "Voice Recognition Software Industry Data Statistics Analysis by 2020-2025"
+    excerpt: "Latest Research Study on Global Voice Recognition Software Market published by AMA offers a detailed overview of the factors influencing the global business scope Global Voice Recognition Software Market research report shows the latest market insights with upcoming trends and"
+    publishedDateTime: 2020-10-14T18:37:00Z
+    webUrl: "https://www.openpr.com/news/2159841/voice-recognition-software-industry-data-statistics-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2159841/voice-recognition-software-industry-data-statistics-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2159841/voice-recognition-software-industry-data-statistics-analysis"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 59
+    quality: 43
     images:
-      - url: "https://cdn.openpr.com/T/a/Ta13900366_g.jpg"
-        width: 600
-        height: 351
+      - url: "https://cdn.openpr.com/T/a/Ta14631842_g.jpg"
+        width: 800
+        height: 507
         isCached: true
-  - title: "Meet Q.ai, A Robo Investing App That's Disrupting The Hedge Fund Industry"
-    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking ... Co-Founder and CEO at Q.ai, a Forbes company. Though trading apps like Robinhood democratize financial markets, they don’t allow investors the tools to properly ..."
-    publishedDateTime: 2020-10-16T21:16:00Z
-    webUrl: "https://www.benzinga.com/fintech/20/10/17940541/meet-q-ai-a-robo-investing-app-thats-disrupting-the-hedge-fund-industry"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17940541"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17940541"
+  - title: "World Image Recognition in CPG Market Analysis 2020-2025, by Component, Application, Deployment Mode, End User and Region"
+    excerpt: "The \"Global Image Recognition in CPG Market by Component (Hardware, Solutions, Services), Application (Inventory Analysis, Product & Shelf Monitoring Analysis, Gauging Emotions), Deployment Mode, End User (Online,"
+    publishedDateTime: 2020-10-15T09:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/world-image-recognition-in-cpg-market-analysis-2020-2025-by-component-application-deployment-mode-end-user-and-region-1029682697"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_1_0.png"
-        width: 800
-        height: 360
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 9
 
 secured: "1QE6vCd68XHv8TsBGwT9nfL3gCTJS+KwzDhg2wTqgN/DlB0cObLIor+p0pBd9TY6P8wX0zc2oQwk1jktHAPXrx7rsAirnhvdrY9UsuW2OfUJAlujxqAavZNwy1tFYsb+/xOdqe+PzdM15iE2QPi3/CuWgW0UCloQtvwvQKmIXsWDlSoQAKAkIy69ZTJ1V3715hx9UQKA64gy0a5QbdZPQxs2+gy82QGOzYMrGR6/G00XprICEgo2lrHpso1yer9wkoXtAFZA/XjFWk91YZfivcgP9ljvJ7Wca1zGSWrdfN4Tr3Wi+SyDyk7NVbn08/YrbnTHsnHP1qsnNT4AjOaqgNyes49e+agw9Wz25dOhxRo=;ilVFRyv8Fo1+5HSQtLdZIQ=="
 ---

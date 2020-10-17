@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces
 ampWebUrl: "https://www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/amp/"
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 189
+heat: 219
+published: true
 
 provider:
   name: Forbes
@@ -61,7 +61,16 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "IBM, ServiceNow Partnership: AI for IT Service Management"
+    excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"
+    publishedDateTime: 2020-10-16T18:53:00Z
+    webUrl: "https://www.channele2e.com/business/digital-transformation/ibm-servicenow-partnership-ai-itsm/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 19
 
-secured: "Lh9qFjRPF9zLCLApavkindp0x/1JGjIRVMbpmNVk2XWaUSyOgJCFye825J7Xc7vGgVPyGxKqFlWna7z8qMhHtN9wBBnkfbPfr2XasQftErHedk7tkewWTf9KY9/lyCSl+Bc7Cqk25mPAEqg4h5/6vQawZeUl/rRTnlAPnmiRscKn2h7tlmyOcZL2sU99hZyO1ubiLjHdzPFvivFiIdLnJP8QLXGNRgbWjGTlPlTHE/Y0TQ80c5IMHX5NlQ5j07LQj1rV0jJz9iGdW6P9gnAHfsOo8ECvKqu2hrsWwkRpME2NNRU3vRE6DjymmkFASnf2/6HU0SZuswliterEZAQr0dCYfVw2YB+A1Kurpn6sQAD5DqXtg4DnxIeRHtgqfJ62hkFx9XqdSaaLnslf51PxdJWSYGgpjm1BAI31aT0l9PCK9DOh8N0hxMTMl9wpgEhtVjuPbHobDw7b/cEKf+Dx5LnJ2d38DfgDyI/T11vWrYExnsqU37+EB+7HMVNV829xUYxPm4Z0iqCOt2+exWV2/Q==;sNKsqLOnVinqzKV1UJEtnw=="
+secured: "Maa64dZ17lF/7uh0cbtlvmMXaRqFjQSgmKqxaMi611hXat2XsLrFRiYoQj8s+d0KI/z+m+jB2wpUN1a4V+bb5hhLx63y0HCaWlPkijZiO1bi0CGJDaGfTH7OA+l9KqFsHVEZpCM/kcOAAHxjFBlGUXU3rGIHCQ7lsmZVRUWK/ppDT6nJbrBnehGORKjXBtObNFzKCfJEmc0ffq6oFXaDj9LvnuXhfaYWUKdI2DCDftdUZzJ/m6zL/Ma2v5QlZtg3/nm97ru6MjtESrpoS/5RBGuHz4tECFPKWJ7TTPL2FGG45MYh+tS5t//wutgLMjzFNyygY3fV4jXkE1QFhrOihxsTU7OyN22QEr+aYSEvc9aRma/YZt6H+62UDCE1h84lTtW+oNEFweQQblLUMjOtPafrdzM2jPIPJ+TrwF63rA6c3inXuusaxEkvOGGV1rxjQ0jmJn6kLqHB++kioDhBzcNgEmxtoZHSVgtdgf+MXx9lUlVg5tZGHNesToFv5UCF6XSjUiM9siGB7zTqm6Sc850jASB309qx4B3I1NvGefU=;fDItMhbVaeEVWV0k3kAfHQ=="
 ---
 

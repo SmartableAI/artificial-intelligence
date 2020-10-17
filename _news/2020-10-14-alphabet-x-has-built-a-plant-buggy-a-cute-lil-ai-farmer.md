@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/10/14/alphabet-x-has-built-a-plan
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/14/alphabet-x-has-built-a-plant-buggy-a-cute-lil-ai-farmer/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet’s latest X project is a crop-sniffing plant buggy"
-    excerpt: "Alphabet’s X lab, the former Google division that launched the Waymo self-driving car unit and other ambitious ... of software and hardware prototypes based on breakthroughs in artificial intelligence, simulation, sensors, robotics and more,” according ..."
-    publishedDateTime: 2020-10-12T20:45:00Z
-    webUrl: "https://www.theverge.com/2020/10/12/21513353/alphabet-google-x-lab-moonshot-computational-agriculture-mineral-revealed"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/12/21513353/alphabet-google-x-lab-moonshot-computational-agriculture-mineral-revealed"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/12/21513353/alphabet-google-x-lab-moonshot-computational-agriculture-mineral-revealed"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/fEhH-7XeZxcqbha6HpEOqIrqcMY=/0x0:1400x1050/1400x933/filters:focal(588x413:812x637):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67620551/0_iPVx58EEMvD9xVDT.0.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Alphabet X ‘Mineral’ division launches with an autonomous robotic plant buggy"
     excerpt: "Alphabet Inc.-owned X Development LLC, known for its so-called “moonshot” technologies, today launched a new division that’s designed to improve farming. Called “Mineral,” the new division is the result of an X project previously referred to as “The Computational Agriculture Project."
     publishedDateTime: 2020-10-15T03:25:00Z

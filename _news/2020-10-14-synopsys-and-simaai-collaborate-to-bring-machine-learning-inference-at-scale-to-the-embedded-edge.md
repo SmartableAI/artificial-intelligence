@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Synopsys and SiMa.ai Collaborate to Bring Machine Learning Inference at Scale to the Embedded Edge"
-excerpt: "MOUNTAIN VIEW, Calif., Oct. 14, 2020 /PRNewswire/ -- (Nasdaq: SNPS) today announced its collaboration with SiMa.ai to bring its machine learning inference at scale to the embedded edge."
-publishedDateTime: 2020-10-14T14:01:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/synopsys-and-sima-ai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded/article_b8eebd58-965e-5efc-a754-854673de040f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/synopsys-and-sima-ai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded/article_b8eebd58-965e-5efc-a754-854673de040f.html"
+excerpt: "PRNewswire/ -- Synopsys, Inc. (Nasdaq: SNPS) today announced its collaboration with SiMa.ai to bring its machine learning inference at scale to the"
+publishedDateTime: 2020-10-14T13:05:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/synopsys-and-simaai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded-edge-301152178.html"
+webUrl: "https://www.prnewswire.com/news-releases/synopsys-and-simaai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded-edge-301152178.html"
 type: article
-quality: 42
-heat: 42
+quality: 40
+heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI Hardware
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -50,6 +49,6 @@ related:
       domain: seekingalpha.com
     quality: 34
 
-secured: "Y144HikJly+xEpEQY8lTS60t+5RkXDyzH+soPF3e4HBdlpI0nPKfV0CcvovyiCjjLn/YJ7QdHvC5/VMZPqd5RuIxMYWhjeFw4tQgbDaHQw8IFfAYzdZByK9n2a8tzRwhZk8f+27lLWJVNYvuPRiKJm/IdqPeLD4yVfvfjM/nIsoGhRDEajYR0aPnLCK5bAkqsJWPytcQP4qK/PGlLBYHz+0VZT2+Ta+MQCoiWwyIjMwlDOizLtEX7FVUaGLkQKJbawy6RExftkJWTOsRn321IdTYKRNS5SRQ+z2kiCY0+XX6YkM2RSWlm15RjBtEih1/G0yXw6kt9NjujA0IYwxyWy8vVN723rO3p864aAVvSuQ=;Ko9NCwD6OIR9glu1wqUJ+A=="
+secured: "6mF/GyWdxx6m96tJ26AXB+OuA1EwRtGErbiuxj18eljaKCM3pGhIzNjmBYJibQjwEpB8uQHQc17i7GyPs6scxMDekDJElkh+EHL+6lMl/ny0B7eb57qvmCjil4UK9WyKpCiLeT2xO08B+LDdGkGeB447P2EH5em+DHGI/erZxFD7i+z9BUPWB80zeriJi75n8WFUBZxXrnSFoRgGI5k0l6Tu0e+aBAYZzGlcBduTyN8sU4OuVcInOUwIPqbcc4yvcEBhL8YM1y+GbRlSx76qd3wZ673SdH6GftFjW+OBImgk7uZXidpAOec7j993XtABdqemDqyY/a2XeLYTUVNMvvjzgMSEv1ysvOoRfTx876s=;824TH3R5L2aPYtteU9C1ww=="
 ---
 

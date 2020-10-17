@@ -37,20 +37,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 54
-  - title: "Future reality: Triad of Internet of Things, Artificial Intelligence & Blockchain in action"
-    excerpt: "Read Sanjay Pathak explain how the triad of Internet of Things, Artificial Intelligence and Blockchain will shape the future tech on Financial Express: Blockchain today is still in its infancy, […]"
-    publishedDateTime: 2020-10-12T20:24:00Z
-    webUrl: "https://ctovision.com/future-reality-triad-of-internet-of-things-artificial-intelligence-blockchain-in-action/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 42
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
   - title: "Scientists voice concerns, call for transparency and reproducibility in AI research"
     excerpt: "Scientist challenge scientific journals to hold computational researchers to higher standards of transparency, and call for their colleagues to share their code, models and computational environments in publications."
     publishedDateTime: 2020-10-14T18:08:00Z

@@ -24,35 +24,73 @@ images:
     isCached: true
 
 related:
-  - title: "Google's 'Search On' event will reveal new AI-powered features on Thursday"
-    excerpt: "Google has scheduled a 'Search On' event for October 15th at 3 PM ET, where it will unveil new AI-powered upgrades."
-    publishedDateTime: 2020-10-14T02:17:00Z
-    webUrl: "https://www.engadget.com/google-search-on-stream-020155879.html"
-    ampWebUrl: "https://www.engadget.com/amp/google-search-on-stream-020155879.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-search-on-stream-020155879.html"
+  - title: "Google’s new ‘hum to search’ feature can figure out the song that’s stuck in your head"
+    excerpt: "Google is adding a new “hum to search” feature to its search tools today that will let you hum (or whistle, or sing) the annoying song that’s stuck in your head, and then use machine learning techniques to try to identify it."
+    publishedDateTime: 2020-10-15T21:05:00Z
+    webUrl: "https://blog.google/products/search/hum-to-search"
+    ampWebUrl: "https://blog.google/products/search/hum-to-search/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/hum-to-search/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 85
+      name: The Verge
+      domain: theverge.com
+    quality: 164
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F6f09b080-0dc0-11eb-bcdb-e8df047fd37b&client=amp-blogside-v2&signature=8d654481b7bda6a703df4c607999901c8041a846"
-        width: 600
-        height: 350
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-15_at_10.47.20_AM.max-1100x1100.png"
+        width: 1066
+        height: 573
         isCached: true
-  - title: "Thursday: Artificial Intelligence Shows Both Promise and Peril"
-    excerpt: "On Thursday’s St. Louis on the Air, we’ll discuss artificial intelligence’s potential for both good and evil with Tinus Le Roux, CEO of FanCam, and Sara Baker, policy director for the ACLU of Missouri."
-    publishedDateTime: 2020-10-14T20:35:00Z
-    webUrl: "https://news.stlpublicradio.org/show/st-louis-on-the-air/2020-10-14/thursday-artificial-intelligence-shows-both-promise-and-peril"
+  - title: "Google announces \"hum to search\" machine learning music search feature"
+    excerpt: "The company also notes that people need not worry about delivering a perfect pitch to take advantage of this new search capability."
+    publishedDateTime: 2020-10-16T18:18:00Z
+    webUrl: "https://www.techrepublic.com/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
     type: article
     provider:
-      name: KWMU
-      domain: stlpublicradio.org
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+  - title: "Google taps AI for new search tricks"
+    excerpt: "Google on Thursday outlined a number of new features for its core search product, including the ability to search for that song stuck in your head by humming or whistling. Why it matters: While humming may be a cute use case,"
+    publishedDateTime: 2020-10-16T14:06:00Z
+    webUrl: "https://www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
+    ampWebUrl: "https://www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: "https://images.axios.com/BAmjh43T_0x1TgPV7__2QGbsGEs=/fit-in/1366x1366/2020/10/16/1602856070265.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "You can now hum into Google Search and it will find the song"
+    excerpt: "Using AI, Google said it could now understand the deep semantics ... and landmarks. It can also translate over 100 languages. Touching on misinformation, Google announced a handful of improvements to the way it handles coronavirus-related queries ..."
+    publishedDateTime: 2020-10-16T11:42:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
+  - title: "Google Search gets hum-to-search and AI query upgrades"
+    excerpt: "Now, Google will start surfacing statistics from the repository in response to user queries. Google also announced more general-purpose enhancements at Search On that focus on boosting the search ..."
+    publishedDateTime: 2020-10-16T17:47:00Z
+    webUrl: "https://siliconangle.com/2020/10/16/google-search-gets-hum-search-ai-query-upgrades/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 37
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/1dd1fbc/2147483647/strip/true/crop/500x263+0+56/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkwmu%2Ffiles%2F201110%2FWorldSeriesCrowdAroundBuschGame1RL.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/google3.png"
+        width: 718
+        height: 400
         isCached: true
 
 secured: "Do8ckHjrqm/cqEt8FYrs/qHULuPeYTfccWGC9gSB1Ep9HojB4E8O0hKg++dlqa8TR5NAo4t6VBAAi/xZpNYxjxV3Jra62wXW5FIE2ZhKswG49N4T/qJ173RXbqjq/m/q603LlWWXxUFMYsIrCm15REglJ+tbQZLy9lnH5pcSKqOPl34JcnlXL5/aU3IscSyFhOcZGUdCjSdRdZ2lltoTMD7eSX5mW2FtX1nJLlccVuvf9KP2Obxk67xIyQlpBF8bh2T1xq9YnvWt2M241nPgraZKoOzdmpca3TTOq7WWc22ufOJj4awjMq8HSCoSNK1PXUKcRHHIdMSJKjSramtVQYhh6uBknrhjk9YG8+UDUt/tfwTAJzBrUC/E1YxavWfbvGx+IVzJ4y+K0YjHA2JQwvaj533E61vYc8K3qljEZWxTYCxd3yOmi5Xm9goczs5iD8yryX4L3jr94n/YNUCcLO0irMckw5yFlCFTTr0G/8aQ74rhsiOWG/y5XyvGSfyHZxQvDZsG/f1AE5B2Y/NPjg==;HaZOzWQfownfhkfQq8xuCA=="

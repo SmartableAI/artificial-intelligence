@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/saturn-cloud-enables-ea
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia Previews Ampere Kicker To Turing GPU Accelerator"
-    excerpt: "We are still digging through the content coming out of the GTC 2020 fall conference and would be remiss if we didn’t talk a bit about the “Ampere” A40 and"
-    publishedDateTime: 2020-10-12T20:19:00Z
-    webUrl: "https://www.nextplatform.com/2020/10/12/nvidia-previews-ampere-kicker-to-turing-gpu-accelerator/"
-    ampWebUrl: "https://www.nextplatform.com/2020/10/12/nvidia-previews-ampere-kicker-to-turing-gpu-accelerator/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/10/12/nvidia-previews-ampere-kicker-to-turing-gpu-accelerator/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-a40-logo.jpg"
-        width: 812
-        height: 514
-        isCached: true
   - title: "Dell Technologies, NVIDIA further ties to launch smarter GPU acceleration platforms"
     excerpt: "Dell Technologies & NVIDIA have built their relationship to bring smarter GPU acceleration platforms, as a part of the Dell EMC PowerEdge server family."
     publishedDateTime: 2020-10-14T15:08:00Z

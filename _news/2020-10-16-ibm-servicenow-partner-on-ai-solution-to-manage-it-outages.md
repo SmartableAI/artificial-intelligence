@@ -127,15 +127,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 43
-  - title: "IBM, ServiceNow Partnership: AI for IT Service Management"
-    excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"
-    publishedDateTime: 2020-10-16T18:53:00Z
-    webUrl: "https://www.channele2e.com/business/digital-transformation/ibm-servicenow-partnership-ai-itsm/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 19
 
 secured: "vv+HqQ2FVRBVjlOF3XduxX3YvkAjwxLSzGVZSWoUeFw9Av0lLIgijga3qQykzu6mrLzDywIl6754Y+gcoZ4H4MJhwWT2gXDN+LZbR4AhZAK3ekINnYtZbkFx1o2NiIZIr2DJoWH11k2c6B7hhcCkMaDAX7vmGbuJLkEjzVdW1oHKIJMUzceYw532si+1b41LcDB+sXQUYyGuFFUgisRkvO4JumsfJslGjYdGWCg/bPUKzxhVEatMa8TXMgg/G8koGx6T+TEueFGm+mFyCuEKOeptZz/y4z7EoCDyhweONFyCYf+8ptpxfuTYa717WWRb9Ipu0C4J3/JgGYsRsB5DP0CFiZBb04w3NhaxVwZo9+8=;82s3/TuNjIeIZaLkpdPwJQ=="
 ---

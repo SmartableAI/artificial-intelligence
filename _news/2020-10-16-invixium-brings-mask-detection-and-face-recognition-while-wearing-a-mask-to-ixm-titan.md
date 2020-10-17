@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Invixium upgrades face biometrics on IXM TITAN to work with masks"
+    excerpt: "Multipurpose biometric device, IXM TITAN, has been upgraded by Invixium with two new options that make it possible for a person’s face to be accurately identified while having a mask on. The"
+    publishedDateTime: 2020-10-16T19:11:00Z
+    webUrl: "https://www.biometricupdate.com/202010/invixium-upgrades-face-biometrics-on-ixm-titan-to-work-with-masks"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "gnBO3tNiKSZTyl0EWprR37gjCIAXh89Hj/ypPovKeP89DpvsGoF4MVtqJsfpl6RpBq70Vjd5rdLx9Yp5UnxPx+NIJq91Xphr7fjSK1bt8bQ6f4BaaY2dokvurimkTNImbbZpl/stMhlvb+NRB8+shXts2QNOLve8q2e5Lz5p+lXJ2pkAFsnxIwo4C6WwKz8TgwyEQqcxqsJvtrQZ9AUzfTFSHI35BGoQ354joP+pTI77bY2q5IIGZBCAMYan54VYj6Xe5qPm85eNXjM2nUC+JoQ7hgeWuN4u4tPGUXxVTU289c8QyUjtqpwAQxVtk5mPdlTSukNO0w3/4OhyB+ZHxNs5jTIp9ZQ6uqkFAjKxUDc=;WCOZ9Y3k8CnUlv62aJ8mgQ=="
 ---

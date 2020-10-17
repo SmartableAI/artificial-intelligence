@@ -132,15 +132,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
-  - title: "IBM, ServiceNow Partnership: AI for IT Service Management"
-    excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"
-    publishedDateTime: 2020-10-16T18:53:00Z
-    webUrl: "https://www.channele2e.com/business/digital-transformation/ibm-servicenow-partnership-ai-itsm/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 19
 
 secured: "G8km7JXpNjlzv+R1o3JLNdlKrRvkWrh98HN3WJy9fIaWItQ9/WqZGV5XEbwiDKGWJSPGNSYHgPqq7IbvSorvj67rL9v+i2eICi96Lxs7SPktp6B8UeryYttPamcAM3c7Y9OYJxWvb1hpcbNaYyrPFAFYxbsEviweeYG8AN89tO6dKJE3Ezp4U9Ojamv1uymjd7u5swGBy7B8Qpmc5xdQ6mQk1BbTOmCbWi/Yel4JO/r3edgS98dZH5mIZM5JEOFLSnez2eplfECWCLxfQjp/Kr+7RexOhBF61C3DPxMQabgpSH8c8fTKkizCogabHDYqrb5dfSDuRL7XV+nWsXlX9+7ZU99upLCG3W/ZiSrO726diezU82MA60YICDYUR5+Prr5lhNBm0bMT7zgtsrCZoYJWx79g8+GyPb9cNZzQ6kXZfR1Hg/rr28m25MPE3K1W6+/atej2loPJDlaLji34tdSj206+yBn14GEEY5XSBY+20I+R1FrUTSQZslWTsaXGzvDNLwIK0cx6QAbuhWU8Lw==;srrphJwmVo3phcU9ZYX6Uw=="
 ---

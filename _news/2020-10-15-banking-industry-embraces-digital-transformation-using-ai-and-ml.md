@@ -7,8 +7,8 @@ originalUrl: "https://www.analyticsinsight.net/ai-machine-learning-redefining-ba
 webUrl: "https://www.analyticsinsight.net/ai-machine-learning-redefining-banking-industry/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 171
+published: true
 
 provider:
   name: Analytics Insight
@@ -26,51 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Google details how it’s using AI and machine learning to improve search"
-    excerpt: "During a livestreamed event today, Google announced new ways it's applying AI and machine learning to improve the Google Search experience."
-    publishedDateTime: 2020-10-15T19:40:00Z
-    webUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/"
-    ampWebUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
+  - title: "How Trends In AI, Automation And Emerging Tech Are Poised To Disrupt The 4.6 Trillion Money Markets Industry"
+    excerpt: "As traditional money markets boom to record highs of 4.6 trillion dollars, it is clear investors are looking for safe returns during these times of economic uncertainty."
+    publishedDateTime: 2020-10-16T02:12:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88fe916c7000f90febf4b8%2F0x0.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Google Search is getting a new AI-powered spell checker"
-    excerpt: "Google has announced a range of AI-powered enhancements to its search engine, including a new algorithm that improves spelling corrections."
-    publishedDateTime: 2020-10-16T12:03:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
+  - title: "MSME Ministry introduces AI and Machine Learning strengthening its Single Window System Portal"
+    excerpt: "The Ministry of MSME in a major initiative has onboarded latest IT tools of Artificial Intelligence(AI) and Machine Learning (ML) for providing assistance and solutions to the issues of Micro, Small, and Medium Enterprises (MSMEs). Ministry has implemented ..."
+    publishedDateTime: 2020-10-15T05:45:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/msme-ministry-introduces-ai-and-machine-learning-strengthening-its-single-window-system-portal-120101500382_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/msme-ministry-introduces-ai-and-machine-learning-strengthening-its-single-window-system-portal-120101500382_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/msme-ministry-introduces-ai-and-machine-learning-strengthening-its-single-window-system-portal-120101500382_1.html"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 62
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-16T114024.500-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "These 8 tech companies are using AI to improve healthcare, renewable energy, and more"
-    excerpt: "We often see news and headlines about the dark side of AI, its weaponization, and “algorithmic warfare”. A plethora of AI-driven, dystopian paradigms await us in the future, but there is also a bright side!"
-    publishedDateTime: 2020-10-13T22:08:00Z
-    webUrl: "https://techcrunch.com/sponsor/idb-taiwan/these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/1024x683_Hero-Image_thingnario.jpg?w=600"
-        width: 600
-        height: 400
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
         isCached: true
   - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
     excerpt: "When it's time to learn a new language, Duolingo offers a fun, interactive learning experience through its cross-platform app that's powered by artificial intelligence (AI)."
@@ -85,6 +71,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8921b72cdc5afb81459335%2F0x0.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Meet Q.ai, A Robo Investing App That's Disrupting The Hedge Fund Industry"
+    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking ... Co-Founder and CEO at Q.ai, a Forbes company. Though trading apps like Robinhood democratize financial markets, they don’t allow investors the tools to properly ..."
+    publishedDateTime: 2020-10-16T21:16:00Z
+    webUrl: "https://www.benzinga.com/fintech/20/10/17940541/meet-q-ai-a-robo-investing-app-thats-disrupting-the-hedge-fund-industry"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17940541"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17940541"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_1_0.png"
+        width: 800
+        height: 360
         isCached: true
   - title: "Making new materials using AI"
     excerpt: "There is an old saying, \"If rubber is the material that opened the way to the ground, aluminum is the one that opened the way to the sky.\" New materials were always discovered at each turning point that changed human history."
@@ -102,56 +104,50 @@ related:
         width: 650
         height: 463
         isCached: true
-  - title: "Google taps AI for new search tricks"
-    excerpt: "Google on Thursday outlined a number of new features for its core search product, including the ability to search for that song stuck in your head by humming or whistling. Why it matters: While humming may be a cute use case,"
-    publishedDateTime: 2020-10-16T14:06:00Z
-    webUrl: "https://www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
-    ampWebUrl: "https://www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
+  - title: "Japan Fish Industries Utilizing Artificial Intelligence"
+    excerpt: "Tokyo, Oct. 17 (Jiji Press)--Japanese fish industries are starting to use artificial intelligence to select high-quality fish at markets and find good fishing grounds, areas where they have relied largely on experience and intuition. AI tools are drawing ..."
+    publishedDateTime: 2020-10-17T07:37:00Z
+    webUrl: "https://www.nippon.com/en/news/yjj2020101700226/"
+    ampWebUrl: "https://www.nippon.com/en/news/yjj2020101700226/amp/"
+    cdnAmpWebUrl: "https://www-nippon-com.cdn.ampproject.org/c/s/www.nippon.com/en/news/yjj2020101700226/amp/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
+      name: Nippon
+      domain: nippon.com
     quality: 57
     images:
-      - url: "https://images.axios.com/BAmjh43T_0x1TgPV7__2QGbsGEs=/fit-in/1366x1366/2020/10/16/1602856070265.png"
-        width: 1366
-        height: 768
+      - url: "https://www.nippon.com/en/ncommon/contents/news/319933/319933.jpg"
+        width: 450
+        height: 338
         isCached: true
-  - title: "You can now hum into Google Search and it will find the song"
-    excerpt: "Using AI, Google said it could now understand the deep semantics ... and landmarks. It can also translate over 100 languages. Touching on misinformation, Google announced a handful of improvements to the way it handles coronavirus-related queries ..."
-    publishedDateTime: 2020-10-16T11:42:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
+  - title: "How to use human and artificial intelligence with digital twins"
+    excerpt: "Learning Objectives Digital twins get help from augmented reality and artificial intelligence.  Data visualization tools date back to t"
+    publishedDateTime: 2020-10-13T05:03:00Z
+    webUrl: "https://www.controleng.com/articles/how-to-use-human-and-artificial-intelligence-with-digital-twins/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
-  - title: "Google Search gets hum-to-search and AI query upgrades"
-    excerpt: "Now, Google will start surfacing statistics from the repository in response to user queries. Google also announced more general-purpose enhancements at Search On that focus on boosting the search ..."
-    publishedDateTime: 2020-10-16T17:47:00Z
-    webUrl: "https://siliconangle.com/2020/10/16/google-search-gets-hum-search-ai-query-upgrades/"
+      name: Control Engineering
+      domain: controleng.com
+    quality: 39
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/CTL2010_MAG1_TU_IIC-cp-SAS-AI-DigitalTwins-Fig1-Digital-Twin-w-AI-1.png"
+        width: 645
+        height: 350
+        isCached: true
+  - title: "We Are Underestimating Artificial Intelligence and BCI"
+    excerpt: "We are planning for AI to help universities recruit, oversee adaptive learning and drive intelligent chat boxes, but there is much more ahead in the near future. Are we are underestimating the future of AI connected through a brain-computer interface in education?"
+    publishedDateTime: 2020-10-15T01:48:00Z
+    webUrl: "https://www.insidehighered.com/digital-learning/blogs/online-trending-now/we-are-underestimating-artificial-intelligence-and-bci"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Inside Higher Ed
+      domain: insidehighered.com
     quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/google3.png"
-        width: 718
-        height: 400
+      - url: "https://www.insidehighered.com/sites/all/themes/ihecustom/images/facebook_icon_large.jpg"
+        width: 320
+        height: 320
         isCached: true
-  - title: "Google Details How It Uses AI, Machine Learning To Improve Search"
-    excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."
-    publishedDateTime: 2020-10-16T04:14:00Z
-    webUrl: "https://www.mediapost.com/publications/article/356876/google-details-how-it-uses-ai-machine-learning-to.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 36
   - title: "Satellites are mapping out every tree on earth using artificial intelligence"
     excerpt: "To train it, the AI system was shown satellite images where trees had been manually traced. This involved lead author Martin Brandt going through the arduous process of identifying and labelling nearly 90,"
     publishedDateTime: 2020-10-16T11:45:00Z
@@ -165,6 +161,20 @@ related:
       - url: "https://static.euronews.com/articles/stories/05/06/44/46/1000x563_cmsv2_838c94ea-f882-5071-833d-8fd38361bc81-5064446.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Islamic banks “vital in accelerating UK fintech transformation” according to expert"
+    excerpt: "Islamic finance expert calls for UK Islamic banks to accelerate digital transformation This month marks one year since Al Rayan Bank launched its digital banking app – which is now used by more than 20,"
+    publishedDateTime: 2020-10-13T09:58:00Z
+    webUrl: "https://www.globalbankingandfinance.com/islamic-banks-vital-in-accelerating-uk-fintech-transformation-according-to-expert/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 33
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-13T152131.811.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "plaONiyvFw+uDmGgYEE/LpR0Jf6KDKarp4q863lqf7NJsd61MtPDQy4/K02olokPc0ObgdEJh1VjKnfq9zKFs3dUCM6MJdQoHCRn4XjVeO2ARSl53lobY/3PMQp3dK5b+QxkyxI5V4ArLZUMAvgJq8m7pZYKsTmZ6xfzY3FTbmwdPI9YvrZczJPpEvWTasKfMMQbsNGkou24xeGbrKYWJOPOWL74Cgvuo7E/9Cg/D5eF9v2g0P2urjYHeIs9Q40YcZOyllJf1ijoq5Gt+dOag6llUbS2tNAXEOqZ91Y2jmgtjN2ONbOTBCCGLvK/Gjb8Pax/I+xgGnw9wnGILN35SepavmgZaNi5ibFdqnvAPbkyejoyfGNrJ1rYxEzDXMM6uq+pW3O3vCrOc4w/qzwZlYV0Lzvm3CPl9fJxcQ3LLqIRsy1NRXo0rcFogcqI4bqTk9gcy+AlSuRA4JprC+lXBX4ybdNT7gXf3zLuBUYhqnuPssEfZgujIXuXPQuj8tWqfkqhdzbuZbxtDzlBxRG/BA==;O/2Sjc/ZVVOkl7GUaSa4UA=="

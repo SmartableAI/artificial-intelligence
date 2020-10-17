@@ -26,19 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Hailo takes next steps with new AI chip modules for better biometrics in edge devices"
-    excerpt: "Israel-based Hailo, a developer of AI chips, is now offering its Hailo-8 processor in new form factors that will make integrating the chip into edge devices easier for its customers. The end"
-    publishedDateTime: 2020-10-12T20:23:00Z
-    webUrl: "https://www.biometricupdate.com/202010/hailo-takes-next-steps-with-new-ai-chip-modules-for-better-biometrics-in-edge-devices"
+  - title: "Airport facial recognition could soon handle masks, biometric boarding pilot begins in Brazil"
+    excerpt: "The use of facial biometrics in airport systems is increasing in France and around the world, and the country’s national data protection regulator, CNIL, is cautioning stakeholders to ensure that"
+    publishedDateTime: 2020-10-13T17:38:00Z
+    webUrl: "https://www.biometricupdate.com/202010/airport-facial-recognition-could-soon-handle-masks-biometric-boarding-pilot-begins-in-brazil"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 47
+    quality: 43
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12161331/Hailo-8-processor.jpg"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
         width: 1200
-        height: 801
+        height: 800
+        isCached: true
+  - title: "Pakistan deploys facial recognition to secure borders, biometric prisoner identification ordered"
+    excerpt: "Pakistan Customs will put in place a National Targeting Centre (NTC) using biometrics to identify and profile risky goods and individuals, DAWN reports. Established with support from regional"
+    publishedDateTime: 2020-10-15T17:44:00Z
+    webUrl: "https://www.biometricupdate.com/202010/pakistan-deploys-facial-recognition-to-secure-borders-biometric-prisoner-identification-ordered"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 26
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
   - title: "Telpo releasing series of new face biometrics products"
     excerpt: "Telpo has announced that it will be launching a series of new biometric facial recognition products on each of the three remaining Wednesdays of October 2020. The Chinese technology provider said"
@@ -53,20 +67,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13152353/telpo-office.png"
         width: 750
         height: 300
-        isCached: true
-  - title: "Invixium upgrades face biometrics on IXM TITAN to work with masks"
-    excerpt: "Multipurpose biometric device, IXM TITAN, has been upgraded by Invixium with two new options that make it possible for a person’s face to be accurately identified while having a mask on. The"
-    publishedDateTime: 2020-10-16T19:11:00Z
-    webUrl: "https://www.biometricupdate.com/202010/invixium-upgrades-face-biometrics-on-ixm-titan-to-work-with-masks"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
-        width: 1024
-        height: 512
         isCached: true
 
 secured: "Oi9Umhz8ct4ZiTE1h37gqTa5WwUjVgxAvQuIqV2ONOCyeexAfVlxRRjRGChlM8D358wNfgE9DhytUpNmGBXAvKGcxRwDRvOb3AnSzz4uikVL9vMeRUQRXPV7w0pv9JccClh8GouAqb2CZDBpVMWyFpLQnFKebWZNuFX0cMZcETNxZrBupbmuNTI0aMxXqLemuOpcW7Gez1nQgdPWvK6rIJ7Ouq3hwHIpFddSUlV0urthCgG1YovdwusFrXI2OYOriOfoStqlpy1q61Nvz3zgreeud180MxztEmIS1WbQsvncrAnTSDRYHzfFW2+axeijS8Ue5udAPbr8uQpPkhuV8jf20CVyeZePzHB3AEARA/DiB7a3XfLvr2q3PdAA0nXxzLjdegtCgiI4YagK+e56Iefcn1EWUqzuyVzMpmUrkR8Ey8jW2Uhvjoz3TJA53gi0jl4jWw1eSXkwanzws2B+TaRcKeVzYWSNzfpJW0i5OBH39d7F1xRrNUMVB0+6ZmkF2oE6M0GTsVCuEMm7aleJVQ==;A4gsOK6oWq0qnu38StUxHw=="

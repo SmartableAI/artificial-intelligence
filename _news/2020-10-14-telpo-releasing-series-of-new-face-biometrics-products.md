@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Hailo takes next steps with new AI chip modules for better biometrics in edge devices"
-    excerpt: "Israel-based Hailo, a developer of AI chips, is now offering its Hailo-8 processor in new form factors that will make integrating the chip into edge devices easier for its customers. The end"
-    publishedDateTime: 2020-10-12T20:23:00Z
-    webUrl: "https://www.biometricupdate.com/202010/hailo-takes-next-steps-with-new-ai-chip-modules-for-better-biometrics-in-edge-devices"
+  - title: "Airport facial recognition could soon handle masks, biometric boarding pilot begins in Brazil"
+    excerpt: "The use of facial biometrics in airport systems is increasing in France and around the world, and the country’s national data protection regulator, CNIL, is cautioning stakeholders to ensure that"
+    publishedDateTime: 2020-10-13T17:38:00Z
+    webUrl: "https://www.biometricupdate.com/202010/airport-facial-recognition-could-soon-handle-masks-biometric-boarding-pilot-begins-in-brazil"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 47
+    quality: 43
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12161331/Hailo-8-processor.jpg"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
         width: 1200
-        height: 801
+        height: 800
         isCached: true
   - title: "Biometric vehicle access forecasts climb, facial recognition features in more new car models"
     excerpt: "The market for biometrics in automobiles continues to see increased supply, with Cadillac, Buick, and China’s Human Horizons launching new models with facial recognition, a new document-signing"
@@ -53,19 +53,19 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Invixium upgrades face biometrics on IXM TITAN to work with masks"
-    excerpt: "Multipurpose biometric device, IXM TITAN, has been upgraded by Invixium with two new options that make it possible for a person’s face to be accurately identified while having a mask on. The"
-    publishedDateTime: 2020-10-16T19:11:00Z
-    webUrl: "https://www.biometricupdate.com/202010/invixium-upgrades-face-biometrics-on-ixm-titan-to-work-with-masks"
+  - title: "Pakistan deploys facial recognition to secure borders, biometric prisoner identification ordered"
+    excerpt: "Pakistan Customs will put in place a National Targeting Centre (NTC) using biometrics to identify and profile risky goods and individuals, DAWN reports. Established with support from regional"
+    publishedDateTime: 2020-10-15T17:44:00Z
+    webUrl: "https://www.biometricupdate.com/202010/pakistan-deploys-facial-recognition-to-secure-borders-biometric-prisoner-identification-ordered"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 24
+    quality: 26
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
-        width: 1024
-        height: 512
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
 
 secured: "eOd2qu4mzn1VAo1H7mJVJWCtFZiYJ0PtdWAU7EZbOS8qYoEeh+YRXJNXPVVHDArHeqJ6AQ+wUVXoaeDEtQKibN+xyORfq0bWRPPZmn6LIeTCiS/Cvy8kdgsEQ6hFvKl8P9VwmrfcFU5/NVTOr0xbyM5vTru58/Z2HvLVd5Ozf55x89ZTBa7n7eCprKmp/xnxLzFTI6zyul1FoeeVUOmqk8ZOus0ETI+PrS9V0zbiAwTrvkXdZvIXXdysyjpLgQerWlsKlqIz07VXE0rSr2bfig9q43PLM9DnGrb/eR3D4aD3qIFPaZ1MvIK0XJAHdW4TQwUS/7JI+ZtFnFDJGEh7nDyjQWKpgimZRQ2HpUOVAgY=;H0CYkrukQnjGNv1PeK/e4w=="

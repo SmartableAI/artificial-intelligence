@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -131,15 +131,6 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 19
-  - title: "IBM, ServiceNow Partnership: AI for IT Service Management"
-    excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"
-    publishedDateTime: 2020-10-16T18:53:00Z
-    webUrl: "https://www.channele2e.com/business/digital-transformation/ibm-servicenow-partnership-ai-itsm/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
     quality: 19
 
 secured: "+8yk+BqDY6mDOum1O7PTayUEur6ojQ8aqTg1LHWSLk7XPzM0M/ZY6udI1e9+E+EpH9cBkc75Frv2FCHfPbIQXS6wlit9oZtwNGJkZMPsIu9mmsUW8BptPiF2Hazb9euhgOwGE0kqAye0lQ44GydH5vkaVEELgQHyJGdjymiG/1d3fFIgayw3QnQAm5LYuB0uLTgPBC6SMwcUXBLN20njzpAubcnScZMAwoZ6ez4POycz92bKuWQDGHIJk4zMox2haNVJratoUTKvWLSGh/1Ak2kF0o6YwD9xN3TEcQ1/8f1qjFW++0URAHJRxASUQZX1SWKpRF9HLge8Xz0/jDE5TG0EVLYWvEGFcsda1kwgj2dJk/xBNjEhqNqSHhqkVe/l0+t8rfaZSIGX+GxjoPhX27RFn/SMuM5B6W7v82kaMPQsSu5FI+gHnVApuxbW5jnLepSghI5M+xa7VNqhBPA8+RPEffPqJYniRBXiGjrG1skVV7fC/8Jcg/alO4BQHrWF2ed4KHDVVKPwC5Qce8vS8g==;EX69BAcFFwZRvYIMGijhVA=="

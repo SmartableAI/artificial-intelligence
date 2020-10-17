@@ -3,10 +3,10 @@ category: news
 title: "Singapore releases AI ethics, governance reference guide"
 excerpt: "Singapore Computer Society launches reference document to guide businesses in the development of artificial intelligence ethics and governance as well as future training and certification of professionals."
 publishedDateTime: 2020-10-16T16:00:00Z
-originalUrl: "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/"
-webUrl: "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/singapore-releases-ai-ethics-governance-reference-guide/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/singapore-releases-ai-ethics-governance-reference-guide/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
 type: article
 quality: 84
 heat: 104
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
 related:
   - title: "Hyundai's new Singapore R&D hub features helipad for flying cars"
@@ -54,6 +54,6 @@ related:
         height: 509
         isCached: true
 
-secured: "SlziIbCLuZGu9C9VrFro0fwNlfe5bYFNoH4f7kapkjhHbQHE0L5EpwJOT2EcmaYa/sR2upz5DlWhUz2HX6zzxV5mY5vc5ojNLEsEZByhGvhFQgKMp12GSP2AOyHvQTOkgoyffW8KmPdz8zcjvOXeVxCZZWggSEGvoxiQ5PNwHcfNY7fC1NEuHjh/kAv3anpU9YORWb8CCUJVEl5kqz0VsxOv14yCUwY7FSOYRHiEhGndx9aC3O9AIkYyyRy1hEX+JT73JicWFzwepiKj7PbaFV68lpngJUT4mAKETp1EFRRFRATb+SNsIGqJ9FF+3z7VyDrlDz6QDEYICntT8dI/TMoyY7vh5F99JvxrFokFPNMJJSwKVJ0vjebMOs6CLWvQU31pkypan48Zh/R48AntqObZBo7w/wC1/q8P4FD0c1QJwCr3zldvZseoRxkxY82W7a0yzllmxUav6VwOSek6iCYRcsxm+R5xwQYAFZNldcbzSgVQp+Q4DsH6A+TOZQmnln7Am808+ztuDBgBPIuVmQ==;Qsf5Du3CWObEL2c5HAlI5Q=="
+secured: "f5mIG/kI9uojVQk+4H3UHm/4gyNCvMRCj2hM8s5xzca0CimUsUmYHhMzbL7yD2D0TnzFCr3/EV0BFL582NIT8OE8JV3cYpITBpNXMyFrAxfSZMUE3LmRuLE8uaV268d7XsI/6lPPq76Uz69a/j8XQKAwsBM5lMaea5qDlig4eG42isxg1giJm/NpAWBewemMoVIuZ+9Vf9mJtrKDQuSQ62ilMEZszQpqoSO3BQwwlOPSH/ItkkrG/TvaFeeiuWkN+DTJA7ZgLqYQ4NCCon9lvwTEQ2ksBUsaGs0UyYgTH/4lsigZIaZ9WkrZNYi1TvBnSZ0rz3mmZQlYEflrblIveG8DQYeUXy3dbKtFVbQQ3ne+sMaZN3/84u0hJS6oNCjN1JLG22I8QSWJM8ChN5k5wUmzeCn/zerhLyu7ZACoJfTaEyDGk/5aCVLj/ltQlyMRTyHc1+fN7gz76wiXbP2QpQw40VoyRRmXBg2RnVXg7689Rx5noInLgjWMbnSAzPqMdfNjUy3lZAGMkTFhrbTA6A==;np9spVl0LHJVGZa3bpvO8g=="
 ---
 

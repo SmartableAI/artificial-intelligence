@@ -25,96 +25,33 @@ topics:
   - AI
 
 related:
-  - title: "Google details how it’s using AI and machine learning to improve search"
-    excerpt: "During a livestreamed event today, Google announced new ways it's applying AI and machine learning to improve the Google Search experience."
-    publishedDateTime: 2020-10-15T19:40:00Z
-    webUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/"
-    ampWebUrl: "https://venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/google-details-how-its-using-ai-and-machine-learning-to-improve-search/amp/"
+  - title: "Google’s new ‘hum to search’ feature can figure out the song that’s stuck in your head"
+    excerpt: "Google is adding a new “hum to search” feature to its search tools today that will let you hum (or whistle, or sing) the annoying song that’s stuck in your head, and then use machine learning techniques to try to identify it."
+    publishedDateTime: 2020-10-15T21:05:00Z
+    webUrl: "https://blog.google/products/search/hum-to-search"
+    ampWebUrl: "https://blog.google/products/search/hum-to-search/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/hum-to-search/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: The Verge
+      domain: theverge.com
+    quality: 164
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-15_at_10.47.20_AM.max-1100x1100.png"
+        width: 1066
+        height: 573
         isCached: true
-  - title: "Google Search is getting a new AI-powered spell checker"
-    excerpt: "Google has announced a range of AI-powered enhancements to its search engine, including a new algorithm that improves spelling corrections."
-    publishedDateTime: 2020-10-16T12:03:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
+  - title: "Google announces \"hum to search\" machine learning music search feature"
+    excerpt: "The company also notes that people need not worry about delivering a perfect pitch to take advantage of this new search capability."
+    publishedDateTime: 2020-10-16T18:18:00Z
+    webUrl: "https://www.techrepublic.com/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-16T114024.500-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "These 8 tech companies are using AI to improve healthcare, renewable energy, and more"
-    excerpt: "We often see news and headlines about the dark side of AI, its weaponization, and “algorithmic warfare”. A plethora of AI-driven, dystopian paradigms await us in the future, but there is also a bright side!"
-    publishedDateTime: 2020-10-13T22:08:00Z
-    webUrl: "https://techcrunch.com/sponsor/idb-taiwan/these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/1024x683_Hero-Image_thingnario.jpg?w=600"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Banking Industry embraces digital transformation using AI and ML"
-    excerpt: "The application of artificial intelligence and machine learning will offer predictive analysis to banks and fintech companies to deliver fast, secure, and personalised banking experience to its customers."
-    publishedDateTime: 2020-10-15T12:14:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-machine-learning-redefining-banking-industry/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 71
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-14.jpg"
-        width: 1680
-        height: 840
-        isCached: true
-  - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
-    excerpt: "When it's time to learn a new language, Duolingo offers a fun, interactive learning experience through its cross-platform app that's powered by artificial intelligence (AI)."
-    publishedDateTime: 2020-10-16T04:36:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/10/16/the-amazing-ways-duolingo-is-using-artificial-intelligence-to-deliver-free-language-learning/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8921b72cdc5afb81459335%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Making new materials using AI"
-    excerpt: "There is an old saying, \"If rubber is the material that opened the way to the ground, aluminum is the one that opened the way to the sky.\" New materials were always discovered at each turning point that changed human history."
-    publishedDateTime: 2020-10-15T14:30:00Z
-    webUrl: "https://phys.org/news/2020-10-materials-ai.html"
-    ampWebUrl: "https://phys.org/news/2020-10-materials-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-materials-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/makingnewmat.jpg"
-        width: 650
-        height: 463
-        isCached: true
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
   - title: "Google taps AI for new search tricks"
     excerpt: "Google on Thursday outlined a number of new features for its core search product, including the ability to search for that song stuck in your head by humming or whistling. Why it matters: While humming may be a cute use case,"
     publishedDateTime: 2020-10-16T14:06:00Z
@@ -131,6 +68,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Google Search Gets More Helpful With The Release of New AI Features"
+    excerpt: "Google Search is getting more helpful. The bread-and-butter service of parent organization Alphabet (NASDAQ:GOOGL)(NASDAQ:GOOG) recently announced new AI-powered features to improve its usefulness. Some are legitimately helpful,"
+    publishedDateTime: 2020-10-16T06:07:00Z
+    webUrl: "https://www.ibtimes.com/google-search-gets-more-helpful-release-new-ai-features-3063047"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/23/google-search.jpeg"
+        width: 385
+        height: 257
+        isCached: true
   - title: "Google Search gets hum-to-search and AI query upgrades"
     excerpt: "Now, Google will start surfacing statistics from the repository in response to user queries. Google also announced more general-purpose enhancements at Search On that focus on boosting the search ..."
     publishedDateTime: 2020-10-16T17:47:00Z
@@ -144,29 +95,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/google3.png"
         width: 718
         height: 400
-        isCached: true
-  - title: "Google Details How It Uses AI, Machine Learning To Improve Search"
-    excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."
-    publishedDateTime: 2020-10-16T04:14:00Z
-    webUrl: "https://www.mediapost.com/publications/article/356876/google-details-how-it-uses-ai-machine-learning-to.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 36
-  - title: "Satellites are mapping out every tree on earth using artificial intelligence"
-    excerpt: "To train it, the AI system was shown satellite images where trees had been manually traced. This involved lead author Martin Brandt going through the arduous process of identifying and labelling nearly 90,"
-    publishedDateTime: 2020-10-16T11:45:00Z
-    webUrl: "https://www.euronews.com/living/2020/10/16/satellites-are-mapping-out-every-tree-on-earth-using-artificial-intelligence"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 36
-    images:
-      - url: "https://static.euronews.com/articles/stories/05/06/44/46/1000x563_cmsv2_838c94ea-f882-5071-833d-8fd38361bc81-5064446.jpg"
-        width: 1000
-        height: 563
         isCached: true
 
 secured: "fv3glrMffv6LNInhWrCIXcEja1A22wwmSPYD1piSEWMjRuIRL49HQMil4Lyg6/wwuhoAnyvg8CsOTmQNK/ky2XIVdUpKmnMg/lipCUNs1Chh/nqZ41x/2MQvVe4o60QyFpvfpiuIkZrZj6yKKK9n3LRA0cgpDNv6itbjqw/RssLw5i2rBfM9UJCg9QwVd6tdRRQr9gEm87vGYk7OVUvYiD5i3O+Syavb23XX5aQQuJkjpzD++i1E0Y9ae03ThAvHMrwq2YKggoVuopZJkKmvxbn57+vgW+TqnnHrSzJyfFED2vtElFUpSKbJXe+ZTaYTlG37BlaNeKQH6r4+2zCZzj6guHrr0jvZ3OFocFUcHknjoIbnjBZuknQ96f88SvRsId1Xu4Wnt1C/iKtglhP792j46nvanZa5Eed7RrX7ghLnXqU3HRURWN45wgdGo/MFSvG4thg10rY8xjJC+lAx3VdsWO5E9l/1fPK+Eqrl2sP0NZyFrfSKW7F6qvOidCYkkz4s44l3wGz0xSkoq2wGzw==;IV+z1vl7ot9RHbGMWXBdEQ=="

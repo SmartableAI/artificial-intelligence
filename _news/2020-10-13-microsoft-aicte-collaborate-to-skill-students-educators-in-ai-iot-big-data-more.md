@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs"
-    excerpt: "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ..."
-    publishedDateTime: 2020-10-12T20:03:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 103
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2018/06/28/1491d2a1-5b91-4521-a753-791b9f03ed42/resize/1200x/0a58b39878159fc665d3cd9d948840c6/istock-873015278.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Microsoft unveils efforts to make AI more accessible to people with disabilities"
     excerpt: "Microsoft has announced a series of new efforts to make AI systems more useful for people with disabilities by developing more inclusive datasets."
     publishedDateTime: 2020-10-13T15:09:00Z
@@ -59,6 +43,17 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with its FHIR-enabled Data Activation Platform. Microsoft Cloud is committed to improving connectedness to drive superior performance across providers,"
+    publishedDateTime: 2020-10-13T17:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
 
 secured: "x/SVogZie0tWHfdP4nj2AMRedLGzyL15rmCG+fPpu4EAC6ZP+y/IEAXL4xgM/Iu7ReHCCxeQWrrQfQss2gKqHfr92RBV8JR7po1A4YEuVvXH/WyhjnuJYZm0mf6zTibbluhv+bK/Y//OEypVFOSd6l9M4wvD1XDmreBJADMll8MQTzenGH6qWF9I2knYxEv+puYqUyLJSrM894s9Bf6CUouhK6FwqxNOhSoc8EA5pZT6N0SSHRHY7b+55N2iiC1e/nfSo039yAle16Dur1ja6+Cd3KjFKwE9rd4IylgwAd2ZYH3ffsQYRVYyM+NUiBuhFov282SiKbae0nbrTtP4c1wFfw7844MfWWZLgcOxDwh1Pcj+L07ax3wHuOXfSbxYVra4WJig5KJbTCtnN2zKMFOc1PR3xFDQAkyis0syWoGAVBCBUliw4VP9kgrDBr4sEBw5J2mlu8c8mtQpN2DeKLhxR7YKf/ifzx4Ynj/PVIrQfnnY11BIpOC57ZI3OqpcuKgnedMwQbUBRMyjj97jKA==;v86tlY5+t/Sj5GMAgENKvw=="
 ---

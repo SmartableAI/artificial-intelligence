@@ -143,22 +143,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "Elon Musk announces Tesla is set to rollout 'Full Self-Driving' beta to a small number of drivers"
-    excerpt: "Tesla CEO Elon Musk announced the firm is releasing an upgrade to Autopilot that adds 'Full Self-Driving' abilities with certain features that makes the car semi-autonomous."
-    publishedDateTime: 2020-10-12T20:28:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8832421/Elon-Musk-announces-Tesla-set-rollout-Self-Driving-beta-small-number-drivers.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8832421/amp/Elon-Musk-announces-Tesla-set-rollout-Self-Driving-beta-small-number-drivers.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8832421/amp/Elon-Musk-announces-Tesla-set-rollout-Self-Driving-beta-small-number-drivers.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 46
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/12/21/34306966-0-image-a-20_1602534251674.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "QbTV8g6dujqAjDQGtBOxPgILsxbSKaItPOJsuG9vTiEtwbwutu3DF04W0WEyhB5KFdPWQ2eFM4mt7uI5TgB2kIFR6qX+Im5qTfUxnazxm6eqQJV9xQsp+5JYu25cmGo3GnXw4BI2kM5QaD6Hy2tZLbshEFM0apsX9S8NEAgDijRVLjBs7i3G4xM5TIxQMeh+nO84saJW3qn1JDAZwU2lesoVsDGP20u8rco4yZSSGZ/vpA8undHV3Or1vUKf8+B9RAmViwtb6BuZi1IshpVXb196v60ayyI1KkjKhvXV2LvLiX2oU/1aiojEoWarbVEtLk3M0p2KJWtXbzujhJjVWSfQMNzBwwUMo+mgG6AfRoASYHh4CRVWrxHtJzYme2o6cpE5EKh/VEaxbuFKkiac8RYyIu/lh856t+oWINW8Kta62/tMfHPzfj1vBK8AOJwG+dv5tuaLlfTB6bYWyGRNB3sNuABuNSUIHucBYui+ZcOcp1AY5YaeLk3GZqSdsunHy3MoT4oGZzVmLJwqdIeNlQ==;K/YuAKGI7hVMEsngWC5Lzw=="
 ---

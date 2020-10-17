@@ -36,6 +36,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 9
+  - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
+    excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
+    publishedDateTime: 2020-10-12T23:08:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/09/global-artificial-intelligence-in-education-market-innovative-trends-driving-factors-and-growth-analysis-2020-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "Zb7IUJVJM2xlnbbqu+At+DlBShg/gFaH0qgAu+aOTOmT8qzT9MKTjYIQo6eOvOUwS1yE3z9dyuwYLIQ1IIYxcP9YhhQcrPCgNxIr99EcXb9x3/gYCyqdnAhuYCbjvgeffzEmDidUbO33Bnrtdo5MxGmtihVzRJuj1kDNgvNHbDkH+VUI8lBiQAm14lzReuERQ5HdCCytco7sY6sulAYGKOhDt5yYOCO4v8k087tYRN/ixLgzxTbg5IF3fGDtc/paObMpSwaUAVJBUprgLxwq3UAipFRiDVPDB7GNWU+nJefQTSR1gVlH7wF5Dt1rmajBvOCMwFGmpMNyQhmM/+EOWFLuba+GY6E5H+ZOahrSoq0=;qZn65dicENlOtJXozEw6QQ=="
 ---

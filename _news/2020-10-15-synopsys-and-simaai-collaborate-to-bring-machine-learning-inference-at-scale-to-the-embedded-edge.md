@@ -7,7 +7,7 @@ originalUrl: "https://www.eejournal.com/industry_news/synopsys-and-sima-ai-colla
 webUrl: "https://www.eejournal.com/industry_news/synopsys-and-sima-ai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded-edge/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Synopsys and SiMa.ai Collaborate to Bring Machine Learning Inference at Scale to the Embedded Edge"
-    excerpt: "MOUNTAIN VIEW, Calif., Oct. 14, 2020 /PRNewswire/ -- (Nasdaq: SNPS) today announced its collaboration with SiMa.ai to bring its machine learning inference at scale to the embedded edge."
-    publishedDateTime: 2020-10-14T14:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/synopsys-and-sima-ai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded/article_b8eebd58-965e-5efc-a754-854673de040f.html"
+    excerpt: "PRNewswire/ -- Synopsys, Inc. (Nasdaq: SNPS) today announced its collaboration with SiMa.ai to bring its machine learning inference at scale to the"
+    publishedDateTime: 2020-10-14T13:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/synopsys-and-simaai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded-edge-301152178.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 42
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Synopsys and SiMa.ai collaborate for machine learning inference"
     excerpt: "Synopsys (SNPS -0.3%) collaborated with SiMa.ai to bring its machine learning inference at scale to the embedded edge across diverse industries.Through this engagement, SiMa.ai has adopted key products from Synopsys for the development of their MLSoC,"

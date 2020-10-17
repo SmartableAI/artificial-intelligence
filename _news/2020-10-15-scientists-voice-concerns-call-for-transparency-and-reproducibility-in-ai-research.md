@@ -33,20 +33,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 54
-  - title: "Future reality: Triad of Internet of Things, Artificial Intelligence & Blockchain in action"
-    excerpt: "Read Sanjay Pathak explain how the triad of Internet of Things, Artificial Intelligence and Blockchain will shape the future tech on Financial Express: Blockchain today is still in its infancy, […]"
-    publishedDateTime: 2020-10-12T20:24:00Z
-    webUrl: "https://ctovision.com/future-reality-triad-of-internet-of-things-artificial-intelligence-blockchain-in-action/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 42
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
   - title: "Artificial intelligence gets real in the OR"
     excerpt: "Since the start of the year, some surgeons and residents at UC San Diego Health have had access to a new surgical resource: reams of video recordings of them performing operations, parsed by artificial intelligence."
     publishedDateTime: 2020-10-17T05:00:00Z

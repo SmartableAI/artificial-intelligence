@@ -1,29 +1,29 @@
 ---
 category: news
 title: "SensiML to Present at ST Developers Conference"
-excerpt: "They will walk through an example application showing the process start-to-finish, highlighting key opportunities, success stories, and even potential pitfalls of AutoML-based algorithm development along the way. Learn how the SensiML Analytics Toolkit ..."
+excerpt: "Corporation, a leading developer of AI tools for building intelligent IoT endpoints, today announced that Chris Rogers, CEO and Chris Knorowski, CTO"
 publishedDateTime: 2020-10-14T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html"
-webUrl: "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook"
-    width: 2059
-    height: 1079
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/22/c2216860-0a3c-5af2-ba20-9a5b036c0854/5f86fae1532d1.image.jpg?resize=400%2C208"
+    width: 400
+    height: 208
     isCached: true
 
-secured: "AmvguVDKcG9MJ0VtZCJGurSOJLB0WQAfE5Od+85wEVUzrn+oeRy5hH0AqO95xFAV5VHM3BgN0Z+Lyn8+rjzTbr0WPmbpt6NMVv+e10k88BGZrqxupQywmOANSRVcdhUm+GHvpRXtSzwSKkyzRgq76pXohLoEtSxMQmA2bTMpaZ4sFV7sO/IiMqSYGGkr9z9QPTG3yVTuNcqZq65a5L3sAOeVUjvqLWM0yG4SdDkY6GBHfx+L8Lzn4SMLyAujY18+p56fdXecW4dfZ2+W4DPxby8zh/Vljb5VxEYKu49+6H3mor5D3CLTzf4YJ94LJsIj8KAMWk4FHO2FVXjS0GT/3RxAEiuOVybFEY+wx8K4yMw=;bR2QcsCJOyaGQ6aA/Yyw0g=="
+secured: "/KvpaxvfQFhPdBYMjoxKViSy5tMtWg4qSLAbVm3FnsT9z57GbuK9rivAVXSJ+PdqjtoeShB2nQKRXB9Ugc6zorEpzHVeNbsk/5oow6CRPt/QeCdrrLjzcw26iV7K+WYzv0wzcV6vf8ZmGPegiDaTRcyKiGcjxKne5vxmtXdbSdVRZQ9hdwr3diKe9TBFcMEUU52iA+dKm3qRb5Tv8WogzdBsZttso2CFXx0372oSFnhVJS7Dxe21x76saWTOlesDFjwowOljW0jQW282abWXOwu+dxIHP0lBFCwTMKUJGChrIzDFFPqLYm5b9yA+rCQo+hTPFu2TDK2iIZM0sSTQpQ876MBp3CXDbo1uXBHL2Ik=;R64a/LSO0IMmiBokcxUYxw=="
 ---
 

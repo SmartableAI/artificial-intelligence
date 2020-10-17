@@ -39,6 +39,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biometric vehicle access forecasts climb, facial recognition features in more new car models"
+    excerpt: "The market for biometrics in automobiles continues to see increased supply, with Cadillac, Buick, and China’s Human Horizons launching new models with facial recognition, a new document-signing"
+    publishedDateTime: 2020-10-16T16:13:00Z
+    webUrl: "https://www.biometricupdate.com/202010/biometric-vehicle-access-forecasts-climb-facial-recognition-features-in-more-new-car-models"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/09130331/automotive-biometrics.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Telpo releasing series of new face biometrics products"
+    excerpt: "Telpo has announced that it will be launching a series of new biometric facial recognition products on each of the three remaining Wednesdays of October 2020. The Chinese technology provider said"
+    publishedDateTime: 2020-10-13T19:54:00Z
+    webUrl: "https://www.biometricupdate.com/202010/telpo-releasing-series-of-new-face-biometrics-products"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13152353/telpo-office.png"
+        width: 750
+        height: 300
+        isCached: true
 
 secured: "4sRFEsgKDc0DT8Go4bJVDVVd3uPlRu8+RVqc/yL626W3qyKyAAPL0L4MC5f09ZkJC3n1zVhtOscUKq1ymVoXAdwe+J4dJa5NinA8b0ZaRnO4BQYez0RNsnSsN/cVKbqYeR1JCrwehh7Cc++A8CbtpvNz/6ifZV50DzhjOIQBzcNdBvm0kEK32PmD3DuAE7uNFnBd02/LJG+KGXscuDccgh4kwmv/GNM6TZRDbq85NHAlOwT7vI/E4ktWwn1ESTvrhKME83vxS5DJqkeGwtATuGU/NDZsv8I9yFPq9f9hRj+cvKOyNYmGLHv/7xyrXJMaWnr6bYjGFYbKH/ekr0UAFWXFfdqL6p1ve5aMIP8ErVHlIQwNxJTB3Kw7PgYU02n/yNUMvGoCPoCL0uuO7vC2Y03SV8GM+9/StuvLrxDl0rt11X6M8URsAn7cHW+LWQOSo4uFA3tEVoRIbmcuTARQpbXlWf5i33qNNXVNwMy5aIyTvWiR3cKZC7AZvwx20pC4B7FCkQaj36w90KXrPk4JVw==;8ivioyqx0sRHgygW00BFfw=="
 ---

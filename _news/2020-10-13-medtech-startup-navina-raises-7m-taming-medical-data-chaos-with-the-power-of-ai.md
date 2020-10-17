@@ -9,8 +9,8 @@ ampWebUrl: "https://www.geektime.com/navina-raises-7m/amp/"
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/navina-raises-7m/amp/"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: 62
+published: false
 
 provider:
   name: Geektime
@@ -39,34 +39,6 @@ related:
       - url: "https://i.insider.com/5f85726d91aa9e001880b30f?width=600&format=jpeg&auto=webp"
         width: 600
         height: 450
-        isCached: true
-  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
-    publishedDateTime: 2020-10-13T10:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
-  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
-    publishedDateTime: 2020-10-13T17:01:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
         isCached: true
 
 secured: "A0Nt7DN6sxGXfE8Iy9nS1TUGbynVJ86hoOltgBjMu+zxMu9Dds5Z2e/8dOvbGIQK7AYfnpNY71z8nQ2oCqTYELYVsx4xUB8hdOgg++GG8UhW6smMDC2bsjr5CxIZ49WPyWDa7tVzbf5z1iTib/Z9oN/su4CWHPTIDQDXXWodzCSGOdlqZP4FAZxEX5v8/J2/+60vOS5xsbn/6JJEnM2FF0++I1sOdsGgRX8R9pY182c9UcDdMc2NZzj+Mwdy7XllZHSVeNkKq7XkCfZGO1+NNXT0SZnEqIhNJ0kwswFX4ax6K45IfaM5JjQOTy5XuWVxTBgOMNtYwvpvLOTUG6JtFyZC5E2sYplqDJtLVyrQ8T/B4F8Mt2JiYlWaq9e8LcpiIS/RVtP+Waco0am0YeNUK9nndq51aFpBKNkQm9y0veGloMceUHzvZecU9U6TQDvuqK4WZ/0WzphhBXnE062ingfzel2sTA4cXK2mZCQHdI6FKuXecLosW8bwWIthrRUl+rhQU8JFCekSiVXv/e2x/Q==;3OVb3FIxO8ll/e7UsAWm4A=="

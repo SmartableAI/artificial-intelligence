@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/teslas-elon-musk-some-exper
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/teslas-elon-musk-some-expert-careful-drivers-get-beta-full-self-driving-next-week/"
 type: article
 quality: 81
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -146,22 +146,6 @@ related:
       - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/tesla-to-launch--full-self-driving--beta-to-select-drivers-2020-10-13.jpg"
         width: 1000
         height: 800
-        isCached: true
-  - title: "Elon Musk announces Tesla is set to rollout 'Full Self-Driving' beta to a small number of drivers"
-    excerpt: "Tesla CEO Elon Musk announced the firm is releasing an upgrade to Autopilot that adds 'Full Self-Driving' abilities with certain features that makes the car semi-autonomous."
-    publishedDateTime: 2020-10-12T20:28:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8832421/Elon-Musk-announces-Tesla-set-rollout-Self-Driving-beta-small-number-drivers.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8832421/amp/Elon-Musk-announces-Tesla-set-rollout-Self-Driving-beta-small-number-drivers.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8832421/amp/Elon-Musk-announces-Tesla-set-rollout-Self-Driving-beta-small-number-drivers.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 46
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/12/21/34306966-0-image-a-20_1602534251674.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "MYqUrXNYN0udpZed90Rk/dluDz+zxAdwDTLYeRQUYrs9xKsFiM9+xPC+AGBNfMSoeuha0f4eMOHO929DIbRHyc90etZkBaGuEpqr23FZvD8ASF8Ed07v3a78GOcMKYzV3XPL2nhZ8Z2ydwBKDKWhxgFqgvfnaTWQn/5M6VH6574E/npI1teFvHF6YowXAnGWbHe1XT4EWgnjL9yXkgTCIWOT9NagTAYjTOtO+YwOyyTNcOaRBmeEl7GHRUmc3K5rX/VkYl2L4jCaP1pUVd7hxsAUIMWUj0T1gpRrWlPCvBwhZKSu+dXi0Chm79sagGJ6C4IsVNdZjbIHdFjXH6Kj99dQcrhTEbjSXrk2ifnmXPzIT0VWywpGVEaEyBJKXvkTQ0xYDWLJ5pHrcpO+nWmW1CcZbac3kgyUn4y5g8qrklfQ7KT8H5UQJRwV7kvG+nKV53mtMJU0HCBA9fxBmt521Uxd9BPWJEMfInKVCNqY6RKRqC2+IPOH624c6UNyKUnDAsHcZesBg8jY+nvH8I9Ypg==;pE5AtJEs9iQKWQ78a/QiMQ=="

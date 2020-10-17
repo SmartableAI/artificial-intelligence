@@ -44,20 +44,6 @@ related:
         width: 900
         height: 365
         isCached: true
-  - title: "Amazon Rekognition adds support for six new content moderation categories"
-    excerpt: "Amazon Rekognition content moderation is a deep learning-based service that can detect inappropriate, unwanted, or offensive images and videos, making it easier to find and remove such content at scale. Amazon Rekognition provides a detailed taxonomy of moderation categories, such as Explicit Nudity,"
-    publishedDateTime: 2020-10-12T19:03:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 105
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Automatically detecting personal protective equipment on persons in images using Amazon Rekognition"
     excerpt: "Workplace safety hazards can exist in many different forms: sharp edges, falling objects, flying sparks, chemicals, noise, and a myriad of other potentially dangerous situations. Safety regulators such as Occupational Safety and Health Administration (OSHA) and European Commission often require that"
     publishedDateTime: 2020-10-16T21:12:35Z

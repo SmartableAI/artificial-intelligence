@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cohesity Announces AWS Partnership For Data Management Service"
+    excerpt: "Backup vendor Cohesity has announced a \"strategic partnership\" with AWS for a Data Management as a Service offer that it claims is unlike any offer on the market today."
+    publishedDateTime: 2020-10-14T22:18:00Z
+    webUrl: "https://www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/"
+    ampWebUrl: "https://www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 189
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87719fb5aaa5aa86190ecf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1632%26cropY1%3D192%26cropY2%3D1416"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "AWS, Cohesity Announce Partnership Aimed at Tackling Data Silos"
     excerpt: "Cohesity has entered a data management partnership with Amazon Web Services aimed at helping companies secure, govern and analyze their ever-increasing amounts of data."
     publishedDateTime: 2020-10-14T10:14:00Z
@@ -41,22 +57,15 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Cohesity Announces AWS Partnership For Data Management Service"
-    excerpt: "Backup vendor Cohesity has announced a \"strategic partnership\" with AWS for a Data Management as a Service offer that it claims is unlike any offer on the market today."
-    publishedDateTime: 2020-10-14T22:18:00Z
-    webUrl: "https://www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/"
-    ampWebUrl: "https://www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/amp/"
+  - title: "IBM, ServiceNow Partnership: AI for IT Service Management"
+    excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"
+    publishedDateTime: 2020-10-16T18:53:00Z
+    webUrl: "https://www.channele2e.com/business/digital-transformation/ibm-servicenow-partnership-ai-itsm/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87719fb5aaa5aa86190ecf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1632%26cropY1%3D192%26cropY2%3D1416"
-        width: 1200
-        height: 900
-        isCached: true
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 19
 
 secured: "avBmGz2BGjJ3emNZ7IhAkMU/Nf3ydKiFZlmlZj5nCKwX8q+69KltHCjXnegFnQLTYccLaev6KMEa5YtCWLVK8lgpPdzAonVWSG1Qgon+YmNbpe6wmaBTuaB5XmomU84J0314+Kd2SVe9qIYAO8juWfxfYyMVTahE1xKfO2rf0gECBfd05yRNVMTYW0Fg7vWy6Oc1tTpFZArbkwua0IxMUy7B61gitOxntGiH5LZ0MIQO2wfrXXQv40+2WKvCoSX+bcvsF2Lr/DfV5RIZdSaJ0lFCQw3XkFYsn1tbgyIKLIquaG/zEh/TEbQpLwx6xv6hXmIF1n4E//+XqjpDkc38JclONpT0pkOfNPKrML8IJ+0alxY1gyUZMVyEDGsdbbyjU6+EgBNaeJ0Z1mxebkS0lUYGXSBct+nHSxUE43nosAj1BCCqy9Ux9fNI2/d8+Y2nUiHXYyHNqm/vjdRIb9Os81O+fF2x3jXjV1+howuEra+6OGOuNSqhYN8iSkyGGEiVVP1BtQtwTRRz4MFwoENPug==;0ejxEA12OpmwPafnVkSDog=="
 ---

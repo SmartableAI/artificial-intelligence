@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theaustralian.com.au/higher-education/robots-will-watch-
 cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Future reality: Triad of Internet of Things, Artificial Intelligence & Blockchain in action"
-    excerpt: "Read Sanjay Pathak explain how the triad of Internet of Things, Artificial Intelligence and Blockchain will shape the future tech on Financial Express: Blockchain today is still in its infancy, […]"
-    publishedDateTime: 2020-10-12T20:24:00Z
-    webUrl: "https://ctovision.com/future-reality-triad-of-internet-of-things-artificial-intelligence-blockchain-in-action/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 42
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
   - title: "Scientists voice concerns, call for transparency and reproducibility in AI research"
     excerpt: "Scientist challenge scientific journals to hold computational researchers to higher standards of transparency, and call for their colleagues to share their code, models and computational environments in publications."
     publishedDateTime: 2020-10-14T18:08:00Z
