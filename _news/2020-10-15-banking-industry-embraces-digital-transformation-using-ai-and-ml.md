@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/ai-machine-learning-redefining-ba
 webUrl: "https://www.analyticsinsight.net/ai-machine-learning-redefining-banking-industry/"
 type: article
 quality: 71
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -119,20 +119,6 @@ related:
       - url: "https://www.nippon.com/en/ncommon/contents/news/319933/319933.jpg"
         width: 450
         height: 338
-        isCached: true
-  - title: "How to use human and artificial intelligence with digital twins"
-    excerpt: "Learning Objectives Digital twins get help from augmented reality and artificial intelligence.  Data visualization tools date back to t"
-    publishedDateTime: 2020-10-13T05:03:00Z
-    webUrl: "https://www.controleng.com/articles/how-to-use-human-and-artificial-intelligence-with-digital-twins/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/CTL2010_MAG1_TU_IIC-cp-SAS-AI-DigitalTwins-Fig1-Digital-Twin-w-AI-1.png"
-        width: 645
-        height: 350
         isCached: true
   - title: "We Are Underestimating Artificial Intelligence and BCI"
     excerpt: "We are planning for AI to help universities recruit, oversee adaptive learning and drive intelligent chat boxes, but there is much more ahead in the near future. Are we are underestimating the future of AI connected through a brain-computer interface in education?"

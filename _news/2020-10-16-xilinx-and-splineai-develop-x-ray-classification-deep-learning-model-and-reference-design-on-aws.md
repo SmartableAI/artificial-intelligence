@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "X-Ray classification deep-learning model"
+    excerpt: "The solution’s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically distributed inference, and the ability to ..."
+    publishedDateTime: 2020-10-13T23:59:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/x-ray-classification-deep-learning-model/231155/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 24
+    images:
+      - url: "https://www.newelectronics.co.uk/article-images/231155/Xilinx.logo.2019.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS"
     excerpt: "CloseCurlyDoubleQuote; The solution&CloseCurlyQuote;s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically ..."
     publishedDateTime: 2020-10-13T13:05:00Z

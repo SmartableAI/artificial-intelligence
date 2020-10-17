@@ -1,32 +1,22 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-excerpt: "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting."
-publishedDateTime: 2020-10-07T13:48:00Z
-originalUrl: "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
-webUrl: "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
+excerpt: "Artificial intelligence (AI) involves using computers for tasks that normally require intelligent human behavior. AI systems can easily beat human grandmasters in chess, they have started to drive cars,"
+publishedDateTime: 2020-10-07T14:37:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    isCached: true
-
-secured: "UNbBoIXQx50n4eB/55p0GSI/bwlAKkm/7cYld4BevMTKBfi/6gEgEi1IFgyf7VybAuHOWLtJu01G5nFlbnAJfQYL1NsUZhBjY5PkJ1GsJep8BK3zEAIB4+uYaN0U8QuPPHZsqZ+XPg8DXuaPrh9anFC4AYHSoqQR0Er/xaMphXSgReeqHIXTh/SWbmq1Aq3gu2Pf/t0lHghUJ9L94c8J/Qoc86pdE8LDdiQzcsfqgUdQsEA48JuImcnSmK0aQ/6DVOF8VdmE8joORSFEO/1y3DGzG2YuUjSfWX9NZM0fEZreveSqS/es6NRKCi5bOBVM6HvWupy5fgwHqUkHGBX7pQfFewnwTVFb88+Hgz+eQN8=;2vmtsCuQrZpiivnU5AaJ1g=="
+secured: "eHYc1kFo211Abtuv4F8rjv0PjDTe0pLDxYSCAPWOA3Y2iiYMeVQxLksp5O7jT9i9iJRfex3GEJ4EnlhIb36CKVP/+bbSZ/I5wV4hNOLC/EDXggyiU5/jUgS0i4WJ1XAB3N16b346NliilAG9xvu2fz12MGfXGFkiObha2o+pMBssZ67RnbHoMPJtY9q5FttF0gvZ+s5L3rsMMw8+5ak7uc//HlOUKOOkFst72YCdk9tzZfm4TKgG5u5chswmP5t4Zy/p/gEhG5aQzgKsXgsgLuU6YHGVvuFzkNZWrA302e5TEEmnWPF2Djt+5POn77oLdhyDzmn6D5h9A5LHf10bzlLtSuwk51PwEXNH1nICOVA=;GI8ge0K4ylPc1lpZsxa5Gg=="
 ---
 

@@ -132,20 +132,6 @@ related:
         width: 450
         height: 338
         isCached: true
-  - title: "How to use human and artificial intelligence with digital twins"
-    excerpt: "Learning Objectives Digital twins get help from augmented reality and artificial intelligence.  Data visualization tools date back to t"
-    publishedDateTime: 2020-10-13T05:03:00Z
-    webUrl: "https://www.controleng.com/articles/how-to-use-human-and-artificial-intelligence-with-digital-twins/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/CTL2010_MAG1_TU_IIC-cp-SAS-AI-DigitalTwins-Fig1-Digital-Twin-w-AI-1.png"
-        width: 645
-        height: 350
-        isCached: true
   - title: "Satellites are mapping out every tree on earth using artificial intelligence"
     excerpt: "To train it, the AI system was shown satellite images where trees had been manually traced. This involved lead author Martin Brandt going through the arduous process of identifying and labelling nearly 90,"
     publishedDateTime: 2020-10-16T11:45:00Z

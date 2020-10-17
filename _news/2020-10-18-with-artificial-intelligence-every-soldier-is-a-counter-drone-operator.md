@@ -3,8 +3,8 @@ category: news
 title: "With artificial intelligence, every soldier is a counter-drone operator"
 excerpt: "With the addition of artificial intelligence and machine learning, the aim is to make every soldier, regardless of job specialty, capable of identifying and knocking down threatening drones. While much of that mission used to reside mostly in the air defense community,"
 publishedDateTime: 2020-10-17T18:28:00Z
-originalUrl: "https://www.armytimes.com/digital-show-dailies/ausa/2020/10/17/with-artificial-intelligence-every-soldier-is-a-counter-drone-operator/"
-webUrl: "https://www.armytimes.com/digital-show-dailies/ausa/2020/10/17/with-artificial-intelligence-every-soldier-is-a-counter-drone-operator/"
+originalUrl: "https://www.defensenews.com/digital-show-dailies/ausa/2020/10/17/with-artificial-intelligence-every-soldier-is-a-counter-drone-operator/"
+webUrl: "https://www.defensenews.com/digital-show-dailies/ausa/2020/10/17/with-artificial-intelligence-every-soldier-is-a-counter-drone-operator/"
 type: article
 quality: 37
 heat: 37
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: Defense News
-  domain: armytimes.com
+  domain: defensenews.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "5F75ZkdyQVy+JlBrtp6WUK4zihdc09RHNcaszLwF3EUt4Bgx5XIVo2zrOatsyEhogZ47pW/Ux2+1ehMncAvyO6hr+ha0yZrzdbCzhjWx/9ytanrzYOWxIPIQZhBDgg0gQrelqm8L3/dxcqev6INwiGiix5rlMcBEXKE+yLMVx4T6JJEnYGW2DtWHjkrPcWCiEOc/bfwhRUdOTh1cdyfnYfxFXQFZovVn5EoawNG5k7UxFLK5/lFZcghNPLKWpUxBskadt9ju4OKoW8p9F2Wgr2ZjU3oEBLf9GJtJGNStHXSOR9gpT5P6L4/XVbASdBtq20r1F1xuZC1IplndDbMoYIOQ5wMrGc5tw5hgXmibsOA=;kAa5jjlNAA9NlokifK90tQ=="
+secured: "GstiihsE8c8ha6CqKAZFqrNhAYjAZYZXU9Lx+MO2T1WOp3neF/k80ekzGzshYBCN1KhGs/ebiJk2tywelL22qQdJ/zqEQFYFEKphEXf5xGgcgNRD68Y9Tc0dfGtLEGFxg7O776xUjcj1c11jW7IfW8hrsTlTTV1sRnOyJCEtJF2m4PvSv54nNNOcTrgf4OlcGUYuPGxvj6aQB/GZ8w32I7RkkE370VQ4O7zHcMAUiEBuSLGl0xlTwZDlkhURwkFjCgWcPgy2SmXCpHy300t5Hd6YzqiboouWtSeg5GDBOcTmfQZ3rOuIw5FtoVeJ3wYg/hu8biZ7Ie2JXTXeY/h7Hg2DIP8hNRg5G9y3TZ2cFoM=;TNrCkEHf8+avLQkLuEoitw=="
 ---
 
