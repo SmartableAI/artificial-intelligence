@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Maine voters to decide on strengthening facial recognition ban"
-    excerpt: "This year, residents of Portland, Maine, will vote on a proposal to add enforcements to the ordinance that bans the"
-    publishedDateTime: 2020-10-12T23:21:00Z
-    webUrl: "https://whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/"
-    ampWebUrl: "https://whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 54
   - title: "Attendance in Sectt through Facial Recognition System"
     excerpt: "Employees of the Civil Secretariat will mark their attendance through a Facial Recognition system from next week. The use of the biometric attendance system, which requires people to put a finger on the surface of the scanner,"
     publishedDateTime: 2020-10-13T21:35:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Rights group criticizes Buenos Aires for using face recognition tech on kids"
 excerpt: "Human Rights Watch wants the city of Buenos Aires to stop using live facial recognition to identify children accused of committing crimes, the rights group said on Friday."
 publishedDateTime: 2020-10-10T03:23:00Z
-originalUrl: "https://www.reuters.com/article/uk-argentina-rights-idUKKBN26U208"
-webUrl: "https://www.reuters.com/article/uk-argentina-rights-idUKKBN26U208"
+originalUrl: "https://www.reuters.com/article/uk-argentina-rights/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids-idUKKBN26U208"
+webUrl: "https://www.reuters.com/article/uk-argentina-rights/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids-idUKKBN26U208"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26U208"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26U208"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 545
     isCached: true
 
-secured: "cOimiD8ZL3A8aKCJf4R/BQUV1HBmzldpisOh3W2nTaqcClFkYxf2Dd8aPuU0yS+vWVZQmR02YbORT4M84m3Iqml5uagOk9YyZwPEzKB4AI0E/lO0T7tOFyaO3I73Kvhf86uQPxixUJovk0zPDPuWEunOqwoFnq84JIDRDuHIzo/6+bVx6+2hjcu+huHXaTfciHJPTjEjZrwMkF15zM5L1+0WZEnHLQkAtxfbrcEyt++n5d29i1dKAUfY0V1+c9y9V65YXh+vcmAi4rSH90cjt9mYmdmaG+VRIM4AryXWlUKc5a8L+RCyrJ5tOl9g10qB0lPeH4UqQzr0a+wOrUiwWGd+SRz8Y1ARu+39kdCQLPY=;MROkvRSQX0OkS3Yb/3D5Ww=="
+secured: "Xt5QcQL/52V/b9R//AFpFUj9TgiGhMVeBR+MfZEXhlDLvUQghMBxQDbMi/k2/4tKISTziMZG8aPfgKiQNPzdcIlPOOnvlH2awSs0N/Mh3XnS6krGKl5n79wT7GuVcl1w+7C4aFER0/KV8elzLPtO9y3VG3OatasmlY8ZGueLM+cHNkUMhf4MT2OSmcVnMahHJl++OHXH7/CZkUXbekC64gFtYQjmpvdJREf3KdeXxcr2kq78EUnPDMpFColCRMV1X25wmgnmwLNEtRd1oACcND7v0gpIZM4VCFtIBD/dxXGxhwxOelA19EvWlRreWqzvqXnKZbOmRiljgg+rrWBo7kJ0HFNCC1ZpNVpcXnoZ4No=;8V91lPSHLsKYyflcgTiJIg=="
 ---
 

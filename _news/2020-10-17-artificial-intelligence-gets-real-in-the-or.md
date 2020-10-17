@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-17T05:00:00Z
 originalUrl: "https://www.modernhealthcare.com/care-delivery/artificial-intelligence-gets-real-or"
 webUrl: "https://www.modernhealthcare.com/care-delivery/artificial-intelligence-gets-real-or"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.modernhealthcare.com/s3/files/styles/800x600/public/2016%20autonomous%20surgery%20on%20pig%20-%20%20Surgical_WEB.jpg?h=59011727"

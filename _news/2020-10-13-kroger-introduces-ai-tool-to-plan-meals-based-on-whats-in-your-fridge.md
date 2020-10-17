@@ -9,7 +9,7 @@ ampWebUrl: "https://www.consumeraffairs.com/amp/news/kroger-introduces-ai-tool-t
 cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/kroger-introduces-ai-tool-to-plan-meals-based-on-whats-in-your-fridge-101320.html"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 700
     height: 411
     isCached: true
-
-related:
-  - title: "Kroger Uses AI to Match a Picture of Your Fridge Shelf with a Recipe"
-    excerpt: "Kroger is using visual recognition AI to help people make better use of the leftovers in their fridge. The grocery chain and agency 360i recently launched a Twitter account called Chefbot that can identify up to three foods in user-submitted images and search a database of recipes for the best match."
-    publishedDateTime: 2020-10-12T23:18:00Z
-    webUrl: "https://www.adweek.com/brand-marketing/kroger-uses-ai-to-match-a-picture-of-your-fridge-shelf-with-a-recipe/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 37
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/10/kroger-chafbot-PAGE-2020-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "EqrIpieVNyyM54o6J603JKSuUXBbg7TLPFtofxIVFrXiHBdjNpadSdXnffcCP3XSf0Z5igtL9C4Q17WSuvilPVXRkd9AxfKLptzxiuy0t9LmQ21oRSiq2zTqs76Rx8wrqME4tJtrOjUqpRhnOtrtTZxKV0D6xseFgYXq9tDFgFqzye9VCtd6Hq8pztMRyzjxZc3hYCH/RBHhC9mg7kqrIW1GvHEIoffJXyzhtnXLQW5bIn0WSSwIPuf6AqSGhP/04fcPTalog2tz/PZclcy7bLhRrnQjUmdFcyXXm2kE+wfr+0hWsuvppgxfxaqHUi+4PAQa+6FHhlvMlkQlh2i4KxmoPbPi+zTb1qH0YrHQYuA=;f5fcBFduXZxYIAqEuef75Q=="
 ---

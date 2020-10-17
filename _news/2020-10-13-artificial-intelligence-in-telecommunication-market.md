@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2157342/artificial-intelligence-in-teleco
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2157342/artificial-intelligence-in-telecommunication-market-size"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 600
     height: 351
     isCached: true
-
-related:
-  - title: "AI in Supply Chain & Logistics Market Experience a Revolutionary growth by 2025 | IBM, BonVision Technology, Intel, SAP, General Electric"
-    excerpt: "Global AI in Supply Chain & Logistics Market Size Study by Component (Hardware, Software, Services), by Technology (Machine Learning, NLP, Context Aware Computing, Computer Vision) and by Regional Forecasts 2025 ,"
-    publishedDateTime: 2020-10-13T00:01:00Z
-    webUrl: "https://ipsnews.net/business/2020/10/09/ai-in-supply-chain-logistics-market-experience-a-revolutionary-growth-by-2025-ibm-bonvision-technology-intel-sap-general-electric/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
 
 secured: "0rZ9HilAyPHkNHnLmOHPBL0ZylW7800h+elVJHaaL63NCnDbE6U0Wvx4LujdSmlC8cihxM2F9O39jpwl7rqxeYrqfoBCJhMI5X+G51x/OG2rxOI/DhKaIQEF5VOqqpsTy6MloWPPHZdmZAdy/6tlsoWvRv0O9w952G9+Xd4+gudreNablGrOm8iHAyIufoS8iKLln0NaZb2UrlvcJoZbJjbfI7KnFcuU0WbNheeSHUjFfYd34wBZPI2cIPqEvqhZgASwo8Q/xpqbnSgaGTufESrgcxNgGiNyVOg+YdTj/sCzUv4n65ooqY6tYy1qA4BCM3UkJ3ckZAqIYYo4bhUSXw2uncqLYiENFz4WZSQM7Fs0GJ2XbU6Z4K090pKYkqmSMuS+xTC7IaUefHPDBYMf+j6ziqDj+29eR064LWmjw0HU0oKvCi4VUXou5UsmKeg8wEi5FuuuqvTD1jqZlFWz7ajgvopcuVauKvXH9W/1ckVDOHEJSDAP2dORdub/LUhji5FjF/hY3N2bWKOdDr+VHg==;HvrmMj+rSEyi567lDULiAg=="
 ---

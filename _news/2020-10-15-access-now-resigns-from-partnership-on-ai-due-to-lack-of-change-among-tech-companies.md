@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/14/access-now-resigns-from-partnersh
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Access Now resigns from the Partnership on AI"
-    excerpt: "Access Now announces its official resignation from the Partnership on AI (PAI). Below is a letter sent to the PAI ... and red lines around use of these technologies, rather than an ethics, risk-based, or sandboxing approach. We are also advocating for ..."
-    publishedDateTime: 2020-10-13T00:00:00Z
-    webUrl: "https://www.accessnow.org/access-now-resignation-partnership-on-ai/"
-    type: article
-    provider:
-      name: Access Now
-      domain: accessnow.org
-    quality: 39
-    images:
-      - url: "https://www.accessnow.org/cms/assets/uploads/2016/10/Access-Now-theme-e1549381801358.png"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "y7HgGXz4qlm2l1TN/GX4SG8G7g7YbFSeoWt5Y/oWe5R9ll1nDBuOlLZmqyTK8lJiZA/z5ZJV9bWz2woxY3ITtrBadjCPKqQOPLwcg8A2LAyXcxfrMrqpfMJ3CvPiBWhKSkputfZz07QMr5KrERJfRna4DeD1yXaanvSjkO8yCqm0HzHKWSUJTdZ2Djm0yI8PxN6Xpmi0FXvrvHi6C1NcfL/VFkY33tw3QsMD4+jQtzWHEclnhQiu9lk6RhhBF2oFwEJ6EAWyTrEtgJ34j2MWHUqKJbI2gl2coK1oJ4PfI6ugbUHMaFJ+lYaQ3ZJ70mifqJHLI23pjKiQBco0o08qp6c7Vvd+/zMDGjgBZQHE3ek=;qct0XIEjlqGHHSgRHkLC6g=="
 ---

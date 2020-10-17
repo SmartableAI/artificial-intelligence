@@ -1,10 +1,10 @@
 ---
 category: news
 title: "BMC acquires CX expert ComAround"
-excerpt: "Acquisition combines ComAround's AI, NLP-based knowledge management, and self-service solution with BMC Helix to advance intelligent automation when building and sharing knowledge"
+excerpt: "Acquisition combines ComAround's AI, NLP-based knowledge management and self-service solution with BMC Helix to advance intelligent automation when building and sharing knowledge"
 publishedDateTime: 2020-10-16T16:05:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143408"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143408"
+originalUrl: "https://www.kmworld.com/Articles/News/News/BMC-acquires-CX-expert-ComAround-143408.aspx"
+webUrl: "https://www.kmworld.com/Articles/News/News/BMC-acquires-CX-expert-ComAround-143408.aspx"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 594
     isCached: true
 
-secured: "9CoX6sX0dc4NB9qn5DqlXfbc0pEcRRG+nf9OTL5s7oBnEE+Hxm9nEdWPr0fxwpJk8RPjLLPbg8uv6fazzHVFsq1ZPBRKxucstdhLTem+BnFtHyNo+wTMf5msE6lxdYnkw6eWx4pyVmKRZrQNVPHNxKLBAxghTmvw76P1+Wnkk3SbY+f57ynAANO4LH0Q2ID+Sg6HCteTe+JCgAtHqpwHtRJ+JXuBuuURrj1O86gjdjGENgXXDQnnIlkUtn0t5Yh5QYxNCnfc1jr51K6v+3Bg/1dfCho39DpLDFES9qkZasnhdR5g5FlpaEZJQDvbygtyosYWHdmt9Y3HKhxOsajLdTeKoleaGGS2RVHb6g2icI0=;kUM1x7mhzvu4eOf1FrvJqg=="
+secured: "SREjN8kSwmTAi+kUA4xMGaxAwG3W3rFxE9iTnk8bVdAcW1dCCIun+1kjs7jqwdaI0ZyV9mfWSwsHi+rjmGZLNzCDpDgDzgm8ODkYplBhynQRihJY4X9AZji+0ZcltoKpsQaZEbq89/C5kFHjUqBT+D07DsL+gAR4KKeHdrEeAM8U23O9upd28C9FFNByeuCGhoHdsH9QQW7QO/lUbqD88pGR+CGxIBtpPh833byY1KjQZ0LDJ2jCwE2Zl/SViCyPIxS3AcJlZt+6+88zzmlenLZ/6PVahXGj63wzFbwTFxkhDduLT0CnVhGHrMl3VsQ3Jup8fcE589TkvI+DSpGxeFEuJwI4s5uCOKysjCZvg8E=;fb7ExWpF7U5WVmFtVfPR/A=="
 ---
 

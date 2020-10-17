@@ -134,17 +134,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "UAE’s Fintech Galaxy to Focus on Financial Inclusion via Hackathon for Implementing Digital Lending and Other Financial Tech Solutions"
-    excerpt: "UAE's Fintech Galaxy to focus on financial inclusion via hackathon for implementing digital lending and other financial tech solutions."
-    publishedDateTime: 2020-10-13T00:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "gniZQJS8AydAk5O4vBRn/k/PycPSpLlc3ywWQl/iyCvdLOiMsHdo7vdd+bgGm+bDfmtHZqE5uz9xK2i9dbYV8U/PB6rIzS4VjL0eVJ9dSlx1Q0MNAu4JvR1dkdAHtZf9ctiwo5QKiy/hM0f/Frp18RG0hzM+JN2bN9DOcZfaHyzV/nxMJlKzivHrGUT/HS1sJVB/7PSCKP3kI3SwHY/yWejdja5B4YhInwZ3xULcJBhqQGoXHN5Wz0oW6G14e9QWFRdx3jsLUmATu+C/eMNuoEDoao0yQWWq1DMXlbYk6jTebD/FTQi5jlKXbdIksoGjTk8TbgquziJzV8NRth/k323v9KtNJKbuqTfQxeJWP50=;XE1Ho1oS/SvhtEofkk0KDg=="
 ---

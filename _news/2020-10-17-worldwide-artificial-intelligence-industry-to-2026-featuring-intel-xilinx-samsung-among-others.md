@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Worldwide Artificial Intelligence Industry to 2026 - Featuring Intel, Xilinx & Samsung Among Others"
-excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
-publishedDateTime: 2020-10-16T22:04:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/worldwide-artificial-intelligence-industry-to-2026-featuring-intel-xilinx-samsung-among-others-1029689939"
-webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-artificial-intelligence-industry-to-2026-featuring-intel-xilinx-samsung-among-others-1029689939"
+excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and"
+publishedDateTime: 2020-10-16T21:45:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-artificial-intelligence-industry-to-2026---featuring-intel-xilinx-samsung-among-others/article_786cf144-870e-58d4-96cd-3f6b9ab0bd72.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-artificial-intelligence-industry-to-2026---featuring-intel-xilinx-samsung-among-others/article_786cf144-870e-58d4-96cd-3f6b9ab0bd72.html"
 type: article
-quality: 33
-heat: 33
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
+  - AI in Robotics
   - AI
 
-secured: "+Yl6G8C5yEoxiz9bx8z2TOS2/XPkC1Zy2s6ezU2jIjrYynNZ54T5zojwZTD+Irrf1yHED2aSiCVvZ1wpm1aeddNHOKx20i82TvXJr1szz4TKKQ4sJliMODS6iT6rePInaTeOC+M6g+KplMTnY/a6FMjXi59muUbranzNe6uvzJyPai4hKCBWw6M1fmAyM46O2tdBwbWL6bVpr9VJ5SOdr4WOqL3gXynHZdNrNP642EDV1sGDyNAK5wAHeaqMdr0yJ9/YzUBGsS7fyKW7i1PiGGtiVna2ezdTKpM7AuASL2WoFOs/2rj9srCQUEDINZCJ9rg3Yv5Sc84Mfb/ejvJVxYNIS/1BlkMdorWUZzYvzZ8=;3/PclazKZ1p76DCgeovuLw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "83nhQlH/C4LDCzzAbsG2wENmctUcCGga/uxRqG64tDPYnDswiF2HCH2ggA05hxMup88CR5O+9MXAo0p34pOU+AXwzedqKc4wsxhWsJMiAiGYgXtoPcK9/qCvtddHJ6K0dpAEw+WFcMGthVwTWUq34/QjXkGYwfCSiMQIlwHURn+467pSi4ZUkL/mD6N422vVIGx0RtyNEi2hS9i+F/7QLqEGvqh/CnT/4IPWbpjyXcrEOMWsrOr7Muthbvg/fENb92hhugIj+K0t1iErt4C5LdYszcvI4/pJkvPzvLVeGsPc89G30C8esL16iTlL3L0OhHZXyiWIbs3JZTMLPZDmPozOM2aD+JUL6F7AuBYdIis=;Z824lrMvU+0gRYhKvnKTdA=="
 ---
 

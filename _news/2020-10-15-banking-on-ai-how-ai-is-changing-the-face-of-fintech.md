@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financ
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -135,17 +135,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "UAE’s Fintech Galaxy to Focus on Financial Inclusion via Hackathon for Implementing Digital Lending and Other Financial Tech Solutions"
-    excerpt: "UAE's Fintech Galaxy to focus on financial inclusion via hackathon for implementing digital lending and other financial tech solutions."
-    publishedDateTime: 2020-10-13T00:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "1xypEVbjRSR3rlVPLNVd0+nsHYIwJuXWNqehWqYH9Ji4WvFhBxqU7nhgQCVkw3080WiZ4AsBpE9b1NjPgMcoqKXwtXb8lTPsew2ZXtZkNE7Hhl+RA9NZNmjJMWxZXFnIfv+tSfeZ6B7HKSJjL0N8pOS4YY/O3GSxXKEJsKYGiYJZTuj4AvQI4rv+itgN+gPjxgwsd9HHOY9wkK6lY3ZObkLKBE1GvkYnmEQHpS0Qr5z29w92Xv7QxIi1ZbdpM0/NWgGXQhELO7oF2LbaqlykffqnDNN2Babuk//INj804icwshCSu2jvMr1ONS2Xux0yJ+a/0ncVnuqGO2pqBMZZKQwnQZ+vtteov10QmBMJ2s4=;4Y/U2rv3ayPOy5wi/wZnwA=="
 ---

@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Maine voters to decide on strengthening facial recognition ban"
-    excerpt: "This year, residents of Portland, Maine, will vote on a proposal to add enforcements to the ordinance that bans the"
-    publishedDateTime: 2020-10-12T23:21:00Z
-    webUrl: "https://whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/"
-    ampWebUrl: "https://whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 54
   - title: "From AI to facial recognition: How China is setting the rules in new tech"
     excerpt: "HONG KONG/BEIJING • Mr Zhao Houlin is head of the United Nations' telecommunications agency, an independent international arbiter that sets some of the rules shaping the modern technology industry. But that does not stop him from letting his patriotism burst into the open."
     publishedDateTime: 2020-10-14T22:48:00Z
