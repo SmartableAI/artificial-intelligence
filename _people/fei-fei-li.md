@@ -3,7 +3,7 @@ name: "Fei-Fei Li"
 bio: "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare"
 location: Stanford, CA, U.S.A.
 type: "profile"
-heat: 282
+heat: 267
 
 affiliation:
   name: Stanford
@@ -43,6 +43,6 @@ images:
     isCached: true
     title: "Fei-Fei Li"
 
-secured: "gGYoBU7aSHGd4xJl36MdOh1vSmKIlpsVX08AUiblm6yOcNGBfehf7Nce+rBg0da8bUe1c5K6F5e69WO9/oWM06bcXzd7c0zN+rMLqfkB+2hpsGraum+29OPx2Ch/AGwFjxUalNsagv+FjnjKb+pCSftF5Ie+UNZLAw0AbMNtWJ4txRV4fxJiyTBMSp2lEeb5VgsKfABWL87YIvTMo0Gp+oddneB/Tt2K6OCSowFu9apo/UURgyYym3sEOPdbQllOmYYjGn4SjDKFWIk2YMNkZjdTqElkGXO/ANjNtbYeuxlrK7SlqEWL52LgYOHOHb9ar3uHpaFI7DQw7VzmVnWuOZZuM34Whta9OMonjodYJrhUMnZoym3vojm60GI15dXWLzite6jB+kr8N2OSiqJHYppY98rmz3UMiHO5CcjGYUo=;PDYBxlI/hnRJjebnbPJbJQ=="
+secured: "vgqlC5rrmAeB3gdRc5d9uqyBzFf+qZw872oTV/A32vhIo4UnvDzAXDlNNpYgDLL+jwnixM5kNkEiCPaf0+uf/9NuZYwohPpwiB6o8B2gok15+tQ09gA6lznsMp+Fnl1m1Z0W3KgO46eaKKLqp1WZHPJyf/Aca48fY1ZnOuRoHPX/EAuJd1h4VAfKMxGog3DW0gkZmotb4GDEe/IWZhdGJQ78BPllSi4cNQ6TWlk5HPE1No7jr1CAbBu7B66YfcwBYtt+jhhVYuqpv8Kgj1IPOS5jMlECA33MzF4yRM/E4AmzV8pIU1YOAu0fBmk8LD9r/AhA1p+XapS5An1fv0NDxKmP6VQ8K9Md9c3Wai9096M/ICfcWVh9JCMBs4MtombKGfL5PeyTjNnodvZMxitAjUMRADRBUxewF4ZZl3SxbbM=;tj5LtDJHoqlXVCOD0+2BXA=="
 ---
 
