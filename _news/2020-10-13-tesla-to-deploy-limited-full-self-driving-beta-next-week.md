@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla to release ‘Full Self-Driving Beta’ to some customers next week"
-    excerpt: "Driving Beta’ to some customers who are “expert and careful drivers” next week, says CEO Elon Musk. Over the last few months, Elon Musk has been talking about Tesla working on “a significant foundational rewrite in the Tesla Autopilot."
-    publishedDateTime: 2020-10-12T12:45:00Z
-    webUrl: "https://electrek.co/2020/10/12/tesla-release-full-self-driving-beta-customers-next-week/"
-    ampWebUrl: "https://electrek.co/2020/10/12/tesla-release-full-self-driving-beta-customers-next-week/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/12/tesla-release-full-self-driving-beta-customers-next-week/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all"
-        width: 1820
-        height: 834
-        isCached: true
   - title: "Tesla will release 'Full Self-Driving' beta next week, Musk says"
     excerpt: "At Tesla's Battery Day event, the automaker promised that an early version of its long-awaited \"Full Self-Driving\" system would be available in \"a month or so.\" Now that a month or so has passed, a tweet from CEO Elon Musk makes it sound like everything's ..."
     publishedDateTime: 2020-10-12T14:59:00Z
@@ -256,20 +240,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla to launch full self driving beta test next week"
-    excerpt: "In what will be a closely-watched development, Tesla (NASDAQ:TSLA) is poised to let some drivers test full self driving cars next week. Last week, Musk praised the FSD advancements of Waymo ..."
-    publishedDateTime: 2020-10-12T11:48:00Z
-    webUrl: "https://seekingalpha.com/news/3621311-tesla-to-launch-full-self-driving-beta-test-next-week"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2020/10/12/saupload_tsla_1.png"
-        width: 612
-        height: 232
-        isCached: true
   - title: "Tesla to launch 'Full Self Driving' beta to select drivers"
     excerpt: "Tesla CEO Elon Musk has revealed that the company will launch its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers on. \"Limited FSD beta releasing on Tuesday next week,"
     publishedDateTime: 2020-10-13T15:03:00Z
@@ -299,20 +269,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/10/12/21/34306966-0-image-a-20_1602534251674.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Something Something Self Driving Boat"
-    excerpt: "As the philosopher Dr. Steve Brule once said, the most important thing to know about going on a boat is \"stay on the boat.\" (Or \"broat.\") This rule escaped a trio of guys doing a photo shoot on the water in Florida;"
-    publishedDateTime: 2020-10-12T12:03:00Z
-    webUrl: "https://www.allaccess.com/talk-topics/q/id/56232"
-    type: article
-    provider:
-      name: AllAccess
-      domain: allaccess.com
-    quality: 39
-    images:
-      - url: "https://a3.allaccess.com/assets/ads/300x250/company/Dr_Dave_Ferguson_VO.gif?1575484729"
-        width: 300
-        height: 250
         isCached: true
   - title: "Tesla Autopilot’s Flaw Found! Instant Apparitions, Phantom Objects Can Cause Full Self-Driving to Malfunction and Harm Passengers"
     excerpt: "Tesla's Autopilot was fool-proof and promising, as advertised by the company; still, Israel-based researchers found its ultimate flaw and weakness using"

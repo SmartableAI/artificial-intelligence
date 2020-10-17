@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-the-cost-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-the-cost-of-training-aws-deepracer-reinforcement-learning-models/"
 type: article
 quality: 134
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/08/1-1-4-840x630.jpg"
         width: 840
         height: 630
-        isCached: true
-  - title: "Getting the most out of Machine Learning"
-    excerpt: "From a concept considered to be an excessive and unnecessary spend just a few short years ago, Machine Learning (ML) has grown to have a significant impact not only on people's daily lives, but also on the ability of enterprise IT to"
-    publishedDateTime: 2020-10-12T11:39:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/706/209208.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 41
-    images:
-      - url: "https://biz-file.com/c/2010/579999.jpg"
-        width: 483
-        height: 471
         isCached: true
 
 secured: "fjcIP8bgAha6Lp6VMo1H+PTTGiorzyRKkjv6E5/IVPyQ/HVgYVtlp6wrFIG8pSr8FhXtWOhIUR62KwW+I5xI4Zdl7JFXB9fzK79fyaK84YJ5uumggrUY0IgL5VYPq5YpfsxtgzYq5iR8NqjiNy1ridnoemIDSmvzrgwRVCSg7puU1TBMTBgfqzsxgOWrRR7hm258mqKUe3nlu7Mob+Kgz+Gro1Aju5C6pMERvh7npOn7E+DVprlumzwvdy9pkJowKQVCBQxUP8/5BDTK6xSgWdz6XK4ZiBxrecSEAyxQfWSEpNWBuY+/H3f5ihOO0ay+HDhDu+tHGoSHiuGn521D5POW8twt7hrf206D0UZiCPM=;TM2r9on+0eblVASAisUb7A=="

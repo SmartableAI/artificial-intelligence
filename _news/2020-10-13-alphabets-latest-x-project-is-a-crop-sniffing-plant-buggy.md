@@ -47,6 +47,20 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Alphabet X ‘Mineral’ division launches with an autonomous robotic plant buggy"
+    excerpt: "Alphabet Inc.-owned X Development LLC, known for its so-called “moonshot” technologies, today launched a new division that’s designed to improve farming. Called “Mineral,” the new division is the result of an X project previously referred to as “The Computational Agriculture Project."
+    publishedDateTime: 2020-10-15T03:25:00Z
+    webUrl: "https://siliconangle.com/2020/10/14/alphabet-x-mineral-division-launches-autonomous-robotic-plant-buggy/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 21
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/mineral.jpg"
+        width: 700
+        height: 525
+        isCached: true
 
 secured: "RhBzN/qejoCq+kcVXpOCjJNni9/niy6i1JLD/BU/V5WUniYkYhPjiNoBkbWyHofXs/jat0j5ViiYe8GHmlrACPxQY2VPv3Sosat1ipk6V2BqYrWy6VaI2WsVmbBs8VSvDoZp+CbsG3OuCC1imeTiN/O7a2/Z6mAdEMqBrim/Xi6+VenJrTxPccF3juNGUpEWfqHQJ12I91pZnWMM/0AdIbCwtjIjx0KHr8wacJAlYGr95rJh3CJlD/D2apNH+Wzq87+O9xfCc8Vk/qElxy1bs82L10rlB+ej9wFY1Xv3Z6KcsmegudHuoQyRDrkuKKdwEAuYe3yapJhwVc3MIaGEh0ZCJKbG5r7qdEgEF7QMOjtGq9zFf15kdMPyER2VF7Wooo2eYmWzeL+tCqiMxRFHmhzjUWqBrKy+6tmXmEEL18XgbeKOLu+cy0+uxTHNu+9Dvba9R0mRzqkYJezev6KYSI2yvGBXnxrRK2qIdcbjkTNRJPpS3Aicu17j1/prt/uXXgYd2T/SAeZ27yRoSZLHNQ==;pmKju/ObgUjpygevadHX0A=="
 ---

@@ -39,29 +39,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "GE Healthcare Gets FDA Clearance for AI-Powered Cardiovascular Ultrasound System"
-    excerpt: "GE Healthcare said it received U.S. Food and Drug Administration 510k clearance for its Ultra Edition package on Vivid cardiovascular ultrasound systems. The healthcare business of General Electric Co."
-    publishedDateTime: 2020-10-12T12:26:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202010124366/ge-healthcare-gets-fda-clearance-for-ai-powered-cardiovascular-ultrasound-system"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 29
-  - title: "GE Healthcare Receives FDA Clearance for Vivid Ultra Edition, AI-Powered Cardiovascular Ultrasound System Designed to Shorten Diagnostic Exam Time and Improve Measurement ..."
-    excerpt: "GE Healthcare today announced U.S. FDA 510k clearance for its Ultra Edition package on Vivid cardiovascular ultrasound systems."
-    publishedDateTime: 2020-10-12T12:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201012005097/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
-    images:
-      - url: "https://mms.businesswire.com/media/20201012005097/en/51143/23/GE_Imagination_at_Work_Logo.jpeg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "7YOLyuRuC2iQTtjwWeqHz5DOXm/Koz1OTgFCCD5LfbRV/MYkeYtCjgiDU+fU1S7iWVKvvT1zG5serN3kotE03OapMnCC7zCMhyufMp1AAyWSrprzyN6og7gsZwPwJXAGUKPoS4IlTYe+3n6n2avDlzIwfgtVL9AbR2DzTGVagAYq5VWeQ3DWYYn97zSkh0P4tB2JwzHQcY0FQWpFOmk85pocqoTPLKKfyHlVFCE5OkwaNJRg2aVsiYJrX4hfm8Afp70FPkdYdz/f6RbJ1RJoJ3xK2cNGeafoVQYNR3PjFgYbeXGDdyX/lwZTjv971ZkBCIs4Y7/ZISdtafysDaYU2XhtwJ1L2jEy2EGrTjcqCqYQzZBPOXLPPXfJ59hFoqymW+oUr8DYwpenBFVTna7AMcciZ7Pi6hAEKk4EMR1u6MGseOZyz7mh3ypgb8l0Lzq2CJ6JvzZNBv/WzX7DmapZuwvmpXnXRzGIH+WbFK7JI+PsqqLhQgxPq41H4pO7mnF7Kc+fuACGk44weUud4n7B/A==;OHZjUxkGhjy+ijfcb/KS7A=="
 ---

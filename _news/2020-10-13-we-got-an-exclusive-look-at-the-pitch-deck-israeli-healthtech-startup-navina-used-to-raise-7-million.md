@@ -44,6 +44,34 @@ related:
         width: 775
         height: 521
         isCached: true
+  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
+    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
+    publishedDateTime: 2020-10-13T10:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
+  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
+    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
+    publishedDateTime: 2020-10-13T17:01:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "8HBbIirgM+l+nU77jYo/5y17476fl+lyHKtogRJmlyftUBOH3CQffLw6tzLmgr5Rw3PCFKzLgb0kpuDXll83KB+axKdbv9lNKSyCEiBbisa05s27U6wt6X82DjF1R887t10reaDif94baBBblKd/bxWx1yXzntKyfd+Nrxnmb+YnEz5rlpIPCoK8ashW+eogQABnvGa09vxZtoA7hlTSxgAbYVtQCb06SvsLCQRM2cPqNIzlC/6zuus2KUojrjqfMhGoOzWBlJpxXo2BdFfGV/P3okr+IZIT8/Fu4dDl9k0G84SzwmNCht6Z4lQcUNA5IwrImTex+Ja4+yLYZYIivAYegFc6IEdg5i3w5ZbuJX4=;l73Fh9aYOE7lPeEoPyBOXQ=="
 ---

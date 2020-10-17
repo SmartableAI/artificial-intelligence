@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20201013005224/en/Xilinx-an
 webUrl: "https://www.businesswire.com/news/home/20201013005224/en/Xilinx-and-Spline.AI-Develop-X-Ray-Classification-Deep-Learning-Model-and-Reference-Design-on-AWS/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ%3D%3D"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -27,14 +27,14 @@ images:
 
 related:
   - title: "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS"
-    excerpt: "CloseCurlyDoubleQuote; The solution&CloseCurlyQuote;s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically ..."
-    publishedDateTime: 2020-10-13T13:05:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
+    excerpt: "model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically distributed inference ..."
+    publishedDateTime: 2020-10-13T09:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/xilinx-and-spline.ai-develop-x-ray-classification-deep-learning-model-and-reference"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 21
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 51
 
 secured: "CbIP+I6KyL5yROTNtTn+TttCb8iZpyASEpmkPlOZrJUfdZq7FUJMMvtIyLzTIHKCkYJa69di4V5zLj3er0uelyci7awuMusnXWtY65jwd1Cs2kdr6nm00l3//vTgQyUPMKj9MA+jhuVkTa22nid1OCjpUnIjEhu43JtUJK4ZsDCz2trSt59d3u52pPGCJxAu7HxVJc2tb49elTUHCvEUsgH9CpQgTZSKNGhRMMnQFsK1Ssy9uIQ/XjiGD6dLSgC0ojLGydEi1wdEiQ0UGwFQZiTGVtsv/ur6swP+Hd1tUWWuGEB2UvrXYnOd6OWQ2nNPwvupTWSwZ6WjcER+eH+8O9vTA4qMkAjTOKOiAPY+TCE=;gAJucMJsk82vJ8+2qzAmiA=="
 ---

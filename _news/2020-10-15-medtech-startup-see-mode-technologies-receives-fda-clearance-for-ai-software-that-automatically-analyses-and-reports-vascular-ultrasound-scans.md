@@ -54,22 +54,6 @@ related:
         width: 400
         height: 387
         isCached: true
-  - title: "MedTech Startup See-Mode Technologies Receives FDA Clearance for AI Software That Automatically Analyses and Reports Vascular Ultrasound Scans"
-    excerpt: "Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to better predict stroke, today announced that it has received 510(k) clearance from the"
-    publishedDateTime: 2020-10-12T13:00:00Z
-    webUrl: "https://www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically"
-    ampWebUrl: "https://www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 21
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2020/LOGO_0.jpg?itok=EnrZtCRh"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "1fpJbtc52J2XXFKAJN3oJJGGTDhEyoTPVHZhmKDkCO7YkANDep2RJ90gYMWD//S102Ah8DutftMqWsfWhaWUNGurPDEwR2/wx3FYG36lU3gLCxxdjiL5sIY0oAFRa+W/VaMgXBRinqnqb6/BoE1zk9WLOvv7MqlnmMQpwc0BXhSaO4AnWpacK1wzJ7M8XyFICyIaC32oKYK2YzNhUEwOLE+tcJjj2sj6s9ySVmUFwWXQVNUBGYHlZwYjXGWVH/eASrFPY3h3renN6p/ummzVLP58t5xbyJO3FGgG34lWIpB1LuMyGVLtkS+1260eEWlhnGRMvgNTvTcj0BZtWZEeOnAqCf3k53pZjzUtAABATbDAtsBCZs/MPI6attHaviJQKWm6AMiM4C2N6WRKnTiKaG1HcqvHFwdL67xv1hj8o13kEfytDUPO4tzhK//aLjBGgtFi9GVpf6puE81YpiDuE6jwYfiUX9Op/MWTlPd/iAux9mhyN0CC7iFTYf4W9YE8NFRTgOIc/F7DVWpLze1F8A==;56RN1n0azMIBrCMHvqY1Lg=="
 ---

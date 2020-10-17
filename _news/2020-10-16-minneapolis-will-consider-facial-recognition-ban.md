@@ -3,8 +3,8 @@ category: news
 title: "Minneapolis Will Consider Facial Recognition Ban"
 excerpt: "The motion could signal a wave of reforms over the use of military and surveillance equipment following the killing of George Floyd by Minneapolis police."
 publishedDateTime: 2020-10-16T13:21:00Z
-originalUrl: "https://www.vice.com/en/article/epdgdj/minneapolis-will-consider-facial-recognition-ban"
-webUrl: "https://www.vice.com/en/article/epdgdj/minneapolis-will-consider-facial-recognition-ban"
+originalUrl: "https://www.vice.com/en_us/article/epdgdj/minneapolis-will-consider-facial-recognition-ban"
+webUrl: "https://www.vice.com/en_us/article/epdgdj/minneapolis-will-consider-facial-recognition-ban"
 type: article
 quality: 69
 heat: 69
@@ -28,6 +28,6 @@ images:
     height: 674
     isCached: true
 
-secured: "Iy/8X5oja9aKq9hGHPzWTDuYpt123j0uuCIpAGV2Z6PTtSZbPNgtVs2bBZnhzMFHw87s0ZX09FIprq/A+AF9lkA+hr6VaSuCzkFkxPPW5sHeBhh1exHNR4cdMOtLWpC76LqjIeKxRmVj2q4DlF2iNDdZPvxjnhHQYAAfRS4M9wGEeWCEvPBEmqHCYseikgz5KoosCAd2fM37xQ6O/ccmS6sVjGViLmNWjYDejL8LufcK3/LwgdCOxEf2i2oFUm8s2b/DnyESAb/BVcvBrT1QCRYZ6Ak/XkT8kt8GdhrKcXe84nRLHfA+N85/GHqSJs0nmum7Zk8kw0dyBPOdTjTranENMITpiWiW8Xc0fQFXQDZgpn2nTM9kPOk7FvnssS82JVAFrsDq+Po9FaAXZITf262TD3GcuVAYToMxvc/Url4TqMHHSVO3lg9rczIJFYmhqX+7NcDGq2FPFRccEjzgV5nhWSxm8yParJw8sYTF03iZBmtY/KwFCFILwndvD7t32m6wbO+EpdF3Ecjg3Ahglg==;2KW4myH2GrtPOga2wZtsaw=="
+secured: "zFVH3ySbvEitFSN7V1pvftWiTA5tPecbxr28RUKVW6eerB31A8QLweH4gua6Q2FdujyDkcJfKVTidyUgqetiWUZ/C63Ao1V5OL5bezV4sxqnwQr/RDOK983rpCK7PS82pBacIUV0b0BK4HhToji8wXN9luVII2YOGTapEbWbijuFYtlFPMHadOpAVsLI8v8pKplNnOPUC+1LbZtWdVl7tZdyMvOJn/OuCl5KUkG7cRkaELXe6yoqIfEejEFiDm/uPMm21G2BZwQ7zttRVJwMWsog8fv4AG7+n/oxYB6+3S96eX3IuYHK1xKQlw8xslr9hHWP+tcfRWK05jvHYXCGvLU6Z6Nxaj+A8UyrAvXJ3V8=;NRGxZM+dptFBlMd4kxySRQ=="
 ---
 

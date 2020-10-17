@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3574
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357448/how-can-artificial-intelligence-help-in-the-fight-to"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

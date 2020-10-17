@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/business/intel-india-sets-up-centre-for-art
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: The Hindu
@@ -27,37 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Intel’s Hyderabad AI centre to focus on road safety, health"
-    excerpt: "Hyderabad, Oct 12 (IANS) Chip-making giant Intel on Monday said its newly launched applied Artificial Intelligence (AI) research centre in Hyderabad will focus on identifying and solving challenges in the healthcare and smart mobility segments through strong ecosystem collaboration."
-    publishedDateTime: 2020-10-12T11:13:00Z
-    webUrl: "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/"
-    ampWebUrl: "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/"
+  - title: "Quick AI adoption essential for future of work in India, says Intel"
+    excerpt: "Intel said that Artificial Intelligence is essential to the future of work in a post-pandemic world, with over 90% respondents in a survey considering AI to be essential to their businesses in India"
+    publishedDateTime: 2020-10-15T09:15:00Z
+    webUrl: "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
     type: article
     provider:
-      name: Newsd
-      domain: newsd.in
+      name: Business Standard
+      domain: business-standard.com
     quality: 59
     images:
-      - url: "https://newsd.in/wp-content/uploads/2020/10/7d5acabd43d2a9d0db88a1ae63b5211f.jpg"
-        width: 400
-        height: 255
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/19/full/1560959403-0446.jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Intel India sharpens focus on human-centric AI"
-    excerpt: "Bengaluru: Intel India is focussing on human-centric artificial intelligence (AI) for solving problems in the healthcare and smart mobility segments, Nivruti Rai, country head, Intel India, said at the ongoing all."
-    publishedDateTime: 2020-10-12T11:14:00Z
-    webUrl: "https://www.livemint.com/companies/news/intel-india-sharpens-focus-on-human-centric-ai-11602499977854.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/intel-india-sharpens-focus-on-human-centric-ai/amp-11602499977854.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/intel-india-sharpens-focus-on-human-centric-ai/amp-11602499977854.html"
+  - title: "Artificial Intelligence Assists With Better Battlefield Intel"
+    excerpt: "For future battlefield operations, speed is the name of the game. The side that can make decisions faster has the advantage. A new, AI-enabled effort by the U.S. Army can give operators the ability to detect,"
+    publishedDateTime: 2020-10-12T21:51:00Z
+    webUrl: "https://breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/"
+    ampWebUrl: "https://breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/amp/"
+    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/10/artificial-intelligence-assists-with-better-battlefield-intel/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
+      name: Breaking Defense
+      domain: breakingdefense.com
     quality: 57
     images:
-      - url: "https://images.livemint.com/img/2020/10/12/600x338/Nivruti_Raibloomberg_1565544177175_1602500571810.jpg"
-        width: 600
-        height: 337
+      - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/10/AH-64-Apache-helicopter-gunnery-training_640x427.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "US body on AI calls for creating India-US strategic tech alliance"
+    excerpt: "The newly-created National Security Commission on Artificial Intelligence in its report on Tuesday said the Department of State and the Department of Defence should negotiate formal AI cooperation agreements with India, Australia, Japan, New Zealand ..."
+    publishedDateTime: 2020-10-14T09:56:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643"
+    ampWebUrl: "https://www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 57
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_281592419.jpg"
+        width: 660
+        height: 440
+        isCached: true
+  - title: "A policy framework for the technology can accelerate development in India’s AI sector"
+    excerpt: "Tata Sons Chairman N Chandrasekaran addressed the key aspects of AI in education, healthcare and data governance that India should take in order to become the global AI capital."
+    publishedDateTime: 2020-10-12T13:43:00Z
+    webUrl: "https://www.analyticsinsight.net/india-can-ai-capital-needed-improvements-existing-programs/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 30
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-13.jpg"
+        width: 1680
+        height: 840
         isCached: true
   - title: "Intel, IIIT-Hyderabad, PHFI And Telangana Government Launch Applied Artificial Intelligence Research Center"
     excerpt: "The new center will focus on leveraging artificial intelligence (AI) to solve India’s population scale challenges in key sectors such as healthcare and smart mobility Through collaboration with"
@@ -70,6 +100,20 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 21
+  - title: "HSBC UK introduces interactive voice response system for call centre queries"
+    excerpt: "HSBC UK has begun the introduction of a new voice-driven menu to assist its telephone banking customers, enabling callers to state their intent verbally and be directed to the correct team automatically,"
+    publishedDateTime: 2020-10-14T18:02:00Z
+    webUrl: "https://www.finextra.com/pressarticle/84506/hsbc-uk-introduces-interactive-voice-response-system-for-call-centre-queries"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 21
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Intel's Hyderabad AI centre to focus on road safety, health"
     excerpt: "Chip-making giant Intel on Monday said its newly launched applied Artificial Intelligence (AI) research centre in Hyderabad will focus on identifying and solving challenges in the healthcare and smart mobility segments through strong ecosystem collaboration."
     publishedDateTime: 2020-10-12T17:29:00Z
@@ -79,6 +123,24 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Intel, CBSE deliver virtual lesson on AI to 13K students in 24 hrs"
+    excerpt: "New Delhi, Oct 14 (IANS) Chip-making giant Intel and the Central Board of Secondary Education (CBSE) on Wednesday achieved a new Guinness World Records title for most users taking an online artificial intelligence (AI) lesson in 24 hours."
+    publishedDateTime: 2020-10-15T01:08:00Z
+    webUrl: "https://www.sify.com/news/intel-cbse-deliver-virtual-lesson-on-ai-to-13k-students-in-24-hrs-news-education-ukoqlDgefedec.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
+  - title: "Healthcare Artificial Intelligence Market Bigger Than Expected | Intel Corporation, Nvidia Corporation, Google"
+    excerpt: "Download Free Sample Copy of ‘ Healthcare Artificial Intelligence market’ Report @  Key Segments Studied in the Global Healthcare Artificial Intelligence Market, IBM Corporation, Microsoft Corporation,"
+    publishedDateTime: 2020-10-16T11:01:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/16/healthcare-artificial-intelligence-market-bigger-than-expected-intel-corporation-nvidia-corporation-google/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 14
 
 secured: "qGzNhuN+SwESHLT8d4l0TF/NKXcnSgn6L92P2hkRhr+l6DAd1fJKzzBrbBnntBV3MF1MWehSY7NpONy1OsngY8epshtw1ZdXUHpmSt3Ne1WVR29Dt0mCnfMatIZ1PvUEMDhgKQ8O7t4ZSOTEwIzONqeX7F/U6ITtdA3Sti3jN5zEOo109TBCwt+4yTgHV+gXOcHOz8N4mCNydSo9HP/LPuSDf2B8WijyMXX1EZm/Hl2QfrqbnCPEUBKaxXQvZrLQZ3CPyl/2aXbWAWx2CNa3IT2xUwzyhTx50rNvcu6gSqYZgIFHQK0SIaHSCRy5Xkqv1Whlj+3eGwg7SdbjNDoWy4L0bGTlUNel/R1Ht7RxrFMj4x9jjCfpPVV2NfKcWEZgnucAY6AVeV4Mru42BCZv2kmF0RUPB3DVFGY6YovknQegehQSNYUfRpMTZD52e4Z/XH4g74dXBVAmUauHlbYOziU0hSlBGu20YxNqnZvNQ+ntWFi01Cpe8auzWol32kP4sufrw3puYr61kmwyl0e7Vw==;9rQyHOSRdNDgfOgjwEAMNA=="
 ---

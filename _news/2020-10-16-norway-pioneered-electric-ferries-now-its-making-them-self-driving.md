@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnn.com/travel/amp/norway-self-driving-ferries-zeabuz-sp
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/norway-self-driving-ferries-zeabuz-spc-intl/index.html"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

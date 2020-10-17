@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 771
         isCached: true
+  - title: "7 Steps to Deploying AI-powered Self-service during the New Normal"
+    excerpt: "It’s no surprise that AI-powered self-service is gaining traction with customers. Even before the pandemic created a New Normal, 73% of consumers said they wanted to solve their issues on their own without having to engage with a human customer service agent."
+    publishedDateTime: 2020-10-17T04:14:00Z
+    webUrl: "https://customerthink.com/7-steps-to-deploying-ai-powered-self-service-during-the-new-normal/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "rAM732B+V8zxlN1cveTaXTEzsjQydjS+Dxu1DqU9N3DJcUk/Xy+EXXVnu1rw9Tsb9+kJnV3ZVLgEStHMLMHPMYSKjj7s9tBPun75nsIZxpOaeSU636kBZwkE0zeg4JCvr0JA+Zl2HGDr7g21ocbysy5Ebq5k/tdL0QFGvrRRymZwbOFEKAp/bkJVDw6EXwU7LdrehcpcIDnYlst+mG92wMLEOo7z6x/aReRU+++LOdscny+XoDYAyAsT3mnp3CXOsO1PN6tn3oImPKBEFLzjyE2SCRxRWzRzZeKCSC2mLDCsCA2JXs0flDHI5xeMV6jGqEPWZnToiTQ/SGSHHhfvRz9avAcJqdOQZpcJA7TeqA79xW+Okyx3ZYxNU7/JeEoIMxkBwUGvGssuHht3xF6R1rlrFTV317RlDQT66JDCJDCLbGUVS78gm1jwTSzYfeTW88GjI3GE7j7UwyAc3mAOa9NEw93usx5ooM7L5+7Z41ONp5wBmS89rNGaLkXM7PkTmvH9vnoS3M/Hb02ylxm4cw==;Ywt6/RYhDgA1KfWtXzluHQ=="
 ---

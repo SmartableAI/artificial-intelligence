@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/its-time-startups-use-ai-battle-tech-giants-
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/its-time-startups-use-ai-battle-tech-giants-patent-wars-3061146?amp=1"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "All the AI partners that Walmart is working with in its transformation from retail giant to software powerhouse"
-    excerpt: "Walmart is also building much of its technology in-house after adding thousands of data scientists and software engineers."
-    publishedDateTime: 2020-10-12T12:03:00Z
-    webUrl: "https://www.businessinsider.com/the-ai-partners-walmart-working-with-become-a-software-giant-2020-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-    images:
-      - url: "https://i.insider.com/5f8089e3ea74820019ca63b6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "bKyIMcRyyyCy5vCt8SK0vZIqOAdHyYZe1DGsVwHi2Zl+HYSUGt5SvGAGLtYD3Z6J/vrPyVsgPyEtAUvtrXo6POGIFjKPduT2WTXHNwdqHXuzRa/gXOoGqJWWY6yDD95AydEzJpB0JxwK95jhgHYAkrJDT3wOQfHei4RwUtpHIDx1k0TlIfdTl9WKcVdDRibXz5KRwPHQgf3FIrvieRwg8RWaVBfCLXlFU8xOkRw9X8c+HLsHruzEsF7RiiUtKXBLM5+2Oan9pKrVdS8I5D2TFsfSpdJCWUQAWBHPwKLsD1WAwsNFonXBk4R7QtGgx2skDLaSS26WCXzIU+VGBw4NcvdXFo3XXIVhkz6/g/Eg/UEsxm/kjDs6EYqdXgie6Y5x3gsbThgxv9JV591qB0TkPtNOPB33x+BVR7fNo7efRUpVrYdJ0MvZAlz68TdAao3W/ei5COIJ76nRd2lJxFiQiwe/t1jilMluioASpfslWw+Wd6ayYItpctO5eTb8untO2G4GpXXZ/nxNp3T13UTvwg==;gKRyLoE4cboxr9gQ3bhNcA=="
 ---

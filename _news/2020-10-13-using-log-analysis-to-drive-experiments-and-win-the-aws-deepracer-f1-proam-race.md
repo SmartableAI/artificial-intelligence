@@ -44,20 +44,6 @@ related:
         width: 900
         height: 556
         isCached: true
-  - title: "Getting the most out of Machine Learning"
-    excerpt: "From a concept considered to be an excessive and unnecessary spend just a few short years ago, Machine Learning (ML) has grown to have a significant impact not only on people's daily lives, but also on the ability of enterprise IT to"
-    publishedDateTime: 2020-10-12T11:39:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/706/209208.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 41
-    images:
-      - url: "https://biz-file.com/c/2010/579999.jpg"
-        width: 483
-        height: 471
-        isCached: true
 
 secured: "ZShW0AofUlKBN6T1KlPt1b+1Bomg4ZX7Yi5GdA60fsPp+03JTe8k/5qAp4Gve+lBjqqwBTCEwVoHPXigD0JQztTk9e/F+ulAM9oxGj4P17eKxVL74JM9by+lDuDARKFKX7f1yGTkOAPT0W/9s6SgqxoNqqmDa2yOtweZfpcDnJgkJDCiK2mOccusEHQuYDAKeZeFF/8dq6tmdhevqYl5a3UmFGpHPJuQHoenDdSA9TZd5/8Gk17DToqevhoG7shJ2fzjUof2HqRXNEsvdbMWRLWSCgfOipWd2q5kaDdjypQJgU5LtgT4Uej+C3Lg16GnU+6cEfaaCiVsEEgSkydFklNvUvkR1sGyC/VTqLqtC34=;o7o2kURbvCpGf439rt4xsg=="
 ---

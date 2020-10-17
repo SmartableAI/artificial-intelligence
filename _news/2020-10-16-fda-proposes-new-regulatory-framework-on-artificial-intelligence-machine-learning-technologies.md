@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201016/FDA-proposed-regulato
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201016/FDA-proposed-regulatory-framework-for-modifications-to-ALML-based-software-as-a-medical-device.aspx"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1313348/See_Mode_Logo.jpg"
         width: 400
         height: 387
-        isCached: true
-  - title: "MedTech Startup See-Mode Technologies Receives FDA Clearance for AI Software That Automatically Analyses and Reports Vascular Ultrasound Scans"
-    excerpt: "Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to better predict stroke, today announced that it has received 510(k) clearance from the"
-    publishedDateTime: 2020-10-12T13:00:00Z
-    webUrl: "https://www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically"
-    ampWebUrl: "https://www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 21
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2020/LOGO_0.jpg?itok=EnrZtCRh"
-        width: 763
-        height: 509
         isCached: true
   - title: "MedTech Startup See-Mode Technologies Receives FDA Clearance for AI Software That Automatically Analyses and Reports Vascular Ultrasound Scans"
     excerpt: "Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to better predict stroke, today announced that it has"
