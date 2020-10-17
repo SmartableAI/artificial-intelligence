@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vein biometrics could answer security challenges of face recognition"
-    excerpt: "Vein recognition is a biometric modality around which activity has picked up substantially, in terms of research but also pilots and new products. Nok Nok Labs VP of Products Rolf Lindeman tells"
-    publishedDateTime: 2020-10-12T17:01:00Z
-    webUrl: "https://www.biometricupdate.com/202010/vein-biometrics-could-answer-security-challenges-of-face-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Biometric vehicle access forecasts climb, facial recognition features in more new car models"
     excerpt: "The market for biometrics in automobiles continues to see increased supply, with Cadillac, Buick, and China’s Human Horizons launching new models with facial recognition, a new document-signing"
     publishedDateTime: 2020-10-16T16:13:00Z

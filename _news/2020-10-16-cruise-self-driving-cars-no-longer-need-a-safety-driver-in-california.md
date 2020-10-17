@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Hidden Factor Steering For Trouble In Latest Elon Musk Versus Waymo Self-Driving Cars Squabble"
-    excerpt: "Latest spat of Elon Musk and Waymo highlights steering for troubles in self-driving. getty. There is an elephant in the room, but it seems as though nobody is noticing it. In the"
-    publishedDateTime: 2020-10-12T16:01:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8393a16e24fdc40c0501f3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3685%26cropY1%3D1078%26cropY2%3D3843"
-        width: 1199
-        height: 900
-        isCached: true
   - title: "GM's Cruise plans to test unmanned self-driving cars this year in San Francisco"
     excerpt: "The company received a permit from the California Department of Motor Vehicles to remove the human backup drivers from its self-driving cars. Other companies to previously receive such a permit include Alphabet's Waymo, Autox Technologies, Nuro and Amazon ..."
     publishedDateTime: 2020-10-15T18:03:00Z

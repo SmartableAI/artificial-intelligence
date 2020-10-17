@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-surgical-robo
 webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-surgical-robot-startup-raises-funds"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Chinese self-driving cars ready to roll abroad"
-    excerpt: "Chinese startups in the field of self-driving or fully automated vehicles are beefing up their presence in foreign markets. Their move comes in the wake of China's imminent lead in both related technologies and their commercialization in the global market."
-    publishedDateTime: 2020-10-12T15:38:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202010/12/WS5f83a900a31024ad0ba7df6e.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202010/12/5f83b5dca31024adbd99324c.jpeg"
-        width: 574
-        height: 382
-        isCached: true
 
 secured: "9lzRa7gkwYPN0WID/gVhPvMfDu/y9HoTwGD7NTg1sl2e94inZ+Ns7zXP96yqXU7djaI5J+2qjcDrtk+NwUKf/vv7jU0llhYjzt8gJ8G9Hw0cPKRkAQ1pJInNUZAr6vj7e50FDXN5nDu/xJxQOSje8R5MZAHxEuizF5UixSb2OTjpxOW1mu2ItpjmtfHT0Fo0euO9Vz90p0atmtI1u9teRC8qnjJJwXp/370EiqjHcErT67cdH7D0/5pCeV0ixAXrzgOGZKcuEKmyN64pdP2Ek++jzOcZGv5gFrWiSwTNAFHg00gp77gIXyj1RWKCR2ZW5f+6E14SNJsoAooSGbPCAOSiw+wewY6Zi+V5kCmdAA9yHMAf5yAjTz3wCX+kQawJmcwSJP7XDw8tA4ECRUpfVkCK9Af6L+cudfEqr5ghR4KOCnT7K1ioo47hvvjFnUy0WAN+mpyHJ00lHmMer+0X3rg3NdTGLkiCLhpE3NBbxX8HbtNVqR/6VVPlb6Na+DQ3iXe8/ucGp2w5IeDvSfffTA==;OBMm20SntiH9ljAcsE87FQ=="
 ---

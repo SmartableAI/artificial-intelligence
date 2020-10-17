@@ -2,7 +2,7 @@
 category: news
 title: "SensiML to Present at ST Developers Conference"
 excerpt: "They will walk through an example application showing the process start-to-finish, highlighting key opportunities, success stories, and even potential pitfalls of AutoML-based algorithm ..."
-publishedDateTime: 2020-10-14T09:00:00Z
+publishedDateTime: 2020-10-14T13:59:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 208
     isCached: true
 
-secured: "6i8bk+piCOXd9QtckjWqHfjei77UI34QDNlHFRzXs3CcSBqtJfwJcj1HB3v6J9UM3faFJa/fkukOEcvSAgfs0/JAFECC/SbTfpM0FLxA6wfhCObXWY5ef6213kOQqY7pbyhBWdaSGkJb0UGgt0TDjdb0aK9g5u2mau55KP7e4qcHfeVI6+S43HA/60X4p6wYc1HYMM4m0WaoSYpLClXyuxF9BYoDrc91OL/3mr48+2BJwguX+xfq/d/mhm9gzT1JzNIypIWfqTM2EExM58ujt2Z4XFLgz55WLZ5g+DwpCm2nEGsKEF3/WgVeq1R0JypnJp0+jv6zYQgAepf4s6lSwBl9lDOFqTmNUWTONdZq5zQ=;OkREwC6ovGVVBjEBANw5pg=="
+secured: "SJW12Q6hZDSeR6PsHsSoEN62SlYW4x1SrOLaLglTDNUVkQPucGAR8zMIwP5w9wFYKIrGnGqdK80PXXhrmLwf4batuH6vKFJTa3q4em/yqhQ6MKQtTtQBiStqgMH0oTlu9kxxqAkFandGcXvB/JkyUZk4pXZl/GfZ23mns0sdMJDZwHODYh5myqff0jC8gOaoTfsry0fFVISF4i8OS4gA9EDDZYSrfpQF6G4jH3FlOpmBUpSqGmHas5XCTZsgzhCfaMVgtff2JdRBXrrdm+BQkBmsSLrpmOKeeUkMLhVBmOn2rq69T7t5sSkrQTw5du+pOTV6+rHsucBnUYlE5R7JGyP2LuYDa4cTg/f9UUhcviI=;A5Jy3YojLNv6nheWgllqKQ=="
 ---
 

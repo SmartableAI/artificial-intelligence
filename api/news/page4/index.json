@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-14-google-applies-its-ai-tech-to-reporting-with-journalist-studio-tools.md",
+      "title": "Google applies its AI tech to reporting with 'Journalist Studio' tools",
+      "excerpt": "Since introducing the Google News Initiative in 2018, the company has used the $300 million journalism project to fight disinformation and help publishers make money. Now, Google is also investing in journalism-specific software with Journalist Studio,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-journalist-studio-pinpoint-110047367.html",
+      "originalUrl": "https://www.engadget.com/google-journalist-studio-pinpoint-110047367.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Facabd040-bda7-11e9-9375-c6783a4b6790&client=amp-blogside-v2&signature=2a41f5932ac8b45dcc96b31b7cbb9fe9bd53627f",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-journalist-studio-pinpoint-110047367.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-journalist-studio-pinpoint-110047367.html",
+      "publishedDateTime": "2020-10-14T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-why-do-most-ai-projects-fail.md",
       "title": "Why Do Most AI Projects Fail?",
       "excerpt": "Many organizations fail to understand that the AI model is just as important as the final integration of which it will be a part.",
@@ -1035,7 +1086,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1122,7 +1173,7 @@
       "originalUrl": "https://www.openpr.com/news/2156548/global-artificial-intelligence-ai-in-drug-discovery-market",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1153,50 +1204,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity.md",
-      "title": "Announcing advanced Azure Machine Learning nanodegree program with Udacity",
-      "excerpt": "Earlier this year we announced a free ‘introduction to Machine Learning’ course with Udacity, empowering 10,000 scholars from all over the world to learn the basics of machine learning. Today, we announce the new Machine Learning Engineer for Microsoft Azure Nanodegree Program on Udacity—students can",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/",
-      "originalUrl": "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T02:00:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
       ]
     }
   ],

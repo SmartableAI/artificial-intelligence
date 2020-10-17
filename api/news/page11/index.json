@@ -2,6 +2,163 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-06-this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake.md",
+      "title": "This EU-funded AI rates how hideous your face is — for society’s sake",
+      "excerpt": "an EU-funded project that explores how AI impacts ethics and human rights. [Read: Amsterdam and Helsinki become first cities to launch AI registers explaining how they use algorithms] The site ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-06T122203.810-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/amp/",
+      "publishedDateTime": "2020-10-06T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation.md",
+      "title": "AI researchers challenge a robot to ride a skateboard in simulation",
+      "excerpt": "Nvidia AI researchers say they created a more energy efficient and effective way to make four-legged robots walk.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/06/ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation/",
+      "originalUrl": "https://venturebeat.com/2020/10/06/ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/maxresdefault-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/06/ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation/amp/",
+      "publishedDateTime": "2020-10-06T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think.md",
+      "title": "Fintech In Asia Is About To Look A Lot More Chinese, But It’s Not Who You Think",
+      "excerpt": "Nowhere in the world has fintech had more of an impact than in mainland China. From making a payment on a phone to borrowing money, hundreds of millions of Chinese individuals and businesses have turned to digital apps to handle their day to day finances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/",
+      "originalUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c7d273c98dee7a40a3b21%2F0x0.jpg",
+          "width": 1199,
+          "height": 821,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/amp/",
+      "publishedDateTime": "2020-10-06T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-this-robot-fry-chef-on-rails-can-be-yours-for-30000.md",
       "title": "This robot fry chef on rails can be yours for $30,000",
       "excerpt": "The robot uses machine learning to identify foodstuff and a camera array (which includes a 3D depth-sensing cam from Intel and a thermal camera) to navigate its environment. A robotic arm then wields a spatula and grabs baskets full of food to fry.",
@@ -1029,145 +1186,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-artificial-intelligence-technology-solutions-announces-board-of-advisors.md",
-      "title": "Artificial Intelligence Technology Solutions Announces Board of Advisors",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce the formation of a Board of Advisors for its",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-board-of-advisors-1029648352",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-board-of-advisors-1029648352",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-board-of-advisors-1029648352",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-board-of-advisors-1029648352",
-      "publishedDateTime": "2020-10-05T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-crown-point-will-not-install-facial-recognition-cameras-to-help-in-covid-19-contact-tracing.md",
-      "title": "Crown Point will not install facial recognition cameras to help in COVID-19 contact tracing",
-      "excerpt": "Crown Point, Indiana will not be installing a facial recognition network camera system to fight COVID-19, the city announced Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/society/crown-point-considering-facial-recognition-cameras-to-help-in-contact-tracing/6727046/",
-      "originalUrl": "https://abc7chicago.com/society/crown-point-considering-facial-recognition-cameras-to-help-in-contact-tracing/6727046/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/6727254_AP_85217790912.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/",
-      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/",
-      "publishedDateTime": "2020-10-05T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-evaluating-an-automatic-speech-recognition-service.md",
-      "title": "Evaluating an automatic speech recognition service",
-      "excerpt": "Over the past few years, many automatic speech recognition (ASR) services have entered the market, offering a variety of different features. When deciding whether to use a service, you may want to evaluate its performance and compare it to another service. This evaluation process often analyzes a service",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T12:06:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

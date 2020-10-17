@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-15-access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies.md",
+      "title": "Access Now resigns from Partnership on AI due to lack of change among tech companies",
+      "excerpt": "More than two years after its founding, PAI began to engage with specific policy and AI ethics issues such as advocating that governments create special visas for AI researchers. PAI also opposed ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/",
+      "originalUrl": "https://venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/partnership-on-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/amp/",
+      "publishedDateTime": "2020-10-14T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-toronto-will-trial-self-driving-shuttles-in-early-2021.md",
       "title": "Toronto will trial self-driving shuttles in early 2021",
       "excerpt": "Local Motors will supply the latest iteration of its autonomous shuttle, dubbed Olli 2.0, for the trial. Olli 2.0 can accommodate up to eight passengers and",
@@ -1165,57 +1218,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-google-applies-its-ai-tech-to-reporting-with-journalist-studio-tools.md",
-      "title": "Google applies its AI tech to reporting with 'Journalist Studio' tools",
-      "excerpt": "Since introducing the Google News Initiative in 2018, the company has used the $300 million journalism project to fight disinformation and help publishers make money. Now, Google is also investing in journalism-specific software with Journalist Studio,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-journalist-studio-pinpoint-110047367.html",
-      "originalUrl": "https://www.engadget.com/google-journalist-studio-pinpoint-110047367.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Facabd040-bda7-11e9-9375-c6783a4b6790&client=amp-blogside-v2&signature=2a41f5932ac8b45dcc96b31b7cbb9fe9bd53627f",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-journalist-studio-pinpoint-110047367.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-journalist-studio-pinpoint-110047367.html",
-      "publishedDateTime": "2020-10-14T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

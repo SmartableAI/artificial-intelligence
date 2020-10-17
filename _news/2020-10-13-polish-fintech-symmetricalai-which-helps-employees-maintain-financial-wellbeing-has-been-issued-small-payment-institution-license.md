@@ -68,18 +68,18 @@ related:
         height: 225
         isCached: true
   - title: "The Future of Artificial Intelligence in Financial Markets"
-    excerpt: "General Trading Company announced that about 98% of the profits made were due to its unique artificial intelligence technology. \"An"
+    excerpt: "General Trading Company announced that about 98% of the profits made were due to its unique artificial intelligence technology."
     publishedDateTime: 2020-10-16T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-future-of-artificial-intelligence-in-financial-markets-301153788.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-future-of-artificial-intelligence-in-financial-markets/article_173efa8f-bdd7-5650-abe6-234645c5ce16.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1313502/genral_trading_holding_artificial_intelligence.jpg?p=facebook"
-        width: 1248
-        height: 653
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/73/0731cf8a-b1b2-50aa-aa63-da87e2b38fe5/5f899a4ac1bf7.image.jpg?resize=400%2C267"
+        width: 400
+        height: 267
         isCached: true
   - title: "Early-Stage and Mature Fintechs Chosen to Take Part in Qatar Fintech Hub’s Incubator and Accelerator Programs"
     excerpt: "Early-stage and mature Fintechs chosen to take part in Qatar Fintech Hub's incubator and accelerator programs."

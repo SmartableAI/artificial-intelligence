@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-13-announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity.md",
+      "title": "Announcing advanced Azure Machine Learning nanodegree program with Udacity",
+      "excerpt": "Earlier this year we announced a free ‘introduction to Machine Learning’ course with Udacity, empowering 10,000 scholars from all over the world to learn the basics of machine learning. Today, we announce the new Machine Learning Engineer for Microsoft Azure Nanodegree Program on Udacity—students can",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/",
+      "originalUrl": "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T02:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-robots-will-watch-learn-and-reason-in-ais-augmented-reality.md",
       "title": "Robots will watch, learn and reason in AI’s augmented reality",
       "excerpt": "Australia has no choice but to step up investment in artificial intelligence, says Anton van den Hengel, whose Adelaide research group was awarded 20m in the federal budget last week to boost Australias position in this highly competitive research field.",
@@ -320,6 +364,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-13-adobe-puts-artificial-intelligence-tools-into-its-marketing-software.md",
+      "title": "Adobe puts artificial intelligence tools into its marketing software",
+      "excerpt": "Adobe Inc <ADBE.O> said on Monday that it has put a new set of artificial intelligence tools into its digital marketing software with the aim of helping companies sharpen their marketing campaigns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-adobe-ai-idUKKBN26X24O",
+      "originalUrl": "https://www.reuters.com/article/us-adobe-ai-idUKKBN26X24O",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537156171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B19R",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN26X24O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26X24O",
+      "publishedDateTime": "2020-10-12T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs.md",
       "title": "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs",
       "excerpt": "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ...",
@@ -476,6 +571,59 @@
       ]
     },
     {
+      "path": "_news/2020-10-13-google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector.md",
+      "title": "Google updates Android Studio with better TensorFlow Lite support and a new database inspector",
+      "excerpt": "Google launched version 4.1 of Android Studio, its IDE for developing Android apps, into its stable channel today. As usual for Android Studio, the minor uptick in version numbers doesn’t quite do the update justice.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/",
+      "originalUrl": "https://techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/02/00100dPORTRAIT_00100_BURST20190225082039558_COVER.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/amp/",
+      "publishedDateTime": "2020-10-12T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-teslas-full-self-driving-beta-releases-to-some-drivers-on-october-20th.md",
       "title": "Tesla's 'Full Self-Driving' beta releases to some drivers on October 20th",
       "excerpt": "A small group of Tesla drivers will get the chance to test the company's 'Full Self-Driving' rewrite next week.",
@@ -484,7 +632,7 @@
       "originalUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -1073,151 +1221,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-tesla-to-launch-full-self-driving-beta-to-select-drivers-next-week.md",
-      "title": "Tesla to launch Full Self Driving beta to select drivers next week",
-      "excerpt": "Tesla CEO Elon Musk said on Monday the company will launch its next-gen Full Self Driving (FSD) set of features to \"a small number of people who are expert & careful drivers.\" The beta will become ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/tesla-fsd-beta/",
-      "originalUrl": "https://mashable.com/article/tesla-fsd-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F10%252F12%252Fe0%252F5ed98d36ee2242089642c6dacaaf02e1.07ff8.png%252F1200x630.png?signature=fob0FjddhvIdGIaPXMahO4gHE_A=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/tesla-fsd-beta.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-beta.amp",
-      "publishedDateTime": "2020-10-12T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-ai-helps-produce-worlds-largest-3d-map-of-the-universe.md",
-      "title": "AI helps produce world’s largest 3D map of the universe",
-      "excerpt": "Scientists at the University of Hawaii's Mānoa Institute for Astronomy (IfA) used AI to create a catalog of stars, galaxies, and quasars.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/12/ai-helps-produce-worlds-largest-3d-map-of-the-universe/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/12/ai-helps-produce-worlds-largest-3d-map-of-the-universe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-12T114406.890-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/12/ai-helps-produce-worlds-largest-3d-map-of-the-universe/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/12/ai-helps-produce-worlds-largest-3d-map-of-the-universe/amp/",
-      "publishedDateTime": "2020-10-12T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-ai-is-throwing-battery-development-into-overdrive.md",
-      "title": "AI Is Throwing Battery Development Into Overdrive",
-      "excerpt": "Improving batteries has always been hampered by slow experimentation and discovery processes. Machine learning is speeding it up by orders of magnitude.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/",
-      "originalUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f80cab2941317efa4fcd52b/master/pass/Sec_lithiumion_1159460136.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/amp",
-      "publishedDateTime": "2020-10-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

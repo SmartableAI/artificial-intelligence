@@ -2,6 +2,151 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-12-tesla-to-launch-full-self-driving-beta-to-select-drivers-next-week.md",
+      "title": "Tesla to launch Full Self Driving beta to select drivers next week",
+      "excerpt": "Tesla CEO Elon Musk said on Monday the company will launch its next-gen Full Self Driving (FSD) set of features to \"a small number of people who are expert & careful drivers.\" The beta will become ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/tesla-fsd-beta/",
+      "originalUrl": "https://mashable.com/article/tesla-fsd-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F10%252F12%252Fe0%252F5ed98d36ee2242089642c6dacaaf02e1.07ff8.png%252F1200x630.png?signature=fob0FjddhvIdGIaPXMahO4gHE_A=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tesla-fsd-beta.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-beta.amp",
+      "publishedDateTime": "2020-10-12T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-ai-helps-produce-worlds-largest-3d-map-of-the-universe.md",
+      "title": "AI helps produce world’s largest 3D map of the universe",
+      "excerpt": "Scientists at the University of Hawaii's Mānoa Institute for Astronomy (IfA) used AI to create a catalog of stars, galaxies, and quasars.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/12/ai-helps-produce-worlds-largest-3d-map-of-the-universe/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/12/ai-helps-produce-worlds-largest-3d-map-of-the-universe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-12T114406.890-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/12/ai-helps-produce-worlds-largest-3d-map-of-the-universe/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/12/ai-helps-produce-worlds-largest-3d-map-of-the-universe/amp/",
+      "publishedDateTime": "2020-10-12T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-ai-is-throwing-battery-development-into-overdrive.md",
+      "title": "AI Is Throwing Battery Development Into Overdrive",
+      "excerpt": "Improving batteries has always been hampered by slow experimentation and discovery processes. Machine learning is speeding it up by orders of magnitude.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/",
+      "originalUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f80cab2941317efa4fcd52b/master/pass/Sec_lithiumion_1159460136.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/amp",
+      "publishedDateTime": "2020-10-12T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-on-heels-of-100m-funding-round-olive-expands-healthcare-ai-capabilities.md",
       "title": "On heels of $100M funding round, Olive expands healthcare AI capabilities",
       "excerpt": "Healthcare software startup Olive is expanding its artificial intelligence capabilities to assist healthcare workers with day-to-day tasks like prior authorizations and insurance verifications. The company's new Olive Helps platform,",
@@ -1088,143 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-nine-common-mistakes-businesses-make-when-using-chatbots.md",
-      "title": "Nine Common Mistakes Businesses Make When Using Chatbots",
-      "excerpt": "Without proper insight into how AI-powered chatbots can achieve their goals, it's unlikely that businesses will employ them adequately.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f807b0eead21d7ff9456eee%2F0x0.jpg",
-          "width": 1200,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/amp/",
-      "publishedDateTime": "2020-10-09T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says.md",
-      "title": "Facebook can’t catch misinformation it’s already identified as false, activist group says",
-      "excerpt": "With less than four weeks to go before a pivotal US election, Facebook has sought to reassure the public it has learned from its 2016 mistakes. On Wednesday, the company rolled out a new policy against voter intimidation and announced it will temporarily suspend political ads after polls close on Election Day.",
-      "sourceUrl": null,
-      "webUrl": "https://kesq.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/",
-      "originalUrl": "https://kesq.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png",
-          "width": 280,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KESQ News",
-        "domain": "kesq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics.md",
-      "title": "PlayStation founder Ken Kutaragi has started a new career in robotics",
-      "excerpt": "Ken Kutaragi, the former Sony executive widely credited as ‘The Father of PlayStation’, has started a new career in the robotics industry. Since late August Kutaragi has been working as the CEO of Tokyo’s Ascent Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/",
-      "originalUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogameschronicle.com/files/2020/10/np_file_43360.jpeg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/amp/",
-      "publishedDateTime": "2020-10-09T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Video Games Chronicle",
-        "domain": "videogameschronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

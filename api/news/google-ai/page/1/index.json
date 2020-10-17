@@ -159,6 +159,59 @@
       ]
     },
     {
+      "path": "_news/2020-10-13-google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector.md",
+      "title": "Google updates Android Studio with better TensorFlow Lite support and a new database inspector",
+      "excerpt": "Google launched version 4.1 of Android Studio, its IDE for developing Android apps, into its stable channel today. As usual for Android Studio, the minor uptick in version numbers doesn’t quite do the update justice.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/",
+      "originalUrl": "https://techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/02/00100dPORTRAIT_00100_BURST20190225082039558_COVER.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/amp/",
+      "publishedDateTime": "2020-10-12T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-android-studio-41-simplifies-using-tensorflow-lite-models-and-android-emulator.md",
       "title": "Android Studio 4.1 simplifies using TensorFlow Lite models and Android Emulator",
       "excerpt": "Version 4.1 includes easier implementation of on-device TensorFlow Lite models, the ability to run Android Emulator directly in the IDE, and support for foldable form factors. There’s also a new ...",
@@ -1432,49 +1485,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-10-british-ai-startups-to-look-out-for-in-2016.md",
-      "title": "10 British AI startups to look out for in 2016",
-      "excerpt": "Google-owned startup DeepMind, a group of approximately 140 people aiming to solve intelligence, is arguably one of the most interesting technology companies operating in the UK right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/10-british-ai-startups-to-look-out-for-in-2016/slidelist/51167031.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/10-british-ai-startups-to-look-out-for-in-2016/slidelist/51167031.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/msid-51167032,width-640,resizemode-4,imgsize-532732/deepmind-on-a-mission-to-solve-general-intelligence.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

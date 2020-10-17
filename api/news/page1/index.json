@@ -252,6 +252,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-16-singapore-releases-ai-ethics-governance-reference-guide.md",
+      "title": "Singapore releases AI ethics, governance reference guide",
+      "excerpt": "Singapore Computer Society launches reference document to guide businesses in the development of artificial intelligence ethics and governance as well as future training and certification of professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/",
+      "publishedDateTime": "2020-10-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-how-id-study-machine-learning-if-id-be-starting-out-today.md",
       "title": "How I’d study machine learning — if I’d be starting out today",
       "excerpt": "I’m underground, back where it all started. Sitting at the hidden cafe where I first met Mike. I’d been studying in my bedroom for the past 9-months and decided to step out of the cave. Half of me was concerned about having to pay $19 for breakfast (unless it’s Christmas,",
@@ -1165,58 +1208,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-optimizing-applications-with-eagledream-in-amazon-codeguru-profiler.md",
-      "title": "Optimizing applications with EagleDream in Amazon CodeGuru Profiler",
-      "excerpt": "This is a guest post by Dustin Potter at EagleDream Technologies. In their own words, “EagleDream Technologies educates, enables, and empowers the world’s greatest companies to use cloud-native technology to transform their business. With extensive experience architecting workloads on the cloud, as well",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-applications-with-eagledream-in-amazon-codeguru-profiler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-applications-with-eagledream-in-amazon-codeguru-profiler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/24/2-Flame-Graph.jpg",
-          "width": 900,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T11:17:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

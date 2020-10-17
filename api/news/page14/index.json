@@ -2,6 +2,160 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-03-parkland-parents-create-artificial-intelligence-video-of-slain-son-to-spur-voters.md",
+      "title": "Parkland parents create artificial intelligence video of slain son to spur voters",
+      "excerpt": "Wearing his signature hoodie and beanie, an earbud casually hanging from one ear, passionate Parkland teen Joaquin Oliver urges his peers to vote for lawmakers who will end gun violence in a new video released Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
+      "originalUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92a015b7-e5da-4532-a5e3-7990a14b4476/e83f5a0d-f2ad-49fe-81f0-6d88b306a6ed/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/parkland-ai-video-son-voters.amp",
+      "publishedDateTime": "2020-10-02T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone.md",
+      "title": "Writer pens a $5M seed round for its AI style guide that flags bias and tone",
+      "excerpt": "Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/",
+      "originalUrl": "https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/writer-hed.jpg?w=1024",
+          "width": 1024,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/amp/",
+      "publishedDateTime": "2020-10-02T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.md",
+      "title": "The HP Spectre x360 14 gets a lush OLED display and a lot more AI smarts",
+      "excerpt": "The new HP Spectre x360 14 features OLED, while the Spectre x360 13 and Envy x360 upgrade to 11th-gen Tiger Lake processors",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
+      "originalUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/10/hp-spectre-x360-14-front-facing_natural-silver-100860561-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
+      "publishedDateTime": "2020-10-02T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-landmark-court-decision-says-robots-cant-be-inventors-but-the-fight-isnt-over.md",
       "title": "Landmark court decision says robots can’t be inventors. But the fight isn’t over",
       "excerpt": "The United Kingdom's highest court tossed out a case that would've established that machines can be creative and win patents for their inventions",
@@ -998,162 +1152,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-getting-started-with-aws-deepracer-community-races.md",
-      "title": "Getting started with AWS DeepRacer community races",
-      "excerpt": "AWS DeepRacer allows you to get hands-on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. With AWS DeepRacer community",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/1A-758x630.jpg",
-          "width": 758,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T12:19:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-onboarding-amazon-sagemaker-studio-with-aws-sso-and-okta-universal-directory.md",
-      "title": "Onboarding Amazon SageMaker Studio with AWS SSO and Okta Universal Directory",
-      "excerpt": "In 2019, AWS announced Amazon SageMaker Studio, a unified integrated development environment (IDE) for machine learning (ML) development. You can write code, track experiments, visualize data, and perform debugging and monitoring within a single, integrated visual interface. Amazon SageMaker Studio supports",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/onboarding-amazon-sagemaker-studio-with-aws-sso-and-okta-universal-directory/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/onboarding-amazon-sagemaker-studio-with-aws-sso-and-okta-universal-directory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/FeatureImage.jpg",
-          "width": 900,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T11:57:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai.md",
-      "title": "Via acquires delivery logistics startup Fleetonomy to bolster fulfillment with AI",
-      "excerpt": "Via acquired Fleetonomy, a startup that analyzes delivery data and delivers insights to maximize inventory and conduct proactive maintenance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/232a9c02-eb55-4af8-be59-38fb161b1f93-e1601359046546.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/amp/",
-      "publishedDateTime": "2020-10-01T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

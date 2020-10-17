@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-17T05:00:00Z
 originalUrl: "https://www.modernhealthcare.com/care-delivery/artificial-intelligence-gets-real-or"
 webUrl: "https://www.modernhealthcare.com/care-delivery/artificial-intelligence-gets-real-or"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.modernhealthcare.com/s3/files/styles/800x600/public/2016%20autonomous%20surgery%20on%20pig%20-%20%20Surgical_WEB.jpg?h=59011727"
@@ -59,6 +60,6 @@ related:
       domain: sciencedaily.com
     quality: 41
 
-secured: "UFjuC0sVZINn5AtotGzmme/4Ce1BDbLl1tqiEU0W4K+hAwKI9g8M+r8jg5MHAavEmiTvAPXs3XOYNobyPEl1mUT5FnZqneQ9ArNCQbDERW5/gAyLFTsgZs1OmL6GVJANSAnAyVwymtIkmQi/mhSDONFQCtYXBFKh8azA/qIlblrhtZLh0UK7Lnz+3D+ErNhm78S1Vn8rW5fjWoJs0JHTowHESfJ7Tmm//9iKnUzloIhscw4kNh5W1DBPt0mgT22BTm0Zhxqsh2HOzfttxCl7p3Lv08Wjw6OhtO/MpCMjXuPRVmc8qkLIEY0o+nkkIU9RB87kUCD34QnUqUVJMIksI9/w/hL8dp/lz6JYOb1n9KE=;/3fqjR/893VcFJ74ITIggQ=="
+secured: "IELcqavXaeMhPHK4VWT1J3PkLdgq3Y8QwZ3ZrXMqoXBrJNpiPQuprOJ4FurvktS2uFMt3yZbC+JxFdZpbCtcx69rwq/MVUXs8HzXyHn4P9ZXL/FjXUC8d7fbzR9DNfzk89L7xIKH27D6h1du5q8cgQLJ5rFH9ZiN9ov1B0/aleBGQDdmnCiqgjZ4sHfmFQaU4pra5VaEy4503nIK/pEVZXUPMAYIHld7rzdIHKraVmPC9SMBQ0pWUIuz1PtYwi9Z6zyCSk/QljOsiE+IXuMlJFp9cx7THo3v4zn5NYJ7AIFRJ/rr43GbGWamq9PBNBoDKfuKkWKm80wq/0rYMOFtKgb/yJnHAzqz5wpqz/sbjVovZqwiMeF71vUjc/pgJ9jjssCeD0oUICvbkKuP59caAehmV9eBET3NPR/uDGL8buOk2iNHgnIqRuClxRHt1oSaAjY92ROkIwSQmHxUGKEwTBr9WPdWyF+mKOqw3JCc2V7M+9M5yKKSXw9wOwf4NW4vIawP+bgFw0BaBcY81no8Mg==;CH9fkea8gpsaTd7iCgRliw=="
 ---
 

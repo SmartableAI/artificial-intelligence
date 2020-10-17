@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/10/12/google-updates-android-studio-with
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/amp/"
 type: article
 quality: 94
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: TechCrunch
@@ -30,24 +30,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Android Studio 4.1 simplifies using TensorFlow Lite models and Android Emulator"
-    excerpt: "Version 4.1 includes easier implementation of on-device TensorFlow Lite models, the ability to run Android Emulator directly in the IDE, and support for foldable form factors. There’s also a new ..."
-    publishedDateTime: 2020-10-12T17:02:00Z
-    webUrl: "https://venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/"
-    ampWebUrl: "https://venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2015/11/android_studio_wide-e1494818664896.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "0JCANUfblxcMt1P7+615ZHyaH5toIGKhPlm2udarZB+paynWCHTeJBh2MKTveOV+/kCaSuIqFKPrg1EnkO5jtVT7lo8jYlbIaNa5/1LQz9IszC0O+FXQg2lHrhYAGf3Uu4eiYY55/ZSKkN/cftT0SiOuImKMwiLwjow1bLOAWHlkRzW6bb0SI4nEmeBHoegs7x09tVPnQrspdpKlk+utrXZ/GAPEuuJDz61yBdHv6U3DX0FJ3BYDEUExM6G5/daTysn4Tmc6nfS2B/InNmPTXptNHAZABvIdD78LAwsGxBbJr6OqlcIQMh32lW4MQHKCuDtUW/+nTpVDjUJuVavrYu3mBhaJs+h4dW3RqJjZOzwl/YCJBGzOvn8EzC83TbzLOFSw0rgaTqakPC6ABZvrTLb5fS8Dtm1dLzid0aKzvudHTkqDJ+44ZhbrahcwNh5+moMyGWvYAqMY21F9vklzU97fpMRZgssApkOPqjoKIzi/RbkGSuMZ5fi9ys+TdgKRP/OnqKavosRLCqwYGrqBvg==;ij0ZykpZzR+FZKzM00caeQ=="
 ---

@@ -2,6 +2,136 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-09-14-nvidia-acquires-chip-design-giant-arm-limited-in-40-billion-usd-deal.md",
+      "title": "NVIDIA Acquires Chip Design Giant Arm Limited in $40 Billion USD Deal",
+      "excerpt": "Shortly unveiling its highly-anticipated “Ampere” RTX 3000 series of graphics cards just earlier this month, NVIDIA has now announced that it intends to acquire chip design firm Arm Limited ...",
+      "sourceUrl": null,
+      "webUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition",
+      "originalUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fnvidia-arm-limited-40-billion-usd-acquisition-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max",
+          "width": 1170,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1",
+      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1",
+      "publishedDateTime": "2020-09-14T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-ai-ethics-groups-are-repeating-one-of-societys-classic-mistakes.md",
+      "title": "AI ethics groups are repeating one of society’s classic mistakes",
+      "excerpt": "International organizations and corporations are racing to develop global guidelines for the ethical use of artificial intelligence. Declarations, manifestos, and recommendations are flooding the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/",
+      "originalUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/09/GettyImages-1153022933_web.jpg?w=3000",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/amp/",
+      "publishedDateTime": "2020-09-14T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-inside-gileads-21-billion-purchase-of-immunomedics-lamb-chops-steak-and-a-chance-for-transformation.md",
+      "title": "Inside Gilead’s $21 billion purchase of Immunomedics: Lamb chops, steak, and a chance for transformation",
+      "excerpt": "Gilead saw a chance to get a foundational asset in solid tumor oncology, while Immunomedics saw a chance to cap off a dramatic turnaround.",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.statnews.com/2020/09/14/inside-gileads-21-billion-purchase-of-immunomedics-lamb-chops-steak-and-a-chance-for-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-artificial-intelligence-in-drug-discovery-market-size-worth-35-billion-by-2027-grand-view-research-inc.md",
       "title": "Artificial Intelligence In Drug Discovery Market Size Worth $3.5 Billion By 2027: Grand View Research, Inc.",
       "excerpt": "The global artificial intelligence in drug discovery market size is expected to reach USD 3.5 billion by 2027, expanding at a CAGR of 28.8%, according to a new report by Grand View Research, Inc. The growing adoption of artificial intelligence (AI) platforms aimed at reducing the overall cost associated with drug discovery and to enhance results is expected to propel the demand for these platforms in the pharma market.",
@@ -1060,144 +1190,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-when-will-driverless-cars-be-a-part-of-our-everyday-lives.md",
-      "title": "When Will Driverless Cars Be A Part Of Our Everyday Lives?",
-      "excerpt": "Researcher Sebastian Thrun helped build Google's amazing driverless car ... His research focuses on robotics and artificial intelligence. He led the development of the robotic vehicle called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2013/09/13/215843842/when-will-driveless-cars-be-a-part-of-our-everyday-lives",
-      "originalUrl": "https://www.npr.org/2013/09/13/215843842/when-will-driveless-cars-be-a-part-of-our-everyday-lives",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2013/12/18/sebastianthrun_2011-stageshot_wide-8c42119c4dad6466d32339997083fcd4cf5fcb59.jpg?s=1400",
-          "width": 1394,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-how-i-see-deepmind-as-a-promising-future-for-machine-intelligence.md",
-      "title": "How I see ‘DeepMind’ as a promising future for Machine Intelligence.",
-      "excerpt": "It has nearly been ten years since the company, ‘DeepMind’ broke new ground in the Artificial Intelligence (AI) domain. Although the past decade has seen a rapid development of smart machines ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/@pranavi_vashishtha/how-i-see-deepmind-as-a-promising-future-for-machine-intelligence-28770c17f07f",
-      "originalUrl": "https://medium.com/@pranavi_vashishtha/how-i-see-deepmind-as-a-promising-future-for-machine-intelligence-28770c17f07f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*TRq-RYRc43yigvDznH6T5w.png",
-          "width": 1200,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-how-to-teach-artificial-intelligence-some-common-sense.md",
-      "title": "How to Teach Artificial Intelligence Some Common Sense",
-      "excerpt": "FIVE YEARS AGO, the coders at DeepMind, a London-based artificial intelligence company ... It controls Alexa’s discourse acknowledgment, Waymo’s self-driving vehicles, and Google’s on ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/@mattrahro.b.e.l.h.9.6/how-to-teach-artificial-intelligence-some-common-sense-aa78b28c0562",
-      "originalUrl": "https://medium.com/@mattrahro.b.e.l.h.9.6/how-to-teach-artificial-intelligence-some-common-sense-aa78b28c0562",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

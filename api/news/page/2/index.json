@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-15-optimizing-applications-with-eagledream-in-amazon-codeguru-profiler.md",
+      "title": "Optimizing applications with EagleDream in Amazon CodeGuru Profiler",
+      "excerpt": "This is a guest post by Dustin Potter at EagleDream Technologies. In their own words, “EagleDream Technologies educates, enables, and empowers the world’s greatest companies to use cloud-native technology to transform their business. With extensive experience architecting workloads on the cloud, as well",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-applications-with-eagledream-in-amazon-codeguru-profiler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-applications-with-eagledream-in-amazon-codeguru-profiler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/24/2-Flame-Graph.jpg",
+          "width": 900,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T11:17:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements.md",
       "title": "Researchers detail LaND, AI that learns from autonomous vehicle disengagements",
       "excerpt": "AI researchers often disengagements as a signal ... 2,00 disengagements produced during the LaND training on Berkeley sidewalks. Delivery robot startup Kiwibot also operates at UC Berkeley and ...",
@@ -894,7 +946,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -946,7 +998,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1146,7 +1198,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-van-phoenix-youtube/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1187,59 +1239,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies.md",
-      "title": "Access Now resigns from Partnership on AI due to lack of change among tech companies",
-      "excerpt": "More than two years after its founding, PAI began to engage with specific policy and AI ethics issues such as advocating that governments create special visas for AI researchers. PAI also opposed ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/",
-      "originalUrl": "https://venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/partnership-on-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/amp/",
-      "publishedDateTime": "2020-10-14T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

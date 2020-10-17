@@ -81,22 +81,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "Tesla Will Offer “Full Self-Driving Beta” to Some Drivers Next Week"
-    excerpt: "As we’ve previously discussed in detail, Tesla’s history with self-driving and autonomous technology in cars has been confusing at best and deliberately misleading at worst. The company has been integrating its so-called Autopilot hardware and software since 2014,"
-    publishedDateTime: 2020-10-12T16:50:00Z
-    webUrl: "https://www.insidehook.com/daily_brief/vehicles/tesla-full-self-driving-beta-test"
-    ampWebUrl: "https://www.insidehook.com/daily_brief/vehicles/tesla-full-self-driving-beta-test/amp"
-    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/vehicles/tesla-full-self-driving-beta-test/amp"
-    type: article
-    provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 59
-    images:
-      - url: "https://www.insidehook.com/wp-content/uploads/2020/10/Tesla-Full-Self-Driving-Beta.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Musk: Tesla Is Rolling Out a Beta of “Full Self-Driving” Next Week"
     excerpt: "Driving Beta” to certain owners some time next week, according to a tweet by CEO Elon Musk. In August, Musk promised that the next Full Self-Driving update will be a “quantum leap, because it’s a fundamental architectural rewrite,"
     publishedDateTime: 2020-10-13T14:22:00Z
@@ -160,22 +144,6 @@ related:
       - url: "https://robbreport.com/wp-content/uploads/2020/10/press_autopilot2.jpg?w=1000"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Elon Musk says Tesla will release a beta version of its 'Full Self-Driving' feature that's not fully autonomous next week to some drivers"
-    excerpt: "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Tesla will release a new beta version of its \"Full Self-Driving\" driver-assistance package next week, Tesla CEO Elon Musk tweeted Monday."
-    publishedDateTime: 2020-10-12T16:44:00Z
-    webUrl: "https://businessinsider.com/tesla-release-beta-full-self-driving-autopilot-elon-musk-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/tesla-release-beta-full-self-driving-autopilot-elon-musk-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-release-beta-full-self-driving-autopilot-elon-musk-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://i.insider.com/5f847796642e9400180b5586?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Tesla to launch 'Full Self Driving' beta to select drivers"
     excerpt: "Tesla CEO Elon Musk has revealed that the company will launch its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers on. \"Limited FSD beta releasing on Tuesday next week,"

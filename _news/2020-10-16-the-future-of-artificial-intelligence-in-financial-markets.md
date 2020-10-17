@@ -1,26 +1,26 @@
 ---
 category: news
 title: "The Future of Artificial Intelligence in Financial Markets"
-excerpt: "General Trading Company announced that about 98% of the profits made were due to its unique artificial intelligence technology. \"An"
+excerpt: "General Trading Company announced that about 98% of the profits made were due to its unique artificial intelligence technology."
 publishedDateTime: 2020-10-16T12:33:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-future-of-artificial-intelligence-in-financial-markets-301153788.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-future-of-artificial-intelligence-in-financial-markets-301153788.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-future-of-artificial-intelligence-in-financial-markets/article_173efa8f-bdd7-5650-abe6-234645c5ce16.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-future-of-artificial-intelligence-in-financial-markets/article_173efa8f-bdd7-5650-abe6-234645c5ce16.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1313502/genral_trading_holding_artificial_intelligence.jpg?p=facebook"
-    width: 1248
-    height: 653
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/73/0731cf8a-b1b2-50aa-aa63-da87e2b38fe5/5f899a4ac1bf7.image.jpg?resize=400%2C267"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -132,6 +132,6 @@ related:
       domain: crowdfundinsider.com
     quality: 0
 
-secured: "Nrykn4luYnHIM9r5TvrWOxhAdZB45f5T4UmNPw4g/Tb5v4tRS+zsyJW63KRWHRi5SFu+AwizI8D/4lUPAzt04REeFtINBJwtJJz9n79hy1di6WVbmpVKeNoVv5FqKYLxxkUn9hgq4JdXNn2saPPss8P+Pt5vF3YJUJnmz50sx/ykYRKOPiGK+Jy8DDSpwc+Wun0U9od1cO6K1Mn/w3yzbOq/JINPe0asVcvKJ/vUT1KF9opvfkImHnfmg9RC1L7pL0tm9WY5zrGvGrj7Xr2Jh/IHLU1alKT3vHqNPL1r0J+y+N2TVHJpq9egkGBaqa5ECvLQKKQitZqVo+nwQGlcM1GZZVbGI9yxXTK69ORcH2k=;k7Iipvg8RShAHUwf2KS3BA=="
+secured: "ogN++FbQcruZ4ikPveJxMpGcKaoqiniZuwhfFpdIE2lqtCSLjV9cq/e++PGnryaPWxE7azGYHVTmDxWBU1MBDXuj1jON5/wnZbkawC85bOLi37YqekonnFKw2HkDyXlQ2JTwYSPPM+wr9FBei5A4DH3eBJvBtPfJo4KeDc/G1H/FX0KjBYN5sziMEuvrC01H/sLUkIEGQJVe3skrjwFrzLU6COwBGnBfJPQq2EaeJZJJRI/KbDPX0cgPiipKICgZXBrkRm3Afsa4ffRMDmE1Ec2IJsQtKkycjgVIVQaOxApaAXMBcEjejSJlwiLjvbbu2UuTdJINyn18WKLuIGPRqevw4+pRIdm9DfB4+B5D3mo=;dK6+Sv8w+jRlS45KyCTsdQ=="
 ---
 

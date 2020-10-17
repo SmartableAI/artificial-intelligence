@@ -2,6 +2,153 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-09-29-companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic.md",
+      "title": "Companies are doubling down on artificial intelligence and machine learning due to pandemic",
+      "excerpt": "Companies are planning to increase their spending on artificial intelligence and machine learning as a result of the pandemic, and IT leaders believe that those initiatives should have been a higher priority for their organizations all along, according to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
+      "originalUrl": "https://www.techrepublic.com/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2018/09/18/576ff782-4166-4148-9a24-1a349fb7d430/thumbnail/1200x675/06be1fbef92a10bdaa9eefca101d0989/cyber.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
+      "publishedDateTime": "2020-09-29T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-cannabis-data-lacking-but-machine-learning-could-help-fill-the-gap.md",
+      "title": "Cannabis data lacking, but machine learning could help fill the gap",
+      "excerpt": "Anyone who has used, sold, studied or even read much about marijuana likely recognizes these acronyms as active ingredients in the plant.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.html",
+      "originalUrl": "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/cannabisdata.jpg",
+          "width": 750,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-cannabis-lacking-machine-gap.amp",
+      "publishedDateTime": "2020-09-29T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation.md",
+      "title": "Snowflake Looks Like A Risky Bet At A $60 Billion Plus Valuation",
+      "excerpt": "Snowflake, the cloud-based data warehousing company that went public recently, is valued at about $60 billion, or about $220 per share. The company trades at a whopping 230x trailing Revenues - well above many other high-growth SaaS names.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f72e0242f4428bd11ff2cc3%2F0x0.jpg",
+          "width": 1042,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/amp/",
+      "publishedDateTime": "2020-09-29T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-deep-learning-model-provides-rapid-detection-of-stroke-causing-blockages.md",
       "title": "Deep learning model provides rapid detection of stroke-causing blockages",
       "excerpt": "When they tested the deep learning model on multiphase CTA examinations of 62 patients, the model detected all 31 large vessel occlusions for a sensitivity of 100%, a statistically significant ...",
@@ -1022,146 +1169,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm.md",
-      "title": "Deep Neural Networks Market Booming Worldwide with leading Players Google, Oracle, Microsoft, IBM",
-      "excerpt": "Global Deep Neural Networks Market The global Deep Neural Networks Market size was valued at USD 1.26 Billion in 2019 and is anticipated to reach USD 5.98 Billion by 2027 at a CAGR of 21.4%. The global neural networks market is growing predominantly as the demand for implementing the deep neural network in healthcare and BFSI sectors are flourishing extensively.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm-2020-09-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm-2020-09-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-future-demand-market-analysis-outlook-for-2027.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market: Future Demand, Market Analysis & Outlook for 2027",
-      "excerpt": "Industry Analysis of the Natural Language Processing NLP in Healthcare and Life Sciences Market Report 2020 2027 Global Natural Language Processing NLP in Healthcare and Life Sciences market has been leaning towards the growth curve and contributing to the global",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2145396/natural-language-processing-nlp-in-healthcare-and-life",
-      "originalUrl": "https://www.openpr.com/news/2145396/natural-language-processing-nlp-in-healthcare-and-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T929873491_g.jpg",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2145396/natural-language-processing-nlp-in-healthcare-and-life",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2145396/natural-language-processing-nlp-in-healthcare-and-life",
-      "publishedDateTime": "2020-09-29T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-trading-18-higher.md",
-      "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Trading 1.8% Higher",
-      "excerpt": "Shares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)’s share price traded up 1.8% on Monday . The company traded as high as $32.60 and last traded at $32.60. 30,862 shares traded hands during mid-day trading,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/09/29/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-trading-1-8-higher.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/09/29/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-trading-1-8-higher.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/09/29/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-trading-1-8-higher.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/09/29/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-trading-1-8-higher.html/amp",
-      "publishedDateTime": "2020-09-29T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

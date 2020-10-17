@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-10-nine-common-mistakes-businesses-make-when-using-chatbots.md",
+      "title": "Nine Common Mistakes Businesses Make When Using Chatbots",
+      "excerpt": "Without proper insight into how AI-powered chatbots can achieve their goals, it's unlikely that businesses will employ them adequately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f807b0eead21d7ff9456eee%2F0x0.jpg",
+          "width": 1200,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/amp/",
+      "publishedDateTime": "2020-10-09T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says.md",
+      "title": "Facebook can’t catch misinformation it’s already identified as false, activist group says",
+      "excerpt": "With less than four weeks to go before a pivotal US election, Facebook has sought to reassure the public it has learned from its 2016 mistakes. On Wednesday, the company rolled out a new policy against voter intimidation and announced it will temporarily suspend political ads after polls close on Election Day.",
+      "sourceUrl": null,
+      "webUrl": "https://kesq.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/",
+      "originalUrl": "https://kesq.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png",
+          "width": 280,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KESQ News",
+        "domain": "kesq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics.md",
+      "title": "PlayStation founder Ken Kutaragi has started a new career in robotics",
+      "excerpt": "Ken Kutaragi, the former Sony executive widely credited as ‘The Father of PlayStation’, has started a new career in the robotics industry. Since late August Kutaragi has been working as the CEO of Tokyo’s Ascent Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/",
+      "originalUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogameschronicle.com/files/2020/10/np_file_43360.jpeg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/amp/",
+      "publishedDateTime": "2020-10-09T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Video Games Chronicle",
+        "domain": "videogameschronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-taught-by-ai-these-drones-can-perform-incredible-aerial-acrobatics.md",
       "title": "Taught by AI, these drones can perform incredible aerial acrobatics",
       "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
@@ -1031,136 +1168,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-playstation-inventor-starts-new-career-making-robots-for-no-pay.md",
-      "title": "PlayStation Inventor Starts New Career Making Robots for No Pay",
-      "excerpt": "Ken Kutaragi, the legendary inventor of the PlayStation gaming console, is taking on one of the hardest jobs in robotics. And he’s getting paid nothing to do it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/istV08PYj0w0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "publishedDateTime": "2020-10-08T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai.md",
-      "title": "Waymo and TuSimple autonomous trucking leaders on the difficulty of building a highway-safe AI",
-      "excerpt": "TuSimple and Waymo are in the lead in the emerging sector of autonomous trucking; TuSimple founder Xiaodi Hou and Waymo trucking head Boris Sofman had an in-depth discussion of their industry and the tech they’re building at TC Mobility 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/amp/",
-      "publishedDateTime": "2020-10-08T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-future-trends-in-robotics-should-translate-to-more-upside-for-ubot.md",
-      "title": "Future Trends in Robotics Should Translate to More Upside for “UBOT”",
-      "excerpt": "The robotics industry has proven its mettle amid the Covid-19 pandemic with machines taking the place of humans in order to stave off further infections from the virus. That said, a recent Robotics & Automation News article identified additional trends that can only further the expansion of the robotics industry--good news for ETFs like the Robotics & AI Bull 3X ETF  (NYSEArca: UBOT).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08",
-      "originalUrl": "https://www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08?amp",
-      "publishedDateTime": "2020-10-08T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

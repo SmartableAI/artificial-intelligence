@@ -2,6 +2,145 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-09-03-tensorflow-tutorial-uses-python.md",
+      "title": "Tensorflow Tutorial Uses Python",
+      "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
+      "originalUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/09/a2.png?w=600&#038;h=600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-traffic-prediction-with-advanced-graph-neural-networks.md",
+      "title": "Traffic prediction with advanced Graph Neural Networks",
+      "excerpt": "Working with our partners at Google Maps, we used advanced machine learning techniques including Graph Neural Networks, to improve the accuracy of real time ETAs by up to 50%.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks",
+      "originalUrl": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/_0l569a7inOy7JzU1-ZvhKqYL6pCL6q_yEMTOPtZx-IeFPzN2yvLIRC8vZe922Q1JL4WB2JziEXj0CurKHeD5vSt3ILJtHgX5d36Fg",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-phoenixville-public-library-offers-free-online-program-in-september.md",
+      "title": "Phoenixville Public Library offers free online program in September",
+      "excerpt": "Phoenixville Public Library will host a free online presentation — “The Red Cross and YOU!” — on Tuesday, September 8 at 7:00 PM. Lynn Cohen of the American Red Cross, Southeastern PA Region, will be the speaker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html",
+      "originalUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/1/37/1374194e-56cf-51d3-8af3-4f8e7208d475/5e615e660e7be.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.amp.html",
+      "cdnAmpWebUrl": "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.amp.html",
+      "publishedDateTime": "2020-09-02T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mercury",
+        "domain": "pottsmerc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-a-path-forward-for-eliminating-structural-bias-in-ai-tech.md",
       "title": "A Path Forward For Eliminating Structural Bias In AI Tech",
       "excerpt": "Until federal and state lawmakers pass meaningful laws to keep biased data-based systems from proliferating, it falls to the companies that use artificial intelligence-based technologies to help develop socially responsible and ethical governance approaches that advance anti-discrimination principles,",
@@ -1051,134 +1190,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-pershing-takes-step-forward-to-a-password-less-future.md",
-      "title": "Pershing takes ‘step forward’ to a password-less future",
-      "excerpt": "Fingerprint and facial-recognition capabilities for NetX360 desktop is now available on Apple devices, with support for Android planned in 2021. Imagine never having to type a password to access ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360",
-      "originalUrl": "https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Planning",
-        "domain": "financial-planning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-google-partners-with-nsf-to-fund-human-ai-research-initiative.md",
-      "title": "Google partners with NSF to fund human-AI research initiative",
-      "excerpt": "A new institute will study how humans and AI working together can make better decisions than either on their own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
-      "originalUrl": "https://www.cnet.com/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/k5t5q-1Ql0SeC8jksbL2P0NerxQ=/756x567/2020/07/25/b0b10f7e-1ee0-498f-b535-f20bda6f570f/google-logo-phone-united-states-flag-4506.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
-      "publishedDateTime": "2020-09-02T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-the-business-imperative-for-ethical-ai.md",
-      "title": "The business imperative for ethical AI",
-      "excerpt": "Artificial intelligence (AI) tops the agenda for many organizations, but the anticipated opportunities come with a host of challenges, many of which",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050",
-      "originalUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2020/08/785jf03jr3.png",
-          "width": 587,
-          "height": 227,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050?amp=1",
-      "publishedDateTime": "2020-09-02T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
         "publishers": null,
         "authors": null
       },

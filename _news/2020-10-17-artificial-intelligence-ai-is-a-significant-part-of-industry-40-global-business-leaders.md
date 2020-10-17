@@ -73,15 +73,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Development and Growth Forecast to 2025"
-    excerpt: "The development prediction report titled Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 focuses on thoughtful insights and facts relating to the market."
-    publishedDateTime: 2020-10-12T16:27:00Z
-    webUrl: "https://ipsnews.net/business/2020/10/12/global-edge-artificial-intelligence-ai-chip-market-2020-industry-development-and-growth-forecast-to-2025/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 31
 
 secured: "v5o9GjP5z7iWhohndj3Faq4rABBnIg11S5muNTvWtnhP9hqYVIB0cZv7lXyizdUJWC1BmBRbZDsB5pDa599EkrKMPg8c7FYzbf10EtKZ7Ega3Kdc6RyPfiyvxoMecWU7Qirht/6Yt9r7OroWdhIgmz3/49cpwYsHt+pW4I31SXHb35UyPntS87LQyub5mprHwUu9QHkvDnyQlYGt7OcjEtyDMp0VyH1gcg8kMD48HkZzN/zcaRieG7r4L1ydK/Ib00eAL7hwe73nC0HRl/s2pz1LYHQB4Y0Nkki06WVOjKbxR15inqkp6zeJOjsMfYPRviVa9RWbxU4pCBgQNhJyVx/M2p/L+R1uw57roSeVbXI=;lEaGV/LYEjkAkVkG9M2VtA=="
 ---

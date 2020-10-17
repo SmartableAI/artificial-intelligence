@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26X24O"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26X24O"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Reuters
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe puts artificial intelligence tools into its marketing software"
-    excerpt: "Adobe Inc <ADBE.O> said on Monday that it has put a new set of artificial intelligence tools into its digital marketing software with the aim of helping companies sharpen their marketing campaigns."
-    publishedDateTime: 2020-10-12T16:18:00Z
-    webUrl: "https://www.reuters.com/article/us-adobe-ai-idUSKBN26X24O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X24O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X24O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537156171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B19R"
-        width: 817
-        height: 545
-        isCached: true
   - title: "3 ways to implement AI in software development"
     excerpt: "Application development tools have long used AI to improve code completion, though AI has always had limits as to what it can do. New breakthroughs with AI in software development now give artificial systems a much bigger hand in the development process."
     publishedDateTime: 2020-10-13T19:25:00Z

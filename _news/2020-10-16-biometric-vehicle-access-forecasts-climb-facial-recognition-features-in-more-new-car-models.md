@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Vein biometrics could answer security challenges of face recognition"
-    excerpt: "Vein recognition is a biometric modality around which activity has picked up substantially, in terms of research but also pilots and new products. Nok Nok Labs VP of Products Rolf Lindeman tells"
-    publishedDateTime: 2020-10-12T17:01:00Z
-    webUrl: "https://www.biometricupdate.com/202010/vein-biometrics-could-answer-security-challenges-of-face-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Telpo releasing series of new face biometrics products"
     excerpt: "Telpo has announced that it will be launching a series of new biometric facial recognition products on each of the three remaining Wednesdays of October 2020. The Chinese technology provider said"
     publishedDateTime: 2020-10-13T19:54:00Z

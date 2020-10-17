@@ -2,6 +2,144 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-01-googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo.md",
+      "title": "Google’s new machine learning tool turns your awful humming into a beautiful violin solo",
+      "excerpt": "I often sit on my sofa and hum tunes that I made up in my head. While doing that, I also imagine that my automatically gets converted to a beautiful musical piece. Google‘s new machine learning algorithm experiment,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Tone-transfer-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/amp/",
+      "publishedDateTime": "2020-10-01T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions.md",
+      "title": "AYN InfoTech Strengthens Organizations Through Artificial Intelligence And Blockchain Enabled Enterprise Software Solutions",
+      "excerpt": "AYN InfoTech is one such company that has made a formidable mark for being a leader in Enterprise Software Solutions using Artificial Intelligence and Blockchain. They have built this reputation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-9350130",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-9350130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-juniper-research-future-digital-award-winners-announced-for-fintech-payments-2020.md",
+      "title": "Juniper Research: Future Digital Award Winners Announced for Fintech & Payments 2020",
+      "excerpt": "It is with great pleasure that Juniper Research announces the 2020 winners of the Future Digital Awards for Fintech & Payments. This category recognises the most impactful financial products and services operating across numerous areas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200930005729/en/Juniper-Research-Future-Digital-Award-Winners-Announced-for-Fintech-Payments-2020",
+      "originalUrl": "https://www.businesswire.com/news/home/20200930005729/en/Juniper-Research-Future-Digital-Award-Winners-Announced-for-Fintech-Payments-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200930005729/en/601531/23/JR_Logo_Final_RGB_300px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-saas-based-startup-infilect-raises-15-mn-in-pre-series-a-round.md",
       "title": "SaaS-Based Startup Infilect Raises $1.5 Mn In Pre-Series A Round",
       "excerpt": "Bangalore-based software-as-a-service (SaaS) startup Infilect has raised USD 1.5 million in Pre-series A round. The investment round was led by Mela Ventures and 1Crowd along with participation from The Chennai Angles.",
@@ -1094,144 +1232,6 @@
         "AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-superwiseai-named-a-cool-vendor-by-gartner.md",
-      "title": "Superwise.ai named a Cool Vendor by Gartner",
-      "excerpt": "TEL AVIV, Israel, Sept. 30, 2020 /PRNewswire/ -- Superwise.ai, a pioneer of AI assurance and monitoring solutions, today announced that it has been recognized in the Cool Vendors in Enterprise AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-worldwide-self-driving-taxi-industry-to-2024-key-leading-countries.md",
-      "title": "Worldwide Self-driving Taxi Industry to 2024 - Key Leading Countries",
-      "excerpt": "PRNewswire/ -- The 'Global Self-driving Taxi Market 2020-2024' report has been added to ResearchAndMarkets.com's",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
-      "publishedDateTime": "2020-09-30T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-detroit-extends-contract-of-facial-recognition-program-that-doesnt-work.md",
-      "title": "Detroit Extends Contract of Facial Recognition Program That Doesn’t Work",
-      "excerpt": "The city’s own police chief admits the technology misidentifies 96 percent of time and yet the city voted to extend its use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work",
-      "originalUrl": "https://www.vice.com/en/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f749022ec3b770096060224/lede/1601475076793-gettyimages-75287401.jpeg?crop=1xw:0.8462888665997994xh;center,center",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work",
-      "publishedDateTime": "2020-09-30T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

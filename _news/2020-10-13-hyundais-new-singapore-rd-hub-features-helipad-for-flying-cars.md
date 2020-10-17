@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "In Singapore, facial recognition is getting woven into everyday life"
-    excerpt: "Citizens of the island state will soon use their face to sign in to pay taxes and access over 400 digital services."
-    publishedDateTime: 2020-10-12T16:07:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/singapore-facial-recognition-getting-woven-everyday-life-n1242945"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242945"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242945"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_39/3414967/200925-singapore-face-recognition-al-1030_8d8fed63df4768948a8bd02b8f9dfc21.jpg"
-        width: 2500
-        height: 1407
-        isCached: true
   - title: "Singapore releases AI ethics, governance reference guide"
     excerpt: "Singapore Computer Society launches reference document to guide businesses in the development of artificial intelligence ethics and governance as well as future training and certification of professionals."
     publishedDateTime: 2020-10-16T16:00:00Z
@@ -52,43 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "From AI to facial recognition: How China is setting the rules in new tech"
-    excerpt: "HONG KONG/BEIJING • Mr Zhao Houlin is head of the United Nations' telecommunications agency, an independent international arbiter that sets some of the rules shaping the modern technology industry. But that does not stop him from letting his patriotism burst into the open."
-    publishedDateTime: 2020-10-14T22:48:00Z
-    webUrl: "https://www.straitstimes.com/opinion/from-ai-to-facial-recognition-how-china-is-setting-the-rules-in-new-tech-0"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 53
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/10/15/st_20201015_ftsinotechhuiw_6020007.jpg?itok=j1ad5Bac"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Voters to Decide on Strengthening Facial Recognition Ban"
-    excerpt: "On Nov. 3, Portland voters will decide if an ordinance that would allow citizens to sue the city for illegal surveillance and require the city to suppress illegally obtained evidence, the Portland Press Herald reported. In addition, violations of the ..."
-    publishedDateTime: 2020-10-12T21:56:00Z
-    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2020-10-12/voters-to-decide-on-strengthening-facial-recognition-ban"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "NTU Singapore scientists develop 'mini-brains' to help robots recognize pain and to self-repair"
-    excerpt: "Using a brain-inspired approach, scientists from Nanyang Technological University, Singapore (NTU Singapore) have developed a way for robots to have the artificial intelligence (AI) to recognise pain and to self-repair when damaged."
-    publishedDateTime: 2020-10-15T13:37:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/ntu-nss101520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 42
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/246003_web.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "In Singapore, facial recognition is getting woven into everyday life – WebMag"
     excerpt: "Singapore already boasts one of the world’s most advanced national digital identity programs, SingPass, which residents can use for more than 400 digital services, including accessing tax returns and applying for public housing."
     publishedDateTime: 2020-10-12T17:10:00Z
