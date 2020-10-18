@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2160181/global-ai-based-edge-computing-ch
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2160181/global-ai-based-edge-computing-chip-industry-research-analysis"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 141
+published: true
 
 provider:
   name: openpr.com
@@ -27,51 +27,96 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market"
-    excerpt: "Data Bridge Market Research has recently added a concise research on the Artificial Intelligence (AI) in Drug Discovery Market to depict valuable insights related to significant market trends driving the industry. The report features analysis based on key ..."
-    publishedDateTime: 2020-10-13T11:32:00Z
-    webUrl: "https://www.openpr.com/news/2156548/global-artificial-intelligence-ai-in-drug-discovery-market"
-    ampWebUrl: "https://www.openpr.com/amp/2156548/global-artificial-intelligence-ai-in-drug-discovery-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2156548/global-artificial-intelligence-ai-in-drug-discovery-market"
+  - title: "Omdia identifies a key shift from cloud-based AI-solutions to AI at the Edge"
+    excerpt: "Leading analyst house Omdia has today released its latest report identifying the key areas for growth for AI-at-the-Edge. 'Connecting The Dots: AI at the Edge' has found that more compute is needed at edge locations to manage and support new and proliferating latency-sensitive IoT devices and software technologies that are analysing an increasing amount of data."
+    publishedDateTime: 2020-10-13T15:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Artificial Intelligence, 2020 Update Thematic Research"
+    excerpt: "Artificial i AI is everywhere and it has an impact on all our lives However years of bold proclamations have resulted in AI becoming overhyped with reality often falling short of the world altering promises The coming years will be"
+    publishedDateTime: 2020-10-15T20:37:00Z
+    webUrl: "https://www.openpr.com/news/2161365/artificial-intelligence-2020-update-thematic-research"
+    ampWebUrl: "https://www.openpr.com/amp/2161365/artificial-intelligence-2020-update-thematic-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2161365/artificial-intelligence-2020-update-thematic-research"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 72
+    quality: 59
     images:
-      - url: "https://cdn.openpr.com/T/a/Ta12403450_g.jpg"
+      - url: "https://cdn.openpr.com/T/a/Ta15885884_g.jpg"
         width: 800
-        height: 473
+        height: 498
         isCached: true
-  - title: "Artificial Intelligence (AI) is a significant part of Industry 4.0: Global Business Leaders"
-    excerpt: "Mr CP Gurnani, Managing Director and Chief Executive Officer, Tech Mahindra today said that artificial intelligence will be the driving force for Industry 4.0. Speaking at the Session"
-    publishedDateTime: 2020-10-17T03:22:00Z
-    webUrl: "https://indiaeducationdiary.in/artificial-intelligence-ai-is-a-significant-part-of-industry-4-0-global-business-leaders/"
-    ampWebUrl: "https://indiaeducationdiary.in/artificial-intelligence-ai-is-a-significant-part-of-industry-4-0-global-business-leaders/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-ai-is-a-significant-part-of-industry-4-0-global-business-leaders/?amp"
+  - title: "Voice Recognition Software Industry Data Statistics Analysis by 2020-2025"
+    excerpt: "Latest Research Study on Global Voice Recognition Software Market published by AMA offers a detailed overview of the factors influencing the global business scope Global Voice Recognition Software Market research report shows the latest market insights with upcoming trends and"
+    publishedDateTime: 2020-10-14T18:37:00Z
+    webUrl: "https://www.openpr.com/news/2159841/voice-recognition-software-industry-data-statistics-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2159841/voice-recognition-software-industry-data-statistics-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2159841/voice-recognition-software-industry-data-statistics-analysis"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 64
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
     images:
-      - url: "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/EkWBtPjVcAEc5zH.jpg?fit=680%2C382&ssl=1"
-        width: 680
-        height: 382
+      - url: "https://cdn.openpr.com/T/a/Ta14631842_g.jpg"
+        width: 800
+        height: 507
         isCached: true
-  - title: "Experts say military could treat artificial intelligence (AI) in the say they treat any intelligence"
-    excerpt: "The dogfighting victory of an AI agent, or the use of AI to defeat salvos of incoming missiles suggest AI will profoundly affect military operations."
-    publishedDateTime: 2020-10-14T08:41:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14185255/military-artificial-intelligence-ai"
+  - title: "Global Hot ICs Report 2020: AI, 5G, CMOS Image Sensors, and Memory Chips (DRAM, NAND, NVM) Market Forecast to 2025"
+    excerpt: "A Market Analysis of Artificial Intelligence (AI), 5G, CMOS Image Sensors, and Memory Chips\" report from The Information Network has been added to ResearchAndMarkets.com's offering. This report examines in detail Artificial Intelligence (AI),"
+    publishedDateTime: 2020-10-16T05:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-hot-ics-report-2020-ai-5g-cmos-image-sensors-and-memory-chips-dram-nand-nvm-market-forecast-to-2025-1029687117"
     type: article
     provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 37
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+  - title: "Iris Recognition Market Trends 2020: Industry Analysis Report, Size, Share and Forecast By 2025"
+    excerpt: "According to the latest report by IMARC Group titled Iris Recognition Market Global Industry Trends Share Size Growth Opportunity and Forecast 2020 2025 the global iris recognition market size reached US 1 8 Billion in 2019 Iris recognition is a"
+    publishedDateTime: 2020-10-15T17:49:00Z
+    webUrl: "https://www.openpr.com/news/2161264/iris-recognition-market-trends-2020-industry-analysis-report"
+    ampWebUrl: "https://www.openpr.com/amp/2161264/iris-recognition-market-trends-2020-industry-analysis-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2161264/iris-recognition-market-trends-2020-industry-analysis-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
     images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/10/AI_intelligence_14_Oct_2020.5f85feff50fcd.png?auto=format&fit=max&w=1200"
-        width: 768
-        height: 512
+      - url: "https://cdn.openpr.com/T/a/Ta15363849_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "World Image Recognition in CPG Market Analysis 2020-2025, by Component, Application, Deployment Mode, End User and Region"
+    excerpt: "The \"Global Image Recognition in CPG Market by Component (Hardware, Solutions, Services), Application (Inventory Analysis, Product & Shelf Monitoring Analysis, Gauging Emotions), Deployment Mode, End User (Online,"
+    publishedDateTime: 2020-10-15T09:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/world-image-recognition-in-cpg-market-analysis-2020-2025-by-component-application-deployment-mode-end-user-and-region-1029682697"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 9
+  - title: "Artificial Intelligence Market by Technology, Hardware, End-user Industry, and Region - Global Forecast to 2026 - ResearchAndMarkets.com"
+    excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-10-14T14:24:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-malware-industrial-technology-9e6b83acdad64ac4a73f34ac0d7689c1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "pSeav/waOJveLxaMSo4Yev8De8Kj1lGkMS1aWwghEe6stS5YEaTOemUCLgm68kZMjloz6GXmFc1NiJNqsFqJClMobu2QGHuKmB/z9zSpVj8n/d5TiEIl9zBzB/DutM2EMnPmn7ovqgqLF7jWmqdWGN+Wo+S9jqIecA0vI6V4TBDJ8ojRrZWaQqH9uyW/1z0+qDnWCHmWUOaWfyG2oIb09/AXCsFqcL561c44BY0kfwgLItR4Hqegp698vam1YBBz+r3fw/zh3he8rgr/e9kH2ovVqi4AFKz+v6uEvCpq++Bm5+V5bFmHfPMaj0F3WOEjVyFoyEmDBvX6lXrerJwfbStQ1TAFCCFgzGIOfBqdS6PDIx9r7IKa8WjQMlO/lnfvb3DDhOko2zCMAx0O2JIH443pn9zB9LLlCGbAJa1iYOMSAV53cqifr4f+GqDWay3QFMSzbpXi+x7nFISRGcGKig16iYUc1ajOScNxfnWJbck0SJ/amRIRjq3rUBquY+Y4RnbSUoPt0VzFT5xo+pNWnw==;hpTNo15tR/FM6Nd4qSwnsg=="

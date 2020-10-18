@@ -27,22 +27,6 @@ images:
 
 related:
   - title: "Looper column: Artificial intelligence, humanity and the future"
-    excerpt: "Columns share an author’s personal perspective.***** In September, the British news website The Guardian published a story written entirely by an"
-    publishedDateTime: 2020-10-16T15:42:00Z
-    webUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
-    ampWebUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 59
-    images:
-      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=LIFESTYLE&ArtNo=201019472&Ref=AR"
-        width: 387
-        height: 393
-        isCached: true
-  - title: "Looper column: Artificial intelligence, humanity and the future"
     excerpt: "In September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet. The piece received a lot of press because in it the AI stated it had no plans to destroy humanity."
     publishedDateTime: 2020-10-17T04:59:00Z
     webUrl: "https://www.registerguard.com/story/lifestyle/faith/2020/10/16/looper-column-artificial-intelligence-humanity-and-future/114421198/"
@@ -58,7 +42,21 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Looper column: Artificial intelligence, humanity and the future"
+    excerpt: "Columns share an author’s personal perspective. ***** In September, the British news website The Guardian published a story written entirely by"
+    publishedDateTime: 2020-10-16T15:35:00Z
+    webUrl: "https://www.rrstar.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
+    type: article
+    provider:
+      name: Rockford Register Star
+      domain: rrstar.com
+    quality: 37
+    images:
+      - url: "https://www.rrstar.com/storyimage/IR/20201016/LIFESTYLE/201019844/AR/0/AR-201019844.jpg"
+        width: 387
+        height: 393
+        isCached: true
 
-secured: "XtcFczPfRtyMDTkvioRddM036vpt+DCbQ4YhDVZHRsBPFIR44MaYde10mI+sXh2aX3gDyLuhWuIAD/WVqbKrpaGMs6PL3S/yQeww7E+0tQGCnyx4+w8lThw/K/rBMh+Y/0TwG74LgpMWKFv5npIP5RaHe0c+g+FYkEnjfmMr2kexjtiJRD2EiNpegMKe4glYBHbK5iN+6d43SADYONfI1NgfYKbQBObkG2EUvbHmn4z7qbi8hvMPYQQu+xF+lIov/hwqU4+VCBkIjYpb2vq8V7wlUhzY/MmQfizsyunL6dQkD5aykPfk0cI2XasF0XtwGZb+90+ie5Z7YK/K9QS5Trs2qOOL6yKbL7B0xNPUwFw=;bXXx6K9cM2kK2cRs419dtg=="
+secured: "k3Ftp9AArTFPpjOY5HbN6nPPGpPqGzaDPfMnRIa84onBIHFuFfk0zqJ89q7ojgC/bZcvLURriePsNBXY1Paeb1ZXOINfiQjvgJ4KPD1r0Kenwsy9NfcQfgwI7SigCKowrqpOYkj47chaZ66ym+RwqR8afpH9p5SjSWYw9WLl8Q5anzb5TEwWUl4D9+SnYSSKBpdQVwRgL0VAgpLwpsjkg6XEEs9aNAell94Xf73Gd/5HsgWS9CW8kQbR4ZYvFOQaTBcijE22x/+UeBtzrphVAwx8qyuG6Nb+fIcBOG+xM3bqUaNX/w0JSHZZE5/W8wyjFejdJ5W9QN+t1fOFacn/HfHUIoav8Km0nR7oT0VwTqu+eM4PeJSx+Fq+IpX6dge6lCfAxBycxuAYShsjfuSTeGo/iQnLgNiChegGlunTmRGn+PXYAU9cpSVVcm/uLBHSIV9cZ7YY+tXwAVDvh23GKys8wiKClrbtEcfEToi6WBU6noTueiMCtZoSJe85LdmN5aA+gQCpM1nXye2gBzB3zg==;OSA4Y8WI/WzrTakxu3qHVw=="
 ---
 

@@ -2,17 +2,17 @@
 category: news
 title: "With artificial intelligence, every soldier is a counter-drone operator"
 excerpt: "With the addition of artificial intelligence and machine learning, the aim is to make every soldier, regardless of job specialty, capable of identifying and knocking down threatening drones. While much of that mission used to reside mostly in the air defense community,"
-publishedDateTime: 2020-10-17T18:28:00Z
-originalUrl: "https://www.defensenews.com/digital-show-dailies/ausa/2020/10/17/with-artificial-intelligence-every-soldier-is-a-counter-drone-operator/"
-webUrl: "https://www.defensenews.com/digital-show-dailies/ausa/2020/10/17/with-artificial-intelligence-every-soldier-is-a-counter-drone-operator/"
+publishedDateTime: 2020-10-18T05:12:00Z
+originalUrl: "https://www.armytimes.com/digital-show-dailies/ausa/2020/10/17/with-artificial-intelligence-every-soldier-is-a-counter-drone-operator/"
+webUrl: "https://www.armytimes.com/digital-show-dailies/ausa/2020/10/17/with-artificial-intelligence-every-soldier-is-a-counter-drone-operator/"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: Army Times
+  domain: armytimes.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "gcRPJDyTl/4TI21Z1TZ3H/SYIh2X+OT/sI29sSpsYcSLFCwfUBpIV7eFbUa49giDrmp15MaUqTGtsDdwbW3SnJziugJVEWea0nh+QUURva13qOFcS71Utus3qCiuiq0qgnhNIdOl5i/1TYuvW5XVzBRfskowvRiG3FGM3p+jPk4iFjj7tYSjdYzC2J6NzotSGSbLXic4YmEo9CjaukXWoPOkyYgR8UvWJ6Qk2pBDs6kply/1tFTrG6IMr0aOnizAlHix2ZqqDs6g8LeS75TN7FcavkB8avZyhZVR06icfXC56kuXUdMBVYewy9UNFTeIMons6hb/qr8d62yeAq1CjM35mlTMi6wMK3Obmo/fIsHmmXvQh8xP+neRA2qqQGpTR1ullE0MdiOqPFQPSUUaWOpm135XFTYDq77LEHc2RJH3G74DxgKlFv09O6ZPEx/0pJj8OUtZGrKaitMiTTb6TTgQy+QI0jgA9rWL8NtVZKfqTKZn/wLqSyUQjwU4H2zbyN4wdVw8U/4D8lF+0eG6Sw==;VqvweJAsZZW3ZfCScCMOJA=="
+secured: "Tfk5XtmhP1R4pKqipKKOLd7tuvli1uN5Kuec4r4UBQAJk82YDd5HovJkpdX6CC3seihEQO0pfFFL1z8WQKqYrvdZAnAVDu8RE+Mtkdikj4BtkU5DGmGc0JccgDg0Pnvp1d7HRVbASulZOXjvqsYkobbLck2e4eZHcLK26mukAbdYV28WLE/Rln9jVXjoWGLNG9ly5wIsSmLcvJCrG4ngBHcWSnZ/YA7DFv8ZAJtPHLB7sr2JJ1nrgkhrKkfGdj3evmuiNmVNSVOzL24HprBxI0i9tLssMMUkxJgD7p92j1o5qF3HtiV8ItUUREwM6YdQNuh0ekVVEWCpAvp2+Iteq6BSc9fkqtF++eYlHVoDD28=;GGDdcUV07MCtGA7BLMKt0Q=="
 ---
 

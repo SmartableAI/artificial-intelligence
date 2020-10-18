@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla to Deploy Limited Full Self-Driving Beta Next Week"
-    excerpt: "Tesla TSLA recently announced that it will launch limited models of full self-driving (FSD) vehicles on Oct 20. The fleet of fully-autonomous vehicles to be rolled out next week will be first available for a small number of careful and expert drivers for testing."
-    publishedDateTime: 2020-10-13T12:49:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
     excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
     publishedDateTime: 2020-10-17T15:46:00Z
@@ -69,22 +58,6 @@ related:
       - url: "https://wp-assets.futurism.com/2020/10/tesla-beta-full-self-driving-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Tesla To Release ‘Full Self-Driving (FSD) Beta’ Next Tuesday: Elon Musk"
-    excerpt: "Beta version for some drivers next week, says its CEO Elon Musk. Recently, while replying to an article by a publisher, Elon tweeted that FSD is releasing next Tuesday as promised."
-    publishedDateTime: 2020-10-13T11:35:00Z
-    webUrl: "https://fossbytes.com/tesla-to-release-full-self-driving-fsd-beta-next-tuesday-elon-musk/"
-    ampWebUrl: "https://fossbytes.com/tesla-to-release-full-self-driving-fsd-beta-next-tuesday-elon-musk/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-to-release-full-self-driving-fsd-beta-next-tuesday-elon-musk/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 59
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2020/10/Tesla-FSD-beta.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ beta releases next week, Musk says"
     excerpt: "FSD is one of the two autopilot options available to Tesla owners. Still, drivers are said to be fully attentive, and to place their hands on the wheel to be prepared to take over at any moment."

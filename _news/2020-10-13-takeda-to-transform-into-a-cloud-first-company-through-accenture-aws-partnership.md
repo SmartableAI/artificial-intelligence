@@ -40,20 +40,6 @@ related:
         width: 625
         height: 350
         isCached: true
-  - title: "Takeda, Accenture, and AWS agree on 5-year partnership to accelerate Takeda’s digital transformation"
-    excerpt: "Takeda Pharmaceutical Company Limited, Accenture and Amazon Web Services (AWS) have entered into a five-year strategic agreement to accelerate Takeda’s digital transformation. Not only will patients benefit from Takeda’s ability to respond with greater speed,"
-    publishedDateTime: 2020-10-13T12:09:00Z
-    webUrl: "https://www.finchannel.com/business/161-pharmacy/78621-takeda-accenture-and-aws-agree-on-5-year-partnership-to-accelerate-takeda-s-digital-transformation"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 24
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200304&t=2&i=1498512993&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG230IT"
-        width: 640
-        height: 426
-        isCached: true
 
 secured: "UH3Sb9vzoln4wElBYYNzlq0d4QRhlAaOOrAoYDWL9N3vxhhC1qBTh7UtAwqT36VLxzzbsHx8PqPMH0BxSWyXtag/UVeKTxcRGLXzSFgQZg7dsR5wlY+JkX0W3ftmNgPUS4QgBO5VVs7teF0EEat1uZwnYFH3TRYsEf3di45sBj9Qd1zl4YwtbQzh1TPYoHAnL9tVjHHMN9lGNqb8yJ3n6vfE9rNgg1ABMhUHDOPN3a3n6p7ryN9Qf+znN1T5oDiDmuCkbIfrPAYj5feAiBp2qNjPXXKVoTtZQNOh5/z2js5Y+s4VULZ5Hn+FeuA6CJ7DuCT2WuDelpkzO7cL6IWHclNN9DliDX9QeGI70xWIFOg/I2L3GtmDo3GxkrBPCSJjYwia6bVn1jtX0jglqeeTgDJq6gkeRLH3RdhQS38EjBRJymgg0dITV7SS82WiSm3N86trV0ohYvx5VM4OerzKonsbQ/8CRUn8Ykv1iQXh64WVpy265W2UPlszQmkOeACG/52unG9cdz+nl0KKIZyWtA==;cXH6cdhtedd6nvoX31bXZg=="
 ---

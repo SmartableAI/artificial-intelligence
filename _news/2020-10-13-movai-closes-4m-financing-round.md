@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2020/10/mov-ai-closes-4m-financing-round.h
 webUrl: "https://www.finsmes.com/2020/10/mov-ai-closes-4m-financing-round.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "MOV.AI raises $4 million led by SOMV together with NFX and Viola Ventures"
-    excerpt: "PRNewswire/ -- MOV.AI ( a provider of an enterprise-grade ROS development & run time environment for cobots (collaborative robots), announces"
-    publishedDateTime: 2020-10-13T12:00:00Z
-    webUrl: "https://www.prnewswire.com/de/pressemitteilungen/mov-ai-raises-4-million-led-by-somv-together-with-nfx-and-viola-ventures-837800051.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/1311080/movai_Logo.jpg?p=facebook"
-        width: 2359
-        height: 1238
-        isCached: true
 
 secured: "amRb8N54Ccy+CPgzNL9qTLXFkhD7+f9VOJ6J0XEVLkzRwad95aR8t88GNnGEpfD9uwK4Yjz+XqEf0nZQT3N4Qizuy24vLCZJVFu8yLDQVrYyTU3gKnvbXw53L1wVyvX39CzfZlBOUiZEMTb73iqPAwvcGqbq05Pbva7zsQsBgUKDgWII+OBqyMMWK0uqrv9VKi4APJFoNMRaH17lMKo9IsXdkJs844FNg2O/z0x9u/NIFuv6x+eTK+dB/uEYDnERmIe1N26F5RXph0P7Tfk0fyWffmQCBfUHyP8Q6b3mrYXk7i3TqO/ON076zRzPv4M2pFnTqdvIH/vK35ABqqNVjFJYJNyeut0EMzR5eUuNVFU=;7RRwiRc5ZrevePnLANH6fQ=="
 ---

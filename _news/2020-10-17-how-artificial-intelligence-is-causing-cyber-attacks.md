@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/artificial-intelligence-causing-c
 webUrl: "https://www.analyticsinsight.net/artificial-intelligence-causing-cyber-attacks/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Criminals Use Artificial Intelligence To Fuel Cyber Attacks"
-    excerpt: "As artificial intelligence (AI) breaks into the mainstream ... For many real-world systems, like driverless cars, a complex blend of physical computer vision sensors, complex programming for ..."
-    publishedDateTime: 2020-10-13T13:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8489185bcaa29433f8ecbd%2F0x0.jpg"
-        width: 1200
-        height: 796
-        isCached: true
   - title: "3 ways criminals use artificial intelligence in cybersecurity attacks"
     excerpt: "Three cybersecurity experts explained how artificial intelligence and machine learning can be used to evade cybersecurity defenses and make breaches faster and more efficient during a NCSA and Nasdaq cybersecurity"
     publishedDateTime: 2020-10-13T21:41:00Z

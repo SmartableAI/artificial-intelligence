@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-10-scientists-unique-signature-lion-roar.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-scientists-unique-signature-lion-roar.amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 818
     height: 655
     isCached: true
-
-related:
-  - title: "Scientists discover unique signature of a lion’s roar using machine learning"
-    excerpt: "The roar of a lion is one of the most thrilling and captivating sounds of the wild. This characteristic call is typically delivered in a bout"
-    publishedDateTime: 2020-10-13T11:13:00Z
-    webUrl: "https://www.miragenews.com/scientists-discover-unique-signature-of-a-lion-s-roar-using-machine-learning/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 36
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
-        width: 640
-        height: 423
-        isCached: true
 
 secured: "TqGJZJ3JcRhSaDps2NDQDpelCJZDeCHFY3C7FsiJP8WraDQ8b4rYsG4WTn9pmvQIq11+c60fxvhsiN7UEwmNme4WVxYAiPTwCFqGmeDAmDbU8Ya0actQs4e9RxbAzfqasoYU3V8mFMYdxxt3rSkKinjvKL1aDBYb6DmX/XDPZTF//a0TQ1nLLcxWGvxEY4EbdQnXjvr8d250sqzu5ebSrP/Z7EN68E+9HL1iJ/f3hQTfeDvnmL9azCj+MRmz0HfbrYSq3wjT+0+y+mEMCtnHLtVzo52UXv2FArxQf3z3SAwMux51UgpDuEEkaZvXWriU/YdufrUbIF41ArX6GHFZ/RJtZhBd6pmlSBszyqxIVVWGgi2mVbFMZpZLbdWXmWxsFHU3QpzbropnomvcJ2RBXPmfReBl3Y18skzH/pnDPnXMSdgy0m9LZTBLGhPW+YHJaeAnWAF7EdqgbxOAXkvDiWoQlWU7xL3so1nIrsUKIyUrCKeAQn3d7IHiYkYv1QAqasRaIRf7FoEkGbalYYYDQg==;i22X6iP7KVoPEdfKdSa/6Q=="
 ---

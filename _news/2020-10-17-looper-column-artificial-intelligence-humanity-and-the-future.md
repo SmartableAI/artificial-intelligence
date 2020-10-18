@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.registerguard.com/amp/114421198"
 cdnAmpWebUrl: "https://amp-registerguard-com.cdn.ampproject.org/c/s/amp.registerguard.com/amp/114421198"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Register-Guard
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Looper column: Artificial intelligence, humanity and the future"
-    excerpt: "Columns share an author’s personal perspective.***** In September, the British news website The Guardian published a story written entirely by an"
-    publishedDateTime: 2020-10-16T15:42:00Z
-    webUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
-    ampWebUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 59
-    images:
-      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=LIFESTYLE&ArtNo=201019472&Ref=AR"
-        width: 387
-        height: 393
-        isCached: true
   - title: "Artificial intelligence, humanity, and the future"
     excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
     publishedDateTime: 2020-10-18T01:24:00Z
@@ -57,6 +41,20 @@ related:
       - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
         width: 680
         height: 931
+        isCached: true
+  - title: "Looper column: Artificial intelligence, humanity and the future"
+    excerpt: "Columns share an author’s personal perspective. ***** In September, the British news website The Guardian published a story written entirely by"
+    publishedDateTime: 2020-10-16T15:35:00Z
+    webUrl: "https://www.rrstar.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
+    type: article
+    provider:
+      name: Rockford Register Star
+      domain: rrstar.com
+    quality: 37
+    images:
+      - url: "https://www.rrstar.com/storyimage/IR/20201016/LIFESTYLE/201019844/AR/0/AR-201019844.jpg"
+        width: 387
+        height: 393
         isCached: true
 
 secured: "whzI3kQ/87kiO/pPzFYHpbl4lkk+lvROoKEHVRYy8NomlSmSnyvgYHz7tl+JavxwjEMm1fy/y71zwU1aaq3+XxaSKPriaDRuXgWevhNNRQ5BoJUqK0sFiudJamnJY1SZaf6WMvxIIV/wK/avZrc+2Q8xolCXWDwg3qsEh7nEr6eY33RuFjT77u1ZnXFyLk08rEh6DjKER2ZS1SyAYAZi5AWQNtOOfc+plTP+0s5aymnk134r0ePcnMOffPNX7PZUGvFUNbMrGITYNG5AgnZHKojDs4mzhoOV1EqSqosxhEFeEU+GeGHxiTNhQXHJHZ6tRLXZ7lMwyH9Mh6bDSw51p4JuT2h+Cl5hM7E6xPdcb+g=;Afh4m5Xn67zQmElhN44tEw=="

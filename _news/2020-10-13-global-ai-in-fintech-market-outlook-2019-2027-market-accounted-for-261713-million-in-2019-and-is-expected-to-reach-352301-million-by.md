@@ -124,17 +124,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "Polish Fintech Symmetrical.ai, which helps Employees Maintain Financial Wellbeing, has been Issued Small Payment Institution License"
-    excerpt: "Polish-British Fintech Symmetrical.ai, which helps employees maintain financial well-being, has been issued a small payment institution license. The company said that the new permit should allow it to make Symmetrical-backed salaries “even faster ..."
-    publishedDateTime: 2020-10-13T11:51:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 8
 
 secured: "JFxkRx7xXCrphm0gPk4IkdRmppbfJ5LzhFuH2lnnShq3m76tSeIHTeql+ncGRaoLhaKJAw3/u0/IExWBAGY1850mxlDQ2hz2HcerTkFM6zkCVV2qMn2iinjpba6xXdILGKI2OlJbTmDTUPd27K5xZPRu19Zho/guuYMjg/gOzfGscVcpgGn7kJo7Y3pjv6fU7xFHN56XrQ/z99ayiU4xSbzUhwhqdpzdeKLTKzCiNTSDY7dRI0YaXF5hJPnG7scjGEVztEOj8MADljlXkf7M5dkOKsK16SFsRHeGJR88f0USGrwdmKOEoFXGxOJmv4xqWylBhC867FX+qFiQII1fBGBMJuLQnTwm0P8VmQj321Y=;5fuzb5g90cY/bLnYoKbtPA=="
 ---

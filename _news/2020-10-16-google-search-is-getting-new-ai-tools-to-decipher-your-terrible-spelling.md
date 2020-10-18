@@ -1,28 +1,33 @@
 ---
 category: news
-title: "Google announces \"hum to search\" machine learning music search feature"
-excerpt: "The company also notes that people need not worry about delivering a perfect pitch to take advantage of this new search capability."
-publishedDateTime: 2020-10-16T18:18:00Z
-originalUrl: "https://www.techrepublic.com/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
-webUrl: "https://www.techrepublic.com/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
+title: "Google search is getting new AI tools to decipher your terrible spelling"
+excerpt: "Google detailed a host of new improvements at its “Search On” event that it will make to its foundational Google search service in the coming weeks and months. The changes are largely focused on using new AI and machine learning techniques to provide better search results for users."
+publishedDateTime: 2020-10-15T21:10:00Z
+originalUrl: "https://www.theverge.com/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
+webUrl: "https://www.theverge.com/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
+ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
 type: article
-quality: 69
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
+  name: The Verge
+  domain: theverge.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Machine Learning
   - AI
+
+images:
+  - url: "https://cdn.vox-cdn.com/thumbor/OYz-Slg9pMbYn5giAx6kmSBBUnU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67638721/acastro_180427_1777_0001.0.jpg"
+    width: 1400
+    height: 933
+    isCached: true
 
 related:
   - title: "Google’s new ‘hum to search’ feature can figure out the song that’s stuck in your head"
@@ -41,22 +46,17 @@ related:
         width: 1066
         height: 573
         isCached: true
-  - title: "Google search is getting new AI tools to decipher your terrible spelling"
-    excerpt: "Google detailed a host of new improvements at its “Search On” event that it will make to its foundational Google search service in the coming weeks and months. The changes are largely focused on using new AI and machine learning techniques to provide better search results for users."
-    publishedDateTime: 2020-10-15T21:10:00Z
-    webUrl: "https://www.theverge.com/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
+  - title: "Google announces \"hum to search\" machine learning music search feature"
+    excerpt: "The company also notes that people need not worry about delivering a perfect pitch to take advantage of this new search capability."
+    publishedDateTime: 2020-10-16T18:18:00Z
+    webUrl: "https://www.techrepublic.com/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 86
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/OYz-Slg9pMbYn5giAx6kmSBBUnU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67638721/acastro_180427_1777_0001.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
   - title: "Google taps AI for new search tricks"
     excerpt: "Google on Thursday outlined a number of new features for its core search product, including the ability to search for that song stuck in your head by humming or whistling. Why it matters: While humming may be a cute use case,"
     publishedDateTime: 2020-10-16T14:06:00Z
@@ -113,6 +113,6 @@ related:
         height: 400
         isCached: true
 
-secured: "SH+/TvA5mbHcHW89GCRApG7UWEVULDT5NdZ3gthcLF9zl4AiZZkEQ46fd/Rpfk8bgb+WYf4QbV5fIEA4wWES5onLJnn2+oa5wpq1fBjDsxL8VeM06pPcWrWI9TW9PkeY4m88FS67fAipwZ1X5qG9LH5FofcJIJwm1eVIw4J+us2doTQPIvgzV+QHMQX2hBFuq3xrMbfiKGwPjc3gR8jy4/UslQl8Cd051p8xQRtfMeIT3h8v7oaGbM9Dmj9d4hGUgUfib+8i2snaSI8g4A2pyY0jluCpjp6/s7h9C+0TciXUuSKcUs6c1KA9t43N73T6Xzv+NyY9+9wNDuXf2yVfZ7DkuV/9d/iWnLj33RyyECmCPgLs1BikVB8hM8lfrMd+xvAwkGD1bve4Jm4T+lWcGD6K9ALilS3a30kRG4Re5isBkWk0WhgH+Qe9ObSsYyZ4FRjqYOUa1NCfuYvbTxAUGUWDR2kpFp9Qdk/6vUz6/m42Ux0FRQGYFDqrglN0/tIXXsdK4hfqOIeivQtVp3Qy4g==;g1I6oO+yHU60XNqdyGhGiw=="
+secured: "ClUDrWZBFeztdvbiq7ZS6dc53DaMFhEksPrJBavEy8sWxXzCA/5bxrPI20aOc39350Pi5vDKRs/Z5cJIdJZK+BLOceuD3SRbDb/Qcx4ZcpQOKwL2YHwfZhhJfmSSMGeO8QElnW3/h1UsTQ9W/ZGJaap8T8prdhHkY0eePozYZ7h9oKwYGdanxsbvx1aN5IP9MG3fLHDGP/vUEecsDcVxCEZv5mF/+7r/QCX4SD7bHTcMDRIijt0NEwFZgqrDkDrUT/cm8I0zs6OBwCguDsmDo8eWa0QXrE8CYIoREu3DIsP2HRW4znf+aMuLXzGBNmogvtRMMullZVy2u4XWOw3kbXWaUjBWGuXbAJ571OMz2eI=;2eUbM6twP6Ja2rnrITyBFg=="
 ---
 

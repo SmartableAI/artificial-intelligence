@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Facebook donated $1.3 million to the UK's World War II code-breaking hub, Bletchley Park"
-    excerpt: "Facebook Chief Technology Officer Mike Schroepfer ... Ideas developed at Bletchley Park remain at the heart of cutting-edge research in fields like artificial intelligence, online security and cryptography today, more than 80 years after the first ..."
-    publishedDateTime: 2020-10-13T11:14:00Z
-    webUrl: "https://www.businessinsider.com/facebook-donates-1-million-to-bletchley-park-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/facebook-donates-1-million-to-bletchley-park-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-donates-1-million-to-bletchley-park-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/5f858116c255d800190b9832?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook donates 1mn pound to 'birthplace of computer'"
     excerpt: "Facebook has announced a donation of 1 million pounds ($1.3 million) to Bletchley Park, a heritage attraction and museum that served as the British code-breaking hub during World War Two."
     publishedDateTime: 2020-10-13T15:08:00Z

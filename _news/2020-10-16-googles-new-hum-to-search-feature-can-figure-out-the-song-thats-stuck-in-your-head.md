@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/hum-to-search/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/hum-to-search/amp/"
 type: article
 quality: 164
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google search is getting new AI tools to decipher your terrible spelling"
+    excerpt: "Google detailed a host of new improvements at its “Search On” event that it will make to its foundational Google search service in the coming weeks and months. The changes are largely focused on using new AI and machine learning techniques to provide better search results for users."
+    publishedDateTime: 2020-10-15T21:10:00Z
+    webUrl: "https://www.theverge.com/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 86
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/OYz-Slg9pMbYn5giAx6kmSBBUnU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67638721/acastro_180427_1777_0001.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Google announces \"hum to search\" machine learning music search feature"
     excerpt: "The company also notes that people need not worry about delivering a perfect pitch to take advantage of this new search capability."
     publishedDateTime: 2020-10-16T18:18:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.modernhealthcare.com/care-delivery/artificial-intellig
 webUrl: "https://www.modernhealthcare.com/care-delivery/artificial-intelligence-gets-real-or"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Assessing state of the art in AI for brain disease treatment"
+    excerpt: "The range of AI technologies available for dealing with brain disease is growing fast, and exciting new methods are being applied to brain problems as computer scientists gain a deeper understanding of the capabilities of advanced algorithms. Researchers ..."
+    publishedDateTime: 2020-10-14T20:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201014141102.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "IELcqavXaeMhPHK4VWT1J3PkLdgq3Y8QwZ3ZrXMqoXBrJNpiPQuprOJ4FurvktS2uFMt3yZbC+JxFdZpbCtcx69rwq/MVUXs8HzXyHn4P9ZXL/FjXUC8d7fbzR9DNfzk89L7xIKH27D6h1du5q8cgQLJ5rFH9ZiN9ov1B0/aleBGQDdmnCiqgjZ4sHfmFQaU4pra5VaEy4503nIK/pEVZXUPMAYIHld7rzdIHKraVmPC9SMBQ0pWUIuz1PtYwi9Z6zyCSk/QljOsiE+IXuMlJFp9cx7THo3v4zn5NYJ7AIFRJ/rr43GbGWamq9PBNBoDKfuKkWKm80wq/0rYMOFtKgb/yJnHAzqz5wpqz/sbjVovZqwiMeF71vUjc/pgJ9jjssCeD0oUICvbkKuP59caAehmV9eBET3NPR/uDGL8buOk2iNHgnIqRuClxRHt1oSaAjY92ROkIwSQmHxUGKEwTBr9WPdWyF+mKOqw3JCc2V7M+9M5yKKSXw9wOwf4NW4vIawP+bgFw0BaBcY81no8Mg==;CH9fkea8gpsaTd7iCgRliw=="
 ---
