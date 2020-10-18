@@ -72,6 +72,59 @@
       "content": "\r\n"
     },
     {
+      "path": "_events/2021-03-15-ai-data-science-in-trading-new-york-2021.md",
+      "title": "AI & Data Science in Trading New York 2021",
+      "excerpt": "AI & Data Science in Trading brings together experts in the use of AI and advanced data analytic techniques within asset management, primarily for finding alpha, managing risk and optimizing portfolios.  Initially exclusively used by analysts within quantitative firms, automation and outsourced tools are allowing fundamental firms to benefit from these techniques -  providing new insight for their discretionary strategies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2021-03-15-ai-data-science-in-trading-new-york-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/event/2021-03-15-ai-data-science-in-trading-new-york-2021/",
+      "originalUrl": "https://www.aidatatrading.com/",
+      "name": "AI & Data Science in Trading New York 2021",
+      "type": "conference",
+      "startDateTime": "2021-03-15T02:00:00-07:00",
+      "endDateTime": "2021-03-17T10:00:00-07:00",
+      "website": "https://www.aidatatrading.com/",
+      "provider": {
+        "name": "aidatatrading.com",
+        "domain": "aidatatrading.com"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://plsadaptive.s3.amazonaws.com/eco/images/logos/a6zxkHCMS4PWWwq1V1GzGJcqHatPbWwNw2Uh68Uq.png",
+          "width": 800,
+          "height": 600,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2021-03-09-the-ai-machine-learning-convention.md",
+      "title": "The AI & Machine Learning Convention",
+      "excerpt": "The AI & Machine Learning Convention is one of the UK’s most forward thinking events. Dedicated to exhibiting technology which is really just beginning to be introduced across hospital services, this truly is a pioneering event that will shape the future of healthcare.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2021-03-09-the-ai-machine-learning-convention/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/event/2021-03-09-the-ai-machine-learning-convention/",
+      "originalUrl": "http://www.aimlconvention.com/",
+      "name": "The AI & Machine Learning Convention",
+      "type": "conference",
+      "startDateTime": "2021-03-09T01:00:00-08:00",
+      "endDateTime": "2021-03-10T09:00:00-08:00",
+      "website": "http://www.aimlconvention.com/",
+      "provider": {
+        "name": "aimlconvention.com",
+        "domain": "aimlconvention.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "AI in Healthcare"
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_events/2021-02-03-the-martech-summit-hong-kong-2021.md",
       "title": "The MarTech Summit Hong Kong 2021",
       "excerpt": "The digital revolution has urged brands and advertisers to reshape the way they connect and engage with customers regionally and globally. At the same time, MarTech innovation through the likes of Data Analytics, AI, Machine Learning, Automation and the use of chatbots to enhance customer experience is growing at an unprecedentedly speed.",
@@ -415,6 +468,35 @@
       "content": "\r\n"
     },
     {
+      "path": "_events/2020-09-30-politico-ai-summit-2020.md",
+      "title": "POLITICO AI Summit 2020",
+      "excerpt": "AI has infiltrated every aspect of our lives, from the way we work and communicate to how we treat diseases and wage wars. Globally, businesses and governments are focusing on how to make the most out of this disruptive technology and mitigate the associated risks.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-09-30-politico-ai-summit-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/event/2020-09-30-politico-ai-summit-2020/",
+      "originalUrl": "https://diievents.dii.eu/ai-summit/",
+      "name": "POLITICO AI Summit 2020",
+      "type": "conference",
+      "startDateTime": "2020-09-30T02:00:00-07:00",
+      "endDateTime": "2020-10-01T10:00:00-07:00",
+      "website": "https://diievents.dii.eu/ai-summit/",
+      "provider": {
+        "name": "diievents.dii.eu",
+        "domain": "diievents.dii.eu"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://diievents.dii.eu/ai-summit/wp-content/uploads/sites/56/2020/02/RS-VFH2011.png",
+          "width": 570,
+          "height": 270,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_events/2020-09-30-politico-ai-summit-brussels-2020.md",
       "title": "POLITICO AI Summit Brussels 2020",
       "excerpt": "AI has infiltrated every aspect of our lives, from the way we work and communicate to how we treat diseases and wage wars. Globally, businesses and governments are focusing on how to make the most out of this disruptive technology and mitigate the associated risks.",
@@ -682,108 +764,6 @@
           "width": 3038,
           "height": 1616,
           "title": "The 33rd Annual Conference on Learning Theory (COLT 2020)",
-          "isCached": false
-        }
-      ],
-      "content": ""
-    },
-    {
-      "path": "_events/2020-06-22-spark-ai-summit-2020.md",
-      "title": "Spark + AI Summit",
-      "excerpt": "Join more than 4,000 AI experts, developers, engineers, data scientists, researchers and business professionals for three days of in-depth learning and networking.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-06-22-spark-ai-summit-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/event/2020-06-22-spark-ai-summit-2020/",
-      "name": "Spark + AI Summit",
-      "type": "conference",
-      "startDateTime": "2020-06-22T09:00:00-07:00",
-      "endDateTime": "2020-06-25T17:00:00-07:00",
-      "location": "Online",
-      "price": "$$$$",
-      "website": "https://databricks.com/sparkaisummit/north-america",
-      "provider": {
-        "name": "databricks",
-        "domain": "databricks.com"
-      },
-      "topics": [
-        "AI"
-      ],
-      "images": [
-        {
-          "url": "https://databricks.com/wp-content/uploads/2019/11/SAIS20-Meta-Databricks-22-25.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Spark + AI Summit",
-          "isCached": false
-        }
-      ],
-      "content": ""
-    },
-    {
-      "path": "_events/2020-04-28-ai-conference-2020.md",
-      "title": "AI Conference 2020: AI, Voice & Bots",
-      "excerpt": "AI Conference is a premier conference for Artificial Intelligence, Voice Skills, and Bots. Discover latest and Network with experts.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-04-28-ai-conference-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/event/2020-04-28-ai-conference-2020/",
-      "name": "AI Conference 2020: AI, Voice & Bots",
-      "type": "conference",
-      "startDateTime": "2020-04-28T05:30:00-07:00",
-      "endDateTime": "2020-04-29T13:30:00-07:00",
-      "location": "New York, NY",
-      "price": "$$$",
-      "website": "https://www.aiconference.co/",
-      "provider": {
-        "name": "Chatbot Conference",
-        "domain": "chatbotconference.com"
-      },
-      "topics": [
-        "AI"
-      ],
-      "images": [
-        {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F86479479%2F196455670280%2F1%2Foriginal.20200106-215352?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=199%2C0%2C2228%2C1114&s=43cdf065d27af6eb10a784d1f6077fb9",
-          "width": 800,
-          "height": 400,
-          "title": "AI Conference 2020: AI, Voice & Bots",
-          "isCached": false
-        }
-      ],
-      "content": ""
-    },
-    {
-      "path": "_events/2020-03-03-tc-sessions-robotics-ai-2020.md",
-      "title": "TC Sessions: Robotics + AI 2020",
-      "excerpt": "TechCrunch Sessions: Robotics & AI is a single-day event that features in-depth interviews and networking opportunities with top robotics and AI technologists, founders, investors and researchers.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-03-03-tc-sessions-robotics-ai-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/event/2020-03-03-tc-sessions-robotics-ai-2020/",
-      "name": "TC Sessions: Robotics + AI 2020",
-      "type": "conference",
-      "startDateTime": "2020-03-03T10:00:00-08:00",
-      "endDateTime": "2020-03-03T17:20:00-08:00",
-      "location": "Berkeley, CA",
-      "price": "$$$",
-      "website": "https://techcrunch.com/events/tc-sessions-robotics-ai-2020/",
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/10/tc_sessions_robotics_newrobot.png?w=2000",
-          "width": 900,
-          "height": 1080,
-          "title": "TC Sessions: Robotics + AI 2020",
           "isCached": false
         }
       ],

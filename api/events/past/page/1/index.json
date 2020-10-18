@@ -35,6 +35,35 @@
       "content": "\r\n"
     },
     {
+      "path": "_events/2020-09-30-politico-ai-summit-2020.md",
+      "title": "POLITICO AI Summit 2020",
+      "excerpt": "AI has infiltrated every aspect of our lives, from the way we work and communicate to how we treat diseases and wage wars. Globally, businesses and governments are focusing on how to make the most out of this disruptive technology and mitigate the associated risks.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-09-30-politico-ai-summit-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/event/2020-09-30-politico-ai-summit-2020/",
+      "originalUrl": "https://diievents.dii.eu/ai-summit/",
+      "name": "POLITICO AI Summit 2020",
+      "type": "conference",
+      "startDateTime": "2020-09-30T02:00:00-07:00",
+      "endDateTime": "2020-10-01T10:00:00-07:00",
+      "website": "https://diievents.dii.eu/ai-summit/",
+      "provider": {
+        "name": "diievents.dii.eu",
+        "domain": "diievents.dii.eu"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://diievents.dii.eu/ai-summit/wp-content/uploads/sites/56/2020/02/RS-VFH2011.png",
+          "width": 570,
+          "height": 270,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_events/2020-09-30-politico-ai-summit-brussels-2020.md",
       "title": "POLITICO AI Summit Brussels 2020",
       "excerpt": "AI has infiltrated every aspect of our lives, from the way we work and communicate to how we treat diseases and wage wars. Globally, businesses and governments are focusing on how to make the most out of this disruptive technology and mitigate the associated risks.",

@@ -316,6 +316,30 @@
       "content": "\r\n"
     },
     {
+      "path": "_events/2021-03-09-the-ai-machine-learning-convention.md",
+      "title": "The AI & Machine Learning Convention",
+      "excerpt": "The AI & Machine Learning Convention is one of the UK’s most forward thinking events. Dedicated to exhibiting technology which is really just beginning to be introduced across hospital services, this truly is a pioneering event that will shape the future of healthcare.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2021-03-09-the-ai-machine-learning-convention/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/event/2021-03-09-the-ai-machine-learning-convention/",
+      "originalUrl": "http://www.aimlconvention.com/",
+      "name": "The AI & Machine Learning Convention",
+      "type": "conference",
+      "startDateTime": "2021-03-09T01:00:00-08:00",
+      "endDateTime": "2021-03-10T09:00:00-08:00",
+      "website": "http://www.aimlconvention.com/",
+      "provider": {
+        "name": "aimlconvention.com",
+        "domain": "aimlconvention.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "AI in Healthcare"
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_events/2021-03-15-ai-data-science-in-trading-new-york-2020.md",
       "title": "AI & Data Science in Trading New York 2020",
       "excerpt": "AI & Data Science in Trading brings together experts in the use of AI and advanced data analytic techniques within asset management, primarily for finding alpha, managing risk and optimizing portfolios.  Initially exclusively used by analysts within quantitative firms, automation and outsourced tools are allowing fundamental firms to benefit from these techniques -  providing new insight for their discretionary strategies.",
@@ -327,6 +351,35 @@
       "startDateTime": "2021-03-15T02:00:00-07:00",
       "endDateTime": "2021-03-17T10:00:00-07:00",
       "location": "New York, NY",
+      "website": "https://www.aidatatrading.com/",
+      "provider": {
+        "name": "aidatatrading.com",
+        "domain": "aidatatrading.com"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://plsadaptive.s3.amazonaws.com/eco/images/logos/a6zxkHCMS4PWWwq1V1GzGJcqHatPbWwNw2Uh68Uq.png",
+          "width": 800,
+          "height": 600,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2021-03-15-ai-data-science-in-trading-new-york-2021.md",
+      "title": "AI & Data Science in Trading New York 2021",
+      "excerpt": "AI & Data Science in Trading brings together experts in the use of AI and advanced data analytic techniques within asset management, primarily for finding alpha, managing risk and optimizing portfolios.  Initially exclusively used by analysts within quantitative firms, automation and outsourced tools are allowing fundamental firms to benefit from these techniques -  providing new insight for their discretionary strategies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2021-03-15-ai-data-science-in-trading-new-york-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/event/2021-03-15-ai-data-science-in-trading-new-york-2021/",
+      "originalUrl": "https://www.aidatatrading.com/",
+      "name": "AI & Data Science in Trading New York 2021",
+      "type": "conference",
+      "startDateTime": "2021-03-15T02:00:00-07:00",
+      "endDateTime": "2021-03-17T10:00:00-07:00",
       "website": "https://www.aidatatrading.com/",
       "provider": {
         "name": "aidatatrading.com",

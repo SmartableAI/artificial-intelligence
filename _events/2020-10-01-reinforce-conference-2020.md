@@ -4,7 +4,7 @@ excerpt: "In recent years our ability to apply AI and Deep Learning to real-worl
 originalUrl: http://reinforceconf.com/
 website: http://reinforceconf.com/
 type: conference
-startDateTime: 2020-10-01T09:00:00Z
+startDateTime: 2020-12-01T09:00:00Z
 endDateTime: 2020-12-31T17:00:00Z
 removed: true
 published: false

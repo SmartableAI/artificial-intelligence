@@ -79,6 +79,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/ai/event/2020-09-30-politico-ai-summit-2020/</loc>
+    <lastmod>2020-10-12T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/ai/event/2020-09-30-politico-ai-summit-brussels-2020/</loc>
     <lastmod>2020-10-12T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -151,7 +157,19 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/ai/event/2021-03-09-the-ai-machine-learning-convention/</loc>
+    <lastmod>2020-10-12T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/ai/event/2021-03-15-ai-data-science-in-trading-new-york-2020/</loc>
+    <lastmod>2020-10-12T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/event/2021-03-15-ai-data-science-in-trading-new-york-2021/</loc>
     <lastmod>2020-10-12T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
