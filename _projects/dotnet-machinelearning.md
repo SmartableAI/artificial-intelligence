@@ -1,17 +1,15 @@
 ---
-name: Machine Learning for .NET
+name: "Machine Learning for .NET"
 excerpt: "ML.NET is an open source and cross-platform machine learning framework for .NET."
-website: https://dot.net/ml
 type: code
+heat: 681
 
 github:
-  url: https://github.com/dotnet/machinelearning
+  url: "https://github.com/dotnet/machinelearning"
   watches: 624
   stars: 6340
   forks: 1320
-  license: MIT License
-  languages: [ "C#" ]
-
+  languages: ["C#"]
 provider:
   name: Microsoft
   domain: microsoft.com
@@ -30,4 +28,6 @@ images:
     width: 459
     height: 238
     title: "ML.NET"
+
 ---
+

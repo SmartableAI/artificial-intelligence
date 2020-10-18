@@ -1,10 +1,8 @@
 ---
-name: Cartoonify
+name: "Cartoonify"
 excerpt: "Turn a photo into a cartoon with a neural network"
 type: demo
-
-demo:
-  url: https://www.kapwing.com/cartoonify
+heat: 50
 
 provider:
   name: Kapwing
@@ -19,4 +17,6 @@ images:
     width: 763
     height: 633
     title: "Cartoonify"
+
 ---
+

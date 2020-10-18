@@ -1,18 +1,15 @@
 ---
-name: Four Experiments in Handwriting with a Neural Network
+name: "Four Experiments in Handwriting with a Neural Network"
 excerpt: "Several interactive visualizations of a generative model of handwriting. Some are fun, some are serious."
 type: code
-
-demo:
-  url: https://distill.pub/2016/handwriting/
+heat: 406
 
 github:
-  url: https://github.com/distillpub/post--handwriting
+  url: "https://github.com/distillpub/post--handwriting"
   watches: 15
   stars: 140
   forks: 42
-  languages: [ "JavaScript" ]
-
+  languages: ["JavaScript"]
 provider:
   name: Distill
   domain: distill.pub
@@ -26,7 +23,6 @@ topics:
   - Machine Learning
   - Google AI
   - TensorFlow
-
 tags:
   - TensorFlow
   - TensorFlow.js
@@ -39,3 +35,4 @@ images:
     title: "Handwriting"
 
 ---
+

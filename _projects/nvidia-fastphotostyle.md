@@ -1,15 +1,15 @@
 ---
-name: FastPhotoStyle
-excerpt: Style transfer, deep learning, feature transform
+name: "FastPhotoStyle"
+excerpt: "Style transfer, deep learning, feature transform"
 type: code
+heat: 712
 
 github:
-  url: https://github.com/NVIDIA/FastPhotoStyle
+  url: "https://github.com/NVIDIA/FastPhotoStyle"
   watches: 290
   stars: 9803
   forks: 974
-  languages: [ "Python" ]
-
+  languages: ["Python"]
 provider:
   name: NVIDIA
   domain: nvidia.com
@@ -30,4 +30,6 @@ images:
     width: 1300
     height: 1300
     title: "Fast Photo Style"
+
 ---
+

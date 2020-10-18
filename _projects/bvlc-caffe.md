@@ -1,16 +1,15 @@
 ---
-name: Caffe
+name: "Caffe"
 excerpt: "Caffe is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors."
-website: http://caffe.berkeleyvision.org/
 type: code
+heat: 791
 
 github:
-  url: https://github.com/BVLC/caffe
+  url: "https://github.com/BVLC/caffe"
   watches: 2241
   stars: 29156
   forks: 17480
-  languages: [ "C++" ]
-
+  languages: ["C++"]
 provider:
   name: Berkeley
   domain: berkeley.edu
@@ -29,4 +28,6 @@ images:
     width: 218
     height: 147
     title: "Caffe"
+
 ---
+

@@ -1,0 +1,206 @@
+{
+  "title": "Projects",
+  "path": "_projects",
+  "page": 2,
+  "value": [
+    {
+      "path": "_projects/nvidia-redtail.md",
+      "excerpt": "Perception and AI components for autonomous mobile robotics.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/nvidia-redtail/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/nvidia-redtail/",
+      "github": {
+        "url": "https://github.com/NVIDIA-AI-IOT/redtail",
+        "watches": 90,
+        "stars": 652,
+        "forks": 246,
+        "languages": [
+          "C++",
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nvidia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 517,
+      "content": "",
+      "name": "redtail",
+      "type": "code",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_projects/facebook-habitat-sim.md",
+      "excerpt": "A flexible, high-performance 3D simulator for Embodied AI research.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/facebook-habitat-sim/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/facebook-habitat-sim/",
+      "github": {
+        "url": "https://github.com/facebookresearch/habitat-sim",
+        "watches": 38,
+        "stars": 573,
+        "forks": 90,
+        "languages": [
+          "C++",
+          "PHP",
+          "C"
+        ]
+      },
+      "provider": {
+        "name": "Facebook Open Source",
+        "domain": "opensource.facebook.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/opensource.facebook.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 508,
+      "images": [
+        {
+          "url": "https://github.com/facebookresearch/habitat-sim/raw/master/https://github.com/facebookresearch/habitat-sim/raw/master/docs/images/habitat_compressed.gif",
+          "width": 400,
+          "height": 225,
+          "title": "Habitat-Sim",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "name": "Habitat-Sim",
+      "type": "code",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_projects/distillpub-handwriting.md",
+      "excerpt": "Several interactive visualizations of a generative model of handwriting. Some are fun, some are serious.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/distillpub-handwriting/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/distillpub-handwriting/",
+      "github": {
+        "url": "https://github.com/distillpub/post--handwriting",
+        "watches": 15,
+        "stars": 140,
+        "forks": 42,
+        "languages": [
+          "JavaScript"
+        ]
+      },
+      "provider": {
+        "name": "Distill",
+        "domain": "distill.pub",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/distill.pub-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 406,
+      "tags": [
+        "TensorFlow",
+        "TensorFlow.js",
+        "Neural Network"
+      ],
+      "images": [
+        {
+          "url": "https://distill.pub/2016/handwriting/assets/strokes/jpg/003-65-8.jpg",
+          "width": 1800,
+          "height": 470,
+          "title": "Handwriting",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "name": "Four Experiments in Handwriting with a Neural Network",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_projects/jack000-fontjoy.md",
+      "excerpt": "Generate font combinations with deep learning",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/jack000-fontjoy/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/jack000-fontjoy/",
+      "provider": {
+        "name": "Jack Qiao"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/EOFMjcqNPnM0SHhCJlaHySo7YX1quhiXDE7-f5SMCYTIoUaruD8-_6AWuRqZjJDQDhGmqI0J_R1A8ix0Oe9b6iMvM7-4=s2048",
+          "width": 600,
+          "height": 333,
+          "title": "Fontjoy",
+          "isCached": false
+        },
+        {
+          "url": "https://lh3.googleusercontent.com/fdDJcj3eJqgB4PPoDmTRiRb8ZCCKidk1kFELd9SKcHNOIYFNac8Qjy28TbkCmJf_P6gkGTonQtxqyOE528PJ-D9TVM5pxA=s850",
+          "width": 850,
+          "height": 478,
+          "isCached": false
+        },
+        {
+          "url": "https://lh3.googleusercontent.com/71vevkRhZO02_Jh99JalVd8oZNHRnwIAgLY4_hb9Xuanoel8Peacttj4QOVyaGWyRwaCckiDbiYclhP2K2_FTgY4bglSMEo=s850",
+          "width": 850,
+          "height": 478,
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "name": "Fontjoy",
+      "type": "demo",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Deep Learning"
+      ]
+    },
+    {
+      "path": "_projects/kapwing-cartoonify.md",
+      "excerpt": "Turn a photo into a cartoon with a neural network",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/kapwing-cartoonify/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/kapwing-cartoonify/",
+      "provider": {
+        "name": "Kapwing",
+        "domain": "kapwing.com"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.imgur.com/vyiDq0y.png",
+          "width": 763,
+          "height": 633,
+          "title": "Cartoonify",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "name": "Cartoonify",
+      "type": "demo",
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    }
+  ]
+}

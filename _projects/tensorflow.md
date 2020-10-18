@@ -1,21 +1,19 @@
 ---
-name: TensorFlow
+name: "TensorFlow"
 excerpt: "An Open Source Machine Learning Framework for Everyone"
-website: https://www.tensorflow.org/
 type: code
+heat: 901
 
 github:
-  url: https://github.com/tensorflow/tensorflow
+  url: "https://github.com/tensorflow/tensorflow"
   watches: 8593
   stars: 133062
   forks: 76941
-  license: Apache License 2.0
-  languages: [ "C++", "Python" ]
-
+  languages: ["C++","Python"]
 provider:
   name: tensorflow
   domain: tensorflow.org
-  
+
 topics:
   - AI
   - Google AI
@@ -31,4 +29,6 @@ images:
     width: 1200
     height: 675
     title: "TensorFlow"
+
 ---
+

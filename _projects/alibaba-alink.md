@@ -2,15 +2,14 @@
 name: "Alink"
 excerpt: "Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform."
 type: code
+heat: 555
 
 github:
-  url: https://github.com/alibaba/Alink
+  url: "https://github.com/alibaba/Alink"
   watches: 65
   stars: 1100
   forks: 218
-  license: Apache License 2.0
-  languages: [ "Java" ]
-
+  languages: ["Java"]
 provider:
   name: Alibaba
   domain: alibaba.com
@@ -24,4 +23,6 @@ images:
     width: 1320
     height: 1048
     title: "Alink Machine Learning Algorithms"
+
 ---
+

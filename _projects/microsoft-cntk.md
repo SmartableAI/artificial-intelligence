@@ -1,17 +1,15 @@
 ---
-name: CNTK
+name: "CNTK"
 excerpt: "Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit"
-website: https://docs.microsoft.com/cognitive-toolkit/
 type: code
+heat: 749
 
 github:
-  url: https://github.com/Microsoft/CNTK
+  url: "https://github.com/Microsoft/CNTK"
   watches: 588
   stars: 16358
   forks: 2503
-  license: MIT License
-  languages: [ "C++", "Jupyter Notebook", "Python" ]
-
+  languages: ["C++","Jupyter Notebook","Python"]
 provider:
   name: Microsoft
   domain: microsoft.com
@@ -19,7 +17,7 @@ provider:
     - url: /assets/images/organizations/microsoft.com-50x50.jpg
       width: 50
       height: 50
-      
+
 topics:
   - AI
   - Microsoft AI
@@ -32,4 +30,6 @@ images:
     width: 800
     height: 550
     title: "Microsoft Cognitive Toolkit (CNTK)"
+
 ---
+

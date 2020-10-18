@@ -1,15 +1,15 @@
 ---
-name: redtail
-excerpt: Perception and AI components for autonomous mobile robotics.
+name: "redtail"
+excerpt: "Perception and AI components for autonomous mobile robotics."
 type: code
+heat: 517
 
 github:
-  url: https://github.com/NVIDIA-AI-IOT/redtail
+  url: "https://github.com/NVIDIA-AI-IOT/redtail"
   watches: 90
   stars: 652
   forks: 246
-  languages: [ "C++", "Python" ]
-
+  languages: ["C++","Python"]
 provider:
   name: NVIDIA
   domain: nvidia.com
@@ -22,7 +22,5 @@ topics:
   - AI
   - AI in Robotics
 
-video:
-  - url: https://www.youtube.com/watch?v=H7Ym3DMSGms
-  - url: https://www.youtube.com/watch?v=0FPQdVOYoAU
 ---
+

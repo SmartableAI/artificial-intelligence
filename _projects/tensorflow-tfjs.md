@@ -1,21 +1,19 @@
 ---
-name: TensorFlow.js
+name: "TensorFlow.js"
 excerpt: "A WebGL accelerated JavaScript library for training and deploying ML models."
-website: https://www.tensorflow.org/js/
 type: code
+heat: 728
 
 github:
-  url: https://github.com/tensorflow/tfjs
+  url: "https://github.com/tensorflow/tfjs"
   watches: 338
   stars: 12200
   forks: 969
-  license: Apache License 2.0
-  languages: [ "TypeScript", "JavaScript" ]
-
+  languages: ["TypeScript","JavaScript"]
 provider:
   name: tensorflow
   domain: tensorflow.org
-  
+
 topics:
   - AI
   - Google AI
@@ -31,4 +29,6 @@ images:
     width: 1200
     height: 675
     title: "TensorFlow"
+
 ---
+

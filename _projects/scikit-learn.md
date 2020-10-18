@@ -1,17 +1,15 @@
 ---
-name: scikit-learn
+name: "scikit-learn"
 excerpt: "scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license."
-website: https://scikit-learn.org
 type: code
+heat: 808
 
 github:
-  url: https://github.com/scikit-learn/scikit-learn
+  url: "https://github.com/scikit-learn/scikit-learn"
   watches: 2261
   stars: 36741
   forks: 18063
-  license: New BSD License
-  languages: [ "Python" ]
-
+  languages: ["Python"]
 provider:
   name: scikit-learn
   domain: scikit-learn.org
@@ -25,4 +23,6 @@ images:
     width: 1200
     height: 646
     title: "scikit-learn"
+
 ---
+

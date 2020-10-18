@@ -1,19 +1,15 @@
 ---
-name: GANDissect
+name: "GANDissect"
 excerpt: "Pytorch-based tools for visualizing and understanding the neurons of a GAN."
-website: https://gandissect.csail.mit.edu/
 type: code
-
-demo:
-  url: http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4
+heat: 572
 
 github:
-  url: https://github.com/CSAILVision/gandissect
+  url: "https://github.com/CSAILVision/gandissect"
   watches: 70
   stars: 1396
   forks: 205
-  languages: [ "Python" ]
-
+  languages: ["Python"]
 provider:
   name: MIT
   domain: mit.edu
@@ -35,6 +31,5 @@ images:
     height: 257
     title: "GANDissect"
 
-videos:
-  - url: https://www.youtube.com/watch?v=yVCgUYe4JTM
 ---
+

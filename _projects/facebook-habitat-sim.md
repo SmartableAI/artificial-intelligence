@@ -1,17 +1,15 @@
 ---
-name: Habitat-Sim
-excerpt: A flexible, high-performance 3D simulator for Embodied AI research. 
+name: "Habitat-Sim"
+excerpt: "A flexible, high-performance 3D simulator for Embodied AI research."
 type: code
-
-website: https://aihabitat.org/
+heat: 508
 
 github:
-  url: https://github.com/facebookresearch/habitat-sim
+  url: "https://github.com/facebookresearch/habitat-sim"
   watches: 38
   stars: 573
   forks: 90
-  languages: [ "C++", "PHP", "C" ]
-
+  languages: ["C++","PHP","C"]
 provider:
   name: Facebook Open Source
   domain: opensource.facebook.com
@@ -28,5 +26,7 @@ images:
   - url: https://github.com/facebookresearch/habitat-sim/raw/master/https://github.com/facebookresearch/habitat-sim/raw/master/docs/images/habitat_compressed.gif
     width: 400
     height: 225
-    title: Habitat-Sim
+    title: "Habitat-Sim"
+
 ---
+

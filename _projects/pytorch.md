@@ -1,16 +1,15 @@
 ---
-name: PyTorch
+name: "PyTorch"
 excerpt: "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
-website: https://pytorch.org/
 type: code
+heat: 796
 
 github:
-  url: https://github.com/pytorch/pytorch
+  url: "https://github.com/pytorch/pytorch"
   watches: 1313
   stars: 31069
   forks: 7612
-  languages: [ "C++", "Python" ]
-
+  languages: ["C++","Python"]
 provider:
   name: pytorch
   domain: pytorch.com
@@ -25,4 +24,6 @@ images:
     width: 2500
     height: 2500
     title: "PyTorch"
+
 ---
+

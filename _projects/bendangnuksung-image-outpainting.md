@@ -1,19 +1,19 @@
 ---
-name: Keras implementation of Image OutPainting
+name: "Keras implementation of Image OutPainting"
 excerpt: "This is an implementation of Painting Outside the Box: Image Outpainting paper from Standford University. Some changes have been made to work with 256*256 image."
 type: code
+heat: 548
 
 github:
-  url: https://github.com/bendangnuksung/Image-OutPainting
+  url: "https://github.com/bendangnuksung/Image-OutPainting"
   watches: 40
   stars: 1001
   forks: 195
-  languages: [ "Jupyter Notebook", "Python" ]
-
+  languages: ["Jupyter Notebook","Python"]
 provider:
   name: Bendang
-  url: https://github.com/bendangnuksung
-  
+  domain: 
+
 topics:
   - AI
   - Computer Vision
@@ -27,4 +27,6 @@ images:
     width: 1201
     height: 1253
     title: "Keras implementation of Image OutPainting"
+
 ---
+

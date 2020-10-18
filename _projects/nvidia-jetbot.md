@@ -1,15 +1,15 @@
 ---
-name: jetbot
-excerpt: An educational AI robot based on NVIDIA Jetson Nano.
+name: "jetbot"
+excerpt: "An educational AI robot based on NVIDIA Jetson Nano."
 type: code
+heat: 567
 
 github:
-  url: https://github.com/NVIDIA-AI-IOT/jetbot
+  url: "https://github.com/NVIDIA-AI-IOT/jetbot"
   watches: 134
   stars: 1300
   forks: 396
-  languages: [ "Jupyter Notebook", "Python" ]
-
+  languages: ["Jupyter Notebook","Python"]
 provider:
   name: NVIDIA
   domain: nvidia.com
@@ -26,5 +26,7 @@ images:
   - url: https://github.com/NVIDIA-AI-IOT/jetbot/wiki/images/jetson-jetbot-illustration_1600x1260.png
     width: 618
     height: 487
-    title: jetbot
+    title: "jetbot"
+
 ---
+

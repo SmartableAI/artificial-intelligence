@@ -33,18 +33,6 @@ pagination:
 
 
 #----------------------------------------------------------------------------------
-# Project Settings
-#----------------------------------------------------------------------------------
-
-# Default settings of projects
-default_project_settings: &default_project_settings
-  layout: post
-  category: project
-  permalink: /api/projects/:path/index.json
-  deleted: false
-
-
-#----------------------------------------------------------------------------------
 # Company Settings
 #----------------------------------------------------------------------------------
 
@@ -105,8 +93,6 @@ collections:
     output: true
   posts:
     output: true
-  projects:
-    output: true
   companies:
     output: true
   people:
@@ -123,12 +109,6 @@ defaults:
       type: posts
     values:
       <<: *default_post_settings
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      <<: *default_project_settings
   # _companies
   - scope:
       path: ""

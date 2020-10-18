@@ -1,14 +1,12 @@
 ---
-name: Fontjoy
+name: "Fontjoy"
 excerpt: "Generate font combinations with deep learning"
 type: demo
-
-demo:
-  url: https://fontjoy.com/
+heat: 50
 
 provider:
   name: Jack Qiao
-  url: http://jack.works/
+  domain: 
 
 topics:
   - AI
@@ -26,4 +24,6 @@ images:
   - url: https://lh3.googleusercontent.com/71vevkRhZO02_Jh99JalVd8oZNHRnwIAgLY4_hb9Xuanoel8Peacttj4QOVyaGWyRwaCckiDbiYclhP2K2_FTgY4bglSMEo=s850
     width: 850
     height: 478
+
 ---
+
