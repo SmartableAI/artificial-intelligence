@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists voice concerns, call for transparency and reproducibility in AI research"
+    excerpt: "Scientist challenge scientific journals to hold computational researchers to higher standards of transparency, and call for their colleagues to share their code, models and computational environments in publications."
+    publishedDateTime: 2020-10-14T18:08:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201014114606.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
   - title: "A call for greater transparency, reproducibility in use of artificial intelligence in medicine"
     excerpt: "Scientists working at the intersection of Artificial Intelligence (AI) and cancer care need to be more transparent about their methods and"
     publishedDateTime: 2020-10-14T17:07:00Z

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
-excerpt: "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering ..."
+excerpt: "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment."
 publishedDateTime: 2020-10-14T16:38:00Z
 originalUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
 webUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,8 +15,9 @@ provider:
   domain: bakersfield.com
 
 topics:
-  - AI in Autos
+  - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
@@ -49,6 +50,6 @@ related:
       domain: finanznachrichten.de
     quality: 8
 
-secured: "tTs+x+/Ro1sXdHn4BecR6DZMvYDXhuSkqmQG+B3sL/PdWMTFMHDXRB3QRU4RL/7ggxvWY/QVFbH7k4ZPKeWSPIPuqTYm+kceDOqtNHCSWWQI73NpBUH5yDAUq7mUZJa4TiwY6D0+Wr2i2sDor5NeCRIiv4A+BG2RAiGhHlzsSs5cpz+p/jQqsV6y99RAhehonqkG51Ovg2AF6Ji2hD8sGMzUpJ0KtWJTAhZ9W4XylAAuJNmgeNObvDLeTCeI9UcEwB+AI8Egtba9xsQPycxZuswewaSnclSVipJStQ416aI6FtBROWuNN5IpagmSd914CBSJiu/V++eEzzGkbI40RHDMmJ9JcIst37X/Ha3z5vM=;1RwLGSnHC5Uznpd/6ioxKg=="
+secured: "niKVh6+YcscxnYWiDF9O8bj+hYQfSHN9JMrP3xdmox5HwhFkfybvYFGifXEogZDF8DYa49A8Tvs0MCSrlB3VlafhP7Y/hajbRbmxaJY2w/qNTPFMkVYlbwCJsGYIAf0NATdd4RMzWF+Jyab3bVQoWSZcurf6lDzypiyqgyrMnTkoEsB4l+Je7Anv3J4qi34Oe2fZkoHfSmxy4XewEgrAnhi8Hela4Yh+4XcjFaR7OiIHsQzmaTw7VCU6A/RdS5fmchfbA0g7r+NJXvaA6jK9/W2rY/H1N2al5Dj+3+o8zlH0TWtjlXDzGXjO4FWTHY3piipapE9VB4jezUwrWXFXnDVRC4DwJgUczI8gGJI9PLI=;UVlztNvtWpvxVqxa+SRRww=="
 ---
 

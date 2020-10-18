@@ -132,22 +132,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Tesla Autopilot Self-Driving Beta Test Will Start Tuesday, Elon Musk Confirms"
-    excerpt: "Tesla CEO Elon Musk announced via Twitter on Monday that the company's autopilot self-driving mode would be made available in a small beta test starting next week. The closed beta"
-    publishedDateTime: 2020-10-13T05:10:00Z
-    webUrl: "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130"
-    ampWebUrl: "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 56
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/23/tesla-is-one-of-several-major-automakers-suing.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "t/Keske5LEiFr/IhB3HaKqpvmVul5xFmZCOU6XhWZL2QuLArsOV2oeiWj7E3WGlbjUokVrAJm6Yf9dO80Cnro1FMd4nqHgmMbDRcCzdyjNn6+MgPBCS3hJEye/JryVT+gwShjIrx7qBZeuAbl+PUPKkn0KgZmYaq0Vqr0gqnW0R1/EFj9TaCMY+Zq0v2E+ZEN+b5bFUGNT5gGaEgf1NyDRu4nqaCOFHTTVRKfbNtnQSWawKADHqnVYbASPuOMrYh9cYTpzj7L1iElcV34jlNWH1upF3zDhxY1/X0dG87Y6spnU3kJTTVlZoLkpJK/15tpbp/bl8JfAVGSNFUPEZdh1ltVJt8+fOqhzPr1DZA8FQ=;G/tsrBEQVUbG2wOch6oI3w=="
 ---

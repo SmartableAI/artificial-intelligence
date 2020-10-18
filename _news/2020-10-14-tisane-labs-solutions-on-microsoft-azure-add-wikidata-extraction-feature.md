@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tisane Labs' Solutions on Microsoft Azure Add Wikidata Extraction Feature"
-excerpt: "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft"
-publishedDateTime: 2020-10-13T17:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html"
-webUrl: "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html"
+excerpt: "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft Azure Marketplace and AppSource. With the new feature, Tisane API now allows tagging and extraction of Wikidata entities,"
+publishedDateTime: 2020-10-13T17:54:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
+webUrl: "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
 type: article
-quality: 53
-heat: 53
-published: false
+quality: 83
+heat: 83
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "dj+3i2p2/ayUZSC0xZGa/ADScdzhpJ2FL4zn6yGeSdzCmVUD+m3mK70KwSRFFYSr+1kxkUFokKP+1l1lRbjOHzRBDbPalC+BXlDDxLekwDopUAWoZRtpYu8AnNVjzfacWHvbvHatukkgREfb4GpJWEb5QYZLisjWR8qslk2v1IJB2PwJRfafrn+LjV7w81wxzE8s3AecpQjSxaT4Z6HB+trPuIUffW2tluzHxtk6fO311ZrW1x0598dEn2UWwKw/fJ7SYlezcjO2SfpjwSaQYOgUVIG1Z/SteV49ZWDRhX5kopUX0M4gTyWWmTdTZ7cfhyqSGyQ9qVZhSe7OrQ8k2pocME7yuZPM7mg3fMbsCyM=;8rq+IxcOi1Tu/lC+DzKw9A=="
+secured: "/UB94+5bDhPyb2OA1TV2c9ujoBolvejoBMZOEAw0v2owOnGBlxIHt7Gdw9HgmDU0CAYXD612ih0Xh1O781nSwgLvlBeZCFmd8/eckEKq2K9RWjQOL/3QqjEiP9o/RauuZuY78tFPc+ht4DfzV/MpnlYh514dZJ2ppnfrtyOOm6yr1HiHPIiuFy+7RW5BwjRbHcmUZDTN+lfI886PDk6o5mXH2/CAq2fGl8RavZGXQAGuhe+QbYxcbCLkqbSQPooXmZnvrEBOaBRBgwq1DLHcO5wtL+ulzy/nk7kBCifWwvmc31emPutzD0dtdx7+WMsIPpRp0Kf39bTB8esLCw8lH1wC38hH+YZ53Y2+qTWtLWY=;eMUcI15vlyKGd4AAbPMiJg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.modernhealthcare.com/care-delivery/artificial-intellig
 webUrl: "https://www.modernhealthcare.com/care-delivery/artificial-intelligence-gets-real-or"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,28 +25,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Robots will watch, learn and reason in AI’s augmented reality"
-    excerpt: "Australia has no choice but to step up investment in artificial intelligence, says Anton van den Hengel, whose Adelaide research group was awarded 20m in the federal budget last week to boost Australias position in this highly competitive research field."
-    publishedDateTime: 2020-10-13T06:14:00Z
-    webUrl: "https://www.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d"
-    ampWebUrl: "https://amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 54
-  - title: "Scientists voice concerns, call for transparency and reproducibility in AI research"
-    excerpt: "Scientist challenge scientific journals to hold computational researchers to higher standards of transparency, and call for their colleagues to share their code, models and computational environments in publications."
-    publishedDateTime: 2020-10-14T18:08:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201014114606.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 41
 
 secured: "IELcqavXaeMhPHK4VWT1J3PkLdgq3Y8QwZ3ZrXMqoXBrJNpiPQuprOJ4FurvktS2uFMt3yZbC+JxFdZpbCtcx69rwq/MVUXs8HzXyHn4P9ZXL/FjXUC8d7fbzR9DNfzk89L7xIKH27D6h1du5q8cgQLJ5rFH9ZiN9ov1B0/aleBGQDdmnCiqgjZ4sHfmFQaU4pra5VaEy4503nIK/pEVZXUPMAYIHld7rzdIHKraVmPC9SMBQ0pWUIuz1PtYwi9Z6zyCSk/QljOsiE+IXuMlJFp9cx7THo3v4zn5NYJ7AIFRJ/rr43GbGWamq9PBNBoDKfuKkWKm80wq/0rYMOFtKgb/yJnHAzqz5wpqz/sbjVovZqwiMeF71vUjc/pgJ9jjssCeD0oUICvbkKuP59caAehmV9eBET3NPR/uDGL8buOk2iNHgnIqRuClxRHt1oSaAjY92ROkIwSQmHxUGKEwTBr9WPdWyF+mKOqw3JCc2V7M+9M5yKKSXw9wOwf4NW4vIawP+bgFw0BaBcY81no8Mg==;CH9fkea8gpsaTd7iCgRliw=="
 ---

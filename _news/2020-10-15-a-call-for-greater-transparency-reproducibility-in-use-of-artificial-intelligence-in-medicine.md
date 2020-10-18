@@ -41,6 +41,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Scientists voice concerns, call for transparency and reproducibility in AI research"
+    excerpt: "Scientist challenge scientific journals to hold computational researchers to higher standards of transparency, and call for their colleagues to share their code, models and computational environments in publications."
+    publishedDateTime: 2020-10-14T18:08:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201014114606.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
 
 secured: "R9H+iEkIngKSi855v6M3UbxmFzVZVAV6mu0vC1zZr7rZfzpixBGbwo+4oyhFHiZwv323Y1+84PD0/VXmVjmXcYL/nwUqYQvjkYPlFbTJ+iXvU6e8l4/hq4xrhjqms4RHjSF+Wl7LoYwjtv6/7Kx//cTd/7wyue7N/6FN+MTe8UnbOzxcAU4yy6EyKseGUFFZzL/EzOwrzeAFHnmTKfcvQ2Fr8YB6eEu/0Rzog+TJs+fqPUebn6TerfKOV6npJfCiU1ObkzWMC4Xy35cYAohHHs7421sm/ULZdwhmOP7FZKX69f9OsrObXFzyIXVzsz7SewZUbF8dWdhdqcIyj+7kyj6FeyHIeTsMYcQLhkv+5MACmbHfC6+SSGH2ATWgOYX0YByIjIR0VAGjawTIYvDTEG5tRZfSxYtxe6u6iw/x9gOPNMvJ/3kML7XOz3H8LA7soL+Vf1C6Hl/sLUpUsA3sWtQjvsWf6C2cIcF07+j0sXswyE/h8818ZXcBfXp3FZPEoYLDrliJAClhtUgr4NM5nQ==;qQhyx/650CR2H/1sj5pAiA=="
 ---

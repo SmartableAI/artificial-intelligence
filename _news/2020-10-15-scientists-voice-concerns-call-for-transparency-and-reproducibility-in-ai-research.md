@@ -22,30 +22,35 @@ topics:
   - AI
 
 related:
-  - title: "Robots will watch, learn and reason in AI’s augmented reality"
-    excerpt: "Australia has no choice but to step up investment in artificial intelligence, says Anton van den Hengel, whose Adelaide research group was awarded 20m in the federal budget last week to boost Australias position in this highly competitive research field."
-    publishedDateTime: 2020-10-13T06:14:00Z
-    webUrl: "https://www.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d"
-    ampWebUrl: "https://amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d"
+  - title: "Researchers call for transparency and reproducibility in artificial intelligence research"
+    excerpt: "International scientists are challenging their colleagues to make Artificial Intelligence (AI) research more transparent and reproducible to accelerate the impact of their findings for cancer patients. In an article published in Nature on October 14 ..."
+    publishedDateTime: 2020-10-15T04:53:00Z
+    webUrl: "https://www.news-medical.net/news/20201015/Researchers-call-for-transparency-and-reproducibility-in-artificial-intelligence-research.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201015/Researchers-call-for-transparency-and-reproducibility-in-artificial-intelligence-research.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201015/Researchers-call-for-transparency-and-reproducibility-in-artificial-intelligence-research.aspx"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 54
-  - title: "Artificial intelligence gets real in the OR"
-    excerpt: "Since the start of the year, some surgeons and residents at UC San Diego Health have had access to a new surgical resource: reams of video recordings of them performing operations, parsed by artificial intelligence."
-    publishedDateTime: 2020-10-17T05:00:00Z
-    webUrl: "https://www.modernhealthcare.com/care-delivery/artificial-intelligence-gets-real-or"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 43
+      name: News Medical
+      domain: news-medical.net
+    quality: 48
     images:
-      - url: "https://www.modernhealthcare.com/s3/files/styles/800x600/public/2016%20autonomous%20surgery%20on%20pig%20-%20%20Surgical_WEB.jpg?h=59011727"
-        width: 800
-        height: 600
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "A call for greater transparency, reproducibility in use of artificial intelligence in medicine"
+    excerpt: "Scientists working at the intersection of Artificial Intelligence (AI) and cancer care need to be more transparent about their methods and"
+    publishedDateTime: 2020-10-14T17:07:00Z
+    webUrl: "https://www.hsph.harvard.edu/news/press-releases/a-call-for-greater-transparency-reproducibility-in-use-of-artificial-intelligence-in-medicine/"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 27
+    images:
+      - url: "https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2020/10/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "hcN2FlZDHN0mh7BWHlF4Auo7cJFWZhgMH74MG8dS1JtoHpy3JHRyZj+nqvu2Bf5FZHFqBavNT/WaZK9EDVFuLZCrb/6aCE5y2veSO/+439bjqCGcc5xy9yh5ITw2CF/xVJ1KlIwSzGaliY4lPjZ9iD8rcUuFGkCfZKP1hHBcPsgouMDDIFI+PlD8lTgLbs7dVxYqOP4hQOthNnoAbmMV11//OxnWWJXN9bHKcj9wxChYM9ENwNein0lJ+mj+Mo3a6NnsNkufaIkjIpiXM/t57EdH6FYMa+imTTjOhqwtoAIoM6YOalWu9gZ2jy2i7pxp8kpcVu1G2bLsnJoqQ/mlN0LbrsGEDf+FenV1Y/aW3jo=;v4jonHafqMyPd0MZ6yriPA=="

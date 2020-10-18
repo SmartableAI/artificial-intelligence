@@ -2,25 +2,20 @@
 category: news
 title: "7 Artificial Intelligence Stocks to Buy for October"
 excerpt: "But if there is one on Wall Street, it’s the rise of artificial intelligence stocks. Yes, there is the profitability angle from machine learning and other relevant technology facilitates."
-publishedDateTime: 2020-10-02T14:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-webUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+publishedDateTime: 2020-10-02T08:58:00Z
+originalUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02"
+webUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02"
+ampWebUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Autos
   - AI
 
-secured: "tiHvG8HD2yZJUMoUJ6nMPwLxD735U3SrgwmNNh2W6BvO0OwGArhEgoj/icBZgS/3MouptPXMGv9pGeOwF7gJz2Y/FtpDpfTu2S8ohjbc5uxIAuxrWGY5OF33NiSFRFM35PO4Wx1Yop/09w8tSzOSpIRRrXmoQfnpX8LyNRBelM1bST9dq85eQ3/w/PL3UnkZKdvjK2/MZS60FBX7L061eOB4gqjePWmLzH1le3pR+cjX3kfU7gRFbr9Ds58K9HX7yjKEYDiq4kH8t3fwtzG5NpqHdsYqvUuEGonGt299kx6KILYTYAxTnsyCsUtuCKaNbF+XhDHEbB/1sIwHI+/j1rvQ9+2/D91VlxNbJXCkYDw=;jBrJI48NSI3P/6gdI1Aw5g=="
+secured: "OmU/eHAufmLLnSBFCAC/+MK6GJKopSkEm/7lY2WMpLC5FMMeWemHu7X8DpgJ1c1aySfqcLiBiZPDPt95YNJ1be8GFyUIaH7q72e1eavUG5b+Q6FLX6H8RPNFV8M6VWfgNP2Y3QUFo6B6VzDmsIQziuCiKBoQuszejohqLPi9vZ7KLIPSvsAAtXKRb+GucFvPgEJ7eiynHmZr1lsBIAhJPV/SN+T8jL3azDR+OWU270VjdW+x0E0od3ASC16tW5O6FOGfVxPhv+B9oFcDtp1VePocJn70ZuvteWgoJ00xl6jmGTy58ZEgQM0Y7F3z2tMlHyihoo4R+vCq4x1aKjos+lsa6lFGaDOJu8fP0MjrZ/U=;IsYNKugbDJyURsV4YWulhA=="
 ---
 

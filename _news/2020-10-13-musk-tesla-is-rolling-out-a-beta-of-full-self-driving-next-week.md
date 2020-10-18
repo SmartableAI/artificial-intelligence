@@ -118,22 +118,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Tesla Autopilot Self-Driving Beta Test Will Start Tuesday, Elon Musk Confirms"
-    excerpt: "Tesla CEO Elon Musk announced via Twitter on Monday that the company's autopilot self-driving mode would be made available in a small beta test starting next week. The closed beta"
-    publishedDateTime: 2020-10-13T05:10:00Z
-    webUrl: "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130"
-    ampWebUrl: "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 56
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/23/tesla-is-one-of-several-major-automakers-suing.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tesla to launch 'Full Self Driving' beta to select drivers"
     excerpt: "Tesla CEO Elon Musk has revealed that the company will launch its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers on. \"Limited FSD beta releasing on Tuesday next week,"
     publishedDateTime: 2020-10-13T15:03:00Z
