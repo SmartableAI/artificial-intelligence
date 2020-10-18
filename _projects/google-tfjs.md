@@ -19,6 +19,7 @@ provider:
     - url: /assets/images/organizations/google.com-50x50.jpg
       width: 50
       height: 50
+
 topics:
   - AI
   - Google AI

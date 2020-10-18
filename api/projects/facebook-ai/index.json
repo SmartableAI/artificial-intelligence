@@ -4,10 +4,10 @@
   "page": 1,
   "value": [
     {
-      "path": "_projects/pytorch.md",
+      "path": "_projects/facebook-pytorch.md",
       "excerpt": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/pytorch/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/pytorch/",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/facebook-pytorch/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/facebook-pytorch/",
       "originalUrl": "https://pytorch.org/",
       "github": {
         "url": "https://github.com/pytorch/pytorch",
@@ -20,8 +20,16 @@
         ]
       },
       "provider": {
-        "name": "pytorch",
-        "domain": "pytorch.com"
+        "name": "Facebook",
+        "domain": "facebook.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/facebook.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "heat": 796,
       "images": [

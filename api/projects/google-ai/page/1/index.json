@@ -4,10 +4,10 @@
   "page": 1,
   "value": [
     {
-      "path": "_projects/tensorflow.md",
+      "path": "_projects/google-tensorflow.md",
       "excerpt": "An Open Source Machine Learning Framework for Everyone",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/tensorflow/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/tensorflow/",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/google-tensorflow/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/google-tensorflow/",
       "originalUrl": "https://www.tensorflow.org/",
       "github": {
         "url": "https://github.com/tensorflow/tensorflow",
@@ -20,8 +20,16 @@
         ]
       },
       "provider": {
-        "name": "tensorflow",
-        "domain": "tensorflow.org"
+        "name": "Google",
+        "domain": "google.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "heat": 901,
       "images": [
@@ -43,10 +51,10 @@
       ]
     },
     {
-      "path": "_projects/tensorflow-tfjs.md",
+      "path": "_projects/google-tfjs.md",
       "excerpt": "A WebGL accelerated JavaScript library for training and deploying ML models.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/tensorflow-tfjs/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/tensorflow-tfjs/",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/google-tfjs/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/google-tfjs/",
       "originalUrl": "https://www.tensorflow.org/js/",
       "github": {
         "url": "https://github.com/tensorflow/tfjs",
@@ -59,8 +67,16 @@
         ]
       },
       "provider": {
-        "name": "tensorflow",
-        "domain": "tensorflow.org"
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "heat": 728,
       "images": [

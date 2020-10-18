@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://smartable.ai/apps/ai/project/tensorflow/</loc>
+    <loc>https://smartable.ai/apps/ai/project/google-tensorflow/</loc>
     <lastmod>2020-10-12T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -13,13 +13,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/project/scikit-learn/</loc>
+    <loc>https://smartable.ai/apps/ai/project/scikit-learn-scikit-learn/</loc>
     <lastmod>2020-10-12T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/project/pytorch/</loc>
+    <loc>https://smartable.ai/apps/ai/project/facebook-pytorch/</loc>
     <lastmod>2020-10-12T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -79,7 +79,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/project/tensorflow-tfjs/</loc>
+    <loc>https://smartable.ai/apps/ai/project/google-tfjs/</loc>
     <lastmod>2020-10-12T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>

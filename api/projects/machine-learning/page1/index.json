@@ -4,10 +4,10 @@
   "page": 1,
   "value": [
     {
-      "path": "_projects/tensorflow.md",
+      "path": "_projects/google-tensorflow.md",
       "excerpt": "An Open Source Machine Learning Framework for Everyone",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/tensorflow/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/tensorflow/",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/google-tensorflow/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/google-tensorflow/",
       "originalUrl": "https://www.tensorflow.org/",
       "github": {
         "url": "https://github.com/tensorflow/tensorflow",
@@ -20,8 +20,16 @@
         ]
       },
       "provider": {
-        "name": "tensorflow",
-        "domain": "tensorflow.org"
+        "name": "Google",
+        "domain": "google.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "heat": 901,
       "images": [
@@ -61,7 +69,7 @@
         "name": "Keras",
         "domain": "keras.io"
       },
-      "heat": 820,
+      "heat": 821,
       "content": "\r\n",
       "name": "Keras: Deep Learning for humans",
       "type": "code",
@@ -75,10 +83,10 @@
       ]
     },
     {
-      "path": "_projects/scikit-learn.md",
+      "path": "_projects/scikit-learn-scikit-learn.md",
       "excerpt": "scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/scikit-learn/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/scikit-learn/",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/scikit-learn-scikit-learn/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/scikit-learn-scikit-learn/",
       "originalUrl": "https://scikit-learn.org/",
       "github": {
         "url": "https://github.com/scikit-learn/scikit-learn",
@@ -103,10 +111,10 @@
       ]
     },
     {
-      "path": "_projects/pytorch.md",
+      "path": "_projects/facebook-pytorch.md",
       "excerpt": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/pytorch/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/pytorch/",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/facebook-pytorch/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/facebook-pytorch/",
       "originalUrl": "https://pytorch.org/",
       "github": {
         "url": "https://github.com/pytorch/pytorch",
@@ -119,8 +127,16 @@
         ]
       },
       "provider": {
-        "name": "pytorch",
-        "domain": "pytorch.com"
+        "name": "Facebook",
+        "domain": "facebook.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/facebook.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "heat": 796,
       "images": [
@@ -206,7 +222,7 @@
           }
         ]
       },
-      "heat": 779,
+      "heat": 780,
       "tags": [
         "Big Data"
       ],
@@ -353,10 +369,10 @@
       ]
     },
     {
-      "path": "_projects/tensorflow-tfjs.md",
+      "path": "_projects/google-tfjs.md",
       "excerpt": "A WebGL accelerated JavaScript library for training and deploying ML models.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/tensorflow-tfjs/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/tensorflow-tfjs/",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/google-tfjs/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/google-tfjs/",
       "originalUrl": "https://www.tensorflow.org/js/",
       "github": {
         "url": "https://github.com/tensorflow/tfjs",
@@ -369,8 +385,16 @@
         ]
       },
       "provider": {
-        "name": "tensorflow",
-        "domain": "tensorflow.org"
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "heat": 728,
       "images": [
