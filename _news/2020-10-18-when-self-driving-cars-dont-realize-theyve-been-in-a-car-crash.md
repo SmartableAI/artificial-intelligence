@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Riding in a self-driving car is Waymo relaxing than you might expect"
-excerpt: "Subscribe to the Roadshow newsletter, receive notifications and see related stories on CNET. Now, suppose you need a little refresher on self-driving cars. In that case, Level 4 autonomy means that a vehicle can complete an entire journey without driver ..."
-publishedDateTime: 2020-10-15T00:45:00Z
-originalUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-van-phoenix-youtube/"
-webUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-van-phoenix-youtube/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
+title: "When Self-Driving Cars Don’t Realize They’ve Been In A Car Crash"
+excerpt: "Will self-driving cars realize when they've been in a car crash? getty. Have you ever been in a car crash? The odds are that if you’ve been driving for any notable number of yea"
+publishedDateTime: 2020-10-18T15:39:00Z
+originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/"
+webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
 type: article
-quality: 89
-heat: 149
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - AI
 
 images:
-  - url: "https://cnet2.cbsistatic.com/img/9uba5kNbIBwHtaYmXNybVv9IYxM=/2019/07/02/ffa46822-32cb-4b06-81a6-aa82f237cb11/waymo-ogi.jpg"
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88dfcdb1cfa1bd271072c9%2F0x0.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
+  - title: "Riding in a self-driving car is Waymo relaxing than you might expect"
+    excerpt: "Subscribe to the Roadshow newsletter, receive notifications and see related stories on CNET. Now, suppose you need a little refresher on self-driving cars. In that case, Level 4 autonomy means that a vehicle can complete an entire journey without driver ..."
+    publishedDateTime: 2020-10-15T00:45:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-van-phoenix-youtube/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/9uba5kNbIBwHtaYmXNybVv9IYxM=/2019/07/02/ffa46822-32cb-4b06-81a6-aa82f237cb11/waymo-ogi.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Uber's self-driving-car business has fallen behind Waymo and Cruise — here's why the ride-hail giant might give up on ATG"
     excerpt: "After the indictment of a former executive and a fatal crash, insiders, investors, and experts question whether Uber ATG can turn things around."
     publishedDateTime: 2020-10-16T01:09:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://i.insider.com/5e27d1fbb6d52d4c48798a32?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "When Self-Driving Cars Don’t Realize They’ve Been In A Car Crash"
-    excerpt: "Will self-driving cars realize when they've been in a car crash? getty. Have you ever been in a car crash? The odds are that if you’ve been driving for any notable number of yea"
-    publishedDateTime: 2020-10-18T15:39:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88dfcdb1cfa1bd271072c9%2F0x0.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "GM's Cruise plans to test unmanned self-driving cars this year in San Francisco"
     excerpt: "The company received a permit from the California Department of Motor Vehicles to remove the human backup drivers from its self-driving cars. Other companies to previously receive such a permit include Alphabet's Waymo, Autox Technologies, Nuro and Amazon ..."
@@ -126,6 +126,6 @@ related:
         height: 1196
         isCached: true
 
-secured: "knsn7uyrhJk+F8EgHFFWDh5HWwaIFnVmDy0h5/ogcY8ZlO7E8TTIwfIZwr0SLBiEhnSjcPeSJ8pEqGduW47xntMYhzbDMtt+WhYvYZQq3lRO/RxHTAQpindxHu2pa6a6NEQItzCRFCMXyGEjCIzVnmfjySHQ7Fr1xuF10gAih92aPKZjlmViloIDX/j4NcsQg6jfPa15ScqnFGX0e+P87vV/xwrXGKF0FMmFl/SA597guMUfXa7s5yVaRoez3IMbpFJYVvwjIxAl+driXFXDwiRT+ttac43VEJcBpnW4MscpjAhLz9y5Z6gyCPkO8ujW6ehjLzSwfjuylH1Rt/LJQW+Uhaqu7OGYm9l1uOheu7lNpOe+IHyh5S2c7gfW+PxYLNz1FlO3aCCZ8czcQ1hM+dx69tbuA/Dg4QDBxuibdXw3WnIA8PbQfrOe+gcLAWby/y2t0Z1RGSSYpMXU4N4f0ac0OlcFz0TE5tT0+bZE3DJRfXTnDgZD77PjOpu+iKiLT69zMMCVY4YLfuDAjsDZHw==;eAsDrjwd6DIcCGJtm0T5zw=="
+secured: "BbjphsdJKEEliVh9FxwmoxswdMSGZYWFQ4bbT1MGrKo8Ih3/grr4+xuAb7Bu+JRIrFbZUSNGrm8DjxzbHgPuYWfEhNHLJNniC1qZli0qWhC1L5Qvu00lFwfNaG/mAGkp8I8q7lx4Go6xJirn0JtiVfB08UoiRavmDH+yl0gHwrAzJ0M8n0Z9oHJAOaIgvVruMPJ7oy2cRKi3CdtDM8FcdNVjoVsFAE5q4prbGjfYrymTILZBIsjbDzJ9EP8W1yf8Pd+ziHKi37TFu50zexwjpuo7ZQQ2+GZezEEMYD9wJKT6FFkWLPLTiDElDZzE4khm167QuC21trwuNfG+ghcx6TLfADYsCHipBaH+mrdwByg=;uChlFqoKAfvsnviQ/dfEcw=="
 ---
 

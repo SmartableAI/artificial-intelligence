@@ -9,7 +9,7 @@ ampWebUrl: "https://propakistani.pk/2020/10/16/pakistan-customs-to-deploy-facial
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/10/16/pakistan-customs-to-deploy-facial-recognition-technology-for-everyone-entering-the-country/amp/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Guest column: No place in crime fighting for biased facial recognition technology"
-    excerpt: "Across the country and here in Louisiana, Americans of all political stripes are realizing the dangers of mass surveillance technologies, especially when they are deployed without the necessary safegu"
-    publishedDateTime: 2020-10-13T23:00:00Z
-    webUrl: "https://www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-0973-11eb-b812-1fddca3d8866.html"
-    ampWebUrl: "https://www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-0973-11eb-b812-1fddca3d8866.amp.html"
-    cdnAmpWebUrl: "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/opinion/article_ce1e045a-0973-11eb-b812-1fddca3d8866.amp.html"
+  - title: "Pakistan deploys facial recognition to secure borders, biometric prisoner identification ordered"
+    excerpt: "Pakistan Customs will put in place a National Targeting Centre (NTC) using biometrics to identify and profile risky goods and individuals, DAWN reports. Established with support from regional"
+    publishedDateTime: 2020-10-15T17:44:00Z
+    webUrl: "https://www.biometricupdate.com/202010/pakistan-deploys-facial-recognition-to-secure-borders-biometric-prisoner-identification-ordered"
     type: article
     provider:
-      name: The Advocate
-      domain: theadvocate.com
-    quality: 54
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 26
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/f/3e/f3e90dcd-7233-52e5-bc98-b1098f5d5ea4/5f77a09c8f85b.image.jpg?resize=1024%2C1418"
-        width: 1024
-        height: 1418
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
 
 secured: "3cPwNXdqexAdVHdGupADRy9IPrZB0fvDda7iu8v5G/gQjklTwGxb8GRD9zF+a/xfP/n45Rcb0azKhUQVRuwVKDVc0LV2E4M0VXXEXTiJjfrWwHswbZmndvgi0/LktrHmOuwQPGq5TcjOYUiNQyFDE1BZAneyuQ9UqQ6aV2Bl0NiO87dXfteFPPBcJhEEAKYeamoGbbmQJ4wpQGRZepaDC98w8B+UzfGwzNIwLbZtF9bnTkkiIYBMc+nu6YaFtkY9RJAooFi6+7rpMnpn2rIEUXrtqilCMA0BLTB8mGTIgSURi9dmJRU50PIEGtxr+fTwgDJqTHj8LLdBWVaM9dS8PMb1XPgVPU8sHrPbngb3NrQ=;xAwHP9tNjynSDQnSVc984g=="

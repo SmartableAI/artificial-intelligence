@@ -2,9 +2,9 @@
 category: news
 title: "VXG announces platform to receive automated analysis at scale, effectively making any camera a smart camera"
 excerpt: "For an example, one really has to look no further than Amazon Rekognition, which leverages Machine Learning (ML) to make it easy to identify things like objects, people, or text within videos and images. Outside of the technology industry, however ..."
-publishedDateTime: 2020-10-15T09:37:00Z
-originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
-webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
+publishedDateTime: 2020-10-15T09:32:00Z
+originalUrl: "https://www.sourcesecurity.com/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html?ref=nav"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html"
 type: article
@@ -69,20 +69,6 @@ related:
         width: 900
         height: 629
         isCached: true
-  - title: "Using speaker diarization for streaming transcription with Amazon Transcribe and Amazon Transcribe Medical"
-    excerpt: "Conversational audio data that requires transcription, such as phone calls, doctor visits, and online meetings, often has multiple speakers. In these use cases, it’s important to accurately label the speaker and associate them to the audio content delivered. For example, you can distinguish between a"
-    publishedDateTime: 2020-10-13T22:37:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/Can-you-tell-me-about-the-Amazon-Transcribe-speaker-diarization-for-streaming-audio_-4.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Streamlining data labeling for YOLO object detection in Amazon SageMaker Ground Truth"
     excerpt: "Object detection is a common task in computer vision (CV), and the YOLOv3 model is state-of-the-art in terms of accuracy and speed. In transfer learning, you obtain a model trained on a large but generic dataset and retrain the model on your custom dataset. One of the most time-consuming parts in transfer"
     publishedDateTime: 2020-10-14T19:17:10Z
@@ -98,6 +84,6 @@ related:
         height: 302
         isCached: true
 
-secured: "T4NNA0sfF2PLCHMw5z6xA+DOh2IPCMfU9zlXCMe+enBaONQYtouq+fAPSuOgF4EffeXVIWTpd7vXlyzUp+0M1Fu6a0Xvtcz/iGW28Yj+y3DyUgNR/SKXEhAltDTNeefiEv+dzpvEzM99n3UFPNykAjo/a34WoDfM3zg+y8kNpc7DmBqa0aydlfJa5SuHhfa8q9HcL1fzE9f5WbKmnG5qYlGcjh4uxbOpq3xbYYNKHTO96Wv4J0JSugm1HJZ6YagOldVeEqwmbuDUloaJ+wu7ozfczdpXzo3j/+08do5ZkdxXUAjXpXzqUUlffnNKAaQy0AWC6eEfFEdyydl25hKNRrfy9LsJZDvLvSg3+sG+o/0=;YC0ygjJGOlNor8Z3VOTDeg=="
+secured: "giJl14cWYqGlguJowTGwhUeWcvHNjQ2814sr3+6EruJwGAP7Nnf0WJLPGug8qut9rkPbsaggwPiI0uGOHiaPM+jG4JL6Zkwad5Suh3dmvQONvYaiw8W/7i5qQNixnAU4lTCxWKndJnQRQP4xoM9IwKWbpCBooMifCM1p/RIX/Hz6ZIb0umsVY6HAi0Ltz9cBLqwdEM3nwzfvT07jrmB2EiajslXBPtvYDMd6dTZDvt+jamc5DelLc01DxrkxpTfc2WJnoLkNf4vnD+pq8UM8OLP6OiOtnit/xcG3ANvJyGJMCIFWWixssovVzIDnrWR9vLIxnktQ39fuV80JvD7vizPCT+LFnfu0q4CeeZ5x/OA=;/sBwp+wYH32h5464leMSdA=="
 ---
 

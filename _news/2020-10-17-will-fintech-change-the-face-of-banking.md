@@ -55,22 +55,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "5 fintech startups to get funding from ING-Unicef program"
-    excerpt: "Dutch financial giant ING and the United Nations Children’s Fund (Unicef) have selected five promising local fintech startups that will receive fresh funding and mentorship under their joint program"
-    publishedDateTime: 2020-10-13T21:10:00Z
-    webUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program"
-    ampWebUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
-    cdnAmpWebUrl: "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 44
-    images:
-      - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/10/News87524-e1602260971308-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "The Future of Artificial Intelligence in Financial Markets"
     excerpt: "General Trading Company announced that about 98% of the profits made were due to its unique artificial intelligence technology. \"An"
     publishedDateTime: 2020-10-16T12:33:00Z

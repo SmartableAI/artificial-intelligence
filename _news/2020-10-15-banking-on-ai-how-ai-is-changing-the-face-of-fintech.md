@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financ
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/2howe450.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "5 fintech startups to get funding from ING-Unicef program"
-    excerpt: "Dutch financial giant ING and the United Nations Children’s Fund (Unicef) have selected five promising local fintech startups that will receive fresh funding and mentorship under their joint program"
-    publishedDateTime: 2020-10-13T21:10:00Z
-    webUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program"
-    ampWebUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
-    cdnAmpWebUrl: "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 44
-    images:
-      - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/10/News87524-e1602260971308-300x225.jpg"
-        width: 300
-        height: 225
         isCached: true
   - title: "Will fintech change the face of banking?"
     excerpt: "Fancy new apps have become popular for everything from making a payment to buying insurance and shares. Should the big banks be worried? Simon Wilson reports."

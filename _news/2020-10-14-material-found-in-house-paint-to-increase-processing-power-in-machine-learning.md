@@ -7,7 +7,7 @@ originalUrl: "https://www.hpcwire.com/off-the-wire/material-found-in-house-paint
 webUrl: "https://www.hpcwire.com/off-the-wire/material-found-in-house-paint-to-increase-processing-power-in-machine-learning/"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 405
     height: 228
     isCached: true
-
-related:
-  - title: "MPHASE PROVIDES OPERATIONAL UPDATE INCLUDING CONTINUED GROWTH IN LEARNING TRACK BUSINESS"
-    excerpt: "(GLOBE NEWSWIRE) -- mPhase Technologies, Inc. (OTCQB: XDSL) (“mPhase” or the “Company”) is providing the following update on new technology and business improvements at its Learning Track division. As a reminder,"
-    publishedDateTime: 2020-10-13T21:12:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/virus-outbreak-technology-business-professional-services-lung-disease-c7bb58a3c2d72ec1e24430dc08803a42"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "S3I2e0+d8Ctnj1ytOYBRp0HbJ0+0KyuDHGmSpQVymUeiCCihOb52jfquCayq1yMq/jwKL+zx7S44VDOTvOg7b1fyx7tlOD6+4URqzKJfHnpl2z2mKNz1MxuGFJnj4C79lXx2cOyJnrYqNsOicm2VPTVJcVEvZ1fv1Qyg0bQ8pRJcfUslOP15IJ7yJGpfbVAmNBD2Box+4LlyGwU2GSBBR52TXThVwW6lHqcYpOUX26XKKi1KKkhD2FoEUrju4JsMQeY3zHiuqTb1ESG3kOD9ZEIx6eRfvgRBDEgG2rz4nWmmJ7dNq1tJZxzywVY1hSdMd1s5g14vg1GSGTY6nElMA2Hduo6mi3ToTF8gdhioorcC1xfQAv8D8qUNCoSvx7vzXfBzOZF4MUc2Z/EoEcf52MtdbkzcJJAQJnuO1Buito7fPjSF6d6dk7HiPNx/03kHWXNAWiOenzgSAttjzjBGAAPLTQnenrQfVkcbxT96hgEpS2N0Zj8Dl5mI5K6kMZT6J8C/zlqvYuUz6L317ZXluw==;2MUU7+7UzbBoeiv8x87h6g=="
 ---

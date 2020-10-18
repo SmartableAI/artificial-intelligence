@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "When Self-Driving Cars Don’t Realize They’ve Been In A Car Crash"
+    excerpt: "Will self-driving cars realize when they've been in a car crash? getty. Have you ever been in a car crash? The odds are that if you’ve been driving for any notable number of yea"
+    publishedDateTime: 2020-10-18T15:39:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88dfcdb1cfa1bd271072c9%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Waymo Has Launched a Self-Driving Taxi Service"
     excerpt: "The age of the driverless taxi has arrived – at least in parts of Phoenix, Arizona. Self-driving car company Waymo, owned by Google’s parent company Alphabet, announced its autonomous vehicles are now available to the general public (or at least paying customers)."
     publishedDateTime: 2020-10-16T00:40:00Z

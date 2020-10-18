@@ -24,22 +24,6 @@ images:
     height: 840
     isCached: true
 
-related:
-  - title: "3 ways criminals use artificial intelligence in cybersecurity attacks"
-    excerpt: "Three cybersecurity experts explained how artificial intelligence and machine learning can be used to evade cybersecurity defenses and make breaches faster and more efficient during a NCSA and Nasdaq cybersecurity"
-    publishedDateTime: 2020-10-13T21:41:00Z
-    webUrl: "https://ctovision.com/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 37
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
-
 secured: "mCONbSyAA9E2tlTo/awRyLMf/rSQ4L/m1pGwX3nM0cLA6r6WEAso+rCKoUshdWAbvbWIT/b1ls6GHRJP6vwRmVhDywR+k3eWVatlg2hLYbpKqYWw3Bbf5e0B7uZU46voPqsmUTkoQLWdezlxMzATUIUXRHhn+9vhCHZ65l6s0RQOuC9KzPk+2mTFn6/DM01V4fuxCZsefkKS9m/6PbWAM9x4oUsGngZp0y+f4LxxjVYrZcL2SVRlN23K75DIyP/Qzk1ZFn/fCstRAAbJjYOIoxfVOF0XfCRLGr5OZNOWcXlFKrhHJFI3locerx0TCv30eu7vp2qtwDUdiFJ4fDgR8KN2Dv94GP6hioua/JdboGg=;pX4lizjmPudh80XCtamptA=="
 ---
 

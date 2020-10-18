@@ -1,47 +1,26 @@
 ---
 category: news
 title: "Saturn Cloud Enables Easy and Powerful NVIDIA GPU Computing For Everyone"
-excerpt: "Today, Saturn Cloud, the GPU data science company, announces the launch of Saturn Cloud Hosted, an open platform for multi-node multi-GPU computing in the cloud. The platform is available to anyone and everyone: corporations,"
-publishedDateTime: 2020-10-13T18:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
-webUrl: "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
+excerpt: "Saturn Cloud, the GPU data science company, announces the launch of Saturn Cloud Hosted, an open platform for multi-node"
+publishedDateTime: 2020-10-13T18:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-301151428.html"
+webUrl: "https://www.prnewswire.com/news-releases/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-301151428.html"
 type: article
-quality: 68
-heat: 78
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Dell Technologies, NVIDIA further ties to launch smarter GPU acceleration platforms"
-    excerpt: "Dell Technologies & NVIDIA have built their relationship to bring smarter GPU acceleration platforms, as a part of the Dell EMC PowerEdge server family."
-    publishedDateTime: 2020-10-14T15:08:00Z
-    webUrl: "https://www.voicendata.com/dell-technologies-nvidia-ties-launch-smarter-gpu-acceleration-platforms/"
-    ampWebUrl: "https://www.voicendata.com/dell-technologies-nvidia-ties-launch-smarter-gpu-acceleration-platforms/amp/"
-    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/dell-technologies-nvidia-ties-launch-smarter-gpu-acceleration-platforms/amp/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 53
-    images:
-      - url: "https://www.voicendata.com/wp-content/uploads/2020/10/Dell-EMC-PowerEdge-server.jpg"
-        width: 800
-        height: 450
-        isCached: true
+images:
+  - url: "https://mma.prnewswire.com/media/1003118/Saturn_Cloud_Logo.jpg?p=facebook"
+    width: 611
+    height: 320
+    isCached: true
 
-secured: "Cge0I1ojC5SQc9k13zQx9fQ/iS8K28gjCwzMQbzgPhPeFwXbEqeX/BuEedFJXDKqSwXOoC1JqSPlgukNx6bBEhGZdlsQc/j8m0ATPBYICk/j6wyTaJZHaFBMk3edX4iHPcag2m74nGykInQ0aWutqMzhshLwwcshPCUxy68/T2jvz5M6iTV+1SpBooYQY6JZ2RGrgSUuDhPZKtWXBwI/BpmLvXLkbfEAWd/b1bopJa4e3xfVFaqGlkDgZCgKJSRUXTHGg5K38oBFSGRADslZF5dpT+FFHh2EUbJiFM+s+7VU+XYI7P4sLYo6et6NqybIflMB0SZnZV3oeyxUr/TqFdVYpmwcGpEey0XVH1jPIyk=;O5RbNIOT/D4m4MdBgtBHSA=="
+secured: "Xw09MZiSnNsSYcidtNN5QPwh8ytlHSZ32tZf67wU0L9AECj8v8fafZ8eoXdIUg6iSxEUMoR1nPuSHuRgz41ka+QaOIBIsFUx3v3W5kkwCaigJUb+BlFPA0iIH2liRBRIxPSObrp3tg6X6jzAaCh/qDp1fkwEFdM+m24967mZOR7+QILZ5W5G5viF+JkT2I5/l+gG4FkfgJM6TT/wFw3Qbl+/Yd0a9Xz2mSdS2c0KobMmvUjfAwEzOEToCsv9aQeayCJfOgL1XJc82cbhqliMUpmZXr7Y4ValYytFJSj1PYSMXsuUzvdQRLR+yzTsXiuGbxmKFVAtHw9SqeDDpAmrE/nHr4tYwwvJdf8gmYmSWpw=;F38QGq9F0hdsNor9sjspPA=="
 ---
 
