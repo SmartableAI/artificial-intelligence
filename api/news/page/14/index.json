@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-04-microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency.md",
+      "title": "Microsoft Ignites 2020 With New Services And Tools For Business Resiliency",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as the annual Microsoft Ignite Conference showcases its latest and upcoming solutions. Patrick wanted to share some takeaways, which he'll break into",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f78b987dd79fc6f76399291%2F0x0.jpg",
+          "width": 561,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/amp/",
+      "publishedDateTime": "2020-10-03T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-7-types-of-ai-marketing-tools-that-drive-leads.md",
       "title": "7 Types of AI Marketing Tools That Drive Leads",
       "excerpt": "People in all kinds of industries are debating artificial intelligence (AI) pros and cons. AI pros and cons are",
@@ -1117,41 +1169,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-and-digital-workplaces.md",
-      "title": "CEO's of VEEV, WORK, LGIQ, DOCRF Discuss New Growth Opportunities in Cloud-Based Healthcare, Fintech, and Digital Workplaces",
-      "excerpt": "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/g17754942/ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-an",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/g17754942/ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-an",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17754942",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17754942",
-      "publishedDateTime": "2020-10-02T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

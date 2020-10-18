@@ -2,6 +2,48 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-09-23-beyond-limits-raises-133m-in-series-c-funding.md",
+      "title": "Beyond Limits Raises $133M in Series C Funding",
+      "excerpt": "Beyond Limits, a Los Angeles, CA-based industrial and enterprise-grade AI technology company built for the most demanding sectors, including energy, utilities and healthcare, raised a $113m Series C f",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2020/09/beyond-limits-raises-133m-in-series-c-funding.html",
+      "originalUrl": "https://www.finsmes.com/2020/09/beyond-limits-raises-133m-in-series-c-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2020/09/beyond.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-youtube-ai-to-automatically-block-videos-that-violate-age-restrictions.md",
       "title": "YouTube AI to automatically block videos that violate age restrictions",
       "excerpt": "YouTube will use machine learning to automatically apply age restrictions on videos, the Google-owned video site said Tuesday, widening its use of artificial intelligence to automate blocking some videos from viewers who either aren't signed into a YouTube account or are signed in as a viewer under the age of 18.",
@@ -1139,59 +1181,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-to-make-fairer-ai-physicists-peer-inside-its-black-box.md",
-      "title": "To Make Fairer AI, Physicists Peer Inside Its Black Box",
-      "excerpt": "After repurposing facial recognition and deepfake tech to study galaxies and the Higgs boson, physicists think they can help shape the responsible use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/",
-      "originalUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f68ee3340c3a6fb18426ae0/master/pass/Science_CMS_D810_NEF_3483.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/amp",
-      "publishedDateTime": "2020-09-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
       ]
     }
   ],

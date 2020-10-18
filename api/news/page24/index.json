@@ -2,6 +2,40 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-09-25-nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn.md",
+      "title": "NEC Face Recognition Engine Provides Highly Accurate Results Even When Face Masks are Worn",
+      "excerpt": "As part of this, governments around the world are encouraging the use of face masks as a basic measure to combat infections under the \"New Normal.\" In conjunction with this, there is a need for face recognition technologies to adapt,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17651638",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17651638",
+      "publishedDateTime": "2020-09-24T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-transforming-advertisement-and-graphic-design-through-ai.md",
       "title": "Transforming advertisement and graphic design through AI",
       "excerpt": "From Gmail’s smart compose, which recommends what to type next, to Facebook recommending who to tag by ... It is in fact, one of the most recent trends in AI. Recent global research found that nearly 73% of the customers expect a personalized experience ...",
@@ -1164,58 +1198,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-facebooks-new-benchmarking-system-asks-humans-to-interrogate-ais.md",
-      "title": "Facebook's new benchmarking system asks humans to interrogate AIs",
-      "excerpt": "Facebook’s AI research (FAIR) lab has taken a new approach to benchmarking: it's putting humans in the loop to help train their natural language processing (NLP) AIs directly and dynamically.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebook-dynabench-ai-dynamic-benchmarking-160040897.html",
-      "originalUrl": "https://www.engadget.com/facebook-dynabench-ai-dynamic-benchmarking-160040897.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fa72e29f0-fd21-11ea-bff8-128f9bd69d08&client=amp-blogside-v2&signature=4aafd97a034b63bed6cff908afe66d9ba853a989",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-dynabench-ai-dynamic-benchmarking-160040897.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-dynabench-ai-dynamic-benchmarking-160040897.html",
-      "publishedDateTime": "2020-09-24T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

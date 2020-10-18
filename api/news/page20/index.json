@@ -2,6 +2,83 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-29-artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings.md",
+      "title": "Artificial Intelligence Technology Solutions Partners With Centralized Vision to Expand Premium Service Offerings",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce that its wholly-owned subsidiary Robotic Assistance Devices (RAD) is now offering its customers an expanded suite of managed remote services through a partnership formed with third-party monitoring pioneer Centralized Vision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-microsoft-positions-itself-as-the-platform-of-choice-for-5g.md",
+      "title": "Microsoft Positions Itself as the Platform of Choice for 5G",
+      "excerpt": "Microsoft is also promoting other services, such as Azure Cognitive Services and Azure Machine Learning, to deliver artificial intelligence (AI) support to mobile operators. It also offers ...",
+      "sourceUrl": null,
+      "webUrl": "https://rcpmag.com/articles/2020/09/29/microsoft-platform-for-5g.aspx",
+      "originalUrl": "https://rcpmag.com/articles/2020/09/29/microsoft-platform-for-5g.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/PartyLIghtsinSkySmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Channel Partner",
+        "domain": "rcpmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill.md",
       "title": "iRobot cofounder Helen Greiner named CEO of robotic gardening startup, Tertill",
       "excerpt": "Boston-based robotic gardening startup Tertill this morning announced that it has appointed Helen Greiner as CEO and Chairman. The executive is best known for cofounding iRobot in 1990 along with fellow MIT Artificial Intelligence Lab members Rodney Brooks and Colin Angle (the company’s longtime",
@@ -1053,49 +1130,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-29-deep-learning-model-provides-rapid-detection-of-stroke-causing-blockages.md",
-      "title": "Deep learning model provides rapid detection of stroke-causing blockages",
-      "excerpt": "Deep learning model provides rapid detection of stroke-causing blockages Date: September 29, 2020 Source: Radiological Society of North America Summary: A sophisticated type of artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/09/200929123557.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/09/200929123557.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-microsoft-now-supports-12-indian-languages-including-assamese.md",
       "title": "Microsoft now supports 12 Indian languages including Assamese",
       "excerpt": "Microsoft Translator, a cloud-based free translation and transcription service from Microsoft, has added support for Assamese, the official language of Assam spoken by more than 14 million people in the Northeast.",
@@ -1135,49 +1169,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
-      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
-      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
-          "width": 639,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,48 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-09-30-how-this-company-is-boosting-ecommerce-revenue-by-using-ai.md",
+      "title": "How This Company Is Boosting Ecommerce Revenue by Using AI",
+      "excerpt": "Omri Katz says a common problem when it comes to ecommerce is converting a user into a customer. When someone visits an online store, “98% of online users will leave the online store without completing a purchase,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/video/356766",
+      "originalUrl": "https://www.entrepreneur.com/video/356766",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356766",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356766",
+      "publishedDateTime": "2020-09-29T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-olives-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center.md",
       "title": "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center",
       "excerpt": "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts Medical Center in Boston, Mass. Olive will begin its enterprise-wide AI workforce deployment at the Medical Center by automating high-volume,",
@@ -804,6 +846,40 @@
       ]
     },
     {
+      "path": "_news/2020-09-29-deep-learning-model-provides-rapid-detection-of-stroke-causing-blockages.md",
+      "title": "Deep learning model provides rapid detection of stroke-causing blockages",
+      "excerpt": "When they tested the deep learning model on multiphase CTA examinations of 62 patients, the model detected all 31 large vessel occlusions for a sensitivity of 100%, a statistically significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.amp",
+      "publishedDateTime": "2020-09-29T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-inside-google-healths-struggle-to-refocus-regain-trust-navigate-healthcare-and-make-money.md",
       "title": "Inside Google Health's struggle to refocus, regain trust, navigate healthcare, and make money",
       "excerpt": "The young team is up against trust issues, Alphabet's messy layout, and an industry it can't fix with the click of a button.",
@@ -1094,83 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings.md",
-      "title": "Artificial Intelligence Technology Solutions Partners With Centralized Vision to Expand Premium Service Offerings",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce that its wholly-owned subsidiary Robotic Assistance Devices (RAD) is now offering its customers an expanded suite of managed remote services through a partnership formed with third-party monitoring pioneer Centralized Vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-microsoft-positions-itself-as-the-platform-of-choice-for-5g.md",
-      "title": "Microsoft Positions Itself as the Platform of Choice for 5G",
-      "excerpt": "Microsoft is also promoting other services, such as Azure Cognitive Services and Azure Machine Learning, to deliver artificial intelligence (AI) support to mobile operators. It also offers ...",
-      "sourceUrl": null,
-      "webUrl": "https://rcpmag.com/articles/2020/09/29/microsoft-platform-for-5g.aspx",
-      "originalUrl": "https://rcpmag.com/articles/2020/09/29/microsoft-platform-for-5g.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/PartyLIghtsinSkySmall.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Channel Partner",
-        "domain": "rcpmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,39 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-08-in-video-trump-calls-his-covid-19-a-blessing-from-god.md",
+      "title": "In video, Trump calls his COVID-19 ‘a blessing from God’",
+      "excerpt": "Click here to refresh this page. President Trump made the stunning announcement ... But before President Donald Trump’s coronavirus diagnosis earlier this week Biden had not disclosed full details of his testing protocol or the results of each test.",
+      "sourceUrl": null,
+      "webUrl": "https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
+      "originalUrl": "https://www.msn.com/en-us/news/politics/white-house-chief-of-staff-mark-meadows-ignored-virus-rules-at-wedding-report-says/ar-BB19DZtG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:54:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
+        "domain": "ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-inside-edge-draftkings-mlb-premium-stats.md",
       "title": "Inside Edge DraftKings MLB Premium Stats",
       "excerpt": "Please note that both these options require an active RotoWire paid subscription to maintain access. Get full access to Inside Edge projections inside ... your own custom projection model using the premium stats listed below – or just use them to make ...",
@@ -1114,58 +1147,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports.md",
-      "title": "CBP expands facial recognition program to international travelers at San Francisco and San Jose airports",
-      "excerpt": "U.S. Customs and Border Protection is expanding a controversial facial recognition program to airports in San Jose and San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/",
-      "originalUrl": "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/amp/",
-      "publishedDateTime": "2020-10-07T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

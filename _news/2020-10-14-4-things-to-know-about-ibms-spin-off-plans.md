@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/13/4-things-to-know-about
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8707e67b98236f3d929dd6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4105%26cropY1%3D169%26cropY2%3D2478"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Impact Of IBM’s Move To Split On Its AI Initiatives"
+    excerpt: "BM recently announced that it is splitting its IT services business into a new company, temporarily named NewCo."
+    publishedDateTime: 2020-10-18T07:33:00Z
+    webUrl: "https://analyticsindiamag.com/the-impact-of-ibms-move-to-split-on-its-ai-initiatives/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Arvind-Krishna.jpeg"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "82KFQdYLTdeplK1ri0Y5BJf+glpbzAYSeh6pa5VxH4slUJkMaKvY5I4huHmxdaLouVvlnKUjTJMCMBPE0m1JlLdo+NHXgUMuRRe/cVD71U0wVGH6pW9McOk6EW5WrCvLESQfW3P4IEstmvGsPFcjmglTCsWJpOprOeIpb/wSNDV0Gf8Cx+4ySn6jQUfYhM4afD1lV8xtvzp0A7u0iKEJlyG6Nq00YNYLAYg1pdJQalrE1U/2ykb7bi8Zrk8BtUV7bVYPo//FgJzzwryBvFLqXluQ337LVKTg+9SOAVVnzZ9CyGzI3rZhnZZdgEVii4UghAsjuO0fJFEgFSvfOBEYJTUEfJpJ7ZtFEKDJMBsUEkaCVDiEouWn2PsS9CDX2/R3b7kUgbcdatQuijP6intdYiqeV7uvdKcyH+cBgRYPh366Sd1gbkX080DAicpCvc598WYfj4jVcGbL0n9z9NE+ZfAMTxtCOvwcyjt7zMrWErR6PPSlmNdM53hjJZUM+MzowgnRBSk8vlAZHzKxo71+IA==;Fz2rk9qlgLUdlDxTzBYvCQ=="

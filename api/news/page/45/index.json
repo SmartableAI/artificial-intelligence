@@ -2,6 +2,59 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-09-10-ai-ruined-chess-now-its-making-the-game-beautiful-again.md",
+      "title": "AI Ruined Chess. Now, It's Making the Game Beautiful Again",
+      "excerpt": "A former world champion teams up with the makers of AlphaZero to test variants on the age-old game that can jolt players into creative patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
+      "originalUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f592bfb643fbe1f6e6807ec/master/pass/business_chess_1200074974.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/amp",
+      "publishedDateTime": "2020-09-09T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-portlands-facial-recognition-ban-is-a-major-win-especially-against-amazon.md",
       "title": "Portland's facial recognition ban is a major win, especially against Amazon",
       "excerpt": "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler.",
@@ -1100,58 +1153,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-facebook-and-dolby-join-amazons-voice-interoperability-initiative.md",
-      "title": "Facebook and Dolby join Amazon’s Voice Interoperability Initiative",
-      "excerpt": "More than 70 companies now count themselves, members of Amazon's Voice Interoperability Initiative, which recently published a design guide.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-studio.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/amp/",
-      "publishedDateTime": "2020-09-09T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

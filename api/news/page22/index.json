@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-09-28-this-interactive-vr-film-lets-you-play-god-to-an-evolving-artificial-intelligence.md",
+      "title": "This interactive VR 'film' lets you play god to an evolving artificial intelligence",
+      "excerpt": "If you could play god to an emerging artificial intelligence, would you? Or better: Should you? That’s the moral dilemma at the heart of Agence, an interactive “dynamic film” that blends ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/agence-ai-vr-film/",
+      "originalUrl": "https://mashable.com/article/agence-ai-vr-film/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F28%252Ffd%252F5554a8fadfd8486f97c31cc8336ffa35.15cd6.jpg%252F1200x630.jpg?signature=1oiSYK9Cltjtd5iFuSmbIu1--2w=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/agence-ai-vr-film.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/agence-ai-vr-film.amp",
+      "publishedDateTime": "2020-09-28T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
       "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
       "excerpt": "PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS) today announced that Arun Venkatachar, VP of AI and Central Engineering, will participate in a panel",
@@ -1074,58 +1117,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep.md",
-      "title": "AI Weekly: Amazon went wide with Alexa; now it’s going deep",
-      "excerpt": "Last year, Amazon baked its virtual assistant into any household device that could accommodate a chip. Its list of new ... imbuing it with AI to make it more human-like. This includes picking ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/",
-      "originalUrl": "https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/amazon-alexa-az1-neural-edge-processor.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/amp/",
-      "publishedDateTime": "2020-09-25T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

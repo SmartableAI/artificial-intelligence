@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-13-teslas-full-self-driving-beta-releases-to-some-drivers-on-october-20th.md",
+      "title": "Tesla's 'Full Self-Driving' beta releases to some drivers on October 20th",
+      "excerpt": "A small group of Tesla drivers will get the chance to test the company's 'Full Self-Driving' rewrite next week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
+      "originalUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F3b890af0-0cab-11eb-aff2-f11b123b62a1&client=amp-blogside-v2&signature=d1805af9a493dbf66adae49607fe3512a7edbe41",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html",
+      "publishedDateTime": "2020-10-12T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-intel-india-sets-up-centre-for-artificial-intelligence.md",
       "title": "Intel India sets up centre for artificial intelligence",
       "excerpt": "Intel India said it had partnered IIIT Hyderabad, Public Health Foundation of India and the Telangana government to unveil a research centre to focus on leveraging artificial intelligence (AI) to solve India’s population-scale challenges in sectors such as healthcare and smart mobility.",
@@ -1168,58 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-best-facial-recognition-security-cameras-to-buy-this-year.md",
-      "title": "Best facial recognition security cameras to buy this year",
-      "excerpt": "Select home security cameras have facial recognition, an advanced option that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-this-year/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/",
-      "publishedDateTime": "2020-10-11T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

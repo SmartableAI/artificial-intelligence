@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "The Impact Of IBM’s Move To Split On Its AI Initiatives"
+    excerpt: "BM recently announced that it is splitting its IT services business into a new company, temporarily named NewCo."
+    publishedDateTime: 2020-10-18T07:33:00Z
+    webUrl: "https://analyticsindiamag.com/the-impact-of-ibms-move-to-split-on-its-ai-initiatives/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Arvind-Krishna.jpeg"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "io+w6UI7bRVORwKLx+kRK5UhlAkbedfaTIkWHkViUV19W4g2E9PKw1vZxVd+QuxqGDM/stsszydFYGgMZ2DSOYpYtaqk0gag8OGK3bWCgYbOkZr/rD7ZzNnL5K24dd2gk+JYhpYhMknlMlbUbGuN6pUDDDcctAu/LduQaYY5LWgqn27wipTjhJx3BuaDdOGeduXFdD6OnF85cJD8uFap1V9P9yM9OUCATNzq0PO8QJT6ETmheGDjyzDACoR1tjZby/Sak1+jUH/jJLmWfVkDdPK8baLHNOh19WxIqg7JKvONE1KTXAYUWRHEPVevG0if+mPzcZ5o6R6WDgBLfIM1oNXlvETUdWikOf7oxEwv0dViMGSlat+0hOTrdQnkSOxgIk3RyWkxFkLzpXkqNCaLSEuO+FZbnYKihdX+poZNiIX4GwC8ZR0O6JRAAJgBqewk/unRaPJTXG9TsdW7nRaPNAOSCTbNn1jZB+iLg8vNZ3sDcUAHtOHReJOUVaO7HLCCYXpOps8YpFosDVx5FJw9hQ==;JYTMPKs5G1UjZvY8SWpA1A=="
 ---

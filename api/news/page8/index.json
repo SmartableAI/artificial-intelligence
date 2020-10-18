@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-09-researchers-use-artificial-intelligence-language-tools-to-decode-molecular-movements.md",
+      "title": "Researchers use artificial intelligence language tools to decode molecular movements",
+      "excerpt": "By applying natural language processing tools to the movements of protein molecules, University of Maryland scientists created an abstract language that describes the multiple shapes a protein molecule can take and how and when it transitions from one shape to another.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.html",
+      "originalUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-umdresearche.jpg",
+          "width": 668,
+          "height": 1008,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp",
+      "publishedDateTime": "2020-10-09T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-how-ai-and-machine-learning-can-help-accountants-stay-competitive.md",
       "title": "How AI and Machine Learning can help accountants stay competitive",
       "excerpt": "Artificial intelligence (AI) and automation have brought the accounting profession to a point of pivotal change, and it’s about to revolutionise the way that accountants work.",
@@ -419,10 +461,10 @@
     {
       "path": "_news/2020-10-09-wisekey-secures-ensuritys-passwordless-access-to-microsoft-windows-and-azure-ad.md",
       "title": "WISeKey Secures Ensurity’s Passwordless Access to Microsoft Windows and Azure AD",
-      "excerpt": "WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ: WKEY), a leading global cybersecurity and IoT company, announced today that Ensurity Technologies (“Ensurity”), a Hyderabad, India-based cybersecurity company and a member of Microsoft Intelligent Security Association (MISA),",
+      "excerpt": "WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ: WKEY), a leading global cybersecurity and IoT",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-hyderabad-industrial-products-and-services-electronic-parts-manufacturing-76582e121f95b9ed762a212150e1c70f",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-hyderabad-industrial-products-and-services-electronic-parts-manufacturing-76582e121f95b9ed762a212150e1c70f",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-hyderabad-industrial-products-and-services-electronic-parts-manufacturing-76582e121f95b9ed762a212150e1c70f",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-hyderabad-industrial-products-and-services-electronic-parts-manufacturing-76582e121f95b9ed762a212150e1c70f",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1137,39 +1179,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-in-video-trump-calls-his-covid-19-a-blessing-from-god.md",
-      "title": "In video, Trump calls his COVID-19 ‘a blessing from God’",
-      "excerpt": "Click here to refresh this page. President Trump made the stunning announcement ... But before President Donald Trump’s coronavirus diagnosis earlier this week Biden had not disclosed full details of his testing protocol or the results of each test.",
-      "sourceUrl": null,
-      "webUrl": "https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
-      "originalUrl": "https://www.msn.com/en-us/news/politics/white-house-chief-of-staff-mark-meadows-ignored-virus-rules-at-wedding-report-says/ar-BB19DZtG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:54:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
-        "domain": "ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Facebook just saved the historic site where Alan Turing cracked the Enigma code"
-    excerpt: "Facebook has made a donation to Bletchley Park, the English location that doubled as a center for Allied code-breaking during World War II."
-    publishedDateTime: 2020-10-13T13:27:00Z
-    webUrl: "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/"
-    ampWebUrl: "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-bletchley-park-donation/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 70
-    images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/turing-memorial-mpk6-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Facebook donates 1mn pound to 'birthplace of computer'"
     excerpt: "Facebook has announced a donation of 1 million pounds ($1.3 million) to Bletchley Park, a heritage attraction and museum that served as the British code-breaking hub during World War Two."
     publishedDateTime: 2020-10-13T15:08:00Z

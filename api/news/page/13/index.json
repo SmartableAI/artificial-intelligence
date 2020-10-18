@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-05-nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals.md",
+      "title": "Nvidia introduces Ampere-based RTX A6000 GPU for professionals",
+      "excerpt": "Nvidia held its GPU Technology Conference, or GTC, and it unveiled a ton of new technologies and capabilities at the event, including a new Ampere-based professional GPU, the RTX A6000.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals",
+      "originalUrl": "https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/10/1601908637_quadro-rtx-a6000_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/",
+      "publishedDateTime": "2020-10-05T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-self-driving-cars-could-be-operating-daily-in-1-2-yearsjust-not-in-big-cities.md",
       "title": "Self-Driving Cars Could Be Operating Daily In 1-2 Years—Just Not in Big Cities",
       "excerpt": "The engineering has been a bigger challenge than expected, Voyage CEO Oliver Cameron says, even for places like retirement communities. But not impossible.",
@@ -1117,58 +1169,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency.md",
-      "title": "Microsoft Ignites 2020 With New Services And Tools For Business Resiliency",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as the annual Microsoft Ignite Conference showcases its latest and upcoming solutions. Patrick wanted to share some takeaways, which he'll break into",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f78b987dd79fc6f76399291%2F0x0.jpg",
-          "width": 561,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/amp/",
-      "publishedDateTime": "2020-10-03T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

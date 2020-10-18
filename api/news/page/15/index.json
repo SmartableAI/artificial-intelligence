@@ -2,6 +2,41 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-02-ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-and-digital-workplaces.md",
+      "title": "CEO's of VEEV, WORK, LGIQ, DOCRF Discuss New Growth Opportunities in Cloud-Based Healthcare, Fintech, and Digital Workplaces",
+      "excerpt": "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/g17754942/ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-an",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/g17754942/ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-an",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17754942",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17754942",
+      "publishedDateTime": "2020-10-02T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-three-best-practices-for-how-banks-can-get-the-most-out-of-investments-in-ai-innovations.md",
       "title": "Three best practices for how banks can get the most out of investments in AI innovations",
       "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since AI in banking is entering the mainstream as financial institutions start incorporating AI solutions into their businesses: A majority of financial services ...",
@@ -1129,58 +1164,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-automating-data-collection-for-ai-at-morningstar.md",
-      "title": "Automating Data Collection For AI At Morningstar",
-      "excerpt": "We’re also skilling our Analysts on data exploration, data munging and AutoML to help them directly automate their workflows. This will help us scale our process over time where we can collect ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/01/automating-data-collection-for-ai-at-morningstar/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/01/automating-data-collection-for-ai-at-morningstar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75e6af8c6a419ba348ab4d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D482%26cropY1%3D82%26cropY2%3D353",
-          "width": 482,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/01/automating-data-collection-for-ai-at-morningstar/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/01/automating-data-collection-for-ai-at-morningstar/amp/",
-      "publishedDateTime": "2020-10-01T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

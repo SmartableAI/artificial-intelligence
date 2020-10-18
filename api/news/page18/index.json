@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-30-how-the-trevor-project-continues-to-support-lgbtq-youth.md",
+      "title": "How The Trevor Project continues to support LGBTQ youth",
+      "excerpt": "This September, National Suicide Prevention Awareness Month feels different. Over the past nine months, LGBTQ youth have experienced unique challenges in relation to COVID-19.The pandemic has amplified existing mental health disparities and created new problems that have impacted the daily lives of many",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3O5A3023_LUKnAQ7.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/amp/",
+      "publishedDateTime": "2020-09-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion.md",
       "title": "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion",
       "excerpt": "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our third generation cloud-based proprietary software.",
@@ -1149,48 +1201,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-how-this-company-is-boosting-ecommerce-revenue-by-using-ai.md",
-      "title": "How This Company Is Boosting Ecommerce Revenue by Using AI",
-      "excerpt": "Omri Katz says a common problem when it comes to ecommerce is converting a user into a customer. When someone visits an online store, “98% of online users will leave the online store without completing a purchase,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/video/356766",
-      "originalUrl": "https://www.entrepreneur.com/video/356766",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356766",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356766",
-      "publishedDateTime": "2020-09-29T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

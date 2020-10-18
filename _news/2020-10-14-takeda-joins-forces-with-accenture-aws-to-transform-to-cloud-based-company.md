@@ -24,22 +24,6 @@ images:
     height: 350
     isCached: true
 
-related:
-  - title: "Takeda to transform into a 'cloud-first company' through Accenture, AWS partnership"
-    excerpt: "As an increasing number of biopharmaceutical companies go all-in on artificial intelligence, Takeda has now committed to equipping each of its scientists with cloud-based research tools by the end of this decade."
-    publishedDateTime: 2020-10-13T14:50:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/takeda-to-transform-into-a-cloud-first-company-through-accenture-aws-partnership"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 35
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1602599226/Takeda.jpg/Takeda.jpg?BYeb2lf3iREiBNdvLaU1Xh_lI6I_5aaJ"
-        width: 800
-        height: 536
-        isCached: true
-
 secured: "BcUKpYvO72ppOfP+ZrKoAY9B5ufW4cj7NX4B49ky8JJXtvszJ0wv0yK/AfL+YVvu7/ZVuUYA6DXWMkdyTVr0rRnrtyZ9y5we98rxH3p2QlwZ9e90Vdq6hI3q+KJxQ/MfKjVlJJu5loeDOb+lzjFpPA5nqfIKZGrRMhBASME9Y73SMna9R8wIqtoyZN0DDXLo6zFBcebGYKlZ0SBzMDmKIxwSGNz9lXyQ79O1lL0KVN12LiP8tZ7/QWmeGBScJOikvvOL4EJpkGpGZPRs+yUtOIOKZaGdZG1/su2LeUIlBcCQZ1mHoKvqzGrAWrnA57SCh6ytN358Z3rSr9ojAZnB3IxVnZU7ISeH+cM2D7qrCs2jODirgCjmvl+xoXtVHCXygJ9gQr+IHdoLnZaHZTEZa49WkTUtb6QnNU+Nn4l8NksIuED9IG/kD37oo1ZdoJv3Cix4Wc0BxvNLapqrfMhU8NMlZZHx4aULAS2QZE7JJjxDSD9lrG1mmdrPAMVPOQYXnBvsrnl52DdFBenXcpT2Hg==;QWOsPJK5xXI2T5l7kMdMSw=="
 ---
 

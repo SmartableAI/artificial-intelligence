@@ -43,22 +43,6 @@ related:
         width: 4000
         height: 2667
         isCached: true
-  - title: "Musk: Tesla Is Rolling Out a Beta of “Full Self-Driving” Next Week"
-    excerpt: "Driving Beta” to certain owners some time next week, according to a tweet by CEO Elon Musk. In August, Musk promised that the next Full Self-Driving update will be a “quantum leap, because it’s a fundamental architectural rewrite,"
-    publishedDateTime: 2020-10-13T14:22:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-beta-full-self-driving"
-    ampWebUrl: "https://futurism.com/tesla-beta-full-self-driving/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-beta-full-self-driving/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2020/10/tesla-beta-full-self-driving-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Tesla’s Revamped Self-Driving Software Will Go Into Beta Testing Next Week"
     excerpt: "Tesla ’s long-awaited, revamped Autopilot is moving one step closer to becoming a reality. After years in development and no shortage of serious setbacks, the California-based electric car giant is set to begin beta testing its new self-driving software next week."
     publishedDateTime: 2020-10-13T21:53:00Z
@@ -74,20 +58,6 @@ related:
       - url: "https://robbreport.com/wp-content/uploads/2020/10/press_autopilot2.jpg?w=1000"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Tesla to launch 'Full Self Driving' beta to select drivers"
-    excerpt: "Tesla CEO Elon Musk has revealed that the company will launch its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers on. \"Limited FSD beta releasing on Tuesday next week,"
-    publishedDateTime: 2020-10-13T15:03:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/tesla-to-launch--full-self-driving--beta-to-select-drivers.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/tesla-to-launch--full-self-driving--beta-to-select-drivers-2020-10-13.jpg"
-        width: 1000
-        height: 800
         isCached: true
 
 secured: "ys36RiYBouSCXW2MHr3F+Yr85kath4ilQlyyja8Ca480lbCoPq5nzwZCsFfQ6E4Xkss4bxG7xTv5RwSRwPXsHmZsy5zeVKJ+JDUHizmEUoJfjqAWzuXoacvxIVeftGLKywRT8l50D1lwYnFJ37QdQlPJhqDfHpNSg19ZzWKknXJqMUAohzdsHWByjJ1Q61s4O6tMmGO4hyV7qdwI1jpO97ohy2sgvn2lgqODcJ7EFjeNGakNmPTflSJeJcHAl/MnJ48VY1hqO4SFYEx5tw7I94MMS/jZ6LzUlVLz3Mt00T5OjFP0px1QDwGvbZaxvdRstSdgRZaH6ZgAIQmoLfYD+osgf/sPa3aNKfXOSufj/MU=;EnBpUPr4P03vHcFGzdXQVA=="

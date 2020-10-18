@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Worldwide Artificial Intelligence Industry to 2026 - Featuring Intel, Xilinx & Samsung Among Others"
-excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and"
-publishedDateTime: 2020-10-16T21:45:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-artificial-intelligence-industry-to-2026---featuring-intel-xilinx-samsung-among-others/article_786cf144-870e-58d4-96cd-3f6b9ab0bd72.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-artificial-intelligence-industry-to-2026---featuring-intel-xilinx-samsung-among-others/article_786cf144-870e-58d4-96cd-3f6b9ab0bd72.html"
+excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
+publishedDateTime: 2020-10-16T22:04:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/worldwide-artificial-intelligence-industry-to-2026-featuring-intel-xilinx-samsung-among-others-1029689939"
+webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-artificial-intelligence-industry-to-2026-featuring-intel-xilinx-samsung-among-others-1029689939"
 type: article
-quality: 25
-heat: 25
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "JFxcLwpvxaB/P+/gKBSQxLp4aONTSdUXjd6dKqdv1dIwmZbbe5T0MAlYxQAxc2rx3OzKQTlKtKLvHB9qPxY0BQt9SdzJvt9BVfVB7MzUWkXGwBuJnFDF8WhMJS/Z+DkAEdV4OJq4w4Y/hnLmyQMRxF+Lo1OTYIRo9Z/ifIkgAmEq41KXpGoksDzacSV6CwZ6rIeWc4Q5twkkAa0LMJIKYw9uRZ7aZfuMEbItMMJI28ToQYrX5h6LQ5DBL5U0NKpfJk2GnRtMKJYo0gyXvG3AXQP7aABP9OTQw0dYHx0riKxOWI7TwCYkVk4exMkzwyxwln9oBkyANAepWjVm+ILEkdgrCbqGqrw7/03VpD42Nmw=;XXLS0DepVyH3+m4XTu8BVw=="
+secured: "crn27pZ3QrEreQ/daPzgwqJinSAV60BlPWg8w0hquX0pfIoxlVmrZMLV8RIKZZaok2f0AmbHgnRB9MuOECcbURBQ13LQLkWAH1IR3NivIR/EDkU2swx+lBAx4Q41qZ8+5mAOZvIpuW90PBqKBC1pfm0LwW5pyz3lQXlT8pszGtmB1jPySSYaAOWNIH8QZt3eV88nXt+tEGGeEdtQO1+l6M5GQuLdzOA/Tr5XWxj/5zevrwCaJiV2HjiOxuSxeQhm6F+cNXRjZlFtUHGWsBIguMLffwWin/bmMSwLwWX5D1gJqU2jmMIHdocAIQmCDhk+PglWbhqAC4OfZxaF0xTEEDjSz9PxM6Z6GZ3OqcyKyOI=;qSsKAbUyX9S8wpCV2Vc3Vg=="
 ---
 

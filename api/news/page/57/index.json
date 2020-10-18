@@ -2,6 +2,58 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-09-02-facebook-ai-research-found-intersections-in-popular-qa-datasets.md",
+      "title": "Facebook AI Research Found Intersections In Popular QA Datasets",
+      "excerpt": "The open domain problem of question-answer systems assumes that the model is able to answer new questions using the knowledge learned during training. In addition, the model should be able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/deep-learning-digest/facebook-ai-research-found-intersections-in-popular-qa-datasets-49d38514adb3",
+      "originalUrl": "https://medium.com/deep-learning-digest/facebook-ai-research-found-intersections-in-popular-qa-datasets-49d38514adb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*tmGVvp9sTtv_jzjS",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-mediatek-qualcomm-intro-ai-chips-for-gaming-smartphones.md",
       "title": "MediaTek, Qualcomm intro AI chips for gaming smartphones",
       "excerpt": "MediaTek and Qualcomm have introduced their new AI-capable mobile SoC chips designed specifically for gaming smartphones - the Helio G95 and Snapdragon 732G respectively.",
@@ -1120,49 +1172,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-indeed-selects-aws-as-its-preferred-cloud-to-drive-efficiencies-across-its-global-operations.md",
-      "title": "Indeed Selects AWS as Its Preferred Cloud to Drive Efficiencies across its Global Operations",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Indeed, the world’s leading job site, has selected AWS as",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200901005230/en/Selects-AWS-Preferred-Cloud-Drive-Efficiencies-Global",
-      "originalUrl": "https://www.businesswire.com/news/home/20200901005230/en/Selects-AWS-Preferred-Cloud-Drive-Efficiencies-Global",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200901005230/en/817187/23/AWS_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

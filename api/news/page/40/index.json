@@ -2,6 +2,58 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-09-14-nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.md",
+      "title": "Nvidia will buy Arm for up to $40 billion, combining smartphone, GPU powerhouses",
+      "excerpt": "Nvidia is set to buy Arm for as much as $40 billion, the largest semiconductor deal ever. Nvidia says that it will use Arm's CPUs to bolster its AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.html",
+      "originalUrl": "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/05/nvidia-volta-tesla-v100-2-100722222-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.amp.html",
+      "publishedDateTime": "2020-09-13T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-arm-uk-based-chip-designer-sold-to-nvidia.md",
       "title": "ARM: UK-based chip designer sold to Nvidia",
       "excerpt": "But experts say one risk Nvidia faces is that the takeover could encourage ARM's wider client list to shift focus to a rival type of chip technology, which lags behind in terms of",
@@ -1163,49 +1215,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-virginia-graves-receives-recognition-for-decades-of-public-service.md",
-      "title": "Virginia Graves receives recognition for decades of public service",
-      "excerpt": "Even after working as a nurse in the Korean War and caring for patients in the W.G. Bill “Hefner” VA Medical Center for decades, Virginia Graves wasn’t done serving people. That’s why she was excited to join the Nursing Home Advisory Committee,",
-      "sourceUrl": null,
-      "webUrl": "https://www.salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/",
-      "originalUrl": "https://www.salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.salisburypost.com/wp-content/uploads/sites/9/2020/09/0913-Graves1.jpg",
-          "width": 622,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-12T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Salisbury Post",
-        "domain": "salisburypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-e
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -154,20 +154,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/windrader-1048981_1280.jpg"
         width: 1280
         height: 809
-        isCached: true
-  - title: "Facebook changes course to ban Holocaust denial"
-    excerpt: "In a major departure from Mark Zuckerberg’s past approach to Holocaust denial on Facebook, the company said Monday that it would ban such content and make related changes in the coming weeks. — FCC slot,"
-    publishedDateTime: 2020-10-13T14:08:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/13/facebook-changes-course-to-ban-holocaust-denial-790938"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 24
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
   - title: "How Facebook and Twitter’s content moderation could shape the final weeks of the election"
     excerpt: "Facebook and Twitter’s handling of the New York Post’s Biden-Burisma story is illustrating how tech platform’s content moderation decisions could shape the final weeks of the election cycle — and Republicans are accusing them of attempting to influence the results."
