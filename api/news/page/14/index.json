@@ -2,6 +2,135 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-03-hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems.md",
+      "title": "HRW warns of privacy concerns as Russia expands facial-recognition systems",
+      "excerpt": "This article was originally published by Radio Free Europe/Radio Liberty and is reprinted with permission. Human Rights Watch (HRW) has criticized Russia's plans to expand the use of \"invasi",
+      "sourceUrl": null,
+      "webUrl": "https://americanmilitarynews.com/2020/10/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/amp/",
+      "originalUrl": "https://americanmilitarynews.com/2020/10/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://americanmilitarynews.com/wp-content/uploads/1024px-Soviet_Motorised_CCTV_camera_-_panoramio-1024x680.jpg",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://americanmilitarynews.com/2020/10/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://americanmilitarynews-com.cdn.ampproject.org/c/s/americanmilitarynews.com/2020/10/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/amp/",
+      "publishedDateTime": "2020-10-03T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Military News",
+        "domain": "americanmilitarynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-bolstering-robotics-enterprise-potential-using-ai-applications.md",
+      "title": "Bolstering Robotics Enterprise Potential using AI Applications",
+      "excerpt": "Robots perform tasks like recognizing and grasping objects, automating its navigation and understanding human language with the unveiling of Artificial Intelligence (AI) applications in its system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
+      "originalUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Robotics.jpeg",
+          "width": 2560,
+          "height": 1539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-03T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india.md",
+      "title": "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India",
+      "excerpt": "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-78457905/78457905.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
+      "publishedDateTime": "2020-10-02T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-simplify-data-management-with-new-apis-in-amazon-personalize.md",
       "title": "Simplify data management with new APIs in Amazon Personalize",
       "excerpt": "Amazon Personalize now makes it easier to manage your growing item and user catalogs with new APIs to incrementally add items and users in your datasets to create personalized recommendations. With the new putItems and putUsers APIs, you can simplify the process of managing your datasets. You no longer",
@@ -1031,144 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-big-plans-artificial-intelligence-run-city-campus-in-china.md",
-      "title": "BIG plans artificial intelligence-run city campus in China",
-      "excerpt": "BIG has drawn up the plans for smart service specialists Terminus Group, which will have its headquarters at the centre of the artificial intelligence ... e-bikes and self-driving cars to cut ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/",
-      "originalUrl": "https://www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.dezeen.com/uploads/2020/10/terminus-group-bjarke-ingels-big-ai-city-china-architecture-news_dezeen_2364_hero-b-852x479.jpg",
-          "width": 852,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/amp/",
-      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/amp/",
-      "publishedDateTime": "2020-10-02T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dezeen",
-        "domain": "dezeen.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-mit-report-how-ai-changes-the-world.md",
-      "title": "MIT Report How AI changes the world",
-      "excerpt": "Building Workforce Skills for AI As the world becomes more digital, artificial intelligence (AI) is increasingly critical to the way we do business. Leaders are no longer deciding",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
-      "publishedDateTime": "2020-10-02T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-how-to-perfect-your-fintech-story-and-close-your-next-funding-round.md",
-      "title": "How to perfect your fintech story and close your next funding round",
-      "excerpt": "The one thing I always do when I start working with a fintech startup is ask them what they are doing differently or better than their competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-your-fintech-story-and-close-your-next-funding-round/",
-      "originalUrl": "https://thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-your-fintech-story-and-close-your-next-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/conversation-pitch-story-storytelling-gq-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-your-fintech-story-and-close-your-next-funding-round/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-your-fintech-story-and-close-your-next-funding-round/amp/",
-      "publishedDateTime": "2020-10-02T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

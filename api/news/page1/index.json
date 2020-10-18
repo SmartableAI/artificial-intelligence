@@ -307,17 +307,17 @@
       "title": "Singapore releases AI ethics, governance reference guide",
       "excerpt": "Singapore Computer Society launches reference document to guide businesses in the development of artificial intelligence ethics and governance as well as future training and certification of professionals.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/singapore-releases-ai-ethics-governance-reference-guide/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/singapore-releases-ai-ethics-governance-reference-guide/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/",
       "publishedDateTime": "2020-10-16T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -341,8 +341,51 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-looper-column-artificial-intelligence-humanity-and-the-future.md",
+      "title": "Looper column: Artificial intelligence, humanity and the future",
+      "excerpt": "Columns share an author’s personal perspective.***** In September, the British news website The Guardian published a story written entirely by an",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
+      "originalUrl": "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=LIFESTYLE&ArtNo=201019472&Ref=AR",
+          "width": 387,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
+      "cdnAmpWebUrl": "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
+      "publishedDateTime": "2020-10-16T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1152,41 +1195,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-robotics-artificial-intelligence-etf-botz-at-a-52-week-high.md",
-      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at a 52-Week High",
-      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.5% from its 52-week low price of $14.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15?amp",
-      "publishedDateTime": "2020-10-15T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

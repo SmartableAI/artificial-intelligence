@@ -134,6 +134,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "uA2pXsc9rbLIJfW/H5GRTZa9e3rxkNDMx0WKQh/a9BkjBQy3E/5Ul7fkANgLvSWaHpMxO3+JHL/nr1vZX3ZoC8UUMStrnNml6Xmnr1fi2KAqODUqCc22uN8O60YhhVx3xcSadkOac9/eeIV2XiV8rkAsrwokMbgqKw9C/AXrwInOQebj+VUuyF8LQ7Q+JsY5ntihhIHDLnCyFE7kUjuujg17BJJwzq0rwFqttFLNq85rSFxB0Kjway8IapR4DkgICDW8ksLaUmnSaK2OFcXIlKsog0Wq4FVxAf5VeasBt25Ycmu6nPJies/7ZJ/+510RhHK1BrgvF7/PbtvX9CWbjys0OLLdXRoS7Wy09qiKbv4=;DYJMvCzX3INW7fIth7H+2Q=="
+secured: "sr0zZvC/FJjrZ7MwxYiGL++1M4tbHdyuiIMGyVS27WCwmpim7VDxh0CfTRztWls56wc/twHBX9Dnk0huNdyuDUODISfru+cI3BvxzIK919N5TvaRp6Okp9zIPdKw/8I2DN1vLt77wr+U3CDKhectXhyR17s/k0qSFT0R8ce0IT9RFxzV2+U95QIpuJukgs2Tcj0lpy4gnxY7NrZGZyM72mqNk00MXplrP4PNhuOa8jx7PpksFgXGVEi6/pOdN19iaOYDrQy/2nZBox1rJtZon0XgSWDFfaECTuzRJtgXvKrBU1rbXgXS6MhWrreyUX8NRNbFUOarLPhgLVqYZv9kloGn+2JHG1QBJ2yNYpxXSUQ=;Aj3ZmOidG+5M3+clwuEavA=="
 ---
 

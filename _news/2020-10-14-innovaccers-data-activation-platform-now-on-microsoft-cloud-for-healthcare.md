@@ -42,22 +42,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Microsoft, AICTE collaborate to skill students, educators in AI, IoT, Big Data, more"
-    excerpt: "As part of the partnership, over 1,500-course modules from Microsoft will be made available to students and educators free of cost through AICTE's e-learning portal ELIS."
-    publishedDateTime: 2020-10-13T10:10:00Z
-    webUrl: "https://yourstory.com/2020/10/microsoft-aicte-skill-students-educators-ai-iot-big-data"
-    ampWebUrl: "https://yourstory.com/2020/10/microsoft-aicte-skill-students-educators-ai-iot-big-data/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/microsoft-aicte-skill-students-educators-ai-iot-big-data/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 67
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Microsoftpng1572886233736png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "IGse2nIbEH22S/oDxNhnOcONo6P3ZWIb4YnMTs1ow9ppWoxrBRAkf/MDVzpaDAjZKLKu1PI+ebP6LfUpEF2KdaXHRyvccpBFEmFazVcuP4L7K0Rn2dRfiA9a/MmXdmX0lCYQj3PA0/0K1KM9Hx/M7WlPGcNC5GjP1C4Gzklcp3vjTJnxXSPhxFBFjAVbqtGyt7zzrADZHpdsGbPm1rLZJOY28XOqZcRXLYRl70R3IBJHxrHjq5trh6ia9/hcb3s5fqJR0d5BVWLnmcQH1W33jWF3Cw8sQhNvbdMpePxt2GykM7no02LFvB/0VbBY8IpzUbgG4tLH7tLVonNcYq7Coqamr0Qx2xXwkOrTlGBQKSg=;a8noLJ2CB3Qt5uvROTs6mg=="
 ---

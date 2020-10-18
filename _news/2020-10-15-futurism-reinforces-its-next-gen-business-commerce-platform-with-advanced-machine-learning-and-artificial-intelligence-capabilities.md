@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Futurism Reinforces Its Next-Gen Business Commerce Platform With Advanced Machine Learning and Artificial Intelligence Capabilities"
-excerpt: "Futurism Technologies, a leading provider of digital transformation solutions, is bringing to life its Futurism Dimensions business"
-publishedDateTime: 2020-10-14T22:34:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-301152696.html"
-webUrl: "https://www.prnewswire.com/news-releases/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-301152696.html"
+excerpt: "Futurism Technologies, a leading provider of digital transformation solutions, is bringing to life its Futurism Dimensions business commerce suite with additional artificial intelligence and machine learning capabilities."
+publishedDateTime: 2020-10-14T22:53:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-1029681593"
+webUrl: "https://markets.businessinsider.com/news/stocks/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-1029681593"
 type: article
-quality: 26
-heat: 26
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://mma.prnewswire.com/media/1312995/Futurism_Logo.jpg?p=facebook"
-    width: 2148
-    height: 1126
-    isCached: true
-
-secured: "kShB8p/j57uRnmyoHHHq2kwG+YCxt5Nuu07oRSNcdQHy+bo96HBjYkFmJZp6c9Pd8MbCP9aTItScwo/X9VHH8XU+j/+GstmXAH1EIcSeWziNB5w6gTuCIg3vqTmeNTnuQSVS+oMND/ScaZruc8W0nSSeG18TjaJrVK4b4ZVDJGJyXJHhXeBjj8Xdh+ZfrsIWfVrV5mJUJ+M6cXj/FSVoSVg9KpwzEOePeOq6UG72qUg3t1FXKSqur3WN4u3gjb4C8phBLpkKn+0fY4tAcyHE51wfvPLiqCv2HvhNS1a+N5zEJGCsk2L5S4u3dIwe/UenRv9U7cq/N5nqOaer9EhUhfTjhWHFWcSfU/ofr+tOOTo=;1xSgqw0lh6aUiQjOy/XqVg=="
+secured: "c+fi30YWgBElIpDVytFhoaP32+nMb3a4cMP1MpeckaIW9QrPQtPsQmHL2JU9kO0YCiaN6Z8dL8M+nj8uhXgKonXM/rf8qW4EMZOmv0qm49JMPKyUC5+/I4ZH4OLAQkRkiVOjX+mc+xrzqYRbeh744xROi8Y3Jpjmn6UOVAuyUZMtQdoJKFIoKk0C9Rr6l9v6iGx8YX/w9QNYopRogyxGoy4OMgYHd6tPXgQ51bn1ATP2w8lxAQf7D9RCwqXuI+dDbvuvNtF+IkM7Rf+QjbNmttcgm339WGr/IxpAr5SsbozFp901+M6RrcR/ruLM1q8slUMAvskmfQYVl1rVn4lGAx+IPaUJyJG0EjqpTM1wFZo=;aKDqRYH4XcWxKbAER7C63Q=="
 ---
 

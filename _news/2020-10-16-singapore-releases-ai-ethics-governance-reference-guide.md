@@ -3,13 +3,13 @@ category: news
 title: "Singapore releases AI ethics, governance reference guide"
 excerpt: "Singapore Computer Society launches reference document to guide businesses in the development of artificial intelligence ethics and governance as well as future training and certification of professionals."
 publishedDateTime: 2020-10-16T16:00:00Z
-originalUrl: "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/"
-webUrl: "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/singapore-releases-ai-ethics-governance-reference-guide/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/singapore-releases-ai-ethics-governance-reference-guide/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
 related:
   - title: "Hyundai's new Singapore R&D hub features helipad for flying cars"
@@ -53,7 +53,21 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Singapore's World-first Face Scan Plan Sparks Privacy Fears"
+    excerpt: "Singapore will become the world's first country to use facial verification in its national ID scheme, but privacy advocates are alarmed by what they say is an intrusive system vulnerable to abuse. From next year,"
+    publishedDateTime: 2020-10-18T03:42:00Z
+    webUrl: "https://www.ibtimes.com/singapores-world-first-face-scan-plan-sparks-privacy-fears-3063942"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/singapore-will-become-the-worlds-first-country-to.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "fn7ywuli/+Eqr66pmALcgBcAknVunFNgZiTO6np+oU5JbEBM8AvxGKJYKztYCCbIdcfY5H5Kfh/YZ6co7GrlhGE/8jNesv2+19HAnsYQCG7IptY5c2pIeQq8rdYw/2f7PhRFNqBkxOMXx4ELHC2iiV5J6qXgY0Uxdjlug9/GSw2E5R9oynqaqgCbBAoBYe2eHwYtCu74YmSRGkTo/8EtP2lubKqIcp1Ywc65wcQNgU5MBnkHKxKWXps4uVdIU0ouYYL4XOe8NzNaJCR/VIDMcejGN89Smqnl6KvNvQlVK0MnBlqPnoO6BnYjqTbJfaDWPL2u3OfAQB0DoL99yUmwtpVFiPDJWcUMHECuSqR7kd9X7NoudOT0scDydNppML0Qeng+gXzHbJnNPF6k81dVxfTKuLSBycmJ+7YaojxbHlHCJVbqoFuQaJ946GmvbtvlQVChPJHasXeFC6e0iGwzozRXDdC2ri5tb4SxLXRUdWdDviQkPAGK6vtuwQMLQr1pOdSjImFkU6YO9nIbuus4RQ==;DiWoV4p7iNfZRfGdvztLJQ=="
+secured: "tRgaw7/6uI7X1gNWQn9dqBxj4Ccj/7E9Y9kYRT29JGBYicE8I7ITNTvQXdqy++Jwiti6ckHmiHTa5zkWI6EKPEzN4lu87qYLWvhie5QCnBgjkQ08q2roO3tiNK21M0Z8aTK1+u2yPWNflrJUtPOgxotLOKSsBU/gjfC4lKjQY+640ET4KMtLsopxRbSZSWBxkFwWqUMeME+KZDh7DmO9UUGcjGIkuEznhI3hCdeQUIHFZeMK9JDH0pfDRl3fJYJqNEAwXCut1M5iC0jZVd6uMQ+jRii+bRE8xSwJAZJolpvxHJEzX1A2lhv3/cXwbG0Ac4XZrVEtfonU1OsKi2egc+5A5GM0wMOVqpSaLfAPcSOEBcjkDnFQfCCTkt87mYmcEefnb2b//wbK6+Y0kP9MSl/X4aATBKGa2socTCzroIQ26VqzHdErdAoYJ2SQX4dXtBlfPalQz16Fc8Y6orA3U/LHDOfGWUmqCdeFFeV9vfjZnhnFk2YehbTIgdU6VgNTjGaLbVR7Fs/AHt3XH9RxDw==;2ac5+abZxf6P2/Oays+XMA=="
 ---
 

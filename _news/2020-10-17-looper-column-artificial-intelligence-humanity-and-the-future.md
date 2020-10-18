@@ -42,6 +42,22 @@ related:
         width: 387
         height: 393
         isCached: true
+  - title: "Artificial intelligence, humanity, and the future"
+    excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
+    publishedDateTime: 2020-10-18T01:24:00Z
+    webUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future"
+    ampWebUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
+    cdnAmpWebUrl: "https://www-sturgisjournal-com.cdn.ampproject.org/c/s/www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
+    type: article
+    provider:
+      name: Sturgis Journal
+      domain: sturgisjournal.com
+    quality: 57
+    images:
+      - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
+        width: 680
+        height: 931
+        isCached: true
 
 secured: "whzI3kQ/87kiO/pPzFYHpbl4lkk+lvROoKEHVRYy8NomlSmSnyvgYHz7tl+JavxwjEMm1fy/y71zwU1aaq3+XxaSKPriaDRuXgWevhNNRQ5BoJUqK0sFiudJamnJY1SZaf6WMvxIIV/wK/avZrc+2Q8xolCXWDwg3qsEh7nEr6eY33RuFjT77u1ZnXFyLk08rEh6DjKER2ZS1SyAYAZi5AWQNtOOfc+plTP+0s5aymnk134r0ePcnMOffPNX7PZUGvFUNbMrGITYNG5AgnZHKojDs4mzhoOV1EqSqosxhEFeEU+GeGHxiTNhQXHJHZ6tRLXZ7lMwyH9Mh6bDSw51p4JuT2h+Cl5hM7E6xPdcb+g=;Afh4m5Xn67zQmElhN44tEw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-dr
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13?amp"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Nasdaq
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla's Elon Musk: Some 'expert, careful' drivers get beta Full Self-Driving next week"
-    excerpt: "Tesla will offer a limited number of \"expert and careful\" drivers a beta of its long-awaited Full Self-Driving capability in Autopilot next Tuesday, according to Tesla chief Elon Musk.  As usual, Musk teased the Full Self-Driving (FSD) beta release in a tweet."
-    publishedDateTime: 2020-10-13T09:45:00Z
-    webUrl: "https://www.zdnet.com/article/teslas-elon-musk-some-expert-careful-drivers-get-beta-full-self-driving-next-week/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/teslas-elon-musk-some-expert-careful-drivers-get-beta-full-self-driving-next-week/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/teslas-elon-musk-some-expert-careful-drivers-get-beta-full-self-driving-next-week/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/29/b0b2b069-530f-4f03-ab3c-f41207823389/thumbnail/1200x675/7dab00fbe159192ec9acc7344002b423/teslas-big-new-feature-autopilot-now-hal-5ea855af1c719e4526590320-1-apr-29-2020-13-36-03-poster.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
     excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
     publishedDateTime: 2020-10-17T15:46:00Z

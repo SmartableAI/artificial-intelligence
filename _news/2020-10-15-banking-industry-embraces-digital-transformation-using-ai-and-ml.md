@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/ai-machine-learning-redefining-ba
 webUrl: "https://www.analyticsinsight.net/ai-machine-learning-redefining-banking-industry/"
 type: article
 quality: 71
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -147,20 +147,6 @@ related:
       - url: "https://static.euronews.com/articles/stories/05/06/44/46/1000x563_cmsv2_838c94ea-f882-5071-833d-8fd38361bc81-5064446.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Islamic banks “vital in accelerating UK fintech transformation” according to expert"
-    excerpt: "Islamic finance expert calls for UK Islamic banks to accelerate digital transformation This month marks one year since Al Rayan Bank launched its digital banking app – which is now used by more than 20,"
-    publishedDateTime: 2020-10-13T09:58:00Z
-    webUrl: "https://www.globalbankingandfinance.com/islamic-banks-vital-in-accelerating-uk-fintech-transformation-according-to-expert/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 33
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-13T152131.811.jpg"
-        width: 750
-        height: 422
         isCached: true
 
 secured: "plaONiyvFw+uDmGgYEE/LpR0Jf6KDKarp4q863lqf7NJsd61MtPDQy4/K02olokPc0ObgdEJh1VjKnfq9zKFs3dUCM6MJdQoHCRn4XjVeO2ARSl53lobY/3PMQp3dK5b+QxkyxI5V4ArLZUMAvgJq8m7pZYKsTmZ6xfzY3FTbmwdPI9YvrZczJPpEvWTasKfMMQbsNGkou24xeGbrKYWJOPOWL74Cgvuo7E/9Cg/D5eF9v2g0P2urjYHeIs9Q40YcZOyllJf1ijoq5Gt+dOag6llUbS2tNAXEOqZ91Y2jmgtjN2ONbOTBCCGLvK/Gjb8Pax/I+xgGnw9wnGILN35SepavmgZaNi5ibFdqnvAPbkyejoyfGNrJ1rYxEzDXMM6uq+pW3O3vCrOc4w/qzwZlYV0Lzvm3CPl9fJxcQ3LLqIRsy1NRXo0rcFogcqI4bqTk9gcy+AlSuRA4JprC+lXBX4ybdNT7gXf3zLuBUYhqnuPssEfZgujIXuXPQuj8tWqfkqhdzbuZbxtDzlBxRG/BA==;O/2Sjc/ZVVOkl7GUaSa4UA=="

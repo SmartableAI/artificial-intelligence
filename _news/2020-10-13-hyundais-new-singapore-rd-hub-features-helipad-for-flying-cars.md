@@ -28,9 +28,9 @@ related:
   - title: "Singapore releases AI ethics, governance reference guide"
     excerpt: "Singapore Computer Society launches reference document to guide businesses in the development of artificial intelligence ethics and governance as well as future training and certification of professionals."
     publishedDateTime: 2020-10-16T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/singapore-releases-ai-ethics-governance-reference-guide/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
     type: article
     provider:
       name: ZDNet
@@ -49,6 +49,20 @@ related:
       - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/10/16/nz_robot_161092.jpg?itok=1LzBSNeb"
         width: 763
         height: 509
+        isCached: true
+  - title: "Singapore's World-first Face Scan Plan Sparks Privacy Fears"
+    excerpt: "Singapore will become the world's first country to use facial verification in its national ID scheme, but privacy advocates are alarmed by what they say is an intrusive system vulnerable to abuse. From next year,"
+    publishedDateTime: 2020-10-18T03:42:00Z
+    webUrl: "https://www.ibtimes.com/singapores-world-first-face-scan-plan-sparks-privacy-fears-3063942"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/singapore-will-become-the-worlds-first-country-to.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "9W3KF+H2jkYWVhmRvUcvo1X4AdObZlX4+IoxYq3jMSnU0/yTCEWB8l2o8CJl5RXwO+b58CPYaZUodBsnc4JHoa0pLE64VJplc730Jc89lelnBxw4+neBuAGhvsCsqE/zamB0ARXZs0dAbbcWPmfu52VtLcGCQ550WP7i/NICAq220MejgwJhpaqbDovASiADdmys8XRNzfL2+NmEvzjoGTx3+MEae7EoSzbZzVhQllnrKBHUCtz+Y869icoWCmx1hQyPxX6lKLo2BmeLo1ae2oHzN6xx1g2ybHjS76Lknfaq6oiiRU50hfQBLBqy49RxQIcyDkfp8uOCUcSLQO6ompnCFKRbXs4SLNxHWxMtjyC8OdOEkTd+Y/SZF4QQH7pccu67mBcqoBDaztvMAv7mMlVmdqQPiakKIfbA1IKTfKv5T8cXf1nlu6wstFf4olho3dd8N4Th0Ov1MKovEwobcohxMmdbeYABoteKLnnyVI7U9qlCCesgI7nR04GC8Quc2bm8jG/MFkkcPIc1m8cA6Q==;X+pvXLdT4rOCD1kU53PT9Q=="

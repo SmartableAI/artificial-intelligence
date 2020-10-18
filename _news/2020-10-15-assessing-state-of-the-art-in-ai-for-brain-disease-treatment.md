@@ -33,20 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Intrusion of AI and deep neural networks opened new perspectives in detecting terrorism"
-    excerpt: "Emerging applications of AI such as machine learning, Artificial Neural network (ANN), facial recognition features, social network analysis and edge analysis are combating terrorism at a new level."
-    publishedDateTime: 2020-10-13T09:12:00Z
-    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-heading-fight-terrorism-front/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 46
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-intelligence.jpg"
-        width: 1680
-        height: 840
-        isCached: true
   - title: "CUJO AI Launches a Patented Device Identification Solution Solving Major Issues Caused by MAC Address Randomization"
     excerpt: "CUJO AI, a pioneer and global leader in the development and application of artificial intelligence to improve the security, control, and privacy of connected devices, today announced its newly patented Device Identification feature,"
     publishedDateTime: 2020-10-13T12:55:00Z

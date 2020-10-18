@@ -147,20 +147,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Islamic banks “vital in accelerating UK fintech transformation” according to expert"
-    excerpt: "Islamic finance expert calls for UK Islamic banks to accelerate digital transformation This month marks one year since Al Rayan Bank launched its digital banking app – which is now used by more than 20,"
-    publishedDateTime: 2020-10-13T09:58:00Z
-    webUrl: "https://www.globalbankingandfinance.com/islamic-banks-vital-in-accelerating-uk-fintech-transformation-according-to-expert/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 33
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-13T152131.811.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "+XIQ/voMdYopLuFvcdbWHPv2Wj8Chv9nYhvpeTB+aaimiXkZyUrBD512rBi/x3FigF9YQlPRMbRHmZrjfr40KtPHXE9nxIZuRFK+76LSTiUpPp2KxbpAHrXx1JdwMtIxdT6gcbMMEdcBgFjjral9ImZ9FPa9T9H40saHBMDClgnKOP0Qtm9gR26v1A7sZE2tbe6lnFRryb4OZfmZDvzn0R0zb2pZtSKOow2hWBOb2yF4NozvGmB3jCRGEXLemKNspJ23i290ii1TXSU3ePUafzUdUNDJ+UT2I48WsMazCr/BdnIb9tb1a+jzm31aAMqws7FF9aBfh5L+z+I7TdAOe9sxRbk82rByljTaZpEIq7l2YfUOkWGYnOxmstvuWQ9iQ0cqTV4UT1hCGsZw1huLKfE6D0Gn7SPLqumYnQZ1ulS3sWU/p7hV9DdjO80wEYvJ2GXiD1VQy3vP0IHL6c7Aan9JPTM8h+YoQ3SKmqtjtJjGwuKQbaBxPnfnQjDoiZjiS2ynablnyn/6+Do+CZp88Q==;LEWKUjUU7h6TBz6UAh9KXQ=="
 ---

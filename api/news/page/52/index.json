@@ -2,6 +2,144 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-09-04-supply-chain-startup-enabling-the-self-driving-supply-chain.md",
+      "title": "Supply Chain Startup: Enabling the self-driving supply chain",
+      "excerpt": "Rather than focusing on a specific supply chain process, the company is utilizing Artificial Intelligence ... The company’s tagline is “Enabling The Self-Driving Supply Chain.” “We define it as moving from people doing the work with support ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmr.com/article/supply_chain_startup_enabling_the_self_driving_supply_chain",
+      "originalUrl": "https://www.scmr.com/article/supply_chain_startup_enabling_the_self_driving_supply_chain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png",
+          "width": 444,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-04T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain Management Review",
+        "domain": "scmr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-covid-fallout-accelerating-financial-sector-tech-race.md",
+      "title": "COVID fallout accelerating financial sector tech race",
+      "excerpt": "The pandemic is accelerating the technology race in the financial sector as companies adapt to new operating parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/covid-fallout-accelerating-financial-sector-tech-race/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/covid-fallout-accelerating-financial-sector-tech-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.bloomberglp.com/professional/sites/10/327937308-e1599205209846.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-04T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts.md",
+      "title": "Yandex Self Driving Group To Be Directly Owned By Yandex, Uber - Quick Facts",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net (RTTNews) - Yandex N.V. (YNDX) and Uber (UBER) have entered into agreements to spin off the self-driving vehicles business ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Yandex-Self-Driving-Group-To-Be-Directly-Owned-By-Yandex-Uber-Quick-Facts-1029562717",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Yandex-Self-Driving-Group-To-Be-Directly-Owned-By-Yandex-Uber-Quick-Facts-1029562717",
+      "publishedDateTime": "2020-09-04T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-ai-start-ups-are-tackling-one-of-minings-oldest-problems.md",
       "title": "AI Start-Ups Are Tackling One of Mining’s Oldest Problems",
       "excerpt": "In a small town near Lake Balkhash, a Kazakh gold miner is relying on artificial intelligence to predict when an ore mill is about to overload.",
@@ -1032,152 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications.md",
-      "title": "Global Cognitive Services Market Future Prediction Report By 2024 : IBM, Microsoft, Google, AWS, Baidu, Nuance Communications",
-      "excerpt": "Sep 03, 2020 (PRNews Times via COMTEX) -- Market Research Report Add a new global Cognitive Services market from manufacturers, countries, types and applications, predicts by 2024 in its research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-welcome-to-ravencountry-a-premium-site-for-the-baltimore-ravens.md",
-      "title": "Welcome to RavenCountry+, a premium site for the Baltimore Ravens",
-      "excerpt": "Welcome to RavenCountry+, a premium content room that provides inside, on-site information with the Baltimore Ravens. This is where we'll be designating specific premium-caliber content to this room,",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.si.com/nfl/ravens/ravencountry-plus/ravencountry-plus-promo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sports Illustrated",
-        "domain": "si.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19.md",
-      "title": "Healthcare AI: How one hospital system is using technology to adapt to COVID-19",
-      "excerpt": "One Illinois hospital system is using artificial intelligence and other technologies to keep patients safe and the hospital in full operation during a pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19/",
-      "originalUrl": "https://www.techrepublic.com/article/healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/20/0fcebbe7-67f1-4908-8260-32f1fef1e499/thumbnail/1200x675/33623cba36b7bd46e414c3e09f8616ce/beeah-cr-mir.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19/",
-      "publishedDateTime": "2020-09-03T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

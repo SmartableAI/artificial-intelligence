@@ -44,20 +44,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Intrusion of AI and deep neural networks opened new perspectives in detecting terrorism"
-    excerpt: "Emerging applications of AI such as machine learning, Artificial Neural network (ANN), facial recognition features, social network analysis and edge analysis are combating terrorism at a new level."
-    publishedDateTime: 2020-10-13T09:12:00Z
-    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-heading-fight-terrorism-front/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 46
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-intelligence.jpg"
-        width: 1680
-        height: 840
-        isCached: true
 
 secured: "L6/6I90Kszj6NvsRno8IaFXQA9aSwASpHhIy5Vi7YiM0/d8Um75HFCGkPUHQrkYezgyX7IbKKkBCQv2spzjlLpMaAbSxGaVICYD9tXRvTgwyFc2ZDgb6+NXtBwDFm/PZ/8Rwa34fKX3lmyQKDI3rtXPa2gJ/DcK50+rqlpKrVLdnoPb2YYcQ0SAHPiwYWagj0hRrKEq3YZy5NPiLmG5bfb65v5ItIKQcYEsRr0n2jfe1SNDfCaR/Xv3FsLQ6DLvOs3X86rvaNa/lTxMMIvSe0rA/87JD3VrTdQgiod/LDDDgO/tW8wPneOKJVLJq2dHWCuaV2+n6XtkJTh6yVpvmL0joh4XbiYuuTvDQWptPFHs=;HdczLiDvHHmWhAYZKwI2EQ=="
 ---

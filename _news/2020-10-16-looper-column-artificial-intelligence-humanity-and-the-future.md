@@ -9,8 +9,8 @@ ampWebUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificia
 cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Austin American-Statesman
@@ -42,6 +42,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b18a16da4a28b23b1cf5b3b4312416f8c8dd74b7/c=0-88-387-306/local/-/media/2020/10/16/Pontiac/ghows-IO-201019690-aa2304fe.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Artificial intelligence, humanity, and the future"
+    excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
+    publishedDateTime: 2020-10-18T01:24:00Z
+    webUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future"
+    ampWebUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
+    cdnAmpWebUrl: "https://www-sturgisjournal-com.cdn.ampproject.org/c/s/www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
+    type: article
+    provider:
+      name: Sturgis Journal
+      domain: sturgisjournal.com
+    quality: 57
+    images:
+      - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
+        width: 680
+        height: 931
         isCached: true
 
 secured: "ukTiQGVgV/sCI9WOByBjoedQCu/hriJg8RESyHgDhYskGVv+2DMxEzp4K18jKu39/uZNT7gfEaJejk7v1yQ4kWwUS2KAa7IgBUxxDPBycmC882Cj4MmiNXbieKtU4NhZEK4iir7GvBKvq/kszQ6sGAgrtxAzQlnSNVkksAs4Z0Oicg+Yk5PmYzViSw3zzXfs5VBhzFlGTs4xn7+Vg9Drh2o9DTdfMmc6MqiJxWV4vuw4Z9fmzg2BKdBQ0yasDHYzsl0VV/BPKJOMLhmJTgitL9l1erytHiGaq0r4dQed0qSIWwlSYLvTPMls3ixwRns5Aw1TYpdD8vK43D9wyzVa2d20+Iu25BmN1e9KQVOP3HUT2oszTEuIxRRpt2nITqmwY7gyQTmp4usfQrv9UKM/bxc/AgGPluGPFNHM72RqkTr8KuN7LAy3XG6391m8/JxoO76ga0Ndjz0oQm60O8fUURSqaaz0kkfaqajFgMMSQ6jJ4JCv054CJsVelNkCWy31IQcMulMvKfBmiP4qvKd9NA==;PBtJbAxkt1xKe0PCuplvMQ=="

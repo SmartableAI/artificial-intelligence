@@ -2,7 +2,7 @@
 category: news
 title: "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS"
 excerpt: "CloseCurlyDoubleQuote; The solution&CloseCurlyQuote;s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically ..."
-publishedDateTime: 2020-10-13T13:00:00Z
+publishedDateTime: 2020-10-13T13:05:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
 webUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
 type: article
@@ -62,6 +62,6 @@ related:
         height: 250
         isCached: true
 
-secured: "vrBIkOyQ572UntNw6OPrLKvjCghg5HVtMAN4s02THBOO0/TAb0gq0VPC+KGnbcNNitksz6cDt0PHyx4N6L8qgPwqzPllZ9Xv08BCRhaZ7tkubVFOJPo6U9t9e3BQRYs2D1cTQXa4JPaoRG/LYp3WHbGNeFO0dIAP8WKcRMZU4Ks+UYk6orc7jzYRen3dnDyIfqfgPkIFfuqhIDwrhKDtuw1tGVppGK/R4qvVrfDdPcpVIPDrPF5R8lwHfMch2vHPl47JoBQ3dBteF8hStsv/MqfRhQukJkYGIuEha74qQgtYlS+kdCYk1QRFV6i8zWTivIxlAyZwFurja8f3WsALQlqY73OlxEigSYwR6SnNLQQ=;KWiJhKfCmgOHWAys8bSTdg=="
+secured: "276v89OwNte0eSKrLfdrgovd3uscr/KUoLBZmkPMSvaysVhtm7ZOznc/dgqjNaJa8p1NcnERYpQanlkdtwAEZ7yJohQakoLaE5yWACOOcWq6GuN8NtFIQhHN5triC+nnVyci1cnH+bl+i/kFvX9pXCAIjqQP1nTzIBziD+w/tAIRj+3W5t9IoasmDxN8ToAFUfYdVyOX44sZTGEKoT7XPzKsIEWnnm9zWiHApT4gzVbkMni2KY1mlQj5BTllhOg/Og3N54a3eSsS3ip77Ptos0JVJRUIpkuKU1BPiypqGN7itDtT2nNpOBhxIfkK+bs54uiPOpifD65MXb4a/wkY6g7003NMBsZyX98i4oF2Q4A=;DK/nJolOqkWx/Es8iddnLw=="
 ---
 
