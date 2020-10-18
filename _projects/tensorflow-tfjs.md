@@ -1,6 +1,7 @@
 ---
 name: "TensorFlow.js"
 excerpt: "A WebGL accelerated JavaScript library for training and deploying ML models."
+originalUrl: https://www.tensorflow.org/js/
 type: code
 heat: 728
 
@@ -10,6 +11,7 @@ github:
   stars: 12200
   forks: 969
   languages: ["TypeScript","JavaScript"]
+
 provider:
   name: tensorflow
   domain: tensorflow.org
@@ -21,14 +23,10 @@ topics:
   - TensorFlow
 
 images:
-  - url: https://pbs.twimg.com/profile_banners/254107028/1557510928/1500x500
-    width: 1500
-    height: 500
-    title: "TensorFlow"
-  - url: https://www.tensorflow.org/images/tf_logo_social.png
+  - url: https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png
     width: 1200
     height: 675
-    title: "TensorFlow"
+    isCached: true
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Apollo"
 excerpt: "Apollo is a high performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles."
+originalUrl: https://apollo.auto/
 type: code
 heat: 745
 
@@ -10,6 +11,7 @@ github:
   stars: 15400
   forks: 5300
   languages: ["C++","Python"]
+
 provider:
   name: Baidu
   domain: baidu.com
@@ -25,14 +27,10 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://pbs.twimg.com/profile_banners/920405161373089792/1533856977/1500x500
-    width: 1500
-    height: 500
-    title: "banner"
-  - url: https://pbs.twimg.com/profile_images/920409788869066753/EM_yWwsK_400x400.jpg
-    width: 400
-    height: 400
-    title: "logo"
+  - url: https://ifkiv94i6efhcx2nh89.exp.bcevod.com/mda-jj7k2cig75k9gkge/mda-jj7k2cig75k9gkge.jpg
+    width: 2000
+    height: 1047
+    isCached: true
 
 ---
 

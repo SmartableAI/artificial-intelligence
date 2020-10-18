@@ -10,6 +10,7 @@ github:
   stars: 3300
   forks: 253
   languages: ["Scala","TypeScript"]
+
 provider:
   name: polynote
   domain: polynote.org

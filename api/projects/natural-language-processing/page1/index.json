@@ -31,7 +31,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "HanLP",
       "type": "code",
       "topics": [
@@ -67,7 +67,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "gensim – Topic Modelling in Python",
       "type": "code",
       "topics": [
@@ -80,6 +80,7 @@
       "excerpt": "💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/explosion-spacy/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/explosion-spacy/",
+      "originalUrl": "https://spacy.io/",
       "github": {
         "url": "https://github.com/explosion/spaCy",
         "watches": 565,
@@ -96,14 +97,13 @@
       "heat": 748,
       "images": [
         {
-          "url": "https://spacy.io/icons/icon-512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": "spaCy",
-          "isCached": false
+          "url": "https://spacy.io/static/social_default-1d3b50b1eba4c2b06244425ff0c49570.jpg",
+          "width": 1200,
+          "height": 630,
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "spaCy",
       "type": "code",
       "topics": [
@@ -116,6 +116,7 @@
       "excerpt": "TextBlob is a Python (2 and 3) library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/sloria-textblob/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/sloria-textblob/",
+      "originalUrl": "https://textblob.readthedocs.io/en/dev/",
       "github": {
         "url": "https://github.com/sloria/TextBlob/",
         "watches": 285,
@@ -133,13 +134,12 @@
       "images": [
         {
           "url": "https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png",
-          "width": 196,
-          "height": 180,
-          "title": "TextBlob",
-          "isCached": false
+          "width": 590,
+          "height": 541,
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "TextBlob",
       "type": "code",
       "topics": [
@@ -166,7 +166,7 @@
         "domain": "machinalis.com"
       },
       "heat": 555,
-      "content": "",
+      "content": "\r\n",
       "name": "quepy",
       "type": "code",
       "topics": [
@@ -210,7 +210,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Apache OpenNLP",
       "type": "code",
       "topics": [

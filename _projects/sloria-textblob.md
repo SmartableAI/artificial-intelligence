@@ -1,6 +1,7 @@
 ---
 name: "TextBlob"
 excerpt: "TextBlob is a Python (2 and 3) library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more."
+originalUrl: https://textblob.readthedocs.io/en/dev/
 type: code
 heat: 687
 
@@ -10,6 +11,7 @@ github:
   stars: 6900
   forks: 920
   languages: ["Python"]
+
 provider:
   name: Steven Loria
   domain: stevenloria.com
@@ -20,9 +22,9 @@ topics:
 
 images:
   - url: https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png
-    width: 196
-    height: 180
-    title: "TextBlob"
+    width: 590
+    height: 541
+    isCached: true
 
 ---
 

@@ -8,6 +8,7 @@
       "excerpt": "An Open Source Machine Learning Framework for Everyone",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/tensorflow/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/tensorflow/",
+      "originalUrl": "https://www.tensorflow.org/",
       "github": {
         "url": "https://github.com/tensorflow/tensorflow",
         "watches": 8593,
@@ -25,21 +26,13 @@
       "heat": 901,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_banners/254107028/1557510928/1500x500",
-          "width": 1500,
-          "height": 500,
-          "title": "TensorFlow",
-          "isCached": false
-        },
-        {
           "url": "https://www.tensorflow.org/images/tf_logo_social.png",
           "width": 1200,
           "height": 675,
-          "title": "TensorFlow",
-          "isCached": false
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "TensorFlow",
       "type": "code",
       "topics": [
@@ -54,6 +47,7 @@
       "excerpt": "Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/keras/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/keras/",
+      "originalUrl": "https://keras.io/",
       "github": {
         "url": "https://github.com/keras-team/keras/",
         "watches": 2063,
@@ -68,16 +62,7 @@
         "domain": "keras.io"
       },
       "heat": 820,
-      "images": [
-        {
-          "url": "https://camo.githubusercontent.com/0d08dc4f9466d347e8d28a951ea51e3430c6f92c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67",
-          "width": 1200,
-          "height": 348,
-          "title": "Keras",
-          "isCached": false
-        }
-      ],
-      "content": "",
+      "content": "\r\n",
       "name": "Keras: Deep Learning for humans",
       "type": "code",
       "topics": [
@@ -94,6 +79,7 @@
       "excerpt": "A WebGL accelerated JavaScript library for training and deploying ML models.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/tensorflow-tfjs/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/tensorflow-tfjs/",
+      "originalUrl": "https://www.tensorflow.org/js/",
       "github": {
         "url": "https://github.com/tensorflow/tfjs",
         "watches": 338,
@@ -111,21 +97,13 @@
       "heat": 728,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_banners/254107028/1557510928/1500x500",
-          "width": 1500,
-          "height": 500,
-          "title": "TensorFlow",
-          "isCached": false
-        },
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png",
           "width": 1200,
           "height": 675,
-          "title": "TensorFlow",
-          "isCached": false
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "TensorFlow.js",
       "type": "code",
       "topics": [
@@ -162,7 +140,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Tensorflow-Project-Template",
       "type": "code",
       "topics": [
@@ -199,7 +177,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Keras implementation of Image OutPainting",
       "type": "code",
       "topics": [
@@ -252,7 +230,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Four Experiments in Handwriting with a Neural Network",
       "type": "code",
       "topics": [

@@ -8,6 +8,7 @@
       "excerpt": "An Open Source Machine Learning Framework for Everyone",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/tensorflow/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/tensorflow/",
+      "originalUrl": "https://www.tensorflow.org/",
       "github": {
         "url": "https://github.com/tensorflow/tensorflow",
         "watches": 8593,
@@ -25,21 +26,13 @@
       "heat": 901,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_banners/254107028/1557510928/1500x500",
-          "width": 1500,
-          "height": 500,
-          "title": "TensorFlow",
-          "isCached": false
-        },
-        {
           "url": "https://www.tensorflow.org/images/tf_logo_social.png",
           "width": 1200,
           "height": 675,
-          "title": "TensorFlow",
-          "isCached": false
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "TensorFlow",
       "type": "code",
       "topics": [
@@ -54,6 +47,7 @@
       "excerpt": "Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/keras/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/keras/",
+      "originalUrl": "https://keras.io/",
       "github": {
         "url": "https://github.com/keras-team/keras/",
         "watches": 2063,
@@ -68,16 +62,7 @@
         "domain": "keras.io"
       },
       "heat": 820,
-      "images": [
-        {
-          "url": "https://camo.githubusercontent.com/0d08dc4f9466d347e8d28a951ea51e3430c6f92c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67",
-          "width": 1200,
-          "height": 348,
-          "title": "Keras",
-          "isCached": false
-        }
-      ],
-      "content": "",
+      "content": "\r\n",
       "name": "Keras: Deep Learning for humans",
       "type": "code",
       "topics": [
@@ -94,6 +79,7 @@
       "excerpt": "scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/scikit-learn/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/scikit-learn/",
+      "originalUrl": "https://scikit-learn.org/",
       "github": {
         "url": "https://github.com/scikit-learn/scikit-learn",
         "watches": 2261,
@@ -108,16 +94,7 @@
         "domain": "scikit-learn.org"
       },
       "heat": 808,
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png",
-          "width": 1200,
-          "height": 646,
-          "title": "scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "",
+      "content": "\r\n",
       "name": "scikit-learn",
       "type": "code",
       "topics": [
@@ -130,6 +107,7 @@
       "excerpt": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/pytorch/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/pytorch/",
+      "originalUrl": "https://pytorch.org/",
       "github": {
         "url": "https://github.com/pytorch/pytorch",
         "watches": 1313,
@@ -150,11 +128,10 @@
           "url": "https://pytorch.org/assets/images/pytorch-logo.png",
           "width": 2500,
           "height": 2500,
-          "title": "PyTorch",
-          "isCached": false
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "PyTorch",
       "type": "code",
       "topics": [
@@ -199,7 +176,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Caffe",
       "type": "code",
       "topics": [
@@ -213,6 +190,7 @@
       "excerpt": "Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-spark/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/apache-spark/",
+      "originalUrl": "https://spark.apache.org/",
       "github": {
         "url": "https://github.com/apache/spark",
         "watches": 2100,
@@ -242,14 +220,13 @@
       ],
       "images": [
         {
-          "url": "https://spark.apache.org/images/spark-logo-trademark.png",
-          "width": 376,
-          "height": 200,
-          "title": "logo",
-          "isCached": false
+          "url": "https://spark.apache.org/images/spark-stack.png",
+          "width": 633,
+          "height": 298,
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Apache Spark",
       "type": "code",
       "topics": [
@@ -285,7 +262,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "HanLP",
       "type": "code",
       "topics": [
@@ -321,7 +298,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "gensim – Topic Modelling in Python",
       "type": "code",
       "topics": [
@@ -369,7 +346,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Apache MXNet",
       "type": "code",
       "topics": [
@@ -382,6 +359,7 @@
       "excerpt": "Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/microsoft-cntk/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/microsoft-cntk/",
+      "originalUrl": "https://docs.microsoft.com/en-us/cognitive-toolkit/",
       "github": {
         "url": "https://github.com/Microsoft/CNTK",
         "watches": 588,
@@ -406,16 +384,7 @@
         ]
       },
       "heat": 749,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/CNTK-herofinal-800x550.png",
-          "width": 800,
-          "height": 550,
-          "title": "Microsoft Cognitive Toolkit (CNTK)",
-          "isCached": false
-        }
-      ],
-      "content": "",
+      "content": "\r\n",
       "name": "CNTK",
       "type": "code",
       "topics": [
@@ -431,6 +400,7 @@
       "excerpt": "💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/explosion-spacy/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/explosion-spacy/",
+      "originalUrl": "https://spacy.io/",
       "github": {
         "url": "https://github.com/explosion/spaCy",
         "watches": 565,
@@ -447,14 +417,13 @@
       "heat": 748,
       "images": [
         {
-          "url": "https://spacy.io/icons/icon-512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": "spaCy",
-          "isCached": false
+          "url": "https://spacy.io/static/social_default-1d3b50b1eba4c2b06244425ff0c49570.jpg",
+          "width": 1200,
+          "height": 630,
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "spaCy",
       "type": "code",
       "topics": [
@@ -467,6 +436,7 @@
       "excerpt": "Apollo is a high performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/baidu-apollo/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/baidu-apollo/",
+      "originalUrl": "https://apollo.auto/",
       "github": {
         "url": "https://github.com/ApolloAuto/apollo",
         "watches": 1100,
@@ -495,21 +465,13 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_banners/920405161373089792/1533856977/1500x500",
-          "width": 1500,
-          "height": 500,
-          "title": "banner",
-          "isCached": false
-        },
-        {
-          "url": "https://pbs.twimg.com/profile_images/920409788869066753/EM_yWwsK_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
+          "url": "https://ifkiv94i6efhcx2nh89.exp.bcevod.com/mda-jj7k2cig75k9gkge/mda-jj7k2cig75k9gkge.jpg",
+          "width": 2000,
+          "height": 1047,
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Apollo",
       "type": "code",
       "topics": [
@@ -554,7 +516,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Apache PredictionIO",
       "type": "code",
       "topics": [
@@ -567,6 +529,7 @@
       "excerpt": "A WebGL accelerated JavaScript library for training and deploying ML models.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/tensorflow-tfjs/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/tensorflow-tfjs/",
+      "originalUrl": "https://www.tensorflow.org/js/",
       "github": {
         "url": "https://github.com/tensorflow/tfjs",
         "watches": 338,
@@ -584,21 +547,13 @@
       "heat": 728,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_banners/254107028/1557510928/1500x500",
-          "width": 1500,
-          "height": 500,
-          "title": "TensorFlow",
-          "isCached": false
-        },
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png",
           "width": 1200,
           "height": 675,
-          "title": "TensorFlow",
-          "isCached": false
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "TensorFlow.js",
       "type": "code",
       "topics": [
@@ -644,7 +599,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "FastPhotoStyle",
       "type": "code",
       "topics": [
@@ -696,7 +651,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "AirSim",
       "type": "code",
       "topics": [
@@ -734,7 +689,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "PythonRobotics",
       "type": "code",
       "topics": [
@@ -747,6 +702,7 @@
       "excerpt": "TextBlob is a Python (2 and 3) library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/sloria-textblob/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/sloria-textblob/",
+      "originalUrl": "https://textblob.readthedocs.io/en/dev/",
       "github": {
         "url": "https://github.com/sloria/TextBlob/",
         "watches": 285,
@@ -764,13 +720,12 @@
       "images": [
         {
           "url": "https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png",
-          "width": 196,
-          "height": 180,
-          "title": "TextBlob",
-          "isCached": false
+          "width": 590,
+          "height": 541,
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "TextBlob",
       "type": "code",
       "topics": [
@@ -814,7 +769,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Machine Learning for .NET",
       "type": "code",
       "topics": [
@@ -854,7 +809,7 @@
       "tags": [
         "Deep Learning"
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Amazon DSSTNE",
       "type": "code",
       "topics": [
@@ -868,6 +823,7 @@
       "excerpt": "Machine learning, computer vision, statistics and general scientific computing for .NET",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/accord-net-framework/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/accord-net-framework/",
+      "originalUrl": "http://accord-framework.net/",
       "github": {
         "url": "https://github.com/accord-net/framework/",
         "watches": 376,
@@ -884,14 +840,13 @@
       "heat": 639,
       "images": [
         {
-          "url": "https://avatars0.githubusercontent.com/u/5102613?s=200&v=4",
-          "width": 200,
-          "height": 200,
-          "title": "Accord.NET Framework",
-          "isCached": false
+          "url": "http://accord-framework.net/images/accord-logo.png",
+          "width": 487,
+          "height": 363,
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Accord.NET Framework",
       "type": "code",
       "topics": [
@@ -936,7 +891,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Polynote",
       "type": "code",
       "topics": [
@@ -971,7 +926,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Tensorflow-Project-Template",
       "type": "code",
       "topics": [
@@ -1016,7 +971,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "GANDissect",
       "type": "code",
       "topics": [
@@ -1064,7 +1019,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "jetbot",
       "type": "code",
       "topics": [
@@ -1077,6 +1032,7 @@
       "excerpt": "Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/alibaba-alink/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/alibaba-alink/",
+      "originalUrl": "https://github.com/alibaba/Alink",
       "github": {
         "url": "https://github.com/alibaba/Alink",
         "watches": 65,
@@ -1093,14 +1049,13 @@
       "heat": 555,
       "images": [
         {
-          "url": "https://camo.githubusercontent.com/cd9b471148b8d0e7a5fd0ea8f9e9eb2df9411d31/68747470733a2f2f696d672e616c6963646e2e636f6d2f7466732f54423141454f656f427230674b306a535a466e58586252525858612d313332302d313034382e706e67",
-          "width": 1320,
-          "height": 1048,
-          "title": "Alink Machine Learning Algorithms",
-          "isCached": false
+          "url": "https://avatars1.githubusercontent.com/u/1961952?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Alink",
       "type": "code",
       "topics": [
@@ -1127,7 +1082,7 @@
         "domain": "machinalis.com"
       },
       "heat": 555,
-      "content": "",
+      "content": "\r\n",
       "name": "quepy",
       "type": "code",
       "topics": [
@@ -1163,7 +1118,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Keras implementation of Image OutPainting",
       "type": "code",
       "topics": [
@@ -1211,7 +1166,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Apache OpenNLP",
       "type": "code",
       "topics": [
@@ -1247,7 +1202,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "OpenCat",
       "type": "code",
       "topics": [

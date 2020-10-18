@@ -8,6 +8,7 @@
       "excerpt": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/pytorch/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/pytorch/",
+      "originalUrl": "https://pytorch.org/",
       "github": {
         "url": "https://github.com/pytorch/pytorch",
         "watches": 1313,
@@ -28,11 +29,10 @@
           "url": "https://pytorch.org/assets/images/pytorch-logo.png",
           "width": 2500,
           "height": 2500,
-          "title": "PyTorch",
-          "isCached": false
+          "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "PyTorch",
       "type": "code",
       "topics": [

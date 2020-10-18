@@ -1,6 +1,7 @@
 ---
 name: "Accord.NET Framework"
 excerpt: "Machine learning, computer vision, statistics and general scientific computing for .NET"
+originalUrl: http://accord-framework.net/
 type: code
 heat: 639
 
@@ -10,6 +11,7 @@ github:
   stars: 3522
   forks: 1646
   languages: ["C#"]
+
 provider:
   name: Accord.NET
   domain: http://accord-framework.net/
@@ -20,10 +22,10 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://avatars0.githubusercontent.com/u/5102613?s=200&v=4
-    width: 200
-    height: 200
-    title: "Accord.NET Framework"
+  - url: http://accord-framework.net/images/accord-logo.png
+    width: 487
+    height: 363
+    isCached: true
 
 ---
 

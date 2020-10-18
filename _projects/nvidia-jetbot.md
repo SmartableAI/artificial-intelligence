@@ -10,6 +10,7 @@ github:
   stars: 1300
   forks: 396
   languages: ["Jupyter Notebook","Python"]
+
 provider:
   name: NVIDIA
   domain: nvidia.com
