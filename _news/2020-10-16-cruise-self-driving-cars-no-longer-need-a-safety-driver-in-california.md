@@ -105,20 +105,6 @@ related:
         width: 1280
         height: 678
         isCached: true
-  - title: "In the cab with the Waymo Driver: How trucks help advance our self-driving technology"
-    excerpt: "In 2017, after nearly a decade of developing self-driving technology for passenger cars, we launched our trucking and local delivery program now known as Waymo Via. Since then, our autonomous Class 8 trucks have been tested in a wide variety of cities and environments in California,"
-    publishedDateTime: 2020-10-13T17:44:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/in-the-cab-with-the-waymo-driver-how-trucks-help-advance-our-self-driving-technology/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 32
-    images:
-      - url: "https://1.bp.blogspot.com/-X4ESQdGmUIE/X4TlPXyPgGI/AAAAAAAAEfg/fd8IHTtghWUzpWrRIIJd9bCjlBqqx0i8gCNcBGAsYHQ/w640-h361/lanechange%2B%25281%2529.gif"
-        width: 579
-        height: 326
-        isCached: true
 
 secured: "bN5Lp2b++IEC3hixNBuMgDlX6btdTvJO2KfUELf7PV/YkFHW3Vui6J4vimu759+aln9MQv4AEsCrMcXx6s2SvARGfj5h+sPwh5DOj6DvZCsuz6s9Uq63l4AxlP52IhvSpuvBXKxaRwcpyX+IoAH4tMcy78iY3xvRJvvYLTZCt/zi+0s4g+zvLGIFTcVF33mZ2MFPDi0qD84kik3JbQ5bsM5+302tSUkS46vDtndpJAlxnIlUaRTI0VElcw7l25tlbHjEx0UeVUkhsG+cw0uocGbM6yH5GzoGlfn3gh0NFhA373r7PVbni0bBiNoaIOFqcvfYp8bh5CBvPUR0wvLg01noN5uz2u6cniBMZm8XK3DT4Km+meTTapL2QPgYtZQigZx2cMB2sl154hvTsL1FIf3kdlKiNzp9hFrbJNQdI6Wlflvyx5E/BcMikvEn4olbAb5Bc8juF0UGGFY1peJAjguDCtyAkTh8kACEZZooHOA8wVMcy59Uj5zr2TiuLB4S9b2X5jozlTp/oZebDVaQfg==;tN54CmwwzAeycqaACeSihg=="
 ---

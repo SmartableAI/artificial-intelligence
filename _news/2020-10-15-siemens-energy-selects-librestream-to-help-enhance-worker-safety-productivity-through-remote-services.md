@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Siemens Energy Selects Librestream to Help Enhance Worker Safety & Productivity Through Remote Services"
-excerpt: "Librestream, a leading provider of augmented reality and remote collaboration solutions, is pleased to announce that Siemens Energy, a world leader in energy"
-publishedDateTime: 2020-10-15T13:46:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/siemens-energy-selects-librestream-to-help-enhance-worker-safety-productivity-through-remote-services/article_55f79f8d-488f-5fa1-830f-45399e3586c0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/siemens-energy-selects-librestream-to-help-enhance-worker-safety-productivity-through-remote-services/article_55f79f8d-488f-5fa1-830f-45399e3586c0.html"
+excerpt: "Librestream, a leading provider of augmented reality and remote collaboration solutions, is pleased to announce that Siemens Energy, a world leader in energy infrastructure, selected the Librestream Onsight augmented reality platform for its innovative Connected Worker solution."
+publishedDateTime: 2020-10-15T13:00:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-personnel-energy-industry-4293675352e411dbc365ec5dde4394d4/gallery/0edea0229483a6e6b2371d8cb6eae588"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-personnel-energy-industry-4293675352e411dbc365ec5dde4394d4/gallery/0edea0229483a6e6b2371d8cb6eae588"
 type: article
 quality: 8
 heat: 8
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/d8/8d866199-66cc-5e16-b90f-76966d17e636/5f884c858a69c.image.jpg?resize=400%2C279"
-    width: 400
-    height: 279
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "Ua3AFBGnKJp+BviJSHPaNIcgIKqdSeL1yHG8ji/9WQTmBRweivH0sGH4H5h1Vu2wr4RVUg4jq+2ug+R8CWlzLaes2KVT9v+SudarTvgWUU445V8cr+qLLILhKzThlDTlMmalum3cPzfOtSvDItlLK+LuJjgmHcD+MCBCUwPTKNC01Z8N91D5x9T44I5O5vuy4Ye8O8mDK4F8Ik83gZ8TMfVmuzr+FAO6Pz/gsHe+C4U3JWPpRS3ltcirrCoB01vguwbBtoYj3WEnAQD21hqfpfSKUqHOU5OY9FEkgos0gB5vWdPKs+kBcoZiZb9HvFmQTbO+wCHYzrzcO2sRIAhCYcE/f0nms1WyE4120Y2nsd0=;Xu2EuGi++UM0/DC4FxpyyA=="
+secured: "qrUXt64Sx+DfhHPCkYN38RgByek7bI2lKd/9PJ/BonIv17qQiPH5dqWLd8S03fafBqVf/C5J6oZQso2EvIixutXhgi31nRdzLYFmouW0lPtH+L9Xlo8S3Mmo++1TE8bIdX18OaXDwvfTfLYMa8bL8X707Ms2yfJDSHIa1cR1kHcQVPAJKJD0jAg6eXGZZJj3hPjVp3ja37qYgv42sLB2luMQBIa78drjutfV2AMyyaDfsrbAMsiE08n19BCvd+0yAvRMFeXwtEmucM8SIM7YlaS2gDCwy7iKILOeOElznxIQss21jipNDhxbSYTbrcPCh0ttYPZWHwJvJ54EFHdnu607ryZIpjFM2JEbh2tGSeQ=;7k+6BQhqXmMMVCbEV1WFeg=="
 ---
 

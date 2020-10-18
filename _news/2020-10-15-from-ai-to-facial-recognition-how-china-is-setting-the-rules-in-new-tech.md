@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "J&K Civil Secretariat staff to mark attendance via facial recognition setup"
-    excerpt: "The use of the biometric attendance system, which requires people to put a finger on the surface of the scanner, was suspended after the outbreak of the coronavirus pandemic in March this year"
-    publishedDateTime: 2020-10-13T18:33:00Z
-    webUrl: "https://www.business-standard.com/article/current-affairs/j-k-civil-secretariat-staff-to-mark-attendance-via-facial-recognition-setup-120101301562_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/j-k-civil-secretariat-staff-to-mark-attendance-via-facial-recognition-setup-120101301562_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/j-k-civil-secretariat-staff-to-mark-attendance-via-facial-recognition-setup-120101301562_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/26/full/1593115870-6713.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Attendance in Sectt through Facial Recognition System"
     excerpt: "Employees of the Civil Secretariat will mark their attendance through a Facial Recognition system from next week. The use of the biometric attendance system, which requires people to put a finger on the surface of the scanner,"
     publishedDateTime: 2020-10-13T21:35:00Z

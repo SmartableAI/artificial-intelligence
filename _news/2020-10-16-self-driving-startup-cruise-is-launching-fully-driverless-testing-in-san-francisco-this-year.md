@@ -95,20 +95,6 @@ related:
         width: 1280
         height: 678
         isCached: true
-  - title: "In the cab with the Waymo Driver: How trucks help advance our self-driving technology"
-    excerpt: "In 2017, after nearly a decade of developing self-driving technology for passenger cars, we launched our trucking and local delivery program now known as Waymo Via. Since then, our autonomous Class 8 trucks have been tested in a wide variety of cities and environments in California,"
-    publishedDateTime: 2020-10-13T17:44:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/in-the-cab-with-the-waymo-driver-how-trucks-help-advance-our-self-driving-technology/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 32
-    images:
-      - url: "https://1.bp.blogspot.com/-X4ESQdGmUIE/X4TlPXyPgGI/AAAAAAAAEfg/fd8IHTtghWUzpWrRIIJd9bCjlBqqx0i8gCNcBGAsYHQ/w640-h361/lanechange%2B%25281%2529.gif"
-        width: 579
-        height: 326
-        isCached: true
   - title: "Cruise self-driving cars no longer need a safety driver in California"
     excerpt: "Cruise, the self-driving technology company backed by General Motors and Honda, on Thursday announced it received a permit from the California DMV to test its prototypes on the state's roads without a safety driver behind the wheel. Nevertheless ..."
     publishedDateTime: 2020-10-16T15:47:00Z

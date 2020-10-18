@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-c
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -35,20 +35,6 @@ related:
       - url: "https://www.purdue.edu/uns/images/2020/reingold-dataOG.jpg"
         width: 800
         height: 400
-        isCached: true
-  - title: "Collaborative robot optimization with AI, for safer manufacturing during COVID-19"
-    excerpt: "Learning Objectives Artificial intelligence (AI) is adding to productivity of collaborative robotic implementations. Collaborative robots"
-    publishedDateTime: 2020-10-13T17:06:00Z
-    webUrl: "https://www.controleng.com/articles/collaborative-robot-optimization-with-ai-for-safer-manufacturing-during-covid-19/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 49
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/CTL2011_MAG1_TU_Cobots-UR-webcasts-UR_AI_webinar_Image.jpg"
-        width: 645
-        height: 350
         isCached: true
 
 secured: "Us3sK7ROxIoBUUoRfxHaHJVNG6cawbmRy+pnFjGRinBclwHBmeZN153m90gymvcztfJyOh3TUNqk/5MaHoC1H1yIePf1B4sjlN31j5P48SgDR6LdxQB0zum87Ecrzo4ODO+CoW1eSV0Is8ZK2tjsP/H890xfBfe4XJvwYANy5hKS0O9qt1zIjnpWXmfwUhKHMdyjNfx7tib9M6Bl34XFfxBBhe/ybBEFCtx6G7m7aPrx3J/Ndhh8xpj7m3GhulQaGcgZ2+KkJ6jCSzFNxGPsC3nfRzKSd1VD3Ou+wFpda+XdRxYgoxv+TzKaqtBIh4rm8u4wfIKTXFEkK6tBlufKeKCu+LIN0LAR67fxewh6Q+tpK04SZlLIoYtyKowz037qTtRQIvzjRqKnTqw+3czZkfzIqUsH5VkRfS85z7JJallBERC8BzSvvvK7LUATdd2+bmdcNE+GgJt2YvO7V1BFFflxIBDK7HKMI4XE4iwr/jDmE1po2AlGjMmcszAFJs7iY1XVeXbh1ZbezvP0wSL9RA==;dpzO5HShsRZ+IKLD6Px7/w=="

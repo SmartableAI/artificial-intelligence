@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202010/biometric-vehicle-access-fo
 webUrl: "https://www.biometricupdate.com/202010/biometric-vehicle-access-forecasts-climb-facial-recognition-features-in-more-new-car-models"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Airport facial recognition could soon handle masks, biometric boarding pilot begins in Brazil"
-    excerpt: "The use of facial biometrics in airport systems is increasing in France and around the world, and the country’s national data protection regulator, CNIL, is cautioning stakeholders to ensure that"
-    publishedDateTime: 2020-10-13T17:38:00Z
-    webUrl: "https://www.biometricupdate.com/202010/airport-facial-recognition-could-soon-handle-masks-biometric-boarding-pilot-begins-in-brazil"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Pakistan deploys facial recognition to secure borders, biometric prisoner identification ordered"
     excerpt: "Pakistan Customs will put in place a National Targeting Centre (NTC) using biometrics to identify and profile risky goods and individuals, DAWN reports. Established with support from regional"
     publishedDateTime: 2020-10-15T17:44:00Z

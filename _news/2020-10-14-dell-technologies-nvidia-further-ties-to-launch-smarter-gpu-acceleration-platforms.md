@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voicendata.com/dell-technologies-nvidia-ties-launch-smar
 cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/dell-technologies-nvidia-ties-launch-smarter-gpu-acceleration-platforms/amp/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Saturn Cloud Enables Easy and Powerful NVIDIA GPU Computing For Everyone"
-    excerpt: "Today, Saturn Cloud, the GPU data science company, announces the launch of Saturn Cloud Hosted, an open platform for multi-node multi-GPU computing in the cloud. The platform is available to anyone and everyone: corporations,"
-    publishedDateTime: 2020-10-13T18:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
+  - title: "Is the Nvidia A100 GPU Performance Worth a Hardware Upgrade?"
+    excerpt: "Over the last decade, accelerators have seen an increasing rate of adoption in high-performance computing (HPC) platforms, and in the June 2020 Top500"
+    publishedDateTime: 2020-10-16T16:35:00Z
+    webUrl: "https://www.hpcwire.com/2020/10/16/is-the-nvidia-a100-gpu-performance-worth-a-hardware-upgrade/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/green-circuit_shutterstock-754085515_700x.jpg"
+        width: 700
+        height: 437
+        isCached: true
 
 secured: "2xOslHXC1GtCmi2Zc0c6QDFKsHJKCoQ+dekTbaBjXJEX/d1zwOLmEKzXu7M4JayyCepG5E7YNpaFEzCIXI3TOEM8mzjxgKG2ZPQ8CbvZg3a2CCJ+hDqW5r92kEcea5qDY6S01ZbwyoYZDj0MWkucaEaAIHcvwh/H9ZYy4gvyh+dBO/HRI7BoY5KIjM5gRRUj6z2BMe4x2O1xFTf+TtvG0UHtPpbtncOwwkmKuPlUVu1FDMiN1az0+WDQcmiGRssgpFkVxtnR2y1TXC0TYHoszZyzP6iXfb7SIXzuB9VjpHbn1wlaaH/CPVdSsK7Qr0Vbv2OBcrrw+IqEJMdMeZmOc7Tv0+zmLR75rumpXlDGfJ5oBwlUhxVJHrX8ANN7Y8MBgI6HEjEZ7WV1A+Hp59/RwW4ClAQsd1p64rAnJ5z7mMzZIDbBlNfysQ2LgQVT0Y1fI8zojIj+F68DeOprh7Kz4TpJwAeTsL1geFO6M3jG45iw417P/FZTv7rT3SEAB+gnrXaaN2pesaLiOFewmF6vxQ==;MHezJ2wwITnfghUZb76mKA=="
 ---

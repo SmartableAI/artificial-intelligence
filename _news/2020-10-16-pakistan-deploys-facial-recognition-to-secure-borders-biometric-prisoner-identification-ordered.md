@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Airport facial recognition could soon handle masks, biometric boarding pilot begins in Brazil"
-    excerpt: "The use of facial biometrics in airport systems is increasing in France and around the world, and the country’s national data protection regulator, CNIL, is cautioning stakeholders to ensure that"
-    publishedDateTime: 2020-10-13T17:38:00Z
-    webUrl: "https://www.biometricupdate.com/202010/airport-facial-recognition-could-soon-handle-masks-biometric-boarding-pilot-begins-in-brazil"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Biometric vehicle access forecasts climb, facial recognition features in more new car models"
     excerpt: "The market for biometrics in automobiles continues to see increased supply, with Cadillac, Buick, and China’s Human Horizons launching new models with facial recognition, a new document-signing"
     publishedDateTime: 2020-10-16T16:13:00Z
