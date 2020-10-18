@@ -115,7 +115,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1388,49 +1388,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-the-rise-of-computer-vision.md",
-      "title": "The Rise of Computer Vision",
-      "excerpt": "These days, we’re producing more visual data than ever before. With revenues from computer vision expected to soar into the billions over the next few years, many organizations have already ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision",
-      "originalUrl": "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-the-central-role-of-computer-vision-in-multiexperience.md",
       "title": "The Central Role of Computer Vision in Multiexperience",
       "excerpt": "Computer Vision technologies – such as object recognition, facial recognition, image to text, and image comparison – can enhance the customer experience by saving time and effort. These technologies can be implemented in assisted service mode – to ...",
@@ -1461,6 +1418,58 @@
         "name": "CustomerThink",
         "domain": "customerthink.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-the-rise-of-computer-vision.md",
+      "title": "The Rise of Computer Vision",
+      "excerpt": "These days, we’re producing more visual data than ever before. With revenues from computer vision expected to soar into the billions over the next few years, many organizations have already ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/208956/the-rise-of-computer-vision",
+      "originalUrl": "https://www.infoworld.com/resources/208956/the-rise-of-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T07:07:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

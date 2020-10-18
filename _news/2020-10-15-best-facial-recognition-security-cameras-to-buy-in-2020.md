@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/u6hR0A8J2nLaSvXpk9Bfy9ieJLg=/300x0/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg&h=250"
         width: 444
         height: 250
-        isCached: true
-  - title: "J-K Civil Secretariat Employees To Mark Attendance Through Facial Recognition System"
-    excerpt: "Employees of the Jammu and Kashmir Civil Secretariat will mark their attendance through a facial recognition system from next week, an official circular issued on Tuesday said"
-    publishedDateTime: 2020-10-14T02:58:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/j-k-civil-secretariat-employees-to-mark-attendance-through-facial-recognition-system.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 32
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wcf1suarecosngc0_1602644255.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
         isCached: true
 
 secured: "7gmhRQk+Ak94nFohdu5U1LvXpDuHYKciqd5+fh7XCysK4oLVegAEZWRoj6ij7C6aLZdkQY4B2bv3Wfx4oKpwoNoXBG4cJbepp8b9kFw4vgemJ36OclgFnUWEeVwi2HdpBLXXcEFDGxVJ2vpfMDUoljvb5gcPx5j3SzSWhPrW9iPJtZFUBXvi9UZsALnmk1y3EIUZmYvX6UFhzuYFC+eD1NY6z/am0RgywGtiEaOGUAlMt8Ee5lB8QlStW9M9MyNm+iW8p0eepgQjnqWh8Ua6cis72Pb1YaR2+z09vgFawxiXmpAWeCLaXbSFBmBEtDxM/ZdR5j/AT/1/ptl5I+68QKCtzGzZ4N0zzKD3ZqmV0LJXqmJxQG3zvvOP72W05RHKG9yrh9FKeYOJyUl+KoWio5Tp/+hkERRY8uOUijyuHIO+Hgv4snrmniRKUhtP5W5V9XXeegaPSujQf9bT5+aGSMJvkVL2jOny8ieF6bpL5pIHAoDDOjhPvG0sneGY4OoykkBO+I+JRNv86l5TbPdtjA==;DJza13HqABPU0sYujMds6w=="

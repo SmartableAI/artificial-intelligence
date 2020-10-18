@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS"
-excerpt: "CloseCurlyDoubleQuote; The solution&CloseCurlyQuote;s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically ..."
-publishedDateTime: 2020-10-13T13:05:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
-webUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
+excerpt: "model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically distributed inference ..."
+publishedDateTime: 2020-10-13T09:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/xilinx-and-spline.ai-develop-x-ray-classification-deep-learning-model-and-reference"
+webUrl: "https://www.nasdaq.com/press-release/xilinx-and-spline.ai-develop-x-ray-classification-deep-learning-model-and-reference"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "coKPHfmi0z/d4SpXWV8OROoBKdNk5G6SdBkGr4/c3XkOa3nRGhWUcCmKYV0AomYWBsf0lG89KrKtjtT53wJmIC+1yl6KeOdyizwWY9d/FLM23UBUAezJgHF3wqYZjjEJZoZaUK9yL4pQu3+26NtRt06KoINNvQa+CXqrJ+DQbvtW2n2W4scMMY9yqahV/FbgAFYeX3SwNsGJiyeo7ourG3p0ciJyBFCmUiPUrkQcfFhynVWlD7GSNwkeky26v5xlzkMAosKFlzbspDnKRAat3fciU5GAc89D+YCP+Lh36QLK9S9WL1a2fhvFal1lhSRPA3kHbBucWzGJ6sP3hptdIiqhe8Oc+dOBzN8G2IavWJQ=;4rkFSenfSY8ItICVsVdwiA=="
+secured: "h8b4O4roV8TlayfdbFiGElBTMAyDqwUqtvUGafgQ+AUKiMaEoVImEzQIOqvJXi80e5qGkGwk0uhPLYfg0Fwsk5h3zPSTqziRY/WyweRaDxLEoIl77noSc8soo78TKfQZIOGev8jZ3zHXUVvkOluWgWf2EfoEUIo/2WYx/OZsuBPe2LcS5nyFMh38DUInDH1b+2vB40AdPIn1J2Dk+HBikAvFTH9D5mI1cNE3HWDnXZrD1DGqdQKaaULXQpG8F5ZXdrKDbAdOmSC3714Sp/VGmSjLYnTqzbXGNggdwUr49T8+KUfRd8AiA3v+7OWYyU1D56TJp7YA7UIUcildEBeNCndnPypuAT8zjVMkSwLHyo0=;e6dUUypQOtLGWW3YmxYO8Q=="
 ---
 

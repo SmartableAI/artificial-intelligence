@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Deep neural networks show promise for predicting future self-harm based on clinical notes"
-excerpt: "Medical University of South Carolina researchers report in JMIR Medical Informatics that they have developed deep learning models to predict intentional self-harm based on information in clinical notes."
-publishedDateTime: 2020-10-14T21:02:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/muos-dnn101420.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/muos-dnn101420.php"
+excerpt: "The team used complex artificial neural networks, a form of artificial intelligence also known as deep learning, to analyze unstructured, textual data in the electronic health record. Deep ..."
+publishedDateTime: 2020-10-14T22:41:00Z
+originalUrl: "https://medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.html"
+webUrl: "https://medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.amp"
 type: article
-quality: 30
-heat: 30
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/245954_web.jpg"
-    width: 300
-    height: 345
+  - url: "https://scx2.b-cdn.net/gfx/news/2020/2-deepneuralne.jpg"
+    width: 720
+    height: 480
     isCached: true
 
-secured: "BqP4Q1Txrh9nYoCYkrGwSLDBIfWZFjWmKLtcV3jyKT0iG5V6iFRbmMbJWsjrJ1AjfHf14eFVF0HZypFv2BV43cYeYbw5uZFnVh8OEuEO3bbamY9gbgwm+iJZQNRaR3q9ZTGRBEYjCerascgqJjg5RSHriNTmfg2Wjd3uhR9AyvZt0grPxvEn722/MDoQD3yBrkMakDQxVJBuJjwXcrfopHGARx7x6uTGrQJcgSOmFB1K8k/v0fL+CJiBLPqgUksoYUzfI+eQ1jCj/hfqx8ToCoT6SSagsH8fiICtCQ4dV3ef6R54asgyJMZ6D64w1EsOSPAJIubCh5zRZPbfWZzaY7xkP3D9zhy0WHA/TZrfJ6a74LoFrU3ecZ4fwv2BxSMzWTp27fBZBOnSnNXx2utzjEZz5UvVBqpY5rfNPq16kWv01u/+rCArq9nagM1srOPYMBiQXooBJPxUBVLbbY1KE78vNaiAoCQFI5f/5gX2gkG5M0o1hF61sB/HS/SgQ7/0Fn9WQbRgbS/cAo6XSLpv7A==;X8imKFW8vsakUYZiWONxPQ=="
+secured: "o2J4XJEmwlm3XwmK1gsf2eI64V1OmmwR/A5CPAhrr33ARJILktkLErLCRPiJxlFHvxObo2pR7CdRJ/mci/wf4iwNNWLRPWd5nHecptl1JWOPL0k2MiZUWTq87P+p5Uvbj2MH3F/E9oz8dZhyFMre09e3GLhNgswu2FSwND2B/Rjd7z/mMg3rb9zeYWuE6FgoK2fGkw3Xp08gbeU+cR7fVfgU7ErOHsjySngRSlaMChhmWDfM0lpVAV6jlDcbjQSWt69qf4Uqb+0WvXUjs8Zca9ZIsoR16E0zfdwDhAYEouwh18kMme15+7q10kmyAiA/eLzjEbEAASmsMRLY1rwDgz0RBC1+p3xWdW3t6VO3ZwU=;70nnfMTe7/br+4fz9d+sDA=="
 ---
 

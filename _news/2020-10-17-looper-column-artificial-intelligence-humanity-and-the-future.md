@@ -3,10 +3,10 @@ category: news
 title: "Looper column: Artificial intelligence, humanity and the future"
 excerpt: "In September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet. The piece received a lot of press because in it the AI stated it had no plans to destroy humanity."
 publishedDateTime: 2020-10-17T04:59:00Z
-originalUrl: "https://www.registerguard.com/story/lifestyle/faith/2020/10/16/looper-column-artificial-intelligence-humanity-and-future/114421198/"
-webUrl: "https://www.registerguard.com/story/lifestyle/faith/2020/10/16/looper-column-artificial-intelligence-humanity-and-future/114421198/"
-ampWebUrl: "https://amp.registerguard.com/amp/114421198"
-cdnAmpWebUrl: "https://amp-registerguard-com.cdn.ampproject.org/c/s/amp.registerguard.com/amp/114421198"
+originalUrl: "https://www.registerguard.com/story/lifestyle/faith/2020/10/16/looper-column-artificial-intelligence-humanity-and-future/114421676/"
+webUrl: "https://www.registerguard.com/story/lifestyle/faith/2020/10/16/looper-column-artificial-intelligence-humanity-and-future/114421676/"
+ampWebUrl: "https://amp.registerguard.com/amp/114421676"
+cdnAmpWebUrl: "https://amp-registerguard-com.cdn.ampproject.org/c/s/amp.registerguard.com/amp/114421676"
 type: article
 quality: 57
 heat: -1
@@ -20,7 +20,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/-mm-/b18a16da4a28b23b1cf5b3b4312416f8c8dd74b7/c=0-88-387-306/local/-/media/2020/10/16/Pontiac/ghows-IO-201019690-aa2304fe.jpg?auto=webp&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/-mm-/b18a16da4a28b23b1cf5b3b4312416f8c8dd74b7/c=0-88-387-306/local/-/media/2020/10/16/WorcesterTelegram/ghows-WT-201019476-a8e65a7f.jpg?auto=webp&format=pjpg&width=1200"
     width: 1200
     height: 676
     isCached: true
@@ -59,6 +59,6 @@ related:
         height: 931
         isCached: true
 
-secured: "whzI3kQ/87kiO/pPzFYHpbl4lkk+lvROoKEHVRYy8NomlSmSnyvgYHz7tl+JavxwjEMm1fy/y71zwU1aaq3+XxaSKPriaDRuXgWevhNNRQ5BoJUqK0sFiudJamnJY1SZaf6WMvxIIV/wK/avZrc+2Q8xolCXWDwg3qsEh7nEr6eY33RuFjT77u1ZnXFyLk08rEh6DjKER2ZS1SyAYAZi5AWQNtOOfc+plTP+0s5aymnk134r0ePcnMOffPNX7PZUGvFUNbMrGITYNG5AgnZHKojDs4mzhoOV1EqSqosxhEFeEU+GeGHxiTNhQXHJHZ6tRLXZ7lMwyH9Mh6bDSw51p4JuT2h+Cl5hM7E6xPdcb+g=;Afh4m5Xn67zQmElhN44tEw=="
+secured: "+CD8IuKWaIuHu4jIurJ5OUIh2Be06edzEBbNrDzLZm48fhh29MqbaAU4ESzB3NSDpvSY1lbwWuqS4HEo7Waw7tgkiOJ2PD1AQXH/7td0SVOQfZxpWhDVVv5wrt+YL5EkAQYW45sJGPd6ih6vxfHqYGhFAIj46EcFlCVo2RJxT+ST8y3Kc4zGZUHwSK8BU7rxVsppvBm/ALOcsbb97p93xkYOhZ34SanIYRb5khIoTulgp2M6sDLYlO6UFbOxU+KXnNl/O0OcpgPY9JmNVVoYII4GZzZbumKZ5B9JfdcCJE5+aj5kf2ZsqNCcitaCJt4/7Cps2K0/i4vECnV3xa/ByBBSWhVMcsQGyTgQQ6B7DlE=;o6WhfQtTSRcv9JmABZ1+mQ=="
 ---
 

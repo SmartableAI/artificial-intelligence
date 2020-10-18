@@ -13,8 +13,8 @@ github:
   languages: ["C++","Python"]
 
 provider:
-  name: pytorch
-  domain: pytorch.com
+  name: Facebook
+  domain: facebook.com
 
 topics:
   - AI
