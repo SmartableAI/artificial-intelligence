@@ -1,6 +1,7 @@
 ---
 name: "Polynote"
 excerpt: "Polynote is an experimental polyglot notebook environment. Currently, it supports Scala and Python (with or without Spark), SQL, and Vega."
+originalUrl: https://polynote.org/
 type: code
 heat: 634
 

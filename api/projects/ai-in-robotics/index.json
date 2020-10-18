@@ -8,6 +8,7 @@
       "excerpt": "An educational AI robot based on NVIDIA Jetson Nano.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/nvidia-jetbot/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/nvidia-jetbot/",
+      "originalUrl": "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetbot-ai-robot-kit/",
       "github": {
         "url": "https://github.com/NVIDIA-AI-IOT/jetbot",
         "watches": 134,
@@ -126,6 +127,7 @@
       "excerpt": "A flexible, high-performance 3D simulator for Embodied AI research.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/facebook-habitat-sim/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/facebook-habitat-sim/",
+      "originalUrl": "https://aihabitat.org/",
       "github": {
         "url": "https://github.com/facebookresearch/habitat-sim",
         "watches": 38,
@@ -152,15 +154,14 @@
       "heat": 508,
       "images": [
         {
-          "url": "https://github.com/facebookresearch/habitat-sim/raw/master/https://github.com/facebookresearch/habitat-sim/raw/master/docs/images/habitat_compressed.gif",
-          "width": 400,
-          "height": 225,
-          "title": "Habitat-Sim",
-          "isCached": false
+          "url": "https://aihabitat.org/static/habitat-blue.png",
+          "width": 911,
+          "height": 1034,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "name": "Habitat-Sim",
+      "name": "Habitat",
       "type": "code",
       "topics": [
         "AI",

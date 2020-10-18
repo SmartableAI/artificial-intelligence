@@ -1,6 +1,7 @@
 ---
 name: "jetbot"
 excerpt: "An educational AI robot based on NVIDIA Jetson Nano."
+originalUrl: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetbot-ai-robot-kit/
 type: code
 heat: 567
 

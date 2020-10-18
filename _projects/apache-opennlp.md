@@ -1,6 +1,7 @@
 ---
 name: "Apache OpenNLP"
 excerpt: "The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text."
+originalUrl: https://opennlp.apache.org/
 type: code
 heat: 541
 
@@ -24,10 +25,10 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://opennlp.apache.org/img/opennlp-navbar-logo.png
-    width: 506
-    height: 130
-    title: "logo"
+  - url: https://opennlp.apache.org/img/opennlp-logo.png
+    width: 650
+    height: 250
+    isCached: true
 
 ---
 

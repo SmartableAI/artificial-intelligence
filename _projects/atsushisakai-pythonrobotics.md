@@ -23,10 +23,10 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://raw.githubusercontent.com/AtsushiSakai/PythonRobotics/master/icon.png
+  - url: https://pythonrobotics.readthedocs.io/en/latest/_static/icon.png
     width: 800
     height: 800
-    title: "logo"
+    isCached: true
 
 ---
 

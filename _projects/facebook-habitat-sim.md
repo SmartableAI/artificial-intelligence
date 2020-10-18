@@ -1,6 +1,7 @@
 ---
-name: "Habitat-Sim"
+name: "Habitat"
 excerpt: "A flexible, high-performance 3D simulator for Embodied AI research."
+originalUrl: https://aihabitat.org/
 type: code
 heat: 508
 
@@ -24,10 +25,10 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://github.com/facebookresearch/habitat-sim/raw/master/https://github.com/facebookresearch/habitat-sim/raw/master/docs/images/habitat_compressed.gif
-    width: 400
-    height: 225
-    title: "Habitat-Sim"
+  - url: https://aihabitat.org/static/habitat-blue.png
+    width: 911
+    height: 1034
+    isCached: true
 
 ---
 

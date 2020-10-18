@@ -1,6 +1,7 @@
 ---
 name: "gensim – Topic Modelling in Python"
 excerpt: "Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora."
+originalUrl: https://radimrehurek.com/gensim/
 type: code
 heat: 759
 
@@ -20,10 +21,10 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://repository-images.githubusercontent.com/1349775/202c4680-8f7c-11e9-91c6-745fdcbeffe8
-    width: 1280
-    height: 640
-    title: "Gensim"
+  - url: https://radimrehurek.com/gensim/_static/images/gensim_code.png
+    width: 568
+    height: 271
+    isCached: true
 
 ---
 

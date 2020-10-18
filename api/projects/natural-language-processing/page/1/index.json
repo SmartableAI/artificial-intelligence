@@ -44,6 +44,7 @@
       "excerpt": "Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/rare-technologies-gensim/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/rare-technologies-gensim/",
+      "originalUrl": "https://radimrehurek.com/gensim/",
       "github": {
         "url": "https://github.com/RaRe-Technologies/gensim",
         "watches": 1100,
@@ -60,11 +61,10 @@
       "heat": 759,
       "images": [
         {
-          "url": "https://repository-images.githubusercontent.com/1349775/202c4680-8f7c-11e9-91c6-745fdcbeffe8",
-          "width": 1280,
-          "height": 640,
-          "title": "Gensim",
-          "isCached": false
+          "url": "https://radimrehurek.com/gensim/_static/images/gensim_code.png",
+          "width": 568,
+          "height": 271,
+          "isCached": true
         }
       ],
       "content": "\r\n",
@@ -179,6 +179,7 @@
       "excerpt": "The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-opennlp/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/apache-opennlp/",
+      "originalUrl": "https://opennlp.apache.org/",
       "github": {
         "url": "https://github.com/apache/opennlp",
         "watches": 93,
@@ -203,11 +204,10 @@
       "heat": 541,
       "images": [
         {
-          "url": "https://opennlp.apache.org/img/opennlp-navbar-logo.png",
-          "width": 506,
-          "height": 130,
-          "title": "logo",
-          "isCached": false
+          "url": "https://opennlp.apache.org/img/opennlp-logo.png",
+          "width": 650,
+          "height": 250,
+          "isCached": true
         }
       ],
       "content": "\r\n",

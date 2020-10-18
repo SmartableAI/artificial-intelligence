@@ -267,6 +267,7 @@
       "excerpt": "Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/rare-technologies-gensim/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/rare-technologies-gensim/",
+      "originalUrl": "https://radimrehurek.com/gensim/",
       "github": {
         "url": "https://github.com/RaRe-Technologies/gensim",
         "watches": 1100,
@@ -283,11 +284,10 @@
       "heat": 759,
       "images": [
         {
-          "url": "https://repository-images.githubusercontent.com/1349775/202c4680-8f7c-11e9-91c6-745fdcbeffe8",
-          "width": 1280,
-          "height": 640,
-          "title": "Gensim",
-          "isCached": false
+          "url": "https://radimrehurek.com/gensim/_static/images/gensim_code.png",
+          "width": 568,
+          "height": 271,
+          "isCached": true
         }
       ],
       "content": "\r\n",
@@ -476,6 +476,7 @@
       "excerpt": "Apache PredictionIO is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-predictionio/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/apache-predictionio/",
+      "originalUrl": "https://predictionio.apache.org/",
       "github": {
         "url": "https://github.com/apache/predictionio",
         "watches": 800,
@@ -499,15 +500,6 @@
         ]
       },
       "heat": 728,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/639519961602490369/W_9V_lgt_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
       "content": "\r\n",
       "name": "Apache PredictionIO",
       "type": "code",
@@ -675,11 +667,10 @@
       ],
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/AtsushiSakai/PythonRobotics/master/icon.png",
+          "url": "https://pythonrobotics.readthedocs.io/en/latest/_static/icon.png",
           "width": 800,
           "height": 800,
-          "title": "logo",
-          "isCached": false
+          "isCached": true
         }
       ],
       "content": "\r\n",
@@ -853,6 +844,7 @@
       "excerpt": "Polynote is an experimental polyglot notebook environment. Currently, it supports Scala and Python (with or without Spark), SQL, and Vega.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/polynote/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/polynote/",
+      "originalUrl": "https://polynote.org/",
       "github": {
         "url": "https://github.com/polynote/polynote",
         "watches": 78,
@@ -980,6 +972,7 @@
       "excerpt": "An educational AI robot based on NVIDIA Jetson Nano.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/nvidia-jetbot/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/nvidia-jetbot/",
+      "originalUrl": "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetbot-ai-robot-kit/",
       "github": {
         "url": "https://github.com/NVIDIA-AI-IOT/jetbot",
         "watches": 134,
@@ -1128,6 +1121,7 @@
       "excerpt": "The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-opennlp/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/apache-opennlp/",
+      "originalUrl": "https://opennlp.apache.org/",
       "github": {
         "url": "https://github.com/apache/opennlp",
         "watches": 93,
@@ -1152,11 +1146,10 @@
       "heat": 541,
       "images": [
         {
-          "url": "https://opennlp.apache.org/img/opennlp-navbar-logo.png",
-          "width": 506,
-          "height": 130,
-          "title": "logo",
-          "isCached": false
+          "url": "https://opennlp.apache.org/img/opennlp-logo.png",
+          "width": 650,
+          "height": 250,
+          "isCached": true
         }
       ],
       "content": "\r\n",
