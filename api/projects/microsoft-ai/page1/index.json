@@ -49,6 +49,7 @@
       "excerpt": "ML.NET is an open source and cross-platform machine learning framework for .NET.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/dotnet-machinelearning/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/dotnet-machinelearning/",
+      "originalUrl": "https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet",
       "github": {
         "url": "https://github.com/dotnet/machinelearning",
         "watches": 624,
@@ -73,11 +74,10 @@
       "heat": 681,
       "images": [
         {
-          "url": "https://dotnet.microsoft.com/static/images/redesign/social/large.png",
-          "width": 459,
-          "height": 238,
-          "title": "ML.NET",
-          "isCached": false
+          "url": "https://dotnet.microsoft.com/static/images/object-detection/dogs-result.png?v=AJL_YaRauEjpG9kTwpSUpvLItisLV2sB4wF36z5Vnpk",
+          "width": 534,
+          "height": 400,
+          "isCached": true
         }
       ],
       "content": "\r\n",

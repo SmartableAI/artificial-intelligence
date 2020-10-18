@@ -145,6 +145,7 @@
       "excerpt": "Caffe is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/bvlc-caffe/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/bvlc-caffe/",
+      "originalUrl": "https://caffe.berkeleyvision.org/",
       "github": {
         "url": "https://github.com/BVLC/caffe",
         "watches": 2241,
@@ -167,15 +168,6 @@
         ]
       },
       "heat": 791,
-      "images": [
-        {
-          "url": "https://images.nvidia.com/content/tesla/caffe/images/caffe-logo.jpg",
-          "width": 218,
-          "height": 147,
-          "title": "Caffe",
-          "isCached": false
-        }
-      ],
       "content": "\r\n",
       "name": "Caffe",
       "type": "code",
@@ -239,6 +231,7 @@
       "excerpt": "Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/hankcs-hanlp/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/hankcs-hanlp/",
+      "originalUrl": "https://hanlp.com/",
       "github": {
         "url": "https://github.com/hankcs/HanLP",
         "watches": 1100,
@@ -255,11 +248,10 @@
       "heat": 759,
       "images": [
         {
-          "url": "https://repository-images.githubusercontent.com/24976755/b76ee080-2f44-11ea-9928-4e6109d3fd79",
-          "width": 1280,
-          "height": 640,
-          "title": "HanLP",
-          "isCached": false
+          "url": "https://hanlp.com/HanLP/assets/img/1-01.jpg",
+          "width": 3150,
+          "height": 1975,
+          "isCached": true
         }
       ],
       "content": "\r\n",
@@ -311,6 +303,7 @@
       "excerpt": "Apache MXNet (incubating) is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-mxnet/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/apache-mxnet/",
+      "originalUrl": "https://mxnet.apache.org/",
       "github": {
         "url": "https://github.com/apache/incubator-mxnet",
         "watches": 1200,
@@ -339,11 +332,10 @@
       ],
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/image/mxnet_logo_2.png",
-          "width": 500,
-          "height": 171,
-          "title": "logo",
-          "isCached": false
+          "url": "https://mxnet.apache.org/versions/1.7.0/assets/img/octocat.png",
+          "width": 800,
+          "height": 665,
+          "isCached": true
         }
       ],
       "content": "\r\n",
@@ -615,6 +607,7 @@
       "excerpt": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/microsoft-airsim/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/microsoft-airsim/",
+      "originalUrl": "https://www.microsoft.com/en-us/research/project/aerial-informatics-robotics-platform/",
       "github": {
         "url": "https://github.com/microsoft/AirSim",
         "watches": 558,
@@ -644,11 +637,10 @@
       ],
       "images": [
         {
-          "url": "https://github.com/microsoft/AirSim/raw/master/docs/images/demo_video.png",
-          "width": 400,
-          "height": 226,
-          "title": "demo",
-          "isCached": false
+          "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/Kitty_Hawk_header1920x720-3.jpg",
+          "width": 1920,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
@@ -664,6 +656,7 @@
       "excerpt": "This is a Python code collection of robotics algorithms, especially for autonomous navigation.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/atsushisakai-pythonrobotics/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/atsushisakai-pythonrobotics/",
+      "originalUrl": "https://pythonrobotics.readthedocs.io/en/latest/",
       "github": {
         "url": "https://github.com/AtsushiSakai/PythonRobotics",
         "watches": 372,
@@ -738,6 +731,7 @@
       "excerpt": "ML.NET is an open source and cross-platform machine learning framework for .NET.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/dotnet-machinelearning/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/dotnet-machinelearning/",
+      "originalUrl": "https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet",
       "github": {
         "url": "https://github.com/dotnet/machinelearning",
         "watches": 624,
@@ -762,11 +756,10 @@
       "heat": 681,
       "images": [
         {
-          "url": "https://dotnet.microsoft.com/static/images/redesign/social/large.png",
-          "width": 459,
-          "height": 238,
-          "title": "ML.NET",
-          "isCached": false
+          "url": "https://dotnet.microsoft.com/static/images/object-detection/dogs-result.png?v=AJL_YaRauEjpG9kTwpSUpvLItisLV2sB4wF36z5Vnpk",
+          "width": 534,
+          "height": 400,
+          "isCached": true
         }
       ],
       "content": "\r\n",
@@ -1179,6 +1172,7 @@
       "excerpt": "A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/petoicamp-opencat/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/petoicamp-opencat/",
+      "originalUrl": "https://www.petoi.com/",
       "github": {
         "url": "https://github.com/PetoiCamp/OpenCat",
         "watches": 190,
@@ -1196,10 +1190,10 @@
       "heat": 535,
       "images": [
         {
-          "url": "https://static.wixstatic.com/media/9337c3_044ddc1503014c638ff3741e54db8e6f~mv2_d_2501_1282_s_2.png/v1/fill/w_480,h_246,al_c,usm_0.66_1.00_0.01,blur_2/9337c3_044ddc1503014c638ff3741e54db8e6f~mv2_d_2501_1282_s_2.png",
-          "width": 480,
-          "height": 246,
-          "isCached": false
+          "url": "https://static.wixstatic.com/media/a47763_9baefab88ba145cabefdb72b3b121610~mv2.png/v1/fill/w_1800,h_943,al_c/a47763_9baefab88ba145cabefdb72b3b121610~mv2.png",
+          "width": 1800,
+          "height": 943,
+          "isCached": true
         }
       ],
       "content": "\r\n",

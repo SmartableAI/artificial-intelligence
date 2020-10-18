@@ -1,6 +1,7 @@
 ---
 name: "Caffe"
 excerpt: "Caffe is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors."
+originalUrl: https://caffe.berkeleyvision.org/
 type: code
 heat: 791
 
@@ -23,12 +24,6 @@ topics:
   - AI
   - Machine Learning
   - Computer Vision
-
-images:
-  - url: https://images.nvidia.com/content/tesla/caffe/images/caffe-logo.jpg
-    width: 218
-    height: 147
-    title: "Caffe"
 
 ---
 

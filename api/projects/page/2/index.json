@@ -180,6 +180,7 @@
       "excerpt": "Turn a photo into a cartoon with a neural network",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/kapwing-cartoonify/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/kapwing-cartoonify/",
+      "originalUrl": "https://www.kapwing.com/cartoonify",
       "provider": {
         "name": "Kapwing",
         "domain": "kapwing.com"

@@ -1,6 +1,7 @@
 ---
 name: "AirSim"
 excerpt: "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research"
+originalUrl: https://www.microsoft.com/en-us/research/project/aerial-informatics-robotics-platform/
 type: code
 heat: 708
 
@@ -26,10 +27,10 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: https://github.com/microsoft/AirSim/raw/master/docs/images/demo_video.png
-    width: 400
-    height: 226
-    title: "demo"
+  - url: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/Kitty_Hawk_header1920x720-3.jpg
+    width: 1920
+    height: 720
+    isCached: true
 
 ---
 

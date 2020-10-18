@@ -1,6 +1,7 @@
 ---
 name: "Machine Learning for .NET"
 excerpt: "ML.NET is an open source and cross-platform machine learning framework for .NET."
+originalUrl: https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet
 type: code
 heat: 681
 
@@ -25,10 +26,10 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://dotnet.microsoft.com/static/images/redesign/social/large.png
-    width: 459
-    height: 238
-    title: "ML.NET"
+  - url: https://dotnet.microsoft.com/static/images/object-detection/dogs-result.png?v=AJL_YaRauEjpG9kTwpSUpvLItisLV2sB4wF36z5Vnpk
+    width: 534
+    height: 400
+    isCached: true
 
 ---
 

@@ -8,6 +8,7 @@
       "excerpt": "Caffe is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/bvlc-caffe/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/bvlc-caffe/",
+      "originalUrl": "https://caffe.berkeleyvision.org/",
       "github": {
         "url": "https://github.com/BVLC/caffe",
         "watches": 2241,
@@ -30,15 +31,6 @@
         ]
       },
       "heat": 791,
-      "images": [
-        {
-          "url": "https://images.nvidia.com/content/tesla/caffe/images/caffe-logo.jpg",
-          "width": 218,
-          "height": 147,
-          "title": "Caffe",
-          "isCached": false
-        }
-      ],
       "content": "\r\n",
       "name": "Caffe",
       "type": "code",
@@ -224,6 +216,7 @@
       "excerpt": "Turn a photo into a cartoon with a neural network",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/kapwing-cartoonify/index.json",
       "webUrl": "https://smartable.ai/apps/ai/project/kapwing-cartoonify/",
+      "originalUrl": "https://www.kapwing.com/cartoonify",
       "provider": {
         "name": "Kapwing",
         "domain": "kapwing.com"

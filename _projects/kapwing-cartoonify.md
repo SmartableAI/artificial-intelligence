@@ -1,6 +1,7 @@
 ---
 name: "Cartoonify"
 excerpt: "Turn a photo into a cartoon with a neural network"
+originalUrl: https://www.kapwing.com/cartoonify
 type: demo
 heat: 50
 

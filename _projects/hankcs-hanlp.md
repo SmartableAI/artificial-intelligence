@@ -1,6 +1,7 @@
 ---
 name: "HanLP"
 excerpt: "Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification"
+originalUrl: https://hanlp.com/
 type: code
 heat: 759
 
@@ -20,10 +21,10 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://repository-images.githubusercontent.com/24976755/b76ee080-2f44-11ea-9928-4e6109d3fd79
-    width: 1280
-    height: 640
-    title: "HanLP"
+  - url: https://hanlp.com/HanLP/assets/img/1-01.jpg
+    width: 3150
+    height: 1975
+    isCached: true
 
 ---
 

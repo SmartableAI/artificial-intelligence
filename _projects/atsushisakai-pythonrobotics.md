@@ -1,6 +1,7 @@
 ---
 name: "PythonRobotics"
 excerpt: "This is a Python code collection of robotics algorithms, especially for autonomous navigation."
+originalUrl: https://pythonrobotics.readthedocs.io/en/latest/
 type: code
 heat: 691
 
