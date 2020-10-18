@@ -4,6 +4,37 @@
   "page": 1,
   "value": [
     {
+      "path": "_events/2020-10-05-middle-east-banking-ai-analytics-summit-dubai-2020.md",
+      "title": "Middle East Banking AI & Analytics Summit Dubai 2020",
+      "excerpt": "3rd Edition Middle East Banking AI & Analytics Summit brings together 300+ senior-level executives & decision-makers from the Banking and Financial Services sector along with all that's top of mind for those in Artificial Intelligence, RPA, Machine Learning, Big Data & Analytics.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-10-05-middle-east-banking-ai-analytics-summit-dubai-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/event/2020-10-05-middle-east-banking-ai-analytics-summit-dubai-2020/",
+      "originalUrl": "https://www.mebankingai.com/",
+      "name": "Middle East Banking AI & Analytics Summit Dubai 2020",
+      "type": "conference",
+      "startDateTime": "2020-10-05T02:00:00-07:00",
+      "endDateTime": "2020-10-06T10:00:00-07:00",
+      "website": "https://www.mebankingai.com/",
+      "provider": {
+        "name": "Middle East Banking AI & Analytics",
+        "domain": "mebankingai.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ],
+      "images": [
+        {
+          "url": "https://www.mebankingai.com/images/left-img.png",
+          "width": 316,
+          "height": 300,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_events/2020-09-30-politico-ai-summit-brussels-2020.md",
       "title": "POLITICO AI Summit Brussels 2020",
       "excerpt": "AI has infiltrated every aspect of our lives, from the way we work and communicate to how we treat diseases and wage wars. Globally, businesses and governments are focusing on how to make the most out of this disruptive technology and mitigate the associated risks.",
@@ -29,7 +60,8 @@
           "height": 270,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-09-22-data-science-salon-applying-ai-machine-learning-to-media-advertising-entertainment.md",
@@ -59,7 +91,8 @@
           "height": 439,
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-09-16-global-artificial-intelligence-conference-seattle-2020.md",
@@ -94,7 +127,8 @@
           "height": 440,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-08-30-cdao-executive-summit-2020.md",
@@ -114,7 +148,8 @@
       },
       "topics": [
         "AI"
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-08-19-chief-data-analytics-officers-government-washington-2020.md",
@@ -142,7 +177,8 @@
           "height": 630,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-08-18-ai4-2020.md",
@@ -171,7 +207,8 @@
           "height": 439,
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     },
     {
       "path": "_events/2020-08-12-southern-data-science-conference-2020.md",
@@ -199,7 +236,8 @@
           "height": 462,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-07-12-rss-2020.md",
@@ -232,7 +270,8 @@
           "title": "Robotics: Science and Systems 2020",
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     },
     {
       "path": "_events/2020-07-09-colt-2020.md",
@@ -265,7 +304,8 @@
           "title": "The 33rd Annual Conference on Learning Theory (COLT 2020)",
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     },
     {
       "path": "_events/2020-06-22-spark-ai-summit-2020.md",
@@ -295,7 +335,8 @@
           "title": "Spark + AI Summit",
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     },
     {
       "path": "_events/2020-04-28-ai-conference-2020.md",
@@ -325,7 +366,8 @@
           "title": "AI Conference 2020: AI, Voice & Bots",
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     },
     {
       "path": "_events/2020-03-03-tc-sessions-robotics-ai-2020.md",
@@ -364,7 +406,8 @@
           "title": "TC Sessions: Robotics + AI 2020",
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     },
     {
       "path": "_events/2020-02-12-ai-nextcon-2020-seattle.md",
@@ -394,7 +437,8 @@
           "title": "AI NEXTCon 2020 - Seattle",
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     },
     {
       "path": "_events/2019-12-08-neurips-2019.md",
@@ -427,7 +471,8 @@
           "title": "NeurIPS 2019",
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     }
   ]
 }

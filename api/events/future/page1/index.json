@@ -4,36 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_events/2020-10-05-middle-east-banking-ai-analytics-summit-dubai-2020.md",
-      "title": "Middle East Banking AI & Analytics Summit Dubai 2020",
-      "excerpt": "3rd Edition Middle East Banking AI & Analytics Summit brings together 300+ senior-level executives & decision-makers from the Banking and Financial Services sector along with all that's top of mind for those in Artificial Intelligence, RPA, Machine Learning, Big Data & Analytics.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-10-05-middle-east-banking-ai-analytics-summit-dubai-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/event/2020-10-05-middle-east-banking-ai-analytics-summit-dubai-2020/",
-      "originalUrl": "https://www.mebankingai.com/",
-      "name": "Middle East Banking AI & Analytics Summit Dubai 2020",
-      "type": "conference",
-      "startDateTime": "2020-10-05T02:00:00-07:00",
-      "endDateTime": "2020-10-06T10:00:00-07:00",
-      "website": "https://www.mebankingai.com/",
-      "provider": {
-        "name": "Middle East Banking AI & Analytics",
-        "domain": "mebankingai.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ],
-      "images": [
-        {
-          "url": "https://www.mebankingai.com/images/left-img.png",
-          "width": 316,
-          "height": 300,
-          "isCached": true
-        }
-      ]
-    },
-    {
       "path": "_events/2020-10-22-ai-world-congress-london-2020.md",
       "title": "AI World Congress London 2020",
       "excerpt": "AI Conference in London is AI World Congress 2020, fostering debate as AI events and Artificial Intelligence Conference on ai technology and ai business, ai industry and smart cities. It is one of leading global ML AI events in UK Europe.",
@@ -61,7 +31,8 @@
           "height": 208,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-10-28-ai-world-government-2020.md",
@@ -90,7 +61,8 @@
           "height": 627,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-11-09-the-ai-machine-learning-convention.md",
@@ -114,7 +86,8 @@
         "Machine Learning",
         "AI in Healthcare",
         "AI in Healthcare"
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-11-11-data-science-salon-los-angeles-2020.md",
@@ -144,7 +117,8 @@
           "height": 512,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-11-16-ml-conference-munich-2020.md",
@@ -182,7 +156,8 @@
           "height": 500,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-11-17-data-science-salon-applying-ai-machine-learning-to-retail-ecommerce.md",
@@ -212,7 +187,8 @@
           "height": 439,
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-11-18-ai-in-payments-fraud-risk-management-summit-new-york-2020.md",
@@ -243,7 +219,8 @@
           "height": 300,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-12-08-data-science-salon-applying-ai-machine-learning-to-finance-technology.md",
@@ -274,7 +251,8 @@
           "height": 439,
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2021-01-01-ijcai-pricai-2020.md",
@@ -303,7 +281,8 @@
           "height": 648,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2021-02-03-the-martech-summit-hong-kong-2021.md",
@@ -333,7 +312,8 @@
           "height": 845,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2021-03-15-ai-data-science-in-trading-new-york-2020.md",
@@ -362,7 +342,8 @@
           "height": 600,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2021-06-15-gdtech-san-jose-2021.md",
@@ -399,7 +380,8 @@
           "height": 439,
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ]
 }

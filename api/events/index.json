@@ -38,7 +38,8 @@
           "height": 439,
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2021-03-15-ai-data-science-in-trading-new-york-2020.md",
@@ -67,7 +68,8 @@
           "height": 600,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2021-02-03-the-martech-summit-hong-kong-2021.md",
@@ -97,7 +99,8 @@
           "height": 845,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2021-01-01-ijcai-pricai-2020.md",
@@ -126,7 +129,8 @@
           "height": 648,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-12-08-data-science-salon-applying-ai-machine-learning-to-finance-technology.md",
@@ -157,7 +161,8 @@
           "height": 439,
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-11-18-ai-in-payments-fraud-risk-management-summit-new-york-2020.md",
@@ -188,7 +193,8 @@
           "height": 300,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-11-17-data-science-salon-applying-ai-machine-learning-to-retail-ecommerce.md",
@@ -218,7 +224,8 @@
           "height": 439,
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-11-16-ml-conference-munich-2020.md",
@@ -256,7 +263,8 @@
           "height": 500,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-11-11-data-science-salon-los-angeles-2020.md",
@@ -286,7 +294,8 @@
           "height": 512,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-11-09-the-ai-machine-learning-convention.md",
@@ -310,7 +319,8 @@
         "Machine Learning",
         "AI in Healthcare",
         "AI in Healthcare"
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-10-28-ai-world-government-2020.md",
@@ -339,7 +349,8 @@
           "height": 627,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-10-22-ai-world-congress-london-2020.md",
@@ -369,7 +380,8 @@
           "height": 208,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-10-05-middle-east-banking-ai-analytics-summit-dubai-2020.md",
@@ -399,7 +411,8 @@
           "height": 300,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-09-30-politico-ai-summit-brussels-2020.md",
@@ -427,7 +440,8 @@
           "height": 270,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-09-22-data-science-salon-applying-ai-machine-learning-to-media-advertising-entertainment.md",
@@ -457,7 +471,8 @@
           "height": 439,
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-09-16-global-artificial-intelligence-conference-seattle-2020.md",
@@ -492,7 +507,8 @@
           "height": 440,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-08-30-cdao-executive-summit-2020.md",
@@ -512,7 +528,8 @@
       },
       "topics": [
         "AI"
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-08-19-chief-data-analytics-officers-government-washington-2020.md",
@@ -540,7 +557,8 @@
           "height": 630,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-08-18-ai4-2020.md",
@@ -569,7 +587,8 @@
           "height": 439,
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     },
     {
       "path": "_events/2020-08-12-southern-data-science-conference-2020.md",
@@ -597,7 +616,8 @@
           "height": 462,
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_events/2020-07-12-rss-2020.md",
@@ -630,7 +650,8 @@
           "title": "Robotics: Science and Systems 2020",
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     },
     {
       "path": "_events/2020-07-09-colt-2020.md",
@@ -663,7 +684,8 @@
           "title": "The 33rd Annual Conference on Learning Theory (COLT 2020)",
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     },
     {
       "path": "_events/2020-06-22-spark-ai-summit-2020.md",
@@ -693,7 +715,8 @@
           "title": "Spark + AI Summit",
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     },
     {
       "path": "_events/2020-04-28-ai-conference-2020.md",
@@ -723,7 +746,8 @@
           "title": "AI Conference 2020: AI, Voice & Bots",
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     },
     {
       "path": "_events/2020-03-03-tc-sessions-robotics-ai-2020.md",
@@ -762,7 +786,8 @@
           "title": "TC Sessions: Robotics + AI 2020",
           "isCached": false
         }
-      ]
+      ],
+      "content": ""
     }
   ],
   "nextPage": 2
