@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics, a Game Changer for Businesses in Post COVID-19 India"
-    excerpt: "Robots are moving from controlled environments to uncontrolled environments and from select industries to every industry faster than we could have expected. Tha"
-    publishedDateTime: 2020-10-14T03:46:00Z
-    webUrl: "https://www.cxotoday.com/news-analysis/robotics-a-game-changer-for-businesses-in-post-covid-19-india/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 54
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/10/robotics-deloitte.jpg"
-        width: 601
-        height: 450
-        isCached: true
   - title: "Results are coming in on the AI systems built at the height of New York City’s spring Covid-19 outbreak"
     excerpt: "New results are coming in on artificial intelligence models built at the height of New York's Covid-19 outbreak in the spring."
     publishedDateTime: 2020-10-14T08:43:00Z

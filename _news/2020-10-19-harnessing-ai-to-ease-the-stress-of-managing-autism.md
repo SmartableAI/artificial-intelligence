@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "The relentless threat of artificial intelligence taking our jobs away"
-    excerpt: "Whether AI will take our jobs or create new ones is one of the greatest debates of the modern world. Every instance when a revolutionary new technology comes in, the same thought fearfully raises its head."
-    publishedDateTime: 2020-10-15T15:45:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/the-relentless-threat-of-artificial-intelligence-taking-our-jobs-away-11602776178980.html"
-    ampWebUrl: "https://www.livemint.com/opinion/online-views/the-relentless-threat-of-artificial-intelligence-taking-our-jobs-away/amp-11602776178980.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/the-relentless-threat-of-artificial-intelligence-taking-our-jobs-away/amp-11602776178980.html"
+  - title: "Silicon Valley Is Getting Into the Hearing Aid Business With These Impressive AI-Driven Earpieces"
+    excerpt: "This week, the startup Whisper launched its new flagship product, the Whisper Hearing System. The Whisper Hearing System uses artificial intelligence to process sound in real-time and optimize it for the user’s surroundings."
+    publishedDateTime: 2020-10-18T21:46:00Z
+    webUrl: "https://gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675"
+    ampWebUrl: "https://gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675/amp"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 74
     images:
-      - url: "https://images.livemint.com/img/2020/10/15/600x338/AI-kkGH--621x414@LiveMint_1602776283325.jpg"
-        width: 600
-        height: 337
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wfkbd2uv91ikolp95onc.png"
+        width: 800
+        height: 446
         isCached: true
   - title: "The impact of AI on business and society"
     excerpt: "In July, the Financial Times Future Forum think-tank convened a panel of experts to discuss the realities of AI — what it can and cannot do, and what it may mean for the future. Entitled “The Impact of Artificial Intelligence on Business and Society”,"

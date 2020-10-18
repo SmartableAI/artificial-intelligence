@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS"
-excerpt: "model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically distributed inference ..."
-publishedDateTime: 2020-10-13T09:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/xilinx-and-spline.ai-develop-x-ray-classification-deep-learning-model-and-reference"
-webUrl: "https://www.nasdaq.com/press-release/xilinx-and-spline.ai-develop-x-ray-classification-deep-learning-model-and-reference"
+excerpt: "CloseCurlyDoubleQuote; The solution&CloseCurlyQuote;s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically ..."
+publishedDateTime: 2020-10-13T13:05:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
+webUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "h8b4O4roV8TlayfdbFiGElBTMAyDqwUqtvUGafgQ+AUKiMaEoVImEzQIOqvJXi80e5qGkGwk0uhPLYfg0Fwsk5h3zPSTqziRY/WyweRaDxLEoIl77noSc8soo78TKfQZIOGev8jZ3zHXUVvkOluWgWf2EfoEUIo/2WYx/OZsuBPe2LcS5nyFMh38DUInDH1b+2vB40AdPIn1J2Dk+HBikAvFTH9D5mI1cNE3HWDnXZrD1DGqdQKaaULXQpG8F5ZXdrKDbAdOmSC3714Sp/VGmSjLYnTqzbXGNggdwUr49T8+KUfRd8AiA3v+7OWYyU1D56TJp7YA7UIUcildEBeNCndnPypuAT8zjVMkSwLHyo0=;e6dUUypQOtLGWW3YmxYO8Q=="
+secured: "ffSWAD/a6gpJHpGBydWTUWvmPkB4qIs9sMrex6RWpoHJkBUwSKKzivWUFcqDSEsYP649V1tBCTlIQtUMW+XyG1ccYCuDOzGMoWDnqIYL/hUi52CdgyQJCboIh8ZWOTwVWkqeVHO86nc5OIAvfvLOFfS/XAN9kWjXNlfnSawoAAls8Mw6RzaGl8hHjeS8JD7YpG0bSG3QpybLkiF+TvXCyBWOzGN6AFGeZ8WnKvKFz5jeCKz+50O1T/7xY7a069Qcz9GVCbbS+9Y9puGkzfOQvAph+8ooOJpHEgx5xOGGW+h02pUDKZUbjxkbPN9IBzVPvilGgs3FvI6DdjqPUCjPQnP1/mcksftua89mgP93Ji4=;ve/ccahg0lgm/66iTXDYIA=="
 ---
 

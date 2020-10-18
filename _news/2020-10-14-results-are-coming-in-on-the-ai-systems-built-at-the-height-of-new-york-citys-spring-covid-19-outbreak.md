@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 491
         isCached: true
-  - title: "Robotics, a Game Changer for Businesses in Post COVID-19 India"
-    excerpt: "Robots are moving from controlled environments to uncontrolled environments and from select industries to every industry faster than we could have expected. Tha"
-    publishedDateTime: 2020-10-14T03:46:00Z
-    webUrl: "https://www.cxotoday.com/news-analysis/robotics-a-game-changer-for-businesses-in-post-covid-19-india/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 54
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/10/robotics-deloitte.jpg"
-        width: 601
-        height: 450
-        isCached: true
 
 secured: "lVDRAI4XXarHyI5PZvxUARD8M461l4WPrAZ7oUzyTthv/Fc7VJ4aRrYN34gk1Q9DYg8F1At0KV0UGn4GIWYb5ny2tyA5bgw0ntxKHohNQeYfPu9AM0V2si0Bg08q1Um34M82+98UROYiITtoOCmvV/ERhD6eyvN0GvN+gRqSMZO3YVrYGC5duDLrZQdL+DLBQ2T/ALINKwHLO+YmIlsTKgrgI2tU4wUWDJu/OkGSOzKKQY8mslC5Ef6u4+s/Qli8HTyhOq13Zgk782qeaacLvqSum9VBmwmK2DyV1y87d51rtXxOpWeemzP+jRB3PlPvmlGSG6fgFUPGLMJWrhZZPILt82F0SfzZ7L1/ZisVhdk=;1wW80AsBD1MShzse4ltE1g=="
 ---

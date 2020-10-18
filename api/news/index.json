@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-19-silicon-valley-is-getting-into-the-hearing-aid-business-with-these-impressive-ai-driven-earpieces.md",
+      "title": "Silicon Valley Is Getting Into the Hearing Aid Business With These Impressive AI-Driven Earpieces",
+      "excerpt": "This week, the startup Whisper launched its new flagship product, the Whisper Hearing System. The Whisper Hearing System uses artificial intelligence to process sound in real-time and optimize it for the user’s surroundings.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675",
+      "originalUrl": "https://gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wfkbd2uv91ikolp95onc.png",
+          "width": 800,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675/amp",
+      "publishedDateTime": "2020-10-18T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-new-experiments-reveal-why-human-like-robots-creep-us-out.md",
       "title": "New Experiments Reveal Why Human-Like Robots Creep Us Out",
       "excerpt": "Experiments reveal a dynamic process that leads to \"the uncanny valley phenomenon\" with implications for the design of robots and for understanding how we perceive one another as humans.",
@@ -1159,48 +1210,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-google-search-significantly-improving-did-you-mean-spell-correction-using-passage-ranking-to-find-buried-answers.md",
-      "title": "Google Search significantly improving ‘Did you mean’ spell correction, using passage ranking to find buried answers",
-      "excerpt": "Google kicked off Search On 2020 by talking about its latest artificial intelligence enhancements. Google Search spell",
-      "sourceUrl": null,
-      "webUrl": "https://9to5google.com/2020/10/15/google-search-spell-check/",
-      "originalUrl": "https://9to5google.com/2020/10/15/google-search-spell-check/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://9to5google.com/wp-content/uploads/sites/4/2019/08/google_search_desktop_1.jpg?quality=82&strip=all",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5google.com/2020/10/15/google-search-spell-check/amp/",
-      "cdnAmpWebUrl": "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/10/15/google-search-spell-check/amp/",
-      "publishedDateTime": "2020-10-15T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Google",
-        "domain": "9to5google.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

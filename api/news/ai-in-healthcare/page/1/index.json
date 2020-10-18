@@ -81,50 +81,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-the-relentless-threat-of-artificial-intelligence-taking-our-jobs-away.md",
-      "title": "The relentless threat of artificial intelligence taking our jobs away",
-      "excerpt": "Whether AI will take our jobs or create new ones is one of the greatest debates of the modern world. Every instance when a revolutionary new technology comes in, the same thought fearfully raises its head.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/online-views/the-relentless-threat-of-artificial-intelligence-taking-our-jobs-away-11602776178980.html",
-      "originalUrl": "https://www.livemint.com/opinion/online-views/the-relentless-threat-of-artificial-intelligence-taking-our-jobs-away-11602776178980.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/10/15/600x338/AI-kkGH--621x414@LiveMint_1602776283325.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/online-views/the-relentless-threat-of-artificial-intelligence-taking-our-jobs-away/amp-11602776178980.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/the-relentless-threat-of-artificial-intelligence-taking-our-jobs-away/amp-11602776178980.html",
-      "publishedDateTime": "2020-10-15T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-10-14-these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more.md",
       "title": "These 8 tech companies are using AI to improve healthcare, renewable energy, and more",
       "excerpt": "We often see news and headlines about the dark side of AI, its weaponization, and “algorithmic warfare”. A plethora of AI-driven, dystopian paradigms await us in the future, but there is also a bright side!",
@@ -1378,6 +1334,49 @@
         "AWS AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-expanding-access-to-mental-healthcare-with-artificial-intelligence.md",
+      "title": "Expanding Access to Mental Healthcare with Artificial Intelligence",
+      "excerpt": "Researchers at University of Illinois Chicago are testing a virtual agent powered by artificial intelligence to broaden access to mental healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence",
+      "originalUrl": "https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],
