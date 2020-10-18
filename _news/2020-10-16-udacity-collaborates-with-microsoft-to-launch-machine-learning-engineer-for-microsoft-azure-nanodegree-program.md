@@ -22,15 +22,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Announcing advanced Azure Machine Learning nanodegree program with Udacity"
-    excerpt: "Earlier this year we announced a free ‘introduction to Machine Learning’ course with Udacity, empowering 10,000 scholars from all over the world to learn the basics of machine learning. Today, we announce the new Machine Learning Engineer for Microsoft Azure Nanodegree Program on Udacity—students can"
-    publishedDateTime: 2020-10-13T09:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Udacity and Microsoft partner up to launch new machine learning program to skill students"
     excerpt: "The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learn"
     publishedDateTime: 2020-10-15T11:08:00Z

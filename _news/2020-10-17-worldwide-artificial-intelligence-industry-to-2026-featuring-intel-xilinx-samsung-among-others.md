@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-16T22:04:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/worldwide-artificial-intelligence-industry-to-2026-featuring-intel-xilinx-samsung-among-others-1029689939"
 webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-artificial-intelligence-industry-to-2026-featuring-intel-xilinx-samsung-among-others-1029689939"
 type: article
-quality: 35
-heat: 35
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
-secured: "5ZOjyhU9M3onR9HRel6otArn4GK48OuTI2KLIMzz5NsUwu3hJWvpHIcwYuU2bRdKOJE/H01Hqrpxy60Tc4CbmFCXosCDKqPglZIgDVy0NQ+lhgZfESTeQ4Z098wQnxeJ7HExiYMZVDGn2cOQQyDnbnKt/49H7gu58QyfWqQld7f+AFZQqMcvvOkOqn5/OTJ+x/UVTjW6fVF09nfr2RDWl6EoBDzKYdDQr87e9rZCrTMW7x+9D/cHTLwLMgnrNLrZHMmVgb81hK28zU+Bp+pLKxBX1ssPNgy8BQBPUWVhWYVE9+kOS7pvdiCFQOXVqNeZPzx2Mj4TdUwoOzYmN8VR8eRZEYkaShInICWJss7x+Ls=;IbpGASHdrJ9JtgLN8wgdCQ=="
+secured: "kLWsvW88qRP6vJ0jrFnPTr5YpS9Tq6og1lvu25P1SfXCzr+y0F4EKaCYmx97N5qY5lETvmuVvroKEzbEiDClq/Uryj+S4sfriwYUrTSaJUCclAAISObtSvVGKlj0diwjl7JPlfq1SNJa9h6DeYVWGK+g/pT0eHVSQdot4BNy2w1Ts5B6lPdeNiLaIvYyRK+M5recY40vjCkL82JhwKmncAdOpGJ+nzY/iurAxYsvOKLAvumO8YZguwkhZs5i+EWCtaoTxhFMBm5FGywAWnFJ/V5xE300AiR7B7gkpPLQFidL7CiXhbSXqpNF4HjhlIwIw2s0oz7QtfDsFa64vRchK4MVybjQolILiO7HFT5E/aU=;BqOBpvt10k/icdCduSpmUA=="
 ---
 

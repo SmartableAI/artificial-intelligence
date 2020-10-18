@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 1296
     isCached: true
-
-related:
-  - title: "CloudCommerce Adds Artificial Intelligence (AI) Layer to SWARM"
-    excerpt: "( CLWD ), a leading provider of digital advertising solutions, today announced that it has entered into a license agreement with Pattern89 to add its artificial intelligence (AI) technology to SWARM,"
-    publishedDateTime: 2020-10-13T07:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm-1029672436"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
 
 secured: "IqnTejXuYxGbn4F8UZF71XVS1BaisgQRDfX3d5AdxQmJ6w+ad0Hm3FW84ucduQDXK7nA5ktJeDcfcqpxqY1BTNaQ69n+0GKM70cPLnz9Cn+ruAtowKVKOYDZvqehf4CFVbCxL49fTOmq7qFAuZEZOGbrrx8VLnhmU278W2L2PM+iDi5QpVDZKpELVJa1mtGdy3TaKNvnjvL5jcwdEr1B+zIGqcDgkD4G3Uyx/rswQ+/w6BHe+vlBq39xUnf01EmhZdG3ObXiziJJpj6RTSfZp/XVhZCH213YAmIkQUP7R5vdfLyPPk6qzuEwX+IrlmHCu1lb5pk0tlTGUNmXUKbIbXoEgOfOvyoTqIkKL3JWMcJS2XnPLNgxhqn/nxNHOdlxXR6TpamX15evEmKgqQH5kf8ZUK42YoYH8z1V9LB6Wxg5DxZ4s/geoHqZfq+x9YSsUDcLgLdjDsjWQd6In4SmRIL0Ss7KNhn1bBvPKnUgPyNfux7sUIi3YyW4p1K8N18FHcuKIY2g2MeMTdPrT3TH4g==;4b86GrTsd3ldudnktqIvHA=="
 ---
