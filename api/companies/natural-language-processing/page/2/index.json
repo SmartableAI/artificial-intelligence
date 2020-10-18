@@ -48,7 +48,8 @@
           "title": "Semantic Machines",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/skelterlabs.md",
@@ -88,7 +89,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/soundhound.md",
@@ -137,7 +139,8 @@
           "title": "SoundHound",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/speechmatics.md",
@@ -185,7 +188,8 @@
           "title": "Speechmatics",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/tact.ai.md",
@@ -237,7 +241,8 @@
           "title": "Tact.ai",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/taiger.md",
@@ -289,7 +294,8 @@
           "title": "Taiger",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/twiggle.md",
@@ -340,7 +346,8 @@
           "title": "Twiggle",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/voicebox.md",
@@ -387,7 +394,8 @@
           "title": "VoiceBox Technologies",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/winterlightlabs.md",
@@ -444,7 +452,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/wrappup.ai.md",
@@ -494,7 +503,8 @@
           "title": "Wrappup",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/xnor.ai.md",
@@ -547,7 +557,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/agolo.md",
@@ -595,7 +606,8 @@
           "title": "Agolo",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/lexmachina.md",
@@ -617,7 +629,7 @@
       "twitter": {
         "username": "lexmachina",
         "url": "https://twitter.com/lexmachina",
-        "followers": 5367
+        "followers": 5368
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -649,7 +661,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/narrativa.md",
@@ -703,7 +716,8 @@
           "title": "Narrativa",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/observe.ai.md",
@@ -748,7 +762,8 @@
           "title": "Observe.AI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/rockmetric.md",
@@ -795,7 +810,8 @@
           "title": "Rockmetric",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/signal-ai.md",
@@ -846,7 +862,8 @@
           "title": "Signal AI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/dialogflow.md",
@@ -901,7 +918,8 @@
           "title": "Dialogflow",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/enlitic.md",
@@ -960,7 +978,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/lilt.md",
@@ -1013,7 +1032,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/narrativescience.md",
@@ -1070,7 +1090,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/persado.md",
@@ -1092,7 +1113,7 @@
       "twitter": {
         "username": "persado",
         "url": "https://www.twitter.com/persado",
-        "followers": 5487
+        "followers": 5488
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -1125,7 +1146,8 @@
           "title": "Persado",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/reply.ai.md",
@@ -1176,7 +1198,8 @@
           "title": "Reply.ai",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/suki.ai.md",
@@ -1231,7 +1254,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/textio.md",
@@ -1283,7 +1307,8 @@
           "title": "Textio",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/conversica.md",
@@ -1337,7 +1362,8 @@
           "title": "Conversica",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/kadaxis.md",
@@ -1359,7 +1385,7 @@
       "twitter": {
         "username": "kadaxis",
         "url": "https://twitter.com/kadaxis",
-        "followers": 29744
+        "followers": 29742
       },
       "size": "2-10 employees",
       "yearFounded": 2013,
@@ -1385,7 +1411,8 @@
           "title": "Kadaxis",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/algolia.md",
@@ -1436,7 +1463,8 @@
           "title": "Algolia",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/chumenwenwen.md",
@@ -1496,7 +1524,8 @@
           "title": "Mobvoi",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 3

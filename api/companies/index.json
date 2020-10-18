@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 6369704
+        "followers": 6369740
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -56,7 +56,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/google.md",
@@ -78,7 +79,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1531088
+        "followers": 1531090
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -101,7 +102,8 @@
           "title": "Google",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/openai.md",
@@ -123,7 +125,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 480484
+        "followers": 480488
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -149,7 +151,8 @@
           "title": "OpenAI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/microsoft.md",
@@ -174,7 +177,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9086468
+        "followers": 9086746
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -197,7 +200,8 @@
           "title": "Microsoft",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/facebook.md",
@@ -219,7 +223,7 @@
       "twitter": {
         "username": "facebookai",
         "url": "https://twitter.com/facebookai",
-        "followers": 96866
+        "followers": 96867
       },
       "size": "10,001+ employees",
       "yearFounded": 2004,
@@ -249,7 +253,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/collections/the-10-best-ai-stocks.md",
@@ -384,7 +389,8 @@
           "title": "NVIDIA",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/deeplearning.ai.md",
@@ -406,7 +412,7 @@
       "twitter": {
         "username": "deeplearningai_",
         "url": "https://twitter.com/deeplearningai_",
-        "followers": 46832
+        "followers": 46833
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -435,7 +441,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/ubtrobot.md",
@@ -493,7 +500,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cruise.md",
@@ -555,7 +563,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/nvidia.md",
@@ -577,7 +586,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 62596
+        "followers": 62598
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -614,7 +623,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cleo.md",
@@ -673,7 +683,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/waymo.md",
@@ -699,7 +710,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 58852
+        "followers": 58853
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -729,7 +740,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cisco.md",
@@ -774,7 +786,8 @@
           "title": "Cisco",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/skydio.md",
@@ -796,7 +809,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 9235
+        "followers": 9236
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -825,7 +838,8 @@
           "title": "Skydio",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/tencent.md",
@@ -866,7 +880,8 @@
           "title": "Tencent",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/huggingface.co.md",
@@ -916,7 +931,8 @@
           "title": "Hugging Face",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/zymergen.md",
@@ -974,7 +990,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/anduril.md",
@@ -1026,7 +1043,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/definedcrowd.md",
@@ -1080,7 +1098,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/anaconda.md",
@@ -1136,7 +1155,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/twilio.md",
@@ -1177,7 +1197,8 @@
           "title": "Twilio",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/navya.tech.md",
@@ -1199,7 +1220,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 7282
+        "followers": 7281
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -1227,7 +1248,8 @@
           "title": "NAVYA",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/gong.io.md",
@@ -1278,7 +1300,8 @@
           "title": "Gong.io",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/lemonade.md",
@@ -1300,7 +1323,7 @@
       "twitter": {
         "username": "lemonade_inc",
         "url": "https://twitter.com/lemonade_inc",
-        "followers": 20208
+        "followers": 20207
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1330,7 +1353,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/mythic-ai.md",
@@ -1381,7 +1405,8 @@
           "title": "Mythic",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/owkin.md",
@@ -1438,7 +1463,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/aurora.tech.md",
@@ -1492,7 +1518,8 @@
           "title": "Aurora",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/affirm.md",
@@ -1550,7 +1577,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/zoox.md",
@@ -1607,7 +1635,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/rethinkrobotics.md",
@@ -1629,7 +1658,7 @@
       "twitter": {
         "username": "RethinkRobotics",
         "url": "https://twitter.com/RethinkRobotics",
-        "followers": 30357
+        "followers": 30358
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -1664,7 +1693,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 2

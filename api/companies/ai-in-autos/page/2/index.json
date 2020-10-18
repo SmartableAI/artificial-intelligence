@@ -50,7 +50,8 @@
           "title": "ISEE",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cognitive.ru.md",
@@ -95,7 +96,8 @@
           "title": "Cognitive Technologies",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/zendrive.md",
@@ -148,7 +150,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/drive.ai.md",
@@ -198,7 +201,8 @@
           "title": "Drive.ai",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 3

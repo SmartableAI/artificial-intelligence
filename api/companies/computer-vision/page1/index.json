@@ -23,7 +23,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 480484
+        "followers": 480488
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -49,7 +49,8 @@
           "title": "OpenAI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/nvidia.md",
@@ -71,7 +72,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 62596
+        "followers": 62598
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -108,7 +109,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/baidu.md",
@@ -160,7 +162,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/intel.md",
@@ -182,7 +185,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 25433
+        "followers": 25434
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -215,7 +218,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/gumgum.md",
@@ -283,7 +287,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/scale.md",
@@ -347,7 +352,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/collections/image-recognition-startups.md",
@@ -490,7 +496,8 @@
           "title": "Clarifai",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/sensetime.md",
@@ -557,7 +564,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/slyce.it.md",
@@ -616,7 +624,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/trueface.ai.md",
@@ -671,7 +680,8 @@
           "title": "Trueface.ai",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/aira.io.md",
@@ -729,7 +739,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/alitheon.md",
@@ -780,7 +791,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/geenee.me.md",
@@ -834,7 +846,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/kuznech.md",
@@ -893,7 +906,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/sighthound.md",
@@ -948,7 +962,8 @@
           "title": "Sighthound",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/ubiquity6.md",
@@ -996,7 +1011,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/visionlabs.ai.md",
@@ -1042,7 +1058,8 @@
           "title": "VisionLabs",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/xnor.ai.md",
@@ -1095,7 +1112,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/kairos.md",
@@ -1117,7 +1135,7 @@
       "twitter": {
         "username": "LoveKairos",
         "url": "https://twitter.com/LoveKairos",
-        "followers": 4561
+        "followers": 4559
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -1148,7 +1166,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/megvii.md",
@@ -1219,7 +1238,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/enlitic.md",
@@ -1278,7 +1298,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/orcam.md",
@@ -1329,7 +1350,8 @@
           "title": "OrCam Technologies",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/clarifai.md",
@@ -1379,7 +1401,8 @@
           "title": "Clarifai",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/narrative.md",
@@ -1434,7 +1457,8 @@
           "title": "Narrative",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 2

@@ -56,7 +56,8 @@
           "title": "Narrative",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/salesforce.md",
@@ -78,7 +79,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 523022
+        "followers": 523001
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -97,7 +98,8 @@
           "title": "Salesforce",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ]
 }

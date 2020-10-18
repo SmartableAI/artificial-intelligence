@@ -51,7 +51,8 @@
           "title": "Hugging Face",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/definedcrowd.md",
@@ -105,7 +106,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/gong.io.md",
@@ -156,7 +158,8 @@
           "title": "Gong.io",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/deepl.md",
@@ -204,7 +207,8 @@
           "title": "DeepL",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/iris.ai.md",
@@ -249,7 +253,8 @@
           "title": "Iris.ai",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/liulishuo.md",
@@ -306,7 +311,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/trint.md",
@@ -360,7 +366,8 @@
           "title": "Trint",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/verbit.ai.md",
@@ -415,7 +422,8 @@
           "title": "Verbit",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/botanic.io.md",
@@ -457,7 +465,8 @@
           "title": "Botanic.io",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/grammarly.md",
@@ -479,7 +488,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 186264
+        "followers": 186257
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -505,7 +514,8 @@
           "title": "Grammarly",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/rossintelligence.md",
@@ -556,7 +566,8 @@
           "title": "ROSS Intelligence",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/automatedinsights.md",
@@ -607,7 +618,8 @@
           "title": "Automated Insights",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/bluecanoelearning.md",
@@ -661,7 +673,8 @@
           "title": "Blue Canoe Learning",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/taskus.md",
@@ -709,7 +722,8 @@
           "title": "TaskUs",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/airbud.io.md",
@@ -754,7 +768,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/armorblox.md",
@@ -809,7 +824,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/asktetra.md",
@@ -853,7 +869,8 @@
           "title": "Tetra",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/bash.ai.md",
@@ -900,7 +917,8 @@
           "title": "Bash.ai",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/bloomsbury.ai.md",
@@ -947,7 +965,8 @@
           "title": "Bloomsbury AI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cinnamon.is.md",
@@ -975,7 +994,8 @@
           "url": "https://www.youtube.com/watch?v=fKCQE1Gx0y8"
         }
       ],
-      "heat": 50
+      "heat": 50,
+      "content": "\r\n"
     },
     {
       "path": "_companies/deepzen.io.md",
@@ -1023,7 +1043,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/eigentech.md",
@@ -1051,7 +1072,8 @@
           "url": "https://www.youtube.com/watch?v=kSe7NAV0UOo"
         }
       ],
-      "heat": 50
+      "heat": 50,
+      "content": "\r\n"
     },
     {
       "path": "_companies/hibrainy.md",
@@ -1097,7 +1119,8 @@
           "title": "HiBrainy",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/insightengines.md",
@@ -1115,7 +1138,7 @@
       "twitter": {
         "username": "insightengines",
         "url": "https://twitter.com/insightengines",
-        "followers": 238
+        "followers": 239
       },
       "yearFounded": 0,
       "locations": [
@@ -1142,7 +1165,8 @@
           "title": "Insight Engines",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/invoca.md",
@@ -1196,7 +1220,8 @@
           "title": "Invoca",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/just-ai.md",
@@ -1244,7 +1269,8 @@
           "title": "Just AI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/klaritylaw.md",
@@ -1284,7 +1310,8 @@
           "title": "Klarity",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/lighttag.io.md",
@@ -1326,7 +1353,8 @@
           "title": "LightTag",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/mapegy.md",
@@ -1376,7 +1404,8 @@
           "title": "Mapegy",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/notable.md",
@@ -1433,7 +1462,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 2

@@ -59,7 +59,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/owkin.md",
@@ -116,7 +117,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/tempus.md",
@@ -176,7 +178,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/flatiron.md",
@@ -234,7 +237,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/affectiva.md",
@@ -256,7 +260,7 @@
       "twitter": {
         "username": "affectiva",
         "url": "https://twitter.com/affectiva",
-        "followers": 11090
+        "followers": 11091
       },
       "size": "51-200 employees",
       "yearFounded": 2009,
@@ -287,7 +291,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/benevolent.ai.md",
@@ -341,7 +346,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/ada.md",
@@ -398,7 +404,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/recursionpharma.md",
@@ -420,7 +427,7 @@
       "twitter": {
         "username": "RecursionPharma",
         "url": "https://twitter.com/RecursionPharma",
-        "followers": 3611
+        "followers": 3609
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -455,7 +462,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/sophiagenetics.md",
@@ -506,7 +514,8 @@
           "title": "Sophia Genetics",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/diligentrobots.md",
@@ -564,7 +573,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/mediktor.md",
@@ -622,7 +632,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/collections/ai-companies-for-cancer-treatment.md",
@@ -772,7 +783,8 @@
           "title": "Deep Lens",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/care.ai.md",
@@ -827,7 +839,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/clarifyhealth.md",
@@ -884,7 +897,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cyclicarx.md",
@@ -939,7 +953,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/doxper.md",
@@ -984,7 +999,8 @@
           "title": "Doxper",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/gnshealthcare.md",
@@ -1031,7 +1047,8 @@
           "title": "GNS Healthcare",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/infermedica.md",
@@ -1088,7 +1105,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/insitro.md",
@@ -1133,7 +1151,8 @@
           "title": "Insitro",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/kensci.md",
@@ -1180,7 +1199,8 @@
           "title": "KenSci",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/labgeni.us.md",
@@ -1237,7 +1257,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/maxq.ai.md",
@@ -1297,7 +1318,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/quantib.md",
@@ -1319,7 +1341,7 @@
       "twitter": {
         "username": "Quantib",
         "url": "https://twitter.com/Quantib",
-        "followers": 692
+        "followers": 693
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -1354,7 +1376,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/skinvision.md",
@@ -1407,7 +1430,8 @@
           "title": "SkinVision",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/viz.ai.md",
@@ -1467,7 +1491,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/zebra-med.md",
@@ -1524,7 +1549,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/aicure.md",
@@ -1577,7 +1603,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/aidoc.md",
@@ -1628,7 +1655,8 @@
           "title": "Aidoc",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/aira.io.md",
@@ -1686,7 +1714,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/aivahealth.md",
@@ -1741,7 +1770,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 2

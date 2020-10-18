@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 6369704
+        "followers": 6369740
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -56,7 +56,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cruise.md",
@@ -118,7 +119,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/nvidia.md",
@@ -140,7 +142,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 62596
+        "followers": 62598
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -177,7 +179,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/waymo.md",
@@ -203,7 +206,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 58852
+        "followers": 58853
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -233,7 +236,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/navya.tech.md",
@@ -255,7 +259,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 7282
+        "followers": 7281
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -283,7 +287,8 @@
           "title": "NAVYA",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/aurora.tech.md",
@@ -337,7 +342,8 @@
           "title": "Aurora",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/zoox.md",
@@ -394,7 +400,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/argo.ai.md",
@@ -440,7 +447,8 @@
           "title": "Argo AI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/voyage.auto.md",
@@ -493,7 +501,8 @@
           "title": "Voyage",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/starship.xyz.md",
@@ -547,7 +556,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/nuro.ai.md",
@@ -607,7 +617,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/tusimple.ai.md",
@@ -662,7 +673,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/didi-chuxing.md",
@@ -711,7 +723,8 @@
           "title": "Didi Chuxing",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/pony.ai.md",
@@ -767,7 +780,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/collections/autonomous-vehicles-startups.md",
@@ -887,7 +901,8 @@
           "title": "AEYE",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/maymobility.md",
@@ -943,7 +958,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/neurala.md",
@@ -1001,7 +1017,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/starskyrobotics.md",
@@ -1055,7 +1072,8 @@
           "title": "Starsky Robotics",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/aeye.ai.md",
@@ -1106,7 +1124,8 @@
           "title": "AEYE",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/five.ai.md",
@@ -1159,7 +1178,8 @@
           "title": "FiveAI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/preferred-networks.jp.md",
@@ -1215,7 +1235,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/wayve.ai.md",
@@ -1270,7 +1291,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/apex.ai.md",
@@ -1319,7 +1341,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/boulderai.md",
@@ -1365,7 +1388,8 @@
           "title": "Boulder AI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cortica.md",
@@ -1419,7 +1443,8 @@
           "title": "Cortica",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/ekar.ae.md",
@@ -1467,7 +1492,8 @@
           "title": "Ekar",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/gatik.ai.md",
@@ -1516,7 +1542,8 @@
           "title": "Gatik",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/kodiak.ai.md",
@@ -1565,7 +1592,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/mighty.ai.md",
@@ -1621,7 +1649,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/nauto.md",
@@ -1677,7 +1706,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 2

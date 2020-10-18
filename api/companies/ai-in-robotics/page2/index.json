@@ -49,7 +49,8 @@
           "title": "Vicarious",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/zenrobotics.md",
@@ -99,7 +100,8 @@
           "title": "ZenRobotics",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/anki.md",
@@ -121,7 +123,7 @@
       "twitter": {
         "username": "anki",
         "url": "https://twitter.com/anki",
-        "followers": 26917
+        "followers": 26916
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -156,7 +158,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 3

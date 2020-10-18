@@ -23,7 +23,7 @@
       "twitter": {
         "username": "deeplearningai_",
         "url": "https://twitter.com/deeplearningai_",
-        "followers": 46832
+        "followers": 46833
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -52,7 +52,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/ubtrobot.md",
@@ -110,7 +111,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cruise.md",
@@ -172,7 +174,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/zymergen.md",
@@ -230,7 +233,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/definedcrowd.md",
@@ -284,7 +288,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/anaconda.md",
@@ -340,7 +345,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/affirm.md",
@@ -398,7 +404,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/datarobot.md",
@@ -420,7 +427,7 @@
       "twitter": {
         "username": "DataRobot",
         "url": "https://twitter.com/DataRobot",
-        "followers": 16757
+        "followers": 16758
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -451,7 +458,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/kabbage.md",
@@ -473,7 +481,7 @@
       "twitter": {
         "username": "KabbageInc",
         "url": "https://twitter.com/KabbageInc",
-        "followers": 27457
+        "followers": 27459
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,
@@ -508,7 +516,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cnvrg.io.md",
@@ -553,7 +562,8 @@
           "title": "cnvrg.io",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/scale.md",
@@ -617,7 +627,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/alegion.md",
@@ -670,7 +681,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/amperity.md",
@@ -723,7 +735,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/kensci.md",
@@ -770,7 +783,8 @@
           "title": "KenSci",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/sensetime.md",
@@ -837,7 +851,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/sightmachine.md",
@@ -882,7 +897,8 @@
           "title": "Sight Machine",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/sparkcognition.md",
@@ -930,7 +946,8 @@
           "title": "SparkCognition",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/aira.io.md",
@@ -988,7 +1005,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/alitheon.md",
@@ -1039,7 +1057,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/armorblox.md",
@@ -1094,7 +1113,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/axyon.ai.md",
@@ -1147,7 +1167,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/deep6.ai.md",
@@ -1206,7 +1227,8 @@
           "title": "banner",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/deepmind.md",
@@ -1265,7 +1287,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/kaskada.md",
@@ -1287,7 +1310,8 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 50
+      "heat": 50,
+      "content": "\r\n"
     },
     {
       "path": "_companies/kreditech.md",
@@ -1342,7 +1366,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/noodle.ai.md",
@@ -1398,7 +1423,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/pinpoint.md",
@@ -1444,7 +1470,8 @@
           "title": "Pinpoint",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/rul.ai.md",
@@ -1493,7 +1520,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/signifyd.md",
@@ -1550,7 +1578,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/winterlightlabs.md",
@@ -1607,7 +1636,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 2

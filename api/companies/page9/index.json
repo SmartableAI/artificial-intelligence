@@ -58,7 +58,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cobaltrobotics.md",
@@ -119,7 +120,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cognitivescale.md",
@@ -172,7 +174,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/grok.md",
@@ -216,7 +219,8 @@
           "title": "Grok",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/insilicomedicine.md",
@@ -274,7 +278,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/isee.ai.md",
@@ -323,7 +328,8 @@
           "title": "ISEE",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/kairos.md",
@@ -345,7 +351,7 @@
       "twitter": {
         "username": "LoveKairos",
         "url": "https://twitter.com/LoveKairos",
-        "followers": 4561
+        "followers": 4559
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -376,7 +382,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/leapmind.io.md",
@@ -427,7 +434,8 @@
           "title": "LeapMind",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/lexmachina.md",
@@ -449,7 +457,7 @@
       "twitter": {
         "username": "lexmachina",
         "url": "https://twitter.com/lexmachina",
-        "followers": 5367
+        "followers": 5368
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -481,7 +489,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/marble.io.md",
@@ -539,7 +548,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/matterport.md",
@@ -588,7 +598,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/megvii.md",
@@ -659,7 +670,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/narrativa.md",
@@ -713,7 +725,8 @@
           "title": "Narrativa",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/observe.ai.md",
@@ -758,7 +771,8 @@
           "title": "Observe.AI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/promo-bot.ai.md",
@@ -803,7 +817,8 @@
           "title": "Promobot",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/rockmetric.md",
@@ -850,7 +865,8 @@
           "title": "Rockmetric",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/sentifi.md",
@@ -906,7 +922,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/signal-ai.md",
@@ -957,7 +974,8 @@
           "title": "Signal AI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/socure.md",
@@ -1015,7 +1033,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/verkada.md",
@@ -1054,7 +1073,8 @@
           "title": "Verkada",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/vicarious.md",
@@ -1102,7 +1122,8 @@
           "title": "Vicarious",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/xbird.io.md",
@@ -1160,7 +1181,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/zenrobotics.md",
@@ -1210,7 +1232,8 @@
           "title": "ZenRobotics",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/collections/ai-companies-in-san-francisco.md",
@@ -1350,7 +1373,8 @@
           "title": "Affirm",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/arterys.md",
@@ -1408,7 +1432,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/avawomen.md",
@@ -1466,7 +1491,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/casetext.md",
@@ -1518,7 +1544,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cognitive.ru.md",
@@ -1563,7 +1590,8 @@
           "title": "Cognitive Technologies",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/currenthealth.md",
@@ -1615,7 +1643,8 @@
           "title": "Current Health",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cybermdx.md",
@@ -1662,7 +1691,8 @@
           "title": "CyberMDX",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 10

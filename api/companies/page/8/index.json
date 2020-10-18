@@ -62,7 +62,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/riskident.md",
@@ -102,7 +103,8 @@
           "title": "Risk Ident",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/robinhealthcare.md",
@@ -159,7 +161,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/roobo.md",
@@ -208,7 +211,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/rul.ai.md",
@@ -257,7 +261,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/semanticmachines.md",
@@ -304,7 +309,8 @@
           "title": "Semantic Machines",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/sightdx.md",
@@ -350,7 +356,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/sighthound.md",
@@ -405,7 +412,8 @@
           "title": "Sighthound",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/signifyd.md",
@@ -462,7 +470,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/skelterlabs.md",
@@ -502,7 +511,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/smartenspaces.md",
@@ -542,7 +552,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/soundhound.md",
@@ -591,7 +602,8 @@
           "title": "SoundHound",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/speechmatics.md",
@@ -639,7 +651,8 @@
           "title": "Speechmatics",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/standard.ai.md",
@@ -691,7 +704,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/synyi.md",
@@ -731,7 +745,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/tact.ai.md",
@@ -783,7 +798,8 @@
           "title": "Tact.ai",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/taiger.md",
@@ -835,7 +851,8 @@
           "title": "Taiger",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/tnh.health.md",
@@ -887,7 +904,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/twiggle.md",
@@ -938,7 +956,8 @@
           "title": "Twiggle",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/ubiquity6.md",
@@ -986,7 +1005,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/ucare.ai.md",
@@ -1014,7 +1034,8 @@
           "url": "https://www.youtube.com/watch?v=9A5bFTeS1uw"
         }
       ],
-      "heat": 50
+      "heat": 50,
+      "content": "\r\n"
     },
     {
       "path": "_companies/visionlabs.ai.md",
@@ -1060,7 +1081,8 @@
           "title": "VisionLabs",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/voicebox.md",
@@ -1107,7 +1129,8 @@
           "title": "VoiceBox Technologies",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/wasterobotic.md",
@@ -1157,7 +1180,8 @@
           "title": "Waste Robotics",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/winterlightlabs.md",
@@ -1214,7 +1238,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/wrappup.ai.md",
@@ -1264,7 +1289,8 @@
           "title": "Wrappup",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/xnor.ai.md",
@@ -1317,7 +1343,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/aera-technology.md",
@@ -1361,7 +1388,8 @@
           "title": "Aera Technology",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/agolo.md",
@@ -1409,7 +1437,8 @@
           "title": "Agolo",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/alphasense.md",
@@ -1461,7 +1490,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 9

@@ -60,7 +60,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/collections/ai-fintech-startups.md",
@@ -209,7 +210,8 @@
           "title": "Axyon AI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/capital.md",
@@ -265,7 +267,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/netguardians.ch.md",
@@ -320,7 +323,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/upstart.md",
@@ -376,7 +380,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/axyon.ai.md",
@@ -429,7 +434,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/collect.ai.md",
@@ -485,7 +491,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/fraugster.md",
@@ -543,7 +550,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/iov42.md",
@@ -567,7 +575,8 @@
         "Europe",
         "FinTech",
         "Blockchain"
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/myhippo.md",
@@ -615,7 +624,8 @@
           "title": "Hippo Insurance",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/oaknorth.md",
@@ -667,7 +677,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/parashift.io.md",
@@ -722,7 +733,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/riskident.md",
@@ -762,7 +774,8 @@
           "title": "Risk Ident",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/signifyd.md",
@@ -819,7 +832,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/sentifi.md",
@@ -875,7 +889,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/fundbox.md",
@@ -930,7 +945,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 2

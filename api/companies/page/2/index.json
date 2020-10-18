@@ -47,7 +47,8 @@
           "title": "Argo AI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/voyage.auto.md",
@@ -100,7 +101,8 @@
           "title": "Voyage",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/h2o.ai.md",
@@ -154,7 +156,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/q-ctrl.md",
@@ -176,7 +179,7 @@
       "twitter": {
         "username": "qctrlHQ",
         "url": "https://twitter.com/qctrlHQ",
-        "followers": 2321
+        "followers": 2323
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -204,7 +207,8 @@
           "title": "Q-CTRL",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/tempus.md",
@@ -264,7 +268,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/starship.xyz.md",
@@ -318,7 +323,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/collections/ai-fintech-startups.md",
@@ -467,7 +473,8 @@
           "title": "Axyon AI",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019.md",
@@ -604,7 +611,8 @@
           "title": "Nuro",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/baidu.md",
@@ -656,7 +664,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/contentsquare.md",
@@ -711,7 +720,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/datarobot.md",
@@ -733,7 +743,7 @@
       "twitter": {
         "username": "DataRobot",
         "url": "https://twitter.com/DataRobot",
-        "followers": 16757
+        "followers": 16758
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -764,7 +774,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/deepl.md",
@@ -812,7 +823,8 @@
           "title": "DeepL",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/flatiron.md",
@@ -870,7 +882,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/intel.md",
@@ -892,7 +905,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 25433
+        "followers": 25434
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -925,7 +938,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/iris.ai.md",
@@ -970,7 +984,8 @@
           "title": "Iris.ai",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/moveworks.md",
@@ -1022,7 +1037,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/sentinelone.md",
@@ -1074,7 +1090,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/affectiva.md",
@@ -1096,7 +1113,7 @@
       "twitter": {
         "username": "affectiva",
         "url": "https://twitter.com/affectiva",
-        "followers": 11090
+        "followers": 11091
       },
       "size": "51-200 employees",
       "yearFounded": 2009,
@@ -1127,7 +1144,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/amprobotics.md",
@@ -1185,7 +1203,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/benevolent.ai.md",
@@ -1239,7 +1258,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/capital.md",
@@ -1295,7 +1315,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/fetchrobotics.md",
@@ -1348,7 +1369,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/kabbage.md",
@@ -1370,7 +1392,7 @@
       "twitter": {
         "username": "KabbageInc",
         "url": "https://twitter.com/KabbageInc",
-        "followers": 27457
+        "followers": 27459
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,
@@ -1405,7 +1427,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/netguardians.ch.md",
@@ -1460,7 +1483,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/nuro.ai.md",
@@ -1520,7 +1544,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/softbankrobotics.md",
@@ -1542,7 +1567,7 @@
       "twitter": {
         "username": "sbreurope",
         "url": "https://twitter.com/sbreurope",
-        "followers": 16504
+        "followers": 16505
       },
       "yearFounded": 0,
       "locations": [
@@ -1566,7 +1591,8 @@
           "title": "SoftBank Robotics",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/tusimple.ai.md",
@@ -1621,7 +1647,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/collections/ai-companies-in-austin-texas.md",
@@ -1768,7 +1795,8 @@
           "title": "Alegion",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/collections/female-founded-ai-companies.md",
@@ -1908,7 +1936,8 @@
           "title": "Scale",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/ada.md",
@@ -1965,7 +1994,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 3

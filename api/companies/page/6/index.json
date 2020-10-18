@@ -57,7 +57,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/brainomix.md",
@@ -105,7 +106,8 @@
           "title": "Brainomix",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/brightmachines.md",
@@ -163,7 +165,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/buoyhealth.md",
@@ -215,7 +218,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cambricon.md",
@@ -268,7 +272,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cinnamon.is.md",
@@ -296,7 +301,8 @@
           "url": "https://www.youtube.com/watch?v=fKCQE1Gx0y8"
         }
       ],
-      "heat": 50
+      "heat": 50,
+      "content": "\r\n"
     },
     {
       "path": "_companies/climacell.co.md",
@@ -347,7 +353,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cloudminds.md",
@@ -399,7 +406,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/collect.ai.md",
@@ -455,7 +463,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/cortica.md",
@@ -509,7 +518,8 @@
           "title": "Cortica",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/darktrace.md",
@@ -560,7 +570,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/deep6.ai.md",
@@ -619,7 +630,8 @@
           "title": "banner",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/deeplens.ai.md",
@@ -675,7 +687,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/deepmind.md",
@@ -734,7 +747,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/deepzen.io.md",
@@ -782,7 +796,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/diagnocat.md",
@@ -826,7 +841,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/eigentech.md",
@@ -854,7 +870,8 @@
           "url": "https://www.youtube.com/watch?v=kSe7NAV0UOo"
         }
       ],
-      "heat": 50
+      "heat": 50,
+      "content": "\r\n"
     },
     {
       "path": "_companies/ekar.ae.md",
@@ -902,7 +919,8 @@
           "title": "Ekar",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/embodied.me.md",
@@ -950,7 +968,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/eyediagnosis.net.md",
@@ -995,7 +1014,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/foodvisor.io.md",
@@ -1049,7 +1069,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/fraugster.md",
@@ -1107,7 +1128,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/freedomrobotics.ai.md",
@@ -1159,7 +1181,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/freenome.md",
@@ -1217,7 +1240,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/gatik.ai.md",
@@ -1266,7 +1290,8 @@
           "title": "Gatik",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/geenee.me.md",
@@ -1320,7 +1345,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/gideonbros.net.md",
@@ -1377,7 +1403,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/haut.ai.md",
@@ -1417,7 +1444,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/healx.io.md",
@@ -1475,7 +1503,8 @@
           "title": "logo",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_companies/hibrainy.md",
@@ -1521,7 +1550,8 @@
           "title": "HiBrainy",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 7
