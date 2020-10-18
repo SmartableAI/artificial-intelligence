@@ -4,6 +4,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/vimeo-web-summit-freights-new-autonomous-journey.md",
+      "title": "Freight’s new autonomous journey",
+      "excerpt": "Are self-driving trucks on their way? In this keynote, Xiaodi Hou - President and CTO of TuSimple - is going to show us what the future of large scale logistics looks like.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/vimeo-web-summit-freights-new-autonomous-journey/index.json",
+      "webUrl": "https://vimeo.com/371374786",
+      "provider": {
+        "name": "Vimeo",
+        "domain": "vimeo.com",
+        "publishers": [
+          {
+            "path": "",
+            "name": "Web Summit",
+            "domain": "websummit.com"
+          }
+        ]
+      },
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.vimeocdn.com/video/828865803_590x332.webp",
+          "width": 590,
+          "height": 332,
+          "title": "Freight’s new autonomous journey",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_learning/answers/what-is-deepracer.md",
       "title": "What is DeepRacer?",
       "excerpt": "AWS DeepRacer is an integrated learning system for users of all levels to learn and explore reinforcement learning and to experiment and build autonomous driving applications. It consists of an AWS Machine Learning service, AWS DeepRacer 1/18th scale RC vehicles, and DeepRacer League for paticipants to compete.",
@@ -19,6 +53,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "answer",
       "topics": [
         "AI",
@@ -69,6 +104,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$13.98",
       "topics": [
@@ -119,6 +155,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$9.99",
       "topics": [
@@ -169,6 +206,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$11.99",
       "topics": [
@@ -218,6 +256,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -267,6 +306,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -316,6 +356,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -365,6 +406,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -405,6 +447,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -453,44 +496,12 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "AI",
         "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_learning/videos/vimeo-web-summit-freights-new-autonomous-journey.md",
-      "title": "Freight’s new autonomous journey",
-      "excerpt": "Are self-driving trucks on their way? In this keynote, Xiaodi Hou - President and CTO of TuSimple - is going to show us what the future of large scale logistics looks like.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/vimeo-web-summit-freights-new-autonomous-journey/index.json",
-      "webUrl": "https://vimeo.com/371374786",
-      "provider": {
-        "name": "Vimeo",
-        "domain": "vimeo.com",
-        "publishers": [
-          {
-            "path": "",
-            "name": "Web Summit",
-            "domain": "websummit.com"
-          }
-        ]
-      },
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.vimeocdn.com/video/828865803_590x332.webp",
-          "width": 590,
-          "height": 332,
-          "title": "Freight’s new autonomous journey",
-          "isCached": false
-        }
-      ],
-      "type": "video",
-      "topics": [
-        "AI",
         "AI in Autos"
       ]
     },
@@ -529,6 +540,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "topics": [
         "AI",
@@ -570,6 +582,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "topics": [
         "AI",

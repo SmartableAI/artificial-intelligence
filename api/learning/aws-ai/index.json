@@ -4,54 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/pluralsight-turning-speech-into-text-on-aws-with-amazon-transcribe.md",
-      "title": "Turning Speech into Text on AWS with Amazon Transcribe",
-      "excerpt": "Digital recorded audio is a useful storage medium, but quickly becomes useless when it needs to be consumed quickly. In this course, Turning Speech into Text on AWS with Amazon Transcribe, you’ll gain the ability to leverage and scale the AWS Transcribe service to convert your recorded speech into flat text data. First, you’ll explore manual runs of transcription jobs. Next, you’ll discover how to scale up the process for higher impact transcriptions across your organization. Finally, you’ll learn how to combine transcription with AWS Translate to add even more flexibility for your global needs. When you’re finished with this course, you’ll have the skills and knowledge to alleviate the need to have people manually listen to and transcribe or translate recorded speech.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-turning-speech-into-text-on-aws-with-amazon-transcribe/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/aws-transcribe-speech-text",
-      "length": "1h 29m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Tom Compagno",
-            "type": "profile",
-            "name": "Tom Compagno"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/aws-transcribe-speech-text-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Turning Speech into Text on AWS with Amazon Transcribe",
-          "isCached": false
-        }
-      ],
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_learning/collections/aws-machine-learning-ai-courses-in-pluralsight.md",
       "title": "AWS Machine Learning / AI courses in Pluralsight",
       "excerpt": "AWS has a number of machine learning and artificial intelligence services and products that can be used in conjunction with each other to make smart applications. In this path you’ll become familiar with them and see each one in action.",
@@ -102,6 +54,7 @@
               "isCached": false
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "$$",
           "topics": [
@@ -150,6 +103,7 @@
               "isCached": false
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "$$",
           "topics": [
@@ -198,6 +152,7 @@
               "isCached": false
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "$$",
           "topics": [
@@ -246,6 +201,7 @@
               "isCached": false
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "$$",
           "topics": [
@@ -266,6 +222,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "collection",
       "topics": [
         "AI",
@@ -288,6 +245,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "answer",
       "topics": [
         "AI",
@@ -311,6 +269,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "answer",
       "topics": [
         "AI",
@@ -360,6 +319,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -408,6 +368,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "$$",
       "topics": [
@@ -456,6 +417,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "$$",
       "topics": [
@@ -504,6 +466,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "$$",
       "topics": [
@@ -552,6 +515,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "$$",
       "topics": [
@@ -600,6 +564,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "$$",
       "topics": [
@@ -648,6 +613,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "$$",
       "topics": [
@@ -696,6 +662,56 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-turning-speech-into-text-on-aws-with-amazon-transcribe.md",
+      "title": "Turning Speech into Text on AWS with Amazon Transcribe",
+      "excerpt": "Digital recorded audio is a useful storage medium, but quickly becomes useless when it needs to be consumed quickly. In this course, Turning Speech into Text on AWS with Amazon Transcribe, you’ll gain the ability to leverage and scale the AWS Transcribe service to convert your recorded speech into flat text data. First, you’ll explore manual runs of transcription jobs. Next, you’ll discover how to scale up the process for higher impact transcriptions across your organization. Finally, you’ll learn how to combine transcription with AWS Translate to add even more flexibility for your global needs. When you’re finished with this course, you’ll have the skills and knowledge to alleviate the need to have people manually listen to and transcribe or translate recorded speech.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-turning-speech-into-text-on-aws-with-amazon-transcribe/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-transcribe-speech-text",
+      "length": "1h 29m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Tom Compagno",
+            "type": "profile",
+            "name": "Tom Compagno"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-transcribe-speech-text-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Turning Speech into Text on AWS with Amazon Transcribe",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
       "type": "course",
       "price": "$$",
       "topics": [

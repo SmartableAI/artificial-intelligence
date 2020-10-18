@@ -34,6 +34,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -75,6 +76,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "price": "Free",
       "topics": [
@@ -125,6 +127,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$47.88",
       "topics": [
@@ -175,6 +178,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$92.19",
       "topics": [
@@ -225,6 +229,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$37.49",
       "topics": [
@@ -276,6 +281,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$38.66",
       "topics": [
@@ -325,6 +331,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -384,6 +391,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -435,6 +443,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "$$",
       "topics": [
@@ -483,6 +492,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "$$",
       "topics": [
@@ -543,6 +553,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [

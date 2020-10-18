@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2020-01-09T22:46:52-08:00",
-      "heat": 85,
+      "heat": 76,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1VSZtNYMntM/maxresdefault.jpg",
@@ -34,6 +34,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -56,7 +57,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2017-02-04T19:15:46-08:00",
-      "heat": 68,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/N4gDikiec8E/hqdefault.jpg",
@@ -65,6 +66,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -117,6 +119,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$57.65",
       "topics": [
@@ -168,6 +171,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$34.99",
       "topics": [
@@ -219,6 +223,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$11.98",
       "topics": [
@@ -269,6 +274,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$37.72",
       "topics": [
@@ -321,6 +327,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$19.38",
       "topics": [
@@ -373,6 +380,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$50.76",
       "topics": [
@@ -424,6 +432,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$28.40",
       "topics": [
@@ -475,6 +484,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$83.05",
       "topics": [
@@ -539,6 +549,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "book",
       "price": "$62.93",
       "topics": [
@@ -579,6 +590,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "topics": [
         "AI",

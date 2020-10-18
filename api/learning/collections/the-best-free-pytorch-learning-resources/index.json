@@ -38,6 +38,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -86,6 +87,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -147,6 +149,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -205,6 +208,7 @@
           "isCached": false
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free+",
       "topics": [
