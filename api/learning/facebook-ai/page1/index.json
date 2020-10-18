@@ -4,58 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/pluralsight-style-transfer-with-pytorch.md",
-      "title": "Style Transfer with PyTorch",
-      "excerpt": "This course covers the important aspects of neural style transfer, a technique for transforming images, and discusses Generative Adversarial Networks in order to efficiently create realistic images and videos.\n",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-style-transfer-with-pytorch/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/style-transfer-pytorch",
-      "length": "1h 49m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 130,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/style-transfer-pytorch-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Style Transfer with PyTorch",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/collections/the-best-free-pytorch-learning-resources.md",
       "title": "The Best Free PyTorch Learning Resources in 2020",
       "excerpt": "A handpicked collection of free PyTorch learning resources. PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. It is primarily developed by Facebook's AI Research lab.",
@@ -891,6 +839,58 @@
       ]
     },
     {
+      "path": "_learning/courses/pluralsight-style-transfer-with-pytorch.md",
+      "title": "Style Transfer with PyTorch",
+      "excerpt": "This course covers the important aspects of neural style transfer, a technique for transforming images, and discusses Generative Adversarial Networks in order to efficiently create realistic images and videos.\n",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-style-transfer-with-pytorch/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/style-transfer-pytorch",
+      "length": "1h 49m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/style-transfer-pytorch-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Style Transfer with PyTorch",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/courses/pluralsight-using-pytorch-in-the-cloud-pytorch-playbook.md",
       "title": "Using PyTorch in the Cloud: PyTorch Playbook",
       "excerpt": "This course covers the important aspects of using PyTorch on Amazon Web Services (AWS), Microsoft Azure, and the Google Cloud Platform (GCP), including the use of cloud-hosted notebooks, deep learning VM instances with GPU support, and PyTorch estimators. ",
@@ -1086,6 +1086,5 @@
         "Facebook AI"
       ]
     }
-  ],
-  "nextPage": 2
+  ]
 }

@@ -62,55 +62,6 @@
       ]
     },
     {
-      "path": "_learning/courses/coursera-ai-for-everyone.md",
-      "title": "AI For Everyone",
-      "excerpt": "Learn AI For Everyone from deeplearning.ai. AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take.   In this course, you ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-ai-for-everyone/index.json",
-      "webUrl": "https://www.coursera.org/learn/ai-for-everyone",
-      "length": "9 hours",
-      "ratings": {
-        "count": 7203,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b2/65f2d3143d48b29c346332efac1118/AI4ESquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "AI For Everyone",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/coursera-an-introduction-to-practical-deep-learning.md",
       "title": "An Introduction to Practical Deep Learning",
       "excerpt": "Learn An Introduction to Practical Deep Learning from Intel. This course provides an introduction to Deep Learning, a field that aims to harness the enormous amounts of data that we are surrounded by with artificial neural networks, allowing for ...",
@@ -1626,6 +1577,56 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-feature-engineering.md",
+      "title": "Feature Engineering",
+      "excerpt": "Learn Feature Engineering from Google Cloud. Want to know how you can improve the accuracy of your machine learning models? What about how to find which data columns make the most useful features? Welcome to Feature Engineering on Google Cloud ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-feature-engineering/index.json",
+      "webUrl": "https://www.coursera.org/learn/feature-engineering",
+      "length": "11 hours",
+      "ratings": {
+        "count": 1178,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0d/974060480611e897b4a91da37aa47d/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Feature Engineering",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

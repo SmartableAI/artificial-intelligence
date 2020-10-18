@@ -123,54 +123,53 @@
       ]
     },
     {
-      "path": "_learning/courses/pluralsight-style-transfer-with-pytorch.md",
-      "title": "Style Transfer with PyTorch",
-      "excerpt": "This course covers the important aspects of neural style transfer, a technique for transforming images, and discusses Generative Adversarial Networks in order to efficiently create realistic images and videos.\n",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-style-transfer-with-pytorch/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/style-transfer-pytorch",
-      "length": "1h 49m",
+      "path": "_learning/courses/coursera-practical-machine-learning.md",
+      "title": "Practical Machine Learning",
+      "excerpt": "Learn Practical Machine Learning from Johns Hopkins University. One of the most common tasks performed by data scientists and data analysts are prediction and machine learning. This course will cover the basic components of building and applying ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-practical-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/practical-machine-learning",
+      "length": "14 hours",
+      "ratings": {
+        "count": 2700,
+        "average": 4.5
+      },
       "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "authors": [
+        "publishers": [
           {
             "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
+            "name": "Johns Hopkins University"
           }
         ]
       },
       "levels": [
-        "Advanced"
+        "Beginner",
+        "Intermediate"
       ],
       "heat": 130,
-      "tags": [
-        "PyTorch"
-      ],
       "images": [
         {
-          "url": "https://pluralsight.imgix.net/course-images/style-transfer-pytorch-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Style Transfer with PyTorch",
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a1/e7472069b611e3ae92c39913bb30e0/PredictionMachineLearning.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Practical Machine Learning",
           "isCached": false
         }
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "$$",
+      "price": "Free+",
       "topics": [
         "AI",
-        "Facebook AI",
         "Machine Learning"
       ]
     },

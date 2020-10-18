@@ -4,58 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/pluralsight-foundations-of-pytorch.md",
-      "title": "Foundations of PyTorch",
-      "excerpt": "This course covers many aspects of building deep learning models in PyTorch, including neurons and neural networks, and how PyTorch uses differential calculus to train such models and create dynamic computation graphs in deep learning.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-foundations-of-pytorch/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/foundations-pytorch",
-      "length": "2h 51m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/foundations-pytorch-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Foundations of PyTorch",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/courses/pluralsight-getting-started-with-nlp-deep-learning-using-pytorch-and-fastai.md",
       "title": "Getting Started with NLP Deep Learning Using PyTorch and fastai",
       "excerpt": "This course will teach you how to start using fastai library and PyTorch to obtain near-state-of-the-art results with Deep Learning NLP for text classification. It will give you a theoretical background and show how to take models to production.",
@@ -413,6 +361,58 @@
       "price": "$$",
       "topics": [
         "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-style-transfer-with-pytorch.md",
+      "title": "Style Transfer with PyTorch",
+      "excerpt": "This course covers the important aspects of neural style transfer, a technique for transforming images, and discusses Generative Adversarial Networks in order to efficiently create realistic images and videos.\n",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-style-transfer-with-pytorch/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/style-transfer-pytorch",
+      "length": "1h 49m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/style-transfer-pytorch-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Style Transfer with PyTorch",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
         "Machine Learning"
       ]
     },

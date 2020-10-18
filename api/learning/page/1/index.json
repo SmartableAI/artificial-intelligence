@@ -163,15 +163,15 @@
       ]
     },
     {
-      "path": "_learning/courses/coursera-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization.md",
-      "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
-      "excerpt": "Learn Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization from deeplearning.ai. This course will teach you the \"magic\" of getting deep learning to work well. Rather than the deep learning process being a black ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization/index.json",
-      "webUrl": "https://www.coursera.org/learn/deep-neural-network",
-      "length": "15 hours",
+      "path": "_learning/courses/coursera-ai-for-everyone.md",
+      "title": "AI For Everyone",
+      "excerpt": "Learn AI For Everyone from deeplearning.ai. AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take.   In this course, you ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-ai-for-everyone/index.json",
+      "webUrl": "https://www.coursera.org/learn/ai-for-everyone",
+      "length": "9 hours",
       "ratings": {
-        "count": 43991,
-        "average": 4.9
+        "count": 7203,
+        "average": 4.8
       },
       "provider": {
         "name": "Coursera",
@@ -187,16 +187,7 @@
         "publishers": [
           {
             "path": "",
-            "name": "deeplearning.ai",
-            "domain": "deeplearning.ai",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
+            "name": "deeplearning.ai"
           }
         ]
       },
@@ -204,15 +195,64 @@
         "Beginner"
       ],
       "heat": 130,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b2/65f2d3143d48b29c346332efac1118/AI4ESquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "AI For Everyone",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-image-understanding-with-tensorflow-on-gcp.md",
+      "title": "Image Understanding with TensorFlow on GCP",
+      "excerpt": "Learn Image Understanding with TensorFlow on GCP from Google Cloud. This is the third course of the Advanced Machine Learning on GCP specialization. In this course, We will take a look at different strategies for building an image classifier ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-image-understanding-with-tensorflow-on-gcp/index.json",
+      "webUrl": "https://www.coursera.org/learn/image-understanding-tensorflow-gcp",
+      "length": "12 hours",
+      "ratings": {
+        "count": 341,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 130,
       "tags": [
         "TensorFlow"
       ],
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/13/668720104e11e8a36507b34cf4fa75/CarouselAds_DL_Tuning.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a4/99eae0bd3f11e88d1bdf247fdfe9da/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
           "width": 400,
           "height": 400,
-          "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+          "title": "Image Understanding with TensorFlow on GCP",
           "isCached": false
         }
       ],
@@ -226,89 +266,54 @@
       ]
     },
     {
-      "path": "_learning/courses/pluralsight-style-transfer-with-pytorch.md",
-      "title": "Style Transfer with PyTorch",
-      "excerpt": "This course covers the important aspects of neural style transfer, a technique for transforming images, and discusses Generative Adversarial Networks in order to efficiently create realistic images and videos.\n",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-style-transfer-with-pytorch/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/style-transfer-pytorch",
-      "length": "1h 49m",
+      "path": "_learning/courses/coursera-practical-machine-learning.md",
+      "title": "Practical Machine Learning",
+      "excerpt": "Learn Practical Machine Learning from Johns Hopkins University. One of the most common tasks performed by data scientists and data analysts are prediction and machine learning. This course will cover the basic components of building and applying ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-practical-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/practical-machine-learning",
+      "length": "14 hours",
+      "ratings": {
+        "count": 2700,
+        "average": 4.5
+      },
       "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "authors": [
+        "publishers": [
           {
             "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
+            "name": "Johns Hopkins University"
           }
         ]
       },
       "levels": [
-        "Advanced"
+        "Beginner",
+        "Intermediate"
       ],
       "heat": 130,
-      "tags": [
-        "PyTorch"
-      ],
       "images": [
         {
-          "url": "https://pluralsight.imgix.net/course-images/style-transfer-pytorch-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Style Transfer with PyTorch",
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a1/e7472069b611e3ae92c39913bb30e0/PredictionMachineLearning.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Practical Machine Learning",
           "isCached": false
         }
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "$$",
+      "price": "Free+",
       "topics": [
         "AI",
-        "Facebook AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/vimeo-web-summit-freights-new-autonomous-journey.md",
-      "title": "Freight’s new autonomous journey",
-      "excerpt": "Are self-driving trucks on their way? In this keynote, Xiaodi Hou - President and CTO of TuSimple - is going to show us what the future of large scale logistics looks like.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/vimeo-web-summit-freights-new-autonomous-journey/index.json",
-      "webUrl": "https://vimeo.com/371374786",
-      "provider": {
-        "name": "Vimeo",
-        "domain": "vimeo.com",
-        "publishers": [
-          {
-            "path": "",
-            "name": "Web Summit",
-            "domain": "websummit.com"
-          }
-        ]
-      },
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.vimeocdn.com/video/828865803_590x332.webp",
-          "width": 590,
-          "height": 332,
-          "title": "Freight’s new autonomous journey",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
