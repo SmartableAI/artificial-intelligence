@@ -15,7 +15,10 @@ github:
 provider:
   name: Facebook
   domain: facebook.com
-
+  images:
+    - url: /assets/images/organizations/facebook.com-50x50.jpg
+      width: 50
+      height: 50
 topics:
   - AI
   - Facebook AI

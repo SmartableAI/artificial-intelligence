@@ -13,9 +13,12 @@ github:
   languages: ["C++","Python"]
 
 provider:
-  name: tensorflow
-  domain: tensorflow.org
-
+  name: Google
+  domain: google.org
+  images:
+    - url: /assets/images/organizations/google.com-50x50.jpg
+      width: 50
+      height: 50
 topics:
   - AI
   - Google AI
