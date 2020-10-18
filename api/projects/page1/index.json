@@ -31,7 +31,7 @@
           }
         ]
       },
-      "heat": 901,
+      "heat": 902,
       "images": [
         {
           "url": "https://www.tensorflow.org/images/tf_logo_social.png",
@@ -222,7 +222,7 @@
           }
         ]
       },
-      "heat": 780,
+      "heat": 781,
       "tags": [
         "Big Data"
       ],

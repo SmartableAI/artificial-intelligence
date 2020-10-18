@@ -1,6 +1,6 @@
 {
-  "title": "Communities",
-  "path": "_communities",
+  "title": "Projects",
+  "path": "_projects",
   "page": 1,
   "value": [
     {
@@ -31,7 +31,7 @@
           }
         ]
       },
-      "heat": 901,
+      "heat": 902,
       "images": [
         {
           "url": "https://www.tensorflow.org/images/tf_logo_social.png",
@@ -184,6 +184,5 @@
         "TensorFlow"
       ]
     }
-  ],
-  "nextPage": 2
+  ]
 }

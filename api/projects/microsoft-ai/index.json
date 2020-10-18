@@ -1,6 +1,6 @@
 {
-  "title": "Communities",
-  "path": "_communities",
+  "title": "Projects",
+  "path": "_projects",
   "page": 1,
   "value": [
     {
@@ -89,6 +89,5 @@
         "Machine Learning"
       ]
     }
-  ],
-  "nextPage": 2
+  ]
 }

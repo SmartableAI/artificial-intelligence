@@ -3,7 +3,7 @@ name: "TensorFlow"
 excerpt: "An Open Source Machine Learning Framework for Everyone"
 originalUrl: https://www.tensorflow.org/
 type: code
-heat: 901
+heat: 902
 
 github:
   url: "https://github.com/tensorflow/tensorflow"

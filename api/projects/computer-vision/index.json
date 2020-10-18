@@ -1,6 +1,6 @@
 {
-  "title": "Communities",
-  "path": "_communities",
+  "title": "Projects",
+  "path": "_projects",
   "page": 1,
   "value": [
     {
@@ -239,6 +239,5 @@
         "Computer Vision"
       ]
     }
-  ],
-  "nextPage": 2
+  ]
 }
