@@ -1,28 +1,22 @@
 ---
 category: news
 title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
-excerpt: "IBM. \"By partnering with ServiceNow and their market leading Now Platform, clients will be able to use AI to quickly mitigate unforeseen IT incident costs. Watson AIOps with ServiceNow's Now ..."
-publishedDateTime: 2020-10-15T13:02:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
+excerpt: "ARMONK, N.Y. and SANTA CLARA, Calif., Oct. 15, 2020/ PRNewswire/-- IBM and ServiceNow today announced an expansion to their strategic partnership designed to help companies reduce operational risk and lower costs by applying AI to automate IT operations."
+publishedDateTime: 2020-10-15T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk"
+webUrl: "https://www.nasdaq.com/press-release/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk"
 type: article
-quality: 33
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
-    isCached: true
 
 related:
   - title: "ServiceNow And IBM: Making AI Really Work"
@@ -124,6 +118,20 @@ related:
         width: 728
         height: 410
         isCached: true
+  - title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
+    excerpt: "IBM. \"By partnering with ServiceNow and their market leading Now Platform, clients will be able to use AI to quickly mitigate unforeseen IT incident costs. Watson AIOps with ServiceNow's Now ..."
+    publishedDateTime: 2020-10-16T01:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
   - title: "IBM, ServiceNow partner on AI solution to manage IT outages"
     excerpt: "Expanding their strategic partnership, IBM (IBM -1.1%) and ServiceNow (NOW -1.7%) will release a joint solution that uses AI to more effectively manage IT outages.\"AI is one of the biggest forces driving change in the IT industry to the extent that every company is swiftly becoming an AI company."
     publishedDateTime: 2020-10-15T19:43:00Z
@@ -134,6 +142,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "azGhPPju7y08vbZX0sgNGbifwAvxwuh/SZ6zYHJmn1Le4XGRnP/9jFbKPu/6FqXvKsjSUqm81uY9vD53Owuqd/ayg5h/G29jFO3zx/wqPrAgnVYLvBwF69ZS0GCtnuDVgcrCVpSwo3w5PSE+TRv4025ISQo5FCrX2EWMfuQ+kkC8si6Y6h3q7pYve5nZsl89hxGeqermjX54p0R+en1tUHrD5lGCCa2CvAyMV35im+QsB/EEqOZKWCB9YnscqIy/jP9+q3n6JN7W3GFBzVfXmm/kKomaYM1fiwaAncJClfoeSv8tI8aOQm4D7oftqliwqTKePeqkpWZuo5v8HLegjDHBc6VhDlRWFNCOj/APyKU=;l+VKUeHN0FJJLvO44Gy23A=="
+secured: "NtyOkw5y9CGyG93J2ZyaTtAtYdLkh1oHfh2GLUZTCiu9JcrT5B9qVG5Wzy0ohr/gn5ZivkvCcSYU9qdFB2aGJcCVanHX9hMMoUU7xWH6RH5i75UzuTXCcgcmaXz5y61IkX/EhL4AfIbRnglgDGq3N5y/J2paeLfncOFIJxz5TyXRTK4ztzEsR7NWvJCzpeqIIPHsUHQRpJaGt6P9NoaWbju9ktZGg2OE+RaU5aLzaG7BW/c8GFi9n56HSVEXuVBQuakeGlQeAeA9qGG4132eiiZqpt2T6ouboVhoHqmUntQAnHELLfxGIJw1dkgIwCgiSfye5VSDLl723XCsbFu1AviYlqBLMFrnDuuEDWBQv/c=;pc+jh2HViZn0GSUpbXPRWg=="
 ---
 

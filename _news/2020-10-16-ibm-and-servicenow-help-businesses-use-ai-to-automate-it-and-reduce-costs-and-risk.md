@@ -1,28 +1,28 @@
 ---
 category: news
-title: "ServiceNow, IBM to integrate Watson AIOps, IT service management"
-excerpt: "Under this partnership, the two companies will initially launch software that will use ServiceNow's IT Service Management historical incident data to train Watson AIOps algorithms"
-publishedDateTime: 2020-10-15T13:00:00Z
-originalUrl: "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-webUrl: "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
+excerpt: "IBM. \"By partnering with ServiceNow and their market leading Now Platform, clients will be able to use AI to quickly mitigate unforeseen IT incident costs. Watson AIOps with ServiceNow's Now ..."
+publishedDateTime: 2020-10-16T01:25:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
 type: article
-quality: 84
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
 
 related:
   - title: "ServiceNow And IBM: Making AI Really Work"
@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ServiceNow, IBM to integrate Watson AIOps, IT service management"
+    excerpt: "Under this partnership, the two companies will initially launch software that will use ServiceNow's IT Service Management historical incident data to train Watson AIOps algorithms"
+    publishedDateTime: 2020-10-15T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "IBM, ServiceNow Deepen Partnership"
     excerpt: "International Business Machines (NYSE:IBM) and ServiceNow (NYSE:NOW) today announced that they will take their partnership to a new level. IBM, which recently announced a spinoff of a legacy business to focus more on the cloud,"
     publishedDateTime: 2020-10-15T17:57:00Z
@@ -122,20 +133,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 43
-  - title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
-    excerpt: "IBM. \"By partnering with ServiceNow and their market leading Now Platform, clients will be able to use AI to quickly mitigate unforeseen IT incident costs. Watson AIOps with ServiceNow's Now ..."
-    publishedDateTime: 2020-10-16T01:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
   - title: "IBM, ServiceNow partner on AI solution to manage IT outages"
     excerpt: "Expanding their strategic partnership, IBM (IBM -1.1%) and ServiceNow (NOW -1.7%) will release a joint solution that uses AI to more effectively manage IT outages.\"AI is one of the biggest forces driving change in the IT industry to the extent that every company is swiftly becoming an AI company."
     publishedDateTime: 2020-10-15T19:43:00Z
@@ -146,6 +143,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "Pcd8szYRn0EiURdKepzVL5ZQS1uq35AoJ1CkaDPavO5LcjPMpOMpy8DPmLr3axvIGWxCCBSEGXW2Sph8UrgbEJ0mU4vtZu3aZEg0TZHJCgBNLKnqMJ0aGzAPwsPJaf1CbuH5Fkn61iX4r74GTGSGMqdNTP38+jf7FFZoesQ7z8BZnYAV54fAKl8ccsmnsWVIJO3NHkn4VBzut3CYEJGC0dEmB2EezDJ+2zmfsuQNFQi3LY/xsnc1uXsHlOTiv+TjXq5LR2BFx4jw0Jw4Ad1XIquxbApgo3FIyefejPxFYuKXTOUVgm+L1BA82YgWHIaI95ury2T7Hp198aoZlqo7lOwfQ30olux0fkISUjYFZBOhykKSWuk2vlYdnR28mVS7u9DM+3neajyqA3SJXT8VQnH/ubEzp7y8AZbXlKHA0Hrqi67l81ypTF2F0kMKZmAzcRHpjThIYbd/wg2TYBEZ7pflA8pjI1lTW4kB7QsPyx2h9ygFrjxwPy3QLfhgwu9ZnaiyB0AHfNxjqG/F9rlxpA==;MzCAuPK7jeEZxqYoUtwJpw=="
+secured: "zCfxI6laLNqMi249aQXjMN8kt9r1Eb2964BAh3b+az5njvL4XZciNY3QDMle8+r2YdpYdwr3XaXfX10g3dnBG7ysUXBtz8dS2H5/Qoc658nanOCEMXVGepYD4A9rOHNtfxAL5+MwcOf1D0Qn+zQE4Hw6rmDxfyWlpzcYSUWlod12i1WYJ5lYtepLPtA1RJfA3JOTo4AYumJPiQ9elDnIJ6HMhi2jA5HxGDBU2Ibs+pByxGd2uKiI7bsPwp+0A9OiPbPnmnxRZNPxeJjYVwMeofhwR51fBtbHV0tnUgBXH5VJHBZgvaaH36G9XlJmx8qowz5L8XgmYyCDsxV1cjPxUK8a+cvcYS0/qBabj68HhCI=;nYpMzn6c51bXIDtRiwb/pQ=="
 ---
 

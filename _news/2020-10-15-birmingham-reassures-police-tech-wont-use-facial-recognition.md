@@ -9,7 +9,7 @@ ampWebUrl: "https://www.governing.com/security/Birmingham-Reassures-Police-Tech-
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Birmingham-Reassures-Police-Tech-Wont-Use-Facial-Recognition.html?AMP"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Mayor says facial recognition software not part of Birmingham police plan"
-    excerpt: "That won’t include facial recognition software - the computerized identification of people through video and pictures, both Mayor Randall Woodfin and the Birmingham City Council emphasized this week. On Monday afternoon, during the council’s budget and ..."
-    publishedDateTime: 2020-10-13T19:16:00Z
-    webUrl: "https://www.al.com/news/2020/10/mayor-says-facial-recognition-software-not-part-of-birmingham-police-plan.html"
-    ampWebUrl: "https://www.al.com/news/2020/10/mayor-says-facial-recognition-software-not-part-of-birmingham-police-plan.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/mayor-says-facial-recognition-software-not-part-of-birmingham-police-plan.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 58
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LFALWUNVR5AXHIHXWVQDQJJ74M.jpg"
-        width: 2200
-        height: 1694
-        isCached: true
 
 secured: "cknQLJi9BXTLDy2BiFMda7Tb2MCsZf76IFwLn8ZE2XhzTMaedX/QlkjTXxKXSBZzGnJHBaZL7nA50ZKcbaNdt9ZB17tBs96Z65h3ywm/Mv6YlZZCB/8jWsg6w4YZlTuiMPB/IHkHEIqMkX83NeIPoHcChZn8BVNE2O+A+VACQaJGCP9N5Z4syAvSmOD6zwdPt7MM2VQFwlK1JtUs9PLz9WNAi+AGihDZkv/tARxi8uOo3YdE5TvAUTx72gB40Vvow23Pw8462wN5zYwbWd6YeIofSTg4DI+ZM6i4291KoXbupPgFPruWY+YWPxa2aMnHdr3tuhd2Z274d1y3coVzrpekuFp6RKyjSK5EBfbkChA=;gsZjH9MA+/ZOLkafyPPFRA=="
 ---

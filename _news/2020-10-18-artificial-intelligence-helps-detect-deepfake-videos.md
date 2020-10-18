@@ -3,10 +3,10 @@ category: news
 title: "Artificial Intelligence helps detect deepfake videos"
 excerpt: "Researchers tested the tool with an AI-based neural network on videos of former U.S. President Barack Obama. The neural network spotted over 90% of lip syncs"
 publishedDateTime: 2020-10-18T08:03:00Z
-originalUrl: "https://www.newsr.in/n/Sports/1zlu616uvy/Artificial-Intelligence-helps-detect-deepfake-videos.htm"
-webUrl: "https://www.newsr.in/n/Sports/1zlu616uvy/Artificial-Intelligence-helps-detect-deepfake-videos.htm"
-ampWebUrl: "https://www.newsr.in/n/Sports/1zlu616uvy/Artificial-Intelligence-helps-detect-deepfake-videos.htm"
-cdnAmpWebUrl: "https://www-newsr-in.cdn.ampproject.org/c/s/www.newsr.in/n/Sports/1zlu616uvy/Artificial-Intelligence-helps-detect-deepfake-videos.htm"
+originalUrl: "https://www.newsr.in/n/Front+Page/1zlu616us1/Artificial-Intelligence-helps-detect-deepfake-videos.htm"
+webUrl: "https://www.newsr.in/n/Front+Page/1zlu616us1/Artificial-Intelligence-helps-detect-deepfake-videos.htm"
+ampWebUrl: "https://www.newsr.in/n/Front+Page/1zlu616us1/Artificial-Intelligence-helps-detect-deepfake-videos.htm"
+cdnAmpWebUrl: "https://www-newsr-in.cdn.ampproject.org/c/s/www.newsr.in/n/Front+Page/1zlu616us1/Artificial-Intelligence-helps-detect-deepfake-videos.htm"
 type: article
 quality: 59
 heat: 59
@@ -26,6 +26,6 @@ images:
     height: 256
     isCached: true
 
-secured: "09GSw2t1R/aoVLrFrS6I+d2rNu8d5juF4Ro3Z2wpI7tuvzuYRZ8SNqODCyUc3CuEmVQLB9kifUHYKs7H9ogJgCEc7/sXcSD0GqBEhJ6Ll8b5yzzygKQH91hkK0y/iQhyiGRF1DGcaSDMfQUWp8IXpo34LdeMUsVLMGbM082mGKQ1KKRTIvQNahwRnj7eSBFjkz7OkO2Xc5IJruFd0OPD3KL1rPlsTn/wijlbn+AefZEoiEwsyic9iD4QwX6d94h3hbZA1yKrLSHwAT2mr8AvaWEuBRrwFBZBRAsbAvET4++XB0FNT5Qjf5U+wVnT7+dn4u7m2m1b2MKvcSiyrEsljbEGf9S8x1IaL6LHbXCHPN4=;y+IAMgeDf1mkaXvjpAbL6w=="
+secured: "Hn8Prd22OZ49//8dZCivnCECkfuOfzbnhBqb6EMaH1nOxKqe6YNwdgSivqcUmyStt/LtP3wT05q8B9lIo0rXshKjm2D8s8W5fghGkan+oGFecvNO56P2z+GBewMrONXt7jqcS83MeO+CIO1Jr2bDmHnRsS+Z+HYKcGAaB0lvHBkGM4tiUKY5ApGoPqJmi0eHORa3sAaQqAwasRdJ4vxa6GaSVTf8iKtqjJxwsjALwE1rysPDJ3WC47ZalHSn+ubI3Z2L5tXcJHaRZoG8iHUnYRCrWabSeTiSGrrWE3AMY85hx5YklKfNuddcCfx/VO15dHh3uSMyf1SQLJtfd3PTm30vTe3761kjAbnACT7Q/S0=;F4uWOEen+uw0akFMj2Wy9Q=="
 ---
 

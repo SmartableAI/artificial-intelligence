@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-14-this-bot-will-destroy-you-at-pictionary-its-also-a-huge-milestone-for-ai.md",
+      "title": "This bot will destroy you at Pictionary. It’s also a huge milestone for A.I.",
+      "excerpt": "Pixelor isn't just a Pictionary-playing A.I. — it's a groundbreaking new tool that's helping us teach machines to understand human intentions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/",
+      "originalUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/pixelor_-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/pixelor-pictionary-ai/?amp",
+      "publishedDateTime": "2020-10-14T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai.md",
+      "title": "Infiot emerges from stealth with $15 million to manage edge devices using AI",
+      "excerpt": "Infiot, a startup developing an access platform for ... Infiot leverages distributed processing and AI to deliver real-time decisions, ostensibly improving availability while enabling superior ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/af27a1a46882a43d9df31265a5d5b952145fda93-e1601915848179.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/amp/",
+      "publishedDateTime": "2020-10-14T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-ai-and-deep-learning-can-analyze-rash-selfies-for-better-lyme-disease-detection.md",
       "title": "AI and deep learning can analyze 'rash selfies' for better Lyme disease detection",
       "excerpt": "Johns Hopkins Medicine and Johns Hopkins Applied Research Laboratory (APL) researchers have shown that cell phone images of rashes taken by patients can be evaluated using artificial intelligence (AI) and deep learning (DL) technologies to more accurately detect and identify the erythema migrans (EM) skin redness associated with acute Lyme disease.",
@@ -1070,21 +1174,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30.md",
-      "title": "Amazon Personalize improvements reduce model training time by up to 40% and latency for generating recommendations by up to 30%",
-      "excerpt": "We’re excited to announce new efficiency improvements for Amazon Personalize. These improvements decrease the time required to train solutions (the machine learning models trained with your data) by up to 40% and reduce the latency for generating real-time recommendations by up to 30%. Amazon Personalize",
+      "path": "_news/2020-10-14-makinarocks-research-published-by-deep-learning-sectors-premier-conference-iclr-2020.md",
+      "title": "MakinaRocks research published by Deep Learning sector’s premier conference, ICLR 2020",
+      "excerpt": "MakinaRocks (  a startup specializing in industrial AI solutions, announced on October 13th, the success of their RaPP-based anomaly detection research paper, selected and published by the International Conference on Learning Representations (ICLR),",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30/",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/12/2-1-5.jpg",
-          "width": 900,
-          "height": 617,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1094,115 +1198,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T09:48:27-07:00",
+      "publishedDateTime": "2020-10-13T10:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-spotify-open-sources-klio-a-framework-for-ai-audio-research.md",
-      "title": "Spotify open-sources Klio, a framework for AI audio research",
-      "excerpt": "Over the years, the company has begun to tap natural language processing, audio models, and filtering to serve up recommendations and curate playlists including Discovery Weekly and Release Radar.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/",
-      "originalUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/04/spotify-nyse.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/",
-      "publishedDateTime": "2020-10-13T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-researchers-develop-new-model-of-the-brains-real-life-neural-networks.md",
-      "title": "Researchers develop new model of the brain's real-life neural networks",
-      "excerpt": "Physical Systems Group at the USC Viterbi School of Engineering, in conjunction with the University of Illinois at Urbana-Champaign, have developed a new model of how information deep in the brain could flow from one network to another and how these neuronal network clusters self-optimize over time.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/8-brain.jpg",
-          "width": 1741,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
-      "publishedDateTime": "2020-10-13T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

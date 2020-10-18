@@ -79,22 +79,6 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "AI in Fashion Market is set to see Revolutionary growth in decade | Microsoft, IBM, Google, AWS, SAP, Facebook"
-    excerpt: "Latest released the research study on Global AI in Fashion Market offers a detailed overview of the factors influencing the global business scope AI in Fashion Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2020-10-13T20:36:00Z
-    webUrl: "https://www.openpr.com/news/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
-    ampWebUrl: "https://www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 73
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta13288706_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Facebook and Carnegie Mellon launch project to discover better ways to store renewable energy"
     excerpt: "Facebook today announced a partnership with Carnegie Mellon University on a research project — the Open Catalyst Project — that will leverage AI to accelerate the search for electrocatalysts ..."
     publishedDateTime: 2020-10-14T13:02:00Z

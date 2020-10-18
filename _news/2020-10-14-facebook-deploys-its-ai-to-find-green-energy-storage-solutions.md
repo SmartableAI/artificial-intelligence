@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-e
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/gKDij_RxAohDBdghYbl6qEL54B8=/1200x630/2020/07/25/a5b66fe1-db1a-4c66-85c6-5fb905e14a7c/twitter-facebook-logo-phone-united-states-flag-4542.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI in Fashion Market is set to see Revolutionary growth in decade | Microsoft, IBM, Google, AWS, SAP, Facebook"
-    excerpt: "Latest released the research study on Global AI in Fashion Market offers a detailed overview of the factors influencing the global business scope AI in Fashion Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2020-10-13T20:36:00Z
-    webUrl: "https://www.openpr.com/news/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
-    ampWebUrl: "https://www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2158243/ai-in-fashion-market-is-set-to-see-revolutionary-growth-in-decade"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 73
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta13288706_g.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Facebook and Carnegie Mellon launch project to discover better ways to store renewable energy"
     excerpt: "Facebook today announced a partnership with Carnegie Mellon University on a research project — the Open Catalyst Project — that will leverage AI to accelerate the search for electrocatalysts ..."

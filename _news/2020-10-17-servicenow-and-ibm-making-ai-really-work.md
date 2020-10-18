@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -115,8 +115,17 @@ related:
         height: 410
         isCached: true
   - title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
+    excerpt: "ARMONK, N.Y. and SANTA CLARA, Calif., Oct. 15, 2020/ PRNewswire/-- IBM and ServiceNow today announced an expansion to their strategic partnership designed to help companies reduce operational risk and lower costs by applying AI to automate IT operations."
+    publishedDateTime: 2020-10-15T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 43
+  - title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
     excerpt: "IBM. \"By partnering with ServiceNow and their market leading Now Platform, clients will be able to use AI to quickly mitigate unforeseen IT incident costs. Watson AIOps with ServiceNow's Now ..."
-    publishedDateTime: 2020-10-15T13:02:00Z
+    publishedDateTime: 2020-10-16T01:25:00Z
     webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
     type: article
     provider:

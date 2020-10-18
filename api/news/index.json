@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-18-why-software-developers-might-be-obsolete-by-2030.md",
+      "title": "Why software developers might be obsolete by 2030",
+      "excerpt": "John Maynard Keynes predicted we’d be having 15-hour workweeks by the end of the century. But by the time it was 2013, it was clear the great economist had gotten something wrong. Welcome to the era of bullshit jobs,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/syndication/2020/10/18/why-software-developers-might-be-obsolete-by-2030/",
+      "originalUrl": "https://thenextweb.com/syndication/2020/10/18/why-software-developers-might-be-obsolete-by-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/image-5-3-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/syndication/2020/10/18/why-software-developers-might-be-obsolete-by-2030/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/syndication/2020/10/18/why-software-developers-might-be-obsolete-by-2030/amp/",
+      "publishedDateTime": "2020-10-18T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-four-years-ago-elon-musk-announced-all-tesla-cars-have-the-hardware-needed-for-full-self-driving-so-where-is-it.md",
       "title": "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?",
       "excerpt": "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release.",
@@ -395,7 +447,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1157,59 +1209,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-processing-auto-insurance-claims-at-scale-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-ground-truth.md",
-      "title": "Processing auto insurance claims at scale using Amazon Rekognition Custom Labels and Amazon SageMaker Ground Truth",
-      "excerpt": "Computer vision uses machine learning (ML) to build applications that process images or videos. With Amazon Rekognition, you can use pre-trained computer vision models to identify objects, people, text, activities, or inappropriate content. Our customers have use cases that span every industry, including",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Architecture.jpg",
-          "width": 900,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T13:01:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],
