@@ -1,24 +1,27 @@
 ---
 category: news
 title: "Looper column: Artificial intelligence, humanity and the future"
-excerpt: "Columns share an author’s personal perspective. ***** In September, the British news website The Guardian published a story written entirely by"
-publishedDateTime: 2020-10-16T15:35:00Z
-originalUrl: "https://www.rrstar.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
-webUrl: "https://www.rrstar.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
+excerpt: "Columns share an author’s personal perspective.***** In September, the British news website The Guardian published a story written entirely by an"
+publishedDateTime: 2020-10-16T15:42:00Z
+originalUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
+webUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
+ampWebUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
+cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: Rockford Register Star
-  domain: rrstar.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.rrstar.com/storyimage/IR/20201016/LIFESTYLE/201019844/AR/0/AR-201019844.jpg"
+  - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=LIFESTYLE&ArtNo=201019472&Ref=AR"
     width: 387
     height: 393
     isCached: true
@@ -57,6 +60,6 @@ related:
         height: 931
         isCached: true
 
-secured: "9m50tEVVXOZLi4KSErhnynpk5DzDqNNFIKTG68OEedn74egdfY5BQVyfCzi8PWNuu2iLir2yAH99lA0Nk7w3stCKo6/U8nVFLk/ihY8H0RUuiT9QQhYkSj90CZNHUwL13UDvTlsKBnxEz8ewEwBYAvRUDiWWXQm9qbO8RskhykUBzKZES8sYbTmBZpleIxx2WsKmfpIDRWJoqTzh9KbDTXMoy7vULbjq0EJIug13Viy0f8tsCCj7JgQG3/+brquwi4ruZZPEwuC7PlzGdrmpC4FTVsbzxggZjbuT1BYFFy8Mfn9kNPRkcYknHdpmgzcHptX50kPyO/YPephKJ6UpQoeO0PNYCy5CSqogRJgliUI=;gxysyS8UDA6kvsTIelr+3g=="
+secured: "7M6/THeeLn/xQI8WzWx4uU4LASgfAjdkcls9/o68V2plcA5A5LBXt9/0iJHlGy0KDkFhIbvfaW59lN2xX4l3iYQfUl5NhSA7rm/p5TMz/abufYATM+8Tk6S3QnAQPLK8bpi5W2tlmmg22HLYY+KqMLu/orooXxUQX8bUyuXpZggFYJVNpCZLkSvXnDxevBDq9yrLkZqoU2wMzW87q3NsNDv+ev/Xu9D/rQ0e9zLVUmIcmYNxCE81/twqoUad6WfpI/NQMtymag5kWDVAyANuVMafAudMkqzHeTTJ21rcBdSKrWtoktFwepzs+RH/4GjHdIV+spX0W/4s+unIbWGIvaFCVos769dAn64HIEr6Ito=;eyAcSLUVDDk1Y6NHD6FBPA=="
 ---
 

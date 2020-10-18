@@ -9,8 +9,8 @@ ampWebUrl: "https://hbr.org/amp/2020/10/when-do-we-trust-ais-recommendations-mor
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/when-do-we-trust-ais-recommendations-more-than-peoples"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Harvard Business Review
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe Delivers Tools for AI-Driven Content Recommendations"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2020-10-13T16:56:00Z
-    webUrl: "https://www.cio.com/article/3585750/adobe-delivers-tools-for-ai-driven-content-recommendations.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/10/istock-886772948-100862032-large.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "DOD must pay more attention to building people’s trust in AI, researchers say"
     excerpt: "“Proper calibration” is critical, Konaev said, and to start to understand how to calibrate, the institution needs to devote more research dollars to the subject. Trust also comes with a technical component. Investing in parts of AI development that ..."
     publishedDateTime: 2020-10-16T19:25:00Z

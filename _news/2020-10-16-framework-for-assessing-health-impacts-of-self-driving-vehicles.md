@@ -36,6 +36,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
+  - title: "Researchers Develop Framework To Identify Health Impacts Of Self-Driving Vehicles"
+    excerpt: "However, less attention has been focused on the potential health impacts of self-driving vehicles. Texas A&M University researchers have developed a conceptual model to identify these health impacts systematically."
+    publishedDateTime: 2020-10-13T19:57:00Z
+    webUrl: "https://today.tamu.edu/2020/10/13/researchers-develop-framework-to-identify-health-impacts-of-self-driving-vehicles/"
+    type: article
+    provider:
+      name: AgriLife TODAY
+      domain: tamu.edu
+    quality: 19
+    images:
+      - url: "https://today.tamu.edu/wp-content/uploads/2020/10/CVEN-research-public-health-and-AVs-13October2020.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Researchers develop framework to identify health impacts of self-driving vehicles"
     excerpt: "Autonomous vehicles (AV) are the wave of the future in the automobile industry, and there's extensive discussion about the impacts on transportation, society, the economy and the environment. However,"
     publishedDateTime: 2020-10-15T19:37:00Z

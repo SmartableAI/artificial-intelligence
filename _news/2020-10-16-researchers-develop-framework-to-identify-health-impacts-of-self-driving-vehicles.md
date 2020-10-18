@@ -50,6 +50,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
+  - title: "Researchers Develop Framework To Identify Health Impacts Of Self-Driving Vehicles"
+    excerpt: "However, less attention has been focused on the potential health impacts of self-driving vehicles. Texas A&M University researchers have developed a conceptual model to identify these health impacts systematically."
+    publishedDateTime: 2020-10-13T19:57:00Z
+    webUrl: "https://today.tamu.edu/2020/10/13/researchers-develop-framework-to-identify-health-impacts-of-self-driving-vehicles/"
+    type: article
+    provider:
+      name: AgriLife TODAY
+      domain: tamu.edu
+    quality: 19
+    images:
+      - url: "https://today.tamu.edu/wp-content/uploads/2020/10/CVEN-research-public-health-and-AVs-13October2020.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "LakBdjKl8NqrrfWhMP43vb+zj6tz31LrmN6KaiBSkOeZGM3rzGTxSSS1/tCFMshXjiqFOtVeZyzmb5QLuM5ovnCj1CmrTty5+GsNKWyaalHx+9ecX9SRcgwUWuMB0uBjbkYyyJ7rSmfFDDRngVXIAd9YT3Xv6SCEWYqYLjpmzvwnUTAvsoe6NjEdg7LMMkoxAqrCI2lLGW5afEQWg4hqwUbhOSoKq06WMpjEFcENzEzOI4Juf0Yn2CSrXruZrQdi6835Ap3BRagTZE7tkMO2ZYB8Aw+OtfCXW05VRereHVfTdOaux4dGX6kYHbrCyfBMvHp2swsyKGpHBOvIuwCV4FMvwnFnOqnLzE7wZBD4Ckg61TxzJCkCTA+vLX1lHes2RosED1q0tJuUZ+Ob9uNepauzCbwnK2Fw+Ii503dpLwiOYUQcynrY4UFa8JA1CIVXEpj773dxQU8/tkREvcIiTWdZFmgAgFKeRxxfx5RBVIGB/1sg0m+ymCw+nHs8A8uQtct6DoA2HUb89bf57JBH2g==;bUCVDNPybRLMOyemP+3BEQ=="
 ---

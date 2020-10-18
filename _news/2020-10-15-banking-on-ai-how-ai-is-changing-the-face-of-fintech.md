@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financ
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "Global AI in Fintech - Market Outlook 2019 -2027: Market Accounted for $2,617.13 Million in 2019 and is Expected to Reach $35,230.1 Million by 2027, Growing at a CAGR of 38.4% ..."
-    excerpt: "Global Market Outlook (2019 -2027)\" report has been added to ResearchAndMarkets.com's offering. Global AI in Fintech Market accounted for $2,617.13 million in 2019 and is expected to reach $35,230.1 million by 2027,"
-    publishedDateTime: 2020-10-13T15:58:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201013005910/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20201013005910/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "1xypEVbjRSR3rlVPLNVd0+nsHYIwJuXWNqehWqYH9Ji4WvFhBxqU7nhgQCVkw3080WiZ4AsBpE9b1NjPgMcoqKXwtXb8lTPsew2ZXtZkNE7Hhl+RA9NZNmjJMWxZXFnIfv+tSfeZ6B7HKSJjL0N8pOS4YY/O3GSxXKEJsKYGiYJZTuj4AvQI4rv+itgN+gPjxgwsd9HHOY9wkK6lY3ZObkLKBE1GvkYnmEQHpS0Qr5z29w92Xv7QxIi1ZbdpM0/NWgGXQhELO7oF2LbaqlykffqnDNN2Babuk//INj804icwshCSu2jvMr1ONS2Xux0yJ+a/0ncVnuqGO2pqBMZZKQwnQZ+vtteov10QmBMJ2s4=;4Y/U2rv3ayPOy5wi/wZnwA=="
 ---

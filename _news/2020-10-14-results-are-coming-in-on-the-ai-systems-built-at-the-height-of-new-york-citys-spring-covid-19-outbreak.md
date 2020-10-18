@@ -54,20 +54,6 @@ related:
         width: 601
         height: 450
         isCached: true
-  - title: "Using Machine Learning to Calculate Unreported COVID-19 Cases"
-    excerpt: "Researchers at the Chan Zuckerberg Biohub are using machine learning to identify undetected cases of COVID-19."
-    publishedDateTime: 2020-10-13T15:28:00Z
-    webUrl: "https://healthitanalytics.com/news/using-machine-learning-to-calculate-unreported-covid-19-cases"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-181492494.jpg"
-        width: 700
-        height: 364
-        isCached: true
 
 secured: "lVDRAI4XXarHyI5PZvxUARD8M461l4WPrAZ7oUzyTthv/Fc7VJ4aRrYN34gk1Q9DYg8F1At0KV0UGn4GIWYb5ny2tyA5bgw0ntxKHohNQeYfPu9AM0V2si0Bg08q1Um34M82+98UROYiITtoOCmvV/ERhD6eyvN0GvN+gRqSMZO3YVrYGC5duDLrZQdL+DLBQ2T/ALINKwHLO+YmIlsTKgrgI2tU4wUWDJu/OkGSOzKKQY8mslC5Ef6u4+s/Qli8HTyhOq13Zgk782qeaacLvqSum9VBmwmK2DyV1y87d51rtXxOpWeemzP+jRB3PlPvmlGSG6fgFUPGLMJWrhZZPILt82F0SfzZ7L1/ZisVhdk=;1wW80AsBD1MShzse4ltE1g=="
 ---

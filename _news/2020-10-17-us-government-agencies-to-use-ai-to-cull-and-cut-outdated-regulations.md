@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27130L"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27130L"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -22,6 +22,19 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "U.S. government agencies to use AI to cull and cut outdated regulations"
+    excerpt: "The White House Office of Management and Budget (OMB) said Friday that federal agencies will use artificial intelligence to eliminate outdated, obsolete, and inconsistent requirements across tens of thousands of pages of government regulations."
+    publishedDateTime: 2020-10-18T05:42:00Z
+    webUrl: "https://www.businessinsider.com/us-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/us-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
 
 secured: "Em4o5eUq18jjVw2WHzsQcIxb72uFK+A9hE9JT2sBbQelv4cL2lahF6mVGIsYDWWah2wGAOh7MF+jq7jc9lLXYho4/NDpx1wiTha0aXzAMms32SgDEY19u5PZnOejlKO3ibGhfAFg3yo4dbvonBXYaV/E6IPfS8wosh7tdzapjNt2KpQ9c5URD1xiLcq829232G1jpqALiVm3x+yn+5G64PL0SDaN9N16xijTJhuHAGHkoy62wJeSmm20/myHC+VQeAtTTksr1DR1izEow8XrHefHRZpiDmQGOporIStQ4Xew4ERArtkuWmJm0IrFuBzJ2Azju4ohsVPe3UIJ9+A/nVOTj429+hVxG165Xlo7TnA=;j7N3Wo98Y6wa+1mq1E96hw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-data-activ
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Business Insider
@@ -26,21 +26,19 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft unveils efforts to make AI more accessible to people with disabilities"
-    excerpt: "Microsoft has announced a series of new efforts to make AI systems more useful for people with disabilities by developing more inclusive datasets."
-    publishedDateTime: 2020-10-13T15:09:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/13/microsoft-unveils-efforts-to-make-ai-more-accessible-to-people-with-disabilities/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/13/microsoft-unveils-efforts-to-make-ai-more-accessible-to-people-with-disabilities/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/13/microsoft-unveils-efforts-to-make-ai-more-accessible-to-people-with-disabilities/amp/"
+  - title: "Tisane Labs' Solutions on Microsoft Azure Add Wikidata Extraction Feature"
+    excerpt: "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft"
+    publishedDateTime: 2020-10-13T17:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 101
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-13T150649.322-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "IGse2nIbEH22S/oDxNhnOcONo6P3ZWIb4YnMTs1ow9ppWoxrBRAkf/MDVzpaDAjZKLKu1PI+ebP6LfUpEF2KdaXHRyvccpBFEmFazVcuP4L7K0Rn2dRfiA9a/MmXdmX0lCYQj3PA0/0K1KM9Hx/M7WlPGcNC5GjP1C4Gzklcp3vjTJnxXSPhxFBFjAVbqtGyt7zzrADZHpdsGbPm1rLZJOY28XOqZcRXLYRl70R3IBJHxrHjq5trh6ia9/hcb3s5fqJR0d5BVWLnmcQH1W33jWF3Cw8sQhNvbdMpePxt2GykM7no02LFvB/0VbBY8IpzUbgG4tLH7tLVonNcYq7Coqamr0Qx2xXwkOrTlGBQKSg=;a8noLJ2CB3Qt5uvROTs6mg=="
