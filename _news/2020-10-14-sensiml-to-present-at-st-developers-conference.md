@@ -1,29 +1,29 @@
 ---
 category: news
 title: "SensiML to Present at ST Developers Conference"
-excerpt: "SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, today announced that Chris Rogers, CEO and"
-publishedDateTime: 2020-10-14T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html"
-webUrl: "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html"
+excerpt: "They will walk through an example application showing the process start-to-finish, highlighting key opportunities, success stories, and even potential pitfalls of AutoML-based algorithm ..."
+publishedDateTime: 2020-10-14T15:00:00Z
+originalUrl: "https://www.finanzen.net/nachricht/aktien/sensiml-to-present-at-st-developers-conference-9391739"
+webUrl: "https://www.finanzen.net/nachricht/aktien/sensiml-to-present-at-st-developers-conference-9391739"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook"
-    width: 2059
-    height: 1079
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "SHrltD9DXN7WsytxNWWQIAagUdr6GgWeFYDcXHXI9g4lHWUcXX3aMkFaFEyZWI1yI1drXtLg3LxXr09RcIsS+unU9qJ+2AUEp1VGLm1dnQe4D11o4yLwukXXfHlT5iXtTBdri3VTQaAESK+8l0jwgAe9Zj8ZOe41e+XTYltD39gmF/bsGs3PiZpLgvEXSZRp3gbJxhocnh8fsY0aHVvFm2+dEQiznTWWcWVPerP7QOlXhfQ/xJBLl9bfkvD0ZcXM4cCDSdNfElj+xJFgKYV07oG04Ma5I54tfzzuXAPhXC/1mrRNi+gMlWT+bcCEAESYmI4nE9f5g0Jnp6eE8e7/ZDZrZa2GkhLKD/PGHvXoOHE=;cVIMyL7G2/ST2zXeuZ7+aQ=="
+secured: "lfwMtXLDADqgixMWlp4Fq/Q42UQK+HXfpy9hpmrmDmvRZSv0VY0Us4m0BTyPEsqijjVF3LV+wL3K8Vk1WzzSMLkr4AdpuOjA9ZDOQA1Uuc4JtY3e0IbMIwfdyN3oPIU3IaiB+mn2ndoBrTu0+UQp0InwiZO+Ft0+5bs57TMb+z+7xWrUq6H/Qcxepzio7YfXsgLjc1FOkG35txJ49F8DPoXGMT2v4y8wwEGibjq49knXG+eFqetHGvNcl9MThZSWsEx2DfxKIXWYQyKMzvR1e+WB5koNHMHJF9d65rG8t+KP3XyBCQC0oWoGiGjx/QbQyVdC+ze5bxMuLTu8PYxQ9XF7Z/9g4IchmZZDQGS5uYI=;+9XXeo8skvjGn88qNojHUg=="
 ---
 

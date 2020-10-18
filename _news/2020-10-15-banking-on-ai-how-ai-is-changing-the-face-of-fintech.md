@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financ
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 300
         height: 234
         isCached: true
-  - title: "Embedded Finance: What it is and What it Means for the Fintech Industry"
-    excerpt: "The fintech industry is always evolving. But one development in particular is generating significant buzz and market-wide revenue predictions to the tune of over $7 trillion in just 10 years. That development is embedded finance,"
-    publishedDateTime: 2020-10-14T00:51:00Z
-    webUrl: "https://www.finextra.com/blogposting/19418/embedded-finance-what-it-is-and-what-it-means-for-the-fintech-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "1xypEVbjRSR3rlVPLNVd0+nsHYIwJuXWNqehWqYH9Ji4WvFhBxqU7nhgQCVkw3080WiZ4AsBpE9b1NjPgMcoqKXwtXb8lTPsew2ZXtZkNE7Hhl+RA9NZNmjJMWxZXFnIfv+tSfeZ6B7HKSJjL0N8pOS4YY/O3GSxXKEJsKYGiYJZTuj4AvQI4rv+itgN+gPjxgwsd9HHOY9wkK6lY3ZObkLKBE1GvkYnmEQHpS0Qr5z29w92Xv7QxIi1ZbdpM0/NWgGXQhELO7oF2LbaqlykffqnDNN2Babuk//INj804icwshCSu2jvMr1ONS2Xux0yJ+a/0ncVnuqGO2pqBMZZKQwnQZ+vtteov10QmBMJ2s4=;4Y/U2rv3ayPOy5wi/wZnwA=="
 ---

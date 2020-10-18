@@ -25,36 +25,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Xilinx and Spline.ai use AI to enable COVID-19 detection at the edge"
-    excerpt: "Computer chipmaker Xilinx Inc. said today it has teamed up with an artificial intelligence startup called Spline.ai to create a medical X-ray classification model that it says is able to improve prediction rates for COVID-19 and pneumonia using AI at the edge."
-    publishedDateTime: 2020-10-14T00:24:00Z
-    webUrl: "https://siliconangle.com/2020/10/13/xilinx-spline-ai-use-ai-enable-covid-19-detection-edge/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "X-Ray classification deep-learning model"
-    excerpt: "The solution’s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically distributed inference, and the ability to ..."
-    publishedDateTime: 2020-10-13T23:59:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/x-ray-classification-deep-learning-model/231155/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 24
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/231155/Xilinx.logo.2019.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
-        isCached: true
-
 secured: "CbIP+I6KyL5yROTNtTn+TttCb8iZpyASEpmkPlOZrJUfdZq7FUJMMvtIyLzTIHKCkYJa69di4V5zLj3er0uelyci7awuMusnXWtY65jwd1Cs2kdr6nm00l3//vTgQyUPMKj9MA+jhuVkTa22nid1OCjpUnIjEhu43JtUJK4ZsDCz2trSt59d3u52pPGCJxAu7HxVJc2tb49elTUHCvEUsgH9CpQgTZSKNGhRMMnQFsK1Ssy9uIQ/XjiGD6dLSgC0ojLGydEi1wdEiQ0UGwFQZiTGVtsv/ur6swP+Hd1tUWWuGEB2UvrXYnOd6OWQ2nNPwvupTWSwZ6WjcER+eH+8O9vTA4qMkAjTOKOiAPY+TCE=;gAJucMJsk82vJ8+2qzAmiA=="
 ---
 

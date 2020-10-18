@@ -43,6 +43,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Harnessing AI to ease the stress of managing autism"
+    excerpt: "The protocols for the clinical trials had to be altered after covid, as hospital committees had to approve digital collection of video data remotely"
+    publishedDateTime: 2020-10-18T17:30:00Z
+    webUrl: "https://www.livemint.com/news/business-of-life/harnessing-ai-to-ease-the-stress-of-managing-autism-11603040643437.html"
+    ampWebUrl: "https://www.livemint.com/news/business-of-life/harnessing-ai-to-ease-the-stress-of-managing-autism/amp-11603040643437.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/business-of-life/harnessing-ai-to-ease-the-stress-of-managing-autism/amp-11603040643437.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
 
 secured: "k/y/kwtAVJdQu+mIEST3mrdZJ31TFMGuN03dWbO8VXKK0hFnkBolUzXN0+vJuQqKfFmMLYiIIdt4pT30NOiBk/0zevvY/sqvCtpFjaggrtwjGkMOd9tk7yMFCGRpSx7yfEJ6rKh6yDGwmW4yGHopKAFx1L+xbUvcuHdtMxpdTGqwkW0BX4OsiS7Q3Vuil4Ih2Qk3NMgMUK1kHSLigcvxlUJN+XwCwsyB3JdkbaP1hlfabSL1RH+ng3xZTibzCEfo+9lsILcHEajkrHUeOGIT3pW29MfqCmVVdz7vmMsm5GPRcs81+RU+vHvM7SgwoBrOcMAxz72ok4upvMVjmUVmJVdZ0GXkjdQ1Hi4OgqJnQ++iu9mwn/i1b1DMzbYY3taxX9Z8eWCw0NvKNjGJTKn9S2a1xCO+S9yfIC/UWJ6mR8uLgzB6C2k3a6kPQyw2KJmY5LKPNg+ERHJ/WrPRTg8VkcuVN7wLE3ICUQRpF85quryZKsfIchmXbhfu1Lo1+x6s9o+KeovwDYWv6Z+U2OjN7A==;jlJaYkb6+SpqMFPH5gvnxQ=="
 ---

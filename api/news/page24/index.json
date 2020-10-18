@@ -2,6 +2,50 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-09-25-vietnam-ai-platform-rules-language-programming-contest-in-japan.md",
+      "title": "Vietnam AI platform rules language programming contest in Japan",
+      "excerpt": "Vietnam's artificial intelligence platform FPT.AI ranked first at SHINRA2020-ML, a contest to classify 30 Wikipedia language entities in fine-grained categories, in Japan.",
+      "sourceUrl": null,
+      "webUrl": "https://e.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "originalUrl": "https://e.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-english.vnecdn.net/2020/09/25/Untitled118-1601018890-4769-1601019122_680x0.jpg",
+          "width": 680,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ampe.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "publishedDateTime": "2020-09-25T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VN Express",
+        "domain": "vnexpress.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-how-ai-and-technology-can-help-patients-manage-chronic-pain.md",
       "title": "How AI And Technology Can Help Patients Manage Chronic Pain",
       "excerpt": "Chronic pain can be a bewildering and life-altering problem. New technology, including AI-enabled tools, can help patients navigate the maze of chronic pain.",
@@ -1156,49 +1200,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-researchers-demonstrate-how-deep-learning-can-advance-study-of-neural-degeneration.md",
-      "title": "Researchers demonstrate how deep learning can advance study of neural degeneration",
-      "excerpt": "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. \"Having tools that allow us to identify these patterns of neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html",
-      "originalUrl": "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/232-researchersd.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-09-deep-advance-neural-degeneration.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-deep-advance-neural-degeneration.amp",
-      "publishedDateTime": "2020-09-24T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

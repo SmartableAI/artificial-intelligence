@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/worldwide-robotic-
 webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-robotic-lawn-mower-industry-to-2025-john-deere-robert-bosch-echo-robotics-among-others-1029687946"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,20 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "What Can I Do with an MS in Robotics: 7 Careers Defining the Industry"
-    excerpt: "Robotics is a broad industry, offering many exciting career opportunities for professionals from all backgrounds."
-    publishedDateTime: 2020-10-14T00:00:00Z
-    webUrl: "https://www.northeastern.edu/graduate/blog/robotics-careers-what-can-i-do-with-an-ms-in-robotics/"
+  - title: "Worldwide Artificial Intelligence Industry to 2026 - Featuring Intel, Xilinx & Samsung Among Others"
+    excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-10-16T22:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-artificial-intelligence-industry-to-2026-featuring-intel-xilinx-samsung-among-others-1029689939"
     type: article
     provider:
-      name: Northeastern University
-      domain: northeastern.edu
-    quality: 54
-    images:
-      - url: "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2020/10/Robotics-Careers-2.png"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "qg+zPBM/dhDx1AN2noLB9ltTrCxtqxR8RFDfRsX0nG5WwcUYfa3HZaNx8GEqAcJ7czcoBzFmJS19PyaAIsxhDNcod6XOfYTPdYLy/vQ/sT9J/E8gyTNOjSTp8VmgnvLLdpIZUaZxqLygbO6ASXPr726AvsdSAXhElpzu/qERTzpd05DxuWkwQCZMRMnB3zu/+1zd5atAgi+kaoencqNfzl9uUmJkrGtRuxmLxolX7Bd0RuhiuLmPfoDpSdJFRiiT9NAmYwcp8+RUlv10/ZPq+zEg/QoLcdLCA9oVXXVyYgydwuI8mecI8MtWCtSUzvuyvBVNplBlyZrWnSQaZdAbjZs3y51Frz6yiDNzCZzDnUo=;ZM/HrNIiLYQeoVzEQzTkUw=="
 ---

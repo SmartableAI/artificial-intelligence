@@ -64,20 +64,6 @@ related:
         width: 2201
         height: 2201
         isCached: true
-  - title: "Sparking a $1.8B deal: Dyno signs with Roche to create CNS therapies"
-    excerpt: "Privately held Dyno Therapeutics Inc., an early stage biotech company applying artificial intelligence to gene therapy, entered a collaboration and license agreement with Spark Therapeutics Inc. that could bring Dyno milestone payments exceeding $1."
-    publishedDateTime: 2020-10-14T00:00:00Z
-    webUrl: "https://www.bioworld.com/articles/498921-sparking-a-18b-deal-dyno-signs-with-roche-to-create-cns-therapies"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 24
-    images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/Research-and-science/stem-cells.png?height=355&t=1588878473&width=640"
-        width: 473
-        height: 355
-        isCached: true
 
 secured: "oteMfdmdxEmrqrS+SqfqmhNXPqdqkwPxypGTPeo6SGixwjnXENYWTpBi2zHxlBljRpsG3h4aMBAozO+oHTPsHW2/UyyRtXbcKSCIVxV+31/IgfXdWJAyEmPRtycOsA/AXQjUqIaYMdBU9O5EtbIcaE4bPSB0+PEtXrjsKQxGT5YeXcCGUeOZ2cM86txRhvKKE9DCABN3OiVd5ryoxhAuUXNBfJwSK+zKTt4u0J+fsIA13KWbEmtcJSSN0MRP5R1+O3NxsYjnjUJTqqn30hXTgXpC2BveGh5dmKw1gNrpIhWp2drqcgDwXfwdxf0Q2e6Pu27Ij1ySvhKgQ1JA3rJzJEbtoT8hVkthn3HoHP4TsA1PJvuE3hSyfNOpDEDRHCWz91OWmbDbpSLlrLiPcEs0e/KvFUIIYyrQEQ0+q0FqtZH1PzKpFSC4/Be968lLXvqQ2SxnkOfDpwh/lyng0b10Tz6OBj3uYElfPzfS5k9tOIoQ4r3fDgcz+qfRItn31O4qXpE2smbWylfYQCRoa5otjg==;8frfqgT7WxGMgQYo6jRmTg=="
 ---

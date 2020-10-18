@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/online-views/the-relentless-threat-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/the-relentless-threat-of-artificial-intelligence-taking-our-jobs-away/amp-11602776178980.html"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Harnessing AI to ease the stress of managing autism"
+    excerpt: "The protocols for the clinical trials had to be altered after covid, as hospital committees had to approve digital collection of video data remotely"
+    publishedDateTime: 2020-10-18T17:30:00Z
+    webUrl: "https://www.livemint.com/news/business-of-life/harnessing-ai-to-ease-the-stress-of-managing-autism-11603040643437.html"
+    ampWebUrl: "https://www.livemint.com/news/business-of-life/harnessing-ai-to-ease-the-stress-of-managing-autism/amp-11603040643437.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/business-of-life/harnessing-ai-to-ease-the-stress-of-managing-autism/amp-11603040643437.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
 
 secured: "VmzphjD3ssER+BdNDMQetQez1jDG0TZxG/4FRgaZQMmO+CAjmJ5ZWzhpSNdski+V04S2lHXj5osWCL1+g5XoWVzsq/UqX702ZM9FZQua6oEJCwtlH+zpQ6EF1siRD8/LeBs/W003r0Azo7yh6ShBEXlbN6r/hT/7eojRZID6tanRfpVurimZGACGTh6DQMz0y1rra2kcyfa2VjiBfJQJCsXoqzGuRe/3nSBlLQ2rw6X15plN8Lqm3GzyjZbykComHCZp6NsM0qGRu8N/qX0+kSUisKwnAO6n4KbAU0iHuiB1mVWeLbpp6JEnvH2oLiq5oidU0hE/33VR97UStfhYNeQdCenwRSEQ+/LCB/tICsDnIoHETNNHZPoHZ5rpro2kh6yzq4zq/oMVAC/8+7ai6O3tFjBhCrdL2fltkbUHlxQkmRi3srRvhoNI00LBNKk+N+yRVECr0hciI+93pRyps1rqFQJHMgL2NtrlENzU9moESqRdjfef88ECgxwPdhBw5sr/WgXINC22C6cT5y6VaQ==;cYHYMUNnLthDAtKLpTWMMw=="
 ---

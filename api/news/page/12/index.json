@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-06-sarcos-defense-awarded-contract-by-us-air-force-to-develop-smart-dexterous-robotic-systems-with-advanced-artificial-intelligence.md",
+      "title": "Sarcos Defense Awarded Contract by U.S. Air Force to Develop “Smart” Dexterous Robotic Systems with Advanced Artificial Intelligence",
+      "excerpt": "Sarcos Defense Awarded Contract by U.S. Air Force to Develop “Smart” Dexterous Robotic Systems with Advanced Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201006005424/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201006005424/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201006005424/en/827728/23/Sarcos_Vertical-blue_2019.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-where-artificial-intelligence-meets-urban-planning.md",
       "title": "Where Artificial Intelligence Meets Urban Planning",
       "excerpt": "First-year doctoral student is disseminating an AI program capable of changing the world of urban planning. Before you ever step into a new coffee shop, years of urban planning have gone into building that brick-and-mortar building in your neighborhood.",
@@ -1116,58 +1159,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-make-your-everyday-smarter-with-jacquard.md",
-      "title": "Make your everyday smarter with Jacquard",
-      "excerpt": "Technology is most helpful when it’s frictionless. That is why we believe that computing should power experiences through the everyday things around you—an idea we call “ambient computing.” That’s why we developed the Jacquard platform to deliver ambient computing in a familiar, natural way: By building",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/",
-      "originalUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-02_at_1.07.46_PM.max-1200x1200.png",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/atap/jacquard-samsonite-backpacks/amp/",
-      "publishedDateTime": "2020-10-05T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

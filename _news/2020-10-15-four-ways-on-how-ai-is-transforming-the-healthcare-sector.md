@@ -85,15 +85,6 @@ related:
         width: 300
         height: 234
         isCached: true
-  - title: "Embedded Finance: What it is and What it Means for the Fintech Industry"
-    excerpt: "The fintech industry is always evolving. But one development in particular is generating significant buzz and market-wide revenue predictions to the tune of over $7 trillion in just 10 years. That development is embedded finance,"
-    publishedDateTime: 2020-10-14T00:51:00Z
-    webUrl: "https://www.finextra.com/blogposting/19418/embedded-finance-what-it-is-and-what-it-means-for-the-fintech-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "GvN3aFHR1B3H3P+eo5QVCLY3zMhe6daZDHuGaM8f0cS+Z+/xsTSZSoawS4mWn3rmHNmuGERo5JRYHzg/qd+uKxC5K5DvRNwo3uJLx/JjJwcdtfzKOYAskOmsrSodQ5SDsoH/18VvfCRXNYW9FY+FAZrGaq5zvew1T0bav/7kVvseyhmDejL7AHy5dbMvjsqNYfauBQFrh6ygtw8mC5OaGsZ/+F+jeSmphYdkQqw4alJ1p6YrFHF9KO5GY+ZdegFShzO0ucIxPqpPw0Fnrt+FPQ5Z5mDyc9XB9P220xuI8TZuygU+kfqT/M/iM0Vu6aZRZo7vUX6SN4FUMtgTs50H0SlGpMRXRaI3iRcAf9ePk2ZhtwHsBDHRLL11qu3ZzYdSEluVabLn2HW//JVIFUy4zyzbBwwfpoE7cfMc692QnZ5SHQdnlx5IdkB5hvqSTRG/b3cSNlzzv9Veood5uWT0/MUHZr58zhTP6WziUiJprcK8V8XYsasWTJ8xwlb7xU3L1irJGLtFKNHjbcEAnMar0Q==;ByVAMnEOviZHk9cABd3X/A=="
 ---
