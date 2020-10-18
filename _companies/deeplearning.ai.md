@@ -2,7 +2,7 @@
 name: "deeplearning.ai"
 overview: "deeplearning.ai is making a world-class AI education accessible to people around the globe. deeplearning.ai was founded by Andrew Ng, a global leader in AI."
 type: "profile"
-heat: 317
+heat: 233
 
 website: https://deeplearning.ai
 
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "fAXlnEC83gqUwCS4ADb+l0tdBfpGRiL5ScryRZ/e6sWFSOsKzy/9k8AepDrr1K1FqEgMEbHLu57MzCAwxLBqy4ftblSKqV3SCOM88wHvd3HNk87PqKuORuoglu3rOqTwptg9CAYb1RdnvsJWnS4rJXVgZir/W+ow2MEdrnhMJehJPFF5z/l7tf70iS9ZdztfarcbNS2v9wA62w58PP56c6MLYn5rjugtbKZoJiyp1MSbcwcY6JAlS16aZI/rZ9NVPimbBQMkiyeqld0VzptiZz2h3BCsRKEsb8NFWiq7k0KyC7MjNBd5bIvoZvv6iCk8pjwG8b5fTMmUzw+z+k/rUCYrWNCAVQay8BZxF8Vho64u7Glfof2riR64PiEc/ZWNuOrKNUuinkCEuU8scQh3VGMa4zMfU7cR1FW1K2DPJ9g=;wnC1mgORerOJI6437VfXVg=="
+secured: "OyAlwoetMmGH3h+K/ERURISdQZzjPhDqXfKf/i8dLu0Fzi+hIIKyXnBsK5zqWFqW91CaGyRlmFisCmRxw0CrHoXvNE3YaC99b81PWOh9rKMNw97AXjzDvTvEmroBW6X7lgzkR/zpuBBeIq2/ozKN+BRGaEZllIXGS7WxqfQ9de6JWt4pNVacvvZjN1gJGnaSEhcAjFEXF5FpWNY9xLWlwceRRFq7COGCipYFvfaAqC6xQBhC7UZSVEFbX8/QMPymg+C99bImObeY+qWs0Q6RXyOyME2Ak4mPhreI4Minw4dD8gzBx0Vjq/QVePs/rvepUH92Li99DE1wup3I+IldAf7Z5/FJ469+ApUMK9lzTck1aUkMEKqAD0hRtnyfNw5eUq6/3ac+hDWrqHxMPELAmccGHdUgiCEYSTTvQRDKFq8=;xKVEqnjel1HGdPuctMWB3A=="
 ---
 
