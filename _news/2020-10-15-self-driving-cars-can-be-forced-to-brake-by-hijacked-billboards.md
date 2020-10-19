@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-cars-can-be-fo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ topics:
   - AI
 
 related:
+  - title: "Velodyne Is Poised to Be a Winning Self-Driving Play"
+    excerpt: "And both advanced driver-assistance systems (ADAS) and fully autonomous vehicles are poised to proliferate in coming years. Thus, Velodyne’s financial results are set to surge long term. Velodyne CEO Anand Gopalan told Bloomberg that the company’s customers have “tremendous momentum” when it comes to commercializing their ADAS and autonomous-driving systems."
+    publishedDateTime: 2020-10-15T17:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Self-Driving Car Subway Planned For Las Vegas Strip"
     excerpt: "(CNN0 – The work on a subway for self-driving cars in Las Vegas could expand; courtesy of businessman Elon Musk. Musk’s company; the Boring Company is already building a underground tunnel loop in the city."
     publishedDateTime: 2020-10-16T06:57:00Z

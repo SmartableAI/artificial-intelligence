@@ -36,6 +36,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
+  - title: "Velodyne Is Poised to Be a Winning Self-Driving Play"
+    excerpt: "And both advanced driver-assistance systems (ADAS) and fully autonomous vehicles are poised to proliferate in coming years. Thus, Velodyne’s financial results are set to surge long term. Velodyne CEO Anand Gopalan told Bloomberg that the company’s customers have “tremendous momentum” when it comes to commercializing their ADAS and autonomous-driving systems."
+    publishedDateTime: 2020-10-15T17:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Cruise to test unmanned self-driving vehicle fleet on San Francisco streets"
     excerpt: "Cruise, the creator of the red and white self-driving vehicles that have become commonplace in San Francisco, announced Thursday it had received permission to test its driverless cars without an in-person backup on public roads statewide. More akin to ..."
     publishedDateTime: 2020-10-15T21:33:00Z

@@ -29,6 +29,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
+  - title: "A global collaboration to move artificial intelligence principles to practice"
+    excerpt: "Convened by the MIT Schwarzman College of Computing, the AI Policy Forum is a global collaboration to move AI principles to practice."
+    publishedDateTime: 2020-10-19T18:21:00Z
+    webUrl: "https://news.mit.edu/2020/global-collaboration-moving-ai-principles-to-practice-1019"
+    type: article
+    provider:
+      name: news
+      domain: mit.edu
+    quality: 64
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202010/MIT-AIPF-global-AI.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "ZX6Ux0Ua7boa1cSn15UyHSeD/T3Gq/SLESv5DK0jBsahR4oR2HKFEgHdvyecBpFtZuk1MlHL+4W2TP0gF5xv01O1muYNXWsz8G2IaCLUe97olKYNC0Tct76+JkA41msd5YTY7T3QDUclJcI1g9nEz7shSoHevljGILEMqwTmhycyfhrr/ocFmMeeosaNhbC9i/ZqmyTP5z/b4cXtxVmCWPawjugqvbyfbo4AKshNQlAVuzZ36P1672x/WqFgiiJQUsRpuPecPh2yAECquTVM0UmJ6ZWMD7fn+jQxVGu8yu4oPfNUf7om0Je0iapuuQB3OwZCnQhAtWZ/t232q7n256WAazHAsF1aOh1yy54HH5w=;HQw8l7gk7MYYJboYBktRbg=="
 ---

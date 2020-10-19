@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-19-6-fintech-trends-that-will-redefine-the-future-of-finance.md",
+      "title": "6 fintech trends that will redefine the future of finance",
+      "excerpt": "November’s fully virtual Hong Kong FinTech Week features expert speakers, who will share their insights into Fourth Industrial Revolution",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast-track/article/3105520/6-fintech-trends-will-redefine",
+      "originalUrl": "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast-track/article/3105520/6-fintech-trends-will-redefine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/19/692f0fae-0df0-11eb-94e0-02af7fd927c6_image_hires_094836.jpg?itok=BWqBzU0p&v=1603072142",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-banking-on-ai-how-ai-is-changing-the-face-of-fintech.md",
       "title": "Banking on AI: How AI is changing the face of Fintech",
       "excerpt": "A recent study by McKinsey suggested that by 2022, over 30% of the tasks in the Fintech sector would be taken over by machines.",
@@ -1331,50 +1383,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-fincen-files-show-banks-use-of-ai-and-machine-learning-effective-in-kycaml.md",
-      "title": "FinCEN Files Show Banks’ Use Of AI And Machine Learning Effective In KYC/AML",
-      "excerpt": "Documents submitted to FinCEN show that several of the largest global banks moved money on behalf of those involved in criminal financial activity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/",
-      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2019/05/FinCEN-guidance-virtual-currencies-cryptocurrency-457x319.jpg",
-          "width": 457,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/amp/",
-      "publishedDateTime": "2020-09-21T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

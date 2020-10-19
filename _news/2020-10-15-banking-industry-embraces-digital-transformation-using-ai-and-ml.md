@@ -56,6 +56,20 @@ related:
         width: 900
         height: 521
         isCached: true
+  - title: "5 ways machine learning can improve patients' experience and outcomes"
+    excerpt: "Artificial intelligence and machine learning improve processes though data-driven insights and automation. These tools are becoming increasingly integrated into healthcare, but their adoption on the clinical front line remains slow."
+    publishedDateTime: 2020-10-19T17:11:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/5-ways-machine-learning-can-improve-patients-experience-and-outcomes.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "plaONiyvFw+uDmGgYEE/LpR0Jf6KDKarp4q863lqf7NJsd61MtPDQy4/K02olokPc0ObgdEJh1VjKnfq9zKFs3dUCM6MJdQoHCRn4XjVeO2ARSl53lobY/3PMQp3dK5b+QxkyxI5V4ArLZUMAvgJq8m7pZYKsTmZ6xfzY3FTbmwdPI9YvrZczJPpEvWTasKfMMQbsNGkou24xeGbrKYWJOPOWL74Cgvuo7E/9Cg/D5eF9v2g0P2urjYHeIs9Q40YcZOyllJf1ijoq5Gt+dOag6llUbS2tNAXEOqZ91Y2jmgtjN2ONbOTBCCGLvK/Gjb8Pax/I+xgGnw9wnGILN35SepavmgZaNi5ibFdqnvAPbkyejoyfGNrJ1rYxEzDXMM6uq+pW3O3vCrOc4w/qzwZlYV0Lzvm3CPl9fJxcQ3LLqIRsy1NRXo0rcFogcqI4bqTk9gcy+AlSuRA4JprC+lXBX4ybdNT7gXf3zLuBUYhqnuPssEfZgujIXuXPQuj8tWqfkqhdzbuZbxtDzlBxRG/BA==;O/2Sjc/ZVVOkl7GUaSa4UA=="
 ---

@@ -73,6 +73,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Microsoft releases an image-captioning AI algorithm"
+    excerpt: "Microsoft makes decoding words, pictures, events and familiar people on social media an easier task for visually impaired people with their accurate AI-captioning technology."
+    publishedDateTime: 2020-10-19T17:55:00Z
+    webUrl: "https://www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/"
+    ampWebUrl: "https://www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/amp/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 74
+    images:
+      - url: "https://www.technowize.com/wp-content/uploads/2020/10/Microsoft-releases-image-captioning-AI-option-1.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "4RK0y0oFnUNnyIe9ZQI36BIQNVVRpq1gjKnNNpOTIg3Fn5bkNWwC5tQZw0kt92jgvhGKVZxNrV/vK7AZIbnxk6rv3e4gRKlO/GS35+PtSmI7G80BSw88/7G5dYgpQD2dbcoOpzYuOax5Ga3i0g/iwfgf6IUiYHP4mjiA6TQEN/aWIswISqNKPYMGq6ihZrtNwt1fpCWOewVJD1B0G/tjkT1sjvhhWK2b99UYw1LC+dkA45Q2c/D9qD3gxmvyqQ1EwNj0BdbpZLNXQTGnIfHRugkPjjK0iPDPEvMM3SPaF/tUIiEYPsmpEw2oPFSxr/kAC/igIke91+NUkytM0gjgfIlwN5ouPvxnyI/wXrW9dBS8RJ2dyJoiAPgXefZx7SZ44LUnr7qvxJgVv/U0dJvNm01W0iActQll3GUi91ziSjhyGHSHJNeg+PnfTrZF2j+yOVSqOZP8oC2AX/q1up2IgPZ8s/O21KG6cfr9OuSA5cV6SAEh6G3gHigb7+Js0h2+3+zD8Qjc87KPEupW3jJOuA==;f//Eqd9vYTdi972nv0Cefw=="
 ---

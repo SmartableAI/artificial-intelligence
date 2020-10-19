@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-24-robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd.md",
-      "title": "Robust Autonomous Navigation Based on Artificial Intelligence Approaches PhD",
-      "excerpt": "This is an excellent fully-funded PhD opportunity in the area of autonomy, navigation, and artificial intelligence, aiming to pave a way to wider implementation of autonomous systems, such as drones or self-driving cars into our everyday life. Although ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/",
-      "originalUrl": "https://www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/www.suasnews.com/wp-content/uploads/2019/07/201907CASCADE-June-testingplanes800x450.jpg?fit=800%2C450&ssl=1",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/amp/",
-      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/amp/",
-      "publishedDateTime": "2020-09-24T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SUAS News",
-        "domain": "suasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-24-where-are-all-the-self-driving-cars-we-were-promised.md",
       "title": "Where are all the self-driving cars we were promised?",
       "excerpt": "Join us at TNW2020 where we will discuss the future of autonoous driving and how we can make it safe with industry experts.",
@@ -1386,6 +1343,40 @@
       "provider": {
         "name": "Global Times",
         "domain": "globaltimes.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing.md",
+      "title": "Baidu (BIDU) Expands Apollo Go Robotaxi Service to Beijing",
+      "excerpt": "The company recently revealed that the Apollo Go Robotaxi service is now available in Beijing, China’s capital. The service covers about 700 kilometers across China, and features about 100 pick-up and drop-off stations across several residential as well as business areas in the Yizhuang,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15?amp",
+      "publishedDateTime": "2020-09-15T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

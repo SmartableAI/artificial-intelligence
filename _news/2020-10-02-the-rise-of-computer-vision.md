@@ -2,29 +2,25 @@
 category: news
 title: "The Rise of Computer Vision"
 excerpt: "These days, we’re producing more visual data than ever before. With revenues from computer vision expected to soar into the billions over the next few years, many organizations have already ..."
-publishedDateTime: 2020-10-02T14:07:59Z
-originalUrl: "https://www.infoworld.com/resources/208956/the-rise-of-computer-vision"
-webUrl: "https://www.infoworld.com/resources/208956/the-rise-of-computer-vision"
+publishedDateTime: 2020-10-02T15:32:00Z
+originalUrl: "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision"
+webUrl: "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision"
 type: article
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "14YWLSGdCdhUM5EFVTFxrgu2UKaZZx64ZIQ1P+99sEuGLOKAJwgwOULaFd8OMz54TITGZGdiXwCBCf4hqv+TmUGUWaP/mcn7Q8arU2k9YkhUoCL/UUMeJZzyaYmLFG8l/0n0j6KS/UGn4HOl/ycbLJqkrSWb+CHU5Qx1X9fC6nGhAWsPMq0jiH2K9vcxIdJGd58Fx5nKugcFHQVrIWFQFamMFpW00loopZ/Lnm/DqojrqLWyMPP/cIqcHFgDxfgk9NRLMeDAp0IHcsgCXm04abr4+GA0SMcR8leo9vu4mH91A+NRazSoyyzMSJbmS7lOmplVM4jKVhnlSNSphPQtWvxkUD37xtCTi2bcQ+3mit8=;HB0Pppi8BxLy78ehpKbmbg=="
+secured: "c48Mxpm61fvq/LTMnoyksJTJ/pfrtTS6BdAkUm7/rP0k8FfG+Z8rWW9K+cIWHm8yav8wjF2QKLsEYX6P3q4mEI22hZzutzo/UKwseJuWnpFBnrMxSZrFFvwEsWFUc57c5Ls0NqIGYbYSVzzGEuFh+Ix8O99vch8CmYYz2EWefsPF10jA/eV45VgwJvIbSa/QoHF3GoNYmSacB1rLgPIt8pe6yeFhvaHiap7nAQZG58Sc+uB/t84OCzh3RyC8Y/0Kq/UIHeMoP7IAI8j4tVCoqK0eyqT6sKQ3gVMBpZWIRjgqk8gwik/tE6b68GM0LePc7DXJfaikhLrIbcHQG6ZvXjSydVIm2UwWd0rcZoUpU/U=;uTuRElT0wIE+Skhd5o3QMQ=="
 ---
 

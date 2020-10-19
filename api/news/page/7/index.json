@@ -2,6 +2,308 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-13-drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia.md",
+      "title": "Drone maker Delair spins out its computer vision platform to create Alteia",
+      "excerpt": "In a recognition of how the drone business has shifted in recent years, Delair announced today that it will spin out its drone-data platform into a separate company called Alteia. The new company ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/",
+      "originalUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/Delair.ai_Tablet-e1602535031922.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/amp/",
+      "publishedDateTime": "2020-10-12T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-new-bbc-microbit-supports-ai-and-machine-learning-adds-speaker-and-microphone.md",
+      "title": "New BBC micro:bit supports AI and machine learning, adds speaker and microphone",
+      "excerpt": "(Pocket-lint) - The BBC micro:bit is a clever little piece of technology designed to help people learn to code on the small scale. The original was launched in 2016 - with 5 million in use across 60 countries - and there's a new version 2 that's going to be available from mid-November.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pocket-lint.com/gadgets/news/bbc/154182-new-bbc-micro-bit-support-ai-and-machine-learning-adds-speaker-and-microphone",
+      "originalUrl": "https://www.pocket-lint.com/gadgets/news/bbc/154182-new-bbc-micro-bit-support-ai-and-machine-learning-adds-speaker-and-microphone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/154182-gadgets-news-microbit-image1-v8ibatqlyh.jpg",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pocket-lint.com/gadgets/news/bbc/154182-new-bbc-micro-bit-support-ai-and-machine-learning-adds-speaker-and-microphone.amphtml",
+      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/gadgets/news/bbc/154182-new-bbc-micro-bit-support-ai-and-machine-learning-adds-speaker-and-microphone.amphtml",
+      "publishedDateTime": "2020-10-12T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pocket-lint",
+        "domain": "pocket-lint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk.md",
+      "title": "Australian and New Zealand scientists use AI to predict heart disease risk",
+      "excerpt": "Scientists from the University of Melbourne and University of Otago have jointly developed and trained an artificial intelligence (AI) system to predict a person's risk of cardiovascular disease (CVD) by looking at the retinas of their eyes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
+      "originalUrl": "https://www.zdnet.com/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2018/03/21/e73671aa-bc24-416f-8438-c99c8a8c2675/screen-shot-2018-03-21-at-15-44-24.jpg",
+          "width": 1092,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
+      "publishedDateTime": "2020-10-12T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-the-next-generation-of-artificial-intelligence.md",
+      "title": "The Next Generation Of Artificial Intelligence",
+      "excerpt": "What will the next generation of artificial intelligence look like? Which novel AI approaches will unlock currently unimaginable possibilities in technology and business? This article highlights three emerging areas within AI that are poised to redefine the field—and society—in the years ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84f4978d786028fac3acbb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-10-12T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-nym-health-raises-165-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing.md",
+      "title": "Nym Health raises $16.5 million for its auditable machine learning tools for automating hospital billing",
+      "excerpt": "A little less than two years after raising its seed round, the Israeli-based Nym Health has added another $16.5 million to its cash haul so it can roll out its technology developing auditable machine learning tools for automating hospital billing.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/",
+      "originalUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1211152561.jpg?w=713",
+          "width": 713,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/amp/",
+      "publishedDateTime": "2020-10-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-adobe-puts-artificial-intelligence-tools-into-its-marketing-software.md",
+      "title": "Adobe puts artificial intelligence tools into its marketing software",
+      "excerpt": "Adobe Inc <ADBE.O> said on Monday that it has put a new set of artificial intelligence tools into its digital marketing software with the aim of helping companies sharpen their marketing campaigns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-adobe-ai-idUKKBN26X24O",
+      "originalUrl": "https://www.reuters.com/article/us-adobe-ai-idUKKBN26X24O",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537156171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B19R",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN26X24O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26X24O",
+      "publishedDateTime": "2020-10-12T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs.md",
       "title": "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs",
       "excerpt": "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ...",
@@ -935,291 +1237,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-ai-is-throwing-battery-development-into-overdrive.md",
-      "title": "AI Is Throwing Battery Development Into Overdrive",
-      "excerpt": "Improving batteries has always been hampered by slow experimentation and discovery processes. Machine learning is speeding it up by orders of magnitude.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/",
-      "originalUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f80cab2941317efa4fcd52b/master/pass/Sec_lithiumion_1159460136.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/amp",
-      "publishedDateTime": "2020-10-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-on-heels-of-100m-funding-round-olive-expands-healthcare-ai-capabilities.md",
-      "title": "On heels of $100M funding round, Olive expands healthcare AI capabilities",
-      "excerpt": "Healthcare software startup Olive is expanding its artificial intelligence capabilities to assist healthcare workers with day-to-day tasks like prior authorizations and insurance verifications. The company's new Olive Helps platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities",
-      "originalUrl": "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercehealthcare/1602270586/GettyImages-899023542.jpg/GettyImages-899023542.jpg?s6QSCLVsKF0j8yq07lPNxxduzW8zU.ex",
-          "width": 6584,
-          "height": 4395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fierce Healthcare",
-        "domain": "fiercehealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-intels-hyderabad-ai-centre-to-focus-on-road-safety-health.md",
-      "title": "Intel’s Hyderabad AI centre to focus on road safety, health",
-      "excerpt": "Hyderabad, Oct 12 (IANS) Chip-making giant Intel on Monday said its newly launched applied Artificial Intelligence (AI) research centre in Hyderabad will focus on identifying and solving challenges in the healthcare and smart mobility segments through strong ecosystem collaboration.",
-      "sourceUrl": null,
-      "webUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/",
-      "originalUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsd.in/wp-content/uploads/2020/10/7d5acabd43d2a9d0db88a1ae63b5211f.jpg",
-          "width": 400,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/",
-      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/",
-      "publishedDateTime": "2020-10-12T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsd",
-        "domain": "newsd.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects.md",
-      "title": "AI And Machine Learning Provide Challenges And Opportunities For Data Center Architects",
-      "excerpt": "The ability to share high-speed NVMe flash storage resources can no longer match the performance required to effectively calculate that data in real time for AI+ML operations. Graphics processing (GPU) resources that can calculate data three-dimensionally ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37d1bb8beb90007c3a7d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/",
-      "publishedDateTime": "2020-10-12T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-robotic-interviews-machine-learning-and-the-future-of-workforce-recruitment.md",
-      "title": "Robotic Interviews, Machine Learning And the Future Of Workforce Recruitment",
-      "excerpt": "These would affect all aspects of HR functions such as the way HR professionals on-board and hire people, and the way they train them",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357593",
-      "originalUrl": "https://www.entrepreneur.com/article/357593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602496955-artificial-intelligence-2167835.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357593",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357593",
-      "publishedDateTime": "2020-10-12T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-robotics-startup-miko-raises-inr-23-cr-from-stride-ventures-angel-investors.md",
-      "title": "Robotics Startup Miko raises INR 23 Cr From Stride Ventures, Angel Investors",
-      "excerpt": "This infusion comes after the startup had raised INR 15.98 Cr from investors such as WNS group CEO and NASSCOM’s chairman Keshav Rurugesh, Inderjit Kaur Arora, Suresh Subramani, Giridhar Sanjeevi and a few others last year.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/miko-raises-inr-23-cr-from-stride-ventures-angel-investors/",
-      "originalUrl": "https://inc42.com/buzz/miko-raises-inr-23-cr-from-stride-ventures-angel-investors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-11-1.jpg",
-          "width": 1020,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/miko-raises-inr-23-cr-from-stride-ventures-angel-investors/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/miko-raises-inr-23-cr-from-stride-ventures-angel-investors/amp/",
-      "publishedDateTime": "2020-10-12T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

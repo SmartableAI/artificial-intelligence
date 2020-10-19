@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Banking on AI: How AI is changing the face of Fintech"
-    excerpt: "A recent study by McKinsey suggested that by 2022, over 30% of the tasks in the Fintech sector would be taken over by machines."
-    publishedDateTime: 2020-10-15T02:29:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 74
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "6 fintech trends that will redefine the future of finance"
     excerpt: "November’s fully virtual Hong Kong FinTech Week features expert speakers, who will share their insights into Fourth Industrial Revolution"
     publishedDateTime: 2020-10-19T12:40:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/19/692f0fae-0df0-11eb-94e0-02af7fd927c6_image_hires_094836.jpg?itok=BWqBzU0p&v=1603072142"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Four Ways on how AI is Transforming the Healthcare Sector"
-    excerpt: "This AI ability is becoming a critical factor in diagnosis, treatment, care delivery, results, and cost. Here are four ways AI is significantly changing the healthcare sector: AI in healthcare can be implemented to automate phishing."
-    publishedDateTime: 2020-10-15T13:53:00Z
-    webUrl: "https://www.cioapplications.com/news/four-ways-on-how-ai-is-transforming-the-healthcare-sector-nid-6662.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/2howe450.jpg"
-        width: 450
-        height: 308
         isCached: true
   - title: "Will fintech change the face of banking?"
     excerpt: "Fancy new apps have become popular for everything from making a payment to buying insurance and shares. Should the big banks be worried? Simon Wilson reports."
@@ -100,6 +70,20 @@ related:
       - url: "https://www.businesstimes.com.sg/sites/default/files/styles/article_img/public/image/2020/08/06/nz_philippines_060820.jpg?itok=LHDtmRW7"
         width: 440
         height: 293
+        isCached: true
+  - title: "OJO Labs acquires fintech startup Digs"
+    excerpt: "The move brings OJO Labs closer to its stated goal of aiding consumers throughout the entire homeownership journey"
+    publishedDateTime: 2020-10-15T13:17:00Z
+    webUrl: "https://www.inman.com/2020/10/15/ojo-labs-acquires-fintech-startup-digs/"
+    type: article
+    provider:
+      name: Inman
+      domain: inman.com
+    quality: 24
+    images:
+      - url: "https://webassets.inman.com/wp-content/uploads/2020/10/Untitled-design-2020-10-14T113852.799-1400x787.jpg"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Three things to help fintech unicorns grow profitability"
     excerpt: "By Kash Amini, CEO and Founder of MasLife The new breed of fintech companies is missing a trick with a massive market opportunity. Lack of customers isn’t the problem – profitability is. CEO and Founder of health and finance app MasLife Kash Amini suggests that there are three key ingredients neobanks lack in their journey"

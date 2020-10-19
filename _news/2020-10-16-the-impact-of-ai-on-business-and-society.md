@@ -3,10 +3,10 @@ category: news
 title: "The impact of AI on business and society"
 excerpt: "In July, the Financial Times Future Forum think-tank convened a panel of experts to discuss the realities of AI — what it can and cannot do, and what it may mean for the future. Entitled “The Impact of Artificial Intelligence on Business and Society”,"
 publishedDateTime: 2020-10-16T03:00:00Z
-originalUrl: "https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c"
-webUrl: "https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c"
+originalUrl: "https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c?via=indexdotco"
+webUrl: "https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c?via=indexdotco"
 type: article
-quality: 43
+quality: 39
 heat: -1
 published: false
 
@@ -15,10 +15,8 @@ provider:
   domain: ft.com
 
 topics:
-  - AI in Robotics
-  - AI
-  - AI Ethics
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5246fd70-6619-4c99-8d72-03875cac0f46.jpg?source=next-opengraph&fit=scale-down&width=900"
@@ -54,7 +52,21 @@ related:
       name: Mint
       domain: livemint.com
     quality: 39
+  - title: "Empowering Farmers Through Root AI, with Josh Lessing"
+    excerpt: "In this episode, Abate interviews Josh Lessing, co-founder and CEO of Root AI. At Root AI they are developing a system that tracks data on the farm and autonomously harvests crops using delicate grippers and computer vision."
+    publishedDateTime: 2020-10-19T18:05:00Z
+    webUrl: "https://robohub.org/empowering-farmers-through-rootai/"
+    type: article
+    provider:
+      name: Robohub
+      domain: robohub.org
+    quality: 39
+    images:
+      - url: "https://robohub.org/wp-content/uploads/2020/10/root_ai-1024x585.jpg"
+        width: 1024
+        height: 585
+        isCached: true
 
-secured: "k/y/kwtAVJdQu+mIEST3mrdZJ31TFMGuN03dWbO8VXKK0hFnkBolUzXN0+vJuQqKfFmMLYiIIdt4pT30NOiBk/0zevvY/sqvCtpFjaggrtwjGkMOd9tk7yMFCGRpSx7yfEJ6rKh6yDGwmW4yGHopKAFx1L+xbUvcuHdtMxpdTGqwkW0BX4OsiS7Q3Vuil4Ih2Qk3NMgMUK1kHSLigcvxlUJN+XwCwsyB3JdkbaP1hlfabSL1RH+ng3xZTibzCEfo+9lsILcHEajkrHUeOGIT3pW29MfqCmVVdz7vmMsm5GPRcs81+RU+vHvM7SgwoBrOcMAxz72ok4upvMVjmUVmJVdZ0GXkjdQ1Hi4OgqJnQ++iu9mwn/i1b1DMzbYY3taxX9Z8eWCw0NvKNjGJTKn9S2a1xCO+S9yfIC/UWJ6mR8uLgzB6C2k3a6kPQyw2KJmY5LKPNg+ERHJ/WrPRTg8VkcuVN7wLE3ICUQRpF85quryZKsfIchmXbhfu1Lo1+x6s9o+KeovwDYWv6Z+U2OjN7A==;jlJaYkb6+SpqMFPH5gvnxQ=="
+secured: "M3nLdRoh5A/y0EhAdcIK4f+Kd5HyDlyzoQaE1kDmOyUIIPf190L/K3rx3YBWbO+YFU6e7KIRiKJlj1ZGAodlz5fTo9oGLivu4EACgjSzZBJsGVAj1JcOAD50BqaVMm9XX4V7bz2DolOb2mBRfnuiSgvKEdRcsPZVC3IdBkJOLH0g9FfPt6cKqwgp0z097ywg4FMzyUrlOr5FDefzXccBTTP/RpLBmwgHULI2jyBNxPrQsrEgG/kiN1J7THPygEor8FZ4NSwb1Qvgt5sOIvch+3v8mnQHtatArVxwVZfmB1fG4qOZApwH8zLNFe+Swen7132AcPAwn9TWojWAsG0iPoWaEuhUKOTVUs1lZe5e3ks=;9Ky5+HJGQXPJEmXQzvdwVA=="
 ---
 

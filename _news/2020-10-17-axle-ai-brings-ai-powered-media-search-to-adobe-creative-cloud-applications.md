@@ -69,6 +69,22 @@ related:
         width: 730
         height: 431
         isCached: true
+  - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
+    excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
+    publishedDateTime: 2020-10-19T19:00:00Z
+    webUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/"
+    ampWebUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/google-cloud-lending-ai-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "Google’s Lending DocAI service uses AI to fast-track mortgage applications"
     excerpt: "Google LLC is jumping into the mortgage industry with the launch of a new artificial intelligence-driven cloud service aimed at helping lenders reduce the time it takes to process loan applications. Announced today,"
     publishedDateTime: 2020-10-19T13:22:00Z

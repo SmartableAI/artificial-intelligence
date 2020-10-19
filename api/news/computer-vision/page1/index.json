@@ -1441,21 +1441,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-the-central-role-of-computer-vision-in-multiexperience.md",
-      "title": "The Central Role of Computer Vision in Multiexperience",
-      "excerpt": "Computer Vision technologies – such as object recognition, facial recognition, image to text, and image comparison – can enhance the customer experience by saving time and effort. These technologies can be implemented in assisted service mode – to ...",
+      "path": "_news/2020-10-02-the-rise-of-computer-vision.md",
+      "title": "The Rise of Computer Vision",
+      "excerpt": "These days, we’re producing more visual data than ever before. With revenues from computer vision expected to soar into the billions over the next few years, many organizations have already ...",
       "sourceUrl": null,
-      "webUrl": "https://customerthink.com/the-central-role-of-computer-vision-in-multiexperience/",
-      "originalUrl": "https://customerthink.com/the-central-role-of-computer-vision-in-multiexperience/",
+      "webUrl": "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision",
+      "originalUrl": "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-487560462-ctmedia.jpg",
-          "width": 2092,
-          "height": 1433,
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1465,11 +1465,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T07:50:27-07:00",
+      "publishedDateTime": "2020-10-02T08:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CustomerThink",
-        "domain": "customerthink.com",
+        "name": "Computerworld",
+        "domain": "computerworld.com",
         "images": null,
         "publishers": null,
         "authors": null

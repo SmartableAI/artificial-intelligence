@@ -49,15 +49,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Intel, CBSE deliver virtual lesson on AI to 13K students in 24 hrs"
-    excerpt: "New Delhi, Oct 14 (IANS) Chip-making giant Intel and the Central Board of Secondary Education (CBSE) on Wednesday achieved a new Guinness World Records title for most users taking an online artificial intelligence (AI) lesson in 24 hours."
-    publishedDateTime: 2020-10-15T01:08:00Z
-    webUrl: "https://www.sify.com/news/intel-cbse-deliver-virtual-lesson-on-ai-to-13k-students-in-24-hrs-news-education-ukoqlDgefedec.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
 
 secured: "2r5mJvL/sKcZtCE2C/ObqiaT1+5y42U5OYDcRssrH5+ERgO0I9NBvd2LSe8ej1O2e7VFbz2o9rMGz8wOBlut2/+0rBB5cfoIA1LCjyFbO0L4G8S6btxXnHEpdUuBmR7A9Ufqx5Le9YVnOl4/lA3E6A/SUCrmDeFQ4zr5fiPCQcNGd5u4nWx08wfFEmnNbd+wwbCgAhkUGw3tW/0m2ynUtdzg1gr3Wt2pDis8feziBrnXKkXt8l4vsir5eq59UgnTSL6U094Cfh8y7Vt2voXZdQ+V5qOIiajoEdeRtShnc3xjInwWi0fobQOq6/SogpeQYgTlATwb/hKZCd5Py4q6F7y43CKvdmhMOo+WrM+ROA15NLg8Uc1wWyMfDqFOdMo1TkFAbEbT18b2LuCt6CePQhtbuKv/ZorjNK2g4CD/I+q9oEYIO/8UQAnLH3uHMG5BNYBr8JSkM2eJON6XET8CcDmPnShOBD2ND8DajeUx0mJlK8OwW8ZQTbhAV9/DG31HFbwFnhgCLQItHR48PxKe3w==;jAjboELFfk28TRHKwEL04g=="
 ---

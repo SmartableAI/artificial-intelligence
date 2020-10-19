@@ -40,16 +40,30 @@ related:
   - title: "The impact of AI on business and society"
     excerpt: "In July, the Financial Times Future Forum think-tank convened a panel of experts to discuss the realities of AI — what it can and cannot do, and what it may mean for the future. Entitled “The Impact of Artificial Intelligence on Business and Society”,"
     publishedDateTime: 2020-10-16T03:00:00Z
-    webUrl: "https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c"
+    webUrl: "https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c?via=indexdotco"
     type: article
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 43
+    quality: 39
     images:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5246fd70-6619-4c99-8d72-03875cac0f46.jpg?source=next-opengraph&fit=scale-down&width=900"
         width: 900
         height: 506
+        isCached: true
+  - title: "Empowering Farmers Through Root AI, with Josh Lessing"
+    excerpt: "In this episode, Abate interviews Josh Lessing, co-founder and CEO of Root AI. At Root AI they are developing a system that tracks data on the farm and autonomously harvests crops using delicate grippers and computer vision."
+    publishedDateTime: 2020-10-19T18:05:00Z
+    webUrl: "https://robohub.org/empowering-farmers-through-rootai/"
+    type: article
+    provider:
+      name: Robohub
+      domain: robohub.org
+    quality: 39
+    images:
+      - url: "https://robohub.org/wp-content/uploads/2020/10/root_ai-1024x585.jpg"
+        width: 1024
+        height: 585
         isCached: true
 
 secured: "++gB1mkeeAlAE0+s+i8BKf94TsC6odoGWv1RP9xJwFf0HV0KcjDlqDRi9CrCp/Gu9QxRdZErmcTsAJ2S+DGkEd+KNW0XbS5d+WduUIXXSejZXlvmhepnBKnR0nqtmtE/Wt4E3TEE8rhKeaX1Eh+oCNvURhzkq57buCG1brg+KxyQ309L9sOSsI3U/fUdFv++HHey5XdbUgJ0wq03qW/N7Pvge+EztoFixgk2LZgazdyvSYIdf34RzmoBNGZwYGSO+PjOJnslh2s0uCaXsT6KMQ3Caczyw9Qg5wctxoSYu+Q25vK5iV7RBvzAXGpHzh6i1kCue5vRHosa4tlRFuYzbhpeXSpkhVCTt+WOnxLPmCIFyCnyvF+L93eRBRfyOvV5v80zcohHIpUZqc3qarBEtEntKfq+pwP4n4bd7x5Vqf2RLHOiQmr8zttRPWueOFSp9oqck51/BY2Dnw0GeUNQI/FVFRTZuIPyK7v8FOvNcHTfB8wODVQlxHLjhTBrZJ2bMv6t5FrnM0YE67/fBilpCQ==;+2y1BagjUwMvEuHfDNYHtw=="

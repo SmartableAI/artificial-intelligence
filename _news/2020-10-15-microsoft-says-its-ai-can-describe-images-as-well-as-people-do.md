@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-human
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/tulh8a/article32862527.ece/ALTERNATES/LANDSCAPE_615/microsoft-ai-captioningpng"
         width: 615
         height: 384
+        isCached: true
+  - title: "Microsoft releases an image-captioning AI algorithm"
+    excerpt: "Microsoft makes decoding words, pictures, events and familiar people on social media an easier task for visually impaired people with their accurate AI-captioning technology."
+    publishedDateTime: 2020-10-19T17:55:00Z
+    webUrl: "https://www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/"
+    ampWebUrl: "https://www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/amp/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 74
+    images:
+      - url: "https://www.technowize.com/wp-content/uploads/2020/10/Microsoft-releases-image-captioning-AI-option-1.jpg"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "37//qE/T4KIHomnQv7vHe2pNoTekMxOrWqg+jGxtC9pVodqb083E+rfsicHkFyFL8eyrJnNfuBJ2FSKYnsPL1E0u2ez7kj7QkuEBdh1i32lj7CyK54NNknjmGG0+TiPkt8NYIx/RPbIefVPhWKCnJh33EQWs5qK+5gAdaoRGA1EQIyXt0l34lW4T3W3CgOTHYAonkX8cj7c37cQPYOU04HlBwwwWQSLpHZZLDd2IIubzg2WrQ6z7EoQotrJE1n6NReeNQxA/At37j+wYc2SRSlcEqP9/D/VVKEbyC/LRAClk7xEU2/BWMiGwaG9VkGrdzojC1BiNXmzFOjJ6isw6hqOj+QnoW+KYeaKerzJmsEzEv3yHDWKr9WkB1ujqHaFqSmBS7TgGqPpuyYeB1Y5NCtED2DAUaV1LPgzpww9Sbg1ZrAAJcSxShpofvIQmRkqhbGKixlNHIvGTd2dj5RV1q561Ri1bHrpzvFnlvLj958ZmDfx5NERgH0QDvMr+jgqiqsOOmIFYKaZuBws3Kfuq9w==;5fPaOFHzm05o9+sPfB/0kA=="

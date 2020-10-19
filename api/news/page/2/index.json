@@ -2,6 +2,298 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-18-why-software-developers-might-be-obsolete-by-2030.md",
+      "title": "Why software developers might be obsolete by 2030",
+      "excerpt": "John Maynard Keynes predicted we’d be having 15-hour workweeks by the end of the century. But by the time it was 2013, it was clear the great economist had gotten something wrong. Welcome to the era of bullshit jobs,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/syndication/2020/10/18/why-software-developers-might-be-obsolete-by-2030/",
+      "originalUrl": "https://thenextweb.com/syndication/2020/10/18/why-software-developers-might-be-obsolete-by-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/image-5-3-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/syndication/2020/10/18/why-software-developers-might-be-obsolete-by-2030/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/syndication/2020/10/18/why-software-developers-might-be-obsolete-by-2030/amp/",
+      "publishedDateTime": "2020-10-18T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-how-to-use-aws-a-simple-guide-for-beginners.md",
+      "title": "How to use AWS – a simple guide for beginners",
+      "excerpt": "Or you could try something more complex, such as the Data Scientist learning path. This will teach you to develop, train, and deploy ML models through Amazon SageMaker. Again, the key to learning how to use AWS is to know precisely what you want to achieve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/how-to-use-aws-1168883/",
+      "originalUrl": "https://www.androidauthority.com/how-to-use-aws-1168883/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/11/AWS-Logo-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/how-to-use-aws-1168883/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/how-to-use-aws-1168883/amp/",
+      "publishedDateTime": "2020-10-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-four-years-ago-elon-musk-announced-all-tesla-cars-have-the-hardware-needed-for-full-self-driving-so-where-is-it.md",
+      "title": "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?",
+      "excerpt": "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html",
+      "originalUrl": "https://www.cnbc.com/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html",
+      "publishedDateTime": "2020-10-17T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-how-home-depot-is-enhancing-the-ecommerce-experience-with-ai.md",
+      "title": "How Home Depot Is Enhancing The Ecommerce Experience With AI",
+      "excerpt": "Online retail is changing in profound ways as consumers change their buying patterns. With the shift to work-from-home and school-at-home changing the way people live, work, and socialize. Retailers are rethinking their sales,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8b07adb6fa632e14647138%2F0x0.jpg",
+          "width": 1200,
+          "height": 1296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/amp/",
+      "publishedDateTime": "2020-10-17T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-artificial-intelligence-advanced-machine-learning-market.md",
+      "title": "Artificial Intelligence & Advanced Machine Learning Market",
+      "excerpt": "The latest 91 page survey report on Global Artificial Intelligence Advanced Machine Learning Market is released by HTF MI covering various players of the industry selected from global geographies like North America Europe Asia Pacific etc A perfect mix of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2162808/artificial-intelligence-advanced-machine-learning-market",
+      "originalUrl": "https://www.openpr.com/news/2162808/artificial-intelligence-advanced-machine-learning-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta17492562_g.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2162808/artificial-intelligence-advanced-machine-learning-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2162808/artificial-intelligence-advanced-machine-learning-market",
+      "publishedDateTime": "2020-10-17T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-us-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations.md",
+      "title": "U.S. government agencies to use AI to cull and cut outdated regulations",
+      "excerpt": "The White House Office of Management and Budget (OMB) said Friday that federal agencies will use artificial intelligence to eliminate outdated, obsolete, and inconsistent requirements across tens of pages of government regulations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-regulations-white-house/u-s-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations-idUSKBN27130L",
+      "originalUrl": "https://www.reuters.com/article/us-usa-regulations-white-house/u-s-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations-idUSKBN27130L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27130L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27130L",
+      "publishedDateTime": "2020-10-16T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-ai-weekly-us-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests.md",
       "title": "AI Weekly: U.S. lawmakers decry the chilling effect of federal surveillance at protests",
       "excerpt": "There’s a thread that runs through police violence against Black people and connects to overpolicing, onerous and problematic tactics like facial recognition, AI-powered predictive policing ...",
@@ -920,274 +1212,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-googles-new-hum-to-search-feature-can-figure-out-the-song-thats-stuck-in-your-head.md",
-      "title": "Google’s new ‘hum to search’ feature can figure out the song that’s stuck in your head",
-      "excerpt": "Google is adding a new “hum to search” feature to its search tools today that will let you hum (or whistle, or sing) the annoying song that’s stuck in your head, and then use machine learning techniques to try to identify it.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/hum-to-search",
-      "originalUrl": "https://www.theverge.com/2020/10/15/21518182/google-new-hum-to-search-feature-identify-song-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-15_at_10.47.20_AM.max-1100x1100.png",
-          "width": 1066,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/hum-to-search/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/hum-to-search/amp/",
-      "publishedDateTime": "2020-10-15T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-google-search-significantly-improving-did-you-mean-spell-correction-using-passage-ranking-to-find-buried-answers.md",
-      "title": "Google Search significantly improving ‘Did you mean’ spell correction, using passage ranking to find buried answers",
-      "excerpt": "Google kicked off Search On 2020 by talking about its latest artificial intelligence enhancements. Google Search spell",
-      "sourceUrl": null,
-      "webUrl": "https://9to5google.com/2020/10/15/google-search-spell-check/",
-      "originalUrl": "https://9to5google.com/2020/10/15/google-search-spell-check/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://9to5google.com/wp-content/uploads/sites/4/2019/08/google_search_desktop_1.jpg?quality=82&strip=all",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5google.com/2020/10/15/google-search-spell-check/amp/",
-      "cdnAmpWebUrl": "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/10/15/google-search-spell-check/amp/",
-      "publishedDateTime": "2020-10-15T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Google",
-        "domain": "9to5google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-how-can-artificial-intelligence-help-in-the-fight-to-remain-secure.md",
-      "title": "How can artificial intelligence help in the fight to remain secure?",
-      "excerpt": "Artificial intelligence (AI) has gone from being science fiction to an increasingly common part of our lives. TV streaming services use AI and machine learning (ML) to make recommendations of what you might like to watch next,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357448/how-can-artificial-intelligence-help-in-the-fight-to",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357448/how-can-artificial-intelligence-help-in-the-fight-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570815737/itpro/2018/01/shutterstock_ai_artificial_intelligence_security.png",
-          "width": 800,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-processing-auto-insurance-claims-at-scale-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-ground-truth.md",
-      "title": "Processing auto insurance claims at scale using Amazon Rekognition Custom Labels and Amazon SageMaker Ground Truth",
-      "excerpt": "Computer vision uses machine learning (ML) to build applications that process images or videos. With Amazon Rekognition, you can use pre-trained computer vision models to identify objects, people, text, activities, or inappropriate content. Our customers have use cases that span every industry, including",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Architecture.jpg",
-          "width": 900,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T13:01:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-the-path-to-ethical-ai-starts-with-collaboration.md",
-      "title": "The Path to Ethical AI Starts With Collaboration",
-      "excerpt": "To the layman, the word-set of ethical AI is a misnomer. AI oftentimes still conjures visions of a dystopian future in which artificial intelligence runs rampant, dominating humankind. Thanks to modern-era entertainment in films such as 2001:A Space Odyssey (HAL 3000) or The Terminator,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15",
-      "originalUrl": "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp",
-      "publishedDateTime": "2020-10-15T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-robotics-artificial-intelligence-etf-botz-at-a-52-week-high.md",
-      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at a 52-Week High",
-      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.5% from its 52-week low price of $14.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15?amp",
-      "publishedDateTime": "2020-10-15T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

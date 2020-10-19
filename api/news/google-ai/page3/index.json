@@ -2,6 +2,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-04-ai-related-jobs-openings-and-searches-have-gone-up-report.md",
+      "title": "AI-related jobs openings and searches have gone up: report",
+      "excerpt": "Job openings in artificial intelligence (AI) have gone up by 30% in June compared to the same period last year, as per data from jobs site .",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/articleshow/77935453.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/articleshow/77935453.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/amp_articleshow/77935453.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/amp_articleshow/77935453.cms",
+      "publishedDateTime": "2020-09-04T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-google-maps-using-deepmind-ai-to-predict-your-arrival-time.md",
+      "title": "Google Maps using DeepMind AI to predict your arrival time",
+      "excerpt": "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
+      "originalUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
+      "publishedDateTime": "2020-09-04T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time.md",
       "title": "How Google Maps uses DeepMind’s AI tools to predict your arrival time",
       "excerpt": "But, as the search giant explains in a blog post today, its features have got more accurate thanks to machine learning tools from DeepMind, the London-based AI lab owned by Google’s parent ...",

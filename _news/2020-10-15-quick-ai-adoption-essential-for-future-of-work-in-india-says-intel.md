@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/quick-ai-ad
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Intel, CBSE deliver virtual lesson on AI to 13K students in 24 hrs"
-    excerpt: "New Delhi, Oct 14 (IANS) Chip-making giant Intel and the Central Board of Secondary Education (CBSE) on Wednesday achieved a new Guinness World Records title for most users taking an online artificial intelligence (AI) lesson in 24 hours."
-    publishedDateTime: 2020-10-15T01:08:00Z
-    webUrl: "https://www.sify.com/news/intel-cbse-deliver-virtual-lesson-on-ai-to-13k-students-in-24-hrs-news-education-ukoqlDgefedec.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
   - title: "Healthcare Artificial Intelligence Market Bigger Than Expected | Intel Corporation, Nvidia Corporation, Google"
     excerpt: "Download Free Sample Copy of ‘ Healthcare Artificial Intelligence market’ Report @  Key Segments Studied in the Global Healthcare Artificial Intelligence Market, IBM Corporation, Microsoft Corporation,"
     publishedDateTime: 2020-10-16T11:01:00Z

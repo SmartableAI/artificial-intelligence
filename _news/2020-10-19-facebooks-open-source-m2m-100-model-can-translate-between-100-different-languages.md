@@ -64,6 +64,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Facebook's new AI model can translate one language directly to another without using English"
+    excerpt: "There are several reasons for this, one of which is the lack of useful AI training data for non-English language-to-language translations. Plenty of people translate words and phrases from English to French or French to English (thus creating plenty of ..."
+    publishedDateTime: 2020-10-19T17:31:00Z
+    webUrl: "https://www.techspot.com/news/87182-facebook-new-ai-model-can-translate-one-language.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87182-facebook-new-ai-model-can-translate-one-language.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87182-facebook-new-ai-model-can-translate-one-language.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 93
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-19-image-22.jpg"
+        width: 1680
+        height: 1120
+        isCached: true
   - title: "Why you should be wary of political news on Facebook, Twitter"
     excerpt: "In September, Facebook and Twitter said they had uncovered ties between PeaceData and the Internet Research Agency ... some of which appeared to use artificial intelligence to generate fake profile pictures. Subscribe to the CNET Now newsletter for ..."
     publishedDateTime: 2020-10-15T12:01:00Z

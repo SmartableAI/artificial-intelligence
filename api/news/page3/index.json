@@ -2,6 +2,274 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-16-googles-new-hum-to-search-feature-can-figure-out-the-song-thats-stuck-in-your-head.md",
+      "title": "Google’s new ‘hum to search’ feature can figure out the song that’s stuck in your head",
+      "excerpt": "Google is adding a new “hum to search” feature to its search tools today that will let you hum (or whistle, or sing) the annoying song that’s stuck in your head, and then use machine learning techniques to try to identify it.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/hum-to-search",
+      "originalUrl": "https://www.theverge.com/2020/10/15/21518182/google-new-hum-to-search-feature-identify-song-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-15_at_10.47.20_AM.max-1100x1100.png",
+          "width": 1066,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/search/hum-to-search/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/hum-to-search/amp/",
+      "publishedDateTime": "2020-10-15T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-google-search-significantly-improving-did-you-mean-spell-correction-using-passage-ranking-to-find-buried-answers.md",
+      "title": "Google Search significantly improving ‘Did you mean’ spell correction, using passage ranking to find buried answers",
+      "excerpt": "Google kicked off Search On 2020 by talking about its latest artificial intelligence enhancements. Google Search spell",
+      "sourceUrl": null,
+      "webUrl": "https://9to5google.com/2020/10/15/google-search-spell-check/",
+      "originalUrl": "https://9to5google.com/2020/10/15/google-search-spell-check/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://9to5google.com/wp-content/uploads/sites/4/2019/08/google_search_desktop_1.jpg?quality=82&strip=all",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5google.com/2020/10/15/google-search-spell-check/amp/",
+      "cdnAmpWebUrl": "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/10/15/google-search-spell-check/amp/",
+      "publishedDateTime": "2020-10-15T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Google",
+        "domain": "9to5google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-how-can-artificial-intelligence-help-in-the-fight-to-remain-secure.md",
+      "title": "How can artificial intelligence help in the fight to remain secure?",
+      "excerpt": "Artificial intelligence (AI) has gone from being science fiction to an increasingly common part of our lives. TV streaming services use AI and machine learning (ML) to make recommendations of what you might like to watch next,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357448/how-can-artificial-intelligence-help-in-the-fight-to",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357448/how-can-artificial-intelligence-help-in-the-fight-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815737/itpro/2018/01/shutterstock_ai_artificial_intelligence_security.png",
+          "width": 800,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-processing-auto-insurance-claims-at-scale-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-ground-truth.md",
+      "title": "Processing auto insurance claims at scale using Amazon Rekognition Custom Labels and Amazon SageMaker Ground Truth",
+      "excerpt": "Computer vision uses machine learning (ML) to build applications that process images or videos. With Amazon Rekognition, you can use pre-trained computer vision models to identify objects, people, text, activities, or inappropriate content. Our customers have use cases that span every industry, including",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Architecture.jpg",
+          "width": 900,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T13:01:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-the-path-to-ethical-ai-starts-with-collaboration.md",
+      "title": "The Path to Ethical AI Starts With Collaboration",
+      "excerpt": "To the layman, the word-set of ethical AI is a misnomer. AI oftentimes still conjures visions of a dystopian future in which artificial intelligence runs rampant, dominating humankind. Thanks to modern-era entertainment in films such as 2001:A Space Odyssey (HAL 3000) or The Terminator,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15",
+      "originalUrl": "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp",
+      "publishedDateTime": "2020-10-15T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-robotics-artificial-intelligence-etf-botz-at-a-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at a 52-Week High",
+      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.5% from its 52-week low price of $14.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15",
+      "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15?amp",
+      "publishedDateTime": "2020-10-15T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-duplex-is-getting-smarter-and-making-life-a-little-easier.md",
       "title": "Duplex is getting smarter and making life a little easier",
       "excerpt": "In 2018, we introduced Duplex, our AI technology that uses natural conversation to get things done. Since then, we’ve been exploring how conversational technology can be both easy to interact with and  help people save more time. Today, during our Search On event, we shared an update on how Duplex and",
@@ -217,7 +485,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -372,7 +640,7 @@
       "originalUrl": "https://www.engadget.com/microsoft-azure-ai-image-captions-humans-150040200.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -946,289 +1214,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-balto-raises-10-million-to-analyze-call-center-conversations-with-ai.md",
-      "title": "Balto raises $10 million to analyze call center conversations with AI",
-      "excerpt": "Balto, a conversational AI startup targeting call centers, has raised $10 million in venture capital to accelerate its go-to-makret strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/amp/",
-      "publishedDateTime": "2020-10-15T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards.md",
-      "title": "Self-driving cars can be forced to brake by hijacked billboards",
-      "excerpt": "Security researchers have demonstrated how hijacked billboards could be used to confuse self-driving cars -- forcing them to slam on the brakes, or worse. Autonomous driving systems have come on leaps and bounds in recent years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
-      "originalUrl": "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
-      "publishedDateTime": "2020-10-15T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-using-ai-canadian-city-predicts-who-might-become-homeless.md",
-      "title": "Using AI, Canadian city predicts who might become homeless",
-      "excerpt": "As makeshift tent cities spring up across Canada to house rough sleepers who fear using shelters due to COVID-19, one city is leveraging artificial intelligence (AI) to predict which residents risk becoming homeless.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-canada-homelessness-tech-idUSKBN27013Y",
-      "originalUrl": "https://www.reuters.com/article/us-canada-homelessness-tech-idUSKBN27013Y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27013Y",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27013Y",
-      "publishedDateTime": "2020-10-15T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-quick-ai-adoption-essential-for-future-of-work-in-india-says-intel.md",
-      "title": "Quick AI adoption essential for future of work in India, says Intel",
-      "excerpt": "Intel said that Artificial Intelligence is essential to the future of work in a post-pandemic world, with over 90% respondents in a survey considering AI to be essential to their businesses in India",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/19/full/1560959403-0446.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
-      "publishedDateTime": "2020-10-15T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-south-korean-startup-cochlearai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition.md",
-      "title": "South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition",
-      "excerpt": "These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS platform to identify. The company’s goal is to develop software that can identify almost any kind ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/",
-      "originalUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/cochl_team8.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/amp/",
-      "publishedDateTime": "2020-10-15T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-best-facial-recognition-security-cameras-to-buy-in-2020.md",
-      "title": "Best facial recognition security cameras to buy in 2020",
-      "excerpt": "Select home security cameras have facial recognition, an advanced option that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
-      "publishedDateTime": "2020-10-15T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-mu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
 type: article
 quality: 106
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=95&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=69a553b53d39c0b9162403452839efda71a2de93"
         width: 600
         height: 400
+        isCached: true
+  - title: "Facebook's new AI model can translate one language directly to another without using English"
+    excerpt: "There are several reasons for this, one of which is the lack of useful AI training data for non-English language-to-language translations. Plenty of people translate words and phrases from English to French or French to English (thus creating plenty of ..."
+    publishedDateTime: 2020-10-19T17:31:00Z
+    webUrl: "https://www.techspot.com/news/87182-facebook-new-ai-model-can-translate-one-language.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87182-facebook-new-ai-model-can-translate-one-language.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87182-facebook-new-ai-model-can-translate-one-language.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 93
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-19-image-22.jpg"
+        width: 1680
+        height: 1120
         isCached: true
   - title: "Facebook’s open source M2M-100 model can translate between 100 different languages"
     excerpt: "“For years, AI researchers have been working ... Facebook had a group of native speakers evaluate the translation quality between 20 language pairs, none of them involving English."

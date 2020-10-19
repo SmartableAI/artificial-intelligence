@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-doc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
 type: article
 quality: 83
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/buildingalan.jpg"
         width: 730
         height: 431
+        isCached: true
+  - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
+    excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
+    publishedDateTime: 2020-10-19T19:00:00Z
+    webUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/"
+    ampWebUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/google-cloud-lending-ai-457x305.jpg"
+        width: 457
+        height: 305
         isCached: true
   - title: "axle ai Brings AI-Powered Media Search to Adobe Creative Cloud Applications"
     excerpt: "New integrations with Adobe applications for remote teams to debut at Adobe MAX online conference. Boston, MA, USA – October 16, 2020 – axle ai is excited"

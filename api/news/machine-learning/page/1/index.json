@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-20-deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors.md",
+      "title": "DeepMind open-sources the FermiNet, a neural network that simulates electron behaviors",
+      "excerpt": "Researchers at DeepMind have open-sourced the FermiNet, a neural network that simulates the positions and arrangements of electrons.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/",
+      "originalUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/amp/",
+      "publishedDateTime": "2020-10-19T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-facebook-ai-open-sources-multilingual-machine-translation-model.md",
       "title": "Facebook AI open sources multilingual machine translation model",
       "excerpt": "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -59,8 +112,8 @@
       "title": "Google's $100 Linux Coral Dev Board mini quietly launches – but sells out fast",
       "excerpt": "Google's Coral Dev Board mini briefly goes on sale before selling out but Google still says the board is coming soon.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
       "featuredContent": null,
       "highlight": null,
       "heat": 70,
@@ -77,8 +130,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
       "publishedDateTime": "2020-10-19T06:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -115,7 +168,7 @@
       "originalUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -384,7 +437,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -619,6 +672,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-14-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
+      "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
+      "excerpt": "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-new-machine-learning-concepts-can-help-develop-novel-drugs.md",
       "title": "New machine learning concepts can help develop novel drugs",
       "excerpt": "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields.",
@@ -795,8 +891,8 @@
       "title": "MakinaRocks research published by Deep Learning sector’s premier conference, ICLR 2020",
       "excerpt": "MakinaRocks (  a startup specializing in industrial AI solutions, announced on October 13th, the success of their RaPP-based anomaly detection research paper, selected and published by the International Conference on Learning Representations (ICLR),",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e/gallery/afc3d835fc99d2f97122f85de43642a3",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e/gallery/afc3d835fc99d2f97122f85de43642a3",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1315,102 +1411,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise.md",
-      "title": "The secrets of small data: How machine learning finally reached the enterprise",
-      "excerpt": "Transfer learning and collective learning enable enterprises to build machine learning models using small data when big data isn't available.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/shutterstock_350476919-e1513916353327.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/amp/",
-      "publishedDateTime": "2020-10-08T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-commentary-can-ai-and-machine-learning-improve-the-economy.md",
-      "title": "Commentary: Can AI and machine learning improve the economy?",
-      "excerpt": "By the time entrenched incumbents awaken to the threats posed by newly developed general purpose technologies (GPTs), a crop of challengers who had no option but to adopt the new GPT at the outset has become powerful enough to threaten the financial stability of an industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy",
-      "originalUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/10/Aoaeh_commentary_100620_1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy/amp",
-      "publishedDateTime": "2020-10-08T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
