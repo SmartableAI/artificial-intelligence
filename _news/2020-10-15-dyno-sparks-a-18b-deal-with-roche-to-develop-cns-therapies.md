@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gene therapy startup signs 3rd partnership deal, worth up to $1.8B"
-    excerpt: "Dyno Therapeutics is now working with two of the four companies that have brought a gene-targeting treatment to market in the U.S. It just signed another deal that could bring it billions in development dollars."
-    publishedDateTime: 2020-10-14T10:13:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2020/10/14/gene-therapy-dyno-partners-with-roche-spark.html"
-    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/10/14/gene-therapy-dyno-partners-with-roche-spark.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/10/14/gene-therapy-dyno-partners-with-roche-spark.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
   - title: "Roche, aiming to make better gene therapies, turns to an emerging startup"
     excerpt: "The Swiss pharma is the third large drugmaker to partner with Harvard spinout Dyno Therapeutics, a small biotech aiming to improve gene therapy technology."
     publishedDateTime: 2020-10-14T15:03:00Z
@@ -50,19 +39,19 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "Dyno, Roche to tackle CNS, liver disease in gene therapy deal worth up to $1.8B"
-    excerpt: "Potential partners have approached the Cambridge-based Dyno Therapeutics since its founding two years ago to get in on the action. Today, Dyno announced its third partnership in the last five months: a $1."
-    publishedDateTime: 2020-10-14T10:00:00Z
-    webUrl: "https://www.fiercebiotech.com/biotech/dyno-and-roche-strike-1-8-billion-deal-to-tackle-gene-therapy-for-central-nervous-system"
+  - title: "Dyno Therapeutics Enters Collaboration and License Agreement With Roche to Develop Next-Generation AAV Gene Therapy Vectors for CNS Diseases and Liver-Directed Therapies"
+    excerpt: "Dyno Tx Enters Collaboration and License Agreement with Roche to Develop Next-Gen AAV Gene Therapy Vectors for CNS Diseases, Liver-Directed Therapies"
+    publishedDateTime: 2020-10-15T03:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201014005248/en/Dyno-Therapeutics-Enters-Collaboration-and-License-Agreement-With-Roche-to-Develop-Next-Generation-AAV-Gene-Therapy-Vectors-for-CNS-Diseases-and-Liver-Directed-Therapies"
     type: article
     provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 35
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
     images:
-      - url: "https://qtxasset.com/fiercebiotech/1602635473/Dyno%20CEO%20Eric%20Kelsic.jpg?BiOOVycwsBlUmt6119DUNKU0LTeJDqPM"
-        width: 2201
-        height: 2201
+      - url: "https://mms.businesswire.com/media/20201014005248/en/790645/23/Dyno-Logo-Final-050820.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "oteMfdmdxEmrqrS+SqfqmhNXPqdqkwPxypGTPeo6SGixwjnXENYWTpBi2zHxlBljRpsG3h4aMBAozO+oHTPsHW2/UyyRtXbcKSCIVxV+31/IgfXdWJAyEmPRtycOsA/AXQjUqIaYMdBU9O5EtbIcaE4bPSB0+PEtXrjsKQxGT5YeXcCGUeOZ2cM86txRhvKKE9DCABN3OiVd5ryoxhAuUXNBfJwSK+zKTt4u0J+fsIA13KWbEmtcJSSN0MRP5R1+O3NxsYjnjUJTqqn30hXTgXpC2BveGh5dmKw1gNrpIhWp2drqcgDwXfwdxf0Q2e6Pu27Ij1ySvhKgQ1JA3rJzJEbtoT8hVkthn3HoHP4TsA1PJvuE3hSyfNOpDEDRHCWz91OWmbDbpSLlrLiPcEs0e/KvFUIIYyrQEQ0+q0FqtZH1PzKpFSC4/Be968lLXvqQ2SxnkOfDpwh/lyng0b10Tz6OBj3uYElfPzfS5k9tOIoQ4r3fDgcz+qfRItn31O4qXpE2smbWylfYQCRoa5otjg==;8frfqgT7WxGMgQYo6jRmTg=="

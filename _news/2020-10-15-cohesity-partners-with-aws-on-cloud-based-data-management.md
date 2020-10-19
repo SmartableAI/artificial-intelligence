@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "AWS, Cohesity Announce Partnership Aimed at Tackling Data Silos"
-    excerpt: "Cohesity has entered a data management partnership with Amazon Web Services aimed at helping companies secure, govern and analyze their ever-increasing amounts of data."
-    publishedDateTime: 2020-10-14T10:14:00Z
-    webUrl: "https://www.wsj.com/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600"
-    ampWebUrl: "https://www.wsj.com/amp/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-11602669600"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 104
-    images:
-      - url: "https://images.wsj.net/im-244275?width=620&size=1.5"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Cohesity AWS partnership: you’d be a dim___ to ignore DMaaS"
     excerpt: "Think for example of AWS Macie for Compliance-as-a-Service, AWS Glue for the management of data lakes (ETL) and Analytics-as-a-Service, AWS Redshift for cloud data warehousing and AWS SageMaker ..."
     publishedDateTime: 2020-10-15T12:12:00Z

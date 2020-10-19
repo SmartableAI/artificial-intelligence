@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "US body on AI calls for creating India-US strategic tech alliance"
-    excerpt: "The newly-created National Security Commission on Artificial Intelligence in its report on Tuesday said the Department of State and the Department of Defence should negotiate formal AI cooperation agreements with India, Australia, Japan, New Zealand ..."
-    publishedDateTime: 2020-10-14T09:56:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643"
-    ampWebUrl: "https://www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/us-body-on-ai-calls-for-creating-india-us-strategic-tech-alliance-155643"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 57
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_281592419.jpg"
-        width: 660
-        height: 440
-        isCached: true
   - title: "Intel, CBSE deliver virtual lesson on AI to 13K students in 24 hrs"
     excerpt: "New Delhi, Oct 14 (IANS) Chip-making giant Intel and the Central Board of Secondary Education (CBSE) on Wednesday achieved a new Guinness World Records title for most users taking an online artificial intelligence (AI) lesson in 24 hours."
     publishedDateTime: 2020-10-15T01:08:00Z

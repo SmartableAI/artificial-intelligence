@@ -26,22 +26,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "How to engineer self-driving cars with risk and responsibility in mind"
-    excerpt: "It also helps meet the Law Commission’s recommendation “for a clear boundary distinguishing conventional driving (with or without automated assistance) and ‘high automation’ (or ‘self-driving’)”. Tony Gillespie is a visiting professor at UCL ..."
-    publishedDateTime: 2020-10-14T09:45:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/10/engineering-self-driving-cars-with-risk-and-responsibility-in-mind/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/14055/dreamstime_l_133926443.jpg?crop=0,0.38791666666666669,0,0.11989583333333327&cropmode=percentage&width=1200&height=450&rnd=132471338650000000"
-        width: 1200
-        height: 450
-        isCached: true
-
 secured: "foAwTcs/vaG7Ae9fw+GP+H8n+FVZD1tQ9awvzADKbKXxNHePbvKvsI7/A8+FmlUO1hzi9jtY49BWm/nu5J/F2EdGO208N6sHRc+LzDsOf39KD5ZAOEQdYlYow7Optoj9TCwTglwmZbk3UY2ZRoVT7g5UGLnwKHqX3njhi6Q9DBb2BRvOUSe9NBrqq6dqf3JJAyNv1NGK2TWXUL5KAoncxNGlRpZ3iSffc6bJJfLHptkWVfg707O3gCOv7nw7yCOKKoqJCd24mcIgMsFAneIRoZdfR+W5U0Vumo62E3gFGKDI1KIa9PkPx2vkyxz1rgQrWRJ+9r6jMRkGFzHXH2ews2iwxbjGIkZU2A7mnfQSUH4=;EYPniAvEVanN4ok7iIti0g=="
 ---
 

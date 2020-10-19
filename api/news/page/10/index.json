@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-08-amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker.md",
+      "title": "Amazon announces price cuts on GPU instances in AWS Sagemaker",
+      "excerpt": "Amazon Web Services is cutting the price of GPU instances on Sagemaker, its fully managed machine learning service. AWS said customers will see up to 18% in price reductions on all ml.p2 and ml.p3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
+      "publishedDateTime": "2020-10-07T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots.md",
       "title": "Startups joining SK Telecom’s accelerator include AI-driven mapping and vision for delivery robots",
       "excerpt": "We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless carrier,",
@@ -1140,58 +1184,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-these-are-the-3-biggest-bargains-in-biotech.md",
-      "title": "These Are the 3 Biggest Bargains in Biotech",
-      "excerpt": "Since the March 23 low, investors have taken a particular liking to the technology sector, with cloud computing, cybersecurity, and artificial intelligence stocks rocketing ... as a monotherapy or combination therapy. Even a handful of these clinical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594012%2Fstethoscope-over-money-healthcare-costs-obamacare-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
-      "publishedDateTime": "2020-10-07T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

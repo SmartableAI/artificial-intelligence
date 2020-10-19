@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-ai-ethic
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "In Singapore, sign in with facial recognition to pay your taxes"
+    excerpt: "In Singapore, online government services can now be accessed by facial recognition – a world first. This technology is being rolled out to the city-state's SingPass digital identity scheme, offering access to no less than 400 online services,"
+    publishedDateTime: 2020-10-19T02:20:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/19/in-singapore-sign-in-with-facial-recognition-to-pay-your-taxes"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/18/902993.jpeg"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "Singapore's private sector launches document for ethical use of AI; certification course to follow next year"
     excerpt: "Launched on Friday (Oct 16) by the Singapore Computer Society (SCS), \"AI Ethics & Governance Body of Knowledge\" builds on the Singapore government's voluntary framework for the responsible use of AI. It is authored by 29 industry veterans including Dr ..."
     publishedDateTime: 2020-10-16T03:10:00Z

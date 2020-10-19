@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Roche Enlists Dyno to Bring AI to Next-Generation Liver, CNS Gene Therapies"
-    excerpt: "Roche made a splash with its acquisition of Spark Therapeutics, whose Luxturna, a gene therapy for an inherited form of vision loss, was the first such"
-    publishedDateTime: 2020-10-14T10:08:00Z
-    webUrl: "https://xconomy.com/boston/2020/10/14/roche-enlists-dyno-to-bring-ai-to-next-generation-liver-cns-gene-therapies/"
+  - title: "Roche, aiming to make better gene therapies, turns to an emerging startup"
+    excerpt: "The Swiss pharma is the third large drugmaker to partner with Harvard spinout Dyno Therapeutics, a small biotech aiming to improve gene therapy technology."
+    publishedDateTime: 2020-10-14T15:03:00Z
+    webUrl: "https://www.biopharmadive.com/news/roche-dyno-gene-therapy-deal/586993/"
     type: article
     provider:
-      name: Xconomy
-      domain: xconomy.com
-    quality: 35
+      name: BioPharma Dive
+      domain: biopharmadive.com
+    quality: 38
     images:
-      - url: "https://media.xconomy.com/wordpress/wp-content/images/2020/10/14003723/iStock-1173782127.jpg"
-        width: 1254
-        height: 836
+      - url: "https://www.biopharmadive.com/user_media/cache/5d/7c/5d7cb9b442f6969f3b73b5d122100ebb.jpg"
+        width: 770
+        height: 364
+        isCached: true
+  - title: "Dyno sparks a $1.8B deal with Roche to develop CNS therapies"
+    excerpt: "Privately held Dyno Therapeutics Inc., an early stage biotech company applying artificial intelligence to gene therapy, entered a collaboration and license agreement with Spark Therapeutics Inc. that could bring Dyno milestone payments exceeding $1."
+    publishedDateTime: 2020-10-14T23:14:00Z
+    webUrl: "https://www.bioworld.com/articles/498961-dyno-sparks-a-18b-deal-with-roche-to-develop-cns-therapies"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 24
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Neurology/CNS-illustration.png?height=635&t=1602701261&width=1200"
+        width: 847
+        height: 635
         isCached: true
 
 secured: "YmGaBbANOP9oFBGAScMbJm9Gs3spw5xhu/Y6ltjEX5wm0t0nRI2Jx7JdwY+uSxRo3r7h0cln8WpkukYjxvY7PdDV7oaD5vu1sMMqcbdwfnqv+GY2kCcnw/9Wg37V+gtU4fexA71lzQB1PMTgvNB8MGpPHZjd5uyTSlE/UwBPmDCM28avv+Jq2NLVP+19M4jqASqJ5LLimLw2wBVwKgbqJ6UMSxJXCSz82wd5R/C/y7fOnhHYShysilY1SkF87Rn/RDT3ZIWQlzFIH8Jbw7765KLwrNOo2q5VSgLMQvOyh1aMjTQmiw+Cap0fvdzr/PVAqnEzzh9IBO6/1GVAtCAvA0Jcft/ERY2gdTF2gr/woSg=;E7YmE0B5qj/2gb/XLN3z8g=="

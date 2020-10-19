@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "In Singapore, sign in with facial recognition to pay your taxes"
+    excerpt: "In Singapore, online government services can now be accessed by facial recognition – a world first. This technology is being rolled out to the city-state's SingPass digital identity scheme, offering access to no less than 400 online services,"
+    publishedDateTime: 2020-10-19T02:20:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/19/in-singapore-sign-in-with-facial-recognition-to-pay-your-taxes"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/18/902993.jpeg"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "Singapore's World-first Face Scan Plan Sparks Privacy Fears"
     excerpt: "Singapore will become the world's first country to use facial verification in its national ID scheme, but privacy advocates are alarmed by what they say is an intrusive system vulnerable to abuse. From next year,"
     publishedDateTime: 2020-10-18T03:42:00Z

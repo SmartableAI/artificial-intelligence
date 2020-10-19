@@ -35,6 +35,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 67
+  - title: "U.S. government agencies to use artificial intelligence to identify and eliminate outdated regulations"
+    excerpt: "(Photo by Janet Lindenmuth/via Flickr/Creative Commons) WASHINGTON — The White House Office of Management and Budget said Friday that federal agencies will use artificial intelligence to eliminate outdated, obsolete, and inconsistent requirements across ..."
+    publishedDateTime: 2020-10-18T11:33:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/u-s-government-agencies-to-use-artificial-intelligence-to-identify-and-eliminate-outdated-regulations/article_14bb7778-c854-5376-93f3-e725e0f3435c.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/u-s-government-agencies-to-use-artificial-intelligence-to-identify-and-eliminate-outdated-regulations/article_14bb7778-c854-5376-93f3-e725e0f3435c.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/u-s-government-agencies-to-use-artificial-intelligence-to-identify-and-eliminate-outdated-regulations/article_14bb7778-c854-5376-93f3-e725e0f3435c.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/ce/dce3b389-00d5-5423-b37f-4537946d215d/5f8c251f902d4.image.jpg?resize=1024%2C491"
+        width: 1024
+        height: 491
+        isCached: true
 
 secured: "CEB1nhFR4fk4WVGVFBXhvpL2ZzGQjzETJjShYS+UUzSTcOhmVNyA9C0Aia72zmqHrWUJRLhh1n/nsXUjdbcY+adkCSPJ4fYElzX8n3a1iaDdN27JKmUkAK3Lviw3/3KCifhC556JOsJ/Jt5mEbz7593hbU8KnDT/CEJr7M4Cyi/jY6IWDZqLusLZbf57YCL8PMGj9CeHSC2ro+mEZKTBH7tjYbv7WxDDY5DpgJ84oIASe/fJqWUD9uXsJG8Oyj09TDQvGV1cv/gHLLzoKDEKa90gYw81sr0C/PeHXpnkoQURu3tNAzfN11E7HkSSvEBqxNqjoYMHNhWfsdExCzy5GQOE/aLCrNH+CjO/0o9ZjqQ=;vlhOkQrHBgft+LbeDSV7cA=="
 ---

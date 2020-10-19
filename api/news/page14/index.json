@@ -2,6 +2,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-05-inside-politics-rishi-sunak-clashes-with-boris-johnson-over-eat-out-to-help-out.md",
+      "title": "Inside Politics: Rishi Sunak clashes with Boris Johnson over Eat Out to Help Out",
+      "excerpt": "In a pre-conference speech interview, the chancellor has hit back at the PM’s suggestion that the scheme may have caused the virus to spread, writes Adam Forrest",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-sunak-eat-out-help-out-scheme-tory-conference-brexit-talks-b801042.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-04T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions.md",
       "title": "IBM, Fenergo to Transform New Customer Onboarding for Financial Institutions",
       "excerpt": "PRNewswire/ -- SIBOS: IBM (NYSE: IBM ) and Fenergo, a leading provider of client lifecycle management (CLM) solutions for financial institutions, today",
@@ -1142,58 +1184,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-landmark-court-decision-says-robots-cant-be-inventors-but-the-fight-isnt-over.md",
-      "title": "Landmark court decision says robots can’t be inventors. But the fight isn’t over",
-      "excerpt": "The United Kingdom's highest court tossed out a case that would've established that machines can be creative and win patents for their inventions",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/",
-      "originalUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/?amp",
-      "publishedDateTime": "2020-10-02T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

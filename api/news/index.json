@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-19-new-ai-machine-learning-gains-a-toehold-on-synthetic-biology.md",
+      "title": "New AI Machine Learning Gains a Toehold on Synthetic Biology",
+      "excerpt": "The scientific study of life and living organisms, biology, is a complicated endeavor, as is the engineering field of synthetic biology. Synthetic biology is the science of creating or redesigning new biological systems found in nature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology",
+      "originalUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-10/pic0092.jpg?itok=rqI8-ytS",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology?amp",
+      "publishedDateTime": "2020-10-18T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-silicon-valley-is-getting-into-the-hearing-aid-business-with-these-impressive-ai-driven-earpieces.md",
       "title": "Silicon Valley Is Getting Into the Hearing Aid Business With These Impressive AI-Driven Earpieces",
       "excerpt": "This week, the startup Whisper launched its new flagship product, the Whisper Hearing System. The Whisper Hearing System uses artificial intelligence to process sound in real-time and optimize it for the user’s surroundings.",
@@ -311,7 +354,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-regulations-white-house/u-s-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations-idUSKBN27130L",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -560,7 +603,7 @@
       "originalUrl": "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1167,57 +1210,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-googles-new-hum-to-search-feature-can-figure-out-the-song-thats-stuck-in-your-head.md",
-      "title": "Google’s new ‘hum to search’ feature can figure out the song that’s stuck in your head",
-      "excerpt": "Google is adding a new “hum to search” feature to its search tools today that will let you hum (or whistle, or sing) the annoying song that’s stuck in your head, and then use machine learning techniques to try to identify it.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/hum-to-search",
-      "originalUrl": "https://www.theverge.com/2020/10/15/21518182/google-new-hum-to-search-feature-identify-song-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-15_at_10.47.20_AM.max-1100x1100.png",
-          "width": 1066,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/hum-to-search/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/hum-to-search/amp/",
-      "publishedDateTime": "2020-10-15T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
