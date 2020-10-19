@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Saturn Cloud Enables Easy and Powerful NVIDIA GPU Computing For Everyone"
-excerpt: "Saturn Cloud, the GPU data science company, announces the launch of Saturn Cloud Hosted, an open platform for multi-node"
-publishedDateTime: 2020-10-13T18:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-301151428.html"
-webUrl: "https://www.prnewswire.com/news-releases/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-301151428.html"
+excerpt: "Today, Saturn Cloud, the GPU data science company, announces the launch of Saturn Cloud Hosted, an open platform for multi-node multi-GPU computing in the cloud. The platform is available to anyone and everyone: corporations,"
+publishedDateTime: 2020-10-13T18:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
+webUrl: "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1003118/Saturn_Cloud_Logo.jpg?p=facebook"
-    width: 611
-    height: 320
-    isCached: true
-
-secured: "Xw09MZiSnNsSYcidtNN5QPwh8ytlHSZ32tZf67wU0L9AECj8v8fafZ8eoXdIUg6iSxEUMoR1nPuSHuRgz41ka+QaOIBIsFUx3v3W5kkwCaigJUb+BlFPA0iIH2liRBRIxPSObrp3tg6X6jzAaCh/qDp1fkwEFdM+m24967mZOR7+QILZ5W5G5viF+JkT2I5/l+gG4FkfgJM6TT/wFw3Qbl+/Yd0a9Xz2mSdS2c0KobMmvUjfAwEzOEToCsv9aQeayCJfOgL1XJc82cbhqliMUpmZXr7Y4ValYytFJSj1PYSMXsuUzvdQRLR+yzTsXiuGbxmKFVAtHw9SqeDDpAmrE/nHr4tYwwvJdf8gmYmSWpw=;F38QGq9F0hdsNor9sjspPA=="
+secured: "sGX4MKOSxUlhBqY3F4z8XoRxPXO/dZE5Exv0nj4fGjjjFxzXIJgf6YMlrVtswg8iywHJlJ5L2zPdj5wR0zKUMFK9h5BK//8t3A2MHjzfiaeJ6hcDdo7hV3jsAH2HpszwhAMcD6bUM07GzRsb5usq+HrUEDymXLmwcOdj4CTXbA3QOB9CbkR6IYRlsEVQDidfjiDntv2XoG1XKrsCSjXV2wag8xwwcQl3rPaDt1lz+qJ2uZEJqBA933OETySoObMcdxgjPI603RL8rzTXIFdhETRhmqceie5zyMgMJjSlnHofPUarNHqEnVRf0k+PMGdKxDqG8KCQfD1aoyVaLYUPSw43wVEsx9SCQsCH22tL5pc=;2kZAufpqzVUXlmhi1fAFGA=="
 ---
 

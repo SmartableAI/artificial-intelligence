@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1024
     height: 491
     isCached: true
-
-related:
-  - title: "Results are coming in on the AI systems built at the height of New York City’s spring Covid-19 outbreak"
-    excerpt: "New results are coming in on artificial intelligence models built at the height of New York's Covid-19 outbreak in the spring."
-    publishedDateTime: 2020-10-14T08:43:00Z
-    webUrl: "https://www.statnews.com/2020/10/14/covid19-artificial-intelligence-hospitals-nyc/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 21
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2020/10/GettyImages-1217636837-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "ajDLY6OE18mOWZsqPGLkfdjMEVpQqkdYxlmn5DJd7QUJjo1A9jikMLsP8rObVFl1WLe40D/G1+tcYel1gzke9hqsTJoQjYCW5AlR7yPhc7UfuFJUKYtN6HC7BveeRU6CYcLl0pDpyY6Q75ONJaV5yTpcuOC/QvEf1xf0/dv4+XpwVgdNSraTnGy68wdyAGvv+IKA6YWHooywMNW6MOreoXjhfahUxLjup5tHtq+JyO3MKMb5f0OQ+lNuE34lhctATrUurIBLPHO1OMoAUKNwGRkW3vXr81tgMVA5O5ZB5yjb7Nz2a3MEDTfqsWDxZWA1aKbps28kkiBDSwZhzPQkYocL16czP0kt9D4wNHjVEGsQaksagS7uHOQrieDaIhGUGjRf9DouR7nOnJsebfyY/P79Es+tsIMuWKRi93+48kWnwPM892XlMvK674Z8YXccTNnUcMBKEsXjD/kPcHkAkSFxcuZxdxMZqf8z415RzN5MJ4XxsQdJMQLlEvSNJXJK6BX7XqUfaE3ViVKXvZuwow==;LUPUP4OOLP/RdkiA2RuMcw=="
 ---

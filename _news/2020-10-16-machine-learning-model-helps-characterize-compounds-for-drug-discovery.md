@@ -43,6 +43,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine learning model helps characterize compounds for drug discovery"
+    excerpt: "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields. Now, Purdue University innovators have created a new method of applying machine learning concepts to the tandem mass spectrometry process to improve the flow of information in the development of new drugs."
+    publishedDateTime: 2020-10-14T14:35:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/machine-learning-model-helps-characterize-compounds-for-drug-discovery.html"
+    type: article
+    provider:
+      name: Purdue University
+      domain: purdue.edu
+    quality: 39
+    images:
+      - url: "https://www.purdue.edu/uns/images/2020/chopra-treeOG.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "pW3kQskI7FcfKKbY/NM8+cwC829OxueJxrIyC/3u3FWVlPqTGdU7h63n+FecL8d+QYaTF62rJF7AuHsn+wSGUUcszhYzxwKF9tCeQ25LlXdxF406oUuF+WRpjsVOhdCku4EZOgL4c1A2LKhigwLb90Pjiz6FbDrih0DTWD9eCFDOjf0GSK9lWlexE+pBOPacjPnIML2LVtu5PRVjKh5G/ULut4/AIP1LaSPn6ghYR7pFRq5sG9hOQj2S/9+X5ZdtvqWbAenXJCxb9EyWublvnVF7FpJrhRUJJdeV9zVk+DgIwnVLlfSl4wyOTSyD0RttMXr75cdKo1MsEt269dr43NWizNZ7Br915gZDT5SD9vLREepWJPVAZQOZXuQiY9iMgmOeT+Oo0Wr/S/2VEKEqnNBuC2xaR3Vyzf9XJISTat4ZXf7DZCvmvJRVhWHkz3Xfi0GM1XljDFyWxFT0I+gnCZ6V6QuD9DpYVZc+6PHNgKVOZXXYFAOI14F0QCBEEmxYNzAnUedz47eaZj4ytBAazw==;ia6IevrTBl/si3HYA8ODbQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201014/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201014/New-machine-learning-concepts-can-help-develop-novel-drugs.aspx"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: News Medical
@@ -40,6 +40,20 @@ related:
     quality: 59
     images:
       - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/24096/aImg/44600/machine-learning-for-drug-discovery-m.png"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Machine learning model helps characterize compounds for drug discovery"
+    excerpt: "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields. Now, Purdue University innovators have created a new method of applying machine learning concepts to the tandem mass spectrometry process to improve the flow of information in the development of new drugs."
+    publishedDateTime: 2020-10-14T14:35:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/machine-learning-model-helps-characterize-compounds-for-drug-discovery.html"
+    type: article
+    provider:
+      name: Purdue University
+      domain: purdue.edu
+    quality: 39
+    images:
+      - url: "https://www.purdue.edu/uns/images/2020/chopra-treeOG.jpg"
         width: 800
         height: 400
         isCached: true

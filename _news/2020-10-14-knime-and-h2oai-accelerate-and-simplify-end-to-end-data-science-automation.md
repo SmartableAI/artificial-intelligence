@@ -2,7 +2,7 @@
 category: news
 title: "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
 excerpt: "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment."
-publishedDateTime: 2020-10-14T08:16:42Z
+publishedDateTime: 2020-10-14T16:38:00Z
 originalUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
 webUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
 type: article
@@ -49,6 +49,6 @@ related:
       domain: finanznachrichten.de
     quality: 8
 
-secured: "eWjlB0rzwYpwFH+DCZoBRQ27WbW5mKppNK7Brh5V1uo28KUtxzS8cnV3NJHhcOcJ6/6Qhq7WEreC3czZmyFAbbkTQpm2KxcyuiLIkH8pluIwMfYz80tMNEebaphyot/rt286u/aXZ1if5WwGL8ET6t0ADWN6gvLBJexcxEKdilXnY25RuAIumMizWjvZcy+T8HnvAmBZnX018bkRXBhFGH45nqFezaeXi3MaioFMlODwl7KGVYi7Gf3qih1KZJiIu3q0UGeWPAAfhLnqZAWFYH+O1LXXeDnkBSEjo+KiKenROvbeeg5Up3vcj/GL+FDghv0zAB7muCrEXUZq8vemwiC/klvxVg/1HZjElNGPWv4=;FWuiXPlTQM5jZCWJDJRNWA=="
+secured: "lAJ1GhWybxutgsf9z12anMUdxef6G0yVWR20N2O89ysFVkoe5xoQAy3dCjhRLRx4IeMoKuaAX9gc+M1UXA0uv4dPKpaZKvzVeaVV0ik+ZaOVeFSzSrH4Q/ih2vAHLnRWIWFK1YGWdYc3t3HXG/ofVfmfe5lw0rMsBBjgI9OuPjoB3e1q552WAwqwXOkLx4vpbIH/wv4seFvgtzlf/7U6IPKiOe9bzkg2otuBhetinX41muujlyuHef35hXrfLn5AvsFGTT3q78FNFk/CnWcD8rYx2awiO1FNOWBNAKO/MQjKb3wBBNyr4lrKDdyQ2yQGuCK64XiAgyAbZogSkstpIRcpD8mU8LJN/Scu/Zm/YB0=;qJ4KpWp9Z8FVtbEBrRf81g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/ai-inevitability-can-we-separate-bias-ai-inno
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-inevitability-can-we-separate-bias-ai-innovation?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 740
     height: 450
     isCached: true
-
-related:
-  - title: "What’s next for post-pandemic fintech innovation?"
-    excerpt: "By Brannan Coady, CEO Netsells Group, CPO YourParkingSpace, Even before 2020, FinTech was fundamentally transforming the way financial services operate. Established market players have been forced to step up their use of technology to keep pace with challenger banks and FinTech start-ups."
-    publishedDateTime: 2020-10-14T08:00:00Z
-    webUrl: "https://www.globalbankingandfinance.com/whats-next-for-post-pandemic-fintech-innovation/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-14T131808.046.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "d82KTMx3006CHzSuZPeuo0lwim5ZUHWsfuM4frcPN9EmS3YSzk05kKwkwpQz3+ffPnyIefl9MDoVdnWsd3srRgqXCK9OW/moOlj7a5C1eGwUOoheCxQaWNPB8MRY4rKBxNqx5mKH53lNH5kd3BAPwhI0J0uZfC/HnQ7dvNovPALMk7DAh0S4XKq2h1Gi5tF9LisbT/VDu2X0pyYLl+BfRIamggd2O5Uxkto/kYOt7s46jwjyA1/sNvuO/o9OnAsAj52EhfT8JMvQ5bqM7McZEVgd7HArCiTCcnVeWN8yS1YjmstFaZJVSvCplwu7MERDzPRN5edsnOCr9vMYkUjaX1MMbNLWbSj9fDZvPzrFNsHY1JmBB3FyEwdOmjauDUHBIn5SC1/PqWrGZeRCt8AkpnJVLCMaZo/DNQNw8NoJTJGM//DIweJDqxASAeN3w3pZKqrQpc8RpC+9Ni6gkHc+ZQs9MOYfOeMckPUIWX+ZwwVSyT2Or1PC2zBC2Hu8XcvqzZNtHc7tf91WmLf56Cz/Ew==;isT8gHKJZDwCvsUEqhFxvA=="
 ---

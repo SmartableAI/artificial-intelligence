@@ -1197,21 +1197,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-facebook-deploys-its-ai-to-find-green-energy-storage-solutions.md",
-      "title": "Facebook deploys its AI to find green energy storage solutions",
-      "excerpt": "One alternative is putting that excess power to work driving catalytic reactions. “There are a lot of different ways that we can store the energy,” Zack Ulissi, CMU Assistant Professor of Chemical Engineering and Materials Science and Engineering,",
+      "path": "_news/2020-10-14-new-machine-learning-concepts-can-help-develop-novel-drugs.md",
+      "title": "New machine learning concepts can help develop novel drugs",
+      "excerpt": "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields.",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
-      "originalUrl": "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
+      "webUrl": "https://www.news-medical.net/news/20201014/New-machine-learning-concepts-can-help-develop-novel-drugs.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201014/New-machine-learning-concepts-can-help-develop-novel-drugs.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F64625200-0d97-11eb-b2ff-474c419ab255&client=amp-blogside-v2&signature=44deace43d9002073d11fa617625620dd03d9831",
-          "width": 600,
-          "height": 350,
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2fDrug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
+          "width": 620,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1219,23 +1219,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
-      "publishedDateTime": "2020-10-14T06:41:00-07:00",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201014/New-machine-learning-concepts-can-help-develop-novel-drugs.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201014/New-machine-learning-concepts-can-help-develop-novel-drugs.aspx",
+      "publishedDateTime": "2020-10-14T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1244,8 +1235,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Facebook AI"
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

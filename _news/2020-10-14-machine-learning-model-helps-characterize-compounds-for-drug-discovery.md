@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Machine learning model helps characterize compounds for drug discovery"
-excerpt: "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields."
-publishedDateTime: 2020-10-14T06:18:00Z
-originalUrl: "https://phys.org/news/2020-10-machine-characterize-compounds-drug-discovery.html"
-webUrl: "https://phys.org/news/2020-10-machine-characterize-compounds-drug-discovery.html"
-ampWebUrl: "https://phys.org/news/2020-10-machine-characterize-compounds-drug-discovery.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-machine-characterize-compounds-drug-discovery.amp"
+excerpt: "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields. Now, Purdue University innovators have created a new method of applying machine learning concepts to the tandem mass spectrometry process to improve the flow of information in the development of new drugs."
+publishedDateTime: 2020-10-14T14:35:00Z
+originalUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/machine-learning-model-helps-characterize-compounds-for-drug-discovery.html"
+webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/machine-learning-model-helps-characterize-compounds-for-drug-discovery.html"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Purdue University
+  domain: purdue.edu
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/chemical.jpg"
-    width: 1920
-    height: 1336
+  - url: "https://www.purdue.edu/uns/images/2020/chopra-treeOG.jpg"
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -60,6 +58,6 @@ related:
         height: 400
         isCached: true
 
-secured: "n1WGLq/EBJMyZJE+PdRoWXbi3iIXEeOsfxxNXU0CE9P/26vHp4kVcMYW8hWYupU7LHf9B9Hfl3Q4W/dYcQHvufZbPZbqD0xwz/ri94JFs9/0iilOi4IV/XbMEC7CwAqqlNT/KfpZWMCTow0URoS0Vc5Q3AZxzZQV0U8E4HYKw8jXePcGQAW5z8pzQxaNj7sXtwmxVJWlropmSATJzQ5AFC+ZsUSoKNKarKS1JE8Vou3eNbgbC2ibPbmy9vwmJEtpXbdKtYu2iRGAC3EVKawzpqTBbpnacTFCJ6nPu4OejfxB+SbLsmwhYtFYKDqzJeF0BK1OOerpZYebEzlJZCJ8qvURgwShJwu7oAcT3GxE6sA1WsvduLwGzC6HCPTdCphQHX7WKB+drtiR+zwdyYByPAy6II7ISwc61a5DRD/a/RekFWYXw4/VHb8eG8HBNXlDh0/7nQ04ob/aTE7wON4qOtDERzZf6TPHjn9jeyv5Ja7jl72tX1s+VyiOaVgU89kjZKnTfgOpkfcf5FtkAqpuUA==;HLTUyYyJRdjbw42LuMsgJA=="
+secured: "PzDF2ky9MEtdXPpE1paqnyMvAVIcjdLkLii5f7dZejcY7GDolQk5OmfoLSyXfA4+afSvN2WodY2vVVV88eJTKLVjuBewcqnqtmdkMjelColak31fO3SxIN3xCBAyOlcl+dFV5ShDGYS9MEsOsDxSJKBLOvbKWgWVsBCiLEUin4dLxrUep3nxSAY37whoWrQs/TZcKiJYCys6to9O/Bl5zo9r/ad974SuOz6yqix5eUS7SfXND2Tv0JFluLh98rj6/F/piiy5kXCP5GEHSgS5QaC+L7HQGr1AlPHYsMM8Q4SIvYGMNVmloGVl1y+nLRF9ihof3S6YxPYSnHNBgbDGCVh+vzOBE7f7FkBZxSUgjLM=;vHNBqWeE7cdYWwNowJXFdQ=="
 ---
 
