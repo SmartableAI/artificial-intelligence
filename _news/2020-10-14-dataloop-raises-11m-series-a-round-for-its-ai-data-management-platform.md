@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-dat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "We got an exclusive look at the pitch deck Israeli AI labelling startup Dataloop used to raise $11 million"
-    excerpt: "Dataloop, an Israeli AI data labelling and annotation startup, has raised an $11 million Series A round. Founded in 2017, the company combines human annotation and AI to provide data labelling services which can train AI models. Data labelling is an ..."
-    publishedDateTime: 2020-10-14T13:02:00Z
-    webUrl: "https://www.businessinsider.com/dataloop-israeli-ai-startup-raises-11m-series-a-from-vc-investors-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5f86c7cf91aa9e001880b86a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI dataset startup Dataloop lands $11M funding round"
     excerpt: "Dataloop Ltd., a Tel Aviv-based startup that helps companies create training datasets for their machine learning projects, today announced that it has closed a $11 million funding round led by Amiti Ventures."
     publishedDateTime: 2020-10-14T14:04:00Z
@@ -58,34 +44,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/dataloop.png"
         width: 718
         height: 400
-        isCached: true
-  - title: "RBC Capital Markets launches Aiden® - a new AI-powered electronic trading platform"
-    excerpt: "RBC Capital Markets today announced the launch of Aiden®, an AI-based electronic trading platform that uses the computational power of deep reinforcement learning in its pursuit of improved trading results and insights for clients."
-    publishedDateTime: 2020-10-14T12:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-financial-services-technology-north-america-artificial-intelligence-f9170a5c25bec3cdc563bc01bf466961"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Findem, an AI-backed startup that aims to make HR and recruiting more data-driven, just emerged from stealth with $7.3 million in Series A funding"
-    excerpt: "Business Insider got the exclusive look at Findem, which \"enables teams to do what they do best\": engaging with candidates, not pipeline building."
-    publishedDateTime: 2020-10-14T11:11:00Z
-    webUrl: "https://www.businessinsider.com/hr-recruiting-startup-findems-series-a-round-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
-    images:
-      - url: "https://i.insider.com/5f85f20491aa9e001880b630?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "pAv7WQvKaMAMXJzMClsk/ooWJ91yVoIv2QtGi2vL95DsMTJmam7JR5RfcpU+EGcqDZ5x00m4pW/nRqp0wkOtKq6PvQNblNicb8oHI5jShSFKLOAfOnJ9oC7ayEMD/adTcTVM3gaBAS18h+IbeA2yzRC3ZGTqELI5iibZjhSNcyuzr6rEbZd8Qt9BRdyiX2u0kebd94ko8INRFr0/o13iuk0woXXImK5n+f8zBxgcdbVavS9uheWWt1t3turnNVEXQJ+8Wzn5KSpXQUiLE3r8q1UHnXdnIdyWNpTV9Io3enR/rZonZza24E+LYZh0I1C4niwbGZQOnFvPumBuGi1tdssIrh2PyBQjcnIEPmob9ENN5ClrkhfO0N2dOXzpvJWzswiN8vROqfiYxeP6AAH4VccHgPV22OQH00fB5RODj6HlZ1NgGrpduzdhKMknAaLEw/lUCFAslXwoO8G5ue3N021RDjuyrxx23wSIrpaP9Umz6aR06FNvVuvSr7UFKtW00lxQeJwlQHwc7B2YR0TgIw==;Y52tYOBt5UqMnbk7E8V/0w=="

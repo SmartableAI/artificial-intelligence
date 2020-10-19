@@ -150,20 +150,6 @@ related:
         width: 394
         height: 263
         isCached: true
-  - title: "Google Analytics Gets A Major Privacy And Machine Learning-Focused Overhaul"
-    excerpt: "Google is revamping Google Analytics for a world in which privacy plays center stage and identifiers are exiting stage left."
-    publishedDateTime: 2020-10-14T12:00:00Z
-    webUrl: "https://www.adexchanger.com/analytics/google-analytics-gets-a-major-privacy-and-machine-learning-focused-overhaul/"
-    type: article
-    provider:
-      name: AdExchanger
-      domain: adexchanger.com
-    quality: 37
-    images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2020/10/GoogleAnalytics.png"
-        width: 800
-        height: 278
-        isCached: true
   - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
     excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
     publishedDateTime: 2020-10-16T19:30:00Z

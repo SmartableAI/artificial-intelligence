@@ -138,20 +138,6 @@ related:
         width: 394
         height: 263
         isCached: true
-  - title: "Google Analytics Gets A Major Privacy And Machine Learning-Focused Overhaul"
-    excerpt: "Google is revamping Google Analytics for a world in which privacy plays center stage and identifiers are exiting stage left."
-    publishedDateTime: 2020-10-14T12:00:00Z
-    webUrl: "https://www.adexchanger.com/analytics/google-analytics-gets-a-major-privacy-and-machine-learning-focused-overhaul/"
-    type: article
-    provider:
-      name: AdExchanger
-      domain: adexchanger.com
-    quality: 37
-    images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2020/10/GoogleAnalytics.png"
-        width: 800
-        height: 278
-        isCached: true
   - title: "Google launches Google Analytics refresh with machine learning predictions"
     excerpt: "Google LLC today rolled out a major refresh of Google Analytics with new trend prediction features powered by machine learning, a streamlined interface and extra privacy controls. Google Analytics is the go-to tool companies use to track their online marketing efforts."
     publishedDateTime: 2020-10-14T17:40:00Z

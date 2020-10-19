@@ -9,7 +9,7 @@ ampWebUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-resu
 cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Google launches autonomous robot to analyse farms with artificial intelligence"
-    excerpt: "Google has launched an autonomous robot which uses artificial intelligence to monitor crops. Powered by solar panels, the buggy travels through crops using cameras and sensors to predict agricultural yields and help farmers decide how much pesticide and fertiliser to use."
-    publishedDateTime: 2020-10-14T12:31:00Z
-    webUrl: "https://www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/"
-    ampWebUrl: "https://www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/amp/"
+  - title: "Google Details How It Uses AI, Machine Learning To Improve Search"
+    excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."
+    publishedDateTime: 2020-10-16T04:14:00Z
+    webUrl: "https://www.mediapost.com/publications/article/356876/google-details-how-it-uses-ai-machine-learning-to.html"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 72
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/environment/2020/10/14/alphabet_trans_NvBQzQNjv4BqEo7ukXPj3dSVEb29e9SgAAI0OcPg6ShMBBRXr6oDkZQ.jpg"
-        width: 701
-        height: 439
-        isCached: true
+      name: MediaPost
+      domain: mediapost.com
+    quality: 36
 
 secured: "yB01PA4lcYu9RUMI9JHnZ7aHjiE0CCDnCQt5QxUlt1Zv5Cxh0J1tR/0QjCuHIvp/3Kvia16LmnRYqYULEXAFrY+saJsdXPvfkOMGuAtkLqItvNMZvJWUCzHQav5RIraCwu5wBBEXz9jIy/8jYUEaMaYFEvbNlmxlCVOc/UdWMaEojErg/m/tDsfKn7YqTduox30fNFo3vAX42lLeOlHYpbB/pdunySUQ/SbWD0rJ7Gd8UM91x/tbfDbMO+o1mLHGkm7DWvRtrT0ohBOEKLFBBdwNdQHt8Tc86dfakDb2csqItH5tU2Slp9b3e8vAOr6dHDFx3KHCMMu+egq+GWhllTOe0ovVbBbzEVzsQstzfU5GStznAD9NooKGQFKEuSMY/GQ+ssf7PxzNei1u9h6ECMHGpkXqXBm2EqT55/35dhNgPX4kxYqx39VZgbO+RVv2ZkUh/WDoVqNH0JpA3sqW6GLMHL14Fgcy7K4OvkY5V/9SJIMutooCRM2hMir2i4NMbZH01ZcMV+Q09MrJTC0cWQ==;oZxFUqaMVQs4vtDk5A+sAw=="
 ---

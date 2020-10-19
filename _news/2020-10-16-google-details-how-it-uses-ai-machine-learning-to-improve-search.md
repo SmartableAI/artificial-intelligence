@@ -7,7 +7,7 @@ originalUrl: "https://www.mediapost.com/publications/article/356876/google-detai
 webUrl: "https://www.mediapost.com/publications/article/356876/google-details-how-it-uses-ai-machine-learning-to.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,24 @@ topics:
   - Machine Learning
   - AI
   - Natural Language Processing
+
+related:
+  - title: "Google Announces AI Search Updates – Analysis"
+    excerpt: "This is how Google AI updates will dramatically impact how sites are ranked. Analysis of changes for SEO and publishing. Google announced a series of changes to search that will change how sites are ranked."
+    publishedDateTime: 2020-10-16T13:15:00Z
+    webUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/"
+    ampWebUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
+    cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
+    type: article
+    provider:
+      name: Search Engine Journal
+      domain: searchenginejournal.com
+    quality: 57
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2020/10/ai-in-search-5f88cc960a6ef.png"
+        width: 1600
+        height: 840
+        isCached: true
 
 secured: "7DTXKnvoHAni5HIgWhpGLzziV/U7LbIOfU6x4Ggn+X0RZn/JMVYOsPSHVfQeyj+HjrDdUXSPAlwbE0iJnt34PrYotlt0edHKWGYBDqxe86Ker57+4tHj6POZBxckHHZaIcByWEYkFnUW7mR+IIJE8/dj1fQWbZUBAX/R65E7fGxhilm1UZ67sv9fPvgb+Wj6qsJGYVwZqE0Dd9Kv3hlRwhz8vfC2+tNMKOMOsGKqomYaXJ2cLOLA3G1LpI6oKsJpoi2Eim6xCQzipAaeRdwx6DOIok4pmQB3eF+W1U3W5ukCXHkiUqVmSGnM53OC6TqEl5n00Sn7fYRzdvgUFcI2TwN8ffggOWhEIE+k0IyGVLk=;A0EE+M9NIRrmpDwrj8vv8A=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 1408
         height: 792
         isCached: true
-  - title: "The Future of Artificial Intelligence in Financial Markets"
-    excerpt: "General Trading Company announced that about 98% of the profits made were due to its unique artificial intelligence technology. \"An"
-    publishedDateTime: 2020-10-16T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-future-of-artificial-intelligence-in-financial-markets-301153788.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1313502/genral_trading_holding_artificial_intelligence.jpg?p=facebook"
-        width: 1248
-        height: 653
-        isCached: true
 
 secured: "ubzOtQltGGYv4FwBSbytDH8xc78Tpc8lDa6ACK3Jdi+wEi4/kQ5qcRnf9ZU3QeOpK1Lb2o7EAdk/iN3DxSI6kWTaUXvid1C6oX8cjtgycRrxsERJAbwwJg0ZfK8YWA1P1HPw/5QE+l5eki3CE57C7yjbOaK0hSoel4VSNfjqYRMtWAwx7v5B9/G4vcG1uMqalCWSJKn7oKbag5SbY9S7plPOekC07Z5fgm+AE9to81hejlnNwdtknWMRKnwFCZ0wqzuG6FNbI1E9hhvpIp27o6yJcAnk8dMLKRIk82FmLrTAvoLCyogD8MWs5nNQ99xq6uPMwESFIMw3RrEWOMWbgf7D0/47PHqwCRkRz8rnPgDg56KvRF56yfnMPU60qjjipmDB5Lj0hPzZsIFPvBOLhZrHlVTnQyXlheGUPw3KvoI7OtY26kfDQ3rRktlDV/wwj1xG/73Qc6sp11nKTrFsKvDwkdyK15opy54kjRYNfjS4V57i3nSzge6oMeB7m2XGs3aJhm3x6iLVOyPMeptroA==;wSh4plhUhVKG9gi1FE9huQ=="
 ---

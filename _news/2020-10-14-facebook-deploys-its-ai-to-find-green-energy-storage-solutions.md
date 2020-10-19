@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-e
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/gKDij_RxAohDBdghYbl6qEL54B8=/1200x630/2020/07/25/a5b66fe1-db1a-4c66-85c6-5fb905e14a7c/twitter-facebook-logo-phone-united-states-flag-4542.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facebook and Carnegie Mellon launch project to discover better ways to store renewable energy"
-    excerpt: "Facebook today announced a partnership with Carnegie Mellon University on a research project — the Open Catalyst Project — that will leverage AI to accelerate the search for electrocatalysts ..."
-    publishedDateTime: 2020-10-14T13:02:00Z
-    webUrl: "https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/"
-    ampWebUrl: "https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Facebook to Explore Using AI to Help Store Renewable Energy"
     excerpt: "Facebook, partnering with Carnegie Mellon University, launched the Open Catalyst Project to find cost-effective ways to store and use renewable energy."

@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook and Carnegie Mellon launch project to discover better ways to store renewable energy"
-    excerpt: "Facebook today announced a partnership with Carnegie Mellon University on a research project — the Open Catalyst Project — that will leverage AI to accelerate the search for electrocatalysts ..."
-    publishedDateTime: 2020-10-14T13:02:00Z
-    webUrl: "https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/"
-    ampWebUrl: "https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Facebook and Carnegie Mellon team up for AI-led energy storage research"
     excerpt: "Facebook and the Carnegie Mellon University Department of Chemical Engineering are partnering to research how AI can accelerate the discovery of energy storage solutions. The Open Catalyst Project aims to help solve the challenge of building a grid reliant ..."
     publishedDateTime: 2020-10-15T16:49:00Z

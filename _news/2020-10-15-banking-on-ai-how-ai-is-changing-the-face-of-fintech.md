@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financ
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://media.moneyweek.com/image/private/s--gSFQ7iVf--/v1602759072/1021_MW_P16_Briefing.jpg"
         width: 1408
         height: 792
-        isCached: true
-  - title: "The Future of Artificial Intelligence in Financial Markets"
-    excerpt: "General Trading Company announced that about 98% of the profits made were due to its unique artificial intelligence technology. \"An"
-    publishedDateTime: 2020-10-16T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-future-of-artificial-intelligence-in-financial-markets-301153788.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1313502/genral_trading_holding_artificial_intelligence.jpg?p=facebook"
-        width: 1248
-        height: 653
         isCached: true
   - title: "Early-Stage and Mature Fintechs Chosen to Take Part in Qatar Fintech Hub’s Incubator and Accelerator Programs"
     excerpt: "Early-stage and mature Fintechs chosen to take part in Qatar Fintech Hub's incubator and accelerator programs."

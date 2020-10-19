@@ -96,6 +96,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Voice Assistant Market Is Anticipated To be Worth Around USD 7.7 Billion By 2025 – Zion Market Research"
+    excerpt: "The increasing proclivity toward IOT and automation is fuelling the global voice assistant market growth. The growing demand for smartphone is also fuelling the voice assistance market globally Zion Market Research has published a new report titled “Voice Assistant Market by Technology (Speech Recognition,"
+    publishedDateTime: 2020-10-16T03:00:00Z
+    webUrl: "https://apnews.com/press-release/marketers-media/technology-apple-inc-smartphones-consumer-electronics-north-america-d8d725d178b7c1a6773c849c035dad79"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence Market by Technology, Hardware, End-user Industry, and Region - Global Forecast to 2026 - ResearchAndMarkets.com"
     excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026” report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-10-14T14:24:00Z

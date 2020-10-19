@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-14T16:38:00Z
 originalUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
 webUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
@@ -49,6 +50,6 @@ related:
       domain: finanznachrichten.de
     quality: 8
 
-secured: "avJ8vmhkgPzHbWe6/EQShiVTN3qOLEnt3mfD0ddPDdqTA9VQXm2NoEy/GOmC6gWSZ9Mpto1wNeFqHiYCSfDqSctfvP5y32w0eD/MM1nqORHM764+9oQY+vrFXFuTO1jx7KpJN1Kx2WtmaYFZDSHSlBDx2nU+q6Dure63lrDvgqpFQRcu0TdcnY7PrMKEXtxpXg/w6gYWPS3drZm7IQYmUkCl9lvhwsygP5UAcf27oCOw4qdYvcFUCVaCn7HP8SSOxJmjH8ZVGC3zqSJWimmvYVaHCfGPZ7nPvPqZs20rVsexTA/o86BdQ7Z8jyiXn7XvX4QZle0McGp0Z9jhVTSVTrV2Roa0opVorGAP4Ismo08=;WEVZID5+nIEhjyivxzAw6Q=="
+secured: "33XzeFfbgqhmABivmmapTDEXJK5SWoPGyoNxlYVUmtqOf2wYdLt02RGYGRKvr36KvHcrfTQ1gn3blBiUMzW2ifJo8N/4ED2NtH7avGyYlN3oMjbI+OUIuW/f6690sF4ZpbuoaJebKEvx1OsHqwFgVdiAZIlzWC5ITJZ/ujwH2LGtA2jVCQoOrOeHfEt0Ehq2n+LI0h/HLnclUB8trLlDgUkPhNdLBkgxBpi/Oa7I4BT8v/+qQu/DOzp+bp1Kowz/kMpDCD+TCzhXC0xNYy+8yPACjT5UfVll3TT2HHnr2fJJyhMpOfKD4QDQ5v6MeJPLSby/k+ISPGoV/CvkJDxlf3olbzPrCxsu0qjEdE0N5Q0=;/z3il74j7MHTJJwpKUQllQ=="
 ---
 

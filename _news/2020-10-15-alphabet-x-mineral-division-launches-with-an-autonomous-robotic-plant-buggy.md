@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/10/14/alphabet-x-mineral-division-la
 webUrl: "https://siliconangle.com/2020/10/14/alphabet-x-mineral-division-launches-autonomous-robotic-plant-buggy/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 700
     height: 525
     isCached: true
-
-related:
-  - title: "Alphabet X has built a ‘plant buggy’ — a cute lil’ AI farmer"
-    excerpt: "The prototype device is part of the moonshot factory's \"computational agriculture\" project Alphabet‘s X lab has unveiled its latest moonshot project: a crop-inspecting robot named the “plant buggy.” The solar-powered prototype roams autonomously through fields,"
-    publishedDateTime: 2020-10-14T12:28:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/14/alphabet-x-has-built-a-plant-buggy-a-cute-lil-ai-farmer/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/14/alphabet-x-has-built-a-plant-buggy-a-cute-lil-ai-farmer/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/14/alphabet-x-has-built-a-plant-buggy-a-cute-lil-ai-farmer/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-14T121955.859-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
 
 secured: "AedKMEKMRGq/ZQAiX7+jXbrsG8FYe/C7fSS5viDtSWpve+OetuNgY/n8zqo6MU1lkhojhz9H7QdCXkCcad0lV5N/tVJbUT6DrXIozFRFKVZSFDybzw9asBDgqq8uCxho9k+M8sgYQRAFbhgH4DWdfaxnq8S8UY5frg7SmgOtSOnTOb3iH5IkF04VJCrXgHF4YRhsGLlur5JMqzk7zwg1frJBMDTDtvZIA4yJVXm/PKZ796CfVdpdPl9F/2jBW+uSXYa8MgxU7QOLt41Fey6hW8+5KdgRWMXpliBukrRIh4W8Y+CvNI/bEnttHxouYGJzc7YFYHgHXezBsK4+e2wtY3Hm4eJ3vsO1aoe/ivPL8FxpiVPnfVuxc/AyEKAwmUc8FhVoYJRSVFUxoSjKh9RSTQgbo7anQuLfC+h1EIniRvVGPCSHWlde1grzq27HLPLdeywAezJDsDKr02C95xReN1N4hSmcQtuLEJttemkAFXyQ9HbMfHb1+LWsvV6TrifBrmmhBqh7HWx131p+rskZGg==;CgSU9EmTXg2KJy7LRI5vBQ=="
 ---

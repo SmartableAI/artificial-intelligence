@@ -106,6 +106,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 9
+  - title: "Voice Assistant Market Is Anticipated To be Worth Around USD 7.7 Billion By 2025 – Zion Market Research"
+    excerpt: "The increasing proclivity toward IOT and automation is fuelling the global voice assistant market growth. The growing demand for smartphone is also fuelling the voice assistance market globally Zion Market Research has published a new report titled “Voice Assistant Market by Technology (Speech Recognition,"
+    publishedDateTime: 2020-10-16T03:00:00Z
+    webUrl: "https://apnews.com/press-release/marketers-media/technology-apple-inc-smartphones-consumer-electronics-north-america-d8d725d178b7c1a6773c849c035dad79"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "CxPU0LV1i+gwoTbsZF2LCouAdvca2zeq4bNoWror5zdR126ezCLPQuShP3rna35J72AdHgTAdNwx01CpCV/Xi7KPsU4tTtlSbFT9mp7pokL+v1iWBRtXW87CIGuHKTyUG2hpg8QfCUYRfgNhVxHDwSHIh+CqK0eYbYaPER0ofKQJtNrIcnd22vuKAGO5uq5DAE4kkPBdojyCHWBuffVvyzy2sgjKd2emhNHK/VPRs1NHZTJFgFGtW9RxQJKAw6RGpViBf7z6oF2ZkFCfL6HXwAbHqvkBunaCL2PRL2L2DOBP2cU5Iu/kS5OTQxc49C3k3hpVrplg0n281pFnCghH0iiz+4Fm0SYuGdsQ0ReE/Fg=;9msqLGpd09ePcNRGDt5sHQ=="
 ---

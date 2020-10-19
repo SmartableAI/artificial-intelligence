@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight
 cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/marsai-martin-on-growing-up-in-the-spotlight-and-finding-her-voice-exclusive/603-2211bf1f-01e9-4ab4-a870-4fa8f7538ab3"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 750
     height: 422
     isCached: true
-
-related:
-  - title: "Marsai Martin on Growing Up in the Spotlight and Finding Her Voice (Exclusive)"
-    excerpt: "As Hollywood’s youngest executive producer, Marsai Martin is doing pretty well for herself. The teen launched her own production company, Genius Entertainment, and landed a first look studio deal with Universal Pictures under which her 2018 comedy,"
-    publishedDateTime: 2020-10-14T13:03:00Z
-    webUrl: "https://www.etonline.com/marsai-martin-on-growing-up-in-the-spotlight-and-finding-her-voice-exclusive-154542"
-    ampWebUrl: "https://www.etonline.com/marsai-martin-on-growing-up-in-the-spotlight-and-finding-her-voice-exclusive-154542?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/marsai-martin-on-growing-up-in-the-spotlight-and-finding-her-voice-exclusive-154542?amp"
-    type: article
-    provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 55
-    images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-10/eto_unfiltered_marsai_martin_100920_vidpic.jpg?h=d1cb525d&itok=S4s4lCIJ"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "UiBQ1kYeWp6ydJs54JVGaQ8UoV0gISi1BXZtLXQgAk/7Wv4CpOzzVtSM5O7l9hg8bW/GdRTvmZMqJAUX/P/pIb56WgticJDrgxch1dcsekxrYJnMoCGIBBcWx8bdcmSOs2vEPAM47B0ULbns9fs+bvh2olhRU/ZogplWgAe1VUVsKA7ZUJwZKodFC6Ka8meMIk9nLYBFLNdcRv69zQWYkpBNyIdG0w/Mn6Ju8k3u/Z8gt+kXWwIphVvxOtFsMIskGzcbIKBayYHZjs74eVWhJbYW/osto1rK6vKdqI6k7j31mbti4XGbKDgSsY/qjW7Z4R50OKTjAEQz6kpyHWX4GM84BqQjmkQ1+1NOt+boyBbePAkSa0ui6Kw9YgnjLaI/ZcQukyl/MWWNhNruSpJpFBEP8Z7fbUXLsHq6/t76qtmhQwoHni18kK7718XzR9cTliTiKMSY8bIvNnjMZPR30RWQKxQ6UoJykHbtUJv1cVFMdTYhybBbETcZFyMb1aZL0W+rIhqElfj/taBr1e3PJg==;OH+BSkYCPdsWE4SZkMShVw=="
 ---
