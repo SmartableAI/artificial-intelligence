@@ -137,20 +137,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 41
-  - title: "Google Analytics Brings Machine Learning to Customer Insights"
-    excerpt: "On Wednesday, the tech giant unveiled a new update to Google Analytics that uses machine learning to uncover important insights for retailers. The goal, it said in a blog post published Wednesday ..."
-    publishedDateTime: 2020-10-14T21:26:00Z
-    webUrl: "https://wwd.com/business-news/technology/google-analytics-machine-learning-ml-customer-data-privacy-1234635255/"
-    type: article
-    provider:
-      name: Women's Wear Daily
-      domain: wwd.com
-    quality: 39
-    images:
-      - url: "https://wwd.com/wp-content/uploads/2020/08/1101_penneys_brand_defining_store1.jpg?crop=1382px%2C0px%2C3239px%2C2161px&resize=394%2C263"
-        width: 394
-        height: 263
-        isCached: true
   - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
     excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
     publishedDateTime: 2020-10-16T19:30:00Z
@@ -166,6 +152,6 @@ related:
         height: 627
         isCached: true
 
-secured: "wmVisUFgWQrbr0wnJMcJqERhim5SueSu6Gc0tB20Lw8TuqtLzhBkvTvfU67lDCQ67JhgAVz87Y03DkEMPPjJpBuwhmcOI/H7yBIbyYq5yoVHl3+J//ObrobHDoJ5759X+of2P4a64Hmf3UQFOq5UbfWqlOOJocnUuJWv5y8O9pCPI7vGsGOE2iTlD899BA/ydfhhvE/aFE59VO6CuXh2UAmR/rmbDuCpbCq6h15uZQUE8N0JbMJ3I64uB3I2kqKKB61MEZH4j/Yj2iYDHnKj7/1pNsOsJfRJiG0mf6JLVVjr/ZH4HU5h5HWXLV2m0vgEwfZGqN8v8gv317sLg/IAepfegQFwIzhKzcW51Oglvgw=;CH8eTctL5XU3jEDuC0Txwg=="
+secured: "LOs6QMoAAFg8bu7kXvhTYlBgyibC+JCqSn6rBYTtKZkP52bH4CG4VK6KrpDLwCp6RITqpxO06lsFcsDoaIBZYY7UjIA3UEsaaYhRyruKF2fnwV8SonVc4mp2HZrjZGpD6jmBPKN26xHkDocDlPdbmVVsh8t+OH/57QiLpuI+fTwxvHnYc3xpSjAI5w9o6PrwQHKr5ELyfYtr1RKvcm3Ct5+XReZ3jGI3MVHRKIjih4JdN9CgzrQAtLWWgIvYFnSioSCJqeh4Gye36KisEa981uy9vF1v4+lbZ1gh+b4gQXUVP4h/7Eu4tnbEXKFCty1Jm0fgseShSoTRQPM8h8AS8vwAnA9aQh4a3dX5PQM/Z4jStKROio/NP+uZU/vjPh8nGBQyZ3qp4OcsB5+fVrTqBJpOeaxj6Db6xwN0kXML49gyRjNXtKCjJUhklaPMChPpvrrdeyZcY1FcjEf1RJevgZNKXuo2sJQZPb1GBWWt+6liLVJOoiPiR5eU3BBurT89MUnmqLzqEv+EcEMWPjKByw==;iAF4UZDNgCKqf+YehYHssw=="
 ---
 

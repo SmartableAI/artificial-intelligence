@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google’s Lending DocAI streamlines mortgage applications with artificial intelligence"
+    excerpt: "Google Maps and DeepMind enhance AI capabilities to improve route calculations Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry."
+    publishedDateTime: 2020-10-19T14:32:00Z
+    webUrl: "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "axle ai Brings AI-Powered Media Search to Adobe Creative Cloud Applications"
     excerpt: "New integrations with Adobe applications for remote teams to debut at Adobe MAX online conference. Boston, MA, USA – October 16, 2020 – axle ai is excited"
     publishedDateTime: 2020-10-17T01:14:00Z

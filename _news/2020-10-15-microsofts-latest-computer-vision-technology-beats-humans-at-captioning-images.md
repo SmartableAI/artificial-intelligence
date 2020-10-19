@@ -74,22 +74,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft makes breakthrough in AI-assisted image captioning"
-    excerpt: "The power of the cloud continues to impress as Microsoft-powered AI can now write image captions as good or better than real people."
-    publishedDateTime: 2020-10-14T21:19:00Z
-    webUrl: "https://www.shacknews.com/article/120919/microsoft-makes-breakthrough-in-ai-assisted-image-captioning"
-    ampWebUrl: "https://www.shacknews.com/article/120919/microsoft-makes-breakthrough-in-ai-assisted-image-captioning?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120919/microsoft-makes-breakthrough-in-ai-assisted-image-captioning?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 74
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/14/microsoft-image-captioning-1_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft says its AI captions images as accurately as humans do"
     excerpt: "“Image captioning is one of the core computer vision capabilities that can enable a broad range of services,” Xuedong Huang, Microsoft’s CTO, Azure AI Cognitive Services, said in a statement. It is available in Seeing AI, a Microsoft app for blind ..."
     publishedDateTime: 2020-10-15T12:17:00Z
@@ -105,22 +89,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/tulh8a/article32862527.ece/ALTERNATES/LANDSCAPE_615/microsoft-ai-captioningpng"
         width: 615
         height: 384
-        isCached: true
-  - title: "Microsoft bringing breakthrough AI image captioning to Word, PowerPoint, Outlook"
-    excerpt: "Microsoft today announced it has achieved a major breakthrough in automatic image captioning using AI. The company hopes the new model can improve accessibility in apps and on the web for people with visual impairments."
-    publishedDateTime: 2020-10-14T21:07:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-bringing-breakthrough-ai-image-captioning-word-powerpoint-outlook"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-bringing-breakthrough-ai-image-captioning-word-powerpoint-outlook?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-bringing-breakthrough-ai-image-captioning-word-powerpoint-outlook?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 69
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/microsoft-enhanced-image-captioning-example.jpg"
-        width: 800
-        height: 407
         isCached: true
 
 secured: "sFeJ17Dn/XwIifakmvaxlyWqLd2e7VOEVxwRGX9KV/pySnP36AWUp+IRn7vDLdmIpsddcZILSyv52PHT98tUd+FTIFfq3T/F7zw0ETnSWzxnDemCXL2QXepXSPiqhv9XOSdg7wtGc6htU2dcRrf/+4lGPh1sshsyn6tSHAoyw3e/yXPNjGOD+BAbmp+R6aDds16ACyg3DAKYQGOELKD9MKe5m71wjgaCTUpnvvGcD5neF4ZP+oYjBb0E0dIsXEvyXrVNeFKJTqCeGFtMz0jWuh9QNMJyVrt8LX0EJII+QHP8e+jajHyTfRjlRFsEWEb3DsteLClC3GmonbdOxGFEvM1lhDWQwjzQcbrJGFFzmUxGomBQeDQVAJfrOgW3HpqH1EJUhu2Swogm8doH9piC7Wsd5Erc/fQKp37+ZnKaLwwDBVU7HneZl5bY96XcE+tCNSt+8jdqKhh/R96mXsYGkRdd1n9+pURmP5/T6N4OABi/LXZr6xLMbA5vUQ3HevMGQy0CTYvdn37oZc9TPynu0g==;oAJPPtByPT/GbFxnC2+6tw=="

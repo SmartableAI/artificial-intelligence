@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-human
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
 type: article
 quality: 104
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft makes breakthrough in AI-assisted image captioning"
-    excerpt: "The power of the cloud continues to impress as Microsoft-powered AI can now write image captions as good or better than real people."
-    publishedDateTime: 2020-10-14T21:19:00Z
-    webUrl: "https://www.shacknews.com/article/120919/microsoft-makes-breakthrough-in-ai-assisted-image-captioning"
-    ampWebUrl: "https://www.shacknews.com/article/120919/microsoft-makes-breakthrough-in-ai-assisted-image-captioning?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120919/microsoft-makes-breakthrough-in-ai-assisted-image-captioning?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 74
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/14/microsoft-image-captioning-1_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft says its AI captions images as accurately as humans do"
     excerpt: "“Image captioning is one of the core computer vision capabilities that can enable a broad range of services,” Xuedong Huang, Microsoft’s CTO, Azure AI Cognitive Services, said in a statement. It is available in Seeing AI, a Microsoft app for blind ..."
     publishedDateTime: 2020-10-15T12:17:00Z
@@ -108,22 +92,6 @@ related:
       - url: "https://4.img-dpreview.com/files/p/E~TS520x0~articles/9384724203/scanning"
         width: 520
         height: 326
-        isCached: true
-  - title: "Microsoft bringing breakthrough AI image captioning to Word, PowerPoint, Outlook"
-    excerpt: "Microsoft today announced it has achieved a major breakthrough in automatic image captioning using AI. The company hopes the new model can improve accessibility in apps and on the web for people with visual impairments."
-    publishedDateTime: 2020-10-14T21:07:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-bringing-breakthrough-ai-image-captioning-word-powerpoint-outlook"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-bringing-breakthrough-ai-image-captioning-word-powerpoint-outlook?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-bringing-breakthrough-ai-image-captioning-word-powerpoint-outlook?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 69
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/microsoft-enhanced-image-captioning-example.jpg"
-        width: 800
-        height: 407
         isCached: true
 
 secured: "37//qE/T4KIHomnQv7vHe2pNoTekMxOrWqg+jGxtC9pVodqb083E+rfsicHkFyFL8eyrJnNfuBJ2FSKYnsPL1E0u2ez7kj7QkuEBdh1i32lj7CyK54NNknjmGG0+TiPkt8NYIx/RPbIefVPhWKCnJh33EQWs5qK+5gAdaoRGA1EQIyXt0l34lW4T3W3CgOTHYAonkX8cj7c37cQPYOU04HlBwwwWQSLpHZZLDd2IIubzg2WrQ6z7EoQotrJE1n6NReeNQxA/At37j+wYc2SRSlcEqP9/D/VVKEbyC/LRAClk7xEU2/BWMiGwaG9VkGrdzojC1BiNXmzFOjJ6isw6hqOj+QnoW+KYeaKerzJmsEzEv3yHDWKr9WkB1ujqHaFqSmBS7TgGqPpuyYeB1Y5NCtED2DAUaV1LPgzpww9Sbg1ZrAAJcSxShpofvIQmRkqhbGKixlNHIvGTd2dj5RV1q561Ri1bHrpzvFnlvLj958ZmDfx5NERgH0QDvMr+jgqiqsOOmIFYKaZuBws3Kfuq9w==;5fPaOFHzm05o9+sPfB/0kA=="

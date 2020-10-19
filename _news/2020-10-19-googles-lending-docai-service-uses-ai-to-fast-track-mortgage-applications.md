@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google’s Lending DocAI streamlines mortgage applications with artificial intelligence"
+    excerpt: "Google Maps and DeepMind enhance AI capabilities to improve route calculations Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry."
+    publishedDateTime: 2020-10-19T14:32:00Z
+    webUrl: "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "Building a landslide prediction tool with Google and AI"
     excerpt: "AI Impact Challenge, Google asked nonprofits, social enterprises and research institutions around the world, \"How would you use artificial intelligence (AI) for social good?\""
     publishedDateTime: 2020-10-16T14:09:00Z
@@ -87,6 +98,6 @@ related:
         height: 400
         isCached: true
 
-secured: "CTkU2vNCOk8E3+MyZMb6gKQKY+vjtvw8F273sfLH5eVVyGalcfTTPbzcwkD8TPgRkPXcgkKr8HmY5RthqA3+nn7ROM/ClYTPkaqWlZbA6y1lZhUke7ilc+xVLfBlQdTtO5hizf5/q8emgBYsm4LAMgkm7vBw/7iU86SRvBXu+N1sh6cQ3/iqmvJxnja97Wo5NAPo0igXIoljmwZsNg9yKWRdkh5xsGGhIdWseqYppF9e65i6rF+PfJ9tBb2NUaP9dheFUUHSRHgPu05TnC/cOOWgBaQei2oThzg2kBrapVD04nAW7yost/bWyICjdkh8FC/H7qe1j2jALHaIViwSirPCF/aDUGL8mslIgqeidjE=;c8cEPdZriFPSxlsGw6Bjmg=="
+secured: "hhDp1FLTYVpZ9DkbFKfcYTpr8tjWB9k2KAskKMlp8iMujqxGT957sP+NDYmneflRfmlflxwMInNkF0syikHkLae9iEzUqovM5hvG6QPydme/OJgISh0dcqhScqVLqDe6H7F2OgzB9wOm5xmQTTb+LOI6FASL7XwcenKo/qmIwPyQDgM+87y2semNzkfSUNoijMdGZdSQk8HSPRfV/5pT3SWFxNoKBAlrzW8+morj4Af+gf3i5Z2pBlqSVPUCu4aCOxdSPEE4u38WK3r4wofKnJcaEw57XcbiNR2zmJw7hef+H9vZE6P4HDg1KyJdJhNUqYhGEVMQRNHCTnVzlwb3wpXanZbAqboQpke+378ABg7Yud6cBJHieWFHWehFjBVuy1p8nySkWLwoaZRyxX/HkNbRLVjYTBNU/yb4YtdAdxbNZLMsS4dWAaoS4Py20QvoAvHOjH45LQrJtTZoT6TuvqqHqN6jGQ58RDpoy0cIuwrwgmkKhb8O8ZlyCR5Vb+gWSP8UGNhU2mXbavbZ+Rqe+w==;mDczSHP0GRSH4GAltyyoJQ=="
 ---
 

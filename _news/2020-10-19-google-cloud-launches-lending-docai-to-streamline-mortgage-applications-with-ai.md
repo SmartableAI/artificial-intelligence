@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-doc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s Lending DocAI streamlines mortgage applications with artificial intelligence"
+    excerpt: "Google Maps and DeepMind enhance AI capabilities to improve route calculations Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry."
+    publishedDateTime: 2020-10-19T14:32:00Z
+    webUrl: "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "Building a landslide prediction tool with Google and AI"
     excerpt: "AI Impact Challenge, Google asked nonprofits, social enterprises and research institutions around the world, \"How would you use artificial intelligence (AI) for social good?\""
     publishedDateTime: 2020-10-16T14:09:00Z
@@ -91,6 +102,6 @@ related:
         height: 400
         isCached: true
 
-secured: "oIdRhcF6OXvhvU/was4j7Cyhr3E8k+nVq0W3M/WrxuQ37EtywehgEonaiAAcyuuRHWQxO/TcEvVuP1aWurWUtoL7qspPe+4MD4Fa/uHmSpXsAQckoNNA3hdYgrU6zTFBne8KbLLAT9qloARNK8E0pyxNOF20wZ/cA4ENnPXGXIwU/8ZP/CBvyl7KoXqr0gAh10MTwRCaGk68aW5f8/6a1VMaq6TKE42hQ2cP7sxZ2jhiNjIBUhYBPWSOaFbUVuDB5HwThCaf2xj8qkTb4rilrTUFDevAFKzSu11sScrrTDyXOuFW8v0HfOiEGvLrKbIhQdKrGWG+/wr0DQOdFf4ZXVwY4kY3MWHF4HAotyFJdWo=;oA5fk2qHzCmLgYRN5RYZLQ=="
+secured: "9gL9Sv5ie1RzUi8BAGrTTEkH9i49HA6WhYIsiJnuNVWHxLRCtZmsBYsz/861mA6jVaAjlTKCe19lXhPzSIVDDaUabTFrCcTxh66e4Xl5RgGTFrT6iz5daeDwHkFMmn1ueTsasDdvXl1cX7wOF/eju9eh2/aA9SjcsozPOxISRTIGq5IyiAlma1tEyCr7R5Y2khsIJbnLobqLiropK7UaRN5Dk/aOKV2nFPZvI3XhiSoSSX2qeXJ0WEZJhXfE3TZ2lNgFiHMudCoqYWFosnVyDkfoV1Hr8X5/qCc1JE1fHMWwqdASWaR5t8ybJyHQtsrN69u55kagD9NtjUwtmBgp0Ucn2nEz7hursDnlY5SrdqhN9smpRl9VAhKxDlrQxVrthdX8htBaCx1iHa/1FKHsWMcB0hoaEAtz5CR5IsJpdy/CSAkJrHDVoF/EKdlHMj4ddZ/mNpQJeTToPeGhbKBh7v3T+B6NSkOckcK8t/g8VLynQxQ+tUJqNpJj6vWNaBdp144NBZQvQRLpyXNQPFZk/g==;yyMrdZP8lQ8xEVHz+wxGWg=="
 ---
 

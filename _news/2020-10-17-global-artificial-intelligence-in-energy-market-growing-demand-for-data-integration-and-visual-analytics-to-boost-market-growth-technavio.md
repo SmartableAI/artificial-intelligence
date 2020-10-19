@@ -151,20 +151,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 41
-  - title: "Google Analytics Brings Machine Learning to Customer Insights"
-    excerpt: "On Wednesday, the tech giant unveiled a new update to Google Analytics that uses machine learning to uncover important insights for retailers. The goal, it said in a blog post published Wednesday ..."
-    publishedDateTime: 2020-10-14T21:26:00Z
-    webUrl: "https://wwd.com/business-news/technology/google-analytics-machine-learning-ml-customer-data-privacy-1234635255/"
-    type: article
-    provider:
-      name: Women's Wear Daily
-      domain: wwd.com
-    quality: 39
-    images:
-      - url: "https://wwd.com/wp-content/uploads/2020/08/1101_penneys_brand_defining_store1.jpg?crop=1382px%2C0px%2C3239px%2C2161px&resize=394%2C263"
-        width: 394
-        height: 263
-        isCached: true
 
 secured: "T4P4yPwEXYpCIWMLMyuBwgP7czIfeREdURzCrBg8R3cphz/PW8VwasUtbf+tyoGFTYZWqyMe0rhON8f3HihQMNQ4GWLOZ/+S05VT3umm5Y6UsQwd6Q2b7mujfvj6W8WzCZpSuG+E/RQby0k0zRjMAXNtMYergHIi25jYB+6+sWSy3ytm31JfbDCnrNJd4CcmGavsiKBFc2bTFtzpDMA6M/sas1J0a7USGhiaVbcx6g9WUfqi7k1qK8Ga8VyzmeHwPS0nnjGbz6I5v/Ul19CeGDL9SObnZPO/GfzG9CnAP7rtRRMQjDtFNoCWrlxjPw5rQLJt83E0JsrGi65wlucAxVKyb6D2DVcp9UzqdbSFElhFvKfqc6zkmzcGb7thBfyOhZDyrcDI0RJTl2mMLMzTn8GG/yad9smebomtckUEDU9/KRRIqokfegkd6T0rO0yWQWFhswWgtkauMfcKy5iWXOpwdQvT7Bhj48OUcNj0ieoJSf50NEGQGLL1ml6yAydffdPSnM0/kqRBo3+8XIDasg==;16xkuYep3JLiLbvsbKUwVA=="
 ---

@@ -138,20 +138,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "Google Analytics Brings Machine Learning to Customer Insights"
-    excerpt: "On Wednesday, the tech giant unveiled a new update to Google Analytics that uses machine learning to uncover important insights for retailers. The goal, it said in a blog post published Wednesday ..."
-    publishedDateTime: 2020-10-14T21:26:00Z
-    webUrl: "https://wwd.com/business-news/technology/google-analytics-machine-learning-ml-customer-data-privacy-1234635255/"
-    type: article
-    provider:
-      name: Women's Wear Daily
-      domain: wwd.com
-    quality: 39
-    images:
-      - url: "https://wwd.com/wp-content/uploads/2020/08/1101_penneys_brand_defining_store1.jpg?crop=1382px%2C0px%2C3239px%2C2161px&resize=394%2C263"
-        width: 394
-        height: 263
-        isCached: true
   - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
     excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
     publishedDateTime: 2020-10-16T19:30:00Z

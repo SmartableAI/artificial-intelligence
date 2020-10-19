@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-19T10:28:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021-1029692688"
 webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021-1029692688"
 type: article
-quality: 65
-heat: 65
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -19,10 +19,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - Google AI
   - AI
-  - AI Hardware
 
-secured: "kEDKk8sBP1S7VsOeb3VNS1rbXVDScwazbgcVARCvkElHNkHVfDcPYhFIDDtVZ8uotB2MnUfJxdtU4+dWEfBqpByufkdekPOQlwMu9MS4UmvX3qJs/e8Uj1A+ZnSM04gJWmBU1CTkJa4akHqbR8pjErjnjE9IGVr2ul57G09yfJ7s3Crpc51LUvNpDZ1+mqyL+XqQaT3CuV9VJZbka9YG8GXl2w2ihTQrpDeclzik49BDrAfr55YiG+Sm2q/Y3XPOYPoM8J7HI4CNjef5ywVVVUJoLGwnnv2iIPQBkR/eh5aMnY5KywMTKfST0hv2TYxEZ6Iz97t5ayjKirL7sNVX0Q/QVMWZT2iplhTNSMyuMKY=;NPGhCkVAqGfQ71d6mDDS/g=="
+secured: "LDu1PF9iVUVekqWSPyLorgEJ0Q/ShfweBaNStpc9uUjLFgpNHwsg0uAlx4mObKuVtmwswyQhqwLtBklXmCHJAk2FFJSIfDUITkMUQr7F6ant9arN9zBpBjUpWuBS5955MJr5iRu9iyBaP7GSDn4mT50CbFAR/8Mq4CEBi0AeFRoD65QF63RACLi014GOZaSGT0vPQ/bq/wkfLIoVgHfcYNc0jAJ9HLbhO50HrdImjvcQkpXYLL6cXhmWjXkq3QzYbfUj/E40BaVcM/IIpBU2oIiRA0/Vast+cJzq5ct0U8F9UH+AYFzwB0030CjxoFu2LPw694NtN3pcXW3lU+vlwxxvGjDxYuMuDFGMbjsSBNc=;iMWr830xkXwxLBh2m2GiEA=="
 ---
 

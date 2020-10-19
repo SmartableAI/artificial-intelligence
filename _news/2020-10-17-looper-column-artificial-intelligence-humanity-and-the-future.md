@@ -68,7 +68,7 @@ related:
     provider:
       name: Sturgis Journal
       domain: sturgisjournal.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
         width: 680
