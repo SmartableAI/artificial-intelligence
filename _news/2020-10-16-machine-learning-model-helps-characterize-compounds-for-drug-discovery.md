@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning model helps characterize compounds for drug discovery"
-    excerpt: "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields."
-    publishedDateTime: 2020-10-14T06:18:00Z
-    webUrl: "https://phys.org/news/2020-10-machine-characterize-compounds-drug-discovery.html"
-    ampWebUrl: "https://phys.org/news/2020-10-machine-characterize-compounds-drug-discovery.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-machine-characterize-compounds-drug-discovery.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/chemical.jpg"
-        width: 1920
-        height: 1336
-        isCached: true
   - title: "New machine learning concepts can help develop novel drugs"
     excerpt: "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields."
     publishedDateTime: 2020-10-14T14:02:00Z

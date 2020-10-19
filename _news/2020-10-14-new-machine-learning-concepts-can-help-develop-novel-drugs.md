@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201014/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201014/New-machine-learning-concepts-can-help-develop-novel-drugs.aspx"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning model helps characterize compounds for drug discovery"
-    excerpt: "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields."
-    publishedDateTime: 2020-10-14T06:18:00Z
-    webUrl: "https://phys.org/news/2020-10-machine-characterize-compounds-drug-discovery.html"
-    ampWebUrl: "https://phys.org/news/2020-10-machine-characterize-compounds-drug-discovery.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-machine-characterize-compounds-drug-discovery.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/chemical.jpg"
-        width: 1920
-        height: 1336
-        isCached: true
   - title: "Machine Learning Model Helps Characterize Compounds for Drug Discovery"
     excerpt: "A new method of applying machine learning concepts to the tandem mass spectrometry process could improve the flow of information in the development of new drugs"
     publishedDateTime: 2020-10-15T17:03:00Z
