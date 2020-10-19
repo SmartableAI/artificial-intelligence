@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-human
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://www.technowize.com/wp-content/uploads/2020/10/Microsoft-releases-image-captioning-AI-option-1.jpg"
         width: 600
         height: 600
+        isCached: true
+  - title: "Microsoft Teams will use artificial intelligence to better reduce background noises in video conferences"
+    excerpt: "During the coronavirus pandemic, co-workers connect via video conferencing. Microsoft's Teams has a new feature coming to reduce background noises."
+    publishedDateTime: 2020-10-19T20:10:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/10/19/microsoft-teams-video-app-get-better-background-noise-reduction/3712935001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3712935001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3712935001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/1654aa33-41f4-472f-bec8-8611ce1b3460-Microsoft-Teams-Breakout-Rooms.jpg?auto=webp&crop=1469,826,x0,y22&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "37//qE/T4KIHomnQv7vHe2pNoTekMxOrWqg+jGxtC9pVodqb083E+rfsicHkFyFL8eyrJnNfuBJ2FSKYnsPL1E0u2ez7kj7QkuEBdh1i32lj7CyK54NNknjmGG0+TiPkt8NYIx/RPbIefVPhWKCnJh33EQWs5qK+5gAdaoRGA1EQIyXt0l34lW4T3W3CgOTHYAonkX8cj7c37cQPYOU04HlBwwwWQSLpHZZLDd2IIubzg2WrQ6z7EoQotrJE1n6NReeNQxA/At37j+wYc2SRSlcEqP9/D/VVKEbyC/LRAClk7xEU2/BWMiGwaG9VkGrdzojC1BiNXmzFOjJ6isw6hqOj+QnoW+KYeaKerzJmsEzEv3yHDWKr9WkB1ujqHaFqSmBS7TgGqPpuyYeB1Y5NCtED2DAUaV1LPgzpww9Sbg1ZrAAJcSxShpofvIQmRkqhbGKixlNHIvGTd2dj5RV1q561Ri1bHrpzvFnlvLj958ZmDfx5NERgH0QDvMr+jgqiqsOOmIFYKaZuBws3Kfuq9w==;5fPaOFHzm05o9+sPfB/0kA=="

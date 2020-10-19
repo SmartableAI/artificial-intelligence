@@ -26,20 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
-    excerpt: "When it's time to learn a new language, Duolingo offers a fun, interactive learning experience through its cross-platform app that's powered by artificial intelligence (AI)."
-    publishedDateTime: 2020-10-16T04:36:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/10/16/the-amazing-ways-duolingo-is-using-artificial-intelligence-to-deliver-free-language-learning/"
+  - title: "AI methods of analysing social networks find new cell types in tissue"
+    excerpt: "In situ sequencing enables gene activity inside body tissues to be depicted in microscope images. To facilitate interpretation of the vast quantities of information generated, Uppsala University researchers have now developed an entirely new method of image analysis."
+    publishedDateTime: 2020-10-19T13:54:00Z
+    webUrl: "https://phys.org/news/2020-10-ai-methods-analysing-social-networks.html"
+    ampWebUrl: "https://phys.org/news/2020-10-ai-methods-analysing-social-networks.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-ai-methods-analysing-social-networks.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
+      name: Phys.org
+      domain: phys.org
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8921b72cdc5afb81459335%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/aimethodsofa.jpg"
+        width: 2220
+        height: 1248
         isCached: true
+  - title: "AI methods of analyzing social networks find new cell types in tissue"
+    excerpt: "The problem is that distinguishing all the important details may be difficult. This is where the new AI-based method may come in useful, since it allows unsupervised detection of cell types as well as detection of functions within an individual cell and of ..."
+    publishedDateTime: 2020-10-19T17:12:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201019111918.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "Y8+qex1jLmT+8KRw3LSk3+9WIrt8fxZHCo/8Lp2ocD507AfpGP7SeiDGUMocXEIUycZBaYejF8bXWkgHFCBUjKVpX/ydeMBM7OZ2IndNe3GaJJ9rFqe4DqpVnLpRnoksYiBVLpvLUALTQTlCCrkwFJc1p3Jar32Po3uiE4AFJGDbgH6BK5Mh9B1WQsNshEUCpvu/u2M+EtvWyt4vp2V1p51vSckSBjnT4nfbnEwbmSi/B66SEfzkFqkHs0m4Q1mG28d/lq30Wa9OAVL0zFJbJbAO/WYLhVhXwrAoK4AuM2oxxZ00NMIiGSTjS1dMoV4e5YQIhZE0HUCJzHrCleYGhJOK+ws+uCY+B+c5KmsFLP2tKsrAcqBmnjRRLqfavjekz0FhX927ej67833fFXADUjdhuDDzmiqe6f41gJ8/Htalw0FqAJKMdbRizAQAJhnnMxFs9KLQUgo4q1e+0NOLFe2yIWbFCnWtkL8xFcNo9BIvxIcTd4QE1Z/P837optJ0Av5eeMe3w+9CZauBx/0zIA==;yJ6jMw3E//9zCCCp+TU+7A=="
 ---

@@ -89,6 +89,22 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Microsoft Teams will use artificial intelligence to better reduce background noises in video conferences"
+    excerpt: "During the coronavirus pandemic, co-workers connect via video conferencing. Microsoft's Teams has a new feature coming to reduce background noises."
+    publishedDateTime: 2020-10-19T20:10:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/10/19/microsoft-teams-video-app-get-better-background-noise-reduction/3712935001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3712935001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3712935001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/1654aa33-41f4-472f-bec8-8611ce1b3460-Microsoft-Teams-Breakout-Rooms.jpg?auto=webp&crop=1469,826,x0,y22&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "T8NFrcVv34vERjde1PnSnyjxKNKnoVhYzSfLzKgrK08fz1hh94/H+AJ3h0FTRP9ImucpLvYVCtA54713mvX6hLGdDG+en/vLNrBZ9Ub91G7Kd32soYegBR0ISD2fljoKX3XO3AQLlC3ZQepT5EjW4zmPll28B8uDMbziihPcuA1WvH8iGuk/EsIrOqh5EG9R8tyqeDaC+2xa7MDQfbBetODtQV5by5cr8IN5o7SI/wz3qV8X2dwWnGjvcbWJXXo/s2klKbx9EULsuM0QmZ7zscUzFph2gUTiueolWdv9tMP41PfZzmYiuQFc4Jz4SADv44nALRlezvoxjQmtsQGQ6j2XZOB/lI6dleM6qdeZ+P5SUMnwMydG5JnGI0ZQNT/9pH8ffIwun1Z8mwTD6kfWFXTSnYSrgtcQmMUD0CkQv512+tjIZCcfq4pMQE7DSR36+ga8uEGdXfV/UNEwj0afxC94SEpZEHwJwAVkFIJn9yXYuryKk67x4rewLDhgB3CosvsVTUa/shYCBJZLPbz+DQ==;D7W1H6mSRAEG/CQVFb6GyA=="
 ---

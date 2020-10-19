@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2020-10-07T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-how-is-artificial-intelligence-revolutionising-our-global-healthcare.md",
       "title": "How Is Artificial Intelligence Revolutionising Our Global Healthcare?",
       "excerpt": "Artificial intelligence is reinventing everything we once knew about healthcare. Find out how this technology could save millions of lives in the future. Artificial intelligence is one of the most promising technologies in the world.",
@@ -1351,49 +1403,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd.md",
-      "title": "Robust Autonomous Navigation Based on Artificial Intelligence Approaches PhD",
-      "excerpt": "This is an excellent fully-funded PhD opportunity in the area of autonomy, navigation, and artificial intelligence, aiming to pave a way to wider implementation of autonomous systems, such as drones or self-driving cars into our everyday life. Although ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/",
-      "originalUrl": "https://www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/www.suasnews.com/wp-content/uploads/2019/07/201907CASCADE-June-testingplanes800x450.jpg?fit=800%2C450&ssl=1",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/amp/",
-      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/amp/",
-      "publishedDateTime": "2020-09-24T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SUAS News",
-        "domain": "suasnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

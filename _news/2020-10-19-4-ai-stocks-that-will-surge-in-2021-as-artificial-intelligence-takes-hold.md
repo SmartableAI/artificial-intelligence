@@ -1,30 +1,27 @@
 ---
 category: news
 title: "4 AI Stocks That Will Surge in 2021 as Artificial Intelligence Takes Hold"
-excerpt: "With artificial intelligence poised to take off as a critical tech component, here are four leading AI stocks that are likely to surge in 2021 and beyond as the future is built around us."
-publishedDateTime: 2020-10-19T10:37:00Z
-originalUrl: "https://investorplace.com/2020/10/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021/"
-webUrl: "https://investorplace.com/2020/10/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021/"
-ampWebUrl: "https://investorplace.com/2020/10/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021/amp/"
+excerpt: "Artificial intelligence (AI) is creeping into our everyday lives, often without us realizing it. Today, AI can be found in the digital assistants we use such as Apple’s (NASDAQ: AAPL) Siri and Amazon’s (NASDAQ: AMZN) Alexa to check our schedules and search for things on the internet;"
+publishedDateTime: 2020-10-19T10:28:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021-1029692688"
+webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021-1029692688"
 type: article
-quality: 71
-heat: 71
-published: true
+quality: 63
+heat: 63
+published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI Hardware
   - AI
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "C78hh+eBr6EbblhWzbj0EBD4X4OI3EoqZwEsr/KflQEIdAvv0dPzEQ6pg5l8TrNYyBpKJQUWyRDyuhsR10eWkKyRk27gcOSlLjDfGqwAkQrN9gyvvgPsQIfCudRW7t3Eak/jrIIxwC0BEkOb0qenbKP+t1PfcYj+yGINInc1yTuOK/8OPig1kNXrRPS+q03Ibwj4iTvK83680SdNb1j3Qor/TEF6lhcBP2/HunovmmcMyAvBYJQ4G5Rgal1/LiSb+6Hf1snSSGrrK7X+nPw39zinCnxghhtFsj22Eqn/F9vdyCCjYRIWo4xk8S7VxfVRSGeTiPX2tG90wyYrgYKukTz7g9rw/invCd9U2hxwOT8=;Gl9uP149TxgEQVkv4YU2MQ=="
+secured: "SAUZsQ4r3B2bzI4XcmK5IK0XOajXFfnuzv58MJrHw6SmcABHEwk0yWa+g/WBUkEP0xfbYlYc2lX0Cjgccv5wX+u3S3/VP++zqg4XoRjfNHGoZX5PASG2NBDStmk886761JpLNvGTUxlajcZvCROhIFv4C350IewMKQW5y4SgCIPyiFwQuN6btur/uhec0uOkus+sSooN6dAUIZfGXxV7Uc4KvH1q4butjDH3UxiCJOlCheT5ajqnQ7tNmwGA5mWiCWhUstuxMDDcnK6LcKH+HQn3tKNOxccOMEH0OKZrVJwvEOsxf2W2yB8GspDOmi17TP2a+QSKV7yZnM0jJPWg5fXOtreV5Ee3nD7rbrNiFaY=;xYTrq8yvam//8FOroSekHA=="
 ---
 

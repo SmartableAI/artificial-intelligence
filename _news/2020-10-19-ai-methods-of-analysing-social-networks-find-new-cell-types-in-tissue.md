@@ -8,9 +8,9 @@ webUrl: "https://phys.org/news/2020-10-ai-methods-analysing-social-networks.html
 ampWebUrl: "https://phys.org/news/2020-10-ai-methods-analysing-social-networks.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-ai-methods-analysing-social-networks.amp"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/aimethodsofa.jpg"
@@ -26,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Making new materials using AI"
+    excerpt: "There is an old saying, \"If rubber is the material that opened the way to the ground, aluminum is the one that opened the way to the sky.\" New materials were always discovered at each turning point that changed human history."
+    publishedDateTime: 2020-10-15T14:30:00Z
+    webUrl: "https://phys.org/news/2020-10-materials-ai.html"
+    ampWebUrl: "https://phys.org/news/2020-10-materials-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-materials-ai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/makingnewmat.jpg"
+        width: 650
+        height: 463
+        isCached: true
   - title: "AI methods of analyzing social networks find new cell types in tissue"
     excerpt: "The problem is that distinguishing all the important details may be difficult. This is where the new AI-based method may come in useful, since it allows unsupervised detection of cell types as well as detection of functions within an individual cell and of ..."
     publishedDateTime: 2020-10-19T17:12:00Z
@@ -34,7 +51,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 47
+    quality: 49
 
 secured: "Wzmj1KiaTuVF9PLlwgPRZdApE/Ij3X2PypU4IAPGsmxsw4EMC5mF3XZGnhqh2JVkjm5Zi2qTLKm0LoOUfdMycagIDHWpU+ULGPf5QYM1OC+gcRoY1XM6ZCKuuc3JSwVCpVOnis/C2aGtSgWpDXkYaARIashcoNl+xRrNWZdsvyCHigjx7+oKWMIBaJna0FOhZlHQgAe0aTjc8XuZtGvL+gHwOgy92LuYoGUM1Ul21ptcX9F6d8BfZh0ds2RvCb4PRoaxsUwYNfzknl52DR/bkfWQQqcvFjWRP3Lc3+1wvqBTcWG2bfRzUAgbqi9wiIepqE1+fKK8o3Mb17rwLTGTCrO6W21pPzNhjNdQeEnTkGz9I/6M4A7iFvf/oXWxaCWQLheWHEo0zzq9QkO8QStYjCjziXgiikntNTvaC1upCB64TEI7sVVBUMv9dOQlHvuH0lwPbJn6jD9QWRCWQsdtghItUjC8cap2ZfYx8kUDJXJzDyEM3HC4En/k1Bv3Q9UksZVl/6dfFPQt3/lyaP/aqA==;dKRUlQViQpBu/GslOpfgUA=="
 ---

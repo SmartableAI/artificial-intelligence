@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook unveils machine learning translator for 100..."
+    excerpt: "Facebook unveiled AI capable of translating 100 languages without relying on English as as an intermediary step, as many systems currently do - making results 90 percent more accurate."
+    publishedDateTime: 2020-10-19T19:19:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/Facebook-unveils-machine-learning-translator-100-languages.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 61
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/19/19/wire-34583254-1603131568-544_636x382.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Facebook unveils 1st multilingual Machine Translation model"
     excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT) model that can translate between any pair of 100 languages without relying on English data. Called “M2M-100,"
     publishedDateTime: 2020-10-19T16:57:00Z
@@ -168,6 +184,6 @@ related:
         height: 629
         isCached: true
 
-secured: "bIosEBhZJDAOCS1tZf2IECL3VJ6Vv0aZ9yGhunIrkTLKk2i13aocd9C8GcWpbFWZhzglnCW4DA2GSrZTEX8vxXCTE8fml8JO96lWnqE1TTcxJXJPdV2WGCF5zsT0MtQwGevifRmclq7wWcCMcM+uFhyVKrpgBINFpQr6rXOOKpIoLSJGAEz7hyf77rIdRWNAhKvl1f0BQ6Aeziydi7TETGUaNNbOuUuwVSg3Dg2l0bFTtmlcLEwmH3mKSbhlNccQsSVNYZSsA8N2/WgYXjc/IZlm0bDFAqIqOAJHjCcp+ys/gWrHDQlIAxXSJrQYWxrCAmkmLqAcQbQvpQ+jS36Ap1SRir9yQ0uHk0auv0cN6QY=;GaEQVz8etq82FZfdxCHttA=="
+secured: "QmaZesoh/k6HipivtMSLNS3C1UmHgWpUsC661q1mD5QwSScURK/Q4iz4AWFc3r3Ty4xOL/ifawJGeLqncb9jvKb+Fi1+gnH4c9FZQkLKbfa8dG82rrSx5iN0vDhp3d16/2DxO+0HFipKKWrN3ztMRCh56kN1yu4QRafQ3ouuu5LjnY7FnXqzPVBsuFtVWm4B2R1MvF6t32Dg0z6fDh1StKjrVcXUFcwBp0XGB+rHLq6hetiVX8M5NROSbsJBZ3C4frrfgxuZhPSv5aLxz/dcM37YQyEOsMxWSPo16OYW7L804uLehqUbLqrlCuheKz9v05iYtwetfnThe5DDzQNkhsyJq8czMGwuqRdXcmBo4A2xI0jDMFjdmwiJGJS+rW6/caXoAtWwLoBzcwxwe3dOASYem18AiGNn3cfUOFAsgdTtKhqgh9VTi5uxRK+DQj+NxM70B5TvLDLW4JV3/ImIFYsJUwwyt+75NF8rDH1pGTw1nIbxRBk4afr1kr9v9dDhFpBw2FMsHWHO1E8Y4KzKsg==;SBcB/8kZajBEE/UQtV8hWw=="
 ---
 

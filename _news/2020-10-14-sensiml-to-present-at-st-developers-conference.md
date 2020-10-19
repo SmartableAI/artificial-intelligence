@@ -6,9 +6,6 @@ publishedDateTime: 2020-10-14T13:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: WFMZ-TV
@@ -24,6 +21,6 @@ images:
     height: 208
     isCached: true
 
-secured: "2VQjKeIbBOLe0G8M0VuiinwYd2t2NAjwxx72Dd2EgqS+7ghayN2XLLLrLefpfk70Bv47chcF5DFs/6XF/4xM3wNph82Q5agtibOL9faSrHtCiYoSJoLlEwLpVa1TLiL3/CnSLc00LmHV0vkBCBpDkZqK2QdH7g7XzFLHR1GxFau+8CRdQMs7MTpbbzJ6iXpoYYOXipVFna1o+1PmLr7g1Ck7P8165AxMmxV+7LjJrS18ym3dOyaOGArfDLRhVRcv+0oJeRa+h9q7lxtn7MLD8MA2VJ4GW99yC0egJSIgWisG6qOZ9Kot+9pdwIL5JcuIg9gQwTsW1Zd75F6YuoQ8K+jWsmCfHLgZtzVTF54eWBI=;TA73iBqvcWJkvhZp6DEDFQ=="
+secured: "LwncQJx+ZgQI0Y4MLMZ0HokNsUsS/N1tiUUPP+Z01W96f77lDarW2lgqyh1bh5ZJABZy220vwpBlCMV9pRDSi5aTs0lOBLPWaWZv4QeWCIJIsYRhkM1nbHswz0HHsBOzrdWY9NUqPnhd2d7x1aXr3puX8IAw7mhSL9eB/iV2O0dsbzLXM5Z5SXYe3b5jpzN6qNZbpxnhNnrkrvMAOabhqhLPr4luInFT4+NCGHoBLG5R824a/8aCtMknZu4HGxxa/sbLU4Em5vh3/yCXgnOO2kKsesiaTjOd/k1pM6NlAB3HE6HyeBfxEtrxWLx8qvFOlZda6L3OONf8glvFlOeHBfNDnSNP774KZUYX/6FzNdI=;p0pmaaWPmEzF3XvqJ74vAA=="
 ---
 

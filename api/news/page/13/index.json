@@ -2,6 +2,51 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-06-how-is-artificial-intelligence-revolutionising-our-global-healthcare.md",
+      "title": "How Is Artificial Intelligence Revolutionising Our Global Healthcare?",
+      "excerpt": "Artificial intelligence is reinventing everything we once knew about healthcare. Find out how this technology could save millions of lives in the future. Artificial intelligence is one of the most promising technologies in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/",
+      "originalUrl": "https://theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://301txf2j650kx3hvubmojefm-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/placeholder-wp.jpg",
+          "width": 696,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/amp/",
+      "cdnAmpWebUrl": "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/amp/",
+      "publishedDateTime": "2020-10-06T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Island Now",
+        "domain": "theislandnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-this-ai-tool-for-diagnosing-autism-could-hit-the-market-in-the-second-half-of-2021.md",
       "title": "This AI Tool For Diagnosing Autism Could Hit The Market ‘In The Second Half Of 2021’",
       "excerpt": "Cognoa, which has raised $60 million, is part of a growing market as insurers are increasingly required to cover autism products and services.",
@@ -592,8 +637,8 @@
       "title": "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology ...",
       "excerpt": "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1126,49 +1171,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-artificial-intelligence-to-empower-agriculture-healthcare-and-education-pm-at-raise-2020.md",
-      "title": "Artificial intelligence to empower agriculture, healthcare and education: PM at RAISE 2020",
-      "excerpt": "Prime Minister Narendra Modi inaugurated RAISE 2020, a mega virtual summit on artificial intelligence, and spoke about how technology can empower sectors",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/",
-      "originalUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/04/artificial-intelligence-4625878_640-1.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/amp/",
-      "publishedDateTime": "2020-10-05T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

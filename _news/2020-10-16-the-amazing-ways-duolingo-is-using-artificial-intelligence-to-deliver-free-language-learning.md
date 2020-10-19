@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/bernardmarr/2020/10/16/the-amazing-wa
 webUrl: "https://www.forbes.com/sites/bernardmarr/2020/10/16/the-amazing-ways-duolingo-is-using-artificial-intelligence-to-deliver-free-language-learning/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Making new materials using AI"
-    excerpt: "There is an old saying, \"If rubber is the material that opened the way to the ground, aluminum is the one that opened the way to the sky.\" New materials were always discovered at each turning point that changed human history."
-    publishedDateTime: 2020-10-15T14:30:00Z
-    webUrl: "https://phys.org/news/2020-10-materials-ai.html"
-    ampWebUrl: "https://phys.org/news/2020-10-materials-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-materials-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/makingnewmat.jpg"
-        width: 650
-        height: 463
-        isCached: true
 
 secured: "Ca9CByN3jYh3VLOSrF16sMZXstORNXvJojXeWYw/TRjf0UrA+wPQmJzOKohFVu4GORj8iXwUwsHPGg59xpuvnCE/QY35lhv6WLbzwI88eRZh+/woK7/pPvMCynjOH8UPrQZYZzSCVHLXEquEDTFf8w/TqhwSCJZCqys1eZPsJ2FOMBvFLmSIz8j53qKB0EFxhXZ8bZWlvw0CkL0awDFUtkuaq1EOmhbdcVVZrnj8P6uov0HArISGoTFZZGj2snJEf6mSLCJQqM2EsJv9BbYdmMFsZnQGLpdEx/TcT8hitkIQJGrsbK1v+AoTcpLwKjP7lZqc0DVmVCQ/4mVyxMlr9MQu0dhwPg2gR332ydFcq1X0ATBbspSM5uxoJ+dBEVD0T+pihaXXzgOngyJ+Gx8ApELyerS6x7SqoYdBhSLLL1j+mSTiH2+KHED197WprvuM9pivI6dOT1MEyPBJg7NZNvFukVafqySFqwBPhQnJ/X2/IuPWYd0PiM11cgvXmHOIfba38NQayTc0qV4rJIs7zg==;uCGtLBYdCdg3Zd348cp41w=="
 ---
