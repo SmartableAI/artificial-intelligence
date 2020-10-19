@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AW
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/Cohesity-AWS-partnership-youd-be-a-dim___-to-ignore-DMaaS?amp=1"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 580
     height: 429
     isCached: true
-
-related:
-  - title: "Cohesity partners with AWS on cloud-based data management"
-    excerpt: "Data management software company Cohesity Inc. said today it’s creating a new cloud-based data management-as-a-service offering in partnership with Amazon Web Services Inc. The new offering is aimed at enterprises and mid-sized businesses that want an easier way to back up,"
-    publishedDateTime: 2020-10-15T00:22:00Z
-    webUrl: "https://siliconangle.com/2020/10/14/cohesity-partners-aws-cloud-based-data-management/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/121570386_1622273837947228_6036408418401195216_o.jpg"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "WfTCYVzszDLIDD7q7KY12oF5U8yqQpPGXLYlfsBv5k6+eVIV9qhUUPuhR76ZfSAVvOS6uZPB4VwDvJayrsoHqBsmZ+LNZ9wzbGmF6/9mKiFOr/WyZMN4tN+rTXrfU+QK1qOki6Bm4wyTrF8kLbcppaXmbgoVSCmqD0BYWlTep+Fn+8vJYq5RqWU/sc/2ECqjA7dsxwgdYOPMW8L3paAwjcF/1Bpi+Gn3TJP4C45wK3LRKU/0hhbUSSQD83X6fUS5jBugk1z6MgZ8T2PMLcaOx/2vglqat4ljnlMlOxbIhgOYD+FLwY2tbxbHAWewy5yzSr1IPqH1AfXhmGotGxEcl7rDU8C128d7ROTzYbjApCo=;GJvKlyzTTqXx7ShhCsn5lg=="
 ---

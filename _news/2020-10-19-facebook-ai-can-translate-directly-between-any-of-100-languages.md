@@ -67,7 +67,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
         width: 1200
@@ -88,6 +88,22 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/gKDij_RxAohDBdghYbl6qEL54B8=/1200x630/2020/07/25/a5b66fe1-db1a-4c66-85c6-5fb905e14a7c/twitter-facebook-logo-phone-united-states-flag-4542.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facebook unveils 1st multilingual Machine Translation model"
+    excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT) model that can translate between any pair of 100 languages without relying on English data. Called “M2M-100,"
+    publishedDateTime: 2020-10-19T16:57:00Z
+    webUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/"
+    ampWebUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 59
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Facebook and Carnegie Mellon team up for AI-led energy storage research"
     excerpt: "Facebook and the Carnegie Mellon University Department of Chemical Engineering are partnering to research how AI can accelerate the discovery of energy storage solutions. The Open Catalyst Project aims to help solve the challenge of building a grid reliant ..."
@@ -132,6 +148,6 @@ related:
         height: 629
         isCached: true
 
-secured: "4HM5Gml5Z4xNYVlOCx+7AIHpm2yAsItIekEbrT8e3uXZ5fwgkieyOWjbbxZmni8LMICeGR5wqniGLWHxGJc8GkzxNbF6lSJGKDlUmPW9zauv8Grt7szFXMq2Slzv3b+Z2kF+mQRdZbd45GyOTpKNIn1+20wUSSFn3wohSOXDVg2z9Z6Nun+k40HqRy3vb2GnxH3YYfQ4uBt+YdMdmv9zcyf+vf/Rfs000taT3IwFd9JgswxnX+4TWj2cskFDZjoSyJznjYRqN07mQtB2DJ6EY85aN+IEeDzRcly8VlZJiFTdbjodMpoJB8VXw4fXvgX8Rw/MzPfHck8FZMaQDlLNxd/iaZcTANHmYM2Cigzggaw=;Q7sW8bQ0CpHNEx9SuNeBOg=="
+secured: "oH4ei3KLnblIByvQYRQL4vutETvt5fTidb85L75Dj4br28W9ZDOv1XO3xFcQPguqt7Ond+hoAUjEDjRCDBCtCBsswBuer5kMWvCORR6zy9Fs6mVGWHgOXI9nUNWI2G+YmANQNuv69qJ8kJ+dMKWgymPWDnt+BEyLl7MTMeBrs67N57yr1tdT6tNg9PoiRWFp779SUHQsKxn/wAi06Fylr8qrW53vDu9hLl8JDoH1Sd+k2YVD70o7/ZbGDk6AH/U5TFILS4ZGpZ3x9AXkQvbRY0zTavkc6DoUPdkYlbieBpkC3v4sWdd73SuFzV9EkbPzvQ7pmKRGYcd2Gh+E4WvEC1/7AkAIeNS9fVtCLHCrWci63h8+Ga0EjeYsdrkmJi7ZP1Ulb8+bbz7OXQFAPgfQaXTsQcV4MMDDx1Rn/F4UuFr0Eg8LWwDUXhA5Wdf71t5wHGAXhZWGUZIwli8YwiwVUT/ZJ2pG/1NwAsJxwKsJXYJij7Q1vEF5V+Narm13BU1KoUOAXWskHX8J23lrmZGIFA==;mT8odBGFn8rMaIL7xwmxdA=="
 ---
 

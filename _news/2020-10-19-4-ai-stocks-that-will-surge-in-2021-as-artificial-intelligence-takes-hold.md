@@ -19,9 +19,9 @@ provider:
       height: 50
 
 topics:
-  - Google AI
+  - AI Hardware
   - AI
 
-secured: "LDu1PF9iVUVekqWSPyLorgEJ0Q/ShfweBaNStpc9uUjLFgpNHwsg0uAlx4mObKuVtmwswyQhqwLtBklXmCHJAk2FFJSIfDUITkMUQr7F6ant9arN9zBpBjUpWuBS5955MJr5iRu9iyBaP7GSDn4mT50CbFAR/8Mq4CEBi0AeFRoD65QF63RACLi014GOZaSGT0vPQ/bq/wkfLIoVgHfcYNc0jAJ9HLbhO50HrdImjvcQkpXYLL6cXhmWjXkq3QzYbfUj/E40BaVcM/IIpBU2oIiRA0/Vast+cJzq5ct0U8F9UH+AYFzwB0030CjxoFu2LPw694NtN3pcXW3lU+vlwxxvGjDxYuMuDFGMbjsSBNc=;iMWr830xkXwxLBh2m2GiEA=="
+secured: "7a5JLXC/mTkLft27UfxkAUmaJK5xkLFsWOyx+fEvH3vcoLRaKdSxl/jeTQaXzcaw1n1KeJMzhCCGTm5brf4OYy3KVtoe3dSgU3mjNwII5bq9ZIxz/xRQ73tH/U6cuq5hnzxoLEjU+Y9/h6I4bfBdCbW1vwgvohCz+tw2V/G2xrGudMqckfXoyqRjfOPMRxqET4UJPXgz0SuWU82KOTCzeV+GvzjZBx0+WUZmKx7CeQUj6a/72RRRCKreUyYhzoLsjWvhNy1uRjJclH3hRw7Kc49FrDFxQEUgmskAKdPF1QBPs0Jx/nVpoTH6lr7+QXqAUv4paQvJ36DUeRWEkrHiYwaKVmStsm2NysGub+fP7Qs=;JRp5ajolPCuqKFLC8PWfdw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-mu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
 type: article
 quality: 106
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -58,7 +58,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
         width: 1200
@@ -79,6 +79,22 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/gKDij_RxAohDBdghYbl6qEL54B8=/1200x630/2020/07/25/a5b66fe1-db1a-4c66-85c6-5fb905e14a7c/twitter-facebook-logo-phone-united-states-flag-4542.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facebook unveils 1st multilingual Machine Translation model"
+    excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT) model that can translate between any pair of 100 languages without relying on English data. Called “M2M-100,"
+    publishedDateTime: 2020-10-19T16:57:00Z
+    webUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/"
+    ampWebUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 59
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Facebook AI can translate directly between any of 100 languages"
     excerpt: "Facebook has developed an AI that can translate directly between any pair of 100 languages without having to go through an English translation first, as many existing systems do"
@@ -137,6 +153,6 @@ related:
         height: 629
         isCached: true
 
-secured: "nH5F1vR0V6JHjpHDmpxDFRrLJTQPduuRtfugoA4UPWl7s1G6/pE4w1IXw6s2p93CqiiMmTjpDXFDvY3ZJ/er1Bj3wxtRnHYoDFFKOV5GrnFWDCiqfj9BaCqoO1u1NLfuTSdGyrSR9uUqFha45Qz4TkSPApfh9pKjvYp8nDYCzEEXe0+IML953sY5Ces2JBBzRaTdoRgdIzd/UJzT06zxGK2I2mTavGpUi1w2LgcrBlMebBh+z//PN/Q5hMQ/aDyf5RP2vLUoPSbpFy6ltPUxSklVFrJsAy1fZAR1EnrGOo1xYxpJXrVu7mROnfFT+XMLlYM5p1br0d19BB8lIAo+8j/4r5luOxQ60FheXuQKO1U=;sFEdf6CpnsZ+bQIPH+Y49Q=="
+secured: "+Pj04NtNRqTcNn78tXl5U9Sp7bnKAFOJUjGneSdQCdwhDlVM7avJ4eDVDBA0WjpvWXuYR3Mc7HgY6mL49iTLUZWSTedySVJ/MN0RTajc2PdGrITVDT/aZrUYsA2eHCeJNnc3b3yI19KtUH5gVTwbqbD7P0kx47DdZnWj8Eq6sZ5LUqj4geNsMZcr9OnHS6ry+CwbIZEhA0fX9botUAa9orGb/FQaE7FMLXe4ot7dpwucsPEW1hG0UqAuruq/6UyV+VR4t8WbHgy9z7OvqoQnU28KInHXWs9RwzLX2RkYy1o9RnVCkYqFG/4wwEMU0meVW2NJAHfqeDr/meSxpOqUTaREHBoKIn73H+RghM1wmT2ckn9BBdpI/cnkzAxz/kNicPKrkUtUvs52kmqf0d8br+Ydb9h9Ng4uGaE5SpjEksg13btTwjLY3w/Jdx9M0o+ChDTcNF0+u5WSg5VfTtPfp9edq1DWo0jUGkgwJs4Rx+BAe/+q/c88Qy6X0T/ucrc7J0VN5yWliEuDbGEGYlIqcQ==;ceQeTcl4pZ3xjp+P+QFiwA=="
 ---
 

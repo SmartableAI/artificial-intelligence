@@ -73,11 +73,27 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Facebook unveils 1st multilingual Machine Translation model"
+    excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT) model that can translate between any pair of 100 languages without relying on English data. Called “M2M-100,"
+    publishedDateTime: 2020-10-19T16:57:00Z
+    webUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/"
+    ampWebUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 59
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Facebook AI can translate directly between any of 100 languages"
     excerpt: "Facebook has developed an AI that can translate directly between any pair of 100 languages without having to go through an English translation first, as many existing systems do"

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202010/face-biometrics-a-big-winne
 webUrl: "https://www.biometricupdate.com/202010/face-biometrics-a-big-winner-as-everything-from-drivers-licenses-to-kyc-goes-mobile-remote"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1024
     height: 600
     isCached: true
+
+related:
+  - title: "NIST face biometrics accuracy update shows same top vendors for people wearing masks"
+    excerpt: "The National Institute of Standards and Technology (NIST) has updated the results of its testing for the accuracy of facial recognition algorithms identifying people wearing masks with a group of"
+    publishedDateTime: 2020-10-19T16:02:00Z
+    webUrl: "https://www.biometricupdate.com/202010/nist-face-biometrics-accuracy-update-shows-same-top-vendors-for-people-wearing-masks"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 17
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "NrdzDianc84MaVAVMNSJ8XKI7t4xLBMk1sT4Tf7K441bZbfUseDhBlP7gZMWQONfeGqmKO5QJUCSP0rwdUo2gsPX89k6gTxoPHMFNPfDuz7IriDcLU26PSBogjA2EffE7w+IgYpuZ7LWxe9Midcznv5YBDT1414/DwHozwydAKyiTLBF7EMFV4EBtFbDSOJsWzRG+B9QKXB/6jsdCPCIvI2pZi5R+CcajuLi+EYOQo5SWudS12unZEU5vbDKG30U1nJtXAPjzLQX9V+e+D5Hq5Xwpmubup6K2zWbUrufs9iMsbBqjbgofsWv2H/wTt3iwq02VR58S+LekazWAXJmmMaLHph06NH3jcPHevc/3e4=;csAP+Ux31C1Uqbp0pToMYA=="
 ---

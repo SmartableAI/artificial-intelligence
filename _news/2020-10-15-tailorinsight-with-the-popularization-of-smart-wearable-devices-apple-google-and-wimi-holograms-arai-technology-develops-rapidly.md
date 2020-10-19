@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/tailorinsight-with
 webUrl: "https://markets.businessinsider.com/news/stocks/tailorinsight-with-the-popularization-of-smart-wearable-devices-apple-google-and-wimi-hologram-s-ar-ai-technology-develops-rapidly-1029682698"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,17 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "WIMI Hologram AI Virtual Human Intelligence, a New Chance in Virtual Entertainment Industry"
-    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report 'WIMI Hologram AI Virtual"
-    publishedDateTime: 2020-10-19T10:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/g17954355/wimi-hologram-ai-virtual-human-intelligence-a-new-chance-in-virtual-entertainment-industry"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17954355"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17954355"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
   - title: "TailorInsight: With the Popularization of Smart Wearable Devices, Apple, Google, and WIMI Hologram's AR+AI Technology Develops Rapidly"
     excerpt: "TailorInsight, the fintech market research organization, recently released a research report “With the Popularization of Smart Wearable Devices,"
     publishedDateTime: 2020-10-15T22:56:00Z

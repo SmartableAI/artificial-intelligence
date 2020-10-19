@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Riding in a self-driving car is Waymo relaxing than you might expect"
-    excerpt: "Subscribe to the Roadshow newsletter, receive notifications and see related stories on CNET. Now, suppose you need a little refresher on self-driving cars. In that case, Level 4 autonomy means that a vehicle can complete an entire journey without driver ..."
-    publishedDateTime: 2020-10-15T00:45:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-van-phoenix-youtube/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
+  - title: "GM will test fully driverless cars in SF later this year"
+    excerpt: "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ..."
+    publishedDateTime: 2020-10-15T21:45:00Z
+    webUrl: "https://www.engadget.com/cruise-testing-san-francisco-214222312.html"
+    ampWebUrl: "https://www.engadget.com/amp/cruise-testing-san-francisco-214222312.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-testing-san-francisco-214222312.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: Engadget
+      domain: engadget.com
     quality: 89
     images:
-      - url: "https://cnet2.cbsistatic.com/img/9uba5kNbIBwHtaYmXNybVv9IYxM=/2019/07/02/ffa46822-32cb-4b06-81a6-aa82f237cb11/waymo-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Uber's self-driving-car business has fallen behind Waymo and Cruise — here's why the ride-hail giant might give up on ATG"
-    excerpt: "After the indictment of a former executive and a fatal crash, insiders, investors, and experts question whether Uber ATG can turn things around."
-    publishedDateTime: 2020-10-16T01:09:00Z
-    webUrl: "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/5f886decd260780019341961?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "When Self-Driving Cars Don’t Realize They’ve Been In A Car Crash"
-    excerpt: "Will self-driving cars realize when they've been in a car crash? getty. Have you ever been in a car crash? The odds are that if you’ve been driving for any notable number of yea"
-    publishedDateTime: 2020-10-18T15:39:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88dfcdb1cfa1bd271072c9%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbebd6400-0f2d-11eb-9bfe-e67a76f4a357&client=amp-blogside-v2&signature=4908a2fba8142ca66578860cd136007606108c87"
+        width: 600
+        height: 350
         isCached: true
   - title: "GM's Cruise plans to test unmanned self-driving cars this year in San Francisco"
     excerpt: "The company received a permit from the California Department of Motor Vehicles to remove the human backup drivers from its self-driving cars. Other companies to previously receive such a permit include Alphabet's Waymo, Autox Technologies, Nuro and Amazon ..."
@@ -95,21 +63,35 @@ related:
         width: 4000
         height: 2667
         isCached: true
-  - title: "Waymo Has Launched a Self-Driving Taxi Service"
-    excerpt: "The age of the driverless taxi has arrived – at least in parts of Phoenix, Arizona. Self-driving car company Waymo, owned by Google’s parent company Alphabet, announced its autonomous vehicles are now available to the general public (or at least paying customers)."
-    publishedDateTime: 2020-10-16T00:40:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/10/waymo-has-launched-a-self-driving-taxi-service/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/10/waymo-has-launched-a-self-driving-taxi-service/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/waymo-has-launched-a-self-driving-taxi-service/amp/"
+  - title: "GM’s Self Driving Car Service Allowed to Test Vehicles Without Safety Drivers in California"
+    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
+    publishedDateTime: 2020-10-15T21:58:00Z
+    webUrl: "https://lawstreetmedia.com/tech/gms-self-driving-car-service-allowed-to-test-vehicles-without-safety-drivers-in-california/"
+    ampWebUrl: "https://lawstreetmedia.com/tech/gms-self-driving-car-service-allowed-to-test-vehicles-without-safety-drivers-in-california/amp/"
+    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/gms-self-driving-car-service-allowed-to-test-vehicles-without-safety-drivers-in-california/amp/"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 59
+      name: Law Street Media
+      domain: lawstreetmedia.com
+    quality: 49
     images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/16/waymo-self-driving-taxi-1280x678.png"
-        width: 1280
-        height: 678
+      - url: "https://lawstreetmedia.com/wp-content/uploads/2020/10/iStock-1183292352-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "NASA scientist and driverless car pioneer crowned top Aussie expats"
+    excerpt: "The first Australian to become a scientific lead on a NASA mission to Mars and the founder of a pioneering driverless vehicle company have been jointly crowned as Australia's top expats."
+    publishedDateTime: 2020-10-15T13:20:00Z
+    webUrl: "https://www.afr.com/technology/nasa-scientist-and-driverless-car-pioneer-crowned-top-aussie-expats-20201013-p564qq"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.3281%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_51%2C$y_67/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/t_afr_exclusive_no_age_social_wm/88c89615cbceb34c54a1a27a7a60d166f1ec479c"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Cruise self-driving cars no longer need a safety driver in California"
     excerpt: "Cruise, the self-driving technology company backed by General Motors and Honda, on Thursday announced it received a permit from the California DMV to test its prototypes on the state's roads without a safety driver behind the wheel. Nevertheless ..."
@@ -125,6 +107,15 @@ related:
         width: 1920
         height: 1196
         isCached: true
+  - title: "Cruise to test self-driving cars out in the wild in San Francisco."
+    excerpt: "Cruise announces in a Medium post that it plans to begin testing unmanned autonomous vehicles by the end of this year in San Francisco after landing a permit from the California Department of Motor Vehicles\"Before the end of the year,"
+    publishedDateTime: 2020-10-15T18:37:00Z
+    webUrl: "https://seekingalpha.com/news/3622606-cruise-to-test-self-driving-cars-out-in-wild-in-san-francisco"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "2eXB1yQX4QRA2kAkgsxX1UNmNYymaTeOXnOWYQSAx+yoDzfe1nwJLoZYIL4+IV+AWHuiqS+YHV8x97bRoE35W/76tgvu4JWiL+qKpz/ZfpfcIOCuuhkTq55JLU1NbxGHown6kJqOAcWhucuCpFxtIooMhBJwCiEnl6Hdj7SJddKa7KnjWdJ7H0lkdKpXGjask5ngI7Ftkw0EM7VZXdDXp3OSrSrXShff7KVXNfbwpYriWxfG8SAvyw4p7m/xesOfynuiaODYCif9lS2nC61rPNxPS47G/wc7E5U+9x13EeSx2BYt4zOjrEFhzHjqNNxPg2lwZ+50pwrEysKIGCOwLwk+gsi+iUyfthHxju20w4Db/nxGTSlQUnvtpES1Fxpw9Wxrkz7SSw5eNFpuxethAJzo0m70f3OpdmNhx3ABW26snHLiKfYgvbf3/gFtxJ0gcNvmhGpkAQaTwGECGke2AnG4Kv4IhImhGbqTYnrOBSdaBx/Hya6WSB7WicC3G4gwrnw/mhkOl0+dmybB8xFevQ==;Mp8/VMzVQQ8pFAh+Vancxw=="
 ---

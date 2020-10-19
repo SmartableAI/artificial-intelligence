@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "A Practical Guide to Building Ethical AI"
-    excerpt: "In this environment, data and AI ethics are business necessities, not academic curiosities. Companies need a clear plan to deal with the ethical quandaries this new tech is introducing."
-    publishedDateTime: 2020-10-15T00:00:00Z
-    webUrl: "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai?ab=hero-subleft-1"
-    ampWebUrl: "https://hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 74
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/10/Oct20_15_1164825388.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "i6wvxAkeF+bmGkXNlv/QB2cHe1O7avqspqGPi8+d00UNlRBOvoZlMX/Y1PGthLnjEfh1Fw7ya8symyzi1DVMCkpPjyQVfZVpWhvo87MPt92x3EiH1tMnQjwvI5d0pqybUZ6o4BKUmERsftixgmDKFcYT2RnSIrLvgcwngHwe7AopB0vEwtebpi3dlUyu0zCdKSvtvAtCWZJ4Dlecxhj2McxvtrvYP0O7A9wJAuSzHjgecWGMVk+eEB64CUQRDYcu/aab3gmMmzgZyPoVnuHQtXJshHjpKPpaBjeSJ6cF4fXjudVrOXyH05E+cU5cgPPTwSAyJPjFf+WSz1JBdnSXGu73Xe5R7k+pJga66zbKxEFFpPkO0c/s2+14BT1vzS5hVeuKqqiTqjypqEp5w8uM/Gk4/qYYyZ9U3/ig5WKfekifmpwpc1wcm/HYwSbKrzF4OrAPAGgkWBYBziI1Lys+UWRIVHArXRRuSAlUEpZ9xUj0y9SesQVZCq7CzSG4RZFgeI35WeaIxmkBqgZZq/CD6Q==;UFKKE5JNdtSXANyKAkiU0Q=="
 ---

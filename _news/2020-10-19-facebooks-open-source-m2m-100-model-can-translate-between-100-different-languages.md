@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-
 ampWebUrl: "https://venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/amp/"
 type: article
-quality: 83
+quality: 85
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
@@ -78,6 +79,22 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/gKDij_RxAohDBdghYbl6qEL54B8=/1200x630/2020/07/25/a5b66fe1-db1a-4c66-85c6-5fb905e14a7c/twitter-facebook-logo-phone-united-states-flag-4542.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facebook unveils 1st multilingual Machine Translation model"
+    excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT) model that can translate between any pair of 100 languages without relying on English data. Called “M2M-100,"
+    publishedDateTime: 2020-10-19T16:57:00Z
+    webUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/"
+    ampWebUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 59
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Facebook AI can translate directly between any of 100 languages"
     excerpt: "Facebook has developed an AI that can translate directly between any pair of 100 languages without having to go through an English translation first, as many existing systems do"
@@ -136,6 +153,6 @@ related:
         height: 629
         isCached: true
 
-secured: "Mx1gTCsmaKNLDhFjTcXUfn2NxpbfInCjJkC2xawDpUp8KJXfWQJSK8JmUHUeYH5geJjDa+Ri1HNDrsQ4uAomaYHHb3jiKIkH8hmkI+N6a2PNBa8PZFxYSjhJSY1uQHNw+s8hxiinhoT9226D0q8rIF1a0kvLFobCUs8I1r5Ul4ZcqrhPH7yc7vrRAxNDZFLfAN5pRYeZ0dnjuSyokqNyityTSnfH6z4lv+K4X3kU+c+v8POfszNLNoCXFQHNYOsjcWxBgXuz1OnGQD1kagCOBhiPYvhTaX5B5HRoabGg60CGcvuTwgfnLNrhdBI0zcKnegj3oizlbExqkLKm+i9OQDhPPrdyhPZyhrvvM3s5ZiM=;QnTnpU1jZzUGpcLrDVkQYw=="
+secured: "YbznHerp+WXi6H4RlG2Xc3v7fgorq5HmYsz/vvPFk3B+F1VmIWJAMvUryo/HbcVZVFVgd++BT2vFP+ZWUWtziAPOqN9mlRjIlfIgs4eiPlQ2UVdJGWfQnsZkK/hmFN94Lu1ftQJK6C8ehCbljH7KzdQACIr7AjVaMTpu2cuzj5xAcDZHlO1bkX+ntZqtZFnOwpXxi6VypJRSNplHaQtbsiP3a17affTsSMO6eFao/g88jLot6/a9zepQ/iM1Bo1jUOJguTrnrJXGbNHB9JZLP64oIsJsdGSvO7a+JGvL7PMDfsdTQZ0FvWct7O4OeETEh+aMsSwqv0yAISQwyCfgsqtsNKrM2I6FUOM2qNaLPaRePDmVlF1zqkOh6esqpIt0SjudgUMF00ywW6WLYuMQIdW44XX7hzH3e3PTtB07ANQhqH/XfZAawOUR+jV2KD9fJIMHZ6gMN887oCFr7+6IxuYBqtDUSpBK8WUS9y6lj/gySB3hbUpXxZribDMJe3wlWT/3i4suVUiiF0ctnBGUzQ==;BRT0fCfZzouzb0+gk2b0LQ=="
 ---
 

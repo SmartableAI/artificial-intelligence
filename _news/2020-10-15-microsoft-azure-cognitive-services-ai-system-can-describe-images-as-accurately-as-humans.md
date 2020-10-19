@@ -73,22 +73,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Microsoft's latest computer vision technology beats humans at captioning images"
-    excerpt: "The AI is already available to Azure customers and will be incorporated into multiple Microsoft consumer products later this year."
-    publishedDateTime: 2020-10-15T00:00:00Z
-    webUrl: "https://www.dpreview.com/news/9384724203/microsoft-s-latest-computer-vision-technology-beats-humans-at-captioning-images"
-    ampWebUrl: "https://m.dpreview.com/news/9384724203/microsoft-s-latest-computer-vision-technology-beats-humans-at-captioning-images.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/9384724203/microsoft-s-latest-computer-vision-technology-beats-humans-at-captioning-images.amp"
-    type: article
-    provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 72
-    images:
-      - url: "https://4.img-dpreview.com/files/p/E~TS520x0~articles/9384724203/scanning"
-        width: 520
-        height: 326
-        isCached: true
 
 secured: "4RK0y0oFnUNnyIe9ZQI36BIQNVVRpq1gjKnNNpOTIg3Fn5bkNWwC5tQZw0kt92jgvhGKVZxNrV/vK7AZIbnxk6rv3e4gRKlO/GS35+PtSmI7G80BSw88/7G5dYgpQD2dbcoOpzYuOax5Ga3i0g/iwfgf6IUiYHP4mjiA6TQEN/aWIswISqNKPYMGq6ihZrtNwt1fpCWOewVJD1B0G/tjkT1sjvhhWK2b99UYw1LC+dkA45Q2c/D9qD3gxmvyqQ1EwNj0BdbpZLNXQTGnIfHRugkPjjK0iPDPEvMM3SPaF/tUIiEYPsmpEw2oPFSxr/kAC/igIke91+NUkytM0gjgfIlwN5ouPvxnyI/wXrW9dBS8RJ2dyJoiAPgXefZx7SZ44LUnr7qvxJgVv/U0dJvNm01W0iActQll3GUi91ziSjhyGHSHJNeg+PnfTrZF2j+yOVSqOZP8oC2AX/q1up2IgPZ8s/O21KG6cfr9OuSA5cV6SAEh6G3gHigb7+Js0h2+3+zD8Qjc87KPEupW3jJOuA==;f//Eqd9vYTdi972nv0Cefw=="
 ---

@@ -35,6 +35,38 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Self-driving startup Cruise is launching fully driverless testing in San Francisco this year"
+    excerpt: "CEO Dan Ammann has heralded the end of car ownership and advocated for self-driving ride-hailing as a solution to global warming."
+    publishedDateTime: 2020-10-15T21:45:00Z
+    webUrl: "https://www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/5e27d1fbb6d52d4c48798a32?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "GM's Cruise plans to test unmanned self-driving cars this year in San Francisco"
+    excerpt: "The company received a permit from the California Department of Motor Vehicles to remove the human backup drivers from its self-driving cars. Other companies to previously receive such a permit include Alphabet's Waymo, Autox Technologies, Nuro and Amazon ..."
+    publishedDateTime: 2020-10-15T18:03:00Z
+    webUrl: "https://www.cnbc.com/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105600216-1543518019363cruiseleadership.jpg?v=1543518088"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "GM’s Self Driving Car Service Allowed to Test Vehicles Without Safety Drivers in California"
     excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
     publishedDateTime: 2020-10-15T21:58:00Z
@@ -64,6 +96,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.3281%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_51%2C$y_67/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/t_afr_exclusive_no_age_social_wm/88c89615cbceb34c54a1a27a7a60d166f1ec479c"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Cruise self-driving cars no longer need a safety driver in California"
+    excerpt: "Cruise, the self-driving technology company backed by General Motors and Honda, on Thursday announced it received a permit from the California DMV to test its prototypes on the state's roads without a safety driver behind the wheel. Nevertheless ..."
+    publishedDateTime: 2020-10-16T15:47:00Z
+    webUrl: "https://www.motorauthority.com/news/1129978_cruise-self-driving-cars-no-longer-need-a-safety-driver-in-california"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/chevrolet-cruise-av-self-driving-car_100646499_h.jpg"
+        width: 1920
+        height: 1196
         isCached: true
 
 secured: "NNJ63VXC2P/iZ7Ab/Zvv1IhizI1wx/nAuLNXgQBI46IeuaCD+6D4d86/skXFieTqEzNsa5CVB+Aj8YHRMsgvRRVo6oHI+MqU55w5kdOWUVPZMtoy+te+a8wsnJWv0TFkul4PSXgm4hkPANMnCQVTsySO88iQC9os7DormC0GqPp0ViIuR3dsYKTw07Nf7QPXLK9j1gLn5/55JJ3qrcIMUj2ZFiyIBcjcg7Gns1A9S13dobWNz4KqQPdlsQLB7NRU9mYFWc+zLVlaGht6qNGLHCx8QaDnziWLe05mH8X4rBIXK6qg8IeJrEGLcEeyWAdqy9PHmnbS/R+JFxNNweBpHbgSQfnrzSh7MBfJK0EjBUA=;iDEXnuyb1NuRNb0TjalKSQ=="

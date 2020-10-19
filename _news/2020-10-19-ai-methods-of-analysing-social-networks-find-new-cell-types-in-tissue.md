@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-10-ai-methods-analysing-social-networks.a
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-ai-methods-analysing-social-networks.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     height: 1248
     isCached: true
 
-secured: "x0ZGSBYKXQ6jDv3Gt3awPq/yhoFJWw/BU/3otyP64wqlzHWt1wO1XQ39v/wBQ88MRRN1A9pLp1lz+dDmuGrelamDULrg6iy/6uS48fcaxxbQK/WM3p16x6/9gKoNqSDeQRzFEtZUKZuKiewig8d5eI21xSi6ax2OvcxN/WQxyQsrw6Yi98rP1aim/9sBBKI4Kujgn1gVLxQDHNFvPlQrFogeUzGx2mUlLB0eg4ziL7FWxJasB47WLFT6t5Gt2kjoaj0eSyGADnqGGYv02K2spmWgnIsZrD8RunGtyZivWIgdL8wprKMfUBeKI6ke2ByeNOqzlTQrLB81kuYGUvRNabsKGgFV3cazuuaHaXVT8nQ=;ajCAetWe74ZG8JI5h1PxEA=="
+related:
+  - title: "AI methods of analyzing social networks find new cell types in tissue"
+    excerpt: "The problem is that distinguishing all the important details may be difficult. This is where the new AI-based method may come in useful, since it allows unsupervised detection of cell types as well as detection of functions within an individual cell and of ..."
+    publishedDateTime: 2020-10-19T17:12:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201019111918.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+
+secured: "Wzmj1KiaTuVF9PLlwgPRZdApE/Ij3X2PypU4IAPGsmxsw4EMC5mF3XZGnhqh2JVkjm5Zi2qTLKm0LoOUfdMycagIDHWpU+ULGPf5QYM1OC+gcRoY1XM6ZCKuuc3JSwVCpVOnis/C2aGtSgWpDXkYaARIashcoNl+xRrNWZdsvyCHigjx7+oKWMIBaJna0FOhZlHQgAe0aTjc8XuZtGvL+gHwOgy92LuYoGUM1Ul21ptcX9F6d8BfZh0ds2RvCb4PRoaxsUwYNfzknl52DR/bkfWQQqcvFjWRP3Lc3+1wvqBTcWG2bfRzUAgbqi9wiIepqE1+fKK8o3Mb17rwLTGTCrO6W21pPzNhjNdQeEnTkGz9I/6M4A7iFvf/oXWxaCWQLheWHEo0zzq9QkO8QStYjCjziXgiikntNTvaC1upCB64TEI7sVVBUMv9dOQlHvuH0lwPbJn6jD9QWRCWQsdtghItUjC8cap2ZfYx8kUDJXJzDyEM3HC4En/k1Bv3Q9UksZVl/6dfFPQt3/lyaP/aqA==;dKRUlQViQpBu/GslOpfgUA=="
 ---
 

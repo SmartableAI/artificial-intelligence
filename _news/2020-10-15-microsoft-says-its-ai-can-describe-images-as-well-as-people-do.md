@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-human
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/tulh8a/article32862527.ece/ALTERNATES/LANDSCAPE_615/microsoft-ai-captioningpng"
         width: 615
         height: 384
-        isCached: true
-  - title: "Microsoft's latest computer vision technology beats humans at captioning images"
-    excerpt: "The AI is already available to Azure customers and will be incorporated into multiple Microsoft consumer products later this year."
-    publishedDateTime: 2020-10-15T00:00:00Z
-    webUrl: "https://www.dpreview.com/news/9384724203/microsoft-s-latest-computer-vision-technology-beats-humans-at-captioning-images"
-    ampWebUrl: "https://m.dpreview.com/news/9384724203/microsoft-s-latest-computer-vision-technology-beats-humans-at-captioning-images.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/9384724203/microsoft-s-latest-computer-vision-technology-beats-humans-at-captioning-images.amp"
-    type: article
-    provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 72
-    images:
-      - url: "https://4.img-dpreview.com/files/p/E~TS520x0~articles/9384724203/scanning"
-        width: 520
-        height: 326
         isCached: true
 
 secured: "37//qE/T4KIHomnQv7vHe2pNoTekMxOrWqg+jGxtC9pVodqb083E+rfsicHkFyFL8eyrJnNfuBJ2FSKYnsPL1E0u2ez7kj7QkuEBdh1i32lj7CyK54NNknjmGG0+TiPkt8NYIx/RPbIefVPhWKCnJh33EQWs5qK+5gAdaoRGA1EQIyXt0l34lW4T3W3CgOTHYAonkX8cj7c37cQPYOU04HlBwwwWQSLpHZZLDd2IIubzg2WrQ6z7EoQotrJE1n6NReeNQxA/At37j+wYc2SRSlcEqP9/D/VVKEbyC/LRAClk7xEU2/BWMiGwaG9VkGrdzojC1BiNXmzFOjJ6isw6hqOj+QnoW+KYeaKerzJmsEzEv3yHDWKr9WkB1ujqHaFqSmBS7TgGqPpuyYeB1Y5NCtED2DAUaV1LPgzpww9Sbg1ZrAAJcSxShpofvIQmRkqhbGKixlNHIvGTd2dj5RV1q561Ri1bHrpzvFnlvLj958ZmDfx5NERgH0QDvMr+jgqiqsOOmIFYKaZuBws3Kfuq9w==;5fPaOFHzm05o9+sPfB/0kA=="

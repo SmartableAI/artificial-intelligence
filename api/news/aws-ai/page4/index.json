@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-02-weta-digital-advances-visual-effects-and-animation-in-the-cloud-with-aws.md",
+      "title": "Weta Digital Advances Visual Effects and Animation in the Cloud with AWS",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Weta Digital is going all-in on AWS, leveraging the prove",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200902005251/en/Weta-Digital-Advances-Visual-Effects-Animation-Cloud",
+      "originalUrl": "https://www.businesswire.com/news/home/20200902005251/en/Weta-Digital-Advances-Visual-Effects-Animation-Cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200902005251/en/817650/23/Avatar_viewimage.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-amazon-.md",
       "title": "Amazon запретил полиции использовать технологию распознавания лиц",
       "excerpt": "Технологический гигант Amazon запретил полиции использовать программы, которые помогают распознать лицо преступника и быстро найти его \"профиль\" в базе данных, как минимум до конца 2020 года. Это прои",

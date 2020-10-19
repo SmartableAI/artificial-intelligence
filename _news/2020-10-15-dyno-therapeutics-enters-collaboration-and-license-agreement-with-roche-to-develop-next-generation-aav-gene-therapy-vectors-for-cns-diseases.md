@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20201014005248/en/Dyno-Ther
 webUrl: "https://www.businesswire.com/news/home/20201014005248/en/Dyno-Therapeutics-Enters-Collaboration-and-License-Agreement-With-Roche-to-Develop-Next-Generation-AAV-Gene-Therapy-Vectors-for-CNS-Diseases-and-Liver-Directed-Therapies"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Dyno sparks a $1.8B deal with Roche to develop CNS therapies"
-    excerpt: "Privately held Dyno Therapeutics Inc., an early stage biotech company applying artificial intelligence to gene therapy, entered a collaboration and license agreement with Spark Therapeutics Inc. that could bring Dyno milestone payments exceeding $1."
-    publishedDateTime: 2020-10-14T23:14:00Z
-    webUrl: "https://www.bioworld.com/articles/498961-dyno-sparks-a-18b-deal-with-roche-to-develop-cns-therapies"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 24
-    images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Neurology/CNS-illustration.png?height=635&t=1602701261&width=1200"
-        width: 847
-        height: 635
-        isCached: true
 
 secured: "YmGaBbANOP9oFBGAScMbJm9Gs3spw5xhu/Y6ltjEX5wm0t0nRI2Jx7JdwY+uSxRo3r7h0cln8WpkukYjxvY7PdDV7oaD5vu1sMMqcbdwfnqv+GY2kCcnw/9Wg37V+gtU4fexA71lzQB1PMTgvNB8MGpPHZjd5uyTSlE/UwBPmDCM28avv+Jq2NLVP+19M4jqASqJ5LLimLw2wBVwKgbqJ6UMSxJXCSz82wd5R/C/y7fOnhHYShysilY1SkF87Rn/RDT3ZIWQlzFIH8Jbw7765KLwrNOo2q5VSgLMQvOyh1aMjTQmiw+Cap0fvdzr/PVAqnEzzh9IBO6/1GVAtCAvA0Jcft/ERY2gdTF2gr/woSg=;E7YmE0B5qj/2gb/XLN3z8g=="
 ---

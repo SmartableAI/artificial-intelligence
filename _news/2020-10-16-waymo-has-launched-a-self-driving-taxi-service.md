@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Riding in a self-driving car is Waymo relaxing than you might expect"
-    excerpt: "Subscribe to the Roadshow newsletter, receive notifications and see related stories on CNET. Now, suppose you need a little refresher on self-driving cars. In that case, Level 4 autonomy means that a vehicle can complete an entire journey without driver ..."
-    publishedDateTime: 2020-10-15T00:45:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-van-phoenix-youtube/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/9uba5kNbIBwHtaYmXNybVv9IYxM=/2019/07/02/ffa46822-32cb-4b06-81a6-aa82f237cb11/waymo-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Uber's self-driving-car business has fallen behind Waymo and Cruise — here's why the ride-hail giant might give up on ATG"
     excerpt: "After the indictment of a former executive and a fatal crash, insiders, investors, and experts question whether Uber ATG can turn things around."
     publishedDateTime: 2020-10-16T01:09:00Z
@@ -59,67 +43,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Self-driving startup Cruise is launching fully driverless testing in San Francisco this year"
-    excerpt: "CEO Dan Ammann has heralded the end of car ownership and advocated for self-driving ride-hailing as a solution to global warming."
-    publishedDateTime: 2020-10-15T21:45:00Z
-    webUrl: "https://www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10?amp"
+  - title: "Uber ATG has been hobbled by a deadly crash, infighting, and balky tech — and investors are losing patience with the self-driving division"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Uber has said self-driving cars are essential to its future, but the ride-hailing firm's autonomy division, the Advanced ..."
+    publishedDateTime: 2020-10-15T12:12:00Z
+    webUrl: "https://www.businessinsider.com/uber-atg-self-driving-car-project-struggled-infighting-bad-tech-2020-10"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 78
+    quality: 20
     images:
-      - url: "https://i.insider.com/5e27d1fbb6d52d4c48798a32?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f85eb5891aa9e001880b5cd?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "When Self-Driving Cars Don’t Realize They’ve Been In A Car Crash"
-    excerpt: "Will self-driving cars realize when they've been in a car crash? getty. Have you ever been in a car crash? The odds are that if you’ve been driving for any notable number of yea"
-    publishedDateTime: 2020-10-18T15:39:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88dfcdb1cfa1bd271072c9%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "GM's Cruise plans to test unmanned self-driving cars this year in San Francisco"
-    excerpt: "The company received a permit from the California Department of Motor Vehicles to remove the human backup drivers from its self-driving cars. Other companies to previously receive such a permit include Alphabet's Waymo, Autox Technologies, Nuro and Amazon ..."
-    publishedDateTime: 2020-10-15T18:03:00Z
-    webUrl: "https://www.cnbc.com/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105600216-1543518019363cruiseleadership.jpg?v=1543518088"
-        width: 4000
-        height: 2667
-        isCached: true
-  - title: "Cruise self-driving cars no longer need a safety driver in California"
-    excerpt: "Cruise, the self-driving technology company backed by General Motors and Honda, on Thursday announced it received a permit from the California DMV to test its prototypes on the state's roads without a safety driver behind the wheel. Nevertheless ..."
-    publishedDateTime: 2020-10-16T15:47:00Z
-    webUrl: "https://www.motorauthority.com/news/1129978_cruise-self-driving-cars-no-longer-need-a-safety-driver-in-california"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/chevrolet-cruise-av-self-driving-car_100646499_h.jpg"
-        width: 1920
-        height: 1196
         isCached: true
 
 secured: "gU9l+7u5VGnBn8R6hyOfrohq6LzDc/IaoIdGxrEH4Ygpb0Q3Nv3xyc8Ght6P15ZS+6kAWMcyOL3p1vXgEirHZs97dfhb9kYnbcbXAnssurhp42+sE+KPk72TOyvMDVsC+J/0H39zCBH2udll0Jzt6K0T51U8lRjTNgi+a35mUiaIjJPRYWmDGuDdUfQIvATYshWF0E1sU1LJm8+lil8XKFngTxj3O5VyeGt+7kwex8yznKsNm/439ItQBKOI1WUvJhUO2uEmnU7yX3lWnsqWRjfFl11NxJvE/R3jTi+T2T1BaGNAFTvujwVSN1jS4ueMnDBVSphOed0imTZjMKJ4Dwe2K1lrx3AONAdCfIirfYDtX+NL03o6tgRsIgKdwPTs0mwE1JFQD1uuIzPRlFbW08xVkibfFXfWBkW/nyp6OntYjLPLqglUyhWDfKYoFgNAGiguiPqOoamSdYr0HLmjvEkLUqIbru4xnkCb3iyJh3CvGAe/1tBltlfUGt6iL3GJ/FlPU/9ByJ1D3OoYa3CY1g==;r722b4ZLO8PcsT9Alsmq3Q=="

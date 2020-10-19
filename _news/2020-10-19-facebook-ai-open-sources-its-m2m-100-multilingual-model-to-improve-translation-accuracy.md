@@ -68,7 +68,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
         width: 1200
@@ -89,6 +89,22 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/gKDij_RxAohDBdghYbl6qEL54B8=/1200x630/2020/07/25/a5b66fe1-db1a-4c66-85c6-5fb905e14a7c/twitter-facebook-logo-phone-united-states-flag-4542.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facebook unveils 1st multilingual Machine Translation model"
+    excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT) model that can translate between any pair of 100 languages without relying on English data. Called “M2M-100,"
+    publishedDateTime: 2020-10-19T16:57:00Z
+    webUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/"
+    ampWebUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 59
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Facebook AI can translate directly between any of 100 languages"
     excerpt: "Facebook has developed an AI that can translate directly between any pair of 100 languages without having to go through an English translation first, as many existing systems do"
@@ -133,6 +149,6 @@ related:
         height: 629
         isCached: true
 
-secured: "ily0JbdXCaHpXzNsMy1uPnadcU26jmAW9qpzFx5uLMxozpeRr0U6M/jaK6pn0bXWhBkvZr+SjFfzjrpl9U/Zi4VG0xJSDZMrTzIyhdn3rp+70RNMgDJ5rJZHa8LRDY22k6TCDYQpbiJHYZe7a8U6o8cnyibkQxWA5f8LW8I8flHDwwU15dZ4YmGQ+/Pv6Ly25jjel7krePlWvvfhWwcew9A53GaiiUbFdkzkWJuVhx5AfOVH6kpOE7uQun1GEGP0dbYmLqIoJMn+vkMOKMXX4lpTiUz9ddAtmdMJPh7Qt/9F6SZbtmIm09GfdNI5k4fvEBUUOPeH7EJ5Vhw5rln7CYi0rZGtskNtnkzq+mXqsw0=;Y1eGNWxse1REVbSgWX/UXw=="
+secured: "xrXi9pXZr1hERKzJ/JKsjHYva7tmZlYDuVnyfPnMmfRVO5+eojXAmcQ+0UlVPNqiagN9ls2x/nE9nnyeve/JvUVBzdKSQ4ar7op0jL7H3EZufjucJ5vzECx+Znex7Bw/FiquvnhBB7QCackqHmPjI4W+kXm+teDJtVT1suhfkH5jfm6qEZplunrgj5etQOUsceiVKA6lbER9oT6tnXzfqSd10JmOTemn5rRXRab8/cv3ULni67fzg6ACpBnY4hJQxGJQMn4qk/s17sXTWvWENTvwOE4CD9H9EH6lBp+WBR7oGcEnEfWU3I7xP17RSq89cT2mYE0M9xH1accYbht2VW2CL18e1m+iT5/JlbgSaYbVTthCIMMJo5LygCSlJJpQ+uttkshJvvl1Z6ksKp9IBGP/yWo78VOlwaONiEekheO+PHFUkKRAUDs+IIn+2NlCaexOH77XmtQVCPNe6NGu7/ELBA56wrKe19MneZnYqmjPC/mk4kiD8T7l4Q3mAeT8g9t6z9ACvfh2pV3n4n6bMQ==;XrVUwJI4WjII2MY3/fUXBg=="
 ---
 

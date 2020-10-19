@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17954355"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17954355"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -21,26 +21,22 @@ topics:
   - AI
 
 related:
-  - title: "TailorInsight: With the Popularization of Smart Wearable Devices, Apple, Google, and WIMI Hologram's AR+AI Technology Develops Rapidly"
-    excerpt: "TailorInsight, the fintech market research organization, recently released a research report \"With the Popularization of Smart Wearable Devices, Apple, Google, and WIMI Hologram's AR+AI Technology Develops Rapidly\"."
-    publishedDateTime: 2020-10-15T09:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tailorinsight-with-the-popularization-of-smart-wearable-devices-apple-google-and-wimi-hologram-s-ar-ai-technology-develops-rapidly-1029682698"
+  - title: "WiMi Hologram Cloud Stock Rallies on News of New Artificial Intelligence Subsidiary"
+    excerpt: "The company says it's accelerating the development of its intellectual property -- positive news overshadowing a surprise shakeup in the management team."
+    publishedDateTime: 2020-10-19T15:51:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
-  - title: "TailorInsight: With the Popularization of Smart Wearable Devices, Apple, Google, and WIMI Hologram's AR+AI Technology Develops Rapidly"
-    excerpt: "TailorInsight, the fintech market research organization, recently released a research report “With the Popularization of Smart Wearable Devices,"
-    publishedDateTime: 2020-10-15T22:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17930935/tailorinsight-with-the-popularization-of-smart-wearable-devices-apple-google-and-wimi-holograms-a"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17930935"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17930935"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 9
+      name: The Motley Fool
+      domain: fool.com
+    quality: 81
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595591%2Fstock-chart-hologram-up.jpg&w=1200&op=resize"
+        width: 1200
+        height: 478
+        isCached: true
 
 secured: "1z0EBb7+HISpspLcNccGduBTmzzK6ZmmNmtsQX7bXAD6BZ98M2Hp0c3UCdHUwBPlGK48iv9vn0lMQLbxSsghQRmsiYfAq77fLEM/h0XtkoivpwFf4YfTjRqQqdrS1PzE70AOAKbQj1IYZmgRyMNTO0kybnt9PHVj+/iTQaoc8iPAoEgflRgDaEuRYzBH/EYJkAJkELXkMSItFyV6a+F/Xq4tD/l+5P3oOXpRtuUpc/NTwIIlNLKLYUaZqrcB4xIkEuBvlXsEK8WqRYRnL8ZFS3GKZICuNPzIZ5O+ODfKhHS2yrwFdVTlilFo2zffzPWkQQW28txQBnGeRwD5HStR36viWYm44zmFwYhT+dSyjpc=;mYonE6MW6XLqVNpCDATD7A=="
 ---
