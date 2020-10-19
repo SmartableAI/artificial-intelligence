@@ -55,6 +55,22 @@ related:
         width: 1408
         height: 792
         isCached: true
+  - title: "ING and UNICEF launch ‘Fintech for Impact’ initiative to support fintech start-ups in Philippines"
+    excerpt: "efficient data with a new AI-enabled platform This initiative, called “Fintech for Impact”, supports open-source solutions that contribute to a growing body of digital public goods that can advance society. Chris Fabian, senior adviser at UNICEF ..."
+    publishedDateTime: 2020-10-19T09:58:00Z
+    webUrl: "https://www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-‘fintech-for-impact’-initiative-to-support-fintech-start-ups-in"
+    ampWebUrl: "https://www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-%E2%80%98fintech-for-impact%E2%80%99-initiative-to-support-fintech-start-ups-in?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-%E2%80%98fintech-for-impact%E2%80%99-initiative-to-support-fintech-start-ups-in?amp"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 31
+    images:
+      - url: "https://www.businesstimes.com.sg/sites/default/files/styles/article_img/public/image/2020/08/06/nz_philippines_060820.jpg?itok=LHDtmRW7"
+        width: 440
+        height: 293
+        isCached: true
   - title: "Early-Stage and Mature Fintechs Chosen to Take Part in Qatar Fintech Hub’s Incubator and Accelerator Programs"
     excerpt: "Early-stage and mature Fintechs chosen to take part in Qatar Fintech Hub's incubator and accelerator programs."
     publishedDateTime: 2020-10-15T22:35:00Z
@@ -70,6 +86,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Doha-Qatar-mike-swigunski-unsplash-300x234.jpg"
         width: 300
         height: 234
+        isCached: true
+  - title: "Three things to help fintech unicorns grow profitability"
+    excerpt: "By Kash Amini, CEO and Founder of MasLife The new breed of fintech companies is missing a trick with a massive market opportunity. Lack of customers isn’t the problem – profitability is. CEO and Founder of health and finance app MasLife Kash Amini suggests that there are three key ingredients neobanks lack in their journey"
+    publishedDateTime: 2020-10-19T10:28:00Z
+    webUrl: "https://www.globalbankingandfinance.com/three-things-to-help-fintech-unicorns-grow-profitability/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-19T154147.289.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "GvN3aFHR1B3H3P+eo5QVCLY3zMhe6daZDHuGaM8f0cS+Z+/xsTSZSoawS4mWn3rmHNmuGERo5JRYHzg/qd+uKxC5K5DvRNwo3uJLx/JjJwcdtfzKOYAskOmsrSodQ5SDsoH/18VvfCRXNYW9FY+FAZrGaq5zvew1T0bav/7kVvseyhmDejL7AHy5dbMvjsqNYfauBQFrh6ygtw8mC5OaGsZ/+F+jeSmphYdkQqw4alJ1p6YrFHF9KO5GY+ZdegFShzO0ucIxPqpPw0Fnrt+FPQ5Z5mDyc9XB9P220xuI8TZuygU+kfqT/M/iM0Vu6aZRZo7vUX6SN4FUMtgTs50H0SlGpMRXRaI3iRcAf9ePk2ZhtwHsBDHRLL11qu3ZzYdSEluVabLn2HW//JVIFUy4zyzbBwwfpoE7cfMc692QnZ5SHQdnlx5IdkB5hvqSTRG/b3cSNlzzv9Veood5uWT0/MUHZr58zhTP6WziUiJprcK8V8XYsasWTJ8xwlb7xU3L1irJGLtFKNHjbcEAnMar0Q==;ByVAMnEOviZHk9cABd3X/A=="

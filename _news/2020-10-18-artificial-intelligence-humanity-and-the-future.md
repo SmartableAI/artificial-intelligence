@@ -42,6 +42,22 @@ related:
         width: 387
         height: 393
         isCached: true
+  - title: "Artificial intelligence, humanity and the future"
+    excerpt: "September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet."
+    publishedDateTime: 2020-10-16T21:07:00Z
+    webUrl: "https://www.heralddemocrat.com/story/opinion/2020/10/16/looper-artificial-intelligence-humanity-and-future/3684033001/"
+    ampWebUrl: "https://amp.heralddemocrat.com/amp/3684033001"
+    cdnAmpWebUrl: "https://amp-heralddemocrat-com.cdn.ampproject.org/c/s/amp.heralddemocrat.com/amp/3684033001"
+    type: article
+    provider:
+      name: Herald Democrat
+      domain: heralddemocrat.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/NHED/74e46470-2671-4831-a382-61e389490317-1029222344_TX_Sherman_Shayne_Looper.jpg?auto=webp&crop=386,218,x0,y19&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Looper column: Artificial intelligence, humanity and the future"
     excerpt: "In September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet. The piece received a lot of press because in it the AI stated it had no plans to destroy humanity."
     publishedDateTime: 2020-10-17T04:59:00Z

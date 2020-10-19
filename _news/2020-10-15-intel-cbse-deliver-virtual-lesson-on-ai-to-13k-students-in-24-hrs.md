@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "AI To Transform Auto Insurance In India"
+    excerpt: "The AI module would make the judgement of the damages on the car very quickly, reducing the processing time from days to mere minutes."
+    publishedDateTime: 2020-10-19T10:33:00Z
+    webUrl: "https://analyticsindiamag.com/ai-to-transform-auto-insurance-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/AI-To-Transform-Auto-Insurance-In-India.jpeg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Healthcare Artificial Intelligence Market Bigger Than Expected | Intel Corporation, Nvidia Corporation, Google"
     excerpt: "Download Free Sample Copy of ‘ Healthcare Artificial Intelligence market’ Report @  Key Segments Studied in the Global Healthcare Artificial Intelligence Market, IBM Corporation, Microsoft Corporation,"
     publishedDateTime: 2020-10-16T11:01:00Z

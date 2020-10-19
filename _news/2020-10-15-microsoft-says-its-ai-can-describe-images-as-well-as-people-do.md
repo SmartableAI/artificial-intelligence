@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-human
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -140,20 +140,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/microsoft-enhanced-image-captioning-example.jpg"
         width: 800
         height: 407
-        isCached: true
-  - title: "Microsoft Word, Outlook, and PowerPoint to get state-of-the-art image captioning technology"
-    excerpt: "Microsoft announced today that it has developed a new image captioning system that can generate captions for images automatically."
-    publishedDateTime: 2020-10-14T18:04:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-word-outlook-and-powerpoint-to-get-state-of-the-art-image-captioning-technology"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 29
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/10/azure-image-captioning.jpg"
-        width: 1024
-        height: 768
         isCached: true
 
 secured: "37//qE/T4KIHomnQv7vHe2pNoTekMxOrWqg+jGxtC9pVodqb083E+rfsicHkFyFL8eyrJnNfuBJ2FSKYnsPL1E0u2ez7kj7QkuEBdh1i32lj7CyK54NNknjmGG0+TiPkt8NYIx/RPbIefVPhWKCnJh33EQWs5qK+5gAdaoRGA1EQIyXt0l34lW4T3W3CgOTHYAonkX8cj7c37cQPYOU04HlBwwwWQSLpHZZLDd2IIubzg2WrQ6z7EoQotrJE1n6NReeNQxA/At37j+wYc2SRSlcEqP9/D/VVKEbyC/LRAClk7xEU2/BWMiGwaG9VkGrdzojC1BiNXmzFOjJ6isw6hqOj+QnoW+KYeaKerzJmsEzEv3yHDWKr9WkB1ujqHaFqSmBS7TgGqPpuyYeB1Y5NCtED2DAUaV1LPgzpww9Sbg1ZrAAJcSxShpofvIQmRkqhbGKixlNHIvGTd2dj5RV1q561Ri1bHrpzvFnlvLj958ZmDfx5NERgH0QDvMr+jgqiqsOOmIFYKaZuBws3Kfuq9w==;5fPaOFHzm05o9+sPfB/0kA=="

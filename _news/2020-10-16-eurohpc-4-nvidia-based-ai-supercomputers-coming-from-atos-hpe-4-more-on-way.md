@@ -109,6 +109,20 @@ related:
         width: 480
         height: 252
         isCached: true
+  - title: "NVIDIA and Atos Team join forces to build world’s fastest AI supercomputer"
+    excerpt: "NVIDIA and Atos Team this week announced a collaboration to build the world's fastest artificial intelligence supercomputer. The Italian inter-university"
+    publishedDateTime: 2020-10-19T09:16:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-19-10-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/10/AI-supercomputer.jpg"
+        width: 700
+        height: 500
+        isCached: true
 
 secured: "tQYIM3mgAkTsvKuTUKhYulyOu3xPbwY8m17uncdRoR/W9q5KF/9uCDxsIHkukRlVbZE8jirr7mnt1ZjQkp+0qu1hLzIIo/2nM2MXF5FUzIvTXdp2BsBfIc12348LfmtgxBaEdESclpSQx8VrrMUxAswqNbLw2puboJh7zVX5Wo3y3qGzTRZ8pQHlDb6VXYb5GRbrQ1OjpnVvBgvOflSH5RmURCGGVKntK0JgZchzM71gHf8P6sXub3YcFm5tPfgZSurEeNB1bDEtOzGpNkqjcPN9gQZRi7fp92TUfRxOMunGbsVSVBIsglrhYLL55nQ555oF8ifytXCZM2mgwkHc1yfwAz1SzFpFmrp3vIi6euHTtnA/xqeTTgOvycPUQLay8Y+D5OfF7D0WMoJmS3KjdkHt14V7HMm/SeT+CFuyChnhg3i7cpT4YJ1zScOUS0H7i66OZLycXwgTUs9EAwLJbcH8J2kNuS+Y+KTWlDOmTPmRLAIl2IIY5JzyK2o/xoprdFprvoedsZ55dQvI70vEjg==;Jt33y19rg1WOyX4RWm80pA=="
 ---

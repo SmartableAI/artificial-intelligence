@@ -99,6 +99,20 @@ related:
         width: 480
         height: 252
         isCached: true
+  - title: "NVIDIA and Atos Team join forces to build world’s fastest AI supercomputer"
+    excerpt: "NVIDIA and Atos Team this week announced a collaboration to build the world's fastest artificial intelligence supercomputer. The Italian inter-university"
+    publishedDateTime: 2020-10-19T09:16:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-19-10-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/10/AI-supercomputer.jpg"
+        width: 700
+        height: 500
+        isCached: true
   - title: "EuroHPC: 4 Nvidia-based AI Supercomputers Coming from Atos, HPE; 4 More on Way"
     excerpt: "European initiative will use Nvidia data center accelerators, networks and software for AI and high-performance computing. They include a system dubbed Leonardo, unveiled today at Italy’s CINECA research center,"
     publishedDateTime: 2020-10-16T12:42:00Z

@@ -25,31 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Scientists voice concerns, call for transparency and reproducibility in AI research"
-    excerpt: "Scientist challenge scientific journals to hold computational researchers to higher standards of transparency, and call for their colleagues to share their code, models and computational environments in publications."
-    publishedDateTime: 2020-10-14T18:08:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201014114606.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 41
-  - title: "A call for greater transparency, reproducibility in use of artificial intelligence in medicine"
-    excerpt: "Scientists working at the intersection of Artificial Intelligence (AI) and cancer care need to be more transparent about their methods and"
-    publishedDateTime: 2020-10-14T17:07:00Z
-    webUrl: "https://www.hsph.harvard.edu/news/press-releases/a-call-for-greater-transparency-reproducibility-in-use-of-artificial-intelligence-in-medicine/"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 27
-    images:
-      - url: "https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2020/10/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "VBAJ7B+VOcZbB91I7nlARN+dxDGdYBvUmaN2AKSwPnFogTz6YPlv56JwffMcoeVtgq3fBxYpeu3kQMh4GLUGq+UEjOW6CM1ujOCRfAbtTxvIAgCoLjwQVMoqMXVDjXsRPuv0DEZXPs3VImlET6M3NnF7UymkKzwh2v1fYV3bLZGk3tcCh/T4LJiyPfvP9Y4peXo1HJiRgbTVz5ahPY6mwv1W5r7mIj5bMbi+R/opWA5KVSMy819Xj1ZYFMQPIxkxkXKYy3/FyeEdiznXA4/rds65WsH0CKvvqL0itoOMM9vG4uDOZUV8CRhM3Ae1LbPKoDE+m5MAx0Em+uqaCq7/sFv/GTFgmJFPRipQT60TSlw=;JfMnq1by6KarlH3VqxOIHA=="
 ---
 

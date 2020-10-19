@@ -1,0 +1,81 @@
+---
+category: news
+title: "Artificial intelligence, humanity and the future"
+excerpt: "September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet."
+publishedDateTime: 2020-10-16T21:07:00Z
+originalUrl: "https://www.heralddemocrat.com/story/opinion/2020/10/16/looper-artificial-intelligence-humanity-and-future/3684033001/"
+webUrl: "https://www.heralddemocrat.com/story/opinion/2020/10/16/looper-artificial-intelligence-humanity-and-future/3684033001/"
+ampWebUrl: "https://amp.heralddemocrat.com/amp/3684033001"
+cdnAmpWebUrl: "https://amp-heralddemocrat-com.cdn.ampproject.org/c/s/amp.heralddemocrat.com/amp/3684033001"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: Herald Democrat
+  domain: heralddemocrat.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2020/10/16/NHED/74e46470-2671-4831-a382-61e389490317-1029222344_TX_Sherman_Shayne_Looper.jpg?auto=webp&crop=386,218,x0,y19&format=pjpg&width=1200"
+    width: 1200
+    height: 678
+    isCached: true
+
+related:
+  - title: "Looper column: Artificial intelligence, humanity and the future"
+    excerpt: "Columns share an author’s personal perspective.***** In September, the British news website The Guardian published a story written entirely by an"
+    publishedDateTime: 2020-10-16T15:42:00Z
+    webUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
+    ampWebUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 59
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=LIFESTYLE&ArtNo=201019472&Ref=AR"
+        width: 387
+        height: 393
+        isCached: true
+  - title: "Looper column: Artificial intelligence, humanity and the future"
+    excerpt: "In September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet. The piece received a lot of press because in it the AI stated it had no plans to destroy humanity."
+    publishedDateTime: 2020-10-17T04:59:00Z
+    webUrl: "https://www.registerguard.com/story/lifestyle/faith/2020/10/16/looper-column-artificial-intelligence-humanity-and-future/114421676/"
+    ampWebUrl: "https://amp.registerguard.com/amp/114421676"
+    cdnAmpWebUrl: "https://amp-registerguard-com.cdn.ampproject.org/c/s/amp.registerguard.com/amp/114421676"
+    type: article
+    provider:
+      name: The Register-Guard
+      domain: registerguard.com
+    quality: 57
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b18a16da4a28b23b1cf5b3b4312416f8c8dd74b7/c=0-88-387-306/local/-/media/2020/10/16/WorcesterTelegram/ghows-WT-201019476-a8e65a7f.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Artificial intelligence, humanity, and the future"
+    excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
+    publishedDateTime: 2020-10-18T01:24:00Z
+    webUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future"
+    ampWebUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
+    cdnAmpWebUrl: "https://www-sturgisjournal-com.cdn.ampproject.org/c/s/www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
+    type: article
+    provider:
+      name: Sturgis Journal
+      domain: sturgisjournal.com
+    quality: 57
+    images:
+      - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
+        width: 680
+        height: 931
+        isCached: true
+
+secured: "Xj63KbAj1d4klWyQNBlMORymaR0YcDbPJ2xFyGaBqSaywWu48teynqh0W18UrnG7Tj79yWWkZctITqzoA0/MdMT1DxO3Cv8L3jfH8ElUw3YfWmL/A9wTH12UuxQXsGu0x8wR505TaXnEwEgyw1escKP3avLKymsObpgPzehnsE+MEr/QkJVyD2qbL8Kb8uVCadiTEVKstEpB9Klf31+FjV2MourxgGmOpUAZuqtYXyQW3eXDTJwGo//7xat1Syw/OM/7Y3yN+Pia8809BR58gy14MmQGagQK5M2PG6Qm2oVKBQu1bQ6fV2NBgxWRjQv+FSpuOKPML3d5cb/U9g/QCf+6Ez7hIA6sgdR/z0tKkjQ=;G1w7jZFOxWoc4ZLvyOGxUg=="
+---
+

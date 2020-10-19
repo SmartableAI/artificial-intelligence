@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "AI To Transform Auto Insurance In India"
+    excerpt: "The AI module would make the judgement of the damages on the car very quickly, reducing the processing time from days to mere minutes."
+    publishedDateTime: 2020-10-19T10:33:00Z
+    webUrl: "https://analyticsindiamag.com/ai-to-transform-auto-insurance-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/AI-To-Transform-Auto-Insurance-In-India.jpeg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Intel, CBSE deliver virtual lesson on AI to 13K students in 24 hrs"
     excerpt: "New Delhi, Oct 14 (IANS) Chip-making giant Intel and the Central Board of Secondary Education (CBSE) on Wednesday achieved a new Guinness World Records title for most users taking an online artificial intelligence (AI) lesson in 24 hours."
     publishedDateTime: 2020-10-15T01:08:00Z

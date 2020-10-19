@@ -39,6 +39,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "US Department of Energy signs five year Google Cloud deal"
+    excerpt: "Google will provide cloud and workspace tools to the US Department of Energy. The five-year deal will see DOE staff gain access to all of Google Cloud Platform's services, including Google Cloud Storage,"
+    publishedDateTime: 2020-10-19T10:09:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/us-department-energy-signs-five-year-google-cloud-deal/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 24
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/department_of_energy.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fXBXMEXKOToyoMkd6Mq0lx0YOi/gHbMMvgdMKbodURguKdUsW3DIvDXHSv7DkgLHge9BXOACi/JC3h5oa26LSg1t2nhvTCjJLNx0Jx3WvIpe5VEbwOw30ht4esm/6hh2EG/gvkokEVOWQ4ow9V/ke6i8NCCoptlTCuXoWwt4NTRr/m9KFajKbtIhLEARoYEqr2JIi9TCfU7wMVWcFwx1KQFrr6RjY3SGuo/PxquinWHuXmadh5dOg2RN5Qof3duURhmBSH0llTNB7u8q9lpX4x0JUeepmi1qmahGvTSdAAjBJlZdhK4xSWPkglp39SwQdx7DZ9ug90ylnnLHqbl+/6Ph3zwdIkwY7awMRoNexSTQvPpQPe3d6UyxAJE/LD5LYV73Psrj1zsFIf18IZ7Ww4JHv06PoadFJYMhseXxmIBLzxKSAN8pk3pXNNdTvHBYBIG75i2zMyEuLpZKycOLeaXbB18c56X24oZI0j5YhL/hW99XLAGy156aruMtxMwVw+0SuVM+RV3uMiFwdmI/vA==;VfC+6/2Ls5a5L3l69ylDiQ=="
 ---

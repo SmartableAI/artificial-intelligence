@@ -137,20 +137,6 @@ related:
         width: 800
         height: 407
         isCached: true
-  - title: "Microsoft Word, Outlook, and PowerPoint to get state-of-the-art image captioning technology"
-    excerpt: "Microsoft announced today that it has developed a new image captioning system that can generate captions for images automatically."
-    publishedDateTime: 2020-10-14T18:04:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-word-outlook-and-powerpoint-to-get-state-of-the-art-image-captioning-technology"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 29
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/10/azure-image-captioning.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "4RK0y0oFnUNnyIe9ZQI36BIQNVVRpq1gjKnNNpOTIg3Fn5bkNWwC5tQZw0kt92jgvhGKVZxNrV/vK7AZIbnxk6rv3e4gRKlO/GS35+PtSmI7G80BSw88/7G5dYgpQD2dbcoOpzYuOax5Ga3i0g/iwfgf6IUiYHP4mjiA6TQEN/aWIswISqNKPYMGq6ihZrtNwt1fpCWOewVJD1B0G/tjkT1sjvhhWK2b99UYw1LC+dkA45Q2c/D9qD3gxmvyqQ1EwNj0BdbpZLNXQTGnIfHRugkPjjK0iPDPEvMM3SPaF/tUIiEYPsmpEw2oPFSxr/kAC/igIke91+NUkytM0gjgfIlwN5ouPvxnyI/wXrW9dBS8RJ2dyJoiAPgXefZx7SZ44LUnr7qvxJgVv/U0dJvNm01W0iActQll3GUi91ziSjhyGHSHJNeg+PnfTrZF2j+yOVSqOZP8oC2AX/q1up2IgPZ8s/O21KG6cfr9OuSA5cV6SAEh6G3gHigb7+Js0h2+3+zD8Qjc87KPEupW3jJOuA==;f//Eqd9vYTdi972nv0Cefw=="
 ---

@@ -132,6 +132,20 @@ related:
         width: 450
         height: 338
         isCached: true
+  - title: "Ranpak digital transformation expands sales of packing robots"
+    excerpt: "The maker of autonomous packing machines is banking on a customer-facing and back-office transformation to bolster sales, says CTO Michael Gliedman."
+    publishedDateTime: 2020-10-19T10:04:00Z
+    webUrl: "https://www.cio.com/article/3586116/ranpak-digital-transformation-expands-sales-of-packing-robots.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 39
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/10/gliedman-dsc_9678-2-crop-100862564-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Satellites are mapping out every tree on earth using artificial intelligence"
     excerpt: "To train it, the AI system was shown satellite images where trees had been manually traced. This involved lead author Martin Brandt going through the arduous process of identifying and labelling nearly 90,"
     publishedDateTime: 2020-10-16T11:45:00Z

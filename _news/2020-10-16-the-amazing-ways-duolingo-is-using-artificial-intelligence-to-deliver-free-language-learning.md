@@ -123,6 +123,20 @@ related:
         width: 450
         height: 338
         isCached: true
+  - title: "Ranpak digital transformation expands sales of packing robots"
+    excerpt: "The maker of autonomous packing machines is banking on a customer-facing and back-office transformation to bolster sales, says CTO Michael Gliedman."
+    publishedDateTime: 2020-10-19T10:04:00Z
+    webUrl: "https://www.cio.com/article/3586116/ranpak-digital-transformation-expands-sales-of-packing-robots.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 39
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/10/gliedman-dsc_9678-2-crop-100862564-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "We Are Underestimating Artificial Intelligence and BCI"
     excerpt: "We are planning for AI to help universities recruit, oversee adaptive learning and drive intelligent chat boxes, but there is much more ahead in the near future. Are we are underestimating the future of AI connected through a brain-computer interface in education?"
     publishedDateTime: 2020-10-15T01:48:00Z

@@ -55,22 +55,6 @@ related:
         width: 800
         height: 498
         isCached: true
-  - title: "Voice Recognition Software Industry Data Statistics Analysis by 2020-2025"
-    excerpt: "Latest Research Study on Global Voice Recognition Software Market published by AMA offers a detailed overview of the factors influencing the global business scope Global Voice Recognition Software Market research report shows the latest market insights with upcoming trends and"
-    publishedDateTime: 2020-10-14T18:37:00Z
-    webUrl: "https://www.openpr.com/news/2159841/voice-recognition-software-industry-data-statistics-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2159841/voice-recognition-software-industry-data-statistics-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2159841/voice-recognition-software-industry-data-statistics-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta14631842_g.jpg"
-        width: 800
-        height: 507
-        isCached: true
   - title: "Global Hot ICs Report 2020: AI, 5G, CMOS Image Sensors, and Memory Chips (DRAM, NAND, NVM) Market Forecast to 2025"
     excerpt: "A Market Analysis of Artificial Intelligence (AI), 5G, CMOS Image Sensors, and Memory Chips\" report from The Information Network has been added to ResearchAndMarkets.com's offering. This report examines in detail Artificial Intelligence (AI),"
     publishedDateTime: 2020-10-16T05:42:00Z

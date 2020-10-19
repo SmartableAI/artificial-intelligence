@@ -71,6 +71,36 @@ related:
         width: 1408
         height: 792
         isCached: true
+  - title: "ING and UNICEF launch ‘Fintech for Impact’ initiative to support fintech start-ups in Philippines"
+    excerpt: "efficient data with a new AI-enabled platform This initiative, called “Fintech for Impact”, supports open-source solutions that contribute to a growing body of digital public goods that can advance society. Chris Fabian, senior adviser at UNICEF ..."
+    publishedDateTime: 2020-10-19T09:58:00Z
+    webUrl: "https://www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-‘fintech-for-impact’-initiative-to-support-fintech-start-ups-in"
+    ampWebUrl: "https://www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-%E2%80%98fintech-for-impact%E2%80%99-initiative-to-support-fintech-start-ups-in?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-%E2%80%98fintech-for-impact%E2%80%99-initiative-to-support-fintech-start-ups-in?amp"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 31
+    images:
+      - url: "https://www.businesstimes.com.sg/sites/default/files/styles/article_img/public/image/2020/08/06/nz_philippines_060820.jpg?itok=LHDtmRW7"
+        width: 440
+        height: 293
+        isCached: true
+  - title: "Three things to help fintech unicorns grow profitability"
+    excerpt: "By Kash Amini, CEO and Founder of MasLife The new breed of fintech companies is missing a trick with a massive market opportunity. Lack of customers isn’t the problem – profitability is. CEO and Founder of health and finance app MasLife Kash Amini suggests that there are three key ingredients neobanks lack in their journey"
+    publishedDateTime: 2020-10-19T10:28:00Z
+    webUrl: "https://www.globalbankingandfinance.com/three-things-to-help-fintech-unicorns-grow-profitability/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-19T154147.289.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "ubzOtQltGGYv4FwBSbytDH8xc78Tpc8lDa6ACK3Jdi+wEi4/kQ5qcRnf9ZU3QeOpK1Lb2o7EAdk/iN3DxSI6kWTaUXvid1C6oX8cjtgycRrxsERJAbwwJg0ZfK8YWA1P1HPw/5QE+l5eki3CE57C7yjbOaK0hSoel4VSNfjqYRMtWAwx7v5B9/G4vcG1uMqalCWSJKn7oKbag5SbY9S7plPOekC07Z5fgm+AE9to81hejlnNwdtknWMRKnwFCZ0wqzuG6FNbI1E9hhvpIp27o6yJcAnk8dMLKRIk82FmLrTAvoLCyogD8MWs5nNQ99xq6uPMwESFIMw3RrEWOMWbgf7D0/47PHqwCRkRz8rnPgDg56KvRF56yfnMPU60qjjipmDB5Lj0hPzZsIFPvBOLhZrHlVTnQyXlheGUPw3KvoI7OtY26kfDQ3rRktlDV/wwj1xG/73Qc6sp11nKTrFsKvDwkdyK15opy54kjRYNfjS4V57i3nSzge6oMeB7m2XGs3aJhm3x6iLVOyPMeptroA==;wSh4plhUhVKG9gi1FE9huQ=="
 ---

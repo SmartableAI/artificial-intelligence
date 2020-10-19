@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Analytics update uses machine learning to surface more critical customer data"
-    excerpt: "If you ever doubted the hunger brands have for more and better information about consumers, you only need to look at Twilio buying customer data startup Segment this week for $3.2 billion. Google sees this the same thing as everyone else,"
-    publishedDateTime: 2020-10-14T18:41:00Z
-    webUrl: "https://techcrunch.com/2020/10/14/google-analytics-update-uses-machine-learning-to-surface-more-critical-customer-data/?tpcc=ECTW2020"
-    ampWebUrl: "https://techcrunch.com/2020/10/14/google-analytics-update-uses-machine-learning-to-surface-more-critical-customer-data/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/14/google-analytics-update-uses-machine-learning-to-surface-more-critical-customer-data/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1076542364.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "7 data science start-ups shaking up AI and analytics – Silicon Republic"
     excerpt: "From the start-up that wants to make machine learning accessible to everyone, to the one that’s using analytics to monitor and take early action against skin cancer, here are seven up-and-coming science start-ups making waves in AI and analytics."
     publishedDateTime: 2020-10-16T14:46:00Z
@@ -65,6 +49,22 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 58
+  - title: "Google Announces AI Search Updates – Analysis"
+    excerpt: "This is how Google AI updates will dramatically impact how sites are ranked. Analysis of changes for SEO and publishing. Google announced a series of changes to search that will change how sites are ranked."
+    publishedDateTime: 2020-10-16T13:15:00Z
+    webUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/"
+    ampWebUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
+    cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
+    type: article
+    provider:
+      name: Search Engine Journal
+      domain: searchenginejournal.com
+    quality: 57
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2020/10/ai-in-search-5f88cc960a6ef.png"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "How AI & Data Analytics Can Solve Supply Chain Pitfalls"
     excerpt: "The supply chain is an ecosystem that affects businesses around the world, and the COVID-19 pandemic has thrown a"
     publishedDateTime: 2020-10-16T18:59:00Z
@@ -137,20 +137,6 @@ related:
       - url: "https://wwd.com/wp-content/uploads/2020/08/1101_penneys_brand_defining_store1.jpg?crop=1382px%2C0px%2C3239px%2C2161px&resize=394%2C263"
         width: 394
         height: 263
-        isCached: true
-  - title: "Google launches Google Analytics refresh with machine learning predictions"
-    excerpt: "Google LLC today rolled out a major refresh of Google Analytics with new trend prediction features powered by machine learning, a streamlined interface and extra privacy controls. Google Analytics is the go-to tool companies use to track their online marketing efforts."
-    publishedDateTime: 2020-10-14T17:40:00Z
-    webUrl: "https://siliconangle.com/2020/10/14/google-launches-google-analytics-4-machine-learning-predictions/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/google-analytics.png"
-        width: 718
-        height: 400
         isCached: true
   - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
     excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
