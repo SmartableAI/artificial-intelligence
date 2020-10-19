@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-human
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft claims its image captioning system is more accurate than humans"
-    excerpt: "Microsoft today announced the availability of its artificial intelligence-based technology for image captioning via the Azure Cognitive Services. The company also claims the system can now describe images as well as humans do. The new milestone should help ..."
-    publishedDateTime: 2020-10-14T20:34:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-claims-its-image-captioning-system-is-more-accurate-than-humans"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-claims-its-image-captioning-system-is-more-accurate-than-humans/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-claims-its-image-captioning-system-is-more-accurate-than-humans/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 103
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2018/07/1531417203_microsoftai_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Microsoft’s image-captioning AI is pretty darn good at describing pictures like a human"
     excerpt: "Microsoft has built a new AI image-captioning system that described photos more accurately than humans in limited tests."
     publishedDateTime: 2020-10-15T12:22:00Z

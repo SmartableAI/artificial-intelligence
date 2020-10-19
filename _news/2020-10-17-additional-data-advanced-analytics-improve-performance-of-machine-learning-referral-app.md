@@ -87,6 +87,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "How Zelle Protects Users Against Scams And Frauds With AI, Analytics"
+    excerpt: "An interview with Jamie Armistead, vice president for banking app Zelle, on how the P2P app uses analytics and AI to protect users from fraudsters."
+    publishedDateTime: 2020-10-19T13:08:00Z
+    webUrl: "https://www.pymnts.com/fraud-prevention/2020/zelle-frauds-scams-ai-analytics/"
+    ampWebUrl: "https://www.pymnts.com/fraud-prevention/2020/zelle-frauds-scams-ai-analytics/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2020/zelle-frauds-scams-ai-analytics/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/shutterstock_623744642-457x301.jpg"
+        width: 457
+        height: 301
+        isCached: true
   - title: "Deep Dive: The Power Of Data Analytics And AI For QSRs In A Complex Ordering Environment"
     excerpt: "This Deep Dive explores how artificial intelligence and data analytics can help quick-service restaurants optimize their operations across a host of use cases."
     publishedDateTime: 2020-10-16T12:10:00Z

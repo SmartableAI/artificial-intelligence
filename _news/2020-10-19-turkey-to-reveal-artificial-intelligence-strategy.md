@@ -29,20 +29,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "Virtual event to examine ethical leadership with AI and Big Data"
-    excerpt: "A global panel will consider how to define ethical leadership and the particular challenges posed by emerging technologies in a virtual event from 1-1:45 p.m. ET on Oct. 28. “Defining Ethical Leadership” is free and open to the public."
-    publishedDateTime: 2020-10-14T20:58:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/virtual-event-to-examine-ethical-leadership-with-ai-and-big-data.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 54
-    images:
-      - url: "https://www.purdue.edu/uns/images/2020/reingold-dataOG.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "ZX6Ux0Ua7boa1cSn15UyHSeD/T3Gq/SLESv5DK0jBsahR4oR2HKFEgHdvyecBpFtZuk1MlHL+4W2TP0gF5xv01O1muYNXWsz8G2IaCLUe97olKYNC0Tct76+JkA41msd5YTY7T3QDUclJcI1g9nEz7shSoHevljGILEMqwTmhycyfhrr/ocFmMeeosaNhbC9i/ZqmyTP5z/b4cXtxVmCWPawjugqvbyfbo4AKshNQlAVuzZ36P1672x/WqFgiiJQUsRpuPecPh2yAECquTVM0UmJ6ZWMD7fn+jQxVGu8yu4oPfNUf7om0Je0iapuuQB3OwZCnQhAtWZ/t232q7n256WAazHAsF1aOh1yy54HH5w=;HQw8l7gk7MYYJboYBktRbg=="
 ---

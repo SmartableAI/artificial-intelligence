@@ -3,8 +3,8 @@ category: news
 title: "MakinaRocks research published by Deep Learning sector’s premier conference, ICLR 2020"
 excerpt: "MakinaRocks (  a startup specializing in industrial AI solutions, announced on October 13th, the success of their RaPP-based anomaly detection research paper, selected and published by the International Conference on Learning Representations (ICLR),"
 publishedDateTime: 2020-10-13T17:30:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e/gallery/afc3d835fc99d2f97122f85de43642a3"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e/gallery/afc3d835fc99d2f97122f85de43642a3"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "wf5lxQKd64spKnD0qvXz2mCbWSpGKur2Kl8jZfQ1U7Ns7Da2OL0p8MEaN5MRWvhUmEO/fAddjxDKXYBolLfY2RJs9OKTlgade1nym9VUrymSMiiLz5PwHL73cNcus7vPZni1XIm+INAm8todVxGjN7/H2pEYBhjmYpmY8myLJrAkogO2443/gI0D49cu4/dCUuAqFX4IRCZztwHXSsi5uJaQI1tJfeQRRhuDYtymiNOV8HZD7e+LZYOMiEa9WN5QyoFK7b0Lrh457lDjeop35YIVaND7K7dVRVzNvhyY+kDGTWKxmsSZubOG6zWK/EcjNa1w3z884YODIb/bdnKmAFl+EhMI6KsWRJlD9DsV4as=;ZTrdB9zbMC1vv5LIzlWi6A=="
+secured: "0GW0Qcgq6No942W+lH4lXLon4k0gdJDeo3XcZD8wo7Db9xPdfZgJg7J5dhQSfNnFVYUKeorCHUMuxfkTPeUg0L6JYKNkGXrqKwW0L6H03QRTQ62cKTwXZvCTKqNhIw0gFSeZFDrhPhDM6lWlghUlRiyq+V++tQJWtYmiWsrjIHvhMF1BZB7PHPalBOfYsyHxQHo80JpUBIReynTfY1ADR0u/FyxtEHhoXiVtN98jIS18tIlrf/wzao7p+9sNITR5k7MUbNd37lDszy94fRmdPyBdUZRxCN4HjWvKcYH3q9kPllRCYkJjyLfQjhG3LqmC0afiIoTESYWakKpxuFmyCTRtAZoS++JTL77Gi5/p/p4=;xEy9YUYMdk8iYE9EsnlB7g=="
 ---
 

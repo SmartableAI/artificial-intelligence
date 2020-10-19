@@ -43,6 +43,20 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "6 fintech trends that will redefine the future of finance"
+    excerpt: "November’s fully virtual Hong Kong FinTech Week features expert speakers, who will share their insights into Fourth Industrial Revolution"
+    publishedDateTime: 2020-10-19T12:40:00Z
+    webUrl: "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast-track/article/3105520/6-fintech-trends-will-redefine"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 69
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/19/692f0fae-0df0-11eb-94e0-02af7fd927c6_image_hires_094836.jpg?itok=BWqBzU0p&v=1603072142"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Four Ways on how AI is Transforming the Healthcare Sector"
     excerpt: "This AI ability is becoming a critical factor in diagnosis, treatment, care delivery, results, and cost. Here are four ways AI is significantly changing the healthcare sector: AI in healthcare can be implemented to automate phishing."
     publishedDateTime: 2020-10-15T13:53:00Z
@@ -102,6 +116,6 @@ related:
         height: 422
         isCached: true
 
-secured: "TQI7Vx5ujLCCsubvL3ROv40awhpMckTCCszqTj+7dtIVuSQD5iKEy1BfqNkQHF6YZa9teuRvLNJ8UOM/eLgdytT0Kg0I9nLCL0DoaiM6NxwX7rTxhkG60CJwJ0XY2Ed1wdzgF09wQZBgXYrzV+98kjk/nBXH6N/7vf2PtfAUnAtVcJ9Hp63p6wIm0oKb+flVtulB5s4vyLgEi79ttj5MgoWN25GQPzgILd7bf/G3Df9krMT/TFV8qQKAgyXRB9joAjXdcpntUFok0WBdQv1Z0zBsJ160yfraoncbpkiHXCCSQqvxFNAUH7vNDKvpb1LmH8Hb3vAssIT6i1KWGLl8GXA2Xpt1WZPKfhK+OeMiulI=;PrYi65t18SRTjdOK/++Uow=="
+secured: "gSTCDfpMAIGdJZNK0K6fT0qcp8fmfiXBTxrbj2uvuZ0dKy2iVwC1ou2X33WjlfEJ4y2KLcLoLdYLaob+JlJQ9t0Peaf1mW2NOtO08qD/5R1zSRGj14HsvRXvgl2SgqBllzzF8HC+Y5XOrDbKT5qxTHwdXpHWGQsEcpm38rr8hNphiJolsZ9Mh99n9+T5Nsn69zfN8EXJ+VGQZM9djmH0qNXTqgJw3dFOg+tcc7+1ZO8bEqnNQV51ahWbfKGcC7gYy9OhVHpZ4wxXL69hVXhiWFlFI9ctVGzudRuULy475nmsE89T+90MmNEzC2OOjE21lTD5Oe+VRnb3WCiZdEU45Tja+W4fiau8y7SsjApX105XtSm96HMpHb2aCcZTP25dhHDCFjsGVc/CRnA0m7E9mNiSag/uA9yI6/ZcqRmT95TROCHZrot0FgtlRF1ua4KHN7FwHejbl+PY3qFsLb4bfbERyUpdCu6kvfxnCLBHQzWinrbPSCseVRz7ahvOZAJc/vBfEbcaJPZpI2vkofT2jQ==;+PCrebijG/G3uDRJfvpPaw=="
 ---
 

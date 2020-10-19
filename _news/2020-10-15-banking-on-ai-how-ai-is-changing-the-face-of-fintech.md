@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financ
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "6 fintech trends that will redefine the future of finance"
+    excerpt: "November’s fully virtual Hong Kong FinTech Week features expert speakers, who will share their insights into Fourth Industrial Revolution"
+    publishedDateTime: 2020-10-19T12:40:00Z
+    webUrl: "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast-track/article/3105520/6-fintech-trends-will-redefine"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 69
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/19/692f0fae-0df0-11eb-94e0-02af7fd927c6_image_hires_094836.jpg?itok=BWqBzU0p&v=1603072142"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Four Ways on how AI is Transforming the Healthcare Sector"
     excerpt: "This AI ability is becoming a critical factor in diagnosis, treatment, care delivery, results, and cost. Here are four ways AI is significantly changing the healthcare sector: AI in healthcare can be implemented to automate phishing."
     publishedDateTime: 2020-10-15T13:53:00Z

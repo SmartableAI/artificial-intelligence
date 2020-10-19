@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-c
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Virtual event to examine ethical leadership with AI and Big Data"
-    excerpt: "A global panel will consider how to define ethical leadership and the particular challenges posed by emerging technologies in a virtual event from 1-1:45 p.m. ET on Oct. 28. “Defining Ethical Leadership” is free and open to the public."
-    publishedDateTime: 2020-10-14T20:58:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/virtual-event-to-examine-ethical-leadership-with-ai-and-big-data.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 54
-    images:
-      - url: "https://www.purdue.edu/uns/images/2020/reingold-dataOG.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Turkey to reveal artificial intelligence strategy"
     excerpt: "Turkey will soon release its national artificial intelligence (AI) strategy which has been prepared by a joint effort of public, private and academic bodies, the Turkish industry and technology minister said Thursday."
     publishedDateTime: 2020-10-19T01:49:00Z

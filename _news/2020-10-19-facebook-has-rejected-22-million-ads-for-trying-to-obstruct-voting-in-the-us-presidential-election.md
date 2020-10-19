@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/facebook-us-election-voter-obstructi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-us-election-voter-obstruction-ads-rejected-presidential-election-2020-10?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -30,22 +30,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "How Facebook and Twitter’s content moderation could shape the final weeks of the election"
-    excerpt: "Facebook and Twitter’s handling of the New York Post’s Biden-Burisma story is illustrating how tech platform’s content moderation decisions could shape the final weeks of the election cycle — and Republicans are accusing them of attempting to influence the results."
-    publishedDateTime: 2020-10-15T14:05:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/15/how-facebook-and-twitters-content-moderation-could-shape-the-final-weeks-of-the-election-790994"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 15
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-
-secured: "URstXMaoGWGmcpjsc6sN1k3cjY1aDNbCywswA3QiKVY+wSRJM+fyZu9xEXPRXIG36M68cKmnIpVPLK4+lC0015KCa1DjcRomhGNCxtGIuozsIzpC1dFrdTPRB6Lnb0Esy2PXlHqt93nE7b027m3sCpsjpaFGMKjRvCgT5VH+FUv0R4ksYpGssmpTKvhYIIjcNFw2oZE4nyjdYDCCXO/ZK1S+ktosysNIo3S9fnD7ZRUOI4GJCC/OUeMg3sERZqUJn8ahHVC1SlDyrXu6DU9UvddMStgiL8aMVLMpZbYgC0ThA+/6aOCXv7tN1sq8VUybdhwt3nCM0xwSesP2xU70easAb600N8qTCIvczYnQ0pA=;hIeK5gBMc2Xnm+1hd1MQJw=="
+secured: "NyYSXDCbZ/51ZR6IRZQMZQeknK+QOxBxbomjXZqSaNXece7Fy25tMsKvcUqezQkN90BB/xUpDTvVEA3hKZiL4+4hKHsuK5Sf4++fHn2MhBtOLmjnfBNqKKAOrrRGsgiU/MdqDQl0LmF4AIszE9hujuBwNmifdk9RabNUBmtHTlC28jS3BQVV2iu947GffeBAeQ7U3bZIGw9i1sqk9z2xg9CWCSWRSvtooE8nvlWimJTINwP/kYKkv1oOMIy3rE5Y0m+9j8t+LU19skygOYfgMQml8lyhRbvG8fYmdQLwjsXDJcO4r55PNZxlz9cqVcyNFhQ1mCNH6A70Ku8kyg1NIB4XmedMfZrxUnF73x6PCUe3bp+7ngre0yBBInIZQs9xXageNlibXMcKMyqQS+1aPc7Vl6edp1BNOBbvzEDathzFd9tKrFCD2a3Zus7ZM4feirH7hW3sT4kw2Wjfo343oMm00Rw5MXvM3sziUM9OAz1G+1aezM4W6Jtu/u0/+yd75r1sk1qYZ4vkM2ScCexXLw==;FVl3hAYSoMWHLRrGN4eV/Q=="
 ---
 

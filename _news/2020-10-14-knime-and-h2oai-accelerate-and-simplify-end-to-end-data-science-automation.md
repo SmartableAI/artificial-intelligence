@@ -1,7 +1,7 @@
 ---
 category: news
 title: "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
-excerpt: "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering ..."
+excerpt: "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment."
 publishedDateTime: 2020-10-14T16:38:00Z
 originalUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
 webUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
@@ -12,7 +12,7 @@ provider:
   domain: bakersfield.com
 
 topics:
-  - AI in Autos
+  - Machine Learning
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "PYKid+6oEL/KWhKLHtec9cHCN4QtyWAsex0XSztgQ8fUHUvWiwdfQQ+QofBOizoBn4XVBFI5G3ApN249JNB3k1xVQvp7Sx/hHioeIZPrcsAL6h8oAMyM36QRQKrK5kM9D2jAFdIzwFdvpYx3mm2o74DiKoQzdmVp8HUp9OBzlzB2I1LMgX20b+biNxo9KdOTApnuYoCgwo7VmDh5LemZv5v0stsOdmApWeMEt0fLHm0OjsumybzDleSsQvjxTKfcukNpB1bQ0HIzzGCK22giHs+LFvNMvi7FcmiXGyCaMWiq+wZBf0WLL7P1AffZ4/Y9EHS48IBhQT0t5CfDYlsH28EPoUdIR+lqmJB+8Wayuyo=;CJu2cM8FobGIqLg5wwuGKg=="
+secured: "xOBr7noxJNS+igMv0WeOZVHTO06rSbk743BwjHYu8jbyNaTjbjpStrsk12fycFD6LcKit80V7hpE8WKgABrcsiIcQyv622CImavNWBHbssXletFKH8edepcs4/OTHRoN8kAxRB6vcrmSrFosoeDjFCmo34dYjH+J0c18wQheM8ANyjEDIycRnkqJo8fGtS/6Ju0opKQk8pa0u+KrxBW8yIV/fFRVmC5Kg1LG90DuADZaPtLmBGO9Yv2xmZDkZFVYU5IjxU9GY9z/1bB6wPZk/j8R/gznRWy9cuqWtjDGHWK5055mtKkqL1amKJ4kw7XBJeqfRv0jLBXwZt/5YcGtyUrTBeSUEC6Oi5K2v2FLYqw=;TVFT1I5e2n9VhynpRM/nNQ=="
 ---
 

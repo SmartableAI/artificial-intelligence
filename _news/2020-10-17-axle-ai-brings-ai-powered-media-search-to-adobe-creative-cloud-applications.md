@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17946357"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17946357"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,68 @@ images:
     width: 468
     height: 206
     isCached: true
+
+related:
+  - title: "Google Cloud launches Lending DocAI to streamline mortgage applications with AI"
+    excerpt: "Lending DocAI, which is now in preview, is a specialized solution in Google’s Document AI portfolio that leverages a set of models focused on document types in mortgage lending. Google says it ..."
+    publishedDateTime: 2020-10-19T13:00:00Z
+    webUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Building a landslide prediction tool with Google and AI"
+    excerpt: "AI Impact Challenge, Google asked nonprofits, social enterprises and research institutions around the world, \"How would you use artificial intelligence (AI) for social good?\""
+    publishedDateTime: 2020-10-16T14:09:00Z
+    webUrl: "https://phys.org/news/2020-10-landslide-tool-google-ai.html"
+    ampWebUrl: "https://phys.org/news/2020-10-landslide-tool-google-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-landslide-tool-google-ai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/buildingalan.jpg"
+        width: 730
+        height: 431
+        isCached: true
+  - title: "Google’s Lending DocAI service uses AI to fast-track mortgage applications"
+    excerpt: "Google LLC is jumping into the mortgage industry with the launch of a new artificial intelligence-driven cloud service aimed at helping lenders reduce the time it takes to process loan applications. Announced today,"
+    publishedDateTime: 2020-10-19T13:22:00Z
+    webUrl: "https://siliconangle.com/2020/10/19/googles-lending-docai-service-uses-machine-learning-fast-track-mortgage-applications/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/share.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Streamlit launches cloud service to help developers share open-source AI apps"
+    excerpt: "Streamlit Inc., an artificial intelligence startup backed by Google LLC, today launched a service called Streamlit Share that’s designed to make it easier for developers to share their machine learning applications with users."
+    publishedDateTime: 2020-10-15T15:34:00Z
+    webUrl: "https://siliconangle.com/2020/10/15/streamlit-launches-new-cloud-services-help-developers-build-ai-apps/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/streamlit.png"
+        width: 718
+        height: 400
+        isCached: true
 
 secured: "GILWLR9voPMfrcEJslNXzlERv9ysX6/d2RScZXrDm8cR/fIzL9yT+KVNVxnHZEJWLF+uE9SjFDaIsdwQLF7wbU6SG1kVvyumrUuHPbu3v6w1Wz3k1fkqyXXsDsKe3YkA5QICKDNOGFSrYj0jvhbSzTakJ4GK0stsVDz+/nzFPpoeq4zKvf59OrXYdpulx4mxN/mnsrcLh6Ikn6ewp6qUkMT3Kx816sctUu6SAMy4a/UFRbGGq0OiXUzNujfIO6m+a8YUf/r3vKhXiMk1jQpOeJxVH5SGL5k/AXgXuK7HFSLZ/9974gGg3P3+BN5lRBn3nkeDj0wA/0JypHufQa12WMkwbI1nzvXkxOjB8U4fhnmKuWpGVcsrNo+L9nza8BGiZAFiMEJihQyh37qxjP2yW+nOXUmm/pxWZ9lr+o0Ze7FA2L41Tci4cJxQg11on0rVPhhEvMJie3kP6YeQHqQq+UC7V/5gx/1QvaCB7GTch4emOva33avjJUSPj2NJs7ucNPA5xNbhyNSKMcDli1IAYQ==;YE0PNs3JHV9SKQNdWzJNzw=="
 ---

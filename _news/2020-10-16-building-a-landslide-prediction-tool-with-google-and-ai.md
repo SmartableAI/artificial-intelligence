@@ -26,21 +26,65 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s breast cancer-predicting AI research is useless without transparency, critics say"
-    excerpt: "Another study — a meta-analysis of over 3,000 AI papers — found that metrics ... a well-funded telemedicine startup that claims to be able to triage a range of diseases from text messages ..."
-    publishedDateTime: 2020-10-14T21:07:00Z
-    webUrl: "https://venturebeat.com/2020/10/14/googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say/"
-    ampWebUrl: "https://venturebeat.com/2020/10/14/googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say/amp/"
+  - title: "Google Cloud launches Lending DocAI to streamline mortgage applications with AI"
+    excerpt: "Lending DocAI, which is now in preview, is a specialized solution in Google’s Document AI portfolio that leverages a set of models focused on document types in mortgage lending. Google says it ..."
+    publishedDateTime: 2020-10-19T13:00:00Z
+    webUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 77
+    quality: 83
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "axle ai Brings AI-Powered Media Search to Adobe Creative Cloud Applications"
+    excerpt: "New integrations with Adobe applications for remote teams to debut at Adobe MAX online conference. Boston, MA, USA – October 16, 2020 – axle ai is excited"
+    publishedDateTime: 2020-10-17T01:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17946357/axle-ai-brings-ai-powered-media-search-to-adobe-creative-cloud-applications"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17946357"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17946357"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://www.getnews.info/wp-content/uploads/2020/10/1602865966.jpeg"
+        width: 468
+        height: 206
+        isCached: true
+  - title: "Google’s Lending DocAI service uses AI to fast-track mortgage applications"
+    excerpt: "Google LLC is jumping into the mortgage industry with the launch of a new artificial intelligence-driven cloud service aimed at helping lenders reduce the time it takes to process loan applications. Announced today,"
+    publishedDateTime: 2020-10-19T13:22:00Z
+    webUrl: "https://siliconangle.com/2020/10/19/googles-lending-docai-service-uses-machine-learning-fast-track-mortgage-applications/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/share.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Streamlit launches cloud service to help developers share open-source AI apps"
+    excerpt: "Streamlit Inc., an artificial intelligence startup backed by Google LLC, today launched a service called Streamlit Share that’s designed to make it easier for developers to share their machine learning applications with users."
+    publishedDateTime: 2020-10-15T15:34:00Z
+    webUrl: "https://siliconangle.com/2020/10/15/streamlit-launches-new-cloud-services-help-developers-build-ai-apps/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/streamlit.png"
+        width: 718
+        height: 400
         isCached: true
 
 secured: "0i9fqG/YJvhxjyPFgU/26gVBQ6boaB7SyNq5rR//2mOONOrN4NMDeZ1rFviTLHaBvCwuWHSz5TwKmN2rg5Q7NgQpmt4mEXDdMKXPkVunzZwWdGAsDoHRSC52f+i6q2lbYtg15tPQLXgvVS7GgsPnjlsgMjeHe6zu7KifP3Xjws51KB3QsSN+nBTggShWZzGsBkjycu10qtvfGGm0c8jmkSu89N+FgSejSQwsZQLCuOphHPNMCKlunZqiz0VZ5GINIU3IeZp3zagrFIrJCrs3HhS7pBwMqWLvP3QjVODdVEOZmhwHgdV3Z5Ux4/6E4H579gU4wKwQszEHP5dEw8Y1yNs0TZBa/JUYiUggasTN/q5LaybVJIxATGao4B1/7qII8YfePEw8D5er4gkNzVOg99m0NxCMirUP1TgCIyVwJ4oqHRcBTUDeNwJvuCGT8wbp5pI3dZ/t+QBpiXZ7S1dkEcOWnVmK5i/sw7I0s/kpUsyDkratXJQAduC9Z/IA/scEyTEX9M9sZJC0Vjg4zpiiQw==;j47/qUiNN6qcyMyAR4O6aw=="

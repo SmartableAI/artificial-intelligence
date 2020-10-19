@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/why-you-should-be-wary-of-polit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-you-should-be-wary-of-political-news-on-facebook-twitter/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: CNET
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook plans to use AI to help fight climate change"
-    excerpt: "The social network teams up with Carnegie Mellon University to find new ways to store and use renewable energy."
-    publishedDateTime: 2020-10-14T20:43:00Z
-    webUrl: "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
+  - title: "How Facebook and Twitter’s content moderation could shape the final weeks of the election"
+    excerpt: "Facebook and Twitter’s handling of the New York Post’s Biden-Burisma story is illustrating how tech platform’s content moderation decisions could shape the final weeks of the election cycle — and Republicans are accusing them of attempting to influence the results."
+    publishedDateTime: 2020-10-15T14:05:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/15/how-facebook-and-twitters-content-moderation-could-shape-the-final-weeks-of-the-election-790994"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: Politico
+      domain: politico.com
+    quality: 15
     images:
-      - url: "https://cnet2.cbsistatic.com/img/DLI_wPn6SSXK7hKxFajKVx567f0=/1200x630/2019/12/30/913bf7f7-7ec0-4894-bb35-3807a65e36bb/facebook-logo-phone-4597.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facebook and Carnegie Mellon team up for AI-led energy storage research"
-    excerpt: "Facebook and the Carnegie Mellon University Department of Chemical Engineering are partnering to research how AI can accelerate the discovery of energy storage solutions. The Open Catalyst Project aims to help solve the challenge of building a grid reliant ..."
-    publishedDateTime: 2020-10-15T16:49:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/facebook-and-carnegie-mellon-team-ai-led-energy-storage-research/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Wind_power_plants_in_Xinjiang_Chi.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "NCTklGcdj/sv7U6Z4hvLmSgRAMiVFGUtZuKxB9HiPWB5niJCcIfyKgvmu5hMjhfjKnnGY3a6z9PT4bUATApWwy+cf5r3JngOJ4A8/ayBHRAC52oFrOXVaxF9V0yA2Tnbf7qFbtg/PGUa1QFIsGB6YoNOdw24MpPespdvEUyCfpzMcizrt5ZY4YWkMUOmtSsLhWjpssP+JwBicHqTv841rTX4I0Fxf3fo9TC7q/xTIrF1npDhGhgmywTG1z9olLAXI+EZ89dEcQjsixW04quBX0ewLRdE0AIEJ6Gm1HuiBhgEeLZn5xZFvIvFcselnvONi/VPOcXR2sLHNaAtGi4Q0GQWyqvxm9ikLj16psELyWY=;vBBhXAl8S7jXyLLWO+eaGA=="

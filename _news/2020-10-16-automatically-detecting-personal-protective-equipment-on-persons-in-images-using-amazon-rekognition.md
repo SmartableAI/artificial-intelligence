@@ -58,20 +58,6 @@ related:
         width: 900
         height: 471
         isCached: true
-  - title: "Streamlining data labeling for YOLO object detection in Amazon SageMaker Ground Truth"
-    excerpt: "Object detection is a common task in computer vision (CV), and the YOLOv3 model is state-of-the-art in terms of accuracy and speed. In transfer learning, you obtain a model trained on a large but generic dataset and retrain the model on your custom dataset. One of the most time-consuming parts in transfer"
-    publishedDateTime: 2020-10-14T19:17:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/streamlining-data-labeling-for-yolo-object-detection-in-amazon-sagemaker-ground-truth/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/09/15-Pens-Pencils.jpg"
-        width: 400
-        height: 302
-        isCached: true
   - title: "VXG announces platform to receive automated analysis at scale, effectively making any camera a smart camera"
     excerpt: "For an example, one really has to look no further than Amazon Rekognition, which leverages Machine Learning (ML) to make it easy to identify things like objects, people, or text within videos and images. Outside of the technology industry, however ..."
     publishedDateTime: 2020-10-15T09:37:00Z

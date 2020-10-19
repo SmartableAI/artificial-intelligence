@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Deep learning model provides rapid detection of stroke-causing blockages"
-excerpt: "When they tested the deep learning model on multiphase CTA examinations of 62 patients, the model detected all 31 large vessel occlusions for a sensitivity of 100%, a statistically significant ..."
-publishedDateTime: 2020-09-29T14:03:00Z
-originalUrl: "https://medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.html"
-webUrl: "https://medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-deep-rapid-stroke-causing-blockages.amp"
+excerpt: "Deep learning model provides rapid detection of stroke-causing blockages Date: September 29, 2020 Source: Radiological Society of North America Summary: A sophisticated type of artificial ..."
+publishedDateTime: 2020-09-29T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/09/200929123557.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/09/200929123557.htm"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "/V6rnjdvel0kYCWgXrDCzijUa9DCmP8C/HjsOcbOnmAr7dzL6RObnLiVRWcibZVIRM0RLwdFGqzTdpjGG6C2sEu8ZrZ6GndWkTT42ErhtIZ5XkSGnouryKe7uA3T5Dibx6Jcrgf5S+F4/+C+Fj4TN4z7dlzmjKxtnToSdHN9PKrRwqYNzTR9qcKTwwrybHvHbDcN8JaHfH749xzKSLQLg+AMUP/HrKeonSZuW/0mpk52j3ojo/eFpJwVI2BTPuPCERBKUO0ObHHxbczAqS00V3MamdXd1ikxP9I9DwqPzryxVU5hRtWJV/h2BJRQTEAredrxUrSht5KTjKu885kNR2t4dC01vaCwXjcCCJqlOSI=;OvD8JoPruhNMj+AHt+YMAw=="
+secured: "OKIBeIouoBAA8eYlew8LE8CwsWRXaEJ267XP8SqXH2lOPoLOPtkiZcSVKxFqwJbVbCtR49fScWhkE4CpZN+V7RdyT+cSMgj4s6q//qUMWYcQb2WaCMC8LX55KzbmHAjiWQ1sYsiEApfTVNNRIg2viHyssNJ1HKj1K8JvXno2mC/kJI+wx3JC5NcgNfXU4RX8V56IW3zN7Y7MX/eeeMIQQN78y5791mTrUAUtABU++eg/hRxKWSczXdcCatg+fA6/bLdwTpiBmLRv7zjRGgV7+xBxP/+/pm+LUdyTlKhMpp/Zlje7DY8wNVeeNOq2XCKoGvWeUQ+W5yEFDnZePBaseEgxdB/DRSJl6I162pi9UnE=;ClFj8TDAuw6M6U1MYF5gVQ=="
 ---
 

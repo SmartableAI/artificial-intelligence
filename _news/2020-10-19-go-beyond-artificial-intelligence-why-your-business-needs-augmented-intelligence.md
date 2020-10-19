@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificia
 ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/amp/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8d63159b88f08f91ffea5b%2F0x0.jpg%3FcropX1%3D45%26cropX2%3D9480%26cropY1%3D0%26cropY2%3D5304"
@@ -30,6 +31,6 @@ images:
     height: 671
     isCached: true
 
-secured: "fxj0jUIfTgfDWHX7zNFcXmtht4Q0JzLR75Yc7hdYbtIeVXEGcS86+nWz/xqSrCcAevYmV3jB98EX1U3e5sBrTLogJqxMD9nKp6Rr5Mtb3muStlXSrpqC7V01BNWlh2ZvYwo8LF8DTATYPyzkVuAKPkzuLXl7S6IeLoomVQ9cxGfgdpYVhBPjcmmgjdza5C8JF7UFhvAApVFfnelfMxvTEEJRVnQ6SGEW2hnVsw/BI8HvryxMmaYZbWC0/E4rHRfFASAV9e3cMDLHWy/EaUHuFH4P3LeE46jlTB9zTY8NUuzS0zD3Z+9vlSoig6/lVradW++2Y2KqqLbV9Gqr2MfQOY2VmJiYfXvxIeW8Hsx7rKQ=;IjuyVrSbfwTy83CtLZ5mrw=="
+secured: "cbTkU11k3n/68I/yUSt8OMPkfIec2ZV3SozAwfNdJvocxJ/o0kHE1iZH5c569eNgvSgNdO3UNiD0G8y13FgyYE+KemHGwybRaK3nAzcJWTOJM5gQIWfmCrAWp+yQc8Rb7E0TsBl3wM3XBVR16AxtDBkqbXYdWmV0YOL7KRTX9yPCq1wgP6pPM3+VU7LNR1JAKy1HStReELw02Oarm0EV1Cy+drfEz1OdvBMR9pJeiZnfrTmJAy+GRXHzuSf5E3jqkR017exXbChoRf6uhw1LltOzzclTqjDVaprI5xvRQqcYGNQ6ELkVWDoGDzpUi8/IVY40qroXAUbacpM0Sm76IT3bo49dMASMnINOczTniKPWz/JS79Fs+bx/rvjTz4jVZ9fuR6LCN33h7jSxX4kppfx7NW3O2+Gn3bzTDZ4GkIKFkLVbaoBgPL7LF/voKWAZK853IU7oTUS7pSbI3asAPMGLu9gseR0En7Zb8wdoNbno7hLZkxvqRDjIup5Pj71VFO4mGEYdV+zYdbvtb550vw==;ZiwND1R3qkYQtSdTYEEXQA=="
 ---
 
