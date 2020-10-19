@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Roche, aiming to make better gene therapies, turns to an emerging startup"
-    excerpt: "The Swiss pharma is the third large drugmaker to partner with Harvard spinout Dyno Therapeutics, a small biotech aiming to improve gene therapy technology."
-    publishedDateTime: 2020-10-14T15:03:00Z
-    webUrl: "https://www.biopharmadive.com/news/roche-dyno-gene-therapy-deal/586993/"
-    type: article
-    provider:
-      name: BioPharma Dive
-      domain: biopharmadive.com
-    quality: 38
-    images:
-      - url: "https://www.biopharmadive.com/user_media/cache/5d/7c/5d7cb9b442f6969f3b73b5d122100ebb.jpg"
-        width: 770
-        height: 364
-        isCached: true
   - title: "Dyno sparks a $1.8B deal with Roche to develop CNS therapies"
     excerpt: "Privately held Dyno Therapeutics Inc., an early stage biotech company applying artificial intelligence to gene therapy, entered a collaboration and license agreement with Spark Therapeutics Inc. that could bring Dyno milestone payments exceeding $1."
     publishedDateTime: 2020-10-14T23:14:00Z

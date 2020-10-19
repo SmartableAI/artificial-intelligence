@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-05-pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown.md",
+      "title": "Pediatric Diabetes, COVID-19 and Artificial Intelligence: IBM Watson supports families during pandemic shutdown",
+      "excerpt": "IBM Canada ProBono volunteer program delivers a virtual agent using Watson Assistant for Quebec's Diabetic Children Foundation",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown/article_87f23caf-5fca-5776-864e-ff75449d37b9.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown/article_87f23caf-5fca-5776-864e-ff75449d37b9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/15/7152379e-0499-588a-a243-564e01ec897c/5f7af61ad3d78.image.jpg?resize=400%2C330",
+          "width": 400,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight.md",
+      "title": "Deliver AI-powered application search with Azure Cognitive Search and BA Insight",
+      "excerpt": "Data is growing exponentially, and over 80 percent of data is unstructured, creating a challenge for organizations to find and surface the right information to their customers. What organizations need is a solution that enables them to uncover latent insights from all their content by quickly identifying",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/",
+      "originalUrl": "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3825d129-7b61-4af7-9e9e-6ea06c242b9c.png",
+          "width": 1024,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T01:30:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-get-a-hit-of-west-african-skate-footage-with-the-green-cape-action-remix.md",
       "title": "Get a hit of West African skate footage with The Green Cape Action Remix",
       "excerpt": "Yann Horowitz and Barney Page met the skaters of Senegal and Cape Verde last year – watch Patrik Wallner’s redux edit of every stomper!",
@@ -1067,100 +1162,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-make-every-voice-heard-with-natural-language-processing.md",
-      "title": "Make every voice heard with natural language processing",
-      "excerpt": "With natural language processing a machine can quickly and tirelessly sift through constantly growing volumes of data to identify key ideas and topics, uncover emerging trends, analyze sentiment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/208955/make-every-voice-heard-with-natural-language-processing",
-      "originalUrl": "https://www.computerworld.com/resources/208955/make-every-voice-heard-with-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-parkland-parents-create-artificial-intelligence-video-of-slain-son-to-spur-voters.md",
-      "title": "Parkland parents create artificial intelligence video of slain son to spur voters",
-      "excerpt": "Wearing his signature hoodie and beanie, an earbud casually hanging from one ear, passionate Parkland teen Joaquin Oliver urges his peers to vote for lawmakers who will end gun violence in a new video released Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
-      "originalUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92a015b7-e5da-4532-a5e3-7990a14b4476/e83f5a0d-f2ad-49fe-81f0-6d88b306a6ed/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/parkland-ai-video-son-voters.amp",
-      "publishedDateTime": "2020-10-02T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -27,7 +27,7 @@ related:
     provider:
       name: The Bakersfield Californian
       domain: bakersfield.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
         width: 1200

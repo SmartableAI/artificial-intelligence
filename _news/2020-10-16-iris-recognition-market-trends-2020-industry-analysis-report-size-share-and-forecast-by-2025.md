@@ -107,20 +107,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Artificial Intelligence Market by Technology, Hardware, End-user Industry, and Region - Global Forecast to 2026 - ResearchAndMarkets.com"
-    excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-10-14T14:24:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-malware-industrial-technology-9e6b83acdad64ac4a73f34ac0d7689c1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Ev0AJmX0+9RnauEC2vB5EzUm9WSD96c2QbIj0U3WITRFIoj/x7wTnnpfgpfsYXm0gk0+XjBWu1F+CH+pc4SLE3n/b4uaoKMBgUPVpGMyBjNvdkPpAMnegdZBp7xmlDgJS82q5dubYix6llsMR34wP6guVNtE94t6Oaz8vKJxsWF9e3EvqIln5heWa3Q06qefPG+/lsi39TWK+5CT9wge9Y9Ol2cCEYncRBFbN4w05zLGcY0er8iFvpynTE8BZGS+z3iXssxCETh0D9LeUTQJFpPf3Irhl1yfLUzlLGCAK9+PJtmfHhwdBDld7UUZWiqHMEcyksf2dFSyCUqTfdWJcqrHxqPrqFTW2FV4NNuCOEs=;DzpcNHVnDuw67MLM4ub2Rw=="
 ---

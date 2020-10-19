@@ -25,31 +25,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "Synopsys and SiMa.ai Collaborate to Bring Machine Learning Inference at Scale to the Embedded Edge"
-    excerpt: "PRNewswire/ -- Synopsys, Inc. (Nasdaq: SNPS) today announced its collaboration with SiMa.ai to bring its machine learning inference at scale to the"
-    publishedDateTime: 2020-10-14T13:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/synopsys-and-simaai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded-edge-301152178.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Synopsys and SiMa.ai collaborate for machine learning inference"
-    excerpt: "Synopsys (SNPS -0.3%) collaborated with SiMa.ai to bring its machine learning inference at scale to the embedded edge across diverse industries.Through this engagement, SiMa.ai has adopted key products from Synopsys for the development of their MLSoC,"
-    publishedDateTime: 2020-10-14T13:29:00Z
-    webUrl: "https://seekingalpha.com/news/3622084-synopsys-and-sima-ai-collaborate-for-machine-learning-inference"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
-
 secured: "4fOKNlYhOSXCsA/PXm8CNinr+kHaT7UQRSAhe7F/682zuesCqundTLyhHRMjoBJTrxLrDshiDZjZq1BuP/atBZtZoaUOjw1UCQQmHkBtpvCZO1wGQ/OaRY1XGWNq3XVet6dKt2nPeClroqho/v6ROJ+Mr7E81GXP4/zoKmYCMhMkyf3Eq9wzzqEGRtcUyxNVs+4GZaTjXl33+G+j9MSW07y8QsfbRpX5QIrUMS6JK2PaGmV1YDpe7H3t7+Gk3l+BQwW7sRyyGXACx+UYsUczFjSaKLn09tC/f8m80bSXbzLRw8WC9IvYnHR9oz1NEYiIFWsogteRMc2onbosMn+rsUbzqWW9IwlTssUyfKWpRVU=;utHAMVYJy5REgCrVqqmUCQ=="
 ---
 

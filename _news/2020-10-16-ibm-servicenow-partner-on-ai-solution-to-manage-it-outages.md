@@ -129,17 +129,17 @@ related:
     quality: 43
   - title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
     excerpt: "IBM. \"By partnering with ServiceNow and their market leading Now Platform, clients will be able to use AI to quickly mitigate unforeseen IT incident costs. Watson AIOps with ServiceNow's Now ..."
-    publishedDateTime: 2020-10-15T18:32:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20201015ny59281/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk"
+    publishedDateTime: 2020-10-16T01:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
 
 secured: "vv+HqQ2FVRBVjlOF3XduxX3YvkAjwxLSzGVZSWoUeFw9Av0lLIgijga3qQykzu6mrLzDywIl6754Y+gcoZ4H4MJhwWT2gXDN+LZbR4AhZAK3ekINnYtZbkFx1o2NiIZIr2DJoWH11k2c6B7hhcCkMaDAX7vmGbuJLkEjzVdW1oHKIJMUzceYw532si+1b41LcDB+sXQUYyGuFFUgisRkvO4JumsfJslGjYdGWCg/bPUKzxhVEatMa8TXMgg/G8koGx6T+TEueFGm+mFyCuEKOeptZz/y4z7EoCDyhweONFyCYf+8ptpxfuTYa717WWRb9Ipu0C4J3/JgGYsRsB5DP0CFiZBb04w3NhaxVwZo9+8=;82s3/TuNjIeIZaLkpdPwJQ=="

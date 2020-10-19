@@ -7,7 +7,7 @@ originalUrl: "https://www.bioworld.com/articles/498961-dyno-sparks-a-18b-deal-wi
 webUrl: "https://www.bioworld.com/articles/498961-dyno-sparks-a-18b-deal-with-roche-to-develop-cns-therapies"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Roche, aiming to make better gene therapies, turns to an emerging startup"
-    excerpt: "The Swiss pharma is the third large drugmaker to partner with Harvard spinout Dyno Therapeutics, a small biotech aiming to improve gene therapy technology."
-    publishedDateTime: 2020-10-14T15:03:00Z
-    webUrl: "https://www.biopharmadive.com/news/roche-dyno-gene-therapy-deal/586993/"
-    type: article
-    provider:
-      name: BioPharma Dive
-      domain: biopharmadive.com
-    quality: 38
-    images:
-      - url: "https://www.biopharmadive.com/user_media/cache/5d/7c/5d7cb9b442f6969f3b73b5d122100ebb.jpg"
-        width: 770
-        height: 364
-        isCached: true
   - title: "Dyno Therapeutics Enters Collaboration and License Agreement With Roche to Develop Next-Generation AAV Gene Therapy Vectors for CNS Diseases and Liver-Directed Therapies"
     excerpt: "Dyno Tx Enters Collaboration and License Agreement with Roche to Develop Next-Gen AAV Gene Therapy Vectors for CNS Diseases, Liver-Directed Therapies"
     publishedDateTime: 2020-10-15T03:05:00Z

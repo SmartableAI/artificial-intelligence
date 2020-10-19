@@ -22,22 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Alation Named a Leader in Machine Learning Data Catalogs Report by Independent Global Research Firm"
-    excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, has been named a Leader in the “ The Forrester Wave™: Machine Learning Data Catalogs, Q4 2020 ” report. Alation received the highest score among all vendors in the strategy category and in the machine learning criterion,"
-    publishedDateTime: 2020-10-14T13:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-sapphire-computing-and-information-technology-data-management-f0e6aa3249c444d28267f7d07fa6f41c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "C1BB/WPyjZ6R+BkTRXFwdBKfJX6/TN9hcdwZ8riGKIkoo0hSbFUAeiSDVWePUnEWHvey+9U3kevd8Z0DBv7PCjhL/svhH4Y7h09T0/yMOH371EGSo5awAC+pgNOhGSCzGVGs38f4cqI6B74tJbcZ28lHVh5HCBXgqllcto0JtgPFB9vCTdLgMa0LraBoQ6429VaNiRiKhLKSNIHzjs1qQMVHzWG1OM56KssTskGDbZ/xsszb5w8yV1x9k5B/oqamBWlc5W7CzzJkmYAbD5U9uGUJypNvalm6sM3sFDsDMqPNqOyEZZOTcrnu8b/82KlEnECpO+YDEPp9IKsMwSTIg20as/oXYQLDDhSA6eQ8mCA=;iYbDevOQXDcKSZojbyFXUA=="
 ---
 

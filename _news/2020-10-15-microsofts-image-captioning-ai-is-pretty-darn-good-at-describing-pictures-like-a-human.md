@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
-    excerpt: "In early 2017, Microsoft updated Office 365 apps like Word and PowerPoint with automatic image captioning, drawing on Cognitive Services Computer Vision. (Cognitive Services is a cloud-based suite ..."
-    publishedDateTime: 2020-10-14T15:02:00Z
-    webUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/"
-    ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 125
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 573
-        isCached: true
-  - title: "What’s that? Microsoft’s latest breakthrough, now in Azure AI, describes images as well as people do"
-    excerpt: "The post What’s that? Microsoft’s latest breakthrough, now in Azure AI, describes images as well as people do appeared first on The AI Blog.\n"
-    publishedDateTime: 2020-10-14T14:59:46Z
-    webUrl: "https://blogs.microsoft.com/ai/azure-image-captioning/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/sb10068701p-001_1200x630-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Microsoft says its AI can describe images 'as well as people do'"
     excerpt: "In 2016, Google said its artificial intelligence could caption images almost as well as humans, with 94 percent accuracy. Now Microsoft says it’s gone even further: Its researchers have built an AI system that’s even more accurate than humans — so much so that it now sits at the top of the leaderboard for the nocaps image captioning benchmark ."
     publishedDateTime: 2020-10-15T15:34:00Z
@@ -92,22 +62,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2018/07/1531417203_microsoftai_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Microsoft’s new image-captioning AI will help accessibility in Word, Outlook, and beyond"
-    excerpt: "Microsoft does not disclose user numbers for Seeing AI, but Eric Boyd, corporate vice president of Azure AI, told The Verge the software is “one of the leading apps for people who are blind or have low vision.” Seeing AI has been voted best app or best ..."
-    publishedDateTime: 2020-10-14T15:03:00Z
-    webUrl: "https://www.theverge.com/2020/10/14/21514405/image-captioning-seeing-ai-microsoft-algorithm-word-powerpoint-outlook"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/14/21514405/image-captioning-seeing-ai-microsoft-algorithm-word-powerpoint-outlook"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/14/21514405/image-captioning-seeing-ai-microsoft-algorithm-word-powerpoint-outlook"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 95
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/YnhU1HLrhZhr5au0U7NOXnGX9Cg=/0x0:1536x1024/1400x933/filters:focal(646x390:890x634):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67630053/Netherlands_Florian_Beijers_792A5956_1536x1024.0.jpg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "Microsoft Azure Cognitive Services AI System Can Describe Images as Accurately as Humans"
     excerpt: "Microsoft has revealed a new AI model through Azure Cognitive Services, delivering a breakthrough in image description accuracy."
@@ -200,20 +154,6 @@ related:
       - url: "https://petapixel.com/assets/uploads/2020/10/greycat.jpg"
         width: 1600
         height: 840
-        isCached: true
-  - title: "Microsoft Word, Outlook, and PowerPoint To Get AI-Powered Auto Image Captioning Tool Trained On Large Datasets After Azure Services"
-    excerpt: "Microsoft has confirmed that it has developed a powerful and smart image captioning system. The AI-powered system can quickly and autonomously generate"
-    publishedDateTime: 2020-10-15T06:39:00Z
-    webUrl: "https://appuals.com/microsoft-word-outlook-and-powerpoint-to-get-ai-powered-auto-image-captioning-tool-trained-on-large-datasets-after-azure-services/"
-    type: article
-    provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 39
-    images:
-      - url: "https://cdn.appuals.com/wp-content/uploads/2018/08/2-CitrixGuru.png"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft Word, Outlook, and PowerPoint to get state-of-the-art image captioning technology"
     excerpt: "Microsoft announced today that it has developed a new image captioning system that can generate captions for images automatically."

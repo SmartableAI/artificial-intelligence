@@ -2,6 +2,93 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-09-study-explores-the-use-of-robots-ai-to-ease-covid-19-pressures-on-hospitals.md",
+      "title": "Study Explores the Use of Robots, AI to Ease COVID-19 Pressures on Hospitals",
+      "excerpt": "Hospitals across the globe could raise their productivity and efficiency as well as increase safety and quality while limiting and decreasing charges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11686",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=11686",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.azorobotics.com/images/news/ImageForNews_11686_16022476570691643.png",
+          "width": 950,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11686",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686",
+      "publishedDateTime": "2020-10-09T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-torc-robotics-to-scale-self-driving-fleet-with-daimler-test-trucks.md",
+      "title": "Torc Robotics to scale self-driving fleet with Daimler test trucks",
+      "excerpt": "Torc Robotics announced that it will scale its self-driving truck testing in the southwest in early 2021 using an enhanced prototype truck developed with Daimler Trucks North America (DTNA).AdvertisementClick Here to Read MoreAdvertisement This new generation of Freightliner Cascadia test trucks bolsters Torc’s capability to develop and test its Level 4 self-driving technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetequipmentmag.com/torc-robotics-scale-self-driving-fleet-daimler-trucks/",
+      "originalUrl": "https://www.fleetequipmentmag.com/torc-robotics-scale-self-driving-fleet-daimler-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s18391.pcdn.co/wp-content/uploads/2020/10/Torc-Daimler.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Equipment Magazine",
+        "domain": "fleetequipmentmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-modelops-is-just-the-beginning-of-enterprise-ai.md",
       "title": "ModelOps Is Just The Beginning Of Enterprise AI",
       "excerpt": "Most of this year, enterprises have been reviewing the lessons learned in the past few years from their Enterprise AI initiatives; i.e. what has worked, what hasn’t, and how to move forward to modernize their infrastructures and take full advantage of AI.",
@@ -1085,109 +1172,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-these-ai-generated-resumes-will-make-your-job-search-even-more-painful.md",
-      "title": "These AI-generated resumes will make your job search even more painful",
-      "excerpt": "The result is Almost Real Resume, a website that spits out an endless stream of fake career highlights for tech job candidates. It gives you a new name, contact details, personal statement, work experience,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-08T162316.764-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/amp/",
-      "publishedDateTime": "2020-10-08T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-from-the-data-and-ai-expert-labs-start-with-outcomes.md",
-      "title": "From the Data and AI Expert Labs: Start with outcomes",
-      "excerpt": "IBM’s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization’s unique needs. In From the Data and AI Expert Labs, I’ll take the expert learnings",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V1.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T09:09:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

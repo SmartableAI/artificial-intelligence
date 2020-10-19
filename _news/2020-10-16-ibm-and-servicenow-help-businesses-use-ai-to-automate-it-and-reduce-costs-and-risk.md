@@ -2,26 +2,26 @@
 category: news
 title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
 excerpt: "IBM. \"By partnering with ServiceNow and their market leading Now Platform, clients will be able to use AI to quickly mitigate unforeseen IT incident costs. Watson AIOps with ServiceNow's Now ..."
-publishedDateTime: 2020-10-15T18:32:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20201015ny59281/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20201015ny59281/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk"
+publishedDateTime: 2020-10-16T01:25:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
 related:
@@ -143,6 +143,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "jhIAQt6kMh0rVxxmFI6gN17k4LXy2DxvMkpE4r/fBjvin00k/ujbqGIL9gj+qhfE6IFF3zMGoB4W8FsBkwhXlWoJRkL1Ch/Vs2ZJhp7ju8/oKWLrwv4E3bhT69jrX0I3XaN+RNNMDOnOoB8nyovjhSi6pWBeupjGBQL1YapnoYUx0/jUKx4uLOd++YO+YzVLIBWKQyT1aTIO8XMU1Tlw2CmRfmqRGxxh+AMlHWcVWr4geu/ayYB/RVhECX8BvZ+cC3o0uAgQr9hfx6nLvJxxM+8SulZ/qFe0ULCUEaKFIRkeyct1BhTWZs5g6IV1UqZXRU5GjRwLSK39vwyH+Np3A41GCV7iGLzKBeGtOqQ5o3o=;4OPJA5mImneeR7m2YqPsVg=="
+secured: "QSrJVhG0jlnh3xQ4PN+rj5w6wqN76TwSEmdprrrdKocdRzo2KiSqu80nCt9AorJCoGuBv3kjosH4jWhFlisZ5L8/E+h6WMkusJ7qNB/bEoZTaM5nYokrO6hiPAGIfgX/FXtPf9/myoYrwcPmPi/Rm6gxJPYyVzQwhUxZmKnc/LIvUL+UZiw/3Rz7p5J5rXO8faRQ2hu/n/eooFAeN69B8OnzHH4dIJlpvcRYakcIbXVn0AY5YyK0MXPRXWeBkqVwIQOxA3ay6sUjUKPVGpD1xLo3q1YW1d9ovXb7U+XzvtapXICc7ut+X9SjjkM7gBd/uYEseTj8Rt8Su6MtBSfV53umPliRDwTsGPjb9xkZsSk=;gNFxB+FM9RRC0slvQVvSog=="
 ---
 
