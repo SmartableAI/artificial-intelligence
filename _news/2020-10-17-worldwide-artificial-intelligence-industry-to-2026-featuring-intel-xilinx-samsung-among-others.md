@@ -1,38 +1,29 @@
 ---
 category: news
 title: "Worldwide Artificial Intelligence Industry to 2026 - Featuring Intel, Xilinx & Samsung Among Others"
-excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
-publishedDateTime: 2020-10-16T22:04:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/worldwide-artificial-intelligence-industry-to-2026-featuring-intel-xilinx-samsung-among-others-1029689939"
-webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-artificial-intelligence-industry-to-2026-featuring-intel-xilinx-samsung-among-others-1029689939"
+excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and"
+publishedDateTime: 2020-10-16T21:45:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-artificial-intelligence-industry-to-2026---featuring-intel-xilinx-samsung-among-others/article_786cf144-870e-58d4-96cd-3f6b9ab0bd72.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-artificial-intelligence-industry-to-2026---featuring-intel-xilinx-samsung-among-others/article_786cf144-870e-58d4-96cd-3f6b9ab0bd72.html"
 type: article
-quality: 35
-heat: -1
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Worldwide Robotic Lawn Mower Industry to 2025 - John Deere, Robert Bosch & Echo Robotics Among Others"
-    excerpt: "Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The Robotic Lawn Mower Market anticipated to register a CAGR of about 12%, during the forecast period (2020 - 2025)."
-    publishedDateTime: 2020-10-16T11:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-robotic-lawn-mower-industry-to-2025-john-deere-robert-bosch-echo-robotics-among-others-1029687946"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
-secured: "hDuB4jJAvzKohX/NfUyFte/R6pRNeB6SwNMIu5MxQOFb1bY51ibzuohnAiVamkK4NzOdR+G0J7gX+97y+wHtI4mNtl6Ey6Oe36GPe6hOEG0hvTeVZQdi3UElTov+LT22Vqn4enBJgP3byDqKkRlkHsvY+tIwVw1Wyv3DKarfUzuC6gu2dK3pn1xs2E+kaiSkkYeUxclICHbIcC+RpWlqDnG6htMo/iDhUTqetHRQo7fqM+E7Lt2/Qnj1AgdnrfgOE1StzV9jpHNXFSTO/5ylTDovrM3xcVBcDTtBVm+joALkg1W2Ftzdw2k/PZOaywuKgJCzBL9UaaMmfMwJPjRQ/Btu+anuQFHEaY3Zxgwmyyw=;FzQlClkaX8Z9M9GY8ISFyg=="
+secured: "/genxydSqnbzNWkaUqFr2WiAptUkBmsGULqRZEk14eQbWs65SeIEDSGkzvE+VDCmTptmZCtq4PdBXLWJHZqpeU0sIBFgwVO6Ofx++oFGu30EdJ/+uMSOiF8Hn2iu+Uokn6ztpwxp3XyOqFLIyiTk8J/nrEgCDx7Kqif2SD3JA+AYASxxOQ7CrdBC3e3mocSTv3ISiaQ84Cc3BqPl5qU4ruvjntqafgxB1KcvwnN9vlmpm5LGYsOqFBI7gUBJb6iGQON+ssVktIuGj0oOMHXezLsPVRLry9PglVaoiLHXXE+R3e4R14SvCk9uv6Q73zY46O1Kq70+q58Y0fCJxauBbqTwo05duS7+vO4Rhh3v3Uk=;tG5B9PuXJHok1A2SaVb7VA=="
 ---
 

@@ -137,20 +137,6 @@ related:
         width: 520
         height: 326
         isCached: true
-  - title: "Microsoft’s New Image Captioning AI is More Accurate than Humans"
-    excerpt: "AI researchers at Microsoft reached a major milestone this week: they managed to create a new \"artificial intelligence system\" that is, in many cases,"
-    publishedDateTime: 2020-10-14T16:41:00Z
-    webUrl: "https://petapixel.com/2020/10/14/microsofts-ai-is-now-better-at-creating-photo-captions-than-a-human/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 54
-    images:
-      - url: "https://petapixel.com/assets/uploads/2020/10/greycat.jpg"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "Microsoft Word, Outlook, and PowerPoint to get state-of-the-art image captioning technology"
     excerpt: "Microsoft announced today that it has developed a new image captioning system that can generate captions for images automatically."
     publishedDateTime: 2020-10-14T18:04:00Z

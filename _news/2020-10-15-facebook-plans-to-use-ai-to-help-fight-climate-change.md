@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-hel
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/gKDij_RxAohDBdghYbl6qEL54B8=/1200x630/2020/07/25/a5b66fe1-db1a-4c66-85c6-5fb905e14a7c/twitter-facebook-logo-phone-united-states-flag-4542.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facebook to Explore Using AI to Help Store Renewable Energy"
-    excerpt: "Facebook, partnering with Carnegie Mellon University, launched the Open Catalyst Project to find cost-effective ways to store and use renewable energy."
-    publishedDateTime: 2020-10-14T17:01:00Z
-    webUrl: "https://www.thestreet.com/investing/facebook-to-use-ai-to-help-store-renewable-energy"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/facebook-to-use-ai-to-help-store-renewable-energy"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/facebook-to-use-ai-to-help-store-renewable-energy"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://content.jwplatform.com/thumbs/QMhGwMSn-720.jpg"
-        width: 720
-        height: 406
         isCached: true
   - title: "Facebook and Carnegie Mellon team up for AI-led energy storage research"
     excerpt: "Facebook and the Carnegie Mellon University Department of Chemical Engineering are partnering to research how AI can accelerate the discovery of energy storage solutions. The Open Catalyst Project aims to help solve the challenge of building a grid reliant ..."

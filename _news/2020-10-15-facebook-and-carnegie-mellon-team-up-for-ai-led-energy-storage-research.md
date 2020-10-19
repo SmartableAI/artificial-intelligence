@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook to Explore Using AI to Help Store Renewable Energy"
-    excerpt: "Facebook, partnering with Carnegie Mellon University, launched the Open Catalyst Project to find cost-effective ways to store and use renewable energy."
-    publishedDateTime: 2020-10-14T17:01:00Z
-    webUrl: "https://www.thestreet.com/investing/facebook-to-use-ai-to-help-store-renewable-energy"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/facebook-to-use-ai-to-help-store-renewable-energy"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/facebook-to-use-ai-to-help-store-renewable-energy"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://content.jwplatform.com/thumbs/QMhGwMSn-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
 
 secured: "Uun1X5HKlB+Y5gaiM1Yh8UkRDXQp+iHfQsZ9NxlKGoUfi80HPH2SvJf0wxOmQWt4hrs8QF7p14elNUBCbDjkeG9AIPhIB1+kWx7fZnPe9euODcSah64KVoBKwnBdiybJLLbASMjfAHI9tZyswJ6xsO+pwlqyvTuz06gNvsgHnbKhiEW+Dh5jqCePIfVvkfmpLFv06NtKSzbYrfaer+D5fMZppc9/QbG19GZ7CSP+V+A64jjhPNprRbVYUpLxhslPNUF4q0jXhH0pw4H3njCoggsJCdLnw3Ys5hEkyu+4w2nXNl6G3Z7SdCl8ZSwRJwBafddge8zkFedGqeyT1VBrvBwYVitHeVc/vSAFeL5zYF2ak89p/C0a8j0KGC35OTmYqmPTh0SoMhEWVA4g4Zx2LRHhdCeo2/vouK0LChWPVRrD3yGMjncuV3xmsEXWe9uYhfMqVoEzYZPzokL2HRd3hFnpLCF87jpO2t11J/m7dQn/LzkCmTkeGjZ/BE9EgqPIjDibV54ullZsGOoCCiLa9Q==;scJL4OX0O1oFIAprwLRi5Q=="
 ---
