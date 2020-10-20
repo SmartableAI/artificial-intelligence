@@ -9,7 +9,7 @@ ampWebUrl: "https://retailtouchpoints.com/features/executive-viewpoints/how-to-c
 cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Banking Industry embraces digital transformation using AI and ML"
-    excerpt: "The application of artificial intelligence and machine learning will offer predictive analysis to banks and fintech companies to deliver fast, secure, and personalised banking experience to its customers."
-    publishedDateTime: 2020-10-15T12:14:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-machine-learning-redefining-banking-industry/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 71
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-14.jpg"
-        width: 1680
-        height: 840
-        isCached: true
   - title: "BSc in Artificial Intelligence and Computer Science"
     excerpt: "The University of Sheffield, UK is inviting applications for Artificial Intelligence and Computer Science BSc course starting in September 2021."
     publishedDateTime: 2020-10-19T13:01:00Z

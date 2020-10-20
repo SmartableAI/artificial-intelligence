@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Cambridge Technology Attains AWS Well-Architected Partner Status"
-excerpt: "Cambridge Technology Inc, a global business & technology services company, proudly announced that it has achieved the AWS Well-Architected Partner status, recognizing that it has the expertise to deliver Well-Architected reviews for existing application workloads or new applications based on AWS' best practices and guidelines."
-publishedDateTime: 2020-10-15T21:58:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508"
-webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508"
+excerpt: "Cambridge Technology Inc, a global business & technology services company, proudly announced that it has achieved the AWS Well-Architected Partner status, recognizing that it"
+publishedDateTime: 2020-10-15T21:36:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-technology-attains-aws-well-architected-partner-status/article_b752153b-13ff-5dc5-8e3d-2ade530b22ab.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-technology-attains-aws-well-architected-partner-status/article_b752153b-13ff-5dc5-8e3d-2ade530b22ab.html"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/b4/4b414b6f-ab7d-515f-8cdc-57b31e971160/5f88c7e59e6f7.image.jpg?resize=400%2C209"
     width: 400
     height: 209
     isCached: true
 
-secured: "h0d1MGtmkyPgnr6sOVfsYYzzFniWz5IhuKvc0uYIi0mRbXHazOp+aUULu+xybsvX3ZEXcV3kziZiaFgAxIdgO7Qas0bFK82uUZWXIgr4Ge9urs3IS626nMjHuWK7vRegV1dzczT22tYF23S9SJh1TRjKPxn5nFcPQS450AbkH6o9Ql4OgquixKkVYin/rmMe5c+i3z6zFUoUzqjDGHuctCm0BtI6shZguWZXlkDoBNz+HOareDZTgDwFMJH7IEdYIH1eIspXowLm5f+W7Xy/WTxtSSv5ixe/V8yPb1cA/0cSfIRnHMdx2pVbIKmf7fkxHJCaC1mZOr2Pe4lYGnpa6AChJuNSW+DE+ASzbMnffmM=;8jO7jNKUeqqOH+ImVAJK7Q=="
+secured: "hS8c3QqNzG1m35vTm8RAGiClieBVxhMXeRFeX+/PE7/bTGh9qQWTXn7bdWi5CuV9+k/6scFQBdXp5HqmjM0QTLmOC1zdTYdLZGHNjFrvI1sal48MFcYUQtZWnKfwRnm8qyh2oqfLAX81NRxuiLdH4YCiZx/yAz8aOE/unhOpLFKKVJn5r+D4XwFuiUdQn2V7s2Zv1uhVStVlUjOCEHu0E6Nxc+mmH/oqgRvgyidQZSK0tTh7sK63RZkpxlX3s+TwuIgcmLbLQD3VQuJkVam9kZs7tCpSTcEHkTqkQbZnkaNVJBA8ypABY08RPoBP6udn5Od6RTH4RHNVhHHHP6XCEIHrNomdmf2Wo12hVGOkLh0=;11CNm2TP3n3ZPgbFS4m/QQ=="
 ---
 

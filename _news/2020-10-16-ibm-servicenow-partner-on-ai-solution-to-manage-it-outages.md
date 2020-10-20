@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ServiceNow, IBM to integrate Watson AIOps, IT service management"
-    excerpt: "Under this partnership, the two companies will initially launch software that will use ServiceNow's IT Service Management historical incident data to train Watson AIOps algorithms"
-    publishedDateTime: 2020-10-15T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-ibm-to-integrate-watson-aiops-it-service-management/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "IBM, ServiceNow Deepen Partnership"
     excerpt: "International Business Machines (NYSE:IBM) and ServiceNow (NYSE:NOW) today announced that they will take their partnership to a new level. IBM, which recently announced a spinoff of a legacy business to focus more on the cloud,"
     publishedDateTime: 2020-10-15T17:57:00Z
@@ -61,20 +50,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595256%2Fgettyimages-1206796363.jpg&w=1200&op=resize"
         width: 1200
         height: 638
-        isCached: true
-  - title: "IBM, ServiceNow Partner on AI Effort Aimed at Identifying IT Anomalies"
-    excerpt: "The new offering will combine ServiceNow’s IT Service Management and IT Operations Management systems with IBM’s recently introduced Watson AIOps."
-    publishedDateTime: 2020-10-15T12:43:00Z
-    webUrl: "https://www.wsj.com/articles/ibm-servicenow-partner-on-ai-effort-aimed-at-identifying-it-anomalies-11602763201"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-245239/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "IBM, ServiceNow Partner on AI Effort Aimed at Identifying IT Anomalies"
     excerpt: "The new offering will combine ServiceNow’s IT Service Management and IT Operations Management systems with IBM’s recently introduced Watson AIOps."
@@ -103,20 +78,6 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1602872906/itpro/ibm_logo.jpg"
         width: 2700
         height: 1411
-        isCached: true
-  - title: "IBM Watson brings AIOps to ServiceNow"
-    excerpt: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk combining Watson AIOps with ServiceNow’s ITSM and ITOM"
-    publishedDateTime: 2020-10-15T13:01:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2020/10/15/ibm-watson-brings-aiops-to-servicenow/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/10/digitization-AIOPS.jpg"
-        width: 728
-        height: 410
         isCached: true
   - title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
     excerpt: "ARMONK, N.Y. and SANTA CLARA, Calif., Oct. 15, 2020/ PRNewswire/-- IBM and ServiceNow today announced an expansion to their strategic partnership designed to help companies reduce operational risk and lower costs by applying AI to automate IT operations."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-human
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
 type: article
 quality: 104
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s image-captioning AI is pretty darn good at describing pictures like a human"
-    excerpt: "Microsoft has built a new AI image-captioning system that described photos more accurately than humans in limited tests."
-    publishedDateTime: 2020-10-15T12:22:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/15/microsofts-image-captioning-ai-is-pretty-darn-good-at-describing-pictures-like-a-human/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/15/microsofts-image-captioning-ai-is-pretty-darn-good-at-describing-pictures-like-a-human/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/15/microsofts-image-captioning-ai-is-pretty-darn-good-at-describing-pictures-like-a-human/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 96
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-15T114509.811-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Microsoft Azure Cognitive Services AI System Can Describe Images as Accurately as Humans"
     excerpt: "Microsoft has revealed a new AI model through Azure Cognitive Services, delivering a breakthrough in image description accuracy."
     publishedDateTime: 2020-10-15T14:42:00Z
@@ -60,22 +44,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/10/Microsoft-Cognitive-Toolkit-Screenshot-YouTube.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft says its AI captions images as accurately as humans do"
-    excerpt: "“Image captioning is one of the core computer vision capabilities that can enable a broad range of services,” Xuedong Huang, Microsoft’s CTO, Azure AI Cognitive Services, said in a statement. It is available in Seeing AI, a Microsoft app for blind ..."
-    publishedDateTime: 2020-10-15T12:17:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-says-its-ai-captions-images-as-accurately-as-humans-do/article32862502.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-says-its-ai-captions-images-as-accurately-as-humans-do/article32862502.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-says-its-ai-captions-images-as-accurately-as-humans-do/article32862502.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/tulh8a/article32862527.ece/ALTERNATES/LANDSCAPE_615/microsoft-ai-captioningpng"
-        width: 615
-        height: 384
         isCached: true
   - title: "Microsoft releases an image-captioning AI algorithm"
     excerpt: "Microsoft makes decoding words, pictures, events and familiar people on social media an easier task for visually impaired people with their accurate AI-captioning technology."

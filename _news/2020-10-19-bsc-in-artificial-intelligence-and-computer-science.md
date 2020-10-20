@@ -41,20 +41,6 @@ related:
         width: 2440
         height: 1627
         isCached: true
-  - title: "Banking Industry embraces digital transformation using AI and ML"
-    excerpt: "The application of artificial intelligence and machine learning will offer predictive analysis to banks and fintech companies to deliver fast, secure, and personalised banking experience to its customers."
-    publishedDateTime: 2020-10-15T12:14:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-machine-learning-redefining-banking-industry/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 71
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-14.jpg"
-        width: 1680
-        height: 840
-        isCached: true
   - title: "5 ways machine learning can improve patients' experience and outcomes"
     excerpt: "Artificial intelligence and machine learning improve processes though data-driven insights and automation. These tools are becoming increasingly integrated into healthcare, but their adoption on the clinical front line remains slow."
     publishedDateTime: 2020-10-19T17:11:00Z

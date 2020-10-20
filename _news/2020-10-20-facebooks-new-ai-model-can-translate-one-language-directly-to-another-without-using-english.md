@@ -79,21 +79,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Why you should be wary of political news on Facebook, Twitter"
-    excerpt: "In September, Facebook and Twitter said they had uncovered ties between PeaceData and the Internet Research Agency ... some of which appeared to use artificial intelligence to generate fake profile pictures. Subscribe to the CNET Now newsletter for ..."
-    publishedDateTime: 2020-10-15T12:01:00Z
-    webUrl: "https://www.cnet.com/news/why-you-should-be-wary-of-political-news-on-facebook-twitter/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/why-you-should-be-wary-of-political-news-on-facebook-twitter/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-you-should-be-wary-of-political-news-on-facebook-twitter/"
+  - title: "Facebook unveils AI-based machine learning software than can translate over a 100 languages"
+    excerpt: "Facebook on Monday unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages without relying on English.  \"This milestone is a culmination of years of Facebook AI's foundational work in machine translation,"
+    publishedDateTime: 2020-10-20T03:50:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/articleshow/78760793.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/amp_articleshow/78760793.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/amp_articleshow/78760793.cms"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 81
     images:
-      - url: "https://cnet1.cbsistatic.com/img/gKDij_RxAohDBdghYbl6qEL54B8=/1200x630/2020/07/25/a5b66fe1-db1a-4c66-85c6-5fb905e14a7c/twitter-facebook-logo-phone-united-states-flag-4542.jpg"
-        width: 1200
-        height: 630
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-729466,msid-78760863/the-open-source-artificial-intelligence-software-was-created-to-help-the-massive-social-network-deliver-content-better-in-160-languages-to-its-more-than-two-billion-users-around-the-world-.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Facebook unveils machine learning translator for 100..."
     excerpt: "Facebook unveiled AI capable of translating 100 languages without relying on English as as an intermediary step, as many systems currently do - making results 90 percent more accurate."

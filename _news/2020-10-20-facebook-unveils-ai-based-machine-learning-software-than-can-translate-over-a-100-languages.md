@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Facebook and Carnegie Mellon team up for AI-led energy storage research"
-excerpt: "Facebook and the Carnegie Mellon University Department of Chemical Engineering are partnering to research how AI can accelerate the discovery of energy storage solutions. The Open Catalyst Project aims to help solve the challenge of building a grid reliant ..."
-publishedDateTime: 2020-10-15T16:49:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/facebook-and-carnegie-mellon-team-ai-led-energy-storage-research/"
-webUrl: "https://www.datacenterdynamics.com/en/news/facebook-and-carnegie-mellon-team-ai-led-energy-storage-research/"
+title: "Facebook unveils AI-based machine learning software than can translate over a 100 languages"
+excerpt: "Facebook on Monday unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages without relying on English.  \"This milestone is a culmination of years of Facebook AI's foundational work in machine translation,"
+publishedDateTime: 2020-10-20T03:50:00Z
+originalUrl: "https://economictimes.indiatimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/articleshow/78760793.cms"
+webUrl: "https://economictimes.indiatimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/articleshow/78760793.cms"
+ampWebUrl: "https://m.economictimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/amp_articleshow/78760793.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/amp_articleshow/78760793.cms"
 type: article
-quality: 39
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
-  - Facebook AI
+  - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/Wind_power_plants_in_Xinjiang_Chi.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-729466,msid-78760863/the-open-source-artificial-intelligence-software-was-created-to-help-the-massive-social-network-deliver-content-better-in-160-languages-to-its-more-than-two-billion-users-around-the-world-.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -89,22 +92,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook unveils AI-based machine learning software than can translate over a 100 languages"
-    excerpt: "Facebook on Monday unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages without relying on English.  \"This milestone is a culmination of years of Facebook AI's foundational work in machine translation,"
-    publishedDateTime: 2020-10-20T03:50:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/articleshow/78760793.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/amp_articleshow/78760793.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/amp_articleshow/78760793.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 81
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-729466,msid-78760863/the-open-source-artificial-intelligence-software-was-created-to-help-the-massive-social-network-deliver-content-better-in-160-languages-to-its-more-than-two-billion-users-around-the-world-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Facebook unveils machine learning translator for 100..."
     excerpt: "Facebook unveiled AI capable of translating 100 languages without relying on English as as an intermediary step, as many systems currently do - making results 90 percent more accurate."
     publishedDateTime: 2020-10-19T19:19:00Z
@@ -150,6 +137,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2020/10/19151049/19-oct_facebook-ai.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facebook and Carnegie Mellon team up for AI-led energy storage research"
+    excerpt: "Facebook and the Carnegie Mellon University Department of Chemical Engineering are partnering to research how AI can accelerate the discovery of energy storage solutions. The Open Catalyst Project aims to help solve the challenge of building a grid reliant ..."
+    publishedDateTime: 2020-10-15T16:49:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/facebook-and-carnegie-mellon-team-ai-led-energy-storage-research/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Wind_power_plants_in_Xinjiang_Chi.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facebook AI open-sources its M2M-100 multilingual model to improve translation accuracy"
     excerpt: "In a blog post, Facebook AI researcher Angela Fan explained how ... “We’ll continue to improve our model by incorporating such cutting-edge research, exploring ways to deploy MT systems ..."
@@ -219,6 +220,6 @@ related:
         height: 629
         isCached: true
 
-secured: "Uun1X5HKlB+Y5gaiM1Yh8UkRDXQp+iHfQsZ9NxlKGoUfi80HPH2SvJf0wxOmQWt4hrs8QF7p14elNUBCbDjkeG9AIPhIB1+kWx7fZnPe9euODcSah64KVoBKwnBdiybJLLbASMjfAHI9tZyswJ6xsO+pwlqyvTuz06gNvsgHnbKhiEW+Dh5jqCePIfVvkfmpLFv06NtKSzbYrfaer+D5fMZppc9/QbG19GZ7CSP+V+A64jjhPNprRbVYUpLxhslPNUF4q0jXhH0pw4H3njCoggsJCdLnw3Ys5hEkyu+4w2nXNl6G3Z7SdCl8ZSwRJwBafddge8zkFedGqeyT1VBrvBwYVitHeVc/vSAFeL5zYF2ak89p/C0a8j0KGC35OTmYqmPTh0SoMhEWVA4g4Zx2LRHhdCeo2/vouK0LChWPVRrD3yGMjncuV3xmsEXWe9uYhfMqVoEzYZPzokL2HRd3hFnpLCF87jpO2t11J/m7dQn/LzkCmTkeGjZ/BE9EgqPIjDibV54ullZsGOoCCiLa9Q==;scJL4OX0O1oFIAprwLRi5Q=="
+secured: "TLoScKuQzunjJifQYiRz0ZCyfUW5NMM0zThEUWWbynkov/+H1GILsx1rYPDChLIMOzEpQeugbXrY9xm0uiGdeh/ry43PzxpCb9ZVwjlAd2fhN6/lCN0kxk7VlxTYGLf6rqgEAeoftLyn6mgstnBsTLpR35isuwnJbPfeDv+zFzJiZzZKjw+ywmojBUqHh+xvZpJNQAS37/UVJO5XMNW3cQODPTfF0IiYj5DlL3ohQe8LWZs5zJdmMYPrJZtuAXUF3zkKhcVPJStNfOhdHoi/r1rkbDdooBUCp2a9iaRx3XGRJ0+olaFaCS1OcV75D/sKNASSWm2DmuUu6dywrDIOYoFyi5TP1BGTguJNMREQ2z4=;i3UFVjV5uFPBgcrlKymh3A=="
 ---
 

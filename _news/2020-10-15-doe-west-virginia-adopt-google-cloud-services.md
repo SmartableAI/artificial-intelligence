@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Energy Department, West Virginia sign on to Google Cloud"
+    excerpt: "The Department of Energy and the state of West Virginia have both signed on with Google Cloud to take advantage of its Google Cloud Platform and Google Workspace productivity and collaboration solution."
+    publishedDateTime: 2020-10-16T20:49:00Z
+    webUrl: "https://gcn.com/articles/2020/10/16/energy-westva-google-cloud.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 24
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/google_cloud.jpg"
+        width: 760
+        height: 368
+        isCached: true
   - title: "DOE, West Virginia adopt Google Cloud services"
     excerpt: "Google LLC today said it has forged a five-year deal to provide the U.S. Department of Energy access to a “broad range” of Google Cloud technologies, along with another deal to have 22,000 state of Virginia employees use the newly rebranded Google Workspace tools formerly known as G Suite."
     publishedDateTime: 2020-10-17T22:49:00Z

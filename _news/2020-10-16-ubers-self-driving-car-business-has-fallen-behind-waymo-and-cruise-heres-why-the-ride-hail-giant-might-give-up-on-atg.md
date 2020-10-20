@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/16/waymo-self-driving-taxi-1280x678.png"
         width: 1280
         height: 678
-        isCached: true
-  - title: "Uber ATG has been hobbled by a deadly crash, infighting, and balky tech — and investors are losing patience with the self-driving division"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Uber has said self-driving cars are essential to its future, but the ride-hailing firm's autonomy division, the Advanced ..."
-    publishedDateTime: 2020-10-15T12:12:00Z
-    webUrl: "https://www.businessinsider.com/uber-atg-self-driving-car-project-struggled-infighting-bad-tech-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
-    images:
-      - url: "https://i.insider.com/5f85eb5891aa9e001880b5cd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "/LrFnLC43Pm6QSLMYE7cHa7Qsy43fnxGrF6AJixllkY7q4VAsgu8W8w8Cm41EcT4eTuY7p0IE7YahkAivzRNCEzW+ff1BWsBakjaJoGm4ler6Xdc5e1nNTwC5o5YAsF/4uf36Tb6707iNxx6YCdbQ0tOLhrkcuohxae8GsCXAzBUKvDju5W9r6OtVcTb2bPsAZt2FyTEAdBydY7auNuOo9vDWeWKSMvbF4Y5GcrOhHxdBqGQcro2KATqMmlDilT59p/ZA5u/EM11rzPl0w8Vobolls4gmHi66sZTIzxcCeNoJiW8/1ps8/ngl5nsThw0eaRfYCLJYlVxhIWC8NJu+MZhq7AG126dWe69KR0si9WsgleAXlKOXY3/FQKgm5eeHLXe8ALUArN1ffNekBdYfFOsDWozDa+g71/X8OkuRVMTqNT4+V1fHBrfjKUB/TTJ0J76ZvsBHkuV5LorcrvRbXyXzl4TqN5bMxKOIhXk0HgztuBlzwTuGLLtT1lxehbF5dPQeo8xiZCfmFDNAKNeEA==;PVsasPWtS+0bopV+hUCh+g=="

@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-20-victor-ai-terminus-ai-city-is-remaking-the-concept-of-city.md",
+      "title": "Victor AI: Terminus AI CITY is remaking the concept of \"city\"",
+      "excerpt": "Victor AI, founder and CEO of Terminus Group, has been invited to Tencent Global Digital Ecology Conference and delivered a speech on AI CITY. In Victor",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/ab17968176/victor-ai-terminus-ai-city-is-remaking-the-concept-of-city",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/ab17968176/victor-ai-terminus-ai-city-is-remaking-the-concept-of-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.getnews.info/uploads/bf4436f894ec7d24068e21bb45017e62.jpg",
+          "width": 600,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17968176",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17968176",
+      "publishedDateTime": "2020-10-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-a-new-approach-to-artificial-intelligence-that-builds-in-uncertainty.md",
       "title": "A new approach to artificial intelligence that builds in uncertainty",
       "excerpt": "Artificial intelligence isn't perfect. In fact, it's only as good as the methods and data built into it. Researchers have detailed a new approach to artificial intelligence that builds uncertainty, error,",
@@ -755,7 +797,7 @@
       "originalUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1183,57 +1225,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-silicon-valley-is-getting-into-the-hearing-aid-business-with-these-impressive-ai-driven-earpieces.md",
-      "title": "Silicon Valley Is Getting Into the Hearing Aid Business With These Impressive AI-Driven Earpieces",
-      "excerpt": "This week, the startup Whisper launched its new flagship product, the Whisper Hearing System. The Whisper Hearing System uses artificial intelligence to process sound in real-time and optimize it for the user’s surroundings.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675",
-      "originalUrl": "https://gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wfkbd2uv91ikolp95onc.png",
-          "width": 800,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675/amp",
-      "publishedDateTime": "2020-10-18T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
