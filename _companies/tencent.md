@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "tencentglobal"
   url: "https://twitter.com/tencentglobal"
-  followers: 20361
+  followers: 20364
 
 size: 10,001+ employees
 yearFounded: 1998
