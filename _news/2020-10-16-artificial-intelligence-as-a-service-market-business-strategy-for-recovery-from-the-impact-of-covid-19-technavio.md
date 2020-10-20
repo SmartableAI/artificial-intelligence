@@ -23,22 +23,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Technavio Research: Artificial Intelligence-as-a-Service Market- Business Strategy for Recovery from the Impact of COVID-19 |Technavio"
-    excerpt: "Based Solutions will drive the market growth during the forecast period The artificial intelligence-as-a-service market is expected to register a CAGR of over 48% during"
-    publishedDateTime: 2020-10-16T04:13:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/50973142-technavio-research-artificial-intelligence-as-a-service-market-business-strategy-for-recovery-from-the-impact-of-covid-19-technavio-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 7
-    images:
-      - url: "https://mms.businesswire.com/media/20201015005855/en/830745/4/IRTNTR41175.jpg"
-        width: 480
-        height: 271
-        isCached: true
-
 secured: "AaS7lDR/sAy+Yyue733SW1Uk+yS1/ptExfS+PhjwXncmLrfEq/UKtFDDiCOzJE2LzKvW8/23zdpMjfuCJXVBvokjMdSQ9a44gWEN5t/1OGNjtmmJZG60QYI0ClKWlgEbXFiC0vkxYV2goG3nOztR6D8wMGptCSTiWtRxDilKef+y0tlr3k+744ikoAFLYjFOabppNSS5XVVPHU5RYfPwNuwoVegeNgE78xSWEOTLz3/e40HPfq7JxpkFIrj17XIfijygteFVgzMQ0KLZeeDhyakwoqbvo2+zd1KIEUbPqZxNiyb+f8NJubOGB4HjK3mRuAIFQhNcidFPAxug9hQk9128EVNNPr6N8+3FXzGoyjU=;sYCR7I6w7sAiMO85dyKezQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/adopting-ai-in-small-businesses-best-pra
 webUrl: "https://customerthink.com/adopting-ai-in-small-businesses-best-practices-and-security-measures-in-the-new-normal/"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "3 Ways Small Businesses Can Quickly Embrace AI Without Big Data or Programmers"
-    excerpt: "When AI was first launched, it was perceived as a technology that could revolutionize business models by creating a full understanding of a clients’ profile and their needs. It would be a must-have technology for large businesses to boost their balances ..."
-    publishedDateTime: 2020-10-16T03:44:00Z
-    webUrl: "https://www.entrepreneur.com/article/357286"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/357286"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357286"
+  - title: "Facial Recognition for Business: Applications and Adoption Pitfalls"
+    excerpt: "Each time you recognize someone’s face, you’re using an internal form of facial recognition. In a matter of milliseconds, your mind breaks down the parts of their face, puts them back together, and matches the sum with those faces already stored in ..."
+    publishedDateTime: 2020-10-19T21:36:00Z
+    webUrl: "https://www.finextra.com/blogposting/19441/facial-recognition-for-business-applications-and-adoption-pitfalls"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 83
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1602691077-GettyImages-1206801125.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "73Rc9TKCAu/aTwKOx+ONSjKCx+rT4oP+81hGnUdhgKWzC/u+MAAKfam57TzOPj8m2BBYRA6lHGfrSfWSHKpNyaq1MTlAQ1sjiOrvA5SD5BT5OmPuXANYxA9gDU/x+z/IDuBnsPIgSowGKoiNpogcopVXrpH4Qf832j9buL+XLwgVW91+Sj1pRgLhFNV7Ie7+FDXbcbvMtnO5uYR2jFcGX2Mz4UafWCU5ZSMBBd7E8ycdUIxO7rtzP7LITMmR79OuRlx40mgw+TFRcwyoocKE9Sfbyzk5FT9DdYddkdfDlW6J0IKCV3C6MNE7p2slmpXFKa2/cF2S+81oAd2dPQaWgrMaHZaqaokRhZ1L0XPzuqI=;TN2hXr/d2C4c3RfS2CT/2g=="
 ---

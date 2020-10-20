@@ -69,20 +69,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
-    excerpt: "When it's time to learn a new language, Duolingo offers a fun, interactive learning experience through its cross-platform app that's powered by artificial intelligence (AI)."
-    publishedDateTime: 2020-10-16T04:36:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/10/16/the-amazing-ways-duolingo-is-using-artificial-intelligence-to-deliver-free-language-learning/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8921b72cdc5afb81459335%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meet Q.ai, A Robo Investing App That's Disrupting The Hedge Fund Industry"
     excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking ... Co-Founder and CEO at Q.ai, a Forbes company. Though trading apps like Robinhood democratize financial markets, they don’t allow investors the tools to properly ..."
     publishedDateTime: 2020-10-16T21:16:00Z
@@ -156,6 +142,20 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/How-Criminals-Use-Artificial-Intelligence-To-Fuel-Cyber-Attacks.jpg"
         width: 1680
         height: 840
+        isCached: true
+  - title: "How AI and the IoT are improving farming sustainability"
+    excerpt: "Information is money. And for farmers, information is often the deciding factor between a good and a bad harvest. As artificial intelligence (AI) and the"
+    publishedDateTime: 2020-10-20T20:33:00Z
+    webUrl: "https://www.embedded.com/how-ai-and-the-iot-are-improving-farming-sustainability/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 39
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2020/10/10lr_f2r-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Startup Circle: How is KiksAR using AI to change the fashion industry?"
     excerpt: "KiksAR founder Ms Kavita Jha is erudite with a strong academic background. She has completed her MBA from Pune University. Kavita holds deep domain experience of 15+ years. Prior to"

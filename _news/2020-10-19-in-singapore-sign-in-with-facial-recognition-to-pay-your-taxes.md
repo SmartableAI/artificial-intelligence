@@ -36,20 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "Singapore's private sector launches document for ethical use of AI; certification course to follow next year"
-    excerpt: "Launched on Friday (Oct 16) by the Singapore Computer Society (SCS), \"AI Ethics & Governance Body of Knowledge\" builds on the Singapore government's voluntary framework for the responsible use of AI. It is authored by 29 industry veterans including Dr ..."
-    publishedDateTime: 2020-10-16T03:10:00Z
-    webUrl: "https://www.straitstimes.com/tech/singapores-private-sector-launches-document-for-ethical-use-of-ai-certification-course-to"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 35
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/10/16/nz_robot_161092.jpg?itok=1LzBSNeb"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Singapore's World-first Face Scan Plan Sparks Privacy Fears"
     excerpt: "Singapore will become the world's first country to use facial verification in its national ID scheme, but privacy advocates are alarmed by what they say is an intrusive system vulnerable to abuse. From next year,"
     publishedDateTime: 2020-10-18T03:42:00Z

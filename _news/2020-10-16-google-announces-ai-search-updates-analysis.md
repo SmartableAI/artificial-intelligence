@@ -58,38 +58,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
-    excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
-    publishedDateTime: 2020-10-19T19:00:00Z
-    webUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/"
-    ampWebUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/google-cloud-lending-ai-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
-  - title: "axle ai Brings AI-Powered Media Search to Adobe Creative Cloud Applications"
-    excerpt: "New integrations with Adobe applications for remote teams to debut at Adobe MAX online conference. Boston, MA, USA – October 16, 2020 – axle ai is excited"
-    publishedDateTime: 2020-10-17T01:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17946357/axle-ai-brings-ai-powered-media-search-to-adobe-creative-cloud-applications"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17946357"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17946357"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.getnews.info/wp-content/uploads/2020/10/1602865966.jpeg"
-        width: 468
-        height: 206
-        isCached: true
   - title: "Google Search Gets More Helpful With The Release of New AI Features"
     excerpt: "Google Search is getting more helpful. The bread-and-butter service of parent organization Alphabet (NASDAQ:GOOGL)(NASDAQ:GOOG) recently announced new AI-powered features to improve its usefulness. Some are legitimately helpful,"
     publishedDateTime: 2020-10-16T06:07:00Z
@@ -132,24 +100,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Google Details How It Uses AI, Machine Learning To Improve Search"
-    excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."
-    publishedDateTime: 2020-10-16T04:14:00Z
-    webUrl: "https://www.mediapost.com/publications/article/356876/google-details-how-it-uses-ai-machine-learning-to.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 36
-  - title: "Google Cloud launches AI-powered mortgage processing tool"
-    excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."
-    publishedDateTime: 2020-10-20T00:19:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36777/google-cloud-launches-ai-powered-mortgage-processing-tool"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "yB01PA4lcYu9RUMI9JHnZ7aHjiE0CCDnCQt5QxUlt1Zv5Cxh0J1tR/0QjCuHIvp/3Kvia16LmnRYqYULEXAFrY+saJsdXPvfkOMGuAtkLqItvNMZvJWUCzHQav5RIraCwu5wBBEXz9jIy/8jYUEaMaYFEvbNlmxlCVOc/UdWMaEojErg/m/tDsfKn7YqTduox30fNFo3vAX42lLeOlHYpbB/pdunySUQ/SbWD0rJ7Gd8UM91x/tbfDbMO+o1mLHGkm7DWvRtrT0ohBOEKLFBBdwNdQHt8Tc86dfakDb2csqItH5tU2Slp9b3e8vAOr6dHDFx3KHCMMu+egq+GWhllTOe0ovVbBbzEVzsQstzfU5GStznAD9NooKGQFKEuSMY/GQ+ssf7PxzNei1u9h6ECMHGpkXqXBm2EqT55/35dhNgPX4kxYqx39VZgbO+RVv2ZkUh/WDoVqNH0JpA3sqW6GLMHL14Fgcy7K4OvkY5V/9SJIMutooCRM2hMir2i4NMbZH01ZcMV+Q09MrJTC0cWQ==;oZxFUqaMVQs4vtDk5A+sAw=="
 ---

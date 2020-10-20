@@ -3,14 +3,14 @@ category: news
 title: "Facial-Recognition Startup Clearview Moves to Prevent Possible Police Abuse"
 excerpt: "The controversial startup that provides facial-recognition technology to law enforcement is rolling out new compliance features to prevent abuse of the technology, Chief Executive Hoan Ton-That said Tuesday."
 publishedDateTime: 2020-10-20T18:32:00Z
-originalUrl: "https://www.wsj.com/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
-webUrl: "https://www.wsj.com/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
+originalUrl: "https://www.wsj.com/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327?mod=business_minor_pos4"
+webUrl: "https://www.wsj.com/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327?mod=business_minor_pos4"
 ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 72
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -21,14 +21,33 @@ provider:
       height: 50
 
 topics:
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://images.wsj.net/im-247310?width=620&size=1.5"
-    width: 620
-    height: 413
+  - url: "https://m.wsj.net/video/20181224/122418upstreamfacrec/122418upstreamfacrec_512x288.jpg"
+    width: 512
+    height: 288
     isCached: true
 
-secured: "38EUSHex4O/Rf9tjLTXwZ8gxiTxn/Q9tVDQf1cX35u1fzwpkeFr2Rga1xg99NPV+lcZJABuaMMq+7cPL6JHaMOVmv1hWE0AzrdAvb/FHnRSW5OqvN7Zi3BZOrJ81ugxsPhZHJpV+BSFWU37088UPhFupqjatfP/sn8M1NoAjQkhqD8Zwu3E9914C/XFoR/bQfY+zTzw933v6gNgyPS/iBFuVBZP+/l+wftDMPtesKfwo5BjMBejPQJT6or7lcVJKk8itjeRxuP7DzZfEUtE3u8ho4X37uipxJ3EjKtkfNHl41AgnXx5tEeej0WG4S+0kKPw4QU2dvf9DgxEmhgCgLqQgUHHy5xbBY2MU2oIEm8Y=;+DRA0Nr3EdmrE1lxuvYyvg=="
+related:
+  - title: "Facial-Recognition Startup Clearview Moves to Limit Risk of Police Abuse"
+    excerpt: "The controversial startup that provides facial-recognition technology to law enforcement is rolling out new compliance features aimed at preventing misuse of the technology, CEO Hoan Ton-That said."
+    publishedDateTime: 2020-10-20T20:39:00Z
+    webUrl: "https://www.wsj.com/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 73
+    images:
+      - url: "https://images.wsj.net/im-247310/social"
+        width: 1279
+        height: 640
+        isCached: true
+
+secured: "h6QumKrjE0O0gsLPJeykCVm2pKDJ0XgmslkZk/kwacNA1DJBYzDwMxBsahmJ3xWaKXJ7ADKG3tC8vtzUiXQ8D1E9eJ+lzCfHltn46n0oNWea+VfMRV9CRC5uLlEC0D3SdAk2FjbQJjuG9S7Qz7L4gvVOkGZE/alY/L79MC/KSqq68DI0JxD/oimq3prJ97RcDPy8/KQpaahudJPWlSrK9paHpABoZ6/StlNvXWY2mTVNJkwFoGajlzPgrw++r1iyzzOipQfgSce1s5pTqdD6HAMiO131oGc42ewVcAQ6PXs9Em8EGoTbBH/r57QBa76nNtllH8+qjnDVSO/OULxGhiUkuLWTZJfTDhpBEGfX+Rw=;KgtaJNYTgc9b75hxoVDSJw=="
 ---
 

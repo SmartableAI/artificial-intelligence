@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-photos-ai-premium-printing-servi
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-photos-ai-premium-printing-service-160034151.html"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 600
     height: 350
     isCached: true
-
-related:
-  - title: "Google’s Lending DocAI service uses AI to fast-track mortgage applications"
-    excerpt: "Google LLC is jumping into the mortgage industry with the launch of a new artificial intelligence-driven cloud service aimed at helping lenders reduce the time it takes to process loan applications. Announced today,"
-    publishedDateTime: 2020-10-19T13:22:00Z
-    webUrl: "https://siliconangle.com/2020/10/19/googles-lending-docai-service-uses-machine-learning-fast-track-mortgage-applications/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/share.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "dSQx/AbAPvRNmYVn7zdaFH6HSElNm5XAkffJqeY8Gut+95wMPyMAvG3dvxGlFl114rnh6/bt5tKASE2np8dIXmt+mV6IL43CrW24fFH/Al83mzVgzNj7skhhjBJWaHDgsEIJzrzDxHbNedxW+cSOBtGeT4WWJnYT9QGLF6ZzsnaQW3qS0FqsWMLp15ONvsItwgOyODknGjIyuUZ15Dzij6psj7FIaPEaE8O6trqtlUac4GDhzbkaiSBUdH9+mMxDgFa5XdK/OYN4nFyFevMIqw4m6YVnKLy0yGHhoRNWeMSqnP/Kn0957HZWl7jjy4iBUHAlptLhP7tobcRi0TOJQKJZxNhBZaeFa4z9RfEeutX0AyIXVg2oGwhtS9cQg6BibUnfyESFxt055S6/Qgc7gqJsoOkoIRDRwzdnPAs+7ctAhrs4iktMcaHpgc7Ytc+x9Z5dejVgB0BZ/W/EgxD2nthFnSWHx7iu5sxSoeZqjL+u948VKKYGEWmnDLVLouiSHGV92SNmckGNliG5KmcFyQ==;Fg+M6CJC9MoXOKYXdYewtg=="
 ---

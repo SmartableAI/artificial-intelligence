@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Ford Escape Hybrid becomes company's latest self-driving car prototype"
+    excerpt: "The Escape Hybrid will also serve Ford's future autonomous ride-hailing service. Feast your eyes on Ford's latest self-driving car prototype. If it looks a lot like a Ford Escape Hybrid, well, that's because it is."
+    publishedDateTime: 2020-10-20T21:04:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/ford-escape-hybrid-self-driving-car-prototype/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/LQrNpGE_tK54V8ffxvcE3kx3A4Q=/2020/10/20/4f243df4-9e13-44c4-a76a-4a7baacc72c0/ogi-ford.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ford unveils new self-driving test vehicle for 2022 launch"
     excerpt: "Ford plans to launch its self-driving commercial business in 2022 with vehicles based on the Ford Escape Hybrid crossover, the company announced Tuesday."
     publishedDateTime: 2020-10-20T18:09:00Z
@@ -35,49 +51,31 @@ related:
         width: 700
         height: 405
         isCached: true
-  - title: "Framework for Assessing Health Impacts of Self-driving Vehicles"
-    excerpt: "New study developed a conceptual model to recognize the positive and negative health impacts of autonomous vehicles (AV) systematically."
-    publishedDateTime: 2020-10-16T07:34:00Z
-    webUrl: "https://www.medindia.net/news/framework-for-assessing-health-impacts-of-self-driving-vehicles-198056-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/framework-for-assessing-health-impacts-of-self-driving-vehicles-198056-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/framework-for-assessing-health-impacts-of-self-driving-vehicles-198056-1.htm"
+  - title: "Ford chooses hybrid Escape for self-driving service, begins testing"
+    excerpt: "Ford and Argo AI this month will begin testing the fourth-generation technology on the vehicles in several cities, including Detroit"
+    publishedDateTime: 2020-10-20T20:27:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/ford/2020/10/20/ford-argo-ai-chooses-hybrid-escape-self-driving-service/5993329002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5993329002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5993329002"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
+      name: Detroit News
+      domain: detroitnews.com
     quality: 44
     images:
-      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
-        width: 300
-        height: 250
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/PDTN/fe0b4fe6-3f82-432f-9d55-3cd31db52717-Ford_Argo_AI_4th_Gen_Self-Driving_Vehicle_01.jpg?auto=webp&crop=5598,3149,x0,y39&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "GM Unit Cruise Gets Go-Ahead To Test Unmanned Self-Driving Cars In San Francisco"
-    excerpt: "Cruise became the fifth company to get the green light from the California DMV to test its self-driving cars on the roads. It is not clear when the company plans to launch the autonomous vehicle commercially."
-    publishedDateTime: 2020-10-16T12:38:00Z
-    webUrl: "https://www.ibtimes.com/gm-unit-cruise-gets-go-ahead-test-unmanned-self-driving-cars-san-francisco-3063074"
-    ampWebUrl: "https://www.ibtimes.com/gm-unit-cruise-gets-go-ahead-test-unmanned-self-driving-cars-san-francisco-3063074?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gm-unit-cruise-gets-go-ahead-test-unmanned-self-driving-cars-san-francisco-3063074?amp=1"
+  - title: "Ford plans for self-driving commercial service launch in 2022"
+    excerpt: "Ford (F +2.2%) plans to launch its self-driving commercial business in 2022 with vehicles based on the Ford Escape Hybrid crossover."
+    publishedDateTime: 2020-10-20T20:29:00Z
+    webUrl: "https://seekingalpha.com/news/3623863-ford-plans-for-self-driving-commercial-service-launch-in-2022"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/12/general-motors-has-been-hit-by-supply-chain.jpg"
-        width: 1024
-        height: 740
-        isCached: true
-  - title: "Hainan opens four roads for self-driving technology testing"
-    excerpt: "Four roads have been opened in China's southern province of Hainan to test self-driving technology. This marks the beginning of an important stage in the development of \"smart\" vehicles in the province,"
-    publishedDateTime: 2020-10-16T10:22:00Z
-    webUrl: "https://tass.com/economy/1212995"
-    ampWebUrl: "https://tass.com/economy/1212995/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/economy/1212995/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 39
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "P1d+onzcSl4MxrjxCzXLlj/BigOdV5Jr5T2OuB6/DDlTYCS8z/5KXknAwmYRiqO7zWtc9Z6YURY7JEuU7/ZVff+FzzsZG2k4ryw505qlhSve9Gfuk837DsfiQU1kUOv+iNcULZc/b5S90CbTsCicEqv59tzToVVfEXLNVyMnCH8y7fyMDJw7iXb1ZozzLxcrf3uyhSWnhxBbmOV0qcFwr0ZHe/OuWCocqurWlpaHuHRM38o90dvrIh+zBlJ9s/xfCMHLJ92PEXMhF/t7Yh/po0mtn4dYALIuDyyDnSNWT2D07TBpACRY0fBqJs+wUHjLFiBFTCLxqZfuPjsD0W6cbogQUWvbUYLwaK2jQGQ66O6omOf2EKB7V7GcbA5yQZHA67kJFuSHceWggFFLcl8DjH7tGxc5IBI+IDFilh8WfY2HSkaxyeI1BZzdUt93k9qSQffQ0Q52EsXPz8xi8gmpPbs+KjzwD1KSmAZr4FgvYvtmKBHn6EdLfQPoIzYv+7TqMSq38fojIYtH+OWsTz99RQ==;nVNuIe8tOW0Ro9+SXqQpAQ=="
 ---

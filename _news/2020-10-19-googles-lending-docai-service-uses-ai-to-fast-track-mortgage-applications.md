@@ -24,22 +24,95 @@ images:
     isCached: true
 
 related:
-  - title: "Google revives its AI-fueled photo printing service"
-    excerpt: "Google Photos has brought back its AI-based printing service, giving you automatically selected pictures every month."
-    publishedDateTime: 2020-10-20T16:10:00Z
-    webUrl: "https://www.engadget.com/google-photos-ai-premium-printing-service-160034151.html"
-    ampWebUrl: "https://www.engadget.com/amp/google-photos-ai-premium-printing-service-160034151.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-photos-ai-premium-printing-service-160034151.html"
+  - title: "Google’s Lending DocAI streamlines mortgage applications with artificial intelligence"
+    excerpt: "Google Maps and DeepMind enhance AI capabilities to improve route calculations Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry."
+    publishedDateTime: 2020-10-19T14:32:00Z
+    webUrl: "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F4c599950-12d0-11eb-9f9b-8077da8b7d89&client=amp-blogside-v2&signature=5dc345d4a77976a8475ae83397463c92c5841af3"
-        width: 600
-        height: 350
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/07/c9b63b58-80c7-48ea-88de-873031c6c261/thumbnail/1200x675/ccc5d8b42e1073502add1b385dd7afcb/google-maps-and-deepmind-enhance-ai-capa-5f558c2a836f805692009c76-1-sep-07-2020-7-39-17-poster.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Google Cloud launches Lending DocAI to streamline mortgage applications with AI"
+    excerpt: "Lending DocAI, which is now in preview, is a specialized solution in Google’s Document AI portfolio that leverages a set of models focused on document types in mortgage lending. Google says it ..."
+    publishedDateTime: 2020-10-19T13:00:00Z
+    webUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Building a landslide prediction tool with Google and AI"
+    excerpt: "AI Impact Challenge, Google asked nonprofits, social enterprises and research institutions around the world, \"How would you use artificial intelligence (AI) for social good?\""
+    publishedDateTime: 2020-10-16T14:09:00Z
+    webUrl: "https://phys.org/news/2020-10-landslide-tool-google-ai.html"
+    ampWebUrl: "https://phys.org/news/2020-10-landslide-tool-google-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-landslide-tool-google-ai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/buildingalan.jpg"
+        width: 730
+        height: 431
+        isCached: true
+  - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
+    excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
+    publishedDateTime: 2020-10-19T19:00:00Z
+    webUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/"
+    ampWebUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/google-cloud-lending-ai-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
+  - title: "axle ai Brings AI-Powered Media Search to Adobe Creative Cloud Applications"
+    excerpt: "New integrations with Adobe applications for remote teams to debut at Adobe MAX online conference. Boston, MA, USA – October 16, 2020 – axle ai is excited"
+    publishedDateTime: 2020-10-17T01:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17946357/axle-ai-brings-ai-powered-media-search-to-adobe-creative-cloud-applications"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17946357"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17946357"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://www.getnews.info/wp-content/uploads/2020/10/1602865966.jpeg"
+        width: 468
+        height: 206
+        isCached: true
+  - title: "Google Cloud launches AI-powered mortgage processing tool"
+    excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."
+    publishedDateTime: 2020-10-20T00:19:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36777/google-cloud-launches-ai-powered-mortgage-processing-tool"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "hhDp1FLTYVpZ9DkbFKfcYTpr8tjWB9k2KAskKMlp8iMujqxGT957sP+NDYmneflRfmlflxwMInNkF0syikHkLae9iEzUqovM5hvG6QPydme/OJgISh0dcqhScqVLqDe6H7F2OgzB9wOm5xmQTTb+LOI6FASL7XwcenKo/qmIwPyQDgM+87y2semNzkfSUNoijMdGZdSQk8HSPRfV/5pT3SWFxNoKBAlrzW8+morj4Af+gf3i5Z2pBlqSVPUCu4aCOxdSPEE4u38WK3r4wofKnJcaEw57XcbiNR2zmJw7hef+H9vZE6P4HDg1KyJdJhNUqYhGEVMQRNHCTnVzlwb3wpXanZbAqboQpke+378ABg7Yud6cBJHieWFHWehFjBVuy1p8nySkWLwoaZRyxX/HkNbRLVjYTBNU/yb4YtdAdxbNZLMsS4dWAaoS4Py20QvoAvHOjH45LQrJtTZoT6TuvqqHqN6jGQ58RDpoy0cIuwrwgmkKhb8O8ZlyCR5Vb+gWSP8UGNhU2mXbavbZ+Rqe+w==;mDczSHP0GRSH4GAltyyoJQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/ford-unveils-new-self-driving-te
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/ford-unveils-new-self-driving-test-vehicle-for-2022-launch.html"
 type: article
 quality: 74
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNBC
@@ -31,49 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "Framework for Assessing Health Impacts of Self-driving Vehicles"
-    excerpt: "New study developed a conceptual model to recognize the positive and negative health impacts of autonomous vehicles (AV) systematically."
-    publishedDateTime: 2020-10-16T07:34:00Z
-    webUrl: "https://www.medindia.net/news/framework-for-assessing-health-impacts-of-self-driving-vehicles-198056-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/framework-for-assessing-health-impacts-of-self-driving-vehicles-198056-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/framework-for-assessing-health-impacts-of-self-driving-vehicles-198056-1.htm"
+  - title: "Ford Escape Hybrid becomes company's latest self-driving car prototype"
+    excerpt: "The Escape Hybrid will also serve Ford's future autonomous ride-hailing service. Feast your eyes on Ford's latest self-driving car prototype. If it looks a lot like a Ford Escape Hybrid, well, that's because it is."
+    publishedDateTime: 2020-10-20T21:04:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/ford-escape-hybrid-self-driving-car-prototype/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/LQrNpGE_tK54V8ffxvcE3kx3A4Q=/2020/10/20/4f243df4-9e13-44c4-a76a-4a7baacc72c0/ogi-ford.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Ford chooses hybrid Escape for self-driving service, begins testing"
+    excerpt: "Ford and Argo AI this month will begin testing the fourth-generation technology on the vehicles in several cities, including Detroit"
+    publishedDateTime: 2020-10-20T20:27:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/ford/2020/10/20/ford-argo-ai-chooses-hybrid-escape-self-driving-service/5993329002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5993329002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5993329002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
     quality: 44
     images:
-      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
-        width: 300
-        height: 250
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/PDTN/fe0b4fe6-3f82-432f-9d55-3cd31db52717-Ford_Argo_AI_4th_Gen_Self-Driving_Vehicle_01.jpg?auto=webp&crop=5598,3149,x0,y39&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "GM Unit Cruise Gets Go-Ahead To Test Unmanned Self-Driving Cars In San Francisco"
-    excerpt: "Cruise became the fifth company to get the green light from the California DMV to test its self-driving cars on the roads. It is not clear when the company plans to launch the autonomous vehicle commercially."
-    publishedDateTime: 2020-10-16T12:38:00Z
-    webUrl: "https://www.ibtimes.com/gm-unit-cruise-gets-go-ahead-test-unmanned-self-driving-cars-san-francisco-3063074"
-    ampWebUrl: "https://www.ibtimes.com/gm-unit-cruise-gets-go-ahead-test-unmanned-self-driving-cars-san-francisco-3063074?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gm-unit-cruise-gets-go-ahead-test-unmanned-self-driving-cars-san-francisco-3063074?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/12/general-motors-has-been-hit-by-supply-chain.jpg"
-        width: 1024
-        height: 740
-        isCached: true
-  - title: "Hainan opens four roads for self-driving technology testing"
-    excerpt: "Four roads have been opened in China's southern province of Hainan to test self-driving technology. This marks the beginning of an important stage in the development of \"smart\" vehicles in the province,"
-    publishedDateTime: 2020-10-16T10:22:00Z
-    webUrl: "https://tass.com/economy/1212995"
-    ampWebUrl: "https://tass.com/economy/1212995/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/economy/1212995/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 39
   - title: "Ford plans for self-driving commercial car launch in 2022"
     excerpt: "Ford (F +2.2%) plans to launch its self-driving commercial business in 2022 with vehicles based on the Ford Escape Hybrid crossover."
     publishedDateTime: 2020-10-20T19:12:00Z
@@ -83,7 +72,16 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 4
+  - title: "Ford plans for self-driving commercial service launch in 2022"
+    excerpt: "Ford (F +2.2%) plans to launch its self-driving commercial business in 2022 with vehicles based on the Ford Escape Hybrid crossover."
+    publishedDateTime: 2020-10-20T20:29:00Z
+    webUrl: "https://seekingalpha.com/news/3623863-ford-plans-for-self-driving-commercial-service-launch-in-2022"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
-secured: "Z0ZZs3vsoKfUcBVK9huldstIhFZ15kP8gKYkmZwrK0nlna25cksiGlfQGo3mGpmZBTGWQNamJ3ojcuw94bfZYN036qcb+C7KRcqLc+gENfMU/abMSz57VSXK/5ub+bbDvIKt9UEZA6WphFh8mvB3gt6+bOSFOzKkGkFZ3YXKzWHQ0RVmJMw29ArEXRtPGH41dUwo+FBfVDIFMY5cjX5hCcysxlHG1SBbb0eUlhF9ry3O6o8q8Uy5BiVOLtl8A837qXnX0pvd+ltm89DkVmtWrbDOkWczRXFsXEtKzNpXzb8PRnAAHsqH851Q/JB/rvnFrzuv0yBAWJ+OclCQplpvXXJSlYO4oxPYLCSzjSK1czQ=;+xVVZ3b4zNti7T4GFch3nw=="
+secured: "iMwwAYOc3uTiY3UeknT8zwHqOwVcJ5O6W6cO78G2wgu19i3BYozA1ChgqzkKTqrmz6OQHV3GHYJPvqq6YKQ0Q8ay+a8q7G+aMqHYpCtid7tN0bDGvE0dfibSIC31YSzGcQ3hUd4lq6r2qwImuZfVw4S5OmplBUxgYSSPteLr3tTTclGaH9IhMduKIeVSP7sqEp5ht6WsfXu4PaO71xIfQ2O3Ck9UqNnIMskmkFNJOwBqtsx5ma+Esfgu8C4Dz5PSqSvyPEl4yGRo2CNL6T0zVQauaHGeffIJPfmqYLicVd6W3Q+noPc0N7Olu/yh/WH3VHwQ/wAYnpe/8OUcAuu61F4WzQvnWe7IGhavvBAN+d4GyEaNWxrCJ6n9jX0vEI3gtUDGFeoXaPoojMYgvFuIH2oxbSRuRY0y02CZaLRYfpd0rPPelpPs8l7Kibh6h31iJJiC7SLq7WhIoBufnqxcjk+t5sPt//9MxwuGZo5PXbiM4b2Nd6TBDnhM1lXT9KpWl0UrsF9KYVwyeJLnr1JdYg==;aJpg7VW99IvjfaETLgIbCQ=="
 ---
 

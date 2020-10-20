@@ -39,6 +39,20 @@ related:
         width: 2000
         height: 1547
         isCached: true
+  - title: "Researchers develop machine learning model that will support safe and more accurate decision making for the Halifax Harbour"
+    excerpt: "Researchers at Dalhousie and ocean data analytics innovation environment DeepSense have developed a machine learning method for predicting wind speed and wave height measurements. Such measurements support safe and more accurate decision making by the Halifax Port Authority and the Halifax Marine Pilots."
+    publishedDateTime: 2020-10-20T21:09:00Z
+    webUrl: "https://www.dal.ca/faculty/computerscience/news-events/news/2020/10/20/researchers_develop_machine_learning_model_that_will_support_safe_and_more_accurate_decision_making_for_the_halifax_harbour.html"
+    type: article
+    provider:
+      name: Dal
+      domain: www.dal.ca
+    quality: 13
+    images:
+      - url: "https://cdn.dal.ca/_jcr_content/og_image.adaptive.full.high.png/1586637513952.png"
+        width: 1280
+        height: 668
+        isCached: true
 
 secured: "cK75IPYcOuh3NtiKgeIr+/JVykE+LSaNMo8ehaSqh4/nhxFOqRIr7t9bi6MRQ/VbPoftooh2zWauE/Sso3G/I2vMzYvV+i1QYiL2UA9NWEylFnx2Sde2uRJOG2VuKLPSgnga8CVARUVLA53etdRSA1OIyznPJmxeBQN5pMU/Zt7IVHFYDwBP6ab4HYa+8jzci+nfEjqOSVsNnvDygCk8crnrdoCWOGMD7OoNtscLghqI2lbVLlf/uOqgVSpFbURD3m7IHxhczp3y35qMGEencIqDTkyyXUw2+AZLuNWk+YfyI1v8w1Bl8R9qc5/e3JKh3AgtxyO44fTpCJXmfQjlroOXkSLgRUUBnIfxgOEMJo27h1oM5AT/6FHvXVD908xeyQR6Zvx9BBSxoq9MsCGnX3y48W5AEODgaEpDFIeb0NzPrcuv8XwTb+ON1tTSKtl7oVmNX54Qp+JHYGBin/Eat/wIxXUptHdb/IsNxiqa2/3o1+c8oG712hsCnXLiO2Ps08IkR8H4fbiSkbxfHzo2Xw==;BFlhJrgeYYE09Ff1rPF0jw=="
 ---

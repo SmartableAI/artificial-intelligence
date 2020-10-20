@@ -7,8 +7,8 @@ originalUrl: "https://www.genengnews.com/news/deep-learning-model-developed-to-i
 webUrl: "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: GEN
@@ -39,6 +39,20 @@ related:
       - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/10/Double-crested_cormorants-1024x725.jpg"
         width: 1024
         height: 725
+        isCached: true
+  - title: "Researchers develop machine learning model that will support safe and more accurate decision making for the Halifax Harbour"
+    excerpt: "Researchers at Dalhousie and ocean data analytics innovation environment DeepSense have developed a machine learning method for predicting wind speed and wave height measurements. Such measurements support safe and more accurate decision making by the Halifax Port Authority and the Halifax Marine Pilots."
+    publishedDateTime: 2020-10-20T21:09:00Z
+    webUrl: "https://www.dal.ca/faculty/computerscience/news-events/news/2020/10/20/researchers_develop_machine_learning_model_that_will_support_safe_and_more_accurate_decision_making_for_the_halifax_harbour.html"
+    type: article
+    provider:
+      name: Dal
+      domain: www.dal.ca
+    quality: 13
+    images:
+      - url: "https://cdn.dal.ca/_jcr_content/og_image.adaptive.full.high.png/1586637513952.png"
+        width: 1280
+        height: 668
         isCached: true
 
 secured: "p1pUdjo+kh/MoGRJBQIlpRJJz9ez35Blo4HIn1dlyTgo1c6CAEKVfhcTfScT076Dfk/Lp7r6sTCpt2o/AFNRY7hlz+2krYEKSOPdOcHEi3BHTWabFpu2VUPpTil/02iO0x3z7XtEmB2GsDj5fabgqMBEOo5FngrKs0vqjn3wefeHZ42c8UsMIQjrAlMscga9p8W5FYvChBHAW/CH/2YG9GKEORGMvTXNyfxMg9+wiizE0QK32CZD8/Nuaa/Arvsf0aiMIFEWxmGNElby+p/AdyuZhymiaRSYwvSRqcvViwk1k5J4qPyf3YCYDNmK2adpOCri2WBxD33ro68rcKyo967FAP25psJuOHaetsl/x+w=;e8L6Ko4vpFPMt+eGkgLaog=="

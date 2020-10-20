@@ -8,9 +8,9 @@ webUrl: "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgag
 ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 97
+heat: 157
+published: true
 
 provider:
   name: ZDNet
@@ -22,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - Google AI
+
+images:
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/07/c9b63b58-80c7-48ea-88de-873031c6c261/thumbnail/1200x675/ccc5d8b42e1073502add1b385dd7afcb/google-maps-and-deepmind-enhance-ai-capa-5f558c2a836f805692009c76-1-sep-07-2020-7-39-17-poster.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Google Cloud launches Lending DocAI to streamline mortgage applications with AI"
@@ -56,7 +63,62 @@ related:
         width: 730
         height: 431
         isCached: true
+  - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
+    excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
+    publishedDateTime: 2020-10-19T19:00:00Z
+    webUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/"
+    ampWebUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/google-cloud-lending-ai-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
+  - title: "axle ai Brings AI-Powered Media Search to Adobe Creative Cloud Applications"
+    excerpt: "New integrations with Adobe applications for remote teams to debut at Adobe MAX online conference. Boston, MA, USA – October 16, 2020 – axle ai is excited"
+    publishedDateTime: 2020-10-17T01:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17946357/axle-ai-brings-ai-powered-media-search-to-adobe-creative-cloud-applications"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17946357"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17946357"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://www.getnews.info/wp-content/uploads/2020/10/1602865966.jpeg"
+        width: 468
+        height: 206
+        isCached: true
+  - title: "Google’s Lending DocAI service uses AI to fast-track mortgage applications"
+    excerpt: "Google LLC is jumping into the mortgage industry with the launch of a new artificial intelligence-driven cloud service aimed at helping lenders reduce the time it takes to process loan applications. Announced today,"
+    publishedDateTime: 2020-10-19T13:22:00Z
+    webUrl: "https://siliconangle.com/2020/10/19/googles-lending-docai-service-uses-machine-learning-fast-track-mortgage-applications/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/share.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google Cloud launches AI-powered mortgage processing tool"
+    excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."
+    publishedDateTime: 2020-10-20T00:19:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36777/google-cloud-launches-ai-powered-mortgage-processing-tool"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
-secured: "0ljL9bK7y0qmXHQ+kfjVfw7QgAwCcndvKuhwhX+gVZU8/gBYPz0oe/VxOcfbTghxdg9JnMEIPXKAgu7Jhv0WW+BLtgMVlc1vTtWCi7fZs8B2+Tm5ty64HrxXhZdxY3Pd2bPATXtNLLlPfdXzEhGHyS5KSftO1TqMR04kJ8pGiB/u2R0WtjbNCr6cefcRXKi7eIfsvyIO0PBi1YBMdRLy2olz5E9tdvVi0ZYUkTx8/aSlVdPzd4dw3O729Xxo+MybNQ7S9kglveGzwbW7D/qg2mcbGX+Je7SRisQ4Vx1IclzAYrmwl3LZitebzUI64ifII37GQeLIfdiaz8nagXRecawj27uYV0WRMcI90wPVoWar0u1rzpV9wwAx6/2YjpERL+lUBgdQp6N2NYqXIgna0jPOx3DFmiPWaWKJhfFszPYXVQqE0zxpo8BzazkDo05AjJlecDLct90jizrJcn2368GuJd3jnGF0kx/Lsl5uvieaboNEiKoWP/ShkJtmivQaAJmbVcD8ONgS65PXO+FQkA==;4HeQr8hWOrDkU4QBOWRiZw=="
+secured: "qYHTVwXp8MxzgpmNULUbhaN+YCLBXR7Vey4TlCeAjCjmwRtK4vMfLgsAGp8NCpteiPeX2l8pNE6SISXSsxY0n0bGCEh6FVvuAkWFtISIXHLU8fIyZ6mcxiCTSr+eET1++eZg0ECFfUNonXCIIM4TQlLZ12Xr2Z9ps5I93RRskEoNM0xnEhzrZxvALbRXIh3rO2O9CdkyYUyq5BeMVN5vvZkWLTPRj5r73StZsLH9KSl4BVQ3A29gw79co5yS4QVUTkioUG9RDI0r8uHcTtldrLN2nwpik/dAGIwz0RypU3njCG8PfsMGVW+mB9xP1GIW3AVTmK7XQGTGek4mGZ2UiQ+dMIx4IHfLfhRA8voiMjU=;IfqLWpKZaYDHgvGqJQuAjQ=="
 ---
 

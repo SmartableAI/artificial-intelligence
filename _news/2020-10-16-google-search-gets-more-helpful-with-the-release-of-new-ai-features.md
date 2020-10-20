@@ -72,38 +72,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
-    excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
-    publishedDateTime: 2020-10-19T19:00:00Z
-    webUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/"
-    ampWebUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/google-cloud-lending-ai-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
-  - title: "axle ai Brings AI-Powered Media Search to Adobe Creative Cloud Applications"
-    excerpt: "New integrations with Adobe applications for remote teams to debut at Adobe MAX online conference. Boston, MA, USA – October 16, 2020 – axle ai is excited"
-    publishedDateTime: 2020-10-17T01:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17946357/axle-ai-brings-ai-powered-media-search-to-adobe-creative-cloud-applications"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17946357"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17946357"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.getnews.info/wp-content/uploads/2020/10/1602865966.jpeg"
-        width: 468
-        height: 206
-        isCached: true
   - title: "7 Steps to Deploying AI-powered Self-service during the New Normal"
     excerpt: "It’s no surprise that AI-powered self-service is gaining traction with customers. Even before the pandemic created a New Normal, 73% of consumers said they wanted to solve their issues on their own without having to engage with a human customer service agent."
     publishedDateTime: 2020-10-17T04:14:00Z
@@ -132,24 +100,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Google Details How It Uses AI, Machine Learning To Improve Search"
-    excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."
-    publishedDateTime: 2020-10-16T04:14:00Z
-    webUrl: "https://www.mediapost.com/publications/article/356876/google-details-how-it-uses-ai-machine-learning-to.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 36
-  - title: "Google Cloud launches AI-powered mortgage processing tool"
-    excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."
-    publishedDateTime: 2020-10-20T00:19:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36777/google-cloud-launches-ai-powered-mortgage-processing-tool"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "Do8ckHjrqm/cqEt8FYrs/qHULuPeYTfccWGC9gSB1Ep9HojB4E8O0hKg++dlqa8TR5NAo4t6VBAAi/xZpNYxjxV3Jra62wXW5FIE2ZhKswG49N4T/qJ173RXbqjq/m/q603LlWWXxUFMYsIrCm15REglJ+tbQZLy9lnH5pcSKqOPl34JcnlXL5/aU3IscSyFhOcZGUdCjSdRdZ2lltoTMD7eSX5mW2FtX1nJLlccVuvf9KP2Obxk67xIyQlpBF8bh2T1xq9YnvWt2M241nPgraZKoOzdmpca3TTOq7WWc22ufOJj4awjMq8HSCoSNK1PXUKcRHHIdMSJKjSramtVQYhh6uBknrhjk9YG8+UDUt/tfwTAJzBrUC/E1YxavWfbvGx+IVzJ4y+K0YjHA2JQwvaj533E61vYc8K3qljEZWxTYCxd3yOmi5Xm9goczs5iD8yryX4L3jr94n/YNUCcLO0irMckw5yFlCFTTr0G/8aQ74rhsiOWG/y5XyvGSfyHZxQvDZsG/f1AE5B2Y/NPjg==;HaZOzWQfownfhkfQq8xuCA=="
 ---
