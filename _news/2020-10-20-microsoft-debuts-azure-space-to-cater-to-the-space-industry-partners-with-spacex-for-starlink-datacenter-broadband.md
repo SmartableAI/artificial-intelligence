@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches Azure Space initiative; partners with SpaceX"
-    excerpt: "Microsoft is using its 'Amazon is your competitor' playbook to try to win over more satellite partners and customers. It's also launching a new Azure in a shipping container offering called Azure Modular Datacenter."
-    publishedDateTime: 2020-10-20T13:01:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg"
-        width: 798
-        height: 482
-        isCached: true
   - title: "Microsoft partners with SpaceX’s Starlink satellite service for Azure Space cloud platform"
     excerpt: "Microsoft says it’s taking the next giant leap in cloud computing, in partnership with SpaceX and its Starlink broadband satellite constellation."
     publishedDateTime: 2020-10-20T13:13:00Z

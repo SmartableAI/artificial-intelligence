@@ -3,8 +3,8 @@ category: news
 title: "Detect-It LLC Launches Coder-Free Neural Net Life Cycle Management Solution"
 excerpt: "It LLC today launched its smart software product, Detect-It™ Net-Developer. Net-Developer is an enterprise-wide Neural Net Life"
 publishedDateTime: 2020-10-20T14:04:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/detect-it-llc-launches-coder-free-neural-net-life-cycle-management-solution-864729116.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/detect-it-llc-launches-coder-free-neural-net-life-cycle-management-solution-864729116.html"
+originalUrl: "https://www.prnewswire.com/il/news-releases/detect-it-llc-launches-coder-free-neural-net-life-cycle-management-solution-864729116.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/detect-it-llc-launches-coder-free-neural-net-life-cycle-management-solution-864729116.html"
 type: article
 quality: 22
 heat: 22
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "+60XisZ2F3cEQfAPQqc6wcUzs8eUushgc5hGM24cO2iFIGkFtS4VDXzF3hNQXcMnKtAHNZY//x+Kj6CJIPbbLr4j+zwYeHihFuodAKnexuUq8REsWIE/A80EbLZ7/FVU7RjJJyUvZ8C72ycw1o0P6qepelra5pd73n2CAuVUnYNx/phq1HZv2iyx8K7l0QXH+K8WQinoBLRNYcqycu6dmz7jxVtAgWGiWWiIB3T2wRR/M26AKLajiILSXQcn05he9Rc159iJO+s4jSBF9iNk7hbuWMX/ZNRape+n5yt8YXcJ6SYu5FqtY3J52+p+0/gn9GaogAgY2D1UcI88BjC6LXJckB/uszwH0Y4kSpxJHpQ=;ZTUqfjINkrRjw5Kn4hqLKA=="
+secured: "Ruv6o8t/ss+o/IlPGt8qwhPtJ/waLZEbxlJJo4gGI1RGyR3NfsvCCe+bjrBSIfcr3OIIDJpN6lDmxczCnVMtZIVkTOfoRg5oD3b1+xpmvanUCblcttr4V9MPA1zS3YUu8zSSgypZNTgiQHKJv7cIDCgMw4y7JUBqvqf0lOfyncYJXW75dZ63P7TbIkEn4m1C2buUJmNWWgbkcfT8BxHZgFPu5oTXksYoTi622dGZvfiywjfm6yuc/5rx1wn3AEjLnhPqOZTPPrMNYt4Zcqwx1jLzaxPezagWlijRUFZWAJY932YpPwILaw4Iy7zOB4Lg5rHVzSIbAZRBYza67FO/ADufWbR/pxfbVuaTnaCU89s=;gHmxgufrE9VDls0NRM1bmw=="
 ---
 

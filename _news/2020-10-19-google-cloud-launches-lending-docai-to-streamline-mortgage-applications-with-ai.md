@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-doc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/buildingalan.jpg"
         width: 730
         height: 431
-        isCached: true
-  - title: "Google’s Lending DocAI service uses AI to fast-track mortgage applications"
-    excerpt: "Google LLC is jumping into the mortgage industry with the launch of a new artificial intelligence-driven cloud service aimed at helping lenders reduce the time it takes to process loan applications. Announced today,"
-    publishedDateTime: 2020-10-19T13:22:00Z
-    webUrl: "https://siliconangle.com/2020/10/19/googles-lending-docai-service-uses-machine-learning-fast-track-mortgage-applications/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/share.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "9gL9Sv5ie1RzUi8BAGrTTEkH9i49HA6WhYIsiJnuNVWHxLRCtZmsBYsz/861mA6jVaAjlTKCe19lXhPzSIVDDaUabTFrCcTxh66e4Xl5RgGTFrT6iz5daeDwHkFMmn1ueTsasDdvXl1cX7wOF/eju9eh2/aA9SjcsozPOxISRTIGq5IyiAlma1tEyCr7R5Y2khsIJbnLobqLiropK7UaRN5Dk/aOKV2nFPZvI3XhiSoSSX2qeXJ0WEZJhXfE3TZ2lNgFiHMudCoqYWFosnVyDkfoV1Hr8X5/qCc1JE1fHMWwqdASWaR5t8ybJyHQtsrN69u55kagD9NtjUwtmBgp0Ucn2nEz7hursDnlY5SrdqhN9smpRl9VAhKxDlrQxVrthdX8htBaCx1iHa/1FKHsWMcB0hoaEAtz5CR5IsJpdy/CSAkJrHDVoF/EKdlHMj4ddZ/mNpQJeTToPeGhbKBh7v3T+B6NSkOckcK8t/g8VLynQxQ+tUJqNpJj6vWNaBdp144NBZQvQRLpyXNQPFZk/g==;yyMrdZP8lQ8xEVHz+wxGWg=="

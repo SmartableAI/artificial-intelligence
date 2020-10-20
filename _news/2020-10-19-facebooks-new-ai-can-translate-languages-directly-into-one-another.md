@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebooks-ai-can-translate-languages-di
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html"
 type: article
 quality: 106
-heat: 256
+heat: 266
 published: true
 
 provider:
@@ -215,6 +215,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/M2M-100.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Facebook Shares AI-Powered Forecasts of Covid-19 Spread at the County Level in the US"
+    excerpt: "Facebook AI published a paper extensively detailing the techniques ... be integrated into specific reports bound for the European Commission, which the EC’s research team will use to provide a more comprehensive understanding of global hotspots."
+    publishedDateTime: 2020-10-20T17:35:00Z
+    webUrl: "https://www.adweek.com/digital/facebook-shares-ai-powered-forecasts-of-covid-19-spread-at-the-county-level-in-the-us/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 32
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2020/10/FaceboookAICovid19ProjectionUS-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Facebook unveils first AI model capable of translating 100 languages without relying on English as an intermediary translation step"
     excerpt: "Facebook unveiled AI capable of translating 100 languages without relying on English as as an intermediary step, as many systems currently do - making results 90 percent more accurate."

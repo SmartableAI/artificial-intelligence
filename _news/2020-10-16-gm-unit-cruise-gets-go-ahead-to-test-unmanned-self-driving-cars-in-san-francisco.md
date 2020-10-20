@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/gm-unit-cruise-gets-go-ahead-test-unmanned-s
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gm-unit-cruise-gets-go-ahead-test-unmanned-self-driving-cars-san-francisco-3063074?amp=1"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 1024
     height: 740
     isCached: true
-
-related:
-  - title: "San Francisco-based startup uses AI-powered technology to limit wasted time at work"
-    excerpt: "Would you try this? San Francisco-based company says their calendar analyzer can target the wasted work time by tracking your schedule."
-    publishedDateTime: 2020-10-16T00:44:00Z
-    webUrl: "https://abc7news.com/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/"
-    ampWebUrl: "https://abc7news.com/amp/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 51
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7060187_1015220-kgo-woman-on-computer-img_Image_00-00-05,10.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "San Francisco-based startup uses AI-powered tracker to help increase productivity while working from home"
-    excerpt: "Would you let AI keep track of your workflow? San Francisco-based company says their program can limit wasted work time at home by analyzing your schedule."
-    publishedDateTime: 2020-10-16T00:41:00Z
-    webUrl: "https://abc7news.com/technology/sf-based-company-uses-ai-to-limit-wasted-work-time-at-home/7055961/"
-    ampWebUrl: "https://abc7news.com/amp/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 40
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7060187_1015220-kgo-woman-on-computer-img_Image_00-00-05,10.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "iKtOPavS0Tqp21Zc+yq59cgKUV7wPdg8NeIC8lXpSkpr5angXtQ7lPyQL3plZ7f9R6hQTX2eNuwrOygA89I0ZRpNDAJrr8/V1BOkUD0eju4RLCczreMPuWC8DS9z+zdYjHPSf269waRlXv9BtqyACl+PHF8Ijq1Wen7DvJeoNl3B4Ew7hLOW0BUd7rlrOO+uUn55wF7oBux7HX6Akfc3CrjFnlH3huNCh3mgmwgbmgx1cLhExXUBAzWc8zvgInex92sRpiPI3DrvB8DhJpEpcz96RSMT9q6Xwli3XhIKDggES2R19XloE43WLxGh70Uy88tIpZgyOqmirpdwRU/1GbX/NEFjNZKdBXb4VFM4gufUdCZ92D4o889qGvpbk0QZlrrnMCt+lzdA7yUSn3TA1jSsDBPtAcCBZFM7wuXMuvZxEkzVOD/162OxI1AkqO+nbnr4nF8gxv7z+49gGY/Ec05+A2837HnQWjLTpCHUj/aTOVHXGzkzmD0BL7Mmk7mDEsQp/kIUI3vufuIl8v3rLQ==;yiCV+bZB8OEIGtzbhyarHw=="
 ---

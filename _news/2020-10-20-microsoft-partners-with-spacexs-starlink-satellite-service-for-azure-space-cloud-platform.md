@@ -9,8 +9,8 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-sa
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
 type: article
 quality: 94
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: GeekWire
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches Azure Space initiative; partners with SpaceX"
-    excerpt: "Microsoft is using its 'Amazon is your competitor' playbook to try to win over more satellite partners and customers. It's also launching a new Azure in a shipping container offering called Azure Modular Datacenter."
-    publishedDateTime: 2020-10-20T13:01:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg"
-        width: 798
-        height: 482
-        isCached: true
   - title: "Microsoft debuts Azure Space to cater to the space industry, partners with SpaceX for Starlink datacenter broadband"
     excerpt: "Microsoft is taking its Azure cloud computing platform to the final frontier – space. It now has a dedicated business unit called Azure Space for that purpose, made up of industry heavyweights and engineers who are focused on space-sector services including simulation of space missions,"
     publishedDateTime: 2020-10-20T13:13:00Z

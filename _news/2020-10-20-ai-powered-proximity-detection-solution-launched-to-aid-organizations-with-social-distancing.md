@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Blue Hexagon Integrates with AWS Security Hub for AI-powered Cloud Security and Accelerating Digital Transformation of the Global Economy"
-    excerpt: "solution on Amazon Web Services (AWS). Recognized in the 2020 Forbes AI 50 list as one of America’s most promising artificial intelligence (AI) companies, and the Gartner Market Guide for Network Detection and Response, Blue Hexagon is a real-time deep ..."
-    publishedDateTime: 2020-10-20T13:26:00Z
-    webUrl: "https://www.oaoa.com/news/business/blue-hexagon-integrates-with-aws-security-hub-for-ai-powered-cloud-security-and-accelerating-digital/article_5d2a9d7d-1d0e-5e63-b814-ff852d255066.html"
+  - title: "Convolutional Neural Networks Used in Detection Systems are Affected by Visual Illusions"
+    excerpt: "The University of Valencia contributed to a study on visual illusions in artificial neural networks that reveals artificial perception does not remove the biases and subjectivities of the human brain."
+    publishedDateTime: 2020-10-20T14:11:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11719"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11719"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11719"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 21
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 50
     images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
+      - url: "https://www.azorobotics.com/images/news/ImageForNews_11719_16031977340786735.png"
+        width: 1500
+        height: 1123
         isCached: true
 
 secured: "IvRz/EM5NteCteMNFBoHf/P5Evc70pxOD4E5TgWOsAfghJlnEh2Fl/AxU47b2+wafrM2EuL3R7nbNtVni/bFKvmCahWYoSqRU+vieAFNaJmBzH5+gRSplzH/m4fsqwR7/JjkImv3UQNa+w+xWP6ppC9cUlIhtyuISs95PQZKzzkRfjs/IbYGg+SWAO99KL9cWGVvsiMOhXka/wSJJ/lpE0Ex4wSpVJE1+3v8myxuomMVIAAoei/ZThxKPOaOGSj5EjDkuxmLzlcRUQmsUGumxJ7RP4Zj1aMoCuvED6v38H2cGDeZoa9MdP/wuKO/kyHr+90mue7PM/sN5k6z9YynC4fineIfooMYroj/lwxmFtE=;ygjCihiZllQq9nk0d0VOMA=="

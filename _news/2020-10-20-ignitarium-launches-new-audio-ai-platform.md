@@ -35,15 +35,6 @@ related:
         width: 501
         height: 334
         isCached: true
-  - title: "RBC launches AI-guided electronic trading platform"
-    excerpt: "RBC Capital Markets has launched an AI-powered electronic trading platform it claims will help improve results and insights for clients in a \"measurable and explainable way\"."
-    publishedDateTime: 2020-10-16T00:00:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36761/rbc-launches-ai-guided-electronic-trading-platform"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "3mqc3FZ5vS4qA0n7CFdj08qpgGzuSqipE6tuDD4xDCCP3xqVFVwYvh72J+AitBitfoaFWwWBSjicYs+m6REcV5WHw35n9TadaT2DKmAyUZSGHAP4PaRCOpDBBpG7S5HsFPmSDpdAj2VEb/idCFmlZjnmNMcUYhuIwlUlJfFMWTKLBn5DeeBm3WMmjIo4ScjV7SC9F6NKI+lw2O44XzUMvN0uFYrproIV1QqLtIwKv1B29rKVFX2nAU5Uzpyp1KPrTSRlVL5sCVcYvZRqAA//fCN8nrUvPcVTYm/tzbbjTCgqzJ6qX8syP+4sefMe2TwgWKJjqeJ7ZEQy0vIHWL1Q+kI4pAUJ8Ddb35mhaD2adak=;tubMGuLoByM7DrzPkDHaQg=="
 ---

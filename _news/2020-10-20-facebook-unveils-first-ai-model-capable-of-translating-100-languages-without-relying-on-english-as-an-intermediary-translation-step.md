@@ -228,6 +228,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Facebook Shares AI-Powered Forecasts of Covid-19 Spread at the County Level in the US"
+    excerpt: "Facebook AI published a paper extensively detailing the techniques ... be integrated into specific reports bound for the European Commission, which the EC’s research team will use to provide a more comprehensive understanding of global hotspots."
+    publishedDateTime: 2020-10-20T17:35:00Z
+    webUrl: "https://www.adweek.com/digital/facebook-shares-ai-powered-forecasts-of-covid-19-spread-at-the-county-level-in-the-us/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 32
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2020/10/FaceboookAICovid19ProjectionUS-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Facebook unveils translator for 100 languages"
     excerpt: "FACEBOOK on Oct 19 unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages"
     publishedDateTime: 2020-10-20T02:23:00Z

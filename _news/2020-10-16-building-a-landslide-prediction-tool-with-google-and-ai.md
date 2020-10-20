@@ -53,20 +53,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 75
-  - title: "Google’s Lending DocAI service uses AI to fast-track mortgage applications"
-    excerpt: "Google LLC is jumping into the mortgage industry with the launch of a new artificial intelligence-driven cloud service aimed at helping lenders reduce the time it takes to process loan applications. Announced today,"
-    publishedDateTime: 2020-10-19T13:22:00Z
-    webUrl: "https://siliconangle.com/2020/10/19/googles-lending-docai-service-uses-machine-learning-fast-track-mortgage-applications/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/share.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "0i9fqG/YJvhxjyPFgU/26gVBQ6boaB7SyNq5rR//2mOONOrN4NMDeZ1rFviTLHaBvCwuWHSz5TwKmN2rg5Q7NgQpmt4mEXDdMKXPkVunzZwWdGAsDoHRSC52f+i6q2lbYtg15tPQLXgvVS7GgsPnjlsgMjeHe6zu7KifP3Xjws51KB3QsSN+nBTggShWZzGsBkjycu10qtvfGGm0c8jmkSu89N+FgSejSQwsZQLCuOphHPNMCKlunZqiz0VZ5GINIU3IeZp3zagrFIrJCrs3HhS7pBwMqWLvP3QjVODdVEOZmhwHgdV3Z5Ux4/6E4H579gU4wKwQszEHP5dEw8Y1yNs0TZBa/JUYiUggasTN/q5LaybVJIxATGao4B1/7qII8YfePEw8D5er4gkNzVOg99m0NxCMirUP1TgCIyVwJ4oqHRcBTUDeNwJvuCGT8wbp5pI3dZ/t+QBpiXZ7S1dkEcOWnVmK5i/sw7I0s/kpUsyDkratXJQAduC9Z/IA/scEyTEX9M9sZJC0Vjg4zpiiQw==;j47/qUiNN6qcyMyAR4O6aw=="
 ---

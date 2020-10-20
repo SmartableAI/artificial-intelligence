@@ -8,8 +8,8 @@ webUrl: "https://www.allure.com/story/future-of-fragrance-artifical-intelligence
 ampWebUrl: "https://www.allure.com/story/future-of-fragrance-artifical-intelligence/amp"
 cdnAmpWebUrl: "https://www-allure-com.cdn.ampproject.org/c/s/www.allure.com/story/future-of-fragrance-artifical-intelligence/amp"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media.allure.com/photos/5f8c9d7b40b5182cfec81d41/master/pass/future-of-fragrance-lede.jpg"

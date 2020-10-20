@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-transla
 ampWebUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/edurne-chopeitia-5Z8mR4vqJD4-unsplash-e1603118496183.jpg?w=2142"
@@ -90,6 +91,6 @@ related:
         height: 333
         isCached: true
 
-secured: "2V7HOVSC+lGHJE/G6z/XISxOI7YPhZpkuOv2MxuXAmtRvkWTLyb7XC4hfi8reXGBSR8epmdN9jFxIFTsx7K0g/EU+CrUnPJlqfgpZCgs+Po6vSxDB0c4dbfIbKEdQe9/ZKSxYWkI/bNls9GE9bRvWQkzwDKbvmKAh9OVtnAaVDmZlr1zRDIvOnl5CpwNMrcLctMzfxqyhrj1LLwaSeN7BG35BSkzmvr9WMIkcn3y8xobDXp0lSDFcJonLBUOd9teGiffFU5sBEnF3nmWYgNy4RVCTgSVIWidqu9WJEzGJLVEhwx+fLvLPKtBfTBPVW0BGmDdp05ssvpZ/NpOKECgCsWGhNWS67/lAwKxejExOZA=;+PYjKcQFyXfgK7E7oVRfgQ=="
+secured: "HwBsrKNYFPxEyII+2MnnTepWZIXyZUg5m1zEWhVScMY8d3NVEvkbVoXs4ylZ9FRLhsosAnbbCeJUl1K5g7jcWzDQpt77MX3jVM7apKNru80ItKr0Hw08hlRsKlCYhrBSuXwyy+rPOPMDXE1eb1RGBmfNQ+2Rlc4eq39m/rxR2b3zTP5mjejVU+BkDmMdkgaVmeHwADkYpO++YOM2ZWl5WPAz/qhjQSuaeGelV4k2TAcHQFb8n/XAjCQp1zi46CjVv//WmWBtjmcZTC9v3EI/dK+D2XPVHB88mHrgsiBQVw5SkcbHFeJCsy6wh9sI3GPw/PX4Rs2yTtRmX05f1t6K2TIUu86HOjoFL/d1fWe98PrsQ3iCCH4MzyfPdRBuzQ/6LfHorbYsGvyP3sSdu2VIrzHEz4vmo9igZbHyYJLvNAKOQtYnMlOJIOLTwLmjRQ5ooOqc87yZ9iGMRBzUY/IYbktY4lphZepSxEbWf1nlExc7y1Awb3nSC9iMlH8P3uiOL9i1OdnS0WmaM4+T13syyg==;n2Uod3RePE668wWBf31k2g=="
 ---
 

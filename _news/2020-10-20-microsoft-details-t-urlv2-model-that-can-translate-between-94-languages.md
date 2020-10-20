@@ -58,7 +58,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/edurne-chopeitia-5Z8mR4vqJD4-unsplash-e1603118496183.jpg?w=2142"
         width: 2142
@@ -95,6 +95,6 @@ related:
         height: 333
         isCached: true
 
-secured: "cPFDbVSON0VCO1Y0KBu/fVIAUAR0dKbaEdVa0zzWH/zCRNNNjvBGr3aP2QTzIFfvBfLl/VdYe8iEQDK6Y4wsR7pBNFHtpIVNTsaRHMm8zu8o51uOFgz9gCEFbUWEFlRWnCe8yKZOyzJwgSlpv9Wm1kUroCwT4dRJXiCx2NO50T8iyxfOd43LM/1/MlS3lw5mlugZVn8ZpmhsrsyW0E7XGxBk6baqzoONEmgRdSBze5BtmPILEkPi0aUDkgkYTGXzj41XmXl71Kr+GCGj3c5fgVuEj9kGy0chJtOA2PsU10KLFfShYDZhzVgwf9PzZpn58FDRyuWvhBPmnRmdH5DBII2T4CwTGMpzoNdthdG0+zQ=;QTZwPnTSaPsQv0EHMqt9Mg=="
+secured: "DUF09KrwXNYq2Sn5CEhd0d2ADo6/TzqQmXkpVRpaZnBnBIGgKXqQPydoCiMz3mDDYFu7J26FqFVFEHY7X3oyPSehc6tf+byowK+qaYFV7EZ4e38mmF0OBHh/g4sUIxWUcEj86DvWjrgZHN/UNmeYxobZqi2sa8v3MmjrbAJAXe4i/EVVW/YjRIMEGa90Id68LNcOmZBItBMZIwp07uC591II7OtrVpUEr6AARNt7EiDalTCyxcP0lP1+0yIG/75XjRMNxjPfjwV1WPAc5JjxoQXgxcvoTxZ1dxqZg0n+5J5RT/GsFS7dqzgoZ9TNzFnrkYPjjzxjEDZNhAv57bzw81uSHI0iCiQ93KoUmgTtuERYy37HgFa60oL/7ar1JJWja17fEXIUKo8iH7iSh7qXEXwdKw8n1gXVR/R8I9aslTzzKWTOfkULsyLbENKk2fvvdgq5DaV5AklP2fZ9iZjS9k+w0xnz8Se0Dk7iwiKbC7NPORmiyVsKEHH23/iYlGVET2DVrzVu3JpthVEDKO/ZLw==;HgUJ49dPlfnIoTnifyzfyA=="
 ---
 

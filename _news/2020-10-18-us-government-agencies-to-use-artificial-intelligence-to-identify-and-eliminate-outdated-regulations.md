@@ -8,7 +8,7 @@ webUrl: "https://www.stltoday.com/news/national/govt-and-politics/u-s-government
 ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/u-s-government-agencies-to-use-artificial-intelligence-to-identify-and-eliminate-outdated-regulations/article_14bb7778-c854-5376-93f3-e725e0f3435c.amp.html"
 cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/u-s-government-agencies-to-use-artificial-intelligence-to-identify-and-eliminate-outdated-regulations/article_14bb7778-c854-5376-93f3-e725e0f3435c.amp.html"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/ce/dce3b389-00d5-5423-b37f-4537946d215d/5f8c251f902d4.image.jpg?resize=1024%2C491"

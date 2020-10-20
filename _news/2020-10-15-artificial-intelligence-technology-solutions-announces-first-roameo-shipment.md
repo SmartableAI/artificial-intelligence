@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mms.businesswire.com/media/20201015005366/en/790367/23/RAD_Logo_New_Landscape.jpg"

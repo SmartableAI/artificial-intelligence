@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2020/10/building-health-care-ai-in-europes-stric
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,63 @@ images:
     width: 2000
     height: 1125
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence in Healthcare Market"
+    excerpt: "Data Bridge Market Research has recently added a concise research on the Global Artificial Intelligence in Healthcare Market- Industry Trends and Forecast to 2026. Global Artificial Intelligence in Healthcare Market research report has been prepared with ..."
+    publishedDateTime: 2020-10-20T17:49:00Z
+    webUrl: "https://www.openpr.com/news/2166080/global-artificial-intelligence-in-healthcare-market-2020"
+    ampWebUrl: "https://www.openpr.com/amp/2166080/global-artificial-intelligence-in-healthcare-market-2020"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166080/global-artificial-intelligence-in-healthcare-market-2020"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta20814732_g.jpg"
+        width: 599
+        height: 400
+        isCached: true
+  - title: "If we're serious about healthcare equity and access, we must support autonomous AI"
+    excerpt: "In 2019 a record number of U.S. adults (33 percent) said they put off receiving medical care due to cost, according to Gallup's annual Health and Healthcare poll. In 2020, even more people are delaying specialist care during the pandemic."
+    publishedDateTime: 2020-10-17T16:00:00Z
+    webUrl: "https://thehill.com/opinion/healthcare/521522-if-were-serious-about-healthcare-equity-and-access-we-must-support"
+    ampWebUrl: "https://thehill.com/opinion/healthcare/521522-if-were-serious-about-healthcare-equity-and-access-we-must-support?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/healthcare/521522-if-were-serious-about-healthcare-equity-and-access-we-must-support?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 68
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/artificalintelligencegetty.jpg"
+        width: 645
+        height: 363
+        isCached: true
+  - title: "Global healthcare funding hit a record in Q3. Here's how much digital health companies raised"
+    excerpt: "Global healthcare funding soared in the third quarter, hitting a new record of $21.8 billion across 1,539 deals. Here are the sectors drawing the most interest from investors."
+    publishedDateTime: 2020-10-19T15:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/global-healthcare-funding-hit-a-record-q3-here-s-how-much-digital-health-companies-raised"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 43
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1603125241/shutterstock_258863162.jpg/shutterstock_258863162.jpg?n4vB9e49T0dNBMJKLNajpciTEk_Bf1Lo"
+        width: 1000
+        height: 616
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market Bigger Than Expected | Intel Corporation, Nvidia Corporation, Google"
+    excerpt: "Download Free Sample Copy of ‘ Healthcare Artificial Intelligence market’ Report @  Key Segments Studied in the Global Healthcare Artificial Intelligence Market, IBM Corporation, Microsoft Corporation,"
+    publishedDateTime: 2020-10-16T11:01:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/16/healthcare-artificial-intelligence-market-bigger-than-expected-intel-corporation-nvidia-corporation-google/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 14
 
 secured: "P8ljVW8e0o8L1LRQI79r52X6+tm8YY/Mmk0lBnfYdSETCUpBxCvhGSACSFWadgNjJATdsl8jWuXGpYlsOYc/d9aIYNgMUykVUkx5Le/BeTtpq2NWC7+7jUozi9SxQhReIC0GxY4NfrCO46gieK5mgbTefwXt/nw2B4lD0bdCEfmuLNJ4eNs6AgmgMzstBNBHLY4XP6vjm6thcGYmXhgkyS95+PLkNdg/8LUM4CdFXEdm84iNUYSAB7kP9bN3db4G7JP4LghvkyGmyAZW0SASzelUCQpqtbhMBq3FfLODFVYBVenlBEsxp/Fj99VeZWkXuZSuQZSxwsWZI1MtWTuZgnouH60XvoGI3sXm2FhLX9RuGhtyLoZ/T8WeqNxU+iaRc5Q69WXFnpyZPl6N1udmme3dEViY2D+uoHdNE4SzdrE0aArgCvU81xu54EzSogurFuVTNDAP57E4ktn8Fe2jlhx4LXwXMPvVk5itx+Q85nnzngV3c8Rqy3f9iU3AVEL29xL+EzRLgbIoiidxuzh5Tg==;WXPkxMK8TniE179XwgJiTA=="
 ---

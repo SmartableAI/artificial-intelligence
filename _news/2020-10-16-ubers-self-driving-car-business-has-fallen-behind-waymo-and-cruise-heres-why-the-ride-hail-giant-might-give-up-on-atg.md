@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo Has Launched a Self-Driving Taxi Service"
-    excerpt: "The age of the driverless taxi has arrived – at least in parts of Phoenix, Arizona. Self-driving car company Waymo, owned by Google’s parent company Alphabet, announced its autonomous vehicles are now available to the general public (or at least paying customers)."
-    publishedDateTime: 2020-10-16T00:40:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/10/waymo-has-launched-a-self-driving-taxi-service/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/10/waymo-has-launched-a-self-driving-taxi-service/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/waymo-has-launched-a-self-driving-taxi-service/amp/"
+  - title: "Uber’s Self-Driving Car Killed Someone. Why Isn’t Uber Being Charged?"
+    excerpt: "More than two and a half years ago, in Tempe, Arizona, an Uber “self-driving” car crashed into pedestrian Elaine Herzberg, killing her. In mid-September, the safety driver behind the wheel of that car,"
+    publishedDateTime: 2020-10-20T13:00:00Z
+    webUrl: "https://slate.com/technology/2020/10/uber-self-driving-car-death-arizona-vs-vasquez.html"
+    ampWebUrl: "https://slate.com/technology/2020/10/uber-self-driving-car-death-arizona-vs-vasquez.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/10/uber-self-driving-car-death-arizona-vs-vasquez.amp"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 59
+      name: Slate
+      domain: slate.com
+    quality: 44
     images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/16/waymo-self-driving-taxi-1280x678.png"
-        width: 1280
-        height: 678
+      - url: "https://compote.slate.com/images/f05b7c95-a090-4433-961e-12d7762f1d80.jpeg?width=780&height=520&rect=1560x1040&offset=0x0"
+        width: 780
+        height: 520
         isCached: true
 
 secured: "/LrFnLC43Pm6QSLMYE7cHa7Qsy43fnxGrF6AJixllkY7q4VAsgu8W8w8Cm41EcT4eTuY7p0IE7YahkAivzRNCEzW+ff1BWsBakjaJoGm4ler6Xdc5e1nNTwC5o5YAsF/4uf36Tb6707iNxx6YCdbQ0tOLhrkcuohxae8GsCXAzBUKvDju5W9r6OtVcTb2bPsAZt2FyTEAdBydY7auNuOo9vDWeWKSMvbF4Y5GcrOhHxdBqGQcro2KATqMmlDilT59p/ZA5u/EM11rzPl0w8Vobolls4gmHi66sZTIzxcCeNoJiW8/1ps8/ngl5nsThw0eaRfYCLJYlVxhIWC8NJu+MZhq7AG126dWe69KR0si9WsgleAXlKOXY3/FQKgm5eeHLXe8ALUArN1ffNekBdYfFOsDWozDa+g71/X8OkuRVMTqNT4+V1fHBrfjKUB/TTJ0J76ZvsBHkuV5LorcrvRbXyXzl4TqN5bMxKOIhXk0HgztuBlzwTuGLLtT1lxehbF5dPQeo8xiZCfmFDNAKNeEA==;PVsasPWtS+0bopV+hUCh+g=="

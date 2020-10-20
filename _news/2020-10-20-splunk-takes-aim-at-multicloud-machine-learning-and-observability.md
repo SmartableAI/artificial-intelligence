@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-20T13:16:00Z
 originalUrl: "https://siliconangle.com/2020/10/20/splunk-takes-aim-multicloud-machine-learning-observability/"
 webUrl: "https://siliconangle.com/2020/10/20/splunk-takes-aim-multicloud-machine-learning-observability/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/cloud-3843352_1920-geralt-pixabay.jpg"

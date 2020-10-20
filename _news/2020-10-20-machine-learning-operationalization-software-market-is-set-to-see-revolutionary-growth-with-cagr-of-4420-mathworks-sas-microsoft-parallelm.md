@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Telecommunication Market Next Big Thing | Microsoft, Google, IBM, Salesforce"
+    excerpt: "Global AI in Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market The"
+    publishedDateTime: 2020-10-20T17:07:00Z
+    webUrl: "https://www.openpr.com/news/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
+    ampWebUrl: "https://www.openpr.com/amp/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta20699228_g.jpg"
+        width: 535
+        height: 300
+        isCached: true
   - title: "AI in Fintech Market May Set New Growth Story | Microsoft, Google, Salesforce.com"
     excerpt: "Oct 19, 2020<p>Latest Research Study on  Market published by AMA, offers a detailed overview of the factors influencing the global business scope. Global AI in Fintech Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
     publishedDateTime: 2020-10-20T11:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Gro
 webUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Telecommunication Market Next Big Thing | Microsoft, Google, IBM, Salesforce"
+    excerpt: "Global AI in Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market The"
+    publishedDateTime: 2020-10-20T17:07:00Z
+    webUrl: "https://www.openpr.com/news/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
+    ampWebUrl: "https://www.openpr.com/amp/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta20699228_g.jpg"
+        width: 535
+        height: 300
+        isCached: true
   - title: "Machine Learning Operationalization Software Market is set to see Revolutionary growth with CAGR of 44.20% | MathWorks, SAS, Microsoft, ParallelM"
     excerpt: "Latest released the research study on Global Machine Learning Operationalization Software Market , offers a detailed overview of the factors influencing the global business scope. Machine ..."
     publishedDateTime: 2020-10-20T07:30:00Z

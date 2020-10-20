@@ -69,7 +69,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/edurne-chopeitia-5Z8mR4vqJD4-unsplash-e1603118496183.jpg?w=2142"
         width: 2142

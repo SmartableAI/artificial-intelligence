@@ -24,17 +24,6 @@ images:
     height: 288
     isCached: true
 
-related:
-  - title: "AI powered Proximity Detection solution launched to aid organizations with social distancing"
-    excerpt: "The solution is available as part of Ipsotek’s VISuite AI platform, which is powered by a versatile GPU-enabled, deep learning engine. This supports highly customised object classification, detection and tracking capabilities, offering a reliable method ..."
-    publishedDateTime: 2020-10-20T15:49:00Z
-    webUrl: "https://www.continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing?tmpl=component"
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 8
-
 secured: "tbYlNapxxIWhLviEyCkf9l5rG7AE3J98lqu4hocbBksOjfEY7yppywH7IBgDhqsxoXohiVVPAHrwCGp28TMrcqhSjp32KMUuSmzqOB2qtVWAz27ESR80CJWelDgpw1tbQPqGefiWj1GAppJDLjPr/1fPo7aJm6Hod5lDlVfByC2w52F+9BgQrUfC4Peae3eFxacK2Chc3guCKCeSObV1Lk72WdOueBOU7IohGovB56ByO8L0aGS3xnfku9SlVk5W8Np4YtIuE6rHpMuTHQ/4aZ2W/FqtVZU0MBx7T3C5bhuMxJiyg+tEqcNDRNmk5SgKhRU1reZjiz4PdNLpzc3AaUX8rFvbVuL16EvttEyPJYM=;SZFnjsBMTMMmpfSsG8Zt4Q=="
 ---
 

@@ -102,15 +102,6 @@ related:
         width: 457
         height: 305
         isCached: true
-  - title: "Roojoom Designated by Gartner as a 2020 Cool Vendor in AI for Customer Analytics"
-    excerpt: "Roojoom ( has been designated a Cool Vendor by Gartner in a recent report \"Cool Vendors: AI for Customer Analytics\". According to Gartner, \"'Born AI' startups are appearing in the hotly contested area of AI for customer analytics,"
-    publishedDateTime: 2020-10-15T23:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/roojoom-designated-by-gartner-as-a-2020-cool-vendor-in-ai-for-customer-analytics-1029684273"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "ECS Names Aaron Burciaga Senior Director of Artificial Intelligence and Analytics"
     excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Aaron Burciaga has been named senior director of artificial intelligence (AI) and analytics. In this role, Burciaga will work closely with ECS’s national security and intelligence division in the development of AI and machine learning (ML) solutions."
     publishedDateTime: 2020-10-20T12:59:00Z

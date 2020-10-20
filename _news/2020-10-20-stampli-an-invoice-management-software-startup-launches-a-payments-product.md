@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/10/20/stampli-an-invoice-management-soft
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/stampli-an-invoice-management-software-startup-launches-a-payments-product/amp/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechCrunch
@@ -29,6 +29,17 @@ images:
     height: 683
     isCached: true
 
-secured: "tZKEnSWEGAHItZcPPys+YPBS1pjrnP6a4MI9Odwa9jmumnj74Q6unsGQWbVWzb3Hv24RZbDRwZidlEu9XpvqXt30Z+11511bD0KphgCBlOFm/BmUOEl81yeMs2hFADGw88mzOdKbv5FZ6rEnRnTJpiMtB2NBXCwDgNXgrDCoZhXY6WFUoFzhW+saTEANZ848rjbDWxVlAGdTnoZDjctRYgTt9y5CQKrSFk7/rH5ugm748M4TyrjG9RbaZOY8LfyUDpuRx4e1MGgyawAMRYEwJqhyBSzv1eGoQrvv4M2ZzyZm8VrfIEQdRJ53VCebCs082mB+jqNLXs7qQuoljTBG6HayaqNXQPFWnuQNvgmLe5E=;PP1yHj3LDCaAGV2vzcnfdw=="
+related:
+  - title: "Innovaccer Launches Its Patient Relationship Management Solution -- Helping Healthcare Eliminate Barriers to Patient-Centered Care"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently launched its artificial intelligence (AI)-enabled patient relationship management solution to streamline communication between patients and their care teams."
+    publishedDateTime: 2020-10-20T17:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-launches-its-patient-relationship-management-solution-helping-healthcare-eliminate-barriers-to-patient-centered-care-1029700274"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 19
+
+secured: "BnRkwRN2BvTHxBsIOrqL52L3EPZpHTJYq7plT8dY6S8HX4pZNFC6olssVtf1MKNg3GPsuUwlH4wqzYyeJuvqh+Iwe7f0l4KDy5qHG2tXKbMlD+PL8EH7OUpuIsWzrktj/MrEWRULLfDJs0LHEw1C8XKli9IwRjuZbFiec4HHRvzeRXkRUltKK/GwEVVigaV0hDWQm0x9NC8Fw2CvP3SK2UscQ9kzIWMPd0NONO5OIXceZmlO0H7jG9gmGvO31JjaJADLmbJCEXNsPbL2h4+RxQwRJXexUxvs1JSwoDwbLjE2KGgaymPNr7UNt1QUD+bQvZnMirH6ijfBKWv8L2+NOq07owrPNEQH/1AxrKbKvDYsb+2QvlJo4Gl21AKGIeX+hHAxMHu4ciRzv3NmO+mFinUh2p6YjNsbCiTc7p1pvnnjVaC0icxojTw9NSM8zGx527v+gdfXAaPcPv1zhsp4OQz+aySXuHEg5ryJJYAmesmvzWA27oWWodijtYT8MP4YWfLCj9zaUxU8BTVFK04YNg==;lq8GXs8nn+2pIp7bAoaIXg=="
 ---
 

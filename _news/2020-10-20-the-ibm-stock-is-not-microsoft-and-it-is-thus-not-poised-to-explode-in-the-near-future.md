@@ -26,6 +26,54 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure announces its first region in Austria"
+    excerpt: "Microsoft today announced its plans to launch a new data center region in Austria, its first in the country. With nearby Azure regions in Switzerland, Germany, France and a planned new region in northern Italy,"
+    publishedDateTime: 2020-10-20T16:52:00Z
+    webUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/"
+    ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1069481166.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft launches Azure Space initiative; partners with SpaceX"
+    excerpt: "Microsoft is using its 'Amazon is your competitor' playbook to try to win over more satellite partners and customers. It's also launching a new Azure in a shipping container offering called Azure Modular Datacenter."
+    publishedDateTime: 2020-10-20T13:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg"
+        width: 798
+        height: 482
+        isCached: true
+  - title: "Microsoft launches ‘Azure Space’, a cloud computing platform for the space industry"
+    excerpt: "Microsoft has announced the expansion of its cloud computing service Azure to the space industry, under a project named 'Azure Space'."
+    publishedDateTime: 2020-10-20T16:48:00Z
+    webUrl: "https://thetechportal.com/2020/10/20/microsoft-azure-space-launch/"
+    ampWebUrl: "https://thetechportal.com/2020/10/20/microsoft-azure-space-launch/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2020/10/20/microsoft-azure-space-launch/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 68
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2020/10/Microsoft-Azure-Space-e1603209411390.jpg"
+        width: 1368
+        height: 713
+        isCached: true
   - title: "Microsoft Teams will use artificial intelligence to better reduce background noises in video conferences"
     excerpt: "During the coronavirus pandemic, co-workers connect via video conferencing. Microsoft's Teams has a new feature coming to reduce background noises."
     publishedDateTime: 2020-10-19T20:10:00Z

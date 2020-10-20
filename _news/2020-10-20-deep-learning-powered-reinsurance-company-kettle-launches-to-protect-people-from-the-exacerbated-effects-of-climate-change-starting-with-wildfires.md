@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Deep-Learning Powered Reinsurance Company Kettle Launches to Protect People From the Exacerbated Effects of Climate Change, Starting with Wildfires"
-excerpt: "Kettle, the reinsurance startup that uses advanced deep learning to better protect people from the growing risks associated with climate change, such as California's wildfires, today announced its seed financing round."
-publishedDateTime: 2020-10-20T15:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-powered-reinsurance-company-kettle-launches-to-protect-people-from-the-exacerbated-effects-of-climate-change-starting-with-wildfires-1029699835"
-webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-powered-reinsurance-company-kettle-launches-to-protect-people-from-the-exacerbated-effects-of-climate-change-starting-with-wildfires-1029699835"
+excerpt: "Kettle, the reinsurance startup that uses advanced deep learning to better protect people from the growing risks associated with climate change, such as California’s wildfires, today announced its seed financing round."
+publishedDateTime: 2020-10-20T15:07:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-climate-environment-and-nature-climate-change-9df628e11f2d10aaad9d16e358dd52e5"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-climate-environment-and-nature-climate-change-9df628e11f2d10aaad9d16e358dd52e5"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "WAWxC2NLmvmPQ+SywY5KNCZ8c8nyP3NYLQGn1bh30yUTHe23yQEJYiDGM3E42IgJc+iqYHuzuPeJbmjgbdmT8h2nu5l49zOmmSLeBthHVgAmdKCz+Wta6hNhXUJ6nR0KScOsxuWbl8V/qrpEDhyuP5rFr2Ka1pAC0RDYkHmekwwvEMjzDeXUu7QJbGebkiQ7ot2WOZHYAgCUhdLIFMeklhvSNZvSvXdFXcjkJqwt3YsIzM1/ojkl4cEdyivLH16HJzwAUusAy/jgVpPyHAxA1YUm9a5Pm6wUch63c335YdoDHyTKAg9xFlH2IxBdHn3rxralJkRaGm2V2a4ypViQ4wPbBsQGZ4S9a8i+iWf2h60=;uFCK5w4LuBdmJmXQqOVJnA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "9QfnR4P7ua/u0c6Vm/+Vuq4B0DlQW7MqVlikEA4Jy2xo8jczmGUp1CH2mseTJjM/NSy+1b/3mFFZngnqCSkgn5+vbJHEnhIW8LvHmzZ3q10hfrK43cc7c3nl/oC/pJnkicUG/b83UtjcC3sbdSTEHLNlL4gy8kp3EA0QWV3SpubfBahiZyM+/5eAN73qc1oVl+9Fb02dG8BMof7mt8DFiZ1okaFsmKXUjppx7OhyJjz2kRskZRDTeb2rrE9lKL3T54pN321uo3FBKlpJRxz6Zl18Y4G582FTPNYDGH4nhPsMHatNR6DSPL3nCfBB0Iiqmd0SJBYebhAgLOIWp72MX5rKJ1Jt1K9c8McHiabGgNQ=;JJtBuZA1H9kaoSzPhMtnig=="
 ---
 

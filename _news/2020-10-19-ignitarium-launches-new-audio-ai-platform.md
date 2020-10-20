@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2163007/ignitarium-launches-new-audio-ai-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2163007/ignitarium-launches-new-audio-ai-platform"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: openpr.com
@@ -36,15 +36,6 @@ related:
       name: PR
       domain: pr.com
     quality: 19
-  - title: "RBC launches AI-guided electronic trading platform"
-    excerpt: "RBC Capital Markets has launched an AI-powered electronic trading platform it claims will help improve results and insights for clients in a \"measurable and explainable way\"."
-    publishedDateTime: 2020-10-16T00:00:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36761/rbc-launches-ai-guided-electronic-trading-platform"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "4ZMEdH1nMRPDSjP++r8G3do3JD9z35Ki7dvE2CHIMCbSD/1OQGdqo3EV43WXEiIQgGnEv73nWV76govkY5btRD8vB5Fz6gDVnBfW7W/F9273UG1FgNL6Emh/mrir+rsssvqMYvBcMGdHPIQx84942+tpeHbAyRlG+K1lXDGt54nkeHOTtZCc8P5eGIPFZ2MFzC23Td6TGp4UZ+2lfqtgS1uoEWtGa7K8uMrYczWZUbVmb9Potel+07CcYnWGbbKrBZtHeT7PscIJsA4o8W/Vq/fxnF2QenuPtrDMxczd+lrbr/6ZztWKiLchLVJ02W8eBK6ZNNjBSb+9xSZ1TGJVagnNcuwDpV9rpGxyetXN/MaZZeD//iKdGzXMdkhFp2qtKQRy3JHMHLybc6wwPqRrC1opxoG/40rPYMobJ1mdDlL0vEqRPwwKsYbN4RkPyV9Xd9W+bCTzDWRTPLRC6ruBoX8sYiM1FbET4Rcin8aqI6rK9QPdTHE36xFsKzohew/mQfbJMwp49gTAUcvfRj40Fw==;gw5JVWq4HFtT4imBPoFCFQ=="
 ---

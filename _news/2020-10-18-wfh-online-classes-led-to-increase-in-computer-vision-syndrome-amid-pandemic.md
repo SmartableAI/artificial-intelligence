@@ -1,29 +1,29 @@
 ---
 category: news
 title: "WFH, online classes led to increase in Computer Vision Syndrome amid pandemic"
-excerpt: "The webinar was organised by Associated Chambers of Commerce and Industry of India as part of their ongoing series on health - 'Illness to Wellness'."
-publishedDateTime: 2020-10-18T09:23:00Z
-originalUrl: "https://www.thestatesman.com/lifestyle/wfh-online-classes-led-increase-computer-vision-syndrome-amid-pandemic-1502930190.html"
-webUrl: "https://www.thestatesman.com/lifestyle/wfh-online-classes-led-increase-computer-vision-syndrome-amid-pandemic-1502930190.html"
-ampWebUrl: "https://www.thestatesman.com/lifestyle/wfh-online-classes-led-increase-computer-vision-syndrome-amid-pandemic-1502930190.html/amp"
-cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/lifestyle/wfh-online-classes-led-increase-computer-vision-syndrome-amid-pandemic-1502930190.html/amp"
+excerpt: "This dependence on gadgets has worsened during the COVID-19 pandemic and led to increased incidents of Computer Vision Syndrome (CVS) or digital eye strain, experts warned during a webinar conducted on 'Eye health care and online practices during COVID-19'."
+publishedDateTime: 2020-10-18T16:25:00Z
+originalUrl: "https://www.indiatvnews.com/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992"
+webUrl: "https://www.indiatvnews.com/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992"
+ampWebUrl: "https://www.indiatvnews.com/amp/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992"
 type: article
 quality: 56
 heat: 66
 published: false
 
 provider:
-  name: The Statesman
-  domain: thestatesman.com
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.thestatesman.com/wp-content/uploads/2020/10/QT-Computer-Vision-Syndrome.jpg"
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/pjimage-20-1603038304.jpg"
     width: 1200
-    height: 800
+    height: 675
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 218
         isCached: true
 
-secured: "KwzjtHHs1wewO7BowSqxaVvp8F8aTLx6DtHygCf07TGejF54VYCJG29QAVbJ3ft34SlE/2t2lJ8mApl9NCO7k4rabRH3R3Qha/qCeX4pfAB7x8/ZlRRIUZ/WEKJ+5Qj4Z6zPATo1tsW38WsS+2MVUgxmhv0PNYknjNfdvWS62xkVbYQEtUGnvwyvJ0jvk5vvyN5vAA9C8GDtiOSNiFXXjlS6xF9sBWiz6PKPnaEABzA7WSxlC9Tbz7yBhpjKggLE00UCgtqEAEXHsFstXEGEupMNa4jRHEgJ+KxNeJLiXN+VtrVQy2cuzEVds8ZTL2sI2SKnKMysJtkCUOfxCJCWIxJll9hJfbLkpS77XHsVXDM=;qK/nr30eH4NuRwHFrB+jGA=="
+secured: "tnH5mT1de7Jh+PNlB6OfIS9xSIiz3sjbLrIpM/hAMqs4+FIFxY1vMrUXFqEnjxac6hjMukk3e1lcRBfskS0wzJcBacpG5GQdwDZCav0VDM4COA/6SBL9f2VZa/v2ALU8KLhPH+ok2e81WjzdCIv7JAfLDh/gX/IaRhDKsHSiroCDL/yiohgbjWNnyfkV/MI5ByYuCsQRDt6hOJE/mD1tnBssa39QXVsCBwQzVmDHk8yPJ8r7QYNPBuhSAvdW2/1e2HrpMl/y8VragRVWT8oH4ZlFD6gHQ2GYC5JIUXGk+g30ZOWMtMkoz1ZQh01Cm8bQr+eLZIO0psmz5L5hWahX0xpAJHhADbuaYQQUOrMqpo4=;qz14iypKE0NddQApWqsoog=="
 ---
 
