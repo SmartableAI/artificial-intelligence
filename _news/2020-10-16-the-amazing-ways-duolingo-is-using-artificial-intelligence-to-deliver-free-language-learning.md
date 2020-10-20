@@ -77,22 +77,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "How Trends In AI, Automation And Emerging Tech Are Poised To Disrupt The 4.6 Trillion Money Markets Industry"
-    excerpt: "As traditional money markets boom to record highs of 4.6 trillion dollars, it is clear investors are looking for safe returns during these times of economic uncertainty."
-    publishedDateTime: 2020-10-16T02:12:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88fe916c7000f90febf4b8%2F0x0.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Meet Q.ai, A Robo Investing App That's Disrupting The Hedge Fund Industry"
     excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking ... Co-Founder and CEO at Q.ai, a Forbes company. Though trading apps like Robinhood democratize financial markets, they don’t allow investors the tools to properly ..."
     publishedDateTime: 2020-10-16T21:16:00Z
@@ -189,6 +173,15 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 37
+  - title: "Artificial Intelligence: Using Affordances can make AI Smarter"
+    excerpt: "A concept from psychology called affordances is being used to improve the capability of AI algorithms. Affordances are simply object properties that list types of actions that can be taken on an object by some some agent that is capabile of performing those actions."
+    publishedDateTime: 2020-10-20T15:09:00Z
+    webUrl: "https://formtek.com/blog/artificial-intelligence-using-affordances-can-make-ai-smarter/"
+    type: article
+    provider:
+      name: formtek.com
+      domain: formtek.com
+    quality: 34
 
 secured: "Ca9CByN3jYh3VLOSrF16sMZXstORNXvJojXeWYw/TRjf0UrA+wPQmJzOKohFVu4GORj8iXwUwsHPGg59xpuvnCE/QY35lhv6WLbzwI88eRZh+/woK7/pPvMCynjOH8UPrQZYZzSCVHLXEquEDTFf8w/TqhwSCJZCqys1eZPsJ2FOMBvFLmSIz8j53qKB0EFxhXZ8bZWlvw0CkL0awDFUtkuaq1EOmhbdcVVZrnj8P6uov0HArISGoTFZZGj2snJEf6mSLCJQqM2EsJv9BbYdmMFsZnQGLpdEx/TcT8hitkIQJGrsbK1v+AoTcpLwKjP7lZqc0DVmVCQ/4mVyxMlr9MQu0dhwPg2gR332ydFcq1X0ATBbspSM5uxoJ+dBEVD0T+pihaXXzgOngyJ+Gx8ApELyerS6x7SqoYdBhSLLL1j+mSTiH2+KHED197WprvuM9pivI6dOT1MEyPBJg7NZNvFukVafqySFqwBPhQnJ/X2/IuPWYd0PiM11cgvXmHOIfba38NQayTc0qV4rJIs7zg==;uCGtLBYdCdg3Zd348cp41w=="
 ---

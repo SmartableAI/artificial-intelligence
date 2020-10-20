@@ -63,22 +63,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "How Trends In AI, Automation And Emerging Tech Are Poised To Disrupt The 4.6 Trillion Money Markets Industry"
-    excerpt: "As traditional money markets boom to record highs of 4.6 trillion dollars, it is clear investors are looking for safe returns during these times of economic uncertainty."
-    publishedDateTime: 2020-10-16T02:12:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88fe916c7000f90febf4b8%2F0x0.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
     excerpt: "When it's time to learn a new language, Duolingo offers a fun, interactive learning experience through its cross-platform app that's powered by artificial intelligence (AI)."
     publishedDateTime: 2020-10-16T04:36:00Z
@@ -189,6 +173,15 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 37
+  - title: "Artificial Intelligence: Using Affordances can make AI Smarter"
+    excerpt: "A concept from psychology called affordances is being used to improve the capability of AI algorithms. Affordances are simply object properties that list types of actions that can be taken on an object by some some agent that is capabile of performing those actions."
+    publishedDateTime: 2020-10-20T15:09:00Z
+    webUrl: "https://formtek.com/blog/artificial-intelligence-using-affordances-can-make-ai-smarter/"
+    type: article
+    provider:
+      name: formtek.com
+      domain: formtek.com
+    quality: 34
 
 secured: "ZzMHSmmj5iHzbPIS63pkCZjacH45h3S6mMTVJg6/OAYK2sddQHPSRJDj8lrr0EIaGIDlDoO+dDWvhOt7E3sZqeqZRGiA8t2hbMXuVOaxCMGgRoOE2dD7OjZRAmMTUrme9yxaRFJ0g5ONbsXPGIW3wDQ9kF3co+xmeZ4bc66s2Rn640ISyBuC0wK7f3dCzXqUYW50QVmW2w9O+/NGZ5GqCH+X1VI9mqkgFwZvf+6f5qIsc+1CmimjhN/1x1SGhPBTOM0S2vBHNic60zu5Jz3vWJQPTPXl26phppTFgbyFYSLa3+6ljFMUDQbNnX7oXxgfVbJXvMWcc8hh+uXcaQCX/tJdiAWyt2Kw3H61c/bv4izrbNP3lPiL0Q1S53694OkhJvnSEZTk68534FrHFFv5dg9pXLoxgeRHPaYILpEjAmGo35sJySTSOYnBTbSW/I97hnzXtTx4CPwD76c1kBK8R5UldUa9CN7kBst8LW6RH1oi0/rRwh0nO2/B634AHdzcV6kuQMn43fqsqlkVayjNCA==;WLP9hCD8mvtnjXe30sjOeA=="
 ---

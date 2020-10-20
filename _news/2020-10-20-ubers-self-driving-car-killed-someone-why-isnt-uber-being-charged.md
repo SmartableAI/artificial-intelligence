@@ -9,7 +9,7 @@ ampWebUrl: "https://slate.com/technology/2020/10/uber-self-driving-car-death-ari
 cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/10/uber-self-driving-car-death-arizona-vs-vasquez.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 780
     height: 520
     isCached: true
-
-related:
-  - title: "Uber's self-driving-car business has fallen behind Waymo and Cruise — here's why the ride-hail giant might give up on ATG"
-    excerpt: "After the indictment of a former executive and a fatal crash, insiders, investors, and experts question whether Uber ATG can turn things around."
-    publishedDateTime: 2020-10-16T01:09:00Z
-    webUrl: "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/5f886decd260780019341961?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "P0mzl8eOAqqqWoOrLW1JIWaTG1lbuMmkAV36SuJSrSXFDzKn/s227BSTM8pAzaTKEI8cUavn5PnJRjJVJhGWIQTTXZObI40kMpajynYkDfkYV2tr6BkixVjzegrDyDO+RIjv7XgVCleAbcUEqg+3BQrt89jGfD2mRSd2D24bD65xoZ4+ciEdSi/gXJGWF4p1cfEIoditYHS57Bs5LMt54pbRJv8wj8+952LyWklr7qiBt6cRRgDcaJqfW+JVC8nbaVPQjYvfELp1vWD4AJVANjEm4Monzcv7LuH+537c1adCMqGLZoQq0CoIbSC2Ig1txw6uJgSxgMdm4puIUnBCUrQwvsNV09YiPY4TbVD6Rv8=;6wAx6xnxZXvG3z2mHS2mOw=="
 ---

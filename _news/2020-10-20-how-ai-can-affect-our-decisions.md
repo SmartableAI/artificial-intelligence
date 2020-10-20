@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI can affect our choices and decisions"
+    excerpt: "Although AI technology has miles to go to develop social skills on par with ours, some AI has shown impressive language understanding and can complete relatively complex interactive tasks. In several 2018 demonstrations,"
+    publishedDateTime: 2020-10-20T18:36:00Z
+    webUrl: "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/"
+    ampWebUrl: "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/?amp"
+    cdnAmpWebUrl: "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/?amp"
+    type: article
+    provider:
+      name: Cosmos
+      domain: cosmosmagazine.com
+    quality: 59
+    images:
+      - url: "https://cosmosmagazine.com/wp-content/uploads/2020/10/201021_ai-affecting-decisions.jpg"
+        width: 1200
+        height: 685
+        isCached: true
   - title: "Hey Google … what movie should I watch today? How AI can affect our decisions"
     excerpt: "Leading tech companies are increasingly using AI to influence our behaviour. But how persuasive do we find virtual assistants?"
     publishedDateTime: 2020-10-18T19:06:00Z

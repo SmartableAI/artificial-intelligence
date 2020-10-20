@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/20/21517616/adobe-phot
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/adobe-neural-filtes.gif"
         width: 600
         height: 338
+        isCached: true
+  - title: "NVIDIA's AI-Infused Photoshop Neural Filters Can Make Complex Edits Like Facial Aging Quick And Easy"
+    excerpt: "NVIDIA is introducing GPU-accelerated neural filters to Adobe Photoshop, which leverage artificial intelligence and its GeForce RTX GPUs to potentially speed up what would otherwise be long, tedious edits."
+    publishedDateTime: 2020-10-20T17:58:00Z
+    webUrl: "https://hothardware.com/news/nvidia-ai-neural-filters-adobe-photoshop-complex-edits-easy"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ai-neural-filters-adobe-photoshop-complex-edits-easy"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-neural-filters-adobe-photoshop-complex-edits-easy"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 46
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53183/content/small_nvidia-ai-filter-photoshop.jpg"
+        width: 708
+        height: 376
         isCached: true
 
 secured: "uuQTiZDRRsIke/SRLNs6MFrLLigMB1uQqb3P5dDE9xgChCVxq2HejRhn20TA86sYo8DzW5bB7++YdWVu+becAwbp5YyVIwUCBWJdeB0CTab31oKvEgd5UBSAmNNODcLUXMwAExYSYJak1KMsrQj+WrVxwBgPW4Z994p9Fi4H0aWSdWLHHTx7V/nirw1W7qa9K2b6l+HRAGar65Ks9y8FbV+v/3ZqJtgXrCfgWXgldU8mXDm40Wso1feqkXH43E3xzSxMlBo+VW3ypuMkkwyepY0nM17xtVoDeXrtgXSpCCpcwYN0k/p9TzgXXG1uzprNLA4kVFyvW2zN6SppeYY+UeBz94W03BwTgFF8BsYj/dXUTmnfKYxRS/ljMghS6Msyv9K1V+miZ9CigLLnWhbA5BwgPwUEHVU8kneNh7CekXBKK0MO+bIz3IWnNSDlATAGkifPGXefnhSzUcSVhRqgB949FtqEGfAkOgKAKyq/n8sS4QqYAtFgRFdwhjgjrlTGEnyJrn9IdXkUDByc0Skv4w==;iSKQbgl1mUciojwmrqtu3Q=="

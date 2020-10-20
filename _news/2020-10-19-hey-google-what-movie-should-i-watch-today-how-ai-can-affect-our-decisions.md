@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/hey-google-what-movie-should-i-watch
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/hey-google-what-movie-should-i-watch-today-how-ai-can-affect-our-decisions-141783"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI can affect our choices and decisions"
+    excerpt: "Although AI technology has miles to go to develop social skills on par with ours, some AI has shown impressive language understanding and can complete relatively complex interactive tasks. In several 2018 demonstrations,"
+    publishedDateTime: 2020-10-20T18:36:00Z
+    webUrl: "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/"
+    ampWebUrl: "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/?amp"
+    cdnAmpWebUrl: "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/?amp"
+    type: article
+    provider:
+      name: Cosmos
+      domain: cosmosmagazine.com
+    quality: 59
+    images:
+      - url: "https://cosmosmagazine.com/wp-content/uploads/2020/10/201021_ai-affecting-decisions.jpg"
+        width: 1200
+        height: 685
+        isCached: true
   - title: "How AI Can Affect Our Decisions"
     excerpt: "Have you ever used Google Assistant, Apple’s Siri or Amazon Alexa to make decisions for you? Perhaps you asked it what new movies have good reviews, or to recommend a cool restaurant in your neighbourhood."
     publishedDateTime: 2020-10-20T00:06:00Z

@@ -94,6 +94,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "NVIDIA's AI-Infused Photoshop Neural Filters Can Make Complex Edits Like Facial Aging Quick And Easy"
+    excerpt: "NVIDIA is introducing GPU-accelerated neural filters to Adobe Photoshop, which leverage artificial intelligence and its GeForce RTX GPUs to potentially speed up what would otherwise be long, tedious edits."
+    publishedDateTime: 2020-10-20T17:58:00Z
+    webUrl: "https://hothardware.com/news/nvidia-ai-neural-filters-adobe-photoshop-complex-edits-easy"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ai-neural-filters-adobe-photoshop-complex-edits-easy"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-neural-filters-adobe-photoshop-complex-edits-easy"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 46
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53183/content/small_nvidia-ai-filter-photoshop.jpg"
+        width: 708
+        height: 376
+        isCached: true
 
 secured: "ObWTuUlPMzBM+eWnSWU3NAAHdluQKm9i60UTkWaCvqh4wcfdThnqZPWweFDXvEQwzu3J2jjnET+voq5trzG5KpfX7wST/ZfsKVPCg8yYc65ZAlFo4Zu/xBbmwITrUwHeTa4U8JM8OLuIyDfC+Cm5F1bNdqzGZB/2MzaFbO3wl63jYg3pbqngRsYAi4sI4KI656ZzFo9hgJsklbF6FUXyZp7jRhsfVvF06CTxKLY8BwsiryWcj6J1vPQLAhA2LyC7iKT29MNasHT/J2/W2I6uwYwL6VnRSm5c6O5UNLROX5vrda3wtwHo8zYhsFVnCMPzPYGBt5x9SIEj/aKT72kNShF0PCjsr4aPiN2tVbAdkbsNUeZAeumlleyoq4RcNuHJD5cS7G8OkmkB9aEcWf/QXAvJZ2CA7/HLiRDUNAziR+HdHdTjvuA3TjbQuMeMQlfySVG8fjlb4z+UIRbBV43h6jr0imWFCnC0CmyMNOKV8la0TD9nPwnnbo3Hxcp+rBagNLuciBUOgzCNAhmulQepMw==;y1FHr2sgb9T/Z4WodC8AxA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php
 webUrl: "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: EurekAlert!
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Predicting COVID-19 Outcomes with Artificial Intelligence, EHR Data"
+    excerpt: "A simple artificial intelligence model analyzes EHR data to accurately predict favorable outcomes in COVID-19 patients."
+    publishedDateTime: 2020-10-20T18:47:00Z
+    webUrl: "https://healthitanalytics.com/news/predicting-covid-19-outcomes-with-artificial-intelligence-ehr-data"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-09-30-GettyImages-974742772.png"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence Services Market Growth Statistics Report 2020-30: Covid 19 Growth And Change"
     excerpt: "id=3207 The artificial intelligence (AI) services market consists of sales of AI and related services that are used in telecommunications, government, retail, defense and healthcare. Companies in the artificial intelligence market provide outsourced ..."
     publishedDateTime: 2020-10-20T04:45:00Z

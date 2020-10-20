@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "'AIZEN' AI banking-as-a-Service, Empowering data platform to launch lending services"
+    excerpt: "The financial services industry has seen drastic technology-led changes over the past few years. While some of the big tech giants have launched their own Fintech verticals, there are many brands that are also increasingly looking to offer financial services to their customers."
+    publishedDateTime: 2020-10-20T15:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-1029699791"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1315038/Embedded_finance__AIZEN_s_AI_banking_as_a_Service.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "IBM and ServiceNow helping businesses reduce costs using AI"
     excerpt: "IBM and ServiceNow have expanded their strategic partnership to help companies use artificial intelligence (AI) to automate their IT operations. The joint solution will employ IBM's hybrid cloud software and professional services and ServiceNow's intelligent workflow capabilities,"
     publishedDateTime: 2020-10-16T18:44:00Z
@@ -44,34 +58,6 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1602872906/itpro/ibm_logo.jpg"
         width: 2700
         height: 1411
-        isCached: true
-  - title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
-    excerpt: "IBM. \"By partnering with ServiceNow and their market leading Now Platform, clients will be able to use AI to quickly mitigate unforeseen IT incident costs. Watson AIOps with ServiceNow's Now ..."
-    publishedDateTime: 2020-10-16T01:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
-  - title: "'AIZEN' AI banking-as-a-Service, Empowering data platform to launch lending services"
-    excerpt: "The financial services industry has seen drastic technology-led changes over the past few years. While some of the big tech giants have launched their own Fintech verticals, there are many brands that are also increasingly looking to offer financial services to their customers."
-    publishedDateTime: 2020-10-20T15:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-9412110"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 32
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "IBM, ServiceNow Partnership: AI for IT Service Management"
     excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"

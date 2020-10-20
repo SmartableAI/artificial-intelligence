@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-20T14:17:00Z
 originalUrl: "https://www.investorideas.com/news/2020/technology/10201Global-Artificial-Intelligence-Spending.asp"
 webUrl: "https://www.investorideas.com/news/2020/technology/10201Global-Artificial-Intelligence-Spending.asp"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.investorideas.com/images/top-sectors/news-investorideas.gif"
