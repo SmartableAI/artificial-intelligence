@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft says its AI can describe images 'as well as people do'"
-    excerpt: "In 2016, Google said its artificial intelligence could caption images almost as well as humans, with 94 percent accuracy. Now Microsoft says it’s gone even further: Its researchers have built an AI system that’s even more accurate than humans — so much so that it now sits at the top of the leaderboard for the nocaps image captioning benchmark ."
-    publishedDateTime: 2020-10-15T15:34:00Z
-    webUrl: "https://www.engadget.com/microsoft-azure-ai-image-captions-humans-150040200.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F433d7370-0e2d-11eb-bbcd-ab2a0273c3f2&client=amp-blogside-v2&signature=dbd9fffaae827c8ebdd2c9403d7d67468fc636d2"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Microsoft releases an image-captioning AI algorithm"
     excerpt: "Microsoft makes decoding words, pictures, events and familiar people on social media an easier task for visually impaired people with their accurate AI-captioning technology."
     publishedDateTime: 2020-10-19T17:55:00Z
@@ -59,6 +43,20 @@ related:
       - url: "https://www.technowize.com/wp-content/uploads/2020/10/Microsoft-releases-image-captioning-AI-option-1.jpg"
         width: 600
         height: 600
+        isCached: true
+  - title: "The IBM Stock Is Not Microsoft And It Is Thus Not Poised To Explode In The Near Future"
+    excerpt: "Some investors see strong parallels to Microsoft and think that Big Blue, like Microsoft, will also explode after the now several-year phase of weak performance."
+    publishedDateTime: 2020-10-20T06:38:00Z
+    webUrl: "https://seekingalpha.com/article/4379883-ibm-stock-is-not-microsoft-and-is-thus-not-poised-to-explode-in-near-future"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 33
+    images:
+      - url: "https://static3.seekingalpha.com/uploads/2020/10/18/saupload_16b383eb51b7f0f32148691819aa1805.png"
+        width: 635
+        height: 400
         isCached: true
 
 secured: "lCSAMfr3AwzQh1VsoM3l7m6VX5cqc0IuniFgWFPr9SGSD1C+aZPIrlyaqFH7XEUYjNYMOn4T8gz6uwRZGJMel6xmvydaOVHBTAKtucFUROEcWkHroSiLcmuRjPDtQm5ENk1admOTyHX5GQZ8yE9VpY4kImIdkIHIz0a86+q85G2sb4dKV1sBi+DlTaRduYRa8KJcDp/tn8fjjyIRLwk/cpYlXB6kRUUqzpcXpTSc9srg9mKiCTkhaxvYKPGKGcYa4Vfepc3NyhuOx8nJEM6zcT6s2PWaEej6rWGhPHW5mUOinEyg4GqMpE7jHqTOEnS6K1M05h83CQ6ufUg13r0R4YmHXJNUVvRRXAZAMbvah3kaCfXWPxYZ12Gs+DC6vvAZ+TlKlBoGOHSEqQROZGEXn7ncLWn7oEG6j8TIR4/6uOZiyqmcxdj3atnlrIfhLXjl63jtsAQdL0szly1nrGTwutpULG133/SFt6vg7U6of/q5kldMk2NZeV3NQfFkCxbOt0vd3Nm7xweScEgmHuwvQA==;IC4SEKxi3yCv8oeHrhXdVQ=="

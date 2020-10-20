@@ -85,6 +85,34 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "5th Africa Fintech Summit to be held virtually"
+    excerpt: "This year’s Summit will host over 1,000 attendees and 60+ speakers calling in from 10 different time zones across 6 continents"
+    publishedDateTime: 2020-10-20T08:28:00Z
+    webUrl: "https://www.africa-newsroom.com/press/5th-africa-fintech-summit-to-be-held-virtually"
+    type: article
+    provider:
+      name: APO Group English
+      domain: africa-newsroom.com
+    quality: 24
+    images:
+      - url: "https://www.africa-newsroom.com/addons/shared_addons/themes/apofront/img/logo.png"
+        width: 560
+        height: 214
+        isCached: true
+  - title: "FinHub 973 launches to boost fintech sector in Middle East"
+    excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
+    publishedDateTime: 2020-10-20T08:28:00Z
+    webUrl: "https://www.wamda.com/2020/10/finhub-973-launches-boost-fintech-sector-middle-east"
+    type: article
+    provider:
+      name: wamda.com
+      domain: wamda.com
+    quality: 24
+    images:
+      - url: "https://wamda-prod.s3.amazonaws.com/feature-images/8348f78df8d25ad.jpg"
+        width: 1584
+        height: 1387
+        isCached: true
 
 secured: "z6Pc7x01r8E2MresB8UpTTghLtiuCKyMPQ4POdEkns2RB3OjWHXo8ub5M7Q4zkzjilvzEgYv/Kg6scG38m9NpTRzm7XprdwdjyWq12jXI/fWr9pk27NcZ3ILAk3leFVxP27xhrNmMFJQtc37hlfMCTEBgWg/vuF8CslQ1BkFEw/pgptum+c2ztsvR5JCFeaJga+VI0AKSmAgGsWQcz/1DYE6WtRXxzjQlVFamKgkYKhp3A00oXGnqA6ucCD0CKjKNv87n3eKKkRMmW3h4buDE7lCRbJ+DLvUgkdrl8dFvera9hGWAF6KQ8Vdiz48+XYLvhbM+Fh8UNE3EPUIHhNVRtHIKRYO5pqvn/PTWF8wfpY9objs3ZPdFYztrk0ofuu96dfLeD9I2K3R2cRyBXt0vJcZbg9gsSBfY9VlcMiI2qOgFhGiWe24prTNoRzHTYutFxHk3jkhnw47IUkhObnCTIqUhX/tD2WfuBqild0dMpc2z5H00tYdchdm7RoPEC+tP9NoceMwby0tJeqqffPmjQ==;lpYpH7qx5jaIGBSGjjtgew=="
 ---

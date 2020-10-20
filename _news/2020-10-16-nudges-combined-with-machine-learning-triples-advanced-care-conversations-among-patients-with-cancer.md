@@ -26,22 +26,6 @@ images:
     height: 1920
     isCached: true
 
-related:
-  - title: "Nudges with machine learning triples advanced care conversations among cancer patients"
-    excerpt: "An electronic nudge to clinicians--triggered by an algorithm that used machine learning methods to flag patients with cancer who would most benefit from a conversation around end-of-life goals--tripled the rate of those discussions."
-    publishedDateTime: 2020-10-15T15:04:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uops-nwm101320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "s8qA38OzYfwCBDQz2E1f3a09bc+fgto4o4hVs7aHVuXh2WKDb0HPNK6nAXQZ6DBZh40fB0YHLIy2hGbYKg0/6bdlF9oVgTuip5Zc4oM4oeFqT50E/9CHvXkxjJ+qqja1KJqrL7ur7eG7hwWlp/XTUD6ArKnZpN/v2d+gHLfirFdCPnIV4rHT9rEMQLQB4i0GEM9WLvR5DAaXyJZk1ekkHLt4Up7SeJXXH5XLp4w5RW93Ng+b8EnK0n4HPr4Sp/sviLcBUf9enZoS9YcYamv2N807QK/39r1DmciyqZZYLlwFma4ii7uP0c7naENjZTIYQ/e5xPzPeyIc7N42v9FpwNPnf8x/vNQlwoaZaO1MGrYHWSSnTYf8X92afewaoamFSZXRmbuuMZFpnCzpAmCsqSEMOZs+mmQb55xlbi/d1vm9cHcGUWhyp5toFQFNl6SNTM5scO6OEgHM/8cIqO3K+FvdBK1Ujh6ABbzWRkyweGSrJowTOJdB/dObtisJXAHBFNUjL0JjNCpvrBYQhapF+A==;xH2zIJCZfBhQMH/Im4JdIg=="
 ---
 

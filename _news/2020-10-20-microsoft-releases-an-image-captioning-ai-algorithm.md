@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technowize.com/microsoft-releases-an-image-captioning-ai
 cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Technowize
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft says its AI can describe images 'as well as people do'"
-    excerpt: "In 2016, Google said its artificial intelligence could caption images almost as well as humans, with 94 percent accuracy. Now Microsoft says it’s gone even further: Its researchers have built an AI system that’s even more accurate than humans — so much so that it now sits at the top of the leaderboard for the nocaps image captioning benchmark ."
-    publishedDateTime: 2020-10-15T15:34:00Z
-    webUrl: "https://www.engadget.com/microsoft-azure-ai-image-captions-humans-150040200.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F433d7370-0e2d-11eb-bbcd-ab2a0273c3f2&client=amp-blogside-v2&signature=dbd9fffaae827c8ebdd2c9403d7d67468fc636d2"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Microsoft Teams will use artificial intelligence to better reduce background noises in video conferences"
     excerpt: "During the coronavirus pandemic, co-workers connect via video conferencing. Microsoft's Teams has a new feature coming to reduce background noises."
     publishedDateTime: 2020-10-19T20:10:00Z
@@ -58,6 +42,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/1654aa33-41f4-472f-bec8-8611ce1b3460-Microsoft-Teams-Breakout-Rooms.jpg?auto=webp&crop=1469,826,x0,y22&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The IBM Stock Is Not Microsoft And It Is Thus Not Poised To Explode In The Near Future"
+    excerpt: "Some investors see strong parallels to Microsoft and think that Big Blue, like Microsoft, will also explode after the now several-year phase of weak performance."
+    publishedDateTime: 2020-10-20T06:38:00Z
+    webUrl: "https://seekingalpha.com/article/4379883-ibm-stock-is-not-microsoft-and-is-thus-not-poised-to-explode-in-near-future"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 33
+    images:
+      - url: "https://static3.seekingalpha.com/uploads/2020/10/18/saupload_16b383eb51b7f0f32148691819aa1805.png"
+        width: 635
+        height: 400
         isCached: true
 
 secured: "tOjzivGi/hrHQfKVWdpR9Ome9s57YhUQx2KqGFvZViLCCWNjV5UL6/BZSJrUT/tRqFsUh1rrHnQXWd7019Z8MED8heLTEUJI1ox+8Km5xlYisjXoiJP4cJPuKciepalUUZ66cRe2ZMq/0N0TeWwLjHtWIUPDP+kvUX7QcDRtCclUHp/JDqXXOdVdflDsU/CjW/LkX5KLs5uwHbVBaHUDPyg+V8HMJk2gOm0WD8ol4JqGQEvJGTSi1Gqc8E72Kj0dDQsniXkF6wqVu/Z7aT/E4Kzd5F0u57XSItg+oiDwfek8fCjV174GwAuGpEdaF98nEme/YficgrPvyNAKyeAGNyJ/e7l9Pehv2pYFGGmbKhqs4Se6b4ePUHZl6kkfI18iiXgHsMnJfzEZ+fOxuF58jR5ushQXii0pjhhzb2lv+kh/N8MMeEFZodqfzEq2CrxJBXvVTfslQVqoujUhELYcBfWpHwM5iQvn0JFSOvn1/rCPnZce2tKfXwu/gK3/rsuwR2PyNOggnYvGRGjMIjGrlA==;KrfCNTnr064hCJ1Gr7U/3A=="

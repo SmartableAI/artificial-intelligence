@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-20T07:32:00Z
 originalUrl: "https://analyticsindiamag.com/8-upcoming-webinars-on-artificial-intelligence-to-look-forward-to/"
 webUrl: "https://analyticsindiamag.com/8-upcoming-webinars-on-artificial-intelligence-to-look-forward-to/"
 type: article
-quality: 39
-heat: 39
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/10-Upcoming-Webinars-On-Artificial-Intelligence-To-Look-Forward-To-.jpeg"
@@ -24,6 +26,6 @@ images:
     height: 701
     isCached: true
 
-secured: "wZM1hE2yJtRdEUXCPe2S1X/hlHWceUfeDTYmK3fWaymfhXSuqvva3gNVOstpp2W4CrGzGGFl4r9cAdRWquzHCDaldxqdYnQRC8enNCODtiWCm2zpZXsc9CXdd8rHBapx6sFu20Pm4y+/hS+5IJpsmUkUgWca4ppGe6UgS2Evmd2GlakfKBHflBMEJcP9Vdx6CmatVUefKT9raVkIEE5Sn5NUCgJerX0+DKeGR6+XoVkCrqqpcB5BEu3tCSYTbgZNQ04/C9najeXgJpJ3dudICJVytl1LlaIsJcHmfNkjZDeVqda7wHZ4thAIShttDMa1598hZLegpiqetf5mpNBHyjb0dlbC9h2fmvNdqhTOgK4=;DNl9AzrukLWVwOGlxR0rHw=="
+secured: "cXadolbemfTdWnnH/rRoVf+xab4Hx4zzohedQu8o77PDFj+XVq4nBD8eDgS8zYMyf7bswVNGszyhFxEndXzESR5HezYSbNU3boliivi0BfQFqgvi0r00fVWu5kZpX3WmjYseUfQgfvh7NwkoRQqegp/BZ/QaO2vNtDHeM0Bsmk5/EhBya6oAJWkBUXIq/Nch858SXD+qzUqUgNGtM/Q4F429dwQOmrH5hgHfnQ/AM7c9BtYp7vyUrxMWnjeMfK+ytrlPFNCOIWPM2vfiPcBI3tVARIKHIy8uvOv6//Hkcck6H831daflLGSQV1M+OhgFoHVQ+WO/psQdjrq+ivPEmohaRQ/wKsDU6hyxX2AVVEH3/XNWLB0IdVYPQdfLK0qzp2ePCPFytRLPwq+pcIuofcX0hWUV/PB8WW8yOW36968+NF0rwVqEDDZNzU8hjQpmyKdnR4DkR9cJ4UX1whj8PyFVPcKICuJMoz8oR2FkBdMfsasDPBeMbufhnEWWt7MEVc3VjHfIzDD7+K40tYcFwA==;cGXvo7v3cyMfq0oZRKXHNg=="
 ---
 

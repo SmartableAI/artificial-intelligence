@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-doc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
 type: article
 quality: 83
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/share.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Streamlit launches cloud service to help developers share open-source AI apps"
-    excerpt: "Streamlit Inc., an artificial intelligence startup backed by Google LLC, today launched a service called Streamlit Share that’s designed to make it easier for developers to share their machine learning applications with users."
-    publishedDateTime: 2020-10-15T15:34:00Z
-    webUrl: "https://siliconangle.com/2020/10/15/streamlit-launches-new-cloud-services-help-developers-build-ai-apps/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/streamlit.png"
-        width: 718
-        height: 400
         isCached: true
   - title: "Google Cloud launches AI-powered mortgage processing tool"
     excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."

@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facebook introduces first AI model to translate 100 languages without dependency on English"
+    excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
+    publishedDateTime: 2020-10-20T09:33:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-facebook-ai-translation-model-to-translate-100-languages-658421"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-facebook-ai-translation-model-to-translate-100-languages-658421"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-facebook-ai-translation-model-to-translate-100-languages-658421"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 64
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/facebook-translation-model-1603186388.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facebook unveils machine learning translator for 100..."
     excerpt: "Facebook unveiled AI capable of translating 100 languages without relying on English as as an intermediary step, as many systems currently do - making results 90 percent more accurate."
     publishedDateTime: 2020-10-19T19:19:00Z
@@ -125,6 +141,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Facebook Released a Software-Based Machine Learning for 100 Languages"
+    excerpt: "As per the news report on Monday, Facebook released software-based machine learning. The company said it was the first to be able to transform"
+    publishedDateTime: 2020-10-20T09:18:00Z
+    webUrl: "https://www.phoneworld.com.pk/facebook-released-a-software-based-machine-learning-for-100-languages/"
+    ampWebUrl: "https://www.phoneworld.com.pk/facebook-released-a-software-based-machine-learning-for-100-languages/amp/"
+    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/facebook-released-a-software-based-machine-learning-for-100-languages/amp/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 59
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2020/10/2020_06_02_96672_1591073444._large.jpg"
+        width: 1200
+        height: 620
+        isCached: true
   - title: "Facebook AI can translate directly between any of 100 languages"
     excerpt: "Facebook has developed an AI that can translate directly between any pair of 100 languages without having to go through an English translation first, as many existing systems do"
     publishedDateTime: 2020-10-19T15:09:00Z
@@ -139,19 +171,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook and Carnegie Mellon team up for AI-led energy storage research"
-    excerpt: "Facebook and the Carnegie Mellon University Department of Chemical Engineering are partnering to research how AI can accelerate the discovery of energy storage solutions. The Open Catalyst Project aims to help solve the challenge of building a grid reliant ..."
-    publishedDateTime: 2020-10-15T16:49:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/facebook-and-carnegie-mellon-team-ai-led-energy-storage-research/"
+  - title: "Facebook Unveils AI Translator For 100 Languages Without Relying On English Data"
+    excerpt: "Facebook announced that the MMT model that can directly translate “100×100 languages” in any direction without relying on only English-centric data."
+    publishedDateTime: 2020-10-20T08:15:00Z
+    webUrl: "https://www.republicworld.com/technology-news/social-media-news/facebook-unveils-ai-translator-for-100-languages-without-relying-on-en.html"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 36
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Wind_power_plants_in_Xinjiang_Chi.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/lizde4rkc3wjcfjj_1603181420.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
         isCached: true
   - title: "Facebook AI open-sources its M2M-100 multilingual model to improve translation accuracy"
     excerpt: "In a blog post, Facebook AI researcher Angela Fan explained how ... “We’ll continue to improve our model by incorporating such cutting-edge research, exploring ways to deploy MT systems ..."

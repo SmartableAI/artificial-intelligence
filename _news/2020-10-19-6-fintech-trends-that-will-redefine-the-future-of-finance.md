@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast
 webUrl: "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast-track/article/3105520/6-fintech-trends-will-redefine"
 type: article
 quality: 69
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -88,6 +88,34 @@ related:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-19T154147.289.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "5th Africa Fintech Summit to be held virtually"
+    excerpt: "This year’s Summit will host over 1,000 attendees and 60+ speakers calling in from 10 different time zones across 6 continents"
+    publishedDateTime: 2020-10-20T08:28:00Z
+    webUrl: "https://www.africa-newsroom.com/press/5th-africa-fintech-summit-to-be-held-virtually"
+    type: article
+    provider:
+      name: APO Group English
+      domain: africa-newsroom.com
+    quality: 24
+    images:
+      - url: "https://www.africa-newsroom.com/addons/shared_addons/themes/apofront/img/logo.png"
+        width: 560
+        height: 214
+        isCached: true
+  - title: "FinHub 973 launches to boost fintech sector in Middle East"
+    excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
+    publishedDateTime: 2020-10-20T08:28:00Z
+    webUrl: "https://www.wamda.com/2020/10/finhub-973-launches-boost-fintech-sector-middle-east"
+    type: article
+    provider:
+      name: wamda.com
+      domain: wamda.com
+    quality: 24
+    images:
+      - url: "https://wamda-prod.s3.amazonaws.com/feature-images/8348f78df8d25ad.jpg"
+        width: 1584
+        height: 1387
         isCached: true
 
 secured: "ceY2zzF/wAzF28Bs1ONXniLf8OtQnnuH3WBMId60ntp5/S5NZhKXFNHrj1pCIWTe+l3CLr3MV9DV24Q+vcoi8eGcyVK84hPQ5D5r9L+NLMicRPHOoyVpwDdeZtwF3ThFHJWuMnUwU7hmGWJ0yGryUvp8Wt+ZFDfTtTOpfZ7IqziLw/nsl7QvLiPYiaf1Uqxz17Ao6taUhW28vFfdRfKGgNDDwnl4ZQDWW5AhzrkLF3XGtuv+BCu3lQQP6gKNfpGDPaV5ytbWbjDUg195RBYZuLL28ElKywy2tau+kl//DXa0tfBc2uzPwIbB4yqW0GONywGC2e7Gm03Tq+avCABcuN271PZmEUFf6Vi0DcB8S9PZE+zFqQpLqgH+9VLC9+TLISCvwdx8ABa7qIoz9oDEAEoalF+8xVeYzBZzfxjM8bEGfD2MHT1vjgqMCO3ZeCEs4sGZi9EfFHrFFcNLHOmWOc7yVEpl4JmQQvHUI3n2YOpoEZJ4B74DvBieu0NnawjcHhO37wjVeWlaMN0ol/FvJA==;8XG//HUKXErr+Sb29SEFcg=="

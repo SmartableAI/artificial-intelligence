@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia will power world’s fastest AI supercomputer, to be located in Europe"
-    excerpt: "Nvidia is is going to be powering the world’s fastest AI supercomputer, a new system dubbed ‘Leonardo’ that’s being built by the Italian multi-university consortium CINECA, a global supercomutin leader."
-    publishedDateTime: 2020-10-15T16:04:00Z
-    webUrl: "https://techcrunch.com/2020/10/15/nvidia-will-power-worlds-fastest-ai-supercomputer-to-be-located-in-europe/"
-    ampWebUrl: "https://techcrunch.com/2020/10/15/nvidia-will-power-worlds-fastest-ai-supercomputer-to-be-located-in-europe/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/nvidia-will-power-worlds-fastest-ai-supercomputer-to-be-located-in-europe/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/CINECA.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "CINECA to Build World’s Fastest AI Supercomputer with NVIDIA and Atos"
     excerpt: "Featuring nearly 14,000 NVIDIA Ampere architecture-based GPUs and NVIDIA ® Mellanox ® HDR 200 Gb/s InfiniBand networking, Leonardo will propel Italy as the global leader in AI and high performance computing research and innovation."
     publishedDateTime: 2020-10-15T17:36:00Z
@@ -81,20 +65,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "CINECA to Build World’s Fastest AI Supercomputer with NVIDIA and Atos"
-    excerpt: "NVIDIA today announced that the Italian inter-university consortium CINECA — one of the world’s most important supercomputing centers — will use the company’s accelerated computing platform to build the world’s fastest AI supercomputer."
-    publishedDateTime: 2020-10-15T16:35:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/virus-outbreak-technology-business-science-corporate-news-23b7d28e3115e015fcf1ce2ce8005731"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Italy's Leonardo system to be \"world's fastest AI supercomputer\""
     excerpt: "Italian inter-university consortium CINECA has turned to Atos to build what it calls the world’s fastest AI supercomputer. Leonardo will be able to deliver 10 exaflops of FP16 AI performance when it launches next year,"
     publishedDateTime: 2020-10-16T14:18:00Z

@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM, ServiceNow Partner on AI Effort Aimed at Identifying IT Anomalies"
-    excerpt: "The new offering will combine ServiceNow’s IT Service Management and IT Operations Management systems with IBM’s recently introduced Watson AIOps."
-    publishedDateTime: 2020-10-15T17:00:00Z
-    webUrl: "https://www.wsj.com/articles/ibm-servicenow-partner-on-ai-effort-aimed-at-identifying-it-anomalies-11602763201?mod=business_minor_pos11"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-245239/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "IBM and ServiceNow helping businesses reduce costs using AI"
     excerpt: "IBM and ServiceNow have expanded their strategic partnership to help companies use artificial intelligence (AI) to automate their IT operations. The joint solution will employ IBM's hybrid cloud software and professional services and ServiceNow's intelligent workflow capabilities,"
     publishedDateTime: 2020-10-16T18:44:00Z

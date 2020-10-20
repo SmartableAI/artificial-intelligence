@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.itweb.co.za/content/6GxRKMYJrz1qb3Wj"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/6GxRKMYJrz1qb3Wj"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 816
     height: 459
     isCached: true
-
-related:
-  - title: "Scientists develop 'mini-brains' to help robots recognize pain and to self-repair"
-    excerpt: "Using a brain-inspired approach, scientists have developed a way for robots to have the artificial intelligence (AI) to recognize pain and to self-repair when damaged."
-    publishedDateTime: 2020-10-15T16:40:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201015101812.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 59
 
 secured: "75r+rsCg2RhElfdp3DSoVQz9tQJZanY76xUGc54Gi66s38ReyqwhUykUW7BT4nmYCGGitDnuU1Uo1gVSSxcVsZwa+fkeDN2ew7I4Nlrp+ejBlc3RNA4KTCUFmFzoHog2j1+5RzdAyco9zxr055Bj59oEGwOzsf/UjKBK/sEcyuADWBUjoMaKFMcctoJmHUkP/fBmMsG5l6jGSgsdyaiUhaDvMr8OvcDPzKRG6BStmg7J5ZSnV8UznaJUL9ZqKRd9qtQ90zmIrf5dGEcUWbggnjQVW0urZHpA7rgUOI7hCRRH71x3jlEZFDmzqka4XHpd3YjSSCcYvzp0O3WSfLUQHptOzuQaHKAeseDUOgv6X44=;XdrtrvASJhOwWZsxkp0CuQ=="
 ---
