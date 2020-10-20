@@ -56,6 +56,53 @@
       ]
     },
     {
+      "path": "_news/2020-10-19-4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold.md",
+      "title": "4 AI Stocks That Will Surge in 2021 as Artificial Intelligence Takes Hold",
+      "excerpt": "Artificial intelligence (AI) is creeping into our everyday lives, often without us realizing it. Today, AI can be found in the digital assistants we use such as Apple’s (NASDAQ: AAPL) Siri and Amazon’s (NASDAQ: AMZN) Alexa to check our schedules and search for things on the internet;",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021-1029692688",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021-1029692688",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare",
+        "IBM AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-new-experiments-reveal-why-human-like-robots-creep-us-out.md",
       "title": "New Experiments Reveal Why Human-Like Robots Creep Us Out",
       "excerpt": "Experiments reveal a dynamic process that leads to \"the uncanny valley phenomenon\" with implications for the design of robots and for understanding how we perceive one another as humans.",
@@ -236,7 +283,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1321,58 +1368,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-anand-mahindra-backs-robotics-startup-genrobotics-as-the-latter-ramps-up-its-fight-against-manual-scavenging.md",
-      "title": "Anand Mahindra Backs Robotics Startup Genrobotics as the Latter Ramps up its Fight Against Manual Scavenging",
-      "excerpt": "Genrobotics has raised INR 2.5 crore in Pre Series A funding round from Unicorn India Ventures, Anand Mahindra and SE",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357378",
-      "originalUrl": "https://www.entrepreneur.com/article/357378",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602086404-mahindraedit.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357378",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357378",
-      "publishedDateTime": "2020-10-07T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

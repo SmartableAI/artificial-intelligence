@@ -28,9 +28,9 @@ related:
   - title: "Facebook AI open sources multilingual machine translation model"
     excerpt: "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations."
     publishedDateTime: 2020-10-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    webUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
     type: article
     provider:
       name: ZDNet
@@ -175,7 +175,7 @@ related:
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 29
+    quality: 31
     images:
       - url: "https://i.dailymail.co.uk/1s/2020/10/19/19/wire-34583254-1603131568-544_636x382.jpg"
         width: 636

@@ -8,7 +8,7 @@ webUrl: "https://www.govtech.com/security/Madison-Wis-Leaders-Consider-Facial-Re
 ampWebUrl: "https://www.govtech.com/security/Madison-Wis-Leaders-Consider-Facial-Recognition-Ban.html?AMP"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Madison-Wis-Leaders-Consider-Facial-Recognition-Ban.html?AMP"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"

@@ -8,7 +8,7 @@ webUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/Facebook-unveil
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2020/10/19/19/wire-34583254-1603131568-544_636x382.jpg"
@@ -30,9 +31,9 @@ related:
   - title: "Facebook AI open sources multilingual machine translation model"
     excerpt: "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations."
     publishedDateTime: 2020-10-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    webUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
     type: article
     provider:
       name: ZDNet
@@ -205,6 +206,6 @@ related:
         height: 629
         isCached: true
 
-secured: "d7ibna8epozUyMgK39zR+V3I/bYx1JflxFL97RXfIfrbN3esdHwUqh90WpI0nFllznv3QG8KvcJ/+Xqg1k0iKYhFFCET6/Qg0OvTSJpJ81fBALKh6utGehg/YWhEvIeZs2DA3wmUdizms+DeKIe4qzXuR4PME4BYLvaZqaYLea6R9ZSw/JMMTYCelRgDlD8uZ88cRrTWZpeiriwtW4+KzSErvn43nLVlNLLc+vcjVeK3C9wmMc+nVAzdIX7zML1GQ/1Fk1d3NDLeYCWZugARWtcAbgN0LQ2AzLZES0yM8Yr4iL96v2RddKMafyGx0kNmznhz0IrFuwl32R2T6Nizd+HsyFCIxTAW1Ps6G1CWIEA=;YxeoDtSxPMRgU6LkjT7DXw=="
+secured: "m8nBvV6u5mAdYlJXg0MkhbJKwHCwWfKxCcJYNUcgjmE2jMJoTaDOouUAjED4tgc3S1ybBfkyFk2/E0/JC1OVbwekY3Ldjp3T8qQ2lFkTXLuzmA0BcPo4c5A1ZUXYmfb0GEgI41Dox86uMrZ0Wvx38kb0KATnXLklP5vPb+1ubmFQKmQDC2oUyrJeMhufgXJfwGyyjfP1BWvv0LgrTKnnPu1hVc6cUff+1I0fGaBqy16gGZjAO9uRGJ5UqEWuZiF1lhOGDUEjrHhnUNawGESq7OYUppXYWTJYLaM/HSM3Jp3Mt9/AGfFPaBOhnjzBUQZM5jFhMSjyJrxjann7CoCXkoCVt6lncWhQFKnIRtlomjnbTlknu0OQk3VM5YPp/tN5e3ZLcm7wSK1YPw6wbgcL5L5pY3wVTt+H6MBYAgcYrLlDci7sYJoBwWjn2+BtMAiHBEI3yNp7rywprFuVPTJ925GcUQKEDUAOEUu6bsegg+OZT07HI6pmElp9Wf7seOReeosy/5M1uCBbyzC/9vYQ6w==;1zNAE8C5hnF2e7KtEnN9jg=="
 ---
 

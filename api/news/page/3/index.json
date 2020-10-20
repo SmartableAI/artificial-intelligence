@@ -2,6 +2,160 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-16-duplex-googles-conversational-ai-has-updated-3m-business-listings-since-pandemic.md",
+      "title": "Duplex, Google’s conversational AI, has updated 3M+ business listings since pandemic",
+      "excerpt": "Google today offered an update on the status of Duplex, its A.I. technology that uses natural conversations to get things done — like making restaurant reservations, booking appointments, or updating a Google Business listing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/15/duplex-googles-conversational-a-i-has-updated-3m-business-listings-since-pandemic/",
+      "originalUrl": "https://techcrunch.com/2020/10/15/duplex-googles-conversational-a-i-has-updated-3m-business-listings-since-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-07-at-10.23.51-AM.png?w=1024",
+          "width": 1024,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/15/duplex-googles-conversational-a-i-has-updated-3m-business-listings-since-pandemic/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/duplex-googles-conversational-a-i-has-updated-3m-business-listings-since-pandemic/amp/",
+      "publishedDateTime": "2020-10-15T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-whispers-hearing-aids-use-ai-to-boost-speech-and-reduce-noise.md",
+      "title": "Whisper’s hearing aids use AI to boost speech and reduce noise",
+      "excerpt": "Whisper, a startup developing AI-powered hearing aids that self-tune over time, emerged from stealth today with $50 million. CEO Dwight Crow says the funds will be put toward the company’s go-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/",
+      "originalUrl": "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/content3A2F2Fcom.rarlab.rar.provider2Fexternal_files2FAndroid2Fdata2Fcom.rarlab.rar2Ffiles2F_rartemp_open_16002199995922F_P2I940425202-e1600220152706.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/amp/",
+      "publishedDateTime": "2020-10-15T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-cambridge-technology-attains-aws-well-architected-partner-status.md",
+      "title": "Cambridge Technology Attains AWS Well-Architected Partner Status",
+      "excerpt": "Cambridge Technology Inc, a global business & technology services company, proudly announced that it has achieved the AWS Well-Architected Partner status, recognizing that it has the expertise to deliver Well-Architected reviews for existing application workloads or new applications based on AWS' best practices and guidelines.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-gm-will-test-fully-driverless-cars-in-sf-later-this-year.md",
       "title": "GM will test fully driverless cars in SF later this year",
       "excerpt": "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ...",
@@ -312,7 +466,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1062,159 +1216,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-2020-election-live-updates-trump-has-dwindling-chances-for-a-reset.md",
-      "title": "2020 Election Live Updates: Trump Has Dwindling Chances for a Reset",
-      "excerpt": "Joe Biden raised $383 million in September and entered October with $432 million in the bank. To mobilize Puerto Rican voters in Florida and other states, the Biden campaign is trying to reach Puerto Ricans on the island.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/presidential-polls-trump-biden",
-      "originalUrl": "https://www.nytimes.com/live/2020/10/15/us/trump-vs-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/14/upshot/nateblog-promo/nateblog-promo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/presidential-polls-trump-biden",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/presidential-polls-trump-biden",
-      "publishedDateTime": "2020-10-15T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-virtual-primary-care-startup-98point6-raises-118m-as-pandemic-sparks-demand-for-digital-health-tech.md",
-      "title": "Virtual primary care startup 98point6 raises $118M as pandemic sparks demand for digital health tech",
-      "excerpt": "Demand is through the roof for Seattle telemedicine startup 98point6. The company, which helps facilitate virtual primary care appointments, has seen its membership base skyrocket 274%",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/",
-      "originalUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/20190502_GeekWire_Awards_1195-630x420-1.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/amp/",
-      "publishedDateTime": "2020-10-15T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform.md",
-      "title": "98point6 nabs $112 million for its AI-powered telemedicine platform",
-      "excerpt": "98point6, a telemedicine startup whose platform pairs clinicians with AI to provide text-based care, today closed a $119 million venture funding round. The company says it will use the proceeds to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/",
-      "originalUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/254d1bd4-41d8-4081-8bc9-2f7cb51956b3-e1585848851613.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/amp/",
-      "publishedDateTime": "2020-10-15T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

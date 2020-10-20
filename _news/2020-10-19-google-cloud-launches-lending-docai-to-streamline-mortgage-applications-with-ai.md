@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-doc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
 type: article
 quality: 83
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -117,6 +117,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Google Cloud launches AI-powered mortgage processing tool"
+    excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."
+    publishedDateTime: 2020-10-20T00:19:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36777/google-cloud-launches-ai-powered-mortgage-processing-tool"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "9gL9Sv5ie1RzUi8BAGrTTEkH9i49HA6WhYIsiJnuNVWHxLRCtZmsBYsz/861mA6jVaAjlTKCe19lXhPzSIVDDaUabTFrCcTxh66e4Xl5RgGTFrT6iz5daeDwHkFMmn1ueTsasDdvXl1cX7wOF/eju9eh2/aA9SjcsozPOxISRTIGq5IyiAlma1tEyCr7R5Y2khsIJbnLobqLiropK7UaRN5Dk/aOKV2nFPZvI3XhiSoSSX2qeXJ0WEZJhXfE3TZ2lNgFiHMudCoqYWFosnVyDkfoV1Hr8X5/qCc1JE1fHMWwqdASWaR5t8ybJyHQtsrN69u55kagD9NtjUwtmBgp0Ucn2nEz7hursDnlY5SrdqhN9smpRl9VAhKxDlrQxVrthdX8htBaCx1iHa/1FKHsWMcB0hoaEAtz5CR5IsJpdy/CSAkJrHDVoF/EKdlHMj4ddZ/mNpQJeTToPeGhbKBh7v3T+B6NSkOckcK8t/g8VLynQxQ+tUJqNpJj6vWNaBdp144NBZQvQRLpyXNQPFZk/g==;yyMrdZP8lQ8xEVHz+wxGWg=="
 ---

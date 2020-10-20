@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "LLNL Gets AI Boost with SambaNova Collaboration"
+    excerpt: "Lawrence Livermore National Laboratory (LLNL) has installed a state-of-the-art artificial intelligence (AI) accelerator"
+    publishedDateTime: 2020-10-19T00:00:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/llnl-gets-ai-boost-with-sambanova-collaboration/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/sambanova-llnl_875x.jpg"
+        width: 744
+        height: 425
+        isCached: true
 
 secured: "ZX6Ux0Ua7boa1cSn15UyHSeD/T3Gq/SLESv5DK0jBsahR4oR2HKFEgHdvyecBpFtZuk1MlHL+4W2TP0gF5xv01O1muYNXWsz8G2IaCLUe97olKYNC0Tct76+JkA41msd5YTY7T3QDUclJcI1g9nEz7shSoHevljGILEMqwTmhycyfhrr/ocFmMeeosaNhbC9i/ZqmyTP5z/b4cXtxVmCWPawjugqvbyfbo4AKshNQlAVuzZ36P1672x/WqFgiiJQUsRpuPecPh2yAECquTVM0UmJ6ZWMD7fn+jQxVGu8yu4oPfNUf7om0Je0iapuuQB3OwZCnQhAtWZ/t232q7n256WAazHAsF1aOh1yy54HH5w=;HQw8l7gk7MYYJboYBktRbg=="
 ---

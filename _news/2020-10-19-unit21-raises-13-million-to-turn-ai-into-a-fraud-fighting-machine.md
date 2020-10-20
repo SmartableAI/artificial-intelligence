@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-ai-
 ampWebUrl: "https://venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine/amp/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: VentureBeat
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&#038;strip=all"
@@ -45,20 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Balto closes $10M in funding to optimize contact center operations with AI"
-    excerpt: "Balto Inc., a startup competing in the crowded contact center analytics market, today divulged that it has closed a $10 million investment led by Sierra Ventures. Sierra Ventures"
-    publishedDateTime: 2020-10-15T20:38:00Z
-    webUrl: "https://siliconangle.com/2020/10/15/balto-closes-10m-funding-optimize-contact-center-operations-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/balto.png"
-        width: 718
-        height: 400
         isCached: true
 
 secured: "Y2mmYpVXX/sySOQ76jXhLAnhsXihGvtM/mn2FgIbGVeUxshraOpd4ZFw8Eic3qfJAozi+TBKwE865B1EvjdrHY8BwNXyyT2IQW6BPvcVNGCz1t2uC2jvb5+MWxuL72oZL/FLi2mjoizcUJydnFhFctgZTxUeDDnZkvkdVp91E38vPIiBKNRJx/jTccak0YP6a7yd7kOXBxEzf2IRiW+ISrhK66oKzu2Jeju30vUh6rKMqsPu1J0XX5Sq4QjNINJTLR0EbL92zBy6dEFqh20KRixlJFCWcXU71+NRRLMNgjcBotCF7Yx+Tr1irxV5LgcQtqH3If9vvR9F2EWCTQMbM2qKUPKB/pzxXMBbq7TLEl7ZuSZAMjoCuZ7IZq38nXehEvUJJFR/Q88GV++Cb41a0nwdaGardluRpQ7som9DERFuCZ8IdcWAQeV38bYSDMCm+lmTzfdqZH1ZUSqNkZCZSzu8wfuCui/9LHLTq6ha9mNBMq1tiBpPJ1y7FlJssGSDYl9qtsijT99UpZbqlP8LDw==;QI4B/BmgBaYMXY/doAqdkw=="

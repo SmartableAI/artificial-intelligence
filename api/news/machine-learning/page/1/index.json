@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-19-unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine.md",
+      "title": "Unit21 raises $13 million to turn AI into a fraud-fighting machine",
+      "excerpt": "Unit21, a startup providing a no-code service that monitors ... Gradient Ventures, Google’s AI venture fund, contributed to Unit21’s tranche with participation from Core VC, South Park Commons ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine/",
+      "originalUrl": "https://venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine/amp/",
+      "publishedDateTime": "2020-10-19T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-ai-methods-of-analysing-social-networks-find-new-cell-types-in-tissue.md",
       "title": "AI methods of analysing social networks find new cell types in tissue",
       "excerpt": "In situ sequencing enables gene activity inside body tissues to be depicted in microscope images. To facilitate interpretation of the vast quantities of information generated, Uppsala University researchers have now developed an entirely new method of image analysis.",
@@ -288,7 +340,7 @@
       "originalUrl": "https://www.openpr.com/news/2162808/artificial-intelligence-advanced-machine-learning-market",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -612,19 +664,19 @@
     {
       "path": "_news/2020-10-15-deep-neural-networks-show-promise-for-predicting-future-self-harm-based-on-clinical-notes.md",
       "title": "Deep neural networks show promise for predicting future self-harm based on clinical notes",
-      "excerpt": "The team used complex artificial neural networks, a form of artificial intelligence also known as deep learning, to analyze unstructured, textual data in the electronic health record. Deep ...",
+      "excerpt": "Medical University of South Carolina researchers report in JMIR Medical Informatics that they have developed deep learning models to predict intentional self-harm based on information in clinical notes.",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.html",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/muos-dnn101420.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/muos-dnn101420.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/2-deepneuralne.jpg",
-          "width": 720,
-          "height": 480,
+          "url": "https://www.eurekalert.org/multimedia/pub/web/245954_web.jpg",
+          "width": 300,
+          "height": 345,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -632,13 +684,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.amp",
-      "publishedDateTime": "2020-10-14T15:40:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T14:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -924,8 +976,8 @@
       "title": "MakinaRocks research published by Deep Learning sector’s premier conference, ICLR 2020",
       "excerpt": "MakinaRocks (  a startup specializing in industrial AI solutions, announced on October 13th, the success of their RaPP-based anomaly detection research paper, selected and published by the International Conference on Learning Representations (ICLR),",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e/gallery/afc3d835fc99d2f97122f85de43642a3",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e/gallery/afc3d835fc99d2f97122f85de43642a3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1331,58 +1383,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-how-machine-learning-will-boost-5g-network-performance.md",
-      "title": "How Machine Learning Will Boost 5G Network Performance",
-      "excerpt": "Such a complex network requires a simplified solution, and deploying artificial intelligence (AI) and machine learning (ML) to solve these problems could be the solution carriers need to ensure they remain in control of their networks. AI/ML solutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/how-machine-learning-will-boost-5g-network-performance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/how-machine-learning-will-boost-5g-network-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21e3261972181a26004bbf%2F0x0.jpg",
-          "width": 1199,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/how-machine-learning-will-boost-5g-network-performance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/09/how-machine-learning-will-boost-5g-network-performance/amp/",
-      "publishedDateTime": "2020-10-09T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-04-ndivision-inc-lane-sorgen-appointed-to-chief-revenue-officer.md",
+      "title": "nDivision Inc. Lane Sorgen Appointed to Chief Revenue Officer",
+      "excerpt": "DALLAS, TX / ACCESSWIRE / September 3, 2020 / nDivision Inc. (OTCQB:NDVN), the experts in using “digital labor” to reduce costs and increase service levels, today announced the appointment of Lane Sorgen to Chief Revenue Officer.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
+      "originalUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos.md",
       "title": "AI researchers use heartbeat detection to identify deepfake videos",
       "excerpt": "AI researchers are using heartbeat detection to identify deepfake videos and even to figure out what kind of generative model created a deepfake.",

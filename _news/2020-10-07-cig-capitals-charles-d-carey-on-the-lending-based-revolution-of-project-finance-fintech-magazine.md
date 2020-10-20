@@ -1,26 +1,24 @@
 ---
 category: news
 title: "CIG Capital's Charles D. Carey on the lending-based revolution of project finance || FinTech Magazine"
-excerpt: "The financial services landscape is changing rapidly, and, in these turbulent times, investment companies can be inclined to focus solely"
-publishedDateTime: 2020-10-07T11:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html"
-webUrl: "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html"
+excerpt: "However, in our lead story, Charles D. Carey, serial entrepreneur and Managing Partner of CIG Capital, reminds us that investment is about more than just money and describes why funding desperately needs to modernise."
+publishedDateTime: 2020-10-07T11:46:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466"
+webUrl: "https://markets.businessinsider.com/news/stocks/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "b/wuzaf51tbJJtQ6pqzKC7uo1H7IA60Yi6h9TxxJzu7bo6r3Mv1PnoD3FidA/5mLnWXLQG42TVYHjTW/9Am1xyhnBJWP1JIXEJQaKfMAsrzwEu8Jpjd8k2e+d8Kt9lR6l0EkZ5Qis2QeDkuUZU2gfckYdK1AlzSGYla9CHComIa7MJ92ryg9cDUSdmciDMhTgSeGUDAsS5FmyNqhwX01vUcR7BaMIm1xOyqR7C4BS0iRS4jFM8WMQDplczAFwe+FCQ58U1Uk74EmowL+JNMqyd6A9Aa2bIoDxedlXiWakbfdRhRXv7D/qdyK4NBYKbHbb6PIOEr9d5/hWxlJ8fvRTIIZ+n99f+dRAAL/pjAj4uE=;N2+ggTzQh5wkbvX2eotOZQ=="
+secured: "C3oCoUsOuxiZ5JCzulRgWTAmuPjxHXtcLalHvP+nYXRrLj3XDw3Z4amesKHiHFsBhkJKo7YoKUGLjPqrPGeODBFZfptWHSJPkxxufNSzuBfkruJHMM2CtAd55iV2lyYOeLnsYF1JmUjGdIoKplgJPfYGCtWAnsrIMCmqEbf03KxKVdZMPNOlB/dZDuNMkFY33rItb1NfDQf0CbqAnfUvsd7gC/k6mBCtstmUOwr0D6OelD3ozt5Z/CQt7BJZhPo5SpzNK/LQb4/5pfHvoBjyf9aKZasrlHO78bCVxgGF6+ins3DMiDA/oQJvM2JC1kKf7t6khvju/eCGSqxF/DTvdnSMCTw7mbUNtfsltIOl8Yc=;V9wX1o33z8KGedRanhEncQ=="
 ---
 

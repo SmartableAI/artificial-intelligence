@@ -46,6 +46,17 @@ related:
         width: 1200
         height: 894
         isCached: true
+  - title: "Gartner sees 'internet of behaviors,' automation, AI, experiences key 2021 technologies"
+    excerpt: "Rest assured that Gartner has its share of buzzwords in its 2021 trends listing, but the technologies in whole tell a story. Here's a look at the trends and some color commentary."
+    publishedDateTime: 2020-10-19T16:30:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 59
 
 secured: "lkj3M2bUgcMx2IycKVF4pIUqANGQgZFgfzUKuYxpZuPRNORLY69WD8Xq17885mvwNq2AjUtC0kg6NUm5BEfNwwRJch/GNyKlYk8Nmwk9wi/+kfGedKGkRXfHwvNdpXXL/b/bDh+TRe8u11vD7kJcyKGFcZoU56k0+2BkAIs/IidnYSzjpjwVg86ZHe/FlxkP/+ZwH6n7wV198pwDGbpR/dxc5yUvgiju80wWlsGiaduiQ2R8J1G0qXLoT9Xb1B4tVkPhVZWyp3SRRxZzrqtxPLkTw4gqbag4HrKqRUZegU5RaBUKcu5FkTAOX9pulKJM5CJnssRZm1BGjnWbDJSPXTbpNrAvM80LXP0OuXP3i3QUIm0JagtjJ5AiVi4Qenv36a7ZNj1/gDY2mIi7eTP0SY28ujpY3+6aOYOUZWX0vWw/S7iygb+bQl9s5ZJKskxK86dPGZxMnfPAaUo+sGfL+IAIOxu43Cvcf8JxCGQm3jtBsFd9fGQKY0Xf1GDDhL08NIbNM2Zb7Rx2kiroWSnctQ==;BatVQqqGXatIldz5FoOf+A=="
 ---

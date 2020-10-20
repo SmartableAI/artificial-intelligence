@@ -2,6 +2,109 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-10-facebooks-ai-flags-onion-photo-as-overtly-sexual.md",
+      "title": "Facebook's AI Flags Onion Photo as 'Overtly Sexual'",
+      "excerpt": "A Canadian seed company that posted a photo featuring a pile of onions was notified by Facebook that 'listings may not position products or services in a sexually suggestive manner.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual",
+      "originalUrl": "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/030jVR79RwEptik80LTAPr9-1.1602278178.fit_lim.size_1200x630.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true",
+      "publishedDateTime": "2020-10-09T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls.md",
+      "title": "AI Weekly: Nvidia’s Maxine opens the door to deepfakes and bias in video calls",
+      "excerpt": "Will AI power video chats of the future? That’s what Nvidia implied this week with the unveiling of Maxine, a platform that provides developers with a suite of GPU-accelerated AI conferencing ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/",
+      "originalUrl": "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/NVIDIA-Maxine-Streaming-Video-AI-Platform-GTC-e1601673784391.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/",
+      "publishedDateTime": "2020-10-09T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic.md",
       "title": "Adorable red self-driving robot delivering mail in Japan during pandemic",
       "excerpt": "A Japan Post mail delivery robot debuts in Tokyo, and is being tested to keep human interaction to a minimum during the coronavirus crisis.",
@@ -1081,101 +1184,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19.md",
-      "title": "Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19",
-      "excerpt": "Reportlinker.com announces the release of the report \"Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19\" -  The Global Computer Vision Market is expected to grow from USD 11,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-daily-crunch-waymo-opens-up-driverless-ride-hailing.md",
-      "title": "Daily Crunch: Waymo opens up driverless ride-hailing",
-      "excerpt": "Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for. The big story: Waymo opens up driverless ride-hailing Waymo hit a major milestone today: It’s",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/07/waymo.jpeg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/",
-      "publishedDateTime": "2020-10-08T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -39,7 +39,7 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
         width: 1119

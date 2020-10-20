@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-09-how-machine-learning-will-boost-5g-network-performance.md",
+      "title": "How Machine Learning Will Boost 5G Network Performance",
+      "excerpt": "Such a complex network requires a simplified solution, and deploying artificial intelligence (AI) and machine learning (ML) to solve these problems could be the solution carriers need to ensure they remain in control of their networks. AI/ML solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/how-machine-learning-will-boost-5g-network-performance/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/how-machine-learning-will-boost-5g-network-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21e3261972181a26004bbf%2F0x0.jpg",
+          "width": 1199,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/how-machine-learning-will-boost-5g-network-performance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/09/how-machine-learning-will-boost-5g-network-performance/amp/",
+      "publishedDateTime": "2020-10-09T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-how-ai-and-machine-learning-can-help-accountants-stay-competitive.md",
       "title": "How AI and Machine Learning can help accountants stay competitive",
       "excerpt": "Artificial intelligence (AI) and automation have brought the accounting profession to a point of pivotal change, and it’s about to revolutionise the way that accountants work.",
@@ -407,24 +459,33 @@
     {
       "path": "_news/2020-10-07-a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms.md",
       "title": "A New IDC MarketScape Assesses Eleven Providers of Advanced Machine Learning Platforms",
-      "excerpt": "International Data Corporation (IDC) today published a new assessment of eleven companies offering the tools and frameworks for developing advanced machine learning (ML)",
+      "excerpt": "A new IDC MarketScape assesses eleven companies offering the tools and frameworks for developing advanced machine learning (ML) models and solutions.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b17817028/a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b17817028/a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms",
+      "webUrl": "https://www.businesswire.com/news/home/20201007005511/en/A-New-IDC-MarketScape-Assesses-Eleven-Providers-of-Advanced-Machine-Learning-Platforms",
+      "originalUrl": "https://www.businesswire.com/news/home/20201007005511/en/A-New-IDC-MarketScape-Assesses-Eleven-Providers-of-Advanced-Machine-Learning-Platforms",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201007005511/en/784701/23/IDC_2017_logo_horiz.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17817028",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17817028",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-07T05:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1339,49 +1400,6 @@
       "provider": {
         "name": "SmartData Collective",
         "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-using-machine-learning-to-predict-pediatric-brain-injury.md",
-      "title": "Using machine learning to predict pediatric brain injury",
-      "excerpt": "When newborn babies or children with heart or lung distress are struggling to survive, doctors often turn to a form of life support that uses artificial lungs. This treatment, called Extracorporeal Membrane Oxygenation (ECMO),",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-usingmachine.jpg",
-          "width": 1440,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.amp",
-      "publishedDateTime": "2020-10-01T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

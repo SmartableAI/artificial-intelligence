@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-05-nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working-and.md",
+      "title": "NVIDIA Announces Cloud-AI Video-Streaming Platform to Better Connect Millions Working and ...",
+      "excerpt": "NVIDIA today announced the NVIDIA Maxine platform, which provides developers with a cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video — the internet’s No.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-cloud-computing-eea824f1038c940ab802e5a9865893bd",
+      "originalUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-cloud-computing-eea824f1038c940ab802e5a9865893bd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-artificial-intelligence-ai-chips-market-will-showcase-positive-impact-during-2020-2024-increasing-adoption-of-ai-chips-in-data-centers-to.md",
       "title": "Artificial Intelligence (AI) Chips Market Will Showcase Positive Impact During 2020-2024 | Increasing Adoption of AI Chips in Data Centers to Boost the Market Growth | Technavio",
       "excerpt": "Technavio has been monitoring the artificial intelligence (AI) chips market and it is poised to grow by USD 54.03 bn during 2020-2024, progressing at a CAGR of over 42% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,",
@@ -1413,49 +1456,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-gpu-manufacturer-nvidia-buys-chip-maker-arm-for-40-billion.md",
-      "title": "GPU Manufacturer Nvidia Buys Chip Maker ARM for $40 Billion",
-      "excerpt": "Chip giant Nvidia, which specializes in making hardware for video game consoles, GPUs for graphics cards, processors for the AI industry, and whose chips are utilized by the crypto mining sector ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.bitcoin.com/gpu-manufacturer-nvidia-buys-chip-maker-arm-for-40-billion/",
-      "originalUrl": "https://news.bitcoin.com/gpu-manufacturer-nvidia-buys-chip-maker-arm-for-40-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.bitcoin.com/wp-content/uploads/2020/09/gpu-manufacturer-nvidia-buys-chip-maker-arm-for-40-billion.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bitcoin.com",
-        "domain": "bitcoin.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

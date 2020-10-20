@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-29-expanding-access-to-mental-healthcare-with-artificial-intelligence.md",
+      "title": "Expanding Access to Mental Healthcare with Artificial Intelligence",
+      "excerpt": "Researchers at University of Illinois Chicago are testing a virtual agent powered by artificial intelligence to broaden access to mental healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence",
+      "originalUrl": "https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace.md",
       "title": "CyberMDX Healthcare Security Solution is Now Available in AWS Marketplace",
       "excerpt": "CyberMDX, a leading healthcare cybersecurity provider delivering visibility and threat prevention for medical devices and clinical networks, today announced that the company's solutions",
@@ -1336,58 +1379,6 @@
       "ampWebUrl": "https://www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
       "publishedDateTime": "2020-09-14T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-new-insights-into-dreams-and-what-they-say-about-us.md",
-      "title": "New Insights Into Dreams and What They Say About Us",
-      "excerpt": "They’re advancing artificial intelligence and digital databases into the realm of the unconscious, experimenting with new ways to identify those in mental distress and at the same time provoking ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "originalUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-231790/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "publishedDateTime": "2020-09-14T08:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",

@@ -39,6 +39,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
+  - title: "LLNL Gets AI Boost with SambaNova Collaboration"
+    excerpt: "Lawrence Livermore National Laboratory (LLNL) has installed a state-of-the-art artificial intelligence (AI) accelerator"
+    publishedDateTime: 2020-10-19T00:00:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/llnl-gets-ai-boost-with-sambanova-collaboration/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/sambanova-llnl_875x.jpg"
+        width: 744
+        height: 425
+        isCached: true
   - title: "Turkey to reveal artificial intelligence strategy"
     excerpt: "Turkey will soon release its national artificial intelligence (AI) strategy which has been prepared by a joint effort of public, private and academic bodies, the Turkish industry and technology minister said Thursday."
     publishedDateTime: 2020-10-19T01:49:00Z

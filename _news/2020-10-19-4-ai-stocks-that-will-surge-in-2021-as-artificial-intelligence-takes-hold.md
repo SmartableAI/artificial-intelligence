@@ -6,9 +6,9 @@ publishedDateTime: 2020-10-19T10:28:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021-1029692688"
 webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021-1029692688"
 type: article
-quality: 63
-heat: 63
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -21,6 +21,10 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+  - AI in Healthcare
+  - IBM AI
+  - AI Hardware
 
 secured: "YkJEjMUZUYZyA/4NFnUsxnhbydwJDsadlZWMjmS2oKaLFD6x9fuNwQ5oegV0LESS2twUldLRKrGmTORmXT9B/KzAq2c8g7Jf7rxqdES1CLISv3LpTEMaG35eGnOdhri3BX5mh7+InPM5ewTxHBPJgW/MJVbtivaVAOwYc7wKTDil7XKcgeZW3Phd84nhfLWA+Q6gVigDMHSM6FOLJTkA1cn5GoWAYXRxtd+QMpftPLWxwQ4sZQa04x/SVvaWAGQUJFh0bdzJIJHA05Nfj/uJNwxjUTLYLh4mjVgsEVea1CVvpUMUyhBu04QTdl7BV9L9StItQ0+db8DMcGrNm98g5pKeTausr37aviDgHxFIjOM=;6yQaILi5Vy+l97krjiCp4g=="
 ---

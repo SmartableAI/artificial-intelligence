@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Cambridge Technology Attains AWS Well-Architected Partner Status"
-excerpt: "Cambridge Technology Inc, a global business & technology services company, proudly announced that it has achieved the AWS Well-Architected Partner status, recognizing that it"
-publishedDateTime: 2020-10-15T21:36:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-technology-attains-aws-well-architected-partner-status/article_b752153b-13ff-5dc5-8e3d-2ade530b22ab.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-technology-attains-aws-well-architected-partner-status/article_b752153b-13ff-5dc5-8e3d-2ade530b22ab.html"
+excerpt: "Cambridge Technology Inc, a global business & technology services company, proudly announced that it has achieved the AWS Well-Architected Partner status, recognizing that it has the expertise to deliver Well-Architected reviews for existing application workloads or new applications based on AWS' best practices and guidelines."
+publishedDateTime: 2020-10-15T21:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508"
+webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/b4/4b414b6f-ab7d-515f-8cdc-57b31e971160/5f88c7e59e6f7.image.jpg?resize=400%2C209"
+  - url: "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg"
     width: 400
     height: 209
     isCached: true
 
-secured: "oD0tUvZegmpc6zSEl2W6JMC7NUWWjcKnil0h1OWrI+y1mfKTfl5I5xzzeqJNEN0LwgD7zC2SstvWDesB3awvBBYkcR0/MHKPlTjgmu54ngyfvzEiSoG7+K/jlOtIJPGiRIAzr0dKHsziQ5V+n10BVwkfBR2UCc7PnKy5mHKgiq0twYCDrAwuXxvcwHldijdkB4+d2dWY0btlmsYtzFUVl9HKQTA9cUTgVAb9B8Kg5Cb4+v3sIsg81rx1qKIcY5Mz/uFucHBOolHW35ZbTII93MAzO7jgtlUFikY4XfqiyR9FB59u3auJylQP72dImeCFmLSkAKih+Fs58dzWYwlneFBFx9nAYgpiVt6qKhnNVHz1VnAEujigdK43o/KRv5UrK2n8ebu2orSHO3OqNMEVw3aU533SVPh/x6Zv5WHvV5XeD9T4IPgJUPykssO87XqowModnz3HnIYXT7XdotdiNHeUxpkhTb3Uzm63IMDrm75f+YyW4hfFlwFeH+KpkrlI3XDKAwBLF/dnIA/XowQQnQ==;SAmaBVVY0VQCtUrkTe3Vdg=="
+secured: "h0d1MGtmkyPgnr6sOVfsYYzzFniWz5IhuKvc0uYIi0mRbXHazOp+aUULu+xybsvX3ZEXcV3kziZiaFgAxIdgO7Qas0bFK82uUZWXIgr4Ge9urs3IS626nMjHuWK7vRegV1dzczT22tYF23S9SJh1TRjKPxn5nFcPQS450AbkH6o9Ql4OgquixKkVYin/rmMe5c+i3z6zFUoUzqjDGHuctCm0BtI6shZguWZXlkDoBNz+HOareDZTgDwFMJH7IEdYIH1eIspXowLm5f+W7Xy/WTxtSSv5ixe/V8yPb1cA/0cSfIRnHMdx2pVbIKmf7fkxHJCaC1mZOr2Pe4lYGnpa6AChJuNSW+DE+ASzbMnffmM=;8jO7jNKUeqqOH+ImVAJK7Q=="
 ---
 

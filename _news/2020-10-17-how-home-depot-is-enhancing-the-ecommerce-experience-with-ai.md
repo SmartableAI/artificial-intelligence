@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1200
     height: 1296
     isCached: true
+
+related:
+  - title: "Changing the Face of Financial Advice with Data and AI"
+    excerpt: "It also provides a personalised update of my total financial situation, including recent transactions in my current account. In my inbox, there’s a synopsis of curated financial stories aligned to my goals."
+    publishedDateTime: 2020-10-19T17:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19"
+    ampWebUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "IqnTejXuYxGbn4F8UZF71XVS1BaisgQRDfX3d5AdxQmJ6w+ad0Hm3FW84ucduQDXK7nA5ktJeDcfcqpxqY1BTNaQ69n+0GKM70cPLnz9Cn+ruAtowKVKOYDZvqehf4CFVbCxL49fTOmq7qFAuZEZOGbrrx8VLnhmU278W2L2PM+iDi5QpVDZKpELVJa1mtGdy3TaKNvnjvL5jcwdEr1B+zIGqcDgkD4G3Uyx/rswQ+/w6BHe+vlBq39xUnf01EmhZdG3ObXiziJJpj6RTSfZp/XVhZCH213YAmIkQUP7R5vdfLyPPk6qzuEwX+IrlmHCu1lb5pk0tlTGUNmXUKbIbXoEgOfOvyoTqIkKL3JWMcJS2XnPLNgxhqn/nxNHOdlxXR6TpamX15evEmKgqQH5kf8ZUK42YoYH8z1V9LB6Wxg5DxZ4s/geoHqZfq+x9YSsUDcLgLdjDsjWQd6In4SmRIL0Ss7KNhn1bBvPKnUgPyNfux7sUIi3YyW4p1K8N18FHcuKIY2g2MeMTdPrT3TH4g==;4b86GrTsd3ldudnktqIvHA=="
 ---

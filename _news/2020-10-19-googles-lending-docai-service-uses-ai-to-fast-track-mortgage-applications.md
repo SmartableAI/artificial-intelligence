@@ -113,6 +113,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Google Cloud launches AI-powered mortgage processing tool"
+    excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."
+    publishedDateTime: 2020-10-20T00:19:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36777/google-cloud-launches-ai-powered-mortgage-processing-tool"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "hhDp1FLTYVpZ9DkbFKfcYTpr8tjWB9k2KAskKMlp8iMujqxGT957sP+NDYmneflRfmlflxwMInNkF0syikHkLae9iEzUqovM5hvG6QPydme/OJgISh0dcqhScqVLqDe6H7F2OgzB9wOm5xmQTTb+LOI6FASL7XwcenKo/qmIwPyQDgM+87y2semNzkfSUNoijMdGZdSQk8HSPRfV/5pT3SWFxNoKBAlrzW8+morj4Af+gf3i5Z2pBlqSVPUCu4aCOxdSPEE4u38WK3r4wofKnJcaEw57XcbiNR2zmJw7hef+H9vZE6P4HDg1KyJdJhNUqYhGEVMQRNHCTnVzlwb3wpXanZbAqboQpke+378ABg7Yud6cBJHieWFHWehFjBVuy1p8nySkWLwoaZRyxX/HkNbRLVjYTBNU/yb4YtdAdxbNZLMsS4dWAaoS4Py20QvoAvHOjH45LQrJtTZoT6TuvqqHqN6jGQ58RDpoy0cIuwrwgmkKhb8O8ZlyCR5Vb+gWSP8UGNhU2mXbavbZ+Rqe+w==;mDczSHP0GRSH4GAltyyoJQ=="
 ---

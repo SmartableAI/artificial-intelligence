@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-02-artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2025.md",
+      "title": "Artificial Intelligence Robots Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 - 2025",
+      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots.md",
       "title": "Electronic skin that ‘feels’ pain could lead to smarter prosthetics and robots",
       "excerpt": "Scientists from RMIT University in Australia have developed an electronic skin that reacts to pain like human skin.",

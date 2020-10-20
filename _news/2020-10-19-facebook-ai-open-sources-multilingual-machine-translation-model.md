@@ -3,10 +3,10 @@ category: news
 title: "Facebook AI open sources multilingual machine translation model"
 excerpt: "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations."
 publishedDateTime: 2020-10-19T15:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+originalUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+webUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
 type: article
 quality: 104
 heat: 224
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/4eccddda-3c93-42e5-96df-afcb5d5bf494/m2m100-summary.png"
@@ -179,7 +179,7 @@ related:
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 29
+    quality: 31
     images:
       - url: "https://i.dailymail.co.uk/1s/2020/10/19/19/wire-34583254-1603131568-544_636x382.jpg"
         width: 636
@@ -209,6 +209,6 @@ related:
         height: 629
         isCached: true
 
-secured: "7wpA3BBJeLQ6bev380jvI3HzGhuJc7J8wgzb8kCnxvG6uLKSH7b+UGr/nfiZAYQV7T26vFiU2BZ7P18eoo/j+3kX0oz/i3Db7Cl3/VitA0EOZggGO1TV9OFU3noqyCcIME8StLssA64CXmM5lxbWssSs2Tx9Wq9u7Vo4ANQe2CQdDDAxs443w7nVl3FpToc74y6fi7/N5OQYyJKy4+Ta8wpaBdpDzMq66eMvevKRZ0fntpFEm3eGh7V4FLeb11OZDISZ/hLBa6kOuq8MOepx99YF/LV8rvZBoBeZ9H7dzToHe83dxiK2c3MVRzJcOc8o08BIQvV5FKKgKGnIPc6n+2LIU7ekRO8POAFfeyyeI8k=;+0DXIwAssfzQI0KRhP1ccg=="
+secured: "Ld3/64HxfcV+0ihjp6l6tJwEq6Req4sAYE+F3yV0HAPmlBrBjpLvVriP1hTavB8ZTcwO5J95rCh8usRN1DUbGBfNSyMBHDlyIW2gbVSjneAArwg0TxyA9cXwZ0hvtt4AL7+JVUwVsTdCmz0C33F4OhEOXYvcTq3oXXltr3MjlO0qw+WD/Uo2yHpu7Nnjl5LhEIjJbtIfGXyaBaHCzMNAwdHNBxhMNF4Xf9bQwuodktzGFeJaxHVNeWq5GOps5zxCL0HU9pqoXFCHoBMIc9HPEF+dNYgXI7H0UuXaF5wecL4vH6nzPWUCUcJpuKPdtGgscw4ZuA/ivhpuIp80xl8kgWb0OY7gkUvepKwXF1PjCzA=;YqAvwvRColRzs+G6XLVZDA=="
 ---
 
