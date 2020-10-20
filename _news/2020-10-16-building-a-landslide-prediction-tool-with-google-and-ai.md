@@ -43,16 +43,16 @@ related:
         height: 600
         isCached: true
   - title: "Google’s Lending DocAI streamlines mortgage applications with artificial intelligence"
-    excerpt: "Google Maps and DeepMind enhance AI capabilities to improve route calculations Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry."
+    excerpt: "Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry. On Monday, Google Product Manager Sudheera Vanguri said the new solution,"
     publishedDateTime: 2020-10-19T14:32:00Z
-    webUrl: "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 77
+    quality: 75
   - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
     excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
     publishedDateTime: 2020-10-19T19:00:00Z

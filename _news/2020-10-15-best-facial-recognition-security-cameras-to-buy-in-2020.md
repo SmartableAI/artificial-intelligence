@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "Facial Recognition for Business: Applications and Adoption Pitfalls"
+    excerpt: "Each time you recognize someone’s face, you’re using an internal form of facial recognition. In a matter of milliseconds, your mind breaks down the parts of their face, puts them back together, and matches the sum with those faces already stored in ..."
+    publishedDateTime: 2020-10-19T21:36:00Z
+    webUrl: "https://www.finextra.com/blogposting/19441/facial-recognition-for-business-applications-and-adoption-pitfalls"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "7gmhRQk+Ak94nFohdu5U1LvXpDuHYKciqd5+fh7XCysK4oLVegAEZWRoj6ij7C6aLZdkQY4B2bv3Wfx4oKpwoNoXBG4cJbepp8b9kFw4vgemJ36OclgFnUWEeVwi2HdpBLXXcEFDGxVJ2vpfMDUoljvb5gcPx5j3SzSWhPrW9iPJtZFUBXvi9UZsALnmk1y3EIUZmYvX6UFhzuYFC+eD1NY6z/am0RgywGtiEaOGUAlMt8Ee5lB8QlStW9M9MyNm+iW8p0eepgQjnqWh8Ua6cis72Pb1YaR2+z09vgFawxiXmpAWeCLaXbSFBmBEtDxM/ZdR5j/AT/1/ptl5I+68QKCtzGzZ4N0zzKD3ZqmV0LJXqmJxQG3zvvOP72W05RHKG9yrh9FKeYOJyUl+KoWio5Tp/+hkERRY8uOUijyuHIO+Hgv4snrmniRKUhtP5W5V9XXeegaPSujQf9bT5+aGSMJvkVL2jOny8ieF6bpL5pIHAoDDOjhPvG0sneGY4OoykkBO+I+JRNv86l5TbPdtjA==;DJza13HqABPU0sYujMds6w=="
 ---

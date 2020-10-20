@@ -6,11 +6,11 @@
       "title": "Facebook AI open sources multilingual machine translation model",
       "excerpt": "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -24,8 +24,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/",
       "publishedDateTime": "2020-10-19T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -49,7 +49,6 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI",
         "Natural Language Processing"
       ]

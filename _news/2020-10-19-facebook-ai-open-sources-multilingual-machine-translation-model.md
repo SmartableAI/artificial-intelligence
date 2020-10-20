@@ -3,13 +3,13 @@ category: news
 title: "Facebook AI open sources multilingual machine translation model"
 excerpt: "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations."
 publishedDateTime: 2020-10-19T15:00:00Z
-originalUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-webUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
 type: article
-quality: 106
-heat: 206
+quality: 104
+heat: 224
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
   - Natural Language Processing
 
@@ -170,6 +169,31 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Facebook unveils first AI model capable of translating 100 languages without relying on English as an intermediary translation step"
+    excerpt: "Facebook unveiled AI capable of translating 100 languages without relying on English as as an intermediary step, as many systems currently do - making results 90 percent more accurate."
+    publishedDateTime: 2020-10-19T19:19:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/Facebook-unveils-machine-learning-translator-100-languages.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 29
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/19/19/wire-34583254-1603131568-544_636x382.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Facebook unveils 1st multilingual Machine Translation model"
+    excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT ... those that speak low-resource languages,\" Facebook AI said in a statement."
+    publishedDateTime: 2020-10-19T22:59:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20201020/3644798.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "How Facebook and Twitter’s content moderation could shape the final weeks of the election"
     excerpt: "Facebook and Twitter’s handling of the New York Post’s Biden-Burisma story is illustrating how tech platform’s content moderation decisions could shape the final weeks of the election cycle — and Republicans are accusing them of attempting to influence the results."
     publishedDateTime: 2020-10-15T14:05:00Z
@@ -185,6 +209,6 @@ related:
         height: 629
         isCached: true
 
-secured: "+Pj04NtNRqTcNn78tXl5U9Sp7bnKAFOJUjGneSdQCdwhDlVM7avJ4eDVDBA0WjpvWXuYR3Mc7HgY6mL49iTLUZWSTedySVJ/MN0RTajc2PdGrITVDT/aZrUYsA2eHCeJNnc3b3yI19KtUH5gVTwbqbD7P0kx47DdZnWj8Eq6sZ5LUqj4geNsMZcr9OnHS6ry+CwbIZEhA0fX9botUAa9orGb/FQaE7FMLXe4ot7dpwucsPEW1hG0UqAuruq/6UyV+VR4t8WbHgy9z7OvqoQnU28KInHXWs9RwzLX2RkYy1o9RnVCkYqFG/4wwEMU0meVW2NJAHfqeDr/meSxpOqUTaREHBoKIn73H+RghM1wmT2ckn9BBdpI/cnkzAxz/kNicPKrkUtUvs52kmqf0d8br+Ydb9h9Ng4uGaE5SpjEksg13btTwjLY3w/Jdx9M0o+ChDTcNF0+u5WSg5VfTtPfp9edq1DWo0jUGkgwJs4Rx+BAe/+q/c88Qy6X0T/ucrc7J0VN5yWliEuDbGEGYlIqcQ==;ceQeTcl4pZ3xjp+P+QFiwA=="
+secured: "gsKxYlUd0atixu2/o7dNHXShfeAzsYR3opNl8kWN9rB9V2/hLXFa2DqC/LYcxv2TUbkm+kRxbm4Q3xJizudicsahDiN69nIGNxcl13JEP7QW70bFaBt5Muzj9qO7ullz9QTiEMFbPjP6CAXjDTXWwA5elZmLw/vj9dFPL16GusIoV1ljNWFsAD0AnS4jLkar8ZkojiWS3kjx4/YnxrLdnxk7RCe3N4tLYuWMp/YcC35aYhemRLshLt1htQaBc2cji5XA0IrLqVDNvhjLnrJceqKoIHgSNkRvP60vBBrzxwBFrU1DWQWPijGwMz4IPa2iD+iUqH3Q7yZEV3E2fktEyevv+Na/du3iC1Ewp5RVFyk=;+27e/5DYcBAn8knj8Vh5pg=="
 ---
 

@@ -1,31 +1,27 @@
 ---
 category: news
 title: "With deep learning algorithms, standard CT technology produces spectral images"
-excerpt: "Bioimaging technologies are the eyes that allow doctors to see inside the body in order to diagnose, treat, and monitor disease. Ge Wang, an endowed professor of biomedical engineering at Rensselaer Polytechnic Institute,"
-publishedDateTime: 2020-10-19T20:04:00Z
-originalUrl: "https://medicalxpress.com/news/2020-10-deep-algorithms-standard-ct-technology.html"
-webUrl: "https://medicalxpress.com/news/2020-10-deep-algorithms-standard-ct-technology.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-10-deep-algorithms-standard-ct-technology.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-deep-algorithms-standard-ct-technology.amp"
+excerpt: "Engineers have demonstrated how a deep learning algorithm can be applied to a conventional computerized tomography (CT) scan in order to produce images that would typically require a higher level of imaging technology known as dual-energy CT. Bioimaging ..."
+publishedDateTime: 2020-10-19T20:27:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/10/201019133700.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/10/201019133700.htm"
 type: article
-quality: 55
-heat: 55
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2020/withdeeplear.jpg"
-    width: 800
-    height: 600
-    isCached: true
-
-secured: "rBcNLbH9ik3pFQjHXTvhy2qDdJ/GkgM8Y9yRdiVUwIjjoCp1XviSjzPgckKTb8IutwkfzHnjvAjhihobo/9wG19OxdCGE02ei93quNirW9quwQG0TIjaFgLzAU/NWEvb0m+Lzatt/LjyxnhxLhM8L06+FOkfoEA6BzimqwLU5ucAglM7Ua5w2rZGCJp+Y9Acl4dybcRimCsNSZPBWrDIwed+XHyD/EzntwHW72FJupmkS/0/JHADz2LbjNn/Wvjr+jV5Hj/MGVkKgKNh9pYOm06u0sISEEgJWEXEYJOaaedD8fqTRS0UiO/IeBLb/s6SYKh5xkaS5l7NlbUFfbgZYvsMlxBKE688lsFjToVxg6c=;2w/KnWosgtPlkAqonF6SjQ=="
+secured: "lcy7kE0IhT+kWhBe4s224elWheTXRrEetgfjx7ad26GUg2vm7HbRvWLwKwZfiBgL7swmS+Uvp0jKK8MQa3ZcgruoIWRwGn1mYNVQTfrzie9e2VDltYA8ELS+fcyp4T1ASpl8rErMI8YOoQ2MrpVhJuElfStQRBCiAhfPPvalDayDqsWR2UJi7/C+fTVGNBjp9JfTIFbyUHcyWg30RZrGxXuuEXkRiNXljksC/iP7Ch15ahKbIgmAa+K+ZxYZ+ynrSEu+oKS7Ao0Yfxm0BI9/bPDgWNr+vp34/x+0FBzFl1vmk5+gaqqJJbv2REj33eK/314XF70iac87Sl/n2O2CWQ9OO1OvTP319LAPaBZFR/s=;DaUapWEFYwXkfhnFPZ5z1w=="
 ---
 

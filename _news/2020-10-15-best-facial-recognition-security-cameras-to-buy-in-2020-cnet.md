@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition for Business: Applications and Adoption Pitfalls"
+    excerpt: "Each time you recognize someone’s face, you’re using an internal form of facial recognition. In a matter of milliseconds, your mind breaks down the parts of their face, puts them back together, and matches the sum with those faces already stored in ..."
+    publishedDateTime: 2020-10-19T21:36:00Z
+    webUrl: "https://www.finextra.com/blogposting/19441/facial-recognition-for-business-applications-and-adoption-pitfalls"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "4ROdtk5Kyc3hOKPpQ3U88tmI9krjFa2dF7ph3ra4nkDe6Y9siWI3PNsaVftVbGv0NQPvoravr/Z+meap8s+F4jjtOKXzaOadG5tJ0lEQt23JnOQh22psGZuGHguBwyxQxohjTYlJ+wfL94+FN1Y6rEISwVg6ZHS6Gc2lNtDiHjshlVYFVsgHWqAT6YiTGPpgKyM4Y+67D6FTgMqDnWsA8rjccnGoNMSTHuUnvBpFcFE8uisdyCti3a+FPB1Z0gj1I+6X7Gr6Y07w312Ji19ZpjHQDx2fBZjU5ufB6yxs5IO+7Q8qGQLQB19L8Tyzd2FzbiyVLZNG5ekY2FAWhOuOEwRN8HpxXbc5glnjf+ULvnfFDZ0i03QtfMFyK3Xor0CyU4FoYulk7G0X6MH6NZEFXlvpv1kV6uEetwiSeS84pIbHkXd4e7CIei858vmtWL9jcFIQsDMNAYncTklX/fumwAeqQZwoQakD25qDdmIeSDZDQJ1ox4h+tGo18KDfMCbchqUmEqA224vWHAYORHfPsg==;cURt4B3vBZ+JEWeFwwaegg=="
 ---
