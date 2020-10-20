@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "GM's Cruise plans to test unmanned self-driving cars this year in San Francisco"
-    excerpt: "The company received a permit from the California Department of Motor Vehicles to remove the human backup drivers from its self-driving cars. Other companies to previously receive such a permit include Alphabet's Waymo, Autox Technologies, Nuro and Amazon ..."
-    publishedDateTime: 2020-10-15T18:03:00Z
-    webUrl: "https://www.cnbc.com/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105600216-1543518019363cruiseleadership.jpg?v=1543518088"
-        width: 4000
-        height: 2667
-        isCached: true
   - title: "GM’s Self Driving Car Service Allowed to Test Vehicles Without Safety Drivers in California"
     excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
     publishedDateTime: 2020-10-15T21:58:00Z
@@ -89,15 +73,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Cruise to test self-driving cars out in the wild in San Francisco."
-    excerpt: "Cruise announces in a Medium post that it plans to begin testing unmanned autonomous vehicles by the end of this year in San Francisco after landing a permit from the California Department of Motor Vehicles\"Before the end of the year,"
-    publishedDateTime: 2020-10-15T18:37:00Z
-    webUrl: "https://seekingalpha.com/news/3622606-cruise-to-test-self-driving-cars-out-in-wild-in-san-francisco"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "bN5Lp2b++IEC3hixNBuMgDlX6btdTvJO2KfUELf7PV/YkFHW3Vui6J4vimu759+aln9MQv4AEsCrMcXx6s2SvARGfj5h+sPwh5DOj6DvZCsuz6s9Uq63l4AxlP52IhvSpuvBXKxaRwcpyX+IoAH4tMcy78iY3xvRJvvYLTZCt/zi+0s4g+zvLGIFTcVF33mZ2MFPDi0qD84kik3JbQ5bsM5+302tSUkS46vDtndpJAlxnIlUaRTI0VElcw7l25tlbHjEx0UeVUkhsG+cw0uocGbM6yH5GzoGlfn3gh0NFhA373r7PVbni0bBiNoaIOFqcvfYp8bh5CBvPUR0wvLg01noN5uz2u6cniBMZm8XK3DT4Km+meTTapL2QPgYtZQigZx2cMB2sl154hvTsL1FIf3kdlKiNzp9hFrbJNQdI6Wlflvyx5E/BcMikvEn4olbAb5Bc8juF0UGGFY1peJAjguDCtyAkTh8kACEZZooHOA8wVMcy59Uj5zr2TiuLB4S9b2X5jozlTp/oZebDVaQfg==;tN54CmwwzAeycqaACeSihg=="
 ---

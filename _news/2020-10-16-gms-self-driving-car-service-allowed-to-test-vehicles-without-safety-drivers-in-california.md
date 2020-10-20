@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "GM's Cruise plans to test unmanned self-driving cars this year in San Francisco"
-    excerpt: "The company received a permit from the California Department of Motor Vehicles to remove the human backup drivers from its self-driving cars. Other companies to previously receive such a permit include Alphabet's Waymo, Autox Technologies, Nuro and Amazon ..."
-    publishedDateTime: 2020-10-15T18:03:00Z
-    webUrl: "https://www.cnbc.com/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105600216-1543518019363cruiseleadership.jpg?v=1543518088"
-        width: 4000
-        height: 2667
-        isCached: true
   - title: "Cruise self-driving cars no longer need a safety driver in California"
     excerpt: "Cruise, the self-driving technology company backed by General Motors and Honda, on Thursday announced it received a permit from the California DMV to test its prototypes on the state's roads without a safety driver behind the wheel. Nevertheless ..."
     publishedDateTime: 2020-10-16T15:47:00Z
@@ -89,15 +73,6 @@ related:
         width: 1920
         height: 1196
         isCached: true
-  - title: "Cruise to test self-driving cars out in the wild in San Francisco."
-    excerpt: "Cruise announces in a Medium post that it plans to begin testing unmanned autonomous vehicles by the end of this year in San Francisco after landing a permit from the California Department of Motor Vehicles\"Before the end of the year,"
-    publishedDateTime: 2020-10-15T18:37:00Z
-    webUrl: "https://seekingalpha.com/news/3622606-cruise-to-test-self-driving-cars-out-in-wild-in-san-francisco"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "jV3tC+TnfmVCTEmMTu1Kprb8ec7X7AGXNtnkY60gBVtPu3ag0nY0aufwWurPuRmATjlt/rUUGOvzrz4etJ1wEWBfTCMIkOZ36YksJytYEgd3d3QX3ZtA968EhWWoIERhYwN/CbiJOCYj1M0R5J3TiDdOITQHl1m2L4hxT1aPWSV0v/Cjgm71KQkvGBoaesmo+N33px8fjiPl7ddgJSgoAHrrv4ectmWZq6rZ19uG1vIKc9vWfn/owfSxoR3kd9FzRE0Rc7jx2ZH2Qet6T2qd2Q/W4MZrIaWwbcFjcCDZ1cCjiBOsvrdHneUOEZWt+WA0yizM+LHMUJS/QYAE6ZCvYJVWVtI9QTszRm0Hkk9dm8A=;Wh0f9atuV6t7N6+aQF66eQ=="
 ---

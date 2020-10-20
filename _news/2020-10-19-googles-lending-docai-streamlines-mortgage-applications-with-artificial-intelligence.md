@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgag
 ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
 type: article
-quality: 77
+quality: 75
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - AI
-  - Google AI
 
 related:
   - title: "Google Cloud launches Lending DocAI to streamline mortgage applications with AI"
@@ -113,6 +112,6 @@ related:
       domain: finextra.com
     quality: 17
 
-secured: "u1m3fwRd8WB1UeRd/WWS2BwX66iuksTAqVSunbuXlNnAJ92HRIHa7gYiEcS4PFJ4M1nsNVJCMQm/r55Tf6QLr8WlK3635zIB5vXJ1lAVWejdaiFcXE/D93SMsH2m2RC43eJ0rfyWZfcJyFT+8RW47x+mBK59MMgJ5eFLu9yy8FctJiubQq2cUyi5fcRWlIrqrIR6RVAND7AqSIElQTilO+Ixvv8MNokbv8dhqH+uhG+KAi4vaDyhOrdQI4GzfQjSWGOI7PQ8zryhrygBJTJe8KWoQP7vGmm5Dwn3IWCK+CmvI11T/02wmBfIJHURuYPn/emj3Hy0iK0rfvVL+CSPG3ttoZ/+233F7xdEn1hOo/780P51HXB0pvwW+jXfpYBQ9I9xilY/yP34hOG9PoJHUUCsJB97sis3lK3Ry720cYFwBGZIJuusdgYq0Gt1JEMsXQavVFXZeKq6V+K+Yea7acjjM5k+58KROVmxRrIL7b0vPh6ZGgKbBG9evO11/iaPtcHchMeSCNhL5z2IQmodcQ==;b3kEFJDr8ZKLcxRLdbC0Zg=="
+secured: "0ljL9bK7y0qmXHQ+kfjVfw7QgAwCcndvKuhwhX+gVZU8/gBYPz0oe/VxOcfbTghxdg9JnMEIPXKAgu7Jhv0WW+BLtgMVlc1vTtWCi7fZs8B2+Tm5ty64HrxXhZdxY3Pd2bPATXtNLLlPfdXzEhGHyS5KSftO1TqMR04kJ8pGiB/u2R0WtjbNCr6cefcRXKi7eIfsvyIO0PBi1YBMdRLy2olz5E9tdvVi0ZYUkTx8/aSlVdPzd4dw3O729Xxo+MybNQ7S9kglveGzwbW7D/qg2mcbGX+Je7SRisQ4Vx1IclzAYrmwl3LZitebzUI64ifII37GQeLIfdiaz8nagXRecawj27uYV0WRMcI90wPVoWar0u1rzpV9wwAx6/2YjpERL+lUBgdQp6N2NYqXIgna0jPOx3DFmiPWaWKJhfFszPYXVQqE0zxpo8BzazkDo05AjJlecDLct90jizrJcn2368GuJd3jnGF0kx/Lsl5uvieaboNEiKoWP/ShkJtmivQaAJmbVcD8ONgS65PXO+FQkA==;4HeQr8hWOrDkU4QBOWRiZw=="
 ---
 

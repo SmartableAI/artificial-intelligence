@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fintech's Wildfire Fighter: This Reinsurer Is Using A.I. To Make California Insurance Affordable"
+    excerpt: "San Francisco startup Kettle thinks its statistical models can predict wildfires better than any other reinsurer. It officially launched today and recently closed $4.7 million in seed funding."
+    publishedDateTime: 2020-10-20T10:34:00Z
+    webUrl: "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/"
+    ampWebUrl: "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e409faad21a294c41ea03%2F0x0.jpg%3FcropX1%3D614%26cropX2%3D3072%26cropY1%3D65%26cropY2%3D1447"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Will fintech change the face of banking?"
     excerpt: "Fancy new apps have become popular for everything from making a payment to buying insurance and shares. Should the big banks be worried? Simon Wilson reports."
     publishedDateTime: 2020-10-17T10:14:00Z
@@ -85,19 +101,19 @@ related:
         width: 300
         height: 234
         isCached: true
-  - title: "5th Africa Fintech Summit to be held virtually"
-    excerpt: "This year’s Summit will host over 1,000 attendees and 60+ speakers calling in from 10 different time zones across 6 continents"
-    publishedDateTime: 2020-10-20T08:28:00Z
-    webUrl: "https://www.africa-newsroom.com/press/5th-africa-fintech-summit-to-be-held-virtually"
+  - title: "FinHub 973 launches to boost fintech sector in Mena"
+    excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
+    publishedDateTime: 2020-10-20T10:32:00Z
+    webUrl: "https://www.wamda.com/en/2020/10/finhub-973-launches-boost-fintech-sector-middle-east"
     type: article
     provider:
-      name: APO Group English
-      domain: africa-newsroom.com
+      name: wamda.com
+      domain: wamda.com
     quality: 24
     images:
-      - url: "https://www.africa-newsroom.com/addons/shared_addons/themes/apofront/img/logo.png"
-        width: 560
-        height: 214
+      - url: "https://wamda-prod.s3.amazonaws.com/feature-images/8348f78df8d25ad.jpg"
+        width: 1584
+        height: 1387
         isCached: true
   - title: "FinHub 973 launches to boost fintech sector in Middle East"
     excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
@@ -113,6 +129,29 @@ related:
         width: 1584
         height: 1387
         isCached: true
+  - title: "Top 5 FinTech announcements from mid-October 2020 for the UAE"
+    excerpt: "As the UAE aspires to position itself as the world’s leading technology hub, Dubai has set its eyes on disruptive FinTech start-ups to achieve its goals."
+    publishedDateTime: 2020-10-20T11:44:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/top-5-fintech-announcements-from-mid-october-2020-for-the-uae/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/FinTech-Funding-wealth.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "5th Africa Fintech Summit to be held virtually"
+    excerpt: "The fifth Africa Fintech Summit ( will be hosted virtually this year through the Accelevents ( platform on November 9th, 10th, and 12th, 2020. The Summit takes place at the backdrop of the global COVID-19 pandemic that has brought unprecedented need for digital trade & finance and positioned fintech as key to economic recovery."
+    publishedDateTime: 2020-10-20T10:51:00Z
+    webUrl: "https://www.cnbcafrica.com/africa-press-office/2020/10/20/5th-africa-fintech-summit-to-be-held-virtually/"
+    type: article
+    provider:
+      name: CNBC Africa
+      domain: cnbcafrica.com
+    quality: 4
 
 secured: "XAW0ddeM1v3woC4GHeZY8h4efy2JDF+E/xZrfNiEm2/SdCX5gY0pDiMBIW+WhyBBy4p9BXxNS2TaBD0GCk1VO1jKr8P/OoY2FkXhwGYTTc/RhCQZ9tp5zO2PW4/tBNZTYYLLggvaBfkFJak2Ty7l6G2BtytT8I8QnDYHlVdUldz45po1y0s0WtV4tPEfLzUNvknvG9+KdWN6fSZ2Ia6A4yiFK6zxr0/bUSolKHF8KRXrK/uzfRU8NnBdEihzw7VNplKs+B7oMNA20sFdc3PRTo9+rl4tNZrRcGU/4qgmK7g7W0ts2dMnHr/WW8/OwDA2ncLaIesXa9Rfpl3REyaV6mZTWljwezUqCy+PJHvXIUNztTFCXm2ney6zhQEpYZQBNgZZQ4E0cuw837n+R8CwruBqHySux44vdt4uT+jZQQ0OPnh6VFAJ4YfmOHPJRKxPPpf2QFz9FgSQ8MD+sHiNK+n4T9IPaRGvVcphgTc/9cORpb+w4CTYQ+YibawflVIXFBMZqDlhKIRVSejY8We3gg==;29iafE0RMxq3oJf9JMvaWw=="
 ---

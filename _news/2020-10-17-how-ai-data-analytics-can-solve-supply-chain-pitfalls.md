@@ -137,6 +137,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 41
+  - title: "Additional data, advanced analytics improve performance of machine learning referral app."
+    excerpt: "Research team affiliations include Regenstrief, IU Fairbanks School of Public Health at IUPUI, IU School of Medicine and Eskenazi Health."
+    publishedDateTime: 2020-10-20T10:29:00Z
+    webUrl: "https://infosurhoy.com/news-summary/additional-data-advanced-analytics-improve-performance-of-machine-learning-referral-app/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 10
   - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
     excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
     publishedDateTime: 2020-10-16T19:30:00Z

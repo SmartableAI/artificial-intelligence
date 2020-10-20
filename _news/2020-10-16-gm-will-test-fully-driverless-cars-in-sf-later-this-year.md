@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/cruise-testing-san-francisco-214222312.
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-testing-san-francisco-214222312.html"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "GM's Cruise plans to test unmanned self-driving cars this year in San Francisco"
-    excerpt: "The company received a permit from the California Department of Motor Vehicles to remove the human backup drivers from its self-driving cars. Other companies to previously receive such a permit include Alphabet's Waymo, Autox Technologies, Nuro and Amazon ..."
-    publishedDateTime: 2020-10-15T18:03:00Z
-    webUrl: "https://www.cnbc.com/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/15/gm-cruise-to-begin-testing-unmanned-autonomous-vehicles-this-year.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105600216-1543518019363cruiseleadership.jpg?v=1543518088"
-        width: 4000
-        height: 2667
-        isCached: true
   - title: "GM’s Self Driving Car Service Allowed to Test Vehicles Without Safety Drivers in California"
     excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
     publishedDateTime: 2020-10-15T21:58:00Z
@@ -93,15 +77,6 @@ related:
         width: 1920
         height: 1196
         isCached: true
-  - title: "Cruise to test self-driving cars out in the wild in San Francisco."
-    excerpt: "Cruise announces in a Medium post that it plans to begin testing unmanned autonomous vehicles by the end of this year in San Francisco after landing a permit from the California Department of Motor Vehicles\"Before the end of the year,"
-    publishedDateTime: 2020-10-15T18:37:00Z
-    webUrl: "https://seekingalpha.com/news/3622606-cruise-to-test-self-driving-cars-out-in-wild-in-san-francisco"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "sAnaWB91vRdTTIAYXrKkWmER2lvAaHQmvRM4/3mSSPycxYEHf50iBVplPlHhOdn0Ydl11RmPuT8BnTEbfj9AEqReljL/jS2JNJOXaI30DpgJeoWNZX7cqpvmoU7YrD950wbqPCV1MNTaHroBJiZMBmi7TOU/jquVVNSvhb+LhDTUjRUQhYwrKZmqUzn/qmn4L5wUF2mswq0FD9P4QgOUMHPhvC6Tx9/kgsf9lLmj78DydCBeTTyXcMTybbHQGeE+OmH3ZNGZO/zvZifN7ctd6YMMd8/Nu5sgkXkh5LElpxgBkkdVmiemzUPycv1daAYXVXwNKpSIpyHwhwPzvTSGmdQHysuQMvYDxvhlJydLKpMZ78dbunojIfVYK1FpKguIaoZj77mcRdq32YE/EYwpisyiV3XyRRYf5Z85eWX+Tm9isbED6bxAS2mBGEasgm2o9IjaeNo7E5esMiKrg3G67xk59RZsYwEbIn/rkRCXBR2CpgWCLXjgUZyNMSQhuLFXy5C0K/C3x98NRhHAqGC7Ow==;Sd47jKjX+RNgNP0Zs2uJmA=="
 ---

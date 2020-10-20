@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "CINECA to Build World’s Fastest AI Supercomputer with NVIDIA and Atos"
-    excerpt: "Featuring nearly 14,000 NVIDIA Ampere architecture-based GPUs and NVIDIA ® Mellanox ® HDR 200 Gb/s InfiniBand networking, Leonardo will propel Italy as the global leader in AI and high performance computing research and innovation."
-    publishedDateTime: 2020-10-15T17:36:00Z
-    webUrl: "https://www.nasdaq.com/press-release/cineca-to-build-worlds-fastest-ai-supercomputer-with-nvidia-and-atos-2020-10-15"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "NVIDIA and Atos Team join forces to build world’s fastest AI supercomputer"
     excerpt: "NVIDIA and Atos Team this week announced a collaboration to build the world's fastest artificial intelligence supercomputer. The Italian inter-university"
     publishedDateTime: 2020-10-19T09:16:00Z

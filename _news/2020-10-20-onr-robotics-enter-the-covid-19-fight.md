@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php
 webUrl: "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes"
-    excerpt: "Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients,"
-    publishedDateTime: 2020-10-15T17:23:00Z
-    webUrl: "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/"
-    ampWebUrl: "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/"
+  - title: "Artificial Intelligence Services Market Growth Statistics Report 2020-30: Covid 19 Growth And Change"
+    excerpt: "id=3207 The artificial intelligence (AI) services market consists of sales of AI and related services that are used in telecommunications, government, retail, defense and healthcare. Companies in the artificial intelligence market provide outsourced ..."
+    publishedDateTime: 2020-10-20T04:45:00Z
+    webUrl: "https://www.openpr.com/news/2164621/artificial-intelligence-services-market-growth-statistics"
+    ampWebUrl: "https://www.openpr.com/amp/2164621/artificial-intelligence-services-market-growth-statistics"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2164621/artificial-intelligence-services-market-growth-statistics"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/schematic.png?w=1024"
-        width: 1024
-        height: 491
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
 
 secured: "SNC39SEgz8ttdhHWaQRFzH1d1J8EXzQ7EV4zdjHBKdrXQwQsjCROOQxifEVnxrVOk+hrtM6B7ijHaTKW7+WxVmdyHEdrnLyddbFa6sItA/81Y7pHMduwJGW/4nM6mXHprk3RrTMDo0PbFn1SYsu8H9us3uEc2nD9CTLpvlu3SnXAChW2MfvejSUL+Jy6LtvUihw5sk0qSjhjorhZGSoNU7F2sYqzRCzVh0Qa38ixHehgNlo8c83EjVb8hPGXJSY7tckDADFh4WppQJalBi30PaMC3oCWzooycqM8vRIE2R7Qy6kNvAso58T4TF21qJ0X7zyaIxoS8bkTKaW6QiCU+UKCJvKl76FerAKxFdUfaA4=;CptY+AiPp4W0keVIkJH0BA=="
 ---

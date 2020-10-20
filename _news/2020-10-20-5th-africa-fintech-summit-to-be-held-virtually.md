@@ -1,28 +1,22 @@
 ---
 category: news
 title: "5th Africa Fintech Summit to be held virtually"
-excerpt: "This year’s Summit will host over 1,000 attendees and 60+ speakers calling in from 10 different time zones across 6 continents"
-publishedDateTime: 2020-10-20T08:28:00Z
-originalUrl: "https://www.africa-newsroom.com/press/5th-africa-fintech-summit-to-be-held-virtually"
-webUrl: "https://www.africa-newsroom.com/press/5th-africa-fintech-summit-to-be-held-virtually"
+excerpt: "The fifth Africa Fintech Summit ( will be hosted virtually this year through the Accelevents ( platform on November 9th, 10th, and 12th, 2020. The Summit takes place at the backdrop of the global COVID-19 pandemic that has brought unprecedented need for digital trade & finance and positioned fintech as key to economic recovery."
+publishedDateTime: 2020-10-20T10:51:00Z
+originalUrl: "https://www.cnbcafrica.com/africa-press-office/2020/10/20/5th-africa-fintech-summit-to-be-held-virtually/"
+webUrl: "https://www.cnbcafrica.com/africa-press-office/2020/10/20/5th-africa-fintech-summit-to-be-held-virtually/"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: APO Group English
-  domain: africa-newsroom.com
+  name: CNBC Africa
+  domain: cnbcafrica.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.africa-newsroom.com/addons/shared_addons/themes/apofront/img/logo.png"
-    width: 560
-    height: 214
-    isCached: true
 
 related:
   - title: "6 fintech trends that will redefine the future of finance"
@@ -38,6 +32,22 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/19/692f0fae-0df0-11eb-94e0-02af7fd927c6_image_hires_094836.jpg?itok=BWqBzU0p&v=1603072142"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fintech's Wildfire Fighter: This Reinsurer Is Using A.I. To Make California Insurance Affordable"
+    excerpt: "San Francisco startup Kettle thinks its statistical models can predict wildfires better than any other reinsurer. It officially launched today and recently closed $4.7 million in seed funding."
+    publishedDateTime: 2020-10-20T10:34:00Z
+    webUrl: "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/"
+    ampWebUrl: "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e409faad21a294c41ea03%2F0x0.jpg%3FcropX1%3D614%26cropX2%3D3072%26cropY1%3D65%26cropY2%3D1447"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Will fintech change the face of banking?"
     excerpt: "Fancy new apps have become popular for everything from making a payment to buying insurance and shares. Should the big banks be worried? Simon Wilson reports."
@@ -99,6 +109,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "FinHub 973 launches to boost fintech sector in Mena"
+    excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
+    publishedDateTime: 2020-10-20T10:32:00Z
+    webUrl: "https://www.wamda.com/en/2020/10/finhub-973-launches-boost-fintech-sector-middle-east"
+    type: article
+    provider:
+      name: wamda.com
+      domain: wamda.com
+    quality: 24
+    images:
+      - url: "https://wamda-prod.s3.amazonaws.com/feature-images/8348f78df8d25ad.jpg"
+        width: 1584
+        height: 1387
+        isCached: true
   - title: "FinHub 973 launches to boost fintech sector in Middle East"
     excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
     publishedDateTime: 2020-10-20T08:28:00Z
@@ -113,7 +137,21 @@ related:
         width: 1584
         height: 1387
         isCached: true
+  - title: "Top 5 FinTech announcements from mid-October 2020 for the UAE"
+    excerpt: "As the UAE aspires to position itself as the world’s leading technology hub, Dubai has set its eyes on disruptive FinTech start-ups to achieve its goals."
+    publishedDateTime: 2020-10-20T11:44:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/top-5-fintech-announcements-from-mid-october-2020-for-the-uae/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/FinTech-Funding-wealth.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
-secured: "e3baF7X5AS97ETWjA8ZYNTtFrP/OnKyhRu5nCxgE/dTkzCe24QJi/jMEJYoAzwK6H9CdlstNWfSfKmgg8yyr110oq/QxtmqquWjW8FKEvMaA1aMpWf6K9ESHFuP3H3NEfmugTkKULfZs+6fhwewkL/kOgcKpwzLwd4MyExALmLzb423cpc5cC9+mGBAlP5EyBSUeowYNGCJ36ty5VbcLRNaRe4jV+4yKCz+iPr7jXj2H1Z96yQNuqP/1hpGly+OArzhTdZyR5M10F/emGnD9ziCRsnSuoJq49eL/AJBASg8Qf56/pUIw0eow0Na1gP8UEDbkUEwe9MxPufEdtyPoTHj9LTdhmz24nVPV4Y1hWrw=;Et0kActNxEWuV4sOBrNqFg=="
+secured: "2t8Vyes85amc0BDNexnlgVSgrIfrqubQvOAoz+2fx/aA06W2iKIOXOvdmKHDKp59KxDveWbgQAiy8Q3vfkOp9hNJxuypnS4TX9o2qFBaJWhZSH2Ony6XbEdzxfTOMhOcwJmr6N6kW8pTFTqHvhaKPOhdSOi1htB/NUiYZDWvK+Lf/6hcr0yTgr4jRyrHyaJGgiXfaOm9IL4D4RVnFrmrylP+zOIe1dHUf/w0FGmdUb/2inkImD54JQYEpQPtx3wJ9LGi8F6YR49zYd+3BwamsE2kJuyRYFi8iDyZinpn/XETznZDml/SsidLyGQ36/SVMw9k9Q1cscd0hRLI24sqUgkJCSe3afz2qSPxXV58iVE=;UeslJHEJ3q4UmWAvC2v+og=="
 ---
 

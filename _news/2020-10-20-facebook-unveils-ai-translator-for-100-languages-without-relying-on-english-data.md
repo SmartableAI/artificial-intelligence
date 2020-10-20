@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook AI open sources multilingual machine translation model"
-    excerpt: "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations."
-    publishedDateTime: 2020-10-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/4eccddda-3c93-42e5-96df-afcb5d5bf494/m2m100-summary.png"
-        width: 1173
-        height: 493
-        isCached: true
   - title: "Facebook's new AI can translate languages directly into one another"
     excerpt: "That’s why Facebook AI has developed a new MT ... two-thirds are in a language other than English, she noted. Dubbed M2M-100, Facebook claims that it is the first multilingual machine translation model (MMT) that can directly translate back and forth ..."
     publishedDateTime: 2020-10-19T15:02:00Z
@@ -52,11 +36,43 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=95&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=69a553b53d39c0b9162403452839efda71a2de93"
         width: 600
         height: 400
+        isCached: true
+  - title: "Facebook AI open sources multilingual machine translation model"
+    excerpt: "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations."
+    publishedDateTime: 2020-10-19T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/4eccddda-3c93-42e5-96df-afcb5d5bf494/m2m100-summary.png"
+        width: 1173
+        height: 493
+        isCached: true
+  - title: "Facebook’s new AI model translates 100 languages — without going through English first"
+    excerpt: "Facebook has open-sourced the first AI model that can translate between any pair of 100 languages without first translating them to English."
+    publishedDateTime: 2020-10-20T10:52:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 96
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-20T102109.015-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "Facebook's new AI model can translate one language directly to another without using English"
     excerpt: "There are several reasons for this, one of which is the lack of useful AI training data for non-English language-to-language translations. Plenty of people translate words and phrases from English to French or French to English (thus creating plenty of ..."
@@ -184,6 +200,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook unveils AI translator that can translate 100 languages"
+    excerpt: "Facebook has unveiled their AI machine learning translator for 100 languages."
+    publishedDateTime: 2020-10-20T10:42:00Z
+    webUrl: "https://www.newsoneplace.com/34307891911/ai-facebook-unveils"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 54
+    images:
+      - url: "https://www.femalefirst.co.uk/image-library/partners/bang/land/500/f/facebook-aW1hZ2VzMS8yMDIwLzEwLzIwLzE2MDMxOTAyNjhjcm9wcGVkMTU.jpg"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Facebook Says This Is the Culmination of Years of Work in Machine Translation"
+    excerpt: "Facebook introduces M2M-100, a neural machine translation model that avoids using English between source and target languages."
+    publishedDateTime: 2020-10-20T10:03:00Z
+    webUrl: "https://slator.com/machine-translation/facebook-says-this-is-the-culmination-of-years-of-work-in-machine-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 38
+    images:
+      - url: "https://slator.com/assets/2020/10/Facebook-Announces-Breakthrough-in-Machine-Translation-for-Low-Resource-Languages.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Facebook AI open-sources its M2M-100 multilingual model to improve translation accuracy"
     excerpt: "In a blog post, Facebook AI researcher Angela Fan explained how ... “We’ll continue to improve our model by incorporating such cutting-edge research, exploring ways to deploy MT systems ..."
     publishedDateTime: 2020-10-19T15:02:00Z
@@ -238,6 +282,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "qisiPADZNXG8U8EIrbJvlNsr1DYfX5Gsgkr+6mOoJhcSJkpe+TVb2geV4ptaYDfX9+5je1KevAv+kLL60yIO3flzqQnUKUQlWTgPl/zEU5NlqM16rRsCLs8NeLL4apaqmKO2q3mYXIudCchzMR6HhTsfMYJ9qYak3fy4NOI8KW8ZUS+xuQZG22vvEoplus3w8hq00vxTA8Cb+Nq5HWXle+vf832/COfbnZkb/W81/9wIWWSfnGanqK8QEldtpkqVcG95pBBs61Q00IfpbFTnUXKu8qP6g2oehQ0rNBCzgkLuRLR3lU6YSxXDS9vw+cqHACJEnscTrvii1a78rgZDklMRb7Z6uq47Pqhwh5Q1+go=;2ZoRp/tHvhp5k2uClQYsyA=="
+secured: "92QFJu+KY+LYcK/dWNvWENQtfkKLM2hWETfRR3ajx2wtOH4lg4Cuu3IQ24BEogvA/GJi2Zxr3oPLcnO32cRjMrzIr7g70bVGmtEFAwoJpSguFkUOH/fqDPneXJTU2jOy5bGTUQGRdexC9jyc9oqvJS+1xkihw7wMW7aazlMCRYhiTi5w4UpuzMC7f7xRstu6oBM5ypgsq19QOg3EEYY7pjo9sTN/ZaygNlIlksOqC5qswTgE7GH/D1oemvGmZHK4ncWErjMX5PQh9Ps1njExmoqnAL6TzfsvUfaxYgF28Q0QFD9MC/OCLMKpr9LnE+bQT1yU3pvmslHF4dUcXQROWBZRbSX/VTj3vT1RLwIcYWvyU6qcjhUYMRpKtAEXJLkSQ+bCHX/NhSPQnUeXBB2qdc0ial6rEK7qGuDvkZ7Fm1d7VW9pOTLj4qnc7GG0vA3krwMO6jWA7U7CN5vr06rTXoFDhfPMjS3bq6oh06YuuqNJswYahKzuGyTouuQklH/sZE9V1ukS6NLGOBJW+33mFA==;uRtTfYCA/hU3/A5klYR8Vw=="
 ---
 

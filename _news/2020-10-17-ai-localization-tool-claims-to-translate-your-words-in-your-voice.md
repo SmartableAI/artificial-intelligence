@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/resemble-ai-localize-voice-translation-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 600
     height: 350
     isCached: true
-
-related:
-  - title: "AI can help veterans transition to civilian workforce"
-    excerpt: "Eightfold.ai helps companies find good candidates for positions but especially for veterans who may struggle with the lifestyle change."
-    publishedDateTime: 2020-10-15T18:52:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-can-help-veterans-transition-to-civilian-workforce/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-can-help-veterans-transition-to-civilian-workforce/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-can-help-veterans-transition-to-civilian-workforce/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/10/15/637b406a-e75a-48c0-89a3-121a38ea0313/resize/1200x/0dbc49a2a3a674bf6864f0d66ba79b49/istock-1129204858.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "RHxgTnKt65ivlQvaXT5NE4oXiRmoWa8pYEjUX4NCblZRL+63DFznZhJO5xsMpW9EzWbGKJ5CWGN/cE2GBMGCOXxtTVNAAwh7N6FDcYvNhTtTnEaw/Jfqfc6mv7JP0471Q7vqiSCDu3AVb2MguMw5EEkrK2i0+lqMPg7EBxaUqh4B5TqaJktiH7/mtZlF5ED2CGSV/Pdew0uy1OXy/YCzpUn8B1m8S06NGUNrfKxGC+4kw7VlC8Szcxps50iC5ItL0jiw+igZHrcvb7WQW78Dt2nXEZ4qVD6Y9PCEgmcBrYWUegARko1qOLCtD+9QL+SVaEs4SQJDn4AkkpNY/Hcbe5DDiqfC9y39FuvzWoAg70pBvlB/F+gnPMZlLA3aZO8UX6LYoApe44fjk3v4VGYbXayCdYyDnoX+BApW9z2YezzBJRS9lZAvyeVUldvx+aqnwB/yzrycBfizgdms/hjC3WeDXw2MlHJvshomgB9j98G69Kp4ySenmN4v/QpjMNHg6KTPFHYif/za7kif5ZO8Dg==;T1hLDQ8sZtonMrHYYC/nOA=="
 ---

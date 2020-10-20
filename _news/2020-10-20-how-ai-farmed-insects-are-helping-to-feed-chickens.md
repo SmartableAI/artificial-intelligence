@@ -1,18 +1,22 @@
 ---
 category: news
 title: "How AI farmed insects are helping to feed chickens"
-excerpt: "Corn and wheat have long been part of a traditional diet fed to farm chickens - but now there is something new on the menu - Black Fly larvae. BBC Click's Paul Carter visited a farm that is using artificial intelligence to grow the larvae."
-publishedDateTime: 2020-10-20T08:52:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/technology-54486039"
-webUrl: "https://www.bbc.co.uk/news/av/technology-54486039"
+excerpt: "BBC Click's Paul Carter visited a farm that is using artificial intelligence to grow the larvae. The process is more environmentally friendly and it seems popular with the chickens."
+publishedDateTime: 2020-10-20T09:52:00Z
+originalUrl: "https://www.bbc.com/news/av/technology-54486039"
+webUrl: "https://www.bbc.com/news/av/technology-54486039"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -23,6 +27,6 @@ images:
     height: 224
     isCached: true
 
-secured: "aaV7ORIacZoZDkHxJlrHin7yA6GXnzjSmCMTB0D92t+wA1AUAu0vbKVj/56YmiPKrthV3rLqTz8do4PesE5ANgIDA1VgRDrdoyDtg7AUws+45GRkBehw+TxhLqN01Mfg7CCGo6m1FOY4YfaeXcJ88cJwjZRhu5OlsBGpoPfob148NM0ZpCWzEkUF22oT5QtQ3WJiqyq4DF4w7HaPD3vvuv6b7UHsQB1fUTx+rtcH7AXEI1jB4AnLut1sNbwWJUeqb6VZyNDItdWT22I2gQSXPNULkqgKYIdWCmq2+gWRyw+u6oQGSqc6kz/j3Cnbe360Qg3M3Gt4HB1joBJ4AYUSJG+HOJ+fvtz2oTnHncfOeCY=;+7ZCXiGMHtTwdsuzRh9N5g=="
+secured: "p5lV3cDWybvNceuwUyPB7+1qFDyQQF8X3fDG05zYmU1u/l93ZiYpk2C6KNqj9HC6g8htprih+Q6tIjWl8tmpAePyyzY96iJ6IY7+jAYf5QirbX0WtcE3Te3JBYre4UWrxuH8xacEnuRVNpIfsOlco2eSrMu/QJcvyH/k7plbRWy/2cM4VZs7N1kQKwTgJOXC/omQs1+bKxLTcqVLQVBE4+THkUEb1vOpGwGmnPwKjuN7C0pycP3q0YUDxFcFKAggDZHCVNkM1AZwGEozBkVs/+THF2UHD3dvKOlxQMj47pQmZx/wsIsGuTgbcMp+mS7GuGNJiiz9ykxdhtCVb4V2n8+WhdwV4K14TjybJHop91s=;Pyb2RFcGxCvnC0v6S/edaQ=="
 ---
 

@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI in Fintech Market May Set New Growth Story | Microsoft, Google, Salesforce.com"
+    excerpt: "Oct 19, 2020<p>Latest Research Study on  Market published by AMA, offers a detailed overview of the factors influencing the global business scope. Global AI in Fintech Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
+    publishedDateTime: 2020-10-20T11:30:00Z
+    webUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "H7Pd6nUZTYMOS9U5qYZFt3JbzZKfJFBHh5vFK0Wdkj+5pV9tLCY6KPJktOcfI2AFLlDFa0E4yLiwvBqU79NL3tu3bx6oJCxGEsNzd5Vcv8hz87PtC8LkQPlVMcLjni1+IsV7ywGR9AMGm2/+lQk3xArR3OPhwKwlIOOr5JMqM4NDIcXOigixiq0DrnRA4nR8upGhpHmR29zhOcYxPoeOfaAHfO3dSHXJ+KbIZmI1OFh3s6YhWrRGWMJv8WRZ1HV8+P4Lbpiokn0yN++h3Mr4KDjE/93rAT1e52x0/+WG5MJBj+4zLwaBXlp75fbc0B1CJ6h2f42FL5Eb5J1v2oHbunZte7VZ22ZxCECHTyKzzB2rWADEW2iH+Y9/ScvHM8VeWS60tZGoLsf3hv6Mr6d68IwKYwfrEq+ZvC4r4IoFvkj1o1tVlwwjebblVwAJS45A4kwzf5BEnciCiscLw8IwiORbgCJUhp1So74a9edeNfKa4hZeLC1jrHNForr4mHakp64YP+SlyWuAB+m2t+JWSQ==;kUVF9LfHOL/i7Ucn9mgFLg=="
 ---
