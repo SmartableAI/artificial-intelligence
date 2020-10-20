@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-s
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15?amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Nasdaq
@@ -21,45 +21,29 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving cars can be forced to brake by hijacked billboards"
-    excerpt: "Security researchers have demonstrated how hijacked billboards could be used to confuse self-driving cars -- forcing them to slam on the brakes, or worse. Autonomous driving systems have come on leaps and bounds in recent years,"
-    publishedDateTime: 2020-10-15T09:26:00Z
-    webUrl: "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
+  - title: "Velodyne Lidar lands 3-year sensor supply contract for Baidu"
+    excerpt: "Velodyne Lidar Inc., a San Jose, Calif., maker of sensors for self-driving vehicles, has secured a three-year contract to supply Baidu Inc., a leading Chinese autonomous-driving technology developer."
+    publishedDateTime: 2020-10-15T15:13:00Z
+    webUrl: "https://www.autonews.com/china/velodyne-lidar-lands-3-year-sensor-supply-contract-baidu"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
-  - title: "Self-Driving Car Subway Planned For Las Vegas Strip"
-    excerpt: "(CNN0 – The work on a subway for self-driving cars in Las Vegas could expand; courtesy of businessman Elon Musk. Musk’s company; the Boring Company is already building a underground tunnel loop in the city."
-    publishedDateTime: 2020-10-16T06:57:00Z
-    webUrl: "https://www.wltz.com/2020/10/16/self-driving-car-subway-planned-for-las-vegas-strip/"
-    type: article
-    provider:
-      name: WLTZ
-      domain: wltz.com
-    quality: 24
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
     images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.wltz.com/content/uploads/2020/10/Screen-Shot-2020-10-15-at-10.43.30-AM.png"
-        width: 431
-        height: 211
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Velodyne-Alpha-Prime-1-1024x576.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Cruise to test unmanned self-driving vehicle fleet on San Francisco streets"
-    excerpt: "Cruise, the creator of the red and white self-driving vehicles that have become commonplace in San Francisco, announced Thursday it had received permission to test its driverless cars without an in-person backup on public roads statewide. More akin to ..."
-    publishedDateTime: 2020-10-15T21:33:00Z
-    webUrl: "https://www.sfexaminer.com/news/cruise-to-test-unmanned-self-driving-vehicle-fleet-on-san-francisco-streets/"
+  - title: "Velodyne Is Poised to Be a Winning Self-Driving Play"
+    excerpt: "The company’s offerings already are in high demand and long-term investors should buy Velodyne stock. Velodyne’s annual revenue is estimated to have reached $100 million. This means LIDAR is widely deployed in automobiles."
+    publishedDateTime: 2020-10-15T16:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/velodyne-stock-poised-to-be-a-winning-self-driving-play-1029685439"
     type: article
     provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 22
-    images:
-      - url: "https://www.sfexaminer.com/wp-content/uploads/2020/10/23017015_web1_201015-SFE-selfdriving_1.jpg"
-        width: 1000
-        height: 667
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "97ml28hHLf5M1HLDNzpZCviUlgPtMunB1ysM4/z7iyuXZIEV8Swg/2ORdJp/k9Ub83pUIqPcfsnhVlsH82YiIk3i1JSeNB8IiX1WFwhnftxcnlO6c9wJhfRQOIpxld4oqfw4BVKoBZH8dknolRd9+8RJ0RTvneiBLmxwlyGwItOoDrHQo6DCs6T5/CAE6g+8BxQFlzGuBBU9CP3TmOuuFByAyGCLFzVQvsAKHuOZdS5RnCb6GHg02ZkCHOMpjLgKJhAiZUfnCpLroGrgEvRLsfYgP1Q9qfVnD7vuLKDUBrEc4K6FRNYMgM9rjWecHbYC0YS2ltrefKlWRa4Wq0mjtfECmE9aNPYcwk23Zal0WYU=;iVIZpOkmLBA2GVvxy+bbnw=="
 ---

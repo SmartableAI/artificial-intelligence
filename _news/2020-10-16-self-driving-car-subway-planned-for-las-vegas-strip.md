@@ -7,7 +7,7 @@ originalUrl: "https://www.wltz.com/2020/10/16/self-driving-car-subway-planned-fo
 webUrl: "https://www.wltz.com/2020/10/16/self-driving-car-subway-planned-for-las-vegas-strip/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,44 +23,6 @@ images:
     width: 431
     height: 211
     isCached: true
-
-related:
-  - title: "Self-driving cars can be forced to brake by hijacked billboards"
-    excerpt: "Security researchers have demonstrated how hijacked billboards could be used to confuse self-driving cars -- forcing them to slam on the brakes, or worse. Autonomous driving systems have come on leaps and bounds in recent years,"
-    publishedDateTime: 2020-10-15T09:26:00Z
-    webUrl: "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
-  - title: "Velodyne Is Poised to Be a Winning Self-Driving Play"
-    excerpt: "And both advanced driver-assistance systems (ADAS) and fully autonomous vehicles are poised to proliferate in coming years. Thus, Velodyne’s financial results are set to surge long term. Velodyne CEO Anand Gopalan told Bloomberg that the company’s customers have “tremendous momentum” when it comes to commercializing their ADAS and autonomous-driving systems."
-    publishedDateTime: 2020-10-15T17:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Cruise to test unmanned self-driving vehicle fleet on San Francisco streets"
-    excerpt: "Cruise, the creator of the red and white self-driving vehicles that have become commonplace in San Francisco, announced Thursday it had received permission to test its driverless cars without an in-person backup on public roads statewide. More akin to ..."
-    publishedDateTime: 2020-10-15T21:33:00Z
-    webUrl: "https://www.sfexaminer.com/news/cruise-to-test-unmanned-self-driving-vehicle-fleet-on-san-francisco-streets/"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 22
-    images:
-      - url: "https://www.sfexaminer.com/wp-content/uploads/2020/10/23017015_web1_201015-SFE-selfdriving_1.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "jMph04otBj4NRl138PfDugCZd6pk59Dp5O/1a5IEYwK/3afbAeKCOTCzOKOACsbjaDXrUCV7ydTIjDLy3UMN8Yg5TvgEOR4D1qTU7uI5PTc7++c56QQlDArUxcM6hCxBfVcmBoMoY14HO9TvkBjrUhpp3g4UqqfudQf0NkZNLSpczaHFLVMwd4wZuq68TUNjmiZDfOadrSU7dwuptI7+fdgiJ1UBN6IqRkRYlzWfIg1TDOvp/LR4knLEYRpo1QHCJuZizOUEG2e6GgC3gLesHCWvCYNNeQQoXGuT+gLRJPXkUbm9hCOc/EIL7zpYntYlcqR0rpg8OZJohlQumZ1diK5DXwRfpx+Jn1fOcMISm3G7KzXDZsyaaWc43ukQgIyr3x2TOvxdlsocwNeUtV/O13tJj1S+6iBvoe+ymCV5rdQzcTAUSWfZBrdTYRyHa3c27K8f54s8YB5eZ6IobxLYGDgcYdwlF//TdKi40eeNJ3EcXdyByRXlfHDGZYTXdwGr7tfwMNcz2kyASoT7M74g2g==;0JxJFQWpGEP4ZtHtm+h1yg=="
 ---

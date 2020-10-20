@@ -182,6 +182,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Facebook unveils translator for 100 languages"
+    excerpt: "FACEBOOK on Oct 19 unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages"
+    publishedDateTime: 2020-10-20T02:23:00Z
+    webUrl: "https://www.thesundaily.my/style-life/tech-today/facebook-unveils-translator-for-100-languages-JX4707290"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesundaily.my
+    quality: 26
+    images:
+      - url: "https://www.thesundaily.my/binrepository/480x323/0c37/480d250/none/11808/UNBD/files-us-it-lifestyle-facebook-185857_1699228_20201020094712.jpg"
+        width: 480
+        height: 250
+        isCached: true
   - title: "Facebook unveils 1st multilingual Machine Translation model"
     excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT ... those that speak low-resource languages,\" Facebook AI said in a statement."
     publishedDateTime: 2020-10-19T22:59:00Z

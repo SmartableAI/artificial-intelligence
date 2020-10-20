@@ -55,6 +55,22 @@ related:
         width: 650
         height: 463
         isCached: true
+  - title: "New AI-based method of image analysis finds new cell types in tissue"
+    excerpt: "In situ sequencing enables gene activity inside body tissues to be depicted in microscope images. To facilitate interpretation of the vast quantities of information generated, Uppsala University researchers have now developed an entirely new method of image analysis."
+    publishedDateTime: 2020-10-20T01:41:00Z
+    webUrl: "https://www.news-medical.net/news/20201019/New-AI-based-method-of-image-analysis-finds-new-cell-types-in-tissue.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201019/New-AI-based-method-of-image-analysis-finds-new-cell-types-in-tissue.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201019/New-AI-based-method-of-image-analysis-finds-new-cell-types-in-tissue.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2017%2f6%2fAnatomical_structure_of_biological_animal_cell_with_organelles-eranicle_1d73b50575dc4546875a4a2fc7d429a6-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "AE2Cp8sDLabgU4VjKywSB4LBw5K8RGfU/PdLQc5v7a7UvDbNravYhf1yeFZaudWy+07CAq2fE1D/AqJ8bN5hr8nT9U1ugyfLE8AqGhBk7GIQOlpA/gBag3mt5P+Ynktw/4Cb7j1g66ekbPhmipF0HiHQHgBQ8mkiMEMaA2iFGDgFEZY+CDZ4B/UiCFMR3F3qu1iI/M3isMiQwGYZNRWShaa+CPJP2Sx9+fCCRu1T3Gjn3Cgh+nj8LQraC/h11DEIXxzUuTQi11P2xJSo24wKm4qeec6P3wThIhHEkH1WzLa/QUw2v++P3LCACfDP+PYTtj+D0VrJWh4rJVarjeJBipSM3SaEL17d6D3m8Te6snQ=;zmLeqP+cuEGLo6NHRbsHBQ=="
 ---

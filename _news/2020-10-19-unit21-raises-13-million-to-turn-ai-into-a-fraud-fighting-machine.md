@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Balto raises $10 million to analyze call center conversations with AI"
-    excerpt: "Balto, a conversational AI startup targeting call centers, has raised $10 million in venture capital to accelerate its go-to-makret strategy."
-    publishedDateTime: 2020-10-15T11:03:00Z
-    webUrl: "https://venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/balto-raises-10-million-to-analyze-call-center-conversations-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "6PmZ1p00LKGdtkcn5pc+tNmffwauSekbmxHvfYB6Jckn7e1ymnK+Y3TCAYy8NpynhXV4qsgQ7Gxxhrb4Kgmqdl+xfq9aj/Q9uODH/CCamatui0hPkVOZxhKoWlJ+/FgGEItivWMvvb8nhqKs9xPcVjYHVXJrGqpjSsBBzR2JtjNb2p2UrzfP9EmalegllF1MPEJI30WyKM51V4y+TwzXBNZ6YdrCNj079V/6N5fOQAoU+KWbe3gl7c7capPWbth68KCT/QjGa4KeimBqYzrtX55kV6bRLzP+dlDXmHobGgAdY44tX5+ulYdPJUuhZMy8jivouhwKCf9JROcM9k8qhQ9DsfKf16SWOuH1yYc7eDDg1XL1lUqaMjqWoU69Nm+m6L3bSK5Vd8Ismv/eg+dVydVUe6lVbs7YbtxgkCERbFikfElpf3jGrIEXxosLch4fquyrrgiNdVa1HsRlUlT84eNI5JfetUmRUalYLGQEegHAfd5Mr4A71NiBHbnVIV9jWhcfV15TZcpWYsD2gfPO5w==;YWG4hiJlL7KuPjNqZ1QkKQ=="
 ---

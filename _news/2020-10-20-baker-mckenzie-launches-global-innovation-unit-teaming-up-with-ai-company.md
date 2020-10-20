@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HA1C4"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HA1C4"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -24,6 +24,17 @@ topics:
   - AI
 
 related:
+  - title: "Baker McKenzie Aims To Gain Client Edge With New AI Project"
+    excerpt: "Law360 (October 19, 2020, 9:34 PM EDT) -- Baker McKenzie on Monday announced a new partnership with artificial intelligence platform SparkBeyond that the firm said will use AI technology to \"disrupt\" the legal industry first with internal projects for the ..."
+    publishedDateTime: 2020-10-20T01:38:00Z
+    webUrl: "https://www.law360.com/articles/1320648/baker-mckenzie-aims-to-gain-client-edge-with-new-ai-project"
+    ampWebUrl: "https://www.law360.com/amp/articles/1320648"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1320648"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 37
   - title: "Baker McKenzie's New AI Project: Knowing What Clients Want, Before They Do"
     excerpt: "Baker McKenzie announced it's collaborating with an AI technology developer to help it predict clients' future needs. While the software may have less-than-perfect accuracy, lawyers still see a significant benefit."
     publishedDateTime: 2020-10-19T07:34:00Z

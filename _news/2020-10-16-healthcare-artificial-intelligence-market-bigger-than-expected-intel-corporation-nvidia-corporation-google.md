@@ -7,7 +7,7 @@ originalUrl: "https://ipsnews.net/business/2020/10/16/healthcare-artificial-inte
 webUrl: "https://ipsnews.net/business/2020/10/16/healthcare-artificial-intelligence-market-bigger-than-expected-intel-corporation-nvidia-corporation-google/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -17,38 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Quick AI adoption essential for future of work in India, says Intel"
-    excerpt: "Intel said that Artificial Intelligence is essential to the future of work in a post-pandemic world, with over 90% respondents in a survey considering AI to be essential to their businesses in India"
-    publishedDateTime: 2020-10-15T09:15:00Z
-    webUrl: "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/19/full/1560959403-0446.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "AI To Transform Auto Insurance In India"
-    excerpt: "The AI module would make the judgement of the damages on the car very quickly, reducing the processing time from days to mere minutes."
-    publishedDateTime: 2020-10-19T10:33:00Z
-    webUrl: "https://analyticsindiamag.com/ai-to-transform-auto-insurance-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/AI-To-Transform-Auto-Insurance-In-India.jpeg"
-        width: 1050
-        height: 700
-        isCached: true
 
 secured: "2r5mJvL/sKcZtCE2C/ObqiaT1+5y42U5OYDcRssrH5+ERgO0I9NBvd2LSe8ej1O2e7VFbz2o9rMGz8wOBlut2/+0rBB5cfoIA1LCjyFbO0L4G8S6btxXnHEpdUuBmR7A9Ufqx5Le9YVnOl4/lA3E6A/SUCrmDeFQ4zr5fiPCQcNGd5u4nWx08wfFEmnNbd+wwbCgAhkUGw3tW/0m2ynUtdzg1gr3Wt2pDis8feziBrnXKkXt8l4vsir5eq59UgnTSL6U094Cfh8y7Vt2voXZdQ+V5qOIiajoEdeRtShnc3xjInwWi0fobQOq6/SogpeQYgTlATwb/hKZCd5Py4q6F7y43CKvdmhMOo+WrM+ROA15NLg8Uc1wWyMfDqFOdMo1TkFAbEbT18b2LuCt6CePQhtbuKv/ZorjNK2g4CD/I+q9oEYIO/8UQAnLH3uHMG5BNYBr8JSkM2eJON6XET8CcDmPnShOBD2ND8DajeUx0mJlK8OwW8ZQTbhAV9/DG31HFbwFnhgCLQItHR48PxKe3w==;jAjboELFfk28TRHKwEL04g=="
 ---

@@ -189,6 +189,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Facebook unveils translator for 100 languages"
+    excerpt: "FACEBOOK on Oct 19 unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages"
+    publishedDateTime: 2020-10-20T02:23:00Z
+    webUrl: "https://www.thesundaily.my/style-life/tech-today/facebook-unveils-translator-for-100-languages-JX4707290"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesundaily.my
+    quality: 26
+    images:
+      - url: "https://www.thesundaily.my/binrepository/480x323/0c37/480d250/none/11808/UNBD/files-us-it-lifestyle-facebook-185857_1699228_20201020094712.jpg"
+        width: 480
+        height: 250
+        isCached: true
   - title: "How Facebook and Twitter’s content moderation could shape the final weeks of the election"
     excerpt: "Facebook and Twitter’s handling of the New York Post’s Biden-Burisma story is illustrating how tech platform’s content moderation decisions could shape the final weeks of the election cycle — and Republicans are accusing them of attempting to influence the results."
     publishedDateTime: 2020-10-15T14:05:00Z

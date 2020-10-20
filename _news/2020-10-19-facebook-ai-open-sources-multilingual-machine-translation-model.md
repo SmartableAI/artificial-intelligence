@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-mu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
 type: article
 quality: 104
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -185,6 +185,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Facebook unveils translator for 100 languages"
+    excerpt: "FACEBOOK on Oct 19 unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages"
+    publishedDateTime: 2020-10-20T02:23:00Z
+    webUrl: "https://www.thesundaily.my/style-life/tech-today/facebook-unveils-translator-for-100-languages-JX4707290"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesundaily.my
+    quality: 26
+    images:
+      - url: "https://www.thesundaily.my/binrepository/480x323/0c37/480d250/none/11808/UNBD/files-us-it-lifestyle-facebook-185857_1699228_20201020094712.jpg"
+        width: 480
+        height: 250
+        isCached: true
   - title: "Facebook unveils 1st multilingual Machine Translation model"
     excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT ... those that speak low-resource languages,\" Facebook AI said in a statement."
     publishedDateTime: 2020-10-19T22:59:00Z
@@ -209,6 +223,6 @@ related:
         height: 629
         isCached: true
 
-secured: "9ZTXqEH6G3shBTCEUIHU9+6G8OZ2Gq4WcQEMvojQUrjnUzutSYxaUIT1sY8xeoynRgVbADX3y/lbFIKr009ucekx/kux/0z9X/rKwA701rHf9Ge6NeLGePclvMyqWqVw5m53FMvFJNohYeazSqkwI5i6P4MGmV8N/P4rLMhZsGhmAmB4dSW3hkPP1aDH6TvUUxnIeLUTjZ8vCnKzGvkS0PJ4KysgWx4kv6OY74wdd27uhdKlxdQO1UfeK7KFPKuQNrjUvmvyeMA+CoGT/KvG3VVkIezpdd445rERwuokeEW7EqPbPZL69JH38CwxzxFxAhjuobQF/BQw5lX1Ne61PNjgNePqFK3KJC2KZbqNI8k=;gHiuEclSwwkcJXPQtJAdhg=="
+secured: "bPn/Y7mymbfDutYEDfxEUKboFLhFu9Ay8WWSFz8E8FONVXgjg7PJfx+YB+rntcgkL2GQK4DOdGLXBzq4tFllSrcwJkf45HYy6cbWv4pTiHrObuZm+ucycjpc1dREG7Kt7Y5YMpYBJ3ItQslB2uUtDgHbpeM0yxj7ku1Fl8ry+Oj153v7KNjpt1QEHg5K4NpDeUE9UOpixMHOUi5dv1BMczkvvoM8ZH7Qo8lU37QWM7rhVU/Uk4oC58CPxKWY+lX6nFlKYWMrdVbnHotWrSXKpF3C6IRNdYDKVdVQJZCHwzthjq/+6ilI/eIws24cy+rlgVMnmXR0kgBxgtvNYnJ2wo2mTKrvSVokVbY8nk97ub4UjV0F8IJLs+wX5d/Ve9GDv1Uqsx/Fbhp27FpqB49XagwMQYYcCUcxmwu/O6+brWvBgmNYYAxD9NEqFXTMIMxU/h3jyAiMCUfMbBhCqZ2kDFRzlf0JQxF9YuM8thWohIxQYd14McavpjYSSa4UDVSu1UUktl6lKUg13uoNCGqOgA==;f1O8Pa3/qy6bnJKj0zscBg=="
 ---
 

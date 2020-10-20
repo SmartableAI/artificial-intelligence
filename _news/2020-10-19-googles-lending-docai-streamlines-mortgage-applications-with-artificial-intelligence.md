@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Google’s Lending DocAI streamlines mortgage applications with artificial intelligence"
-excerpt: "Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry. On Monday, Google Product Manager Sudheera Vanguri said the new solution,"
+excerpt: "Google Maps and DeepMind enhance AI capabilities to improve route calculations Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry."
 publishedDateTime: 2020-10-19T14:32:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+originalUrl: "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+webUrl: "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
 type: article
 quality: 75
 heat: -1
@@ -126,6 +126,6 @@ related:
       domain: finextra.com
     quality: 17
 
-secured: "Siwt9BJJtuoJ66UD8K7l81oiAva838CNQaITu7ake6FyDj3yzfjZBsncYZSfdQs03E6bJ2ee/yUMazEWPhukCvws5eHxmjMJW0cXtOdQI2p4m1UuHqX4v8CYXSoYjWpERrWmYWx4udGIm9G5fUw/NP9PnrKJwvui0WQfuYHmiy2GjasDSkKY/jxhIFuNOZtcarFopc5GaBU+E9+AexqxEa3WA0ykL0OT741kivORp1PBlu+mc9D/BV7COIVPpIqk4pB1FyWbLuL5xGEpG1glVB4GnUmsmaD8CSeLt+TCFgS5y8Nj2aw1SLV+4NB/lfOUbHIWsU3ZVuPBFrjV4mPWDEKENBBDnPbMUY3ceT7f0waT+WWNeXDgpYhgRZ5x5hnOq31Dd7QDUVt6weqmxsLK/XM+4HPfmCAFBgFA/vCvlxjUW3bd0um9VO1fRhXsDTQ2fwXuNUVVEoLI+QLRMLpG6kxSJaQH4lH0z72bqjxd9itziatnAC8U38pN0LDySsimERkMKUFHTEfbMFHUcLmFpg==;vgaijQN/F4dNCVgOW9q0Dg=="
+secured: "u1m3fwRd8WB1UeRd/WWS2BwX66iuksTAqVSunbuXlNnAJ92HRIHa7gYiEcS4PFJ4M1nsNVJCMQm/r55Tf6QLr8WlK3635zIB5vXJ1lAVWejdaiFcXE/D93SMsH2m2RC43eJ0rfyWZfcJyFT+8RW47x+mBK59MMgJ5eFLu9yy8FctJiubQq2cUyi5fcRWlIrqrIR6RVAND7AqSIElQTilO+Ixvv8MNokbv8dhqH+uhG+KAi4vaDyhOrdQI4GzfQjSWGOI7PQ8zryhrygBJTJe8KWoQP7vGmm5Dwn3IWCK+CmvI11T/02wmBfIJHURuYPn/emj3Hy0iK0rfvVL+CSPG3ttoZ/+233F7xdEn1hOo/780P51HXB0pvwW+jXfpYBQ9I9xilY/yP34hOG9PoJHUUCsJB97sis3lK3Ry720cYFwBGZIJuusdgYq0Gt1JEMsXQavVFXZeKq6V+K+Yea7acjjM5k+58KROVmxRrIL7b0vPh6ZGgKbBG9evO11/iaPtcHchMeSCNhL5z2IQmodcQ==;b3kEFJDr8ZKLcxRLdbC0Zg=="
 ---
 
