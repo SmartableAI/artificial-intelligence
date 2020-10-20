@@ -110,22 +110,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Early-Stage and Mature Fintechs Chosen to Take Part in Qatar Fintech Hub’s Incubator and Accelerator Programs"
-    excerpt: "Early-stage and mature Fintechs chosen to take part in Qatar Fintech Hub's incubator and accelerator programs."
-    publishedDateTime: 2020-10-15T22:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/167989-early-stage-and-mature-fintechs-chosen-to-take-part-in-qatar-fintech-hubs-incubator-and-accelerator-programs/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167989-early-stage-and-mature-fintechs-chosen-to-take-part-in-qatar-fintech-hubs-incubator-and-accelerator-programs/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167989-early-stage-and-mature-fintechs-chosen-to-take-part-in-qatar-fintech-hubs-incubator-and-accelerator-programs/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Doha-Qatar-mike-swigunski-unsplash-300x234.jpg"
-        width: 300
-        height: 234
-        isCached: true
   - title: "5th Africa Fintech Summit to be held virtually"
     excerpt: "The fifth Africa Fintech Summit ( will be hosted virtually this year through the Accelevents ( platform on November 9th, 10th, and 12th, 2020. The Summit takes place at the backdrop of the global COVID-19 pandemic that has brought unprecedented need for digital trade & finance and positioned fintech as key to economic recovery."
     publishedDateTime: 2020-10-20T12:03:00Z
@@ -179,6 +163,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "CBB launches fintech platform"
+    excerpt: "test and deploy fintech solutions. Through an AI-powered global fintech marketplace, FinHub 973 will aim to connect financial institutions in Bahrain and the region to fintechs from around the world. The digital lab will also offer matchmaking and ..."
+    publishedDateTime: 2020-10-20T14:29:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDjN0GmMKpFp%2bEXmGE4YiLTA%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 4
 
 secured: "XAW0ddeM1v3woC4GHeZY8h4efy2JDF+E/xZrfNiEm2/SdCX5gY0pDiMBIW+WhyBBy4p9BXxNS2TaBD0GCk1VO1jKr8P/OoY2FkXhwGYTTc/RhCQZ9tp5zO2PW4/tBNZTYYLLggvaBfkFJak2Ty7l6G2BtytT8I8QnDYHlVdUldz45po1y0s0WtV4tPEfLzUNvknvG9+KdWN6fSZ2Ia6A4yiFK6zxr0/bUSolKHF8KRXrK/uzfRU8NnBdEihzw7VNplKs+B7oMNA20sFdc3PRTo9+rl4tNZrRcGU/4qgmK7g7W0ts2dMnHr/WW8/OwDA2ncLaIesXa9Rfpl3REyaV6mZTWljwezUqCy+PJHvXIUNztTFCXm2ney6zhQEpYZQBNgZZQ4E0cuw837n+R8CwruBqHySux44vdt4uT+jZQQ0OPnh6VFAJ4YfmOHPJRKxPPpf2QFz9FgSQ8MD+sHiNK+n4T9IPaRGvVcphgTc/9cORpb+w4CTYQ+YibawflVIXFBMZqDlhKIRVSejY8We3gg==;29iafE0RMxq3oJf9JMvaWw=="
 ---

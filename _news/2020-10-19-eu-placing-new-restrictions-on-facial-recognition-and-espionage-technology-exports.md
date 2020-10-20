@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Many think facial recognition technologies are being abused: survey"
-    excerpt: "A visitor tries facial recognition payment in a smart store in Wuzhen Town of Tongxiang, east China's Zhejiang Province, Nov. 6, 2018. (Xinhua/Huang Zongzhi) The application of facial recognition technology has been accelerated in China in recent years,"
-    publishedDateTime: 2020-10-19T03:40:00Z
-    webUrl: "https://www.globaltimes.cn/content/1203883.shtml"
+  - title: "Automatically detecting personal protective equipment on persons in images using Amazon Rekognition"
+    excerpt: "Workplace safety hazards can exist in many different forms: sharp edges, falling objects, flying sparks, chemicals, noise, and a myriad of other potentially dangerous situations. Safety regulators such as Occupational Safety and Health Administration (OSHA) and European Commission often require that"
+    publishedDateTime: 2020-10-16T21:12:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
     images:
-      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-10-19/5334e802-c249-4eb2-a0c1-a4dbef80bc18.jpeg"
-        width: 800
-        height: 480
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Person.jpg"
+        width: 900
+        height: 629
         isCached: true
 
 secured: "UafpsY0g2Qns9kkYjgvVyYKdozWXnDTApplhktgSdzXL1maDbSVTIZ2ZH4pIA9LhPyLQYzCXWaHsh2t8i/NTihYG0EIzI6gW9/Tx+ueymg4wx+lwwQAnsvk4AbTnu6g7groloZICnh5oBl6RzBHZHBxl8J0QIwWXDIbpD9N1gJw/TMKBbgmTf8hNqOew17t2sMteO+8gZx74NyLkPP//xZdl3zXaA3OeHQGA4R65KHOoxUuLQWXzyXspK5dwmDudhQQrxP7yr7BWS2P7uU1P5hk07C3zOFa0PZ18uiMRNCsVRqJevlDx8Y3oKrmN8kxPzsQPsw0WhGH1x33N4t+/Ie0RL7stQOJnACAhUPDRJdk=;QROgCOwtdSfNyRnR3f8TXQ=="

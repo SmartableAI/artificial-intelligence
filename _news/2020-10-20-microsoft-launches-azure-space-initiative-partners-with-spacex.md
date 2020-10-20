@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-launches-azure-sp
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -63,23 +63,7 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Microsoft releases an image-captioning AI algorithm"
-    excerpt: "Microsoft makes decoding words, pictures, events and familiar people on social media an easier task for visually impaired people with their accurate AI-captioning technology."
-    publishedDateTime: 2020-10-19T17:55:00Z
-    webUrl: "https://www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/"
-    ampWebUrl: "https://www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/amp/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 74
-    images:
-      - url: "https://www.technowize.com/wp-content/uploads/2020/10/Microsoft-releases-image-captioning-AI-option-1.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
-secured: "yghCicVQvNgtxVZxm2Rb9Ck/hfsgtKYknMQYBuKEavm5RU8VyFOstcKM19+FPpG/TqUSEFPp8hTCAdj/i5KgxhSR3mF3RRJf3DBzAbWNTuLox5OIYjaHmI3KvmIXFVeovxNDFYO2pXLu3AQBrASvX9x6LE2XdHxwUZRCabEVeP9sMt8zAvFiL7rLs6JQRCjHFu2Iv+ny0ZxRHdHOVsiA0E5rCHyqtf+y/zWaafrS6vXfxg8DpZpaj59j/Vx8n7DctRj779GVuucQcN6TwqGDvolJcgD04JaxFMhVVkA1jzErpZ66QEQcaBZELi6boeAyKoOIFlcZj9vosvPIHlcPdRJueDDWIZUHnIJD4xYVxGQ=;W8xb28zOqPWl0ABo+54c1Q=="
+secured: "eguJkeFOepSfMq6IBIIk9481NLus+HGtTTNzXm2TsPp5rNloiLpHaPOHB/xU2SkMgtlOU4p5kpBE5JFHfKhlpT/bmKvyRHgmKjvQNagZPN40GsZcYMBw0WQnEQjDF6ATiQ8OPiztOV+PDti9Yx8qza83oZu3vXzfbIPhrPpGnb20lXPu2pvK3Mpyqc33R5sbmd9drHavz5bzto79dB+5SXq9CUMt4bdz2cWq9ApigAzsMWDqGFj6mzM5xOzhhuQgT5Q3+9Rrp5bSdkpIjBx0jgHCTm9oipUsnyCoiPNsHBTtaZT7L8bNNwzvoDeBWU4rLU/eUd1osElDYh3LW0jqTneU0PApJ0sTIVAekL5nqdABjZgdJ2YCzl/977LbyTZJgrCczFgcuHuPwpnp+iPV/r98X+cRny5kNHxUm7HFP/HdCINXPHulI0RjAUSXym45jYUvpAqGPa/AoEBrW3dH0+IFEYwndeIQOYz9pA0MZqdIc+JH3BNfKdpowmCxthdGz+blptx8NgQrKXsZ+Tk02A==;G/IC9N9Ks1dGZD+tOnEU9Q=="
 ---
 

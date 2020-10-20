@@ -26,60 +26,70 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s new ‘hum to search’ feature can figure out the song that’s stuck in your head"
-    excerpt: "Google is adding a new “hum to search” feature to its search tools today that will let you hum (or whistle, or sing) the annoying song that’s stuck in your head, and then use machine learning techniques to try to identify it."
-    publishedDateTime: 2020-10-15T21:05:00Z
-    webUrl: "https://blog.google/products/search/hum-to-search"
-    ampWebUrl: "https://blog.google/products/search/hum-to-search/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/hum-to-search/amp/"
+  - title: "Google Search is getting a new AI-powered spell checker"
+    excerpt: "Google has announced a range of AI-powered enhancements to its search engine, including a new algorithm that improves spelling corrections."
+    publishedDateTime: 2020-10-16T12:03:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 164
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-15_at_10.47.20_AM.max-1100x1100.png"
-        width: 1066
-        height: 573
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-16T114024.500-796x417.png"
+        width: 796
+        height: 417
         isCached: true
-  - title: "Google search is getting new AI tools to decipher your terrible spelling"
-    excerpt: "Google detailed a host of new improvements at its “Search On” event that it will make to its foundational Google search service in the coming weeks and months. The changes are largely focused on using new AI and machine learning techniques to provide better search results for users."
-    publishedDateTime: 2020-10-15T21:10:00Z
-    webUrl: "https://www.theverge.com/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results"
+  - title: "Google Announces AI Search Updates – Analysis"
+    excerpt: "This is how Google AI updates will dramatically impact how sites are ranked. Analysis of changes for SEO and publishing. Google announced a series of changes to search that will change how sites are ranked."
+    publishedDateTime: 2020-10-16T13:15:00Z
+    webUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/"
+    ampWebUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
+    cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 86
+      name: Search Engine Journal
+      domain: searchenginejournal.com
+    quality: 57
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/OYz-Slg9pMbYn5giAx6kmSBBUnU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67638721/acastro_180427_1777_0001.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2020/10/ai-in-search-5f88cc960a6ef.png"
+        width: 1600
+        height: 840
         isCached: true
-  - title: "Google announces \"hum to search\" machine learning music search feature"
-    excerpt: "The company also notes that people need not worry about delivering a perfect pitch to take advantage of this new search capability."
-    publishedDateTime: 2020-10-16T18:18:00Z
-    webUrl: "https://www.techrepublic.com/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
+  - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
+    excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
+    publishedDateTime: 2020-10-19T19:00:00Z
+    webUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/"
+    ampWebUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-  - title: "You can now hum into Google Search and it will find the song"
-    excerpt: "Using AI, Google said it could now understand the deep semantics ... and landmarks. It can also translate over 100 languages. Touching on misinformation, Google announced a handful of improvements to the way it handles coronavirus-related queries ..."
-    publishedDateTime: 2020-10-16T11:42:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/you-can-now-hum-into-google-search-and-it-will-find-the-song/"
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/google-cloud-lending-ai-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
+  - title: "axle ai Brings AI-Powered Media Search to Adobe Creative Cloud Applications"
+    excerpt: "New integrations with Adobe applications for remote teams to debut at Adobe MAX online conference. Boston, MA, USA – October 16, 2020 – axle ai is excited"
+    publishedDateTime: 2020-10-17T01:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17946357/axle-ai-brings-ai-powered-media-search-to-adobe-creative-cloud-applications"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17946357"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17946357"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://www.getnews.info/wp-content/uploads/2020/10/1602865966.jpeg"
+        width: 468
+        height: 206
+        isCached: true
   - title: "Google Search Gets More Helpful With The Release of New AI Features"
     excerpt: "Google Search is getting more helpful. The bread-and-butter service of parent organization Alphabet (NASDAQ:GOOGL)(NASDAQ:GOOG) recently announced new AI-powered features to improve its usefulness. Some are legitimately helpful,"
     publishedDateTime: 2020-10-16T06:07:00Z
@@ -93,6 +103,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/23/google-search.jpeg"
         width: 385
         height: 257
+        isCached: true
+  - title: "7 Steps to Deploying AI-powered Self-service during the New Normal"
+    excerpt: "It’s no surprise that AI-powered self-service is gaining traction with customers. Even before the pandemic created a New Normal, 73% of consumers said they wanted to solve their issues on their own without having to engage with a human customer service agent."
+    publishedDateTime: 2020-10-17T04:14:00Z
+    webUrl: "https://customerthink.com/7-steps-to-deploying-ai-powered-self-service-during-the-new-normal/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
+        width: 1280
+        height: 960
         isCached: true
   - title: "Google Search gets hum-to-search and AI query upgrades"
     excerpt: "Now, Google will start surfacing statistics from the repository in response to user queries. Google also announced more general-purpose enhancements at Search On that focus on boosting the search ..."
@@ -108,6 +132,24 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Google Details How It Uses AI, Machine Learning To Improve Search"
+    excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."
+    publishedDateTime: 2020-10-16T04:14:00Z
+    webUrl: "https://www.mediapost.com/publications/article/356876/google-details-how-it-uses-ai-machine-learning-to.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 36
+  - title: "Google Cloud launches AI-powered mortgage processing tool"
+    excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."
+    publishedDateTime: 2020-10-20T00:19:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36777/google-cloud-launches-ai-powered-mortgage-processing-tool"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "AW8zfGhbqc05k1oYpX+/6kbOmL09uM4S0XMhs/39TsowTIe9iH3Hbqf2fum5jzCT3Ux5G9J04BOS1KvHltKBgKhqteI2lgJ1wshLXBeyxjR89wFGTEdlabQfRztLdWsoTWcbOFhh4IXzwESnJOGKGqQVmQN69Kohot76MJMcd4bpj3z4MaUV+oHVbw6mSwcjThulVyZioiLUZmNRrBCnCTLY+DTsM/2kMBCP+MLRHqu0xTrlPAuxl+fHbp/0gCCBOkGmfi2iEgucNetEDQbM0Np2enRvj5d1WvotURjt0i1MhPU/rxzDmHY9NQWMXj5uh9RiyBUX7taWl5Yn/u0D+zoXfEn+cmF0dDXrNikofNIhoyqRMlXkHZxZWIuR0LeZeZ2CPAZ8xpvwHFDsrtD6VmF7I9nw31bouvB9hO95SByFM3UbXl1mTKsihzQM484D7tUqe7vSW4JAGoMEM/fTNTpJXr3x28hpGZSHFBig/g9pOeHDkAoqHQ8xmCrJLn61hgC1bngu4j62M4JNuZ45xw==;omI0l8WswspktP32WrH7PA=="
 ---

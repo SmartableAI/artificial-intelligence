@@ -3,8 +3,8 @@ category: news
 title: "Biped robot maker Agility raises $20 million"
 excerpt: "(Reuters) - Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out ..."
 publishedDateTime: 2020-10-20T13:44:00Z
-originalUrl: "https://lta.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG"
-webUrl: "https://lta.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG"
+originalUrl: "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG"
+webUrl: "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701GG"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG"
 type: article
@@ -24,6 +24,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "5Uacf7wpxFOWHua6IaupDUZSQrgC6bZiDTyJtv+psssOYOhBm8zTKoKGeIat3Bn13zlqAyEDR0HuYYXJcrkcbXAST5sQVyH5/b79c5iLv7OZJ2XmJed/YXaIql6b0r7Y44s9sfqT6ysHIvhSaxK9pb4RjgCRB2LnwyIl0IVfMwIotQr/g39aWxt7omMLVP97Sz8bldgYzY0ego3iOXgDwLRXlvX8zrI6GzoXfQwm0cr5pG1pqjg+kOB+UKarikWEuGRQG8WeTc4Ni//JQEmjnhjMjS98nBHZE0B1W5KQlHgRmN68tV7cW0SSkjjat9dQXnlSkd/N5bfPgCo+NZOF9FulMFdAx5aDfEMUyx+L9nA=;0EiKqEbBi8QitM31w3GjtQ=="
+secured: "KfL00jYf0sV7FqzIzBlJtO33UbgyYm3bQm8KMJpBVz/7OQmLYYjx+HhbUgoX0uDQFfQhMz3Ax7QOrsxAoae/J3d1UZPk+sko2AVl/W3V3l1w7SxHnv2frTByoNR2cv0PtgqHqUJyNec5kGw8lPfEIElgey24g51pgDm8rxVtYWS9idQ/SiuVwmgGeICDsNsXiFkGSuHAvEhoRZUnLoi1X0LdL2HY/XxLOoX37o9OVdY3DXUU0Arj8QzjdzJNnqvwDjT8KjfkApW8rPMUEHZyiIchPP2i1a7r+DKsdoNXugpQlOS+aa/AfbvPeY1tK0ufWCCE2cimznv9kQIv010QPoFGiWoVhem/NfEqQV7+7P8=;suHrrukWXwA5AItkrbdKjw=="
 ---
 

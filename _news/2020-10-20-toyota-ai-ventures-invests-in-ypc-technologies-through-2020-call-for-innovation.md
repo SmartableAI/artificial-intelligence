@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Toyota AI Ventures Invests in YPC Technologies Through 2020 \"Call for Innovation\""
-excerpt: "Oct. 20, 2020 /PRNewswire/ -- Toyota AI Ventures, Toyota's early-stage venture capital fund, today announced its investment in YPC Technologies, a robotic kitchen startup based in Montreal ... of artificial intelligence, robotics, autonomy, mobility ..."
-publishedDateTime: 2020-10-20T13:48:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/toyota-ai-ventures-invests-in-ypc-technologies-through-2020-call-for-innovation-9411643"
-webUrl: "https://www.finanzen.net/nachricht/aktien/toyota-ai-ventures-invests-in-ypc-technologies-through-2020-call-for-innovation-9411643"
+excerpt: "Oct. 20, 2020 /PRNewswire/ -- Toyota AI Ventures, Toyota's early-stage venture capital fund, today announced its investment in YPC Technologies, a robotic kitchen startup based in Montreal ..."
+publishedDateTime: 2020-10-20T13:52:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/toyota-ai-ventures-invests-in-ypc-technologies-through-2020-call-for-innovation-1029699249"
+webUrl: "https://markets.businessinsider.com/news/stocks/toyota-ai-ventures-invests-in-ypc-technologies-through-2020-call-for-innovation-1029699249"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "ww99mo0D94c/iZgtl6vuGU6oVGzpnh/X17NtQ9lkli0ZAaXL9KZZAnrT4AkuNDviuKga3zpsToGpgQp7k6NyKATg7FcvedU2bC/t0WZTpyts/Y/vzmZVM0sfN3zBnY8V7IbqyApoiAi/Z4ZgmNARbBdAq7O8JVV72xxzdPWzcyEvb8ipx3X3/E3XTHMt77//i9SG0VVFDNnHLsZQDaYPE+r++DFBZEoddQz/SbGHWOBcmzE/JOtTNogfL1tswIUEm5wMkxLXhRQ1z41V90Iwz2aQ5vdgrEh4d0c08ukFxL+YODB9PqcZKBUlDa1tQSLLQXDwSHHXFfrrFGPGw6BSLaSkz4MMix1M8RsMtr29z54=;IQFuhn8k/x33ObnSddDQ2Q=="
+secured: "1KHRx1g/TLoCX7J0Uub/WRMlv2xBIWoUmqCriFNhzfHUVt+p3A0euuC70rFoqef7QW6+WVhv7gyW9GRuZx+iU3/PIyJHcGQ8COw8Ng9lmKHWC6RPAaZP8JpkCQVEtZiq5ZR+l77VN7WzzpvMjUoTYnXW2998jY//MN2Rwph1IlrT+V2XK0+cY3ukdsxnLgLk8oN5Ua6S3RSSD555hbIlyJoItidLB+G+iHF9bXd3CTCvw8kSJeYaKp8UJwhxRZhGIdbQuP3DF30mVgAvW5RSwMDUQN5r5GqcHWyII8rhxByfW21f3ONXU0OEa6rxZyIdcuAnCHAABqzN+/YWJjiJwSe9+pKQR890NoCG0Chsqh0=;vdmfy0/pY2UlnnZhBQJSeg=="
 ---
 

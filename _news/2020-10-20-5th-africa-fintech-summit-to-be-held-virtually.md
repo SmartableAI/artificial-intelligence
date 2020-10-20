@@ -106,22 +106,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Early-Stage and Mature Fintechs Chosen to Take Part in Qatar Fintech Hub’s Incubator and Accelerator Programs"
-    excerpt: "Early-stage and mature Fintechs chosen to take part in Qatar Fintech Hub's incubator and accelerator programs."
-    publishedDateTime: 2020-10-15T22:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/167989-early-stage-and-mature-fintechs-chosen-to-take-part-in-qatar-fintech-hubs-incubator-and-accelerator-programs/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167989-early-stage-and-mature-fintechs-chosen-to-take-part-in-qatar-fintech-hubs-incubator-and-accelerator-programs/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167989-early-stage-and-mature-fintechs-chosen-to-take-part-in-qatar-fintech-hubs-incubator-and-accelerator-programs/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Doha-Qatar-mike-swigunski-unsplash-300x234.jpg"
-        width: 300
-        height: 234
-        isCached: true
   - title: "Three things to help fintech unicorns grow profitability"
     excerpt: "By Kash Amini, CEO and Founder of MasLife The new breed of fintech companies is missing a trick with a massive market opportunity. Lack of customers isn’t the problem – profitability is. CEO and Founder of health and finance app MasLife Kash Amini suggests that there are three key ingredients neobanks lack in their journey"
     publishedDateTime: 2020-10-19T10:28:00Z
@@ -178,6 +162,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "CBB launches fintech platform"
+    excerpt: "test and deploy fintech solutions. Through an AI-powered global fintech marketplace, FinHub 973 will aim to connect financial institutions in Bahrain and the region to fintechs from around the world. The digital lab will also offer matchmaking and ..."
+    publishedDateTime: 2020-10-20T14:29:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDjN0GmMKpFp%2bEXmGE4YiLTA%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 4
 
 secured: "qR3h1CDP4m8KBKONxFt+lVRwTyY5xY73Gm1cufqpaObr2Dr6rtTr3dbypKQjYQFSG62h9QBrJ+fpe8XuYhElgDx5uac2mwzR3vWM4by3b/fqiDucGYxbY/APRXuD+CdYSPLQJR+WZVFvf3nkmoST6BHER1WXVIb327fRt/qWfy0lUsl+JGIDc+M7HMGTuPYZ2hoaUE604LUmgdU9nTodj2+wKyyj7M4Cn5mWd6wYj559m9Kqq/PGMEw0MruULKrEjtoACnAtfcx/BDDGpNnFKr6IV1uooKi2v1+K4cvHawxrlXNei+v+mJWECKUEr2NyUrBrGnddnZ2sDmufJTaoiw6VZMHx3PZjPmMwNJHKU8k=;0FQzVU87GJwNDcpLHTjevg=="
 ---

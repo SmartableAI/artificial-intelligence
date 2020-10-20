@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-20T13:22:00Z
 originalUrl: "https://siliconangle.com/2020/10/20/startup-flex-logix-launches-industrys-fastest-edge-ai-inference-chip/"
 webUrl: "https://siliconangle.com/2020/10/20/startup-flex-logix-launches-industrys-fastest-edge-ai-inference-chip/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Hardware
+  - Computer Vision
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/unsplash-1.png"

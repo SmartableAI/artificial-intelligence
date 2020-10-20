@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-detect
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/"
 type: article
 quality: 92
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: AWS
@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Detecting playful animal behavior in videos using Amazon Rekognition Custom Labels"
-    excerpt: "Historically, humans have observed animal behaviors and applied them for different purposes. For example, behavioral observation is important in animal ecology, such as how often the behaviors are, when the behaviors occur, or whether there is individual difference or not. However, identifying and monitoring"
-    publishedDateTime: 2020-10-15T22:40:47Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels/"
+  - title: "EU placing new restrictions on facial recognition and espionage technology exports"
+    excerpt: "The European Union is working on a plan to increase the strictness of export criteria for biometrics and other technologies outside the region that can be used for surveillance and espionage,"
+    publishedDateTime: 2020-10-19T00:00:00Z
+    webUrl: "https://www.biometricupdate.com/202010/eu-placing-new-restrictions-on-facial-recognition-and-espionage-technology-exports"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Diagram.jpg"
-        width: 900
-        height: 471
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
+        width: 1920
+        height: 1005
         isCached: true
 
 secured: "/o16tuPxD3ZIlh1Xb2kPZ7EMVRTJualUlAOMG1s7mogGx5SkkHmSfD/0WU9QATE2E+KE5Qepxcbv/ajaMSxUk+zdyRhgD4wU9vg4X6vzj0wVTBL/aj+F3xJxJMDpBZuKXNLBT5ndLkHLxGufPRx5Tezzo19wgxOp6Xwvl9ua2ysIKbsnS1gixFkcUgEdf0OweJyAlGczAKX+zo9NVRJSqWfEAy0KngZyQKSKflBopQxgqyfSuYuspmXbuS3IocxxB1cZ+EQMXbzPkZGBlJgfdvR60n+X9Ji2MR2GG6q9CuBFMd+0N5ta+16SHoA32Fn/8VebXFs4Lku5+fkwhpSLIi4AXKt5pbTv3poQAPQmgTs=;SouhAyOt1uR3YTCTKxhacA=="

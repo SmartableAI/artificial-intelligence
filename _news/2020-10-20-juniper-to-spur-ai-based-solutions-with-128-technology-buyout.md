@@ -36,6 +36,20 @@ related:
         width: 600
         height: 386
         isCached: true
+  - title: "Juniper Buys Startup 128 Technology For $450M To Boost AI Capabilities"
+    excerpt: "Juniper Networks acquires networking startup 128 Technology to boost SD-WAN and enterprise artificial intelligence, says CEO Rami Rahim."
+    publishedDateTime: 2020-10-20T14:03:00Z
+    webUrl: "https://www.crn.com/news/networking/juniper-buys-startup-128-technology-for-450m-to-boost-ai-capabilities"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg"
+        width: 399
+        height: 399
+        isCached: true
   - title: "Juniper splashes $450M on AI hotshot 128 Technology"
     excerpt: "Latest deal comes after moves for Mist Systems and Netrounds and is aimed largely at strengthening Juniper's presence in the SD-WAN market."
     publishedDateTime: 2020-10-19T17:44:00Z

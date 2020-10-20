@@ -26,17 +26,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Framework for gauging health impacts of self-driving vehicles"
-    excerpt: "Autonomous vehicles (AV) are the wave of the future in the automobile industry, and there's extensive discussion about the impacts on transportation, society, the economy and the environment. However,"
-    publishedDateTime: 2020-10-15T22:26:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201015173122.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
-
 secured: "li1w6UsSyNuZntPA+PegJwMpoRgWmwtEmtNkgXzcgqlDGdBOBozzaYTlASYkv8NRU3eANhJcE9od5cCZTDdfwLAoXz/9x8ZcZwQgiKB6+pXIZCd5/m7IgpyA4lspX/r9hDp3oFuDpIKCj6zSiP57eE8HIQITbkk978vbIIfEjjTfrJPfPP39JQ4sYotYCB5jqh0u1mkk7n8CmNFNZOb1fTjLKwFAkF/xgZKzcJu2WFkKVyfapWr/12RUqCo7MIFysopT25+VmRDpD85KHNTRASVWM2JHhH5NeL8h9r7ZJXxjkIuvecOAaLE/GhpO7Jha9wKEeG9wrH+g9HoS9IsMrk5WpUAiO7FlsBnKcs7rWZkeFiHZWZm/lPi7nNW7pzDuBNN8cwrqfPuPJYb0WPM8vq+65NP4KkrlebcRFsDRzjUqAVFBZ9yykp3p4yODzO8wuMFqsXtqcBpngzqXBwpQNxMD04qhyQVCCh/IRSb9gQKuln9Ee7oGmUx0DPPp4MRAiXZLRiOLDrS/ZWNKgQPqCA==;4te02MrL/qpvPAHH3BPy7A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7news.com/amp/work-from-home-productivity-covid-19-corona
 cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/12/general-motors-has-been-hit-by-supply-chain.jpg"
         width: 1024
         height: 740
-        isCached: true
-  - title: "Cruise to test unmanned self-driving vehicle fleet on San Francisco streets"
-    excerpt: "Cruise, the creator of the red and white self-driving vehicles that have become commonplace in San Francisco, announced Thursday it had received permission to test its driverless cars without an in-person backup on public roads statewide. More akin to ..."
-    publishedDateTime: 2020-10-15T21:33:00Z
-    webUrl: "https://www.sfexaminer.com/news/cruise-to-test-unmanned-self-driving-vehicle-fleet-on-san-francisco-streets/"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 22
-    images:
-      - url: "https://www.sfexaminer.com/wp-content/uploads/2020/10/23017015_web1_201015-SFE-selfdriving_1.jpg"
-        width: 1000
-        height: 667
         isCached: true
 
 secured: "FHLjoVh/GTSDvX3z0ln3vzxZo2CROBkQb5yJtaioXKs0P7XBMEFYUx/vlbjhVb6Qk/DhloZkUNyLMLf7up3rmJvfq1r9D6zJFy7/6duj67C6r/y54mycli40Rtb+0D69fTOrne2K4WxHlO4eYeYsNgNlmO3kVxXvbxjVZZfJbQmi//Vq9YYsYOoH4qbQHeCQEpbEGmRMJUzsa1/W/T7V4KwyHXhk1k52Pm3bLVJ6HP068CYC5qXxul4aRE5iIR0YpILQG8g7S+lWFNNp83taiDyzc1aKLtUUJgk95JYOpuGyJ7HQ1Jz8oynYccGAWdtt8BkUFvHTYiuD5Poi4LLCYoaRGw4TAxM9o7e32tZoczJFAG49HzAbK4lgl+N/VaVniwZrH5iEAvOAivLBBzsMmVarmIq0OALVygcn7VJ7S/rGEzwNsk9s2D+IT74fI7gt8dPa+LLEhCoIcbDMXRIPqiNiDlMW41OIrx6FzS6g8SbWZ5rYHs/ES9B5btyKFPyOXdHmEo27TvuScVj/gTUrdw==;7MoNADM6C7uvXa2wcBtZ4A=="

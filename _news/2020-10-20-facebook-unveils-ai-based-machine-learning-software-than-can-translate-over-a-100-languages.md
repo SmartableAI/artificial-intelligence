@@ -93,22 +93,6 @@ related:
         width: 1680
         height: 1120
         isCached: true
-  - title: "Facebook’s open source M2M-100 model can translate between 100 different languages"
-    excerpt: "“For years, AI researchers have been working ... Facebook had a group of native speakers evaluate the translation quality between 20 language pairs, none of them involving English."
-    publishedDateTime: 2020-10-19T15:01:00Z
-    webUrl: "https://venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/"
-    ampWebUrl: "https://venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook introduces first AI model to translate 100 languages without dependency on English"
     excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
     publishedDateTime: 2020-10-20T09:33:00Z
@@ -186,20 +170,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2020/10/19151049/19-oct_facebook-ai.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Facebook unveils AI translator that can translate 100 languages"
-    excerpt: "Facebook has unveiled their AI machine learning translator for 100 languages."
-    publishedDateTime: 2020-10-20T10:42:00Z
-    webUrl: "https://www.newsoneplace.com/34307891911/ai-facebook-unveils"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 54
-    images:
-      - url: "https://www.femalefirst.co.uk/image-library/partners/bang/land/500/f/facebook-aW1hZ2VzMS8yMDIwLzEwLzIwLzE2MDMxOTAyNjhjcm9wcGVkMTU.jpg"
-        width: 500
-        height: 333
         isCached: true
   - title: "Facebook Says This Is the Culmination of Years of Work in Machine Translation"
     excerpt: "Facebook introduces M2M-100, a neural machine translation model that avoids using English between source and target languages."

@@ -40,7 +40,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/unsplash-1.png"
         width: 718
@@ -61,6 +61,6 @@ related:
         height: 201
         isCached: true
 
-secured: "OY1qN7FA6DTzJgrQQ7BvQALw9f6E+qC2il0WzbjzVFYeD1Dolgu8HwrFiZM+3hippOJmKXrgscADxaxgE9d1Is2u5VjDAN/8lV98iAV3Sq42iqzcCEs08VGKA9XwlbHV+wq0ib3Xak5Fu1chQNtpftvjAHZ0M9KEk1EraNsvEeC+MumvzNq2Q9mREh5dzr1Z1nM4+11I2L+GjtfGhrk+pM2XNfKm9C8i7NCmBaPLmgSnq7fxp2uS2cTrfiie2I8l1+7OpmvvdWUMjWew4XRDx8jO7RjjFx7x6rgorUCz0+t1urdfvZaI06rR79m6ouBK53JsRFQaOW+sAplrl93fKFKeYmCh4T1tbjClaz183aU=;EiAezZvhVQMDWJN955n/Mg=="
+secured: "h+vlRrf6wjKGSFWHkKfvgL4h3BT67RWdUDT4Yj+CGoZbJfyfkCH3oSWY3dHMRDIE25Gs7GRzY1eazJ8WPDJUSI7BseB0UgTT3FVVrEo0GpEcw2dI3BqCAddH7qhvF8B2l/ipyS5ytsVR4pz84ofrdyjwo3xAdnQ5Fb80wdPtfC4FgtX0kM5pYT4ccApQOx3XIc9MsC9wlNOpW2wthf9wthTRXKbKpf7O6BzJP0JDf8cIiib1yL7e7Ni70S60Tu0hEX9Jl9464GQ28wBy+ChTQU8zHvj5M1fFoHYkd4eQU1tgsebDi0lbJQce1WKYK6bRori9HtaWBpV04ent90zBZIkOr0uSQ1IFCdO1sDBEoOe/75LMfT4efj1/7pz8a1zaGdQkhT524S7SJ4j8gAT3IdicOZv6oJ3+W+mavRABo1+UMIBk+GdKAjDRwdhEYips8WYfzn7Xqa9tWhZ4YwgqAGY9zppLwegwdr2pm/912tK4bw9bArIA+AdkLyqHXv1ekT4Q8qAebb5pB54hop+QBA==;KHrR+QkbPJVMsgwr+4JmMA=="
 ---
 

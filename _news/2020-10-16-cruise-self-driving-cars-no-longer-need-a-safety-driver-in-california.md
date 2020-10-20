@@ -25,53 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "GM will test fully driverless cars in SF later this year"
-    excerpt: "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ..."
-    publishedDateTime: 2020-10-15T21:45:00Z
-    webUrl: "https://www.engadget.com/cruise-testing-san-francisco-214222312.html"
-    ampWebUrl: "https://www.engadget.com/amp/cruise-testing-san-francisco-214222312.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-testing-san-francisco-214222312.html"
+  - title: "When Self-Driving Cars Don’t Realize They’ve Been In A Car Crash"
+    excerpt: "Will self-driving cars realize when they've been in a car crash? getty. Have you ever been in a car crash? The odds are that if you’ve been driving for any notable number of yea"
+    publishedDateTime: 2020-10-18T15:39:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbebd6400-0f2d-11eb-9bfe-e67a76f4a357&client=amp-blogside-v2&signature=4908a2fba8142ca66578860cd136007606108c87"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Self-driving startup Cruise is launching fully driverless testing in San Francisco this year"
-    excerpt: "CEO Dan Ammann has heralded the end of car ownership and advocated for self-driving ride-hailing as a solution to global warming."
-    publishedDateTime: 2020-10-15T21:45:00Z
-    webUrl: "https://www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-test-self-driving-driverless-cars-in-san-francisco-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/5e27d1fbb6d52d4c48798a32?width=1200&format=jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88dfcdb1cfa1bd271072c9%2F0x0.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "GM’s Self Driving Car Service Allowed to Test Vehicles Without Safety Drivers in California"
-    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
-    publishedDateTime: 2020-10-15T21:58:00Z
-    webUrl: "https://lawstreetmedia.com/tech/gms-self-driving-car-service-allowed-to-test-vehicles-without-safety-drivers-in-california/"
-    ampWebUrl: "https://lawstreetmedia.com/tech/gms-self-driving-car-service-allowed-to-test-vehicles-without-safety-drivers-in-california/amp/"
-    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/gms-self-driving-car-service-allowed-to-test-vehicles-without-safety-drivers-in-california/amp/"
-    type: article
-    provider:
-      name: Law Street Media
-      domain: lawstreetmedia.com
-    quality: 49
-    images:
-      - url: "https://lawstreetmedia.com/wp-content/uploads/2020/10/iStock-1183292352-1024x683.jpg"
-        width: 1024
-        height: 683
+        height: 800
         isCached: true
 
 secured: "bN5Lp2b++IEC3hixNBuMgDlX6btdTvJO2KfUELf7PV/YkFHW3Vui6J4vimu759+aln9MQv4AEsCrMcXx6s2SvARGfj5h+sPwh5DOj6DvZCsuz6s9Uq63l4AxlP52IhvSpuvBXKxaRwcpyX+IoAH4tMcy78iY3xvRJvvYLTZCt/zi+0s4g+zvLGIFTcVF33mZ2MFPDi0qD84kik3JbQ5bsM5+302tSUkS46vDtndpJAlxnIlUaRTI0VElcw7l25tlbHjEx0UeVUkhsG+cw0uocGbM6yH5GzoGlfn3gh0NFhA373r7PVbni0bBiNoaIOFqcvfYp8bh5CBvPUR0wvLg01noN5uz2u6cniBMZm8XK3DT4Km+meTTapL2QPgYtZQigZx2cMB2sl154hvTsL1FIf3kdlKiNzp9hFrbJNQdI6Wlflvyx5E/BcMikvEn4olbAb5Bc8juF0UGGFY1peJAjguDCtyAkTh8kACEZZooHOA8wVMcy59Uj5zr2TiuLB4S9b2X5jozlTp/oZebDVaQfg==;tN54CmwwzAeycqaACeSihg=="

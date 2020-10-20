@@ -58,20 +58,6 @@ related:
         width: 1024
         height: 740
         isCached: true
-  - title: "Cruise to test unmanned self-driving vehicle fleet on San Francisco streets"
-    excerpt: "Cruise, the creator of the red and white self-driving vehicles that have become commonplace in San Francisco, announced Thursday it had received permission to test its driverless cars without an in-person backup on public roads statewide. More akin to ..."
-    publishedDateTime: 2020-10-15T21:33:00Z
-    webUrl: "https://www.sfexaminer.com/news/cruise-to-test-unmanned-self-driving-vehicle-fleet-on-san-francisco-streets/"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 22
-    images:
-      - url: "https://www.sfexaminer.com/wp-content/uploads/2020/10/23017015_web1_201015-SFE-selfdriving_1.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "pfitp29D6o6kmboJoHSAnPMrSpQ487t+9GNGcwcx/ZPeMVH5zLLwazhe987a2RmVcQJo37yUr6vXb7QINh4LgQh3mwDlrzp1RGp3Jpq7CFS67vfhG2K+CqOSrdSibSa+dlq5lrqNK1RDmj0OluXLi5ZfqiIq4MZFCWoMLZz7kl/maBbg9s4mN4GdN4vITNCT0oWu81OTV4XLT6w6QkkWh0eHK/KUO8QWm1ChOIIMW3it5pK/6bxyetxo2DxcPA2P2HRaSSR5HU7bFIz9qTFRCiUHyADG1bhSQpPZKxXfZmLpEkqtE4ltfUKPbgI06hKHvhxOfveZI/A/k+N0kZWyoTnkurXBcujtMci5bz8vw9lfhuGyaZ9uA0k+UdI+jRzMrja30E7SQF4FT60IWqBbZR0ehL+YEuUl2Q5KpmCSmb4eyNA8zzrOLDQtaetMHrSCWNVj+fSehlLe4jkm7raspOO1Rw7wLcjMM4CZ7JoKoeTdBF6YYMmdXeoO6Xp6iKiQXAvFVunux/DB6gtcxo3FtA==;WFE78RxaEP8OD9dueUW1MA=="
 ---

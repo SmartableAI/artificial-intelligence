@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Will Power the World's Most Powerful AI Supercomputer, Leonardo"
-    excerpt: "The supercomputer arms race is on, and NVIDIA (NASDAQ:NVDA) is leaving the competition in the dust. Of the world's 500 most powerful supercomputers, NVIDIA graphics processing units (GPUs) or networking equipment (by way of its Mellanox acquisition) can be found in 333 of them."
-    publishedDateTime: 2020-10-15T21:35:00Z
-    webUrl: "https://www.fool.com/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595333%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Nvidia will build the 'world's fastest AI supercomputer'"
     excerpt: "Nvidia and Cineca, an Italian inter-university consortium and major supercomputing center, have announced plans to build ‘the world’s fastest AI.’ The upcoming"
     publishedDateTime: 2020-10-17T15:00:00Z
@@ -55,6 +39,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/EAfqRtmmM6R8WamHJLcRtN-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "National Lab Supercomputing Sites Pick SambaNova for AI System Dance"
+    excerpt: "The Department of Energy today announced a partnership between Lawrence Livermore National Laboratory (LLNL) and Los Alamos National Laboratory (LANL) and"
+    publishedDateTime: 2020-10-19T21:01:00Z
+    webUrl: "https://www.nextplatform.com/2020/10/19/national-lab-supercomputing-sites-pick-sambanova-for-ai-system-dance/"
+    ampWebUrl: "https://www.nextplatform.com/2020/10/19/national-lab-supercomputing-sites-pick-sambanova-for-ai-system-dance/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/10/19/national-lab-supercomputing-sites-pick-sambanova-for-ai-system-dance/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Datascale.jpg"
+        width: 1024
+        height: 508
         isCached: true
   - title: "Italy's Leonardo system to be \"world's fastest AI supercomputer\""
     excerpt: "Italian inter-university consortium CINECA has turned to Atos to build what it calls the world’s fastest AI supercomputer. Leonardo will be able to deliver 10 exaflops of FP16 AI performance when it launches next year,"

@@ -50,6 +50,22 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Google taps AI for new search tricks"
+    excerpt: "Google on Thursday outlined a number of new features for its core search product, including the ability to search for that song stuck in your head by humming or whistling. Why it matters: While humming may be a cute use case,"
+    publishedDateTime: 2020-10-16T14:06:00Z
+    webUrl: "https://www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
+    ampWebUrl: "https://www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: "https://images.axios.com/BAmjh43T_0x1TgPV7__2QGbsGEs=/fit-in/1366x1366/2020/10/16/1602856070265.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
     excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
     publishedDateTime: 2020-10-19T19:00:00Z
@@ -82,6 +98,20 @@ related:
         width: 468
         height: 206
         isCached: true
+  - title: "Google Search Gets More Helpful With The Release of New AI Features"
+    excerpt: "Google Search is getting more helpful. The bread-and-butter service of parent organization Alphabet (NASDAQ:GOOGL)(NASDAQ:GOOG) recently announced new AI-powered features to improve its usefulness. Some are legitimately helpful,"
+    publishedDateTime: 2020-10-16T06:07:00Z
+    webUrl: "https://www.ibtimes.com/google-search-gets-more-helpful-release-new-ai-features-3063047"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/23/google-search.jpeg"
+        width: 385
+        height: 257
+        isCached: true
   - title: "7 Steps to Deploying AI-powered Self-service during the New Normal"
     excerpt: "It’s no surprise that AI-powered self-service is gaining traction with customers. Even before the pandemic created a New Normal, 73% of consumers said they wanted to solve their issues on their own without having to engage with a human customer service agent."
     publishedDateTime: 2020-10-17T04:14:00Z
@@ -95,6 +125,20 @@ related:
       - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Google Search gets hum-to-search and AI query upgrades"
+    excerpt: "Now, Google will start surfacing statistics from the repository in response to user queries. Google also announced more general-purpose enhancements at Search On that focus on boosting the search ..."
+    publishedDateTime: 2020-10-16T17:47:00Z
+    webUrl: "https://siliconangle.com/2020/10/16/google-search-gets-hum-search-ai-query-upgrades/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/google3.png"
+        width: 718
+        height: 400
         isCached: true
   - title: "Google Details How It Uses AI, Machine Learning To Improve Search"
     excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."

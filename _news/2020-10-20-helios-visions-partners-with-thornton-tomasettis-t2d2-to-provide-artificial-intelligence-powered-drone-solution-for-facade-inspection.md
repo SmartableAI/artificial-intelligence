@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/helios-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/helios-visions-partners-with-thornton-tomasettis-t2d2-to-provide-artificial-intelligence-powered-drone-solution-for/article_6d0acd2f-9612-5b13-b58a-8558ee81bcda.html"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "AI powered Proximity Detection solution launched to aid organizations with social distancing"
-    excerpt: "Ipsotek, a pioneer in artificial intelligence (AI) powered video analytics, has announced the launch of a Proximity Detection solution to help businesses across a range of industries monitor adherence to social distancing guidelines enforced by the COVID-19 pandemic."
-    publishedDateTime: 2020-10-20T08:58:00Z
-    webUrl: "https://continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing"
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 28
-    images:
-      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Blue Hexagon Integrates with AWS Security Hub for AI-powered Cloud Security and Accelerating Digital Transformation of the Global Economy"
-    excerpt: "solution on Amazon Web Services (AWS). Recognized in the 2020 Forbes AI 50 list as one of America’s most promising artificial intelligence (AI) companies, and the Gartner Market Guide for Network Detection and Response, Blue Hexagon is a real-time deep ..."
-    publishedDateTime: 2020-10-20T13:26:00Z
-    webUrl: "https://www.oaoa.com/news/business/blue-hexagon-integrates-with-aws-security-hub-for-ai-powered-cloud-security-and-accelerating-digital/article_5d2a9d7d-1d0e-5e63-b814-ff852d255066.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 21
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
-        isCached: true
-
-secured: "Yc7ohmwCufCAIQDjHzZcYkeTO1Bnbz2HLPsTyHJvaCoS9asaIvu9TI5ZLCAAHtxgySUWwsE+XKuywYhiZsCv18vEDtAWE2ohx+Z1MijC8zMXFqF4KwzM9tp2Ybr5nbamF7c0xH66l33+jQ1xBN1URm69LRDrAS706OwifyZ8lWqk0cg4HBSYEbe/H7Z4iQGoJqoRbYvLri0pxSjfgtzALfoY0qx0aXAoxaqh0HF00Y4LHOo2gwXLSy+GiWlwx6so/oYUU8lQyBvps1SBdt2atGg1xnll+LV38z76A1ParJhxSzXfhSrAuutbmMKPraJauV/XnWvLbKGmbgss+AphJOFwEKehkA2Mj9g/lLFrpm8=;uX+lCAUgUE3IcHoqnYkytg=="
+secured: "RhfBlEbYZFkHn/yrrV1ovOWM+pg973x2U4FTI2gwWNPXQ0KLnEwiRJbGCWIBqHefx/ktTDrs/iJKROZHqEZsNJMRkj+nigZPpnZen0GENmHKD/iC3252hdxfFfYV1k7GdprsJJrxpDBgaY2BkN9TDnL6lFAHi0l5pGKCkOMBJ6YQgQ6KMHpQJeM3UqWN3aFvNUrPPccSpzDz69G8PMdeQM0VM8ijseNcNd+MoKFpwOlXwCRRHTx2wpN+Perm+g9QZU1VmrmjNORYU8O8rngx+cfDpZvov+BQfNwh2M4w51faeZbBIGEX59AERUzsWTSe0w6Z/brKHU4Vg12e7cCLuphFRFsEQqK8yWYHrq9p+XJoEjrBHTj9d9RLxNu4ggYgyhNGzzDGFuv//CL4YXVeD8xuxWfu7N7tL3KnJfnsW6o9O0vbALKkd5p93aS9ZpQWpPNln6EmzMhxDWm+DEmF6ezBuWtKPwxJRzz9tZQDOiUhjE2apekqkJwoY7x85axtTfm/66bfaXqInhADLPdSrQ==;6WUz74pyniObtvYRDeZMcw=="
 ---
 

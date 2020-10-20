@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Whisper’s hearing aids use AI to boost speech and reduce noise"
-    excerpt: "Whisper, a startup developing AI-powered hearing aids that self-tune over time, emerged from stealth today with $50 million. CEO Dwight Crow says the funds will be put toward the company’s go-to ..."
-    publishedDateTime: 2020-10-15T22:08:00Z
-    webUrl: "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/"
-    ampWebUrl: "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/amp/"
+  - title: "These homegrown startups are using AI and ML to change the rules of the game"
+    excerpt: "A report by industry body Nasscom noted that Data and AI can add $450-500 billion to India's GDP by 2025, representing about 10 percent of the $5 trillion economy aspiration of the Indian government."
+    publishedDateTime: 2020-10-20T09:26:00Z
+    webUrl: "https://yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game"
+    ampWebUrl: "https://yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Your Story
+      domain: yourstory.com
+    quality: 71
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/content3A2F2Fcom.rarlab.rar.provider2Fexternal_files2FAndroid2Fdata2Fcom.rarlab.rar2Ffiles2F_rartemp_open_16002199995922F_P2I940425202-e1600220152706.jpg?fit=800%2C533&strip=all"
+      - url: "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Imaget6eq-1603185127719.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
         isCached: true

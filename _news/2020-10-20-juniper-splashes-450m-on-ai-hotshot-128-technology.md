@@ -51,6 +51,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Juniper Buys Startup 128 Technology For $450M To Boost AI Capabilities"
+    excerpt: "Juniper Networks acquires networking startup 128 Technology to boost SD-WAN and enterprise artificial intelligence, says CEO Rami Rahim."
+    publishedDateTime: 2020-10-20T14:03:00Z
+    webUrl: "https://www.crn.com/news/networking/juniper-buys-startup-128-technology-for-450m-to-boost-ai-capabilities"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg"
+        width: 399
+        height: 399
+        isCached: true
 
 secured: "pnOH9Rmqwd8djkfgSNiYS+1RH0fDXRJgGIvlzoaLcKFbM913kqTpRpbU992tq+cJqpkqV5X+ZUv4g/hw3r5lwklhGRqsOvWflCuluicl/UJVHl0Yhe12LmXVkC9ybE83k55eYnO8QoMXdg4yDlgjgqT08u2tArrnxNUrLsbHNLkh9PvQMEY/93lMsE0FLL47TDfVO2+EttxFRNTPuAk7XseGnweTp+uD3csvUiEyt3Yu+OHiVrsyeOo+YlvBJUwyToTlNLs3wsmi6n6gXP/qqIJGcp0xA8EuTqMCacFchWFrgcf/D8j0ggjXoeWOFiP1+E7NIt8+pJSLcFYWVgbO9uuh+9p2leh2mo2CFzerUzM=;/VBz+ASQD11xPcZkUXk//g=="
 ---

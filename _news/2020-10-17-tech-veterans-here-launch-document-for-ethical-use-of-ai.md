@@ -7,8 +7,8 @@ originalUrl: "https://www.straitstimes.com/tech/tech-veterans-here-launch-docume
 webUrl: "https://www.straitstimes.com/tech/tech-veterans-here-launch-document-for-ethical-use-of-ai"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Straits Times
@@ -38,20 +38,6 @@ related:
       - url: "https://steelguru.com/uploads/news/bmw-ai_72271.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "It’s Time to Implement Fair and Ethical AI"
-    excerpt: "Companies have gotten the message that artificial intelligence should be implemented in a manner that is fair and ethical. In fact, a recent study from"
-    publishedDateTime: 2020-10-19T20:59:00Z
-    webUrl: "https://www.datanami.com/2020/10/19/its-time-to-implement-fair-and-ethical-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/AI_control_shutterstock_rudall30.jpg"
-        width: 4961
-        height: 3508
         isCached: true
 
 secured: "rtD3a/xSMr56mIwkmm5NjqN9d31t4OhLGnxDfFA2daVnF6ayVAnTgZXyPCfqtFueh4LvFlCdlSAGJseGLQG5OUwDqfl+Tk/cpQyXwHm6dthxPUMC/gC1LJ+h30a0hPNY6NAoIBb3z3KrzSwoNZSOhrKSjS1GA6TyJa1RX7bSVoxz6GDmP2mb50ENONEhJc43BRaPsD9NIJcyKdun4llVJPm+synwuDCWtht3K9klnYk8R3ynkMYeIF8Fc2XQ0DengPXQnNhLei3Zpt/ebgT4c6hVVhMG1TzofvgY302Gzpt2siecUhps1yyoEUfx7L7iOMSwxbvGqe192ATpgbXSQ6HRFPy/O7Ad8XlRsnXXln8=;yqeFdKFZetyFaMYE0AEdGQ=="

@@ -25,31 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tech veterans here launch document for ethical use of AI"
-    excerpt: "A telco's artificial intelligence (AI) system recommends loyalty vouchers of different value to different customers based on how profitable these customers are for the company and the flight risk they represent."
-    publishedDateTime: 2020-10-16T22:52:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-veterans-here-launch-document-for-ethical-use-of-ai"
+  - title: "AI Fairness Isn’t Just an Ethical Issue"
+    excerpt: "We need to start looking at eliminating AI bias less as merely a “nice thing to do,” and more as an economic and competitive imperative. Business leaders take note: By making our AI systems ..."
+    publishedDateTime: 2020-10-20T14:45:00Z
+    webUrl: "https://hbr.org/2020/10/ai-fairness-isnt-just-an-ethical-issue"
+    ampWebUrl: "https://hbr.org/amp/2020/10/ai-fairness-isnt-just-an-ethical-issue"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/ai-fairness-isnt-just-an-ethical-issue"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 74
     images:
-      - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "BMW Group Code of Ethics for Use of Artificial Intelligence"
-    excerpt: "The use of artificial intelligence is a central element of the digital transformation process at the BMW Group. The BMW Group already uses AI throughout the value chain to generate added value for ..."
-    publishedDateTime: 2020-10-20T06:29:00Z
-    webUrl: "https://steelguru.com/auto/bmw-group-code-of-ethics-for-use-of-artificial-intelligence/564418"
-    type: article
-    provider:
-      name: Steel News
-      domain: steelguru.com
-    quality: 54
-    images:
-      - url: "https://steelguru.com/uploads/news/bmw-ai_72271.jpg"
+      - url: "https://hbr.org/resources/images/article_assets/2020/10/Oct20_20_1219846824.jpg"
         width: 1200
         height: 675
         isCached: true
