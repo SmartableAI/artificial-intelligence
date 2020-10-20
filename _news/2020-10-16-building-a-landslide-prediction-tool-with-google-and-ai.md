@@ -52,7 +52,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 75
+    quality: 77
   - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
     excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
     publishedDateTime: 2020-10-19T19:00:00Z

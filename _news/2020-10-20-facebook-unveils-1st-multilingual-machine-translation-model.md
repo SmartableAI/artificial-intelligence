@@ -22,9 +22,9 @@ related:
   - title: "Facebook AI open sources multilingual machine translation model"
     excerpt: "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations."
     publishedDateTime: 2020-10-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
     type: article
     provider:
       name: ZDNet
@@ -93,7 +93,7 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-729466,msid-78760863/the-open-source-artificial-intelligence-software-was-created-to-help-the-massive-social-network-deliver-content-better-in-160-languages-to-its-more-than-two-billion-users-around-the-world-.jpg"
         width: 600
@@ -202,20 +202,6 @@ related:
       - url: "https://www.thesundaily.my/binrepository/480x323/0c37/480d250/none/11808/UNBD/files-us-it-lifestyle-facebook-185857_1699228_20201020094712.jpg"
         width: 480
         height: 250
-        isCached: true
-  - title: "How Facebook and Twitter’s content moderation could shape the final weeks of the election"
-    excerpt: "Facebook and Twitter’s handling of the New York Post’s Biden-Burisma story is illustrating how tech platform’s content moderation decisions could shape the final weeks of the election cycle — and Republicans are accusing them of attempting to influence the results."
-    publishedDateTime: 2020-10-15T14:05:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/15/how-facebook-and-twitters-content-moderation-could-shape-the-final-weeks-of-the-election-790994"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 15
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "b8bSp6ObyBEM0ytIaj0XH0un/dbnqhxsbmp/mvf7F8G9kr6daIbPGQxA8ipwARg94n0jAaylPzAl8KiOue6WWocW6Se2LQrVBQobWX9QqK0OzQyo9uv2dEWcd6RXTVKCN0cpXxxzhRjO61PBAbkMMDCfrZ0vkJbPvEzbtoqeQmezAn5UXhfkrh5GN+F3qNgcJ1FwyCbfr82Z4ZwOUWfGUx/5TJbScOdH1n9IZAO7UDGQUETs15xG0TOGFb5RZ/3oynsDjEdoF2VUzuwCmMMnh5LATtXhbSAGURHEDa886hF1QB+dciVobXjrCeN4sWfr4L1r9y7dq64cMdlbkoTuaI9pL4djnDTWn8q/J2BCTa4=;YHZ0yK1OfP8KtHxojV9lJA=="

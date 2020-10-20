@@ -3,13 +3,13 @@ category: news
 title: "Facebook AI open sources multilingual machine translation model"
 excerpt: "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations."
 publishedDateTime: 2020-10-19T15:00:00Z
-originalUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-webUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
 type: article
 quality: 104
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/4eccddda-3c93-42e5-96df-afcb5d5bf494/m2m100-summary.png"
@@ -89,7 +89,7 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-729466,msid-78760863/the-open-source-artificial-intelligence-software-was-created-to-help-the-massive-social-network-deliver-content-better-in-160-languages-to-its-more-than-two-billion-users-around-the-world-.jpg"
         width: 600
@@ -208,21 +208,7 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "How Facebook and Twitter’s content moderation could shape the final weeks of the election"
-    excerpt: "Facebook and Twitter’s handling of the New York Post’s Biden-Burisma story is illustrating how tech platform’s content moderation decisions could shape the final weeks of the election cycle — and Republicans are accusing them of attempting to influence the results."
-    publishedDateTime: 2020-10-15T14:05:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/15/how-facebook-and-twitters-content-moderation-could-shape-the-final-weeks-of-the-election-790994"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 15
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
-secured: "bPn/Y7mymbfDutYEDfxEUKboFLhFu9Ay8WWSFz8E8FONVXgjg7PJfx+YB+rntcgkL2GQK4DOdGLXBzq4tFllSrcwJkf45HYy6cbWv4pTiHrObuZm+ucycjpc1dREG7Kt7Y5YMpYBJ3ItQslB2uUtDgHbpeM0yxj7ku1Fl8ry+Oj153v7KNjpt1QEHg5K4NpDeUE9UOpixMHOUi5dv1BMczkvvoM8ZH7Qo8lU37QWM7rhVU/Uk4oC58CPxKWY+lX6nFlKYWMrdVbnHotWrSXKpF3C6IRNdYDKVdVQJZCHwzthjq/+6ilI/eIws24cy+rlgVMnmXR0kgBxgtvNYnJ2wo2mTKrvSVokVbY8nk97ub4UjV0F8IJLs+wX5d/Ve9GDv1Uqsx/Fbhp27FpqB49XagwMQYYcCUcxmwu/O6+brWvBgmNYYAxD9NEqFXTMIMxU/h3jyAiMCUfMbBhCqZ2kDFRzlf0JQxF9YuM8thWohIxQYd14McavpjYSSa4UDVSu1UUktl6lKUg13uoNCGqOgA==;f1O8Pa3/qy6bnJKj0zscBg=="
+secured: "VEyHxFs+AJXscW1Dxzg/HpupbMUdsz06vFkvLBFbkMBfDdZtYaa4rV4vq2dDOzYscXqYd5G6Gj6AOso3klt1a4HUNNPQDZHFu4Bw2xjrRQGdmcn/W+7vFSfBMt5svKR3Lfs1f4oQHTucu6W14nD5rvMLLm6x5uKrK0gyq8E7yQaaVc//xX2PQ2XLJt1jcUebJdxFGJlrg7LYsyCCYItN8tMHzy2wIkxxRI6kuuruKrun0kK6NV5vot0CI3R29pGYCdx/Nn4rn+tZxr8m4SRZv7usMw3iizpPE6GAxpieoYfMJ9JIDRerI1ibImnAGEn2gH8lhOMn6EvovoPlSQtWLQ5WtFzvBBJ2AyPcFurkTOE=;J1213dcRvPnUON5KuALSww=="
 ---
 

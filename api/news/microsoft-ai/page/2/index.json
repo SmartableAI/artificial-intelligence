@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-30-intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion.md",
+      "title": "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion",
+      "excerpt": "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our third generation cloud-based proprietary software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-microsoft-translator-now-supports-assamese-too.md",
       "title": "Microsoft Translator now supports Assamese too",
       "excerpt": "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language.",
@@ -1348,49 +1391,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-microsoft-to-skill-10-lakh-indian-students-in-artificial-intelligence.md",
-      "title": "Microsoft to skill 10 lakh Indian students in Artificial Intelligence",
-      "excerpt": "Online sessions for the series are set to commence on September 21 via live demos, virtual instructor-led training, and hands-on workshops.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-to-skill-10-lakh-indian-students-in-artificial-intelligence/article32638573.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-to-skill-10-lakh-indian-students-in-artificial-intelligence/article32638573.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/r3m963/article32638442.ece/ALTERNATES/LANDSCAPE_615/AIseries1",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-to-skill-10-lakh-indian-students-in-artificial-intelligence/article32638573.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-to-skill-10-lakh-indian-students-in-artificial-intelligence/article32638573.ece/amp/",
-      "publishedDateTime": "2020-09-18T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

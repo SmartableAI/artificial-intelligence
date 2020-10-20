@@ -41,6 +41,17 @@ related:
         width: 2440
         height: 1627
         isCached: true
+  - title: "Artificial Intelligence Use in Customer Service Is Rising"
+    excerpt: "M ore and more, companies are shifting towards artificial intelligence (AI) as its first point of contact when it comes to customer service. The movement towards AI is already happening, which can only fuel exchange-traded funds (ETFs) focused on this type of disruptive technology."
+    publishedDateTime: 2020-10-16T16:48:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-use-in-customer-service-is-rising-2020-10-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-use-in-customer-service-is-rising-2020-10-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-use-in-customer-service-is-rising-2020-10-16?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "BSc in Artificial Intelligence and Computer Science"
     excerpt: "The University of Sheffield, UK is inviting applications for Artificial Intelligence and Computer Science BSc course starting in September 2021."
     publishedDateTime: 2020-10-19T13:01:00Z

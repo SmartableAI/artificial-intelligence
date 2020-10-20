@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgag
 ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
 type: article
-quality: 75
+quality: 77
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 related:
   - title: "Google Cloud launches Lending DocAI to streamline mortgage applications with AI"

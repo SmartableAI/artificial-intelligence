@@ -42,22 +42,6 @@ related:
         width: 2220
         height: 1248
         isCached: true
-  - title: "Making new materials using AI"
-    excerpt: "There is an old saying, \"If rubber is the material that opened the way to the ground, aluminum is the one that opened the way to the sky.\" New materials were always discovered at each turning point that changed human history."
-    publishedDateTime: 2020-10-15T14:30:00Z
-    webUrl: "https://phys.org/news/2020-10-materials-ai.html"
-    ampWebUrl: "https://phys.org/news/2020-10-materials-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-materials-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/makingnewmat.jpg"
-        width: 650
-        height: 463
-        isCached: true
   - title: "AI methods of analyzing social networks find new cell types in tissue"
     excerpt: "The problem is that distinguishing all the important details may be difficult. This is where the new AI-based method may come in useful, since it allows unsupervised detection of cell types as well as detection of functions within an individual cell and of ..."
     publishedDateTime: 2020-10-19T17:12:00Z

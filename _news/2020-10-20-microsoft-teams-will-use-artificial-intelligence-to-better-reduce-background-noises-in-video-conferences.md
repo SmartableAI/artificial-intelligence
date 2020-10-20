@@ -44,20 +44,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Microsoft Azure Cognitive Services AI System Can Describe Images as Accurately as Humans"
-    excerpt: "Microsoft has revealed a new AI model through Azure Cognitive Services, delivering a breakthrough in image description accuracy."
-    publishedDateTime: 2020-10-15T14:42:00Z
-    webUrl: "https://winbuzzer.com/2020/10/15/microsoft-azure-cognitive-services-ai-system-can-describe-images-as-accurately-as-humans-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 75
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2016/10/Microsoft-Cognitive-Toolkit-Screenshot-YouTube.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft releases an image-captioning AI algorithm"
     excerpt: "Microsoft makes decoding words, pictures, events and familiar people on social media an easier task for visually impaired people with their accurate AI-captioning technology."
     publishedDateTime: 2020-10-19T17:55:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2163007/ignitarium-launches-new-audio-ai-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2163007/ignitarium-launches-new-audio-ai-platform"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: openpr.com
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Ignitarium Launches New Audio AI Platform"
+    excerpt: "The platform implements auditory deep learning algorithms to deliver ultra-optimized voice and sound analytics solutions on highly constrained edge devices. Cost-sensitive audio applications like off-line voice recognition,"
+    publishedDateTime: 2020-10-20T07:42:00Z
+    webUrl: "https://www.pr.com/press-release/823648"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 19
   - title: "RBC launches AI-guided electronic trading platform"
     excerpt: "RBC Capital Markets has launched an AI-powered electronic trading platform it claims will help improve results and insights for clients in a \"measurable and explainable way\"."
     publishedDateTime: 2020-10-16T00:00:00Z

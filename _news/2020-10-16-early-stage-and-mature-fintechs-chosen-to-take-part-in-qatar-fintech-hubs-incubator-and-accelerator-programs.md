@@ -71,20 +71,6 @@ related:
         width: 440
         height: 293
         isCached: true
-  - title: "OJO Labs acquires fintech startup Digs"
-    excerpt: "The move brings OJO Labs closer to its stated goal of aiding consumers throughout the entire homeownership journey"
-    publishedDateTime: 2020-10-15T13:17:00Z
-    webUrl: "https://www.inman.com/2020/10/15/ojo-labs-acquires-fintech-startup-digs/"
-    type: article
-    provider:
-      name: Inman
-      domain: inman.com
-    quality: 24
-    images:
-      - url: "https://webassets.inman.com/wp-content/uploads/2020/10/Untitled-design-2020-10-14T113852.799-1400x787.jpg"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Three things to help fintech unicorns grow profitability"
     excerpt: "By Kash Amini, CEO and Founder of MasLife The new breed of fintech companies is missing a trick with a massive market opportunity. Lack of customers isn’t the problem – profitability is. CEO and Founder of health and finance app MasLife Kash Amini suggests that there are three key ingredients neobanks lack in their journey"
     publishedDateTime: 2020-10-19T10:28:00Z

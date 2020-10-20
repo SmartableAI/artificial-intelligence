@@ -9,7 +9,7 @@ ampWebUrl: "https://retailtouchpoints.com/features/executive-viewpoints/how-to-c
 cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Use in Customer Service Is Rising"
+    excerpt: "M ore and more, companies are shifting towards artificial intelligence (AI) as its first point of contact when it comes to customer service. The movement towards AI is already happening, which can only fuel exchange-traded funds (ETFs) focused on this type of disruptive technology."
+    publishedDateTime: 2020-10-16T16:48:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-use-in-customer-service-is-rising-2020-10-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-use-in-customer-service-is-rising-2020-10-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-use-in-customer-service-is-rising-2020-10-16?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "BSc in Artificial Intelligence and Computer Science"
     excerpt: "The University of Sheffield, UK is inviting applications for Artificial Intelligence and Computer Science BSc course starting in September 2021."
     publishedDateTime: 2020-10-19T13:01:00Z

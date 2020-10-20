@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-19-new-ai-machine-learning-gains-a-toehold-on-synthetic-biology.md",
+      "title": "New AI Machine Learning Gains a Toehold on Synthetic Biology",
+      "excerpt": "The scientific study of life and living organisms, biology, is a complicated endeavor, as is the engineering field of synthetic biology. Synthetic biology is the science of creating or redesigning new biological systems found in nature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology",
+      "originalUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-10/pic0092.jpg?itok=rqI8-ytS",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology?amp",
+      "publishedDateTime": "2020-10-18T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-ferminet-quantum-physics-and-chemistry-from-first-principles.md",
+      "title": "FermiNet: Quantum Physics and Chemistry from First Principles",
+      "excerpt": "Weve developed a new neural network architecture, the Fermionic Neural Network or FermiNet, which is well-suited to modeling the quantum state of large collections of electrons, the fundamental building blocks of chemical bonds.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/FermiNet",
+      "originalUrl": "https://deepmind.com/blog/article/FermiNet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/okVedh5EOrcP4VXLBcS9ZpeFUG9UcDEHNyMCe7kUrEt7CMnYROv4caYVNPB-eaGzSTAVXPfJp1CaOcQSsh9NFWwbkEzHyRXL9kiCLYY",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-silicon-valley-is-getting-into-the-hearing-aid-business-with-these-impressive-ai-driven-earpieces.md",
       "title": "Silicon Valley Is Getting Into the Hearing Aid Business With These Impressive AI-Driven Earpieces",
       "excerpt": "This week, the startup Whisper launched its new flagship product, the Whisper Hearing System. The Whisper Hearing System uses artificial intelligence to process sound in real-time and optimize it for the user’s surroundings.",
@@ -560,7 +655,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1117,83 +1212,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-cascadia-capital-bets-big-on-ai-robotics-and-automation.md",
-      "title": "Cascadia Capital bets big on AI, robotics and automation",
-      "excerpt": "Cascadia Capital is betting big on AI, robotics and automation. “We think it’s where the world is going,” the CEO says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/seattle/news/2020/10/15/cascadia-capital-bets-on-ai-robotics.html",
-      "originalUrl": "https://www.bizjournals.com/seattle/news/2020/10/15/cascadia-capital-bets-on-ai-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/seattle/news/2020/10/15/cascadia-capital-bets-on-ai-robotics.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/10/15/cascadia-capital-bets-on-ai-robotics.amp.html",
-      "publishedDateTime": "2020-10-15T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-ai-tech-enables-robots-to-feel-pain-stitch-their-wounds.md",
-      "title": "AI tech enables robots to feel pain, stitch their wounds",
-      "excerpt": "Researchers from Nanyang Technological University, Singapore, develop a way for robots to have the AI to recognise pain and self-repair when damaged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/6GxRKMYJrz1qb3Wj",
-      "originalUrl": "https://www.itweb.co.za/content/6GxRKMYJrz1qb3Wj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/10/NTU-Singapore-scientists-2020.jpg",
-          "width": 816,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.itweb.co.za/content/6GxRKMYJrz1qb3Wj",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/6GxRKMYJrz1qb3Wj",
-      "publishedDateTime": "2020-10-15T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

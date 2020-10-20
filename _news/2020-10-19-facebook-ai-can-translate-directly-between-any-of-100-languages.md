@@ -28,9 +28,9 @@ related:
   - title: "Facebook AI open sources multilingual machine translation model"
     excerpt: "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations."
     publishedDateTime: 2020-10-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
     type: article
     provider:
       name: ZDNet
@@ -99,7 +99,7 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-729466,msid-78760863/the-open-source-artificial-intelligence-software-was-created-to-help-the-massive-social-network-deliver-content-better-in-160-languages-to-its-more-than-two-billion-users-around-the-world-.jpg"
         width: 600
@@ -204,20 +204,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "How Facebook and Twitter’s content moderation could shape the final weeks of the election"
-    excerpt: "Facebook and Twitter’s handling of the New York Post’s Biden-Burisma story is illustrating how tech platform’s content moderation decisions could shape the final weeks of the election cycle — and Republicans are accusing them of attempting to influence the results."
-    publishedDateTime: 2020-10-15T14:05:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/15/how-facebook-and-twitters-content-moderation-could-shape-the-final-weeks-of-the-election-790994"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 15
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
 secured: "oH4ei3KLnblIByvQYRQL4vutETvt5fTidb85L75Dj4br28W9ZDOv1XO3xFcQPguqt7Ond+hoAUjEDjRCDBCtCBsswBuer5kMWvCORR6zy9Fs6mVGWHgOXI9nUNWI2G+YmANQNuv69qJ8kJ+dMKWgymPWDnt+BEyLl7MTMeBrs67N57yr1tdT6tNg9PoiRWFp779SUHQsKxn/wAi06Fylr8qrW53vDu9hLl8JDoH1Sd+k2YVD70o7/ZbGDk6AH/U5TFILS4ZGpZ3x9AXkQvbRY0zTavkc6DoUPdkYlbieBpkC3v4sWdd73SuFzV9EkbPzvQ7pmKRGYcd2Gh+E4WvEC1/7AkAIeNS9fVtCLHCrWci63h8+Ga0EjeYsdrkmJi7ZP1Ulb8+bbz7OXQFAPgfQaXTsQcV4MMDDx1Rn/F4UuFr0Eg8LWwDUXhA5Wdf71t5wHGAXhZWGUZIwli8YwiwVUT/ZJ2pG/1NwAsJxwKsJXYJij7Q1vEF5V+Narm13BU1KoUOAXWskHX8J23lrmZGIFA==;mT8odBGFn8rMaIL7xwmxdA=="
 ---

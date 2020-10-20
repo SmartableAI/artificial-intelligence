@@ -89,20 +89,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "NASA scientist and driverless car pioneer crowned top Aussie expats"
-    excerpt: "The first Australian to become a scientific lead on a NASA mission to Mars and the founder of a pioneering driverless vehicle company have been jointly crowned as Australia's top expats."
-    publishedDateTime: 2020-10-15T13:20:00Z
-    webUrl: "https://www.afr.com/technology/nasa-scientist-and-driverless-car-pioneer-crowned-top-aussie-expats-20201013-p564qq"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.3281%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_51%2C$y_67/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/t_afr_exclusive_no_age_social_wm/88c89615cbceb34c54a1a27a7a60d166f1ec479c"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Cruise to test self-driving cars out in the wild in San Francisco."
     excerpt: "Cruise announces in a Medium post that it plans to begin testing unmanned autonomous vehicles by the end of this year in San Francisco after landing a permit from the California Department of Motor Vehicles\"Before the end of the year,"
     publishedDateTime: 2020-10-15T18:37:00Z

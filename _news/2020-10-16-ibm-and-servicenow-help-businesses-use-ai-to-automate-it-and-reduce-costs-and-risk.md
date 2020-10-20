@@ -85,15 +85,6 @@ related:
         width: 2700
         height: 1411
         isCached: true
-  - title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
-    excerpt: "ARMONK, N.Y. and SANTA CLARA, Calif., Oct. 15, 2020/ PRNewswire/-- IBM and ServiceNow today announced an expansion to their strategic partnership designed to help companies reduce operational risk and lower costs by applying AI to automate IT operations."
-    publishedDateTime: 2020-10-15T14:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 43
   - title: "IBM, ServiceNow partner on AI solution to manage IT outages"
     excerpt: "Expanding their strategic partnership, IBM (IBM -1.1%) and ServiceNow (NOW -1.7%) will release a joint solution that uses AI to more effectively manage IT outages.\"AI is one of the biggest forces driving change in the IT industry to the extent that every company is swiftly becoming an AI company."
     publishedDateTime: 2020-10-15T19:43:00Z

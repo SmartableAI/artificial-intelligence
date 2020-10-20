@@ -41,6 +41,17 @@ related:
         width: 2440
         height: 1627
         isCached: true
+  - title: "Artificial Intelligence Use in Customer Service Is Rising"
+    excerpt: "M ore and more, companies are shifting towards artificial intelligence (AI) as its first point of contact when it comes to customer service. The movement towards AI is already happening, which can only fuel exchange-traded funds (ETFs) focused on this type of disruptive technology."
+    publishedDateTime: 2020-10-16T16:48:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-use-in-customer-service-is-rising-2020-10-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-use-in-customer-service-is-rising-2020-10-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-use-in-customer-service-is-rising-2020-10-16?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "5 ways machine learning can improve patients' experience and outcomes"
     excerpt: "Artificial intelligence and machine learning improve processes though data-driven insights and automation. These tools are becoming increasingly integrated into healthcare, but their adoption on the clinical front line remains slow."
     publishedDateTime: 2020-10-19T17:11:00Z

@@ -8,7 +8,7 @@ webUrl: "https://economictimes.indiatimes.com/magazines/panache/facebook-unveils
 ampWebUrl: "https://m.economictimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/amp_articleshow/78760793.cms"
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/amp_articleshow/78760793.cms"
 type: article
-quality: 81
+quality: 83
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-729466,msid-78760863/the-open-source-artificial-intelligence-software-was-created-to-help-the-massive-social-network-deliver-content-better-in-160-languages-to-its-more-than-two-billion-users-around-the-world-.jpg"
@@ -31,9 +32,9 @@ related:
   - title: "Facebook AI open sources multilingual machine translation model"
     excerpt: "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations."
     publishedDateTime: 2020-10-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
     type: article
     provider:
       name: ZDNet
@@ -205,20 +206,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "How Facebook and Twitter’s content moderation could shape the final weeks of the election"
-    excerpt: "Facebook and Twitter’s handling of the New York Post’s Biden-Burisma story is illustrating how tech platform’s content moderation decisions could shape the final weeks of the election cycle — and Republicans are accusing them of attempting to influence the results."
-    publishedDateTime: 2020-10-15T14:05:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/15/how-facebook-and-twitters-content-moderation-could-shape-the-final-weeks-of-the-election-790994"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 15
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
 secured: "TLoScKuQzunjJifQYiRz0ZCyfUW5NMM0zThEUWWbynkov/+H1GILsx1rYPDChLIMOzEpQeugbXrY9xm0uiGdeh/ry43PzxpCb9ZVwjlAd2fhN6/lCN0kxk7VlxTYGLf6rqgEAeoftLyn6mgstnBsTLpR35isuwnJbPfeDv+zFzJiZzZKjw+ywmojBUqHh+xvZpJNQAS37/UVJO5XMNW3cQODPTfF0IiYj5DlL3ohQe8LWZs5zJdmMYPrJZtuAXUF3zkKhcVPJStNfOhdHoi/r1rkbDdooBUCp2a9iaRx3XGRJ0+olaFaCS1OcV75D/sKNASSWm2DmuUu6dywrDIOYoFyi5TP1BGTguJNMREQ2z4=;i3UFVjV5uFPBgcrlKymh3A=="
 ---

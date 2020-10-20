@@ -1,42 +1,26 @@
 ---
 category: news
 title: "Tisane Labs' Solutions on Microsoft Azure Add Wikidata Extraction Feature"
-excerpt: "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft"
-publishedDateTime: 2020-10-13T17:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html"
-webUrl: "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html"
+excerpt: "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft Azure Marketplace and AppSource. With the new feature, Tisane API now allows tagging and extraction of Wikidata entities,"
+publishedDateTime: 2020-10-13T17:54:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
+webUrl: "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
 type: article
-quality: 53
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-related:
-  - title: "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with its FHIR-enabled Data Activation Platform. Microsoft Cloud is committed to improving connectedness to drive superior performance across providers,"
-    publishedDateTime: 2020-10-13T17:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-
-secured: "BTdoqKo4sWqXVCwcHx77Db3sXmjnwVR2rBRvuiZ3DIvUb0axckOsbqkuoOF2MLHlFdQ/DhG22cUdgKFTUEkzRzeWSvActj3WEe2vg3+JCPz4OSY/FHHqMPharvyqJFRrUnrXRHfYRP7JSWF1bWJ5gjstvcgE+/tnZYQoOwBeO55BJyWyw7zUSkWNJ2Ap604UcTY86a09Z/MUNgY0S9cg8erGi2d10MO8KM4eq8NSvpyXhxx+8S+TqjzKtzmvz/KohhpSGBQ+02qNBNvynlpTK7V+gKAoWqnZEsyQilkH24c20jQAPqBHMP8Yr958abYVvNYdbkcTKoX4tE4ckX7k6aVHQQxDfdbCodMFtnuOJRg=;lK2hLJKnHIGbpzxW7Cl3yg=="
+secured: "LzxHTQ2oBSsLK5SZTjthUFoOKKRsmtEf4aqXs/efOFQYst+I8dUlUelxa0Dmpkom+RfeFaFnFL7mbzCv7CEJL6pCGzbKD4cut2YJoGfCnf0g/IsHq9146ns5X1lUaRdQSv9iYhaOagXSy3X1A4Vd63/DUWafiCHi5tmHAC7JEjzQraf73FDHg8p8cFKRdYqjBttCS/u0Jl57J42CTAgPjGat9NY1Njj/dFvX5DuAG0EHCwgr0BWslKUqgvVQikuKGBIHUsqydeeplUTDFph7XoUdXNh8v1BKB6mtZFtK1w4O081BRjpzJ//D1o+lDQVQBNdstNDQvhABgLUDY/jFc8Se1S1ROqB0HoWUyQx1lNA=;8AOUPcR0bh4TOnq9ODD7Sg=="
 ---
 

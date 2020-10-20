@@ -85,20 +85,6 @@ related:
         width: 300
         height: 234
         isCached: true
-  - title: "OJO Labs acquires fintech startup Digs"
-    excerpt: "The move brings OJO Labs closer to its stated goal of aiding consumers throughout the entire homeownership journey"
-    publishedDateTime: 2020-10-15T13:17:00Z
-    webUrl: "https://www.inman.com/2020/10/15/ojo-labs-acquires-fintech-startup-digs/"
-    type: article
-    provider:
-      name: Inman
-      domain: inman.com
-    quality: 24
-    images:
-      - url: "https://webassets.inman.com/wp-content/uploads/2020/10/Untitled-design-2020-10-14T113852.799-1400x787.jpg"
-        width: 1400
-        height: 787
-        isCached: true
 
 secured: "XAW0ddeM1v3woC4GHeZY8h4efy2JDF+E/xZrfNiEm2/SdCX5gY0pDiMBIW+WhyBBy4p9BXxNS2TaBD0GCk1VO1jKr8P/OoY2FkXhwGYTTc/RhCQZ9tp5zO2PW4/tBNZTYYLLggvaBfkFJak2Ty7l6G2BtytT8I8QnDYHlVdUldz45po1y0s0WtV4tPEfLzUNvknvG9+KdWN6fSZ2Ia6A4yiFK6zxr0/bUSolKHF8KRXrK/uzfRU8NnBdEihzw7VNplKs+B7oMNA20sFdc3PRTo9+rl4tNZrRcGU/4qgmK7g7W0ts2dMnHr/WW8/OwDA2ncLaIesXa9Rfpl3REyaV6mZTWljwezUqCy+PJHvXIUNztTFCXm2ney6zhQEpYZQBNgZZQ4E0cuw837n+R8CwruBqHySux44vdt4uT+jZQQ0OPnh6VFAJ4YfmOHPJRKxPPpf2QFz9FgSQ8MD+sHiNK+n4T9IPaRGvVcphgTc/9cORpb+w4CTYQ+YibawflVIXFBMZqDlhKIRVSejY8We3gg==;29iafE0RMxq3oJf9JMvaWw=="
 ---

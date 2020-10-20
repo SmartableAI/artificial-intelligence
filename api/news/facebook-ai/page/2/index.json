@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-09-facebook-and-dolby-join-amazons-voice-interoperability-initiative.md",
+      "title": "Facebook and Dolby join Amazon’s Voice Interoperability Initiative",
+      "excerpt": "More than 70 companies now count themselves, members of Amazon's Voice Interoperability Initiative, which recently published a design guide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-studio.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/amp/",
+      "publishedDateTime": "2020-09-09T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-the-8-best-ai-stocks-on-the-market-today.md",
       "title": "The 8 Best AI Stocks on the Market Today",
       "excerpt": "Today, as Facebook drives AI research and continues to integrate the technology throughout its platform, FB stock is worth close to $300. That continued investment and its ongoing payoff makes ...",

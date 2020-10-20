@@ -23,19 +23,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "HOLT Ventures invests in construction-focused artificial intelligence company"
-    excerpt: "This is HOLT Ventures' second time investing in Document Crunch, having helped the company with its soft launch in 2019, also with an undisclosed amount. “HOLT Ventures’ goal is to advance ideas and technologies that are disrupting the industry,"
-    publishedDateTime: 2020-10-15T13:18:00Z
-    webUrl: "https://www.bizjournals.com/sanantonio/news/2020/10/15/holt-ventures-invests-construction-tech-company.html"
-    ampWebUrl: "https://www.bizjournals.com/sanantonio/news/2020/10/15/holt-ventures-invests-construction-tech-company.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanantonio/news/2020/10/15/holt-ventures-invests-construction-tech-company.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
-
 secured: "BwKe453J9fErM6YiyEaGk45XpIcu5FSu7kIkyqdzlJYBVQNii3BI/CRvyPwtpkSgnm0vefmwZYNr1ZWVT/j4yvEs5uABa72JT9lzh8ZjdPp4ffUmq1WoW8h1H1vlWqWfasC9rv+eWeUOERktcGq9XT8OfPa3uXhFRQhPfde/krdx6W70dKTj61L1KIERc+AvuNMX6oMY6g0uRiszYaumsLS/oA4A6beZ5aNSmRVpFMzFM2zOGAs6c2leY2w0NdBLsXkR/EdsUI3uPaa2gzOoONLCUN93GpqLWDJ/hcdIFal0zJV9Jklo3tkQbRHwIWdAmoWmRp4KUAokfjz2/z/zgaFee3toHysQuxfefjfJBGPAk4SrjGj4+qr4Db+hJolpxYf9PWszx1s+na/BMJuty0swa6QjefShHUfOwWuvkv0hklIUpfW9LwZwbSOtZJzkgZ66151+mic298pSABQhms0LlM4KQnrR8Ryy4TyqMZ4UDeRy0i8phWTfDYrv6u9BRzBox7p8J1PI4Ec8OgeeUw==;6TjktJGyWrbF3L7vNiQPYg=="
 ---
 

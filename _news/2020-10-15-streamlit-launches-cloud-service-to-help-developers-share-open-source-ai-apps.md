@@ -50,7 +50,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 75
+    quality: 77
   - title: "Building a landslide prediction tool with Google and AI"
     excerpt: "AI Impact Challenge, Google asked nonprofits, social enterprises and research institutions around the world, \"How would you use artificial intelligence (AI) for social good?\""
     publishedDateTime: 2020-10-16T14:09:00Z
