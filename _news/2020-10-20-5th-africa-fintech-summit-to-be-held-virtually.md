@@ -2,17 +2,19 @@
 category: news
 title: "5th Africa Fintech Summit to be held virtually"
 excerpt: "The fifth Africa Fintech Summit ( will be hosted virtually this year through the Accelevents ( platform on November 9th, 10th, and 12th, 2020. The Summit takes place at the backdrop of the global COVID-19 pandemic that has brought unprecedented need for digital trade & finance and positioned fintech as key to economic recovery."
-publishedDateTime: 2020-10-20T10:51:00Z
-originalUrl: "https://www.cnbcafrica.com/africa-press-office/2020/10/20/5th-africa-fintech-summit-to-be-held-virtually/"
-webUrl: "https://www.cnbcafrica.com/africa-press-office/2020/10/20/5th-africa-fintech-summit-to-be-held-virtually/"
+publishedDateTime: 2020-10-20T12:03:00Z
+originalUrl: "https://guardian.ng/apo-press-releases/5th-africa-fintech-summit-to-be-held-virtually/"
+webUrl: "https://guardian.ng/apo-press-releases/5th-africa-fintech-summit-to-be-held-virtually/"
+ampWebUrl: "https://guardian.ng/apo-press-releases/5th-africa-fintech-summit-to-be-held-virtually/amp"
+cdnAmpWebUrl: "https://guardian-ng.cdn.ampproject.org/c/s/guardian.ng/apo-press-releases/5th-africa-fintech-summit-to-be-held-virtually/amp"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: CNBC Africa
-  domain: cnbcafrica.com
+  name: The Guardian Nigeria
+  domain: guardian.ng
 
 topics:
   - AI in Finance
@@ -63,6 +65,17 @@ related:
         width: 1408
         height: 792
         isCached: true
+  - title: "AI in Fintech Market Witness the Growth of $7,305.6 Million by 2022"
+    excerpt: "According to a research report AI in Fintech Market by Component Solution Service Application Area Virtual Assistant Business Analytics Reporting Customer Behavioral Analytics Deployment Mode Cloud On Premises and Region Global forecast to 2022 the AI in Fintech market size"
+    publishedDateTime: 2020-10-20T12:51:00Z
+    webUrl: "https://www.openpr.com/news/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
+    ampWebUrl: "https://www.openpr.com/amp/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
   - title: "ING and UNICEF launch ‘Fintech for Impact’ initiative to support fintech start-ups in Philippines"
     excerpt: "efficient data with a new AI-enabled platform This initiative, called “Fintech for Impact”, supports open-source solutions that contribute to a growing body of digital public goods that can advance society. Chris Fabian, senior adviser at UNICEF ..."
     publishedDateTime: 2020-10-19T09:58:00Z
@@ -78,6 +91,20 @@ related:
       - url: "https://www.businesstimes.com.sg/sites/default/files/styles/article_img/public/image/2020/08/06/nz_philippines_060820.jpg?itok=LHDtmRW7"
         width: 440
         height: 293
+        isCached: true
+  - title: "Fintech and Automated Loss Mitigation Provider, Constant, Recipient of 2020 AI TechAward"
+    excerpt: "Fintech and automated loss mitigation provider Constant is pleased to announce it is the recipient of a 2020 AI TechAward. The annual AI"
+    publishedDateTime: 2020-10-20T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fintech-and-automated-loss-mitigation-provider-constant-recipient-of-2020-ai-techaward-301155786.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Early-Stage and Mature Fintechs Chosen to Take Part in Qatar Fintech Hub’s Incubator and Accelerator Programs"
     excerpt: "Early-stage and mature Fintechs chosen to take part in Qatar Fintech Hub's incubator and accelerator programs."
@@ -152,6 +179,6 @@ related:
         height: 300
         isCached: true
 
-secured: "2t8Vyes85amc0BDNexnlgVSgrIfrqubQvOAoz+2fx/aA06W2iKIOXOvdmKHDKp59KxDveWbgQAiy8Q3vfkOp9hNJxuypnS4TX9o2qFBaJWhZSH2Ony6XbEdzxfTOMhOcwJmr6N6kW8pTFTqHvhaKPOhdSOi1htB/NUiYZDWvK+Lf/6hcr0yTgr4jRyrHyaJGgiXfaOm9IL4D4RVnFrmrylP+zOIe1dHUf/w0FGmdUb/2inkImD54JQYEpQPtx3wJ9LGi8F6YR49zYd+3BwamsE2kJuyRYFi8iDyZinpn/XETznZDml/SsidLyGQ36/SVMw9k9Q1cscd0hRLI24sqUgkJCSe3afz2qSPxXV58iVE=;UeslJHEJ3q4UmWAvC2v+og=="
+secured: "qR3h1CDP4m8KBKONxFt+lVRwTyY5xY73Gm1cufqpaObr2Dr6rtTr3dbypKQjYQFSG62h9QBrJ+fpe8XuYhElgDx5uac2mwzR3vWM4by3b/fqiDucGYxbY/APRXuD+CdYSPLQJR+WZVFvf3nkmoST6BHER1WXVIb327fRt/qWfy0lUsl+JGIDc+M7HMGTuPYZ2hoaUE604LUmgdU9nTodj2+wKyyj7M4Cn5mWd6wYj559m9Kqq/PGMEw0MruULKrEjtoACnAtfcx/BDDGpNnFKr6IV1uooKi2v1+K4cvHawxrlXNei+v+mJWECKUEr2NyUrBrGnddnZ2sDmufJTaoiw6VZMHx3PZjPmMwNJHKU8k=;0FQzVU87GJwNDcpLHTjevg=="
 ---
 

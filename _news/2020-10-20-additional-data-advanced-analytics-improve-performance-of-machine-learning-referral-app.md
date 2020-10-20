@@ -35,33 +35,6 @@ related:
         width: 620
         height: 250
         isCached: true
-  - title: "Get The Most From Your Artificial Intelligence Investments by Operationalizing Analytics"
-    excerpt: "Organizations realize they need analytics to run, grow, and differentiate their products and services. More than just driving strategic"
-    publishedDateTime: 2020-10-15T20:57:00Z
-    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/get-the-most-from-your-artificial-intelligence-investments-by-operationalizing-analytics/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/get-the-most-from-your-artificial-intelligence-investments-by-operationalizing-analytics/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/get-the-most-from-your-artificial-intelligence-investments-by-operationalizing-analytics/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 58
-  - title: "Google Announces AI Search Updates – Analysis"
-    excerpt: "This is how Google AI updates will dramatically impact how sites are ranked. Analysis of changes for SEO and publishing. Google announced a series of changes to search that will change how sites are ranked."
-    publishedDateTime: 2020-10-16T13:15:00Z
-    webUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/"
-    ampWebUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
-    cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
-    type: article
-    provider:
-      name: Search Engine Journal
-      domain: searchenginejournal.com
-    quality: 57
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2020/10/ai-in-search-5f88cc960a6ef.png"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "How AI & Data Analytics Can Solve Supply Chain Pitfalls"
     excerpt: "The supply chain is an ecosystem that affects businesses around the world, and the COVID-19 pandemic has thrown a"
     publishedDateTime: 2020-10-16T18:59:00Z
@@ -146,6 +119,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 41
+  - title: "ECS Names Aaron Burciaga Senior Director of Artificial Intelligence and Analytics"
+    excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Aaron Burciaga has been named senior director of artificial intelligence (AI) and analytics. In this role, Burciaga will work closely with ECS’s national security and intelligence division in the development of AI and machine learning (ML) solutions."
+    publishedDateTime: 2020-10-20T12:59:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-executive-changes-north-america-products-and-services-65477a39b49943a285255ca350df8a65"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
     excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
     publishedDateTime: 2020-10-16T19:30:00Z

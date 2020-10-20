@@ -26,140 +26,86 @@ images:
     isCached: true
 
 related:
-  - title: "7 data science start-ups shaking up AI and analytics – Silicon Republic"
-    excerpt: "From the start-up that wants to make machine learning accessible to everyone, to the one that’s using analytics to monitor and take early action against skin cancer, here are seven up-and-coming science start-ups making waves in AI and analytics."
-    publishedDateTime: 2020-10-16T14:46:00Z
-    webUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic"
-    ampWebUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
+  - title: "Google Search is getting a new AI-powered spell checker"
+    excerpt: "Google has announced a range of AI-powered enhancements to its search engine, including a new algorithm that improves spelling corrections."
+    publishedDateTime: 2020-10-16T12:03:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 59
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2019/03/GettyImages-959874388-620x250.jpg"
-        width: 620
-        height: 250
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-16T114024.500-796x417.png"
+        width: 796
+        height: 417
         isCached: true
-  - title: "Get The Most From Your Artificial Intelligence Investments by Operationalizing Analytics"
-    excerpt: "Organizations realize they need analytics to run, grow, and differentiate their products and services. More than just driving strategic"
-    publishedDateTime: 2020-10-15T20:57:00Z
-    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/get-the-most-from-your-artificial-intelligence-investments-by-operationalizing-analytics/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/get-the-most-from-your-artificial-intelligence-investments-by-operationalizing-analytics/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/get-the-most-from-your-artificial-intelligence-investments-by-operationalizing-analytics/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 58
-  - title: "How AI & Data Analytics Can Solve Supply Chain Pitfalls"
-    excerpt: "The supply chain is an ecosystem that affects businesses around the world, and the COVID-19 pandemic has thrown a"
-    publishedDateTime: 2020-10-16T18:59:00Z
-    webUrl: "https://www.business2community.com/business-innovation/how-ai-data-analytics-can-solve-supply-chain-pitfalls-02354669"
-    ampWebUrl: "https://www.business2community.com/business-innovation/how-ai-data-analytics-can-solve-supply-chain-pitfalls-02354669/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-ai-data-analytics-can-solve-supply-chain-pitfalls-02354669/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2020/10/andy-li-CpsTAUPoScw-unsplash-900x600.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "How Zelle Protects Users Against Scams And Frauds With AI, Analytics"
-    excerpt: "An interview with Jamie Armistead, vice president for banking app Zelle, on how the P2P app uses analytics and AI to protect users from fraudsters."
-    publishedDateTime: 2020-10-19T13:08:00Z
-    webUrl: "https://www.pymnts.com/fraud-prevention/2020/zelle-frauds-scams-ai-analytics/"
-    ampWebUrl: "https://www.pymnts.com/fraud-prevention/2020/zelle-frauds-scams-ai-analytics/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2020/zelle-frauds-scams-ai-analytics/amp/"
+  - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
+    excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
+    publishedDateTime: 2020-10-19T19:00:00Z
+    webUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/"
+    ampWebUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
     quality: 57
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/shutterstock_623744642-457x301.jpg"
-        width: 457
-        height: 301
-        isCached: true
-  - title: "Additional data, advanced analytics improve performance of machine learning referral app"
-    excerpt: "Research scientists from Regenstrief Institute and Indiana University have further improved the performance of Uppstroms, a machine learning application that identifies patients who may need referrals to wraparound services,"
-    publishedDateTime: 2020-10-16T17:34:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/2-additionalda.jpg"
-        width: 794
-        height: 356
-        isCached: true
-  - title: "Deep Dive: The Power Of Data Analytics And AI For QSRs In A Complex Ordering Environment"
-    excerpt: "This Deep Dive explores how artificial intelligence and data analytics can help quick-service restaurants optimize their operations across a host of use cases."
-    publishedDateTime: 2020-10-16T12:10:00Z
-    webUrl: "https://www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/"
-    ampWebUrl: "https://www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 48
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/restaurant-data-analytics-457x305.jpg"
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/google-cloud-lending-ai-457x305.jpg"
         width: 457
         height: 305
         isCached: true
-  - title: "Roojoom Designated by Gartner as a 2020 Cool Vendor in AI for Customer Analytics"
-    excerpt: "Roojoom ( has been designated a Cool Vendor by Gartner in a recent report \"Cool Vendors: AI for Customer Analytics\". According to Gartner, \"'Born AI' startups are appearing in the hotly contested area of AI for customer analytics,"
-    publishedDateTime: 2020-10-15T23:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/roojoom-designated-by-gartner-as-a-2020-cool-vendor-in-ai-for-customer-analytics-1029684273"
+  - title: "axle ai Brings AI-Powered Media Search to Adobe Creative Cloud Applications"
+    excerpt: "New integrations with Adobe applications for remote teams to debut at Adobe MAX online conference. Boston, MA, USA – October 16, 2020 – axle ai is excited"
+    publishedDateTime: 2020-10-17T01:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17946357/axle-ai-brings-ai-powered-media-search-to-adobe-creative-cloud-applications"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17946357"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17946357"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-  - title: "Using AI, Data Analytics to Enhance Person-Centered Care for Seniors"
-    excerpt: "Artificial intelligence and data analytics tools could help older adults actively participate in their own care."
-    publishedDateTime: 2020-10-16T14:48:00Z
-    webUrl: "https://healthitanalytics.com/features/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 41
-  - title: "Additional data, advanced analytics improve performance of machine learning referral app."
-    excerpt: "Research team affiliations include Regenstrief, IU Fairbanks School of Public Health at IUPUI, IU School of Medicine and Eskenazi Health."
-    publishedDateTime: 2020-10-20T10:29:00Z
-    webUrl: "https://infosurhoy.com/news-summary/additional-data-advanced-analytics-improve-performance-of-machine-learning-referral-app/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 10
-  - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
-    excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
-    publishedDateTime: 2020-10-16T19:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201016005415/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
     images:
-      - url: "https://mms.businesswire.com/media/20201016005415/en/830987/23/IRTNTR45192.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.getnews.info/wp-content/uploads/2020/10/1602865966.jpeg"
+        width: 468
+        height: 206
         isCached: true
+  - title: "7 Steps to Deploying AI-powered Self-service during the New Normal"
+    excerpt: "It’s no surprise that AI-powered self-service is gaining traction with customers. Even before the pandemic created a New Normal, 73% of consumers said they wanted to solve their issues on their own without having to engage with a human customer service agent."
+    publishedDateTime: 2020-10-17T04:14:00Z
+    webUrl: "https://customerthink.com/7-steps-to-deploying-ai-powered-self-service-during-the-new-normal/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Google Details How It Uses AI, Machine Learning To Improve Search"
+    excerpt: "Google made several announcements on Thursday intended to transform the way people search and the way brands interact with consumers."
+    publishedDateTime: 2020-10-16T04:14:00Z
+    webUrl: "https://www.mediapost.com/publications/article/356876/google-details-how-it-uses-ai-machine-learning-to.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 36
+  - title: "Google Cloud launches AI-powered mortgage processing tool"
+    excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."
+    publishedDateTime: 2020-10-20T00:19:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36777/google-cloud-launches-ai-powered-mortgage-processing-tool"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "yB01PA4lcYu9RUMI9JHnZ7aHjiE0CCDnCQt5QxUlt1Zv5Cxh0J1tR/0QjCuHIvp/3Kvia16LmnRYqYULEXAFrY+saJsdXPvfkOMGuAtkLqItvNMZvJWUCzHQav5RIraCwu5wBBEXz9jIy/8jYUEaMaYFEvbNlmxlCVOc/UdWMaEojErg/m/tDsfKn7YqTduox30fNFo3vAX42lLeOlHYpbB/pdunySUQ/SbWD0rJ7Gd8UM91x/tbfDbMO+o1mLHGkm7DWvRtrT0ohBOEKLFBBdwNdQHt8Tc86dfakDb2csqItH5tU2Slp9b3e8vAOr6dHDFx3KHCMMu+egq+GWhllTOe0ovVbBbzEVzsQstzfU5GStznAD9NooKGQFKEuSMY/GQ+ssf7PxzNei1u9h6ECMHGpkXqXBm2EqT55/35dhNgPX4kxYqx39VZgbO+RVv2ZkUh/WDoVqNH0JpA3sqW6GLMHL14Fgcy7K4OvkY5V/9SJIMutooCRM2hMir2i4NMbZH01ZcMV+Q09MrJTC0cWQ==;oZxFUqaMVQs4vtDk5A+sAw=="
 ---

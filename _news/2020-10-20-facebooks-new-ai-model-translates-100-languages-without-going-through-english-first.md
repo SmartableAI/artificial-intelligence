@@ -8,7 +8,7 @@ webUrl: "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-transla
 ampWebUrl: "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/"
 type: article
-quality: 96
+quality: 98
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-20T102109.015-796x417.png"
@@ -285,6 +286,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "nYY/alTjk/2EywS5sWAUI37CXnnVfhAvJTMBclJkLosu1l+0sBRy6Q48VyZmDDL9s11aS6iVgPcII+5AxiOx9ZbLbXB13ClZHyRtMffIJLCQmdLT2Ay9m7dXNEHdx0OMv5bCIqEoNfh4sZ5DeE9+wAc7e1LL/cQGZ0hltEb/iNr54BEvzgX7h4AD6WQeDqoxZ6QKGEQ3NFFe+I07vZQWWq+1sMeyYeU11AiLic+CHcKv4XkQD9mHTRv1ltKyX2ObDqoZtZbFt69ZYOIegxvKjLsRIZC8WcJeM6X34O7kk/hNtMwf8+a93UU4f+83p0Hw8YaoMehAxUZVGy33CyEDHfU3rkHm64cXZh/by3xlFc8=;HFp3e602vBw5jyNX6FZeBg=="
+secured: "bP/kpH/qEvhaR04UWJatzNnZZueItwXx+nT/bwk3CvomEd7H2rtQXUCY0iftNKWdy0hs7D0S1mLHfOCbqICjHX3jnrXol3GnDhGCFTSziVPn+OGhfLOOoDZxoDKlN2FlMPxk8i7SAxWFPUejuCButIw7E97FPhzOp7U3i8Mt8NffINgz4aozmACyqvJIFyGB1IGvAFQrSlv4ZCRU1oSbWFqZlDEzb5WUZOX5iNDKtmoJvNa1qR7KgyZxmBSRiMwG4huPir6zI1HyWpp97OSVzc2CWdW8BASOhvLNm9vHp7W3nSKKkQxNYyYdyymppeuHLjf/heBgtMfea/UXTR3jEYc5oCKmhXuz0zlsI5519kiNmv1F9i4D5F+8hO46cy1xjTD9Wc9hy+WWb+K+ieNowK+KE/MN2irv3VZzKr5XpqjwrFy3LN/vbidftNjR0qWj90/UWhhsaSw9VczgBTDvpJQA76Ws8upeTSP05KcqPoM5ZhQ3KPhRtm/SCFcAca2Skfh5RuiuIb44AbqCcjf9Tg==;6KXOewY3uyyX4UXsu51IwA=="
 ---
 

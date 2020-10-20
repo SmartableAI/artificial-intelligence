@@ -68,7 +68,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 96
+    quality: 98
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-20T102109.015-796x417.png"
         width: 796
@@ -282,6 +282,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "pABCa63qVW5Roq8T4GRAkB7zzt/t/oN/l5rj8lW4tbl7NGDE1qmjfq9Ebj9VOJzDPbvDeWIKlubY/kNQDLxW8SVRqImCh3wc4IhfayAo7Ov9/3QGNXC+SVUySuDng3ITdlpl+0rvujW6AVVX8IBgBHOiCPL4xBKPhW3qbPkBhtszr58IeP6FhCNB+IZpJQEcPSc3DYafM4kfYnu5XeYiGmrDOWOdlYXCdngMpsg03VgNgUwA8Ty/rDjxlUzo0q7uo/dYWjBdE6/twOsh+AtYOnYxF6VlJwP9nfXIEZEQXHnytaGJ7nhS176MVt/TQfaMIue6G+VXwmqfwyF/5HZeqGuZLoNoeWqBgkRDUNaXojE=;cubMJC/xDi16plT4zXP9jQ=="
+secured: "HHZgJBvz7qPY+5gXc44RfusSawjk/FfDNiI4bCf1/sDpOZmsypQ7Vs9bok5cDeetyH0JpcYiJhCNxZCsQP44DPCiRgAOMTU99chpfrQor3d1vHcKmwB//shl88SImeBGuNzVitnhCKyK+G7Q+gxof6EylVzFlufG0txZ4H9zCfySDn+HBUu32B8z2EQoNKcEsth3WHafpFJ7veqQJaxnOz+bqHRnNAseKRHFZcwn/zoBC4Ub/Ca33IEbXqHUVl/Af5rHtWwfHPBfdlsraxmMEQTLMtCLT1kFL3AiPLkrL23n4KsCC1Mxdso9/Po5y09N5IxO/xyEmY6jtXgEbdtv45L29g5blhKU4pvTNc2Ng2dh2LfiNcy36zkEExR+2R6kfH/RM8O/FycsHiWb4H2wFfAThA4GQk6FMlcM67K6UCRMIr5Hq1qCVdmnfb9D9oqbZ4fttI0AjllqQvubrtwQMl6Fjl1HXGbqIy8/cugXljFWOPrW2r/yildRC7/9/+R0lpd56kjRjR/eGs0ONHqqNg==;gdEmYTszhN/5+Blu0hrGig=="
 ---
 

@@ -37,6 +37,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel sends AI to space in launch of a satellite the size of a cereal box"
+    excerpt: "Intel has sent artificial intelligence (AI) beyond the boundaries of Earth in a tiny satellite designed to streamline data processing in space.  The tech giant revealed the launch on Tuesday. An experimental device,"
+    publishedDateTime: 2020-10-20T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
   - title: "WIMI Hologram AI Virtual Human Intelligence, a New Chance in Virtual Entertainment Industry"
     excerpt: "TailorInsight, the fintech market research organization, recently released a research report ‘WIMI Hologram AI Virtual Human Intelligence, a New Chance"
     publishedDateTime: 2020-10-20T00:35:00Z

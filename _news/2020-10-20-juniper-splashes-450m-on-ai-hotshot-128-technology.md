@@ -40,6 +40,17 @@ related:
         width: 600
         height: 386
         isCached: true
+  - title: "Juniper to Spur AI-Based Solutions With 128 Technology Buyout"
+    excerpt: "Juniper Networks, Inc. JNPR has inked an agreement to acquire smart wide area networking startup — 128 Technology, Inc. — for $450 million. Through the deal, the network products and services provider aims to expand its footprint in the AI-driven enterprise solutions market."
+    publishedDateTime: 2020-10-20T13:46:00Z
+    webUrl: "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
 
 secured: "pnOH9Rmqwd8djkfgSNiYS+1RH0fDXRJgGIvlzoaLcKFbM913kqTpRpbU992tq+cJqpkqV5X+ZUv4g/hw3r5lwklhGRqsOvWflCuluicl/UJVHl0Yhe12LmXVkC9ybE83k55eYnO8QoMXdg4yDlgjgqT08u2tArrnxNUrLsbHNLkh9PvQMEY/93lMsE0FLL47TDfVO2+EttxFRNTPuAk7XseGnweTp+uD3csvUiEyt3Yu+OHiVrsyeOo+YlvBJUwyToTlNLs3wsmi6n6gXP/qqIJGcp0xA8EuTqMCacFchWFrgcf/D8j0ggjXoeWOFiP1+E7NIt8+pJSLcFYWVgbO9uuh+9p2leh2mo2CFzerUzM=;/VBz+ASQD11xPcZkUXk//g=="
 ---

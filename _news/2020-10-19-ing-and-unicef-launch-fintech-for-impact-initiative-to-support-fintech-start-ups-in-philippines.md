@@ -71,6 +71,31 @@ related:
         width: 1408
         height: 792
         isCached: true
+  - title: "AI in Fintech Market Witness the Growth of $7,305.6 Million by 2022"
+    excerpt: "According to a research report AI in Fintech Market by Component Solution Service Application Area Virtual Assistant Business Analytics Reporting Customer Behavioral Analytics Deployment Mode Cloud On Premises and Region Global forecast to 2022 the AI in Fintech market size"
+    publishedDateTime: 2020-10-20T12:51:00Z
+    webUrl: "https://www.openpr.com/news/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
+    ampWebUrl: "https://www.openpr.com/amp/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+  - title: "Fintech and Automated Loss Mitigation Provider, Constant, Recipient of 2020 AI TechAward"
+    excerpt: "Fintech and automated loss mitigation provider Constant is pleased to announce it is the recipient of a 2020 AI TechAward. The annual AI"
+    publishedDateTime: 2020-10-20T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fintech-and-automated-loss-mitigation-provider-constant-recipient-of-2020-ai-techaward-301155786.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Early-Stage and Mature Fintechs Chosen to Take Part in Qatar Fintech Hub’s Incubator and Accelerator Programs"
     excerpt: "Early-stage and mature Fintechs chosen to take part in Qatar Fintech Hub's incubator and accelerator programs."
     publishedDateTime: 2020-10-15T22:35:00Z
@@ -101,6 +126,17 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "5th Africa Fintech Summit to be held virtually"
+    excerpt: "The fifth Africa Fintech Summit ( will be hosted virtually this year through the Accelevents ( platform on November 9th, 10th, and 12th, 2020. The Summit takes place at the backdrop of the global COVID-19 pandemic that has brought unprecedented need for digital trade & finance and positioned fintech as key to economic recovery."
+    publishedDateTime: 2020-10-20T12:03:00Z
+    webUrl: "https://guardian.ng/apo-press-releases/5th-africa-fintech-summit-to-be-held-virtually/"
+    ampWebUrl: "https://guardian.ng/apo-press-releases/5th-africa-fintech-summit-to-be-held-virtually/amp"
+    cdnAmpWebUrl: "https://guardian-ng.cdn.ampproject.org/c/s/guardian.ng/apo-press-releases/5th-africa-fintech-summit-to-be-held-virtually/amp"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 24
   - title: "FinHub 973 launches to boost fintech sector in Mena"
     excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
     publishedDateTime: 2020-10-20T10:32:00Z
@@ -143,15 +179,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "5th Africa Fintech Summit to be held virtually"
-    excerpt: "The fifth Africa Fintech Summit ( will be hosted virtually this year through the Accelevents ( platform on November 9th, 10th, and 12th, 2020. The Summit takes place at the backdrop of the global COVID-19 pandemic that has brought unprecedented need for digital trade & finance and positioned fintech as key to economic recovery."
-    publishedDateTime: 2020-10-20T10:51:00Z
-    webUrl: "https://www.cnbcafrica.com/africa-press-office/2020/10/20/5th-africa-fintech-summit-to-be-held-virtually/"
-    type: article
-    provider:
-      name: CNBC Africa
-      domain: cnbcafrica.com
-    quality: 4
 
 secured: "gSTCDfpMAIGdJZNK0K6fT0qcp8fmfiXBTxrbj2uvuZ0dKy2iVwC1ou2X33WjlfEJ4y2KLcLoLdYLaob+JlJQ9t0Peaf1mW2NOtO08qD/5R1zSRGj14HsvRXvgl2SgqBllzzF8HC+Y5XOrDbKT5qxTHwdXpHWGQsEcpm38rr8hNphiJolsZ9Mh99n9+T5Nsn69zfN8EXJ+VGQZM9djmH0qNXTqgJw3dFOg+tcc7+1ZO8bEqnNQV51ahWbfKGcC7gYy9OhVHpZ4wxXL69hVXhiWFlFI9ctVGzudRuULy475nmsE89T+90MmNEzC2OOjE21lTD5Oe+VRnb3WCiZdEU45Tja+W4fiau8y7SsjApX105XtSm96HMpHb2aCcZTP25dhHDCFjsGVc/CRnA0m7E9mNiSag/uA9yI6/ZcqRmT95TROCHZrot0FgtlRF1ua4KHN7FwHejbl+PY3qFsLb4bfbERyUpdCu6kvfxnCLBHQzWinrbPSCseVRz7ahvOZAJc/vBfEbcaJPZpI2vkofT2jQ==;+PCrebijG/G3uDRJfvpPaw=="
 ---

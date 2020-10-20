@@ -7,7 +7,7 @@ originalUrl: "https://infosurhoy.com/news/turkey-to-reveal-artificial-intelligen
 webUrl: "https://infosurhoy.com/news/turkey-to-reveal-artificial-intelligence-strategy/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,47 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "The Path to Ethical AI Starts With Collaboration"
-    excerpt: "To the layman, the word-set of ethical AI is a misnomer. AI oftentimes still conjures visions of a dystopian future in which artificial intelligence runs rampant, dominating humankind. Thanks to modern-era entertainment in films such as 2001:A Space Odyssey (HAL 3000) or The Terminator,"
-    publishedDateTime: 2020-10-15T19:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
-  - title: "A global collaboration to move artificial intelligence principles to practice"
-    excerpt: "Convened by the MIT Schwarzman College of Computing, the AI Policy Forum is a global collaboration to move AI principles to practice."
-    publishedDateTime: 2020-10-19T18:21:00Z
-    webUrl: "https://news.mit.edu/2020/global-collaboration-moving-ai-principles-to-practice-1019"
-    type: article
-    provider:
-      name: news
-      domain: mit.edu
-    quality: 64
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202010/MIT-AIPF-global-AI.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "LLNL Gets AI Boost with SambaNova Collaboration"
-    excerpt: "Lawrence Livermore National Laboratory (LLNL) has installed a state-of-the-art artificial intelligence (AI) accelerator"
-    publishedDateTime: 2020-10-19T00:00:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/llnl-gets-ai-boost-with-sambanova-collaboration/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/sambanova-llnl_875x.jpg"
-        width: 744
-        height: 425
-        isCached: true
 
 secured: "ZX6Ux0Ua7boa1cSn15UyHSeD/T3Gq/SLESv5DK0jBsahR4oR2HKFEgHdvyecBpFtZuk1MlHL+4W2TP0gF5xv01O1muYNXWsz8G2IaCLUe97olKYNC0Tct76+JkA41msd5YTY7T3QDUclJcI1g9nEz7shSoHevljGILEMqwTmhycyfhrr/ocFmMeeosaNhbC9i/ZqmyTP5z/b4cXtxVmCWPawjugqvbyfbo4AKshNQlAVuzZ36P1672x/WqFgiiJQUsRpuPecPh2yAECquTVM0UmJ6ZWMD7fn+jQxVGu8yu4oPfNUf7om0Je0iapuuQB3OwZCnQhAtWZ/t232q7n256WAazHAsF1aOh1yy54HH5w=;HQw8l7gk7MYYJboYBktRbg=="
 ---

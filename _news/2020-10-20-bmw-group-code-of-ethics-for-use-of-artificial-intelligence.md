@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "It’s Time to Implement Fair and Ethical AI"
+    excerpt: "Companies have gotten the message that artificial intelligence should be implemented in a manner that is fair and ethical. In fact, a recent study from"
+    publishedDateTime: 2020-10-19T20:59:00Z
+    webUrl: "https://www.datanami.com/2020/10/19/its-time-to-implement-fair-and-ethical-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/AI_control_shutterstock_rudall30.jpg"
+        width: 4961
+        height: 3508
+        isCached: true
 
 secured: "siKDTxP7QG6mXjTb3Pzmz1MoYXnVKKsnHOoutnN3TmAsbe7Fe2dIBg638cHiaRMxHBB2roEjHIe3LQ0MjPXoVCWzSgsLZfu+34gI9ByMjKYRYAWD8tAOIeEDCB3OLUjkhT58TvduYYmbHAOT1jBmB9+M8BwW10L/wbZwMxQi5joemz2XaG8xyCq+MmXPVLcmC1X2gloPpNTlF/1FFhJWlBJJFjqQv6UiJqsWofE83GEajH0XSz6pC30qnlH5Amd02x2faZqkiyAWJzde9DZpbvEuYXM3VORTmkU9LN9VjNzstQUuBcePFt1TRrNa1nFi1cRGVFjc+NnSdYOeeMW4CdSvgV54YxKR5BSz6+jlR7pGC0txpc85XksEjMUFCtSIDGVZ5g4Q0GsMPfvgOoIlJxf5PYu4wSsEOHVQ3qQ7MBTLvj3Aaoz7KkaMah3iN4Cavmz+YjZTDE3O9nqu7kS5kOMh55tgZ4AdGrQmMLlfRxtIWbVHUqs25+LS877fNGS1Au6V8ERwmUEb0UFFV2LLng==;PC4m5jtgSJvs+DFgp1DSPg=="
 ---

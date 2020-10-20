@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-b
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675/amp"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmodo
@@ -30,19 +30,141 @@ images:
     isCached: true
 
 related:
-  - title: "The impact of AI on business and society"
-    excerpt: "In July, the Financial Times Future Forum think-tank convened a panel of experts to discuss the realities of AI — what it can and cannot do, and what it may mean for the future. Entitled “The Impact of Artificial Intelligence on Business and Society”,"
-    publishedDateTime: 2020-10-16T03:00:00Z
-    webUrl: "https://www.ft.com/content/e082b01d-fbd6-4ea5-a0d2-05bc5ad7176c?via=indexdotco"
+  - title: "How AI Is Disrupting The Publishing Industry"
+    excerpt: "The more advanced AI’s capabilities are, the more excited publishers can be to make them available to authors."
+    publishedDateTime: 2020-10-20T12:23:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8daec6e4f84fe5bb8c6861%2F0x0.jpg"
+        width: 1200
+        height: 791
+        isCached: true
+  - title: "How AI and machine learning can the tide of fraud"
+    excerpt: "Financial institutions are exploring many avenues to overcome these stumbling blocks, but few are as promising as artificial intelligence (AI) and machine learning (ML). Here are the fraud-fighting benefits of these systems,"
+    publishedDateTime: 2020-10-20T08:26:00Z
+    webUrl: "https://gulfnews.com/business/banking/how-ai-and-machine-learning-can-the-tide-of-fraud-1.1603182642958"
+    ampWebUrl: "https://gulfnews.com/amp/business/banking/how-ai-and-machine-learning-can-the-tide-of-fraud-1.1603182642958"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/banking/how-ai-and-machine-learning-can-the-tide-of-fraud-1.1603182642958"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 74
+    images:
+      - url: "https://imagevars.gulfnews.com/2020/10/20/Fruad_xx_17545205bb3_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
+  - title: "How Trends In AI, Automation And Emerging Tech Are Poised To Disrupt The 4.6 Trillion Money Markets Industry"
+    excerpt: "As traditional money markets boom to record highs of 4.6 trillion dollars, it is clear investors are looking for safe returns during these times of economic uncertainty."
+    publishedDateTime: 2020-10-16T02:12:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/10/15/how-trends-in-ai-automation-and-emerging-tech-are-poised-to-disrupt-the-46-trillion-money-markets-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88fe916c7000f90febf4b8%2F0x0.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
+    excerpt: "When it's time to learn a new language, Duolingo offers a fun, interactive learning experience through its cross-platform app that's powered by artificial intelligence (AI)."
+    publishedDateTime: 2020-10-16T04:36:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/10/16/the-amazing-ways-duolingo-is-using-artificial-intelligence-to-deliver-free-language-learning/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 58
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8921b72cdc5afb81459335%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Meet Q.ai, A Robo Investing App That's Disrupting The Hedge Fund Industry"
+    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking ... Co-Founder and CEO at Q.ai, a Forbes company. Though trading apps like Robinhood democratize financial markets, they don’t allow investors the tools to properly ..."
+    publishedDateTime: 2020-10-16T21:16:00Z
+    webUrl: "https://www.benzinga.com/fintech/20/10/17940541/meet-q-ai-a-robo-investing-app-thats-disrupting-the-hedge-fund-industry"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17940541"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17940541"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_1_0.png"
+        width: 800
+        height: 360
+        isCached: true
+  - title: "Japan Fish Industries Utilizing Artificial Intelligence"
+    excerpt: "Tokyo, Oct. 17 (Jiji Press)--Japanese fish industries are starting to use artificial intelligence to select high-quality fish at markets and find good fishing grounds, areas where they have relied largely on experience and intuition. AI tools are drawing ..."
+    publishedDateTime: 2020-10-17T07:37:00Z
+    webUrl: "https://www.nippon.com/en/news/yjj2020101700226/"
+    ampWebUrl: "https://www.nippon.com/en/news/yjj2020101700226/amp/"
+    cdnAmpWebUrl: "https://www-nippon-com.cdn.ampproject.org/c/s/www.nippon.com/en/news/yjj2020101700226/amp/"
+    type: article
+    provider:
+      name: Nippon
+      domain: nippon.com
+    quality: 57
+    images:
+      - url: "https://www.nippon.com/en/ncommon/contents/news/319933/319933.jpg"
+        width: 450
+        height: 338
+        isCached: true
+  - title: "Artificial intelligence is changing everything in insurance claims"
+    excerpt: "The goal of every claims organization has been and will remain quickly adjusting a claim at a low cost with high levels of customer satisfaction."
+    publishedDateTime: 2020-10-20T07:51:00Z
+    webUrl: "https://www.dig-in.com/opinion/artificial-intelligence-insurance-claims-everything-is-changing"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 52
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/5415582/2147483647/strip/true/crop/3000x1575+0+191/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F23%2F97%2F561c42534f4b93d8caa2ac6e823f%2Fm1118219.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Guangdong to be new hub of AI industry"
+    excerpt: "The Canton Fair, one of the world's largest trade shows that kicked off on Thursday in Guangzhou, South China's Guangdong Province, is located in the Pazhou area, a growing industrial cluster of information technology,"
+    publishedDateTime: 2020-10-16T14:46:00Z
+    webUrl: "https://www.globaltimes.cn/content/1203735.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
     quality: 39
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5246fd70-6619-4c99-8d72-03875cac0f46.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-10-16/bc64cb1d-c042-458f-8d0b-7e2f20b52738.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "How Artificial Intelligence is Causing Cyber Attacks"
+    excerpt: "Advances in artificial intelligence will benefit companies and improve with experience, but AI attackers can manipulate data and cause harm. Ambitious companies must plan to mitigate the potential risk of cyber-attacks now."
+    publishedDateTime: 2020-10-16T17:53:00Z
+    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-causing-cyber-attacks/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/How-Criminals-Use-Artificial-Intelligence-To-Fuel-Cyber-Attacks.jpg"
+        width: 1680
+        height: 840
         isCached: true
   - title: "Harnessing AI to ease the stress of managing autism"
     excerpt: "The protocols for the clinical trials had to be altered after covid, as hospital committees had to approve digital collection of video data remotely"
@@ -55,20 +177,17 @@ related:
       name: Mint
       domain: livemint.com
     quality: 39
-  - title: "Empowering Farmers Through Root AI, with Josh Lessing"
-    excerpt: "In this episode, Abate interviews Josh Lessing, co-founder and CEO of Root AI. At Root AI they are developing a system that tracks data on the farm and autonomously harvests crops using delicate grippers and computer vision."
-    publishedDateTime: 2020-10-19T18:05:00Z
-    webUrl: "https://robohub.org/empowering-farmers-through-rootai/"
+  - title: "Startup Circle: How is KiksAR using AI to change the fashion industry?"
+    excerpt: "KiksAR founder Ms Kavita Jha is erudite with a strong academic background. She has completed her MBA from Pune University. Kavita holds deep domain experience of 15+ years. Prior to"
+    publishedDateTime: 2020-10-19T11:35:00Z
+    webUrl: "https://www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/"
+    ampWebUrl: "https://www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/amp/"
     type: article
     provider:
-      name: Robohub
-      domain: robohub.org
-    quality: 39
-    images:
-      - url: "https://robohub.org/wp-content/uploads/2020/10/root_ai-1024x585.jpg"
-        width: 1024
-        height: 585
-        isCached: true
+      name: CIOL
+      domain: ciol.com
+    quality: 37
 
 secured: "j79GyEu7cLA4v7Po34SH6OLe1xPqQaDQEx1umDKr1gSO182R5Wrj1Pv7vQP0DXIPZBGUpoT3VLuE5oWbyv2w/S1v5yAaQjx5OJfcx6poIg0XEYbPVleqbTeDQnMB9I+xMg1uWkX8TEVQ6R69K4p9lxbVzWbMJAOJVcicFEMQlngrEEyBO4klg/P96CwYl1F3pxlKph/37zCEDCNKLF3VBSpkVYkKjQbDpxX12AB1gznhXk+Vh4FSzRk0B4udQd0sEeEsbEuO1NJnTCWcpSA1FrAXPA6ljped3bZ8u/lfV5DlkXoQq1jgKyHhaZ7oka9dpyk6LHnLCu4lRssaws9KC/KhTgkNjPE/zvVPZ8o6FCtTCoJJ0aCLPxiWhyR3U3cwlJU4lW7yEaxHAYXaCV82wTT/Vkz/Xf437Hh+6j31/WHLZmcPvReh9UjEVqiQ78MaMnrtehB59s8EMYI2s1D6VNgRff/FL7pxvj3VXN4XL7VSWXOMMO/hTcAfXsMeUJbPdG2yua5ZovIZaiE4Bh+JXQ==;M8DRXFbhFzvPi2AF11JuvQ=="
 ---

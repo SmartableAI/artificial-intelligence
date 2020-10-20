@@ -3,11 +3,11 @@ category: news
 title: "Ezra Receives FDA Clearance for Prostate Cancer Artificial Intelligence"
 excerpt: "Ezra, the New York-based startup transforming early cancer screening using MRI, announced today that it has received FDA 510(k) clearance for its Artificial Intelligence designed to assist radiologists in analyzing and segmenting prostate MRI."
 publishedDateTime: 2020-10-20T11:00:00Z
-originalUrl: "https://apnews.com/press-release/newswire/business-technology-products-and-services-diagnosis-and-treatment-mri-scans-dbfac4ef3aca7f33abc26668d22be634"
-webUrl: "https://apnews.com/press-release/newswire/business-technology-products-and-services-diagnosis-and-treatment-mri-scans-dbfac4ef3aca7f33abc26668d22be634"
+originalUrl: "https://apnews.com/press-release/newswire/business-technology-products-and-services-diagnosis-and-treatment-diagnostic-imaging-d5f4e712a1e891cb414694af4ab7dbc7"
+webUrl: "https://apnews.com/press-release/newswire/business-technology-products-and-services-diagnosis-and-treatment-diagnostic-imaging-d5f4e712a1e891cb414694af4ab7dbc7"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "kypieon8axRU46FDAYEW5W/abLnxF59GPD9AY/c9xOZBu5myTvpQJfeBGdZ/xma4pXIfqGdFEEZyntySujqLy7IPI4yt3n0FtdwYqhBnXGekuePEaIHsbP72t0VdroPct+/VKNZ/2NfQ0J9TsGguCDsHMMbK5NNhWuZs5mRyXDzROYJgHk1BkGZaFVhHMtfrNT2yOnVbqrUCOLe73eEStlnc3kk5jL1ExD1tSZBHqeKmsZld1VV9rWaAu6kZBb4iIe+h5L4iS0ZA8EajCx378wBfF4ZlZZBrXb12zlbd0HBX7m7D5DovtIiE9kAZg1KFMItSikuDGKI4DZb4bFimimjT0u00EZkGgto4WLay4yE=;/k0AQbECzfY4rN/R2F4WzQ=="
+secured: "w91WWo9O0swx9TGb1J8OycxghKMLQDVsdkk29NfQwpgaro+RDSJPZYZ7b6fSuHnQQHvIsxExsdY5gRMrWmQqi2ROkMO6E4sDmfk7wAvlStF/fZ91vYgM7TFOdwIfmxEWWIOmNnPA1FEPkBp1QL4gdEdStuIYddXVnaG6++hJzsOmbYUDEp04gPCeIXrLKcxElQTV51g0LtkxqE38DzlzvzxRq8Xo9gS63AqdBRCIrZlQTWUiDTpnMtyTNLZ9vHhtdjW7nSk6+XJHvV7NCf9nbKSCR50bvFmuQzl7efU38tT6owPslmy4g+ff0Ro89SgN+3yA7ORkH5HiEkGMBOm0cWCVnXV1EwDXEdmEzR/Qw00=;yzue7QJlGfioiFKw7sF/RA=="
 ---
 

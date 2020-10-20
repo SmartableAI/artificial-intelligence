@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2020/global-collaboration-moving-ai-principle
 webUrl: "https://news.mit.edu/2020/global-collaboration-moving-ai-principles-to-practice-1019"
 type: article
 quality: 64
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,42 +26,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "The Path to Ethical AI Starts With Collaboration"
-    excerpt: "To the layman, the word-set of ethical AI is a misnomer. AI oftentimes still conjures visions of a dystopian future in which artificial intelligence runs rampant, dominating humankind. Thanks to modern-era entertainment in films such as 2001:A Space Odyssey (HAL 3000) or The Terminator,"
-    publishedDateTime: 2020-10-15T19:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-path-to-ethical-ai-starts-with-collaboration-2020-10-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
-  - title: "LLNL Gets AI Boost with SambaNova Collaboration"
-    excerpt: "Lawrence Livermore National Laboratory (LLNL) has installed a state-of-the-art artificial intelligence (AI) accelerator"
-    publishedDateTime: 2020-10-19T00:00:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/llnl-gets-ai-boost-with-sambanova-collaboration/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/sambanova-llnl_875x.jpg"
-        width: 744
-        height: 425
-        isCached: true
-  - title: "Turkey to reveal artificial intelligence strategy"
-    excerpt: "Turkey will soon release its national artificial intelligence (AI) strategy which has been prepared by a joint effort of public, private and academic bodies, the Turkish industry and technology minister said Thursday."
-    publishedDateTime: 2020-10-19T01:49:00Z
-    webUrl: "https://infosurhoy.com/news/turkey-to-reveal-artificial-intelligence-strategy/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 17
 
 secured: "LFij1rBNAQXey0WeC8D7zeAzLdZtu+15qqOY9CZ0NP30fIM98Dj9ZbJ7hkYvFFlDGGyN+xMXiQuC5Yiki2FcAN9ssxirCsgIiaHtkNYRJ5gtEjEktwz9CZ/ruDyhxCXX947mz5S6BIyif20N3kcoPF5bj+IauJTi3a5MrBBg1MD2bsTrQBbnXNGWPK6LaQVNruujrvhjsH29BRLJtmuO1v7DPLn+Jt1nQ9IJ7PBSCcjfQr8FG0X2JqQ0nJ1+ufIJ6makse02eDeMi/bn1YrQupv9x6Ug+NNo0R+vpox5iaomsKwIKv7BXZoMMK4jPo3nTO84z6wxo3WvtG/apc3oTKvF5R+MkYqwtcIzIaLaFfDirw0A65hvpa7NCutyVWKEEeo7yf7CblPUbJm7HGk/wNkf7fU1agKYFqbmEy+8Tqu0zZsGxVoO45nmVblThXVP4Z893e6G25J3FO5q5BAn9t9spB6D9Xzbr+2mDeuBz/hfsLAmyTn/mbUXT9teWjEjPU4YhvnnlRl7X2HzSkQElg==;GbbUnqCazeCQGE2Zjo77Bg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.modernreaders.com/news/2020/10/17/global-x-robotics-arti
 cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/10/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-trading-0-higher.html/amp"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: modernreaders.com
@@ -25,19 +25,6 @@ images:
     width: 450
     height: 323
     isCached: true
-
-related:
-  - title: "Robotics & Artificial Intelligence ETF (BOTZ) at a 52-Week High"
-    excerpt: "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.5% from its 52-week low price of $14."
-    publishedDateTime: 2020-10-15T19:36:00Z
-    webUrl: "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-a-52-week-high-2020-10-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 101
 
 secured: "HpRar12k9TcEJOYF+7l9wWvK+MJu9/1twsgIBmlURQbuH/yExuM1KECvjq7MTbAz+/8oh/bX2Wrk85YKq8WBsqcfR7IXeZj7ni9cKAzB682ZKKItrKYlsQghdPzHsfvreW84qhPLC0mO+w6zO98rgaNObTFLUpc8tbn1pq8blibW4bHe6dzy5oBKtEh9y5Q3mAWqCHrw603gcVMg0iKNOd8MtJr9Ba+amZofVjLdLg1ZZhi5ts0hlH0SpLeSRMOw1Zx1OksfvtLzIgZO6UpKyFHIhlYUVKNXcnLocSLUp+0tP9M5rVC4Hna6+5PYtn0XB/tbl0q1JC1KphqetR/4LCcvFuEbIBP/Q1uatRE3khU=;u9vygSaaWEoLPds9BJ+8Yg=="
 ---

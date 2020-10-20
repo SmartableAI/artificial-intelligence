@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/juniper-acquires-128-techno
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Juniper to Spur AI-Based Solutions With 128 Technology Buyout"
+    excerpt: "Juniper Networks, Inc. JNPR has inked an agreement to acquire smart wide area networking startup — 128 Technology, Inc. — for $450 million. Through the deal, the network products and services provider aims to expand its footprint in the AI-driven enterprise solutions market."
+    publishedDateTime: 2020-10-20T13:46:00Z
+    webUrl: "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "Juniper splashes $450M on AI hotshot 128 Technology"
     excerpt: "Latest deal comes after moves for Mist Systems and Netrounds and is aimed largely at strengthening Juniper's presence in the SD-WAN market."
     publishedDateTime: 2020-10-19T17:44:00Z

@@ -59,15 +59,6 @@ related:
         width: 2698
         height: 1414
         isCached: true
-  - title: "IBM, ServiceNow partner on AI solution to manage IT outages"
-    excerpt: "Expanding their strategic partnership, IBM (IBM -1.1%) and ServiceNow (NOW -1.7%) will release a joint solution that uses AI to more effectively manage IT outages.\"AI is one of the biggest forces driving change in the IT industry to the extent that every company is swiftly becoming an AI company."
-    publishedDateTime: 2020-10-15T19:43:00Z
-    webUrl: "https://seekingalpha.com/news/3622515-ibm-servicenow-partner-on-ai-solution-to-manage-outages"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
   - title: "IBM, ServiceNow Partnership: AI for IT Service Management"
     excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"
     publishedDateTime: 2020-10-16T18:53:00Z

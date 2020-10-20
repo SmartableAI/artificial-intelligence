@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/19/a-major-mi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/19/a-major-milestone-in-ai-technology-illustrates-the-power-of-human-intelligence/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Intel sends AI to space in launch of a satellite the size of a cereal box"
+    excerpt: "Intel has sent artificial intelligence (AI) beyond the boundaries of Earth in a tiny satellite designed to streamline data processing in space.  The tech giant revealed the launch on Tuesday. An experimental device,"
+    publishedDateTime: 2020-10-20T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
   - title: "WIMI Hologram AI Virtual Human Intelligence, a New Chance in Virtual Entertainment Industry"
     excerpt: "Tailor Insight, the fintech market research organization, recently released a research report 'WIMI Hologram AI Virtual"
     publishedDateTime: 2020-10-19T10:02:00Z
@@ -54,6 +65,6 @@ related:
       domain: benzinga.com
     quality: 29
 
-secured: "9tPY29T8KyhhXxLQNf+hRZsX+A2N0l5HMxF5y7jZPOm+YVy9Z4vGh3mu1ZoYNN6p1DReS3OXTia/gCcmFwVxdf8rgNqsZRbQly8I6nLHDHY6hQrC6R8v7/AS+6qdVyb5cHE4McUbbjyqpt7o7Re3ggEWJs9HmerXD+0g3+DT8mlBKiYp5C693uyI8YcsrgtSebr6WEYvcMZwm0LtrcENwQNYzP8KZpR84fU++rM0+XECNQ2ys8Hnt2siZvL/wP/rkDsTKVKDj1PM/8ySmROZUMSuGsSBB2GCpseTq67Hi4OYJSy7pdOfFl3lioQQu7R7bHwUcMTOeb+irJLnNgtT504CRFv8KbgzXlqX9FCdsKY=;NtzngaJQAATXE7VI0uNS5Q=="
+secured: "Bw1TRdCYGRsrPgWQJnkqS+jBfkXLZOBON/M/iiQPao/xAF6dnYrcBye8CfMRR0uZgX8Fbq8AT9eP5w99W+7TaMIe75gjHG9UaxVrLQAinVFYzPHNryzGQ8Q+qhyREcC9QI0aou+cmMClLquE+Fl3i2k4p/ZzIV5W4tWku5YElBAtNRD2jos38QEseaM9bHiXwnJq8leWA5SyvUVvduNt3Llf5encnxZAnI6PMnVjEnDndNMwlx6LLQHfq4pcDuYnCuYlKC32V/BuRDJEaYIhNOMTNvEE9IA1q9zWyJ26TMsVe2lewUBBwL6F+DAYJz+PY3yMVKnwPXLOoaSTMtgsyrx51SH6a1ZrUDOc1RLVUO8d9CHjMd0MH1OYG4XiiIOhzHpZdqd6Czgj1EiDQ8tF0Vy/q29VjlAxmUPGHb+aP8RmbqpXCqzxl6dAF24oyqD+pDPeXVxRLt8szvwlbYsxiWM66wa+aSqOjfBNL1RBun6ECIna5PkfFI5VpcSwsrbbvETnUgoaHVKWU/XqanB1pQ==;vh50uZ1HIX/HCCu7ZalRlQ=="
 ---
 

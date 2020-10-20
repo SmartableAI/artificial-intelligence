@@ -1,22 +1,26 @@
 ---
 category: news
 title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-excerpt: "IBM's Watson artificial intelligence, and machine learning Through the course of the deal, IBM and the Overwatch League plan to leverage IBM's suite of advanced cloud and AI products."
-publishedDateTime: 2020-10-09T06:18:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/n17846724/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/n17846724/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17846724"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17846724"
+excerpt: "IBM to help power interactive and analytical content for the Overwatch League, engaging fans and players through cloud, IBM’s Watson artificial intelligence, and machine learning ARMONK, N.Y. and IRVINE,"
+publishedDateTime: 2020-10-09T04:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-lifestyle-products-and-services-09560d68e8ed6386c546a08c0df19c1e"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-lifestyle-products-and-services-09560d68e8ed6386c546a08c0df19c1e"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "0SDWrvb5UM6Z3IiNY0cItlGfdQV3NFKPYJn2rNMFdjLRm3z+kS1epQdT5PJB0s+TP2zALNFUdWVnd25Xv6lf5NfThU/NZeJrmkFqwuKi4ROq3L974EZ58MpTG9+dObN4oK2TMG9J9P8n5OCHFKavCC2A5fPNeAP2EhNtHvq/7+eysqrgV4J9XmKhOvncuAgtozjRuHGXSV2oXxCB+LxM4nd/bq3oMr86b3IadDzqRlxDf8X42Ijy9/OihcCLzueZhrfd5vdqKrXfITRF8SM/2l8oZyzJUzSquDYZcqFvK3fMM1/38BOuz+6A8aD9oz9zddoUgarXuWHkkL2lb1OTJ+HIQ4tiVbJ2NXrVYd9+xuE=;KRUkpLVhMuSaHRFDZZhhGw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "0lHFTq3BeM43pTobJgFGjhz8dxcw5JoFKKrtAFhRo4NFsZJ+7fXRRxfdMckAdTq4fyMDF2aCELU9hh0G4rM4MXR2V6EvgT/71jughW7D+uuSmr4BdcmaVPdjbhoDUXMXuSVRndntnPgPl0oSBQ67v9hvQYSArIxfWfOr6ygnUuztnkIzcct7yDBWm6yZ3G9Y68WJA+L7oZoPwcDRtPVT3imTVKuqvNdvNYkMbEvYmvFV0UJ1IwIPmizSj7PtVHvQxc5Qm5r9WN2L1FzamUP25HEAVZCQVyaSda53rmGY+rBZvRWgALmMNFwTiLIKMfPhptq8yd1vaRZfJaFGy43xxxuSQpzpGch+ENxotacJJkI=;o+mIzyBXp7ZSKXM3AHKEuA=="
 ---
 
