@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-fsd-beta-rollout-tuesday/
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-fsd-beta-rollout-tuesday/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla starts Full Self-Driving Beta rollout, Elon Musk says it ‘will be extremely slow and cautious’"
+    excerpt: "Elon Musk confirmed that Tesla is starting the rollout of its Full Self-Driving Beta update, which the CEO says “will be extremely slow and cautious.” We have been expecting the update for a while now."
+    publishedDateTime: 2020-10-21T00:03:00Z
+    webUrl: "https://electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/"
+    ampWebUrl: "https://electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all"
+        width: 2564
+        height: 1236
+        isCached: true
   - title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
     excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
     publishedDateTime: 2020-10-17T15:46:00Z
@@ -64,6 +80,6 @@ related:
         height: 938
         isCached: true
 
-secured: "IpwrAXLtDXBiVs6eV/jr0z2LtF91V1JXR5rRkoo91r9eNOjmnp3/PpEltV2/M6TX9qcJQjhbpINuU+nlUs6b2NwVRD07umV/z4eCW/mrRmS2PCFBh+BJT8UDdocpM8q9aHGffL0HAeGdXgco3VXnHTjciVn47f/I6h4aX1KfUsBNPwoJR7o94/fJDy6cHAaQ9iix3nzMx5+j/+yLssLkPZ6Fx1fN8cOTd9A4mPFbKPbPeroeicPJiwl1YfZL3x+xRlzaIALCq8y64g17YGH2UfgyPLe3cxzGb/yzb88lkGBv40tEBVCaNToGptQ7HLX2fgsD/JFRA+FT+PM6Cp/tYP7+Ww+bom6pkLseXcxd9eU=;Fg8LhOAbGbX8f7vErztj8g=="
+secured: "kxIERATcK+WyANSS/jXoqhK2UvCn+4QLbu7moHkqImvpFyoJkT05bdj52jABcF10T6geMgjEHq6RmvRTsqHpXrwlkuycKUQdbiex+aEWW6hb15re+CxYABP7vCOIJXMIncg42fKH4CJAQSSMOtHao8ZVOYMEB6LJfqO/N46Gnrmi/Wu/m4XAM9ZxlMbYYdwX+xxlQAl1m59RsBM43ZN0W9BzbcOFE+weo+lcZaqmPOl+CMl7n4joPoZQkGDXkhtO6ey7ccESsQDjg/GD/ekD8dIObp7htcyBJb0SBNxxm0UGHiG+V4Quuo4QeswUPoLmTV7fbJf3EgT629dylta1SxiVAo/mQpDIWY9g2VrVxigaOGg/9ZVCiUy7DBxrmwkc8znMd6KE8pMD6fvC97gynYsy/9c5nPdWodf7179jBxOSVGPvv0Q+amI7Sjq88ULW7u6nwu5ukgAiiqEumb7li9cPrDyE0pnArcVnZrhdfjE1XTLBz0vo9J5dQlOBSPFgHOFPqVkoPUgirJ0h2kaOSA==;gCuzSCJe3UFRUQHNvZej4w=="
 ---
 

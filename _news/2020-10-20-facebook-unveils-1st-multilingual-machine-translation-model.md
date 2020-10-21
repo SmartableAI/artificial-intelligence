@@ -177,6 +177,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook Unveils Machine Learning Translator For 100 Languages"
+    excerpt: "Facebook on Monday unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages without relying on English. The open-source artificial intelligence software was created to help the massive social network deliver content better in 160 languages to its more than two billion users around the world."
+    publishedDateTime: 2020-10-19T19:18:00Z
+    webUrl: "https://www.ibtimes.com/facebook-unveils-machine-learning-translator-100-languages-3064750"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/facebook-which-handles-more-than-20-billion-translations.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Facebook Says This Is the Culmination of Years of Work in Machine Translation"
     excerpt: "Facebook introduces M2M-100, a neural machine translation model that avoids using English between source and target languages."
     publishedDateTime: 2020-10-20T10:03:00Z

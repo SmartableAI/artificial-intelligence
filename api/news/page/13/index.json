@@ -2,6 +2,109 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-08-grid-ai-raises-186m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production.md",
+      "title": "Grid AI raises $18.6M Series A to help AI researchers and engineers bring their models to production",
+      "excerpt": "Grid AI, a startup founded by the inventor of the popular open-source PyTorch Lightning project, William Falcon, that aims to help machine learning engineers more efficiently, today announced that it has raised an $18.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
+      "originalUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1124444076.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
+      "publishedDateTime": "2020-10-08T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers.md",
+      "title": "These free JavaScript for beginners videos from Microsoft are aimed at new developers",
+      "excerpt": "Microsoft's Introduction to JavaScript video series will equip users with the basic skills to start building apps with the popular programming language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers/",
+      "originalUrl": "https://www.techrepublic.com/article/these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2017/07/21/8a7b06f0-9855-4d12-ab51-5cbd69ba4a28/resize/1200x/61239e117f2d7077a0b5246711e8484b/programmer.jpg",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers/",
+      "publishedDateTime": "2020-10-08T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-acuant-announces-facial-recognition-software-awarded-elite-ibeta-compliancepad-level-one-and-two.md",
       "title": "Acuant Announces Facial Recognition Software Awarded Elite iBeta Compliance/PAD Level One and Two",
       "excerpt": "Acuant, a leading global provider of identity verification, today announced that Acuant FaceID provides facial recognition with liveness detection technology that has been awarded PAD Level 1 and Level 2 compliance by iBeta,",
@@ -1098,109 +1201,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-if-steve-jobs-built-an-ai-company.md",
-      "title": "If Steve Jobs Built An AI Company",
-      "excerpt": "One of Steve Jobs’ favorite analogies was between a bicycle and its intellectual equivalent - the personal computer. AI is the e-bike for our minds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/",
-      "originalUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c91d652b0b9046292c711%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D771%26cropY2%3D4912",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/amp/",
-      "publishedDateTime": "2020-10-07T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-halloween-trick-or-treating-in-an-era-of-self-driving-cars.md",
-      "title": "Halloween Trick-Or-Treating In An Era Of Self-Driving Cars",
-      "excerpt": "Halloween in an era of self-driving cars. getty. Halloween is almost here! Even if this year’s celebrations might be somewhat less extravagant and require added care and precaut",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d052055c26817fc4463ad%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4164%26cropY1%3D14%26cropY2%3D2789",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
-      "publishedDateTime": "2020-10-07T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

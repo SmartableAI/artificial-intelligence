@@ -57,6 +57,20 @@ related:
         width: 1000
         height: 560
         isCached: true
+  - title: "Facial-recognition tenant referencing tool now available to agents"
+    excerpt: "As part of an update to its referencing service, Goodlord customers will now be able to use an authentication service utilising facial recognition to match photos of applicants to the photo on their ID."
+    publishedDateTime: 2020-10-20T23:02:00Z
+    webUrl: "https://www.lettingagenttoday.co.uk/breaking-news/2020/10/facial-recognition-tenant-referencing-tool-now-available-to-agents"
+    type: article
+    provider:
+      name: lettingagenttoday.co.uk
+      domain: lettingagenttoday.co.uk
+    quality: 39
+    images:
+      - url: "https://www.lettingagenttoday.co.uk/upload/PropTech-4-400x310.jpg"
+        width: 400
+        height: 310
+        isCached: true
 
 secured: "mHqf4s6bPG/En6kT6f9AqDyRyhwLZQSX0o3a18zp4BI597Y0Mar7u2prx8ayF6uVMp7H/rh9g/AKy/GKgl09Wiu8oj6nuug7QVirglKwRTh4bAW6vtKedRrac7rh5nyKpENLegNl2gJO1EJhKeu0DL/PX+7HnFmM++N/RREoAWTgpGE1NGAV05CMPbH+0UR1WiKskEAoYxBBaKsKdBvMGCwlMAJ0GfOmeETGwHf8R3golJcHO1JVtPbLeVNlni59p3RekJ8GV79+RcuWtyESYaiKHv9LCGcbDeGhHiLH6kizkTaWJthLJ5HriB8dgtXLhbsn0AzmJ2i/1+beQi98YFZ70UcOMEnupeQdwaJ9B98=;qrQLpLJ/oJwCHIYi6umusQ=="
 ---

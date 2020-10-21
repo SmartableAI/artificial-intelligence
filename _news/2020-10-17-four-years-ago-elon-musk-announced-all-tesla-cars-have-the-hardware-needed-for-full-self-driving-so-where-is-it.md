@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla starts Full Self-Driving Beta rollout, Elon Musk says it ‘will be extremely slow and cautious’"
+    excerpt: "Elon Musk confirmed that Tesla is starting the rollout of its Full Self-Driving Beta update, which the CEO says “will be extremely slow and cautious.” We have been expecting the update for a while now."
+    publishedDateTime: 2020-10-21T00:03:00Z
+    webUrl: "https://electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/"
+    ampWebUrl: "https://electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all"
+        width: 2564
+        height: 1236
+        isCached: true
   - title: "Norway Is Developing Self-driving Ferries That Passengers Can Summon With the Push of a Button"
     excerpt: "Zeabus is working to develop the self-driving ferries in Trondheim, which sits on the Trondheim Fjord, in central Norway."
     publishedDateTime: 2020-10-20T16:08:00Z

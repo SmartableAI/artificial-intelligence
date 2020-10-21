@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla starts Full Self-Driving Beta rollout, Elon Musk says it ‘will be extremely slow and cautious’"
+    excerpt: "Elon Musk confirmed that Tesla is starting the rollout of its Full Self-Driving Beta update, which the CEO says “will be extremely slow and cautious.” We have been expecting the update for a while now."
+    publishedDateTime: 2020-10-21T00:03:00Z
+    webUrl: "https://electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/"
+    ampWebUrl: "https://electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all"
+        width: 2564
+        height: 1236
+        isCached: true
   - title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
     excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
     publishedDateTime: 2020-10-17T15:46:00Z

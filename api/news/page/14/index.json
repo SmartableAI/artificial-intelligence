@@ -2,6 +2,109 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-07-if-steve-jobs-built-an-ai-company.md",
+      "title": "If Steve Jobs Built An AI Company",
+      "excerpt": "One of Steve Jobs’ favorite analogies was between a bicycle and its intellectual equivalent - the personal computer. AI is the e-bike for our minds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/",
+      "originalUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c91d652b0b9046292c711%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D771%26cropY2%3D4912",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/amp/",
+      "publishedDateTime": "2020-10-07T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-halloween-trick-or-treating-in-an-era-of-self-driving-cars.md",
+      "title": "Halloween Trick-Or-Treating In An Era Of Self-Driving Cars",
+      "excerpt": "Halloween in an era of self-driving cars. getty. Halloween is almost here! Even if this year’s celebrations might be somewhat less extravagant and require added care and precaut",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d052055c26817fc4463ad%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4164%26cropY1%3D14%26cropY2%3D2789",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
+      "publishedDateTime": "2020-10-07T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-deep-learning-in-computer-vision-market-business.md",
       "title": "Deep Learning in Computer Vision Market Business",
       "excerpt": "Deep Learning in Computer Vision marketing report has been structured by keeping in mind all the foremost aspects of the market research that put forth market landscape simply into focus Market segmentation is a significant parameter that categorises the market",
@@ -1090,110 +1193,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-deepminds-demis-hassabis-on-ai-doing-better.md",
-      "title": "DeepMind's Demis Hassabis on AI Doing Better",
-      "excerpt": "The global pandemic has focused attention on the importance of science and technology. What role can AI play in solving the big scientific questions of the coming decades? And how should we respond to the challenges this new technology brings?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/events/deepmind-demis-hassabis-on-ai-doing-better/B1E79F73-609F-4979-8318-D239B3F4BF35.html",
-      "originalUrl": "https://www.wsj.com/video/events/deepmind-demis-hassabis-on-ai-doing-better/B1E79F73-609F-4979-8318-D239B3F4BF35.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20201006/100620ceo8/100620ceo8_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-using-machine-learning-to-predict-disease-in-cattle-might-help-solve-a-billion-dollar-problem.md",
-      "title": "Using Machine Learning To Predict Disease In Cattle Might Help Solve A Billion-Dollar Problem",
-      "excerpt": "This contagious infection is responsible for nearly half of all feedlot deaths for cattle every year in North America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexknapp/2020/10/06/using-machine-learning-to-predict-disease-in-cattle-might-help-solve-a-billion-dollar-problem/",
-      "originalUrl": "https://www.forbes.com/sites/alexknapp/2020/10/06/using-machine-learning-to-predict-disease-in-cattle-might-help-solve-a-billion-dollar-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c9e6eeb3697316b2e1c9a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexknapp/2020/10/06/using-machine-learning-to-predict-disease-in-cattle-might-help-solve-a-billion-dollar-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexknapp/2020/10/06/using-machine-learning-to-predict-disease-in-cattle-might-help-solve-a-billion-dollar-problem/amp/",
-      "publishedDateTime": "2020-10-06T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

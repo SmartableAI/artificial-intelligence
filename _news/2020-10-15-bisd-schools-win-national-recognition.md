@@ -2,28 +2,19 @@
 category: news
 title: "BISD schools win national recognition"
 excerpt: "The National Center for Urban School Transformation at San Diego State University has named five Brownsville schools as winners of 2020 Best Urban Schools awards including a gold, three silver and a bronze designation."
-publishedDateTime: 2020-10-15T02:00:00Z
-originalUrl: "https://www.brownsvilleherald.com/2020/10/14/bisd-schools-win-national-recognition-2/"
-webUrl: "https://www.brownsvilleherald.com/2020/10/14/bisd-schools-win-national-recognition-2/"
+publishedDateTime: 2020-10-15T13:30:00Z
+originalUrl: "https://www.valleymorningstar.com/2020/10/15/bisd-schools-win-national-recognition-2/"
+webUrl: "https://www.valleymorningstar.com/2020/10/15/bisd-schools-win-national-recognition-2/"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: The Brownsville Herald
-  domain: brownsvilleherald.com
+  name: Valley Morning Star
+  domain: valleymorningstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.brownsvilleherald.com/wp-content/uploads/sites/62/2020/10/Best-Urban-Schools.jpg"
-    width: 1024
-    height: 568
-    isCached: true
-
-secured: "71WnzCh5lr5Pqjpo5nPTNhnEiQ5v8U6F8t4VFeRzBSLKt+ERKESVDhF9LT9SKZuSkkvpF8dmkMTox1CwtdCLg5G3y0/JbdqLcIatJBR3jYZTD0sciIe7fuUPmOfr3fpwXCemo42flzC1FM8sF0A+OrUKOk+GcGgwGLOigt6bCdtAmRU2AtfESAwcTDnQ2ttSNFLtFA8kGYq8ERQWTV3sMDe2yN9U74OTFtH2rBqe1XPFkqQVC56EIstiKC5BCDD6lc4nqRFoER+fcFxemFTTympCJE2rVh2dkVXB/F/60GQv2GeSK2UR3YOilA1eaJeqRUL35tmPU5S4oxvW0063hKzLXnl/igwpTiZBMKxRRusOZAnoMV1amsEWO2/3t0U+ZyMeA5SZ62vc5daB7PhjX7RD7vPKMoPvNbmU/70Y38hM48kO1oEFBkfIzORCKGDD+LOWLg3Fu2n4QiadorFekuKIzRAbROUhKyWBinyEv1+2cG1gocqwK1y6g+2KyBlNQajDduLn11PFWGNBFxVqzg==;jqyHpGyh93Le5ATo4oC1XA=="
+secured: "+/tuVkCCm95YER4d4TLhgGrcMK+ZFdbC4ZdKpKvEqqU5S0+C3DnDQ/fAf3SWHobUbjWBoTQBlcgrNp3bHg4UJ7TCW+HB0ZXzK2XtjikqF3jR026afkWZER48HB1emIT+H9W4TqF5IWGy7temzj/AOYu4p+g5l18SWXPkNO1utq8VqorH0AvWSpgI8+3RzTV4+jmZAL7ew3BMkUPpv070Mys+pqKeAHhrZ44uMVHnjGF6N5D3gwu5UdpzA/M7V/jC7r6iDXy7L4Ey1ABCJpqqiqko4RWXqi8RmwX9NoAFgSmL+i/WhDo0L4d5PpU3F7NOPelcnSx9tEuKUKhSmmRzn9vSeuh1ZlLFN1gpfjHaQ9/3CeURlDkXtULSkXYyzDt5dGX1HOG0JL4l+WpNk1/WYJ9RCkLpVh99Y4jzn351iTE0+g6uyhP78g+aRLpPjXs3hzk0jvyw/vPsyGvVtpiSje07LQxrtudcrqNvLtJFDFdMMjfV0BvxXVJqHCLX161OV5CVcvN9D0UyEQS1mZPBpA==;Tu1rI7jkuiH5KBTVIPWv0w=="
 ---
 

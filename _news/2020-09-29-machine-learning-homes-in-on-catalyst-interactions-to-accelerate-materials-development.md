@@ -1,31 +1,24 @@
 ---
 category: news
 title: "Machine learning homes in on catalyst interactions to accelerate materials development"
-excerpt: "A machine learning technique rapidly rediscovered rules governing catalysts that took humans years of difficult calculations to reveal—and even explained a deviation. The University of Michigan team that developed the technique believes other researchers will be able to use it to make faster progress in designing materials for a variety of purposes."
-publishedDateTime: 2020-09-29T16:09:00Z
-originalUrl: "https://phys.org/news/2020-09-machine-homes-catalyst-interactions-materials.html"
-webUrl: "https://phys.org/news/2020-09-machine-homes-catalyst-interactions-materials.html"
-ampWebUrl: "https://phys.org/news/2020-09-machine-homes-catalyst-interactions-materials.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-machine-homes-catalyst-interactions-materials.amp"
+excerpt: "Machine learning homes in on catalyst interactions to accelerate materials development Date: September 29, 2020 Source: University of Michigan Summary: A machine learning technique rapidly ..."
+publishedDateTime: 2020-09-29T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/09/200929123416.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/09/200929123416.htm"
 type: article
-quality: 51
-heat: 51
-published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/chemical.jpg"
-    width: 1920
-    height: 1271
-    isCached: true
-
-secured: "7x0wU/mVPOkSVTDnduGCXSvWwdZ3gXum+kE83c+7n2ratwm96wMWKgyjnpAR4BGGzyEGwmNLZ/8iJj4mQ0Sxj/hJQShs1UDAFcFe+sMHpI1s1zqvQgv5I6T1muOvSjCuOBY518oX/EGrzEix1oqxMcp5QwNBO2ydoKvp1wPV+PY07VJiTq0Q/vp9uyUco3Hf4QABovpWfG4IWBn1D1HxPrAfHzYfEv7YtR4tBP8HhID+9pFFdpu/a/+tyKb4Ywg+rEEhv2H1NWWaLayaoytlbPtlYDJU4sCvFQh0mG5sS+qIEJ+3PGDMoXlAFVpas2YytRXgCJPD1OVsHsQiMc0DF+qbJX/enOskgMvxpUOnFJqnjUN9xzAri82PFGvyPokYdduR0zLA40uGBZycClTVL41aiDgtayjbDcWc2MqgPjtT01CGdDMDgjJg2qkpdiPY21dKDxciyOMCjlfNZgIwBDTWnc+sbdqJ/R8hfffvDqWtiAyZ8gg7puSkSedMwTts6coUcV7sfTIffEH7aqInTg==;zcHLux3TCOBMceG8ACtXfw=="
+secured: "fwRjW5jJ14/kHx0ZHsHoRkngGt8djp6C28DN8jMIoxGC7DoV8M9eBSVpms9qx8g/O5IXGdsyYksgANe5cDg7blx8NNH4/pBgL7+quJuwcSUFCd110oZC/UAor0bF6aK21HIWfjdNyB89YhbCt0AJwJggbRkmZt9jrn3N+TKaAhgAg4lNlxFqQ6PFpTnJLexdkdp5OiFMyCzdAUGTtogG2SwgMFFDBtyYIR42MwGpPFrXLMh/Pa75hCEnQfAnQbqz6s+mPcYa2jt4kJSUoNqEYaCCRvYE5yIYPFIeAmNFTy2w9fhYsBcUuCSNnsPa7huiCT14wKOO3c1IIQhW3SXruHukyKe/9rz2GCCSmaIAZZM=;6TO9QVHhzt0Ywg9E1yQoWg=="
 ---
 

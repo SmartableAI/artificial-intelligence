@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-10-adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic.md",
+      "title": "Adorable red self-driving robot delivering mail in Japan during pandemic",
+      "excerpt": "A Japan Post mail delivery robot debuts in Tokyo, and is being tested to keep human interaction to a minimum during the coronavirus crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
+      "originalUrl": "https://www.cnet.com/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/2ZG9ZsmU2Kgz845wDeGvuVSdlDA=/2020/10/09/650978af-dde5-4803-8185-35f85a7ef12c/japanpostrobot1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
+      "publishedDateTime": "2020-10-09T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-this-ai-lyrics-generator-strings-your-random-words-into-songs.md",
+      "title": "This AI lyrics generator strings your random words into songs",
+      "excerpt": "And if none of that works, they could try out a new AI lyrics generator called keyword2lyrics. The system was created by Mathi Gatthi, a data scientist from Argentina, who told TNW he got the idea from his own songwriting struggles: Sometimes I have a few ideas that I want to turn into a song,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-09T172112.299-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/amp/",
+      "publishedDateTime": "2020-10-09T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-nine-common-mistakes-businesses-make-when-using-chatbots.md",
       "title": "Nine Common Mistakes Businesses Make When Using Chatbots",
       "excerpt": "Without proper insight into how AI-powered chatbots can achieve their goals, it's unlikely that businesses will employ them adequately.",
@@ -1035,10 +1139,10 @@
     {
       "path": "_news/2020-10-09-computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19.md",
       "title": "Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19",
-      "excerpt": "Reportlinker.com announces the release of the report \"Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19\" -  The Global Computer Vision Market is expected to grow from USD 11,",
+      "excerpt": "Reportlinker.com announces the release of the report \"Computer Vision Market Research Report by Component, by Application",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/g17845162/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulat",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/g17845162/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulat",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1046,117 +1150,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T15:40:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17845162",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17845162",
+      "publishedDateTime": "2020-10-08T15:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-daily-crunch-waymo-opens-up-driverless-ride-hailing.md",
-      "title": "Daily Crunch: Waymo opens up driverless ride-hailing",
-      "excerpt": "Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for. The big story: Waymo opens up driverless ride-hailing Waymo hit a major milestone today: It’s",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/07/waymo.jpeg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/",
-      "publishedDateTime": "2020-10-08T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-wisekey-secures-ensuritys-passwordless-access-to-microsoft-windows-and-azure-ad.md",
-      "title": "WISeKey Secures Ensurity’s Passwordless Access to Microsoft Windows and Azure AD",
-      "excerpt": "WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ: WKEY), a leading global cybersecurity and IoT",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-hyderabad-industrial-products-and-services-electronic-parts-manufacturing-76582e121f95b9ed762a212150e1c70f",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-hyderabad-industrial-products-and-services-electronic-parts-manufacturing-76582e121f95b9ed762a212150e1c70f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1166,7 +1166,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Computer Vision",
         "AI"
       ]
     }

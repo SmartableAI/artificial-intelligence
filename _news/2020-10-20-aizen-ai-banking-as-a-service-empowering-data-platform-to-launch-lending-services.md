@@ -2,27 +2,25 @@
 category: news
 title: "'AIZEN' AI banking-as-a-Service, Empowering data platform to launch lending services"
 excerpt: "The financial services industry has seen drastic technology-led changes over the past few years. While some of the big tech giants have launched their own Fintech verticals, there are many brands that are also increasingly looking to offer financial services to their customers."
-publishedDateTime: 2020-10-20T15:00:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-9412110"
-webUrl: "https://www.finanzen.net/nachricht/aktien/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-9412110"
+publishedDateTime: 2020-10-20T15:24:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-1029699791"
+webUrl: "https://markets.businessinsider.com/news/stocks/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-1029699791"
 type: article
-quality: 32
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
-
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "ServiceNow And IBM: Making AI Really Work"
@@ -65,6 +63,6 @@ related:
       domain: channele2e.com
     quality: 19
 
-secured: "CVJgxqIhYcvG3DI01EZoAJ/bfn4BELvqpmYMHL31deACUFhVoko6slUvWcY8S97EyJsRToPiTFIj/KJ1401OKS2cEffgTS0sghvDagucpDt2bgd3SkjNLY2mz8Wg6roWQvVP7KdNI8nogZ3Ux99hWfDodaMgFKo+xY/gEgTeuKw82JIfNEWFyLxjxE2w88/zpyQ81vJw7jbt14K1k0nfeVEpU9z9VHO2yyUmVcC/W2S4twvueEjT9IO9IzrcBiS82/jdR6IXh0mq5skVzhhGYINUfGGyUFgzZessGYosPjtVo/8FIkFxdeffVAsS2uvrBMWHn9MZwO10BNJ2lTm/yd6uj+ffU3hT49BSU56z6NU=;vVQrmdoC2KeaGQMl7KnXTQ=="
+secured: "JEO5JzZIPaYVADTV1PMcTz4Sb3soMDiSXS4fPJHxVsaXfRftozSjN9WD1ttEao90BNGCsAoxCaIXEPho4vR7ykc5U/uQBvnT43557+I33mj1tcT6KyMclZEhF9NRFFVMRsZoxx+HjScNd2fXp5vYu5QsH1YbOksVTGr43Vgvu11MW3JjUz/UdV+nLjZjIV3nZ2wkoUIzhJmK7TMJH4Zk2wodKOVgtnSFybs3zGYfPcdTxboRWys3mNWx8xr8O6ZZLbPvofLM58wZb7DtFjIMA8+7ZyCbVgBzk36WXhdWObfnkr/I0SCuJrMrpzk0srO11cG6/tlJXjLUdX9M0l24NbFRqTBVvXKH1gCM3S+fWPI=;GxPFcKgZ2uYqxuJ2B/Mlnw=="
 ---
 

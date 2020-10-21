@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-15-south-korean-startup-cochlearai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition.md",
+      "title": "South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition",
+      "excerpt": "These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS platform to identify. The company’s goal is to develop software that can identify almost any kind ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/",
+      "originalUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/cochl_team8.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/amp/",
+      "publishedDateTime": "2020-10-15T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-best-facial-recognition-security-cameras-to-buy-in-2020.md",
+      "title": "Best facial recognition security cameras to buy in 2020",
+      "excerpt": "Select home security cameras have facial recognition, an advanced option that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
+      "publishedDateTime": "2020-10-15T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-global-ai-based-edge-computing-chip-industry-research-analysis-by-2020-2025.md",
       "title": "Global AI based Edge Computing Chip Industry Research Analysis by 2020- 2025",
       "excerpt": "Global Info Research has recently published a report titled Global AI based Edge Computing Chip Market 2020 by Manufacturers Regions Type and Application Forecast to 2025 The research report provides an in depth explanation of the various factors that are",
@@ -341,36 +445,79 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities.md",
-      "title": "Futurism Reinforces Its Next-Gen Business Commerce Platform With Advanced Machine Learning and Artificial Intelligence Capabilities",
-      "excerpt": "Futurism Technologies, a leading provider of digital transformation solutions, is bringing to life its Futurism Dimensions business commerce suite with additional artificial intelligence and machine learning capabilities.",
+      "path": "_news/2020-10-15-deep-neural-networks-show-promise-for-predicting-future-self-harm-based-on-clinical-notes.md",
+      "title": "Deep neural networks show promise for predicting future self-harm based on clinical notes",
+      "excerpt": "The team used complex artificial neural networks, a form of artificial intelligence also known as deep learning, to analyze unstructured, textual data in the electronic health record. Deep ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-1029681593",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-1029681593",
+      "webUrl": "https://medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/2-deepneuralne.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.amp",
+      "publishedDateTime": "2020-10-14T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities.md",
+      "title": "Futurism Reinforces Its Next-Gen Business Commerce Platform With Advanced Machine Learning and Artificial Intelligence Capabilities",
+      "excerpt": "Futurism Technologies, a leading provider of digital transformation solutions, is bringing to life its Futurism Dimensions business",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-301152696.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-301152696.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1312995/Futurism_Logo.jpg?p=facebook",
+          "width": 2148,
+          "height": 1126,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T15:53:00-07:00",
+      "publishedDateTime": "2020-10-14T15:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -683,49 +830,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-deep-neural-networks-show-promise-for-predicting-future-self-harm-based-on-clinical-notes.md",
-      "title": "Deep neural networks show promise for predicting future self-harm based on clinical notes",
-      "excerpt": "Medical University of South Carolina researchers report in JMIR Medical Informatics that they have developed deep learning models to predict intentional self-harm based on information in clinical notes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/muos-dnn101420.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/muos-dnn101420.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/245954_web.jpg",
-          "width": 300,
-          "height": 345,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1117,102 +1221,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
-      "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
-      "excerpt": "Oct 14, 2020--KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-science-software-industry-information-technology-073d1b6e3cb94a568d9653c01f50cf4c",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-science-software-industry-information-technology-073d1b6e3cb94a568d9653c01f50cf4c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services.md",
-      "title": "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services",
-      "excerpt": "In early 2017, Microsoft updated Office 365 apps like Word and PowerPoint with automatic image captioning, drawing on Cognitive Services Computer Vision. (Cognitive Services is a cloud-based suite ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/",
-      "originalUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/",
-      "publishedDateTime": "2020-10-14T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -3,11 +3,11 @@ category: news
 title: "Defense Official Calls Artificial Intelligence the New Oil"
 excerpt: "The governments or countries that get the best datasets will unquestionably develop the best artificial intelligence, the Joint Artificial Intelligence Center's chief technology officer said."
 publishedDateTime: 2020-10-19T23:10:00Z
-originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2386956/defense-official-calls-artificial-intelligence-the-new-oil/"
-webUrl: "https://www.defense.gov/Explore/News/Article/Article/2386956/defense-official-calls-artificial-intelligence-the-new-oil/"
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2386956/defense-official-calls-artificial-intelligence-the-new-oil/utm_medium/twitter/"
+webUrl: "https://www.defense.gov/Explore/News/Article/Article/2386956/defense-official-calls-artificial-intelligence-the-new-oil/utm_medium/twitter/"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: defense.gov
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 851
     isCached: true
 
-secured: "3Vyovzz0Y/0HfzvbGXoq43kSRPMxHJKPQfRFKx3ml0IBJq54kuN/3A4AVIF/69UeU5rPUoEHyVWl0MjR2VAz4O+lXwKTH/QvirdTmB9Sl6eOLPgG601pVjkhi/ZDzD5rFz7/JeE+D3qHvoY3i/iC2hMrTxldTBPB5uY3unM3khwoUngGysqwXEDrglIcHQptyemC9v+YZaq4Uu75h3p+wJqp/48ZBTqSgWCvG8MxDJojwVGYw7ucKNKdQfLhXehVPrRzO2G+hoROyiO8YIbap0+jpi+rdw+VyugBH7XuARVpsa5qD/sjAUBUpXo2QaI4A8GF29F6e2aBR+L+zSCPBXdZlPcjcdbDNPjI1Y8dzgLqgONpAmv3GMnr3EMYAjfsM2YDllJ9zvOx8bjW54pBmKrG8BXEKZnRX/dqoloR50veWsvKZ1uG9p+78REWxw1yc1aW2vcEpib+U1XWKo1w/ptE8oSqSd497wZsJCtll7DMZ1xLcjKAS+6Ot+2gEpf/5sA2S0/mlGFRd/zEAZuLfw==;yVPcEjHCZlPIvOIpUtCOxQ=="
+secured: "Ll7wWaRdPHw3wxJBIiAT57s6cq6dpqYtHXFaAwgjcCQd7fQl9wLZqors6lumnUiEuFxGoy9uEMbj9m1asMBfooNMJ7VX0x3zig+rvfUzMfwXxUCYu5eAPmwyxudD1leWMIfwogVWFdqNWIUJ7+NYC/OZ4ussKRs8TSW4PxjpfhtI94tnZuc8FWJSgIAz6Vjk5JuPfvXRJLWiWFq/5e/cevj7VB+8QRUKd81zW21eE2aybvPhc/NCsD5yMP0IghHx+eJ2/IElrjGOzF8+T9hUDkMsN8C5HvFCuJ8v5Ugv7nLh5AzpftvvDjzkO7F+qS83AG6Xf4JGPa1jwfYuJtgohAr5b32t2fvsfB4Hog3jPrs=;z8Fkuh6LVD/+WuVn2oKatQ=="
 ---
 

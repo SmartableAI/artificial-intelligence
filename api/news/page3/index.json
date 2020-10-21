@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-19-how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml.md",
+      "title": "How to Create a More Inclusive Customer Experience Through AI and ML",
+      "excerpt": "Eighty-four percent of consumers say being treated like a person, not a number, is very important to winning their business. However, there is a clear frustration amongst businesses in driving ROI, as 80% of marketers are on track to abandon personalization efforts by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
+      "originalUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2020/10/machine-learning-experience.jpg",
+          "width": 2440,
+          "height": 1627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp",
+      "publishedDateTime": "2020-10-19T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy.md",
       "title": "Deep Learning Model Developed to Identify Appropriate Lung Cancer Therapy",
       "excerpt": "Researchers are developing a noninvasive, method to analyze a non-small cell lung cancer mutations and biomarkers to determine the best course of treatment.",
@@ -108,7 +151,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -134,7 +177,8 @@
         "AI in Robotics",
         "AI in Autos",
         "AI in Healthcare",
-        "IBM AI"
+        "IBM AI",
+        "Google AI"
       ]
     },
     {
@@ -1172,58 +1216,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-how-id-study-machine-learning-if-id-be-starting-out-today.md",
-      "title": "How I’d study machine learning — if I’d be starting out today",
-      "excerpt": "I’m underground, back where it all started. Sitting at the hidden cafe where I first met Mike. I’d been studying in my bedroom for the past 9-months and decided to step out of the cave. Half of me was concerned about having to pay $19 for breakfast (unless it’s Christmas,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/image-1-8-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/amp/",
-      "publishedDateTime": "2020-10-16T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

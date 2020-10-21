@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-15-optimizing-applications-with-eagledream-in-amazon-codeguru-profiler.md",
+      "title": "Optimizing applications with EagleDream in Amazon CodeGuru Profiler",
+      "excerpt": "This is a guest post by Dustin Potter at EagleDream Technologies. In their own words, “EagleDream Technologies educates, enables, and empowers the world’s greatest companies to use cloud-native technology to transform their business. With extensive experience architecting workloads on the cloud, as well",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-applications-with-eagledream-in-amazon-codeguru-profiler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-applications-with-eagledream-in-amazon-codeguru-profiler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/24/2-Flame-Graph.jpg",
+          "width": 900,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T11:17:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements.md",
       "title": "Researchers detail LaND, AI that learns from autonomous vehicle disengagements",
       "excerpt": "AI researchers often disengagements as a signal ... 2,00 disengagements produced during the LaND training on Berkeley sidewalks. Delivery robot startup Kiwibot also operates at UC Berkeley and ...",
@@ -570,6 +622,40 @@
       ]
     },
     {
+      "path": "_news/2020-10-15-bisd-schools-win-national-recognition.md",
+      "title": "BISD schools win national recognition",
+      "excerpt": "The National Center for Urban School Transformation at San Diego State University has named five Brownsville schools as winners of 2020 Best Urban Schools awards including a gold, three silver and a bronze designation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.valleymorningstar.com/2020/10/15/bisd-schools-win-national-recognition-2/",
+      "originalUrl": "https://www.valleymorningstar.com/2020/10/15/bisd-schools-win-national-recognition-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Valley Morning Star",
+        "domain": "valleymorningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-possible-reality-puts-your-face-on-a-video-game-character.md",
       "title": "Possible Reality puts your face on a video game character",
       "excerpt": "“Your face fits with the model of the character ... “There are so many reasons people want to do this, but recognition is one of them,” Isbell said.",
@@ -1080,110 +1166,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-south-korean-startup-cochlearai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition.md",
-      "title": "South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition",
-      "excerpt": "These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS platform to identify. The company’s goal is to develop software that can identify almost any kind ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/",
-      "originalUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/cochl_team8.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/amp/",
-      "publishedDateTime": "2020-10-15T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-best-facial-recognition-security-cameras-to-buy-in-2020.md",
-      "title": "Best facial recognition security cameras to buy in 2020",
-      "excerpt": "Select home security cameras have facial recognition, an advanced option that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
-      "publishedDateTime": "2020-10-15T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

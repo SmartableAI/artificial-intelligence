@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-keepi
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-role-of-artificial-intelligence-in-keeping-australian-workplaces-safe/amp/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Services Australia taps AI in document processing"
-    excerpt: "Services Australia and Capgemini have developed a new artificial intelligence (AI) engine in a pilot project to classify and extract information from documents submitted by citizens who are applying for Centrelink, Medicare and Child Support payments and ..."
-    publishedDateTime: 2020-10-16T07:21:00Z
-    webUrl: "https://www.computerweekly.com/news/252490630/Services-Australia-taps-AI-in-document-processing"
-    ampWebUrl: "https://www.computerweekly.com/news/252490630/Services-Australia-taps-AI-in-document-processing?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252490630/Services-Australia-taps-AI-in-document-processing?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/robotic-process-automation-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-
-secured: "seY/sHqA4G4sBBnHSI+sM/8L1RO8XW0g7w6N+Z+5Cn7UKiK7WtRsMwavNedrNGVZCuw0VfTLMllWym4XWiMISLEJYQz6gV3KIXaNAVetEwWmKlyNMk0gZmrRKeLerHZZC7BtlWoMnnwBTI3M7yOm5EYXyupwRb8+yU5TY3mRMj+8hHX5dh+Q8MU0h3f7LTq1ij3ciBlupXjcM2Pu8aAr52Vb3+Aob4uoCaYPpuYfQiw3lj6/dSMvQlXmngAg6o0/bvsG0oIrCA9fSrFMxUXKV+qRRa/ziXjXPfpX13TdSBwiWu+9RRXQZDtmnHuJvYveylhOP797n/2qY6NdtWItdo8vQzxM8h7uVfOSOGFKoPg=;8TqzyhOLdGl8PQb2SaTLfg=="
+secured: "O0vEq5bk85vnL9B3I4MzdagzcH/0ig4bnlF4+tOzZYHkX7IYylF/0xTOnsl9pO+x4aT90sc5ae30gjni12xiInogMzccMyxFTMfeztE43iDrzrjHC+j60yoJ98PRAKnmyJzMR6thTAtaik8ltd7S1O4Fjn4xn0JvRgDoPnP6idxY/kFiWp5h0oB6l8FlFHVVITkEb3ZSJOe7lm2+ylXaasn2K/qWtgxBN2rApWU6dpdXjRKNDRTMYml5Gi4036/RNrx0OgQcCBLDi1OmxgzyXI66BglXCD3ngVB5ZlDVs4c+Z6L7uN73eGrtwMsnwvTkY7jky5qxKt04VstKw4jmEHFpIYi5uf2s9AF2l9DigkRIDY41lhuvyI1X2bz0u9Eh44MS2uIh8Ohy2tuWwM0d0sRH/5OugFqPJ7qD7/aq/mcck38dcTRw27S4XbRUFeMLG5CFOleclK8N1FKrBffB6gvZCAQXpIO2KeU17pMnurX8sUErID2aiAGc+oDfVz2MTRphQVyRf/HgHI+oCbaLzA==;FiE93mgGnfnRvxL53CLZZg=="
 ---
 

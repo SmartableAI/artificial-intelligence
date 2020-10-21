@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Futurism Reinforces Its Next-Gen Business Commerce Platform With Advanced Machine Learning and Artificial Intelligence Capabilities"
-excerpt: "Futurism Technologies, a leading provider of digital transformation solutions, is bringing to life its Futurism Dimensions business commerce suite with additional artificial intelligence and machine learning capabilities."
-publishedDateTime: 2020-10-14T22:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-1029681593"
-webUrl: "https://markets.businessinsider.com/news/stocks/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-1029681593"
+excerpt: "Futurism Technologies, a leading provider of digital transformation solutions, is bringing to life its Futurism Dimensions business"
+publishedDateTime: 2020-10-14T22:34:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-301152696.html"
+webUrl: "https://www.prnewswire.com/news-releases/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-301152696.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "xWiqVTxAWzOTOb5o4ZwGF/hgeiAMmoMtlC2Rl5d1Oy6LXXsNDruFgR0cnvWTsQTYmWexK0P1l8QHU/syznqvOmw4YOVIUuHXjz58j7vSBx5xYApBpUgErRobJBmJ9GIa8edGkA92C/Pu+Nkav/Q6Xn6SyH4nlZYONNh0Ct7UInLsTwsQyqmZCI3nXyBfJD6JwJJFaYJbEO98Jalba4Bx4nJNlsjOfOyXo8Ua8ko3bQAFfkjjmWPKcnUwc9MjAhMApi8ITGyth4iyWvIst48XvgW9+wlb6j3uFRjMxC835LFi22n0UQulJ0Q5WhDj/pxXErVIgXgTibx1Evpf+I9azFHF9k1Xk7OGiok/a5x/iIM=;/RpDE1l5pJsdZWPK1xpV4w=="
+images:
+  - url: "https://mma.prnewswire.com/media/1312995/Futurism_Logo.jpg?p=facebook"
+    width: 2148
+    height: 1126
+    isCached: true
+
+secured: "z9pNM5woFg6KbpsCyiHm+FNzYBR/3ObALGOZ+o67K+3U3s16Lh9vgltZJVYdyjv5PZOnH8/5Wk7LAdqd5F5yirojEDsWiSbkTSQCYKq8aMgW55ayu9zwmpW0HmzWBGhLJMsRxn8wZv9geqbSTdNaN1dF7L5SqBmJ2z0zyqXRw5YJ24IJSjjJNVcGYffW0Jsq//JVKZVr5vrILgMZ0uU3kJi0+ZuMrw3In3qQ309QJdept9WIZ4MJAftopIdqJAHulKIXwuuwZcuShQjWUM/Su/MkvclClLkKX02al1hyYmJaNj2qTrLlrl0oeVHsCPzgH84rLJV4KkENrSzzx26yu68fntS0OfyMeehIFoC4dnM=;TEKUzUQ2tQK+NAEII/9mbA=="
 ---
 

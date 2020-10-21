@@ -43,6 +43,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Facial-recognition tenant referencing tool now available to agents"
+    excerpt: "As part of an update to its referencing service, Goodlord customers will now be able to use an authentication service utilising facial recognition to match photos of applicants to the photo on their ID."
+    publishedDateTime: 2020-10-20T23:02:00Z
+    webUrl: "https://www.lettingagenttoday.co.uk/breaking-news/2020/10/facial-recognition-tenant-referencing-tool-now-available-to-agents"
+    type: article
+    provider:
+      name: lettingagenttoday.co.uk
+      domain: lettingagenttoday.co.uk
+    quality: 39
+    images:
+      - url: "https://www.lettingagenttoday.co.uk/upload/PropTech-4-400x310.jpg"
+        width: 400
+        height: 310
+        isCached: true
   - title: "Plymouth Police Department Earns National Recognition"
     excerpt: "The national award recognizes the high marks residents gave police services and safety in the National Community Survey."
     publishedDateTime: 2020-10-20T11:13:00Z

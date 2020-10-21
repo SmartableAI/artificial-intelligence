@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-fsd-beta-rollout-tuesday/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -254,7 +254,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -280,7 +280,8 @@
         "AI in Robotics",
         "AI in Autos",
         "AI in Healthcare",
-        "IBM AI"
+        "IBM AI",
+        "Google AI"
       ]
     },
     {
