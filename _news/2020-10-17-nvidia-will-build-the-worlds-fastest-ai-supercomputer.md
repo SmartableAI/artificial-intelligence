@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/nvidia-will-build-the-worlds-f
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/10/AI-supercomputer.jpg"
         width: 700
         height: 500
-        isCached: true
-  - title: "EuroHPC: 4 Nvidia-based AI Supercomputers Coming from Atos, HPE; 4 More on Way"
-    excerpt: "European initiative will use Nvidia data center accelerators, networks and software for AI and high-performance computing. They include a system dubbed Leonardo, unveiled today at Italy’s CINECA research center,"
-    publishedDateTime: 2020-10-16T12:42:00Z
-    webUrl: "https://insidehpc.com/2020/10/eurohpc-4-nvidia-based-ai-supercomputers-coming-from-atos-hpe-4-more-on-way/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 35
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2019/01/eurohpc.jpg"
-        width: 522
-        height: 522
         isCached: true
 
 secured: "zgdjlRoYWY3d20UE9NOgL9idoRK5nnt/Zu+cnKWmyNd2AmUJUwFfk6YYXYMTsYpmsCVZ0DWthDBKrC7dFmVYakIQA+y5jAGjsWyX+98g9bZdF6PDsnnntt41hlOwdYHYLkORElalRhkHIk+4x9F2xesdnKIEGhVdFxQnm/MxrXQldWEdLe8eIm9gizN6HmfnoFsim50goqXMw/axih44aKYPmI0o/7vUby5bBshBi+LUPK0ySYhZ4OxjoTEH3oIc6O78uMRhihpEScw/bIsVeguzPyeEjLVWON+bcdD+sYxeGEKJbhoZAZ8sEDCPdfg1gR3UKSKbE0Z19NSjbYJK/f6b+5gzuZDf2b3z6PH4EZkiBJfhzbNNNH37qncoHmiuY6QXTaodrrid3tcqlSZsP+rhDV+Nt7Bh2cjvilX0b7kyO6BiHOCjpVd/21E6IuUUGgZjovg5PSE6mET15bXeE2/LOmiu8nSx1qmM/pH25raukwlxTU/gkJRqT5kGycfHOWvLeHDDX/1WRnu2y/H4gQ==;9sT+35PFSR+Vymt806qzDg=="

@@ -25,22 +25,6 @@ images:
     height: 382
     isCached: true
 
-related:
-  - title: "AI checks out ‘rash selfies’ to detect Lyme disease"
-    excerpt: "Artificial intelligence and deep learning that look at \"rash selfies\" could offer a way to more accurately detect and identify Lyme disease."
-    publishedDateTime: 2020-10-16T12:46:00Z
-    webUrl: "https://www.futurity.org/rash-selfies-lyme-disease-artificial-intelligence-2456202-2/"
-    type: article
-    provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 37
-    images:
-      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/10/lyme-disease-rash-selfies_1600.jpg"
-        width: 1600
-        height: 915
-        isCached: true
-
 secured: "NNDQWrIfTobEfJDkM0NqMhlt8tzfKPczoXhhLOPZjvNH6VLiNwaLKaH0GgK1R2v+aelSKbgRzeGKGJd/6EWRlzoWTXz8lkOfwqjElcrbjNqHWuaJtYbDB5fzA5PxTi5x0KeL6hpOqdy1xRz/1cU3xiGdFoKfw5TpDjGu72WYZg2eUSoi+203Ih0IZNh00IBlho0eOQdaM7UzAiznNDhRImkC8ityQZc8pjSLyhmFbcaEBOyRyMR4BinZP7o/LmIvydzVeQ8xbX5RwLnMWdqC9lUAU/plmh2K4h3U/Vyv9ZZCcFEsndUffLHghbAfibAFcnndtV1P7B1dd/dszRItnaok/mtf5V+7d2JPKvMM/xk=;0UaIXz0izBKN0v0dceebYA=="
 ---
 

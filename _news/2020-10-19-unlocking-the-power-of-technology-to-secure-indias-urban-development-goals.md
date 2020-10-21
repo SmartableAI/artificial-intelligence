@@ -26,22 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "AI To Transform Auto Insurance In India"
-    excerpt: "The AI module would make the judgement of the damages on the car very quickly, reducing the processing time from days to mere minutes."
-    publishedDateTime: 2020-10-19T10:33:00Z
-    webUrl: "https://analyticsindiamag.com/ai-to-transform-auto-insurance-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/AI-To-Transform-Auto-Insurance-In-India.jpeg"
-        width: 1050
-        height: 700
-        isCached: true
-
 secured: "VVtqZYbw6ajEYqVv+RQJJ8ll5nxS9+grW+gAKKVF2Moj9uYqMmsc6cRtmB+XaDBkV4ZrJJYLWKbUtInfNkzXHT0fHtfOZvGE1vIPT8wWK6CArYB4AMLxhq6K9aWOfa4WdIJzQTiWheFA05bdDD64WSyBipdQ7bEUWwGNQCwDR04Sbs4lkL+Bq4mkyOwEyvlyaHP1oF5Ov+uKL1/n1AknUkHkj/RJzM4h7CY11bF0cemkN9UdkvrD8fQ5LzsUR6TJfihd+6E53k3rVj9SzfNsGQCro96/7Jinn5St+sg+0m/fmvVmp7ououiUfodV4akmOdy7bEAnR7zpvoIz17Xx/qTOpVf9KdcuX1ydMrhb1KBLUZVjH1u33YQDQVDaCSY4NAxSBuuPb7345pFIErf0G7Pktz+S+VTI1uSBHDyOVpiOPRWvkeaya2/UPNtVTxa8QJkGoqqIEez9BiMEqPqM1bUfeq15G1WsHMycD1BfkALcxLQQePSjJcf9PSFW+t/jyX8XWFXwKlmVDDS4nfAG4g==;CTe+JXjqFr0Yc66nfLkIvg=="
 ---
 

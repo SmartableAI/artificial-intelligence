@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast
 webUrl: "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast-track/article/3105520/6-fintech-trends-will-redefine"
 type: article
 quality: 69
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Google, FinTech group Unifiedpost team up on AI data capture"
+    excerpt: "Google’s AI solution may be utilized to handle document processing linked to over 400,000 European businesses."
+    publishedDateTime: 2020-10-21T05:00:00Z
+    webUrl: "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "Fintech's Wildfire Fighter: This Reinsurer Is Using A.I. To Make California Insurance Affordable"
     excerpt: "San Francisco startup Kettle thinks its statistical models can predict wildfires better than any other reinsurer. It officially launched today and recently closed $4.7 million in seed funding."
     publishedDateTime: 2020-10-20T10:34:00Z

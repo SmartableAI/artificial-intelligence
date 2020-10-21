@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-25-follow-the-leader-a-shortcut-to-autonomous-trucking.md",
-      "title": "Follow-the-leader: A shortcut to autonomous trucking",
-      "excerpt": "A company spun out of a prestigious university robotics lab is making a big leap in autonomous trucking. Locomation is claiming the world's first autonomous truck purchase order from a Springfield, MO,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "originalUrl": "https://www.zdnet.com/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/09/25/3f827e13-f829-4223-8f2a-cdd96e9c9a88/locomation.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "publishedDateTime": "2020-09-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-25-swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction.md",
       "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
       "excerpt": "Telecoms gear maker Ericsson and mobile operator Telia on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business areas ahead of mass deployment of 5G technology.",
@@ -1379,6 +1327,58 @@
         "name": "InvestorPlace",
         "domain": "investorplace.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-elon-musk-says-self-driving-electric-cars-in-tunnels-under-cities-will-feel-like-warp-drive.md",
+      "title": "Elon Musk Says Self-Driving Electric Cars in Tunnels Under Cities Will 'Feel Like Warp Drive'",
+      "excerpt": "The Tesla and SpaceX boss announced on Twitter this week that The Boring Company's first operational tunnel in Las Vegas is \"almost done.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282",
+      "originalUrl": "https://www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1637737/elon-musk.jpg",
+          "width": 3290,
+          "height": 2320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282?amp=1",
+      "publishedDateTime": "2020-09-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

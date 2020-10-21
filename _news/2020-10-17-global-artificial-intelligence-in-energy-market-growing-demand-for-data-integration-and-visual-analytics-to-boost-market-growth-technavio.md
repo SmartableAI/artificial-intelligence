@@ -88,22 +88,6 @@ related:
         width: 794
         height: 356
         isCached: true
-  - title: "Deep Dive: The Power Of Data Analytics And AI For QSRs In A Complex Ordering Environment"
-    excerpt: "This Deep Dive explores how artificial intelligence and data analytics can help quick-service restaurants optimize their operations across a host of use cases."
-    publishedDateTime: 2020-10-16T12:10:00Z
-    webUrl: "https://www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/"
-    ampWebUrl: "https://www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 48
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/restaurant-data-analytics-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
   - title: "Using AI, Data Analytics to Enhance Person-Centered Care for Seniors"
     excerpt: "Artificial intelligence and data analytics tools could help older adults actively participate in their own care."
     publishedDateTime: 2020-10-16T14:48:00Z

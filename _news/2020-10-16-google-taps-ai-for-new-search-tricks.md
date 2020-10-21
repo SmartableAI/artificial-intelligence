@@ -9,7 +9,7 @@ ampWebUrl: "https://www.axios.com/google-ai-artificial-intelligence-search-318a7
 cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/google-ai-artificial-intelligence-search-318a70e9-30e2-4d74-8ddd-3b7ff9c55d8a.html"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,65 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google Search is getting a new AI-powered spell checker"
-    excerpt: "Google has announced a range of AI-powered enhancements to its search engine, including a new algorithm that improves spelling corrections."
-    publishedDateTime: 2020-10-16T12:03:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
+  - title: "New centre for AI research"
+    excerpt: "“Reliability and interpretability are essential to AI research,” explains Krause. “These aspects relate to highly relevant questions about the social impact and ethics of AI.” Reliable AI solutions help to increase the acceptance of this technology ..."
+    publishedDateTime: 2020-10-20T08:23:00Z
+    webUrl: "https://ethz.ch/en/news-and-events/eth-news/news/2020/10/pr-new-centre-for-ai-research.html"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: ETH Zurich
+      domain: ethz.ch
+    quality: 39
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-16T114024.500-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Google Announces AI Search Updates – Analysis"
-    excerpt: "This is how Google AI updates will dramatically impact how sites are ranked. Analysis of changes for SEO and publishing. Google announced a series of changes to search that will change how sites are ranked."
-    publishedDateTime: 2020-10-16T13:15:00Z
-    webUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/"
-    ampWebUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
-    cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
-    type: article
-    provider:
-      name: Search Engine Journal
-      domain: searchenginejournal.com
-    quality: 57
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2020/10/ai-in-search-5f88cc960a6ef.png"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "7 Steps to Deploying AI-powered Self-service during the New Normal"
-    excerpt: "It’s no surprise that AI-powered self-service is gaining traction with customers. Even before the pandemic created a New Normal, 73% of consumers said they wanted to solve their issues on their own without having to engage with a human customer service agent."
-    publishedDateTime: 2020-10-17T04:14:00Z
-    webUrl: "https://customerthink.com/7-steps-to-deploying-ai-powered-self-service-during-the-new-normal/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Google Search gets hum-to-search and AI query upgrades"
-    excerpt: "Now, Google will start surfacing statistics from the repository in response to user queries. Google also announced more general-purpose enhancements at Search On that focus on boosting the search ..."
-    publishedDateTime: 2020-10-16T17:47:00Z
-    webUrl: "https://siliconangle.com/2020/10/16/google-search-gets-hum-search-ai-query-upgrades/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/google3.png"
-        width: 718
-        height: 400
+      - url: "https://ethz.ch/en/news-and-events/eth-news/news/2020/10/pr-new-centre-for-ai-research/_jcr_content/imageCarousel.imageformat.lightbox.jpg"
+        width: 1564
+        height: 782
         isCached: true
 
 secured: "AW8zfGhbqc05k1oYpX+/6kbOmL09uM4S0XMhs/39TsowTIe9iH3Hbqf2fum5jzCT3Ux5G9J04BOS1KvHltKBgKhqteI2lgJ1wshLXBeyxjR89wFGTEdlabQfRztLdWsoTWcbOFhh4IXzwESnJOGKGqQVmQN69Kohot76MJMcd4bpj3z4MaUV+oHVbw6mSwcjThulVyZioiLUZmNRrBCnCTLY+DTsM/2kMBCP+MLRHqu0xTrlPAuxl+fHbp/0gCCBOkGmfi2iEgucNetEDQbM0Np2enRvj5d1WvotURjt0i1MhPU/rxzDmHY9NQWMXj5uh9RiyBUX7taWl5Yn/u0D+zoXfEn+cmF0dDXrNikofNIhoyqRMlXkHZxZWIuR0LeZeZ2CPAZ8xpvwHFDsrtD6VmF7I9nw31bouvB9hO95SByFM3UbXl1mTKsihzQM484D7tUqe7vSW4JAGoMEM/fTNTpJXr3x28hpGZSHFBig/g9pOeHDkAoqHQ8xmCrJLn61hgC1bngu4j62M4JNuZ45xw==;omI0l8WswspktP32WrH7PA=="

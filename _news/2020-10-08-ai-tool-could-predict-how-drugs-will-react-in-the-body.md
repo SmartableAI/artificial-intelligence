@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.futurity.org/wp/wp-content/uploads/2020/10/drug-development-deep-learning-tool-metabolites_1600.jpg"

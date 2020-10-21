@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2166014/ai-in-telecommunication-market-ne
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
         width: 300
         height: 250
+        isCached: true
+  - title: "How billionaire Romesh Wadhwani is using his own fortune to build SymphonyAI to take on IBM, Microsoft, and Google by creating an enterprise AI giant"
+    excerpt: "Perhaps the closest major competitor is IBM, which offers its Watson AI platform to industries like healthcare and advertising. But Wadhwani brushed aside the potential rival, claiming its efforts to-date have only resulted in \"mixed success.\" \"We respect ..."
+    publishedDateTime: 2020-10-20T18:26:00Z
+    webUrl: "https://www.businessinsider.com/billionaire-romesh-wadhwani-ai-enterprise-google-microsoft-tom-siebel-ibm-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/5f8e5a29c21cfb0019468ec6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Machine Learning Operationalization Software Market is set to see Revolutionary growth with CAGR of 44.20% | MathWorks, SAS, Microsoft, ParallelM"
     excerpt: "Latest released the research study on Global Machine Learning Operationalization Software Market , offers a detailed overview of the factors influencing the global business scope. Machine ..."

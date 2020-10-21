@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking the power of technology to secure India’s urban development goals"
-    excerpt: "To discuss the unique ways in which the startup ecosystem is building solutions in collaboration with the public sector for boosting urban development, YourStory presented the webinar ‘Driving Digital Transformation for Urban India’ in association with AWS and Social Alpha."
-    publishedDateTime: 2020-10-19T06:56:00Z
-    webUrl: "https://yourstory.com/2020/10/power-technology-secure-indias-urban-development"
-    ampWebUrl: "https://yourstory.com/2020/10/power-technology-secure-indias-urban-development/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/power-technology-secure-indias-urban-development/amp"
+  - title: "Can India be the next artificial intelligence superpower? Here’s what industry leaders think"
+    excerpt: "India certainly has the potential to become the next artificial intelligence superpower, say industry leaders from several pre-eminent organizations"
+    publishedDateTime: 2020-10-21T05:25:00Z
+    webUrl: "https://www.dqindia.com/can-india-next-artificial-intelligence-superpower-heres-industry-leaders-think/"
+    ampWebUrl: "https://www.dqindia.com/can-india-next-artificial-intelligence-superpower-heres-industry-leaders-think/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/can-india-next-artificial-intelligence-superpower-heres-industry-leaders-think/amp/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 42
+      name: Dataquest
+      domain: dqindia.com
+    quality: 48
     images:
-      - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Untitleddesign12-1603094322651.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+      - url: "https://www.dqindia.com/wp-content/uploads/2017/05/digital-bridge.jpg"
         width: 800
-        height: 400
+        height: 401
         isCached: true
 
 secured: "1OWvycP5yAvhyKls0ogxcjm0UrEWzg+u+YKnEONxF0Jh9gST0MEwQTYrdhcDY8EI11ksikcaj8KBrqoZEyP4Uf5lpD1teeFKcdT0XazlXcZQ4iUI3oWui6SkPScuh5cIPTv96OhThU/oAlBuLHOrrmIzh04ITOuV+oEWpX7sQT1t/YwPYX5Qr2rkr0I2mdRaDQIxR6jU/y42CSk/vGa9LHYqTArevl9TE3xH6AFUTYiDfzLckgYnmQXNnHYHKZHnUc+XLVBir4BWKDihm/L8DQ+cNnAmnGT7oGVJQWFh5/TQMxkm+86mrHBjRcYvyiiZMMY00ttFaf7y8LITXa7wKHM10aBsGZI3MA0EZd5haQU=;OepFIlHd36V3YqlOqu9B0A=="

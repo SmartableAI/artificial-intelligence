@@ -12,9 +12,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Autos
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -22,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "HW+hUWL6sj2HP+9+MCME4Dnomg5ERQvL4DNtONg+3n6xTGE+DVa0Pz/8GHUF7koVnKu1MwL7IRQqlSSfn9Ugh/p9d67SeFd9rW21dZK6ujz/xH1JNHMiTJQSDSSGxH84jKrhq0IWbj3+bhtS73o6LHyWdMs3klcv6EHw5CVB+UiDjq7aYF+Q6rFcIFbgA1baf0O5CFQBPG1Iv75LB+O66JYHDslYPclCLZhFy6nD/FEslG7+aY7l2aquhu+6srdxVJ1XoiJbS0DTrnlxGvnjFWs26nhOtq5NmIIUahBawMKKLbQHA/nsJRKTHSDggagVgqkT/KIyA0mloBQMb0nMcmrV0QdG8QEvmVo3KUyLiBk=;cxHPdhRrUeW81TQ4rrPxqw=="
+secured: "Et/VyWYLLRQsS+yNu702MPO6C2Bc9GAeh4Kw1wxgAlIrpDEgt+p+39SUxopP6g9BRQMbcIwzW/3FoU14l1dVuyEKSE6s1kXL9ppq5fZS5itN+1ZeO/A9Ph50+y/1U+eKG0iTlexqv30HF4PmJiAiVdYQDX1N/VKU57IlgimB2ULIyqlBKNH72feoNVSAzR0xoO2BTHl+e5Wyc7vk4xsb+6Hj5MYT4+CFlCy639vIp0xCkBDXk4cfqAU7cyMVqVNHRK/67YfbX1Ohii3M3pu3drWTvOfH2AfnCcPnMXcIRPkEGasHMBk7UVmVsFd8TiztSgYBPH3Ywo+7BfuX3eU/AiKaaeqJYpsCg1+0CC0fAN0=;VfL/20rin+E21uShcq4DQw=="
 ---
 

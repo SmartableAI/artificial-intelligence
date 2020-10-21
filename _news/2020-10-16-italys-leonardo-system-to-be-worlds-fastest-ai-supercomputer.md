@@ -71,20 +71,6 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "EuroHPC: 4 Nvidia-based AI Supercomputers Coming from Atos, HPE; 4 More on Way"
-    excerpt: "European initiative will use Nvidia data center accelerators, networks and software for AI and high-performance computing. They include a system dubbed Leonardo, unveiled today at Italy’s CINECA research center,"
-    publishedDateTime: 2020-10-16T12:42:00Z
-    webUrl: "https://insidehpc.com/2020/10/eurohpc-4-nvidia-based-ai-supercomputers-coming-from-atos-hpe-4-more-on-way/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 35
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2019/01/eurohpc.jpg"
-        width: 522
-        height: 522
-        isCached: true
 
 secured: "7xn14BroOYuQlPELzuUI5lIyAJiJib6aRz1/aLaI598xKLO+1KhNQWkvWmMMgAgW9AmzzdWhrPBBw+407Fr9ZyPNFJKD8zlL+eyn4MJOESrTUtxYX7ooBhMLhOb5GADPoUyEDpOjYS7LzxeCrdqShZ9OiHVjMYWjezdmD23IS1CAXUhp1FLbVb4Tpg1LLtvm1/3I1lZAiQfnjcTW16vG2Ke5DUlqCHlQQussr4tbOnhQ/wkAGXxJ0WnsLMdAwTxxCjK071YKpG0HXL7feIclZdsVSPe99O0xdUY23u7XEZu0/kSgdvoQt7AUltqY59eQ0hSRALiFnxjIAo5B6D5oR2k7/m8+bWgoCrAfsNEEIhwb+msIGOTCrOJ7Wu+8b2lje0QntlSDqr0VPMf3mGSzFZaJoShxjFEP2D7p/Yez6c5B3HJaajnOGD3uNuPlsJfxRJvOoEjNcEdOs1SrrW8rK0ASabkpZXTkx6svOY+8NZ58eY9HWw84CHGCU5wGG6nAdIqofQpPY58B6dmMrOctwA==;PLrew+ILnAPjERLIb11HmQ=="
 ---

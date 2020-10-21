@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Flex Logix Announces Working Silicon Of Fastest And Most Efficient AI Edge Inference Chip"
+    excerpt: "Oct. 20, 2020 /PRNewswire/ -- Flex Logix® Technologies, Inc. today announced availability of its InferX™ X1, the industry's fastest AI inference chip for edge systems. InferX X1 accelerates ..."
+    publishedDateTime: 2020-10-21T05:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip-1029698291"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://mma.prnewswire.com/media/1315898/Flex_Logix_InferX_X1_Infographic.jpg"
+        width: 400
+        height: 201
+        isCached: true
   - title: "Startup Flex Logix launches ‘industry’s fastest’ edge AI inference chip"
     excerpt: "Semiconductor startup Flex Logix Technologies Inc. today announced the launch of its InferX X1 artificial intelligence chip, which it says can provide up to 10 times more performance than Nvidia Corp."
     publishedDateTime: 2020-10-20T13:22:00Z

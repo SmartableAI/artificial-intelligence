@@ -86,22 +86,6 @@ related:
         width: 794
         height: 356
         isCached: true
-  - title: "Deep Dive: The Power Of Data Analytics And AI For QSRs In A Complex Ordering Environment"
-    excerpt: "This Deep Dive explores how artificial intelligence and data analytics can help quick-service restaurants optimize their operations across a host of use cases."
-    publishedDateTime: 2020-10-16T12:10:00Z
-    webUrl: "https://www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/"
-    ampWebUrl: "https://www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 48
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/restaurant-data-analytics-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
   - title: "ECS Names Aaron Burciaga Senior Director of Artificial Intelligence and Analytics"
     excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Aaron Burciaga has been named senior director of artificial intelligence (AI) and analytics. In this role, Burciaga will work closely with ECS’s national security and intelligence division in the development of AI and machine learning (ML) solutions."
     publishedDateTime: 2020-10-20T12:59:00Z

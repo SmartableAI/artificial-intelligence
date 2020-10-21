@@ -56,6 +56,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "How billionaire Romesh Wadhwani is using his own fortune to build SymphonyAI to take on IBM, Microsoft, and Google by creating an enterprise AI giant"
+    excerpt: "Perhaps the closest major competitor is IBM, which offers its Watson AI platform to industries like healthcare and advertising. But Wadhwani brushed aside the potential rival, claiming its efforts to-date have only resulted in \"mixed success.\" \"We respect ..."
+    publishedDateTime: 2020-10-20T18:26:00Z
+    webUrl: "https://www.businessinsider.com/billionaire-romesh-wadhwani-ai-enterprise-google-microsoft-tom-siebel-ibm-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/5f8e5a29c21cfb0019468ec6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "mIOv8dO4F6+LSUV6s+M9/eXQ/JRsBt1B+hqsD9aoX1F0vDgQSoZqzPFi/3T9aEi4iWxoJ5vgzOsxXplQpa5hQ7oFeE+JVIyTonIbeY5c58pG08eDIgkHG1wK+6HSCMsXz6IHkvUO2oRhIgTQBYGtlPLH1RxigxHAZp4wcRUpvZUAwugEYxHM8Can7h1wdqNJSHu/daCxsSDMi56yZ7Oyi//RpvyGaRAZ3GaYz0CyVsFxCU5uySgNarcL/q6aIDKZvms30mhDjOJ82Ye54xGVyQxur0o/xRTTNCDjgtbERwI6HT9jXiO9WavPQWL3+N4Y/Xly2oU0A6vkfPfKkM8xp9LSW2jALiW30gt2TCVB0Dg=;ocnqkwtOcP55UVojKZnkgw=="
 ---

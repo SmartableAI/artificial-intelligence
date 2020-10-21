@@ -3,8 +3,8 @@ category: news
 title: "Defense Official Calls Artificial Intelligence the New Oil"
 excerpt: "The governments or countries that get the best datasets will unquestionably develop the best artificial intelligence, the Joint Artificial Intelligence Center's chief technology officer said."
 publishedDateTime: 2020-10-19T23:10:00Z
-originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2386956/defense-official-calls-artificial-intelligence-the-new-oil/"
-webUrl: "https://www.defense.gov/Explore/News/Article/Article/2386956/defense-official-calls-artificial-intelligence-the-new-oil/"
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2386956/defense-official-calls-artificial-intelligence-the-new-oil/utm_medium/twitter/"
+webUrl: "https://www.defense.gov/Explore/News/Article/Article/2386956/defense-official-calls-artificial-intelligence-the-new-oil/utm_medium/twitter/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 851
     isCached: true
 
-secured: "mTqOvDermug0jS7XE3CMkL1yJvlywsxe+ib9nGOG0GzW7FErah31Mq8PkEqWsIyltmKeMRRhATnaGYIKV7VVm4GGOESygVRzAjJbMBbGBP30VY8kk9mxLnTaexpzMNlWGRi2eE3VKx+tRju+h8yjaicI/RQoTwUc2rbeuIBdKIZGUF8CkuITyo1u36kRFHqsG5s/mh+cd/L/NGxpd5xT+NoG/WiFNvWXbP0KdFtitCXs9ysicmTte1kgGWrF8RRt6tkzWCCiadxEhW9hj9XF7H/Lh5qQIDrVCXCmytSYSjlAddxE89AAdtdOYZZwB94hmuWqRnGK4Oft9tJTkN1uoMRe/pHA9Db6WbSNv+tFf2I=;vcpiJSRskkxRxY7Esz+mtw=="
+secured: "sB4cwbnAV0nYGdAF0fnJZI+JHMXTIAC9MpBWBMbtyrStXUhSOLjJ0ye//lyfUBqFcFItm5pXcjZQV57MKNEaXnNoEuBKaE+TK2S+yVmJpnM5vvZJ06TYHGmxkQbJxezVzKtN3ohnk97qUGbZ3wb32Hq+GFpuKsZS1vNAo8nHCsMA1UkNHcLiOCicO30QAPQPinNU+8WtEYC318zZ6vLNcU8WHctJDpUWzBu1Om+bVuOOgnPhgdsT4POn8zlpq9whd+7TFwDI+IwxtwIVy4RHWmDWICEwkrPD4aOJOGj5MGf0ir/9e/nYYZ4h9MxjCKHLHba3dayv5ga9o8vPz13nJ55fCH5TuksZPkPOwFrHdws=;ljv0dxkGWhtNm+fWtE5IfQ=="
 ---
 

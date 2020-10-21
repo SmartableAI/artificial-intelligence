@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/2-additionalda.jpg"
         width: 794
         height: 356
-        isCached: true
-  - title: "Deep Dive: The Power Of Data Analytics And AI For QSRs In A Complex Ordering Environment"
-    excerpt: "This Deep Dive explores how artificial intelligence and data analytics can help quick-service restaurants optimize their operations across a host of use cases."
-    publishedDateTime: 2020-10-16T12:10:00Z
-    webUrl: "https://www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/"
-    ampWebUrl: "https://www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/mobile-order-ahead/2020/deep-dive-data-analytics-artificial-intelligence-qsrs-complex-ordering-environment/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 48
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/restaurant-data-analytics-457x305.jpg"
-        width: 457
-        height: 305
         isCached: true
   - title: "Using AI, Data Analytics to Enhance Person-Centered Care for Seniors"
     excerpt: "Artificial intelligence and data analytics tools could help older adults actively participate in their own care."

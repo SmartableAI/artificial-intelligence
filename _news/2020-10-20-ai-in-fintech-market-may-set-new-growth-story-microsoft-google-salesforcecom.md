@@ -42,6 +42,20 @@ related:
         width: 535
         height: 300
         isCached: true
+  - title: "How billionaire Romesh Wadhwani is using his own fortune to build SymphonyAI to take on IBM, Microsoft, and Google by creating an enterprise AI giant"
+    excerpt: "Perhaps the closest major competitor is IBM, which offers its Watson AI platform to industries like healthcare and advertising. But Wadhwani brushed aside the potential rival, claiming its efforts to-date have only resulted in \"mixed success.\" \"We respect ..."
+    publishedDateTime: 2020-10-20T18:26:00Z
+    webUrl: "https://www.businessinsider.com/billionaire-romesh-wadhwani-ai-enterprise-google-microsoft-tom-siebel-ibm-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/5f8e5a29c21cfb0019468ec6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Machine Learning Operationalization Software Market is set to see Revolutionary growth with CAGR of 44.20% | MathWorks, SAS, Microsoft, ParallelM"
     excerpt: "Latest released the research study on Global Machine Learning Operationalization Software Market , offers a detailed overview of the factors influencing the global business scope. Machine ..."
     publishedDateTime: 2020-10-20T07:30:00Z

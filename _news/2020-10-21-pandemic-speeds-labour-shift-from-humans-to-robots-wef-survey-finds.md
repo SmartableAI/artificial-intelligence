@@ -3,10 +3,10 @@ category: news
 title: "Pandemic speeds labour shift from humans to robots, WEF survey finds"
 excerpt: "Robots will destroy 85 million jobs at mid-sized to large businesses over the next five years as the COVID-19 pandemic accelerates changes in the workplace likely to exaggerate inequalities, a World Economic Forum (WEF) study has found."
 publishedDateTime: 2020-10-20T22:06:00Z
-originalUrl: "https://www.reuters.com/article/us-industry-robots-idUSKBN2752XQ"
-webUrl: "https://www.reuters.com/article/us-industry-robots-idUSKBN2752XQ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2752XQ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2752XQ"
+originalUrl: "https://www.reuters.com/article/industry-robots/pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds-idUSL8N2HB58A"
+webUrl: "https://www.reuters.com/article/industry-robots/pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds-idUSL8N2HB58A"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2752YF"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2752YF"
 type: article
 quality: 89
 heat: 89
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "6Ad/d9pyQDmRVLPRX7c6aOKmmu21OtfpjIX+41Dz4FPBFSg5YseoXZyr3oN54UgsKpWGnn49ZJmSoJ0PnkJPM1PAd4qnx/NZXLGhEzyXYTMEu1lg8RimTNYUaYv+O4FcaLJZqgQbR3nR+bz++JmVT16l03enzjCymtagdaYzY/D+FyLhdtPgdNTTTJ0R0JpbkYbaMrO2Q0XaZdg8cnf62pHGF7eq4swBehvg+d04UZAssD2LZzObmp3oexgaow/jy6WVy+yYzuYa3qVrUvVbXByUs4j7Y5yBQa61ok9VHd4srRtQnckvGDS6nH6EujlMs39l1FaPxX4ieZmdwZRaYy1G6TaGPAzSoILJ12SBaDo=;q700Tvs010V3ABZViCOvXA=="
+secured: "+aBwHVl0ddPDfKlKbV+dogBC1anH1XHMFkgIWxr21CfbXDGixdlWyEHot8aTei7XoVSBtmJpqn1aaGpEPAW8U700DdvBBuPQtGsNaabchHpMf1zTiiuai/c2ik918gYEPokrLCkGN4rR6SdPyWDWkmEOd5kllC9PTyP75F55NZAnnLLlBlwz4VJceziy/LxbbsARhIzH00IzLtx1o9t96yehYllQRudZcf7wBQGB7+jDyNLsUOvzl5+yXh6x59B58eCKAz9aTZkIFdF/7MpHQ0ZWdqrVfuZvW6n4MMyePy/B9JsBGxoveKzmyIktUYXmnioBOylYTmAwS8VfHlfpcEUzdVde7nZaD/Z+ygc3+14=;1Mn+OFYjemUuNYOjBtW/rQ=="
 ---
 
