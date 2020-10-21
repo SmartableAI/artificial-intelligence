@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/5415582/2147483647/strip/true/crop/3000x1575+0+191/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F23%2F97%2F561c42534f4b93d8caa2ac6e823f%2Fm1118219.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "How Artificial Intelligence is Causing Cyber Attacks"
-    excerpt: "Advances in artificial intelligence will benefit companies and improve with experience, but AI attackers can manipulate data and cause harm. Ambitious companies must plan to mitigate the potential risk of cyber-attacks now."
-    publishedDateTime: 2020-10-16T17:53:00Z
-    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-causing-cyber-attacks/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/How-Criminals-Use-Artificial-Intelligence-To-Fuel-Cyber-Attacks.jpg"
-        width: 1680
-        height: 840
         isCached: true
   - title: "Harnessing AI to ease the stress of managing autism"
     excerpt: "The protocols for the clinical trials had to be altered after covid, as hospital committees had to approve digital collection of video data remotely"

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-21-mit-csails-ai-revives-dead-languages-it-hasnt-seen-before.md",
+      "title": "MIT CSAIL’s AI revives dead languages it hasn’t seen before",
+      "excerpt": "Unfortunately, most lost languages have such minimal records that scientists can’t decipher them by using conventional machine-translation ... the only ones to apply AI to recovering long ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/",
+      "originalUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/3dadbcae-4130-40d1-ba13-35a874b8ab40-e1602808234308.png?w=1200&strip=all",
+          "width": 1156,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/amp/",
+      "publishedDateTime": "2020-10-20T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors.md",
       "title": "DeepMind open-sources the FermiNet, a neural network that simulates electron behaviors",
       "excerpt": "Researchers at DeepMind have open-sourced the FermiNet, a neural network that simulates the positions and arrangements of electrons.",
@@ -1457,58 +1510,6 @@
         "name": "insideHPC",
         "domain": "insidehpc.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-baidu-offers-quantum-computing-from-the-cloud.md",
-      "title": "Baidu offers quantum computing from the cloud",
-      "excerpt": "Following its developer conference last week, Baidu today detailed Quantum Leaf, a new cloud quantum computing platform designed for programming, simulating, and executing quantum workloads. It’s aimed at providing a programming environment for quantum infrastructure as a service setups,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/",
-      "originalUrl": "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/9e8a9be4-add4-432a-b207-b64b6ad60760-e1590588506627.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/amp/",
-      "publishedDateTime": "2020-09-23T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

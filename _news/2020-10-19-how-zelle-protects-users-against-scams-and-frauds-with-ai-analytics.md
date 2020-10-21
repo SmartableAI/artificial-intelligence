@@ -58,38 +58,6 @@ related:
         width: 2220
         height: 1248
         isCached: true
-  - title: "How AI & Data Analytics Can Solve Supply Chain Pitfalls"
-    excerpt: "The supply chain is an ecosystem that affects businesses around the world, and the COVID-19 pandemic has thrown a"
-    publishedDateTime: 2020-10-16T18:59:00Z
-    webUrl: "https://www.business2community.com/business-innovation/how-ai-data-analytics-can-solve-supply-chain-pitfalls-02354669"
-    ampWebUrl: "https://www.business2community.com/business-innovation/how-ai-data-analytics-can-solve-supply-chain-pitfalls-02354669/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-ai-data-analytics-can-solve-supply-chain-pitfalls-02354669/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2020/10/andy-li-CpsTAUPoScw-unsplash-900x600.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Additional data, advanced analytics improve performance of machine learning referral app"
-    excerpt: "Research scientists from Regenstrief Institute and Indiana University have further improved the performance of Uppstroms, a machine learning application that identifies patients who may need referrals to wraparound services,"
-    publishedDateTime: 2020-10-16T17:34:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/2-additionalda.jpg"
-        width: 794
-        height: 356
-        isCached: true
   - title: "ECS Names Aaron Burciaga Senior Director of Artificial Intelligence and Analytics"
     excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Aaron Burciaga has been named senior director of artificial intelligence (AI) and analytics. In this role, Burciaga will work closely with ECS’s national security and intelligence division in the development of AI and machine learning (ML) solutions."
     publishedDateTime: 2020-10-20T12:59:00Z

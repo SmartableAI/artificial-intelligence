@@ -115,20 +115,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Artificial Intelligence is Causing Cyber Attacks"
-    excerpt: "Advances in artificial intelligence will benefit companies and improve with experience, but AI attackers can manipulate data and cause harm. Ambitious companies must plan to mitigate the potential risk of cyber-attacks now."
-    publishedDateTime: 2020-10-16T17:53:00Z
-    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-causing-cyber-attacks/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/How-Criminals-Use-Artificial-Intelligence-To-Fuel-Cyber-Attacks.jpg"
-        width: 1680
-        height: 840
-        isCached: true
   - title: "How AI and the IoT are improving farming sustainability"
     excerpt: "Information is money. And for farmers, information is often the deciding factor between a good and a bad harvest. As artificial intelligence (AI) and the"
     publishedDateTime: 2020-10-20T20:33:00Z

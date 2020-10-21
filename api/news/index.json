@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-21-saudi-launches-national-artificial-intelligence-strategy.md",
+      "title": "Saudi launches national artificial intelligence strategy",
+      "excerpt": "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-saudi-economy-ai-idUSKBN2761LZ",
+      "originalUrl": "https://www.reuters.com/article/us-saudi-economy-ai-idUSKBN2761LZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538303953&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K11J",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2761LZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761LZ",
+      "publishedDateTime": "2020-10-21T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-women-increasingly-entering-into-artificial-intelligence-and-analytics-domain-heres-why.md",
       "title": "Women Increasingly Entering into Artificial Intelligence and Analytics Domain, Here’s Why",
       "excerpt": "A survey by Great Learning explains the reasons behind the growing footsteps of women in the analytics and artificial intelligence industry Great Learning announced the results of a survey conducted by them on the participation and involvement of women in ...",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -137,6 +188,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-mit-csails-ai-revives-dead-languages-it-hasnt-seen-before.md",
+      "title": "MIT CSAIL’s AI revives dead languages it hasn’t seen before",
+      "excerpt": "Unfortunately, most lost languages have such minimal records that scientists can’t decipher them by using conventional machine-translation ... the only ones to apply AI to recovering long ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/",
+      "originalUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/3dadbcae-4130-40d1-ba13-35a874b8ab40-e1602808234308.png?w=1200&strip=all",
+          "width": 1156,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/amp/",
+      "publishedDateTime": "2020-10-20T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -286,7 +390,7 @@
       "originalUrl": "https://www.reuters.com/article/industry-robots/pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds-idUSL8N2HB58A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -675,7 +779,7 @@
       "originalUrl": "https://www.autonews.com/technology/toyota-ai-ventures-invests-canadian-robotic-kitchen-startup",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -813,7 +917,7 @@
       "originalUrl": "https://www.engadget.com/google-photos-ai-premium-printing-service-160034151.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1084,101 +1188,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-biped-robot-maker-agility-raises-20-million.md",
-      "title": "Biped robot maker Agility raises $20 million",
-      "excerpt": "(Reuters) - Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out ...",
-      "sourceUrl": null,
-      "webUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
-      "originalUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701GG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG",
-      "publishedDateTime": "2020-10-20T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-microsoft-partners-with-spacexs-starlink-satellite-service-for-azure-space-cloud-platform.md",
-      "title": "Microsoft partners with SpaceX’s Starlink satellite service for Azure Space cloud platform",
-      "excerpt": "Microsoft says it’s taking the next giant leap in cloud computing, in partnership with SpaceX and its Starlink broadband satellite constellation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/",
-      "originalUrl": "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/10/201020-azurespace-630x479.png",
-          "width": 630,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/",
-      "publishedDateTime": "2020-10-20T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

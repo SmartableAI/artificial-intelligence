@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-19T13:00:00Z
 originalUrl: "https://www.businesswire.com/news/home/20201019005260/en/Artificial-Intelligence-Technology-Solutions-Updates-Revenue-Growth-from-100-to-133-for-Periods-Ending-Q3-vs-Q1"
 webUrl: "https://www.businesswire.com/news/home/20201019005260/en/Artificial-Intelligence-Technology-Solutions-Updates-Revenue-Growth-from-100-to-133-for-Periods-Ending-Q3-vs-Q1"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mms.businesswire.com/media/20201019005260/en/790367/23/RAD_Logo_New_Landscape.jpg"

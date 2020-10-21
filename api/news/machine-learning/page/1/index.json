@@ -221,7 +221,7 @@
       "originalUrl": "https://yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1151,49 +1151,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-sensiml-to-present-at-st-developers-conference.md",
-      "title": "SensiML to Present at ST Developers Conference",
-      "excerpt": "They will walk through an example application showing the process start-to-finish, highlighting key opportunities, success stories, and even potential pitfalls of AutoML-based algorithm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/sensiml-to-present-at-st-developers-conference-9391739",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/sensiml-to-present-at-st-developers-conference-9391739",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-14-new-machine-learning-concepts-can-help-develop-novel-drugs.md",
       "title": "New machine learning concepts can help develop novel drugs",
       "excerpt": "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields.",
@@ -1262,6 +1219,49 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-14T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-sensiml-to-present-at-st-developers-conference.md",
+      "title": "SensiML to Present at ST Developers Conference",
+      "excerpt": "Corporation, a leading developer of AI tools for building intelligent IoT endpoints, today announced that Chris Rogers, CEO and Chris Knorowski, CTO",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/22/c2216860-0a3c-5af2-ba20-9a5b036c0854/5f86fae1532d1.image.jpg?resize=400%2C208",
+          "width": 400,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WFMZ-TV",

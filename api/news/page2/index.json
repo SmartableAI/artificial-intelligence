@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-20-biped-robot-maker-agility-raises-20-million.md",
+      "title": "Biped robot maker Agility raises $20 million",
+      "excerpt": "(Reuters) - Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out ...",
+      "sourceUrl": null,
+      "webUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
+      "originalUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701GG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG",
+      "publishedDateTime": "2020-10-20T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-microsoft-partners-with-spacexs-starlink-satellite-service-for-azure-space-cloud-platform.md",
+      "title": "Microsoft partners with SpaceX’s Starlink satellite service for Azure Space cloud platform",
+      "excerpt": "Microsoft says it’s taking the next giant leap in cloud computing, in partnership with SpaceX and its Starlink broadband satellite constellation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/",
+      "originalUrl": "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/10/201020-azurespace-630x479.png",
+          "width": 630,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/",
+      "publishedDateTime": "2020-10-20T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-photoshops-ai-neural-filters-can-tweak-age-and-expression-with-a-few-clicks.md",
       "title": "Photoshop’s AI neural filters can tweak age and expression with a few clicks",
       "excerpt": "These filters include a number of simple overlays and effects but also tools that allow for deeper edits, particularly to portraits. With neural filters, Photoshop can adjust a subject’s age and facial expression,",
@@ -63,7 +158,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -102,7 +197,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -114,7 +210,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/20/phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -166,7 +262,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -428,7 +524,7 @@
       "originalUrl": "https://yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1145,109 +1241,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-this-ai-powered-sky-replacement-tool-is-smart-enough-to-change-reflections-too.md",
-      "title": "This AI-Powered Sky Replacement Tool Is Smart Enough to Change Reflections Too",
-      "excerpt": "AI-fueled image editing software is getting smarter every week, and Skylum's newest tool will let you replace the entire sky in an image, including in reflections.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-ai-powered-sky-replacement-tool-is-smart-enough-to-1845411467",
-      "originalUrl": "https://gizmodo.com/this-ai-powered-sky-replacement-tool-is-smart-enough-to-1845411467",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t6bae2y0jcayz2tynoyz.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-ai-powered-sky-replacement-tool-is-smart-enough-to-1845411467/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-powered-sky-replacement-tool-is-smart-enough-to-1845411467/amp",
-      "publishedDateTime": "2020-10-19T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-list-of-machine-learning-concepts.md",
-      "title": "List of machine learning concepts",
-      "excerpt": "Teaching yourself Python machine learning can be a daunting task if you don’t know where to start. Fortunately, there ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/vocabulary/list-of-machine-learning-concepts/",
-      "originalUrl": "https://thenextweb.com/vocabulary/list-of-machine-learning-concepts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/img/placeholder/bg-0.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/vocabulary/list-of-machine-learning-concepts/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/vocabulary/list-of-machine-learning-concepts/amp/",
-      "publishedDateTime": "2020-10-19T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

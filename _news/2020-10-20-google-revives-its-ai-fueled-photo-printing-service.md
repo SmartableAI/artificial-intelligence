@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-photos-ai-premium-printing-servi
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-photos-ai-premium-printing-service-160034151.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "'AIZEN' AI banking-as-a-Service, Empowering data platform to launch lending services"
+    excerpt: "The financial services industry has seen drastic technology-led changes over the past few years. While some of the big tech giants have launched their own Fintech verticals, there are many brands that are also increasingly looking to offer financial services to their customers."
+    publishedDateTime: 2020-10-20T15:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-1029699791"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1315038/Embedded_finance__AIZEN_s_AI_banking_as_a_Service.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "7 Steps to Deploying AI-powered Self-service during the New Normal"
     excerpt: "It’s no surprise that AI-powered self-service is gaining traction with customers. Even before the pandemic created a New Normal, 73% of consumers said they wanted to solve their issues on their own without having to engage with a human customer service agent."
     publishedDateTime: 2020-10-17T04:14:00Z

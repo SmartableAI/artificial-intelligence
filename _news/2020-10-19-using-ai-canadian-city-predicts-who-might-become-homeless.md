@@ -47,17 +47,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
-  - title: "UB makes first venture capital investment into high-tech startup Buffalo Automation"
-    excerpt: "Buffalo Automation closed on a total of $500,000, with the rest of the funding coming from Varia Ventures. UB’s Buffalo Innovation Seed Fund is capitalized through a $10 million investment from New York state’s Buffalo Billion economic development program,"
-    publishedDateTime: 2020-10-16T17:42:00Z
-    webUrl: "https://www.bizjournals.com/buffalo/news/2020/10/16/university-buffalo-buffalo-automation.html"
-    ampWebUrl: "https://www.bizjournals.com/buffalo/news/2020/10/16/university-buffalo-buffalo-automation.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/buffalo/news/2020/10/16/university-buffalo-buffalo-automation.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
 secured: "tCLKSids65P5xOwioA/E4FLA4DxjA76ov3bGdh/r5cE/OL9msot7Bpj6I0l8x8se+dwowme/UDXG4MkUrLCRlAA9hMRWDYIj+p1opDvoqSAmqCt3a8nQV7UohbKGB6zXbJ9FL8CsVXdT+dTxrgwuSPaawY+XyrA08hZkzIdGj+O8y91Bn91YsJMzCoPVWrLyXe+sgCDJoHXs0k2GvoL+QqPZmn7xEBuA15N6rc3RWDW6bdEOJDarZmKi++GPoCzNbkajL4m6iZ/B3RpaLBx3eLXqZNQJaI5kYH7hVjvedLLoJ4dtDCJ6xx/YkGVb+3GrK94+VyqvMG9V3IrsWDn72Pdv+YaziF+qRpsp/MTXYWA=;/e1jA3RLXlfiAfJmcYw9jA=="
 ---

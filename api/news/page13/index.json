@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-08-inside-edge-draftkings-mlb-premium-stats.md",
+      "title": "Inside Edge DraftKings MLB Premium Stats",
+      "excerpt": "Please note that both these options require an active RotoWire paid subscription to maintain access. Get full access to Inside Edge projections inside ... your own custom projection model using the premium stats listed below – or just use them to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.rotowire.com/daily/mlb/inside-edge.php?site=DraftKings&slate=ATL+vs+MIA&type=Showdown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RotoWire",
+        "domain": "rotowire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-grid-ai-from-the-makers-of-pytorch-lightning-emerges-from-stealth-with-186m-series-a-to-close-the-gap-between-ai-research-and-production.md",
+      "title": "Grid AI, From the Makers of PyTorch Lightning, Emerges From Stealth With $18.6m Series A to Close the Gap Between AI Research and Production",
+      "excerpt": "Grid AI, from the makers of PyTorch Lightning, emerges from stealth with $18.6m Series A to close the gap between AI Research and Production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production",
+      "originalUrl": "https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201008005227/en/828546/23/sisters_SymWord_1128x191_%281%29.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-elucid-bios-vascucap-enters-ibm-imaging-ai-marketplace.md",
       "title": "Elucid Bio’s vascuCAP enters IBM Imaging AI Marketplace",
       "excerpt": "Elucid Bioimaging Inc. (“Elucid Bio”) today announced that vascuCAP, Elucid Bio’s AI-enabled software for evaluating atherosclerotic plaque stability from CTA, has been added to the IBM Imaging AI Marketplace,",
@@ -1082,100 +1168,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks.md",
-      "title": "3 ways criminals use artificial intelligence in cybersecurity attacks",
-      "excerpt": "Bad actors use machine learning to break passwords more quickly and build malware that knows how to hide, experts warn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/",
-      "originalUrl": "https://www.techrepublic.com/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/",
-      "publishedDateTime": "2020-10-07T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-predicting-defender-trajectories-in-nfls-next-gen-stats.md",
-      "title": "Predicting Defender Trajectories in NFL’s Next Gen Stats",
-      "excerpt": "NFL’s Next Gen Stats (NGS) powered by AWS accurately captures player and ball data in real time for every play and every NFL game—over 300 million data points per season—through the extensive use of sensors in players’ pads and the ball. With this rich set of tracking data, NGS uses AWS machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-defender-trajectories-in-nfls-next-gen-stats/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-defender-trajectories-in-nfls-next-gen-stats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/06/1-Diagram_Update-544x630.jpg",
-          "width": 544,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

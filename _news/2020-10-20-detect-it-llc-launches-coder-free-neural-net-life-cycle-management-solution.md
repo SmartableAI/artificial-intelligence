@@ -27,8 +27,8 @@ images:
 related:
   - title: "Detect-It LLC Launches Coder-Free Neural Net Life Cycle Management Solution"
     excerpt: "It LLC today launched its smart software product, Detect-It™ Net-Developer. Net-Developer is an enterprise-wide Neural Net Life"
-    publishedDateTime: 2020-10-20T23:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/detect-it-llc-launches-coder-free-neural-net-life-cycle-management-solution-864729116.html"
+    publishedDateTime: 2020-10-20T19:00:00Z
+    webUrl: "https://www.prnewswire.com/ae/news-releases/detect-it-llc-launches-coder-free-neural-net-life-cycle-management-solution-864729116.html"
     type: article
     provider:
       name: PR Newswire

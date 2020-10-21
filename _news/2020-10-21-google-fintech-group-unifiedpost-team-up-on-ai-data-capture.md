@@ -3,10 +3,10 @@ category: news
 title: "Google, FinTech group Unifiedpost team up on AI data capture"
 excerpt: "Google’s AI solution may be utilized to handle document processing linked to over 400,000 European businesses."
 publishedDateTime: 2020-10-21T05:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+originalUrl: "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+webUrl: "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
 type: article
 quality: 69
 heat: -1
@@ -52,6 +52,22 @@ related:
     quality: 61
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e409faad21a294c41ea03%2F0x0.jpg%3FcropX1%3D614%26cropX2%3D3072%26cropY1%3D65%26cropY2%3D1447"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "5 reasons you can’t miss Hong Kong Fintech Week 2020"
+    excerpt: "The fully virtual event, attended by global fintech leaders, will be held from Nov. 2 to 6 in Hong Kong. Sign up now to be a part of it."
+    publishedDateTime: 2020-10-21T10:57:00Z
+    webUrl: "https://technode.com/2020/10/21/5-reasons-you-cant-miss-hong-kong-fintech-week-2020/"
+    ampWebUrl: "https://technode.com/2020/10/21/5-reasons-you-cant-miss-hong-kong-fintech-week-2020/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/10/21/5-reasons-you-cant-miss-hong-kong-fintech-week-2020/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 44
+    images:
+      - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/10/Fintech-Week-1200-x-675.png?fit=1200%2C675&ssl=1"
         width: 1200
         height: 675
         isCached: true
@@ -203,6 +219,6 @@ related:
       domain: www.bna.bh
     quality: 4
 
-secured: "a0W/vd++k3d7/J0vTeORGTR26mtn9SJyRRWFXH8cWpzHKRePWVg4tVg9YOsUe7q9FMhyykoFJzgSeKnEJIyeEG5xZb1JJMjkRkTMZkHLPOZPXVfB36ZlqU+2ETBMH2mxQEkSHTeb81ibao9CLnoWXjLOxeHiealux0hpv9G4ND5jOE4HCsH0YOPtz7ZL8ZDCDk5chFz0fltjZFb/gEjSEuJQ5qhxiwsLVvFON5EsU7toS5SZD6Mei7f36fJSqtxj0JuicFvOZPNx9c9WidDtbD6YBIOCXcq9XbWpBt9iF/kIH+WT+OYxt1lvZNnsJC+/cYNpJ5WscYsj/vPzDd9kA0wz3dFsQbsAtb2OM1EpHp91BOfNEUTahnWaVFEYZsY3TAWHvrnYg64fAqcW124jrfglJU2+mUTdnDYGCDw5gdVW3k6+ayA39uXYQTX1yHIVJVcOQVeV8Co5JHkX6uORaVYXBPuRliia7vjMT8ry1B846m44tyVYCDppDTQRXae+fHFOqRDL/guh+hXlzn5rnA==;2J52nnJUcyRNDVzXnOI3kA=="
+secured: "NdNFPWYByzKeK6Npp58TLf+h3xhlQlnxbRJc/SsuuhYOf6/e3lwYhjxuYwEUG8996fHVOdx8HMjGmqhhnbfxUbEZ3a/kmiLW8RM/D/l5aAc/KhvRY1rNOOsE0pECF4h0QK0uKmGzXtxDfJsgPLthi2kZgZk2TQ0vUHWkbp/te4F4A4ZQeCc4f+ega3XjsG9XbAMTM8HLO5hR83rSxLuFu6WL925/rQWVUQVwDiqy1gTjtooRVx4kyM+8k2DhKHwq0vZXRghcZjxXBTRsn9ywpZq7W0mhs5o1yxliwaI+8HhlS7Im7aBBVwnW+OeWm43cajopiLQirK+nvH2sA71ELvW3GM34o425+i5k+a3vyvnBV1lsn5M2YgyawG+7sXTnxuMMdXfIpj5EfxmA56C9VzwcH7JRjjdHI2119YojayqZ+09ckHkarBw8fXB4B1AJugQ505JoIJ+sX+Br+E/V6ddXZ+YaABp1SLNm/Pdb3iheSLk8wdSch/CvzNJSysuhhBNO/mqJdbvhnGu7v681LQ==;WvfkLlqovWfwsYCsnHOA7Q=="
 ---
 

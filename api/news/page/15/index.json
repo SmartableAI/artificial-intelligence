@@ -2,6 +2,100 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-07-dexterous-robots-are-coming-to-the-us-air-force.md",
+      "title": "Dexterous robots are coming to the US Air Force",
+      "excerpt": "The military branch has awarded a contract to a robotics firm to develop artificial intelligence-based dexterous robots.",
+      "sourceUrl": null,
+      "webUrl": "https://calvinayre.com/2020/10/07/ventures/dexterous-robots-are-coming-to-the-us-air-force/",
+      "originalUrl": "https://calvinayre.com/2020/10/07/ventures/dexterous-robots-are-coming-to-the-us-air-force/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://calvinayre.com/wp-content/uploads/2020/10/dexterous-robots-are-coming-to-the-us-air-force.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://calvinayre.com/2020/10/07/ventures/dexterous-robots-are-coming-to-the-us-air-force/amp/",
+      "cdnAmpWebUrl": "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/10/07/ventures/dexterous-robots-are-coming-to-the-us-air-force/amp/",
+      "publishedDateTime": "2020-10-07T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CalvinAyre",
+        "domain": "calvinayre.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-edtech-startup-winuall-raises-inr-147-cr-from-prime-venture-partners-and-beenext.md",
+      "title": "Edtech Startup Winuall Raises INR 14.7 Cr From Prime Venture Partners and BEENEXT",
+      "excerpt": "The company said it will use the fresh capital to enhance product capabilities and hire across technology, product, AI and business development teams",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/357349",
+      "originalUrl": "https://www.entrepreneur.com/article/357349",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602061319-online1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357349",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357349",
+      "publishedDateTime": "2020-10-07T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic.md",
       "title": "Researchers probe into RNA using deep learning to develop sensors for a COVID-19 diagnostic",
       "excerpt": "Two teams at the Wyss Institute have demonstrated the use of NLP and CV techniques to optimize RNA sequences to develop improved sensors for the SARS-CoV-2 genome that is responsible for COVID-19.",
@@ -1116,100 +1210,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-where-artificial-intelligence-meets-urban-planning.md",
-      "title": "Where Artificial Intelligence Meets Urban Planning",
-      "excerpt": "First-year doctoral student is disseminating an AI program capable of changing the world of urban planning. Before you ever step into a new coffee shop, years of urban planning have gone into building that brick-and-mortar building in your neighborhood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/",
-      "originalUrl": "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucf.edu/news/files/2020/10/AI.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/?amp",
-      "cdnAmpWebUrl": "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/?amp",
-      "publishedDateTime": "2020-10-06T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UCF Today",
-        "domain": "ucf.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development.md",
-      "title": "Healthcare Leaders Pioneer A New Collaboration Model To Transform The Future Of Drug Development",
-      "excerpt": "The reinvention of drug development through partnership was the the theme of this breakthrough discussion of leaders. Through collaboration and use of AI in drug development new barriers can be broken",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/",
-      "originalUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c684c02408a41404d0e10%2F0x0.jpg",
-          "width": 1097,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/amp/",
-      "publishedDateTime": "2020-10-06T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

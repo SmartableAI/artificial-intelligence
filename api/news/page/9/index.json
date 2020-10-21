@@ -2,6 +2,85 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-13-tesla-to-deploy-limited-full-self-driving-beta-next-week.md",
+      "title": "Tesla to Deploy Limited Full Self-Driving Beta Next Week",
+      "excerpt": "Tesla TSLA recently announced that it will launch limited models of full self-driving (FSD) vehicles on Oct 20. The fleet of fully-autonomous vehicles to be rolled out next week will be first available for a small number of careful and expert drivers for testing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13",
+      "originalUrl": "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13?amp",
+      "publishedDateTime": "2020-10-13T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities.md",
+      "title": "Global Artificial Intelligence Market (2020 to 2026) - Bringing AI to Edge Devices Presents Opportunities",
+      "excerpt": "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-luxury-institute-the-10-new-rules-for-the-21st-century-data-driven-enterprise.md",
       "title": "Luxury Institute: The 10 New Rules for the 21st-Century Data-Driven Enterprise",
       "excerpt": "Today's headlines declare that data is the new oil, the essential fuel that powers the digital economy. In the more advanced consumer goods",
@@ -1065,110 +1144,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-android-studio-41-simplifies-using-tensorflow-lite-models-and-android-emulator.md",
-      "title": "Android Studio 4.1 simplifies using TensorFlow Lite models and Android Emulator",
-      "excerpt": "Version 4.1 includes easier implementation of on-device TensorFlow Lite models, the ability to run Android Emulator directly in the IDE, and support for foldable form factors. There’s also a new ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/",
-      "originalUrl": "https://venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/android_studio_wide-e1494818664896.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/amp/",
-      "publishedDateTime": "2020-10-12T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-study-reveals-big-regional-divides-in-views-on-ai-risks.md",
-      "title": "Study reveals big regional divides in views on AI risks",
-      "excerpt": "New research on opinions about using AI in decision-making suggests concerns are highest in Latin America and the Caribbean and lowest in East Asia.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/12/study-reveals-big-regional-divides-in-views-on-ai-risks/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/12/study-reveals-big-regional-divides-in-views-on-ai-risks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-12T164927.997-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/12/study-reveals-big-regional-divides-in-views-on-ai-risks/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/12/study-reveals-big-regional-divides-in-views-on-ai-risks/amp/",
-      "publishedDateTime": "2020-10-12T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

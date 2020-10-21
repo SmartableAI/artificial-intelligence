@@ -51,17 +51,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "UB makes first venture capital investment into high-tech startup Buffalo Automation"
-    excerpt: "Buffalo Automation closed on a total of $500,000, with the rest of the funding coming from Varia Ventures. UB’s Buffalo Innovation Seed Fund is capitalized through a $10 million investment from New York state’s Buffalo Billion economic development program,"
-    publishedDateTime: 2020-10-16T17:42:00Z
-    webUrl: "https://www.bizjournals.com/buffalo/news/2020/10/16/university-buffalo-buffalo-automation.html"
-    ampWebUrl: "https://www.bizjournals.com/buffalo/news/2020/10/16/university-buffalo-buffalo-automation.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/buffalo/news/2020/10/16/university-buffalo-buffalo-automation.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
 secured: "1KHRx1g/TLoCX7J0Uub/WRMlv2xBIWoUmqCriFNhzfHUVt+p3A0euuC70rFoqef7QW6+WVhv7gyW9GRuZx+iU3/PIyJHcGQ8COw8Ng9lmKHWC6RPAaZP8JpkCQVEtZiq5ZR+l77VN7WzzpvMjUoTYnXW2998jY//MN2Rwph1IlrT+V2XK0+cY3ukdsxnLgLk8oN5Ua6S3RSSD555hbIlyJoItidLB+G+iHF9bXd3CTCvw8kSJeYaKp8UJwhxRZhGIdbQuP3DF30mVgAvW5RSwMDUQN5r5GqcHWyII8rhxByfW21f3ONXU0OEa6rxZyIdcuAnCHAABqzN+/YWJjiJwSe9+pKQR890NoCG0Chsqh0=;vdmfy0/pY2UlnnZhBQJSeg=="
 ---

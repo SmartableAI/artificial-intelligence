@@ -46,6 +46,20 @@ related:
         width: 1198
         height: 599
         isCached: true
+  - title: "What capabilities does the first AI satellite have?"
+    excerpt: "PhiSat-1 is a satellite that consists of a new hyperspectral-thermal camera and on-board artificial intelligence processing that is capable of recognising and discarding cloudy images which can save almost 30% of bandwidth."
+    publishedDateTime: 2020-10-21T08:04:00Z
+    webUrl: "https://www.analyticsinsight.net/intel-welcomes-first-satellite-made-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-19.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "pMTCRk0KhlU6zfCWw8dSXiRw5ZFdGuaRHpq1MOJ0LvlUJe+oDpC0+otwKAt0BMZRBnz7F/S70Y+Xs67AdFJtttxAGxNHiMSfmcoSCCBTVg+f3WoUZRL6pFvQyL6huj4xf3Y0luZYUvFzS3ISkOcbxYrY/mFRDC+SCATnRQKLOz1LVrMVWMGTFu51xljMBi/mP2Si4zuLydyw0W9qSQdnQxZoolUo1SCWTY/uh+bVKSvXi4e4icBmu6ODp6jWPdMBMMMWcsvNvsJ9rfgq3QG//rCuhVBEqQw8ViCaj5UuXZ61hcyuBqIiqaGaf+FDWgy4UMoTgr+dheVrzF9t0msb2JxoQHqtYUkE5w/PZmhPhc0iJCKyLA9RbturqmGq4X3+q+8vCn9i3QahMs/YBhbOECVaq8uOzfD1vSdaDuu8e4FLGeFyF73UcmHf3ofT7r2kBjOopQ5Vn+k1/bsWJM7B0tGtLkgbeldxf7rjqGyJC5H5ME+UiEGGxMXyGep2U0/9xy7vXvMliCcyyF3Hp211zw==;7X026JSgl6fvJ26VUXG0wg=="
 ---

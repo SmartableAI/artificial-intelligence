@@ -2,6 +2,100 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-06-where-artificial-intelligence-meets-urban-planning.md",
+      "title": "Where Artificial Intelligence Meets Urban Planning",
+      "excerpt": "First-year doctoral student is disseminating an AI program capable of changing the world of urban planning. Before you ever step into a new coffee shop, years of urban planning have gone into building that brick-and-mortar building in your neighborhood.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/",
+      "originalUrl": "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucf.edu/news/files/2020/10/AI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/?amp",
+      "cdnAmpWebUrl": "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/?amp",
+      "publishedDateTime": "2020-10-06T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UCF Today",
+        "domain": "ucf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development.md",
+      "title": "Healthcare Leaders Pioneer A New Collaboration Model To Transform The Future Of Drug Development",
+      "excerpt": "The reinvention of drug development through partnership was the the theme of this breakthrough discussion of leaders. Through collaboration and use of AI in drug development new barriers can be broken",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/",
+      "originalUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c684c02408a41404d0e10%2F0x0.jpg",
+          "width": 1097,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/amp/",
+      "publishedDateTime": "2020-10-06T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-oss-presents-ai-on-the-fly-and-data-center-in-the-sky-solutions-at-nvidias-gpu-technology.md",
       "title": "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology ...",
       "excerpt": "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,",
@@ -1057,100 +1151,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-nvidia-going-after-more-of-intels-data-center-business-with-new-processor-chips.md",
-      "title": "NVIDIA Going After More of Intel's Data Center Business With New Processor Chips",
-      "excerpt": "When announcing new artificial intelligence (AI) capabilities developed by his company earlier this year, NVIDIA (NASDAQ:NVDA) CEO Jensen Huang outlined a new type of processor that will become increasingly important in the years ahead: the data processing unit (DPU).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594099%2Fsemiconductor.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
-      "publishedDateTime": "2020-10-05T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-these-are-the-best-deals-from-ebays-fall-refresh-sale.md",
-      "title": "These are the best deals from eBay's Fall Refresh sale",
-      "excerpt": "Save an extra 15% on things like AirPods, the DJI Mavic Mini, DeWalt tools and more. Plus: Up to 90% off classic PC games.",
-      "sourceUrl": null,
-      "webUrl": "https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
-      "originalUrl": "https://www.cnet.com/news/these-are-the-best-deals-from-ebays-fall-refresh-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

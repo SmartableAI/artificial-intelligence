@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/intel-s
 ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
 type: article
-quality: 86
-heat: 96
+quality: 88
+heat: 98
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/12/0ef71a3d-f6fd-4038-a6c4-94fdb1c3d872/thumbnail/1200x675/906bc9dcb0f7cb25bed7cb466fbdfed4/thumb.jpg"
@@ -47,6 +48,6 @@ related:
         height: 675
         isCached: true
 
-secured: "p5ku1VavX3kGgqEZo9vCMjy5YUsmmkzFXr46zRmcUqA6VPScQtKfHOoA7gS9FBh3eM0GIuJteMrVdRPHT7uRulrA/vNR3w/DNICtlb/gEwbOVE/Bweo/57r42vYDbi2SA1ARHb2ODmXXy8+MU14qv+AScgxHn3H74x481ab689iIzwBn8QA3hg3rknXTMdK3ephBcRdnJhFM/IpLGu0N3d6KBP+NICWCho/YKBAhkElh4fr7MEdw+KJBdQfD2AWePXXUl/4EYbGj5tMoEa5boNywrgYbVX8EamJotcJe3dokPVjtZDk5BCEVKYu5Q3GeB14A5LWKt9v8MCGzpD1FpSwp8PXYTpSsxw8pMOOd5Q0=;m83QbccJ1LHEyk9CKWWEsQ=="
+secured: "9w9wytBR/Qcrksqn7OW/4qujHF50FSVEzBJQQuwVW+nrQ8Pv19MbYVdCHmhosjjiacrM4fkFcaHuxCjoSAnfxhU24/GeL/d8jWLcCapq/WMrMsbqQGFDorJ6VSS4GqnshD7gpyTX7AMQ2YVAXtRxQUjfdp88IHALlUmn9vLWllqQaxtEdCu+T130wdpJWiLdBcVccBCAsEHbAaf2593v0Np01+P9PAlbkv0viZI8Wh2W1NudUz1Q7SMA1Sfefe3YdJrjpAv8Qmo/sa+PceAs58rm+Pdnu/WoOag4/1L1td/f2bn0/AcOLiJhrw5n0CBnJZGZ1Pe+iVaWdrmhVimrqN5ZWsUKpjvjyHiqNKcxLYONQd8uPuD+o26F+z7grgJJoqwR2mUGDXwiXuDTJywvSu9EaPJZsQk9IkRUKsI5P7XqOy58Sq4qxodbeizHXLSA2GIwXIAz4eNaBOJsZdya4GQnGS/AxqtZPPQO7uZFHSVBOc4oj5mLTep/IoPzqD6WZe1knuT7OnHiEFjiJk90Vg==;PlfZOSWQJ9aI27hpbEIjuw=="
 ---
 

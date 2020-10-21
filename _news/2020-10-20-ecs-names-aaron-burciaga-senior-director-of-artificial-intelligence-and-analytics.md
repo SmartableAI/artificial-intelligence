@@ -57,22 +57,6 @@ related:
         width: 2220
         height: 1248
         isCached: true
-  - title: "How AI & Data Analytics Can Solve Supply Chain Pitfalls"
-    excerpt: "The supply chain is an ecosystem that affects businesses around the world, and the COVID-19 pandemic has thrown a"
-    publishedDateTime: 2020-10-16T18:59:00Z
-    webUrl: "https://www.business2community.com/business-innovation/how-ai-data-analytics-can-solve-supply-chain-pitfalls-02354669"
-    ampWebUrl: "https://www.business2community.com/business-innovation/how-ai-data-analytics-can-solve-supply-chain-pitfalls-02354669/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-ai-data-analytics-can-solve-supply-chain-pitfalls-02354669/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2020/10/andy-li-CpsTAUPoScw-unsplash-900x600.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "How Zelle Protects Users Against Scams And Frauds With AI, Analytics"
     excerpt: "An interview with Jamie Armistead, vice president for banking app Zelle, on how the P2P app uses analytics and AI to protect users from fraudsters."
     publishedDateTime: 2020-10-19T13:08:00Z
@@ -88,22 +72,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/shutterstock_623744642-457x301.jpg"
         width: 457
         height: 301
-        isCached: true
-  - title: "Additional data, advanced analytics improve performance of machine learning referral app"
-    excerpt: "Research scientists from Regenstrief Institute and Indiana University have further improved the performance of Uppstroms, a machine learning application that identifies patients who may need referrals to wraparound services,"
-    publishedDateTime: 2020-10-16T17:34:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-additional-advanced-analytics-machine-referral.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/2-additionalda.jpg"
-        width: 794
-        height: 356
         isCached: true
   - title: "Additional data, advanced analytics improve performance of machine learning referral app."
     excerpt: "Research team affiliations include Regenstrief, IU Fairbanks School of Public Health at IUPUI, IU School of Medicine and Eskenazi Health."

@@ -48,14 +48,30 @@ related:
   - title: "Google, FinTech group Unifiedpost team up on AI data capture"
     excerpt: "Google’s AI solution may be utilized to handle document processing linked to over 400,000 European businesses."
     publishedDateTime: 2020-10-21T05:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+    webUrl: "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "5 reasons you can’t miss Hong Kong Fintech Week 2020"
+    excerpt: "The fully virtual event, attended by global fintech leaders, will be held from Nov. 2 to 6 in Hong Kong. Sign up now to be a part of it."
+    publishedDateTime: 2020-10-21T10:57:00Z
+    webUrl: "https://technode.com/2020/10/21/5-reasons-you-cant-miss-hong-kong-fintech-week-2020/"
+    ampWebUrl: "https://technode.com/2020/10/21/5-reasons-you-cant-miss-hong-kong-fintech-week-2020/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/10/21/5-reasons-you-cant-miss-hong-kong-fintech-week-2020/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 44
+    images:
+      - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/10/Fintech-Week-1200-x-675.png?fit=1200%2C675&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Triyono Gani, Head of Digital Finance Innovation at Indonesia’s Financial Services Authority, Compares Fintech with Traditional Banking"
     excerpt: "Triyono Gani, head of digital finance innovation at Indonesia's Financial Services Authority, compares Fintech with traditional banking."
     publishedDateTime: 2020-10-21T03:13:00Z

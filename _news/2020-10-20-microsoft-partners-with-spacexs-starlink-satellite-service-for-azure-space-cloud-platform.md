@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-sa
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
 type: article
 quality: 94
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/AzureSpace_3D2.png?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
+    excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
+    publishedDateTime: 2020-10-21T11:34:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Azure Space – cloud-powered innovation on and off the planet"
     excerpt: "Microsoft is taking the next giant leap in cloud computing – to space. I am excited to share the work we are doing to make Azure the platform and ecosystem of choice for the mission needs of the space community with Azure Space."
