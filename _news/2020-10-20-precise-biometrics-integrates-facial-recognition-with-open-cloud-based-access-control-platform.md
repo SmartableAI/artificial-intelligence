@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. plans voice biometrics upgrade and shift to cloud for DoD system"
+    excerpt: "The U.S. Department of Defense (DoD) intends to move the remaining on-premise elements of its Automated Biometric Identification System to Amazon Web Services’ cloud ahead of a series of upgrades,"
+    publishedDateTime: 2020-10-21T19:31:00Z
+    webUrl: "https://www.biometricupdate.com/202010/u-s-plans-voice-biometrics-upgrade-and-shift-to-cloud-for-dod-system"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/04165700/Defense-Department-wants-to-perform-real-time-biometric-identification-through-walls1.jpg"
+        width: 1000
+        height: 668
+        isCached: true
   - title: "NIST face biometrics accuracy update shows same top vendors for people wearing masks"
     excerpt: "The National Institute of Standards and Technology (NIST) has updated the results of its testing for the accuracy of facial recognition algorithms identifying people wearing masks with a group of"
     publishedDateTime: 2020-10-19T16:02:00Z

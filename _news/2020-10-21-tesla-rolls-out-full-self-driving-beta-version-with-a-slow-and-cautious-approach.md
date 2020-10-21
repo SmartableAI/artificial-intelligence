@@ -75,6 +75,22 @@ related:
         width: 2564
         height: 1236
         isCached: true
+  - title: "Tesla Is Now Beta-Testing 'Full Self Driving' in Real-World Traffic"
+    excerpt: "Tesla rolls out Full Self Driving in limited number of vehicles FSD has been promised to offer Level 5 autonomy Legal liability remains untested in serious crashes of semi-autonomous vehicles Tesla has begun rolling out what it calls Full Self Driving in ..."
+    publishedDateTime: 2020-10-21T18:26:00Z
+    webUrl: "https://www.autoweek.com/news/technology/a34438615/tesla-is-now-beta-testing-full-self-driving-in-real-world-traffic/"
+    ampWebUrl: "https://www.autoweek.com/news/technology/amp34438615/tesla-is-now-beta-testing-full-self-driving-in-real-world-traffic/"
+    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp34438615/tesla-is-now-beta-testing-full-self-driving-in-real-world-traffic/"
+    type: article
+    provider:
+      name: Autoweek
+      domain: autoweek.com
+    quality: 74
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fsd-1603292399.jpg?crop=1.00xw:0.893xh;0,0.0493xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
     excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
     publishedDateTime: 2020-10-17T15:46:00Z

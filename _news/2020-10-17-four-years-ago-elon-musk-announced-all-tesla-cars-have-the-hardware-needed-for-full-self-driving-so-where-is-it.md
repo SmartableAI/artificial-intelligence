@@ -79,6 +79,22 @@ related:
         width: 2564
         height: 1236
         isCached: true
+  - title: "Tesla Is Now Beta-Testing 'Full Self Driving' in Real-World Traffic"
+    excerpt: "Tesla rolls out Full Self Driving in limited number of vehicles FSD has been promised to offer Level 5 autonomy Legal liability remains untested in serious crashes of semi-autonomous vehicles Tesla has begun rolling out what it calls Full Self Driving in ..."
+    publishedDateTime: 2020-10-21T18:26:00Z
+    webUrl: "https://www.autoweek.com/news/technology/a34438615/tesla-is-now-beta-testing-full-self-driving-in-real-world-traffic/"
+    ampWebUrl: "https://www.autoweek.com/news/technology/amp34438615/tesla-is-now-beta-testing-full-self-driving-in-real-world-traffic/"
+    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp34438615/tesla-is-now-beta-testing-full-self-driving-in-real-world-traffic/"
+    type: article
+    provider:
+      name: Autoweek
+      domain: autoweek.com
+    quality: 74
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fsd-1603292399.jpg?crop=1.00xw:0.893xh;0,0.0493xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Tesla Officially Starts Rollout of Full Self-Driving Beta"
     excerpt: "Tesla CEO Elon Musk announced on Twitter last night that the electric car company’s Full Self-Driving beta update is officially being rolled out. “Will be extremely slow and cautious, as it should,” Musk added an uncharacteristically serious tone."
     publishedDateTime: 2020-10-21T16:55:00Z

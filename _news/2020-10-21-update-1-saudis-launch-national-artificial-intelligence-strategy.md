@@ -57,6 +57,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Saudi Arabia launches national artificial intelligence strategy"
+    excerpt: "Saudi Arabia launched a national strategy on Wednesday to become a global leader in artificial intelligence (AI) by 2030, Saudi Press Agency reported."
+    publishedDateTime: 2020-10-21T19:22:00Z
+    webUrl: "https://www.thestar.com.my/news/world/2020/10/22/saudi-arabia-launches-national-artificial-intelligence-strategy"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EJakAp7KWVsUh1qkApQwjhx0FVW2SmLegSOXXxg5QQX44v458z90dRgsgscSSDe8CKphF/qWJfE3+JxGRQN1d7bCA3Xugw69azLaC8qtf9m1X/Sm1c+ooQbYPvO/t75yq+eYGy0FvrHoSMP5zGJT33GIc6IX1mUFXzRyMsr07hgA8lSSfmTE9W6Mpbf+Crzgfgs7LhWFwL6UcVzBwBb4vpPgogYknpWdAobz7QR96bWE/0/103HLgJ2sfBDW8SfJP3MHOHKCKYVqSVBbWXt1dM9NnGNGmTrZzSFuilRn+6ixdnTp6B+bosu0UkSmlKvqZs4c7ITZTTw8McYVJZJj5p+TWkamD/KH16tkb1WzB7I=;dd+AYvVi97C04R/heiqh8Q=="
 ---

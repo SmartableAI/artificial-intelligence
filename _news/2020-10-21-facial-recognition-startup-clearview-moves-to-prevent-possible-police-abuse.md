@@ -95,6 +95,22 @@ related:
         width: 497
         height: 396
         isCached: true
+  - title: "Activists Build Facial Recognition to ID Cops Who Hide Their Badges"
+    excerpt: "In order to hold police accountable when they try to hide their identities, a growing number of activists are developing facial recognition tools that identify cops, The New York Times reports — a striking inversion of the way cops tend to use facial recognition on protestors and suspects."
+    publishedDateTime: 2020-10-21T19:32:00Z
+    webUrl: "https://futurism.com/the-byte/activists-build-facial-recognition-id-cops-hide-badges"
+    ampWebUrl: "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/10/activists-build-facial-recognition-id-cops-hide-badges-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "First facial recognition surveillance camera tests completed – Police"
     excerpt: "The Unitary Police Service announced today (Tuesday) that it has completed the first phase of testing initiated in August for facial and license plate r"
     publishedDateTime: 2020-10-20T11:16:00Z

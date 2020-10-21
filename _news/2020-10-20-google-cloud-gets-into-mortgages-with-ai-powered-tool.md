@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "axle ai Brings AI-Powered Media Search to Adobe Creative Cloud Applications"
-    excerpt: "New integrations with Adobe applications for remote teams to debut at Adobe MAX online conference. Boston, MA, USA – October 16, 2020 – axle ai is excited"
-    publishedDateTime: 2020-10-17T01:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17946357/axle-ai-brings-ai-powered-media-search-to-adobe-creative-cloud-applications"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17946357"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17946357"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.getnews.info/wp-content/uploads/2020/10/1602865966.jpeg"
-        width: 468
-        height: 206
-        isCached: true
   - title: "Google’s Lending DocAI service uses AI to fast-track mortgage applications"
     excerpt: "Google LLC is jumping into the mortgage industry with the launch of a new artificial intelligence-driven cloud service aimed at helping lenders reduce the time it takes to process loan applications. Announced today,"
     publishedDateTime: 2020-10-19T13:22:00Z

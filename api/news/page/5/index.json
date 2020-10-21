@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-16-whispers-hearing-aids-use-ai-to-boost-speech-and-reduce-noise.md",
+      "title": "Whisper’s hearing aids use AI to boost speech and reduce noise",
+      "excerpt": "Whisper, a startup developing AI-powered hearing aids that self-tune over time, emerged from stealth today with $50 million. CEO Dwight Crow says the funds will be put toward the company’s go-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/",
+      "originalUrl": "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/content3A2F2Fcom.rarlab.rar.provider2Fexternal_files2FAndroid2Fdata2Fcom.rarlab.rar2Ffiles2F_rartemp_open_16002199995922F_P2I940425202-e1600220152706.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/amp/",
+      "publishedDateTime": "2020-10-15T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-gm-will-test-fully-driverless-cars-in-sf-later-this-year.md",
       "title": "GM will test fully driverless cars in SF later this year",
       "excerpt": "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ...",
@@ -1119,58 +1170,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-possible-reality-puts-your-face-on-a-video-game-character.md",
-      "title": "Possible Reality puts your face on a video game character",
-      "excerpt": "“Your face fits with the model of the character ... “There are so many reasons people want to do this, but recognition is one of them,” Isbell said.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/15/possible-reality-puts-your-face-on-a-video-game-character/",
-      "originalUrl": "https://venturebeat.com/2020/10/15/possible-reality-puts-your-face-on-a-video-game-character/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/possible.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/15/possible-reality-puts-your-face-on-a-video-game-character/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/possible-reality-puts-your-face-on-a-video-game-character/amp/",
-      "publishedDateTime": "2020-10-15T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

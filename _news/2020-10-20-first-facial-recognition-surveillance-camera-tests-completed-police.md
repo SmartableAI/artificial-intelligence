@@ -105,6 +105,22 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "Activists Build Facial Recognition to ID Cops Who Hide Their Badges"
+    excerpt: "In order to hold police accountable when they try to hide their identities, a growing number of activists are developing facial recognition tools that identify cops, The New York Times reports — a striking inversion of the way cops tend to use facial recognition on protestors and suspects."
+    publishedDateTime: 2020-10-21T19:32:00Z
+    webUrl: "https://futurism.com/the-byte/activists-build-facial-recognition-id-cops-hide-badges"
+    ampWebUrl: "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/10/activists-build-facial-recognition-id-cops-hide-badges-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Facial-recognition tenant referencing tool now available to agents"
     excerpt: "As part of an update to its referencing service, Goodlord customers will now be able to use an authentication service utilising facial recognition to match photos of applicants to the photo on their ID."
     publishedDateTime: 2020-10-20T23:02:00Z

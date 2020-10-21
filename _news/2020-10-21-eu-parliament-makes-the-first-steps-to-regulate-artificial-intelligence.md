@@ -25,17 +25,6 @@ images:
 
 related:
   - title: "U.S. government agencies to use AI to cull and cut outdated regulations"
-    excerpt: "The White House Office of Management and Budget (OMB) said Friday that federal agencies will use artificial intelligence to eliminate outdated, obsolete, and inconsistent requirements across tens of pages of government regulations."
-    publishedDateTime: 2020-10-17T01:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-regulations-white-house/u-s-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations-idUSKBN27130L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27130L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27130L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-  - title: "U.S. government agencies to use AI to cull and cut outdated regulations"
     excerpt: "The White House Office of Management and Budget (OMB) said Friday that federal agencies will use artificial intelligence to eliminate outdated, obsolete, and inconsistent requirements across tens of thousands of pages of government regulations."
     publishedDateTime: 2020-10-18T05:42:00Z
     webUrl: "https://www.businessinsider.com/us-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations-2020-10"

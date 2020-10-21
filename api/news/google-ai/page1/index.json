@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -116,7 +116,7 @@
       "originalUrl": "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -818,6 +818,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-07-trust-algorithms-the-army-doesnt-even-trust-its-own-ai-developers.md",
+      "title": "Trust Algorithms? The Army Doesn’t Even Trust Its Own AI Developers",
+      "excerpt": "It’s unreasonable that minor version updates of TensorFlow and PyTorch — key machine learning libraries created and maintained by Google and Facebook, respectively — would suddenly be a threat. It’s also unlikely that a widely-used open-source ...",
+      "sourceUrl": null,
+      "webUrl": "https://warontherocks.com/2020/10/trust-algorithms-the-army-doesnt-even-trust-its-own-ai-developers/",
+      "originalUrl": "https://warontherocks.com/2020/10/trust-algorithms-the-army-doesnt-even-trust-its-own-ai-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://warontherocks.com/wp-content/uploads/2020/10/cruickshank.jpg",
+          "width": 1330,
+          "height": 888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T00:51:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "War on the Rocks",
+        "domain": "warontherocks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-deepminds-demis-hassabis-on-ai-doing-better.md",
       "title": "DeepMind's Demis Hassabis on AI Doing Better",
       "excerpt": "The global pandemic has focused attention on the importance of science and technology. What role can AI play in solving the big scientific questions of the coming decades? And how should we respond to the challenges this new technology brings?",
@@ -1466,49 +1509,6 @@
       "provider": {
         "name": "Mashable",
         "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-accelerate-your-applications-with-rocm.md",
-      "title": "Accelerate Your Applications with ROCm",
-      "excerpt": "Frameworks are essential for Machine Learning (ML) applications, and the most popular ones include TensorFlow and PyTorch. TensorFlow is widely used and is an open-source platform that allows researchers and developers to build ML applications quickly and ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2020/09/accelerate-your-applications-with-rocm/",
-      "originalUrl": "https://insidehpc.com/2020/09/accelerate-your-applications-with-rocm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/09/ROCm_pic1.png",
-          "width": 700,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T06:01:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-28-accelerate-your-applications-with-rocm.md",
+      "title": "Accelerate Your Applications with ROCm",
+      "excerpt": "Frameworks are essential for Machine Learning (ML) applications, and the most popular ones include TensorFlow and PyTorch. TensorFlow is widely used and is an open-source platform that allows researchers and developers to build ML applications quickly and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2020/09/accelerate-your-applications-with-rocm/",
+      "originalUrl": "https://insidehpc.com/2020/09/accelerate-your-applications-with-rocm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/09/ROCm_pic1.png",
+          "width": 700,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T06:01:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-baidu-offers-quantum-computing-from-the-cloud.md",
       "title": "Baidu offers quantum computing from the cloud",
       "excerpt": "Following its developer conference last week, Baidu today detailed Quantum Leaf, a new cloud quantum computing platform designed for programming, simulating, and executing quantum workloads. It’s aimed at providing a programming environment for quantum infrastructure as a service setups,",
@@ -1354,49 +1397,6 @@
       ],
       "topics": [
         "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-google-maps-keep-getting-better-thanks-to-deepminds-ml-efforts.md",
-      "title": "Google Maps Keep Getting Better, Thanks To DeepMind’s ML Efforts",
-      "excerpt": "DeepMind researchers used Graph Neural Networks, a type of machine learning architecture for spatiotemporal reasonin",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/google-maps-deepmind-machine-learning-research/",
-      "originalUrl": "https://analyticsindiamag.com/google-maps-deepmind-machine-learning-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/09/henry-perks.jpg",
-          "width": 1734,
-          "height": 1153,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Google AI",
         "AI"
       ]

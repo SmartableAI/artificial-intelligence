@@ -2,15 +2,12 @@
 category: news
 title: "Amazon announces price cuts on GPU instances in AWS Sagemaker"
 excerpt: "Amazon Web Services is cutting the price of GPU instances on Sagemaker, its fully managed machine learning service. AWS said customers will see up to 18% in price reductions on all ml.p2 and ml.p3 ..."
-publishedDateTime: 2020-10-07T22:22:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+publishedDateTime: 2020-10-08T04:46:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
 type: article
-quality: 101
-heat: 111
-published: true
 
 provider:
   name: ZDNet
@@ -25,22 +22,6 @@ topics:
   - AI
   - AI Hardware
 
-related:
-  - title: "AWS Cuts Prices for SageMaker GPU Instances"
-    excerpt: "Amazon Web Services is cutting prices on its SageMaker managed service for machine learning and deep learning as it attracts more financial services,"
-    publishedDateTime: 2020-10-07T21:41:00Z
-    webUrl: "https://www.datanami.com/2020/10/07/aws-cuts-prices-for-sagemaker-gpu-instances/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 71
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/cloud_money_shutterstock_chanpipat.jpg"
-        width: 934
-        height: 482
-        isCached: true
-
-secured: "SPlOsqh8tQUM80Hyta0VMQHjsbOsEgYX6ReGHKc5L9SlKcxHXu6FVkwEONnQoM+hWeCfjiZTDT8upiYuMx6esDEj3o7KfAENXCe+PdL9w2Bapum61OqzW3NYNHrmlGcuh+pkZh1AN/oGaCRRhaeCCt1UcEB/KpSFxVFv8CBpM1QkWNaG/G0mVpy4qAhLphzv8TOYAHIu576IvPubb4sIuMgneY/dq0AbpCfwzAzEsvEgZu0trOPmkcYnal1DHVdlyEq2zskAXYJ/r2P5EidSuyf6uecYvd7X1lJDjl/rdM6YY5rNQLOWg+O/oD6H/fzGWrwn8MWCZkE+KVk+liD+emryqYTJH1qI0IcI/wN+hbU=;QaYb2eH00KW7h2AXcyIr3g=="
+secured: "CUUnqE3cSstcg+Qln0+3sbr4DzaNOP7zstvpYYJXya7krTi53zFEdo/4NUBdx2k9OjOxOzKgegHTjKIvuku6ofrxc55GQSjhscMD45oRpTjcxYhJBr54Mr8VrpJawPWzt/OyYmX9XHu547SuU9EeJznB1qx3fApOqrh56evbAz1IGrJRDMXmX+0CmJ4BSgCNXjJgBLj8ohWKwJTi6FgnDgLdYPvCfjWCaRZfzvC8Axc2615467wDqwfgdNgezfck3iOo3PTvNex8Q8rAMZQeRk7sixLqZSNAvlQggXL2JBua2VRhg4IoNYq0Bj+piiYwEeWG0X9o2dq12QOyZ+eYjlHSvBdPSPqlb9EVU5G1AXY=;UMJT1BS33tS3BDV3siGR3w=="
 ---
 

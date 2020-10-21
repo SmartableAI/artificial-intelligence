@@ -39,6 +39,20 @@ related:
         width: 730
         height: 499
         isCached: true
+  - title: "U.S. plans voice biometrics upgrade and shift to cloud for DoD system"
+    excerpt: "The U.S. Department of Defense (DoD) intends to move the remaining on-premise elements of its Automated Biometric Identification System to Amazon Web Services’ cloud ahead of a series of upgrades,"
+    publishedDateTime: 2020-10-21T19:31:00Z
+    webUrl: "https://www.biometricupdate.com/202010/u-s-plans-voice-biometrics-upgrade-and-shift-to-cloud-for-dod-system"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/04165700/Defense-Department-wants-to-perform-real-time-biometric-identification-through-walls1.jpg"
+        width: 1000
+        height: 668
+        isCached: true
   - title: "Face biometrics a big winner as everything from driver’s licenses to KYC goes mobile, remote"
     excerpt: "Digital identity credentials like mobile driver’s licenses and facial recognition made up many of the most-read biometrics news stories of the week. People in Florida may soon be able to use"
     publishedDateTime: 2020-10-17T18:08:00Z

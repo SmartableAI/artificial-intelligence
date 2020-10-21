@@ -75,6 +75,22 @@ related:
         width: 2564
         height: 1236
         isCached: true
+  - title: "Tesla Is Now Beta-Testing 'Full Self Driving' in Real-World Traffic"
+    excerpt: "Tesla rolls out Full Self Driving in limited number of vehicles FSD has been promised to offer Level 5 autonomy Legal liability remains untested in serious crashes of semi-autonomous vehicles Tesla has begun rolling out what it calls Full Self Driving in ..."
+    publishedDateTime: 2020-10-21T18:26:00Z
+    webUrl: "https://www.autoweek.com/news/technology/a34438615/tesla-is-now-beta-testing-full-self-driving-in-real-world-traffic/"
+    ampWebUrl: "https://www.autoweek.com/news/technology/amp34438615/tesla-is-now-beta-testing-full-self-driving-in-real-world-traffic/"
+    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp34438615/tesla-is-now-beta-testing-full-self-driving-in-real-world-traffic/"
+    type: article
+    provider:
+      name: Autoweek
+      domain: autoweek.com
+    quality: 74
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fsd-1603292399.jpg?crop=1.00xw:0.893xh;0,0.0493xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
     excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
     publishedDateTime: 2020-10-17T15:46:00Z
@@ -133,6 +149,6 @@ related:
       domain: infosurhoy.com
     quality: 8
 
-secured: "8k/mOnXMn/SFIzS32wnXbbCZJZ4I52Ib8H5mnFrOlBLj34YT0cJZZ1civAW2QoYKZDd7Wv6SmWiAt351+ctEyum31+vg+zH3f1bCabtQY9RcNgsWVAAgk4f/OrEcArDCsU+BOd/N84vTcFKECO1B+EuPvFjCgw5ZjAlLQ092y3STwX8VXRC+L7WGAf+3lD6jv4oRDet7eJyqRB6URi5n/Oh26x6oB/MvfPwrILTr4JJjT1CMvmA3QF9PP7yTOqD4kRa30AIEEieQJFhRCD6bwORyNDQ+t+hbKzxch/zH4uj2Kv8Y0ladCdJl+J5d/oni/OIUtR58CZk+MYg7cG6U4nNr5bpdpHWudTa1KOmcHYU=;+z4qGec40BG1aQhNxWTHxg=="
+secured: "gcBBtq5cVojXkdOMKJz691kus9tZBNq6cPtAp8wFU21B+ryB2DOeLdaOh6r02+cYLZJUG7i7D0P1hlMPVBXAIK873EgqLyqISRjwaxhQ1eoLzb5G1Kod2oGARPieFQrvJ6rAw+fPFC1xL+bEFn2XivawpAX3WwhhlW0a1xitJL1/7F0tjGvn88kYMafZfKN3YpRBykez3TvZBHnPSwwjsmX2ZwABkYcpCeQWpADRQFXNznAr6k5FGrL+5BDQS+g4N7ByHrYejVXvJZVF2lpI2CDf77i6oaRJz5Qls1n3AZPFWJK9xmbfI2dSA54cYkmKQUNMs6EscaErpay6NomLaYyn9pPQNUejwbu0A6+Bd9jn8cpjcmu/dqLPtG0imaHMHGhyQpZFt0aWgNONyArNz8hJKyb8YzDcE0rqiFo7/4/jfzyCalGWx5wsJFwDlcpHMW032/9P3sAx6bENS+/7DZPsyEBOF2wIYCHoDj5vek36gcI16YfNeIBbthv6NHPIqSCBN6vVCCFTw4Yud71iIA==;xGf/sFJNy1TNKQ6p3WTJtA=="
 ---
 

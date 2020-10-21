@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-21T17:40:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/providing-compassionate-nursing-care-in-an-age-of-artificial-intelligence-1029706443"
 webUrl: "https://markets.businessinsider.com/news/stocks/providing-compassionate-nursing-care-in-an-age-of-artificial-intelligence-1029706443"
 type: article
-quality: 48
+quality: 46
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -68,6 +67,6 @@ related:
         height: 430
         isCached: true
 
-secured: "z/p578AKozdlIxn+fNsbDY2o029Z5y3nUbCJT/chGB7rCC8crd+Hzxe0qqXOYh/Wm/LpZ12a8dt9D4r7/wnE9p9Tfi29jh9ffIDl4VwUyiFEOMyUS6NhOJOFE1jXkoN+EOoiccttoDVxOssZ/2mIL5Z18+Gg/82nJqnLtHa4sCqu6SGu8e2W2wrF4p7cZaQW0ERxn67x8LgYiYJgilcx7NzSZeLPCrncKW0YoqB+F4hMfqpShvI/00PpNUoz+2c3oQAyqljk7PNU1xdLhIqhID5HiCcl31NwzDT7tncxOUKpNQuYCmXkGlO7lMBM2VjuWW6Cs1d0Vd151Tu66mH+NfmRjNyHYFIZ/DvSQZkeFGI=;k38WpTwLHkzUVE2uHutLcg=="
+secured: "0O7Wih+PP3wspGJe3LHB2UGRELC21ERmYpl1hJ0GukKBudROAWrVkmySdxKwa/LDUir1MU6rH83mkJ5Kw5Y9aAbrXlbxxRR6ui9V/ZgwoUs6cpVhL4FBu3GkTFL0R79aoQoMTUksWUge7UAxOv/q4ivr+pR9+J06WQzXTcn7Dp0cBCWdPNkBN1s+xZlninHt8VMIBpRe9KYL0FHCv2l9PUzCdQlKziG+vWNUa0sxHN22biq6X5OHPw35QtTbEY3PjGIuc5xujm2lHBp7iRjkVhOxCEaz98bBCLPxbl/8edjVjMu9uPfzb2iFLzD8AIbCNlgBlpSswmU7BQp4V3Ai3SO8S2NwDgMHoq0hOyz/ymY=;YHHvtJXrcEeT80iXge8hiQ=="
 ---
 
