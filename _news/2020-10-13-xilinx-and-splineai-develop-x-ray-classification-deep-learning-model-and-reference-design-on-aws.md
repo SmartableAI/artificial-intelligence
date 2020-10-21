@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS"
-excerpt: "CloseCurlyDoubleQuote; The solution&CloseCurlyQuote;s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model updates, geographically ..."
-publishedDateTime: 2020-10-13T13:00:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
-webUrl: "https://stockhouse.com/news/press-releases/2020/10/13/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and"
+excerpt: "The solution’s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model ..."
+publishedDateTime: 2020-10-13T14:03:00Z
+originalUrl: "https://www.oaoa.com/news/business/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and-reference-design-on/article_75dad927-f650-50ba-8fec-bf432dd17330.html"
+webUrl: "https://www.oaoa.com/news/business/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and-reference-design-on/article_75dad927-f650-50ba-8fec-bf432dd17330.html"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "nOMKZW8uKGOtqNCKwqouuUMrkBC0LaLiTK4eK/l3Tn5RQ14DPG8lFlzTT9XLLIOsHncOvxJ9fyO8WFCybyUoYJJzZ+5pEXT1uY1z9SKx3ONs8Qf8+P1r98gLakEZmx0S0KkHFytZ2vnRf2T3uKm8VAQ1Yr1olrNGbMRFeZn4aXxKBLHIVnicB6ESvhavBV60huDcjJQ0lMnrsKD+ziKWUpzMix0HX5X7kiuhB4Eeuvv1KV3Qt1s9ACmeCJxudD9HUa7MEySUx6wN75q+iR3YvCbFCB40/cxSlYj8OuSU66ThZCcGwavPe+UkFnx2tGbfEy5BwZiszdmWYsezgz1uI+jqBnQzQ2VXZClh/jKSkQY=;HATUXtkWqT+2HX4oAQw+jA=="
+images:
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
+    isCached: true
+
+secured: "kxN/hjtz9YXuDjcbZEIqu3jSPSnmlWKHX9q5U1zkfcb7nbxnL0sLKMpq94sQgAEei79s4jJSMprMqTvrNQAcj3AxgpSBOhPUUMSaa7hn01ZbKDfnZJDKan5Vd2C3TZiK9fdZp08hmAaKMkSFYZv3Nc+pwqoKB+eTvqUcWWZz7Tw7PfpO58p8UFR638e/eDOmbXDi4fXEFH/DYPJYCJ1T5APfqureP5pT0h4qvYFC84697ib0MD1Yx3OPvUTFTDarxF2ahCTtz9/ghlIOZfXT0FZguWNEGyr6gfJErk3AsMP7URyWlqo2uO7VgWQOhzmduIzkiwBAtc/qveBYLhQoc076+GmQPh3/5KUyH04BStI=;x6m2oHSck/zp15MfHSKoeA=="
 ---
 

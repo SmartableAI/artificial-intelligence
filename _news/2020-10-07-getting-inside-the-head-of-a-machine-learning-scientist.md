@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1256603051.jpg?w=1200&#038;strip=all"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-startup-clearvie
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
 type: article
 quality: 73
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://m.wsj.net/video/20181224/122418upstreamfacrec/122418upstreamfacrec_512x288.jpg"
         width: 512
         height: 288
+        isCached: true
+  - title: "Clearview Says It's Up to Government to Set Facial-Recognition Rules"
+    excerpt: "\"It's not our job to set departments' policies as a technology company,\" CEO Hoan Ton-That said of law-enforcement use of Clearview AI's controversial tools, at WSJ Tech Live 2020. Photo: Ronald L. Gl"
+    publishedDateTime: 2020-10-20T22:49:00Z
+    webUrl: "https://www.wsj.com/video/clearview-says-it-up-to-government-to-set-facial-recognition-rules/E11354BD-BC7C-4FCD-B597-86660F4B5A41.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "http://m.wsj.net/video/20201020/102020techliveclearviewpolicynotourjob/102020techliveclearviewpolicynotourjob_1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "4RcIxZ9sWvkdGNPBQ1zayZJ2meY2X2QGDvZC22FMIn0hVnNasnesXKPO6B2llWz7lK2rax8Z9QiHY4crOY8bkzQCWvzvmanHqobcq+MZjjn9VgztJhF4es+jE+w5asui47aPEMwG6VT8m8TbasUZgZehl4S9HaufP6Bh6XNXd/mb/qOo9tbOSQcprNg0HMxWcKpJaun7sW4O0FOUB1U/3OtSE2d38rFArCMcUdABixd6S5xV38Wfuh+FUZS236VMq+wY4nM02oOxc+mTWtolUwOUfBhucL8qLd/TgfDTXzWtgTq31SUk2sLOtDKuE6cXzVkZClVeRlFPQNf2jZam1nB2nr8p0FokTpFIoehwfrk=;EHjsGdQ/q1mXSgNT2u7k7g=="

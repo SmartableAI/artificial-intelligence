@@ -57,6 +57,20 @@ related:
         width: 645
         height: 363
         isCached: true
+  - title: "Where do you stand? 10 women debate tech topics like AI, innovation and ethics in healthcare"
+    excerpt: "Ten women in the tech world came together last week for a debate series hosted by 1776 and CVS to battle it out on topics like AI, biases, innovation and data sharing. The debaters were paired with topics that fit their expertise, but were randomly ..."
+    publishedDateTime: 2020-10-20T18:33:00Z
+    webUrl: "https://technical.ly/philly/2020/10/20/debate-ethics-artificial-intelligence/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 60
+    images:
+      - url: "https://technical.ly/philly/wp-content/uploads/sites/2/2020/10/Screen-Shot-2020-10-20-at-1.26.03-PM.png"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Building Health Care AI in Europe’s Strict Regulatory Environment"
     excerpt: "Many observers blame Europe’s tough laws regarding data privacy, which are more stringent than those in the United States and China. But our survey suggests that regulation isn’t the problem. Rather,"
     publishedDateTime: 2020-10-16T13:32:00Z

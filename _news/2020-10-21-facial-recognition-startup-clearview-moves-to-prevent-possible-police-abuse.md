@@ -47,6 +47,20 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Clearview Says It's Up to Government to Set Facial-Recognition Rules"
+    excerpt: "\"It's not our job to set departments' policies as a technology company,\" CEO Hoan Ton-That said of law-enforcement use of Clearview AI's controversial tools, at WSJ Tech Live 2020. Photo: Ronald L. Gl"
+    publishedDateTime: 2020-10-20T22:49:00Z
+    webUrl: "https://www.wsj.com/video/clearview-says-it-up-to-government-to-set-facial-recognition-rules/E11354BD-BC7C-4FCD-B597-86660F4B5A41.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "http://m.wsj.net/video/20201020/102020techliveclearviewpolicynotourjob/102020techliveclearviewpolicynotourjob_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "h6QumKrjE0O0gsLPJeykCVm2pKDJ0XgmslkZk/kwacNA1DJBYzDwMxBsahmJ3xWaKXJ7ADKG3tC8vtzUiXQ8D1E9eJ+lzCfHltn46n0oNWea+VfMRV9CRC5uLlEC0D3SdAk2FjbQJjuG9S7Qz7L4gvVOkGZE/alY/L79MC/KSqq68DI0JxD/oimq3prJ97RcDPy8/KQpaahudJPWlSrK9paHpABoZ6/StlNvXWY2mTVNJkwFoGajlzPgrw++r1iyzzOipQfgSce1s5pTqdD6HAMiO131oGc42ewVcAQ6PXs9Em8EGoTbBH/r57QBa76nNtllH8+qjnDVSO/OULxGhiUkuLWTZJfTDhpBEGfX+Rw=;KgtaJNYTgc9b75hxoVDSJw=="
 ---

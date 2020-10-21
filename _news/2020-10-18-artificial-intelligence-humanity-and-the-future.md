@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Looper column: Artificial intelligence, humanity and the future"
-    excerpt: "Columns share an author’s personal perspective.***** In September, the British news website The Guardian published a story written entirely by an"
-    publishedDateTime: 2020-10-16T15:42:00Z
-    webUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
-    ampWebUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
+    excerpt: "Columns share an author’s personal perspective. ***** In September, the British news website The Guardian published a story written entirely by"
+    publishedDateTime: 2020-10-16T14:12:00Z
+    webUrl: "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
+    ampWebUrl: "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
+    cdnAmpWebUrl: "https://www-southcoasttoday-com.cdn.ampproject.org/c/s/www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: southcoasttoday.com
+      domain: southcoasttoday.com
     quality: 59
     images:
-      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=LIFESTYLE&ArtNo=201019472&Ref=AR"
+      - url: "https://www.southcoasttoday.com/apps/pbcsi.dll/bilde?Site=NB&Date=20201016&Category=LIFESTYLE&ArtNo=201019817&Ref=AR"
         width: 387
         height: 393
         isCached: true
@@ -74,6 +74,20 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b18a16da4a28b23b1cf5b3b4312416f8c8dd74b7/c=0-88-387-306/local/-/media/2020/10/16/WorcesterTelegram/ghows-WT-201019476-a8e65a7f.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Column: Artificial Intelligence Could Soon Let Us Share What’s in Our Heads Wordlessly"
+    excerpt: "What if you could don a Star Trek-like hat or headband — with small flashing lights of course — which through artificial intelligence (AI) allowed you to type merely by"
+    publishedDateTime: 2020-10-20T19:00:00Z
+    webUrl: "https://www.thepilot.com/opinion/column-artificial-intelligence-could-soon-let-us-share-what-s-in-our-heads-wordlessly/article_78301dc8-12f9-11eb-bbac-8f4399042937.html"
+    type: article
+    provider:
+      name: The Pilot Newspaper
+      domain: thepilot.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/thepilot.com/content/tncms/custom/image/131e72c6-2bfb-11e5-9b9f-070bd3599e11.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "k3Ftp9AArTFPpjOY5HbN6nPPGpPqGzaDPfMnRIa84onBIHFuFfk0zqJ89q7ojgC/bZcvLURriePsNBXY1Paeb1ZXOINfiQjvgJ4KPD1r0Kenwsy9NfcQfgwI7SigCKowrqpOYkj47chaZ66ym+RwqR8afpH9p5SjSWYw9WLl8Q5anzb5TEwWUl4D9+SnYSSKBpdQVwRgL0VAgpLwpsjkg6XEEs9aNAell94Xf73Gd/5HsgWS9CW8kQbR4ZYvFOQaTBcijE22x/+UeBtzrphVAwx8qyuG6Nb+fIcBOG+xM3bqUaNX/w0JSHZZE5/W8wyjFejdJ5W9QN+t1fOFacn/HfHUIoav8Km0nR7oT0VwTqu+eM4PeJSx+Fq+IpX6dge6lCfAxBycxuAYShsjfuSTeGo/iQnLgNiChegGlunTmRGn+PXYAU9cpSVVcm/uLBHSIV9cZ7YY+tXwAVDvh23GKys8wiKClrbtEcfEToi6WBU6noTueiMCtZoSJe85LdmN5aA+gQCpM1nXye2gBzB3zg==;OSA4Y8WI/WzrTakxu3qHVw=="

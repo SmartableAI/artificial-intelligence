@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Looper column: Artificial intelligence, humanity and the future"
-excerpt: "Columns share an author’s personal perspective.***** In September, the British news website The Guardian published a story written entirely by an"
-publishedDateTime: 2020-10-16T15:42:00Z
-originalUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
-webUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
-ampWebUrl: "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
-cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
+excerpt: "Columns share an author’s personal perspective. ***** In September, the British news website The Guardian published a story written entirely by"
+publishedDateTime: 2020-10-16T14:12:00Z
+originalUrl: "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
+webUrl: "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
+ampWebUrl: "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
+cdnAmpWebUrl: "https://www-southcoasttoday-com.cdn.ampproject.org/c/s/www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: southcoasttoday.com
+  domain: southcoasttoday.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=LIFESTYLE&ArtNo=201019472&Ref=AR"
+  - url: "https://www.southcoasttoday.com/apps/pbcsi.dll/bilde?Site=NB&Date=20201016&Category=LIFESTYLE&ArtNo=201019817&Ref=AR"
     width: 387
     height: 393
     isCached: true
@@ -75,7 +75,21 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Column: Artificial Intelligence Could Soon Let Us Share What’s in Our Heads Wordlessly"
+    excerpt: "What if you could don a Star Trek-like hat or headband — with small flashing lights of course — which through artificial intelligence (AI) allowed you to type merely by"
+    publishedDateTime: 2020-10-20T19:00:00Z
+    webUrl: "https://www.thepilot.com/opinion/column-artificial-intelligence-could-soon-let-us-share-what-s-in-our-heads-wordlessly/article_78301dc8-12f9-11eb-bbac-8f4399042937.html"
+    type: article
+    provider:
+      name: The Pilot Newspaper
+      domain: thepilot.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/thepilot.com/content/tncms/custom/image/131e72c6-2bfb-11e5-9b9f-070bd3599e11.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "5htERonOUuQG4yhAUxeZomqc69lBQPT2fRpbhLV65LPlxS58y5lHWoIlTtShpnsI0YnUsGb/NW7HzldddRYtj71byOnNrS1NSGxa8qVXtdsqto1fm27Hk673gl5UuYGXKdJhNfCLrx8gkbtnjaHGC6mJAgQtbO4IFVg50b4vZ25mKBWU4qybIGyvcZRFMrJ/qTlQPKv746Nao6sZRAi+NdNV/qlWV4vT+CsY7DjrDhD6aO10vfezuOKEoP6ZrVvi1AT9IOtrDPLKugBov/Q006VvMeRh0K/N7Jaq2chi+vsEeq3WPWJANBSDFaanUMfggkId9aTMWfwsSPs7nhZiA5GOI1Llxs3TX1c3ky1Y+b8ViaSEAKsiq672ktTbfaUgRLoKb9IsLv/khi9cOoz2P3fse2YS6j2s5r5UCo/2wdYs099wDeN4Q4z4HlYAzeLiEK4nxT9L6gMiqm4rsFLxAU/plC0fdBsW7LhI5s7GnRMQw3Hr3TryRkWQAkvWDxr3p5BRiqxfnPF3Gr6MA8Y8Og==;13AvFEPtb/88+J3t4hddHg=="
+secured: "Pc4OBII3eBwe0F80Zl+tB29CXCCmxAp5ckwYSW7X+tfVwwWGq1CGCTmbeK4dP5jACWP7F4MVk9XuEsbakwIKWPw2vT6wA4R3f0QOA8VT8G8qLT6/IV0N15RjTPUlWb232W4bygZXlUavDDzRX6qD20Z3OfottyuJdcuq39jqjP06GekxJCe+QOCqr3xfMweIJqyq3JRhZ0QWD6MpSHYnI5pmxmv/nHbG8kas9LJ0UrgH9P6Rn7yyBNNfUv0QczB4Q1r/aOePRKHzq+ey0oqFQh1ObWOIL486J8h922zixYkmkH7beznEGbkd8/pnbENvAr4hnAAJpTfrjBzRvUbeIx9V1FJgbFPPFe2eo6U5/f4=;3aXhbQ1XUFD/Iflcl4F55g=="
 ---
 

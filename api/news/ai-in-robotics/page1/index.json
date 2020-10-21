@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-21-pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds.md",
+      "title": "Pandemic speeds labour shift from humans to robots, WEF survey finds",
+      "excerpt": "Robots will destroy 85 million jobs at mid-sized to large businesses over the next five years as the COVID-19 pandemic accelerates changes in the workplace likely to exaggerate inequalities, a World Economic Forum (WEF) study has found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-industry-robots-idUSKBN2752XQ",
+      "originalUrl": "https://www.reuters.com/article/us-industry-robots-idUSKBN2752XQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538232954&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J1R5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2752XQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2752XQ",
+      "publishedDateTime": "2020-10-20T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-how-ai-can-affect-our-choices-and-decisions.md",
       "title": "How AI can affect our choices and decisions",
       "excerpt": "Although AI technology has miles to go to develop social skills on par with ours, some AI has shown impressive language understanding and can complete relatively complex interactive tasks. In several 2018 demonstrations,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -288,7 +340,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 91,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -311,7 +363,10 @@
       "topics": [
         "AI",
         "AI Hardware",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Autos",
+        "AI in Healthcare",
+        "IBM AI"
       ]
     },
     {
@@ -412,17 +467,17 @@
     {
       "path": "_news/2020-10-16-looper-column-artificial-intelligence-humanity-and-the-future.md",
       "title": "Looper column: Artificial intelligence, humanity and the future",
-      "excerpt": "Columns share an author’s personal perspective.***** In September, the British news website The Guardian published a story written entirely by an",
+      "excerpt": "Columns share an author’s personal perspective. ***** In September, the British news website The Guardian published a story written entirely by",
       "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
-      "originalUrl": "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
+      "webUrl": "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
+      "originalUrl": "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=LIFESTYLE&ArtNo=201019472&Ref=AR",
+          "url": "https://www.southcoasttoday.com/apps/pbcsi.dll/bilde?Site=NB&Date=20201016&Category=LIFESTYLE&ArtNo=201019817&Ref=AR",
           "width": 387,
           "height": 393,
           "title": null,
@@ -432,13 +487,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
-      "cdnAmpWebUrl": "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
-      "publishedDateTime": "2020-10-16T08:42:00-07:00",
+      "ampWebUrl": "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
+      "cdnAmpWebUrl": "https://www-southcoasttoday-com.cdn.ampproject.org/c/s/www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
+      "publishedDateTime": "2020-10-16T07:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
+        "name": "southcoasttoday.com",
+        "domain": "southcoasttoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1280,49 +1335,6 @@
       "provider": {
         "name": "Video Games Chronicle",
         "domain": "videogameschronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-study-explores-the-use-of-robots-ai-to-ease-covid-19-pressures-on-hospitals.md",
-      "title": "Study Explores the Use of Robots, AI to Ease COVID-19 Pressures on Hospitals",
-      "excerpt": "Hospitals across the globe could raise their productivity and efficiency as well as increase safety and quality while limiting and decreasing charges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11686",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=11686",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.azorobotics.com/images/news/ImageForNews_11686_16022476570691643.png",
-          "width": 950,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11686",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686",
-      "publishedDateTime": "2020-10-09T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
         "images": null,
         "publishers": null,
         "authors": null

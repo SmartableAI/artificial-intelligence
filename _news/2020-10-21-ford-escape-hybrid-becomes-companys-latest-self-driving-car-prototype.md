@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/"
 type: article
 quality: 74
-heat: 114
+heat: 125
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
         width: 700
         height: 405
         isCached: true
+  - title: "Ford will use its Escape SUV to power a self-driving car service"
+    excerpt: "With the unveiling of its latest autonomous test vehicle, Ford believes it’s one step closer to offering a commercial self-driving car service (via NBC News). In a new Medium post, the automaker detailed its fourth-generation autonomous test vehicle,"
+    publishedDateTime: 2020-10-20T22:47:00Z
+    webUrl: "https://www.engadget.com/ford-fourth-generation-self-driving-car-223830133.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 54
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F9c0f4620-1320-11eb-afb1-ac6b58ef64e0&client=amp-blogside-v2&signature=2eef1478837c7990561a022fe8cca1f902966d03"
+        width: 1008
+        height: 630
+        isCached: true
   - title: "Ford chooses hybrid Escape for self-driving service, begins testing"
     excerpt: "Ford and Argo AI this month will begin testing the fourth-generation technology on the vehicles in several cities, including Detroit"
     publishedDateTime: 2020-10-20T20:27:00Z
@@ -82,6 +96,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "Z9WKR8ThnuyIP/PVJyuZCPFQJ+4knD4mCxsQosc0r1W4xQ0ExGGyiGnRCOnjEvKERMuwmuC2Xpk6veqq/o0Ikn3vSoCIRbPZaD5El+4H6F1t30oykwteK0za/RX+8qA6qisCr/rodJQCh6RFT//PSpoYBvHFWkIyIbq7zXQqOCalx7dABIolS8soQb9psTp+i8muS0IKFIVLo3hk6bp+5KaqNF/j2/X0N2E6IqhuAPDYP3VMOHFxIAItwWaX2PzqJHdietw9OHCu5oOzyCf7aTLQVW4DHxIfsHYlDtKWSDGKqPBoMFwG7FMXckCJKtAI+I68ZJZbZcjKSp3rtH4GDiIwqDZiGUsqyQGLnf1zWjg=;KlBtfs0CO/HUHYXcKUwZAA=="
+secured: "vtkzS1NDwB2hwAShkF44GbGihMy+hBGQQVShfMPmE/CCwoSZYD+ilIBHGTfJnw7nJjNnmyU9KxoOPGCszqI5pngXzig2K3CSjdVsLc+8vtdCFYNeQT4PdCQdV0McoxF8gFr61Kd1qEQCF1cLwLIRcxLQSWxtZPJjsQ5s8vm77Mxb4+U/WIefk6esBCe8tQDWVOuMyW5pXlE+ZbHwtAKs9re+Gp76F6AE8BJvgBtQYiRpiN4XGYHMRFtiIatxWuqWyoLos5mxyRWwcgiJGL8fyn8Ar/pQKZjcWUIVEXMzMOx8kLiSIUcnfSTATCXjsDDV1ImJhYjFHkOA00Ec8iXpwYRdMcf7SpQclAzQ7T5kaf2O97bD+DOo0YSuq9PXyWDSnfNMlznzx9e8LsIxIHrbTij8PyIiobF324ddScZAaMNVvotXe2pywbT8UJSxOFp0ukf1/pUCT15PeS5lFOaVyDvtQmYKF1a0pki5pdvJYqSRGm7/dEjvHe27g2crXlCVLBgCejCLG0Zm4u/LOf2LQQ==;TuLv7Dyl2Qp8+e5UpRhjhw=="
 ---
 

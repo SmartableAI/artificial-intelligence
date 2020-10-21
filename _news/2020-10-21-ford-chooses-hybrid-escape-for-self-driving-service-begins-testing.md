@@ -59,6 +59,20 @@ related:
         width: 700
         height: 405
         isCached: true
+  - title: "Ford will use its Escape SUV to power a self-driving car service"
+    excerpt: "With the unveiling of its latest autonomous test vehicle, Ford believes it’s one step closer to offering a commercial self-driving car service (via NBC News). In a new Medium post, the automaker detailed its fourth-generation autonomous test vehicle,"
+    publishedDateTime: 2020-10-20T22:47:00Z
+    webUrl: "https://www.engadget.com/ford-fourth-generation-self-driving-car-223830133.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 54
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F9c0f4620-1320-11eb-afb1-ac6b58ef64e0&client=amp-blogside-v2&signature=2eef1478837c7990561a022fe8cca1f902966d03"
+        width: 1008
+        height: 630
+        isCached: true
   - title: "Ford plans for self-driving commercial car launch in 2022"
     excerpt: "Ford (F +2.2%) plans to launch its self-driving commercial business in 2022 with vehicles based on the Ford Escape Hybrid crossover."
     publishedDateTime: 2020-10-20T19:12:00Z
@@ -78,6 +92,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "+Xm2SzcpTqpPYbpqU/REQd6fYnJqbzbo8UKuDdjMS0JfYv5Swvyk1/WGc259hsV5/O+0RNlAXXzjcLHJyK40UgnN7Ie77OdMLXvuLcLylbCKcjYJ8wlIo3bKjI7HXPSPVx8NZzu0WCZ9P7xFFnVBsJfb62f0Pt/IEXOytV3PY9M2RCcFjzf+3saSgH9Lozr646lo4b0lqSEwYVxeQFiIIA0VDjXB3Edby5fMqgCsYpzP9/O6c3Eil8MtI520jApFNQ8KnEt3givXhA6cs2TTtvAPb0z/hyYl/+oI3rXltMdrhKMbf813EdhAfbBD3H3Nxbpr2ONBItABwvBDtkgfZK43DA6mCel5dTgj9YZX3oE=;7NUDiwxKeXRJuqizN9TcFg=="
+secured: "k0nhed71WI1DEVNRE+c65rHEiHhTgDGy9zF/GIAqRVQUQU/6XuwmhQ/hdKlOsX44bwmCTpP0Utr0wdaacZlQTFpFaNPmTCm+hjS+Nq8eAf0jKbsjFZILU7ScF6qn9knFlw2M4mpI+jFX/lxKDaoiW4g/IhjtMBpsUxJ0ojiPse47Np342iZgkBODx5UZI/08hoFO8dudQrWuyikJ98HiWaL3SekvBYyBqcBf6CkYaLQKrNutnJOmTzCWHTZCFQoTaWQ0/4ebZnCDj8uktaY/6H21HKcS7uwpQ9YiPQD07JAe24y5K8/Ih8I1xgHu9ET5eZOy45v1ulwUQtVuzG35IzvL7MveKFa8sBosHZGaKyDZ9hEA7JCWKzojck/koxkqnfQdjyl+4Dc7euJJJIk7SWXB4qUh1EGhE9L5DJ7zMusjuDGxkZxxGI5LBoTC5yjwwkedjympSVDrRNs7w8I76Jf0yI3Hb6T66BoS7EUts3eTD5AImCtw9FFjxztJvLwH1TJEuJ9Ct0n5ejcZI3U3rw==;zkJlpH5D9D/o8rqXToKxIQ=="
 ---
 

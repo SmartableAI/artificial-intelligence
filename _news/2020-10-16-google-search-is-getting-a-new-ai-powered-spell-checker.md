@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://images.axios.com/BAmjh43T_0x1TgPV7__2QGbsGEs=/fit-in/1366x1366/2020/10/16/1602856070265.png"
         width: 1366
         height: 768
-        isCached: true
-  - title: "Google Search Gets More Helpful With The Release of New AI Features"
-    excerpt: "Google Search is getting more helpful. The bread-and-butter service of parent organization Alphabet (NASDAQ:GOOGL)(NASDAQ:GOOG) recently announced new AI-powered features to improve its usefulness. Some are legitimately helpful,"
-    publishedDateTime: 2020-10-16T06:07:00Z
-    webUrl: "https://www.ibtimes.com/google-search-gets-more-helpful-release-new-ai-features-3063047"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/23/google-search.jpeg"
-        width: 385
-        height: 257
         isCached: true
   - title: "7 Steps to Deploying AI-powered Self-service during the New Normal"
     excerpt: "It’s no surprise that AI-powered self-service is gaining traction with customers. Even before the pandemic created a New Normal, 73% of consumers said they wanted to solve their issues on their own without having to engage with a human customer service agent."

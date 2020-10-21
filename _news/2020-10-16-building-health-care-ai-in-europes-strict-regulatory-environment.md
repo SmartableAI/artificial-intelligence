@@ -58,6 +58,20 @@ related:
         width: 645
         height: 363
         isCached: true
+  - title: "Where do you stand? 10 women debate tech topics like AI, innovation and ethics in healthcare"
+    excerpt: "Ten women in the tech world came together last week for a debate series hosted by 1776 and CVS to battle it out on topics like AI, biases, innovation and data sharing. The debaters were paired with topics that fit their expertise, but were randomly ..."
+    publishedDateTime: 2020-10-20T18:33:00Z
+    webUrl: "https://technical.ly/philly/2020/10/20/debate-ethics-artificial-intelligence/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 60
+    images:
+      - url: "https://technical.ly/philly/wp-content/uploads/sites/2/2020/10/Screen-Shot-2020-10-20-at-1.26.03-PM.png"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Global healthcare funding hit a record in Q3. Here's how much digital health companies raised"
     excerpt: "Global healthcare funding soared in the third quarter, hitting a new record of $21.8 billion across 1,539 deals. Here are the sectors drawing the most interest from investors."
     publishedDateTime: 2020-10-19T15:00:00Z

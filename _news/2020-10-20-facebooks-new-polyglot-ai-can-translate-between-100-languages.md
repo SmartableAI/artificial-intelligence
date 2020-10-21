@@ -3,12 +3,12 @@ category: news
 title: "Facebook’s new polyglot AI can translate between 100 languages"
 excerpt: "The model, a culmination of various automated and machine learning techniques, is being open-sourced to the research community."
 publishedDateTime: 2020-10-20T14:00:00Z
-originalUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/"
-webUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/"
+originalUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/?itm_source=parsely-api"
+webUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/?itm_source=parsely-api"
 ampWebUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/"
 type: article
-quality: 76
+quality: 74
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/edurne-chopeitia-5Z8mR4vqJD4-unsplash-e1603118496183.jpg?w=2142"
@@ -91,6 +90,6 @@ related:
         height: 333
         isCached: true
 
-secured: "HwBsrKNYFPxEyII+2MnnTepWZIXyZUg5m1zEWhVScMY8d3NVEvkbVoXs4ylZ9FRLhsosAnbbCeJUl1K5g7jcWzDQpt77MX3jVM7apKNru80ItKr0Hw08hlRsKlCYhrBSuXwyy+rPOPMDXE1eb1RGBmfNQ+2Rlc4eq39m/rxR2b3zTP5mjejVU+BkDmMdkgaVmeHwADkYpO++YOM2ZWl5WPAz/qhjQSuaeGelV4k2TAcHQFb8n/XAjCQp1zi46CjVv//WmWBtjmcZTC9v3EI/dK+D2XPVHB88mHrgsiBQVw5SkcbHFeJCsy6wh9sI3GPw/PX4Rs2yTtRmX05f1t6K2TIUu86HOjoFL/d1fWe98PrsQ3iCCH4MzyfPdRBuzQ/6LfHorbYsGvyP3sSdu2VIrzHEz4vmo9igZbHyYJLvNAKOQtYnMlOJIOLTwLmjRQ5ooOqc87yZ9iGMRBzUY/IYbktY4lphZepSxEbWf1nlExc7y1Awb3nSC9iMlH8P3uiOL9i1OdnS0WmaM4+T13syyg==;n2Uod3RePE668wWBf31k2g=="
+secured: "aqDVAyzAFZVFS1AAiqR3RBveQqBWLGwx7v3FUSdoqQTkADd//E7FfZQK/Rx8UHA9lSkcY+QixHt+QRsFF324C3HTPxoMtaPqameNQlFRIhK/vdPOz0/xdA84f400J+qelrPTjdATJ9/QYNhtYTtlTa/1wmdebbcdoJzT9wuIlyILz2D8vKA9W4GU3C0Hz1Ns35A6RhX6JEUu4yWLMaUWAFVPL6lLQ/RJ1LWNCPA+BO7xCKDbdxFavltA5S+3B2x86hKTQGL2Mc0/fPJ6Wv320Ewq6L9lt90Af3BPcpf2xjmpgdo0w8DtKL9pBxVTv7XcYbR6eL2ijpgNICP+t16pE0c/t7nxgB2ZWyqEJ1vJSDI=;InpogrHnJ0NExYgEqlNw0Q=="
 ---
 

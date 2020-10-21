@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-
 ampWebUrl: "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19?amp"
 type: article
-quality: 85
-heat: 85
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -20,6 +20,9 @@ topics:
   - AI
   - AI Hardware
   - AI in Robotics
+  - AI in Autos
+  - AI in Healthcare
+  - IBM AI
 
 secured: "i2OyXy6yLe7wuaAnPXSzG7MYVKz+1bLNs81i8jKQmtQ3Nw+5q4B3E0wC/Ia+tnyXyh01WtK9WbiFhR8kLDH9NEUJfoDY9Ai/xwvhH/gmuVQra66aExfQm9MBB/wg/KAdVpgb04iRSONyBIcgIlXvc8iZjaxqQ09d2kK3KCnYraz6QbDXfCBYHnFPSWqrhMBm7mcMLMsvSJx8nVE9dCZ/1s3WgFOB2fKxgzYdptXJNpNuvmbqOnYL9G2AH3e9NrARv6lPXzfXSgkpvC6aGPxNuZCOi7hklUZYS89zMbDJckHXiiWF7ykI9wfs0+dU7kNN5ACNFEaGLsSbTQB/nH2mTn17EBdyDWWyKWjMLIolCkE=;iWi5/B70IYgxt5wzT8iq0g=="
 ---

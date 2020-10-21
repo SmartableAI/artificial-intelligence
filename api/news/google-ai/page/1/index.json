@@ -778,6 +778,59 @@
       ]
     },
     {
+      "path": "_news/2020-10-07-getting-inside-the-head-of-a-machine-learning-scientist.md",
+      "title": "Getting inside the head of a machine learning scientist",
+      "excerpt": "More recently a variety of AutoML tools have launched, promising end-to-end capabilities, where data is input, parameters are adjusted, and a fully-trained, deployable ML model is generated.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/06/getting-inside-the-head-of-a-machine-learning-scientist/",
+      "originalUrl": "https://venturebeat.com/2020/10/06/getting-inside-the-head-of-a-machine-learning-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1256603051.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/06/getting-inside-the-head-of-a-machine-learning-scientist/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/getting-inside-the-head-of-a-machine-learning-scientist/amp/",
+      "publishedDateTime": "2020-10-06T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-behringer-deepmind-12-case.md",
       "title": "Behringer Deepmind 12 + Case",
       "excerpt": "Reverb Protection has you covered. We provide a safe community for finding the gear you want. As its name suggests, the Behringer DeepMind 12 is a 12-voice polyphonic analog synth, with a 49-note velocity- and and aftertouch-sensitive keyboard. Each voice ...",
@@ -1468,59 +1521,6 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-differentiable-argmax-for-tensorflow.md",
-      "title": "Differentiable Argmax for Tensorflow",
-      "excerpt": "I like to tinker with experimental neural network architectures. During an attempt at (somewhat) interpretable machine learning I needed an argmax function. As you probably know, functions must ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/@szabogergo2020/differentiable-argmax-for-tensorflow-2da6ca5d8ae7",
-      "originalUrl": "https://medium.com/@szabogergo2020/differentiable-argmax-for-tensorflow-2da6ca5d8ae7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*3CpqZjkPCs5NaJFYBUVWhA.jpeg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]

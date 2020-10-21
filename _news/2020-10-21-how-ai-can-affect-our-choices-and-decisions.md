@@ -9,7 +9,7 @@ ampWebUrl: "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choic
 cdnAmpWebUrl: "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/?amp"
 type: article
 quality: 59
-heat: 80
+heat: 83
 published: true
 
 provider:

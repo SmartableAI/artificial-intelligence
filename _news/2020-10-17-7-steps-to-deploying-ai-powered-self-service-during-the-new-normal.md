@@ -72,20 +72,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Google Search Gets More Helpful With The Release of New AI Features"
-    excerpt: "Google Search is getting more helpful. The bread-and-butter service of parent organization Alphabet (NASDAQ:GOOGL)(NASDAQ:GOOG) recently announced new AI-powered features to improve its usefulness. Some are legitimately helpful,"
-    publishedDateTime: 2020-10-16T06:07:00Z
-    webUrl: "https://www.ibtimes.com/google-search-gets-more-helpful-release-new-ai-features-3063047"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/23/google-search.jpeg"
-        width: 385
-        height: 257
-        isCached: true
   - title: "Google Search gets hum-to-search and AI query upgrades"
     excerpt: "Now, Google will start surfacing statistics from the repository in response to user queries. Google also announced more general-purpose enhancements at Search On that focus on boosting the search ..."
     publishedDateTime: 2020-10-16T17:47:00Z
