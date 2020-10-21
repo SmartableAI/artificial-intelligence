@@ -55,7 +55,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 69
   - title: "5 reasons you can’t miss Hong Kong Fintech Week 2020"
     excerpt: "The fully virtual event, attended by global fintech leaders, will be held from Nov. 2 to 6 in Hong Kong. Sign up now to be a part of it."
     publishedDateTime: 2020-10-21T10:57:00Z

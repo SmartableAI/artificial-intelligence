@@ -36,7 +36,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/neuralpathwa.jpg"
         width: 900

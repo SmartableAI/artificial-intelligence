@@ -8,8 +8,8 @@ webUrl: "https://www.techspot.com/news/87205-cd-projekt-red-used-ai-lip-sync-cyb
 ampWebUrl: "https://www.techspot.com/amp/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html"
 type: article
-quality: 82
-heat: 82
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-24-ts3_thumbs-383.png"
@@ -29,6 +30,6 @@ images:
     height: 560
     isCached: true
 
-secured: "FGCqUhrH0LOWQFTdl2Mc7qtdcBewCpZHh5Q38Y3LTO7mcWmU685b/1UVLTO2hgqC+bb/Oo2FrcGXwQ/5AQa/tnrYN5tdo/PsE8bpQh1nVzENZv6qXun37m4WlzxB3TkucbwYeeEPEaPttS/X5f3tcxZk0HrTwC1aHrSaoMP1C6uq9ByTlJm3fyKQkl4s3EmrbjnSic985S2HbdkOjniH7JaiXjOxGfMAwjU229WgfuAR/W1dV593YzLdG4aNuxoTVy7CZXg2Y8Yz9C/MvYnHGON3ms9cmZbIKcQn8IZ3BQJdaaGHsoCOELaw3fdY4UnDA5sI2L1parjj6l1FnbjB54Tdx9pi6BSh6GbcdaK/gDw=;DJt/nCx6APem9oDXZ1JbHA=="
+secured: "P2GUheJGA2wEyPcXwURbklB/cmLM2KZJ86VzfSDCLE3o+TArIdyoIusB/z/8+TwG06JN009PBm3RmDefqupt+DladC68xpKGUJ4DmL8BA1PViSiTMPY+08uIMzwEuh5vUBiTSjfqRH3Z+Pv3rOyc8cU8IXIG/J6wp9iM68zhDJ1ikt9MqZzUeHpA1k1Rp4BGQ88KuDM3JWQbkHH7kItJ6+CuI9jXnrAS6bRsudz9/Wr6jhYPLFD1PHGvLyeMlc4RCmWh8v+H/nweSSReCrGif+NPZJ+dO0a/Biqci9Qp32zn+wtbTD6JMNbfzcprG3T16W4s8R7rrT/+N72unOyxJKbRicvH5BC6jJjJHxt1V4Y6EfOXky+3P9fQmni7qed7IUExQ0Y5UjJPhRucmXQl/rxM1H1ZTul2i7xrXjm2K3dkItCZ4T28amOiDfa+es7gSoJSw4+BA3UPnJ+CpzQwjvUogoIrcnF63QYImDa9CMorkeYxYeaSIknUfvB9Fr0PVyWI6fducvutfsflA6LkAQ==;ikpH4bk8OMp9j+BNgeb7Iw=="
 ---
 

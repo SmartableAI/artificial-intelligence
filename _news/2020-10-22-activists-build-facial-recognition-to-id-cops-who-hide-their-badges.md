@@ -107,6 +107,22 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "Protesters are using facial recognition technology to ID police"
+    excerpt: "For years, law enforcement agencies at the state and federal levels have used often faulty and always creepy facial recognition technology to try to identify civilians. Now the table is being turned."
+    publishedDateTime: 2020-10-21T20:34:00Z
+    webUrl: "https://www.mic.com/p/protesters-are-using-facial-recognition-technology-to-id-police-39803343"
+    ampWebUrl: "https://www.mic.com/p/protesters-are-using-facial-recognition-technology-to-id-police-39803343/amp"
+    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/protesters-are-using-facial-recognition-technology-to-id-police-39803343/amp"
+    type: article
+    provider:
+      name: Mic
+      domain: mic.com
+    quality: 59
+    images:
+      - url: "https://imgix.bustle.com/uploads/getty/2020/10/21/533e1116-e35f-422a-a96a-b0f2521055a5-getty-1228332311.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "First facial recognition surveillance camera tests completed – Police"
     excerpt: "The Unitary Police Service announced today (Tuesday) that it has completed the first phase of testing initiated in August for facial and license plate r"
     publishedDateTime: 2020-10-20T11:16:00Z
@@ -150,6 +166,6 @@ related:
         height: 1005
         isCached: true
 
-secured: "OajwPUEiZSuwhSYw30/wtfy2sDh3TMK9QOA+s5ACUKH/vcAYjzzn9JBmLKCVVELy8QGqJadZLhCXjseZ+l0WtLhoMIKRy/q958LW9gigNQyLIxYuVG3D3THOejLwd3PbDzwcm2fs74WdH08gCt/2/6GglEraLvznayksX197h7qN6bxQLxby6NVT4pqeflgsU6ru+XSZIfK71IJ0XBBzapL2LOj3VyFMjdnzGd+n7ZjxWaBLgUXfHZTba2p5wf6rhLuTlF5IucmOuUXJyKOrLXN1ubRrXqhNS+Pe01sbdlFEUgJM8Z2eNukbnTWdhI9s9cHUEUQBMw5esbL8PYDP2uRiFBKUFh9NSDoiv5S3M10=;G2XsEcSdNilDqt7CIPXVOg=="
+secured: "72GFss9ZeSX83BUmucx0BjXlgWJ5XL1n2thWUyaolrtIZo5VSAjxqWVw87ojgd4FwYl8qJcyn444OkG0cSF6faVoCfmsgX4Ob+aAInEwWPUlbi4KFnCOWVf8Wc/EfY+K/YMxTAEbQo1LyLhcy/iAR+RbuWbohtVrmAAu73y5zHyqX1eN24gq9C/0n9/WpRKNlGdzYJ2XNR+bsArjignRb+QAnkMVnT2eBG9m2IeVNd28MONLnWozRn/M2vsmNA6Qt3swXflpJUap0BRwuUm/EEvTqj/TOUKbrPyWa4QMRqVJUDQ49FadiUsbwfVYe/N5BVpq7XrBphfr6kS362kYFHR8wtS8XeyAkQ5mW1+ug127FVPAvBzPQOhK64UFbxVzjwrTj+8o9P2Wx9/fzaamvquHCglT2ehDKW4MwQjABZvj5TmDG+GFK6GrD/r+hDoqDK20TCW+GTXByg7cs6+u4lSKK5IaW+nHVS6wFDLPUDIAaymrzw4DZvBM6RrrDTaiTn57JtEKVbfGshIUsneU0Q==;0HW8CYNtn+NCc1gunIMxcw=="
 ---
 

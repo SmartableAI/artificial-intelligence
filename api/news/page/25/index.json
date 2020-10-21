@@ -2,6 +2,282 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-09-29-applying-machine-learning-to-keep-employees-safe-and-save-lives.md",
+      "title": "Applying machine learning to keep employees safe and save lives",
+      "excerpt": "Warny leverages many of the key AWS Services such as IoT, Greengrass, and Sagemaker. Warny uses sophisticated computer vision algorithms to protect people working around dangerous machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
+      "originalUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Hazzard_Outline.jpg?fit=800%2C387&strip=all",
+          "width": 800,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
+      "publishedDateTime": "2020-09-29T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-startup-docai-inks-deal-with-health-insurer-anthem-names-female-cofounder-ceo.md",
+      "title": "Startup Doc.ai Inks Deal With Health Insurer Anthem, Names Female Cofounder CEO",
+      "excerpt": "The deal is worth $100 million over five years, according to CEO Sam De Brouwer, who is focused on scaling up doc.ai’s enterprise offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/09/29/startup-docai-inks-deal-with-health-insurer-anthem-names-female-cofounder-ceo/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/09/29/startup-docai-inks-deal-with-health-insurer-anthem-names-female-cofounder-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x478/https://specials-images.forbesimg.com/imageserve/5f724b92d4abb5d5d5d4acf5/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/09/29/startup-docai-inks-deal-with-health-insurer-anthem-names-female-cofounder-ceo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/09/29/startup-docai-inks-deal-with-health-insurer-anthem-names-female-cofounder-ceo/amp/",
+      "publishedDateTime": "2020-09-29T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-another-strange-shift-for-the-ai-chip-startup-segment.md",
+      "title": "Another Strange Shift for the AI Chip Startup Segment",
+      "excerpt": "Few of the AI hardware startups that have made it through the first round of reality (roughly 2016 until the present) have managed to navigate the choppy",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/",
+      "originalUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_613029992.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/amp/",
+      "publishedDateTime": "2020-09-29T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group.md",
+      "title": "Programming artificial intelligence for object recognition made easy – by the BMW Group",
+      "excerpt": "Munich. The BMW Group is releasing another software package that makes light work of creating artificial intelligence (AI) applications for object recognition. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.press.bmwgroup.com/global/article/detail/T0317790EN/programming-artificial-intelligence-for-object-recognition-made-easy-–-by-the-bmw-group?language=en",
+      "originalUrl": "https://www.press.bmwgroup.com/global/article/detail/T0317790EN/programming-artificial-intelligence-for-object-recognition-made-easy-–-by-the-bmw-group?language=en",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediapool.bmwgroup.com/cache/P9/202009/P90401410/P90401410-an-associate-labels-photos-from-door-sill-strips-of-the-bmw-3-series-creating-an-ai-object-recogniti-2250px.jpg",
+          "width": 2250,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "www.press.bmwgroup.com",
+        "domain": "bmwgroup.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-artificial-intelligence-expert-zhu-songchun-to-return-to-china-from-us.md",
+      "title": "Artificial intelligence expert Zhu Songchun to return to China from US",
+      "excerpt": "UCLA professor’s switch to Peking University comes as Beijing seeks to make country a global leader in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/29/ec5744a6-022d-11eb-88c7-25dcd0ae6080_image_hires_211700.jpg?itok=RIqvM68m&v=1601385430",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
+      "publishedDateTime": "2020-09-29T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings.md",
+      "title": "Artificial Intelligence Technology Solutions Partners With Centralized Vision to Expand Premium Service Offerings",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce that its wholly-owned subsidiary Robotic Assistance Devices (RAD) is now offering its customers an expanded suite of managed remote services through a partnership formed with third-party monitoring pioneer Centralized Vision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-microsoft-positions-itself-as-the-platform-of-choice-for-5g.md",
       "title": "Microsoft Positions Itself as the Platform of Choice for 5G",
       "excerpt": "Microsoft is also promoting other services, such as Azure Cognitive Services and Azure Machine Learning, to deliver artificial intelligence (AI) support to mobile operators. It also offers ...",
@@ -904,280 +1180,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-inside-politics-tory-rebels-hope-for-deal-with-no-10-on-extra-scrutiny-powers.md",
-      "title": "Inside Politics: Tory rebels hope for deal with No 10 on extra scrutiny powers",
-      "excerpt": "Conservative backbenchers believe they’re in line for a bigger say on the coronavirus rules after a ‘cordial’ meeting with Jacob Rees-Mogg and the whips, writes Adam Forrest",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-coronavirus-rules-tory-mps-compromise-eu-brexit-trade-deal-talks-b688535.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-unlocking-the-secrets-of-language-ai-with-inter-language-vector-space.md",
-      "title": "Unlocking the Secrets of Language AI With Inter-language Vector Space",
-      "excerpt": "Interview with XTM International’s Rafał Jaworski on how interlanguage vector space impacts cost, delivery time, accuracy for linguists, LSPs",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/sponsored-content/unlocking-secrets-language-ai-inter-language-vector-space/",
-      "originalUrl": "https://slator.com/sponsored-content/unlocking-secrets-language-ai-inter-language-vector-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2020/09/ILVS-Slator-title-25-09-v2.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
-      "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
-      "excerpt": "MOUNTAIN VIEW, Calif., Sept. 28, 2020 /PRNewswire via COMTEX/ -- MOUNTAIN VIEW, Calif., Sept. 28, 2020 /PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-2020-09-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-2020-09-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology.md",
-      "title": "An AI Paper Published in a Major Journal Dabbles in Phrenology",
-      "excerpt": "On Friday, a trio of evolutionary psychology researchers published a research paper in Nature that sought to use machine learning to track historical changes in \"trustworthiness\" using facial expressions in portraits. The experiment was widely panned ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
-      "originalUrl": "https://www.vice.com/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f6e654076a76b0095a25f2b/lede/1601070833510-post-w-gradient-background-19.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
-      "publishedDateTime": "2020-09-28T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-machine-learning-homes-in-on-catalyst-interactions-to-accelerate-materials-development.md",
-      "title": "Machine learning homes in on catalyst interactions to accelerate materials development",
-      "excerpt": "Machine learning homes in on catalyst interactions to accelerate materials development Date: September 29, 2020 Source: University of Michigan Summary: A machine learning technique rapidly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/09/200929123416.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/09/200929123416.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-microsoft-now-supports-12-indian-languages-including-assamese.md",
-      "title": "Microsoft now supports 12 Indian languages including Assamese",
-      "excerpt": "Microsoft Translator, a cloud-based free translation and transcription service from Microsoft, has added support for Assamese, the official language of Assam spoken by more than 14 million people in the Northeast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/",
-      "originalUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/09/Microsoft-now-supports-12-Indian-languages-including-Assamese.png",
-          "width": 920,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/amp/",
-      "publishedDateTime": "2020-09-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,230 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-21-how-ai-can-affect-our-choices-and-decisions.md",
+      "title": "How AI can affect our choices and decisions",
+      "excerpt": "Although AI technology has miles to go to develop social skills on par with ours, some AI has shown impressive language understanding and can complete relatively complex interactive tasks. In several 2018 demonstrations,",
+      "sourceUrl": null,
+      "webUrl": "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/",
+      "originalUrl": "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cosmosmagazine.com/wp-content/uploads/2020/10/201021_ai-affecting-decisions.jpg",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/?amp",
+      "cdnAmpWebUrl": "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/?amp",
+      "publishedDateTime": "2020-10-20T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cosmos",
+        "domain": "cosmosmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-global-artificial-intelligence-in-healthcare-market.md",
+      "title": "Global Artificial Intelligence in Healthcare Market",
+      "excerpt": "Data Bridge Market Research has recently added a concise research on the Global Artificial Intelligence in Healthcare Market- Industry Trends and Forecast to 2026. Global Artificial Intelligence in Healthcare Market research report has been prepared with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2166080/global-artificial-intelligence-in-healthcare-market-2020",
+      "originalUrl": "https://www.openpr.com/news/2166080/global-artificial-intelligence-in-healthcare-market-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta20814732_g.jpg",
+          "width": 599,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2166080/global-artificial-intelligence-in-healthcare-market-2020",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166080/global-artificial-intelligence-in-healthcare-market-2020",
+      "publishedDateTime": "2020-10-20T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-toyota-ai-ventures-invests-in-canadian-robotic-kitchen-startup.md",
+      "title": "Toyota AI Ventures invests in Canadian robotic kitchen startup",
+      "excerpt": "Toyota AI Ventures, the Japanese automaker’s early-stage venture capital fund, has invested in YPC Technologies, a robotic kitchen startup based in Montreal. The total amount of the investment wasn’t disclosed by either company but it’s part of a $1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/technology/toyota-ai-ventures-invests-canadian-robotic-kitchen-startup",
+      "originalUrl": "https://www.autonews.com/technology/toyota-ai-ventures-invests-canadian-robotic-kitchen-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/kitchen.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-ai-in-telecommunication-market-next-big-thing-microsoft-google-ibm-salesforce.md",
+      "title": "AI in Telecommunication Market Next Big Thing | Microsoft, Google, IBM, Salesforce",
+      "excerpt": "Global AI in Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market The",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2166014/ai-in-telecommunication-market-next-big-thing-microsoft",
+      "originalUrl": "https://www.openpr.com/news/2166014/ai-in-telecommunication-market-next-big-thing-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta20699228_g.jpg",
+          "width": 535,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2166014/ai-in-telecommunication-market-next-big-thing-microsoft",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166014/ai-in-telecommunication-market-next-big-thing-microsoft",
+      "publishedDateTime": "2020-10-20T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-microsoft-azure-announces-its-first-region-in-austria.md",
+      "title": "Microsoft Azure announces its first region in Austria",
+      "excerpt": "Microsoft today announced its plans to launch a new data center region in Austria, its first in the country. With nearby Azure regions in Switzerland, Germany, France and a planned new region in northern Italy,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/",
+      "originalUrl": "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1069481166.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/",
+      "publishedDateTime": "2020-10-20T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-google-revives-its-ai-fueled-photo-printing-service.md",
       "title": "Google revives its AI-fueled photo printing service",
       "excerpt": "Google Photos has brought back its AI-based printing service, giving you automatically selected pictures every month.",
@@ -10,7 +234,7 @@
       "originalUrl": "https://www.engadget.com/google-photos-ai-premium-printing-service-160034151.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -388,7 +612,7 @@
       "originalUrl": "https://www.theverge.com/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -985,252 +1209,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-baker-mckenzie-launches-global-innovation-unit-teaming-up-with-ai-company.md",
-      "title": "Baker McKenzie launches global innovation unit, teaming up with AI company",
-      "excerpt": "Baker McKenzie on Monday launched a new innovation arm, Reinvent Law, bringing the global firm's existing innovation efforts under a single umbrella and pairing them with a new artificial intelligence joint venture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/bakermckenzie-innovation-idUSL1N2HA1C4",
-      "originalUrl": "https://www.reuters.com/article/bakermckenzie-innovation-idUSL1N2HA1C4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2HA1C4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HA1C4",
-      "publishedDateTime": "2020-10-19T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-a-global-collaboration-to-move-artificial-intelligence-principles-to-practice.md",
-      "title": "A global collaboration to move artificial intelligence principles to practice",
-      "excerpt": "Convened by the MIT Schwarzman College of Computing, the AI Policy Forum is a global collaboration to move AI principles to practice.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/global-collaboration-moving-ai-principles-to-practice-1019",
-      "originalUrl": "https://news.mit.edu/2020/global-collaboration-moving-ai-principles-to-practice-1019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202010/MIT-AIPF-global-AI.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-xtelligent-next-generation-signals-use-algorithms-and-artificial-intelligence-to-reduce-road-traffic.md",
-      "title": "Xtelligent Next-Generation Signals Use Algorithms And Artificial Intelligence To Reduce Road Traffic",
-      "excerpt": "The decentralized/distributed approach allows for greater intelligence in how traffic signal networks manage timing on a real-time basis while also making traffic management systems cheaper, more scalable and resilient (from events such as crashes and cyber attacks),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/10/19/xtelligent-next-generation-signals-use-algorithms-and-artificial-intelligence-to-reduce-road-traffic/",
-      "originalUrl": "https://www.forbes.com/sites/jeffkart/2020/10/19/xtelligent-next-generation-signals-use-algorithms-and-artificial-intelligence-to-reduce-road-traffic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8da35b860e2346090f3540%2F0x0.jpg%3FcropX1%3D577%26cropX2%3D5920%26cropY1%3D0%26cropY2%3D3005",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/10/19/xtelligent-next-generation-signals-use-algorithms-and-artificial-intelligence-to-reduce-road-traffic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/10/19/xtelligent-next-generation-signals-use-algorithms-and-artificial-intelligence-to-reduce-road-traffic/amp/",
-      "publishedDateTime": "2020-10-19T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology.md",
-      "title": "Top tech trends for 2021: Gartner predicts hyperautomation, AI and more will dominate business technology",
-      "excerpt": "This trend involves providing engineering discipline to an organization because only 53% of projects make it from artificial intelligence (AI) prototypes to production, according to Gartner research. \"AI engineering is about providing the sort of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/",
-      "originalUrl": "https://www.techrepublic.com/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/10/19/1cc9f88c-556c-48ee-9d3b-df756c54289d/resize/1200x/ddd76591ebe9c1bc99fa5377a8025f1e/ai-computer-chip.jpg",
-          "width": 1200,
-          "height": 894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/",
-      "publishedDateTime": "2020-10-19T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-wimi-hologram-cloud-stock-rallies-on-news-of-new-artificial-intelligence-subsidiary.md",
-      "title": "WiMi Hologram Cloud Stock Rallies on News of New Artificial Intelligence Subsidiary",
-      "excerpt": "The company says it's accelerating the development of its intellectual property -- positive news overshadowing a surprise shakeup in the management team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595591%2Fstock-chart-hologram-up.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
-      "publishedDateTime": "2020-10-19T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Photoshop's new AI features include neural filters and sky replacement"
+    excerpt: "Adobe has released new versions of Photoshop for desktop and iPad with a bunch more AI-powered features. The Sky Replacement tool that Adobe added to the latest version of Photoshop Elements is now available in the full version of the software."
+    publishedDateTime: 2020-10-20T13:15:00Z
+    webUrl: "https://www.engadget.com/photoshop-desktop-ipad-update-artificial-intelligence-130024695.html"
+    ampWebUrl: "https://www.engadget.com/amp/photoshop-desktop-ipad-update-artificial-intelligence-130024695.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/photoshop-desktop-ipad-update-artificial-intelligence-130024695.html"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbd1b5a40-1242-11eb-b5ef-0e3f27fb1c78&client=amp-blogside-v2&signature=2d9c123b11765202c620c5763a4d1ae53a4a7c9f"
+        width: 600
+        height: 350
+        isCached: true
   - title: "How Photoshop’s new Neural Filters harness AI to generate new pixels"
     excerpt: "Adobe has launched a new AI-powered workspace for Photoshop that applies a range of different effects and filters to photos within seconds."
     publishedDateTime: 2020-10-20T18:32:00Z
@@ -109,6 +125,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/adobe-neural-filtes.gif"
         width: 600
         height: 338
+        isCached: true
+  - title: "Can artificial intelligence photoshop emotion?"
+    excerpt: "Adobe released some new features to its Photoshop image editing software yesterday for Creative Cloud subscribers, and there’s definitely a strange one in there. New Atlas reports that there is a new,"
+    publishedDateTime: 2020-10-21T20:30:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/Can-artificial-intelligence-photoshop-emotion.html"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/Can-artificial-intelligence-photoshop-emotion.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Can-artificial-intelligence-photoshop-emotion.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1639121464.jpg"
+        width: 1119
+        height: 630
         isCached: true
   - title: "NVIDIA's AI-Infused Photoshop Neural Filters Can Make Complex Edits Like Facial Aging Quick And Easy"
     excerpt: "NVIDIA is introducing GPU-accelerated neural filters to Adobe Photoshop, which leverage artificial intelligence and its GeForce RTX GPUs to potentially speed up what would otherwise be long, tedious edits."

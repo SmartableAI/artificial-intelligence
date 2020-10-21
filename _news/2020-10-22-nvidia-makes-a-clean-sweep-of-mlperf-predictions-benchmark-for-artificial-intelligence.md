@@ -3,13 +3,13 @@ category: news
 title: "Nvidia makes a clean sweep of MLPerf predictions benchmark for artificial intelligence"
 excerpt: "MLPerf benchmark tests are an opportunity for chip vendors, and system builders, to show how much performance they can achieve on a representative set of machine learning tasks. Nvidia capture top marks against Intel in all the tests."
 publishedDateTime: 2020-10-21T17:15:00Z
-originalUrl: "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
-webUrl: "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
 type: article
-quality: 76
-heat: 96
+quality: 79
+heat: 89
 published: true
 
 provider:
@@ -21,24 +21,15 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
+images:
+  - url: "https://zdnet1.cbsistatic.com/hub/i/2020/10/21/da38c232-3ba9-4040-b93d-67cfb3dfb523/nvidia-a100-press-graphic.jpg"
+    width: 2000
+    height: 1296
+    isCached: true
+
 related:
-  - title: "NVIDIA's AI Reduces Video Streaming Bandwidth Consumption by 10x"
-    excerpt: "GPU-manufacturer NVIDIA announced their Maxine platform for AI-enhanced video-conferencing services, which includes a technology that can reduce bandwidth requirements by an order of magnitude. By moving much of the data processing to the cloud,"
-    publishedDateTime: 2020-10-20T13:07:00Z
-    webUrl: "https://www.infoq.com/news/2020/10/nvidia-video-bandwidth/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
-    images:
-      - url: "https://res.infoq.com/news/2020/10/nvidia-video-bandwidth/en/headerimage/nvidia-video-bandwidth-header-1603033460923.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia’s A100 GPU sets new performance records in MLPerf benchmarks"
     excerpt: "Nvidia Corp.’s latest artificial intelligence platforms have once again set new performance records in the latest MLPerf benchmarks. MLPerf is an industry benchmarking group that was set up in May 2018 and is backed by companies that include Amazon."
     publishedDateTime: 2020-10-21T18:25:00Z
@@ -54,6 +45,6 @@ related:
         height: 1296
         isCached: true
 
-secured: "HTcW7bUcC4+yZ6AH4NOAYJ03laeRzqrTNOPXz8cKoaRahFAVWY32ZP290GfkjM3m6OgZMuLUNmOW2lfzJUUk0v4u98av+fnzpFKrhq7q8Rct/eDKJifLJXjr3MpldMiWoN2j8X8F1B1S/dC/gF3fQb/8Jv7dy6vBmGf2v3yirEh0leY74cJLyj6pcdhSp2jkINfxErpDMYRW9ugovyHgwkNcywrdbupTdKRZl57cQp62F1PZy9FV9wxWl5gPXu7P/t01swxGjEN4cg7/8+C637h6zJs4v0FHRYavZW5/6Tescft6eW89wkPHAbtwJYi+5peCn28JXXNmAewTEGmTAcTU1x1cqwZMXF0s5vTmg8/MARWNp4PTyfs25CsVRunTmfOsFY3Q7dBNMPUYKakt4YQdKkv1dJ+sNkS+evLgbldLmT5iRElsY41DMQ0zXSkrtsqM6MHzb4drHtocIpovued6IMgrsqm9gF9avtm8ailXF+k0vhQcDk9gQcDDFSDPMPy9gMyg/sHaExNq39kBRw==;m3R03FTlDE9tKNfMMVOlMw=="
+secured: "hhJuk5G0d+iXrugGduk0VDn0Tt985tV/8FeLl4plKLT+8sHp+skUsYZGGnWQ5RWsCfBh3T3rL1giJv+fBuy0bPHSc0xE/ksvn4B19ZC85y/umK0UT4aXvuBLbplicRO37VdCPsjaqM4Z+LEtBeqPOz9ziylAVdNSupbA5w7fwPrpI0V1W6XgUmjp/V9WZp+9/K1/cLfsqf+JLcjiBLFFrGZGcw4n3MAg9djFriE9zUYqO6aUvVx2bvvd1Gh5QbePTpU0jgeZYyANIezytIsVyhV9+nNlqCk3+zAVvr9HUosbIDJcUBGz9O/LiM+SaCuCzRrpIcYV1dY5WAAEfJBlr3Ep2XlRcfBNOPr43sThujE=;rx6Ri+sBGRpvL6XEe1mNbw=="
 ---
 

@@ -67,7 +67,21 @@ related:
         width: 1024
         height: 600
         isCached: true
+  - title: "US plans voice biometrics upgrade and shift to cloud for DoD Automated Biometric Identification System"
+    excerpt: "The U.S. Department of Defense (DoD) intends to move the remaining on-premise elements of its Automated Biometric Identification System to Amazon Web Services’ cloud ahead of a series of upgrades,"
+    publishedDateTime: 2020-10-21T19:57:00Z
+    webUrl: "https://www.biometricupdate.com/202010/us-plans-voice-biometrics-upgrade-and-shift-to-cloud-for-dod-automated-biometric-identification-system"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 8
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/04165700/Defense-Department-wants-to-perform-real-time-biometric-identification-through-walls1.jpg"
+        width: 1000
+        height: 668
+        isCached: true
 
-secured: "+jWycoIucUgeA65YU24cnL82gcxhkCP4IBWnHc9XTOjsq4EFvjgpppOu46WZ7BTPoRQy9d8XKoBqvCTETv0RvXje6dR2wQl2BH91nfsEm5Im3+f7XzFgEWQ95vb2pXsDcqyF8PXqOtHSm9uQjGacLQNlyS2KR+EM+Rj5Asf48k7O8osEb6jjSxn2A9XgVXcCrVfmtuVyY8hQjohQju/6aC11gfYA0kcnkq33nidNqYKEVd73uMDetO9PQxCFHDcRvv6Xg4T2EhSlGftsNonxoT0u6Xe5KPqMyzC4200sqDBtbkgyrU5t5AoZTuaTcAy+A5DjLXbcoiJqAY1dSnOPWgcEwla6zZI3gAgAbpQh+08=;OdzjckvORG5M7qhw9f2qkA=="
+secured: "DgIz5kyduV3RQuNPUpt3h451o2oarHV29DhfTUmiUQPtYAR8QO0FZvDZAItreWSl0by7XGHkg+kxMJgty4QdPbWEX9WjD7UMRKtQgI4aBAKUWvyz0Iut9851kabCCaporcPsRAC3mpMhma7rOCJjUqWCLZw3+wLY8XTYyUgWkqreNGmXmOcimVbCiBWSJNw933APNfYQkd8nUcgy7TuJ1AvQezYjsL8lrE0ke3rnIJjqW/jGjVjbbWm1UiWx9uYQc3wTrWNUPV7m/Gy068SkjWZuxgbxdv6py01zcvWiopMN6yECEJSHjWCWEKK3I0LdnBbi/GsFC6k5XvHoqOJCSbK4JxIypf0bIYTp6rrZyo/kkdMRw0gT2D8Ni5GI171lrDIXbpvSFd3SRB20pmv1HBHkOnMpabfFZh8+LtPgn3XVG6dv3WpNcs7ZO6QpsUluEEwHqvZtYfgt1AigsnoyhcRMzUBrWadtxHcJyXyB7pJ5g3BUq3bxqDygH3UJ8yuOdyZmXvK2/tiqTREtOma+EA==;PC26MRBsAhLbFQiTrs2MTA=="
 ---
 

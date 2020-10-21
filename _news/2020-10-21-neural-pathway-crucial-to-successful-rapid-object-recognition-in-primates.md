@@ -8,9 +8,9 @@ webUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successfu
 ampWebUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
 type: article
-quality: 58
-heat: 68
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
   name: Medical Xpress
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2020/neuralpathwa.jpg"
@@ -42,6 +43,6 @@ related:
         height: 210
         isCached: true
 
-secured: "vgaa21R253/qPC+ID+pDPI2dVoeB5X8Ap9hu3osHPC6cbeg3bX7BIK3nrDYJlaz2Yx0h3xYKgAtjXj8GWB1m53gC11IqdUm75eIhDSAFWP23iENWXCTgiFQJFIH/d15WmwdIKXQr7LAeoUQDzWVbm9MFJBGz6l6bSqSaWQAxnLz79XuSqZaZAndO1FD7ra5wcREDn3HvzigcnTMuQwzmMTYBwGw0Peu0gCIxwSB+Eiy9oExDCVshrmHTFveLo37sjqONUr3WI98avRLgLUA26iKxNN+hkntwwU2/BbJjTm9oqCZGs+CYdNZYQu3EwY6fy/YgedOLrSW/XyojHDGJXCqCEYmEE0G7w0wQNjd1Ea0=;3d2ByhaosLm/OihWROyLbQ=="
+secured: "lungjbpIhK8E4QhAPIUHBvOUurfJ1YOTUux6/cNojHc/yIdxhpmRyiJFExgFoOWI6yEmfoIXS/DMMMCj4CuH4WaN9ILMX0AKkfHo2S3wXdlYX5TT/AT/Ui5+K525akiFiKNLCl+ZL2ZNuVsgyvJjyPZRrt7yNdF7uSjhoB3KZ25ghunqarTmpgB7Ti9Oiyz05gNETDDYUDm9WhX5cgb+/6BQNv66Sl3NiuA+07b8nmeNJ/tQoVf1Fvt0oLtfI4el7uHL7svdgNT3nFAjR9pixfnB2TeYPaDgsZY76TMK0+56tT+OeobX2M+urwGpcLeGxnqtQ4RYuGMlQ/BqfOGQGawshpa4xhVOQvpm2L7qQB+3HYFzaXjmv5ohEPJxXYwZwnw2OjUdzkgRlvyM7qSroyGz+flUCQF2L36ofI7XACiKmZG43+6j7/8Jiid2vqA7yo15PcF1F+wrWIpgIDo5cnMmeqBDbKtcFUgzRsE9XiGv+rBwTQvUDKhoO+7iZH9tXArCRbZsmLfnzO51Z1Rvjw==;fp/tfRmEeVsTnixvWT3txw=="
 ---
 

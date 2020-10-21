@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-13-researchers-develop-new-model-of-the-brains-real-life-neural-networks.md",
+      "title": "Researchers develop new model of the brain's real-life neural networks",
+      "excerpt": "Physical Systems Group at the USC Viterbi School of Engineering, in conjunction with the University of Illinois at Urbana-Champaign, have developed a new model of how information deep in the brain could flow from one network to another and how these neuronal network clusters self-optimize over time.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/8-brain.jpg",
+          "width": 1741,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
+      "publishedDateTime": "2020-10-13T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities.md",
       "title": "Global Artificial Intelligence Market (2020 to 2026) - Bringing AI to Edge Devices Presents Opportunities",
       "excerpt": "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets.",
@@ -1346,58 +1389,6 @@
         "name": "Dataquest",
         "domain": "dqindia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-the-importance-of-human-machine-ai-team-building.md",
-      "title": "The Importance Of Human-Machine AI Team-Building",
-      "excerpt": "In the future, teams of human domain experts and their AI-bot sidekicks could make sure critical assets in the fuel retail industry are safe, always available, performing at their optimal state and protected from cybersecurity threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda4c699cb83e0006e372f4%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/amp/",
-      "publishedDateTime": "2020-10-05T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

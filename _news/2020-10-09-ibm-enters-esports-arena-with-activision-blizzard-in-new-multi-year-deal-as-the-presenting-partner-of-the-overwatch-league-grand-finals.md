@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-excerpt: "IBM to help power interactive and analytical content for the Overwatch League, engaging fans and players through cloud, IBM’s Watson artificial intelligence, and machine learning ARMONK, N.Y. and IRVINE,"
-publishedDateTime: 2020-10-09T04:01:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-lifestyle-products-and-services-09560d68e8ed6386c546a08c0df19c1e"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-lifestyle-products-and-services-09560d68e8ed6386c546a08c0df19c1e"
+excerpt: "IBM's Watson artificial intelligence, and machine learning Through the course of the deal, IBM and the Overwatch League plan to leverage IBM's suite of advanced cloud and AI products. Starting in ..."
+publishedDateTime: 2020-10-09T04:22:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting/article_e5d1c22b-cc99-5de0-accc-251c39e035e0.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting/article_e5d1c22b-cc99-5de0-accc-251c39e035e0.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "0lHFTq3BeM43pTobJgFGjhz8dxcw5JoFKKrtAFhRo4NFsZJ+7fXRRxfdMckAdTq4fyMDF2aCELU9hh0G4rM4MXR2V6EvgT/71jughW7D+uuSmr4BdcmaVPdjbhoDUXMXuSVRndntnPgPl0oSBQ67v9hvQYSArIxfWfOr6ygnUuztnkIzcct7yDBWm6yZ3G9Y68WJA+L7oZoPwcDRtPVT3imTVKuqvNdvNYkMbEvYmvFV0UJ1IwIPmizSj7PtVHvQxc5Qm5r9WN2L1FzamUP25HEAVZCQVyaSda53rmGY+rBZvRWgALmMNFwTiLIKMfPhptq8yd1vaRZfJaFGy43xxxuSQpzpGch+ENxotacJJkI=;o+mIzyBXp7ZSKXM3AHKEuA=="
+secured: "mUqd0piqjc9CiFWF4wMwNsdlGcfvUG8J88lchWoY2ubvzzQMTiPF0wPyGFCmZFPxvc1B6M8qOntS1kfEftOc/MBKNfCjWxSV0MHeLnAl7c/en4zXTHJi+1d0+r6X5u9dyOQaVCi6HUHKDttE10GCzJ+N34VUvXk4SHW9HV1HA4qomePTuXWDhY3HKl48vMrqIfeuL156bIXqZC+IKhrxKkwxLn26RQDRiU6gBMtjCcfJyIufGfkH/Bgy6HHpBp63fXGhlmFRHhJUj23FCAPnLXPEDQSIS0tZ2s1brQblkYLwpR8DQxwuA8NHSi4UQYP/nJFzhYRQoXPm8qTg+QqGqr8fp2hIVXIsu7L0/ngNRys=;iiDAQ5FVEhtr1D9do9v3zA=="
 ---
 

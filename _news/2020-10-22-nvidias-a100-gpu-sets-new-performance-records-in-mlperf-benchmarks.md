@@ -28,29 +28,20 @@ related:
   - title: "Nvidia makes a clean sweep of MLPerf predictions benchmark for artificial intelligence"
     excerpt: "MLPerf benchmark tests are an opportunity for chip vendors, and system builders, to show how much performance they can achieve on a representative set of machine learning tasks. Nvidia capture top marks against Intel in all the tests."
     publishedDateTime: 2020-10-21T17:15:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 76
-  - title: "NVIDIA's AI Reduces Video Streaming Bandwidth Consumption by 10x"
-    excerpt: "GPU-manufacturer NVIDIA announced their Maxine platform for AI-enhanced video-conferencing services, which includes a technology that can reduce bandwidth requirements by an order of magnitude. By moving much of the data processing to the cloud,"
-    publishedDateTime: 2020-10-20T13:07:00Z
-    webUrl: "https://www.infoq.com/news/2020/10/nvidia-video-bandwidth/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
+    quality: 79
     images:
-      - url: "https://res.infoq.com/news/2020/10/nvidia-video-bandwidth/en/headerimage/nvidia-video-bandwidth-header-1603033460923.jpg"
-        width: 1200
-        height: 630
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/10/21/da38c232-3ba9-4040-b93d-67cfb3dfb523/nvidia-a100-press-graphic.jpg"
+        width: 2000
+        height: 1296
         isCached: true
 
-secured: "TemJ1aZ3jcwPlzuK5tt8OXSgtvEFRpSsDPP2DD7Z4l/Mxmp2P059E7Ufy/VDP4EeSwq3CODxv0bTtgiMgDW8J8GIgWG2A1tL4f7h5unccByrTTnKZg1UoI0vU5iLQyIfSHiW/fhAkkb/porsJXSTYEpHusWv8gM+NafivsDdUvb8fgRUhJj46zsApAkCANcFjg/VHWCiKVEPz42KoZAUS6v99Z98LQmCfccuUHoQl7QX9C+9+VJddqvtMaq1w7ci6g2mrHI3WGeoIQ36AFlXzzs35Vr95UVsq5C/uDYauAlpPs8yCp5rtQKVwXUhhhrSCyAm//hxf1v7dYPsbApZ4VWiQjHHe5Sr8Iqf2qBzLz4=;tMyBDOIqu3VesVioYSbwoA=="
+secured: "HZpLH58UAdBwk+33kIxJVRLutjGD6xAUwCvTi3QyYdtBBKGjicJyK1cBOymHUAI7QITIuJD2SpHY6ahvQqXy7MoDS2un4vzsVXj03NkwZamzIw1laPK8RJQQhhWsFv43lyjgM/stPokcpQcoq8kwQ38VYr/4LCuRa+EQPoc2ksPSaU+A3XtSLzfK2Bb2fUmL5geC7kKEGzODHN9i/RwfEg57e92SdjESavdhCBQS4qWR2DyvavRLoMXYFbm5FSpQnV0NPcYppweLKImovozTNnE8ruxFtTKn40o0Yr6poefmboRr7ZRejWghu7ZSrP/QU/sMkgiiHXdgF6hXmSjFmlvCX5xsA3lwRnk8j4lrBMI8FXanFclT3dv2X5PA3M0AECOHl5WUE0LczpBOaJgI13F9ZUbt0ZC5eZbyA96Sl59UtAnoFKY6GD+3q9Sh/dvTmaA7J2lgqsCzb2E5fAT7qHUQG1sObsl2YUZ4GJkdSJz8Emi8DoGfDH/a8ZFMViydy1loWMLWlqi41ZXt7gzk5w==;0boowD/Mk+3B1G9UO1xWoQ=="
 ---
 

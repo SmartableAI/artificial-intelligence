@@ -2,31 +2,26 @@
 category: news
 title: "'AIZEN' AI banking-as-a-Service, Empowering data platform to launch lending services"
 excerpt: "The financial services industry has seen drastic technology-led changes over the past few years. While some of the big tech giants have launched their own Fintech verticals, there are many brands that are also increasingly looking to offer financial services to their customers."
-publishedDateTime: 2020-10-20T15:24:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-1029699791"
-webUrl: "https://markets.businessinsider.com/news/stocks/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-1029699791"
+publishedDateTime: 2020-10-20T15:00:00Z
+originalUrl: "https://www.finanzen.net/nachricht/aktien/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-9412110"
+webUrl: "https://www.finanzen.net/nachricht/aktien/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-9412110"
 type: article
-quality: 79
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1315038/Embedded_finance__AIZEN_s_AI_banking_as_a_Service.jpg"
-    width: 400
-    height: 225
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -46,21 +41,7 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "7 Steps to Deploying AI-powered Self-service during the New Normal"
-    excerpt: "It’s no surprise that AI-powered self-service is gaining traction with customers. Even before the pandemic created a New Normal, 73% of consumers said they wanted to solve their issues on their own without having to engage with a human customer service agent."
-    publishedDateTime: 2020-10-17T04:14:00Z
-    webUrl: "https://customerthink.com/7-steps-to-deploying-ai-powered-self-service-during-the-new-normal/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
-        width: 1280
-        height: 960
-        isCached: true
 
-secured: "zR6q/WyEHJQMzt58r/lGCypRKn5iOZ2BigzauxqsNoep6pI3+NyyIM3y0QuDsGwpUhCQkLfSwb61O4F3BTab9+yQ/Zn8NE7l9xqyksOyBJv8HbMkfD+gK5BIHWkdms7Go5E+QHrJxnMRq1f9GpuXYtsoXtlhsaxRlHNS/NJKGvGdptvWk9cAohSf3Ty4LEyoIduc33BcJid7or8/UvrAJpN4Kp0dnLl2IoOX3qhN53aPZyu5p3tWqKQCkF97vfrOw4VUiyklhorpLdhIuVtf3s+IORAFFy0gk9JYJJ5izova/ehPszHQJRwLPHSxnDBkSrRNx1UPGKap99/Y+NBHA/z5gSzQjN1ELYF98ZpawBg=;jMJ8xRbH16ATzs/p/+oSSg=="
+secured: "2IjYqau/lnzXra1MJrL4q4xxd8qqGyGhZGmrRAggQFTAccY+WOpQOVmMdgStbdznRvp+wiYsXYEH57/mK6i4GEG/jTeJgN2ioN45ZxnIsD9GxWD9WqoLs9ZPZm7qzlq8MaDmE0v5OE1Fa+CXJH4vJzTDejy7QE0C4ZXr3Qu656J53aPVOSa2w7myw4qWEYl3MaEIMbjuNNIDkhNt3gONpGdUAE/L4IHee7yT2EsL59SpZk1UH13XF+eqzed14jPnZD4DJDHc+MYbVzXUuf3c4DLYtoj0ghqSnH1VBYu46bdssIRkKJrUUn7EDQWYUHqybhV/+nCeN1gpF+ucntT0xUW0QMs5+e/9IqM8IalgDsA=;TzIlVAmKdyH/6JJTE7xJ3w=="
 ---
 

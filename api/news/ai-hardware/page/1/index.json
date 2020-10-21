@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-22-chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai.md",
+      "title": "Chip industry is going to need a lot more software to catch Nvidia’s lead in AI",
+      "excerpt": "Topic: Artificial Intelligence  The semiconductor industry is in the midst of a renaissance in chip design and performance improvement, but it will take a lot more software to catch up with graphics chip titan Nvidia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
+      "originalUrl": "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
+      "publishedDateTime": "2020-10-21T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-intel-sends-ai-to-space-in-launch-of-a-satellite-the-size-of-a-cereal-box.md",
       "title": "Intel sends AI to space in launch of a satellite the size of a cereal box",
       "excerpt": "Intel has sent artificial intelligence (AI) beyond the boundaries of Earth in a tiny satellite designed to streamline data processing in space.  The tech giant revealed the launch on Tuesday. An experimental device,",
@@ -1368,49 +1411,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-oss-presents-ai-on-the-fly-and-data-center-in-the-sky-solutions-at-nvidias-gpu-technology.md",
-      "title": "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology ...",
-      "excerpt": "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

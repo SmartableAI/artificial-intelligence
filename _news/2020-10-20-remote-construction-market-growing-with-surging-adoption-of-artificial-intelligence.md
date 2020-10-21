@@ -46,7 +46,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 46
+    quality: 48
   - title: "Norway Is Developing Self-driving Ferries That Passengers Can Summon With the Push of a Button"
     excerpt: "Zeabus is working to develop the self-driving ferries in Trondheim, which sits on the Trondheim Fjord, in central Norway."
     publishedDateTime: 2020-10-20T16:08:00Z

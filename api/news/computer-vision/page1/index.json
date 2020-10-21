@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -51,6 +51,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
+      "title": "Neural pathway crucial to successful rapid object recognition in primates",
+      "excerpt": "MIT researchers have identified a brain pathway critical in enabling primates to effortlessly identify objects in their field of vision. The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/neuralpathwa.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp",
+      "publishedDateTime": "2020-10-21T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1465,49 +1509,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-traveling-brain-waves-help-detect-hard-to-see-objects.md",
-      "title": "Traveling brain waves help detect hard-to-see objects",
-      "excerpt": "\"We then used these computational methods to uncover what change was occurring in the nervous system to suddenly allow for object recognition.\" The scientists recorded the activity of the neurons ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201007123114.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201007123114.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
