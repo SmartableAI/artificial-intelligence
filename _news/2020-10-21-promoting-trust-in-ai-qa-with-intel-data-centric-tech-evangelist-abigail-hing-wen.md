@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-21T02:38:00Z
 originalUrl: "https://www.digitimes.com/news/a20201021PD206.html?chid=9"
 webUrl: "https://www.digitimes.com/news/a20201021PD206.html?chid=9"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI Ethics
 
 images:
   - url: "https://www.digitimes.com/newsshow/20201021PD206_files/1_b.jpg"
@@ -24,6 +25,6 @@ images:
     height: 427
     isCached: true
 
-secured: "87YUlem5pwnJOvFgsrfO2kK677TICoJYV+f/ArTGi1KglHQ4BXv63lmzBMmZ5942Tvzlf9/oQQJeScqxu4xuVjmLKfwz8RZ6bZIGqXCWXzK3EjDx4bPxNbS6LMPP/bJwlJWZEF7NhpXxl0JNQ0Z1w5gxLYu/sPM+MUgROlw+SePxnOspHG85fXYY8mi+AggPgdRJ+oUiXiM83UzuEEqX45ZdS0jUHmpj9qMXTGC8U4tNobPKjJbl8OTBh07Xxyax5u7YYX5q48vjAJl5P2X7Ij55EB838NWAcMOUUHCGcEu+epwwuujtsyG9tM5gXCP5zKOqZUp+ZBA5yOtzyKuRQ80TGnsK1+6vQXqBhPAs7t8=;albLXbjuoXKa3tSHW5UPkA=="
+secured: "paCaNDpJY5yVgpSpV4vnkO8yeKRvK25Oml1WFxB8ALh38lurnURqWtObX5s3qqJS/Ck4wr7oaJogLsoTuZtCeLZpruahCku18HPQbJatr8JFgf9TG5TxvJoxK6u4VMhw+Iyz5zVFL7RRpMzP3AxjBJI1irCN/3b0PQ2uIq3clDQ7YwE+zoNQ+cLULpVgTCNUZZ27HSIvYspGm4wcXLPHERlOt2Bo0LWiw+7UB42gOgn6JlJPlrk4IZu/SGn1XRi7K1ldeIoj9IghrgcfUMgxuPrbvWHCpIN8HsclYjekA9qCkXzCjDs/4ZXjZTbj3Os1MSTZo/QBczeh5x5bsVWfz0EZAnq5PCWulm8EsaoMZQRd28a4edTsj1ngfXyGQsg25/H9FtkB8af6f4/JPNIIQbxoUixFKQfDL3ZVNIol8GGW67NyYjgy1Z/X0YU9Aqtor4kwI5fjQi3VIpSYK1abnN6gQDfrt26i5JvhEuHqG8oAwirXjKylWWJo0Z2RO45EvGJx6s5LvlsBpkjtBMsdsg==;z8mwLUwq1djPrT3ihZMaoQ=="
 ---
 

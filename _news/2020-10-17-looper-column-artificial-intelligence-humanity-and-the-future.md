@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Looper column: Artificial intelligence, humanity and the future"
-    excerpt: "Columns share an author’s personal perspective. ***** In September, the British news website The Guardian published a story written entirely by"
-    publishedDateTime: 2020-10-16T14:12:00Z
-    webUrl: "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
-    ampWebUrl: "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
-    cdnAmpWebUrl: "https://www-southcoasttoday-com.cdn.ampproject.org/c/s/www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
-    type: article
-    provider:
-      name: southcoasttoday.com
-      domain: southcoasttoday.com
-    quality: 59
-    images:
-      - url: "https://www.southcoasttoday.com/apps/pbcsi.dll/bilde?Site=NB&Date=20201016&Category=LIFESTYLE&ArtNo=201019817&Ref=AR"
-        width: 387
-        height: 393
-        isCached: true
   - title: "Artificial intelligence, humanity and the future"
     excerpt: "September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet."
     publishedDateTime: 2020-10-16T21:07:00Z
@@ -74,20 +58,15 @@ related:
         width: 680
         height: 931
         isCached: true
-  - title: "Column: Artificial Intelligence Could Soon Let Us Share What’s in Our Heads Wordlessly"
-    excerpt: "What if you could don a Star Trek-like hat or headband — with small flashing lights of course — which through artificial intelligence (AI) allowed you to type merely by"
-    publishedDateTime: 2020-10-20T19:00:00Z
-    webUrl: "https://www.thepilot.com/opinion/column-artificial-intelligence-could-soon-let-us-share-what-s-in-our-heads-wordlessly/article_78301dc8-12f9-11eb-bbac-8f4399042937.html"
+  - title: "Humanity defines the challenges of artificial intelligence"
+    excerpt: "In this episode of Where the world's moving, global AI ethicist Kriti Sharma explains. Paid and presented by OFX."
+    publishedDateTime: 2020-10-16T16:23:00Z
+    webUrl: "https://www.bbc.com/storyworks/where-the-world-is-moving/tech-driven-experiences"
     type: article
     provider:
-      name: The Pilot Newspaper
-      domain: thepilot.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thepilot.com/content/tncms/custom/image/131e72c6-2bfb-11e5-9b9f-070bd3599e11.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: BBC
+      domain: bbc.com
+    quality: 47
 
 secured: "XvPk2XzEak51tSarmLfeKiygtaaOnPKdwRc77xSMnEwWZFXNO1eM3o/qlYQKgPaHrOD0In/5htPp3/JD2a1PadY0Y3lgrkj7YROUQCNmp56vLG0L8ZWGO4W1hVhC550Jtt1lbsVsfm3ePrCFJQDjAwFH4BsOYvF87kzGem6W4017rnqsn9KskUpOxdn9uL68UQ0/e7Qpd28z7IQnoN9MSlA/G2RJu2RQotmRukZUWT0fcWyqQpG60Oe/4K8uSJfjZYYiaYWpEk2YDlksfdPhOhxraGTA2gC69hPNTJkfhB9msWHYMoIZPIfqRoNly/RyTFW96WI7OmvfNWGpboZkWsRig2GEZvgnjlE8jali57A8ym+61g+9yeKbl+xqe1TCRIkdc7DQ0BYNIR1GIS7fmuuuw3KqoIrn2gHhZWpQ3QzIxes5HNgGcJe9L4MaJEu/JcMZukiY+W5mUNWE71ovY8LT2cUHvhLoGff7Gvo2pJRXAUpJRaAq51qdk98Lb5k+dEuzqwnZ5gn4FGmC1Ky/MQ==;bFT7ap2OR3/QzHvy8tiL3A=="
 ---

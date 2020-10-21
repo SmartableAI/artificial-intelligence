@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-sa
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
 type: article
 quality: 94
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/AzureSpace_3D2.png?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Azure Space – cloud-powered innovation on and off the planet"
+    excerpt: "Microsoft is taking the next giant leap in cloud computing – to space. I am excited to share the work we are doing to make Azure the platform and ecosystem of choice for the mission needs of the space community with Azure Space."
+    publishedDateTime: 2020-10-21T06:15:00Z
+    webUrl: "https://www.itwire.com/sponsored-announcements/azure-space-–-cloud-powered-innovation-on-and-off-the-planet.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/0dcb370ddd4864b110eb1b5cdcf41255_M.jpg"
+        width: 350
+        height: 233
         isCached: true
 
 secured: "ugH+5XodfP3wa0eYnkxkK4aS/WhsSq0sG8GoAxw/8ZCE6tOrUW8S+BHo/NvkL9RuePtAvyu3u1wtVRfOGS+ZWpUK4Dd+QWLDHru9K+dMWBNW10k3JJt8o+5pytL7AWxBgM58l+9a02IWL7m3d14PL8EhNyQFkfM8jjEyiTjKph8DnFO6+OkhwXBo0yf9kI23vryOI74MmZ5OA+nMBnmF7SV+oU8yrMYt5BJfgv/t5pGj9VlmS9OiVaVCtVvUYJJUCTEuGYnHFbvsNwx0k2CRj02AU/Gl7n3dWNMUnIongipAGVNARlWzy55iS/bkZifLmp5FIsILNdaVuQNFJF8Rt8EOPuQtfA4eO9vdHFVS+eDKxHr/O4pfEWDVxr0to2f2bwPGy8fVz4IYdjyZIF0gDZtsXIjh/dux0MkLmZX2ehKIQ90bu9Zq+sXxkNrks7yL2uZglORulmq+SrnXUFDMirENKVfYytQljlzf/uDd4crmJwrY1QoPSLu9H11FLJ//LkXqWLg4rxP9CVGex548Yw==;BMGYzfoIZzokH8JSohxbxg=="

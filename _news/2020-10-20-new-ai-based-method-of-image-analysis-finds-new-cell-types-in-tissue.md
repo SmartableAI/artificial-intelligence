@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201019/New-AI-based-method-o
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201019/New-AI-based-method-of-image-analysis-finds-new-cell-types-in-tissue.aspx"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI methods of analysing social networks find new cell types in tissue"
-    excerpt: "In situ sequencing enables gene activity inside body tissues to be depicted in microscope images. To facilitate interpretation of the vast quantities of information generated, Uppsala University researchers have now developed an entirely new method of image analysis."
-    publishedDateTime: 2020-10-19T13:54:00Z
-    webUrl: "https://phys.org/news/2020-10-ai-methods-analysing-social-networks.html"
-    ampWebUrl: "https://phys.org/news/2020-10-ai-methods-analysing-social-networks.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-ai-methods-analysing-social-networks.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/aimethodsofa.jpg"
-        width: 2220
-        height: 1248
-        isCached: true
   - title: "AI methods of analyzing social networks find new cell types in tissue"
     excerpt: "The problem is that distinguishing all the important details may be difficult. This is where the new AI-based method may come in useful, since it allows unsupervised detection of cell types as well as detection of functions within an individual cell and of ..."
     publishedDateTime: 2020-10-19T17:12:00Z

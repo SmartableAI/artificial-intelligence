@@ -23,22 +23,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "AI methods of analysing social networks find new cell types in tissue"
-    excerpt: "In situ sequencing enables gene activity inside body tissues to be depicted in microscope images. To facilitate interpretation of the vast quantities of information generated, Uppsala University researchers have now developed an entirely new method of image analysis."
-    publishedDateTime: 2020-10-19T13:54:00Z
-    webUrl: "https://phys.org/news/2020-10-ai-methods-analysing-social-networks.html"
-    ampWebUrl: "https://phys.org/news/2020-10-ai-methods-analysing-social-networks.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-ai-methods-analysing-social-networks.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/aimethodsofa.jpg"
-        width: 2220
-        height: 1248
-        isCached: true
   - title: "New AI-based method of image analysis finds new cell types in tissue"
     excerpt: "In situ sequencing enables gene activity inside body tissues to be depicted in microscope images. To facilitate interpretation of the vast quantities of information generated, Uppsala University researchers have now developed an entirely new method of image analysis."
     publishedDateTime: 2020-10-20T01:41:00Z

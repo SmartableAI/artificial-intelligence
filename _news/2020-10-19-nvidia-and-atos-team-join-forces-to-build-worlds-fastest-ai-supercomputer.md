@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 508
         isCached: true
-  - title: "Italy's Leonardo system to be \"world's fastest AI supercomputer\""
-    excerpt: "Italian inter-university consortium CINECA has turned to Atos to build what it calls the world’s fastest AI supercomputer. Leonardo will be able to deliver 10 exaflops of FP16 AI performance when it launches next year,"
-    publishedDateTime: 2020-10-16T14:18:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/italys-leonardo-system-be-worlds-fastest-ai-supercomputer/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Leonardo_supercomputer.2e16d0ba.fill-1200x630.jpg"
-        width: 480
-        height: 252
-        isCached: true
 
 secured: "dvHAEv+pLJUAKFRXaeUQZthcZ/APKTWnDU3unTNnDDlbSgdlBuYDRc3m/d3lQ1B42Q96sASBX/+7QX2jkF1iH9GKopJIhSYawq9UvqfsFe6sx+VZJZ3C0yxNhsexLYJCpvZK+74Z1ZApjjRvR3MQ/5B0NJpNN1/2XhwheQ2rhAyePx8j7L5NUj2fmRFhw8n2gu9Wx8SgO3GtJF+rDa/cFgYg85ZUgHw17jfe+l3tV2t54Jhp9rSJaJZFqdWTVIBkveS/R6w1kw7AgvOeEuDjfisMMekdz7rX5kOY5+gfGVZs6km9/FzGYYE9H14090Mw6zhO8xqL2nbUqmjqaNndZfJyHk4HZ51ynmocbNcY06mTwrpPbocfcey9e2NYg/+5Y7wLm8mhpNqOA94DOrSFdWqr0FtQ/jAyKPtSVDNbal+QyTeipylNGs0fwkxi+89eX4XF8Dd6SBwQTaLCm+waBuyvRmWBZ7jbcD0xf0hnTTjv49fGoxRzBZ5UWiU7WOEmrZT9EXreLoluLf58RVVPtw==;1elTIK2Sk6oL9q0MRzj4DQ=="
 ---

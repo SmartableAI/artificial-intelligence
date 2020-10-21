@@ -19,21 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "7 data science start-ups shaking up AI and analytics – Silicon Republic"
-    excerpt: "From the start-up that wants to make machine learning accessible to everyone, to the one that’s using analytics to monitor and take early action against skin cancer, here are seven up-and-coming science start-ups making waves in AI and analytics."
-    publishedDateTime: 2020-10-16T14:46:00Z
-    webUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic"
-    ampWebUrl: "https://www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/7-data-science-start-ups-shaking-up-ai-and-analytics-silicon-republic?amp=1"
+  - title: "Women Increasingly Entering into Artificial Intelligence and Analytics Domain, Here’s Why"
+    excerpt: "A survey by Great Learning explains the reasons behind the growing footsteps of women in the analytics and artificial intelligence industry Great Learning announced the results of a survey conducted by them on the participation and involvement of women in ..."
+    publishedDateTime: 2020-10-21T07:34:00Z
+    webUrl: "https://www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/"
+    ampWebUrl: "https://www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/amp/"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
+      name: Dataquest
+      domain: dqindia.com
+    quality: 65
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Technology-Futuristic-3262753.jpg"
+        width: 736
+        height: 400
+        isCached: true
+  - title: "AI methods of analysing social networks find new cell types in tissue"
+    excerpt: "In situ sequencing enables gene activity inside body tissues to be depicted in microscope images. To facilitate interpretation of the vast quantities of information generated, Uppsala University researchers have now developed an entirely new method of image analysis."
+    publishedDateTime: 2020-10-19T13:54:00Z
+    webUrl: "https://phys.org/news/2020-10-ai-methods-analysing-social-networks.html"
+    ampWebUrl: "https://phys.org/news/2020-10-ai-methods-analysing-social-networks.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-ai-methods-analysing-social-networks.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
     quality: 59
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2019/03/GettyImages-959874388-620x250.jpg"
-        width: 620
-        height: 250
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/aimethodsofa.jpg"
+        width: 2220
+        height: 1248
         isCached: true
   - title: "How AI & Data Analytics Can Solve Supply Chain Pitfalls"
     excerpt: "The supply chain is an ecosystem that affects businesses around the world, and the COVID-19 pandemic has thrown a"
@@ -83,17 +99,6 @@ related:
         width: 794
         height: 356
         isCached: true
-  - title: "Using AI, Data Analytics to Enhance Person-Centered Care for Seniors"
-    excerpt: "Artificial intelligence and data analytics tools could help older adults actively participate in their own care."
-    publishedDateTime: 2020-10-16T14:48:00Z
-    webUrl: "https://healthitanalytics.com/features/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-data-analytics-to-enhance-person-centered-care-for-seniors"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 41
   - title: "ECS Names Aaron Burciaga Senior Director of Artificial Intelligence and Analytics"
     excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Aaron Burciaga has been named senior director of artificial intelligence (AI) and analytics. In this role, Burciaga will work closely with ECS’s national security and intelligence division in the development of AI and machine learning (ML) solutions."
     publishedDateTime: 2020-10-20T12:59:00Z

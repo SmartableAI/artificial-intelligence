@@ -79,6 +79,15 @@ related:
         width: 1800
         height: 938
         isCached: true
+  - title: "Elon Musk Announces Tesla Full Self-Driving Beta Release Tonight!—’Extremely Slow & Cautious’"
+    excerpt: "Elon Musk announced the new beta testing software of Tesla's Full Self-Driving technology for the company's all-electric vehicles on social media, Twitter."
+    publishedDateTime: 2020-10-21T06:32:00Z
+    webUrl: "https://infosurhoy.com/technology/elon-musk-announces-tesla-full-self-driving-beta-release-tonight-extremely-slow-cautious/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 8
 
 secured: "mG1RtY92wiBdseks6ZBOpBddSim+uCBWxSaxHKkHx3R32OT14HHqhiPcWYgb2gu71gEJV+BpCCFZFNAl5fsrF2BDvudg0Ln34RBzgIX1i62qwbEOL4FEtn6jD38fD6NNmla7CcvOkOxWd9HrforoeiMMkRBSPG66azFYAtED5AEbgHA4SMDYuwHOu/OB6jNdNe3hOXClaf8bTyt7ds66JzGS2CCIZJfXpcPaKOT4N5onj15fmwLboTnUHoTi95X8VAJAWjn9sSGIisTUeDj4KoXreeqzppnGXarz0lq5Yx580yXuek3gsi6sj4zWL4vGluHRMulDGEvDn3W7lvuCJgvkkYUYDD53a189R7y02e2OYNIMJdTaXJcTOxXPFpp58/wyJx0VRYx4rBlMYkNMqx1N7UFdWHR2hCzk6hvOjIuhmy+CwAYkuXKSCIXZosYSFfgD4ZSCirr6G3fKHT1dvRu9tdSnuQkohXqYDtzLFCoBO+IhdYh+HLLtoGvL9LI46em2zL3bG8WAoQ639G8DIw==;hPK9uiwG/yAbgwiNk6Sypg=="
 ---

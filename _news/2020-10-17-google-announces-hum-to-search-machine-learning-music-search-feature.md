@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-announces-hum
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-announces-hum-to-search-machine-learning-music-search-feature/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: TechRepublic
@@ -23,24 +23,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Google Announces AI Search Updates – Analysis"
-    excerpt: "This is how Google AI updates will dramatically impact how sites are ranked. Analysis of changes for SEO and publishing. Google announced a series of changes to search that will change how sites are ranked."
-    publishedDateTime: 2020-10-16T13:15:00Z
-    webUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/"
-    ampWebUrl: "https://www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
-    cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/google-ai-updates-to-search-results-impact-analysis/384176/amp/"
-    type: article
-    provider:
-      name: Search Engine Journal
-      domain: searchenginejournal.com
-    quality: 57
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2020/10/ai-in-search-5f88cc960a6ef.png"
-        width: 1600
-        height: 840
-        isCached: true
 
 secured: "SH+/TvA5mbHcHW89GCRApG7UWEVULDT5NdZ3gthcLF9zl4AiZZkEQ46fd/Rpfk8bgb+WYf4QbV5fIEA4wWES5onLJnn2+oa5wpq1fBjDsxL8VeM06pPcWrWI9TW9PkeY4m88FS67fAipwZ1X5qG9LH5FofcJIJwm1eVIw4J+us2doTQPIvgzV+QHMQX2hBFuq3xrMbfiKGwPjc3gR8jy4/UslQl8Cd051p8xQRtfMeIT3h8v7oaGbM9Dmj9d4hGUgUfib+8i2snaSI8g4A2pyY0jluCpjp6/s7h9C+0TciXUuSKcUs6c1KA9t43N73T6Xzv+NyY9+9wNDuXf2yVfZ7DkuV/9d/iWnLj33RyyECmCPgLs1BikVB8hM8lfrMd+xvAwkGD1bve4Jm4T+lWcGD6K9ALilS3a30kRG4Re5isBkWk0WhgH+Qe9ObSsYyZ4FRjqYOUa1NCfuYvbTxAUGUWDR2kpFp9Qdk/6vUz6/m42Ux0FRQGYFDqrglN0/tIXXsdK4hfqOIeivQtVp3Qy4g==;g1I6oO+yHU60XNqdyGhGiw=="
 ---

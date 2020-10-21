@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.heralddemocrat.com/amp/3684033001"
 cdnAmpWebUrl: "https://amp-heralddemocrat-com.cdn.ampproject.org/c/s/amp.heralddemocrat.com/amp/3684033001"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Herald Democrat
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Looper column: Artificial intelligence, humanity and the future"
-    excerpt: "Columns share an author’s personal perspective. ***** In September, the British news website The Guardian published a story written entirely by"
-    publishedDateTime: 2020-10-16T14:12:00Z
-    webUrl: "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
-    ampWebUrl: "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
-    cdnAmpWebUrl: "https://www-southcoasttoday-com.cdn.ampproject.org/c/s/www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
-    type: article
-    provider:
-      name: southcoasttoday.com
-      domain: southcoasttoday.com
-    quality: 59
-    images:
-      - url: "https://www.southcoasttoday.com/apps/pbcsi.dll/bilde?Site=NB&Date=20201016&Category=LIFESTYLE&ArtNo=201019817&Ref=AR"
-        width: 387
-        height: 393
-        isCached: true
   - title: "Artificial intelligence, humanity, and the future"
     excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
     publishedDateTime: 2020-10-18T01:24:00Z
@@ -75,20 +59,15 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Column: Artificial Intelligence Could Soon Let Us Share What’s in Our Heads Wordlessly"
-    excerpt: "What if you could don a Star Trek-like hat or headband — with small flashing lights of course — which through artificial intelligence (AI) allowed you to type merely by"
-    publishedDateTime: 2020-10-20T19:00:00Z
-    webUrl: "https://www.thepilot.com/opinion/column-artificial-intelligence-could-soon-let-us-share-what-s-in-our-heads-wordlessly/article_78301dc8-12f9-11eb-bbac-8f4399042937.html"
+  - title: "Humanity defines the challenges of artificial intelligence"
+    excerpt: "In this episode of Where the world's moving, global AI ethicist Kriti Sharma explains. Paid and presented by OFX."
+    publishedDateTime: 2020-10-16T16:23:00Z
+    webUrl: "https://www.bbc.com/storyworks/where-the-world-is-moving/tech-driven-experiences"
     type: article
     provider:
-      name: The Pilot Newspaper
-      domain: thepilot.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thepilot.com/content/tncms/custom/image/131e72c6-2bfb-11e5-9b9f-070bd3599e11.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: BBC
+      domain: bbc.com
+    quality: 47
 
 secured: "zFZP1QGeM8dSsNkSvr8+jF8RZIz4LxIyBOb/mIhMY7pdXJmIzGm92HLXkSuf70NDc+tiBpGyJ9V/qZLRBWvFCZyuMTxH2v2DVJj8d3N8WxiZRBKkbGoCc9kr5UwuoT8vy839r7IM3Py1Vy0sifHkNAbSaslB+rq/H1jw54bsmFPZSAYkGu4xRtKk2voNuA1DkFxTIWToMeHJ6nOvXtw1cpAM/liD+CSRxZYtqceWQMpi3EzH9fnWWKJKTkE7HkPJiDLbZMLw0QLDTPjQFP/2PdatJ22U+13qH/X8PZpvk6TdOqKZqWVf1N/2UnWX+6CXceAZ/8yWhWusaNw6vTvKrkeZL3FiSYYmk5BEa3xxnXrE7t+G1C4sFlfo7soVOv4LlGqjdGQSMQsbAeOjiqvkk8KxZJNpy08qHMF7x+qnnJ9RpADEMlWQYgtz0rBdPTT09tyZGqsQ7uuKvzMaLTiNdMNdMPCZOUYE2xL7Y6shX9Y9H49Dzm1kU8oDDBJ8up7LTwJOhso5t2Z/gjjQUEAw0g==;p0aVzZcqxnWh2vLJ8Ge+vQ=="
 ---

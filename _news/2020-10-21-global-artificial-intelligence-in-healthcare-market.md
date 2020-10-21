@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2166080/global-artificial-intelligence-in
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166080/global-artificial-intelligence-in-healthcare-market-2020"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       - url: "https://technical.ly/philly/wp-content/uploads/sites/2/2020/10/Screen-Shot-2020-10-20-at-1.26.03-PM.png"
         width: 1200
         height: 674
-        isCached: true
-  - title: "Building Health Care AI in Europe’s Strict Regulatory Environment"
-    excerpt: "Many observers blame Europe’s tough laws regarding data privacy, which are more stringent than those in the United States and China. But our survey suggests that regulation isn’t the problem. Rather,"
-    publishedDateTime: 2020-10-16T13:32:00Z
-    webUrl: "https://hbr.org/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment"
-    ampWebUrl: "https://hbr.org/amp/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/building-health-care-ai-in-europes-strict-regulatory-environment"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/10/Oct20_16_1160663065.jpg"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "Global healthcare funding hit a record in Q3. Here's how much digital health companies raised"
     excerpt: "Global healthcare funding soared in the third quarter, hitting a new record of $21.8 billion across 1,539 deals. Here are the sectors drawing the most interest from investors."

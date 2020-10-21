@@ -26,22 +26,6 @@ images:
     height: 374
     isCached: true
 
-related:
-  - title: "iQIYI iCartoonFace Paper For Cartoon Character Recognition Accepted by Prestigious Multimedia Conference"
-    excerpt: "PRNewswire/ -- iQIYI Inc. (NASDAQ: IQ) (“iQIYI” or the “Company”), an innovative market-leading online entertainment service in China, is pleased to announce that its paper on face recognition and detection technology of cartoon characters (the “Paper”),"
-    publishedDateTime: 2020-10-16T13:26:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/entertainment-business-technology-products-and-services-animation-and-comics-194982335c8a3ec00b92c48fa1dbadbe"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "5T0gUBpb/o/rm6MttMtL4AnJ/Nx/ate9ddk6plAXvrPLdExaR9lly8ReJR3pb7n7AGeJ813wERelmJ934mqXtzKBc4/rrMKvCj4NeUPjNH9PU+MbXZVdZkDaXzoku8pNFVt/wuIVYD3qqxH7hC/lM4UTzkpMckodHKrum4BymBs/+tMRmiTBaiUJxEp4TFM2szd7Bmps2GLBSgurDaf8Gxq5k7+ULFkdua8GFfgJyRMapIcyZyJWnxEogj7qGW+lyLLFK7rBsEjYh+ZF7GqVLKCcX8V0ZFc4JLVbrRsCzsKeqJ2GcRnqx+lp1wKOCXchPw0SLzEMP5fZp6xE2/B6WuJqKOQ5xSayuw32zeyOKS8=;yq9wzOQrBkJ572L07L0ERg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-fsd-beta-rollout-tuesday/
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-fsd-beta-rollout-tuesday/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
         width: 1800
         height: 938
         isCached: true
+  - title: "Elon Musk Announces Tesla Full Self-Driving Beta Release Tonight!—’Extremely Slow & Cautious’"
+    excerpt: "Elon Musk announced the new beta testing software of Tesla's Full Self-Driving technology for the company's all-electric vehicles on social media, Twitter."
+    publishedDateTime: 2020-10-21T06:32:00Z
+    webUrl: "https://infosurhoy.com/technology/elon-musk-announces-tesla-full-self-driving-beta-release-tonight-extremely-slow-cautious/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 8
 
 secured: "kxIERATcK+WyANSS/jXoqhK2UvCn+4QLbu7moHkqImvpFyoJkT05bdj52jABcF10T6geMgjEHq6RmvRTsqHpXrwlkuycKUQdbiex+aEWW6hb15re+CxYABP7vCOIJXMIncg42fKH4CJAQSSMOtHao8ZVOYMEB6LJfqO/N46Gnrmi/Wu/m4XAM9ZxlMbYYdwX+xxlQAl1m59RsBM43ZN0W9BzbcOFE+weo+lcZaqmPOl+CMl7n4joPoZQkGDXkhtO6ey7ccESsQDjg/GD/ekD8dIObp7htcyBJb0SBNxxm0UGHiG+V4Quuo4QeswUPoLmTV7fbJf3EgT629dylta1SxiVAo/mQpDIWY9g2VrVxigaOGg/9ZVCiUy7DBxrmwkc8znMd6KE8pMD6fvC97gynYsy/9c5nPdWodf7179jBxOSVGPvv0Q+amI7Sjq88ULW7u6nwu5ukgAiiqEumb7li9cPrDyE0pnArcVnZrhdfjE1XTLBz0vo9J5dQlOBSPFgHOFPqVkoPUgirJ0h2kaOSA==;gCuzSCJe3UFRUQHNvZej4w=="
 ---

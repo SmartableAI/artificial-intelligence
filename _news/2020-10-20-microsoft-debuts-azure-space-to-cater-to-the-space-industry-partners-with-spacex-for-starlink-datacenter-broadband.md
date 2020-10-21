@@ -47,6 +47,20 @@ related:
         width: 630
         height: 479
         isCached: true
+  - title: "Azure Space – cloud-powered innovation on and off the planet"
+    excerpt: "Microsoft is taking the next giant leap in cloud computing – to space. I am excited to share the work we are doing to make Azure the platform and ecosystem of choice for the mission needs of the space community with Azure Space."
+    publishedDateTime: 2020-10-21T06:15:00Z
+    webUrl: "https://www.itwire.com/sponsored-announcements/azure-space-–-cloud-powered-innovation-on-and-off-the-planet.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/0dcb370ddd4864b110eb1b5cdcf41255_M.jpg"
+        width: 350
+        height: 233
+        isCached: true
 
 secured: "7RpZCuGANmY7p+FOA+igk856eYgHHRkLwC90KXfQnUVQTpF+1AXjsSonmz1Q+uBV4gsHHJNe59WU4DzJeLIu2GWB2fSMTFBtqhJ3dym0QqskA/HVi2y6nQXUdB575HKPKBetGQozCjEXzPfqYN0p7kk+VrelG+IR7UkeMk3z0jc2zdiA/DL3TFouZ9V7UOv5zHYubirvzB2oTLipSUA4A3IBgaYfLD6Y528Ae1IvjAqq/5wgOZ+dQTu+jeT7bC1u+1H4PoBQVmkx9+170KWNE0IMZD6ElxduROqwiGOtdWSr+7yfTlULW5WKUsm4wjATwFsfolOqeFYjmsD+Gvb0b5q27u80I3YRQ318MmE/pjiozjaN6gJprSBVDRM+/tW+mdIY6dwM4k/azIgLnXGD0dh92Aq0XmtQO8Wyi1Tv0YEItOlEzHPHjJ2uDmDgXXoCeuI9CNbyGBeDo+nYRWcCMNqHzoM5R7+lC1Y/GShULWzRcyDaMZS2PYnBFieO+A9ZKiglKuHVk0pz+LD98No90Q==;mY0vIXYzAKaYguvVxZQEWA=="
 ---

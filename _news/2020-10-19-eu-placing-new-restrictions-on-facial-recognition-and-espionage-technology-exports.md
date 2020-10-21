@@ -39,6 +39,15 @@ related:
         width: 900
         height: 629
         isCached: true
+  - title: "The impending technological innovations of AI in medical diagnostics over the next decade, reports IDTechEx"
+    excerpt: "Image recognition AI has the potential to revolutionize medical diagnostics. In addition to enabling early disease detection and even the possibility of prevention, it can enhance the workflow of radiologists by accelerating reading time and automatically prioritizing urgent cases."
+    publishedDateTime: 2020-10-20T14:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-impending-technological-innovations-of-ai-in-medical-diagnostics-over-the-next-decade-reports-idtechex-1029699600"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "UafpsY0g2Qns9kkYjgvVyYKdozWXnDTApplhktgSdzXL1maDbSVTIZ2ZH4pIA9LhPyLQYzCXWaHsh2t8i/NTihYG0EIzI6gW9/Tx+ueymg4wx+lwwQAnsvk4AbTnu6g7groloZICnh5oBl6RzBHZHBxl8J0QIwWXDIbpD9N1gJw/TMKBbgmTf8hNqOew17t2sMteO+8gZx74NyLkPP//xZdl3zXaA3OeHQGA4R65KHOoxUuLQWXzyXspK5dwmDudhQQrxP7yr7BWS2P7uU1P5hk07C3zOFa0PZ18uiMRNCsVRqJevlDx8Y3oKrmN8kxPzsQPsw0WhGH1x33N4t+/Ie0RL7stQOJnACAhUPDRJdk=;QROgCOwtdSfNyRnR3f8TXQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-detect
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/"
 type: article
 quality: 92
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1920
         height: 1005
         isCached: true
+  - title: "The impending technological innovations of AI in medical diagnostics over the next decade, reports IDTechEx"
+    excerpt: "Image recognition AI has the potential to revolutionize medical diagnostics. In addition to enabling early disease detection and even the possibility of prevention, it can enhance the workflow of radiologists by accelerating reading time and automatically prioritizing urgent cases."
+    publishedDateTime: 2020-10-20T14:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-impending-technological-innovations-of-ai-in-medical-diagnostics-over-the-next-decade-reports-idtechex-1029699600"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "/o16tuPxD3ZIlh1Xb2kPZ7EMVRTJualUlAOMG1s7mogGx5SkkHmSfD/0WU9QATE2E+KE5Qepxcbv/ajaMSxUk+zdyRhgD4wU9vg4X6vzj0wVTBL/aj+F3xJxJMDpBZuKXNLBT5ndLkHLxGufPRx5Tezzo19wgxOp6Xwvl9ua2ysIKbsnS1gixFkcUgEdf0OweJyAlGczAKX+zo9NVRJSqWfEAy0KngZyQKSKflBopQxgqyfSuYuspmXbuS3IocxxB1cZ+EQMXbzPkZGBlJgfdvR60n+X9Ji2MR2GG6q9CuBFMd+0N5ta+16SHoA32Fn/8VebXFs4Lku5+fkwhpSLIi4AXKt5pbTv3poQAPQmgTs=;SouhAyOt1uR3YTCTKxhacA=="
 ---

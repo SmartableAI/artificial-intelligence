@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/university-of-miami-becomes-latest-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "University of Miami Reportedly Used Facial Recognition to Discipline Student Protesters"
-    excerpt: "The University of Miami used a network of surveillance cameras and facial recognition software to track down students involved in a protest last month against the university’s decision to resume in-person classes during the pandemic."
-    publishedDateTime: 2020-10-16T14:29:00Z
-    webUrl: "https://www.democracynow.org/2020/10/16/headlines/university_of_miami_reportedly_used_facial_recognition_to_discipline_student_protesters"
-    type: article
-    provider:
-      name: Democracy Now
-      domain: democracynow.org
-    quality: 31
-    images:
-      - url: "https://www.democracynow.org/images/headlines/85/54985/full_hd/h14-university-miami-reportedly-used-facial-recognition-discipline-student-protesters.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "9A02lKO0Ut5L/57jZ0FootEXStZ23Wkg5z+pjxv8WBdJyMtq3uT2KyMBuLKkj0ekLsxLElykCcMuHsEA/cf3dS0a3Gpm/nsV2I/EMWNfAadlYZ3Z5bxhtEJbk/t9csGDRx0aXBh7bUYeDoHeivBhHxCnLSX7b7/kia92q0x9R57x6ZuS21tQVRQvJ0AzpojMuuNnBAOpbYV6HqyP9t1hV5Q4aXAUrx65AIBQEBJdBZCwhGrCd0WeSq9IN3v10TEZuM+mHsbatB8dnRCFzYD4m3+iM0vuaIay0lBEAfqLMD62+FmRVVmQdfzrVQjrX8aU3bb/qsH13foa1pQ0Je6lFM84jN2rCfdGqZz6hVqGyL59ihy1/qxe30RbT06kGFV06rFdBIsesTVfzQlLryClwsz53PzGrOh0ixY7k0uCiXyTsU/zsKdQKAQS5azqqttaCX0bcEsNU79Dq1Jau7na7/7GXbXZ32zQ0E8/6AKmz9mCtcYqERixaDB05KQOV3JHzrh0GU9rzJ5qekbwpm3zzg==;dkP8LscQyWSHMuLuxLzQAA=="
 ---

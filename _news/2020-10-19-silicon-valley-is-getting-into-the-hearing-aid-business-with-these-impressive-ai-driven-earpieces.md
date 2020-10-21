@@ -108,20 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Guangdong to be new hub of AI industry"
-    excerpt: "The Canton Fair, one of the world's largest trade shows that kicked off on Thursday in Guangzhou, South China's Guangdong Province, is located in the Pazhou area, a growing industrial cluster of information technology,"
-    publishedDateTime: 2020-10-16T14:46:00Z
-    webUrl: "https://www.globaltimes.cn/content/1203735.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-10-16/bc64cb1d-c042-458f-8d0b-7e2f20b52738.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "How Artificial Intelligence is Causing Cyber Attacks"
     excerpt: "Advances in artificial intelligence will benefit companies and improve with experience, but AI attackers can manipulate data and cause harm. Ambitious companies must plan to mitigate the potential risk of cyber-attacks now."
     publishedDateTime: 2020-10-16T17:53:00Z
@@ -160,6 +146,20 @@ related:
       - url: "https://www.embedded.com/wp-content/uploads/2020/10/10lr_f2r-1.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "How AI Is Being Used By Companies During the Festive Season"
+    excerpt: "Naturally, ‘festival season’ is also the time when companies look at stepping up their businesses. Given the scenario, more companies and industries are investing in AI and related technologies to drive more profits."
+    publishedDateTime: 2020-10-21T07:32:00Z
+    webUrl: "https://analyticsindiamag.com/how-ai-is-being-used-by-companies-during-the-festive-season/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Festival_AIM.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Startup Circle: How is KiksAR using AI to change the fashion industry?"
     excerpt: "KiksAR founder Ms Kavita Jha is erudite with a strong academic background. She has completed her MBA from Pune University. Kavita holds deep domain experience of 15+ years. Prior to"
