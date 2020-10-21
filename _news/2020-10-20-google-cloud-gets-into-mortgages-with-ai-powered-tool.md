@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI powered Proximity Detection solution launched to aid organizations with social distancing"
-    excerpt: "Ipsotek, a pioneer in artificial intelligence (AI) powered video analytics, has announced the launch of a Proximity Detection solution to help businesses across a range of industries monitor adherence to social distancing guidelines enforced by the COVID-19 pandemic."
-    publishedDateTime: 2020-10-20T08:58:00Z
-    webUrl: "https://continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing"
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 28
-    images:
-      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google Cloud launches AI-powered mortgage processing tool"
     excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."
     publishedDateTime: 2020-10-20T00:19:00Z
@@ -111,6 +97,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 17
+  - title: "AI powered Proximity Detection solution launched to aid organizations with social distancing"
+    excerpt: "Ipsotek, a pioneer in artificial intelligence (AI) powered video analytics, has announced the launch of a Proximity Detection solution to help businesses across a range of industries monitor adherence to social distancing guidelines enforced by the COVID-19 pandemic."
+    publishedDateTime: 2020-10-20T08:58:00Z
+    webUrl: "https://www.continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing?tmpl=component"
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 8
 
 secured: "o3oAQoPBxE3iUgpK2uK2EOmA8has4y/7S1hB2sMyAnaqbeK8GCQOJKZDgAmqmab6EKypc/XN5NlRVArB3GyrtPgINrnz4pQbs6s4iQUpIZCqfNFi2FUZEqvo70HqGIQKY4Sv9GJAvjGZ9EBhGf4C23FrxDGFzys/popg+rnZOj8xDb/zpyP4ygjYBR6Enum1QOOHJ+qcPlWbqyXTET6n/NY0PdUsIVhkeZBB1zzMtvXzmYGGv6Cpp+xkDCaRfeVIok5xT39UrHZOvAVTUMiroibHvsOnPGf0AGdWl4UeRmvEXOWoJkovBOoH/OTgU0HLfjyg6P2337mHDO4S9km/C+yvD+tWjyoNVli9EzQ5K+W7Y6PQFM9UqsKzGoEBblZ9bVkMxgxSayci7Dt+3SoOhpFu0ytZk1PN6sQPIywWGfGGBVUCHFJo2Z4SvwJzBU55OQmzJEYFEUgNJng9l97tQCg3ULCeEgYOgh7I091YbZAuLf/gaMOBdBvfHXst0AfO2vnctSy7aMGYimjJmRw89A==;2L1ZQxo+DNgQyX4JHZtt3A=="
 ---

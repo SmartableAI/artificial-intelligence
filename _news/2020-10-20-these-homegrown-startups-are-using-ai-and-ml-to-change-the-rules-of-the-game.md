@@ -9,8 +9,8 @@ ampWebUrl: "https://yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game/am
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game/amp"
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Your Story
@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The true dangers of AI are closer than we think"
-    excerpt: "As long as humans have built machines, we’ve feared the day they could destroy us. Stephen Hawking famously warned that AI could spell an end to civilization. But to many AI researchers, these conversations feel unmoored."
-    publishedDateTime: 2020-10-21T11:22:00Z
-    webUrl: "https://www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/amp/"
+  - title: "White House Nears New Rules on Artificial Intelligence"
+    excerpt: "The Trump administration prefers what U.S. Chief Technology Officer Michael Kratsios has called a ‘light-touch’ approach toward regulating AI, to avoid holding back U.S. leadership in the field."
+    publishedDateTime: 2020-10-21T17:19:00Z
+    webUrl: "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
+    ampWebUrl: "https://www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/ND20_hao_isaac_7401-web-e1602613033143.jpg?w=1448"
-        width: 1448
-        height: 2000
-        isCached: true
-  - title: "Startup to use AI to predict risks for mother and child"
-    excerpt: "US based startup CognitiveCare, registered in Hyderabad has launched the world’s first AI platform that helps in predicting maternal and infant health risks called (Maternal Infant Health Insights and Cognitive Intelligence (MIHIC)."
-    publishedDateTime: 2020-10-20T02:00:00Z
-    webUrl: "https://www.newindianexpress.com/states/telangana/2020/oct/20/startup-to-use-ai-to-predict-risks-for-mother-and-child-2212445.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2020/oct/20/startup-to-use-ai-to-predict-risks-for-mother-and-child-2212445.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/oct/20/startup-to-use-ai-to-predict-risks-for-mother-and-child-2212445.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 57
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/6/w600X390/Pregnant_woman.jpg"
-        width: 600
-        height: 390
+      - url: "https://images.wsj.net/im-247890/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "t41XuUajh+2a64sVr2Js0n66LSL1URmWVPhOHYeky0ig/1zmMGx8myGp0BL27ToQs6Gi+1Df3y91P8NjDUEMDjEIWRTqA87WDjaHqM+7Olp/V7SnCxrm4Zx4YULmRFlxM+UBHy6QYlR7kRc6QMIxgk8czPpasrzG4lKJLMl87C29LSz0F5A91b2W37Qa63kN4ID0isLxbZbU8oUngj9sMqNYgf4yngNyj+mWUOWL8tRsNMu7bNGqkSlUY1rpMoZW8P3xKaFPEBjxY9D43IQuSls/9GCEzLOc0PkO7OotOg+HS0gFkDb9t30RaLdE9uFneMENVP8Nk1a+3nmYjJMIFaAAg7BsnBxXUx3UPNedxiY=;qgCk2X+APavDOyW4TTHL+g=="

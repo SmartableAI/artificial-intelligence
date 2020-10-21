@@ -2,6 +2,152 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-15-armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy.md",
+      "title": "Army’s ‘Team Ignite’ Sets Futuristic R&D Targets: AI, Robotics, Autonomy",
+      "excerpt": "\"We ultimately want this Team Ignite to become the way we do business -- it's increased collaboration with the right partners in the right events,\" says Maj. Gen. John George, head of Army Combat Capabilities and Development Command (CCDC).",
+      "sourceUrl": null,
+      "webUrl": "https://breakingdefense.com/2020/10/armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy/",
+      "originalUrl": "https://breakingdefense.com/2020/10/armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/10/Maj.-Gen.-John-George.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://breakingdefense.com/2020/10/armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy/amp/",
+      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/10/armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy/amp/",
+      "publishedDateTime": "2020-10-14T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breaking Defense",
+        "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say.md",
+      "title": "Google’s breast cancer-predicting AI research is useless without transparency, critics say",
+      "excerpt": "Another study — a meta-analysis of over 3,000 AI papers — found that metrics ... a well-funded telemedicine startup that claims to be able to triage a range of diseases from text messages ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/14/googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say/",
+      "originalUrl": "https://venturebeat.com/2020/10/14/googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/14/googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say/amp/",
+      "publishedDateTime": "2020-10-14T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-facebook-plans-to-use-ai-to-help-fight-climate-change.md",
+      "title": "Facebook plans to use AI to help fight climate change",
+      "excerpt": "The social network teams up with Carnegie Mellon University to find new ways to store and use renewable energy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
+      "originalUrl": "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/DLI_wPn6SSXK7hKxFajKVx567f0=/1200x630/2019/12/30/913bf7f7-7ec0-4894-bb35-3807a65e36bb/facebook-logo-phone-4597.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
+      "publishedDateTime": "2020-10-14T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-brazil-launches-artificial-intelligence-center.md",
       "title": "Brazil launches artificial intelligence center",
       "excerpt": "The largest research facility in the country with focus on the technologies is run jointly by IBM and public sector bodies.",
@@ -253,6 +399,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-14-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
+      "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
+      "excerpt": "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem.md",
       "title": "On The Hit-And-Maybe-Run Self-Driving Car Dilemma (Akin To ‘The Molly Problem’)",
       "excerpt": "AI Ethics and the self-driving car hit-and-maybe-run dilemma. getty. Please prepare yourself for a driving scenario that we all dread and profusely hope will never occur. Wham, wh",
@@ -354,50 +543,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
-      "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
-      "excerpt": "Oct 14, 2020--KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-science-software-industry-information-technology-073d1b6e3cb94a568d9653c01f50cf4c",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-science-software-industry-information-technology-073d1b6e3cb94a568d9653c01f50cf4c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1047,151 +1192,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-kb-home-launches-company-wide-ai-powered-chatbot-platform-designed-to-deliver-a-modern-real-time-online-customer-experience.md",
-      "title": "KB Home Launches Company-wide AI-powered Chatbot Platform Designed to Deliver a Modern, Real-time, Online Customer Experience",
-      "excerpt": "KB Home launches company-wide AI-powered chatbot platform designed to deliver a modern, real-time, online customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201014005255/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201014005255/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201014005255/en/668370/23/New_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-rbc-rolls-out-ai-based-trading-platform-to-global-clients.md",
-      "title": "RBC Rolls Out AI-Based Trading Platform to Global Clients",
-      "excerpt": "Royal Bank of Canada is launching an artificial intelligence-based electronic-trading platform to clients around the world, starting with an algorithm designed to help reduce trading slippage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHiN2vOALFkg/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
-      "publishedDateTime": "2020-10-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-google-applies-its-ai-tech-to-reporting-with-journalist-studio-tools.md",
-      "title": "Google applies its AI tech to reporting with 'Journalist Studio' tools",
-      "excerpt": "Since introducing the Google News Initiative in 2018, the company has used the $300 million journalism project to fight disinformation and help publishers make money. Now, Google is also investing in journalism-specific software with Journalist Studio,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-journalist-studio-pinpoint-110047367.html",
-      "originalUrl": "https://www.engadget.com/google-journalist-studio-pinpoint-110047367.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Facabd040-bda7-11e9-9375-c6783a4b6790&client=amp-blogside-v2&signature=2a41f5932ac8b45dcc96b31b7cbb9fe9bd53627f",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-journalist-studio-pinpoint-110047367.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-journalist-studio-pinpoint-110047367.html",
-      "publishedDateTime": "2020-10-14T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

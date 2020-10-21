@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-21T15:11:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-switch-or-red-stop-button-for-ai-is-a-dicey-proposition-including-for-self-driving-cars/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-switch-or-red-stop-button-for-ai-is-a-dicey-proposition-including-for-self-driving-cars/"
 type: article
-quality: 54
-heat: 74
+quality: 56
+heat: 86
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87852a819fa0d89ac1a522%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
@@ -29,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Providing compassionate nursing care in an age of artificial intelligence"
+    excerpt: "The report, Nursing and Compassionate Care in the Age of Artificial Intelligence , is an urgent call for the nursing profession to engage in shaping this emerging future. It outlines trends in AI Health Technologies (AIHT),"
+    publishedDateTime: 2020-10-21T17:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/providing-compassionate-nursing-care-in-an-age-of-artificial-intelligence-1029706443"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Norway Is Developing Self-driving Ferries That Passengers Can Summon With the Push of a Button"
     excerpt: "Zeabus is working to develop the self-driving ferries in Trondheim, which sits on the Trondheim Fjord, in central Norway."
     publishedDateTime: 2020-10-20T16:08:00Z
@@ -60,6 +70,6 @@ related:
         height: 430
         isCached: true
 
-secured: "mBUiFUl8pyu53yoKbSTlvMlXSZ3s9PZ/txJPnvvhBKKByAkeqa0p0JxzMMKf8/5CWG3GGWxQ6YCFx2rdWwureOOdIV/XxR7tsUVaqIfzaFbglx7JmrUQvMqzyqzCJohWEM4Vyfzc2NWRMQaAGa/v0WabsDKoq3C8hxpSrgUniVRiTWdOyNH/jRD14f17Im2Qp8GbrOM2OjYkFXwGfRdydJmL05mPiTY3ym9epZgobTyYrjSA9qkVXkTAsEhvdsC/iRtgVaFp48OPYAlrbxqVbBUHF5o2o4d4b/uOVpe59sQyaJ+UbtUslkX63KDCAPEVAbXTXl8u5j8hDBE6oS0d6/htIV4xWhqYZYSDIr5rRbA=;zt8ut4BNatifeYgEmTMCUg=="
+secured: "DQDNirqc86hQUj0DU4GY2vB4uvFstW2Aott3iLO9pXyidYvgZ43BgfktVYfIKodcAZwRnppP5C8Ihmq9PkWdpENXI1nC1prubYvdHpsIFRJmSgwTT8o+u0jolXTwmG+ZcXpWpm3vaNWn9oi0H+iJ6w6G85U6lrGarqEhqPZxkVGmSg+Q3UvfWictvKyNNk2LcXQazXIFOJX0o9R97xTrR6zHDxOC32MLePX8nT+qm9bnCwgaI0sx0gcMTVqNJzZkrDv/VICuzzXUUAfm/6iM1+ZG/030YUJf79AzmkX8kVFsloJIRKY/FGHPpsJIlq2LQ5uvsXEeXaXjyNVWYpiAEp5CvNhiYFnim35R5puD7vfYd81fWLbKGCBCU/GZBX1MjJb1+YAVHfuj/GJevnL4AWXjQRFEfbzk9E9Hvu32eXb6aG6h5jrrQEODZaA14uR1JO7iSddwKFUaLHDH4KCQjnTlOuC1qr+ip5It/4yTfoZcuzZSZESbk6+dt/EmS1gbLYXeXWTysi876spmvLKDQQ==;TnOYI2H4IjbqChk819sDnQ=="
 ---
 

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA's AI Reduces Video Streaming Bandwidth Consumption by 10x"
-    excerpt: "GPU-manufacturer NVIDIA announced their Maxine platform for AI-enhanced video-conferencing services, which includes a technology that can reduce bandwidth requirements by an order of magnitude. By moving much of the data processing to the cloud,"
-    publishedDateTime: 2020-10-20T13:07:00Z
-    webUrl: "https://www.infoq.com/news/2020/10/nvidia-video-bandwidth/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
-    images:
-      - url: "https://res.infoq.com/news/2020/10/nvidia-video-bandwidth/en/headerimage/nvidia-video-bandwidth-header-1603033460923.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Saudi Arabia pressing ahead with Fintech to become cashless society, says SAMA official"
     excerpt: "“Several Fintech solutions are being currently implemented including Artificial Intelligence (AI), blockchain, and mobile apps, in line with consumer interests,” he added. Alsayari further noted that money and technology have become ..."
     publishedDateTime: 2020-10-20T07:28:00Z
@@ -55,6 +41,6 @@ related:
         height: 366
         isCached: true
 
-secured: "9iCzPi89FX0ceuf77Z9AdsuSIpOBKSgbNv56DFy3DsWyeykRAy4vi2Serro8IkjoKFnPC1YIzJOUKagKIGLncRJzHnqCldzCLjLFyBmPecnI8/AOflyYmD8SVo0PwLh5SRoQDnTyyKUlJVibTfQoGGUyrJNmaatkgtMgodl+zTo8kW/poYTJy7THHrHXTW6Hl9iaOApk9+Vs0OSVShw76Aawo+rSdOqua3lvYE7XBKcJrsy1L7Dil2xKZZCMVqYtluFpvAQC+JdA9Ni1ZS8Z92/mic/vV9eX1cuNq5e2GX5NpLZVA2WHfaEg5GRXcWdtNeAqtiuFm+i5rgsjsuQnNRlsT+SkFRmSGvgouc5956M=;YIe34BxL3bXy4K3Hfzf7qw=="
+secured: "o/3o+c6mNvhdbsP9c4sWeHjJoKNYhiaK1L7n0H3UnkmBjqX/sqOrg/jOA/IrsM54fJsTz6e/7/FASHN/5fxSOKarMRA8XxG3yJQuZoC5FOSWJO4WyAq6QYQj9eiIhvL5qISi7bXR6mMsd7fOuwGo2iQlICqSk26DoMGtddB+etu+aFYYU1QqAJC8NK1Ct+rPAjK6/ATBM6xKdGU227qO3jo6c0Pac9TDm5JItt9CGmLTTRJBfdEsg4PKBtAUHl49toN9G6pfHZTDduNSbbRaMk3XLGa6W54vIGNLOJsvgq1WM+atGDie7+8XavMceR3GbmJBUcdrp9TgwmbpqYMMiJl9vgE/1S3rCvG3Fib7v6X0i5gSpbSbzYSlCEQ2jOgUvTipCCBcfcEBITExgM87vvQVWAZuiit4FHBbSkRg7fPaWO55kdBifll6IVbS9JROZX7SM0W8Y2pFsnbJHSh/EMfaS3ug6CKTvuO81knbrMXuKDEb15Mkb6Nayx5s5VvTpGWP6b8RxVCg6vwUgFYd4Q==;wUMTrW+Q4+4+eXy8FYCayA=="
 ---
 

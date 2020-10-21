@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/tesla-full-self-driving-beta.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-beta.amp"
 type: article
 quality: 88
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
         width: 4000
         height: 2667
         isCached: true
+  - title: "Tesla Officially Starts Rollout of Full Self-Driving Beta"
+    excerpt: "Tesla CEO Elon Musk announced on Twitter last night that the electric car company’s Full Self-Driving beta update is officially being rolled out. “Will be extremely slow and cautious, as it should,” Musk added an uncharacteristically serious tone."
+    publishedDateTime: 2020-10-21T16:55:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-officially-starts-rollout-of-full-self-driving-beta"
+    ampWebUrl: "https://futurism.com/tesla-officially-starts-rollout-of-full-self-driving-beta/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-officially-starts-rollout-of-full-self-driving-beta/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/10/tesla-officially-starts-rollout-of-full-self-driving-beta-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Tesla Rolls Out Full Self-Driving Beta Version, With A 'Slow' And 'Cautious' Approach"
     excerpt: "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said that the automaker is rolling out the beta version of its full self-driving software, starting Tuesday night. What Happened: Musk tweeted that the rollout of the software will be “extremely slow [and] cautious ..."
     publishedDateTime: 2020-10-21T03:30:00Z
@@ -90,6 +106,22 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/bram-van-oost-4xm5cytsdmo-unsplash_0.jpg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Tesla is putting ‘self-driving’ in the hands of drivers amid criticism the tech is not ready"
+    excerpt: "Driving” despite skepticism among some safety advocates about whether Tesla’s technology is ready — and whether the rest of the world is ready for cars that drive themselves."
+    publishedDateTime: 2020-10-21T16:07:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 48
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2K7QWACXMI6RBVZREEHIPDZ3U.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Elon Musk Announces Tesla Full Self-Driving Beta Release Tonight!—’Extremely Slow & Cautious’"
     excerpt: "Elon Musk announced the new beta testing software of Tesla's Full Self-Driving technology for the company's all-electric vehicles on social media, Twitter."

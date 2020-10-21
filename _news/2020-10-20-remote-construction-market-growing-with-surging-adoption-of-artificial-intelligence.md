@@ -32,12 +32,21 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87852a819fa0d89ac1a522%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
         width: 1200
         height: 675
         isCached: true
+  - title: "Providing compassionate nursing care in an age of artificial intelligence"
+    excerpt: "The report, Nursing and Compassionate Care in the Age of Artificial Intelligence , is an urgent call for the nursing profession to engage in shaping this emerging future. It outlines trends in AI Health Technologies (AIHT),"
+    publishedDateTime: 2020-10-21T17:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/providing-compassionate-nursing-care-in-an-age-of-artificial-intelligence-1029706443"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Norway Is Developing Self-driving Ferries That Passengers Can Summon With the Push of a Button"
     excerpt: "Zeabus is working to develop the self-driving ferries in Trondheim, which sits on the Trondheim Fjord, in central Norway."
     publishedDateTime: 2020-10-20T16:08:00Z

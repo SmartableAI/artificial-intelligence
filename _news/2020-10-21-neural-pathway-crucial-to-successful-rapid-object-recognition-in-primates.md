@@ -1,32 +1,34 @@
 ---
 category: news
 title: "Neural pathway crucial to successful rapid object recognition in primates"
-excerpt: "MIT researchers have identified a brain pathway critical in enabling primates to effortlessly identify objects in their field of vision. The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain."
-publishedDateTime: 2020-10-21T13:43:00Z
-originalUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html"
-webUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
+excerpt: "Rapid recurrent processing in the ventrolateral prefrontal cortex (vlPFC) helps primates quickly identify objects, according to research from MIT's McGovern Institute and Center for Brains, Minds, and Machines."
+publishedDateTime: 2020-10-20T20:09:00Z
+originalUrl: "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020"
+webUrl: "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020"
 type: article
-quality: 60
-heat: 60
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: news
+  domain: mit.edu
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
-  - AI
   - Machine Learning
+  - AI
+  - Computer Vision
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2020/neuralpathwa.jpg"
-    width: 900
-    height: 600
+  - url: "https://news.mit.edu/sites/default/files/images/202010/Ko-DiCarlo-Neuron-edited_0.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
-secured: "eKx2fKcTg1qO7F69SSPs8F8dtfqO2Ry5iq8lvDDPRCb19y0qKIXl5Yr7jCOM7C5dRgMue7EKrRs22TpLoi7I0cj5dL0ItO8rbTSu6LIv8scivFtWGDcZpEaKTcLBixVbM8U/u/GsCJkbOoSSAY+N4g6OBT/h0+z5dNi9/lnfymiJVkYumiCDds5xVTMLr/Y6ioq3hGjxRBPWOUozvg0Xo2YRcVJtKBu2oAlGjDElI8YOYs9PpotMWsDHakU0Rd8bUlEj3H8wx2WiTmfPpX6x0SpjUiHKp0H2NVPG0631TrHEktY+5+e/O5KB5n00EwIGAwyyoJRtsiwgdlCWu7uNvne8Af9aX63wmsbaOHFQwZ+oLWaclMSvPb4Uvhl4EplaL547/y2ePpROckfLtK0JPZLGReA/bydB/myKxpn5jzC4E5/UESkj6eMBRVn/yTUza6CeVr/Ua4q3VYBGnjg6MvayCb1yqY4Ocl8htBMadJaTE8QdIl4BH/MsmbeKxEPhqobkVRcGk86OB8CD8SyBeQ==;nO3JxvQDVgoqMYK0SxliNQ=="
+secured: "EkcG457VkfgSe6OXUvjTBqSpFJP37c/PEvZI0dqUT7vwtw/OoINWDa/IwFIqZ31zrNIzZ1/YRso5JULCvtGbVu1i0NC9D73QlsBkcE6r9g7j8BcrQC10eg11z1PUSr74BwHV3AYKF+JoSFrOAHLzsZu4U6xpVHoYyGswtQcgy2+4iBjI5TjP6lTBO/mXtNT8f5TJdu3QbsrsM1txTuv+CU0QlOl9YmPNcvaDrjbuXLzCzXg2TIw0WnQZCc5SE49ceABjB3e/jm0e5ugWzyyV58/tsMViFR88abDhEALAXxOIE+bOEhmff7kjo0Y8XMldqkitYHJEAuntQj7X7WrZhrjSa4VYiXPtoFBr5NtnGTg=;LWpYCigoMo+N5JTWc8QsuQ=="
 ---
 

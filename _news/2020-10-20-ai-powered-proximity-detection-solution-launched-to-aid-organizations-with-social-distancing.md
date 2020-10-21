@@ -3,10 +3,10 @@ category: news
 title: "AI powered Proximity Detection solution launched to aid organizations with social distancing"
 excerpt: "Ipsotek, a pioneer in artificial intelligence (AI) powered video analytics, has announced the launch of a Proximity Detection solution to help businesses across a range of industries monitor adherence to social distancing guidelines enforced by the COVID-19 pandemic."
 publishedDateTime: 2020-10-20T08:58:00Z
-originalUrl: "https://continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing"
-webUrl: "https://continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing"
+originalUrl: "https://www.continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing?tmpl=component"
+webUrl: "https://www.continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing?tmpl=component"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.continuitycentral.com/images/fblogo.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Google’s Lending DocAI streamlines mortgage applications with artificial intelligence"
@@ -113,6 +107,6 @@ related:
       domain: finextra.com
     quality: 17
 
-secured: "nly+R7qFizqfMNaXRu/Ap6/Rdd8tgsxKf7b49UpSUed1fFcILD6H3H/HjJ2XWl3RhkfAFcLCCERj14JlIDGjsNYbbbLsy5531y0P7AA6PFWhfP68GwoSrLRcUTWc4aQPNTR+eKYX9Jk3V+l2Wsr//qnQ0ug8/H48C14eF8QopnUJUj4y/OnhRqGfd4Yv68WYBtER88SgNXprJpuJomRgxGkVY/p1XnpbZz0r8MMvANc0BErYv0FO7m3QPMMWl+QyWDpU9nIn/HxdTDK1a0ftshqDdq6awyi0eXEDuLj784U914iLKw5Ox4gnGrD5QRrVW+BF5SmNpSP1qapAdgl63WuwsDSK+p9/4yoar9N37u/JccO5RVx7z7BJ/1CDUdXUa61jmRkuHnyFPL2jS3Jl630SGJthIFN/4HgHWxCM0l470u2OqGKGnfMAR/c3SgTHbs+hbO0tWtWmyukZUYPlyV0YA58JAoFfB3KNUdGn8G/g0F0QF+VWldmZsqdl1u9YtlKVvmaD02xgGbwCsdPQ5Q==;F1QjAE8S8QS3xLqaTDxbgA=="
+secured: "ltCzzyEyjE5wSSOnicNCMCKv51IfuupZtU0uMfhgMYkjidRMxcv5TCEu1oaBOQQTyku8jx/XnZ09sy/PHqF/HQE5+1aW49YIju3eEztpz/4ts1+fToXQE4pjUMWQri5fmk1n7JIDFmncpLQ8sf09QEzvm3riw0trcf/7rEMVoYxOCpWoVrZwdTimkFumZQZAff6/am8CZFJowqg29avcekXJtMZ4Mf9iLKUGYasWO4yYSh1YlX8H1jQFKSufaET6rGWZnCmN+l7PG1bqrGI+eaqhOrZgJbPKa5jmj3pWybYcTt9xqLVj/ygu/U5Ebm4VNK3irmEBvKONLuwk7C3ux5HEJCuaTr5KCjba3iVLwTU=;t03zVWxrpJV/d7uz5g9Tew=="
 ---
 

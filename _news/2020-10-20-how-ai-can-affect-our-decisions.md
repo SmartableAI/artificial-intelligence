@@ -56,6 +56,22 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Hey Google … What Movie Should I Watch Today? How AI Can Affect Our Decisions"
+    excerpt: "AI and virtual assistants are constantly being refined, and may soon be making appointments for you, offering medical advice, or trying to sell you a bottle of wine."
+    publishedDateTime: 2020-10-21T14:00:00Z
+    webUrl: "https://singularityhub.com/2020/10/21/hey-google-what-movie-should-i-watch-today-how-ai-can-affect-our-decisions/"
+    ampWebUrl: "https://singularityhub.com/2020/10/21/hey-google-what-movie-should-i-watch-today-how-ai-can-affect-our-decisions/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/10/21/hey-google-what-movie-should-i-watch-today-how-ai-can-affect-our-decisions/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 54
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2020/10/alexa-4758340_1280.jpg"
+        width: 1068
+        height: 601
+        isCached: true
 
 secured: "TdS5rRE0S4jXFc4XfPxPhwVnxFbjidXuJQktm4cgBvcgX/UOLDxcVHt+ttpfUorzBsbIlWM2b1gBs83NtPQr/TIvMjEzziwIq211vT1m4q91guIQzxnjmK3aatPnvcDyYBIq3txm8oujF3FJ/BerIG6KCyBTadKo7SZbb5XKc5pyYzxwp3x3MP+m905RHKLFXVRU95XotxhtVVypXHjyOd97LJIYPypXrqFD133iu0KGisip330yYqBYYUgAVH/js8lyP3q4KnQvLg2+BAutuk7kwBgsQ3Ak3dsh1c1sHGL040TCfQ/dD6gVX2qkrRsJJqmkz8+zNeOjh6KdsIZZ4Bh7bFDZOYbwhQtZvDtPfkIe8n5T+87bJhc9R/6MHPCvQHUe6mTo8nDWi/JxvD05s0eYu4xmbeEsrXgHc/nbFxFF4KR7l7bZzD+xQlQp14yR6yP1VqhhpocbSiIbZUzXDBq8coJfeQLx5Bd8JzwWHV2+XZIoi2tFoR/aJ2AOBmTjAt5iVdNkfkKS9I8x8ztsQA==;PqcRb1WcTy0F5OKDk0oQew=="
 ---

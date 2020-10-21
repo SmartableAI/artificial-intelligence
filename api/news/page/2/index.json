@@ -2,6 +2,187 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-20-google-revives-its-ai-fueled-photo-printing-service.md",
+      "title": "Google revives its AI-fueled photo printing service",
+      "excerpt": "Google Photos has brought back its AI-based printing service, giving you automatically selected pictures every month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-photos-ai-premium-printing-service-160034151.html",
+      "originalUrl": "https://www.engadget.com/google-photos-ai-premium-printing-service-160034151.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F4c599950-12d0-11eb-9f9b-8077da8b7d89&client=amp-blogside-v2&signature=5dc345d4a77976a8475ae83397463c92c5841af3",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-photos-ai-premium-printing-service-160034151.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-photos-ai-premium-printing-service-160034151.html",
+      "publishedDateTime": "2020-10-20T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-microsoft-details-t-urlv2-model-that-can-translate-between-94-languages.md",
+      "title": "Microsoft details T-URLv2 model that can translate between 94 languages",
+      "excerpt": "The same week Facebook open-sourced M2M-100, an AI model that can translate between over 100 languages, Microsoft detailed an algorithm of its own — Turing Universal Language Representation (T ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/",
+      "originalUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/",
+      "publishedDateTime": "2020-10-20T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-driverless-race-accelerates-who-is-leading-the-game.md",
+      "title": "Driverless Race Accelerates: Who is Leading the Game?",
+      "excerpt": "Here’s a rundown of the key players in the driverless car race and their efforts toward achieving the goal. Waymo: Alphabet-owned self-driving car company, Waymo — which started its autonomous mobility journey in 2009 — is still the one to beat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/driverless-race-accelerates%3A-who-is-leading-the-game-2020-10-20",
+      "originalUrl": "https://www.nasdaq.com/articles/driverless-race-accelerates%3A-who-is-leading-the-game-2020-10-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/driverless-race-accelerates%3A-who-is-leading-the-game-2020-10-20?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/driverless-race-accelerates%3A-who-is-leading-the-game-2020-10-20?amp",
+      "publishedDateTime": "2020-10-20T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-ai-fairness-isnt-just-an-ethical-issue.md",
+      "title": "AI Fairness Isn’t Just an Ethical Issue",
+      "excerpt": "We need to start looking at eliminating AI bias less as merely a “nice thing to do,” and more as an economic and competitive imperative. Business leaders take note: By making our AI systems ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/10/ai-fairness-isnt-just-an-ethical-issue",
+      "originalUrl": "https://hbr.org/2020/10/ai-fairness-isnt-just-an-ethical-issue",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_20_1219846824.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/10/ai-fairness-isnt-just-an-ethical-issue",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/ai-fairness-isnt-just-an-ethical-issue",
+      "publishedDateTime": "2020-10-20T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-stampli-an-invoice-management-software-startup-launches-a-payments-product.md",
       "title": "Stampli, an invoice management software startup, launches a payments product",
       "excerpt": "Stampli, a collaborative invoice management software company, introduced a payments product today called Stampli Direct Pay. The startup launched back in 2015 with a mission to simplify invoice management through collaboration (and a dash of AI).",
@@ -618,49 +799,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-20-these-homegrown-startups-are-using-ai-and-ml-to-change-the-rules-of-the-game.md",
-      "title": "These homegrown startups are using AI and ML to change the rules of the game",
-      "excerpt": "A report by industry body Nasscom noted that Data and AI can add $450-500 billion to India's GDP by 2025, representing about 10 percent of the $5 trillion economy aspiration of the Indian government.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game",
-      "originalUrl": "https://yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Imaget6eq-1603185127719.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game/amp",
-      "publishedDateTime": "2020-10-20T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-10-20-chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store.md",
       "title": "Chinese Delivery Platform Meituan-Dianping Trials First-Ever Smart AI Retail Store",
       "excerpt": "Last week, Meituan debuted its first-ever smart AI retail store – MAI Shop - within Beijing’s Shougang Park. A combination of AI and robotics has been applied within the store, the same technology that is regularly seen in ‘New Retail’ formats ...",
@@ -805,7 +943,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1092,162 +1230,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai.md",
-      "title": "Juniper acquires 128 Technology for $450 million as it builds out its AI",
-      "excerpt": "Juniper Networks said it will acquire 128 Technology for $450 million in a move that will give it more artificial intelligence-based features through its networking portfolio. The company said it will it will acquire 128 Technology with cash and assumption of equity awards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "originalUrl": "https://www.zdnet.com/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/96c31916-3643-4d3f-8e78-bbbad13eceb6/juniper-128.png",
-          "width": 600,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "publishedDateTime": "2020-10-19T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-facebooks-new-ai-can-translate-languages-directly-into-one-another.md",
-      "title": "Facebook's new AI can translate languages directly into one another",
-      "excerpt": "That’s why Facebook AI has developed a new MT ... two-thirds are in a language other than English, she noted. Dubbed M2M-100, Facebook claims that it is the first multilingual machine translation model (MMT) that can directly translate back and forth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "originalUrl": "https://www.engadget.com/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 296,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=95&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=69a553b53d39c0b9162403452839efda71a2de93",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "publishedDateTime": "2020-10-19T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-culture-and-people-will-drive-tech-innovation-and-growth.md",
-      "title": "Culture And People Will Drive Tech Innovation And Growth",
-      "excerpt": "Now, we’re seeing many companies shift from the automation-focused initiatives of the early 2000s to recognise the role of human intelligence in building smarter, more innovative automations and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/businessreporter/2020/10/19/culture-and-people-will-drive-tech-innovation-and-growth/",
-      "originalUrl": "https://www.forbes.com/sites/businessreporter/2020/10/19/culture-and-people-will-drive-tech-innovation-and-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89ca51b0766e0399ea4566%2F0x0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2020/10/19/culture-and-people-will-drive-tech-innovation-and-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/10/19/culture-and-people-will-drive-tech-innovation-and-growth/amp/",
-      "publishedDateTime": "2020-10-19T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

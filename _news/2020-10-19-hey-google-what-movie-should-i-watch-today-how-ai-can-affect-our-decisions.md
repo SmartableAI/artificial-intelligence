@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 685
         isCached: true
+  - title: "Hey Google … What Movie Should I Watch Today? How AI Can Affect Our Decisions"
+    excerpt: "AI and virtual assistants are constantly being refined, and may soon be making appointments for you, offering medical advice, or trying to sell you a bottle of wine."
+    publishedDateTime: 2020-10-21T14:00:00Z
+    webUrl: "https://singularityhub.com/2020/10/21/hey-google-what-movie-should-i-watch-today-how-ai-can-affect-our-decisions/"
+    ampWebUrl: "https://singularityhub.com/2020/10/21/hey-google-what-movie-should-i-watch-today-how-ai-can-affect-our-decisions/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/10/21/hey-google-what-movie-should-i-watch-today-how-ai-can-affect-our-decisions/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 54
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2020/10/alexa-4758340_1280.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "How AI Can Affect Our Decisions"
     excerpt: "Have you ever used Google Assistant, Apple’s Siri or Amazon Alexa to make decisions for you? Perhaps you asked it what new movies have good reviews, or to recommend a cool restaurant in your neighbourhood."
     publishedDateTime: 2020-10-20T00:06:00Z
