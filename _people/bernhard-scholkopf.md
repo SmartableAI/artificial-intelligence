@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: bschoelkopf
   url: https://twitter.com/bschoelkopf
-  followers: 5772
+  followers: 5771
 
 googleScholar:
   url: https://scholar.google.com/citations?user=DZ-fHPgAAAAJ
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Bernhard Schölkopf"
 
-secured: "BBQOqLobdAfAcrEmjme3AeJtGryxmZNeSHWOtvsx8eBcGzzUbqXY2MvW8dIWD3eBemVSm6EDm96JjkXQ8J2Og6hytsjcny0tLeh/ipVtG0+uOO0nTMZdjrNSgFEJpe7rnC2yDb44wPBN4D1a5wyxyRkrhn7BrBktzqRpnDGlcM0ZbAH3wPRvkOvtesuGvFwFGK/0QqUCV3wum/iC590BRFP5UDVlEFGffhQCs+l20wT+78UgwMHgzcZorDnhV4R52ZdQDtXTF7kchYRxh/pK4SAcBYzZWnsvj2hkr6nLTc71WOkwSZQNEnfgsF1qepWnABk9jYZ5290I6616XK0O91+eqVlLNGmpyO3eD4YeP3/nkDYrYIeTTtGymp8TXj+oCyavAnYbquCYj4DfnSomeGIZSb63ejt9TVxAFei3scw=;nAfcKjsBeYg5k5fOpmg5gg=="
+secured: "Q4wiOZ7N1i98iNovDLReXUjIwaRcgIbQb9mzJdQ7ca3wNXIhBWTVGjZIdYW9GkMSCBB+oE5Nh3Sa0qQWKoGNz1zM9jOgDoTjs5z5etGOFISfFZ8kkDj7Fa/18Ff3v1cxsFPyUoBXYugj8fOGlsBi+o1Y7WSMwSy2yML9tZ+IW9BJJA8z94X/XDaHNs87xABvHoaY8j/SPF+QavhJssxn4E83DBQ5RMRAr/d3hJzJJx/6UCkeIEb+nK9o5f/Far+vqZoaAGyXiKq5ZmLehby3/33sLLZ4bb0UqvEl0F7oanDlo+FnXD1pZjdzIrX/VQSbowipKtuGpCldg0OiUeSAAdrrVyR/FFpCWZc4IYDa8hwbtB8iKvhd4YnNh3bvyJF0Lw6Q2YLEQgLw1arisiYOE1BzT4FDLyveZ7cx2Y+eERU=;hxEg1VBgaDt75UcYhn1tqw=="
 ---
 
