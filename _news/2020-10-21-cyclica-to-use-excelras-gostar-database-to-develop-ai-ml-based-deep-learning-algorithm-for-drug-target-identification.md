@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cyclica to use Excelra's GOSTAR Database to develop AI & ML based Deep Learning Algorithm for Drug Target Identification"
-excerpt: "Powered by MatchMaker ™, a proprietary deep learning proteome screening technology, and POEM ™, an innovative supervised learning technology for predicting molecular properties. To know more ..."
-publishedDateTime: 2020-10-21T09:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cyclica-to-use-excelra-s-gostar-database-to-develop-ai-ml-based-deep-learning-algorithm-for-drug-target-identification-1029703386"
-webUrl: "https://markets.businessinsider.com/news/stocks/cyclica-to-use-excelra-s-gostar-database-to-develop-ai-ml-based-deep-learning-algorithm-for-drug-target-identification-1029703386"
+excerpt: "Excelra, a leading global Data & Analytics organization, today announced that it has licensed its Global Online Structure Activity Relationship Database (GOSTAR) to Cyclica Inc., a leading biotechnology company whose AI-augmented integrated platform enables multi-objective,"
+publishedDateTime: 2020-10-21T02:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cyclica-to-use-excelra-s-gostar-database-to-develop-ai-ml-based-deep-learning-algorithm-for-drug-target-identification-1029705508"
+webUrl: "https://markets.businessinsider.com/news/stocks/cyclica-to-use-excelra-s-gostar-database-to-develop-ai-ml-based-deep-learning-algorithm-for-drug-target-identification-1029705508"
 type: article
 quality: 54
 heat: 54
@@ -22,6 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "ULqfdsVsSWi52KYyqrJiSS2wkEJlh/Sv6dEYApj1lcCBAgFD7C8xqSVNJSNL2TQ9dyBA52YCNcet9S5wtSot7YrdNYk3OYidRzUT0hkM8ZkhDQZ9Du1sluR99ciyqHSOCa9guuDI/V69P+2UFRz3II99XjaGY4XB1B7gFOP3wcKdOetHv60LOdA7bGsvC72gTrNys/8sHB3XVjKVh7KW17C3Zb9Mal/fcSGtmySCaR3hXnU2VUBkDH5Q9Igbx5Wn7yXjZw7l7sPe6pvptp/uxu/fqYmO+kwog5MQ7QHKnPJ5yQJgSkBMG24/lXpGdxXvD4EuWZfAFCPjA4airILKN2h2EoCdGi7JwHryElQuSEk=;CBh2882k3GTrmi5dNdsaMA=="
+secured: "FTtTVFggy0JK4XFIRuey3xPelkdqxy6X2B3rgM8VDaL4tFbJlBbqB7eEXXEbjiT/+45bZbR7sgVNz/PM/B7GKz5RzqI2AjqgBqkWgo+m6KOlb7Vn5fK3wciSuuzmn8c6m7ktHheOK4CWqb0GvbMMQqXAfWPQAQRFiR1KCPMVd0YgQIlD3cu2LFCZ4CKNUB3/KWMcBwHUp3HIHHEc0Pa8XgC+/sr3e3XrfptySl81M9GsqKV93gfMtzIRS2VT6HvEWxxOdVZhL7BJtdgEROYz3fwaar6/5vQhDXeMxtksXuEoVwvTLAgqGuoiyxl8kjfLC3afOT/n2a8/dTxG/qAq2ODkpjQFnu/HSVIzvT3p/Jk=;LjEEC2FfOZYH0SG3oo9QVQ=="
 ---
 

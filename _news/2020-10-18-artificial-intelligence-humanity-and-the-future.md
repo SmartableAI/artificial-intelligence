@@ -43,22 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Artificial intelligence, humanity and the future"
-    excerpt: "September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet."
-    publishedDateTime: 2020-10-16T21:07:00Z
-    webUrl: "https://www.heralddemocrat.com/story/opinion/2020/10/16/looper-artificial-intelligence-humanity-and-future/3684033001/"
-    ampWebUrl: "https://amp.heralddemocrat.com/amp/3684033001"
-    cdnAmpWebUrl: "https://amp-heralddemocrat-com.cdn.ampproject.org/c/s/amp.heralddemocrat.com/amp/3684033001"
-    type: article
-    provider:
-      name: Herald Democrat
-      domain: heralddemocrat.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/NHED/74e46470-2671-4831-a382-61e389490317-1029222344_TX_Sherman_Shayne_Looper.jpg?auto=webp&crop=386,218,x0,y19&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
 
 secured: "k3Ftp9AArTFPpjOY5HbN6nPPGpPqGzaDPfMnRIa84onBIHFuFfk0zqJ89q7ojgC/bZcvLURriePsNBXY1Paeb1ZXOINfiQjvgJ4KPD1r0Kenwsy9NfcQfgwI7SigCKowrqpOYkj47chaZ66ym+RwqR8afpH9p5SjSWYw9WLl8Q5anzb5TEwWUl4D9+SnYSSKBpdQVwRgL0VAgpLwpsjkg6XEEs9aNAell94Xf73Gd/5HsgWS9CW8kQbR4ZYvFOQaTBcijE22x/+UeBtzrphVAwx8qyuG6Nb+fIcBOG+xM3bqUaNX/w0JSHZZE5/W8wyjFejdJ5W9QN+t1fOFacn/HfHUIoav8Km0nR7oT0VwTqu+eM4PeJSx+Fq+IpX6dge6lCfAxBycxuAYShsjfuSTeGo/iQnLgNiChegGlunTmRGn+PXYAU9cpSVVcm/uLBHSIV9cZ7YY+tXwAVDvh23GKys8wiKClrbtEcfEToi6WBU6noTueiMCtZoSJe85LdmN5aA+gQCpM1nXye2gBzB3zg==;OSA4Y8WI/WzrTakxu3qHVw=="
 ---

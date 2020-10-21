@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20200928PD201.html"
 webUrl: "https://www.digitimes.com/news/a20200928PD201.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "Landing AI launches product inspection platform for manufacturers"
+    excerpt: "and created the AI Startup fund to invest $175 million in AI startups. “I feel like this is where the field of AI needs to go: Rather than highly-skilled engineers at Landing AI or Google or ..."
+    publishedDateTime: 2020-10-21T15:01:00Z
+    webUrl: "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/"
+    ampWebUrl: "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/landinglens.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "4PJ657l0sDvQpbySogycXM+FFJlUcZ+vi934xZ0ZoNo9bM8GWRefE/rd0QiC75IqPPnW7XTiR1DMtXy58ioYluOFtR91uy3G1rujMNf7m8Tl3TGEM/wtGh/zB+rLLXLZbjUviF0RA3a1g2vMjrWnfz+ncPV8lRBYy5Jy6qdMWMSL55Mbtf9UFbmjqGuIboTzH4RFwhwzLE4WPFmMGBCFkyJNeDWyeut69uOcANk5MoyDdX/J5YEsUU5IeK8fpy/xQTICyreo/AgLMJwA8U74UcKnparf4zymHc4xH5Y0Z5fr+/eeReaRaXrk1cMxDBQpZYIsdf00IYC0hw6l1NXdfWZ67rjSGPFu1cc+hx2quEo=;gsbM5L/tK54/0Art9JF8bg=="
 ---

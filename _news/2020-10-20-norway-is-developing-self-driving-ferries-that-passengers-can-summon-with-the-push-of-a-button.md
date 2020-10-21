@@ -9,7 +9,7 @@ ampWebUrl: "https://www.travelandleisure.com/culture-design/norway-zeabuz-self-d
 cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/culture-design/norway-zeabuz-self-driving-ferries?amp=true"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     width: 1800
     height: 938
     isCached: true
+
+related:
+  - title: "Using A Kill-Switch Or Red Stop Button For AI Is A Dicey Proposition, Including For Self-Driving Cars"
+    excerpt: "As earlier mentioned, the AI might seek to avoid being shut off. Consider this AI Ethics conundrum: If sentient AI is going to potentially have something similar to human rights (see my discussion at this link here), can you indeed summarily and without ..."
+    publishedDateTime: 2020-10-21T15:11:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-switch-or-red-stop-button-for-ai-is-a-dicey-proposition-including-for-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87852a819fa0d89ac1a522%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Remote Construction Market Growing with Surging Adoption of Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) and machine learning are keystones enabling expansion of the remote construction market. Future Market Insights, an ESOMAR-certified market research firm, in its recent study forecasts immense possibilities for the market ..."
+    publishedDateTime: 2020-10-19T19:43:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21199040/remote-construction-market-growing-with-surging-adoption-of-artificial-intelligence"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 31
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2020/10/remote_construction_market.5f8ded3545cc6.png?auto=format&fit=max&w=1200"
+        width: 650
+        height: 430
+        isCached: true
 
 secured: "Ph8W3i8F/eyJie2A6sy03bOVq7udgZ5CuWuhU/eVyrzOWY/r4t8shXCi8Fnf6KUPRUAcFuuaXIz6qEiQmHM7VLStmlbydxC7tK1GZiu5EJrwKono+oEYYy3e9w7Ht6RSHovfgGR/gfb3YzcwV2Ns1u8wJwQR1KucIV6v6coSxb+MZwqFRQpxoJKRSNo9zOi7UB55Q6QSMhXwcTWgUd8/gIWVrUwlLkW+phQTcLRSyAgjx7ugKZQ0/Y9mbY/peO7in/CnnftPJt3/3Tz0jOYlCWnKZQj6Rlx6YPfhTFNEz0x3dsDgSfWIfQC0Bb8XQaGbwPUuB2y9uxsyHtp0UAtrC4jdv0429e4uDOXQRYyiNKofcXz+aQDrYLas82vkk/xEIcx0F30Stq7s4X0e7d2630J2vtzwoULoTvgGh9dtu/xAKDcaXGCn1CEMvvUlP+WmXTXSxu4BXZKlIDpkKTXEDa0hotcluO5GoeedhzaoYE+rkqlpUkgOYQOeodQxxd2t5YxUrmJeEGicdcNGEJ3pRg==;9FdzvS7/QOEKvoiOT53VVw=="
 ---

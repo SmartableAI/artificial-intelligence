@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebooks-ai-can-translate-languages-di
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html"
 type: article
 quality: 106
-heat: 286
+heat: 296
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-729466,msid-78760863/the-open-source-artificial-intelligence-software-was-created-to-help-the-massive-social-network-deliver-content-better-in-160-languages-to-its-more-than-two-billion-users-around-the-world-.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Facebook's AI model can translate 100 languages without relying on English"
+    excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
+    publishedDateTime: 2020-10-21T14:18:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/facebooks-ai-model-can-translate-100-languages-without-relying-on-english/article32910047.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebooks-ai-model-can-translate-100-languages-without-relying-on-english/article32910047.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebooks-ai-model-can-translate-100-languages-without-relying-on-english/article32910047.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 72
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/xsr33x/article32910053.ece/ALTERNATES/LANDSCAPE_615/facebook-reutersjpg"
+        width: 615
+        height: 384
         isCached: true
   - title: "Facebook introduces first AI model to translate 100 languages without dependency on English"
     excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."

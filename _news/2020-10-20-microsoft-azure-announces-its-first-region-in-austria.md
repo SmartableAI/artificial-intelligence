@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-firs
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg"
         width: 798
         height: 482
+        isCached: true
+  - title: "Microsoft Azure Modular Data Center looks to provide a connection anywhere in the world"
+    excerpt: "Microsoft has launched a portable, modular data center that should enable individuals to access cloud computing services from almost anywhere in the world. The Azure Modular Datacenter (MDC) can augment a user’s technical capabilities,"
+    publishedDateTime: 2020-10-21T14:15:00Z
+    webUrl: "https://www.techradar.com/in/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 96
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Fr8VgpPF6hUsxwEAKQhdpk-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "Microsoft launches ‘Azure Space’, a cloud computing platform for the space industry"
     excerpt: "Microsoft has announced the expansion of its cloud computing service Azure to the space industry, under a project named 'Azure Space'."

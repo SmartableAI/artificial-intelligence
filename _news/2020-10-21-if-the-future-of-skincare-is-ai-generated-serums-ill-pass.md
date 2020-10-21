@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481/amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence, humanity and the future"
-    excerpt: "September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet."
-    publishedDateTime: 2020-10-16T21:07:00Z
-    webUrl: "https://www.heralddemocrat.com/story/opinion/2020/10/16/looper-artificial-intelligence-humanity-and-future/3684033001/"
-    ampWebUrl: "https://amp.heralddemocrat.com/amp/3684033001"
-    cdnAmpWebUrl: "https://amp-heralddemocrat-com.cdn.ampproject.org/c/s/amp.heralddemocrat.com/amp/3684033001"
-    type: article
-    provider:
-      name: Herald Democrat
-      domain: heralddemocrat.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/NHED/74e46470-2671-4831-a382-61e389490317-1029222344_TX_Sherman_Shayne_Looper.jpg?auto=webp&crop=386,218,x0,y19&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Artificial intelligence, humanity, and the future"
     excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
     publishedDateTime: 2020-10-18T01:24:00Z
@@ -63,6 +47,6 @@ related:
         height: 931
         isCached: true
 
-secured: "FIEJWmAYlKDtKP/C+4HnLYe3D53g/QoiTIKVM3IromCIwD2YEPHiTxiAHe9dPlYI4PGQQnbNfTZzGDYsNTjAyQIqyCe9JCkEOCN/+U14J+gFOCEqv5AM9D+kbtn098DBOn2h3BdG6L04svHgQv2JyhTLm5wqOTxEEB33KGMO/7BtsN92e16RrpEyhpsH8G9auqiNgN/TlHI3VcWxZjKxX87LGlTxWAeHxDs6Xfw9u80RSokfLdFRfNQdI0aYtXVP8MaO3OvuoALFO372GMojeHvgj6ufj+ZxZVczKvI91MVM5jZC7uu61WMa32Bi8LQuab52kR7y0f3JgG/BRcJ3VeKG8XjX2ftk+VsyOlasnDI=;Kfbv1RW0ncMEOybDLuXg5A=="
+secured: "M9wyXcg3sQG2+BnX2hBY8BYzJkKI+gZ98ueaEcVDnPoq/ojhnzEpqUWjTFoiu5wWScG4S9DJ1+nsB+VX8WwprOcl/0LmxRS68w8Tqhj1DHx22+8AfKS+4MJvbzu2UcIgKaBueuNHutz3IzrdG25PiK1SWtkwdOiuXYXl2kKlJeYGY9JluL4VI5McxjMv7Ej/C0Al9dA5Xsjglq5XgBjuZgBYd1zXQPIf64Xfb8qefvGrKkmqZuyJ/19oMQ441T1kqetyGwgeUJaJdMuOGxE14CElv2k9pcASfDGhPD/QSEMwDQzJwOBymRbjVXAjziFKj7RKx0+tyxCWvtZ7WTMZCf4hNJcKh9aTpy+c8ljtbTLz44JytH716qxp5P985/nx+xSgeN5hTz0zU1NfIacwY//D3SAKizZPTRbzEQ2iq4pRSfnFcXrrVH37awCsH9EscagRZJkKo8V7hY86DT9C838plK1Y76iIy8xjIUdOGV5uJKsSjrLtsDE4FMduXHh7yphpk0xZpbeccHi9NaNMTA==;4m27795TSUXjp5nO7zJBvg=="
 ---
 

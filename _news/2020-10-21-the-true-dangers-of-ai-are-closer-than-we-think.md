@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2020/10/21/1009492/william-isaac-deepm
 ampWebUrl: "https://www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Google AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/ND20_hao_isaac_7401-web-e1602613033143.jpg?w=1448"

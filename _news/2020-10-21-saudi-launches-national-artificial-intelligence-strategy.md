@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2761N6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761N6"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Saudis launch national artificial intelligence strategy"
+    excerpt: "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy. The National Strategy for Data and Artificial Intelligence (NSDAI) will seek to attract $20 billion in foreign and local investments by 2030,"
+    publishedDateTime: 2020-10-21T14:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/saudis-launch-national-artificial-intelligence-strategy-2020-10-21"
+    ampWebUrl: "https://www.nasdaq.com/articles/saudis-launch-national-artificial-intelligence-strategy-2020-10-21?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/saudis-launch-national-artificial-intelligence-strategy-2020-10-21?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
 
 secured: "lU7RRzQbCwLEqhSit8HNmS4MJRewuEFUF31taE7Zs3Mb2rUxEf5hJnPnCRa22TIitcYydW8NIbmROuMP5PMxHnuR405JRGdQG65ADJjAmu+JQ2GA/GmnFxTWRUIYV/Q0AF3fm6WdP/qo8jn/TmPMbuY36nq9G1T88Wx3P4cjAkqZeBBMO5Ccle+HXHw9lLtAAm1vJtJJW84JiCh0PMH8XEyk2upGMwI8z+SOMnK5TDsPkeHrUnIsRYAZFI/+3plClWegIZ/VjSkaT/6EhL8/oKy6jG5oRPP+pjT1nC4CZzVY38J8qzGhICKWzqRv+hFDvJqTBSnObxowhed0O3wrT/mAOaAlfRr9maH3680I8o8=;dKC67GO8N0SvMQHyURQxtQ=="
 ---

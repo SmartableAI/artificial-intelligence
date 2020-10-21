@@ -1,26 +1,26 @@
 ---
 category: news
 title: "SensiML to Present at ST Developers Conference"
-excerpt: "Corporation, a leading developer of AI tools for building intelligent IoT endpoints, today announced that Chris Rogers, CEO and Chris Knorowski, CTO"
+excerpt: "SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, today announced that Chris Rogers, CEO and"
 publishedDateTime: 2020-10-14T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html"
+originalUrl: "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html"
+webUrl: "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/22/c2216860-0a3c-5af2-ba20-9a5b036c0854/5f86fae1532d1.image.jpg?resize=400%2C208"
-    width: 400
-    height: 208
+  - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook"
+    width: 2059
+    height: 1079
     isCached: true
 
-secured: "9aQ0epz69L1TEI/i6sKpWk4VKPxvUte7IBrkGKSX0IcilQTqSJFwZlwheK6X6ZD0Cp34p7Z+sYvmoFIZ9WG6gZjFuzfOlhgJjjGhHaHrRyzGMn8r2LaQPsd91exlfRKC2o0LXOSah5JNFPUeiREpFlYLozer3+Pkb3friA6eAp8Z2X8E7WcXUDX7ukF6NWjLWFs/NydUHM9pgWCXBLE6khQDo0w24clPsC2yRDhrN6Dq5uG/LspdJ2N48NmrGTK8u7Rgeg0FxCRRLXFDSM/V41gVgTDU0iqiNjSl8WIFm2R6KYvs3Qmbq8RNsBrhFbbUum/2dVP3MhW0elkDED2XWfy69Ri5XaqYUXAYHxsD8vM=;ThVA3G9eLQL0I2vgt3gBrg=="
+secured: "vTPfJwNmVB/fQ92lX77Ua7gdnVaV9W1nNXToNF4hqhrN5dpydISi5U4pdrJnzi46QHPlvVQEZ18E8Xx97O3U6f/tS+83pUI1p23J1/rVbIBBn+4TS+F1nZ0iwf7nv1qVjq+Rvh/Hd83np/D1BHeGOOIumVD9cta9jODWXrcm3ig/xIuLH+QIxzCTJ5eqvdP6taH/KNKOKqwdtqxyiEUTlTDvSGVnC0r+reuptjvm29i8incfYNIoRG62UJTfv9f8DaYAP4Zu9k3bmpdeCNmjzWzuT9xvYN5jVNGxETB/5c97pIVwcvSuRr350ExQgvOxG23l9UPOVrbS5o7yzci+4E7g1l1V4WaAixTe/g/lpQY=;b6pWRcWuOE+8+NwDWfXaWg=="
 ---
 

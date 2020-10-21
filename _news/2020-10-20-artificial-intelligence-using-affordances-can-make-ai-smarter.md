@@ -67,22 +67,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Meet Q.ai, A Robo Investing App That's Disrupting The Hedge Fund Industry"
-    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking ... Co-Founder and CEO at Q.ai, a Forbes company. Though trading apps like Robinhood democratize financial markets, they don’t allow investors the tools to properly ..."
-    publishedDateTime: 2020-10-16T21:16:00Z
-    webUrl: "https://www.benzinga.com/fintech/20/10/17940541/meet-q-ai-a-robo-investing-app-thats-disrupting-the-hedge-fund-industry"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17940541"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17940541"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_1_0.png"
-        width: 800
-        height: 360
-        isCached: true
   - title: "Japan Fish Industries Utilizing Artificial Intelligence"
     excerpt: "Tokyo, Oct. 17 (Jiji Press)--Japanese fish industries are starting to use artificial intelligence to select high-quality fish at markets and find good fishing grounds, areas where they have relied largely on experience and intuition. AI tools are drawing ..."
     publishedDateTime: 2020-10-17T07:37:00Z
@@ -112,6 +96,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/5415582/2147483647/strip/true/crop/3000x1575+0+191/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F23%2F97%2F561c42534f4b93d8caa2ac6e823f%2Fm1118219.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Using Artificial Intelligence the Right Way: How to Limit the Risks of AI-Driven Hiring"
+    excerpt: "Traditional hiring methods have their fair share of problems, but AI has its own dark side when used improperly."
+    publishedDateTime: 2020-10-21T14:25:00Z
+    webUrl: "https://www.recruiter.com/i/using-artificial-intelligence-the-right-way-how-to-limit-the-risks-of-ai-driven-hiring/"
+    type: article
+    provider:
+      name: Recruiter
+      domain: recruiter.com
+    quality: 44
+    images:
+      - url: "https://www.recruiter.com/i/wp-content/uploads/2020/10/magnifyingglass.png"
+        width: 999
+        height: 580
         isCached: true
   - title: "Harnessing AI to ease the stress of managing autism"
     excerpt: "The protocols for the clinical trials had to be altered after covid, as hospital committees had to approve digital collection of video data remotely"

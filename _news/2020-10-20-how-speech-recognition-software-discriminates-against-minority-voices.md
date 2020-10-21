@@ -7,7 +7,7 @@ originalUrl: "https://www.scientificamerican.com/article/how-speech-recognition-
 webUrl: "https://www.scientificamerican.com/article/how-speech-recognition-software-discriminates-against-minority-voices/?mc_cid=c40c38b66a&mc_eid=ec6edd20af"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 790
     height: 496
     isCached: true
-
-related:
-  - title: "Birmingham buys police software: opponents warn against facial recognition"
-    excerpt: "Birmingham Mayor Randall Woodfin again emphasized that the software approved Tuesday does not activate facial recognition. “You’re not agreeing to any facial recognition, that’s not happening,” Woodfin said. “It’s explicit in this contract that ..."
-    publishedDateTime: 2020-10-20T17:40:00Z
-    webUrl: "https://www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html"
-    ampWebUrl: "https://www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 72
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PWOHZMJF7RGSDC3G365QG3BYFU.PNG"
-        width: 497
-        height: 396
-        isCached: true
 
 secured: "0oKCL5GjBCDS2zcVuLWG15t+yF2GDIoQf8CQ3t37ujriLrVy2x5BSet+KTH4reiLAgg5KOaqNV1W/etP20TZ3wreXQdAAiyFC6mKVvLFO2s1NHF5WIApLEpiZTqU5tvaQ32rvmkAIa1dZVi/aBni9rCD/D/s0dY5hSOfd60D0bSAEtGIKYDiIR5A1rlrMWphvrZ2LuKywYQKLDBpY1Fp6AsSghOj5HKP2xnbDw3fdC6swMMAOMYwraU3EtjyAYQBEU1yssqRnvx2OzUA7mXWvbjY0cBjYK6ctAd5ZxwKRe8MYu0IoTF5N7hHem4ckVs444c7dW7hMv1kbNqt6pvC3UU/yGPIj2d0Rcxr+HjejJ0tlzbnjsUTQZTX3rxW1sGwycLgLd9L6LW6Gep7X/xmqeXc34ud2NPWvWJltTXZM/VTpALwCgv+rVEwImKGc5So0xb/s0xdaEWxfx61Zg6beTHUFI1zptf9cocmXRXu/bcASkHUCfv2W6Ox+zdc0ugv2egZRgh94epqiFiheiO4sw==;4NQdNA5kLja0wsUYXtp83w=="
 ---

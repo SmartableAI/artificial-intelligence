@@ -107,6 +107,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Facebook's AI model can translate 100 languages without relying on English"
+    excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
+    publishedDateTime: 2020-10-21T14:18:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/facebooks-ai-model-can-translate-100-languages-without-relying-on-english/article32910047.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebooks-ai-model-can-translate-100-languages-without-relying-on-english/article32910047.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebooks-ai-model-can-translate-100-languages-without-relying-on-english/article32910047.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 72
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/xsr33x/article32910053.ece/ALTERNATES/LANDSCAPE_615/facebook-reutersjpg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Facebook introduces first AI model to translate 100 languages without dependency on English"
     excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
     publishedDateTime: 2020-10-20T09:33:00Z
@@ -295,6 +311,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "WBqkYUAMN1WhiRKXRotO7w2tCv/utuv0l3IlbkaXIDTmCjhi0HmFQ+Z9xLTRvg0FqbzvgoNok+COKJ5QUojvitVvR620L7cSduobGfWKL3KdK/dlbyjKVdcYVeTBxceX1X9MXZzQIqSLUxNALSpbUfydR5fP/k4wyNXGKgZr7/mEsL8/h16IXKAHMfMvEKyowP43bZzeVFK2vX3KI9lq52oyLK7psO2wQ3Cq1WWdgKo0ZM/6I9fZdmbTZYD2mpIlvVisb9isSABhDFj8LjvHqkLrV7vYb8gqQ1p9AhjNZm5OR+6ew55A4rc0+opZ+uJam+6qG7ezEr1Dz/qX0rNrAVUx7pYiZKm/Yn+1HsLDGe0=;XIRRHkwgfwwz0G6jLAbbJg=="
+secured: "vi69gJNsQBQWSk0tBMw+2CSmGL983RO8UljdJeDePYhAlX65fly64rimabB8FyvgdmsXolF7jsVmIz1H+55YzSCwyvdfpti1ZIGga7AWLe1sLYKfNyLtwf7bO4RjFZabncEYyDrsaeM7w5BJSpza3KwcRmy8aRNQvNKT+G13blzTQrtqxmWQm95Zsqq1AXF6kskOctaTslge+Ac13fRLSQrmMS7CI/9+lWEKjEsVOqHKDidXBgU008RScx0qCWphPSGd9UC+YjJEbH6f5hvHMwQrZjUJjq9QlTwU0VouG1dwJWtYJdBBZpX3jx11CSAL2IOvlAXXbSdKqw3nIPaerxV74los7HkAO75mz50zc0tJZW4NVFGDiOnyo/mEc5CJlkpHuC35yleHNtYj83ZBvHDhutsWyiH6MnUOuCW1sjzEGCoVR1czsS8EbV1t6ihawZYlB99/5l3zwJBVT+vpXYgB6bIF+L91GwkTw6E+Q1whPAL0yKE4Xf4F3LHIBeYuAJ47N3Vu8g8170xuNmlKlw==;dK7qGazJnuhjcHoHo2h7KQ=="
 ---
 

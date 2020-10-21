@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-16-pentagon-raises-ai-ambitions.md",
+      "title": "Pentagon raises AI ambitions",
+      "excerpt": "AI & Analytics. Pentagon raises AI ambitions. By Lauren C. Williams; ; The Defense Department wants to accelerate its artificial intelligence efforts with increased pe",
+      "sourceUrl": null,
+      "webUrl": "https://defensesystems.com/articles/2020/09/16/dod-ai-ambitions-expand.aspx",
+      "originalUrl": "https://defensesystems.com/articles/2020/09/16/dod-ai-ambitions-expand.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://defensesystems.com/-/media/GIG/EDIT_SHARED/AI_Automation/datacenteranalytics.jpg",
+          "width": 760,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense Systems",
+        "domain": "defensesystems.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-as-well.md",
       "title": "Unethical AI unfairly impacts protected classes - and everybody else as well",
       "excerpt": "We've established that unethical AI hurts protected classes - but it doesn't stop there. Across industries and regions, unethical AI can impact the entire population. Here's some questions to consider.",

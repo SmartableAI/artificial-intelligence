@@ -2,9 +2,9 @@
 category: news
 title: "Ben-Gurion University Researchers Develop Machine Learning Platform to Streamline Clinical Trials"
 excerpt: "Gurion University of the Negev (BGU) have developed a novel platform to streamline clinical trials, lower costs,"
-publishedDateTime: 2020-10-21T12:17:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials-301156858.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials-301156858.html"
+publishedDateTime: 2020-10-21T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials-301156858.html"
+webUrl: "https://www.prnewswire.com/news-releases/ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials-301156858.html"
 type: article
 quality: 41
 heat: 41
@@ -24,6 +24,6 @@ images:
     height: 1413
     isCached: true
 
-secured: "QWp1XQ7yFTS1QGypFS5H0YfInjSLlML4tQWSM5uNsxZ3wLXB8LWjd2c7ymDp/OvmM9A345Hl0jHALoDz4VDLoBHo8A7Rufjk/jMm1X6LsnA5F7SDFQC93mX9Z3/EOkqR1HPoQMw7oZHVsaleUAmhpdGIsIf5HZ2RLys21ZVXc3OzkLYXEQ9GLhQy8pZ91Rt5OZt0oJ3t4VGqUCu9mlgNVbyIq1hHHddv5jLwKagLFDGNqTZPOrIu6aHxV+Ybwwzm/5QRmhjNesHNpm+uMBNtJeM6GDyOmzJvIodvINID76jbAnkX4P4XhAB3Gyak/H0rzgdtwEmjGesIkB5QEiLMcroQuhAgCowK/a++aBe6JZs=;N0zGdfCUTdfBxQqEVflfdg=="
+secured: "L5kckCmrt4UhhbXFXsSIXYCYNe0KSxcmX+FaqIuHnLYHhSaYZNpQMaYF7bm30fUrmDDWou65Oce0vfPT8ucCBT2CkVpTl3Lhzlew3rozHKAM4jX/WMlvZaN8jaOjfgMWNM/dEtn9o6SyhotLAhEmQUQ5R+/eQAjQIQW8Lsnd3rUVNvPKxDOVmjLsY/siOfJ+LnRxapfxllX52DNaR95i+4lGLI1S8A5R6AqEJm7sux6ZN+Y+HTWeJEMxf7hRopBzndVNfCokRVOLz8ZR/vKnXvR/T1CcqqX9BApyPyFu7SvRjOoIVpNKd1TCQnGvbdmq1EXUVc3UijDipeZBWL9oFvixC81J2EAK7AROx0FEJVU=;udjf1zv1LsZCVzjqLLMW3A=="
 ---
 

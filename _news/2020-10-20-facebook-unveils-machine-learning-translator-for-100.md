@@ -108,6 +108,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Facebook's AI model can translate 100 languages without relying on English"
+    excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
+    publishedDateTime: 2020-10-21T14:18:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/facebooks-ai-model-can-translate-100-languages-without-relying-on-english/article32910047.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebooks-ai-model-can-translate-100-languages-without-relying-on-english/article32910047.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebooks-ai-model-can-translate-100-languages-without-relying-on-english/article32910047.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 72
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/xsr33x/article32910053.ece/ALTERNATES/LANDSCAPE_615/facebook-reutersjpg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Facebook introduces first AI model to translate 100 languages without dependency on English"
     excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
     publishedDateTime: 2020-10-20T09:33:00Z
