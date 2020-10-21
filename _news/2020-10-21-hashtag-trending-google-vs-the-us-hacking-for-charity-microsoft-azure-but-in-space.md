@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Microsoft Teams will use artificial intelligence to better reduce background noises in video conferences"
-excerpt: "During the coronavirus pandemic, co-workers connect via video conferencing. Microsoft's Teams has a new feature coming to reduce background noises."
-publishedDateTime: 2020-10-19T20:10:00Z
-originalUrl: "https://www.usatoday.com/story/tech/2020/10/19/microsoft-teams-video-app-get-better-background-noise-reduction/3712935001/"
-webUrl: "https://www.usatoday.com/story/tech/2020/10/19/microsoft-teams-video-app-get-better-background-noise-reduction/3712935001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3712935001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3712935001"
+title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
+excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure - in spaaace."
+publishedDateTime: 2020-10-21T09:09:00Z
+originalUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314"
+webUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314"
+ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
 type: article
-quality: 59
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
-  - Machine Learning
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/1654aa33-41f4-472f-bec8-8611ce1b3460-Microsoft-Teams-Breakout-Rooms.jpg?auto=webp&crop=1469,826,x0,y22&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
+    width: 620
+    height: 250
     isCached: true
 
 related:
@@ -92,21 +91,21 @@ related:
         width: 1368
         height: 713
         isCached: true
-  - title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
-    excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure - in spaaace."
-    publishedDateTime: 2020-10-21T09:09:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
+  - title: "Microsoft Teams will use artificial intelligence to better reduce background noises in video conferences"
+    excerpt: "During the coronavirus pandemic, co-workers connect via video conferencing. Microsoft's Teams has a new feature coming to reduce background noises."
+    publishedDateTime: 2020-10-19T20:10:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/10/19/microsoft-teams-video-app-get-better-background-noise-reduction/3712935001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3712935001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3712935001"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 65
+      name: USA Today
+      domain: usatoday.com
+    quality: 59
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
-        width: 620
-        height: 250
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/1654aa33-41f4-472f-bec8-8611ce1b3460-Microsoft-Teams-Breakout-Rooms.jpg?auto=webp&crop=1469,826,x0,y22&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The IBM Stock Is Not Microsoft And It Is Thus Not Poised To Explode In The Near Future"
     excerpt: "Some investors see strong parallels to Microsoft and think that Big Blue, like Microsoft, will also explode after the now several-year phase of weak performance."
@@ -123,6 +122,6 @@ related:
         height: 400
         isCached: true
 
-secured: "lCSAMfr3AwzQh1VsoM3l7m6VX5cqc0IuniFgWFPr9SGSD1C+aZPIrlyaqFH7XEUYjNYMOn4T8gz6uwRZGJMel6xmvydaOVHBTAKtucFUROEcWkHroSiLcmuRjPDtQm5ENk1admOTyHX5GQZ8yE9VpY4kImIdkIHIz0a86+q85G2sb4dKV1sBi+DlTaRduYRa8KJcDp/tn8fjjyIRLwk/cpYlXB6kRUUqzpcXpTSc9srg9mKiCTkhaxvYKPGKGcYa4Vfepc3NyhuOx8nJEM6zcT6s2PWaEej6rWGhPHW5mUOinEyg4GqMpE7jHqTOEnS6K1M05h83CQ6ufUg13r0R4YmHXJNUVvRRXAZAMbvah3kaCfXWPxYZ12Gs+DC6vvAZ+TlKlBoGOHSEqQROZGEXn7ncLWn7oEG6j8TIR4/6uOZiyqmcxdj3atnlrIfhLXjl63jtsAQdL0szly1nrGTwutpULG133/SFt6vg7U6of/q5kldMk2NZeV3NQfFkCxbOt0vd3Nm7xweScEgmHuwvQA==;IC4SEKxi3yCv8oeHrhXdVQ=="
+secured: "Yz9X796YIrSdcSYPPAXdYvwsuhKzeelqd+u3Jbr31d4NBVAyeykeMmHhTph3DISWZabF0Eea/pTRt1xkKokVMg8RbWMp12dPVp1xAdGi5fVya4UyC6/eYA2Bi4PWv696CltFKce2176y4NYJ2MDfUaCeUhfz9oOOl5BNOWjOhF5YR/pfxm1fZDN4b/GFQhT99lpMEuPfhXfL2zTunkMoEEXtr3AJEq1LMvpioWKOnwKEPSbsbz+BgCPq0JWPPBqzyWpah74n5KAkthKBpWhkpsCx59URG8F21PPP2usUYZ1SM+sNp7ncGaWjFdWn5op8FJsRBzqG/Pi/3kB/rrRM5Ygbd9dTn+LYGYJBMr2aIDs=;VH51QlrkE4+iUUfSVBxJdQ=="
 ---
 

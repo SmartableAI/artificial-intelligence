@@ -58,15 +58,6 @@ related:
         width: 680
         height: 931
         isCached: true
-  - title: "Humanity defines the challenges of artificial intelligence"
-    excerpt: "In this episode of Where the world's moving, global AI ethicist Kriti Sharma explains. Paid and presented by OFX."
-    publishedDateTime: 2020-10-16T16:23:00Z
-    webUrl: "https://www.bbc.com/storyworks/where-the-world-is-moving/tech-driven-experiences"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
 
 secured: "XvPk2XzEak51tSarmLfeKiygtaaOnPKdwRc77xSMnEwWZFXNO1eM3o/qlYQKgPaHrOD0In/5htPp3/JD2a1PadY0Y3lgrkj7YROUQCNmp56vLG0L8ZWGO4W1hVhC550Jtt1lbsVsfm3ePrCFJQDjAwFH4BsOYvF87kzGem6W4017rnqsn9KskUpOxdn9uL68UQ0/e7Qpd28z7IQnoN9MSlA/G2RJu2RQotmRukZUWT0fcWyqQpG60Oe/4K8uSJfjZYYiaYWpEk2YDlksfdPhOhxraGTA2gC69hPNTJkfhB9msWHYMoIZPIfqRoNly/RyTFW96WI7OmvfNWGpboZkWsRig2GEZvgnjlE8jali57A8ym+61g+9yeKbl+xqe1TCRIkdc7DQ0BYNIR1GIS7fmuuuw3KqoIrn2gHhZWpQ3QzIxes5HNgGcJe9L4MaJEu/JcMZukiY+W5mUNWE71ovY8LT2cUHvhLoGff7Gvo2pJRXAUpJRaAq51qdk98Lb5k+dEuzqwnZ5gn4FGmC1Ky/MQ==;bFT7ap2OR3/QzHvy8tiL3A=="
 ---

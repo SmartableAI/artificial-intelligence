@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore releases AI ethics, governance reference guide"
-    excerpt: "Singapore Computer Society launches reference document to guide businesses in the development of artificial intelligence ethics and governance as well as future training and certification of professionals."
-    publishedDateTime: 2020-10-16T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "In Singapore, sign in with facial recognition to pay your taxes"
     excerpt: "In Singapore, online government services can now be accessed by facial recognition – a world first. This technology is being rolled out to the city-state's SingPass digital identity scheme, offering access to no less than 400 online services,"
     publishedDateTime: 2020-10-19T02:20:00Z

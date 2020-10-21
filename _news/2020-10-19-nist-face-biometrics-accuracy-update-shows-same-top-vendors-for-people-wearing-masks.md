@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202010/nist-face-biometrics-accura
 webUrl: "https://www.biometricupdate.com/202010/nist-face-biometrics-accuracy-update-shows-same-top-vendors-for-people-wearing-masks"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Precise Biometrics integrates facial recognition with open cloud-based access control platform"
+    excerpt: "Precise Biometrics has integrated its biometric technology for physical access control with cloud-based access control system Telcred Access Manager, which supports open hardware from a range of"
+    publishedDateTime: 2020-10-20T16:39:00Z
+    webUrl: "https://www.biometricupdate.com/202010/precise-biometrics-integrates-facial-recognition-with-open-cloud-based-access-control-platform"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 27
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
   - title: "Face biometrics a big winner as everything from driver’s licenses to KYC goes mobile, remote"
     excerpt: "Digital identity credentials like mobile driver’s licenses and facial recognition made up many of the most-read biometrics news stories of the week. People in Florida may soon be able to use"
     publishedDateTime: 2020-10-17T18:08:00Z

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
-excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
-publishedDateTime: 2020-10-17T15:46:00Z
-originalUrl: "https://www.cnbc.com/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
-webUrl: "https://www.cnbc.com/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
+title: "Tesla Rolls Out Full Self-Driving Beta Version, With A 'Slow' And 'Cautious' Approach"
+excerpt: "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said that the automaker is rolling out the beta version of its full self-driving software, starting Tuesday night. What Happened: Musk tweeted that the rollout of the software will be “extremely slow [and] cautious ..."
+publishedDateTime: 2020-10-21T03:30:00Z
+originalUrl: "https://www.benzinga.com/news/20/10/17988412/tesla-rolls-out-full-self-driving-beta-version-with-a-slow-and-cautious-approach"
+webUrl: "https://www.benzinga.com/news/20/10/17988412/tesla-rolls-out-full-self-driving-beta-version-with-a-slow-and-cautious-approach"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17988412"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17988412"
 type: article
-quality: 68
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927"
-    width: 4000
-    height: 2667
+  - url: "https://www.benzinga.com/files/images/story/2012/bram-van-oost-4xm5cytsdmo-unsplash_0.jpg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -79,21 +75,21 @@ related:
         width: 2564
         height: 1236
         isCached: true
-  - title: "Tesla Rolls Out Full Self-Driving Beta Version, With A 'Slow' And 'Cautious' Approach"
-    excerpt: "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said that the automaker is rolling out the beta version of its full self-driving software, starting Tuesday night. What Happened: Musk tweeted that the rollout of the software will be “extremely slow [and] cautious ..."
-    publishedDateTime: 2020-10-21T03:30:00Z
-    webUrl: "https://www.benzinga.com/news/20/10/17988412/tesla-rolls-out-full-self-driving-beta-version-with-a-slow-and-cautious-approach"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17988412"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17988412"
+  - title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
+    excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
+    publishedDateTime: 2020-10-17T15:46:00Z
+    webUrl: "https://www.cnbc.com/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
+      name: CNBC
+      domain: cnbc.com
+    quality: 68
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/bram-van-oost-4xm5cytsdmo-unsplash_0.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927"
+        width: 4000
+        height: 2667
         isCached: true
   - title: "Elon Musk Announces Tesla Full Self-Driving Beta Release Tonight!—’Extremely Slow & Cautious’"
     excerpt: "Elon Musk announced the new beta testing software of Tesla's Full Self-Driving technology for the company's all-electric vehicles on social media, Twitter."
@@ -105,6 +101,6 @@ related:
       domain: infosurhoy.com
     quality: 8
 
-secured: "mG1RtY92wiBdseks6ZBOpBddSim+uCBWxSaxHKkHx3R32OT14HHqhiPcWYgb2gu71gEJV+BpCCFZFNAl5fsrF2BDvudg0Ln34RBzgIX1i62qwbEOL4FEtn6jD38fD6NNmla7CcvOkOxWd9HrforoeiMMkRBSPG66azFYAtED5AEbgHA4SMDYuwHOu/OB6jNdNe3hOXClaf8bTyt7ds66JzGS2CCIZJfXpcPaKOT4N5onj15fmwLboTnUHoTi95X8VAJAWjn9sSGIisTUeDj4KoXreeqzppnGXarz0lq5Yx580yXuek3gsi6sj4zWL4vGluHRMulDGEvDn3W7lvuCJgvkkYUYDD53a189R7y02e2OYNIMJdTaXJcTOxXPFpp58/wyJx0VRYx4rBlMYkNMqx1N7UFdWHR2hCzk6hvOjIuhmy+CwAYkuXKSCIXZosYSFfgD4ZSCirr6G3fKHT1dvRu9tdSnuQkohXqYDtzLFCoBO+IhdYh+HLLtoGvL9LI46em2zL3bG8WAoQ639G8DIw==;hPK9uiwG/yAbgwiNk6Sypg=="
+secured: "x1+/RkqQMhm3o7+zvkYXcqdozYiDV8jqe+Fv7E2hxc5FBs9JZaQ2u+1pH3uWkRSKynS9bkEYWi6voD4+RteEV3kPWxyEfula8G7Rwgh+SU1sXOJ0AnQIbvingpTaQat7ffNvubsAceNeS9RKbjciyug9XajJ+Gx9jluYz4IxSyPf+AkBXELiu5+RD24APL91sV0ZnMVYL0s4TgAHdzkNWGA1I8aj/JZOlnai7lLx3thhtzDARKtaNux/tMApnv7Kha2UVxmbZeJdcqLByJ45tCxIeLrSO/JzlunZmpLBXSqdZ+kCOsE/qoAT7lpAb19hFyD/R0eJufcr9eZfxbtEFKkmh/oEqvvkRI7LbQo55us=;Or7WWabVl0DJ28JHcYIXCw=="
 ---
 

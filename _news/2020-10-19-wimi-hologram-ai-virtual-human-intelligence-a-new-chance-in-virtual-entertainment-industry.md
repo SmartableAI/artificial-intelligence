@@ -21,33 +21,22 @@ topics:
   - AI
 
 related:
-  - title: "A Major Milestone In AI Technology Illustrates The Power Of Human Intelligence"
-    excerpt: "AI development has previously relied on a statistical ... This latter point may seem counterintuitive: The largest chip ever made (as of late 2019) contains 1.2 trillion transistors, while the human brain comprises about 86 billion neurons."
-    publishedDateTime: 2020-10-19T00:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/19/a-major-milestone-in-ai-technology-illustrates-the-power-of-human-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/19/a-major-milestone-in-ai-technology-illustrates-the-power-of-human-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/19/a-major-milestone-in-ai-technology-illustrates-the-power-of-human-intelligence/amp/"
+  - title: "WiMi Hologram Cloud Stock Rallies on News of New Artificial Intelligence Subsidiary"
+    excerpt: "The company says it's accelerating the development of its intellectual property -- positive news overshadowing a surprise shakeup in the management team."
+    publishedDateTime: 2020-10-19T15:51:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: The Motley Fool
+      domain: fool.com
+    quality: 81
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89f505db3eef289c346955%2F0x0.jpg"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595591%2Fstock-chart-hologram-up.jpg&w=1200&op=resize"
         width: 1200
-        height: 675
+        height: 478
         isCached: true
-  - title: "Intel sends AI to space in launch of a satellite the size of a cereal box"
-    excerpt: "Intel has sent artificial intelligence (AI) beyond the boundaries of Earth in a tiny satellite designed to streamline data processing in space.  The tech giant revealed the launch on Tuesday. An experimental device,"
-    publishedDateTime: 2020-10-20T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 68
   - title: "WIMI Hologram AI Virtual Human Intelligence, a New Chance in Virtual Entertainment Industry"
     excerpt: "TailorInsight, the fintech market research organization, recently released a research report ‘WIMI Hologram AI Virtual Human Intelligence, a New Chance"
     publishedDateTime: 2020-10-20T00:35:00Z

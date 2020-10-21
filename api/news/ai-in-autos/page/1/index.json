@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-21-tesla-to-roll-out-beta-of-full-self-driving-on-tuesday-according-to-elon-musk.md",
-      "title": "Tesla to roll out beta of Full Self-Driving on Tuesday, according to Elon Musk",
-      "excerpt": "Tesla's Full Self-Driving beta is rolling out to select customers tonight, according to a tweet published Tuesday afternoon by Tesla boss Elon Musk. In the tweet, Musk claims that the rollout will be \"extremely slow & cautious.\" Still, it's not exactly ...",
+      "path": "_news/2020-10-21-elon-musk-says-full-self-driving-mode-on-tesla-is-finally-here-sort-of.md",
+      "title": "Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of",
+      "excerpt": "For the lucky few selected to experience \"Full Self-Driving\" or (FSD) on their Tesla vehicle, Tuesday night is the night. Tesla CEO Elon Musk tweeted Tuesday afternoon that the autonomous mode ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-fsd-beta-rollout-tuesday/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-fsd-beta-rollout-tuesday/",
+      "webUrl": "https://mashable.com/article/tesla-full-self-driving-beta/",
+      "originalUrl": "https://mashable.com/article/tesla-full-self-driving-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 138,
       "tags": null,
       "images": [
         {
-          "url": "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg",
+          "url": "https://mondrian.mashable.com/2020%252F10%252F20%252Fae%252Ff6c5261b244c4f6b8f36348853485b9c.8eb52.jpg%252F1200x630.jpg?signature=7jyn6DuiFl9cVmbUR_Mkx1HVWB8=",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-fsd-beta-rollout-tuesday/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-fsd-beta-rollout-tuesday/",
-      "publishedDateTime": "2020-10-20T15:54:00-07:00",
+      "ampWebUrl": "https://mashable.com/article/tesla-full-self-driving-beta.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-beta.amp",
+      "publishedDateTime": "2020-10-20T16:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -346,7 +337,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {

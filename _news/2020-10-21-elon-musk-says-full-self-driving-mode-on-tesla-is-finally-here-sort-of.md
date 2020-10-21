@@ -1,52 +1,32 @@
 ---
 category: news
-title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
-excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
-publishedDateTime: 2020-10-17T15:46:00Z
-originalUrl: "https://www.cnbc.com/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
-webUrl: "https://www.cnbc.com/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
+title: "Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of"
+excerpt: "For the lucky few selected to experience \"Full Self-Driving\" or (FSD) on their Tesla vehicle, Tuesday night is the night. Tesla CEO Elon Musk tweeted Tuesday afternoon that the autonomous mode ..."
+publishedDateTime: 2020-10-20T23:25:00Z
+originalUrl: "https://mashable.com/article/tesla-full-self-driving-beta/"
+webUrl: "https://mashable.com/article/tesla-full-self-driving-beta/"
+ampWebUrl: "https://mashable.com/article/tesla-full-self-driving-beta.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-beta.amp"
 type: article
-quality: 68
-heat: -1
-published: false
+quality: 88
+heat: 138
+published: true
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927"
-    width: 4000
-    height: 2667
+  - url: "https://mondrian.mashable.com/2020%252F10%252F20%252Fae%252Ff6c5261b244c4f6b8f36348853485b9c.8eb52.jpg%252F1200x630.jpg?signature=7jyn6DuiFl9cVmbUR_Mkx1HVWB8="
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of"
-    excerpt: "For the lucky few selected to experience \"Full Self-Driving\" or (FSD) on their Tesla vehicle, Tuesday night is the night. Tesla CEO Elon Musk tweeted Tuesday afternoon that the autonomous mode ..."
-    publishedDateTime: 2020-10-20T23:25:00Z
-    webUrl: "https://mashable.com/article/tesla-full-self-driving-beta/"
-    ampWebUrl: "https://mashable.com/article/tesla-full-self-driving-beta.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-beta.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 88
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F10%252F20%252Fae%252Ff6c5261b244c4f6b8f36348853485b9c.8eb52.jpg%252F1200x630.jpg?signature=7jyn6DuiFl9cVmbUR_Mkx1HVWB8="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla to roll out beta of Full Self-Driving on Tuesday, according to Elon Musk"
     excerpt: "Tesla's Full Self-Driving beta is rolling out to select customers tonight, according to a tweet published Tuesday afternoon by Tesla boss Elon Musk. In the tweet, Musk claims that the rollout will be \"extremely slow & cautious.\" Still, it's not exactly ..."
     publishedDateTime: 2020-10-20T22:54:00Z
@@ -79,6 +59,22 @@ related:
         width: 2564
         height: 1236
         isCached: true
+  - title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
+    excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
+    publishedDateTime: 2020-10-17T15:46:00Z
+    webUrl: "https://www.cnbc.com/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 68
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "Tesla Rolls Out Full Self-Driving Beta Version, With A 'Slow' And 'Cautious' Approach"
     excerpt: "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said that the automaker is rolling out the beta version of its full self-driving software, starting Tuesday night. What Happened: Musk tweeted that the rollout of the software will be “extremely slow [and] cautious ..."
     publishedDateTime: 2020-10-21T03:30:00Z
@@ -105,6 +101,6 @@ related:
       domain: infosurhoy.com
     quality: 8
 
-secured: "mG1RtY92wiBdseks6ZBOpBddSim+uCBWxSaxHKkHx3R32OT14HHqhiPcWYgb2gu71gEJV+BpCCFZFNAl5fsrF2BDvudg0Ln34RBzgIX1i62qwbEOL4FEtn6jD38fD6NNmla7CcvOkOxWd9HrforoeiMMkRBSPG66azFYAtED5AEbgHA4SMDYuwHOu/OB6jNdNe3hOXClaf8bTyt7ds66JzGS2CCIZJfXpcPaKOT4N5onj15fmwLboTnUHoTi95X8VAJAWjn9sSGIisTUeDj4KoXreeqzppnGXarz0lq5Yx580yXuek3gsi6sj4zWL4vGluHRMulDGEvDn3W7lvuCJgvkkYUYDD53a189R7y02e2OYNIMJdTaXJcTOxXPFpp58/wyJx0VRYx4rBlMYkNMqx1N7UFdWHR2hCzk6hvOjIuhmy+CwAYkuXKSCIXZosYSFfgD4ZSCirr6G3fKHT1dvRu9tdSnuQkohXqYDtzLFCoBO+IhdYh+HLLtoGvL9LI46em2zL3bG8WAoQ639G8DIw==;hPK9uiwG/yAbgwiNk6Sypg=="
+secured: "perXkOijPlI2WxlWR8byBwgn3jeycfaBpkZcyE01dF6YJ8p3DtUHnIsfzLfEDeepU4kVXvYy93XTbAmiAjgbgCU7PkAXiiPdOAaQJQJJpxA3EdPg1W7E8DPswPwcXC+AoKOSSt0827MdabonIn1AbTGAqnK+wJjM84l+YaNuVJn0s2KP6wPG3K+WfOS8OsZ4npTEPLzyZ/uLMGlucIr6VlTgjiv8kZC9+w+WzNJICGXOE/NUzjVTlLh59vvx0NQL4YR2z1bToT0SKIoRiRWlJJYfzsST6slJi64UQxzTZnGyuqV2393BxSvFASFI8G7hxDYWVTXpStcsmgfO+CMCs4L2ZboN10AQswNQY6iH6yU=;vpbZM2du3gw52SD5pKeprQ=="
 ---
 

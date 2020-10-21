@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Invixium brings mask detection and face recognition while wearing a mask to IXM TITAN"
-    excerpt: "Invixium, a leading global provider of modern biometric solutions, is adding two powerful advancements to its flagship device, IXM TITAN: mask detection and face recognition while wearing a mask. This addition is included in the upcoming release of IXM WEB 2."
-    publishedDateTime: 2020-10-16T16:59:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/press-release/21158728/invixium-invixium-brings-mask-detection-and-face-recognition-while-wearing-a-mask-to-ixm-titan"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 32
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/10/ixmtitan_mask_detection.5f89ccb26bb1b.png?auto=format&fit=max&w=1200"
-        width: 1100
-        height: 540
-        isCached: true
   - title: "Invixium upgrades face biometrics on IXM TITAN to work with masks"
     excerpt: "Multipurpose biometric device, IXM TITAN, has been upgraded by Invixium with two new options that make it possible for a person’s face to be accurately identified while having a mask on. The"
     publishedDateTime: 2020-10-16T19:11:00Z

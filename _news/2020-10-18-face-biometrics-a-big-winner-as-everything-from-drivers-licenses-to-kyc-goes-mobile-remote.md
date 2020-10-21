@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Precise Biometrics integrates facial recognition with open cloud-based access control platform"
+    excerpt: "Precise Biometrics has integrated its biometric technology for physical access control with cloud-based access control system Telcred Access Manager, which supports open hardware from a range of"
+    publishedDateTime: 2020-10-20T16:39:00Z
+    webUrl: "https://www.biometricupdate.com/202010/precise-biometrics-integrates-facial-recognition-with-open-cloud-based-access-control-platform"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 27
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
   - title: "NIST face biometrics accuracy update shows same top vendors for people wearing masks"
     excerpt: "The National Institute of Standards and Technology (NIST) has updated the results of its testing for the accuracy of facial recognition algorithms identifying people wearing masks with a group of"
     publishedDateTime: 2020-10-19T16:02:00Z

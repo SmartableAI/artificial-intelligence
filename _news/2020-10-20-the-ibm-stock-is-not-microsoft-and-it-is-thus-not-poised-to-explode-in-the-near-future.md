@@ -58,6 +58,22 @@ related:
         width: 798
         height: 482
         isCached: true
+  - title: "Microsoft launches Azure Space initiative; partners with SpaceX"
+    excerpt: "Azure Orbital Emulator is an emulation environment that conducts massive satellite constellation simulations with software and hardware. It's for satellite developers who need to evaluate and train AI algorithms involving satellite networking before ..."
+    publishedDateTime: 2020-10-21T07:57:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg"
+        width: 798
+        height: 482
+        isCached: true
   - title: "Microsoft launches ‘Azure Space’, a cloud computing platform for the space industry"
     excerpt: "Microsoft has announced the expansion of its cloud computing service Azure to the space industry, under a project named 'Azure Space'."
     publishedDateTime: 2020-10-20T16:48:00Z
@@ -73,6 +89,22 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2020/10/Microsoft-Azure-Space-e1603209411390.jpg"
         width: 1368
         height: 713
+        isCached: true
+  - title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
+    excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure - in spaaace."
+    publishedDateTime: 2020-10-21T09:09:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 65
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
+        width: 620
+        height: 250
         isCached: true
   - title: "Microsoft Teams will use artificial intelligence to better reduce background noises in video conferences"
     excerpt: "During the coronavirus pandemic, co-workers connect via video conferencing. Microsoft's Teams has a new feature coming to reduce background noises."

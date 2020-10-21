@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Microsoft Teams will use artificial intelligence to better reduce background noises in video conferences"
-excerpt: "During the coronavirus pandemic, co-workers connect via video conferencing. Microsoft's Teams has a new feature coming to reduce background noises."
-publishedDateTime: 2020-10-19T20:10:00Z
-originalUrl: "https://www.usatoday.com/story/tech/2020/10/19/microsoft-teams-video-app-get-better-background-noise-reduction/3712935001/"
-webUrl: "https://www.usatoday.com/story/tech/2020/10/19/microsoft-teams-video-app-get-better-background-noise-reduction/3712935001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3712935001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3712935001"
+title: "Microsoft launches Azure Space initiative; partners with SpaceX"
+excerpt: "Azure Orbital Emulator is an emulation environment that conducts massive satellite constellation simulations with software and hardware. It's for satellite developers who need to evaluate and train AI algorithms involving satellite networking before ..."
+publishedDateTime: 2020-10-21T07:57:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
 type: article
-quality: 59
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/1654aa33-41f4-472f-bec8-8611ce1b3460-Microsoft-Teams-Breakout-Rooms.jpg?auto=webp&crop=1469,826,x0,y22&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg"
+    width: 798
+    height: 482
     isCached: true
 
 related:
@@ -50,22 +53,6 @@ related:
     webUrl: "https://www.zdnet.com/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg"
-        width: 798
-        height: 482
-        isCached: true
-  - title: "Microsoft launches Azure Space initiative; partners with SpaceX"
-    excerpt: "Azure Orbital Emulator is an emulation environment that conducts massive satellite constellation simulations with software and hardware. It's for satellite developers who need to evaluate and train AI algorithms involving satellite networking before ..."
-    publishedDateTime: 2020-10-21T07:57:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
     type: article
     provider:
       name: ZDNet
@@ -108,6 +95,22 @@ related:
         width: 620
         height: 250
         isCached: true
+  - title: "Microsoft Teams will use artificial intelligence to better reduce background noises in video conferences"
+    excerpt: "During the coronavirus pandemic, co-workers connect via video conferencing. Microsoft's Teams has a new feature coming to reduce background noises."
+    publishedDateTime: 2020-10-19T20:10:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/10/19/microsoft-teams-video-app-get-better-background-noise-reduction/3712935001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3712935001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3712935001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/1654aa33-41f4-472f-bec8-8611ce1b3460-Microsoft-Teams-Breakout-Rooms.jpg?auto=webp&crop=1469,826,x0,y22&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The IBM Stock Is Not Microsoft And It Is Thus Not Poised To Explode In The Near Future"
     excerpt: "Some investors see strong parallels to Microsoft and think that Big Blue, like Microsoft, will also explode after the now several-year phase of weak performance."
     publishedDateTime: 2020-10-20T06:38:00Z
@@ -123,6 +126,6 @@ related:
         height: 400
         isCached: true
 
-secured: "lCSAMfr3AwzQh1VsoM3l7m6VX5cqc0IuniFgWFPr9SGSD1C+aZPIrlyaqFH7XEUYjNYMOn4T8gz6uwRZGJMel6xmvydaOVHBTAKtucFUROEcWkHroSiLcmuRjPDtQm5ENk1admOTyHX5GQZ8yE9VpY4kImIdkIHIz0a86+q85G2sb4dKV1sBi+DlTaRduYRa8KJcDp/tn8fjjyIRLwk/cpYlXB6kRUUqzpcXpTSc9srg9mKiCTkhaxvYKPGKGcYa4Vfepc3NyhuOx8nJEM6zcT6s2PWaEej6rWGhPHW5mUOinEyg4GqMpE7jHqTOEnS6K1M05h83CQ6ufUg13r0R4YmHXJNUVvRRXAZAMbvah3kaCfXWPxYZ12Gs+DC6vvAZ+TlKlBoGOHSEqQROZGEXn7ncLWn7oEG6j8TIR4/6uOZiyqmcxdj3atnlrIfhLXjl63jtsAQdL0szly1nrGTwutpULG133/SFt6vg7U6of/q5kldMk2NZeV3NQfFkCxbOt0vd3Nm7xweScEgmHuwvQA==;IC4SEKxi3yCv8oeHrhXdVQ=="
+secured: "ceqbhDK0W6138mVH1x3iFeTs+I7bbujzuNmsucScd9QfmxnfWhquO8m7d8ZDll1hTKV3iWIq513B8imaX8Er8RzNo9gooLy0EDEr3qtk1YSvzysEVx9PngDMJvgPH2ypjSlH12XAiVEoDM/Ra8RDmbKQrmEvcQUGkei6f4s6YQiqno4JlbnSpk4RA3zO0ykeIX2trM3MnBUAH+dgMVBeJGKC7o243Y1GCBeaLRysdd39tlWq7yVR48JRN+LO7Lr596DgZA34ntyefsGPFMiRg2p/iNmnB+MKRvQjYmOA+q0vzwYVxmCQ6S67jOg6m41sE4KdAx7UXT5FzA0gUzdH5QtbSYSkNVljwwyIB56Xze4=;qrCR/O9EKISNS1MsoDtSjQ=="
 ---
 

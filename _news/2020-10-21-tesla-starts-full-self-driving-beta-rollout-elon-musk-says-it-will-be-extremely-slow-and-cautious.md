@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of"
+    excerpt: "For the lucky few selected to experience \"Full Self-Driving\" or (FSD) on their Tesla vehicle, Tuesday night is the night. Tesla CEO Elon Musk tweeted Tuesday afternoon that the autonomous mode ..."
+    publishedDateTime: 2020-10-20T23:25:00Z
+    webUrl: "https://mashable.com/article/tesla-full-self-driving-beta/"
+    ampWebUrl: "https://mashable.com/article/tesla-full-self-driving-beta.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-beta.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 88
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F10%252F20%252Fae%252Ff6c5261b244c4f6b8f36348853485b9c.8eb52.jpg%252F1200x630.jpg?signature=7jyn6DuiFl9cVmbUR_Mkx1HVWB8="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla to roll out beta of Full Self-Driving on Tuesday, according to Elon Musk"
     excerpt: "Tesla's Full Self-Driving beta is rolling out to select customers tonight, according to a tweet published Tuesday afternoon by Tesla boss Elon Musk. In the tweet, Musk claims that the rollout will be \"extremely slow & cautious.\" Still, it's not exactly ..."
     publishedDateTime: 2020-10-20T22:54:00Z
@@ -63,21 +79,21 @@ related:
         width: 4000
         height: 2667
         isCached: true
-  - title: "Norway Is Developing Self-driving Ferries That Passengers Can Summon With the Push of a Button"
-    excerpt: "Zeabus is working to develop the self-driving ferries in Trondheim, which sits on the Trondheim Fjord, in central Norway."
-    publishedDateTime: 2020-10-20T16:08:00Z
-    webUrl: "https://www.travelandleisure.com/culture-design/norway-zeabuz-self-driving-ferries"
-    ampWebUrl: "https://www.travelandleisure.com/culture-design/norway-zeabuz-self-driving-ferries?amp=true"
-    cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/culture-design/norway-zeabuz-self-driving-ferries?amp=true"
+  - title: "Tesla Rolls Out Full Self-Driving Beta Version, With A 'Slow' And 'Cautious' Approach"
+    excerpt: "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said that the automaker is rolling out the beta version of its full self-driving software, starting Tuesday night. What Happened: Musk tweeted that the rollout of the software will be “extremely slow [and] cautious ..."
+    publishedDateTime: 2020-10-21T03:30:00Z
+    webUrl: "https://www.benzinga.com/news/20/10/17988412/tesla-rolls-out-full-self-driving-beta-version-with-a-slow-and-cautious-approach"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17988412"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17988412"
     type: article
     provider:
-      name: Travel + Leisure
-      domain: travelandleisure.com
-    quality: 32
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
     images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F10%2F19%2Fzeabuz-ferry-rendering-lead-ZEABUZ1020.jpg"
-        width: 1800
-        height: 938
+      - url: "https://www.benzinga.com/files/images/story/2012/bram-van-oost-4xm5cytsdmo-unsplash_0.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Elon Musk Announces Tesla Full Self-Driving Beta Release Tonight!—’Extremely Slow & Cautious’"
     excerpt: "Elon Musk announced the new beta testing software of Tesla's Full Self-Driving technology for the company's all-electric vehicles on social media, Twitter."

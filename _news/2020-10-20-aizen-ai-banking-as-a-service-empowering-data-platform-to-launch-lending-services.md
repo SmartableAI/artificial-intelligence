@@ -2,31 +2,26 @@
 category: news
 title: "'AIZEN' AI banking-as-a-Service, Empowering data platform to launch lending services"
 excerpt: "The financial services industry has seen drastic technology-led changes over the past few years. While some of the big tech giants have launched their own Fintech verticals, there are many brands that are also increasingly looking to offer financial services to their customers."
-publishedDateTime: 2020-10-20T15:24:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-1029699791"
-webUrl: "https://markets.businessinsider.com/news/stocks/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-1029699791"
+publishedDateTime: 2020-10-20T15:00:00Z
+originalUrl: "https://www.finanzen.net/nachricht/aktien/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-9412110"
+webUrl: "https://www.finanzen.net/nachricht/aktien/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-9412110"
 type: article
-quality: 79
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - Machine Learning
   - AI
-  - AI in Finance
 
 images:
-  - url: "https://mma.prnewswire.com/media/1315038/Embedded_finance__AIZEN_s_AI_banking_as_a_Service.jpg"
-    width: 400
-    height: 225
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -70,6 +65,6 @@ related:
       domain: channele2e.com
     quality: 19
 
-secured: "urCWaV92f7JB9q4XDEgkiqLRBfeZ/32RmfgGU0vdlVuYLlchPSzyU8Sy2Bp5VM4tt+Iry4JFnWdrQLQIs2XzkNjoBpbxFbCNyuzM26T320EL3b8faGeoYAf8D4MDpK8LwTdZOV+d4OPiio3ERWQFHCaDxcEs/oh0/ELCavaKv6z/000xugIlzARxNEDTLHj/sYzJiHOO8Wt/K3cNp+TTn/xSLi+g+EuM/JD3Ii9lqkTWElPkX70bdAYk2bNqbci+G+EzxMq12V/vXCNOr87p+wUYn/VtGOGIJw2tNZN9qNCwgUjskCEzW6kZlRqDOqwLRu8ME79C6fiTQI9/wkqS9HaaeCG3ceA87Z1lEreKREU=;Cy+aS/h4OOlx50lAOefyFw=="
+secured: "l9Ae8566VNwihlfT86CxAgjjO4Yq6RoE5OOPzqPgAh+7d0QwhEMJrhB4Epul6mVg8cP24gOe62s7DtXBvwVDtYFMLWZoe49BHybKQqUf9cjZNTOi/du+byQlCM3Hwz6CPONzorOcp7P1yHnGMGb1mUnCEU//uFLE7B4GXZgrtN2Erq1QhhQrxIntvbK+tfFoKkfLp41YgNATuTj7QX+haer/p5D1XsjTiDmNbqKUlyPOuA0XfWkJ07Yfovq2JDoOsPDsvMgvYxlyU2IRx1k8S2CNRyVSjE6bf0Yktb3InsBFgX/gOyYtvUY8gN526JhQmevSDdDXO3Sah1h6APlFPY3deOWLoaFBCU/zLctIplw=;NXtlBwzXvzgtIHf12kpFLg=="
 ---
 

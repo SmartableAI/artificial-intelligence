@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202010/precise-biometrics-integrat
 webUrl: "https://www.biometricupdate.com/202010/precise-biometrics-integrates-facial-recognition-with-open-cloud-based-access-control-platform"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Biometric vehicle access forecasts climb, facial recognition features in more new car models"
-    excerpt: "The market for biometrics in automobiles continues to see increased supply, with Cadillac, Buick, and China’s Human Horizons launching new models with facial recognition, a new document-signing"
-    publishedDateTime: 2020-10-16T16:13:00Z
-    webUrl: "https://www.biometricupdate.com/202010/biometric-vehicle-access-forecasts-climb-facial-recognition-features-in-more-new-car-models"
+  - title: "NIST face biometrics accuracy update shows same top vendors for people wearing masks"
+    excerpt: "The National Institute of Standards and Technology (NIST) has updated the results of its testing for the accuracy of facial recognition algorithms identifying people wearing masks with a group of"
+    publishedDateTime: 2020-10-19T16:02:00Z
+    webUrl: "https://www.biometricupdate.com/202010/nist-face-biometrics-accuracy-update-shows-same-top-vendors-for-people-wearing-masks"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 30
+    quality: 17
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/09130331/automotive-biometrics.jpg"
-        width: 800
-        height: 533
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Face biometrics a big winner as everything from driver’s licenses to KYC goes mobile, remote"
+    excerpt: "Digital identity credentials like mobile driver’s licenses and facial recognition made up many of the most-read biometrics news stories of the week. People in Florida may soon be able to use"
+    publishedDateTime: 2020-10-17T18:08:00Z
+    webUrl: "https://www.biometricupdate.com/202010/face-biometrics-a-big-winner-as-everything-from-drivers-licenses-to-kyc-goes-mobile-remote"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 13
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/01115107/passive-facial-biometric-liveness-detection.jpg"
+        width: 1024
+        height: 600
         isCached: true
 
 secured: "OA/vb2It8wYSwxgzxkFe93JKENFHIkg6pT0xvKhJTQahUGAx1wjsq8eMM2hiiu/5m/04F3qTOm0SIwBf/Wygj4VGw07SM8uTzH0OMAbYeOwFXjWHRg6MS0F6YAJN+5wyDliFjCAtmPpsVIz2ve64VLjk4W5PZZmLXWmLkdXABTJiWFFUVAwJ5Z7cSI8CMrZRUntHPNShq/zpKhbYKLijLGdGyCTmbfvP9W2U+4Vc/SYeKosx4Wic4hQPy1Gw+3WdGMLGzp3uQKHj/K21m29tBjW4hSeaDuS2z6jH6KdgAK40bBvRzT7daz3itfCBgRz5xsYsAcbihz6Dw6zAsNN8gCvPr3xEcqa9l43QxXfhW1U=;P2F6lwSOSjIYGO88Xp17Cg=="
