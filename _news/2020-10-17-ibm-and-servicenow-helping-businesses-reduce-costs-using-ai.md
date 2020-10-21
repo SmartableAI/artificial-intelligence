@@ -47,13 +47,18 @@ related:
         isCached: true
   - title: "'AIZEN' AI banking-as-a-Service, Empowering data platform to launch lending services"
     excerpt: "The financial services industry has seen drastic technology-led changes over the past few years. While some of the big tech giants have launched their own Fintech verticals, there are many brands that are also increasingly looking to offer financial services to their customers."
-    publishedDateTime: 2020-10-20T15:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-1029699791"
+    publishedDateTime: 2020-10-20T15:00:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-9412110"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
+      name: Finanzen
+      domain: finanzen.net
+    quality: 32
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "IBM, ServiceNow Partnership: AI for IT Service Management"
     excerpt: "IBM & ServiceNow integrate artificial intelligence (AI) with IT service management (ITSM). Will enterprise partnership extend to SMB MSPs?"
     publishedDateTime: 2020-10-16T18:53:00Z

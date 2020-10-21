@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Photoshop’s new Neural Filters harness AI to generate new pixels"
+    excerpt: "Adobe has launched a new AI-powered workspace for Photoshop that applies a range of different effects and filters to photos within seconds."
+    publishedDateTime: 2020-10-20T18:32:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/20/how-photoshops-new-neural-filters-harness-ai-to-generate-new-pixels/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/20/how-photoshops-new-neural-filters-harness-ai-to-generate-new-pixels/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/how-photoshops-new-neural-filters-harness-ai-to-generate-new-pixels/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-20T183831.890-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Adobe Photoshop gets new AI smarts with neural filters, sky replacement and more"
     excerpt: "Adobe is betting big on its Sensei AI platform, and so it’s probably no surprise that the company also continues to build more AI-powered features into its flagship Photoshop applications. At its MAX conference,"
     publishedDateTime: 2020-10-20T13:06:00Z

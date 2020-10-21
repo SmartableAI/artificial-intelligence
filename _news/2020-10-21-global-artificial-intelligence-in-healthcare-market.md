@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2166080/global-artificial-intelligence-in
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166080/global-artificial-intelligence-in-healthcare-market-2020"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 1000
         height: 616
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market Bigger Than Expected | Intel Corporation, Nvidia Corporation, Google"
-    excerpt: "Download Free Sample Copy of ‘ Healthcare Artificial Intelligence market’ Report @  Key Segments Studied in the Global Healthcare Artificial Intelligence Market, IBM Corporation, Microsoft Corporation,"
-    publishedDateTime: 2020-10-16T11:01:00Z
-    webUrl: "https://ipsnews.net/business/2020/10/16/healthcare-artificial-intelligence-market-bigger-than-expected-intel-corporation-nvidia-corporation-google/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 14
 
 secured: "AvSxCJe6e5fP7A7X2P3dOUrhpeI4+HTziEN37c/OOsyHJaMogYT5WaWo/f7tXJa129Jbv0w8WZWGUe/RxfLzz0W+PGqHRVDjPxMnyE6Sn7811CuQVfpXrwT2pL/7L3MbXlCp63Ug2sQRPLl5Mq4Zs2dArfmuYEdtPZQqqdbGP5vrO/nA66eFQyFkV+z5VkHwEz6U4TZVqDPAtmQT3dTpRzGGIvwo+jjwfiT1YlX3/PxRLGaKSTmFlGGlmqvbx1hg2/Ea457uVv0huBa8GFDv0C73eMXlIYjJQ2ls9xv3Sgpfsj4km4ON+9OKBHRhxV1BMr30alNLLOoB4jW9+y+8lCQpSjuZK/YbB/WmeOpXDak=;xDOuu6xy3uHwwy+dJm8FEA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-16T14:18:00Z
 originalUrl: "https://www.datacenterdynamics.com/en/news/italys-leonardo-system-be-worlds-fastest-ai-supercomputer/"
 webUrl: "https://www.datacenterdynamics.com/en/news/italys-leonardo-system-be-worlds-fastest-ai-supercomputer/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://media.datacenterdynamics.com/media/images/Leonardo_supercomputer.2e16d0ba.fill-1200x630.jpg"
@@ -78,13 +79,13 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2019/01/eurohpc.jpg"
         width: 522
         height: 522
         isCached: true
 
-secured: "qDVqZeUN4YhX/wqCjfJUVwyg4TP+AoRPzeSakynnSD98KC9GAnD1eaUXl8bXjQhUTcO52b+K5evCBsN0z7O8cX6GBmbgPC/8k8hN88B61ujb/rg1HQEkbY9A6qJJkzb6LWm2EEYKmnx7QWJKVcmrFv/Vuaw/94XpVookBXoctk4Ovs61T6xuURNbhXyPp7FPwBhWXYbv0eKJ5QHAkV8h8xrLsUmGd7u3WrEZXT4hKA/2yuPgL8H9KRS9wdBRqQMR6IOeM656iEnkezavnZ14bfRJ8B6fPPw+bPTXpIeXDdTr1nBMhSGmekVE1ve4v7iAac5bBKhJtjHcVmG0UulAhpKDZFwfKvSeqFuSRHry+7w=;lTlwxa5XfauelUjSsuFADg=="
+secured: "7xn14BroOYuQlPELzuUI5lIyAJiJib6aRz1/aLaI598xKLO+1KhNQWkvWmMMgAgW9AmzzdWhrPBBw+407Fr9ZyPNFJKD8zlL+eyn4MJOESrTUtxYX7ooBhMLhOb5GADPoUyEDpOjYS7LzxeCrdqShZ9OiHVjMYWjezdmD23IS1CAXUhp1FLbVb4Tpg1LLtvm1/3I1lZAiQfnjcTW16vG2Ke5DUlqCHlQQussr4tbOnhQ/wkAGXxJ0WnsLMdAwTxxCjK071YKpG0HXL7feIclZdsVSPe99O0xdUY23u7XEZu0/kSgdvoQt7AUltqY59eQ0hSRALiFnxjIAo5B6D5oR2k7/m8+bWgoCrAfsNEEIhwb+msIGOTCrOJ7Wu+8b2lje0QntlSDqr0VPMf3mGSzFZaJoShxjFEP2D7p/Yez6c5B3HJaajnOGD3uNuPlsJfxRJvOoEjNcEdOs1SrrW8rK0ASabkpZXTkx6svOY+8NZ58eY9HWw84CHGCU5wGG6nAdIqofQpPY58B6dmMrOctwA==;PLrew+ILnAPjERLIb11HmQ=="
 ---
 

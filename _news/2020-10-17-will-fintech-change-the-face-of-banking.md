@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Triyono Gani, Head of Digital Finance Innovation at Indonesia’s Financial Services Authority, Compares Fintech with Traditional Banking"
+    excerpt: "Triyono Gani, head of digital finance innovation at Indonesia's Financial Services Authority, compares Fintech with traditional banking."
+    publishedDateTime: 2020-10-21T03:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/168098-triyono-gani-head-of-digital-finance-innovation-at-indonesias-financial-services-authority-compares-fintech-with-traditional-banking/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168098-triyono-gani-head-of-digital-finance-innovation-at-indonesias-financial-services-authority-compares-fintech-with-traditional-banking/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168098-triyono-gani-head-of-digital-finance-innovation-at-indonesias-financial-services-authority-compares-fintech-with-traditional-banking/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 42
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Kebumen-Indonesia-dikaseva-unsplash-300x223.jpg"
+        width: 300
+        height: 223
+        isCached: true
   - title: "AI in Fintech Market Witness the Growth of $7,305.6 Million by 2022"
     excerpt: "According to a research report AI in Fintech Market by Component Solution Service Application Area Virtual Assistant Business Analytics Reporting Customer Behavioral Analytics Deployment Mode Cloud On Premises and Region Global forecast to 2022 the AI in Fintech market size"
     publishedDateTime: 2020-10-20T12:51:00Z

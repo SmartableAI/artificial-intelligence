@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-30-how-artificial-intelligence-and-other-strategies-are-succeeding-in-the-fight-against-physician-burnout.md",
+      "title": "How artificial intelligence and other strategies are succeeding in the fight against physician burnout",
+      "excerpt": "A virtual roundtable featuring experts on physician burnout will be held October 28, 2020. Anyone may register to attend. Janae Sharp, founder of Sharp Index, will serve as modera",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/virus-outbreak-lung-disease-technology-health-diseases-and-conditions-147f362dbb3541c28e8918e74773bcc3",
+      "originalUrl": "https://apnews.com/article/virus-outbreak-lung-disease-technology-health-diseases-and-conditions-147f362dbb3541c28e8918e74773bcc3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions.md",
       "title": "Artificial Intelligence (AI) Market Insights on Fortified Dairy Products Market and Forecast Assumptions",
       "excerpt": "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ...",
@@ -1340,49 +1383,6 @@
       "provider": {
         "name": "Education Dive",
         "domain": "educationdive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-trial-backs-lillys-olumiant-plus-remdesivir-as-combo-covid-19-therapy.md",
-      "title": "Trial backs Lilly’s Olumiant plus remdesivir as combo COVID-19 therapy",
-      "excerpt": "Eli Lilly says rheumatoid arthritis drug Olumiant helps speed COVID-19 recovery when added to Gilead's remdesivir by around 1 day. Will discuss emergency use with FDA",
-      "sourceUrl": null,
-      "webUrl": "https://pharmaphorum.com/news/trial-backs-lillys-olumiant-plus-remdesivir-as-combo-covid-19-therapy/",
-      "originalUrl": "https://pharmaphorum.com/news/trial-backs-lillys-olumiant-plus-remdesivir-as-combo-covid-19-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pharmaphorum.com/wp-content/uploads/2016/06/LillYLOGO.jpg",
-          "width": 1800,
-          "height": 987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pharmaphorum.com",
-        "domain": "pharmaphorum.com",
         "images": null,
         "publishers": null,
         "authors": null

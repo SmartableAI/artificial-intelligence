@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/20/21517616/adobe-phot
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning"
 type: article
 quality: 88
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e571e5e7b5ee322cdbcb0%2F0x0.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Photoshop’s new Neural Filters harness AI to generate new pixels"
+    excerpt: "Adobe has launched a new AI-powered workspace for Photoshop that applies a range of different effects and filters to photos within seconds."
+    publishedDateTime: 2020-10-20T18:32:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/20/how-photoshops-new-neural-filters-harness-ai-to-generate-new-pixels/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/20/how-photoshops-new-neural-filters-harness-ai-to-generate-new-pixels/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/how-photoshops-new-neural-filters-harness-ai-to-generate-new-pixels/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-20T183831.890-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "Adobe Launches Illustrator for iPad, Photoshop AI Tools to Fight Deepfakes"
     excerpt: "The leading design software company unveiled a dizzying array of updates to its creative cloud suite, as well as a tool to combat deepfakes."

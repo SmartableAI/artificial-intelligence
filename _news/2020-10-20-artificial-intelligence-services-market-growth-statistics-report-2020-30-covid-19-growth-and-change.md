@@ -49,6 +49,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Will Covid-19 be the straw that breaks AI’s back?"
+    excerpt: "When discussing the role of AI in Covid-19, we have to reframe this conversation and look at AI as an important approach that can provide better analysis and ultimately better outcomes for patients, not as replacing the entirety of the drug discovery process or as a magic bullet for a vaccine."
+    publishedDateTime: 2020-10-20T23:04:00Z
+    webUrl: "https://medcitynews.com/2020/10/will-covid-19-be-the-straw-that-breaks-ais-back/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2020/10/home-office-video-conference-5230717_1280-300x218.png"
+        width: 300
+        height: 218
+        isCached: true
 
 secured: "YsBHQ+z5Ge76+PeUktk2FrkOl0tF8Ss7uzpSFKPrsq1Is3fDxE+6RpiCYlN43k2SP7NmQ6+OD80k4cgncHWUvjXz+fB9K0TpEfLmzUMJbX2D1m673LRheJQkJTvMqYuwj14kJ4j3/fMSDEvC+bXzJk8a1mSS+ClHyNmSt2FPFfYHTD5yEZJU/CMKA0LkwRrHJBqSs7HFg7dPAdHOIU+HBbUbFwnWrN24YUZMVZflz+ih8JmqSIbuu1pQNRKr3vyHQ6lQXUlbLNrKL14N8ub5iYa+NANOHW6yUtqiuhjhLa4wtnPymaECp4DPxztR/eq0pykE7gD5KRbT08vY1o+D2mCDg0r0uDzwb7qctlBdREE=;xt7jACsmgvseprozwwiacQ=="
 ---

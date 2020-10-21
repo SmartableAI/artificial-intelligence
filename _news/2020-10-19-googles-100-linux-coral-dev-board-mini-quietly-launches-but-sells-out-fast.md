@@ -3,10 +3,10 @@ category: news
 title: "Google's $100 Linux Coral Dev Board mini quietly launches – but sells out fast"
 excerpt: "Google's Coral Dev Board mini briefly goes on sale before selling out but Google still says the board is coming soon."
 publishedDateTime: 2020-10-19T13:21:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/"
 type: article
 quality: 70
 heat: 70
@@ -30,6 +30,6 @@ images:
     height: 772
     isCached: true
 
-secured: "MpkSMyjOpcUb0eqPA3wHhmMvTkY0IdoQ3ItV0cl1n5F0emmZ2Jov6p0ZbrzWpCj1dOp0eN/QWaBgHgmpPKspgUUwkjv/8g6hlPrIYDllc4PG8B548GDB2dsrLIkdJ1s2xDEqXJvII6vySmEpoUzodFkss6XN3m7HmzjeHfqSjaVqURcWDy2+Dd47+rp9yRTxZPJMGMWTbyt6gu1LXgDPXFq5KhaS3uLAgF+3xY/HKRGc2EgY7/jU1BhLC9M9A9EukSMPjaH9ELSe6AqpS8hm2y4TsXkzxfmKt69AmKTzXKxuEES/2+hE79qGMfM5dQGAieGaPCSJ6t7IpBcMVJ3N8xgSr78hF7sP53U20Cl4Fnt4LJxId+Q/bb3Jq5ocKaOC1kOP+YRV93SnecUg5CbghvnU2qrY5BhdWoxkYYjQB9bj7XoSF4Rz4hxiWXEZnNZPoRYg3D7Le9avnGz1e2QUDj49KA6XsCl2HkpTrFqnKDm4x9UGul4WUeQLWOA3mBcd3gmXZT6c3f11naj2axKN2Q==;1HNzkU2euTjxwqY0xWFyPg=="
+secured: "fcfsMiLQ0Y97w/e70Mt64QIBUQR2aBIpZSKl5HmuAYlB+5Hjk6spmsx7g/eEbrNlHLEZ2b8n5/a5NOSPHxkxGgNXP6dKI2ZVNvaAN6dtFS+1RDAHNzsYAkFbxwpEFvnxFssEJiqxpk1ycb9hIekOoB0LVz80hG0a/nxjdmQ/usPKEDbiNHZAbBra+ranohmdYjtlQBWm9StxYIGeCKhIC6Yf63foFOgUlYEZTLTX8xXr83Zd6amDISBJyG06Jv3P9WJTi9+vonyTPdMCQ3L70iyqt7xclBsEey74BKtTiefyDkblc5AWp3HyTVxQf/JhrIG6O5qLFy03VdXamXUOxyLRXbO/hySWCDIJbApdndM=;kbzjhyCwrs0hEuOrsXcPHA=="
 ---
 

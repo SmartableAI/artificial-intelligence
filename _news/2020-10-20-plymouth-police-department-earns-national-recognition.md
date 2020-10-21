@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Pakistan Customs to Deploy Facial Recognition Technology for Everyone Entering the Country"
-    excerpt: "Pakistan Customs will set up an automated National Targeting Centre (NTC) to identify high-risk items and persons through facial recognition"
-    publishedDateTime: 2020-10-16T10:25:00Z
-    webUrl: "https://propakistani.pk/2020/10/16/pakistan-customs-to-deploy-facial-recognition-technology-for-everyone-entering-the-country/"
-    ampWebUrl: "https://propakistani.pk/2020/10/16/pakistan-customs-to-deploy-facial-recognition-technology-for-everyone-entering-the-country/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/10/16/pakistan-customs-to-deploy-facial-recognition-technology-for-everyone-entering-the-country/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 49
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2020/10/Facial-Recognition-Technology-Pakistan-Customs.jpg"
-        width: 1000
-        height: 560
-        isCached: true
   - title: "Facial-recognition tenant referencing tool now available to agents"
     excerpt: "As part of an update to its referencing service, Goodlord customers will now be able to use an authentication service utilising facial recognition to match photos of applicants to the photo on their ID."
     publishedDateTime: 2020-10-20T23:02:00Z

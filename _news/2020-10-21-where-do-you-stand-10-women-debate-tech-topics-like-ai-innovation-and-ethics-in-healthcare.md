@@ -88,15 +88,6 @@ related:
         width: 1000
         height: 616
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market Bigger Than Expected | Intel Corporation, Nvidia Corporation, Google"
-    excerpt: "Download Free Sample Copy of ‘ Healthcare Artificial Intelligence market’ Report @  Key Segments Studied in the Global Healthcare Artificial Intelligence Market, IBM Corporation, Microsoft Corporation,"
-    publishedDateTime: 2020-10-16T11:01:00Z
-    webUrl: "https://ipsnews.net/business/2020/10/16/healthcare-artificial-intelligence-market-bigger-than-expected-intel-corporation-nvidia-corporation-google/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 14
 
 secured: "a5m6WuuA7ImI7FKOZsExkFXbd/taf+lKWrEhSHgUKUyozZx/KuiPV+g2zV/NBqzZGfRVM55Mh8H+u52x/55sNJ18dSnzh07mOTDT0NpdD+kroiU4q/qe7IjKBkNwYdK+wFY+Y+jtHZNwFNIVotJUBWJZATRE+ejRQhawDvJBo29hoYOPrc9zGekrwIqvDxuYDxxRdOl8eaT5+NSB7Zs4oviyMbGa6+mOTTBBQtv838caZXGV+zVb7C+VJJz7vTWrpkap2xGS6GiR6PHjtvgZvGITnWbmdKywCCGKrPgS3QGaiqXB8iB/W8QYEuqwkwm2tyUbvTOzh7FjcBfE1RuC9EgC9T3/h3jbITaxrME53Kg=;FmsZILFsN/nfC6bsxyFIlg=="
 ---

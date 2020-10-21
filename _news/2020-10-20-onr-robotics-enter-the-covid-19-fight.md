@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php
 webUrl: "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-09-30-GettyImages-974742772.png"
         width: 690
         height: 400
+        isCached: true
+  - title: "Will Covid-19 be the straw that breaks AI’s back?"
+    excerpt: "When discussing the role of AI in Covid-19, we have to reframe this conversation and look at AI as an important approach that can provide better analysis and ultimately better outcomes for patients, not as replacing the entirety of the drug discovery process or as a magic bullet for a vaccine."
+    publishedDateTime: 2020-10-20T23:04:00Z
+    webUrl: "https://medcitynews.com/2020/10/will-covid-19-be-the-straw-that-breaks-ais-back/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2020/10/home-office-video-conference-5230717_1280-300x218.png"
+        width: 300
+        height: 218
         isCached: true
   - title: "Artificial Intelligence Services Market Growth Statistics Report 2020-30: Covid 19 Growth And Change"
     excerpt: "id=3207 The artificial intelligence (AI) services market consists of sales of AI and related services that are used in telecommunications, government, retail, defense and healthcare. Companies in the artificial intelligence market provide outsourced ..."

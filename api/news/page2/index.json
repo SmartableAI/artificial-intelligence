@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-20-lux-backed-flex-logix-announces-availability-of-its-fast-and-cheap-x1-ai-chip-for-the-edge.md",
+      "title": "Lux-backed Flex Logix announces availability of its fast and cheap X1 AI chip for the edge",
+      "excerpt": "In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/",
+      "originalUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1161355655.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/",
+      "publishedDateTime": "2020-10-20T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-offices-resort-to-sensors-in-futile-attempts-to-keep-workers-apart.md",
       "title": "Offices Resort to Sensors in Futile Attempts to Keep Workers Apart",
       "excerpt": "Millions of workers in recent months have returned to offices outfitted with new pandemic protocols meant to keep them healthy and safe. But temperature checks and plexiglass barriers between desks can't prevent one of the most dangerous workplace behaviors for the spread of Covid-19 — the irresistible desire to mingle.",
@@ -303,7 +356,7 @@
       "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -585,7 +638,7 @@
       "originalUrl": "https://www.techrepublic.com/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1140,8 +1193,8 @@
       "title": "Google's $100 Linux Coral Dev Board mini quietly launches – but sells out fast",
       "excerpt": "Google's Coral Dev Board mini briefly goes on sale before selling out but Google still says the board is coming soon.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
       "featuredContent": null,
       "highlight": null,
       "heat": 70,
@@ -1158,8 +1211,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
       "publishedDateTime": "2020-10-19T06:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1184,58 +1237,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-6-fintech-trends-that-will-redefine-the-future-of-finance.md",
-      "title": "6 fintech trends that will redefine the future of finance",
-      "excerpt": "November’s fully virtual Hong Kong FinTech Week features expert speakers, who will share their insights into Fourth Industrial Revolution",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast-track/article/3105520/6-fintech-trends-will-redefine",
-      "originalUrl": "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast-track/article/3105520/6-fintech-trends-will-redefine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/19/692f0fae-0df0-11eb-94e0-02af7fd927c6_image_hires_094836.jpg?itok=BWqBzU0p&v=1603072142",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

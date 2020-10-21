@@ -55,7 +55,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Leonardo_supercomputer.2e16d0ba.fill-1200x630.jpg"
         width: 480
@@ -83,7 +83,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2019/01/eurohpc.jpg"
         width: 522

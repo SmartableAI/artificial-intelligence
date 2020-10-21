@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Photoshop’s new Neural Filters harness AI to generate new pixels"
+    excerpt: "Adobe has launched a new AI-powered workspace for Photoshop that applies a range of different effects and filters to photos within seconds."
+    publishedDateTime: 2020-10-20T18:32:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/20/how-photoshops-new-neural-filters-harness-ai-to-generate-new-pixels/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/20/how-photoshops-new-neural-filters-harness-ai-to-generate-new-pixels/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/how-photoshops-new-neural-filters-harness-ai-to-generate-new-pixels/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-20T183831.890-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Adobe Launches Illustrator for iPad, Photoshop AI Tools to Fight Deepfakes"
     excerpt: "The leading design software company unveiled a dizzying array of updates to its creative cloud suite, as well as a tool to combat deepfakes."
     publishedDateTime: 2020-10-20T13:03:00Z

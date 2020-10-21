@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast
 webUrl: "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast-track/article/3105520/6-fintech-trends-will-redefine"
 type: article
 quality: 69
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e409faad21a294c41ea03%2F0x0.jpg%3FcropX1%3D614%26cropX2%3D3072%26cropY1%3D65%26cropY2%3D1447"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Triyono Gani, Head of Digital Finance Innovation at Indonesia’s Financial Services Authority, Compares Fintech with Traditional Banking"
+    excerpt: "Triyono Gani, head of digital finance innovation at Indonesia's Financial Services Authority, compares Fintech with traditional banking."
+    publishedDateTime: 2020-10-21T03:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/168098-triyono-gani-head-of-digital-finance-innovation-at-indonesias-financial-services-authority-compares-fintech-with-traditional-banking/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168098-triyono-gani-head-of-digital-finance-innovation-at-indonesias-financial-services-authority-compares-fintech-with-traditional-banking/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168098-triyono-gani-head-of-digital-finance-innovation-at-indonesias-financial-services-authority-compares-fintech-with-traditional-banking/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 42
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Kebumen-Indonesia-dikaseva-unsplash-300x223.jpg"
+        width: 300
+        height: 223
         isCached: true
   - title: "Will fintech change the face of banking?"
     excerpt: "Fancy new apps have become popular for everything from making a payment to buying insurance and shares. Should the big banks be worried? Simon Wilson reports."

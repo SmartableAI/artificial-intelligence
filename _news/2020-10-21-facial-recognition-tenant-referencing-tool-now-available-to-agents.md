@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Pakistan Customs to Deploy Facial Recognition Technology for Everyone Entering the Country"
-    excerpt: "Pakistan Customs will set up an automated National Targeting Centre (NTC) to identify high-risk items and persons through facial recognition"
-    publishedDateTime: 2020-10-16T10:25:00Z
-    webUrl: "https://propakistani.pk/2020/10/16/pakistan-customs-to-deploy-facial-recognition-technology-for-everyone-entering-the-country/"
-    ampWebUrl: "https://propakistani.pk/2020/10/16/pakistan-customs-to-deploy-facial-recognition-technology-for-everyone-entering-the-country/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/10/16/pakistan-customs-to-deploy-facial-recognition-technology-for-everyone-entering-the-country/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 49
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2020/10/Facial-Recognition-Technology-Pakistan-Customs.jpg"
-        width: 1000
-        height: 560
-        isCached: true
   - title: "Plymouth Police Department Earns National Recognition"
     excerpt: "The national award recognizes the high marks residents gave police services and safety in the National Community Survey."
     publishedDateTime: 2020-10-20T11:13:00Z
@@ -72,6 +56,6 @@ related:
         height: 600
         isCached: true
 
-secured: "w2U219dlqavyVvY4FxLC8mRErhv93CsAk4N2Psw0J+yXG5stahCsu7sxw3boCaLy6E0XBEevbJDiOR6VXz1qHvwU8MFF8L9r1d5vwLKkb8701VyoC50LK8bCYzfCZOpLJE7OGvxAIB29MFTcRHFpD+XW4udwewaBCC/L6+8IGHlnDjoqlQwYQCZwEoZ8dRp6zP09PYo5DhJGHeWMGhoheyQ8QUf+x2OIKr3E/CQ3yzJ2FfZ8K+uKS8WqVJ/jbYC4ynwmTW7TeZWPZc7u8HiprfGXRtH+u7un/YWiKbFu3gWxx0CFqbqyBdKhJwm647bkov6Ui7lTl4NVBX/O9H718rvfgqlXhL2Ki+D0ue9Uhek=;Z7eQtgerQ/kZRub9UyFjmg=="
+secured: "L2z/DUDw1eVmK9ZGDJ2jFmdBieaOYJagn94ABQvR/7NpDITvdTd9X2020NcDxXG7iei7ScvjhtDBY0ZLW42BAeScYAYwN113yf2yCP9V2ocQ7rbOJyhrOhC8zT8Z206SQjDFuAX7uNeqvcRQtgtTLrEhN0TJiWF1/3tOsoEnxqZUT/yGG70GwLiUT7ZD5BL9dyuZJThwCHhsvKOYWk47fiU01dUBq+2g1oX3K/de/1lNei+FHq3kCxh0AXymmDEsYZRSWkTPcQMX3a5o8SlRxS87Sq5cXDqiYxKtQopv1v13ruRKVgOD9TFHHRvW1oNFmsFhnhLJsgzsn9d1TyMHO+9YxHNTvFkaJ1/VQtIoiuXIfjvQSCPPS6OOUNgjDb9VP6TMdEqfmpjFYMxz7iT78noC5N4okMJwAPCJIv7a86voJoDALN2X7pMlAzmHsQiY09IidT/gHe6rx+mE/WGmHgNg6Hzz1PexiwO+zV0LT31V07VfnV3nOQNtGoiEsX0m9fIk/CfmFVKGBHaTyIQb2Q==;g9ZSGbYG56KX5G96hUibVQ=="
 ---
 

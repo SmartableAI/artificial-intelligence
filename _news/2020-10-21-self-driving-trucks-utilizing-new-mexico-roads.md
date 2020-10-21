@@ -26,19 +26,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Hainan opens four roads for self-driving technology testing"
-    excerpt: "Four roads have been opened in China's southern province of Hainan to test self-driving technology. This marks the beginning of an important stage in the development of \"smart\" vehicles in the province,"
-    publishedDateTime: 2020-10-16T10:22:00Z
-    webUrl: "https://tass.com/economy/1212995"
-    ampWebUrl: "https://tass.com/economy/1212995/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/economy/1212995/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 39
-
 secured: "oOUhICf3EZzoARmzZR4QzyEnsLbTbrWQq8zzyPUZJqDeoTl+ZHxcLNd/t8qPba3tBgKCKe56g2n4Cko3jjoTLX9SUvelho5OjGrxB5O3wdwAiDrMu53MHXVYJvbFjsYkAP2FYrRbTCqOWoowLxnI0L0xgt6VFS5j9TFFlVy+dFGw/wLs/mmMPjlSaFYkkkdLBdBvgxxHQYOI4SItwQQI7MpgsQnI1YEXNIvgCHLba0KQJnX2zAzGuvSvCqwwTwQUpEYgoPnvqfX8UFWEhIbzh2fe1iSVeTBkvI7dtBy4gjRQvt6ZQDcpIK+B+tCjNPO1TSbeUjR8eX/46aFZTUaIIPQobX0pwBODScCXUQvWrcbxli7JJjCq3qWM2HXr1F4mMdNP+zsCPuGita/jFOnm0zCE+xz+n0QKLcMa4wwzXlDAel7a82Id/fOWtTgtncvTWQ3zXuOIZ9XImJEXW6UQR85iRrKw8oL/V3I3GNRdxlQDnrGW1Jf79r3XzMAI09ya5Oz9RDZe6Z/BuGAi4mIeNA==;xZ8f4yemGxwTw4dnMndsJQ=="
 ---
 

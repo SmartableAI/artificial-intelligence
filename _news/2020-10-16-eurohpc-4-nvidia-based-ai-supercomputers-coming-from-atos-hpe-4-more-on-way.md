@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-16T12:42:00Z
 originalUrl: "https://insidehpc.com/2020/10/eurohpc-4-nvidia-based-ai-supercomputers-coming-from-atos-hpe-4-more-on-way/"
 webUrl: "https://insidehpc.com/2020/10/eurohpc-4-nvidia-based-ai-supercomputers-coming-from-atos-hpe-4-more-on-way/"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2019/01/eurohpc.jpg"
@@ -64,7 +65,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Leonardo_supercomputer.2e16d0ba.fill-1200x630.jpg"
         width: 480
