@@ -169,6 +169,22 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "Facebook Aims To Predict COVID-19 Spread By Using AI"
+    excerpt: "Facebook has published a paper giving a forecast of COVID-19 spread across the U.S using AI. The company posted the news claiming that its forecast has"
+    publishedDateTime: 2020-10-21T12:26:00Z
+    webUrl: "https://www.androidheadlines.com/2020/10/facebook-aims-predict-covid-19-ai.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/10/facebook-aims-predict-covid-19-ai.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/10/facebook-aims-predict-covid-19-ai.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/11/Facebook-Logo-Nov-15-2018-AH.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Facebook AI can translate directly between any of 100 languages"
     excerpt: "Facebook has developed an AI that can translate directly between any pair of 100 languages without having to go through an English translation first, as many existing systems do"
     publishedDateTime: 2020-10-19T15:09:00Z

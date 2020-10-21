@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast
 webUrl: "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast-track/article/3105520/6-fintech-trends-will-redefine"
 type: article
 quality: 69
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 69
+    quality: 67
   - title: "Fintech's Wildfire Fighter: This Reinsurer Is Using A.I. To Make California Insurance Affordable"
     excerpt: "San Francisco startup Kettle thinks its statistical models can predict wildfires better than any other reinsurer. It officially launched today and recently closed $4.7 million in seed funding."
     publishedDateTime: 2020-10-20T10:34:00Z
@@ -71,6 +71,22 @@ related:
       - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/10/Fintech-Week-1200-x-675.png?fit=1200%2C675&ssl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Why Fintech Research Sites are Important for Investors"
+    excerpt: "Fintech is a blend of two terms as Financial Technology is often used to identify emerging innovations that are intended to enhance and simplify the provision and the use of financial institutions. ​​​At its heart,"
+    publishedDateTime: 2020-10-21T11:55:00Z
+    webUrl: "https://techbullion.com/why-fintech-research-sites-are-important-for-investors/"
+    ampWebUrl: "https://techbullion.com/why-fintech-research-sites-are-important-for-investors/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-fintech-research-sites-are-important-for-investors/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2020/10/Fintech-Research-Sites.jpg"
+        width: 626
+        height: 540
         isCached: true
   - title: "Triyono Gani, Head of Digital Finance Innovation at Indonesia’s Financial Services Authority, Compares Fintech with Traditional Banking"
     excerpt: "Triyono Gani, head of digital finance innovation at Indonesia's Financial Services Authority, compares Fintech with traditional banking."

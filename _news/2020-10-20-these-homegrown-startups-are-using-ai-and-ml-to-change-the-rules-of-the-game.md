@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The true dangers of AI are closer than we think"
+    excerpt: "As long as humans have built machines, we’ve feared the day they could destroy us. Stephen Hawking famously warned that AI could spell an end to civilization. But to many AI researchers, these conversations feel unmoored."
+    publishedDateTime: 2020-10-21T11:22:00Z
+    webUrl: "https://www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/ND20_hao_isaac_7401-web-e1602613033143.jpg?w=1448"
+        width: 1448
+        height: 2000
+        isCached: true
   - title: "Startup to use AI to predict risks for mother and child"
     excerpt: "US based startup CognitiveCare, registered in Hyderabad has launched the world’s first AI platform that helps in predicting maternal and infant health risks called (Maternal Infant Health Insights and Cognitive Intelligence (MIHIC)."
     publishedDateTime: 2020-10-20T02:00:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/6/w600X390/Pregnant_woman.jpg"
         width: 600
         height: 390
-        isCached: true
-  - title: "The true dangers of AI are closer than we think"
-    excerpt: "As long as humans have built machines, we’ve feared the day they could destroy us. Stephen Hawking famously warned that AI could spell an end to civilization. But to many AI researchers, these conversations feel unmoored."
-    publishedDateTime: 2020-10-21T11:22:00Z
-    webUrl: "https://www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/ND20_hao_isaac_7401-web-e1602613033143.jpg?w=1448"
-        width: 1448
-        height: 2000
         isCached: true
 
 secured: "t41XuUajh+2a64sVr2Js0n66LSL1URmWVPhOHYeky0ig/1zmMGx8myGp0BL27ToQs6Gi+1Df3y91P8NjDUEMDjEIWRTqA87WDjaHqM+7Olp/V7SnCxrm4Zx4YULmRFlxM+UBHy6QYlR7kRc6QMIxgk8czPpasrzG4lKJLMl87C29LSz0F5A91b2W37Qa63kN4ID0isLxbZbU8oUngj9sMqNYgf4yngNyj+mWUOWL8tRsNMu7bNGqkSlUY1rpMoZW8P3xKaFPEBjxY9D43IQuSls/9GCEzLOc0PkO7OotOg+HS0gFkDb9t30RaLdE9uFneMENVP8Nk1a+3nmYjJMIFaAAg7BsnBxXUx3UPNedxiY=;qgCk2X+APavDOyW4TTHL+g=="

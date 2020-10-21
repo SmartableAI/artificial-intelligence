@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/women-increasingly-entering-data-science-art
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/amp/"
 type: article
 quality: 65
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 10
-  - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
-    excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
-    publishedDateTime: 2020-10-16T19:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201016005415/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
-    images:
-      - url: "https://mms.businesswire.com/media/20201016005415/en/830987/23/IRTNTR45192.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "9SgYWLIu0EtnUZeBPRI7urzFRJ8V3TyUdzBTO9OZBHGpdnFf4XrQNOkJqeHXiZxlFCibbM3F8Jn6PVpkhq3q4YrBiFBViQyGc/+VdYyscNKDH5Ylg12Cu90G/wd+w2NvnTYzMU1igqTF7YTSkRDE87yJqLOG1woQy5SL85wW/b18POGr5H6y5uYBM77mYzwvHeyHTltRDUvM7ixWOdh69TpdfAFfFbvvtvhFxHbOcMgYtDjhfBVXwP1c0St4VDYWte/dWXMgfj+IvQEaV/cf5MBfRAofsgmzuZHJGf+to+PgOtIv0WRVU+fPfImLUlsFHzuc55lIgVE9zJohHsKAoWZE92esMRXUs2kiwEAJ5fAJrrXClv3tvunyapk2uXTnBFB1TmH9O0BvEAgx+Kq448fgsalotLVBAB0NkDeWAao+RxaPfhRIGj/Z/M/n766gh2vrRsOpBrSFVFdOyyMZdVw60YOfBg6TzJtdjwfcFtMt4Jwcw+wLfwzlH2Xvs9N3kLXdwENNrm81wsulQhRRsQ==;gOyhNGJY/qrO/qUzZ7SvJQ=="
 ---

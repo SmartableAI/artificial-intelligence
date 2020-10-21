@@ -1,34 +1,31 @@
 ---
 category: news
 title: "Neural pathway crucial to successful rapid object recognition in primates"
-excerpt: "Rapid recurrent processing in the ventrolateral prefrontal cortex (vlPFC) helps primates quickly identify objects, according to research from MIT's McGovern Institute and Center for Brains, Minds, and Machines."
-publishedDateTime: 2020-10-20T20:09:00Z
-originalUrl: "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020"
-webUrl: "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020"
+excerpt: "MIT researchers have identified a brain pathway critical in enabling primates to effortlessly identify objects in their field of vision. The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain."
+publishedDateTime: 2020-10-21T13:43:00Z
+originalUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html"
+webUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 58
+heat: 58
+published: false
 
 provider:
-  name: news
-  domain: mit.edu
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - Machine Learning
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://news.mit.edu/sites/default/files/images/202010/Ko-DiCarlo-Neuron-edited_0.jpg"
-    width: 1000
-    height: 667
+  - url: "https://scx2.b-cdn.net/gfx/news/2020/neuralpathwa.jpg"
+    width: 900
+    height: 600
     isCached: true
 
-secured: "/zcJWFi8GkZRQ68qOjBrwfMlKj/Zfbz7+htZYysJBGyXYb4DJbc/Sc5YWkjNAzFLTzHdsQRI2HBgzBphmmwiP1NpxtXCTtZ3s47cfAluOmnwPeSztK8uiXCbXMHATLEiJ3nDk4JYQfeHR+uyewJd/nBzHv+kcZnfAYIACh9DZCn1+LFbMy4FJT3QgzF4XsofVyvZ0gltivGsIY8/r5ToEzHAlGkd8xq3yOKaX1pmr7LvybNmGZf3/qWaXOkzJcBaOKcuOkdHKnzBvwhayodh2ZcFxB3JkB9zId+UrQEPYb1J57hqOAOSkUsVmg0AhGaxCi5xg6uhwJOR6yILtm4Fhf7Xwz9WKDva8Fhmka3QbDKBXszC56+01U/ksMX2kem18odcIKk1Jl7kUfWub2rAF6wq9bC/azUJGBZ0h5RTNohpVyEvBaU868UKvur97LcdDeli3iQGTrmHRcuao+awkM+0MyfxdThXZhDsROuhD7YMwo1eFjy0eYpdEmAtHWt9InDvOZ+3BHRKc4zyTWiSOA==;luX7b/BOdQgx0LOW4VICKw=="
+secured: "WvFCXQ4St5/7eVl+iJlO0qr0Qym5e4lsGkG3ZTlfbacIVFvokKu5SL8nbDjFPpsBjIBRv08twhLsme3COXFOT8TxBAPM6gIsVA7tsve30UpuOisAQQbQTvV9NWZw97XkDVXZaFb6LjdNMYTaDP2jhC7PEb+EP97bUvWurw/aPfKXpCmiIwxnELn2+FKWi4rF3PkqnOqYXl5lKsPzVyND0mauHVz01P9x5XBqFeq8XOsVkP9fC1U5Aglp4sDIxQ/RhZh3b0ZJtlfc5I0Nm/KAQOpuWcprAYtYJCm8clC8CXUFLrdSRXm0vMvPz6hlTmZ4Y1EYaMoa8rCKY9lV5e3Ep3cvQevwgllDJi7Q1j/PXcM=;eBmMv15EqW42diqb3YGaZQ=="
 ---
 

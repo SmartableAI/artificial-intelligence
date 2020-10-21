@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/news/deep-learning-model-developed-to-i
 webUrl: "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -39,6 +39,22 @@ related:
       - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/10/Double-crested_cormorants-1024x725.jpg"
         width: 1024
         height: 725
+        isCached: true
+  - title: "Researchers develop machine learning model that will support safe and accurate decision making for the Halifax Harbour"
+    excerpt: "Researchers at Dalhousie and ocean data analytics innovation environment DeepSense have developed a machine learning method for predicting wind speed and wave height measurements. Such measurements support safe and more accurate decision making by the Halifax Port Authority and the Halifax Marine Pilots."
+    publishedDateTime: 2020-10-21T12:36:00Z
+    webUrl: "https://phys.org/news/2020-10-machine-safe-accurate-decision-halifax.html"
+    ampWebUrl: "https://phys.org/news/2020-10-machine-safe-accurate-decision-halifax.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-machine-safe-accurate-decision-halifax.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 35
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/255-researchersd.jpg"
+        width: 579
+        height: 350
         isCached: true
   - title: "Researchers develop machine learning model that will support safe and more accurate decision making for the Halifax Harbour"
     excerpt: "Researchers at Dalhousie and ocean data analytics innovation environment DeepSense have developed a machine learning method for predicting wind speed and wave height measurements. Such measurements support safe and more accurate decision making by the Halifax Port Authority and the Halifax Marine Pilots."

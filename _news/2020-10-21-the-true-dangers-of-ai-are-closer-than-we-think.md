@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2020/10/21/1009492/william-isaac-deepm
 ampWebUrl: "https://www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/21/1009492/william-isaac-deepmind-dangers-of-ai/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/ND20_hao_isaac_7401-web-e1602613033143.jpg?w=1448"
@@ -59,6 +60,6 @@ related:
         height: 390
         isCached: true
 
-secured: "YLQnGL0Dxfr3tyltQWCwq3EEDSdTWt0UKNGZ1f98pge53LX2ktYjJbxGUPb/aJHRoPxp07KVC+07moMHS2+GztbRPdFlK9+npWwPzfxStQ95e6/A+PpChNbO1ZtbgYuP79104WIPgu/mUblmuQL3HpgtU0rJ++KUebmQwfBvvbIoR1BORoNyIygjOYxfPeK12+te8sSrd2JEuzRM1+I+lk76DG4xrXB8SQI04OtFGTAdHVtPxfwkTqLY1hrDBy58bZ9Gl6hURYXfLy7Ogn+Plwkz05hRld01ubYDqL1mfhrFPuYRt1Udo7/r1sRXG3NtMHovt697ZukZuyvYKBWvXxjAI17UvK+/O7xOJm9fha4=;KvsO+3Ey1prdNca1Xtw3mg=="
+secured: "ws2/qR8KpXw4n9us+e2Y3p6IiNI1/P9sOl2n2klA/DcMSKrxLx+b+/yEiiFGuvkYbi1ijL7qzbXUFRB7/2vBysAOKuJLsYuOTc88ckAVf6ocGroY09ati4Mt18QP5uJNqNgpJLrkXLkcLfS6NxidXbK8vV6G2B6194AhqAsS20VSRb/pdZmKENKbyDJzu/bBlJLTteYrSgZBvROool2HUf3t8LiQwk87D8ckeTyClYpqDqox2ALT4oPFz7256nt+JyuP6TKcp1HK/iWw3d/qoSHqKc9JFb+U8q2ofKFwhFb82NSssL1qdr7yz0RDW4ojHFmkN/yebDlEaYLYLVWOKN9QbRhyxIX55tEozXAro3CGIyuQD3GdT/AunS8JdVmqFAWlt2geiQrXqIIYAK3TQu78sLrZ+y5E2tNYf3MVEOOAP+5Z8zCPm84JRMVjYLqW8XF2yJQlBEI7cHRynhweHnosGfTN85O51h6JG1/jRbJ4I5Y7QBxviwMVH+4l4lZwomCWAVlPfvjOuCUD3AHRAQ==;gdfNFi9k0J1iNR6gZS45Dw=="
 ---
 

@@ -1,64 +1,47 @@
 ---
 category: news
 title: "Looper column: Artificial intelligence, humanity and the future"
-excerpt: "In September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet. The piece received a lot of press because in it the AI stated it had no plans to destroy humanity."
-publishedDateTime: 2020-10-17T04:59:00Z
-originalUrl: "https://www.registerguard.com/story/lifestyle/faith/2020/10/16/looper-column-artificial-intelligence-humanity-and-future/114421676/"
-webUrl: "https://www.registerguard.com/story/lifestyle/faith/2020/10/16/looper-column-artificial-intelligence-humanity-and-future/114421676/"
-ampWebUrl: "https://amp.registerguard.com/amp/114421676"
-cdnAmpWebUrl: "https://amp-registerguard-com.cdn.ampproject.org/c/s/amp.registerguard.com/amp/114421676"
+excerpt: "Columns share an author’s personal perspective.***** In September, the British news website The Guardian published a story written entirely by an"
+publishedDateTime: 2020-10-17T03:27:00Z
+originalUrl: "https://www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
+webUrl: "https://www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future"
+ampWebUrl: "https://www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
+cdnAmpWebUrl: "https://www-butlercountytimesgazette-com.cdn.ampproject.org/c/s/www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart"
 type: article
-quality: 57
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: The Register-Guard
-  domain: registerguard.com
+  name: Butler County Times Gazette
+  domain: butlercountytimesgazette.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/-mm-/b18a16da4a28b23b1cf5b3b4312416f8c8dd74b7/c=0-88-387-306/local/-/media/2020/10/16/WorcesterTelegram/ghows-WT-201019476-a8e65a7f.jpg?auto=webp&format=pjpg&width=1200"
-    width: 1200
-    height: 676
+  - url: "https://www.butlercountytimesgazette.com/apps/pbcsi.dll/bilde?Site=KS&Date=20201016&Category=LIFESTYLE&ArtNo=201019186&Ref=AR"
+    width: 387
+    height: 393
     isCached: true
 
 related:
-  - title: "Artificial intelligence, humanity and the future"
-    excerpt: "September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet."
-    publishedDateTime: 2020-10-16T21:07:00Z
-    webUrl: "https://www.heralddemocrat.com/story/opinion/2020/10/16/looper-artificial-intelligence-humanity-and-future/3684033001/"
-    ampWebUrl: "https://amp.heralddemocrat.com/amp/3684033001"
-    cdnAmpWebUrl: "https://amp-heralddemocrat-com.cdn.ampproject.org/c/s/amp.heralddemocrat.com/amp/3684033001"
+  - title: "Column: Artificial Intelligence Could Soon Let Us Share What’s in Our Heads Wordlessly"
+    excerpt: "What if you could don a Star Trek-like hat or headband — with small flashing lights of course — which through artificial intelligence (AI) allowed you to type merely by"
+    publishedDateTime: 2020-10-20T19:00:00Z
+    webUrl: "https://www.thepilot.com/opinion/column-artificial-intelligence-could-soon-let-us-share-what-s-in-our-heads-wordlessly/article_78301dc8-12f9-11eb-bbac-8f4399042937.html"
     type: article
     provider:
-      name: Herald Democrat
-      domain: heralddemocrat.com
-    quality: 59
+      name: The Pilot Newspaper
+      domain: thepilot.com
+    quality: 31
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/NHED/74e46470-2671-4831-a382-61e389490317-1029222344_TX_Sherman_Shayne_Looper.jpg?auto=webp&crop=386,218,x0,y19&format=pjpg&width=1200"
+      - url: "https://bloximages.newyork1.vip.townnews.com/thepilot.com/content/tncms/custom/image/131e72c6-2bfb-11e5-9b9f-070bd3599e11.jpg"
         width: 1200
-        height: 678
-        isCached: true
-  - title: "Artificial intelligence, humanity, and the future"
-    excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
-    publishedDateTime: 2020-10-18T01:24:00Z
-    webUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future"
-    ampWebUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
-    cdnAmpWebUrl: "https://www-sturgisjournal-com.cdn.ampproject.org/c/s/www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
-    type: article
-    provider:
-      name: Sturgis Journal
-      domain: sturgisjournal.com
-    quality: 59
-    images:
-      - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
-        width: 680
-        height: 931
+        height: 630
         isCached: true
 
-secured: "XvPk2XzEak51tSarmLfeKiygtaaOnPKdwRc77xSMnEwWZFXNO1eM3o/qlYQKgPaHrOD0In/5htPp3/JD2a1PadY0Y3lgrkj7YROUQCNmp56vLG0L8ZWGO4W1hVhC550Jtt1lbsVsfm3ePrCFJQDjAwFH4BsOYvF87kzGem6W4017rnqsn9KskUpOxdn9uL68UQ0/e7Qpd28z7IQnoN9MSlA/G2RJu2RQotmRukZUWT0fcWyqQpG60Oe/4K8uSJfjZYYiaYWpEk2YDlksfdPhOhxraGTA2gC69hPNTJkfhB9msWHYMoIZPIfqRoNly/RyTFW96WI7OmvfNWGpboZkWsRig2GEZvgnjlE8jali57A8ym+61g+9yeKbl+xqe1TCRIkdc7DQ0BYNIR1GIS7fmuuuw3KqoIrn2gHhZWpQ3QzIxes5HNgGcJe9L4MaJEu/JcMZukiY+W5mUNWE71ovY8LT2cUHvhLoGff7Gvo2pJRXAUpJRaAq51qdk98Lb5k+dEuzqwnZ5gn4FGmC1Ky/MQ==;bFT7ap2OR3/QzHvy8tiL3A=="
+secured: "CirMG0LiRFwH78+PcUy4djEb6M9ApxT+boDpPG8gSTxVa7ypHkN93KJEX28qi4fyCTEWQw2n8KaN04XPLsW0NpEsLyCyJpuahj8RSaQQydqPfYox975kGZIsfOfBSLS7U4mJdolYQoXADNtnF2AFLDIL4hCOS6G0IRfkj665oO9Lr9yyPjgHEzDKsFJL2SiRK6lDHvYo9w0zjlNnsbNM4HhZcimN9ry23QYXAQiwy8GOvxBrYaV7qdpF0v16CskjSpvWKLQKrx0bHU41c46U3aX/PNvyGZx7lBU35yNkeDnHMDFeNr/gKbOAtdPtso5damRnCS7nsLLH2hcVlNs3lR6AlkquYfp1sFPB2THHejk=;7y6wB+EQJTc6JsOCUzDlZw=="
 ---
 

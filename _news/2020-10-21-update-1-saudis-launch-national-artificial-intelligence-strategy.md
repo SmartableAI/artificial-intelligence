@@ -1,0 +1,52 @@
+---
+category: news
+title: "UPDATE 1-Saudis launch national artificial intelligence strategy"
+excerpt: "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy."
+publishedDateTime: 2020-10-21T13:23:00Z
+originalUrl: "https://uk.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUKL8N2HC4WS"
+webUrl: "https://uk.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUKL8N2HC4WS"
+ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN2761LZ"
+cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN2761LZ"
+type: article
+quality: 87
+heat: -1
+published: false
+
+provider:
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M"
+    width: 817
+    height: 545
+    isCached: true
+
+related:
+  - title: "Saudi launches national artificial intelligence strategy"
+    excerpt: "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said."
+    publishedDateTime: 2020-10-21T11:47:00Z
+    webUrl: "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2761N6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761N6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M"
+        width: 817
+        height: 545
+        isCached: true
+
+secured: "EJakAp7KWVsUh1qkApQwjhx0FVW2SmLegSOXXxg5QQX44v458z90dRgsgscSSDe8CKphF/qWJfE3+JxGRQN1d7bCA3Xugw69azLaC8qtf9m1X/Sm1c+ooQbYPvO/t75yq+eYGy0FvrHoSMP5zGJT33GIc6IX1mUFXzRyMsr07hgA8lSSfmTE9W6Mpbf+Crzgfgs7LhWFwL6UcVzBwBb4vpPgogYknpWdAobz7QR96bWE/0/103HLgJ2sfBDW8SfJP3MHOHKCKYVqSVBbWXt1dM9NnGNGmTrZzSFuilRn+6ixdnTp6B+bosu0UkSmlKvqZs4c7ITZTTw8McYVJZJj5p+TWkamD/KH16tkb1WzB7I=;dd+AYvVi97C04R/heiqh8Q=="
+---
+

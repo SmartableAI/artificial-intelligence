@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
   - AI
 
 related:
@@ -70,6 +69,22 @@ related:
       - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/10/Fintech-Week-1200-x-675.png?fit=1200%2C675&ssl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Why Fintech Research Sites are Important for Investors"
+    excerpt: "Fintech is a blend of two terms as Financial Technology is often used to identify emerging innovations that are intended to enhance and simplify the provision and the use of financial institutions. ​​​At its heart,"
+    publishedDateTime: 2020-10-21T11:55:00Z
+    webUrl: "https://techbullion.com/why-fintech-research-sites-are-important-for-investors/"
+    ampWebUrl: "https://techbullion.com/why-fintech-research-sites-are-important-for-investors/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-fintech-research-sites-are-important-for-investors/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2020/10/Fintech-Research-Sites.jpg"
+        width: 626
+        height: 540
         isCached: true
   - title: "Triyono Gani, Head of Digital Finance Innovation at Indonesia’s Financial Services Authority, Compares Fintech with Traditional Banking"
     excerpt: "Triyono Gani, head of digital finance innovation at Indonesia's Financial Services Authority, compares Fintech with traditional banking."
@@ -219,6 +234,6 @@ related:
       domain: www.bna.bh
     quality: 4
 
-secured: "NdNFPWYByzKeK6Npp58TLf+h3xhlQlnxbRJc/SsuuhYOf6/e3lwYhjxuYwEUG8996fHVOdx8HMjGmqhhnbfxUbEZ3a/kmiLW8RM/D/l5aAc/KhvRY1rNOOsE0pECF4h0QK0uKmGzXtxDfJsgPLthi2kZgZk2TQ0vUHWkbp/te4F4A4ZQeCc4f+ega3XjsG9XbAMTM8HLO5hR83rSxLuFu6WL925/rQWVUQVwDiqy1gTjtooRVx4kyM+8k2DhKHwq0vZXRghcZjxXBTRsn9ywpZq7W0mhs5o1yxliwaI+8HhlS7Im7aBBVwnW+OeWm43cajopiLQirK+nvH2sA71ELvW3GM34o425+i5k+a3vyvnBV1lsn5M2YgyawG+7sXTnxuMMdXfIpj5EfxmA56C9VzwcH7JRjjdHI2119YojayqZ+09ckHkarBw8fXB4B1AJugQ505JoIJ+sX+Br+E/V6ddXZ+YaABp1SLNm/Pdb3iheSLk8wdSch/CvzNJSysuhhBNO/mqJdbvhnGu7v681LQ==;WvfkLlqovWfwsYCsnHOA7Q=="
+secured: "sDksz42b8Sd0E++iSX2j9kZ6+4rCgt79kQJQS2uIhG0DRU6yQqGBy3SZTbFMUzFHJrIyZ+s08ALBHEP5v6x+EkNg375c0Yx08LW2+zMiOL823ndN6Q4JNnnVMAVFyP7GANb8/z33X3LHWAPkRpxVNhr7Kn9RKAgD2/e1UaMHJqujX/S7yBbOI/TUSDavRhhk6ZVIPfyDD1fR9ri/GZRQOvVPJ+gJmcChTHG6ZlPHEjNSGUqOjykWxzAl7/snnFUGTsKeIAqD017+NLz8fkkyrJ/6jFY+9eOrjXqyBmzDwce1tgTF0u5M5Fgbd/CpDQA9269gBBjFyrKpe1o0FrdUR57PjvIYQHlNUBjSVV3ksd7a5QFceL9wBQq0w51mW3T/yyW+T49f8Iy5p+bEbKtpPXgzjU3EW46SSMSPtiaCgCyI4JSRYNJoXR8B072vGOdb2KsL+PkpuKK37WTMBOwiCAEx2fqjJetl6IvJgqYkfRsyptx8fOXmy1PKKM4x6v+B2b6Nt++En5njJFokUYn3yg==;h6dth4yeutfEbJMkBJs5LA=="
 ---
 

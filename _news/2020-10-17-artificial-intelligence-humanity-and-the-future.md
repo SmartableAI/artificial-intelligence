@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.heralddemocrat.com/amp/3684033001"
 cdnAmpWebUrl: "https://amp-heralddemocrat-com.cdn.ampproject.org/c/s/amp.heralddemocrat.com/amp/3684033001"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Herald Democrat
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "If the Future of Skincare Is AI-Generated Serums I'll Pass"
+    excerpt: "The beauty industry is hoping AI can fuel a new revolution. But so far its just watery gels I'm not sure actually work."
+    publishedDateTime: 2020-10-21T13:40:00Z
+    webUrl: "https://gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481"
+    ampWebUrl: "https://gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/v7tmbtskzdbvvtqzzrxa.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Artificial intelligence, humanity, and the future"
     excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
     publishedDateTime: 2020-10-18T01:24:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
         width: 680
         height: 931
-        isCached: true
-  - title: "Looper column: Artificial intelligence, humanity and the future"
-    excerpt: "In September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet. The piece received a lot of press because in it the AI stated it had no plans to destroy humanity."
-    publishedDateTime: 2020-10-17T04:59:00Z
-    webUrl: "https://www.registerguard.com/story/lifestyle/faith/2020/10/16/looper-column-artificial-intelligence-humanity-and-future/114421676/"
-    ampWebUrl: "https://amp.registerguard.com/amp/114421676"
-    cdnAmpWebUrl: "https://amp-registerguard-com.cdn.ampproject.org/c/s/amp.registerguard.com/amp/114421676"
-    type: article
-    provider:
-      name: The Register-Guard
-      domain: registerguard.com
-    quality: 57
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b18a16da4a28b23b1cf5b3b4312416f8c8dd74b7/c=0-88-387-306/local/-/media/2020/10/16/WorcesterTelegram/ghows-WT-201019476-a8e65a7f.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 676
         isCached: true
 
 secured: "zFZP1QGeM8dSsNkSvr8+jF8RZIz4LxIyBOb/mIhMY7pdXJmIzGm92HLXkSuf70NDc+tiBpGyJ9V/qZLRBWvFCZyuMTxH2v2DVJj8d3N8WxiZRBKkbGoCc9kr5UwuoT8vy839r7IM3Py1Vy0sifHkNAbSaslB+rq/H1jw54bsmFPZSAYkGu4xRtKk2voNuA1DkFxTIWToMeHJ6nOvXtw1cpAM/liD+CSRxZYtqceWQMpi3EzH9fnWWKJKTkE7HkPJiDLbZMLw0QLDTPjQFP/2PdatJ22U+13qH/X8PZpvk6TdOqKZqWVf1N/2UnWX+6CXceAZ/8yWhWusaNw6vTvKrkeZL3FiSYYmk5BEa3xxnXrE7t+G1C4sFlfo7soVOv4LlGqjdGQSMQsbAeOjiqvkk8KxZJNpy08qHMF7x+qnnJ9RpADEMlWQYgtz0rBdPTT09tyZGqsQ7uuKvzMaLTiNdMNdMPCZOUYE2xL7Y6shX9Y9H49Dzm1kU8oDDBJ8up7LTwJOhso5t2Z/gjjQUEAw0g==;p0aVzZcqxnWh2vLJ8Ge+vQ=="

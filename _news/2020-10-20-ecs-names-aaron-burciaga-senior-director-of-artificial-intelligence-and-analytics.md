@@ -82,20 +82,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 10
-  - title: "Global Artificial Intelligence in Energy Market | Growing Demand for Data Integration and Visual Analytics to Boost Market Growth | Technavio"
-    excerpt: "The global artificial intelligence in energy market size is poised to grow by USD 8.06 billion during 2020-2024, decelerating at a CAGR of almost 48% throughout the forecast period, according to the latest report by Technavio."
-    publishedDateTime: 2020-10-16T19:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201016005415/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
-    images:
-      - url: "https://mms.businesswire.com/media/20201016005415/en/830987/23/IRTNTR45192.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "5s9ym5MT5WRe+78Cj/QasM8BOl1vbgNKbh8Of2faL4xTrpiyzX7fOvo1yM3k2PEo+v5gAVbbXknkiey6y6wVrN1rrxw7wYvU8mdSi4v7dRxlXji4ecaBhgIvOJAV7bX9tFh5VaOxu1CxuWvhz7GzsW+rH+gNbtUPS1tuKM0eWvmWncHEarj0ZAWU5Ck6or/dpNOwt3PtsP28qZ753M2TXmGCIuKGeL+eQOS7yOherFmFajCn0oHzXlJa5Y1MbhlaX1hI5RpuCx32tdIZB5iM5D+5SoOF2mGUF1Ql0Vs3ZXpHvrBh42KLpKcbtUVUh+HLyTHoWKOiJvl4N86R0piSRZokS3lkDfmohjNO6pgUazc=;jeijSlIVSpUgoJNW9Jjv8w=="
 ---

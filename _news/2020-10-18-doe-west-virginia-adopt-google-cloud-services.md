@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/10/15/state-west-virginia-adopts-goo
 webUrl: "https://siliconangle.com/2020/10/15/state-west-virginia-adopts-google-workspace/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 924
     height: 520
     isCached: true
-
-related:
-  - title: "Energy Department, West Virginia sign on to Google Cloud"
-    excerpt: "The Department of Energy and the state of West Virginia have both signed on with Google Cloud to take advantage of its Google Cloud Platform and Google Workspace productivity and collaboration solution."
-    publishedDateTime: 2020-10-16T20:49:00Z
-    webUrl: "https://gcn.com/articles/2020/10/16/energy-westva-google-cloud.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 24
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/google_cloud.jpg"
-        width: 760
-        height: 368
-        isCached: true
-  - title: "US Department of Energy signs five year Google Cloud deal"
-    excerpt: "Google will provide cloud and workspace tools to the US Department of Energy. The five-year deal will see DOE staff gain access to all of Google Cloud Platform's services, including Google Cloud Storage,"
-    publishedDateTime: 2020-10-19T10:09:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/us-department-energy-signs-five-year-google-cloud-deal/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 24
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/department_of_energy.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "RkRNBhHSgKeTrNzbBl7xOMHlGVMGU9q+TYjrwqLvaj8IOWgobZXsTu8Rpp3v8yBERJPjFn7e4TfWqtngVUwnl0ZSHAMXRBNLY4xMm9f5E2oy9LhC+Iwxr8ob4TnKZPgEmim//+M+7u1z4yiHbowRcfKMH0HTZ7meCNsApgCti+3ZeqaQNqAhsq3hhOn5Cy/D9/+NqJIccTK3kn3xkry6WFYTWs7QSMqRQTMqpxXw/+ZbRDUcc8BgyD9ZnVUJpMAVtLD7UDQUa8hOAdbQU+xdj+SBIu5IxyeDVUbidSclgQAzm3FRY/SW8LE66pmuotkVN47rohoi5zePverh83E1ajJUHmd8b3lLpizS+3trz65OR7VhDONt6m+YTUwViGCCB4VTzzT9G/b6n1/Z1cBTngQrVj7q5U4CsQMz81KebJWafq1jp0anmGQFI//gGT9CxEKbN256jj0qyvzhbQWUteLyGTKBICEDTyZ7MAlVfY9IkK3U9U7VVOSyzgljWNnbCS7v6HpMk4QJd3ac+08zbg==;jreAK52tqaabUPK8QFqRiQ=="
 ---
