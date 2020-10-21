@@ -2,7 +2,7 @@
 name: "DataRobot"
 overview: "DataRobot powers the AI-driven enterprise. Its breakthrough invention of automated machine learning empowers users throughout the organization to consistently make business decisions unmatched in simplicity, speed, and accuracy. The DataRobot platform evaluates hundreds of cutting-edge machine learning algorithms to discover, deploy, and customize the best machine learning models for every situation. DataRobot delivers the most accurate insights at scale, providing the fastest path to data science success for organizations of all sizes."
 type: "profile"
-heat: 50
+heat: 78
 
 website: https://datarobot.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "DataRobot"
   url: "https://twitter.com/DataRobot"
-  followers: 16756
+  followers: 16758
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "06B4nYzSIuTFcUZF0qLKr2urXjSqs1Tiy6LgLxdEkDFxDNjqQHYWt62nSvPuamcgRN9N/81AZfwQyMExvV3ofP6tLRheHaBU7M066XIPc+GSRZwjqMB5RSLF3q9purva/UOVH/onc7Sc6pFl7EQW4isKMbyd+eDv1w645sOpV/QJtqOwXpSLUStH+e1qUugJ8HxmuZ2zerphiMBtIhZJvDtyDLODNlVSIrQTdCbDyIK/TbAkW0p+voIw5Zjq0ZITcutySXKOa18IAJJLQD3ES2rfCkfLbyg5sBSZEfy/0CtCy+UGNx7B06H+UKOU3Agae2siDvCIwUSiz1K9eM5CDBwUqhYVJ1CXW716gZ122mYfNjFVTCqztSDy3F53hCm3JVdgpMtdJHdD8vcnYdi478+1eLMVz2JQqo1NWlEF3fU=;MEwkDypQALhvZ2TCpeGzow=="
+secured: "23a2/k3sWbK0qhEtpA4q9lOov4ic8UHt8pvWPDzpgkSd/hpHiXL1r2xMsJG6sCVG0rPzOMbMa0IZ2gTkSmZBHXPMVXCRUwLp9UgT/ljDZL0OMbyuhhzBYj6B338NzQcDWBH2p5cROikOFqlM88HXRcwtfW7Te/DsjYsAgclQPQUCq2tI2bsqqr14LDrtVwSaSmQwGT0J7ogOv4Tthcbcwc30vyPmLdMCj0zQ3DBSgDYl1jAszBwwV8MctXZHuykHS+/uAph0YOwctlLb2eRuqCZwCv0WbjTRdbsBZaZ5DokY4ohAzsx1VClqjqzTnpZANW2YT/TETeK+P6YMmVeA+LrxZfZ8DMfZyURvkNAATeEVON3kJk1pH7hA8+TmfrFCpMqhjKX7jRrlpKs+ZbFZMJk1UXUU0FyuR9xDy6unSf4=;mcL/ojZvz58Tj0ohPDNL/g=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Algorithmia"
 overview: "AI-powered business insights. Complete research in record time. Find what others miss."
 type: "profile"
-heat: 50
+heat: 65
 
 website: https://www.algorithmia.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Algorithmia"
   url: "https://twitter.com/Algorithmia"
-  followers: 6368
+  followers: 6369
 
 size: 11-50 employees
 yearFounded: 2013
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "NFQ1ecuiFXRHarG0FyBsJPteb3uL/xX7skhb3ACaq0tel+jdOXYlXL6jMCk/DRx18hMkRNEjw/fLN0rF5QmUsluddv08NfgQ4bKXWLHJ61TXhkzdsL/QXi4iEScOoPv6PIGXqiPnhw2HLNfkDHsBfT2W7a/PTdWdxjf7fU78QONXj5mmKrV1OOQE96v0LPV9jcFmimD5oh33r40XQgfLKhG8mTOlWVuVPgqyJrup9XJXU4osAeBtDVUvWy6ZAdFGFWtMfJWgRKZNLGAloKQwwZa215NqI6uag88FY2EpIqDUZZMgEOCgNvsW2S0pA4aKwfp7nGfi0YANLMDkwl8dp7nz3+eLMQtZV/sg0UIWbOuPm4gPly6Zsg8S0EMvg0yBit2LqHmtrO62pr4l6L3A7zL81klJtcUY/JyuwdkGNqs=;Yd8btJGdtmVae+ZuIhuB0w=="
+secured: "ojZpIc1BoYz0uLjBhiNG5Mitgn+Xg6XglpW6tcsVb9UtZGNQHfQUro1uWZ4lMkjhPI6x/kq/9vkCyBX9LEiH5ZfnJr05Q8O786eysws3m8Vsg9s0aFSzQNt45uan2zs038qmaaVvP3AA6mVjAzHI83zXGvT3qslIz2UHbcrwmM5wGRGrnDS45MLCMXv5AqIBi3yLcrLWClHVSbILTb/DGTezOo9H7YDYd9GVZdci4OZMmIpyXdQYRcjYCE4VDx5arPAUvkiAytpW8+QeCvWNHqTBJyIKyUQa7d3S/Dm5zy3aMzfTxKXxreiCwG4dcQC9L9K2RJtlIsuIpHUDeEdd6fl2CNUF5TC1upA0FlIidZNGkAPOrNWyRJ3nx+6IJi14/1tUP2jKa1S/HRmoj11K0r4n34OB9A1pFocMx7xgTpY=;IFKh8b0hC731aXvlIToKYQ=="
 ---
 
