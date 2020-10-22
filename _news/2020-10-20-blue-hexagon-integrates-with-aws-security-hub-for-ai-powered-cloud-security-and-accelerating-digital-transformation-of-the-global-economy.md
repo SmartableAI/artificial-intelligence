@@ -58,6 +58,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Applied Materials and BE Semiconductor Industries to Accelerate Chip Integration Technology for the Semiconductor Industry"
+    excerpt: "SANTA CLARA, Calif. and DUIVEN, the Netherlands, Oct. 22, 2020 -- Applied Materials, Inc. and BE Semiconductor Industries N.V. today announced an"
+    publishedDateTime: 2020-10-22T14:54:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/applied-materials-and-be-semiconductor-industries-to-accelerate-chip-integration-technology-for-the-semiconductor-industry/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 13
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/NAND-shutterstock-477235393_690x-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
 
 secured: "rUhETSKIGuWcdFqXrAX9Obs0zG1U4XKABKPFVWlEWDa6WD9KeBS52oxFmpSyVHx2EQTrpKEwY/qy2+Z3HrkV/jcS34U/KoV3n2jqo2wqFPFpoCwiTPU8B7jSlpwHVT6kQ8KxYvn0aNtNgiHVhyjbv0GwVDnipvavGInbGZOUt3+UePCWCD4bHfFacHoU5JRoelfS+LJyKlPJuudCFFxr6ooNuW6Kc8H5h7DMgVoqfMa4nT7R0X3pFKvq0idjn4SG7sLXbWWE+TYHNDWmrWdb+ZAUL4vGROMIfqUDbG3s8TrKWAN+PPcxRebk5Nhz/YlZ5HxDkck92KO5yNb72YAOqWLDJS1ZUEVecoI2fj0XFok=;ss21CjcXCG6P3PMtORno1g=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Amit Aghara Joins Fintech as Chief Technology Officer"
-excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (Fintech), the leading business solutions provider for the beverage alcohol industry, today"
+excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (Fintech), the leading business solutions provider for the beverage alcohol industry, today announced that Amit Aghara has been appointed to the position of Chief Technology Officer (CTO)."
 publishedDateTime: 2020-10-22T13:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/amit-aghara-joins-fintech-as-chief-technology-officer-301157044.html"
-webUrl: "https://www.prnewswire.com/news-releases/amit-aghara-joins-fintech-as-chief-technology-officer-301157044.html"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-executive-changes-81887d1b1a2303eccaad7af8bd9779e1"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-executive-changes-81887d1b1a2303eccaad7af8bd9779e1"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/562037/Fintech_logo_with_tm_dk_bl.jpg?p=facebook"
-    width: 1367
-    height: 716
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -92,6 +92,6 @@ related:
       domain: www.bna.bh
     quality: 4
 
-secured: "wS919E4I6RCfoPswpUR8U0YnPAlyr6g6T5te4LRZUEEaVqsV/J3jJcuanhBSNG42m7kinZWrgFSnt7XG2va4sQVNMBV1aO6htfVTo+Qvn72LAlzoHr6g2GheKWOCZ/xghuUWs46doxsi1d2sizc1QaZwtRAXQCoBoUgAyimulgPeeXoc7ux3tdkE8KnKZxvMRME0KVLoxXoAfYvAPIhccJ9D3QxBCv3Ic6b3+EEA0cjW3dYKXRpoTCyJYS7Bf8rjnvA35m6cRJEFe6revpQtHHmpNDHxG1j0cM01ThBSqVbmeH8qzTrVmVHC18CmucGprYGSkl0Dr06hXF0jVPCQkDZzd9MaHD+DmXP6h28fusU=;EOI1Tu4cAyM2d+8Iyid0VA=="
+secured: "9AUmZG/mU3wZGx54uX9naDBGLYKVm/rd93BNT3LyN+ubBbRZ2e7sZOF6rdcbsZu5PE5jQ6WNHvBgsoaFF8dlgvxar3y9+DnzdFusW4sh/KMiwdtFGBYpadFU7bQYGV2UaU0RfnG96V9unb2udWTK/MHy3AqDJIDng9YQ54VduP1aYQVp17IQMHojiujSpPKmyiF84n6UBrtRKIxuhcLrBjbTeZfc6jBfSdJs2bR96LDuDNCukRxngool7bjKnOxFTaKFFdefOp/whh/mK4YDxLZrCSKXezr+J3H6LyuCIDhDgWqJYP0A/CpzI42fJ9E9tEYVFruwYKCo559HDtgR+CXfabeM+BHkrnYbFsaqSeg=;NTa5Wyb+E3o4IchOzXsNOA=="
 ---
 

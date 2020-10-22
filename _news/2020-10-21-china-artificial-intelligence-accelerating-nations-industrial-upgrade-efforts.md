@@ -49,6 +49,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Applied Materials and BE Semiconductor Industries to Accelerate Chip Integration Technology for the Semiconductor Industry"
+    excerpt: "SANTA CLARA, Calif. and DUIVEN, the Netherlands, Oct. 22, 2020 -- Applied Materials, Inc. and BE Semiconductor Industries N.V. today announced an"
+    publishedDateTime: 2020-10-22T14:54:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/applied-materials-and-be-semiconductor-industries-to-accelerate-chip-integration-technology-for-the-semiconductor-industry/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 13
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/NAND-shutterstock-477235393_690x-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "Blue Hexagon Integrates with AWS Security Hub for AI-powered Cloud Security and Accelerating Digital Transformation of the Global Economy"
     excerpt: "Blue Hexagon integrates with AWS Security Hub to deliver a deep-learning Cloud Network Detection and Response (NDR ) solution on Amazon Web Service."
     publishedDateTime: 2020-10-20T14:17:00Z

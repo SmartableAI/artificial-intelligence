@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/these-11-programming-languages-now-work-w
 ampWebUrl: "https://www.zdnet.com/google-amp/article/these-11-programming-languages-now-work-with-kites-ai-code-completion-tool/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-11-programming-languages-now-work-with-kites-ai-code-completion-tool/"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 secured: "fJpIYYr1jJVZZr6tPpbVZZycmQF+BEbH+BmgXjH++qAZvPdst0ALbcJs65WnNGhzvOVg1ciXi6fOPJbgqcWAxJsZbLo2PK5r9feT6ASYAQgVsbZOe0DTh4ldw+vfpLhsIsxS4/z8D1nYUNGMB8QNbgpdRu5mpK8J+flv+Y+XqxHZUP132ZSf4k7RAqRYFRJLXlmAJlRpOXd+p/QBMTBLFUZiNfMOHw2TySDVwW7z7F6MA2z4zRUNdPxUG+VbEa9eb0mwspritKaaQAzuSPbWbpG/KlxMha3O6e5+Q0HTUBEcE1k4numvegqkgDzN1xaO3bbT+8t4hnBizW+fsN3WVCwmJUrxUkMOxF+wxBs7zwF/2yWVnq7HRX/hZDX/7lXjb7mLPQlpBGuqlRy+xccB9sVI59cvLuDvyKc7ju0Vs6u15xZNqHNRLfqr2V4g1olqOqB0LGuEPJrW1oLgOmhwWNs4mt62JVg76bIBNq1m36RjPgswJN2x6szp4VVMx9vygfyF8R4tVEMP60UDRWXo3A==;hxzqAFuKBr5/aNb3Qh3ldQ=="
 ---
