@@ -3,8 +3,8 @@ category: news
 title: "Tesla moving ahead on self-driving cars"
 excerpt: "This week, a group of Tesla drivers was selected to receive a software update that downloaded automatically into their cars, enabling the vehicles to better steer and accelerate without human hands and feet."
 publishedDateTime: 2020-10-22T08:27:00Z
-originalUrl: "https://www.arkansasonline.com/news/2020/oct/22/tesla-moving-ahead-on-self-driving-cars/?business"
-webUrl: "https://www.arkansasonline.com/news/2020/oct/22/tesla-moving-ahead-on-self-driving-cars/?business"
+originalUrl: "https://www.arkansasonline.com/news/2020/oct/22/tesla-moving-ahead-on-self-driving-cars/"
+webUrl: "https://www.arkansasonline.com/news/2020/oct/22/tesla-moving-ahead-on-self-driving-cars/"
 type: article
 quality: 39
 heat: -1
@@ -226,6 +226,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves"
+    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-22T21:48:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Tesla launches ‘Full Self Driving’ beta to select drivers"
     excerpt: "The Early Access Programme serves as testing platform to help fix software bugs Tesla CEO Elon Musk has revealed the company has started rolling out its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers."
     publishedDateTime: 2020-10-22T07:43:00Z
@@ -296,6 +312,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "dt/VQ3UiaTd43Zd6yCjuUcJi51LbLuzj1ANV4xEnbOtfCwipFwUnTb5xbGK3/fRup86FK8Fyg5yQJJEaHvTe5s1lvyOtFMSnehLJj3uRPIAu2Ym+wTbTWNdWydhOx3VPL/0VLzR1thaOfKF39G3dLDzs8QAYG5irRkkottwlf3NH/Qj+ycyhKabxzDePrkMwKjbuYYeeS5+mhV5DeXMojc9XWq7LOzp4DeNNQKBiswZvgm5/cfAT4OlziRozVhOAhiS5CbSyALrlLKktNmdcCr47SiY8M1+Kde9Iu3C9emLz7tCH3L9z0giHD10WHVXjNilFCIBaKFx2JV+BW/nSa52XjVXyHfO5WWRAZsIxj5xMh/oEsWT87sYUx9Q2KA9t/WKyK/T5H4oBPbjaM+vTMbqC0P3weTwCaZcGlL2c3vt9xVbcatQiLuLOz3H3q+5qKudQVjyuMHlv8rKGOZmLk1lWbyYxk8TnqAvH90petsGsljq296icARSWzky7DTF2WBgoSzGt+8kj5fqM8jmpGQ==;HCL5KQn3XRi8AwDr3lnKgw=="
+secured: "+187Ms7Ko9p7karSI9zyPwBhU7Fb2oig+SgecuSUBHqGiX2psGKfMp2XJ7Yav60Mh0T2n06SRffom+hnbI+CKUO8PcXYoMPACNyEYz4c/ZsA9AExcIhKF41zHW6PdZkztNnhbKvGCsJUZ10K9oyYLLgBw2qILiMmLeWn8zsk5bKJAyQPaNmSxqenfYgv0juIxU9whBHRKjAd2aGhzobKsmguXFZ0DBGt/VIGZcI2MPndktSui3VElaeOP75CdSJQYuN2ZXk3djoeKXX8v+hYWx8ef7P7Uf4aLF5myRKGH7Sxe66Fyi7oGAyjm0W0cvB2QsBD0GOKU0rqla9XT8r7fLFyIGUzzEOk/Lz8TYMjgIA=;71l4goQW8+edl8CdrIeGZg=="
 ---
 

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Gives Visual Inspection a Boost"
+    excerpt: "Landing AI unveils AI visual inspection platform to improve quality and reduce costs for manufacturers worldwide."
+    publishedDateTime: 2020-10-22T17:27:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21145523/ai-gives-visual-inspection-a-boost"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/dreamstime_m_115230724.5f91bd85c16d0.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "4PJ657l0sDvQpbySogycXM+FFJlUcZ+vi934xZ0ZoNo9bM8GWRefE/rd0QiC75IqPPnW7XTiR1DMtXy58ioYluOFtR91uy3G1rujMNf7m8Tl3TGEM/wtGh/zB+rLLXLZbjUviF0RA3a1g2vMjrWnfz+ncPV8lRBYy5Jy6qdMWMSL55Mbtf9UFbmjqGuIboTzH4RFwhwzLE4WPFmMGBCFkyJNeDWyeut69uOcANk5MoyDdX/J5YEsUU5IeK8fpy/xQTICyreo/AgLMJwA8U74UcKnparf4zymHc4xH5Y0Z5fr+/eeReaRaXrk1cMxDBQpZYIsdf00IYC0hw6l1NXdfWZ67rjSGPFu1cc+hx2quEo=;gsbM5L/tK54/0Art9JF8bg=="
 ---

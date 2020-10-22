@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-am
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/Driverless-Cars.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech"
+    excerpt: "But the promise of self-driving cars has yet to be realized, though that’s not for the lack of promise or trying. Self-driving, also known as autonomous, cars have been in the zeitgeist since the late 1950s."
+    publishedDateTime: 2020-10-22T20:51:00Z
+    webUrl: "https://www.thedrive.com/cars-101/36937/self-driving-electric-cars"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 19
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2017/01/gettyimages-609845728.jpg?quality=85"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "hGZj2oPDCb/lN5Z8e0MTkKy3Nrd886I41SLz+UIvsFhVvyQxDrsejuXOrJdBl7XWNjWAPPQNijtXy4MsbCTF2fuVFhtCpbA7kOhZXOrD7NaYFbzLMkWFIqAPX+w3WJ+6jeAww5fNZ+WIvITOxZr40O+CJRhwJFcvVKy55UveaCUCJp1oOqHEzK+98XrQuobi0T9xZLhpIDF0buRQthk5ThZPrCrVOTXPi76UCl59RaFb+1d9cuOGjWV5Qrvmg7o+e4/I3xclROi0Y9JBOQWV0oZKQnc89Zpj+d3qd7PRPz+yv2FRvsi3PaAy5w/AUYaeYSrAiSyuZ2jYQ/rKDIQ8Ed+tjo54k77f4T+voaNrZBSjEgfDRaOT+DLcAo8X2OqyF7V7KdD/ExBRgbs7bOF0YLT/m9bVJ/SdvIeYGpU0axZ5HuSJT9qjtbPwP5MjIWo9EhfeZlZTRzoMMobEy38nyZj3LW2BBBV0Ph9GWzJ4ycjk/2XRkEIwQzK1k9/wh9ATy2581/UMDltd4mfi1kjAlQ==;T269DC5ySWxY+nC30A8aVQ=="

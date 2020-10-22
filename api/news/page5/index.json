@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-19-new-ai-machine-learning-gains-a-toehold-on-synthetic-biology.md",
+      "title": "New AI Machine Learning Gains a Toehold on Synthetic Biology",
+      "excerpt": "The scientific study of life and living organisms, biology, is a complicated endeavor, as is the engineering field of synthetic biology. Synthetic biology is the science of creating or redesigning new biological systems found in nature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology",
+      "originalUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-10/pic0092.jpg?itok=rqI8-ytS",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology?amp",
+      "publishedDateTime": "2020-10-18T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-ferminet-quantum-physics-and-chemistry-from-first-principles.md",
+      "title": "FermiNet: Quantum Physics and Chemistry from First Principles",
+      "excerpt": "Weve developed a new neural network architecture, the Fermionic Neural Network or FermiNet, which is well-suited to modeling the quantum state of large collections of electrons, the fundamental building blocks of chemical bonds.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/FermiNet",
+      "originalUrl": "https://deepmind.com/blog/article/FermiNet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/okVedh5EOrcP4VXLBcS9ZpeFUG9UcDEHNyMCe7kUrEt7CMnYROv4caYVNPB-eaGzSTAVXPfJp1CaOcQSsh9NFWwbkEzHyRXL9kiCLYY",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-new-experiments-reveal-why-human-like-robots-creep-us-out.md",
       "title": "New Experiments Reveal Why Human-Like Robots Creep Us Out",
       "excerpt": "Experiments reveal a dynamic process that leads to \"the uncanny valley phenomenon\" with implications for the design of robots and for understanding how we perceive one another as humans.",
@@ -1108,109 +1203,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-norway-pioneered-electric-ferries-now-its-making-them-self-driving.md",
-      "title": "Norway pioneered electric ferries. Now it's making them self-driving",
-      "excerpt": "Norwegian startup Zeabuz has created a zero-emissions, self-driving electric ferry. As more cities look to boats for clean and cheap transport, autonomous ferries could revolutionize urban waterways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/travel/article/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
-      "originalUrl": "https://www.cnn.com/travel/article/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200827174138-zeabuz-electric-passenger-ferry-super-tease.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/travel/amp/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
-      "publishedDateTime": "2020-10-16T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-3-ways-small-businesses-can-quickly-embrace-ai-without-big-data-or-programmers.md",
-      "title": "3 Ways Small Businesses Can Quickly Embrace AI Without Big Data or Programmers",
-      "excerpt": "When AI was first launched, it was perceived as a technology that could revolutionize business models by creating a full understanding of a clients’ profile and their needs. It would be a must-have technology for large businesses to boost their balances ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357286",
-      "originalUrl": "https://www.entrepreneur.com/article/357286",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602691077-GettyImages-1206801125.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357286",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357286",
-      "publishedDateTime": "2020-10-15T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

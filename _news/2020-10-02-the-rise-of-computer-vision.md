@@ -2,25 +2,29 @@
 category: news
 title: "The Rise of Computer Vision"
 excerpt: "These days, we’re producing more visual data than ever before. With revenues from computer vision expected to soar into the billions over the next few years, many organizations have already ..."
-publishedDateTime: 2020-10-02T15:32:00Z
-originalUrl: "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision"
-webUrl: "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision"
+publishedDateTime: 2020-10-02T14:07:59Z
+originalUrl: "https://www.infoworld.com/resources/208956/the-rise-of-computer-vision"
+webUrl: "https://www.infoworld.com/resources/208956/the-rise-of-computer-vision"
 type: article
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "rdIpwgrCyQ9pPEWfoiewE7fNNrxdFgRY25Ico+Hcj6PU0LShKaNdM/wXC5t2pkeZKbusCy6lyoavtOWR/GNSfzH3Syz70wmaBdC+G15ZoNT6BECfANS0J/p7A6siQ52ThHBcR25ZWkYVu1iNybk9mZOZqTkHoVu2wYOwb5jf3+xM6ulbp8F9T5rWTzMs4L9CIf34b1MzqFPRWBgaz8FedKMzkKPZlUWM9b+qn3sXP8L0qbj8iKM6VuOW02yBfAdyWhbbI+SHuqLqD+tNvY/Urg9HQ1hGhIb1tuSdyyfUGj4qX1xQcfyhlvLBsglkpMTHNIjJRB7sueoOc+PEsNZb3r6pBKbdf85pTf4RkKdxHvw=;wI7irX5RBS1W6SxIAOhoVg=="
+secured: "4uqdmxxvRFgcF4eziu8cofXvQjZkNZw6oa1PNvFy11UiLWtcdTinelYFX1KcVNPSoJS5Y3tk4vwwD/vwGokgR3HRBKULecBELhMfRbMU1yFu93QUN3DtuvyU9jUOWk21QqL8tEYrDzIVxNUlDhg+prTcEUwTV8G2ilvtsH2NjwbVTTaILPjRvagLQI7u8F2+1dgRjFVMRP8dRijmRBvrYMYN1F2J4eRpuCiySiS6/hMsEMRI5SIpUOMS7qNs1NlI6sbMxkPH8pakPu+YGaxQUh1mlfCJ11+/Edc3bH3ritVgzUDiqm82U0yagfOgbbUmVvvsMF1xuHkCcp7/tBpwGfKlAsF8Jo74Ii7mtQmncNQ=;HRCFdAXo7MG7/TCQOI0xpQ=="
 ---
 

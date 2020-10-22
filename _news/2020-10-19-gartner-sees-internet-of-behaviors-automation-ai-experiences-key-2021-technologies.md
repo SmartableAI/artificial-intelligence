@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 894
         isCached: true
+  - title: "Forrester: AI and automation will help organizations rethink the future of work"
+    excerpt: "Other predictions Forrester is making in AI and automation in 2021: No-code automated machine learning (AutoML) will be used to implement more use cases. AutoML can dramatically accelerate ML model development versus the traditional coding approach."
+    publishedDateTime: 2020-10-22T20:17:00Z
+    webUrl: "https://www.techrepublic.com/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 65
   - title: "AI.Reverie Named a Cool Vendor in AI Core Technologies by Gartner"
     excerpt: "AI.Reverie, the leader in synthetic data for improved artificial intelligence, today announced that it has been named by Gartner as a Cool Vendor in AI Core Technologies. Gartner’s Cool Vendor research is designed to recognize interesting,"
     publishedDateTime: 2020-10-20T12:00:00Z

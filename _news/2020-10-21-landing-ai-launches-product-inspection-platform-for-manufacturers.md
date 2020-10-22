@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.digitimes.com/newsshow/20200928PD201_files/3_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "AI Gives Visual Inspection a Boost"
+    excerpt: "Landing AI unveils AI visual inspection platform to improve quality and reduce costs for manufacturers worldwide."
+    publishedDateTime: 2020-10-22T17:27:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21145523/ai-gives-visual-inspection-a-boost"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/dreamstime_m_115230724.5f91bd85c16d0.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "VJIHDCzyRcib8e/5aBflSFTZsWUQ6CjSzPrn089XY9137NsyBLiF2eFSJUd7wJ6sgMv9mO4NV7oCO3NHjbQqInRf67a/kSedqOxMouCySnTf5BDiJGTfc03KAsBNcyo7yWRBnHx9kG/ex0PYKPRx0YqpirCqabCU+lNYHeiKidBxYIMzTyu+8+eQuPxUdwekCA+gHb7XGSS5CunBYhz9QtAgxvkT1mPS3GUr38QHJN/VBfHna8m4jM0XlArlyoQp0lNur0qwwrjNgaXNtdYh5Dx4sQlAyDrOKM94QHXzhEYzWFBVY7TdJZ4MyucmGhhaMrPqHa6Iui3ogUZvJWPD/Yiy4VjKOx4ki+ecWafgn3lqAQ+JD4TdArvOKVF8PVJVstOxUaeOAQDRH2tJbdcK5Y4wtDcy52bjjK4XIdBcinZimYCStIw3+zRMk18DeReAEOUuypDJK+psVPF1H/SY3ZCWrRSoR7sExoEl5N71plyu6nEae35tn2waFdZmgCX2YUL01nuQwMz47fFB2JYM8g==;6mJQe7/6U2RR5HJ5G5ztnQ=="

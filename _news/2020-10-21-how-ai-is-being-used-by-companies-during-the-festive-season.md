@@ -112,20 +112,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 39
-  - title: "How AI and the IoT are improving farming sustainability"
-    excerpt: "Information is money. And for farmers, information is often the deciding factor between a good and a bad harvest. As artificial intelligence (AI) and the"
-    publishedDateTime: 2020-10-20T20:33:00Z
-    webUrl: "https://www.embedded.com/how-ai-and-the-iot-are-improving-farming-sustainability/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2020/10/10lr_f2r-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Startup Circle: How is KiksAR using AI to change the fashion industry?"
     excerpt: "KiksAR founder Ms Kavita Jha is erudite with a strong academic background. She has completed her MBA from Pune University. Kavita holds deep domain experience of 15+ years. Prior to"
     publishedDateTime: 2020-10-19T11:35:00Z

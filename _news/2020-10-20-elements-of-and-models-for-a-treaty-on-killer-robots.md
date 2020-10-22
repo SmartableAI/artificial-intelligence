@@ -24,22 +24,6 @@ images:
     height: 1574
     isCached: true
 
-related:
-  - title: "Killer Robots: Precedent for a Ban Treaty"
-    excerpt: "“Killer robots present distinctive challenges but constructing a new treaty does not require starting from scratch,” Docherty said. “Existing international law and principles of artificial intelligence provide ample precedent showing that it is ..."
-    publishedDateTime: 2020-10-20T13:42:00Z
-    webUrl: "https://www.hrw.org/news/2020/10/20/killer-robots-precedent-ban-treaty"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 39
-    images:
-      - url: "https://www.hrw.org/sites/default/files/media_2020/10/202010arms_robots_precedent.jpg"
-        width: 2250
-        height: 1574
-        isCached: true
-
 secured: "+4T46SPSNql0enY/eYlf6gfLNDQVKl/ayHDdP66Qpx/hv6v355K5mwzcSMr4RE2OLzS5LRT+Wm8W8I8FlZg3DETN7OKJNa3Xf7wJvoPCfOiPaf9+mD6DuuAkghNTiu7SNbsfwXC8sQ2w3WvFKP4spZu2lL0vylp5gDwiKkkkplTm3EREzMUfNbdYYutBS/jCyWnTlG1CDw6gcQi04/h8kkAHYfvSPWP4yijt0M9F+U5wejzV3Vb81y0+4WE33+eMNnYAQ0yWZuXkkvxMrdDzGIJ5sE3QsJgOVJCAthZQlmDLABtDVMVmghsvOuNxah4ju+or4fofpD/pX4meD7zGaf4xKr7C8xLxN2r2/1mKQBlZRBAeSwaBw2ZlrYF2P+Mq+492ea44U1MAr7O3Nfo03pLayrzkcfzfVbVN6PFqJwbwiNNRawkomaL2CWHccH+Xuio04lP/mpGyk8kBqgGkmwSJItuXaLTOnTyMFhZLNVBn4myq2hN0ZRj4L1vx9mScqt6Ynm4jyav/dX/cx40VWQ==;CVuszCHpjwSpPbcUuzbOgg=="
 ---
 

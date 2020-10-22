@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/10/22/adobes-new-ai-experiment-sy
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/22/adobes-new-ai-experiment-syncs-your-dance-moves-perfectly-to-the-beat/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 796
     height: 419
     isCached: true
+
+related:
+  - title: "New experimental AI platform matches tumor to best drug combo"
+    excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA)."
+    publishedDateTime: 2020-10-22T20:24:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-experimental-ai-platform-tumor-drug.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-experimental-ai-platform-tumor-drug.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-experimental-ai-platform-tumor-drug.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/drugcellnewe.jpg"
+        width: 600
+        height: 505
+        isCached: true
 
 secured: "YOWRR0eELmXTbA8F8U1o7mujpgEpDjBLr2rcMhTGPUj2LWOKLpmvK1PE6wMKrj2kyICVHhRE7Qc5gsvN5C6Oz8ybuaeHf8eaEoaoQq7XvwBct+rXuhHDb6wH8gqbWEGexQqcR0flHXcdplCg9I+11RTPIngspNQ5Mmuxv+n9x8aaGZlEH6kvmh61u3dB65deRl8+lgj06acl+qkIMrppoZdYrdeXVwOMK/cxuXhwqorM6lmXzsnKlcwSPT3X828+qjILRwhqgF0KxnCPuOmOnNxk7Z/iQSp/hO2mjy2DHi2JMevkpB5UqQ+/Uz5L14Rifr+WqmbeOPfJ+cDx8D1XutbRIEu4tLbrtK21QzJHGl32IiFLAd8oU+hehWAtBCKEmxHRxbEH3/XzKtpfdwgBSU6QWOjwkwDaaiIPwsok2ChvSOS5z/EIsnWIXDI45O5gOfIcH51MhKrjNKwGQ4bd1lsr/JupZkos9VGxh5wgHZqYW3Vqgctff24EPG5suRL7aIOcvuj9JXIqVWn0vmiczQ==;yl16xDlBhNEwFo+DaJ3l5A=="
 ---

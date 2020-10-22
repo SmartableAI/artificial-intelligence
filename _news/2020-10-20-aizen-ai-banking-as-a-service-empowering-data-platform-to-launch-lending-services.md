@@ -45,6 +45,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "'AIZEN' AI banking-as-a-Service, Empowering data platform to launch lending services"
+    excerpt: "This is powered by ABACUS, an AutoML platform in finance that is specifically designed to accommodate the fast-changing customer dynamics in real-time."
+    publishedDateTime: 2020-10-20T17:04:00Z
+    webUrl: "https://www.asiaone.com/business/aizen-ai-banking-service-empowering-data-platform-launch-lending-services"
+    ampWebUrl: "https://www.asiaone.com/business/aizen-ai-banking-service-empowering-data-platform-launch-lending-services?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/aizen-ai-banking-service-empowering-data-platform-launch-lending-services?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 52
+    images:
+      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+        width: 299
+        height: 300
+        isCached: true
 
 secured: "lMDbC1Dk7T25+C5o2h29loqo4TEdlH69yVlYVE/8a6/KC8opGZynfStjWf9gBM6LQEo4PZgUKoA4ZQriDvukYmEoRAJ/witKXRnqhX34oWP38cLFSfzWJniBPj3MzurcFzkfr6kidi0q5bjsbJCknVIm2arTOv3ADfx3aQ+eBwllt7lcaXLZWCJ+dP4DZ2UGEHXAKayIoBCuTyb75UK9Sonk1iFwAJDUIupExfZBMd/ScVSN0j+Nh1V1IMNnFCHDvbEqYyv1WS5NhA6s9obMPFSNVu10XchB2y3mpqyMxGgrbfAO+WfeYJ01hw7GKytMxoF+RQKv2HvMukJ7EVHtt0a6EI/n8czMA974bvqRT1g=;9uT0XcHT01wc55QBrel8MQ=="
 ---

@@ -24,22 +24,6 @@ images:
     height: 697
     isCached: true
 
-related:
-  - title: "Singapore's World-first Face Scan Plan Sparks Privacy Fears"
-    excerpt: "Singapore will become the world's first country to use facial verification in its national ID scheme, but privacy advocates are alarmed by what they say is an intrusive system vulnerable to abuse. From next year,"
-    publishedDateTime: 2020-10-18T03:42:00Z
-    webUrl: "https://www.ibtimes.com/singapores-world-first-face-scan-plan-sparks-privacy-fears-3063942"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/singapore-will-become-the-worlds-first-country-to.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-
 secured: "2jLvVn2j3jadDMF+26sztJ9iIaZiDbN2D0xGD9/JE42PM8eLcp2aHvd1L0wC9GjW+foFmObD6Zv8VDmB0dVuSmKUg1xYqHbFkK3QS4JWSNA9hKJeij0wHbiMZOsO/5Yl/Z/aY1w5sRL/xU88ZduReQq6qpbjRJvxS909yp3MaQp7zFFtKKRTWbuRMj75CGd+GocPz7Vtg5G4Y1FSj71fh2pUE/L7gDwdtL0i9cK23FIYMZKRQdoozrjyw43QGan9LiwRZOH7B5bWEqYc1kGZ4KCAj98FGXr6pUC6cQg9Mbwq7qfw7l/mRNzfkGe21T/9ZClY/ZltxVD276bNLB68pfXNMExC1++BRmic+O+9mB7N260XcVYNnR/rl7BFZuy/zABz6U/mu3E4fWhDEUKdh8uYZoldCbtH8VfaPlElXB6SihL5OsSxuObFKG+ScJdJBMtwfUylKpfCUcyjqsv93/19+3CB0BDPcXWpmXDf5QVBjDAjPPtcvNJEroDgSCYh8FlfLYd1FkhF3QqhxdKqFg==;suIbrEcPHSFxXw0GPUO6ww=="
 ---
 

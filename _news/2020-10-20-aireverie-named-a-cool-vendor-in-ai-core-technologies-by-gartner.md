@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 894
         isCached: true
+  - title: "Forrester: AI and automation will help organizations rethink the future of work"
+    excerpt: "Other predictions Forrester is making in AI and automation in 2021: No-code automated machine learning (AutoML) will be used to implement more use cases. AutoML can dramatically accelerate ML model development versus the traditional coding approach."
+    publishedDateTime: 2020-10-22T20:17:00Z
+    webUrl: "https://www.techrepublic.com/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 65
   - title: "Gartner sees 'internet of behaviors,' automation, AI, experiences key 2021 technologies"
     excerpt: "Rest assured that Gartner has its share of buzzwords in its 2021 trends listing, but the technologies in whole tell a story. Here's a look at the trends and some color commentary."
     publishedDateTime: 2020-10-19T16:30:00Z

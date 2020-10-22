@@ -216,6 +216,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves"
+    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-22T21:48:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Tesla launches ‘Full Self Driving’ beta to select drivers"
     excerpt: "The Early Access Programme serves as testing platform to help fix software bugs Tesla CEO Elon Musk has revealed the company has started rolling out its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers."
     publishedDateTime: 2020-10-22T07:43:00Z
@@ -279,7 +295,7 @@ related:
   - title: "Tesla moving ahead on self-driving cars"
     excerpt: "This week, a group of Tesla drivers was selected to receive a software update that downloaded automatically into their cars, enabling the vehicles to better steer and accelerate without human hands and feet."
     publishedDateTime: 2020-10-22T08:27:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/oct/22/tesla-moving-ahead-on-self-driving-cars/?business"
+    webUrl: "https://www.arkansasonline.com/news/2020/oct/22/tesla-moving-ahead-on-self-driving-cars/"
     type: article
     provider:
       name: Arkansas Democrat-Gazette
@@ -300,6 +316,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "g1qlXodEDq9MfCix2AJQg9RD9yKZHqUor0o+qVCo91a9nfntUGVbTEF9zSWj2VGCJCatsE+f3jiNn7LQrUqSp7zRBP2diD0hV+bq68u6RHqOk7SkZi8jC7C8DbJrAj7bnamiiXgTgPlm/6nGmFJBFe0HPbUnyhsVipL9U9LeIxVts7LGa2bl3Iiaf3n/f0IkV7oFFT+KT47XLcYzamrFW/NkDXfFmmvCOwPYQYEQQTMZt1wYAs5gwBAtNOy7U/pib2HRlLZLgfDHSYed87Ck7yOVRVUNKHRlk5/KxA92l6tHhboZXImvkqv1hrVl3Ahrn++8/nQpfBtEzV6xmSZ7OZSq59Hj5ejp1gdyohWGrnQ=;FN3V9MQmkYYYKGNtQkrzUg=="
+secured: "bkM7LPApQ7gVxc+lDlGO5E8X1A9eV0AK/wKFdwF4tMTUnZ7JhoKGU/EAKS3GZjTv61AkmN8j7ZB5Tl3AJuy6oow8VPrGhATo8ngmcvFj4cZYcMDM9ZXJupP0FTrWqpD1VCsXjFhnbsVuTudgsI+ZuqwS6rFf2yzPodlJBO/7S41i9Kze1naV9ARJWiPTQmqyjd7jr9sPJa58JkAGNKFcdYlKZmrINf6KxXss7VlGJskalyj6DLCY3t7kfecyt0BJnZtNJ9iQSPFBxiiAuP0oatzYG8d44uhUqGdZ/9nfilxWOF9GM+69b4uXAKCuRIPcMY0Ur+UQ9eSs6k265Ds9G7hKATbkekoGz2q5nKU+8hauco72UnizbNSwPhsQ31KsCRTGzRIBWvCESSzw9A06h0FXekmxF2CE/DUrfkX8b1+o+KBlfP+Fip3a7kcjV5f0KHbR0wO9XzuI+CTI1iR4YQCc01E/HYtXGGkTcCwPABu1Xs6cFyRavvVr0P6PR6I6VGG/W4syIAfK5MmjB+9Zvg==;GcO/4z2LGfEOr3lSRpz4gw=="
 ---
 

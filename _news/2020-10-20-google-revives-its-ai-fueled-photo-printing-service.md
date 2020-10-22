@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-photos-ai-premium-printing-servi
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-photos-ai-premium-printing-service-160034151.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://mma.prnewswire.com/media/1315038/Embedded_finance__AIZEN_s_AI_banking_as_a_Service.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "'AIZEN' AI banking-as-a-Service, Empowering data platform to launch lending services"
+    excerpt: "This is powered by ABACUS, an AutoML platform in finance that is specifically designed to accommodate the fast-changing customer dynamics in real-time."
+    publishedDateTime: 2020-10-20T17:04:00Z
+    webUrl: "https://www.asiaone.com/business/aizen-ai-banking-service-empowering-data-platform-launch-lending-services"
+    ampWebUrl: "https://www.asiaone.com/business/aizen-ai-banking-service-empowering-data-platform-launch-lending-services?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/aizen-ai-banking-service-empowering-data-platform-launch-lending-services?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 52
+    images:
+      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+        width: 299
+        height: 300
         isCached: true
 
 secured: "dSQx/AbAPvRNmYVn7zdaFH6HSElNm5XAkffJqeY8Gut+95wMPyMAvG3dvxGlFl114rnh6/bt5tKASE2np8dIXmt+mV6IL43CrW24fFH/Al83mzVgzNj7skhhjBJWaHDgsEIJzrzDxHbNedxW+cSOBtGeT4WWJnYT9QGLF6ZzsnaQW3qS0FqsWMLp15ONvsItwgOyODknGjIyuUZ15Dzij6psj7FIaPEaE8O6trqtlUac4GDhzbkaiSBUdH9+mMxDgFa5XdK/OYN4nFyFevMIqw4m6YVnKLy0yGHhoRNWeMSqnP/Kn0957HZWl7jjy4iBUHAlptLhP7tobcRi0TOJQKJZxNhBZaeFa4z9RfEeutX0AyIXVg2oGwhtS9cQg6BibUnfyESFxt055S6/Qgc7gqJsoOkoIRDRwzdnPAs+7ctAhrs4iktMcaHpgc7Ytc+x9Z5dejVgB0BZ/W/EgxD2nthFnSWHx7iu5sxSoeZqjL+u948VKKYGEWmnDLVLouiSHGV92SNmckGNliG5KmcFyQ==;Fg+M6CJC9MoXOKYXdYewtg=="
