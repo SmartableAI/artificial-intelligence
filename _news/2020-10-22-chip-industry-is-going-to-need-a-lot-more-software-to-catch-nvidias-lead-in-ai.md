@@ -3,14 +3,14 @@ category: news
 title: "Chip industry is going to need a lot more software to catch Nvidia’s lead in AI"
 excerpt: "Topic: Artificial Intelligence  The semiconductor industry is in the midst of a renaissance in chip design and performance improvement, but it will take a lot more software to catch up with graphics chip titan Nvidia,"
 publishedDateTime: 2020-10-21T20:17:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+originalUrl: "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+webUrl: "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
 type: article
-quality: 100
-heat: 150
-published: true
+quality: 80
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -23,12 +23,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/10/21/8c897dbe-8d2e-46d3-bfc3-def8f3ed8e56/nvidia-a100-press-graphic.jpg"
-    width: 2000
-    height: 1296
-    isCached: true
 
 related:
   - title: "New MLPerf Data Shows Competition Increases In AI, But NVIDIA Still Leads"
@@ -47,6 +41,33 @@ related:
         width: 1200
         height: 974
         isCached: true
+  - title: "Nvidia makes a clean sweep of MLPerf predictions benchmark for artificial intelligence"
+    excerpt: "MLPerf benchmark tests are an opportunity for chip vendors, and system builders, to show how much performance they can achieve on a representative set of machine learning tasks. Nvidia capture top marks against Intel in all the tests."
+    publishedDateTime: 2020-10-21T17:15:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 76
+  - title: "Nvidia chips again smash AI performance records"
+    excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services."
+    publishedDateTime: 2020-10-22T03:54:00Z
+    webUrl: "https://newsd.in/nvidia-chips-again-smash-ai-performance-records/"
+    ampWebUrl: "https://newsd.in/nvidia-chips-again-smash-ai-performance-records/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/nvidia-chips-again-smash-ai-performance-records/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 74
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "NVIDIA Smashes Performance Records on AI Inference"
     excerpt: "NVIDIA today announced its AI computing platform has again smashed performance records in the latest round of MLPerf, extending its lead on the industry’ s only independent benchmark measuring AI performance of hardware,"
     publishedDateTime: 2020-10-21T18:00:00Z
@@ -56,20 +77,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "stc and NVIDIA Team Up to Build Saudi Arabia’s First AI and Deep Learning Cloud Infrastructure"
-    excerpt: "Oct. 21, 2020 -- stc, a digital leader in the MENA region, is working with NVIDIA to build Saudi Arabia’s first AI and deep learning cloud infrastructure,"
-    publishedDateTime: 2020-10-21T14:31:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/stc-and-nvidia-team-up-to-build-saudi-arabias-first-ai-and-deep-learning-cloud-infrastructure/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 44
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/lumi-supercomputer-csc-405x228.png"
-        width: 405
-        height: 228
-        isCached: true
   - title: "NVIDIA's AI Reduces Video Streaming Bandwidth Consumption by 10x"
     excerpt: "GPU-manufacturer NVIDIA announced their Maxine platform for AI-enhanced video-conferencing services, which includes a technology that can reduce bandwidth requirements by an order of magnitude. By moving much of the data processing to the cloud,"
     publishedDateTime: 2020-10-20T13:07:00Z
@@ -84,6 +91,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia’s A100 GPU sets new performance records in MLPerf benchmarks"
+    excerpt: "Nvidia Corp.’s latest artificial intelligence platforms have once again set new performance records in the latest MLPerf benchmarks. MLPerf is an industry benchmarking group that was set up in May 2018 and is backed by companies that include Amazon."
+    publishedDateTime: 2020-10-21T18:25:00Z
+    webUrl: "https://siliconangle.com/2020/10/21/nvidias-a100-gpu-sets-new-performance-records-mlperf-benchmarks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/NVIDIA-A100-Press-Graphic.jpg"
+        width: 2000
+        height: 1296
+        isCached: true
   - title: "STC partners Nvidia on AI computing infrastructure"
     excerpt: "Saudi operator STC said it;s working with Nvidia to build Saudi Arabia's first AI and deep learning cloud infrastructure, enabling domestic enterprises to adopt AI. STC is joining the Nvidia Partner Network (NPN) and will be the first cloud service provider in the region to bring AI capabilities to the"
     publishedDateTime: 2020-10-21T14:55:00Z
@@ -94,6 +115,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "GiEiaZ1BxXZ6uyVvDYY/ncpSPZjJH0la3rG/IP9pEYxZyobiQgvcn9byg+rTfqgbuCoNpHlcm38ANT8K2flsxQg7LkO6BM62M+JJjZLitHlsFgLrFeilXmU0XxH4aMbH8SrxsmL+1L5ULU+z9tiSq9y+iyP4HQQEqBquajHWXMPW75d6+o7xkDLY4SY4u9OJ7EYFVHS3rsRpGj9zYbAY8mPOCGtHotV3Rx3ltCvL2hdZ+JK628UTVV8XltzuBFh+Fz4QOGMrqYOnHMAYcvBdS8hXrKdy2YvMRN2di2hiVGCDzet7jC5An5l/85UwA6DOxzw+C2VlZ/q9w/uCHSgPY38zvpeaLm7btgRLAwfU/dM=;TKP/isAH5Y6jCKfDWTACuA=="
+secured: "6FfihfucMfnTOm/XYAhK7joB43S3MHoKJ5814eWPBWzxhHpYlX8XdLSqIdbkxCiavTclEuG2pbZgPQ3Z5PJ7QadqtFEmH00AFNgiBhow7jd3PaZWH0QzeSK6ZRE94uKzOi91v+4f1vWxRI2bfsUc3+BQvOj/hwY000QtfE+n+/gyDyIltdUmFuJ38RqUSf3jDl1kbjL6HJJmRK65KoLY+scv90F2HCtmBO3y1Mt8Khu3Tu3b/PU08ODLulyUfBFHrtB0HfVrApu4Wk7VhKr/90Fo1t110o5KbcsGMVTqxlK4Jc+zn7Ykt4NBnY4BbvATuxNnoRxoqd6O1CbIZ/UNfTUqiL9jdGunX8rdQbPy1T7AsgJ+HtkvAbzSNTu7CK8oksDJgVr2uj0Xp4h6sgeEPVPJY1oqU0IUgh+b6nDTuy69LsqqO8XGjJ2dEydH4q5Ka28Q8uDUaRbyMNs8rV1X0wdK0QsFpS/tyxOe21EQg59Wd36iywUcgyYc+HQsPMN2EhmoTgJc6ipDuJaba53suA==;6DvYQXFW8mm8ChXtw675BA=="
 ---
 

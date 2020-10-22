@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Why Human-Like Robots Creep Us Out"
+    excerpt: "Source: Photo by Maximalfocus on Unsplash Robots, androids, and artificial intelligence are being used more frequently ... But the more these machines start to resemble humans, the creepier we feel. And scientists now have discovered why."
+    publishedDateTime: 2020-10-21T11:37:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-right-mindset/202010/why-human-robots-creep-us-out"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 19
 
 secured: "vy+OuVbxyRuzP5sjd/7IyFVzGoOm/ja2YfMUdfttGOLhDpXOwgEN2CGpZm9vXqJk3cyMY93GOPTX/+Ha0w6uysG+k8Xbv3lF1lq2/2gJI21BOssXY9wXn2aTp7ui3XV5uQuY+FaWNg3doq2V923nOV8tPEvwBxgYpJ9Jh5I0SObyrtRWkkaV6Xx3E/hXVPqiuwIlXQsYI0ogGfhPM9LtlK69A+awFEl4+NlItOS3ZwqWbhD7dmBRaDOwdVUjOTyh9QacYPHx2XOlb506gaa59zfiqH6J72PnJjKYkJCGhSs1RgmwvbPfHlmnb9Tgy029jz8BCg/dMWb+yGuR11oLryVcDAFqJO0XkQ+Y0Wcm4pI=;T1KMeo6Bc+mBFG27NjJkbQ=="
 ---

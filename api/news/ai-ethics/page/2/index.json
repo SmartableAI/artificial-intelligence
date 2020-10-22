@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-17-reps-hurd-kelly-formalize-national-ai-strategy-resolution.md",
+      "title": "Reps. Hurd, Kelly Formalize National AI Strategy Resolution",
+      "excerpt": "The resolution introduced by Reps. Hurd and Kelly in coordination with BPC and other stakeholders includes recommendations from four AI white papers on workforce, national security, R&D, and ethics. “American ongoing and future leadership in AI will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.meritalk.com/articles/reps-hurd-kelly-formalize-national-ai-strategy-resolution/",
+      "originalUrl": "https://www.meritalk.com/articles/reps-hurd-kelly-formalize-national-ai-strategy-resolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.meritalk.com/wp-content/uploads/2020/02/shutterstock_561931702-min.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MeriTalk",
+        "domain": "meritalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-pentagon-raises-ai-ambitions.md",
       "title": "Pentagon raises AI ambitions",
       "excerpt": "AI & Analytics. Pentagon raises AI ambitions. By Lauren C. Williams; ; The Defense Department wants to accelerate its artificial intelligence efforts with increased pe",

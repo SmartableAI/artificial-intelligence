@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Photoshop's new AI features include neural filters and sky replacement"
-    excerpt: "Adobe has released new versions of Photoshop for desktop and iPad with a bunch more AI-powered features. The Sky Replacement tool that Adobe added to the latest version of Photoshop Elements is now available in the full version of the software."
-    publishedDateTime: 2020-10-20T13:15:00Z
-    webUrl: "https://www.engadget.com/photoshop-desktop-ipad-update-artificial-intelligence-130024695.html"
-    ampWebUrl: "https://www.engadget.com/amp/photoshop-desktop-ipad-update-artificial-intelligence-130024695.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/photoshop-desktop-ipad-update-artificial-intelligence-130024695.html"
-    type: article
-    provider:
-      name: YAHOO!
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbd1b5a40-1242-11eb-b5ef-0e3f27fb1c78&client=amp-blogside-v2&signature=2d9c123b11765202c620c5763a4d1ae53a4a7c9f"
-        width: 600
-        height: 350
-        isCached: true
   - title: "How Photoshop’s new Neural Filters harness AI to generate new pixels"
     excerpt: "Adobe has launched a new AI-powered workspace for Photoshop that applies a range of different effects and filters to photos within seconds."
     publishedDateTime: 2020-10-20T18:32:00Z
@@ -109,22 +93,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/065recXXwvwMbcZBTGWAK5T-7.1603054730.fit_lim.size_1200x630.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Adobe Photoshop gets new AI smarts with neural filters, sky replacement and more"
-    excerpt: "Adobe is betting big on its Sensei AI platform, and so it’s probably no surprise that the company also continues to build more AI-powered features into its flagship Photoshop applications. At its MAX conference,"
-    publishedDateTime: 2020-10-20T13:06:00Z
-    webUrl: "https://techcrunch.com/2020/10/20/adobe-photoshop-gets-new-ai-smarts-with-neural-filters-sky-replacement-and-more/"
-    ampWebUrl: "https://techcrunch.com/2020/10/20/adobe-photoshop-gets-new-ai-smarts-with-neural-filters-sky-replacement-and-more/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/adobe-photoshop-gets-new-ai-smarts-with-neural-filters-sky-replacement-and-more/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/adobe-neural-filtes.gif"
-        width: 600
-        height: 338
         isCached: true
   - title: "Can artificial intelligence photoshop emotion?"
     excerpt: "Adobe released some new features to its Photoshop image editing software yesterday for Creative Cloud subscribers, and there’s definitely a strange one in there. New Atlas reports that there is a new,"

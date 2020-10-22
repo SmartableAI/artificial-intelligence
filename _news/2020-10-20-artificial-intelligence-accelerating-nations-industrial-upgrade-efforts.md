@@ -36,6 +36,20 @@ related:
       name: Hellenic Shipping News Worldwide
       domain: hellenicshippingnews.com
     quality: 35
+  - title: "Applied Materials and BE Semiconductor Industries to Accelerate Chip Integration Technology for ..."
+    excerpt: "Applied Materials, Inc. and BE Semiconductor Industries N.V. (Besi) today announced an agreement to develop the industry’s first complete and proven equipment solution for die-based hybrid bonding, an emerging chip-to-chip interconnect technology that enables heterogeneous chip and subsystem designs for applications including high-performance computing,"
+    publishedDateTime: 2020-10-22T05:00:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-industrial-technology-western-europe-environment-6237dea4a2eb9a3f56bee050923a8786"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Blue Hexagon Integrates with AWS Security Hub for AI-powered Cloud Security and Accelerating Digital Transformation of the Global Economy"
     excerpt: "solution on Amazon Web Services (AWS). Recognized in the 2020 Forbes AI 50 list as one of America’s most promising artificial intelligence (AI) companies, and the Gartner Market Guide for Network Detection and Response, Blue Hexagon is a real-time deep ..."
     publishedDateTime: 2020-10-20T13:26:00Z

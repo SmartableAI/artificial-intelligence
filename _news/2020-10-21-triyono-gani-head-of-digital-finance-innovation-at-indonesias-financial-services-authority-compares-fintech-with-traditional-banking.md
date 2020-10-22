@@ -51,7 +51,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 69
   - title: "Fintech's Wildfire Fighter: This Reinsurer Is Using A.I. To Make California Insurance Affordable"
     excerpt: "San Francisco startup Kettle thinks its statistical models can predict wildfires better than any other reinsurer. It officially launched today and recently closed $4.7 million in seed funding."
     publishedDateTime: 2020-10-20T10:34:00Z

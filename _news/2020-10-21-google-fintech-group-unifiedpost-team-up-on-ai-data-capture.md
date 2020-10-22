@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/google-
 ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "6 fintech trends that will redefine the future of finance"

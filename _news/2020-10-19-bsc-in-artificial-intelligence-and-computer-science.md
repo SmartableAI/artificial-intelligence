@@ -55,6 +55,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Can AI and IoT improve the scope of cricket experience?"
+    excerpt: "Technological Innovations like Artificial Intelligence, Data Analytics and Internet-of-Things are improving traditional cricket by making predictions easier and faster and changing the realm of cricket sport."
+    publishedDateTime: 2020-10-22T04:48:00Z
+    webUrl: "https://www.analyticsinsight.net/expanding-the-capabilities-of-ai-and-data-analytics-in-cricket/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-20.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "fuu1LwYZeREsJMwmmK5A9rqRgsixw65T1zh6HGIxhV4dCF+RKRGcpT+LsC/7xlIWoEBQynaEVoqo3McY5AfvRNU5xaS/esf6G0W2Pp6QdVrXIvznliRbY8EjTqmzLZ5Gk4rt+theOTKeSFFBs3mzw8pHPAGM0pHMsMYzeqie/xxGLsqAmz4pZA2mLOld/N1vD1IxBSUlXdMNEGLlNvZQv90St5QqytwrNccZ/HziUNM0jlf9UFmhTx69ESflsbGXlA4K+F4E+AKjhExhnc5rXrz6GP0vUocshSCzgrsBd6jqa3HpmRG+LjC8fMFvH09gnzR5hUT6oDtyagucrusVMeos+aMt+9eHkbuE9c/MvBPLqBqS6HdMWOf6CqqSYtzjqOy7zFBWr4XSVXLtRyFm3V7kLC81gffyhHULyHLEC12cq2i09rx9p7aLxEU1T5dSMzRkcU8py7dWsyX8q9qYmIGUAcp+2xVium4fHw1rOGmxlWLGJ0eCXhP5sk052XsfjeNtpPUoL+AqNELdJebonQ==;f4yKcGLmeakUPMfu3dPpMg=="
 ---

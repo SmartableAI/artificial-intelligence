@@ -50,6 +50,20 @@ related:
       name: Hellenic Shipping News Worldwide
       domain: hellenicshippingnews.com
     quality: 35
+  - title: "Applied Materials and BE Semiconductor Industries to Accelerate Chip Integration Technology for ..."
+    excerpt: "Applied Materials, Inc. and BE Semiconductor Industries N.V. (Besi) today announced an agreement to develop the industry’s first complete and proven equipment solution for die-based hybrid bonding, an emerging chip-to-chip interconnect technology that enables heterogeneous chip and subsystem designs for applications including high-performance computing,"
+    publishedDateTime: 2020-10-22T05:00:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-industrial-technology-western-europe-environment-6237dea4a2eb9a3f56bee050923a8786"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "tbYlNapxxIWhLviEyCkf9l5rG7AE3J98lqu4hocbBksOjfEY7yppywH7IBgDhqsxoXohiVVPAHrwCGp28TMrcqhSjp32KMUuSmzqOB2qtVWAz27ESR80CJWelDgpw1tbQPqGefiWj1GAppJDLjPr/1fPo7aJm6Hod5lDlVfByC2w52F+9BgQrUfC4Peae3eFxacK2Chc3guCKCeSObV1Lk72WdOueBOU7IohGovB56ByO8L0aGS3xnfku9SlVk5W8Np4YtIuE6rHpMuTHQ/4aZ2W/FqtVZU0MBx7T3C5bhuMxJiyg+tEqcNDRNmk5SgKhRU1reZjiz4PdNLpzc3AaUX8rFvbVuL16EvttEyPJYM=;SZFnjsBMTMMmpfSsG8Zt4Q=="
 ---

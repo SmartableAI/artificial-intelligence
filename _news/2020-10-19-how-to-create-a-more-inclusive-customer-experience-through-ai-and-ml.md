@@ -9,7 +9,7 @@ ampWebUrl: "https://retailtouchpoints.com/features/executive-viewpoints/how-to-c
 cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Can AI and IoT improve the scope of cricket experience?"
+    excerpt: "Technological Innovations like Artificial Intelligence, Data Analytics and Internet-of-Things are improving traditional cricket by making predictions easier and faster and changing the realm of cricket sport."
+    publishedDateTime: 2020-10-22T04:48:00Z
+    webUrl: "https://www.analyticsinsight.net/expanding-the-capabilities-of-ai-and-data-analytics-in-cricket/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-20.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "TSnkXb5cMMtN72Wns245pVc4CVBD18Pv4tCLVx0AIZR97nNz4iTB+5zmxHCbQzBDCEKAepQbyr16IXWYXSbffs2QTIwitjPL1hB2Ob3JIfaKlcfOQLbzevl7alHg9A4iuaj0hQL061WgedtX8IMU/TDZCFVm7s3ACgP3/k91gbE2c2x4QRuLp//gZi1j9OLL3Z+SVk5v6Whcb707pTRADIItenGGd6cbIfxNZNATzw8Tyn4Qy39WkczVLPnuoyTAeYvfozNWumDqbBdf4KjsIf6OffF/k1XKb/LuJtbZy4Js4x5y28FJW4qr9RlE5EUxqi5oOm/tN9BQtNruntMw3x123Y5D6lWNlcUyBeoTkpE=;Z2h9vPWGh8j2EADLsRieug=="
