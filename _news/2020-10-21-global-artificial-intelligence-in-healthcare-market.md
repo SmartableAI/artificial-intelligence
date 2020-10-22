@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2166080/global-artificial-intelligence-in
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166080/global-artificial-intelligence-in-healthcare-market-2020"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "If we're serious about healthcare equity and access, we must support autonomous AI"
-    excerpt: "In 2019 a record number of U.S. adults (33 percent) said they put off receiving medical care due to cost, according to Gallup's annual Health and Healthcare poll. In 2020, even more people are delaying specialist care during the pandemic."
-    publishedDateTime: 2020-10-17T16:00:00Z
-    webUrl: "https://thehill.com/opinion/healthcare/521522-if-were-serious-about-healthcare-equity-and-access-we-must-support"
-    ampWebUrl: "https://thehill.com/opinion/healthcare/521522-if-were-serious-about-healthcare-equity-and-access-we-must-support?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/healthcare/521522-if-were-serious-about-healthcare-equity-and-access-we-must-support?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 68
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/artificalintelligencegetty.jpg"
-        width: 645
-        height: 363
-        isCached: true
   - title: "Where do you stand? 10 women debate tech topics like AI, innovation and ethics in healthcare"
     excerpt: "Ten women in the tech world came together last week for a debate series hosted by 1776 and CVS to battle it out on topics like AI, biases, innovation and data sharing. The debaters were paired with topics that fit their expertise, but were randomly ..."
     publishedDateTime: 2020-10-20T18:33:00Z

@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ArchIntel to Host AI in Competitive Intelligence Virtual Event TODAY: Meet the Event Speakers"
+    excerpt: "Jackson, a competitive intelligence and strategy expert, focuses on the role of information technology and data as the basis for competitive advantage in his role with Deltek. Jackson will discuss how artificial intelligence (AI), machine learning (ML ..."
+    publishedDateTime: 2020-10-22T09:49:00Z
+    webUrl: "https://www.govconwire.com/2020/10/archintel-to-host-ai-in-competitive-intelligence-virtual-event-today-meet-the-event-speakers/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 28
+    images:
+      - url: "https://govconwire-media.s3.amazonaws.com/2020/10/22/3d/64/44/02/86/00/71/64/a0If300000NB1bKEAT-artificial-intelligence-in-ci.png"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "Bw1TRdCYGRsrPgWQJnkqS+jBfkXLZOBON/M/iiQPao/xAF6dnYrcBye8CfMRR0uZgX8Fbq8AT9eP5w99W+7TaMIe75gjHG9UaxVrLQAinVFYzPHNryzGQ8Q+qhyREcC9QI0aou+cmMClLquE+Fl3i2k4p/ZzIV5W4tWku5YElBAtNRD2jos38QEseaM9bHiXwnJq8leWA5SyvUVvduNt3Llf5encnxZAnI6PMnVjEnDndNMwlx6LLQHfq4pcDuYnCuYlKC32V/BuRDJEaYIhNOMTNvEE9IA1q9zWyJ26TMsVe2lewUBBwL6F+DAYJz+PY3yMVKnwPXLOoaSTMtgsyrx51SH6a1ZrUDOc1RLVUO8d9CHjMd0MH1OYG4XiiIOhzHpZdqd6Czgj1EiDQ8tF0Vy/q29VjlAxmUPGHb+aP8RmbqpXCqzxl6dAF24oyqD+pDPeXVxRLt8szvwlbYsxiWM66wa+aSqOjfBNL1RBun6ECIna5PkfFI5VpcSwsrbbvETnUgoaHVKWU/XqanB1pQ==;vh50uZ1HIX/HCCu7ZalRlQ=="
 ---

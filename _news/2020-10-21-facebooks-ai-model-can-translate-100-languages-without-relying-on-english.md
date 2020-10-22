@@ -107,6 +107,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Facebook is developing a way to type using VR on tabletops"
+    excerpt: "Facebook Reality Labs' latest research project, being presented at the Symposium on User Interface and Software Technology, demonstrates hand-typing on a desk at up to 73 words per minute. The project isn't ready for Oculus Quest VR headsets yet,"
+    publishedDateTime: 2020-10-22T02:30:00Z
+    webUrl: "https://www.cnet.com/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/CR8VckH_PQuQB_a1B_LRE-ROb9Q=/1200x630/2020/10/21/b81c65ac-f9f5-4d53-a672-74afeb77c6f0/frl-vr-typing-screenshot.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook Creates the First AI That Can Translate 100 Languages Without Using English"
     excerpt: "Facebook has created the world’s first artificial intelligence model capable of translating 100 different languages without relying on the use of English at all. According to the tech giant, most translation models currently being used rely heavily on English when performing translations."
     publishedDateTime: 2020-10-22T06:31:00Z

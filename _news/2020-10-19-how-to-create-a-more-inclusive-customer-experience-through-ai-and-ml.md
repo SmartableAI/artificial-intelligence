@@ -9,7 +9,7 @@ ampWebUrl: "https://retailtouchpoints.com/features/executive-viewpoints/how-to-c
 cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-20.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "The future of user experience design starts with AI"
+    excerpt: "We all experience the world through our own subjective lens. But when it comes to user-experience design, most companies choose a one-size-fits-all approach. Salesforce, best known for its customer-relationship management platform,"
+    publishedDateTime: 2020-10-20T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90566154/the-future-of-user-experience-design-starts-with-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/10/Unknown.png"
+        width: 1280
+        height: 896
         isCached: true
 
 secured: "TSnkXb5cMMtN72Wns245pVc4CVBD18Pv4tCLVx0AIZR97nNz4iTB+5zmxHCbQzBDCEKAepQbyr16IXWYXSbffs2QTIwitjPL1hB2Ob3JIfaKlcfOQLbzevl7alHg9A4iuaj0hQL061WgedtX8IMU/TDZCFVm7s3ACgP3/k91gbE2c2x4QRuLp//gZi1j9OLL3Z+SVk5v6Whcb707pTRADIItenGGd6cbIfxNZNATzw8Tyn4Qy39WkczVLPnuoyTAeYvfozNWumDqbBdf4KjsIf6OffF/k1XKb/LuJtbZy4Js4x5y28FJW4qr9RlE5EUxqi5oOm/tN9BQtNruntMw3x123Y5D6lWNlcUyBeoTkpE=;Z2h9vPWGh8j2EADLsRieug=="

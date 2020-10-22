@@ -69,6 +69,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "The future of user experience design starts with AI"
+    excerpt: "We all experience the world through our own subjective lens. But when it comes to user-experience design, most companies choose a one-size-fits-all approach. Salesforce, best known for its customer-relationship management platform,"
+    publishedDateTime: 2020-10-20T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90566154/the-future-of-user-experience-design-starts-with-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/10/Unknown.png"
+        width: 1280
+        height: 896
+        isCached: true
 
 secured: "fuu1LwYZeREsJMwmmK5A9rqRgsixw65T1zh6HGIxhV4dCF+RKRGcpT+LsC/7xlIWoEBQynaEVoqo3McY5AfvRNU5xaS/esf6G0W2Pp6QdVrXIvznliRbY8EjTqmzLZ5Gk4rt+theOTKeSFFBs3mzw8pHPAGM0pHMsMYzeqie/xxGLsqAmz4pZA2mLOld/N1vD1IxBSUlXdMNEGLlNvZQv90St5QqytwrNccZ/HziUNM0jlf9UFmhTx69ESflsbGXlA4K+F4E+AKjhExhnc5rXrz6GP0vUocshSCzgrsBd6jqa3HpmRG+LjC8fMFvH09gnzR5hUT6oDtyagucrusVMeos+aMt+9eHkbuE9c/MvBPLqBqS6HdMWOf6CqqSYtzjqOy7zFBWr4XSVXLtRyFm3V7kLC81gffyhHULyHLEC12cq2i09rx9p7aLxEU1T5dSMzRkcU8py7dWsyX8q9qYmIGUAcp+2xVium4fHw1rOGmxlWLGJ0eCXhP5sk052XsfjeNtpPUoL+AqNELdJebonQ==;f4yKcGLmeakUPMfu3dPpMg=="
 ---

@@ -121,22 +121,6 @@ related:
         width: 1200
         height: 602
         isCached: true
-  - title: "Four years ago Elon Musk announced all Tesla cars have the hardware needed for full self-driving, so where is it?"
-    excerpt: "Tesla announced on October 19, 2016, that all cars being produced have Full Self-Driving hardware. Almost four years later, numerous over-the-air software updates have introduced new features. But there has yet to be a complete Full Self-Driving release."
-    publishedDateTime: 2020-10-17T15:46:00Z
-    webUrl: "https://www.cnbc.com/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/17/why-teslas-full-self-driving-feature-is-taking-so-long.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 68
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927"
-        width: 4000
-        height: 2667
-        isCached: true
   - title: "Tesla Officially Starts Rollout of Full Self-Driving Beta"
     excerpt: "Tesla CEO Elon Musk announced on Twitter last night that the electric car company’s Full Self-Driving beta update is officially being rolled out. “Will be extremely slow and cautious, as it should,” Musk added an uncharacteristically serious tone."
     publishedDateTime: 2020-10-21T16:55:00Z
@@ -184,6 +168,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2K7QWACXMI6RBVZREEHIPDZ3U.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Tesla moving ahead on self-driving cars"
+    excerpt: "This week, a group of Tesla drivers was selected to receive a software update that downloaded automatically into their cars, enabling the vehicles to better steer and accelerate without human hands and feet."
+    publishedDateTime: 2020-10-22T08:27:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/oct/22/tesla-moving-ahead-on-self-driving-cars/?business"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/196444798_tesla-1stld-writethru-a0f5868a-13bc-11eb-bc10-40b25382f1be_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 337
         isCached: true
   - title: "Tesla talks up self-driving capabilities, robotaxi and production ramp"
     excerpt: "Tesla (NASDAQ:TSLA) held one of its calmer conference calls after knocking out five straight quarters of profit.Tesla CEO Elon Musk gave out more details on the full self-driving [FSD] beta, noting that the system will be trained as edge cases are worked out with the beta drivers."

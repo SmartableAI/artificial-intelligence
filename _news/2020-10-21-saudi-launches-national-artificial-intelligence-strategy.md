@@ -2,15 +2,15 @@
 category: news
 title: "Saudi launches national artificial intelligence strategy"
 excerpt: "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said."
-publishedDateTime: 2020-10-21T11:47:00Z
-originalUrl: "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6"
-webUrl: "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2761N6"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761N6"
+publishedDateTime: 2020-10-21T16:33:00Z
+originalUrl: "https://www.reuters.com/article/saudi-economy-ai-idUSD5N2EC03K"
+webUrl: "https://www.reuters.com/article/saudi-economy-ai-idUSD5N2EC03K"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSD5N2EC03K"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSD5N2EC03K"
 type: article
-quality: 87
-heat: 127
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -23,12 +23,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M"
-    width: 817
-    height: 545
-    isCached: true
-
 related:
   - title: "UPDATE 1-Saudis launch national artificial intelligence strategy"
     excerpt: "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy."
@@ -36,6 +30,22 @@ related:
     webUrl: "https://uk.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUKL8N2HC4WS"
     ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN2761LZ"
     cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN2761LZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Saudis launch national artificial intelligence strategy"
+    excerpt: "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy."
+    publishedDateTime: 2020-10-21T18:27:00Z
+    webUrl: "https://www.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUSL8N2HC4WS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2761LZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761LZ"
     type: article
     provider:
       name: Reuters
@@ -83,6 +93,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZxRjTH/GWD0N+1s+nWN1kiNopKallHTHebxfHTAAyP1Y1uLb9b6Ht9dT8QklaQBlP6ijiFbkYO3TIElL2igazkFjrbk+z/lW54R2uW0RnBuMyy1JvPWVGS/asSogXL/YVNz7ZNzD6Fcb3AS05nxrKcWKlN51fKwLulR5QLIa9aemzGTRwxKOUpDMc/UUJKTL+uypDZA13IKzJxSHZnf20vQsZe/rAIC+E//DK5kaGdMsC+OdWFbWO1pUbEnPFrUVbhzPOEphWBSYmtfcII5xriyOuUqat3Z41de5EX2SIROwOOQZyMFEBCacay7jtA2xHTSejKxJ8xK/tPHQtVvXhKiTMjY+kpagV7fydG46VEg=;pblKWuk5+bSn/yzIlyebmA=="
+secured: "AoKEJZZ9+50p3mC933mYwPNWt/ILwxJDvtb99sovYx34gC3Yzr378PThjKZf+NjRXrRaHKQmWe/Bx95qcpguJw97cjyHWfyq+0r+JAoYOiP1a04qtFPGqjdh+UzrltXzayBr/pcfJgTz6dpBaVk8NyLLRK5yUYf4FtABqFdxay+j2JkC2xI+r1bKQxrYSz/9hhts3YvMKz6kQwStvAn7EQhL76buiPv+5pO2JPsEhKJipUg9t+A6gTpWZRHLtF9DjdWkOEjm9MrCYCynj5NSrxD1yH3Ro1cVcu5INQn2yVY2rVYJ2nN7SNGWq0OTPJUiF9RiMIQCh4NGzpy7H68n9X263EiRKhXl/XWRSc3mMSM=;fiSCqDYIJMd7VRTaIWjkAQ=="
 ---
 

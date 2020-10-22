@@ -92,20 +92,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Udacity and Microsoft Launch ML Engineer on Azure Course"
-    excerpt: "Microsoft and Udacity have joined forces to launch a machine learning (ML) engineer training program focused on training, validating, and deploying models using the Azure Suite. The program is open to students with minimal coding experience and will focus on using Azure automated ML."
-    publishedDateTime: 2020-10-17T15:14:23Z
-    webUrl: "https://www.infoq.com/news/2020/10/azure-udacity-ml-engineer/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 71
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft to take Azure to space to enable cloud services in remote locations"
     excerpt: "The new connectivity will help bring valuable customer data from geosynchronous orbit (GEO) satellites directly into Azure, Microsoft said."
     publishedDateTime: 2020-10-22T06:28:00Z
@@ -137,6 +123,20 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2020/10/Microsoft-Azure-Space-e1603209411390.jpg"
         width: 1368
         height: 713
+        isCached: true
+  - title: "Wayve chooses Microsoft Azure to scale AI-based autonomous driving technology"
+    excerpt: "Wayve, the London-based company that’s developing artificial intelligence software for self-driving cars, has signed a deal with Microsoft to use Azure. The UK business, which is at the cutting-edge of autonomous development and is seeing strong growth ..."
+    publishedDateTime: 2020-10-22T09:49:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2020/10/22/wayve-chooses-microsoft-azure-to-scale-ai-based-autonomous-driving-technology/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 66
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Wayve-Computer-Vision-1600x747.jpg"
+        width: 1600
+        height: 747
         isCached: true
   - title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
     excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure - in spaaace."

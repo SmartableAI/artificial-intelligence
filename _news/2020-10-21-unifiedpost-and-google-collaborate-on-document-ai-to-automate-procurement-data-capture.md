@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/84600/unifiedpost-and-google
 webUrl: "https://www.finextra.com/pressarticle/84600/unifiedpost-and-google-collaborate-on-document-ai-to-automate-procurement-data-capture"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,77 @@ images:
     width: 480
     height: 270
     isCached: true
+
+related:
+  - title: "Google, FinTech group Unifiedpost team up on AI data capture"
+    excerpt: "Google’s AI solution may be utilized to handle document processing linked to over 400,000 European businesses."
+    publishedDateTime: 2020-10-21T05:00:00Z
+    webUrl: "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/10/19/571138b0-7f46-499a-8e83-fda88fa825cb/thumbnail/1200x675/28adbdcfd037c2e23dea5f7022ad6a15/what-google-cloud-platform-is-and-why-yo-5f8850a547719e19b06f12fd-1-oct-19-2020-18-24-43-poster.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "6 fintech trends that will redefine the future of finance"
+    excerpt: "November’s fully virtual Hong Kong FinTech Week features expert speakers, who will share their insights into Fourth Industrial Revolution"
+    publishedDateTime: 2020-10-19T12:40:00Z
+    webUrl: "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast-track/article/3105520/6-fintech-trends-will-redefine"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 69
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/19/692f0fae-0df0-11eb-94e0-02af7fd927c6_image_hires_094836.jpg?itok=BWqBzU0p&v=1603072142"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market Witness the Growth of $7,305.6 Million by 2022"
+    excerpt: "According to a research report AI in Fintech Market by Component Solution Service Application Area Virtual Assistant Business Analytics Reporting Customer Behavioral Analytics Deployment Mode Cloud On Premises and Region Global forecast to 2022 the AI in Fintech market size"
+    publishedDateTime: 2020-10-20T12:51:00Z
+    webUrl: "https://www.openpr.com/news/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
+    ampWebUrl: "https://www.openpr.com/amp/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+  - title: "Three things to help fintech unicorns grow profitability"
+    excerpt: "By Kash Amini, CEO and Founder of MasLife The new breed of fintech companies is missing a trick with a massive market opportunity. Lack of customers isn’t the problem – profitability is. CEO and Founder of health and finance app MasLife Kash Amini suggests that there are three key ingredients neobanks lack in their journey"
+    publishedDateTime: 2020-10-19T10:28:00Z
+    webUrl: "https://www.globalbankingandfinance.com/three-things-to-help-fintech-unicorns-grow-profitability/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-19T154147.289.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "FinHub 973 launches to boost fintech sector in Middle East"
+    excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
+    publishedDateTime: 2020-10-20T08:28:00Z
+    webUrl: "https://www.wamda.com/2020/10/finhub-973-launches-boost-fintech-sector-middle-east"
+    type: article
+    provider:
+      name: wamda.com
+      domain: wamda.com
+    quality: 24
+    images:
+      - url: "https://wamda-prod.s3.amazonaws.com/feature-images/8348f78df8d25ad.jpg"
+        width: 1584
+        height: 1387
+        isCached: true
 
 secured: "YPw4I8xBSmzUgheiKuj3U2HEOfojzH8CN+Jou2Y2dJm7klvK6tEjsPG89nL0wkmImdh52KmEDFoHAwFFKi0BWDeNLsnZ74Kl26SBFj0huIrNBQcMTermymZxcrMyHVYofgkOCkDnQklH2uBtutg27xSaRgtkuTdDwcJTkCuuCz7/SNuHzDX80/R/ihNZ3U+FH0ATdTnBP5ETsTH1bRgblzwboc5PhC+3PHqIpG8JwhAREvq8q4LJQXpDF8sJc+gL1V48Iks/1CfKGdCg/99J9Dvrgrd+r1Dpk79dzdW210xY7lBNRE47RdG2LNm22EgNubv6kQZbHuoV8FUCT4f6tS/iQglTZ+ztts3sbDQrM1M=;Q+INVGN47FBw+ZFfBNcOKA=="
 ---

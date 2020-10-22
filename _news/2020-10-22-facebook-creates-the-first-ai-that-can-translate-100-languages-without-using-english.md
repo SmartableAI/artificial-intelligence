@@ -107,6 +107,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Facebook is developing a way to type using VR on tabletops"
+    excerpt: "Facebook Reality Labs' latest research project, being presented at the Symposium on User Interface and Software Technology, demonstrates hand-typing on a desk at up to 73 words per minute. The project isn't ready for Oculus Quest VR headsets yet,"
+    publishedDateTime: 2020-10-22T02:30:00Z
+    webUrl: "https://www.cnet.com/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/CR8VckH_PQuQB_a1B_LRE-ROb9Q=/1200x630/2020/10/21/b81c65ac-f9f5-4d53-a672-74afeb77c6f0/frl-vr-typing-screenshot.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook's AI model can translate 100 languages without relying on English"
     excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
     publishedDateTime: 2020-10-21T14:18:00Z
@@ -343,6 +359,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "We/224n68fE74ygVjQgrCJudlyAj73dHnJi6/2G2AFIKtM9cjmw82E456s0uHQmH7Waxvk5uo+9HC+Nt7TrZwOHR3NLtZTq6FMtrefvwfdDJgp+cA8LhCEMfVzbXW3IBODvFtbQG5H3fHgJOmschyH32Ws5p2RtMkERQEXSHYcPPhcD/U2BF7a5d8SK5NxSZXmbvqqGcqmFfQMPP2iAriUJsx1HfR3E7HkuLXFyJab/X79XBSvVTwyJWeIQNAQClJpyDfWeHI8C6srZTJ3jCR/QJuJnzD8d1l/Hbi52rxYUiStjiCzEJ/2s7L88XZhhSANTlWx1fU/qVusr7ADwTgwzAAnwaXxbdQ4Y5FRghSD4=;YhR0fCLKCNqmjiAG52aR1w=="
+secured: "L4ggkip5D2yTropHioMi1b0aTEb9SmvoXb9XanVmGdgdX8NT0WtAhkJ8yXzsjRbUYE6dh53bnjLqTKrBXShlwoTJUAj9i2SrVFL8Inar4so7ulaxdCKhNlK/tN+08PoO0jrsdKthsT+gcThVHpMpy3kP4jG8mG2VD/Yf3nltlAcFIUueNeFa9wprOJlLD7kL/pLVqzKol37Y9hNwduNGR+QD1wxgvBFgr/qS8u3gTEgxeTW4D144IOO2+bkHTKvvIBTiSVdFs/4yki/pZVjh9QJHVtHKeK9JMONwfZgGgfwB4zA0ye/+JtgLc3zX/sEnYmAn8oK711jSU8znjLUY9zVcrWtHLEeGIPtFtKoYwXikwf44WK7aFqhuTTiL+GpYLpKurSNtZvOF06mDpFcCSlM5LaL9j6c5XJgv3KlAcwpEKkmG0wgsrxycLleDB9PfFUgVKyWAR2dXKltwwi9OL6PDN2x2xE6go+T/PWVGP5M4sli13NisOwnKbCO9FES5w/yJNAefDEopTFZBpjWkag==;/vXCe8pa+A+OERUxOiL+fQ=="
 ---
 

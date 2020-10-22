@@ -67,19 +67,19 @@ related:
     quality: 76
   - title: "Nvidia chips again smash AI performance records"
     excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services."
-    publishedDateTime: 2020-10-22T03:54:00Z
-    webUrl: "https://newsd.in/nvidia-chips-again-smash-ai-performance-records/"
-    ampWebUrl: "https://newsd.in/nvidia-chips-again-smash-ai-performance-records/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/nvidia-chips-again-smash-ai-performance-records/amp/"
+    publishedDateTime: 2020-10-22T08:14:00Z
+    webUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+    ampWebUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
     type: article
     provider:
-      name: Newsd
-      domain: newsd.in
+      name: Sify.com
+      domain: sify.com
     quality: 74
     images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.sify.com/uploads/nvidia_chip_ians_ukvnDpcacajgj.jpeg"
+        width: 950
+        height: 616
         isCached: true
   - title: "Nvidia chips smash AI performance records"
     excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf."
@@ -142,6 +142,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "VqsjFMw8Bwu3VU8+VPUCeOksJD1Xud0rJybV7x1e0c7vZDg4DdFZ9zxXuBJQzkRaft9qRsVaSYPUI+vKKddcKwjvC7msLG3Pj5gUA8K30rTlugG7VjL2qE0B3auxdiEN2VBRnmYl/jhYz8ZmJKB4jZpKNl6x50T96CmQcxpUgveRvbF5IAPCw3q//UeSPUcIYFyADJTGgiZkjBucEQaH1On62nCIpNTLWleAWmUajxBN0TM7GQ/i6Ig3Q/oFmCfyKn5CezL0RIBf+5IXp8I3CuO8oQwCu2gzWxgLGvmp6lHKmKfjM1fSq/ckGFdSj9wFZhgIZKj8eUL2jh2TAywdgHUSoa66j3487lR/TX3XV0A=;tyNhmIcCaBIk1scFAzqzdA=="
+secured: "BdgDAMqMCXhZ/EcVO1HUd4vuWOZ9l1uZrsHuuHA2kn2ZpYXNz9JLorOr6dF8sDu5MMy37eJ93gEmGn9ynaRpQUY4NAqK6gi6GdN6LHgIbczapZTfr4wMEJ8OzqxNwI6WZ/j84Ff9gq2hIXtb4+sCC1C7L7VgKjiOn+VWDer8CJjvDPmqum1TiPom9K/9Yn/JDYRQ41EQ4D6whnhDfvSzXl8F3iB1AlSe6XyHdEQshRp/xnMdyxDaXPjr9RMAo6yClD5Caf8GqGeeFAN4O0zdyJNkA0wPBKMr/afFcq96VXQ3LpgCa6Lxucex5FQzNVKv/nRz1TLVjZhOOvnZ3wFcYxwJ4BX18agpa2U2heGqgfiu1sOQf0JewQKAfZa/XP5ISoY3a+Op1gk6bioAdOHUgkIU/NQORIyLM5pUcouuSyZrNy0CTSpWjW9OKdro3by+XPzX/8T4VMtNNJQL0TUcIo+gD6Qn39kxwOEHu2GExZdOjYfe9qWR1XSNI4SQki78cJ/aJUCVTR5z83YxYtQJKg==;8uef92z7geNcIbeeg2nLBw=="
 ---
 

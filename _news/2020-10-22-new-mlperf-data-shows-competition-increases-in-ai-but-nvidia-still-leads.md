@@ -56,19 +56,19 @@ related:
     quality: 76
   - title: "Nvidia chips again smash AI performance records"
     excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services."
-    publishedDateTime: 2020-10-22T03:54:00Z
-    webUrl: "https://newsd.in/nvidia-chips-again-smash-ai-performance-records/"
-    ampWebUrl: "https://newsd.in/nvidia-chips-again-smash-ai-performance-records/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/nvidia-chips-again-smash-ai-performance-records/amp/"
+    publishedDateTime: 2020-10-22T08:14:00Z
+    webUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+    ampWebUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
     type: article
     provider:
-      name: Newsd
-      domain: newsd.in
+      name: Sify.com
+      domain: sify.com
     quality: 74
     images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.sify.com/uploads/nvidia_chip_ians_ukvnDpcacajgj.jpeg"
+        width: 950
+        height: 616
         isCached: true
   - title: "Nvidia leads in AI hardware, software performance, says MLPerf benchmark tests"
     excerpt: "The benchmarks also showed that NVIDIA T4 Tensor Core GPU continues to be a solid inference platform for mainstream enterprise, edge servers and cost-effective cloud instances"

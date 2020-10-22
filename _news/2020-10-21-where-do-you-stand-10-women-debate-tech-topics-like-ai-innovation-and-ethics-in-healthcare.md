@@ -42,22 +42,6 @@ related:
         width: 599
         height: 400
         isCached: true
-  - title: "If we're serious about healthcare equity and access, we must support autonomous AI"
-    excerpt: "In 2019 a record number of U.S. adults (33 percent) said they put off receiving medical care due to cost, according to Gallup's annual Health and Healthcare poll. In 2020, even more people are delaying specialist care during the pandemic."
-    publishedDateTime: 2020-10-17T16:00:00Z
-    webUrl: "https://thehill.com/opinion/healthcare/521522-if-were-serious-about-healthcare-equity-and-access-we-must-support"
-    ampWebUrl: "https://thehill.com/opinion/healthcare/521522-if-were-serious-about-healthcare-equity-and-access-we-must-support?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/healthcare/521522-if-were-serious-about-healthcare-equity-and-access-we-must-support?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 68
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/artificalintelligencegetty.jpg"
-        width: 645
-        height: 363
-        isCached: true
   - title: "Global healthcare funding hit a record in Q3. Here's how much digital health companies raised"
     excerpt: "Global healthcare funding soared in the third quarter, hitting a new record of $21.8 billion across 1,539 deals. Here are the sectors drawing the most interest from investors."
     publishedDateTime: 2020-10-19T15:00:00Z
