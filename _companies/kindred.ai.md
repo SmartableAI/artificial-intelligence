@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "kindredai"
   url: "https://twitter.com/kindredai"
-  followers: 1191
+  followers: 1190
 
 size: 51-200 employees
 yearFounded: 2014
