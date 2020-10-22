@@ -520,6 +520,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-17-looper-column-artificial-intelligence-humanity-and-the-future.md",
+      "title": "Looper column: Artificial intelligence, humanity and the future",
+      "excerpt": "In September, the British news website The Guardian published a story written entirely by an AI - an artificial intelligence - that “learned” how to write from scanning the internet. The piece received a lot of press because in it the AI stated it had no plans to destroy humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.registerguard.com/story/lifestyle/faith/2020/10/16/looper-column-artificial-intelligence-humanity-and-future/114421676/",
+      "originalUrl": "https://www.registerguard.com/story/lifestyle/faith/2020/10/16/looper-column-artificial-intelligence-humanity-and-future/114421676/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/b18a16da4a28b23b1cf5b3b4312416f8c8dd74b7/c=0-88-387-306/local/-/media/2020/10/16/WorcesterTelegram/ghows-WT-201019476-a8e65a7f.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.registerguard.com/amp/114421676",
+      "cdnAmpWebUrl": "https://amp-registerguard-com.cdn.ampproject.org/c/s/amp.registerguard.com/amp/114421676",
+      "publishedDateTime": "2020-10-16T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register-Guard",
+        "domain": "registerguard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-looper-column-artificial-intelligence-humanity-and-the-future.md",
       "title": "Looper column: Artificial intelligence, humanity and the future",
       "excerpt": "Columns share an author’s personal perspective. ***** In September, the British news website The Guardian published a story written entirely by",
@@ -1305,59 +1348,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic.md",
-      "title": "Adorable red self-driving robot delivering mail in Japan during pandemic",
-      "excerpt": "A Japan Post mail delivery robot debuts in Tokyo, and is being tested to keep human interaction to a minimum during the coronavirus crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
-      "originalUrl": "https://www.cnet.com/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/2ZG9ZsmU2Kgz845wDeGvuVSdlDA=/2020/10/09/650978af-dde5-4803-8185-35f85a7ef12c/japanpostrobot1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
-      "publishedDateTime": "2020-10-09T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

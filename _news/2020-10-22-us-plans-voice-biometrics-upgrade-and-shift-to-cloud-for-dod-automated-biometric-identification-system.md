@@ -67,20 +67,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Face biometrics a big winner as everything from driver’s licenses to KYC goes mobile, remote"
-    excerpt: "Digital identity credentials like mobile driver’s licenses and facial recognition made up many of the most-read biometrics news stories of the week. People in Florida may soon be able to use"
-    publishedDateTime: 2020-10-17T18:08:00Z
-    webUrl: "https://www.biometricupdate.com/202010/face-biometrics-a-big-winner-as-everything-from-drivers-licenses-to-kyc-goes-mobile-remote"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 13
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/01115107/passive-facial-biometric-liveness-detection.jpg"
-        width: 1024
-        height: 600
-        isCached: true
 
 secured: "S6MYRA7WcQloxdb1AtcpLov9frSh1xxPBcWcu5AMzFO09LH5u962xUnM+QWYmDxIJewEOuZCXR+5bZQA+ycCwF2tgmH4ksmRrcEH3WM/UFyz9Svjs9x7aLHAnQn3151kYJ/kD0IoAGfWi2KsO5Tz641mX9Nfy/KxycdxDBbQ0fusJG5lao/wBgQ8ijEIl4LVw+yx3JWBPXluruynBpcvuEXD/ZIirvKQm9Crn/7vw2JGHJ2WCUkj9PRcZkNeVIOaHLB7dADWW7kuiBKxjvGznPzzUcSQWJAZ9bgvKnUPmqGS8I13W1MBLy00P2gcYjWz8Hmz2T3g5T/VXWKCwQwVNdyGYVDU7zSy7w2MJuMU+HDqkS9jdS1a6j5CuaFJjWh2KWeJt3x6b9SSYLWFb4fzBa+jPPVrb3Oy+oAjclIpPxjzOyo/QWxI6tDsL3ZYdn6cfSj4odPaF3c67iWtbcqHdqG5uObbGs2Epe5+ZJ8mFIq2rwWVnHqH7tYduIC8umHbKHFx2Qw054ku8Ttu1B9uYg==;VTcEXMtYqJ6OgJTMftuV+Q=="
 ---

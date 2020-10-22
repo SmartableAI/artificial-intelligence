@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-10-adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic.md",
+      "title": "Adorable red self-driving robot delivering mail in Japan during pandemic",
+      "excerpt": "A Japan Post mail delivery robot debuts in Tokyo, and is being tested to keep human interaction to a minimum during the coronavirus crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
+      "originalUrl": "https://www.cnet.com/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/2ZG9ZsmU2Kgz845wDeGvuVSdlDA=/2020/10/09/650978af-dde5-4803-8185-35f85a7ef12c/japanpostrobot1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
+      "publishedDateTime": "2020-10-09T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics.md",
       "title": "PlayStation founder Ken Kutaragi has started a new career in robotics",
       "excerpt": "Ken Kutaragi, the former Sony executive widely credited as ‘The Father of PlayStation’, has started a new career in the robotics industry. Since late August Kutaragi has been working as the CEO of Tokyo’s Ascent Robotics,",
@@ -1373,58 +1426,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-will-we-go-back-to-being-robots-after-covid-19.md",
-      "title": "Will We Go Back To Being Robots After Covid-19?",
-      "excerpt": "When it comes to our professional lives, the best positive impact of the coronavirus is the way it has made business less robotic and more human. Will it stay that way?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-back-to-being-robots-after-covid-19/",
-      "originalUrl": "https://www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-back-to-being-robots-after-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75e0aeba1c081f0b54b325%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-back-to-being-robots-after-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-back-to-being-robots-after-covid-19/amp/",
-      "publishedDateTime": "2020-10-01T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

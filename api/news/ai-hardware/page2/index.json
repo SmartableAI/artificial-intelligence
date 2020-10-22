@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-06-dod-deploys-three-liqid-composable-supercomputing-facilities-powered-by-nvidia-a100-gpu-computing-and-nvidia-mellanox-hdr-200gbs-infiniband.md",
+      "title": "DoD Deploys Three Liqid Composable Supercomputing Facilities Powered by NVIDIA A100 GPU Computing and NVIDIA Mellanox HDR 200Gb/s InfiniBand Smart Networking",
+      "excerpt": "Liqid, provider of the world’s most-comprehensive composable disaggregated infrastructure (CDI) platform, announced today the company has been awarded",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201006005273/en/DoD-Deploys-Three-Liqid-Composable-Supercomputing-Facilities-Powered-by-NVIDIA-A100-GPU-Computing-and-NVIDIA-Mellanox-HDR-200Gbs-InfiniBand-Smart-Networking",
+      "originalUrl": "https://www.businesswire.com/news/home/20201006005273/en/DoD-Deploys-Three-Liqid-Composable-Supercomputing-Facilities-Powered-by-NVIDIA-A100-GPU-Computing-and-NVIDIA-Mellanox-HDR-200Gbs-InfiniBand-Smart-Networking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-oss-presents-ai-on-the-fly-and-data-center-in-the-sky-solutions-at-nvidias-gpu-technology.md",
       "title": "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology ...",
       "excerpt": "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,",
@@ -1391,58 +1425,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-skyworth-q71-series-8k-tv-with-mediatek-s900-chip-pop-up-ai-camera-official.md",
-      "title": "Skyworth Q71 series 8K TV with MediaTek S900 chip, pop-up AI camera official",
-      "excerpt": "In terms of hardware, Skyworth Q71 TV is powered by MediaTek’s flagship 8K chip MediaTek S900 ... At the smart level, Q71 TV not only supports AI voice operation but also is equipped with a pop-up AI camera that supports 6-channel video calls and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2020/09/23/skyworth-q71-series-8k-tv-with-mediatek-s900-chip-pop-up-ai-camera-official/",
-      "originalUrl": "https://www.gizmochina.com/2020/09/23/skyworth-q71-series-8k-tv-with-mediatek-s900-chip-pop-up-ai-camera-official/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/09/Skyworth-Q71-series-TV.png",
-          "width": 600,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

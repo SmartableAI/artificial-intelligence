@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-22-acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker.md",
+      "title": "Acer unveils Intel GPU-toting laptops, revamped Chromebooks and an Alexa-killing smartspeaker",
+      "excerpt": "Acer has unveiled its latest range of laptops, monitors, and more at their October 2020 Next@Acer event, with new devices in the Swift, Aspire, Predator, Travelmate and ConceptD range. Whilst the conference itself certainly won’t be winning any awards for presentation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker",
+      "originalUrl": "https://www.techradar.com/uk/news/acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/jEeCmKPqLeUpdTv96zjGUE-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker",
+      "publishedDateTime": "2020-10-22T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads.md",
       "title": "New MLPerf Data Shows Competition Increases In AI, But NVIDIA Still Leads",
       "excerpt": "Like the latest training results, which were announced in July, the new inference numbers show an increase in the number of companies submitting and an increased number of platforms and workloads supported.",
@@ -1387,40 +1439,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-dod-deploys-three-liqid-composable-supercomputing-facilities-powered-by-nvidia-a100-gpu-computing-and-nvidia-mellanox-hdr-200gbs-infiniband.md",
-      "title": "DoD Deploys Three Liqid Composable Supercomputing Facilities Powered by NVIDIA A100 GPU Computing and NVIDIA Mellanox HDR 200Gb/s InfiniBand Smart Networking",
-      "excerpt": "Liqid, provider of the world’s most-comprehensive composable disaggregated infrastructure (CDI) platform, announced today the company has been awarded",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201006005273/en/DoD-Deploys-Three-Liqid-Composable-Supercomputing-Facilities-Powered-by-NVIDIA-A100-GPU-Computing-and-NVIDIA-Mellanox-HDR-200Gbs-InfiniBand-Smart-Networking",
-      "originalUrl": "https://www.businesswire.com/news/home/20201006005273/en/DoD-Deploys-Three-Liqid-Composable-Supercomputing-Facilities-Powered-by-NVIDIA-A100-GPU-Computing-and-NVIDIA-Mellanox-HDR-200Gbs-InfiniBand-Smart-Networking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

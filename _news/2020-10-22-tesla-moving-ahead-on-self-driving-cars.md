@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk said Tesla is about to hike the price of its 'full self-driving' software by $2,000"
+    excerpt: "Tesla is raising the price of its \"full self-driving\" software to $10,000, following the release of a limited beta on Tuesday, Elon Musk said."
+    publishedDateTime: 2020-10-22T10:06:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-rise-beta-10"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-rise-beta-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-price-rise-beta-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5f9146bbabcd0c0018d68f87?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "First Look at Tesla Full Self-Driving Beta and it looks just insane"
+    excerpt: "Driving Beta software update as some owners who are testing it are sharing videos and it looks just insane. After months of working on a complete core rewrite of its Autopilot and Full Self-Driving Package,"
+    publishedDateTime: 2020-10-22T10:14:00Z
+    webUrl: "https://electrek.co/2020/10/22/tesla-full-self-driving-beta-first-look-insane/"
+    ampWebUrl: "https://electrek.co/2020/10/22/tesla-full-self-driving-beta-first-look-insane/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/22/tesla-full-self-driving-beta-first-look-insane/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-hero.jpg?quality=82&strip=all"
+        width: 2540
+        height: 1150
+        isCached: true
   - title: "Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of"
     excerpt: "For the lucky few selected to experience \"Full Self-Driving\" or (FSD) on their Tesla vehicle, Tuesday night is the night. Tesla CEO Elon Musk tweeted Tuesday afternoon that the autonomous mode ..."
     publishedDateTime: 2020-10-20T23:25:00Z
@@ -121,6 +153,15 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Explainer: Tesla's Self-Driving Ambitions Get a Reboot"
+    excerpt: "Tesla's \"Full Self Driving\" software would be an important source of revenue, once it is fully deployed. Tesla owners have paid $8,000 up front in hopes of eventually receiving the upgrade. In the second quarter alone,"
+    publishedDateTime: 2020-10-21T17:19:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-10-21/explainer-teslas-self-driving-ambitions-get-a-reboot"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Tesla Officially Starts Rollout of Full Self-Driving Beta"
     excerpt: "Tesla CEO Elon Musk announced on Twitter last night that the electric car company’s Full Self-Driving beta update is officially being rolled out. “Will be extremely slow and cautious, as it should,” Musk added an uncharacteristically serious tone."
     publishedDateTime: 2020-10-21T16:55:00Z
@@ -167,6 +208,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Tesla Full-Self Driving Beta Rollout Starts, Is \"Slow & Cautious as It Should\""
+    excerpt: "For almost a year now, Elon Musk has been promising Level 5 autonomy on Teslas by the end of 2020. We’re not there yet, but we’re getting closer."
+    publishedDateTime: 2020-10-21T07:53:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-beta-rollout-starts-is-slow-cautious-as-it-should-150422.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 50
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-beta-rollout-starts-is-slow-cautious-as-it-should-150422-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "Tesla is putting ‘self-driving’ in the hands of drivers amid criticism the tech is not ready"
     excerpt: "Driving” despite skepticism among some safety advocates about whether Tesla’s technology is ready — and whether the rest of the world is ready for cars that drive themselves."
     publishedDateTime: 2020-10-21T16:07:00Z
@@ -202,6 +257,6 @@ related:
       domain: infosurhoy.com
     quality: 8
 
-secured: "XFTclIr8dYP3YghSt1YR5BE82X7z61ddodsqyLjdOj9wCAV4miWogZWU48zWJvWQeQd86JTevSaJXyBjS9OSSdxCrovfeierUzz74noxypRYM/6mgB1RzvzM5AOLANE6TC+d1eYJj2C5ECiPYZND+/SsYL4iXXnlLO0/3+k9vK4v0rK1fPEU1oNms6nscLrxDVfpv+KiiB6FGnvvT41+AQUIGYmUst2EIWIw8hpcI8+X55oScAy8l5k8kxfPXL2o0HpUZZFAQ0GmQd0Qote1ZIeyvFeHiG/NoWJivfYLJFSPVs/r4G8z++txCpumafvGVTDPxWtWOXHbfZ2Jn8gPPPtpjj6SenOHYXQV5r5WHQc=;mGUE7ApY9+y/WwoUJ7L3kA=="
+secured: "dt/VQ3UiaTd43Zd6yCjuUcJi51LbLuzj1ANV4xEnbOtfCwipFwUnTb5xbGK3/fRup86FK8Fyg5yQJJEaHvTe5s1lvyOtFMSnehLJj3uRPIAu2Ym+wTbTWNdWydhOx3VPL/0VLzR1thaOfKF39G3dLDzs8QAYG5irRkkottwlf3NH/Qj+ycyhKabxzDePrkMwKjbuYYeeS5+mhV5DeXMojc9XWq7LOzp4DeNNQKBiswZvgm5/cfAT4OlziRozVhOAhiS5CbSyALrlLKktNmdcCr47SiY8M1+Kde9Iu3C9emLz7tCH3L9z0giHD10WHVXjNilFCIBaKFx2JV+BW/nSa52XjVXyHfO5WWRAZsIxj5xMh/oEsWT87sYUx9Q2KA9t/WKyK/T5H4oBPbjaM+vTMbqC0P3weTwCaZcGlL2c3vt9xVbcatQiLuLOz3H3q+5qKudQVjyuMHlv8rKGOZmLk1lWbyYxk8TnqAvH90petsGsljq296icARSWzky7DTF2WBgoSzGt+8kj5fqM8jmpGQ==;HCL5KQn3XRi8AwDr3lnKgw=="
 ---
 

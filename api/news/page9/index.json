@@ -2,6 +2,210 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-14-rbc-rolls-out-ai-based-trading-platform-to-global-clients.md",
+      "title": "RBC Rolls Out AI-Based Trading Platform to Global Clients",
+      "excerpt": "Royal Bank of Canada is launching an artificial intelligence-based electronic-trading platform to clients around the world, starting with an algorithm designed to help reduce trading slippage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHiN2vOALFkg/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
+      "publishedDateTime": "2020-10-14T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-google-applies-its-ai-tech-to-reporting-with-journalist-studio-tools.md",
+      "title": "Google applies its AI tech to reporting with 'Journalist Studio' tools",
+      "excerpt": "Since introducing the Google News Initiative in 2018, the company has used the $300 million journalism project to fight disinformation and help publishers make money. Now, Google is also investing in journalism-specific software with Journalist Studio,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-journalist-studio-pinpoint-110047367.html",
+      "originalUrl": "https://www.engadget.com/google-journalist-studio-pinpoint-110047367.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Facabd040-bda7-11e9-9375-c6783a4b6790&client=amp-blogside-v2&signature=2a41f5932ac8b45dcc96b31b7cbb9fe9bd53627f",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-journalist-studio-pinpoint-110047367.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-journalist-studio-pinpoint-110047367.html",
+      "publishedDateTime": "2020-10-14T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-why-do-most-ai-projects-fail.md",
+      "title": "Why Do Most AI Projects Fail?",
+      "excerpt": "Many organizations fail to understand that the AI model is just as important as the final integration of which it will be a part.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efcc8f4cdc22100069576cc%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/amp/",
+      "publishedDateTime": "2020-10-14T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-how-to-do-the-best-recruiting-for-your-startup.md",
+      "title": "How to do the best recruiting for your startup",
+      "excerpt": "Define the key competencies of the position. Take into account what type of hard skills and soft skills you require your applicant to possess. Analyze how much the company is going to grow and share it with the HR area,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/357764",
+      "originalUrl": "https://www.entrepreneur.com/article/357764",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602614116-jonathan-borba-fNmUtZQwErM-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357764",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357764",
+      "publishedDateTime": "2020-10-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-how-robotics-technology-is-beneficial-in-a-modern-warehouse.md",
       "title": "How robotics technology is beneficial in a modern warehouse",
       "excerpt": "The 6 River Systems platform complements Expeditors’ core technology strategy of focusing on investments that deliver value to our customers and our operations.",
@@ -1011,196 +1215,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-xilinx-and-splineai-develop-x-ray-classification-deep-learning-model-and-reference-design-on-aws.md",
-      "title": "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS",
-      "excerpt": "The solution’s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and-reference-design-on/article_75dad927-f650-50ba-8fec-bf432dd17330.html",
-      "originalUrl": "https://www.oaoa.com/news/business/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and-reference-design-on/article_75dad927-f650-50ba-8fec-bf432dd17330.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-olive-rolled-out-a-new-ai-powered-healthcare-platform-that-streamlines-revenue-cycle-management.md",
-      "title": "Olive rolled out a new AI-powered healthcare platform that streamlines revenue cycle management",
-      "excerpt": "Olive debuted a platform that speeds up revenue cycle management processes for healthcare workers—like prior authorizations and patient verifications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/olive-unveils-ai-powered-platform-to-streamline-healthcare-admin-2020-10",
-      "originalUrl": "https://www.businessinsider.com/olive-unveils-ai-powered-platform-to-streamline-healthcare-admin-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f85a833c255d800190b987e?width=1200&format=jpeg",
-          "width": 650,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks.md",
-      "title": "How Criminals Use Artificial Intelligence To Fuel Cyber Attacks",
-      "excerpt": "As artificial intelligence (AI) breaks into the mainstream ... For many real-world systems, like driverless cars, a complex blend of physical computer vision sensors, complex programming for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8489185bcaa29433f8ecbd%2F0x0.jpg",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/13/how-criminals-use-artificial-intelligence-to-fuel-cyber-attacks/amp/",
-      "publishedDateTime": "2020-10-13T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-imagination-technologies-takes-aim-at-data-centers-with-new-chip-designs.md",
-      "title": "Imagination Technologies takes aim at data centers with new chip designs",
-      "excerpt": "Imagination Technologies on Tuesday released new chip technology that it hopes will help it expand into the market for data center chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2",
-      "originalUrl": "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2H31H2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2H31H2",
-      "publishedDateTime": "2020-10-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

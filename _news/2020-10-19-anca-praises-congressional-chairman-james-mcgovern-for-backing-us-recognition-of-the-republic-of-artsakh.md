@@ -25,6 +25,17 @@ images:
     height: 990
     isCached: true
 
+related:
+  - title: "Artsakh women protest outside US Embassy in Yerevan, demand recognition of Artsakh"
+    excerpt: "Women from Artsakh, who had to temporarily resettle in Armenia because of the Azerbaijani-Turkish military aggression, on Wednesday staged a protest outside the US Embassy in Yerevan, calling on the United States to take efforts to recognize Artsakh’s independence."
+    publishedDateTime: 2020-10-22T11:37:00Z
+    webUrl: "https://www.panorama.am/en/news/2020/10/22/Artsakh-women-protest-US-Embassy/2386111"
+    type: article
+    provider:
+      name: Panorama
+      domain: panorama.am
+    quality: 0
+
 secured: "kqx6/jx4F39VlA5SiU9fZfkpGBKN3/CkP4MiXJiPIOv6blJLBBxopYiP9UAOyEA3z9pvZf9mnk3ZJOE+54bcMK/M5WDYnu3kVu62gLHSG+H0RUEJmoWaw6osKt7pXTTfaaLGu3dgobvXVN2ikMwKPB8MtNyKoSG2YNqxGM/bhA9EAdF4UGWFY8iZfgwYSMOVB6dQ/6DBDH/wTzUHHjpx+UQUlWNYyc3wbIPr1dNaypKM9PGVdFFATNZC0Sl0DbhQzLOrd5ZNqj9oNM1uaUDJmOpclt46xz070cbgiDCh3i4Z3YfYDvugBv5tbhG1eaKxCb2TukNiEZrS6DZhH1T8x/YgHki9zOnZVGq/H1OkZOLTAvQKXwAF+wXNQUh2GJYjgMIIebuuOCIF3nP8nLihTfFkVc0HB0OTx7qem7SDbCKCsEbBuPYortMoSeZXB+M9b1lcygIyiDThSetNJggV6wzYUemgzZ28AO/c1yWZMkceWDUaHKz5nCxBczcHkw3WN4hz54r/inmT0kXUeIlJEg==;3evoLqrjYdovaK1GEh22VA=="
 ---
 

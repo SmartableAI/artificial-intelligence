@@ -2,28 +2,28 @@
 category: news
 title: "Robots to feed students, staff at Oregon State University"
 excerpt: "Robots with bright orange flags will soon roam Oregon State University’s more than 500-acre campus in Corvallis. The fleet of 20 delivery robots will bring food to students, staff, and faculty members,"
-publishedDateTime: 2020-10-22T03:03:00Z
-originalUrl: "https://kvia.com/regional-news/2020/10/21/robots-to-feed-students-staff-at-oregon-state-university/"
-webUrl: "https://kvia.com/regional-news/2020/10/21/robots-to-feed-students-staff-at-oregon-state-university/"
+publishedDateTime: 2020-10-22T04:03:00Z
+originalUrl: "https://keyt.com/news/national-world/2020/10/21/robots-to-feed-students-staff-at-oregon-state-university/"
+webUrl: "https://keyt.com/news/national-world/2020/10/21/robots-to-feed-students-staff-at-oregon-state-university/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://kvia.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_night.png"
-    width: 280
-    height: 360
+  - url: "https://keyt.b-cdn.net/2020/03/keyt-us-world.png"
+    width: 1024
+    height: 576
     isCached: true
 
-secured: "bhGU3O+8ACtXwY651J2dEpOyf34VQQM8DW6pOJuWDk5ZeV/HTD0CyDbxQCyx+P/Iy7/KCEjBn8Scn4mwco0ax+gQJhkRkAMi8x+EB7Mj8OGSDSCcrwSHCGU5qfFrJ1z/5zwkHa+dux3nmYtB9QdN5XB3Z0VC7pEcXfKsWFpKa4Om7lTUVvJX+KmOWv5+MVvWxgaZoz0nOQOY+cRN77vAWFjOutHRo6xunm+GkyD1RmIRRKa3dbUF53QZqSjE/89R5v0Z3cmZqXIOTZ+DQhT68mzXtFT3nwwhmxapKEXX+HjefqZqb5ZkzzVEiFTiWaEQUrFXjn3MNwfsj+BJdvhqy6gZqLf28ycH4+vCaYOLgro=;gsPYstqRkHxrSfHHlnUkbA=="
+secured: "9QcmY3DjftOGqNcEDkWqSqLZ60f9thKtchcyNhZHHp168uwE3Jj667put+Xuabi3GQ2b/V/7PFiGCF8P97ELpRDel5P1C/uO8odzGl8qLiwjWBf9ErrFZsh5bx+GiLCFvJhhDD1Bs89dNDYsYiJKAKGDJodlQ45bpOkDeIUux6/4DhQvznoiSgG3t99/axF2UvxIytB2ydH8RDm9+9jGgACjC1wXL500JDfYr/jZPQi0EoVMaAyxo9GF2thoXnFs/EURO/AFmVEcNPo54d2pzMuIRuC+JQB4FSwpLdmHkUUEz5hRJNHcU7CTMfNEX1Qx1lGFl69nyo8ZYLIpWRS+GYtm7SoTR5ERy5PrCAZK6fk=;ex9DIdiALh3Kgxb6yxb6Uw=="
 ---
 

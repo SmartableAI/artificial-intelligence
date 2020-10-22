@@ -3,10 +3,10 @@ category: news
 title: "Artificial intelligence skills shortages re-emerge from hiatus"
 excerpt: "Back in June, a report from LinkedIn noted that the Covid crisis had cooled off demand for artificial intelligence skills. However, four months later, companies are still struggling with finding AI skills."
 publishedDateTime: 2020-10-22T02:31:00Z
-originalUrl: "https://www.zdnet.com/article/artificial-intelligence-skills-shortages-re-emerge/"
-webUrl: "https://www.zdnet.com/article/artificial-intelligence-skills-shortages-re-emerge/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-skills-shortages-re-emerge/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-skills-shortages-re-emerge/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/artificial-intelligence-skills-shortages-re-emerge/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/artificial-intelligence-skills-shortages-re-emerge/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/artificial-intelligence-skills-shortages-re-emerge/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/artificial-intelligence-skills-shortages-re-emerge/"
 type: article
 quality: 67
 heat: 67
@@ -23,6 +23,6 @@ provider:
 topics:
   - AI
 
-secured: "6xmZuSGelIHqE7L4KprQuj1uDD1Xs1A2eOPCh878TYrG6AuSrUGbw8R5+EJqO/JcLbgodonCuslqHsDgaHOqRjpAbWlGvOmdZUluor/nl/YyutVJzh6A+QGKaUcQdqp/BWTP0toLzYkQw39q5j9ioD4UyCD3qkWSSLcGOSPM5OG+Ly6R3O/nS7qzO2g467htdJHBFwtJF24kimmiao385oDnKi9HNSzwvUgUu05SvvraePN1FgaQld5BNqPz41sYf4XYv44hdH1jhQWJgCGo20Rcfr/StNkzdoKOG8NuOGzP0/PcW6JpzAULGXqWCiZT1Laz937SjvaXgMelomii8aIl7XoeS/+y80XWU6uNl+XWVGNGNo2G3vxXu1XYWpGj5Zu6uGPcpgnvSg7AgfaG2D29i7Zz0iF+mGhUeF9QN35J2RRKbfuGi62PQafVxvZR5QVnegw6PAwzDC6bnCs9z9n1X/7lw2CKnlE15cZrtqM0BpIs6q7HvIMiQH2Ajh1MC3xAC/AGjJZqLRWX2WZycA==;kweWhEkqsXZpTLvhRF6Ynw=="
+secured: "adrS7LUdtBPDkn347zai/GguqJwU7ue463Ks4itTA43ARMxMA96sPXjr7Dq+5qG/JUpt60Qnt1KMOH21iN1iPrO5B/gxpSzzX1krrhFbNA/MCxaG1dtJHUaI4EcVAKBTUe6eTvFh2+06qO9GcrftdzO2t75SDSccsyGEUn/cxJelOM2q2Jezlcc/mXVBY1MxKt0VnN8fOLdQiPlMVbnDQ5VTXdhnrwE9GDFeUfBO/hVAYxmIDgsDKkGgw+FT4thlv0tn0MfeE0/Xtx4EVkUvmxczUlcig3VWbpPXdMXTJ5TCEc1tW5WCqLitGnC5H4SDbo+8qIsDr/PSIfbLfisqDuT86jntK68UXyRVd7KpSDm0/cXBodSa+R9AgtPNH9b98do0pzVT6wU/DTZca+eBAe5kJ6J9ql65dIbcLF5sLAXKJUnmDYW/BpXFbCDjo1/MDX6dDkEpaTn3MAls1KwPAQXisFvzmX3LmRZtY7I53qDVp8t5P3WeeFfgoLB760ltHeteoZgTCI+xwOkZR4QP/w==;51UpAcu+OiO9Sv0C+dsQVw=="
 ---
 

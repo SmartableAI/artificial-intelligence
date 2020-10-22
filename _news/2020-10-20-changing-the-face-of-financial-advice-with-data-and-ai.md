@@ -69,6 +69,20 @@ related:
         width: 680
         height: 931
         isCached: true
+  - title: "Benefits and Risks of Artificial Intelligence"
+    excerpt: "In the midst of all this, there is another age slowly taking shape, the Artificial Intelligence(AI) era. Many believe that this will be the next evolution for mankind. Whether that bodes well or not for mankind,"
+    publishedDateTime: 2020-10-22T10:51:00Z
+    webUrl: "https://www.edmchicago.com/benefits-risks-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: EDM Chicago
+      domain: edmchicago.com
+    quality: 39
+    images:
+      - url: "https://www.edmchicago.com/wp-content/uploads/2020/10/Artificial-Intelligence.jpg"
+        width: 2243
+        height: 1507
+        isCached: true
   - title: "Forum Teratec 2020 Gathered Experts in Simulation, HPC, Big Data and AI"
     excerpt: "Held in digital format on October 13 and 14, 2020, given the circumstances of COVID-19, Forum Teratec gathered over 1200 experts in"
     publishedDateTime: 2020-10-19T18:08:00Z

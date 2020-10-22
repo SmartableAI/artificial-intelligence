@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2166080/global-artificial-intelligence-in
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166080/global-artificial-intelligence-in-healthcare-market-2020"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: openpr.com
@@ -27,33 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Where do you stand? 10 women debate tech topics like AI, innovation and ethics in healthcare"
-    excerpt: "Ten women in the tech world came together last week for a debate series hosted by 1776 and CVS to battle it out on topics like AI, biases, innovation and data sharing. The debaters were paired with topics that fit their expertise, but were randomly ..."
-    publishedDateTime: 2020-10-20T18:33:00Z
-    webUrl: "https://technical.ly/philly/2020/10/20/debate-ethics-artificial-intelligence/"
+  - title: "Three Changes Impacting Healthcare Marketing"
+    excerpt: "Healthcare marketers often face extremely challenging federal regulations as well as Health Insurance Portability and Accountability Act (HIPAA) rules. On top of that, patients are demanding better services from healthcare providers,"
+    publishedDateTime: 2020-10-22T11:23:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/amp/"
     type: article
     provider:
-      name: Technical
-      domain: technical.ly
-    quality: 60
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://technical.ly/philly/wp-content/uploads/sites/2/2020/10/Screen-Shot-2020-10-20-at-1.26.03-PM.png"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Global healthcare funding hit a record in Q3. Here's how much digital health companies raised"
-    excerpt: "Global healthcare funding soared in the third quarter, hitting a new record of $21.8 billion across 1,539 deals. Here are the sectors drawing the most interest from investors."
-    publishedDateTime: 2020-10-19T15:00:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/global-healthcare-funding-hit-a-record-q3-here-s-how-much-digital-health-companies-raised"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 43
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1603125241/shutterstock_258863162.jpg/shutterstock_258863162.jpg?n4vB9e49T0dNBMJKLNajpciTEk_Bf1Lo"
-        width: 1000
-        height: 616
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f48f8fdd0ef32a9717eac46%2F0x0.jpg"
+        width: 1199
+        height: 800
         isCached: true
 
 secured: "AvSxCJe6e5fP7A7X2P3dOUrhpeI4+HTziEN37c/OOsyHJaMogYT5WaWo/f7tXJa129Jbv0w8WZWGUe/RxfLzz0W+PGqHRVDjPxMnyE6Sn7811CuQVfpXrwT2pL/7L3MbXlCp63Ug2sQRPLl5Mq4Zs2dArfmuYEdtPZQqqdbGP5vrO/nA66eFQyFkV+z5VkHwEz6U4TZVqDPAtmQT3dTpRzGGIvwo+jjwfiT1YlX3/PxRLGaKSTmFlGGlmqvbx1hg2/Ea457uVv0huBa8GFDv0C73eMXlIYjJQ2ls9xv3Sgpfsj4km4ON+9OKBHRhxV1BMr30alNLLOoB4jW9+y+8lCQpSjuZK/YbB/WmeOpXDak=;xDOuu6xy3uHwwy+dJm8FEA=="
