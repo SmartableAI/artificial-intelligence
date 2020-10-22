@@ -68,6 +68,20 @@ related:
         width: 440
         height: 293
         isCached: true
+  - title: "Amit Aghara Joins Fintech as Chief Technology Officer"
+    excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (Fintech), the leading business solutions provider for the beverage alcohol industry, today"
+    publishedDateTime: 2020-10-22T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/amit-aghara-joins-fintech-as-chief-technology-officer-301157044.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/562037/Fintech_logo_with_tm_dk_bl.jpg?p=facebook"
+        width: 1367
+        height: 716
+        isCached: true
   - title: "CBB launches fintech platform"
     excerpt: "test and deploy fintech solutions. Through an AI-powered global fintech marketplace, FinHub 973 will aim to connect financial institutions in Bahrain and the region to fintechs from around the world. The digital lab will also offer matchmaking and ..."
     publishedDateTime: 2020-10-20T14:29:00Z

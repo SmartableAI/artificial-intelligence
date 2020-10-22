@@ -182,6 +182,24 @@ related:
         width: 1665
         height: 1158
         isCached: true
+  - title: "Cognizant Acquires Microsoft Azure, AWS Industrial IoT Partner Bright Wolf"
+    excerpt: "Cognizant acquires Bright Wolf, a Microsoft Azure & Amazon Web Services (AWS) cloud partner for Industrial Internet of Things (IIoT) solutions."
+    publishedDateTime: 2020-10-22T13:45:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/cognizant-buys-microsoft-aws-industrial-iot-partner-bright-wolf/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 49
+  - title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
+    excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge"
+    publishedDateTime: 2020-10-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201022005403/en/Deque-Releases-Axe-Accessibility-Testing-Tool-for-Microsoft’s-New-Edge-Browser"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "H7Pd6nUZTYMOS9U5qYZFt3JbzZKfJFBHh5vFK0Wdkj+5pV9tLCY6KPJktOcfI2AFLlDFa0E4yLiwvBqU79NL3tu3bx6oJCxGEsNzd5Vcv8hz87PtC8LkQPlVMcLjni1+IsV7ywGR9AMGm2/+lQk3xArR3OPhwKwlIOOr5JMqM4NDIcXOigixiq0DrnRA4nR8upGhpHmR29zhOcYxPoeOfaAHfO3dSHXJ+KbIZmI1OFh3s6YhWrRGWMJv8WRZ1HV8+P4Lbpiokn0yN++h3Mr4KDjE/93rAT1e52x0/+WG5MJBj+4zLwaBXlp75fbc0B1CJ6h2f42FL5Eb5J1v2oHbunZte7VZ22ZxCECHTyKzzB2rWADEW2iH+Y9/ScvHM8VeWS60tZGoLsf3hv6Mr6d68IwKYwfrEq+ZvC4r4IoFvkj1o1tVlwwjebblVwAJS45A4kwzf5BEnciCiscLw8IwiORbgCJUhp1So74a9edeNfKa4hZeLC1jrHNForr4mHakp64YP+SlyWuAB+m2t+JWSQ==;kUVF9LfHOL/i7Ucn9mgFLg=="
 ---

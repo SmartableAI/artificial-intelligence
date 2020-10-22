@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieve
 webUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Ironside Achieves AWS Advanced Consulting Partner Status"
+    excerpt: "AWS Consulting Partners help customers design ... and manage data, analytics and artificial intelligence/machine learning (AI/ML) solutions. As an IBM Platinum business partner for over a decade, and an early adopter of CloudPak for Data, Ironside is ..."
+    publishedDateTime: 2020-10-22T13:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201022005343/en/Ironside-Achieves-AWS-Advanced-Consulting-Partner-Status"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: "https://mms.businesswire.com/media/20201022005343/en/832585/23/IG_AWSpartner_Logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "DATA REPLY: Data Reply Achieves AWS Machine Learning Competency Status"
     excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply Group company specialized in Big Data Analytics and Artificial ..."
     publishedDateTime: 2020-10-22T07:33:00Z

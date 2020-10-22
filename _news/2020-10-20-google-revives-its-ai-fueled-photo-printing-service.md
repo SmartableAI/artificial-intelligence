@@ -32,17 +32,17 @@ images:
 related:
   - title: "'AIZEN' AI banking-as-a-Service, Empowering data platform to launch lending services"
     excerpt: "The financial services industry has seen drastic technology-led changes over the past few years. While some of the big tech giants have launched their own Fintech verticals, there are many brands that are also increasingly looking to offer financial services to their customers."
-    publishedDateTime: 2020-10-20T15:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-9412110"
+    publishedDateTime: 2020-10-20T15:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-ai-banking-as-a-service-empowering-data-platform-to-launch-lending-services-1029699791"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 32
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
     images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://mma.prnewswire.com/media/1315038/Embedded_finance__AIZEN_s_AI_banking_as_a_Service.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "dSQx/AbAPvRNmYVn7zdaFH6HSElNm5XAkffJqeY8Gut+95wMPyMAvG3dvxGlFl114rnh6/bt5tKASE2np8dIXmt+mV6IL43CrW24fFH/Al83mzVgzNj7skhhjBJWaHDgsEIJzrzDxHbNedxW+cSOBtGeT4WWJnYT9QGLF6ZzsnaQW3qS0FqsWMLp15ONvsItwgOyODknGjIyuUZ15Dzij6psj7FIaPEaE8O6trqtlUac4GDhzbkaiSBUdH9+mMxDgFa5XdK/OYN4nFyFevMIqw4m6YVnKLy0yGHhoRNWeMSqnP/Kn0957HZWl7jjy4iBUHAlptLhP7tobcRi0TOJQKJZxNhBZaeFa4z9RfEeutX0AyIXVg2oGwhtS9cQg6BibUnfyESFxt055S6/Qgc7gqJsoOkoIRDRwzdnPAs+7ctAhrs4iktMcaHpgc7Ytc+x9Z5dejVgB0BZ/W/EgxD2nthFnSWHx7iu5sxSoeZqjL+u948VKKYGEWmnDLVLouiSHGV92SNmckGNliG5KmcFyQ==;Fg+M6CJC9MoXOKYXdYewtg=="

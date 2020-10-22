@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-firs
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -171,6 +171,15 @@ related:
         width: 1665
         height: 1158
         isCached: true
+  - title: "Cognizant Acquires Microsoft Azure, AWS Industrial IoT Partner Bright Wolf"
+    excerpt: "Cognizant acquires Bright Wolf, a Microsoft Azure & Amazon Web Services (AWS) cloud partner for Industrial Internet of Things (IIoT) solutions."
+    publishedDateTime: 2020-10-22T13:45:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/cognizant-buys-microsoft-aws-industrial-iot-partner-bright-wolf/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 49
   - title: "The IBM Stock Is Not Microsoft And It Is Thus Not Poised To Explode In The Near Future"
     excerpt: "Some investors see strong parallels to Microsoft and think that Big Blue, like Microsoft, will also explode after the now several-year phase of weak performance."
     publishedDateTime: 2020-10-20T06:38:00Z
@@ -185,6 +194,15 @@ related:
         width: 635
         height: 400
         isCached: true
+  - title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
+    excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge"
+    publishedDateTime: 2020-10-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201022005403/en/Deque-Releases-Axe-Accessibility-Testing-Tool-for-Microsoft’s-New-Edge-Browser"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "MMJAKh6pgeGUrxeWIsWkL1oeHxFrNe+GQEC7QK3fjMtuLc0afofSFjjG+qgunE+sabhOZi4zwL7uHytCY9Ab8/kqkQd+GU/31vwViLbnQuIMUlUbUqqF0+2+/WPppCEVr8g1D2Q7vy3kt9UOUAyjhPXvDSnEooqBLW1Tm6x//KWnnWpJyL+Szy9V++5DZUoEsZMGMyX2E3BYof0/nX9ncz4FLqXVwC5UwUQBKcqVXrDdcJxBfFrDdnsJqT22lsxZ4pkhUh3zzflm5fgXHO7fMgP4sJX+xzaV1dQogg8AFCPxRud3dk/xRX8A6IbiEQG7EUI4Sm6aWFlrwmCCb/kg/gvHIHUTo7yXOtuO2e6hDmj+DjpdqqbpdGCksYFVX6KRKXXJhNMynVk9XM5mxk2yyOx8+i5wAnhHYhWhB4Qi6nVdiee3Qu+rCYQNsBO5yyy/08+aztOGlP04RUJ3HNxmo8ObmbzpAMo7DeHr5cT5IEY9qr2FfHk27T+5G4u3V9Sc4y7T/2EYqprtiJgOtpmeWw==;J0Hg/rwJLWLyhHK1YrZdyg=="
 ---

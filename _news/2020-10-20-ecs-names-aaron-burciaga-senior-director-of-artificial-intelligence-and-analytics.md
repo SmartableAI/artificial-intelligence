@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Analytics, Artificial Intelligence and the Future of Smart Cities"
-    excerpt: "Join experts from the Center for Digital Government and Google Cloud to learn how data analytics, artificial intelligence and machine learning can help your community address these and other issues in new ways. You’ll hear practical strategies for ..."
-    publishedDateTime: 2020-10-22T07:50:00Z
-    webUrl: "https://www.govtech.com/webinars/Analytics-Artificial-Intelligence-and-the-Future-of-Smart-Cities-123057.html"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 37
-    images:
-      - url: "https://media.erepublic.com/image/GT20-HEADERS-Webinar-Google-Cloud-11-9_1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Additional data, advanced analytics improve performance of machine learning referral app."
     excerpt: "Research team affiliations include Regenstrief, IU Fairbanks School of Public Health at IUPUI, IU School of Medicine and Eskenazi Health."
     publishedDateTime: 2020-10-20T10:29:00Z

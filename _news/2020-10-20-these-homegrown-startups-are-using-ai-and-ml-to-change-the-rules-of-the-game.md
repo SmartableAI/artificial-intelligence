@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Attention EU regulators: we need more than AI “ethics” to keep us safe"
+    excerpt: "In this post, Access Now and European Digital Rights (EDRi) analyse recent developments in the EU AI debate and explain why we need a bold, bright-line"
+    publishedDateTime: 2020-10-21T00:00:00Z
+    webUrl: "https://www.accessnow.org/eu-regulations-ai-ethics/"
+    type: article
+    provider:
+      name: Access Now
+      domain: accessnow.org
+    quality: 54
+    images:
+      - url: "https://www.accessnow.org/cms/assets/uploads/2020/10/AI-Social-Card.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "t41XuUajh+2a64sVr2Js0n66LSL1URmWVPhOHYeky0ig/1zmMGx8myGp0BL27ToQs6Gi+1Df3y91P8NjDUEMDjEIWRTqA87WDjaHqM+7Olp/V7SnCxrm4Zx4YULmRFlxM+UBHy6QYlR7kRc6QMIxgk8czPpasrzG4lKJLMl87C29LSz0F5A91b2W37Qa63kN4ID0isLxbZbU8oUngj9sMqNYgf4yngNyj+mWUOWL8tRsNMu7bNGqkSlUY1rpMoZW8P3xKaFPEBjxY9D43IQuSls/9GCEzLOc0PkO7OotOg+HS0gFkDb9t30RaLdE9uFneMENVP8Nk1a+3nmYjJMIFaAAg7BsnBxXUx3UPNedxiY=;qgCk2X+APavDOyW4TTHL+g=="
 ---

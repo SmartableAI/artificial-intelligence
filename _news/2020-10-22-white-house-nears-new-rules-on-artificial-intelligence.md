@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/white-house-nears-new-rules-on-arti
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Imaget6eq-1603185127719.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
+        isCached: true
+  - title: "Attention EU regulators: we need more than AI “ethics” to keep us safe"
+    excerpt: "In this post, Access Now and European Digital Rights (EDRi) analyse recent developments in the EU AI debate and explain why we need a bold, bright-line"
+    publishedDateTime: 2020-10-21T00:00:00Z
+    webUrl: "https://www.accessnow.org/eu-regulations-ai-ethics/"
+    type: article
+    provider:
+      name: Access Now
+      domain: accessnow.org
+    quality: 54
+    images:
+      - url: "https://www.accessnow.org/cms/assets/uploads/2020/10/AI-Social-Card.jpg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "J8uXPfdynlqFI1cMnjGKF5MDcvBdqeZtNmSilFP5jkUTQoIwoG50LUdk4D+VHTWubKN70MKvgzbC8VlZDnmpPmsN+x7I0FwS0Lhy7n9Wj7yxr+JQNoNHhA+RTvvZRzmRRfmxMQAw+q7uFfl/sEWtwXK8Gt4DGzToiKTRrI932z/0r01NKbq8S4e5iMgkY5zh1XqPsD8sp5S4bx3gMLKpl9rlQUomdglbC0V32m+0my88pjjjafEpSyjpZGmEJBGWmVM8r3X/2P7YwQmzwTv0WUBaqGQ5JjGomn5QDQJiQD9sWjL4xYTtiQ70XkmKFp8P4a5WKnMCgZo2EkAc9SgtiLXkdcsVSC4qIXdffjlx+HrHtrl6GMfkgBMkKGU0y2cQE7BwxN/OcxkSXUATXsXj/4cvgzEtAWGcXJ7ZBi+l3YhpsZXlqQfCOv99r6veeNLV0U4jAyXafBknUi5YRLaLD3Iyrymv9Ylhn6SDiTPe0I5X09VL8+zLU3QiXgc2upn35xPcbL0UxxfFqMTh2Wwepg==;6ugW5cRAWgPfCYI9B/nRXQ=="

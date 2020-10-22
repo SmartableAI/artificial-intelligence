@@ -2,6 +2,300 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-15-detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels.md",
+      "title": "Detecting playful animal behavior in videos using Amazon Rekognition Custom Labels",
+      "excerpt": "Historically, humans have observed animal behaviors and applied them for different purposes. For example, behavioral observation is important in animal ecology, such as how often the behaviors are, when the behaviors occur, or whether there is individual difference or not. However, identifying and monitoring",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Diagram.jpg",
+          "width": 900,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T15:40:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
+      "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
+      "excerpt": "Radar satellites can collect massive amounts of remote sensing data that can detect ground movements -- surface deformations -- at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201015134215.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201015134215.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-whispers-hearing-aids-use-ai-to-boost-speech-and-reduce-noise.md",
+      "title": "Whisper’s hearing aids use AI to boost speech and reduce noise",
+      "excerpt": "Whisper, a startup developing AI-powered hearing aids that self-tune over time, emerged from stealth today with $50 million. CEO Dwight Crow says the funds will be put toward the company’s go-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/",
+      "originalUrl": "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/content3A2F2Fcom.rarlab.rar.provider2Fexternal_files2FAndroid2Fdata2Fcom.rarlab.rar2Ffiles2F_rartemp_open_16002199995922F_P2I940425202-e1600220152706.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/amp/",
+      "publishedDateTime": "2020-10-15T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-gm-will-test-fully-driverless-cars-in-sf-later-this-year.md",
+      "title": "GM will test fully driverless cars in SF later this year",
+      "excerpt": "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
+      "originalUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbebd6400-0f2d-11eb-9bfe-e67a76f4a357&client=amp-blogside-v2&signature=4908a2fba8142ca66578860cd136007606108c87",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
+      "publishedDateTime": "2020-10-15T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-cambridge-technology-attains-aws-well-architected-partner-status.md",
+      "title": "Cambridge Technology Attains AWS Well-Architected Partner Status",
+      "excerpt": "Cambridge Technology Inc, a global business & technology services company, proudly announced that it has achieved the AWS Well-Architected Partner status, recognizing that it",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-technology-attains-aws-well-architected-partner-status/article_b752153b-13ff-5dc5-8e3d-2ade530b22ab.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-technology-attains-aws-well-architected-partner-status/article_b752153b-13ff-5dc5-8e3d-2ade530b22ab.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/b4/4b414b6f-ab7d-515f-8cdc-57b31e971160/5f88c7e59e6f7.image.jpg?resize=400%2C209",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-nvidia-will-power-the-worlds-most-powerful-ai-supercomputer-leonardo.md",
+      "title": "NVIDIA Will Power the World's Most Powerful AI Supercomputer, Leonardo",
+      "excerpt": "The supercomputer arms race is on, and NVIDIA (NASDAQ:NVDA) is leaving the competition in the dust. Of the world's 500 most powerful supercomputers, NVIDIA graphics processing units (GPUs) or networking equipment (by way of its Mellanox acquisition) can be found in 333 of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595333%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "publishedDateTime": "2020-10-15T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-googles-new-hum-to-search-feature-can-figure-out-the-song-thats-stuck-in-your-head.md",
       "title": "Google’s new ‘hum to search’ feature can figure out the song that’s stuck in your head",
       "excerpt": "Google is adding a new “hum to search” feature to its search tools today that will let you hum (or whistle, or sing) the annoying song that’s stuck in your head, and then use machine learning techniques to try to identify it.",
@@ -895,264 +1189,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail.md",
-      "title": "Commentary: Savitude and StyleSage leverage AI, machine learning in fashion retail",
-      "excerpt": "Fashion industry incumbents that have failed to adopt technology to strengthen their business models are at significant risk, particularly as the pandemic accelerates a number of trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail",
-      "originalUrl": "https://www.freightwaves.com/news/commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/10/Savitude.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail/amp",
-      "publishedDateTime": "2020-10-15T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-five-real-ways-artificial-intelligence-is-upleveling-customer-service.md",
-      "title": "Five Real Ways Artificial Intelligence Is Upleveling Customer Service",
-      "excerpt": "There’s no time like the present to start putting some of the amazing AI tools to work for your customer service program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f451f658461ecb30a7fa9b8%2F0x0.jpg",
-          "width": 1200,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/amp/",
-      "publishedDateTime": "2020-10-15T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-medifind-selected-as-finalist-for-best-in-artificial-intelligence-in-the-shorty-social-good-awards.md",
-      "title": "MediFind Selected as Finalist for Best in Artificial Intelligence in the Shorty Social Good Awards",
-      "excerpt": "MediFind, an advanced platform that uses artificial intelligence to help patients make more informed health decisions, today announced it has been selected as a",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/medifind-selected-as-finalist-for-best-in-artificial-intelligence-in-the-shorty-social-good-awards/article_d134f85d-293c-5227-8466-ce613f839bed.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/medifind-selected-as-finalist-for-best-in-artificial-intelligence-in-the-shorty-social-good-awards/article_d134f85d-293c-5227-8466-ce613f839bed.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-bisd-schools-win-national-recognition.md",
-      "title": "BISD schools win national recognition",
-      "excerpt": "The National Center for Urban School Transformation at San Diego State University has named five Brownsville schools as winners of 2020 Best Urban Schools awards including a gold, three silver and a bronze designation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.valleymorningstar.com/2020/10/15/bisd-schools-win-national-recognition-2/",
-      "originalUrl": "https://www.valleymorningstar.com/2020/10/15/bisd-schools-win-national-recognition-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Valley Morning Star",
-        "domain": "valleymorningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-possible-reality-puts-your-face-on-a-video-game-character.md",
-      "title": "Possible Reality puts your face on a video game character",
-      "excerpt": "“Your face fits with the model of the character ... “There are so many reasons people want to do this, but recognition is one of them,” Isbell said.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/15/possible-reality-puts-your-face-on-a-video-game-character/",
-      "originalUrl": "https://venturebeat.com/2020/10/15/possible-reality-puts-your-face-on-a-video-game-character/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/possible.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/15/possible-reality-puts-your-face-on-a-video-game-character/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/possible-reality-puts-your-face-on-a-video-game-character/amp/",
-      "publishedDateTime": "2020-10-15T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-ai-healthtech-startup-savana-secures-series-b-funding-led-by-cathay-innovation-to-expand-in-america.md",
-      "title": "AI HealthTech Startup Savana Secures Series B Funding Led by Cathay Innovation to Expand in America",
-      "excerpt": "Savana, the healthtech startup accelerating health science with big data, announced today the successful completion of its $15 million B Series led by",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-healthtech-startup-savana-secures-series-b-funding-led-by-cathay-innovation-to-expand-in/article_239e76f6-9e09-51b5-bcaf-d4106578add2.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-healthtech-startup-savana-secures-series-b-funding-led-by-cathay-innovation-to-expand-in/article_239e76f6-9e09-51b5-bcaf-d4106578add2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

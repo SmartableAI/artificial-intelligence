@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-11-how-cruise-a-19-billion-self-driving-firm-backed-by-general-motors-and-softbank-trains-its-cars-to-have-super-human-capabilities.md",
+      "title": "How Cruise, a $19 billion self-driving firm backed by General Motors and SoftBank, trains its cars to have 'super-human' capabilities",
+      "excerpt": "\"Anytime we see something that goes wrong, that's a useful example. Even if it's just wrong by a little bit,\" said Cruise senior manager Sean Harris.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-cruise-trains-its-self-driving-vehicles-2020-10",
+      "originalUrl": "https://www.businessinsider.com/how-cruise-trains-its-self-driving-vehicles-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7f714b4c3b2e0019bb9fd7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic.md",
       "title": "Adorable red self-driving robot delivering mail in Japan during pandemic",
       "excerpt": "A Japan Post mail delivery robot debuts in Tokyo, and is being tested to keep human interaction to a minimum during the coronavirus crisis.",
@@ -239,7 +291,7 @@
     {
       "path": "_news/2020-10-08-h2oai-brings-automl-to-equifax-ignite-with-driverless-ai.md",
       "title": "H2O.ai brings AutoML to Equifax Ignite with Driverless AI",
-      "excerpt": "H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverles",
+      "excerpt": "--(BUSINESS WIRE)--H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverless AI within Equifax Ignite",
       "sourceUrl": null,
       "webUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
       "originalUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
@@ -252,7 +304,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:00:00-07:00",
+      "publishedDateTime": "2020-10-08T06:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -267,8 +319,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
@@ -1344,49 +1395,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-artificial-intelligence-for-business-2016.md",
-      "title": "Artificial Intelligence for Business 2016",
-      "excerpt": "Cumulative worldwide spending on artificial intelligence (AI ... It also explores how the UK is gearing up for self-driving cars and the potential impact of AI on the NHS",
-      "sourceUrl": null,
-      "webUrl": "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/",
-      "originalUrl": "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/yumyoshojin/image/fetch/w_829/w_829,h_588,c_crop,g_north/https://www.raconteur.net/wp-content/uploads/2016/07/Raconteur-Artificial-Intelligence-for-Business-2016-Dashboard1-900x1348.jpg",
-          "width": 829,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raconteur",
-        "domain": "raconteur.net",
         "images": null,
         "publishers": null,
         "authors": null

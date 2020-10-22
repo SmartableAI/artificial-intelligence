@@ -168,6 +168,15 @@ related:
         width: 1665
         height: 1158
         isCached: true
+  - title: "Cognizant Acquires Microsoft Azure, AWS Industrial IoT Partner Bright Wolf"
+    excerpt: "Cognizant acquires Bright Wolf, a Microsoft Azure & Amazon Web Services (AWS) cloud partner for Industrial Internet of Things (IIoT) solutions."
+    publishedDateTime: 2020-10-22T13:45:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/cognizant-buys-microsoft-aws-industrial-iot-partner-bright-wolf/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 49
   - title: "The IBM Stock Is Not Microsoft And It Is Thus Not Poised To Explode In The Near Future"
     excerpt: "Some investors see strong parallels to Microsoft and think that Big Blue, like Microsoft, will also explode after the now several-year phase of weak performance."
     publishedDateTime: 2020-10-20T06:38:00Z
@@ -182,6 +191,15 @@ related:
         width: 635
         height: 400
         isCached: true
+  - title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
+    excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge"
+    publishedDateTime: 2020-10-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201022005403/en/Deque-Releases-Axe-Accessibility-Testing-Tool-for-Microsoft’s-New-Edge-Browser"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "lCSAMfr3AwzQh1VsoM3l7m6VX5cqc0IuniFgWFPr9SGSD1C+aZPIrlyaqFH7XEUYjNYMOn4T8gz6uwRZGJMel6xmvydaOVHBTAKtucFUROEcWkHroSiLcmuRjPDtQm5ENk1admOTyHX5GQZ8yE9VpY4kImIdkIHIz0a86+q85G2sb4dKV1sBi+DlTaRduYRa8KJcDp/tn8fjjyIRLwk/cpYlXB6kRUUqzpcXpTSc9srg9mKiCTkhaxvYKPGKGcYa4Vfepc3NyhuOx8nJEM6zcT6s2PWaEej6rWGhPHW5mUOinEyg4GqMpE7jHqTOEnS6K1M05h83CQ6ufUg13r0R4YmHXJNUVvRRXAZAMbvah3kaCfXWPxYZ12Gs+DC6vvAZ+TlKlBoGOHSEqQROZGEXn7ncLWn7oEG6j8TIR4/6uOZiyqmcxdj3atnlrIfhLXjl63jtsAQdL0szly1nrGTwutpULG133/SFt6vg7U6of/q5kldMk2NZeV3NQfFkCxbOt0vd3Nm7xweScEgmHuwvQA==;IC4SEKxi3yCv8oeHrhXdVQ=="
 ---

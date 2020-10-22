@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Tesla Full-Self Driving beta lands, but it's about to get more expensive"
+    excerpt: "The FSD beta will roll out to more Tesla owners as early as this weekend, according to CEO Elon Musk, and a price bump's coming."
+    publishedDateTime: 2020-10-22T13:05:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 103
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk said Tesla is about to hike the price of its 'full self-driving' software by $2,000"
     excerpt: "Tesla is raising the price of its \"full self-driving\" software to $10,000, following the release of a limited beta on Tuesday, Elon Musk said."
     publishedDateTime: 2020-10-22T10:06:00Z
@@ -246,15 +262,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Elon Musk Announces Tesla Full Self-Driving Beta Release Tonight!—’Extremely Slow & Cautious’"
-    excerpt: "Elon Musk announced the new beta testing software of Tesla's Full Self-Driving technology for the company's all-electric vehicles on social media, Twitter."
-    publishedDateTime: 2020-10-21T06:32:00Z
-    webUrl: "https://infosurhoy.com/technology/elon-musk-announces-tesla-full-self-driving-beta-release-tonight-extremely-slow-cautious/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 8
 
 secured: "eMeQGH/Y9bUci+FC7K0Bolqdg87soOEzRlrotoL8neeM4ZownZEWJX3k3Zxd/JTOKGYZur9U5KZ/MNBgi38QisopklBQD5TQcvvEqVmLohPiJ7oMMBJJpBIU45i5MdXwcKIb8I2A6kzL19r356WkEmyPokBwMtJiUR6m7Rvm8pfeZNOFIaKxUrlHb1aekID29E/eB3SdksbrKgNM2MvHI+1DJqGWQLbw2YIHzipiTZAvKwaJy7ujDhXjh42TnQJteg0VEPxmlR5xSoYNjU2WbuPcMaYxVVesgDdnW4DSSTUyUYXDej6rJQdLcQ4NACKoOf6NjfFsYHPWKnA0KGQjh64vHbaWZDsqRkY5e1mtu7I=;JDFUuVd4nvkgl2zb/a9HUw=="
 ---

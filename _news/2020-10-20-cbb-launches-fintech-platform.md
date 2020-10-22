@@ -76,6 +76,20 @@ related:
         width: 440
         height: 293
         isCached: true
+  - title: "Amit Aghara Joins Fintech as Chief Technology Officer"
+    excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (Fintech), the leading business solutions provider for the beverage alcohol industry, today"
+    publishedDateTime: 2020-10-22T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/amit-aghara-joins-fintech-as-chief-technology-officer-301157044.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/562037/Fintech_logo_with_tm_dk_bl.jpg?p=facebook"
+        width: 1367
+        height: 716
+        isCached: true
 
 secured: "SBU5S+x/Dx8DemhG0Z+K4e7usZMmKEHc5slEoTupFpKTxdmy2grmmnsj/uU1nifvvpEc+JrSDVj/Snl62oU44pdK9wjKPcyFC0Fp2yz/MvncNNoptTYLBx70Qk3aPuMW1i8WSlCjPCAeP/8EldnfuDmThLQkjQiNcgACjuPolM+CwP9+g1TR+4nY9FzKscn4gY0EY8N6m/r2/PnITnQ2CpZtjbjoJEp/buCSFZNi0O6HNQO/E/BdaeLirXBxcDaQ5K6T1lYByfPxNwb9JJPDPvR0xHOx55abccNB5Bw9OkNaVIUSHC2QA121Xsf2aGpC/3RzfuBDeBfdJ/U/TZRnAUQS8QYAytM6qsVimS9+ozcbDrRkizbJvKnqtmJ9zcwqTa+1Quv15Hj7VomHuMxghL6UQm04WJk58q6/85ipwbeU1KVUxX1NJC+d/qlYsmlDE8Ff9qcToWPFXMxuxrSoTVwSARS84ZvUfwqdQYw/r+/7XBoBNP7EDm9vh+/BMOfPba0JvidzR/s6jPocj8yF7A==;rFmwryrprmrsgTuAm0C1CA=="
 ---

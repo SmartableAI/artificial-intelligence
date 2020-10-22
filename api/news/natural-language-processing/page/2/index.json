@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-01-mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo.md",
+      "title": "mCloud Brings Natural Language Processing to Connected Workers through Partnership with Aiqudo",
+      "excerpt": "Professionals will be able to call up information on-demand with a single natural language request, eliminating the need to search using complex queries or special commands. A demonstration of mCloud's AssetCare capabilities on smart glasses with Aiqudo is ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/10/01/mcloud-brings-natural-language-processing-to-connected-workers-through",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2020/10/01/mcloud-brings-natural-language-processing-to-connected-workers-through",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T04:14:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-building-custom-language-models-to-supercharge-speech-to-text-performance-for-amazon-transcribe.md",
       "title": "Building custom language models to supercharge speech-to-text performance for Amazon Transcribe",
       "excerpt": "Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. As our service grows, so does the diversity of our customer base, which now spans domains such as insurance, finance, law, real estate,",
@@ -1330,58 +1364,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-using-natural-language-processing-to-improve-customer-satisfaction.md",
-      "title": "Using Natural Language Processing To Improve Customer Satisfaction",
-      "excerpt": "Customers, like everyone else, have short memories in their busy lives. The most recent issue — the one that prompted the customer care call — vividly colors their experience and their impression of the service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f63a2aab1d25898b2a67b21%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/amp/",
-      "publishedDateTime": "2020-09-18T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

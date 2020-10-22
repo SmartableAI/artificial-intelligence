@@ -79,6 +79,22 @@ related:
         width: 1680
         height: 1120
         isCached: true
+  - title: "Facebook's AI team expands post-grad courses for Black and Latinx students"
+    excerpt: "Facebook says that it will expand an online course in deep learning to more students to help improve the diversity of its AI division. After a successful pilot program at Georgia Tech, the company will roll out this graduate-level course in deep learning to more colleges across 2021."
+    publishedDateTime: 2020-10-22T12:06:00Z
+    webUrl: "https://www.engadget.com/facebook-ai-diversity-online-learning-course-120044903.html"
+    ampWebUrl: "https://www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 85
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F39769420-144a-11eb-bfe1-45e43ea856dd&client=amp-blogside-v2&signature=8fd4a9f5ed17636cd9fdd3c52513267131ac292d"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Facebook unveils AI-based machine learning software than can translate over a 100 languages"
     excerpt: "Facebook on Monday unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages without relying on English.  \"This milestone is a culmination of years of Facebook AI's foundational work in machine translation,"
     publishedDateTime: 2020-10-20T03:50:00Z
@@ -222,6 +238,22 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2018/11/Facebook-Logo-Nov-15-2018-AH.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Will Facebook AI make better renewable energy storage?"
+    excerpt: "The social media giant is working with Carnegie Mellon University to discover new “electrocatalysts.” Facebook and Carnegie Mellon University are partnerin"
+    publishedDateTime: 2020-10-22T12:13:00Z
+    webUrl: "https://www.hydrogenfuelnews.com/will-facebook-ai-make-better-renewable-energy-storage/8540751/"
+    ampWebUrl: "https://www.hydrogenfuelnews.com/will-facebook-ai-make-better-renewable-energy-storage/8540751/amp/"
+    cdnAmpWebUrl: "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/will-facebook-ai-make-better-renewable-energy-storage/8540751/amp/"
+    type: article
+    provider:
+      name: Hydrogen Fuel News
+      domain: hydrogenfuelnews.com
+    quality: 59
+    images:
+      - url: "http://www.hydrogenfuelnews.com/wp-content/uploads/2020/10/Renewable-energy-storage-Facebook-sign.jpg"
+        width: 879
+        height: 455
         isCached: true
   - title: "Facebook AI can translate directly between any of 100 languages"
     excerpt: "Facebook has developed an AI that can translate directly between any pair of 100 languages without having to go through an English translation first, as many existing systems do"

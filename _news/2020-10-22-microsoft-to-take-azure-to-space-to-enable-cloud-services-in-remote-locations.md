@@ -167,6 +167,15 @@ related:
         width: 1665
         height: 1158
         isCached: true
+  - title: "Cognizant Acquires Microsoft Azure, AWS Industrial IoT Partner Bright Wolf"
+    excerpt: "Cognizant acquires Bright Wolf, a Microsoft Azure & Amazon Web Services (AWS) cloud partner for Industrial Internet of Things (IIoT) solutions."
+    publishedDateTime: 2020-10-22T13:45:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/cognizant-buys-microsoft-aws-industrial-iot-partner-bright-wolf/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 49
   - title: "The IBM Stock Is Not Microsoft And It Is Thus Not Poised To Explode In The Near Future"
     excerpt: "Some investors see strong parallels to Microsoft and think that Big Blue, like Microsoft, will also explode after the now several-year phase of weak performance."
     publishedDateTime: 2020-10-20T06:38:00Z
@@ -181,6 +190,15 @@ related:
         width: 635
         height: 400
         isCached: true
+  - title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
+    excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge"
+    publishedDateTime: 2020-10-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201022005403/en/Deque-Releases-Axe-Accessibility-Testing-Tool-for-Microsoft’s-New-Edge-Browser"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "zuuolt8656yaZcvPLh+F0coS0KdJxR5GmktjY+uVo1NItcTi13+8UjoGePhtY6nS9/GpI/91J6m5eaDtiBhzQaOL51jZ51St7k7EeAM8cS7Wg1ZgzUlpDfseR7r0yPwgIMgMIJQ5+o11k6+ujKRKjbTj+7nt6UTSZlh1xkrIoq59g4hBte9dP6k4wnAvySjKWA9324Xirz1n1K11VEjyCfoELdIKcHjXi0Oc2ojJehNB6c1AdJVA1SI+/5P7XLWDVmjfXRGG4wz2LnCwJbMxamfoD4UG2J06+it0+QhuBVDhmUK4erCTpFDeeQw7s4RZyU46VLH3uDaanZ+/WiEYzQHF4KvZI+oA8SUtuLaj0GwUiu5gYO8ZdRBo6X2eKRgTMOSuJJcx/kil1rbEXHefY4gcVGlC70+K3J38x41zGbV/U1t8fj2qMynNPo15v/YMHJdnBv30wk2eBjXIm1FlVoJONKalNQHmfPEdgypy7Gv/fxp1VsD8OPRJx/PswoyQrBkuS7PCD7q03qOsgibpsg==;OFUh3fHMCMasZp/HbUWaLw=="
 ---
