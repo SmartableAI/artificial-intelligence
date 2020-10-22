@@ -12,7 +12,7 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Autos
+  - Machine Learning
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "/2MTqQ0qfqk4IujtYdY5RZW/k495u/U7PZdIhL4HD39e9ugV8N9LaEalBus0BkKTYTGlJA4naiUg4HFog3OPmj3ZYUfhGEFSn9sGDlFSkDp0hrmaBUxMP+6gpIblQGmDklR4tU9DcLLDE8gIubSGjWtk8wodeBJaTzxax66VMWqAhTWJnek4dReMBAiA2Ua4dDzWjvExoSBPdmk49UMKbTObTQ7HkkvOVXRCbHa8F+2wQ2au5/aeLTIYDW3p//fB+EKSBrnyI8bhps8BtiLaq6juZsNuZ6dLOPzEpdEz+yOBwUfwOmjhDJ6Gtxkqvx10laesGxe+xsOBfPSSDUYE49f+hZp47L6ESFzurxa9Thg=;Lx7zS5hq5/OAuw7MT4Wj9w=="
+secured: "d2nF2/xE2qyPCMO1K80Rvqzip8QO10zowEDkkssRsfK0eq/aRawZExU7G5kNLxweOhHFHOF5ZRwRn+bj9CZOCjElkiPg6fbTrqei1qqccPAbE5YkPCICJGvxbdx7sf3uyJKLZq6IJsv3PYFnQaw/7mozJvoYujyuFmU3MXmhqoIs6P9uMfbG6jK+t0HsO2NuttucjzEyYYGnkA5QqDYE+LAK9b7VB2sDj3RKEWLJ29Pxy/1WcmZI6CD/JFQfNylZUjUuCX4rjAvqo1C1k2hHaS8GZrrI8XkUazZNhyrqnCH3CcdpPxBkTaO2jD1ZmLRImGM14GJA8x3hoj5LZ73fx5A0ovkEEmzCnaxS1rvKUmY=;ux3pga474bKR06gEOpiU0w=="
 ---
 

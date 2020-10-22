@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-19T23:10:00Z
 originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2386956/defense-official-calls-artificial-intelligence-the-new-oil/"
 webUrl: "https://www.defense.gov/Explore/News/Article/Article/2386956/defense-official-calls-artificial-intelligence-the-new-oil/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media.defense.gov/2020/Oct/19/2002519556/1280/1280/0/201015-D-BN624-0644.JPG"

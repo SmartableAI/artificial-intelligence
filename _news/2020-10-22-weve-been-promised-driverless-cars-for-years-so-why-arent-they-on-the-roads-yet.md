@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-am
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fleet of six driverless Ford Mondeos being tested in Oxford for the next five months"
+    excerpt: "Technology firm Oxbotica retrofitted the vehicles which are making repeated nine-mile round trips within the city several times per day until March 2021."
+    publishedDateTime: 2020-10-22T11:23:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8867533/amp/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8867533/amp/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8867533/amp/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 52
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/22/12/34703790-0-image-a-15_1603364583923.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Fleet of six driverless Ford Mondeos to be tested in Oxford for the next five months"
     excerpt: "Technology firm Oxbotica, spun out of an Oxford University project, has retrofitted the vehicles which are following a nine-mile round trip within the city."
     publishedDateTime: 2020-10-22T10:26:00Z
@@ -62,6 +78,6 @@ related:
         height: 422
         isCached: true
 
-secured: "NQuRPPRwSQnnN9YaDEBrZ9KdSvP7opnTZUci5KzypqNnUzWOudPDHDWquVKkyyBnL6/FdXfEwyLJWndaGhPuVxxivH2XXu/Cne76oTHkcxZ2L5D62h+0S2NOHEnTKAd4pPAUhGpX8sf5m+lEPEGpqJeMm5IobVum70J0HsbOCHVNX5OsmaEMek+EqOJHjxkw4TKllPXDYropuyB9dd711MjMRzKSJECBOQfPLkQJRKxCQeOBQZ457DrRmRKmwJkUXPI/whu0cU/MSYBDSt7qwxFTtOj/bPU1v7dB8yqRVIN9PGroGwimZ/+YVKofI0tyIGPEEnRFuM74JSMCN91kk1omlfVR1lSNZqMzcR02YCs=;W3biGekfR/0URDVdl8u/8A=="
+secured: "hGZj2oPDCb/lN5Z8e0MTkKy3Nrd886I41SLz+UIvsFhVvyQxDrsejuXOrJdBl7XWNjWAPPQNijtXy4MsbCTF2fuVFhtCpbA7kOhZXOrD7NaYFbzLMkWFIqAPX+w3WJ+6jeAww5fNZ+WIvITOxZr40O+CJRhwJFcvVKy55UveaCUCJp1oOqHEzK+98XrQuobi0T9xZLhpIDF0buRQthk5ThZPrCrVOTXPi76UCl59RaFb+1d9cuOGjWV5Qrvmg7o+e4/I3xclROi0Y9JBOQWV0oZKQnc89Zpj+d3qd7PRPz+yv2FRvsi3PaAy5w/AUYaeYSrAiSyuZ2jYQ/rKDIQ8Ed+tjo54k77f4T+voaNrZBSjEgfDRaOT+DLcAo8X2OqyF7V7KdD/ExBRgbs7bOF0YLT/m9bVJ/SdvIeYGpU0axZ5HuSJT9qjtbPwP5MjIWo9EhfeZlZTRzoMMobEy38nyZj3LW2BBBV0Ph9GWzJ4ycjk/2XRkEIwQzK1k9/wh9ATy2581/UMDltd4mfi1kjAlQ==;T269DC5ySWxY+nC30A8aVQ=="
 ---
 

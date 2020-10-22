@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "OneConnect Shares Fintech Insights with Chinese Banks and Fintech Companies"
-    excerpt: "PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (OneConnect, NYSE: OCFT), a leading technology-as-a-service platform for financial institutions, shared its vision of innovation with the Fintech Association of Hong Kong of the Chinese Banking Association of Hong Kong at a recent video conference."
-    publishedDateTime: 2020-10-20T09:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697544"
+  - title: "U.S.-Based Fintech Provider Quavo Announces Fraud & Dispute AI for Financial Institutions"
+    excerpt: "Quavo Inc., a U.S.-based fintech provider, announced on Thursday it has launched a fraud and dispute artificial intelligence (AI), called Auto Reasonable Investigation Agent (ARIA). The company claims"
+    publishedDateTime: 2020-10-22T19:15:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 50
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/01/Stop-Fraud-600-600x558.png"
+        width: 600
+        height: 558
+        isCached: true
   - title: "Why Fintech Research Sites are Important for Investors"
     excerpt: "Fintech is a blend of two terms as Financial Technology is often used to identify emerging innovations that are intended to enhance and simplify the provision and the use of financial institutions. ​​​At its heart,"
     publishedDateTime: 2020-10-21T11:55:00Z
@@ -60,21 +67,47 @@ related:
         width: 300
         height: 223
         isCached: true
-  - title: "ING and UNICEF launch ‘Fintech for Impact’ initiative to support fintech start-ups in Philippines"
-    excerpt: "efficient data with a new AI-enabled platform This initiative, called “Fintech for Impact”, supports open-source solutions that contribute to a growing body of digital public goods that can advance society. Chris Fabian, senior adviser at UNICEF ..."
-    publishedDateTime: 2020-10-19T09:58:00Z
-    webUrl: "https://www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-‘fintech-for-impact’-initiative-to-support-fintech-start-ups-in"
-    ampWebUrl: "https://www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-%E2%80%98fintech-for-impact%E2%80%99-initiative-to-support-fintech-start-ups-in?amp"
-    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-%E2%80%98fintech-for-impact%E2%80%99-initiative-to-support-fintech-start-ups-in?amp"
+  - title: "Fintech and Automated Loss Mitigation Provider, Constant, Recipient of 2020 AI TechAward"
+    excerpt: "Fintech and automated loss mitigation provider Constant is pleased to announce it is the recipient of a 2020 AI TechAward. The annual AI"
+    publishedDateTime: 2020-10-20T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fintech-and-automated-loss-mitigation-provider-constant-recipient-of-2020-ai-techaward-301155786.html"
     type: article
     provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 31
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
     images:
-      - url: "https://www.businesstimes.com.sg/sites/default/files/styles/article_img/public/image/2020/08/06/nz_philippines_060820.jpg?itok=LHDtmRW7"
-        width: 440
-        height: 293
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "FinHub 973 launches to boost fintech sector in Mena"
+    excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
+    publishedDateTime: 2020-10-20T10:32:00Z
+    webUrl: "https://www.wamda.com/en/2020/10/finhub-973-launches-boost-fintech-sector-middle-east"
+    type: article
+    provider:
+      name: wamda.com
+      domain: wamda.com
+    quality: 24
+    images:
+      - url: "https://wamda-prod.s3.amazonaws.com/feature-images/8348f78df8d25ad.jpg"
+        width: 1584
+        height: 1387
+        isCached: true
+  - title: "Top 5 FinTech announcements from mid-October 2020 for the UAE"
+    excerpt: "As the UAE aspires to position itself as the world’s leading technology hub, Dubai has set its eyes on disruptive FinTech start-ups to achieve its goals."
+    publishedDateTime: 2020-10-20T11:44:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/top-5-fintech-announcements-from-mid-october-2020-for-the-uae/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/FinTech-Funding-wealth.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Amit Aghara Joins Fintech as Chief Technology Officer"
     excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (Fintech), the leading business solutions provider for the beverage alcohol industry, today announced that Amit Aghara has been appointed to the position of Chief Technology Officer (CTO)."

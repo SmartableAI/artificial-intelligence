@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-23-ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues.md",
+      "title": "AI researchers urge tech go beyond scale to address systemic social issues",
+      "excerpt": "To scale is to be capable of speedy growth of users and revenue, but AI researchers say companies ... published in recent days by Google senior research scientist Alex Hanna and independent ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/",
+      "originalUrl": "https://venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/worlds-largest-hockey-stick.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/amp/",
+      "publishedDateTime": "2020-10-22T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-the-2020-data-and-ai-landscape.md",
       "title": "The 2020 data and AI landscape",
       "excerpt": "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1419,58 +1471,6 @@
         "AI Ethics",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027.md",
-      "title": "Canada Artificial Intelligence Market Insights, Current And Future Market Trends & Forecast Till 2027",
-      "excerpt": "The market report offers a comprehensive business study that analyses innovative ways for business growth and describes necessary factors such as leading players, market revenue, and growth rate. This report also focusses on market volume and value at a country level.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13?mod=mw_quote_news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

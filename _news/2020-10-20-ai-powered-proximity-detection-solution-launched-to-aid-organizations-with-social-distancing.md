@@ -3,8 +3,8 @@ category: news
 title: "AI powered Proximity Detection solution launched to aid organizations with social distancing"
 excerpt: "Ipsotek, a pioneer in artificial intelligence (AI) powered video analytics, has announced the launch of a Proximity Detection solution to help businesses across a range of industries monitor adherence to social distancing guidelines enforced by the COVID-19 pandemic."
 publishedDateTime: 2020-10-20T08:58:00Z
-originalUrl: "https://www.continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing?tmpl=component"
-webUrl: "https://www.continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing?tmpl=component"
+originalUrl: "https://continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing"
+webUrl: "https://continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing"
 type: article
 quality: 8
 heat: -1
@@ -91,6 +91,6 @@ related:
       domain: finextra.com
     quality: 17
 
-secured: "ltCzzyEyjE5wSSOnicNCMCKv51IfuupZtU0uMfhgMYkjidRMxcv5TCEu1oaBOQQTyku8jx/XnZ09sy/PHqF/HQE5+1aW49YIju3eEztpz/4ts1+fToXQE4pjUMWQri5fmk1n7JIDFmncpLQ8sf09QEzvm3riw0trcf/7rEMVoYxOCpWoVrZwdTimkFumZQZAff6/am8CZFJowqg29avcekXJtMZ4Mf9iLKUGYasWO4yYSh1YlX8H1jQFKSufaET6rGWZnCmN+l7PG1bqrGI+eaqhOrZgJbPKa5jmj3pWybYcTt9xqLVj/ygu/U5Ebm4VNK3irmEBvKONLuwk7C3ux5HEJCuaTr5KCjba3iVLwTU=;t03zVWxrpJV/d7uz5g9Tew=="
+secured: "OdelgKuz1ZmPeruMtpvW7jdb5G1b2Nhu/YSqO7S/j1hlfktPAVFRNZ19ZI5IN+fSl+lDGfhxRvPWcCAdkbn9sLzSGkHZI1DL9F3d54ricQbMFt74HJIrBa8KkNcsAKUan847b6AWEx8Ys0lRSwP5l72o8+j2K+4ePWJiI2mhqc4N4UjXU5gZJDl71UjObDM+dtldW/MrcbMzHKIDiPfCz02PBW3BNgE/T1QS6O6ycCHHb2Fu3fGkX2Cd0lPtyTaBDHgQoHjWpoFEISwvgfyGrSwdsjiXLGpawxp2lfPBLx2tjmPaNT/2EaZUUFnbYVDZhbDCEQFYPWE8heD5kOrlPO6qx0so3lhsHhp6waeimnQuFKk/6J1hImrdydAMZ76i5ehJ3zJVrEyW8Az93DVdBUC3zDQPvpnh6ly7MfAUH/36i1h4JcMOcC3Wk1mJL9fots4lPGwhxiZ6FuXIPTdCI4b2YFjii0yQPHVwOXBGReFn0raQIMYuW4IHEJINF4WzSArCwAf+xtKXv5MVCda0UA==;xCKptz2HQJ6W6coopRKKfg=="
 ---
 

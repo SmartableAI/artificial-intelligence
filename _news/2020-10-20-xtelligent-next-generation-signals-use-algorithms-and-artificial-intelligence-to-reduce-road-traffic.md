@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeffkart/2020/10/19/xtelligent-next-gen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/10/19/xtelligent-next-generation-signals-use-algorithms-and-artificial-intelligence-to-reduce-road-traffic/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "'Intelligent' battery built by AI promises greater electric car range"
-    excerpt: "Making batteries more efficient is the key to putting more electric cars on roads and one Slovak company is now using artificial intelligence to produce what it hails as a cutting-edge, \"intelligent battery\"."
-    publishedDateTime: 2020-10-18T01:12:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/18/039intelligent039-battery-built-by-ai-promises-greater-electric-car-range"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/17/902126.jpeg"
-        width: 800
-        height: 613
-        isCached: true
 
 secured: "hyCdAn9ZQB823NBZrYKrtkReY7UZikp7K1eW0Kcd6vup3JUAc4gC4CZ4obsbD3lCsqCe97Dc1mT8Sd8a/yNW5x91+ndT7xp1M674RgVOAeozNcN7UUvZpC457YWhlYp+fqutd3c89zgBV7utcl/HU8jhLg0m5giVmRVP8e0pG8xpe5AME6Gsa23gtF2yEKYJs9nzNosVIErpw2o9w3if1tZowYkcT7DTS7O/ZCKG8PZ0ZGHwVw6o8vwzHK1UUwfSeZV2nBm3xUOCiAo4Y5dBZ2n0NW9nE90KmTbMr8IcHFGNmHwWsbaTxawJCtnBLetWl8/JT8iaRdARvz5YTbtTcirL9TyL27s+6dtLeb8aGGHSjpLUf+qD+k4knsjHWmZBfxI0bwvPTerxE9CMdz7W7AcmIZlltdfhDbroK9nrIyJ9/s/kZXXi3vquXjX2E4dJhSPmjhXrc4sL7X2LQu9AQgu2gW3Fr+x/4fU5rIXCGQ0sX8HlpibSbXhi3ws5twBz68GSs5Y4UsA0amOTeIzvHw==;WKklJE/Hl2yZ+zxrwBYzcw=="
 ---

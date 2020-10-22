@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-21-how-ai-can-affect-our-choices-and-decisions.md",
+      "title": "How AI can affect our choices and decisions",
+      "excerpt": "Although AI technology has miles to go to develop social skills on par with ours, some AI has shown impressive language understanding and can complete relatively complex interactive tasks. In several 2018 demonstrations,",
+      "sourceUrl": null,
+      "webUrl": "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/",
+      "originalUrl": "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cosmosmagazine.com/wp-content/uploads/2020/10/201021_ai-affecting-decisions.jpg",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/?amp",
+      "cdnAmpWebUrl": "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/?amp",
+      "publishedDateTime": "2020-10-20T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cosmos",
+        "domain": "cosmosmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-toyota-ai-ventures-invests-in-canadian-robotic-kitchen-startup.md",
+      "title": "Toyota AI Ventures invests in Canadian robotic kitchen startup",
+      "excerpt": "Toyota AI Ventures, the Japanese automaker’s early-stage venture capital fund, has invested in YPC Technologies, a robotic kitchen startup based in Montreal. The total amount of the investment wasn’t disclosed by either company but it’s part of a $1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/technology/toyota-ai-ventures-invests-canadian-robotic-kitchen-startup",
+      "originalUrl": "https://www.autonews.com/technology/toyota-ai-ventures-invests-canadian-robotic-kitchen-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/kitchen.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-microsoft-azure-announces-its-first-region-in-austria.md",
       "title": "Microsoft Azure announces its first region in Austria",
       "excerpt": "Microsoft today announced its plans to launch a new data center region in Austria, its first in the country. With nearby Azure regions in Switzerland, Germany, France and a planned new region in northern Italy,",
@@ -10,7 +96,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -1131,101 +1217,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors.md",
-      "title": "DeepMind open-sources the FermiNet, a neural network that simulates electron behaviors",
-      "excerpt": "Researchers at DeepMind have open-sourced the FermiNet, a neural network that simulates the positions and arrangements of electrons.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/",
-      "originalUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/amp/",
-      "publishedDateTime": "2020-10-19T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-baker-mckenzie-launches-global-innovation-unit-teaming-up-with-ai-company.md",
-      "title": "Baker McKenzie launches global innovation unit, teaming up with AI company",
-      "excerpt": "Baker McKenzie on Monday launched a new innovation arm, Reinvent Law, bringing the global firm's existing innovation efforts under a single umbrella and pairing them with a new artificial intelligence joint venture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/bakermckenzie-innovation-idUSL1N2HA1C4",
-      "originalUrl": "https://www.reuters.com/article/bakermckenzie-innovation-idUSL1N2HA1C4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2HA1C4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HA1C4",
-      "publishedDateTime": "2020-10-19T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

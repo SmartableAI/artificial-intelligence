@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18008712"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008712"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -20,22 +20,6 @@ topics:
   - Natural Language Processing
   - AI
   - Computer Vision
-
-related:
-  - title: "AI Outperforms Humans in Speech Recognition"
-    excerpt: "Thanks to its superior speech recognition system, KIT's Lecture Translator will provide better results with minimum latency in future. (Photo:"
-    publishedDateTime: 2020-10-20T08:13:00Z
-    webUrl: "https://www.miragenews.com/ai-outperforms-humans-in-speech-recognition/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 54
-    images:
-      - url: "https://www.kit.edu/img/pi/2020_095_KI%20uebertrifft%20Mensch%20bei%20Spracherkennung_72dpi.jpg"
-        width: 1230
-        height: 820
-        isCached: true
 
 secured: "04cU9ZIEy5Hq5Trs7Dy+GTelbzyWPH/QItfcRjYh32SihMuBFh8DKcJ3JF98sqUc6dqLQlJY+kngD3JXlOc/w/Bqys42W8pXq45485a04sgoeeEAL48zvymSDBlgQTzs/JXGfY20jfCYnp7K0fdrzH2HSNcjLjow4nCmF0aGsEz9g/Oka9bkR4yT47+tZ/m+J88kRcIheVwe3ZM3SIrn8O4UKGu+4JJQH6//qlqQJPRbb+Wqe/zKWktePOQgRuzoNOQ83s2M1aDmTGacCi4bfgJzeZknXBW8Itzbg0U1qOFgLQiZx+54AAOz7s+BXe0ct3mDpGwG7/GYTQYLxSflGqTnPwEEDcYVxEVp8ZJNezQ=;nKoHxKNYTu7sef319VJTcg=="
 ---

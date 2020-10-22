@@ -84,22 +84,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Artificial intelligence, humanity, and the future"
-    excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
-    publishedDateTime: 2020-10-18T01:24:00Z
-    webUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future"
-    ampWebUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
-    cdnAmpWebUrl: "https://www-sturgisjournal-com.cdn.ampproject.org/c/s/www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
-    type: article
-    provider:
-      name: Sturgis Journal
-      domain: sturgisjournal.com
-    quality: 59
-    images:
-      - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
-        width: 680
-        height: 931
-        isCached: true
   - title: "Forum Teratec 2020 Gathered Experts in Simulation, HPC, Big Data and AI"
     excerpt: "Held in digital format on October 13 and 14, 2020, given the circumstances of COVID-19, Forum Teratec gathered over 1200 experts in"
     publishedDateTime: 2020-10-19T18:08:00Z

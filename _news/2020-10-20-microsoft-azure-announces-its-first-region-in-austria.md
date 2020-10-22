@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-firs
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg"
         width: 798
         height: 482
+        isCached: true
+  - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
+    excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
+    publishedDateTime: 2020-10-22T19:16:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 104
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Microsoft and MITRE release framework to help fend off adversarial AI attacks"
     excerpt: "Microsoft, MITRE, and 11 other organizations developed a framework to help fend off adversarial machine learning attacks."

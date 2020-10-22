@@ -60,7 +60,7 @@ related:
     provider:
       name: Zawya
       domain: zawya.com
-    quality: 22
+    quality: 24
   - title: "Saudi Arabia pressing ahead with Fintech to become cashless society, says SAMA official"
     excerpt: "“Several Fintech solutions are being currently implemented including Artificial Intelligence (AI), blockchain, and mobile apps, in line with consumer interests,” he added. Alsayari further noted that money and technology have become ..."
     publishedDateTime: 2020-10-20T07:28:00Z

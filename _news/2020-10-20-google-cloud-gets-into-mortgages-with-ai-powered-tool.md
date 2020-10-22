@@ -84,7 +84,7 @@ related:
   - title: "AI powered Proximity Detection solution launched to aid organizations with social distancing"
     excerpt: "Ipsotek, a pioneer in artificial intelligence (AI) powered video analytics, has announced the launch of a Proximity Detection solution to help businesses across a range of industries monitor adherence to social distancing guidelines enforced by the COVID-19 pandemic."
     publishedDateTime: 2020-10-20T08:58:00Z
-    webUrl: "https://www.continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing?tmpl=component"
+    webUrl: "https://continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing"
     type: article
     provider:
       name: continuitycentral.com

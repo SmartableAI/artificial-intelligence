@@ -83,22 +83,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Artificial intelligence, humanity, and the future"
-    excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
-    publishedDateTime: 2020-10-18T01:24:00Z
-    webUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future"
-    ampWebUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
-    cdnAmpWebUrl: "https://www-sturgisjournal-com.cdn.ampproject.org/c/s/www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
-    type: article
-    provider:
-      name: Sturgis Journal
-      domain: sturgisjournal.com
-    quality: 59
-    images:
-      - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
-        width: 680
-        height: 931
-        isCached: true
   - title: "Benefits and Risks of Artificial Intelligence"
     excerpt: "In the midst of all this, there is another age slowly taking shape, the Artificial Intelligence(AI) era. Many believe that this will be the next evolution for mankind. Whether that bodes well or not for mankind,"
     publishedDateTime: 2020-10-22T10:51:00Z

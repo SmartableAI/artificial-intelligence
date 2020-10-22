@@ -26,7 +26,7 @@ related:
     provider:
       name: US Department of Defense
       domain: defense.gov
-    quality: 39
+    quality: 41
     images:
       - url: "https://media.defense.gov/2020/Oct/19/2002519556/1280/1280/0/201015-D-BN624-0644.JPG"
         width: 1280

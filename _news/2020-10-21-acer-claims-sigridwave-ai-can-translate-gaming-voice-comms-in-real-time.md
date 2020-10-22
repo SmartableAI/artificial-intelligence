@@ -9,7 +9,7 @@ ampWebUrl: "https://www.htxt.co.za/2020/10/21/acer-claims-sigridwave-ai-can-tran
 cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/10/21/acer-claims-sigridwave-ai-can-translate-gaming-voice-comms-in-real-time/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Acer’s announces SigridWave, a Live AI Translator for multiplayer games"
+    excerpt: "Aside from revealing its new range of laptops and PCs, Acer also launched SigridWave, a live AI translator for multiplayer games. According to Acer, SigridWave is software that le"
+    publishedDateTime: 2020-10-22T18:16:00Z
+    webUrl: "https://www.ungeek.ph/2020/10/acers-announces-sigridwave-a-live-ai-translator-for-multiplayer-games/"
+    ampWebUrl: "https://www.ungeek.ph/2020/10/acers-announces-sigridwave-a-live-ai-translator-for-multiplayer-games/?amp"
+    cdnAmpWebUrl: "https://www-ungeek-ph.cdn.ampproject.org/c/s/www.ungeek.ph/2020/10/acers-announces-sigridwave-a-live-ai-translator-for-multiplayer-games/?amp"
+    type: article
+    provider:
+      name: ungeek.ph
+      domain: ungeek.ph
+    quality: 39
   - title: "Acer Releases SigridWave, an In-Game Live AI Translator Trained With Game Jargon, for Planet9"
     excerpt: "Also announced are functionalities designed to enhance competitive play, such as a framework for hosting tournaments Editor's Summary SigridWave is an"
     publishedDateTime: 2020-10-21T14:10:00Z

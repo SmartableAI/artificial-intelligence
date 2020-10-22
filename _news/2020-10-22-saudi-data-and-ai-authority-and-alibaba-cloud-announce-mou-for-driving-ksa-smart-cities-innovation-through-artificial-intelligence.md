@@ -8,7 +8,7 @@ webUrl: "https://www.zawya.com/mena/en/press-releases/story/Saudi_Data_and_AI_Au
 ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20201022185141/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20201022185141/"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "National Center for Artificial Intelligence and Huawei announce MoU to develop Saudi Arabia's AI capabilities"

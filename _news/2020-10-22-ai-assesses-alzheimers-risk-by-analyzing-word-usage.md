@@ -67,7 +67,21 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
+  - title: "USC leads massive new artificial intelligence study of Alzheimer's"
+    excerpt: "Forty co-investigators at 11 research centers will team up to leverage artificial intelligence and machine learning to bolster precision diagnostics, prognosis and the development of new treatments for Alzheimer's disease."
+    publishedDateTime: 2020-10-22T18:51:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uosc-ulm102220.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "3qiTyK+L0cdVzDZ2kRotzgs5rNiQd6iyKepZKVucgKj+v2y7rYmt4dDRV3LiRxhCcLaXQq/xhWrzIBq+GWR8vVE7DXQVIoB6V+4N+9M9m/6MuLUXv9w+qQRbF43rz86J3ffk2ysMtOoDcX/N5G30iQhBJnNmspI2Bfs67ysy6/1U2TMPfHaJyt4MPMbDJp6XR5iPnVnRMtcoik8NHP8epn8hdcGQZIesYOMZiq2/Da9CZ0i9Y5Z9kfo4qd8SK10aD76TUpzA/4IeEiA7ZsR31qJhUlc/jwMGTTyJSWrdNXdo2myijTJfO18chItGUpOhu9k1lZKMVzhrGj+QMX9JZCQ078n1SlxkIhhHFPvclSY=;m+iOAw03+kH3MlJo5RQV8Q=="
+secured: "suPgMzavuksroGuIl+1iZlK/fpcZpuYuLEjmhyllwdiRC1TKCBE2Xzv4RdSF4ZQC/4emtihSgmDL6jSa3MD4aqKlZ7qTmJjCHQKrWQc7nhu6VMh32zsk++cszKXdFctWAruGqD1QO6K0ce2pMkCY6ymZiWA9CZmJzmIR6AqYCaeyKKMwToFHwjSb22hdOsRJCj0YtRvgmnsiDiTjXnlpQRQ/mdJHYyAxdbd7yyr6T7gDGU8Mby4SpKcYbl3RSQbaRSEL1zMlMsoAWvlpChnFaXf4yQ5IilSoLHmOiQfTg+Xabirq1mn7yFd4N0E1nAAEpPfu3SnlRPn2wvkFTaW/YNXdkMm4fCJm27eTplZ16BnNdBbC5d7IoQTP82CQqAQaA44ixVxHwOLK/iAFGNuzDWfz7QQW7VIij9oRA+bfhwa2dYIwecO+EboHsj4oI5BTfiPcFOrCJNB4piFsd5TNg2VC7uhoX+4KthavTznmGigNanqAsd44b/0E9+K0vosnF7dct+TCuMtpA4IDUwh8IA==;kwYsOy8oA5+5RP1hnPaIIQ=="
 ---
 

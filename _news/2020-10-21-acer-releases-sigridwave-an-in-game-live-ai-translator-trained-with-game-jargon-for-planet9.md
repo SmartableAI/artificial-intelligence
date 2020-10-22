@@ -41,6 +41,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Acer’s announces SigridWave, a Live AI Translator for multiplayer games"
+    excerpt: "Aside from revealing its new range of laptops and PCs, Acer also launched SigridWave, a live AI translator for multiplayer games. According to Acer, SigridWave is software that le"
+    publishedDateTime: 2020-10-22T18:16:00Z
+    webUrl: "https://www.ungeek.ph/2020/10/acers-announces-sigridwave-a-live-ai-translator-for-multiplayer-games/"
+    ampWebUrl: "https://www.ungeek.ph/2020/10/acers-announces-sigridwave-a-live-ai-translator-for-multiplayer-games/?amp"
+    cdnAmpWebUrl: "https://www-ungeek-ph.cdn.ampproject.org/c/s/www.ungeek.ph/2020/10/acers-announces-sigridwave-a-live-ai-translator-for-multiplayer-games/?amp"
+    type: article
+    provider:
+      name: ungeek.ph
+      domain: ungeek.ph
+    quality: 39
 
 secured: "QPNB33MzT6Em6UGFsXBDu19WT1x2WzHiJRZ9mXrFLMowX/aPHer8K3V6fOCYmGhpvsxdD2GANzIiEwtV8/vpYQde7EKFJ9jZDZbJoDnOHizHDiEe8w4ryqs5hJPM5sNbnoSHm3slGswEJxo3FZwBWM4OYeRsEDDbOXc+2S0EImnGf8yIcPhSozcSeQufLhbZKQTQAgLLxFk/fD+0N7OCqMDXhKSeqQLl7xa3cOHIgHHVJP9R3OqvCbd77uIRF6PItFC0M5YsEVYt497tYTLjaauL8HbrxZFjde/sU7BscFR7ogn6WHK6uAkcSxpgHUpuLJqBTOvJauKRyPiNAUjTksxRdSlH5NXffOl73rLzEDY=;rZVomDWvPgle7neRdIYC3A=="
 ---

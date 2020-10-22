@@ -50,7 +50,7 @@ related:
     provider:
       name: Zawya
       domain: zawya.com
-    quality: 22
+    quality: 24
   - title: "IBM, Alibaba, and Huawei sign on to help Saudi Arabia's AI push"
     excerpt: "IBM (NYSE:IBM), Alibaba (NYSE:BABA), and Huawei have each signed a memorandum of understanding with Saudi Arabia's artificial intelligence authority."
     publishedDateTime: 2020-10-22T14:02:00Z

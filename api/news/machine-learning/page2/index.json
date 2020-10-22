@@ -4,19 +4,19 @@
     {
       "path": "_news/2020-10-14-sensiml-to-present-at-st-developers-conference.md",
       "title": "SensiML to Present at ST Developers Conference",
-      "excerpt": "Corporation, a leading developer of AI tools for building intelligent IoT endpoints, today announced that Chris Rogers, CEO and Chris Knorowski, CTO",
+      "excerpt": "They will walk through an example application showing the process start-to-finish, highlighting key opportunities, success stories, and even potential pitfalls of AutoML-based algorithm ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/22/c2216860-0a3c-5af2-ba20-9a5b036c0854/5f86fae1532d1.image.jpg?resize=400%2C208",
-          "width": 400,
-          "height": 208,
+          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook",
+          "width": 2059,
+          "height": 1079,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -29,8 +29,8 @@
       "publishedDateTime": "2020-10-14T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -799,24 +799,33 @@
     {
       "path": "_news/2020-10-08-h2oai-brings-automl-to-equifax-ignite-with-driverless-ai.md",
       "title": "H2O.ai brings AutoML to Equifax Ignite with Driverless AI",
-      "excerpt": "--(BUSINESS WIRE)--H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverless AI within Equifax Ignite",
+      "excerpt": "H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverless AI within Equifax Ignite ®. H2O is a leading open-source AI platform, and its Driverless AI is a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
+      "webUrl": "https://www.oaoa.com/news/business/h2o-ai-brings-automl-to-equifax-ignite-with-driverless-ai/article_3020f4a6-e84b-5620-afe1-ce7fc7241787.html",
+      "originalUrl": "https://www.oaoa.com/news/business/h2o-ai-brings-automl-to-equifax-ignite-with-driverless-ai/article_3020f4a6-e84b-5620-afe1-ce7fc7241787.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:23:00-07:00",
+      "publishedDateTime": "2020-10-08T07:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Odessa American",
+        "domain": "oaoa.com",
         "images": null,
         "publishers": null,
         "authors": null

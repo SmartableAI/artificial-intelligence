@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fleet of six driverless Ford Mondeos being tested in Oxford for the next five months"
+    excerpt: "Technology firm Oxbotica retrofitted the vehicles which are making repeated nine-mile round trips within the city several times per day until March 2021."
+    publishedDateTime: 2020-10-22T11:23:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8867533/amp/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8867533/amp/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8867533/amp/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 52
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/22/12/34703790-0-image-a-15_1603364583923.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Driverless cars: what technology do they need apart from being “driverless”?"
     excerpt: "The concept of “driverless” had existed for decades, and as time went on, it became a reality. And it is emerging to be the norm in the next decade. Especially because of"
     publishedDateTime: 2020-10-20T14:14:00Z

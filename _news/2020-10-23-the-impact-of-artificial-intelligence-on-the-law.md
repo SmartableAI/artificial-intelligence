@@ -73,22 +73,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Artificial intelligence, humanity, and the future"
-    excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
-    publishedDateTime: 2020-10-18T01:24:00Z
-    webUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future"
-    ampWebUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
-    cdnAmpWebUrl: "https://www-sturgisjournal-com.cdn.ampproject.org/c/s/www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
-    type: article
-    provider:
-      name: Sturgis Journal
-      domain: sturgisjournal.com
-    quality: 59
-    images:
-      - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
-        width: 680
-        height: 931
-        isCached: true
   - title: "Benefits and Risks of Artificial Intelligence"
     excerpt: "In the midst of all this, there is another age slowly taking shape, the Artificial Intelligence(AI) era. Many believe that this will be the next evolution for mankind. Whether that bodes well or not for mankind,"
     publishedDateTime: 2020-10-22T10:51:00Z
@@ -118,6 +102,6 @@ related:
         height: 228
         isCached: true
 
-secured: "2ajX2VuMfMWPdW1PKk1q87duMDj89l+M0pYihEkrFAuitlsO7d2OU2kL+okT5/Qr6f8O1ZDBx7joXXh9L0xWHt87JISGI1VEGvHrfFYEkzhFxKYNyP0TYHDwbFmrvcDlcOE6Jdgetaw+qb4MceuYssabmjieyrjUYVN2IKwJTA+pXCEak/LlYGH4oSlO9eqgIhJ2acKVpvoUaZLl1hWBgwkX4RtsdF3NW9x2H2hg8Nq9kn3uatR6f65RT2DCZmjrzgB82obCbnabUTo4UL/LdzEH0bh6XTPRhgEA3e/R1Pj9I521+zw1xpvh6MGS6rSC77+mEq43sCA4NkTkQqqKKty1KaOptYAYaWZ3PA2z5Gw=;5yqGpVTwfJcg3p4RnTL30Q=="
+secured: "IbizKGL3bYl2zocDkuVUp8qFo8+qzM6L+4CaINyTc3UpvQUTFnv/mXE6MURFkdcRTutKpePs9SFn7ir1O8ybLjYyEVNqowXeiK7ZxONr2aMZuCSijpJB6O3VqnydBvZ9ZxZFnXHX6eVK9IYm5H5rJQZ4jZyhLg50qM+BVB3mQbBFrUkFJHx1rw+S825FDMK5joXPAMMODREuy345FdGTXRF8TR60yCGAA4QIpgO89UPEUEx46wYXrHJscAi3o6hiXaRoPDIUm4tmnJjWvrv5wKjBY76yoBnwDdX2kxXmaYum5wKlOrFLjEwPaYfUGq9thmkYnhLLY2Nl5PEDdDwWszFweMGviIDff8wNC63p7Td+t5eyMbAc+aiIDscQ1TJokBnuAWNHIBEBIFMxNssXgI64ehItIgaD/KzQyklrRcAudPILn0by9py0YFCa343k86gZDz+Gpphmcb2NHEtUdx3HNNiFWF0tnjOY8lF5gyjNAhRn3D5a1g2kYWaOtRUU/vyt7meIzf+0I0/uAcu/CQ==;I6gGipuVe/UTloTshNcVZg=="
 ---
 

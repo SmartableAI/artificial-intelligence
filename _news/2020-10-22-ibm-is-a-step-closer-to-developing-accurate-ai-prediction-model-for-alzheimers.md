@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "USC leads massive new artificial intelligence study of Alzheimer's"
+    excerpt: "Forty co-investigators at 11 research centers will team up to leverage artificial intelligence and machine learning to bolster precision diagnostics, prognosis and the development of new treatments for Alzheimer's disease."
+    publishedDateTime: 2020-10-22T18:51:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uosc-ulm102220.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Assesses Alzheimer’s Risk by Analyzing Word Usage"
     excerpt: "Artificial intelligence could soon help screen for Alzheimer’s disease by analyzing writing. A team from IBM and Pfizer says it has trained AI models to spot early signs of the notoriously stealthy illness by looking at linguistic patterns in word usage."
     publishedDateTime: 2020-10-22T16:49:00Z

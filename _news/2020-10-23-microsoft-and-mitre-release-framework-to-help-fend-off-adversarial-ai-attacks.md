@@ -80,6 +80,22 @@ related:
         width: 798
         height: 482
         isCached: true
+  - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
+    excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
+    publishedDateTime: 2020-10-22T19:16:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 104
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Microsoft Azure Modular Data Center looks to provide a connection anywhere in the world"
     excerpt: "Microsoft has launched a portable, modular data center that should enable individuals to access cloud computing services from almost anywhere in the world. The Azure Modular Datacenter (MDC) can augment a user’s technical capabilities,"
     publishedDateTime: 2020-10-21T14:15:00Z
@@ -246,6 +262,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "XpqDR0FlGS0SIcx7mxgWWMGhhWK1W6ecEvx4uDmdov/GBsEqJnJKht44MFAkBtaGwz12OBc/NwXjEQybZqx3hsR6BxcVNX0NhrWegtIDY1CGlmKk45Hj28YXoTRh01dlOmL/kVzv9pMVtZiaJiSs+8FL4DjypiGj2BwQ3/rlFlDCuG3z7hscMZsB+nifV7VfZDVDGxpTk46CrNV7upZtKPAVlhn4eps6gClljbZcHM6D3Ag1LZ1R6XGfQ+5pYoPpUG/Mx1tzFu177rdZepqS4Mqe1/I/mkEgs/Dd520ZsX8Al1uA/x5blprxdlmQlKf+PuJ18kk3vq5mZIKr3RlRW45r4LIDnE3Z2CWMX0Rl7Xo=;hIRQUmgHpCas+UKzLD7lIA=="
+secured: "l71lbdoqGrPte84g6STz2V4MTn5rkxcLkFoFQ4NXghcR27DeI32/njUEY2MiRQL+mhRl7yqjZvgc78iPEW9jhNY8OPmx1XMto8+Ba1IUS/MQESJQG1jCUz3ZGXrhrtYguAxZa+i5QK/P8Dm7zH6F9a7RKg3RBb9nUwoF7RjDTedZiS4uH9ACrvJdE347mZFLHtxjgE0LUsXstWcPr/JxGD3A8D1GebBR4cTYpi7d5VINbCyJdo1YYMKW2PXXgb9I73ZADdqkuBz0jUL6VOpZs91Z8SWLry+qmfG/G35rjRLdjurelsvokZES6GqdtX4edsUUvFxPqQoRxMxLYocoSzrjDMehygc9ivWuDgWtpXAttmf0VnhkZvVxNyKPonSaeoabjBS13YHqYvMC5r22AfHCI5KWyilGSbQoCmc18cKrmU4c1nphZwKk35AmZoHO5cupV7fZ7NYoNfxGOD4YFC111LC6YFs9HPZDeGi+DRDypSSHQA7XceB4g1B0Byoveu7Ul22zDeIxIyn2EhhHjw==;Eq8DmGe1fxoADrsJFV+o3Q=="
 ---
 

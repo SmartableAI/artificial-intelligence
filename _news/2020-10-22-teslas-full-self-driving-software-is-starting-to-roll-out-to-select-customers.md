@@ -79,6 +79,22 @@ related:
         width: 2540
         height: 1150
         isCached: true
+  - title: "Tesla's Full Self-Driving mode under the watchful eye of NHTSA"
+    excerpt: "The US government agency said in a statement it plans to keep a very close eye on Tesla's new system as it reaches more drivers."
+    publishedDateTime: 2020-10-22T19:41:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-mode-nhtsa/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-mode-nhtsa/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-mode-nhtsa/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of"
     excerpt: "For the lucky few selected to experience \"Full Self-Driving\" or (FSD) on their Tesla vehicle, Tuesday night is the night. Tesla CEO Elon Musk tweeted Tuesday afternoon that the autonomous mode ..."
     publishedDateTime: 2020-10-20T23:25:00Z
@@ -110,6 +126,22 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
+    excerpt: "Tesla on Tuesday night released a beta, or test version, of what it calls a \"Full Self Driving\" software upgrade to an undisclosed number of \"expert, careful\" drivers."
+    publishedDateTime: 2020-10-22T18:50:00Z
+    webUrl: "https://www.cnbc.com/2020/10/22/teslas-new-self-driving-software-release-closely-watched.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/22/teslas-new-self-driving-software-release-closely-watched.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/22/teslas-new-self-driving-software-release-closely-watched.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 84
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106555483-15906759672020-05-13t014453z_710781449_rc2dng93w4em_rtrmadp_0_health-coronavirus-tesla-texas.jpeg?v=1600783514"
+        width: 3500
+        height: 2333
         isCached: true
   - title: "Tesla says it's finally releasing 'full self-driving' software after it had to 'rewrite everything'"
     excerpt: "Tesla has bucked every trend when it comes to autonomy, sometimes with deadly results. This release is being done \"extremely slow & cautious.\""

@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/ai-outperforms-humans-in-speech-recogni
 webUrl: "https://www.miragenews.com/ai-outperforms-humans-in-speech-recognition/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Transcosmos releases \"transpeech2.0,\" the latest version of its speech recognition solution"
-    excerpt: "transcosmos inc. is pleased to announce that the company has released \"transpeech2.0,\" the upgraded version of its speech recognition solution designed for the contact center industry. Equipped with five features, adding newly developed \"Quality Control ..."
-    publishedDateTime: 2020-10-22T07:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/p18008712/transcosmos-releases-transpeech2-0-the-latest-version-of-its-speech-recognition-solution"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18008712"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008712"
+  - title: "Researchers find high error rates in commercial speech recognition systems"
+    excerpt: "Some automatic speech recognition (ASR) systems might be less accurate than previously assumed. That’s the top-level finding of a recent study by researchers at Johns Hopkins University ..."
+    publishedDateTime: 2020-10-22T18:15:00Z
+    webUrl: "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/"
+    ampWebUrl: "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/11/echo-dot-e1572284967494.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "HtiS8N35y8KizAhMXuFJFl6FPZWRZPjvk2t8p0v4nrzPU8JZXAgce8agnlAVRwUmVLxaXgfY6A2tKos5rgmeyiP4s4vNxmKYzE21ghxJRPjQAaMEYkw+YR8LK+ze6PpyfqNlxnVVHp3MFG0a86fLKnFAiErl2V9gR8lPJea+AcCJiAOaL1MnXFqFkpEouJgCUnpSeVqsqhP8+oRiF2ZC6vj26Y1cACpfirVJtuX86IZabXiTEjbxWsjbdNNqolysiHSnwMgoFsGJToMaUgRg+K5AownjB17283DiO2S1TwNUfKxHxo7Bcq7dwa0e1S4XSgv9bBUqn1nA1qDha6muW1C3wshZ+37PtIKD1SZcGYLEQNVrbBWLo6JSFiOfzHKkD61ZaNAftjyuXpYY2Sl4gL7N6jk8qTh5PQ90GSj6Hn9lUY7lOyoc1LQuraOIps7EmHB5IX47YeimPmJEXj+q9FzQVTggsus7hXvr13X5S/3BTybihdT3TMi7QWFleM8L3qgg1weoW6O++rl6AdsXLg==;Xa4VbB06pwtzJ8CErOq5eg=="
 ---
