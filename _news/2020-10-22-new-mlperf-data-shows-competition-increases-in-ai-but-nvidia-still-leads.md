@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-da
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/"
 type: article
 quality: 90
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/NVIDIA-A100-Press-Graphic.jpg"
         width: 2000
         height: 1296
+        isCached: true
+  - title: "Nvidia AI Computing Platform Trumps Performance Records on MLPerf Benchmarks"
+    excerpt: "NVIDIA Corporation (NASDAQ: NVDA) reported that its AI computing platform has outperformed its performance records"
+    publishedDateTime: 2020-10-22T16:43:00Z
+    webUrl: "https://www.financialbuzz.com/nvidia-ai-computing-platform-trumps-performance-records-on-mlperf-benchmarks/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 36
+    images:
+      - url: "https://www.financialbuzz.com/wp-content/uploads/2020/10/shutterstock_638342005.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "STC partners Nvidia on AI computing infrastructure"
     excerpt: "Saudi operator STC said it;s working with Nvidia to build Saudi Arabia's first AI and deep learning cloud infrastructure, enabling domestic enterprises to adopt AI. STC is joining the Nvidia Partner Network (NPN) and will be the first cloud service provider in the region to bring AI capabilities to the"

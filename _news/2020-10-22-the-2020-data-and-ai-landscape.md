@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Impact of Artificial Intelligence on the Law"
+    excerpt: "New York County's cases are now available for legal analytics. Machine intelligence is increasingly important to lawyers."
+    publishedDateTime: 2020-10-22T17:01:00Z
+    webUrl: "https://www.forbes.com/sites/calumchace/2020/10/22/the-impact-of-artificial-intelligence-on-the-law/"
+    ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/22/the-impact-of-artificial-intelligence-on-the-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/22/the-impact-of-artificial-intelligence-on-the-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f919a1f3bbe04db2a9082f3%2F0x0.jpg"
+        width: 1200
+        height: 872
         isCached: true
   - title: "Changing the Face of Financial Advice with Data and AI"
     excerpt: "It also provides a personalised update of my total financial situation, including recent transactions in my current account. In my inbox, there’s a synopsis of curated financial stories aligned to my goals."

@@ -140,6 +140,20 @@ related:
         width: 2000
         height: 1296
         isCached: true
+  - title: "Nvidia AI Computing Platform Trumps Performance Records on MLPerf Benchmarks"
+    excerpt: "NVIDIA Corporation (NASDAQ: NVDA) reported that its AI computing platform has outperformed its performance records"
+    publishedDateTime: 2020-10-22T16:43:00Z
+    webUrl: "https://www.financialbuzz.com/nvidia-ai-computing-platform-trumps-performance-records-on-mlperf-benchmarks/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 36
+    images:
+      - url: "https://www.financialbuzz.com/wp-content/uploads/2020/10/shutterstock_638342005.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "w8ojMpyQC+vgVfsT7WoouWTKnpLVvCf1XyIO2gdaRqwHZHkKTcMAnQ2l38mwQhvsm8aWr8J0k12YkE+6eFnD2Dzt0J7xibGOm5Jiig6kZ4xpPAfvTRgduCSq78il9HImw6NxCbLRJBL/KxT4E+Af54FEiiD2sK/fPLQw/SbIssZkXuJS58fqBXKKzGTKD4kO50Ox7g6t/pA7HdyRYFtplVvZl8GTSl7W7WHiGbIiJ1UaMB0bd1ul9t8Tatjrx9lDNcRlXyhkvVcCl7vxhjMCpOsQdOT5s1lagAxlwjQF1FhqTPln1T8/2NGuJsYmSm3Ac4bhKzYfbrefCrk1cvkiaTQbpWs5LvziBi8A8IhH6/o=;cVU44OlBQqo2BLJCu8HOyw=="
 ---

@@ -75,6 +75,22 @@ related:
         width: 798
         height: 482
         isCached: true
+  - title: "Microsoft and MITRE release framework to help fend off adversarial AI attacks"
+    excerpt: "Microsoft, MITRE, and 11 other organizations developed a framework to help fend off adversarial machine learning attacks."
+    publishedDateTime: 2020-10-22T17:23:00Z
+    webUrl: "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/"
+    ampWebUrl: "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
+        width: 1200
+        height: 573
+        isCached: true
   - title: "Microsoft Azure Modular Data Center looks to provide a connection anywhere in the world"
     excerpt: "Microsoft has launched a portable, modular data center that should enable individuals to access cloud computing services from almost anywhere in the world. The Azure Modular Datacenter (MDC) can augment a user’s technical capabilities,"
     publishedDateTime: 2020-10-21T14:15:00Z
@@ -91,6 +107,17 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
+    excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
+    publishedDateTime: 2020-10-22T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
   - title: "Microsoft to take Azure to space to enable cloud services in remote locations"
     excerpt: "The new connectivity will help bring valuable customer data from geosynchronous orbit (GEO) satellites directly into Azure, Microsoft said."
     publishedDateTime: 2020-10-22T06:28:00Z
@@ -106,6 +133,20 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/jaruvu/article32915715.ece/ALTERNATES/LANDSCAPE_615/MicrosoftAzureSpace"
         width: 615
         height: 384
+        isCached: true
+  - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an"
+    publishedDateTime: 2020-10-22T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/522775/Congruity360_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
         isCached: true
   - title: "Wayve chooses Microsoft Azure to scale AI-based autonomous driving technology"
     excerpt: "Wayve, the London-based company that’s developing artificial intelligence software for self-driving cars, has signed a deal with Microsoft to use Azure. The UK business, which is at the cutting-edge of autonomous development and is seeing strong growth ..."

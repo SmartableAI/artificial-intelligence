@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "5th Africa Fintech Summit to be held virtually"
-    excerpt: "The fifth Africa Fintech Summit ( will be hosted virtually this year through the Accelevents ( platform on November 9th, 10th, and 12th, 2020. The Summit takes place at the backdrop of the global COVID-19 pandemic that has brought unprecedented need for digital trade & finance and positioned fintech as key to economic recovery."
-    publishedDateTime: 2020-10-20T12:03:00Z
-    webUrl: "https://guardian.ng/apo-press-releases/5th-africa-fintech-summit-to-be-held-virtually/"
-    ampWebUrl: "https://guardian.ng/apo-press-releases/5th-africa-fintech-summit-to-be-held-virtually/amp"
-    cdnAmpWebUrl: "https://guardian-ng.cdn.ampproject.org/c/s/guardian.ng/apo-press-releases/5th-africa-fintech-summit-to-be-held-virtually/amp"
+  - title: "Fair Isaac Corp.: One Of The Greatest Fintech Stocks Of The Last Decade"
+    excerpt: "While the company is best known for consumer lending and assessing consumer risk through its FICO score, it has become a top FinTech innovator involved in business automation and AI, data ..."
+    publishedDateTime: 2020-10-22T17:44:00Z
+    webUrl: "https://seekingalpha.com/article/4380617-fair-isaac-corp-one-of-greatest-fintech-stocks-of-last-decade"
     type: article
     provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 24
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2020/10/16/39580-1602857932707266.png"
+        width: 640
+        height: 396
+        isCached: true
 
 secured: "ehpooByEc9ydZi68PlTUoxt9gjsv8yYdN64VbKWuXiowpw2UZJGhWcvynQx5xNOT+4zBtJbs5xpA/vFjyBEwYJZOo2IbMFWO3+sFU6olt3/+KXlWXPLDROZKdujjNyA9/Y+Duy5j/firQSbsms2knMa6jSKgHOEEqfL302PdyZ3IicWzMUnXOHXGZbLKne48hDASDB/8tmWZ5XSWFLjpalQxjCUqQU8KM1HLyrToUy9OO8gfUSkXq2vtvhN9o3RauYpGeyz3bCXY41SDLFce+/lXOBg8RLAjcDUBVgZSZwH+YLSls5yPm/S5zOoGtAVRO8CYw1kZs00jFrRv5Tce7MUZJAWLSKbD3ED5Uju/CZA=;FBU1fszZGOySSQbD+hxRIw=="
 ---

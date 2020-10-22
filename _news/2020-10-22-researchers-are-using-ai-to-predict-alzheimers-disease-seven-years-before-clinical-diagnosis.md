@@ -57,6 +57,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
+  - title: "AI Assesses Alzheimer’s Risk by Analyzing Word Usage"
+    excerpt: "Artificial intelligence could soon help screen for Alzheimer’s disease by analyzing writing. A team from IBM and Pfizer says it has trained AI models to spot early signs of the notoriously stealthy illness by looking at linguistic patterns in word usage."
+    publishedDateTime: 2020-10-22T16:49:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-assesses-alzheimers-risk-by-analyzing-word-usage/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/25C59FDD-7B25-48CD-BBB1F5E0FF50E461.jpg"
+        width: 790
+        height: 496
+        isCached: true
 
 secured: "aW0l9NPzgxD7Gh7zO7R0HGNkFgNM/o3yJXOMYQaAJiwfFmZT2djbPq10Woy++QxZ0W5nV6Gt7OOgb8Nqgqsr2gOIuZEV3JadXbciQnXHa9aDtu7gU01wbr+QoyUQ9U4MBJYQ9VaJF5U5nhAEwfQboCO+/poMkM6Q0+dvK/Ar+wY5b47mLi7KolYxoWZ83MxJUtuUKWbokYZlgLX5W1/0rZO7nAK+UHXCsVw/pcbPgKXBv8vJyfegO1Ls5kLDOvin+FwkxTqfBbTF3gG/S1f2kMKw41Q1NTrnlgUOrrC3BLIoRpy8J1i9DfLQHfNwh4LTtX8PxxDTkm4QMMG0afwXal0cMGdHHWyflbhCm+VyMAs=;+LILAip4MDqCW/Uluu2RQg=="
 ---

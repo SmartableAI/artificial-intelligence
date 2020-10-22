@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,7 +57,21 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
+  - title: "AI Assesses Alzheimer’s Risk by Analyzing Word Usage"
+    excerpt: "Artificial intelligence could soon help screen for Alzheimer’s disease by analyzing writing. A team from IBM and Pfizer says it has trained AI models to spot early signs of the notoriously stealthy illness by looking at linguistic patterns in word usage."
+    publishedDateTime: 2020-10-22T16:49:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-assesses-alzheimers-risk-by-analyzing-word-usage/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/25C59FDD-7B25-48CD-BBB1F5E0FF50E461.jpg"
+        width: 790
+        height: 496
+        isCached: true
 
-secured: "ddqTigi0SGiY0N1OclHiQeudoK9tKaXo3C0Ux2rukg5Px/JBqVImRRUACi5FzW/V9xdUkJ1aOb2nx2ZEGlsOyP1hEXChJU/CQPdlwb7fpp6k23R3CxOEVraHPZw97M0HFlyp2igTtWC4HT/X9jkEnFW2BlWGO8YhcmKMXS571JA3OB68nB/zT4neWFWuX+Owycc0ORflZf9OzQuel1UGHKnvZXTwf7Clgbm3xqyxNnD4wJch8XjkqQSqJWjeyAu+5CAx60TS7EhL7Fi95gR17YFbgxOQXTesGYT/6MMf91KtXqOeoH/vyTFlBypiZfT8p4FmTSZWFmwETe2dKyirc0XWi/UUtmtAtbaU41lrwoI=;HHNDrKSI/DkbhJXzw1bGBg=="
+secured: "lRarZamVqGNdiQxFW32CcdFZANgbmby/ezb2M2+TrD3palNFj7J44WJepOh2GqGYYDnxwLii8a1QggWmvRxMV+eWY5PiFTTl9z5129nYuQNecB15L2q+55CqrAHXH5DLjEtNM6u1rEQoTRtT0+q8I+Z6n1c6Z3btZwoM0w8asPyPDP5OEpeLITzx3BnUgFDEgMJGFfKYy4KMyhpgkUJV6rYyDpnPDidvvP6tgyiBzbMRko6GaPO2Aflw+4Eor++p3dgCBBd/yE8AnkrBVHgTebcEj6reO8ml6DnTynHTAZbHWTsuMSr1C51QvHK6AoYL90SzbZWYMICX2NqF4d/6Xq+aullrt8PiplEKja1yGHBR7kg3JBm+h+S2phyYxu5QBHOS4HOJvnuNKdlNKyDIbcizmKmjKyZ+JUvb0tVC+ZATGS7qhD90LAMWqVS64kSIlqMRog2rITo8hdd59U6PEnyg7DZYgQ7uYkkaqW1HUEydyWHhuyZoR5mG7zMpruJYi+A68X49OBnWtlqreP0Ztg==;wu8IYKLFv5d3KStrqPYLfw=="
 ---
 

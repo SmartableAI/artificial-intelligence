@@ -25,17 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless Race Accelerates: Who is Leading the Game?"
-    excerpt: "Here’s a rundown of the key players in the driverless car race and their efforts toward achieving the goal. Waymo: Alphabet-owned self-driving car company, Waymo — which started its autonomous mobility journey in 2009 — is still the one to beat."
-    publishedDateTime: 2020-10-20T14:46:00Z
-    webUrl: "https://www.nasdaq.com/articles/driverless-race-accelerates%3A-who-is-leading-the-game-2020-10-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/driverless-race-accelerates%3A-who-is-leading-the-game-2020-10-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/driverless-race-accelerates%3A-who-is-leading-the-game-2020-10-20?amp"
+  - title: "We've been promised driverless cars for years. So why aren't they on the roads yet?"
+    excerpt: "Despite a lot of hype and many promises, putting driverless cars on the roads, as it turns out, is a difficult undertaking. Self-driving hub organization Zenzic, which is a joint effort between government and industry,"
+    publishedDateTime: 2020-10-22T12:15:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/13/3dd027e3-df63-48aa-9f7b-a52085ce2608/thumbnail/1200x675/28f68dbe4aac725bdde398611a98bbd9/20200313-daphne-karen-winter.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fleet of six driverless Ford Mondeos to be tested in Oxford for the next five months"
+    excerpt: "Technology firm Oxbotica, spun out of an Oxford University project, has retrofitted the vehicles which are following a nine-mile round trip within the city."
+    publishedDateTime: 2020-10-22T10:26:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8867533/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8867533/amp/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8867533/amp/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 52
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/22/12/34703790-0-image-a-15_1603364583923.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "Hn9PtG56rM1RJ8hs59UnYN2JenZ3yq6SwqICDelTNehuqhGORbbPEb0KJ6IKp6J//6U0ejVZxflggXoQaZGfHNiqe6P44jC9dYABDq0fEr3055mzIh0n2jugCuS92MIar+Y3tlAWCtu+RGdj6aWV2mAWqU4T2O5yOWdsItqDWMKKQZtIaUjsOBlS8UYmxR18lkpQzV9t4FfBuLPbNTz/dw3xRCzKxvnjG8v63AU5hZ47/0NhzBF6N08YpPvrU4BZPs7w8Slzjx8DNojZ72i+3z23hVD3rhK2a4tq0iQOCPL1MDGdpiRrPH4GSy7DtQJ/n/0mL0R+YOy76tIhc7BEq1D7Gx8JxPjl4kTtVfabt8j3QrwxtoDd3kpn916d5rHO2n7eHNONKES2NfxDJKWKrquamlo0vYwusw+a91/vNBJlzocBWadNzRBkVb+JKBlCgMKxfB/6jgIpz9aGr6e9qxRTiSXDPr58MW+kNH3ykf/DXgce7HbI2t771F0mG9fesXa/GJVYPtc08po3pDYx2g==;dDxFaqy7eEBp3r7OMwJqqg=="
 ---

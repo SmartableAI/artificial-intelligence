@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google to supply artificial intelligence to CBP for Trump's virtual border wall, report says"
+    excerpt: "Google is reportedly allowing its artificial intelligence technology for the Trump administration's \"virtual\" border wall. The move comes nearly two years after it controversially ended its work with Project Maven. Continue Reading Below According to The ..."
+    publishedDateTime: 2020-10-22T16:48:00Z
+    webUrl: "https://www.foxbusiness.com/technology/google-artificial-intelligence-trumps-virtual-border-wall"
+    ampWebUrl: "https://www.foxbusiness.com/technology/google-artificial-intelligence-trumps-virtual-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-artificial-intelligence-trumps-virtual-border-wall.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 46
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/233eac27-Google-Sundar-Pichai-antitrust.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google AI Tech Will Be Used for Virtual Border Wall, CBP Contract Shows"
     excerpt: "Google Cloud will be used in conjunction with Anduril Industries’ surveillance tech on the U.S.-Mexico border."
     publishedDateTime: 2020-10-21T19:12:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/driverless-race-accelerates%3A-who-i
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/driverless-race-accelerates%3A-who-is-leading-the-game-2020-10-20?amp"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Nasdaq
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Driverless cars: what technology do they need apart from being “driverless”?"
-    excerpt: "The concept of “driverless” had existed for decades, and as time went on, it became a reality. And it is emerging to be the norm in the next decade. Especially because of"
-    publishedDateTime: 2020-10-20T14:14:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/10/20/driverless-cars-what-technology-do-they-need-apart-from-being-driverless/37493/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 36
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/Driverless-Cars.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "TVI2pkC4CmtCpOVmw1Ejt6JWaU8jOWnyq8G6blQgq9BgGS7RNnSIGWZSt9qKz438zsa//gMN7txB5D9G7Z0jsWn44fjqyv8be5b4zTsCpLM2nvDgRMhH1vMjt6z1kqSlarCn0CTxHKJlpcKO4upykLjEiNvjK8RLFKhrca+b+k+KSlkyNGZpHPcdC65rTigmee0IK+xxoTtYzF6dmDXDA07bd9sL9dV4ULeU/BTQZpDKxxM0uIuURFrcHnqYjtC0e6edAP9+lM+EnsBT7m6QQGIuIEc0YBVh54GI6uHNc3EJNhYwamMhMTpNA5Qu1VbMyJSdVN7wclRU6kQX2uNWppvbS9g27kfjRckyU49OsgI=;UyCY24hVzWp2sjbluH9Frw=="
 ---

@@ -3,13 +3,13 @@ category: news
 title: "We've been promised driverless cars for years. So why aren't they on the roads yet?"
 excerpt: "Despite a lot of hype and many promises, putting driverless cars on the roads, as it turns out, is a difficult undertaking. Self-driving hub organization Zenzic, which is a joint effort between government and industry,"
 publishedDateTime: 2020-10-22T12:15:00Z
-originalUrl: "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
-webUrl: "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
 type: article
-quality: 63
-heat: 73
+quality: 83
+heat: 103
 published: true
 
 provider:
@@ -23,6 +23,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/13/3dd027e3-df63-48aa-9f7b-a52085ce2608/thumbnail/1200x675/28f68dbe4aac725bdde398611a98bbd9/20200313-daphne-karen-winter.png"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Fleet of six driverless Ford Mondeos to be tested in Oxford for the next five months"
@@ -41,7 +47,21 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Driverless cars: what technology do they need apart from being “driverless”?"
+    excerpt: "The concept of “driverless” had existed for decades, and as time went on, it became a reality. And it is emerging to be the norm in the next decade. Especially because of"
+    publishedDateTime: 2020-10-20T14:14:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/10/20/driverless-cars-what-technology-do-they-need-apart-from-being-driverless/37493/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 36
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/Driverless-Cars.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
-secured: "k8Ln/AnEZ2ZxHj8CiZsxMikQF9WvnmgqwsGRtxU2oucaaxVCAOfVPWYLqqYNB4g1farg+LUn+d+s15aSpIIvZjC6Bn8DiEnJYHVIcyg4jQxTbDMkoUQijnooZ2vMTtLGNCkfmBwnxQ0rT3XLmHLh2OKs+QtXONbcte9+G3gwcZ3n5F4R9hVA1YIr45NF7IsG5m6jG3mXCUXODHtr0EQSYYjRRpl4C4f7/nrEIqCfKgpZSjlhCudtfBWla6x7Hk1tzpLGLgzawtl9gah2/46VoDPnC6/DY4jbMkwSXLuWxb7VeAvzjJGZ7EdHG+Z4lmp1wprZm/+4oBZrsnwKuSkZf2vokEB4ohBctQ7JhchtYx5iN0TrNA6WurNzaIqNzb9DU3ySJU81ArzyHEaM9w6xr+bauZMn2oJdycYZbFXkATacO6l/OD8EZ43Akc/YxY6pp6Oz7/ArT/9RwqxAIvafyHztxDUq6zDDhmG8oL2H+oWSRlF965EMldX91fDxJivLiG1/ODfRzWpF6XVn20MOrg==;MUxrNKspOYjNJDdRx7h5kA=="
+secured: "hIyvKCOGwjDfJtDiP/4Vnqhc72lWuUw/9eDT8glEsPxc2jk4QXtqovc6otPgmUPOS2gyWV0MPGh9Opzqi5rs75E6AEnB1kL0S838xF+DYzGaixMQptJLLgsfvzuEfhUhBHeppesxuqn1MsQkSUdxKVYW+RWtFht4qmpejXnck6g7IlbgN3Q8kDgWqpxVQMh5VDsAO7G2s0BOmO4n8H6DsYKyl194Kz9M5PVkd3axrin+sXtOUxXSkHR1xXd02UoDtyNE/NP48E61e+RD5AUQVEh/1dOvCROdRZ7ZwyV8JbuaTf78doyk5bu4cwQnqpm1sx3a0tNcduXIGx6w7LBpdcSzW5aY+pEyrZsok/H4Krk=;Vuy6iWxAnJgMpAnlSx/S5Q=="
 ---
 
