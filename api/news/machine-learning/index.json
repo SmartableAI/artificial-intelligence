@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-22-the-2020-data-and-ai-landscape.md",
+      "title": "The 2020 data and AI landscape",
+      "excerpt": "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
+      "originalUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
+      "publishedDateTime": "2020-10-21T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials.md",
+      "title": "Ben-Gurion University Researchers Develop Machine Learning Platform to Streamline Clinical Trials",
+      "excerpt": "Gurion University of the Negev (BGU) have developed a novel platform to streamline clinical trials, lower costs, and increase the efficiency and success rate of the drug or medical device development process.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials-1029704317",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials-1029704317",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1317229/BGN_Technologies_Boaz_Lerner.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-mit-seeks-to-resurrect-dead-languages-with-machine-learning.md",
+      "title": "MIT seeks to resurrect 'dead' languages with machine learning",
+      "excerpt": "By implementing a new translation system and a bit of detective work, researchers hope to give old indecipherable languages a new voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "originalUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/oIgSdZTaU-UxA48WUT70KtAh2ZM=/1200x630/2020/10/21/bbfec165-3dcb-4d55-b8aa-493c200f8cb2/gettyimages-1131558568.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "publishedDateTime": "2020-10-21T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
       "title": "Neural pathway crucial to successful rapid object recognition in primates",
       "excerpt": "MIT researchers have identified a brain pathway critical in enabling primates to effortlessly identify objects in their field of vision. The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain.",
@@ -107,7 +263,7 @@
       "originalUrl": "https://www.theverge.com/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1095,7 +1251,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1257,135 +1414,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
-      "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
-      "excerpt": "RADAR satellites can collect massive amounts of remote sensing data that can detect ground movements—surface defomations—at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.html",
-      "originalUrl": "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/35-deeplearning.jpg",
-          "width": 730,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.amp",
-      "publishedDateTime": "2020-10-14T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-makinarocks-research-published-by-deep-learning-sectors-premier-conference-iclr-2020.md",
-      "title": "MakinaRocks research published by Deep Learning sector’s premier conference, ICLR 2020",
-      "excerpt": "MakinaRocks (  a startup specializing in industrial AI solutions, announced on October 13th, the success of their RaPP-based anomaly detection research paper, selected and published by the International Conference on Learning Representations (ICLR),",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e/gallery/afc3d835fc99d2f97122f85de43642a3",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e/gallery/afc3d835fc99d2f97122f85de43642a3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-new-deep-learning-models-fewer-neurons-more-intelligence.md",
-      "title": "New deep learning models: Fewer neurons, more intelligence",
-      "excerpt": "An international research team has developed a new artificial intelligence system based on the brains of tiny animals, such as threadworms. This novel AI-system can control a vehicle with just a few artificial neurons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

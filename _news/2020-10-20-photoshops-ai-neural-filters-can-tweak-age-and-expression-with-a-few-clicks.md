@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/20/21517616/adobe-phot
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning"
 type: article
 quality: 88
-heat: 169
+heat: 168
 published: true
 
 provider:

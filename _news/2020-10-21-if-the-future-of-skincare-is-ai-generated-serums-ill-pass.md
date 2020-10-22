@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481/amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Artificial intelligence, humanity, and the future"
-    excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
-    publishedDateTime: 2020-10-18T01:24:00Z
-    webUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future"
-    ampWebUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
-    cdnAmpWebUrl: "https://www-sturgisjournal-com.cdn.ampproject.org/c/s/www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
-    type: article
-    provider:
-      name: Sturgis Journal
-      domain: sturgisjournal.com
-    quality: 59
-    images:
-      - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
-        width: 680
-        height: 931
-        isCached: true
 
 secured: "BqRiJUsaTETJK/GKinqkorEzWqxTwZ3YmC/T0lbDYnevQxMhYKZcj5JmTU3oLEC6aGkISN2o7Xr1menV7Pb7V++ZcdXzY6vPDyYG7KWFm9/tS5zxK71rJBg9bw8WO+6hUHCo/UmYMLwMKvM6NX0FXeJL4REz1D/BBP71CE9CFBUE0QSTTmGJZaUXXrBUcZBXvdZngqyth0a2TL+OUfv+aD5lMOPyLd+H8qNhLyShVSexJqPPCTfQeaaPLk6r9v0AWmH7KyfThuHQiqHeaOkqIzgk+jfRfaPCk9znLPsEtzqeJWsePWT5KHIaUKzoKmvT8bRuDAP98nVvs9Yc2MEA8D70z+Fkhl1lxOxKLlC1Ef+tAnNt3wpVfm3kEWdojVAIN42oS2pBypydxrRj0mmEWh/CWcxQC/KVnfpAEHUzjRC1QKt+p3hJJioG0fQcioA9jpnp0gmBJAJN5D6rp1D3Tw3NXhESrFUa75jQ5QaXReZ5/6YI6aSKfkbQvsWubM8DUocaCoOTnRaKFT4+Jnzntw==;d3qemtcEAUGJmSBW0jvSgA=="
 ---

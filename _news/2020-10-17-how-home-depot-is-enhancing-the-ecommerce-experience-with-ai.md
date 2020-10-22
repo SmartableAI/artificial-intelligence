@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Changing the Face of Financial Advice with Data and AI"
-    excerpt: "It also provides a personalised update of my total financial situation, including recent transactions in my current account. In my inbox, there’s a synopsis of curated financial stories aligned to my goals."
-    publishedDateTime: 2020-10-19T17:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19"
-    ampWebUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "The future of user experience design starts with AI"
     excerpt: "We all experience the world through our own subjective lens. But when it comes to user-experience design, most companies choose a one-size-fits-all approach. Salesforce, best known for its customer-relationship management platform,"
     publishedDateTime: 2020-10-20T14:00:00Z

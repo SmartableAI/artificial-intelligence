@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 1296
         isCached: true
-  - title: "Changing the Face of Financial Advice with Data and AI"
-    excerpt: "It also provides a personalised update of my total financial situation, including recent transactions in my current account. In my inbox, there’s a synopsis of curated financial stories aligned to my goals."
-    publishedDateTime: 2020-10-19T17:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19"
-    ampWebUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
 
 secured: "wFVBjruMM5/T36i1Zq7j4FbNAQypUer2KDHmBXCbtoiazo8TOwPR8Aw68kgxp4wedPrDTcOh5kdpg0lRRbku9lycqJHWJTr5ikvM80AsrkkwUallOSk/xgPwNKna2qzqj+xwnYdGvOEUPu/PU6rDpF4vcrg3vAbjO17Q5dgd3p7a+GqdhhputyBb2hMpnzLHrQFANPE7eLvBba1BO6qQJKMSVv5Km9+6sup2WZzhIr2FGheIPXIjDF/L4PYn6ZAwjbwS0/4Zl4WQw3HIPsZva/Rpp5EkzFbbzc01LV8Fwi0Y1QKrPWJyRN9yDiwDP37lIisHYtgg9ZVe9/055h7cR0XgsROaGmZckyqIZ/lPKX/p8QwSXRClVZE4RBbqilIUr4DFm4jp/ze6WsqWKHIkY3w44M1/h0T47G6MhobrFV3/tPnQXpXXK7lHSm+XYWFJTeXfyvKC82wG082UxvHmU5lNblVKsMOS6SmK6Q0N1I60VpHDLCYBYDmFMs4fZZo+tl74svelVJXHx/g0abhu1g==;AkNV0DuSHzO5+vjZVCQTpQ=="
 ---

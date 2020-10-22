@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/"
 type: article
 quality: 74
-heat: 125
+heat: 124
 published: true
 
 provider:

@@ -2,6 +2,246 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-16-fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit.md",
+      "title": "FDP on ‘Artificial Intelligence in Natural Language Processing’ inaugurated in KIIT",
+      "excerpt": "Faculty Development Programme (FDP) on ‘Artificial Intelligence in Natural Language Processing’ organized virtually by The School of Computer Applications, KIIT Deemed to be",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/",
+      "originalUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/2.png?fit=606%2C342&ssl=1",
+          "width": 606,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/?amp",
+      "publishedDateTime": "2020-10-16T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-norway-pioneered-electric-ferries-now-its-making-them-self-driving.md",
+      "title": "Norway pioneered electric ferries. Now it's making them self-driving",
+      "excerpt": "Norwegian startup Zeabuz has created a zero-emissions, self-driving electric ferry. As more cities look to boats for clean and cheap transport, autonomous ferries could revolutionize urban waterways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/travel/article/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
+      "originalUrl": "https://www.cnn.com/travel/article/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200827174138-zeabuz-electric-passenger-ferry-super-tease.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnn.com/travel/amp/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
+      "publishedDateTime": "2020-10-16T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-3-ways-small-businesses-can-quickly-embrace-ai-without-big-data-or-programmers.md",
+      "title": "3 Ways Small Businesses Can Quickly Embrace AI Without Big Data or Programmers",
+      "excerpt": "When AI was first launched, it was perceived as a technology that could revolutionize business models by creating a full understanding of a clients’ profile and their needs. It would be a must-have technology for large businesses to boost their balances ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/357286",
+      "originalUrl": "https://www.entrepreneur.com/article/357286",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602691077-GettyImages-1206801125.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357286",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357286",
+      "publishedDateTime": "2020-10-15T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-ubers-self-driving-car-business-has-fallen-behind-waymo-and-cruise-heres-why-the-ride-hail-giant-might-give-up-on-atg.md",
+      "title": "Uber's self-driving-car business has fallen behind Waymo and Cruise — here's why the ride-hail giant might give up on ATG",
+      "excerpt": "After the indictment of a former executive and a fatal crash, insiders, investors, and experts question whether Uber ATG can turn things around.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10",
+      "originalUrl": "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f886decd260780019341961?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp",
+      "publishedDateTime": "2020-10-15T18:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-san-francisco-based-startup-uses-ai-powered-technology-to-limit-wasted-time-at-work.md",
+      "title": "San Francisco-based startup uses AI-powered technology to limit wasted time at work",
+      "excerpt": "Would you try this? San Francisco-based company says their calendar analyzer can target the wasted work time by tracking your schedule.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/",
+      "originalUrl": "https://abc7news.com/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/7060187_1015220-kgo-woman-on-computer-img_Image_00-00-05,10.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/work-from-home-productivity-covid-19-coronavirus-clockwise-company/7055961/",
+      "publishedDateTime": "2020-10-15T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-cascadia-capital-bets-big-on-ai-robotics-and-automation.md",
       "title": "Cascadia Capital bets big on AI, robotics and automation",
       "excerpt": "Cascadia Capital is betting big on AI, robotics and automation. “We think it’s where the world is going,” the CEO says.",
@@ -277,58 +517,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-cambridge-technology-attains-aws-well-architected-partner-status.md",
-      "title": "Cambridge Technology Attains AWS Well-Architected Partner Status",
-      "excerpt": "Cambridge Technology Inc, a global business & technology services company, proudly announced that it has achieved the AWS Well-Architected Partner status, recognizing that it has the expertise to deliver Well-Architected reviews for existing application workloads or new applications based on AWS' best practices and guidelines.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-technology-attains-aws-well-architected-partner-status-1029686508",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-16-gm-will-test-fully-driverless-cars-in-sf-later-this-year.md",
       "title": "GM will test fully driverless cars in SF later this year",
       "excerpt": "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ...",
@@ -377,6 +565,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-cambridge-technology-attains-aws-well-architected-partner-status.md",
+      "title": "Cambridge Technology Attains AWS Well-Architected Partner Status",
+      "excerpt": "Cambridge Technology Inc, a global business & technology services company, proudly announced that it has achieved the AWS Well-Architected Partner status, recognizing that it",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-technology-attains-aws-well-architected-partner-status/article_b752153b-13ff-5dc5-8e3d-2ade530b22ab.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-technology-attains-aws-well-architected-partner-status/article_b752153b-13ff-5dc5-8e3d-2ade530b22ab.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/b4/4b414b6f-ab7d-515f-8cdc-57b31e971160/5f88c7e59e6f7.image.jpg?resize=400%2C209",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -948,238 +1179,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes.md",
-      "title": "New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes",
-      "excerpt": "Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/",
-      "originalUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/schematic.png?w=1024",
-          "width": 1024,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/",
-      "publishedDateTime": "2020-10-15T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-velodyne-is-poised-to-be-a-winning-self-driving-play.md",
-      "title": "Velodyne Is Poised to Be a Winning Self-Driving Play",
-      "excerpt": "And both advanced driver-assistance systems (ADAS) and fully autonomous vehicles are poised to proliferate in coming years. Thus, Velodyne’s financial results are set to surge long term. Velodyne CEO Anand Gopalan told Bloomberg that the company’s customers have “tremendous momentum” when it comes to commercializing their ADAS and autonomous-driving systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15",
-      "originalUrl": "https://www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/velodyne-is-poised-to-be-a-winning-self-driving-play-2020-10-15?amp",
-      "publishedDateTime": "2020-10-15T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-worlds-fastest-ai-supercomputer-is-coming-to-italy.md",
-      "title": "World’s fastest AI supercomputer is coming to Italy",
-      "excerpt": "Leonardo is one of four new systems backed by a public-private partnership that's trying to build a world-class supercomputer ecosystem in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/15/worlds-fastest-ai-supercomputer-is-coming-to-italy/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/15/worlds-fastest-ai-supercomputer-is-coming-to-italy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-15T141443.431-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/15/worlds-fastest-ai-supercomputer-is-coming-to-italy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/15/worlds-fastest-ai-supercomputer-is-coming-to-italy/amp/",
-      "publishedDateTime": "2020-10-15T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-biped-robot-maker-agility-raises-20-million.md",
-      "title": "Biped robot maker Agility raises $20 million",
-      "excerpt": "Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out of the lab and into the workplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
-      "originalUrl": "https://www.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701GG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG",
-      "publishedDateTime": "2020-10-15T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-project-euphonias-new-step-1000-hours-of-speech-recordings.md",
-      "title": "Project Euphonia’s new step: 1,000 hours of speech recordings",
-      "excerpt": "Muratcan Cicek, a PhD candidate at UC Santa Cruz, worked as a summer intern on Google’s Project Euphonia, which aims to improve computers’ abilities to understand impaired speech. This work was especially relevant and important for Muratcan, who was born with cerebral palsy and has a severe speech impairment.Before",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/accessibility/project-euphonia-1000-hours-speech-recordings/",
-      "originalUrl": "https://blog.google/outreach-initiatives/accessibility/project-euphonia-1000-hours-speech-recordings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG_20191125_155140.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/accessibility/project-euphonia-1000-hours-speech-recordings/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/project-euphonia-1000-hours-speech-recordings/amp/",
-      "publishedDateTime": "2020-10-15T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

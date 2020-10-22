@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-firs
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Fr8VgpPF6hUsxwEAKQhdpk-1200-80.jpg"
         width: 970
         height: 545
+        isCached: true
+  - title: "Udacity and Microsoft Launch ML Engineer on Azure Course"
+    excerpt: "Microsoft and Udacity have joined forces to launch a machine learning (ML) engineer training program focused on training, validating, and deploying models using the Azure Suite. The program is open to students with minimal coding experience and will focus on using Azure automated ML."
+    publishedDateTime: 2020-10-17T15:14:23Z
+    webUrl: "https://www.infoq.com/news/2020/10/azure-udacity-ml-engineer/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 71
+    images:
+      - url: "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft launches ‘Azure Space’, a cloud computing platform for the space industry"
     excerpt: "Microsoft has announced the expansion of its cloud computing service Azure to the space industry, under a project named 'Azure Space'."

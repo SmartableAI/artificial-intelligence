@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ software is starting to roll out to select customers"
+    excerpt: "A beta version of Tesla’s partially automated driver assist system is available, but not to everyone Tesla sent out the first “Full Self-Driving” beta software update to a select group of customers this week,"
+    publishedDateTime: 2020-10-21T23:02:00Z
+    webUrl: "https://www.theverge.com/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/htYBR0DzssLE6WDNXsijF8lUUDI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67668885/acastro_180524_1777_tesla_0003.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Tesla starts Full Self-Driving Beta rollout, Elon Musk says it ‘will be extremely slow and cautious’"
     excerpt: "Elon Musk confirmed that Tesla is starting the rollout of its Full Self-Driving Beta update, which the CEO says “will be extremely slow and cautious.” We have been expecting the update for a while now."
     publishedDateTime: 2020-10-21T00:03:00Z
@@ -139,6 +155,15 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Tesla talks up self-driving capabilities, robotaxi and production ramp"
+    excerpt: "Tesla (NASDAQ:TSLA) held one of its calmer conference calls after knocking out five straight quarters of profit.Tesla CEO Elon Musk gave out more details on the full self-driving [FSD] beta, noting that the system will be trained as edge cases are worked out with the beta drivers."
+    publishedDateTime: 2020-10-21T23:02:00Z
+    webUrl: "https://seekingalpha.com/news/3624581-tesla-talks-up-self-driving-capabilities-robotaxi-and-production-ramp"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
   - title: "Elon Musk Announces Tesla Full Self-Driving Beta Release Tonight!—’Extremely Slow & Cautious’"
     excerpt: "Elon Musk announced the new beta testing software of Tesla's Full Self-Driving technology for the company's all-electric vehicles on social media, Twitter."
     publishedDateTime: 2020-10-21T06:32:00Z

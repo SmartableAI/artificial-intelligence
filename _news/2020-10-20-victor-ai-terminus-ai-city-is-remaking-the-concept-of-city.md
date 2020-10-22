@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17968176"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17968176"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Benzinga.com
@@ -39,6 +39,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Transforming the Contact Center with Artificial Intelligence"
+    excerpt: "Learn what other companies have done to transform their contact centers with AI, as well as the rewards they've reaped from their efforts."
+    publishedDateTime: 2020-10-19T17:02:00Z
+    webUrl: "https://www.destinationcrm.com/Webinars/1538-Transforming-the-Contact-Center-with-Artificial-Intelligence.htm"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://www.destinationcrm.com/Images/ArticleImages/ArticleImage.23365.jpg?display=canvas"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "8IRrIRrbIlpV1v8y/gNbzs5dQgZ0Jn0IaVFxVFpGBY1QnddfcPN7qU1ipd61bxj5I1XKIVQKXVPReSLc+YIU/h0JXltYtOiJ7BJxxOSp7h71WFceDbI2tujZ1gkflBRd49hREs6toDVQnFuDo3TCd/fuxdUmKIvm8xIpPaI+/XouLLLMEYRRdAtkOuY08N/o6KB/q555v4NMC2dl32nOOaMkfhEYTNueQNBQ4dHDKH8oRyd8EdIsr9Y8H0WnJKpLIt1/CTKG0350rww7LQDmEGUExmdiAe6OsN+Yxz5aXhU3KuCtiDXNAXwQ78BYYoLqkJybZJ9M/1U1nniNtYa8E4tSELaTRF8c+lgNxmBq7cBeM7LBfuwMP0z4dUqJ/Xv78etx3mtJkFTOzv1NsozK285L6eIPFG/4a42OMTSKLmtYkPqWUbGtMoO7sgqRtx/CHCvbJkoReYaaOmXS8b4L0cNMiGJuvq0hFWTS+j7Fn6psE8Mm1eKwU0o4GwKr7q/GaJ36MDvDYJ0hWC53mg8Q1Q==;sr5ZWYXWtpjV87ks9LF1VQ=="

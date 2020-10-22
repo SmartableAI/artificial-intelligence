@@ -91,6 +91,20 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Udacity and Microsoft Launch ML Engineer on Azure Course"
+    excerpt: "Microsoft and Udacity have joined forces to launch a machine learning (ML) engineer training program focused on training, validating, and deploying models using the Azure Suite. The program is open to students with minimal coding experience and will focus on using Azure automated ML."
+    publishedDateTime: 2020-10-17T15:14:23Z
+    webUrl: "https://www.infoq.com/news/2020/10/azure-udacity-ml-engineer/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 71
+    images:
+      - url: "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
     excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure - in spaaace."
     publishedDateTime: 2020-10-21T09:09:00Z

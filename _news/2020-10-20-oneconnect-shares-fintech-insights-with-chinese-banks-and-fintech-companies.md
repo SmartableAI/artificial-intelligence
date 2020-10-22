@@ -1,10 +1,10 @@
 ---
 category: news
 title: "OneConnect Shares Fintech Insights with Chinese Banks and Fintech Companies"
-excerpt: "PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (OneConnect, NYSE: OCFT), a leading technology-as-a-service platform for financial institutions,"
+excerpt: "PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (OneConnect, NYSE: OCFT), a leading technology-as-a-service platform for financial institutions, shared its vision of innovation with the Fintech Association of Hong Kong of the Chinese Banking Association of Hong Kong at a recent video conference."
 publishedDateTime: 2020-10-20T09:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697336"
-webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697336"
+originalUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697544"
+webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697544"
 type: article
 quality: 47
 heat: 47
@@ -22,6 +22,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "3lfDBDLjStKCL1xHQtfN9srTejZ1TR/xugVwKdogYHryAUWXnejSdEkgnvwj2eoJ6KGumiP8tV2waA7HHFZuNjABHzFPzty7UEvcTfrPL6Z8idR4yDDpUWnEpMlsJAn7HpDWPb3uXG7wPwlcHo+m3wg92uD8yMw8fOcPdzWvTUUDntODUP9OxvR21xF4Ui3gR0euZQlaMxr/l5wTQHFxIgzCnlcGcwQMyY1u9WbMwLHoUTl/XBM4OpwtUK/Hb7snlvuJVfBYU0KUNF3Zju3+20/nS3kfoMkmCed5Lisqv3hoYB++4lRTi/Tc6SsGtwc18qGYTOrV7XQ8jJyC8YvNeeqKxSaGk25ZFBpORNWokBA=;aAePQaVWyriiZTklAnFC+g=="
+secured: "nReG533yfC3rkiEJBLuyoNDnjCSl5XOap6h1yZAMylqKA83L+7s7OPuG2uM5In5ZMdHENUCvSehVGpteojJzrvhEHfy/fJmuvT/ZljhxNUVp0y1TPLqj5eCLJ3Jn8Q1w1BqodSX/+q9+c2V48RIxuINYQT4i+KO5b5c3W0/LN2dh9a9OuBQeXqtWYRU4g052WIpO6LygxUxWQY66Ht/HHv0KJWgWMOKVNbPVfUkfVhObHrWPqUW3EQZYxmqdYaoPRdQayzHX/8D8Y8VwOYZJSNxwxY0NpIeKPizEjRr+4SZ3nYJchDju8D72GoBdVfIPsfoa5ETVnRkIUTwyI9jAV7JWSA1OyhahAcm96aGrFgQ=;iOqqSGf32N8EwNTDH25B4Q=="
 ---
 

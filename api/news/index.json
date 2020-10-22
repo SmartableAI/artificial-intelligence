@@ -2,6 +2,368 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-22-conversational-ai-based-on-nonverbal-cues-can-be-more-effective.md",
+      "title": "Conversational AI Based On Nonverbal Cues Can Be More Effective",
+      "excerpt": "Cogito, a Boston-based AI company conceived from technology and research out of the MIT Media Lab, uses voice-based AI to analyze behavioral cues as well as the content of the conversation to provide in-the-moment feedback during conversations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90bf68ebc59509cf797df0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/amp/",
+      "publishedDateTime": "2020-10-21T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-the-2020-data-and-ai-landscape.md",
+      "title": "The 2020 data and AI landscape",
+      "excerpt": "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
+      "originalUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
+      "publishedDateTime": "2020-10-21T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials.md",
+      "title": "Ben-Gurion University Researchers Develop Machine Learning Platform to Streamline Clinical Trials",
+      "excerpt": "Gurion University of the Negev (BGU) have developed a novel platform to streamline clinical trials, lower costs, and increase the efficiency and success rate of the drug or medical device development process.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials-1029704317",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials-1029704317",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1317229/BGN_Technologies_Boaz_Lerner.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-using-amazon-sagemaker-inference-pipelines-with-multi-model-endpoints.md",
+      "title": "Using Amazon SageMaker inference pipelines with multi-model endpoints",
+      "excerpt": "Businesses are increasingly deploying multiple machine learning (ML) models to serve precise and accurate predictions to their consumers. Consider a media company that wants to provide recommendations to its subscribers. The company may want to employ different custom models for recommending different",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-inference-pipelines-with-multi-model-endpoints/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-inference-pipelines-with-multi-model-endpoints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/1-Diagram-1.jpg",
+          "width": 900,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T15:36:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-mit-seeks-to-resurrect-dead-languages-with-machine-learning.md",
+      "title": "MIT seeks to resurrect 'dead' languages with machine learning",
+      "excerpt": "By implementing a new translation system and a bit of detective work, researchers hope to give old indecipherable languages a new voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "originalUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/oIgSdZTaU-UxA48WUT70KtAh2ZM=/1200x630/2020/10/21/bbfec165-3dcb-4d55-b8aa-493c200f8cb2/gettyimages-1131558568.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "publishedDateTime": "2020-10-21T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads.md",
+      "title": "New MLPerf Data Shows Competition Increases In AI, But NVIDIA Still Leads",
+      "excerpt": "Like the latest training results, which were announced in July, the new inference numbers show an increase in the number of companies submitting and an increased number of platforms and workloads supported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a348132e6eddbd3811cb%2F0x0.jpg",
+          "width": 1200,
+          "height": 974,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
+      "publishedDateTime": "2020-10-21T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets.md",
+      "title": "New AI-powered sensor measures starlight distortion to help discover new planets",
+      "excerpt": "The \"photonic wavefront sensor\" helps correct the distortion of starlight caused by observing planets through optical telescopes.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-21T181131.696-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/amp/",
+      "publishedDateTime": "2020-10-21T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-google-is-reportedly-supplying-ai-technology-to-the-trump-administrations-virtual-border-wall.md",
       "title": "Google is reportedly supplying AI technology to the Trump administration's virtual border wall",
       "excerpt": "Documents reportedly show that Google Cloud's technology will be used in tandem with Anduril to erect Trump's virtual border wall.",
@@ -50,49 +412,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai.md",
-      "title": "Chip industry is going to need a lot more software to catch Nvidia’s lead in AI",
-      "excerpt": "Topic: Artificial Intelligence  The semiconductor industry is in the midst of a renaissance in chip design and performance improvement, but it will take a lot more software to catch up with graphics chip titan Nvidia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
-      "originalUrl": "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
-      "publishedDateTime": "2020-10-21T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -232,57 +551,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence.md",
-      "title": "Nvidia makes a clean sweep of MLPerf predictions benchmark for artificial intelligence",
-      "excerpt": "MLPerf benchmark tests are an opportunity for chip vendors, and system builders, to show how much performance they can achieve on a representative set of machine learning tasks. Nvidia capture top marks against Intel in all the tests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/21/da38c232-3ba9-4040-b93d-67cfb3dfb523/nvidia-a100-press-graphic.jpg",
-          "width": 2000,
-          "height": 1296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "publishedDateTime": "2020-10-21T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -604,7 +872,7 @@
       "originalUrl": "https://gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -751,57 +1019,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-21-how-ai-will-transform-the-digital-workplace-in-2020-and-beyond.md",
-      "title": "How AI Will Transform The Digital Workplace In 2020 And Beyond",
-      "excerpt": "With a recent focus on digital workplaces and remote workers, artificial intelligence (AI) is increasingly playing a leading role in automating previously manual processes and creating new opportunities for deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/21/how-ai-will-transform-the-digital-workplace-in-2020-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/21/how-ai-will-transform-the-digital-workplace-in-2020-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/21/how-ai-will-transform-the-digital-workplace-in-2020-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/21/how-ai-will-transform-the-digital-workplace-in-2020-and-beyond/amp/",
-      "publishedDateTime": "2020-10-21T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-21-saudi-launches-national-artificial-intelligence-strategy.md",
       "title": "Saudi launches national artificial intelligence strategy",
       "excerpt": "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said.",
@@ -904,7 +1121,7 @@
       "originalUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1000,7 +1217,7 @@
       "originalUrl": "https://mashable.com/article/tesla-full-self-driving-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -1022,214 +1239,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-university-of-miami-becomes-latest-battleground-over-facial-recognition.md",
-      "title": "University of Miami Becomes Latest Battleground Over Facial Recognition",
-      "excerpt": "Two students claim UM’s dean of students told a handful of campus protesters at a virtual meeting on Sept. 22 that they were identified at an unsanctioned demonstration using specialized software that analyzed camera footage of the event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
-      "originalUrl": "https://www.wsj.com/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-247517/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
-      "publishedDateTime": "2020-10-20T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds.md",
-      "title": "Pandemic speeds labour shift from humans to robots, WEF survey finds",
-      "excerpt": "Robots will destroy 85 million jobs at mid-sized to large businesses over the next five years as the COVID-19 pandemic accelerates changes in the workplace likely to exaggerate inequalities, a World Economic Forum (WEF) study has found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/industry-robots/pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds-idUSL8N2HB58A",
-      "originalUrl": "https://www.reuters.com/article/industry-robots/pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds-idUSL8N2HB58A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538232954&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J1R5",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2752YF",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2752YF",
-      "publishedDateTime": "2020-10-20T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-cd-projekt-red-used-ai-to-lip-sync-cyberpunk-2077s-dialogue-across-10-languages.md",
-      "title": "CD Projekt Red used AI to lip-sync Cyberpunk 2077's dialogue across 10 languages",
-      "excerpt": "As reported by Twitter user and industry veteran Shinobi602, the upcoming open-world sci-fi RPG Cyberpunk 2077 will feature full lip-sync for every single voiced character in",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html",
-      "originalUrl": "https://www.techspot.com/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-24-ts3_thumbs-383.png",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html",
-      "publishedDateTime": "2020-10-20T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-ford-escape-hybrid-becomes-companys-latest-self-driving-car-prototype.md",
-      "title": "Ford Escape Hybrid becomes company's latest self-driving car prototype",
-      "excerpt": "The Escape Hybrid will also serve Ford's future autonomous ride-hailing service. Feast your eyes on Ford's latest self-driving car prototype. If it looks a lot like a Ford Escape Hybrid, well, that's because it is.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/ford-escape-hybrid-self-driving-car-prototype/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/ford-escape-hybrid-self-driving-car-prototype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/LQrNpGE_tK54V8ffxvcE3kx3A4Q=/2020/10/20/4f243df4-9e13-44c4-a76a-4a7baacc72c0/ogi-ford.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/",
-      "publishedDateTime": "2020-10-20T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

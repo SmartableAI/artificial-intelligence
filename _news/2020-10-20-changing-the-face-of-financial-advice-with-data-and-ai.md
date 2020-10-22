@@ -21,35 +21,67 @@ topics:
   - AI
 
 related:
-  - title: "How Home Depot Is Enhancing The Ecommerce Experience With AI"
-    excerpt: "Online retail is changing in profound ways as consumers change their buying patterns. With the shift to work-from-home and school-at-home changing the way people live, work, and socialize. Retailers are rethinking their sales,"
-    publishedDateTime: 2020-10-17T15:11:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/amp/"
+  - title: "The 2020 data and AI landscape"
+    excerpt: "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ..."
+    publishedDateTime: 2020-10-21T23:13:00Z
+    webUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/"
+    ampWebUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI Will Transform The Digital Workplace In 2020 And Beyond"
+    excerpt: "With a recent focus on digital workplaces and remote workers, artificial intelligence (AI) is increasingly playing a leading role in automating previously manual processes and creating new opportunities for deployments."
+    publishedDateTime: 2020-10-21T12:24:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/21/how-ai-will-transform-the-digital-workplace-in-2020-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/21/how-ai-will-transform-the-digital-workplace-in-2020-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/21/how-ai-will-transform-the-digital-workplace-in-2020-and-beyond/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8b07adb6fa632e14647138%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg"
         width: 1200
-        height: 1296
+        height: 675
         isCached: true
-  - title: "The future of user experience design starts with AI"
-    excerpt: "We all experience the world through our own subjective lens. But when it comes to user-experience design, most companies choose a one-size-fits-all approach. Salesforce, best known for its customer-relationship management platform,"
-    publishedDateTime: 2020-10-20T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90566154/the-future-of-user-experience-design-starts-with-ai"
+  - title: "Artificial intelligence, humanity, and the future"
+    excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
+    publishedDateTime: 2020-10-18T01:24:00Z
+    webUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future"
+    ampWebUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
+    cdnAmpWebUrl: "https://www-sturgisjournal-com.cdn.ampproject.org/c/s/www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
+      name: Sturgis Journal
+      domain: sturgisjournal.com
+    quality: 59
+    images:
+      - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
+        width: 680
+        height: 931
+        isCached: true
+  - title: "Forum Teratec 2020 Gathered Experts in Simulation, HPC, Big Data and AI"
+    excerpt: "Held in digital format on October 13 and 14, 2020, given the circumstances of COVID-19, Forum Teratec gathered over 1200 experts in"
+    publishedDateTime: 2020-10-19T18:08:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/forum-teratec-2020-gathered-experts-in-simulation-hpc-big-data-and-ai/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
     quality: 37
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/10/Unknown.png"
-        width: 1280
-        height: 896
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/shutterstock_forest_aerial-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
 
 secured: "k9bvPlF2RNI4DkjBtJz8Kb5TfeoLSpDRjj0fXzqjpvTgHvKjxUjsCxv3VT23LFjSv+g5gqt5hsnmKeJ5B/tEAf9RLlL8OLE2nG4M6yaV3wLGnfKN+E15f2vw2mxQ2tJZFgvdaA025lp9G8/POyxRWQuJDXkYje3YrzuwDQv3XYbVZVyr75/u1SWD0/1R96YYsFxZYrvn6OTz0znpkeI8mtGg+8fVSJPvTY3EWo0vSwBo944Z72ag7FtnXNuVlO5VwSEqXLB904myjB0pGJODFcD5PdArrIOpz1i2UlLTY6PazXMvtOtRe1DVF3y9ccDwF9crLaHLa2Vo+Aq8po7AmjNvBmVAX7qEeFHEFru+jM4=;+no+dr1x6P6kkuVUyF0gjw=="

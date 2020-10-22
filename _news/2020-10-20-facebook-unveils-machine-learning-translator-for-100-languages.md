@@ -215,6 +215,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook unveils first AI model capable of translating 100 languages without relying on English"
+    excerpt: "Facebook unveiled AI capable of translating 100 languages without relying on English as as an intermediary step, as many systems currently do - producing results that are 90 percent more accurate."
+    publishedDateTime: 2020-10-19T19:19:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 47
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/19/19/wire-34583254-1603131568-544_636x382.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Facebook Says This Is the Culmination of Years of Work in Machine Translation"
     excerpt: "Facebook introduces M2M-100, a neural machine translation model that avoids using English between source and target languages."
     publishedDateTime: 2020-10-20T10:03:00Z

@@ -2,6 +2,214 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-21-university-of-miami-becomes-latest-battleground-over-facial-recognition.md",
+      "title": "University of Miami Becomes Latest Battleground Over Facial Recognition",
+      "excerpt": "Two students claim UM’s dean of students told a handful of campus protesters at a virtual meeting on Sept. 22 that they were identified at an unsanctioned demonstration using specialized software that analyzed camera footage of the event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "originalUrl": "https://www.wsj.com/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-247517/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "publishedDateTime": "2020-10-20T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds.md",
+      "title": "Pandemic speeds labour shift from humans to robots, WEF survey finds",
+      "excerpt": "Robots will destroy 85 million jobs at mid-sized to large businesses over the next five years as the COVID-19 pandemic accelerates changes in the workplace likely to exaggerate inequalities, a World Economic Forum (WEF) study has found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/industry-robots/pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds-idUSL8N2HB58A",
+      "originalUrl": "https://www.reuters.com/article/industry-robots/pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds-idUSL8N2HB58A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538232954&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J1R5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2752YF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2752YF",
+      "publishedDateTime": "2020-10-20T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-cd-projekt-red-used-ai-to-lip-sync-cyberpunk-2077s-dialogue-across-10-languages.md",
+      "title": "CD Projekt Red used AI to lip-sync Cyberpunk 2077's dialogue across 10 languages",
+      "excerpt": "As reported by Twitter user and industry veteran Shinobi602, the upcoming open-world sci-fi RPG Cyberpunk 2077 will feature full lip-sync for every single voiced character in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html",
+      "originalUrl": "https://www.techspot.com/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-24-ts3_thumbs-383.png",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html",
+      "publishedDateTime": "2020-10-20T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-ford-escape-hybrid-becomes-companys-latest-self-driving-car-prototype.md",
+      "title": "Ford Escape Hybrid becomes company's latest self-driving car prototype",
+      "excerpt": "The Escape Hybrid will also serve Ford's future autonomous ride-hailing service. Feast your eyes on Ford's latest self-driving car prototype. If it looks a lot like a Ford Escape Hybrid, well, that's because it is.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/ford-escape-hybrid-self-driving-car-prototype/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/ford-escape-hybrid-self-driving-car-prototype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/LQrNpGE_tK54V8ffxvcE3kx3A4Q=/2020/10/20/4f243df4-9e13-44c4-a76a-4a7baacc72c0/ogi-ford.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/",
+      "publishedDateTime": "2020-10-20T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-how-ai-can-affect-our-choices-and-decisions.md",
       "title": "How AI can affect our choices and decisions",
       "excerpt": "Although AI technology has miles to go to develop social skills on par with ours, some AI has shown impressive language understanding and can complete relatively complex interactive tasks. In several 2018 demonstrations,",
@@ -10,7 +218,7 @@
       "originalUrl": "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -182,7 +390,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -612,7 +820,7 @@
       "originalUrl": "https://www.theverge.com/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1020,195 +1228,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store.md",
-      "title": "Chinese Delivery Platform Meituan-Dianping Trials First-Ever Smart AI Retail Store",
-      "excerpt": "Last week, Meituan debuted its first-ever smart AI retail store – MAI Shop - within Beijing’s Shougang Park. A combination of AI and robotics has been applied within the store, the same technology that is regularly seen in ‘New Retail’ formats ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiffanylung/2020/10/20/chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store/",
-      "originalUrl": "https://www.forbes.com/sites/tiffanylung/2020/10/20/chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e9797b00abd0176b0a6a3%2F0x0.png%3FcropX1%3D0%26cropX2%3D830%26cropY1%3D274%26cropY2%3D741",
-          "width": 830,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiffanylung/2020/10/20/chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiffanylung/2020/10/20/chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store/amp/",
-      "publishedDateTime": "2020-10-20T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-onr-robotics-enter-the-covid-19-fight.md",
-      "title": "ONR Robotics enter the COVID-19 fight",
-      "excerpt": "A decontamination robot funded by the Office of Naval Research (ONR) and designed by several local universities was recently tested in Richmond Va. The robot--initially designed for shipboard firefighting and maintenance tasks--has now been enlisted in the fight against Covid-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-a-new-approach-to-artificial-intelligence-that-builds-in-uncertainty.md",
-      "title": "A new approach to artificial intelligence that builds in uncertainty",
-      "excerpt": "Artificial intelligence isn't perfect. In fact, it's only as good as the methods and data built into it. Researchers have detailed a new approach to artificial intelligence that builds uncertainty, error,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201019125537.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201019125537.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors.md",
-      "title": "DeepMind open-sources the FermiNet, a neural network that simulates electron behaviors",
-      "excerpt": "Researchers at DeepMind have open-sourced the FermiNet, a neural network that simulates the positions and arrangements of electrons.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/",
-      "originalUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/amp/",
-      "publishedDateTime": "2020-10-19T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

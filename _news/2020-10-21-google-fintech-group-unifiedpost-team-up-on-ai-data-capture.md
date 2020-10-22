@@ -3,12 +3,12 @@ category: news
 title: "Google, FinTech group Unifiedpost team up on AI data capture"
 excerpt: "Google’s AI solution may be utilized to handle document processing linked to over 400,000 European businesses."
 publishedDateTime: 2020-10-21T05:00:00Z
-originalUrl: "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
-webUrl: "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - AI
-  - AI in Finance
 
 related:
   - title: "6 fintech trends that will redefine the future of finance"
@@ -235,6 +234,6 @@ related:
       domain: www.bna.bh
     quality: 4
 
-secured: "DrjO7QPAM4084bh+JfVTl45uM+sfIHqEG9LutykhlJRY661xzVWvF0/xQpTiEB2FLo7Uvf2e5oPr/HE4uR9p7uOjqflzIaFEmmTRR2/FJaWxXp2t3OQsKKvvQD7GMOvmoRvd6lNo+Ie7mkWKTaNY+9OzUSi4HjbCoLM44sC7bGHoqhGypEyRCsJQSNPYNSer46H7GAe7VCW6micsddMCbqtz+8v5627hDIflpw8opqhVZhi9SFAj9Nm6FWWcJ7aw6A623rE9zLsIkmbGPMnGJVBtxBqg6DUIgaNS71faRoXbMDhWGoSvQla15ia13BkOMe9kNFdArpXGERaDfF705+nBJG29xKRbqzq5LY4N2umMjCzj7aF1QxHJ8L5G/3+mLuLgDFcy0KRe01A7ctLKo3Z7pBJtrGyNTKrguVIt/5axiOTImCVgp5W/rP2GlYicKVwMjbVduW1X6ClaxTeYmvWQpqfT2Lmz0VNvnMzOnkBg1UWaQOMapkqTCGrSMXxeS8/yJ7bvj1KtdA2G4UP/Yw==;4c4gQE0iObZa/j9QC+OHkA=="
+secured: "DsmP5CuqTz4pSXoE/nENQ5lELWEQu2kcTFXvWDs43XtFGZq02FiCYqMoP2QyrP/hL6hdqIZs2IAOFjHWGm7LoUNrDXxqpsexLXBsZ0goQGafL4j8TW/CCy/ickvD7g4tBNFyK6uLppMPYpoi0+im/IfnCZ1NZO1HNyxE8q1v0KJyNt6mmBb9osDkqq5R9p22dZhN0cGVsd0tTSGXvni5sQiHRcrHZzn8xD+b/bK7arlNgIfTGfwiOtbdp7+4DuX0zTT55spng/4lXVwtM+sd+k/QcxVUjclK/qEzTXJ9OPKvjkNIhxc96/fKVLXhNdUKCgTEnXlrZNTqm/AsdKDSCAlS5UxUU4pq1+WWx1J5ikxDyqMbIZacM9ORLhBE9/CxwROC42/FlWT8PTyjuq2N7AiEGEmxjALUSw+73yqcEOPRUQ/N+l20CV9ocZV+JewxweomgGtEAVRvO6cfYmyWNyj7T+ZenWOG9T7TwFTvMgWo1sLpwEuM+q/ADEQmH4SNlzyhk0BcSiGIvA6oMMJmWA==;EjGpsMB/hN4cMmmlpp/BUA=="
 ---
 

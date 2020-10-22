@@ -40,6 +40,20 @@ related:
         width: 600
         height: 388
         isCached: true
+  - title: "Transforming the Contact Center with Artificial Intelligence"
+    excerpt: "Learn what other companies have done to transform their contact centers with AI, as well as the rewards they've reaped from their efforts."
+    publishedDateTime: 2020-10-19T17:02:00Z
+    webUrl: "https://www.destinationcrm.com/Webinars/1538-Transforming-the-Contact-Center-with-Artificial-Intelligence.htm"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://www.destinationcrm.com/Images/ArticleImages/ArticleImage.23365.jpg?display=canvas"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "z25ovv9QL2iohrPba5xxxYijzOyTa0F2K98ea9vp7ScdV56KW/Dd1q64WZ+AT5XHmry/Tyks0ofyGdzR8PPOLz8b0P0bRtAB6sh2HcOOdz2jsZIf8AZqYzaauOX2OIAVjEAfrAQ6pHXzgTFGbc52j36oNX9XjX0W3dvAj4Mh7to2ajYgXn6NVM9dJrW66pHHx8O7oaQxpC5xBvipmbWLKJykRfimqmPZIWNrUlfX0cRGi4TyXaGSkrQQeSnufZgBLTA1aaod3Og8E2UZ2NufgSyIeJUP7LpAe0fxtjWhGhsrI4YgXtB3o5O01W7JvpoCRqgGOQ8eO9m4ht3/xPgdc2eQQyTsz4Z4w/XHszP+H2o=;w99FB0SkY6rMRy6OJvYBqQ=="
 ---

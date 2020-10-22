@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/21/how-ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/21/how-ai-will-transform-the-digital-workplace-in-2020-and-beyond/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,33 +30,62 @@ images:
     isCached: true
 
 related:
-  - title: "Transforming the Contact Center with Artificial Intelligence"
-    excerpt: "Learn what other companies have done to transform their contact centers with AI, as well as the rewards they've reaped from their efforts."
-    publishedDateTime: 2020-10-19T17:02:00Z
-    webUrl: "https://www.destinationcrm.com/Webinars/1538-Transforming-the-Contact-Center-with-Artificial-Intelligence.htm"
+  - title: "The 2020 data and AI landscape"
+    excerpt: "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ..."
+    publishedDateTime: 2020-10-21T23:13:00Z
+    webUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/"
+    ampWebUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Changing the Face of Financial Advice with Data and AI"
+    excerpt: "It also provides a personalised update of my total financial situation, including recent transactions in my current account. In my inbox, there’s a synopsis of curated financial stories aligned to my goals."
+    publishedDateTime: 2020-10-19T17:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19"
+    ampWebUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Artificial intelligence, humanity, and the future"
+    excerpt: "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial"
+    publishedDateTime: 2020-10-18T01:24:00Z
+    webUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future"
+    ampWebUrl: "https://www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
+    cdnAmpWebUrl: "https://www-sturgisjournal-com.cdn.ampproject.org/c/s/www.sturgisjournal.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart"
+    type: article
+    provider:
+      name: Sturgis Journal
+      domain: sturgisjournal.com
+    quality: 59
+    images:
+      - url: "https://www.sturgisjournal.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR"
+        width: 680
+        height: 931
+        isCached: true
+  - title: "Forum Teratec 2020 Gathered Experts in Simulation, HPC, Big Data and AI"
+    excerpt: "Held in digital format on October 13 and 14, 2020, given the circumstances of COVID-19, Forum Teratec gathered over 1200 experts in"
+    publishedDateTime: 2020-10-19T18:08:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/forum-teratec-2020-gathered-experts-in-simulation-hpc-big-data-and-ai/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
     quality: 37
     images:
-      - url: "https://www.destinationcrm.com/Images/ArticleImages/ArticleImage.23365.jpg?display=canvas"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Blue Hexagon Integrates with AWS Security Hub for AI-powered Cloud Security and Accelerating Digital Transformation of the Global Economy"
-    excerpt: "solution on Amazon Web Services (AWS). Recognized in the 2020 Forbes AI 50 list as one of America’s most promising artificial intelligence (AI) companies, and the Gartner Market Guide for Network Detection and Response, Blue Hexagon is a real-time deep ..."
-    publishedDateTime: 2020-10-20T13:26:00Z
-    webUrl: "https://www.oaoa.com/news/business/blue-hexagon-integrates-with-aws-security-hub-for-ai-powered-cloud-security-and-accelerating-digital/article_5d2a9d7d-1d0e-5e63-b814-ff852d255066.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 21
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/shutterstock_forest_aerial-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
 
 secured: "KlX6yETkaA4npoEXdqRgEWBYPETZCoFcDRvLvdqVgH31hi7j8CPOw11U2ithLm70orXnORobj30KVwltHypC83zzlZGrOR6YbVytaQrpzJSjwExuCZX5wnh0Kc/E3EzFirBCKGPEkOXmtS9WF96Hx8CUvnUnA27eA9KTrdlypw7rm/1c3ei0veCvtT1fRoPwYEvgnkUyTO1+sb9+OqrNCjJi3rZzqG+1w0zNbq/ehuyflI5RM/NRpArdeRueTTko5UpFiIA090+q+48NwerJQnRzWa2UJr1D+AoC1yyklz45abft79rqxnCBdz6NAXrxfrBWQnrLaJNBba/zhk2/xnS3ssQ57KQ4YUBgL51BthYcjwGtlBbhHMc9uR0LF04rwprtCwfh5W0gsJtAXj3ueUiOR8lKUQcAkVEE1KjGSiC5qMrOHAB32o7ge+LbYBgxo922fbTMGvMK07sE6wdQz2yBwlZ9Laa+iagT6V9zqFb83XVZQa5ugSFBmIt4YVE/0cLddVTEcXYF9uKIef3nJA==;dS/yKPRSM1YLmVU993698Q=="
