@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-sa
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
 type: article
 quality: 94
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft's Azure Space Program Gets 'Modular' Datacenters"
+    excerpt: "Azure Space products extend across cloud, edge, machine learning, augmented intelligence, automation, networking, visualization and digital solutions, he added. Essentially, Microsoft intends to ..."
+    publishedDateTime: 2020-10-22T01:02:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/21/microsoft-azure-space-modular-datacenters.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 54
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/rcpmag/Images/2020/10/1021rcp_azurespace.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Azure Space – cloud-powered innovation on and off the planet"
     excerpt: "Microsoft is taking the next giant leap in cloud computing – to space. I am excited to share the work we are doing to make Azure the platform and ecosystem of choice for the mission needs of the space community with Azure Space."

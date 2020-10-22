@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-firs
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/1654aa33-41f4-472f-bec8-8611ce1b3460-Microsoft-Teams-Breakout-Rooms.jpg?auto=webp&crop=1469,826,x0,y22&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
+    excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
+    publishedDateTime: 2020-10-22T00:51:00Z
+    webUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
+        width: 1665
+        height: 1158
         isCached: true
   - title: "The IBM Stock Is Not Microsoft And It Is Thus Not Poised To Explode In The Near Future"
     excerpt: "Some investors see strong parallels to Microsoft and think that Big Blue, like Microsoft, will also explode after the now several-year phase of weak performance."

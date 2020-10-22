@@ -100,20 +100,6 @@ related:
         width: 626
         height: 540
         isCached: true
-  - title: "Will fintech change the face of banking?"
-    excerpt: "Fancy new apps have become popular for everything from making a payment to buying insurance and shares. Should the big banks be worried? Simon Wilson reports."
-    publishedDateTime: 2020-10-17T10:14:00Z
-    webUrl: "https://moneyweek.com/investments/alternative-finance/602166/will-fintech-change-the-face-of-banking"
-    type: article
-    provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 39
-    images:
-      - url: "https://media.moneyweek.com/image/private/s--gSFQ7iVf--/v1602759072/1021_MW_P16_Briefing.jpg"
-        width: 1408
-        height: 792
-        isCached: true
   - title: "AI in Fintech Market Witness the Growth of $7,305.6 Million by 2022"
     excerpt: "According to a research report AI in Fintech Market by Component Solution Service Application Area Virtual Assistant Business Analytics Reporting Customer Behavioral Analytics Deployment Mode Cloud On Premises and Region Global forecast to 2022 the AI in Fintech market size"
     publishedDateTime: 2020-10-20T12:51:00Z

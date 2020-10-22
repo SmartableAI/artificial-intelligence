@@ -262,59 +262,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads.md",
-      "title": "New MLPerf Data Shows Competition Increases In AI, But NVIDIA Still Leads",
-      "excerpt": "Like the latest training results, which were announced in July, the new inference numbers show an increase in the number of companies submitting and an increased number of platforms and workloads supported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a348132e6eddbd3811cb%2F0x0.jpg",
-          "width": 1200,
-          "height": 974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
-      "publishedDateTime": "2020-10-21T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-10-22-new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets.md",
       "title": "New AI-powered sensor measures starlight distortion to help discover new planets",
       "excerpt": "The \"photonic wavefront sensor\" helps correct the distortion of starlight caused by observing planets through optical telescopes.",
@@ -415,6 +362,58 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai.md",
+      "title": "Chip industry is going to need a lot more software to catch Nvidia’s lead in AI",
+      "excerpt": "Topic: Artificial Intelligence  The semiconductor industry is in the midst of a renaissance in chip design and performance improvement, but it will take a lot more software to catch up with graphics chip titan Nvidia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/10/21/8c897dbe-8d2e-46d3-bfc3-def8f3ed8e56/nvidia-a100-press-graphic.jpg",
+          "width": 2000,
+          "height": 1296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
+      "publishedDateTime": "2020-10-21T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -568,6 +567,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence.md",
+      "title": "Nvidia makes a clean sweep of MLPerf predictions benchmark for artificial intelligence",
+      "excerpt": "MLPerf benchmark tests are an opportunity for chip vendors, and system builders, to show how much performance they can achieve on a representative set of machine learning tasks. Nvidia capture top marks against Intel in all the tests.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
+      "publishedDateTime": "2020-10-21T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -778,7 +820,7 @@
       "originalUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1208,49 +1250,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-elon-musk-says-full-self-driving-mode-on-tesla-is-finally-here-sort-of.md",
-      "title": "Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of",
-      "excerpt": "For the lucky few selected to experience \"Full Self-Driving\" or (FSD) on their Tesla vehicle, Tuesday night is the night. Tesla CEO Elon Musk tweeted Tuesday afternoon that the autonomous mode ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/tesla-full-self-driving-beta/",
-      "originalUrl": "https://mashable.com/article/tesla-full-self-driving-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F10%252F20%252Fae%252Ff6c5261b244c4f6b8f36348853485b9c.8eb52.jpg%252F1200x630.jpg?signature=7jyn6DuiFl9cVmbUR_Mkx1HVWB8=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/tesla-full-self-driving-beta.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-beta.amp",
-      "publishedDateTime": "2020-10-20T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

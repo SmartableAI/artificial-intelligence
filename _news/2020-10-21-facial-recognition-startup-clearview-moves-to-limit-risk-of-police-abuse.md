@@ -47,6 +47,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Best facial recognition security cameras of 2020"
+    excerpt: "Select home security cameras have facial recognition, an advanced feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ..."
+    publishedDateTime: 2020-10-22T02:20:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How police departments are using facial recognition to identify protesters breaking the law"
     excerpt: "Police departments across the country are using facial recognition technology to identify protesters they say are breaking the law. NBC News’ Jacob Ward explains how it works."
     publishedDateTime: 2020-10-20T22:18:00Z
@@ -94,6 +110,20 @@ related:
       - url: "https://m.wsj.net/video/20181224/122418upstreamfacrec/122418upstreamfacrec_512x288.jpg"
         width: 512
         height: 288
+        isCached: true
+  - title: "Baltimore City Council Split on Banning Facial Recognition"
+    excerpt: "A Baltimore City Council subcommittee on Tuesday deadlocked on a bill that would have banned facial-recognition technology there, preventing the measure from going before the full council."
+    publishedDateTime: 2020-10-22T02:37:00Z
+    webUrl: "https://www.wsj.com/articles/baltimore-city-council-split-on-banning-facial-recognition-11603316264"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-247915/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Activists Build Facial Recognition to ID Cops Who Hide Their Badges"
     excerpt: "In order to hold police accountable when they try to hide their identities, a growing number of activists are developing facial recognition tools that identify cops, The New York Times reports — a striking inversion of the way cops tend to use facial recognition on protestors and suspects."

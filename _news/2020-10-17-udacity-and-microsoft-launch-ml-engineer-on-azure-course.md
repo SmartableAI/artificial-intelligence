@@ -138,6 +138,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
+    excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
+    publishedDateTime: 2020-10-22T00:51:00Z
+    webUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "The IBM Stock Is Not Microsoft And It Is Thus Not Poised To Explode In The Near Future"
     excerpt: "Some investors see strong parallels to Microsoft and think that Big Blue, like Microsoft, will also explode after the now several-year phase of weak performance."
     publishedDateTime: 2020-10-20T06:38:00Z
@@ -153,6 +167,6 @@ related:
         height: 400
         isCached: true
 
-secured: "1SxlPVu1xHQwrybtFK0FX9NVIgDHUqU+f/24tEpoMhR8SPfS81MeomaSBFxZq0ffUVJXvpEFFMdON02F9VMUfYpQClB8HHwyIOREd0wp7Rm4tPDHBOBIX/lsBbHeRxYlGCeePaZLpdVmp7SLNs/mu0/dtmIQso3W4FY1LdeUvFoo07E71wh9zN8YdgUmisBB1YnXaEF/oMOgCv3ndHDvAqP0YRH+wq8qBskhbfD4NHA0bskTDeyfNnK6rImo3k0HqIq1cUtl3WWu7IyNvAOU5zNiyRVC1V3B3z23lnNcyFi3Mfc2JpLmo6oCWsZ3fJXapedMOmW2mCcfSkdzfdeUTPq632Wdp5Oi6oDLARf2qGM=;Zo0EEJNTcdD5iIdhK56VAw=="
+secured: "riyylssH5CMTkme+qlUYJ33LQpB4B9IHrS/ANkPbYG2S4gzjSMspKabp2Zk+Dd6SkAQLad57ouzsyDy0TCrEqew6uebZYYvIL2HjrsT/o44Rpyt1e7VZCdTgOs5vPxcGrBfuvuvjLBzWAdsXgbM4rsMsEwkPPy37rxTHgyEXM1h1bV9zC1GURhD8IiInYvw26YhFH0ff8d4LEFoa5DwkjVY1rgXwS4rUYnF7yFb9aJePQL/ml7hc4e3AQ7iUtUCNhgzHIFZvYB4sn4DCGg0fGmBZe3LDtVOv1OiV/KrVhi1CADjA+CcxxZ/F6GzvrpKKZo+lTppr8pRubqQL+a0Pb6lStMm8hfXpgTruz3KrrFUr1BJsJwNGQjtb3qhj7VFaoyQKNgpCnAGlEJgMo5Qs/NYCW5eVU+/vF4fjcZa6EoYfyNNmofSboM1HaFi5lb1WKB9/KWl6hnOZIAkLc38+Tb9SvtjLfY6t4Oy61XP12J8kN/jBYPE+IJn9k36nx1vInlAiJvKAF4DRhirX5w6IXg==;17NFHPj7NHwbs2IlYRm2ew=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/tesla-full-self-driving-beta.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-beta.amp"
 type: article
 quality: 88
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/htYBR0DzssLE6WDNXsijF8lUUDI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67668885/acastro_180524_1777_tesla_0003.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Tesla says it's finally releasing 'full self-driving' software after it had to 'rewrite everything'"
+    excerpt: "Tesla has bucked every trend when it comes to autonomy, sometimes with deadly results. This release is being done \"extremely slow & cautious.\""
+    publishedDateTime: 2020-10-22T02:32:00Z
+    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/5f9069752e0e6f0018dd7bb0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Tesla starts Full Self-Driving Beta rollout, Elon Musk says it ‘will be extremely slow and cautious’"
     excerpt: "Elon Musk confirmed that Tesla is starting the rollout of its Full Self-Driving Beta update, which the CEO says “will be extremely slow and cautious.” We have been expecting the update for a while now."

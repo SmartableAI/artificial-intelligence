@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-22-new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads.md",
-      "title": "New MLPerf Data Shows Competition Increases In AI, But NVIDIA Still Leads",
-      "excerpt": "Like the latest training results, which were announced in July, the new inference numbers show an increase in the number of companies submitting and an increased number of platforms and workloads supported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a348132e6eddbd3811cb%2F0x0.jpg",
-          "width": 1200,
-          "height": 974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
-      "publishedDateTime": "2020-10-21T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-10-21-activists-turn-facial-recognition-tools-against-the-police.md",
       "title": "Activists Turn Facial Recognition Tools Against the Police",
       "excerpt": "met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery; they would also prevent ...",
@@ -63,7 +10,7 @@
       "originalUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -315,7 +262,7 @@
       "originalUrl": "https://www.forbes.com/sites/franklinamoo/2020/10/19/artificial-intelligence-and-africa-the-case-for-investing-in-african-telecoms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -356,7 +303,8 @@
       "topics": [
         "AI",
         "Computer Vision",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Robotics"
       ]
     },
     {
@@ -1456,6 +1404,51 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-object-detection-with-tensorflow.md",
+      "title": "Object Detection, With TensorFlow",
+      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
+      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
+          "width": 877,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow",
+        "Computer Vision"
       ]
     },
     {

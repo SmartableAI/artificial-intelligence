@@ -1,20 +1,20 @@
 ---
 category: news
 title: "mCloud Brings Natural Language Processing to Connected Workers through Partnership with Aiqudo"
-excerpt: "Professionals will be able to call up information on-demand with a single natural language request, eliminating the need to search using complex queries or special commands. A demonstration of ..."
-publishedDateTime: 2020-10-01T13:00:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-9351204"
-webUrl: "https://www.finanzen.net/nachricht/aktien/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-9351204"
+excerpt: "Professionals will be able to call up information on-demand with a single natural language request, eliminating the need to search using complex queries or special commands. A demonstration of mCloud's AssetCare capabilities on smart glasses with Aiqudo is ..."
+publishedDateTime: 2020-10-01T11:14:04Z
+originalUrl: "https://stockhouse.com/news/press-releases/2020/10/01/mcloud-brings-natural-language-processing-to-connected-workers-through"
+webUrl: "https://stockhouse.com/news/press-releases/2020/10/01/mcloud-brings-natural-language-processing-to-connected-workers-through"
 type: article
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "4Ot8XQGj3Ciih/CaZ4lJ0E2sHIciyhGB4D7vmYPlfFVi4u5pItBspIMsvbxiZN/9xZBWYRUUEOI+qwTGnfOntskqS3D9L0NjZM2DqPxv1c20g7gNz+WKnzSgrKfP9EOsAGhn0/tLCR18mwl45o+KypojIzHP8MnXtI5vvSWmyw18kw5avuC0Q1jKmQgkM+ZMoM3JmatnuVTDYkUgCA27lgkmxdwR8dt2Z1YfK5S5Uu8xIQVFuZTMhK01PVeCQud4h8Bv+DEWfnIwjKzpmyiga20qiU31YDp7M7E55UfbJddJ3IndQNjdF5F/TfbbRfg8wHL48cTIO125YP9qnEvlUGfJ1keJCSlpOLgZPmNiZho=;+QW7IkWguZ+vozkwlufJOQ=="
+secured: "eI3245fpX/Ra8keL8ys8NQKDAv8Jjrf2XPIlwMJrVfJuUOd0Yh45yWULvlWwgUAt7VyyFjDey+fdw9GNWEvDDrvQIlCV4P44+NIwD7Nx8efYxEHz9J4PvOARnQO7mnzYHfr+XeVGOcuYZE2PP2MKyzRy12Wko1ZchKoS15yiYhqcrzWJfCP4sLB2nGcjGuiJlELZlH4MosL75ZtkXMhaOLg8vqeCNP4+0v7dQhsHAYWQLbCaIryFMhk6TosUdju7yZ90WDXdIklRr3c/1FATY/ZJR0tIl6TMIlUdo5QUhqzOCXte0jKfe2Z3EX9AnsMfgtThprboPzhaDmka2lcKcoxsroFMWJVnKfdQ4GeQ3ds=;aFmVvPeSA2eoxFzf2Q/Pjw=="
 ---
 

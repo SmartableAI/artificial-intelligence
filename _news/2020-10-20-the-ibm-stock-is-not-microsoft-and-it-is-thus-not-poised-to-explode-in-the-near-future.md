@@ -152,6 +152,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
+    excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
+    publishedDateTime: 2020-10-22T00:51:00Z
+    webUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
 
 secured: "H7Pd6nUZTYMOS9U5qYZFt3JbzZKfJFBHh5vFK0Wdkj+5pV9tLCY6KPJktOcfI2AFLlDFa0E4yLiwvBqU79NL3tu3bx6oJCxGEsNzd5Vcv8hz87PtC8LkQPlVMcLjni1+IsV7ywGR9AMGm2/+lQk3xArR3OPhwKwlIOOr5JMqM4NDIcXOigixiq0DrnRA4nR8upGhpHmR29zhOcYxPoeOfaAHfO3dSHXJ+KbIZmI1OFh3s6YhWrRGWMJv8WRZ1HV8+P4Lbpiokn0yN++h3Mr4KDjE/93rAT1e52x0/+WG5MJBj+4zLwaBXlp75fbc0B1CJ6h2f42FL5Eb5J1v2oHbunZte7VZ22ZxCECHTyKzzB2rWADEW2iH+Y9/ScvHM8VeWS60tZGoLsf3hv6Mr6d68IwKYwfrEq+ZvC4r4IoFvkj1o1tVlwwjebblVwAJS45A4kwzf5BEnciCiscLw8IwiORbgCJUhp1So74a9edeNfKa4hZeLC1jrHNForr4mHakp64YP+SlyWuAB+m2t+JWSQ==;kUVF9LfHOL/i7Ucn9mgFLg=="
 ---

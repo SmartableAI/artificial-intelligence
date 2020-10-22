@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-09-the-responsible-innovation-framework-for-the-age-of-ai.md",
+      "title": "The Responsible Innovation Framework For The Age Of AI",
+      "excerpt": "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg",
+          "width": 1200,
+          "height": 986,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
+      "publishedDateTime": "2020-10-08T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19.md",
+      "title": "Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19",
+      "excerpt": "Reportlinker.com announces the release of the report \"Computer Vision Market Research Report by Component, by Application",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/g17845162/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulat",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/g17845162/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17845162",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17845162",
+      "publishedDateTime": "2020-10-08T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-daily-crunch-waymo-opens-up-driverless-ride-hailing.md",
       "title": "Daily Crunch: Waymo opens up driverless ride-hailing",
       "excerpt": "Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for. The big story: Waymo opens up driverless ride-hailing Waymo hit a major milestone today: It’s",
@@ -1067,109 +1153,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them.md",
-      "title": "Nine Big Hurdles Of Adopting Artificial Intelligence (And How To Overcome Them)",
-      "excerpt": "Artificial intelligence is an extremely valuable tool that can save your business time, energy and money. However, implementing AI can be a big challenge for any company. From choosing the right AI-powered tool to setting up the right data inputs and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dce40f79d0a361086b5fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
-      "publishedDateTime": "2020-10-08T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts.md",
-      "title": "Exer Labs raises $2 million and launches computer vision app for Peloton-style coached workouts",
-      "excerpt": "Exer Labs has raised $2 million in funding and it has unveiled its AI-based Exer Studio app for the Mac that captures your movements for coaching advice.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/exer-4.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
-      "publishedDateTime": "2020-10-08T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

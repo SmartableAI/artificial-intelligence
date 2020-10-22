@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft's Azure Space Program Gets 'Modular' Datacenters"
+    excerpt: "Azure Space products extend across cloud, edge, machine learning, augmented intelligence, automation, networking, visualization and digital solutions, he added. Essentially, Microsoft intends to ..."
+    publishedDateTime: 2020-10-22T01:02:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/21/microsoft-azure-space-modular-datacenters.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 54
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/rcpmag/Images/2020/10/1021rcp_azurespace.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "fWXhi78v2LdNpA8Nq92QdL2BnB5GlvCghQS2ItliSZ/jekzAGIipB+j+zDolF+inrJkbjm+idt8Gqx1ovYqBsG9hh7WNsYbU83ZsBjGhqER5sIbR+zvi0HvNtVeQc92764sr2xHfpu0ZxcUqEA2guT1/HqLeW1b+nZyfpZcdCKqmuzPQUwfdPrN8n+LGPZqGkDUqx6uWX+9UvUEROETDdjnU8oT8jSMLwGqvKI7gC3mWYmqekPlN2A6laaDDapbe/Tm4lSXOJKtnCVkJ5kMBJC71wPHNREyWqWnzkxwwlUrrFBr7V5t67CyTHWqt8d8nSovYxaRaO4ry1PMICqP/T+/CoUHX90A0LwUSpY/mcpmXpc97v+7/2LXByW9XygeDWFWqSymwYxAiOgszBp5TiM3yB4QIZ1Is/oY2hdXq09iIiFEgJjPdyF5HhsxXPA31hrm/pCCvYjyagfnM1rJYP4sqRSSjHqD9UC8KYPcxa2UWU3B2VP9dHLW84R/T4elYDEwvn0Sy17rTcnVhpw1XgQ==;DzDt+ZSMxq6N4fJi6MHuyA=="
 ---

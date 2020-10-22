@@ -102,20 +102,6 @@ related:
         width: 300
         height: 223
         isCached: true
-  - title: "Will fintech change the face of banking?"
-    excerpt: "Fancy new apps have become popular for everything from making a payment to buying insurance and shares. Should the big banks be worried? Simon Wilson reports."
-    publishedDateTime: 2020-10-17T10:14:00Z
-    webUrl: "https://moneyweek.com/investments/alternative-finance/602166/will-fintech-change-the-face-of-banking"
-    type: article
-    provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 39
-    images:
-      - url: "https://media.moneyweek.com/image/private/s--gSFQ7iVf--/v1602759072/1021_MW_P16_Briefing.jpg"
-        width: 1408
-        height: 792
-        isCached: true
   - title: "AI in Fintech Market Witness the Growth of $7,305.6 Million by 2022"
     excerpt: "According to a research report AI in Fintech Market by Component Solution Service Application Area Virtual Assistant Business Analytics Reporting Customer Behavioral Analytics Deployment Mode Cloud On Premises and Region Global forecast to 2022 the AI in Fintech market size"
     publishedDateTime: 2020-10-20T12:51:00Z
@@ -234,6 +220,6 @@ related:
       domain: www.bna.bh
     quality: 4
 
-secured: "wNy+/gAKAI6tgQ2Ixp7QOjyG6Oy/qw44u10WxtH/ddFwKkonjRJvtrT7R4STwQUOsikNLRt5rF5semCH3KyQCi03nYHtUbJ/w3tp5/PbVImvwgoWjDLtytW08TNTCyu6+2JoWz3yZxfBNB8x/JCwud4GgqvCUSbn7NOC3eOVFhU3Kx4Tday/bcIXAe6UJoJppyV/x1TjnU+lN4PqVVLxyfBeEgeWNvFcLEiazkzjMNgtSvKFRPNU4ul2oXmzwhjdEEJQUdJQOOVjg9IoX3NX3BX9FxvLxGN9wZXLYjKdqLwuV1JomOyHE3GxRg7izx28PxjDG6o+iPfUzwVgu6Lx8FkPG9YkEG0V3XLNxxW7SaH/BAfvUEr3IWTs2PtDub7nbHSDeNCmr+gXvW8aioP4zom5Kg367xeJT7sKCzBlsx/NM4g0mKgpObmlSlIjzdR+i/g0+heVIlTY4/Z0fCAkwyXFnni2yjtyXsA3HNIOoJ+VvThNQ1ppxJr8J8bVS5K83I/YE6POaWG5YEZAV10rCA==;NECeUxpc0rGOlxPMn6o1uA=="
+secured: "m71v7MZKScc8/5LcCu2tF4XjuGIHHZyvxXXUrfmRam0fApsebdemGW3UHPxCDqnoluqmv0KVAWFrzP66IzE8GOqi+IzSmKtO7gyo0ByByOOWlDIdjgVLI2ta7fdULGIQGlnu7nrv0deSEjgK7bpY1g/icOsATzi8GdVz7vCKu1RAfK9wjhOJDSfV24orUqvp8cA9AISfAHWGEaR3prGlCI0zoJtGTe+n7ZCeRhZH3P8SiXoV+dy6YfC0A0aWFbrHBaObYmk2Lo+nOctGbT4LUQGvhTS6o5hncW5PWFEDoEkHyZ/zFkG08elLZvudKII2cIVXDUQ1UbPPz8Qn/vWX87psxenHMbecxMbuvlAz965QQAeMF4MO5iM0G2aXRKZYa3vOMCovqij2u1eOSqUcnXdng0DQEI39qs2cS+kClTbGLPzoCOCvwtRQslqYgUyqu970oqvdR4RISRSzr8F/ucq0n983nsE/iD08zkSc55Gph3U+KX1KA7Gq+ispHpR8fXlJmPkfj2gE/Uq+ody8aQ==;FyvYDJK9/W8b9LM7lsJq2w=="
 ---
 
