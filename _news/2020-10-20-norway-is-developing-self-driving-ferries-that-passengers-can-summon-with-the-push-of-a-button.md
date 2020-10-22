@@ -49,7 +49,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 48
+    quality: 50
   - title: "Remote Construction Market Growing with Surging Adoption of Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) and machine learning are keystones enabling expansion of the remote construction market. Future Market Insights, an ESOMAR-certified market research firm, in its recent study forecasts immense possibilities for the market ..."
     publishedDateTime: 2020-10-19T19:43:00Z

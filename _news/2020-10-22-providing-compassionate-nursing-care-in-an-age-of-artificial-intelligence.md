@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-21T17:40:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/providing-compassionate-nursing-care-in-an-age-of-artificial-intelligence-1029706443"
 webUrl: "https://markets.businessinsider.com/news/stocks/providing-compassionate-nursing-care-in-an-age-of-artificial-intelligence-1029706443"
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 related:
   - title: "Using A Kill-Switch Or Red Stop Button For AI Is A Dicey Proposition, Including For Self-Driving Cars"

@@ -68,6 +68,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Saudi launches national artificial intelligence strategy"
+    excerpt: "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said."
+    publishedDateTime: 2020-10-22T00:19:00Z
+    webUrl: "https://www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
 
 secured: "4BVSpCuR0ADZqNGUFPB7b64Aaql4uuYjEI835dFR1NB/iV8VEhd5ou/F3vEvZGSSQbHxb8WXaya1noNB6XhCnYgknoYhN8tVvz2qJStBnBOnYykOhrf4u8WwPRMtgKd1YxmkeR9yvRQCY4SfOVPJnvj/Yv+giE8EIlkjkNlVOIE9gsBt5/BmSQ1VwfZUyTryggJs/wb8AJoZ5x4t1IuJEw5SBhNG4JtSvhrz6T6NnUjL1dz3XGIC277vlpbawwh+CP1sNkifvpvyPFek/myoPr9gdK14/5YUgpOs+RLMywTLnqfZcVM0GA2TqCfDWWeG8+6nxZvxYRqcAs2lSmlpe3/wuG6UBrEopjjPYUa7m/s=;SXXfI1zzY/6bwQoMzzKGHA=="
 ---

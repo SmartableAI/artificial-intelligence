@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2166014/ai-in-telecommunication-market-ne
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
 type: article
 quality: 68
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: openpr.com
@@ -27,47 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market May Set New Growth Story | Microsoft, Google, Salesforce.com"
-    excerpt: "Oct 19, 2020<p>Latest Research Study on  Market published by AMA, offers a detailed overview of the factors influencing the global business scope. Global AI in Fintech Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
-    publishedDateTime: 2020-10-20T11:30:00Z
-    webUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom"
+  - title: "Salesforce’s Simulation Cards spell out uses, risks, and bias to make AI models more transparent"
+    excerpt: "Salesforce's Simulation Cards aim to bring transparency to historically black-box published AI and machine learning simulations."
+    publishedDateTime: 2020-10-20T19:50:00Z
+    webUrl: "https://venturebeat.com/2020/10/20/salesforces-simulation-cards-spell-out-uses-risks-and-bias-to-make-ai-models-more-transparent/"
+    ampWebUrl: "https://venturebeat.com/2020/10/20/salesforces-simulation-cards-spell-out-uses-risks-and-bias-to-make-ai-models-more-transparent/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/salesforces-simulation-cards-spell-out-uses-risks-and-bias-to-make-ai-models-more-transparent/amp/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 51
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "How billionaire Romesh Wadhwani is using his own fortune to build SymphonyAI to take on IBM, Microsoft, and Google by creating an enterprise AI giant"
-    excerpt: "Perhaps the closest major competitor is IBM, which offers its Watson AI platform to industries like healthcare and advertising. But Wadhwani brushed aside the potential rival, claiming its efforts to-date have only resulted in \"mixed success.\" \"We respect ..."
-    publishedDateTime: 2020-10-20T18:26:00Z
-    webUrl: "https://www.businessinsider.com/billionaire-romesh-wadhwani-ai-enterprise-google-microsoft-tom-siebel-ibm-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5f8e5a29c21cfb0019468ec6?width=1200&format=jpeg"
+      - url: "https://venturebeat.com/wp-content/uploads/2017/06/salesforce-tower-indianapolis-e1571779672792.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Machine Learning Operationalization Software Market is set to see Revolutionary growth with CAGR of 44.20% | MathWorks, SAS, Microsoft, ParallelM"
-    excerpt: "Latest released the research study on Global Machine Learning Operationalization Software Market , offers a detailed overview of the factors influencing the global business scope. Machine ..."
-    publishedDateTime: 2020-10-20T07:30:00Z
-    webUrl: "https://menafn.com/1100984674/Machine-Learning-Operationalization-Software-Market-is-set-to-see-Revolutionary-growth-with-CAGR-of-4420-MathWorks-SAS-Microsoft-ParallelM"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?560509"
-        width: 465
-        height: 250
         isCached: true
 
 secured: "Ug4vlj1IhlnvvecjBFBa3xXoL4yNqpngAkEsGVZqreRMEUpK6YwusICipkgH/tvtltfnTJFRxoUCc52X/OtnXxZSfMyUUS8fP1UrzcGj9K0wuRWYNcqDRN9SM/jm6U87pYav8E4NqZyP96puEtrZyXZgnX5jf03D7zqbXkhbNs3WJuUi2XcHWpJUp3gTq2ehwbu5Po8QxKQKnfyOz9Vww42nt1uBqCdCzSuo6XwyFXIm5HdHUhe4WleNb6ZIVuiNF9p92D8Bl3kcu5p26yvcIOW3ng3NL73FcwOII5J2f+xYeMPQrIbA/ogHGv4LNGzh7PuUN0j6YNTHliK9KhujmH3hxBD/oWBEMCNPylRjVDmzY9PCC6cWIdpuWgrUzkNZHcH025PGUatNvRyBJGEVHy+KWmCxoPMeMcrAOj6+fizofifxvkdMWLXRqLvWXPCrgmFHgcMTv3VKl9EY+YE6cBCB41kJe4+QCA9MluQm7X+s5oz9BzXfG79hYtilHppikKfGgJ4GXAyeJbE5aODTKA==;2/di3RAtrGXgCwJXia3Rtg=="

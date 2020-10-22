@@ -61,7 +61,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -101,7 +101,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -269,7 +270,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -309,7 +310,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1027,7 +1029,7 @@
       "originalUrl": "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {

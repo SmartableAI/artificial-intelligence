@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-
 ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/"
 type: article
-quality: 88
-heat: 138
+quality: 90
+heat: 150
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a348132e6eddbd3811cb%2F0x0.jpg"
@@ -90,7 +91,16 @@ related:
         width: 2000
         height: 1296
         isCached: true
+  - title: "STC partners Nvidia on AI computing infrastructure"
+    excerpt: "Saudi operator STC said it;s working with Nvidia to build Saudi Arabia's first AI and deep learning cloud infrastructure, enabling domestic enterprises to adopt AI. STC is joining the Nvidia Partner Network (NPN) and will be the first cloud service provider in the region to bring AI capabilities to the"
+    publishedDateTime: 2020-10-21T14:55:00Z
+    webUrl: "https://www.telecompaper.com/news/stc-partners-nvidia-on-ai-computing-infrastructure--1358661"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
-secured: "TBJQaQgHtzQ6CraGiDt94FjKZzrSi8rufPuvXNezwW9Dk7wJZaibzGJZOQ3a47XehZVYG5ef2GwUq1rvXgmHLarYm851KFDe4pSiXgY5ol4bUhh0nSfbwvuvXyIGgnFOMGh6mlyex6KldhRy/kIP+ZgQloC/B4TAOO5O4IY03TFp+rOiCj8tmAyj7+Du80bz1WT3HUrrR3T5Vv8PJlApNRXBE1c+1l6igLt7gWR6fOrCxR1Vfa6y80iH/t5WN4ZzQiq/0oEBHfOBOpYJI5C92sCw/B+ZfUChvfl5xjAm8SGRjLbDPzk0T9JJZWyv9VOmRFUCYMVXBCA0tffcqn2XCov6bLeaPaknfP3771GiGLQ=;AtO48vHWM/QUjRh1yak7GQ=="
+secured: "RSt1qqln8bnvUfZ9yXes2qJnx2qdZ3EsXzWcTx29W9f2cRzxM1aLmMFIcxojeLNWx7YSgVgtBkdeGqXnLNItUc+sdEmhwNFRV3LXhrvavWWSfJWJD2oYZmuMkakRJNdZgXfwrDkoTAMRAHlQgm7k3fIi3AQ7tjxl8Bsf4DfIhjE6If52kHvOayQS8YGuJ5I2VAbmN3lNWcAqo+Sdigd4P2XtXG+FlEHJT+bLd0GbQ1O3rGszN3HoN0Yu+DTlTaK0Tghp+fJsiDj/sQrEd0Js2vzZb7SkT2lSk6DDIg6mUvvty+eUYMdNBQGeZK21UDkRrYJRtXBJWMeohd6kpTeW7nnvfLQJXGiCxK0dv92J9BytnTazmH0KgSItQOpCmM1QliXqAcL3XHVny8UetwDkJqTxF6HiFDa2/g9L/YCfzqguyrBBj4FtNowxK0OdPvPcdL83JCSGMzAYJ+76wVVGD98iVutRjJ2y+rSd6TXS6HBGXK7u8MBpvS6eLBYrgm3k3d3rhNdmKSRTCfs/k05xPA==;UXg+qSl90HDCUSUdwGNlcg=="
 ---
 

@@ -57,15 +57,6 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "STC partners Nvidia on AI computing infrastructure"
-    excerpt: "Saudi operator STC said it;s working with Nvidia to build Saudi Arabia's first AI and deep learning cloud infrastructure, enabling domestic enterprises to adopt AI. STC is joining the Nvidia Partner Network (NPN) and will be the first cloud service provider in the region to bring AI capabilities to the"
-    publishedDateTime: 2020-10-21T14:55:00Z
-    webUrl: "https://www.telecompaper.com/news/stc-partners-nvidia-on-ai-computing-infrastructure--1358661"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "jfaNXaYGgnzTGIrohVjOwPFsZuBODfLrFB43V5uHf13GXp4r9VEvp4Nbsvk2NCjuxrB5r9FskTlLA0FO6u5GEuwR0mnR98EQFAdB/8Ojv8uFMrmkiLFXy1jg75/C2s141qyvqj6Idb/N4qkE9YCo+xWzGk5axDgWobzPkwt5XPm+bnIko1ZOzWJNBD6lRdaesPgd4JW7GU5Hu4c6W8FfYO8iA8wxN7rXh8MxTXzBfBJ6oZjRYa6Y2sNSoLGT8XugD0hyGkLHI+vH8pIMNVcmaTk2PTS7l7IiQOPS3q/urNOmrtHBbNN7lsygdaOHhea7kkIqAFrztZ5xSFPe1+Cbr4sOxONJoZMhAGwE4PgqGzWbN5TWIytWBNq7NzJ60Yo6vhuxvaa02vZlgMosWZDVM5wLxTE68sXkQe2Gye8OifqEdUXc93LiO2BeGzv1IS3a5JdiY91+wZrfBxNEP6ZuNf35XLwe5+Cv0IJHBtLO/dstYb/T1+7IdU0X/Nt4BcpznBQfJdcSajB1FrhbC8bCTQ==;Ies4r49rwxkUFzs4KGF27g=="
 ---

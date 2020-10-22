@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/billionaire-romesh-wadhwani-ai-ent
 webUrl: "https://www.businessinsider.com/billionaire-romesh-wadhwani-ai-enterprise-google-microsoft-tom-siebel-ibm-2020-10"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -29,52 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AI in Telecommunication Market Next Big Thing | Microsoft, Google, IBM, Salesforce"
-    excerpt: "Global AI in Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market The"
-    publishedDateTime: 2020-10-20T17:07:00Z
-    webUrl: "https://www.openpr.com/news/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
-    ampWebUrl: "https://www.openpr.com/amp/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta20699228_g.jpg"
-        width: 535
-        height: 300
-        isCached: true
-  - title: "AI in Fintech Market May Set New Growth Story | Microsoft, Google, Salesforce.com"
-    excerpt: "Oct 19, 2020<p>Latest Research Study on  Market published by AMA, offers a detailed overview of the factors influencing the global business scope. Global AI in Fintech Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
-    publishedDateTime: 2020-10-20T11:30:00Z
-    webUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Machine Learning Operationalization Software Market is set to see Revolutionary growth with CAGR of 44.20% | MathWorks, SAS, Microsoft, ParallelM"
-    excerpt: "Latest released the research study on Global Machine Learning Operationalization Software Market , offers a detailed overview of the factors influencing the global business scope. Machine ..."
-    publishedDateTime: 2020-10-20T07:30:00Z
-    webUrl: "https://menafn.com/1100984674/Machine-Learning-Operationalization-Software-Market-is-set-to-see-Revolutionary-growth-with-CAGR-of-4420-MathWorks-SAS-Microsoft-ParallelM"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?560509"
-        width: 465
-        height: 250
-        isCached: true
 
 secured: "gZ4gtn3YfLygtZjLvDOVUSfEGYQpkag6CfmzlqFq8t/LGtu2Y3OL0ABzadinZeuvaWipqK977oK2CNWX99dmLRzoi+OrH1SZqGPSZY2adoPYsGFn+pi97mhKHv9Zcr1y03+qirvkmNf48rt71sqrK4trV0y80l87dvJDicjOIXR70frtKq2oVlziZy+O62Tv+CSSdIx3GDPlKC41r8MgVk5FFNBIuUG7x3Fpr5ruhjgWoKT/bqQn7xhzgVMlVKHDG/RLor7CRNuwPJvwesQ4pzBLfNXqR6gVbbTpo97EJ5pioaORbGRpcfBd+DwlPnaxWA3cDRMOrVxUjIzDNHssHg9jTlJaXE51wnRF3ibeZchIoL1DNGOzk05X33Tj8KL+h3ZRKECxH36vJZK4kVi72mIN0zQEo+fWhEauEEpBh+7HbvEvFeC8LoxaStXnRE5+PXlEt9UJwKSPIKNa1AfR9EFnKdn+9MJkZEkkINvSDYtHG+Zs1410iw1F+LJL6c18NZp870Mq0P1meuj4odOSIQ==;gWyGaLmG20C5oTeeRHKUHQ=="
 ---

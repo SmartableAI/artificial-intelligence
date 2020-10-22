@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://imagevars.gulfnews.com/2020/10/20/Fruad_xx_17545205bb3_large.jpg"
         width: 750
         height: 563
-        isCached: true
-  - title: "Japan Fish Industries Utilizing Artificial Intelligence"
-    excerpt: "Tokyo, Oct. 17 (Jiji Press)--Japanese fish industries are starting to use artificial intelligence to select high-quality fish at markets and find good fishing grounds, areas where they have relied largely on experience and intuition. AI tools are drawing ..."
-    publishedDateTime: 2020-10-17T07:37:00Z
-    webUrl: "https://www.nippon.com/en/news/yjj2020101700226/"
-    ampWebUrl: "https://www.nippon.com/en/news/yjj2020101700226/amp/"
-    cdnAmpWebUrl: "https://www-nippon-com.cdn.ampproject.org/c/s/www.nippon.com/en/news/yjj2020101700226/amp/"
-    type: article
-    provider:
-      name: Nippon
-      domain: nippon.com
-    quality: 57
-    images:
-      - url: "https://www.nippon.com/en/ncommon/contents/news/319933/319933.jpg"
-        width: 450
-        height: 338
         isCached: true
   - title: "Artificial intelligence is changing everything in insurance claims"
     excerpt: "The goal of every claims organization has been and will remain quickly adjusting a claim at a low cost with high levels of customer satisfaction."

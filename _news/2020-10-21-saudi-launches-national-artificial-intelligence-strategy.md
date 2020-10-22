@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2761N6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761N6"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -56,6 +56,17 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
+    quality: 67
+  - title: "Saudi launches national artificial intelligence strategy"
+    excerpt: "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said."
+    publishedDateTime: 2020-10-22T00:19:00Z
+    webUrl: "https://www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 67
   - title: "Saudi Arabia launches national artificial intelligence strategy"
     excerpt: "Saudi Arabia launched a national strategy on Wednesday to become a global leader in artificial intelligence (AI) by 2030, Saudi Press Agency reported."

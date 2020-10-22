@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/nvidia-will-build-the-worlds-f
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "STC partners Nvidia on AI computing infrastructure"
-    excerpt: "Saudi operator STC said it;s working with Nvidia to build Saudi Arabia's first AI and deep learning cloud infrastructure, enabling domestic enterprises to adopt AI. STC is joining the Nvidia Partner Network (NPN) and will be the first cloud service provider in the region to bring AI capabilities to the"
-    publishedDateTime: 2020-10-21T14:55:00Z
-    webUrl: "https://www.telecompaper.com/news/stc-partners-nvidia-on-ai-computing-infrastructure--1358661"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "zgdjlRoYWY3d20UE9NOgL9idoRK5nnt/Zu+cnKWmyNd2AmUJUwFfk6YYXYMTsYpmsCVZ0DWthDBKrC7dFmVYakIQA+y5jAGjsWyX+98g9bZdF6PDsnnntt41hlOwdYHYLkORElalRhkHIk+4x9F2xesdnKIEGhVdFxQnm/MxrXQldWEdLe8eIm9gizN6HmfnoFsim50goqXMw/axih44aKYPmI0o/7vUby5bBshBi+LUPK0ySYhZ4OxjoTEH3oIc6O78uMRhihpEScw/bIsVeguzPyeEjLVWON+bcdD+sYxeGEKJbhoZAZ8sEDCPdfg1gR3UKSKbE0Z19NSjbYJK/f6b+5gzuZDf2b3z6PH4EZkiBJfhzbNNNH37qncoHmiuY6QXTaodrrid3tcqlSZsP+rhDV+Nt7Bh2cjvilX0b7kyO6BiHOCjpVd/21E6IuUUGgZjovg5PSE6mET15bXeE2/LOmiu8nSx1qmM/pH25raukwlxTU/gkJRqT5kGycfHOWvLeHDDX/1WRnu2y/H4gQ==;9sT+35PFSR+Vymt806qzDg=="
 ---

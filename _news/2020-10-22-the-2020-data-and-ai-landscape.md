@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/"
 ampWebUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
 type: article
-quality: 89
-heat: 129
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all"
@@ -89,6 +90,6 @@ related:
         height: 228
         isCached: true
 
-secured: "M9JIU26I4u8aM7ZlnrXmYlWMg6Rud/3fm7T+Pk+XUzcbwMNQeki16E/M31NIpuF+6om7ZOz+idMOl2Lly3U/Im3MUkg0v2XVlJ8yKPExjZIbSJ+pY/1Kl2Q5JcAJ4jF+cDtoBY0aPfq8aGxYl326HBOPJtSiiZ7bWEYF9wcPN6FizYRvMrFvhi+z8tlouEG6sqGVM0dcPiUplFH3rNGVNOgoirD0GQYW799BUKIX10HFtUwe1afnBbiHKfA1mB9v2kZ/Dxv9QM8M/rSM8OaNY8V6JyEYdh2HzZYX/T1Rf4mfI1a7x4o8W+xWFHFPwivUsEvY+rpi9AzQgG4LYhSH27g3ixmBrKMh5J428Q2oeww=;WrF0L2VG4tR5dtQza6WWeQ=="
+secured: "rkWYSoyL9RckcQPLtavqM8U3SjFMHF1Y4CuYGExLpLthzBjQHsHkhTLFtS2R8UhfMA8QgFXVkBjTc/NsrgEEV2VRifNRbvvY1ubkUabEcAEroZ/IYZFEojxlcW7J5JPX/pbiLH3encWBe/K3cHzet29FSoHvN8WvDalRN0ENN0pEIdoQGedc2wVJY65N6A+Acg0W3A/3bmfkkcS95yT92O/6S5qHYFeyWphlpYI9ts/L2FHvvEt5s5glPzTunHtMyGkHOsHJc+MITcVhIrTQlAtWU1kSya4lxLhZi70QkMFIBQre9Qj+AQgLuB52pIIn+U9LMFD7+ZTnqHn9j+fnTrmtXSjBKeX5GW+cTMzexfY1WIKjzIC0J44m3Tfne/gZXB6RGOx1C7KBjvQ5BgM6BS9ltdc1vH8aKld+tWapaDXP4/WyLMgpah0PRrwqEwUi0QkVReCJwcPU+kBtHWNGdeaXmOXfhFJJxeA41X8y1IPyiSHtr7pubmIXDsnpQhFRfL6kYJQ5WfXT9vLbomrobA==;qgdmt4gV6Owa3DhULcLGnA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Gro
 webUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,36 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Telecommunication Market Next Big Thing | Microsoft, Google, IBM, Salesforce"
-    excerpt: "Global AI in Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market The"
-    publishedDateTime: 2020-10-20T17:07:00Z
-    webUrl: "https://www.openpr.com/news/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
-    ampWebUrl: "https://www.openpr.com/amp/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166014/ai-in-telecommunication-market-next-big-thing-microsoft"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta20699228_g.jpg"
-        width: 535
-        height: 300
-        isCached: true
-  - title: "How billionaire Romesh Wadhwani is using his own fortune to build SymphonyAI to take on IBM, Microsoft, and Google by creating an enterprise AI giant"
-    excerpt: "Perhaps the closest major competitor is IBM, which offers its Watson AI platform to industries like healthcare and advertising. But Wadhwani brushed aside the potential rival, claiming its efforts to-date have only resulted in \"mixed success.\" \"We respect ..."
-    publishedDateTime: 2020-10-20T18:26:00Z
-    webUrl: "https://www.businessinsider.com/billionaire-romesh-wadhwani-ai-enterprise-google-microsoft-tom-siebel-ibm-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5f8e5a29c21cfb0019468ec6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Machine Learning Operationalization Software Market is set to see Revolutionary growth with CAGR of 44.20% | MathWorks, SAS, Microsoft, ParallelM"
     excerpt: "Latest released the research study on Global Machine Learning Operationalization Software Market , offers a detailed overview of the factors influencing the global business scope. Machine ..."
     publishedDateTime: 2020-10-20T07:30:00Z

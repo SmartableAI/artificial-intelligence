@@ -35,7 +35,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 88
+    quality: 90
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a348132e6eddbd3811cb%2F0x0.jpg"
         width: 1200
@@ -86,6 +86,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "STC partners Nvidia on AI computing infrastructure"
+    excerpt: "Saudi operator STC said it;s working with Nvidia to build Saudi Arabia's first AI and deep learning cloud infrastructure, enabling domestic enterprises to adopt AI. STC is joining the Nvidia Partner Network (NPN) and will be the first cloud service provider in the region to bring AI capabilities to the"
+    publishedDateTime: 2020-10-21T14:55:00Z
+    webUrl: "https://www.telecompaper.com/news/stc-partners-nvidia-on-ai-computing-infrastructure--1358661"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "HZpLH58UAdBwk+33kIxJVRLutjGD6xAUwCvTi3QyYdtBBKGjicJyK1cBOymHUAI7QITIuJD2SpHY6ahvQqXy7MoDS2un4vzsVXj03NkwZamzIw1laPK8RJQQhhWsFv43lyjgM/stPokcpQcoq8kwQ38VYr/4LCuRa+EQPoc2ksPSaU+A3XtSLzfK2Bb2fUmL5geC7kKEGzODHN9i/RwfEg57e92SdjESavdhCBQS4qWR2DyvavRLoMXYFbm5FSpQnV0NPcYppweLKImovozTNnE8ruxFtTKn40o0Yr6poefmboRr7ZRejWghu7ZSrP/QU/sMkgiiHXdgF6hXmSjFmlvCX5xsA3lwRnk8j4lrBMI8FXanFclT3dv2X5PA3M0AECOHl5WUE0LczpBOaJgI13F9ZUbt0ZC5eZbyA96Sl59UtAnoFKY6GD+3q9Sh/dvTmaA7J2lgqsCzb2E5fAT7qHUQG1sObsl2YUZ4GJkdSJz8Emi8DoGfDH/a8ZFMViydy1loWMLWlqi41ZXt7gzk5w==;0boowD/Mk+3B1G9UO1xWoQ=="
 ---
