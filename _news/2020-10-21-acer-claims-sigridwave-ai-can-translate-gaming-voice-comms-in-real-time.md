@@ -28,14 +28,19 @@ images:
 
 related:
   - title: "Acer Releases SigridWave, an In-Game Live AI Translator Trained With Game Jargon, for Planet9"
-    excerpt: "SigridWave is an in-game live AI translator that leverages deep learning technologies to break language barriers and facilitate communication amongst gamers around the world Having been trained with over 10 million bilingual sentence pairs so far,"
-    publishedDateTime: 2020-10-21T14:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/acer-releases-sigridwave-an-in-game-live-ai-translator-trained-with-game-jargon-for-planet9-1029705467"
+    excerpt: "Also announced are functionalities designed to enhance competitive play, such as a framework for hosting tournaments Editor's Summary SigridWave is an"
+    publishedDateTime: 2020-10-21T14:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/acer-releases-sigridwave-an-in-game-live-ai-translator-trained-with-game-jargon-for-planet9-301156514.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1177667/Acer_logo_Logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
 
 secured: "1Jsj7L/dEtsyGI+YfIdWOBjCwYzY33rbH8JwK4gfh43TnmOS1XXAZlWr8PMtUMolUYmDyAlPG0n2sQTMi20GI+UyS7vMg6M3+ZAmL0c9aJUBXkSpLnQXPwUnABlsJNW8AP/wZibe0npGm59B5kIZ8Bje0sK+goIpGs21ORYug/imZaxqR41yRApZUHsMVCnW5ZwNsy7IYe9IQApHiVb3CQbKBAx+Rpb+VQc5B9hvYLnG9xGD3qPU9QjKAx8XXxuv+vteG1sduuJqsSucLEkiBHsAIqYs3AN+4H5pkRlY44Fz4wsz8MwMsaMXZSroYMyXrEjhdduJ/WdFbVyT+POb/nVDtoiGlEM3lz4oAq5vSoAvEJMgPws3PE6XR8C9q3LCx5xr/w7jwN6zOaVcdz2iFYcLptmf+5xxZQyKDdi2OqzkVfbxT8SGDEAbZVFzEAHHsfq35ZdInbF/OYHpNBXCciboFhmTax6u3/aly8B23LjOGyEd4bVEEoBnCAly7+DjGG+cbQyXMeDb6E8FRyoeZg==;z7PgVMtZzQFYQt4qjDqINA=="
 ---

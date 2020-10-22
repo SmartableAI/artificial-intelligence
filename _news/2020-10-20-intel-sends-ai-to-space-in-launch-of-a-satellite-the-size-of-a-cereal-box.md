@@ -3,10 +3,10 @@ category: news
 title: "Intel sends AI to space in launch of a satellite the size of a cereal box"
 excerpt: "Intel has sent artificial intelligence (AI) beyond the boundaries of Earth in a tiny satellite designed to streamline data processing in space.  The tech giant revealed the launch on Tuesday. An experimental device,"
 publishedDateTime: 2020-10-20T13:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+originalUrl: "https://www.zdnet.com/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+webUrl: "https://www.zdnet.com/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
 type: article
 quality: 88
 heat: 98
@@ -48,6 +48,6 @@ related:
         height: 675
         isCached: true
 
-secured: "dkPhuPyq1V3jTtIZ8yCGWx5imNhSo63/eYz30VJ9vA6skmzuRyna7jXRs8WMDH6UG8KNNIwG1uLf4vztCzXEwrapux0bkY3Ft35Z89Tex0z+b5Vv1nngI8hHLA5d0xwgYxE4sERoTAMA77B97+jdhoufxJpi17U95OysoCmQVTC5cn9fxgsCn4qh+LDxwrRB3R0UbLGWIJvA2GAzhnfuu80S/aUUfZSx5I318tP2dTSEBCudHYTM7ger3zFpsWOp2hw5xNsWeN1CQvUzKQFncpKcB4P0g4zHz+eR+EKhDXEn9SABLg6x/6ks3VT4Spg9zjZJR2NtFY/ziRH4UWib4oPYnlEcv4HySfxRyx5STsM=;4H2sXFUwSuJxZhWIgfOYMw=="
+secured: "uSvBuVRGb55CDZMFVQAVNiq88Pp2Bq3OFlnErDGXGEFJaezj0BrNic7q3tNUBDFuMBUkz/Pl4PV+zfSl+dG9+Uk5X2deHsE+vi04LimGsHA25dIZCqRaZZPzvFh2+ds+4s1m6stm6muu8si18+61xBq9SadzV3QXFcjBx/lMWiEYsSTmIdqnM9h8QkruOk+ZK5lYX8rJ7EIzUU5PHpL695qqnV9bGIBM8UV1we2w+zbojfYODEM1n2VDfmK1YSIorac7ZcAkwhJJKsf64dIoVjsmN+lHTl73e/Wt4ZbxJa+/VsZG6QdfsoScDNyARmX6AD2ak0C9wk993jzjKIFhUq2jqaJJIqRHQAI+jrTq2V0=;IDd9M/am196OVUp477n0Vg=="
 ---
 

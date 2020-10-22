@@ -59,6 +59,34 @@ related:
         width: 457
         height: 301
         isCached: true
+  - title: "Mental Health & Machine Learning – Notes from Tiger Analytics"
+    excerpt: "We share some perspectives on the role ML can play and an example of an AI solution, built at Tiger Analytics, to address a specific mental-health-related problem."
+    publishedDateTime: 2020-10-22T07:33:00Z
+    webUrl: "https://analyticsindiamag.com/machine-learning-mental-health-notes-from-tiger-analytics/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Mental-health-ML.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Analytics, Artificial Intelligence and the Future of Smart Cities"
+    excerpt: "Join experts from the Center for Digital Government and Google Cloud to learn how data analytics, artificial intelligence and machine learning can help your community address these and other issues in new ways. You’ll hear practical strategies for ..."
+    publishedDateTime: 2020-10-22T07:50:00Z
+    webUrl: "https://www.govtech.com/webinars/Analytics-Artificial-Intelligence-and-the-Future-of-Smart-Cities-123057.html"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 37
+    images:
+      - url: "https://media.erepublic.com/image/GT20-HEADERS-Webinar-Google-Cloud-11-9_1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ECS Names Aaron Burciaga Senior Director of Artificial Intelligence and Analytics"
     excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Aaron Burciaga has been named senior director of artificial intelligence (AI) and analytics. In this role, Burciaga will work closely with ECS’s national security and intelligence division in the development of AI and machine learning (ML) solutions."
     publishedDateTime: 2020-10-20T12:59:00Z

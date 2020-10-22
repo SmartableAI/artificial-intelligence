@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebooks-ai-can-translate-languages-di
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html"
 type: article
 quality: 106
-heat: 306
+heat: 316
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/xsr33x/article32910053.ece/ALTERNATES/LANDSCAPE_615/facebook-reutersjpg"
         width: 615
         height: 384
+        isCached: true
+  - title: "Facebook Creates the First AI That Can Translate 100 Languages Without Using English"
+    excerpt: "Facebook has created the world’s first artificial intelligence model capable of translating 100 different languages without relying on the use of English at all. According to the tech giant, most translation models currently being used rely heavily on English when performing translations."
+    publishedDateTime: 2020-10-22T06:31:00Z
+    webUrl: "https://hypebeast.com/2020/10/facebook-multilingual-machine-translation-artifical-intelligence-model"
+    ampWebUrl: "https://hypebeast.com/2020/10/facebook-multilingual-machine-translation-artifical-intelligence-model?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/10/facebook-multilingual-machine-translation-artifical-intelligence-model?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 67
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F10%2Ffacebook-multilingual-machine-translation-artifical-intelligence-model-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 780
         isCached: true
   - title: "Facebook introduces first AI model to translate 100 languages without dependency on English"
     excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."

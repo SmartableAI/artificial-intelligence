@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA and Atos Team join forces to build world’s fastest AI supercomputer"
+    excerpt: "NVIDIA and Atos Team this week announced a collaboration to build the world's fastest artificial intelligence supercomputer. The Italian inter-university"
+    publishedDateTime: 2020-10-19T09:16:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-19-10-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/10/AI-supercomputer.jpg"
+        width: 700
+        height: 500
+        isCached: true
   - title: "Saudi Arabia pressing ahead with Fintech to become cashless society, says SAMA official"
     excerpt: "“Several Fintech solutions are being currently implemented including Artificial Intelligence (AI), blockchain, and mobile apps, in line with consumer interests,” he added. Alsayari further noted that money and technology have become ..."
     publishedDateTime: 2020-10-20T07:28:00Z

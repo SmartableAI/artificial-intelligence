@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Acer Releases SigridWave, an In-Game Live AI Translator Trained With Game Jargon, for Planet9"
-excerpt: "SigridWave is an in-game live AI translator that leverages deep learning technologies to break language barriers and facilitate communication amongst gamers around the world Having been trained with over 10 million bilingual sentence pairs so far,"
-publishedDateTime: 2020-10-21T14:32:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/acer-releases-sigridwave-an-in-game-live-ai-translator-trained-with-game-jargon-for-planet9-1029705467"
-webUrl: "https://markets.businessinsider.com/news/stocks/acer-releases-sigridwave-an-in-game-live-ai-translator-trained-with-game-jargon-for-planet9-1029705467"
+excerpt: "Also announced are functionalities designed to enhance competitive play, such as a framework for hosting tournaments Editor's Summary SigridWave is an"
+publishedDateTime: 2020-10-21T14:10:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/acer-releases-sigridwave-an-in-game-live-ai-translator-trained-with-game-jargon-for-planet9-301156514.html"
+webUrl: "https://www.prnewswire.com/news-releases/acer-releases-sigridwave-an-in-game-live-ai-translator-trained-with-game-jargon-for-planet9-301156514.html"
 type: article
-quality: 38
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1177667/Acer_logo_Logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
 
 related:
   - title: "Acer claims SigridWave AI can translate gaming voice comms in real time"
@@ -40,6 +42,6 @@ related:
         height: 540
         isCached: true
 
-secured: "cIBNVU+/k8XAnaXzuDRde4Az5B/lAkAGnEOFzjnc3uKNZu1xyxN1cBxlawybab24sZZqlaxgkEAA0rMDgyZT45Gcf7C7/stpBh+MPuSfKEMVTJ3624aNyhNbHz4r8C4oECP6O8m0Lu3OyI16laKEuQ94+54lAcpwQ7U34/rl1ZOq1S/omseJQOEX6i2BY7ZqdH/bOrPI54gCxEb3NcNN2EH05zvvcnWBDFRUBAybtItStRM2TLrO0xeUbsgnwGyl5mJP80snilvx7FVCLSpP10aIK6SatFnRzJdWCRxBcdlptO4FB/I4BCA9cxl50liN5gAYSzr/R+Jxu3F52fNh6ZgJJJxfMmZ+z9+/Jl1Qjt8=;R+snmFcRa0+1xRqvCEz4AQ=="
+secured: "QPNB33MzT6Em6UGFsXBDu19WT1x2WzHiJRZ9mXrFLMowX/aPHer8K3V6fOCYmGhpvsxdD2GANzIiEwtV8/vpYQde7EKFJ9jZDZbJoDnOHizHDiEe8w4ryqs5hJPM5sNbnoSHm3slGswEJxo3FZwBWM4OYeRsEDDbOXc+2S0EImnGf8yIcPhSozcSeQufLhbZKQTQAgLLxFk/fD+0N7OCqMDXhKSeqQLl7xa3cOHIgHHVJP9R3OqvCbd77uIRF6PItFC0M5YsEVYt497tYTLjaauL8HbrxZFjde/sU7BscFR7ogn6WHK6uAkcSxpgHUpuLJqBTOvJauKRyPiNAUjTksxRdSlH5NXffOl73rLzEDY=;rZVomDWvPgle7neRdIYC3A=="
 ---
 

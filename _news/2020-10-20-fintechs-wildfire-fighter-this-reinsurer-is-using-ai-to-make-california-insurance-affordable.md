@@ -115,6 +115,22 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
+  - title: "10 Swiss Fintech Startups Get Ready to Accelerate Their Growth in Asia with Venture Leaders"
+    excerpt: "PRNewswire/ -- Venture Leaders Fintech 2020, co-organized by Venturelab and swissnex China, will kick off their pitching"
+    publishedDateTime: 2020-10-22T07:27:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/10-swiss-fintech-startups-get-ready-to-accelerate-their-growth-in-asia-with-venture-leaders-1029708659"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/10-swiss-fintech-startups-get-ready-to-accelerate-their-growth-in-asia-with-venture-leaders-1029708659"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/10-swiss-fintech-startups-get-ready-to-accelerate-their-growth-in-asia-with-venture-leaders-1029708659"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 34
+    images:
+      - url: "https://download53.boersestuttgart.mpcnet.de/download/jpg_378/switzerland/66/0/fwhQuI0d9sKLZuTrH5ViJQVP8I0CswCDKP/17025/17025.jpg"
+        width: 377
+        height: 212
+        isCached: true
   - title: "ING and UNICEF launch ‘Fintech for Impact’ initiative to support fintech start-ups in Philippines"
     excerpt: "efficient data with a new AI-enabled platform This initiative, called “Fintech for Impact”, supports open-source solutions that contribute to a growing body of digital public goods that can advance society. Chris Fabian, senior adviser at UNICEF ..."
     publishedDateTime: 2020-10-19T09:58:00Z

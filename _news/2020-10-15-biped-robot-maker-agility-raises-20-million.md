@@ -2,25 +2,21 @@
 category: news
 title: "Biped robot maker Agility raises $20 million"
 excerpt: "Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out of the lab and into the workplace."
-publishedDateTime: 2020-10-15T16:04:00Z
-originalUrl: "https://www.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG"
-webUrl: "https://www.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701GG"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG"
+publishedDateTime: 2020-10-15T11:22:00Z
+originalUrl: "https://www.nasdaq.com/articles/biped-robot-maker-agility-raises-%2420-million-2020-10-15"
+webUrl: "https://www.nasdaq.com/articles/biped-robot-maker-agility-raises-%2420-million-2020-10-15"
+ampWebUrl: "https://www.nasdaq.com/articles/biped-robot-maker-agility-raises-%2420-million-2020-10-15?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/biped-robot-maker-agility-raises-%2420-million-2020-10-15?amp"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "6pTXxb+XyDEwB99hIvr10DdzuSMDV0NLjgn7TPWBLSohP5xQVftXyIWA7AnNXQUfuaGMUfLCXXhYCkRiUtZp4vYf9WlbJjq68NefQ6EW7+8IGSXFmUxdFk0WJch8Ipa9uPas0L17dD5+EKYmR53/jr92IYg58uQKMCx9gy8iVcbBmS33QE7XYHmWyH3fcHpFzBEJ9E/FbFbV77im3yehq+GSTh9tiMeVIrG5rjDKdoVB6LUATpQnnp4UybFsVr0Jz/vAlrqgPWqAZYi063+NyTSy6l6oaypHm2HVVIBfGN7ier7RTluHB/cq4IJS7w7rFUQMQ+rIlfwQpeI9bixC0/4R7+il2BqHOr29RND/pvU=;Fk0CSnXzcumdn84hJEmW/Q=="
+secured: "uNWI1JJKgvdgdJ+kJbBFiE/xoBr/mz27HY3KiL9hBV6Xp0h2a1MdSOPWNCO/MLqGk4eYDQyDlzRz8FS1KZLUh/ej/dVT2yjS0fJUFjw1xKE4tdZL5TnG16rLiMC/ZLJcHXcpYpbWq2NyHbGBQ/On+8L+41Of5+S38pzggtgZkSIEv8EQSGuFwW5NTQlfKgkfMHbbslwoXK0j/FQpFW54MmRZJ6vRW1Jqawz6Lfg0tBAduE+8u43CWDQaSZFpGpbOiSNXEJve8p3/QXFFz4DoHS8i20IMutU5tZ+EJh68BvW9wd498PDtDReAl9wJuZhk4y/8kX5PcXqsnaML47YU/n3ncQrHW1DRJ4MYdYMsIGU=;oSVFPqytICf+j2HuKd1zpQ=="
 ---
 

@@ -34,9 +34,9 @@ related:
   - title: "Intel sends AI to space in launch of a satellite the size of a cereal box"
     excerpt: "Intel has sent artificial intelligence (AI) beyond the boundaries of Earth in a tiny satellite designed to streamline data processing in space.  The tech giant revealed the launch on Tuesday. An experimental device,"
     publishedDateTime: 2020-10-20T13:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+    webUrl: "https://www.zdnet.com/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/"
     type: article
     provider:
       name: ZDNet

@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/tesla-full-self-driving-beta.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-beta.amp"
 type: article
 quality: 88
-heat: 198
+heat: 208
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://wp-assets.futurism.com/2020/10/tesla-officially-starts-rollout-of-full-self-driving-beta-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Tesla launches ‘Full Self Driving’ beta to select drivers"
+    excerpt: "The Early Access Programme serves as testing platform to help fix software bugs Tesla CEO Elon Musk has revealed the company has started rolling out its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers."
+    publishedDateTime: 2020-10-22T07:43:00Z
+    webUrl: "https://www.tribuneindia.com/news/science technology/tesla-launches-full-self-driving-beta-to-select-drivers-159452"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 54
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_1711471991.JPG"
+        width: 700
+        height: 467
         isCached: true
   - title: "Tesla Rolls Out Full Self-Driving Beta Version, With A 'Slow' And 'Cautious' Approach"
     excerpt: "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said that the automaker is rolling out the beta version of its full self-driving software, starting Tuesday night. What Happened: Musk tweeted that the rollout of the software will be “extremely slow [and] cautious ..."

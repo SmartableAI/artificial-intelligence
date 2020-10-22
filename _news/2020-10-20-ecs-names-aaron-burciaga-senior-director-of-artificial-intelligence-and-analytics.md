@@ -73,6 +73,34 @@ related:
         width: 457
         height: 301
         isCached: true
+  - title: "Mental Health & Machine Learning – Notes from Tiger Analytics"
+    excerpt: "We share some perspectives on the role ML can play and an example of an AI solution, built at Tiger Analytics, to address a specific mental-health-related problem."
+    publishedDateTime: 2020-10-22T07:33:00Z
+    webUrl: "https://analyticsindiamag.com/machine-learning-mental-health-notes-from-tiger-analytics/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Mental-health-ML.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Analytics, Artificial Intelligence and the Future of Smart Cities"
+    excerpt: "Join experts from the Center for Digital Government and Google Cloud to learn how data analytics, artificial intelligence and machine learning can help your community address these and other issues in new ways. You’ll hear practical strategies for ..."
+    publishedDateTime: 2020-10-22T07:50:00Z
+    webUrl: "https://www.govtech.com/webinars/Analytics-Artificial-Intelligence-and-the-Future-of-Smart-Cities-123057.html"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 37
+    images:
+      - url: "https://media.erepublic.com/image/GT20-HEADERS-Webinar-Google-Cloud-11-9_1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Additional data, advanced analytics improve performance of machine learning referral app."
     excerpt: "Research team affiliations include Regenstrief, IU Fairbanks School of Public Health at IUPUI, IU School of Medicine and Eskenazi Health."
     publishedDateTime: 2020-10-20T10:29:00Z

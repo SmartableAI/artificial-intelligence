@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft to take Azure to space to enable cloud services in remote locations"
+    excerpt: "The new connectivity will help bring valuable customer data from geosynchronous orbit (GEO) satellites directly into Azure, Microsoft said."
+    publishedDateTime: 2020-10-22T06:28:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 71
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/jaruvu/article32915715.ece/ALTERNATES/LANDSCAPE_615/MicrosoftAzureSpace"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
     excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure - in spaaace."
     publishedDateTime: 2020-10-21T09:09:00Z
