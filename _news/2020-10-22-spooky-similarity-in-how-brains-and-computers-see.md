@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Researchers find 'spooky' similarity in how brains and computers see"
+    excerpt: "Deep (multilayer) networks like AlexNet have achieved major gains in object recognition, based on high capacity Graphical Processing Units (GPU) developed for gaming and massive training sets fed by the explosion of images and videos on the Internet."
+    publishedDateTime: 2020-10-23T14:31:00Z
+    webUrl: "https://hub.jhu.edu/2020/10/23/artificial-intelligence-vision-based-on-human-vision/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 39
+    images:
+      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/brain_computer.jpg?itok=gV6f_Y5-"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Researchers discover 'spooky' similarity in how brains and computers see"
     excerpt: "The brain detects 3D shape fragments (bumps, hollows, shafts, spheres) in the beginning stages of object vision - a newly discovered strategy of natural intelligence that Johns Hopkins University researchers also found in artificial intelligence networks trained to recognize visual objects."
     publishedDateTime: 2020-10-22T15:05:00Z

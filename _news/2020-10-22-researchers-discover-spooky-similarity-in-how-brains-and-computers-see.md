@@ -34,6 +34,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Researchers find 'spooky' similarity in how brains and computers see"
+    excerpt: "Deep (multilayer) networks like AlexNet have achieved major gains in object recognition, based on high capacity Graphical Processing Units (GPU) developed for gaming and massive training sets fed by the explosion of images and videos on the Internet."
+    publishedDateTime: 2020-10-23T14:31:00Z
+    webUrl: "https://hub.jhu.edu/2020/10/23/artificial-intelligence-vision-based-on-human-vision/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 39
+    images:
+      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/brain_computer.jpg?itok=gV6f_Y5-"
+        width: 2400
+        height: 1600
+        isCached: true
 
 secured: "zd5n2VhGQPj0W0c37VSdDMhBh5jACbXj6Fkd17wsCHB+DqS51DAEMj64Ougke+crSY3p6JS2woLiw1vlkDcRS0ouUyMvssKDrqZBkYnuqifsn/qCPfMj7pW7x4CiX3GqFxR3QV9vNlUqIrbGra/Pv/GAfDhD+0hwWPOYhwxflEwU05mk4kFa3QKZMwvSrRKZkzfmmJZi29v4zbUYnSlAiwBVnyU+Lu5L3Qa+arHO9AFp5XqR4PhskPypuJIm/xCMHj4+CkQ3eT4+sfYQm60k5mXSeO1qXVINPgg+BNEoJhn2BKVU8fd3u6AXs4nwgCSFx0Xn3L2Fo5XKE9Iga7OjQm7U2EVk6ZOqSuHtDfQz0As=;14UfSnEyINvTcKlavEdsKA=="
 ---

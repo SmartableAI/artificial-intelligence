@@ -58,20 +58,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "How AI Can Affect Our Decisions"
-    excerpt: "Have you ever used Google Assistant, Apple’s Siri or Amazon Alexa to make decisions for you? Perhaps you asked it what new movies have good reviews, or to recommend a cool restaurant in your neighbourhood."
-    publishedDateTime: 2020-10-20T00:06:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/10/how-ai-can-affect-our-decisions/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 37
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/t_original/fefanfwrplq7snv2bkjx.jpg"
-        width: 1400
-        height: 787
-        isCached: true
 
 secured: "eW0mNdHZJ0gU+PGGBbVhHaynOirsRLXMPsW9/cIvzi2m98kaVrKM+7aXMQDBRzPE3MqirbiA0J9cTHdTrnyTxVcxIklXRfy2C5u1+Phkp7lPzx5t9NfI4Q22q5BSfdj47Z7zMXiCW/9jvhz9yxrNqiVmud77haH2QfxFn392W/mEfildNG55UpH4KYU72R3qVdls7ev3Mlfj4UPc1ccGrnr4hBW0nbDHvkfCf6duqCxh1thEZ7iIV6PhWEj9xqHqaiyN65KRDng8c1mU0Jv0TALsW6s5VvsztUxwkIRcUjZdME4Lx7rPVNf4VzkUVXCCB0o1KrnnErGly//hzgl4faRiwkf0EsZAv4BX5x54oyA=;Vyp2xlmKR/NQHzZMmpi7Rg=="
 ---

@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Updates Revenue Growth from 100% to 133% for Periods Ending Q3 vs Q1"
-excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to update guidance issued August 3, 2020 for its wholly-owned subsidiary"
+excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to update guidance issued August 3, 2020 for its wholly-owned subsidiary Robotic Assistance Devices, Inc. (RAD). As stated in the 8/3/20 guidance the company expected to outperform the 100% increase in recurring monthly revenue when comparing revenue and contracts from the end of Q3 to the end of Q1."
 publishedDateTime: 2020-10-19T13:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201019005260/en/Artificial-Intelligence-Technology-Solutions-Updates-Revenue-Growth-from-100-to-133-for-Periods-Ending-Q3-vs-Q1"
-webUrl: "https://www.businesswire.com/news/home/20201019005260/en/Artificial-Intelligence-Technology-Solutions-Updates-Revenue-Growth-from-100-to-133-for-Periods-Ending-Q3-vs-Q1"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-transportation-infrastructure-industrial-products-and-services-dd23307f13774139ac4f0b08f30691b5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-transportation-infrastructure-industrial-products-and-services-dd23307f13774139ac4f0b08f30691b5"
 type: article
-quality: 20
-heat: 20
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://mms.businesswire.com/media/20201019005260/en/790367/23/RAD_Logo_New_Landscape.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "iO68Bb7JusGmRM4p/DHFGJpJtCHZ+JeZEwfRWrl/2SRGL0Jamvc2jQx8zyjPo8u6HCcRm9QhVOMVNEJqu+LyGB0jaBkDkQo1BTcaJjZiY+2ZSOBbHqVPGrjO9qBoIkvnQv+W0wG6qJuMD20arjQuUTahparBPAMQLWM7yDUkGIW82Yy/isUf4f88d/pO0iIkm2v0SZN41DgApeirQV8Z6QtpZLn/FqvTsWBrwBBJdcCjFKQSrzgYCvRzz/GVihCKrOFp5z5du4vvn4zIg+DkD3yMq/P0+ykbuGdMHYbYWl+giRAa0HpoaA9NXycwwGF7IOW0oHBcuX2fQiJbhZ6i8HmZh7Md3LD1opByRF58WRk=;CcUkZyJshGy9YwrH089dsw=="
+secured: "Ga1eTn5aCTQjnpvT7/sxebr7XZ2rxZPodinfsuyaL7FmXjRC3x05tlETLJFF7eZOVH9ZxITO2OV7JVf0UCbQ4kZktkl9v94xpbUm3q2bX0RDW7hVariog3hDyhG7OL2AA8TQjZq4HLe3F/gmFpy8ImvDqo/UFsVOKzu5pntF0Lt4YABpM7mSqS7n3DhKGgwVwhT5XoqkrrYVPDqc+Iwt/aZ0+ibBq4ebStwD53eYav51Z2ouUXw34dZQxwXFCYMg2g0HZ2nJi9WmzkglS92Chkh7GH8f0jSBC3amwttar/Tg7SL10CTP1t3u7CjoF/JHqOYlLO7CS21WBtlfZHAe1Ek3v01TozSSvoh8CM52/5I=;gKWp55swBfllpUlvKdmrag=="
 ---
 

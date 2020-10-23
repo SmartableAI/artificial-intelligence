@@ -25,45 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "ONR Robotics enter the COVID-19 fight"
-    excerpt: "A decontamination robot funded by the Office of Naval Research (ONR) and designed by several local universities was recently tested in Richmond Va. The robot--initially designed for shipboard firefighting and maintenance tasks--has now been enlisted in the fight against Covid-19."
-    publishedDateTime: 2020-10-19T19:36:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php"
+  - title: "US military tests wearable + AI combination as early warning system for COVID-19 cases"
+    excerpt: "Philips built an algorithm that tracks 165 biomarkers to spot illness when a person is contagious but not showing symptoms yet."
+    publishedDateTime: 2020-10-23T14:05:00Z
+    webUrl: "https://www.techrepublic.com/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 59
+  - title: "Robot Enters COVID-19 Fight"
+    excerpt: "A robot initially designed for shipboard firefighting and maintenance tasks has now been enlisted in the fight against COVID-19."
+    publishedDateTime: 2020-10-23T14:33:00Z
+    webUrl: "https://www.defense.gov/Explore/Features/Story/Article/2389691/robot-enters-covid-19-fight/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 39
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://media.defense.gov/2020/Oct/21/2002520993/1280/1280/0/080120-N-NO201-0001C.JPG"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Will Covid-19 be the straw that breaks AI’s back?"
-    excerpt: "When discussing the role of AI in Covid-19, we have to reframe this conversation and look at AI as an important approach that can provide better analysis and ultimately better outcomes for patients, not as replacing the entirety of the drug discovery process or as a magic bullet for a vaccine."
-    publishedDateTime: 2020-10-20T23:04:00Z
-    webUrl: "https://medcitynews.com/2020/10/will-covid-19-be-the-straw-that-breaks-ais-back/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/uploads/2020/10/home-office-video-conference-5230717_1280-300x218.png"
-        width: 300
-        height: 218
-        isCached: true
-  - title: "Artificial Intelligence Services Market Growth Statistics Report 2020-30: Covid 19 Growth And Change"
-    excerpt: "id=3207 The artificial intelligence (AI) services market consists of sales of AI and related services that are used in telecommunications, government, retail, defense and healthcare. Companies in the artificial intelligence market provide outsourced ..."
-    publishedDateTime: 2020-10-20T04:45:00Z
-    webUrl: "https://www.openpr.com/news/2164621/artificial-intelligence-services-market-growth-statistics"
-    ampWebUrl: "https://www.openpr.com/amp/2164621/artificial-intelligence-services-market-growth-statistics"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2164621/artificial-intelligence-services-market-growth-statistics"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
 
 secured: "69pvPG9x0DsgmuO2jhEf55vZkSZ/uzTUBKZfdUnVmtM0RpUYjxE/sw8kfOiG+JD9vc2D8JngJ4nohcilNPYxR1kcfMcb0/vLsEuzDQ7EYG8Ty+iinbGL3SZpAGQsro04QxZ3K6ylFvcjPX6XfXCud/JZk+/ky43i+4mUZfP7Nj0EXqloyoDmb2E/+XzsJaFp2e4M8j4pAlIZNtsfuUGLeK+1SvOoYUJ73F/Ni7OsxfkORvGU0ppdaZINCf8ZMpUIRHwjqQwhij339h/xra9X2Jm8E11E6QUE9oE/bqH6OSvEX+/UR8u4oyJXFG9aApydUCqDiRmp3NDRze+aUS8mwGMjaARLsIRlZbLUEPQ2hoH3JwKIdwCqHUje92bRm23fDzU5kYCOcYO+K7WCpyKEEs5Lgyd729H5lzYbRgwgFuBHg3YUhALLkeY7Gg1wa+s+tRjDiGROiiWy3KLiWs8IOg0khuxLR6GlSyAQmXQ/GtBkyPyOs3V4S+gSE40OKHclhsgUOLQvX8K0HXcVSYm2GA==;gPzatnqBSqh0im93XKwiTg=="
 ---

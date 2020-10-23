@@ -445,6 +445,22 @@ related:
         width: 1024
         height: 489
         isCached: true
+  - title: "Some Tesla drivers may start testing ‘full self-driving’ software this weekend. Here’s a look at the hype — and the safety fears."
+    excerpt: "Buried on Tesla's website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-23T14:39:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-tesla-autopilot-self-driving-test-20201023-zbuljdk7ibfpnmeowpvpj7u6um-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-tesla-autopilot-self-driving-test-20201023-zbuljdk7ibfpnmeowpvpj7u6um-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-tesla-autopilot-self-driving-test-20201023-zbuljdk7ibfpnmeowpvpj7u6um-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 30
+    images:
+      - url: "https://www.chicagotribune.com/resizer/J77DQNgUXkEX8jUBUBnBo_m67M4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUZS3EYRONEMFKSQVWKZ72CRS4.jpg"
+        width: 1200
+        height: 750
+        isCached: true
 
 secured: "eMeQGH/Y9bUci+FC7K0Bolqdg87soOEzRlrotoL8neeM4ZownZEWJX3k3Zxd/JTOKGYZur9U5KZ/MNBgi38QisopklBQD5TQcvvEqVmLohPiJ7oMMBJJpBIU45i5MdXwcKIb8I2A6kzL19r356WkEmyPokBwMtJiUR6m7Rvm8pfeZNOFIaKxUrlHb1aekID29E/eB3SdksbrKgNM2MvHI+1DJqGWQLbw2YIHzipiTZAvKwaJy7ujDhXjh42TnQJteg0VEPxmlR5xSoYNjU2WbuPcMaYxVVesgDdnW4DSSTUyUYXDej6rJQdLcQ4NACKoOf6NjfFsYHPWKnA0KGQjh64vHbaWZDsqRkY5e1mtu7I=;JDFUuVd4nvkgl2zb/a9HUw=="
 ---

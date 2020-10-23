@@ -437,6 +437,22 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Some Tesla drivers may start testing ‘full self-driving’ software this weekend. Here’s a look at the hype — and the safety fears."
+    excerpt: "Buried on Tesla's website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-23T14:39:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-tesla-autopilot-self-driving-test-20201023-zbuljdk7ibfpnmeowpvpj7u6um-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-tesla-autopilot-self-driving-test-20201023-zbuljdk7ibfpnmeowpvpj7u6um-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-tesla-autopilot-self-driving-test-20201023-zbuljdk7ibfpnmeowpvpj7u6um-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 30
+    images:
+      - url: "https://www.chicagotribune.com/resizer/J77DQNgUXkEX8jUBUBnBo_m67M4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUZS3EYRONEMFKSQVWKZ72CRS4.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Tesla talks up self-driving capabilities, robotaxi and production ramp"
     excerpt: "Tesla (NASDAQ:TSLA) held one of its calmer conference calls after knocking out five straight quarters of profit.Tesla CEO Elon Musk gave out more details on the full self-driving [FSD] beta, noting that the system will be trained as edge cases are worked out with the beta drivers."
     publishedDateTime: 2020-10-21T23:02:00Z

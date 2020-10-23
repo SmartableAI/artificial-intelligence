@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-23-can-ai-fix-our-broken-debates.md",
+      "title": "Can AI Fix Our Broken Debates?",
+      "excerpt": "The second U.S. presidential debate of 2020 was more sedate than the first, with its whining, braying, and general frothing at the mouth. We all remember how the human moderator at the first rumble struggled to cut through to the actual issues that people care about,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/can-ai-fix-our-broken-debates-1845461790",
+      "originalUrl": "https://gizmodo.com/can-ai-fix-our-broken-debates-1845461790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/x3z7t5munvysuewmv7xi.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/can-ai-fix-our-broken-debates-1845461790/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/can-ai-fix-our-broken-debates-1845461790/amp",
+      "publishedDateTime": "2020-10-23T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-how-ibm-makes-ai-based-on-trust-fairness-and-explainability.md",
       "title": "How IBM makes AI based on trust, fairness, and explainability",
       "excerpt": "It’s all about trust Two things are true about trust: it’s at the core of all successful human relationships, and it’s not an easy thing to attain. Trust contains multitudes of nuance, and when achieved, it can lead to transformational events. The same could be said of artificial intelligence. We have",
@@ -194,6 +246,49 @@
       "topics": [
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk.md",
+      "title": "IBM and ServiceNow help businesses use AI to Automate IT and reduce costs and risk",
+      "excerpt": "o IBM Watson AIOps uses AI to automate how enterprises detect, diagnose, and respond to, and remediate IT anomalies in real time. The solution is designed to help CIOs make more informed decisions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-120101600445_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-120101600445_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-sector-information-technology/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-120101600445_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-120101600445_1.html",
+      "publishedDateTime": "2020-10-15T23:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {

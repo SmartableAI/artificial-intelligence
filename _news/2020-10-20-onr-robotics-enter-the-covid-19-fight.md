@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php
 webUrl: "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Predicting COVID-19 Outcomes with Artificial Intelligence, EHR Data"
-    excerpt: "A simple artificial intelligence model analyzes EHR data to accurately predict favorable outcomes in COVID-19 patients."
-    publishedDateTime: 2020-10-20T18:47:00Z
-    webUrl: "https://healthitanalytics.com/news/predicting-covid-19-outcomes-with-artificial-intelligence-ehr-data"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-09-30-GettyImages-974742772.png"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Will Covid-19 be the straw that breaks AI’s back?"
     excerpt: "When discussing the role of AI in Covid-19, we have to reframe this conversation and look at AI as an important approach that can provide better analysis and ultimately better outcomes for patients, not as replacing the entirety of the drug discovery process or as a magic bullet for a vaccine."
     publishedDateTime: 2020-10-20T23:04:00Z

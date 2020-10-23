@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Silicon Valley Is Getting Into the Hearing Aid Business With These Impressive AI-Driven Earpieces"
-    excerpt: "This week, the startup Whisper launched its new flagship product, the Whisper Hearing System. The Whisper Hearing System uses artificial intelligence to process sound in real-time and optimize it for the user’s surroundings."
-    publishedDateTime: 2020-10-18T21:46:00Z
-    webUrl: "https://gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675"
-    ampWebUrl: "https://gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/silicon-valley-is-getting-into-the-hearing-aid-business-1845407675/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 74
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wfkbd2uv91ikolp95onc.png"
-        width: 800
-        height: 446
-        isCached: true
   - title: "Artificial intelligence is changing everything in insurance claims"
     excerpt: "The goal of every claims organization has been and will remain quickly adjusting a claim at a low cost with high levels of customer satisfaction."
     publishedDateTime: 2020-10-20T07:51:00Z

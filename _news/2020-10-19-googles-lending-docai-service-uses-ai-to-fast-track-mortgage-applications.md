@@ -72,6 +72,20 @@ related:
         width: 457
         height: 305
         isCached: true
+  - title: "Smart Construction - AI Style"
+    excerpt: "Once it is working in a production capacity, we'll start to scale up, going from one project to another project throughout the entire construction community.” Halder is no stranger to the power of AI and the challenges of bringing autonomous vehicles to ..."
+    publishedDateTime: 2020-10-23T13:38:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21145580/smart-construction-ai-style"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/SafeAI_5.5f91f563645dd.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 624
+        isCached: true
   - title: "Google Cloud launches AI-powered mortgage processing tool"
     excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."
     publishedDateTime: 2020-10-20T00:19:00Z

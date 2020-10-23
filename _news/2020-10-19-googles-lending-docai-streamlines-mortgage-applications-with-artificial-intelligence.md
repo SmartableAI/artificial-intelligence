@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-strea
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
 type: article
 quality: 97
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/google-cloud-lending-ai-457x305.jpg"
         width: 457
         height: 305
+        isCached: true
+  - title: "Smart Construction - AI Style"
+    excerpt: "Once it is working in a production capacity, we'll start to scale up, going from one project to another project throughout the entire construction community.” Halder is no stranger to the power of AI and the challenges of bringing autonomous vehicles to ..."
+    publishedDateTime: 2020-10-23T13:38:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21145580/smart-construction-ai-style"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/SafeAI_5.5f91f563645dd.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 624
         isCached: true
   - title: "Google’s Lending DocAI service uses AI to fast-track mortgage applications"
     excerpt: "Google LLC is jumping into the mortgage industry with the launch of a new artificial intelligence-driven cloud service aimed at helping lenders reduce the time it takes to process loan applications. Announced today,"

@@ -441,6 +441,22 @@ related:
         width: 1024
         height: 489
         isCached: true
+  - title: "Some Tesla drivers may start testing ‘full self-driving’ software this weekend. Here’s a look at the hype — and the safety fears."
+    excerpt: "Buried on Tesla's website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-23T14:39:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-tesla-autopilot-self-driving-test-20201023-zbuljdk7ibfpnmeowpvpj7u6um-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-tesla-autopilot-self-driving-test-20201023-zbuljdk7ibfpnmeowpvpj7u6um-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-tesla-autopilot-self-driving-test-20201023-zbuljdk7ibfpnmeowpvpj7u6um-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 30
+    images:
+      - url: "https://www.chicagotribune.com/resizer/J77DQNgUXkEX8jUBUBnBo_m67M4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUZS3EYRONEMFKSQVWKZ72CRS4.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Tesla talks up self-driving capabilities, robotaxi and production ramp"
     excerpt: "Tesla (NASDAQ:TSLA) held one of its calmer conference calls after knocking out five straight quarters of profit.Tesla CEO Elon Musk gave out more details on the full self-driving [FSD] beta, noting that the system will be trained as edge cases are worked out with the beta drivers."
     publishedDateTime: 2020-10-21T23:02:00Z
@@ -451,6 +467,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "vt1TfmG6nQHhFlWyot/DWs0wlXav2HAzYCLQG16JqBpddf1h1lr3h6Lq2VeGn2DYyqBrcIjw/ypD22tN800ql65Enz1aSMq9xBuS5RGsndolaN5Z9CY6JR8F05iVqb8RFTHooQ1Ji9Fk+8PMQMm8vwvUo7w3lMr1nPjyd6iaNNQ1AqHGFKiY7aKwKQHWRuDaqJGDN/Fm+lYF10NtwUraMUqvm1lj321ACxAArnDe7u4U5H2sEvrk4fGEOUQ3Ed3Z2PH95j/s26SKfLEZpUxzjm2yQAjWcY/nMnZhrlMletWbbKkoEb3vz6o8jyqtbxTIcqrszeKsEjOiSbccZVO88GwYEDASYzC0Okylg7vKSpc=;aTwBQBa4qxJAat8rskUFaw=="
+secured: "JEfQizxRoXMWLPX2PVo0X8vteup+MSgMGDDIJWGehnT0YBskr1Hp38V2AOM9DB2/cCCK+hMQ4ZyuZNp1Lmhj2UZUXyR/bEC4w6lyJZaA1VzRdIkg8ioxlv0hCrqtHlQ/bdUBjGOyutJhHX4v4nkMALxu6yyjZ7e7j+4s7SWm2cAId/NJZ/j1uRWvJe2uCArRKS6+y2wfyPN/rGgDlXsa1iN+UQXsOSbqtnkAUb56IZEArCGhYwmP5qYb/pwPv4cmGo3qblJr2NaVTOKhuf6MwlA/yhCddQxe+C+demjY0nRUnlC3VGZJkHW5s0rbmylE5d3RwougtN04keLu5qL223WGz7Hv1TkRdpWYbafHfpmEdicsQGw0i5hpG/e4xb6zQUCW0BsbX5qj0eDmfp1BnUDd0S/LFg+rPphhLh3cAP8FY+oBi/mkE3YxUeD4ImnmgPcpcuDx8Yncc6aNCl2Wv97wHyUGVRFvKyoC45FS2U+nDsoFtzM8tyBldKwpYfOhVc60Bw8/GqydWUoGL61i4w==;Z/UvmTNdZW8hPZrHr/zTxw=="
 ---
 

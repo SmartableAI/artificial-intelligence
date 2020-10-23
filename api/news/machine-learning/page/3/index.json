@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-07-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
+      "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
+      "excerpt": "There is no doubt that artificial intelligence (AI) and machine learning (ML) is becoming a hot topic within the fintech industry. At almost every seminar and conference, we are hearing about the rise of these emerging technologies and the potential they have to disrupt businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "originalUrl": "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "publishedDateTime": "2020-10-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-deep-learning-takes-on-synthetic-biology.md",
       "title": "Deep learning takes on synthetic biology",
       "excerpt": "The first hurdle they faced was that there was no dataset of toehold switch sequences large enough for deep learning techniques to analyze effectively. The authors took it upon themselves to generate a dataset that would be useful to train such models.",
@@ -1402,49 +1446,6 @@
         "AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-researchers-streamline-ptsd-diagnosis-with-machine-learning.md",
-      "title": "Researchers streamline PTSD diagnosis with machine learning",
-      "excerpt": "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan. And as the COVID crisis continues to take its toll on everyone's mental health,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/combatveteran.jpg",
-          "width": 1920,
-          "height": 1368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
-      "publishedDateTime": "2020-09-30T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
