@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by Grove Ventures. Navina has already been integrated into several large,"
-publishedDateTime: 2020-10-13T10:13:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20201013ln56426/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20201013ln56426/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care"
+excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
+publishedDateTime: 2020-10-13T10:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
+webUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "wdCLDfmlKmKTned/dYw47bVcqLiadTrdcSeUd/bQKGL9leSu5kCDIPRUaimBwwQ3U5946b9XNYp3LBg448MibK9eK6USXhbbHDfPOcWkKfYmFrE7iQNOZN2TWrvi0BORanx19KEKnYChoHBHZdtSFVLdowzesRo4DUUYF7fLAHWUDwGK9L6qreWZLVqRjOeV9t8p8OMCXVpcRyXMTskQYb246EMlbf6QFyDX0pg4IN3GhcCEP7WFihVtUfx0pE0MPYNTSMWce8MgDiFdp4uSVFwcRKK+ZQW/t2ofhDFVrUSNA5GdVyRLmTBWF/jeH22/RXTfgGOOCl4wDfSg+6dxYx/+2oc1qg96N+ULiP0fQcc=;RNjX4BR9UFMXzHNMxW7I6w=="
+images:
+  - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
+
+secured: "eLfcP8QAMdcFWUDqsVWTpyV1slDpyi7Yg1aZpbV0fdwcMBlIXRHGDcN7xBFLGc5V0JmuQGAiVlfYnfUiaE02CjWRTnc1oGGcgUIqF83nXB0XuVsrSgDjb3JLvDwSpEEbEfG8U7z7i/Pqxgk458+UsPBJUS/k5c+1ChPNBxtJytsTsp1dgG4lN23uw0blHA79yRmxn8Jh5Z4ifUePgtegHBKF3ssuAMAq46wilp1yiH9yr546sl9V8lxdJeYUzKfBa5EaRr+lcCgQut8sDs+KzGY+e9apTek9GeK05TGia5bFwLh5vjtC99yzHd/0J7unbUZSTykrk/G8n1pgWLFIQywJBeXfUfq2rdNaf5W9lh0=;oXykiUTALdx/r1GIiiBP+g=="
 ---
 

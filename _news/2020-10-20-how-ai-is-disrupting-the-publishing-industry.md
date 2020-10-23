@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -127,6 +127,20 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 37
+  - title: "How Artificial Intelligence is Transforming the Insurance Space"
+    excerpt: "When it comes to digitization, the insurance space hasn’t particularly been at the forefront of leading in technological innovation. And it’s only fair as a colossal amount of regulations combined with thousands of users’ sensitive information makes the insurance industry cautious in adopting new technologies."
+    publishedDateTime: 2020-10-23T05:33:00Z
+    webUrl: "https://customerthink.com/how-artificial-intelligence-is-transforming-the-insurance-space/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
+        width: 3608
+        height: 2336
+        isCached: true
   - title: "Artificial Intelligence: Using Affordances can make AI Smarter"
     excerpt: "A concept from psychology called affordances is being used to improve the capability of AI algorithms. Affordances are simply object properties that list types of actions that can be taken on an object by some some agent that is capabile of performing those actions."
     publishedDateTime: 2020-10-20T15:09:00Z

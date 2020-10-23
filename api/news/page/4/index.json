@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-20-chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store.md",
+      "title": "Chinese Delivery Platform Meituan-Dianping Trials First-Ever Smart AI Retail Store",
+      "excerpt": "Last week, Meituan debuted its first-ever smart AI retail store – MAI Shop - within Beijing’s Shougang Park. A combination of AI and robotics has been applied within the store, the same technology that is regularly seen in ‘New Retail’ formats ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiffanylung/2020/10/20/chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store/",
+      "originalUrl": "https://www.forbes.com/sites/tiffanylung/2020/10/20/chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e9797b00abd0176b0a6a3%2F0x0.png%3FcropX1%3D0%26cropX2%3D830%26cropY1%3D274%26cropY2%3D741",
+          "width": 830,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiffanylung/2020/10/20/chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiffanylung/2020/10/20/chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store/amp/",
+      "publishedDateTime": "2020-10-20T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-companies-are-rushing-to-use-aibut-few-see-a-payoff.md",
       "title": "Companies Are Rushing to Use AI—but Few See a Payoff",
       "excerpt": "A study finds that only 11 percent of firms that have deployed artificial intelligence are reaping a “sizable” return on their investments.",
@@ -1176,50 +1227,6 @@
         "Computer Vision",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-odias-globally-deliberate-on-leveraging-aiml-for-odishas-growth.md",
-      "title": "Odias globally deliberate on leveraging AI/ML for Odisha’s growth",
-      "excerpt": "In a virtual conference, Odias working in the area, discussed how Odisha, Odia language and Odia people can benefit from the emerging opportunities created by artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/",
-      "originalUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/orissadiary.com/wp-content/uploads/2020/10/odiaamil.jpg?fit=747%2C334&ssl=1",
-          "width": 747,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/amp/",
-      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/amp/",
-      "publishedDateTime": "2020-10-19T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha Diary",
-        "domain": "orissadiary.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

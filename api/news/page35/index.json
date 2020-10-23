@@ -2,6 +2,40 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-09-23-elon-musk-says-teslas-full-self-driving-autopilot-is-coming-soon-and-its-clearly-going-to-work.md",
+      "title": "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'",
+      "excerpt": "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
+      "originalUrl": "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-studies-in-natural-language-processing.md",
       "title": "Studies in Natural Language Processing",
       "excerpt": "Volumes in the Studies in Natural Language Processing series provide comprehensive surveys of current research topics and applications in the field of natural language processing (NLP) that shed light on language technology, language cognition, language ...",
@@ -1145,40 +1179,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-baidu-unveils-upgraded-products-based-on-ai-technologies.md",
-      "title": "Baidu Unveils Upgraded Products Based on AI Technologies",
-      "excerpt": "BIDU recently unveiled new products and services based on artificial intelligence (AI) technologies at the annual Baidu World Conference in Beijing. In regard to this, the company revealed a few upgrades in the self-driving space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22?amp",
-      "publishedDateTime": "2020-09-22T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-14-new-machine-learning-concepts-can-help-develop-novel-drugs.md",
+      "title": "New machine learning concepts can help develop novel drugs",
+      "excerpt": "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201014/New-machine-learning-concepts-can-help-develop-novel-drugs.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201014/New-machine-learning-concepts-can-help-develop-novel-drugs.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2fDrug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201014/New-machine-learning-concepts-can-help-develop-novel-drugs.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201014/New-machine-learning-concepts-can-help-develop-novel-drugs.aspx",
+      "publishedDateTime": "2020-10-14T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-synopsys-and-simaai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded-edge.md",
       "title": "Synopsys and SiMa.ai Collaborate to Bring Machine Learning Inference at Scale to the Embedded Edge",
       "excerpt": "MOUNTAIN VIEW, Calif., Oct. 14, 2020 /PRNewswire/ -- (Nasdaq: SNPS) today announced its collaboration with SiMa.ai to bring its machine learning inference at scale to the embedded edge.",
@@ -1291,58 +1334,6 @@
         "name": "Nanowerk",
         "domain": "nanowerk.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic.md",
-      "title": "Researchers probe into RNA using deep learning to develop sensors for a COVID-19 diagnostic",
-      "excerpt": "Two teams at the Wyss Institute have demonstrated the use of NLP and CV techniques to optimize RNA sequences to develop improved sensors for the SARS-CoV-2 genome that is responsible for COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic",
-      "originalUrl": "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/10/1602006122_ribocomputing_story.jpg",
-          "width": 760,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/",
-      "publishedDateTime": "2020-10-07T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,25 +2,29 @@
 category: news
 title: "The Rise of Computer Vision"
 excerpt: "These days, we’re producing more visual data than ever before. With revenues from computer vision expected to soar into the billions over the next few years, many organizations have already ..."
-publishedDateTime: 2020-10-02T15:32:00Z
-originalUrl: "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision"
-webUrl: "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision"
+publishedDateTime: 2020-10-02T14:07:59Z
+originalUrl: "https://www.infoworld.com/resources/208956/the-rise-of-computer-vision"
+webUrl: "https://www.infoworld.com/resources/208956/the-rise-of-computer-vision"
 type: article
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "xhFbO6LUu6HP1JP8Jkyxhlpd0Hu2FFX7BJPdsNmGK4etuBKHQGGvy4U7ZvAyBUwRDpeCLAgs/wSzTv0U0Sc01M1rEt8Q/ZnO+/KzSzeM1vMj4HIiHyndxBQCqvOLZHSe9qvCzgwABPqMWg0JoZvjrmiUR/zrGDIQpUnG8s6JVRzISALb40u15dftJcZcBfQY+W2uk3SxOH0om7/t6z0gpd3AFZxUuTDNsxvk+v2q3x940/5WuDwC2sJU4+2ht86w90/M8VF5CAxwgbbmgTTGE6KzBigHMvFvEPntP1aQ2ArRfNHU7LKWoorOSxxCxcM2yroDN/Gpi64Lm8zlKn2szfNsVZFGlMFWOhArmc2hf9w=;1XI+hkm1Z0pc0NkekJs2qw=="
+secured: "MM8ikBp/mWttHFeg4MARR0JVnjUgkzSXAYV6vVnO9A092aiRfIK3XIfS8aYVUWpRYmtTR/Rk8z8dL30VBAUoVknS83/efzJ3ZwSs4JGFX8T8CTXOOrhoYhIb1G9U4M2+e7ePY/RP5Gtrdd6teHlJkSZ0vIgv3B0ymui8QVYwoiCsmKYetHohI9SAS2xbScGdp+SA6rZP+ZVre0r/wRTiV1Wnt7xPGwXCkLAhI2Jbh92bS3rTJ8c9vo3fYWk2IJiC5ogLzKnNQdtpPGy3GqU+yC4G4OdbHhvVp+vfHT5DD3CP66Jee5gZA3lr0KFpp3IfGxp+pFUaH4uCbrzP/YRpiH2mRjB8eyY/VTZNWRz0bSY=;paW2p8Of2EB33KRBmY2lbg=="
 ---
 

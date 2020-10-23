@@ -3,26 +3,26 @@ category: news
 title: "Retail Tech Startup Tiliter Raises $7.5M for Cashierless AI Shopping Technology"
 excerpt: "Investor demand for innovative emerging companies remains strong with Australian AI tech startup Tiliter completing a $7.5 million capital raise, led by Investec Emerging Companies (IEC). Eleanor Venture,"
 publishedDateTime: 2020-10-20T07:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/retail-tech-startup-tiliter-raises-7-5m-for-cashierless-ai-shopping-technology/article_9553250e-f619-5503-8c9b-a914355c217d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/retail-tech-startup-tiliter-raises-7-5m-for-cashierless-ai-shopping-technology/article_9553250e-f619-5503-8c9b-a914355c217d.html"
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-3f8093b9dc6da93e55d2015ee8613525"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-3f8093b9dc6da93e55d2015ee8613525"
 type: article
 quality: 33
 heat: 33
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/a2/2a2b297c-e904-53aa-81bc-92b19e08abae/5f8e927b7e981.image.jpg?resize=400%2C250"
-    width: 400
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "iRtc6L4NMCJWZiK5aObA50tDwIxDbDSRj2QoPNl7wJSEELzSZy9DVAa6+/cM/QO0x5dypufKoi7/oRrCANGXdBNDgVWZ9JNsYyOvlT2f2NJX71EvZZqWI+IYsqSADZH2APoQD6X+kCqxxdMCIYdlnoKtcNSme20uHrkPGgV4iEFsibGzAIGgEAMqtz7mjFxNqBXbeOb+9ZrDo+n3WScVtRo7wb4Qy5tzTb+RFGVhxicwZwY0Izsl39tI6isi3iCIUCwxvTOqngHA+liPhnYHaOkgejHBfq7FvrOJPDfqgMdvwVSIAfklt6y7Nv8nGBjt07fvDjigstG201nHukTPRE5s6hTwYEED9lfqHW8LeH4=;0mugvIo/AKIAe0krLUSRjw=="
+secured: "MCR4ngU+ERBfQ2EulkGQUz0xlo8QWbibefQ5uvzVQ2A9NU9DkS5aJwt3ePajofrTuqkQNKRSEvxjn0/P+W/lEn57o0V2LV+m5hIGkcBc+55tiMvLxLltDuJba95pDjI7ufWsQTQclTwydG/uonEO3VcITdpHtizc3/Cd3ts/gc9Qy1EHVXMmUW+l8jvaFbMWRlAkiYFgWoKhLPhcqEtPl1MA/25wwhqeYdJsGRdDI1IGU0WMgp+fkYV0AB+P8HqWQctuPXsdtIr7KfQLG7QXEik9NWnf0Kv2RBsiqDe0RuQ0KBrr/RC4US3gbHkb1mohW0nS60d4j7cBGwln8epJ/Wi0nRSV4Xx/pZwHikzBlGI=;LO4eQCatY057ixG7Wds0DQ=="
 ---
 
