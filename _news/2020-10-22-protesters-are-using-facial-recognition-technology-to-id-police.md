@@ -153,6 +153,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Facial Recognition Technology and the Future of Policing"
+    excerpt: "The replacement of systemic, interpersonal racism with hard-coded, digital racism is not the reform policing needs."
+    publishedDateTime: 2020-10-21T17:39:00Z
+    webUrl: "https://www.fairobserver.com/business/technology/benjamin-verdi-facial-recognition-technology-policing-surveillance-racism-news-15437/"
+    ampWebUrl: "https://www.fairobserver.com/business/technology/benjamin-verdi-facial-recognition-technology-policing-surveillance-racism-news-15437/amp/"
+    cdnAmpWebUrl: "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/business/technology/benjamin-verdi-facial-recognition-technology-policing-surveillance-racism-news-15437/amp/"
+    type: article
+    provider:
+      name: Fair Observer
+      domain: fairobserver.com
+    quality: 59
+    images:
+      - url: "https://www.fairobserver.com/wp-content/uploads/2020/10/Facial-recognition-2.jpg"
+        width: 938
+        height: 450
+        isCached: true
   - title: "First facial recognition surveillance camera tests completed – Police"
     excerpt: "The Unitary Police Service announced today (Tuesday) that it has completed the first phase of testing initiated in August for facial and license plate r"
     publishedDateTime: 2020-10-20T11:16:00Z

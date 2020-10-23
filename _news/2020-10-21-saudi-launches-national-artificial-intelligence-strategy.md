@@ -2,15 +2,15 @@
 category: news
 title: "Saudi launches national artificial intelligence strategy"
 excerpt: "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said."
-publishedDateTime: 2020-10-21T16:33:00Z
-originalUrl: "https://www.reuters.com/article/saudi-economy-ai-idUSD5N2EC03K"
-webUrl: "https://www.reuters.com/article/saudi-economy-ai-idUSD5N2EC03K"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSD5N2EC03K"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSD5N2EC03K"
+publishedDateTime: 2020-10-21T11:47:00Z
+originalUrl: "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6"
+webUrl: "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2761N6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761N6"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 87
+heat: 147
+published: true
 
 provider:
   name: Reuters
@@ -22,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "UPDATE 1-Saudis launch national artificial intelligence strategy"
@@ -104,6 +110,6 @@ related:
         height: 630
         isCached: true
 
-secured: "AoKEJZZ9+50p3mC933mYwPNWt/ILwxJDvtb99sovYx34gC3Yzr378PThjKZf+NjRXrRaHKQmWe/Bx95qcpguJw97cjyHWfyq+0r+JAoYOiP1a04qtFPGqjdh+UzrltXzayBr/pcfJgTz6dpBaVk8NyLLRK5yUYf4FtABqFdxay+j2JkC2xI+r1bKQxrYSz/9hhts3YvMKz6kQwStvAn7EQhL76buiPv+5pO2JPsEhKJipUg9t+A6gTpWZRHLtF9DjdWkOEjm9MrCYCynj5NSrxD1yH3Ro1cVcu5INQn2yVY2rVYJ2nN7SNGWq0OTPJUiF9RiMIQCh4NGzpy7H68n9X263EiRKhXl/XWRSc3mMSM=;fiSCqDYIJMd7VRTaIWjkAQ=="
+secured: "xleOZ+57gEMyBPlf9k3437fKBRsRluX+CWvfYQ2XyyXp6aOTTlqf7XJwXXY8YOFu4beiK5hqKPS//2JBcEqxLdBARg3rRlxKsISE9jcEjBKgoLDFV+thiRIL0Sc7foPNoTCdHNocqu6Kl39Afmhle4YdEmEHLA6vD+f9a/DJb6ttr5bvmCh5a2jL6OkGu9BRelsMn1sZrFbBFskZ/3yN5YLXK/TjyQH2xKV39k7JEaDGzM5sKRns7tryMf6vf8TWKXmbWo6bt89cy2JhUz+8LmFauaJHsDO75s4MD1t2ByVosIt8X6N1ijIGwQs8f/BJKfo5mfj85NxYukKG1KQ4OLQphuPkNNJYAbWYM3vy6GA=;X61l2oKZ4PxMUTX4n3JKvw=="
 ---
 

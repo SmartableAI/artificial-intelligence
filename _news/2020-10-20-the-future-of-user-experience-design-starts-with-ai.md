@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-20T14:00:00Z
 originalUrl: "https://www.fastcompany.com/90566154/the-future-of-user-experience-design-starts-with-ai"
 webUrl: "https://www.fastcompany.com/90566154/the-future-of-user-experience-design-starts-with-ai"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/10/Unknown.png"

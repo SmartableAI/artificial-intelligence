@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
-    width: 600
-    height: 300
-    isCached: true
-
-secured: "ILgyXOTovVaGnROdEe49n20pRBlOYx+rAxAWSVgKbtrGNHsbpXMZ9hmnPfP9LKrFwgAaC8LOPrOifq2jWpPnoOErGMwCDaZGvCmfLsvSWltbFYJerFHutC3WaxlWbyN8ZS5djy918Gch0NfptOa/AyHu60xs/r+Tsxu3FATmcKLQaaIoyO9TAGrbzYhcJktYOmIXYc/Kn4TIHniOPU543AcHZVSl+uFsRQPxs6a0njgRe6Tmbu3lk6xoUqHFsu1DIURoFCdLUSX5UnMF+Rai8SgHymi8wfPWG3AzZr5835mOPDCgKrjDuuVjvQ+8xonXuoF+VXTXqesGEsQR/aqKF6IzKKVXw49gbw6Y0n+klqU=;a/X1/ddBSYql9LW/sU86vw=="
+secured: "iVm0za9qgNLS3a6YidbmCMgz17Xnqc8MNstm3DY9YWAn3gwqvwaBfclyaijmGnwgt71vbhj6weMuMbP1ZyngJFo4lYWpznwkXJJ2jCAZb3ZcAPODZ601MZDMJ+Ov2aHg2hdEQlRwnFVt6m12ka2k9g53Z2rL/MyJTPINHl8PKzGpFBah7J6viKN5RGMwN/BU0dXjVJdqZo58yZAn3lriKD5Ki3CYyywaLp1d1Ug7kw+VUhWvrQCQjr0UoUJFgWb9ePMhZaJ4S7dgOSZ5MeTqSfRpk2y95JAr3hEUbIt0I7wH4D9znoTPLSs2Kpk4a0xjhB5DMrsbk18Y1J4OFrXe7h1JzVijBwrUqvoTssIWbzM=;I11rCJKMEgbStKUJg84ZVw=="
 ---
 

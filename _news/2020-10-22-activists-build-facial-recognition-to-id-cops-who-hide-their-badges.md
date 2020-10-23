@@ -137,6 +137,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facial Recognition Technology and the Future of Policing"
+    excerpt: "The replacement of systemic, interpersonal racism with hard-coded, digital racism is not the reform policing needs."
+    publishedDateTime: 2020-10-21T17:39:00Z
+    webUrl: "https://www.fairobserver.com/business/technology/benjamin-verdi-facial-recognition-technology-policing-surveillance-racism-news-15437/"
+    ampWebUrl: "https://www.fairobserver.com/business/technology/benjamin-verdi-facial-recognition-technology-policing-surveillance-racism-news-15437/amp/"
+    cdnAmpWebUrl: "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/business/technology/benjamin-verdi-facial-recognition-technology-policing-surveillance-racism-news-15437/amp/"
+    type: article
+    provider:
+      name: Fair Observer
+      domain: fairobserver.com
+    quality: 59
+    images:
+      - url: "https://www.fairobserver.com/wp-content/uploads/2020/10/Facial-recognition-2.jpg"
+        width: 938
+        height: 450
+        isCached: true
   - title: "Protesters are using facial recognition technology to ID police"
     excerpt: "For years, law enforcement agencies at the state and federal levels have used often faulty and always creepy facial recognition technology to try to identify civilians. Now the table is being turned."
     publishedDateTime: 2020-10-21T20:34:00Z

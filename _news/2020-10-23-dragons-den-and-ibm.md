@@ -3,8 +3,8 @@ category: news
 title: "Dragon's Den and IBM"
 excerpt: "Watch as Michele Romanow meets her at the IBM Canada Software Lab for a discussion about IBM Watson, and explains how AI can help Dragons' Den alumni RVezy work smarter as they enter the US market. In just four years,"
 publishedDateTime: 2020-10-22T23:09:00Z
-originalUrl: "https://www.cbc.ca/dragonsden-ibm/"
-webUrl: "https://www.cbc.ca/dragonsden-ibm/"
+originalUrl: "https://www.cbc.ca/dragonsden-ibm/index.php"
+webUrl: "https://www.cbc.ca/dragonsden-ibm/index.php"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 264
     isCached: true
 
-secured: "jwHyD8WHvUAbH6i8v/E2hjrcvwEUwHb4BqawKi/qRYh4PfR1+4CNl4D1/PMmeGV+kcdiYEEhU+s2P8oY1Pr0+WaQogSOGaIEFzf2E0b3B3rkWYj5CNobmE2SmLUV1BNLfZLoHHWyFoP0sRKZkEn29SpNUlZRhIsjTxkvNN1sniGexJDWa0Ob30ouS7C88780M2/hjTL76aIUt5OhiB9VvJEAY22MpAWWt6vo5cHS6PmRVqAxhxNFIRh6AuyVLpg822/XKU1Tu6iC5gBWTx8y4OUDVLamJn2/AtiTffghEixhRqC6ANKNN0C+lVvNujHoTP/+JRTALNg/FYcazNZtbwwXe1vSCpH6Ae/n+kUTRkU=;0CFJiiK4NzBbgaIyU/zLsg=="
+secured: "JxxsEZtf32yz0791uGoLsla5FLiWm+BxTM1OdFY0DNbVHC3qsi++bi/3ZXNcBVUprQOX3N46POGv9+McyVnHZrTu/hp/BrtMTy6XRJO3mCiFjQwVZNaziJMmMjuYoqoSUx/NInb6LkM52/uqeBicqtrUGeewWGFSyDKllRqtV730yxRrDSiUMxbIbLp7mMPuqVjnlRlvQpWJ7hTRQGg/xy5EcBKC8KbLQ9f8qW5endKr9uuBlKhIjrGR9nxaZDwzU1r5Ezt3godGl2+UF3QceWzikTvT6wstOgg+546jpO3lxcJqtgiJ7W1jqT3TEBgEKOZRxegN3I8ye4m8Qq7KCTnMoPDV80vInNYZTpnKOn8=;G9BGLgFt4SlQXLNo+8dtug=="
 ---
 

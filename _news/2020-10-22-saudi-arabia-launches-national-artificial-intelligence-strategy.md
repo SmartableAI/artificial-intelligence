@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Saudi launches national artificial intelligence strategy"
+    excerpt: "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said."
+    publishedDateTime: 2020-10-21T11:47:00Z
+    webUrl: "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2761N6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761N6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M"
+        width: 817
+        height: 545
+        isCached: true
   - title: "UPDATE 1-Saudis launch national artificial intelligence strategy"
     excerpt: "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy."
     publishedDateTime: 2020-10-21T13:23:00Z
@@ -57,17 +73,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Saudi launches national artificial intelligence strategy"
-    excerpt: "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said."
-    publishedDateTime: 2020-10-21T16:33:00Z
-    webUrl: "https://www.reuters.com/article/saudi-economy-ai-idUSD5N2EC03K"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSD5N2EC03K"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSD5N2EC03K"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
   - title: "Saudis launch national artificial intelligence strategy"
     excerpt: "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy. The National Strategy for Data and Artificial Intelligence (NSDAI) will seek to attract $20 billion in foreign and local investments by 2030,"
     publishedDateTime: 2020-10-21T14:23:00Z

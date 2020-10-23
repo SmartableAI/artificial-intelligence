@@ -1,25 +1,27 @@
 ---
 category: news
 title: "AI Startup EarthDefine Announces Expansion of its Building Footprint Geocoding and On-Demand Property Information"
-excerpt: "PRNewswire/ -- EarthDefine, a provider of high-resolution spatial data today announced the release of an updated building footprint database, which contains over 156 million footprints of commercial and residential structures across the continental United States."
-publishedDateTime: 2020-10-20T13:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information-1029698789"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information-1029698789"
+excerpt: "PRNewswire/ -- EarthDefine, a provider of high-resolution spatial data today announced the release of an updated building footprint database, which"
+publishedDateTime: 2020-10-20T12:46:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information-301155662.html"
+webUrl: "https://www.prnewswire.com/news-releases/ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information-301155662.html"
 type: article
-quality: 26
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1315698/1.jpg?p=facebook"
+    width: 797
+    height: 419
+    isCached: true
 
 related:
   - title: "AI startup EarthDefine expands offering to include on-demand property info"
@@ -37,6 +39,6 @@ related:
         height: 345
         isCached: true
 
-secured: "kibJkh9Zr71p/ydqwd6OO7tAAJTOLqPVSlaq7UYiL9iClSX0sA4yl8WxV7CbbSq+vkUrzbNBIwi150YWmR/OKuUmnfVz3KVBtqylbl54RwPpjCV3ae9W+idfoy7UO+LiZlEO5DnIxpQK0C0JllVpIGDWCeMwavWlejkdyAl25Yk8eSruZtU4HM0l22vXO4iBNq9QoT+c3G8wya6kAC7MHarzB5YVYjfqKcEFPqXANuVquN/TVxslScrNsmzbJPpb+VJ9CHLM6n63TsVtn/23ZrcQUaVwZLN7zA7s5QJR+NF0UZNx6kMKUD/mTLRkdT06VUPTiWowbJw1uYLV7azjWSo75k/1Bd+wJ97J14DELWc=;xeEPMrFnEtlgS7XM9Kqtww=="
+secured: "bLsssxYA6KbafnI1n632kohrvXa54Lf3VYqp7fa8Gg3/xqXv/dVGyMAEA6p0ZIowj6R0xm63p2mPoD/39PFuVVwV6sLsNEYKKwe4+jfvveBicI4W+xt1oPQ1EacUUUlZYZcDiFd0k6hdvBDcEJPuUZ/beh8urZPzLbIVO0kpb9XC9O98Cbg01RyN30/0hFDQxwoaJnJ72rAUCULmmYKM2UQN/8lU3DPwTVt+xqAPjQ65uUfUri6XhWiTbqHNswOTTM4RxmAhTXm/TdxiZbrTNRZo6VKXR5jGKHpDwf09GHxRVxwgtgmmJa0CC+Hvk5nRmVxlzVzg8jdBt62XA9lU/1S6lNE3Oib0Sp06HtiaVZw=;pnyyIAiYUG8EtsLDeP5cVw=="
 ---
 

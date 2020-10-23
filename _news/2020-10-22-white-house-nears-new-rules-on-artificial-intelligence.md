@@ -1,10 +1,10 @@
 ---
 category: news
 title: "White House Nears New Rules on Artificial Intelligence"
-excerpt: "The Trump administration prefers what U.S. Chief Technology Officer Michael Kratsios has called a ‘light-touch’ approach toward regulating AI, to avoid holding back U.S. leadership in the field."
-publishedDateTime: 2020-10-21T17:19:00Z
-originalUrl: "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
-webUrl: "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
+excerpt: "The Trump administration prefers what U.S. Chief Technology Officer Michael Kratsios has called a “light-touch” approach toward regulating AI, to avoid holding back U.S. leadership in the field."
+publishedDateTime: 2020-10-21T22:12:00Z
+originalUrl: "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366?mod=latest_headlines"
 ampWebUrl: "https://www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 512
         isCached: true
 
-secured: "J8uXPfdynlqFI1cMnjGKF5MDcvBdqeZtNmSilFP5jkUTQoIwoG50LUdk4D+VHTWubKN70MKvgzbC8VlZDnmpPmsN+x7I0FwS0Lhy7n9Wj7yxr+JQNoNHhA+RTvvZRzmRRfmxMQAw+q7uFfl/sEWtwXK8Gt4DGzToiKTRrI932z/0r01NKbq8S4e5iMgkY5zh1XqPsD8sp5S4bx3gMLKpl9rlQUomdglbC0V32m+0my88pjjjafEpSyjpZGmEJBGWmVM8r3X/2P7YwQmzwTv0WUBaqGQ5JjGomn5QDQJiQD9sWjL4xYTtiQ70XkmKFp8P4a5WKnMCgZo2EkAc9SgtiLXkdcsVSC4qIXdffjlx+HrHtrl6GMfkgBMkKGU0y2cQE7BwxN/OcxkSXUATXsXj/4cvgzEtAWGcXJ7ZBi+l3YhpsZXlqQfCOv99r6veeNLV0U4jAyXafBknUi5YRLaLD3Iyrymv9Ylhn6SDiTPe0I5X09VL8+zLU3QiXgc2upn35xPcbL0UxxfFqMTh2Wwepg==;6ugW5cRAWgPfCYI9B/nRXQ=="
+secured: "6gbrqPMDIpBP+KxstcGTV2wIQrsyUgXOq4ojxIz4EnByuieQaIhJW5jyhrO1iqrwzK4sUtNloR/B6Qb2KIGniejeZuGlsKkOMIH7rtvILow+i8FWQt2NvWgL/xL+p6v/MNB+4vUyogbh9Kyjo2lChaxQhQ57ABwHOiTStvm7hSyXojkQ587vadINQtT988CKnQVG2E6UqaS0tzAjoEo5YcRSE6oql81n3sYYmR81kjehDdaN2jDqbQfzdhktOKR9St/xDByDUa2y3deFq1vdNrqUeQ8Z8JFgQ9PsWmbAEnCD6Vvsu0R4hVC4yhoTdkCkOMmilB9FCcwZryPYquy6H0y0ppyYZg0oki0v1yOmaXQ=;OxAsLFFeHpY7Zfav7qv6gA=="
 ---
 

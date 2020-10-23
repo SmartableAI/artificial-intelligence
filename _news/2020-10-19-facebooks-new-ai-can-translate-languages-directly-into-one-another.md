@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebooks-ai-can-translate-languages-di
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html"
 type: article
 quality: 106
-heat: 346
+heat: 356
 published: true
 
 provider:
@@ -313,6 +313,20 @@ related:
       - url: "https://slator.com/assets/2020/10/Facebook-Announces-Breakthrough-in-Machine-Translation-for-Low-Resource-Languages.png"
         width: 600
         height: 400
+        isCached: true
+  - title: "Imagine Brad Pitt speaking in six different languages: new AI translates dialogue in the speaker’s voice"
+    excerpt: "The same goes for podcasts and audio interviews. And, in a different sector, call centers would also be able to handle calls in several languages. Localize proposes voice translations in different languages all while maintaining the speaker’s own voice ..."
+    publishedDateTime: 2020-10-22T23:21:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/23/imagine-brad-pitt-speaking-in-six-different-languages-new-ai-translates-dialogue-in-the-speakers-voice"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/23/909356.jpeg"
+        width: 1240
+        height: 827
         isCached: true
   - title: "Facebook Unveils AI Translator For 100 Languages Without Relying On English Data"
     excerpt: "Facebook announced that the MMT model that can directly translate “100×100 languages” in any direction without relying on only English-centric data."

@@ -77,7 +77,7 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/10/Unknown.png"
         width: 1280

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
-excerpt: "Tesla on Tuesday night released a beta, or test version, of what it calls a \"Full Self Driving\" software upgrade to an undisclosed number of \"expert, careful\" drivers."
-publishedDateTime: 2020-10-22T18:50:00Z
-originalUrl: "https://www.cnbc.com/2020/10/22/teslas-new-self-driving-software-release-closely-watched.html"
-webUrl: "https://www.cnbc.com/2020/10/22/teslas-new-self-driving-software-release-closely-watched.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/10/22/teslas-new-self-driving-software-release-closely-watched.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/22/teslas-new-self-driving-software-release-closely-watched.html"
+excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's <TSLA.O> release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
+publishedDateTime: 2020-10-23T03:21:00Z
+originalUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
+webUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27727Y"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27727Y"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106555483-15906759672020-05-13t014453z_710781449_rc2dng93w4em_rtrmadp_0_health-coronavirus-tesla-texas.jpeg?v=1600783514"
-    width: 3500
-    height: 2333
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538480421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1CB"
+    width: 763
+    height: 545
     isCached: true
 
 related:
@@ -308,6 +308,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Tesla Begins Deploying Full Self-Driving Beta To Select Customers But It Is In No Way ‘Full Self-Driving’"
+    excerpt: "This week, hardcore Tesla fans got complicated feelings in their bathing suit areas as Tesla announced the limited deployment of their new Full Self-Driving (Beta) software, which, based on the name and the hype, sure sounds like it’s a fully autonomous ..."
+    publishedDateTime: 2020-10-23T03:02:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/10/tesla-begins-deploying-full-self-driving-beta-to-select-customers-but-it-is-in-no-way-full-self-driving/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/10/tesla-begins-deploying-full-self-driving-beta-to-select-customers-but-it-is-in-no-way-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/tesla-begins-deploying-full-self-driving-beta-to-select-customers-but-it-is-in-no-way-full-self-driving/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 42
+    images:
+      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/10/23/h9j7izkikqbybxzyg0vp.png?ar=16%3A9&fit=crop&q=65&w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla moving ahead on self-driving cars"
     excerpt: "This week, a group of Tesla drivers was selected to receive a software update that downloaded automatically into their cars, enabling the vehicles to better steer and accelerate without human hands and feet."
     publishedDateTime: 2020-10-22T08:27:00Z
@@ -322,6 +338,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Tesla Testing ‘Full Self-Driving’ Vehicles That Can’t Drive Themselves"
+    excerpt: "Tesla sent out its \"full self-driving\" software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-22T22:37:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2020/10/22/tesla-testing-full-self-driving-vehicles-that-cant-drive-themselves/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/10/22/tesla-testing-full-self-driving-vehicles-that-cant-drive-themselves/amp/"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/10/22/tesla-testing-full-self-driving-vehicles-that-cant-drive-themselves/amp/"
+    type: article
+    provider:
+      name: CBS SF BayArea
+      domain: cbslocal.com
+    quality: 39
   - title: "Tesla talks up self-driving capabilities, robotaxi and production ramp"
     excerpt: "Tesla (NASDAQ:TSLA) held one of its calmer conference calls after knocking out five straight quarters of profit.Tesla CEO Elon Musk gave out more details on the full self-driving [FSD] beta, noting that the system will be trained as edge cases are worked out with the beta drivers."
     publishedDateTime: 2020-10-21T23:02:00Z
@@ -332,6 +359,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "Bf/qQfdGFX3weCj+jWH+K21YVjtlvLVBSEfe4ne/qFl/sHXaQx9m3PYyAgXQpS1j3/a1FUQrCpeUUGycTD9JeSuBAPF8CCiaw4dOCqoe28CyBca11fsGSEoVFvO5I2pwhzqyJyVdXdUkXhbrFQYvk82iaDHewzts/AO+wZetqYOL0SkGY0Gbxr+4PVUYkC91/p73sDFEHv3bq/ZXOL9nYEZiy45USLz5sRMHOmFQjgP9GntOiavePWCrM5TaLi/YCV0fVL0PRfzBT0bpxE4zS+c2375HLUO5zZi9AxcfpeZWHIovtJzvwOMbJND0rangvFxnj3fOu/iUpXjNNdElp1Roa5gIlKoTg32q0/jZlV0=;6MpxRtH/QTp5PnAgk1faYQ=="
+secured: "52qu5cxKQ1IPw1Y+OGcogsmYueYxZEl3mRa5ZQSiOS+Iw6o6qDRool0Aw/Mc1zJzlbm0oV8vo7ijYIhcRwXFoPTprrCvrQTdqvVzhVpl3JC9y5ArgxybIeP4RJTIBCWYEiiBY5B+TfDUAbaSa1MVvskJjyWc2/GtEO47PKAwm1F5XjxWD2gYsNXQaTa/tYoEalGXhlvZaIwk6Q+jH8sw/bOxFTmU/UJCa0Row6QIyMjnDsd6VtIN/2zpLmB2F8Yv61YfXsUIfQtV2ZPpg7sNEQqMVsJ93ewLatWMcQRBd+5FezR2Zy5Y5cGsHzKsALkXfCv8KqT6YvQYPXFNNfNizyNPfmprhjv8/S5Hhmf4YoU=;sBeJQyWR/OrfnRYiQrIblg=="
 ---
 

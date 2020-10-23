@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "UK plans for self-driving cars threaten safety - insurance group"
+    excerpt: "British government plans that could allow self-driving cars on motorways as soon as 2021 would put lives at risk because the available automated technology falls well short of human driving capabilities,"
+    publishedDateTime: 2020-10-22T23:22:00Z
+    webUrl: "https://www.reuters.com/article/autos-selfdriving-safety-idUSKBN27807N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27807N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27807N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
   - title: "Hackers fool self-driving cars into sudden braking"
     excerpt: "The car was equipped with Tesla’s latest Autopilot semi-autonomous system but was unable to discern the digital image from a real stop sign, leading it to make a sudden stop that could cause an accident or a traffic jam."
     publishedDateTime: 2020-10-22T09:40:00Z
