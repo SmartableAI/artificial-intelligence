@@ -120,6 +120,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How Artificial Intelligence is Transforming the Insurance Space"
+    excerpt: "When it comes to digitization, the insurance space hasn’t particularly been at the forefront of leading in technological innovation. And it’s only fair as a colossal amount of regulations combined with thousands of users’ sensitive information makes the insurance industry cautious in adopting new technologies."
+    publishedDateTime: 2020-10-23T05:33:00Z
+    webUrl: "https://customerthink.com/how-artificial-intelligence-is-transforming-the-insurance-space/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 39
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
+        width: 3608
+        height: 2336
+        isCached: true
   - title: "Startup Circle: How is KiksAR using AI to change the fashion industry?"
     excerpt: "KiksAR founder Ms Kavita Jha is erudite with a strong academic background. She has completed her MBA from Pune University. Kavita holds deep domain experience of 15+ years. Prior to"
     publishedDateTime: 2020-10-19T11:35:00Z
@@ -131,20 +145,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 37
-  - title: "How Artificial Intelligence is Transforming the Insurance Space"
-    excerpt: "When it comes to digitization, the insurance space hasn’t particularly been at the forefront of leading in technological innovation. And it’s only fair as a colossal amount of regulations combined with thousands of users’ sensitive information makes the insurance industry cautious in adopting new technologies."
-    publishedDateTime: 2020-10-23T05:33:00Z
-    webUrl: "https://customerthink.com/how-artificial-intelligence-is-transforming-the-insurance-space/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
-        width: 3608
-        height: 2336
-        isCached: true
 
 secured: "AZPoTTTCtUgNX+Lmc8jprAzR1v8F52d2BwaJFeuyk9sK8f0btQ6Hl/Q2UVYamyHBsOT+GMRuUFIRHhEXZ9M/75IGEdvk0iGQuEy5cdgTJobcwG+dIXfyFFVwGN1tkq5HzqxiTwHI9LnsK1MolYuAT3bc/wltQhvpZbATOP9n/HxIC0wjgpYA3C3Ar+i0RnYIysJkKZ19NuQxoyRPiFoljzhidX8v8+xzzNAqLfKSm9umpmDDm7DnDdIftxDOR8hzoUTakBEl0OR5cMwt5tF6ZvnSgFRD4cl26RUh6QVKkw7t7Zm20GFtPN73UW1JJt7rzKcFEdalK7QpYQKixb3H+vjmiDwB+HvRcJ9sGG2oP4U=;lh4RPqvQUigQuCojTUufdw=="
 ---

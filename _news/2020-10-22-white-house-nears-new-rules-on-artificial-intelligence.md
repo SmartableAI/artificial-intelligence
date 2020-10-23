@@ -1,10 +1,10 @@
 ---
 category: news
 title: "White House Nears New Rules on Artificial Intelligence"
-excerpt: "The Trump administration prefers what U.S. Chief Technology Officer Michael Kratsios has called a “light-touch” approach toward regulating AI, to avoid holding back U.S. leadership in the field."
+excerpt: "The Trump administration prefers what U.S. Chief Technology Officer Michael Kratsios has called a ‘light-touch’ approach toward regulating AI, to avoid holding back U.S. leadership in the field."
 publishedDateTime: 2020-10-21T22:12:00Z
-originalUrl: "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366?mod=politics_lead_pos13"
-webUrl: "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366?mod=politics_lead_pos13"
+originalUrl: "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
+webUrl: "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
 ampWebUrl: "https://www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Abk8qAolfmC3K3bVcuWuWteCblM1ONsFtyxMBNE07EYfMAyQ0Tu696BBdxqeRfmHDoRVZGL9MpNYt/e2jZOV6Y74ZFmEO2FvxcDXHv7o0kgKrsCsVi8/SHsHU2Le16Rm2qUJ2iWT8UroZEcfwwAXg+HMHXRUs8prwZIwnZTWMHN9ytIp12KHdHWuT+yIRRu/OoSsmBtpAGZBh0fE9QcTXdNP43Tgu/Q/Kmmxyu50EQOc89HmpGRiBl8I+83OJBVDLHrnWlc9WdpfrdtoKSKTJO2lU+lekDv50hIQUM/0p2h+I7CVeyt4VRr9zW3ez6JBz9LqG1yeIZR2rB0+zxKoIw3SR/9jGK6VLGifguwvXtQ=;bnX6dUxmhR2c3JatL471KQ=="
+secured: "LOa7x35ZsmhtGDTaMbkDeVkotS0Yr1VKQmd/CeGPsd77ask8KBdqnroERIi7QqcI6J6nBxkfyCIkatHrErFjq8SXJal3quCSrVPtVJUPO+wjk6On6q0Y+ALMQSE2dV7sh3cMJFHHHBzGUs1V/ZEyA12B8O9EAHW0l8T76GdbjXUT+w8JSxXT+SwWUOR05j2fwudrNPA1Fxq6+vBjhlSj23X2RzvR5WCG1dV9mki8qpLoKtj7m4n4P3trhIk0G1m305TAn60wqZpXOdFRMelUQw7BR3Nc0rSl2c3mN5CzmHb1ya8MnceHRG3BH+xsJ1cjU3osfxRuaH0sExruUp8OHYLgou13Gvaht5DQDDk/Q3M=;QuYYlOSX9ixC9TgfBJO6Pg=="
 ---
 

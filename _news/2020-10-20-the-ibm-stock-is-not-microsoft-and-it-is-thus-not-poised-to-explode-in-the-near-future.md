@@ -248,6 +248,17 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 49
+  - title: "Global Mobile Artificial Intelligence (AI) Market 2020 Business Strategies – IBM Corporation, Microsoft Corporation"
+    excerpt: "The Zion Market Research added a new report Mobile Artificial Intelligence AI Market by Technology Node 5nm 10nm 11nm 20nm and Above 20nm by Application Cameras Smartphones Vehicles Robots AR VR Devices and Others and by End Use Industry Consumer"
+    publishedDateTime: 2020-10-23T06:00:00Z
+    webUrl: "https://www.openpr.com/news/2169213/global-mobile-artificial-intelligence-ai-market-2020"
+    ampWebUrl: "https://www.openpr.com/amp/2169213/global-mobile-artificial-intelligence-ai-market-2020"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2169213/global-mobile-artificial-intelligence-ai-market-2020"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
   - title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
     excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge"
     publishedDateTime: 2020-10-22T13:00:00Z

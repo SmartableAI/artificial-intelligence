@@ -129,7 +129,7 @@ related:
     provider:
       name: CustomerThink
       domain: customerthink.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
         width: 3608

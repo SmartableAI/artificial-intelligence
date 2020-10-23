@@ -123,6 +123,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Jumio rolls out new video-based KYC, deployed by UK FinTech Ebury"
+    excerpt: "Jumio announced the launch of a new video-based verification solution for financial institutions and other regulated businesses."
+    publishedDateTime: 2020-10-23T06:45:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/jumio-rolls-out-new-video-based-kyc-deployed-by-uk-fintech-ebury/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/05/Jumio.jpeg.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "SBU5S+x/Dx8DemhG0Z+K4e7usZMmKEHc5slEoTupFpKTxdmy2grmmnsj/uU1nifvvpEc+JrSDVj/Snl62oU44pdK9wjKPcyFC0Fp2yz/MvncNNoptTYLBx70Qk3aPuMW1i8WSlCjPCAeP/8EldnfuDmThLQkjQiNcgACjuPolM+CwP9+g1TR+4nY9FzKscn4gY0EY8N6m/r2/PnITnQ2CpZtjbjoJEp/buCSFZNi0O6HNQO/E/BdaeLirXBxcDaQ5K6T1lYByfPxNwb9JJPDPvR0xHOx55abccNB5Bw9OkNaVIUSHC2QA121Xsf2aGpC/3RzfuBDeBfdJ/U/TZRnAUQS8QYAytM6qsVimS9+ozcbDrRkizbJvKnqtmJ9zcwqTa+1Quv15Hj7VomHuMxghL6UQm04WJk58q6/85ipwbeU1KVUxX1NJC+d/qlYsmlDE8Ff9qcToWPFXMxuxrSoTVwSARS84ZvUfwqdQYw/r+/7XBoBNP7EDm9vh+/BMOfPba0JvidzR/s6jPocj8yF7A==;rFmwryrprmrsgTuAm0C1CA=="
 ---

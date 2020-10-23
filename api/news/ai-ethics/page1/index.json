@@ -672,6 +672,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-12-sagie-davidovich-on-the-future-of-ai-and-ethics.md",
+      "title": "Sagie Davidovich on the future of AI and ethics",
+      "excerpt": "Artificial intelligence is moving beyond just predicting the future to shaping it to our will, although ethics are extremely important to this brave new world.That’s according to Sagie Davidovich, the chief executive and co-founder of Israel-based AI leader,",
+      "sourceUrl": null,
+      "webUrl": "https://www.innovationaus.com/sagie-davidovich-on-the-future-of-ai-and-ethics/",
+      "originalUrl": "https://www.innovationaus.com/sagie-davidovich-on-the-future-of-ai-and-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.innovationaus.com/wp-content/uploads/2020/10/Abstract_Tunnel_1644528388_OP.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Innovation",
+        "domain": "innovationaus.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-ai-artificial-intelligence-governance-how-to-get-it-right.md",
       "title": "AI (Artificial Intelligence) Governance: How To Get It Right",
       "excerpt": "AI (Artificial Intelligence) concept. Deep learning. GUI (Graphical User Interface). getty. AI (Artificial Intelligence) governance is about evaluating and monitoring algorithms f",
@@ -1400,59 +1443,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-to-make-fairer-ai-physicists-peer-inside-its-black-box.md",
-      "title": "To Make Fairer AI, Physicists Peer Inside Its Black Box",
-      "excerpt": "After repurposing facial recognition and deepfake tech to study galaxies and the Higgs boson, physicists think they can help shape the responsible use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/",
-      "originalUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f68ee3340c3a6fb18426ae0/master/pass/Science_CMS_D810_NEF_3483.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/amp",
-      "publishedDateTime": "2020-09-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
       ]
     }
   ],

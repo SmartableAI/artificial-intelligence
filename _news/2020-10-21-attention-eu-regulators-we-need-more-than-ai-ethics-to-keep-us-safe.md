@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "White House Nears New Rules on Artificial Intelligence"
-    excerpt: "The Trump administration prefers what U.S. Chief Technology Officer Michael Kratsios has called a “light-touch” approach toward regulating AI, to avoid holding back U.S. leadership in the field."
+    excerpt: "The Trump administration prefers what U.S. Chief Technology Officer Michael Kratsios has called a ‘light-touch’ approach toward regulating AI, to avoid holding back U.S. leadership in the field."
     publishedDateTime: 2020-10-21T22:12:00Z
-    webUrl: "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366?mod=politics_lead_pos13"
+    webUrl: "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
     ampWebUrl: "https://www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
     type: article

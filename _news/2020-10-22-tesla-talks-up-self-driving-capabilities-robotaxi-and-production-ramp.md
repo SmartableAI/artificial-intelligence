@@ -353,6 +353,34 @@ related:
       name: CBS SF BayArea
       domain: cbslocal.com
     quality: 39
+  - title: "Tesla’s Full Self-Driving Beta Is a Huge Step Towards Autonomy. Risky, Too"
+    excerpt: "Accidents can happen either way. Regardless of which side of the fence you’re on, there can be little arguing that Tesla is making its boldest move yet in the rollout of the Full Self-Driving Beta upgrade. This update, FSD Beta for short, or Autosteer on ..."
+    publishedDateTime: 2020-10-23T04:22:00Z
+    webUrl: "https://www.autoevolution.com/news/teslas-full-self-driving-beta-is-a-huge-step-towards-autonomy-risky-too-150527.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 37
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/teslas-full-self-driving-beta-a-huge-step-towards-autonomy-risky-too-150527-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Tesla: $8K ‘full self-driving’ software upgrade still needs driver supervision"
+    excerpt: "Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still ..."
+    publishedDateTime: 2020-10-23T06:35:00Z
+    webUrl: "https://www.wraltechwire.com/2020/10/23/tesla-8k-full-self-driving-software-upgrade-still-needs-driver-supervision/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 35
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2017/11/tesla_dashboard_autopilot-2880x1050-1-e1522574545164-1024x489.jpg"
+        width: 1024
+        height: 489
+        isCached: true
 
 secured: "eMeQGH/Y9bUci+FC7K0Bolqdg87soOEzRlrotoL8neeM4ZownZEWJX3k3Zxd/JTOKGYZur9U5KZ/MNBgi38QisopklBQD5TQcvvEqVmLohPiJ7oMMBJJpBIU45i5MdXwcKIb8I2A6kzL19r356WkEmyPokBwMtJiUR6m7Rvm8pfeZNOFIaKxUrlHb1aekID29E/eB3SdksbrKgNM2MvHI+1DJqGWQLbw2YIHzipiTZAvKwaJy7ujDhXjh42TnQJteg0VEPxmlR5xSoYNjU2WbuPcMaYxVVesgDdnW4DSSTUyUYXDej6rJQdLcQ4NACKoOf6NjfFsYHPWKnA0KGQjh64vHbaWZDsqRkY5e1mtu7I=;JDFUuVd4nvkgl2zb/a9HUw=="
 ---

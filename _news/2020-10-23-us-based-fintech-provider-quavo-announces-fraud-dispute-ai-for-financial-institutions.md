@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-pr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/amp/"
 type: article
 quality: 50
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Jumio rolls out new video-based KYC, deployed by UK FinTech Ebury"
+    excerpt: "Jumio announced the launch of a new video-based verification solution for financial institutions and other regulated businesses."
+    publishedDateTime: 2020-10-23T06:45:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/jumio-rolls-out-new-video-based-kyc-deployed-by-uk-fintech-ebury/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/05/Jumio.jpeg.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "CBB launches fintech platform"
     excerpt: "test and deploy fintech solutions. Through an AI-powered global fintech marketplace, FinHub 973 will aim to connect financial institutions in Bahrain and the region to fintechs from around the world. The digital lab will also offer matchmaking and ..."

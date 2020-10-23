@@ -345,6 +345,34 @@ related:
       name: CBS SF BayArea
       domain: cbslocal.com
     quality: 39
+  - title: "Tesla’s Full Self-Driving Beta Is a Huge Step Towards Autonomy. Risky, Too"
+    excerpt: "Accidents can happen either way. Regardless of which side of the fence you’re on, there can be little arguing that Tesla is making its boldest move yet in the rollout of the Full Self-Driving Beta upgrade. This update, FSD Beta for short, or Autosteer on ..."
+    publishedDateTime: 2020-10-23T04:22:00Z
+    webUrl: "https://www.autoevolution.com/news/teslas-full-self-driving-beta-is-a-huge-step-towards-autonomy-risky-too-150527.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 37
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/teslas-full-self-driving-beta-a-huge-step-towards-autonomy-risky-too-150527-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Tesla: $8K ‘full self-driving’ software upgrade still needs driver supervision"
+    excerpt: "Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still ..."
+    publishedDateTime: 2020-10-23T06:35:00Z
+    webUrl: "https://www.wraltechwire.com/2020/10/23/tesla-8k-full-self-driving-software-upgrade-still-needs-driver-supervision/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 35
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2017/11/tesla_dashboard_autopilot-2880x1050-1-e1522574545164-1024x489.jpg"
+        width: 1024
+        height: 489
+        isCached: true
   - title: "Tesla talks up self-driving capabilities, robotaxi and production ramp"
     excerpt: "Tesla (NASDAQ:TSLA) held one of its calmer conference calls after knocking out five straight quarters of profit.Tesla CEO Elon Musk gave out more details on the full self-driving [FSD] beta, noting that the system will be trained as edge cases are worked out with the beta drivers."
     publishedDateTime: 2020-10-21T23:02:00Z
@@ -355,6 +383,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "EqOozB2Zh6jFhbHqATHgk8DLWzYZ28y+HsS753swyar5aSRh+6Y/3eFtykeqvIDXfwaZJ1dQcgVQPbCWQ8xWLMSko4BX688AkKhzSqSTXW0049xSpDbPXYTMKvY+bTyPjgthMp57FOoSCAz1VYWU4PvP9GLirq8LorWm07BOG4eRPEYHlf1DTKLuJRi8Rhu32l8Lct4wTeslnlKCgY6WHMe0nhRo50GTas0kDuSfB5+f5gIb2wcp2KmgxJFfl6nPUhXeWO8/mk3xtSETBARvXhLjiSyrfJOVfAiV+2LImfbi9LfYKypW1zINcLnLbnlV/w+7ijKBaSS8J7viXJt4YwCOKapAh0IoiMP/zsuLptM=;wHZI3yyXXMIiU0YUKe1KTA=="
+secured: "gttHwmkB127eQ0TWmbJzs6HRx1/VTc+iSNAMGEJJuWbQEUZ720a5JnL7RUIXab6dcpb9+xa+ZWFK47rgx7FBazjhXaWFON1/gHL08hN8HOfgfnqQDyopC3Kjf6a7U4UEHdUbM+Z5rwjMadkwqHk09k9FtGcdRr6kMzoIs9ovMrT7y89+89jTCJCuOqo8UA2HI5jP6LnDf1jq1+Oqob8hUgCRkCUaj35QoWztM0eOeOWusZZcHiFxY3XRuocHHaRAXdd2cDMJom671bCzidyhCT49416qShHzjZIJsslD9DD+SXWHDao9auAMwafgQ+mHkppkzw0u2fIfb24Eu/ORFXalc8PTBHYfkI6o/Wcmnt+TK4OaD71tLLLte2nefBmMxzt8hknk9wMgbt/6zFzXmhZ71aELqxWJxTN9rZQr06rqRy5e2BBCnPJs9OTE3XZ1jyzHunQuZUpYCajfcM8jzCXK4ECwOepoHjyfG+KTOGcPzz/Ewk0n4TUMhFqav/OfXuVqC4HQLqgPS9zfZ4soWw==;BloHyqgKvJSaZeE1A1dh+w=="
 ---
 

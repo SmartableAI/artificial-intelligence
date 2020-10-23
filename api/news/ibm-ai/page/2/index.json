@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-15-ibm-shows-through-nielsen-how-it-targets-ads-without-third-party-cookies-or-identifiers.md",
+      "title": "IBM Shows Through Nielsen How It Targets Ads Without Third-Party Cookies Or Identifiers",
+      "excerpt": "Sheri Bachstein, IBM’s vice president and global head of Watson Advertising and The Weather Company, says the company has been working for years with artificial intelligence (AI) to prepare for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/355708/ibm-shows-through-nielsen-how-it-targets-ads-witho.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/355708/ibm-shows-through-nielsen-how-it-targets-ads-witho.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-ibm-watson-powers-aipex-the-first-fully-ai-driven-index.md",
       "title": "IBM Watson powers AiPEX, the first fully AI-driven index",
       "excerpt": "With financial markets making historic gains and losses week after week, stability and risk mitigation are critical factors for success in equity investing. Historically, quantitative criteria for indexes offered through financial products and index annuities have relied exclusively on structured historical",
