@@ -230,19 +230,19 @@ related:
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-22T22:30:00Z
-    webUrl: "https://www.chron.com/news/article/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
+    publishedDateTime: 2020-10-23T00:53:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 59
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://s.abcnews.com/images/Technology/WireAP_135a11bded104a2cbee932740c5733a6_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Tesla launches ‘Full Self Driving’ beta to select drivers"
     excerpt: "The Early Access Programme serves as testing platform to help fix software bugs Tesla CEO Elon Musk has revealed the company has started rolling out its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers."
@@ -328,6 +328,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "fCCXwFXkklYFHmo/X4upWghEt5KuyomghAHofuaWqFAHWSUnipdvF0Ac0djgydgnbiIrjVe9LBHXncs71NTKF4VBeDRsCX2Xzb+vz/kvOG/bKJYkhhNppOBbmYHltMzV2JdJJg4+IrTQZMIHU+G6PxmyeiyLLwUWJSEnT11AnlJr3PPg4DiIOUwP1SdFef+7t9DjPPyIcjXuvmSX0QS1kaalDfV+sRQqCiAkvbceEF6YnD7PMjgmL/X0Jt8Y2Bc7ArBs2qNnqSAnXJQa5kGesZ5v9WQJfKL41WvjYcuU6SUlsTac9FEK9v2WVS1uJh1+5GBMkv2jSeYylXYZhoWzyug+zEvi3LmCoJq2nVJPmlU=;4zQlsfG82udch7nf86/SzQ=="
+secured: "jORIREf4RcgLP73b2ufk6Y/PkafbnglyCLfSbp1M0qyQFUiw3f8JLIDgJQLk+j8aphJgPzWrena9sLVjxbVeR8QZUw9GzinCfV+XUwbD5ndtDG2WEoNIRsOFfMNCVYBOKJyY7W7cA0DKwWwMQhgM0QkxQLjKNKxdDGIpXALwBRWqKZobJ3ZnnUl8mltd/0hsi11Im9yG40yk4XhaVFQhq8N/FLqtuxa57Awv1EP1ppHgleZW4/qBX5x9OQOK0gunuGVz+iqeOy3ipskryas4ZVhj0L6VdiIFmFk3NESv47JHrtesotl/qNNuxu1x/CvoQmKrymUJR4GxpyMAZNExyMXyF/qgmrj2bDvT7PV7FQAudBmGU23jCH2h3nkV098mp+eZ+U/EgNEHrqeBX0byyOV8C7AZdLrLHo8PcvdRQwO08FsrjASWUjw7f2zZKEEpES3U45g7QpZ0RMp8DVopG6nq4jPLYzeZ3bP5sgjywIVSg4k6u/kclJVWHxdFMbTc3e1YGQQcU/Zv9owWAy9Saw==;cUH+BBRlB+7XPninA265lQ=="
 ---
 

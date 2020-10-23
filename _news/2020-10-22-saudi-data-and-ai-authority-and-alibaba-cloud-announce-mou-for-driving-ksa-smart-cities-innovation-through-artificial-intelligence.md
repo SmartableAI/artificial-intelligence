@@ -37,20 +37,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "stc and NVIDIA Team Up to Build Saudi Arabia’s First AI and Deep Learning Cloud Infrastructure"
-    excerpt: "Oct. 21, 2020 -- stc, a digital leader in the MENA region, is working with NVIDIA to build Saudi Arabia’s first AI and deep learning cloud infrastructure,"
-    publishedDateTime: 2020-10-21T14:31:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/stc-and-nvidia-team-up-to-build-saudi-arabias-first-ai-and-deep-learning-cloud-infrastructure/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 44
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/lumi-supercomputer-csc-405x228.png"
-        width: 405
-        height: 228
-        isCached: true
   - title: "IBM, Alibaba, and Huawei sign on to help Saudi Arabia's AI push"
     excerpt: "IBM (NYSE:IBM), Alibaba (NYSE:BABA), and Huawei have each signed a memorandum of understanding with Saudi Arabia's artificial intelligence authority."
     publishedDateTime: 2020-10-22T14:02:00Z

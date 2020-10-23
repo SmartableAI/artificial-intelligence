@@ -222,19 +222,19 @@ related:
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-22T22:30:00Z
-    webUrl: "https://www.chron.com/news/article/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
+    publishedDateTime: 2020-10-23T00:53:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 59
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://s.abcnews.com/images/Technology/WireAP_135a11bded104a2cbee932740c5733a6_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves | Charlotte Observer"
     excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."

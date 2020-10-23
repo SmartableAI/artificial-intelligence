@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2020-10-21/how-deepfakes-ser
 webUrl: "https://www.bloomberg.com/news/videos/2020-10-21/how-deepfakes-served-up-federer-vs-federer-video"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Artificial Intelligence helps detect deepfake videos"
-    excerpt: "Researchers tested the tool with an AI-based neural network on videos of former U.S. President Barack Obama. The neural network spotted over 90% of lip syncs"
-    publishedDateTime: 2020-10-18T08:03:00Z
-    webUrl: "https://www.newsr.in/n/Front+Page/1zlu616us1/Artificial-Intelligence-helps-detect-deepfake-videos.htm"
-    ampWebUrl: "https://www.newsr.in/n/Front+Page/1zlu616us1/Artificial-Intelligence-helps-detect-deepfake-videos.htm"
-    cdnAmpWebUrl: "https://www-newsr-in.cdn.ampproject.org/c/s/www.newsr.in/n/Front+Page/1zlu616us1/Artificial-Intelligence-helps-detect-deepfake-videos.htm"
-    type: article
-    provider:
-      name: newsr.in
-      domain: newsr.in
-    quality: 59
-    images:
-      - url: "https://cdn.newsserve.net/newsR256.png"
-        width: 256
-        height: 256
-        isCached: true
 
 secured: "7zoGkfVa7iSGnBUD3BK1pWSV+7e9/Ct36wbVpkg37aymV3ZR4Cyoh9RDxIaVe74KeGYv84Uyj2xPjKn014/AcpsXkq5T3cIHRrfN3+ivzAevnH4CLapC8eVIDjFqi2liRM6o7hF71oTmakLzFyKL0ZzjMcZKiIkTypj/gUUk5dhf+8NAAbegjumZPNdsU+LpB9o3sDla400pCZZ+6DN39RHTm0boxt1kxsdZ2PgfqfkCmxsoOr1n++jiAi4xXz/THFm/rN6viAo8buCP3k7/QUvWcZKAzIqEjSnAhmgS5ql0IF/zYegFPcir7uShN0JBPpGK5bpcwz4ej6dEg78n2cR7ol/QadNLNQSUIdA/bm/BwRrSSt2FrMJLR0Ae3/vew+c4To/SusFWJhMBVXS3yTaz749mQMq8ZCeYl6hn6GMQFrNwmTmCOMbg4L7btF1rHCivcr4cz2VsV20gLEDVcR0LlatYfjNBB2OLbBtGTOIYNL3qb7aTQOm37u9BaAPVJJH1UuNXwGKIN0QmwmSZJg==;o6hX5dtTpA0lbcvm92vo7A=="
 ---

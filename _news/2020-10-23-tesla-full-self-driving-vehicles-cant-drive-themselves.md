@@ -2,28 +2,28 @@
 category: news
 title: "Tesla 'full self-driving' vehicles can't drive themselves"
 excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-publishedDateTime: 2020-10-22T22:30:00Z
-originalUrl: "https://www.chron.com/news/article/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
-webUrl: "https://www.chron.com/news/article/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
-ampWebUrl: "https://www.chron.com/news/amp/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
+publishedDateTime: 2020-10-23T00:53:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+webUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://s.abcnews.com/images/Technology/WireAP_135a11bded104a2cbee932740c5733a6_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -328,6 +328,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "wsKLmXlbzqRYllFWXbI8FBPPowErVHZFjLuXHDRkH8OQSm8eoxwLA8O/8m+qAvTjwaD3SRPicu9iYkTfR6hOlVgZRLBTaF5K6Zkg49bkPZXBaBl464HKXX4svBIH32ULkSCo8yTE5GA3MYSjOnjkW3Y/fUETcDUTWg8HOdh2yQRoWnZjPAUsro2IArhV9159TJJlcCjyYSzFgEbGSZIypnPN8K9Uf5Y0kPnV8t4X/bdSgMeOUF6H4xFp9/IbUjqcHl850z78dLOoLMDptqvRYE8eepl9VxO/w5NnmYRb1YhVhRkMPs2JbJ4o8NzPsvtW6BWoPI7SFejEDxV1MEWTqEGXis2Feh9Rw/nYTOuk35k=;52pIu2hdY2M0M6DkgKI3YA=="
+secured: "Zx+S8wAHXg6+UjjaFk506wd3/mbMHTW1qXEJrOd+V5icX9p+D8gthhANLj1hKLUe1vf59VdGkmt3LCFj2MAP1vlDnGJcuRdhXlGdDdhcXQ9vH7MD5xFTPZz0VqvKSCo0YggfYxjm0+J4064QpqASHB5J4GN96IHOKpnbsb0atPr2z3FPIxFOwnvJpo9LgTTKMjS+wbDZ1Nm65NGjDs0vp8QmMVZmhhQeVDBI3Cc059K7AjkGfRDN8yTZ3Lq0/VS9D7+QQdTsUP6GU48iQ9dK/5aolpSldEGfoGFlS5JfCrGaMYFMcYuicVttgbBj3lJdgw5qH6uSpfvHI8axWXpsNEBFfUHL1jdzHGjxl044tmE=;/XoRTxYJDT7IcAa+y6YFVg=="
 ---
 

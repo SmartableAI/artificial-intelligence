@@ -90,6 +90,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
+  - title: "Saudis Launch National Artificial Intelligence Strategy"
+    excerpt: "Speaking at the opening of the kingdom's Global AI Summit, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) - which will spearhead the NSDAI strategy - sai"
+    publishedDateTime: 2020-10-23T00:33:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
 
 secured: "4BVSpCuR0ADZqNGUFPB7b64Aaql4uuYjEI835dFR1NB/iV8VEhd5ou/F3vEvZGSSQbHxb8WXaya1noNB6XhCnYgknoYhN8tVvz2qJStBnBOnYykOhrf4u8WwPRMtgKd1YxmkeR9yvRQCY4SfOVPJnvj/Yv+giE8EIlkjkNlVOIE9gsBt5/BmSQ1VwfZUyTryggJs/wb8AJoZ5x4t1IuJEw5SBhNG4JtSvhrz6T6NnUjL1dz3XGIC277vlpbawwh+CP1sNkifvpvyPFek/myoPr9gdK14/5YUgpOs+RLMywTLnqfZcVM0GA2TqCfDWWeG8+6nxZvxYRqcAs2lSmlpe3/wuG6UBrEopjjPYUa7m/s=;SXXfI1zzY/6bwQoMzzKGHA=="
 ---

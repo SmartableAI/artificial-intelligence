@@ -1,24 +1,26 @@
 ---
 category: news
 title: "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025"
-excerpt: "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025), owing to the rising demand for hygiene globally across various sectors. The global Disinfectant Robot Market (henceforth,"
-publishedDateTime: 2020-10-12T14:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025-1029670262"
-webUrl: "https://markets.businessinsider.com/news/stocks/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025-1029670262"
+excerpt: "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025), owing to the rising demand"
+publishedDateTime: 2020-10-12T13:50:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025--301150124.html"
+webUrl: "https://www.prnewswire.com/news-releases/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025--301150124.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "mMrNGj4ugvsfceJmk3jhuPrK+q7E0/60KoRIO7aS7GOXnHjuH5dNjG6dWs252iNS3LmJZPIN+nCAsoJDl5haDdZzNNvgAr0Wz+tI1ESHHX5HvF6SfZ7g8pXso43F5bZ3wEV5941ydMpHDSF6abTJ55WPizB0aM8WUmmekri/g8p94//czSg8CHBpDl3tlGdATMxYeVevZAuxqmiJHdaYwJ3iVfJzJJn3OHXBmCfWMBm57N7JPsnQJ4hIHddLsd5GsPB3/Ia6tck8vfLLRSd/yu6qO6kCAvDQtSlZo15VMKQSZg9njoF3mle+iBzjPM+27N5yWqnOf8TLjF/W5l/zaa0tZdPgf9pNf5k+Dh0SDS0=;eGMY3vOVth7Eoas483ykNQ=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "b51zti5fdSqyT0crJmPLVIt36NS4oa7bZgl9j5QD+k5TLZEyinedq+FlLIgx5I8P9hOUqYO60aUJjZsiw5lI+4+RzM3v9LDM3dHPkiyk5M+uZv9EU3H4Q36LIKIL8ZiGAlGQSVIb6AMEiEXfwyokTvFhC8049uxKUfAF0HXwvKe026Ny4Isu5u6sz3CpKgtJnb9kEFpm4LnAtYCWLy2ssjdYrjf7CDa/yUGnHJWODwhCacXLnAYRYeVY3Zeggxt78fhwUMBi7YyDelo1ZaVoKZUIJVXGM65bu5vwxGyHZmNqrOmRYzzuKACSEuGVxi9spzQzUoWX012ZQ36hjCiDo2PonlQOr4oteeR+hn2lEPY=;Q+v2Z6TBsB+aRUgh/2/6qQ=="
 ---
 
