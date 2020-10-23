@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-30-using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic.md",
+      "title": "Using machine learning to tackle some of the world’s biggest problems (Infographic)",
+      "excerpt": "A look at some of the promising applications of machine learning to benefit society from understanding climate change to finding homes for the homeless.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/",
+      "originalUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/aws_VB-feature-image-01.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/amp/",
+      "publishedDateTime": "2020-09-30T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-ai-chipmaker-hailo-accelerates-deep-learning-at-the-edge.md",
       "title": "AI chipmaker Hailo accelerates deep learning at the edge",
       "excerpt": "Artificial intelligence chip company Hailo Technologies Ltd. said today it’s launching two new acceleration modules that will boost the processing capabilities of edge devices that run its specialist hardware.",
@@ -1323,36 +1375,36 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-fintech-machine-learning-leader-attunely-secures-9m-in-funding.md",
-      "title": "Fintech Machine Learning Leader Attunely Secures $9M in Funding",
-      "excerpt": "Press Release Attunely Inc., a pioneer in deploying machine learning to maximize revenue recovery and enhance the consumer experience, today announced $9 million in financing. The new capital includes an earlier seed round as well as a Series A investment.",
+      "path": "_news/2020-09-24-robot-beats-humans-at-curling-thanks-to-deep-learning-program.md",
+      "title": "Robot beats humans at curling thanks to deep learning program",
+      "excerpt": "Thanks to a new deep learning program, a curling robot, appropriately named Curly, was able to win three out of four matches against curlers from South Korea's national teams.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/",
-      "originalUrl": "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/",
+      "webUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "originalUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 106,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5991600873549/2020/1/16008835508632/v1.5/Robot-beats-humans-at-curling-thanks-to-deep-learning-program.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/amp/",
-      "publishedDateTime": "2020-09-24T08:47:00-07:00",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "publishedDateTime": "2020-09-23T11:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1362,62 +1414,10 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-14-smart-ways-to-leverage-machine-learning-for-small-businesses.md",
-      "title": "14 Smart Ways To Leverage Machine Learning For Small Businesses",
-      "excerpt": "Financial companies use reinforcement learning for stock trading, for example. - Vaclav Vincalek, Future Infinitive 4. Facilitate Data-Driven Decision-Making Machine learning can facilitate data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/14-smart-ways-to-leverage-machine-learning-for-small-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/14-smart-ways-to-leverage-machine-learning-for-small-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f68cadbfefa5865ffba6df5%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/14-smart-ways-to-leverage-machine-learning-for-small-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/24/14-smart-ways-to-leverage-machine-learning-for-small-businesses/amp/",
-      "publishedDateTime": "2020-09-24T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
-        "Machine Learning"
+        "AI in Robotics"
       ]
     }
   ],
-  "nextPage": 5
+  "nextPage": null
 }

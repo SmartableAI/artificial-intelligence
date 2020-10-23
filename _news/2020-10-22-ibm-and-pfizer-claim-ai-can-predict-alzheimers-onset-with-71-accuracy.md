@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/R8ulSCynf-e4cEViXKbjo8hp1TI=/1200x630/2020/10/22/911edea4-2b2c-4f95-adf8-df021baa9f84/gettyimages-1175464489.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IBM AI model predicts onset of Alzheimer’s disease by analyzing descriptions of a cookie theft"
+    excerpt: "The model predicted the onset of Alzheimer's more accurately than standard clinical methods by searching for symptoms in written descriptions of the image."
+    publishedDateTime: 2020-10-23T13:27:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 75
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-23T134432.743-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "IBM is a step closer to developing accurate AI prediction model for Alzheimer's"
     excerpt: "In collaboration with Pfizer, Big Blue has developed an AI model using speech samples provided by the Framingham Heart Study."

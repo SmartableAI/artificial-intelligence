@@ -79,6 +79,22 @@ related:
         width: 2540
         height: 1150
         isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ beta is here, and it looks scary as hell"
+    excerpt: "Or as Tesla warns in its introductory language, “it may do the wrong thing at the worse time.” Frankly, this looks terrifying — not because it seems erratic or malfunctioning, but because of the way it will inevitably be misused."
+    publishedDateTime: 2020-10-22T19:25:00Z
+    webUrl: "https://www.theverge.com/2020/10/22/21528508/tesla-full-self-driving-beta-first-reaction-video"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/22/21528508/tesla-full-self-driving-beta-first-reaction-video"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/22/21528508/tesla-full-self-driving-beta-first-reaction-video"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/lps3AfzXnhGB0O-UmvBBQix7uwA=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67673592/acastro_180524_1777_tesla_0002.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Tesla's Full Self-Driving mode under the watchful eye of NHTSA"
     excerpt: "The US government agency said in a statement it plans to keep a very close eye on Tesla's new system as it reaches more drivers."
     publishedDateTime: 2020-10-22T19:41:00Z
@@ -435,6 +451,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "L3Ln5PHk+4rgtKMhWDlIWzhEOojKcyL7wB+sNXzl4/03DiBa5fxhtcCUraaLDWPV4ApxDCiVDe6uExIQ0D+pz/rbhwxqZpCX8lLuVy44HYVHiRlAREsd4autDSIYgXm2noT6flGvhhvepV7TrTfC3t2l6aLjKuLTfhOi8lQtIiN19RECFlXFk917ZP8yLpzh2LEBiPnuitCNvuYyLCuWahOUsFgnCg/8KBtPK5hhE4xYl6GyX1xmdJDDddF+SsvaTBvmyTuYWZqnbetOu/i59lBg1GiUuhlV1SQruOjOsDsxMeVJjHesKe1seZBNT0cGOA4igPry95NiH84JAnTj6DgkLeqd2nQio81WokJI4Pk=;IjK+rpEesRnUqJUXh4d+lg=="
+secured: "u0MKVL64hVjHZzuDjc72p+qYE3azn6DrBr4OlSBqgPeSqKDcGvjXR2hiRWo4Dr8Q0/5kt98/pveEGZ3Rf/no+2rvRcM/M/7F0tRguY1KVz8W6DeDB3Jr1cXXOlSHy9iQUoWiLjgtuU+nS2lsEYVEwhjM82aCOosPLfn5xWRNK+LOwMOFDc4c1zIBYyA62QQcTNXrkKto8i3Tev8qGeAxgzQwySSdb3F7schGmvgq630gaBQg0JYF3YbwPGfBSrXiobzR4azPWs/7zHFYqbld2BKOrGa2wd2ofZlDhoqJQ0+h9TWdNN2jt5dVDckOfKFISSy0FxKn6nf9U46NJBnaO/MtXAK0WN0amtO1MJ8EP94lPZqPaEkMJ0NKVwnSRMOfI/cXfF87xfTptUfyjBM8uArsNkrfXecf1UDdcg3TXtLLY4X+Jrj4cpoteTaZlLYdiRuUIfeVJnZ+sXWREKSN+4QS/hPKVcL/p9VD4pYFRhEdIdmT7GNiQ2BYes33+buE/9Zx9aJKTaKOApdWgaXh9A==;jW6ByB4hUzTxQO6xf/x3Tw=="
 ---
 

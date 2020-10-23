@@ -43,6 +43,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "How To Bring AI Into Your Service And Support Organization"
+    excerpt: "Deciding where to begin implementing AI-driven service management depends on the biggest challenges your company faces."
+    publishedDateTime: 2020-10-23T13:05:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91efa5b69ed05e401bfcdf%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'AIZEN' AI banking-as-a-Service, Empowering data platform to launch lending services"
     excerpt: "The financial services industry has seen drastic technology-led changes over the past few years. While some of the big tech giants have launched their own Fintech verticals, there are many brands that are also increasingly looking to offer financial services to their customers."
     publishedDateTime: 2020-10-20T15:24:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Activists Build Facial Recognition to ID Cops Who Hide Their Badges"
 excerpt: "In order to hold police accountable when they try to hide their identities, a growing number of activists are developing facial recognition tools that identify cops, The New York Times reports — a striking inversion of the way cops tend to use facial recognition on protestors and suspects."
 publishedDateTime: 2020-10-21T19:32:00Z
-originalUrl: "https://futurism.com/the-byte/activists-build-facial-recognition-id-cops-hide-badges"
-webUrl: "https://futurism.com/the-byte/activists-build-facial-recognition-id-cops-hide-badges"
+originalUrl: "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
+webUrl: "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
 ampWebUrl: "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
 type: article
@@ -197,6 +197,20 @@ related:
         width: 400
         height: 310
         isCached: true
+  - title: "CBSE now has a facial recognition tool and it's problematic"
+    excerpt: "Central Board of Secondary Education (CBSE) students will now be able to use a facial recognition system to download their academic documents for the tenth and twelfth grade. Essentially, students will be able to download their academic documents just by ..."
+    publishedDateTime: 2020-10-23T13:42:00Z
+    webUrl: "https://www.medianama.com/2020/10/223-cbse-facial-recognition/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.medianama.com/wp-content/uploads/18itl009_facial_recognition_graphic.jpg?fit=1400%2C616&#038;ssl=1"
+        width: 1400
+        height: 616
+        isCached: true
   - title: "EU placing new restrictions on facial recognition and espionage technology exports"
     excerpt: "The European Union is working on a plan to increase the strictness of export criteria for biometrics and other technologies outside the region that can be used for surveillance and espionage,"
     publishedDateTime: 2020-10-19T00:00:00Z
@@ -212,6 +226,6 @@ related:
         height: 1005
         isCached: true
 
-secured: "72GFss9ZeSX83BUmucx0BjXlgWJ5XL1n2thWUyaolrtIZo5VSAjxqWVw87ojgd4FwYl8qJcyn444OkG0cSF6faVoCfmsgX4Ob+aAInEwWPUlbi4KFnCOWVf8Wc/EfY+K/YMxTAEbQo1LyLhcy/iAR+RbuWbohtVrmAAu73y5zHyqX1eN24gq9C/0n9/WpRKNlGdzYJ2XNR+bsArjignRb+QAnkMVnT2eBG9m2IeVNd28MONLnWozRn/M2vsmNA6Qt3swXflpJUap0BRwuUm/EEvTqj/TOUKbrPyWa4QMRqVJUDQ49FadiUsbwfVYe/N5BVpq7XrBphfr6kS362kYFHR8wtS8XeyAkQ5mW1+ug127FVPAvBzPQOhK64UFbxVzjwrTj+8o9P2Wx9/fzaamvquHCglT2ehDKW4MwQjABZvj5TmDG+GFK6GrD/r+hDoqDK20TCW+GTXByg7cs6+u4lSKK5IaW+nHVS6wFDLPUDIAaymrzw4DZvBM6RrrDTaiTn57JtEKVbfGshIUsneU0Q==;0HW8CYNtn+NCc1gunIMxcw=="
+secured: "dVclFbYUOcFhzPoZcBZBmK7Ixa2r8J+40vHo+J1YOngz9h1orr1jC9tBtAg9EcMEnQK9ttHkOG2VDvPv785mwSLTXs8bDngkOIgbw16MLuL7WCfTrPAx3mNu78gkDtiZXNV7viwTsKA30jz0XnB/UUW1WMr1craSda2zaS8rqwz4M0z3RqvCS1X5Z3BGJHpkrJoGQQbMOhJ27rzQ4GH1sIeFXc51bxQRIiTUuS3nX+7E7eUAKX81M2GnbGYyorZx7MAa69srlv9nh/q9yy6lBSC6uxVfKfxZoyu/1BPZ5Q4IpvHvB1SpysgEvHU4cxuB4kE06WFTwlbutaaKX+MUKT7ZPnF8X+9PTSUk2CqrmSY=;d9Jwa+qEVyflXra05JGFtw=="
 ---
 

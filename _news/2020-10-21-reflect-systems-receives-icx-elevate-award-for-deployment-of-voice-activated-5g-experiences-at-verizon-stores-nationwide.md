@@ -3,27 +3,27 @@ category: news
 title: "Reflect Systems Receives ICX Elevate Award for Deployment of Voice-Activated 5G Experiences at Verizon Stores Nationwide"
 excerpt: "Reflect Systems, a leader in place-based digital experiences for retail, entertainment and healthcare providers, today announced it has won the prestigious Interactive Customer Experience (ICX) Association Elevate Award for deployment of voice-activated 5G experiences at Verizon stores nationwide."
 publishedDateTime: 2020-10-21T16:37:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/reflect-systems-receives-icx-elevate-award-for-deployment-of-voice-activated-5g-experiences-at-verizon/article_bc901387-214b-5637-80ed-fc3acfbdef07.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/reflect-systems-receives-icx-elevate-award-for-deployment-of-voice-activated-5g-experiences-at-verizon/article_bc901387-214b-5637-80ed-fc3acfbdef07.html"
+originalUrl: "https://www.oaoa.com/news/business/reflect-systems-receives-icx-elevate-award-for-deployment-of-voice-activated-5g-experiences-at-verizon/article_cc772ce8-70ab-53d4-9548-eafd0519223e.html"
+webUrl: "https://www.oaoa.com/news/business/reflect-systems-receives-icx-elevate-award-for-deployment-of-voice-activated-5g-experiences-at-verizon/article_cc772ce8-70ab-53d4-9548-eafd0519223e.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/d4/fd444bdb-4b4c-5dcb-acdc-2f7b95c7cc2d/5f906610efd7a.image.jpg?resize=1132%2C630"
+  - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/c/dd/cdd26ced-7612-5e41-9d14-a782727d3d95/5f90696fa2405.image.jpg?resize=1132%2C630"
     width: 1132
     height: 630
     isCached: true
 
-secured: "zQyu4jnx9iQSrooTo3dZlkNg6nbH3mBfcKAhw0ZdB0Yd7yR9jkTJyG/3Um8QmoUSxb6IhbDNgrHfo7QORWIwrJqih+fHO1g7DnkUl7wkMlsDMfJajh6M/kJ8/8UyPFhKIE4H7A5POS1s62CXntL67qML1ckYCFx/HZHxLNcOPL5pjpAup4X6+6PC2PoxTROoRB3SvXvnlRJ65u6Xt9K5cZRSmB3Fzz9Ncv6m0PRZuZRyDaKZLXu5dmuHA8Y00fRtLgDkuiLywtwX7jgryitf3yEmBiRqrvsT4o0S5innh0GSCpaQund+BVT9eF8fndVkUYXLCsbgXSyyTX2mmJvQFqfF/U3FsEeAfphDtI7rPnkm4iMJpKkERY/lyT58BMIQwH7QLl7GMTcUZn42TQo0p5D+sRKlfoqnyLw+PgKdg1tWj92XH8t2YenKP6qYJXpWJqHpuZOkcd4l16yBUbrZF+inmZPPteukYUeWnpb7ruUMCrgwSPbWfhioClbU6xJ78ENZY24gZ7kOfcKrwDo48w==;CM16vc+0oBLdDE1Whdhjfw=="
+secured: "F1IVGLH6I4LAKS5c/awupINOQw2qYNVYb6b9R0kNm9h6gRrzDVlLuH5KtfIXsi0wiwQcTJ5kPkG1j05vuATI57hYftxuvGPGflKwAJT+eDKj1+ngemw47P/NCQEIMkTi/+t/jHHgmNxNkXHHchpEJQM/e269vA7DK1NLgQl8ngv4AdbzWLE8TRxG5gBn/3xyKr+kMG7+B0muo9XcbrdTZJLKUe+rgxp8NI0utgrqrMQwtRSBb/58UkZNUZQff5zMgM8V5MfTxmqBMZN3tkl0bCDmXlbB88OMYAuLo1FXH7J9xl66ftrK3spdM8sg0L5P/32WCFZuH2xTjR4PjgT/5+iNK4+iNVKdDxtlUa5C0WA=;t6rcfQyVC7BAqob1gum8LA=="
 ---
 

@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM AI model predicts onset of Alzheimer’s disease by analyzing descriptions of a cookie theft"
+    excerpt: "The model predicted the onset of Alzheimer's more accurately than standard clinical methods by searching for symptoms in written descriptions of the image."
+    publishedDateTime: 2020-10-23T13:27:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 75
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-23T134432.743-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "AI Predicts Alzheimer’s Disease Years Early using Language"
     excerpt: "Can linguistics, the scientific study of language, be used to detect Alzheimer’s disease (AD) in cognitively normal people using artificial intelligence (AI)? Scientists from IBM Research and Pfizer created a novel machine learning model that can predict the onset of Alzheimer’s disease years in advance based on linguistics,"
     publishedDateTime: 2020-10-22T19:49:00Z

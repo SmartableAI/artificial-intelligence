@@ -75,6 +75,22 @@ related:
         width: 2540
         height: 1150
         isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ beta is here, and it looks scary as hell"
+    excerpt: "Or as Tesla warns in its introductory language, “it may do the wrong thing at the worse time.” Frankly, this looks terrifying — not because it seems erratic or malfunctioning, but because of the way it will inevitably be misused."
+    publishedDateTime: 2020-10-22T19:25:00Z
+    webUrl: "https://www.theverge.com/2020/10/22/21528508/tesla-full-self-driving-beta-first-reaction-video"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/22/21528508/tesla-full-self-driving-beta-first-reaction-video"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/22/21528508/tesla-full-self-driving-beta-first-reaction-video"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/lps3AfzXnhGB0O-UmvBBQix7uwA=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67673592/acastro_180524_1777_tesla_0002.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Tesla's Full Self-Driving Beta Is Here"
     excerpt: "While Tesla's (NASDAQ:TSLA) third-quarter earnings report may be the primary focus when it comes to the electric-car maker's stock this week, the company also quietly rolled out a beta release of its full self-driving mode to a small group of drivers -- a technology that could eventually morph into an incredibly valuable asset for Tesla."
     publishedDateTime: 2020-10-23T10:17:00Z
@@ -431,6 +447,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "GKW7fnnFqBqQoZHFgOU9T2gGe7mArzffZC/dyFixBY2FcjH1tv2taJnzc3aMor7dtxd/wJMQE0bBDRpQsLmD8Ml8oGEmX4+6JaD+Oh0X+61EXAg9YjggdU0hiRpWAhUDQD5sreADa+HaGVeB2lXoRsNnCIprw8KouKtAj2aciM0ScVbHl4lN3aSZTHIdHBsyF/pokpFL0P3y1S4yvaW1tCs/2EKW28KST8ONBBV9D5hQ86NipB0rfFx8IXNRsOe/ADabvhqilZ7mOrjS1FX1X17uWRgQsTr8sUXXlNPOhvFuNFnRItQuKFkEhHXh5e/1zayDAFY7s5DHfHc8VhUWdW9RTcLJcOCPvTm5DwlGlAE=;sV4ngh8T9O+BzybCbmnkCQ=="
+secured: "cGHgYMU6/LYhD8EK8FFGSN9VUfpCbgqeMT+xNnHB3VYWjJV/LDY/7zCRcJjnRtAF6d69wHMh1RM+wYgl8HY/0eVnQZEqcYVin47fIJQmo6XyJFopnu90FSz/fD+TOokECz8mHhVvVoci8Bci+Ua2D1QTAgYQCWu3A3kWFVRJPhERwyVVXsf4fyX3EFUVPlmQrCa5yNO8AnU9FxchbIkEveB2Rap9GYrwin26YxncqzrD00BZYFSS2r3wEOuu8PGXdEiFeY++r8QkNwmj2VPNe1UATxkDN0iJCUCJiFqMkTAfZgstozdpmO/AlJhWGg2z5E16GriHyH6rsP8wRC/Is6Ow0nbXVEHVphLUBlIjXnvdmriQkWCYZ0Q0EZMiDUNm9iYDZpMnpetVg9+pOLbJquju7HwJ1k4TyOyw/l5kVttvsS9uA7rKqj+c6Ka/RQCbOigrhuQziZRrLqxTMYnwvCeGx8xVVhUS1WvRzuKmiXfERN+nwIHIuNUOZVk9zOSa172BNKutQqbpxSVJRuDgZQ==;c625vov3P1bGx9PzP6pW7g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/franklinamoo/2020/10/19/artificial-inte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/franklinamoo/2020/10/19/artificial-intelligence-and-africa-the-case-for-investing-in-african-telecoms/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Aerial imaging and machine learning to counter banana disease threats in Africa"
+    excerpt: "New research shows how a combination of imagery from mobile phones, drones and satellites can be used to clamp down on threats to banana production. An early warning system can be set up"
+    publishedDateTime: 2020-10-23T11:35:00Z
+    webUrl: "https://www.freshplaza.com/article/9261602/aerial-imaging-and-machine-learning-to-counter-banana-disease-threats-in-africa/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 35
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/Stock_photos/Banana/Banana_0012_135.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Hl7/BhAC1TjI9Km+SPpqC/uuLP5xWHI7PHmSJnj1AeHhfIRPhzDtNgMCGL4Nqp4Hj6SzhQsAO1XhYP6CM5oilGJ90BSpcFpROwdURn666geVrnps/eVgkVu/oVIe/+cR2sDSqtm/LryFj75PfkI5a0PmWUDxvTue7Iy345lfdq/S3kaqBtV5ZQwo6ANex8BRV0mGLH5OktMjERCn0UwhZcwuunxDTPKwL4j68mcgm8xtTYgcg9+ZLp0qR927KfUg6a5eqZc/IsNU+x+s0rG0jcmkHlfzmcIUFkbBi2C2J3U0zZyVq+KuyS5NezKVJEErEw4YMW4kWPIuBj5mvPfAXxqN8CEccHHuGdXKE9W9hJThUchVs8J8O1epRW35X+S7z8/ORPId8xVq6ZmgExMBB2gpGyAMaE4r0lzlQWRITiJkgLp/L6QpFztPn9WeOAHXhE/RMCb+sBxt9v8pRp4vh2kQfzQJBBRshBBTEAcjqNfs2ZC495NwQzhBItXOFS4c/AsD00nJFUVnrFRgX5hlFA==;Sz8ybG+ssPkLGBwVuRa6lQ=="
 ---

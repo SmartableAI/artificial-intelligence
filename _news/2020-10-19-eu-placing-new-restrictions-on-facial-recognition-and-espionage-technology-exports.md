@@ -138,7 +138,7 @@ related:
   - title: "Activists Build Facial Recognition to ID Cops Who Hide Their Badges"
     excerpt: "In order to hold police accountable when they try to hide their identities, a growing number of activists are developing facial recognition tools that identify cops, The New York Times reports — a striking inversion of the way cops tend to use facial recognition on protestors and suspects."
     publishedDateTime: 2020-10-21T19:32:00Z
-    webUrl: "https://futurism.com/the-byte/activists-build-facial-recognition-id-cops-hide-badges"
+    webUrl: "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
     ampWebUrl: "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
     cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
     type: article
@@ -210,6 +210,20 @@ related:
       - url: "https://www.lettingagenttoday.co.uk/upload/PropTech-4-400x310.jpg"
         width: 400
         height: 310
+        isCached: true
+  - title: "CBSE now has a facial recognition tool and it's problematic"
+    excerpt: "Central Board of Secondary Education (CBSE) students will now be able to use a facial recognition system to download their academic documents for the tenth and twelfth grade. Essentially, students will be able to download their academic documents just by ..."
+    publishedDateTime: 2020-10-23T13:42:00Z
+    webUrl: "https://www.medianama.com/2020/10/223-cbse-facial-recognition/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.medianama.com/wp-content/uploads/18itl009_facial_recognition_graphic.jpg?fit=1400%2C616&#038;ssl=1"
+        width: 1400
+        height: 616
         isCached: true
 
 secured: "UafpsY0g2Qns9kkYjgvVyYKdozWXnDTApplhktgSdzXL1maDbSVTIZ2ZH4pIA9LhPyLQYzCXWaHsh2t8i/NTihYG0EIzI6gW9/Tx+ueymg4wx+lwwQAnsvk4AbTnu6g7groloZICnh5oBl6RzBHZHBxl8J0QIwWXDIbpD9N1gJw/TMKBbgmTf8hNqOew17t2sMteO+8gZx74NyLkPP//xZdl3zXaA3OeHQGA4R65KHOoxUuLQWXzyXspK5dwmDudhQQrxP7yr7BWS2P7uU1P5hk07C3zOFa0PZ18uiMRNCsVRqJevlDx8Y3oKrmN8kxPzsQPsw0WhGH1x33N4t+/Ie0RL7stQOJnACAhUPDRJdk=;QROgCOwtdSfNyRnR3f8TXQ=="

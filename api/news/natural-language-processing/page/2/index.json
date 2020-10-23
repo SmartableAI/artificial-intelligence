@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-02-lilt-to-provide-connectors-to-popular-translation-management-systems.md",
+      "title": "Lilt to provide connectors to popular translation management systems",
+      "excerpt": "Lilt, an AI-powered language service provider, announced that it now natively integrates with popular translation management systems (TMS) including SDL TMS, SDL Worldserver, XTM Cloud, and Smartling. These new connectors allow customers to streamline the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143169",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143169",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-make-every-voice-heard-with-natural-language-processing.md",
       "title": "Make every voice heard with natural language processing",
       "excerpt": "With natural language processing a machine can quickly and tirelessly sift through constantly growing volumes of data to identify key ideas and topics, uncover emerging trends, analyze sentiment ...",
@@ -1071,59 +1114,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-improved-ocr-and-structured-data-extraction-with-amazon-textract.md",
-      "title": "Improved OCR and structured data extraction with Amazon Textract",
-      "excerpt": "Optical character recognition (OCR) technology, which enables extracting text from an image, has been around since the mid-20th century, and continues to be a research topic today. OCR and document understanding are still vibrant areas of research because they’re both valuable and hard problems to solve.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improved-ocr-and-structured-data-extraction-with-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improved-ocr-and-structured-data-extraction-with-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T15:52:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-09-25-transforming-enterprises-through-robot-processing-automation.md",
       "title": "Transforming Enterprises Through Robot Processing Automation",
       "excerpt": "Robot Processing Automation (RPA) is the process of automating tasks which are repetitive and are performed by humans using software and hardware in a variety of applications. Unlike cognitive intelligence or deep learning,",
@@ -1166,232 +1156,7 @@
         "AI",
         "AI in Robotics"
       ]
-    },
-    {
-      "path": "_news/2020-09-23-mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live.md",
-      "title": "Mastercard’s VP of AI talks bots, NLP, and why fintechs need AI for customer service (VB Live)",
-      "excerpt": "Join this VB Live event for insights on why AI is essential for fintech companies, plus how to implement it, how to make it perfom, and more. Register here for free. AI has been around for a long ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/mastercard-in-control-mineraltree.jpg?w=1200&#038;strip=all",
-          "width": 993,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/amp/",
-      "publishedDateTime": "2020-09-23T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-the-next-big-breakthrough-in-ai-will-be-around-language.md",
-      "title": "The Next Big Breakthrough in AI Will Be Around Language",
-      "excerpt": "The 2020s are going to bring major advances in language-based AI tasks. GPT-3, a state-of-the-art natural language processing tool developed by OpenAI, will soon be able to produce short stories, songs,",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
-      "originalUrl": "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/09/Sep20_23_183428120-4.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
-      "publishedDateTime": "2020-09-23T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-microsoft-lands-exclusive-license-for-openais-astonishing-gpt-3-model.md",
-      "title": "Microsoft Lands Exclusive License for OpenAI's Astonishing GPT-3 Model",
-      "excerpt": "Microsoft is having a hell of a week. On Monday, the company announced a $7.5 billion deal to acquire Zenimax and all of its big video game properties. In one move, the Xbox platform’s future suddenly looked a lot brighter.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568",
-      "originalUrl": "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iigrcaogdqbygada6mxc.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568/amp",
-      "publishedDateTime": "2020-09-22T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-studies-in-natural-language-processing.md",
-      "title": "Studies in Natural Language Processing",
-      "excerpt": "Volumes in the Studies in Natural Language Processing series provide comprehensive surveys of current research topics and applications in the field of natural language processing (NLP) that shed light on language technology, language cognition, language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/series/studies-in-natural-language-processing/ED110EDEE55A3234E91D98348A3A271A",
-      "originalUrl": "https://www.cambridge.org/core/series/studies-in-natural-language-processing/ED110EDEE55A3234E91D98348A3A271A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-iit-madras-faculty-develop-ai-models-to-process-text-in-11-indian-regional-languages.md",
-      "title": "IIT Madras Faculty Develop AI Models to Process Text in 11 Indian Regional Languages",
-      "excerpt": "Indian Institute of Technology Madras Faculty has developed Artificial Intelligence Models and datasets to process texts in 11 Indian Regional Languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/",
-      "originalUrl": "https://www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.voicendata.com/wp-content/uploads/2020/09/AI-and-Machine-Learning-Models-in-Business.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/amp/",
-      "cdnAmpWebUrl": "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/amp/",
-      "publishedDateTime": "2020-09-22T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voicendata.com",
-        "domain": "voicendata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
     }
   ],
-  "nextPage": 3
+  "nextPage": null
 }
