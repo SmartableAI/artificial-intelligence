@@ -3,10 +3,10 @@ category: news
 title: "IBM is a step closer to developing accurate AI prediction model for Alzheimer's"
 excerpt: "In collaboration with Pfizer, Big Blue has developed an AI model using speech samples provided by the Framingham Heart Study."
 publishedDateTime: 2020-10-22T15:00:00Z
-originalUrl: "https://www.zdnet.com/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-webUrl: "https://www.zdnet.com/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
 type: article
 quality: 63
 heat: -1
@@ -88,6 +88,22 @@ related:
         width: 384
         height: 504
         isCached: true
+  - title: "New AI tool can predict future onset of Alzheimer's disease"
+    excerpt: "A new AI model is able to predict future onset of Alzheimer's disease around 7 years in advance of diagnosis using short speech tests, according to a new study published in The Lancet eClinicalMedicine."
+    publishedDateTime: 2020-10-23T09:34:00Z
+    webUrl: "https://www.axios.com/azheimers-disease-ai-51c0e478-344d-44e8-9f45-259be303090a.html"
+    ampWebUrl: "https://www.axios.com/azheimers-disease-ai-51c0e478-344d-44e8-9f45-259be303090a.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/azheimers-disease-ai-51c0e478-344d-44e8-9f45-259be303090a.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: "https://static.axios.com/img/axios-site/axios-placeholder-16x9.png"
+        width: 1182
+        height: 690
+        isCached: true
   - title: "USC leads massive new artificial intelligence study of Alzheimer's"
     excerpt: "Forty co-investigators at 11 research centers will team up to leverage artificial intelligence and machine learning to bolster precision diagnostics, prognosis and the development of new treatments for Alzheimer's disease."
     publishedDateTime: 2020-10-22T18:51:00Z
@@ -126,6 +142,6 @@ related:
       domain: seekingalpha.com
     quality: 9
 
-secured: "y3f7C3pXJ12HCvZDJLawAYC7dAuDU1BqvzARWZC1LjUF905QIOr7eNiPVj4IejjUbzKs17B55JGTQWK5EZKTGb5rpfdmn7d7wDln2CQp8Ef624c0ZJnQ2VBABgnghyva5gGZ50+6mHC8wBRJIZ+nzkc5LQzklP0uIYgTg4C0g0mh/sFIz337ctuVzR3LZKvB4dEnLitowVFnwrh6f2D5ov5txrZKphWAcqGMuwP8NIcRZOJ+iPZvLXmScOin22YHHXP+72F44VWb4H7dboOi8dEq+TJXR5AOqvmZT3KBSRahzuLkEFgll/liMR1M6T+xnTdqfhka7fZaxdtVzS0sv0XJ6UzWD4sF0UiuZ7v3EraN6SpI0KTmivJkq7xDCHl5ha0kz2ioVdH2wL3FKdieMzRHHKEcdLtCjwC61bdRPkNWxaYC+Ci9WKSQgAaL+CJB7ttIO2jJJi+lh1U/JV7oNcmjrJ2E3Xnez0whBiVivYcP1gp07oBZ1u97zRkzjxvBWLCezAeglfWAAmm2SPdcBg==;Wma8c2wWYIl0CLREgKzs+Q=="
+secured: "2ERanGqujx1AMSFIh4nZgdiLdabzoYOF+LR5Qe2q/geu0qf/V9v1nGU//kviSzrRnarHSR8Fl/O3KJQVCgWPOXL6UrWfQnVNimnwTCJWoO3R682imNKrvfgUwFsGis9ly3eZYGt0RkUve4VdAiiTAAfUe8rD1CwJLd0JTLJR/vEWQvxwqMTDTW0vk6H2noA7FuaNd/16HeexnCjGL8VtcpQOUDTI2nrrxGQYuZXxf5YPIAIqlCtgXyrq3S1ddjWrZKOQAXlMElloiuhyOUAJRmMOfbJEeQde5kxrtPisieKN7Pp2AxOsWXmFxRi6QeuuZ7tn6G/nTyR5sGIbCJv/hYOOYgArXIxj7tIvFAzEcAwgDXmxZ8D9adjfx5RU+DaaWTbFdWyR2cXbO3SidNLwdXkin//FLgBRxqOItIZ8PZMhSG5qXnfxAqtff/qc9i5n4H2oTp0tat3JSVnfoA+vm/lktLdIr1/quztOAmwH24FlRcgbn5Ul4cUcMEYj99lIp7oaFBZfQMXKNtBjYXnYEg==;/FCzo+Ep3Xd/63fztKCCmQ=="
 ---
 

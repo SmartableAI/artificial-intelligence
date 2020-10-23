@@ -76,9 +76,9 @@ related:
   - title: "IBM is a step closer to developing accurate AI prediction model for Alzheimer's"
     excerpt: "In collaboration with Pfizer, Big Blue has developed an AI model using speech samples provided by the Framingham Heart Study."
     publishedDateTime: 2020-10-22T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
     type: article
     provider:
       name: ZDNet
@@ -99,6 +99,22 @@ related:
       - url: "https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-09.png?itok=8uWeigq4"
         width: 384
         height: 504
+        isCached: true
+  - title: "New AI tool can predict future onset of Alzheimer's disease"
+    excerpt: "A new AI model is able to predict future onset of Alzheimer's disease around 7 years in advance of diagnosis using short speech tests, according to a new study published in The Lancet eClinicalMedicine."
+    publishedDateTime: 2020-10-23T09:34:00Z
+    webUrl: "https://www.axios.com/azheimers-disease-ai-51c0e478-344d-44e8-9f45-259be303090a.html"
+    ampWebUrl: "https://www.axios.com/azheimers-disease-ai-51c0e478-344d-44e8-9f45-259be303090a.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/azheimers-disease-ai-51c0e478-344d-44e8-9f45-259be303090a.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: "https://static.axios.com/img/axios-site/axios-placeholder-16x9.png"
+        width: 1182
+        height: 690
         isCached: true
   - title: "AI Assesses Alzheimer’s Risk by Analyzing Word Usage"
     excerpt: "Artificial intelligence could soon help screen for Alzheimer’s disease by analyzing writing. A team from IBM and Pfizer says it has trained AI models to spot early signs of the notoriously stealthy illness by looking at linguistic patterns in word usage."

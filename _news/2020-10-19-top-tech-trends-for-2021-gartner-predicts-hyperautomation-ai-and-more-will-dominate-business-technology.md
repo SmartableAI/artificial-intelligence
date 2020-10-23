@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/top-tech-trends-for-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/"
 type: article
 quality: 70
-heat: 100
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -30,41 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Forrester: AI and automation will help organizations rethink the future of work"
-    excerpt: "Other predictions Forrester is making in AI and automation in 2021: No-code automated machine learning (AutoML) will be used to implement more use cases. AutoML can dramatically accelerate ML model development versus the traditional coding approach."
-    publishedDateTime: 2020-10-22T20:17:00Z
-    webUrl: "https://www.techrepublic.com/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
+  - title: "Predictions 2021: The Time Is Now For AI To Shine"
+    excerpt: "AI is transformational. AI is exciting. AI is mysterious. AI is scary. AI is omnipresent. We’ve heard this oscillating narrative over the last few years (and will continue to in the future), but in this unprecedented year,"
+    publishedDateTime: 2020-10-23T09:04:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2020/10/23/predictions-2021-the-time-is-now-for-ai-to-shine/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2020/10/23/predictions-2021-the-time-is-now-for-ai-to-shine/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2020/10/23/predictions-2021-the-time-is-now-for-ai-to-shine/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 65
-  - title: "Gartner sees 'internet of behaviors,' automation, AI, experiences key 2021 technologies"
-    excerpt: "Rest assured that Gartner has its share of buzzwords in its 2021 trends listing, but the technologies in whole tell a story. Here's a look at the trends and some color commentary."
-    publishedDateTime: 2020-10-19T16:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 59
-  - title: "AI.Reverie Named a Cool Vendor in AI Core Technologies by Gartner"
-    excerpt: "AI.Reverie, the leader in synthetic data for improved artificial intelligence, today announced that it has been named by Gartner as a Cool Vendor in AI Core Technologies. Gartner’s Cool Vendor research is designed to recognize interesting,"
-    publishedDateTime: 2020-10-20T12:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-ca4e79d27da9464d8a07b34ed61d9572"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9297ba041a7872ff9ba2a3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D311%26cropY2%3D3686"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "pKTZ7W/0UnzVwlUj7IumPEuUmuC6cKX7wWNL48+8yAi2ipqha6GuHPfy3ftAM+8Jyhv9hNZwpyfxmpttnwpXBX4l6rOrWRvSZLfV7HbKGyl5V/REsr5xoB0aLoDOh9XxzkAy8mu/eopdCaznfHsPLzHMrDU4XLHbHo263WIbZ0vXQYGS1Jv3wdD7MqTBdWoLkkFE2QPHcbuVeBWCAEB642qarnpFj85iLQjPpapk++gaYqjHfzjZbZtoAk/fMfQYDjDGaqkj1qnCdTE7C1+lfB1e9R6NnWusJI25tkfhOGGDrQO2Dnd1ZpfVGtVBBHTzbd/kM6anB+FvOWl6SwGjXiBMX9g319PRKsSbD99R0iqIslnc6u5EEIJZuK69SASqP+LtURDyb2rFWiy1jqkklhwOOpeojo2b5BA72PJIHcwrvh2oQHj7pro5TvWRZzyu/fUdN2aMr6YVaDE87jY4KtsyaAPyGd0HmoR6AFVD8qAlblFETcAk2sTmUvma9u2umaznm6L1Q6jtbnCbKFQQzA==;r/VG5Y/vPvjSZqTkoj3BxQ=="

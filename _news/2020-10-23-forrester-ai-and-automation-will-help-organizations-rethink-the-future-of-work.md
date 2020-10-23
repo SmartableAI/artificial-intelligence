@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/forrester-ai-and-aut
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
 type: article
 quality: 65
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -23,49 +23,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Top tech trends for 2021: Gartner predicts hyperautomation, AI and more will dominate business technology"
-    excerpt: "This trend involves providing engineering discipline to an organization because only 53% of projects make it from artificial intelligence (AI) prototypes to production, according to Gartner research. \"AI engineering is about providing the sort of ..."
-    publishedDateTime: 2020-10-19T16:32:00Z
-    webUrl: "https://www.techrepublic.com/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 70
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/10/19/1cc9f88c-556c-48ee-9d3b-df756c54289d/resize/1200x/ddd76591ebe9c1bc99fa5377a8025f1e/ai-computer-chip.jpg"
-        width: 1200
-        height: 894
-        isCached: true
-  - title: "Gartner sees 'internet of behaviors,' automation, AI, experiences key 2021 technologies"
-    excerpt: "Rest assured that Gartner has its share of buzzwords in its 2021 trends listing, but the technologies in whole tell a story. Here's a look at the trends and some color commentary."
-    publishedDateTime: 2020-10-19T16:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 59
-  - title: "AI.Reverie Named a Cool Vendor in AI Core Technologies by Gartner"
-    excerpt: "AI.Reverie, the leader in synthetic data for improved artificial intelligence, today announced that it has been named by Gartner as a Cool Vendor in AI Core Technologies. Gartner’s Cool Vendor research is designed to recognize interesting,"
-    publishedDateTime: 2020-10-20T12:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-ca4e79d27da9464d8a07b34ed61d9572"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "HWTCB0ASiV/giLhCVQKJfoj64tfwbpp8DR1xCEPraoHXURkiCyw4pUSkjmR528ekA8CYzm+yBEmXP12Q96u9VzdKxauni4eJkbZchNxRloTKncC4+PDDadxfq9feNgK7a25KGKfgCGEFekosGnnV+S+yawny0byNHrg9C58DnShnQbViHLHXYJJ1BqYMCAUuxhIlJFvMZUPKfUL5fu+bnURHGy80aCgocWtGPJxg4cgzvQNjZnc+AV3HxENA1xaNiGLyvGNbvDsfX8twWaFsH+bQ394URGvCd7IgpF51Ycu10uwi7n5R+kKIWaeu4DOVLicQZ4PhlYyJNGVCMH7s8/ZBeOB2mJcox0HToWmhJ8o1V7TmikLhLMszsvIVk+za+QalVpb31MSFoCiw2vOohEfIZSSXC3ILvRfoP6fyMyB9+w2t8u8hCyhMnTCnaQcxjdTl2kDdUuhLQyVYUvXuIIA0XTcWng8jwiV/D56pBsZv4gDq1VYXIlbQ/HQV7Dlk0UgyMQ4xU7u5JbLMRu2O8A==;PLryFg9Tqt+KRWbMeQSjmA=="
 ---

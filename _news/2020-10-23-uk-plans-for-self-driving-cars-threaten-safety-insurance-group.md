@@ -1,12 +1,12 @@
 ---
 category: news
-title: "UK plans for self-driving cars threaten safety: insurance group"
+title: "UK plans for self-driving cars threaten safety - insurance group"
 excerpt: "British government plans that could allow self-driving cars on motorways as soon as 2021 would put lives at risk because the available automated technology falls well short of human driving capabilities,"
-publishedDateTime: 2020-10-22T23:19:00Z
-originalUrl: "https://www.reuters.com/article/autos-selfdriving-safety/uk-plans-for-self-driving-cars-threaten-safety-insurance-group-idUSL8N2HD728"
-webUrl: "https://www.reuters.com/article/autos-selfdriving-safety/uk-plans-for-self-driving-cars-threaten-safety-insurance-group-idUSL8N2HD728"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN277386"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN277386"
+publishedDateTime: 2020-10-22T23:22:00Z
+originalUrl: "https://www.reuters.com/article/uk-autos-selfdriving-safety-idUKKBN27738O"
+webUrl: "https://www.reuters.com/article/uk-autos-selfdriving-safety-idUKKBN27738O"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27738O"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27738O"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "ucWxGfdTQbdvHFqGP0agoBFz3uavreIhbQanXDB2K0rv2MpnvtReGeOP5dvWMEWmN6EZOwxKju7/lVtA4lUcsHp/oH/2cP6MQe3po3l5nb149awYDrNvjGuTnxJMh7DWgIDtVqeCaa666bz5DQ6EM8qKPlTAVg6v5PpDt9iNWxLuMWDwu6shn4VGGlFoDPS727PACZVJqBVbNKOpNcUPMJrj7kfh0dj8sVhKjOEKSbEmAi6pmSDyoc+6njxROoA6ibL+P0gD6g+lqviMhLgXEVpVLObOaMYqgC3R3vck1CB42T0VNKpcHLTlLEjqRj7996fouNY0LaHJS0E2ubb3U5nWrzMCQAZ/qFdGnUSLv98=;deLJVfR15QSn/Sfw0tKTwA=="
+secured: "vB9UWYGL3B31PrSzWwQJ7gE6nMsAi6XhqYpSAcnzaOsVNMeTghPBYfkQQl/2JI6XS6jKbzPOw5GCyKFnK2VxRjZVluSnVAHxb/3mFGzljMWCcycgQYD1LB3QlN/3M0zaiZMoDxCzxeVY9rwcPoQuY94PhAsvCK4NCWZAPisVEBdE00fmYl3B+bduWqVk9DN/jQBC2P8CsHUiLSv+KgVGity/lrYWgN38CKl0h3fcnxm39AQvbp46dl2LZFa1BVds2sdZkl21kgw9NG0ukkj1OIhC9rVXRaR+QH7IVcJ3/tQXHqgvvUTXSUvbwrIFjZnVXnV8oh4wIdQtVngE4kutWKJWQ/1781OdKGAoCIiIyl4=;0rW0s+U/iqsfdiYCrTFt3Q=="
 ---
 

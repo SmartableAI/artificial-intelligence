@@ -244,6 +244,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Watch Tesla's Beta of \"Feature Complete Full Self-Driving\""
+    excerpt: "See the included video to watch the beta in action as customer vehicles autonomously navigate through left-hand turns, roundabouts, and more. Although Tesla has said the user interface will be updated as the rewrite is finalized,"
+    publishedDateTime: 2020-10-22T23:54:00Z
+    webUrl: "https://www.thestreet.com/tesla/news/watch-teslas-beta-of-feature-complete-full-self-driving"
+    ampWebUrl: "https://www.thestreet.com/.amp-tesladaily/tesla/news/watch-teslas-beta-of-feature-complete-full-self-driving"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-tesladaily/tesla/news/watch-teslas-beta-of-feature-complete-full-self-driving"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/KqphWFSF-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Tesla launches ‘Full Self Driving’ beta to select drivers"
     excerpt: "The Early Access Programme serves as testing platform to help fix software bugs Tesla CEO Elon Musk has revealed the company has started rolling out its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers."
     publishedDateTime: 2020-10-22T07:43:00Z

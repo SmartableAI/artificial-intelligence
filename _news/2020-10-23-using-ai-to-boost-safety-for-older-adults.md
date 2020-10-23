@@ -24,18 +24,18 @@ images:
     isCached: true
 
 related:
-  - title: "Regions using AI to make most of customer feedback"
-    excerpt: "Over the past year, the Alabama bank has been developing new tools that analyze survey responses, phone interactions and social media posts to identify opportunities to improve digital offerings."
-    publishedDateTime: 2020-10-19T01:00:00Z
-    webUrl: "https://www.americanbanker.com/news/regions-using-ai-to-make-most-of-customer-feedback"
+  - title: "Adobe tries using AI to fix blurry video footage"
+    excerpt: "The company showed off Sharp Shot at its Adobe Max conference. One thing to keep in mind is we may not see Sharp Shots ever make its way to an Adobe product. It’s also worth pointing out we’ve seen other companies promise a lot with AI and then not deliver."
+    publishedDateTime: 2020-10-23T08:07:00Z
+    webUrl: "https://www.engadget.com/adobe-sharp-shot-213047501.html"
     type: article
     provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 37
+      name: Engadget
+      domain: engadget.com
+    quality: 67
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/94d9b1f/2147483647/strip/true/crop/1400x735+0+31/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F36%2F9d%2F9f394a2240a4a19ca4b7c645ea23%2Fandy-h.%20at%20the%20ROC.jpg"
-        width: 1200
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F6ee2e6c0-13e3-11eb-bfef-01b418c39580&client=amp-blogside-v2&signature=1bcc9afc40bdcaa8d84d63f01f0b999ca0fa0254"
+        width: 945
         height: 630
         isCached: true
 

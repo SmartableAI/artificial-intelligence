@@ -238,6 +238,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Watch Tesla's Beta of \"Feature Complete Full Self-Driving\""
+    excerpt: "See the included video to watch the beta in action as customer vehicles autonomously navigate through left-hand turns, roundabouts, and more. Although Tesla has said the user interface will be updated as the rewrite is finalized,"
+    publishedDateTime: 2020-10-22T23:54:00Z
+    webUrl: "https://www.thestreet.com/tesla/news/watch-teslas-beta-of-feature-complete-full-self-driving"
+    ampWebUrl: "https://www.thestreet.com/.amp-tesladaily/tesla/news/watch-teslas-beta-of-feature-complete-full-self-driving"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-tesladaily/tesla/news/watch-teslas-beta-of-feature-complete-full-self-driving"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/KqphWFSF-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves | Charlotte Observer"
     excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
     publishedDateTime: 2020-10-22T23:16:00Z

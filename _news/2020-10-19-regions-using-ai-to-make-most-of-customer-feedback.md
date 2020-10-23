@@ -23,22 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Using AI to boost safety for older adults"
-    excerpt: "Assisted Living facility incorporates predictive analysis to mitigate risks for falls and other health conditions, including COVID-19. Enter your user name and password in the fields above to gain ..."
-    publishedDateTime: 2020-10-22T20:10:00Z
-    webUrl: "https://libn.com/2020/10/22/using-ai-to-boost-safety-for-older-adults/"
-    type: article
-    provider:
-      name: Long Island Business News
-      domain: libn.com
-    quality: 37
-    images:
-      - url: "https://libn.com/files/2020/10/The-Bristal-at-Lake-Success-1024x819.jpg"
-        width: 1024
-        height: 819
-        isCached: true
-
 secured: "TLNBTEDrdxVx0ACReS6cCbuAMVvZ7Mvv1SaKjWjUV4XumKuMPwP+655Pvb8ZJ09SkSXx5jwOE6GasDu9g5681hwQFX7CC1mR8F1v8nxqlx4WDHIlXCMOoYdqUV9ISbQ06+Y0wMKUcv7sK/JxJ/6RNN4FkGDiJTT2gXuUREJ1ZQ6wwCtVoGe4A3A32hImCSOjTAOkJsG/VOe7bTfJOFbRg/x3+WhqJ98a5yeWOg+zfV3K+HcQtvnjGwsTbwEthPAJLC1N3PWW2agnbl32zLIU19d1qwfGv6QAv2BEKc32VCSnnnJwbbq9IYwl1vUXWgijH2M8M+x9EkvjWinCzeuP1mi5ozBvSUgFOs/fUQngdQc=;WD1xOpdQOc2h0flGzRRR1Q=="
 ---
 

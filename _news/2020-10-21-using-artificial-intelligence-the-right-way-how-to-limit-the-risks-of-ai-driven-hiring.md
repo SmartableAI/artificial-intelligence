@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Artificial Intelligence is Transforming the Insurance Space"
+    excerpt: "When it comes to digitization, the insurance space hasn’t particularly been at the forefront of leading in technological innovation. And it’s only fair as a colossal amount of regulations combined with thousands of users’ sensitive information makes the insurance industry cautious in adopting new technologies."
+    publishedDateTime: 2020-10-23T05:33:00Z
+    webUrl: "https://customerthink.com/how-artificial-intelligence-is-transforming-the-insurance-space/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 41
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
+        width: 3608
+        height: 2336
+        isCached: true
   - title: "Harnessing AI to ease the stress of managing autism"
     excerpt: "The protocols for the clinical trials had to be altered after covid, as hospital committees had to approve digital collection of video data remotely"
     publishedDateTime: 2020-10-18T17:30:00Z
@@ -110,20 +124,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Festival_AIM.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "How Artificial Intelligence is Transforming the Insurance Space"
-    excerpt: "When it comes to digitization, the insurance space hasn’t particularly been at the forefront of leading in technological innovation. And it’s only fair as a colossal amount of regulations combined with thousands of users’ sensitive information makes the insurance industry cautious in adopting new technologies."
-    publishedDateTime: 2020-10-23T05:33:00Z
-    webUrl: "https://customerthink.com/how-artificial-intelligence-is-transforming-the-insurance-space/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 39
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
-        width: 3608
-        height: 2336
         isCached: true
   - title: "Startup Circle: How is KiksAR using AI to change the fashion industry?"
     excerpt: "KiksAR founder Ms Kavita Jha is erudite with a strong academic background. She has completed her MBA from Pune University. Kavita holds deep domain experience of 15+ years. Prior to"

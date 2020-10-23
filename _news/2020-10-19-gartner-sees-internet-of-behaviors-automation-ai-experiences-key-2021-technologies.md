@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -24,33 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Top tech trends for 2021: Gartner predicts hyperautomation, AI and more will dominate business technology"
-    excerpt: "This trend involves providing engineering discipline to an organization because only 53% of projects make it from artificial intelligence (AI) prototypes to production, according to Gartner research. \"AI engineering is about providing the sort of ..."
-    publishedDateTime: 2020-10-19T16:32:00Z
-    webUrl: "https://www.techrepublic.com/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 70
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/10/19/1cc9f88c-556c-48ee-9d3b-df756c54289d/resize/1200x/ddd76591ebe9c1bc99fa5377a8025f1e/ai-computer-chip.jpg"
-        width: 1200
-        height: 894
-        isCached: true
-  - title: "Forrester: AI and automation will help organizations rethink the future of work"
-    excerpt: "Other predictions Forrester is making in AI and automation in 2021: No-code automated machine learning (AutoML) will be used to implement more use cases. AutoML can dramatically accelerate ML model development versus the traditional coding approach."
-    publishedDateTime: 2020-10-22T20:17:00Z
-    webUrl: "https://www.techrepublic.com/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/forrester-ai-and-automation-will-help-organizations-rethink-the-future-of-work/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 65
   - title: "AI.Reverie Named a Cool Vendor in AI Core Technologies by Gartner"
     excerpt: "AI.Reverie, the leader in synthetic data for improved artificial intelligence, today announced that it has been named by Gartner as a Cool Vendor in AI Core Technologies. Gartner’s Cool Vendor research is designed to recognize interesting,"
     publishedDateTime: 2020-10-20T12:00:00Z

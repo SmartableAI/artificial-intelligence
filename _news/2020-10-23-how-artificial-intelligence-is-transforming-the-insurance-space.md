@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-23T05:33:00Z
 originalUrl: "https://customerthink.com/how-artificial-intelligence-is-transforming-the-insurance-space/"
 webUrl: "https://customerthink.com/how-artificial-intelligence-is-transforming-the-insurance-space/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
