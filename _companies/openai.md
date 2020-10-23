@@ -2,7 +2,7 @@
 name: "OpenAI"
 overview: "OpenAI is an AI research lab, discovering and enacting the path to safe artificial general intelligence."
 type: "profile"
-heat: 320
+heat: 319
 
 website: https://openai.com/
 
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "OpenAI"
 
-secured: "1SzfOiVYra7EylpCr9+PYtfRRybhOM5guVnoX3x3F87xbfGrfCU8KDq/wGNn7G5z9gCo8tqqvoy3vYnFO9DKLnElkpPXc/HSPu/to+ztWpZo3d6wV0gk4kYqFlD2zK/ujuEZ4nyM+4ktN1SyNTzw6/QxqMgkSLymdL5WbtlMnl3FbnHOGeWg7NTuRYuwBlHPZn+XnZJ/igjH4bazvNUDEHmaWD3HULr5Zi9YhKvk5c+Q9wbVJz1zVGBqmkYuX/e2s1xMCDoW6aGggNlCr83E+iTqbz6nptzgWWuAJDovPJCBKsfyzzfbMmejxr1W7DFW5S4HdQmEfOOlqMdhU/hsHip5F5DCVx1ydch3ZADLYzJ8YGJAeyolIqQIEAm+ge2n+DpXWedFQBV2dQO3s1Vp7wHuXWTarnq6h0jPrtaZkdA=;9IuKNB5d8osQM85KHoOi8A=="
+secured: "6zyHIdNqKo0E2tmk/FBxHy2L1jQX+INrjMMxVtdJjFkNiWq1XXmgVKjy9rVlO+uLqQ4qtRmYNwHBOQ/kV2dZzEane8Xe2r/3yEK/rjWDKvP73YHwoi3SoMWYpiMwhGKiyHJgSpLNgMWu+TCbEOsEbv7ZzgPL/Uf9rPJy/Gfbs3+GyWqxzaOhYJl6LhrJFoQr3zRTi4IV29WgHkXUgI9t/Ib7J/eP5PA0P3vIecP7/ZikLL56ac7UfYUsHEoepbOzxVTa8yzClIahCZJnaGJ6cVYvaK6iSHROVr2XCDmic1UvGdMMnCN2aTfuKg7b9Hsw/3H76MaObhkZnn/CTpSgMf0WSvZZ6XW8++NU9S8vKkhIEU6MOWyEFhyNi6r0XLhPQHHdPuCLOa9RbEqQ+ccYBi5PuyvwpXXcMHa1n5lGCSs=;osKq9egasvhI3UFUnEXjxQ=="
 ---
 
