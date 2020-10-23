@@ -79,6 +79,22 @@ related:
         width: 2540
         height: 1150
         isCached: true
+  - title: "Tesla's Full Self-Driving Beta Is Here"
+    excerpt: "While Tesla's (NASDAQ:TSLA) third-quarter earnings report may be the primary focus when it comes to the electric-car maker's stock this week, the company also quietly rolled out a beta release of its full self-driving mode to a small group of drivers -- a technology that could eventually morph into an incredibly valuable asset for Tesla."
+    publishedDateTime: 2020-10-23T10:17:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596184%2Ftesla-full-self-driving-mode.png&w=1200&op=resize"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of"
     excerpt: "For the lucky few selected to experience \"Full Self-Driving\" or (FSD) on their Tesla vehicle, Tuesday night is the night. Tesla CEO Elon Musk tweeted Tuesday afternoon that the autonomous mode ..."
     publishedDateTime: 2020-10-20T23:25:00Z
@@ -307,6 +323,22 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-beta-rollout-starts-is-slow-cautious-as-it-should-150422-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "Tesla’s Full Self-Driving Update: Select Customers Tried It Out And The Reviews Are Mixed"
+    excerpt: "When Tesla says 'self-driving', it does not mean autonomous, and the car still needs constant driver supervision."
+    publishedDateTime: 2020-10-23T10:57:00Z
+    webUrl: "https://www.ibtimes.com/teslas-full-self-driving-update-select-customers-tried-it-out-reviews-are-mixed-3067968"
+    ampWebUrl: "https://www.ibtimes.com/teslas-full-self-driving-update-select-customers-tried-it-out-reviews-are-mixed-3067968?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/teslas-full-self-driving-update-select-customers-tried-it-out-reviews-are-mixed-3067968?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 50
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/one-analyst-says-tesla-does-not-need-a.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Tesla is putting ‘self-driving’ in the hands of drivers amid criticism the tech is not ready"
     excerpt: "Driving” despite skepticism among some safety advocates about whether Tesla’s technology is ready — and whether the rest of the world is ready for cars that drive themselves."

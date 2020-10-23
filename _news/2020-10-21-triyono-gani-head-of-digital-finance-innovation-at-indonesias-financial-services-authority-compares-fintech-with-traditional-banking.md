@@ -43,22 +43,6 @@ related:
         width: 600
         height: 558
         isCached: true
-  - title: "Why Fintech Research Sites are Important for Investors"
-    excerpt: "Fintech is a blend of two terms as Financial Technology is often used to identify emerging innovations that are intended to enhance and simplify the provision and the use of financial institutions. ​​​At its heart,"
-    publishedDateTime: 2020-10-21T11:55:00Z
-    webUrl: "https://techbullion.com/why-fintech-research-sites-are-important-for-investors/"
-    ampWebUrl: "https://techbullion.com/why-fintech-research-sites-are-important-for-investors/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-fintech-research-sites-are-important-for-investors/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2020/10/Fintech-Research-Sites.jpg"
-        width: 626
-        height: 540
-        isCached: true
   - title: "Fintech and Automated Loss Mitigation Provider, Constant, Recipient of 2020 AI TechAward"
     excerpt: "Fintech and automated loss mitigation provider Constant is pleased to announce it is the recipient of a 2020 AI TechAward. The annual AI"
     publishedDateTime: 2020-10-20T13:00:00Z
@@ -129,15 +113,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "CBB launches fintech platform"
-    excerpt: "test and deploy fintech solutions. Through an AI-powered global fintech marketplace, FinHub 973 will aim to connect financial institutions in Bahrain and the region to fintechs from around the world. The digital lab will also offer matchmaking and ..."
-    publishedDateTime: 2020-10-20T14:29:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDjN0GmMKpFp%2bEXmGE4YiLTA%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 4
 
 secured: "k0WSLQp2+OsnBwaYzY6gRkEGjxHEl2VAdSosbgupqM2utpYQvF8gda/J3mSCq+A6T1+gZg0rr04dMdfmXT6+Wv9UVPwxE3KrrYY0e+IXk3mb5phF9jUhAB3nYdbCP+f0EbjPEacXHDxXXTsr66GjNgUFOF1N2qn+QvMDZ3DekMuj5CJsiL1FPPZrzUtisFQmFopvxg44yqrVb0Pn95OTk8Oc9kq8Y9XY6F3nVbx4o1iXLJ0mzpRFyi5PIc/0CIgMzGIPRE/tT8LX4UEStLmFNZrvlgBeJIq6PGCrccxDQDax3bzBKYnPj87zHHI01XNneUJYwBngQIG46DJO1g08sqiHH4lAUdv0hNl73b7ISTo=;KXlvyXwxvOe/Sj7XmtsTiQ=="
 ---

@@ -24,35 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Victor AI: Terminus AI CITY is remaking the concept of \"city\""
-    excerpt: "Victor AI, founder and CEO of Terminus Group, has been invited to Tencent Global Digital Ecology Conference and delivered a speech on AI CITY. In Victor"
-    publishedDateTime: 2020-10-20T00:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17968176/victor-ai-terminus-ai-city-is-remaking-the-concept-of-city"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17968176"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17968176"
+  - title: "How AI Solutions Can Help Contact Centers Succeed In The Pandemic Economy"
+    excerpt: "Even before the pandemic struck, companies were gradually incorporating artificial intelligence (AI) into their customer service infrastructures. Research firm Gartner predicts that \"by 2022, 70% of customer interactions will involve emerging technologies such as machine learning (ML) applications,"
+    publishedDateTime: 2020-10-23T11:13:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://www.getnews.info/uploads/bf4436f894ec7d24068e21bb45017e62.jpg"
-        width: 600
-        height: 388
-        isCached: true
-  - title: "Victor AI, founder and CEO of Terminus Group: How do megacities evolve?"
-    excerpt: "Recently, Victor AI, founder and CEO of Terminus Group, was invited to Tencent Global Digital Ecology Conference and delivered a speech on AI CITY. In Victor AI’s opinion, the AI CITY should be understood as an advanced stage of the digital and intelligent transformation of cities in the future,"
-    publishedDateTime: 2020-10-19T06:29:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-cfa88f61acc5c888efdacabe5428e1d8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9186135089187e66ee790c%2F0x0.jpg"
+        width: 1199
+        height: 800
         isCached: true
 
 secured: "kLwEWBaWFUtodNVEWLLXta1LLS2EBePw+gPpIq8AokFkNSPBhNnKpz5SM6GFsjdSxhD8eO8HVCNcbIah6Bj2XiWpHPNonKSEW0wONjRj1ZN8+9SgV/PIShvqPlOi7jlEynWd8tkCRAbAMkvt/qRrzdhyq/WfaRztQ78mxDPozQYGpcHFuf3LLqOmbonnmmn7GyKa3EraiTSIboz/RPMU7FoW9zpr6Sx0QmpkAOnxzpJ58QdQRpDqy5jqgFxw0nG3orLAnd/qlksDlxRvtFKQPKnCELmk5ej7e/QRXCbyPYUS2BJGaiUjl0E6lvt0BA226na4/a0Gaqqkoh/CkYor493e6a17JQ/c+0rPAbboZv2NxCI6Bug5LRfGaPJ7jMIUahLQzStzEcem28UJjguLHb4fMrArTGD09stCHAnYwIDEZrWq7fEOK34gTYkdDEvOTCZplFfa5xpeIzBVdr896C/961Zbxkvn0QMIiOET4xERSq0FoTJ7aOXYIff4aJfXFvgSJtPHUKvcelsPc4BUSQ==;+hKCqkK/Xws5gsXbV18RvA=="

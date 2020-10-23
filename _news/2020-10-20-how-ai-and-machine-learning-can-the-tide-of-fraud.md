@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 791
         isCached: true
+  - title: "From Ship To Shore: How AI Will Transform The Container Shipping Industry"
+    excerpt: "Terminal and independent operators should look to integrate new technology to help maximize port operational efficiency and chassis management."
+    publishedDateTime: 2020-10-23T11:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f918a3f539e033292ee790a%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Silicon Valley Is Getting Into the Hearing Aid Business With These Impressive AI-Driven Earpieces"
     excerpt: "This week, the startup Whisper launched its new flagship product, the Whisper Hearing System. The Whisper Hearing System uses artificial intelligence to process sound in real-time and optimize it for the user’s surroundings."
     publishedDateTime: 2020-10-18T21:46:00Z
@@ -101,17 +117,6 @@ related:
         width: 3608
         height: 2336
         isCached: true
-  - title: "Harnessing AI to ease the stress of managing autism"
-    excerpt: "The protocols for the clinical trials had to be altered after covid, as hospital committees had to approve digital collection of video data remotely"
-    publishedDateTime: 2020-10-18T17:30:00Z
-    webUrl: "https://www.livemint.com/news/business-of-life/harnessing-ai-to-ease-the-stress-of-managing-autism-11603040643437.html"
-    ampWebUrl: "https://www.livemint.com/news/business-of-life/harnessing-ai-to-ease-the-stress-of-managing-autism/amp-11603040643437.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/business-of-life/harnessing-ai-to-ease-the-stress-of-managing-autism/amp-11603040643437.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 39
   - title: "How AI Is Being Used By Companies During the Festive Season"
     excerpt: "Naturally, ‘festival season’ is also the time when companies look at stepping up their businesses. Given the scenario, more companies and industries are investing in AI and related technologies to drive more profits."
     publishedDateTime: 2020-10-21T07:32:00Z

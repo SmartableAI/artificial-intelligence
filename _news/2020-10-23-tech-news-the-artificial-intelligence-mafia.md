@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-23T05:44:00Z
 originalUrl: "https://www.iol.co.za/business-report/opinion/tech-news-the-artificial-intelligence-mafia-0b046ea0-6811-417c-bfb4-b4e0efa31667"
 webUrl: "https://www.iol.co.za/business-report/opinion/tech-news-the-artificial-intelligence-mafia-0b046ea0-6811-417c-bfb4-b4e0efa31667"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - AI in Healthcare
+  - Google AI
 
 images:
   - url: "https://image-prod.iol.co.za/resize/1920x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/1f4502b8-83c8-5481-a2aa-26fd63f3ca4f&operation=CROP&offset=391x0&resize=1138x640&webp=false"

@@ -41,22 +41,6 @@ related:
         width: 600
         height: 558
         isCached: true
-  - title: "Why Fintech Research Sites are Important for Investors"
-    excerpt: "Fintech is a blend of two terms as Financial Technology is often used to identify emerging innovations that are intended to enhance and simplify the provision and the use of financial institutions. ​​​At its heart,"
-    publishedDateTime: 2020-10-21T11:55:00Z
-    webUrl: "https://techbullion.com/why-fintech-research-sites-are-important-for-investors/"
-    ampWebUrl: "https://techbullion.com/why-fintech-research-sites-are-important-for-investors/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-fintech-research-sites-are-important-for-investors/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2020/10/Fintech-Research-Sites.jpg"
-        width: 626
-        height: 540
-        isCached: true
   - title: "Triyono Gani, Head of Digital Finance Innovation at Indonesia’s Financial Services Authority, Compares Fintech with Traditional Banking"
     excerpt: "Triyono Gani, head of digital finance innovation at Indonesia's Financial Services Authority, compares Fintech with traditional banking."
     publishedDateTime: 2020-10-21T03:13:00Z
@@ -129,15 +113,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "CBB launches fintech platform"
-    excerpt: "test and deploy fintech solutions. Through an AI-powered global fintech marketplace, FinHub 973 will aim to connect financial institutions in Bahrain and the region to fintechs from around the world. The digital lab will also offer matchmaking and ..."
-    publishedDateTime: 2020-10-20T14:29:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDjN0GmMKpFp%2bEXmGE4YiLTA%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 4
 
 secured: "9AUmZG/mU3wZGx54uX9naDBGLYKVm/rd93BNT3LyN+ubBbRZ2e7sZOF6rdcbsZu5PE5jQ6WNHvBgsoaFF8dlgvxar3y9+DnzdFusW4sh/KMiwdtFGBYpadFU7bQYGV2UaU0RfnG96V9unb2udWTK/MHy3AqDJIDng9YQ54VduP1aYQVp17IQMHojiujSpPKmyiF84n6UBrtRKIxuhcLrBjbTeZfc6jBfSdJs2bR96LDuDNCukRxngool7bjKnOxFTaKFFdefOp/whh/mK4YDxLZrCSKXezr+J3H6LyuCIDhDgWqJYP0A/CpzI42fJ9E9tEYVFruwYKCo559HDtgR+CXfabeM+BHkrnYbFsaqSeg=;NTa5Wyb+E3o4IchOzXsNOA=="
 ---

@@ -43,6 +43,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "With deep learning algorithms, standard CT technology produces spectral images"
+    excerpt: "Engineers have demonstrated how a deep learning algorithm can be applied to a conventional computerized tomography (CT) scan in order to produce images that would typically require a higher level of imaging technology known as dual-energy CT."
+    publishedDateTime: 2020-10-19T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201019133700.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
 
 secured: "gXkDMl1mYOP9rVhrKO6VdoMVhXiIPXGTEDcF5fmK21qHgcNySITWGci7u4EiB6nI47vXYRhHiALvdLELfCDQPJuythj++eMUIbb99VJin8YEAqOB7x1/truZ5nQi4tSOu9U2tqPut7HYN5qa5QTX99ZIHdUM8Rf+UV49CNNpZOEeXJDfAAdLTfYDINE42WeveJxCxHHExx2D0Ifsd2NqLgf2eXJFLl7I4RF4LVc8N3u4Uh6F+eiz/8hqwWsbNa09za/pfxZcOVxxYZLfRJhM5kgM6D2FUhyKzFoPlJZV9pZmGMDALYjvF1Xwp2LMkF4B+xRRTJroa6kCP8vqLii5qIK0zbxOBrFw0hR2nqXrEXllxlQGifZEpGhgUG+F0jd4LmHe9KdJSVytkn4tixwSWaBpr0f1C+KNa5fvl0aM6wEm0VxP5sWHn2RAez8NdCDG8IeyP9FDmhmPSjIdC1xdsqP9rfkatrw2Bw7zUHmKZW+dTm0CDSJbSsdia8jHQIp57RFA1JHRbAebBFM+YeLf6A==;3TqlKs3DMqzA7axXv/idSw=="
 ---

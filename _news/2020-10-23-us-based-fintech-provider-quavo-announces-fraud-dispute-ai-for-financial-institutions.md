@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-pr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/amp/"
 type: article
 quality: 50
-heat: 130
+heat: 110
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Fintech Research Sites are Important for Investors"
-    excerpt: "Fintech is a blend of two terms as Financial Technology is often used to identify emerging innovations that are intended to enhance and simplify the provision and the use of financial institutions. ​​​At its heart,"
-    publishedDateTime: 2020-10-21T11:55:00Z
-    webUrl: "https://techbullion.com/why-fintech-research-sites-are-important-for-investors/"
-    ampWebUrl: "https://techbullion.com/why-fintech-research-sites-are-important-for-investors/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-fintech-research-sites-are-important-for-investors/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2020/10/Fintech-Research-Sites.jpg"
-        width: 626
-        height: 540
-        isCached: true
   - title: "Triyono Gani, Head of Digital Finance Innovation at Indonesia’s Financial Services Authority, Compares Fintech with Traditional Banking"
     excerpt: "Triyono Gani, head of digital finance innovation at Indonesia's Financial Services Authority, compares Fintech with traditional banking."
     publishedDateTime: 2020-10-21T03:13:00Z
@@ -129,15 +113,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "CBB launches fintech platform"
-    excerpt: "test and deploy fintech solutions. Through an AI-powered global fintech marketplace, FinHub 973 will aim to connect financial institutions in Bahrain and the region to fintechs from around the world. The digital lab will also offer matchmaking and ..."
-    publishedDateTime: 2020-10-20T14:29:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDjN0GmMKpFp%2bEXmGE4YiLTA%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 4
 
 secured: "fNtvtqYxOlGNOqa4s/3c+89iv2BKtnudTYq2ZVvxh7oiq69G86NXLzytH1wW4PYScTj7+DHU7XiSf8acWY+7LQKixYtVHN1A+seClASxxFPqfgUpA95/A87iiemb8PmTjzqyiWbrj2YSDvZlrJFnVloKxtmpbrgPzXU+ISjlT16nYC/mmmDADiiZDpyB7arpifRTtL+pbLD23bvi8M7YRluXxFhPedobjFTUvmXbcwnrCsafHsrMUACq6XgAHhlUBpexiCBHdfXAObOomyInVaZTM8ESMySyi+Yngq22ZgYcERFjuS6OUVvv63sAQM7dJXp+yileEVR993inPxeDC2aTdgECtr63XB5AokqNpgCqhu+LGoh5zP8G4s7DrQa74ejrUGOzFueBxw5nQuFfB6aV849KOTkqu7yoD6vehneM0lrLo0bYW+FdNW/z3EdxMIXimd4v+w1y9Y2dAeYQgzu08/tCix97apiKCJ6hCUKtO8RmpgzNHf8O9TZuWZ/ddAYDICw58pIjvWogKRF/6g==;Y/IYYIYaiABiHgRjZfH3JQ=="
 ---

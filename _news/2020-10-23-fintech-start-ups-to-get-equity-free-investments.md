@@ -25,20 +25,88 @@ images:
     isCached: true
 
 related:
-  - title: "Fair Isaac Corp.: One Of The Greatest Fintech Stocks Of The Last Decade"
-    excerpt: "While the company is best known for consumer lending and assessing consumer risk through its FICO score, it has become a top FinTech innovator involved in business automation and AI, data ..."
-    publishedDateTime: 2020-10-22T17:44:00Z
-    webUrl: "https://seekingalpha.com/article/4380617-fair-isaac-corp-one-of-greatest-fintech-stocks-of-last-decade"
+  - title: "Fintech Startup Signzy Raises $5.4 Mn to Enhance AI Research"
+    excerpt: "The funding round was led by from Arkam Ventures and Mastercard along with participation from Kalaari Capital and Stellaris Venture Partners"
+    publishedDateTime: 2020-10-23T11:17:00Z
+    webUrl: "https://www.entrepreneur.com/article/358321"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/358321"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358321"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
     images:
-      - url: "https://static.seekingalpha.com/uploads/2020/10/16/39580-1602857932707266.png"
-        width: 640
-        height: 396
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1603451820-SignzyFoundersPicedit.png?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
+  - title: "Why Fintech Research Sites are Important for Investors"
+    excerpt: "Fintech is a blend of two terms as Financial Technology is often used to identify emerging innovations that are intended to enhance and simplify the provision and the use of financial institutions. ​​​At its heart,"
+    publishedDateTime: 2020-10-21T11:55:00Z
+    webUrl: "https://techbullion.com/why-fintech-research-sites-are-important-for-investors/"
+    ampWebUrl: "https://techbullion.com/why-fintech-research-sites-are-important-for-investors/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-fintech-research-sites-are-important-for-investors/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2020/10/Fintech-Research-Sites.jpg"
+        width: 626
+        height: 540
+        isCached: true
+  - title: "Signzy Bags $5.4 Mn From Arkam, Mastercard To Cater To Fintech KYC Demand"
+    excerpt: "Signzy will use this funding to strengthen its AI research and global sales It had ... on new customers Bengaluru-based AI-powered fintech company Signzy has raised $5.4 Mn in a funding round ..."
+    publishedDateTime: 2020-10-21T13:49:00Z
+    webUrl: "https://inc42.com/buzz/signzy-bags-5-4-mn-from-arkam-mastercard-to-cater-to-fintech-kyc-demand/"
+    ampWebUrl: "https://inc42.com/buzz/signzy-bags-5-4-mn-from-arkam-mastercard-to-cater-to-fintech-kyc-demand/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/signzy-bags-5-4-mn-from-arkam-mastercard-to-cater-to-fintech-kyc-demand/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 43
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2020/10/Social-2020-10-21T191132.038.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "ING and UNICEF launch ‘Fintech for Impact’ initiative to support fintech start-ups in Philippines"
+    excerpt: "efficient data with a new AI-enabled platform This initiative, called “Fintech for Impact”, supports open-source solutions that contribute to a growing body of digital public goods that can advance society. Chris Fabian, senior adviser at UNICEF ..."
+    publishedDateTime: 2020-10-19T09:58:00Z
+    webUrl: "https://www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-‘fintech-for-impact’-initiative-to-support-fintech-start-ups-in"
+    ampWebUrl: "https://www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-%E2%80%98fintech-for-impact%E2%80%99-initiative-to-support-fintech-start-ups-in?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-%E2%80%98fintech-for-impact%E2%80%99-initiative-to-support-fintech-start-ups-in?amp"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 31
+    images:
+      - url: "https://www.businesstimes.com.sg/sites/default/files/styles/article_img/public/image/2020/08/06/nz_philippines_060820.jpg?itok=LHDtmRW7"
+        width: 440
+        height: 293
+        isCached: true
+  - title: "Mastercard invests in no-code AI platform Signzy"
+    excerpt: "Mastercard has joined a $5.4 million funding round for Bangalore-based no-code AI platform Signzy. Arkam Ventures, Kalaari Capital and Stellaris Venture Partners also participated in the round for Signzy,"
+    publishedDateTime: 2020-10-21T23:29:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36796/mastercard-invests-in-no-code-ai-platform-signzy"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
+  - title: "CBB launches fintech platform"
+    excerpt: "test and deploy fintech solutions. Through an AI-powered global fintech marketplace, FinHub 973 will aim to connect financial institutions in Bahrain and the region to fintechs from around the world. The digital lab will also offer matchmaking and ..."
+    publishedDateTime: 2020-10-20T14:29:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDjN0GmMKpFp%2bEXmGE4YiLTA%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 4
 
 secured: "yn6gdP920Fq2Yimvmxsul8/V/x0LFdmK8EGHIKlP/lUGy4PMqLlfHW7sfIktrClJXPyVh3bcxwn9CN5zfrTJrpFw5WdbjB6XLMfathNlx3WcmL61paDVHZWWCq2t8PB2qwIg3zNPhXl80X2R4FT0iQfoEGZYhT1Kxk54ZaMGioz4s8b6cwKtzWyj5kS5mAGflfkLaEOosX28YXtsnkpAfk7M2IA+/F10st+bqSE9B2qukmWcsUx4pS3qN3yutBY5MLOPtmWC6fgW1Jvta9KHYfWOJPbcrEERXJJV+/A/YMHqGKe+rUqY/sUBbOJwdRSt3NbMomOI+Fk/N4qbuj3oVjOxx8tcMcXpmQWlFIhfw4s=;UNdsXIoPWgRNzHJM2zeFAw=="
 ---

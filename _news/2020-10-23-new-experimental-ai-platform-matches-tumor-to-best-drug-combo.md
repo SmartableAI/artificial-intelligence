@@ -42,6 +42,20 @@ related:
         width: 796
         height: 419
         isCached: true
+  - title: "Adobe’s latest AI experiments will melt your brain"
+    excerpt: "I’m referring to Adobe’s “Sneaks,” or the UX experiments that Adobe Research is working on that aren’t quite ready to be put into real products yet. These are often powered by Adobe’s reality-altering AI platform called Sensei."
+    publishedDateTime: 2020-10-23T11:00:00Z
+    webUrl: "https://www.fastcompany.com/90567384/adobes-latest-ai-experiments-will-melt-your-brain?ref=hvper.com"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/10/poster-new-adobe-sneaks-2020.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ngtnknmz3uuFVv7A/ALa3g1W1vHOPlfr1fEwggeU4QlWmcZBw8we53vA5ICIsXDyZnN2+in7VIOhL3IP0lCaaZa0pibk0/s68geyhipNqqdBGqgoXm+ycInml5yl/+VAuv6esxeuu2IVeHxk5D1FhmXum5duYUSryVAlxGr3okcepwzFLaMmioylg5ddG2JgFABTVkO6cL+Zv9mM13YPxBBDtMCGcgd1hhKXA6wxUI2VVV6XEloKMTewzHEScnsJm7AS62VIe8KRWKgKAM/h+hYntRY47JTzDHg6GnZR1xO+8HIRk6LDTtLJ84K4WEX2NaonJX2GAeQNGezQG6CpaNrQJKDmMRHcnD7YsHaooKs=;e5vjDcoFjIW72P/Kv8bjeA=="
 ---
