@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itproportal.com/amp/news/ibm-is-making-it-easier-to-run-
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: IT Pro Portal
@@ -38,6 +38,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 57
+  - title: "IBM Announces New AI Hardware Research, Red Hat Collaborations"
+    excerpt: "At the IEEE CAS/EDS AI Compute Symposium, IBM Research introduced new technology and partnerships designed to dynamically run massive AI workloads in hybrid clouds: The company said it is developing analog AI,"
+    publishedDateTime: 2020-10-23T20:44:00Z
+    webUrl: "https://insidehpc.com/2020/10/ibm-announces-new-ai-hardware-research-red-hat-collaborations/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/10/IBM-Red-Hat-1020.webp_.png"
+        width: 537
+        height: 219
+        isCached: true
 
 secured: "lwRtGvt463eUquHBfOdMVyN81zF0B7JLXk82t53vUVfuTt7bygJ7dgJ5PVJfmU9ZkjD6BVdvomoc+EApM0r/gzXcHraIKpDyOL/r9chlnpG8uGUMVyUgp+/7Bus8tNQaNi3DicZZa4kn0WOxe1fFLo9Lg3x2MfkyFjGQ9RU8Ez0olzX0xXH7JgcqNugXJUF3/+TKQXc+14Je63vLTfDZ+ir9Skl60k8fJVJZ/o7ifa9Mxh45RBPwmJ3C2orrxthTx2iLygKJ3/YaFDdBjG9Yayhlr4A3SVUf5Lp5ndseSQIEvpULwTO3VFkkrB73UQOG1O5HB9S2Ybk67oLgRNeYHvT6hZM/OSdmWT3nrnycUiA=;toj7IiQ3AGasMSgvw/r22w=="
 ---

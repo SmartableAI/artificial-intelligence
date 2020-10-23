@@ -57,6 +57,15 @@ related:
         width: 300
         height: 223
         isCached: true
+  - title: "Fintech Provider Quavo, Inc. Launches Fraud and Disputes AI for Financial Institutions"
+    excerpt: "Last month, financial technology provider Quavo, Inc. released their revolutionary dispute management AI, ARIA™ (Automated Reasonable Investigation Agent), for issuing financial institutions and service organizations."
+    publishedDateTime: 2020-10-22T17:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-provider-quavo-inc-launches-fraud-and-disputes-ai-for-financial-institutions-1029711828"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "FinHub 973 launches to boost fintech sector in Mena"
     excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
     publishedDateTime: 2020-10-20T10:32:00Z

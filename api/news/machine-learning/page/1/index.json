@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-24-deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more.md",
+      "title": "Deep Science: Alzheimer’s screening, forest-mapping drones, machine learning in space, more",
+      "excerpt": "Making sure your deep learning network generalizes to data outside its training environment is a key part of any serious ML research. But few attempt to set a model loose on data that’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/",
+      "originalUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/mahmoudian-autonomousLO.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/amp/",
+      "publishedDateTime": "2020-10-23T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-scientists-discover-surprising-similarity-between-neural-networks-and-human-brain.md",
       "title": "Scientists Discover Surprising Similarity Between Neural Networks and Human Brain",
       "excerpt": "\"Artificial networks are the most promising current models for understanding the brain. Conversely, the brain is the best source of strategies for bringing artificial intelligence closer to natural intelligence.",
@@ -99,34 +151,34 @@
     {
       "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
       "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status.",
+      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669",
+      "webUrl": "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T00:46:00-07:00",
+      "publishedDateTime": "2020-10-21T20:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -443,59 +495,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
-      "title": "Neural pathway crucial to successful rapid object recognition in primates",
-      "excerpt": "Rapid recurrent processing in the ventrolateral prefrontal cortex (vlPFC) helps primates quickly identify objects, according to research from MIT's McGovern Institute and Center for Brains, Minds, and Machines.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
-      "originalUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202010/Ko-DiCarlo-Neuron-edited_0.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     },
     {

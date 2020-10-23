@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-15-students-accuse-the-university-of-miami-of-using-facial-recognition-to-identify-student-protesters-the-university-denies-it.md",
+      "title": "Students Accuse The University Of Miami Of Using Facial Recognition To Identify Student Protesters. The University Denies It.",
+      "excerpt": "None of the students actually organized the protest. Three were student journalists who covered the demonstration. And only two were part of an activist student group, UMiami Employee Student Alliance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/15/students-accuse-the-university-of-miami-of-using-facial-recognition-to-identify-student-protesters-the-university-denies-it/",
+      "originalUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/15/students-accuse-the-university-of-miami-of-using-facial-recognition-to-identify-student-protesters-the-university-denies-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88c8a86decf8f321c25b1e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2534%26cropY1%3D553%26cropY2%3D1978",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/15/students-accuse-the-university-of-miami-of-using-facial-recognition-to-identify-student-protesters-the-university-denies-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/15/students-accuse-the-university-of-miami-of-using-facial-recognition-to-identify-student-protesters-the-university-denies-it/amp/",
+      "publishedDateTime": "2020-10-14T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-banking-on-ai-how-ai-is-changing-the-face-of-fintech.md",
       "title": "Banking on AI: How AI is changing the face of Fintech",
       "excerpt": "A recent study by McKinsey suggested that by 2022, over 30% of the tasks in the Fintech sector would be taken over by machines.",
@@ -1186,58 +1238,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-facebook-deploys-its-ai-to-find-green-energy-storage-solutions.md",
-      "title": "Facebook deploys its AI to find green energy storage solutions",
-      "excerpt": "One alternative is putting that excess power to work driving catalytic reactions. “There are a lot of different ways that we can store the energy,” Zack Ulissi, CMU Assistant Professor of Chemical Engineering and Materials Science and Engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
-      "originalUrl": "https://www.engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F64625200-0d97-11eb-b2ff-474c419ab255&client=amp-blogside-v2&signature=44deace43d9002073d11fa617625620dd03d9831",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html",
-      "publishedDateTime": "2020-10-14T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

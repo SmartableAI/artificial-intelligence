@@ -153,6 +153,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ Is 99.9% There, Just 1,000 Times Further To Go"
+    excerpt: "This week, Tesla TSLA released a very limited beta of what Elon Musk has referred to as “feature complete full self-driving” to a chosen subset of their early access customers. It also announced a $2,000 increase in the price of the “FSD in the ..."
+    publishedDateTime: 2020-10-23T21:51:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934f9b7095aa39d758ff1f%2F0x0.jpg"
+        width: 1200
+        height: 817
+        isCached: true
   - title: "Tesla to roll out beta of Full Self-Driving on Tuesday, according to Elon Musk"
     excerpt: "Tesla's Full Self-Driving beta is rolling out to select customers tonight, according to a tweet published Tuesday afternoon by Tesla boss Elon Musk. In the tweet, Musk claims that the rollout will be \"extremely slow & cautious.\" Still, it's not exactly ..."
     publishedDateTime: 2020-10-20T22:54:00Z

@@ -215,6 +215,20 @@ related:
         width: 1400
         height: 616
         isCached: true
+  - title: "Facial recognition utilized by protestors around the world to identify police"
+    excerpt: "Portland’s ban on the use of facial recognition technology does not apply to individuals, which is why Christopher Howell has been allowed to continue identifying police officers in the city who"
+    publishedDateTime: 2020-10-23T20:40:00Z
+    webUrl: "https://www.biometricupdate.com/202010/facial-recognition-utilized-by-protestors-around-the-world-to-identify-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
 
 secured: "fX3hUm/DCqq93I/1fsQKfE8ftpZcuFiGPDvtLMq+4hPOFeShgdb9CkTCMpItn/8pXKyArDKBDY9UNydEFUy/Tb/yvl9Dnhpb4mciBIjech6YNoIixD3F712I0JfL/mywnXPXWTdLRc862vcpCA6luB78XIhRcL2KZPWBhaJQlgLMMxzAN3vyIGxmCdpTY2TBmNkGEX9k4/0d7aHkZ3KS8EqcdUzGPKNuglrzDWdNKP1pJIaJsf+KBgpYsKzn5bbxbvKN4DOn08wdwPPWd3XTBlEkSxIS82mf6Y+K+b9dFWT2H+Bq1wnsszHBF4nttOxuKXCNKZ/lrshloQkaPFi8TVsBold1y6k39cj5QYLVscJcH4w8UDUfC6ez0SXdUzFEVLCtWJFyCU5Dfumh489TxCBTfnXFymRPL9diJ4U9axH9gHzel4LQGnzSZR3L/iSjMBEiY2AYDB3CZjJ9h2sYv72VrNlqg26OHngrzVb0NLyTUiYrbKJAixmuOTiYn0FLJGR+PzXah9f8IU1mAslz4g==;5qMQs8+lin0EfMLuAeVBxQ=="
 ---

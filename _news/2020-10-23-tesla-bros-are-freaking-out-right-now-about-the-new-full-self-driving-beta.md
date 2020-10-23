@@ -155,6 +155,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ Is 99.9% There, Just 1,000 Times Further To Go"
+    excerpt: "This week, Tesla TSLA released a very limited beta of what Elon Musk has referred to as “feature complete full self-driving” to a chosen subset of their early access customers. It also announced a $2,000 increase in the price of the “FSD in the ..."
+    publishedDateTime: 2020-10-23T21:51:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934f9b7095aa39d758ff1f%2F0x0.jpg"
+        width: 1200
+        height: 817
+        isCached: true
   - title: "Tesla to roll out beta of Full Self-Driving on Tuesday, according to Elon Musk"
     excerpt: "Tesla's Full Self-Driving beta is rolling out to select customers tonight, according to a tweet published Tuesday afternoon by Tesla boss Elon Musk. In the tweet, Musk claims that the rollout will be \"extremely slow & cautious.\" Still, it's not exactly ..."
     publishedDateTime: 2020-10-20T22:54:00Z
@@ -584,6 +600,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "J6rKe9ol1IxhCvgWVU1ONcxhIAMf5zVEAP5y7UZbvvBezBooz4W39laVaZed4wfPz5ewNJjI74yR6QZ3NTpzl1rRoEAg7VjHzo/0YqnNTzwU8GdhKtCKhIlKRTnrpERe/VisNgALsB3cUtcUbM25PIq4owCXgWfDIXeC2T42Sb89CoE5hG9V7QjV6sFY0cOb9gxZEAqsrQ21uMm1yGm/fDUpSf+E3R3lqdyDabjYqkdfkOb1xLHi99t9cD9tL9VKZ5G5xJV3WLPr7KgPhtS/DeXwXAaGupjQEac6rZLQlApGQLo7XsjKxEBJ9ukzMXJa/a5kU3sdK6O6BceULgQW9Xcouy7iMspdirbWtuU0Vfo=;ofhg3gVOywc1uHqVciwJTQ=="
+secured: "56c8HRuBfkNqRM0y/35VVNlkoivScNa1XfJWMahI/yRi6AqV28gF1tzgqPHpMFHpuc/Cj+hc7Dp815D7rm4KV1BgydWNlq0N0VTS1gjWArp5NASdd/i9QLn0xO7uezMiv4PWJpSfawtH8ujllX8HtFJPBVfp8cEBWVWcMJNN+xlOfovc/MQrHgryEddUEgAZIkMQtW20UfYM/10t14c/m+/j0gL33xVzmif+WBD1ZBtZljsd+BzDf+FigEPA5bfd0fa7eMksKsq0azPzRnHjCxyBTtVLq+i4NDh9uYEWCMroVPnuEKEd1nUx1PWBp4YiRxf2YgIE91Y8EPbj2wdmsfvyOccHtlp8OxYNCIGkDGzHSEgEg3UxmtV0cq1iokaXPXCkLAl7Xg9MMMoEGeZ3toNP5yoBB7v6I3d9mY7OpRmw+fsfoMx6rSFy9bLjQDCy70UsvqSyU1W792WPP+U3YP5MynkzLC7iX488wCU9O3Td2+HZQlppu5Jid8nh850y4EBdFmj7J9UXoZtNT9pCPA==;paMDtLTfQuNigT4EyQyhVA=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-22-new-spin-out-company-uses-ai-and-robotics-to-take-the-pain-out-of-potholes.md",
+      "title": "New spin out company uses AI and robotics to take the pain out of potholes",
+      "excerpt": "The University of Liverpool has formed a new spin out company – Robotiz3d Ltd – to take forward new technology that has the potential to radically transform road maintenance. Robotiz3d Ltd",
+      "sourceUrl": null,
+      "webUrl": "https://roboticsandautomationnews.com/2020/10/22/new-spin-out-company-uses-ai-and-robotics-to-take-the-pain-out-of-potholes/37589/",
+      "originalUrl": "https://roboticsandautomationnews.com/2020/10/22/new-spin-out-company-uses-ai-and-robotics-to-take-the-pain-out-of-potholes/37589/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/composefreont-002_orig.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics & Automation News",
+        "domain": "roboticsandautomationnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-meet-the-ai-thats-really-not-stealing-jobs.md",
       "title": "Meet The AI That’s (Really) Not Stealing Jobs",
       "excerpt": "Rather than worrying about AI as a generic, uniform risk to jobs, procurement and supply-chain leaders should explore its potential to supercharge jobs.",
@@ -61,7 +104,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 473,
+      "heat": 483,
       "tags": null,
       "images": [
         {
@@ -520,50 +563,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
-      "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-10-22-adobes-new-ai-experiment-syncs-your-dance-moves-perfectly-to-the-beat.md",
       "title": "Adobe’s new AI experiment syncs your dance moves perfectly to the beat",
       "excerpt": "TikTok has made on-beat dances and movements mainstream. But what if you went offbeat or the video you recorded had some lag to your perfect dance moves. Adobe can fix that for you. The company showed off an AI-powered experiment at its Adobe Max conference that syncs your off-beat movement to the beat of the",
@@ -664,6 +663,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
+      "title": "Data Reply Achieves AWS Machine Learning Competency Status",
+      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1232,49 +1275,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence.md",
-      "title": "Nvidia makes a clean sweep of MLPerf predictions benchmark for artificial intelligence",
-      "excerpt": "MLPerf benchmark tests are an opportunity for chip vendors, and system builders, to show how much performance they can achieve on a representative set of machine learning tasks. Nvidia capture top marks against Intel in all the tests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "publishedDateTime": "2020-10-21T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

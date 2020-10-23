@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-
 ampWebUrl: "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/10/time-100-markle-harris-noble-harry.png?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "OpQ9uOhyfAFdOTtjwxeSnZAsdM9e+Ln7mCyHZ6p2xcIYeXmVsaBZ8IdP/T+oD/Jn7bzYDgw8uAeAaAofXTdBtUUbnddJlLvXFQTPl8plp6xh4QazGqfHdn6Eb9ykA1W5dR7ODwV9NaQdPQkq8mf70KTHk2dD6+o3hwSmUwsVY/GW+L0aYRYaCZhMPvgn+6M4+Sy8yIlUn5MwCkDW7jQFbkwPxVqllcMvXBD/2P1FJ1hDIp4LzlUJwffmfbsxIsev/RJ+xC9D7GZHooZPj1N4MCnDOXL+4FMpJDRe5oroxaCiotMNTOiHqpRAGjCwtBVpGnBUuHWyfJDMmI03gqEf1hYL2K5w6O2yN8xG7TjhvVI=;qZ1mGk79LNbm5n4p1UyyEA=="
+secured: "yPr9c1TCx0w90lwLIBqeG73Vx0km+zqzXz47hSa3K8l19BtxS9MraoTsgYS5b3Zn0rS6VtSjRV5ZWAirKnbOJElQiFcCQ21zW6qYul7Mg63EK1ztZ1Bn4ikPpxE5w+U+kZMCAcC7dADVwsiAft5XRbK8Rv7EcsL2hdqdWee4bgDxnC9UMiHJnyt/0j90X6VvLMhDZvmmoExS3Pk+7GoFAHzGMQoDuVGyhn9EJEm54byeCOwzDVQNvBb1UOGBKBQghOlu4xKoqdzd60j7xdVvgemktp8eMKCXpUdwBcJvEhwW/0nYCbHUe3B/XGFPRYOXquYll/A8Ixkz79A2XVsfMbPvRbnbH5+74iEmr/dUIKTXCUlPQTirnCTSX+tfBh/yxnidoC2dhtNdK1T8dgUlX9VBdJkmImEi6nf+ugPgQyhVXSILOE5RNgK2B5GAzgWaDtT9PPcSxAkxV7e1P9lDNb4aW8bdFaptxDcWZvb86EJVeZrMJrACHcwItcLXjc9274RI3jbdfbFGa6SnEuo6NQ==;/qT2BPvK2268zDnzE0EFww=="
 ---
 

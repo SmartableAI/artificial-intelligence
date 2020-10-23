@@ -57,6 +57,15 @@ related:
         width: 300
         height: 223
         isCached: true
+  - title: "Fintech Provider Quavo, Inc. Launches Fraud and Disputes AI for Financial Institutions"
+    excerpt: "Last month, financial technology provider Quavo, Inc. released their revolutionary dispute management AI, ARIA™ (Automated Reasonable Investigation Agent), for issuing financial institutions and service organizations."
+    publishedDateTime: 2020-10-22T17:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-provider-quavo-inc-launches-fraud-and-disputes-ai-for-financial-institutions-1029711828"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "Fintech and Automated Loss Mitigation Provider, Constant, Recipient of 2020 AI TechAward"
     excerpt: "Fintech and automated loss mitigation provider Constant is pleased to announce it is the recipient of a 2020 AI TechAward. The annual AI"
     publishedDateTime: 2020-10-20T13:00:00Z
