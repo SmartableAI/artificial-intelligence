@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/10/21/technology/facial-recognition-pol
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html"
 type: article
 quality: 104
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -214,20 +214,6 @@ related:
       - url: "https://i0.wp.com/www.medianama.com/wp-content/uploads/18itl009_facial_recognition_graphic.jpg?fit=1400%2C616&#038;ssl=1"
         width: 1400
         height: 616
-        isCached: true
-  - title: "EU placing new restrictions on facial recognition and espionage technology exports"
-    excerpt: "The European Union is working on a plan to increase the strictness of export criteria for biometrics and other technologies outside the region that can be used for surveillance and espionage,"
-    publishedDateTime: 2020-10-19T00:00:00Z
-    webUrl: "https://www.biometricupdate.com/202010/eu-placing-new-restrictions-on-facial-recognition-and-espionage-technology-exports"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
         isCached: true
 
 secured: "7yF+j/TRXv6I5JpRkWEFq/m0+VUQaSLNbmzU+btVQkr50T52BW/TK3QVtQqvsPx8/qa/4vrZSJCo6ln4JmNBMtwLYom4iTymfC/UdksXhpAcXbitaYm4zIZ0kFGGNh7yygbFjQlWpVzXRq9AT0kv9EhGptjhDpNXtE2wjCkDxKOz+4U5pf3jyxCabvYgjrQ7P+6sNNUX+Us++zJKEe8hgLNqGX+BWStwxe/nOQ2xc7csCVLc4bP7JkVkCXfK+yQhSNudUeqF970KlKaBaVGtDLXWEuOVbd0L6Y7AyjPV7mlZzwJ+++0aBSDc5nP83gC/WoZr3nyM1KQ+ckgeKprcPaCR9vLecClmBmcGiQuCH//zpEB7Dm73op94U9Tcpdmli+aI4W6PhL2wWlq2bWk2TV2oWTJLgfhOc/GaKpWw3hFK+j3SezkY1BuZGt8zQc1dTSSKoAlWf5ogHujH/fodi41MjADebpg4vGoephQsA0rfQsv5Zs3zsj9U92MOMA0XQIxxhjtxe8dwZwubM+1Wzg==;jBsq2JGEkO71rPqoqho9yw=="

@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "New AI Platform Matches Tumor to Right Drug Combination"
+    excerpt: "DrugCell, a new artificial intelligence system not only matches tumors to the best drug combinations, but does so in a way that makes sense to humans.’ Read More.."
+    publishedDateTime: 2020-10-23T16:51:00Z
+    webUrl: "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AI Gives Visual Inspection a Boost"
     excerpt: "Landing AI unveils AI visual inspection platform to improve quality and reduce costs for manufacturers worldwide."
     publishedDateTime: 2020-10-22T17:27:00Z
@@ -55,6 +71,6 @@ related:
         height: 627
         isCached: true
 
-secured: "4PJ657l0sDvQpbySogycXM+FFJlUcZ+vi934xZ0ZoNo9bM8GWRefE/rd0QiC75IqPPnW7XTiR1DMtXy58ioYluOFtR91uy3G1rujMNf7m8Tl3TGEM/wtGh/zB+rLLXLZbjUviF0RA3a1g2vMjrWnfz+ncPV8lRBYy5Jy6qdMWMSL55Mbtf9UFbmjqGuIboTzH4RFwhwzLE4WPFmMGBCFkyJNeDWyeut69uOcANk5MoyDdX/J5YEsUU5IeK8fpy/xQTICyreo/AgLMJwA8U74UcKnparf4zymHc4xH5Y0Z5fr+/eeReaRaXrk1cMxDBQpZYIsdf00IYC0hw6l1NXdfWZ67rjSGPFu1cc+hx2quEo=;gsbM5L/tK54/0Art9JF8bg=="
+secured: "Ht1ZP+/ekhtZSK72QsFDnx0Y2UWafx6ZqlQHod9DYCzZTLxGXvlbJy2m5JUm5zEEAETWAFpnA89qyY8MXcG+EGmEXvXwfcvu/nl2vVNL2DPEfaifX8pT3AfOAyDIo5qkEE5f0hsNuE35i3q2MTihkVw2keUEfNbEmJo6CgLzjBYIGvdHwJv/GZ3KKsFg2RIEmWqhG528GCEDhy1yUVruOVDgUgwt0tBi2n4YybVNVHqIXx+sjkBPX/OMtOg8nBUua5Y9rsFAQAlKLUtDgkmx7FLIn6uZVnAw2BYiELpnCe7QFj97eNMIiYAg3Nd2gMy1sAyyS/a0JK4A6j+RRPKz0qu3psGCqGdqitkvqYxZwTFz4lekGV8hpzt2qKsV/8qOwfVBq0K0af5evBURRSEmhZm7VQHzIOgUrLHFcC1BM91lU1yJbeSHc86aEa5+8L5jlql7A56i1Sqe8i2zj3MvNqaqfIsSdeGM9/zmBd9hI2r/DHsQRfAx/bu0O9Xo3lxbPnBASP4pPcsRPatHoy4+Sw==;vWWNiHAf7itUupzOpIdXlQ=="
 ---
 

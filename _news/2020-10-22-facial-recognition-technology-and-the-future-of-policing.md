@@ -211,20 +211,6 @@ related:
         width: 1400
         height: 616
         isCached: true
-  - title: "EU placing new restrictions on facial recognition and espionage technology exports"
-    excerpt: "The European Union is working on a plan to increase the strictness of export criteria for biometrics and other technologies outside the region that can be used for surveillance and espionage,"
-    publishedDateTime: 2020-10-19T00:00:00Z
-    webUrl: "https://www.biometricupdate.com/202010/eu-placing-new-restrictions-on-facial-recognition-and-espionage-technology-exports"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
-        isCached: true
 
 secured: "exyDnQ3gId9R5k0NsGxoe3ckji0fDSvlkh4GxexIubYpnXNwGii8R4CzPJRP/KSyWsXrCW7o58LRlCLBGl62dti+yolR/38+Y3mjeVUs5Z4fwUcr8n1QRUo8bjHSd9juywqYQwRTxmmQlAeF6Z1nU9Mu+BBOxoH7eQZbug6D+UEmpbmz1UnTIzM+p/Zc3e5kQWaRocxndfPIqvzrAHcuIFuMfkFSRcCUWL5kJ/Tnffh69rO7CETkOwKxrd3irCUty+HuT1KK4XsC6quTaLSjJgGdU6+AX3ynj2YABne1h6JihuZqfnPWRjcSyot+e3wqEEO+YfP8NW47g1RY5AD5krhNMEO6sdNa7i3BukX+RE08t8QKa5hz1eX0SabJvL9HohAZkeusHix8iZPLFxiFD2d2zsZJr5QK2BCfCpoQP9JICLb/VWXeKr0cJH/W4iTlUV2i5/0rFMzT2GUMblWUn3mgK36Q8visv4cSAurk4n/pfFk/kXoGNSmfesQSG/BMTOLeko5QVkyHlHdHfmNKDw==;Qwx/57NpXIkDqeH6d1HevQ=="
 ---

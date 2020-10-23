@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "New AI Platform Matches Tumor to Right Drug Combination"
+    excerpt: "DrugCell, a new artificial intelligence system not only matches tumors to the best drug combinations, but does so in a way that makes sense to humans.’ Read More.."
+    publishedDateTime: 2020-10-23T16:51:00Z
+    webUrl: "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Startups develop AI manufacturing solutions"
     excerpt: "NADI System, Memorence AI and Verdigris Technologies have developed AI-based solutions for manufacturing. NADI has developed a 3D visualization management platform based on PSIM (physical security information management) architecture."
     publishedDateTime: 2020-10-19T07:37:00Z

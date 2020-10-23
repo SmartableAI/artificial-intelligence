@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2752YF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2752YF"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pandemic speeds labor shift from humans to robots, WEF survey finds"
+    excerpt: "VCG Robots will destroy 85 million jobs at mid-sized to large businesses over the next five years as the COVID-19 pandemic accelerates changes in the workplace likely to exaggerate inequalities, a World Economic Forum (WEF) study has found."
+    publishedDateTime: 2020-10-23T14:18:00Z
+    webUrl: "https://www.globaltimes.cn/content/1204467.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 39
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-10-23/c3d17bf5-0788-49a7-a651-019de976da7c.jpg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "COVID-19 Crisis Accelerates Labor Shift from Humans to Robots: WEF Survey"
     excerpt: "Robots will destroy 85 million jobs at mid-sized to large businesses over the next five years as the COVID-19 pandemic accelerates changes in the"
     publishedDateTime: 2020-10-21T10:20:00Z

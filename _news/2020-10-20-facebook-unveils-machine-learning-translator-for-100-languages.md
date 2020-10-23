@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-19T19:18:00Z
 originalUrl: "https://www.ibtimes.com/facebook-unveils-machine-learning-translator-100-languages-3064750"
 webUrl: "https://www.ibtimes.com/facebook-unveils-machine-learning-translator-100-languages-3064750"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/facebook-which-handles-more-than-20-billion-translations.jpg"

@@ -2,7 +2,7 @@
 category: news
 title: "H2O.ai brings AutoML to Equifax Ignite with Driverless AI"
 excerpt: "--(BUSINESS WIRE)--H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverless AI within Equifax Ignite"
-publishedDateTime: 2020-10-08T13:23:00Z
+publishedDateTime: 2020-10-08T09:00:00Z
 originalUrl: "https://www.businesswire.com/news/home/20201008005266/en/"
 webUrl: "https://www.businesswire.com/news/home/20201008005266/en/"
 type: article
@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
-    width: 600
-    height: 300
-    isCached: true
-
-secured: "hDM5/GpF6lHkk47jj48YAwxLQsHSCtRdpuHWwtZPhmzhD6Z/zuxUgHfHvyjMliuTgLjRYgs+pEo/0loH4ZLmaZ8CTwc1oEyWjljl1rW3/gUH4wC7oWwIf2ptBawygZszEtDDbltOdacDJNQRS/zpiniC43+N4ktbX5oIIgO3NMPjGscoEn5jVY/oqmnE2nO6M3b9hoZ+d/4x3+ajqReN8mX18jNAkBX9PlK6cHyEdZNbu0JysFrRcwuhTHvhid2FohL9FqkCDaBVRoGq7eMZm4emzX0VhIoFrn0h+iBcCSSBVowezf/eVU6uq9x/t6v8N5zj9/iN709cqIJd45oJEEALFSRolWDhQ5hUDdgEtww=;TP6oSGOgPEflnJUrUTQ6Rw=="
+secured: "Ggtf1YHblgbSXutFwx24vOci8yhH+Kc7l0ZYS1uGzsHrzNeEhIdctdB2N7UNtGnbDgnFS67wKHNt3+l6bdzDLFDO5VW/+XA7u7RQ/amLow3+swlj0dYOmo/Z7RAcdmvOGLBJ6Bz5yz4lqqM641Js9Re8p5fmO02VVuSGsr3KTXoiDXEEF3sOf7QKA/ZJGfVteFvpu/86YKSWJY7gslbCYUiNONQ4wB7aaG3K0NXj4bzyuie+/rdL5OcFttvrAt18XfEyT6pTv+wIK9wpZ3OW1bq8EvicsxtArs6AdnXrZFCRDcGy5RUjo096mxtxJtUDEap0f2FJD//Kw2zASe5o6BQJX6YLtbl5Umf0vi6q26E=;HIswcFKoYIs2gCY7xKQSbg=="
 ---
 

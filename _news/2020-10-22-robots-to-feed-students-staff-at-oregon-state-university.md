@@ -24,6 +24,22 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "Starship delivery robots roll onto Oregon State campus"
+    excerpt: "A fleet of 20 Starship delivery robots are now processing student mobile orders at Oregon State University, adding a new dining alternative for students."
+    publishedDateTime: 2020-10-23T15:57:00Z
+    webUrl: "https://www.cr80news.com/news-item/starship-delivery-robots-roll-onto-oregon-state-campus/"
+    type: article
+    provider:
+      name: CR80News
+      domain: cr80news.com
+    quality: 39
+    images:
+      - url: "https://www.cr80news.com/wp-content/uploads/2020/10/OregonSt_Starship.png"
+        width: 1390
+        height: 749
+        isCached: true
+
 secured: "9QcmY3DjftOGqNcEDkWqSqLZ60f9thKtchcyNhZHHp168uwE3Jj667put+Xuabi3GQ2b/V/7PFiGCF8P97ELpRDel5P1C/uO8odzGl8qLiwjWBf9ErrFZsh5bx+GiLCFvJhhDD1Bs89dNDYsYiJKAKGDJodlQ45bpOkDeIUux6/4DhQvznoiSgG3t99/axF2UvxIytB2ydH8RDm9+9jGgACjC1wXL500JDfYr/jZPQi0EoVMaAyxo9GF2thoXnFs/EURO/AFmVEcNPo54d2pzMuIRuC+JQB4FSwpLdmHkUUEz5hRJNHcU7CTMfNEX1Qx1lGFl69nyo8ZYLIpWRS+GYtm7SoTR5ERy5PrCAZK6fk=;ex9DIdiALh3Kgxb6yxb6Uw=="
 ---
 

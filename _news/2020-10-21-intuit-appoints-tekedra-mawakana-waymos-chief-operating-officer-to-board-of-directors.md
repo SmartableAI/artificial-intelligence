@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Intuit Appoints Tekedra Mawakana, Waymo's Chief Operating Officer, to Board of Directors"
-excerpt: "Mawakana is the COO of Waymo LLC, a subsidiary of Alphabet ... policy related to commerce and advanced applications of artificial intelligence and machine learning. “Tekedra has a deep ..."
-publishedDateTime: 2020-10-20T21:29:00Z
-originalUrl: "https://www.oaoa.com/news/business/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors/article_e5a747f3-8b85-5e32-a0b4-4fee6efdbff3.html"
-webUrl: "https://www.oaoa.com/news/business/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors/article_e5a747f3-8b85-5e32-a0b4-4fee6efdbff3.html"
+excerpt: "Mawakana is the COO of Waymo LLC, a subsidiary of Alphabet ... policy related to commerce and advanced applications of artificial intelligence and machine learning. \"Tekedra has a deep ..."
+publishedDateTime: 2020-10-20T20:22:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/b17984355/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/b17984355/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17984355"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17984355"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
-    isCached: true
-
-secured: "e9bLVIbrEHueOuOeQ7A/QeTQE1u+klkyAEP24ja/9yCqn4X1L8dlwg20Z9tT6OtkVPtfj6+DdT+bbwfobncXccceZp0X1GqUwzlYXtGAQOH6jEIRw03mxbhvPipWsAAVaRdId+croNA4t1QRzqCdfTtkPKuFu/vuWpGfv17PBa69JDq8K7oG1afVkCQTKFh1c/SJzj9I2hNTXGFTCivJKQIxuFinuEG5G5YiRkUXAaOlHSG+Iu81eQCaUGhEm2yUYRrhsmZUhR4yU16zjKWUynexNj+OhAMHvFHySBk8+jP3Weh4GzHqK75a2bJ4EaCPkALkPDHm2pw0KJThQp83l4G6C9a6Nb070NHcAT8cKJk=;RRcDaYQ0Y9sgdQXJJTM9Lg=="
+secured: "zwWa9bcRmW9gQu1jyswM8DAtK2Ges7DKfzp+BjMmVmjokMEJ2Y/t8Ngbs4v70Qydbmiw3jfKKTIsSI1/C6vhSxR5TA7rd7YudSRx81gBnXcdE7TQ8nIv9Z9iKU+vX19lKXILRjGzxRO586KYeZAMBN0bnYPOl6mb/m67qdv+rOy5ullohee8LPcDpMNqSvG0zt359lCR2L11dRPSW3VAa+XaH4NvhMq2yPr7WarFAJ+387UUYpwO5Bv0y4mOgL0JGAegU2vava9Cz6oh0o0QWhdwTsLef/1glHU8ga8p1j0Do2SYucQAPspvSPSZ2ZFXr+ipDDS9h4CRbd79KJB9Ui3L6SGZkOgRfQkjVLESpzQ=;H9YTSHWBT4Yg2cel2pUB0w=="
 ---
 

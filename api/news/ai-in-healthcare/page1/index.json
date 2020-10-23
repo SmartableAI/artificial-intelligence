@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-24-imaging-and-artificial-intelligence-tools-help-predict-response-to-breast-cancer-therapy.md",
+      "title": "Imaging and Artificial Intelligence Tools Help Predict Response to Breast Cancer Therapy",
+      "excerpt": "For HER2-positive breast cancers, MRI scans that employ machine-learning algorithms can provide more guidance than biopsies alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mskcc.org/news/imaging-and-artificial-intelligence-tools-help-predict-response-breast-cancer-therapy",
+      "originalUrl": "https://www.mskcc.org/news/imaging-and-artificial-intelligence-tools-help-predict-response-breast-cancer-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mskcc.org/sites/default/files/styles/large/public/node/211630/3x2/msk909_0121_jochelson-1200x800.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mskcc.org/news/imaging-and-artificial-intelligence-tools-help-predict-response-breast-cancer-therapy?amp",
+      "cdnAmpWebUrl": "https://www-mskcc-org.cdn.ampproject.org/c/s/www.mskcc.org/news/imaging-and-artificial-intelligence-tools-help-predict-response-breast-cancer-therapy?amp",
+      "publishedDateTime": "2020-10-23T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mskcc.org",
+        "domain": "mskcc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-three-changes-impacting-healthcare-marketing.md",
       "title": "Three Changes Impacting Healthcare Marketing",
       "excerpt": "Healthcare marketers often face extremely challenging federal regulations as well as Health Insurance Portability and Accountability Act (HIPAA) rules. On top of that, patients are demanding better services from healthcare providers,",
@@ -1339,49 +1382,6 @@
         "AI in Healthcare",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-want-india-to-become-global-hub-for-artificial-intelligence-pm-modi.md",
-      "title": "Want India to become global hub for Artificial Intelligence: PM Modi",
-      "excerpt": "Prime Minister Narendra Modi on Monday said that artificial intelligence (AI ... Similarly, it can play a crucial role in healthcare and education. The RAISE summit will also give opportunity to top 15 startups will be given an opportunity to showcase ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html",
-      "originalUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/10/05/600x338/PTI05-10-2020_000245B_1601912413370_1601912427169.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html",
-      "publishedDateTime": "2020-10-05T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
