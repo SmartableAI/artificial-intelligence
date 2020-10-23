@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-24-researchers-discover-spooky-similarity-in-how-brains-and-computers-see.md",
+      "title": "Researchers Discover ‘Spooky’ Similarity In How Brains and Computers See",
+      "excerpt": "The brain detects 3D shape fragments such as bumps, hollows, shafts and spheres in the beginning stages of object vision – a newly discovered strategy of",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/",
+      "originalUrl": "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2013/07/hal-2001.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/amp/",
+      "publishedDateTime": "2020-10-23T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-activists-turn-facial-recognition-tools-against-the-police.md",
       "title": "Activists Turn Facial Recognition Tools Against the Police",
       "excerpt": "met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery; they would also prevent ...",
@@ -1447,49 +1490,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-acuant-announces-facial-recognition-software-awarded-elite-ibeta-compliancepad-level-one-and-two.md",
-      "title": "Acuant Announces Facial Recognition Software Awarded Elite iBeta Compliance/PAD Level One and Two",
-      "excerpt": "Acuant, a leading global provider of identity verification, today announced that Acuant FaceID provides facial recognition with liveness detection technology that has been awarded PAD Level 1 and Level 2 compliance by iBeta,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-government-and-politics-biometrics-computing-and-information-technology-software-3fb1cc6d39351af4d15eb9878c1e6e85",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-government-and-politics-biometrics-computing-and-information-technology-software-3fb1cc6d39351af4d15eb9878c1e6e85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

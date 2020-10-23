@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Advanced Technologies Of AI in Fintech Market Key Drivers & On-Going Trends 2020"
+    excerpt: "AI in Fintech Market has been riding a progressive growth trail over the recent past The first two quarters of the year 2020 have however witnessed heavy disruptions throughout all the industry facets which are ultimately posing an unprecedented impact"
+    publishedDateTime: 2020-10-23T18:14:00Z
+    webUrl: "https://www.openpr.com/news/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers"
+    ampWebUrl: "https://www.openpr.com/amp/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta23653869_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Unifiedpost and Google collaborate on Document AI to automate procurement data capture"
     excerpt: "Belgian fintech company, Unifiedpost Group has deployed Procurement ... Cross-industry solutions like Document AI are built to plug into your existing workflows and deliver business results from AI without having to hire an army of AI experts, or manage ..."
     publishedDateTime: 2020-10-21T13:15:00Z

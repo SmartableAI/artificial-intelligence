@@ -25,28 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "'Spooky' similarity in how brains and computers see"
-    excerpt: "The brain detects 3D shape fragments (bumps, hollows, shafts, spheres) in the beginning stages of object vision - a newly discovered strategy of natural intelligence that researchers also found in artificial intelligence networks trained to recognize visual objects."
-    publishedDateTime: 2020-10-22T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201022112606.htm"
+  - title: "Scientists Discover Surprising Similarity Between Neural Networks and Human Brain"
+    excerpt: "\"Artificial networks are the most promising current models for understanding the brain. Conversely, the brain is the best source of strategies for bringing artificial intelligence closer to natural intelligence."
+    publishedDateTime: 2020-10-23T18:06:00Z
+    webUrl: "https://futurism.com/the-byte/surprising-similarity-between-neural-networks-human-brain"
+    ampWebUrl: "https://futurism.com/surprising-similarity-between-neural-networks-human-brain/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/surprising-similarity-between-neural-networks-human-brain/amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "Researchers find 'spooky' similarity in how brains and computers see"
-    excerpt: "Deep (multilayer) networks like AlexNet have achieved major gains in object recognition, based on high capacity Graphical Processing Units (GPU) developed for gaming and massive training sets fed by the explosion of images and videos on the Internet."
-    publishedDateTime: 2020-10-23T14:31:00Z
-    webUrl: "https://hub.jhu.edu/2020/10/23/artificial-intelligence-vision-based-on-human-vision/"
-    type: article
-    provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 39
+      name: Futurism
+      domain: futurism.com
+    quality: 69
     images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/brain_computer.jpg?itok=gV6f_Y5-"
-        width: 2400
-        height: 1600
+      - url: "https://wp-assets.futurism.com/2020/10/surprising-similarity-between-neural-networks-human-brain-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "zd5n2VhGQPj0W0c37VSdDMhBh5jACbXj6Fkd17wsCHB+DqS51DAEMj64Ougke+crSY3p6JS2woLiw1vlkDcRS0ouUyMvssKDrqZBkYnuqifsn/qCPfMj7pW7x4CiX3GqFxR3QV9vNlUqIrbGra/Pv/GAfDhD+0hwWPOYhwxflEwU05mk4kFa3QKZMwvSrRKZkzfmmJZi29v4zbUYnSlAiwBVnyU+Lu5L3Qa+arHO9AFp5XqR4PhskPypuJIm/xCMHj4+CkQ3eT4+sfYQm60k5mXSeO1qXVINPgg+BNEoJhn2BKVU8fd3u6AXs4nwgCSFx0Xn3L2Fo5XKE9Iga7OjQm7U2EVk6ZOqSuHtDfQz0As=;14UfSnEyINvTcKlavEdsKA=="

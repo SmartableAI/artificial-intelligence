@@ -45,22 +45,6 @@ related:
         width: 1280
         height: 961
         isCached: true
-  - title: "300 SC judgments translated to vernacular languages since last year"
-    excerpt: "The translated languages were decided on the basis of number of requests coming to the SC from various states."
-    publishedDateTime: 2020-10-19T02:24:00Z
-    webUrl: "https://www.newindianexpress.com/nation/2020/oct/19/300-sc-judgments-translated-tovernacular-languages-since-last-year-2212127.html"
-    ampWebUrl: "https://www.newindianexpress.com/nation/2020/oct/19/300-sc-judgments-translated-tovernacular-languages-since-last-year-2212127.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2020/oct/19/300-sc-judgments-translated-tovernacular-languages-since-last-year-2212127.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/10/19/w600X390/Supreme_court121212.jpg"
-        width: 600
-        height: 390
-        isCached: true
 
 secured: "crVq5dpHoSEJDgJgitpjB/OhuH/0+yAcTfubgg26hgmU+sXMxeLWOSyhZWBWuWPwEp8YBBKnLdvwMZkKSvSaP8ymnbcPPj7hvC04cs+SV/zNSoVjhyBrhIVerrcxrxRxsaZaYbYGXfMyx1JxPIZgLCL3H5dcrmJwWkgYMG1PihAAOouYdc11rq0vPdczI4SkG/dLxbwsLonQQgk2hqb5E9tlycInPo0BEiJVuSkggCIyu+n8ivwi0iy5s+ZgBwrytgKHhQwaD39SIhnWMO2OKmPfv6GZ1bQ5rHig/B0TkI61h9MKkqWcJLdXUR5fIK4NO8xk9JwyCltBdqMU7/scLEpRvC0u8oH7Y+gKpkfqxZNjhPh2XiJFZ64ij6jpXW9ORu6Tiv/B9HpFJB8ICZakQ5kc4PC3+nMX7ieoNNlKzQOKSMEswD8nBNWB0ki0ZbgxNVJWZE/kOXoNGmyTMYPjoY19oqhKz46AxkUNQnULi8W6guiOWf0Z+WsC1F9+j6OX5FhrGd1em+SJJr9qD+tyBw==;U+TSWfrbykIfDPq6WTJDZA=="
 ---

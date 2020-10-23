@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/machine-learning-helps-translate-lost-lang
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/machine-learning-helps-translate-lost-languages-21643696/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://news.mit.edu/sites/default/files/images/202010/Ugaritic-language.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "300 SC judgments translated to vernacular languages since last year"
-    excerpt: "The translated languages were decided on the basis of number of requests coming to the SC from various states."
-    publishedDateTime: 2020-10-19T02:24:00Z
-    webUrl: "https://www.newindianexpress.com/nation/2020/oct/19/300-sc-judgments-translated-tovernacular-languages-since-last-year-2212127.html"
-    ampWebUrl: "https://www.newindianexpress.com/nation/2020/oct/19/300-sc-judgments-translated-tovernacular-languages-since-last-year-2212127.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2020/oct/19/300-sc-judgments-translated-tovernacular-languages-since-last-year-2212127.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/10/19/w600X390/Supreme_court121212.jpg"
-        width: 600
-        height: 390
         isCached: true
 
 secured: "RzU1xqiWRnCXvRY9qipT3WxSMMDySvoK+63RCvRYR6YDdmTSAsqAuc7b23af/ndUM0Lfm4Fvxl9vKYhqQZjtv5rW+B3LVTgEHg6ePRD/ygViRlqxeXUfRLcEDT0QXnlaH/c6UOD12eCkBM9MFtJgf9UqYrJTaudU0v5hOgoZLvS6BUkZRO3sJl1DiP2cuBNk5bt9gKluLptRPZkrYJsptvvAjWZLuMQqyTIXBQeKwH3RGOOsYJ+zKBmX9nCrMLiIDbS4Cd30kTEmjwAcwQLhd+RdNXkQ+KFHYzVXZ63tPZk+74G+neWoR5aW8qIbSVOPGVcjXRvxfwN4o+H/+DMDq8KzBcqWl3QMpY4BkQXKWzxIAjwSTgr0Kc9wWh51MiWayXGSRtFBLNAr/9fJ334n1KBEKS9eUBylb7vifftqTqz0QKokRTDeku4wuEAg9Rf8q02jo7I26zsyBCozPeqGDcXS4zyGWlsikLt2zx/mNnFsKgTTgemAcc7+sjFp5H9DmxxBo8d4blomOtIZS4OsnQ==;YUG88p0oVDVSNNvjBmISGQ=="

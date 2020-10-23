@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fintech-group-unifie
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/19/692f0fae-0df0-11eb-94e0-02af7fd927c6_image_hires_094836.jpg?itok=BWqBzU0p&v=1603072142"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Advanced Technologies Of AI in Fintech Market Key Drivers & On-Going Trends 2020"
+    excerpt: "AI in Fintech Market has been riding a progressive growth trail over the recent past The first two quarters of the year 2020 have however witnessed heavy disruptions throughout all the industry facets which are ultimately posing an unprecedented impact"
+    publishedDateTime: 2020-10-23T18:14:00Z
+    webUrl: "https://www.openpr.com/news/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers"
+    ampWebUrl: "https://www.openpr.com/amp/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta23653869_g.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "AI in Fintech Market Witness the Growth of $7,305.6 Million by 2022"
     excerpt: "According to a research report AI in Fintech Market by Component Solution Service Application Area Virtual Assistant Business Analytics Reporting Customer Behavioral Analytics Deployment Mode Cloud On Premises and Region Global forecast to 2022 the AI in Fintech market size"

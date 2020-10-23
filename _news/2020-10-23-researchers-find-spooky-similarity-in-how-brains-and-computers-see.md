@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers Discover ‘Spooky’ Similarity In How Brains and Computers See"
+    excerpt: "The brain detects 3D shape fragments such as bumps, hollows, shafts and spheres in the beginning stages of object vision – a newly discovered strategy of"
+    publishedDateTime: 2020-10-23T17:21:00Z
+    webUrl: "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/"
+    ampWebUrl: "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/amp/"
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 58
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2013/07/hal-2001.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "'Spooky' similarity in how brains and computers see"
     excerpt: "The brain detects 3D shape fragments (bumps, hollows, shafts, spheres) in the beginning stages of object vision - a newly discovered strategy of natural intelligence that researchers also found in artificial intelligence networks trained to recognize visual objects."
     publishedDateTime: 2020-10-22T00:00:00Z
@@ -34,20 +50,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Researchers discover 'spooky' similarity in how brains and computers see"
-    excerpt: "The brain detects 3D shape fragments (bumps, hollows, shafts, spheres) in the beginning stages of object vision - a newly discovered strategy of natural intelligence that Johns Hopkins University researchers also found in artificial intelligence networks trained to recognize visual objects."
-    publishedDateTime: 2020-10-22T15:05:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/jhu-rd102120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "ftpf+v0/pcYLFv5SdhTDJi0QStA1wVOeGVowChfGfo3/kBIME3wy3uJxKJd0/Rh4iSsWFBrJGJireMz+XuL1hCwMCvhKHw+q1nwohzysnxfz/gw5+cH3mHsTHuzP4Iu0q3XuObdyLg7zIcANKoYl3wFMYbcF4ZSACBwH2KfsFba2p3lf/G32E+hneoaljr3JMxBaQJT5kmnMLx5z7Fg2BREWO3mhvX+Y0QsH6o7028JChty1Mi89hC3PO7QZhcYHt/T+K3/Zs6vvxs2XRJXAvDymLW31QQEG1mxUDUEhOmQZq/+kcKahk5PnQ+Wxdnf1+LcLeaOGBuzsJbs+q/xhR4ToavSyG/7YO04I2YT/TL7Rek4ROkh3rKz/Oqfm40v6UJQx/ZM26PjADHtzXgIyvW9MJXvRkmjUQzP9nc6sxBAOnraqLdK42oH5/87V7ZDGneqpIEP4Gh159JQPf/mTHJHntDbAYVaZuD7WMvwg0NjDgoznShUwIKAjF6fYiTm1OrTwp6B33woj1DLJXdn+Eg==;Sn88QcYTWUEqjngNsZ8nTQ=="
 ---

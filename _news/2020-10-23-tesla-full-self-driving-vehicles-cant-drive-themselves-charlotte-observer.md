@@ -139,6 +139,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Watch early testers try Tesla's Full Self-Driving mode for the first time"
+    excerpt: "On Friday, we finally got a glimpse at a long-awaited feature that Elon Musk rolled out this week for a select group of Tesla owners: Full Self-Driving mode. Only a small group of Tesla-chosen ..."
+    publishedDateTime: 2020-10-23T18:26:00Z
+    webUrl: "https://mashable.com/video/tesla-full-self-driving-early-test-drives/"
+    ampWebUrl: "https://mashable.com/video/tesla-full-self-driving-early-test-drives.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-early-test-drives.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 88
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F10%252F23%252Fd2%252F48c38dd430d84e6bb64dc47643ea67e7.6a961.jpg%252F1200x630.jpg?signature=Wzt3HAjZm8sE5SgscR16FQXo_fQ="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla to roll out beta of Full Self-Driving on Tuesday, according to Elon Musk"
     excerpt: "Tesla's Full Self-Driving beta is rolling out to select customers tonight, according to a tweet published Tuesday afternoon by Tesla boss Elon Musk. In the tweet, Musk claims that the rollout will be \"extremely slow & cautious.\" Still, it's not exactly ..."
     publishedDateTime: 2020-10-20T22:54:00Z
@@ -186,6 +202,49 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538480421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1CB"
         width: 763
         height: 545
+        isCached: true
+  - title: "Tesla Full Self-Driving and Autonomous Driving Levels Explained"
+    excerpt: "Full self-driving. That was the key takeaway from Tesla’s (TSLA) report the other night. Dave Bartosiak here with Trending Stocks. You can all kiss your Elon Musk effigies and light a couple candles at your shrines because he has done it again."
+    publishedDateTime: 2020-10-23T17:11:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-full-self-driving-and-autonomous-driving-levels-explained-2020-10-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/tesla-full-self-driving-and-autonomous-driving-levels-explained-2020-10-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-full-self-driving-and-autonomous-driving-levels-explained-2020-10-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
+  - title: "Tesla Full Self-Driving Beta: a collection of video demonstrations by early testers"
+    excerpt: "Driving Beta is starting to reach more cars in the fleet and customers, which are basically being used as testers, are starting to share video demonstrations. Here we share a few of them for a better look at Tesla’s FSD Beta."
+    publishedDateTime: 2020-10-23T13:56:00Z
+    webUrl: "https://electrek.co/2020/10/23/tesla-full-self-driving-beta-video-demonstrations/"
+    ampWebUrl: "https://electrek.co/2020/10/23/tesla-full-self-driving-beta-video-demonstrations/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/23/tesla-full-self-driving-beta-video-demonstrations/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 83
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?quality=82&strip=all"
+        width: 1851
+        height: 853
+        isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ beta test has caught the attention of federal safety regulators"
+    excerpt: "Federal regulators are keeping their eye on the rollout of Tesla’s “Full Self-Driving” experiment. This week, the automaker began beta testing its latest advanced driver assist software with a select group of customers,"
+    publishedDateTime: 2020-10-23T17:57:00Z
+    webUrl: "https://www.theverge.com/2020/10/23/21530411/teslas-full-self-driving-beta-test-nhtsa"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/23/21530411/teslas-full-self-driving-beta-test-nhtsa"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/23/21530411/teslas-full-self-driving-beta-test-nhtsa"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 79
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/iUedBadAknKFELG0WBqm7ZD4N3k=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67679166/acastro_170727_1883_0001-2.0.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Tesla says it's finally releasing 'full self-driving' software after it had to 'rewrite everything'"
     excerpt: "Tesla has bucked every trend when it comes to autonomy, sometimes with deadly results. This release is being done \"extremely slow & cautious.\""
@@ -235,6 +294,20 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended"
+    excerpt: "Self-driving technology is a holy grail that promises to forever change the way we interact with cars. Thus far, there’s been plenty of hype and excitement, but full vehicles that remove the"
+    publishedDateTime: 2020-10-23T17:03:00Z
+    webUrl: "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 65
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/10/teslafsdmain.jpg"
+        width: 3000
+        height: 1815
+        isCached: true
   - title: "Explainer: Tesla's Self-Driving Ambitions Get a Reboot"
     excerpt: "Tesla's \"Full Self Driving\" software would be an important source of revenue, once it is fully deployed. Tesla owners have paid $8,000 up front in hopes of eventually receiving the upgrade. In the second quarter alone,"
     publishedDateTime: 2020-10-21T17:19:00Z
@@ -261,20 +334,20 @@ related:
         height: 315
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-23T00:53:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+    excerpt: "The conflicting messages have experts in the field accusing Tesla of deceptive, irresponsible marketing that could make the roads more dangerous."
+    publishedDateTime: 2020-10-23T14:11:00Z
+    webUrl: "https://www.wkyc.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: WKYC3
+      domain: wkyc.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_135a11bded104a2cbee932740c5733a6_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://media.wkyc.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Watch Tesla's Beta of \"Feature Complete Full Self-Driving\""
     excerpt: "See the included video to watch the beta in action as customer vehicles autonomously navigate through left-hand turns, roundabouts, and more. Although Tesla has said the user interface will be updated as the rewrite is finalized,"
@@ -292,6 +365,38 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "We're all guinea pigs for Tesla's latest self-driving tech"
+    excerpt: "Tesla is beta-testing its latest self-driving technology with a small group of early adopters, a move that alarms experts and makes every road user — including other motorists, pedestrians and cyclists — unwitting subjects in its ongoing safety experiment."
+    publishedDateTime: 2020-10-23T16:14:00Z
+    webUrl: "https://www.axios.com/tesla-self-driving-beta-software-6d7210e5-02f2-4b25-9cba-c4a0d816a024.html?ref=hvper.com"
+    ampWebUrl: "https://www.axios.com/tesla-self-driving-beta-software-6d7210e5-02f2-4b25-9cba-c4a0d816a024.html?ref=hvper.com"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/tesla-self-driving-beta-software-6d7210e5-02f2-4b25-9cba-c4a0d816a024.html?ref=hvper.com"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 59
+    images:
+      - url: "https://images.axios.com/aHdSgZCK4hB-ioOnGeMrDpGczyE=/fit-in/1366x1366/2020/10/23/1603465607532.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Tesla Bros Are Freaking Out Right Now About the New Full Self-Driving Beta"
+    excerpt: "\"It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road.\""
+    publishedDateTime: 2020-10-23T14:52:00Z
+    webUrl: "https://futurism.com/reactions-tesla-full-self-driving-beta"
+    ampWebUrl: "https://futurism.com/reactions-tesla-full-self-driving-beta/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/reactions-tesla-full-self-driving-beta/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2020/10/reactions-tesla-full-self-driving-beta-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Tesla launches ‘Full Self Driving’ beta to select drivers"
     excerpt: "The Early Access Programme serves as testing platform to help fix software bugs Tesla CEO Elon Musk has revealed the company has started rolling out its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers."
     publishedDateTime: 2020-10-22T07:43:00Z
@@ -305,6 +410,22 @@ related:
       - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_1711471991.JPG"
         width: 700
         height: 467
+        isCached: true
+  - title: "Federal Regulators Are Keeping a Close Watch on Tesla’s “Self-Driving” Beta Test"
+    excerpt: "\"The most advanced vehicle technologies available for purchase today provide driver assistance and require a fully attentive human driver at all times performing the driving task and monitoring the surrounding environment."
+    publishedDateTime: 2020-10-23T19:14:00Z
+    webUrl: "https://futurism.com/the-byte/federal-regulators-keeping-close-watch-tesla-self-driving-beta-test"
+    ampWebUrl: "https://futurism.com/federal-regulators-keeping-close-watch-tesla-self-driving-beta-test/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/federal-regulators-keeping-close-watch-tesla-self-driving-beta-test/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 54
+    images:
+      - url: "https://wp-assets.futurism.com/2020/10/federal-regulators-keeping-close-watch-tesla-self-driving-beta-test-1-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Tesla Rolls Out Full Self-Driving Beta Version, With A 'Slow' And 'Cautious' Approach"
     excerpt: "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said that the automaker is rolling out the beta version of its full self-driving software, starting Tuesday night. What Happened: Musk tweeted that the rollout of the software will be “extremely slow [and] cautious ..."

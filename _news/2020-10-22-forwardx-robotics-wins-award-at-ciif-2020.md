@@ -28,7 +28,7 @@ related:
   - title: "ForwardX Robotics Wins Award at CIIF 2020"
     excerpt: "ForwardX Robotics, the vision-first developer of intelligent mobile robotics, has been awarded the ‘CIIF Robot Award' by the 22nd China International Industry Fair for its Max 200 Lift autonomous mobile robot (AMR)."
     publishedDateTime: 2020-10-23T12:27:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2020/10/23/forwardx-robotics-wins-award-at-ciif-2020/15844/"
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=15844"
     type: article
     provider:
       name: Robotics Tomorrow
