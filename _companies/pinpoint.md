@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "pinpoint_sw"
   url: "https://twitter.com/pinpoint_sw"
-  followers: 329
+  followers: 330
 
 size: 11-50 employees
 yearFounded: 2016
