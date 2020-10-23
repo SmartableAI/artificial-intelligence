@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Self-driving shuttle debuts in high-traffic Virginia spot"
-excerpt: "The future of transportation arrived in northern Virginia, looking like a big blue toaster on wheels that seats six and drives itself through the region’s notorious"
-publishedDateTime: 2020-10-22T19:32:00Z
-originalUrl: "https://tulsaworld.com/news/national/self-driving-shuttle-debuts-in-high-traffic-virginia-spot/article_2830e110-2490-50d9-9779-2bae86128126.html"
-webUrl: "https://tulsaworld.com/news/national/self-driving-shuttle-debuts-in-high-traffic-virginia-spot/article_2830e110-2490-50d9-9779-2bae86128126.html"
-ampWebUrl: "https://tulsaworld.com/news/national/self-driving-shuttle-debuts-in-high-traffic-virginia-spot/article_2830e110-2490-50d9-9779-2bae86128126.amp.html"
-cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/self-driving-shuttle-debuts-in-high-traffic-virginia-spot/article_2830e110-2490-50d9-9779-2bae86128126.amp.html"
+excerpt: "The future of transportation arrived in northern Virginia, looking like a big blue toaster on wheels that seats six and drives itself through the region’s notorious traffic"
+publishedDateTime: 2020-10-22T18:48:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/driving-shuttle-debuts-high-traffic-virginia-spot-73767311"
+webUrl: "https://abcnews.go.com/Technology/wireStory/driving-shuttle-debuts-high-traffic-virginia-spot-73767311"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-shuttle-debuts-high-traffic-virginia-spot-73767311"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-shuttle-debuts-high-traffic-virginia-spot-73767311"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/c/8e/c8eb19ae-1aaf-51ed-8a20-ad987be11646/5f91dac9b745f.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://s.abcnews.com/images/Technology/WireAP_e122141dd68240e89427b0842fd7e384_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "i5/9hCUnssZHIC3129sAovz7f+Ngcj2SodIpqvcVXoVAYckCaiyLIWG0J28PwjUqACUBwCXYKCLIHGeWSnCRFN2HJF2mLlXCmBZZDdbX0JTXQabf4xtw2DbV64Povin9nvUCMT/iB/lS47U8k6DJZl4FxOYTwKBhp/nD75eQpcAtDnZUrIXZfdN2XIBwykuDDTJRh5zFALUdj1zAnr3cbTjOW1EfSJkrbC5MMTmVYxfgr+d1O2KWZKI3UOPvtbuY+NbiLj9w3t/NTTFCpe/EbZWCI0CR5KZGPimug3KyWgmZ1Dgdm6fVOxmg1HEe3V0b12LhxVo1dU5aKWic8Z+HJc/FEKPeSOK2yrnN3gUCqzE=;2qdsoS5Lw9Ybo1WvD/80VA=="
+secured: "w5KqnvCP5HsyGHDQXnicqBb2cpGXYF4i7f7b1bM1KFjeWG/OcTOmCOCrS88rj5wHd+nomzoJpOo0RBS4BPxuZ8bsc63OovOvOvWdXA4/EnMP7MG51KfZq+/EMEQycTl3QeOMOS9v/FF5F8qaMBhNJyWdtujyjH+mlNc4ZsSWC5CgQOT2AsBshxMdU7N2y+6+1ilKRXdZcDQrm39gqKbK5kNvw79e7od4BhulsUUq8w8TU70Zy1A/ngqDvV4T1ai56RABwhd7yVYpq2Ky+OhnROjUrW2PCD6LejETW883S/AnyrL5bQooIZo/KJCMyE/hhQg1J4Myg6rxeI4tuScjH9EUFdgVzgklKIDjGHHND7A=;W64qGXDU1ewdX5JCPR5QkA=="
 ---
 

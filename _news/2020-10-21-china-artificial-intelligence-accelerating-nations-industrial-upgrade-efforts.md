@@ -35,34 +35,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Applied Materials and BE Semiconductor Industries to Accelerate Chip Integration Technology for ..."
-    excerpt: "Applied Materials, Inc. and BE Semiconductor Industries N.V. (Besi) today announced an agreement to develop the industry’s first complete and proven equipment solution for die-based hybrid bonding, an emerging chip-to-chip interconnect technology that enables heterogeneous chip and subsystem designs for applications including high-performance computing,"
-    publishedDateTime: 2020-10-22T05:00:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-industrial-technology-western-europe-environment-6237dea4a2eb9a3f56bee050923a8786"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Applied Materials and BE Semiconductor Industries to Accelerate Chip Integration Technology for the Semiconductor Industry"
-    excerpt: "SANTA CLARA, Calif. and DUIVEN, the Netherlands, Oct. 22, 2020 -- Applied Materials, Inc. and BE Semiconductor Industries N.V. today announced an"
-    publishedDateTime: 2020-10-22T14:54:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/applied-materials-and-be-semiconductor-industries-to-accelerate-chip-integration-technology-for-the-semiconductor-industry/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 13
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/NAND-shutterstock-477235393_690x-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
   - title: "Blue Hexagon Integrates with AWS Security Hub for AI-powered Cloud Security and Accelerating Digital Transformation of the Global Economy"
     excerpt: "Blue Hexagon integrates with AWS Security Hub to deliver a deep-learning Cloud Network Detection and Response (NDR ) solution on Amazon Web Service."
     publishedDateTime: 2020-10-20T14:17:00Z

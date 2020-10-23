@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The AI that spots Alzheimer's from cookie drawing"
+    excerpt: "A dated line drawing of two children stealing cookies behind their mother's back is being used by an artificial intelligence system to detect the onset of Alzheimer's disease. The system uses voice samples of people describing the scene to predict whether healthy people may get the disease."
+    publishedDateTime: 2020-10-22T22:31:00Z
+    webUrl: "https://www.bbc.com/news/technology-54538228"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-54538228"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54538228"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1010/production/_114921140_oldwoman.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "IBM is a step closer to developing accurate AI prediction model for Alzheimer's"
     excerpt: "In collaboration with Pfizer, Big Blue has developed an AI model using speech samples provided by the Framingham Heart Study."
     publishedDateTime: 2020-10-22T15:00:00Z

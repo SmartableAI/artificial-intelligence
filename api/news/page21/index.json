@@ -450,6 +450,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-the-rise-of-computer-vision.md",
+      "title": "The Rise of Computer Vision",
+      "excerpt": "These days, we’re producing more visual data than ever before. With revenues from computer vision expected to soar into the billions over the next few years, many organizations have already ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision",
+      "originalUrl": "https://www.computerworld.com/resources/208956/the-rise-of-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias.md",
       "title": "AI and ethics: One-third of executives are not aware of potential AI bias",
       "excerpt": "The majority of consumers expect companies to be accountable for their AI systems, yet about half of companies do not have a dedicated member overseeing ethical AI implementation.",
@@ -670,58 +713,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-the-rise-of-computer-vision.md",
-      "title": "The Rise of Computer Vision",
-      "excerpt": "These days, we’re producing more visual data than ever before. With revenues from computer vision expected to soar into the billions over the next few years, many organizations have already ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/208956/the-rise-of-computer-vision",
-      "originalUrl": "https://www.infoworld.com/resources/208956/the-rise-of-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T07:07:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },

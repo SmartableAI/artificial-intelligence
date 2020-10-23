@@ -44,9 +44,9 @@ related:
   - title: "Chip industry is going to need a lot more software to catch Nvidia’s lead in AI"
     excerpt: "Topic: Artificial Intelligence  The semiconductor industry is in the midst of a renaissance in chip design and performance improvement, but it will take a lot more software to catch up with graphics chip titan Nvidia,"
     publishedDateTime: 2020-10-21T20:17:00Z
-    webUrl: "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
     type: article
     provider:
       name: ZDNet
@@ -63,6 +63,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
+  - title: "Nvidia chips again smash AI performance records"
+    excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services."
+    publishedDateTime: 2020-10-22T08:14:00Z
+    webUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+    ampWebUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 74
+    images:
+      - url: "https://www.sify.com/uploads/nvidia_chip_ians_ukvnDpcacajgj.jpeg"
+        width: 950
+        height: 616
+        isCached: true
   - title: "Nvidia leads in AI hardware, software performance, says MLPerf benchmark tests"
     excerpt: "The benchmarks also showed that NVIDIA T4 Tensor Core GPU continues to be a solid inference platform for mainstream enterprise, edge servers and cost-effective cloud instances"
     publishedDateTime: 2020-10-22T06:19:00Z
@@ -144,15 +160,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Nvidia chips again smash AI performance records"
-    excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services."
-    publishedDateTime: 2020-10-22T10:04:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20201022/3645914.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
   - title: "STC partners Nvidia on AI computing infrastructure"
     excerpt: "Saudi operator STC said it;s working with Nvidia to build Saudi Arabia's first AI and deep learning cloud infrastructure, enabling domestic enterprises to adopt AI. STC is joining the Nvidia Partner Network (NPN) and will be the first cloud service provider in the region to bring AI capabilities to the"
     publishedDateTime: 2020-10-21T14:55:00Z
@@ -163,6 +170,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "tPbgwIZyX85go/39pntNGdDlaUGY0KyMcFxokz9/1arcQqC7bzVwuGNUSkoXyLno6Ekn0bkcJ+ShXD+n4GRSeW09NuWTg9TDI+MH03QacY0J6R4ppp2NiD6j2J7oUHZAFBNXTycsRPHcqKs5Pp8fNTTzt4AyenF1bXaRkbjeOMaAmSi4W631oLACj1sT7AXCoAjwGFnnRGL431fBJynbYcXHVDs9e77xnQarkekH5gptLYGsBlyIFN7fo93grFP266qvhdAj3E3BWe6pXG1+rWN4afUeHtnySgHQpcPNfBJQ9XE5p+0TDmv2drY61DR2zzaMBsnZImsyTqbhyQjdY+ALQLAXu6U7u8/zENAHF8U=;Pk6CjDT0/8SREvpbSVI7sw=="
+secured: "VsKQ1HChjHN5mQfqE90YdoJCo2MGxMHiprxP8qnf5jDm7PR55hEEL3OeTRCsC7UhytDiS4z/HRlNzJH8Q0wWvA/Z36QZ9JEIpviTA3KEeXUgqMuYj77ae20RwKqMUhu1LHPaCuIbHGOrCyPdhgfvDuoDmYUxgPQUJHIgDGbNtI8SPdKV7M7NGIkmWYNeyzwnGjpBYVzT+tfTk9Sj/ZQIvPHOh3kZBOiL+T+KCHGXTYZHXzbbSLBhUMEf9omoSJrMB+MzBBfmw3GkzP7SLETIhfIo0RPKvJb1LApOgFRilG0ItPOnMow5z3uuO8qBfvrm0qlkH+Z8WfMdeyFJGRQmlvDwQEwtt3jgtps9CPwFz6U1EBco3Qgo/UbiU3RIsG/E1S98Y8bX0obA1H4A7hE1nHcKPr6ooA4i7qvuBAGte/LTixsyHrruDZi0PAsl4nqTKWKBpwbB+CZX/f7gg/A/7rGQw9MeaJxGhaO5qK044OxWgohH5xvcm8j0/GWs03SR1widAaWAGRHyfPQxWk5SGQ==;AcQUe36VYKgMTBNrN9OPJw=="
 ---
 

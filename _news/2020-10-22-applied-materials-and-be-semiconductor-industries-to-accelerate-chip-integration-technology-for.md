@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence accelerating nation's industrial upgrade efforts"
-    excerpt: "CHEN XIAOGEN/FOR CHINA DAILY Artificial intelligence, the latest facet of information technology, has gained increasing momentum and been widely applied in various sectors with tremendous potential, thus becoming a driving force of scientific and technological development during China's 13th Five-Year Plan (2016-20) period."
-    publishedDateTime: 2020-10-20T10:06:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202010/20/WS5f8e4618a31024ad0ba7fc21.html"
+  - title: "Cruise Industry Compliance Tips: Facial Recognition Technology"
+    excerpt: "In the past few years, the commercial use of facial recognition technology has advanced at an explosive rate, expanding into numerous industries and trades."
+    publishedDateTime: 2020-10-21T13:19:00Z
+    webUrl: "https://www.marinelink.com/news/cruise-industry-compliance-tips-facial-482600"
+    ampWebUrl: "https://www.marinelink.com/amp/news/cruise-industry-compliance-tips-facial-482600"
+    cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/cruise-industry-compliance-tips-facial-482600"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 38
+      name: Marine Link
+      domain: marinelink.com
+    quality: 59
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202010/20/5f8e4618a31024adbd9af085.jpeg"
-        width: 720
-        height: 480
+      - url: "https://images.marinelink.com/images/maritime/w800h600pad/pixelmania-adobe-stock-117413.jpeg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "China: Artificial intelligence accelerating nation’s industrial upgrade efforts"
-    excerpt: "Artificial intelligence, the latest facet of information technology, has gained increasing momentum and been widely applied in various sectors with tremendous potential, thus becoming a driving force of scientific and technological development during China’s 13th Five-Year Plan (2016-20) period."
-    publishedDateTime: 2020-10-21T15:08:00Z
-    webUrl: "https://www.hellenicshippingnews.com/china-artificial-intelligence-accelerating-nations-industrial-upgrade-efforts/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/china-artificial-intelligence-accelerating-nations-industrial-upgrade-efforts/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/china-artificial-intelligence-accelerating-nations-industrial-upgrade-efforts/amp/"
-    type: article
-    provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 35
   - title: "Applied Materials and BE Semiconductor Industries to Accelerate Chip Integration Technology for the Semiconductor Industry"
     excerpt: "SANTA CLARA, Calif. and DUIVEN, the Netherlands, Oct. 22, 2020 -- Applied Materials, Inc. and BE Semiconductor Industries N.V. today announced an"
     publishedDateTime: 2020-10-22T14:54:00Z
@@ -64,15 +55,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Blue Hexagon Integrates with AWS Security Hub for AI-powered Cloud Security and Accelerating Digital Transformation of the Global Economy"
-    excerpt: "Blue Hexagon integrates with AWS Security Hub to deliver a deep-learning Cloud Network Detection and Response (NDR ) solution on Amazon Web Service."
-    publishedDateTime: 2020-10-20T14:17:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201020005384/en/Blue-Hexagon-Integrates-with-AWS-Security-Hub-for-AI-powered-Cloud-Security-and-Accelerating-Digital-Transformation-of-the-Global-Economy"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
 
 secured: "kAPvuLqcpMbLwf7MHieghrtIcB6isIy+37PZCwQDzTSjQkDJaWt0pMXHHsuKZMBwPVWn5a7c8rEXhW5J902FsOwG/AlSUNUhwg8n/GYCx98MEL0Ht1HgSBHL+6rEPkpxIhHM9JRadw6a92z3QwjjJdNl94Wd+gNgei0PLjWoR50CpfpiJnch2pfzzltDfQiIl0D9QVaxV9cyq2GUUNQzrZIPnzsHvWmzysnDpcgixk+5xM0pa8xquDzJID3ejUBY29ooAfmtddXRI5BbNHjDqaU1aCdfInLB6D2p/bpeo8/zW/qEVGwlEhmiZrayAgLL05wwPHxlG+nfuAEvlWxBW/HdIAPBdqpeeDGBeEZIC7Y=;E6lFtyoHJq27Z/mXi/jljw=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-mon
 ampWebUrl: "https://venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/10/3fad1eb9-0c58-4da9-81a4-11a6bc8f67ac-e1602617584749.png?w=1200&strip=all"

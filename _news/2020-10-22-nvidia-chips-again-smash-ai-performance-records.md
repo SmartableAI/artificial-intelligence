@@ -2,21 +2,29 @@
 category: news
 title: "Nvidia chips again smash AI performance records"
 excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services."
-publishedDateTime: 2020-10-22T10:04:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20201022/3645914.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20201022/3645914.html"
+publishedDateTime: 2020-10-22T08:14:00Z
+originalUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+webUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+ampWebUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.sify.com/uploads/nvidia_chip_ians_ukvnDpcacajgj.jpeg"
+    width: 950
+    height: 616
+    isCached: true
 
 related:
   - title: "New MLPerf Data Shows Competition Increases In AI, But NVIDIA Still Leads"
@@ -38,9 +46,9 @@ related:
   - title: "Chip industry is going to need a lot more software to catch Nvidia’s lead in AI"
     excerpt: "Topic: Artificial Intelligence  The semiconductor industry is in the midst of a renaissance in chip design and performance improvement, but it will take a lot more software to catch up with graphics chip titan Nvidia,"
     publishedDateTime: 2020-10-21T20:17:00Z
-    webUrl: "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
     type: article
     provider:
       name: ZDNet
@@ -162,6 +170,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "5hadLSLt/ZGtz+jJVc1NYhRBFKBM9J+P/kODRdeTmE8dq2mmnptjZdtKgFOsfGJZQlNi8UdfDtOzwb26KHQ8OgzzLfpIKC3Hw0QMIV+u4wIq4u64j3E4NoybCvXXEWdhZQVsKKBvLr26Pgzow6fBwe33QlF7TX3l8k9IviLUZFR3MjiGHR/HUixaGPoItmEFiF1mrMpyDOYJHpGVsUFA71CxlzuYX+KDk/mQlY4+E2IDIGM4/cIlYwjkLlkNpjUFVuzZwPZtR15noHjNGl7D2T1R6YIJrzNK572F0wj1KJXH69CNBKRgZSgDgTbcxa/UAu7n9vZUtDVEhOyRrf4tCgyb+n9Rc8jsRx1T0OUj5mU=;Xi26D3+tg3+6OFlQBzeDTw=="
+secured: "dc6BeHR68kZmSgcw/Wf+o7Vxc5Mqu+Nsw8CSEHQhHlWbLMSswSu6EZibm4/pB89fkLuqbVcBGzOOBJ8CeDwFoKY8AyqdC4W7tmUn3q8yWmm5qHGIGK5HUyNenkJzSzocJ2a/1BfBAURgH6a7T7NxIk+2RcmyJaJFdznoXR9Q/NBwvj6X96qLvOshl79xHYYV+uJgLH2Jo42lWaAI11KiamluR9WWjjA1zx2797zQ/9ZZDk0nqBDZRvqNQc6KFdliapsAm+xkZZVWjKgs9OCzrlp6N846Jp8txsDfYRSnBrqkQ+ub+jnatWL7rFTGdMY0gK4CGcGVYyY9q8C3ZQQYNeZmzbgzTA/WOYHCIZbvtL8=;OLPSNbNDXPoinWvuWSrYMw=="
 ---
 

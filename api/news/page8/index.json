@@ -992,7 +992,7 @@
     {
       "path": "_news/2020-10-14-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
       "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
-      "excerpt": "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering ...",
+      "excerpt": "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment.",
       "sourceUrl": null,
       "webUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
       "originalUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
@@ -1028,9 +1028,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {

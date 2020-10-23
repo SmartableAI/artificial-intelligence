@@ -24,6 +24,22 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Facial recognition cameras could be used to slow COVID-19 spread at Tokyo 2020"
+    excerpt: "Cameras equipped with facial recognition software could be deployed at next year’s Olympic and Paralympic Games in Tokyo to combat the spread of"
+    publishedDateTime: 2020-10-22T19:06:00Z
+    webUrl: "https://www.insidethegames.biz/articles/1099883/facial-recognition-system-tokyo-2020"
+    type: article
+    provider:
+      name: Inside The Games
+      domain: insidethegames.biz
+    quality: 35
+    images:
+      - url: "https://www.insidethegames.biz/media/image/188752/o/Screening+area+GettyImages-1042325212.jpg"
+        width: 2048
+        height: 1602
+        isCached: true
+
 secured: "QGt+QYBtiNpp7fRspj9UIDY0lGSyWgOZha3iUJfFM4b9ZOMAcWHmSLpU/yyCOdx48/GawH0QEBCupKOKLQVN1G4laxnQU/HB56kotVduJdRThTotc0oGLA6JwOCgIGyYOeJOJvskgHcEHDuhsPsNznUzMZvRxZGzs7Six05QXCWMJl6RNuRT3tWp0Lmr/1tfMgCU8xR3KfNRk4FFBYPFXxAg/rgKVRC/U9l5akHvwbBLnH4s63dnBMUoBzNvKgXzxQvXfOfqALXUQLDIY25PWiWvfmfmUstwGYxVyPEj9SzxgVB/F6s+U+p/Tv751g51MfqqxdhX/qTQpEA+K0IbTKmzzd054E8ar6rqmBRutPE=;FH4LrZDJflONvCy4EHg7qw=="
 ---
 

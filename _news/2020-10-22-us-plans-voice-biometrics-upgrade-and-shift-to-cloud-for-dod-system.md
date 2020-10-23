@@ -53,6 +53,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Face biometrics researchers find possible route to better accuracy across races, genders"
+    excerpt: "A sampling of commercial facial recognition algorithms seems to suggest that face biometrics systems are currently too dependent on certain attributes to differentiate as easily between different"
+    publishedDateTime: 2020-10-22T22:20:00Z
+    webUrl: "https://www.biometricupdate.com/202010/face-biometrics-researchers-find-possible-route-to-better-accuracy-across-races-genders"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
   - title: "US plans voice biometrics upgrade and shift to cloud for DoD Automated Biometric Identification System"
     excerpt: "The U.S. Department of Defense (DoD) intends to move the remaining on-premise elements of its Automated Biometric Identification System to Amazon Web Services’ cloud ahead of a series of upgrades,"
     publishedDateTime: 2020-10-21T19:57:00Z

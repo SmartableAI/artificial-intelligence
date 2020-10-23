@@ -28,9 +28,9 @@ related:
   - title: "We've been promised driverless cars for years. So why aren't they on the roads yet?"
     excerpt: "Despite a lot of hype and many promises, putting driverless cars on the roads, as it turns out, is a difficult undertaking. Self-driving hub organization Zenzic, which is a joint effort between government and industry,"
     publishedDateTime: 2020-10-22T12:15:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+    webUrl: "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
     type: article
     provider:
       name: ZDNet
@@ -88,6 +88,6 @@ related:
         height: 422
         isCached: true
 
-secured: "vqW3LwGA++Ge3TsKUfzHWruQHVKJnpcRqeSB1XKE329rhr3xLJYVGVKF4cxdQidNT7N4jIF/Os430Psv2Jpxs5bkUH8xGQz2L2mk44BrJYnFiilO75csaW+f5i+rza/+XY5rRlmM4jx2V91v6lFNW42cYQ68kNY6YUjzkdpoe4n9cGhvrw7GGE4nfzfYU7br624i9xFmmKsxwEGWuqVaAhrbgk7yKFamPBQAyRtR2PgCAO8m3aW2vaD4IZSS4+5fpUXkAfcUIjmU3LrHRNxGWLB/4nB9t28xp9KNCgKoARUvfA1bG9LoNjLN06+jP/BsRWhffEA1pfM2t0lxT5i7ZvMOcFrYlnBgi3j+VOgyyak=;SgFbl65AdRu46WTqJakQ6Q=="
+secured: "kJgEGtQ72a2gmY4JKRukXWTjS+P+FKaJtXayIrgHfNfHJ/548D/SIYbRqWmXp84WoLRUu2KnMn2Sg52PnLaB9bFrTiUMpikMCUHzoCgLeFzMJTYY7nNZQH03Z5E22dqGpRQKm+a01PT+EgxzPsl6qvScQQZ6hYat6jMRpIzNtS6Vq6RDduoQtWZtE5uG+u9XXEQSPGxs/0Sul52OFgemWhRoGOGPgiGAwpz0/7CgWATP+c54n9Zahb0TpBwLQ7V2UNgVkmBhtmGNZOoJyGcO8K6s1C/3gWLs3Yvhdb8K9RhBxVgc9MWk+kqduOCifdPuGDBl31hLphwmwjMWZcDLrUin9VmD5OoVNKtt0AizZOcaXIuNez2Ml2aij07rhapvpS7evIld5AMvI2+p/KNWotKQO0wEK9KB9KfBKGmoD64mvGcOWE5Ph0CApZ9HSBwUWBrFnkH+C8AGGoqzggmSlq5mxx3KFtGZLO6gzfhwFC35Xot4v73+4P54qsvEiMbcfYxSek3wFE0ZygcETTlFIA==;8ClANGU8jsx+gVHaG035Hw=="
 ---
 

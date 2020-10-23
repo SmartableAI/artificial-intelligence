@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/"
 type: article
 quality: 96
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/unsplash-1.png"
         width: 718
         height: 400
+        isCached: true
+  - title: "Flex Logix Announces Working Silicon of AI Edge Inference Chip"
+    excerpt: "InferX X1 offers ideal performance of neural network models such as object detection and recognition, and other neural network models, for robotics, industrial automation, medical imaging, and more."
+    publishedDateTime: 2020-10-22T23:08:00Z
+    webUrl: "https://www.embedded-computing.com/news/flex-logix-announces-working-silicon-of-ai-edge-inference-chip"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 54
+    images:
+      - url: "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.formstack.com%2Fuploads%2F3411018%2F76219803%2F678670875%2F76219803_siz240dt_pr16167991-2003_300dpi_logo.jpg&size=1&version=1603405160&sig=ec028f986191b1daa82cf86e3ce0130c&default=hubs%2Ftilebg-blogs.jpg"
+        width: 500
+        height: 272
         isCached: true
   - title: "Flex Logix Announces Working Silicon Of Fastest And Most Efficient AI Edge Inference Chip"
     excerpt: "Flex Logix® Technologies, Inc. today announced availability of its InferX(TM) X1, the industry's fastest AI inference chip for edge systems. InferX X1"

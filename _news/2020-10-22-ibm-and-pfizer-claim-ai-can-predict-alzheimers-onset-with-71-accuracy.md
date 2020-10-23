@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The AI that spots Alzheimer's from cookie drawing"
+    excerpt: "A dated line drawing of two children stealing cookies behind their mother's back is being used by an artificial intelligence system to detect the onset of Alzheimer's disease. The system uses voice samples of people describing the scene to predict whether healthy people may get the disease."
+    publishedDateTime: 2020-10-22T22:31:00Z
+    webUrl: "https://www.bbc.com/news/technology-54538228"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-54538228"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54538228"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1010/production/_114921140_oldwoman.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Researchers are using AI to predict Alzheimer's disease seven years before clinical diagnosis"
     excerpt: "BM and Pfizer developed an AI that looks at speech patterns over time for markers of the crippling degenerative disease."
     publishedDateTime: 2020-10-22T15:26:00Z

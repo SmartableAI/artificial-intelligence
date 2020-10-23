@@ -3,10 +3,10 @@ category: news
 title: "We've been promised driverless cars for years. So why aren't they on the roads yet?"
 excerpt: "Despite a lot of hype and many promises, putting driverless cars on the roads, as it turns out, is a difficult undertaking. Self-driving hub organization Zenzic, which is a joint effort between government and industry,"
 publishedDateTime: 2020-10-22T12:15:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+originalUrl: "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+webUrl: "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
 type: article
 quality: 83
 heat: 123
@@ -92,6 +92,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "hGZj2oPDCb/lN5Z8e0MTkKy3Nrd886I41SLz+UIvsFhVvyQxDrsejuXOrJdBl7XWNjWAPPQNijtXy4MsbCTF2fuVFhtCpbA7kOhZXOrD7NaYFbzLMkWFIqAPX+w3WJ+6jeAww5fNZ+WIvITOxZr40O+CJRhwJFcvVKy55UveaCUCJp1oOqHEzK+98XrQuobi0T9xZLhpIDF0buRQthk5ThZPrCrVOTXPi76UCl59RaFb+1d9cuOGjWV5Qrvmg7o+e4/I3xclROi0Y9JBOQWV0oZKQnc89Zpj+d3qd7PRPz+yv2FRvsi3PaAy5w/AUYaeYSrAiSyuZ2jYQ/rKDIQ8Ed+tjo54k77f4T+voaNrZBSjEgfDRaOT+DLcAo8X2OqyF7V7KdD/ExBRgbs7bOF0YLT/m9bVJ/SdvIeYGpU0axZ5HuSJT9qjtbPwP5MjIWo9EhfeZlZTRzoMMobEy38nyZj3LW2BBBV0Ph9GWzJ4ycjk/2XRkEIwQzK1k9/wh9ATy2581/UMDltd4mfi1kjAlQ==;T269DC5ySWxY+nC30A8aVQ=="
+secured: "2nuUeOJRrnc0K9KkxQJd/+x9Hs0zKJ76356Sxg93yjPmIUcaPrM6xXTsIF80cKbBc+uDzlEKHUsg1NUITifNWTiNzUch9BOx4V9z6B9jkQtDA/NQkwhajeOwaRJNK382mLLjvpbyJlxdbpr4OQXmB7JIqXgvPCniFBVnyb/m6XY+ed5C7k2DbJvjy1SxekQWYHrAyklZqqR37TaJ0zIuAnSzSwMmZWYf1GV0bWWeWSRbD2X4gkvQtw62Y41pqwyEcNYnQdgO+Lnz3KKr5UsHRvf16zBoYXJ0LOHG/f8Cc2xM+5LfPufLDZ/UeLqdEMOsDBpfh036Gh82RTr2QIoZZ1+uDjMRzme8nuVVPolLrEY=;r1n7IvqOycbfh87a9PtW9A=="
 ---
 

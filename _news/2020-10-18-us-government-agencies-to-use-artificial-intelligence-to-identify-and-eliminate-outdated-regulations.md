@@ -9,7 +9,7 @@ ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/u-s-governm
 cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/u-s-government-agencies-to-use-artificial-intelligence-to-identify-and-eliminate-outdated-regulations/article_14bb7778-c854-5376-93f3-e725e0f3435c.amp.html"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,33 +25,6 @@ images:
     width: 1024
     height: 491
     isCached: true
-
-related:
-  - title: "U.S. government agencies to use AI to cull and cut outdated regulations"
-    excerpt: "The White House Office of Management and Budget (OMB) said Friday that federal agencies will use artificial intelligence to eliminate outdated, obsolete, and inconsistent requirements across tens of thousands of pages of government regulations."
-    publishedDateTime: 2020-10-18T05:42:00Z
-    webUrl: "https://www.businessinsider.com/us-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/us-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "EU Parliament makes the first steps to regulate Artificial Intelligence"
-    excerpt: "The FINANCIAL -- The European Parliament is among the first institutions to put forward recommendations on what AI rules should include with regards to ethics, liability and intellectual property rights. These recommendations will pave the way for the EU ..."
-    publishedDateTime: 2020-10-21T09:51:00Z
-    webUrl: "https://www.finchannel.com/world/europe/78778-eu-parliament-makes-the-first-steps-to-regulate-artificial-intelligence"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 37
-    images:
-      - url: "https://newsroom.cisco.com/documents/10157/1889935/datacenter_thumb_800x450_003.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "V29UdqpfmCmvkPqCt46UWiia5CGZf88fY+gZ9jeiZAMlXedA9TQuUeYLArcEcpF4JBsiCo8oprGDnAkFMdFGB2oN7QRgcKsM0zuVh+NW7lF/W9nrDLxYbL4ZZGRtrKo5k6Qgorm6NlMkOFmJEKdliu4CnlIvBbtwZ3EVAPsigu6Ac0Wv7EJk0Jm1Pl2J775M6M3DY2JRB0eHssx8oaYGHHdRWzfZo2yLVumN0ZMBzf1Sg+lILKySPIC4SwcoFD4kH1/4F57UPx4xII3ZXy4ImAUspkk3Hd0FzN3irixkzAnPiXF/E7oLtGAcwl09TGQr3m6B4zGk3Ksj1UWjGKD1XLoIMVBGRow8An7oi/XFdsiJXLpMDDXLniqNSSdS2T30e+lVIpPY32TEBjkWlcfdmSRnywItFNpu9wyULonS/CX8Sy9lqddI/5aS7TMUdafgHjF+ZjwqRryrim+5mqiUQeVPwy7yh1yvotnaUvxJKaO7/q7ihB7gsA7Gv1lJmN+8obTuySuztMPbYjHwTrAxtg==;J3uCFaFE5C83rsDXOMvbXA=="
 ---

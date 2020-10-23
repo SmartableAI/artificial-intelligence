@@ -209,7 +209,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -302,7 +302,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -498,7 +498,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 293,
+      "heat": 303,
       "tags": null,
       "images": [
         {
@@ -650,8 +650,8 @@
       "title": "We've been promised driverless cars for years. So why aren't they on the roads yet?",
       "excerpt": "Despite a lot of hype and many promises, putting driverless cars on the roads, as it turns out, is a difficult undertaking. Self-driving hub organization Zenzic, which is a joint effort between government and industry,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
+      "webUrl": "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
+      "originalUrl": "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
       "featuredContent": null,
       "highlight": null,
       "heat": 123,
@@ -668,8 +668,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
       "publishedDateTime": "2020-10-22T05:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -757,7 +757,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -809,7 +809,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -848,7 +848,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {

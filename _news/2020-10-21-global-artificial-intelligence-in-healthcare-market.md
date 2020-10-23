@@ -43,6 +43,20 @@ related:
         width: 1199
         height: 800
         isCached: true
+  - title: "3 trends for healthcare marketers"
+    excerpt: "Healthcare marketers should keep a pulse on trends emerging in the industry if they want to deliver patients the most up-to-date and engaging information, according to Ajay Prasad, the founder and CEO of healthcare digital marketing agency GMR Web Team."
+    publishedDateTime: 2020-10-22T21:55:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-marketing/3-trends-for-healthcare-marketers.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-marketing/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "AvSxCJe6e5fP7A7X2P3dOUrhpeI4+HTziEN37c/OOsyHJaMogYT5WaWo/f7tXJa129Jbv0w8WZWGUe/RxfLzz0W+PGqHRVDjPxMnyE6Sn7811CuQVfpXrwT2pL/7L3MbXlCp63Ug2sQRPLl5Mq4Zs2dArfmuYEdtPZQqqdbGP5vrO/nA66eFQyFkV+z5VkHwEz6U4TZVqDPAtmQT3dTpRzGGIvwo+jjwfiT1YlX3/PxRLGaKSTmFlGGlmqvbx1hg2/Ea457uVv0huBa8GFDv0C73eMXlIYjJQ2ls9xv3Sgpfsj4km4ON+9OKBHRhxV1BMr30alNLLOoB4jW9+y+8lCQpSjuZK/YbB/WmeOpXDak=;xDOuu6xy3uHwwy+dJm8FEA=="
 ---

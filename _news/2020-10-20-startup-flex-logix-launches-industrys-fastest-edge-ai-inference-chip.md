@@ -57,6 +57,20 @@ related:
         width: 400
         height: 201
         isCached: true
+  - title: "Flex Logix Announces Working Silicon of AI Edge Inference Chip"
+    excerpt: "InferX X1 offers ideal performance of neural network models such as object detection and recognition, and other neural network models, for robotics, industrial automation, medical imaging, and more."
+    publishedDateTime: 2020-10-22T23:08:00Z
+    webUrl: "https://www.embedded-computing.com/news/flex-logix-announces-working-silicon-of-ai-edge-inference-chip"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 54
+    images:
+      - url: "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.formstack.com%2Fuploads%2F3411018%2F76219803%2F678670875%2F76219803_siz240dt_pr16167991-2003_300dpi_logo.jpg&size=1&version=1603405160&sig=ec028f986191b1daa82cf86e3ce0130c&default=hubs%2Ftilebg-blogs.jpg"
+        width: 500
+        height: 272
+        isCached: true
   - title: "Flex Logix Announces Working Silicon Of Fastest And Most Efficient AI Edge Inference Chip"
     excerpt: "Flex Logix® Technologies, Inc. today announced availability of its InferX(TM) X1, the industry's fastest AI inference chip for edge systems. InferX X1"
     publishedDateTime: 2020-10-20T12:08:00Z

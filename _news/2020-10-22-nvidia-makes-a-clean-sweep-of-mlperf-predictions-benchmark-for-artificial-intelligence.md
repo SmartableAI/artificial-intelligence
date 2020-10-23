@@ -44,14 +44,30 @@ related:
   - title: "Chip industry is going to need a lot more software to catch Nvidia’s lead in AI"
     excerpt: "Topic: Artificial Intelligence  The semiconductor industry is in the midst of a renaissance in chip design and performance improvement, but it will take a lot more software to catch up with graphics chip titan Nvidia,"
     publishedDateTime: 2020-10-21T20:17:00Z
-    webUrl: "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 80
+  - title: "Nvidia chips again smash AI performance records"
+    excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services."
+    publishedDateTime: 2020-10-22T08:14:00Z
+    webUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+    ampWebUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 74
+    images:
+      - url: "https://www.sify.com/uploads/nvidia_chip_ians_ukvnDpcacajgj.jpeg"
+        width: 950
+        height: 616
+        isCached: true
   - title: "Nvidia leads in AI hardware, software performance, says MLPerf benchmark tests"
     excerpt: "The benchmarks also showed that NVIDIA T4 Tensor Core GPU continues to be a solid inference platform for mainstream enterprise, edge servers and cost-effective cloud instances"
     publishedDateTime: 2020-10-22T06:19:00Z
@@ -147,15 +163,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Nvidia chips again smash AI performance records"
-    excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services."
-    publishedDateTime: 2020-10-22T10:04:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20201022/3645914.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
   - title: "STC partners Nvidia on AI computing infrastructure"
     excerpt: "Saudi operator STC said it;s working with Nvidia to build Saudi Arabia's first AI and deep learning cloud infrastructure, enabling domestic enterprises to adopt AI. STC is joining the Nvidia Partner Network (NPN) and will be the first cloud service provider in the region to bring AI capabilities to the"
     publishedDateTime: 2020-10-21T14:55:00Z

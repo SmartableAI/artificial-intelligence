@@ -30,9 +30,9 @@ related:
   - title: "We've been promised driverless cars for years. So why aren't they on the roads yet?"
     excerpt: "Despite a lot of hype and many promises, putting driverless cars on the roads, as it turns out, is a difficult undertaking. Self-driving hub organization Zenzic, which is a joint effort between government and industry,"
     publishedDateTime: 2020-10-22T12:15:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+    webUrl: "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
     type: article
     provider:
       name: ZDNet

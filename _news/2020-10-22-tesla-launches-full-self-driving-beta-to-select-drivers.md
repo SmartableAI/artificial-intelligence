@@ -226,21 +226,37 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves"
-    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-22T21:48:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html?outputType=amp"
+  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
+    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-22T22:30:00Z
+    webUrl: "https://www.chron.com/news/article/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 59
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves | Charlotte Observer"
+    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-22T23:16:00Z
+    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article246647313.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article246647313.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article246647313.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 55
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4d24e44-2e64-4a1f-9e05-98ab2bfcd533/7bb3896d-726a-4129-a4d9-e2742fce53c6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tesla Rolls Out Full Self-Driving Beta Version, With A 'Slow' And 'Cautious' Approach"
     excerpt: "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said that the automaker is rolling out the beta version of its full self-driving software, starting Tuesday night. What Happened: Musk tweeted that the rollout of the software will be “extremely slow [and] cautious ..."

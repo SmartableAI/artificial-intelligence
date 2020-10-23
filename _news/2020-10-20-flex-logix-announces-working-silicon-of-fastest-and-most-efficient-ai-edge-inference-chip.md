@@ -69,6 +69,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Flex Logix Announces Working Silicon of AI Edge Inference Chip"
+    excerpt: "InferX X1 offers ideal performance of neural network models such as object detection and recognition, and other neural network models, for robotics, industrial automation, medical imaging, and more."
+    publishedDateTime: 2020-10-22T23:08:00Z
+    webUrl: "https://www.embedded-computing.com/news/flex-logix-announces-working-silicon-of-ai-edge-inference-chip"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 54
+    images:
+      - url: "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.formstack.com%2Fuploads%2F3411018%2F76219803%2F678670875%2F76219803_siz240dt_pr16167991-2003_300dpi_logo.jpg&size=1&version=1603405160&sig=ec028f986191b1daa82cf86e3ce0130c&default=hubs%2Ftilebg-blogs.jpg"
+        width: 500
+        height: 272
+        isCached: true
 
 secured: "yuU0cpWWDNQeVjFhzjCfDY9uSyThSumfD3cFvNzgFwTHRRAZheLwOU1kux/maUZzY2PTKitlX4e0czyNscJZ/cTNF7UcNqFmQaQStASw6sMOELndhmDXZTbt0kGvBQC93owtoZGJZryCaPcc6yyV63DinwPdTrgOzbGkAsp3UofErMEkIvo6jZ4sFEAmnhr7Tb+1GCO8nwrUJIeG/mBXWyzUTm2AXRLipTOR36nckpn4VEVl0JdVmc6FeL4y1QgcVfrcmGjx269UqjYcfqUTZ2HnHJBD02G46wkn4XhfWIF36Dw0LgxAK2EoL1PnC/B8gl+kRPDxV/bnNtaiGft7PIcyOVLBg0FwhY7UwVk3k/D5SuGzfd57gFcRLgG8eeS4TrgXq0EMyp99NLLw4ir9BG2GInGmnoD9rIojRVs/mReNOq4hFDU2aewmPCmhIA/aMRasEAbguF3uL1ujNAISBVkIlL20vFRUXORoWo52BDVHZnafGqqnkC0d55BtknqiEqh9jqkMXlC3ndQA1qwPkA==;KorTNxK+IuTSZ2UN+51JjQ=="
 ---

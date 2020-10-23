@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Tesla ‘full self-driving’ vehicles can’t drive themselves"
-excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
-publishedDateTime: 2020-10-22T21:48:00Z
-originalUrl: "https://www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html"
-webUrl: "https://www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/tesla-full-self-driving-vehicles-cant-drive-themselves/2020/10/22/7f16e6ca-14ad-11eb-a258-614acf2b906d_story.html?outputType=amp"
+title: "Tesla 'full self-driving' vehicles can't drive themselves"
+excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
+publishedDateTime: 2020-10-22T22:30:00Z
+originalUrl: "https://www.chron.com/news/article/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
+webUrl: "https://www.chron.com/news/article/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
+ampWebUrl: "https://www.chron.com/news/amp/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Tesla-full-self-driving-vehicles-can-t-drive-15668422.php"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     isCached: true
 
 related:
@@ -228,6 +228,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves | Charlotte Observer"
+    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-22T23:16:00Z
+    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article246647313.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article246647313.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article246647313.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 55
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4d24e44-2e64-4a1f-9e05-98ab2bfcd533/7bb3896d-726a-4129-a4d9-e2742fce53c6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla launches ‘Full Self Driving’ beta to select drivers"
     excerpt: "The Early Access Programme serves as testing platform to help fix software bugs Tesla CEO Elon Musk has revealed the company has started rolling out its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers."
     publishedDateTime: 2020-10-22T07:43:00Z
@@ -312,6 +328,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "K9655SLTgQjbwkS6PoV3XioUTlV2+joFRRHNCemLJm/tGUKxFJPeanJZpy6A0Us3rjXLtHOPzOiD5Xc4rNxdTw8QlOxfuOezEiJcvMYijlINymEv22uY6O/jHFvwivpy0InrIKO97J5TA1anE8dlVfKYjZ3EFTzTDiP1cibUBH8yXQMrqUjbH5z3o1EjAGSeH0SYyZh6f3sgZLu5nTs1CmVygj1BZ2cZfollcbb4r9yU+qnXd6G3nMHX7JRWgcVhlY0hnyewoQmr4QXo/ogV0fno/4eDwXx7KXgGtQxwxIjWvj44hsOJ5VxnVPh7whpi3bonKalwF9Q4zDUX1YdsGIirEwgTCdV+0+j0kCIvBS8=;l5KUFrBoEsEkx2kx5dRdnw=="
+secured: "wsKLmXlbzqRYllFWXbI8FBPPowErVHZFjLuXHDRkH8OQSm8eoxwLA8O/8m+qAvTjwaD3SRPicu9iYkTfR6hOlVgZRLBTaF5K6Zkg49bkPZXBaBl464HKXX4svBIH32ULkSCo8yTE5GA3MYSjOnjkW3Y/fUETcDUTWg8HOdh2yQRoWnZjPAUsro2IArhV9159TJJlcCjyYSzFgEbGSZIypnPN8K9Uf5Y0kPnV8t4X/bdSgMeOUF6H4xFp9/IbUjqcHl850z78dLOoLMDptqvRYE8eepl9VxO/w5NnmYRb1YhVhRkMPs2JbJ4o8NzPsvtW6BWoPI7SFejEDxV1MEWTqEGXis2Feh9Rw/nYTOuk35k=;52pIu2hdY2M0M6DkgKI3YA=="
 ---
 

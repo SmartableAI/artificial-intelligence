@@ -2,38 +2,29 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
-      "title": "Neural pathway crucial to successful rapid object recognition in primates",
-      "excerpt": "Rapid recurrent processing in the ventrolateral prefrontal cortex (vlPFC) helps primates quickly identify objects, according to research from MIT's McGovern Institute and Center for Brains, Minds, and Machines.",
+      "path": "_news/2020-10-21-irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand.md",
+      "title": "iRobot Q3 surges amid direct sales, e-commerce and home robot demand",
+      "excerpt": "For the third quarter​, iRobot reported revenue of $413.1 million, up 43% from a year ago. Premium robot sales were up 86%.",
       "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
-      "originalUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
+      "webUrl": "https://www.zdnet.com/article/irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand/",
+      "originalUrl": "https://www.zdnet.com/article/irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 169,
       "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202010/Ko-DiCarlo-Neuron-edited_0.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T13:09:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand/",
+      "publishedDateTime": "2020-10-20T13:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "news",
-        "domain": "mit.edu",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI",
-        "Computer Vision"
+        "AI in Robotics"
       ]
     },
     {
@@ -857,7 +847,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {

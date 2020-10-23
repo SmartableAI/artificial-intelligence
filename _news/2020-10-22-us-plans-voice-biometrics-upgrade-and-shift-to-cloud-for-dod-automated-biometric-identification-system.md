@@ -67,6 +67,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Face biometrics researchers find possible route to better accuracy across races, genders"
+    excerpt: "A sampling of commercial facial recognition algorithms seems to suggest that face biometrics systems are currently too dependent on certain attributes to differentiate as easily between different"
+    publishedDateTime: 2020-10-22T22:20:00Z
+    webUrl: "https://www.biometricupdate.com/202010/face-biometrics-researchers-find-possible-route-to-better-accuracy-across-races-genders"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
 
 secured: "S6MYRA7WcQloxdb1AtcpLov9frSh1xxPBcWcu5AMzFO09LH5u962xUnM+QWYmDxIJewEOuZCXR+5bZQA+ycCwF2tgmH4ksmRrcEH3WM/UFyz9Svjs9x7aLHAnQn3151kYJ/kD0IoAGfWi2KsO5Tz641mX9Nfy/KxycdxDBbQ0fusJG5lao/wBgQ8ijEIl4LVw+yx3JWBPXluruynBpcvuEXD/ZIirvKQm9Crn/7vw2JGHJ2WCUkj9PRcZkNeVIOaHLB7dADWW7kuiBKxjvGznPzzUcSQWJAZ9bgvKnUPmqGS8I13W1MBLy00P2gcYjWz8Hmz2T3g5T/VXWKCwQwVNdyGYVDU7zSy7w2MJuMU+HDqkS9jdS1a6j5CuaFJjWh2KWeJt3x6b9SSYLWFb4fzBa+jPPVrb3Oy+oAjclIpPxjzOyo/QWxI6tDsL3ZYdn6cfSj4odPaF3c67iWtbcqHdqG5uObbGs2Epe5+ZJ8mFIq2rwWVnHqH7tYduIC8umHbKHFx2Qw054ku8Ttu1B9uYg==;VTcEXMtYqJ6OgJTMftuV+Q=="
 ---
