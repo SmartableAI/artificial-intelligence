@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201019/New-AI-based-method-o
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201019/New-AI-based-method-of-image-analysis-finds-new-cell-types-in-tissue.aspx"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "AI methods of analyzing social networks find new cell types in tissue"
-    excerpt: "The problem is that distinguishing all the important details may be difficult. This is where the new AI-based method may come in useful, since it allows unsupervised detection of cell types as well as detection of functions within an individual cell and of ..."
-    publishedDateTime: 2020-10-19T17:12:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201019111918.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "m2obsCMlvKVeoyejWjAOCUSj9vTUagGNgjS91pcMEG/BaUSHAiJiRe0Vhp/4ewUSdZy4/jyFmxFSsAIkQvAXFnsZO6IYMU9UhcPbcK7pdvK88GCTNBqAVcZUYrFdIw6SCKangyZNWZeg1YaVzLOWMx+C3dW10f7XeJwHR+oEKRttWkEuxtYEj2q+KcW0k0oeBvcHZ0TT2Saq6GGQ40G0SxNphfRQHxvEube2fHurnzKbd7YiCEAB/j2r+fs0LsqjHL38YPDPtF+aSAhP98WQVwyuf0hfSnlWPBCba/4Gih88cCK+LBELLumJnVo9WfAk+J92Jk4GPbb0dxZdQ1r2A/yK4nMdT1QI7v5eLM7CklA=;RkQZ159gye4cANxrTM45Ow=="
 ---

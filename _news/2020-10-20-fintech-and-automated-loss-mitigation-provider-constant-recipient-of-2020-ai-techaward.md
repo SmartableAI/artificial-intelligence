@@ -66,6 +66,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "Fintech Provider Quavo, Inc. Launches Fraud and Disputes AI for Financial Institutions"
+    excerpt: "Last month, financial technology provider Quavo, Inc. released their revolutionary dispute management AI, ARIA™ (Automated"
+    publishedDateTime: 2020-10-22T16:48:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fintech-provider-quavo-inc-launches-fraud-and-disputes-ai-for-financial-institutions-301158227.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "FinHub 973 launches to boost fintech sector in Mena"
     excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
     publishedDateTime: 2020-10-20T10:32:00Z

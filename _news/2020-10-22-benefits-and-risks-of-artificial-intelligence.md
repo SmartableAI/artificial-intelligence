@@ -73,31 +73,6 @@ related:
         width: 1200
         height: 872
         isCached: true
-  - title: "Changing the Face of Financial Advice with Data and AI"
-    excerpt: "It also provides a personalised update of my total financial situation, including recent transactions in my current account. In my inbox, there’s a synopsis of curated financial stories aligned to my goals."
-    publishedDateTime: 2020-10-19T17:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19"
-    ampWebUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Forum Teratec 2020 Gathered Experts in Simulation, HPC, Big Data and AI"
-    excerpt: "Held in digital format on October 13 and 14, 2020, given the circumstances of COVID-19, Forum Teratec gathered over 1200 experts in"
-    publishedDateTime: 2020-10-19T18:08:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/forum-teratec-2020-gathered-experts-in-simulation-hpc-big-data-and-ai/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 37
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/shutterstock_forest_aerial-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "lg+RvT5fYkegU5E+FIcvYti7BguhrJtU+Nwm+DWinUZZEE1EC5gDzZsIaPtnWuSYDlT+gSNewBLovAB4SrkNOKRDj1J19KXNiLbyeWayLHFswLLZI9BbZGyqcKUPwC0bJrNFr4aUR7pGH3x/KhHK66wroTYOdLOaiTgw4zbYRBmd3/rwkAhX9xVd0MJfBPIUkAnO7ak63QRT7GOg50pJUy0Dl4nv7NT7ziW4EREgygjU0Fd5EvGEuuXSABHGAok6QulNcy7RUE2pLQoniTfY4FmVKnVEd163t7K3LgqGi2r1FVfDHt8GtK08CPjSCwBalLdzjEo68sRGPvBFrNEgCYFTEHYcH1SqSpowXsg7udddM+qVIguZICQ6d4eICJouwEQskKEpLvUnFwDclx4EkPlFLSX4jJepbmdiydZncatkZ21NazSIabtlzGR7yIpE28sH9c2TFWppIe4m4Lir7hGtdIsG3GchM56VsU4frgENQ0upWjQHMmon4dSSnMIaYyqjU2Y9RyOxRRVrfY8k6A==;9eL7KGy0woGhnh1KERc2Wg=="
 ---

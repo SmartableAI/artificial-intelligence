@@ -7,7 +7,7 @@ originalUrl: "https://www.fedscoop.com/ai-ethics-energy-department-cheryl-ingsta
 webUrl: "https://www.fedscoop.com/ai-ethics-energy-department-cheryl-ingstad/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 3936
     height: 2624
     isCached: true
-
-related:
-  - title: "A global collaboration to move artificial intelligence principles to practice"
-    excerpt: "Convened by the MIT Schwarzman College of Computing, the AI Policy Forum is a global collaboration to move AI principles to practice."
-    publishedDateTime: 2020-10-19T18:21:00Z
-    webUrl: "https://news.mit.edu/2020/global-collaboration-moving-ai-principles-to-practice-1019"
-    type: article
-    provider:
-      name: news
-      domain: mit.edu
-    quality: 64
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202010/MIT-AIPF-global-AI.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "uXY/pwiq9HMGDXTAd2BmEEH9e3C/NGZksS/7RyPOMlxG2Shl7alwAubvt65FaG/oxGlpZtuAUBeoXiNP7AAZAQ/+UfuMxMXi/ReuJCSQMZr5xCr74EHbr0/6jwZvVqNnUX0pX+zFbpOKvEnxiKZEnOLnK71sk4ntYXw7hdRzk2sUpJtTeGmbJd5+tD9Lzgu11BxD36A+Auwas4QY6J/5e1wYrDX/bgLNJb1bQHQiLJxsK9sxmr4QXaRwk3uTYUPq4YSDx6foh1Ti4rcFBX5haZ5HcnDKir/pBBWDJoCGMGaE/TxGmG/hwWLRnq+IVJeFRfyBeeQVCfnDgCx5oh/3OWC1G0lYBTlb1Yu1SY8mnGk=;w0rr73HTSiqbTuSpNiH/Ag=="
 ---

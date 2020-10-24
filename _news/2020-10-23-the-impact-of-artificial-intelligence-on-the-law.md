@@ -62,17 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Changing the Face of Financial Advice with Data and AI"
-    excerpt: "It also provides a personalised update of my total financial situation, including recent transactions in my current account. In my inbox, there’s a synopsis of curated financial stories aligned to my goals."
-    publishedDateTime: 2020-10-19T17:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19"
-    ampWebUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Benefits and Risks of Artificial Intelligence"
     excerpt: "In the midst of all this, there is another age slowly taking shape, the Artificial Intelligence(AI) era. Many believe that this will be the next evolution for mankind. Whether that bodes well or not for mankind,"
     publishedDateTime: 2020-10-22T10:51:00Z
@@ -86,20 +75,6 @@ related:
       - url: "https://www.edmchicago.com/wp-content/uploads/2020/10/Artificial-Intelligence.jpg"
         width: 2243
         height: 1507
-        isCached: true
-  - title: "Forum Teratec 2020 Gathered Experts in Simulation, HPC, Big Data and AI"
-    excerpt: "Held in digital format on October 13 and 14, 2020, given the circumstances of COVID-19, Forum Teratec gathered over 1200 experts in"
-    publishedDateTime: 2020-10-19T18:08:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/forum-teratec-2020-gathered-experts-in-simulation-hpc-big-data-and-ai/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 37
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/shutterstock_forest_aerial-405x228.jpg"
-        width: 405
-        height: 228
         isCached: true
 
 secured: "IbizKGL3bYl2zocDkuVUp8qFo8+qzM6L+4CaINyTc3UpvQUTFnv/mXE6MURFkdcRTutKpePs9SFn7ir1O8ybLjYyEVNqowXeiK7ZxONr2aMZuCSijpJB6O3VqnydBvZ9ZxZFnXHX6eVK9IYm5H5rJQZ4jZyhLg50qM+BVB3mQbBFrUkFJHx1rw+S825FDMK5joXPAMMODREuy345FdGTXRF8TR60yCGAA4QIpgO89UPEUEx46wYXrHJscAi3o6hiXaRoPDIUm4tmnJjWvrv5wKjBY76yoBnwDdX2kxXmaYum5wKlOrFLjEwPaYfUGq9thmkYnhLLY2Nl5PEDdDwWszFweMGviIDff8wNC63p7Td+t5eyMbAc+aiIDscQ1TJokBnuAWNHIBEBIFMxNssXgI64ehItIgaD/KzQyklrRcAudPILn0by9py0YFCa343k86gZDz+Gpphmcb2NHEtUdx3HNNiFWF0tnjOY8lF5gyjNAhRn3D5a1g2kYWaOtRUU/vyt7meIzf+0I0/uAcu/CQ==;I6gGipuVe/UTloTshNcVZg=="

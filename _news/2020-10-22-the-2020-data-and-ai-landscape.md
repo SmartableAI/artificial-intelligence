@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -64,17 +64,6 @@ related:
         width: 1200
         height: 872
         isCached: true
-  - title: "Changing the Face of Financial Advice with Data and AI"
-    excerpt: "It also provides a personalised update of my total financial situation, including recent transactions in my current account. In my inbox, there’s a synopsis of curated financial stories aligned to my goals."
-    publishedDateTime: 2020-10-19T17:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19"
-    ampWebUrl: "https://www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/changing-the-face-of-financial-advice-with-data-and-ai-2020-10-19?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Benefits and Risks of Artificial Intelligence"
     excerpt: "In the midst of all this, there is another age slowly taking shape, the Artificial Intelligence(AI) era. Many believe that this will be the next evolution for mankind. Whether that bodes well or not for mankind,"
     publishedDateTime: 2020-10-22T10:51:00Z
@@ -88,20 +77,6 @@ related:
       - url: "https://www.edmchicago.com/wp-content/uploads/2020/10/Artificial-Intelligence.jpg"
         width: 2243
         height: 1507
-        isCached: true
-  - title: "Forum Teratec 2020 Gathered Experts in Simulation, HPC, Big Data and AI"
-    excerpt: "Held in digital format on October 13 and 14, 2020, given the circumstances of COVID-19, Forum Teratec gathered over 1200 experts in"
-    publishedDateTime: 2020-10-19T18:08:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/forum-teratec-2020-gathered-experts-in-simulation-hpc-big-data-and-ai/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 37
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/shutterstock_forest_aerial-405x228.jpg"
-        width: 405
-        height: 228
         isCached: true
 
 secured: "rkWYSoyL9RckcQPLtavqM8U3SjFMHF1Y4CuYGExLpLthzBjQHsHkhTLFtS2R8UhfMA8QgFXVkBjTc/NsrgEEV2VRifNRbvvY1ubkUabEcAEroZ/IYZFEojxlcW7J5JPX/pbiLH3encWBe/K3cHzet29FSoHvN8WvDalRN0ENN0pEIdoQGedc2wVJY65N6A+Acg0W3A/3bmfkkcS95yT92O/6S5qHYFeyWphlpYI9ts/L2FHvvEt5s5glPzTunHtMyGkHOsHJc+MITcVhIrTQlAtWU1kSya4lxLhZi70QkMFIBQre9Qj+AQgLuB52pIIn+U9LMFD7+ZTnqHn9j+fnTrmtXSjBKeX5GW+cTMzexfY1WIKjzIC0J44m3Tfne/gZXB6RGOx1C7KBjvQ5BgM6BS9ltdc1vH8aKld+tWapaDXP4/WyLMgpah0PRrwqEwUi0QkVReCJwcPU+kBtHWNGdeaXmOXfhFJJxeA41X8y1IPyiSHtr7pubmIXDsnpQhFRfL6kYJQ5WfXT9vLbomrobA==;qgdmt4gV6Owa3DhULcLGnA=="

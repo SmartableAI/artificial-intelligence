@@ -35,20 +35,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Juniper splashes $450M on AI hotshot 128 Technology"
-    excerpt: "Latest deal comes after moves for Mist Systems and Netrounds and is aimed largely at strengthening Juniper's presence in the SD-WAN market."
-    publishedDateTime: 2020-10-19T17:44:00Z
-    webUrl: "https://www.lightreading.com/sd-wan/juniper-splashes-$450m-on-ai-hotshot-128-technology/d/d-id/764724"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 37
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "AI powered Proximity Detection solution launched to aid organizations with social distancing"
     excerpt: "Ipsotek, a pioneer in artificial intelligence (AI) powered video analytics, has announced the launch of a Proximity Detection solution to help businesses across a range of industries monitor adherence to social distancing guidelines enforced by the COVID-19 pandemic."
     publishedDateTime: 2020-10-20T08:58:00Z

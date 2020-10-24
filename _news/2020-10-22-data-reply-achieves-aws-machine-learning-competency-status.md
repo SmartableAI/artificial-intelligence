@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
-excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
-publishedDateTime: 2020-10-22T07:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
-webUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
+excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ..."
+publishedDateTime: 2020-10-22T07:35:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
+webUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
 type: article
-quality: 66
-heat: 86
+quality: 56
+heat: 76
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
+
+images:
+  - url: "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "Ironside Achieves AWS Advanced Consulting Partner Status"
@@ -45,6 +47,6 @@ related:
       domain: finanznachrichten.de
     quality: 36
 
-secured: "X0dIsfJ5HGwcW2DKKT2JpaVnrHDTOMfm1Y0GLiLCjhWbFn9vx8kWYnAJvzdfFLPdUzmToqHIb+swQDKjyaRVaFyBDj4HaO6KrjmyhRHuPR0gTEV4wqvDo4uXHuLxlgvrDJZCU+SImIjtMa2PSW3kp6MKKNwuwwyDqPFwW9zjR9kky830fHT5Y6nOnmh0h1oxSo4waTwanYI1T+K1FFGtXrUwUiVyfZmCs67Fwsr3PlmxtrgM9/W1QsncO9JSx/e5KoOnYXAtzdtRjAwvUPBaPB1vijcCSlX9RpZA9lxU2VSOWE13cZF9FtAy2mNJTngO9laDCryik04LJlihw8laGnRonklCImREFQS2Ohn8/NA=;r6yuKRLH4hXGWwonrj/ZbA=="
+secured: "HroK7E7jz0VFzswu5D7gmw5XTFtwrdfJe4eZPkePt+18k9ebF226DOCkXdQ0NaPklBSVcSCY1OyTyPyDabTXqkvvSJtp1pkbIefdDzJIzDVWU8WANw6Pv0mzTZEBEuTPtibjfNWkDmACxJSdfvZsdS3UJMUtn+i+blyHMQLC+lDWkFePYLRc+rrz5alGaFKdtHAMVVRjQZJvpgV0XVYy7vX4yL/3unQ/BiNTXqTFv7LvC5cLawUfEOJ9RsoAQS8iKnV+HWdzH94GqGeJWRq0O7otEeUCHzKzl3jzhGHqSd17yROQQ6tHvJoPf7mC8g3L6WhhEJsrvBdaK34d89JZPvxcqT7Kj7SUv6zjGErn5n8=;ptRyFhsYO8rt72WOrzKEAA=="
 ---
 

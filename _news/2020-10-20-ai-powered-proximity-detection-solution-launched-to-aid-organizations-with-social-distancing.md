@@ -44,20 +44,6 @@ related:
         width: 399
         height: 399
         isCached: true
-  - title: "Juniper splashes $450M on AI hotshot 128 Technology"
-    excerpt: "Latest deal comes after moves for Mist Systems and Netrounds and is aimed largely at strengthening Juniper's presence in the SD-WAN market."
-    publishedDateTime: 2020-10-19T17:44:00Z
-    webUrl: "https://www.lightreading.com/sd-wan/juniper-splashes-$450m-on-ai-hotshot-128-technology/d/d-id/764724"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 37
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "OdelgKuz1ZmPeruMtpvW7jdb5G1b2Nhu/YSqO7S/j1hlfktPAVFRNZ19ZI5IN+fSl+lDGfhxRvPWcCAdkbn9sLzSGkHZI1DL9F3d54ricQbMFt74HJIrBa8KkNcsAKUan847b6AWEx8Ys0lRSwP5l72o8+j2K+4ePWJiI2mhqc4N4UjXU5gZJDl71UjObDM+dtldW/MrcbMzHKIDiPfCz02PBW3BNgE/T1QS6O6ycCHHb2Fu3fGkX2Cd0lPtyTaBDHgQoHjWpoFEISwvgfyGrSwdsjiXLGpawxp2lfPBLx2tjmPaNT/2EaZUUFnbYVDZhbDCEQFYPWE8heD5kOrlPO6qx0so3lhsHhp6waeimnQuFKk/6J1hImrdydAMZ76i5ehJ3zJVrEyW8Az93DVdBUC3zDQPvpnh6ly7MfAUH/36i1h4JcMOcC3Wk1mJL9fots4lPGwhxiZ6FuXIPTdCI4b2YFjii0yQPHVwOXBGReFn0raQIMYuW4IHEJINF4WzSArCwAf+xtKXv5MVCda0UA==;xCKptz2HQJ6W6coopRKKfg=="
 ---

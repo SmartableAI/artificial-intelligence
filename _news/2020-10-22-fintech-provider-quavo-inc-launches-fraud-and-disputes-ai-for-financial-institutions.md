@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Jumio rolls out new video-based KYC, deployed by UK FinTech Ebury"
-excerpt: "Jumio announced the launch of a new video-based verification solution for financial institutions and other regulated businesses."
-publishedDateTime: 2020-10-23T06:45:00Z
-originalUrl: "https://ibsintelligence.com/ibsi-news/jumio-rolls-out-new-video-based-kyc-deployed-by-uk-fintech-ebury/"
-webUrl: "https://ibsintelligence.com/ibsi-news/jumio-rolls-out-new-video-based-kyc-deployed-by-uk-fintech-ebury/"
+title: "Fintech Provider Quavo, Inc. Launches Fraud and Disputes AI for Financial Institutions"
+excerpt: "Last month, financial technology provider Quavo, Inc. released their revolutionary dispute management AI, ARIA™ (Automated"
+publishedDateTime: 2020-10-22T16:48:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/fintech-provider-quavo-inc-launches-fraud-and-disputes-ai-for-financial-institutions-301158227.html"
+webUrl: "https://www.prnewswire.com/news-releases/fintech-provider-quavo-inc-launches-fraud-and-disputes-ai-for-financial-institutions-301158227.html"
 type: article
-quality: 24
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: IBS
-  domain: ibsintelligence.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://ibsintelligence.com/wp-content/uploads/2020/05/Jumio.jpeg.jpg"
-    width: 300
-    height: 300
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -66,20 +66,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "Fintech Provider Quavo, Inc. Launches Fraud and Disputes AI for Financial Institutions"
-    excerpt: "Last month, financial technology provider Quavo, Inc. released their revolutionary dispute management AI, ARIA™ (Automated"
-    publishedDateTime: 2020-10-22T16:48:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fintech-provider-quavo-inc-launches-fraud-and-disputes-ai-for-financial-institutions-301158227.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Fintech and Automated Loss Mitigation Provider, Constant, Recipient of 2020 AI TechAward"
     excerpt: "Fintech and automated loss mitigation provider Constant is pleased to announce it is the recipient of a 2020 AI TechAward. The annual AI"
     publishedDateTime: 2020-10-20T13:00:00Z
@@ -136,7 +122,21 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Jumio rolls out new video-based KYC, deployed by UK FinTech Ebury"
+    excerpt: "Jumio announced the launch of a new video-based verification solution for financial institutions and other regulated businesses."
+    publishedDateTime: 2020-10-23T06:45:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/jumio-rolls-out-new-video-based-kyc-deployed-by-uk-fintech-ebury/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/05/Jumio.jpeg.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
-secured: "xGVgTGXAhTmdNKANJ9PyGg+KEqF9j8TQFpOvmBIKfMcGglaek212ohuP8aXlh0BHNTUWmAH99khS46fdNHwGfAiHrPIk+E3Hkd5TKcw+fZv+ySPNUNJsO9g/AYQntqmWE26mFRKOxDm1kUbAlhjwA4CanDGjYqNIvkIrhnOH9QmuiYZG5Zrxh5/FXgY5Ic/6RQuYzw11Huj1wm2sLc2BgMM7ICo9Xhi1WC8RG4dRXVSUJCe6q3ReSzR00DEY6tN+fm1EuFr92woAuzEkZUnFsFBb1pix/FVB1WqdZY1u/9Xx7ZAIWkAio4YJanK/Hgges6r/p5mWrpodBdppXc6o1HsGKbxhE+NoMLf79uTOELU=;O3KrgnCfPZEI7SpdGzy/Gg=="
+secured: "82R9CqEQxqP8LotrFTH+3L6hu/huCOqVbrvr3lMWZUzLw7QKlzOHeW9MVb3swpKFMG96Ph7XxoaicKHHu3F0bRakQT4c924Nq6s79XSUHWXGq2PsbyvYlG8YL5E1Z7qmUXxDy6uJLue+FbxkWkWeU5QwD5AvNeODcrPnHDKAkur7x6iDuz03M8rBxdzaPstNcTxBMarvVMao3sV4H1V+6qD1DgDxoP2IcKgV8yfmVR1i/rsYUe1UCliyDqsyQO9ZU7E96jAKr1cmwO80tI94/pg7jre93LWMNSbZL85/hmD824XU6yn3hfkbhIxJhMSLiDihJDjTachQma6M4Z9Pju8sCUdSKnxqa+p7sjbAp1U=;XIJWeI5696y/MBOAoe350A=="
 ---
 

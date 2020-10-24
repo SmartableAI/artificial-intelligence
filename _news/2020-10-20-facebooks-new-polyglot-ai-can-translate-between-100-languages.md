@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft releases an image-captioning AI algorithm"
-    excerpt: "Microsoft makes decoding words, pictures, events and familiar people on social media an easier task for visually impaired people with their accurate AI-captioning technology."
-    publishedDateTime: 2020-10-19T17:55:00Z
-    webUrl: "https://www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/"
-    ampWebUrl: "https://www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/microsoft-releases-an-image-captioning-ai-algorithm/amp/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 74
-    images:
-      - url: "https://www.technowize.com/wp-content/uploads/2020/10/Microsoft-releases-image-captioning-AI-option-1.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Facebook unveils AI translator that can translate 100 languages"
     excerpt: "Facebook has unveiled their AI machine learning translator for 100 languages."
     publishedDateTime: 2020-10-20T10:42:00Z
