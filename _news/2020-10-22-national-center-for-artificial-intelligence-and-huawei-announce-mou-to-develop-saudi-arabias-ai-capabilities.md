@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20201022184811/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20201022184811/"
 type: article
 quality: 53
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: Zawya
@@ -26,17 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi Data and AI Authority and Alibaba cloud announce MoU for driving KSA smart cities innovation through artificial intelligence"
-    excerpt: "SDAIA and Alibaba Cloud will partner on transforming Saudi Arabia's cities with AI and intelligence-driven smart city technology"
-    publishedDateTime: 2020-10-22T15:25:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Saudi_Data_and_AI_Authority_and_Alibaba_cloud_announce_MoU_for_driving_KSA_smart_cities_innovation_through_artificial_intelligence-ZAWYA20201022185141/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20201022185141/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20201022185141/"
+  - title: "Saudi Deal With Huawei for Arabic-Specific AI Risks U.S. Ire"
+    excerpt: "Saudi Arabia said it would partner with Huawei Technologies Co. to develop Arabic-language recognition in artificial intelligence and train Saudi experts in the field, potentially putting the kingdom at odds with the U."
+    publishedDateTime: 2020-10-22T11:13:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 87
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTGRJAgjNHN4/v1/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "IBM, Alibaba, and Huawei sign on to help Saudi Arabia's AI push"
     excerpt: "IBM (NYSE:IBM), Alibaba (NYSE:BABA), and Huawei have each signed a memorandum of understanding with Saudi Arabia's artificial intelligence authority."
     publishedDateTime: 2020-10-22T14:02:00Z
@@ -46,20 +51,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 21
-  - title: "Saudi Arabia pressing ahead with Fintech to become cashless society, says SAMA official"
-    excerpt: "“Several Fintech solutions are being currently implemented including Artificial Intelligence (AI), blockchain, and mobile apps, in line with consumer interests,” he added. Alsayari further noted that money and technology have become ..."
-    publishedDateTime: 2020-10-20T07:28:00Z
-    webUrl: "https://www.argaam.com/en/article/articledetail/id/1414889"
-    type: article
-    provider:
-      name: اخبار 24
-      domain: argaam.com
-    quality: 16
-    images:
-      - url: "https://argaamplus.s3.amazonaws.com/cd61e3af-4be7-4211-9aa8-19211e76821f.png"
-        width: 600
-        height: 366
-        isCached: true
 
 secured: "AIUlBceDWCrLUhvi5CZpOfmX3QNu5GU+9XYriG6IiUNILjfsCOuI1APCYAxjj2jMIwQBb0eCwo4Fb7/rCPjCwsHZT5cvzd4seFXELytxLkzbqWsbCOAG//7sGoydBEnpTesHWEMhRbrq8Awo7dsSMDoFRIuaoV27nuYFu9fYXEwoKn7adTuSG5yvulrvM9aCw14JPVl3fsFqEJDJQSsqIoJwN960PVSarMTakE1rBfA2YiKZosIoIae+4oA1d2pKAKBJQz7w1r8DOVCMvVERY8Xgy7Dh5xLgAOFzWO3p106PmjvMA5Fj7xu7MiA4KbmYJkeo2NhxVEH8ZCKW17ZoqZSqvvX4TWuiLjjdB0oIjU8=;5YlszG8fSDQZFyHSUjHAhQ=="
 ---

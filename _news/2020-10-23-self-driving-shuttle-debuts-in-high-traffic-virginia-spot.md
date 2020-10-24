@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving shuttle debuts in high-traffic Virginia spot"
+    excerpt: "The future of transportation arrived in northern Virginia, looking like a big blue toaster on wheels that seats six and drives itself through the region's notorious traffic. State and local officials debuted the Relay system Thursday,"
+    publishedDateTime: 2020-10-24T16:20:00Z
+    webUrl: "https://nsjonline.com/article/2020/10/self-driving-shuttle-debuts-in-high-traffic-virginia-spot/"
+    type: article
+    provider:
+      name: North State Journal
+      domain: nsjonline.com
+    quality: 24
+    images:
+      - url: "https://nsjonline.com/wp-content/uploads/2020/10/AP20296633712818.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Self-driving shuttle takes on traffic"
     excerpt: "MERRIFIELD, Va. -- The future of transportation arrived in northern Virginia, looking like a big blue toaster on wheels that seats six and drives itself through the region's notorious traffic. State and local officials debuted the Relay system Thursday, an ..."
     publishedDateTime: 2020-10-24T07:01:00Z

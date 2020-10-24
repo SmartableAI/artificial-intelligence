@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18014673"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,13 +23,13 @@ topics:
 related:
   - title: "Data Reply Achieves AWS Machine Learning Competency Status"
     excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
-    publishedDateTime: 2020-10-22T07:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
+    publishedDateTime: 2020-10-22T07:30:00Z
+    webUrl: "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 38
   - title: "DATA REPLY: Data Reply Achieves AWS Machine Learning Competency Status"
     excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply Group company specialized in Big Data Analytics and Artificial ..."
     publishedDateTime: 2020-10-22T07:33:00Z

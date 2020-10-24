@@ -353,20 +353,20 @@ related:
         height: 315
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "The conflicting messages have experts in the field accusing Tesla of deceptive, irresponsible marketing that could make the roads more dangerous."
-    publishedDateTime: 2020-10-23T15:11:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-23T00:53:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 59
     images:
-      - url: "https://media.khou.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://s.abcnews.com/images/Technology/WireAP_135a11bded104a2cbee932740c5733a6_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Watch Tesla's Beta of \"Feature Complete Full Self-Driving\""
     excerpt: "See the included video to watch the beta in action as customer vehicles autonomously navigate through left-hand turns, roundabouts, and more. Although Tesla has said the user interface will be updated as the rewrite is finalized,"
@@ -399,6 +399,22 @@ related:
       - url: "https://images.axios.com/aHdSgZCK4hB-ioOnGeMrDpGczyE=/fit-in/1366x1366/2020/10/23/1603465607532.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Should You Spend $10,000 On Tesla’s Full Self-Driving System?"
+    excerpt: "Tesla CEO Elon Musk recently announced the automaker is increasing the price of their Full Self-Driving system by $2,000. That’s a significant jump and brings the system’s price to $10,000. Which begs the question of whether or not it’s worth it."
+    publishedDateTime: 2020-10-24T16:45:00Z
+    webUrl: "https://www.carscoops.com/2020/10/should-you-spend-10000-on-teslas-full-self-driving-system/"
+    ampWebUrl: "https://www.carscoops.com/2020/10/should-you-spend-10000-on-teslas-full-self-driving-system/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/10/should-you-spend-10000-on-teslas-full-self-driving-system/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2019/09/37cd2aaf-tesla-smart-summon.gif"
+        width: 480
+        height: 270
         isCached: true
   - title: "Tesla Deployed Full Self-Driving Beta in Some Cars. Here’s How It Works."
     excerpt: "Last week Monday we gave you a heads up that Tesla would be releasing a beta version of its full self-driving (FSD) capability to some cars this week. It appears Elon Musk’s team has made the deadline;"
@@ -493,6 +509,22 @@ related:
       - url: "https://wp-assets.futurism.com/2020/10/federal-regulators-keeping-close-watch-tesla-self-driving-beta-test-1-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Tesla 'full self-driving' comes under fire: 'This is actively misleading people'"
+    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. The conflicting messages have experts in the field accusing Tesla of deceptive, irresponsible marketing that could make the roads more dangerous as the system is rolled out to as many as 1 million electric vehicle drivers by the end of the year."
+    publishedDateTime: 2020-10-24T17:44:00Z
+    webUrl: "https://www.autoblog.com/2020/10/24/tesla-full-self-driving-misleading/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/10/24/tesla-full-self-driving-misleading/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/10/24/tesla-full-self-driving-misleading/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 54
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-10/0fd8d580-e4ab-11e9-a22d-01d4756e572b"
+        width: 800
+        height: 450
         isCached: true
   - title: "Tesla Rolls Out Full Self-Driving Beta Version, With A 'Slow' And 'Cautious' Approach"
     excerpt: "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said that the automaker is rolling out the beta version of its full self-driving software, starting Tuesday night. What Happened: Musk tweeted that the rollout of the software will be “extremely slow [and] cautious ..."

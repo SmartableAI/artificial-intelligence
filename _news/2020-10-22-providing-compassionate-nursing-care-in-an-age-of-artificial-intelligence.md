@@ -86,6 +86,20 @@ related:
         width: 1800
         height: 938
         isCached: true
+  - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
+    excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
+    publishedDateTime: 2020-10-24T17:22:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 28
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/70/25/20153683/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "0O7Wih+PP3wspGJe3LHB2UGRELC21ERmYpl1hJ0GukKBudROAWrVkmySdxKwa/LDUir1MU6rH83mkJ5Kw5Y9aAbrXlbxxRR6ui9V/ZgwoUs6cpVhL4FBu3GkTFL0R79aoQoMTUksWUge7UAxOv/q4ivr+pR9+J06WQzXTcn7Dp0cBCWdPNkBN1s+xZlninHt8VMIBpRe9KYL0FHCv2l9PUzCdQlKziG+vWNUa0sxHN22biq6X5OHPw35QtTbEY3PjGIuc5xujm2lHBp7iRjkVhOxCEaz98bBCLPxbl/8edjVjMu9uPfzb2iFLzD8AIbCNlgBlpSswmU7BQp4V3Ai3SO8S2NwDgMHoq0hOyz/ymY=;YHHvtJXrcEeT80iXge8hiQ=="
 ---

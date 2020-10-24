@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/can-ai-fix-our-broken-debates-1845461790/amp"
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/can-ai-fix-our-broken-debates-1845461790/amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "How AI Can Affect Our Decisions"
-    excerpt: "Have you ever used Google Assistant, Apple’s Siri or Amazon Alexa to make decisions for you? Perhaps you asked it what new movies have good reviews, or to recommend a cool restaurant in your neighbourhood."
-    publishedDateTime: 2020-10-20T00:06:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/10/how-ai-can-affect-our-decisions/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 37
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/t_original/fefanfwrplq7snv2bkjx.jpg"
-        width: 1400
-        height: 787
-        isCached: true
 
 secured: "bIs5sYltm6u1k7H1i3NDLCW4LLJ6i+tfF3TI+k+tPjCxwUo0fcp01OH0bTzjDD1rsC9ttZkEF7ZiOtR/a+IZX+7FrgiKonBMpc3snVPgIKTM4TbLS9mbxt3QygksdNiJQj9ppi4dg4j/MPWEMFZkynABQyZJN7APMko0KKD/BFJTA4xS3SoTVa0QvqTTmVIDHl2V5CJCsbD+c+Qo827WY8kRlPvoII3WBnLlyH1TgIm+xM4eP9I1t6q16AYqO6Vdly3iSLyt+12CCGwLd9fuPOhr7V7jnn0w0MLcEVsnQXxZKtBJWg/YR2Xg1FiQQsKdXoCVy4BiVP5yuauOqCXcKy8wWyi/sqSKMkobH38ZKhbFGReUix0Sot8KWPjUr2i1HWJKwQhMHDrgw6dkL6/kqeujLqEFxr59MgTHLIpq9wI2g3d1z994di5LoWzJIDHQI8zU8T/ojI+fAnmCaqzUxHTWv3vEiXvO4B3d0J1o/GuWkAarEcoWH7thVh5Muf2/RCIg3KGx2pjmupFu7Wk50Q==;XsrKDcITtLljS+nPmeZ8bw=="
 ---

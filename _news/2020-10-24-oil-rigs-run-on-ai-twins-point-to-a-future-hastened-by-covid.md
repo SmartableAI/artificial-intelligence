@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-23/oil-rigs-run-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid"
 type: article
 quality: 87
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 360
     height: 236
     isCached: true
+
+related:
+  - title: "Oil Rigs Run on AI 'Twins' Point to a Future Hastened by Covid"
+    excerpt: "These interactive 3D simulations of oil platforms and plants allow engineers to avoid toiling for weeks in the sweaty, close confines of a wind-battered rig, instead gaining virtual access from home."
+    publishedDateTime: 2020-10-24T17:38:00Z
+    webUrl: "https://www.chron.com/business/article/Oil-Rigs-Run-on-AI-Twins-Point-to-a-Future-15671367.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/77/52/77/16691139/3/rawImage.jpg"
+        width: 500
+        height: 343
+        isCached: true
 
 secured: "I2w6Ms5hTgO2GAidwp5TdEHmk2H4RyRXUJyz+4hUYXI2hGBP5BNgMF361t0EjtLFbq3lwcn0bUWruUm8z3gXavvv2/b0ufrCAfWIg23fyCXTXIwLuQnp+A3IuoRttD/wjunFVOF31t9jXLF/asXmnuKjnae5m36WJd4Bf9LYn2PqnYbhrF48huEy1bcEyEbCuGc/YSj80RDAVdHPaiDkuK+QmhE8wgqXwZ8Ys3uyyXWBxbocZKNZPJ6dbD036I0IM94VUaI/a1E8Lyo6Npuw4Z+VTtj8MpCrL46HbcZX/xpXleL+LyE8rB6IQv1nLz96y/3uJCnLhTXnMa63bwvG2mzrUBq96zogLceggOxDu/tW3TKoIJzTQxd3Aud8pGsZQ//jcy9+wfQSMZZXVg/F2JmGsYltU/f0jCJaeBkzhtxRB/CB6HWWXaH0sYoMCW+r2uXyosSwKvgxGxW2kShgWIqxCpAuO52OI0NkRgUYGcOOh5jOz4lWVC5laUkM+/rmlVhzKc5MQqlrSlj0YaMAvw==;lQ4stN/YEFyqbHLOFGagJw=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI researchers urge tech to go beyond scale to address systemic social issues"
+    excerpt: "Scale isn't just a business plan but an approach that makes Big Tech and startups less effective at addressing systemic social issues."
+    publishedDateTime: 2020-10-22T20:23:00Z
+    webUrl: "https://venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/"
+    ampWebUrl: "https://venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/worlds-largest-hockey-stick.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "WpZD+7Ey6iH5q32zEkhfQoRz6+wHsvSi0pcvZBfFaVzT4nqqLGtccpao1B3EuUYHC5l5wfzuTc1wmxzrv0yrjEOl+MLR4rv0q84FtvnwPY7axObQqDK0K6IaJaCERCXmv6suo7yE+vGHuKEMWLlUCq0+IeK31IiaUmZucfspWU7p0qp+lMCevTdu+pOTUU0S1mzmFwirrQY/R/1Yp8/LH69J1pt4EEnjic2eP748R4QJnAQpjfwRNd9umsXzzWsnTbCt1w8q0rzo+e0HO2IQmFZ97ZSGVhKcPpmpeguKV3rrhhx2xEfV1QkdV07fv9nZ9I5VrROQTMbJKhNFz0hIIh+AHIi9+TkvGhs+RCbtnq7JwM+vQRqWkxJDcr172H+AXZ9CmsmxZFZDiKySmQhYAuiM3LKwHN0QfrvG+tT/CPr+tQaLC5BVGOXEDiujo5rVAsgRwn9QU2s9LuVr9k9AYTFEXv5KQqk9Te8QaSCL8XeA0ctD7sx4d4Ub57muwibUYSWyoGha0lW3dN46T1gCdw==;aABonq0cF9NAr07INsVr2w=="
 ---

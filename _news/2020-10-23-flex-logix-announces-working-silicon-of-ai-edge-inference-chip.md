@@ -3,8 +3,8 @@ category: news
 title: "Flex Logix Announces Working Silicon of AI Edge Inference Chip"
 excerpt: "InferX X1 offers ideal performance of neural network models such as object detection and recognition, and other neural network models, for robotics, industrial automation, medical imaging, and more."
 publishedDateTime: 2020-10-22T23:08:00Z
-originalUrl: "https://www.embedded-computing.com/news/flex-logix-announces-working-silicon-of-ai-edge-inference-chip"
-webUrl: "https://www.embedded-computing.com/news/flex-logix-announces-working-silicon-of-ai-edge-inference-chip"
+originalUrl: "https://www.embedded-computing.com/home-page/flex-logix-announces-working-silicon-of-ai-edge-inference-chip"
+webUrl: "https://www.embedded-computing.com/home-page/flex-logix-announces-working-silicon-of-ai-edge-inference-chip"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.formstack.com%2Fuploads%2F3411018%2F76219803%2F678670875%2F76219803_siz240dt_pr16167991-2003_300dpi_logo.jpg&size=1&version=1603405160&sig=ec028f986191b1daa82cf86e3ce0130c&default=hubs%2Ftilebg-blogs.jpg"
+  - url: "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fcontent.cdntwrk.com%2Ffiles%2FaHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmOTIwMzRmMWY1YzEuanBnJnZlcnNpb249MDAwMCZzaWc9OGM5MWU3NDNhMzgwMjYxNGJlZjgwMTY4NWVkNTNjNzU%25253D&size=1&version=1603404702&sig=2251bfc17906f4d3937f7a0216c38bb9&default=hubs%2Ftilebg-blogs.jpg"
     width: 500
     height: 272
     isCached: true
@@ -84,6 +84,6 @@ related:
         height: 201
         isCached: true
 
-secured: "yi9uG9oxPLQi9vjC3V/hxrW4WHMA1tqAAZXExYA2M2At0LC6wVSMz91XsIo3fGUTzoxgXJZmq6+rzG44J1m0HP+61D/DF3RfO6z04ZH7Tv7QYFLg//HMxDdUGJ32geKSy+4haOy32mC7xQ+zxhzSxB4Wv6pDPZkSbM7lHKu2a325z55cCM3yQ0n29SkjjUo9Jhu/ibwq5oRdG1DO/CkYuJAhzIHhuZAoDLn0t+aMNWtmO6vG5TJmS3NzUI9eyEtkUHhALhqY4CRW8kf2rZzZ1kQgSFCqBcuC1DCP6cGz8lUvxO4cin1r56eRbuHOjgw4+LcdsWVu5fSs3l/vMCm9JWTNMzeQybnYLkPsdeQt9dI=;aqZgO8GNnh2HykH0/zKKMA=="
+secured: "wrcWGl6AX8+aiUswtx6rSQG6vd5zI8v/kNWBBEmxoVukWImcm4RxZzdslrIuOcrZ7Qb0DiRAhxUfUPS+1p7rk+Cjmp8AZXZAOajGQU1hf8AmuzweQZhlE6fgXy00BAYqc5FRVvFnZa4NojKW/G0JXAwd1p6P7LYJ72EdNgymULpWHxVzgjc8FCj9LVZqLlpilPcPsXtiafhNkaMFqMZJIwy3aMCpKDs7+fH/cf0DnoNLZxzsP5QenuTmPlfddXlDTOuIJSDHKl/8GEhEr/GMgF2iVrcB1GXWYPiC05IxzWOIs5MtY3mFuPK7savWMaPrEROLcFv/EqyzO6TS+mjhgDkmjNxA1nW4jO2NxBcFhXc=;DCo4rDK7TkVXdura6yzaZw=="
 ---
 

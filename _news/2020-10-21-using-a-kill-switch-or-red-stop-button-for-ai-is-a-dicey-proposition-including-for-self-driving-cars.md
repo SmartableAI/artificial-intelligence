@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-sw
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-switch-or-red-stop-button-for-ai-is-a-dicey-proposition-including-for-self-driving-cars/"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F10%2F19%2Fzeabuz-ferry-rendering-lead-ZEABUZ1020.jpg"
         width: 1800
         height: 938
+        isCached: true
+  - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
+    excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
+    publishedDateTime: 2020-10-24T17:22:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 28
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/70/25/20153683/5/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "DQDNirqc86hQUj0DU4GY2vB4uvFstW2Aott3iLO9pXyidYvgZ43BgfktVYfIKodcAZwRnppP5C8Ihmq9PkWdpENXI1nC1prubYvdHpsIFRJmSgwTT8o+u0jolXTwmG+ZcXpWpm3vaNWn9oi0H+iJ6w6G85U6lrGarqEhqPZxkVGmSg+Q3UvfWictvKyNNk2LcXQazXIFOJX0o9R97xTrR6zHDxOC32MLePX8nT+qm9bnCwgaI0sx0gcMTVqNJzZkrDv/VICuzzXUUAfm/6iM1+ZG/030YUJf79AzmkX8kVFsloJIRKY/FGHPpsJIlq2LQ5uvsXEeXaXjyNVWYpiAEp5CvNhiYFnim35R5puD7vfYd81fWLbKGCBCU/GZBX1MjJb1+YAVHfuj/GJevnL4AWXjQRFEfbzk9E9Hvu32eXb6aG6h5jrrQEODZaA14uR1JO7iSddwKFUaLHDH4KCQjnTlOuC1qr+ip5It/4yTfoZcuzZSZESbk6+dt/EmS1gbLYXeXWTysi876spmvLKDQQ==;TnOYI2H4IjbqChk819sDnQ=="
