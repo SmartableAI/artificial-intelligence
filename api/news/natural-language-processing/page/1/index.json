@@ -472,7 +472,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -943,6 +943,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-14-espressive-barista-understands-13-billion-employee-language-phrases-out-of-the-box-bridging-gap-between-ai-and-the-semantics-of-human-language.md",
+      "title": "Espressive Barista Understands 1.3 Billion Employee Language Phrases Out-of-the-Box, Bridging Gap Between AI and the Semantics of Human Language",
+      "excerpt": "Espressive, a pioneer in artificial intelligence (AI) for enterprise service management (ESM) and a 2019 Gartner Cool Vendor, today announced its AI-based virtual support agent, Espressive Barista, now understands 1.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/science-technology-business-corporate-news-labor-productivity-and-costs-63b0d94f783548b29f1c64c392d0b885",
+      "originalUrl": "https://apnews.com/press-release/business-wire/science-technology-business-corporate-news-labor-productivity-and-costs-63b0d94f783548b29f1c64c392d0b885",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-kb-home-launches-company-wide-ai-powered-chatbot-platform-designed-to-deliver-a-modern-real-time-online-customer-experience.md",
       "title": "KB Home Launches Company-wide AI-powered Chatbot Platform Designed to Deliver a Modern, Real-time, Online Customer Experience",
       "excerpt": "KB Home launches company-wide AI-powered chatbot platform designed to deliver a modern, real-time, online customer experience.",
@@ -1383,59 +1426,6 @@
       ],
       "topics": [
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-evaluating-an-automatic-speech-recognition-service.md",
-      "title": "Evaluating an automatic speech recognition service",
-      "excerpt": "Over the past few years, many automatic speech recognition (ASR) services have entered the market, offering a variety of different features. When deciding whether to use a service, you may want to evaluate its performance and compare it to another service. This evaluation process often analyzes a service",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T12:06:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Natural Language Processing"
       ]
     }

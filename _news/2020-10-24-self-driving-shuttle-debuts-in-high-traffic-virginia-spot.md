@@ -43,8 +43,8 @@ related:
         isCached: true
   - title: "Self-driving shuttle takes on traffic"
     excerpt: "MERRIFIELD, Va. -- The future of transportation arrived in northern Virginia, looking like a big blue toaster on wheels that seats six and drives itself through the region's notorious traffic. State and local officials debuted the Relay system Thursday, an ..."
-    publishedDateTime: 2020-10-24T07:01:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/oct/24/self-driving-shuttle-takes-on-traffic/"
+    publishedDateTime: 2020-10-24T08:08:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/oct/24/self-driving-shuttle-takes-on-traffic/?business"
     type: article
     provider:
       name: Arkansas Democrat-Gazette

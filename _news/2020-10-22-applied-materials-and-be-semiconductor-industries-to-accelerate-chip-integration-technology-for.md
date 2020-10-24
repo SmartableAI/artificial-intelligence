@@ -42,14 +42,19 @@ related:
         height: 600
         isCached: true
   - title: "Applied Materials and BE Semiconductor Industries to Accelerate Chip Integration Technology for the Semiconductor Industry"
-    excerpt: "Applied Materials, Inc. and BE Semiconductor Industries N.V. today announced an agreement to develop the industry’ s first complete and proven equipment solution for die-based hybrid bonding, an emerging chip-to-chip interconnect technology that enables heterogeneous chip and subsystem designs for applications including"
-    publishedDateTime: 2020-10-22T06:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/applied-materials-and-be-semiconductor-industries-to-accelerate-chip-integration"
+    excerpt: "SANTA CLARA, Calif. and DUIVEN, the Netherlands, Oct. 22, 2020 -- Applied Materials, Inc. and BE Semiconductor Industries N.V. today announced an"
+    publishedDateTime: 2020-10-22T14:54:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/applied-materials-and-be-semiconductor-industries-to-accelerate-chip-integration-technology-for-the-semiconductor-industry/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 23
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 13
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/shutterstock_desert_tree-e1603397722250-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
 
 secured: "kAPvuLqcpMbLwf7MHieghrtIcB6isIy+37PZCwQDzTSjQkDJaWt0pMXHHsuKZMBwPVWn5a7c8rEXhW5J902FsOwG/AlSUNUhwg8n/GYCx98MEL0Ht1HgSBHL+6rEPkpxIhHM9JRadw6a92z3QwjjJdNl94Wd+gNgei0PLjWoR50CpfpiJnch2pfzzltDfQiIl0D9QVaxV9cyq2GUUNQzrZIPnzsHvWmzysnDpcgixk+5xM0pa8xquDzJID3ejUBY29ooAfmtddXRI5BbNHjDqaU1aCdfInLB6D2p/bpeo8/zW/qEVGwlEhmiZrayAgLL05wwPHxlG+nfuAEvlWxBW/HdIAPBdqpeeDGBeEZIC7Y=;E6lFtyoHJq27Z/mXi/jljw=="
 ---

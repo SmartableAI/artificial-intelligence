@@ -2,9 +2,9 @@
 category: news
 title: "Self-driving shuttle takes on traffic"
 excerpt: "MERRIFIELD, Va. -- The future of transportation arrived in northern Virginia, looking like a big blue toaster on wheels that seats six and drives itself through the region's notorious traffic. State and local officials debuted the Relay system Thursday, an ..."
-publishedDateTime: 2020-10-24T07:01:00Z
-originalUrl: "https://www.arkansasonline.com/news/2020/oct/24/self-driving-shuttle-takes-on-traffic/"
-webUrl: "https://www.arkansasonline.com/news/2020/oct/24/self-driving-shuttle-takes-on-traffic/"
+publishedDateTime: 2020-10-24T08:08:00Z
+originalUrl: "https://www.arkansasonline.com/news/2020/oct/24/self-driving-shuttle-takes-on-traffic/?business"
+webUrl: "https://www.arkansasonline.com/news/2020/oct/24/self-driving-shuttle-takes-on-traffic/?business"
 type: article
 quality: 24
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 683
         isCached: true
 
-secured: "F2AHHuAHl3XB94LKZclTyE2t2uTs3pgwqRGsUH8thY/jfPea6e3+muOF+J9u/KB+40UwMX6axkQzpBGBoBPDgBf65pqkME+EncfVhPFHrVkyQouZoGeRz7omids3zL4D+r7gS0I8ptI12cZl0kW4Ny2ocJPkkxXTgPVER4CKRAgIQLyPJdNQ74UAJ2tx/56pl11qQM0zSiW1CEANcJsHil/r5ZBmG9v6kaCuYxWy3myAQ5iDsBBEk6lRZHnAVCQM11qoecx6IIs2L+w60ivy2R1hOMcVNs6MzS0Wga/j9Ix3AfIiBmvZVNFP9znjIuxvZ4I4jFmZSmVPlaL0qcREV3Zz11jjBos5bg3FJ0rHyHaLAgJZdjqMOCrgcrYiRl75A5ay+xXShcZW2HeCQEt1L9KgJmW5XL9A9jHnAMiEsMwGIAk9otbDfvkvbZQcJL5VQaKPd1RipSN9TictPJgo9gouYG73S4FOMES6ykzF9czzRs+/CjXGu16LiCCFLNvydNj4the6SxwBfOArPklyeg==;ati4T/GTQe/aLOvyIUGQtg=="
+secured: "heWsBM3XPlAQeSJ32FQ3fxNHFcizWIkV2v4Sddgjwp2vc9KXpCYyWQDy2GJOGjIU0rBYqzaEtL6qV2L/ib3Ahs34mZfosF9jPGz9NmsJen5OAf8gjP+bJpmWneQs4Xfy9kalL51nk/gBZU6QfBwfAvzGAdfvIo53uVA5dFJpDS84O8DEJ/z7tzCHge6i+1IR9Ar+0XV32hw2QVhUN0THM8wf/7farMqqrYVoGiun9OCkNsDYZ6fqetSD9VLeLZ8LDqqDRwxzYFgMdjka5vvmIQgLSTmEoBIRD40eKB4FfGKmBczhHbgIcG0XUCLxLJo9hasdNztzBLWEcCS+uyUnidfTqecrYLMTc2h+s3r5P2o=;R5tZiUTuBP3deblDE15KMw=="
 ---
 

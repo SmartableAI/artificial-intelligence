@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Researchers at the forefront of developing machine learning methods for chemical discovery"
-excerpt: "The development of machine learning (ML) methods, combined with first principles of quantum and statistical mechanics and trained on increasingly available molecular big datasets, has the ..."
-publishedDateTime: 2020-10-20T13:44:00Z
-originalUrl: "https://idw-online.de/de/news756215"
-webUrl: "https://idw-online.de/de/news756215"
+excerpt: "Prof. Alexandre Tkatchenko and his research team at the University of Luxembourg have been awarded grants totalling 500,000 euros to conduct research in the emerging field of machine learning methods for chemical discoveries."
+publishedDateTime: 2020-10-20T15:11:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/uol-ddl102020.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uol-ddl102020.php"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: idw
-  domain: idw-online.de
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://files.idw-online.de/corona_idw.png"
-    width: 615
-    height: 284
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 1271
         isCached: true
 
-secured: "b5Bly0LTjYHxjNVxl3ceCvtgxsuYSajQxKHcm5INn3QCBsENTLhA5y200j8wTNdD8cBSOg2EuUsuADGcnP2ro2pcL4yUHpokcfL3HF7UIvfg9iFYd00O3YsKvD4DyXo5r3k/kLxDr2NVehGxt+x0dxX5G7ZuXHEK7z5wznGtRc/5cq5p1binlY9rQkxc97tkM2D2KZlRAZ6wEq3O+u88rbNgVbNNitqQeZYj2ztZMcc1BJ8YQnHE4XghIAR6maBPo4IvaNVebD2YV7rVgFfhNWbHPLiBHE70+XLhejBlUoC4GGO3pR/gm2ldgoRl5OOeNds+ApUIeTxA2UWBQwGnj1ATslhEW63fA016gzY1HHc=;2It7YXI9l5DNf9J8JK0USg=="
+secured: "ZJKu3nX1xoiKaXh0NO2Y0CeJX0N0ZJnBJL4bzklYI/6GRnAv127h48eSmAEWJv959ifKmzxkWL2XsiA+fiY7eg7hdI3d1iyt+yxQazOSWYrHAlvLeJIGx+8epq+GWY+SxDw+3X+Pho9X0UnwgXjAAK69laq4Y3TQZPGSUuNUOJfIuKxN6BaCI57UroVtMVsVd3zecfA7suQfAtpH3dhN+VWIMiRPN0DPlwaTmWm5xhilbZnppslDZSShZzC1gn86sXoIvZb8iA7L5sykwpewetuCQGbkqyyCxcVYeGVSL1V01oWrax6LNDIRweaLvxkc4M6lGnetkAeB00mBvNUtHcM/P17eqX7zInqc0tiMH9I=;Qc8NZeCKzhGITIsiruW3/w=="
 ---
 

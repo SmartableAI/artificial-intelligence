@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-tran
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/"
 type: article
 quality: 98
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F39769420-144a-11eb-bfe1-45e43ea856dd&client=amp-blogside-v2&signature=8fd4a9f5ed17636cd9fdd3c52513267131ac292d"
         width: 600
         height: 350
-        isCached: true
-  - title: "Facebook unveils AI-based machine learning software than can translate over a 100 languages"
-    excerpt: "Facebook on Monday unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages without relying on English.  \"This milestone is a culmination of years of Facebook AI's foundational work in machine translation,"
-    publishedDateTime: 2020-10-20T03:50:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/articleshow/78760793.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/amp_articleshow/78760793.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/facebook-unveils-ai-based-machine-learning-software-than-can-translate-over-a-100-languages/amp_articleshow/78760793.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 83
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-729466,msid-78760863/the-open-source-artificial-intelligence-software-was-created-to-help-the-massive-social-network-deliver-content-better-in-160-languages-to-its-more-than-two-billion-users-around-the-world-.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Facebook's AI model can translate 100 languages without relying on English"
     excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."

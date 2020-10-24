@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Researchers at the forefront of developing machine learning methods for chemical discovery"
-    excerpt: "The development of machine learning (ML) methods, combined with first principles of quantum and statistical mechanics and trained on increasingly available molecular big datasets, has the ..."
-    publishedDateTime: 2020-10-20T13:44:00Z
-    webUrl: "https://idw-online.de/de/news756215"
+    excerpt: "Prof. Alexandre Tkatchenko and his research team at the University of Luxembourg have been awarded grants totalling 500,000 euros to conduct research in the emerging field of machine learning methods for chemical discoveries."
+    publishedDateTime: 2020-10-20T15:11:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uol-ddl102020.php"
     type: article
     provider:
-      name: idw
-      domain: idw-online.de
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 29
     images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "FWBBywCnw+FjpeKHi1HJQsY9fCidlL9S4Rby1E6CN9OVu2finxg1YzCq9t5xmPKayPqA/W2gnd9fn82qI1AER/kDonFGktCO1lMcLEJKjH+2fEnlPESIMvxy1FZaMeP/bmcuNLeaNjS8UyVyRUREXejwF7MNsis+jwVBS1TgkqxPE2X+htwLUigiDSt3jaRtP16ssYGW5aNtu7eP1/+z8m0yAU5VM5khY7h61GJD+faj3DYUyfUZE1GHlRCDq8V1lePXOKBy1lxaYYWYOB9nllMKkg7b24Mbxgu+kZk406bI37CtaWshZ65dPzfbUv4xUe0/vYWJkYr2+sOIhVvVfjCLcJLLnO1kmKACNJUqwiG8Unef+T+jUHkDHESQIHzlY4qUr56A/YCYlNYta2Zvk2P2QADNl+cY0wROw7FI5sSujuRuXPzMuBOxS8b5Rfy1p8dQTN0G1pidzW4NKMZ/Mx7KT9OGWPVjSC5N8/cT6XnRS/zh/IhiqwWMab6VXAE/i5FAJOk0OY0T3SGbKvS4Lg==;lb++b++hw94TeVGOiveIGA=="

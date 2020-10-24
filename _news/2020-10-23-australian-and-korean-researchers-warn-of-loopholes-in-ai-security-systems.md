@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/australian-and-korean-resea
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/"
 type: article
 quality: 65
-heat: 76
+heat: 75
 published: true
 
 provider:
