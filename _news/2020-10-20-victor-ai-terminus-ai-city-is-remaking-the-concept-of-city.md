@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17968176"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17968176"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 600
     height: 388
     isCached: true
-
-related:
-  - title: "Victor AI, founder and CEO of Terminus Group: How do megacities evolve?"
-    excerpt: "Recently, Victor AI, founder and CEO of Terminus Group, was invited to Tencent Global Digital Ecology Conference and delivered a speech on AI CITY. In Victor AI’s opinion, the AI CITY should be understood as an advanced stage of the digital and intelligent transformation of cities in the future,"
-    publishedDateTime: 2020-10-19T06:29:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-cfa88f61acc5c888efdacabe5428e1d8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "8IRrIRrbIlpV1v8y/gNbzs5dQgZ0Jn0IaVFxVFpGBY1QnddfcPN7qU1ipd61bxj5I1XKIVQKXVPReSLc+YIU/h0JXltYtOiJ7BJxxOSp7h71WFceDbI2tujZ1gkflBRd49hREs6toDVQnFuDo3TCd/fuxdUmKIvm8xIpPaI+/XouLLLMEYRRdAtkOuY08N/o6KB/q555v4NMC2dl32nOOaMkfhEYTNueQNBQ4dHDKH8oRyd8EdIsr9Y8H0WnJKpLIt1/CTKG0350rww7LQDmEGUExmdiAe6OsN+Yxz5aXhU3KuCtiDXNAXwQ78BYYoLqkJybZJ9M/1U1nniNtYa8E4tSELaTRF8c+lgNxmBq7cBeM7LBfuwMP0z4dUqJ/Xv78etx3mtJkFTOzv1NsozK285L6eIPFG/4a42OMTSKLmtYkPqWUbGtMoO7sgqRtx/CHCvbJkoReYaaOmXS8b4L0cNMiGJuvq0hFWTS+j7Fn6psE8Mm1eKwU0o4GwKr7q/GaJ36MDvDYJ0hWC53mg8Q1Q==;sr5ZWYXWtpjV87ks9LF1VQ=="
 ---

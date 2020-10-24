@@ -3,10 +3,10 @@ category: news
 title: "AI security: This project aims to spot attacks against critical systems before they happen"
 excerpt: "Microsoft has unveiled a new open-source \"matrix\" that hopes to identify all the existing attacks that threaten the security of machine learning applications."
 publishedDateTime: 2020-10-23T15:41:00Z
-originalUrl: "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
-webUrl: "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
 type: article
 quality: 57
 heat: 57
@@ -23,6 +23,6 @@ provider:
 topics:
   - AI
 
-secured: "311ers95XRc8kWuoWJC0YbqC9HX2osnpynvaFiSzB2bHso1VTHtXIapzgLSLAXZgg65bbmJKYwJhJ93UJnBNwy2s8rPBzR7dyp0kLfa9TUVRB5RnwOPMyoOb73q88sEq1+IM9jLhiNRZf8otgi1XPrY2Osu4hkvwMKOb62Q0YyfkpS9Wn9itN6+G7+T1nffy99awdJ37/E6uVDQyu2NWfit+GeeGgQn9SsnmOxol6FXn4Rk/FZFe2V98eGG4/uSZoq6Z6+B4bN+6X5KV47wboO5L/X4z9+gZWE0bDUNPFiH6YxpRnO3PaW5RO3xui1cY5GUEqIcBpUtUsDA2HDLdNJCXTNdxvfCAg+xthjEU1PCStyChH25fU8ifeWCJyDy+klF+IIES8UYSZvVOF3uL/FV6u+5c4NaTkAr01lsHqgGajtDq819Q8NjohH0CidntyNiwSluH5Q3KjuFF4DKhFTbAhpZMJpyjT6NLEOATkHZyxCO4vhXwT3HDgM9N1W7IkiJhTIz8/mSLyFe3ESAnJg==;pFgP+8zeZMmresqhh7/csA=="
+secured: "DDv1qcFP+k8iDogN3MzVXEQoZ1x+tCVlPhluduKUyPpc3Wx3E21Lj4uwINQn14AtiyiwNxuHtm+PeGx6fT75a+0kAXIhvcY4ve/pbE9FU8l6zDAqPRRDh/bQiodIAW9PaDN/7OP63mhRwCJSfuHICU1VrmbSNw42tW9eEANmeobFcABbfycmOmJ6cKYS93Qr+VvZ2t5kg0Lk3YFT1mKFuWzu1dgK+5G+wDFr+QmSS0F5AeSv+Wxz12NlvSWYmE7ZxLzuUigisPs57BjbbrmZ0hdsZRrVvEmTFnSkUUhmU7iDzgfvlto+v6tT064LPvCPU1aWYx7kjk2bXAdTz+711X1rRzuVySPCZ7KlGuWMl3l6WoV7y5xAzF26nQQbQxm5MUht4CfK+D5BcvIsn45TC46UIK8eCmyQYemNhYwNCzP87EjJqtobBKaUhOSt2XMeK+radWAEGS2RtIdfUNiLRZ7SuWH2JgRuQ8CCO7XYW7QhE/et8e5L+wF0g81shPaisDzgJ0s9QLh/l+D15VQoKQ==;6EIzKRDT9CEhEandqW5dxA=="
 ---
 

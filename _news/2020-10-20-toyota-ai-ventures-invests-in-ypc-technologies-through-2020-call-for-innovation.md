@@ -37,20 +37,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Using AI, Canadian city predicts who might become homeless"
-    excerpt: "As makeshift tent cities spring up across Canada to house rough sleepers who fear using shelters due to Covid-19, one city is leveraging artificial intelligence (AI) to predict which residents risk becoming homeless."
-    publishedDateTime: 2020-10-19T05:36:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/19/using-ai-canadian-city-predicts-who-might-become-homeless"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/19/904191.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "1KHRx1g/TLoCX7J0Uub/WRMlv2xBIWoUmqCriFNhzfHUVt+p3A0euuC70rFoqef7QW6+WVhv7gyW9GRuZx+iU3/PIyJHcGQ8COw8Ng9lmKHWC6RPAaZP8JpkCQVEtZiq5ZR+l77VN7WzzpvMjUoTYnXW2998jY//MN2Rwph1IlrT+V2XK0+cY3ukdsxnLgLk8oN5Ua6S3RSSD555hbIlyJoItidLB+G+iHF9bXd3CTCvw8kSJeYaKp8UJwhxRZhGIdbQuP3DF30mVgAvW5RSwMDUQN5r5GqcHWyII8rhxByfW21f3ONXU0OEa6rxZyIdcuAnCHAABqzN+/YWJjiJwSe9+pKQR890NoCG0Chsqh0=;vdmfy0/pY2UlnnZhBQJSeg=="
 ---
