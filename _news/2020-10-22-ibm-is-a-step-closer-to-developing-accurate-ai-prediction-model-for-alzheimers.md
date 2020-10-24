@@ -3,10 +3,10 @@ category: news
 title: "IBM is a step closer to developing accurate AI prediction model for Alzheimer's"
 excerpt: "In collaboration with Pfizer, Big Blue has developed an AI model using speech samples provided by the Framingham Heart Study."
 publishedDateTime: 2020-10-22T15:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+originalUrl: "https://www.zdnet.com/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+webUrl: "https://www.zdnet.com/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
 type: article
 quality: 63
 heat: -1
@@ -158,6 +158,6 @@ related:
       domain: seekingalpha.com
     quality: 9
 
-secured: "2ERanGqujx1AMSFIh4nZgdiLdabzoYOF+LR5Qe2q/geu0qf/V9v1nGU//kviSzrRnarHSR8Fl/O3KJQVCgWPOXL6UrWfQnVNimnwTCJWoO3R682imNKrvfgUwFsGis9ly3eZYGt0RkUve4VdAiiTAAfUe8rD1CwJLd0JTLJR/vEWQvxwqMTDTW0vk6H2noA7FuaNd/16HeexnCjGL8VtcpQOUDTI2nrrxGQYuZXxf5YPIAIqlCtgXyrq3S1ddjWrZKOQAXlMElloiuhyOUAJRmMOfbJEeQde5kxrtPisieKN7Pp2AxOsWXmFxRi6QeuuZ7tn6G/nTyR5sGIbCJv/hYOOYgArXIxj7tIvFAzEcAwgDXmxZ8D9adjfx5RU+DaaWTbFdWyR2cXbO3SidNLwdXkin//FLgBRxqOItIZ8PZMhSG5qXnfxAqtff/qc9i5n4H2oTp0tat3JSVnfoA+vm/lktLdIr1/quztOAmwH24FlRcgbn5Ul4cUcMEYj99lIp7oaFBZfQMXKNtBjYXnYEg==;/FCzo+Ep3Xd/63fztKCCmQ=="
+secured: "aynxQLfgTouCK3k1z1m1swD79pYHkx4bqfHyfZrR3z53u0XfUvLU9UtHSYFWe3ameZAF+o/J/IDocrtBZki+no3xM5KBb6JVkixKXw5T/eZskU9vk2Ig4lItL7GyyOnZ3LKpbizH4gJIGt8h7hIpIgA2Ob4RsXGO4lgatZ8F3AD1O1pN8QFqHwBCadiQZGR/HHyHrHvpDA6A8k25/bGmU4TcHnXwLiwfbxtFqslaZKznGXkBsreMb/7AE2VvBHvN2RXikyKpn9HWiXHcKBtaeXt/VlesV4wi2kO+rPWnKnPR/LHlc0DA0YOB6CvwShe+KtuxnWZdQSJtH+eYk8rlJkApE6MCvl/RHlLETSOpI/0RDwYiX3s3vnVp3uGmhEfhpotzZi/sB5XH+TB6nL22I/ZZ1wovdRc1jmILaSpb2j/BwXncJyR8UrS9q+ULip563d9ClMB1qBFyIsKhJGG+MujGv7yCf6lZ8UaHUepla97xwEIRDhA8WM95FxhCD7uH/CJNuIk3WqGKfU+KxhQ4kg==;7yJqI+m8f1dKmwqbCy6nAg=="
 ---
 

@@ -1,25 +1,25 @@
 ---
 category: news
-title: "DrugCell: new experimental AI platform matches tumor to best drug combo"
-excerpt: "AI systems working behind the scenes are trained on existing ... \"While 1,200 cell lines is a good start, it's of course not representative of the full heterogeneity of cancer,\" Park said. \"Our team is now adding more single-cell data and trying different ..."
-publishedDateTime: 2020-10-22T19:49:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/uoc--dne102220.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uoc--dne102220.php"
+title: "DrugCell: New Experimental AI Platform Matches Tumor to Best Drug Combo"
+excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA). “That’s because right now we can’t match the right combination of drugs to the right patients in a smart way,"
+publishedDateTime: 2020-10-22T23:32:00Z
+originalUrl: "https://health.ucsd.edu/news/releases/Pages/2020-10-22-drugcell-new-experimental-ai-platform-matches-tumor-to-best-drug-combo.aspx"
+webUrl: "https://health.ucsd.edu/news/releases/Pages/2020-10-22-drugcell-new-experimental-ai-platform-matches-tumor-to-best-drug-combo.aspx"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Scripps News
+  domain: ucsd.edu
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/246737_web.jpg"
+  - url: "https://health.ucsd.edu/news/releases/PublishingImages/DrugCell_image.jpg"
     width: 600
     height: 505
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 1050
         isCached: true
 
-secured: "cVBeJ4/D12jwr/+zHtWSY/toZ4AUJKPW3m6HFKxpcPkoc4WrDTvQQGLd4JhF+Eky7q1htI3W3JezZ1J8pDGT6pijpn+ia8leSOIRqTVr1xgAWT5crkh3R1Kk+sHoOTLaao8iEzb+SoWJC9wwHBiknmQszSONAgWwQu0jXbJB9XEX2F/bYpowwgwr8L/tCf5NwBH2db7nv2AlWf5DjEmlJS86WqU5RjWsYaLuxPxIfVt8diltEsVtnv4KAI6gHilNUuI400aj3CO/iiceoJc9fyySFysnoRG8+lVncXtARgeSGoG1cMd6eYBIM60fH57/F+RpsvikOySZcwUHf84JamsBmAJliQ1iPzyrPmagKM8gBmiYKjXmqd+4GlPwbB+B3bYK+CaDXxwvDFGhytelZIdHlrT2yA3+MojnpbkTO4v0iQymqYZ+b9wHCJ76RjOBqP9yfQyR4XgkLwEqsm7g61punoDV9WN4qqGycAaLqu6rAuZjI0SdhAkqtkUxODTaPohypUxErPmYRAQWqIcYmA==;kXwgiIt9COm6vG5V4xBEMA=="
+secured: "N4cSIA9PUDx4/SzfJbUywoBx7pb3CxnO0TXnOUNSpesylp9LCgfcGMANabC5oIAHxispKK+lnTNVrTE2Nn2zlXLBPFE0VOnTpvRbgNOP2sqvrzlsLPDBfiVuF8vT2DfHYRmvvdjF843gGwiGoa8n4Ij+inKiEEgwwNUwq0XvvOq/kHJE/zsiQJc74sbqz10IZBVounj4TkfMhsD/66akKIjMTgJRa6dtqYlXYwbtJacmKnsrd137pzC2WM4OzcqGQE4mCwROnpCgCBHTaEfM9WeKcSaa9y0bzA6faprSYQ00Kp/1V8BW0a+YnijhxjSPie0gIy/QpQ6cFTw3gCVrSkytMfBaBanvfcBX4oOn4SY=;+5KBVwgF507FoHBA9EDJYg=="
 ---
 

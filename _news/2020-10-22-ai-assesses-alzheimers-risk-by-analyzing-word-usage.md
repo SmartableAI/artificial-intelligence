@@ -91,9 +91,9 @@ related:
   - title: "IBM is a step closer to developing accurate AI prediction model for Alzheimer's"
     excerpt: "In collaboration with Pfizer, Big Blue has developed an AI model using speech samples provided by the Framingham Heart Study."
     publishedDateTime: 2020-10-22T15:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+    webUrl: "https://www.zdnet.com/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
     type: article
     provider:
       name: ZDNet

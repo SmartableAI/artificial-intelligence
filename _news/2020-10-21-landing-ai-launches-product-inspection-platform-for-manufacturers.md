@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
         width: 300
         height: 250
-        isCached: true
-  - title: "Startups develop AI manufacturing solutions"
-    excerpt: "NADI System, Memorence AI and Verdigris Technologies have developed AI-based solutions for manufacturing. NADI has developed a 3D visualization management platform based on PSIM (physical security information management) architecture."
-    publishedDateTime: 2020-10-19T07:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20200928PD201.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200928PD201_files/3_b.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "AI Gives Visual Inspection a Boost"
     excerpt: "Landing AI unveils AI visual inspection platform to improve quality and reduce costs for manufacturers worldwide."

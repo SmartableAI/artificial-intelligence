@@ -1,47 +1,26 @@
 ---
 category: news
 title: "Modzy Presenting at NVIDIA GPU Technology Conference"
-excerpt: "Modzy, the leading enterprise AI platform, today announced that it will be a Global Diamond sponsor of the upcoming NVIDIA GPU Technology Conference (GTC), with workshops and the conference scheduled for Oct."
+excerpt: "Modzy today announced that it will be a Global Diamond sponsor of the upcoming NVIDIA GTC with workshops and the conference scheduled for Oct. 5 – 9."
 publishedDateTime: 2020-10-02T18:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-computing-and-information-technology-33bfb90961274c0e84c1c25b2a49fd9c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-computing-and-information-technology-33bfb90961274c0e84c1c25b2a49fd9c"
+originalUrl: "https://www.businesswire.com/news/home/20201002005412/en/"
+webUrl: "https://www.businesswire.com/news/home/20201002005412/en/"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20201002005412/en/827132/23/Modzy_logo.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-related:
-  - title: "Nvidia introduces Ampere-based RTX A6000 GPU for professionals"
-    excerpt: "Nvidia held its GPU Technology Conference, or GTC, and it unveiled a ton of new technologies and capabilities at the event, including a new Ampere-based professional GPU, the RTX A6000."
-    publishedDateTime: 2020-10-05T14:42:00Z
-    webUrl: "https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals"
-    ampWebUrl: "https://www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 89
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1601908637_quadro-rtx-a6000_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-
-secured: "Z/sJUK/ZT6CB5URMQzUH93LDNuTqIopYJMkdHJjNKU+AnaHxlTraGfgsGh4Ct0qQ/q3XtRS7pH6byZeZWZgQhTM0HZ31gnZRO/612RaaFDX8voHuAmrIYsic5IQgkL2/40KVjVdVMjaDNcYCcDk/kI1kd9VwAFD6IYti0jxY8LWfyAS6ccPYpsvEsqnBv54SNhjiEL4T8G/KE5OSLISEBfp6j3GEhFpVLsfMSU4Vv7/FOA7WGTBajx6/yaUzQvg2QyM9WvkHpGhLESRlUxpF4Jyq/MGvraWC60QkpHLGazeE8N3699hxHOrclurxsfuTwh+DVmlZC+dYMRRBiiEXE5Su8P2ZjdKsD/QwC7eVTuA=;HGoQFEFIf/XVjssT2qb8cw=="
+secured: "mvEERwtmhhVffhjP0xix7K+dGaY/eM34oe6S+jey4OvK4/7iDOQB1ypPupExzVmhInT5WnFdaWbstdUc1yT8SnaXZeoERfzBs8MplWBrRcCUO5CZoMi7MiiZt011EQXQSHaNyrovfxYkv40ixq1PYQTEesSOo/R62sznzcXr/Ju9zgycFtWpwLlymaKfiIpu/LJ0NhveerPoNitIc/Hg2HhD3SFGjhLNt96zVjaZcZxRMsWg8ES3arWAtIn+KWKW2ASWBTvVfrM4uufP78TXYcfYn5UG2R2L76iLo3Y+KZM3QRlbAAuYSWBUXIoCP6dluIf4afsreAnoxAeMRE5Hxw9tpAb86/27K4VYrm1X9hc=;/NaWPxpFsptBMRD4wuY1Xw=="
 ---
 

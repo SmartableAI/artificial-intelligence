@@ -2,38 +2,39 @@
 category: news
 title: "Ironside Achieves AWS Advanced Consulting Partner Status"
 excerpt: "The journey to AWS Advanced Consulting Partner status pushed us to gain valuable understanding of AWS and services like Amazon QuickSight, Amazon SageMaker, Amazon Redshift, and more, which ..."
-publishedDateTime: 2020-10-22T09:15:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201022005343/en/Ironside-Achieves-AWS-Advanced-Consulting-Partner-Status"
-webUrl: "https://www.businesswire.com/news/home/20201022005343/en/Ironside-Achieves-AWS-Advanced-Consulting-Partner-Status"
+publishedDateTime: 2020-10-22T13:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18014673"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20201022005343/en/832585/23/IG_AWSpartner_Logo.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
 related:
   - title: "Data Reply Achieves AWS Machine Learning Competency Status"
-    excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
-    publishedDateTime: 2020-10-22T07:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
+    excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ..."
+    publishedDateTime: 2020-10-22T03:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: Business Wire
+      domain: businesswire.com
+    quality: 56
+    images:
+      - url: "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "DATA REPLY: Data Reply Achieves AWS Machine Learning Competency Status"
     excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply Group company specialized in Big Data Analytics and Artificial ..."
     publishedDateTime: 2020-10-22T07:33:00Z
@@ -44,6 +45,6 @@ related:
       domain: finanznachrichten.de
     quality: 36
 
-secured: "1C1SNe+89PyeeOTQ45IYEFB8cc0uk9vfNi5NnKT7U6jB4G+TeYcPJNUT8xJX5xIcKoyRka/JVbINUiFpAtJGk8Xh0HanDHNL2EoDeB5aw6gTjHsfIayw0NrJ1l7zeBtp1/yZcbANFJVbRTy+035/+r36Hj0DvixLnzkfiZrzTDsI/mjJMcEHwKvv1y7eP9+gkQRzy4gNPMHx/K8kWE616Te7p75+l0jWEYrPoL4IyByPw02iOdUwPdmFNxjeCX1e19ajLxd39zdRsK/Pab8oCmvz1f+7O8696/H7ug7vMBYQlBnqLPLxQ88xXRowvnbB3WAC+091s87EfMVXzcnMNZ44hSbBBMoODvjulUnS4qo=;Kjc53kWO+9HP8O63xc4ajg=="
+secured: "SvuJg+u51IiHuqZ6CpUARd7Bxb4A26RCr5Rl6s8QML//U9F8Ivao4rUQdOXCVRLPGlfIVqDVgfltlYYEh+ieTXaxkPoL3WWP3Le9ktQdfIM33QtAtLdsj0eGqGYq1+z06W81bTx9rZYcHgXlmeGur1ZvN8Le4GUpHDGtg9E7Cd/IJx+q8ysk7agmf86jTYyaIlJifwq7T+iLJsq7/D4kcxztSZZIiR+af7FkENa3TTGyndVGvf5t8xqeihCdfbU7ItJqzd17RRFQiA5yYXGILMSL9AFhDidwwmO3qJoQY0G/cd9Me8DBaZdWe9GRr73bykPwf7EIKm41EmXVzz/0Sgjc2/a8VuOjU22weOsOJno=;qodG9AM0hh73NyQpl0b5NA=="
 ---
 

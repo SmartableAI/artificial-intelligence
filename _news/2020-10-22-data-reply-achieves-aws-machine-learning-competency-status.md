@@ -1,43 +1,42 @@
 ---
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
-excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
-publishedDateTime: 2020-10-22T07:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
-webUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
+excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ..."
+publishedDateTime: 2020-10-22T03:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
+webUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
 type: article
-quality: 66
-heat: 86
+quality: 56
+heat: 76
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
+images:
+  - url: "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
 related:
   - title: "Ironside Achieves AWS Advanced Consulting Partner Status"
     excerpt: "The journey to AWS Advanced Consulting Partner status pushed us to gain valuable understanding of AWS and services like Amazon QuickSight, Amazon SageMaker, Amazon Redshift, and more, which ..."
-    publishedDateTime: 2020-10-22T09:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201022005343/en/Ironside-Achieves-AWS-Advanced-Consulting-Partner-Status"
+    publishedDateTime: 2020-10-22T13:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18014673"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 39
-    images:
-      - url: "https://mms.businesswire.com/media/20201022005343/en/832585/23/IG_AWSpartner_Logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "DATA REPLY: Data Reply Achieves AWS Machine Learning Competency Status"
     excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply Group company specialized in Big Data Analytics and Artificial ..."
     publishedDateTime: 2020-10-22T07:33:00Z
@@ -48,6 +47,6 @@ related:
       domain: finanznachrichten.de
     quality: 36
 
-secured: "N7JIbsmlq4BISuoSmNo8F4D3atrNCZn6Dkg6gkc6ZIUpQjb8VXXabaaGIpqgta/9Fbl97bxeW0WvtGrLNwopFz5YRvLHHNcRNzuGHU8FUkqfzpn395SG3SEzkZORXZxAgi5cyFT9X0Qnvhy+948Pnq1J0dq6ssAy11ORkE3Fe7b26/EIONvE4u6LLm8I1Rl8Sotwu8FC8ZoBXGsm8zwEMQcvME+tIc0sW7oaTvvzf75GI4asGMLju5SdwJr5mQrojGOL1qW5jADx480fhC5adE+6nBu7aQnvutPuPAnCG/tWWoW/kmwtMu0NZkA+PyZXMNDqQ7IzQXBA1DYLqkzCq7Yxbf6O7PoVYW7JfrPuJ6k=;nmYrPOkhM19Q9bfn66jP6g=="
+secured: "h36tzWYD3ytgI+x2DcnbPYk8RsXSm3uM+Ud8CrtRu/8iB4iAAQhxxkEiYTPd0HWFfGr+GDV034ILRfsD7PVXtvJvWDyFGG8afZwnFtB/lScBtleNHK5RdW8ALReBjd6RvezxhxALM643QDTeXAZq7BLNqOz9/vCSvULg8JGRMoeFcZRFWsRNPt4tXEtRVOjNORtZdafmpBU8ndVJ8QYYq7LiqO1DZgsaiB/qm3dyavcKqM+FL0DrJakdio2lpj0wSnDvlRJZ1dt5/SN1imTe/Xc3lae84ljjnuZdaqLUVKoNvr8zmMQKP2rblNagttoj6TP6lW4XYyFTxo2yw7D1K7PRfQA8wkoblxkcpvcnC6w=;9TjWvh/cOXkAOJ7qP/aitg=="
 ---
 

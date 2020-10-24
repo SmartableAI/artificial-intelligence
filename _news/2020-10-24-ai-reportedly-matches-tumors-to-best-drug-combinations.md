@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "DrugCell: new experimental AI platform matches tumor to best drug combo"
-    excerpt: "AI systems working behind the scenes are trained on existing ... \"While 1,200 cell lines is a good start, it's of course not representative of the full heterogeneity of cancer,\" Park said. \"Our team is now adding more single-cell data and trying different ..."
-    publishedDateTime: 2020-10-22T19:49:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uoc--dne102220.php"
+  - title: "DrugCell: New Experimental AI Platform Matches Tumor to Best Drug Combo"
+    excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA). “That’s because right now we can’t match the right combination of drugs to the right patients in a smart way,"
+    publishedDateTime: 2020-10-22T23:32:00Z
+    webUrl: "https://health.ucsd.edu/news/releases/Pages/2020-10-22-drugcell-new-experimental-ai-platform-matches-tumor-to-best-drug-combo.aspx"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Scripps News
+      domain: ucsd.edu
     quality: 39
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/246737_web.jpg"
+      - url: "https://health.ucsd.edu/news/releases/PublishingImages/DrugCell_image.jpg"
         width: 600
         height: 505
         isCached: true

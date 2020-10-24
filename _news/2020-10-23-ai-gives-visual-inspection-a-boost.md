@@ -56,20 +56,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Startups develop AI manufacturing solutions"
-    excerpt: "NADI System, Memorence AI and Verdigris Technologies have developed AI-based solutions for manufacturing. NADI has developed a 3D visualization management platform based on PSIM (physical security information management) architecture."
-    publishedDateTime: 2020-10-19T07:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20200928PD201.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200928PD201_files/3_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "gUTyk+F5e6MwNGgCso6mLCqA6FMzlrPWvkngf7g9y7mNLGlfgz7pa0l6oP/ZKJDghbh8ZgE6ujOttq3d8r887DEnNuCGaXQf0l5SOuAbkDJgkJt+zEOMzHoM0ACGiBe8vNqIgC2oyVkryGm1zTXBCRlqD5epmDhmvWGi7IWvj13zLaPGuScfCtIm8sOnMtBTnn/pvQ/aCn7/esNquPAAh0vnCn/os34Fj4yNqlSHU1rdVi8fQzXUXM9U/oGw8zzOtHPpvC96AAsU8mgZsP9QfhX6jlQQzrESzOtPJcXT7CpnKzaLJP87hyZ7G+7Rmj9hlYnb891k8c2gJJRt5YFInCl3uWMPYll89qGS/roYyno=;TMjB3QIB8NV+yfMSwswfOw=="
 ---

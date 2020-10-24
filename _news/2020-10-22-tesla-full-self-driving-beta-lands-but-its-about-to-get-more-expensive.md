@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-el
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/"
 type: article
 quality: 103
-heat: 483
+heat: 503
 published: true
 
 provider:
@@ -339,17 +339,17 @@ related:
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "The conflicting messages have experts in the field accusing Tesla of deceptive, irresponsible marketing that could make the roads more dangerous."
-    publishedDateTime: 2020-10-23T14:11:00Z
-    webUrl: "https://www.wkyc.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.wkyc.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    publishedDateTime: 2020-10-23T15:11:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
     type: article
     provider:
-      name: WKYC3
-      domain: wkyc.com
+      name: KHOU 11
+      domain: khou.com
     quality: 59
     images:
-      - url: "https://media.wkyc.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+      - url: "https://media.khou.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -385,6 +385,22 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Tesla Deployed Full Self-Driving Beta in Some Cars. Here’s How It Works."
+    excerpt: "Last week Monday we gave you a heads up that Tesla would be releasing a beta version of its full self-driving (FSD) capability to some cars this week. It appears Elon Musk’s team has made the deadline;"
+    publishedDateTime: 2020-10-23T16:53:00Z
+    webUrl: "https://www.insidehook.com/daily_brief/vehicles/how-tesla-full-self-driving-beta-works"
+    ampWebUrl: "https://www.insidehook.com/daily_brief/vehicles/how-tesla-full-self-driving-beta-works/amp"
+    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/vehicles/how-tesla-full-self-driving-beta-works/amp"
+    type: article
+    provider:
+      name: InsideHook
+      domain: insidehook.com
+    quality: 58
+    images:
+      - url: "https://www.insidehook.com/wp-content/uploads/2020/10/Tesla-Self-Driving-Beta.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tesla Bros Are Freaking Out Right Now About the New Full Self-Driving Beta"
     excerpt: "\"It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road.\""
     publishedDateTime: 2020-10-23T14:52:00Z
@@ -416,6 +432,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4d24e44-2e64-4a1f-9e05-98ab2bfcd533/7bb3896d-726a-4129-a4d9-e2742fce53c6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves! Here’s what happened"
+    excerpt: "Tesla sent out its ‘full self-driving’ software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the USD 8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-24T01:45:00Z
+    webUrl: "https://www.orissapost.com/tesla-full-self-driving-vehicles-cant-drive-themselves-heres-what-happened/"
+    ampWebUrl: "https://www.orissapost.com/tesla-full-self-driving-vehicles-cant-drive-themselves-heres-what-happened/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/tesla-full-self-driving-vehicles-cant-drive-themselves-heres-what-happened/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 55
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2019/12/105773926-1551733568737model-3-red-driving-sunset.jpg"
+        width: 678
+        height: 381
         isCached: true
   - title: "Tesla launches ‘Full Self Driving’ beta to select drivers"
     excerpt: "The Early Access Programme serves as testing platform to help fix software bugs Tesla CEO Elon Musk has revealed the company has started rolling out its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers."

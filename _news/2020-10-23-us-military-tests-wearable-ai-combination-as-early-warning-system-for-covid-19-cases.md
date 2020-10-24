@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/us-military-tests-we
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://media.defense.gov/2020/Oct/21/2002520993/1280/1280/0/080120-N-NO201-0001C.JPG"
         width: 1280
         height: 853
+        isCached: true
+  - title: "UCF researcher using artificial intelligence to help detect COVID-19 virtually"
+    excerpt: "A reasearcher from the University of Central Florida is part of a breakthrough study doing just that, by using artificial intelligence to spot COVID-19 in a person’s lungs."
+    publishedDateTime: 2020-10-24T00:39:00Z
+    webUrl: "https://www.wftv.com/news/local/ucf-researcher-using-artificial-intelligence-help-detect-covid-19-virtually/BXPALXY4TNHSRMRLKYYJWVNYMI/"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 33
+    images:
+      - url: "https://www.wftv.com/resizer/fZky0k75pByk2OQIsyJnkKAPfcA=/1200x628/d1hfln2sfez66z.cloudfront.net/10-23-2020/t_79d926331a8640389e88bd20fced70aa_name_REAX_UCF_ART_INTEL_DETECT_COVID_transfer_frame_851.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "zYm/UIqtrMviKg9Wdcb8Mbh0U06jWcYRikqk93tP0cxiLxZo4DM2SiSTcjZRGsudPNL8rus51jt/wcPS6OUxaRcuX5881dZajVQ+grklVMZc/h1LGLLkOHR5fbAOEHXrFrN0RZB1OsMbvQidIJwBeF5kpo6J0rhhxlyHGMSLci5XGof8Mk1X+lT4JBCpRoDf6P9ilF/2SNlTprwZ9byVDAYtF/AHIFkF4lHwE2z+gGluJWmfe5vMmTgVTaIgtjAzCWrxOyUnm9lApaIWk/ZhcwrK/+MwEn4T3en+MQpdihpQ2Aoifj7D40XxplD12m58GUWvWXQbJ+v5pMam26OpjLLELPzikMGpwiIzjuGfLZNfhVL1umACWuVfoVsYNooKwNKtG/ydyspr2YvDaLFIC5TLDS1FFJQt8TGLqIWLr6zPGcAgGPQjeJPsXR9FO8KILQGWac34ykfQWw14jCcY2itWC0v8LmT9YOnpIIk96d7fYsQl+OrmShsQ7LegGbZiAXI/4mSQck/bmD7RpXX9Aw==;DSnnOqn38wr+38ItUnpZ9Q=="

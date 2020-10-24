@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-19T13:00:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-transportation-infrastructure-industrial-products-and-services-dd23307f13774139ac4f0b08f30691b5"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-transportation-infrastructure-industrial-products-and-services-dd23307f13774139ac4f0b08f30691b5"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

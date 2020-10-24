@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/20/21517616/adobe-phot
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning"
 type: article
 quality: 88
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "LuminarAI: AI photo editing will make Photoshop look like a stone axe"
-    excerpt: "How much of a given image is real these days, and how much is manipulated? And how much does it matter? The tools of image editing have improved massively over the last 10 years, as anyone who likes to zhush themselves up for Instagram can attest."
-    publishedDateTime: 2020-10-19T08:08:00Z
-    webUrl: "https://newatlas.com/photography/luminar-ai-photo-editing-sky-replacement/"
-    ampWebUrl: "https://newatlas.com/photography/luminar-ai-photo-editing-sky-replacement/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/luminar-ai-photo-editing-sky-replacement/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 87
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/7ca40e5/2147483647/strip/true/crop/1196x797+77+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F76%2Fb4%2F7325e48e4f7bb6e04e5575ba998e%2Fluminar-ai-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Photoshop, Premiere Pro And Other Adobe Programs Get More AI Smarts"
     excerpt: "Max virtual conference begins, Adobe announced a string of AI-based improvements to Photoshop, Premiere Pro and After Effects. The conference features Ava Duvernay, Zendaya, Taika Waititi, Marshemello and Annie Leibovitz,"
     publishedDateTime: 2020-10-20T13:05:00Z

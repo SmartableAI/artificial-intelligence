@@ -31,20 +31,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 65
-  - title: "Baker McKenzie's New AI Project: Knowing What Clients Want, Before They Do"
-    excerpt: "Baker McKenzie announced it's collaborating with an AI technology developer to help it predict clients' future needs. While the software may have less-than-perfect accuracy, lawyers still see a significant benefit."
-    publishedDateTime: 2020-10-19T07:34:00Z
-    webUrl: "https://www.law.com/legaltechnews/2020/10/19/baker-mckenzies-new-ai-project-knowing-what-clients-wants-before-they-do/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 35
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2018/12/11.jpg"
-        width: 5669
-        height: 3780
-        isCached: true
 
 secured: "XEk//uss5jJTowU1uk1ZXya3cs0cMtmBGfh+dBp0/9I6L2KlJPRVwFqJnOQa4PbcY5q3mMhCh8Euws3CvT2i1xN9waSz8600EwguFuFFs/ZZd5Qy2kVAnzq7dbp0G+K7QLtl/60xnRhUd+oNqc57F7YN1JWnYqhVuprAK/9qsVZ4FDX9Fycfof2TlS7eGIF40ICiZCJVPH/UBi1KuW1y2Eger/OL32Nvh2/21kCHRjNa/BxtFyN+0pztNOCGT1iEt0UNZuXfzvKQv6+KEnUHuL3+LD5gjGteqWl/CH7j5JFZiJuLVGFC/1HojcdHKyTg6ygHcpjY8OcxmYJzrX7diWVaMRfimBGbPAecK6NFNvo=;nh0I1CPCHfqW74eGi4dFVA=="
 ---
