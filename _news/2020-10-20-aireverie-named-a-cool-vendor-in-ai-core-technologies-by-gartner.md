@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-computin
 webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-ca4e79d27da9464d8a07b34ed61d9572"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Gartner sees 'internet of behaviors,' automation, AI, experiences key 2021 technologies"
-    excerpt: "Rest assured that Gartner has its share of buzzwords in its 2021 trends listing, but the technologies in whole tell a story. Here's a look at the trends and some color commentary."
-    publishedDateTime: 2020-10-19T16:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/gartner-sees-internet-of-behaviors-automation-ai-experiences-key-2021-technologies/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 59
 
 secured: "gozQxH+NkaBlpWhxKNr+Z3OLTUwo8c0l4IsJwh8itMYgSthe4D2rB6GZmAmXUmmwVMsDDGIaq2BuiWECFeRe2bDTgoZmYsbbfVTS4q/2VRuiXbmWuvZ2HXIwK9NKrtHgJquNVQY1q2GwXtBHr/BzFnnRwmNL2LAN4e4487FHjGqD639rbvt+/udF2E4gbQHRj2wRf9dIPmgcIvxbZib4OmZkZBFZFv5j0K1ANYxK2nwVz71I7l6zta1b3LYWRVvf9/DZLSwyJXUvweVck1sj5mVc+Ez/1Mi7UYOngJCJjIIxj2mBN1Zd0HXmt5RVwjLvquiV7Q8LYDAz9fpIHkJs9h3lbp487Wy9C56+tajRx7Q=;oe6p/zwhBirsWq297sjm0w=="
 ---

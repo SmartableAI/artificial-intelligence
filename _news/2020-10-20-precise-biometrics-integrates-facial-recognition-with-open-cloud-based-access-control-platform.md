@@ -39,20 +39,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "NIST face biometrics accuracy update shows same top vendors for people wearing masks"
-    excerpt: "The National Institute of Standards and Technology (NIST) has updated the results of its testing for the accuracy of facial recognition algorithms identifying people wearing masks with a group of"
-    publishedDateTime: 2020-10-19T16:02:00Z
-    webUrl: "https://www.biometricupdate.com/202010/nist-face-biometrics-accuracy-update-shows-same-top-vendors-for-people-wearing-masks"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 17
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Face biometrics researchers find possible route to better accuracy across races, genders"
     excerpt: "A sampling of commercial facial recognition algorithms seems to suggest that face biometrics systems are currently too dependent on certain attributes to differentiate as easily between different"
     publishedDateTime: 2020-10-22T22:20:00Z

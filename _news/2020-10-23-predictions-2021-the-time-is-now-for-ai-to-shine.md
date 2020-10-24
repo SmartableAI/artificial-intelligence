@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2020/10/23/predictions-2021-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2020/10/23/predictions-2021-the-time-is-now-for-ai-to-shine/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Top tech trends for 2021: Gartner predicts hyperautomation, AI and more will dominate business technology"
-    excerpt: "This trend involves providing engineering discipline to an organization because only 53% of projects make it from artificial intelligence (AI) prototypes to production, according to Gartner research. \"AI engineering is about providing the sort of ..."
-    publishedDateTime: 2020-10-19T16:32:00Z
-    webUrl: "https://www.techrepublic.com/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/top-tech-trends-for-2021-gartner-predicts-hyperautomation-ai-and-more-will-dominate-business-technology/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 70
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/10/19/1cc9f88c-556c-48ee-9d3b-df756c54289d/resize/1200x/ddd76591ebe9c1bc99fa5377a8025f1e/ai-computer-chip.jpg"
-        width: 1200
-        height: 894
-        isCached: true
 
 secured: "HBs5VkLwe7f7Gtm0b2MLu7PxblZFny2IZ0MOFqhjGHYT39WQPNgfoZ1AW7Bgwy5P26+uohEgt4oF432iabGDOR73IhfdHqrInoCh1CoRYejn1QbWpIXMgWiqdH9D+8h8RAQtfzOW4atuSpaJ+Zq/PInysfEuT+CNDE7Rhx3QxfK/5fNKSBKSXZ36eFi2ejAQr0SE2yf1uvhNREZFCQOIlFe+7Y9jbzXIDODpBu40ic5TxjT9so3etJXaARZd1b3cFsS7qDdGo3agqCoF5D86OF2s9CidPySpXKbPiLj9Y0xoy/uz8CMBRYedYFqunCG1cCuxcpZElknB1T2FCNLmRx09xmmuu+KXq4p3dBCB534=;5KQ4wPVH01W0wMl2ofWcMg=="
 ---

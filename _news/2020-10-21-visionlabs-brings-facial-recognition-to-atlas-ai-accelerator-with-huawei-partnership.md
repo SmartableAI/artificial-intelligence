@@ -24,17 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Huawei partners with VisionLabs on AI facial recognition system"
-    excerpt: "Huawei has signed a partnership agreement with the Russian company VisionLabs, a subsidiary of the bank Sberbank. They plan to cooperate in the development of products based on the Huawei Atlas AI computing"
-    publishedDateTime: 2020-10-19T15:17:00Z
-    webUrl: "https://www.telecompaper.com/news/huawei-partners-with-visionlabs-on-ai-facial-recognition-system--1358327"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
-
 secured: "n50/VnI+P8nh0/xMDPPnTrOXFCGHlfSakTpSS1OrrqjmGd4fDu7yBdDxdgUbeAgbuEkasWQTo1k/Vwwq1HP4sbsjq3sXtTw2bdyfsBTbR1IX3Eqqxo0POFTs7kz5JG9lu4Q9zjsw6WrOjurYVoR2JFyyUzCeR5hPDNgkx1pA6kx9lOO3XNY8ii612paZAtKkP9M5LwrXCYCnL9qNX3sj+QNE0RyODaPgToG6hiOnE07rJ8dbPfz5V1WjTYbPIgXuK9sCUeVb3d+L9iIeQS+Hnh2SVTxLkCXqUlTKDsmkMwOn6JnpIBjdyVaglD6csdbkQavvvPdfn6v/TSBPowlVKdghiFmwZAbi4tUCNwWFoI+lVYUs6xiLZPwNZMamET2EU4DJ9hvDKNCEzVeIkbqi4XZp8Pv39Om3HxXf2k6iZebiDa0C7/n570OIRS+xubT/OdIX0O6IglJPCxxeRBLQQHM2taDxj5vBf8ZSFSJFMxNyM7YHOrMJvOYuoIYSy4tl5LX1Rhp83SeEFQFNDD8Jxg==;W4LTxrgBs9XRxCA4IZy+dw=="
 ---
 

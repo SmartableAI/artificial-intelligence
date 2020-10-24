@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-sol
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1199
     height: 800
     isCached: true
-
-related:
-  - title: "Transforming the Contact Center with Artificial Intelligence"
-    excerpt: "Learn what other companies have done to transform their contact centers with AI, as well as the rewards they've reaped from their efforts."
-    publishedDateTime: 2020-10-19T17:02:00Z
-    webUrl: "https://www.destinationcrm.com/Webinars/1538-Transforming-the-Contact-Center-with-Artificial-Intelligence.htm"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 37
-    images:
-      - url: "https://www.destinationcrm.com/Images/ArticleImages/ArticleImage.23365.jpg?display=canvas"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "9wBR3n9hqqDOXhTQzqnZfIqUpMvC0EKoqUgMTkA8tiePV85nSWeG4hga758BYpYGFqwzVCAWb94AykiZHzXZOgQWY7ZLN8F9xaWJ/xl56Nj/OB38ZOSTxEHDkBBdcOpHdeRsQoEr24VYjcBGqquc0lFxqqduzJ/pXE0uDftsIDI8rxjCGQZTDHs2PTqr5B559LFPvdrLFYhmEiMbuF3aikIb4eR7W4a9mNQDRDDf0XoLYog5rTRm/zylCo0ZLsGx9cyLf0uIc91suNx+b4bKQ9+DhFsP/v5uOOitIuDvTUJ1AktzqUh3ubSMAw4zReB+WVJARI0lfkP+CKq2syUoolUX+hrHLRu9GabH4zXW1Bqw33nKyBjr5Aq88iqI9i14xFKLMOJDDIILq7srdbppN3HghzAQFv1ZlNDACoHqRAT7eTuj5IHcZ23MYG8+F57D4mLR/5o1BnQQHFkLF0TekXtAWwg2fLVkwJRENL0twQ8gHtHGTHf6jMNnDHlOcqbn0Ctq/vTrR7ejDxMX8ccByA==;rqWXQIZAc3nPWuwAA2HLzg=="
 ---

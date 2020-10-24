@@ -155,22 +155,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Facebook unveils 1st multilingual Machine Translation model"
-    excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT) model that can translate between any pair of 100 languages without relying on English data. Called “M2M-100,"
-    publishedDateTime: 2020-10-19T16:57:00Z
-    webUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/"
-    ampWebUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 59
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Facebook Aims To Predict COVID-19 Spread By Using AI"
     excerpt: "Facebook has published a paper giving a forecast of COVID-19 spread across the U.S using AI. The company posted the news claiming that its forecast has"
     publishedDateTime: 2020-10-21T12:26:00Z

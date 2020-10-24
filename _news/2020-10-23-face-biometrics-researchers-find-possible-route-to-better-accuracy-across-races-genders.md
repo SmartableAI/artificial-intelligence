@@ -53,20 +53,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "NIST face biometrics accuracy update shows same top vendors for people wearing masks"
-    excerpt: "The National Institute of Standards and Technology (NIST) has updated the results of its testing for the accuracy of facial recognition algorithms identifying people wearing masks with a group of"
-    publishedDateTime: 2020-10-19T16:02:00Z
-    webUrl: "https://www.biometricupdate.com/202010/nist-face-biometrics-accuracy-update-shows-same-top-vendors-for-people-wearing-masks"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 17
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "US plans voice biometrics upgrade and shift to cloud for DoD Automated Biometric Identification System"
     excerpt: "The U.S. Department of Defense (DoD) intends to move the remaining on-premise elements of its Automated Biometric Identification System to Amazon Web Services’ cloud ahead of a series of upgrades,"
     publishedDateTime: 2020-10-21T19:57:00Z

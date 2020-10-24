@@ -19,35 +19,44 @@ topics:
   - AI
 
 related:
-  - title: "Helios Visions Partners with Thornton Tomasetti’s T2D2 to Provide Artificial Intelligence-Powered Drone Solution for Facade Inspection"
-    excerpt: "Tyler Gibson, Co-Founder of Helios Visions, conduting aerial drone inspection of high-rise building from downtown Chicago's Riverwalk. Helios Visions holds waivers and authorizations for a number of important drone operations including high altitidue ..."
-    publishedDateTime: 2020-10-21T04:31:00Z
-    webUrl: "https://www.suasnews.com/2020/10/helios-visions-partners-with-thornton-tomasettis-t2d2-to-provide-artificial-intelligence-powered-drone-solution-for-facade-inspection/"
-    ampWebUrl: "https://www.suasnews.com/2020/10/helios-visions-partners-with-thornton-tomasettis-t2d2-to-provide-artificial-intelligence-powered-drone-solution-for-facade-inspection/amp/"
-    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2020/10/helios-visions-partners-with-thornton-tomasettis-t2d2-to-provide-artificial-intelligence-powered-drone-solution-for-facade-inspection/amp/"
+  - title: "Juniper to Spur AI-Based Solutions With 128 Technology Buyout"
+    excerpt: "Juniper Networks, Inc. JNPR has inked an agreement to acquire smart wide area networking startup — 128 Technology, Inc. — for $450 million. Through the deal, the network products and services provider aims to expand its footprint in the AI-driven enterprise solutions market."
+    publishedDateTime: 2020-10-20T13:46:00Z
+    webUrl: "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp"
     type: article
     provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 25
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "Juniper Buys Startup 128 Technology For $450M To Boost AI Capabilities"
+    excerpt: "Juniper Networks acquires networking startup 128 Technology to boost SD-WAN and enterprise artificial intelligence, says CEO Rami Rahim."
+    publishedDateTime: 2020-10-20T14:03:00Z
+    webUrl: "https://www.crn.com/news/networking/juniper-buys-startup-128-technology-for-450m-to-boost-ai-capabilities"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
     images:
-      - url: "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2020/10/tyler-gibson.jpg?fit=944%2C944&ssl=1"
-        width: 944
-        height: 944
+      - url: "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg"
+        width: 399
+        height: 399
         isCached: true
-  - title: "Helios Visions Partners with Thornton Tomasetti's T2D2 to Provide Artificial Intelligence-Powered Drone Solution for Facade Inspection"
-    excerpt: "Drone services company Helios Visions ( has joined forces with T2D2 ( a software as a service (SaaS) platform that uses artificial intelligence (AI)"
-    publishedDateTime: 2020-10-20T12:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/helios-visions-partners-with-thornton-tomasettis-t2d2-to-provide-artificial-intelligence-powered-drone-solution-for/article_6d0acd2f-9612-5b13-b58a-8558ee81bcda.html"
+  - title: "Juniper splashes $450M on AI hotshot 128 Technology"
+    excerpt: "Latest deal comes after moves for Mist Systems and Netrounds and is aimed largely at strengthening Juniper's presence in the SD-WAN market."
+    publishedDateTime: 2020-10-19T17:44:00Z
+    webUrl: "https://www.lightreading.com/sd-wan/juniper-splashes-$450m-on-ai-hotshot-128-technology/d/d-id/764724"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 5
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/45/f45c231c-f0bb-5c8d-ab90-6bac3e92d3ee/5f8ee18567e6d.image.jpg?resize=400%2C400"
-        width: 400
-        height: 400
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "OdelgKuz1ZmPeruMtpvW7jdb5G1b2Nhu/YSqO7S/j1hlfktPAVFRNZ19ZI5IN+fSl+lDGfhxRvPWcCAdkbn9sLzSGkHZI1DL9F3d54ricQbMFt74HJIrBa8KkNcsAKUan847b6AWEx8Ys0lRSwP5l72o8+j2K+4ePWJiI2mhqc4N4UjXU5gZJDl71UjObDM+dtldW/MrcbMzHKIDiPfCz02PBW3BNgE/T1QS6O6ycCHHb2Fu3fGkX2Cd0lPtyTaBDHgQoHjWpoFEISwvgfyGrSwdsjiXLGpawxp2lfPBLx2tjmPaNT/2EaZUUFnbYVDZhbDCEQFYPWE8heD5kOrlPO6qx0so3lhsHhp6waeimnQuFKk/6J1hImrdydAMZ76i5ehJ3zJVrEyW8Az93DVdBUC3zDQPvpnh6ly7MfAUH/36i1h4JcMOcC3Wk1mJL9fots4lPGwhxiZ6FuXIPTdCI4b2YFjii0yQPHVwOXBGReFn0raQIMYuW4IHEJINF4WzSArCwAf+xtKXv5MVCda0UA==;xCKptz2HQJ6W6coopRKKfg=="

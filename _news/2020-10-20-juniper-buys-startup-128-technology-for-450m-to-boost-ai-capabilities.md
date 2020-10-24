@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Juniper acquires 128 Technology for $450 million as it builds out its AI"
-    excerpt: "Juniper Networks said it will acquire 128 Technology for $450 million in a move that will give it more artificial intelligence-based features through its networking portfolio. The company said it will it will acquire 128 Technology with cash and assumption of equity awards."
-    publishedDateTime: 2020-10-19T15:25:00Z
-    webUrl: "https://www.zdnet.com/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/96c31916-3643-4d3f-8e78-bbbad13eceb6/juniper-128.png"
-        width: 600
-        height: 386
-        isCached: true
   - title: "Juniper to Spur AI-Based Solutions With 128 Technology Buyout"
     excerpt: "Juniper Networks, Inc. JNPR has inked an agreement to acquire smart wide area networking startup — 128 Technology, Inc. — for $450 million. Through the deal, the network products and services provider aims to expand its footprint in the AI-driven enterprise solutions market."
     publishedDateTime: 2020-10-20T13:46:00Z
@@ -65,6 +49,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "AI powered Proximity Detection solution launched to aid organizations with social distancing"
+    excerpt: "Ipsotek, a pioneer in artificial intelligence (AI) powered video analytics, has announced the launch of a Proximity Detection solution to help businesses across a range of industries monitor adherence to social distancing guidelines enforced by the COVID-19 pandemic."
+    publishedDateTime: 2020-10-20T08:58:00Z
+    webUrl: "https://continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing"
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 8
 
 secured: "ygxXwH/NUK/RIN3Jgc4gPN18MnxR0vZn3GJhryw7q+/E3BnFmAASADifZo8CVb4nLHlpT25ONH3CSg4DmdEyhQoStRjvP0liTS2nd723fiNCXkn60t+cXJJ6qv4z329VjG9sMx+nTIGOJ1XSmjOuyW5gEOB8Y369wamc/oiYMFQMWJxlijw6VgF+3eHeYRC6i4tjhCSCu0R/t+Mt9AOzMwbld5Vb0nCfQVVQG0HMq0vdpYRkG2hxs50X5brFh2zb94ehG0ZuLt9KdkGWPaCkSF3xG8uMeiXN+22ze+mDB3S1v24AKC2+DPiDvDPmUITUaJDSOHVnPqaYSIxB3lTCm/H3a/idUirtR7TFrkJ8IySVlQEVdCAePJzi1Yrnp607QTwll/iQHyK5piq2u5V1H5lYm6c9RvFW7CLEws59dO3GOHbFhwYkSPTXGgfLc7MWkYlFtDo9yEaFJlmoa+eIb7S5msqqvfg/PpEMFR1psPKT3J/T1pPJojTPfGsgV2CzQciSIOxLbyNpFAWqkx/h8g==;bEu1wJT5cCmLy4WNRF2h6w=="
 ---

@@ -147,22 +147,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Facebook unveils 1st multilingual Machine Translation model"
-    excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT) model that can translate between any pair of 100 languages without relying on English data. Called “M2M-100,"
-    publishedDateTime: 2020-10-19T16:57:00Z
-    webUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/"
-    ampWebUrl: "https://newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facebook-unveils-1st-multilingual-machine-translation-model/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 59
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Facebook Released a Software-Based Machine Learning for 100 Languages"
     excerpt: "As per the news report on Monday, Facebook released software-based machine learning. The company said it was the first to be able to transform"
     publishedDateTime: 2020-10-20T09:18:00Z

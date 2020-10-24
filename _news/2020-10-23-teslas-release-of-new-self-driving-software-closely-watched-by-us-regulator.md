@@ -3,8 +3,8 @@ category: news
 title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
 excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
 publishedDateTime: 2020-10-23T07:06:00Z
-originalUrl: "https://www.reuters.com/article/tesla-selfdriving/teslas-release-of-new-self-driving-software-closely-watched-by-us-regulator-idUSKBN27727Y"
-webUrl: "https://www.reuters.com/article/tesla-selfdriving/teslas-release-of-new-self-driving-software-closely-watched-by-us-regulator-idUSKBN27727Y"
+originalUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
+webUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27727Y"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27727Y"
 type: article
@@ -636,6 +636,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "EIrVYA0sgiqEgqgZEMGb0GRlunxBWorRflitQ3pFRWpNZqsFg2RkSAJfK9Bqgk5+bq3u/2FwWXD/FmugLKIR0ZpBERnJ+y6tFaJO5OeJqsn6ahITOtDwQdPIKFNR493NgkkmYEjFeGHUCLlhi4BujXu05ZB87N8HB8zvYtpV//0+yxXHDmAmYHbq0IwD0UoSZ8AI3cJSCaXYnnjXg8U2fWP5aQaYIAJoOcCYdmM87VXLv2BFvSKJA9U6kkJzYN6PH+WyJ7U+KATuvjqVykXQkmoFZEaN2A7Q4b6zjCyNTldhTsa6abVnRNPo3/d9gMc0u/LUKtNCd36aW6bNQaHZAvNVjpf6QRmcqwECrLGLUPw=;tSy87TOJCu8OdljPtGvUnQ=="
+secured: "61Er1E8NNjIRbLoz/8JPp/nEqHox9tpXzO7ZuwH3OprPupuPac9coqoWV9qloNpQfSr8Jnbs9uciu5CwNd1tv1gcGbB7c1igRDJ5vS6ZxwCPlTlMI59xKQaoT4Jj7AZryoYuJz7CorKjDcKR5STqpkW8+PvrVa12Z1H9I6abGYA0KG0xrBv0DUqnrZuLNUGjUntwhb7sOAqBxChO73wlDr4qJzkdhx/hf5Zwx8UAjjeks/YKV4E/dm6gdtcf9/jGueHU55/9zgWePjzz77n9FslAvEU54qEepaosUpigE8clz8re95Wvbj03Bod3v5iyR8X1lRaCfYSknscstaUDwKPxGzyWMirkMZ4p1hkkgD0=;Y/XDHrVj3GVN1QC7rUvAJA=="
 ---
 
