@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/adobe-sharp-shot-213047501.html"
 webUrl: "https://www.engadget.com/adobe-sharp-shot-213047501.html"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Monitoring activities of Construction Sites using Artificial Intelligence"
+    excerpt: "AI can help the construction industry by developing an image recognition system to monitor every detail of an on-going construction project, and flag up delays or errors automatically even during the COVID-19 pandemic,"
+    publishedDateTime: 2020-10-24T12:40:00Z
+    webUrl: "https://www.analyticsinsight.net/monitoring-activities-of-construction-sites-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 38
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/AI-in-Construction.jpg"
+        width: 1000
+        height: 627
+        isCached: true
   - title: "Using AI to boost safety for older adults"
     excerpt: "Assisted Living facility incorporates predictive analysis to mitigate risks for falls and other health conditions, including COVID-19. Enter your user name and password in the fields above to gain ..."
     publishedDateTime: 2020-10-22T20:10:00Z

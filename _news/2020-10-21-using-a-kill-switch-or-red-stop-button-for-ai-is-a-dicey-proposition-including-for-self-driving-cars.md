@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-sw
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-switch-or-red-stop-button-for-ai-is-a-dicey-proposition-including-for-self-driving-cars/"
 type: article
 quality: 56
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F10%2F19%2Fzeabuz-ferry-rendering-lead-ZEABUZ1020.jpg"
         width: 1800
         height: 938
-        isCached: true
-  - title: "Remote Construction Market Growing with Surging Adoption of Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) and machine learning are keystones enabling expansion of the remote construction market. Future Market Insights, an ESOMAR-certified market research firm, in its recent study forecasts immense possibilities for the market ..."
-    publishedDateTime: 2020-10-19T19:43:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21199040/remote-construction-market-growing-with-surging-adoption-of-artificial-intelligence"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 31
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2020/10/remote_construction_market.5f8ded3545cc6.png?auto=format&fit=max&w=1200"
-        width: 650
-        height: 430
         isCached: true
 
 secured: "DQDNirqc86hQUj0DU4GY2vB4uvFstW2Aott3iLO9pXyidYvgZ43BgfktVYfIKodcAZwRnppP5C8Ihmq9PkWdpENXI1nC1prubYvdHpsIFRJmSgwTT8o+u0jolXTwmG+ZcXpWpm3vaNWn9oi0H+iJ6w6G85U6lrGarqEhqPZxkVGmSg+Q3UvfWictvKyNNk2LcXQazXIFOJX0o9R97xTrR6zHDxOC32MLePX8nT+qm9bnCwgaI0sx0gcMTVqNJzZkrDv/VICuzzXUUAfm/6iM1+ZG/030YUJf79AzmkX8kVFsloJIRKY/FGHPpsJIlq2LQ5uvsXEeXaXjyNVWYpiAEp5CvNhiYFnim35R5puD7vfYd81fWLbKGCBCU/GZBX1MjJb1+YAVHfuj/GJevnL4AWXjQRFEfbzk9E9Hvu32eXb6aG6h5jrrQEODZaA14uR1JO7iSddwKFUaLHDH4KCQjnTlOuC1qr+ip5It/4yTfoZcuzZSZESbk6+dt/EmS1gbLYXeXWTysi876spmvLKDQQ==;TnOYI2H4IjbqChk819sDnQ=="

@@ -82,20 +82,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Remote Construction Market Growing with Surging Adoption of Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) and machine learning are keystones enabling expansion of the remote construction market. Future Market Insights, an ESOMAR-certified market research firm, in its recent study forecasts immense possibilities for the market ..."
-    publishedDateTime: 2020-10-19T19:43:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21199040/remote-construction-market-growing-with-surging-adoption-of-artificial-intelligence"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 31
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2020/10/remote_construction_market.5f8ded3545cc6.png?auto=format&fit=max&w=1200"
-        width: 650
-        height: 430
-        isCached: true
 
 secured: "Ph8W3i8F/eyJie2A6sy03bOVq7udgZ5CuWuhU/eVyrzOWY/r4t8shXCi8Fnf6KUPRUAcFuuaXIz6qEiQmHM7VLStmlbydxC7tK1GZiu5EJrwKono+oEYYy3e9w7Ht6RSHovfgGR/gfb3YzcwV2Ns1u8wJwQR1KucIV6v6coSxb+MZwqFRQpxoJKRSNo9zOi7UB55Q6QSMhXwcTWgUd8/gIWVrUwlLkW+phQTcLRSyAgjx7ugKZQ0/Y9mbY/peO7in/CnnftPJt3/3Tz0jOYlCWnKZQj6Rlx6YPfhTFNEz0x3dsDgSfWIfQC0Bb8XQaGbwPUuB2y9uxsyHtp0UAtrC4jdv0429e4uDOXQRYyiNKofcXz+aQDrYLas82vkk/xEIcx0F30Stq7s4X0e7d2630J2vtzwoULoTvgGh9dtu/xAKDcaXGCn1CEMvvUlP+WmXTXSxu4BXZKlIDpkKTXEDa0hotcluO5GoeedhzaoYE+rkqlpUkgOYQOeodQxxd2t5YxUrmJeEGicdcNGEJ3pRg==;9FdzvS7/QOEKvoiOT53VVw=="
 ---

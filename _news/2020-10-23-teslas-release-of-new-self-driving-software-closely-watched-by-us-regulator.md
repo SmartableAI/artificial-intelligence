@@ -3,8 +3,8 @@ category: news
 title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
 excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
 publishedDateTime: 2020-10-23T07:06:00Z
-originalUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
-webUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
+originalUrl: "https://www.reuters.com/article/tesla-selfdriving/update-3-teslas-release-of-new-self-driving-software-closely-watched-by-u-s-regulator-idUSL1N2HD0VI"
+webUrl: "https://www.reuters.com/article/tesla-selfdriving/update-3-teslas-release-of-new-self-driving-software-closely-watched-by-u-s-regulator-idUSL1N2HD0VI"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27727Y"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27727Y"
 type: article
@@ -636,6 +636,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "/+OV72W4Z4yrDg9aKeZKOQkR36B/dj29z+SHWvmbKH73qB1cX8El6Az3JXgnsdft8eDLwehYIt3b9J+HGf471mtY2jZ70U1L2sbDZvmxrEBJiaGENOLmasC8AR6M5/p72SfDcGl6rfi2U1iRP/TZDuYZZVuUFxaDBDAlXZL4xrc/pQecjhd/LAAyY3wEaM50xLV2uVt1HqfJozXGZSAvuQYO8SYtDr+NXOcBexPavUhvT+abG7mu+3ABGeda35/9NVya+Fj1fC3Z6Ag4IGvAZAl1ihaaTQQvu58H7u9Imr61yRdPTrNkUPFyyVGkrEEH0tymQYlmEQE8G1woHyGnEaA26u0pKj9pOGLHL2z7wqP/5AZ3IkhkheEDQ9eQfBAuOGs2E/VvD3/yrXD3niJEvoar362sNsdGeTjbKKEalPDq4oKzP/o3VCIRgAy2TAH5U8WBqz81JwXF0VfoFyG58hFkSp9/66olAuSmbcg873JbWMsPDgD+KXS+GuDUhAj0B3x/nFJs0fz9epCQ2JjL1A==;cXAdS2XmMxXZYz7Sdpz/+A=="
+secured: "XaLZv0OjUAnMhT2JEoVRv07GOyFUOdNTxYeYVoT+I0LsJI8QGOzhF3uqUa9meQR2/vbI9vI4L6M2ZTcFCpy77K8RyHq3uruATciwrVN3NQDaMPoPCxZxjyyl2LbEagj/RB1/WejR6yhNapIyAd76jPXy8aHV/PalelWjsvzlytkdJ6/oF+S13945S3SwdbSPNypjP/GSyuxLjTDTC3u3OprtOxENAmPND8i8vwKIWRe5lBBk57NdDmRUyEffrdH0HWkRa26eJEBTjCfLnEd30WDh46a+TGtz/HAo7mMCgoaifEo3wvIf8Sz2bfTprdUcSrHyFD5qtzT25lNqIUO/y7unVuiPQ8VmmjKgzzrBA2A=;iRmZNWK8hurCihCqvCxE1g=="
 ---
 

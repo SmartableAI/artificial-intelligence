@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/one-key-to-pandemic-retailing-a
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768"
 type: article
 quality: 74
-heat: 74
+heat: 79
 published: true
 
 provider:

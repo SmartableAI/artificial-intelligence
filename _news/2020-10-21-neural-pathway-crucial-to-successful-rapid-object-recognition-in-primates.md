@@ -1,34 +1,47 @@
 ---
 category: news
 title: "Neural pathway crucial to successful rapid object recognition in primates"
-excerpt: "Rapid recurrent processing in the ventrolateral prefrontal cortex (vlPFC) helps primates quickly identify objects, according to research from MIT's McGovern Institute and Center for Brains, Minds, and Machines."
-publishedDateTime: 2020-10-20T20:09:00Z
-originalUrl: "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020"
-webUrl: "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020"
+excerpt: "MIT researchers have identified a brain pathway critical in enabling primates to effortlessly identify objects in their field of vision. The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain."
+publishedDateTime: 2020-10-21T13:43:00Z
+originalUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html"
+webUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 58
+heat: 68
+published: false
 
 provider:
-  name: news
-  domain: mit.edu
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - Machine Learning
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://news.mit.edu/sites/default/files/images/202010/Ko-DiCarlo-Neuron-edited_0.jpg"
-    width: 1000
-    height: 667
+  - url: "https://scx2.b-cdn.net/gfx/news/2020/neuralpathwa.jpg"
+    width: 900
+    height: 600
     isCached: true
 
-secured: "aSq0unlDVzGEt4wVrP0XL8qCa+Yiksi64Sq8l5K+BXmR8jPTGoU7wI4NVCAYaAmAaA179Sk61P0e5TQW6/ABgHEO2x9cmBLINQL3vn/VbmrOCMaF8AlXFe8F48Vm2Y0tzYoji2ByUaSjgwwQu0AgZ9VA2jm4+Q1beJJVhFxvtIrBqZ7DSU6U0nLYYJmNXiK8sXZNPcmEOcXgpBxrJtNeIhar8z8/uNtob9w7cexhzlGbXNrO1ZYph5e5X+zzVVH2U9j5XKlZ3RMFSH8QsaecbUGDfoYnLZWoYofNsEscyWN4pDyYc0kl9t4M2EqhWB3VFy4wkMNg1LSc3WruVTPWrV8Zi2xeb9s8Exc1KCPaUtk=;yTlvlrK2K1r5z3TVx+11dg=="
+related:
+  - title: "Facial recognition datasets are being widely used despite being taken down due to ethical concerns. Here’s how."
+    excerpt: "Computer vision research datasets have been criticized for violating subjects’ privacy, reinforcing cultural biases, and enabling questionable applications. But regulating their use is hard. For example,"
+    publishedDateTime: 2020-10-21T17:33:00Z
+    webUrl: "https://freedom-to-tinker.com/2020/10/21/facial-recognition-datasets-are-being-widely-used-despite-being-taken-down-due-to-ethical-concerns-heres-how/"
+    type: article
+    provider:
+      name: Freedom to Tinker
+      domain: freedom-to-tinker.com
+    quality: 36
+    images:
+      - url: "https://ftt-uploads.s3.amazonaws.com/wp-content/uploads/2019/09/13111525/FtT-CITP-Logo.png"
+        width: 410
+        height: 210
+        isCached: true
+
+secured: "EbyqXNUucRP1WbIp8cQt08pOkpqv6f67ir2Flp0gyUn3Lz/rkXzR7KzNOyC+hgDAnnNLricQZYnymMx3sf6lCr6aKrETR4Xms7Ho+0cueEzrCxI3vFIWqcDBPcsTjV3Dq66xjYtaUB6+Njx5N0D4eBJrBFaqIsSPzgwTFqp1ZMf4KuhNXViAN7gVKS1rtWBj+3H6hE96leYPsTgrk2nDMHhyUS1rSS4RVXflgHstvwI6ipssSmM/fwA6msupZbcdeoX+Jm/UV7l4+rPPRoGKXg0MRsjTIGmhSFSunNIqoiEMQlXfwZxgu4byKGeMUFARfbh65VuDwgK1unUVVlm72Rtg9xSjXxxa0G2NwNbMWdU=;zSMKv+3znK8Wf0RdiGxugg=="
 ---
 

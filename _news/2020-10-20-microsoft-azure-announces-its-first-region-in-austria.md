@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-firs
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
 type: article
 quality: 104
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -197,22 +197,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
         width: 620
         height: 250
-        isCached: true
-  - title: "Microsoft Teams will use artificial intelligence to better reduce background noises in video conferences"
-    excerpt: "During the coronavirus pandemic, co-workers connect via video conferencing. Microsoft's Teams has a new feature coming to reduce background noises."
-    publishedDateTime: 2020-10-19T20:10:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/10/19/microsoft-teams-video-app-get-better-background-noise-reduction/3712935001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3712935001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3712935001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/1654aa33-41f4-472f-bec8-8611ce1b3460-Microsoft-Teams-Breakout-Rooms.jpg?auto=webp&crop=1469,826,x0,y22&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
     excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."

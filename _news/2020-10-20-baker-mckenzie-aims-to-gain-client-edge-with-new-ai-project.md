@@ -9,7 +9,7 @@ ampWebUrl: "https://www.law360.com/amp/articles/1320648"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1320648"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -18,19 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Baker McKenzie launches global innovation unit, teaming up with AI company"
-    excerpt: "Baker McKenzie on Monday launched a new innovation arm, Reinvent Law, bringing the global firm's existing innovation efforts under a single umbrella and pairing them with a new artificial intelligence joint venture."
-    publishedDateTime: 2020-10-19T19:16:00Z
-    webUrl: "https://www.reuters.com/article/bakermckenzie-innovation-idUSL1N2HA1C4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HA1C4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HA1C4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
 
 secured: "XEk//uss5jJTowU1uk1ZXya3cs0cMtmBGfh+dBp0/9I6L2KlJPRVwFqJnOQa4PbcY5q3mMhCh8Euws3CvT2i1xN9waSz8600EwguFuFFs/ZZd5Qy2kVAnzq7dbp0G+K7QLtl/60xnRhUd+oNqc57F7YN1JWnYqhVuprAK/9qsVZ4FDX9Fycfof2TlS7eGIF40ICiZCJVPH/UBi1KuW1y2Eger/OL32Nvh2/21kCHRjNa/BxtFyN+0pztNOCGT1iEt0UNZuXfzvKQv6+KEnUHuL3+LD5gjGteqWl/CH7j5JFZiJuLVGFC/1HojcdHKyTg6ygHcpjY8OcxmYJzrX7diWVaMRfimBGbPAecK6NFNvo=;nh0I1CPCHfqW74eGi4dFVA=="
 ---

@@ -208,22 +208,6 @@ related:
         width: 620
         height: 250
         isCached: true
-  - title: "Microsoft Teams will use artificial intelligence to better reduce background noises in video conferences"
-    excerpt: "During the coronavirus pandemic, co-workers connect via video conferencing. Microsoft's Teams has a new feature coming to reduce background noises."
-    publishedDateTime: 2020-10-19T20:10:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/10/19/microsoft-teams-video-app-get-better-background-noise-reduction/3712935001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3712935001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3712935001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/1654aa33-41f4-472f-bec8-8611ce1b3460-Microsoft-Teams-Breakout-Rooms.jpg?auto=webp&crop=1469,826,x0,y22&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cognizant Acquires Microsoft Azure, AWS Industrial IoT Partner Bright Wolf"
     excerpt: "Cognizant acquires Bright Wolf, a Microsoft Azure & Amazon Web Services (AWS) cloud partner for Industrial Internet of Things (IIoT) solutions."
     publishedDateTime: 2020-10-22T13:45:00Z

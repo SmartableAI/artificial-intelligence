@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2020/10/will-covid-19-be-the-straw-that-br
 webUrl: "https://medcitynews.com/2020/10/will-covid-19-be-the-straw-that-breaks-ais-back/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,33 +22,6 @@ images:
     width: 300
     height: 218
     isCached: true
-
-related:
-  - title: "ONR Robotics enter the COVID-19 fight"
-    excerpt: "A decontamination robot funded by the Office of Naval Research (ONR) and designed by several local universities was recently tested in Richmond Va. The robot--initially designed for shipboard firefighting and maintenance tasks--has now been enlisted in the fight against Covid-19."
-    publishedDateTime: 2020-10-19T19:36:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Artificial Intelligence Services Market Growth Statistics Report 2020-30: Covid 19 Growth And Change"
-    excerpt: "id=3207 The artificial intelligence (AI) services market consists of sales of AI and related services that are used in telecommunications, government, retail, defense and healthcare. Companies in the artificial intelligence market provide outsourced ..."
-    publishedDateTime: 2020-10-20T04:45:00Z
-    webUrl: "https://www.openpr.com/news/2164621/artificial-intelligence-services-market-growth-statistics"
-    ampWebUrl: "https://www.openpr.com/amp/2164621/artificial-intelligence-services-market-growth-statistics"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2164621/artificial-intelligence-services-market-growth-statistics"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
 
 secured: "49eM8aNrl4UvUzF6EIJAop3bCQd3AUrq2hQ5Sa2Js92F+nRoGHkA4Buqa2Mlf2Dl92/18pRQTrOWf+3swxsP2OTqa0D9QH0xRlEe+KzPKZSbrYbmgOXtNVcm6MKyGJVjG+z4QVZHj5GIpfUtCdJSKQtuV55RBVtzg/0Ud22D8IFGvyfovbEaiKHUptY6aE5o8By2JpMwgtkwJvltARtZ1W70oca8ZG7v9FgNP4bAJd+IprzhK6ylRV+9QQDlNzrFzz+crQHuh9jQno2toR53V5vpiz+Q66+YPxWrK60Ws1sWqnUlwlFaNjmFF18kO7IduE2MvceS/8F+JrB7/x2RTqRAzzCiF3lBbfGzBolYoSU=;6d37/jYNWjf7cRsRtAEAig=="
 ---

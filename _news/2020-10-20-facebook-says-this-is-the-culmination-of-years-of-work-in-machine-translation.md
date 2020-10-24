@@ -122,22 +122,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook unveils machine learning translator for 100..."
-    excerpt: "Facebook unveiled AI capable of translating 100 languages without relying on English as as an intermediary step, as many systems currently do - making results 90 percent more accurate."
-    publishedDateTime: 2020-10-19T19:19:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/Facebook-unveils-machine-learning-translator-100-languages.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 61
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/19/19/wire-34583254-1603131568-544_636x382.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Facebook Released a Software-Based Machine Learning for 100 Languages"
     excerpt: "As per the news report on Monday, Facebook released software-based machine learning. The company said it was the first to be able to transform"
     publishedDateTime: 2020-10-20T09:18:00Z
@@ -186,22 +170,6 @@ related:
         width: 879
         height: 455
         isCached: true
-  - title: "Facebook unveils first AI model capable of translating 100 languages without relying on English"
-    excerpt: "Facebook unveiled AI capable of translating 100 languages without relying on English as as an intermediary step, as many systems currently do - producing results that are 90 percent more accurate."
-    publishedDateTime: 2020-10-19T19:19:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 47
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/19/19/wire-34583254-1603131568-544_636x382.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Facebook Unveils AI Translator For 100 Languages Without Relying On English Data"
     excerpt: "Facebook announced that the MMT model that can directly translate “100×100 languages” in any direction without relying on only English-centric data."
     publishedDateTime: 2020-10-20T08:15:00Z
@@ -215,22 +183,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/lizde4rkc3wjcfjj_1603181420.jpeg?tr=f-jpeg"
         width: 1242
         height: 710
-        isCached: true
-  - title: "Facebook unveils first AI model capable of translating 100 languages without relying on English as an intermediary translation step"
-    excerpt: "Facebook unveiled AI capable of translating 100 languages without relying on English as as an intermediary step, as many systems currently do - making results 90 percent more accurate."
-    publishedDateTime: 2020-10-19T19:19:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/Facebook-unveils-machine-learning-translator-100-languages.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8856645/amp/Facebook-unveils-machine-learning-translator-100-languages.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 31
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/19/19/wire-34583254-1603131568-544_636x382.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "Facebook unveils translator for 100 languages"
     excerpt: "FACEBOOK on Oct 19 unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages"

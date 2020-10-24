@@ -38,6 +38,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Monitoring activities of Construction Sites using Artificial Intelligence"
+    excerpt: "AI can help the construction industry by developing an image recognition system to monitor every detail of an on-going construction project, and flag up delays or errors automatically even during the COVID-19 pandemic,"
+    publishedDateTime: 2020-10-24T12:40:00Z
+    webUrl: "https://www.analyticsinsight.net/monitoring-activities-of-construction-sites-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 38
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/AI-in-Construction.jpg"
+        width: 1000
+        height: 627
+        isCached: true
 
 secured: "8/D6AQ0OrvAntNugBESeHVUv+8hdD99civTn29WH3b6nLsKkQ3YT8n2L9duKZ2EWV/qpeM6p9YEZ/nbBlC6b4ob8goYWzqG7/qytlPSyYApGtma1of5trha9ZCLNnsOTd/aGl2jLjSVgNBX2t6PwfZjVkHrn57I+/1eNJPVUPwdaXlRWrfVIze5qREVnuBZ8SsdXU6vyMT00ysT2Xa1yT9Oep05Duq9NT9qn8RsefFD+unsH6c8k9cukgNmi9TXp1Aaed9YsDfEyDCDbHjDes28QmTmS02noMgrxGlhyjVddAVHQ9PZIga2P4CR+8jaFGFlAbKmK4MzBpmdGhFPjzCobyjGr7LASmija5jU9KtY=;fW+0Oj57Zs7/F15FaRRgMQ=="
 ---

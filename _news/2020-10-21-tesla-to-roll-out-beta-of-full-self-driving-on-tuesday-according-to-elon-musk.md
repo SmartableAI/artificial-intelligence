@@ -194,7 +194,7 @@ related:
   - title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
     excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
     publishedDateTime: 2020-10-23T07:06:00Z
-    webUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
+    webUrl: "https://www.reuters.com/article/tesla-selfdriving/update-3-teslas-release-of-new-self-driving-software-closely-watched-by-u-s-regulator-idUSL1N2HD0VI"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27727Y"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27727Y"
     type: article

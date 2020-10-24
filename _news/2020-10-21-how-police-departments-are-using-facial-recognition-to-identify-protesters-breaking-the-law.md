@@ -43,6 +43,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Police are using facial recognition for minor crimes because they can"
+    excerpt: "Law enforcement is tapping the tech for low-level crimes like shoplifting, because there are no limits. But the tool often makes errors."
+    publishedDateTime: 2020-10-24T12:06:00Z
+    webUrl: "https://www.cnet.com/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 91
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/9S5f_XMCKYD4FKVdlgLgOJNQlI0=/1200x630/2020/10/23/f1d69bbc-1345-40f4-9139-ef38598f86af/gettyimages-1184155312.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Best facial recognition security cameras of 2020"
     excerpt: "Select home security cameras have facial recognition, an advanced feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ..."
     publishedDateTime: 2020-10-22T02:20:00Z

@@ -26,18 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "A Pause to Address 'Ethical Debt' of Facial Recognition"
-    excerpt: "Ethical use will require some combination of consistent reporting, regulation, corporate responsibility, and adversarial technology."
-    publishedDateTime: 2020-10-23T14:14:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities---threats/a-pause-to-address-ethical-debt-of-facial-recognition-/a/d-id/1339119"
+  - title: "Neural pathway crucial to successful rapid object recognition in primates"
+    excerpt: "MIT researchers have identified a brain pathway critical in enabling primates to effortlessly identify objects in their field of vision. The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain."
+    publishedDateTime: 2020-10-21T13:43:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 56
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 58
     images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/neuralpathwa.jpg"
+        width: 900
         height: 600
         isCached: true
 

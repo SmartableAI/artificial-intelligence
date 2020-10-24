@@ -1,29 +1,34 @@
 ---
 category: news
-title: "Birmingham buys police software: opponents warn against facial recognition"
-excerpt: "Birmingham Mayor Randall Woodfin again emphasized that the software approved Tuesday does not activate facial recognition. “You’re not agreeing to any facial recognition, that’s not happening,” Woodfin said. “It’s explicit in this contract that ..."
-publishedDateTime: 2020-10-20T17:40:00Z
-originalUrl: "https://www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html"
-webUrl: "https://www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html"
-ampWebUrl: "https://www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html?outputType=amp"
+title: "Police are using facial recognition for minor crimes because they can"
+excerpt: "Law enforcement is tapping the tech for low-level crimes like shoplifting, because there are no limits. But the tool often makes errors."
+publishedDateTime: 2020-10-24T12:06:00Z
+originalUrl: "https://www.cnet.com/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
+webUrl: "https://www.cnet.com/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
 type: article
-quality: 72
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PWOHZMJF7RGSDC3G365QG3BYFU.PNG"
-    width: 497
-    height: 396
+  - url: "https://cnet4.cbsistatic.com/img/9S5f_XMCKYD4FKVdlgLgOJNQlI0=/1200x630/2020/10/23/f1d69bbc-1345-40f4-9139-ef38598f86af/gettyimages-1184155312.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,22 +47,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/21/business/21coprecognition-01/21coprecognition-01-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Police are using facial recognition for minor crimes because they can"
-    excerpt: "Law enforcement is tapping the tech for low-level crimes like shoplifting, because there are no limits. But the tool often makes errors."
-    publishedDateTime: 2020-10-24T12:06:00Z
-    webUrl: "https://www.cnet.com/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/9S5f_XMCKYD4FKVdlgLgOJNQlI0=/1200x630/2020/10/23/f1d69bbc-1345-40f4-9139-ef38598f86af/gettyimages-1184155312.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Best facial recognition security cameras of 2020"
     excerpt: "Select home security cameras have facial recognition, an advanced feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ..."
@@ -106,6 +95,22 @@ related:
       - url: "https://images.wsj.net/im-247310/social"
         width: 1279
         height: 640
+        isCached: true
+  - title: "Birmingham buys police software: opponents warn against facial recognition"
+    excerpt: "Birmingham Mayor Randall Woodfin again emphasized that the software approved Tuesday does not activate facial recognition. “You’re not agreeing to any facial recognition, that’s not happening,” Woodfin said. “It’s explicit in this contract that ..."
+    publishedDateTime: 2020-10-20T17:40:00Z
+    webUrl: "https://www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html"
+    ampWebUrl: "https://www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 72
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PWOHZMJF7RGSDC3G365QG3BYFU.PNG"
+        width: 497
+        height: 396
         isCached: true
   - title: "Facial-Recognition Startup Clearview Moves to Prevent Possible Police Abuse"
     excerpt: "The controversial startup that provides facial-recognition technology to law enforcement is rolling out new compliance features to prevent abuse of the technology, Chief Executive Hoan Ton-That said Tuesday."
@@ -242,6 +247,6 @@ related:
         height: 1035
         isCached: true
 
-secured: "5f3z0MQ8U60dCrp/wTPIpIBgbkuE5Dyh3KMHB3GZp5t33oTTJaeE353rBZ+38aqawRPot//LhWH69WngTKIn1YbADgT91gzeYQGm7lZ/4AXFrwCx1xOEdGvkZV6XJMz994CcmSu8EZc+Ge0MzNsztMv+T3NponHRxh1p4db5WNflj0tCluw3UfR/n29ej5Y7isnnQVJZJiFAEooPcLle9NVVbSuFvsSvh1TSYk9hvYVunUixWkJhMtkKID8Cmyvwwo9vg72W87eduPEOhztiutKSGDVKRiCLwnTtZAkNSR0sSbqwEYMRpFYLzkzPytKUV6FhlAlaWvmxMlFEZbIQ/yZHHWG8to92ezE3FHGg2+nYAAbtSlTAjA6SKP6tIQ8qd3XwA8AN+vLoSPvSla+MawKYi10cR98j/nuJjwrNeOOUSfHtI9AOUH8hESsk6ZT6I4pzZIRRkVFBuoizlIGr8uB+r8NQ0sprCMz3xLkMA6jmNRBBBRTiYLV4lPWNJUtlxzQCyQ/Nsb61W44u3QtMSg==;oKEBZ+PdAbtgXVI2ohpdIg=="
+secured: "SeJLuD1Wb0jfNjdBoV2N5sPXlv90LqShPXtffAo3amFiXSVaG6kQiB4zvYDhjAZ7BBvrIStP6R0ARq0SEA1C5i9JkHq7+5JMWW8si/PlsmhKXlziuAKjXaTGnJAW0EIM4Rk3fevFy7wNd6wbGoNGyn7nVNfw9cNp8B2NGX7WwmWE/lPsQao5hR3w12XOCSTzHuBIhoPSsU3NiRXt54xDYpp/fxhb848235UEndz8czL+jZI3KGwfO4vOOw44L6WWs7n65FbjSc57GHPvoqPp7GHUhIReIhPzsykdHomh7heMYJZFR6Kgl2ri2p4hOrZcCTLKheU62wBHo7K++MOHaZyRfNYOc78L4A39wWwTknA=;jK49cyGyHhSB7B+rxiKM7g=="
 ---
 
