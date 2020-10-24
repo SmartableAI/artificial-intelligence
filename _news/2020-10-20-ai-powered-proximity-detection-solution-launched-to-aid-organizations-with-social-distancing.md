@@ -19,75 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Google’s Lending DocAI streamlines mortgage applications with artificial intelligence"
-    excerpt: "Google Maps and DeepMind enhance AI capabilities to improve route calculations Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry."
-    publishedDateTime: 2020-10-19T14:32:00Z
-    webUrl: "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+  - title: "Helios Visions Partners with Thornton Tomasetti’s T2D2 to Provide Artificial Intelligence-Powered Drone Solution for Facade Inspection"
+    excerpt: "Tyler Gibson, Co-Founder of Helios Visions, conduting aerial drone inspection of high-rise building from downtown Chicago's Riverwalk. Helios Visions holds waivers and authorizations for a number of important drone operations including high altitidue ..."
+    publishedDateTime: 2020-10-21T04:31:00Z
+    webUrl: "https://www.suasnews.com/2020/10/helios-visions-partners-with-thornton-tomasettis-t2d2-to-provide-artificial-intelligence-powered-drone-solution-for-facade-inspection/"
+    ampWebUrl: "https://www.suasnews.com/2020/10/helios-visions-partners-with-thornton-tomasettis-t2d2-to-provide-artificial-intelligence-powered-drone-solution-for-facade-inspection/amp/"
+    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2020/10/helios-visions-partners-with-thornton-tomasettis-t2d2-to-provide-artificial-intelligence-powered-drone-solution-for-facade-inspection/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
+      name: SUAS News
+      domain: suasnews.com
+    quality: 25
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/07/c9b63b58-80c7-48ea-88de-873031c6c261/thumbnail/1200x675/ccc5d8b42e1073502add1b385dd7afcb/google-maps-and-deepmind-enhance-ai-capa-5f558c2a836f805692009c76-1-sep-07-2020-7-39-17-poster.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2020/10/tyler-gibson.jpg?fit=944%2C944&ssl=1"
+        width: 944
+        height: 944
         isCached: true
-  - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
-    excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
-    publishedDateTime: 2020-10-19T19:00:00Z
-    webUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/"
-    ampWebUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
+  - title: "Helios Visions Partners with Thornton Tomasetti's T2D2 to Provide Artificial Intelligence-Powered Drone Solution for Facade Inspection"
+    excerpt: "Drone services company Helios Visions ( has joined forces with T2D2 ( a software as a service (SaaS) platform that uses artificial intelligence (AI)"
+    publishedDateTime: 2020-10-20T12:31:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/helios-visions-partners-with-thornton-tomasettis-t2d2-to-provide-artificial-intelligence-powered-drone-solution-for/article_6d0acd2f-9612-5b13-b58a-8558ee81bcda.html"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 5
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/google-cloud-lending-ai-457x305.jpg"
-        width: 457
-        height: 305
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/45/f45c231c-f0bb-5c8d-ab90-6bac3e92d3ee/5f8ee18567e6d.image.jpg?resize=400%2C400"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Smart Construction - AI Style"
-    excerpt: "Once it is working in a production capacity, we'll start to scale up, going from one project to another project throughout the entire construction community.” Halder is no stranger to the power of AI and the challenges of bringing autonomous vehicles to ..."
-    publishedDateTime: 2020-10-23T13:38:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21145580/smart-construction-ai-style"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 37
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/SafeAI_5.5f91f563645dd.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 624
-        isCached: true
-  - title: "Google’s Lending DocAI service uses AI to fast-track mortgage applications"
-    excerpt: "Google LLC is jumping into the mortgage industry with the launch of a new artificial intelligence-driven cloud service aimed at helping lenders reduce the time it takes to process loan applications. Announced today,"
-    publishedDateTime: 2020-10-19T13:22:00Z
-    webUrl: "https://siliconangle.com/2020/10/19/googles-lending-docai-service-uses-machine-learning-fast-track-mortgage-applications/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/share.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google Cloud launches AI-powered mortgage processing tool"
-    excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."
-    publishedDateTime: 2020-10-20T00:19:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36777/google-cloud-launches-ai-powered-mortgage-processing-tool"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "OdelgKuz1ZmPeruMtpvW7jdb5G1b2Nhu/YSqO7S/j1hlfktPAVFRNZ19ZI5IN+fSl+lDGfhxRvPWcCAdkbn9sLzSGkHZI1DL9F3d54ricQbMFt74HJIrBa8KkNcsAKUan847b6AWEx8Ys0lRSwP5l72o8+j2K+4ePWJiI2mhqc4N4UjXU5gZJDl71UjObDM+dtldW/MrcbMzHKIDiPfCz02PBW3BNgE/T1QS6O6ycCHHb2Fu3fGkX2Cd0lPtyTaBDHgQoHjWpoFEISwvgfyGrSwdsjiXLGpawxp2lfPBLx2tjmPaNT/2EaZUUFnbYVDZhbDCEQFYPWE8heD5kOrlPO6qx0so3lhsHhp6waeimnQuFKk/6J1hImrdydAMZ76i5ehJ3zJVrEyW8Az93DVdBUC3zDQPvpnh6ly7MfAUH/36i1h4JcMOcC3Wk1mJL9fots4lPGwhxiZ6FuXIPTdCI4b2YFjii0yQPHVwOXBGReFn0raQIMYuW4IHEJINF4WzSArCwAf+xtKXv5MVCda0UA==;xCKptz2HQJ6W6coopRKKfg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/"
 type: article
 quality: 121
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s open source M2M-100 model can translate between 100 different languages"
-    excerpt: "“For years, AI researchers have been working ... Facebook had a group of native speakers evaluate the translation quality between 20 language pairs, none of them involving English."
-    publishedDateTime: 2020-10-19T15:01:00Z
-    webUrl: "https://venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/"
-    ampWebUrl: "https://venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook’s new polyglot AI can translate between 100 languages"
     excerpt: "The model, a culmination of various automated and machine learning techniques, is being open-sourced to the research community."
     publishedDateTime: 2020-10-20T14:00:00Z

@@ -28,38 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook's new AI can translate languages directly into one another"
-    excerpt: "That’s why Facebook AI has developed a new MT ... two-thirds are in a language other than English, she noted. Dubbed M2M-100, Facebook claims that it is the first multilingual machine translation model (MMT) that can directly translate back and forth ..."
-    publishedDateTime: 2020-10-19T15:02:00Z
-    webUrl: "https://www.engadget.com/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html"
-    ampWebUrl: "https://www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 106
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=95&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=69a553b53d39c0b9162403452839efda71a2de93"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Facebook AI open sources multilingual machine translation model"
-    excerpt: "The model, M2M-100, is trained on 2,200 language directions and can be more accurate because it doesn't use English as a go-between language in translations."
-    publishedDateTime: 2020-10-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-open-sources-multilingual-machine-translation-model/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/4eccddda-3c93-42e5-96df-afcb5d5bf494/m2m100-summary.png"
-        width: 1173
-        height: 493
-        isCached: true
   - title: "Facebook’s new AI model translates 100 languages — without going through English first"
     excerpt: "Facebook has open-sourced the first AI model that can translate between any pair of 100 languages without first translating them to English."
     publishedDateTime: 2020-10-20T10:52:00Z
@@ -123,22 +91,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-729466,msid-78760863/the-open-source-artificial-intelligence-software-was-created-to-help-the-massive-social-network-deliver-content-better-in-160-languages-to-its-more-than-two-billion-users-around-the-world-.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Facebook is developing a way to type using VR on tabletops"
-    excerpt: "Facebook Reality Labs' latest research project, being presented at the Symposium on User Interface and Software Technology, demonstrates hand-typing on a desk at up to 73 words per minute. The project isn't ready for Oculus Quest VR headsets yet,"
-    publishedDateTime: 2020-10-22T02:30:00Z
-    webUrl: "https://www.cnet.com/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/CR8VckH_PQuQB_a1B_LRE-ROb9Q=/1200x630/2020/10/21/b81c65ac-f9f5-4d53-a672-74afeb77c6f0/frl-vr-typing-screenshot.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Facebook's AI model can translate 100 languages without relying on English"
     excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
@@ -252,20 +204,6 @@ related:
         width: 879
         height: 455
         isCached: true
-  - title: "Facebook AI can translate directly between any of 100 languages"
-    excerpt: "Facebook has developed an AI that can translate directly between any pair of 100 languages without having to go through an English translation first, as many existing systems do"
-    publishedDateTime: 2020-10-19T15:09:00Z
-    webUrl: "https://www.newscientist.com/article/2257637-facebook-ai-can-translate-directly-between-any-of-100-languages/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2020/10/19151049/19-oct_facebook-ai.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facebook unveils first AI model capable of translating 100 languages without relying on English"
     excerpt: "Facebook unveiled AI capable of translating 100 languages without relying on English as as an intermediary step, as many systems currently do - producing results that are 90 percent more accurate."
     publishedDateTime: 2020-10-19T19:19:00Z
@@ -282,20 +220,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Facebook Unveils Machine Learning Translator For 100 Languages"
-    excerpt: "Facebook on Monday unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages without relying on English. The open-source artificial intelligence software was created to help the massive social network deliver content better in 160 languages to its more than two billion users around the world."
-    publishedDateTime: 2020-10-19T19:18:00Z
-    webUrl: "https://www.ibtimes.com/facebook-unveils-machine-learning-translator-100-languages-3064750"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 41
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/facebook-which-handles-more-than-20-billion-translations.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Facebook Says This Is the Culmination of Years of Work in Machine Translation"
     excerpt: "Facebook introduces M2M-100, a neural machine translation model that avoids using English between source and target languages."
     publishedDateTime: 2020-10-20T10:03:00Z
@@ -310,20 +234,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Imagine Brad Pitt speaking in six different languages: new AI translates dialogue in the speaker’s voice"
-    excerpt: "The same goes for podcasts and audio interviews. And, in a different sector, call centers would also be able to handle calls in several languages. Localize proposes voice translations in different languages all while maintaining the speaker’s own voice ..."
-    publishedDateTime: 2020-10-22T23:21:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/23/imagine-brad-pitt-speaking-in-six-different-languages-new-ai-translates-dialogue-in-the-speakers-voice"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/23/909356.jpeg"
-        width: 1240
-        height: 827
-        isCached: true
   - title: "Facebook Unveils AI Translator For 100 Languages Without Relying On English Data"
     excerpt: "Facebook announced that the MMT model that can directly translate “100×100 languages” in any direction without relying on only English-centric data."
     publishedDateTime: 2020-10-20T08:15:00Z
@@ -337,34 +247,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/lizde4rkc3wjcfjj_1603181420.jpeg?tr=f-jpeg"
         width: 1242
         height: 710
-        isCached: true
-  - title: "Facebook AI open-sources its M2M-100 multilingual model to improve translation accuracy"
-    excerpt: "In a blog post, Facebook AI researcher Angela Fan explained how ... “We’ll continue to improve our model by incorporating such cutting-edge research, exploring ways to deploy MT systems ..."
-    publishedDateTime: 2020-10-19T15:02:00Z
-    webUrl: "https://siliconangle.com/2020/10/19/facebook-ai-open-sources-m2m-100-multilingual-model-improve-translation-accuracy/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/M2M-100.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Facebook Shares AI-Powered Forecasts of Covid-19 Spread at the County Level in the US"
-    excerpt: "Facebook AI published a paper extensively detailing the techniques ... be integrated into specific reports bound for the European Commission, which the EC’s research team will use to provide a more comprehensive understanding of global hotspots."
-    publishedDateTime: 2020-10-20T17:35:00Z
-    webUrl: "https://www.adweek.com/digital/facebook-shares-ai-powered-forecasts-of-covid-19-spread-at-the-county-level-in-the-us/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 32
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/10/FaceboookAICovid19ProjectionUS-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Facebook unveils first AI model capable of translating 100 languages without relying on English as an intermediary translation step"
     excerpt: "Facebook unveiled AI capable of translating 100 languages without relying on English as as an intermediary step, as many systems currently do - making results 90 percent more accurate."

@@ -23,22 +23,6 @@ images:
     height: 483
     isCached: true
 
-related:
-  - title: "Genentech taps Stanford University spinout for AI drug discovery partnership"
-    excerpt: "Genentech has tapped an artificial intelligence startup spun out of Stanford University late last year to help it discover new drugs across multiple therapeutic targets."
-    publishedDateTime: 2020-10-19T13:25:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/genentech-taps-stanford-university-spinout-for-ai-drug-discovery-partnership"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 34
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1602873672/GettyImages-1156157558.jpg?HcXjE7dXhbr_RVvRvt3YvKKWcvZfOQt."
-        width: 800
-        height: 450
-        isCached: true
-
 secured: "j7mjkJzl5gUXM+Pvd3DbV+4VT/9tk8TMgalxh9rBhiTuuNyCUqgIls+rxtO6Jogr0+rpgh9+cfbzLYw3vMtTY6F0dJvtwoR3tmsBa43cgSZZuq1lXxj71mbKyg+VAWFbUvD8Hqbin8Yq3d+vdyHm+689487FiU7tFlGPL76J47tUnldl1ZIMlHSS8i2ZaQnLjDi+MLnovFe24BCBHwq5DtwO1U2KCLv5xd8Ke0DO020P2STlM0cTZJDNOEa/IL0mtEmBC7jEMUTmECmENDUiRRB1J11PuJCA9+6a4Y35uqlW8rK2A1um2PNuNPthvyJG3CBFYJ3PjrUyW3B+Z+bVaQNzt8k9JTFuHfkxbPJ1N+P5sadeoqnUnJ3rwkTZ42rhbkxccA9wsVdhkSDWyPDQN1l2YgII9hGD1kP0eeLDPskVpW8di4UJOIi5k7AZ7qN2ClxbjYd4+C/IyE+stOG1XgFlxxDceHrx9XdsWtV9E0bo3EcwDOFb4ltzmxyhABF100Ath8IN4YTlaEj57+mgiQ==;rHNGqH1MmOEojRaiVR3r5g=="
 ---
 

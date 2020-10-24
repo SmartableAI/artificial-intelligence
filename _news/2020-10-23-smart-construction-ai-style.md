@@ -24,70 +24,52 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s Lending DocAI streamlines mortgage applications with artificial intelligence"
-    excerpt: "Google Maps and DeepMind enhance AI capabilities to improve route calculations Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry."
-    publishedDateTime: 2020-10-19T14:32:00Z
-    webUrl: "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
+  - title: "White House Nears New Rules on Artificial Intelligence"
+    excerpt: "The Trump administration prefers what U.S. Chief Technology Officer Michael Kratsios has called a ‘light-touch’ approach toward regulating AI, to avoid holding back U.S. leadership in the field."
+    publishedDateTime: 2020-10-21T22:12:00Z
+    webUrl: "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
+    ampWebUrl: "https://www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/07/c9b63b58-80c7-48ea-88de-873031c6c261/thumbnail/1200x675/ccc5d8b42e1073502add1b385dd7afcb/google-maps-and-deepmind-enhance-ai-capa-5f558c2a836f805692009c76-1-sep-07-2020-7-39-17-poster.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.wsj.net/im-247890/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
-    excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
-    publishedDateTime: 2020-10-19T19:00:00Z
-    webUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/"
-    ampWebUrl: "https://www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/loans/2020/google-cloud-gets-into-mortgages-with-ai-powered-tool/amp/"
+  - title: "These homegrown startups are using AI and ML to change the rules of the game"
+    excerpt: "A report by industry body Nasscom noted that Data and AI can add $450-500 billion to India's GDP by 2025, representing about 10 percent of the $5 trillion economy aspiration of the Indian government."
+    publishedDateTime: 2020-10-20T09:26:00Z
+    webUrl: "https://yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game"
+    ampWebUrl: "https://yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game/amp"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
+      name: Your Story
+      domain: yourstory.com
+    quality: 71
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/10/google-cloud-lending-ai-457x305.jpg"
-        width: 457
-        height: 305
+      - url: "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Imaget6eq-1603185127719.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Google’s Lending DocAI service uses AI to fast-track mortgage applications"
-    excerpt: "Google LLC is jumping into the mortgage industry with the launch of a new artificial intelligence-driven cloud service aimed at helping lenders reduce the time it takes to process loan applications. Announced today,"
-    publishedDateTime: 2020-10-19T13:22:00Z
-    webUrl: "https://siliconangle.com/2020/10/19/googles-lending-docai-service-uses-machine-learning-fast-track-mortgage-applications/"
+  - title: "Attention EU regulators: we need more than AI “ethics” to keep us safe"
+    excerpt: "In this post, Access Now and European Digital Rights (EDRi) analyse recent developments in the EU AI debate and explain why we need a bold, bright-line"
+    publishedDateTime: 2020-10-21T00:00:00Z
+    webUrl: "https://www.accessnow.org/eu-regulations-ai-ethics/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
+      name: Access Now
+      domain: accessnow.org
+    quality: 54
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/share.png"
-        width: 1200
-        height: 630
+      - url: "https://www.accessnow.org/cms/assets/uploads/2020/10/AI-Social-Card.jpg"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "Google Cloud launches AI-powered mortgage processing tool"
-    excerpt: "Mortgage fintech startup Roostify is already using Lending DocAI for its ... and we believe that transformation will happen much more quickly with the power of AI. And if you are going to do AI, you’ve got to go Google.\" This content has been selected ..."
-    publishedDateTime: 2020-10-20T00:19:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36777/google-cloud-launches-ai-powered-mortgage-processing-tool"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
-  - title: "AI powered Proximity Detection solution launched to aid organizations with social distancing"
-    excerpt: "Ipsotek, a pioneer in artificial intelligence (AI) powered video analytics, has announced the launch of a Proximity Detection solution to help businesses across a range of industries monitor adherence to social distancing guidelines enforced by the COVID-19 pandemic."
-    publishedDateTime: 2020-10-20T08:58:00Z
-    webUrl: "https://continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing"
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 8
 
 secured: "JXmZkHFDBVhgsHAvwwvJFQj31jFTYs8RUFBP6a9APTsvpmQglZNKrdEBNqKMgnJcjqu7M3Df3FiROsqX+d2B8YmlM4mxivWLmWNfZ8rtR5NBYm6NkB+3E7+9AHGx6zRpVGx6Qn4q10iGh5dayNc5iv/3d4jIbcnZfbqPI0NM7LBxMbyH6y/+iw/kfgFEVh8nOD0areHOuZe4aqJ5IB+KJID8hz8MYXtiD9ylyvUpmfl6db/1Y2vUFsrk9FpOeYygHdzIqu5M+nZCZqeQvhn6j10RjR71dgmTJp1Onv7BBYvt8Hmjtx844JfSkkR0BwzuUWb+zNCvABYmXqkyrCbp+ePq1dqPL1+mWMWAN1AQsd8UOAxM0CLlRlcyoo4MOqiR1uFaeNnXYvY1tA2aXUWTPi2MLxmE6CKnaUgFGHcgtzJJbzJdAt1qePTXGfd4Peki/VWwnDrIyemEvPNSrmnk21QtQLNUCNQ7awg7wjpHVUV7M30vB4FIoKCLsZjgOTpIJdnxZrDsLCrKZDFRCkt31w==;gQL0NimoR5Wz84m+ryANZg=="
 ---

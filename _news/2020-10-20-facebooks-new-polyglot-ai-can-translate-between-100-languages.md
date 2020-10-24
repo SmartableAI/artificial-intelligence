@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook’s open source M2M-100 model can translate between 100 different languages"
-    excerpt: "“For years, AI researchers have been working ... Facebook had a group of native speakers evaluate the translation quality between 20 language pairs, none of them involving English."
-    publishedDateTime: 2020-10-19T15:01:00Z
-    webUrl: "https://venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/"
-    ampWebUrl: "https://venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft releases an image-captioning AI algorithm"
     excerpt: "Microsoft makes decoding words, pictures, events and familiar people on social media an easier task for visually impaired people with their accurate AI-captioning technology."
     publishedDateTime: 2020-10-19T17:55:00Z

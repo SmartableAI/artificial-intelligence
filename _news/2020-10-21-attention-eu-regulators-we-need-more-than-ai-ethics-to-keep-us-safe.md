@@ -57,6 +57,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Smart Construction - AI Style"
+    excerpt: "Once it is working in a production capacity, we'll start to scale up, going from one project to another project throughout the entire construction community.” Halder is no stranger to the power of AI and the challenges of bringing autonomous vehicles to ..."
+    publishedDateTime: 2020-10-23T13:38:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21145580/smart-construction-ai-style"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/SafeAI_5.5f91f563645dd.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 624
+        isCached: true
 
 secured: "GunH4FkZAGo4eZjc6KDfOC5PmWOrVtACIxBHiRLG1l7+KlaDYY2yF1LhjVR2ysvZp6AgiIvs/NCelTOKU2uLb6RPcsoQeKPFAfrBTOita9AtHV+Sq6s9VAYS1ON8vMXpT1eWcMm6xFnS+w0peqGImJo+M9XxQI7qOdsfns5SltJ01jNe+jJ1+V8HFk9EF1Q1GE44AGMkkxapdki+lOVkUKul26tSmgo218Wd7DPGG/o4yacgJYlWe0KuOlch+JfhYiTFUXPely0F4R+ytsB+HS3GB28atyDVDr/SwWl0o0zlPZDaOG8WvYeMKHXJaw2vqTsNdeuBDjgM4qFosS99CmQLQbbbEyhLZwNbqAnJbvefFq2Y83loyUw23zC8Jg0GktPM85JgYMCDZeYHk0+5nPbGCWQ6Nz0KnasuHqy2EI7tTBtX8TWKEShz0GzaED7PUgxsKEq7VNIra509d6K4MrbjPdr8Sa2ys1p/6QyNM11aX0BWgw5rzX/P+tCuzXMWvdI9a2uw0CqyxIIIIxOEJQ==;1ckt1hRPUTPPhLvXTubLDQ=="
 ---

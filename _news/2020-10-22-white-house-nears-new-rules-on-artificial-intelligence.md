@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/white-house-nears-new-rules-on-arti
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.accessnow.org/cms/assets/uploads/2020/10/AI-Social-Card.jpg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Smart Construction - AI Style"
+    excerpt: "Once it is working in a production capacity, we'll start to scale up, going from one project to another project throughout the entire construction community.” Halder is no stranger to the power of AI and the challenges of bringing autonomous vehicles to ..."
+    publishedDateTime: 2020-10-23T13:38:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21145580/smart-construction-ai-style"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/SafeAI_5.5f91f563645dd.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 624
         isCached: true
 
 secured: "7cWeJK1dzeFqsPuiyqf0sl516ZikHaBAIgXU7DvC5wrV7Mmo2z6tT3M3XuymfvWmSeZdNqU/5UkBIvxo/HCc2cTx7qmwrrbhj/ixldYrSUegmh2uJENUnFnWNQREmydkk8ycRJCYg2iqj4NoviHafXmfd2UQK+mlNUbFv++zSfOL6FtJ63swAuE2k/2Lv8YoA9IVfVU9BJCIdBd9m6N5io22wAmpTZCdInx94MMhfQJAbSxyJ2HY8jgr3J5AMevzC81UbZzwdVWOrgT+OpUDoPqPLRb8UwJStlJr0Z+shrk3H51pvZABbf8B7cFHTyAHtjygq0maGCj4jlzFHbGxlg/g7TkEOgxVVoGj4ZK+QApaooapI4Z4/x4tPAlunk7WT4WE9pgNOcwEm10hPd5dZ17uf+nbqu2OY8tEqzew2jniNOCKKVUvHU2qwha+iEHvtqblSOvh+w/deK6hpFAANxyoYM0yRcM4jHziqIjGwjyIg6O2guQ3MJWVn1U21cauH8PvQr0ONdXpHu04nSq83g==;Cm2VN2Ce9rEpbnPo1WxUKw=="
