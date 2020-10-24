@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "xbirdhealth"
   url: "https://twitter.com/xbirdhealth"
-  followers: 560
+  followers: 559
 
 size: 2-10 employees
 yearFounded: 2015
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VQhmAIFKOyU"
 
-secured: "lwEq24xLn86sZVfrdxF95+ntemKddaK9n1RqFDmaNAqnMLlawLnjygzyIWRjhTVJAzaJkvYj/6FacFp95bdWcH9A5GIZHbRNny3LWwoFptQxnC6cStKU7FIcQXid1OqhFcnwSVZqqPO/p7GmIcQClsGCof6ATe+sWgu+aoZNBRkiOpqWf9O2+m9JRppl+uouIfq+zsc/Y8hjsTfXKs9N9wD+IHBvScQZUHpAkToAIPefUmxA1PeHlyzsYF/pDEMMXS1uID4Z4cr+DGxBDe+Uve/evZ9YMoJq1NpH/E3/EuBSxGrB3o8HZTubwgQsE5rcJ1o6zqyOasCTG9vuha4+lK9yjilXJwZJISzjIPddwRYqY23CWKYOjbGbnF/zULCLC4P7R6zDaOcSFv76lVqH4g==;Ttu5wVWnQbjzsUFENekTUA=="
+secured: "3BpK+dI0r3/3E1iIblGDXuSMiDMAHwfOHR+EP/YRM7aNW1lQFftV5cnaUHt4CpY+TD5pF9Vl4GVMcJaNNGqcaHcxncYAemCGHqalSQOiovlOlaozN12HW9nP+j7kf51stjys/OrLP16ZZnbRRFor0Yb+MgJTwz140lSwZqyp/qihdkiBx6Rp9WBGYGIkEMZoqeJYNDTZfEXi0So50PENGrOvKEWWTHsKAlXqM7I6AVOMKxPw8VDLWh5Pq4bHdRBv55jWtkkZvf/CiKusCYIbKQ1qq/IQJ7VuSWWK58LV8uzEaPXoZ35SVIo13S8E0/5BrVw7od/4WQNNTTKG/Wv4gotIq8+9WpDrvDU+R5fG54o+oVlN32U1qTU+WY7r95NrZK35P8Jj3xrjFYo2pBC7dQ==;AF6ManR7xCMhyJm1uMMRYQ=="
 ---
 

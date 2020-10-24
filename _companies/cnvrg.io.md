@@ -2,7 +2,7 @@
 name: "cnvrg.io"
 overview: "cnvrg.io is a full-stack data science platform that helps enterprises manage and scale AI. Its collaborative end-to-end solution enables companies to accelerate innovation and build high impact machine learning models. From Fortune 500 companies to startups, cnvrg.io helps data scientists solve complex problems, by building intelligent machines. The platform is used across industries by leading companies in finance, gaming, BI, automotive, manufacturing, e-commerce and more."
 type: "profile"
-heat: 58
+heat: 42
 
 website: https://cnvrg.io/
 
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "cnvrg.io"
 
-secured: "v3J6XQGGGbe+nTpXxXazP9e7ptg3XzL6MLw/xBZ3Z9Cr48zOai46iq+wUqn0woAPZQ6H2Tzb8qkRQzpht3VbapBX3LD/qrZawHzKeOqq1Shzc2ojcra8ko5V3cUMs+HhekbmZzO7+q5MpCuCKNZIphcD99auZ37aOfgBLjXp/kyVCLul9PmiL6RTLJoG0uYuqTH5V2d3x4O1qFHziIyYPvsfAgbvqG6RJE7E0U2ff30yM7XFJP8lHjNvS7GjpsiskZQTQuQyKT8OzkVXGQe2hDaIoKa8eIKCnXQjyUEWrczxMET6CUKvzLa+b4+CRotC9eNl9TyaVXIvSB0y7y1MA/cDQ+uY0lcJh9Ibfa3w3nlE3wa2kyaPcKw2lDVZXbjrV6jU0FFxMRSV2QwcsUHA/Q==;096QJI0z3MmSbGjQKRYlfQ=="
+secured: "vR7++Iz2q6ht9YNq/Sl1qOKFGTjiLzZJzJRSLo39JrFRi5NdcT9MRAkcAbVy1idKX6gR2e9C3KSu6A7HCuXjnLluk8IoFHmdd6fmK1oX7UTQxWpwrk3/raV+JZpGL0511/khq/cCtIV+n6bVfB6wwKHjjh4ulyN9KvKN9ehnCrvepkMqLDc1xR2ACnTtuIVCzQ+tiuEiwvYALSKTaRBm88XVw0SQ78rONssIQe4kbAF5ow0Jo1hPQNy1j55Clj9f+NhSlqXMawhMrSochUiWWVwdw4HzgigFEPvs7yTbYvDTJFJs+Qg4TD7gklescSxW99JvBVoIf+nn1uA3erwIOcxt9/IrcrkJREOtGkAB98YARjlbsYNagiI16MggvUT5dArSVGbrLW4SbSS+MfcsxA==;5WwrQhnChiDqDPrRb0rwKQ=="
 ---
 
