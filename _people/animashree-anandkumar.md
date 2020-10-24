@@ -14,14 +14,14 @@ website: https://t.co/cr0ijXcp1F
 twitter:
   username: animaanandkumar
   url: https://twitter.com/animaanandkumar
-  followers: 39997
+  followers: 40009
 
 linkedin:
   url: https://www.linkedin.com/in/anima-anandkumar/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=bEcLezcAAAAJ
-  citations: 7108
+  citations: 7124
 
 topics:
   - AI

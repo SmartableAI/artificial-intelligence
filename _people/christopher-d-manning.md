@@ -21,11 +21,11 @@ website: https://nlp.stanford.edu/~manning/
 twitter:
   username: chrmanning
   url: https://twitter.com/chrmanning
-  followers: 71850
+  followers: 71857
 
 googleScholar:
   url: https://scholar.google.com/citations?user=1zmDOdwAAAAJ
-  citations: 143075
+  citations: 143393
 
 topics:
   - AI
