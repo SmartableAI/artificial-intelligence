@@ -183,20 +183,6 @@ related:
         width: 1242
         height: 710
         isCached: true
-  - title: "Facebook unveils translator for 100 languages"
-    excerpt: "FACEBOOK on Oct 19 unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages"
-    publishedDateTime: 2020-10-20T02:23:00Z
-    webUrl: "https://www.thesundaily.my/style-life/tech-today/facebook-unveils-translator-for-100-languages-JX4707290"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 26
-    images:
-      - url: "https://www.thesundaily.my/binrepository/480x323/0c37/480d250/none/11808/UNBD/files-us-it-lifestyle-facebook-185857_1699228_20201020094712.jpg"
-        width: 480
-        height: 250
-        isCached: true
 
 secured: "KZpogB9lbroTAMOkrM92wCushMps1FHhj67qsIVWzZdyK8P5i3N7hW5HI7sIVDZZH4tPw75LKtPLcGLkeQ6UIyDcw/fd/VScCgKlpvKxgjpA2P2OKu5Nyp+KlEKOw4V/B2WXhGd74pw2AsmzsHOnQAbUT6tNPDUShU/rRbtlJrOjrWxq+5OLCD5f7/E18ZdBovUdkJeY+pGQKqWZhhAgUkm7OPSTGagDJtVNxuDckyPP7SaUxs/tSu2Ypx4185aQC15gBXhKk9x2XK2NwSvJm/HR8070D/0QcqLYH3rWwTvBb3k5AZDLTF/+OntjkQGEBveR25n0PACZljpM87DQfK/FMwo/nuQBAqKFN5l/Uq4RcRLBhdqr8bAxFd64g/AkxjhG+K5Ho9eJmwjqStcX6ILLEvh3gRSLyo8RunXn6B1kwYW0kJRZwcSheDCSq/xDz6d2YJsex5YZ6eJJJS0HrEd7uKwAwUH01w2C8JMD/TmT2qNhOUIRLnjZ2qRZtvLOkyRZIyZyOnKAO7rX+axyTw==;0SEt/D2tU7Y6dRybAo4lkw=="
 ---

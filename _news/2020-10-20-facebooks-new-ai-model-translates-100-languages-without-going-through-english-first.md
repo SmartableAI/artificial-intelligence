@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-tran
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/"
 type: article
 quality: 98
-heat: 208
+heat: 198
 published: true
 
 provider:
@@ -187,20 +187,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/lizde4rkc3wjcfjj_1603181420.jpeg?tr=f-jpeg"
         width: 1242
         height: 710
-        isCached: true
-  - title: "Facebook unveils translator for 100 languages"
-    excerpt: "FACEBOOK on Oct 19 unveiled software based on machine learning which the company said was the first to be able to translate from any of 100 languages"
-    publishedDateTime: 2020-10-20T02:23:00Z
-    webUrl: "https://www.thesundaily.my/style-life/tech-today/facebook-unveils-translator-for-100-languages-JX4707290"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 26
-    images:
-      - url: "https://www.thesundaily.my/binrepository/480x323/0c37/480d250/none/11808/UNBD/files-us-it-lifestyle-facebook-185857_1699228_20201020094712.jpg"
-        width: 480
-        height: 250
         isCached: true
 
 secured: "bP/kpH/qEvhaR04UWJatzNnZZueItwXx+nT/bwk3CvomEd7H2rtQXUCY0iftNKWdy0hs7D0S1mLHfOCbqICjHX3jnrXol3GnDhGCFTSziVPn+OGhfLOOoDZxoDKlN2FlMPxk8i7SAxWFPUejuCButIw7E97FPhzOp7U3i8Mt8NffINgz4aozmACyqvJIFyGB1IGvAFQrSlv4ZCRU1oSbWFqZlDEzb5WUZOX5iNDKtmoJvNa1qR7KgyZxmBSRiMwG4huPir6zI1HyWpp97OSVzc2CWdW8BASOhvLNm9vHp7W3nSKKkQxNYyYdyymppeuHLjf/heBgtMfea/UXTR3jEYc5oCKmhXuz0zlsI5519kiNmv1F9i4D5F+8hO46cy1xjTD9Wc9hy+WWb+K+ieNowK+KE/MN2irv3VZzKr5XpqjwrFy3LN/vbidftNjR0qWj90/UWhhsaSw9VczgBTDvpJQA76Ws8upeTSP05KcqPoM5ZhQ3KPhRtm/SCFcAca2Skfh5RuiuIb44AbqCcjf9Tg==;6KXOewY3uyyX4UXsu51IwA=="

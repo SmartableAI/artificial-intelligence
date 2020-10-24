@@ -1,26 +1,27 @@
 ---
 category: news
 title: "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
-excerpt: "Oct 14, 2020--KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced"
-publishedDateTime: 2020-10-14T15:16:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-software-industry-information-technology-073d1b6e3cb94a568d9653c01f50cf4c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-software-industry-information-technology-073d1b6e3cb94a568d9653c01f50cf4c"
+excerpt: "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment."
+publishedDateTime: 2020-10-14T15:19:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201014005706/en/KNIME-and-H2O.ai-Accelerate-and-Simplify-End-to-end-Data-Science-Automation"
+webUrl: "https://www.businesswire.com/news/home/20201014005706/en/KNIME-and-H2O.ai-Accelerate-and-Simplify-End-to-end-Data-Science-Automation"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
+    width: 600
+    height: 300
     isCached: true
 
-secured: "TukyguChSrC/srPwdOLjT/1YDBGbzihcc1jY0mZkoqdEKP4MIr5ywGNs0bzEpw8rkza9NymHwg9rseMZcpUxvEd332QzB5M1XxwBY1mJeR/8A3VpkHU2XC5+a98jOgdJ9xgOsojt95hyZvcpPb2/2aXBChv6OCR2Gk77GompuumwKyo8UeuOueFykD+4cfn/TN+MyMNmByxdS1kVdttSUc6FcRlT8P9taCZmnrYvUcuBrpVbBkL0yt10ppuhtBsMLtNf0YPnb9xHGa0fWinvbuNlJvUgyqOI/ZJcwcSm4aa6qbSqHFgJQuv0QRW8kCUMe2EmE2GDNktx/GQEeQ13ozYkdx3TRHp2nugRl8WXeQM=;fG7hKIdEjl16eRG4WdrB7g=="
+secured: "/RZNhXMtJTSRouOwtVT/OCzoIRxz1U1weuFq3PHhFe1nT2jVlGAnd6k6/9bYD6TICpydJuilVu4M/0c2DmiyrQY9Hy9UYYO2nC5l1aX0260XelV3mTv3oplckxHduGTe7Glo/sc2mnU16N5CACzXwboYv9zYKO5OHfCS6Qthjjxe0Bv0MPlhW9JwfLYK2L5QGEnqcGn7gTb1NSdjAlQr1sDO7XFoG8DOcqy7CSaZy/53BfKGXjBWEAniAq345JWOGNuC5UncwIuopBjRVHfgcmC9dtj9ujhAlXCRrE2BZg59749s7HTcAi8CiqXuJ5n1/AOqczlLt9PQM0hVieGeWLHMyoBEBMyMwbUUnCNPs3M=;iibcFOTLhUQ3dzJYUc8GlQ=="
 ---
 

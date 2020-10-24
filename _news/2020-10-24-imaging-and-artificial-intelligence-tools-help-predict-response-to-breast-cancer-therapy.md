@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mskcc.org/news/imaging-and-artificial-intelligence-tools
 cdnAmpWebUrl: "https://www-mskcc-org.cdn.ampproject.org/c/s/www.mskcc.org/news/imaging-and-artificial-intelligence-tools-help-predict-response-breast-cancer-therapy?amp"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: mskcc.org
@@ -25,24 +25,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "Startup to use AI to predict risks for mother and child"
-    excerpt: "US based startup CognitiveCare, registered in Hyderabad has launched the world’s first AI platform that helps in predicting maternal and infant health risks called (Maternal Infant Health Insights and Cognitive Intelligence (MIHIC)."
-    publishedDateTime: 2020-10-20T02:00:00Z
-    webUrl: "https://www.newindianexpress.com/states/telangana/2020/oct/20/startup-to-use-ai-to-predict-risks-for-mother-and-child-2212445.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2020/oct/20/startup-to-use-ai-to-predict-risks-for-mother-and-child-2212445.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/oct/20/startup-to-use-ai-to-predict-risks-for-mother-and-child-2212445.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 57
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/6/w600X390/Pregnant_woman.jpg"
-        width: 600
-        height: 390
-        isCached: true
 
 secured: "gQ+7OfNxKUOTjEgFT3IwR0c+Z9Ag9d8BDfTAR/m90LN8OCer2gDE2836gxxPQkNVII9Oo4hMIJQIO1kxhZ6P13b8MhQVx8cC92//pdTnYjtV15qdQNraAkZkUBDlslMjGQXaMYJGilK1S7JxF+Sdin5l5CdHQcM5AmTPLEvgQSb5ty3m+Kt2ADsB3wroZP913a42ORi0cMC9Ir19ZdM+ozAmNI5X5QlFxo8sjvSBrbYAY9ylfCSum3OsQKfc4ega1zCdkpYbMzwOuQkPmZuVHQKm8A0UPzbuhAtZ/mOrc7acOK+oL3q4biyh8gxCbz0BPgXkX6pl3eRntkeF1SXRkV8cwkr61yjXaV4hwZ58o6M=;2tNW3/5B3XtQVx6nnWoqsQ=="
 ---

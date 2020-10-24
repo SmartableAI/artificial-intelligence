@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-s
 ampWebUrl: "https://venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/amp/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/10/worlds-largest-hockey-stick.jpg?w=1200&strip=all"
@@ -63,6 +64,6 @@ related:
         height: 480
         isCached: true
 
-secured: "14YOP6cj4kVpiyzQZJ5OIbf6DTAFdXpWmSlUnD3igwGYsCRPbcHXOW9ZywCU4Gv2N+kQo74DbqpXD5dAlGOAoxgWvkH1Bq+bZXyW+OcaamPvKlzO2ih9DSsK1iPhNmPaYATUUsKQkvATfsfYqrEx3jCMCn5eMnx40ND77hAf3vDyRrgbPYaAyKX8ms+DRzbGSG80TNzQ3RcDvhgxbzsh13PcE/s3KitEzzN5WB0QI56dblYVzwaE1NRyA3qXjtAZRofYzycfl0XcLzAXMirpGehHBEbLmrXV2AlsOmtEJ+7vPMQYv53Nfk1Zaz7W2pMxUfFKX/VabVBGybtSGJV23flreCXb1vW/oDhly5lSZU8=;EMnJ0Gav2nnA7elHigjbIQ=="
+secured: "JQSddTFiRWrwtn7XGgHc0PJwRYpj134ZCF5c5qvHfO3Mx+P0o7Q+Z9ZB1D4GzOBw9cGMqNEjtEZ8On+L0qTr9PO1H8N1QBu4rxOFtFgh7ivpba/+IRYJd3CjRzWSrgoFAAOHFsmpYmj6Py7inem0aGFzfx+tfS2Pu2kD0WhYm0EJaIVpyIHh9acwKv4Fj+hMt0/E4UM0KCBQfsd0UVusaXcLjd/eHACwFqN/OJRUHlyqTJUQePajYOBE6zuOvDoMPK2fIZIQxQ3B7vrl0UMln172gnIOMvbGuxyNjn+du0u1CACOHa/bGw/l7NDUlWFtijzeBImwL6xY5v9+VjSsZQE6i7Ie0TzBNXSseh6g2Sb0ilqx+otknewoscA5WoxNq86SMs2K6bVW9xsPzNmBRXWiHae/7XP2qANxbAPjsElhfz6GwP+VH7fVkOPcE0cg1uIxDDJfiT65zqQk2kAHfnTPQVTEHnC5TNwLLkXrsrm+NUGvvvaSl6GoKsdhabHBZFyA6TGkNi3VMH1/cj7UZQ==;8kZV+unFHdQG70IZqvu0iQ=="
 ---
 

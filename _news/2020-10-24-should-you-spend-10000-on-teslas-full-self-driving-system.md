@@ -203,6 +203,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla is collecting insane amount of data from its Full Self-Driving test fleet"
+    excerpt: "Tesla is already collecting large amounts of data from the vehicles owners in its Full Self-Driving beta test fleet. It is already releasing a new update improving on the release earlier this week."
+    publishedDateTime: 2020-10-24T19:10:00Z
+    webUrl: "https://electrek.co/2020/10/24/tesla-collecting-insane-amount-data-full-self-driving-test-fleet/"
+    ampWebUrl: "https://electrek.co/2020/10/24/tesla-collecting-insane-amount-data-full-self-driving-test-fleet/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/24/tesla-collecting-insane-amount-data-full-self-driving-test-fleet/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 85
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-data.jpg?quality=82&strip=all"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ software is starting to roll out to select customers"
     excerpt: "A beta version of Tesla’s partially automated driver assist system is available, but not to everyone Tesla sent out the first “Full Self-Driving” beta software update to a select group of customers this week,"
     publishedDateTime: 2020-10-21T23:02:00Z
@@ -366,20 +382,20 @@ related:
         height: 315
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-23T00:53:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+    excerpt: "The conflicting messages have experts in the field accusing Tesla of deceptive, irresponsible marketing that could make the roads more dangerous."
+    publishedDateTime: 2020-10-23T15:11:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: KHOU 11
+      domain: khou.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_135a11bded104a2cbee932740c5733a6_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://media.khou.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Watch Tesla's Beta of \"Feature Complete Full Self-Driving\""
     excerpt: "See the included video to watch the beta in action as customer vehicles autonomously navigate through left-hand turns, roundabouts, and more. Although Tesla has said the user interface will be updated as the rewrite is finalized,"
@@ -626,6 +642,20 @@ related:
       name: CBS SF BayArea
       domain: cbslocal.com
     quality: 39
+  - title: "Tesla rolls out 'full self-driving' software to select Tesla owners"
+    excerpt: "Tesla announced the release of their beta software for 'full self-driving' cars to a small group of Tesla owners."
+    publishedDateTime: 2020-10-24T18:14:00Z
+    webUrl: "https://www.khq.com/news/tesla-rolls-out-full-self-driving-software-to-select-tesla-owners/article_b80b1032-1624-11eb-bf09-0797e3d48355.html"
+    type: article
+    provider:
+      name: KHQ
+      domain: khq.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/khq.com/content/tncms/assets/v3/editorial/0/60/060777ce-e487-11e9-9cff-d7d7f7bc650d/5d93b1f72532a.image.jpg?crop=480%2C360%2C80%2C0&resize=480%2C360&order=crop%2Cresize"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Tesla’s Full Self-Driving Beta Is a Huge Step Towards Autonomy. Risky, Too"
     excerpt: "Accidents can happen either way. Regardless of which side of the fence you’re on, there can be little arguing that Tesla is making its boldest move yet in the rollout of the Full Self-Driving Beta upgrade. This update, FSD Beta for short, or Autosteer on ..."
     publishedDateTime: 2020-10-23T04:22:00Z
@@ -680,6 +710,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "IB9aXG3jWTfZ4R1JV4pbTGO4H0OKDioXsPI7YNIzZcotJpjqhUq4KnmXD3RjGUmWuVS9e8GV6FYo33J1JMrG/juZ1TKVhk98x3D1T8VW0xzXZu1UB3cxcXL0cdd9o0Bt9p+owXHnQ8vqAP/UW0Ip8l436BDQhGiPQgT9r1vzNO82x92GlxPCUs6riMw8e/obc7KMe0JbSwsLuzR+PtU0PpKnwed8H7948BiFIKVK1zRR61uuauOLvXaEC+9s+D2H4j64culiszmTLJ2p714H3xTYef8bhjsOhGe+tsgaKEwlrvVKzwh4CjEKEVIGw9xIP+f+N1I5zhZcEvCGBTRhE06GIjgGLZKxQ4JFLqejL2Q=;id1oS67in8/+24Uw0LXEmQ=="
+secured: "/EdzlwDvtJnmp/2SrrVZYhwzz/DPDp9+dKep/e1daZCk6ABKgZaO3QaTebR+1rvVENQUeJvZhs9GzsoVDRVIxq9gT+P0I6GVDgoguYcmiCqfHjvMxeEhuNBAJxGiJ85PbF4Pi8sMYZjM0fXwvhOSNCt4e2iS8OjpiH4KztWLnleG+F2aIvHs1SwfXz3rYYFgKHr8wEmDbrIR2KvXiP4tsP7BxT1dVRmW/dsdhjHRjkfoof3DmZpQFpdTyAa9qhZWXYpp14J1dAQk5jzYnPuQSgimuinDjLsqTTqNasEhGwXRijEycLdrkqDxrMveDUK1ZFZA5vTTohyWRo4XAi5MgODq6pq3tf98rhQXOfmyW4lU1ckd0RnbcfUe1zMq3Y+/uiWhfTj+OnIEnVR+IfuFNB/hU+AUrIG/FPy1P0Z9hvpU8iR3Tf/WmbA2FHS6IMkr+yixyF19N0SoCN9U3Uc62pEQomnSJGdEV87L3BeeZ36ohXtLq3/uRdEzpENcONCplgvFPAmlqHYEcxB4fMXy0w==;ocEEwdlKRwBCwaLN1KegUw=="
 ---
 

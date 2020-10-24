@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Retail Tech Startup Tiliter Raises $7.5M for Cashierless AI Shopping Technology"
-excerpt: "Investor demand for innovative emerging companies remains strong with Australian AI tech startup Tiliter completing a $7.5 million capital raise, led by Investec Emerging Companies (IEC). Eleanor Venture,"
+excerpt: "Investor demand for innovative emerging companies remains strong with Australian AI tech startup Tiliter completing a $7.5 million"
 publishedDateTime: 2020-10-20T07:00:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-3f8093b9dc6da93e55d2015ee8613525"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-3f8093b9dc6da93e55d2015ee8613525"
+originalUrl: "https://www.prnewswire.com/news-releases/retail-tech-startup-tiliter-raises-7-5m-for-cashierless-ai-shopping-technology-301155399.html"
+webUrl: "https://www.prnewswire.com/news-releases/retail-tech-startup-tiliter-raises-7-5m-for-cashierless-ai-shopping-technology-301155399.html"
 type: article
 quality: 33
 heat: 33
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1315979/tiliter.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
-secured: "MCR4ngU+ERBfQ2EulkGQUz0xlo8QWbibefQ5uvzVQ2A9NU9DkS5aJwt3ePajofrTuqkQNKRSEvxjn0/P+W/lEn57o0V2LV+m5hIGkcBc+55tiMvLxLltDuJba95pDjI7ufWsQTQclTwydG/uonEO3VcITdpHtizc3/Cd3ts/gc9Qy1EHVXMmUW+l8jvaFbMWRlAkiYFgWoKhLPhcqEtPl1MA/25wwhqeYdJsGRdDI1IGU0WMgp+fkYV0AB+P8HqWQctuPXsdtIr7KfQLG7QXEik9NWnf0Kv2RBsiqDe0RuQ0KBrr/RC4US3gbHkb1mohW0nS60d4j7cBGwln8epJ/Wi0nRSV4Xx/pZwHikzBlGI=;LO4eQCatY057ixG7Wds0DQ=="
+secured: "yXd4lGG83Gff/mumK8evOr+1ryxzu4XJTw8UGlBWR0MeWRvKDu3zNhSDTi+bPR6/XkAPMPAqdtKMeqQks+0/659JcHrp/+5JEkl3OdcW5A82uovY1aHbXH4CgUFIpmWnnbBQXEsGAQvNO/Acc/r5Ph7BeBpzwBa+Ujd2Esf4OuT7U66Lk/pt6ncEcKPwRtsTNkw+p8Co2J3FRjE5STVrkByhGlBrKtEvPhq+G0YCJlABNAvXtaRVkiNCOOfyQBvkDPOKgr37ILKw8MpTqW8w3gEyETqwIHPAv7OYwSwEbqtIlUto8evM19IWkIzzfNyAvqWK+VeHlxJuRl6+30wo8nvvYaGVR1TopF/xxlvgI4g=;DGOJR4X1m12J6XsuGxUmeQ=="
 ---
 

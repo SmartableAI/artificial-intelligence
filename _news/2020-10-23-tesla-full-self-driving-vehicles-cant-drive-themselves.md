@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tesla 'full self-driving' vehicles can't drive themselves"
-excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-publishedDateTime: 2020-10-23T00:53:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-webUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+excerpt: "The conflicting messages have experts in the field accusing Tesla of deceptive, irresponsible marketing that could make the roads more dangerous."
+publishedDateTime: 2020-10-23T15:11:00Z
+originalUrl: "https://www.khou.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+webUrl: "https://www.khou.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_135a11bded104a2cbee932740c5733a6_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://media.khou.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -202,6 +202,22 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tesla is collecting insane amount of data from its Full Self-Driving test fleet"
+    excerpt: "Tesla is already collecting large amounts of data from the vehicles owners in its Full Self-Driving beta test fleet. It is already releasing a new update improving on the release earlier this week."
+    publishedDateTime: 2020-10-24T19:10:00Z
+    webUrl: "https://electrek.co/2020/10/24/tesla-collecting-insane-amount-data-full-self-driving-test-fleet/"
+    ampWebUrl: "https://electrek.co/2020/10/24/tesla-collecting-insane-amount-data-full-self-driving-test-fleet/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/24/tesla-collecting-insane-amount-data-full-self-driving-test-fleet/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 85
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-data.jpg?quality=82&strip=all"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ software is starting to roll out to select customers"
     excerpt: "A beta version of Tesla’s partially automated driver assist system is available, but not to everyone Tesla sent out the first “Full Self-Driving” beta software update to a select group of customers this week,"
@@ -626,6 +642,20 @@ related:
       name: CBS SF BayArea
       domain: cbslocal.com
     quality: 39
+  - title: "Tesla rolls out 'full self-driving' software to select Tesla owners"
+    excerpt: "Tesla announced the release of their beta software for 'full self-driving' cars to a small group of Tesla owners."
+    publishedDateTime: 2020-10-24T18:14:00Z
+    webUrl: "https://www.khq.com/news/tesla-rolls-out-full-self-driving-software-to-select-tesla-owners/article_b80b1032-1624-11eb-bf09-0797e3d48355.html"
+    type: article
+    provider:
+      name: KHQ
+      domain: khq.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/khq.com/content/tncms/assets/v3/editorial/0/60/060777ce-e487-11e9-9cff-d7d7f7bc650d/5d93b1f72532a.image.jpg?crop=480%2C360%2C80%2C0&resize=480%2C360&order=crop%2Cresize"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Tesla’s Full Self-Driving Beta Is a Huge Step Towards Autonomy. Risky, Too"
     excerpt: "Accidents can happen either way. Regardless of which side of the fence you’re on, there can be little arguing that Tesla is making its boldest move yet in the rollout of the Full Self-Driving Beta upgrade. This update, FSD Beta for short, or Autosteer on ..."
     publishedDateTime: 2020-10-23T04:22:00Z
@@ -680,6 +710,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "5ifYvTek6bm5H6obUjZG9EB4MFk7r9V7eoI3fcBoriVvTdxED+l8bgw6oyBQyF9sxYczlBQZ1c5fpR/p4OTQzzHqDUsu29MqRgRKV+JU3jUEgbbpQZ44nRM7I/e7Sq7nOvygOeREHMf0a9XE4s4ggb53vlVN8ZncLLahqWL0Kr1tNXdKIArTWHFBwDRsUu+ZuouWTNTaKulYGp0mxk6c4I+k1Bs9YPtqRwk/S+knda91WTwTyF5YWHH5VkD05NYUy+3sL6YTvoc/LXNtg8mvj/N5rJiuxtgJHWQmcHh9GP/I+SKVY4ZLXMd7adxkfQZ7mPXVpz3wD6rKav61AH9UBUh8DdtW7OjFLladgCobCgo=;YyycVMB07Y1F0TDpIONwhg=="
+secured: "DaiTKJ+xywYeF9Nfcy5ChEVgVQUKBmyp6vd4e+fvbBGuapLoKDs1Ik6w7bEqafiOTLP9f3f5gseuGRVeA9BjpTbAWGPl/7GCzcyZ4D5MFxgsdjr6dYPlGDycycbp7abdDrBpfNeWsiWHNacgYq4O6Kr+Xm6hi8vO9twV1JTNKuRzMjHqrg+HThCRFFPj/PrHPNeQbLwIXyVrqpQDbmkpW/M4VLTFZ2jQMjSXTfGKmLU0QbBGbG6UHtvWwH4dWJ3HO2OP3j6p8HpuwS39bIHaz3gtXoVeXpjbBv/nAKPY2M+05Pt3zMtB/cSlK5FeOWaJGA/qf7fLNI2sgQijMyn9pVoo9s+ueA2axSnJyCUw0dY=;8DPOrjLgSQzKIYVR/81H5A=="
 ---
 

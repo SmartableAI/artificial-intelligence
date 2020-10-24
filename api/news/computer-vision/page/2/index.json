@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-08-acuant-announces-facial-recognition-software-awarded-elite-ibeta-compliancepad-level-one-and-two.md",
+      "title": "Acuant Announces Facial Recognition Software Awarded Elite iBeta Compliance/PAD Level One and Two",
+      "excerpt": "Acuant, a leading global provider of identity verification, today announced that Acuant FaceID provides facial recognition with liveness detection technology that has been awarded PAD Level 1 and Level 2 compliance by iBeta,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-government-and-politics-biometrics-computing-and-information-technology-software-3fb1cc6d39351af4d15eb9878c1e6e85",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-government-and-politics-biometrics-computing-and-information-technology-software-3fb1cc6d39351af4d15eb9878c1e6e85",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips.md",
       "title": "World Sight Day 2020: Blink More Often To Prevent Computer Vision Syndrome; Know More Expert Tips",
       "excerpt": "This dependence on gadgets worsened during the COVID-19 pandemic. This has led to increased incidents of computer vision syndrome or digital eye strain usually presents as one or more of the ...",
@@ -1379,49 +1422,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-cloud-native-brings-computer-vision-to-the-critical-edge.md",
-      "title": "Cloud Native Brings Computer Vision to the Critical Edge",
-      "excerpt": "EPA regulations mandate monitoring of flare stacks to ensure that the pilot flame remains lit, prompting use of off-stack thermal cameras outfitted with computer vision (CV) technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/208803/cloud-native-brings-computer-vision-to-the-critical-edge",
-      "originalUrl": "https://www.computerworld.com/resources/208803/cloud-native-brings-computer-vision-to-the-critical-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

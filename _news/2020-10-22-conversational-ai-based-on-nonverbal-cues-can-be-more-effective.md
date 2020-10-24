@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-bas
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Foxtel Selects TiVo’s Personalized Content Discovery, Conversation Service to Power Voice Search"
+    excerpt: "TiVo is providing Foxtel with a natural language, voice-based search solution ... sports and movies by providing a conversational experience through language recognition and naturally spoken responses. “Foxtel has been leveraging TiVo’s Personalized ..."
+    publishedDateTime: 2020-10-22T13:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201022005718/en/Foxtel-Selects-TiVo’s-Personalized-Content-Discovery-Conversation-Service-to-Power-Voice-Search"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "3oDbqDIbNSD/zJEuwu2SKQVbaDzhgQJ5Nehtv0zqQUr+zFGRw43Ov5vYmdDpMMIk28iy3+emWFtTs3uaz4/L1jafwNnN5Jaa99WkSMsmQ3Ob4z+FCVjXcOPijTo3sR0F90WgvAq/Nkjb2Oww7z/BuTuMeVG1SgIxMQOR4CXdugZgh4pDebNv7dMizQfPfKjTr0oMFC6UyxGe/qUbrg3AdAipPD0G47pSYZ4znNlyM2RYgzltuXT+VjowAKQEG2RmZ7cTG4x5uOg3Y9il9Qj6Mj7Qr90C85c064qQCf9LAYox6llbwuG68wqb6HL5W9P+XGzXLW0NPL1y2ROyWiAwAqbtzxKrTJqI2l2JdHg60gkkUuZARg1vDP6K5b8qZ9VTMqD7usgXfMtZ7gaZv/ehVmVfI107VW1Z0I9KZgOj/uYIph0A0aa+5YiV8/ERWcFeCnXR435uil5SOjoH20gT72mMF9C0oSL7FkzF17CMNPUvz89OkfDt4YpYb1hXAWnEtXYgdsb81g8PpoYL8nU02w==;qrWU+EApUM/iJJ5DI25DXQ=="
 ---
