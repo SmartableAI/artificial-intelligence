@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Cloud launches Lending DocAI to streamline mortgage applications with AI"
-    excerpt: "Lending DocAI, which is now in preview, is a specialized solution in Google’s Document AI portfolio that leverages a set of models focused on document types in mortgage lending. Google says it ..."
-    publishedDateTime: 2020-10-19T13:00:00Z
-    webUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
     excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
     publishedDateTime: 2020-10-19T19:00:00Z
@@ -105,6 +89,6 @@ related:
       domain: continuitycentral.com
     quality: 8
 
-secured: "Sy1z0MDBf2TVs1B6a0Y5j84/dxZYgXhNx7EYyiesSNLcHtqMinb0CSSZBCxV0sVm0d/TjQtxM4bGdiYZgFbdpjE1LQgWewuBUtcxwGxuutuDWGJ+jQ0ytJ1EX9AMbFPaBilQ7iudHR2J7dzcaMNhizypfF9IIlDRzqiqLHDoRPjedl8ooiOBihyGjffly4W+ysFa4tgyRQEcQD3m/2z08HB0wSxc5Kw8j6Lqa97wr4fLT9aqN0iyqx0+ehhnnkI37sH9/gUJZqqhUh7E8YFrNi+UbdHA/OR62rDN8kr5BjYh26Hy1pSB6RyChMTOjglCg5cPZ3/pdjeFl4ETQfJ0cESlodkFrig3pRQuPJmFx48=;NbxJElT7XkaSpvoOJO1Tmw=="
+secured: "JXmZkHFDBVhgsHAvwwvJFQj31jFTYs8RUFBP6a9APTsvpmQglZNKrdEBNqKMgnJcjqu7M3Df3FiROsqX+d2B8YmlM4mxivWLmWNfZ8rtR5NBYm6NkB+3E7+9AHGx6zRpVGx6Qn4q10iGh5dayNc5iv/3d4jIbcnZfbqPI0NM7LBxMbyH6y/+iw/kfgFEVh8nOD0areHOuZe4aqJ5IB+KJID8hz8MYXtiD9ylyvUpmfl6db/1Y2vUFsrk9FpOeYygHdzIqu5M+nZCZqeQvhn6j10RjR71dgmTJp1Onv7BBYvt8Hmjtx844JfSkkR0BwzuUWb+zNCvABYmXqkyrCbp+ePq1dqPL1+mWMWAN1AQsd8UOAxM0CLlRlcyoo4MOqiR1uFaeNnXYvY1tA2aXUWTPi2MLxmE6CKnaUgFGHcgtzJJbzJdAt1qePTXGfd4Peki/VWwnDrIyemEvPNSrmnk21QtQLNUCNQ7awg7wjpHVUV7M30vB4FIoKCLsZjgOTpIJdnxZrDsLCrKZDFRCkt31w==;gQL0NimoR5Wz84m+ryANZg=="
 ---
 

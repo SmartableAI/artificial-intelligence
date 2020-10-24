@@ -433,6 +433,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-23-ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen.md",
+      "title": "AI security: This project aims to spot attacks against critical systems before they happen",
+      "excerpt": "Microsoft has unveiled a new open-source \"matrix\" that hopes to identify all the existing attacks that threaten the security of machine learning applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
+      "originalUrl": "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/20/a9df854c-3561-47b5-a0a9-2f5c5561293f/thumbnail/1200x675/b563155ab97df39b8f1189a8bbfb0ff9/20200820-daphne-karen-crimes.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
+      "publishedDateTime": "2020-10-23T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive.md",
       "title": "Predictions Rosy For ‘Roadschooling’ Whence Self-Driving Cars Arrive",
       "excerpt": "The moment that you arrive at a landmark location provides ample time to stretch your legs and see new sights. For those stuck at home, it is the same four walls, day after day, week after week. Some twists and turns are to be expected while doing the road adventure approach.",
@@ -1176,57 +1227,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels.md",
-      "title": "The Cable Industry Is Leveraging Artificial Intelligence To Manage And Maintain The Next Generation Of Service Levels",
-      "excerpt": "The cable industry is clear that artificial intelligence is one tool that will be able to help them address the future bandwidth needs and service level demands. SCTE•ISBE shows that both engineers and complete organizations are focused in doing it in a local and organized manner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/amp/",
-      "publishedDateTime": "2020-10-22T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

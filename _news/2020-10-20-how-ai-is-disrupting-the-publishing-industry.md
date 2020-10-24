@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -119,17 +119,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Startup Circle: How is KiksAR using AI to change the fashion industry?"
-    excerpt: "KiksAR founder Ms Kavita Jha is erudite with a strong academic background. She has completed her MBA from Pune University. Kavita holds deep domain experience of 15+ years. Prior to"
-    publishedDateTime: 2020-10-19T11:35:00Z
-    webUrl: "https://www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/"
-    ampWebUrl: "https://www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 37
   - title: "Hiring the people that will put AI to work"
     excerpt: "Agency investments in artificial intelligence must be accompanied by strategies that rely on data scientists, digital workers and benchmarking."
     publishedDateTime: 2020-10-23T21:12:00Z

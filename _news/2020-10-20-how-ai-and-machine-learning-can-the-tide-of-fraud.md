@@ -115,17 +115,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Startup Circle: How is KiksAR using AI to change the fashion industry?"
-    excerpt: "KiksAR founder Ms Kavita Jha is erudite with a strong academic background. She has completed her MBA from Pune University. Kavita holds deep domain experience of 15+ years. Prior to"
-    publishedDateTime: 2020-10-19T11:35:00Z
-    webUrl: "https://www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/"
-    ampWebUrl: "https://www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 37
   - title: "Hiring the people that will put AI to work"
     excerpt: "Agency investments in artificial intelligence must be accompanied by strategies that rely on data scientists, digital workers and benchmarking."
     publishedDateTime: 2020-10-23T21:12:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
-excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's <TSLA.O> release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
-publishedDateTime: 2020-10-23T03:21:00Z
-originalUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
-webUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
+excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
+publishedDateTime: 2020-10-23T07:06:00Z
+originalUrl: "https://www.reuters.com/article/tesla-selfdriving/teslas-release-of-new-self-driving-software-closely-watched-by-us-regulator-idUSKBN27727Y"
+webUrl: "https://www.reuters.com/article/tesla-selfdriving/teslas-release-of-new-self-driving-software-closely-watched-by-us-regulator-idUSKBN27727Y"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27727Y"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27727Y"
 type: article
@@ -636,6 +636,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "cbzEDoDNXz97Kiex9y2Hvkr3jbekRWFGAjdww6huXZHnDAE3PSSaV784fwN+a6FFj61c9zK+3CSYYwdwNDFUmDWBmAsfNxfUcNpoAt1m1T6o8I4SGtJFdNHo4wQlz39JKy1hm3rtJvXiPacqNMozVSOqzw9cGqeYbh/v5pB8U0hVtgVK8Y+pgN7BxZetRfbrzVNSyHAqd9jqiix9SN9ozEev/es8DbdwW8RG7kvSOSH/9gpjFoqwl8lohVlc5KP75oo76A5W6ECLX96HuCdaZWTjD5hxDTUtHwUPiZ7mm+lQS/UeWZWQvIFy8eIzM4KnnOgXn7B/zyuJacmKN/pfW8paS2+FAymSWsrf4p6VPBB/53qVZ35uE0MRqRzHUSnXrixnckIuQBory0L/O+P3CN6qX/qLhIezZgldn0WczDaKEX71OVWsfuYBGLm878emzhv+RUlsiksyiUYJewVykdJO7jnzds4IEiesTy5NeBl8+sv7dtAfkukOWhpXOwDTI/vDFIN2vpMfeS80UZa+0Q==;U3DYFuLL3L0brFusOuB31A=="
+secured: "EIrVYA0sgiqEgqgZEMGb0GRlunxBWorRflitQ3pFRWpNZqsFg2RkSAJfK9Bqgk5+bq3u/2FwWXD/FmugLKIR0ZpBERnJ+y6tFaJO5OeJqsn6ahITOtDwQdPIKFNR493NgkkmYEjFeGHUCLlhi4BujXu05ZB87N8HB8zvYtpV//0+yxXHDmAmYHbq0IwD0UoSZ8AI3cJSCaXYnnjXg8U2fWP5aQaYIAJoOcCYdmM87VXLv2BFvSKJA9U6kkJzYN6PH+WyJ7U+KATuvjqVykXQkmoFZEaN2A7Q4b6zjCyNTldhTsa6abVnRNPo3/d9gMc0u/LUKtNCd36aW6bNQaHZAvNVjpf6QRmcqwECrLGLUPw=;tSy87TOJCu8OdljPtGvUnQ=="
 ---
 

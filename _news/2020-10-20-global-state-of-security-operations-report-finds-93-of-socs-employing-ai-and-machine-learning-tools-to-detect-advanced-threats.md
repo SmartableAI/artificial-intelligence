@@ -22,22 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Global State of Security Operations Report Finds 93% of SOCs Employing AI and Machine Learning Tools to Detect Advanced Threats"
-    excerpt: "PRNewswire/ -- Micro Focus (LSE: MCRO; NYSE: MFGP), in partnership with CyberEdge Group, today published the 2020 State of Security Operations report,"
-    publishedDateTime: 2020-10-19T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-state-of-security-operations-report-finds-93-of-socs-employing-ai-and-machine-learning-tools-to-detect-advanced-threats-301154755.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1314514/mf_logo_blue_large.jpg?p=facebook"
-        width: 796
-        height: 419
-        isCached: true
-
 secured: "r8WSqEcKUISnYK+uVsCkjddUwD9fANrbJDVXkU/NAf/qz4Dvi3qax28DT7OyzZSJayM/2pqWyot8ffSKq3Eftw8Ca8rXAdBQLjn5dMIIT5BpSNmET7yN/oV8UDJo2QKbLLgiV9KZ+jqnQqoyryPRBEzBw1iOM982ZE47SVl+T8DNj1fKSaDFgA5v6I1ORUDseVGL7vI6tM0c2CGtwqiCzLEJDp1wHTNfeZmyqActSQ+4tJ+lf6wS7xY9DV9kHPHD1b9jpWfNdPpcbdAkk1xHMuwH22GTZiTJiqeYgYduBTOAgZ7sEvq61zDy/agjNcvjW437UC5Izek+v4VgfbiZwXB2V6qohM5BHaVMnJHzeao=;F/Xz98ahF9Dncq9RXJE9ww=="
 ---
 

@@ -118,17 +118,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Startup Circle: How is KiksAR using AI to change the fashion industry?"
-    excerpt: "KiksAR founder Ms Kavita Jha is erudite with a strong academic background. She has completed her MBA from Pune University. Kavita holds deep domain experience of 15+ years. Prior to"
-    publishedDateTime: 2020-10-19T11:35:00Z
-    webUrl: "https://www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/"
-    ampWebUrl: "https://www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 37
   - title: "Hiring the people that will put AI to work"
     excerpt: "Agency investments in artificial intelligence must be accompanied by strategies that rely on data scientists, digital workers and benchmarking."
     publishedDateTime: 2020-10-23T21:12:00Z
@@ -153,6 +142,6 @@ related:
       domain: formtek.com
     quality: 34
 
-secured: "8kiocNx8efSqxIQJM0Po2YD3PN04f0tYOFC8sgDzWUMsE0ch6cK32oQfKq1wAajqME7La/S9u7Kkdyx6KIZfNJd5QyK/oYs/BFcHt0i/spx82znMsnPWphBpaS6JXNA7FD7xLzP4Najf8nbvzTKXYmEtEKLGXHrFwlNf4fZhlKZHV5H3MpooJJdg5K0uG+GvPGgutb8y63OD4cVW0owqO2cJ1pBBXrscmRjDirYBuRcrCOtA3P5a0du9vOxxGAOeiaq7KEqD3Eq5Gmt0Y24MYJesZseDthTMPVO2kuzDPPLbc/WMpsuuvpbAHFEu8Bc4q0GonJ70ZEQiNkbOGtXchScLTV7MU0LFx2+lGtNn/8Y=;hcIM6H/wRIHqI0LMqeb9RQ=="
+secured: "aLjx0ZwytkZ39II+TwhJmtSoYPsD1VGazb0tYw/SssB5Qh3pP/um2DUw6MzP21bCNM8o914VGmM0WQCzR7diJ6InkNDiAd1uQhqJfs5En3ICWfQot8RCWBZl1mEBAmqw1s4ZwPzLmqDR5n19DwEq6eivCN/rYS0At/PtnPSrgjcF7J/4h9L5M9i60tmNFsLmD/M1i7mv3hHl90y+xF83Cc18AevE57qmLmaYdU8lMhZYWRxcJ0vEX6vxPX0iFgHjNAlm3VndywS1juzb0qs51Gruckp2Q2SnUf4KifPpg/bz08i7J7a8nqCDkP3uGYkO+tvdWd/6RKljVxJOTALshEdAj68agEWo1OrmH85mHpWGaXUTq2eAKWWuj4cU8ZQ2F+ekvGcHwRnP9PjyCkcXKqz8eLD7ytPgmjxo0ggyg672SnNBvMtpZh6ucOGY2m2R4o+KTXL8Q7jFXZwlF111jdv0VYfQRf491p1hogV8DByGLEQFdivfhb93jkZ+iPsYyPQJYLvypGQNxPq8FrSk4Q==;nQaqjB9mWEw2zhD2qeCOHA=="
 ---
 

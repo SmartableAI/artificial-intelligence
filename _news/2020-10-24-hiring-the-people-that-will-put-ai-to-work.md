@@ -128,17 +128,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Startup Circle: How is KiksAR using AI to change the fashion industry?"
-    excerpt: "KiksAR founder Ms Kavita Jha is erudite with a strong academic background. She has completed her MBA from Pune University. Kavita holds deep domain experience of 15+ years. Prior to"
-    publishedDateTime: 2020-10-19T11:35:00Z
-    webUrl: "https://www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/"
-    ampWebUrl: "https://www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-kiksar-using-ai-change-fashion-industry/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 37
   - title: "Artificial Intelligence: Using Affordances can make AI Smarter"
     excerpt: "A concept from psychology called affordances is being used to improve the capability of AI algorithms. Affordances are simply object properties that list types of actions that can be taken on an object by some some agent that is capabile of performing those actions."
     publishedDateTime: 2020-10-20T15:09:00Z

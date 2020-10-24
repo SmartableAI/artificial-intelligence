@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Model Developed to Identify Appropriate Lung Cancer Therapy"
-    excerpt: "Researchers are developing a noninvasive, method to analyze a non-small cell lung cancer mutations and biomarkers to determine the best course of treatment."
-    publishedDateTime: 2020-10-19T12:00:00Z
-    webUrl: "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 55
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2018/11/Apr6_2018_Getty_490025288_LungCancer.jpg"
-        width: 2000
-        height: 1547
-        isCached: true
-  - title: "Researchers develop AI to count, identify birds in aerial photos"
-    excerpt: "The AI developed by UMaine researchers will use object recognition and image segmentation to determine the number of birds, their species and behaviors in aerial photos captured on Maine’s offshore islands and over inland rookeries during the spring and ..."
-    publishedDateTime: 2020-10-20T07:12:00Z
-    webUrl: "https://www.centralmaine.com/2020/10/20/researchers-develop-ai-to-count-identify-birds-in-aerial-photos/"
-    type: article
-    provider:
-      name: Kennebec Journal
-      domain: centralmaine.com
-    quality: 39
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/10/Double-crested_cormorants-1024x725.jpg"
-        width: 1024
-        height: 725
-        isCached: true
   - title: "Researchers develop machine learning model that will support safe and accurate decision making for the Halifax Harbour"
     excerpt: "Researchers at Dalhousie and ocean data analytics innovation environment DeepSense have developed a machine learning method for predicting wind speed and wave height measurements. Such measurements support safe and more accurate decision making by the Halifax Port Authority and the Halifax Marine Pilots."
     publishedDateTime: 2020-10-21T12:36:00Z

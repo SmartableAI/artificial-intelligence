@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fintech-group-unifie
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "6 fintech trends that will redefine the future of finance"
-    excerpt: "November’s fully virtual Hong Kong FinTech Week features expert speakers, who will share their insights into Fourth Industrial Revolution"
-    publishedDateTime: 2020-10-19T12:40:00Z
-    webUrl: "https://www.scmp.com/presented/tech/innovation/topics/fintech-fast-track/article/3105520/6-fintech-trends-will-redefine"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 69
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/19/692f0fae-0df0-11eb-94e0-02af7fd927c6_image_hires_094836.jpg?itok=BWqBzU0p&v=1603072142"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Advanced Technologies Of AI in Fintech Market Key Drivers & On-Going Trends 2020"
     excerpt: "AI in Fintech Market has been riding a progressive growth trail over the recent past The first two quarters of the year 2020 have however witnessed heavy disruptions throughout all the industry facets which are ultimately posing an unprecedented impact"
     publishedDateTime: 2020-10-23T18:14:00Z

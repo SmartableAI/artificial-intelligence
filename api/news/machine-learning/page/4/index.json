@@ -2,59 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-10-01-will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning.md",
-      "title": "Will AI cross the proverbial chasm? Algorithmia resolves the practical pitfalls of machine learning",
-      "excerpt": "For example, Amazon has made a lot of progress with text translation technology as a service, he noted. But industry-specific, or vertical market machine learning, is something of a different story. One customer of Algorithmia, a large financial firm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/29/8d457003-6fff-4124-8566-6fa533c43731/kenny-daniel-algorithmia-2020.png",
-          "width": 2053,
-          "height": 1118,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "publishedDateTime": "2020-09-30T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-09-30-tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020.md",
       "title": "TigerGraph Highlights Next-Generation Graph and Machine Learning Partnerships at Graph + AI World 2020",
       "excerpt": "REDWOOD CITY, Calif., Sept. 30, 2020 (GLOBE NEWSWIRE) -- TigerGraph, the only scalable graph database for the enterprise, today announced that it will showcase multiple key partnerships that are democratizing the use of graph with AI and machine learning at Graph + AI World 2020.",
@@ -1437,6 +1384,49 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning.md",
+      "title": "Monash University researchers speed up epilepsy diagnosis with machine learning",
+      "excerpt": "A new study by Monash University, together with Alfred Health and The Royal Melbourne Hospital, has uncovered how machine learning technology could be used to automate epilepsy diagnosis. As part of the study,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "publishedDateTime": "2020-09-24T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

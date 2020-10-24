@@ -3,14 +3,14 @@ category: news
 title: "AI security: This project aims to spot attacks against critical systems before they happen"
 excerpt: "Microsoft has unveiled a new open-source \"matrix\" that hopes to identify all the existing attacks that threaten the security of machine learning applications."
 publishedDateTime: 2020-10-23T15:41:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
+originalUrl: "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
+webUrl: "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 77
+heat: 77
+published: true
 
 provider:
   name: ZDNet
@@ -23,6 +23,12 @@ provider:
 topics:
   - AI
 
-secured: "DDv1qcFP+k8iDogN3MzVXEQoZ1x+tCVlPhluduKUyPpc3Wx3E21Lj4uwINQn14AtiyiwNxuHtm+PeGx6fT75a+0kAXIhvcY4ve/pbE9FU8l6zDAqPRRDh/bQiodIAW9PaDN/7OP63mhRwCJSfuHICU1VrmbSNw42tW9eEANmeobFcABbfycmOmJ6cKYS93Qr+VvZ2t5kg0Lk3YFT1mKFuWzu1dgK+5G+wDFr+QmSS0F5AeSv+Wxz12NlvSWYmE7ZxLzuUigisPs57BjbbrmZ0hdsZRrVvEmTFnSkUUhmU7iDzgfvlto+v6tT064LPvCPU1aWYx7kjk2bXAdTz+711X1rRzuVySPCZ7KlGuWMl3l6WoV7y5xAzF26nQQbQxm5MUht4CfK+D5BcvIsn45TC46UIK8eCmyQYemNhYwNCzP87EjJqtobBKaUhOSt2XMeK+radWAEGS2RtIdfUNiLRZ7SuWH2JgRuQ8CCO7XYW7QhE/et8e5L+wF0g81shPaisDzgJ0s9QLh/l+D15VQoKQ==;6EIzKRDT9CEhEandqW5dxA=="
+images:
+  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/20/a9df854c-3561-47b5-a0a9-2f5c5561293f/thumbnail/1200x675/b563155ab97df39b8f1189a8bbfb0ff9/20200820-daphne-karen-crimes.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "loLayXQx89J0lc3UGpT/MWKCXo34cCeUtmgaowZv53QRHyPhl/1L/KsO7hcfge3P1Zpe5BXFrr3DaCgOLa57wb3E1tlpTADivuAOlu55CtFf3axc4PrlD4JwM/cy6QgDyN09RxXtiEAl2OVCZpFldXKvkYIC6N2pozRSc101W9tOlbI+gdrw6/Y7zM5cpiG+JmoowauSq4rM6u/8Nkld8/STpn8CplkNQWZSnLgrPD+0feTTa60GhAUZhxHyuLjIAPrJSXRLtYWdhsk34OpXPN62v8L5pnHhNIn50JjiruD52DSEUI3sY8TG2kM5tekvPZg7WPodkJDO6iGN5lyz641RexVNOCcqGpxveTlEcF0=;h4Q0G8Ea1S/3QjPnWMkF5w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-lending-docai-strea
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/"
 type: article
 quality: 97
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud launches Lending DocAI to streamline mortgage applications with AI"
-    excerpt: "Lending DocAI, which is now in preview, is a specialized solution in Google’s Document AI portfolio that leverages a set of models focused on document types in mortgage lending. Google says it ..."
-    publishedDateTime: 2020-10-19T13:00:00Z
-    webUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/google-cloud-launches-lending-docai-to-streamline-mortgage-applications-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google Cloud Gets Into Mortgages With AI-Powered Tool"
     excerpt: "Google Cloud is aiming to innovate the mortgage industry with its new artificial intelligence (AI) tool called Lending DocAI."
     publishedDateTime: 2020-10-19T19:00:00Z
