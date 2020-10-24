@@ -15,7 +15,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=x04W_mMAAAAJ
-  citations: 199592
+  citations: 200240
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Ilya_Sutskever
