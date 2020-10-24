@@ -37,17 +37,6 @@ related:
         width: 1200
         height: 478
         isCached: true
-  - title: "WIMI Hologram AI Virtual Human Intelligence, a New Chance in Virtual Entertainment Industry"
-    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report 'WIMI Hologram AI Virtual"
-    publishedDateTime: 2020-10-19T10:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/g17954355/wimi-hologram-ai-virtual-human-intelligence-a-new-chance-in-virtual-entertainment-industry"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17954355"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17954355"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
 
 secured: "gfYm5ST2MJ8odpaAsQVdneO649b3IuadDeTP4EFVjMNu7Yw6Bw1MryL0Lpb0UkeM1MFwuDTbm9BQeGtAyyUVOQpW7s7LIkCDsIUAGWItiLb4gX4sHzavaXBQz5pogmekKPlIlvNt6lbh+Z2Qp2fVjXUwCcyBOt8xDlfmbdQXkM0Tt7Rsx9Q50MuLjN5KQhcPSiRtvLvpPR+l+OB8E9LQW7ulKtuB5XHWLInGPqfKxOpdhGKRY+VtOa31Zdq27XaXJcoB7VE80UyP5IHnKz5mTzUTgdtLB1Io75uf79he3+m2uIoBY6StzUfgyQsDn8x0Ck/rliuT6QKdzkHzkSuiwuKPCxvxNCMnKuZrWFrQ9/8=;+iavphVdqiP0aaePYuRZAA=="
 ---

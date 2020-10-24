@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Why AI chat Is lighting the torch for virtual student support"
-    excerpt: "As COVID-19 shut down colleges in March 2020, we observed that the ones that successfully transitioned to remote service did not replace their existing student service model with a completely new one."
-    publishedDateTime: 2020-10-19T09:18:00Z
-    webUrl: "https://www.educationdive.com/spons/why-ai-chat-is-lighting-the-torch-for-virtual-student-support/586937/"
-    type: article
-    provider:
-      name: Education Dive
-      domain: educationdive.com
-    quality: 37
-    images:
-      - url: "https://www.educationdive.com/user_media/cache/57/b8/57b8b7e655b7e9e312404d79e1e2521a.jpg"
-        width: 770
-        height: 364
-        isCached: true
 
 secured: "6KHr8AeX5Q6KmSpNZFeCSAc/6/qO1Js6uspemKYHte0AWGQp9i9rPYTxvKkMN8d3LgcR64ZENdGZfJtaVyTttHIFd1FlvOIMT3y6zMDbELh1Fjx7i9l3sdGWH9o9HbMOUYnlxL5xJoVZIzpW7V3sq41fA8uD+SmBvWJav0I9Squ9/6azURd9Igd3XFvghhMXCHMAdCEbf1lsOZbBKtkOUWZeATMn7LxVzgSGP9/pvsqLSo7JhGKH6PrksdwfcJ9aenaKCSl/YHcP5Xhh42kUdGnT5Vj924LUtFk2U84IQ8dhuETe3TJvg3d1PlWcXRvdkHLUK2EwaqIsO9UOkLeRbSfD3ZUMOfRUASIoEsIsC9RXHrAhJXKgLQVu8r54yoIfLnfcyGX1rD0TboNDBp4oR9pktPg9uuKCn3wUSWhcQD9cBIjjWGAlWlP8aDkSuxg6L58T3u7Gu1EgnB/DQfdsHYDB7Y/g3elPMmD+w/TVNRANwaf/gh4m7yMEDMMnlTf5SqB6vLz4f2a9I3xm8yFvIQ==;RBJNE/BikiVdzIKYFMiBWA=="
 ---

@@ -96,20 +96,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Three things to help fintech unicorns grow profitability"
-    excerpt: "By Kash Amini, CEO and Founder of MasLife The new breed of fintech companies is missing a trick with a massive market opportunity. Lack of customers isn’t the problem – profitability is. CEO and Founder of health and finance app MasLife Kash Amini suggests that there are three key ingredients neobanks lack in their journey"
-    publishedDateTime: 2020-10-19T10:28:00Z
-    webUrl: "https://www.globalbankingandfinance.com/three-things-to-help-fintech-unicorns-grow-profitability/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-19T154147.289.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "TpbtZnvlyzIiVrQbGO2uaqFnqSG09cM9/oiY7TirIpSmH3LjtSLlVNootGVTn7+fjzeaJfT7lC607Vv93PaeCRfNa5suEZJeY2H6XD5QobWHPHjw5nFtF1JRW271BITfT5UeKG+JmDqee5dxrC0KBlXKSSLKn2ys//TvR1wRldJ5PmLNml2N9DfVqMx+MIb0LfyEihleVwceMmBOl2+hjWSXSjFhFn5PhC58IQk0xHGorlrhjq4nb3e4v7sVaAz7/dzBiEUIN9ESxDXoQ2Vqcpfjg+LWZ/QQ2k7G9as2rX+2kg9Vdwuh4XByWUh78QRTKYD5KWP4ytKc4k9LbiHn4UEdbGAgXS9KPLpJyNRUIu0+F8kEdSdto5XLGD3UhRD5XCIkI/uAT/3IqnoeJqskyvsyxSa1Osu0z/PpZ8EO1jWJgwP+7HhsZzoLOy0N/4xjQ4a/lF8y9MMOUAtqvRuA4XGnfBUuBzqR5xFSP3s8RBYQ7pA1VRa3/GuiRBfMAWkvePpOunaLNaLGoNSI5XS2oQ==;/Y3QDhvg71mG32jgOwuDAQ=="
 ---

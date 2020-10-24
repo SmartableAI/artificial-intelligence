@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/machine-learning-helps-translate-lost-lang
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/machine-learning-helps-translate-lost-languages-21643696/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 117
 published: true
 
 provider:

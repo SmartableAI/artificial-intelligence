@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-st
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "WIMI Hologram AI Virtual Human Intelligence, a New Chance in Virtual Entertainment Industry"
-    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report 'WIMI Hologram AI Virtual"
-    publishedDateTime: 2020-10-19T10:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/g17954355/wimi-hologram-ai-virtual-human-intelligence-a-new-chance-in-virtual-entertainment-industry"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17954355"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17954355"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
   - title: "WIMI Hologram AI Virtual Human Intelligence, a New Chance in Virtual Entertainment Industry"
     excerpt: "TailorInsight, the fintech market research organization, recently released a research report ‘WIMI Hologram AI Virtual Human Intelligence, a New Chance"
     publishedDateTime: 2020-10-20T00:35:00Z

@@ -127,6 +127,20 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 37
+  - title: "Hiring the people that will put AI to work"
+    excerpt: "Agency investments in artificial intelligence must be accompanied by strategies that rely on data scientists, digital workers and benchmarking."
+    publishedDateTime: 2020-10-23T21:12:00Z
+    webUrl: "https://gcn.com/articles/2020/10/23/future-ai-workers.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 37
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Workforce/workforce2.jpg"
+        width: 760
+        height: 368
+        isCached: true
   - title: "Artificial Intelligence: Using Affordances can make AI Smarter"
     excerpt: "A concept from psychology called affordances is being used to improve the capability of AI algorithms. Affordances are simply object properties that list types of actions that can be taken on an object by some some agent that is capabile of performing those actions."
     publishedDateTime: 2020-10-20T15:09:00Z

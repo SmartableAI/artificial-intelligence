@@ -23,22 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "MAPFRE And Shift Technology Join Forces To Reinvent The Customer Claims Experience"
-    excerpt: "MAPFRE and Shift Technology, a provider of AI-native fraud detection and claims automation solutions for the global insurance industry,"
-    publishedDateTime: 2020-10-19T10:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mapfre-and-shift-technology-join-forces-to-reinvent-the-customer-claims-experience-301154380.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/999598/Shift_Technology_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
-        isCached: true
-
 secured: "8jwwAMc+vFoLRAlksFFEie5uzlHhsTKE/D65Y0nIfT8WR6Edtu0iiOPF0W2qWgsI6KxKztkwTRfBfwJvoNDC0syxCSHPi0eqmhFd+jw27ZevCanZGx/ww8GqMTifH5IANTSiSmNVbNidwN0Wy617Lk9GM712LK7cMbIdK6dgBHEEpBGolaxPhctm7ek9h8/7fgXiR7wqJXkudD3H7ZMbriJsPr7eI7KRD8IK9cp0Vk1N4fwid/86yC/ro8lv4t8bthWMvs5KS1nw0VojHV5h/Ae5VxRyoenu4tz8b0EmtwciIt8X735V3Ci7JhbPadwptMQzRag6wD7PRwSsvLozS4SE37sC+XfZ27wLjAmeTJo=;SlEm31P2A22obWIytjJIJw=="
 ---
 

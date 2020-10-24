@@ -1,7 +1,7 @@
 ---
 category: news
 title: "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
-excerpt: "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment."
+excerpt: "ZURICH, Switzerland & MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that ..."
 publishedDateTime: 2020-10-14T15:19:00Z
 originalUrl: "https://www.businesswire.com/news/home/20201014005706/en/KNIME-and-H2O.ai-Accelerate-and-Simplify-End-to-end-Data-Science-Automation"
 webUrl: "https://www.businesswire.com/news/home/20201014005706/en/KNIME-and-H2O.ai-Accelerate-and-Simplify-End-to-end-Data-Science-Automation"
@@ -12,15 +12,10 @@ provider:
   domain: businesswire.com
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
-    width: 600
-    height: 300
-    isCached: true
-
-secured: "yI14Qlwrm2N6NXroUMdkmSulv0jMnkNVw4KWd8yf5ufP1lwXurdjZnoftgj/ep+cGFp8OG7fbs0vhT9hir1f8OT6VzCdE+53yr3zBjiCdPt/NZqhF917E+RTnRaqc+8uI5LEVABTPSHSw0RBF22dJz165WjUYOX7PpQc7VPQjYyF+Hj4Gr9NPrEmnv379xz+grMjK4eLksyfmRj7ByTLGRlc+HXtxPhP6RH4eOLUweTdZwGQ2GCj1uZ9KM5kLmJ+qqyPz8oFYpqZXIeK2+gI/yh5KbQvFkkvSTyFlOS/iu/PnP/D0Kd9ZYQE4tXoWPzVdmmja/2VreTDqdnjvEcDT207YKfNXwvC1ESXC4iuG0o=;t6g8KBnKUseBGJkBFi+XsA=="
+secured: "P2yfIexr2AVdMVoYqfwJJoPmPVTDvEL4SqSv2ptuHTQV28F7pEDoxZWbkwwC17QKNrmxfEAPP0hqWHmAmDH2nbp2IFNQcXLWP1Ym+sLSaBtIhUd+BMquivHfRluwHJDHTrkqDRfxuAC0+OMY9Esnv2o3eSum1C+b+Bfy/FW/1PPVSdsMSTLGVuPiwFrXqoepxaowyWetOF/fqjZZ/DDhNz/JumLAyYthCGCfjeZm8hF1Uq5z18ZMt1+psdHvYS2yYtgIU6QAlKj16WVOlHQR7p5nbPjxJmt67yDmkT2Y2YrROewqwLwMF77nWCw3Oj1gdrG0n1RD/NsPiT3iPdbe6/3Cd4l+lL4EHxAnfzxVgV8=;4YcmSklJxbomnHiABMcqFg=="
 ---
 

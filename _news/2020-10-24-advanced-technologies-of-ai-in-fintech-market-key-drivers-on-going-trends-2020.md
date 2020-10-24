@@ -82,20 +82,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Three things to help fintech unicorns grow profitability"
-    excerpt: "By Kash Amini, CEO and Founder of MasLife The new breed of fintech companies is missing a trick with a massive market opportunity. Lack of customers isn’t the problem – profitability is. CEO and Founder of health and finance app MasLife Kash Amini suggests that there are three key ingredients neobanks lack in their journey"
-    publishedDateTime: 2020-10-19T10:28:00Z
-    webUrl: "https://www.globalbankingandfinance.com/three-things-to-help-fintech-unicorns-grow-profitability/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-19T154147.289.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "FinHub 973 launches to boost fintech sector in Middle East"
     excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
     publishedDateTime: 2020-10-20T08:28:00Z

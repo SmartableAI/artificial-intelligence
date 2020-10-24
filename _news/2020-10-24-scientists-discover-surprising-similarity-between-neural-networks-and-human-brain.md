@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/surprising-similarity-between-neural-networks-h
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/surprising-similarity-between-neural-networks-human-brain/amp"
 type: article
 quality: 69
-heat: 79
+heat: 81
 published: true
 
 provider:

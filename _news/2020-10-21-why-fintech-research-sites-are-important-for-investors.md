@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ING and UNICEF launch ‘Fintech for Impact’ initiative to support fintech start-ups in Philippines"
-    excerpt: "efficient data with a new AI-enabled platform This initiative, called “Fintech for Impact”, supports open-source solutions that contribute to a growing body of digital public goods that can advance society. Chris Fabian, senior adviser at UNICEF ..."
-    publishedDateTime: 2020-10-19T09:58:00Z
-    webUrl: "https://www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-‘fintech-for-impact’-initiative-to-support-fintech-start-ups-in"
-    ampWebUrl: "https://www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-%E2%80%98fintech-for-impact%E2%80%99-initiative-to-support-fintech-start-ups-in?amp"
-    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/asean-business/ing-and-unicef-launch-%E2%80%98fintech-for-impact%E2%80%99-initiative-to-support-fintech-start-ups-in?amp"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 31
-    images:
-      - url: "https://www.businesstimes.com.sg/sites/default/files/styles/article_img/public/image/2020/08/06/nz_philippines_060820.jpg?itok=LHDtmRW7"
-        width: 440
-        height: 293
-        isCached: true
   - title: "Fintech start-ups to get equity-free investments"
     excerpt: "Five start-ups that are building financial technology (fintech) solutions have been chosen to receive equity-free investments, as well as technical and business mentorship, for one year under the “Fintech for Impact” initiative of ING Bank and UN children’s agency Unicef,"
     publishedDateTime: 2020-10-22T23:05:00Z

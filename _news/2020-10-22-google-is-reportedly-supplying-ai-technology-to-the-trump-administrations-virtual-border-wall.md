@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/google-trump-virtual-border-wall-and
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10?amp"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/10/google-cbp-theintercept-fin.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Why AI chat Is lighting the torch for virtual student support"
-    excerpt: "As COVID-19 shut down colleges in March 2020, we observed that the ones that successfully transitioned to remote service did not replace their existing student service model with a completely new one."
-    publishedDateTime: 2020-10-19T09:18:00Z
-    webUrl: "https://www.educationdive.com/spons/why-ai-chat-is-lighting-the-torch-for-virtual-student-support/586937/"
-    type: article
-    provider:
-      name: Education Dive
-      domain: educationdive.com
-    quality: 37
-    images:
-      - url: "https://www.educationdive.com/user_media/cache/57/b8/57b8b7e655b7e9e312404d79e1e2521a.jpg"
-        width: 770
-        height: 364
         isCached: true
 
 secured: "WsAQil6JjIByk94VNCnnenoyxgfxrp4VZwiF6u6aXVzrLr3sv8pLm/+l0ibDx+zboSOT2yGhq0XThSyp5oYfknRoEZVrd75LvYp4RnFD2ZhtQJ1XwbbPacSMRO0c4rVetoVVdjdWNMxuRbd5yPqsSxN3z19xKZGkSjBCgF7XPahtaWiiuJCz7NqQRiFzyss5OrfG8diAPvymE+c7PJHlY2k25MhA3N1e4DSxaRbh2fxLEL8M2hsqgxafoQ+HKtQKbUquDdeiGHDfrJ2CnUmXH1eB1bPaj2L+buYAZWaZGcpVuATXrvb85rJGggXxLRxvIWo4WeTEmE4CZgNihTuRo7dWMFMAL88nt2C8kpe5/aj3xHIZI+8lnMCbCMRclihpiHHU+mdJMFKZeWW5f5QrObgUNRrtj2Y8af1Pc6jDzvlrfrE9rBfFwtrVMfO4M5gTYzFK1ztZQvcIhjuKVA1bBfnwFF/0QpzffkxIIy7Wha8kd2/+9c79C4afR0tTYnc7Zx1pC4m+ExTwFo873j1Abg==;oFJX5DUbd9aFA7i3D8zlhw=="
