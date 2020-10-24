@@ -3,8 +3,8 @@ category: news
 title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
 excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
 publishedDateTime: 2020-10-23T07:06:00Z
-originalUrl: "https://www.reuters.com/article/tesla-selfdriving/update-3-teslas-release-of-new-self-driving-software-closely-watched-by-u-s-regulator-idUSL1N2HD0VI"
-webUrl: "https://www.reuters.com/article/tesla-selfdriving/update-3-teslas-release-of-new-self-driving-software-closely-watched-by-u-s-regulator-idUSL1N2HD0VI"
+originalUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
+webUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27727Y"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27727Y"
 type: article
@@ -126,6 +126,22 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Watch Tesla Full Self-Driving Beta in a full 30-minute realistic trip"
+    excerpt: "Driving Beta trying to handle a full 30-minute trip in a realistic environment. Earlier this week, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature."
+    publishedDateTime: 2020-10-24T14:41:00Z
+    webUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/"
+    ampWebUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-beta-hero.jpg?quality=82&strip=all"
+        width: 3584
+        height: 1742
         isCached: true
   - title: "Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of"
     excerpt: "For the lucky few selected to experience \"Full Self-Driving\" or (FSD) on their Tesla vehicle, Tuesday night is the night. Tesla CEO Elon Musk tweeted Tuesday afternoon that the autonomous mode ..."
@@ -636,6 +652,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "XaLZv0OjUAnMhT2JEoVRv07GOyFUOdNTxYeYVoT+I0LsJI8QGOzhF3uqUa9meQR2/vbI9vI4L6M2ZTcFCpy77K8RyHq3uruATciwrVN3NQDaMPoPCxZxjyyl2LbEagj/RB1/WejR6yhNapIyAd76jPXy8aHV/PalelWjsvzlytkdJ6/oF+S13945S3SwdbSPNypjP/GSyuxLjTDTC3u3OprtOxENAmPND8i8vwKIWRe5lBBk57NdDmRUyEffrdH0HWkRa26eJEBTjCfLnEd30WDh46a+TGtz/HAo7mMCgoaifEo3wvIf8Sz2bfTprdUcSrHyFD5qtzT25lNqIUO/y7unVuiPQ8VmmjKgzzrBA2A=;iRmZNWK8hurCihCqvCxE1g=="
+secured: "WB7MyOLZfPfeqZNYlgoF/ETbBdjnpbR8Asn5+mryZYOLmXAhehxp0dGm81qrkwqqpwY31w6w7XjYOpwoheSJB3F0AXb9z2rhuOj9STIoOBbGeuvKF71/Fu4ZJWE3yfqIdKrvG19KQDwbkIgBzP0qYluWWkUVYoStjOcXM+BOK/Kte8I8Tx/VSGaSim1y8gPltUeIHmlMEq2gFXpSYhZ3/R2uyrIiBLP9MaJ8XBXSNsIrWLOkWfTnDoBDS885YQysSGd//TLnHyp1tDNYczNNOS/gLRnVx3i8RHwixdNKRExlz4vqCWf8WzGnqtxbj6nbJxEV+X443cY5Rycz1pwV3COCAy7Hi/U7/MMH4WcqBac=;9Pj4yE4eh4EC1mCTz0fARw=="
 ---
 

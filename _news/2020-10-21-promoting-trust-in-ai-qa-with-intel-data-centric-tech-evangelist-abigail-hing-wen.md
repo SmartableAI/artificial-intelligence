@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-21T02:38:00Z
 originalUrl: "https://www.digitimes.com/news/a20201021PD206.html"
 webUrl: "https://www.digitimes.com/news/a20201021PD206.html"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.digitimes.com/newsshow/20201021PD206_files/1_b.jpg"

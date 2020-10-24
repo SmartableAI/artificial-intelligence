@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-developing-a-way-to
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 630
     isCached: true
 
-secured: "o38szDZkBtd7wgDyVKx0IPKlB2AYeXHNC9UqLU4yTuQpdLXo97Daphef3K42MqXgcTtoKEdH0FIlTarL9hKfVMsAM7GWf8HGpJruGoicLTwPHy13SDgMKkyfi4q1zx2z2AMKWQBB8UqFgcLsXWWZEv2WL34A/9p/sRGflvo4X4e8E4NcEnxBU7tH0twd0dS/tDtUmSjZGPlPgedt+yP0MM08h/tU107jJzxfgNRVIUIlyfw7qfLcFoDu0ul1zdGbJMUuywWq51NHKyoRKaSEueVttJiSi/COplnYcXwAxaQdx8PnCdXo6FHBMEJqtALHnn9MeAier8nYEVi+rZgbdBHl3fM0Z3WhdthNwOMwk9I=;CFV8UWYp5sCZhf6vZhWHyA=="
+related:
+  - title: "Facebook Threatens to Muzzle an NYU Research Project Into Its Political Ad Targeting"
+    excerpt: "Facebook’s trying to muzzle a group of academic ... “They’re building systems and tools, AI tools, that are intended on dealing with misinformation, dealing with hate, but where is the ..."
+    publishedDateTime: 2020-10-24T05:32:00Z
+    webUrl: "https://gizmodo.com/facebook-threatens-to-muzzle-an-nyu-research-project-in-1845470596"
+    ampWebUrl: "https://gizmodo.com/facebook-threatens-to-muzzle-an-nyu-research-project-in-1845470596/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-threatens-to-muzzle-an-nyu-research-project-in-1845470596/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/swhjcsarswrquowpqoxw.jpg"
+        width: 800
+        height: 450
+        isCached: true
+
+secured: "8D9w2qZmED9osFri0oDMzHCwYpknTieH+S0yP2SFAeqg0ebWbmrQFi+MsvWHMaOir3UTkn+PN9G4M0LEfi/A6Fk+OaYB/KwBRgl0gH0m1RV+oCIlS/u8n8M0Wqswe4byPOG61o4UShEL4FICFuYQAUCQZzqdD7p6Pn29r+/3PZWNytOsQvBC+hQYcuzloCb1Hg4aWuXombdTymDyWpeG5BuU8+c8p57N6YDW5Y/YiZuTIWk8okHkldi3kY3Ttlwu34VGNNJVp5bEV4I+vfAMi0kSzHbryLXogfdRB3oTnxk3ndw6QZVkaBM4QUFMX1zi88CLgum75Vxwm52z2ZIbVa4FH3rUsoc+iDomrALm1T25fPCKjwidQfszTCQQVD9AIBqfufmQWbIdMZVFR8UH3m+3ID46vlergCzfQudzsPyeJw8jLnG96cvnt+4cOP8G5UZfcHkzdmyt5d0vzU+qtYIyM/njdI6Nrl/Jz0ejXeBHVUXsRhVN01iSssq1+b7giLmQNrjMkBdcQefPUBCJZA==;yNbk6yI8j9/zYaRmhtrLOw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2020/10/23/huawei-mate-40-kirin-9000-ra
 webUrl: "https://www.gizmochina.com/2020/10/23/huawei-mate-40-kirin-9000-ranks-1st-ai-benchmark/"
 type: article
 quality: 84
-heat: 86
+heat: 87
 published: true
 
 provider:

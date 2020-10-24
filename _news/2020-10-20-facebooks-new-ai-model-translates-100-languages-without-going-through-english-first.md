@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-tran
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/"
 type: article
 quality: 98
-heat: 218
+heat: 208
 published: true
 
 provider:
@@ -202,15 +202,6 @@ related:
         width: 480
         height: 250
         isCached: true
-  - title: "Facebook unveils 1st multilingual Machine Translation model"
-    excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT ... those that speak low-resource languages,\" Facebook AI said in a statement."
-    publishedDateTime: 2020-10-19T22:59:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20201020/3644798.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "bP/kpH/qEvhaR04UWJatzNnZZueItwXx+nT/bwk3CvomEd7H2rtQXUCY0iftNKWdy0hs7D0S1mLHfOCbqICjHX3jnrXol3GnDhGCFTSziVPn+OGhfLOOoDZxoDKlN2FlMPxk8i7SAxWFPUejuCButIw7E97FPhzOp7U3i8Mt8NffINgz4aozmACyqvJIFyGB1IGvAFQrSlv4ZCRU1oSbWFqZlDEzb5WUZOX5iNDKtmoJvNa1qR7KgyZxmBSRiMwG4huPir6zI1HyWpp97OSVzc2CWdW8BASOhvLNm9vHp7W3nSKKkQxNYyYdyymppeuHLjf/heBgtMfea/UXTR3jEYc5oCKmhXuz0zlsI5519kiNmv1F9i4D5F+8hO46cy1xjTD9Wc9hy+WWb+K+ieNowK+KE/MN2irv3VZzKr5XpqjwrFy3LN/vbidftNjR0qWj90/UWhhsaSw9VczgBTDvpJQA76Ws8upeTSP05KcqPoM5ZhQ3KPhRtm/SCFcAca2Skfh5RuiuIb44AbqCcjf9Tg==;6KXOewY3uyyX4UXsu51IwA=="
 ---

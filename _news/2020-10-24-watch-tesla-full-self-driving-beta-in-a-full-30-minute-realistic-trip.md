@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Tesla Full-Self Driving Beta Rollout Starts, Is \"Slow & Cautious as It Should\""
-excerpt: "For almost a year now, Elon Musk has been promising Level 5 autonomy on Teslas by the end of 2020. We’re not there yet, but we’re getting closer."
-publishedDateTime: 2020-10-21T07:53:00Z
-originalUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-beta-rollout-starts-is-slow-cautious-as-it-should-150422.html"
-webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-beta-rollout-starts-is-slow-cautious-as-it-should-150422.html"
+title: "Watch Tesla Full Self-Driving Beta in a full 30-minute realistic trip"
+excerpt: "Driving Beta trying to handle a full 30-minute trip in a realistic environment. Earlier this week, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature."
+publishedDateTime: 2020-10-24T14:41:00Z
+originalUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/"
+webUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/"
+ampWebUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/amp/"
+cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/amp/"
 type: article
-quality: 50
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: autoevolution.com
-  domain: autoevolution.com
+  name: Electrek
+  domain: electrek.co
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-beta-rollout-starts-is-slow-cautious-as-it-should-150422-7.jpg"
-    width: 728
-    height: 300
+  - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-beta-hero.jpg?quality=82&strip=all"
+    width: 3584
+    height: 1742
     isCached: true
 
 related:
@@ -120,22 +126,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Watch Tesla Full Self-Driving Beta in a full 30-minute realistic trip"
-    excerpt: "Driving Beta trying to handle a full 30-minute trip in a realistic environment. Earlier this week, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature."
-    publishedDateTime: 2020-10-24T14:41:00Z
-    webUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/"
-    ampWebUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-beta-hero.jpg?quality=82&strip=all"
-        width: 3584
-        height: 1742
         isCached: true
   - title: "Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of"
     excerpt: "For the lucky few selected to experience \"Full Self-Driving\" or (FSD) on their Tesla vehicle, Tuesday night is the night. Tesla CEO Elon Musk tweeted Tuesday afternoon that the autonomous mode ..."
@@ -521,6 +511,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Tesla Full-Self Driving Beta Rollout Starts, Is \"Slow & Cautious as It Should\""
+    excerpt: "For almost a year now, Elon Musk has been promising Level 5 autonomy on Teslas by the end of 2020. We’re not there yet, but we’re getting closer."
+    publishedDateTime: 2020-10-21T07:53:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-beta-rollout-starts-is-slow-cautious-as-it-should-150422.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 50
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-beta-rollout-starts-is-slow-cautious-as-it-should-150422-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "Tesla’s Full Self-Driving Update: Select Customers Tried It Out And The Reviews Are Mixed"
     excerpt: "When Tesla says 'self-driving', it does not mean autonomous, and the car still needs constant driver supervision."
     publishedDateTime: 2020-10-23T10:57:00Z
@@ -648,6 +652,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "HdDj0zum5U+xIaVJQ2g9o1dZbBXzrW+Is3EnAWrD+vFHLhilMPGZgb8WbeM6VRaC7zegczXcg5sC8nEa1awSH2atB2rMKWBe5m41o2iqYiveDd4mAC1fXXjGIrX5RVjrRPAjgwWfuDbbYORXRnXoQiZrQcf4aZWzjkvxbgv/ZyNt8zJuZjo7grvPydEeacpm4cUr5BCkhjBC3yvlHp8eK+9p2W7ltlI975STB2OiS+Rxq7r9k/Uoe0I+4FlghsEoVa1+ynOJefVvwZE1EcFEqfzd/tvTG5mtNLjbCgDA2JPWk0QLsuwdLKQjILBlk0CoYDTDroA98Tq7KNFnLDMWll7PDONoB+Ti/bRxvujc04avsvPlvJmi0A8zM76uzR1czi7kiXV4av5KFshJRkLnl7RAwrvrOCaunwr9Z6nz2X98Oj3E6dZqAXI3K7i6TywpK3sIfdKRaiEhY4OBMLkES6yDf2d+WnUTOQf8zdx+cmdhgBK1tXZWs1N8XTGw1xEtVuKjT3QJkJtBTTtRV2ftJQ==;4w0mlhaczl6pnnVROEk8Aw=="
+secured: "GIK53gq5Vx7M10kz+eTQvpQz4EAZ8+WRqBseEB0Ccjz1D61YIL92LvS8mGbiePBH+LzRT0YSArdgFdOcZGzmdwJVIDYPP7rDUnwWci8+6QERzfoq8krbfgPX/KR9SfEFeV5+epPL3yoVqc19YvuxkDn4JdSQrdkzKUKH5tXUH5VO06Oj3yMfDhiO9dUjmRur/pJjvac/waisOteqmNuoKcYGFEPvj8jQRejyHnlkBcdR8lcH41Is9/C8VjSC2JXqrrtXIkC8zmNMdAhjKegNjYtG0sd4sDjk4mZ1VB/uBVN25+Emm7bwBlSdvcktg6UFSJm0joN0GR5BFdy6lIxvjuv2wrCIOHYv6dT2KLjHYKI=;jB7WUPseCMkZwDPI9ZSxlw=="
 ---
 

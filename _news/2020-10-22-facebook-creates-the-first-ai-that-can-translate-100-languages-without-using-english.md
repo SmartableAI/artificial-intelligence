@@ -197,15 +197,6 @@ related:
         width: 480
         height: 250
         isCached: true
-  - title: "Facebook unveils 1st multilingual Machine Translation model"
-    excerpt: "Facebook on Monday introduced the first-ever, open-source multilingual machine translation (MMT ... those that speak low-resource languages,\" Facebook AI said in a statement."
-    publishedDateTime: 2020-10-19T22:59:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20201020/3644798.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "L4ggkip5D2yTropHioMi1b0aTEb9SmvoXb9XanVmGdgdX8NT0WtAhkJ8yXzsjRbUYE6dh53bnjLqTKrBXShlwoTJUAj9i2SrVFL8Inar4so7ulaxdCKhNlK/tN+08PoO0jrsdKthsT+gcThVHpMpy3kP4jG8mG2VD/Yf3nltlAcFIUueNeFa9wprOJlLD7kL/pLVqzKol37Y9hNwduNGR+QD1wxgvBFgr/qS8u3gTEgxeTW4D144IOO2+bkHTKvvIBTiSVdFs/4yki/pZVjh9QJHVtHKeK9JMONwfZgGgfwB4zA0ye/+JtgLc3zX/sEnYmAn8oK711jSU8znjLUY9zVcrWtHLEeGIPtFtKoYwXikwf44WK7aFqhuTTiL+GpYLpKurSNtZvOF06mDpFcCSlM5LaL9j6c5XJgv3KlAcwpEKkmG0wgsrxycLleDB9PfFUgVKyWAR2dXKltwwi9OL6PDN2x2xE6go+T/PWVGP5M4sli13NisOwnKbCO9FES5w/yJNAefDEopTFZBpjWkag==;/vXCe8pa+A+OERUxOiL+fQ=="
 ---

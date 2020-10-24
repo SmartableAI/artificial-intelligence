@@ -2,23 +2,26 @@
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
 excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
-publishedDateTime: 2020-10-22T07:30:00Z
-originalUrl: "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/"
-webUrl: "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/"
+publishedDateTime: 2020-10-22T07:46:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
+webUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
 type: article
-quality: 38
-heat: -1
-published: false
+quality: 66
+heat: 86
+published: true
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
 related:
   - title: "Ironside Achieves AWS Advanced Consulting Partner Status"
@@ -42,6 +45,6 @@ related:
       domain: finanznachrichten.de
     quality: 36
 
-secured: "aO6YRejrJI7/jQRLckJaGkHBcZo1bOdPrLaT0OCARijoAUyRzhjh7ETrYWaYPP/Bl/YifjqSvwXfsAdBotg7p+AWckrhAUQ8AcxiOAEIB0eIDDMG79dTFQD5bX8i7lavmHmxFgD7VpjE6cJ9lpelswfu7FIQVmOM7C8knrSwfxnGWyMf+qav7+rp1/WTBjLv2O0QsIadNSDEyLYUzcdkA9Ml7IeCrifZQah5k3F/Sp9vaxGoUUIxoiRpRF20eTYKdf+VchxV93rT1MSKqzp4RsxhYk6xrG2zaI6idJw8dciig0WJ1KCUPaYWZ6ubbpi3JWd3ovN9NhBKtJ/seBd7TLBLN5/fosjhlRq5Xma6tSo=;hOKh8AIGD4lhv8WVrlIHhQ=="
+secured: "qhC+CsP4xjC41F1sL31oIT1qhJYnuw921QfrX3vowc0SV0qzGF0Fd8FuUhHX6eNhjZd8nLJBiu2pY5Lv8J1gnhoz1mrkYo2T1fALGnOkRhMi6JbdAYYl7Br/mzBn95jpJnWGoVMLdsZZmaPCzCn7nH/awS184wNwkFpP8GacjEj8p1XzLNNz+B/BpLnhPyQ0u1FxpnwTqXphSLaWOD0NqKsdv0OK3yTvCxJqA7CnAgBm3PEQxchlOK7D7mp/9ttR4XULvT7khVrhtyxhBb9SzUCgXxTivmfcrM1AQK8qA8l5PwNvYH2gf1FacN1yboCxj+T1JSl8Ih6eAaIxrR6WQumJgp5oV1m01K6ph6n69aM=;96AVsNAAlH2bt/78X7qZog=="
 ---
 

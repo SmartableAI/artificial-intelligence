@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/adobe-sharp-shot-213047501.html"
 webUrl: "https://www.engadget.com/adobe-sharp-shot-213047501.html"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Using AI to unlock the genetic secrets of food"
+    excerpt: "The startup Brightseed uses a proprietary AI platform called Forager to predict the likelihood that plants will have useful natural compounds and the likelihood that those phytonutrients will have specific health benefits."
+    publishedDateTime: 2020-10-24T14:37:00Z
+    webUrl: "https://www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
+    ampWebUrl: "https://www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: "https://images.axios.com/p5p8jckNc7jnHJDICmx3yWdEXIk=/fit-in/1366x1366/2020/10/24/1603549523713.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Monitoring activities of Construction Sites using Artificial Intelligence"
     excerpt: "AI can help the construction industry by developing an image recognition system to monitor every detail of an on-going construction project, and flag up delays or errors automatically even during the COVID-19 pandemic,"
     publishedDateTime: 2020-10-24T12:40:00Z

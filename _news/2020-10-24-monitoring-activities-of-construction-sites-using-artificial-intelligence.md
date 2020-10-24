@@ -39,6 +39,22 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Using AI to unlock the genetic secrets of food"
+    excerpt: "The startup Brightseed uses a proprietary AI platform called Forager to predict the likelihood that plants will have useful natural compounds and the likelihood that those phytonutrients will have specific health benefits."
+    publishedDateTime: 2020-10-24T14:37:00Z
+    webUrl: "https://www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
+    ampWebUrl: "https://www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: "https://images.axios.com/p5p8jckNc7jnHJDICmx3yWdEXIk=/fit-in/1366x1366/2020/10/24/1603549523713.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Using AI to boost safety for older adults"
     excerpt: "Assisted Living facility incorporates predictive analysis to mitigate risks for falls and other health conditions, including COVID-19. Enter your user name and password in the fields above to gain ..."
     publishedDateTime: 2020-10-22T20:10:00Z
@@ -54,6 +70,6 @@ related:
         height: 819
         isCached: true
 
-secured: "WziHYVj4l6hNgkLZs9ERjT1HaFz2avVjx8wIIYFfcfuF7ca4D6lai9/Ur+3w6UyZAviNG6mSVuocb+jJeJSLNPiz59zt+1LfYkxzOofpDhVCovFreYMje4cYi8BqOGv1KcviF2jzApLgDuiuIpTFD604rlSG5seeAaKiWEsJ21svAjgqHwzJObRvr2bWN56AkvxHhXjJm1k941sxl2xdrHd1wulAi3iEc+cgAbYhFqNTRdX6XvkOEWm2HhcJOAQK4jxIo6N6LSM2uoZcky3oTZ8Ox4Ddoc0r0RSvMFud4pb5XzBgNGXXAzTST+6uM2sZH6g5BqipytkUSVD7P4l/FY0driF95D10nPrvW7qE6bI=;hiOknFze8HGPYEyPyRye1Q=="
+secured: "oCW8vWypn2r8b02S9BnbePIqsch+xrChvgwQh1+sgbT38yyF/4tlauCGDxg6ELN6r7YOLVlt+7STBdIowZ9lh3IHC6f3KZArJUdDQ+GqAcOxv7Vjg+GkFv8lQCqWCYzu4YXMlVe3BVVnbAYt+NW2W3eGldwy8drLqqicJ1oKPMgEyd1AjkhLRbdBlGfvj6ukNSxYxx0dJFsWu1qtHck+dL9y7AxCJRulTo0dutPmtw0fEWc4Cwaiv/N2TVGcku25x5aZ8WeIDOQdKY7hEmy1+iEo2dvAQG9LBbTcOyhM9x/ipPmzzj5j69W7Cn0ftn+w7SQ/adtevG41QtfM8Ohp2myG5hI4EssHoU8yksRow0Wc4/FwmywLh7uF22ozZiZssAtbEf/wampoiinXgJyhVptKwxkjMegtyDTPnWpTpBHdZsyE1sF4Bdl5ak7gQkSvah6y5v94+SEWAe4aQ/2E1rBv6+myNCXeUF4/PFllCcplkb9Dg+oaiC6ZwliRaOVlLQoXqtREX2/xZmea84FbkQ==;K07bQZHyGJ+wRuPWMLVrow=="
 ---
 
