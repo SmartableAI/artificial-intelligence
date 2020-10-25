@@ -199,20 +199,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "First facial recognition surveillance camera tests completed – Police"
-    excerpt: "The Unitary Police Service announced today (Tuesday) that it has completed the first phase of testing initiated in August for facial and license plate r"
-    publishedDateTime: 2020-10-20T11:16:00Z
-    webUrl: "https://www.macaubusiness.com/first-facial-recognition-surveillance-camera-tests-completed-police/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 39
-    images:
-      - url: "https://macaubusiness.b-cdn.net/wp-content/uploads/2020/10/Câmaras-das-primeiras-três-fases-do-Sistema-“Olhos-no-Céu”.jpg"
-        width: 1000
-        height: 650
-        isCached: true
   - title: "Facial-recognition tenant referencing tool now available to agents"
     excerpt: "As part of an update to its referencing service, Goodlord customers will now be able to use an authentication service utilising facial recognition to match photos of applicants to the photo on their ID."
     publishedDateTime: 2020-10-20T23:02:00Z

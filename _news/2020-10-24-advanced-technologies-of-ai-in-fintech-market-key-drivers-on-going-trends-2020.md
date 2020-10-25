@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI in Fintech Market Witness the Growth of $7,305.6 Million by 2022"
-    excerpt: "According to a research report AI in Fintech Market by Component Solution Service Application Area Virtual Assistant Business Analytics Reporting Customer Behavioral Analytics Deployment Mode Cloud On Premises and Region Global forecast to 2022 the AI in Fintech market size"
-    publishedDateTime: 2020-10-20T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
-    ampWebUrl: "https://www.openpr.com/amp/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
   - title: "Unifiedpost and Google collaborate on Document AI to automate procurement data capture"
     excerpt: "Belgian fintech company, Unifiedpost Group has deployed Procurement ... Cross-industry solutions like Document AI are built to plug into your existing workflows and deliver business results from AI without having to hire an army of AI experts, or manage ..."
     publishedDateTime: 2020-10-21T13:15:00Z

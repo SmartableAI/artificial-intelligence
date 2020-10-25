@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-pr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/amp/"
 type: article
 quality: 50
-heat: 120
+heat: 100
 published: true
 
 provider:
@@ -65,34 +65,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Fintech and Automated Loss Mitigation Provider, Constant, Recipient of 2020 AI TechAward"
-    excerpt: "Fintech and automated loss mitigation provider Constant is pleased to announce it is the recipient of a 2020 AI TechAward. The annual AI"
-    publishedDateTime: 2020-10-20T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fintech-and-automated-loss-mitigation-provider-constant-recipient-of-2020-ai-techaward-301155786.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 30
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Top 5 FinTech announcements from mid-October 2020 for the UAE"
-    excerpt: "As the UAE aspires to position itself as the world’s leading technology hub, Dubai has set its eyes on disruptive FinTech start-ups to achieve its goals."
-    publishedDateTime: 2020-10-20T11:44:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/top-5-fintech-announcements-from-mid-october-2020-for-the-uae/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "Amit Aghara Joins Fintech as Chief Technology Officer"
     excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (Fintech), the leading business solutions provider for the beverage alcohol industry, today announced that Amit Aghara has been appointed to the position of Chief Technology Officer (CTO)."

@@ -46,22 +46,6 @@ related:
         width: 796
         height: 418
         isCached: true
-  - title: "Adobe Photoshop gets new AI smarts with neural filters, sky replacement and more"
-    excerpt: "Adobe is betting big on its Sensei AI platform, and so it’s probably no surprise that the company also continues to build more AI-powered features into its flagship Photoshop applications. At its MAX conference,"
-    publishedDateTime: 2020-10-20T13:06:00Z
-    webUrl: "https://techcrunch.com/2020/10/20/adobe-photoshop-gets-new-ai-smarts-with-neural-filters-sky-replacement-and-more/"
-    ampWebUrl: "https://techcrunch.com/2020/10/20/adobe-photoshop-gets-new-ai-smarts-with-neural-filters-sky-replacement-and-more/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/adobe-photoshop-gets-new-ai-smarts-with-neural-filters-sky-replacement-and-more/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/adobe-neural-filtes.gif"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "7D2N6BUSnz8VWTuqmHcZMu31Ykndq27vHEFKhtAO1Zktnan1SiqcUi3HN/tb0rnLvqSzNyNOjWwMPeerJ3IgZ3kzgsItwL1+k13p6xX5cWGLyevYNVYyTvcLmG55vx2s7PI5nZJwd9GTeDfu3yubBsuahVYtSwrCLqELiXjllg3U6qJTTdPwttIZhD5x9mJEkgarOheRLg/5FCnKl5Nflqjp1Rp8exny4Ob6qW1axs02Cspa/RJEBlmFet82tggSMeozqga53Xs0zcWmjTe5+reb39B/DzKkBhtneLwSkX2f5NzoemCEr64WykkwjV14HsGDD8sypmXsTusOeC0x6F8odTvnKQmI9+iYS/0ZK92NGdXp3fqySPtL646Dywq9vLyHLeUWHCvdt0HJlcIFzeynXjpjp2mxFae+hGjIgS2M2MJBOQ5E7xKEBmgqZJUFXjtN+BlUuYskH45aZQjGGIIWfY8Tx+PKwtuiHcTZSN1EAVbDBpxPP1T6XA8SMvsxbv5tuzdAgutlr1E4T1m1OA==;n0WYFuZnRUgI9bG21lrj5w=="
 ---

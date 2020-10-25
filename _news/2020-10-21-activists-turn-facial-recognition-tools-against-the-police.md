@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/10/21/technology/facial-recognition-pol
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html"
 type: article
 quality: 104
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -188,20 +188,6 @@ related:
       - url: "https://imgix.bustle.com/uploads/getty/2020/10/21/533e1116-e35f-422a-a96a-b0f2521055a5-getty-1228332311.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "First facial recognition surveillance camera tests completed – Police"
-    excerpt: "The Unitary Police Service announced today (Tuesday) that it has completed the first phase of testing initiated in August for facial and license plate r"
-    publishedDateTime: 2020-10-20T11:16:00Z
-    webUrl: "https://www.macaubusiness.com/first-facial-recognition-surveillance-camera-tests-completed-police/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 39
-    images:
-      - url: "https://macaubusiness.b-cdn.net/wp-content/uploads/2020/10/Câmaras-das-primeiras-três-fases-do-Sistema-“Olhos-no-Céu”.jpg"
-        width: 1000
-        height: 650
         isCached: true
   - title: "Facial-recognition tenant referencing tool now available to agents"
     excerpt: "As part of an update to its referencing service, Goodlord customers will now be able to use an authentication service utilising facial recognition to match photos of applicants to the photo on their ID."

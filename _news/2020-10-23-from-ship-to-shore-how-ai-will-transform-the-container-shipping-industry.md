@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/amp/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: Forbes
@@ -30,36 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Disrupting The Publishing Industry"
-    excerpt: "The more advanced AI’s capabilities are, the more excited publishers can be to make them available to authors."
-    publishedDateTime: 2020-10-20T12:23:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8daec6e4f84fe5bb8c6861%2F0x0.jpg"
-        width: 1200
-        height: 791
-        isCached: true
-  - title: "Using Artificial Intelligence the Right Way: How to Limit the Risks of AI-Driven Hiring"
-    excerpt: "Traditional hiring methods have their fair share of problems, but AI has its own dark side when used improperly."
-    publishedDateTime: 2020-10-21T14:25:00Z
-    webUrl: "https://www.recruiter.com/i/using-artificial-intelligence-the-right-way-how-to-limit-the-risks-of-ai-driven-hiring/"
-    type: article
-    provider:
-      name: Recruiter
-      domain: recruiter.com
-    quality: 44
-    images:
-      - url: "https://www.recruiter.com/i/wp-content/uploads/2020/10/magnifyingglass.png"
-        width: 999
-        height: 580
-        isCached: true
   - title: "How Artificial Intelligence is Transforming the Insurance Space"
     excerpt: "When it comes to digitization, the insurance space hasn’t particularly been at the forefront of leading in technological innovation. And it’s only fair as a colossal amount of regulations combined with thousands of users’ sensitive information makes the insurance industry cautious in adopting new technologies."
     publishedDateTime: 2020-10-23T05:33:00Z
@@ -74,43 +44,6 @@ related:
         width: 3608
         height: 2336
         isCached: true
-  - title: "How AI Is Being Used By Companies During the Festive Season"
-    excerpt: "Naturally, ‘festival season’ is also the time when companies look at stepping up their businesses. Given the scenario, more companies and industries are investing in AI and related technologies to drive more profits."
-    publishedDateTime: 2020-10-21T07:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-is-being-used-by-companies-during-the-festive-season/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Festival_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Hiring the people that will put AI to work"
-    excerpt: "Agency investments in artificial intelligence must be accompanied by strategies that rely on data scientists, digital workers and benchmarking."
-    publishedDateTime: 2020-10-23T21:12:00Z
-    webUrl: "https://gcn.com/articles/2020/10/23/future-ai-workers.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Workforce/workforce2.jpg"
-        width: 760
-        height: 368
-        isCached: true
-  - title: "Artificial Intelligence: Using Affordances can make AI Smarter"
-    excerpt: "A concept from psychology called affordances is being used to improve the capability of AI algorithms. Affordances are simply object properties that list types of actions that can be taken on an object by some some agent that is capabile of performing those actions."
-    publishedDateTime: 2020-10-20T15:09:00Z
-    webUrl: "https://formtek.com/blog/artificial-intelligence-using-affordances-can-make-ai-smarter/"
-    type: article
-    provider:
-      name: formtek.com
-      domain: formtek.com
-    quality: 34
 
 secured: "aLjx0ZwytkZ39II+TwhJmtSoYPsD1VGazb0tYw/SssB5Qh3pP/um2DUw6MzP21bCNM8o914VGmM0WQCzR7diJ6InkNDiAd1uQhqJfs5En3ICWfQot8RCWBZl1mEBAmqw1s4ZwPzLmqDR5n19DwEq6eivCN/rYS0At/PtnPSrgjcF7J/4h9L5M9i60tmNFsLmD/M1i7mv3hHl90y+xF83Cc18AevE57qmLmaYdU8lMhZYWRxcJ0vEX6vxPX0iFgHjNAlm3VndywS1juzb0qs51Gruckp2Q2SnUf4KifPpg/bz08i7J7a8nqCDkP3uGYkO+tvdWd/6RKljVxJOTALshEdAj68agEWo1OrmH85mHpWGaXUTq2eAKWWuj4cU8ZQ2F+ekvGcHwRnP9PjyCkcXKqz8eLD7ytPgmjxo0ggyg672SnNBvMtpZh6ucOGY2m2R4o+KTXL8Q7jFXZwlF111jdv0VYfQRf491p1hogV8DByGLEQFdivfhb93jkZ+iPsYyPQJYLvypGQNxPq8FrSk4Q==;nQaqjB9mWEw2zhD2qeCOHA=="
 ---

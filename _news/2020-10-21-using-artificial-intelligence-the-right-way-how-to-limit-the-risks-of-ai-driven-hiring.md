@@ -24,89 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Disrupting The Publishing Industry"
-    excerpt: "The more advanced AI’s capabilities are, the more excited publishers can be to make them available to authors."
-    publishedDateTime: 2020-10-20T12:23:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/"
+  - title: "The real business risks of ignoring diversity, equity, and inclusion in your AI strategy"
+    excerpt: "What happens when decision-makers in tech companies simply don’t reflect the diversity of the general population?"
+    publishedDateTime: 2020-10-22T12:10:00Z
+    webUrl: "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/"
+    ampWebUrl: "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8daec6e4f84fe5bb8c6861%2F0x0.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/GettyImages-1249641728.jpg?w=1200&strip=all"
         width: 1200
-        height: 791
+        height: 678
         isCached: true
-  - title: "From Ship To Shore: How AI Will Transform The Container Shipping Industry"
-    excerpt: "Terminal and independent operators should look to integrate new technology to help maximize port operational efficiency and chassis management."
-    publishedDateTime: 2020-10-23T11:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f918a3f539e033292ee790a%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "How Artificial Intelligence is Transforming the Insurance Space"
-    excerpt: "When it comes to digitization, the insurance space hasn’t particularly been at the forefront of leading in technological innovation. And it’s only fair as a colossal amount of regulations combined with thousands of users’ sensitive information makes the insurance industry cautious in adopting new technologies."
-    publishedDateTime: 2020-10-23T05:33:00Z
-    webUrl: "https://customerthink.com/how-artificial-intelligence-is-transforming-the-insurance-space/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 41
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
-        width: 3608
-        height: 2336
-        isCached: true
-  - title: "How AI Is Being Used By Companies During the Festive Season"
-    excerpt: "Naturally, ‘festival season’ is also the time when companies look at stepping up their businesses. Given the scenario, more companies and industries are investing in AI and related technologies to drive more profits."
-    publishedDateTime: 2020-10-21T07:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-is-being-used-by-companies-during-the-festive-season/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Festival_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Hiring the people that will put AI to work"
-    excerpt: "Agency investments in artificial intelligence must be accompanied by strategies that rely on data scientists, digital workers and benchmarking."
-    publishedDateTime: 2020-10-23T21:12:00Z
-    webUrl: "https://gcn.com/articles/2020/10/23/future-ai-workers.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Workforce/workforce2.jpg"
-        width: 760
-        height: 368
-        isCached: true
-  - title: "Artificial Intelligence: Using Affordances can make AI Smarter"
-    excerpt: "A concept from psychology called affordances is being used to improve the capability of AI algorithms. Affordances are simply object properties that list types of actions that can be taken on an object by some some agent that is capabile of performing those actions."
-    publishedDateTime: 2020-10-20T15:09:00Z
-    webUrl: "https://formtek.com/blog/artificial-intelligence-using-affordances-can-make-ai-smarter/"
-    type: article
-    provider:
-      name: formtek.com
-      domain: formtek.com
-    quality: 34
 
 secured: "AxjYwBzyIXwCHPB3JzWvFlbOImrtDvFZQrZ0c+rBP3Sykm+wvvjaF8yjB6qW5Ox9Ni35RFYvwcNyy2a//IHnN9ZrpMRXlJg1KOr3FX/W01KLSKEaEHpzfDKSpCrt3DQK0ATB+XJhyQITJp3yy+IPqpJ+lza8EIbZ6rBPAEsIwKPDtKgsIoNsl6eeTRkU2xp12KW6mKoYF5uQizHfLOCd66s1zF8lN1oV7f/2L9cRhtPiKY3FK+fdzqNlXWydWGCMWuZKvwZBQAsII85mVXiKKQ/McEoUGq9H7+gLhBzZNi4QNutP3Bxmd3dDElG5O5Gorf4EgvYqHZ4Y0L33FxtgQjPxaKu0VO+ExTM6t0/ebeqm+JQNDAcmk59TzyS6PE8DGhiHFHah091Ipo6bmGQwilLPXL5Fn3ZvIYzShqJtfNEuiAH9xc4+SA8xajb2cdsgj7+E1EnxfrNoAjrfstOBHdSy4jKt8b4NRzQyCKxC8Bl0UotRIiL01TW0Sl3Dip4nZj4QBBSmskk5cxh9gIC8dQ==;Z0JTq7VVIAHbzA3+t5oOQw=="
 ---

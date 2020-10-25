@@ -111,20 +111,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "NVIDIA's AI Reduces Video Streaming Bandwidth Consumption by 10x"
-    excerpt: "GPU-manufacturer NVIDIA announced their Maxine platform for AI-enhanced video-conferencing services, which includes a technology that can reduce bandwidth requirements by an order of magnitude. By moving much of the data processing to the cloud,"
-    publishedDateTime: 2020-10-20T13:07:00Z
-    webUrl: "https://www.infoq.com/news/2020/10/nvidia-video-bandwidth/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
-    images:
-      - url: "https://res.infoq.com/news/2020/10/nvidia-video-bandwidth/en/headerimage/nvidia-video-bandwidth-header-1603033460923.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "STC partners Nvidia on AI computing infrastructure"
     excerpt: "Saudi operator STC said it;s working with Nvidia to build Saudi Arabia's first AI and deep learning cloud infrastructure, enabling domestic enterprises to adopt AI. STC is joining the Nvidia Partner Network (NPN) and will be the first cloud service provider in the region to bring AI capabilities to the"
     publishedDateTime: 2020-10-21T14:55:00Z

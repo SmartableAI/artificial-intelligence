@@ -41,20 +41,6 @@ related:
         width: 736
         height: 400
         isCached: true
-  - title: "ECS Names Aaron Burciaga Senior Director of Artificial Intelligence and Analytics"
-    excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Aaron Burciaga has been named senior director of artificial intelligence (AI) and analytics. In this role, Burciaga will work closely with ECS’s national security and intelligence division in the development of AI and machine learning (ML) solutions."
-    publishedDateTime: 2020-10-20T12:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-executive-changes-north-america-products-and-services-65477a39b49943a285255ca350df8a65"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Ix2vXOmrbGz5RQqDhyTVbB9BgNPNkcStDSyWuysUln+k9i+ii0ffaR1v4G4qxf2GEIPZwNsVmqCqhbtq8NyzsGG+3huJ2zhaMWfOppyQQqVoPuwuQyX3Bp1wDUPEJiQFEsFsJRVSvjQU5knNdEBBZnTKHc1bSztHdBXy+lz7rAPMnYuikcUz2qMIgF6dqL+h73YG3E6m7z4dID1ZlOpiI9y++F8Ncvl7sPLSJVkFPX+BcrySITqftF/btH+Au+LSDfH8XF1Lkiy2oS8tiwolCB/Dkx6B6T5Q7LG00IEGkdE9q/BtPjw2hfUC6hSG/UkKsp1qBhkPT9pHr0AK/w+0deOGElq1QpayCvGA6NSrz0U=;2Q4m8qky9Ks/zM432bkMxA=="
 ---

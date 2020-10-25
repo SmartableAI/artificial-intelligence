@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Providing compassionate nursing care in an age of artificial intelligence"
-    excerpt: "The report, Nursing and Compassionate Care in the Age of Artificial Intelligence , is an urgent call for the nursing profession to engage in shaping this emerging future. It outlines trends in AI Health Technologies (AIHT),"
-    publishedDateTime: 2020-10-21T17:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/providing-compassionate-nursing-care-in-an-age-of-artificial-intelligence-1029706443"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
   - title: "Hackers fool self-driving cars into sudden braking"
     excerpt: "The car was equipped with Tesla’s latest Autopilot semi-autonomous system but was unable to discern the digital image from a real stop sign, leading it to make a sudden stop that could cause an accident or a traffic jam."
     publishedDateTime: 2020-10-22T09:40:00Z

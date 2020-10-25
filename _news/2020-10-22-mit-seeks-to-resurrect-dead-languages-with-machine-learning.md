@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-lan
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/"
 type: article
 quality: 89
-heat: 92
+heat: 93
 published: true
 
 provider:

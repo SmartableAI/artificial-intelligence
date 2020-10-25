@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/women-increasingly-entering-data-science-art
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/amp/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Mental-health-ML.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "ECS Names Aaron Burciaga Senior Director of Artificial Intelligence and Analytics"
-    excerpt: "ECS, a leader in advanced technology, science, and engineering solutions, announced that Aaron Burciaga has been named senior director of artificial intelligence (AI) and analytics. In this role, Burciaga will work closely with ECS’s national security and intelligence division in the development of AI and machine learning (ML) solutions."
-    publishedDateTime: 2020-10-20T12:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-executive-changes-north-america-products-and-services-65477a39b49943a285255ca350df8a65"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "9SgYWLIu0EtnUZeBPRI7urzFRJ8V3TyUdzBTO9OZBHGpdnFf4XrQNOkJqeHXiZxlFCibbM3F8Jn6PVpkhq3q4YrBiFBViQyGc/+VdYyscNKDH5Ylg12Cu90G/wd+w2NvnTYzMU1igqTF7YTSkRDE87yJqLOG1woQy5SL85wW/b18POGr5H6y5uYBM77mYzwvHeyHTltRDUvM7ixWOdh69TpdfAFfFbvvtvhFxHbOcMgYtDjhfBVXwP1c0St4VDYWte/dWXMgfj+IvQEaV/cf5MBfRAofsgmzuZHJGf+to+PgOtIv0WRVU+fPfImLUlsFHzuc55lIgVE9zJohHsKAoWZE92esMRXUs2kiwEAJ5fAJrrXClv3tvunyapk2uXTnBFB1TmH9O0BvEAgx+Kq448fgsalotLVBAB0NkDeWAao+RxaPfhRIGj/Z/M/n766gh2vrRsOpBrSFVFdOyyMZdVw60YOfBg6TzJtdjwfcFtMt4Jwcw+wLfwzlH2Xvs9N3kLXdwENNrm81wsulQhRRsQ==;gOyhNGJY/qrO/qUzZ7SvJQ=="

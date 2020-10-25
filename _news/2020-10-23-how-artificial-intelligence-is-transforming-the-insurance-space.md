@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Disrupting The Publishing Industry"
-    excerpt: "The more advanced AI’s capabilities are, the more excited publishers can be to make them available to authors."
-    publishedDateTime: 2020-10-20T12:23:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8daec6e4f84fe5bb8c6861%2F0x0.jpg"
-        width: 1200
-        height: 791
-        isCached: true
   - title: "From Ship To Shore: How AI Will Transform The Container Shipping Industry"
     excerpt: "Terminal and independent operators should look to integrate new technology to help maximize port operational efficiency and chassis management."
     publishedDateTime: 2020-10-23T11:31:00Z
@@ -58,57 +42,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Using Artificial Intelligence the Right Way: How to Limit the Risks of AI-Driven Hiring"
-    excerpt: "Traditional hiring methods have their fair share of problems, but AI has its own dark side when used improperly."
-    publishedDateTime: 2020-10-21T14:25:00Z
-    webUrl: "https://www.recruiter.com/i/using-artificial-intelligence-the-right-way-how-to-limit-the-risks-of-ai-driven-hiring/"
-    type: article
-    provider:
-      name: Recruiter
-      domain: recruiter.com
-    quality: 44
-    images:
-      - url: "https://www.recruiter.com/i/wp-content/uploads/2020/10/magnifyingglass.png"
-        width: 999
-        height: 580
-        isCached: true
-  - title: "How AI Is Being Used By Companies During the Festive Season"
-    excerpt: "Naturally, ‘festival season’ is also the time when companies look at stepping up their businesses. Given the scenario, more companies and industries are investing in AI and related technologies to drive more profits."
-    publishedDateTime: 2020-10-21T07:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-is-being-used-by-companies-during-the-festive-season/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Festival_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Hiring the people that will put AI to work"
-    excerpt: "Agency investments in artificial intelligence must be accompanied by strategies that rely on data scientists, digital workers and benchmarking."
-    publishedDateTime: 2020-10-23T21:12:00Z
-    webUrl: "https://gcn.com/articles/2020/10/23/future-ai-workers.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Workforce/workforce2.jpg"
-        width: 760
-        height: 368
-        isCached: true
-  - title: "Artificial Intelligence: Using Affordances can make AI Smarter"
-    excerpt: "A concept from psychology called affordances is being used to improve the capability of AI algorithms. Affordances are simply object properties that list types of actions that can be taken on an object by some some agent that is capabile of performing those actions."
-    publishedDateTime: 2020-10-20T15:09:00Z
-    webUrl: "https://formtek.com/blog/artificial-intelligence-using-affordances-can-make-ai-smarter/"
-    type: article
-    provider:
-      name: formtek.com
-      domain: formtek.com
-    quality: 34
 
 secured: "MA3IYSzU9kjqUCKxk7YkkyXNkZuxzQd6lfZWWWIOOykWk+20upy4DMuugGTLoVaRThuJplckIx7koNJjXD4M8Ruai3q7ZmKA2mqcS/OMZ+u7oOA1CVA9SyzxVtAFT0/wOI5gwKSyVGIPzicgREg8nMNfNLJniqhjd2ivrcq7ymd+sup9WdCwrA5nVeex7zLjhfOkl0l8jctQgJ8u9iuCC8klZH/pInX4lGZOc6TClYPCMeEyVL8pgKykccriqvSPNjEpFL4l0WUROxU3hyHWggQdy1wKF+T2zCldU+e0/JO05YrtgIqREyTO3NbG9ebgtcGEWiDSfgUpEgv0nfk4P2QNeIvnfjLckGs3hjF+jcE=;LkcCNMO5rK9nlorovvCyog=="
 ---

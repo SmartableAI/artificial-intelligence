@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/10/20/all-the-new-ai-powered-feat
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/all-the-new-ai-powered-features-adobe-announced-for-its-creative-suite/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbd1b5a40-1242-11eb-b5ef-0e3f27fb1c78&client=amp-blogside-v2&signature=2d9c123b11765202c620c5763a4d1ae53a4a7c9f"
         width: 600
         height: 350
-        isCached: true
-  - title: "Adobe Photoshop gets new AI smarts with neural filters, sky replacement and more"
-    excerpt: "Adobe is betting big on its Sensei AI platform, and so it’s probably no surprise that the company also continues to build more AI-powered features into its flagship Photoshop applications. At its MAX conference,"
-    publishedDateTime: 2020-10-20T13:06:00Z
-    webUrl: "https://techcrunch.com/2020/10/20/adobe-photoshop-gets-new-ai-smarts-with-neural-filters-sky-replacement-and-more/"
-    ampWebUrl: "https://techcrunch.com/2020/10/20/adobe-photoshop-gets-new-ai-smarts-with-neural-filters-sky-replacement-and-more/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/adobe-photoshop-gets-new-ai-smarts-with-neural-filters-sky-replacement-and-more/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/adobe-neural-filtes.gif"
-        width: 600
-        height: 338
         isCached: true
 
 secured: "M85xazYoUvFkl8NGZNX6GM4UtxCgk+Wh3Ho22dA8aYJ9VzOReLeK+BLX8BD/rNMbPMVprFc84Mcem6GNxM34D3/56vUaQdIslAEKnAjWIRrQIfzVvJZrfj25kUvZ0dwUxdpa8caUT8h7IoLk6pbaASKVAXhRZiRFEKHxtRE1Atog9XsRAKJ2x6vzs4ZCluF+qoDHpXU1FvPYhUQbz46bF7i2GWTGp7sVxkiu5ifuu8dggZhnQyCY0qhfStoAagUu+GuYcTEqcuZEtLi3Iu29DWgcpSg4HJbNOjTMnq2mTObS9wT3c4ONlN6jnktZck9R0/wffNLsTGZq+CBL6ITbwVj3IPBNmkFUePqpgOFdCLA=;neCPxO2+kBvrjFzAbA0WVA=="

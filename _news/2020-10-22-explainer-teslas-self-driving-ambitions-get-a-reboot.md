@@ -634,6 +634,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Federal regulators watching Tesla's new 'self-driving' software launch"
+    excerpt: "Big week for #Tesla: release of new #Autopilot features, cost hike of said features, federal regulators take note, and strong third quarter earnings. #SiliconValley #autotech #selfdrivingcar"
+    publishedDateTime: 2020-10-23T12:43:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/10/23/federal-regulators-watching-teslas.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/10/23/federal-regulators-watching-teslas.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/10/23/federal-regulators-watching-teslas.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
   - title: "Tesla Testing ‘Full Self-Driving’ Vehicles That Can’t Drive Themselves"
     excerpt: "Tesla sent out its \"full self-driving\" software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
     publishedDateTime: 2020-10-22T22:37:00Z

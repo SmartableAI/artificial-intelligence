@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/amp/"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: TechCrunch
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "PhiSat-1 satellite uses AI to remove clouds from Earth images"
-    excerpt: "According to Intel, PhiSat-1 contains a new hyperspectral-thermal camera — HyperScout-2 — and onboard AI processing thanks to an Intel Movidius Myriad 2 system-on-chip. In tandem with another ..."
-    publishedDateTime: 2020-10-20T13:00:00Z
-    webUrl: "https://venturebeat.com/2020/10/20/phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images/"
-    ampWebUrl: "https://venturebeat.com/2020/10/20/phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/PhiSat1_Auto3-e1602739630648.jpeg?w=1200&#038;strip=all"
-        width: 1198
-        height: 599
-        isCached: true
   - title: "What capabilities does the first AI satellite have?"
     excerpt: "PhiSat-1 is a satellite that consists of a new hyperspectral-thermal camera and on-board artificial intelligence processing that is capable of recognising and discarding cloudy images which can save almost 30% of bandwidth."
     publishedDateTime: 2020-10-21T08:04:00Z

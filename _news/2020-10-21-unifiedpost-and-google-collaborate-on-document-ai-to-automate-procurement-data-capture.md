@@ -57,17 +57,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "AI in Fintech Market Witness the Growth of $7,305.6 Million by 2022"
-    excerpt: "According to a research report AI in Fintech Market by Component Solution Service Application Area Virtual Assistant Business Analytics Reporting Customer Behavioral Analytics Deployment Mode Cloud On Premises and Region Global forecast to 2022 the AI in Fintech market size"
-    publishedDateTime: 2020-10-20T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
-    ampWebUrl: "https://www.openpr.com/amp/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2165572/ai-in-fintech-market-witness-the-growth-of-7-305-6-million"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
 
 secured: "YPw4I8xBSmzUgheiKuj3U2HEOfojzH8CN+Jou2Y2dJm7klvK6tEjsPG89nL0wkmImdh52KmEDFoHAwFFKi0BWDeNLsnZ74Kl26SBFj0huIrNBQcMTermymZxcrMyHVYofgkOCkDnQklH2uBtutg27xSaRgtkuTdDwcJTkCuuCz7/SNuHzDX80/R/ihNZ3U+FH0ATdTnBP5ETsTH1bRgblzwboc5PhC+3PHqIpG8JwhAREvq8q4LJQXpDF8sJc+gL1V48Iks/1CfKGdCg/99J9Dvrgrd+r1Dpk79dzdW210xY7lBNRE47RdG2LNm22EgNubv6kQZbHuoV8FUCT4f6tS/iQglTZ+ztts3sbDQrM1M=;Q+INVGN47FBw+ZFfBNcOKA=="
 ---

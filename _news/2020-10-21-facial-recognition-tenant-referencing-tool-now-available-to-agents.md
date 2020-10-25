@@ -199,20 +199,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "First facial recognition surveillance camera tests completed – Police"
-    excerpt: "The Unitary Police Service announced today (Tuesday) that it has completed the first phase of testing initiated in August for facial and license plate r"
-    publishedDateTime: 2020-10-20T11:16:00Z
-    webUrl: "https://www.macaubusiness.com/first-facial-recognition-surveillance-camera-tests-completed-police/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 39
-    images:
-      - url: "https://macaubusiness.b-cdn.net/wp-content/uploads/2020/10/Câmaras-das-primeiras-três-fases-do-Sistema-“Olhos-no-Céu”.jpg"
-        width: 1000
-        height: 650
-        isCached: true
   - title: "CBSE now has a facial recognition tool and it's problematic"
     excerpt: "Central Board of Secondary Education (CBSE) students will now be able to use a facial recognition system to download their academic documents for the tenth and twelfth grade. Essentially, students will be able to download their academic documents just by ..."
     publishedDateTime: 2020-10-23T13:42:00Z

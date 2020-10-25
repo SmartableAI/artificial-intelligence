@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lux-backed Flex Logix announces availability of its fast and cheap X1 AI chip for the edge"
-    excerpt: "In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT,"
-    publishedDateTime: 2020-10-20T12:03:00Z
-    webUrl: "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/"
-    ampWebUrl: "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 96
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1161355655.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Flex Logix Announces Working Silicon Of Fastest And Most Efficient AI Edge Inference Chip"
     excerpt: "Oct. 20, 2020 /PRNewswire/ -- Flex Logix® Technologies, Inc. today announced availability of its InferX™ X1, the industry's fastest AI inference chip for edge systems. InferX X1 accelerates ..."
     publishedDateTime: 2020-10-21T05:41:00Z
@@ -68,20 +52,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/unsplash-1.png"
         width: 718
         height: 400
-        isCached: true
-  - title: "Flex Logix Announces Working Silicon Of Fastest And Most Efficient AI Edge Inference Chip"
-    excerpt: "Flex Logix® Technologies, Inc. today announced availability of its InferX(TM) X1, the industry's fastest AI inference chip for edge systems. InferX X1"
-    publishedDateTime: 2020-10-20T12:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip/article_bffc16df-c248-55a3-ab1a-900667a41b2b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 45
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/17/5176996c-9b7f-59dc-8a6a-24c6a6751ed3/5f8ed95f38d08.image.jpg?resize=400%2C201"
-        width: 400
-        height: 201
         isCached: true
 
 secured: "FGCTI2/jaKml1MIPDU5Tf4XjTDL/hMDCLZv84NJo9YFy1wOZiw/5xc54tlBQRkFohViuf9UwjG7+uY8OHC6PitY8E/I//lMvBMm85YKNXDlk1pEKUP79BTw+vrxRE5ai6R1/iHQvAqT0W8cGQlFjcNW+PMqUR4Na/S/wpNaJyTjrL2MQrggqWLeEz5we+aEjRswTCa+gregV0UB/AeNDBsq++KcSzYXd0ubavDHg4psGmzQCTGzDwSPqO4MI85qLEyOG879BRAB/Yj2F5TthEvWDnf1f3WJ+8czpV9h6AYPM6x1feoVkeZFpCGzlAFbeBDGRvnvqLGpthK+5a8Kz1d1szO4s4OE3uNrgTmHqzus=;yEcY/9yGFjCAz/zwUF6KEA=="

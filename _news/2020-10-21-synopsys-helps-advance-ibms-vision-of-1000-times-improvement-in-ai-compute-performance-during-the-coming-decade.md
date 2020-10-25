@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/synopsys-helps-advance-ib
 webUrl: "https://www.prnewswire.com/news-releases/synopsys-helps-advance-ibms-vision-of-1-000-times-improvement-in-ai-compute-performance-during-the-coming-decade-301157052.html"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "Synopsys Collaborates with SiMa.ai to Bring Machine Learning Inference at Scale to the Embedded Edge"
-    excerpt: "Since SiMa.ai's inception, it has strategically collaborated with Synopsys to support all aspects of its MLSoC architecture design and verification. FREMONT, CA: Synopsys announced its collaboration with SiMa."
-    publishedDateTime: 2020-10-20T11:42:00Z
-    webUrl: "https://www.cioapplications.com/news/synopsys-collaborates-with-simaai-to-bring-machine-learning-inference-at-scale-to-the-embedded-edge-nid-6683.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/w8bk2450h6ry4.gif"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "T1lUhWz4yZCKCN1oO9WgtU4WBRE8eolQ/+ty1+NAr/iicxbBxAJLCs1UgKh02T2apHqvqu/3thYhF8x75bNheVBYwK0tKbij/+ZXRL+LkmWswQKcFJUfFnhDZd5C+zmK/TXo4rsk5eVcCFom8S/VEl8FD7HkMlHbtJtKgDaNmIl4kcRa1TnzePc9x+ZLGNRwj2iqRZLYhq70A3L/aMok973uJtkZFCIqJ0ys1bi956/mtwBqeGt7PYNvAa70ZE/n9KWZoo/4FK3Vbo9W1/q88vJ381Nedp5jYVrxtwqEgRS0k7NvFXfQFtHYijSd8mn1tQqLJaJc9h6ZEW3qV1DCqprZo5M2vAtYZ4Y8ChpNxCc=;i4mDzMMl3nkAUoG9YM2oXg=="
 ---
