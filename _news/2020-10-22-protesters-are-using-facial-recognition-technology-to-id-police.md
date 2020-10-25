@@ -107,38 +107,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "Birmingham buys police software: opponents warn against facial recognition"
-    excerpt: "Birmingham Mayor Randall Woodfin again emphasized that the software approved Tuesday does not activate facial recognition. “You’re not agreeing to any facial recognition, that’s not happening,” Woodfin said. “It’s explicit in this contract that ..."
-    publishedDateTime: 2020-10-20T17:40:00Z
-    webUrl: "https://www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html"
-    ampWebUrl: "https://www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/birmingham-buys-police-software-opponents-warn-against-facial-recognition.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 72
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PWOHZMJF7RGSDC3G365QG3BYFU.PNG"
-        width: 497
-        height: 396
-        isCached: true
-  - title: "Facial-Recognition Startup Clearview Moves to Prevent Possible Police Abuse"
-    excerpt: "The controversial startup that provides facial-recognition technology to law enforcement is rolling out new compliance features to prevent abuse of the technology, Chief Executive Hoan Ton-That said Tuesday."
-    publishedDateTime: 2020-10-20T18:32:00Z
-    webUrl: "https://www.wsj.com/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327?mod=business_minor_pos4"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 72
-    images:
-      - url: "https://m.wsj.net/video/20181224/122418upstreamfacrec/122418upstreamfacrec_512x288.jpg"
-        width: 512
-        height: 288
-        isCached: true
   - title: "Baltimore City Council Split on Banning Facial Recognition"
     excerpt: "A Baltimore City Council subcommittee on Tuesday deadlocked on a bill that would have banned facial-recognition technology there, preventing the measure from going before the full council."
     publishedDateTime: 2020-10-22T02:37:00Z

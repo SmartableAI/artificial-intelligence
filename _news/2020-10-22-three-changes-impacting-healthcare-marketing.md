@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-ch
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Healthcare Market"
-    excerpt: "Data Bridge Market Research has recently added a concise research on the Global Artificial Intelligence in Healthcare Market- Industry Trends and Forecast to 2026. Global Artificial Intelligence in Healthcare Market research report has been prepared with ..."
-    publishedDateTime: 2020-10-20T17:49:00Z
-    webUrl: "https://www.openpr.com/news/2166080/global-artificial-intelligence-in-healthcare-market-2020"
-    ampWebUrl: "https://www.openpr.com/amp/2166080/global-artificial-intelligence-in-healthcare-market-2020"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166080/global-artificial-intelligence-in-healthcare-market-2020"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta20814732_g.jpg"
-        width: 599
-        height: 400
-        isCached: true
   - title: "3 trends for healthcare marketers"
     excerpt: "Healthcare marketers should keep a pulse on trends emerging in the industry if they want to deliver patients the most up-to-date and engaging information, according to Ajay Prasad, the founder and CEO of healthcare digital marketing agency GMR Web Team."
     publishedDateTime: 2020-10-22T21:55:00Z

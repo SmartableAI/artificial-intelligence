@@ -41,22 +41,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "Global Artificial Intelligence in Healthcare Market"
-    excerpt: "Data Bridge Market Research has recently added a concise research on the Global Artificial Intelligence in Healthcare Market- Industry Trends and Forecast to 2026. Global Artificial Intelligence in Healthcare Market research report has been prepared with ..."
-    publishedDateTime: 2020-10-20T17:49:00Z
-    webUrl: "https://www.openpr.com/news/2166080/global-artificial-intelligence-in-healthcare-market-2020"
-    ampWebUrl: "https://www.openpr.com/amp/2166080/global-artificial-intelligence-in-healthcare-market-2020"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2166080/global-artificial-intelligence-in-healthcare-market-2020"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta20814732_g.jpg"
-        width: 599
-        height: 400
-        isCached: true
 
 secured: "iZVllUOvGZtUlpx82VRvI3YNwZKzHP62DVUHHo8KqIMKUkrZRXGPM2b1lKWq1ZyROc8daanm8KoAqlczMAF9mG5QtJetrLebDwamN+iSCSTDmkzfv+qJlgC111T2uW2JtPUvAyR0M8v/ug0ieZkgDs8Y6DmDfxP/Mf5TzOSOi9+4jrtzKDg34ab9Y0+DJjuq1YGN4WobA54tYRZWBaWhYEa+DmCdqx6c995fz8wSh/or1uKrAxmmWvzZqIWr49vbo16364uY17mjIoWKdaid+kCFHTAeKAWUJDVFZW5hfte30K4k6+9BXio0rxaJBiYCJGYymknPYdIFYjPUs8ZyokFwUC/kiwkNpEq8Qi+BsQ0=;AbKRKpKYOL0QjITSZHDULw=="
 ---

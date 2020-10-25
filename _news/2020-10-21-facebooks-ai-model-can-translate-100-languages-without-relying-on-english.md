@@ -75,20 +75,6 @@ related:
         width: 879
         height: 455
         isCached: true
-  - title: "Facebook Shares AI-Powered Forecasts of Covid-19 Spread at the County Level in the US"
-    excerpt: "Facebook AI published a paper extensively detailing the techniques ... be integrated into specific reports bound for the European Commission, which the EC’s research team will use to provide a more comprehensive understanding of global hotspots."
-    publishedDateTime: 2020-10-20T17:35:00Z
-    webUrl: "https://www.adweek.com/digital/facebook-shares-ai-powered-forecasts-of-covid-19-spread-at-the-county-level-in-the-us/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 32
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/10/FaceboookAICovid19ProjectionUS-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "sbaCS28AsccCCQLAe3RZhbWjDnt+2aj7E/2i+WaAGH/zmdV5vhjJGaILbrWE+65QDb+q1bDrYxgVDp5xWEuU90vXHhn/aDSTuxB+vZIfEx0LlkSdYgFj/XNXJWK2gHR2PgNP8dtSb4/U2Crj1THUOZOWbe+ycG7lrnHTDdCm3ze87zAFfDUBjoWogcsB/+dIediJ4yMM9/zjJP8Xb5V9kuEWuYVkHXWXYUGPH5K/V/5BJSOMhy1tjBCnwGH4LD7TI3mjgHVvmFdAKHyj/xI3TxPY/u3Imi5V0CsjQYzyBfr+Ek0dNpE05kVSVg/GM0yVi2rlGUiFS7sC8oM+FnHCd93bR25seRN0CL6h/kRv2Ud+CKsNPWPlldQAjxlyAtiNcSbyo8LT9PIs6jhFIe9FtEqeK+88GbF84/f3uGo5mi1eT0k4GFbS8WIgBgQwdvoO/M1uKZERjI184DiDjVabEdLiBO1ZODNhZJFIbZ+rHzBEbx6Ydht2iT1WnMH995aZOBR2fM6LB9tPYgSM9EbBLA==;DMNrr4RNvjI8iKsmfj2faA=="
 ---

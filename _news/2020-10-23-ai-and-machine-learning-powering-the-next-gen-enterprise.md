@@ -3,8 +3,8 @@ category: news
 title: "AI and machine learning: Powering the next-gen enterprise"
 excerpt: "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents."
 publishedDateTime: 2020-10-23T13:57:00Z
-originalUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/"
-webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/"
+originalUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268"
+webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268"
 type: article
 quality: 84
 heat: 84
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
   - url: "https://assets.bbhub.io/professional/sites/10/347789615.jpg"
@@ -28,6 +28,6 @@ images:
     height: 1067
     isCached: true
 
-secured: "wZqVDs+WuwhHiaWPulNGLGYVnKU+SjUw0xnSFYJeXfGTpwbeXaeJhDGjd6zpF47KI/47izuhZleae9UdmxyG1Kwa5S1KLorI6CiK3Q9FMAV5eFaO33lI37uC0Gc1JneVm7nl/Eo1TTHqpTCxd7k8wWm8orwAZhQrAytdE9gBAoBvPCRcxvxPtIbr1f/AUJlDusHhCRq5NWBosJwXoE8gyftXBPpmBopz1jzjPMYXiI2aukvGZLsfWRObK1crTeNzJeI4LENJn1ZxKxJwdYbvBFzFahVwRW396dOLarLRuVuXwv6BunWZFVE9OjkT4zEEAbpVBVNA3GOerugGOQQ4MILCT8idxBMzshUxRSsIF8EOIf9ufxkgSSfVvQEFPw5XCGldi4ApTcGqFZfDD9v1/3Wvq9y9waDKcm7zrU3uBqdlIFZLsv7FeFfwFufw7CObKiUlYwJq8QAQ823gVS1Xeb6gApDWMLH/UiMlQGJapPZFApG8aAhXbzgiqVS3GuSGzP5kRshLuDwhfo3BYTIdJw==;Pp5UuhkZdnI9y9+FlO7T4g=="
+secured: "2QyHaLq46Lk4dZY+F9sF8szbskN1fCvcqbXVS3xJcBaF09hS/JsipDTOFTgPDq5B5TZd+EzMyWnA1NrqgdRJ0bUQLZ9ZgjclkCFwrlp88ATrWf2xPgOuxaFVUzrBCLmWR13gme2G9+gwtD5Oj7zDCl1HM4JFJXCdSGK/tXF+2Tmor8SMM5sOCPsJEHnh73PLHK6d+tJSFStTdi6eTlVt8GQIu2XF4Cca0eVYvgJ6I0rs6xbNknx09KewhzJ27QMPdLHm6unTl62vI+KAXZuQncJZGwqpECRoxJ9f5Dh4Y+fpfmwbXSukamOPylGSf988QyczNjilccXLD5BogZQ1YJR70Jgckae1FthdsijdYpc=;y8lWBf/vxkherbNd8QRO+Q=="
 ---
 

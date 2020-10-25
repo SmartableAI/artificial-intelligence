@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ford unveils new self-driving test vehicle for 2022 launch"
-    excerpt: "Ford plans to launch its self-driving commercial business in 2022 with vehicles based on the Ford Escape Hybrid crossover, the company announced Tuesday."
-    publishedDateTime: 2020-10-20T18:09:00Z
-    webUrl: "https://www.cnbc.com/2020/10/20/ford-unveils-new-self-driving-test-vehicle-for-2022-launch.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/ford-unveils-new-self-driving-test-vehicle-for-2022-launch.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/ford-unveils-new-self-driving-test-vehicle-for-2022-launch.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106752631-1603210320426-Ford_Escape_self-driving_vehicle.jpeg?v=1603210429"
-        width: 700
-        height: 405
-        isCached: true
   - title: "Ford will use its Escape SUV to power a self-driving car service"
     excerpt: "With the unveiling of its latest autonomous test vehicle, Ford believes it’s one step closer to offering a commercial self-driving car service (via NBC News). In a new Medium post, the automaker detailed its fourth-generation autonomous test vehicle,"
     publishedDateTime: 2020-10-20T22:47:00Z

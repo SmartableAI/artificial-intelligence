@@ -36,20 +36,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 59
-  - title: "Predicting COVID-19 Outcomes with Artificial Intelligence, EHR Data"
-    excerpt: "A simple artificial intelligence model analyzes EHR data to accurately predict favorable outcomes in COVID-19 patients."
-    publishedDateTime: 2020-10-20T18:47:00Z
-    webUrl: "https://healthitanalytics.com/news/predicting-covid-19-outcomes-with-artificial-intelligence-ehr-data"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-09-30-GettyImages-974742772.png"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Robot Enters COVID-19 Fight"
     excerpt: "A robot initially designed for shipboard firefighting and maintenance tasks has now been enlisted in the fight against COVID-19."
     publishedDateTime: 2020-10-23T14:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-ai-diversity-online-learning-c
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "http://www.hydrogenfuelnews.com/wp-content/uploads/2020/10/Renewable-energy-storage-Facebook-sign.jpg"
         width: 879
         height: 455
-        isCached: true
-  - title: "Facebook Shares AI-Powered Forecasts of Covid-19 Spread at the County Level in the US"
-    excerpt: "Facebook AI published a paper extensively detailing the techniques ... be integrated into specific reports bound for the European Commission, which the EC’s research team will use to provide a more comprehensive understanding of global hotspots."
-    publishedDateTime: 2020-10-20T17:35:00Z
-    webUrl: "https://www.adweek.com/digital/facebook-shares-ai-powered-forecasts-of-covid-19-spread-at-the-county-level-in-the-us/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 32
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/10/FaceboookAICovid19ProjectionUS-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "d6yHq9q9wLCcniPI7dGkOgSDBYuGHutX192wVNP+QFfbFEKEgGeYu7CsVJBfiq7u4hVYqTnvSQJ/KBQfvXGKlpJ0bWz8sohvPj34vCT97GU5IC3PyPy5IzgcfE+sgc+GiwqrJbVLJcb/qrme6fA1sVLe6q9uN8JI63r2oCaaanNVViJC0xOH1Oh8ws+jS2Z+XCJlxUFR66Q+codVc82ADtWxaDAwng+sFBwKAPOf1XSEmMMTo29/TvZk4R1diKfn3DDPzywAcCjQbGwmTsDe0QHxE9Qp36TsiFjFCc4clLdyfXaD20aGNhm1IvdIKM5JHKiXiRrgxqRXnHD9OQE+nL1Pzz1rA2YGKGI0v1NyzxcKfkTHFQcGjw2yU4fAiFKjrw1CmXRS5IClQXQF1BmsFiCla5fDEJNhIv7ZMr5YhrdefMXjv9OomdnS/hgY2O/hNUVwircbnRBztqQ9q1UcrouRXf8n9VJ8l2B6JRjE9LD3rXaCzE1jtwjPyWmFfvBzzH4EK8YldHodeAVL+O8hJw==;J75sCB7IGj6I+EabTUow/g=="
