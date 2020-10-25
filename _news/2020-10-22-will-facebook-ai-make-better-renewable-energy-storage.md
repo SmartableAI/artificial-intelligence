@@ -153,20 +153,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Facebook Unveils AI Translator For 100 Languages Without Relying On English Data"
-    excerpt: "Facebook announced that the MMT model that can directly translate “100×100 languages” in any direction without relying on only English-centric data."
-    publishedDateTime: 2020-10-20T08:15:00Z
-    webUrl: "https://www.republicworld.com/technology-news/social-media-news/facebook-unveils-ai-translator-for-100-languages-without-relying-on-en.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 36
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/lizde4rkc3wjcfjj_1603181420.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
-        isCached: true
 
 secured: "KZpogB9lbroTAMOkrM92wCushMps1FHhj67qsIVWzZdyK8P5i3N7hW5HI7sIVDZZH4tPw75LKtPLcGLkeQ6UIyDcw/fd/VScCgKlpvKxgjpA2P2OKu5Nyp+KlEKOw4V/B2WXhGd74pw2AsmzsHOnQAbUT6tNPDUShU/rRbtlJrOjrWxq+5OLCD5f7/E18ZdBovUdkJeY+pGQKqWZhhAgUkm7OPSTGagDJtVNxuDckyPP7SaUxs/tSu2Ypx4185aQC15gBXhKk9x2XK2NwSvJm/HR8070D/0QcqLYH3rWwTvBb3k5AZDLTF/+OntjkQGEBveR25n0PACZljpM87DQfK/FMwo/nuQBAqKFN5l/Uq4RcRLBhdqr8bAxFd64g/AkxjhG+K5Ho9eJmwjqStcX6ILLEvh3gRSLyo8RunXn6B1kwYW0kJRZwcSheDCSq/xDz6d2YJsex5YZ6eJJJS0HrEd7uKwAwUH01w2C8JMD/TmT2qNhOUIRLnjZ2qRZtvLOkyRZIyZyOnKAO7rX+axyTw==;0SEt/D2tU7Y6dRybAo4lkw=="
 ---

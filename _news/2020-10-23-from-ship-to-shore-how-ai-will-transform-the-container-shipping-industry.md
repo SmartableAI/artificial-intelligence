@@ -46,36 +46,6 @@ related:
         width: 1200
         height: 791
         isCached: true
-  - title: "How AI and machine learning can the tide of fraud"
-    excerpt: "Financial institutions are exploring many avenues to overcome these stumbling blocks, but few are as promising as artificial intelligence (AI) and machine learning (ML). Here are the fraud-fighting benefits of these systems,"
-    publishedDateTime: 2020-10-20T08:26:00Z
-    webUrl: "https://gulfnews.com/business/banking/how-ai-and-machine-learning-can-the-tide-of-fraud-1.1603182642958"
-    ampWebUrl: "https://gulfnews.com/amp/business/banking/how-ai-and-machine-learning-can-the-tide-of-fraud-1.1603182642958"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/banking/how-ai-and-machine-learning-can-the-tide-of-fraud-1.1603182642958"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 74
-    images:
-      - url: "https://imagevars.gulfnews.com/2020/10/20/Fruad_xx_17545205bb3_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "Artificial intelligence is changing everything in insurance claims"
-    excerpt: "The goal of every claims organization has been and will remain quickly adjusting a claim at a low cost with high levels of customer satisfaction."
-    publishedDateTime: 2020-10-20T07:51:00Z
-    webUrl: "https://www.dig-in.com/opinion/artificial-intelligence-insurance-claims-everything-is-changing"
-    type: article
-    provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 52
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/5415582/2147483647/strip/true/crop/3000x1575+0+191/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F23%2F97%2F561c42534f4b93d8caa2ac6e823f%2Fm1118219.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Using Artificial Intelligence the Right Way: How to Limit the Risks of AI-Driven Hiring"
     excerpt: "Traditional hiring methods have their fair share of problems, but AI has its own dark side when used improperly."
     publishedDateTime: 2020-10-21T14:25:00Z

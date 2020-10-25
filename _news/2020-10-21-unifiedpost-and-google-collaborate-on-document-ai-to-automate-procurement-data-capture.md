@@ -68,20 +68,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
-  - title: "FinHub 973 launches to boost fintech sector in Middle East"
-    excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
-    publishedDateTime: 2020-10-20T08:28:00Z
-    webUrl: "https://www.wamda.com/2020/10/finhub-973-launches-boost-fintech-sector-middle-east"
-    type: article
-    provider:
-      name: wamda.com
-      domain: wamda.com
-    quality: 24
-    images:
-      - url: "https://wamda-prod.s3.amazonaws.com/feature-images/8348f78df8d25ad.jpg"
-        width: 1584
-        height: 1387
-        isCached: true
 
 secured: "YPw4I8xBSmzUgheiKuj3U2HEOfojzH8CN+Jou2Y2dJm7klvK6tEjsPG89nL0wkmImdh52KmEDFoHAwFFKi0BWDeNLsnZ74Kl26SBFj0huIrNBQcMTermymZxcrMyHVYofgkOCkDnQklH2uBtutg27xSaRgtkuTdDwcJTkCuuCz7/SNuHzDX80/R/ihNZ3U+FH0ATdTnBP5ETsTH1bRgblzwboc5PhC+3PHqIpG8JwhAREvq8q4LJQXpDF8sJc+gL1V48Iks/1CfKGdCg/99J9Dvrgrd+r1Dpk79dzdW210xY7lBNRE47RdG2LNm22EgNubv6kQZbHuoV8FUCT4f6tS/iQglTZ+ztts3sbDQrM1M=;Q+INVGN47FBw+ZFfBNcOKA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AI Outperforms Humans in Speech Recognition"
-    excerpt: "Thanks to its superior speech recognition system, KIT's Lecture Translator will provide better results with minimum latency in future. (Photo:"
-    publishedDateTime: 2020-10-20T08:13:00Z
-    webUrl: "https://www.miragenews.com/ai-outperforms-humans-in-speech-recognition/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 54
-    images:
-      - url: "https://www.kit.edu/img/pi/2020_095_KI%20uebertrifft%20Mensch%20bei%20Spracherkennung_72dpi.jpg"
-        width: 1230
-        height: 820
-        isCached: true
 
 secured: "oCV0BQlX7sweovWYCQ28q8xouBKlR8XMqCZAfowMAIsYGiJSJxLnIZ8RWGahDnaL7GECPEb3gLEAkJtHdja36WXYRfuhou7O3nS2uZ/ScVF0krrigdFBagHAX0o+Z/cK6sRPSNXCoiZBopZb0WYeYhlHpp5ZbrnNPyAgL5YqxeGV40WdUOawPa4yZHfahtmndrzsSla9WWKISyZQwOJs2xe7Nnc00FUhae8ZJpsQ2S28knY4JUJo4/0+liPyEyYYZcbD/cPTmMsh8pGsbPIyGqitq6daCB9m4FWYQOud8m3Q8XO2GfdU3EilTtmpV29VrKCRUMlGtiyP/mx6g3jF21vlQnyoe+ihsXK3G8TvwbnT0eFe31kEAKR4XX7t4cUfrYIq6CsouaxV6QsV1B/2uJKKvzab8rrMRoXmYWACK/3KRldejCGDv1QCyeifiiHTj8/fFT06C0NfeYuug5LnjZ6RnK+WIpNb/3DCt0ZlM4OfQe58DnFz+PWdeFfHi+JogVpIiatpeXUfg9IvKFubvA==;bXPVEjnkWOJIJpXzM+N/hA=="
 ---

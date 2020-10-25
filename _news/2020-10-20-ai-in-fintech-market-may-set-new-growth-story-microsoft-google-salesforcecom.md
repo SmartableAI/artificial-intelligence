@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Gro
 webUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "Machine Learning Operationalization Software Market is set to see Revolutionary growth with CAGR of 44.20% | MathWorks, SAS, Microsoft, ParallelM"
-    excerpt: "Latest released the research study on Global Machine Learning Operationalization Software Market , offers a detailed overview of the factors influencing the global business scope. Machine ..."
-    publishedDateTime: 2020-10-20T07:30:00Z
-    webUrl: "https://menafn.com/1100984674/Machine-Learning-Operationalization-Software-Market-is-set-to-see-Revolutionary-growth-with-CAGR-of-4420-MathWorks-SAS-Microsoft-ParallelM"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?560509"
-        width: 465
-        height: 250
-        isCached: true
 
 secured: "wIAYDEslGaH8T5TVODpwPV+baAo69uxibdyeX/7PamA4Emz9egvpLS79bGTTUaCAyZVA58kw2dxYpT/fHVHALJP4fD2pOBgbEfEcloJ/NJS0xVUANStqQzIrYuBsEbmuRq3So6AiiWCPAviNL/gD0Gi664CgwFos0VKkTq4Xk3Wg1CbvTsnNjVI5QUBVoHTB04M39L/2knlTM09mkIBa2AhsuruvGe2EbBPoKw+JyaN3OxHhEcB/rAimBiuK3WXrwCCM7Dh8LxOYZ6BPvG7Xh3hdpPmlfmKVQwsLqrMHZW9TRU5qVdRJnvJ6o/e1oJ6QRQxGhV+UZNeWpdCB+6oifUO2wiDX2FdgI+1JBn7F6Tw=;iqsJ1PVsH/YksgZ24pzRqQ=="
 ---

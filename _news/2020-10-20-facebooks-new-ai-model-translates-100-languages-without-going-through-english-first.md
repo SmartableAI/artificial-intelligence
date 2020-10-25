@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-tran
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/"
 type: article
 quality: 98
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -157,20 +157,6 @@ related:
       - url: "https://slator.com/assets/2020/10/Facebook-Announces-Breakthrough-in-Machine-Translation-for-Low-Resource-Languages.png"
         width: 600
         height: 400
-        isCached: true
-  - title: "Facebook Unveils AI Translator For 100 Languages Without Relying On English Data"
-    excerpt: "Facebook announced that the MMT model that can directly translate “100×100 languages” in any direction without relying on only English-centric data."
-    publishedDateTime: 2020-10-20T08:15:00Z
-    webUrl: "https://www.republicworld.com/technology-news/social-media-news/facebook-unveils-ai-translator-for-100-languages-without-relying-on-en.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 36
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/lizde4rkc3wjcfjj_1603181420.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
         isCached: true
 
 secured: "bP/kpH/qEvhaR04UWJatzNnZZueItwXx+nT/bwk3CvomEd7H2rtQXUCY0iftNKWdy0hs7D0S1mLHfOCbqICjHX3jnrXol3GnDhGCFTSziVPn+OGhfLOOoDZxoDKlN2FlMPxk8i7SAxWFPUejuCButIw7E97FPhzOp7U3i8Mt8NffINgz4aozmACyqvJIFyGB1IGvAFQrSlv4ZCRU1oSbWFqZlDEzb5WUZOX5iNDKtmoJvNa1qR7KgyZxmBSRiMwG4huPir6zI1HyWpp97OSVzc2CWdW8BASOhvLNm9vHp7W3nSKKkQxNYyYdyymppeuHLjf/heBgtMfea/UXTR3jEYc5oCKmhXuz0zlsI5519kiNmv1F9i4D5F+8hO46cy1xjTD9Wc9hy+WWb+K+ieNowK+KE/MN2irv3VZzKr5XpqjwrFy3LN/vbidftNjR0qWj90/UWhhsaSw9VczgBTDvpJQA76Ws8upeTSP05KcqPoM5ZhQ3KPhRtm/SCFcAca2Skfh5RuiuIb44AbqCcjf9Tg==;6KXOewY3uyyX4UXsu51IwA=="

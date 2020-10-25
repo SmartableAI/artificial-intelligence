@@ -1,10 +1,10 @@
 ---
 category: news
-title: "UK plans for self-driving cars threaten safety: insurance group"
+title: "UK plans for self-driving cars threaten safety - insurance group"
 excerpt: "British government plans that could allow self-driving cars on motorways as soon as 2021 would put lives at risk because the available automated technology falls well short of human driving capabilities,"
-publishedDateTime: 2020-10-22T23:19:00Z
-originalUrl: "https://www.reuters.com/article/autos-selfdriving-safety/uk-plans-for-self-driving-cars-threaten-safety-insurance-group-idUSL8N2HD728"
-webUrl: "https://www.reuters.com/article/autos-selfdriving-safety/uk-plans-for-self-driving-cars-threaten-safety-insurance-group-idUSL8N2HD728"
+publishedDateTime: 2020-10-23T06:58:00Z
+originalUrl: "https://www.reuters.com/article/us-autos-selfdriving-safety-idUSKBN277386"
+webUrl: "https://www.reuters.com/article/us-autos-selfdriving-safety-idUSKBN277386"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN277386"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN277386"
 type: article
@@ -37,6 +37,6 @@ related:
       domain: reuters.com
     quality: 54
 
-secured: "vhzg4JGOetyYOr9ig9GbcXhwTnhiDbAakjkacsQceoUVRlwcnwscjLQQ5nj5eXRMW2TwHubUFJjPbk5NxhV0BmH5jLpEzycM5DxtYYPf63EOkntDcIBO+TZv6kmRMTZWsvkcczufxf3T7WAIqX/kgU40XLPmG6vg68z1bFuGndq1BckS8kN9IaLVUnLeN3ZShRHZbORhK3L6WJLBVcSBfFPgtKhvc/yOgCBL4YAm9xjA3HNXRBNQdxhGtKTa4bBGjGj/50eCBPaMJ2GnHb5munTGTuVQN09ccfDza0/c1S1f6Rz+dzz08mL1TxsgQY+Fkci22Z2rdIU7IkYiB6yUiW23W9YfTYjzfs1pqNZ4gaM=;gzgvFIi89aFHTamXY4amZw=="
+secured: "NF6dGcIFfYHvu7yx5ts9BKlT1ilXTr17pJDWEqgajYYajyQICIPaAbLNaUmk4XF0VWgml9tZcW89FTagWaZVXwnJiTkDw8aKvLTwN8gY4VSlHhNeYRLqe1e8d06nTW/9mhERPWtrKhHJRyNHjyiyR2Bke0OxJe0uf8FwrGUH9Zv1PRFB17B+pe9J9OldwL+dvTj5sVpBE+ugCY38CNbbRc/6rOMQd8J/dpEoDL+lwVVtblG6lyfk9NxUjYmQESPyaDGTjc5z6ZzOzzYGhvd3FbbrVcHsZu29V4vyIs7JpxTxSsxW/FP5ZjbF5SeINAmeNDWX1GHbdEYqNS/41uQJdkidjz+lJOO84f1O7VKS9iA=;RwbFCqphKQmU301hh21MLg=="
 ---
 

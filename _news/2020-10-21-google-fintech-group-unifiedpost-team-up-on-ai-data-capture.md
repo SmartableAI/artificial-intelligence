@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fintech-group-unifie
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "FinHub 973 launches to boost fintech sector in Middle East"
-    excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
-    publishedDateTime: 2020-10-20T08:28:00Z
-    webUrl: "https://www.wamda.com/2020/10/finhub-973-launches-boost-fintech-sector-middle-east"
-    type: article
-    provider:
-      name: wamda.com
-      domain: wamda.com
-    quality: 24
-    images:
-      - url: "https://wamda-prod.s3.amazonaws.com/feature-images/8348f78df8d25ad.jpg"
-        width: 1584
-        height: 1387
         isCached: true
 
 secured: "2+d2uNE719qKaj5zrcXsqaWaHDMlpM4nhiFhjA3zdha6yMU9FrHQr2yAxfe99AXtLvqKEMNXr3/Btk3WGvToZ4AunJT6xNiIX3NQujAfs5yl7O5q3isdpLCjR45kBQ4vbGdCfm2hYvGB5nCJtq26vXyjsBm8dn0ZURlCKrW4U4O+fVyt2/ZeMrq/au53+hD4+xgwC8/5lL3ScLX92jsApGZ1nF2hj7cStQdpIPlKbr6n1bf5YzeX9JVkXYgcYS9D3a5OhfmYyStO/I9Snb3K2/2h4j6yRlOWJTepnG+6Nv7817kvP//SB3g2IDGLoyHnvo28AHNOqQMTuxOopkvmyu7b/j0SIc+Ko7MjOC3jsJ8fBMNvpYI8c60W+ZTtO//MCeGHKWVeci93jfd4JbhEqJAce876Xeb5AVNy7xuQ39yPKXRS2+gh5Ub63Wx+0GBstthwX6KCjfQ58P762taR1kGSeWJm/jqFtiO2QALWLXZp7/6liWWb4i9eSOVYO+Ai/H2u0S3IA4BjYSM1EBUfRQ==;oCrjlh2nJYIE32ASJshQaA=="

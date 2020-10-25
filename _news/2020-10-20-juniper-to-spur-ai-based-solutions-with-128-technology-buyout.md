@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-w
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -34,15 +34,6 @@ related:
         width: 399
         height: 399
         isCached: true
-  - title: "AI powered Proximity Detection solution launched to aid organizations with social distancing"
-    excerpt: "Ipsotek, a pioneer in artificial intelligence (AI) powered video analytics, has announced the launch of a Proximity Detection solution to help businesses across a range of industries monitor adherence to social distancing guidelines enforced by the COVID-19 pandemic."
-    publishedDateTime: 2020-10-20T08:58:00Z
-    webUrl: "https://continuitycentral.com/index.php/news/new-products-and-services/5606-ai-powered-proximity-detection-solution-launched-to-aid-organizations-with-social-distancing"
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 8
 
 secured: "IUA/qMvaKyVaJWfJxf6P1sPdtmoOudI6C0dbDSAthwriPNNUAKNWZm8CvT5g5QmDFMZbuzvKCeCLp5/aQVy98aZjif99q8/f6Cyp2kYdm2iu1j4a3OfIv5g9Bw3eYi7MA8WxqogkC2GJh03PPEn40sJr/l3h9cxgS2Ed22DAd/+L156RKuBfhFwew39zzSxmsegkh4+V+lRZPttgu9EYs0GhoJgEffH0HylMLmQCbBDXUF+ykVavyA35f3iqxWPXWCUmqwrJOS4TFUfdsShdNbm+cLydvnL6boAhi+RgUgnAOeygiH65ZGJ8f3pPVsx8LZaSHDOkqi6MI1iyKDJ76rebVJ9xLCMPs6+aRNlK84Y=;iHICuOmTl7TxL6csAl+7GQ=="
 ---
