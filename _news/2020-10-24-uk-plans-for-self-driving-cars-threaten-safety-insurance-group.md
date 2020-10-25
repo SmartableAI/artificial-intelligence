@@ -28,9 +28,9 @@ related:
   - title: "UK plans for self-driving cars threaten safety - insurance group"
     excerpt: "British government plans that could allow self-driving cars on motorways as soon as 2021 would put lives at risk because the available automated technology falls well short of human driving capabilities,"
     publishedDateTime: 2020-10-23T06:58:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-selfdriving-safety-idUSKBN277386"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN277386"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN277386"
+    webUrl: "https://www.reuters.com/article/autos-selfdriving-safety-idUSKBN27807N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27807N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27807N"
     type: article
     provider:
       name: Reuters

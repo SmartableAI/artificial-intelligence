@@ -93,22 +93,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Facial-Recognition Startup Clearview Moves to Limit Risk of Police Abuse"
-    excerpt: "The controversial startup that provides facial-recognition technology to law enforcement is rolling out new compliance features aimed at preventing misuse of the technology, CEO Hoan Ton-That said."
-    publishedDateTime: 2020-10-20T20:39:00Z
-    webUrl: "https://www.wsj.com/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 73
-    images:
-      - url: "https://images.wsj.net/im-247310/social"
-        width: 1279
-        height: 640
-        isCached: true
   - title: "Activists Build Facial Recognition to ID Cops Who Hide Their Badges"
     excerpt: "In order to hold police accountable when they try to hide their identities, a growing number of activists are developing facial recognition tools that identify cops, The New York Times reports — a striking inversion of the way cops tend to use facial recognition on protestors and suspects."
     publishedDateTime: 2020-10-21T19:32:00Z

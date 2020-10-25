@@ -35,6 +35,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Ford will use its Escape SUV to power a self-driving car service"
+    excerpt: "With the unveiling of its latest autonomous test vehicle, Ford believes it’s one step closer to offering a commercial self-driving car service (via NBC News). In a new Medium post, the automaker detailed its fourth-generation autonomous test vehicle,"
+    publishedDateTime: 2020-10-20T22:47:00Z
+    webUrl: "https://www.engadget.com/ford-fourth-generation-self-driving-car-223830133.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 54
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F9c0f4620-1320-11eb-afb1-ac6b58ef64e0&client=amp-blogside-v2&signature=2eef1478837c7990561a022fe8cca1f902966d03"
+        width: 1008
+        height: 630
+        isCached: true
   - title: "GM, Cruise To Seek NHTSA Approval For Self-Driving Cars With No Wheels, Pedals"
     excerpt: "General Motors Company (NYSE: GM) and subsidiary Cruise LLC are seeking regulatory approval for running a number of self-driving vehicles that have no steering wheels or"
     publishedDateTime: 2020-10-22T04:17:00Z

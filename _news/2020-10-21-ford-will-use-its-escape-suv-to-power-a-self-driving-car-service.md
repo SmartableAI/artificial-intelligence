@@ -29,56 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Ford Escape Hybrid becomes company's latest self-driving car prototype"
-    excerpt: "The Escape Hybrid will also serve Ford's future autonomous ride-hailing service. Feast your eyes on Ford's latest self-driving car prototype. If it looks a lot like a Ford Escape Hybrid, well, that's because it is."
-    publishedDateTime: 2020-10-20T21:04:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/ford-escape-hybrid-self-driving-car-prototype/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/"
+  - title: "Cruise, GM to seek U.S. okay for self-driving vehicle without pedal, steering wheel"
+    excerpt: "Self-driving car maker Cruise said on Wednesday it and majority shareholder General Motors Co would seek U.S. regulatory approval in coming months to deploy a limited number of Cruise Origin vehicles without steering wheels or pedals."
+    publishedDateTime: 2020-10-22T05:42:00Z
+    webUrl: "https://www.reuters.com/article/us-autonomous-cruise-nhtsa-idUSKBN2762SP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762SP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762SP"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 68
     images:
-      - url: "https://cnet1.cbsistatic.com/img/LQrNpGE_tK54V8ffxvcE3kx3A4Q=/2020/10/20/4f243df4-9e13-44c4-a76a-4a7baacc72c0/ogi-ford.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538353675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1PD"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Ford chooses hybrid Escape for self-driving service, begins testing"
-    excerpt: "Ford and Argo AI this month will begin testing the fourth-generation technology on the vehicles in several cities, including Detroit"
-    publishedDateTime: 2020-10-20T20:27:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/ford/2020/10/20/ford-argo-ai-chooses-hybrid-escape-self-driving-service/5993329002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5993329002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5993329002"
+  - title: "GM, Cruise To Seek NHTSA Approval For Self-Driving Cars With No Wheels, Pedals"
+    excerpt: "General Motors Company (NYSE: GM) and subsidiary Cruise LLC are seeking regulatory approval for running a number of self-driving vehicles that have no steering wheels or"
+    publishedDateTime: 2020-10-22T04:17:00Z
+    webUrl: "https://www.benzinga.com/government/20/10/18007574/gm-cruise-to-seek-nhtsa-approval-for-self-driving-cars-with-no-wheels-pedals"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18007574"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18007574"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/PDTN/fe0b4fe6-3f82-432f-9d55-3cd31db52717-Ford_Argo_AI_4th_Gen_Self-Driving_Vehicle_01.jpg?auto=webp&crop=5598,3149,x0,y39&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.benzinga.com/files/images/story/2012/cruise.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Ford plans for self-driving commercial car launch in 2022"
-    excerpt: "Ford (F +2.2%) plans to launch its self-driving commercial business in 2022 with vehicles based on the Ford Escape Hybrid crossover."
-    publishedDateTime: 2020-10-20T19:12:00Z
-    webUrl: "https://seekingalpha.com/news/3623863-ford-plans-for-self-driving-commercial-car-launch-in-2022"
+  - title: "GM, Cruise to seek OK for self-driving vehicle without pedal, steering wheel"
+    excerpt: "Cruise says it will team with majority shareholder (NYSE:GM) to seek U.S. regulatory approval in the coming months to deploy a limited number of Cruise Origin vehicles without steering wheels or pedals."
+    publishedDateTime: 2020-10-22T02:36:00Z
+    webUrl: "https://seekingalpha.com/news/3624591-gm-cruise-to-seek-ok-for-self-driving-vehicle-without-pedal-steering-wheel"
     type: article
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 4
-  - title: "Ford plans for self-driving commercial service launch in 2022"
-    excerpt: "Ford (F +2.2%) plans to launch its self-driving commercial business in 2022 with vehicles based on the Ford Escape Hybrid crossover."
-    publishedDateTime: 2020-10-20T20:29:00Z
-    webUrl: "https://seekingalpha.com/news/3623863-ford-plans-for-self-driving-commercial-service-launch-in-2022"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
+    quality: 1
 
 secured: "Cmpw130+UpjbCeE8CVl3KWR43NljTof3dMCazd8nIdVEb7YxYRCWvuncW/hThHDxcSvNAnV9Ecnv0b8LmEXxnY2+Th6H0Hw/rXzTmtk5s24Fx72iPYSwbwJ2SLJpWBSh0Y26BlJNUVr3J7tVEStjrMuroKJGCiPkzsPUxiJNp3QLsqtDiTmnTcnzJtkHvl/wFwSLzJo5+J3xTbz15aOp+881E41z3SwoP5lq1xXB0UWCONuEutcatKEXXGFPAQLWKNB+e1jUsxLJARdBaoqMHWCBFtHcQ8cGYqvu0zs64D3fqN30j9oF1UtjyTkmQlsKLRY/xtOcVExOVGdUMqOvQIaOkTVt1AIBW7QVNVwtTmpAZsTho1gg2YrfIVW6R/VI7SGc1b5DmWCTXHfVh1lK2t+52S2zcV2SXT3ekk0xuu8CbXf4TPioyIoQ7KRxxqjR3HcMosaBfiGMra8u/ZqaspE8ZmEVwFdMca+rEQuttDLqqR2sn1H3h2pZ2KPA2D8FIeUQ5QCMNrcktjElMNlT/g==;mjuWr+S6bxQKQb/OWnhI+g=="
 ---

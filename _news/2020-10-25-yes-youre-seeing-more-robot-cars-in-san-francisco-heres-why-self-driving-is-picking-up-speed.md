@@ -56,22 +56,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Hackers fool self-driving cars into sudden braking"
-    excerpt: "The car was equipped with Tesla’s latest Autopilot semi-autonomous system but was unable to discern the digital image from a real stop sign, leading it to make a sudden stop that could cause an accident or a traffic jam."
-    publishedDateTime: 2020-10-22T09:40:00Z
-    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2020-10-22-hackers-fool-self-driving-cars-into-sudden-braking/"
-    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2020-10-22-hackers-fool-self-driving-cars-into-sudden-braking/"
-    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2020-10-22-hackers-fool-self-driving-cars-into-sudden-braking/"
-    type: article
-    provider:
-      name: The Daily Dispatch
-      domain: dispatchlive.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/gQQFFqJQusQMSz9jsTtsgT2RYqfamuE5OgHbeDIuyC7J5mF0jAAxMfJgbv2ZufAuA_5y37qVLrauatJuxbRw59jiVJinbbhQ=s1000"
-        width: 1000
-        height: 1000
-        isCached: true
 
 secured: "SXXceqybSEPrbkj1/q/nIxSh5Bw0ssI/BV6NiD1UgDeoWy4maeKLByPDcsEBdB1BZyCdntBPUO+qxgSUYytRSe/+cXN6NtdHPiMcLg/7VWsdskE7PJ7EXI0HKj4OhI5bDNb8eBddiRRBwBw92JLNuOVRKsqohyReZ3QQ/clhzL+OmDCba6Tut5ygbD7H8aqJKK9Tc9LFanmd586Hih216HK5SPz1rSx2rhPlJJ/YqrZ3h+ds1lyi9bu255/6N2mxdrEMH2nLCFD3Ow3JeQ6SCoDD73bCIRsAxAGQ89VzQZC+oxsyLl+wKFHdalSii1mcAwiabgpSzb58VltyZKAT0GSOsoInipwIGZJa8fEOQytjTPpT8nYcoyUfgpgLqdVvXFE9hHL6ApsJs6yh43jADTgV/8Cww/8TiTutse1j9JVXX4g9imANLRu6PjH6zu2U8iPt5ajQLu5JK13OtsLUkcdlY7zG6QBZ1ZurP/aKx/n5syefdpOzJ1C6ChyuDvlhwSfiJnem3QwQUcRoA0CiZg==;NwyIWcy/VvMuHx29OvkyKA=="
 ---

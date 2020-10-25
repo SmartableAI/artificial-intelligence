@@ -1,27 +1,29 @@
 ---
 category: news
-title: "CBSE introduces facial recognition systems for accessing digital documents"
-excerpt: "Using the state-of-the-art facial recognition system, the CBSE will enable students to download their digital academic documents of Class 10 and 12. This computer application matches human face from a digital image already stored in the database."
-publishedDateTime: 2020-10-23T04:17:00Z
-originalUrl: "https://citytoday.news/cbse-introduces-facial-recognition-systems-for-accessing-digital-documents/"
-webUrl: "https://citytoday.news/cbse-introduces-facial-recognition-systems-for-accessing-digital-documents/"
+title: "Dubai introduces facial recognition on public transport ahead of global Expo"
+excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
+publishedDateTime: 2020-10-25T12:42:00Z
+originalUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+webUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
 type: article
-quality: 37
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Mysuru
-  domain: citytoday.news
+  name: العربية.نت
+  domain: alarabiya.net
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://citytoday.news/wp-content/uploads/2020/10/Page-5-anchor-1-photo-Oct-23-780x405.png"
-    width: 780
-    height: 405
+  - url: "https://vid.alarabiya.net/images/2020/10/25/1c064d49-8679-4ea3-8df5-502e0dc16e72/1c064d49-8679-4ea3-8df5-502e0dc16e72_16x9_600x338.jpg?width=466"
+    width: 466
+    height: 262
     isCached: true
 
 related:
@@ -41,22 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Dubai introduces facial recognition on public transport ahead of global Expo"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
-    publishedDateTime: 2020-10-25T12:42:00Z
-    webUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-    ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-    type: article
-    provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 71
-    images:
-      - url: "https://vid.alarabiya.net/images/2020/10/25/1c064d49-8679-4ea3-8df5-502e0dc16e72/1c064d49-8679-4ea3-8df5-502e0dc16e72_16x9_600x338.jpg?width=466"
-        width: 466
-        height: 262
-        isCached: true
   - title: "CBSE Introduces Facial Recognition For Accessing Classes 10, 12 Documents"
     excerpt: "Now, CBSE students will be able to download their digital documents from DigiLocker without using AADHAR and phone numbers."
     publishedDateTime: 2020-10-22T12:35:00Z
@@ -71,6 +57,20 @@ related:
         width: 860
         height: 430
         isCached: true
+  - title: "CBSE introduces facial recognition systems for accessing digital documents"
+    excerpt: "Using the state-of-the-art facial recognition system, the CBSE will enable students to download their digital academic documents of Class 10 and 12. This computer application matches human face from a digital image already stored in the database."
+    publishedDateTime: 2020-10-23T04:17:00Z
+    webUrl: "https://citytoday.news/cbse-introduces-facial-recognition-systems-for-accessing-digital-documents/"
+    type: article
+    provider:
+      name: Mysuru
+      domain: citytoday.news
+    quality: 37
+    images:
+      - url: "https://citytoday.news/wp-content/uploads/2020/10/Page-5-anchor-1-photo-Oct-23-780x405.png"
+        width: 780
+        height: 405
+        isCached: true
   - title: "CBSE introduces ‘Facial Recognition System’ for accessing digital academic documents of Class 10 and 12"
     excerpt: "Central Board of Secondary Education (CBSE) has now introduced “Facial Recognition System” for accessing digital documents."
     publishedDateTime: 2020-10-22T12:34:00Z
@@ -83,6 +83,6 @@ related:
       domain: hindustantimes.com
     quality: 23
 
-secured: "Tiv7wtIWdgdMvqrSq/YBSRzO6mSvaeqf6QJwYfeJjgBWM9x/8Sx8dgL7p9srTC7cQbEMQMEt/Rr497kqi1gKdKZ+3dIZyOyelCyaaVbEPf9bMbysRm7OUa03b8Tmd2LbWNtGP6fpuU+ccgggJrwG1cPQwSJtQLQ/Pdx6TnNtsZvSyCgU+L82SZKwDuUHnXeSAwMmtLUApuIWyqvVd3aM606pzhQMpyU4XaW1GUP8Rs+tJMOtTBCO8iGn5uc3pJ0/UBGS1fe9wSXoXDSlGwjU4tZH7y9YDhdufIVvTymdQeNYM82UMiOx/rqcUpURzEzyS3baMPrA5Nd/XWlbyjfccqJbP6v4MFHTF3AsHXphooY=;pySQdyKvbejEJBFf1ewALg=="
+secured: "PFPoKwPU/YjnIoZGpFqTTG0SsYaiKc5547+5wz1wRv3WpeYjVkbg1i1rZ+8r3GsKo19+h745MBYBzor4oiDLT8UY4j1Rh1CfCB4Qm3tgyD7YgSaEI+9Svvh6qYUP2lWuc5B215wjR3E2m5pplI7xkt5QTPCrFVFvwlN1gxLWNIn/5r789/bgb4Kqavyr07msrlU4m4FPzfriAHVXk+wp4ordJqIhsnCN8trvwkr3AbeEbpJjOfSFaJofF7EK2qnIi+fek6iJSr0CiWnVz14Yh3nNfOTYCQ0FWxZ8Uq6mf83ABbinJz4pD0e+ss+w4ZjCcpNBvxi2XDJes1CN82XRItVCdLxsofAPgQf+5aIHbvU=;XssARHEjgZIoMpgsjtQFGg=="
 ---
 

@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Hackers fool self-driving cars into sudden braking"
-    excerpt: "The car was equipped with Tesla’s latest Autopilot semi-autonomous system but was unable to discern the digital image from a real stop sign, leading it to make a sudden stop that could cause an accident or a traffic jam."
-    publishedDateTime: 2020-10-22T09:40:00Z
-    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2020-10-22-hackers-fool-self-driving-cars-into-sudden-braking/"
-    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2020-10-22-hackers-fool-self-driving-cars-into-sudden-braking/"
-    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2020-10-22-hackers-fool-self-driving-cars-into-sudden-braking/"
-    type: article
-    provider:
-      name: The Daily Dispatch
-      domain: dispatchlive.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/gQQFFqJQusQMSz9jsTtsgT2RYqfamuE5OgHbeDIuyC7J5mF0jAAxMfJgbv2ZufAuA_5y37qVLrauatJuxbRw59jiVJinbbhQ=s1000"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
     excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
     publishedDateTime: 2020-10-24T17:22:00Z

@@ -21,6 +21,38 @@ topics:
   - AI
 
 related:
+  - title: "Dubai introduces facial recognition on public transport"
+    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
+    publishedDateTime: 2020-10-25T12:14:00Z
+    webUrl: "https://www.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
+    ampWebUrl: "https://amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
+    cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
+    type: article
+    provider:
+      name: France 24
+      domain: france24.com
+    quality: 74
+    images:
+      - url: "https://s.france24.com/media/display/94ea097c-16bb-11eb-9a57-005056bf87d6/w:1280/p:16x9/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dubai introduces facial recognition on public transport ahead of global Expo"
+    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
+    publishedDateTime: 2020-10-25T12:42:00Z
+    webUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+    ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 71
+    images:
+      - url: "https://vid.alarabiya.net/images/2020/10/25/1c064d49-8679-4ea3-8df5-502e0dc16e72/1c064d49-8679-4ea3-8df5-502e0dc16e72_16x9_600x338.jpg?width=466"
+        width: 466
+        height: 262
+        isCached: true
   - title: "CBSE Introduces Facial Recognition For Accessing Classes 10, 12 Documents"
     excerpt: "Now, CBSE students will be able to download their digital documents from DigiLocker without using AADHAR and phone numbers."
     publishedDateTime: 2020-10-22T12:35:00Z

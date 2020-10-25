@@ -27,49 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Using A Kill-Switch Or Red Stop Button For AI Is A Dicey Proposition, Including For Self-Driving Cars"
-    excerpt: "As earlier mentioned, the AI might seek to avoid being shut off. Consider this AI Ethics conundrum: If sentient AI is going to potentially have something similar to human rights (see my discussion at this link here), can you indeed summarily and without ..."
-    publishedDateTime: 2020-10-21T15:11:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-switch-or-red-stop-button-for-ai-is-a-dicey-proposition-including-for-self-driving-cars/"
+  - title: "Want to Invest in Self-Driving Cars? These Are the 2 Stocks You'll Want to Own"
+    excerpt: "While many companies are working on autonomous vehicles, only a couple are ready to let theirs hit the road in the real world without human backup drivers."
+    publishedDateTime: 2020-10-25T13:21:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 56
+      name: The Motley Fool
+      domain: fool.com
+    quality: 70
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87852a819fa0d89ac1a522%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
-        width: 1200
-        height: 675
+      - url: "https://media.ycharts.com/charts/fc490c290584e81b2214cc869c7d78ba.png"
+        width: 720
+        height: 531
         isCached: true
-  - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
-    excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
-    publishedDateTime: 2020-10-24T11:08:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
+  - title: "The Next Battle In the EV War Is Self-Driving Cars"
+    excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
+    publishedDateTime: 2020-10-24T15:03:00Z
+    webUrl: "https://www.barrons.com/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+    ampWebUrl: "https://www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 48
+      name: Barron's
+      domain: barrons.com
+    quality: 44
     images:
-      - url: "https://s.hdnux.com/photos/01/14/70/25/20153683/5/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
-  - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
-    excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
-    publishedDateTime: 2020-10-24T17:22:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 28
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/70/25/20153683/5/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://images.barrons.com/im-248921/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "lQHQyvgqe9HYvF6FV8XpV2a5Gd3m7cdr/2BI6vvamiTj/qqcgk0i6MSa4/G1N8RL7brCsI3ZhQ+QX7VUlVB/WTXH41wtavoFkGWyw/WxBlmYTG/DbR5GrLlnEVawfRjlOK2FXBnx4QV+cZdd6mQY87hpMpyGfGw5ePsxPREo54GQrOL6SNFKGPinu9B8WXEAwZ+CWVF/GChBG/DXjK61+L5SJElfjIgeTeONiDF0iPs7qKdfprFJcUVCzHIiXGn1U898r7Sc3AH8ugWWeVxbhSSxPgupycEATPKS2rdyoRK6TxlK3XOu9dzJ8B4Uq9yQ/iQaWTOMZKHvg5JjzYjIa5vATZSzxgla9uFATBs+b9c=;eF5p8Apf82mv3GTfi3a+5Q=="

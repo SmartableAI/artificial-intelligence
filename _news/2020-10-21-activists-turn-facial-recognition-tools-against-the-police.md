@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/10/21/technology/facial-recognition-pol
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/ott_now_police_facialrec_201019_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Facial-Recognition Startup Clearview Moves to Limit Risk of Police Abuse"
-    excerpt: "The controversial startup that provides facial-recognition technology to law enforcement is rolling out new compliance features aimed at preventing misuse of the technology, CEO Hoan Ton-That said."
-    publishedDateTime: 2020-10-20T20:39:00Z
-    webUrl: "https://www.wsj.com/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-startup-clearview-moves-to-prevent-possible-police-abuse-11603217327"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 73
-    images:
-      - url: "https://images.wsj.net/im-247310/social"
-        width: 1279
-        height: 640
         isCached: true
   - title: "Baltimore City Council Split on Banning Facial Recognition"
     excerpt: "A Baltimore City Council subcommittee on Tuesday deadlocked on a bill that would have banned facial-recognition technology there, preventing the measure from going before the full council."

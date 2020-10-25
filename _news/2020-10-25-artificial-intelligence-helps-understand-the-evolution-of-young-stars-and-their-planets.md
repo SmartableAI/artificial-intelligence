@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Artificial Intelligence Helps Understand the Evolution of Young Stars and Their Planets"
-excerpt: "An X-class solar flare from our sun in November 2013. Scientists trained a neural network to find such flares in data taken of distant planets around other"
-publishedDateTime: 2020-10-25T04:11:00Z
-originalUrl: "https://infosurhoy.com/science/artificial-intelligence-helps-understand-the-evolution-of-young-stars-and-their-planets/"
-webUrl: "https://infosurhoy.com/science/artificial-intelligence-helps-understand-the-evolution-of-young-stars-and-their-planets/"
+excerpt: "University of Chicago scientists teach a neural net to find baby star flares. Like its human counterparts, a young star is cute but prone to temper flares—only a star’s are lethal. A flare from a star can incinerate everything around it,"
+publishedDateTime: 2020-10-24T20:55:00Z
+originalUrl: "https://scitechdaily.com/artificial-intelligence-helps-understand-the-evolution-of-young-stars-and-their-planets/"
+webUrl: "https://scitechdaily.com/artificial-intelligence-helps-understand-the-evolution-of-young-stars-and-their-planets/"
 type: article
-quality: 11
-heat: 11
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: InfoSur Hoy
-  domain: infosurhoy.com
+  name: SciTech Daily
+  domain: scitechdaily.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "4ePW/R4Cxb8Nph1+IYXuHPSAhUEnt2My4wL4Cbrxb3qlwvywvT7qJZWMyVsBJZfvqS3vn7s6VaPEl86O6bAS6X0zy2js8Lb/N2P3VI4eK6sxOHexR5EWBd1o8mO5jbhi84uQJgm16xQokKrzXoCL+ZFEUTkzJ+SaIoof4E6tH6yjAI8SeO6p38h01UZ7TGfWdNW6Sdygr6eSEcIBKUpqB/QUzFT2ee1Zq5RPUQRzT4pqd/0m09sc8I8fs2VIItehHXACmCJtHOYY+NMzA6KKnZO7fUE1DghiUjsOp4gLGokcfyokkZPhw5rBRB46Y+0x1NzrCmeX3NK3nWG+PtU1aNFimPKTN5/fPqTo6IivjAws6Oyw+qdIIhzAmCqbB4XvJsi8qlXWpFVBpnwNyGoeFoMSm5kI9bfE1z3/KV+zY3hOfkjq7ruNIP590shw7rlEHFdKEpweskM85OBhKjls0E1s0M8LfvbxEzYqnF0nkiZNMuq4CP7EEGpIleYESoJSDerLUFevSMKGYeDjGTF4yg==;51BgqgrOrZs/WST2H4eY/w=="
+images:
+  - url: "https://scitechdaily.com/images/X3-Solar-Flare-SDO-Crop.jpg"
+    width: 2000
+    height: 1500
+    isCached: true
+
+secured: "jZkHUBv1pbaWVRTMzkTP/McIx4q0Ohnc/WNGsHtSd3yrVfkDssUVNouPB/+XwBCnAZYouAx4PjPB/d1MnIsVjaigwWAk6lHiHoXOqljumP5NtgMNDD6zy8flTdi4pnI2kXO+OlABzwb5VyoBSBNw00/3DennmrEcvatZX7OHKHOKYc2j3eHreOzYUFPVY3J114qBXF1UPItMW3N8Ty1lyh2nxtQTRRmrx4usL3T5mntgnNU5he7VZLjVQZBfGJ8KRY4+EGQxZAn2zCq+DTwGW65VJ1J2MZ8NhC5+D4u70I+1kiGVraKAy6hpARwDqZhram2vKyaL7gvNFiAzWqs/yN21CgdyGRy2/zJa5Tk9hPc=;ewgTF/WIl/um3u2OiB2BUQ=="
 ---
 
