@@ -25,36 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise Industry Compliance Tips: Facial Recognition Technology"
-    excerpt: "In the past few years, the commercial use of facial recognition technology has advanced at an explosive rate, expanding into numerous industries and trades."
-    publishedDateTime: 2020-10-21T13:19:00Z
-    webUrl: "https://www.marinelink.com/news/cruise-industry-compliance-tips-facial-482600"
-    ampWebUrl: "https://www.marinelink.com/amp/news/cruise-industry-compliance-tips-facial-482600"
-    cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/cruise-industry-compliance-tips-facial-482600"
+  - title: "China: Artificial intelligence accelerating nation’s industrial upgrade efforts"
+    excerpt: "Artificial intelligence, the latest facet of information technology, has gained increasing momentum and been widely applied in various sectors with tremendous potential, thus becoming a driving force of scientific and technological development during China’s 13th Five-Year Plan (2016-20) period."
+    publishedDateTime: 2020-10-21T15:08:00Z
+    webUrl: "https://www.hellenicshippingnews.com/china-artificial-intelligence-accelerating-nations-industrial-upgrade-efforts/"
+    ampWebUrl: "https://www.hellenicshippingnews.com/china-artificial-intelligence-accelerating-nations-industrial-upgrade-efforts/amp/"
+    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/china-artificial-intelligence-accelerating-nations-industrial-upgrade-efforts/amp/"
     type: article
     provider:
-      name: Marine Link
-      domain: marinelink.com
-    quality: 59
-    images:
-      - url: "https://images.marinelink.com/images/maritime/w800h600pad/pixelmania-adobe-stock-117413.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Applied Materials and BE Semiconductor Industries to Accelerate Chip Integration Technology for the Semiconductor Industry"
-    excerpt: "SANTA CLARA, Calif. and DUIVEN, the Netherlands, Oct. 22, 2020 -- Applied Materials, Inc. and BE Semiconductor Industries N.V. today announced an"
-    publishedDateTime: 2020-10-22T14:54:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/applied-materials-and-be-semiconductor-industries-to-accelerate-chip-integration-technology-for-the-semiconductor-industry/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 13
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/shutterstock_desert_tree-e1603397722250-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
+      name: Hellenic Shipping News Worldwide
+      domain: hellenicshippingnews.com
+    quality: 35
 
 secured: "kAPvuLqcpMbLwf7MHieghrtIcB6isIy+37PZCwQDzTSjQkDJaWt0pMXHHsuKZMBwPVWn5a7c8rEXhW5J902FsOwG/AlSUNUhwg8n/GYCx98MEL0Ht1HgSBHL+6rEPkpxIhHM9JRadw6a92z3QwjjJdNl94Wd+gNgei0PLjWoR50CpfpiJnch2pfzzltDfQiIl0D9QVaxV9cyq2GUUNQzrZIPnzsHvWmzysnDpcgixk+5xM0pa8xquDzJID3ejUBY29ooAfmtddXRI5BbNHjDqaU1aCdfInLB6D2p/bpeo8/zW/qEVGwlEhmiZrayAgLL05wwPHxlG+nfuAEvlWxBW/HdIAPBdqpeeDGBeEZIC7Y=;E6lFtyoHJq27Z/mXi/jljw=="
 ---

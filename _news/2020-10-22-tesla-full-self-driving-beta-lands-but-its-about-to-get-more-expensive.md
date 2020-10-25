@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-el
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/"
 type: article
 quality: 103
-heat: 573
+heat: 563
 published: true
 
 provider:
@@ -174,22 +174,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934f9b7095aa39d758ff1f%2F0x0.jpg"
         width: 1200
         height: 817
-        isCached: true
-  - title: "Tesla to roll out beta of Full Self-Driving on Tuesday, according to Elon Musk"
-    excerpt: "Tesla's Full Self-Driving beta is rolling out to select customers tonight, according to a tweet published Tuesday afternoon by Tesla boss Elon Musk. In the tweet, Musk claims that the rollout will be \"extremely slow & cautious.\" Still, it's not exactly ..."
-    publishedDateTime: 2020-10-20T22:54:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-fsd-beta-rollout-tuesday/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-fsd-beta-rollout-tuesday/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-fsd-beta-rollout-tuesday/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Tesla is collecting insane amount of data from its Full Self-Driving test fleet"
     excerpt: "Tesla is already collecting large amounts of data from the vehicles owners in its Full Self-Driving beta test fleet. It is already releasing a new update improving on the release earlier this week."

@@ -27,21 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Want to Invest in Self-Driving Cars? These Are the 2 Stocks You'll Want to Own"
-    excerpt: "While many companies are working on autonomous vehicles, only a couple are ready to let theirs hit the road in the real world without human backup drivers."
-    publishedDateTime: 2020-10-25T13:21:00Z
-    webUrl: "https://www.fool.com/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/"
+  - title: "Trying To Prevent Narco Self-Driving Cars That Act As Drug Mules"
+    excerpt: "A recent news story described a narco mini-submarine that was scuttled in shallow waters after three men operating the vessel opted to evacuate and escape as authorities were closing in on them. Reportedly containing an estimated $100 million in cocaine ..."
+    publishedDateTime: 2020-10-25T15:34:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 70
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://media.ycharts.com/charts/fc490c290584e81b2214cc869c7d78ba.png"
-        width: 720
-        height: 531
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90c97b4f7c7f4774a83f34%2F0x0.jpg%3FcropX1%3D233%26cropX2%3D4337%26cropY1%3D93%26cropY2%3D2284"
+        width: 1200
+        height: 641
+        isCached: true
+  - title: "Using A Kill-Switch Or Red Stop Button For AI Is A Dicey Proposition, Including For Self-Driving Cars"
+    excerpt: "As earlier mentioned, the AI might seek to avoid being shut off. Consider this AI Ethics conundrum: If sentient AI is going to potentially have something similar to human rights (see my discussion at this link here), can you indeed summarily and without ..."
+    publishedDateTime: 2020-10-21T15:11:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-switch-or-red-stop-button-for-ai-is-a-dicey-proposition-including-for-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 56
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87852a819fa0d89ac1a522%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
+    excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
+    publishedDateTime: 2020-10-24T11:08:00Z
+    webUrl: "https://www.sfchronicle.com/business/article/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
+    ampWebUrl: "https://www.sfchronicle.com/business/amp/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 48
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/70/25/20153683/5/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "Self-driving trucks utilizing New Mexico roads"
+    excerpt: "ALBUQUERQUE, N.M.- Self-driving trucks are conducting tests New Mexico roads. \"To date there’s quite a few players in the southwest that either have a strong interest in I-10 or they currently are running autonomous routes along I-10,\" Charles Remkes ..."
+    publishedDateTime: 2020-10-20T23:28:00Z
+    webUrl: "https://www.kob.com/new-mexico-news/self-driving-trucks-utilizing-new-mexico-roads/5900565/"
+    ampWebUrl: "https://amp.kob.com/articles/self-driving-trucks-utilizing-new-mexico-roads-5900565.html"
+    cdnAmpWebUrl: "https://amp-kob-com.cdn.ampproject.org/c/s/amp.kob.com/articles/self-driving-trucks-utilizing-new-mexico-roads-5900565.html"
+    type: article
+    provider:
+      name: KOB 4
+      domain: kob.com
+    quality: 44
+    images:
+      - url: "https://www.kob.com/kobtvimages/repository/2020-10/Selfdriving_trucks_utilizing_New_Mexico_roads-syndImport-062248.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Hackers fool self-driving cars into sudden braking"
     excerpt: "The car was equipped with Tesla’s latest Autopilot semi-autonomous system but was unable to discern the digital image from a real stop sign, leading it to make a sudden stop that could cause an accident or a traffic jam."
@@ -58,6 +104,20 @@ related:
       - url: "https://lh3.googleusercontent.com/gQQFFqJQusQMSz9jsTtsgT2RYqfamuE5OgHbeDIuyC7J5mF0jAAxMfJgbv2ZufAuA_5y37qVLrauatJuxbRw59jiVJinbbhQ=s1000"
         width: 1000
         height: 1000
+        isCached: true
+  - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
+    excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
+    publishedDateTime: 2020-10-24T17:22:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 28
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/70/25/20153683/5/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "aAkxU+VxNqKEbFJXYhAz4sIdeTh+zj5mzd/sqm5cQoIfPBOs4CQSUQuWLEGVBHqakeTpZ0QETNbgvB/TKD3II95XDqyXi/HVH/kB+1jK2ZyLe3kFZUKCt7wq4QfurktLiLCKhi7yLzDw82hbm5RKubQlj4XNA9VNJwcRoIMlKyHm8Xj8ZCX0ixOMZwuhACltFnSu4uqsWRH4M3zTis+1oxbxtV3/Z+f02eTj3lsCPyRxsaeWEdlN9bCjisPs7ORD7mh7dAcnZeD0C1VIpZsMsjgaKFbUJaDx2jlcdKtDW1QCxdd+97ZTSp4oPSLeWd+zp7JIOcChMS/88gFzNM0munSVRHxBVQ67etQytTvUDGcDndxQA1G/y4v0TPxLY6NEMMYDM5Qhe9JTH2EDHqjBnk5upOS8C8W0nL3a4A8b8Cl8ZWVhD3L7tP3QnJjVgmvUYSa33pMaauwFnM41aXqRxCHgwISjagEFMLj5LwLAvxkz66dKR2DxnDxheXqbESyOF12HG9w5Mpbyke5+T7fg8g==;gw5dv9cX8r3LVMfl2WaiIg=="

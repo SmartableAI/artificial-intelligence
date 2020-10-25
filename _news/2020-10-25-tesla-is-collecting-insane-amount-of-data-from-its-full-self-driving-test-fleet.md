@@ -191,22 +191,6 @@ related:
         width: 1200
         height: 817
         isCached: true
-  - title: "Tesla to roll out beta of Full Self-Driving on Tuesday, according to Elon Musk"
-    excerpt: "Tesla's Full Self-Driving beta is rolling out to select customers tonight, according to a tweet published Tuesday afternoon by Tesla boss Elon Musk. In the tweet, Musk claims that the rollout will be \"extremely slow & cautious.\" Still, it's not exactly ..."
-    publishedDateTime: 2020-10-20T22:54:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-fsd-beta-rollout-tuesday/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-fsd-beta-rollout-tuesday/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-fsd-beta-rollout-tuesday/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ software is starting to roll out to select customers"
     excerpt: "A beta version of Tesla’s partially automated driver assist system is available, but not to everyone Tesla sent out the first “Full Self-Driving” beta software update to a select group of customers this week,"
     publishedDateTime: 2020-10-21T23:02:00Z

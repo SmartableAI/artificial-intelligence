@@ -141,6 +141,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-23-university-of-miami-denies-it-uses-facial-recognition-technology.md",
+      "title": "University of Miami Denies It Uses Facial-Recognition Technology",
+      "excerpt": "Students at the University of Miami have accused the school’s campus police of using facial recognition to identify them at a protest related to the coronavirus pandemic. Two students claim Dean of Students Ryan Holmes told a handful of campus protesters ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/university-of-miami-denies-it-uses-facial-recognition-technology-11603392194",
+      "originalUrl": "https://www.wsj.com/articles/university-of-miami-denies-it-uses-facial-recognition-technology-11603392194",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-247517/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/university-of-miami-denies-it-uses-facial-recognition-technology-11603392194",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/university-of-miami-denies-it-uses-facial-recognition-technology-11603392194",
+      "publishedDateTime": "2020-10-22T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-activists-turn-facial-recognition-tools-against-the-police.md",
       "title": "Activists Turn Facial Recognition Tools Against the Police",
       "excerpt": "met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery; they would also prevent ...",
@@ -149,7 +201,7 @@
       "originalUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -180,49 +232,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-cruise-industry-compliance-tips-facial-recognition-technology.md",
-      "title": "Cruise Industry Compliance Tips: Facial Recognition Technology",
-      "excerpt": "In the past few years, the commercial use of facial recognition technology has advanced at an explosive rate, expanding into numerous industries and trades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinelink.com/news/cruise-industry-compliance-tips-facial-482600",
-      "originalUrl": "https://www.marinelink.com/news/cruise-industry-compliance-tips-facial-482600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinelink.com/images/maritime/w800h600pad/pixelmania-adobe-stock-117413.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marinelink.com/amp/news/cruise-industry-compliance-tips-facial-482600",
-      "cdnAmpWebUrl": "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/cruise-industry-compliance-tips-facial-482600",
-      "publishedDateTime": "2020-10-21T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marine Link",
-        "domain": "marinelink.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -501,19 +510,19 @@
     {
       "path": "_news/2020-10-18-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic.md",
       "title": "WFH, online classes led to increase in Computer Vision Syndrome amid pandemic",
-      "excerpt": "The webinar was organised by Associated Chambers of Commerce and Industry of India as part of their ongoing series on health - 'Illness to Wellness'.",
+      "excerpt": "This dependence on gadgets has worsened during the COVID-19 pandemic and led to increased incidents of Computer Vision Syndrome (CVS) or digital eye strain, experts warned during a webinar conducted on 'Eye health care and online practices during COVID-19'.",
       "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/lifestyle/wfh-online-classes-led-increase-computer-vision-syndrome-amid-pandemic-1502930190.html",
-      "originalUrl": "https://www.thestatesman.com/lifestyle/wfh-online-classes-led-increase-computer-vision-syndrome-amid-pandemic-1502930190.html",
+      "webUrl": "https://www.indiatvnews.com/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
+      "originalUrl": "https://www.indiatvnews.com/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2020/10/QT-Computer-Vision-Syndrome.jpg",
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/pjimage-20-1603038304.jpg",
           "width": 1200,
-          "height": 800,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -521,13 +530,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/lifestyle/wfh-online-classes-led-increase-computer-vision-syndrome-amid-pandemic-1502930190.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/lifestyle/wfh-online-classes-led-increase-computer-vision-syndrome-amid-pandemic-1502930190.html/amp",
-      "publishedDateTime": "2020-10-18T02:23:00-07:00",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
+      "publishedDateTime": "2020-10-18T09:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
+        "name": "India TV",
+        "domain": "indiatvnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1409,10 +1418,10 @@
     {
       "path": "_news/2020-10-09-computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19.md",
       "title": "Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19",
-      "excerpt": "New York, Oct. 08, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 ...",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net New York, Oct. 08, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Computer Vision Market ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/g17845162/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulat",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/g17845162/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulat",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1420,14 +1429,23 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17845162",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17845162",
-      "publishedDateTime": "2020-10-08T16:37:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T15:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
