@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-ai-diversity-online-learning-c
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 125
+published: true
 
 provider:
   name: Engadget
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s new AI model translates 100 languages — without going through English first"
-    excerpt: "Facebook has open-sourced the first AI model that can translate between any pair of 100 languages without first translating them to English."
-    publishedDateTime: 2020-10-20T10:52:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 98
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-20T102109.015-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Facebook's AI model can translate 100 languages without relying on English"
     excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
     publishedDateTime: 2020-10-21T14:18:00Z
@@ -78,54 +62,6 @@ related:
         width: 1170
         height: 780
         isCached: true
-  - title: "Facebook introduces first AI model to translate 100 languages without dependency on English"
-    excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
-    publishedDateTime: 2020-10-20T09:33:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-facebook-ai-translation-model-to-translate-100-languages-658421"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-facebook-ai-translation-model-to-translate-100-languages-658421"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-facebook-ai-translation-model-to-translate-100-languages-658421"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 64
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/facebook-translation-model-1603186388.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facebook Released a Software-Based Machine Learning for 100 Languages"
-    excerpt: "As per the news report on Monday, Facebook released software-based machine learning. The company said it was the first to be able to transform"
-    publishedDateTime: 2020-10-20T09:18:00Z
-    webUrl: "https://www.phoneworld.com.pk/facebook-released-a-software-based-machine-learning-for-100-languages/"
-    ampWebUrl: "https://www.phoneworld.com.pk/facebook-released-a-software-based-machine-learning-for-100-languages/amp/"
-    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/facebook-released-a-software-based-machine-learning-for-100-languages/amp/"
-    type: article
-    provider:
-      name: phoneworld.com.pk
-      domain: phoneworld.com.pk
-    quality: 59
-    images:
-      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2020/10/2020_06_02_96672_1591073444._large.jpg"
-        width: 1200
-        height: 620
-        isCached: true
-  - title: "Facebook Aims To Predict COVID-19 Spread By Using AI"
-    excerpt: "Facebook has published a paper giving a forecast of COVID-19 spread across the U.S using AI. The company posted the news claiming that its forecast has"
-    publishedDateTime: 2020-10-21T12:26:00Z
-    webUrl: "https://www.androidheadlines.com/2020/10/facebook-aims-predict-covid-19-ai.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/10/facebook-aims-predict-covid-19-ai.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/10/facebook-aims-predict-covid-19-ai.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/11/Facebook-Logo-Nov-15-2018-AH.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Will Facebook AI make better renewable energy storage?"
     excerpt: "The social media giant is working with Carnegie Mellon University to discover new “electrocatalysts.” Facebook and Carnegie Mellon University are partnerin"
     publishedDateTime: 2020-10-22T12:13:00Z
@@ -142,19 +78,19 @@ related:
         width: 879
         height: 455
         isCached: true
-  - title: "Facebook Says This Is the Culmination of Years of Work in Machine Translation"
-    excerpt: "Facebook introduces M2M-100, a neural machine translation model that avoids using English between source and target languages."
-    publishedDateTime: 2020-10-20T10:03:00Z
-    webUrl: "https://slator.com/machine-translation/facebook-says-this-is-the-culmination-of-years-of-work-in-machine-translation/"
+  - title: "Facebook Shares AI-Powered Forecasts of Covid-19 Spread at the County Level in the US"
+    excerpt: "Facebook AI published a paper extensively detailing the techniques ... be integrated into specific reports bound for the European Commission, which the EC’s research team will use to provide a more comprehensive understanding of global hotspots."
+    publishedDateTime: 2020-10-20T17:35:00Z
+    webUrl: "https://www.adweek.com/digital/facebook-shares-ai-powered-forecasts-of-covid-19-spread-at-the-county-level-in-the-us/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 38
+      name: Adweek
+      domain: adweek.com
+    quality: 32
     images:
-      - url: "https://slator.com/assets/2020/10/Facebook-Announces-Breakthrough-in-Machine-Translation-for-Low-Resource-Languages.png"
+      - url: "https://www.adweek.com/wp-content/uploads/2020/10/FaceboookAICovid19ProjectionUS-600x315.jpg"
         width: 600
-        height: 400
+        height: 315
         isCached: true
 
 secured: "d6yHq9q9wLCcniPI7dGkOgSDBYuGHutX192wVNP+QFfbFEKEgGeYu7CsVJBfiq7u4hVYqTnvSQJ/KBQfvXGKlpJ0bWz8sohvPj34vCT97GU5IC3PyPy5IzgcfE+sgc+GiwqrJbVLJcb/qrme6fA1sVLe6q9uN8JI63r2oCaaanNVViJC0xOH1Oh8ws+jS2Z+XCJlxUFR66Q+codVc82ADtWxaDAwng+sFBwKAPOf1XSEmMMTo29/TvZk4R1diKfn3DDPzywAcCjQbGwmTsDe0QHxE9Qp36TsiFjFCc4clLdyfXaD20aGNhm1IvdIKM5JHKiXiRrgxqRXnHD9OQE+nL1Pzz1rA2YGKGI0v1NyzxcKfkTHFQcGjw2yU4fAiFKjrw1CmXRS5IClQXQF1BmsFiCla5fDEJNhIv7ZMr5YhrdefMXjv9OomdnS/hgY2O/hNUVwircbnRBztqQ9q1UcrouRXf8n9VJ8l2B6JRjE9LD3rXaCzE1jtwjPyWmFfvBzzH4EK8YldHodeAVL+O8hJw==;J75sCB7IGj6I+EabTUow/g=="

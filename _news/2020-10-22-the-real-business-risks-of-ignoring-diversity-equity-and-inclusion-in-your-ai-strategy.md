@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignori
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 678
     isCached: true
-
-related:
-  - title: "Artificial intelligence in recruitment will boost diversity and ultimately – innovation"
-    excerpt: "Innovation is a lodestar term used to help companies advance unscathed and resilient from the current economic and social uncertainties."
-    publishedDateTime: 2020-10-20T11:02:00Z
-    webUrl: "https://www.thehrdirector.com/artificial-intelligence-in-recruitment-will-boost-diversity-and-ultimately-innovation/"
-    type: article
-    provider:
-      name: theHRDIRECTOR
-      domain: thehrdirector.com
-    quality: 29
-    images:
-      - url: "https://www.thehrdirector.com/wp-content/uploads/2018/02/Blog.jpg"
-        width: 840
-        height: 450
-        isCached: true
 
 secured: "LKHtvnkbEIL4NUT/fw5gZ+Mkg2ka3GY+vra/vc24j6KzWIqJ5JnvnqMzVUmuRQ4Wd6JIaIwhrqapaE9iJ4JNbz6mqAC9O17tYFnWzxm7oHQtj2x9GB+S2PrcEHacEBnRI5iTrYuZvw/dIT2pUq/+SOSbqitNeoHA07rgK9kjx0pkdWUykzqeL8K4V+UpXY8bggsXmdXCMZnR0SsIObt9qjdWaImRB7HpJ1Wi0tQea9G344XgdbHQRyz8Bl/RtmMh0ZK4ablLs5Kd9g89LSHfgs+IfN5m+sfOLIy+Fv+G7uFIIlZ1cJUzaAU1zj/sPA5joGS+mVPTKjNLK+MSGvnIwoHTWA7FcZrMPyhwxH5xwCo3OwRSvX71FEGYkBu7VoMSPlA+/4HbZbdJPfdwnNgCmj05BLYPF4jMRzMlY6VgYUfztIl1QEENSb23XMnwKeveBbWtWjXfPFq50NPVX78DgO5C0dRwaz1wviikQ1SDFXe94X/ObzVXo1DOntrbqCXOjzFfXRWuc5xw9G1LBlJ/lg==;3RPS7V4LJcLrnlQ64JNHeg=="
 ---

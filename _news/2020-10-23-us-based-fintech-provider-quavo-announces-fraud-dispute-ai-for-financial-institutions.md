@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-pr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/amp/"
 type: article
 quality: 50
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "FinHub 973 launches to boost fintech sector in Mena"
-    excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
-    publishedDateTime: 2020-10-20T10:32:00Z
-    webUrl: "https://www.wamda.com/en/2020/10/finhub-973-launches-boost-fintech-sector-middle-east"
-    type: article
-    provider:
-      name: wamda.com
-      domain: wamda.com
-    quality: 24
-    images:
-      - url: "https://wamda-prod.s3.amazonaws.com/feature-images/8348f78df8d25ad.jpg"
-        width: 1584
-        height: 1387
         isCached: true
   - title: "Top 5 FinTech announcements from mid-October 2020 for the UAE"
     excerpt: "As the UAE aspires to position itself as the world’s leading technology hub, Dubai has set its eyes on disruptive FinTech start-ups to achieve its goals."

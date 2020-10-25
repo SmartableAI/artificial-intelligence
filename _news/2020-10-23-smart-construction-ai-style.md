@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "These homegrown startups are using AI and ML to change the rules of the game"
-    excerpt: "A report by industry body Nasscom noted that Data and AI can add $450-500 billion to India's GDP by 2025, representing about 10 percent of the $5 trillion economy aspiration of the Indian government."
-    publishedDateTime: 2020-10-20T09:26:00Z
-    webUrl: "https://yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game"
-    ampWebUrl: "https://yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/homegrown-startups-ai-ml-rules-game/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 71
-    images:
-      - url: "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Imaget6eq-1603185127719.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Attention EU regulators: we need more than AI “ethics” to keep us safe"
     excerpt: "In this post, Access Now and European Digital Rights (EDRi) analyse recent developments in the EU AI debate and explain why we need a bold, bright-line"
     publishedDateTime: 2020-10-21T00:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/women-increasingly-entering-data-science-art
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/amp/"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Additional data, advanced analytics improve performance of machine learning referral app."
-    excerpt: "Research team affiliations include Regenstrief, IU Fairbanks School of Public Health at IUPUI, IU School of Medicine and Eskenazi Health."
-    publishedDateTime: 2020-10-20T10:29:00Z
-    webUrl: "https://infosurhoy.com/news-summary/additional-data-advanced-analytics-improve-performance-of-machine-learning-referral-app/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 10
 
 secured: "9SgYWLIu0EtnUZeBPRI7urzFRJ8V3TyUdzBTO9OZBHGpdnFf4XrQNOkJqeHXiZxlFCibbM3F8Jn6PVpkhq3q4YrBiFBViQyGc/+VdYyscNKDH5Ylg12Cu90G/wd+w2NvnTYzMU1igqTF7YTSkRDE87yJqLOG1woQy5SL85wW/b18POGr5H6y5uYBM77mYzwvHeyHTltRDUvM7ixWOdh69TpdfAFfFbvvtvhFxHbOcMgYtDjhfBVXwP1c0St4VDYWte/dWXMgfj+IvQEaV/cf5MBfRAofsgmzuZHJGf+to+PgOtIv0WRVU+fPfImLUlsFHzuc55lIgVE9zJohHsKAoWZE92esMRXUs2kiwEAJ5fAJrrXClv3tvunyapk2uXTnBFB1TmH9O0BvEAgx+Kq448fgsalotLVBAB0NkDeWAao+RxaPfhRIGj/Z/M/n766gh2vrRsOpBrSFVFdOyyMZdVw60YOfBg6TzJtdjwfcFtMt4Jwcw+wLfwzlH2Xvs9N3kLXdwENNrm81wsulQhRRsQ==;gOyhNGJY/qrO/qUzZ7SvJQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/amp/"
 type: article
 quality: 79
-heat: 81
+heat: 82
 published: true
 
 provider:

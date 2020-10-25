@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Saudis Launch National Artificial Intelligence Strategy"
-excerpt: "Speaking at the opening of the kingdom's Global AI Summit, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) - which will spearhead the NSDAI strategy - sai"
-publishedDateTime: 2020-10-23T00:33:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy"
-webUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy"
-ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp"
+title: "AI plan points to Saudi Arabia's global ambitions, future beyond oil"
+excerpt: "Saudi Arabia’s national AI strategy aims to not only fuel deployment of new technology and economic opportunities, but to elevate the nation’s geopolitical status."
+publishedDateTime: 2020-10-25T02:17:00Z
+originalUrl: "https://www.cio.com/article/3587231/ai-plan-is-key-to-saudi-arabias-global-ambitions-and-future-beyond-oil.html"
+webUrl: "https://www.cio.com/article/3587231/ai-plan-is-key-to-saudi-arabias-global-ambitions-and-future-beyond-oil.html"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CIO
+  domain: cio.com
 
 topics:
   - AI
+
+images:
+  - url: "https://images.idgesg.net/images/article/2019/06/cio_middle_east_saudi_arabia_riyadh_cityscape_kingdom_tower_by_swisshippo_gettyimages-185927876_2400x1600-100800152-large.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Saudi launches national artificial intelligence strategy"
@@ -110,6 +110,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
+  - title: "Saudis Launch National Artificial Intelligence Strategy"
+    excerpt: "Speaking at the opening of the kingdom's Global AI Summit, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) - which will spearhead the NSDAI strategy - sai"
+    publishedDateTime: 2020-10-23T00:33:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
   - title: "Saudi Arabia launches national artificial intelligence strategy"
     excerpt: "Saudi Arabia launched a national strategy on Wednesday to become a global leader in artificial intelligence (AI) by 2030, Saudi Press Agency reported."
     publishedDateTime: 2020-10-21T19:22:00Z
@@ -124,21 +135,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI plan points to Saudi Arabia's global ambitions, future beyond oil"
-    excerpt: "Saudi Arabia’s national AI strategy aims to not only fuel deployment of new technology and economic opportunities, but to elevate the nation’s geopolitical status."
-    publishedDateTime: 2020-10-25T02:17:00Z
-    webUrl: "https://www.cio.com/article/3587231/ai-plan-is-key-to-saudi-arabias-global-ambitions-and-future-beyond-oil.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/06/cio_middle_east_saudi_arabia_riyadh_cityscape_kingdom_tower_by_swisshippo_gettyimages-185927876_2400x1600-100800152-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "HwykZPSv1BOem71uq3aA3+wtASkFKqy5+WqJ2FBcy2pr5xU8fX+xft4P3hXHloz1zbFiGMh9tQTtmSTOCSzIbHdiT6hdzzIGR2LeGowDJw9CkFUdwuExEv5P6HSFh5/+IgaSX9YAZ0zlxrSNRSBmx/YWaTnT5CxJksH0HfCu8ycHPGCd+efARQaC4D6mwQYToLd1Aqh4uYNegjNwCLLW4nWqD9+7Q6sLBwWOVSiH0EPz7orKSSh1NNF3D2O7OE0XyjcD3nNTSnJ8KQRZNnLHzzyYCXh1SS5g2+ugKJbGvIq+GOdhfhpWzzZuYNifqaY1wBjBIg0dXzrmNPpqSPrcqUAnXN6sTmT/4AHcvbtjEPgRiqXjLa5f+70JV7hTeWFwlDrKBpDkrBXnsNYmRCGSXGbQ3wQ59JC8NrmgBiJ0n/TR8sNQ6wcAIANIxVcItYFwbiNkbr6WqjFKYQzWkZARR0L5ZvwSG1rrRCf03cW2MOxrnduqR9+tbEyzG1CexEZEyXF1v1FttPd5ZqHvpDvPkg==;KWWXEvvCvepEezbyO8v8zg=="
+secured: "bjjA33POxUvys+6tLpDn1CduvAqq/y1R5mrrkUPA2uhR7huhgL6DEwMSkF5MaazJLxNo2zBk342rou5sXX8WWSHbPS9yDO+7/o53eDENjlEDzpSmvOwj6KafH7ugtSsmfvFtC/iDL7mPl/7SWpVEtsdSan7VaDHYhoHm3t3H7xiq9G1YJIi/D2+OLfdbKQ1B2hvOWv14o7Ac93XAlwBYnJF0tdq86sPC5lnIY0RBz3o4LulaZM3SQ7YexMUkLJyZZCESoszasypLNbzq4CSdQm9KH6S6bAXEFDtv0Tnn8HeYgy9ztwx4NVMOtfk6s6bwKQa9h0Pp2AfnAw2et8+6qDDg5cxKDLqVR8cvTreFuRM=;PewV0dmI/anJHsBGd2OJ2Q=="
 ---
 

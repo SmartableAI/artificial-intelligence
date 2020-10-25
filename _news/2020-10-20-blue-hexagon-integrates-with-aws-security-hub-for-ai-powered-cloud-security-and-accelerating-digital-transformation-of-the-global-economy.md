@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20201020005384/en/Blue-Hexa
 webUrl: "https://www.businesswire.com/news/home/20201020005384/en/Blue-Hexagon-Integrates-with-AWS-Security-Hub-for-AI-powered-Cloud-Security-and-Accelerating-Digital-Transformation-of-the-Global-Economy"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -17,33 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "Artificial intelligence accelerating nation's industrial upgrade efforts"
-    excerpt: "CHEN XIAOGEN/FOR CHINA DAILY Artificial intelligence, the latest facet of information technology, has gained increasing momentum and been widely applied in various sectors with tremendous potential, thus becoming a driving force of scientific and technological development during China's 13th Five-Year Plan (2016-20) period."
-    publishedDateTime: 2020-10-20T10:06:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202010/20/WS5f8e4618a31024ad0ba7fc21.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 38
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202010/20/5f8e4618a31024adbd9af085.jpeg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "China: Artificial intelligence accelerating nation’s industrial upgrade efforts"
-    excerpt: "Artificial intelligence, the latest facet of information technology, has gained increasing momentum and been widely applied in various sectors with tremendous potential, thus becoming a driving force of scientific and technological development during China’s 13th Five-Year Plan (2016-20) period."
-    publishedDateTime: 2020-10-21T15:08:00Z
-    webUrl: "https://www.hellenicshippingnews.com/china-artificial-intelligence-accelerating-nations-industrial-upgrade-efforts/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/china-artificial-intelligence-accelerating-nations-industrial-upgrade-efforts/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/china-artificial-intelligence-accelerating-nations-industrial-upgrade-efforts/amp/"
-    type: article
-    provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 35
 
 secured: "rUhETSKIGuWcdFqXrAX9Obs0zG1U4XKABKPFVWlEWDa6WD9KeBS52oxFmpSyVHx2EQTrpKEwY/qy2+Z3HrkV/jcS34U/KoV3n2jqo2wqFPFpoCwiTPU8B7jSlpwHVT6kQ8KxYvn0aNtNgiHVhyjbv0GwVDnipvavGInbGZOUt3+UePCWCD4bHfFacHoU5JRoelfS+LJyKlPJuudCFFxr6ooNuW6Kc8H5h7DMgVoqfMa4nT7R0X3pFKvq0idjn4SG7sLXbWWE+TYHNDWmrWdb+ZAUL4vGROMIfqUDbG3s8TrKWAN+PPcxRebk5Nhz/YlZ5HxDkck92KO5yNb72YAOqWLDJS1ZUEVecoI2fj0XFok=;ss21CjcXCG6P3PMtORno1g=="
 ---

@@ -120,6 +120,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI plan points to Saudi Arabia's global ambitions, future beyond oil"
+    excerpt: "Saudi Arabia’s national AI strategy aims to not only fuel deployment of new technology and economic opportunities, but to elevate the nation’s geopolitical status."
+    publishedDateTime: 2020-10-25T02:17:00Z
+    webUrl: "https://www.cio.com/article/3587231/ai-plan-is-key-to-saudi-arabias-global-ambitions-and-future-beyond-oil.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/06/cio_middle_east_saudi_arabia_riyadh_cityscape_kingdom_tower_by_swisshippo_gettyimages-185927876_2400x1600-100800152-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "7ONHnuya+NwK8soEuuYok53uYYp0INhBMUOYZAWMlcNHtlMBZ01erQP7GumQuUOY4XT0yHBlrVHGOf5DcfXsDdbGQd6U6rXL4lur6wAVYDfJlOscLwPdiDoUIcWxkp8FzvCdmhnamBXEfMxQyiW5jgXG4wDR7IlbGUP+j/kPC3dATWULWfIdbAfSwQREJhSsWw7iiC7Iq1xkA5QgFhP0caJwih9ypJe8KMTlSwuFfQ4/zEBEMet0pus/pzQtepAWgHqNZQmYUgmlRZKDDqJahwc3FC0IKqKPU5xBG8sHPkGtdWzKZLyTmXE5PaS+O8XMaeMkXb3cUtkk4UoCdZA3SxoNeuFyvW5rBe19EbxqGnFw4mjyx329kIEc2p7dI2zeaQCvb304LkqtuLo9wBqakur6rDv5EVy6uqSfdblMesAvfkYZnsT4i56Nqe59OfdoWaxwZ0wD9heZ+B8+TGtRkC2+vgWyCpA2BcmvY8Ly9P2bE2pSC/I8ufgJzgAQFszJbaks8UC5rnNre0+xK/Y9GA==;FERQaedPkwgyjXCFVRE/kg=="
 ---

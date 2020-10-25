@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook unveils AI translator that can translate 100 languages"
-    excerpt: "Facebook has unveiled their AI machine learning translator for 100 languages."
-    publishedDateTime: 2020-10-20T10:42:00Z
-    webUrl: "https://www.newsoneplace.com/34307891911/ai-facebook-unveils"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 54
-    images:
-      - url: "https://www.femalefirst.co.uk/image-library/partners/bang/land/500/f/facebook-aW1hZ2VzMS8yMDIwLzEwLzIwLzE2MDMxOTAyNjhjcm9wcGVkMTU.jpg"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "NYt4/VTvBFSCJAp55Tm/kIIIibxFbRLUcvCK9rlvh1L1ANN9kYZXF6N3UcTnkI4YpZ3Fk0uxMFE1nkMdvACUvUvS5LL6u7YwEDYpd8nykHnhtl9v3a2TFf8iB3D4royyYnCuhyzJ8VRfjbZ/jCCHUumlc+QrOgm9Pc3FzPd40OqM+huZXeSkgXc4rvurnIUGpwNnKIWuxbLVS5e56LpT8kAY7Z2dqkJbyhtWfRX+z65zCrqlUOksPfK5V2cQxYYo0iIVfSP1JGOEU3uzxtaqpVy5dO15JQb8KxmdkRlaZ6f2Zn/9ylTv96ClVje14P5HXp/q/BhtvFTijizZm0zelEbXdd36tx439ZuMLkaJ3ERx4a0MlpTxrvZ2wMtt8CjeJSfMd3spfxU81DOCcdvwOu1RFBWioMsIKN0QuJ7wmICg4zj8rYbkIWP/Kg6dEs7qHY2qyuIcrdFkFEVtfADmDBm+RUxMBvJ6o3HijntbqLPq7/uon2sUvGGyQcAR7xckVCeNWUZxqZpK/AhcPD+dkQ==;aOAwrThrISl8PXach2M61w=="
 ---

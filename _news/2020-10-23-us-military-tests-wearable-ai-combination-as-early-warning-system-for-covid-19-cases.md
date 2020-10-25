@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/us-military-tests-we
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/"
 type: article
 quality: 59
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://www.wftv.com/resizer/fZky0k75pByk2OQIsyJnkKAPfcA=/1200x628/d1hfln2sfez66z.cloudfront.net/10-23-2020/t_79d926331a8640389e88bd20fced70aa_name_REAX_UCF_ART_INTEL_DETECT_COVID_transfer_frame_851.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Facebook Shares AI-Powered Forecasts of Covid-19 Spread at the County Level in the US"
-    excerpt: "Facebook AI published a paper extensively detailing the techniques ... be integrated into specific reports bound for the European Commission, which the EC’s research team will use to provide a more comprehensive understanding of global hotspots."
-    publishedDateTime: 2020-10-20T17:35:00Z
-    webUrl: "https://www.adweek.com/digital/facebook-shares-ai-powered-forecasts-of-covid-19-spread-at-the-county-level-in-the-us/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 32
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/10/FaceboookAICovid19ProjectionUS-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "zYm/UIqtrMviKg9Wdcb8Mbh0U06jWcYRikqk93tP0cxiLxZo4DM2SiSTcjZRGsudPNL8rus51jt/wcPS6OUxaRcuX5881dZajVQ+grklVMZc/h1LGLLkOHR5fbAOEHXrFrN0RZB1OsMbvQidIJwBeF5kpo6J0rhhxlyHGMSLci5XGof8Mk1X+lT4JBCpRoDf6P9ilF/2SNlTprwZ9byVDAYtF/AHIFkF4lHwE2z+gGluJWmfe5vMmTgVTaIgtjAzCWrxOyUnm9lApaIWk/ZhcwrK/+MwEn4T3en+MQpdihpQ2Aoifj7D40XxplD12m58GUWvWXQbJ+v5pMam26OpjLLELPzikMGpwiIzjuGfLZNfhVL1umACWuVfoVsYNooKwNKtG/ydyspr2YvDaLFIC5TLDS1FFJQt8TGLqIWLr6zPGcAgGPQjeJPsXR9FO8KILQGWac34ykfQWw14jCcY2itWC0v8LmT9YOnpIIk96d7fYsQl+OrmShsQ7LegGbZiAXI/4mSQck/bmD7RpXX9Aw==;DSnnOqn38wr+38ItUnpZ9Q=="

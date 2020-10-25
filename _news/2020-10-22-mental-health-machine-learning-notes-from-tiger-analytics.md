@@ -55,15 +55,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Additional data, advanced analytics improve performance of machine learning referral app."
-    excerpt: "Research team affiliations include Regenstrief, IU Fairbanks School of Public Health at IUPUI, IU School of Medicine and Eskenazi Health."
-    publishedDateTime: 2020-10-20T10:29:00Z
-    webUrl: "https://infosurhoy.com/news-summary/additional-data-advanced-analytics-improve-performance-of-machine-learning-referral-app/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 10
 
 secured: "Ix2vXOmrbGz5RQqDhyTVbB9BgNPNkcStDSyWuysUln+k9i+ii0ffaR1v4G4qxf2GEIPZwNsVmqCqhbtq8NyzsGG+3huJ2zhaMWfOppyQQqVoPuwuQyX3Bp1wDUPEJiQFEsFsJRVSvjQU5knNdEBBZnTKHc1bSztHdBXy+lz7rAPMnYuikcUz2qMIgF6dqL+h73YG3E6m7z4dID1ZlOpiI9y++F8Ncvl7sPLSJVkFPX+BcrySITqftF/btH+Au+LSDfH8XF1Lkiy2oS8tiwolCB/Dkx6B6T5Q7LG00IEGkdE9q/BtPjw2hfUC6hSG/UkKsp1qBhkPT9pHr0AK/w+0deOGElq1QpayCvGA6NSrz0U=;2Q4m8qky9Ks/zM432bkMxA=="
 ---

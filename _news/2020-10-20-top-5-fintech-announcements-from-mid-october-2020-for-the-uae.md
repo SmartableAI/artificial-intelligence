@@ -94,20 +94,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "FinHub 973 launches to boost fintech sector in Mena"
-    excerpt: "The Central Bank of Bahrain (CBB) launched today FinHub 973, the first of its kind virtual fintech platform in the region, in"
-    publishedDateTime: 2020-10-20T10:32:00Z
-    webUrl: "https://www.wamda.com/en/2020/10/finhub-973-launches-boost-fintech-sector-middle-east"
-    type: article
-    provider:
-      name: wamda.com
-      domain: wamda.com
-    quality: 24
-    images:
-      - url: "https://wamda-prod.s3.amazonaws.com/feature-images/8348f78df8d25ad.jpg"
-        width: 1584
-        height: 1387
-        isCached: true
   - title: "Amit Aghara Joins Fintech as Chief Technology Officer"
     excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (Fintech), the leading business solutions provider for the beverage alcohol industry, today announced that Amit Aghara has been appointed to the position of Chief Technology Officer (CTO)."
     publishedDateTime: 2020-10-22T13:30:00Z

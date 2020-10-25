@@ -27,131 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s new AI model translates 100 languages — without going through English first"
-    excerpt: "Facebook has open-sourced the first AI model that can translate between any pair of 100 languages without first translating them to English."
-    publishedDateTime: 2020-10-20T10:52:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/"
+  - title: "Oil Rigs Run on AI ‘Twins’ Point to a Future Hastened by Covid"
+    excerpt: "The coronavirus crisis had a devastating effect on oil-company revenues, but it’s posed a tough human-resources problem too: how to keep workers safe on cramped rigs at sea where social-distancing is impossible."
+    publishedDateTime: 2020-10-23T23:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 98
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 87
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-20T102109.015-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJQhjkdbxF9g/v0/360x-1.jpg"
+        width: 360
+        height: 236
         isCached: true
-  - title: "Facebook's AI team expands post-grad courses for Black and Latinx students"
-    excerpt: "Facebook says that it will expand an online course in deep learning to more students to help improve the diversity of its AI division. After a successful pilot program at Georgia Tech, the company will roll out this graduate-level course in deep learning to more colleges across 2021."
-    publishedDateTime: 2020-10-22T12:06:00Z
-    webUrl: "https://www.engadget.com/facebook-ai-diversity-online-learning-course-120044903.html"
-    ampWebUrl: "https://www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html"
+  - title: "Oil Rigs Run on AI 'Twins' Point to a Future Hastened by Covid"
+    excerpt: "These interactive 3D simulations of oil platforms and plants allow engineers to avoid toiling for weeks in the sweaty, close confines of a wind-battered rig, instead gaining virtual access from home."
+    publishedDateTime: 2020-10-24T17:38:00Z
+    webUrl: "https://www.chron.com/business/article/Oil-Rigs-Run-on-AI-Twins-Point-to-a-Future-15671367.php"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 85
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F39769420-144a-11eb-bfe1-45e43ea856dd&client=amp-blogside-v2&signature=8fd4a9f5ed17636cd9fdd3c52513267131ac292d"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Facebook's AI model can translate 100 languages without relying on English"
-    excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
-    publishedDateTime: 2020-10-21T14:18:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/facebooks-ai-model-can-translate-100-languages-without-relying-on-english/article32910047.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebooks-ai-model-can-translate-100-languages-without-relying-on-english/article32910047.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebooks-ai-model-can-translate-100-languages-without-relying-on-english/article32910047.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 72
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/xsr33x/article32910053.ece/ALTERNATES/LANDSCAPE_615/facebook-reutersjpg"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Facebook Creates the First AI That Can Translate 100 Languages Without Using English"
-    excerpt: "Facebook has created the world’s first artificial intelligence model capable of translating 100 different languages without relying on the use of English at all. According to the tech giant, most translation models currently being used rely heavily on English when performing translations."
-    publishedDateTime: 2020-10-22T06:31:00Z
-    webUrl: "https://hypebeast.com/2020/10/facebook-multilingual-machine-translation-artifical-intelligence-model"
-    ampWebUrl: "https://hypebeast.com/2020/10/facebook-multilingual-machine-translation-artifical-intelligence-model?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/10/facebook-multilingual-machine-translation-artifical-intelligence-model?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 67
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F10%2Ffacebook-multilingual-machine-translation-artifical-intelligence-model-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1170
-        height: 780
-        isCached: true
-  - title: "Facebook introduces first AI model to translate 100 languages without dependency on English"
-    excerpt: "For years, AI researchers have been working toward building a single universal model that can understand all languages across different tasks."
-    publishedDateTime: 2020-10-20T09:33:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-facebook-ai-translation-model-to-translate-100-languages-658421"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-facebook-ai-translation-model-to-translate-100-languages-658421"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-facebook-ai-translation-model-to-translate-100-languages-658421"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 64
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/facebook-translation-model-1603186388.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facebook Released a Software-Based Machine Learning for 100 Languages"
-    excerpt: "As per the news report on Monday, Facebook released software-based machine learning. The company said it was the first to be able to transform"
-    publishedDateTime: 2020-10-20T09:18:00Z
-    webUrl: "https://www.phoneworld.com.pk/facebook-released-a-software-based-machine-learning-for-100-languages/"
-    ampWebUrl: "https://www.phoneworld.com.pk/facebook-released-a-software-based-machine-learning-for-100-languages/amp/"
-    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/facebook-released-a-software-based-machine-learning-for-100-languages/amp/"
-    type: article
-    provider:
-      name: phoneworld.com.pk
-      domain: phoneworld.com.pk
-    quality: 59
-    images:
-      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2020/10/2020_06_02_96672_1591073444._large.jpg"
-        width: 1200
-        height: 620
-        isCached: true
-  - title: "Will Facebook AI make better renewable energy storage?"
-    excerpt: "The social media giant is working with Carnegie Mellon University to discover new “electrocatalysts.” Facebook and Carnegie Mellon University are partnerin"
-    publishedDateTime: 2020-10-22T12:13:00Z
-    webUrl: "https://www.hydrogenfuelnews.com/will-facebook-ai-make-better-renewable-energy-storage/8540751/"
-    ampWebUrl: "https://www.hydrogenfuelnews.com/will-facebook-ai-make-better-renewable-energy-storage/8540751/amp/"
-    cdnAmpWebUrl: "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/will-facebook-ai-make-better-renewable-energy-storage/8540751/amp/"
-    type: article
-    provider:
-      name: Hydrogen Fuel News
-      domain: hydrogenfuelnews.com
-    quality: 59
-    images:
-      - url: "http://www.hydrogenfuelnews.com/wp-content/uploads/2020/10/Renewable-energy-storage-Facebook-sign.jpg"
-        width: 879
-        height: 455
-        isCached: true
-  - title: "Facebook Says This Is the Culmination of Years of Work in Machine Translation"
-    excerpt: "Facebook introduces M2M-100, a neural machine translation model that avoids using English between source and target languages."
-    publishedDateTime: 2020-10-20T10:03:00Z
-    webUrl: "https://slator.com/machine-translation/facebook-says-this-is-the-culmination-of-years-of-work-in-machine-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 38
-    images:
-      - url: "https://slator.com/assets/2020/10/Facebook-Announces-Breakthrough-in-Machine-Translation-for-Low-Resource-Languages.png"
-        width: 600
-        height: 400
+      - url: "https://s.hdnux.com/photos/77/52/77/16691139/3/rawImage.jpg"
+        width: 500
+        height: 343
         isCached: true
 
 secured: "vi69gJNsQBQWSk0tBMw+2CSmGL983RO8UljdJeDePYhAlX65fly64rimabB8FyvgdmsXolF7jsVmIz1H+55YzSCwyvdfpti1ZIGga7AWLe1sLYKfNyLtwf7bO4RjFZabncEYyDrsaeM7w5BJSpza3KwcRmy8aRNQvNKT+G13blzTQrtqxmWQm95Zsqq1AXF6kskOctaTslge+Ac13fRLSQrmMS7CI/9+lWEKjEsVOqHKDidXBgU008RScx0qCWphPSGd9UC+YjJEbH6f5hvHMwQrZjUJjq9QlTwU0VouG1dwJWtYJdBBZpX3jx11CSAL2IOvlAXXbSdKqw3nIPaerxV74los7HkAO75mz50zc0tJZW4NVFGDiOnyo/mEc5CJlkpHuC35yleHNtYj83ZBvHDhutsWyiH6MnUOuCW1sjzEGCoVR1czsS8EbV1t6ihawZYlB99/5l3zwJBVT+vpXYgB6bIF+L91GwkTw6E+Q1whPAL0yKE4Xf4F3LHIBeYuAJ47N3Vu8g8170xuNmlKlw==;dK7qGazJnuhjcHoHo2h7KQ=="
