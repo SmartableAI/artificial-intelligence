@@ -8,9 +8,9 @@ webUrl: "https://www.zdnet.com/article/australian-and-korean-researchers-warn-of
 ampWebUrl: "https://www.zdnet.com/google-amp/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/"
 type: article
-quality: 65
-heat: 65
-published: false
+quality: 102
+heat: 102
+published: true
 
 provider:
   name: ZDNet
@@ -22,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI in Security
 
-secured: "HDDlwtQmQs+ueccwPP6vERLFve+c3AD0m8gf2hky2V+5gfkZ89R8qFqAm+jisCngDRKTZQjhwkssicSn7jfoFaXfZrxe+XnIov9SK7VmCi10Q6UdM/UW2v1XmOp8NpYgiS8Ec+Ncx6izwlrslv7FrYF5RszwPyp6rgrhMzXWr57TYfji0sAoqUqPUAf+vHbEy2YCM2m+k0U26icAmqH3A7JPKoWvz1eK0HzxyRKLF9/E+G71+YLMsqVkaqEY/XFpcdLOWIRfKZUVe4WHgcqPu2atzoSya/S82vtcxQZG8h5RfUJo+t5Cu8pUVAOZwxh+lTSkUfuxkHHcoLmqQTAAMgxTKiKm/UNkMKdmohqDq+jmOIgzBR5BJnaoERTuauo/tFds0tO14MVybkwEk21oGrVOzIw6IOWBe1IhW3kVon6YkGOq56yh66JwkrF5i89Dfj5+EGrzO+y0rM787qR9hXIoWyn5AXUqpo7kN7Cx8i6pONwjI06hXjbY/H5HwnXqHm/qwxnfputrDMsL065bBg==;MyB0z3IbfryLneKEotyS2w=="
+images:
+  - url: "https://zdnet1.cbsistatic.com/hub/i/2019/11/01/eb254cf0-d63d-44bd-ac1e-6a56df4123b8/istock-1160977168.jpg"
+    width: 1254
+    height: 836
+    isCached: true
+
+secured: "8S+Y42VnwE4qjKVnCQXSH/eJiXV5sDzg9HAJ8hRyCI/h3BcAIRgKJpvZY83gTY9ErKMekduJaAQ4cXtGrP07/ZcBqnMT2xXkCyrFnaf6NLoIAWCVOsy4ukWq9+0zDv/V/iHzmlI6Z4/RPFJnhyI3oSlfswRRRfNj+GLfyF8fSs6gpWJrSIcZ7gmJ7X0A/L2WTbiftsN2toN9eBVpdOI9EarIe+pJzYsScPLSwv8l1m++l38Tz2ipbKIJFkdwW4vQrcPzTU26NPtO9Wu8vYJ5QO9yYIiGynWyuG7pjxpgpaBJLt63aotpNufnFhyf7H27CrzAoIKbHc2BMJ5r/lqwr+kV2vWqOUxqxeL/OIU5ewc=;vuiQEZC33PQAc0ExHKq2qg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/mit-invents-ai-decipher-ancient-languages/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mit-invents-ai-decipher-ancient-languages/amp"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "MIT CSAIL’s AI revives dead languages it hasn’t seen before"
-    excerpt: "Unfortunately, most lost languages have such minimal records that scientists can’t decipher them by using conventional machine-translation ... the only ones to apply AI to recovering long ..."
-    publishedDateTime: 2020-10-21T04:00:00Z
-    webUrl: "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/"
-    ampWebUrl: "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/10/3dadbcae-4130-40d1-ba13-35a874b8ab40-e1602808234308.png?w=1200&strip=all"
-        width: 1156
-        height: 601
-        isCached: true
 
 secured: "OiDnZZPWY2MlPTYdQj8AH5WnsMaqYHQKnpa3oT1JL1exWGrTwgfFD6JUzowL6bLN/91yTlLKm/4UUx3gSrK4jHQIu4ExomKT596bdNjKoNeSqqRTNhobitV/tfevx+x4RsegHT3/YN59mRc+329OXgEBu0vcFx57J7tuZxWdiDWnSmXwREsrwF+iggFyfp56NlZQB4FuiQm+aVVqXabl5BE+qpKXQtzq6q9DGp0HhC0/pP1r9E7CWSMsGBHk7lnA4hy323l7abchOSUAg3bcjlJ1Fx3Os4wQyUNhceUBVmoA/JQNnMJTI6uStAYYu4sGhl4yuz+kgHZ1n3C6peRZMNWmfAASAN35mSO7fSh/cWdjcGQ1DwJ/vF3tpeipMFNZgSUV9AeDnLPrinFtLezJgF4KtOOQBDeWVK9p6CXg8PtD5JSbdwA5kRNnygRI3xOdJNlNKTOxb5NLvkU00f35bbiWp4G9hWRSCUVAZ4ssJXro/dVfkzkX/dqnwgM5d5gPsiaLiA2wAXsjOF81+1UR7w==;ttmT5olNV31nXfa1Z+PatQ=="
 ---

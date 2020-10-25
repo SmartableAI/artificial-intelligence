@@ -59,6 +59,22 @@ related:
         width: 1194
         height: 776
         isCached: true
+  - title: "Dubai set to introduce facial recognition system on public transport"
+    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
+    publishedDateTime: 2020-10-25T20:26:00Z
+    webUrl: "https://www.business-standard.com/article/international/dubai-set-to-introduce-facial-recognition-system-on-public-transport-120102600046_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/dubai-set-to-introduce-facial-recognition-system-on-public-transport-120102600046_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/dubai-set-to-introduce-facial-recognition-system-on-public-transport-120102600046_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/26/full/1593115870-6713.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "CBSE Introduces Facial Recognition For Accessing Classes 10, 12 Documents"
     excerpt: "Now, CBSE students will be able to download their digital documents from DigiLocker without using AADHAR and phone numbers."
     publishedDateTime: 2020-10-22T12:35:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-att
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/"
 type: article
-quality: 77
-heat: 77
+quality: 94
+heat: 94
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Security
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/20/a9df854c-3561-47b5-a0a9-2f5c5561293f/thumbnail/1200x675/b563155ab97df39b8f1189a8bbfb0ff9/20200820-daphne-karen-crimes.jpg"

@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google Artificial Intelligence Technology to Aid “Virtual Wall” on U.S.-Mexico Border"
+    excerpt: "The Intercept reports Google technology will be deployed to the U.S.-Mexico border to assist in border security enforcement. Customs and Border Protection reportedly agreed on a deal with Google in August to collaborate in a new so-called virtual border wall,"
+    publishedDateTime: 2020-10-23T14:12:00Z
+    webUrl: "https://www.democracynow.org/2020/10/23/headlines/google_artificial_intelligence_technology_to_aid_virtual_wall_on_us_mexico_border"
+    type: article
+    provider:
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 45
+    images:
+      - url: "https://www.democracynow.org/images/headlines/82/55082/full_hd/h10-google-artificial-intelligence-technology-aid-virtual-wall-us-mexico-border.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google AI Tech Will Be Used for Virtual Border Wall, CBP Contract Shows"
     excerpt: "Google Cloud will be used in conjunction with Anduril Industries’ surveillance tech on the U.S.-Mexico border."
     publishedDateTime: 2020-10-21T19:12:00Z

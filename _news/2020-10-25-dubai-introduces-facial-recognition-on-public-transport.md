@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.france24.com/en/live-news/20201025-dubai-introduces-faci
 cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20201025/ARTICLE/201029285/AR/0/AR-201029285.jpg&NCS_modified=20201025182405&exif=.jpg"
         width: 1194
         height: 776
+        isCached: true
+  - title: "Dubai set to introduce facial recognition system on public transport"
+    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
+    publishedDateTime: 2020-10-25T20:26:00Z
+    webUrl: "https://www.business-standard.com/article/international/dubai-set-to-introduce-facial-recognition-system-on-public-transport-120102600046_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/dubai-set-to-introduce-facial-recognition-system-on-public-transport-120102600046_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/dubai-set-to-introduce-facial-recognition-system-on-public-transport-120102600046_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/26/full/1593115870-6713.jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Dubai introduces facial recognition on public transport ahead of global Expo"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."

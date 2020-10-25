@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-06-artificial-intelligence-technology-solutions-announces-board-of-advisors.md",
+      "title": "Artificial Intelligence Technology Solutions Announces Board of Advisors",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce the formation of a Board of Advisors for its",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-board-of-advisors-1029648352",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-board-of-advisors-1029648352",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-board-of-advisors-1029648352",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-board-of-advisors-1029648352",
+      "publishedDateTime": "2020-10-05T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-nvidia-is-building-an-ai-supercomputer-for-healthcare-research-in-england.md",
       "title": "NVIDIA Is Building an AI Supercomputer for Healthcare Research in England",
       "excerpt": "Dubbed Cambridge-1, the system will give healthcare researchers access to impressive artificial intelligence (AI) tools. The $52 million Cambridge-1 will be installed at the university it's named after, and is scheduled to come online by the end of 2020.",

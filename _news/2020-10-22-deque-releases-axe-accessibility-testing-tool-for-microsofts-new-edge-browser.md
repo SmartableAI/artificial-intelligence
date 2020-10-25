@@ -76,20 +76,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 49
-  - title: "WeWALK joins Microsoft’s AI for Accessibility Programme Using artificial intelligence to change the lives of the visually impaired"
-    excerpt: "WeWALK, the smart cane designed for people who are blind or with low vision which is now in use across 37 markets, has joined Microsoft’s AI for Accessibility programme to accelerate WeWALK’s capability by developing and validating a human behaviour model for visually impaired users and creating a Voice Assistant designed for the visually impaired,"
-    publishedDateTime: 2020-10-21T04:46:00Z
-    webUrl: "https://www.globalbankingandfinance.com/wewalk-joins-microsofts-ai-for-accessibility-programme-using-artificial-intelligence-to-change-the-lives-of-the-visually-impaired/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 39
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-21T100603.990.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "UKSoOhaFxfvcZIFeHwxel/86A18E0rJGvRmjo12OCSxtppSsvCNPwObHWX2T+2J89K704xm7k4+N9IQKBQ9eiQ6pJI+8eyscHccSZ4C65gkK1fU5K2DLWXnMilTHvSs6I/iDTxVGvzgCoXls1rXlALhNn0MtB2ttGqUW5+M6LDgZa9s9KeMRMdjrezdULNQtG2SYcMXVPNjNbm6rlHAaCwYo4/Kw16mlQg/sigXas5VeYpj74BHuoupJ9n/Wb3BWsQIkWowD4xgK1dkIVFzoGwAEJDNwFzUaS9urfgn6ykv5WYcejFRpiXccXQbei4oo1T8h7FrZUQg/1waizJLGEXuHgwr4rAd899DDcz9Mk7A=;9a29tfFLPWEGQeu7sRb9jQ=="
 ---

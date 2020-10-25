@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-21-landing-ai-launches-product-inspection-platform-for-manufacturers.md",
+      "title": "Landing AI launches product inspection platform for manufacturers",
+      "excerpt": "and created the AI Startup fund to invest $175 million in AI startups. “I feel like this is where the field of AI needs to go: Rather than highly-skilled engineers at Landing AI or Google or ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/",
+      "originalUrl": "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/landinglens.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/amp/",
+      "publishedDateTime": "2020-10-21T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-activists-turn-facial-recognition-tools-against-the-police.md",
+      "title": "Activists Turn Facial Recognition Tools Against the Police",
+      "excerpt": "met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery; they would also prevent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/21/business/21coprecognition-01/21coprecognition-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html",
+      "publishedDateTime": "2020-10-21T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-if-the-future-of-skincare-is-ai-generated-serums-ill-pass.md",
       "title": "If the Future of Skincare Is AI-Generated Serums I'll Pass",
       "excerpt": "The beauty industry is hoping AI can fuel a new revolution. But so far its just watery gels I'm not sure actually work.",
@@ -112,7 +215,7 @@
       "originalUrl": "https://www.slashgear.com/machine-learning-helps-translate-lost-languages-21643696/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1148,108 +1251,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-stampli-an-invoice-management-software-startup-launches-a-payments-product.md",
-      "title": "Stampli, an invoice management software startup, launches a payments product",
-      "excerpt": "Stampli, a collaborative invoice management software company, introduced a payments product today called Stampli Direct Pay. The startup launched back in 2015 with a mission to simplify invoice management through collaboration (and a dash of AI).",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/20/stampli-an-invoice-management-software-startup-launches-a-payments-product/",
-      "originalUrl": "https://techcrunch.com/2020/10/20/stampli-an-invoice-management-software-startup-launches-a-payments-product/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Stampli-co-Founders-Ofer-Feldman-L-and-Eyal-FeldmanR.png?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/20/stampli-an-invoice-management-software-startup-launches-a-payments-product/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/stampli-an-invoice-management-software-startup-launches-a-payments-product/amp/",
-      "publishedDateTime": "2020-10-20T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-4iq-raises-30-million-for-ai-that-attacks-the-trade-in-stolen-digital-identities.md",
-      "title": "4iQ raises $30 million for AI that attacks the trade in stolen digital identities",
-      "excerpt": "Digital identity protection startup 4iQ today announced a $30 million round it will use to ramp up investments in its go-to-market activities.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/20/4iq-raises-30-million-for-ai-that-identifies-compromised-digital-identities/",
-      "originalUrl": "https://venturebeat.com/2020/10/20/4iq-raises-30-million-for-ai-that-identifies-compromised-digital-identities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1065824694-1-e1579193201293.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/20/4iq-raises-30-million-for-ai-that-identifies-compromised-digital-identities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/4iq-raises-30-million-for-ai-that-identifies-compromised-digital-identities/amp/",
-      "publishedDateTime": "2020-10-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

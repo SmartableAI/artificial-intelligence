@@ -516,22 +516,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla Rolls Out Full Self-Driving Beta Version, With A 'Slow' And 'Cautious' Approach"
-    excerpt: "Tesla Inc (NASDAQ: TSLA) CEO Elon Musk said that the automaker is rolling out the beta version of its full self-driving software, starting Tuesday night. What Happened: Musk tweeted that the rollout of the software will be “extremely slow [and] cautious ..."
-    publishedDateTime: 2020-10-21T03:30:00Z
-    webUrl: "https://www.benzinga.com/news/20/10/17988412/tesla-rolls-out-full-self-driving-beta-version-with-a-slow-and-cautious-approach"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17988412"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17988412"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/bram-van-oost-4xm5cytsdmo-unsplash_0.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Tesla Full-Self Driving Beta Rollout Starts, Is \"Slow & Cautious as It Should\""
     excerpt: "For almost a year now, Elon Musk has been promising Level 5 autonomy on Teslas by the end of 2020. We’re not there yet, but we’re getting closer."
     publishedDateTime: 2020-10-21T07:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/21/artificial-intelligence-and-the-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/artificial-intelligence-and-the-antitrust-case-against-google/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 784
     isCached: true
-
-related:
-  - title: "The US is taking on Google in a huge antitrust case. It could change the face of online search"
-    excerpt: "It's the biggest monopolisation case since a 1998 lawsuit against Microsoft. But it may be several years before a settlement of any kind is reached."
-    publishedDateTime: 2020-10-21T04:51:00Z
-    webUrl: "https://theconversation.com/the-us-is-taking-on-google-in-a-huge-antitrust-case-it-could-change-the-face-of-online-search-148519"
-    ampWebUrl: "https://theconversation.com/amp/the-us-is-taking-on-google-in-a-huge-antitrust-case-it-could-change-the-face-of-online-search-148519"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-us-is-taking-on-google-in-a-huge-antitrust-case-it-could-change-the-face-of-online-search-148519"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 32
-    images:
-      - url: "https://images.theconversation.com/files/364640/original/file-20201021-19-914cej.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
 
 secured: "Wd63JEJinkmaDBMsPUbt2RT56QseyQxAgjWmM0tjG9inq514n1jXATM1szt/nWhIb+ZWAM1cLcuUxR37+DRK+WoFxOvqpEpvad11/A4R2dJF967K2vQSsn+nOWWmelj3ZsI6fXDwzor1zy8lj5k2MJe3Gd9KHoIj4IMRzvj03+Rjvub2Lnaaj1GHJEr3a6N3AbwlJBrfjlg3HCsLrPEFtRZ4BMCSgfbhjN59NaDN0ROi04NkMMNtVLlGfc5fQoIbcs8SxcNL4GvzDdnfR+zpsuWqyBTqGhWt1AQ/jgZviThSlw+kIS8DY06cWB3fuPPDvdw7txohNdVMJvYCaZipEDaXjoCqKfSJI4SR57Cz26WH81CuNCVa4Juz4h3wzbPZBtNw18ACNtC9Ij1b/2HffdmytafhP7ebr7gB8B/oD21o/7bFVObRz/4i/LcvVi4tBp8TJv+55nS6EHEEz2tekP1ZUbRrjXOCkd9I2aNxDmXw9pYZXAOY36Re37SZg0FXIN5I3x2tq77Vt8l8YOQxkw==;QJhDJQsOe1znRE1N3Tyx6g=="
 ---

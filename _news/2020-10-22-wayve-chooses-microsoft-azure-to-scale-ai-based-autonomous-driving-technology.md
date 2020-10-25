@@ -72,20 +72,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 49
-  - title: "WeWALK joins Microsoft’s AI for Accessibility Programme Using artificial intelligence to change the lives of the visually impaired"
-    excerpt: "WeWALK, the smart cane designed for people who are blind or with low vision which is now in use across 37 markets, has joined Microsoft’s AI for Accessibility programme to accelerate WeWALK’s capability by developing and validating a human behaviour model for visually impaired users and creating a Voice Assistant designed for the visually impaired,"
-    publishedDateTime: 2020-10-21T04:46:00Z
-    webUrl: "https://www.globalbankingandfinance.com/wewalk-joins-microsofts-ai-for-accessibility-programme-using-artificial-intelligence-to-change-the-lives-of-the-visually-impaired/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 39
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-21T100603.990.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
     excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge"
     publishedDateTime: 2020-10-22T13:00:00Z
