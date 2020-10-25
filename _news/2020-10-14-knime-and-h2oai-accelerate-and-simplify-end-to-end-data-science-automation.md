@@ -14,14 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
-  - AI in Autos
 
-images:
-  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
-    width: 600
-    height: 300
-    isCached: true
-
-secured: "AIBO+fIWU23JcVGzU2H/R6YbShQaugJt5hTKSh7bKo2Mm1ix8+jI6tXOmYBHwCW/MCnwb+oT1/A4MmY5h24FM/rSMHwE6BzBSMH4SO+yKj886BhbR3DafQcfJs5KzZQ+Z6J4iIQsJYFSDQ2OMEfOjg0yXi/VhtdnquBNIKgXXtK6/6HBAQc5HktkeT0j87R96VvF1V5u9ReYAnKLt23aRtEI+XlXgcZEW5gnMbCtA0NN4Ey5N4OY6OoNrWf6HzvjNBGdT/rPuHI/uwkfk55f1DGhmyMhUeHF4P02xQ3otTf/V+ktVlPKxqF7Ag90pWZx3kI+nTNgFXrk2d3F+Vn0d32vVGEgYV3qvp++YjCDbC4=;M3qabXue8ElN51NST8jXtQ=="
+secured: "LyxLXQeQheuS6wssM+nRHvvuVLln+SASZE6dEcYWgK6vj774FyFyk6ElyTUhCpCti1OshxRRqi03r+d9i7fFDhKOO+WhD1OsXhKjo/GjCScsbh/6cAzBJ0o/eEhYi8vro8jmOPvbe+5A7iqaL5X8E4pSmg60gxmJ69uRH8tFkcOCirHw0m9rC2rUqLi1tbGzYs91mZdvRR5koP/IS02E78ZStj0rfvRqPO5nNC6KkQCzHfmcdb1/4vQ4pPqLK4eHtx4GELK7MDDjZRs8UshQ5BCesc9n41Df7YtYk2Pqez0j53vX4nUo81U4y6QBkSrHGGGvLrMxwVVtev7DRTyzk8ACcu00PkZupXHwICLhWq8=;qqkbO4LgsCvxzf/aLhOsJw=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2020/10/22/1011057/reasonable-robot-ry
 ampWebUrl: "https://www.technologyreview.com/2020/10/22/1011057/reasonable-robot-ryan-abobott-excerpt-tax-robots/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/22/1011057/reasonable-robot-ryan-abobott-excerpt-tax-robots/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/Tax-robots.jpg?w=3000"

@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-23T01:53:00Z
 originalUrl: "https://www.thecrimson.com/article/2020/10/23/harvard-ai-transparency/"
 webUrl: "https://www.thecrimson.com/article/2020/10/23/harvard-ai-transparency/"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2020/05/07/225745_1344501.jpg.2000x1333_q95_crop-smart_upscale.jpg"

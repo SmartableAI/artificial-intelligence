@@ -3,8 +3,8 @@ category: news
 title: "AI and machine learning: Powering the next-gen enterprise"
 excerpt: "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents."
 publishedDateTime: 2020-10-23T13:57:00Z
-originalUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/"
-webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/"
+originalUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268"
+webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268"
 type: article
 quality: 84
 heat: 84
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://assets.bbhub.io/professional/sites/10/347789615.jpg"
@@ -28,6 +28,6 @@ images:
     height: 1067
     isCached: true
 
-secured: "Fo4r1lbOZBCeDAwxG66Yw3a0ZPSV7YlGoxkyq0/jCmx3llN22fYrAJ3ORxS1Y3H5q/SiYIEtUMcG/ose4L7jSNK7xVlJO4b+JlfNSZXKv+5BG8uikEUIqFWOPUBvLgBd66FdpiVpg+aP55zhaHwiYPNJGjIkfis7qyG5SIXE/VGVo1Z2TwBKv3QSm71Y3Dpk6QtLNeIpneBudJMV/FvZz+ppkVsFhg6FrmdgHY8tIQ8evidwn9UHGp5mWuJWQKo/PQ41h9HSEAWkqVMp4Arf/QU6BL73jr97nkUkQLMKwPwBVnPfL2drN7S9PM8yM5nbdqJxzwOd+vDHHnwCV50ps/cFq/S9x4e/ZgrhCV7SYYgLhqMuZWa6fOvuVjOga8KwRC6fHr8HNRN9OA9qHAOzGkhMOl4U5LlogrLpbBa54ZQsaskd2xbxGOxsi9BqFwFBY9E1UPI8If39cJgEPNpgIKvATWtrCo77gBtYL0PrTRjWielVLObiTYZiI6QvZdY01k270+I6lBqGa+umkfGuOQ==;29TeMJz8ZFgeJ3+f+5svnQ=="
+secured: "4CX5kqPisjwH0XWDc5Pw+P5qnxc6cr2J2/IMVZ1TqjUK07qILZIG82fc8ILlJTXSyXgI7OsHHbC/ujEDjaB0ulZK70hUC0apJu38ZqRzqLttv+zzUr5YZ/nFEXL9KtpTSIc23/F9qFjVT1d5tV0Nr+B3iP5mnePpudYGSAUwptqCOS2NFIPMmjbUVBWhtCdghZ4p9iwxRFBsEkZSUTF2IxcP+r+gY7vo9foxYldPIrV6grwBdSjxsdr2GhwGF/q8c7pqCHODxHzAK5Q2CC7aAVtFJf4nbb0zKWpxzPskOGf8xo3l47d2pLA+GLgxHryIQQMDuuD6pULyeflyxoCC1/btEyCdeCa4GTeiIPgh8k4=;RN6wYdo64afE0lSFl5KQWw=="
 ---
 

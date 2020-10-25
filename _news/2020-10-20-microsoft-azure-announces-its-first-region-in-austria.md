@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-firs
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
 type: article
 quality: 104
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -232,20 +232,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 49
-  - title: "The IBM Stock Is Not Microsoft And It Is Thus Not Poised To Explode In The Near Future"
-    excerpt: "Some investors see strong parallels to Microsoft and think that Big Blue, like Microsoft, will also explode after the now several-year phase of weak performance."
-    publishedDateTime: 2020-10-20T06:38:00Z
-    webUrl: "https://seekingalpha.com/article/4379883-ibm-stock-is-not-microsoft-and-is-thus-not-poised-to-explode-in-near-future"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 33
-    images:
-      - url: "https://static3.seekingalpha.com/uploads/2020/10/18/saupload_16b383eb51b7f0f32148691819aa1805.png"
-        width: 635
-        height: 400
-        isCached: true
   - title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
     excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge"
     publishedDateTime: 2020-10-22T13:00:00Z

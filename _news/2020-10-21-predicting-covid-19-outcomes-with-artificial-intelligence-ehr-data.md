@@ -58,7 +58,7 @@ related:
     provider:
       name: WFTV
       domain: wftv.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://www.wftv.com/resizer/fZky0k75pByk2OQIsyJnkKAPfcA=/1200x628/d1hfln2sfez66z.cloudfront.net/10-23-2020/t_79d926331a8640389e88bd20fced70aa_name_REAX_UCF_ART_INTEL_DETECT_COVID_transfer_frame_851.jpg"
         width: 1200

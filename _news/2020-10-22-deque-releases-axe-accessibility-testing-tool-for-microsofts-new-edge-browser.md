@@ -236,20 +236,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 49
-  - title: "The IBM Stock Is Not Microsoft And It Is Thus Not Poised To Explode In The Near Future"
-    excerpt: "Some investors see strong parallels to Microsoft and think that Big Blue, like Microsoft, will also explode after the now several-year phase of weak performance."
-    publishedDateTime: 2020-10-20T06:38:00Z
-    webUrl: "https://seekingalpha.com/article/4379883-ibm-stock-is-not-microsoft-and-is-thus-not-poised-to-explode-in-near-future"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 33
-    images:
-      - url: "https://static3.seekingalpha.com/uploads/2020/10/18/saupload_16b383eb51b7f0f32148691819aa1805.png"
-        width: 635
-        height: 400
-        isCached: true
 
 secured: "UKSoOhaFxfvcZIFeHwxel/86A18E0rJGvRmjo12OCSxtppSsvCNPwObHWX2T+2J89K704xm7k4+N9IQKBQ9eiQ6pJI+8eyscHccSZ4C65gkK1fU5K2DLWXnMilTHvSs6I/iDTxVGvzgCoXls1rXlALhNn0MtB2ttGqUW5+M6LDgZa9s9KeMRMdjrezdULNQtG2SYcMXVPNjNbm6rlHAaCwYo4/Kw16mlQg/sigXas5VeYpj74BHuoupJ9n/Wb3BWsQIkWowD4xgK1dkIVFzoGwAEJDNwFzUaS9urfgn6ykv5WYcejFRpiXccXQbei4oo1T8h7FrZUQg/1waizJLGEXuHgwr4rAd899DDcz9Mk7A=;9a29tfFLPWEGQeu7sRb9jQ=="
 ---
