@@ -1,15 +1,13 @@
 ---
 category: news
 title: "The first satellite with AI onboard is now in orbit, and its tech could completely change how we respond to wildfires"
-excerpt: "\"To use AI in a data-critical application is not straightforward even on Earth,\" he said. Flying an AI-powered chip like the one onboard PhiSat-1, 329 miles above the planet, means any repair, software patches, or upgrades will be that much more difficult."
-publishedDateTime: 2020-10-25T12:13:00Z
-originalUrl: "https://www.businessinsider.com/intel-esa-launch-ai-satellite-phisat-1-2020-10"
-webUrl: "https://www.businessinsider.com/intel-esa-launch-ai-satellite-phisat-1-2020-10"
-ampWebUrl: "https://www.businessinsider.com/intel-esa-launch-ai-satellite-phisat-1-2020-10?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/intel-esa-launch-ai-satellite-phisat-1-2020-10?amp"
+excerpt: "This week the European Space Agency (ESA) and Intel announced they had successfully put the first satellite with on-board AI-processing into space, PhiSat-1. The PhiSat-1 uses Intel's Movidius Myriad 2 chip,"
+publishedDateTime: 2020-10-25T16:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/intel-esa-launch-ai-satellite-phisat-1-2020-10-1029717094"
+webUrl: "https://markets.businessinsider.com/news/stocks/intel-esa-launch-ai-satellite-phisat-1-2020-10-1029717094"
 type: article
-quality: 66
-heat: 66
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -25,11 +23,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i.insider.com/5f916e772121130018740148?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://i.insider.com/5f916e772121130018740148?format=jpeg"
+    width: 3840
+    height: 1920
     isCached: true
 
-secured: "dQ5dy4x2AxFUp6cKkDdtXcKVm2wi5NrSrrY0eU3WrbKY8T7BRaQk0Wm0eeZUOAwlJBsady9skrLFPJEr4vkdpfKCTK/GkJ3BB9gtMhrBIyrk8l83sgnIgBWVz76oOPkt4m8783MBmwpLHFgtM5TIJvRSW6id0zmQhtE40QDscDkVzQHZA2HlVM26VVuaUi5LY+XkulAwXv4iYDYQ7U3yGcJdIX93HjT42vbefieeT+yIxEMbovtcIkh2K2eEeqAGeOmIfR5+/B5F0CEUkoK2m0YBWhyo+uIqk0WJ9TGdNBddfpXJghnup/Cq+Wr/HtFDmPDIGiKH0WemO87rLwcSyWAEJk5Ll2h9UZHyhQjdVcjjyjBovMLjgIza7vaj/jH+tAgeuo+xQRfZ5QPmOe5DSW7tb1myfhyuvyRLcE9ydLkbYg85ZrQ3yXD2NNpONWuCkBSFteF178NqEq2jrsAAvDms1ph/gZXvKRR9YlkaD91Tx0tipenWrmsk73M9ITPHX14LviXWxrUmFEfBUl0Zew==;lHLGGdlSTWE458kJ6yXyBg=="
+secured: "er1YiQdVPz2pB/9WQDz7IE1go4SLeUZxpTM4lGKzYnqR1VCpd6vIXu9b1KgtLMCZhHHZjk/LW+gLYGuFElDNHx/qa135QJ/rm7sizeyuqK0otJP0Upk88qclo2TUHEgb5oZCulx/ISxjao11Dl+f1oIpiWmRMhOczaJbORIsY5+j9MSXFqk65ZAa3QuZk8oIlOb3BuD/eEcFPnDxJfG3SeIfpBQvSYFQBNT5hx4DhH1xkD0GAcp0bLecWmt2oIj+ww7xNNdafJWAuF51v0rIY4PbvHyHqnNwI9wS5OCE79eudqPhw7mfOTkpqFxu1DWmWUq+SSH5DWxlgAVf4+qO2hHiEw5QVwldkUNpP+ItHLA=;oYKxEvGSW1GdTXxj6pnVSQ=="
 ---
 

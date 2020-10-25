@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Coming soon: Facial recognition system for Dubai Metro stations"
+    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday as a new simulation and training facility was launched for the Transport Security Department in the emirate. The Hamdan Smart Station for ..."
+    publishedDateTime: 2020-10-25T17:41:00Z
+    webUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
+    ampWebUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 74
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20201025/ARTICLE/201029285/AR/0/AR-201029285.jpg&NCS_modified=20201025182405&exif=.jpg"
+        width: 1194
+        height: 776
+        isCached: true
   - title: "Dubai introduces facial recognition on public transport ahead of global Expo"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
     publishedDateTime: 2020-10-25T12:42:00Z

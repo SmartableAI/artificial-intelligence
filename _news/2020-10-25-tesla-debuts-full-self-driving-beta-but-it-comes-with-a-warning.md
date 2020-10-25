@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Watch Tesla Full Self-Driving Beta in a full 30-minute realistic trip"
-excerpt: "Driving Beta trying to handle a full 30-minute trip in a realistic environment. Earlier this week, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature."
-publishedDateTime: 2020-10-24T14:41:00Z
-originalUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/"
-webUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/"
-ampWebUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/amp/"
-cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/amp/"
+title: "Tesla debuts ‘Full Self-Driving’ beta, but it comes with a warning"
+excerpt: "Tesla has debuted its much-anticipated \"Full Self-Driving\" (FSD) feature in beta mode, allowing select Tesla owners to experience the next phase of Autopilot."
+publishedDateTime: 2020-10-25T16:22:00Z
+originalUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-beta/"
+webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-beta/"
+ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-beta/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-beta/?amp"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Electrek
-  domain: electrek.co
+  name: Digital Trends
+  domain: digitaltrends.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-beta-hero.jpg?quality=82&strip=all"
-    width: 3584
-    height: 1742
-    isCached: true
 
 related:
   - title: "Tesla Full-Self Driving beta lands, but it's about to get more expensive"
@@ -126,6 +120,22 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Watch Tesla Full Self-Driving Beta in a full 30-minute realistic trip"
+    excerpt: "Driving Beta trying to handle a full 30-minute trip in a realistic environment. Earlier this week, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature."
+    publishedDateTime: 2020-10-24T14:41:00Z
+    webUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/"
+    ampWebUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-beta-hero.jpg?quality=82&strip=all"
+        width: 3584
+        height: 1742
         isCached: true
   - title: "Watch early testers try Tesla's Full Self-Driving mode for the first time"
     excerpt: "On Friday, we finally got a glimpse at a long-awaited feature that Elon Musk rolled out this week for a select group of Tesla owners: Full Self-Driving mode. Only a small group of Tesla-chosen ..."
@@ -282,17 +292,6 @@ related:
         width: 1200
         height: 602
         isCached: true
-  - title: "Tesla debuts ‘Full Self-Driving’ beta, but it comes with a warning"
-    excerpt: "Tesla has debuted its much-anticipated \"Full Self-Driving\" (FSD) feature in beta mode, allowing select Tesla owners to experience the next phase of Autopilot."
-    publishedDateTime: 2020-10-25T16:22:00Z
-    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-beta/"
-    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-beta/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-beta/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
   - title: "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended"
     excerpt: "Self-driving technology is a holy grail that promises to forever change the way we interact with cars. Thus far, there’s been plenty of hype and excitement, but full vehicles that remove the"
     publishedDateTime: 2020-10-23T17:03:00Z
@@ -699,6 +698,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "P73zCvohIUluoZSKnm1m3yLjJvxti5lTVReLm6Iq5rC005krrMqoFn/TZ1Z0MrBbQbaHGS7Vhv7Z9j4hQjgw61QVdrC82UORw12mbd9sg4eJms684XGmv7GNGld4Jq/NXc2L3nN7kXJjIOjrqNIdHUf6qeCT/pJqMJLOzMQII8EPiWyXpTg8icNRhXc9W6/woXjXahwJcqD3k+Z+lVumAIzE7n9Fzb8VxgLmaa1rQKX9W6Wb0k0PF3EtBk/OnKzm7feu58lSQwCyXK1D2hwkmXxppbKI21MmiM+EaTOe54WjcMfgmnb75+sjvxyen4MJd2GEvDffYnN8Dco7JWb65swkhDvpPo9X5bZV9fvG9wawOqwQ5CVqVprQnFlSvRlDI99r2dS/223dbee5X0CyBsO/9yDH/FqRKthlW/tPXoHaLbQpBA00j06hu5DSCreXwwkH6OWCXykJvtGp95dreMYEl7oi+Y85DwS6HyQQBSDZKatB1/HZd2rQ6um/mpU2Tx6WIW+yF5xtOshs7HDU6Q==;q2qRYrtPJdIShIIyG+Wdvg=="
+secured: "eLMY2l5XtoPgOLxAJPiZxcSPC3SujMFhqfhBFNeulEeEdEOv2qyq7qicbO1lnD6jVsDrJHfrMPNxJbSJGSqVYvcllwDDjp5bKH++FNplziIQa6BPyqeEwRQBergU7oNNqX8sR3Ci5Pp0aaUuOzIm8u+zk1wpANf/ig8WefCCPTZPb3fcdwKOVvOYam4tKbDjtj8cWd62eBhU8pok4HG+AjDB5gQcrbFiuVKjAMhUH95bfbv0q9cTpYsspa/AHA2TS3ChqcHlBtIkhG/wpr8gsDc/QaPneo6KZnPQG325i8DHEY2TIFhrXRE9fMm37H70dutyQmxUfL3LhsnkJXkpF3Cu4YN/yO6rBO5BIHn4bY1t2KILeb/3uB8fqglBkJBskgxrsFZzxnN5iosOGbJHG4hIs9JmpMcCkCGNvPAFfE7rcgidW86H+yhk+WAhTwzq5u/j0f5zc1hy2YP2zY6HLyTr81ohe0CEfgBdSkNdG7sraVCzWfDijM+bh2QSHbkCw50scB+EnFcbqntrPfuuww==;1ogzf90I9veMTtzFsdZS7w=="
 ---
 

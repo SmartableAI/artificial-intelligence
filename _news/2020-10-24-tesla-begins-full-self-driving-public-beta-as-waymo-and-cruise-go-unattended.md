@@ -137,22 +137,6 @@ related:
         width: 3584
         height: 1742
         isCached: true
-  - title: "Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of"
-    excerpt: "For the lucky few selected to experience \"Full Self-Driving\" or (FSD) on their Tesla vehicle, Tuesday night is the night. Tesla CEO Elon Musk tweeted Tuesday afternoon that the autonomous mode ..."
-    publishedDateTime: 2020-10-20T23:25:00Z
-    webUrl: "https://mashable.com/article/tesla-full-self-driving-beta/"
-    ampWebUrl: "https://mashable.com/article/tesla-full-self-driving-beta.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-beta.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 88
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F10%252F20%252Fae%252Ff6c5261b244c4f6b8f36348853485b9c.8eb52.jpg%252F1200x630.jpg?signature=7jyn6DuiFl9cVmbUR_Mkx1HVWB8="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Watch early testers try Tesla's Full Self-Driving mode for the first time"
     excerpt: "On Friday, we finally got a glimpse at a long-awaited feature that Elon Musk rolled out this week for a select group of Tesla owners: Full Self-Driving mode. Only a small group of Tesla-chosen ..."
     publishedDateTime: 2020-10-23T18:26:00Z
@@ -292,22 +276,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla starts Full Self-Driving Beta rollout, Elon Musk says it ‘will be extremely slow and cautious’"
-    excerpt: "Elon Musk confirmed that Tesla is starting the rollout of its Full Self-Driving Beta update, which the CEO says “will be extremely slow and cautious.” We have been expecting the update for a while now."
-    publishedDateTime: 2020-10-21T00:03:00Z
-    webUrl: "https://electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/"
-    ampWebUrl: "https://electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all"
-        width: 2564
-        height: 1236
-        isCached: true
   - title: "Tesla Is Now Beta-Testing 'Full Self Driving' in Real-World Traffic"
     excerpt: "Tesla rolls out Full Self Driving in limited number of vehicles FSD has been promised to offer Level 5 autonomy Legal liability remains untested in serious crashes of semi-autonomous vehicles Tesla has begun rolling out what it calls Full Self Driving in ..."
     publishedDateTime: 2020-10-21T18:26:00Z
@@ -324,6 +292,17 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Tesla debuts ‘Full Self-Driving’ beta, but it comes with a warning"
+    excerpt: "Tesla has debuted its much-anticipated \"Full Self-Driving\" (FSD) feature in beta mode, allowing select Tesla owners to experience the next phase of Autopilot."
+    publishedDateTime: 2020-10-25T16:22:00Z
+    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-beta/"
+    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-beta/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-beta/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "Explainer: Tesla's Self-Driving Ambitions Get a Reboot"
     excerpt: "Tesla's \"Full Self Driving\" software would be an important source of revenue, once it is fully deployed. Tesla owners have paid $8,000 up front in hopes of eventually receiving the upgrade. In the second quarter alone,"
     publishedDateTime: 2020-10-21T17:19:00Z

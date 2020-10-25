@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Self-driving trucks utilizing New Mexico roads"
-    excerpt: "ALBUQUERQUE, N.M.- Self-driving trucks are conducting tests New Mexico roads. \"To date there’s quite a few players in the southwest that either have a strong interest in I-10 or they currently are running autonomous routes along I-10,\" Charles Remkes ..."
-    publishedDateTime: 2020-10-20T23:28:00Z
-    webUrl: "https://www.kob.com/new-mexico-news/self-driving-trucks-utilizing-new-mexico-roads/5900565/"
-    ampWebUrl: "https://amp.kob.com/articles/self-driving-trucks-utilizing-new-mexico-roads-5900565.html"
-    cdnAmpWebUrl: "https://amp-kob-com.cdn.ampproject.org/c/s/amp.kob.com/articles/self-driving-trucks-utilizing-new-mexico-roads-5900565.html"
-    type: article
-    provider:
-      name: KOB 4
-      domain: kob.com
-    quality: 44
-    images:
-      - url: "https://www.kob.com/kobtvimages/repository/2020-10/Selfdriving_trucks_utilizing_New_Mexico_roads-syndImport-062248.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Hackers fool self-driving cars into sudden braking"
     excerpt: "The car was equipped with Tesla’s latest Autopilot semi-autonomous system but was unable to discern the digital image from a real stop sign, leading it to make a sudden stop that could cause an accident or a traffic jam."
     publishedDateTime: 2020-10-22T09:40:00Z
@@ -124,6 +108,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "Nhek/dmWebrd471Lg/NU7EkGBaMWOPG7DjkdDF+SuWekdHNOKquJ3UKnW9Blln2vSTgBUxntTlRHcuwZGQvUXukl1pQYdeXFx+jTssTmRoAaY8gMdxlvINJJPMVMFVBNJ5n/IXAQijK9bcqXt8wxkb77KBkEr3YpsMcm54musD7CeHImNpfWvqIOJiBEfZwahu4p0Jx/zWz/BkU0B/EnA2KT24XZMIdJTon5qaXWjB3ZCxC6QRhJznG96lrUGQux3S79EAM8//ZKJpi4No+DAtD9FcuSynfKofhbQg6QiY5flCJD7KKOjitmMpNQvL1dIkH8e12cnSr7oag0QashY9RyzbPLAcvk+qjieWK2EMc=;7Y2nCSbAxsRnLz7SX2x9cA=="
+secured: "V1jJ3xeZ9BigF/GuzGImqSFavdIAYpW4u0yxjL0sryihq6sBpfhsQEBi4kgXpavD7z05YjB6ce2Kw4TYf2X+50fWxikk3I+TU+Gq23HMaXFeHcUiz73LlHyHGsGdICOUvzUThIwH48FXTqsLrlZj8phBDu12/CtneK+ss0AhZBY/2wi49ebLlAXDUD5Nq8d3alY6CfWjWQ8UFkryIsbK/PZWxnxkCdlP/niKYgNdLXYkOuZ3bflE4clGUFcHolAnl+l9W7VBBJ0Vpdck02CWENcFrOg5+R7Zg07PuIN4r2u//ts2gks8vchpwztZxKYn49ryulg00tu6nGPAkCEo5r/WtZhNoejMKm9BGR+/a53o9yReooleTkl9cikc9jZQsNnVe4bzZccI5lUeXwxebQxcxQYBVUQv+EEGl89Q8F6KznToAzo2I/Qqu4MdBjZXDhspmnFcsgh5cgcafp0GLrorSuTYwtgxkvJ+lzGIATHZZgKkJ6zbY4lqhMDn0uxQxszj8Np+GOcjoIMcgPTBsA==;BBvCU8h7qyno6RYZnJvNpQ=="
 ---
 

@@ -1,47 +1,47 @@
 ---
 category: news
-title: "Dubai introduces facial recognition on public transport"
-excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
-publishedDateTime: 2020-10-25T12:14:00Z
-originalUrl: "https://www.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
-webUrl: "https://www.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
-ampWebUrl: "https://amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
-cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
+title: "Coming soon: Facial recognition system for Dubai Metro stations"
+excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday as a new simulation and training facility was launched for the Transport Security Department in the emirate. The Hamdan Smart Station for ..."
+publishedDateTime: 2020-10-25T17:41:00Z
+originalUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
+webUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
+ampWebUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
+cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
 type: article
 quality: 74
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
-  name: France 24
-  domain: france24.com
+  name: Khaleej Times
+  domain: khaleejtimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.france24.com/media/display/94ea097c-16bb-11eb-9a57-005056bf87d6/w:1280/p:16x9/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg"
-    width: 1280
-    height: 720
+  - url: "https://images.khaleejtimes.com/storyimage/KT/20201025/ARTICLE/201029285/AR/0/AR-201029285.jpg&NCS_modified=20201025182405&exif=.jpg"
+    width: 1194
+    height: 776
     isCached: true
 
 related:
-  - title: "Coming soon: Facial recognition system for Dubai Metro stations"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday as a new simulation and training facility was launched for the Transport Security Department in the emirate. The Hamdan Smart Station for ..."
-    publishedDateTime: 2020-10-25T17:41:00Z
-    webUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
-    ampWebUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
+  - title: "Dubai introduces facial recognition on public transport"
+    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
+    publishedDateTime: 2020-10-25T12:14:00Z
+    webUrl: "https://www.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
+    ampWebUrl: "https://amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
+    cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
+      name: France 24
+      domain: france24.com
     quality: 74
     images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20201025/ARTICLE/201029285/AR/0/AR-201029285.jpg&NCS_modified=20201025182405&exif=.jpg"
-        width: 1194
-        height: 776
+      - url: "https://s.france24.com/media/display/94ea097c-16bb-11eb-9a57-005056bf87d6/w:1280/p:16x9/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Dubai introduces facial recognition on public transport ahead of global Expo"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
@@ -99,6 +99,6 @@ related:
       domain: hindustantimes.com
     quality: 23
 
-secured: "KG/nMbEIxrqbDAoCv2eTHTf+xImy7K9aIuhnG8h+hSsJKaS42FToEUFo+MaEuMod3rra0rZZ+t5yJE6qyf12X/7eRGjQq8ijHvHZyxy/84/F9RPaCkE8Tl0ZhpVPQpXTZgy/XL/Nry65z0K8fgBegcDPTGZmC0oQufI0UnVf4HlRgWntgP0XD8ZPB+jY8G3huVm7anOd0W4YvBst9mL9rkXdKtFoxnGMWgqbz4N0RgYGWWyn3Y/AifQ8rhkKu9K1pgZTbihd0iBW0KiVlFHhOCfDws1VKkGgSkd+zhCpy09l+CJ1nCcJbBbW4aYcU0qdhTCuAftdjSVDRI6AJhgqnduGq4KavxlTQCx02HOVhFsmYgTpz/r9BVvjkesftZWmpRPuR2o1jLo3KinP/jZOwvrES4AKvM8iW7U+TokQXwQyCL1KVxHSP5QTiLoJELqx4SoIwlt0AMRyBEQAQpjJDDs6eBa62Srblp6+QmGWnDxQPzzIvcuiNX8NkNmmpYB9o4XOHw7CY1VRtWmtqWIJ0w==;GJAt9Dzy/HfwVTJOpvMYqQ=="
+secured: "vaY1TttAzKow6N+/pNPR7bF5YMc4f0Xpob4v9VlHe6kkGzeYl7n+KOO0vVlpn2LnussieydmfXNGOUgSAV4L2YZlCd+kFFUMF93eXKnuEesMluWsOQrgQEJfdYSrbgWXnw+FzQ58gLzzOHsAr5KHzSF5BZoSGxZs107aLEYA2S/8GtMlMDwa/g0RMkJOLztWyBZaDKgI9VqOeo9UVUcyDLesbe5zD0Z/yzJkHIEAX7jI6D70MpPSwQD2t8lbibN71gc/FIwmpqrzreTfcrZQtSOh1M1X8wzfz+WbiLVd/cr02KYSqXF3PfvjXVpeqogNpZmcl2bH8e2pcX5tHkNNsnxdUC9z7JtVZ+WjsrINN1M=;CmmKSfgHPFn/5y+4e7D3cw=="
 ---
 

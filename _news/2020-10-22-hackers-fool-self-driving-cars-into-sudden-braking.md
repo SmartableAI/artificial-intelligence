@@ -73,22 +73,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Self-driving trucks utilizing New Mexico roads"
-    excerpt: "ALBUQUERQUE, N.M.- Self-driving trucks are conducting tests New Mexico roads. \"To date there’s quite a few players in the southwest that either have a strong interest in I-10 or they currently are running autonomous routes along I-10,\" Charles Remkes ..."
-    publishedDateTime: 2020-10-20T23:28:00Z
-    webUrl: "https://www.kob.com/new-mexico-news/self-driving-trucks-utilizing-new-mexico-roads/5900565/"
-    ampWebUrl: "https://amp.kob.com/articles/self-driving-trucks-utilizing-new-mexico-roads-5900565.html"
-    cdnAmpWebUrl: "https://amp-kob-com.cdn.ampproject.org/c/s/amp.kob.com/articles/self-driving-trucks-utilizing-new-mexico-roads-5900565.html"
-    type: article
-    provider:
-      name: KOB 4
-      domain: kob.com
-    quality: 44
-    images:
-      - url: "https://www.kob.com/kobtvimages/repository/2020-10/Selfdriving_trucks_utilizing_New_Mexico_roads-syndImport-062248.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The Next Battle In the EV War Is Self-Driving Cars"
     excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
     publishedDateTime: 2020-10-24T15:03:00Z

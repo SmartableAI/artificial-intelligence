@@ -1,15 +1,15 @@
 ---
 category: news
 title: "One Key to Pandemic Retailing: Artificial Intelligence"
-excerpt: "Retail is no stranger to artificial intelligence. Nearly a decade ago ... Gilead Sciences won approval for remdesivir as an anti-Covid therapy. With the election looming, House Speaker Nancy Pelosi set a Tuesday deadline to reach a deal on Covid relief."
-publishedDateTime: 2020-10-24T00:57:00Z
-originalUrl: "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768"
-webUrl: "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768"
+excerpt: "AI driven by online data and powerful computing has given retailers new abilities to personalize selling and turn on a dime. It will also play an important role after the pandemic."
+publishedDateTime: 2020-10-23T23:52:00Z
+originalUrl: "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768?link=TD_mansionglobal_new_mansion_global.11147f181987fd93"
+webUrl: "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768?link=TD_mansionglobal_new_mansion_global.11147f181987fd93"
 ampWebUrl: "https://www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768"
 type: article
-quality: 74
-heat: 79
+quality: 72
+heat: 72
 published: true
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: barrons.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "KM00CM/AKvx1Ph5nE9PxRK99FiH219kR5Hj8x80xc9mlxHZp+V7hAk5uTI1OOVA5GuMPGLFo1duezf3MnEBoyatYFgpIRSm7/fqzTOLb9hqoUwahiODUY3qKIbhO7rwf5ITGlmStXB7RbSAruKfb4FuLqXYC4fgQ1qNlpTDpZG+7pfPXa0sl0V61L+XJkGzxCIAFbkWX0DmuHdN3+OZchnl2tJpRpZbPaPcXANU20snKijPfxiEfXApKRUjPsKrbKhHB97MqzcmK/6uY/WTN+ujUkPjEP9avbFn8yGPq5+ZjhItsS91fvSdY5nebmbPdifhaU5yUdxDa4NW4fMAViAlQBRMi+xb6Cy1yFZvRF9PNJG7mcWjbd6SeGrXMQpdpHolePZjcbrN0PvHElB//MSzUqfNWgBFrBNav+CPxNJ74CYTmNnvnZjHPZQ7/XdqdhCdVdP4yGe0wIq63RZS0Yf1G8EXptxCUyaC0Jm5fHi/HlPktMbSgDtu9rFyMcaAxKJ5u3esZLg+TyCSmycPwLA==;ZPtSFOwQA6Yh9U9bVxKDsA=="
+secured: "beAfgxkuOQEyf34bDBcSEk8k5XPUnuBnsSUX9ncWuBvz2IYtTft1lJa2Qj2bkFBMytJRdg7uYhja23+AGtVFuccxqf1UDv5UeXeqG+ZoWq+CLb53ampcLND7/dmjNkBPfC5ZtlnoBXlrXxLfhoLlBkIMGyH3+L6rzeBtyr1EXOCs+Q5tXROYPFbpKEu8G+bq+Xi42uicnyoWhk1/8leMyhxh4n1op1MH3gpkBhcHIVE274uD+Jp2nf8MoWA8QeCZfTYYoWH9OhjomBykZJ29R5BwF+NoJMTeuviHbBHJOrNRVyZMdEcQX0XYuHcaYkdwkI0DKT0w9OeqgiAELDKWzYmJv4WeawbvZeDZsWvKGFc=;C2nl7nMdXpqO8Xftc9EOGw=="
 ---
 

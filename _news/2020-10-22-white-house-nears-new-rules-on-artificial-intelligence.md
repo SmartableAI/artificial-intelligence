@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/white-house-nears-new-rules-on-arti
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Attention EU regulators: we need more than AI “ethics” to keep us safe"
-    excerpt: "In this post, Access Now and European Digital Rights (EDRi) analyse recent developments in the EU AI debate and explain why we need a bold, bright-line"
-    publishedDateTime: 2020-10-21T00:00:00Z
-    webUrl: "https://www.accessnow.org/eu-regulations-ai-ethics/"
-    type: article
-    provider:
-      name: Access Now
-      domain: accessnow.org
-    quality: 54
-    images:
-      - url: "https://www.accessnow.org/cms/assets/uploads/2020/10/AI-Social-Card.jpg"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Smart Construction - AI Style"
     excerpt: "Once it is working in a production capacity, we'll start to scale up, going from one project to another project throughout the entire construction community.” Halder is no stranger to the power of AI and the challenges of bringing autonomous vehicles to ..."
     publishedDateTime: 2020-10-23T13:38:00Z

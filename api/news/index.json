@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -217,7 +217,7 @@
       "originalUrl": "https://www.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -460,13 +460,13 @@
     {
       "path": "_news/2020-10-24-one-key-to-pandemic-retailing-artificial-intelligence.md",
       "title": "One Key to Pandemic Retailing: Artificial Intelligence",
-      "excerpt": "Retail is no stranger to artificial intelligence. Nearly a decade ago ... Gilead Sciences won approval for remdesivir as an anti-Covid therapy. With the election looming, House Speaker Nancy Pelosi set a Tuesday deadline to reach a deal on Covid relief.",
+      "excerpt": "AI driven by online data and powerful computing has given retailers new abilities to personalize selling and turn on a dime. It will also play an important role after the pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
-      "originalUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
+      "webUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768?link=TD_mansionglobal_new_mansion_global.11147f181987fd93",
+      "originalUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768?link=TD_mansionglobal_new_mansion_global.11147f181987fd93",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -482,7 +482,7 @@
       "type": "article",
       "ampWebUrl": "https://www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
       "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
-      "publishedDateTime": "2020-10-23T17:57:00-07:00",
+      "publishedDateTime": "2020-10-23T16:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Barron's",
@@ -496,7 +496,6 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1047,8 +1046,8 @@
       "title": "AI and machine learning: Powering the next-gen enterprise",
       "excerpt": "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents.",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268",
+      "webUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -1090,8 +1089,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {

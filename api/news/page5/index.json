@@ -130,6 +130,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-20-ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information.md",
+      "title": "AI Startup EarthDefine Announces Expansion of its Building Footprint Geocoding and On-Demand Property Information",
+      "excerpt": "PRNewswire/ -- EarthDefine, a provider of high-resolution spatial data today announced the release of an updated building footprint database, which contains over 156 million footprints of commercial and residential structures across the continental United States.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information-1029698789",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information-1029698789",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-microsoft-partners-with-spacexs-starlink-satellite-service-for-azure-space-cloud-platform.md",
       "title": "Microsoft partners with SpaceX’s Starlink satellite service for Azure Space cloud platform",
       "excerpt": "Microsoft says it’s taking the next giant leap in cloud computing, in partnership with SpaceX and its Starlink broadband satellite constellation.",
@@ -1174,57 +1216,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai.md",
-      "title": "Juniper acquires 128 Technology for $450 million as it builds out its AI",
-      "excerpt": "Juniper Networks said it will acquire 128 Technology for $450 million in a move that will give it more artificial intelligence-based features through its networking portfolio. The company said it will it will acquire 128 Technology with cash and assumption of equity awards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "originalUrl": "https://www.zdnet.com/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/96c31916-3643-4d3f-8e78-bbbad13eceb6/juniper-128.png",
-          "width": 600,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "publishedDateTime": "2020-10-19T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
