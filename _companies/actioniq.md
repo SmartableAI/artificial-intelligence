@@ -2,17 +2,17 @@
 name: "ActionIQ"
 overview: "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration."
 type: "profile"
-heat: 128
+heat: 80
 
 website: https://www.actioniq.com/
 
 crunchbase:
-  url: "https://www.crunchbase.com/organization/tubular-labs"
+  url: "https://www.crunchbase.com/organization/actioniq"
 
 twitter:
   username: "ActionIQinc"
   url: "https://twitter.com/ActionIQinc"
-  followers: 3907
+  followers: 1072
 
 locations:
   - Mountain View, CA
@@ -22,12 +22,12 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1233451560840990720/YnqpuohP_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1308162295256809475/DaNzK3jh_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "ActionIQ"
 
-secured: "gZ6iGItkvSlhR3HwEYfCVDA6q9Rhjyw9RJ98sppJaIfcSzKVh1AMs4x39rQb/Cn6L3J2WrtlaJRGvt2hNo0FWI1HZs7c6tFXUNuf2pqP9AIWik2E9JS9tbDLodoWxsV0zQ/p2mmkeG1w9xjPSB5oWhJKUlyQ4vCTKH3jD4UP2wIJbM9kFK2jTjTeDWSR8eIaaQxFxGCh8pNRYodrLsz17GrOkLLhjI2insGFYB8WuxCNhf1bgtqMCVz3KNmFlXzncwcwcaguzeMfDrH4fzkJMUDAOGmjdd05knl4oKz0YPx+pwQ9O2ueujXPUkJRM1AgmrSoh86RrwnqCG+dflsYEyuTqenV9oRmj1jU+QRj5PRmU4cOCrXog/ny2frdDQzY;3YJmEFsqDt5Sc54MVHnNlQ=="
+secured: "eQ93VM/ufrNyCN/ipCeaVAR0BCnPs7xl2e0eeQpRzvVkvalz8iOXgXLmgdqQOmviRtqyUe39rrpycBQOuamrW6Sj5GZfHe51AElKvN847y+Hm6SewSKoO5vLh/BGo587ZSQOTWTj+bXfIYNRDZF53UjN+TP90p2/UxdzMian/jh/j5uVqZsvLjclPvsYyf2Y0QmN4hkdCsg4ZQ8kw7kbzExmH5TJPj6yv/NHVPT566mgCl2PbckpdPjinUX6IwelJnYkzVEyQuOBYo6ljgGp1luk0o9qOQyouRKSpoX22v1MJqrE7DkV5sQRk00kRY+Gi1UdZwie+NHSmtFJbBFG2lTurb+JEFgyIVWQrlnY0qAtEfch5v1OAg6XB3dalr4g;U1/4nheZcltrrFpnRskwjQ=="
 ---
 
