@@ -699,57 +699,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-23-hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting.md",
-      "title": "HelloWoofy is the AI-driven brain that could change how you handle social posting.",
-      "excerpt": "Sponsored Deals For companies who don’t have the resources to throw their full weight behind social media marketing the way they should, a service like HelloWoofy Social Media Management can be like adding that social media manager they need.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/",
-      "originalUrl": "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/sale_31494_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/amp/",
-      "publishedDateTime": "2020-10-23T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-23-can-ai-fix-our-broken-debates.md",
       "title": "Can AI Fix Our Broken Debates?",
       "excerpt": "The second U.S. presidential debate of 2020 was more sedate than the first, with its whining, braying, and general frothing at the mouth. We all remember how the human moderator at the first rumble struggled to cut through to the actual issues that people care about,",
@@ -892,6 +841,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-how-to-bring-ai-into-your-service-and-support-organization.md",
+      "title": "How To Bring AI Into Your Service And Support Organization",
+      "excerpt": "Deciding where to begin implementing AI-driven service management depends on the biggest challenges your company faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91efa5b69ed05e401bfcdf%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/amp/",
+      "publishedDateTime": "2020-10-23T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1144,6 +1144,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-23-artificial-intelligence-cheat-sheet.md",
+      "title": "Artificial intelligence: Cheat sheet",
+      "excerpt": "Learn artificial intelligence basics ... AI chatbots can be a great first line of customer interaction. Healthcare: Not only are some AIs able to detect cancer and other health concerns before doctors, they can also provide feedback on patient care ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/",
+      "originalUrl": "https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-cheat-sheet/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-cheat-sheet/",
+      "publishedDateTime": "2020-10-23T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-predictions-2021-the-time-is-now-for-ai-to-shine.md",
       "title": "Predictions 2021: The Time Is Now For AI To Shine",
       "excerpt": "AI is transformational. AI is exciting. AI is mysterious. AI is scary. AI is omnipresent. We’ve heard this oscillating narrative over the last few years (and will continue to in the future), but in this unprecedented year,",
@@ -1176,57 +1228,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-adobe-tries-using-ai-to-fix-blurry-video-footage.md",
-      "title": "Adobe tries using AI to fix blurry video footage",
-      "excerpt": "The company showed off Sharp Shot at its Adobe Max conference. One thing to keep in mind is we may not see Sharp Shots ever make its way to an Adobe product. It’s also worth pointing out we’ve seen other companies promise a lot with AI and then not deliver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/adobe-sharp-shot-213047501.html",
-      "originalUrl": "https://www.engadget.com/adobe-sharp-shot-213047501.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F6ee2e6c0-13e3-11eb-bfef-01b418c39580&client=amp-blogside-v2&signature=1bcc9afc40bdcaa8d84d63f01f0b999ca0fa0254",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

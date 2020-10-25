@@ -58,22 +58,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Norway Is Developing Self-driving Ferries That Passengers Can Summon With the Push of a Button"
-    excerpt: "Zeabus is working to develop the self-driving ferries in Trondheim, which sits on the Trondheim Fjord, in central Norway."
-    publishedDateTime: 2020-10-20T16:08:00Z
-    webUrl: "https://www.travelandleisure.com/culture-design/norway-zeabuz-self-driving-ferries"
-    ampWebUrl: "https://www.travelandleisure.com/culture-design/norway-zeabuz-self-driving-ferries?amp=true"
-    cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/culture-design/norway-zeabuz-self-driving-ferries?amp=true"
-    type: article
-    provider:
-      name: Travel + Leisure
-      domain: travelandleisure.com
-    quality: 32
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F10%2F19%2Fzeabuz-ferry-rendering-lead-ZEABUZ1020.jpg"
-        width: 1800
-        height: 938
-        isCached: true
   - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
     excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
     publishedDateTime: 2020-10-24T17:22:00Z

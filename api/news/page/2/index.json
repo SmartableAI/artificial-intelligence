@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-23-adobe-tries-using-ai-to-fix-blurry-video-footage.md",
+      "title": "Adobe tries using AI to fix blurry video footage",
+      "excerpt": "The company showed off Sharp Shot at its Adobe Max conference. One thing to keep in mind is we may not see Sharp Shots ever make its way to an Adobe product. It’s also worth pointing out we’ve seen other companies promise a lot with AI and then not deliver.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/adobe-sharp-shot-213047501.html",
+      "originalUrl": "https://www.engadget.com/adobe-sharp-shot-213047501.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F6ee2e6c0-13e3-11eb-bfef-01b418c39580&client=amp-blogside-v2&signature=1bcc9afc40bdcaa8d84d63f01f0b999ca0fa0254",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems.md",
       "title": "Australian and Korean researchers warn of loopholes in AI security systems",
       "excerpt": "Topic: Security Research from Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61, the Australian Cyber Security Cooperative Research Centre (CSCRC), and South Korea's Sungkyunkwan University have highlighted how certain triggers could be loopholes in smart security cameras.",
@@ -295,21 +346,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels.md",
-      "title": "The Cable Industry Is Leveraging Artificial Intelligence To Manage And Maintain The Next Generation Of Service Levels",
-      "excerpt": "The cable industry is clear that artificial intelligence is one tool that will be able to help them address the future bandwidth needs and service level demands. SCTE•ISBE shows that both engineers and complete organizations are focused in doing it in a local and organized manner.",
+      "path": "_news/2020-10-23-microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks.md",
+      "title": "Microsoft and MITRE release framework to help fend off adversarial AI attacks",
+      "excerpt": "Microsoft, MITRE, and 11 other organizations developed a framework to help fend off adversarial machine learning attacks.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/",
+      "webUrl": "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/",
+      "originalUrl": "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 153,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 573,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -317,16 +368,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/amp/",
-      "publishedDateTime": "2020-10-22T09:38:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/",
+      "publishedDateTime": "2020-10-22T10:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -342,7 +393,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -1056,50 +1109,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
-      "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/data-reply-achieves-aws-machine-learning-competency-status/article_9c6fc609-9c34-558a-9789-831d25f3a277.html",
-      "originalUrl": "https://www.oaoa.com/news/business/data-reply-achieves-aws-machine-learning-competency-status/article_9c6fc609-9c34-558a-9789-831d25f3a277.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {

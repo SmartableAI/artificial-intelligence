@@ -26,37 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can affect our choices and decisions"
-    excerpt: "Although AI technology has miles to go to develop social skills on par with ours, some AI has shown impressive language understanding and can complete relatively complex interactive tasks. In several 2018 demonstrations,"
-    publishedDateTime: 2020-10-20T18:36:00Z
-    webUrl: "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/"
-    ampWebUrl: "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/?amp"
-    cdnAmpWebUrl: "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/?amp"
+  - title: "How To Bring AI Into Your Service And Support Organization"
+    excerpt: "Deciding where to begin implementing AI-driven service management depends on the biggest challenges your company faces."
+    publishedDateTime: 2020-10-23T13:05:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/amp/"
     type: article
     provider:
-      name: Cosmos
-      domain: cosmosmagazine.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cosmosmagazine.com/wp-content/uploads/2020/10/201021_ai-affecting-decisions.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91efa5b69ed05e401bfcdf%2F0x0.jpg"
         width: 1200
-        height: 685
+        height: 800
         isCached: true
-  - title: "Hey Google … What Movie Should I Watch Today? How AI Can Affect Our Decisions"
-    excerpt: "AI and virtual assistants are constantly being refined, and may soon be making appointments for you, offering medical advice, or trying to sell you a bottle of wine."
-    publishedDateTime: 2020-10-21T14:00:00Z
-    webUrl: "https://singularityhub.com/2020/10/21/hey-google-what-movie-should-i-watch-today-how-ai-can-affect-our-decisions/"
-    ampWebUrl: "https://singularityhub.com/2020/10/21/hey-google-what-movie-should-i-watch-today-how-ai-can-affect-our-decisions/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/10/21/hey-google-what-movie-should-i-watch-today-how-ai-can-affect-our-decisions/amp/"
+  - title: "The Cable Industry Is Leveraging Artificial Intelligence To Manage And Maintain The Next Generation Of Service Levels"
+    excerpt: "The cable industry is clear that artificial intelligence is one tool that will be able to help them address the future bandwidth needs and service level demands. SCTE•ISBE shows that both engineers and complete organizations are focused in doing it in a local and organized manner."
+    publishedDateTime: 2020-10-22T16:38:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/amp/"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2020/10/alexa-4758340_1280.jpg"
-        width: 1068
-        height: 601
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
+        width: 876
+        height: 548
+        isCached: true
+  - title: "HelloWoofy is the AI-driven brain that could change how you handle social posting."
+    excerpt: "Sponsored Deals For companies who don’t have the resources to throw their full weight behind social media marketing the way they should, a service like HelloWoofy Social Media Management can be like adding that social media manager they need."
+    publishedDateTime: 2020-10-23T15:05:00Z
+    webUrl: "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/"
+    ampWebUrl: "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/sale_31494_article_image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Survey: Majority of Financial Services Organizations Plan to Invest in Artificial Intelligence (AI) in Marketing to Better Connect with Customers"
+    excerpt: "Powered Copywriting technology, today released the findings of a survey targeting financial services organizations, highlighting the importance of brand language, while emphasizing difficulties in being able to generate high-quality content and an increased focus on artificial intelligence (AI) to alleviate these challenges."
+    publishedDateTime: 2020-10-22T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/survey-majority-of-financial-services-organizations-plan-to-invest-in-artificial-intelligence-ai-in-marketing-to-better-connect-with-customers-301156529.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/1316535/Phrasee_Infographic_AI_Invest_Financial.jpg?p=facebook"
+        width: 5157
+        height: 2700
         isCached: true
 
 secured: "eW0mNdHZJ0gU+PGGBbVhHaynOirsRLXMPsW9/cIvzi2m98kaVrKM+7aXMQDBRzPE3MqirbiA0J9cTHdTrnyTxVcxIklXRfy2C5u1+Phkp7lPzx5t9NfI4Q22q5BSfdj47Z7zMXiCW/9jvhz9yxrNqiVmud77haH2QfxFn392W/mEfildNG55UpH4KYU72R3qVdls7ev3Mlfj4UPc1ccGrnr4hBW0nbDHvkfCf6duqCxh1thEZ7iIV6PhWEj9xqHqaiyN65KRDng8c1mU0Jv0TALsW6s5VvsztUxwkIRcUjZdME4Lx7rPVNf4VzkUVXCCB0o1KrnnErGly//hzgl4faRiwkf0EsZAv4BX5x54oyA=;Vyp2xlmKR/NQHzZMmpi7Rg=="

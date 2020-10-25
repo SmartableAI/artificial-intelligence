@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18014673"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,19 +22,14 @@ topics:
 
 related:
   - title: "Data Reply Achieves AWS Machine Learning Competency Status"
-    excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR."
-    publishedDateTime: 2020-10-22T10:27:00Z
-    webUrl: "https://www.oaoa.com/news/business/data-reply-achieves-aws-machine-learning-competency-status/article_9c6fc609-9c34-558a-9789-831d25f3a277.html"
+    excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
+    publishedDateTime: 2020-10-22T07:30:00Z
+    webUrl: "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 56
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 38
   - title: "DATA REPLY: Data Reply Achieves AWS Machine Learning Competency Status"
     excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply Group company specialized in Big Data Analytics and Artificial ..."
     publishedDateTime: 2020-10-22T07:33:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choic
 cdnAmpWebUrl: "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/technology/ai/how-ai-can-affect-our-choices-and-decisions/?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Cosmos
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can put humans first in IT support services"
-    excerpt: "The use of AI in IT support services is a powerful force, but only if it enhances instead of replacing the human touch argues Rimini Street's Brian Slepko Technology support services are being disrupted by digital transformation: automated response systems ..."
-    publishedDateTime: 2020-10-22T17:58:00Z
-    webUrl: "https://diginomica.com/ai-humans-first-it-support-services"
-    ampWebUrl: "https://diginomica.com/ai-humans-first-it-support-services?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-humans-first-it-support-services?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-10/handshake-3139227_1280.png"
-        width: 740
-        height: 450
-        isCached: true
   - title: "Hey Google … What Movie Should I Watch Today? How AI Can Affect Our Decisions"
     excerpt: "AI and virtual assistants are constantly being refined, and may soon be making appointments for you, offering medical advice, or trying to sell you a bottle of wine."
     publishedDateTime: 2020-10-21T14:00:00Z

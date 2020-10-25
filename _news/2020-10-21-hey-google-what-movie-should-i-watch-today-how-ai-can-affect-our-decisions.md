@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 685
         isCached: true
-  - title: "How AI can put humans first in IT support services"
-    excerpt: "The use of AI in IT support services is a powerful force, but only if it enhances instead of replacing the human touch argues Rimini Street's Brian Slepko Technology support services are being disrupted by digital transformation: automated response systems ..."
-    publishedDateTime: 2020-10-22T17:58:00Z
-    webUrl: "https://diginomica.com/ai-humans-first-it-support-services"
-    ampWebUrl: "https://diginomica.com/ai-humans-first-it-support-services?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-humans-first-it-support-services?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-10/handshake-3139227_1280.png"
-        width: 740
-        height: 450
-        isCached: true
 
 secured: "kByBVdhYXCugG9zwq2rMuXrmX0teDb4Eb+miU7DaVSF8V68JUf+jpojbQX3Dr8r3Fm51nH5YH3AOZyiVTrF9DSDdhl+TrZ4oOKcAHxFOB1Y11j+lEcQfV0QZu+dVLm+4YPf5KFqTtRKd6HU0cFp1LtrY+GgGHaDTHhubJj2PClbwginHgrWYmFiosx+HM5He51NU8evtMQpVJwATFtBJRb+l+wTQgE+YiwWmEMU+coM+q97FrTE6Bn6pSiZG0qRA3df53iiyS/FPTrnWWHfIkTJmkxc87fj3roW0CQZuVBYku+sIGTmb7xRaMO7ZaxhD8ulgusw6B7Qdbhpbt66IGZNhzmQUYDTnWDGAx2CgVes=;HqHMemGGyj58cEbvlZKWvg=="
 ---

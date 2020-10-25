@@ -72,22 +72,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Norway Is Developing Self-driving Ferries That Passengers Can Summon With the Push of a Button"
-    excerpt: "Zeabus is working to develop the self-driving ferries in Trondheim, which sits on the Trondheim Fjord, in central Norway."
-    publishedDateTime: 2020-10-20T16:08:00Z
-    webUrl: "https://www.travelandleisure.com/culture-design/norway-zeabuz-self-driving-ferries"
-    ampWebUrl: "https://www.travelandleisure.com/culture-design/norway-zeabuz-self-driving-ferries?amp=true"
-    cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/culture-design/norway-zeabuz-self-driving-ferries?amp=true"
-    type: article
-    provider:
-      name: Travel + Leisure
-      domain: travelandleisure.com
-    quality: 32
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F10%2F19%2Fzeabuz-ferry-rendering-lead-ZEABUZ1020.jpg"
-        width: 1800
-        height: 938
-        isCached: true
 
 secured: "SXXceqybSEPrbkj1/q/nIxSh5Bw0ssI/BV6NiD1UgDeoWy4maeKLByPDcsEBdB1BZyCdntBPUO+qxgSUYytRSe/+cXN6NtdHPiMcLg/7VWsdskE7PJ7EXI0HKj4OhI5bDNb8eBddiRRBwBw92JLNuOVRKsqohyReZ3QQ/clhzL+OmDCba6Tut5ygbD7H8aqJKK9Tc9LFanmd586Hih216HK5SPz1rSx2rhPlJJ/YqrZ3h+ds1lyi9bu255/6N2mxdrEMH2nLCFD3Ow3JeQ6SCoDD73bCIRsAxAGQ89VzQZC+oxsyLl+wKFHdalSii1mcAwiabgpSzb58VltyZKAT0GSOsoInipwIGZJa8fEOQytjTPpT8nYcoyUfgpgLqdVvXFE9hHL6ApsJs6yh43jADTgV/8Cww/8TiTutse1j9JVXX4g9imANLRu6PjH6zu2U8iPt5ajQLu5JK13OtsLUkcdlY7zG6QBZ1ZurP/aKx/n5syefdpOzJ1C6ChyuDvlhwSfiJnem3QwQUcRoA0CiZg==;NwyIWcy/VvMuHx29OvkyKA=="
 ---

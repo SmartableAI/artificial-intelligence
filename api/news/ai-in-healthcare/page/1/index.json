@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-23-artificial-intelligence-cheat-sheet.md",
+      "title": "Artificial intelligence: Cheat sheet",
+      "excerpt": "Learn artificial intelligence basics ... AI chatbots can be a great first line of customer interaction. Healthcare: Not only are some AIs able to detect cancer and other health concerns before doctors, they can also provide feedback on patient care ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/",
+      "originalUrl": "https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-cheat-sheet/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-cheat-sheet/",
+      "publishedDateTime": "2020-10-23T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-three-changes-impacting-healthcare-marketing.md",
       "title": "Three Changes Impacting Healthcare Marketing",
       "excerpt": "Healthcare marketers often face extremely challenging federal regulations as well as Health Insurance Portability and Accountability Act (HIPAA) rules. On top of that, patients are demanding better services from healthcare providers,",
@@ -1338,59 +1390,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-nvidia-is-building-an-ai-supercomputer-for-healthcare-research-in-england.md",
-      "title": "NVIDIA Is Building an AI Supercomputer for Healthcare Research in England",
-      "excerpt": "Dubbed Cambridge-1, the system will give healthcare researchers access to impressive artificial intelligence (AI) tools. The $52 million Cambridge-1 will be installed at the university it's named after, and is scheduled to come online by the end of 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594100%2Fmedicine-ai-hands.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
-      "publishedDateTime": "2020-10-05T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

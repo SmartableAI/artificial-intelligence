@@ -55,50 +55,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
-      "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/data-reply-achieves-aws-machine-learning-competency-status/article_9c6fc609-9c34-558a-9789-831d25f3a277.html",
-      "originalUrl": "https://www.oaoa.com/news/business/data-reply-achieves-aws-machine-learning-competency-status/article_9c6fc609-9c34-558a-9789-831d25f3a277.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-10-21-using-amazon-sagemaker-inference-pipelines-with-multi-model-endpoints.md",
       "title": "Using Amazon SageMaker inference pipelines with multi-model endpoints",
       "excerpt": "Businesses are increasingly deploying multiple machine learning (ML) models to serve precise and accurate predictions to their consumers. Consider a media company that wants to provide recommendations to its subscribers. The company may want to employ different custom models for recommending different",
@@ -1161,6 +1117,59 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2020-10-07T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AWS AI"
       ]
     },
     {

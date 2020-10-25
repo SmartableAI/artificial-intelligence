@@ -2,57 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2020-10-10-this-ai-lyrics-generator-strings-your-random-words-into-songs.md",
-      "title": "This AI lyrics generator strings your random words into songs",
-      "excerpt": "And if none of that works, they could try out a new AI lyrics generator called keyword2lyrics. The system was created by Mathi Gatthi, a data scientist from Argentina, who told TNW he got the idea from his own songwriting struggles: Sometimes I have a few ideas that I want to turn into a song,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-09T172112.299-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/amp/",
-      "publishedDateTime": "2020-10-09T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-nine-common-mistakes-businesses-make-when-using-chatbots.md",
       "title": "Nine Common Mistakes Businesses Make When Using Chatbots",
       "excerpt": "Without proper insight into how AI-powered chatbots can achieve their goals, it's unlikely that businesses will employ them adequately.",
@@ -1148,6 +1097,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-the-responsible-innovation-framework-for-the-age-of-ai.md",
+      "title": "The Responsible Innovation Framework For The Age Of AI",
+      "excerpt": "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg",
+          "width": 1200,
+          "height": 986,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
+      "publishedDateTime": "2020-10-08T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

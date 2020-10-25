@@ -2,49 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2020-10-01-dascena-presents-poster-highlighting-machine-learning-algorithm-for-earlier-detection-of-acs-at-hfsa-virtual-annual-scientific-meeting.md",
-      "title": "Dascena Presents Poster Highlighting Machine Learning Algorithm for Earlier Detection of ACS at HFSA Virtual Annual Scientific Meeting",
-      "excerpt": "Dascena, Inc., a machine learning diagnostic algorithm company that is targeting early disease intervention to improve patient care outcomes, today announced that a poster highlighting the ability of a Dascena machine learning algorithm to provide earlier identification of acute coronary syndrome (ACS) is being presented during the Heart Failure Society of American (HFSA) Virtual Annual Scientific Meeting 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-18da0831a4f14a069d5ddcde145cd914",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-18da0831a4f14a069d5ddcde145cd914",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories.md",
       "title": "IBM open-sources AI for optimizing satellite communications and predicting space debris trajectories",
       "excerpt": "IBM has open-sourced projects designed to help optimize small satellite communications and predict the trajectories of space junk.",
@@ -1184,6 +1141,58 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-animals-against-us.md",
+      "title": "Elon Musk put a computer interface in a pig’s brain. Could future AI turn animals against us?",
+      "excerpt": "It’s been a month since Elon Musk and Neuralink trotted out a cyborg pig to show off the company’s progress toward a brain computer interface (BCI). I still see Gertrude in my nightmares. The big idea behind Neuralink is the development of a brain implant that will allow everybody to control computers with their minds.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/30/elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-the-animals-against-us/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/30/elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-the-animals-against-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/animalfarm-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/30/elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-the-animals-against-us/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/30/elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-the-animals-against-us/amp/",
+      "publishedDateTime": "2020-09-30T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],
