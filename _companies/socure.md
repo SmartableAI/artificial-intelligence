@@ -29,8 +29,9 @@ funding:
 
 topics:
   - AI
+  - AI in Security
   - Machine Learning
-  - AI in Healthcare
+  - AI in Finance
 
 tags:
   - FinTech

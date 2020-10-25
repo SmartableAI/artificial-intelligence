@@ -75,7 +75,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 74957
+        "followers": 74961
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -197,7 +197,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 56732
+        "followers": 56731
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -254,7 +254,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 4217
+        "followers": 4218
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -435,8 +435,9 @@
       },
       "topics": [
         "AI",
+        "AI in Security",
         "Machine Learning",
-        "AI in Healthcare"
+        "AI in Finance"
       ],
       "heat": 96,
       "tags": [
@@ -882,6 +883,7 @@
       },
       "topics": [
         "AI",
+        "AI in Security",
         "Machine Learning"
       ],
       "heat": 57,
@@ -1471,6 +1473,7 @@
       },
       "topics": [
         "AI",
+        "AI in Security",
         "Machine Learning"
       ],
       "heat": 50,
@@ -1621,7 +1624,7 @@
       "twitter": {
         "username": "cnvrg_io",
         "url": "https://twitter.com/cnvrg_io",
-        "followers": 882
+        "followers": 881
       },
       "size": "11-50 employees",
       "yearFounded": 2016,

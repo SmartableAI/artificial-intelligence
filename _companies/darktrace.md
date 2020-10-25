@@ -24,6 +24,7 @@ funding:
 
 topics:
   - AI
+  - AI in Security
 
 tags:
   - Europe

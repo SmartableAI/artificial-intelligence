@@ -28,6 +28,7 @@ funding:
 
 topics:
   - AI
+  - AI in Security
   - Machine Learning
 
 tags:
