@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 186524
+        "followers": 186537
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -123,7 +123,7 @@
       "twitter": {
         "username": "definedcrowd",
         "url": "https://www.twitter.com/definedcrowd",
-        "followers": 1519
+        "followers": 1520
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -240,7 +240,8 @@
       },
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI in Sales"
       ],
       "videos": [
         {
@@ -283,7 +284,7 @@
       "twitter": {
         "username": "Dialogflow",
         "url": "https://twitter.com/Dialogflow",
-        "followers": 11981
+        "followers": 11982
       },
       "size": "11-50 employees",
       "yearFounded": 2010,
@@ -609,7 +610,7 @@
       "twitter": {
         "username": "NarrativaAI",
         "url": "https://twitter.com/NarrativaAI",
-        "followers": 588
+        "followers": 587
       },
       "size": "2-10 employees",
       "yearFounded": 2015,
@@ -765,7 +766,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 16346
+        "followers": 16347
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -1066,7 +1067,7 @@
       "twitter": {
         "username": "taskus",
         "url": "https://twitter.com/taskus",
-        "followers": 3941
+        "followers": 3942
       },
       "size": "10,001+ employees",
       "yearFounded": 2008,
