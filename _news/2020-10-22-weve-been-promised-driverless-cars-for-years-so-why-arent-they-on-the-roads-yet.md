@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/weve-been-promised-driverle
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/"
 type: article
 quality: 83
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/10/22/12/34703790-0-image-a-15_1603364583923.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Driverless cars: what technology do they need apart from being “driverless”?"
-    excerpt: "The concept of “driverless” had existed for decades, and as time went on, it became a reality. And it is emerging to be the norm in the next decade. Especially because of"
-    publishedDateTime: 2020-10-20T14:14:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/10/20/driverless-cars-what-technology-do-they-need-apart-from-being-driverless/37493/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 36
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/Driverless-Cars.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech"
     excerpt: "But the promise of self-driving cars has yet to be realized, though that’s not for the lack of promise or trying. Self-driving, also known as autonomous, cars have been in the zeitgeist since the late 1950s."

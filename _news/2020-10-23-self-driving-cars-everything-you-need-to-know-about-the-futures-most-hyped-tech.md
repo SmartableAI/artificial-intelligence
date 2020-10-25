@@ -73,20 +73,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Driverless cars: what technology do they need apart from being “driverless”?"
-    excerpt: "The concept of “driverless” had existed for decades, and as time went on, it became a reality. And it is emerging to be the norm in the next decade. Especially because of"
-    publishedDateTime: 2020-10-20T14:14:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/10/20/driverless-cars-what-technology-do-they-need-apart-from-being-driverless/37493/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 36
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/Driverless-Cars.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "kJgEGtQ72a2gmY4JKRukXWTjS+P+FKaJtXayIrgHfNfHJ/548D/SIYbRqWmXp84WoLRUu2KnMn2Sg52PnLaB9bFrTiUMpikMCUHzoCgLeFzMJTYY7nNZQH03Z5E22dqGpRQKm+a01PT+EgxzPsl6qvScQQZ6hYat6jMRpIzNtS6Vq6RDduoQtWZtE5uG+u9XXEQSPGxs/0Sul52OFgemWhRoGOGPgiGAwpz0/7CgWATP+c54n9Zahb0TpBwLQ7V2UNgVkmBhtmGNZOoJyGcO8K6s1C/3gWLs3Yvhdb8K9RhBxVgc9MWk+kqduOCifdPuGDBl31hLphwmwjMWZcDLrUin9VmD5OoVNKtt0AizZOcaXIuNez2Ml2aij07rhapvpS7evIld5AMvI2+p/KNWotKQO0wEK9KB9KfBKGmoD64mvGcOWE5Ph0CApZ9HSBwUWBrFnkH+C8AGGoqzggmSlq5mxx3KFtGZLO6gzfhwFC35Xot4v73+4P54qsvEiMbcfYxSek3wFE0ZygcETTlFIA==;8ClANGU8jsx+gVHaG035Hw=="
 ---

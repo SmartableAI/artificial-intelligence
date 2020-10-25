@@ -23,22 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Stampli, an invoice management software startup, launches a payments product"
-    excerpt: "Stampli, a collaborative invoice management software company, introduced a payments product today called Stampli Direct Pay. The startup launched back in 2015 with a mission to simplify invoice management through collaboration (and a dash of AI)."
-    publishedDateTime: 2020-10-20T14:05:00Z
-    webUrl: "https://techcrunch.com/2020/10/20/stampli-an-invoice-management-software-startup-launches-a-payments-product/"
-    ampWebUrl: "https://techcrunch.com/2020/10/20/stampli-an-invoice-management-software-startup-launches-a-payments-product/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/stampli-an-invoice-management-software-startup-launches-a-payments-product/amp/"
+  - title: "Novartis in Canada driving digital healthcare solutions with the inauguration of a Biome innovation hub"
+    excerpt: "The announcement was made at the virtual XEFFERVESCENCE Digital and AI in the Healthcare Industry event ... of Montreal's dynamic and world-renowned artificial intelligence (AI) community ..."
+    publishedDateTime: 2020-10-21T13:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/novartis-in-canada-driving-digital-healthcare-solutions-with-the-inauguration-of-a-biome-innovation-hub-1029705304"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/Stampli-co-Founders-Ofer-Feldman-L-and-Eyal-FeldmanR.png?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
 
 secured: "My4VUmg8ppL4HKvZ/vK+ViKSDZvLZw0/XuWXWEcG3xg5XdnPdN/8I5xNO/3b0n+TA9dW9egNda2stcKVWqZBlY5r4IDjcQOYEXstEIhQF9AfsbqwzqGG3FVJo9kGzY/NH7ny10KCNIBW/A6wv0D6goIVVhnmgtXjkYcWJcD8jdkN/zeYo9gdkrjKFeOvag0/n/NEh3gRq6qZe32hQLp/Ea1OsKzCxXogDuLAEdtArs6H3Jexped7caBjFFndo3bLxb0t8cguHqAUrunIIxrtR4Z79opoM8j4WsDMZ+dnii3ijwEXCTniOaFFh7EXTXhwruXRSrCsPXEjly5u+Q2jckIzVJkNmoOnq5Vsw/An6ug=;frIhDZBNSdCjuwgbg/rCzA=="
 ---

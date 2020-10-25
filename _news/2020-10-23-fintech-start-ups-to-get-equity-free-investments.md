@@ -82,15 +82,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 17
-  - title: "CBB launches fintech platform"
-    excerpt: "test and deploy fintech solutions. Through an AI-powered global fintech marketplace, FinHub 973 will aim to connect financial institutions in Bahrain and the region to fintechs from around the world. The digital lab will also offer matchmaking and ..."
-    publishedDateTime: 2020-10-20T14:29:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDjN0GmMKpFp%2bEXmGE4YiLTA%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 4
 
 secured: "yn6gdP920Fq2Yimvmxsul8/V/x0LFdmK8EGHIKlP/lUGy4PMqLlfHW7sfIktrClJXPyVh3bcxwn9CN5zfrTJrpFw5WdbjB6XLMfathNlx3WcmL61paDVHZWWCq2t8PB2qwIg3zNPhXl80X2R4FT0iQfoEGZYhT1Kxk54ZaMGioz4s8b6cwKtzWyj5kS5mAGflfkLaEOosX28YXtsnkpAfk7M2IA+/F10st+bqSE9B2qukmWcsUx4pS3qN3yutBY5MLOPtmWC6fgW1Jvta9KHYfWOJPbcrEERXJJV+/A/YMHqGKe+rUqY/sUBbOJwdRSt3NbMomOI+Fk/N4qbuj3oVjOxx8tcMcXpmQWlFIhfw4s=;UNdsXIoPWgRNzHJM2zeFAw=="
 ---

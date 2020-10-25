@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/intel-welcomes-first-satellite-ma
 webUrl: "https://www.analyticsinsight.net/intel-welcomes-first-satellite-made-artificial-intelligence/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 900
     height: 500
     isCached: true
-
-related:
-  - title: "Intel is providing the smarts for the first satellite with local AI processing on board"
-    excerpt: "Intel detailed today its contribution to PhiSat-1, a new tiny small satellite that was launched into sun-synchronous orbit on September 2. PhiSat-1 has a new kind of hyperspectral-thermal camera on board,"
-    publishedDateTime: 2020-10-20T13:12:00Z
-    webUrl: "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/"
-    ampWebUrl: "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/C0140-Large.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "SPGGIi3NHtbURQPzUFSzvY5xiPzVJ/7WWqXaM59ZgdcpcbqqcW3qFWG3682kf0sQHfNpobwYEsXUQ5ojvF1u6YuKDOR7xXyMogcinsPPS3EOTi4hqgb7rTuGgh3GfHv1nOx2rGEes/msxrljeyp3M4d1h5zv885UT3Eq0A8BKiEj4sXyNHYUT0UUjbKvWzs7KtclfKgELKhj9TaZRtbeNxpEBQxwD72/wVHaaOll4uaoFHlQOhPufhW5QAyZVr4y8Xfu7j21SIu0RP3b8LQetKsd6F7K831kYg9xfdm6sXgG26eiKUmHIHcW5VDTYSaO0ascHE5MyMmfxJGiquZeJ4GMGDD5rXF/xs2VB57e854=;hjTNGtzFW/TQGI9BCv0wfA=="
 ---

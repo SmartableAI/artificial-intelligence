@@ -80,15 +80,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "CBB launches fintech platform"
-    excerpt: "test and deploy fintech solutions. Through an AI-powered global fintech marketplace, FinHub 973 will aim to connect financial institutions in Bahrain and the region to fintechs from around the world. The digital lab will also offer matchmaking and ..."
-    publishedDateTime: 2020-10-20T14:29:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDjN0GmMKpFp%2bEXmGE4YiLTA%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 4
 
 secured: "+uISlNncSSjB2zOs0xPO/VAW53V/ztyDdCih45RDNq5jQi+umTMGJr+ST07VEDckwVeynZp/lNhVv9Se0I43iTm9Dwu6h0gsg4ErkPUM516VN9HeGYRGV8PqNy3FytQQm7+CR+dh3/ZhR8wWw0ZGpvYOQfpVYM9pceCrRtekkcnDgiZcKD6zMhfivOQCgTggC5xLE7RrGkHEWK7YsNrXrmO2ClyjsRLff1aJfTR3UYORVG1LLyoxUEnQAIvxD0IKsvI7Fg6gCpLVxyhz8S/PPdZWbVPNwRbUmimz7UyMQ+yZwd0yqZbNbUxKx6RzaU5GbzBKN5iwLo9C329ppz5Ojf2hJwWAQc8hswOWDhVlwK1c8EFOKagjsUpfLROVBH0B1Kn45nbJ4ItHX6yx0n0xQ/O55y7j+x1vKFiB/HguOc1DQyP8zb+s2tShOmtike3j7Z8exOJd1f8gOsPDnyl+s7t0lNwA7ynLclMmEVjOxPOHrlqOCpmKPUGfZaSJTrdOiN2h7on8AQvaYiclZBaFYA==;HmkbMNkmmftTPE+u6+Tm3Q=="
 ---

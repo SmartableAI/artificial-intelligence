@@ -166,7 +166,7 @@
       "originalUrl": "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1105,7 +1105,7 @@
     {
       "path": "_news/2020-10-14-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
       "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
-      "excerpt": "ZURICH, Switzerland & MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that ...",
+      "excerpt": "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment.",
       "sourceUrl": null,
       "webUrl": "https://www.businesswire.com/news/home/20201014005706/en/KNIME-and-H2O.ai-Accelerate-and-Simplify-End-to-end-Data-Science-Automation",
       "originalUrl": "https://www.businesswire.com/news/home/20201014005706/en/KNIME-and-H2O.ai-Accelerate-and-Simplify-End-to-end-Data-Science-Automation",
@@ -1132,8 +1132,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
       ]
     },
     {

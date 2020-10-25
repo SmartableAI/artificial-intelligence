@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/358321"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358321"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 17
-  - title: "CBB launches fintech platform"
-    excerpt: "test and deploy fintech solutions. Through an AI-powered global fintech marketplace, FinHub 973 will aim to connect financial institutions in Bahrain and the region to fintechs from around the world. The digital lab will also offer matchmaking and ..."
-    publishedDateTime: 2020-10-20T14:29:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDjN0GmMKpFp%2bEXmGE4YiLTA%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 4
 
 secured: "UE4kwTq/SoiACALer29B+hndYTORw+JVN8c4jDGZcEqOYDLREsWRRB56Z1u5/1trxIxGHT3dinsbxMlDK9WqlZ+NsxC3O5ugCkAMvkG++6FIH+4REeZXWn2Xh3xlA7UTboI7gZTE0JOr9gAryNmNEb3/+nFa6X2z+JcrL0c2DTrH2wsTbIpRlRtzuR997AfYDnWJomSgIsAQto2tabJyhex1pFDDWuJDGdV15f59DFzY/UBVm6D8s++7RGc4BYUr3IzlqqKgVtDXvtoX5LTL+rFhZRqFuYuoSAFl2vR3Jpjd5OGWUy8fJkEQgXnLvzXh0oS1tW7WcKm0qfhaEpPzy6CkRFclSX7TvC5xuXUdMlt7j0DOzwbw5C43j/Gv0Y3Y3y/32/Y5DFQeInBv5poPCo6Vg7VHB9isGg6dh+oz7S2DzGJT5u//z91TxHE2G+60E+fniqpo7v0CObr86T1HShpu0d4awzJo5lc/iijWZ6FzmFmGvWCiaCPhA2vHtTpm/uQEPC6/Y0bQxqlsnLji0g==;fswIXByVrO5X0/eHq37Jnw=="
 ---
