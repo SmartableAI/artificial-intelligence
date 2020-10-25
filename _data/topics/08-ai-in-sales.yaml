@@ -1,0 +1,15 @@
+taxonomy: topic
+_id: ai-in-sales
+name: AI in Sales
+shortname: Sales
+parent: AI
+keywords:
+  - crm
+  - sales
+hashtags:
+  - "#sales"
+images:
+  - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ai-in-sales.jpg
+services:
+  companies: https://smartableai.github.io/artificial-intelligence/api/companies/ai-in-sales/
+---

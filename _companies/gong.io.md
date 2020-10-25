@@ -30,6 +30,7 @@ funding:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Sales
 
 images:
   - url: "https://pbs.twimg.com/profile_images/1278341256020545541/Ynk-PJtL_400x400.jpg"

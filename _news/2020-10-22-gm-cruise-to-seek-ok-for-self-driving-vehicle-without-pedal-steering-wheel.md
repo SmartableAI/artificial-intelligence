@@ -51,6 +51,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Ford’s next-gen test Vehicle lays self-driving foundation"
+    excerpt: "Beginning  to roll out this month, Ford and Argo AI‘s fourth-generation self-driving test vehicles are built on the Escape Hybrid platform and feature the latest advancements in sensing and computing technology."
+    publishedDateTime: 2020-10-25T18:59:00Z
+    webUrl: "https://gadget.co.za/fords-next-gen-test-vehicle-lays-self-driving-foundation/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
+    images:
+      - url: "https://gadget.co.za/wp-content/uploads/2020/10/1-QTFqvEO6Ycqd6nqk9Cd-vA.jpeg"
+        width: 700
+        height: 405
+        isCached: true
 
 secured: "+BOa5yPJcmadlykpCPd2smWQ0W510uD1F0dYWOD0DEpNd7ldnsND7fTuq3B+u3Mk/vjsUpXVrLbRlci5j7j677fRfRtGyuoS1BopCtgJoyYDK95SIeDeE4apZhp+LL9TQOrSJHPVEUGPAlJZKB04KgCwSvv0Y2O/MZNsnIHvGq5O+nBrzNZypBRzXjnXS8ur7hYr05tSqYQD5MJUPwECIX7a1qR+Aj6xrMXfiEUShwpC21/507fXIpZczkcjS/CzZnpixb7c3XYjQo/82KN3ivNOc1SXt/13xPw8KEOsm7pZwZSGxM5oNXeXDi0EPHcF7Loh17ai3yG88w/cqjGiVBfCAJVY7582+itLTC/kXCc=;xUXdaEr3nMm/fmnsHktUrA=="
 ---

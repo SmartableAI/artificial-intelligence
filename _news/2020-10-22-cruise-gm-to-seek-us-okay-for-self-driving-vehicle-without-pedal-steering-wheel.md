@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762SP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762SP"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/cruise.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Ford’s next-gen test Vehicle lays self-driving foundation"
+    excerpt: "Beginning  to roll out this month, Ford and Argo AI‘s fourth-generation self-driving test vehicles are built on the Escape Hybrid platform and feature the latest advancements in sensing and computing technology."
+    publishedDateTime: 2020-10-25T18:59:00Z
+    webUrl: "https://gadget.co.za/fords-next-gen-test-vehicle-lays-self-driving-foundation/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
+    images:
+      - url: "https://gadget.co.za/wp-content/uploads/2020/10/1-QTFqvEO6Ycqd6nqk9Cd-vA.jpeg"
+        width: 700
+        height: 405
         isCached: true
   - title: "GM, Cruise to seek OK for self-driving vehicle without pedal, steering wheel"
     excerpt: "Cruise says it will team with majority shareholder (NYSE:GM) to seek U.S. regulatory approval in the coming months to deploy a limited number of Cruise Origin vehicles without steering wheels or pedals."

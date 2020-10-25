@@ -149,6 +149,20 @@ related:
         width: 1400
         height: 616
         isCached: true
+  - title: "NEC Unveils Mask-on Facial Recognition"
+    excerpt: "Japanese electronics company NEC has developed facial recognition technology that can identify people even when they are wearing a mask -- a breakthrough that promises many practical applications amid the pandemic."
+    publishedDateTime: 2020-10-25T18:39:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/videos/20201023212821053/"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 39
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/videos/20201023213308229_898390_L.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "B6k+Oi1JfpNPSWuqtI0tPAiQDVpv91iZGtdE79jcDtoALX+L8dhyADiO9x07lPbCUNg00RHy0ErVlXyMy7Gk0+tcDGR3gBuB9FbpePOgA7ICACEpD6c4lSRUsWXuq3kul6iyvI/sPD6LNk4yMyjrUpZWHumI4bmsd253Vx16/A5UTCpKP1GpPFag+Kyx1Zl2SH3b6Y/wCf2+dbD/xlSXqsTvCxH9fUR2pc54C1FwlyagVdX4TOA1lPw2SepU5EKoZSnQjyemmyRPPqgQBgxcvIpQWP8IegsImP5gIS0YVnOUgqMrZfRUfgHJCrxFQUhkw0UcdZkPfUcND+XWb9X/0LXtLhwCH1cS1OzzSJ5RZ13uEOE48Ypslh7JUN2WneYyeYc51snBgFlUz0JSe/6+jk845xYiWJVtMBOkLIQvDLvHaX00cgKzorkAmcvhIMDnGd4803KatUCrdijLKQ44BZGQqUMQszaHr3nrcZHYsR2SfnEg/mnjHdxpZeGjMUB3DFGRfOPtCvl1OtO9i38AzQ==;xtIodOSzBifUsiHDxIOtaA=="
 ---

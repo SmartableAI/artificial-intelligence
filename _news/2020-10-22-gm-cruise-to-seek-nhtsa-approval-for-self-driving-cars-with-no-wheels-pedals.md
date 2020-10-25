@@ -43,6 +43,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Ford’s next-gen test Vehicle lays self-driving foundation"
+    excerpt: "Beginning  to roll out this month, Ford and Argo AI‘s fourth-generation self-driving test vehicles are built on the Escape Hybrid platform and feature the latest advancements in sensing and computing technology."
+    publishedDateTime: 2020-10-25T18:59:00Z
+    webUrl: "https://gadget.co.za/fords-next-gen-test-vehicle-lays-self-driving-foundation/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
+    images:
+      - url: "https://gadget.co.za/wp-content/uploads/2020/10/1-QTFqvEO6Ycqd6nqk9Cd-vA.jpeg"
+        width: 700
+        height: 405
+        isCached: true
   - title: "GM, Cruise to seek OK for self-driving vehicle without pedal, steering wheel"
     excerpt: "Cruise says it will team with majority shareholder (NYSE:GM) to seek U.S. regulatory approval in the coming months to deploy a limited number of Cruise Origin vehicles without steering wheels or pedals."
     publishedDateTime: 2020-10-22T02:36:00Z

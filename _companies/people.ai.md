@@ -29,6 +29,7 @@ funding:
 
 topics:
   - AI
+  - AI in Sales
 
 images:
   - url: "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg"

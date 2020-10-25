@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Marketing
 
 images:
   - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/amazon_123rf.jpg"

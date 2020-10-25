@@ -30,6 +30,7 @@ funding:
 
 topics:
   - AI
+  - AI in Sales
   - Natural Language Processing
 
 images:

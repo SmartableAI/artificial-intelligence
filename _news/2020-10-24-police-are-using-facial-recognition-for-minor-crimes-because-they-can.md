@@ -140,6 +140,20 @@ related:
         width: 1400
         height: 616
         isCached: true
+  - title: "NEC Unveils Mask-on Facial Recognition"
+    excerpt: "Japanese electronics company NEC has developed facial recognition technology that can identify people even when they are wearing a mask -- a breakthrough that promises many practical applications amid the pandemic."
+    publishedDateTime: 2020-10-25T18:39:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/videos/20201023212821053/"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 39
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/videos/20201023213308229_898390_L.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Facial recognition utilized by protestors around the world to identify police"
     excerpt: "Portland’s ban on the use of facial recognition technology does not apply to individuals, which is why Christopher Howell has been allowed to continue identifying police officers in the city who"
     publishedDateTime: 2020-10-23T20:40:00Z
