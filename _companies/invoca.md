@@ -29,6 +29,7 @@ funding:
 
 topics:
   - AI
+  - AI in Marketing
   - Natural Language Processing
 
 tags:

@@ -1,18 +1,18 @@
 ---
 name: "Tubular Labs"
-overview: "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time."
+overview: "Tubular Labs is the global leader in video intelligence for the cross-platform world."
 type: "profile"
 heat: 50
 
 website: https://www.reflektion.com/
 
 crunchbase:
-  url: https://www.crunchbase.com/organization/reflektion
+  url: https://www.crunchbase.com/organization/tubular-labs
 
 twitter:
-  username: ReflektionInc
-  url: https://twitter.com/ReflektionInc
-  followers: 1446
+  username: TubularLabs
+  url: https://twitter.com/TubularLabs
+  followers: 3907
 
 topics:
   - AI
