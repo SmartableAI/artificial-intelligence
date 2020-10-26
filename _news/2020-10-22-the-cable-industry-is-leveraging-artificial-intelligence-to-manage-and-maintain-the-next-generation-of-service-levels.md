@@ -79,6 +79,20 @@ related:
         width: 740
         height: 450
         isCached: true
+  - title: "Organizations need to understand risks and ethics related to AI"
+    excerpt: "Despite highly publicized risks of data-sharing and AI, leadership at many orgs are underestimating the ethics of the technologies they use."
+    publishedDateTime: 2020-10-26T05:04:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/26/ai-ethics-risks/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 54
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/07/09093904/ai2.jpg"
+        width: 1280
+        height: 891
+        isCached: true
   - title: "Survey: Majority of Financial Services Organizations Plan to Invest in Artificial Intelligence (AI) in Marketing to Better Connect with Customers"
     excerpt: "Powered Copywriting technology, today released the findings of a survey targeting financial services organizations, highlighting the importance of brand language, while emphasizing difficulties in being able to generate high-quality content and an increased focus on artificial intelligence (AI) to alleviate these challenges."
     publishedDateTime: 2020-10-22T13:00:00Z

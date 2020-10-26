@@ -23,6 +23,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Harvard professor launches startup to help companies protect their AI systems from hackers"
+    excerpt: "It is one thing to climb the academic ladder at one of the world’s most prestigious universities and gain full professorship in just seven years, but it is another thing altogether to take on the world’s hackers and prevent them from messing with companies’ AI systems."
+    publishedDateTime: 2020-10-22T14:55:00Z
+    webUrl: "https://www.techjuice.pk/harvard-professor-launches-startup-to-help-companies-protect-their-ai-systems-from-hackers/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 27
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/10/yaron-singer.jpg"
+        width: 646
+        height: 430
+        isCached: true
+
 secured: "vw+dP0Ot2VIU0KuMWkhA6G/QWeV/Mj5OmTgJZZYJo2WAuw4FVAhOxkiloMDNkpV/RcTQSs8BozDRlU1fANJpsMJNi9xLE3ys8SzT49SK3rvbNfvrkAoozL1G87xt924QI2/552F8Pkd3NnYNvcFXWYyL7uCfMc43jqj/2EjCUj4aBte+WBsSoAg0/HwJpQHYvOZvron1TP49tdXGUcXmE2YGIDgU6Uk+cRVxVfCvuDpg/FIEsAO1YMmjGxxCd2XwMQKLqLLB0LPl/ImN0bVrhlc7qWZ8AqA8NCzHBAN1t54j/o0d0BJ/yxibeqiwRIBjkZrF+SJtVE3KPAlphu7oznEhF9UvExcS7O2Soxvjnq0=;rviM71UyJs+6FDxdrE0AXA=="
 ---
 

@@ -40,22 +40,6 @@ related:
         width: 360
         height: 236
         isCached: true
-  - title: "Facebook Aims To Predict COVID-19 Spread By Using AI"
-    excerpt: "Facebook has published a paper giving a forecast of COVID-19 spread across the U.S using AI. The company posted the news claiming that its forecast has"
-    publishedDateTime: 2020-10-21T12:26:00Z
-    webUrl: "https://www.androidheadlines.com/2020/10/facebook-aims-predict-covid-19-ai.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/10/facebook-aims-predict-covid-19-ai.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/10/facebook-aims-predict-covid-19-ai.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/11/Facebook-Logo-Nov-15-2018-AH.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "gMROHSXFHpO7CA/8YH9Aqn2uv84nQq+eEkd/aXmDwFV0EslRoTFe0T4Mcwrbp3JwpoNIBFl5MaLvuQWy3NfTUiKFjx2qbfT+jwcIj6OWwaZZcaMQhDYEZMA63StVckbokV93qKsCDOqPC/+q94iLmXzvLk22F/llYCQPwVSN/JR/UMaZySicsJIHX7RnRzEFT2V6B2ssl//xFE1unRUbUFdkfMjnn8S+lndLu7z5db5edut107Kc3bP2xk5VDfTv0QoI9OeR9I7ZSBazVoWmXXRdNUPp49ciMfLRWllN3WIMfFsliKmGCCHcCJypBZlL5A1tfBAeKDnTML/BBGOk+Ow8zWZe03RxJ/7wJlbxx6xB2WH/T4FCgOz46UgWcmDIizqI1wrgT9AD/CJCpTqNTXIhUNCbpRq1WQNdKGEk63WBoGxmFswCSvMXyUvMxv3m9eCJ92AVi3e+qqXACttuJaj8k9hbZzR7hnVnJqOZcvnNzSgvWSyp/3tAjXZqlnx5Xnf+6O6MryfRqNy5kdxQHA==;agtakTtXol1DE6VQ+ZQMDg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-az
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -152,6 +152,20 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 49
+  - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
+    excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure."
+    publishedDateTime: 2020-10-26T04:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://mma.prnewswire.com/media/798393/Boston_Consulting_Group_Logo.jpg?p=facebook"
+        width: 756
+        height: 396
+        isCached: true
 
 secured: "PFnTckfEJEQUAgHsNTevZ81S7zBGYIgDmmoTgFX7cgQD5bGPVmees//hSSwVgaj70AeuEgRsOVW6yFtt5TeLDshBlhpTD1A1bGZuWoQVEX39VlcsF0K8BeLGUrp703iZLLkx6omsxaidCxWd9tWbKEik8DcXQW4Lzzr2qvmofBpYaS1dj2mcQ5y52lX/jDLBfYcbdbpjxjfDB1J/Z6ICSjMhthUcvpc+Fz2Z6KM1Bt6pk83rQqBVjY87rGg2OaEJacQya854ZItIIze/6MHxozYAfroeUEWBm3YGwEJowfybeAAgdScw/JL8W1YVVL3APJ1jm2z2Y1KLu6gwETzJuQVj6PJrjLLJn/AoU5rD6IXVOErucBpPsDALu72HHBBP2ch/VdTvyGdWbj9YaqPrVNXxpoq20Iapl8SP4P9ySh5bVXNPBixr1G3chYVRsyrFyRjg6LcFdophk869KS5wcTe4ZHFpHMIOR43daOtj4nVW2zFW/u7MT1gAsgVbR4xo+Pr9pAp8fX2TFbJrt54YWw==;NFB0/mGKG+i3Nh/vnFdWKg=="
 ---

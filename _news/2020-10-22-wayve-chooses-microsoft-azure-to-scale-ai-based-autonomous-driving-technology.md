@@ -152,6 +152,20 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 49
+  - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
+    excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure."
+    publishedDateTime: 2020-10-26T04:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://mma.prnewswire.com/media/798393/Boston_Consulting_Group_Logo.jpg?p=facebook"
+        width: 756
+        height: 396
+        isCached: true
 
 secured: "TMyNHWOLwEdSaaVeyqgIjtbRYaZES9h06zAlLqo89Sv58DLOaibuGtyNgTvoZ7tJLLibC1ts+MTt5G5ZgE7bnsdbtrsg5XW0LatazSglyrWD7S8/XHagI7++h02omZalNIth88+4ImMgeC3s+Weq8bSGmiQyEH0jAbaZXTCMFx4YP8b3j5IGbDKyoRioBf0Q4BsTaYSzJOZaKDQGlV7Y3/BKY7Q+tzpSR3ERbsOsdTjzYfM72GZIR4ArIS0hecmVwDn6kLGeLldpkwnzMYtuNXO1W53bY6fJG8Zv+SYy0ZpqL+aoJzVlLR2s/J+EAab5C/08ZKkZg6CslgoHNqUmMWp919AZFsDvC8B7Rw0Fkuw=;Bsi2dk+GuI8NYq7BfA5CGw=="
 ---

@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi launches national artificial intelligence strategy"
-    excerpt: "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said."
-    publishedDateTime: 2020-10-21T11:47:00Z
-    webUrl: "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2761N6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761N6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M"
-        width: 817
-        height: 545
-        isCached: true
   - title: "UPDATE 1-Saudis launch national artificial intelligence strategy"
     excerpt: "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy."
     publishedDateTime: 2020-10-21T13:23:00Z
@@ -124,20 +108,6 @@ related:
       - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI plan points to Saudi Arabia's global ambitions, future beyond oil"
-    excerpt: "Saudi Arabia’s national AI strategy aims to not only fuel deployment of new technology and economic opportunities, but to elevate the nation’s geopolitical status."
-    publishedDateTime: 2020-10-25T02:17:00Z
-    webUrl: "https://www.cio.com/article/3587231/ai-plan-is-key-to-saudi-arabias-global-ambitions-and-future-beyond-oil.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/06/cio_middle_east_saudi_arabia_riyadh_cityscape_kingdom_tower_by_swisshippo_gettyimages-185927876_2400x1600-100800152-large.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "+9HUlOpaG2MXOjW+4Iy12D4z4fORRTArTVFAINmHX9eIpK3pNEJokRhqZ5WJ6OunJ5y9nbFBl0Oq4PrKa0QJ9OIpafuXyZQSvGQU8NsFR2sRTv71Jyw7mN2Bm852i4A3ILNaZ847pNsNdH+qLeQdUT6QLh6O57J563YnBQk0tLi9J4k6C0BXt2ub+eAB76qFBJ7S5uBbQJ5IRfDNmxTkMKOvV64soZp/Ppv0sN+sIwypP3kMYFWNxYxd35iX/dzNxVcioAUF/+0IKQnLJLkE60JLpjH3H3KzO8SFmIhHl0VPYD+xrjRUhokqygltZD3KKrx6Pstmwo3H7Ps2P+Hl66ORP1J6/CoR9JJW2xFnWB8=;qhx/4RcVKtXcMF5+cUovfg=="

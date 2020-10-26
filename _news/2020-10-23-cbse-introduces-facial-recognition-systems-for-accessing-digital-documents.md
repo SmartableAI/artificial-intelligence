@@ -58,20 +58,20 @@ related:
         height: 776
         isCached: true
   - title: "Dubai introduces facial recognition on public transport"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
-    publishedDateTime: 2020-10-26T00:05:00Z
-    webUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html"
-    ampWebUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1"
-    cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1"
+    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition."
+    publishedDateTime: 2020-10-26T05:13:00Z
+    webUrl: "https://www.thejakartapost.com/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
     type: article
     provider:
-      name: Al-Monitor
-      domain: al-monitor.com
+      name: The Jakarta Post
+      domain: thejakartapost.com
     quality: 74
     images:
-      - url: "http://www.al-monitor.com/pulse/files/live/sites/almonitor/files/images/afppics/2020/10/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg"
-        width: 962
-        height: 642
+      - url: "https://img.jakpost.net/c/2020/10/26/2020_10_26_106391_1603685799._medium.jpg"
+        width: 747
+        height: 498
         isCached: true
   - title: "Dubai set to introduce facial recognition system on public transport"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"

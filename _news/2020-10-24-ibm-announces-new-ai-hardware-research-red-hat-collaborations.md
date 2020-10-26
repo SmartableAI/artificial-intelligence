@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM is making it easier to run AI workloads in hybrid clouds"
-    excerpt: "However, IBM Research, the company's R&D arm, claims to have identified new ways of tackling this problem. During the IEEE CAS/EDS AI Compute Symposium, held earlier today, IBM Research introduced new technology and partnerships that will allow businesses to dynamically run large-scale AI workloads in hybrid clouds."
-    publishedDateTime: 2020-10-21T12:30:00Z
-    webUrl: "https://www.itproportal.com/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/qfATwf5qVcGjMLuAaDkwx6-1200-80.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "IBM teams with Red Hat, other partners, to bring energy-efficient AI hardware to hybrid clouds"
     excerpt: "The AI Hardware Center will collaborate with Synopsys to address the challenges of developing new AI chip architectures. IBM said it is investing in infrastructure to accelerate new chip packaging development to eliminate memory bandwidth bottlenecks."
     publishedDateTime: 2020-10-21T14:15:00Z

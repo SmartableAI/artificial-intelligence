@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Dubai introduces facial recognition on public transport"
-excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
-publishedDateTime: 2020-10-26T00:05:00Z
-originalUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html"
-webUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html"
-ampWebUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1"
-cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1"
+excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition."
+publishedDateTime: 2020-10-26T05:13:00Z
+originalUrl: "https://www.thejakartapost.com/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
+webUrl: "https://www.thejakartapost.com/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
+ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
+cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Al-Monitor
-  domain: al-monitor.com
+  name: The Jakarta Post
+  domain: thejakartapost.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "http://www.al-monitor.com/pulse/files/live/sites/almonitor/files/images/afppics/2020/10/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg"
-    width: 962
-    height: 642
+  - url: "https://img.jakpost.net/c/2020/10/26/2020_10_26_106391_1603685799._medium.jpg"
+    width: 747
+    height: 498
     isCached: true
 
 related:
@@ -147,6 +147,6 @@ related:
       domain: hindustantimes.com
     quality: 23
 
-secured: "P65ylCXpK6hhAvO55oQ/3f829V4u6DOgJ+TRBtrQauuToOUbT7nwOALxBOWK61FXGPVIxoyaVpmWqXRL1T3AFQf7rIlyv7CSXMgjBZu4RzNsXRQkXR0T5L9gojMqwxrnHxRAcPDMDlGyvYHJg4EcKyOjVlDPlG8CKf6rbx5V+e8q7h+lL1gQcaDrSuhiY+w+VJPBBT75IunxQUOhPlYa2m6SqYRy3MRi9SNIhizilCYUHyF0RWNa16SDUFQUsbyL7lf0jp0IO0MKybnYnpKUeEF2ljCaITD1CSr6Uw/P6DnWd0dmpa6k4VfViWnCGOaW9HV+6HOj8yJddlnOeQvujUOdaoiJ48tQQGVY5WpNre0=;KjYY/cmBmWN6eYOfsQXqlQ=="
+secured: "2WHCmRddqYdIA+/sjt98t3c6xohJbDuqxIrPKemgyqgfOiNJa8GzfaEsFV5Zg/PEX5cHoS4WeNB3CNMJ2+a3dj03utIrVHPNDXq3gkGdQ12LGMw+N5oQR4KG5SL6k0jyUE6iAuaaT1u6NVD1qNQrwxIbV49+rpC06/QE4y8OzKqMN8kFYZyfDvl9a+5phJjmZt3efSts+bEGseTUUQVFGQ5iDrhsTM3N0L6XRhtzdakZEv0LZIDQ6veyTUSOIIjna+kRCNFVhu+4sqUyiTz0HaueHct8NSnX3eH7xwESB4/FL+dVWcDWhr3qskc776gVMjs+heeig057BVZjcgK0ssoJc0+x+JXzV+vjaQ1t/L4=;hvYctgLtVQZ4LSB7a5mvPQ=="
 ---
 

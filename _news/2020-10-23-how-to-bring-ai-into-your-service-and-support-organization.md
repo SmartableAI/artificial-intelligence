@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2020-10/handshake-3139227_1280.png"
         width: 740
         height: 450
+        isCached: true
+  - title: "Organizations need to understand risks and ethics related to AI"
+    excerpt: "Despite highly publicized risks of data-sharing and AI, leadership at many orgs are underestimating the ethics of the technologies they use."
+    publishedDateTime: 2020-10-26T05:04:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/26/ai-ethics-risks/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 54
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/07/09093904/ai2.jpg"
+        width: 1280
+        height: 891
         isCached: true
   - title: "Survey: Majority of Financial Services Organizations Plan to Invest in Artificial Intelligence (AI) in Marketing to Better Connect with Customers"
     excerpt: "Powered Copywriting technology, today released the findings of a survey targeting financial services organizations, highlighting the importance of brand language, while emphasizing difficulties in being able to generate high-quality content and an increased focus on artificial intelligence (AI) to alleviate these challenges."

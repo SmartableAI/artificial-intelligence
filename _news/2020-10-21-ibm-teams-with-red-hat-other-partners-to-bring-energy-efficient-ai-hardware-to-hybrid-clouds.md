@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-teams-with-red-h
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-teams-with-red-hat-other-partners-to-bring-energy-efficient-ai-hardware-to-hybrid-clouds/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM is making it easier to run AI workloads in hybrid clouds"
-    excerpt: "However, IBM Research, the company's R&D arm, claims to have identified new ways of tackling this problem. During the IEEE CAS/EDS AI Compute Symposium, held earlier today, IBM Research introduced new technology and partnerships that will allow businesses to dynamically run large-scale AI workloads in hybrid clouds."
-    publishedDateTime: 2020-10-21T12:30:00Z
-    webUrl: "https://www.itproportal.com/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/qfATwf5qVcGjMLuAaDkwx6-1200-80.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "IBM Announces New AI Hardware Research, Red Hat Collaborations"
     excerpt: "At the IEEE CAS/EDS AI Compute Symposium, IBM Research introduced new technology and partnerships designed to dynamically run massive AI workloads in hybrid clouds: The company said it is developing analog AI,"
     publishedDateTime: 2020-10-23T20:44:00Z

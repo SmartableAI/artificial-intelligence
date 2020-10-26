@@ -9,8 +9,8 @@ ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN2761LZ"
 cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN2761LZ"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: Reuters
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi launches national artificial intelligence strategy"
-    excerpt: "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said."
-    publishedDateTime: 2020-10-21T11:47:00Z
-    webUrl: "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2761N6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761N6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Saudis launch national artificial intelligence strategy"
     excerpt: "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy."
     publishedDateTime: 2020-10-21T18:27:00Z
@@ -124,20 +108,6 @@ related:
       - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI plan points to Saudi Arabia's global ambitions, future beyond oil"
-    excerpt: "Saudi Arabia’s national AI strategy aims to not only fuel deployment of new technology and economic opportunities, but to elevate the nation’s geopolitical status."
-    publishedDateTime: 2020-10-25T02:17:00Z
-    webUrl: "https://www.cio.com/article/3587231/ai-plan-is-key-to-saudi-arabias-global-ambitions-and-future-beyond-oil.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/06/cio_middle_east_saudi_arabia_riyadh_cityscape_kingdom_tower_by_swisshippo_gettyimages-185927876_2400x1600-100800152-large.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "EJakAp7KWVsUh1qkApQwjhx0FVW2SmLegSOXXxg5QQX44v458z90dRgsgscSSDe8CKphF/qWJfE3+JxGRQN1d7bCA3Xugw69azLaC8qtf9m1X/Sm1c+ooQbYPvO/t75yq+eYGy0FvrHoSMP5zGJT33GIc6IX1mUFXzRyMsr07hgA8lSSfmTE9W6Mpbf+Crzgfgs7LhWFwL6UcVzBwBb4vpPgogYknpWdAobz7QR96bWE/0/103HLgJ2sfBDW8SfJP3MHOHKCKYVqSVBbWXt1dM9NnGNGmTrZzSFuilRn+6ixdnTp6B+bosu0UkSmlKvqZs4c7ITZTTw8McYVJZJj5p+TWkamD/KH16tkb1WzB7I=;dd+AYvVi97C04R/heiqh8Q=="

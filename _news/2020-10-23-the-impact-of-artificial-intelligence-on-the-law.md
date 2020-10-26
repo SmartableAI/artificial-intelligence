@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI Will Transform The Digital Workplace In 2020 And Beyond"
-    excerpt: "With a recent focus on digital workplaces and remote workers, artificial intelligence (AI) is increasingly playing a leading role in automating previously manual processes and creating new opportunities for deployments."
-    publishedDateTime: 2020-10-21T12:24:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/21/how-ai-will-transform-the-digital-workplace-in-2020-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/21/how-ai-will-transform-the-digital-workplace-in-2020-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/21/how-ai-will-transform-the-digital-workplace-in-2020-and-beyond/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Benefits and Risks of Artificial Intelligence"
     excerpt: "In the midst of all this, there is another age slowly taking shape, the Artificial Intelligence(AI) era. Many believe that this will be the next evolution for mankind. Whether that bodes well or not for mankind,"
     publishedDateTime: 2020-10-22T10:51:00Z

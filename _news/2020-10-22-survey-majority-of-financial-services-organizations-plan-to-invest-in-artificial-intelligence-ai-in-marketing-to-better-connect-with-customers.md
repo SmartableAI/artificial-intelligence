@@ -88,6 +88,20 @@ related:
         width: 740
         height: 450
         isCached: true
+  - title: "Organizations need to understand risks and ethics related to AI"
+    excerpt: "Despite highly publicized risks of data-sharing and AI, leadership at many orgs are underestimating the ethics of the technologies they use."
+    publishedDateTime: 2020-10-26T05:04:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/26/ai-ethics-risks/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 54
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/07/09093904/ai2.jpg"
+        width: 1280
+        height: 891
+        isCached: true
 
 secured: "UltXQuli60gLukTyIvVglf5yPuc6F8ktW2zEEzMtfw9DE6cvu2fhZbEq+4eZXQhttQASzhVM397W1tY4VDsEAeHMTNVS10+e59lyijfP61AL/AR4Y3gWNi5/hhhqYEpJCA+kha4ggPfR2ZubHwoTirxHx3VIKsqTNtG7RjSRZlvki47eah6HoPGY9StlJWAJqZnm7pIKPThM5jB6Qgv7XielJhc9jnFIv2tvxIbVw7Hz5m2F/d5iKHCnJZAef4nIO4HSZejooku354btHdvlAUMjYkHKf4LYXIFVvfzProR8cv+IE3uPbGpb2Be5hy9X7oCiMQPKYX2guoERJAh/IaTjpfXIROB72XXGQWyOlis=;Fm7xDm9IkyWQzEWWDOqe7g=="
 ---
