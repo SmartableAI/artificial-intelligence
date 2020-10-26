@@ -7,7 +7,7 @@ originalUrl: "https://www.cbc.ca/dragonsden-ibm/ai-next-level.php"
 webUrl: "https://www.cbc.ca/dragonsden-ibm/ai-next-level.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 990
     height: 557
     isCached: true
-
-related:
-  - title: "Automotive Artificial Intelligence Market"
-    excerpt: "Automotive artificial intelligence is used for improving the efficiency and functionality of vehicles with the integration of advanced technologies. The growing popularity of autonomous vehicles ..."
-    publishedDateTime: 2020-10-21T17:10:00Z
-    webUrl: "https://www.openpr.com/news/2167424/automotive-artificial-intelligence-market-steady-expansion"
-    ampWebUrl: "https://www.openpr.com/amp/2167424/automotive-artificial-intelligence-market-steady-expansion"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2167424/automotive-artificial-intelligence-market-steady-expansion"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta21787830_g.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "HrywjLsw1t8WHAb0ljf56A0qFkUP3257pL3UlfIprWoQxuLoPw8GFyZcXzf71bnGKA/CU/8f6HbvgeQMkZy83QfbdpYVcnypwtcv9e61Ox2pjP6zW4Y3yPYeFi8Buo2nrQcWyL2CKkp72iBMtkOATy1KlVTSwV5huAkLRbywfgXgBFcdTbl3STG9E3uNPzj4NDe2iQDWLWekMQoifRYI6qHgrm4moFXNoSLFvB9HbOZv3M7G7H6/cdN5p8kZ0Cc8a6mBVepJJnq4Hg4u+HghwpsVGYdkOp9IbOzzUo2sNIqhYxcd3lSnExP67yF+0vUQmVNIqgCW55XHvoBnHNJGFdjSArnQzwQfqKQCNt7bjfnvDj+N2/fU11CpE4FU4ZURc7JuvT/T2rkKHvD78ZeRqdngt7eYtA9duhwfyZOAbb6zYPsCyjIT/XZmhE1oLrIGuoEMKqHUWtZ0Q6sq59mASCo5BInUO2tzsnYJpTSEjc9e2tu8nsdaSHpjePHbNgBmcRAor+SD+9XIJfIJiSyJWg==;eG/OZDjX9lldwgHQStV+nw=="
 ---

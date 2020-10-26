@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/24/why-you-have-to-pay-attention-to-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/24/why-you-have-to-pay-attention-to-the-indian-startup-scene/amp/"
 type: article
 quality: 72
-heat: 75
+heat: 76
 published: true
 
 provider:

@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Tesla’s ‘Full Self-Driving’ software is starting to roll out to select customers"
-excerpt: "A beta version of Tesla’s partially automated driver assist system is available, but not to everyone Tesla sent out the first “Full Self-Driving” beta software update to a select group of customers this week,"
-publishedDateTime: 2020-10-21T23:02:00Z
-originalUrl: "https://www.theverge.com/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
-webUrl: "https://www.theverge.com/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
-ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
-cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
+title: "Tesla 'full self-driving' vehicles can't drive themselves"
+excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
+publishedDateTime: 2020-10-24T08:28:00Z
+originalUrl: "https://www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10"
+webUrl: "https://www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10"
+ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10?amp"
 type: article
-quality: 84
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://cdn.vox-cdn.com/thumbor/htYBR0DzssLE6WDNXsijF8lUUDI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67668885/acastro_180524_1777_tesla_0003.0.jpg"
-    width: 1400
-    height: 933
-    isCached: true
 
 related:
   - title: "Tesla Full-Self Driving beta lands, but it's about to get more expensive"
@@ -191,6 +185,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ software is starting to roll out to select customers"
+    excerpt: "A beta version of Tesla’s partially automated driver assist system is available, but not to everyone Tesla sent out the first “Full Self-Driving” beta software update to a select group of customers this week,"
+    publishedDateTime: 2020-10-21T23:02:00Z
+    webUrl: "https://www.theverge.com/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/htYBR0DzssLE6WDNXsijF8lUUDI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67668885/acastro_180524_1777_tesla_0003.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
     excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
     publishedDateTime: 2020-10-23T07:06:00Z
@@ -266,17 +276,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-24T08:28:00Z
-    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "Tesla debuts ‘Full Self-Driving’ beta, but it comes with a warning"
     excerpt: "Tesla has debuted its much-anticipated \"Full Self-Driving\" (FSD) feature in beta mode, allowing select Tesla owners to experience the next phase of Autopilot."
     publishedDateTime: 2020-10-25T16:22:00Z
@@ -623,6 +622,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "q1+eoKbWiKuUQNr5CMIBtEYXkERT8bija6AKc0W/DUhn2HEfObBwNbmGsU4mzH8je4AdjdvyJDz2eGkyRVX5w1xEDlh3gvWhcu1YXimVwLRIjhlYq2L26dwhKqo3OnNbpmkSkJDXBNFu1ElmmegVxI6AHzwdRx32ohr81G7x8gnpIslLaJeCILg6PGo7s9TSp0ilmy7pX/iUKNuzk6ER0csCY5bVfMd0DaNqdMZFLInwmnBnxhdLrtm3Ey5c4ewj43NemRlmPl1OuDhYlsIKVPD6hAwtqUuFlHnJgS6Dghk85E439qqNKgnfGT++2phoujBbjkof63E+I8aIhReklTPBNMTI2Mmu+dQxfRsBF9z3aUQUStkKijLZR2+4Jg98kxErXQb2nW6oBio2OSMZKhIRDmMr1hpsPcP/Pm0dWISCk/1nDZsZWv3cAJgYhyidej2v7e870OK6ie1WhBSpHSRSvF0gDEApIrQMlV0y7XWWwIXbA52EzmBsCJpBgmqCY+7lO+hzZ6tXdoLY0C474A==;69ZMV7lKPZMvRYchqEbXhw=="
+secured: "c33HrYo8X0A3ojlMfclRhnICl5O+CDDrjjGhA6EqQoSqDD2J4rjX3PUvjXyrGVRAwEVLz7kf1PFLR+hIUcnngyASk8Gfg2Wn7E1TMrs5n8L0UIrEQeVrMZYzomFTeVrArwMNg/jrNTYV/hW+RsetJC8ChvEg0MeZTeq8Q4J+s/JS35tPZXZCpZdtmDe+Y6npPjzvpsPYjmDbgXGbK0ACoMfXZ3LmIoA1Mbvg+y6xnBFJkLgnS5fX0T0fMhjnagIzOITMMD/0U3YgA3+EN+C+f43iYES748TOvcWNIxzwzZgKhiYDughAUVcYx9Vf4UEGkEnPQ5NcNIvGBz+UBCF5KpqYXZZgagfpDS3HWuW3+WE=;pFeEB9jl7qCgY0g7yeqB3w=="
 ---
 

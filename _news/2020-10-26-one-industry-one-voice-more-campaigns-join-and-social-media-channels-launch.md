@@ -1,10 +1,10 @@
 ---
 category: news
 title: "One Industry One Voice: more campaigns join and social media channels launch"
-excerpt: "One Industry One Voice – web and socials launch with three more key campaigns aligning to boost unique cross-industry mandate. One Industry One Voice is a coalition of events in"
+excerpt: "One Industry One Voice – web and socials launch with three more key campaigns align to boost unique cross industry mandate . One Industry One Voice is a coalition of events indu"
 publishedDateTime: 2020-10-26T09:29:00Z
-originalUrl: "https://www.conference-news.co.uk/index.php/news/one-industry-one-voice-more-campaigns-join-and-social-media-channels-launch"
-webUrl: "https://www.conference-news.co.uk/index.php/news/one-industry-one-voice-more-campaigns-join-and-social-media-channels-launch"
+originalUrl: "https://www.conference-news.co.uk/news/one-industry-one-voice-more-campaigns-join-and-social-media-channels-launch"
+webUrl: "https://www.conference-news.co.uk/news/one-industry-one-voice-more-campaigns-join-and-social-media-channels-launch"
 type: article
 quality: 36
 heat: 36
@@ -24,6 +24,6 @@ images:
     height: 550
     isCached: true
 
-secured: "VTPYxUnUa4PaTSYt5d61gN9IY615FqT2rvK7Cj/iNldLEZO9XWFrpnOUODeIWOFcfocf7bPbsesOTAthdH6yfSp2fCoruDqBaJrG2GPyIYeKrBa0nQ2RtR4DcSmPqQoII2Xr8zKtI0pQeXLRoxXq4EbH4yLsIW7cSgGJ4NHS6aUZ5pIA5CICkI6tqTpri5pq+O4QLo4z5sHQj4tFNSw88dUc4/3Ea/zqXXdbNnxfTLdWv4OghkNbp4abIgUzLXKlA+YP+vpmg7SIFNo/ptQnzHtis8ZsWsAb/KZCsY6j+pKc3MdCvZf1KG8Uh9+F8RRX2dNiLtYEV/zvhKd83VedsOosms1xiYapSyAy/GlqZi4=;tZPSVvz1QeZF/s5XkeEylQ=="
+secured: "UAzvVahUJy0LcWuL7vRKgql7I3Y2yvbFme91uJBlKo7R3OI/G8FkS9tzZoJY/PJMcHZ+omtTf6nNdNp3l1d9HXFv7zThxi4KOki09aPYuxgtppn32o8iyOd38D/MoNiG4VoKLtktNwZ0vRycRuKn+AeU7L72sWDeuP3f2sepzkHoO+9L6BN7Bzp1Vglo1MwglHIAQKvHC7fgbndX2LfHUkP/1gqDbUsDVV9Zj100h5DQKbXFpxdUQ0vl89CDE+/A7F81Rvqcbjxjf1js3yLypzBZ533v0VKTh7rx5IEInXNeYR5LgCAUNbZiCUk4ScMGX2sB3j7PUocXPDP0Bv6z6unEAq/sMv5jwrXey8WCbRM=;LYh+EAfTwrj0GZ5D70ae5A=="
 ---
 

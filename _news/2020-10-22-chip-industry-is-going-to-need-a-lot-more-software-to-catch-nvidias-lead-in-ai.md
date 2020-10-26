@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chip-industry-is-going-to-n
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
 type: article
 quality: 100
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "NVIDIA Smashes Performance Records on AI Inference"
-    excerpt: "NVIDIA today announced its AI computing platform has again smashed performance records in the latest round of MLPerf, extending its lead on the industry’ s only independent benchmark measuring AI performance of hardware,"
-    publishedDateTime: 2020-10-21T18:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/nvidia-smashes-performance-records-on-ai-inference-2020-10-21"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "gIIxjSkjX3i0AaGqcUnsl/FLKOR78RtdsXzPnMpfu6e6vNytn6vJPtfe8rF3fn269eiWYWI6AJmEiBAnH30OVI/8BYoYuT+6ZAdQeg2aaOFXVe4lMaCpJtRBeErnat4QsTBtQThP1ihtOE3oWBsb0bQIPLNygxsPHXEFx7E3FMwAV3+rqbffiOluBvWjxlqKGkKWpSv8QdESa7QQl0+0Mv+DcF/DTJ2zt5bKLBBWMSd0e/PXkWIQxW5FzsJ67XuTBCq4JMD94Z/Bzg8txuhiwsBjnjVCTnWU7M6epdwCTmwuzhoxNAuNcsBtSJ71ICdYoDrORUVRVciS71pgGycSHeAjMwbbtEATdlfrEP/d8Y/AKnQ7Xah8pvax8Ap56bqdw/WZ6j/D8jHjGpRuwxsiCs7pHXOaodpjUYWxX5rWX05KMk6e5pSINjuv09NZAkv6Vscwr5ZqjAxwlcNvA61wXH7hBpQ0WAlHkKoYGD67EelE2xFvcFikUc1XHlfdboxPVoqsNeqjPbjUU7OGlG8zvA==;f5R2SR+D02bc08lv+1B8LQ=="
 ---

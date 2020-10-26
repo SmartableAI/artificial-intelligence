@@ -24,22 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Saudis launch national artificial intelligence strategy"
-    excerpt: "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy."
-    publishedDateTime: 2020-10-21T18:27:00Z
-    webUrl: "https://www.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUSL8N2HC4WS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2761LZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761LZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Saudi launches national artificial intelligence strategy"
     excerpt: "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said."
     publishedDateTime: 2020-10-22T00:19:00Z

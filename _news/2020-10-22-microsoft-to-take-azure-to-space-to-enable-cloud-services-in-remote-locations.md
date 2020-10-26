@@ -133,19 +133,14 @@ related:
       domain: channele2e.com
     quality: 49
   - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
-    excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure."
-    publishedDateTime: 2020-10-26T04:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
+    excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure. This SaaS-based, scalable offering"
+    publishedDateTime: 2020-10-26T04:11:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable/article_a85c3d82-fdb3-51fc-8c2d-ac3875a44bfa.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/798393/Boston_Consulting_Group_Logo.jpg?p=facebook"
-        width: 756
-        height: 396
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "zuuolt8656yaZcvPLh+F0coS0KdJxR5GmktjY+uVo1NItcTi13+8UjoGePhtY6nS9/GpI/91J6m5eaDtiBhzQaOL51jZ51St7k7EeAM8cS7Wg1ZgzUlpDfseR7r0yPwgIMgMIJQ5+o11k6+ujKRKjbTj+7nt6UTSZlh1xkrIoq59g4hBte9dP6k4wnAvySjKWA9324Xirz1n1K11VEjyCfoELdIKcHjXi0Oc2ojJehNB6c1AdJVA1SI+/5P7XLWDVmjfXRGG4wz2LnCwJbMxamfoD4UG2J06+it0+QhuBVDhmUK4erCTpFDeeQw7s4RZyU46VLH3uDaanZ+/WiEYzQHF4KvZI+oA8SUtuLaj0GwUiu5gYO8ZdRBo6X2eKRgTMOSuJJcx/kil1rbEXHefY4gcVGlC70+K3J38x41zGbV/U1t8fj2qMynNPo15v/YMHJdnBv30wk2eBjXIm1FlVoJONKalNQHmfPEdgypy7Gv/fxp1VsD8OPRJx/PswoyQrBkuS7PCD7q03qOsgibpsg==;OFUh3fHMCMasZp/HbUWaLw=="
 ---

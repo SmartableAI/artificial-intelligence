@@ -278,22 +278,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla Is Now Beta-Testing 'Full Self Driving' in Real-World Traffic"
-    excerpt: "Tesla rolls out Full Self Driving in limited number of vehicles FSD has been promised to offer Level 5 autonomy Legal liability remains untested in serious crashes of semi-autonomous vehicles Tesla has begun rolling out what it calls Full Self Driving in ..."
-    publishedDateTime: 2020-10-21T18:26:00Z
-    webUrl: "https://www.autoweek.com/news/technology/a34438615/tesla-is-now-beta-testing-full-self-driving-in-real-world-traffic/"
-    ampWebUrl: "https://www.autoweek.com/news/technology/amp34438615/tesla-is-now-beta-testing-full-self-driving-in-real-world-traffic/"
-    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp34438615/tesla-is-now-beta-testing-full-self-driving-in-real-world-traffic/"
+  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
+    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-24T08:28:00Z
+    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10?amp"
     type: article
     provider:
-      name: Autoweek
-      domain: autoweek.com
-    quality: 74
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fsd-1603292399.jpg?crop=1.00xw:0.893xh;0,0.0493xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "Tesla debuts ‘Full Self-Driving’ beta, but it comes with a warning"
     excerpt: "Tesla has debuted its much-anticipated \"Full Self-Driving\" (FSD) feature in beta mode, allowing select Tesla owners to experience the next phase of Autopilot."
     publishedDateTime: 2020-10-25T16:22:00Z
@@ -319,15 +314,6 @@ related:
         width: 3000
         height: 1815
         isCached: true
-  - title: "Explainer: Tesla's Self-Driving Ambitions Get a Reboot"
-    excerpt: "Tesla's \"Full Self Driving\" software would be an important source of revenue, once it is fully deployed. Tesla owners have paid $8,000 up front in hopes of eventually receiving the upgrade. In the second quarter alone,"
-    publishedDateTime: 2020-10-21T17:19:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2020-10-21/explainer-teslas-self-driving-ambitions-get-a-reboot"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
     publishedDateTime: 2020-10-23T00:53:00Z

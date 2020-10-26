@@ -71,22 +71,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Facial Recognition Technology and the Future of Policing"
-    excerpt: "The replacement of systemic, interpersonal racism with hard-coded, digital racism is not the reform policing needs."
-    publishedDateTime: 2020-10-21T17:39:00Z
-    webUrl: "https://www.fairobserver.com/business/technology/benjamin-verdi-facial-recognition-technology-policing-surveillance-racism-news-15437/"
-    ampWebUrl: "https://www.fairobserver.com/business/technology/benjamin-verdi-facial-recognition-technology-policing-surveillance-racism-news-15437/amp/"
-    cdnAmpWebUrl: "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/business/technology/benjamin-verdi-facial-recognition-technology-policing-surveillance-racism-news-15437/amp/"
-    type: article
-    provider:
-      name: Fair Observer
-      domain: fairobserver.com
-    quality: 59
-    images:
-      - url: "https://www.fairobserver.com/wp-content/uploads/2020/10/Facial-recognition-2.jpg"
-        width: 938
-        height: 450
-        isCached: true
   - title: "Protesters are using facial recognition technology to ID police"
     excerpt: "For years, law enforcement agencies at the state and federal levels have used often faulty and always creepy facial recognition technology to try to identify civilians. Now the table is being turned."
     publishedDateTime: 2020-10-21T20:34:00Z
@@ -116,20 +100,6 @@ related:
       - url: "https://citytoday.news/wp-content/uploads/2020/10/Page-5-anchor-1-photo-Oct-23-780x405.png"
         width: 780
         height: 405
-        isCached: true
-  - title: "Facial recognition datasets are being widely used despite being taken down due to ethical concerns. Here’s how."
-    excerpt: "Computer vision research datasets have been criticized for violating subjects’ privacy, reinforcing cultural biases, and enabling questionable applications. But regulating their use is hard. For example,"
-    publishedDateTime: 2020-10-21T17:33:00Z
-    webUrl: "https://freedom-to-tinker.com/2020/10/21/facial-recognition-datasets-are-being-widely-used-despite-being-taken-down-due-to-ethical-concerns-heres-how/"
-    type: article
-    provider:
-      name: Freedom to Tinker
-      domain: freedom-to-tinker.com
-    quality: 36
-    images:
-      - url: "https://ftt-uploads.s3.amazonaws.com/wp-content/uploads/2019/09/13111525/FtT-CITP-Logo.png"
-        width: 410
-        height: 210
         isCached: true
 
 secured: "VHZKr9rIIr469/QqKaESpYzmECd1oaH9fLxbuv74rotk4VXiouAuG1jepvruWOu1+BCuzbA19BHWQgDqnmixaw3YphXxWp+ZAFE5UbNcVkX/gEiansPEoN9hf3Vbcnqx6Hfy8VvaItTo+2xfH/QxRx9NNQYWscmzZpsEpXDXwq2GamjEbTtwg78XO8E8jWi3M//tUEquwziTAJbHTLZLJxVX2OXhhzO+810PCa1tY10HSUdHzjci+l+FbH2wOmYFUIT0FHCajDHzL+6U0mfkbcnBfvh58miuV43oVl+s46MaX9CshSavYuhFE0ySONUnhMWktAfcQmHFYj/wG7U7PQ21hW+D5z9tK/lCFMVr/rxRyBpPvDyL74RnrUfQywkuUE8SG3veZsFrNJ+TOe7BTXr1akYig+FlUudv6ya8rJ9tQFjRrueO8v8PDK26nnxIJKDvsSvyWG2OHGGdtA3B6OV5YPn2cgoA8vE2ZJwnIJBJFdcNwzYBVnJmsZYvF6bAE3nWgAwssRBwNW4StAUDQg==;tpwIAOiZJkD1pQDAiyLEgQ=="

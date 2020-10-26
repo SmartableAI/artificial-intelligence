@@ -89,15 +89,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "NVIDIA Smashes Performance Records on AI Inference"
-    excerpt: "NVIDIA today announced its AI computing platform has again smashed performance records in the latest round of MLPerf, extending its lead on the industry’ s only independent benchmark measuring AI performance of hardware,"
-    publishedDateTime: 2020-10-21T18:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/nvidia-smashes-performance-records-on-ai-inference-2020-10-21"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "bUMf/V7Wo5YZk6BAxX88funwnfYIiWz22ayg9hzWGVaY3ppClWTTfWGGc3Aik1+zZuyFWAl8eh3ncCBZHojaZpqlFVyUFuELmF9C3T10OHzH+EydTbEJD1stdadinpIJ7FQ5tFKdBkhNGuLPOO1bSYvDgvjQ2vOx2071z81H54A8DBcev1OTGm8zGh3KfWOZpPvLAKpiISXJX28DS/jj66LlrfULW1S2DlOidxG/ulFxI6oI2x7WDNT8W4/v9w25ZZcmpRTMI6mjqPi2RAWYRJjrkk61WRkHbDWylHap9qQ9qC90xj+98lfvINb511oLhnCrXSKX4H6C/Q7PTFAz8Gy7detHCUa9ifhrVAxiWdxZysoJBiprop23kpoxlgFVVgipDe2MLYEFp4HtnoFHoF9d3Q9juLBF+fyfgp4gs5sT19UxNIlxvUR/AsOz1DK39DSfXk3vwRblhfAzyEwoJu0kcUW7+0zs2nbIHz3dLi5s3zUHt/e2HSMRsfsxApbSxgNjGe0TRiwaRMg3o8u8Sg==;YZWerX77eol/1wVvVuk7rw=="
 ---
