@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-26-microsoft-teams-with-adobe-and-c3ai-to-take-on-salesforce-on-its-home-turf.md",
+      "title": "Microsoft Teams With Adobe and C3.ai to Take on Salesforce on Its Home Turf",
+      "excerpt": "Microsoft Corp. is teaming with Adobe Inc. and C3.ai, the company of customer-software pioneer Tom Siebel, in another bid to better compete with Salesforce.com Inc., the market leader for such programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCRYcRiao68M/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
+      "publishedDateTime": "2020-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-from-beekeepers-to-ocean-mappers-lobe-aims-to-make-it-easy-for-anyone-to-train-machine-learning-models.md",
+      "title": "From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models",
+      "excerpt": "The post From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
+      "originalUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/lobe-machine-learning-toyon_1200x630-5f96ba640f2e5-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T05:59:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-saps-ai-chief-leads-effort-to-infuse-artificial-intelligence-across-products.md",
       "title": "SAP’s AI Chief Leads Effort to Infuse Artificial Intelligence Across Products",
       "excerpt": "Feiyu Xu, a former Lenovo executive, became SAP’s first global head of AI in May and plans to lead a ‘holistic AI strategy.’",
@@ -604,49 +709,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-24-microsoft-partners-netflix-to-help-you-learn-data-science-ai.md",
-      "title": "Microsoft partners Netflix to help you learn data science, AI",
-      "excerpt": "Inspired by the new Netflix original titled 'Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101010061/Microsoft-partners-Netflix-to-help-you-learn-data-science-AI",
-      "originalUrl": "https://menafn.com/1101010061/Microsoft-partners-Netflix-to-help-you-learn-data-science-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2020-10/24/I_7fec8981-3image_story.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-24T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-24-police-are-using-facial-recognition-for-minor-crimes-because-they-can.md",
       "title": "Police are using facial recognition for minor crimes because they can",
       "excerpt": "Law enforcement is tapping the tech for low-level crimes like shoplifting, because there are no limits. But the tool often makes errors.",
@@ -655,7 +717,7 @@
       "originalUrl": "https://www.cnet.com/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1181,58 +1243,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive.md",
-      "title": "Predictions Rosy For ‘Roadschooling’ Whence Self-Driving Cars Arrive",
-      "excerpt": "The moment that you arrive at a landmark location provides ample time to stretch your legs and see new sights. For those stuck at home, it is the same four walls, day after day, week after week. Some twists and turns are to be expected while doing the road adventure approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8cc61ec0a769024976968d%2F0x0.jpg%3FcropX1%3D1787%26cropX2%3D5571%26cropY1%3D197%26cropY2%3D2508",
-          "width": 1200,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/amp/",
-      "publishedDateTime": "2020-10-23T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Dubai To Introduce Facial Recognition Tech In Public Transport To Enhance Security"
+    excerpt: "Dubai is all set to roll out a brand new feature of facial recognition system on public transport in a bid to strengthen security for the local, said officials."
+    publishedDateTime: 2020-10-26T13:25:00Z
+    webUrl: "https://www.republicworld.com/world-news/middle-east/dubai-to-introduce-facial-recognition-tech-in-public-transport-to-enhance-security.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 65
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/oiqzcfwmls1dzeq1_1603716287.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
+        isCached: true
   - title: "Facial recognition cameras could be used to slow COVID-19 spread at Tokyo 2020"
     excerpt: "Cameras equipped with facial recognition software could be deployed at next year’s Olympic and Paralympic Games in Tokyo to combat the spread of"
     publishedDateTime: 2020-10-22T19:06:00Z

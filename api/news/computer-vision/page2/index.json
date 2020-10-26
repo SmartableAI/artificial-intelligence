@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-11-best-facial-recognition-security-cameras-to-buy-this-year.md",
+      "title": "Best facial recognition security cameras to buy this year",
+      "excerpt": "Select home security cameras have facial recognition, an advanced option that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-this-year/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/",
+      "publishedDateTime": "2020-10-11T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-rights-group-criticizes-buenos-aires-for-using-face-recognition-tech-on-kids.md",
       "title": "Rights group criticizes Buenos Aires for using face recognition tech on kids",
       "excerpt": "Human Rights Watch wants the city of Buenos Aires to stop using live facial recognition to identify children accused of committing crimes, the rights group said on Friday.",
@@ -1362,49 +1414,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group.md",
-      "title": "Programming artificial intelligence for object recognition made easy – by the BMW Group",
-      "excerpt": "just-auto gives its paid members access to the very best automotive market coverage. And now there’s just-auto plus, our premium membership that gives you exclusive component forecast data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/news/programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group_id197954.aspx",
-      "originalUrl": "https://www.just-auto.com/news/programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group_id197954.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/images/just-auto-share.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

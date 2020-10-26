@@ -102,6 +102,20 @@ related:
         width: 1280
         height: 891
         isCached: true
+  - title: "Services Infusing AI into Air, Land, Sea Robots"
+    excerpt: "We believe that we have adversaries who are rapidly building up their forces … and are definitely applying AI to their operations,” said Nand Mulchandani, chief technology officer at the Pentagon’s Joint Artificial Intelligence Center."
+    publishedDateTime: 2020-10-26T12:06:00Z
+    webUrl: "https://www.nationaldefensemagazine.org/articles/2020/10/26/services-infusing-ai-into-air-land-sea-robots"
+    type: article
+    provider:
+      name: National Defense Magazine
+      domain: nationaldefensemagazine.org
+    quality: 54
+    images:
+      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/10/4944270.ashx?h=500&w=878&la=en&hash=BD039AF4149872CB15744860B33582D4DF93FD68"
+        width: 878
+        height: 500
+        isCached: true
 
 secured: "UltXQuli60gLukTyIvVglf5yPuc6F8ktW2zEEzMtfw9DE6cvu2fhZbEq+4eZXQhttQASzhVM397W1tY4VDsEAeHMTNVS10+e59lyijfP61AL/AR4Y3gWNi5/hhhqYEpJCA+kha4ggPfR2ZubHwoTirxHx3VIKsqTNtG7RjSRZlvki47eah6HoPGY9StlJWAJqZnm7pIKPThM5jB6Qgv7XielJhc9jnFIv2tvxIbVw7Hz5m2F/d5iKHCnJZAef4nIO4HSZejooku354btHdvlAUMjYkHKf4LYXIFVvfzProR8cv+IE3uPbGpb2Be5hy9X7oCiMQPKYX2guoERJAh/IaTjpfXIROB72XXGQWyOlis=;Fm7xDm9IkyWQzEWWDOqe7g=="
 ---

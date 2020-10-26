@@ -58,20 +58,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Saudi Arabia launches national artificial intelligence strategy"
-    excerpt: "Saudi Arabia launched a national strategy on Wednesday to become a global leader in artificial intelligence (AI) by 2030, Saudi Press Agency reported."
-    publishedDateTime: 2020-10-21T19:22:00Z
-    webUrl: "https://www.thestar.com.my/news/world/2020/10/22/saudi-arabia-launches-national-artificial-intelligence-strategy"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI plan points to Saudi Arabia's global ambitions, future beyond oil"
     excerpt: "Saudi Arabia’s national AI strategy aims to not only fuel deployment of new technology and economic opportunities, but to elevate the nation’s geopolitical status."
     publishedDateTime: 2020-10-25T02:17:00Z

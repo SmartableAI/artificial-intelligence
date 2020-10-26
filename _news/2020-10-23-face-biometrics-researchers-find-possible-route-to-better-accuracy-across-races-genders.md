@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202010/face-biometrics-researchers
 webUrl: "https://www.biometricupdate.com/202010/face-biometrics-researchers-find-possible-route-to-better-accuracy-across-races-genders"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1050
     height: 591
     isCached: true
-
-related:
-  - title: "U.S. plans voice biometrics upgrade and shift to cloud for DoD system"
-    excerpt: "The U.S. Department of Defense (DoD) intends to move the remaining on-premise elements of its Automated Biometric Identification System to Amazon Web Services’ cloud ahead of a series of upgrades,"
-    publishedDateTime: 2020-10-21T19:31:00Z
-    webUrl: "https://www.biometricupdate.com/202010/u-s-plans-voice-biometrics-upgrade-and-shift-to-cloud-for-dod-system"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/04165700/Defense-Department-wants-to-perform-real-time-biometric-identification-through-walls1.jpg"
-        width: 1000
-        height: 668
-        isCached: true
 
 secured: "wQwMpTPiNVRzYC/wBNYrJtgdc4vk9Pt9gsJ4ZmHwAkd9oDsxjtgX2+rqf1DDtI8nWGV/T0JCSrojSzWQZkJ67C9BZNd8DtpCV3OIDJpwTCudivnnWXRh8HsjrymPo/Wg5z+AIZaE74Xc/3Fv88SZaIzFNSOlPKYqxP7CEdzk/36DVztkvF3EYusP0cTX05hb9/yL/yZhfd73wuy1qNrLglqw9DbvR4HWaO7KKz7/rDuDr16x6j60NYQWlN1Q04rFlHQCzjY/j8bki6GwQZHlseYXzQXJoxQirLulteyY0q/Toy8NbX30988LTCvKeXDatvSVJ/J6jlV7sTYhTyIUNzmM7dnCjqoNInpmJNTuwUA=;D0XgYLu2d0+1hdzyFvKxbQ=="
 ---

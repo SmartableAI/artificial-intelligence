@@ -2,6 +2,170 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-08-inside-edge-draftkings-mlb-premium-stats.md",
+      "title": "Inside Edge DraftKings MLB Premium Stats",
+      "excerpt": "Please note that both these options require an active RotoWire paid subscription to maintain access. Get full access to Inside Edge projections inside ... your own custom projection model using the premium stats listed below – or just use them to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.rotowire.com/daily/mlb/inside-edge.php?site=DraftKings&slate=ATL+vs+MIA&type=Showdown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RotoWire",
+        "domain": "rotowire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-grid-ai-from-the-makers-of-pytorch-lightning-emerges-from-stealth-with-186m-series-a-to-close-the-gap-between-ai-research-and-production.md",
+      "title": "Grid AI, From the Makers of PyTorch Lightning, Emerges From Stealth With $18.6m Series A to Close the Gap Between AI Research and Production",
+      "excerpt": "Grid AI, from the makers of PyTorch Lightning, emerges from stealth with $18.6m Series A to close the gap between AI Research and Production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production",
+      "originalUrl": "https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201008005227/en/828546/23/sisters_SymWord_1128x191_%281%29.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-elucid-bios-vascucap-enters-ibm-imaging-ai-marketplace.md",
+      "title": "Elucid Bio’s vascuCAP enters IBM Imaging AI Marketplace",
+      "excerpt": "Elucid Bioimaging Inc. (“Elucid Bio”) today announced that vascuCAP, Elucid Bio’s AI-enabled software for evaluating atherosclerotic plaque stability from CTA, has been added to the IBM Imaging AI Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-cardiovascular-disease-north-america-arteriosclerosis-massachusetts-e91ccd7f88e542c69ff516f65678cebe",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-cardiovascular-disease-north-america-arteriosclerosis-massachusetts-e91ccd7f88e542c69ff516f65678cebe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-h2oai-brings-automl-to-equifax-ignite-with-driverless-ai.md",
+      "title": "H2O.ai brings AutoML to Equifax Ignite with Driverless AI",
+      "excerpt": "--(BUSINESS WIRE)--H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverless AI within Equifax Ignite",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-neocis-raises-72-million-for-its-dental-surgery-robot.md",
       "title": "Neocis raises $72 million for its dental surgery robot",
       "excerpt": "Dental robotics startup Neocis today closed a $70 million ... “The Yomi planning software … leverages AI techniques to guide the surgeon in planning the case safely, for example providing ...",
@@ -978,198 +1142,6 @@
         "Google AI",
         "AI",
         "TensorFlow",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-highlights-from-nvidias-landmark-gpu-technology-conference-eweek.md",
-      "title": "Highlights from NVIDIA’s Landmark GPU Technology Conference - eWEEK",
-      "excerpt": "CEO described the combination of GPUs and the abundance of data as the “big bang” of modern AI. It’s arrived. Are you ready?",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/web/index.php/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference",
-      "originalUrl": "https://www.eweek.com/web/index.php/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/NVIDIA.logo.black.green.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots.md",
-      "title": "Startups joining SK Telecom’s accelerator include AI-driven mapping and vision for delivery robots",
-      "excerpt": "We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless carrier,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/",
-      "originalUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/installation-2.png?w=480",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/amp/",
-      "publishedDateTime": "2020-10-07T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-ibm-watson-advertising-expands-suite-makes-artificial-intelligence-the-backbone.md",
-      "title": "IBM Watson Advertising Expands Suite, Makes Artificial Intelligence The Backbone",
-      "excerpt": "IBM Watson Advertising is building a suite of solutions using artificial intelligence as the foundation. The suite, based on privacy measures, leverages first-party data to increase ad ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/356608/ibm-watson-advertising-expands-suite-makes-artifi.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/356608/ibm-watson-advertising-expands-suite-makes-artifi.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T13:55:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection.md",
-      "title": "Making cycling safer with AWS DeepLens and Amazon SageMaker object detection",
-      "excerpt": "According to the 2018 National Highway Traffic Safety Administration (NHTSA) Traffic Safety Facts, in 2018, there were 857 fatal bicycle and motor vehicle crashes and an additional estimated 47,000 cycling injuries in the US . While motorists often accuse cyclists of being the cause of bike-car accidents,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/29/9-Architecture.jpg",
-          "width": 900,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T12:39:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Computer Vision"
       ]
     }

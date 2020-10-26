@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-24-microsoft-partners-netflix-to-help-you-learn-data-science-ai.md",
-      "title": "Microsoft partners Netflix to help you learn data science, AI",
-      "excerpt": "Inspired by the new Netflix original titled 'Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI).",
+      "path": "_news/2020-10-26-microsoft-teams-with-adobe-and-c3ai-to-take-on-salesforce-on-its-home-turf.md",
+      "title": "Microsoft Teams With Adobe and C3.ai to Take on Salesforce on Its Home Turf",
+      "excerpt": "Microsoft Corp. is teaming with Adobe Inc. and C3.ai, the company of customer-software pioneer Tom Siebel, in another bid to better compete with Salesforce.com Inc., the market leader for such programs.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101010061/Microsoft-partners-Netflix-to-help-you-learn-data-science-AI",
-      "originalUrl": "https://menafn.com/1101010061/Microsoft-partners-Netflix-to-help-you-learn-data-science-AI",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 122,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2020-10/24/I_7fec8981-3image_story.jpg",
-          "width": 400,
-          "height": 267,
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCRYcRiao68M/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-24T09:23:00-07:00",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
+      "publishedDateTime": "2020-10-26T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -42,6 +51,59 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-from-beekeepers-to-ocean-mappers-lobe-aims-to-make-it-easy-for-anyone-to-train-machine-learning-models.md",
+      "title": "From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models",
+      "excerpt": "The post From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
+      "originalUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/lobe-machine-learning-toyon_1200x630-5f96ba640f2e5-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T05:59:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1421,50 +1483,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure.md",
-      "title": "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure",
-      "excerpt": "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises to solve their toughest data",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-301147624.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-301147624.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook",
-          "width": 1500,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

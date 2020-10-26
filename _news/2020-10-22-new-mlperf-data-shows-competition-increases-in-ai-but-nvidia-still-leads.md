@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-da
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/"
 type: article
 quality: 90
-heat: -1
-published: false
+heat: 140
+published: true
 
 provider:
   name: Forbes
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chip industry is going to need a lot more software to catch Nvidia’s lead in AI"
-    excerpt: "Topic: Artificial Intelligence  The semiconductor industry is in the midst of a renaissance in chip design and performance improvement, but it will take a lot more software to catch up with graphics chip titan Nvidia,"
-    publishedDateTime: 2020-10-21T20:17:00Z
-    webUrl: "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/10/21/8c897dbe-8d2e-46d3-bfc3-def8f3ed8e56/nvidia-a100-press-graphic.jpg"
-        width: 2000
-        height: 1296
-        isCached: true
   - title: "Nvidia chips again smash AI performance records"
     excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services."
     publishedDateTime: 2020-10-22T08:14:00Z
@@ -93,6 +77,34 @@ related:
       - url: "https://image-prod.iol.co.za/resize/500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/f1c5cefc-901b-574b-801e-44b33161ccf5&operation=CROP&offset=0x21&resize=500x281&webp=false"
         width: 500
         height: 281
+        isCached: true
+  - title: "Nvidia Dominates MLPerf AI Benchmark Competition Again"
+    excerpt: "Nvidia said it has extended its lead on the MLPerf Benchmark for AI inference with the company’s A100 GPU chip introduced earlier this year. Nvidia won each of the six application tests for data center and edge computing systems in the second version of MLPerf Inference."
+    publishedDateTime: 2020-10-22T20:07:00Z
+    webUrl: "https://insidehpc.com/2020/10/nvidia-dominates-mlperf-ai-benchmark-competition-again/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/10/MLPerf-logo-1020.png"
+        width: 500
+        height: 348
+        isCached: true
+  - title: "Nvidia AI Computing Platform Trumps Performance Records on MLPerf Benchmarks"
+    excerpt: "NVIDIA Corporation (NASDAQ: NVDA) reported that its AI computing platform has outperformed its performance records"
+    publishedDateTime: 2020-10-22T16:43:00Z
+    webUrl: "https://www.financialbuzz.com/nvidia-ai-computing-platform-trumps-performance-records-on-mlperf-benchmarks/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 36
+    images:
+      - url: "https://www.financialbuzz.com/wp-content/uploads/2020/10/shutterstock_638342005.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "4qIN6OpoLWDvnh2YTlAn4CTbgAGDuU4ImTpsIUZoPlXwT0uLH34ORSG9unhuk4cWe1IyjBEd/QIDHO+LqeoA2BVqSDy0Vfn5yUDSO2Bu0hFR4aSQ1p+TetmAymamblAidM/ctJmeD2Fr00skWnAZU8JcB+n5N6cjAEcmdZdDkJIi9g2rBqZujoRUeYTHWn1G7/7p0fr7s3gh/hh/VJRzGuro2lXTgfJjMykj51a2tq+CJtHnze8r4AGPhb7TPl8ffzzBWsrfKUblZgbJuaabfoz6pQG0w5XxQ/CUC/+ze9A9zzobdZpJ9Gdxai+wTu/C0+JEqRAJps0IiTNGo6ybfJBno/LDJLiRtGDhErD1wrqDROx/1aKnOUJUxKPJSIgOV0Gk8X9y1HBx1bAC9WiR3dhfrF10RpSc66cm73FhsdXv/FTGKQzeno8d/wYmw+a/Nc8r3sAJdaaqHCNym3m1vXQZ6LSiCkTxRed/8V7I4R4fFr+BT0PAqa6mIF5LAziLjIo6GdXIBA7nG/lB5zg9VA==;+bjHF46zsrOhm5NrH0k65Q=="

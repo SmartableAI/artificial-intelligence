@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-30-programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group.md",
+      "title": "Programming artificial intelligence for object recognition made easy – by the BMW Group",
+      "excerpt": "just-auto gives its paid members access to the very best automotive market coverage. And now there’s just-auto plus, our premium membership that gives you exclusive component forecast data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/news/programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group_id197954.aspx",
+      "originalUrl": "https://www.just-auto.com/news/programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group_id197954.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/images/just-auto-share.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-amazon-spent-24000-to-kill-portlands-facial-recognition-ban.md",
       "title": "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban",
       "excerpt": "On Wednesday, Portland lawmakers will vote on what could be the strongest facial recognition ban in the United States. In November 2019, city officials revealed they were crafting legislation that would ban the use of facial recognition technology by both ...",

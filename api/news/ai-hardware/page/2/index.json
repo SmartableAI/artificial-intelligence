@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-08-ex-aston-martin-ceo-palmer-joins-silicon-valley-slovakian-ai-battery-group.md",
+      "title": "Ex-Aston Martin CEO Palmer Joins Silicon Valley - Slovakian AI Battery Group",
+      "excerpt": "Discarded Aston Martin CEO Dr Andy Palmer has bounced back, joining a project to create a world-first artificial intelligence (AI) battery production center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/",
+      "originalUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ee032632d6eec4c53409c%2F0x0.jpg",
+          "width": 1200,
+          "height": 1808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/amp/",
+      "publishedDateTime": "2020-10-08T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
       "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
       "excerpt": "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves artificial intelligence (AI) to the edge without performance compromises in battery-powered internet of things (IoT) devices.",
@@ -1364,50 +1417,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-another-strange-shift-for-the-ai-chip-startup-segment.md",
-      "title": "Another Strange Shift for the AI Chip Startup Segment",
-      "excerpt": "Few of the AI hardware startups that have made it through the first round of reality (roughly 2016 until the present) have managed to navigate the choppy",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/",
-      "originalUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_613029992.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/amp/",
-      "publishedDateTime": "2020-09-29T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

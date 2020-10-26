@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dubai To Introduce Facial Recognition Tech In Public Transport To Enhance Security"
+    excerpt: "Dubai is all set to roll out a brand new feature of facial recognition system on public transport in a bid to strengthen security for the local, said officials."
+    publishedDateTime: 2020-10-26T13:25:00Z
+    webUrl: "https://www.republicworld.com/world-news/middle-east/dubai-to-introduce-facial-recognition-tech-in-public-transport-to-enhance-security.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 65
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/oiqzcfwmls1dzeq1_1603716287.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
+        isCached: true
   - title: "NEC Unveils Mask-on Facial Recognition"
     excerpt: "Japanese electronics company NEC has developed facial recognition technology that can identify people even when they are wearing a mask -- a breakthrough that promises many practical applications amid the pandemic."
     publishedDateTime: 2020-10-25T18:39:00Z

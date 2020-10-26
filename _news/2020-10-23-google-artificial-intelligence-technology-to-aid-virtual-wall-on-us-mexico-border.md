@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google is reportedly supplying AI technology to the Trump administration's virtual border wall"
-    excerpt: "Documents reportedly show that Google Cloud's technology will be used in tandem with Anduril to erect Trump's virtual border wall."
-    publishedDateTime: 2020-10-21T20:25:00Z
-    webUrl: "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/5f908d59abcd0c0018d68e63?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google to supply artificial intelligence to CBP for Trump's virtual border wall, report says"
     excerpt: "Google is reportedly allowing its artificial intelligence technology for the Trump administration's \"virtual\" border wall. The move comes nearly two years after it controversially ended its work with Project Maven. Continue Reading Below According to The ..."
     publishedDateTime: 2020-10-22T16:48:00Z
@@ -56,19 +40,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google AI Tech Will Be Used for Virtual Border Wall, CBP Contract Shows"
-    excerpt: "Google Cloud will be used in conjunction with Anduril Industries’ surveillance tech on the U.S.-Mexico border."
-    publishedDateTime: 2020-10-21T19:12:00Z
-    webUrl: "https://theintercept.com/2020/10/21/google-cbp-border-contract-anduril/"
+  - title: "Google sold AI to customs for use at US-Mexico border: report"
+    excerpt: "Despite protests from its staff in the past leading to its pulling out from controversial US Government projects, Google has now made a deal for its artificial technology to be used by the Trump administration to fortify the US-Mexico border,"
+    publishedDateTime: 2020-10-21T23:12:00Z
+    webUrl: "https://www.itwire.com/technology-regulation/google-sold-ai-to-customs-for-use-at-us-mexico-border-report.html"
     type: article
     provider:
-      name: The Intercept
-      domain: theintercept.com
-    quality: 41
+      name: ITWire
+      domain: itwire.com
+    quality: 39
     images:
-      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/10/google-cbp-theintercept-fin.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
-        width: 1200
-        height: 800
+      - url: "https://www.itwire.com/media/k2/items/cache/0d139ec7dd1fdccfb03c6a1344acddba_M.jpg"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "fUAjCfPWcZnfkXfAbQUfhlJdqjAdSLfXBQq8bnX0VbHyfOw/4mHrJpQB7akuz44r75mN58xaXzvUjmQzERRoxHFs/kR4MXB5aMBgbrmTm5hhkmxQfkUH+14yDQmOPuRSYSnX2VE/pebla8bcTyi9vrxO9YQ8l0W9C2078sZCm+VJNb2L4uJVu25DDpKGGHlnVeNIAgj7DweIeIYXL0un0icpej7vkAFFo1pmGo78mEDNRxGNOcZ43up+FN2iRSAjQtXPdbGd/0PtlWED7IgkFRiQpDqW773sLa9SkG53nvYDrXLUQLplW2rgsg3S5qSjvUnwLUKn7+nQX8LhpjNA1FpMtbiQIBzUd7tSQE3VQqq2qv43c0C4Q1vE4ZG+LOH74mmTfzUmewn3QvN8BJu3LQkd2a6G9d+exSPD/0YzXoZauKRS95lfoT8t8evegNsqdLSxb74BZow1WlI9vhqOiyv92vMvbv9ROq6OLJJThk+TQgTNTtyBxgQbbxkrXVlK6dWtJLIH9Q/46TMG9eSQRw==;dL9PBpnWvjF4eR9vW02GGQ=="

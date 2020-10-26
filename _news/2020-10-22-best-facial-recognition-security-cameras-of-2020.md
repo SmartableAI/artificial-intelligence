@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.wsj.net/im-247517/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Dubai To Introduce Facial Recognition Tech In Public Transport To Enhance Security"
+    excerpt: "Dubai is all set to roll out a brand new feature of facial recognition system on public transport in a bid to strengthen security for the local, said officials."
+    publishedDateTime: 2020-10-26T13:25:00Z
+    webUrl: "https://www.republicworld.com/world-news/middle-east/dubai-to-introduce-facial-recognition-tech-in-public-transport-to-enhance-security.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 65
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/oiqzcfwmls1dzeq1_1603716287.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
         isCached: true
   - title: "NEC Unveils Mask-on Facial Recognition"
     excerpt: "Japanese electronics company NEC has developed facial recognition technology that can identify people even when they are wearing a mask -- a breakthrough that promises many practical applications amid the pandemic."

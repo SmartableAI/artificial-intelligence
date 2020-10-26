@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2169596/cloud-natural-language-processing
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2169596/cloud-natural-language-processing-market-to-witness"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 750
     height: 500
     isCached: true
+
+related:
+  - title: "Machine Learning Market Witness the Growth of $8.81 Billion by 2022"
+    excerpt: "According to a research report Machine Learning Market by Vertical BFSI Healthcare and Life Sciences Retail Telecommunication Government and Defense Manufacturing Energy and Utilities Deployment Mode Service Organization Size and Region Global Forecast to 2022 The machine learning market size"
+    publishedDateTime: 2020-10-26T13:13:00Z
+    webUrl: "https://www.openpr.com/news/2171781/machine-learning-market-witness-the-growth-of-8-81-billion"
+    ampWebUrl: "https://www.openpr.com/amp/2171781/machine-learning-market-witness-the-growth-of-8-81-billion"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2171781/machine-learning-market-witness-the-growth-of-8-81-billion"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
 
 secured: "1okMjnNKTnDntnNv6lOV7iRrD6Jeh2CPimlm7LLhg0ofyVfSyKm6GaCgYQ23PVl0hYGCgSECCNseoXzB936DK9AT3m66VOhL8NXsmhveU2/7FrnPfw1SH8vkxRWsPz3dXLSd2KXqUziCSczHE0fxiyXnkv663WHqlJzILLstwMa2EsmPwOfwR0yNirH5vwVvwSl2UGdVElx4XnmvJv1Pg9xy5b4lwBShuY/7U3Njr5dGJzURYnst/VVf7Qah4TlsnF5YLwrrLN+0JpNRFyGcxWtT4tpAcSkb461Nn7pplbcnhxcgxc2l9GWegDI77zHM4QrMvdVHmgr6Bf3REFcewJ41A/s9iCNE7qwuHuw73ds=;Ci+ikYBF5HEdm6bwUNlzpg=="
 ---

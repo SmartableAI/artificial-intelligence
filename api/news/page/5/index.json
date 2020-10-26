@@ -2,27 +2,45 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-10-21-intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors.md",
-      "title": "Intuit Appoints Tekedra Mawakana, Waymo's Chief Operating Officer, to Board of Directors",
-      "excerpt": "Mawakana is the COO of Waymo LLC, a subsidiary of Alphabet ... policy related to commerce and advanced applications of artificial intelligence and machine learning. “Tekedra has a deep ...",
+      "path": "_news/2020-10-21-university-of-miami-becomes-latest-battleground-over-facial-recognition.md",
+      "title": "University of Miami Becomes Latest Battleground Over Facial Recognition",
+      "excerpt": "Two students claim UM’s dean of students told a handful of campus protesters at a virtual meeting on Sept. 22 that they were identified at an unsanctioned demonstration using specialized software that analyzed camera footage of the event.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors",
-      "originalUrl": "https://www.nasdaq.com/press-release/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors",
+      "webUrl": "https://www.wsj.com/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "originalUrl": "https://www.wsj.com/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 99,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-247517/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T14:31:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "publishedDateTime": "2020-10-20T15:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -31,8 +49,112 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds.md",
+      "title": "Pandemic speeds labour shift from humans to robots, WEF survey finds",
+      "excerpt": "Robots will destroy 85 million jobs at mid-sized to large businesses over the next five years as the COVID-19 pandemic accelerates changes in the workplace likely to exaggerate inequalities, a World Economic Forum (WEF) study has found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/industry-robots/pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds-idUSL8N2HB58A",
+      "originalUrl": "https://www.reuters.com/article/industry-robots/pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds-idUSL8N2HB58A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538232954&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J1R5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2752YF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2752YF",
+      "publishedDateTime": "2020-10-20T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-cd-projekt-red-used-ai-to-lip-sync-cyberpunk-2077s-dialogue-across-10-languages.md",
+      "title": "CD Projekt Red used AI to lip-sync Cyberpunk 2077's dialogue across 10 languages",
+      "excerpt": "As reported by Twitter user and industry veteran Shinobi602, the upcoming open-world sci-fi RPG Cyberpunk 2077 will feature full lip-sync for every single voiced character in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html",
+      "originalUrl": "https://www.techspot.com/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-24-ts3_thumbs-383.png",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87205-cd-projekt-red-used-ai-lip-sync-cyberpunk.html",
+      "publishedDateTime": "2020-10-20T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -128,6 +250,40 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors.md",
+      "title": "Intuit Appoints Tekedra Mawakana, Waymo's Chief Operating Officer, to Board of Directors",
+      "excerpt": "Mawakana is the COO of Waymo LLC, a subsidiary of Alphabet ... policy related to commerce and advanced applications of artificial intelligence and machine learning. \"Tekedra has a deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b17984355/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b17984355/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17984355",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17984355",
+      "publishedDateTime": "2020-10-20T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1048,163 +1204,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images.md",
-      "title": "PhiSat-1 satellite uses AI to remove clouds from Earth images",
-      "excerpt": "According to Intel, PhiSat-1 contains a new hyperspectral-thermal camera — HyperScout-2 — and onboard AI processing thanks to an Intel Movidius Myriad 2 system-on-chip. In tandem with another ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/20/phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images/",
-      "originalUrl": "https://venturebeat.com/2020/10/20/phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/PhiSat1_Auto3-e1602739630648.jpeg?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/20/phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images/amp/",
-      "publishedDateTime": "2020-10-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-how-ai-is-disrupting-the-publishing-industry.md",
-      "title": "How AI Is Disrupting The Publishing Industry",
-      "excerpt": "The more advanced AI’s capabilities are, the more excited publishers can be to make them available to authors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8daec6e4f84fe5bb8c6861%2F0x0.jpg",
-          "width": 1200,
-          "height": 791,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/",
-      "publishedDateTime": "2020-10-20T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-lux-backed-flex-logix-announces-availability-of-its-fast-and-cheap-x1-ai-chip-for-the-edge.md",
-      "title": "Lux-backed Flex Logix announces availability of its fast and cheap X1 AI chip for the edge",
-      "excerpt": "In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/",
-      "originalUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1161355655.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/",
-      "publishedDateTime": "2020-10-20T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

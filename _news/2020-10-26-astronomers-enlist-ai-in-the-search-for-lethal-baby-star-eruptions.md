@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Astronomers enlist AI in the search for ‘lethal’ baby star eruptions"
-excerpt: "Young stars – just like young humans – are prone to temper flares. But star flares can incinerate everything around them, including the atmospheres of nearby planets starting to form. Finding out"
-publishedDateTime: 2020-10-26T02:55:00Z
-originalUrl: "https://indiaeducationdiary.in/astronomers-enlist-ai-in-the-search-for-lethal-baby-star-eruptions/"
-webUrl: "https://indiaeducationdiary.in/astronomers-enlist-ai-in-the-search-for-lethal-baby-star-eruptions/"
-ampWebUrl: "https://indiaeducationdiary.in/astronomers-enlist-ai-in-the-search-for-lethal-baby-star-eruptions/?amp"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/astronomers-enlist-ai-in-the-search-for-lethal-baby-star-eruptions/?amp"
+title: "Astronomers enlist AI in the search for 'lethal' baby star eruptions"
+excerpt: "Young stars—just like young humans—are prone to temper flares. But star flares can incinerate everything around them, including the atmospheres of nearby planets starting to form."
+publishedDateTime: 2020-10-26T13:47:00Z
+originalUrl: "https://phys.org/news/2020-10-astronomers-ai-lethal-baby-star.html"
+webUrl: "https://phys.org/news/2020-10-astronomers-ai-lethal-baby-star.html"
 type: article
-quality: 59
-heat: 69
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://newsroom.unsw.edu.au/sites/default/files/styles/full_width/public/thumbnails/image/solar_flares_and_eruption_shutterstock_2.jpg?itok=W6qfKnwM"
-    width: 563
-    height: 396
+  - url: "https://scx2.b-cdn.net/gfx/news/2020/1-astronomerse.jpg"
+    width: 768
+    height: 432
     isCached: true
 
 related:
@@ -42,6 +39,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "mgCf+A+Kd98P2WJ3XPlhI7aqKcjr4Znm3kq8wAlMic73DzgVv6RO3M2Flq2dAJM/CCBFw0yJy9mhT8G4E6JLsfMJ2jIqxFRrhTC31wUculX0lH3HCKA7QzYbew9oTOoqaoB4BpWbKUoPEm4CJarcA+ooAC+AJ08MOTgvR1J61xL6/STvWw7T1ILC4oIyBlVk0zIn7Sgdn0JUsC9XZhghIx4XUYxoDkTJTqhxX1+QVViP7mF7KXZ3Nn5TBa964ujE1WW4fAvTm9eMagsfx4z0ZRjEWBcDnb7aH3ekvD1whvVQ+p8bbpyxg9GuOX5e4HfUtByHENTcF+1UAapXCvmb2x+n2L89Lap1oS85cYh21r4=;piVHaZck9hOZ8OYvP6muaQ=="
+secured: "EWxlPB0pyeSE75+FC4QE8STaSeAP15BECdZMuay4TAzLEIH49dLM7pldw/GMexIlzh2rVcF1xM+CPBx+1qpj/4VuQdmBy1LKegLggJCQ6m2mZCx7cM/LCpIeidqBObcKPagyyeHrUDTG931H7IxzGVf+2wtDAZ6clR8agW7Ir5MASuWBeEhxZJo1arscVpZU0uwTwayJK1yh+7qzaRFXtNvAGxyIYodldCxo1SPSwMU/G67rW1SfDcXuVfXTAxBameoUqjk4+0YYLya83K9Xbf0If4uDqV2v3HwL8a5nfmj6GBwvulTPC56ZzhT+7fq406sO6CVbw9SsNlONi4vJa4Q4R7WZaOqP7qUK/GyCtzE=;flAWo9KxOIcHJxS/oZQFVA=="
 ---
 

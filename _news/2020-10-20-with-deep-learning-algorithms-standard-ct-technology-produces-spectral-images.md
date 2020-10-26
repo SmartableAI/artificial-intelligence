@@ -1,49 +1,26 @@
 ---
 category: news
 title: "With deep learning algorithms, standard CT technology produces spectral images"
-excerpt: "Bioimaging technologies are the eyes that allow doctors to see inside the body in order to diagnose, treat, and monitor disease. Ge Wang, an endowed professor of biomedical engineering at Rensselaer Polytechnic Institute,"
-publishedDateTime: 2020-10-19T20:04:00Z
-originalUrl: "https://medicalxpress.com/news/2020-10-deep-algorithms-standard-ct-technology.html"
-webUrl: "https://medicalxpress.com/news/2020-10-deep-algorithms-standard-ct-technology.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-10-deep-algorithms-standard-ct-technology.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-deep-algorithms-standard-ct-technology.amp"
+excerpt: "In research published today in , a team of engineers from Rensselaer Polytechnic Institute demonstrate how a deep learning algorithm can be applied to a conventional computerized tomography (CT) scan in order to produce images that would typically require a higher level of imaging technology known as dual-energy CT."
+publishedDateTime: 2020-10-19T17:10:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/rpi-wdl101920.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/rpi-wdl101920.php"
 type: article
-quality: 55
-heat: -1
-published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2020/withdeeplear.jpg"
-    width: 800
-    height: 600
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-related:
-  - title: "Researchers apply deep learning algorithm to CT to produce spectral images"
-    excerpt: "Bioimaging technologies are the eyes that allow doctors to see inside the body in order to diagnose, treat, and monitor disease."
-    publishedDateTime: 2020-10-20T06:42:00Z
-    webUrl: "https://www.news-medical.net/news/20201020/Researchers-apply-deep-learning-algorithm-to-CT-to-produce-spectral-images.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201020/Researchers-apply-deep-learning-algorithm-to-CT-to-produce-spectral-images.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201020/Researchers-apply-deep-learning-algorithm-to-CT-to-produce-spectral-images.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fCT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-
-secured: "gXkDMl1mYOP9rVhrKO6VdoMVhXiIPXGTEDcF5fmK21qHgcNySITWGci7u4EiB6nI47vXYRhHiALvdLELfCDQPJuythj++eMUIbb99VJin8YEAqOB7x1/truZ5nQi4tSOu9U2tqPut7HYN5qa5QTX99ZIHdUM8Rf+UV49CNNpZOEeXJDfAAdLTfYDINE42WeveJxCxHHExx2D0Ifsd2NqLgf2eXJFLl7I4RF4LVc8N3u4Uh6F+eiz/8hqwWsbNa09za/pfxZcOVxxYZLfRJhM5kgM6D2FUhyKzFoPlJZV9pZmGMDALYjvF1Xwp2LMkF4B+xRRTJroa6kCP8vqLii5qIK0zbxOBrFw0hR2nqXrEXllxlQGifZEpGhgUG+F0jd4LmHe9KdJSVytkn4tixwSWaBpr0f1C+KNa5fvl0aM6wEm0VxP5sWHn2RAez8NdCDG8IeyP9FDmhmPSjIdC1xdsqP9rfkatrw2Bw7zUHmKZW+dTm0CDSJbSsdia8jHQIp57RFA1JHRbAebBFM+YeLf6A==;3TqlKs3DMqzA7axXv/idSw=="
+secured: "5wubKJWei1JN2PEQ/8jWim/DSuLtD+uuYDB21S9uzmAEr5kS26rJawSiEiQfm58G0u1Xm+KRwZGq5L+QybhIxblZbC18HJNPWFvPtOKFQ5MjjuxI6s0uggST/BUeHpBMVFYrbvalgq6XfW0edq3XSIwSPEUIhGmIklOM9G4n1CIrSz1WJJ7uPDvkaMws6P4VJq/zveYa1lcRDKPRAsjJU31M0j0zGfD9DcooAefOzfhC58FfXK8HMcjHcnc/QP9A8X847v4DOIJ8xo1tbbPNYMXI4HpLQ8JCqKPgwuJFHEVT1gN9f4S4sABakasLMjhSSalLfcjneeCFrEn0Ddtoq6QHee/I7LHd4DgAbhw0cRw=;MM7L/oYIoiD1eAlLTabCZw=="
 ---
 
