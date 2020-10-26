@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Why AI live fact-checked the 2020 US presidential debates"
-excerpt: "The software should be able to speed up the time in takes to separate truth from fiction."
-publishedDateTime: 2020-10-24T02:39:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/technology-54658206"
-webUrl: "https://www.bbc.co.uk/news/av/technology-54658206"
+excerpt: "See more at Click's website and @BBCClick Why AI live fact-checked the presidential debates. Video, 00:05:28Why AI live fact-checked the presidential debates Up Next, How to spot US election disinformation."
+publishedDateTime: 2020-10-24T03:00:00Z
+originalUrl: "https://www.bbc.com/news/av/technology-54658206"
+webUrl: "https://www.bbc.com/news/av/technology-54658206"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -23,6 +27,6 @@ images:
     height: 225
     isCached: true
 
-secured: "Yv47KB2QsyEKb4yWbcY/NiN7th+s9QTOvgKgAC0QXYPQ+zXB7KyRpYnhOY51jBkJfMVINxPjvEsdYD69+ANPDnKpqIz9QTA1wC/9kvBBPU1So5zbODl3+iVrVFcdoAh0HkIR7sRzR8GFac0Osy8IxRohn3h56aU8AR+zEBlucpajRBwzumCC4vtq4JaA7bJYVLcdq+/18/jl/dbGkEIZy+kAOXyl40QPdxSPgu4f1uIzSRwW5jv6Ts9pBV1dgoGL80OK/Hm7NTxYImqaeBMgeoO1hvKQOkk92ITZA/XHaMJ9wn4CCxWki7JclaE09W6JpHBDBXsrWsBsMR27oyzv6jpqsRgUsscX+3nmYsOqADD4BzYcEYYKKhvFLK0eQakGlG491gwDD6dxEGivSB529QPmVFr6Bp8hpY15aWY1RJdndryeCazIWMbe42XY0WPuVYCu5ZrxNWtDnlHgW2wnzqBdczZDh9jTwwhLLtSNrxFi+eVqS6m11bi78gWEflSAaTuqD/ohG8tUZTnSQyazNw==;IPja4mm0D/lDyDH3ysS0AA=="
+secured: "7U910pGH2fQSF4llz9zRUOoUTB87HnaFaF+SJc8wyV1fWNN7o/4Lszyqk4NhqFirwIZUFsJK95E5Rg3063vpGujpumtu2pMqY8/3+xWfVGeTJLh3L2+R14UxzF6+CHGO+9Thj4Ze1vNPwOBtnRDSe4dQ2TUu3OAT+PPT/tzkrRSUrRXYzhedUtV/ykFrPPSpQ7FSl56MAbqCDCBIHeoellTZsu5F/L9KgqiCJdDsvIzi0JaRCAxZyriSrTFe/b76R4NOZLxoxBhTi4lS6A3I4Vd0JZNS1IIGv98GEkTTDNUXEyTs18M6zIy9786BiFf4B4r7Wss63jR4C1lu0buqfgi71E8Wwb2gue35T6PAaZw=;iETuDmIbtlZJ9kz9xPtSQA=="
 ---
 

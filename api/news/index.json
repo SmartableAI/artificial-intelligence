@@ -210,7 +210,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -306,20 +306,20 @@
     },
     {
       "path": "_news/2020-10-25-dubai-introduces-facial-recognition-on-public-transport.md",
-      "title": "Dubai introduces facial recognition on public transport",
-      "excerpt": "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,",
+      "title": "Dubai Introduces Facial Recognition On Public Transport",
+      "excerpt": "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition.",
       "sourceUrl": null,
-      "webUrl": "https://www.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport",
-      "originalUrl": "https://www.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport",
+      "webUrl": "https://www.barrons.com/news/dubai-introduces-facial-recognition-on-public-transport-01603621805",
+      "originalUrl": "https://www.barrons.com/news/dubai-introduces-facial-recognition-on-public-transport-01603621805",
       "featuredContent": null,
       "highlight": null,
       "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://s.france24.com/media/display/94ea097c-16bb-11eb-9a57-005056bf87d6/w:1280/p:16x9/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP5132118745041328236684635701140320891084-transport-diplomacy-uae-security-dubai-technology-1.jpg",
+          "width": 768,
+          "height": 512,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -327,13 +327,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport",
-      "cdnAmpWebUrl": "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport",
-      "publishedDateTime": "2020-10-25T05:14:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805",
+      "publishedDateTime": "2020-10-25T05:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "France 24",
-        "domain": "france24.com",
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -459,7 +459,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/24/why-you-have-to-pay-attention-to-the-indian-startup-scene/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -605,7 +605,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -656,7 +656,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -760,7 +760,7 @@
       "originalUrl": "https://futurism.com/the-byte/surprising-similarity-between-neural-networks-human-brain",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1144,8 +1144,8 @@
       "title": "AI and machine learning: Powering the next-gen enterprise",
       "excerpt": "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents.",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
+      "webUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -1187,8 +1187,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {

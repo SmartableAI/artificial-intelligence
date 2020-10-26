@@ -3,8 +3,8 @@ category: news
 title: "AI and machine learning: Powering the next-gen enterprise"
 excerpt: "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents."
 publishedDateTime: 2020-10-23T13:57:00Z
-originalUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/"
-webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/"
+originalUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268"
+webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268"
 type: article
 quality: 84
 heat: 84
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
   - url: "https://assets.bbhub.io/professional/sites/10/347789615.jpg"
@@ -28,6 +28,6 @@ images:
     height: 1067
     isCached: true
 
-secured: "DsACyis8HwssIepgigZiIButAZmulBspppprJdU/TjEP2xDoRnixVGMTxiVTvp8pp03hGwHal9vRb0FDTxEqyxuvTg7tNNqqUjgFqKnKcl1urxPpH3KYammDPaKwaRA5VDyFu1Zemr17BZFoMu3kKEeggNnZTxW1csZr+pzbeDkvhwK0FZ01TyL2teDaXkkLQc17p2Gvh0fVqXwZowbFwkNvgrEZtDYO7GAYzA6f0FtLSDkEO9q9pfJBqoOGuvpw1i9bL3EQ+Uwp84QthxpV0hc6uIXBCqozHo05gPyUmYRreboQ4Ep9yVsEWMPCQOjkQHno7/bhrEyuqyzbCyu0KudU/MsyAqp3X+7qQT4puRI=;p6Dxcnd3sMeNjm+cYOachw=="
+secured: "HBS8+X3IXR7vhWv+QQkNlGgIZNdgXTHtsoOIFsEDgzAZ9vnBshIzQZ/Hldy5ufeLVcKJt6duP3W+YaRuXA/Aa/1302glJBKrtEOCg2ZPTbEIYc78sxUCl0psgnsmWxgUi1xCP869rZeGKDjY7ofjZGUgXSDyFpe5p183bjyVTUqeCNhALNWec2XxYPflUiTO8Sw8GP9888IfkhdUx1yQe3oBiNqVHjpMwahWiELPMMDSF/hg981chY6ULWPBqythZdsSI3S3oJBc6Vi6NUL9Wg5o+IBBhljKCplq3m1OGi1MO6L6qgiYkLgnJYfMU800bb2bIYDPDxYB3SO2uktNmX3AXf+sUUaxFkLV3dUsL6U=;VChB5vEHc0irDJA44LQFFA=="
 ---
 

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai introduces facial recognition on public transport"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
-    publishedDateTime: 2020-10-25T12:14:00Z
-    webUrl: "https://www.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
-    ampWebUrl: "https://amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
-    cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
+  - title: "Dubai Introduces Facial Recognition On Public Transport"
+    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition."
+    publishedDateTime: 2020-10-25T12:32:00Z
+    webUrl: "https://www.barrons.com/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
+    ampWebUrl: "https://www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
     type: article
     provider:
-      name: France 24
-      domain: france24.com
+      name: Barron's
+      domain: barrons.com
     quality: 74
     images:
-      - url: "https://s.france24.com/media/display/94ea097c-16bb-11eb-9a57-005056bf87d6/w:1280/p:16x9/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP5132118745041328236684635701140320891084-transport-diplomacy-uae-security-dubai-technology-1.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "Coming soon: Facial recognition system for Dubai Metro stations"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday as a new simulation and training facility was launched for the Transport Security Department in the emirate. The Hamdan Smart Station for ..."
@@ -115,6 +115,6 @@ related:
       domain: hindustantimes.com
     quality: 23
 
-secured: "aEacWG8Y2GY+kNZck6WNOSEQrQO2KBcQ6U8dpEjgOYooQuUw/TGUvCrrH8t+smq6w/HJ8X9HYJ5pDwbVBprgSluVt7N1MIonfeO5G9/BYqR/RKakbiKTTCYw/lkQKdrkgLwsS4ZZjMwIZb0eqL2JpRayw6EGO4WpSDqaNsZBRs680RggEePKZjalDbf4ivM8a3YQ0+k0Aj+hwIXPtSdbVI/Cc2LFRrWpgmMwqoicTG5z1Udlxa2j1DoLeeZ8fLrvHjx0BTQavAlK1tkaRPlDqJgQfnNwY0vtCr4QvU+H566Y2vnxbhyZ/Hz69Q9nZKR7FQ4Jgu9XJC9e/5/NM8MLW14piQXFfybnFIJZWtA/3pk=;f//hySYp3rLWS1YAncm38A=="
+secured: "gUfvNO2Ag8MjqAYdm8MkKtRUS44Z4qwmnxL2ywhLyDt41qIjuZnUJvykvNGYDGvYCEM4zPcO9/fZKS8G488UnEiXdx9srQbn+gx8OkMEiMKmEnfdGQVCr5skXp77PPUSPlZf4PsT9YHFJSRkpJ/nq5soJvWTjY54K00nrCASwlse0BJenbbIrSTXNfqadw9QaVoFpOI8dbbQ7d1tRSD6YUvzqGgdODzK8V2hXlR67C6jmuHGGZt8l2q+zhZfE+DpCJGb2NbaUCo23Vv8UrekEsaZYCsdCdvYY2FdRkfSdUifk7yLXbaK5u0vx9Y2bCjOflmmDhCeFsjZ2vT8nC+C8YNBRdZMi/SyWBGn8Cmma98EIidNa1TIkUGRV/TVrYAMo9wxMw/otT97+7sz0SvpwX8X/w7S6NAwTp6vF7vu/9b5JZJwtDxvUikg2R2BVrsPyCgPnMCMxDMIGfWDqmTjww0Iyr4K+dcfejIx2jo8KXsUMjfYXIPqRdtFbHMp3rXiEGWhGNjg8l/kkkWaxsmB1A==;sVAQIzxGmsXaohMEejJnJw=="
 ---
 

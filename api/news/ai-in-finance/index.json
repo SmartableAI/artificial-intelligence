@@ -10,7 +10,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/358321",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -561,33 +561,24 @@
     {
       "path": "_news/2020-10-07-a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms.md",
       "title": "A New IDC MarketScape Assesses Eleven Providers of Advanced Machine Learning Platforms",
-      "excerpt": "A new IDC MarketScape assesses eleven companies offering the tools and frameworks for developing advanced machine learning (ML) models and solutions.",
+      "excerpt": "International Data Corporation (IDC) today published a new assessment of eleven companies offering the tools and frameworks for developing advanced machine learning (ML)",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201007005511/en/A-New-IDC-MarketScape-Assesses-Eleven-Providers-of-Advanced-Machine-Learning-Platforms",
-      "originalUrl": "https://www.businesswire.com/news/home/20201007005511/en/A-New-IDC-MarketScape-Assesses-Eleven-Providers-of-Advanced-Machine-Learning-Platforms",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b17817028/a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b17817028/a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201007005511/en/784701/23/IDC_2017_logo_horiz.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17817028",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17817028",
       "publishedDateTime": "2020-10-07T05:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

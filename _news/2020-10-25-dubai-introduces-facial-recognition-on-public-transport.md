@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Dubai introduces facial recognition on public transport"
-excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
-publishedDateTime: 2020-10-25T12:14:00Z
-originalUrl: "https://www.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
-webUrl: "https://www.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
-ampWebUrl: "https://amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
-cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20201025-dubai-introduces-facial-recognition-on-public-transport"
+title: "Dubai Introduces Facial Recognition On Public Transport"
+excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition."
+publishedDateTime: 2020-10-25T12:32:00Z
+originalUrl: "https://www.barrons.com/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
+webUrl: "https://www.barrons.com/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
+ampWebUrl: "https://www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
 type: article
 quality: 74
 heat: 134
 published: true
 
 provider:
-  name: France 24
-  domain: france24.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.france24.com/media/display/94ea097c-16bb-11eb-9a57-005056bf87d6/w:1280/p:16x9/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP5132118745041328236684635701140320891084-transport-diplomacy-uae-security-dubai-technology-1.jpg"
+    width: 768
+    height: 512
     isCached: true
 
 related:
@@ -115,6 +115,6 @@ related:
       domain: hindustantimes.com
     quality: 23
 
-secured: "KG/nMbEIxrqbDAoCv2eTHTf+xImy7K9aIuhnG8h+hSsJKaS42FToEUFo+MaEuMod3rra0rZZ+t5yJE6qyf12X/7eRGjQq8ijHvHZyxy/84/F9RPaCkE8Tl0ZhpVPQpXTZgy/XL/Nry65z0K8fgBegcDPTGZmC0oQufI0UnVf4HlRgWntgP0XD8ZPB+jY8G3huVm7anOd0W4YvBst9mL9rkXdKtFoxnGMWgqbz4N0RgYGWWyn3Y/AifQ8rhkKu9K1pgZTbihd0iBW0KiVlFHhOCfDws1VKkGgSkd+zhCpy09l+CJ1nCcJbBbW4aYcU0qdhTCuAftdjSVDRI6AJhgqnduGq4KavxlTQCx02HOVhFsmYgTpz/r9BVvjkesftZWmpRPuR2o1jLo3KinP/jZOwvrES4AKvM8iW7U+TokQXwQyCL1KVxHSP5QTiLoJELqx4SoIwlt0AMRyBEQAQpjJDDs6eBa62Srblp6+QmGWnDxQPzzIvcuiNX8NkNmmpYB9o4XOHw7CY1VRtWmtqWIJ0w==;GJAt9Dzy/HfwVTJOpvMYqQ=="
+secured: "+uTBTLh0sgoSbLpLqnwY3Jgz+lZH1u9aFna5GbhjuSCEIpW08bfy4GK/RknnDuX8G14rMrJuu9xLAl11cUIAkVjGmtKDwDgQZoxGfNN85fpO6vwZCprj7bygwxw3/elS9d1BxGLZD3RAw0s56IR6KhKGIGwUZ+yrkv6lOlkp3xWs4dfh8I/3PYfdKhqL+pcVrGJgcmN1UryLBVKkWC5n0UQv2POM1ldhO0XxJC3BvdBnbNGjOF2Ch4kZtxWKDKPNpePurh7bKcKezsJuFOUvw003RRM8D9lcdM8YejSpAH4ytjYJ4jUikRwtGMh2Js7G02rS1T+Q4vCrWJOnfWZWJ919D2mgRLdEmQsSV9tIDqg=;b5FCbLGBOyLqHyC788vSWg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/25/2-stocks-to-buy-for-se
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:
