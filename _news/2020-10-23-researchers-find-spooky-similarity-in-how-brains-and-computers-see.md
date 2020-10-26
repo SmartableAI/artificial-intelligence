@@ -41,15 +41,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "'Spooky' similarity in how brains and computers see"
-    excerpt: "The brain detects 3D shape fragments (bumps, hollows, shafts, spheres) in the beginning stages of object vision - a newly discovered strategy of natural intelligence that researchers also found in artificial intelligence networks trained to recognize visual objects."
-    publishedDateTime: 2020-10-22T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201022112606.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "ftpf+v0/pcYLFv5SdhTDJi0QStA1wVOeGVowChfGfo3/kBIME3wy3uJxKJd0/Rh4iSsWFBrJGJireMz+XuL1hCwMCvhKHw+q1nwohzysnxfz/gw5+cH3mHsTHuzP4Iu0q3XuObdyLg7zIcANKoYl3wFMYbcF4ZSACBwH2KfsFba2p3lf/G32E+hneoaljr3JMxBaQJT5kmnMLx5z7Fg2BREWO3mhvX+Y0QsH6o7028JChty1Mi89hC3PO7QZhcYHt/T+K3/Zs6vvxs2XRJXAvDymLW31QQEG1mxUDUEhOmQZq/+kcKahk5PnQ+Wxdnf1+LcLeaOGBuzsJbs+q/xhR4ToavSyG/7YO04I2YT/TL7Rek4ROkh3rKz/Oqfm40v6UJQx/ZM26PjADHtzXgIyvW9MJXvRkmjUQzP9nc6sxBAOnraqLdK42oH5/87V7ZDGneqpIEP4Gh159JQPf/mTHJHntDbAYVaZuD7WMvwg0NjDgoznShUwIKAjF6fYiTm1OrTwp6B33woj1DLJXdn+Eg==;Sn88QcYTWUEqjngNsZ8nTQ=="
 ---

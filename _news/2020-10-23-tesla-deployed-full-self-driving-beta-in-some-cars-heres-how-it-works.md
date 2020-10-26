@@ -378,6 +378,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves"
+    excerpt: "DETROIT (AP) — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and ..."
+    publishedDateTime: 2020-10-26T17:37:00Z
+    webUrl: "https://www.wate.com/news/tesla-full-self-driving-vehicles-cant-drive-themselves/"
+    ampWebUrl: "https://www.wate.com/news/tesla-full-self-driving-vehicles-cant-drive-themselves/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/tesla-full-self-driving-vehicles-cant-drive-themselves/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 59
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2020/10/89a98f9378e34887be07728521ab7137.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla Bros Are Freaking Out Right Now About the New Full Self-Driving Beta"
     excerpt: "\"It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road.\""
     publishedDateTime: 2020-10-23T14:52:00Z

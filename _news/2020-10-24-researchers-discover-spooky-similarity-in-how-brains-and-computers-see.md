@@ -9,8 +9,8 @@ ampWebUrl: "https://scienceblog.com/519193/researchers-discover-spooky-similarit
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: ScienceBlog
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Spooky' similarity in how brains and computers see"
-    excerpt: "The brain detects 3D shape fragments (bumps, hollows, shafts, spheres) in the beginning stages of object vision - a newly discovered strategy of natural intelligence that researchers also found in artificial intelligence networks trained to recognize visual objects."
-    publishedDateTime: 2020-10-22T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201022112606.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Researchers find 'spooky' similarity in how brains and computers see"
     excerpt: "Deep (multilayer) networks like AlexNet have achieved major gains in object recognition, based on high capacity Graphical Processing Units (GPU) developed for gaming and massive training sets fed by the explosion of images and videos on the Internet."
     publishedDateTime: 2020-10-23T14:31:00Z

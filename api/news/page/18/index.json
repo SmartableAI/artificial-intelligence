@@ -2,6 +2,108 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-08-headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m.md",
+      "title": "Headroom, which uses AI to supercharge videoconferencing, raises $5M",
+      "excerpt": "Videoconferencing has become a cornerstone of how many of us work these days — so much so that one leading service, Zoom, has graduated into verb status because of how much it’s getting used. But does that mean videoconferencing works as well as it should?",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/",
+      "originalUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-4.25.11-PM.png?w=1024",
+          "width": 1024,
+          "height": 975,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/amp/",
+      "publishedDateTime": "2020-10-08T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-adobe-brings-more-ai-powered-tools-to-photoshop-and-premiere-elements-2021.md",
+      "title": "Adobe brings more AI-powered tools to Photoshop and Premiere Elements 2021",
+      "excerpt": "The 2021 versions of Photoshop Elements and Premiere Elements are now available, and Adobe has added a number of AI-powered features to them. Those apps are Adobe’s streamlined versions of Photoshop and Premiere,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2021-features-145621547.html",
+      "originalUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2021-features-145621547.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fabc49140-0972-11eb-ba75-f5d17a69c7b3&client=amp-blogside-v2&signature=cd018cb59a311d621eb9a96941740f44bd8713c6",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/adobe-photoshop-premiere-elements-2021-features-145621547.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/adobe-photoshop-premiere-elements-2021-features-145621547.html",
+      "publishedDateTime": "2020-10-08T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-densitys-open-area-tool-uses-ai-and-infrared-to-track-physical-workspace-usage.md",
       "title": "Density’s Open Area tool uses AI and infrared to track physical workspace usage",
       "excerpt": "Density, a startup building AI-powered, people-counting infrared sensors, today announced a new product called Open Area that can map offices ostensibly without compromising privacy. The company ...",
@@ -1059,102 +1161,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move.md",
-      "title": "IBM Spinning Off Infrastructure Managed Services Group To Focus On Cloud Is A Good Move",
-      "excerpt": "IBM has been making a flurry of improvements to position the company to better take advantage of the cloud opportunity. In the past year, IBM acquired Red Hat, deeply integrated many of its products,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/09/ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/09/ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f805e370491850badf74c9a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/09/ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/10/09/ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move/amp/",
-      "publishedDateTime": "2020-10-07T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker.md",
-      "title": "Amazon announces price cuts on GPU instances in AWS Sagemaker",
-      "excerpt": "Amazon Web Services is cutting the price of GPU instances on Sagemaker, its fully managed machine learning service. AWS said customers will see up to 18% in price reductions on all ml.p2 and ml.p3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
-      "publishedDateTime": "2020-10-07T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

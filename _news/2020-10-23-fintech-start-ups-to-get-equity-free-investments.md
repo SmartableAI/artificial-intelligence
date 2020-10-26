@@ -57,15 +57,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Mastercard invests in no-code AI platform Signzy"
-    excerpt: "Mastercard has joined a $5.4 million funding round for Bangalore-based no-code AI platform Signzy. Arkam Ventures, Kalaari Capital and Stellaris Venture Partners also participated in the round for Signzy,"
-    publishedDateTime: 2020-10-21T23:29:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36796/mastercard-invests-in-no-code-ai-platform-signzy"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "yn6gdP920Fq2Yimvmxsul8/V/x0LFdmK8EGHIKlP/lUGy4PMqLlfHW7sfIktrClJXPyVh3bcxwn9CN5zfrTJrpFw5WdbjB6XLMfathNlx3WcmL61paDVHZWWCq2t8PB2qwIg3zNPhXl80X2R4FT0iQfoEGZYhT1Kxk54ZaMGioz4s8b6cwKtzWyj5kS5mAGflfkLaEOosX28YXtsnkpAfk7M2IA+/F10st+bqSE9B2qukmWcsUx4pS3qN3yutBY5MLOPtmWC6fgW1Jvta9KHYfWOJPbcrEERXJJV+/A/YMHqGKe+rUqY/sUBbOJwdRSt3NbMomOI+Fk/N4qbuj3oVjOxx8tcMcXpmQWlFIhfw4s=;UNdsXIoPWgRNzHJM2zeFAw=="
 ---

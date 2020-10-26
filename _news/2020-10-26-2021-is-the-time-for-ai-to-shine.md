@@ -3,12 +3,12 @@ category: news
 title: "2021 is the time for AI to shine"
 excerpt: "Companies and C-level leaders will tackle kinks in AI head on in 2021, not because they want to but because they have to."
 publishedDateTime: 2020-10-26T14:53:00Z
-originalUrl: "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/"
-webUrl: "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/2021-is-the-time-for-ai-to-shine/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/2021-is-the-time-for-ai-to-shine/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/2021-is-the-time-for-ai-to-shine/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/2021-is-the-time-for-ai-to-shine/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 related:
@@ -41,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Yu5Yf2XiuYYU5ufUMgCkgaEXyk3OjCGqTmB1LcmypwPJgl9YqndpH0Zft9ZKe9/Al5vnbaNPWfA1wD3bl44Pp8JRz2uydQa5cNdAqQ0DDxwaMldCRvVJWurcjhuf0E51Em2EZ+0C86zNmkidSUPArfgOIkCscaLtDfmiz76Xy5ENZHDkX5DBdORzzf4+OSJKPJavvoixg1R5Hd48Qj7y/IosaQ79NsEFzl3AU3qiW06UM3pu+civSDzgq2BFhyg2fpMYJd/kJ23k7wKUWB/epYjUwZLIVM9bR/qnQQypHUz2BhoyRX8tRQ+67wQKlgEZcKXTdm2NuF9UQpVbh8QsFa9dY0m3NvloSFiaJPRFCTohNkn4SpHoU43h15JF8Gud1X4wQbFulBSkt3Eyo+W41T5niaBKqYhceTZl3+Ny6o2TOGAWiLhd/7HaZxh/ug47F6BaQHJG77PlugBoPcvTPowiM3lGSGbvC59uv2N2ON3cXfab4iWzWpCqh5G9Y82Z0ppA1iMb44CuUISQI4b0CQ==;UM1f1VWdt//nl6BAG65t3w=="
+secured: "We7GoopQLemNGJII6N6k06Z16NWVPRwQWmwoDxbZnHo8fA/Mo6cx3AtRxUgjeQagA1Yq84sCzkPHqRzFniJ2MNP/idgIR7dS28AHX3dOI+QFaf5UbOpfLr9IvE7s4ssbEawyMzW4/GlLdW3VLnrNPeCewuvqmzdPTFvKNeKujPT1lFQxSAKR5rleDJWEcQ0WONWYo42ksrbhVHXp0UirrHRYQMpRBKyPQOI68r6jPmWimOg8Rx/PCCP5JUhHo0lkegGY+T7/MmyPwxyAI9bps2JHnOA8KXTZPfzkASwhoosN0WsL2yGhfkRUu6xBoxlis2r6vAcJ1CyxZJ56Q24loAwlxU3rOtis7IrHDJ7St8IF/w7P0oo4ElCKNhfODOT4xnkygfZDWDekz44CAcL/ZyA7BkoWHhEPlPmR2OJbymq+u0PPJ3qoFHNZ8F5P/d/hvpEdvEh497Zt6ME9TB2hXLj4nI6k76/wiMiY9VmJOP0koaOqFrZsrTmUkMnVcxV/6SkOn0MlEylAijIJuoSoDg==;b69Ig4ZjIoRhg6PKv1CdIQ=="
 ---
 

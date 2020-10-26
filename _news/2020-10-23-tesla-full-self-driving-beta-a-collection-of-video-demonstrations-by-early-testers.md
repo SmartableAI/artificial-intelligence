@@ -366,6 +366,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves"
+    excerpt: "DETROIT (AP) — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and ..."
+    publishedDateTime: 2020-10-26T17:37:00Z
+    webUrl: "https://www.wate.com/news/tesla-full-self-driving-vehicles-cant-drive-themselves/"
+    ampWebUrl: "https://www.wate.com/news/tesla-full-self-driving-vehicles-cant-drive-themselves/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/tesla-full-self-driving-vehicles-cant-drive-themselves/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 59
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2020/10/89a98f9378e34887be07728521ab7137.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla Deployed Full Self-Driving Beta in Some Cars. Here’s How It Works."
     excerpt: "Last week Monday we gave you a heads up that Tesla would be releasing a beta version of its full self-driving (FSD) capability to some cars this week. It appears Elon Musk’s team has made the deadline;"
     publishedDateTime: 2020-10-23T16:53:00Z

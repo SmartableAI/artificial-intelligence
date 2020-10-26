@@ -2,6 +2,108 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-14-googles-search-on-event-will-reveal-new-ai-powered-features-on-thursday.md",
+      "title": "Google's 'Search On' event will reveal new AI-powered features on Thursday",
+      "excerpt": "Google has scheduled a 'Search On' event for October 15th at 3 PM ET, where it will unveil new AI-powered upgrades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-search-on-stream-020155879.html",
+      "originalUrl": "https://www.engadget.com/google-search-on-stream-020155879.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F6f09b080-0dc0-11eb-bcdb-e8df047fd37b&client=amp-blogside-v2&signature=8d654481b7bda6a703df4c607999901c8041a846",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-search-on-stream-020155879.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-search-on-stream-020155879.html",
+      "publishedDateTime": "2020-10-13T19:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-fitness-tech-company-jaxjox-raises-10m-as-it-gets-ready-to-ship-ai-enabled-workout-system.md",
+      "title": "Fitness tech company JAXJOX raises $10M as it gets ready to ship AI-enabled workout system",
+      "excerpt": "JAXJOX, the Redmond, Wash.-based fitness technology company, has raised $10 million in a new funding round to help pay for the research and development of its signature InteractiveStudio",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/fitness-tech-company-jaxjox-raises-10m-gets-ready-ship-ai-enabled-workout-system/",
+      "originalUrl": "https://www.geekwire.com/2020/fitness-tech-company-jaxjox-raises-10m-gets-ready-ship-ai-enabled-workout-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/10/Studio_Environment__1-630x389.jpg",
+          "width": 630,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/fitness-tech-company-jaxjox-raises-10m-gets-ready-ship-ai-enabled-workout-system/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/fitness-tech-company-jaxjox-raises-10m-gets-ready-ship-ai-enabled-workout-system/amp/",
+      "publishedDateTime": "2020-10-13T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-aws-free-tier-what-is-it-and-who-qualifies.md",
       "title": "AWS Free Tier: what is it and who qualifies?",
       "excerpt": "With AWS Free Tier, even the smallest businesses and developers can benefit from powerful cloud infrastructure. Amazon Web Services (AWS) is a cloud platform that provides businesses with a wide ...",
@@ -1084,90 +1186,6 @@
         "AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-luxury-institute-the-10-new-rules-for-the-21st-century-data-driven-enterprise.md",
-      "title": "Luxury Institute: The 10 New Rules for the 21st-Century Data-Driven Enterprise",
-      "excerpt": "Today's headlines declare that data is the new oil, the essential fuel that powers the digital economy. In the more advanced consumer goods",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/12/10-essential-leadership-qualities-for-the-age-of-artificial-intelligence/",
-      "originalUrl": "https://www.prnewswire.com/news-releases/luxury-institute-the-10-new-rules-for-the-21st-century-data-driven-enterprise-301150861.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f83dac6449826adc7bfecb4%2F0x0.jpg",
-          "width": 1200,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/12/10-essential-leadership-qualities-for-the-age-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/10/12/10-essential-leadership-qualities-for-the-age-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-10-13T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-global-artificial-intelligence-ai-in-drug-discovery-market.md",
-      "title": "Global Artificial Intelligence (AI) in Drug Discovery Market",
-      "excerpt": "Data Bridge Market Research has recently added a concise research on the Artificial Intelligence (AI) in Drug Discovery Market to depict valuable insights related to significant market trends driving the industry. The report features analysis based on key ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2156548/global-artificial-intelligence-ai-in-drug-discovery-market",
-      "originalUrl": "https://www.openpr.com/news/2156548/global-artificial-intelligence-ai-in-drug-discovery-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta12403450_g.jpg",
-          "width": 800,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2156548/global-artificial-intelligence-ai-in-drug-discovery-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2156548/global-artificial-intelligence-ai-in-drug-discovery-market",
-      "publishedDateTime": "2020-10-13T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -25,47 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "The 2020 data and AI landscape"
-    excerpt: "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ..."
-    publishedDateTime: 2020-10-21T23:13:00Z
-    webUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/"
-    ampWebUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
+  - title: "The real business risks of ignoring diversity, equity, and inclusion in your AI strategy"
+    excerpt: "What happens when decision-makers in tech companies simply don’t reflect the diversity of the general population?"
+    publishedDateTime: 2020-10-22T12:10:00Z
+    webUrl: "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/"
+    ampWebUrl: "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 91
+    quality: 78
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/GettyImages-1249641728.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 678
         isCached: true
-  - title: "The Impact of Artificial Intelligence on the Law"
-    excerpt: "New York County's cases are now available for legal analytics. Machine intelligence is increasingly important to lawyers."
-    publishedDateTime: 2020-10-22T17:01:00Z
-    webUrl: "https://www.forbes.com/sites/calumchace/2020/10/22/the-impact-of-artificial-intelligence-on-the-law/"
-    ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/22/the-impact-of-artificial-intelligence-on-the-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/22/the-impact-of-artificial-intelligence-on-the-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f919a1f3bbe04db2a9082f3%2F0x0.jpg"
-        width: 1200
-        height: 872
-        isCached: true
-  - title: "Saudi Data and Artificial Intelligence Authority develops national AI strategy"
-    excerpt: "Saudi Arabia has launched a national Artificial Intelligence strategy aimed at making it a global leader in the field, as it seeks to diversify its oil-based economy. The National Strategy for Data and Artificial Intelligence (NSDAI) will seek to attract USD 20 billion in foreign and local investments by 2030,"
-    publishedDateTime: 2020-10-26T14:18:00Z
-    webUrl: "https://www.telecompaper.com/news/saudi-data-and-artificial-intelligence-authority-develops-national-ai-strategy--1359097"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 28
 
 secured: "lg+RvT5fYkegU5E+FIcvYti7BguhrJtU+Nwm+DWinUZZEE1EC5gDzZsIaPtnWuSYDlT+gSNewBLovAB4SrkNOKRDj1J19KXNiLbyeWayLHFswLLZI9BbZGyqcKUPwC0bJrNFr4aUR7pGH3x/KhHK66wroTYOdLOaiTgw4zbYRBmd3/rwkAhX9xVd0MJfBPIUkAnO7ak63QRT7GOg50pJUy0Dl4nv7NT7ziW4EREgygjU0Fd5EvGEuuXSABHGAok6QulNcy7RUE2pLQoniTfY4FmVKnVEd163t7K3LgqGi2r1FVfDHt8GtK08CPjSCwBalLdzjEo68sRGPvBFrNEgCYFTEHYcH1SqSpowXsg7udddM+qVIguZICQ6d4eICJouwEQskKEpLvUnFwDclx4EkPlFLSX4jJepbmdiydZncatkZ21NazSIabtlzGR7yIpE28sH9c2TFWppIe4m4Lir7hGtdIsG3GchM56VsU4frgENQ0upWjQHMmon4dSSnMIaYyqjU2Y9RyOxRRVrfY8k6A==;9eL7KGy0woGhnh1KERc2Wg=="
 ---

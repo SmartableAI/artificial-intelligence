@@ -30,45 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "The 2020 data and AI landscape"
-    excerpt: "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ..."
-    publishedDateTime: 2020-10-21T23:13:00Z
-    webUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/"
-    ampWebUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
+  - title: "There's No Turning Back on AI in the Military"
+    excerpt: "with commercial technologies like cloud and AI—all to shoot down cruise missiles in split seconds—is a harbinger of things to come. Are there disproportionate safety and ethics challenges ahead for the US? Yes. And ours will be the higher road."
+    publishedDateTime: 2020-10-24T20:57:00Z
+    webUrl: "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/"
+    ampWebUrl: "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://media.wired.com/photos/5f876aa8bdbbaee370e7cd80/master/pass/OpEd-AI-Airforce-190304-F-NH566-9002.jpg"
+        width: 2400
+        height: 1597
         isCached: true
-  - title: "Benefits and Risks of Artificial Intelligence"
-    excerpt: "In the midst of all this, there is another age slowly taking shape, the Artificial Intelligence(AI) era. Many believe that this will be the next evolution for mankind. Whether that bodes well or not for mankind,"
-    publishedDateTime: 2020-10-22T10:51:00Z
-    webUrl: "https://www.edmchicago.com/benefits-risks-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: EDM Chicago
-      domain: edmchicago.com
-    quality: 39
-    images:
-      - url: "https://www.edmchicago.com/wp-content/uploads/2020/10/Artificial-Intelligence.jpg"
-        width: 2243
-        height: 1507
-        isCached: true
-  - title: "Saudi Data and Artificial Intelligence Authority develops national AI strategy"
-    excerpt: "Saudi Arabia has launched a national Artificial Intelligence strategy aimed at making it a global leader in the field, as it seeks to diversify its oil-based economy. The National Strategy for Data and Artificial Intelligence (NSDAI) will seek to attract USD 20 billion in foreign and local investments by 2030,"
-    publishedDateTime: 2020-10-26T14:18:00Z
-    webUrl: "https://www.telecompaper.com/news/saudi-data-and-artificial-intelligence-authority-develops-national-ai-strategy--1359097"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 28
 
 secured: "IbizKGL3bYl2zocDkuVUp8qFo8+qzM6L+4CaINyTc3UpvQUTFnv/mXE6MURFkdcRTutKpePs9SFn7ir1O8ybLjYyEVNqowXeiK7ZxONr2aMZuCSijpJB6O3VqnydBvZ9ZxZFnXHX6eVK9IYm5H5rJQZ4jZyhLg50qM+BVB3mQbBFrUkFJHx1rw+S825FDMK5joXPAMMODREuy345FdGTXRF8TR60yCGAA4QIpgO89UPEUEx46wYXrHJscAi3o6hiXaRoPDIUm4tmnJjWvrv5wKjBY76yoBnwDdX2kxXmaYum5wKlOrFLjEwPaYfUGq9thmkYnhLLY2Nl5PEDdDwWszFweMGviIDff8wNC63p7Td+t5eyMbAc+aiIDscQ1TJokBnuAWNHIBEBIFMxNssXgI64ehItIgaD/KzQyklrRcAudPILn0by9py0YFCa343k86gZDz+Gpphmcb2NHEtUdx3HNNiFWF0tnjOY8lF5gyjNAhRn3D5a1g2kYWaOtRUU/vyt7meIzf+0I0/uAcu/CQ==;I6gGipuVe/UTloTshNcVZg=="
 ---

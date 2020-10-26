@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google sold AI to customs for use at US-Mexico border: report"
-    excerpt: "Despite protests from its staff in the past leading to its pulling out from controversial US Government projects, Google has now made a deal for its artificial technology to be used by the Trump administration to fortify the US-Mexico border,"
-    publishedDateTime: 2020-10-21T23:12:00Z
-    webUrl: "https://www.itwire.com/technology-regulation/google-sold-ai-to-customs-for-use-at-us-mexico-border-report.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://www.itwire.com/media/k2/items/cache/0d139ec7dd1fdccfb03c6a1344acddba_M.jpg"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "6KHr8AeX5Q6KmSpNZFeCSAc/6/qO1Js6uspemKYHte0AWGQp9i9rPYTxvKkMN8d3LgcR64ZENdGZfJtaVyTttHIFd1FlvOIMT3y6zMDbELh1Fjx7i9l3sdGWH9o9HbMOUYnlxL5xJoVZIzpW7V3sq41fA8uD+SmBvWJav0I9Squ9/6azURd9Igd3XFvghhMXCHMAdCEbf1lsOZbBKtkOUWZeATMn7LxVzgSGP9/pvsqLSo7JhGKH6PrksdwfcJ9aenaKCSl/YHcP5Xhh42kUdGnT5Vj924LUtFk2U84IQ8dhuETe3TJvg3d1PlWcXRvdkHLUK2EwaqIsO9UOkLeRbSfD3ZUMOfRUASIoEsIsC9RXHrAhJXKgLQVu8r54yoIfLnfcyGX1rD0TboNDBp4oR9pktPg9uuKCn3wUSWhcQD9cBIjjWGAlWlP8aDkSuxg6L58T3u7Gu1EgnB/DQfdsHYDB7Y/g3elPMmD+w/TVNRANwaf/gh4m7yMEDMMnlTf5SqB6vLz4f2a9I3xm8yFvIQ==;RBJNE/BikiVdzIKYFMiBWA=="
 ---

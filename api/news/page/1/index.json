@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-27-mit-researchers-create-a-self-driving-roboat-that-can-carry-two-passengers.md",
+      "title": "MIT researchers create a self-driving 'Roboat' that can carry two passengers",
+      "excerpt": "The boat, aptly named \"Roboat II\" (taking the name of its predecessor, the original Roboat), is the product of five years of experimentation over at MIT's Computer Science and Artificial Intelligence ... or even act as self-driving water taxis that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87292-mit-researchers-create-self-driving-roboat-can-carry.html",
+      "originalUrl": "https://www.techspot.com/news/87292-mit-researchers-create-self-driving-roboat-can-carry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-26-image-11.jpg",
+          "width": 1680,
+          "height": 996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87292-mit-researchers-create-self-driving-roboat-can-carry.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87292-mit-researchers-create-self-driving-roboat-can-carry.html",
+      "publishedDateTime": "2020-10-26T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-artificial-intelligence-is-used-to-understand-the-geospatial-world-to-improve-business-and-governmental-performance.md",
+      "title": "Artificial Intelligence Is Used To Understand The Geospatial World To Improve Business And Governmental Performance",
+      "excerpt": "Geospatial image capture started off small, but has now grown to a massive scale. The addition of AI both improves computer vision and downstream analysis. This is another are where the world around us is being enhanced by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/10/26/artificial-intelligence-is-used-to-understand-the-geospatial-world-to-improve-business-and-governmental-performance/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/10/26/artificial-intelligence-is-used-to-understand-the-geospatial-world-to-improve-business-and-governmental-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/10/26/artificial-intelligence-is-used-to-understand-the-geospatial-world-to-improve-business-and-governmental-performance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/26/artificial-intelligence-is-used-to-understand-the-geospatial-world-to-improve-business-and-governmental-performance/amp/",
+      "publishedDateTime": "2020-10-26T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets.md",
+      "title": "New AI tool that detects star flares could help us find habitable planets",
+      "excerpt": "Scientists have developed an AI system that detects stellar flares, which could help astronomers search for habitable planets.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-26T155118.919-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/amp/",
+      "publishedDateTime": "2020-10-26T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-techsee-raises-30-million-to-streamline-field-service-work-with-ar-and-computer-vision.md",
       "title": "TechSee raises $30 million to streamline field service work with AR and computer vision",
       "excerpt": "TechSee’s cross-platform, AWS-hosted apps employ computer vision to recognize products and issues and streamline warranty registration . For instance, TechSee Live, the company’s call center ...",
@@ -416,7 +570,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -717,7 +871,7 @@
       "originalUrl": "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1113,154 +1267,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-ai-weekly-constructive-ways-to-take-power-back-from-big-tech.md",
-      "title": "AI Weekly: Constructive ways to take power back from Big Tech",
-      "excerpt": "Dr. Noble began by acknowledging that AI systems in social media can pick up, amplify, and deepen existing systems of inequality like racism or sexism. “Those things don’t necessarily start in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/",
-      "originalUrl": "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/time-100-markle-harris-noble-harry.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/amp/",
-      "publishedDateTime": "2020-10-23T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-scientists-discover-surprising-similarity-between-neural-networks-and-human-brain.md",
-      "title": "Scientists Discover Surprising Similarity Between Neural Networks and Human Brain",
-      "excerpt": "\"Artificial networks are the most promising current models for understanding the brain. Conversely, the brain is the best source of strategies for bringing artificial intelligence closer to natural intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/surprising-similarity-between-neural-networks-human-brain",
-      "originalUrl": "https://futurism.com/the-byte/surprising-similarity-between-neural-networks-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/10/surprising-similarity-between-neural-networks-human-brain-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/surprising-similarity-between-neural-networks-human-brain/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/surprising-similarity-between-neural-networks-human-brain/amp",
-      "publishedDateTime": "2020-10-23T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-arcanum-makes-hungarian-heritage-accessible-with-amazon-rekognition.md",
-      "title": "Arcanum makes Hungarian heritage accessible with Amazon Rekognition",
-      "excerpt": "Arcanum specializes in digitizing Hungarian language content, including newspapers, books, maps, and art. With over 30 years of experience, Arcanum serves more than 30,000 global subscribers with access to Hungarian culture, history, and heritage. Amazon Rekognition Solutions Architects worked with Arcanum",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/arcanum-makes-hungarian-heritage-accessible-with-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/arcanum-makes-hungarian-heritage-accessible-with-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/22/4-FaceSearch-825x630.jpg",
-          "width": 825,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T10:48:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

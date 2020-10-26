@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Leap And Learn: The Common Thread Of Artificial Intelligence Success Stories"
+    excerpt: "Enterprises seeing real success with artificial intelligence have something in common: they are capable of learning quickly from their successes or failures and re-applying those lessons into their mainstream of their businesses."
+    publishedDateTime: 2020-10-26T16:18:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1154231467%2F0x0.jpg"
+        width: 1200
+        height: 663
+        isCached: true
   - title: "Researchers suggest AI can learn common sense from animals – Jaweb"
     excerpt: "AI researchers developing reinforcement learning agents could learn a lot from animals. That’s according to recent analysis by Google’s DeepMind, Imperial College London, and University of Cambridge researchers assessing AI and non-human animals."
     publishedDateTime: 2020-10-25T16:18:00Z

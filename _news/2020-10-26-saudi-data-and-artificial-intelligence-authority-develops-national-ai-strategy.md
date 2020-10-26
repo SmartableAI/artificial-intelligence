@@ -18,52 +18,17 @@ topics:
   - AI
 
 related:
-  - title: "The 2020 data and AI landscape"
-    excerpt: "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ..."
-    publishedDateTime: 2020-10-21T23:13:00Z
-    webUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/"
-    ampWebUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
+  - title: "Saudis Launch National Artificial Intelligence Strategy"
+    excerpt: "Speaking at the opening of the kingdom's Global AI Summit, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) - which will spearhead the NSDAI strategy - sai"
+    publishedDateTime: 2020-10-23T00:33:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Impact of Artificial Intelligence on the Law"
-    excerpt: "New York County's cases are now available for legal analytics. Machine intelligence is increasingly important to lawyers."
-    publishedDateTime: 2020-10-22T17:01:00Z
-    webUrl: "https://www.forbes.com/sites/calumchace/2020/10/22/the-impact-of-artificial-intelligence-on-the-law/"
-    ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/22/the-impact-of-artificial-intelligence-on-the-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/22/the-impact-of-artificial-intelligence-on-the-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f919a1f3bbe04db2a9082f3%2F0x0.jpg"
-        width: 1200
-        height: 872
-        isCached: true
-  - title: "Benefits and Risks of Artificial Intelligence"
-    excerpt: "In the midst of all this, there is another age slowly taking shape, the Artificial Intelligence(AI) era. Many believe that this will be the next evolution for mankind. Whether that bodes well or not for mankind,"
-    publishedDateTime: 2020-10-22T10:51:00Z
-    webUrl: "https://www.edmchicago.com/benefits-risks-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: EDM Chicago
-      domain: edmchicago.com
-    quality: 39
-    images:
-      - url: "https://www.edmchicago.com/wp-content/uploads/2020/10/Artificial-Intelligence.jpg"
-        width: 2243
-        height: 1507
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
 
 secured: "D8BaM3TmTdipi7Qhsm4a5wMFjHh6to0g0QcMWULgWPGRgwewU1TYbSyT6OvXaNgYDjxwJPXoksWK/gdBnLawE7/ta49FrRUE2bH31lduY18KfMxs+jRg78QIgjzMCJXmt7ZQNVW3hh+xy464FrEzvg0S7jjKV3VzVXEzGEtn+QznZpGr3D0aPklzl0/N5Z4nIg4Oh0z1veqHeeMw+j7keCPFBnfYtCYrpF7iPZfFKus+rjRFIdnZkUtaHelTx/C78D/G4daPoEUbSwVCiyRiUyLMw4i+xfuo/cQ0m1uIg8ljhG4VGaSFSLRf7ZCuekeimfRDeGi9726tUVMlRWYbcmvzt2s/bIkhuugHwjzIuHw=;UInOHQeXy9mNiVJv0/tthQ=="
 ---

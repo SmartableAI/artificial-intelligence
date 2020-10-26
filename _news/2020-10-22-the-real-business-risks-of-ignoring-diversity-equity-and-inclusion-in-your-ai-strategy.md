@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignori
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 678
     isCached: true
+
+related:
+  - title: "Benefits and Risks of Artificial Intelligence"
+    excerpt: "In the midst of all this, there is another age slowly taking shape, the Artificial Intelligence(AI) era. Many believe that this will be the next evolution for mankind. Whether that bodes well or not for mankind,"
+    publishedDateTime: 2020-10-22T10:51:00Z
+    webUrl: "https://www.edmchicago.com/benefits-risks-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: EDM Chicago
+      domain: edmchicago.com
+    quality: 39
+    images:
+      - url: "https://www.edmchicago.com/wp-content/uploads/2020/10/Artificial-Intelligence.jpg"
+        width: 2243
+        height: 1507
+        isCached: true
 
 secured: "LKHtvnkbEIL4NUT/fw5gZ+Mkg2ka3GY+vra/vc24j6KzWIqJ5JnvnqMzVUmuRQ4Wd6JIaIwhrqapaE9iJ4JNbz6mqAC9O17tYFnWzxm7oHQtj2x9GB+S2PrcEHacEBnRI5iTrYuZvw/dIT2pUq/+SOSbqitNeoHA07rgK9kjx0pkdWUykzqeL8K4V+UpXY8bggsXmdXCMZnR0SsIObt9qjdWaImRB7HpJ1Wi0tQea9G344XgdbHQRyz8Bl/RtmMh0ZK4ablLs5Kd9g89LSHfgs+IfN5m+sfOLIy+Fv+G7uFIIlZ1cJUzaAU1zj/sPA5joGS+mVPTKjNLK+MSGvnIwoHTWA7FcZrMPyhwxH5xwCo3OwRSvX71FEGYkBu7VoMSPlA+/4HbZbdJPfdwnNgCmj05BLYPF4jMRzMlY6VgYUfztIl1QEENSb23XMnwKeveBbWtWjXfPFq50NPVX78DgO5C0dRwaz1wviikQ1SDFXe94X/ObzVXo1DOntrbqCXOjzFfXRWuc5xw9G1LBlJ/lg==;3RPS7V4LJcLrnlQ64JNHeg=="
 ---

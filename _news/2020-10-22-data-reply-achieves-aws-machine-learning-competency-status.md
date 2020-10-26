@@ -1,29 +1,24 @@
 ---
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
-excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ..."
-publishedDateTime: 2020-10-22T07:35:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
-webUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
+excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
+publishedDateTime: 2020-10-22T07:30:00Z
+originalUrl: "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/"
+webUrl: "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/"
 type: article
-quality: 56
-heat: 77
-published: true
+quality: 38
+heat: -1
+published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
-
-images:
-  - url: "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg"
-    width: 1200
-    height: 627
-    isCached: true
+  - AWS AI
 
 related:
   - title: "Ironside Achieves AWS Advanced Consulting Partner Status"
@@ -37,6 +32,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Accenture Acquires AWS Consultant Partner Enimbos"
+    excerpt: "Accenture acquires AWS cloud consultant partner Enimbos as the IT services powerhouse invests billions in its new Cloud First initiative."
+    publishedDateTime: 2020-10-26T15:48:00Z
+    webUrl: "https://www.crn.com/news/cloud/accenture-acquires-aws-consultant-partner-enimbos"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg"
+        width: 399
+        height: 399
+        isCached: true
   - title: "DATA REPLY: Data Reply Achieves AWS Machine Learning Competency Status"
     excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply Group company specialized in Big Data Analytics and Artificial ..."
     publishedDateTime: 2020-10-22T07:33:00Z
@@ -47,6 +56,6 @@ related:
       domain: finanznachrichten.de
     quality: 36
 
-secured: "dF/haQrpQJuWEy+PY7Gm7E0NCuo6lnDZlN78XRzdMFzR1JwV72jiEDoQOuf8lDQlgYnWiTC43NFeQ1Zavyza4U11eP/UpXBO/L5g5p+8vhhT1uaJz1lGC3vZ8vn5D061KE3/lTsLodKfXq/bgYxa6tMtBD5sn1JDsbQM3Z/Ka8NdfsgLc58j/dPLpd+St8/Bk37EmQhBK+GYd0RzkVOvUOxQTUhH7IYGLd/m7ZD6w2OdU5cJBELUPsSEhdk7qMQc9lxH24Qvo3kHNLSZGgq2wxYnHM+24vf8qLpY48MiV+6KXWByQCpm3+QPp5+btLnTzBdEfNtNFgutuinNGsLXJFQCUnMxCT8Ht+1N1awYupA=;59ZXJl8Mz2d8jt55T3uzYQ=="
+secured: "YLNDvevUyUz4hgo9YTNwuMBNqq+u/0rS4XXsgflv4tMqGBUipQiG5gBAtoQ3lkf/C3QtE+mMIBs3jcO028wPNavi5yVfrilr+MFN3+9Ym4CAOyfBWq4P9U3YXj2PKWIxBc1lDBV8v3ZJgp/XKL8r+ORadLm3FeYj0SZlbzQJm+EtMP6lrv13ZZf5vHfxzok8wc2ORxvED6egD16O73qPzfXEl/qIRytnkZMGBPZb1crFW3QyEVf/d2sUrciYBhOIyEKfejtV3neKWi/ePd/RybzuwnG4h27Ou1fM4g8luR5MiJkp532RURMLWQvZkCNqCiyg0MzZFn4NrgvB5XwAmaJBOB92v1wCmuMeU1TXfdI=;o9E3rZ+M4IjQI/X7VJw7Mg=="
 ---
 

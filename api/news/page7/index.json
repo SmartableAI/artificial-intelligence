@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-20-with-deep-learning-algorithms-standard-ct-technology-produces-spectral-images.md",
+      "title": "With deep learning algorithms, standard CT technology produces spectral images",
+      "excerpt": "In research published today in , a team of engineers from Rensselaer Polytechnic Institute demonstrate how a deep learning algorithm can be applied to a conventional computerized tomography (CT) scan in order to produce images that would typically require a higher level of imaging technology known as dual-energy CT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/rpi-wdl101920.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/rpi-wdl101920.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-wimi-hologram-cloud-stock-rallies-on-news-of-new-artificial-intelligence-subsidiary.md",
+      "title": "WiMi Hologram Cloud Stock Rallies on News of New Artificial Intelligence Subsidiary",
+      "excerpt": "The company says it's accelerating the development of its intellectual property -- positive news overshadowing a surprise shakeup in the management team.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595591%2Fstock-chart-hologram-up.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
+      "publishedDateTime": "2020-10-19T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai.md",
       "title": "Juniper acquires 128 Technology for $450 million as it builds out its AI",
       "excerpt": "Juniper Networks said it will acquire 128 Technology for $450 million in a move that will give it more artificial intelligence-based features through its networking portfolio. The company said it will it will acquire 128 Technology with cash and assumption of equity awards.",
@@ -1116,110 +1210,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash.md",
-      "title": "When Self-Driving Cars Don’t Realize They’ve Been In A Car Crash",
-      "excerpt": "Will self-driving cars realize when they've been in a car crash? getty. Have you ever been in a car crash? The odds are that if you’ve been driving for any notable number of yea",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88dfcdb1cfa1bd271072c9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/",
-      "publishedDateTime": "2020-10-18T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-why-software-developers-might-be-obsolete-by-2030.md",
-      "title": "Why software developers might be obsolete by 2030",
-      "excerpt": "John Maynard Keynes predicted we’d be having 15-hour workweeks by the end of the century. But by the time it was 2013, it was clear the great economist had gotten something wrong. Welcome to the era of bullshit jobs,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/syndication/2020/10/18/why-software-developers-might-be-obsolete-by-2030/",
-      "originalUrl": "https://thenextweb.com/syndication/2020/10/18/why-software-developers-might-be-obsolete-by-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/image-5-3-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/syndication/2020/10/18/why-software-developers-might-be-obsolete-by-2030/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/syndication/2020/10/18/why-software-developers-might-be-obsolete-by-2030/amp/",
-      "publishedDateTime": "2020-10-18T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

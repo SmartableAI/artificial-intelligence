@@ -2,20 +2,20 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-24-researchers-discover-spooky-similarity-in-how-brains-and-computers-see.md",
-      "title": "Researchers Discover ‘Spooky’ Similarity In How Brains and Computers See",
-      "excerpt": "The brain detects 3D shape fragments such as bumps, hollows, shafts and spheres in the beginning stages of object vision – a newly discovered strategy of",
+      "path": "_news/2020-10-24-ai-weekly-constructive-ways-to-take-power-back-from-big-tech.md",
+      "title": "AI Weekly: Constructive ways to take power back from Big Tech",
+      "excerpt": "Dr. Noble began by acknowledging that AI systems in social media can pick up, amplify, and deepen existing systems of inequality like racism or sexism. “Those things don’t necessarily start in ...",
       "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/",
-      "originalUrl": "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/",
+      "webUrl": "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/",
+      "originalUrl": "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://scienceblog.com/wp-content/uploads/2013/07/hal-2001.jpg",
-          "width": 800,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/time-100-markle-harris-noble-harry.png?w=1200&strip=all",
+          "width": 1200,
           "height": 600,
           "title": null,
           "attribution": null,
@@ -24,13 +24,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/amp/",
-      "publishedDateTime": "2020-10-23T10:21:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/amp/",
+      "publishedDateTime": "2020-10-23T12:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-scientists-discover-surprising-similarity-between-neural-networks-and-human-brain.md",
+      "title": "Scientists Discover Surprising Similarity Between Neural Networks and Human Brain",
+      "excerpt": "\"Artificial networks are the most promising current models for understanding the brain. Conversely, the brain is the best source of strategies for bringing artificial intelligence closer to natural intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/surprising-similarity-between-neural-networks-human-brain",
+      "originalUrl": "https://futurism.com/the-byte/surprising-similarity-between-neural-networks-human-brain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/10/surprising-similarity-between-neural-networks-human-brain-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/surprising-similarity-between-neural-networks-human-brain/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/surprising-similarity-between-neural-networks-human-brain/amp",
+      "publishedDateTime": "2020-10-23T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +92,61 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-arcanum-makes-hungarian-heritage-accessible-with-amazon-rekognition.md",
+      "title": "Arcanum makes Hungarian heritage accessible with Amazon Rekognition",
+      "excerpt": "Arcanum specializes in digitizing Hungarian language content, including newspapers, books, maps, and art. With over 30 years of experience, Arcanum serves more than 30,000 global subscribers with access to Hungarian culture, history, and heritage. Amazon Rekognition Solutions Architects worked with Arcanum",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/arcanum-makes-hungarian-heritage-accessible-with-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/arcanum-makes-hungarian-heritage-accessible-with-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/22/4-FaceSearch-825x630.jpg",
+          "width": 825,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T10:48:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
       ]
     },
     {
@@ -543,7 +648,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/358321",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -846,6 +951,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-23-saudis-launch-national-artificial-intelligence-strategy.md",
+      "title": "Saudis Launch National Artificial Intelligence Strategy",
+      "excerpt": "Speaking at the opening of the kingdom's Global AI Summit, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) - which will spearhead the NSDAI strategy - sai",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy",
+      "originalUrl": "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp",
+      "publishedDateTime": "2020-10-22T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-the-monarch-mind-control-mystique.md",
       "title": "The Monarch Mind Control Mystique",
       "excerpt": "But in some cases, the young performer can’t stand the confusing transition from tween star to men’s magazine cover girl and starts to malfunction like the robot she has essentially become.",
@@ -1062,7 +1209,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1102,152 +1249,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-us-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions.md",
-      "title": "U.S.-Based Fintech Provider Quavo Announces Fraud & Dispute AI for Financial Institutions",
-      "excerpt": "Quavo Inc., a U.S.-based fintech provider, announced on Thursday it has launched a fraud and dispute artificial intelligence (AI), called Auto Reasonable Investigation Agent (ARIA). The company claims",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/",
-      "originalUrl": "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2015/01/Stop-Fraud-600-600x558.png",
-          "width": 600,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/amp/",
-      "publishedDateTime": "2020-10-22T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-researchers-find-high-error-rates-in-commercial-speech-recognition-systems.md",
-      "title": "Researchers find high error rates in commercial speech recognition systems",
-      "excerpt": "Some automatic speech recognition (ASR) systems might be less accurate than previously assumed. That’s the top-level finding of a recent study by researchers at Johns Hopkins University ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/",
-      "originalUrl": "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/echo-dot-e1572284967494.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/amp/",
-      "publishedDateTime": "2020-10-22T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy.md",
-      "title": "IBM and Pfizer claim AI can predict Alzheimer’s onset with 71% accuracy",
-      "excerpt": "IBM and Pfizer claim to have developed a model that can predict the onset of Alzheimer's disease years before clear symptoms develop.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/",
-      "originalUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/amp/",
-      "publishedDateTime": "2020-10-22T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

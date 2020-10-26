@@ -73,6 +73,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "C3.ai, Microsoft, and Adobe Combine Forces on C3 AI CRM"
+    excerpt: "The joint solution offers an integrated ecosystem that empowers customers to take advantage of leading CRM capabilities along with an integrated ecosystem with Azure, Microsoft 365, and the Microsoft Power Platform. In addition, C3 AI CRM leverages the ..."
+    publishedDateTime: 2020-10-26T15:49:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143560"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 71
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133199-1020_DataQuality_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an"
     publishedDateTime: 2020-10-22T13:00:00Z
@@ -101,20 +115,6 @@ related:
         width: 1600
         height: 747
         isCached: true
-  - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
-    excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
-    publishedDateTime: 2020-10-22T00:51:00Z
-    webUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
   - title: "Microsoft (MSFT) And Honeywell (HON) Partner On AI-Driven Autonomous Controls"
     excerpt: "Microsoft Corporation (NASDAQ: MSFT) and Honeywell International Inc. (NYSE: HON) have formed a new collaboration. These are the details."
     publishedDateTime: 2020-10-23T18:26:00Z
@@ -135,20 +135,29 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 49
-  - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
-    excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure."
-    publishedDateTime: 2020-10-26T04:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
+  - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ..."
+    excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,"
+    publishedDateTime: 2020-10-26T14:01:00Z
+    webUrl: "https://www.thedailytimes.com/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_10ca99a4-1e8d-5158-b85f-f01ecf8b6a08.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
+      name: thedailytimes.com
+      domain: thedailytimes.com
+    quality: 34
     images:
-      - url: "https://mma.prnewswire.com/media/798393/Boston_Consulting_Group_Logo.jpg?p=facebook"
-        width: 756
-        height: 396
+      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
+  - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
+    excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure. This SaaS-based, scalable offering"
+    publishedDateTime: 2020-10-26T04:11:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable/article_a85c3d82-fdb3-51fc-8c2d-ac3875a44bfa.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "h8PLY7dF9AUtx5nPq/tkkVfNJVAeL94X6IYxrfchwlqdV7hhts+qWilLIFNXMrpIQCGSR10mI0Zz8LbSEWxR7Tvk6xgOv6zFrLbsAMrsHADKJ/P5B7EkbuN5KAFKo6eC28hX8hblgkfpo10rm5o1jSYx60xUxnfq1ByCxMmLyY3y8OlyNgEzOSTAYFgAH55YG5Agsn+H8CZgGdXDdOA91kOe56vnxMdKlES0LZZPCTxDP2Td9qRiiYmZZqBhURyP5VzysU3UL6Nl75iXdfTReKdqxnaKft+vxv5pv6bG8y0r2QF4g0NQ0kZolBGjN/iPlOYy5U79Muw6weX8WLyn37RAkfIi0mHUQH1a2h2mwqa9kgK3F68zd1MuqQRhbvvTWyGztXIbolxstpQWKDyehSD2732cmuO2HtOuNfAIboJCO06XUut0tPmvdANJSqfewwQ/ITfzh0IXoWXfXDt9eQUGl7GlqkMDL/32tXtWQhfaVcSpP4HuHUnhJfFXQkYD1XrhUN0xatvzcLiDxSFaRg==;AMMdab7NDks9Sq6Bxgxa1Q=="
 ---
