@@ -1,28 +1,24 @@
 ---
 category: news
 title: "3 Stocks to Profit on Autonomous Cars"
-excerpt: "A look at companies moving the needle in the autonomous vehicle industry and three stocks to buy for self-driving cars."
-publishedDateTime: 2020-10-12T21:01:00Z
-originalUrl: "https://investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/"
-webUrl: "https://investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/"
-ampWebUrl: "https://investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/amp/"
+excerpt: "Chinese tech giant Baidu has been making some significant strides in artificial intelligence and self-driving cars. Last year, it announced that its fleet of 300 driverless cars in China’s ..."
+publishedDateTime: 2020-10-12T18:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-self-driving-cars-1029671149"
+webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-self-driving-cars-1029671149"
 type: article
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/autonomouscar1600c.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "LoODXcD2z0koHD2y0z0Cc2A2/ZVbHk6lX+347l981UBjs5Bwv+0bgBQgFeNYjH/EF1pFcPcQXo8VMdIIKhyLmp1S2kevVpIcI5AXEPJcR14NVVYL1hana/r7klcrYc4CMm0eW0lzDwxaDgd26r1kh55iMaCdOfQGujPVEuYQkSj/F8SoL4AslpZVhctte/YSvX63d11Py8XdEGXwOT7BskMiACUi5ZSWtYVLtD+BsJ2cH9aBnTQ7BR5gXmQ/9A9r+aF5YpfC/pP2BTQNNDmjijhEfAF7mTBgZ+yp5ToiXZPjZYFVfe/6UJbfWnzKlnoL9Efy51bFdiXW2XyRr04wiK6KedycofJxgYqYLQ18JEY=;c6De9BSqf6BNXjkZeyI34A=="
+secured: "q45XuPq4qIH7k8m+AtdnZKQEAzF7+1SFVqYF6s10B1CSlbf32H5MjnL9lkYmZ+VMo8fWe4lhYPF5UCrzHiguIf0pe3Hwh+rE1GUzWXl6JLTDCa3RhcfhosXO4rMV5B3vJCxh1hPSVIbFPcqZtI2shq2SfEgvDSJrXDN/vFl0Fk7NzZOuKSwvdakNnMe/jrFQ16S72Q5YXboKesQ1wyT6ETfiONBk7+k77cW/MIHK7++/Iezo130kGXsZpLVqo6rfrxrr0Zg+M42rNY15wJIvSKQRaK84F61fUNPaUrFxNGfUy/R0a2Rwp6zL8hOD26FlQIG7OfqqIjT6ohN3B25dtP84Og/0RyXIFyVVGMPFwjY=;T/+mGWjN072OHdZzCKK8nQ=="
 ---
 

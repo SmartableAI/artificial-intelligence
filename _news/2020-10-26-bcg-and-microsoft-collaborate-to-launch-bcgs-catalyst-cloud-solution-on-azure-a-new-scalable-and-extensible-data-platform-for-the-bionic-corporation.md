@@ -105,6 +105,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
+    excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
+    publishedDateTime: 2020-10-26T21:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
+    images:
+      - url: "https://mms.businesswire.com/media/20201026005033/en/832810/23/2018_Logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "UE1KSD6vBJK2366+XsAF+6/u98TopIXsIqE/k+umRT32Fg7DXcIL5kfAm69yQx3q8+M9gBtPuZFgnSu6NM4lLu6l/+4VznUrvzaYatledlQNiOJ89Yzzz1WMPz6jnt/XtyGG0WGhgDV+pbhfuF6A6ZSnnHXpuC8O8FR/CLMSMW201IhyZugiC0B6/gHJMPSvpMMs4lOc90k2Q43c6T00PuS5fMT4IDdOuZ7thnPkZOkUYlC1RoK93LTl+7bjp2DWeumMDfC4k7XllipIAVCkUBCklKMQN/TuFVHp0daes8ZLebarSbJriPHaZj5sGurg+vLCQERZtYFtEzNb4B2X3J26kFtrKf2i2slK13U0KDfOQSfFybNGa7LLFwPKP8AEtokmJbGUmavukbl/5KgMBDqmMn0ikkDRLDiN1YFxPOW2KFSAAee+uwkyc1RbqTCuodk8ogJQJOHqtmqpbycgHaeh2vrheoK54BqQzASuq3FqHtFDtvZz7qYXpsI0zQq3owzaO0h/7B2nyZ4JfX0oVA==;Rv90DoB2KdqQqEDdlQIW7g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3624854-applied-materials-and-be-sem
 webUrl: "https://seekingalpha.com/news/3624854-applied-materials-and-be-semiconductor-to-accelerate-chip-integration-technology"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Applied Materials and BE Semiconductor Industries to Accelerate Chip Integration Technology for ..."
-    excerpt: "Applied Materials, Inc. and BE Semiconductor Industries N.V. (Besi) today announced an agreement to develop the industry’s first complete and proven equipment solution for die-based hybrid bonding, an emerging chip-to-chip interconnect technology that enables heterogeneous chip and subsystem designs for applications including high-performance computing,"
-    publishedDateTime: 2020-10-22T05:00:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-industrial-technology-western-europe-environment-9349703482c9aad99306bf8edcc56263"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Applied Materials and BE Semiconductor Industries to Accelerate Chip Integration Technology for the Semiconductor Industry"
     excerpt: "SANTA CLARA, Calif. and DUIVEN, the Netherlands, Oct. 22, 2020 -- Applied Materials, Inc. and BE Semiconductor Industries N.V. today announced an"
     publishedDateTime: 2020-10-22T14:54:00Z

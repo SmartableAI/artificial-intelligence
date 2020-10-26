@@ -101,6 +101,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
+    excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
+    publishedDateTime: 2020-10-26T21:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
+    images:
+      - url: "https://mms.businesswire.com/media/20201026005033/en/832810/23/2018_Logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
     excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure. This SaaS-based, scalable offering"
     publishedDateTime: 2020-10-26T04:11:00Z
@@ -111,6 +125,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "ORUal2PUXdfpf7LXzM2Bc260qpnYdpC/yaOVd7Q4BBjKs0suAS8c7ZitTWjgNHkqWhzXCQSS49NNphAumxy9C8NWF3egY8zqhM2VTaboN6e+RVVGTc9jyrH5xJqgNPtg8wlEz2UWZLlFtcggV+8uMXnNnKhRWS0hzpI3eQo2akNWVB4vp1s0Zo+SwCvijUBnMwZT7S0N6sebjkEwYDVN9eYS2scY76fYsySetTGS9KzbsN6HY7VRJ7ZzjR3H3fY3oNlWGUsebZF/3a4tcTQM+PRudFpkls0w2C7FOKBWZDWfUX60gBukT3oq+o+UBO35YYpwJk8VyfED7Lt46nBLHTE+xJ9VS5v4gCoP+DoXuGHsse7vzC7PEgPsTw87nN1bVVZ85K9q0vaweE1nC6y5IyNZRy9nOZWqRT0yS6xKeq1K9XnK0oat0m3sn7on/2TJpsoTX3bthzFp2bGjabD9qYNDG9zxpWLt5R3k025ol69r7vHPqGjyeHj5wReFLBj2oArTmXyYEWCFCakQhHFGGA==;M5PCQ5XgaDb4OLl0g5ZMtw=="
+secured: "jSrI9Fmu75hKStsF6NpTfOGpKL0Kl92cmewCdDZ+cud8GYmsgms8e0Ov5yObmXG+tNihijw87d4bKv2p/AE06YdS2aeSuLUkqpF6rBnjCGFC2tsFQEZj975E9LNW+2DBDsxQHr/CZOxwK0ppR+v1e0ZrWcdiGqJdDSjaGSPafefJvDp6zvvgJiQYdeWeLObrBvqwjU2fA+pJKGYV+ZOOsbyqq42K0ona5MBE1XGWCJqvISnktcC+QI6eRrzY9ZolxUV8hWy7jo/nKD8UXTIl/sA+ea3auxmKZDQQb3cZs3QvBWRdjQe4zC9Eq1ZcQco6QtiSjeGuUUIvaXkS+ZPyRbPbZYVjchF4J89tT5lELz8+wqCHGQ9XbJAk7BlmS1BxDy4PFUVwsm7y/MK4S3ow0D/AwmJoxYbks7+pelbjb7YBqKXkYw6C4qY+D9TYDXDDQuExsdMT8rDsJ4N0ht10JLl8XeejfZvCWENxlkmzcQPOT9XaUfEqIExX9Z1AFH0X6i8+xAMbK3PURdTZwWKhTQ==;25UyFlgYkURkWIFrbK33CA=="
 ---
 

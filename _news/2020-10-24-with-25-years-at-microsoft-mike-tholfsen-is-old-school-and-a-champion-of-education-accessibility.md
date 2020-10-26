@@ -133,6 +133,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "Microsoft’s new Lobe app lets anyone train AI models"
+    excerpt: "Lobe that lets Windows and Mac users create customized artificial intelligence models without writing any code. Th"
+    publishedDateTime: 2020-10-26T21:24:00Z
+    webUrl: "https://siliconangle.com/2020/10/26/microsofts-new-lobe-app-lets-anyone-train-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/microsoft-2.png"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Microsoft’s Turing Language Model Can Now Interpret 94 Languages"
     excerpt: "Microsoft detailed the Turing multilingual language model (T-ULRv2) and announced that the AI model has achieved the top rank at the Google XTREME public leaderboard."
     publishedDateTime: 2020-10-26T08:34:00Z
@@ -162,6 +176,6 @@ related:
         height: 450
         isCached: true
 
-secured: "UWzJvGFbOfUjsPvANuyg4cFME73MnSvQbEIXzYPXNn/SPiP2YWQUf3Qh0nnK31RbzOSLRxjglumMrgzdJLc29CSHiQxf09vsTF/acqqvJhgWOl6A7bts+37eWjCudMja97eFus0px6htBJG0+mHkLIxoFwXXd5RVEx0ENa3gZJHOP1yXKM5o0rtWSAN6VUjlC5AveQMC07m5xmMi+wAJC70aR88NuYRFLtLwS8CsJVNbKIHhpDNrUk9nnp0O94IgY84mM+xeVA9GdCyug7SdTjfHc7D32Ltmvs+zHRytMzp5kxO0taDD4GeN/kgFX8BRpzWtbdnQaF8DOYGwoDyqx0CsE/N1t2wBay98lMDeriw=;uyDEiNKZSBRR+6yqXHou1Q=="
+secured: "Rs2M1xbuHdeStxyBycHQYcgA4cVSA4QQVQTtqYbugPYNoumVvvMqGYqqRrT0AepnNZXUBVBc/2ibLlcV6/tOaBf80Vkzyd5SkrVHBP7lVebHaSushsDY8BSTv7YWuRJ2IO2F9qpsB58LNghoPtSUuhAotNqDqKW3JuG/ejrOU3XA4cNreHylqGbZW7O3J90A5gdweE13mgu/2m6RGWkIqGDY8IT3811sO9NCcc7AxPGXUI5eGa9vUaT9ioHcySrll3JXpk7a7gzm5EyZi6RAJmYxKTTT6SKDTumpGAHWOf9Opz/ksv8N5U75XqF8xXlYOJgsIs1e3M4JeTJaOHPfWfeJSnreMu5RcNocoM1lafuoxl9/gy/0Bha5AkPc0Zwt97x+0SKzmAH1N/kYitExL5171FjceZlZ5cDOBj1TJiR9T+g17+Vl65axepSDW0eK8KBwYHiUGhkt3i8kEGosxL/UrAplJb1v6W4o4gRjSqAEw9dHfMA6F3lhpkkdnyhChdbnQESsAUGpr5fnS2OFfQ==;6Pf9J2799Sp9msXG1vgRtg=="
 ---
 

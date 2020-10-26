@@ -41,22 +41,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "GM, Cruise To Seek NHTSA Approval For Self-Driving Cars With No Wheels, Pedals"
-    excerpt: "General Motors Company (NYSE: GM) and subsidiary Cruise LLC are seeking regulatory approval for running a number of self-driving vehicles that have no steering wheels or"
-    publishedDateTime: 2020-10-22T04:17:00Z
-    webUrl: "https://www.benzinga.com/government/20/10/18007574/gm-cruise-to-seek-nhtsa-approval-for-self-driving-cars-with-no-wheels-pedals"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18007574"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18007574"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/cruise.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Iz7qt4j09u0pG5CGUrxM+TlOK6CLrGuUBEwpcsalM0LiMaOcPEOvQW8fybxbVGm68PrrJ5JWXQZokpktZTtkRX5OiOGa9sF3SIDajzAjRazpZgnKtZRPaseHGi2vS1dC5oGGQ35YAyMISPZEHk9YGlFdueHPicd83EpRGsD3B8iVcMYOccFPvuFpaPlB65nutpElvV6UPBNVtr9R1pKsGHFJ0/8R8Vsmqmt6Q01bJzPdIGchdvQZke+2mMXE4tdtmFPyp4VCZPlsH1uMQMVHHLboipfuX0ugTISjNbeKAadrRxhDoqyFHTH6KYptdft2yMyDRZNlo4bzqIz0rNlyPDoF7Fzlr+myybkF9Dl+Gg4=;zJ2d0HC5bBVaSOCDqpRLSA=="
 ---

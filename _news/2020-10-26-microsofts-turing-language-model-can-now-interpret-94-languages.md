@@ -143,6 +143,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "Microsoft’s new Lobe app lets anyone train AI models"
+    excerpt: "Lobe that lets Windows and Mac users create customized artificial intelligence models without writing any code. Th"
+    publishedDateTime: 2020-10-26T21:24:00Z
+    webUrl: "https://siliconangle.com/2020/10/26/microsofts-new-lobe-app-lets-anyone-train-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/microsoft-2.png"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
     excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge web browser. Like its Chrome and Firefox counterparts,"
     publishedDateTime: 2020-10-22T13:00:00Z

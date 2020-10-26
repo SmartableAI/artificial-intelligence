@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762SP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762SP"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM, Cruise To Seek NHTSA Approval For Self-Driving Cars With No Wheels, Pedals"
-    excerpt: "General Motors Company (NYSE: GM) and subsidiary Cruise LLC are seeking regulatory approval for running a number of self-driving vehicles that have no steering wheels or"
-    publishedDateTime: 2020-10-22T04:17:00Z
-    webUrl: "https://www.benzinga.com/government/20/10/18007574/gm-cruise-to-seek-nhtsa-approval-for-self-driving-cars-with-no-wheels-pedals"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18007574"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18007574"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/cruise.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Ford’s next-gen test Vehicle lays self-driving foundation"
     excerpt: "Beginning  to roll out this month, Ford and Argo AI‘s fourth-generation self-driving test vehicles are built on the Escape Hybrid platform and feature the latest advancements in sensing and computing technology."
     publishedDateTime: 2020-10-25T18:59:00Z

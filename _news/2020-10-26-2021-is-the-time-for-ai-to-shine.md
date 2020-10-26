@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Predictions 2021: The Time Is Now For AI To Shine"

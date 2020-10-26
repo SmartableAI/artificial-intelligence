@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-preview-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/"
 type: article
 quality: 106
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "Microsoft’s new Lobe app lets anyone train AI models"
+    excerpt: "Lobe that lets Windows and Mac users create customized artificial intelligence models without writing any code. Th"
+    publishedDateTime: 2020-10-26T21:24:00Z
+    webUrl: "https://siliconangle.com/2020/10/26/microsofts-new-lobe-app-lets-anyone-train-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/microsoft-2.png"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Microsoft’s Turing Language Model Can Now Interpret 94 Languages"
     excerpt: "Microsoft detailed the Turing multilingual language model (T-ULRv2) and announced that the AI model has achieved the top rank at the Google XTREME public leaderboard."
     publishedDateTime: 2020-10-26T08:34:00Z
@@ -162,6 +176,6 @@ related:
         height: 450
         isCached: true
 
-secured: "RwsVGBTwtQXtdU61Dg/YNi1uHKtEA9OTIRU0bzOTSeCsW2t+94dl6SXzVMZ6u5oGHjKojDXGAfuUCMy794IIK4+PfkxsL+VSNfJ/7cqkvMt+LycPnJJaUl3YPkfx2bHyiRKDUjTxcC3H/exP90AIiXnm0nyixtsg+yH1t13GSpNowaKMLIvdJ+uX6uhaOp/S6vMNVO+4WmjK0GjouBfKLnsWGqyXIttfuQ9p6BqaH+pxq6VSoa8aSjQ4+ZP173mZHAGlKVRkI29m2bw0MaQw5XQl2F2EML1AWGBBGFrsyNS9mOnGupvlIPx3bqlZcKt4yCLpSfesxSrJajseMhGmYFMKm7TVxBN0Nor4skc88fw=;56uvrVUIp7r2qjjfFY/lsg=="
+secured: "7+qI6PHdg3lne8afGZCIZV8T5jFsRf/f3jXDJg2iyHi+JJrMzarMEI118AZnXK0DaxUIHjh17d0BpF0j3z/V2eyNLAkv+zx6Bq9HSM3qz6NK0RjgLLGprWFobgnBCUc31FBKK1CVm8X/0mmz5uQ9zwulw5grrZyvMbCmt3G4yAWyr//dCC2K71ZnZt6ICazQtcDx6TIrlaly4JQ43rT5nuqgocF3qfpBN49c/tuQbCJw4XH/DjOAFZf2/qi7xUqJfxwCAvjrOjNCtbO31/5u5Fj5mVJNsB/2O2RPTQ4uUv7ReTJNXBr4vKXsZieyZPjPs9KzicgbU6AIPlYMzeWarf+aGj1IpvqPBKvZwdH3X+Ya5kWcI1KsXiVF96ScF7ObyBrS092nKv35h43qdwPttZm9IgNJNalvyZRJrLi0kWDcyUEB/Lo+cetH3/xMTaG4wPlK98DK+HhQu+yLnQ2oPvelCaVOe/y45LgIy9j+LL+teYyLoSn4yKnZBnOGLmdB0ZIVUkZZXsZvVqSJuIS/6A==;470Ur/fBGecCfBLGouKDmQ=="
 ---
 

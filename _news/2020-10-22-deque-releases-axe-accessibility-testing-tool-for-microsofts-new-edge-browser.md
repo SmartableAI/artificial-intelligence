@@ -142,6 +142,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "Microsoft’s new Lobe app lets anyone train AI models"
+    excerpt: "Lobe that lets Windows and Mac users create customized artificial intelligence models without writing any code. Th"
+    publishedDateTime: 2020-10-26T21:24:00Z
+    webUrl: "https://siliconangle.com/2020/10/26/microsofts-new-lobe-app-lets-anyone-train-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/microsoft-2.png"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Microsoft’s Turing Language Model Can Now Interpret 94 Languages"
     excerpt: "Microsoft detailed the Turing multilingual language model (T-ULRv2) and announced that the AI model has achieved the top rank at the Google XTREME public leaderboard."
     publishedDateTime: 2020-10-26T08:34:00Z
