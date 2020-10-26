@@ -4,7 +4,7 @@ otherNames:
   - "MedyMatch Technology"
 overview: "MaxQ AI is at the forefront Medical Diagnostic AI. Our mission is to meaningfully reduce misdiagnosis and healthcare costs by making artificial intelligence (AI) intrinsic to the diagnostic process for time sensitive and life-threatening conditions. We are transforming healthcare by empowering physicians to provide “smarter care” through intelligent imaging with AI actionable insights."
 type: "profile"
-heat: 64
+heat: 31
 
 website: https://maxq.ai/
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "maximumqai"
   url: "https://twitter.com/maximumqai"
-  followers: 462
+  followers: 461
 
 size: 11-50 employees
 yearFounded: 2013
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KlK9C4s1lvo"
 
-secured: "+qB1AZ27gaNrU2lJBWokGBDc97lI42OzyZnMLCpBmTsEeRloV8XAL9mfoFDUjOw29vkI+0ZdCLHmjVUrVVeEuMQ/aDYEr/EqX689eth0VoQ9Fv3T0MSzs+Ynp5PvXoIgfooDUTFSu5/ZhCnfLA89D+O1zsTQEFWRWYLWStH/EYhvyiOvUFUXAu2KRy2OTKT15ezUXSMVjD1PkVMma9AwIwc3fDQxRx5zQZnlKXRk6JIQoFTTFFBldtj9zR1lPQLVcd89JZlEikyzpxaFPEL/YMeRhrZwBBKstV+eEJHQfA0S+VT7MXLY/GcaV3D/69QYJd14Vdkrx6zmSagf6Th579RLxLwABaH8ldfBpV7mtJMGS7oOVgGPj4YFNx4AJIaQ1oxI3IaoUEZG1QrvYfCK7g==;o856FUDZi/y1MAiTBypwQg=="
+secured: "R7wEjWFaPco1FrB3Ci9t0NYaZJKPt7i8zQhtnQfttIsaFBttN1q3XM4bxzYfD2/auUvjFuydlU8b9Jv1gV2M6+rbitL5iiJDE1YQl+x3z02rNqDAEczj5hZEJCPnAJW5hJS0nxBG4HhMWJnyRdVP177dYaarna0zN5OkNh7Iw51tvDO3xWlDexniCrnfoabl5qEUc6xdBHyERxthV8b7idv+NGEuNBnGzzMAwtZZJf5MJmTOgLATyOETz2FtqxsvEqQdzTe3qvD0AeoazAqi3h1bOuoug2YWirlonzy0nqtNqC0t+JxZ6iO4+n7ddj6oIau+aonXXFP4YC8Zn17rlFuonWOmeSQdXNosS/FqkA8tPAu6c+mmUbn9MwCi0UoPdBhqmLd3+zJ3EGCoWNjW8g==;NNKBZdS/Vh0a4xm9fUgmHA=="
 ---
 
