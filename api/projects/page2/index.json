@@ -4,6 +4,127 @@
   "page": 2,
   "value": [
     {
+      "path": "_projects/bendangnuksung-image-outpainting.md",
+      "excerpt": "This is an implementation of Painting Outside the Box: Image Outpainting paper from Standford University. Some changes have been made to work with 256*256 image.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/bendangnuksung-image-outpainting/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/bendangnuksung-image-outpainting/",
+      "github": {
+        "url": "https://github.com/bendangnuksung/Image-OutPainting",
+        "watches": 40,
+        "stars": 1001,
+        "forks": 195,
+        "languages": [
+          "Jupyter Notebook",
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "Bendang"
+      },
+      "heat": 548,
+      "images": [
+        {
+          "url": "https://camo.githubusercontent.com/0750f536818e4af3ed8dffa828ce37936f7a955f/68747470733a2f2f692e696d6775722e636f6d2f5a48746f6544462e6a7067",
+          "width": 1201,
+          "height": 1253,
+          "title": "Keras implementation of Image OutPainting",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "name": "Keras implementation of Image OutPainting",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "Keras"
+      ]
+    },
+    {
+      "path": "_projects/apache-opennlp.md",
+      "excerpt": "The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-opennlp/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/apache-opennlp/",
+      "originalUrl": "https://opennlp.apache.org/",
+      "github": {
+        "url": "https://github.com/apache/opennlp",
+        "watches": 93,
+        "stars": 914,
+        "forks": 357,
+        "languages": [
+          "Java"
+        ]
+      },
+      "provider": {
+        "name": "Apache",
+        "domain": "apache.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/apache.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 541,
+      "images": [
+        {
+          "url": "https://opennlp.apache.org/img/opennlp-logo.png",
+          "width": 650,
+          "height": 250,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "Apache OpenNLP",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_projects/petoicamp-opencat.md",
+      "excerpt": "A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/petoicamp-opencat/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/petoicamp-opencat/",
+      "originalUrl": "https://www.petoi.com/",
+      "github": {
+        "url": "https://github.com/PetoiCamp/OpenCat",
+        "watches": 190,
+        "stars": 840,
+        "forks": 211,
+        "languages": [
+          "C++",
+          "Objective-C"
+        ]
+      },
+      "provider": {
+        "name": "Petoi",
+        "domain": "petoi.com"
+      },
+      "heat": 535,
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/a47763_9baefab88ba145cabefdb72b3b121610~mv2.png/v1/fill/w_1800,h_943,al_c/a47763_9baefab88ba145cabefdb72b3b121610~mv2.png",
+          "width": 1800,
+          "height": 943,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "OpenCat",
+      "type": "code",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_projects/nvidia-redtail.md",
       "excerpt": "Perception and AI components for autonomous mobile robotics.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/nvidia-redtail/index.json",

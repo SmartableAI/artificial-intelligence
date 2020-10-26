@@ -2,7 +2,8 @@
 name: "Theano"
 excerpt: "Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation."
 originalUrl: http://www.deeplearning.net/software/theano/
-heat: 757
+type: code
+heat: 709
 
 github:
   url: "https://github.com/Theano/Theano"

@@ -31,7 +31,7 @@
           }
         ]
       },
-      "heat": 902,
+      "heat": 901,
       "images": [
         {
           "url": "https://www.tensorflow.org/images/tf_logo_social.png",
@@ -69,7 +69,7 @@
         "name": "Keras",
         "domain": "keras.io"
       },
-      "heat": 821,
+      "heat": 820,
       "content": "\r\n",
       "name": "Keras: Deep Learning for humans",
       "type": "code",
@@ -222,7 +222,7 @@
           }
         ]
       },
-      "heat": 781,
+      "heat": 780,
       "tags": [
         "Big Data"
       ],
@@ -270,7 +270,7 @@
           }
         ]
       },
-      "heat": 757,
+      "heat": 758,
       "tags": [
         "Deep Learning"
       ],
@@ -416,6 +416,43 @@
       ]
     },
     {
+      "path": "_projects/eclipse-dl4j.md",
+      "excerpt": "The Eclipse Deeplearning4J (DL4J) ecosystem is a set of projects intended to support all the needs of a JVM based deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/eclipse-dl4j/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/eclipse-dl4j/",
+      "originalUrl": "https://deeplearning4j.org/",
+      "github": {
+        "url": "https://github.com/eclipse/deeplearning4j",
+        "watches": 825,
+        "stars": 11800,
+        "forks": 4900,
+        "languages": [
+          "Java",
+          "C++"
+        ]
+      },
+      "provider": {
+        "name": "Eclipse",
+        "domain": "eclipse.com"
+      },
+      "heat": 726,
+      "images": [
+        {
+          "url": "https://deeplearning4j.org/images/element-coffecup.png",
+          "width": 813,
+          "height": 514,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "DL4J",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_projects/nvidia-fastphotostyle.md",
       "excerpt": "Style transfer, deep learning, feature transform",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/nvidia-fastphotostyle/index.json",
@@ -460,6 +497,34 @@
         "Machine Learning",
         "Deep Learning",
         "PyTorch"
+      ]
+    },
+    {
+      "path": "_projects/theano.md",
+      "excerpt": "Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/theano/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/theano/",
+      "originalUrl": "http://www.deeplearning.net/software/theano/",
+      "github": {
+        "url": "https://github.com/Theano/Theano",
+        "watches": 571,
+        "stars": 9300,
+        "forks": 2500,
+        "languages": [
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "Theano",
+        "domain": "github.com"
+      },
+      "heat": 709,
+      "content": "\r\n",
+      "name": "Theano",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -623,6 +688,43 @@
       ],
       "content": "\r\n",
       "name": "Polynote",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_projects/apache-mahout.md",
+      "excerpt": "Apache Mahout is a distributed linear algebra framework and mathematically expressive Scala DSL designed to let mathematicians, statisticians, and data scientists quickly implement their own algorithms. Apache Spark is the recommended out-of-the-box distributed back-end, or can be extended to other distributed backends.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-mahout/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/apache-mahout/",
+      "originalUrl": "https://mahout.apache.org/",
+      "github": {
+        "url": "https://github.com/apache/mahout",
+        "watches": 243,
+        "stars": 1900,
+        "forks": 955,
+        "languages": [
+          "Java",
+          "Scala"
+        ]
+      },
+      "provider": {
+        "name": "Apache",
+        "domain": "apache.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/apache.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 594,
+      "content": "\r\n",
+      "name": "Apache Mahout",
       "type": "code",
       "topics": [
         "AI",

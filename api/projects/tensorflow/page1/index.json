@@ -31,7 +31,7 @@
           }
         ]
       },
-      "heat": 902,
+      "heat": 901,
       "images": [
         {
           "url": "https://www.tensorflow.org/images/tf_logo_social.png",
@@ -69,7 +69,7 @@
         "name": "Keras",
         "domain": "keras.io"
       },
-      "heat": 821,
+      "heat": 820,
       "content": "\r\n",
       "name": "Keras: Deep Learning for humans",
       "type": "code",

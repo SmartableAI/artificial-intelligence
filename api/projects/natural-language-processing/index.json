@@ -4,6 +4,42 @@
   "page": 1,
   "value": [
     {
+      "path": "_projects/rare-technologies-gensim.md",
+      "excerpt": "Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/rare-technologies-gensim/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/rare-technologies-gensim/",
+      "originalUrl": "https://radimrehurek.com/gensim/",
+      "github": {
+        "url": "https://github.com/RaRe-Technologies/gensim",
+        "watches": 1100,
+        "stars": 18600,
+        "forks": 5200,
+        "languages": [
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "RARE Technologies",
+        "domain": "rare-technologies.com"
+      },
+      "heat": 760,
+      "images": [
+        {
+          "url": "https://radimrehurek.com/gensim/_static/images/gensim_code.png",
+          "width": 568,
+          "height": 271,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "gensim – Topic Modelling in Python",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_projects/hankcs-hanlp.md",
       "excerpt": "Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/hankcs-hanlp/index.json",
@@ -33,42 +69,6 @@
       ],
       "content": "\r\n",
       "name": "HanLP",
-      "type": "code",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_projects/rare-technologies-gensim.md",
-      "excerpt": "Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/rare-technologies-gensim/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/rare-technologies-gensim/",
-      "originalUrl": "https://radimrehurek.com/gensim/",
-      "github": {
-        "url": "https://github.com/RaRe-Technologies/gensim",
-        "watches": 1100,
-        "stars": 18600,
-        "forks": 5200,
-        "languages": [
-          "Python"
-        ]
-      },
-      "provider": {
-        "name": "RARE Technologies",
-        "domain": "rare-technologies.com"
-      },
-      "heat": 759,
-      "images": [
-        {
-          "url": "https://radimrehurek.com/gensim/_static/images/gensim_code.png",
-          "width": 568,
-          "height": 271,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "name": "gensim – Topic Modelling in Python",
       "type": "code",
       "topics": [
         "AI",

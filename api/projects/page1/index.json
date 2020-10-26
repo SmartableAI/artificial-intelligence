@@ -31,7 +31,7 @@
           }
         ]
       },
-      "heat": 902,
+      "heat": 901,
       "images": [
         {
           "url": "https://www.tensorflow.org/images/tf_logo_social.png",
@@ -69,7 +69,7 @@
         "name": "Keras",
         "domain": "keras.io"
       },
-      "heat": 821,
+      "heat": 820,
       "content": "\r\n",
       "name": "Keras: Deep Learning for humans",
       "type": "code",
@@ -222,7 +222,7 @@
           }
         ]
       },
-      "heat": 781,
+      "heat": 780,
       "tags": [
         "Big Data"
       ],
@@ -240,6 +240,42 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_projects/rare-technologies-gensim.md",
+      "excerpt": "Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/rare-technologies-gensim/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/rare-technologies-gensim/",
+      "originalUrl": "https://radimrehurek.com/gensim/",
+      "github": {
+        "url": "https://github.com/RaRe-Technologies/gensim",
+        "watches": 1100,
+        "stars": 18600,
+        "forks": 5200,
+        "languages": [
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "RARE Technologies",
+        "domain": "rare-technologies.com"
+      },
+      "heat": 760,
+      "images": [
+        {
+          "url": "https://radimrehurek.com/gensim/_static/images/gensim_code.png",
+          "width": 568,
+          "height": 271,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "gensim – Topic Modelling in Python",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -279,42 +315,6 @@
       ]
     },
     {
-      "path": "_projects/rare-technologies-gensim.md",
-      "excerpt": "Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/rare-technologies-gensim/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/rare-technologies-gensim/",
-      "originalUrl": "https://radimrehurek.com/gensim/",
-      "github": {
-        "url": "https://github.com/RaRe-Technologies/gensim",
-        "watches": 1100,
-        "stars": 18600,
-        "forks": 5200,
-        "languages": [
-          "Python"
-        ]
-      },
-      "provider": {
-        "name": "RARE Technologies",
-        "domain": "rare-technologies.com"
-      },
-      "heat": 759,
-      "images": [
-        {
-          "url": "https://radimrehurek.com/gensim/_static/images/gensim_code.png",
-          "width": 568,
-          "height": 271,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "name": "gensim – Topic Modelling in Python",
-      "type": "code",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_projects/apache-mxnet.md",
       "excerpt": "Apache MXNet (incubating) is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-mxnet/index.json",
@@ -342,7 +342,7 @@
           }
         ]
       },
-      "heat": 757,
+      "heat": 758,
       "tags": [
         "Deep Learning"
       ],
@@ -572,6 +572,43 @@
       ]
     },
     {
+      "path": "_projects/eclipse-dl4j.md",
+      "excerpt": "The Eclipse Deeplearning4J (DL4J) ecosystem is a set of projects intended to support all the needs of a JVM based deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/eclipse-dl4j/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/eclipse-dl4j/",
+      "originalUrl": "https://deeplearning4j.org/",
+      "github": {
+        "url": "https://github.com/eclipse/deeplearning4j",
+        "watches": 825,
+        "stars": 11800,
+        "forks": 4900,
+        "languages": [
+          "Java",
+          "C++"
+        ]
+      },
+      "provider": {
+        "name": "Eclipse",
+        "domain": "eclipse.com"
+      },
+      "heat": 726,
+      "images": [
+        {
+          "url": "https://deeplearning4j.org/images/element-coffecup.png",
+          "width": 813,
+          "height": 514,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "DL4J",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_projects/nvidia-fastphotostyle.md",
       "excerpt": "Style transfer, deep learning, feature transform",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/nvidia-fastphotostyle/index.json",
@@ -616,6 +653,34 @@
         "Machine Learning",
         "Deep Learning",
         "PyTorch"
+      ]
+    },
+    {
+      "path": "_projects/theano.md",
+      "excerpt": "Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/theano/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/theano/",
+      "originalUrl": "http://www.deeplearning.net/software/theano/",
+      "github": {
+        "url": "https://github.com/Theano/Theano",
+        "watches": 571,
+        "stars": 9300,
+        "forks": 2500,
+        "languages": [
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "Theano",
+        "domain": "github.com"
+      },
+      "heat": 709,
+      "content": "\r\n",
+      "name": "Theano",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -945,6 +1010,43 @@
       ]
     },
     {
+      "path": "_projects/apache-mahout.md",
+      "excerpt": "Apache Mahout is a distributed linear algebra framework and mathematically expressive Scala DSL designed to let mathematicians, statisticians, and data scientists quickly implement their own algorithms. Apache Spark is the recommended out-of-the-box distributed back-end, or can be extended to other distributed backends.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-mahout/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/apache-mahout/",
+      "originalUrl": "https://mahout.apache.org/",
+      "github": {
+        "url": "https://github.com/apache/mahout",
+        "watches": 243,
+        "stars": 1900,
+        "forks": 955,
+        "languages": [
+          "Java",
+          "Scala"
+        ]
+      },
+      "provider": {
+        "name": "Apache",
+        "domain": "apache.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/apache.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 594,
+      "content": "\r\n",
+      "name": "Apache Mahout",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_projects/csailvision-gandissect.md",
       "excerpt": "Pytorch-based tools for visualizing and understanding the neurons of a GAN.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/csailvision-gandissect/index.json",
@@ -1098,127 +1200,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_projects/bendangnuksung-image-outpainting.md",
-      "excerpt": "This is an implementation of Painting Outside the Box: Image Outpainting paper from Standford University. Some changes have been made to work with 256*256 image.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/bendangnuksung-image-outpainting/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/bendangnuksung-image-outpainting/",
-      "github": {
-        "url": "https://github.com/bendangnuksung/Image-OutPainting",
-        "watches": 40,
-        "stars": 1001,
-        "forks": 195,
-        "languages": [
-          "Jupyter Notebook",
-          "Python"
-        ]
-      },
-      "provider": {
-        "name": "Bendang"
-      },
-      "heat": 548,
-      "images": [
-        {
-          "url": "https://camo.githubusercontent.com/0750f536818e4af3ed8dffa828ce37936f7a955f/68747470733a2f2f692e696d6775722e636f6d2f5a48746f6544462e6a7067",
-          "width": 1201,
-          "height": 1253,
-          "title": "Keras implementation of Image OutPainting",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "name": "Keras implementation of Image OutPainting",
-      "type": "code",
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning",
-        "Deep Learning",
-        "TensorFlow",
-        "Keras"
-      ]
-    },
-    {
-      "path": "_projects/apache-opennlp.md",
-      "excerpt": "The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-opennlp/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/apache-opennlp/",
-      "originalUrl": "https://opennlp.apache.org/",
-      "github": {
-        "url": "https://github.com/apache/opennlp",
-        "watches": 93,
-        "stars": 914,
-        "forks": 357,
-        "languages": [
-          "Java"
-        ]
-      },
-      "provider": {
-        "name": "Apache",
-        "domain": "apache.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/apache.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "heat": 541,
-      "images": [
-        {
-          "url": "https://opennlp.apache.org/img/opennlp-logo.png",
-          "width": 650,
-          "height": 250,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "name": "Apache OpenNLP",
-      "type": "code",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_projects/petoicamp-opencat.md",
-      "excerpt": "A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/petoicamp-opencat/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/petoicamp-opencat/",
-      "originalUrl": "https://www.petoi.com/",
-      "github": {
-        "url": "https://github.com/PetoiCamp/OpenCat",
-        "watches": 190,
-        "stars": 840,
-        "forks": 211,
-        "languages": [
-          "C++",
-          "Objective-C"
-        ]
-      },
-      "provider": {
-        "name": "Petoi",
-        "domain": "petoi.com"
-      },
-      "heat": 535,
-      "images": [
-        {
-          "url": "https://static.wixstatic.com/media/a47763_9baefab88ba145cabefdb72b3b121610~mv2.png/v1/fill/w_1800,h_943,al_c/a47763_9baefab88ba145cabefdb72b3b121610~mv2.png",
-          "width": 1800,
-          "height": 943,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "name": "OpenCat",
-      "type": "code",
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

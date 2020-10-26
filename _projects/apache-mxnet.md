@@ -3,7 +3,7 @@ name: "Apache MXNet"
 excerpt: "Apache MXNet (incubating) is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines."
 originalUrl: https://mxnet.apache.org/
 type: code
-heat: 757
+heat: 758
 
 github:
   url: "https://github.com/apache/incubator-mxnet"
