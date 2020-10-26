@@ -953,7 +953,7 @@
         "name": "Airbnb",
         "domain": "airbnb.io"
       },
-      "heat": 659,
+      "heat": 660,
       "images": [
         {
           "url": "https://airbnb.io/aerosolve/kdtree.jpg",
@@ -1129,6 +1129,51 @@
       ]
     },
     {
+      "path": "_projects/apache-singa.md",
+      "excerpt": "Apache SINGA is an Apache Top Level Project, focusing on distributed training of deep learning and machine learning models",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-singa/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/apache-singa/",
+      "originalUrl": "https://singa.apache.org/",
+      "github": {
+        "url": "https://github.com/apache/singa",
+        "watches": 123,
+        "stars": 2100,
+        "forks": 585,
+        "languages": [
+          "C++",
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "Apache",
+        "domain": "apache.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/apache.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 601,
+      "images": [
+        {
+          "url": "https://singa.apache.org/img/singa_twitter_banner.jpeg",
+          "width": 1346,
+          "height": 487,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "Apache SINGA",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_projects/apache-mahout.md",
       "excerpt": "Apache Mahout is a distributed linear algebra framework and mathematically expressive Scala DSL designed to let mathematicians, statisticians, and data scientists quickly implement their own algorithms. Apache Spark is the recommended out-of-the-box distributed back-end, or can be extended to other distributed backends.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-mahout/index.json",
@@ -1163,53 +1208,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_projects/csailvision-gandissect.md",
-      "excerpt": "Pytorch-based tools for visualizing and understanding the neurons of a GAN.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/csailvision-gandissect/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/csailvision-gandissect/",
-      "github": {
-        "url": "https://github.com/CSAILVision/gandissect",
-        "watches": 70,
-        "stars": 1396,
-        "forks": 205,
-        "languages": [
-          "Python"
-        ]
-      },
-      "provider": {
-        "name": "MIT",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "heat": 572,
-      "images": [
-        {
-          "url": "https://github.com/CSAILVision/gandissect/raw/master/https://raw.githubusercontent.com/CSAILVision/gandissect/master/doc/ganpaint.gif",
-          "width": 320,
-          "height": 257,
-          "title": "GANDissect",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "name": "GANDissect",
-      "type": "code",
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning",
-        "Deep Learning",
-        "PyTorch"
       ]
     }
   ],

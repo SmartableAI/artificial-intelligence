@@ -4,6 +4,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_projects/csailvision-gandissect.md",
+      "excerpt": "Pytorch-based tools for visualizing and understanding the neurons of a GAN.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/csailvision-gandissect/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/csailvision-gandissect/",
+      "github": {
+        "url": "https://github.com/CSAILVision/gandissect",
+        "watches": 70,
+        "stars": 1396,
+        "forks": 205,
+        "languages": [
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "MIT",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 572,
+      "images": [
+        {
+          "url": "https://github.com/CSAILVision/gandissect/raw/master/https://raw.githubusercontent.com/CSAILVision/gandissect/master/doc/ganpaint.gif",
+          "width": 320,
+          "height": 257,
+          "title": "GANDissect",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "name": "GANDissect",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning",
+        "Deep Learning",
+        "PyTorch"
+      ]
+    },
+    {
       "path": "_projects/nvidia-jetbot.md",
       "excerpt": "The open-source JetBot AI robot platform gives makers, students, and enthusiasts everything they need to build creative, fun, smart AI applications. It’s powered by the small but mighty NVIDIA Jetson Nano AI computer, which supports multiple sensors and neural networks in parallel for object recognition, collision avoidance, and more. All in a variety of cool configurations that let you build something that’s uniquely you.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/nvidia-jetbot/index.json",

@@ -674,7 +674,7 @@
         "name": "Airbnb",
         "domain": "airbnb.io"
       },
-      "heat": 659,
+      "heat": 660,
       "images": [
         {
           "url": "https://airbnb.io/aerosolve/kdtree.jpg",
@@ -807,6 +807,51 @@
       ],
       "content": "\r\n",
       "name": "Polynote",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_projects/apache-singa.md",
+      "excerpt": "Apache SINGA is an Apache Top Level Project, focusing on distributed training of deep learning and machine learning models",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-singa/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/apache-singa/",
+      "originalUrl": "https://singa.apache.org/",
+      "github": {
+        "url": "https://github.com/apache/singa",
+        "watches": 123,
+        "stars": 2100,
+        "forks": 585,
+        "languages": [
+          "C++",
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "Apache",
+        "domain": "apache.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/apache.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 601,
+      "images": [
+        {
+          "url": "https://singa.apache.org/img/singa_twitter_banner.jpeg",
+          "width": 1346,
+          "height": 487,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "Apache SINGA",
       "type": "code",
       "topics": [
         "AI",
