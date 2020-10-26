@@ -1,19 +1,19 @@
 ---
 name: "DL4J"
-excerpt: "Deep Learning for Java"
-originalUrl: http://www.deeplearning.net/software/theano/
+excerpt: "The Eclipse Deeplearning4J (DL4J) ecosystem is a set of projects intended to support all the needs of a JVM based deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks."
+originalUrl: https://deeplearning4j.org/
 heat: 757
 
 github:
-  url: "https://github.com/Theano/Theano"
-  watches: 571
-  stars: 9300
-  forks: 2500
-  languages: ["Python"]
+  url: "https://github.com/eclipse/deeplearning4j"
+  watches: 825
+  stars: 11800
+  forks: 4900
+  languages: ["Java", "C++"]
 
 provider:
-  name: Theano
-  domain: github.com
+  name: Eclipse
+  domain: eclipse.com
 
 topics:
   - AI
