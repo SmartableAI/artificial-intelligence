@@ -3,11 +3,11 @@ category: news
 title: "AI and machine learning: Powering the next-gen enterprise"
 excerpt: "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents."
 publishedDateTime: 2020-10-23T13:57:00Z
-originalUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268"
-webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268"
+originalUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/"
+webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/"
 type: article
 quality: 84
-heat: 84
+heat: 95
 published: true
 
 provider:
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://assets.bbhub.io/professional/sites/10/347789615.jpg"
@@ -28,6 +28,24 @@ images:
     height: 1067
     isCached: true
 
-secured: "HBS8+X3IXR7vhWv+QQkNlGgIZNdgXTHtsoOIFsEDgzAZ9vnBshIzQZ/Hldy5ufeLVcKJt6duP3W+YaRuXA/Aa/1302glJBKrtEOCg2ZPTbEIYc78sxUCl0psgnsmWxgUi1xCP869rZeGKDjY7ofjZGUgXSDyFpe5p183bjyVTUqeCNhALNWec2XxYPflUiTO8Sw8GP9888IfkhdUx1yQe3oBiNqVHjpMwahWiELPMMDSF/hg981chY6ULWPBqythZdsSI3S3oJBc6Vi6NUL9Wg5o+IBBhljKCplq3m1OGi1MO6L6qgiYkLgnJYfMU800bb2bIYDPDxYB3SO2uktNmX3AXf+sUUaxFkLV3dUsL6U=;VChB5vEHc0irDJA44LQFFA=="
+related:
+  - title: "How artificial intelligence and machine learning power content-first newsrooms"
+    excerpt: "By Chris Nguyen, executive vice president, marketing at Naviga Digital is no longer just a nice addition to a newspaper’s success, but an imperative. While print remains a key source of revenue — capturing both subscriptions and advertising — spending too much time on designing and managing printed editions has become an obstacle to digital transformation."
+    publishedDateTime: 2020-10-26T00:07:00Z
+    webUrl: "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/"
+    ampWebUrl: "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/"
+    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/"
+    type: article
+    provider:
+      name: Digiday
+      domain: digiday.com
+    quality: 70
+    images:
+      - url: "https://i1.wp.com/digiday.com/wp-content/uploads/2020/10/Digiday_Naviga_Banner_1440X600-1.jpg?fit=682%2C284&ssl=1"
+        width: 681
+        height: 284
+        isCached: true
+
+secured: "uBhzxiNvbqoKtIXTIftaohJctaRWWGYiOWZ9MWk+sGyUCCO++dBhj5skWQq37etIWoTRsZKkBp+zCb8HloGK7RpDVgzmaHZdtaqjAccGxLxxbBULOj8xqVHAOuZtKKIUW0MoDKIvF2XKiJU8YqBkmIwaQMAt9OJsHYv+WsTZxkORZb6Ex/IgUlTpvJnz7zEIyfxWWMS34826D2Jmmm/GFbRIk7HSfExsEaDqHRFoOMxegTfBshhY7ATmuyQRuKvQyACRheL9I1Suqny2vxPQnjM9CeoNcede7qDm87GSi3Qw5NBrCb4/6SntADbYKu5lKzijkcmGPIYZaSgH9ij3lnSB4FbPbLiG/sJ8rGbN4eg=;E1uZb1pNoYr8FcE4Lkjo6w=="
 ---
 

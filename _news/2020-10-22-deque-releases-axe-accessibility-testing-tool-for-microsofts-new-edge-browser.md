@@ -19,63 +19,50 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft and MITRE release framework to help fend off adversarial AI attacks"
-    excerpt: "Microsoft, MITRE, and 11 other organizations developed a framework to help fend off adversarial machine learning attacks."
-    publishedDateTime: 2020-10-22T17:23:00Z
-    webUrl: "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/"
-    ampWebUrl: "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/"
+  - title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
+    excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure - in spaaace."
+    publishedDateTime: 2020-10-21T09:09:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 103
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 65
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
+  - title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
+    excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
+    publishedDateTime: 2020-10-21T11:34:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
         width: 1200
-        height: 573
+        height: 630
         isCached: true
-  - title: "Wayve chooses Microsoft Azure to scale AI-based autonomous driving technology"
-    excerpt: "Wayve, the London-based company that’s developing artificial intelligence software for self-driving cars, has signed a deal with Microsoft to use Azure. The UK business, which is at the cutting-edge of autonomous development and is seeing strong growth ..."
-    publishedDateTime: 2020-10-22T09:49:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2020/10/22/wayve-chooses-microsoft-azure-to-scale-ai-based-autonomous-driving-technology/"
+  - title: "Microsoft's Azure Space Program Gets 'Modular' Datacenters"
+    excerpt: "Azure Space products extend across cloud, edge, machine learning, augmented intelligence, automation, networking, visualization and digital solutions, he added. Essentially, Microsoft intends to ..."
+    publishedDateTime: 2020-10-22T01:02:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/21/microsoft-azure-space-modular-datacenters.aspx"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 66
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 54
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Wayve-Computer-Vision-1600x747.jpg"
-        width: 1600
-        height: 747
+      - url: "https://rcpmag.com/-/media/ECG/rcpmag/Images/2020/10/1021rcp_azurespace.jpg"
+        width: 647
+        height: 450
         isCached: true
-  - title: "New Framework Released to Protect Machine Learning Systems From Adversarial Attacks"
-    excerpt: "Microsoft and MITRE Release 'Adversarial ML Threat Matrix' Framework to Protect Machine Learning Systems from Adversarial Attacks."
-    publishedDateTime: 2020-10-23T10:53:00Z
-    webUrl: "https://thehackernews.com/2020/10/adversarial-ml-threat-matrix.html"
-    ampWebUrl: "https://thehackernews.com/2020/10/adversarial-ml-threat-matrix.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/10/adversarial-ml-threat-matrix.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 53
-    images:
-      - url: "https://thehackernews.com/images/--vFnUfch2Dk/X5K1DuqUDEI/AAAAAAAAA6U/-MDtXB0eJYA3pUW42QaPKW5nfO1k8411QCLcBGAsYHQ/s728-e1000/machine-learning.jpg"
-        width: 728
-        height: 380
-        isCached: true
-  - title: "Global Mobile Artificial Intelligence (AI) Market 2020 Business Strategies – IBM Corporation, Microsoft Corporation"
-    excerpt: "The Zion Market Research added a new report Mobile Artificial Intelligence AI Market by Technology Node 5nm 10nm 11nm 20nm and Above 20nm by Application Cameras Smartphones Vehicles Robots AR VR Devices and Others and by End Use Industry Consumer"
-    publishedDateTime: 2020-10-23T06:00:00Z
-    webUrl: "https://www.openpr.com/news/2169213/global-mobile-artificial-intelligence-ai-market-2020"
-    ampWebUrl: "https://www.openpr.com/amp/2169213/global-mobile-artificial-intelligence-ai-market-2020"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2169213/global-mobile-artificial-intelligence-ai-market-2020"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
 
 secured: "UKSoOhaFxfvcZIFeHwxel/86A18E0rJGvRmjo12OCSxtppSsvCNPwObHWX2T+2J89K704xm7k4+N9IQKBQ9eiQ6pJI+8eyscHccSZ4C65gkK1fU5K2DLWXnMilTHvSs6I/iDTxVGvzgCoXls1rXlALhNn0MtB2ttGqUW5+M6LDgZa9s9KeMRMdjrezdULNQtG2SYcMXVPNjNbm6rlHAaCwYo4/Kw16mlQg/sigXas5VeYpj74BHuoupJ9n/Wb3BWsQIkWowD4xgK1dkIVFzoGwAEJDNwFzUaS9urfgn6ykv5WYcejFRpiXccXQbei4oo1T8h7FrZUQg/1waizJLGEXuHgwr4rAd899DDcz9Mk7A=;9a29tfFLPWEGQeu7sRb9jQ=="
 ---

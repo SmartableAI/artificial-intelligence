@@ -20,22 +20,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Microsoft launches Azure Space initiative; partners with SpaceX"
-    excerpt: "Azure Orbital Emulator is an emulation environment that conducts massive satellite constellation simulations with software and hardware. It's for satellite developers who need to evaluate and train AI algorithms involving satellite networking before ..."
-    publishedDateTime: 2020-10-21T07:57:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg"
-        width: 798
-        height: 482
-        isCached: true
   - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
     excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
     publishedDateTime: 2020-10-22T19:16:00Z
@@ -51,6 +35,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Microsoft and MITRE release framework to help fend off adversarial AI attacks"
+    excerpt: "Microsoft, MITRE, and 11 other organizations developed a framework to help fend off adversarial machine learning attacks."
+    publishedDateTime: 2020-10-22T17:23:00Z
+    webUrl: "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/"
+    ampWebUrl: "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
+        width: 1200
+        height: 573
         isCached: true
   - title: "Microsoft Azure Modular Data Center looks to provide a connection anywhere in the world"
     excerpt: "Microsoft has launched a portable, modular data center that should enable individuals to access cloud computing services from almost anywhere in the world. The Azure Modular Datacenter (MDC) can augment a user’s technical capabilities,"
@@ -109,35 +109,19 @@ related:
         width: 2695
         height: 1414
         isCached: true
-  - title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
-    excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure - in spaaace."
-    publishedDateTime: 2020-10-21T09:09:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
+  - title: "Wayve chooses Microsoft Azure to scale AI-based autonomous driving technology"
+    excerpt: "Wayve, the London-based company that’s developing artificial intelligence software for self-driving cars, has signed a deal with Microsoft to use Azure. The UK business, which is at the cutting-edge of autonomous development and is seeing strong growth ..."
+    publishedDateTime: 2020-10-22T09:49:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2020/10/22/wayve-chooses-microsoft-azure-to-scale-ai-based-autonomous-driving-technology/"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 65
+      name: Microsoft
+      domain: microsoft.com
+    quality: 66
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
-  - title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
-    excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
-    publishedDateTime: 2020-10-21T11:34:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Wayve-Computer-Vision-1600x747.jpg"
+        width: 1600
+        height: 747
         isCached: true
   - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
     excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
@@ -153,45 +137,17 @@ related:
         width: 1665
         height: 1158
         isCached: true
-  - title: "Microsoft's Azure Space Program Gets 'Modular' Datacenters"
-    excerpt: "Azure Space products extend across cloud, edge, machine learning, augmented intelligence, automation, networking, visualization and digital solutions, he added. Essentially, Microsoft intends to ..."
-    publishedDateTime: 2020-10-22T01:02:00Z
-    webUrl: "https://rcpmag.com/articles/2020/10/21/microsoft-azure-space-modular-datacenters.aspx"
+  - title: "Microsoft (MSFT) And Honeywell (HON) Partner On AI-Driven Autonomous Controls"
+    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and Honeywell International Inc. (NYSE: HON) have formed a new collaboration. These are the details."
+    publishedDateTime: 2020-10-23T18:26:00Z
+    webUrl: "https://pulse2.com/microsoft-msft-and-honeywell-hon-partner/"
+    ampWebUrl: "https://pulse2.com/microsoft-msft-and-honeywell-hon-partner/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-msft-and-honeywell-hon-partner/amp/"
     type: article
     provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 54
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/rcpmag/Images/2020/10/1021rcp_azurespace.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Microsoft partners Netflix to help you learn data science, AI"
-    excerpt: "Inspired by the new Netflix original titled 'Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."
-    publishedDateTime: 2020-10-24T16:23:00Z
-    webUrl: "https://menafn.com/1101010061/Microsoft-partners-Netflix-to-help-you-learn-data-science-AI"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2020-10/24/I_7fec8981-3image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "Microsoft partners Netflix to help you learn data science, AI"
-    excerpt: "Inspired by the new Netflix original titled ‘Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."
-    publishedDateTime: 2020-10-25T09:08:00Z
-    webUrl: "https://www.sify.com/news/microsoft-partners-netflix-to-help-you-learn-data-science-ai-news-national-ukyiOwihagcca.html"
-    ampWebUrl: "https://www.sify.com/news/microsoft-partners-netflix-to-help-you-learn-data-science-ai-news-national-ukyiOwihagcca.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/microsoft-partners-netflix-to-help-you-learn-data-science-ai-news-national-ukyiOwihagcca.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 51
 
 secured: "8noILWhURUawAlBvxLgI6E8V0OMpXOyylhUCqV81gHTCoeh9zmCKj09ePS9opwvUOeSd3WVPFkq2EGxgutmvGATurCkchSeO7ahxwS5aqdSKraZlfQZTUwYa4eRmTmpFxWUJmTKNJUgMpdgOF3BZqc6qX49ad39Pa9IO1bN0Pb+pMCnbIHj+k7r7eg2PDL53oNa+xnlKpQVenYQgCxylpLHvoQ8Iec13eI0tIK8JtTDueClzl3Jk5AExz9Xd/NVwcpD/mI72JIqbjDbbL+i/0UFEjltybEfJ9iZbM6T5F2tYnuO6Pbo5mHjHMcW/ZuKuTwmHIXKyy+9fR8gtMam1fDSZa0EU1PZwT3uCUfVLMbw=;Tis4NyRdDIYJuHiz9IkjJQ=="
 ---

@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/facebook-which-handles-more-than-20-billion-translations.jpg"

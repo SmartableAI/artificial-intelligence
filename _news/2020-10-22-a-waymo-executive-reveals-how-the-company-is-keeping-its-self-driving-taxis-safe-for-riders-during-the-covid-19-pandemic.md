@@ -28,22 +28,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "How AI Is Being Used By Companies During the Festive Season"
-    excerpt: "Naturally, ‘festival season’ is also the time when companies look at stepping up their businesses. Given the scenario, more companies and industries are investing in AI and related technologies to drive more profits."
-    publishedDateTime: 2020-10-21T07:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-is-being-used-by-companies-during-the-festive-season/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Festival_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-
 secured: "ucc8HRZsHs4GPaI/LxTIMPZ5ZIH1hN8kuPbnQtnsIwHQ/51UNms5HsYvErIvukSQpcvyWyEK4MbWcZaP9fFoqCorneL77/18pnneqEHbKLVvzQadbLzvwFKIuhBf/9TgX3K9jRenkf6O9CpY6sSMdSER/+q7XIy/7v2Ee0+52xYcnoG/NAqAbHtyA7IoJgy/C9WLA5KqtqUkU1OtApYcObTz6RP5O4klk7qR2mIQpd7+Zvim7KCO2XwdeNenvgatk0f+IjkT3UE4rHhLW1qEaqAdezVmLHFqZMwNtlnPYaRph9wo8f+IqU4my1vNeRJjWFB9XdoRZ6tjLKnxFzd/dWqRxNrwt80y12tTgUGI34Ih7StM4uM/lSVD4BZLXiU0z3rdoi92RZwvV/MJb2YPzf4cCqpFG6m+hwb4w8VoWdMUQPl7CQPxpLDoh/iZPzUwFkla77whYcwCJ8cma/Rqrs+lWA4suFZfUvjssFiT0QdHy0ASeSBty69m4mgTTRctgMfIpIWuuj6K1UIX5mIOwg==;Tn2Z1ESo9NP9z1bUXSbg/w=="
 ---
 

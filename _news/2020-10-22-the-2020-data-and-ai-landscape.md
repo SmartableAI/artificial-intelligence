@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 122
 published: true
 
 provider:

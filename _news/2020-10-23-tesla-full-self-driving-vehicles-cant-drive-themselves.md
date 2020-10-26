@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tesla 'full self-driving' vehicles can't drive themselves"
-excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-publishedDateTime: 2020-10-23T00:53:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-webUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+excerpt: "The conflicting messages have experts in the field accusing Tesla of deceptive, irresponsible marketing that could make the roads more dangerous."
+publishedDateTime: 2020-10-23T15:11:00Z
+originalUrl: "https://www.khou.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+webUrl: "https://www.khou.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_135a11bded104a2cbee932740c5733a6_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://media.khou.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -502,20 +502,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla Full-Self Driving Beta Rollout Starts, Is \"Slow & Cautious as It Should\""
-    excerpt: "For almost a year now, Elon Musk has been promising Level 5 autonomy on Teslas by the end of 2020. We’re not there yet, but we’re getting closer."
-    publishedDateTime: 2020-10-21T07:53:00Z
-    webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-beta-rollout-starts-is-slow-cautious-as-it-should-150422.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 50
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-beta-rollout-starts-is-slow-cautious-as-it-should-150422-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Tesla’s Full Self-Driving Update: Select Customers Tried It Out And The Reviews Are Mixed"
     excerpt: "When Tesla says 'self-driving', it does not mean autonomous, and the car still needs constant driver supervision."
     publishedDateTime: 2020-10-23T10:57:00Z
@@ -679,6 +665,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "OAeegxhjwj8QFkQ+aJnb0zP6uC3jCqInrSfhFCt+tTipRTHW3uKDIH81BllRtXPvk1ktUSIlz83Ld3JiVGufwFSWue2XZS7okFvvFFMJfv8Qrbd9WI3zHf31cR4WNn8jvR6eAwBoqpKPeO/KPXgiHNMJQ1qx0WOrKXqE4sXL43TZ8A6MPyPW+kWXzkf4gUR8MHoOKUME47Dkdsmm8ve8AF8QDf7T0unK5vibS3nTQZZxv6t0zKsOH2aHonjkMmbl4be0XPE3QScNSsgRWhTObNvhiq7rKcEefkBnQIhEAeSwSoH8ys0+U5go6t8ExtXi622vjex1dGAnS+EtIzagILKjA8Ulwv7uzn3LFpNXKfPcfFlJgF6SagXXk6P1vAAIeIvdChK0MkpKIfa48CCUUW52IpwQ4U3Fx366rIRAymVO8T1V2+teEaCPWIvepSslm0xXALdTBjvWLu20RmtmR7D50TuzyMzmAZvez+I0L+/FI9f5wqcbS9ZJnoWNJWDV0lcH6Uwc9VPHuef+/Ft0fw==;QJNnf1K809hnMAlTdSaUMw=="
+secured: "eHRMdvCDMCDtcYfmsMOcXQfgKH6RJ2ZKw6L4AUBtP2NDJqzZh2lFeLZav3EB8HAHE1ogd672CdYhi1Ltlhn1bmjtwpx/YsjPruC+LO/clSiW3ZTfUizG81rW6W+r4iPVLUYyBDxPE9XH3ck0JNwmwx0bPIrqdhGtMqixPywb78JfhWRqYH3l+1gxVqi2Q9Qu/b55pVTt68UV7ZOHJMtwyyWRqth8TUdMdiC+7WnkEj/4DpLjGzZI/ldsTDK3zDUQZAFQSpU8cvLJiMgxUYE+Pt6Sh2wxD5ucq0Qrj9w7ghq/v5ZkjYoRaRZTIEyR1BG5ZI4ddC1v4k9VsztMjBWZ5MaYGK1PPXYujFFUqrQWeeE=;vg0+rMoOOOmUR7zSVXt/8w=="
 ---
 

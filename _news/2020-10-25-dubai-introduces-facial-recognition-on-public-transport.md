@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/dubai-introduces-facial-recognition
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20201025/ARTICLE/201029285/AR/0/AR-201029285.jpg&NCS_modified=20201025182405&exif=.jpg"
         width: 1194
         height: 776
+        isCached: true
+  - title: "Dubai introduces facial recognition on public transport"
+    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
+    publishedDateTime: 2020-10-26T00:05:00Z
+    webUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html"
+    ampWebUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1"
+    cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 74
+    images:
+      - url: "http://www.al-monitor.com/pulse/files/live/sites/almonitor/files/images/afppics/2020/10/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg"
+        width: 962
+        height: 642
         isCached: true
   - title: "Dubai set to introduce facial recognition system on public transport"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"

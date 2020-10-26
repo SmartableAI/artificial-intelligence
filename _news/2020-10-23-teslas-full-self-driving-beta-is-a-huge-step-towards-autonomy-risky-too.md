@@ -343,20 +343,20 @@ related:
         height: 315
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-23T00:53:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+    excerpt: "The conflicting messages have experts in the field accusing Tesla of deceptive, irresponsible marketing that could make the roads more dangerous."
+    publishedDateTime: 2020-10-23T15:11:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: KHOU 11
+      domain: khou.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_135a11bded104a2cbee932740c5733a6_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://media.khou.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Watch Tesla's Beta of \"Feature Complete Full Self-Driving\""
     excerpt: "See the included video to watch the beta in action as customer vehicles autonomously navigate through left-hand turns, roundabouts, and more. Although Tesla has said the user interface will be updated as the rewrite is finalized,"
@@ -515,20 +515,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-10/0fd8d580-e4ab-11e9-a22d-01d4756e572b"
         width: 800
         height: 450
-        isCached: true
-  - title: "Tesla Full-Self Driving Beta Rollout Starts, Is \"Slow & Cautious as It Should\""
-    excerpt: "For almost a year now, Elon Musk has been promising Level 5 autonomy on Teslas by the end of 2020. We’re not there yet, but we’re getting closer."
-    publishedDateTime: 2020-10-21T07:53:00Z
-    webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-beta-rollout-starts-is-slow-cautious-as-it-should-150422.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 50
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-beta-rollout-starts-is-slow-cautious-as-it-should-150422-7.jpg"
-        width: 728
-        height: 300
         isCached: true
   - title: "Tesla’s Full Self-Driving Update: Select Customers Tried It Out And The Reviews Are Mixed"
     excerpt: "When Tesla says 'self-driving', it does not mean autonomous, and the car still needs constant driver supervision."
