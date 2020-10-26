@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-re
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Sify.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New MLPerf Data Shows Competition Increases In AI, But NVIDIA Still Leads"
-    excerpt: "Like the latest training results, which were announced in July, the new inference numbers show an increase in the number of companies submitting and an increased number of platforms and workloads supported."
-    publishedDateTime: 2020-10-21T22:24:00Z
-    webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/"
-    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 90
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a348132e6eddbd3811cb%2F0x0.jpg"
-        width: 1200
-        height: 974
-        isCached: true
   - title: "Nvidia leads in AI hardware, software performance, says MLPerf benchmark tests"
     excerpt: "The benchmarks also showed that NVIDIA T4 Tensor Core GPU continues to be a solid inference platform for mainstream enterprise, edge servers and cost-effective cloud instances"
     publishedDateTime: 2020-10-22T06:19:00Z

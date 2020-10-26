@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-06-artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.md",
+      "title": "Artificial intelligence should not become weapon of non-state actors: PM Modi at RAISE 2020",
+      "excerpt": "Inaugurating a five-day global virtual summit on artificial intelligence (AI), Responsible AI for Social Empowerment or RAISE 2020, Prime Minister Narendra Modi highlighted how the use of AI will empower India and also warned against the pitfalls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsx.com/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
+      "originalUrl": "https://www.newsx.com/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newsx.com/wp-content/uploads/2020/09/narendra-modi-106034-k931Sjej.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsx.com/amp/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
+      "cdnAmpWebUrl": "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
+      "publishedDateTime": "2020-10-05T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NewsX",
+        "domain": "newsx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-artificial-intelligence-technology-solutions-announces-board-of-advisors.md",
       "title": "Artificial Intelligence Technology Solutions Announces Board of Advisors",
       "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce the formation of a Board of Advisors for its",

@@ -107,6 +107,59 @@
       ]
     },
     {
+      "path": "_news/2020-10-24-with-25-years-at-microsoft-mike-tholfsen-is-old-school-and-a-champion-of-education-accessibility.md",
+      "title": "With 25 years at Microsoft, Mike Tholfsen is old school — and a champion of education accessibility",
+      "excerpt": "Long before COVID-19 thrust how we teach and learn using technology into an uncomfortable spotlight, Mike Tholfsen was imagining the tools that would make learning more inclusive and empowering",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/mike-tholfsen/",
+      "originalUrl": "https://www.geekwire.com/2020/mike-tholfsen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/Mike-flying-photo-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/mike-tholfsen/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/mike-tholfsen/amp/",
+      "publishedDateTime": "2020-10-23T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365.md",
       "title": "Microsoft and Honeywell collaborate on Azure and Dynamics 365",
       "excerpt": "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored.",
@@ -1439,50 +1492,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare.md",
-      "title": "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare",
-      "excerpt": "UC San Francisco’s Center for Digital Health Innovation (CDHI), Fortanix, Intel, and Microsoft Azure today have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D",
-      "originalUrl": "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201007005922/en/828476/23/UCSF_sig_navy_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

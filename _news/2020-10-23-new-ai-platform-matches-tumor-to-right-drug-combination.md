@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-b
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medindia
@@ -27,21 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "New AI-powered sensor measures starlight distortion to help discover new planets"
-    excerpt: "The \"photonic wavefront sensor\" helps correct the distortion of starlight caused by observing planets through optical telescopes."
-    publishedDateTime: 2020-10-21T22:16:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/amp/"
+  - title: "DrugCell: New Experimental AI Platform Matches Tumor to Best Drug Combo"
+    excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA). “That’s because right now we can’t match the right combination of drugs to the right patients in a smart way,"
+    publishedDateTime: 2020-10-22T23:32:00Z
+    webUrl: "https://health.ucsd.edu/news/releases/Pages/2020-10-22-drugcell-new-experimental-ai-platform-matches-tumor-to-best-drug-combo.aspx"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 82
+      name: Scripps News
+      domain: ucsd.edu
+    quality: 39
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-21T181131.696-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://health.ucsd.edu/news/releases/PublishingImages/DrugCell_image.jpg"
+        width: 600
+        height: 505
+        isCached: true
+  - title: "AI Reportedly Matches Tumors to Best Drug Combinations"
+    excerpt: "University of California San Diego School of Medicine and Moores Cancer Center say they have created a new AI system called DrugCell that reportedly matches tumors to the best drug combinations but does so in way that clearly make sense."
+    publishedDateTime: 2020-10-23T20:00:00Z
+    webUrl: "https://www.genengnews.com/news/ai-reportedly-matches-tumors-to-best-drug-combinations/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2020/10/Oct23_2020_Getty_1193684967_WomanScientistPipette-scaled-e1603475555884.jpg"
+        width: 1400
+        height: 1050
         isCached: true
 
 secured: "STZsnxOpiDklm8bExNrvsSly0oPy6B6udSK1RjuVFQv70QgyLNsvi+SuV7nwdyWRzQh5zqRidtcWrkE2soE1bf6dYgZaRPyuadGYo5sZq6KiUtZ8gg/M2hA1hpoJQH46v1XjXFYlqA0R6MAqYg66xIaP6xVe/wLVAUpKQ+Al1a+lxMYnzpJlhz4uLOMSGhie5pCmlHtIcFuIOOfVh6Bh0msre/Y35NpbXzkio7RR5jznR6Pb9r3uAeIZv975aO23CRM2b6TESuRtUdGBx9E0ooEX5YhU579Ok14wmcyE3F9N24jyLkjkQC0nlUIIr3FSaUYgLEXod3QeWl2sRZEkaQ01UTOwQFQtAodz388DXVY=;cA1kapuQ3G8h8YRfC52nCQ=="

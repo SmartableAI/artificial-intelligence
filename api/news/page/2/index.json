@@ -2,6 +2,187 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-24-researchers-discover-spooky-similarity-in-how-brains-and-computers-see.md",
+      "title": "Researchers Discover ‘Spooky’ Similarity In How Brains and Computers See",
+      "excerpt": "The brain detects 3D shape fragments such as bumps, hollows, shafts and spheres in the beginning stages of object vision – a newly discovered strategy of",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/",
+      "originalUrl": "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2013/07/hal-2001.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/amp/",
+      "publishedDateTime": "2020-10-23T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-new-ai-platform-matches-tumor-to-right-drug-combination.md",
+      "title": "New AI Platform Matches Tumor to Right Drug Combination",
+      "excerpt": "DrugCell, a new artificial intelligence system not only matches tumors to the best drug combinations, but does so in a way that makes sense to humans.’ Read More..",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm",
+      "originalUrl": "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm",
+      "publishedDateTime": "2020-10-23T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-why-andreessen-horowitz-is-still-wrong-about-ai.md",
+      "title": "Why Andreessen Horowitz Is Still Wrong About AI",
+      "excerpt": "The economics of AI has been a hot topic following two blogs by the Andreessen Horowitz team. What is missing from the discussion, however, is understanding of the journey from idea to profitability with good margins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/evansparks/2020/10/23/why-andreessen-horowitz-is-still-wrong-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/evansparks/2020/10/23/why-andreessen-horowitz-is-still-wrong-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f928cbe4cc3230abca69cce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3840%26cropY1%3D0%26cropY2%3D2160",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2020/10/23/why-andreessen-horowitz-is-still-wrong-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/10/23/why-andreessen-horowitz-is-still-wrong-about-ai/amp/",
+      "publishedDateTime": "2020-10-23T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen.md",
+      "title": "AI security: This project aims to spot attacks against critical systems before they happen",
+      "excerpt": "Microsoft has unveiled a new open-source \"matrix\" that hopes to identify all the existing attacks that threaten the security of machine learning applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
+      "originalUrl": "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
+      "publishedDateTime": "2020-10-23T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive.md",
       "title": "Predictions Rosy For ‘Roadschooling’ Whence Self-Driving Cars Arrive",
       "excerpt": "The moment that you arrive at a landmark location provides ample time to stretch your legs and see new sights. For those stuck at home, it is the same four walls, day after day, week after week. Some twists and turns are to be expected while doing the road adventure approach.",
@@ -102,48 +283,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases.md",
-      "title": "US military tests wearable + AI combination as early warning system for COVID-19 cases",
-      "excerpt": "Philips built an algorithm that tracks 165 biomarkers to spot illness when a person is contagious but not showing symptoms yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/",
-      "originalUrl": "https://www.techrepublic.com/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/",
-      "publishedDateTime": "2020-10-23T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -561,7 +700,7 @@
       "originalUrl": "https://www.forbes.com/sites/forrester/2020/10/23/predictions-2021-the-time-is-now-for-ai-to-shine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -756,6 +895,58 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-securing-amazon-sagemaker-studio-connectivity-using-a-private-vpc.md",
+      "title": "Securing Amazon SageMaker Studio connectivity using a private VPC",
+      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). With a single click, data scientists and developers can quickly spin up Amazon SageMaker Studio Notebooks for exploring datasets and building models. With the new ability to launch Amazon SageMaker",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-connectivity-using-a-private-vpc/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-connectivity-using-a-private-vpc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/21/2-studio-architecture-vpc.jpg",
+          "width": 900,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T14:23:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1057,204 +1248,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-new-spin-out-company-uses-ai-and-robotics-to-take-the-pain-out-of-potholes.md",
-      "title": "New spin out company uses AI and robotics to take the pain out of potholes",
-      "excerpt": "The University of Liverpool has formed a new spin out company – Robotiz3d Ltd – to take forward new technology that has the potential to radically transform road maintenance. Robotiz3d Ltd",
-      "sourceUrl": null,
-      "webUrl": "https://roboticsandautomationnews.com/2020/10/22/new-spin-out-company-uses-ai-and-robotics-to-take-the-pain-out-of-potholes/37589/",
-      "originalUrl": "https://roboticsandautomationnews.com/2020/10/22/new-spin-out-company-uses-ai-and-robotics-to-take-the-pain-out-of-potholes/37589/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/composefreont-002_orig.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics & Automation News",
-        "domain": "roboticsandautomationnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-meet-the-ai-thats-really-not-stealing-jobs.md",
-      "title": "Meet The AI That’s (Really) Not Stealing Jobs",
-      "excerpt": "Rather than worrying about AI as a generic, uniform risk to jobs, procurement and supply-chain leaders should explore its potential to supercharge jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a3d131056d8a67471899%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/amp/",
-      "publishedDateTime": "2020-10-22T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-tesla-full-self-driving-beta-lands-but-its-about-to-get-more-expensive.md",
-      "title": "Tesla Full-Self Driving beta lands, but it's about to get more expensive",
-      "excerpt": "The FSD beta will roll out to more Tesla owners as early as this weekend, according to CEO Elon Musk, and a price bump's coming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 503,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "publishedDateTime": "2020-10-22T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-robot-artist-thats-challenging-humanitys-concept-of-creativity.md",
-      "title": "The robot ‘artist’ that’s challenging humanity’s concept of creativity",
-      "excerpt": "I picked up his robot, and I thought ... But it does highlight one of the problematic aspects of creativity as a benchmark of artificial intelligence (not that this is necessarily what the endeavor is designed to prove.) Simply put, art is too subjective ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/aida-robot-artist/",
-      "originalUrl": "https://www.digitaltrends.com/features/aida-robot-artist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/ai-da-in-a-seat-photographer-victor-frankowski-1200x630-c-ar1.91-n.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/aida-robot-artist/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/aida-robot-artist/?amp",
-      "publishedDateTime": "2020-10-22T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

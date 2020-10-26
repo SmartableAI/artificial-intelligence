@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-26-techsee-raises-30-million-to-streamline-field-service-work-with-ar-and-computer-vision.md",
+      "title": "TechSee raises $30 million to streamline field service work with AR and computer vision",
+      "excerpt": "TechSee’s cross-platform, AWS-hosted apps employ computer vision to recognize products and issues and streamline warranty registration . For instance, TechSee Live, the company’s call center ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/7e1ce4cc-8904-40cd-80e7-f3717fd0d695-e1603126551920.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/amp/",
+      "publishedDateTime": "2020-10-26T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-what-will-the-next-ai-killer-app-be-given-covid-19-impacts.md",
+      "title": "What Will The Next AI Killer App Be Given Covid-19 Impacts?",
+      "excerpt": "This blog explores the increasing mental health risks, rise of loneliness and the introduces the value of affective computing where voice and emotion will make invaluable contributions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2020/10/26/what-will-the-next-ai-killer-app-be--given-covid-19-impacts/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2020/10/26/what-will-the-next-ai-killer-app-be--given-covid-19-impacts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f95dce16079e862a88df866%2F0x0.jpg",
+          "width": 1200,
+          "height": 919,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-microsoft-teams-with-adobe-and-c3ai-to-take-on-salesforce-on-its-home-turf.md",
       "title": "Microsoft Teams With Adobe and C3.ai to Take on Salesforce on Its Home Turf",
       "excerpt": "Microsoft Corp. is teaming with Adobe Inc. and C3.ai, the company of customer-software pioneer Tom Siebel, in another bid to better compete with Salesforce.com Inc., the market leader for such programs.",
@@ -417,7 +520,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -814,6 +917,59 @@
       ]
     },
     {
+      "path": "_news/2020-10-24-with-25-years-at-microsoft-mike-tholfsen-is-old-school-and-a-champion-of-education-accessibility.md",
+      "title": "With 25 years at Microsoft, Mike Tholfsen is old school — and a champion of education accessibility",
+      "excerpt": "Long before COVID-19 thrust how we teach and learn using technology into an uncomfortable spotlight, Mike Tholfsen was imagining the tools that would make learning more inclusive and empowering",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/mike-tholfsen/",
+      "originalUrl": "https://www.geekwire.com/2020/mike-tholfsen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/Mike-flying-photo-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/mike-tholfsen/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/mike-tholfsen/amp/",
+      "publishedDateTime": "2020-10-23T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-one-key-to-pandemic-retailing-artificial-intelligence.md",
       "title": "One Key to Pandemic Retailing: Artificial Intelligence",
       "excerpt": "AI driven by online data and powerful computing has given retailers new abilities to personalize selling and turn on a dime. It will also play an important role after the pandemic.",
@@ -1105,144 +1261,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-researchers-discover-spooky-similarity-in-how-brains-and-computers-see.md",
-      "title": "Researchers Discover ‘Spooky’ Similarity In How Brains and Computers See",
-      "excerpt": "The brain detects 3D shape fragments such as bumps, hollows, shafts and spheres in the beginning stages of object vision – a newly discovered strategy of",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/",
-      "originalUrl": "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2013/07/hal-2001.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519193/researchers-discover-spooky-similarity-in-how-brains-and-computers-see/amp/",
-      "publishedDateTime": "2020-10-23T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-why-andreessen-horowitz-is-still-wrong-about-ai.md",
-      "title": "Why Andreessen Horowitz Is Still Wrong About AI",
-      "excerpt": "The economics of AI has been a hot topic following two blogs by the Andreessen Horowitz team. What is missing from the discussion, however, is understanding of the journey from idea to profitability with good margins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evansparks/2020/10/23/why-andreessen-horowitz-is-still-wrong-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/evansparks/2020/10/23/why-andreessen-horowitz-is-still-wrong-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f928cbe4cc3230abca69cce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3840%26cropY1%3D0%26cropY2%3D2160",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2020/10/23/why-andreessen-horowitz-is-still-wrong-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/10/23/why-andreessen-horowitz-is-still-wrong-about-ai/amp/",
-      "publishedDateTime": "2020-10-23T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen.md",
-      "title": "AI security: This project aims to spot attacks against critical systems before they happen",
-      "excerpt": "Microsoft has unveiled a new open-source \"matrix\" that hopes to identify all the existing attacks that threaten the security of machine learning applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
-      "originalUrl": "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
-      "publishedDateTime": "2020-10-23T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

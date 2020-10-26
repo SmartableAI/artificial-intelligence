@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-23-new-ai-platform-matches-tumor-to-right-drug-combination.md",
+      "title": "New AI Platform Matches Tumor to Right Drug Combination",
+      "excerpt": "DrugCell, a new artificial intelligence system not only matches tumors to the best drug combinations, but does so in a way that makes sense to humans.’ Read More..",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm",
+      "originalUrl": "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm",
+      "publishedDateTime": "2020-10-23T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-artificial-intelligence-cheat-sheet.md",
       "title": "Artificial intelligence: Cheat sheet",
       "excerpt": "Learn artificial intelligence basics ... AI chatbots can be a great first line of customer interaction. Healthcare: Not only are some AIs able to detect cancer and other health concerns before doctors, they can also provide feedback on patient care ...",
@@ -1340,49 +1383,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.md",
-      "title": "Artificial intelligence should not become weapon of non-state actors: PM Modi at RAISE 2020",
-      "excerpt": "Inaugurating a five-day global virtual summit on artificial intelligence (AI), Responsible AI for Social Empowerment or RAISE 2020, Prime Minister Narendra Modi highlighted how the use of AI will empower India and also warned against the pitfalls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsx.com/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
-      "originalUrl": "https://www.newsx.com/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newsx.com/wp-content/uploads/2020/09/narendra-modi-106034-k931Sjej.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsx.com/amp/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
-      "cdnAmpWebUrl": "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html",
-      "publishedDateTime": "2020-10-05T22:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsX",
-        "domain": "newsx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

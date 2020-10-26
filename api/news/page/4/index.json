@@ -2,6 +2,265 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-22-mit-seeks-to-resurrect-dead-languages-with-machine-learning.md",
+      "title": "MIT seeks to resurrect 'dead' languages with machine learning",
+      "excerpt": "By implementing a new translation system and a bit of detective work, researchers hope to give old indecipherable languages a new voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "originalUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/oIgSdZTaU-UxA48WUT70KtAh2ZM=/1200x630/2020/10/21/bbfec165-3dcb-4d55-b8aa-493c200f8cb2/gettyimages-1131558568.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "publishedDateTime": "2020-10-21T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads.md",
+      "title": "New MLPerf Data Shows Competition Increases In AI, But NVIDIA Still Leads",
+      "excerpt": "Like the latest training results, which were announced in July, the new inference numbers show an increase in the number of companies submitting and an increased number of platforms and workloads supported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a348132e6eddbd3811cb%2F0x0.jpg",
+          "width": 1200,
+          "height": 974,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
+      "publishedDateTime": "2020-10-21T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets.md",
+      "title": "New AI-powered sensor measures starlight distortion to help discover new planets",
+      "excerpt": "The \"photonic wavefront sensor\" helps correct the distortion of starlight caused by observing planets through optical telescopes.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-21T181131.696-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/amp/",
+      "publishedDateTime": "2020-10-21T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-white-house-nears-new-rules-on-artificial-intelligence.md",
+      "title": "White House Nears New Rules on Artificial Intelligence",
+      "excerpt": "The Trump administration prefers what U.S. Chief Technology Officer Michael Kratsios has called a ‘light-touch’ approach toward regulating AI, to avoid holding back U.S. leadership in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
+      "originalUrl": "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-247890/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
+      "publishedDateTime": "2020-10-21T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-google-is-reportedly-supplying-ai-technology-to-the-trump-administrations-virtual-border-wall.md",
+      "title": "Google is reportedly supplying AI technology to the Trump administration's virtual border wall",
+      "excerpt": "Documents reportedly show that Google Cloud's technology will be used in tandem with Anduril to erect Trump's virtual border wall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10",
+      "originalUrl": "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f908d59abcd0c0018d68e63?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10?amp",
+      "publishedDateTime": "2020-10-21T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai.md",
       "title": "Chip industry is going to need a lot more software to catch Nvidia’s lead in AI",
       "excerpt": "Topic: Artificial Intelligence  The semiconductor industry is in the midst of a renaissance in chip design and performance improvement, but it will take a lot more software to catch up with graphics chip titan Nvidia,",
@@ -603,6 +862,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
+      "title": "Neural pathway crucial to successful rapid object recognition in primates",
+      "excerpt": "MIT researchers have identified a brain pathway critical in enabling primates to effortlessly identify objects in their field of vision. The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/neuralpathwa.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp",
+      "publishedDateTime": "2020-10-21T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-if-the-future-of-skincare-is-ai-generated-serums-ill-pass.md",
       "title": "If the Future of Skincare Is AI-Generated Serums I'll Pass",
       "excerpt": "The beauty industry is hoping AI can fuel a new revolution. But so far its just watery gels I'm not sure actually work.",
@@ -943,301 +1245,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-microsoft-launches-azure-space-initiative-partners-with-spacex.md",
-      "title": "Microsoft launches Azure Space initiative; partners with SpaceX",
-      "excerpt": "Azure Orbital Emulator is an emulation environment that conducts massive satellite constellation simulations with software and hardware. It's for satellite developers who need to evaluate and train AI algorithms involving satellite networking before ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg",
-          "width": 798,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
-      "publishedDateTime": "2020-10-21T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-women-increasingly-entering-into-artificial-intelligence-and-analytics-domain-heres-why.md",
-      "title": "Women Increasingly Entering into Artificial Intelligence and Analytics Domain, Here’s Why",
-      "excerpt": "A survey by Great Learning explains the reasons behind the growing footsteps of women in the analytics and artificial intelligence industry Great Learning announced the results of a survey conducted by them on the participation and involvement of women in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/",
-      "originalUrl": "https://www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Technology-Futuristic-3262753.jpg",
-          "width": 736,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/amp/",
-      "publishedDateTime": "2020-10-21T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-04.md",
-      "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Shares Up 0.4%",
-      "excerpt": "Shares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) shot up 0.4% during mid-day trading on Tuesday . The stock traded as high as $34.39 and last traded at $34.17. 90,635 shares traded hands during trading,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html/amp",
-      "publishedDateTime": "2020-10-20T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip.md",
-      "title": "Flex Logix Announces Working Silicon Of Fastest And Most Efficient AI Edge Inference Chip",
-      "excerpt": "Oct. 20, 2020 /PRNewswire/ -- Flex Logix® Technologies, Inc. today announced availability of its InferX™ X1, the industry's fastest AI inference chip for edge systems. InferX X1 accelerates ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip-1029698291",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip-1029698291",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1315898/Flex_Logix_InferX_X1_Infographic.jpg",
-          "width": 400,
-          "height": 201,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-google-fintech-group-unifiedpost-team-up-on-ai-data-capture.md",
-      "title": "Google, FinTech group Unifiedpost team up on AI data capture",
-      "excerpt": "Google’s AI solution may be utilized to handle document processing linked to over 400,000 European businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "originalUrl": "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/10/19/571138b0-7f46-499a-8e83-fda88fa825cb/thumbnail/1200x675/28adbdcfd037c2e23dea5f7022ad6a15/what-google-cloud-platform-is-and-why-yo-5f8850a547719e19b06f12fd-1-oct-19-2020-18-24-43-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "publishedDateTime": "2020-10-20T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-mit-csails-ai-revives-dead-languages-it-hasnt-seen-before.md",
-      "title": "MIT CSAIL’s AI revives dead languages it hasn’t seen before",
-      "excerpt": "Unfortunately, most lost languages have such minimal records that scientists can’t decipher them by using conventional machine-translation ... the only ones to apply AI to recovering long ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/",
-      "originalUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/3dadbcae-4130-40d1-ba13-35a874b8ab40-e1602808234308.png?w=1200&strip=all",
-          "width": 1156,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/amp/",
-      "publishedDateTime": "2020-10-20T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -21,16 +21,19 @@ topics:
 
 related:
   - title: "Data Reply Achieves AWS Machine Learning Competency Status"
-    excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR."
-    publishedDateTime: 2020-10-22T08:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18008856"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008856"
+    excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ..."
+    publishedDateTime: 2020-10-22T07:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 56
+    images:
+      - url: "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Ironside Achieves AWS Advanced Consulting Partner Status"
     excerpt: "The journey to AWS Advanced Consulting Partner status pushed us to gain valuable understanding of AWS and services like Amazon QuickSight, Amazon SageMaker, Amazon Redshift, and more, which ..."
     publishedDateTime: 2020-10-22T13:40:00Z

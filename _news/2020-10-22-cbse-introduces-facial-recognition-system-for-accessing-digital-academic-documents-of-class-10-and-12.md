@@ -54,20 +54,20 @@ related:
         height: 776
         isCached: true
   - title: "Dubai introduces facial recognition on public transport"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
-    publishedDateTime: 2020-10-26T07:56:00Z
-    webUrl: "https://dailytimes.com.pk/682083/dubai-introduces-facial-recognition-on-public-transport/"
-    ampWebUrl: "https://dailytimes.com.pk/682083/dubai-introduces-facial-recognition-on-public-transport/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/682083/dubai-introduces-facial-recognition-on-public-transport/amp/"
+    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
+    publishedDateTime: 2020-10-26T00:05:00Z
+    webUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html"
+    ampWebUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1"
+    cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1"
     type: article
     provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
+      name: Al-Monitor
+      domain: al-monitor.com
     quality: 74
     images:
-      - url: "https://dailytimes.com.pk/assets/uploads/2020/10/Dubai-introduces-facial-recognition-on-public-transport.jpg"
-        width: 720
-        height: 450
+      - url: "http://www.al-monitor.com/pulse/files/live/sites/almonitor/files/images/afppics/2020/10/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg"
+        width: 962
+        height: 642
         isCached: true
   - title: "Dubai set to introduce facial recognition system on public transport"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"

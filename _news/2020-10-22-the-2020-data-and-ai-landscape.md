@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/"
 type: article
 quality: 91
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 2243
         height: 1507
         isCached: true
+  - title: "Saudi Data and Artificial Intelligence Authority develops national AI strategy"
+    excerpt: "Saudi Arabia has launched a national Artificial Intelligence strategy aimed at making it a global leader in the field, as it seeks to diversify its oil-based economy. The National Strategy for Data and Artificial Intelligence (NSDAI) will seek to attract USD 20 billion in foreign and local investments by 2030,"
+    publishedDateTime: 2020-10-26T14:18:00Z
+    webUrl: "https://www.telecompaper.com/news/saudi-data-and-artificial-intelligence-authority-develops-national-ai-strategy--1359097"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 28
 
 secured: "rkWYSoyL9RckcQPLtavqM8U3SjFMHF1Y4CuYGExLpLthzBjQHsHkhTLFtS2R8UhfMA8QgFXVkBjTc/NsrgEEV2VRifNRbvvY1ubkUabEcAEroZ/IYZFEojxlcW7J5JPX/pbiLH3encWBe/K3cHzet29FSoHvN8WvDalRN0ENN0pEIdoQGedc2wVJY65N6A+Acg0W3A/3bmfkkcS95yT92O/6S5qHYFeyWphlpYI9ts/L2FHvvEt5s5glPzTunHtMyGkHOsHJc+MITcVhIrTQlAtWU1kSya4lxLhZi70QkMFIBQre9Qj+AQgLuB52pIIn+U9LMFD7+ZTnqHn9j+fnTrmtXSjBKeX5GW+cTMzexfY1WIKjzIC0J44m3Tfne/gZXB6RGOx1C7KBjvQ5BgM6BS9ltdc1vH8aKld+tWapaDXP4/WyLMgpah0PRrwqEwUi0QkVReCJwcPU+kBtHWNGdeaXmOXfhFJJxeA41X8y1IPyiSHtr7pubmIXDsnpQhFRfL6kYJQ5WfXT9vLbomrobA==;qgdmt4gV6Owa3DhULcLGnA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-el
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/"
 type: article
 quality: 103
-heat: 503
+heat: 493
 published: true
 
 provider:
@@ -174,22 +174,6 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-data.jpg?quality=82&strip=all"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ software is starting to roll out to select customers"
-    excerpt: "A beta version of Tesla’s partially automated driver assist system is available, but not to everyone Tesla sent out the first “Full Self-Driving” beta software update to a select group of customers this week,"
-    publishedDateTime: 2020-10-21T23:02:00Z
-    webUrl: "https://www.theverge.com/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/htYBR0DzssLE6WDNXsijF8lUUDI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67668885/acastro_180524_1777_tesla_0003.0.jpg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
     excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
@@ -365,6 +349,22 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2019/09/37cd2aaf-tesla-smart-summon.gif"
         width: 480
         height: 270
+        isCached: true
+  - title: "Tesla's Self-Driving Beta Fleet Is Generating An Immense Amount Of Data"
+    excerpt: "Many experts warn against Tesla's approach to self-driving tech. It's too early in the game to know who's right, but relying on data should be a positive."
+    publishedDateTime: 2020-10-26T14:22:00Z
+    webUrl: "https://insideevs.com/news/450886/tesla-full-self-driving-beta-generating-reams-data/"
+    ampWebUrl: "https://insideevs.com/news/450886/tesla-full-self-driving-beta-generating-reams-data/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/450886/tesla-full-self-driving-beta-generating-reams-data/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/y8PYo/s1/tesla-full-self-driving.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tesla Deployed Full Self-Driving Beta in Some Cars. Here’s How It Works."
     excerpt: "Last week Monday we gave you a heads up that Tesla would be releasing a beta version of its full self-driving (FSD) capability to some cars this week. It appears Elon Musk’s team has made the deadline;"
@@ -613,15 +613,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 27
-  - title: "Tesla talks up self-driving capabilities, robotaxi and production ramp"
-    excerpt: "Tesla (NASDAQ:TSLA) held one of its calmer conference calls after knocking out five straight quarters of profit.Tesla CEO Elon Musk gave out more details on the full self-driving [FSD] beta, noting that the system will be trained as edge cases are worked out with the beta drivers."
-    publishedDateTime: 2020-10-21T23:02:00Z
-    webUrl: "https://seekingalpha.com/news/3624581-tesla-talks-up-self-driving-capabilities-robotaxi-and-production-ramp"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "QuX++w7hCbCgruV+WJwTlpucwjDhWYIrks28a0l/wLKERJu3luiaJQkWvdTZND/LozEcHzuhRLY08vydYAikQrMQNXQ+ug38TJ0rug9mZ48vsY3c5LrybJ49HU7jB/mhZllw+/8M3CqL+D/TyGw1XuiPdAzj5KA1QBaBEGImIsHsYSnzKDrtsD6EGInbIp8+1fg0zpfRyUed0+l+2OANb7K6FRILzwlWkED9APJ44gf3k+dNToff27wlM8prc0/jZ+vIv9V4Np0yDbHQPVuTMz6ASXQQmko4F5f49RJpJI3E4I7MnIwxrYGaFASQoWpjT/BJL6i0kcA3UWsF8+GigbAvZuCZsegMpI3uRoXqFhYxJupZtYt1YxzzqEGCowICWa9dyWiMJXzwkAcNcDgUTR6QcXnfOzMuCpXg4O2ebYtelctkNF5Exd9sJvjWuFyUOTmxohH7REfVk+bH9HWDWhozbIgo1wt3IR8WjFbcpSAjP6ZR5nnCMsg61TbOBKvAC5UhTis3SG8LZNkipQmlTA==;W/mdNuD5VGZ4uU34Xn2bZQ=="
 ---

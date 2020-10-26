@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Judges Your Face: This Is How Facial Recognition Works"
+    excerpt: "To learn how facial recognition works, checkout this website and give access to the camera of our computer or phone."
+    publishedDateTime: 2020-10-26T15:28:00Z
+    webUrl: "https://techlog360.com/how-facial-recognition-works/"
+    ampWebUrl: "https://techlog360.com/how-facial-recognition-works/amp/"
+    cdnAmpWebUrl: "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/how-facial-recognition-works/amp/"
+    type: article
+    provider:
+      name: techlog360.com
+      domain: techlog360.com
+    quality: 70
+    images:
+      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/10/How-Facial-Recognition-Works.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Dubai To Introduce Facial Recognition Tech In Public Transport To Enhance Security"
     excerpt: "Dubai is all set to roll out a brand new feature of facial recognition system on public transport in a bid to strengthen security for the local, said officials."
     publishedDateTime: 2020-10-26T13:25:00Z
@@ -60,6 +76,22 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/oiqzcfwmls1dzeq1_1603716287.jpeg?tr=f-jpeg"
         width: 1242
         height: 710
+        isCached: true
+  - title: "Opinion: The dangers of facial recognition"
+    excerpt: "Recent developments in technology, coupled with the pandemic, have led to increased use of facial recognition software in South"
+    publishedDateTime: 2020-10-26T14:00:00Z
+    webUrl: "https://usustatesman.com/opinion-the-dangers-of-facial-recognition/"
+    ampWebUrl: "https://usustatesman.com/opinion-the-dangers-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://usustatesman-com.cdn.ampproject.org/c/s/usustatesman.com/opinion-the-dangers-of-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Utah Statesman
+      domain: usustatesman.com
+    quality: 59
+    images:
+      - url: "https://usustatesman.com/wp-content/uploads/2020/10/dilemma.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "NEC Unveils Mask-on Facial Recognition"
     excerpt: "Japanese electronics company NEC has developed facial recognition technology that can identify people even when they are wearing a mask -- a breakthrough that promises many practical applications amid the pandemic."

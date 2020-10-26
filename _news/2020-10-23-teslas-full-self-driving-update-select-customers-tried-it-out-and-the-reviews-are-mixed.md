@@ -187,22 +187,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ software is starting to roll out to select customers"
-    excerpt: "A beta version of Tesla’s partially automated driver assist system is available, but not to everyone Tesla sent out the first “Full Self-Driving” beta software update to a select group of customers this week,"
-    publishedDateTime: 2020-10-21T23:02:00Z
-    webUrl: "https://www.theverge.com/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/htYBR0DzssLE6WDNXsijF8lUUDI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67668885/acastro_180524_1777_tesla_0003.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
     excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
     publishedDateTime: 2020-10-23T07:06:00Z
@@ -377,6 +361,22 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2019/09/37cd2aaf-tesla-smart-summon.gif"
         width: 480
         height: 270
+        isCached: true
+  - title: "Tesla's Self-Driving Beta Fleet Is Generating An Immense Amount Of Data"
+    excerpt: "Many experts warn against Tesla's approach to self-driving tech. It's too early in the game to know who's right, but relying on data should be a positive."
+    publishedDateTime: 2020-10-26T14:22:00Z
+    webUrl: "https://insideevs.com/news/450886/tesla-full-self-driving-beta-generating-reams-data/"
+    ampWebUrl: "https://insideevs.com/news/450886/tesla-full-self-driving-beta-generating-reams-data/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/450886/tesla-full-self-driving-beta-generating-reams-data/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/y8PYo/s1/tesla-full-self-driving.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tesla Deployed Full Self-Driving Beta in Some Cars. Here’s How It Works."
     excerpt: "Last week Monday we gave you a heads up that Tesla would be releasing a beta version of its full self-driving (FSD) capability to some cars this week. It appears Elon Musk’s team has made the deadline;"
@@ -609,15 +609,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 27
-  - title: "Tesla talks up self-driving capabilities, robotaxi and production ramp"
-    excerpt: "Tesla (NASDAQ:TSLA) held one of its calmer conference calls after knocking out five straight quarters of profit.Tesla CEO Elon Musk gave out more details on the full self-driving [FSD] beta, noting that the system will be trained as edge cases are worked out with the beta drivers."
-    publishedDateTime: 2020-10-21T23:02:00Z
-    webUrl: "https://seekingalpha.com/news/3624581-tesla-talks-up-self-driving-capabilities-robotaxi-and-production-ramp"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "cGHgYMU6/LYhD8EK8FFGSN9VUfpCbgqeMT+xNnHB3VYWjJV/LDY/7zCRcJjnRtAF6d69wHMh1RM+wYgl8HY/0eVnQZEqcYVin47fIJQmo6XyJFopnu90FSz/fD+TOokECz8mHhVvVoci8Bci+Ua2D1QTAgYQCWu3A3kWFVRJPhERwyVVXsf4fyX3EFUVPlmQrCa5yNO8AnU9FxchbIkEveB2Rap9GYrwin26YxncqzrD00BZYFSS2r3wEOuu8PGXdEiFeY++r8QkNwmj2VPNe1UATxkDN0iJCUCJiFqMkTAfZgstozdpmO/AlJhWGg2z5E16GriHyH6rsP8wRC/Is6Ow0nbXVEHVphLUBlIjXnvdmriQkWCYZ0Q0EZMiDUNm9iYDZpMnpetVg9+pOLbJquju7HwJ1k4TyOyw/l5kVttvsS9uA7rKqj+c6Ka/RQCbOigrhuQziZRrLqxTMYnwvCeGx8xVVhUS1WvRzuKmiXfERN+nwIHIuNUOZVk9zOSa172BNKutQqbpxSVJRuDgZQ==;c625vov3P1bGx9PzP6pW7g=="
 ---

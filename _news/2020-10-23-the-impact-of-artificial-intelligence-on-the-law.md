@@ -60,6 +60,15 @@ related:
         width: 2243
         height: 1507
         isCached: true
+  - title: "Saudi Data and Artificial Intelligence Authority develops national AI strategy"
+    excerpt: "Saudi Arabia has launched a national Artificial Intelligence strategy aimed at making it a global leader in the field, as it seeks to diversify its oil-based economy. The National Strategy for Data and Artificial Intelligence (NSDAI) will seek to attract USD 20 billion in foreign and local investments by 2030,"
+    publishedDateTime: 2020-10-26T14:18:00Z
+    webUrl: "https://www.telecompaper.com/news/saudi-data-and-artificial-intelligence-authority-develops-national-ai-strategy--1359097"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 28
 
 secured: "IbizKGL3bYl2zocDkuVUp8qFo8+qzM6L+4CaINyTc3UpvQUTFnv/mXE6MURFkdcRTutKpePs9SFn7ir1O8ybLjYyEVNqowXeiK7ZxONr2aMZuCSijpJB6O3VqnydBvZ9ZxZFnXHX6eVK9IYm5H5rJQZ4jZyhLg50qM+BVB3mQbBFrUkFJHx1rw+S825FDMK5joXPAMMODREuy345FdGTXRF8TR60yCGAA4QIpgO89UPEUEx46wYXrHJscAi3o6hiXaRoPDIUm4tmnJjWvrv5wKjBY76yoBnwDdX2kxXmaYum5wKlOrFLjEwPaYfUGq9thmkYnhLLY2Nl5PEDdDwWszFweMGviIDff8wNC63p7Td+t5eyMbAc+aiIDscQ1TJokBnuAWNHIBEBIFMxNssXgI64ehItIgaD/KzQyklrRcAudPILn0by9py0YFCa343k86gZDz+Gpphmcb2NHEtUdx3HNNiFWF0tnjOY8lF5gyjNAhRn3D5a1g2kYWaOtRUU/vyt7meIzf+0I0/uAcu/CQ==;I6gGipuVe/UTloTshNcVZg=="
 ---

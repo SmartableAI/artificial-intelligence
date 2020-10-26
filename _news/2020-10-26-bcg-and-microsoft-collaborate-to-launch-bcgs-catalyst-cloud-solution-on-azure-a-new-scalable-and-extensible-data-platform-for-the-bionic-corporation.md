@@ -1,22 +1,28 @@
 ---
 category: news
 title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
-excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure. This SaaS-based, scalable offering"
-publishedDateTime: 2020-10-26T04:11:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable/article_a85c3d82-fdb3-51fc-8c2d-ac3875a44bfa.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable/article_a85c3d82-fdb3-51fc-8c2d-ac3875a44bfa.html"
+excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure."
+publishedDateTime: 2020-10-26T04:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
+webUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
 type: article
-quality: 0
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/798393/Boston_Consulting_Group_Logo.jpg?p=facebook"
+    width: 756
+    height: 396
+    isCached: true
 
 related:
   - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
@@ -141,6 +147,6 @@ related:
       domain: channele2e.com
     quality: 49
 
-secured: "f5v/1P9F8E9M7XyaypV0XJ4Hby40dcdxjjbY4R5euzD0spLISMf72xZX9rgv0FNlcbc9imFSP1O2JkljbiB4mMmjBh8uHpqbDZwMFfi4DmgHX4Pz4ZSJRO9HD2F/j3tB0h2cn4IfAEuO/YjJanmfIUxvsA/bL7FDLl+bPQuQ0IlPHCYNGAX2RfKqpMv12t++NKKDfvdlA6Z/x+Xccva7lVsHzYUba61wn5LwGI3A/8SQzeS6NIZ5IZuHrEmGEq/DSQ6ABTs+7PpXbG5kWGHjxCd0KkBKIRsTCdLLOsSRA1e/2FyCvf+Luaf+FUAk//vCDsbPOa2REnJGzXPiUildQ2CEWIMZ47B8qEGI1L9EVTuSH7Vh5tuOZhMMNBUuyHVhW6hCHE77VZ/T+jL1Ub47qsmC1sHZwCvCHHZXP4m0Nxy0aeRLqyo3bUUD9sjgrdhNN+5MwieT6vL7HidR2AVJ9308CNgFMy54d6/zgKjfKxFgsvHK5L4OLKrNWGQTTiqLH+ZGH/VCMvxsoJ9ou/tqIg==;zW5l0dxGEakDB3dJ4pJ8ig=="
+secured: "krXBARr1HEpiJoRcTsn+IboAUUcg6E7BSEOZISYi2MFQ1aaZaW6VJD1hDZkXKGp1nxYzb3Qq18xvbEzJsp6VjrNt14TGzBPG1Q5YMC1bIP977wz0EX9ePStwKJRbq2Ohm7NtmY+kahv3Ti1rt4R6YfOhrPe6zL3XvWHAsi/hXWJb/qKZ9KmTy9D2IDoQlwShYn8AE/smifQGgNubOpk2fSzGA+pmGDlgoKjhyB5js+hwFVStpPN4TZZJIP/q0EFkgvx5EjHZp9em0fyRf2jw8vG0XocXZIDusuib2a/1wUX4FYvAGFsDaPt6eg0ephrFNKYj9P7u7bH1iQtmxcV1ZVsmcIZWxbov8FSNB2UIRpg=;PrcS/3OUMMmLDFxB3h7+Eg=="
 ---
 

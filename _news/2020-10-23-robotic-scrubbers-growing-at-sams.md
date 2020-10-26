@@ -24,22 +24,6 @@ images:
     height: 246
     isCached: true
 
-related:
-  - title: "Sam’s Club is putting robot janitors in all of its stores during the pandemic"
-    excerpt: "Soon every Sam’s Club will have a robot to scrub the store floors. In partnership with Brain Corp, an artificial intelligence company, the membership-only warehouse chain will distribute 372 new autonomous floor scrubbers to its stores this fall."
-    publishedDateTime: 2020-10-21T21:16:00Z
-    webUrl: "https://www.eastidahonews.com/2020/10/sams-club-is-putting-robot-janitors-in-all-of-its-stores-during-the-pandemic/"
-    type: article
-    provider:
-      name: East Idaho News
-      domain: eastidahonews.com
-    quality: 36
-    images:
-      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2020/10/21091629/hypatia-h_9086536140cda916b5d2bb64d2a49325-h_892487046d1df45361aa910c85fa7543.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-
 secured: "krvIfVgLsT7pUsn9Rlv/jdFDhcDdy1hOGB+DzivaO2dcyqxCOzrDuUDo8ycpzUtrdQJNyj2K7+fg86SLjohmi8ePMunaaNStG4bYCLJ3Bl+OoH4Mh02XLuzykGOn0Ppe+w5YHUQ078dZFnpxggwUohrBsKZpK908AWwU8ZPByrybJSc4a3jruyYrQBlnTjRlbZbU5kFjUpPFHloM2y9HiSkyzwJiitQ7ITKn3Y5Mt+ZSlr4mAisNq8iUd8BMRdPl5vJLmwxQFm7MasSwP0xDPFTPw6l4nDWHsgppINpBUbsGW6myNWcqenLGgK9fM6KPHHKcErtlBw1bLDJPC7f2XfmchZMjka1yKHb6hUPo3/w=;SYdmZ4v+TAnPVXxc+4oZbA=="
 ---
 

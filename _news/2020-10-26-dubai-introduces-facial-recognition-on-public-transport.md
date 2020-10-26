@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Dubai introduces facial recognition on public transport"
-excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
-publishedDateTime: 2020-10-26T07:56:00Z
-originalUrl: "https://dailytimes.com.pk/682083/dubai-introduces-facial-recognition-on-public-transport/"
-webUrl: "https://dailytimes.com.pk/682083/dubai-introduces-facial-recognition-on-public-transport/"
-ampWebUrl: "https://dailytimes.com.pk/682083/dubai-introduces-facial-recognition-on-public-transport/amp/"
-cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/682083/dubai-introduces-facial-recognition-on-public-transport/amp/"
+excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
+publishedDateTime: 2020-10-26T00:05:00Z
+originalUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html"
+webUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html"
+ampWebUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1"
+cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Daily Times
-  domain: dailytimes.com.pk
+  name: Al-Monitor
+  domain: al-monitor.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://dailytimes.com.pk/assets/uploads/2020/10/Dubai-introduces-facial-recognition-on-public-transport.jpg"
-    width: 720
-    height: 450
+  - url: "http://www.al-monitor.com/pulse/files/live/sites/almonitor/files/images/afppics/2020/10/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg"
+    width: 962
+    height: 642
     isCached: true
 
 related:
@@ -119,6 +119,6 @@ related:
       domain: hindustantimes.com
     quality: 23
 
-secured: "zH48X6jmT4h9mrZpsCN9Gcb4NdPAXbfybr+dctpVG/iIlPQFoObss1J+TQUnnJ5rfRo8KAC7e1vXBNjaV7OzQL5wLxgxnK3lq0vDMQRwqeAKDXPbyZgUxUOquRGuP8x8sz1+wnecHzRogeSZVqpNH+L3am97Vz7hKFPup7v+GDrIHW0obsOHD5nUjDmUEfkM39QYcKO1qCsmWBELaHKtPmWKKtoW8Ij2SZSFPkOqngzo9wVkZcuTCIEWm3Nuz8Ju03KUmnMWM7WaCGd97AP+qAtbO92/UIE7e6M9nHaRREkmpBNn17tWZ3s1GYwE0Bk69OrAgwjcz5UVMevkRaxyj793+iaJsYoIm37ONCVci70w0LtHqeLu7Qrr0E9hm8P2IMS+dFoVT6OrQSA5cF8Yb0ysNEijXtGqXCPuOMH3ZkXA2ZJz8EvJHyc4heDlH/bMw5/pLmJayCahdfJxfGpWubVivUV8iOtxepPsS2q0zuMcndne6HaRzb3kVQrka5+XQyLI7pk2R3gbmGFY6q574A==;ZHQozn7bEjch50vrpGJ7iw=="
+secured: "gcFg0rF3xYkfr+IpeEe1X3MiaYQstByQXVTqwXHJDPfLSzXsPihA7B03L9cLhfr3jmDXbAnJNEmycti0IeeBdmFkCcUYHfMUCX6bhGVflotI9buaeTNt5AKR3XxBHEE8+/BxOUyB5YI3XmsT5KLu7j8USa/AGIQF2G8hGH7Vwqdrhu8wFbvVIE+OWjHIJMPX2L0TOmaHYa2v8ORJGBTWbyHdC4DYYwo83FXrXpuG6UrIL2cNmpq4E/3p07L8V9Z+CMUdxUX1z3Li247eH8iYUF1EfybtJxg/66O/7pgb/4Y2XMD+7XMDITJ84USYfhBJtSBrSOyHTU5h+5JykktGWzaAk7+5BRxL7vhI902ayhQ=;HgefJvwGu2jzf67nLae/bA=="
 ---
 

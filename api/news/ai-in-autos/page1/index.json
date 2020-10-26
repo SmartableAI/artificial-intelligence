@@ -114,7 +114,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -270,7 +270,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 503,
+      "heat": 493,
       "tags": null,
       "images": [
         {
@@ -1240,40 +1240,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
-      "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
-      "excerpt": "ZURICH, Switzerland & MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201014005706/en/KNIME-and-H2O.ai-Accelerate-and-Simplify-End-to-end-Data-Science-Automation",
-      "originalUrl": "https://www.businesswire.com/news/home/20201014005706/en/KNIME-and-H2O.ai-Accelerate-and-Simplify-End-to-end-Data-Science-Automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-14-google-launches-autonomous-robot-to-analyse-farms-with-artificial-intelligence.md",
       "title": "Google launches autonomous robot to analyse farms with artificial intelligence",
       "excerpt": "Google has launched an autonomous robot which uses artificial intelligence to monitor crops. Powered by solar panels, the buggy travels through crops using cameras and sensors to predict agricultural yields and help farmers decide how much pesticide and fertiliser to use.",
@@ -1443,6 +1409,49 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020.md",
+      "title": "These 19 companies are racing to put driverless cars on the road by 2020",
+      "excerpt": "Ford and Chinese company Baidu recently invested $150 million in Velodyne, a manufacturer of a LiDAR system that allows self-driving cars to see the world around them. Ford showed its driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
+      "originalUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-53758040,width-640,resizemode-4,imgsize-1036801/tesla-is-aiming-to-have-its-driverless-technology-ready-by-2018-.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
         "images": null,
         "publishers": null,
         "authors": null

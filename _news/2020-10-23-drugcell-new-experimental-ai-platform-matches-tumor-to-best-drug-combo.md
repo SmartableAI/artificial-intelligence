@@ -7,7 +7,7 @@ originalUrl: "https://health.ucsd.edu/news/releases/Pages/2020-10-22-drugcell-ne
 webUrl: "https://health.ucsd.edu/news/releases/Pages/2020-10-22-drugcell-new-experimental-ai-platform-matches-tumor-to-best-drug-combo.aspx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "New AI Platform Matches Tumor to Right Drug Combination"
+    excerpt: "DrugCell, a new artificial intelligence system not only matches tumors to the best drug combinations, but does so in a way that makes sense to humans.’ Read More.."
+    publishedDateTime: 2020-10-23T16:51:00Z
+    webUrl: "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AI Reportedly Matches Tumors to Best Drug Combinations"
     excerpt: "University of California San Diego School of Medicine and Moores Cancer Center say they have created a new AI system called DrugCell that reportedly matches tumors to the best drug combinations but does so in way that clearly make sense."
     publishedDateTime: 2020-10-23T20:00:00Z
