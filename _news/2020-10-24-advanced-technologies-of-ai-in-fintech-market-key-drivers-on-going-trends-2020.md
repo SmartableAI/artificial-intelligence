@@ -43,22 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Signzy Bags $5.4 Mn From Arkam, Mastercard To Cater To Fintech KYC Demand"
-    excerpt: "Signzy will use this funding to strengthen its AI research and global sales It had ... on new customers Bengaluru-based AI-powered fintech company Signzy has raised $5.4 Mn in a funding round ..."
-    publishedDateTime: 2020-10-21T13:49:00Z
-    webUrl: "https://inc42.com/buzz/signzy-bags-5-4-mn-from-arkam-mastercard-to-cater-to-fintech-kyc-demand/"
-    ampWebUrl: "https://inc42.com/buzz/signzy-bags-5-4-mn-from-arkam-mastercard-to-cater-to-fintech-kyc-demand/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/signzy-bags-5-4-mn-from-arkam-mastercard-to-cater-to-fintech-kyc-demand/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 43
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2020/10/Social-2020-10-21T191132.038.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Fintech start-ups to get equity-free investments"
     excerpt: "Five start-ups that are building financial technology (fintech) solutions have been chosen to receive equity-free investments, as well as technical and business mentorship, for one year under the “Fintech for Impact” initiative of ING Bank and UN children’s agency Unicef,"
     publishedDateTime: 2020-10-22T23:05:00Z

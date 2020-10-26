@@ -37,20 +37,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Acer Releases SigridWave, an In-Game Live AI Translator Trained With Game Jargon, for Planet9"
-    excerpt: "Also announced are functionalities designed to enhance competitive play, such as a framework for hosting tournaments Editor's Summary SigridWave is an"
-    publishedDateTime: 2020-10-21T14:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/acer-releases-sigridwave-an-in-game-live-ai-translator-trained-with-game-jargon-for-planet9-301156514.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1177667/Acer_logo_Logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
 
 secured: "GKMp8fR1bjWLV3AqX3VPIfDfrFOAaq6eN83jyIYKuBlN6LOSK9Xeegvgew/UJS3d4wdBBYwyZvVVgCNd0wn7femCMACDktjcrRqn1dfyJxsT/wftqps+hRoJ43Z73qQzu0T+XAyCyX3RP9IULTRTkJPkLFiodTtGfkShTB3ej4QpMQeJOInd6QezIgyyl+tjgz8i/gN6wXMlf8A11VUDIHid7OheltcQrzbDLMTRaV2vrPSYW5VJT6KQ6DQi/5YO4oQ2WWRt4BboCbR8okkKc++OppLEUCPizw9gzzJ5kzR0q/r2EAgiUcjx4fl52KYaER3og84bWyLQ+D8EtxeyCem+qlDGz6qhnn+iDwOe/aTS8EEsmBv48FuU4fBsG6eYdken7x/z9My8T2FCXcEkRUsNAf/ylhDzQhotWNnl1jytnzPmxuh3HvVdaFv6h5w4TFf5+JsfpXz3RTxGvRzc0/FsRhq+3eDPbPDaHJODGsBXYCmu0zKcGcBFlN2UDkhf6p3eFSn+neLOdYvli0AMNA==;3dZkPTJtB7kBlxsfvDkfTg=="
 ---

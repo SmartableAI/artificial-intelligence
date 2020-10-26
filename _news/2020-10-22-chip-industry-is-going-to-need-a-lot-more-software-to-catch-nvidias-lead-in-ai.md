@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chip-industry-is-going-to-n
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/"
 type: article
 quality: 100
-heat: 170
+heat: 150
 published: true
 
 provider:
@@ -102,29 +102,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "stc and NVIDIA Team Up to Build Saudi Arabia’s First AI and Deep Learning Cloud Infrastructure"
-    excerpt: "Oct. 21, 2020 -- stc, a digital leader in the MENA region, is working with NVIDIA to build Saudi Arabia’s first AI and deep learning cloud infrastructure,"
-    publishedDateTime: 2020-10-21T14:31:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/stc-and-nvidia-team-up-to-build-saudi-arabias-first-ai-and-deep-learning-cloud-infrastructure/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 44
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/lumi-supercomputer-csc-405x228.png"
-        width: 405
-        height: 228
-        isCached: true
-  - title: "STC partners Nvidia on AI computing infrastructure"
-    excerpt: "Saudi operator STC said it;s working with Nvidia to build Saudi Arabia's first AI and deep learning cloud infrastructure, enabling domestic enterprises to adopt AI. STC is joining the Nvidia Partner Network (NPN) and will be the first cloud service provider in the region to bring AI capabilities to the"
-    publishedDateTime: 2020-10-21T14:55:00Z
-    webUrl: "https://www.telecompaper.com/news/stc-partners-nvidia-on-ai-computing-infrastructure--1358661"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "gIIxjSkjX3i0AaGqcUnsl/FLKOR78RtdsXzPnMpfu6e6vNytn6vJPtfe8rF3fn269eiWYWI6AJmEiBAnH30OVI/8BYoYuT+6ZAdQeg2aaOFXVe4lMaCpJtRBeErnat4QsTBtQThP1ihtOE3oWBsb0bQIPLNygxsPHXEFx7E3FMwAV3+rqbffiOluBvWjxlqKGkKWpSv8QdESa7QQl0+0Mv+DcF/DTJ2zt5bKLBBWMSd0e/PXkWIQxW5FzsJ67XuTBCq4JMD94Z/Bzg8txuhiwsBjnjVCTnWU7M6epdwCTmwuzhoxNAuNcsBtSJ71ICdYoDrORUVRVciS71pgGycSHeAjMwbbtEATdlfrEP/d8Y/AKnQ7Xah8pvax8Ap56bqdw/WZ6j/D8jHjGpRuwxsiCs7pHXOaodpjUYWxX5rWX05KMk6e5pSINjuv09NZAkv6Vscwr5ZqjAxwlcNvA61wXH7hBpQ0WAlHkKoYGD67EelE2xFvcFikUc1XHlfdboxPVoqsNeqjPbjUU7OGlG8zvA==;f5R2SR+D02bc08lv+1B8LQ=="
 ---

@@ -27,71 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "UPDATE 1-Saudis launch national artificial intelligence strategy"
-    excerpt: "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy."
-    publishedDateTime: 2020-10-21T13:23:00Z
-    webUrl: "https://uk.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUKL8N2HC4WS"
-    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN2761LZ"
-    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN2761LZ"
+  - title: "Saudi Deal With Huawei for Arabic-Specific AI Risks U.S. Ire"
+    excerpt: "Saudi Arabia said it would partner with Huawei Technologies Co. to develop Arabic-language recognition in artificial intelligence and train Saudi experts in the field, potentially putting the kingdom at odds with the U."
+    publishedDateTime: 2020-10-22T11:13:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 87
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M"
-        width: 817
-        height: 545
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTGRJAgjNHN4/v1/360x-1.jpg"
+        width: 360
+        height: 240
         isCached: true
-  - title: "Saudis launch national artificial intelligence strategy"
-    excerpt: "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy."
-    publishedDateTime: 2020-10-21T18:27:00Z
-    webUrl: "https://www.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUSL8N2HC4WS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2761LZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761LZ"
+  - title: "National Center for Artificial Intelligence and Huawei announce MoU to develop Saudi Arabia's AI capabilities"
+    excerpt: "NCAI and Huawei will partner on knowledge sharing, upskilling and technology development to build Saudi Arabia's AI expertise"
+    publishedDateTime: 2020-10-22T15:24:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/National_Center_for_Artificial_Intelligence_and_Huawei_announce_MoU_to_develop_Saudi_Arabias_AI_capabilities-ZAWYA20201022184811/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20201022184811/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20201022184811/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
+      name: Zawya
+      domain: zawya.com
+    quality: 53
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M"
-        width: 817
-        height: 545
+      - url: "https://images.zawya.com/pr/images/2020/4179_2020_10_22.jpeg"
+        width: 450
+        height: 300
         isCached: true
-  - title: "Saudis launch national artificial intelligence strategy"
-    excerpt: "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy. The National Strategy for Data and Artificial Intelligence (NSDAI) will seek to attract $20 billion in foreign and local investments by 2030,"
-    publishedDateTime: 2020-10-21T14:23:00Z
-    webUrl: "https://www.nasdaq.com/articles/saudis-launch-national-artificial-intelligence-strategy-2020-10-21"
-    ampWebUrl: "https://www.nasdaq.com/articles/saudis-launch-national-artificial-intelligence-strategy-2020-10-21?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/saudis-launch-national-artificial-intelligence-strategy-2020-10-21?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Saudi launches national artificial intelligence strategy"
-    excerpt: "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said."
-    publishedDateTime: 2020-10-22T00:19:00Z
-    webUrl: "https://www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "Saudis Launch National Artificial Intelligence Strategy"
-    excerpt: "Speaking at the opening of the kingdom's Global AI Summit, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) - which will spearhead the NSDAI strategy - sai"
-    publishedDateTime: 2020-10-23T00:33:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
   - title: "Saudi Arabia launches national artificial intelligence strategy"
     excerpt: "Saudi Arabia launched a national strategy on Wednesday to become a global leader in artificial intelligence (AI) by 2030, Saudi Press Agency reported."
     publishedDateTime: 2020-10-21T19:22:00Z
@@ -106,6 +73,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI plan points to Saudi Arabia's global ambitions, future beyond oil"
+    excerpt: "Saudi Arabia’s national AI strategy aims to not only fuel deployment of new technology and economic opportunities, but to elevate the nation’s geopolitical status."
+    publishedDateTime: 2020-10-25T02:17:00Z
+    webUrl: "https://www.cio.com/article/3587231/ai-plan-is-key-to-saudi-arabias-global-ambitions-and-future-beyond-oil.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/06/cio_middle_east_saudi_arabia_riyadh_cityscape_kingdom_tower_by_swisshippo_gettyimages-185927876_2400x1600-100800152-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IBM, Alibaba, and Huawei sign on to help Saudi Arabia's AI push"
+    excerpt: "IBM (NYSE:IBM), Alibaba (NYSE:BABA), and Huawei have each signed a memorandum of understanding with Saudi Arabia's artificial intelligence authority."
+    publishedDateTime: 2020-10-22T14:02:00Z
+    webUrl: "https://seekingalpha.com/news/3624860-ibm-alibaba-and-huawei-sign-on-to-help-saudi-arabias-ai-push"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 21
 
 secured: "XuuC1O82W8P0bYMc/HSl0N/tVQnAfethv9L6h9poPtKhlVXyQzmqVqRx7VnKWV/kSyhsMRJVBJSMnYEHDxN5WNpLerTcSJ+GSaaT3tjPiqr5ysAbTGpDe24x9ysQvyLjTOWpnDF63Ccy96Cv03fAOstUB5EczjByGTzlGW0KXGijHfpjxVE8j5RP/qNDJcQ14WuOJiwt+miEYalibNm6eW2BXvCZJvFm6UwFdOkIyn3Cfx//l1ND8EiK1195IbT/zFNhkZ02/d/GrYyCjFfYICdQryJt+4NhJ8TnlRU6Z7b+H6UtZYGCTNHlzm1LqiWECoO6Bd0I7mL5iqoyUnXlCP6JVct4f/m495RUtMMDhqD/4Pn7czkTJTZykfqJiWSJi66pe3aTtO9PvPaszPgXTxGFPaXmLwSqvT0ANaDe9lYA4VwlyYUMz/OQJJwVu0DplZvm62Bvrrxz9WuNjsi51/N7ODN3SY7mP+ObNOtKfgrqFnqrj4My/j9BRy/MnEXLj2eNEplqnRRRdsZwZ11cAw==;E/T4+I7ZKjHp2zkBOvod5A=="
 ---

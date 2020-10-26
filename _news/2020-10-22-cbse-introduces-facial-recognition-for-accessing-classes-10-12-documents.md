@@ -25,101 +25,83 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai Introduces Facial Recognition On Public Transport"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition."
-    publishedDateTime: 2020-10-25T12:32:00Z
-    webUrl: "https://www.barrons.com/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
-    ampWebUrl: "https://www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
+  - title: "Police are using facial recognition for minor crimes because they can"
+    excerpt: "Law enforcement is tapping the tech for low-level crimes like shoplifting, because there are no limits. But the tool often makes errors."
+    publishedDateTime: 2020-10-24T12:06:00Z
+    webUrl: "https://www.cnet.com/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
+      name: CNET
+      domain: cnet.com
+    quality: 91
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP5132118745041328236684635701140320891084-transport-diplomacy-uae-security-dubai-technology-1.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "Coming soon: Facial recognition system for Dubai Metro stations"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday as a new simulation and training facility was launched for the Transport Security Department in the emirate. The Hamdan Smart Station for ..."
-    publishedDateTime: 2020-10-25T17:41:00Z
-    webUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
-    ampWebUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 74
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20201025/ARTICLE/201029285/AR/0/AR-201029285.jpg&NCS_modified=20201025182405&exif=.jpg"
-        width: 1194
-        height: 776
-        isCached: true
-  - title: "Dubai introduces facial recognition on public transport"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition."
-    publishedDateTime: 2020-10-26T05:13:00Z
-    webUrl: "https://www.thejakartapost.com/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
-    type: article
-    provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 74
-    images:
-      - url: "https://img.jakpost.net/c/2020/10/26/2020_10_26_106391_1603685799._medium.jpg"
-        width: 747
-        height: 498
-        isCached: true
-  - title: "Dubai set to introduce facial recognition system on public transport"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
-    publishedDateTime: 2020-10-25T20:26:00Z
-    webUrl: "https://www.business-standard.com/article/international/dubai-set-to-introduce-facial-recognition-system-on-public-transport-120102600046_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/dubai-set-to-introduce-facial-recognition-system-on-public-transport-120102600046_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/dubai-set-to-introduce-facial-recognition-system-on-public-transport-120102600046_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 74
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/26/full/1593115870-6713.jpg&width=1200"
+      - url: "https://cnet4.cbsistatic.com/img/9S5f_XMCKYD4FKVdlgLgOJNQlI0=/1200x630/2020/10/23/f1d69bbc-1345-40f4-9139-ef38598f86af/gettyimages-1184155312.jpg"
         width: 1200
-        height: 900
+        height: 630
         isCached: true
-  - title: "Dubai to introduce facial recognition system on public transport"
-    excerpt: "DUBAI: Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has proven its effectiveness to identify suspicious ..."
-    publishedDateTime: 2020-10-26T03:26:00Z
-    webUrl: "https://www.dawn.com/news/1587067"
-    ampWebUrl: "https://www.dawn.com/news/amp/1587067"
-    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1587067"
+  - title: "Baltimore City Council Split on Banning Facial Recognition"
+    excerpt: "A Baltimore City Council subcommittee on Tuesday deadlocked on a bill that would have banned facial-recognition technology there, preventing the measure from going before the full council."
+    publishedDateTime: 2020-10-22T02:37:00Z
+    webUrl: "https://www.wsj.com/articles/baltimore-city-council-split-on-banning-facial-recognition-11603316264"
     type: article
     provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 74
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
     images:
-      - url: "http://www.dawn.com/_img/social-default.jpg"
-        width: 375
-        height: 375
+      - url: "https://images.wsj.net/im-247915/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Dubai introduces facial recognition on public transport ahead of global Expo"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
-    publishedDateTime: 2020-10-25T12:42:00Z
-    webUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-    ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+  - title: "Activists Build Facial Recognition to ID Cops Who Hide Their Badges"
+    excerpt: "In order to hold police accountable when they try to hide their identities, a growing number of activists are developing facial recognition tools that identify cops, The New York Times reports — a striking inversion of the way cops tend to use facial recognition on protestors and suspects."
+    publishedDateTime: 2020-10-21T19:32:00Z
+    webUrl: "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
+    ampWebUrl: "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp"
     type: article
     provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 71
+      name: Futurism
+      domain: futurism.com
+    quality: 59
     images:
-      - url: "https://vid.alarabiya.net/images/2020/10/25/1c064d49-8679-4ea3-8df5-502e0dc16e72/1c064d49-8679-4ea3-8df5-502e0dc16e72_16x9_600x338.jpg?width=466"
-        width: 466
-        height: 262
+      - url: "https://wp-assets.futurism.com/2020/10/activists-build-facial-recognition-id-cops-hide-badges-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Facial Recognition Technology and the Future of Policing"
+    excerpt: "The replacement of systemic, interpersonal racism with hard-coded, digital racism is not the reform policing needs."
+    publishedDateTime: 2020-10-21T17:39:00Z
+    webUrl: "https://www.fairobserver.com/business/technology/benjamin-verdi-facial-recognition-technology-policing-surveillance-racism-news-15437/"
+    ampWebUrl: "https://www.fairobserver.com/business/technology/benjamin-verdi-facial-recognition-technology-policing-surveillance-racism-news-15437/amp/"
+    cdnAmpWebUrl: "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/business/technology/benjamin-verdi-facial-recognition-technology-policing-surveillance-racism-news-15437/amp/"
+    type: article
+    provider:
+      name: Fair Observer
+      domain: fairobserver.com
+    quality: 59
+    images:
+      - url: "https://www.fairobserver.com/wp-content/uploads/2020/10/Facial-recognition-2.jpg"
+        width: 938
+        height: 450
+        isCached: true
+  - title: "Protesters are using facial recognition technology to ID police"
+    excerpt: "For years, law enforcement agencies at the state and federal levels have used often faulty and always creepy facial recognition technology to try to identify civilians. Now the table is being turned."
+    publishedDateTime: 2020-10-21T20:34:00Z
+    webUrl: "https://www.mic.com/p/protesters-are-using-facial-recognition-technology-to-id-police-39803343"
+    ampWebUrl: "https://www.mic.com/p/protesters-are-using-facial-recognition-technology-to-id-police-39803343/amp"
+    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/protesters-are-using-facial-recognition-technology-to-id-police-39803343/amp"
+    type: article
+    provider:
+      name: Mic
+      domain: mic.com
+    quality: 59
+    images:
+      - url: "https://imgix.bustle.com/uploads/getty/2020/10/21/533e1116-e35f-422a-a96a-b0f2521055a5-getty-1228332311.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "CBSE introduces facial recognition systems for accessing digital documents"
     excerpt: "Using the state-of-the-art facial recognition system, the CBSE will enable students to download their digital academic documents of Class 10 and 12. This computer application matches human face from a digital image already stored in the database."
@@ -135,17 +117,20 @@ related:
         width: 780
         height: 405
         isCached: true
-  - title: "CBSE introduces ‘Facial Recognition System’ for accessing digital academic documents of Class 10 and 12"
-    excerpt: "Central Board of Secondary Education (CBSE) has now introduced “Facial Recognition System” for accessing digital documents."
-    publishedDateTime: 2020-10-22T12:34:00Z
-    webUrl: "https://www.hindustantimes.com/education/cbse-introduces-facial-recognition-system-for-accessing-digital-academic-documents-of-class-10-and-12/story-XmoqbgNRCeVD9X91zzxFzM.html"
-    ampWebUrl: "https://m.hindustantimes.com/education/cbse-introduces-facial-recognition-system-for-accessing-digital-academic-documents-of-class-10-and-12/story-XmoqbgNRCeVD9X91zzxFzM_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/education/cbse-introduces-facial-recognition-system-for-accessing-digital-academic-documents-of-class-10-and-12/story-XmoqbgNRCeVD9X91zzxFzM_amp.html"
+  - title: "Facial recognition datasets are being widely used despite being taken down due to ethical concerns. Here’s how."
+    excerpt: "Computer vision research datasets have been criticized for violating subjects’ privacy, reinforcing cultural biases, and enabling questionable applications. But regulating their use is hard. For example,"
+    publishedDateTime: 2020-10-21T17:33:00Z
+    webUrl: "https://freedom-to-tinker.com/2020/10/21/facial-recognition-datasets-are-being-widely-used-despite-being-taken-down-due-to-ethical-concerns-heres-how/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 23
+      name: Freedom to Tinker
+      domain: freedom-to-tinker.com
+    quality: 36
+    images:
+      - url: "https://ftt-uploads.s3.amazonaws.com/wp-content/uploads/2019/09/13111525/FtT-CITP-Logo.png"
+        width: 410
+        height: 210
+        isCached: true
 
 secured: "VHZKr9rIIr469/QqKaESpYzmECd1oaH9fLxbuv74rotk4VXiouAuG1jepvruWOu1+BCuzbA19BHWQgDqnmixaw3YphXxWp+ZAFE5UbNcVkX/gEiansPEoN9hf3Vbcnqx6Hfy8VvaItTo+2xfH/QxRx9NNQYWscmzZpsEpXDXwq2GamjEbTtwg78XO8E8jWi3M//tUEquwziTAJbHTLZLJxVX2OXhhzO+810PCa1tY10HSUdHzjci+l+FbH2wOmYFUIT0FHCajDHzL+6U0mfkbcnBfvh58miuV43oVl+s46MaX9CshSavYuhFE0ySONUnhMWktAfcQmHFYj/wG7U7PQ21hW+D5z9tK/lCFMVr/rxRyBpPvDyL74RnrUfQywkuUE8SG3veZsFrNJ+TOe7BTXr1akYig+FlUudv6ya8rJ9tQFjRrueO8v8PDK26nnxIJKDvsSvyWG2OHGGdtA3B6OV5YPn2cgoA8vE2ZJwnIJBJFdcNwzYBVnJmsZYvF6bAE3nWgAwssRBwNW4StAUDQg==;tpwIAOiZJkD1pQDAiyLEgQ=="
 ---

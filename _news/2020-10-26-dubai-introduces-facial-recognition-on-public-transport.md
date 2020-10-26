@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Dubai introduces facial recognition on public transport"
-excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition."
-publishedDateTime: 2020-10-26T05:13:00Z
-originalUrl: "https://www.thejakartapost.com/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
-webUrl: "https://www.thejakartapost.com/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
-ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
-cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/10/26/dubai-introduces-facial-recognition-on-public-transport.html"
+excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
+publishedDateTime: 2020-10-26T07:56:00Z
+originalUrl: "https://dailytimes.com.pk/682083/dubai-introduces-facial-recognition-on-public-transport/"
+webUrl: "https://dailytimes.com.pk/682083/dubai-introduces-facial-recognition-on-public-transport/"
+ampWebUrl: "https://dailytimes.com.pk/682083/dubai-introduces-facial-recognition-on-public-transport/amp/"
+cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/682083/dubai-introduces-facial-recognition-on-public-transport/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Jakarta Post
-  domain: thejakartapost.com
+  name: Daily Times
+  domain: dailytimes.com.pk
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://img.jakpost.net/c/2020/10/26/2020_10_26_106391_1603685799._medium.jpg"
-    width: 747
-    height: 498
+  - url: "https://dailytimes.com.pk/assets/uploads/2020/10/Dubai-introduces-facial-recognition-on-public-transport.jpg"
+    width: 720
+    height: 450
     isCached: true
 
 related:
@@ -107,34 +107,6 @@ related:
         width: 466
         height: 262
         isCached: true
-  - title: "CBSE Introduces Facial Recognition For Accessing Classes 10, 12 Documents"
-    excerpt: "Now, CBSE students will be able to download their digital documents from DigiLocker without using AADHAR and phone numbers."
-    publishedDateTime: 2020-10-22T12:35:00Z
-    webUrl: "https://www.ndtv.com/education/cbse-introduces-facial-recognition-for-accessing-classes-10-12-documents"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 38
-    images:
-      - url: "https://cache.careers360.mobi/media/presets/860X430/article_images/2020/10/22/digilocker-cbse-result-2020-date.jpg"
-        width: 860
-        height: 430
-        isCached: true
-  - title: "CBSE introduces facial recognition systems for accessing digital documents"
-    excerpt: "Using the state-of-the-art facial recognition system, the CBSE will enable students to download their digital academic documents of Class 10 and 12. This computer application matches human face from a digital image already stored in the database."
-    publishedDateTime: 2020-10-23T04:17:00Z
-    webUrl: "https://citytoday.news/cbse-introduces-facial-recognition-systems-for-accessing-digital-documents/"
-    type: article
-    provider:
-      name: Mysuru
-      domain: citytoday.news
-    quality: 37
-    images:
-      - url: "https://citytoday.news/wp-content/uploads/2020/10/Page-5-anchor-1-photo-Oct-23-780x405.png"
-        width: 780
-        height: 405
-        isCached: true
   - title: "CBSE introduces ‘Facial Recognition System’ for accessing digital academic documents of Class 10 and 12"
     excerpt: "Central Board of Secondary Education (CBSE) has now introduced “Facial Recognition System” for accessing digital documents."
     publishedDateTime: 2020-10-22T12:34:00Z
@@ -147,6 +119,6 @@ related:
       domain: hindustantimes.com
     quality: 23
 
-secured: "2WHCmRddqYdIA+/sjt98t3c6xohJbDuqxIrPKemgyqgfOiNJa8GzfaEsFV5Zg/PEX5cHoS4WeNB3CNMJ2+a3dj03utIrVHPNDXq3gkGdQ12LGMw+N5oQR4KG5SL6k0jyUE6iAuaaT1u6NVD1qNQrwxIbV49+rpC06/QE4y8OzKqMN8kFYZyfDvl9a+5phJjmZt3efSts+bEGseTUUQVFGQ5iDrhsTM3N0L6XRhtzdakZEv0LZIDQ6veyTUSOIIjna+kRCNFVhu+4sqUyiTz0HaueHct8NSnX3eH7xwESB4/FL+dVWcDWhr3qskc776gVMjs+heeig057BVZjcgK0ssoJc0+x+JXzV+vjaQ1t/L4=;hvYctgLtVQZ4LSB7a5mvPQ=="
+secured: "bhHvAdzSaPS5nR6Rp0pkLJ2g1GoB5RCW21NBWbKJ6x6ycZqfZTRV46I9MILnC39B/Uy0j+vYcMUctY6EqaZIdggmvMdm/Q2a6iWyJ6FFFlqq5ZocitrLLfpR8m0VvuBx/ploIF2/yWMUY/9xJMg8aQ4KfUU1hZkJe4fBl46RRbiXROJRVup2wE2Ls9o2JWd3zAtPfixElYhhrTLVbFtuwEz27vlMWvn4D0vhrfCbceqD3WUEQesTi00dvWSkfhUOSWWj3tkimnJL1GqH0/DR9tM3MK0DP5jl5xhv+8jxe43CK26qTWmSCj6uLpJlEdoe9N2VzKhbIDokLnjJo1em2u1ht8mHnKkCtIhf5h2DCCE=;SBKFrBp00FgSqhGGVu5LnA=="
 ---
 

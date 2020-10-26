@@ -1,24 +1,29 @@
 ---
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
-excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
-publishedDateTime: 2020-10-22T07:30:00Z
-originalUrl: "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/"
-webUrl: "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/"
+excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR."
+publishedDateTime: 2020-10-22T10:27:00Z
+originalUrl: "https://www.oaoa.com/news/business/data-reply-achieves-aws-machine-learning-competency-status/article_9c6fc609-9c34-558a-9789-831d25f3a277.html"
+webUrl: "https://www.oaoa.com/news/business/data-reply-achieves-aws-machine-learning-competency-status/article_9c6fc609-9c34-558a-9789-831d25f3a277.html"
 type: article
-quality: 38
-heat: -1
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
+
+images:
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
+    isCached: true
 
 related:
   - title: "Ironside Achieves AWS Advanced Consulting Partner Status"
@@ -42,6 +47,6 @@ related:
       domain: finanznachrichten.de
     quality: 36
 
-secured: "/LDU/rbyOlqCFx4vPFGmqhczq4GH+imTKDm2YcGtf/ntLZC9yY+F6MHk4iwHhH8o92Umofn/YH6mUFQtE+M830rc++xdBYzrEQAzGW2JPKCKVPGomGPIXF8XaEPYRdejnnCG8u7ceVfj0VXYbZhWxGdUNbBP6qtgAa8bPFqBCKXtlqTmqoFsJHcCTz76S0ltxIFd9+JFcpWtSsHEBWNSTpOQvcOcXQucCTdZJrLEog67DmFK85xGURovUKk7FM3jLEd/cboqdvil6mc+UvMwSycWrAqhtp4Vq5xLCOX42pjBo2YTxc54KyiaAAFG0A9C2XrYTeqQU3FLRSz8YpiVbNa/za6gM5qa68ftFO7F/3A=;1t2+efIC44zANjCOYKGYpA=="
+secured: "FfSlFkC2Rwfo1UxrSSFlDEnTXEGqc7Q/bX7EYQxspuLbqIiNEKJX48wZS+1Ilkil/inlzVJ5ewWEZYuqk+k7qC1tTdc+vC69ihMFaYIo+iWsdThDAJU+pKOVcCCmdwhwilOnE/cFUQDAqicVfeLFhwTdgVBHm9OjyL+Ukqj+mhLktvFtknwLcXom3MNsqIOclIbvrod62ZF8bsPR7vaQXcz/v154i9WFueGb8hG96zXx6P13K8ZgGBPmJczvOyC6xpbKhPf8S2BXD3EKqN9nYHJTv9c4b/5/ZoHKAknJdlm2ptu9xmMX16IMafZC62jweYphRmzLpPQ9LVCYL5wM4iOSpd3qCE0AHIWXdxpXfY8=;BIzLBIBvyPfPZVM6u9a2oA=="
 ---
 

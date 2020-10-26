@@ -103,29 +103,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "stc and NVIDIA Team Up to Build Saudi Arabia’s First AI and Deep Learning Cloud Infrastructure"
-    excerpt: "Oct. 21, 2020 -- stc, a digital leader in the MENA region, is working with NVIDIA to build Saudi Arabia’s first AI and deep learning cloud infrastructure,"
-    publishedDateTime: 2020-10-21T14:31:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/stc-and-nvidia-team-up-to-build-saudi-arabias-first-ai-and-deep-learning-cloud-infrastructure/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 44
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/lumi-supercomputer-csc-405x228.png"
-        width: 405
-        height: 228
-        isCached: true
-  - title: "STC partners Nvidia on AI computing infrastructure"
-    excerpt: "Saudi operator STC said it;s working with Nvidia to build Saudi Arabia's first AI and deep learning cloud infrastructure, enabling domestic enterprises to adopt AI. STC is joining the Nvidia Partner Network (NPN) and will be the first cloud service provider in the region to bring AI capabilities to the"
-    publishedDateTime: 2020-10-21T14:55:00Z
-    webUrl: "https://www.telecompaper.com/news/stc-partners-nvidia-on-ai-computing-infrastructure--1358661"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "4qIN6OpoLWDvnh2YTlAn4CTbgAGDuU4ImTpsIUZoPlXwT0uLH34ORSG9unhuk4cWe1IyjBEd/QIDHO+LqeoA2BVqSDy0Vfn5yUDSO2Bu0hFR4aSQ1p+TetmAymamblAidM/ctJmeD2Fr00skWnAZU8JcB+n5N6cjAEcmdZdDkJIi9g2rBqZujoRUeYTHWn1G7/7p0fr7s3gh/hh/VJRzGuro2lXTgfJjMykj51a2tq+CJtHnze8r4AGPhb7TPl8ffzzBWsrfKUblZgbJuaabfoz6pQG0w5XxQ/CUC/+ze9A9zzobdZpJ9Gdxai+wTu/C0+JEqRAJps0IiTNGo6ybfJBno/LDJLiRtGDhErD1wrqDROx/1aKnOUJUxKPJSIgOV0Gk8X9y1HBx1bAC9WiR3dhfrF10RpSc66cm73FhsdXv/FTGKQzeno8d/wYmw+a/Nc8r3sAJdaaqHCNym3m1vXQZ6LSiCkTxRed/8V7I4R4fFr+BT0PAqa6mIF5LAziLjIo6GdXIBA7nG/lB5zg9VA==;+bjHF46zsrOhm5NrH0k65Q=="
 ---

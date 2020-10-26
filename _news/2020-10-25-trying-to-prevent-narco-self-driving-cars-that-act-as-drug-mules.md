@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/70/25/20153683/5/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "How Self-Driving Trucks would Show a New Direction to the Trucking Industry"
+    excerpt: "Autonomous vehicles are no longer limited to mere theory. They are already becoming popular among people, and self-driving trucks are expected to make their way onto the roads in the years to come. A survey discovered that more than 50 percent of small ..."
+    publishedDateTime: 2020-10-26T07:01:00Z
+    webUrl: "https://www.cioapplications.com/news/how-selfdriving-trucks-would-show-a-new-direction-to-the-trucking-industry-nid-6719.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 22
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/rus3n450.jpg"
+        width: 450
+        height: 308
         isCached: true
 
 secured: "V1jJ3xeZ9BigF/GuzGImqSFavdIAYpW4u0yxjL0sryihq6sBpfhsQEBi4kgXpavD7z05YjB6ce2Kw4TYf2X+50fWxikk3I+TU+Gq23HMaXFeHcUiz73LlHyHGsGdICOUvzUThIwH48FXTqsLrlZj8phBDu12/CtneK+ss0AhZBY/2wi49ebLlAXDUD5Nq8d3alY6CfWjWQ8UFkryIsbK/PZWxnxkCdlP/niKYgNdLXYkOuZ3bflE4clGUFcHolAnl+l9W7VBBJ0Vpdck02CWENcFrOg5+R7Zg07PuIN4r2u//ts2gks8vchpwztZxKYn49ryulg00tu6nGPAkCEo5r/WtZhNoejMKm9BGR+/a53o9yReooleTkl9cikc9jZQsNnVe4bzZccI5lUeXwxebQxcxQYBVUQv+EEGl89Q8F6KznToAzo2I/Qqu4MdBjZXDhspmnFcsgh5cgcafp0GLrorSuTYwtgxkvJ+lzGIATHZZgKkJ6zbY4lqhMDn0uxQxszj8Np+GOcjoIMcgPTBsA==;BBvCU8h7qyno6RYZnJvNpQ=="

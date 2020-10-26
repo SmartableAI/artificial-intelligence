@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20201021005541/en/Anyscale-
 webUrl: "https://www.businesswire.com/news/home/20201021005541/en/Anyscale-Announces-40M-in-Series-B-Funding-Led-by-NEA"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Anyscale — founded by a team of Berkeley researchers — just raised a $40 million Series B to build the 'holy grail' for AI developers"
-    excerpt: "Anyscale, founded by a team of researchers from UC Berkeley, builds on Ray, an open source project that can help run powerful AI applications."
-    publishedDateTime: 2020-10-21T14:21:00Z
-    webUrl: "https://www.businessinsider.com/anyscale-open-source-project-ray-40-million-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-    images:
-      - url: "https://i.insider.com/5f8f3c66dace450018a3e465?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "zxhwDxWs0VERwtjrUffaaq+yvfprjqo8a8EmRcTn6E5/JJmrzIh7xi1ghu/M2I57XbHiXRDNURO+HLi3cEvyLRqjmxSZWxY7P2e8z9cyoT5H/aeLAelAPMAin3nT2NPSe4u2CZZ/Kt8SPS50fFD72NN13FCGdJjtNt000HF2soByRTjbnwFHUgzSq8HAaXtNkFcY9G0Qt0JlKC2AhW/3kTDzkNcPhCu4bpIGU8qVAfSBgEHRWt+4MdDko7GdGAKAqwOTL5L8VS920t83OJllJ3cz9L5671zwAT39jIdrveOI1i08gLJ3CNS+LHa9ylehSTmAoOAHAdMpLXPugeupf3QzY27ZGdq14e3GG67hELbXL0+QIE6j/i9Qln42ZRbLR4vdPTkVRpAQV0vEgVidtxOEyEaxRE+jkL/RNmE1ft/SaWEt3JNHpeJ/UTeFpH8OEeTSb0F/K2fwXYjBEqQwoQz69v0a0zjvrCVz4iaJhLhYR72O70JIkwe4QVTXFJwzCriqGYx697HK5JgJVT1BrQ==;0cL/B2nsi6WpziTw7A+biw=="
 ---

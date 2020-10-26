@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-22/saudi-arabia-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch: Saudi Arabia launches artificial intelligence strategy at Global AI Summit"
+    excerpt: "Saudi Arabia announced its National Strategy for Data and AI at the Global AI Summit, hosted virtually by the Kingdom, on Wednesday. The strategy was announced by Saudi Data and Artificial Intelligence Authority (SDAIA) President Dr Abdullah bin Sharaf Al-Ghamdi,"
+    publishedDateTime: 2020-10-24T02:49:00Z
+    webUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside"
+    ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 69
+    images:
+      - url: "https://vid.alarabiya.net/images/2020/10/21/597d46c8-746e-4be9-b4a0-39a135399dca/597d46c8-746e-4be9-b4a0-39a135399dca_16x9_600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "National Center for Artificial Intelligence and Huawei announce MoU to develop Saudi Arabia's AI capabilities"
     excerpt: "NCAI and Huawei will partner on knowledge sharing, upskilling and technology development to build Saudi Arabia's AI expertise"
     publishedDateTime: 2020-10-22T15:24:00Z
@@ -45,6 +61,20 @@ related:
       - url: "https://images.zawya.com/pr/images/2020/4179_2020_10_22.jpeg"
         width: 450
         height: 300
+        isCached: true
+  - title: "Saudi Arabia launches national artificial intelligence strategy"
+    excerpt: "Saudi Arabia launched a national strategy on Wednesday to become a global leader in artificial intelligence (AI) by 2030, Saudi Press Agency reported."
+    publishedDateTime: 2020-10-21T19:22:00Z
+    webUrl: "https://www.thestar.com.my/news/world/2020/10/22/saudi-arabia-launches-national-artificial-intelligence-strategy"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI plan points to Saudi Arabia's global ambitions, future beyond oil"
     excerpt: "Saudi Arabia’s national AI strategy aims to not only fuel deployment of new technology and economic opportunities, but to elevate the nation’s geopolitical status."

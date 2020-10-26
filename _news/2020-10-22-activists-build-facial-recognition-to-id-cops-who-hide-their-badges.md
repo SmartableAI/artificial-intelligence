@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Activists Turn Facial Recognition Tools Against the Police"
-    excerpt: "met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery; they would also prevent ..."
-    publishedDateTime: 2020-10-21T14:04:00Z
-    webUrl: "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 104
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/21/business/21coprecognition-01/21coprecognition-01-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Police are using facial recognition for minor crimes because they can"
     excerpt: "Law enforcement is tapping the tech for low-level crimes like shoplifting, because there are no limits. But the tool often makes errors."
     publishedDateTime: 2020-10-24T12:06:00Z
@@ -56,22 +40,6 @@ related:
     quality: 91
     images:
       - url: "https://cnet4.cbsistatic.com/img/9S5f_XMCKYD4FKVdlgLgOJNQlI0=/1200x630/2020/10/23/f1d69bbc-1345-40f4-9139-ef38598f86af/gettyimages-1184155312.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Best facial recognition security cameras of 2020"
-    excerpt: "Select home security cameras have facial recognition, an advanced feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ..."
-    publishedDateTime: 2020-10-22T02:20:00Z
-    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -121,47 +89,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "CBSE now has a facial recognition tool and it's problematic"
-    excerpt: "Central Board of Secondary Education (CBSE) students will now be able to use a facial recognition system to download their academic documents for the tenth and twelfth grade. Essentially, students will be able to download their academic documents just by ..."
-    publishedDateTime: 2020-10-23T13:42:00Z
-    webUrl: "https://www.medianama.com/2020/10/223-cbse-facial-recognition/"
+  - title: "CBSE Introduces Facial Recognition For Accessing Classes 10, 12 Documents"
+    excerpt: "Now, CBSE students will be able to download their digital documents from DigiLocker without using AADHAR and phone numbers."
+    publishedDateTime: 2020-10-22T12:35:00Z
+    webUrl: "https://www.ndtv.com/education/cbse-introduces-facial-recognition-for-accessing-classes-10-12-documents"
     type: article
     provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 39
+      name: NDTV
+      domain: ndtv.com
+    quality: 38
     images:
-      - url: "https://i0.wp.com/www.medianama.com/wp-content/uploads/18itl009_facial_recognition_graphic.jpg?fit=1400%2C616&#038;ssl=1"
-        width: 1400
-        height: 616
+      - url: "https://cache.careers360.mobi/media/presets/860X430/article_images/2020/10/22/digilocker-cbse-result-2020-date.jpg"
+        width: 860
+        height: 430
         isCached: true
-  - title: "NEC Unveils Mask-on Facial Recognition"
-    excerpt: "Japanese electronics company NEC has developed facial recognition technology that can identify people even when they are wearing a mask -- a breakthrough that promises many practical applications amid the pandemic."
-    publishedDateTime: 2020-10-25T18:39:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/videos/20201023212821053/"
+  - title: "CBSE introduces facial recognition systems for accessing digital documents"
+    excerpt: "Using the state-of-the-art facial recognition system, the CBSE will enable students to download their digital academic documents of Class 10 and 12. This computer application matches human face from a digital image already stored in the database."
+    publishedDateTime: 2020-10-23T04:17:00Z
+    webUrl: "https://citytoday.news/cbse-introduces-facial-recognition-systems-for-accessing-digital-documents/"
     type: article
     provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 39
+      name: Mysuru
+      domain: citytoday.news
+    quality: 37
     images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/videos/20201023213308229_898390_L.jpg"
-        width: 640
-        height: 360
+      - url: "https://citytoday.news/wp-content/uploads/2020/10/Page-5-anchor-1-photo-Oct-23-780x405.png"
+        width: 780
+        height: 405
         isCached: true
-  - title: "Facial recognition utilized by protestors around the world to identify police"
-    excerpt: "Portland’s ban on the use of facial recognition technology does not apply to individuals, which is why Christopher Howell has been allowed to continue identifying police officers in the city who"
-    publishedDateTime: 2020-10-23T20:40:00Z
-    webUrl: "https://www.biometricupdate.com/202010/facial-recognition-utilized-by-protestors-around-the-world-to-identify-police"
+  - title: "Facial recognition datasets are being widely used despite being taken down due to ethical concerns. Here’s how."
+    excerpt: "Computer vision research datasets have been criticized for violating subjects’ privacy, reinforcing cultural biases, and enabling questionable applications. But regulating their use is hard. For example,"
+    publishedDateTime: 2020-10-21T17:33:00Z
+    webUrl: "https://freedom-to-tinker.com/2020/10/21/facial-recognition-datasets-are-being-widely-used-despite-being-taken-down-due-to-ethical-concerns-heres-how/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: Freedom to Tinker
+      domain: freedom-to-tinker.com
     quality: 36
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
+      - url: "https://ftt-uploads.s3.amazonaws.com/wp-content/uploads/2019/09/13111525/FtT-CITP-Logo.png"
+        width: 410
+        height: 210
         isCached: true
 
 secured: "J+gOkl6UDYgf7+2ketBClqWknN7AQRdBpvjdewYynU7VbnCuSYcyEB9pDpXAWeoBu4UqhaBNNyBznaVtfsKWGmNzoFAuJUO/FSue2F+LIEWkVgVDbDGrjbJabaQwsEluRkgAbSQsDUDN7PaoKC35Wj0bZlr6lX57yy6Tc/PULJVbWH3n45HvYXtY4r4rP4+E4SLv9NmSBhmxEqH+QB/qzt8EqLlaAlM3xH+ttmv3npvXUsXm3foiMbDGL8OztcFkJ3PQlBmV7aWWbjDINwH7WBLIRRRAdN95daJjNbEXoQgdqYFhUFKC2LSRwGd0tF2aSi4WikE6CpUgGP/Xg8DPajNtHLjfOQNQ49sher0z3qQgTnziRWW7gcbIgW6Vx4bJFtXSzCOHCsjpZLPShpZ3firrsK8gNBYmZcXkr0a41KIelyxhFHXc1wUZzWqzhpw2E61WnqmTGc8i5NJGj60t5K6L527K7GfjDV1TVT3QIh5rFPdNNMbOLiZnCPnGEWfBUb+Hu328K3oldQ82ERzGvg==;xUOIMDHgZe0+hYvSU0Pp9A=="

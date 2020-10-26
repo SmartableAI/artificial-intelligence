@@ -14,8 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
-  - AI in Autos
 
-secured: "VzuILpyWcGMeJ+mv2ykj4TuECAm72u3DN+fZ7m6oHnq5fAExbjtGXbHw4vjo6J9d1YTq3ydTxnXlDXT1fpEVqqZNLL0Fk700/GnKUXaVvfrdW87CFHlx672WceAJUXxLCzXOLsTg3P/H0wgJI19UVeQNXjI4ulKB+EObx+le9UcyoPF+Zse/bZdEUl+sgNcSk+4Ff2y9V5ZXujvBYojOETMbMNviCu+madjsCJTaShiUxmAYdWXjuh2NFohsKJ63k2RQCQKP8De+PAUv3kMuEp4zsEFDMq0yDhpikUAMsbX4yJ49Z73NHSyPV9y6wfF7TR/hlKtbW0uWaaRZqVbK1SHKACtmQbTUPZuLpFJQesk=;Wzb6kSkmDv90devHi1sVvg=="
+secured: "8Nib+80Fi2KciHD/6vvV/9TTMefVP4WhF2iH5PPU/9UNPjLcGPF6ht2FueklxEWxSqPLJyRtulN3/rrL7i4nyi/BKlWLvLzWYvmVpuy8cs9gyQHer+JZ2IT1/7MY8LCnA3OjCZjq0U7TDTq58SNNmUSy1y769jxOV3n3pir61KzbBT9CzLb55yACq8L0xnMDsFnRoSm9M02ewwee+zC761sSS7Rgj0bvwVqCi0qGXdhGh6njZ1KzxwosLx++AEjkTLM91Y96hw3Irg7ZBM8XFlVS6zCzhwoavJ5kqfChTiMA2ulAFQ68ycWb6i4eNwAX+LFawHbzp8FCrd7JblPhb74o8XuxpQ2gAmRsOu8XcxQ=;ZolVaGky0J/c+lWkoknWrw=="
 ---
 

@@ -328,20 +328,20 @@ related:
         height: 315
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "The conflicting messages have experts in the field accusing Tesla of deceptive, irresponsible marketing that could make the roads more dangerous."
-    publishedDateTime: 2020-10-23T15:11:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
+    publishedDateTime: 2020-10-23T00:53:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 59
     images:
-      - url: "https://media.khou.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://s.abcnews.com/images/Technology/WireAP_135a11bded104a2cbee932740c5733a6_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Watch Tesla's Beta of \"Feature Complete Full Self-Driving\""
     excerpt: "See the included video to watch the beta in action as customer vehicles autonomously navigate through left-hand turns, roundabouts, and more. Although Tesla has said the user interface will be updated as the rewrite is finalized,"

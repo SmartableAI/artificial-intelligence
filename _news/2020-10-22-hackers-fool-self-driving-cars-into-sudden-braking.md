@@ -119,6 +119,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "How Self-Driving Trucks would Show a New Direction to the Trucking Industry"
+    excerpt: "Autonomous vehicles are no longer limited to mere theory. They are already becoming popular among people, and self-driving trucks are expected to make their way onto the roads in the years to come. A survey discovered that more than 50 percent of small ..."
+    publishedDateTime: 2020-10-26T07:01:00Z
+    webUrl: "https://www.cioapplications.com/news/how-selfdriving-trucks-would-show-a-new-direction-to-the-trucking-industry-nid-6719.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 22
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/rus3n450.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "lQHQyvgqe9HYvF6FV8XpV2a5Gd3m7cdr/2BI6vvamiTj/qqcgk0i6MSa4/G1N8RL7brCsI3ZhQ+QX7VUlVB/WTXH41wtavoFkGWyw/WxBlmYTG/DbR5GrLlnEVawfRjlOK2FXBnx4QV+cZdd6mQY87hpMpyGfGw5ePsxPREo54GQrOL6SNFKGPinu9B8WXEAwZ+CWVF/GChBG/DXjK61+L5SJElfjIgeTeONiDF0iPs7qKdfprFJcUVCzHIiXGn1U898r7Sc3AH8ugWWeVxbhSSxPgupycEATPKS2rdyoRK6TxlK3XOu9dzJ8B4Uq9yQ/iQaWTOMZKHvg5JjzYjIa5vATZSzxgla9uFATBs+b9c=;eF5p8Apf82mv3GTfi3a+5Q=="
 ---

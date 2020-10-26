@@ -98,29 +98,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "stc and NVIDIA Team Up to Build Saudi Arabia’s First AI and Deep Learning Cloud Infrastructure"
-    excerpt: "Oct. 21, 2020 -- stc, a digital leader in the MENA region, is working with NVIDIA to build Saudi Arabia’s first AI and deep learning cloud infrastructure,"
-    publishedDateTime: 2020-10-21T14:31:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/stc-and-nvidia-team-up-to-build-saudi-arabias-first-ai-and-deep-learning-cloud-infrastructure/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 44
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/lumi-supercomputer-csc-405x228.png"
-        width: 405
-        height: 228
-        isCached: true
-  - title: "STC partners Nvidia on AI computing infrastructure"
-    excerpt: "Saudi operator STC said it;s working with Nvidia to build Saudi Arabia's first AI and deep learning cloud infrastructure, enabling domestic enterprises to adopt AI. STC is joining the Nvidia Partner Network (NPN) and will be the first cloud service provider in the region to bring AI capabilities to the"
-    publishedDateTime: 2020-10-21T14:55:00Z
-    webUrl: "https://www.telecompaper.com/news/stc-partners-nvidia-on-ai-computing-infrastructure--1358661"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "oMyizgArh3Tgc+MD1poNQwnTxg9jnVXxid+DjwjOzH3DvGfeBuCpCQyAU8FJtHf6d+xOjB84nsPqMzV7Tv5unsdAkOa+1kgoYrj5oQfRUAMJRoy+Dg92f1M3+c/HRm2iOdllZ+xdencyQjZw5xIyvdvhgp2jPu8OF4Cuix7LQy2OgZLpor3RfW67Ob6VPXz118ugC9SVOKxBTpZ5LIpFJLGYM9MCzvnpzHuOzcLQneJtBCb3zF67cY7R5xSrV1eGdLabU+u+Ub8Bht46Lk8JlBjxvUPmZv9HNiRIRV477q3978zXNWSAbU9wGS/4k07e9sBde11nvReVrgDyjpkDm+jy42wVC67LEB6Cqo5X1gc=;xBtAMSFeLK/s9k4X6aqoEw=="
 ---
