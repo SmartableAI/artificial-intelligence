@@ -25,6 +25,7 @@ locations:
 
 topics:
   - AI
+  - AI in Education
   - Natural Language Processing
 
 tags:

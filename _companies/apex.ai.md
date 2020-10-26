@@ -1,6 +1,6 @@
 ---
 name: "Apex.ai"
-overview: "We are building an operating system for autonomous vehicles that never&nbsp;fails"
+overview: "We are building an operating system for autonomous vehicles that never fails"
 type: "profile"
 heat: 50
 
