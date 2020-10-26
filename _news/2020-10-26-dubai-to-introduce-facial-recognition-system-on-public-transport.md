@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Dubai introduces facial recognition on public transport ahead of global Expo"
-excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
-publishedDateTime: 2020-10-25T12:42:00Z
-originalUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-webUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+title: "Dubai to introduce facial recognition system on public transport"
+excerpt: "DUBAI: Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has proven its effectiveness to identify suspicious ..."
+publishedDateTime: 2020-10-26T03:26:00Z
+originalUrl: "https://www.dawn.com/news/1587067"
+webUrl: "https://www.dawn.com/news/1587067"
+ampWebUrl: "https://www.dawn.com/news/amp/1587067"
+cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1587067"
 type: article
-quality: 71
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: العربية.نت
-  domain: alarabiya.net
+  name: Dawn
+  domain: dawn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://vid.alarabiya.net/images/2020/10/25/1c064d49-8679-4ea3-8df5-502e0dc16e72/1c064d49-8679-4ea3-8df5-502e0dc16e72_16x9_600x338.jpg?width=466"
-    width: 466
-    height: 262
+  - url: "http://www.dawn.com/_img/social-default.jpg"
+    width: 375
+    height: 375
     isCached: true
 
 related:
@@ -91,21 +91,21 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Dubai to introduce facial recognition system on public transport"
-    excerpt: "DUBAI: Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has proven its effectiveness to identify suspicious ..."
-    publishedDateTime: 2020-10-26T03:26:00Z
-    webUrl: "https://www.dawn.com/news/1587067"
-    ampWebUrl: "https://www.dawn.com/news/amp/1587067"
-    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1587067"
+  - title: "Dubai introduces facial recognition on public transport ahead of global Expo"
+    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
+    publishedDateTime: 2020-10-25T12:42:00Z
+    webUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+    ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
     type: article
     provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 74
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 71
     images:
-      - url: "http://www.dawn.com/_img/social-default.jpg"
-        width: 375
-        height: 375
+      - url: "https://vid.alarabiya.net/images/2020/10/25/1c064d49-8679-4ea3-8df5-502e0dc16e72/1c064d49-8679-4ea3-8df5-502e0dc16e72_16x9_600x338.jpg?width=466"
+        width: 466
+        height: 262
         isCached: true
   - title: "CBSE Introduces Facial Recognition For Accessing Classes 10, 12 Documents"
     excerpt: "Now, CBSE students will be able to download their digital documents from DigiLocker without using AADHAR and phone numbers."
@@ -147,6 +147,6 @@ related:
       domain: hindustantimes.com
     quality: 23
 
-secured: "PMh0Z+LENXqG00YXKsbpvI/9JykEmuNDvR1e+pl/BRmfhbeVPPgnq2tnHLrQ+r9V+UAyfw/5gQc7EU85a/lbv4DHEXCocQwKdwhIi2ymUPAH5Ad3K4b2/y0dRkUua7E0VFIOwgK0wwkSb+1HyxvdHly5y/IQQmCQliIHahmy7NzoTYf8qNa00P3Bclhgk8ilDMwWKAD2tM0ITCv9xPQVsnEQWGIxzgnwliQn1fqhwD3HFi39t4l/axxFeiabpRRu8YosKlWDfQqgW4YlVGSv0CJkypud9cp35QmB0WTdgX55ijP5LzCTG1Foy/oLpEhOwMCyWCZFpyl8IAHiz8gGr3UBSgiOtbSRDGXhnxEsuiYpevXYfpPnCn+SA82r7+1Q/o7ByAfE2w0xsgayeJqhVYJcui+ku0h95J3vyiKGS9tFIDjniD5P8Y4cO3FNU1iJGmuHb6/kabr0KMWxKJSW3rGi2c5kK3g2fiUS/BZ1yAXamhzqnVGs+89Hy+W32vKE6+Rt5xBOGm9jduS0m0ZkrA==;QgeFygPJxTTZCy4d5vDH7g=="
+secured: "5x5q4KU8PUpzLpk4kA7447rColIYkQsTBrl3q1vL10MYj99pi2y5inrg2079NLDD5d8OzRp41AmcsQQsE5+ix5yq6iZdg6HNxaQirpHy0OB9vI9fu0A7UvQLUyjm1v1uQXIBi4GKx0iCJOpFarvKcl2QriopPNKchPSxZgSrlFF9n3zXGQmAXXhxW33a755kjTsnqzcIoKYVEpUPOFSEh+bFUOQiMESWy80II4Jk4qBYyQQUq4h3t7zFhuHuUsTv8p20OKWCb42P55Tcs1KQf9zR6f/JerZZsaJcMQ0G7hiEnx4xD+DzqhAL9k6/dayjyf+rfrDJ1eu4yUKUHYMDQGIcI0Ue/bChUZy2bqF8gmI=;xHxoQHN74N9NK8kySxIk0w=="
 ---
 

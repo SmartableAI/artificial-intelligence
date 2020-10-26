@@ -104,6 +104,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-Driving Cars Are the Next Battle In the EV Wars"
+    excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
+    publishedDateTime: 2020-10-25T12:54:00Z
+    webUrl: "https://www.barrons.com/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+    ampWebUrl: "https://www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-248921/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "SXXceqybSEPrbkj1/q/nIxSh5Bw0ssI/BV6NiD1UgDeoWy4maeKLByPDcsEBdB1BZyCdntBPUO+qxgSUYytRSe/+cXN6NtdHPiMcLg/7VWsdskE7PJ7EXI0HKj4OhI5bDNb8eBddiRRBwBw92JLNuOVRKsqohyReZ3QQ/clhzL+OmDCba6Tut5ygbD7H8aqJKK9Tc9LFanmd586Hih216HK5SPz1rSx2rhPlJJ/YqrZ3h+ds1lyi9bu255/6N2mxdrEMH2nLCFD3Ow3JeQ6SCoDD73bCIRsAxAGQ89VzQZC+oxsyLl+wKFHdalSii1mcAwiabgpSzb58VltyZKAT0GSOsoInipwIGZJa8fEOQytjTPpT8nYcoyUfgpgLqdVvXFE9hHL6ApsJs6yh43jADTgV/8Cww/8TiTutse1j9JVXX4g9imANLRu6PjH6zu2U8iPt5ajQLu5JK13OtsLUkcdlY7zG6QBZ1ZurP/aKx/n5syefdpOzJ1C6ChyuDvlhwSfiJnem3QwQUcRoA0CiZg==;NwyIWcy/VvMuHx29OvkyKA=="
 ---

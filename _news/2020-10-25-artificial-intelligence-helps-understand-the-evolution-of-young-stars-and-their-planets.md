@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/artificial-intelligence-helps-understand-
 webUrl: "https://scitechdaily.com/artificial-intelligence-helps-understand-the-evolution-of-young-stars-and-their-planets/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 2000
     height: 1500
     isCached: true
+
+related:
+  - title: "Astronomers enlist AI in the search for ‘lethal’ baby star eruptions"
+    excerpt: "Young stars – just like young humans – are prone to temper flares. But star flares can incinerate everything around them, including the atmospheres of nearby planets starting to form. Finding out"
+    publishedDateTime: 2020-10-26T02:55:00Z
+    webUrl: "https://indiaeducationdiary.in/astronomers-enlist-ai-in-the-search-for-lethal-baby-star-eruptions/"
+    ampWebUrl: "https://indiaeducationdiary.in/astronomers-enlist-ai-in-the-search-for-lethal-baby-star-eruptions/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/astronomers-enlist-ai-in-the-search-for-lethal-baby-star-eruptions/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 59
+    images:
+      - url: "https://newsroom.unsw.edu.au/sites/default/files/styles/full_width/public/thumbnails/image/solar_flares_and_eruption_shutterstock_2.jpg?itok=W6qfKnwM"
+        width: 563
+        height: 396
+        isCached: true
 
 secured: "GyJPdkv24r5ubAIbSx1Oorzau9OX9pSGcdBdKpFVkHjPcbUCxFwWHbkZcM+0Mltj+JHUc9d6/roTgMQvblCamrCbg+DtKx+TIaihBkE3UjbjDkE9wy9yvzXVPQnGS/OYP6ObcEAo9grpft4ieEFsDDeaI8A7K2S+Wa8nzSig7ASo+QFSHuBpk/UCyxqFByKnsgOqJKiyxqH8XaV1+srUfR7WBXvDtW3X48/TmujLrBj63XcSN7gdf80NeHcGXhayuhl1qx2+GOF35mr1Tad+KtVRtS4B/6hxvo4aRHi8O22/2ux7k1LKoS8LXSHV1GtZqpfdaAlbQ082nyk/lXJ35DWDwbCvP8duheC5YiKuVIEiJPDqrS4KcY3ehxJTxyaBIjNnsgcX6MBdCI9ezWpwLJWzAImYRvKZAMMwCMJQhgpHdqe4IuItx+pzsBvD0pql60BazENioRP/RDtCOZaG6f2OyNn27Q09eJ6iWQKfw28NMZTeFPnLc967/4rS6eY/ei6dF1999NrjY27S3in/Eg==;NSpBwNszZM9sbngDPGo8lA=="
 ---

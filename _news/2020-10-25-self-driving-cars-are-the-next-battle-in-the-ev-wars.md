@@ -1,32 +1,29 @@
 ---
 category: news
-title: "Using A Kill-Switch Or Red Stop Button For AI Is A Dicey Proposition, Including For Self-Driving Cars"
-excerpt: "As earlier mentioned, the AI might seek to avoid being shut off. Consider this AI Ethics conundrum: If sentient AI is going to potentially have something similar to human rights (see my discussion at this link here), can you indeed summarily and without ..."
-publishedDateTime: 2020-10-21T15:11:00Z
-originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-switch-or-red-stop-button-for-ai-is-a-dicey-proposition-including-for-self-driving-cars/"
-webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-switch-or-red-stop-button-for-ai-is-a-dicey-proposition-including-for-self-driving-cars/"
+title: "Self-Driving Cars Are the Next Battle In the EV Wars"
+excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
+publishedDateTime: 2020-10-25T12:54:00Z
+originalUrl: "https://www.barrons.com/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+webUrl: "https://www.barrons.com/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+ampWebUrl: "https://www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
 type: article
-quality: 56
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Barron's
+  domain: barrons.com
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87852a819fa0d89ac1a522%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
-    width: 1200
-    height: 675
+  - url: "https://images.barrons.com/im-248921/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -45,6 +42,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90c97b4f7c7f4774a83f34%2F0x0.jpg%3FcropX1%3D233%26cropX2%3D4337%26cropY1%3D93%26cropY2%3D2284"
         width: 1200
         height: 641
+        isCached: true
+  - title: "Using A Kill-Switch Or Red Stop Button For AI Is A Dicey Proposition, Including For Self-Driving Cars"
+    excerpt: "As earlier mentioned, the AI might seek to avoid being shut off. Consider this AI Ethics conundrum: If sentient AI is going to potentially have something similar to human rights (see my discussion at this link here), can you indeed summarily and without ..."
+    publishedDateTime: 2020-10-21T15:11:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-switch-or-red-stop-button-for-ai-is-a-dicey-proposition-including-for-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 56
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87852a819fa0d89ac1a522%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
     excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
@@ -94,22 +105,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Self-Driving Cars Are the Next Battle In the EV Wars"
-    excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
-    publishedDateTime: 2020-10-25T12:54:00Z
-    webUrl: "https://www.barrons.com/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
-    ampWebUrl: "https://www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-248921/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
     excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
     publishedDateTime: 2020-10-24T17:22:00Z
@@ -125,6 +120,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "DQDNirqc86hQUj0DU4GY2vB4uvFstW2Aott3iLO9pXyidYvgZ43BgfktVYfIKodcAZwRnppP5C8Ihmq9PkWdpENXI1nC1prubYvdHpsIFRJmSgwTT8o+u0jolXTwmG+ZcXpWpm3vaNWn9oi0H+iJ6w6G85U6lrGarqEhqPZxkVGmSg+Q3UvfWictvKyNNk2LcXQazXIFOJX0o9R97xTrR6zHDxOC32MLePX8nT+qm9bnCwgaI0sx0gcMTVqNJzZkrDv/VICuzzXUUAfm/6iM1+ZG/030YUJf79AzmkX8kVFsloJIRKY/FGHPpsJIlq2LQ5uvsXEeXaXjyNVWYpiAEp5CvNhiYFnim35R5puD7vfYd81fWLbKGCBCU/GZBX1MjJb1+YAVHfuj/GJevnL4AWXjQRFEfbzk9E9Hvu32eXb6aG6h5jrrQEODZaA14uR1JO7iSddwKFUaLHDH4KCQjnTlOuC1qr+ip5It/4yTfoZcuzZSZESbk6+dt/EmS1gbLYXeXWTysi876spmvLKDQQ==;TnOYI2H4IjbqChk819sDnQ=="
+secured: "FRviQ1/w9yk0HAtOm+omV9fREsKoihCABsJC7dtczQtOCjhwcAnTeBjGMgARvJeJofqO+p8frhneiOIHoUr0fBzvmdByv+anhlBwQ7e/6pIvmd2gEggOkVKSinOZPDcJlOWynDmlnQ3fecPE4x8YWJFLLjZx4avVH6iXGwVXn1Qk2BHwExDkikkdH65qnlWNXpmR8aVHcPMgNQilBDrxCZKYl60jGtMRdn2hnFB+0LjPs5nUSOX/XoyATqtyq7By5ZEwTDDsCNOYgWOr/v0QLQ1dNXI/4/7VHA+T17eO6uoPEFUTB/XTIp9hl60Urg6jm1jkkJ/LXRLiNQx0vrmkXamXguQhZThLs3xs546ZFw8=;PSXelPWbCTca+UicNAY0Jg=="
 ---
 

@@ -24,22 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "COVID-19 Crisis Accelerates Labor Shift from Humans to Robots: WEF Survey"
-    excerpt: "Robots will destroy 85 million jobs at mid-sized to large businesses over the next five years as the COVID-19 pandemic accelerates changes in the"
-    publishedDateTime: 2020-10-21T10:20:00Z
-    webUrl: "https://www.insurancejournal.com/news/international/2020/10/21/587372.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 38
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/07/bigstock-virtual-inspection-construction-580x386.jpg"
-        width: 580
-        height: 386
-        isCached: true
-
 secured: "zuLT/ZfIjd+u6yI102oRmsBCkUPFVQG32Pt4YiDk7ySQOemcymfMQ5lHhDzYmV6WheOkIqu0TiRAfmrRsDMAnN38MeWtT2uL9/rvsjcs6bnUlnFZmUXNPWeZgSYpNFebGUkpby22nE96GtXAaDO6L3h3srWOj3SJTta+k6HBrLag6dj+cyzT6//WfKB5SskMsnwM7R5bKB8VzI5bgGg655qb7zbZuCNv5XqTDWrsl3Y1zbjZZPbWpZieDJIqRuuqoxkd0scYrWCQRgC8hFbxjMwRSaCiI7v4a4Il6/X3NNA4pGwO6G90aD85dsMJNuYKNbsBTqQR0NjFsuU2aaPVgTjpd7dBBPVbH/Noslo3Djk=;va3dBdoSOioUvpOaFZxD7w=="
 ---
 

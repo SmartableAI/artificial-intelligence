@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/dubai-introduces-facial-recognition
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/26/full/1593115870-6713.jpg&width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Dubai to introduce facial recognition system on public transport"
+    excerpt: "DUBAI: Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has proven its effectiveness to identify suspicious ..."
+    publishedDateTime: 2020-10-26T03:26:00Z
+    webUrl: "https://www.dawn.com/news/1587067"
+    ampWebUrl: "https://www.dawn.com/news/amp/1587067"
+    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1587067"
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 74
+    images:
+      - url: "http://www.dawn.com/_img/social-default.jpg"
+        width: 375
+        height: 375
         isCached: true
   - title: "Dubai introduces facial recognition on public transport ahead of global Expo"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
