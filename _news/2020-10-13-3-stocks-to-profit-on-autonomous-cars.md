@@ -1,22 +1,24 @@
 ---
 category: news
 title: "3 Stocks to Profit on Autonomous Cars"
-excerpt: "The race to get the world’s first fully functional autonomous vehicle is heating up nicely, with several companies targeting the 2021 launch window. The industry’s progress has been halted this year,"
-publishedDateTime: 2020-10-12T18:01:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-stocks-to-profit-on-autonomous-cars-2020-10-12"
-webUrl: "https://www.nasdaq.com/articles/3-stocks-to-profit-on-autonomous-cars-2020-10-12"
-ampWebUrl: "https://www.nasdaq.com/articles/3-stocks-to-profit-on-autonomous-cars-2020-10-12?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-stocks-to-profit-on-autonomous-cars-2020-10-12?amp"
+excerpt: "Chinese tech giant Baidu has been making some significant strides in artificial intelligence and self-driving cars. Last year, it announced that its fleet of 300 driverless cars in China’s ..."
+publishedDateTime: 2020-10-12T18:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-self-driving-cars-1029671149"
+webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-self-driving-cars-1029671149"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "5WctBwwuf+KRd0/D5DKcELFhmhPCDU0+uWhiYxr3KHHuKJEKSro27M2LviRkMJCbbfS+YVPlfFLcoAumdVXBUw4nAmxWae4gDJk2yCg7WE0z4iBRaVSDbOpujUYwlSyH92tXpMswJuUcRcEXZVU/RcuHhvJ1AodZi8P4MRuBwlaFg0pMA6uAXx8oEqGfZWLTAxr5mIwBwh4uKf80uYJT4ICzWPizxnH+hVSsZguqr+BxQgw304fV9O7ajnntgQFQ3SWvqpbDtw3gc6qKuTXxuBkG15x6r+xi6AKSHrbQ4gXopsU3Jm30i0f6BNhUEYsWoFVN1leVgFQbntg/N5EDy3WRmvJshraIurl+zAbWQlA=;OyHkaRNuTfjyiz0WYs+9aQ=="
+secured: "tnUKWbvz/u5K9TIpqgMDZVlrMijD/9XM10aA/hEi1IQRRwVun240bzyQvsFbjPSdTeejH4bKM3R+PPGRCUcLQr7hvGS9GMujN+wj6/ebzNDFX4Y6onN7lOyI6WUA1W0mcDSDz5pxDjhZ3gf+QfV/oJ4gK7WEOagMhph7NC58ciQ8YZh9AJBgbef672tcyyPyP3rZOkw/twkxJ5YCDOikLSKoDirYO2INSmqMVkoHGNqScuthcYn6foL7LTKBjFMKWEHp4Fp9bJPZhx+uCDP3Dn1y5D6T8Zj6+mY5uJSFSH1dF+y9ywPmxv9I8amq+0NpoJdIGlyNzVD6hpivCJS+ztHMfOk0Lgy/aQc2KbAJgqk=;oIZWJCXJKhgC8kQ5mlInbQ=="
 ---
 

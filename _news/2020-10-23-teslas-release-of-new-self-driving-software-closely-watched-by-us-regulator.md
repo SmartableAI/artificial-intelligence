@@ -3,10 +3,10 @@ category: news
 title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
 excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
 publishedDateTime: 2020-10-23T07:06:00Z
-originalUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
-webUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27727Y"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27727Y"
+originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN27724V"
+webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN27724V"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27724V"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27724V"
 type: article
 quality: 84
 heat: -1
@@ -316,22 +316,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "Tesla Officially Starts Rollout of Full Self-Driving Beta"
-    excerpt: "Tesla CEO Elon Musk announced on Twitter last night that the electric car company’s Full Self-Driving beta update is officially being rolled out. “Will be extremely slow and cautious, as it should,” Musk added an uncharacteristically serious tone."
-    publishedDateTime: 2020-10-21T16:55:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-officially-starts-rollout-of-full-self-driving-beta"
-    ampWebUrl: "https://futurism.com/tesla-officially-starts-rollout-of-full-self-driving-beta/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-officially-starts-rollout-of-full-self-driving-beta/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2020/10/tesla-officially-starts-rollout-of-full-self-driving-beta-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
     publishedDateTime: 2020-10-23T00:53:00Z
@@ -522,22 +506,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla is putting ‘self-driving’ in the hands of drivers amid criticism the tech is not ready"
-    excerpt: "Driving” despite skepticism among some safety advocates about whether Tesla’s technology is ready — and whether the rest of the world is ready for cars that drive themselves."
-    publishedDateTime: 2020-10-21T16:07:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 48
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2K7QWACXMI6RBVZREEHIPDZ3U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Tesla Begins Deploying Full Self-Driving Beta To Select Customers But It Is In No Way ‘Full Self-Driving’"
     excerpt: "This week, hardcore Tesla fans got complicated feelings in their bathing suit areas as Tesla announced the limited deployment of their new Full Self-Driving (Beta) software, which, based on the name and the hype, sure sounds like it’s a fully autonomous ..."
     publishedDateTime: 2020-10-23T03:02:00Z
@@ -669,6 +637,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "LMGcsfCV5RCc4jnbDLHXypjNQCJ5O54h6pYEyFTUrQQI15gsY1Pp3afY8+YbvAf8U0NAwT7NYmZrKn0EDDuRKiZt/nQWQcoLl5V7L6y38B1ewo4PhpOUeao/P+ruckotEZcObo0C066Tlfv8JK3u9LhuaOelYtIcy+AsDmau1K6gz8nNmtD+w6PCvMa9wBZCGNGcJ/T6mPsMEfMRSDOvJQV+ri5/83tiIx3+kpuoic5p+hUyzmNCiIY7JKFr0wRwYE3a34Yak0lC++oIF01nXk9jxIahfpfYEmpIQDsfcGJblVAMmtdzKwURu1ZCvTR7IOiO6xB2Az2GCYwJt/35GHqQogOKH8wQ+JJath9WOWbKMAP9YWQBYeyA3sYFPa+lzL8E5C44vHUvORILY7Tn8oEcRPkIwvnMBEFXTLnYEM/4/+k5SWh0lyYtKcqAE/MQzqdvYgaYmJAzo+Sc5BIjVKBiENU6sxCQUdDgfQ5Bp9xLqDmvTIRmQBFfLJfb/fGoo8H9kOLn+6Q4IvGlqdzjbA==;bgcEXWNoMvry5RwJfmvytA=="
+secured: "QzZabJX5teJTVg87BvX2r+tXqn/PAf1y2s3UnEjQOiyJlt5l+jCn8jXNxvqnqO/DzqFsPOjYj5jw181C0RykamQiImnF6uAWf/CTlORTC2mX0kELdj2ncPTtortM59fXC6nOXXKu1vIvBCZJf/fSXiaaAyLvSxYDlSl4Sni0XM2g8e7WzHh6LCVyLJOVmh+euynw9we9QwxK77S9mToEjh2LKQJLPl4Rrpjz6CfqvPPLFDJSekYcbi4Beh8j8+9I8VgHSXq/jGZuwLiikGvxY+bE582KXi4voWNpp6ciUOkSjNFliZeOpkC7ElU9B6zd8WituYSXy85h6zB1CXoOvR2i5tWGZXLbZwX0VCZHVic=;YW9pFB8X0McFSl5G8B4stg=="
 ---
 

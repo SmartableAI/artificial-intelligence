@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 641
         isCached: true
-  - title: "Using A Kill-Switch Or Red Stop Button For AI Is A Dicey Proposition, Including For Self-Driving Cars"
-    excerpt: "As earlier mentioned, the AI might seek to avoid being shut off. Consider this AI Ethics conundrum: If sentient AI is going to potentially have something similar to human rights (see my discussion at this link here), can you indeed summarily and without ..."
-    publishedDateTime: 2020-10-21T15:11:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-switch-or-red-stop-button-for-ai-is-a-dicey-proposition-including-for-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 56
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87852a819fa0d89ac1a522%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
     excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
     publishedDateTime: 2020-10-24T11:08:00Z
@@ -134,6 +120,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "V7nMy9UPxjfNEwOQ9wr9GEnGS2RKhIfYfcTKXWP4d2kF9EcgeBEJ2mowFjRQXfunXvXHGOMCqW8jkaEJfgpu1zJi93XC7MPjetHbl/QkVEaxwMLhLV/39L5pFzf1sbTjR/jsLYX5KWwsWYrabufKyE9t0WZmGeZpbEUoCLqaHnVIkUNaC1MBJv+YFz2aeSOdRx11Bf2XDSAPmzKvzyVdt7t/sdxrf/CjsTvYkFkug8j5bL3SDxPwhhsthkcTBsKhJwfBQn45V/ch03pCMqvBaArG+POJHQxGkkuOEupRWhEr6uDvs6qsby3iMpS0kYQ4XM/LmtLBlX6ke8TSiE8V0yOjq4ulOvaGyC6J7IfezUI=;eaw1+3tOhNZXOW4NCmnrSQ=="
+secured: "jVQwxIao5m1DyVAvAeHrl5lQf04oXX1nMKgjEpg4juhKsZSNslIMFG8vSFNrj5wm5dqCgV387eOq3Id4sdVbzquez/yV/Cxy82wVL+QW6KreSWvZ4A7P5igkUIgL2wa9VplMVMXONFev88H0IHbGZJY5hH7JH00vZTnMwI461dFFalswWKMiHKwHetBKgSECz/ZEOM2EnG5nZ26xXSJNiEj0c7GhQWfi6UgsUPdPmbgIaKt3IFpdzPKd/QX8sTfNIITo3i54efJpU94pQO4FmPwk6lgVsdAKVF6MK6qtD/S5KUPW9M6NzFZtcaY0Durfl72uJn5XUgpzU5A2b+oXGxDLh14BPq4+O4333mC2w18E/MOKDIP5EdHFnn09PDEieCxAY5cNDQfd8F5IGJC4n/4Fn6vXv+Y9vN3cNX9/mfa7S8gYfeRj1XMS+NMdVV+/GsH5w7J2vBX9DiM4VCpdJMfy2GB5B6uway4QcofC0es1+TnEMc5S01L/NMtFoLr7qC80atsKj6JrCLBrhAdJ7w==;Rm+m3tx4ZH9YhwU08DUf/A=="
 ---
 

@@ -2,21 +2,55 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
-      "title": "Neural pathway crucial to successful rapid object recognition in primates",
-      "excerpt": "Rapid recurrent processing in the ventrolateral prefrontal cortex (vlPFC) helps primates quickly identify objects, according to research from MIT's McGovern Institute and Center for Brains, Minds, and Machines.",
+      "path": "_news/2020-10-21-intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors.md",
+      "title": "Intuit Appoints Tekedra Mawakana, Waymo's Chief Operating Officer, to Board of Directors",
+      "excerpt": "Mawakana is the COO of Waymo LLC, a subsidiary of Alphabet ... policy related to commerce and advanced applications of artificial intelligence and machine learning. “Tekedra has a deep ...",
       "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
-      "originalUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
+      "webUrl": "https://www.nasdaq.com/press-release/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors",
+      "originalUrl": "https://www.nasdaq.com/press-release/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-ford-escape-hybrid-becomes-companys-latest-self-driving-car-prototype.md",
+      "title": "Ford Escape Hybrid becomes company's latest self-driving car prototype",
+      "excerpt": "The Escape Hybrid will also serve Ford's future autonomous ride-hailing service. Feast your eyes on Ford's latest self-driving car prototype. If it looks a lot like a Ford Escape Hybrid, well, that's because it is.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/ford-escape-hybrid-self-driving-car-prototype/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/ford-escape-hybrid-self-driving-car-prototype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
       "images": [
         {
-          "url": "https://news.mit.edu/sites/default/files/images/202010/Ko-DiCarlo-Neuron-edited_0.jpg",
-          "width": 1000,
-          "height": 667,
+          "url": "https://cnet1.cbsistatic.com/img/LQrNpGE_tK54V8ffxvcE3kx3A4Q=/2020/10/20/4f243df4-9e13-44c4-a76a-4a7baacc72c0/ogi-ford.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +58,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T13:09:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-escape-hybrid-self-driving-car-prototype/",
+      "publishedDateTime": "2020-10-20T14:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "news",
-        "domain": "mit.edu",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,9 +83,51 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand.md",
+      "title": "iRobot Q3 surges amid direct sales, e-commerce and home robot demand",
+      "excerpt": "For the third quarter​, iRobot reported revenue of $413.1 million, up 43% from a year ago. Premium robot sales were up 86%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand/",
+      "originalUrl": "https://www.zdnet.com/article/irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand/",
+      "publishedDateTime": "2020-10-20T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
-        "Computer Vision"
+        "AI in Robotics"
       ]
     },
     {
@@ -774,6 +850,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-20-adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max.md",
+      "title": "Adobe & NVIDIA unveil AI-powered Smart Portrait at Adobe MAX",
+      "excerpt": "As part of this week's Adobe MAX conference, Adobe and NVIDIA are unveiling some major advancements that will allow artists to use AI for photo editing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max",
+      "originalUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/19/nvidia-studio-adobe-photoshop-smart-portrait_feature.jpg",
+          "width": 1280,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max?amphtml=1",
+      "publishedDateTime": "2020-10-20T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-photoshops-ai-neural-filters-can-tweak-age-and-expression-with-a-few-clicks.md",
       "title": "Photoshop’s AI neural filters can tweak age and expression with a few clicks",
       "excerpt": "These filters include a number of simple overlays and effects but also tools that allow for deeper edits, particularly to portraits. With neural filters, Photoshop can adjust a subject’s age and facial expression,",
@@ -1075,163 +1194,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-facebooks-new-ai-model-translates-100-languages-without-going-through-english-first.md",
-      "title": "Facebook’s new AI model translates 100 languages — without going through English first",
-      "excerpt": "Facebook has open-sourced the first AI model that can translate between any pair of 100 languages without first translating them to English.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-20T102109.015-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/",
-      "publishedDateTime": "2020-10-20T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable.md",
-      "title": "Fintech's Wildfire Fighter: This Reinsurer Is Using A.I. To Make California Insurance Affordable",
-      "excerpt": "San Francisco startup Kettle thinks its statistical models can predict wildfires better than any other reinsurer. It officially launched today and recently closed $4.7 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/",
-      "originalUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e409faad21a294c41ea03%2F0x0.jpg%3FcropX1%3D614%26cropX2%3D3072%26cropY1%3D65%26cropY2%3D1447",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/",
-      "publishedDateTime": "2020-10-20T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-offices-resort-to-sensors-in-futile-attempts-to-keep-workers-apart.md",
-      "title": "Offices Resort to Sensors in Futile Attempts to Keep Workers Apart",
-      "excerpt": "Millions of workers in recent months have returned to offices outfitted with new pandemic protocols meant to keep them healthy and safe. But temperature checks and plexiglass barriers between desks can't prevent one of the most dangerous workplace behaviors for the spread of Covid-19 — the irresistible desire to mingle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ1uZTg27_C8/v1/360x-1.jpg",
-          "width": 360,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
-      "publishedDateTime": "2020-10-20T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

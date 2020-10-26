@@ -2,6 +2,163 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-20-facebooks-new-ai-model-translates-100-languages-without-going-through-english-first.md",
+      "title": "Facebook’s new AI model translates 100 languages — without going through English first",
+      "excerpt": "Facebook has open-sourced the first AI model that can translate between any pair of 100 languages without first translating them to English.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-20T102109.015-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/",
+      "publishedDateTime": "2020-10-20T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable.md",
+      "title": "Fintech's Wildfire Fighter: This Reinsurer Is Using A.I. To Make California Insurance Affordable",
+      "excerpt": "San Francisco startup Kettle thinks its statistical models can predict wildfires better than any other reinsurer. It officially launched today and recently closed $4.7 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e409faad21a294c41ea03%2F0x0.jpg%3FcropX1%3D614%26cropX2%3D3072%26cropY1%3D65%26cropY2%3D1447",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/",
+      "publishedDateTime": "2020-10-20T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-offices-resort-to-sensors-in-futile-attempts-to-keep-workers-apart.md",
+      "title": "Offices Resort to Sensors in Futile Attempts to Keep Workers Apart",
+      "excerpt": "Millions of workers in recent months have returned to offices outfitted with new pandemic protocols meant to keep them healthy and safe. But temperature checks and plexiglass barriers between desks can't prevent one of the most dangerous workplace behaviors for the spread of Covid-19 — the irresistible desire to mingle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ1uZTg27_C8/v1/360x-1.jpg",
+          "width": 360,
+          "height": 212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
+      "publishedDateTime": "2020-10-20T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-build-custom-models-with-azure-machine-learning-designer.md",
       "title": "Build custom models with Azure Machine Learning Designer",
       "excerpt": "Similarly, tools such as PyTorch and TensorFlow can help construct more complex models, taking advantage of neural nets and deep learning while still integrating with familiar languages and platforms. That’s all good if you’ve got a team of data ...",
@@ -1093,137 +1250,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-is-artificial-intelligence-closer-to-common-sense.md",
-      "title": "Is Artificial Intelligence Closer to Common Sense?",
-      "excerpt": "Intelligent agents lack the common-sense knowledge they need to reason about the world. Traditionally, there have been two unsuccessful approaches to getting computers to reason about the world—symbolic logic and deep learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
-      "originalUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/AI-Closer-Common-Sense/en/headerimage/AI-Closer-Common-Sense-h-1602793884272.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml.md",
-      "title": "How to Create a More Inclusive Customer Experience Through AI and ML",
-      "excerpt": "Eighty-four percent of consumers say being treated like a person, not a number, is very important to winning their business. However, there is a clear frustration amongst businesses in driving ROI, as 80% of marketers are on track to abandon personalization efforts by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
-      "originalUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://retailtouchpoints.com/wp-content/uploads/2020/10/machine-learning-experience.jpg",
-          "width": 2440,
-          "height": 1627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp",
-      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp",
-      "publishedDateTime": "2020-10-19T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail TouchPoints",
-        "domain": "retailtouchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy.md",
-      "title": "Deep Learning Model Developed to Identify Appropriate Lung Cancer Therapy",
-      "excerpt": "Researchers are developing a noninvasive, method to analyze a non-small cell lung cancer mutations and biomarkers to determine the best course of treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/",
-      "originalUrl": "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2018/11/Apr6_2018_Getty_490025288_LungCancer.jpg",
-          "width": 2000,
-          "height": 1547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

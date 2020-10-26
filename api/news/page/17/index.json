@@ -2,6 +2,153 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-10-09-the-responsible-innovation-framework-for-the-age-of-ai.md",
+      "title": "The Responsible Innovation Framework For The Age Of AI",
+      "excerpt": "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg",
+          "width": 1200,
+          "height": 986,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
+      "publishedDateTime": "2020-10-08T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-daily-crunch-waymo-opens-up-driverless-ride-hailing.md",
+      "title": "Daily Crunch: Waymo opens up driverless ride-hailing",
+      "excerpt": "Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for. The big story: Waymo opens up driverless ride-hailing Waymo hit a major milestone today: It’s",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/",
+      "originalUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/waymo.jpeg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/",
+      "publishedDateTime": "2020-10-08T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-health-care.md",
+      "title": "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Health Care",
+      "excerpt": "“Validation and security of AI algorithms is a major concern prior to their implementation ... in the control of the healthcare institution via their Azure confidential computing cloud infrastructure. The data will be placed into a secure enclave within ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucsf.edu/news/2020/10/418736/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics",
+      "originalUrl": "https://www.ucsf.edu/news/2020/10/418736/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucsf.edu/sites/default/files/field/image/news/laptop-computer-hands.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UC San Francisco",
+        "domain": "ucsf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-wisekey-secures-ensuritys-passwordless-access-to-microsoft-windows-and-azure-ad.md",
       "title": "WISeKey Secures Ensurity’s Passwordless Access to Microsoft Windows and Azure AD",
       "excerpt": "WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ: WKEY), a leading global cybersecurity and IoT",
@@ -1015,160 +1162,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them.md",
-      "title": "Nine Big Hurdles Of Adopting Artificial Intelligence (And How To Overcome Them)",
-      "excerpt": "Artificial intelligence is an extremely valuable tool that can save your business time, energy and money. However, implementing AI can be a big challenge for any company. From choosing the right AI-powered tool to setting up the right data inputs and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dce40f79d0a361086b5fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
-      "publishedDateTime": "2020-10-08T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts.md",
-      "title": "Exer Labs raises $2 million and launches computer vision app for Peloton-style coached workouts",
-      "excerpt": "Exer Labs has raised $2 million in funding and it has unveiled its AI-based Exer Studio app for the Mac that captures your movements for coaching advice.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/exer-4.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
-      "publishedDateTime": "2020-10-08T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-grid-ai-raises-186m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production.md",
-      "title": "Grid AI raises $18.6M Series A to help AI researchers and engineers bring their models to production",
-      "excerpt": "Grid AI, a startup founded by the inventor of the popular open-source PyTorch Lightning project, William Falcon, that aims to help machine learning engineers more efficiently, today announced that it has raised an $18.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1124444076.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
-      "publishedDateTime": "2020-10-08T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

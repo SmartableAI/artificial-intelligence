@@ -30,7 +30,7 @@ related:
   - title: "AI and machine learning: Powering the next-gen enterprise"
     excerpt: "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents."
     publishedDateTime: 2020-10-23T13:57:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/?tactic-page=249268"
+    webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/"
     type: article
     provider:
       name: Bloomberg

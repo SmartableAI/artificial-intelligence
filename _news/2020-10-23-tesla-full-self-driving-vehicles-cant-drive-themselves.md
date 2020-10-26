@@ -206,9 +206,9 @@ related:
   - title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
     excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
     publishedDateTime: 2020-10-23T07:06:00Z
-    webUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27727Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27727Y"
+    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN27724V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27724V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27724V"
     type: article
     provider:
       name: Reuters
@@ -328,22 +328,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "Tesla Officially Starts Rollout of Full Self-Driving Beta"
-    excerpt: "Tesla CEO Elon Musk announced on Twitter last night that the electric car company’s Full Self-Driving beta update is officially being rolled out. “Will be extremely slow and cautious, as it should,” Musk added an uncharacteristically serious tone."
-    publishedDateTime: 2020-10-21T16:55:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-officially-starts-rollout-of-full-self-driving-beta"
-    ampWebUrl: "https://futurism.com/tesla-officially-starts-rollout-of-full-self-driving-beta/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-officially-starts-rollout-of-full-self-driving-beta/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2020/10/tesla-officially-starts-rollout-of-full-self-driving-beta-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Watch Tesla's Beta of \"Feature Complete Full Self-Driving\""
     excerpt: "See the included video to watch the beta in action as customer vehicles autonomously navigate through left-hand turns, roundabouts, and more. Although Tesla has said the user interface will be updated as the rewrite is finalized,"
     publishedDateTime: 2020-10-22T23:54:00Z
@@ -518,22 +502,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla is putting ‘self-driving’ in the hands of drivers amid criticism the tech is not ready"
-    excerpt: "Driving” despite skepticism among some safety advocates about whether Tesla’s technology is ready — and whether the rest of the world is ready for cars that drive themselves."
-    publishedDateTime: 2020-10-21T16:07:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 48
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2K7QWACXMI6RBVZREEHIPDZ3U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Tesla Begins Deploying Full Self-Driving Beta To Select Customers But It Is In No Way ‘Full Self-Driving’"
     excerpt: "This week, hardcore Tesla fans got complicated feelings in their bathing suit areas as Tesla announced the limited deployment of their new Full Self-Driving (Beta) software, which, based on the name and the hype, sure sounds like it’s a fully autonomous ..."
     publishedDateTime: 2020-10-23T03:02:00Z
@@ -665,6 +633,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "LJBZor0MRRLbSpCwv7aPkGUB8cmZ9f6VE5cygbfLhphTSTeeGAM9xlcDYbzh6Y3CaTDXI3rjnAyMBxkkfuAYjGrLwZ8CbnVB3SVhjq6UcUkWx2ndEYsu4dBm6HVGj3h/SDTP0aSTfrFI/c9+Nw4SufgzhHpop64UCyP0EDfqUYo36UvmQ5GE+8cm6JBIPxmG5t3pQ1k6S1NlHhTrYReUJB2SLNygTqe4tMcpYpACvv49u7tVQTIphqutWmSIW3x3L8Wpqe8vipgbr3mNj66OfMNvVpyuw95uCN0hM5aEGKQWi1cTCemc4esrIYkoZWBTiZZ7BqpF4l+Odfv/yIAN7AGzNq+rMdFhch7Yo39szOs=;h3vxaPPHy7meQzn8uTC49Q=="
+secured: "6Nwa6meIe6KcIdGHSDzqEAKseaS/9ohPsVdb5eMZ1jlIr8vxm/7YYtlL9qosjNSi1OBusTjoc+T/PplFiph6iAI1MlODIFhMjRppDV3UEb/3fypmKZBBFlVnEHXApPwoWSr203MufU8FN6HxjBjzAXYY66j/wMsj81rIqpbS1e5/mieZF974h06AvQzhMVUe/4hLIw2amUUdfBm0dsl0cmQbtR4psYhhmAyGwu2JmV5xeGY5KcHiNlvplGNmxpq+ybOY7aPS1VicjD0zDClbNbwKKcudXvcP/ySO45ImZMVScBbEKNmygqdR1xz9hKkxZdMG+XxKb2OMXY2YJ4KUY4R1YOkPzDzii9Qf/vKfBO3nn/AN0/T5EEjh+s9wYZRsKDYo2TwwEyLMGGhgAmhzLw1znDej4G43gLRri2PuoL3Zsxam9mUdO79i66Y8kqJzHQVb8a7Bb0Cc06uhNzm4hSbr5FGAemmCzaIpOY4nS21KWkV8u2j1+YW7X67JLc9hk6awZabbETEF9H24VyP91Q==;6toJQJi3f9nbVyj1ECKFAQ=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-22-the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy.md",
+      "title": "The real business risks of ignoring diversity, equity, and inclusion in your AI strategy",
+      "excerpt": "What happens when decision-makers in tech companies simply don’t reflect the diversity of the general population?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/",
+      "originalUrl": "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/GettyImages-1249641728.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/",
+      "publishedDateTime": "2020-10-22T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-facebooks-ai-team-expands-post-grad-courses-for-black-and-latinx-students.md",
       "title": "Facebook's AI team expands post-grad courses for Black and Latinx students",
       "excerpt": "Facebook says that it will expand an online course in deep learning to more students to help improve the diversity of its AI division. After a successful pilot program at Georgia Tech, the company will roll out this graduate-level course in deep learning to more colleges across 2021.",
@@ -311,50 +362,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
-      "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/data-reply-achieves-aws-machine-learning-competency-status/article_9c6fc609-9c34-558a-9789-831d25f3a277.html",
-      "originalUrl": "https://www.oaoa.com/news/business/data-reply-achieves-aws-machine-learning-competency-status/article_9c6fc609-9c34-558a-9789-831d25f3a277.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-10-22-acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker.md",
       "title": "Acer unveils Intel GPU-toting laptops, revamped Chromebooks and an Alexa-killing smartspeaker",
       "excerpt": "Acer has unveiled its latest range of laptops, monitors, and more at their October 2020 Next@Acer event, with new devices in the Swift, Aspire, Predator, Travelmate and ConceptD range. Whilst the conference itself certainly won’t be winning any awards for presentation,",
@@ -404,6 +411,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
+      "title": "Data Reply Achieves AWS Machine Learning Competency Status",
+      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1230,49 +1281,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence.md",
-      "title": "Nvidia makes a clean sweep of MLPerf predictions benchmark for artificial intelligence",
-      "excerpt": "MLPerf benchmark tests are an opportunity for chip vendors, and system builders, to show how much performance they can achieve on a representative set of machine learning tasks. Nvidia capture top marks against Intel in all the tests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "publishedDateTime": "2020-10-21T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

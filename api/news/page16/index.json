@@ -2,6 +2,151 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-10-this-ai-lyrics-generator-strings-your-random-words-into-songs.md",
+      "title": "This AI lyrics generator strings your random words into songs",
+      "excerpt": "And if none of that works, they could try out a new AI lyrics generator called keyword2lyrics. The system was created by Mathi Gatthi, a data scientist from Argentina, who told TNW he got the idea from his own songwriting struggles: Sometimes I have a few ideas that I want to turn into a song,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-09T172112.299-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/amp/",
+      "publishedDateTime": "2020-10-09T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-nine-common-mistakes-businesses-make-when-using-chatbots.md",
+      "title": "Nine Common Mistakes Businesses Make When Using Chatbots",
+      "excerpt": "Without proper insight into how AI-powered chatbots can achieve their goals, it's unlikely that businesses will employ them adequately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f807b0eead21d7ff9456eee%2F0x0.jpg",
+          "width": 1200,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/amp/",
+      "publishedDateTime": "2020-10-09T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says.md",
+      "title": "Facebook can’t catch misinformation it’s already identified as false, activist group says",
+      "excerpt": "With less than four weeks to go before a pivotal US election, Facebook has sought to reassure the public it has learned from its 2016 mistakes. On Wednesday, the company rolled out a new policy against voter intimidation and announced it will temporarily suspend political ads after polls close on Election Day.",
+      "sourceUrl": null,
+      "webUrl": "https://kesq.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/",
+      "originalUrl": "https://kesq.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png",
+          "width": 280,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KESQ News",
+        "domain": "kesq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics.md",
       "title": "PlayStation founder Ken Kutaragi has started a new career in robotics",
       "excerpt": "Ken Kutaragi, the former Sony executive widely credited as ‘The Father of PlayStation’, has started a new career in the robotics industry. Since late August Kutaragi has been working as the CEO of Tokyo’s Ascent Robotics,",
@@ -1003,153 +1148,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-the-responsible-innovation-framework-for-the-age-of-ai.md",
-      "title": "The Responsible Innovation Framework For The Age Of AI",
-      "excerpt": "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg",
-          "width": 1200,
-          "height": 986,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
-      "publishedDateTime": "2020-10-08T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-daily-crunch-waymo-opens-up-driverless-ride-hailing.md",
-      "title": "Daily Crunch: Waymo opens up driverless ride-hailing",
-      "excerpt": "Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for. The big story: Waymo opens up driverless ride-hailing Waymo hit a major milestone today: It’s",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/07/waymo.jpeg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/",
-      "publishedDateTime": "2020-10-08T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-health-care.md",
-      "title": "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Health Care",
-      "excerpt": "“Validation and security of AI algorithms is a major concern prior to their implementation ... in the control of the healthcare institution via their Azure confidential computing cloud infrastructure. The data will be placed into a secure enclave within ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucsf.edu/news/2020/10/418736/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics",
-      "originalUrl": "https://www.ucsf.edu/news/2020/10/418736/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucsf.edu/sites/default/files/field/image/news/laptop-computer-hands.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UC San Francisco",
-        "domain": "ucsf.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

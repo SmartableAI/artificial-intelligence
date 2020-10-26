@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Security
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

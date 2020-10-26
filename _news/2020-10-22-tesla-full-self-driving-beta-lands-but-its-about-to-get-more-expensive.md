@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-el
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/"
 type: article
 quality: 103
-heat: 533
+heat: 513
 published: true
 
 provider:
@@ -194,9 +194,9 @@ related:
   - title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
     excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
     publishedDateTime: 2020-10-23T07:06:00Z
-    webUrl: "https://www.reuters.com/article/tesla-selfdriving-idUSKBN27727Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27727Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27727Y"
+    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN27724V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27724V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27724V"
     type: article
     provider:
       name: Reuters
@@ -316,22 +316,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "Tesla Officially Starts Rollout of Full Self-Driving Beta"
-    excerpt: "Tesla CEO Elon Musk announced on Twitter last night that the electric car company’s Full Self-Driving beta update is officially being rolled out. “Will be extremely slow and cautious, as it should,” Musk added an uncharacteristically serious tone."
-    publishedDateTime: 2020-10-21T16:55:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-officially-starts-rollout-of-full-self-driving-beta"
-    ampWebUrl: "https://futurism.com/tesla-officially-starts-rollout-of-full-self-driving-beta/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-officially-starts-rollout-of-full-self-driving-beta/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2020/10/tesla-officially-starts-rollout-of-full-self-driving-beta-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
     publishedDateTime: 2020-10-23T00:53:00Z
@@ -521,22 +505,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/one-analyst-says-tesla-does-not-need-a.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Tesla is putting ‘self-driving’ in the hands of drivers amid criticism the tech is not ready"
-    excerpt: "Driving” despite skepticism among some safety advocates about whether Tesla’s technology is ready — and whether the rest of the world is ready for cars that drive themselves."
-    publishedDateTime: 2020-10-21T16:07:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 48
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2K7QWACXMI6RBVZREEHIPDZ3U.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Tesla Begins Deploying Full Self-Driving Beta To Select Customers But It Is In No Way ‘Full Self-Driving’"
     excerpt: "This week, hardcore Tesla fans got complicated feelings in their bathing suit areas as Tesla announced the limited deployment of their new Full Self-Driving (Beta) software, which, based on the name and the hype, sure sounds like it’s a fully autonomous ..."

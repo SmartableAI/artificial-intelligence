@@ -2,6 +2,144 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-14-makinarocks-research-published-by-deep-learning-sectors-premier-conference-iclr-2020.md",
+      "title": "MakinaRocks research published by Deep Learning sector’s premier conference, ICLR 2020",
+      "excerpt": "MakinaRocks (  a startup specializing in industrial AI solutions, announced on October 13th, the success of their RaPP-based anomaly detection research paper, selected and published by the International Conference on Learning Representations (ICLR),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e/gallery/afc3d835fc99d2f97122f85de43642a3",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-south-korea-products-and-services-e471e17836e661c41a7fb757a873503e/gallery/afc3d835fc99d2f97122f85de43642a3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30.md",
+      "title": "Amazon Personalize improvements reduce model training time by up to 40% and latency for generating recommendations by up to 30%",
+      "excerpt": "We’re excited to announce new efficiency improvements for Amazon Personalize. These improvements decrease the time required to train solutions (the machine learning models trained with your data) by up to 40% and reduce the latency for generating real-time recommendations by up to 30%. Amazon Personalize",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/12/2-1-5.jpg",
+          "width": 900,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T09:48:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-new-deep-learning-models-fewer-neurons-more-intelligence.md",
+      "title": "New deep learning models: Fewer neurons, more intelligence",
+      "excerpt": "An international research team has developed a new artificial intelligence system based on the brains of tiny animals, such as threadworms. This novel AI-system can control a vehicle with just a few artificial neurons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-spotify-open-sources-klio-a-framework-for-ai-audio-research.md",
       "title": "Spotify open-sources Klio, a framework for AI audio research",
       "excerpt": "Over the years, the company has begun to tap natural language processing, audio models, and filtering to serve up recommendations and curate playlists including Discovery Weekly and Release Radar.",
@@ -980,162 +1118,6 @@
         "name": "Pocket-lint",
         "domain": "pocket-lint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk.md",
-      "title": "Australian and New Zealand scientists use AI to predict heart disease risk",
-      "excerpt": "Scientists from the University of Melbourne and University of Otago have jointly developed and trained an artificial intelligence (AI) system to predict a person's risk of cardiovascular disease (CVD) by looking at the retinas of their eyes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
-      "originalUrl": "https://www.zdnet.com/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2018/03/21/e73671aa-bc24-416f-8438-c99c8a8c2675/screen-shot-2018-03-21-at-15-44-24.jpg",
-          "width": 1092,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
-      "publishedDateTime": "2020-10-12T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-the-next-generation-of-artificial-intelligence.md",
-      "title": "The Next Generation Of Artificial Intelligence",
-      "excerpt": "What will the next generation of artificial intelligence look like? Which novel AI approaches will unlock currently unimaginable possibilities in technology and business? This article highlights three emerging areas within AI that are poised to redefine the field—and society—in the years ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84f4978d786028fac3acbb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-10-12T18:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-nym-health-raises-165-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing.md",
-      "title": "Nym Health raises $16.5 million for its auditable machine learning tools for automating hospital billing",
-      "excerpt": "A little less than two years after raising its seed round, the Israeli-based Nym Health has added another $16.5 million to its cash haul so it can roll out its technology developing auditable machine learning tools for automating hospital billing.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/",
-      "originalUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1211152561.jpg?w=713",
-          "width": 713,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/amp/",
-      "publishedDateTime": "2020-10-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

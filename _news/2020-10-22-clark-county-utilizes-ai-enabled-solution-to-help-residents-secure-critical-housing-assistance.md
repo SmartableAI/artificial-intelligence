@@ -2,7 +2,7 @@
 category: news
 title: "Clark County Utilizes AI-enabled Solution to Help Residents Secure Critical Housing Assistance"
 excerpt: "Oct. 22, 2020 /PRNewswire/ -- Clark County and IBM Watson Health (NYSE: IBM) today announced the deployment of the AI-enabled IBM Watson Health Citizen Engagement platform designed to help make ..."
-publishedDateTime: 2020-10-22T13:00:00Z
+publishedDateTime: 2020-10-22T13:01:42Z
 originalUrl: "https://www.prnewswire.com/news-releases/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance-301157432.html"
 webUrl: "https://www.prnewswire.com/news-releases/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance-301157432.html"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 1414
     isCached: true
 
-secured: "jKTAv5PhaJH3/TYBEM8OPzSPCR3qD50tUVxhGa22ZDpQXP9rNBFQmssuoUrSfaaJzKaTc9zR26+B+YWTerzSfQKK0gejoAGUWDJW0NSmeMQQ2itEssX2EVl9FRFffUSN1GxGiX5qRi0uEuTi/AtQSeIf8txgNU5+coxLZk17RSSJ0wA+MSHOZmyC//KhbgwYw3qTeGyRxKdQojEpZYB1ooEsYbXBKDCJ3Jvdu+iDiAv7Y+mXyI44XGAi+Tc9HBZXuKzL9Xs/LLh134juGgOUxvpZV3VcYiE2cdYImSMntkJa+rxLCa8fOQP/5gnsLy6EhBdSEpR/fVUmaXjMz+qVdsyzBLmrS4S2h7ak4UUCdV8=;cz5QU1ensUbwUh3wMPVcSw=="
+secured: "k2O20dyMyj/AuD10OxZzlex/c67oSXvGAUxmi++Ulc3ddhyDIM54jFHGtsyNSPGmYJeDTu7q3bsz0xNKr7D6wIZezs8DAtjJ07pbZOLGL7GRsc8AUfsCcPZDD35WnDnYfxvhm1AqKTss+JzoTiQOQE3hd3pchdO1By+08bF29RikdMDACfv9KcQ3UQqKdZhHmo/c2I/Ai+KM4R0/vgk4Vyce3eLh6c/ogn/IYMf0atWpK1tQvicKVp17UgqbvxrBlCQELBiuvSWFzdYgo8w59LNc3pxGO8V4F53GzXoPijYi4NiRDC1AS/ohUDTocL/JTtv6LN5PlqUjFXXY1/ZPd93fx+hU0BqSP0uuen5+Ogk=;BXnaUWvUrEabtdZ3hHARhA=="
 ---
 

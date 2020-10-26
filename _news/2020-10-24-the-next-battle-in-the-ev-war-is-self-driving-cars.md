@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 641
         isCached: true
-  - title: "Using A Kill-Switch Or Red Stop Button For AI Is A Dicey Proposition, Including For Self-Driving Cars"
-    excerpt: "As earlier mentioned, the AI might seek to avoid being shut off. Consider this AI Ethics conundrum: If sentient AI is going to potentially have something similar to human rights (see my discussion at this link here), can you indeed summarily and without ..."
-    publishedDateTime: 2020-10-21T15:11:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/21/using-a-kill-switch-or-red-stop-button-for-ai-is-a-dicey-proposition-including-for-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 56
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87852a819fa0d89ac1a522%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
     excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
     publishedDateTime: 2020-10-24T11:08:00Z

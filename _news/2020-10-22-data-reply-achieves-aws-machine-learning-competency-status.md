@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
-excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR."
-publishedDateTime: 2020-10-22T10:27:00Z
-originalUrl: "https://www.oaoa.com/news/business/data-reply-achieves-aws-machine-learning-competency-status/article_9c6fc609-9c34-558a-9789-831d25f3a277.html"
-webUrl: "https://www.oaoa.com/news/business/data-reply-achieves-aws-machine-learning-competency-status/article_9c6fc609-9c34-558a-9789-831d25f3a277.html"
+excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ..."
+publishedDateTime: 2020-10-22T07:35:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
+webUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
 type: article
 quality: 56
-heat: 76
+heat: 77
 published: true
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -47,6 +47,6 @@ related:
       domain: finanznachrichten.de
     quality: 36
 
-secured: "FfSlFkC2Rwfo1UxrSSFlDEnTXEGqc7Q/bX7EYQxspuLbqIiNEKJX48wZS+1Ilkil/inlzVJ5ewWEZYuqk+k7qC1tTdc+vC69ihMFaYIo+iWsdThDAJU+pKOVcCCmdwhwilOnE/cFUQDAqicVfeLFhwTdgVBHm9OjyL+Ukqj+mhLktvFtknwLcXom3MNsqIOclIbvrod62ZF8bsPR7vaQXcz/v154i9WFueGb8hG96zXx6P13K8ZgGBPmJczvOyC6xpbKhPf8S2BXD3EKqN9nYHJTv9c4b/5/ZoHKAknJdlm2ptu9xmMX16IMafZC62jweYphRmzLpPQ9LVCYL5wM4iOSpd3qCE0AHIWXdxpXfY8=;BIzLBIBvyPfPZVM6u9a2oA=="
+secured: "oq66luQvO07pi6/YZjhiAxENGnDXATYwBvrmXGoRLN930al4+NVqsWygLNJmGBqwlTkXkA9BY8mJbIvcenpZBPmK4lc0V4mw+FAV4hdktvfJuQGqXcAz1SHVozIlH5lBRffqkfJShZFTRsnrZmKzMw7z+zAMITHROhvyQ6cu5gy3zFFIGg6sA3qdIr/A50bkaOu5qs1ObgH7/pgmmcrO8Rh3rwdkqFLSEeFLk10MITWlrGmQUlL6ETMJQwXBORAx479r2H59+DzQfJGvc2DuakauMHzz0q9218Y3md8skgqQL50mhLgX5584zxtOcTNpxhTB8IU9620ZepUTRXnTM7r/4qzOeRMGViPIXDm2csA=;up+1EtiSmsYpD6H4kn4MpQ=="
 ---
 
