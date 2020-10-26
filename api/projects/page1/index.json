@@ -243,6 +243,88 @@
       ]
     },
     {
+      "path": "_projects/apache-spark-mllib.md",
+      "excerpt": "MLlib is Apache Spark's scalable machine learning library.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-spark-mllib/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/apache-spark-mllib/",
+      "originalUrl": "https://spark.apache.org/mllib/",
+      "github": {
+        "url": "https://github.com/apache/spark",
+        "watches": 2100,
+        "stars": 24500,
+        "forks": 20700,
+        "languages": [
+          "Scala",
+          "Java",
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "Apache",
+        "domain": "apache.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/apache.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 779,
+      "images": [
+        {
+          "url": "https://spark.apache.org/images/hadoop.jpg",
+          "width": 571,
+          "height": 226,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "MLlib",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_projects/fastai.md",
+      "excerpt": "fastai is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/fastai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/fastai/",
+      "originalUrl": "https://docs.fast.ai/",
+      "github": {
+        "url": "https://github.com/fastai/fastai",
+        "watches": 648,
+        "stars": 19700,
+        "forks": 6800,
+        "languages": [
+          "Jupyter Notebook"
+        ]
+      },
+      "provider": {
+        "name": "fastai",
+        "domain": "fast.ai"
+      },
+      "heat": 763,
+      "images": [
+        {
+          "url": "https://docs.fast.ai/images/layered.png",
+          "width": 691,
+          "height": 879,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "fast.ai",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_projects/rare-technologies-gensim.md",
       "excerpt": "Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/rare-technologies-gensim/index.json",
@@ -515,9 +597,46 @@
           }
         ]
       },
-      "heat": 728,
+      "heat": 729,
       "content": "\r\n",
       "name": "Apache PredictionIO",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_projects/eclipse-dl4j.md",
+      "excerpt": "The Eclipse Deeplearning4J (DL4J) ecosystem is a set of projects intended to support all the needs of a JVM based deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/eclipse-dl4j/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/eclipse-dl4j/",
+      "originalUrl": "https://deeplearning4j.org/",
+      "github": {
+        "url": "https://github.com/eclipse/deeplearning4j",
+        "watches": 825,
+        "stars": 11800,
+        "forks": 4900,
+        "languages": [
+          "Java",
+          "C++"
+        ]
+      },
+      "provider": {
+        "name": "Eclipse",
+        "domain": "eclipse.com"
+      },
+      "heat": 728,
+      "images": [
+        {
+          "url": "https://deeplearning4j.org/images/element-coffecup.png",
+          "width": 813,
+          "height": 514,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "DL4J",
       "type": "code",
       "topics": [
         "AI",
@@ -572,43 +691,6 @@
       ]
     },
     {
-      "path": "_projects/eclipse-dl4j.md",
-      "excerpt": "The Eclipse Deeplearning4J (DL4J) ecosystem is a set of projects intended to support all the needs of a JVM based deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/eclipse-dl4j/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/eclipse-dl4j/",
-      "originalUrl": "https://deeplearning4j.org/",
-      "github": {
-        "url": "https://github.com/eclipse/deeplearning4j",
-        "watches": 825,
-        "stars": 11800,
-        "forks": 4900,
-        "languages": [
-          "Java",
-          "C++"
-        ]
-      },
-      "provider": {
-        "name": "Eclipse",
-        "domain": "eclipse.com"
-      },
-      "heat": 726,
-      "images": [
-        {
-          "url": "https://deeplearning4j.org/images/element-coffecup.png",
-          "width": 813,
-          "height": 514,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "name": "DL4J",
-      "type": "code",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_projects/nvidia-fastphotostyle.md",
       "excerpt": "Style transfer, deep learning, feature transform",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/nvidia-fastphotostyle/index.json",
@@ -634,7 +716,7 @@
           }
         ]
       },
-      "heat": 712,
+      "heat": 713,
       "images": [
         {
           "url": "https://raw.githubusercontent.com/NVIDIA/FastPhotoStyle/master/teaser.png",
@@ -852,6 +934,43 @@
       ]
     },
     {
+      "path": "_projects/airbnb-aerosolve.md",
+      "excerpt": "A machine learning library designed from the ground up to be human friendly. This library is meant to be used with sparse, interpretable features such as those that commonly occur in search (search keywords, filters) or pricing (number of rooms, location, price). It is not as interpretable with problems with very dense non-human interpretable features such as raw pixels or audio samples.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/airbnb-aerosolve/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/airbnb-aerosolve/",
+      "originalUrl": "https://airbnb.io/aerosolve/",
+      "github": {
+        "url": "https://github.com/airbnb/aerosolve",
+        "watches": 363,
+        "stars": 4700,
+        "forks": 581,
+        "languages": [
+          "Scala",
+          "Java"
+        ]
+      },
+      "provider": {
+        "name": "Airbnb",
+        "domain": "airbnb.io"
+      },
+      "heat": 659,
+      "images": [
+        {
+          "url": "https://airbnb.io/aerosolve/kdtree.jpg",
+          "width": 697,
+          "height": 543,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "Aerosolve",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_projects/amazon-dsstne.md",
       "excerpt": "DSSTNE (pronounced \"Destiny\") is an open source software library for training and deploying recommendation models with sparse inputs, fully connected hidden layers, and sparse outputs. Models with weight matrices that are too large for a single GPU can still be trained on a single host. DSSTNE has been used at Amazon to generate personalized product recommendations for our customers at Amazon's scale. It is designed for production deployment of real-world applications which need to emphasize speed and scale over experimental flexibility.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/amazon-dsstne/index.json",
@@ -1037,7 +1156,7 @@
           }
         ]
       },
-      "heat": 594,
+      "heat": 595,
       "content": "\r\n",
       "name": "Apache Mahout",
       "type": "code",
@@ -1091,115 +1210,6 @@
         "Machine Learning",
         "Deep Learning",
         "PyTorch"
-      ]
-    },
-    {
-      "path": "_projects/nvidia-jetbot.md",
-      "excerpt": "An educational AI robot based on NVIDIA Jetson Nano.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/nvidia-jetbot/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/nvidia-jetbot/",
-      "originalUrl": "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetbot-ai-robot-kit/",
-      "github": {
-        "url": "https://github.com/NVIDIA-AI-IOT/jetbot",
-        "watches": 134,
-        "stars": 1300,
-        "forks": 396,
-        "languages": [
-          "Jupyter Notebook",
-          "Python"
-        ]
-      },
-      "provider": {
-        "name": "NVIDIA",
-        "domain": "nvidia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nvidia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "heat": 567,
-      "images": [
-        {
-          "url": "https://github.com/NVIDIA-AI-IOT/jetbot/wiki/images/jetson-jetbot-illustration_1600x1260.png",
-          "width": 618,
-          "height": 487,
-          "title": "jetbot",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "name": "jetbot",
-      "type": "code",
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_projects/alibaba-alink.md",
-      "excerpt": "Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/alibaba-alink/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/alibaba-alink/",
-      "originalUrl": "https://github.com/alibaba/Alink",
-      "github": {
-        "url": "https://github.com/alibaba/Alink",
-        "watches": 65,
-        "stars": 1100,
-        "forks": 218,
-        "languages": [
-          "Java"
-        ]
-      },
-      "provider": {
-        "name": "Alibaba",
-        "domain": "alibaba.com"
-      },
-      "heat": 555,
-      "images": [
-        {
-          "url": "https://avatars1.githubusercontent.com/u/1961952?s=400&v=4",
-          "width": 400,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "name": "Alink",
-      "type": "code",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_projects/machinalis-quepy.md",
-      "excerpt": "A python framework to transform natural language questions to queries in a database query language.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/machinalis-quepy/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/machinalis-quepy/",
-      "github": {
-        "url": "https://github.com/machinalis/quepy",
-        "watches": 98,
-        "stars": 1100,
-        "forks": 287,
-        "languages": [
-          "Python"
-        ]
-      },
-      "provider": {
-        "name": "Machinalis",
-        "domain": "machinalis.com"
-      },
-      "heat": 555,
-      "content": "\r\n",
-      "name": "quepy",
-      "type": "code",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

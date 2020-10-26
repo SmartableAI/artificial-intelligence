@@ -3,7 +3,7 @@ name: "Apache Mahout"
 excerpt: "Apache Mahout is a distributed linear algebra framework and mathematically expressive Scala DSL designed to let mathematicians, statisticians, and data scientists quickly implement their own algorithms. Apache Spark is the recommended out-of-the-box distributed back-end, or can be extended to other distributed backends."
 originalUrl: https://mahout.apache.org/
 type: code
-heat: 594
+heat: 595
 
 github:
   url: "https://github.com/apache/mahout"

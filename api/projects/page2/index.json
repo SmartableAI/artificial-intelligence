@@ -4,6 +4,115 @@
   "page": 2,
   "value": [
     {
+      "path": "_projects/nvidia-jetbot.md",
+      "excerpt": "The open-source JetBot AI robot platform gives makers, students, and enthusiasts everything they need to build creative, fun, smart AI applications. It’s powered by the small but mighty NVIDIA Jetson Nano AI computer, which supports multiple sensors and neural networks in parallel for object recognition, collision avoidance, and more. All in a variety of cool configurations that let you build something that’s uniquely you.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/nvidia-jetbot/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/nvidia-jetbot/",
+      "originalUrl": "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetbot-ai-robot-kit/",
+      "github": {
+        "url": "https://github.com/NVIDIA-AI-IOT/jetbot",
+        "watches": 134,
+        "stars": 1300,
+        "forks": 396,
+        "languages": [
+          "Jupyter Notebook",
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nvidia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 569,
+      "images": [
+        {
+          "url": "https://github.com/NVIDIA-AI-IOT/jetbot/wiki/images/jetson-jetbot-illustration_1600x1260.png",
+          "width": 618,
+          "height": 487,
+          "title": "jetbot",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "name": "jetbot",
+      "type": "code",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_projects/alibaba-alink.md",
+      "excerpt": "Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/alibaba-alink/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/alibaba-alink/",
+      "originalUrl": "https://github.com/alibaba/Alink",
+      "github": {
+        "url": "https://github.com/alibaba/Alink",
+        "watches": 65,
+        "stars": 1100,
+        "forks": 218,
+        "languages": [
+          "Java"
+        ]
+      },
+      "provider": {
+        "name": "Alibaba",
+        "domain": "alibaba.com"
+      },
+      "heat": 555,
+      "images": [
+        {
+          "url": "https://avatars1.githubusercontent.com/u/1961952?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "Alink",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_projects/machinalis-quepy.md",
+      "excerpt": "A python framework to transform natural language questions to queries in a database query language.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/machinalis-quepy/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/machinalis-quepy/",
+      "github": {
+        "url": "https://github.com/machinalis/quepy",
+        "watches": 98,
+        "stars": 1100,
+        "forks": 287,
+        "languages": [
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "Machinalis",
+        "domain": "machinalis.com"
+      },
+      "heat": 555,
+      "content": "\r\n",
+      "name": "quepy",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_projects/bendangnuksung-image-outpainting.md",
       "excerpt": "This is an implementation of Painting Outside the Box: Image Outpainting paper from Standford University. Some changes have been made to work with 256*256 image.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/bendangnuksung-image-outpainting/index.json",
@@ -204,6 +313,43 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_projects/openml.md",
+      "excerpt": "OpenML (Open Media Library), a free, cross-platform programming environment designed by the Khronos Group for capturing, transporting, processing, displaying, and synchronizing digital media (2D and 3D graphics, audio and video processing, I/O, and networking).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/openml/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/openml/",
+      "originalUrl": "https://www.openml.org/",
+      "github": {
+        "url": "https://github.com/openml",
+        "watches": 46,
+        "stars": 463,
+        "forks": 83,
+        "languages": [
+          "Python",
+          "Java"
+        ]
+      },
+      "provider": {
+        "name": "OpenML",
+        "domain": "openml.org"
+      },
+      "heat": 492,
+      "images": [
+        {
+          "url": "https://www.openml.org/img/expdblogo2.png",
+          "width": 380,
+          "height": 410,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "OpenML: Open Machine Learning",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {

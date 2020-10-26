@@ -2,229 +2,253 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://smartable.ai/apps/ai/project/google-tensorflow/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/keras/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/scikit-learn-scikit-learn/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/facebook-pytorch/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/bvlc-caffe/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/apache-spark/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/project/apache-spark-mllib/</loc>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/project/fastai/</loc>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/rare-technologies-gensim/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/hankcs-hanlp/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/apache-mxnet/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/microsoft-cntk/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/explosion-spacy/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/baidu-apollo/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/apache-predictionio/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/project/google-tfjs/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/eclipse-dl4j/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/project/google-tfjs/</loc>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/nvidia-fastphotostyle/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/theano/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/microsoft-airsim/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/atsushisakai-pythonrobotics/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/sloria-textblob/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/dotnet-machinelearning/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/project/airbnb-aerosolve/</loc>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/amazon-dsstne/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/accord-net-framework/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/polynote/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/mrgemy95-tensorflow-project-template/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/apache-mahout/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/csailvision-gandissect/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/nvidia-jetbot/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/alibaba-alink/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/machinalis-quepy/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/bendangnuksung-image-outpainting/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/apache-opennlp/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/petoicamp-opencat/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/nvidia-redtail/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/facebook-habitat-sim/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/project/openml/</loc>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/distillpub-handwriting/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/jack000-fontjoy/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/project/kapwing-cartoonify/</loc>
-    <lastmod>2020-10-19T00:00:00-07:00</lastmod>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>

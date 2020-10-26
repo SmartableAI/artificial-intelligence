@@ -2,7 +2,7 @@
 name: "FastPhotoStyle"
 excerpt: "Style transfer, deep learning, feature transform"
 type: code
-heat: 712
+heat: 713
 
 github:
   url: "https://github.com/NVIDIA/FastPhotoStyle"

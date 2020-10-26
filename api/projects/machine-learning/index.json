@@ -243,6 +243,88 @@
       ]
     },
     {
+      "path": "_projects/apache-spark-mllib.md",
+      "excerpt": "MLlib is Apache Spark's scalable machine learning library.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-spark-mllib/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/apache-spark-mllib/",
+      "originalUrl": "https://spark.apache.org/mllib/",
+      "github": {
+        "url": "https://github.com/apache/spark",
+        "watches": 2100,
+        "stars": 24500,
+        "forks": 20700,
+        "languages": [
+          "Scala",
+          "Java",
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "Apache",
+        "domain": "apache.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/apache.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 779,
+      "images": [
+        {
+          "url": "https://spark.apache.org/images/hadoop.jpg",
+          "width": 571,
+          "height": 226,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "MLlib",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_projects/fastai.md",
+      "excerpt": "fastai is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/fastai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/fastai/",
+      "originalUrl": "https://docs.fast.ai/",
+      "github": {
+        "url": "https://github.com/fastai/fastai",
+        "watches": 648,
+        "stars": 19700,
+        "forks": 6800,
+        "languages": [
+          "Jupyter Notebook"
+        ]
+      },
+      "provider": {
+        "name": "fastai",
+        "domain": "fast.ai"
+      },
+      "heat": 763,
+      "images": [
+        {
+          "url": "https://docs.fast.ai/images/layered.png",
+          "width": 691,
+          "height": 879,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "fast.ai",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_projects/apache-mxnet.md",
       "excerpt": "Apache MXNet (incubating) is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/apache-mxnet/index.json",
@@ -359,9 +441,46 @@
           }
         ]
       },
-      "heat": 728,
+      "heat": 729,
       "content": "\r\n",
       "name": "Apache PredictionIO",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_projects/eclipse-dl4j.md",
+      "excerpt": "The Eclipse Deeplearning4J (DL4J) ecosystem is a set of projects intended to support all the needs of a JVM based deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/eclipse-dl4j/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/eclipse-dl4j/",
+      "originalUrl": "https://deeplearning4j.org/",
+      "github": {
+        "url": "https://github.com/eclipse/deeplearning4j",
+        "watches": 825,
+        "stars": 11800,
+        "forks": 4900,
+        "languages": [
+          "Java",
+          "C++"
+        ]
+      },
+      "provider": {
+        "name": "Eclipse",
+        "domain": "eclipse.com"
+      },
+      "heat": 728,
+      "images": [
+        {
+          "url": "https://deeplearning4j.org/images/element-coffecup.png",
+          "width": 813,
+          "height": 514,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "DL4J",
       "type": "code",
       "topics": [
         "AI",
@@ -416,43 +535,6 @@
       ]
     },
     {
-      "path": "_projects/eclipse-dl4j.md",
-      "excerpt": "The Eclipse Deeplearning4J (DL4J) ecosystem is a set of projects intended to support all the needs of a JVM based deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/eclipse-dl4j/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/project/eclipse-dl4j/",
-      "originalUrl": "https://deeplearning4j.org/",
-      "github": {
-        "url": "https://github.com/eclipse/deeplearning4j",
-        "watches": 825,
-        "stars": 11800,
-        "forks": 4900,
-        "languages": [
-          "Java",
-          "C++"
-        ]
-      },
-      "provider": {
-        "name": "Eclipse",
-        "domain": "eclipse.com"
-      },
-      "heat": 726,
-      "images": [
-        {
-          "url": "https://deeplearning4j.org/images/element-coffecup.png",
-          "width": 813,
-          "height": 514,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "name": "DL4J",
-      "type": "code",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_projects/nvidia-fastphotostyle.md",
       "excerpt": "Style transfer, deep learning, feature transform",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/nvidia-fastphotostyle/index.json",
@@ -478,7 +560,7 @@
           }
         ]
       },
-      "heat": 712,
+      "heat": 713,
       "images": [
         {
           "url": "https://raw.githubusercontent.com/NVIDIA/FastPhotoStyle/master/teaser.png",
@@ -569,6 +651,43 @@
       "topics": [
         "AI",
         "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_projects/airbnb-aerosolve.md",
+      "excerpt": "A machine learning library designed from the ground up to be human friendly. This library is meant to be used with sparse, interpretable features such as those that commonly occur in search (search keywords, filters) or pricing (number of rooms, location, price). It is not as interpretable with problems with very dense non-human interpretable features such as raw pixels or audio samples.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/airbnb-aerosolve/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/airbnb-aerosolve/",
+      "originalUrl": "https://airbnb.io/aerosolve/",
+      "github": {
+        "url": "https://github.com/airbnb/aerosolve",
+        "watches": 363,
+        "stars": 4700,
+        "forks": 581,
+        "languages": [
+          "Scala",
+          "Java"
+        ]
+      },
+      "provider": {
+        "name": "Airbnb",
+        "domain": "airbnb.io"
+      },
+      "heat": 659,
+      "images": [
+        {
+          "url": "https://airbnb.io/aerosolve/kdtree.jpg",
+          "width": 697,
+          "height": 543,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "Aerosolve",
+      "type": "code",
+      "topics": [
+        "AI",
         "Machine Learning"
       ]
     },
@@ -722,7 +841,7 @@
           }
         ]
       },
-      "heat": 594,
+      "heat": 595,
       "content": "\r\n",
       "name": "Apache Mahout",
       "type": "code",
@@ -852,6 +971,43 @@
         "Deep Learning",
         "TensorFlow",
         "Keras"
+      ]
+    },
+    {
+      "path": "_projects/openml.md",
+      "excerpt": "OpenML (Open Media Library), a free, cross-platform programming environment designed by the Khronos Group for capturing, transporting, processing, displaying, and synchronizing digital media (2D and 3D graphics, audio and video processing, I/O, and networking).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/projects/openml/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/project/openml/",
+      "originalUrl": "https://www.openml.org/",
+      "github": {
+        "url": "https://github.com/openml",
+        "watches": 46,
+        "stars": 463,
+        "forks": 83,
+        "languages": [
+          "Python",
+          "Java"
+        ]
+      },
+      "provider": {
+        "name": "OpenML",
+        "domain": "openml.org"
+      },
+      "heat": 492,
+      "images": [
+        {
+          "url": "https://www.openml.org/img/expdblogo2.png",
+          "width": 380,
+          "height": 410,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "OpenML: Open Machine Learning",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {

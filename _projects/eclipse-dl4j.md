@@ -3,7 +3,7 @@ name: "DL4J"
 excerpt: "The Eclipse Deeplearning4J (DL4J) ecosystem is a set of projects intended to support all the needs of a JVM based deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks."
 originalUrl: https://deeplearning4j.org/
 type: code
-heat: 726
+heat: 728
 
 github:
   url: "https://github.com/eclipse/deeplearning4j"
