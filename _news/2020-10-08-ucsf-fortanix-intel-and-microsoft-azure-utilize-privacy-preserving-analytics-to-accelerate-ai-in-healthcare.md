@@ -1,15 +1,15 @@
 ---
 category: news
 title: "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare"
-excerpt: "UC San Francisco’s Center for Digital Health Innovation (CDHI), Fortanix, Intel, and Microsoft Azure today have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms."
-publishedDateTime: 2020-10-07T19:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D"
-webUrl: "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D"
+excerpt: "“Validation and security of AI algorithms is a major concern prior ... in the control of the healthcare institution via their Azure confidential computing cloud infrastructure."
+publishedDateTime: 2020-10-07T22:31:00Z
+originalUrl: "https://www.oaoa.com/news/business/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare/article_51dace0e-a59b-57b9-8d5b-1af98a6788dc.html"
+webUrl: "https://www.oaoa.com/news/business/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare/article_51dace0e-a59b-57b9-8d5b-1af98a6788dc.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Microsoft AI
@@ -17,11 +17,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://mms.businesswire.com/media/20201007005922/en/828476/23/UCSF_sig_navy_RGB.jpg"
-    width: 1200
-    height: 627
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
-secured: "qax2bMECZTk8xLAe//ttro+qIg2suOOoFubX0ZB27Z7Se0zCfWfMoDhd757hwlqUngKAqIE61ZXD8FSUq0yAJk4f9D0d+e8iP1ejQ7DZNV3Toz85MoCkuAGV9hK5XrXK699d9KQDdaCsOYUXoYjkj4Vd6hDnkgwW38FsarGej6rrUv93cbXGWlN+OHXjjj5U6rb5fFLaofWQ0xZ1oyZbpWiaNzduYQOYDOMNYhEmi5EPT0ugr/30Uqp6K/kTe3QgDcB81sGbocAikylyZJ5ktGXakOQYLlR0B2gCdoQMUQe57ZDz5Ju9s8kYdpa2Q/QIMUK5RWCU3hIDs9Ex+UkDesIP6U4p00YweaMn2Sj+394=;7Uk4h45mlKZmMwzcP5cqeQ=="
+secured: "KTSTreHp8Nyn5P6Jsoc9kl7Qtmyde9prv3pJfxPsQ/XF9oOQA8u/hRMXcTd+MRzJ2wIXJvJLbzJIAFXlU70sfpf6ggL7R7Ie8F7NOPf/hfdyZTCTex3VRstQr4XqlWtyG02y5pc1d8HYgfg2t/SgcLtHQBOm/HHSSJqqnrHJJsncaYkTr02KibnIx3FFiYbG2CBBLtMZZYeTQIeE7vVFE/bumj/TsGHR81rfwNYVTKW8a+/36nDhh+rG4W5wXARQbmJvFe2zlsjS2A2ebx9upA1JaJqGg26VSEIMQaQKS38qgdwiwONfg9LR9/fqTyuQA7JbLbcDSyItBAo0JafTTHbRtAwYl/qeruGi6X7ZER8=;dl8yA6gfB1aSJBMF0H3wNg=="
 ---
 

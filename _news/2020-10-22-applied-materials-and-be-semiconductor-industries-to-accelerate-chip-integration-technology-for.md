@@ -3,8 +3,8 @@ category: news
 title: "Applied Materials and BE Semiconductor Industries to Accelerate Chip Integration Technology for ..."
 excerpt: "Applied Materials, Inc. and BE Semiconductor Industries N.V. (Besi) today announced an agreement to develop the industry’s first complete and proven equipment solution for die-based hybrid bonding, an emerging chip-to-chip interconnect technology that enables heterogeneous chip and subsystem designs for applications including high-performance computing,"
 publishedDateTime: 2020-10-22T05:00:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-industrial-technology-western-europe-environment-6237dea4a2eb9a3f56bee050923a8786"
-webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-industrial-technology-western-europe-environment-6237dea4a2eb9a3f56bee050923a8786"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-industrial-technology-western-europe-environment-9349703482c9aad99306bf8edcc56263"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-industrial-technology-western-europe-environment-9349703482c9aad99306bf8edcc56263"
 type: article
 quality: 25
 heat: 25
@@ -49,6 +49,6 @@ related:
         height: 228
         isCached: true
 
-secured: "kAPvuLqcpMbLwf7MHieghrtIcB6isIy+37PZCwQDzTSjQkDJaWt0pMXHHsuKZMBwPVWn5a7c8rEXhW5J902FsOwG/AlSUNUhwg8n/GYCx98MEL0Ht1HgSBHL+6rEPkpxIhHM9JRadw6a92z3QwjjJdNl94Wd+gNgei0PLjWoR50CpfpiJnch2pfzzltDfQiIl0D9QVaxV9cyq2GUUNQzrZIPnzsHvWmzysnDpcgixk+5xM0pa8xquDzJID3ejUBY29ooAfmtddXRI5BbNHjDqaU1aCdfInLB6D2p/bpeo8/zW/qEVGwlEhmiZrayAgLL05wwPHxlG+nfuAEvlWxBW/HdIAPBdqpeeDGBeEZIC7Y=;E6lFtyoHJq27Z/mXi/jljw=="
+secured: "JGnWNN3nRx7VtAjoCHEHKtBm0RZqTGjWeDImIfv7YMouORCdI/jOwbqP6avZDJT9slF9s2Q19T9rftdJ7HsB//zP6AeXD/nRpawtW6SaDLqQ6q3DmfXVinYBNI/MkYDCD5rdfcIP61/mvQ8dLDiL/aNLcNvVnoXn+Dnn92WAqug16DBJiOrDdfBaZZEuaNkPNlhkM2ZV6FaiwgJgd6WjrUdlGK2wkW/GFO3zrrKgTqU38uMwpOiedxiCcfXtG6zt2/0cqU/ySQ3RtcfxYnpQAY/QokodMW7FFw0Yyb5k4Kn8HvFgPNpRHhG9NI+2mDHwpNHmN9oKipyUyej/3TAkh44IReigj8m10tXPTA7ajBI=;Kwu3Jwobn+8xsic26nflcg=="
 ---
 

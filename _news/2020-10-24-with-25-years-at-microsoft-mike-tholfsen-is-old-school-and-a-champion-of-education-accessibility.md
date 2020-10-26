@@ -9,8 +9,8 @@ ampWebUrl: "https://www.geekwire.com/2020/mike-tholfsen/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/mike-tholfsen/amp/"
 type: article
 quality: 92
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: GeekWire
@@ -32,15 +32,135 @@ images:
     isCached: true
 
 related:
-  - title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
-    excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge"
-    publishedDateTime: 2020-10-22T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201022005403/en/Deque-Releases-Axe-Accessibility-Testing-Tool-for-Microsoft’s-New-Edge-Browser"
+  - title: "Microsoft releases preview of Lobe training app for machine-learning"
+    excerpt: "A public preview of Microsoft's Lobe app is available for Windows and Mac users, and enables them to traing and store machine-learning models locally on their machines."
+    publishedDateTime: 2020-10-26T18:56:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 15
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/10/26/12706ff8-b427-454d-a2aa-9db241810bd5/lobemachinelearningtraining.jpg"
+        width: 1196
+        height: 919
+        isCached: true
+  - title: "Microsoft and MITRE release framework to help fend off adversarial AI attacks"
+    excerpt: "Microsoft, MITRE, and 11 other organizations developed a framework to help fend off adversarial machine learning attacks."
+    publishedDateTime: 2020-10-22T17:23:00Z
+    webUrl: "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/"
+    ampWebUrl: "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
+        width: 1200
+        height: 573
+        isCached: true
+  - title: "Microsoft to take Azure to space to enable cloud services in remote locations"
+    excerpt: "The new connectivity will help bring valuable customer data from geosynchronous orbit (GEO) satellites directly into Azure, Microsoft said."
+    publishedDateTime: 2020-10-22T06:28:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 71
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/jaruvu/article32915715.ece/ALTERNATES/LANDSCAPE_615/MicrosoftAzureSpace"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "C3.ai, Microsoft, and Adobe Combine Forces on C3 AI CRM"
+    excerpt: "The joint solution offers an integrated ecosystem that empowers customers to take advantage of leading CRM capabilities along with an integrated ecosystem with Azure, Microsoft 365, and the Microsoft Power Platform. In addition, C3 AI CRM leverages the ..."
+    publishedDateTime: 2020-10-26T15:49:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143560"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 71
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133199-1020_DataQuality_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
+  - title: "Wayve chooses Microsoft Azure to scale AI-based autonomous driving technology"
+    excerpt: "Wayve, the London-based company that’s developing artificial intelligence software for self-driving cars, has signed a deal with Microsoft to use Azure. The UK business, which is at the cutting-edge of autonomous development and is seeing strong growth ..."
+    publishedDateTime: 2020-10-22T09:49:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2020/10/22/wayve-chooses-microsoft-azure-to-scale-ai-based-autonomous-driving-technology/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 66
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Wayve-Computer-Vision-1600x747.jpg"
+        width: 1600
+        height: 747
+        isCached: true
+  - title: "Microsoft partners Netflix to help you learn data science, AI"
+    excerpt: "Inspired by the new Netflix original titled 'Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."
+    publishedDateTime: 2020-10-24T16:23:00Z
+    webUrl: "https://menafn.com/1101010061/Microsoft-partners-Netflix-to-help-you-learn-data-science-AI"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2020-10/24/I_7fec8981-3image_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Microsoft partners Netflix to help you learn data science, AI"
+    excerpt: "Inspired by the new Netflix original titled ‘Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."
+    publishedDateTime: 2020-10-25T09:08:00Z
+    webUrl: "https://www.sify.com/news/microsoft-partners-netflix-to-help-you-learn-data-science-ai-news-national-ukyiOwihagcca.html"
+    ampWebUrl: "https://www.sify.com/news/microsoft-partners-netflix-to-help-you-learn-data-science-ai-news-national-ukyiOwihagcca.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/microsoft-partners-netflix-to-help-you-learn-data-science-ai-news-national-ukyiOwihagcca.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
+  - title: "Microsoft’s Turing Language Model Can Now Interpret 94 Languages"
+    excerpt: "Microsoft detailed the Turing multilingual language model (T-ULRv2) and announced that the AI model has achieved the top rank at the Google XTREME public leaderboard."
+    publishedDateTime: 2020-10-26T08:34:00Z
+    webUrl: "https://analyticsindiamag.com/microsofts-turing-language-model-can-now-interpret-94-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_microsoft.png"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
+    excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge web browser. Like its Chrome and Firefox counterparts,"
+    publishedDateTime: 2020-10-22T13:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-communication-technology-media-mobile-media-application-software-7df5a93e21384e02818f60908ae616ab"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "UWzJvGFbOfUjsPvANuyg4cFME73MnSvQbEIXzYPXNn/SPiP2YWQUf3Qh0nnK31RbzOSLRxjglumMrgzdJLc29CSHiQxf09vsTF/acqqvJhgWOl6A7bts+37eWjCudMja97eFus0px6htBJG0+mHkLIxoFwXXd5RVEx0ENa3gZJHOP1yXKM5o0rtWSAN6VUjlC5AveQMC07m5xmMi+wAJC70aR88NuYRFLtLwS8CsJVNbKIHhpDNrUk9nnp0O94IgY84mM+xeVA9GdCyug7SdTjfHc7D32Ltmvs+zHRytMzp5kxO0taDD4GeN/kgFX8BRpzWtbdnQaF8DOYGwoDyqx0CsE/N1t2wBay98lMDeriw=;uyDEiNKZSBRR+6yqXHou1Q=="
 ---

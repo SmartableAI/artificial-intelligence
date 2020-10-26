@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-connectivity-using-a-private-vpc/"
 type: article
 quality: 89
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -27,6 +27,36 @@ images:
     width: 900
     height: 467
     isCached: true
+
+related:
+  - title: "Bringing real-time machine learning-powered insights to rugby using Amazon SageMaker"
+    excerpt: "The Guinness Six Nations Championship began in 1883 as the Home Nations Championship among England, Ireland, Scotland, and Wales, with the inclusion of France in 1910 and Italy in 2000. It is among the oldest surviving rugby traditions and one of the best-attended sporting events in the world. The COVID-19"
+    publishedDateTime: 2020-10-26T18:33:01Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bringing-real-time-machine-learning-powered-insights-to-rugby-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/3-Diagram.jpg"
+        width: 900
+        height: 366
+        isCached: true
+  - title: "Building an NLU-powered search application with Amazon SageMaker and the Amazon ES KNN feature"
+    excerpt: "The rise of semantic search engines has made ecommerce and retail businesses search easier for its consumers. Search engines powered by natural language understanding (NLU) allow you to speak or type into a device using your preferred conversational language rather than finding the right keywords for"
+    publishedDateTime: 2020-10-26T18:26:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-an-nlu-powered-search-application-with-amazon-sagemaker-and-the-amazon-es-knn-feature/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 77
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/07/1-1-3.jpg"
+        width: 900
+        height: 463
+        isCached: true
 
 secured: "ejw5MkRkXt932ULCGReyOHOFGfrWevhrVg3IRz6gk/Y3jztnFLhQyJIXOmWJ6JL1+lA7/lBT9XFI74UBQLoL802L1B8nfAHRjZ0gTv/hOVrAv9lK+qbkQ2C14r6OsPCablOmJ9dSgEQBUhN05SejPuCKIaErzQd4bnvDkPbEI+QW4kNav4oDJwdpDS9KD4MYsVAaRyn9iKFRgvrN8Om6p2m1Znb/j2yt/ktt5gUWQm5diNT865ccHnUBhkFzJtJs/b99+QHym+xQq85JSmked4dddepwG82n4gKB0FzcG77LCAiABP00wH/lZGyVnTKM+LIBWx48PiaiI2+6+mi8KPtoTK14mkbNvJNO6J1HN+k=;2KcF9AGDyG+tQgLqyMkyQA=="
 ---

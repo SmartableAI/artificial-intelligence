@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762SP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762SP"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 700
         height: 405
         isCached: true
-  - title: "GM, Cruise to seek OK for self-driving vehicle without pedal, steering wheel"
-    excerpt: "Cruise says it will team with majority shareholder (NYSE:GM) to seek U.S. regulatory approval in the coming months to deploy a limited number of Cruise Origin vehicles without steering wheels or pedals."
-    publishedDateTime: 2020-10-22T02:36:00Z
-    webUrl: "https://seekingalpha.com/news/3624591-gm-cruise-to-seek-ok-for-self-driving-vehicle-without-pedal-steering-wheel"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 1
 
 secured: "Av1dYO1PhnMmzUT7US4Ad6cATP7FdGxH6y2Xw0HAZTk0a6I1MwCamQNebMmbK8gxmFNYhpjToze3WhWRG/QIcoUciO/laPhBzm0/goS6iiXEfWQTZ89SHmZogKo0pQ39tnbBAJO0xCYEn/IMRUjCtwXgjfhs5eheSV8iFQEcTdLFaU3q1U8lJCKV3iwciccw0MfDGfA10NAtQAkS14sWxCRNduyxUehY6kaALw68rNknGUn4i3UX8v5a35JC2TAIRoPy6f8hYgM6HoXpvEgse5Van9OD0kyRgbcbZtNbmAzEODm3a4/7Q4eDvoE11Z76BCPviA0AtI54jeb8vaiqHJD7uwdXvuiJGSsrSMnvaP6VRnAokHSPB6kDdog9WmJLjY0qdmQ3vZZvERIebmNdfJE4CRk5yGXyDkiXZJgN3h4upOxpUy97ChWELkFzW1I5nkGrmmehesVaQzqNvsOO/iY1GrFdqfNHl8cqpjADXuHeez4o/yvDCq+5Owm5GczvgRR7TIteSZQ1P0wq8DOFnw==;os+df3IkXwJ99LjH0XGdKg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/police-are-using-facial-recogni
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baltimore City Council Split on Banning Facial Recognition"
-    excerpt: "A Baltimore City Council subcommittee on Tuesday deadlocked on a bill that would have banned facial-recognition technology there, preventing the measure from going before the full council."
-    publishedDateTime: 2020-10-22T02:37:00Z
-    webUrl: "https://www.wsj.com/articles/baltimore-city-council-split-on-banning-facial-recognition-11603316264"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-247915/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "CBSE Introduces Facial Recognition For Accessing Classes 10, 12 Documents"
     excerpt: "Now, CBSE students will be able to download their digital documents from DigiLocker without using AADHAR and phone numbers."
     publishedDateTime: 2020-10-22T12:35:00Z

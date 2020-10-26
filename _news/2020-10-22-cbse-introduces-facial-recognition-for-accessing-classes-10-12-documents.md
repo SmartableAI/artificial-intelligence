@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baltimore City Council Split on Banning Facial Recognition"
-    excerpt: "A Baltimore City Council subcommittee on Tuesday deadlocked on a bill that would have banned facial-recognition technology there, preventing the measure from going before the full council."
-    publishedDateTime: 2020-10-22T02:37:00Z
-    webUrl: "https://www.wsj.com/articles/baltimore-city-council-split-on-banning-facial-recognition-11603316264"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-247915/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "CBSE introduces facial recognition systems for accessing digital documents"
     excerpt: "Using the state-of-the-art facial recognition system, the CBSE will enable students to download their digital academic documents of Class 10 and 12. This computer application matches human face from a digital image already stored in the database."
     publishedDateTime: 2020-10-23T04:17:00Z

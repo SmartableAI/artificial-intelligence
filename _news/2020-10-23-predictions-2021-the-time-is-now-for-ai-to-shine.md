@@ -33,14 +33,14 @@ related:
   - title: "2021 is the time for AI to shine"
     excerpt: "Companies and C-level leaders will tackle kinks in AI head on in 2021, not because they want to but because they have to."
     publishedDateTime: 2020-10-26T14:53:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/2021-is-the-time-for-ai-to-shine/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/2021-is-the-time-for-ai-to-shine/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/2021-is-the-time-for-ai-to-shine/"
+    webUrl: "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 69
+    quality: 67
 
 secured: "HBs5VkLwe7f7Gtm0b2MLu7PxblZFny2IZ0MOFqhjGHYT39WQPNgfoZ1AW7Bgwy5P26+uohEgt4oF432iabGDOR73IhfdHqrInoCh1CoRYejn1QbWpIXMgWiqdH9D+8h8RAQtfzOW4atuSpaJ+Zq/PInysfEuT+CNDE7Rhx3QxfK/5fNKSBKSXZ36eFi2ejAQr0SE2yf1uvhNREZFCQOIlFe+7Y9jbzXIDODpBu40ic5TxjT9so3etJXaARZd1b3cFsS7qDdGo3agqCoF5D86OF2s9CidPySpXKbPiLj9Y0xoy/uz8CMBRYedYFqunCG1cCuxcpZElknB1T2FCNLmRx09xmmuu+KXq4p3dBCB534=;5KQ4wPVH01W0wMl2ofWcMg=="
 ---

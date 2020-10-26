@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-az
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
 type: article
 quality: 104
-heat: 204
+heat: 174
 published: true
 
 provider:
@@ -31,22 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and MITRE release framework to help fend off adversarial AI attacks"
-    excerpt: "Microsoft, MITRE, and 11 other organizations developed a framework to help fend off adversarial machine learning attacks."
-    publishedDateTime: 2020-10-22T17:23:00Z
-    webUrl: "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/"
-    ampWebUrl: "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/"
+  - title: "C3.ai teams with Microsoft, Adobe on joint enterprise CRM platform"
+    excerpt: "C3.ai and Microsoft are partnering with Adobe on a new customer relationship management system for enterprises. According to the companies, the C3 AI CRM is an industry-specific platform that allows customers to unify customer data into real-time profiles ..."
+    publishedDateTime: 2020-10-26T19:43:00Z
+    webUrl: "https://www.zdnet.com/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 103
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
-        width: 1200
-        height: 573
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
   - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
     excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
     publishedDateTime: 2020-10-22T16:00:00Z
@@ -58,36 +53,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 81
-  - title: "Microsoft to take Azure to space to enable cloud services in remote locations"
-    excerpt: "The new connectivity will help bring valuable customer data from geosynchronous orbit (GEO) satellites directly into Azure, Microsoft said."
-    publishedDateTime: 2020-10-22T06:28:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 71
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/jaruvu/article32915715.ece/ALTERNATES/LANDSCAPE_615/MicrosoftAzureSpace"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "C3.ai, Microsoft, and Adobe Combine Forces on C3 AI CRM"
-    excerpt: "The joint solution offers an integrated ecosystem that empowers customers to take advantage of leading CRM capabilities along with an integrated ecosystem with Azure, Microsoft 365, and the Microsoft Power Platform. In addition, C3 AI CRM leverages the ..."
-    publishedDateTime: 2020-10-26T15:49:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143560"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 71
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133199-1020_DataQuality_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an"
     publishedDateTime: 2020-10-22T13:00:00Z
@@ -101,20 +66,6 @@ related:
       - url: "https://mma.prnewswire.com/media/522775/Congruity360_Logo.jpg?p=facebook"
         width: 2695
         height: 1414
-        isCached: true
-  - title: "Wayve chooses Microsoft Azure to scale AI-based autonomous driving technology"
-    excerpt: "Wayve, the London-based company that’s developing artificial intelligence software for self-driving cars, has signed a deal with Microsoft to use Azure. The UK business, which is at the cutting-edge of autonomous development and is seeing strong growth ..."
-    publishedDateTime: 2020-10-22T09:49:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2020/10/22/wayve-chooses-microsoft-azure-to-scale-ai-based-autonomous-driving-technology/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 66
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Wayve-Computer-Vision-1600x747.jpg"
-        width: 1600
-        height: 747
         isCached: true
   - title: "Microsoft (MSFT) And Honeywell (HON) Partner On AI-Driven Autonomous Controls"
     excerpt: "Microsoft Corporation (NASDAQ: MSFT) and Honeywell International Inc. (NYSE: HON) have formed a new collaboration. These are the details."

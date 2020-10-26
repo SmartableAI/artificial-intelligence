@@ -244,21 +244,21 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Tesla says it's finally releasing 'full self-driving' software after it had to 'rewrite everything'"
-    excerpt: "Tesla has bucked every trend when it comes to autonomy, sometimes with deadly results. This release is being done \"extremely slow & cautious.\""
-    publishedDateTime: 2020-10-22T02:32:00Z
-    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10?amp"
+  - title: "Tesla beta testing \"full self-driving\" system worries drivers, pedestrians — and even owners"
+    excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own, it turns out ..."
+    publishedDateTime: 2020-10-26T19:50:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-n1244787"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244787"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244787"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
+      name: NBC News
+      domain: nbcnews.com
+    quality: 78
     images:
-      - url: "https://i.insider.com/5f9069752e0e6f0018dd7bb0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3422644/201023-tesla-car-charge-ew-538p_f824f07adced2e84056d1439b9cad104.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Tesla debuts ‘Full Self-Driving’ beta, but it comes with a warning"
     excerpt: "Tesla has debuted its much-anticipated \"Full Self-Driving\" (FSD) feature in beta mode, allowing select Tesla owners to experience the next phase of Autopilot."
@@ -572,6 +572,34 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/khq.com/content/tncms/assets/v3/editorial/0/60/060777ce-e487-11e9-9cff-d7d7f7bc650d/5d93b1f72532a.image.jpg?crop=480%2C360%2C80%2C0&resize=480%2C360&order=crop%2Cresize"
         width: 480
         height: 360
+        isCached: true
+  - title: "People are really going nuts over Tesla’s Full Self-Driving Beta"
+    excerpt: "Driving Beta to a select number of Tesla drivers. Essentially, the new feature will allow drivers to all but let Tesla take the wheel to get them to their desired destination. Now, obviously, you should still pay attention to the road and have your hands on the steering wheel,"
+    publishedDateTime: 2020-10-26T16:03:00Z
+    webUrl: "https://knowtechie.com/people-are-really-going-nuts-over-teslas-full-self-driving-beta/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Full Self-Driving Beta Release Is Tesla's Most Irresponsible Move so Far"
+    excerpt: "Tesla released its Full Self-Driving Beta enhanced driver's aid system (please note the contradiction) last week, so expect a lot of the owners picked for the experiment - sorry, trial run - to test it out on the street."
+    publishedDateTime: 2020-10-26T11:31:00Z
+    webUrl: "https://www.autoevolution.com/news/full-self-driving-beta-release-is-tesla-s-most-irresponsible-move-so-far-150642.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 38
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/full-self-driving-beta-release-is-tesla-s-most-irresponsible-move-so-far-150642-7.jpg"
+        width: 728
+        height: 300
         isCached: true
   - title: "Tesla’s Full Self-Driving Beta Is a Huge Step Towards Autonomy. Risky, Too"
     excerpt: "Accidents can happen either way. Regardless of which side of the fence you’re on, there can be little arguing that Tesla is making its boldest move yet in the rollout of the Full Self-Driving Beta upgrade. This update, FSD Beta for short, or Autosteer on ..."
