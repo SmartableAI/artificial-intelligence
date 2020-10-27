@@ -64,22 +64,6 @@ related:
         width: 1200
         height: 573
         isCached: true
-  - title: "Microsoft to take Azure to space to enable cloud services in remote locations"
-    excerpt: "The new connectivity will help bring valuable customer data from geosynchronous orbit (GEO) satellites directly into Azure, Microsoft said."
-    publishedDateTime: 2020-10-22T06:28:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 71
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/jaruvu/article32915715.ece/ALTERNATES/LANDSCAPE_615/MicrosoftAzureSpace"
-        width: 615
-        height: 384
-        isCached: true
   - title: "C3.ai, Microsoft, and Adobe Combine Forces on C3 AI CRM"
     excerpt: "The joint solution offers an integrated ecosystem that empowers customers to take advantage of leading CRM capabilities along with an integrated ecosystem with Azure, Microsoft 365, and the Microsoft Power Platform. In addition, C3 AI CRM leverages the ..."
     publishedDateTime: 2020-10-26T15:49:00Z
@@ -108,6 +92,20 @@ related:
         width: 1600
         height: 747
         isCached: true
+  - title: "Microsoft’s new Lobe app lets anyone train AI models"
+    excerpt: "Lobe that lets Windows and Mac users create customized artificial intelligence models without writing any code. Th"
+    publishedDateTime: 2020-10-26T21:24:00Z
+    webUrl: "https://siliconangle.com/2020/10/26/microsofts-new-lobe-app-lets-anyone-train-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/microsoft-2.png"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Microsoft partners Netflix to help you learn data science, AI"
     excerpt: "Inspired by the new Netflix original titled 'Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."
     publishedDateTime: 2020-10-24T16:23:00Z
@@ -133,20 +131,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
-  - title: "Microsoft’s new Lobe app lets anyone train AI models"
-    excerpt: "Lobe that lets Windows and Mac users create customized artificial intelligence models without writing any code. Th"
-    publishedDateTime: 2020-10-26T21:24:00Z
-    webUrl: "https://siliconangle.com/2020/10/26/microsofts-new-lobe-app-lets-anyone-train-ai-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/microsoft-2.png"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Microsoft’s Turing Language Model Can Now Interpret 94 Languages"
     excerpt: "Microsoft detailed the Turing multilingual language model (T-ULRv2) and announced that the AI model has achieved the top rank at the Google XTREME public leaderboard."
     publishedDateTime: 2020-10-26T08:34:00Z

@@ -66,7 +66,7 @@ related:
   - title: "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech"
     excerpt: "But the promise of self-driving cars has yet to be realized, though that’s not for the lack of promise or trying. Self-driving, also known as autonomous, cars have been in the zeitgeist since the late 1950s."
     publishedDateTime: 2020-10-22T20:51:00Z
-    webUrl: "https://www.thedrive.com/cars-101/36937/self-driving-electric-cars"
+    webUrl: "https://www.thedrive.com/cars-101/36937/self-driving-cars"
     type: article
     provider:
       name: The Drive

@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-26T21:24:00Z
 originalUrl: "https://siliconangle.com/2020/10/26/microsofts-new-lobe-app-lets-anyone-train-ai-models/"
 webUrl: "https://siliconangle.com/2020/10/26/microsofts-new-lobe-app-lets-anyone-train-ai-models/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/microsoft-2.png"
@@ -72,22 +73,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/Mike-flying-photo-630x420.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Microsoft to take Azure to space to enable cloud services in remote locations"
-    excerpt: "The new connectivity will help bring valuable customer data from geosynchronous orbit (GEO) satellites directly into Azure, Microsoft said."
-    publishedDateTime: 2020-10-22T06:28:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-to-take-azure-to-space-to-enable-cloud-services-in-remote-locations/article32915656.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 71
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/jaruvu/article32915715.ece/ALTERNATES/LANDSCAPE_615/MicrosoftAzureSpace"
-        width: 615
-        height: 384
         isCached: true
   - title: "C3.ai, Microsoft, and Adobe Combine Forces on C3 AI CRM"
     excerpt: "The joint solution offers an integrated ecosystem that empowers customers to take advantage of leading CRM capabilities along with an integrated ecosystem with Azure, Microsoft 365, and the Microsoft Power Platform. In addition, C3 AI CRM leverages the ..."
@@ -171,6 +156,6 @@ related:
         height: 450
         isCached: true
 
-secured: "pTdAoa97KV8ucG1Dvxe9Iz/z8ljvOmIdUnTaWaf1Emzl9TPt+w7H/MWNvB7du2u0IhQkKio7IoZ2Gtift7QMX4AchQ6tDuNQTSWGN8xiApNe2A8QFvLnpuId6PHJqtwxyYjAFRoXtRO+Rtzst7PBR/h3keOT50fpi18E0bwVE3MiNGmR38taI+OedxknkUx9ElsT63yFAc3SMfuTnlMkN+alOqBqIav8BYYiLrG8AU89rpzA02v/bWYLxeL2zpwY8MlSfiANhq+DaaiQNSJoWofP9Spyovks5QQU8ExU8bv1FqMtdyEI5ZZlhkCYCmRuOAN2cv6ow38QljYg1cyb7/4pZCVP4TPLL9fsd6I8l/4=;S4zQ2UB2s5MQw+a+jjQ4rg=="
+secured: "2I0dN/vpDxZMGrv+eYRLZBggBiTPN+U09S0FscCPlGXpyhw7NBILwAdsamZy6kocsHuUGCXVm64qVSQkzCWTc+aPu5BkaIJmq1uFA+TpafOTV/zGjhmjoH+PcZlZ0o+OhQ3ctUAfAPgT91EfueGWyz33lEpVDKpuKCqCVQyh2nJgWlh2Y73rnT/u3lj3MBdAMEYD7IiZYfa7IYGdoHfLiF3+WXPVPajhVIxcYqI62TnHS9HdHOfFqcr/8BnrTGdRdD/rAwaQH0Jqumg+MhcX34Fb//+RS09sPAi8s21c5r7o870J+kIO15QNTm8R+3oaPT+0w2lrTMQW+/INBHWEn8vrIennqI7eV+ZRYLPNw2d+rS1t1giuF8F5UDMU/o+M+LGiPNM6PRXEGIOZUXlVFcMme7baCn0WkiV4HrJ4+1msVq8tQopSuBsO4FO6GPzMSNwRq4Q6lu401nfAu3ugdQqxdglFWbwpcvETZzHJ4Tq4UCVBrdaI/AyEyEBK3tLoHPTnRA9JDNSTFKMxKZ4W+Q==;m/HnVzk01vzHo7+BER9wXA=="
 ---
 

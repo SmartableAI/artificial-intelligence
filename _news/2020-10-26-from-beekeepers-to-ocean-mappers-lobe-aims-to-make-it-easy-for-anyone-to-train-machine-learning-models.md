@@ -7,7 +7,7 @@ originalUrl: "https://blogs.microsoft.com/ai/lobe-machine-learning/"
 webUrl: "https://blogs.microsoft.com/ai/lobe-machine-learning/"
 type: article
 quality: 90
-heat: 90
+heat: 91
 published: true
 
 provider:

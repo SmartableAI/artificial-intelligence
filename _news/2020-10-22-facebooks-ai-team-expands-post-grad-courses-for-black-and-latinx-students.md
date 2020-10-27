@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-ai-diversity-online-learning-c
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Creates the First AI That Can Translate 100 Languages Without Using English"
-    excerpt: "Facebook has created the world’s first artificial intelligence model capable of translating 100 different languages without relying on the use of English at all. According to the tech giant, most translation models currently being used rely heavily on English when performing translations."
-    publishedDateTime: 2020-10-22T06:31:00Z
-    webUrl: "https://hypebeast.com/2020/10/facebook-multilingual-machine-translation-artifical-intelligence-model"
-    ampWebUrl: "https://hypebeast.com/2020/10/facebook-multilingual-machine-translation-artifical-intelligence-model?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/10/facebook-multilingual-machine-translation-artifical-intelligence-model?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 67
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F10%2Ffacebook-multilingual-machine-translation-artifical-intelligence-model-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1170
-        height: 780
-        isCached: true
   - title: "Will Facebook AI make better renewable energy storage?"
     excerpt: "The social media giant is working with Carnegie Mellon University to discover new “electrocatalysts.” Facebook and Carnegie Mellon University are partnerin"
     publishedDateTime: 2020-10-22T12:13:00Z

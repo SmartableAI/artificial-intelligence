@@ -41,36 +41,6 @@ related:
         width: 950
         height: 616
         isCached: true
-  - title: "Nvidia leads in AI hardware, software performance, says MLPerf benchmark tests"
-    excerpt: "The benchmarks also showed that NVIDIA T4 Tensor Core GPU continues to be a solid inference platform for mainstream enterprise, edge servers and cost-effective cloud instances"
-    publishedDateTime: 2020-10-22T06:19:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-nvidia-leads-ai-hardware-software-services-performance-658927"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-nvidia-leads-ai-hardware-software-services-performance-658927"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-nvidia-leads-ai-hardware-software-services-performance-658927"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 55
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/nvidia-1603347482.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia chips smash AI performance records"
-    excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf."
-    publishedDateTime: 2020-10-22T06:49:00Z
-    webUrl: "https://www.iol.co.za/technology/gadgets/nvidia-chips-smash-ai-performance-records-32037e24-1b16-492e-a74d-4c8cfdb79195"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 54
-    images:
-      - url: "https://image-prod.iol.co.za/resize/500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/f1c5cefc-901b-574b-801e-44b33161ccf5&operation=CROP&offset=0x21&resize=500x281&webp=false"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Nvidia AI Computing Platform Trumps Performance Records on MLPerf Benchmarks"
     excerpt: "NVIDIA Corporation (NASDAQ: NVDA) reported that its AI computing platform has outperformed its performance records"
     publishedDateTime: 2020-10-22T16:43:00Z
