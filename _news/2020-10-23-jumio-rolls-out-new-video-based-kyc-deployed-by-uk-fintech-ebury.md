@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "Fintech Provider Quavo, Inc. Launches Fraud and Disputes AI for Financial Institutions"
-    excerpt: "Last month, financial technology provider Quavo, Inc. released their revolutionary dispute management AI, ARIA™ (Automated"
-    publishedDateTime: 2020-10-22T16:48:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fintech-provider-quavo-inc-launches-fraud-and-disputes-ai-for-financial-institutions-301158227.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "xGVgTGXAhTmdNKANJ9PyGg+KEqF9j8TQFpOvmBIKfMcGglaek212ohuP8aXlh0BHNTUWmAH99khS46fdNHwGfAiHrPIk+E3Hkd5TKcw+fZv+ySPNUNJsO9g/AYQntqmWE26mFRKOxDm1kUbAlhjwA4CanDGjYqNIvkIrhnOH9QmuiYZG5Zrxh5/FXgY5Ic/6RQuYzw11Huj1wm2sLc2BgMM7ICo9Xhi1WC8RG4dRXVSUJCe6q3ReSzR00DEY6tN+fm1EuFr92woAuzEkZUnFsFBb1pix/FVB1WqdZY1u/9Xx7ZAIWkAio4YJanK/Hgges6r/p5mWrpodBdppXc6o1HsGKbxhE+NoMLf79uTOELU=;O3KrgnCfPZEI7SpdGzy/Gg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/bringing-real-time-m
 webUrl: "https://aws.amazon.com/blogs/machine-learning/bringing-real-time-machine-learning-powered-insights-to-rugby-using-amazon-sagemaker/"
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 900
         height: 463
         isCached: true
+  - title: "Making the AI leap: Leading AI experts gather to discuss Singapore's changing business landscape"
+    excerpt: "With the Royal Danish Embassy, Singapore and Cyber Youth Singapore officially supporting the event, global technology experts and solution providers unearthed the new opportunities for AI adoption in Singapore."
+    publishedDateTime: 2020-10-27T08:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/making-the-ai-leap-leading-ai-experts-gather-to-discuss-singapore-s-changing-business-landscape-1029725170"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
     excerpt: "It’s a challenge to learn a new language, especially once we’re past 18 years old. But Duolingo, self-proclaimed as “the world’s best way to learn a language” and seconded by reviewers at the Wall Street Journal and the New York Times,"
     publishedDateTime: 2020-10-27T06:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 2400
     height: 1597
     isCached: true
-
-related:
-  - title: "The Impact of Artificial Intelligence on the Law"
-    excerpt: "New York County's cases are now available for legal analytics. Machine intelligence is increasingly important to lawyers."
-    publishedDateTime: 2020-10-22T17:01:00Z
-    webUrl: "https://www.forbes.com/sites/calumchace/2020/10/22/the-impact-of-artificial-intelligence-on-the-law/"
-    ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/22/the-impact-of-artificial-intelligence-on-the-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/22/the-impact-of-artificial-intelligence-on-the-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f919a1f3bbe04db2a9082f3%2F0x0.jpg"
-        width: 1200
-        height: 872
-        isCached: true
 
 secured: "0IdItAnLaamg3xaRkJi7710b/Fp9/dpJTM28sYYNY3EWHlePdMvxpOl82ZOM22AnKHZaGeqmr/55z0P9smB/D/6pcnDy/j7vqcG1Og9W7w8f9BEUwt891Uv3oxjbYqHEx4ngm9uYa/ZB2zc2AY+i7Hnu9VXMdLFXsKRogdTlsYzOBZxQ8SwRwEUnUEm+9abYZp5ao6OVBDuvnsmHnexE9rhBMsRggye4m0qfA5T60mz0l0RPqIbSbwPrgCNcR7NgA7/MoYTcWGrlhL4POtZtIkioewG4Ir2EN6UwvF0TRY8w0M02pU9BDEm9KIIVNiXH8aRqDh14uQpIpiiZg0OhQqPEFMKyGmNinY/zPiEMWunpuqrkw/CPFuOZQe+L2Uj+3SC0rgGuTnpgPlrIhA/SoGOrEfsvMY2gBD1pZeDS3UgAkQWfIHdSgsCLx6YIma9b/waAlcqFURjAJL2XkDpafwnvl9FOnsaxS65Q3umvjQCFDByBSWEWpmXErD8Il19wHpt9SIeuQsn+jtRYPqNoNg==;kz7r0WYrMW6eRBKA9MvEuA=="
 ---

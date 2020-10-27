@@ -45,22 +45,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 67
-  - title: "National Center for Artificial Intelligence and Huawei announce MoU to develop Saudi Arabia's AI capabilities"
-    excerpt: "NCAI and Huawei will partner on knowledge sharing, upskilling and technology development to build Saudi Arabia's AI expertise"
-    publishedDateTime: 2020-10-22T15:24:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/National_Center_for_Artificial_Intelligence_and_Huawei_announce_MoU_to_develop_Saudi_Arabias_AI_capabilities-ZAWYA20201022184811/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20201022184811/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20201022184811/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 53
-    images:
-      - url: "https://images.zawya.com/pr/images/2020/4179_2020_10_22.jpeg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "AI plan points to Saudi Arabia's global ambitions, future beyond oil"
     excerpt: "Saudi Arabia’s national AI strategy aims to not only fuel deployment of new technology and economic opportunities, but to elevate the nation’s geopolitical status."
     publishedDateTime: 2020-10-25T02:17:00Z

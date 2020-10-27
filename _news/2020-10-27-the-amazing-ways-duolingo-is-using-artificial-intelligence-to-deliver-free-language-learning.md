@@ -71,7 +71,16 @@ related:
         width: 900
         height: 463
         isCached: true
+  - title: "Making the AI leap: Leading AI experts gather to discuss Singapore's changing business landscape"
+    excerpt: "With the Royal Danish Embassy, Singapore and Cyber Youth Singapore officially supporting the event, global technology experts and solution providers unearthed the new opportunities for AI adoption in Singapore."
+    publishedDateTime: 2020-10-27T08:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/making-the-ai-leap-leading-ai-experts-gather-to-discuss-singapore-s-changing-business-landscape-1029725170"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
-secured: "CB7g62T/GeBwnsz/PlwZg/nWzRnklBi97gOkxELk7dqhUQwdT7FVSjcMpXR4oP3IqpdtvsGBF9fCcL9dyVy3KxE1M4jBJrzZtdgp9Rv76tz/Ip1CMQi6PfaUmpaLRu2YSS51fVn7eRHHnoJEuaHJXFmX7z8GYykCC0xFanPAhPs4uFg3qqNGA1Edh9+4QOmrBtbAw37/JIKAtOa5EPD4lF8xUTuWhSnxUAYMOQthUlr1nFuxZ5y7W+rtwoFyzL58X/EhD5LcGWuMbuW4ALcpXeL8kc9ZL+4SGMQaN3WEswSqzr3/Zmr9YAdQuHXsmQMqvkBV3J/bTU+xDi/lmTBXK7Zhlsv/OiQA/uk4kNWs53Q=;g7lGkO2RYWMUzb9kH6oKaQ=="
+secured: "RMWw640rwNU49/UB2kJzLU6Y5+Aqxv2xpf6W7v/iigyFepfkN2ExR4r4lXI0iNvSO5h7WTSm1/MLBoU92tmkd+J7Kizwpgu9NoAKRRNKPbhgwShfQJ76QdA7jF3AcK947K/NY+7vJGXYiTWtjuSj6zO/vs0MzEbznv/on/w+2hZfIikrTcWuvp+csC2bbQSjfHO+mWY0cqsuUJgVR+IwCfmFXSKCkbslAwSZ8yt/yCRIg74R9K+VCInjlN9A8PRcOu1U3G6XspMy3CLWwRi2Xqx9PGLpaEiaD9z8Pa4gzBiKwfDq+UjUBJolDO9KeWmYSrEW0dM6RCeBTx+2b2lznhT5MKxCKkXcxycpCHK6NQ0yoClwMxbS1d7GamNqGjd/1SGVDA2nTsf1d9LuISBF6qHNwKF5kP1EZZN5huT6tqh33k3TfTXH76rtST2CqCg7GT1L3kKZpiYXDrEyOHFPtphCltpd6CTe8wqAlQJlH/XySu0vpjTR0qricFBICXf39AehMD+fswMpzl/b+Ck11Q==;1I0k/TsCPtLuuCrN4pYWjQ=="
 ---
 

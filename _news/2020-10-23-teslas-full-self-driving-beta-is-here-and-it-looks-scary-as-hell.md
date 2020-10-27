@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/22/21528508/tesla-full
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/22/21528508/tesla-full-self-driving-beta-first-reaction-video"
 type: article
 quality: 89
-heat: 479
+heat: 489
 published: true
 
 provider:
@@ -461,6 +461,22 @@ related:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202010/1571/854081161001_6203885162001_6203885048001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Tesla beta testing “full self-driving” system worries drivers, pedestrians — and even owners – Jaweb"
+    excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own,"
+    publishedDateTime: 2020-10-26T19:53:00Z
+    webUrl: "https://elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 44
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/10/Tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-—.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla Begins Deploying Full Self-Driving Beta To Select Customers But It Is In No Way ‘Full Self-Driving’"
     excerpt: "This week, hardcore Tesla fans got complicated feelings in their bathing suit areas as Tesla announced the limited deployment of their new Full Self-Driving (Beta) software, which, based on the name and the hype, sure sounds like it’s a fully autonomous ..."

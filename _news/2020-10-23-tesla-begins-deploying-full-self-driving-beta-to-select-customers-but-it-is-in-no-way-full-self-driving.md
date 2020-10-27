@@ -474,6 +474,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla beta testing “full self-driving” system worries drivers, pedestrians — and even owners – Jaweb"
+    excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own,"
+    publishedDateTime: 2020-10-26T19:53:00Z
+    webUrl: "https://elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 44
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/10/Tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-—.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Federal regulators watching Tesla's new 'self-driving' software launch"
     excerpt: "Big week for #Tesla: release of new #Autopilot features, cost hike of said features, federal regulators take note, and strong third quarter earnings. #SiliconValley #autotech #selfdrivingcar"
     publishedDateTime: 2020-10-23T12:43:00Z

@@ -48,17 +48,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 101
-  - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
-    excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
-    publishedDateTime: 2020-10-22T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ..."
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,"
     publishedDateTime: 2020-10-26T14:01:00Z

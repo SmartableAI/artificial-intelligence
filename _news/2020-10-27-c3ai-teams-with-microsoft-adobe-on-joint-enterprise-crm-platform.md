@@ -42,17 +42,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
-    excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
-    publishedDateTime: 2020-10-22T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
   - title: "Microsoft (MSFT) And Honeywell (HON) Partner On AI-Driven Autonomous Controls"
     excerpt: "Microsoft Corporation (NASDAQ: MSFT) and Honeywell International Inc. (NYSE: HON) have formed a new collaboration. These are the details."
     publishedDateTime: 2020-10-23T18:26:00Z
@@ -102,6 +91,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "EprJqNbRrikU1IobcxeJkWJDm525gABE2XF21NWEB0NH9ZFTG9patFidCDxGgqnvis7eEkJV0ihftDw5g4jtM1cCFSxUrgw73f14dcvKgcGuv9eTsXNont6X2l6KMA2QAW1DRyM+xdxrFDD7nUSATBNbQeBEq4AbDOckhTM1Gu8O9weTRdEogPtTD6JrVh1eUbfVoCc2vXlgOl1ApOvuRA//z5sl1CK2Qw+pbYE3KGIDEmPZSrVsb7dMxTDv+VK4uq5nfFRS8x0U5UFcGSolk7M0YhF9032i966PVlpUPtrwAxy1xMGTgqdey8YEm9JUionk4pf/39dmajEPcQSOcyg6eSufpLEJGv7ewEAvfM14k/Jx9pc61h0oPxZPMisDEELdNDpmcYjErw8WxM64HW7IWfIBPbi7JZid3xZseX8WIZpSUGrxgAsG16kXrktRIC2ZIOwe/3dIqpt8fdKfIeC3XK5QUtgfB21gFhfsVHJEF0NxsSVw5RP49wyh9rUuL9IXEKfABJ+SaIJX2RwbUg==;RnPweZHvReWKSJekI8pd9A=="
+secured: "HU1aPOCoSEXVEy03Ek1zsk4nrThKNUoORja1jl/5Qg9Nqja/FmidiqTJSEwJSQJj/XUX7c5hmT88uw2/w2LX308o3Wal3LIkJfmtieVb92+d4f0doWoYaOR3LZ3SWFVIGcp/UmU3gWqCo9dnJ8KStVzZ5tRMLGFoyrs4SHcYb1dJWyFc3kGys6649EILBon2vjF/lu6nMNTbmgNCu4MkJigkQ285d+y1J5prG11WJGlubcBH/rRvNVe11m/qpoPk9UO2tA3DoHWnJ/b/6/o3GGmYFfdquASkNwabv+iZWTUJ2JlcssDSvTOZ196xefhCKTpwwZnkHOQo18iAzvxCvFlhExckuO1cwOkBnef/3KFDgYbcpdzx9Ac9EmjdIugof4drI6YuXFkymwlG6thv+NYFrzNQPHcR1Wb0hTGpkvNQ3dm1ZCzVhvvg3r7iislbgeq8yt/r28oELYU3UFv1bqjHPfpMeZiYuojmO0IQhOUssReVvMg/Cd0g1kBsuwLDJgaB7z75Z/0lB1U3R/OPZw==;zLJUA0S3iZ+suZC7ORRL7w=="
 ---
 

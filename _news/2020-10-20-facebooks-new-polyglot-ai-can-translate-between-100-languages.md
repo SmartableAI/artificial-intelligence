@@ -3,8 +3,8 @@ category: news
 title: "Facebook’s new polyglot AI can translate between 100 languages"
 excerpt: "The model, a culmination of various automated and machine learning techniques, is being open-sourced to the research community."
 publishedDateTime: 2020-10-20T14:00:00Z
-originalUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/?itm_source=parsely-api"
-webUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/?itm_source=parsely-api"
+originalUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/"
+webUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/"
 ampWebUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/"
 type: article
@@ -14,9 +14,8 @@ provider:
   domain: technologyreview.com
 
 topics:
-  - Facebook AI
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/edurne-chopeitia-5Z8mR4vqJD4-unsplash-e1603118496183.jpg?w=2142"
@@ -24,6 +23,6 @@ images:
     height: 1206
     isCached: true
 
-secured: "ihPnpQlNj/8+ahiiIPPrcR2nx621v5kJr7Y5/OxZaN2JqdSEjc+38xE8YSjA/bdGJqwleQOPbHaAruPw2qUNKwrtdf5pB/NwOvWD79a40vRHkQcHYg67uZsyiX1wISvJkhoNXKNCAfm7k9CXOf8m+s6Lqf4vNEL8n+nHml1dykguc9ZnTyth8F+XM16DrNx8OqSymEvUgmU1jmJGSROIvTR/iW9WDatGnqJTDQ5u44YdkG0eepp4uZImXQUrVmFQSKoU86zG4KZTMYRHJgG5YM+7LbaZ7NCHkhMqh1/Dkya7NAZy1U+Ul/MU0xwdnsivRjszSkx33fjw53YEiweqNlrkHd2zGrFKyg5IEfV/2yI=;YAOhdrdCN75yJGpbBSorqw=="
+secured: "mo3334dKIyKHL1PPrk5M6pmIOX/T4N0VipTnLerkr83orIhqrsl1GTUm46Ys2Ah7yJJ6CFtPxfY8l3jdWj3db7mc63WuF95GEaWnXjFiQmK7/hrgSMa8+D3TBSbywmygy+an1upbUcLRCyA8J6un9y2wwTaa+Xj81r1rJOWPS6o9AHGOwHDEONLGzsyLS1mfyBZQayqX+n/M7SclQwiBV9t721IOgQA+5ZvX6w288d3MlCDD/NZ9u7t339CDv1BIi7y+LrcBfhWq5dNV/pag5rAH/tR9yG3lsg1mQHejdaWqbBJa+JEro3suBDbMwLX4ENNpE+lTwY5S+wesV9IfZz4KAAjWAQbYPKz/8m0jUaA=;YOZTVyD83bLwTHvNOgve7w=="
 ---
 

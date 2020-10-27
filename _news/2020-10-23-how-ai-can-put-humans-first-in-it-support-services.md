@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Cable Industry Is Leveraging Artificial Intelligence To Manage And Maintain The Next Generation Of Service Levels"
-    excerpt: "The cable industry is clear that artificial intelligence is one tool that will be able to help them address the future bandwidth needs and service level demands. SCTE•ISBE shows that both engineers and complete organizations are focused in doing it in a local and organized manner."
-    publishedDateTime: 2020-10-22T16:38:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/"
-    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/22/the-cable-industry-is-leveraging-artificial-intelligence-to-manage-and-maintain-the-next-generation-of-service-levels/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
-        width: 876
-        height: 548
-        isCached: true
   - title: "HelloWoofy is the AI-driven brain that could change how you handle social posting."
     excerpt: "Sponsored Deals For companies who don’t have the resources to throw their full weight behind social media marketing the way they should, a service like HelloWoofy Social Media Management can be like adding that social media manager they need."
     publishedDateTime: 2020-10-23T15:05:00Z
