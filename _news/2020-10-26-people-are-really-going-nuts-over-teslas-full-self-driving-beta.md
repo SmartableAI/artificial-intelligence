@@ -41,38 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elon Musk said Tesla is about to hike the price of its 'full self-driving' software by $2,000"
-    excerpt: "Tesla is raising the price of its \"full self-driving\" software to $10,000, following the release of a limited beta on Tuesday, Elon Musk said."
-    publishedDateTime: 2020-10-22T10:06:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-rise-beta-10"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-price-rise-beta-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-price-rise-beta-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://i.insider.com/5f9146bbabcd0c0018d68f87?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "First Look at Tesla Full Self-Driving Beta and it looks just insane"
-    excerpt: "Driving Beta software update as some owners who are testing it are sharing videos and it looks just insane. After months of working on a complete core rewrite of its Autopilot and Full Self-Driving Package,"
-    publishedDateTime: 2020-10-22T10:14:00Z
-    webUrl: "https://electrek.co/2020/10/22/tesla-full-self-driving-beta-first-look-insane/"
-    ampWebUrl: "https://electrek.co/2020/10/22/tesla-full-self-driving-beta-first-look-insane/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/22/tesla-full-self-driving-beta-first-look-insane/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-hero.jpg?quality=82&strip=all"
-        width: 2540
-        height: 1150
-        isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ beta is here, and it looks scary as hell"
     excerpt: "Or as Tesla warns in its introductory language, “it may do the wrong thing at the worse time.” Frankly, this looks terrifying — not because it seems erratic or malfunctioning, but because of the way it will inevitably be misused."
     publishedDateTime: 2020-10-22T19:25:00Z
@@ -555,6 +523,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/khq.com/content/tncms/assets/v3/editorial/0/60/060777ce-e487-11e9-9cff-d7d7f7bc650d/5d93b1f72532a.image.jpg?crop=480%2C360%2C80%2C0&resize=480%2C360&order=crop%2Cresize"
         width: 480
         height: 360
+        isCached: true
+  - title: "Tesla Owner Videos Show 'Full Self-Driving' Beta Has a Long Way to Go"
+    excerpt: "Tesla warned its testers that the car could do \"the wrong thing at the worst time.\" Videos show the car swerving in traffic and stopping mid-turn."
+    publishedDateTime: 2020-10-27T02:33:00Z
+    webUrl: "https://www.thedrive.com/news/37282/tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 39
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2020/10/oop_970x546.jpg?quality=85"
+        width: 1940
+        height: 1092
         isCached: true
   - title: "Full Self-Driving Beta Release Is Tesla's Most Irresponsible Move so Far"
     excerpt: "Tesla released its Full Self-Driving Beta enhanced driver's aid system (please note the contradiction) last week, so expect a lot of the owners picked for the experiment - sorry, trial run - to test it out on the street."

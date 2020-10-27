@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-ai-diversity-online-learning-c
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 879
         height: 455
         isCached: true
+  - title: "IT Giants like Apple, Facebook, and WIMI's Efforts in 5G+AI vision application of Hologram AR"
+    excerpt: "AR has become popular again. It was revealed that Apple is about to launch its AR glasses, called Apple Glass. The glasses look like ordinary"
+    publishedDateTime: 2020-10-27T01:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18066040/it-giants-like-apple-facebook-and-wimis-efforts-in-5g-ai-vision-application-of-hologram-ar"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18066040"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18066040"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 30
 
 secured: "d6yHq9q9wLCcniPI7dGkOgSDBYuGHutX192wVNP+QFfbFEKEgGeYu7CsVJBfiq7u4hVYqTnvSQJ/KBQfvXGKlpJ0bWz8sohvPj34vCT97GU5IC3PyPy5IzgcfE+sgc+GiwqrJbVLJcb/qrme6fA1sVLe6q9uN8JI63r2oCaaanNVViJC0xOH1Oh8ws+jS2Z+XCJlxUFR66Q+codVc82ADtWxaDAwng+sFBwKAPOf1XSEmMMTo29/TvZk4R1diKfn3DDPzywAcCjQbGwmTsDe0QHxE9Qp36TsiFjFCc4clLdyfXaD20aGNhm1IvdIKM5JHKiXiRrgxqRXnHD9OQE+nL1Pzz1rA2YGKGI0v1NyzxcKfkTHFQcGjw2yU4fAiFKjrw1CmXRS5IClQXQF1BmsFiCla5fDEJNhIv7ZMr5YhrdefMXjv9OomdnS/hgY2O/hNUVwircbnRBztqQ9q1UcrouRXf8n9VJ8l2B6JRjE9LD3rXaCzE1jtwjPyWmFfvBzzH4EK8YldHodeAVL+O8hJw==;J75sCB7IGj6I+EabTUow/g=="
 ---

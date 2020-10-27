@@ -3,25 +3,20 @@ category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
 excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
 publishedDateTime: 2020-10-22T07:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3"
+originalUrl: "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/"
+webUrl: "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "/xKaH20UvqofghoY9XMNtu8dHJKZy/C8+Rld/Wadsc8E3nDWRXkVp2OQkasGnoIlS3Yo/c6H9/u6rQP0ffkxRVUEOH+or+S8jpSrHlZhtimPfq0HNNqb31Aan73fKUCSpGmCvgYAmqA84+6BF/omZT9O7zoGYb0RFytkMUXVepEljcq/o/7242M/33bN3M3YZ6HDp3rne88/eVG8pIdukc25f8MEZ13WevII3+tgzmplIEJ7ZQ8RIPh/OAMaWYmxijvd5IVyUq+w4RaU9+JLtTpAaVMS0Vn0UuSFqgfZQpJYOqE3S9REOyYPgl7JA13BAmg712G1YUm2DR0tDKgvJhn92gtBql3veXCRVpM8gUE=;vkXKiJTICMbr4UrubPlziw=="
+secured: "F2YorNwpZlb5I/NQoZ47EutGjHCBj/fh4EW42OKnAytn1gMNkvt7JGtubJA7fK8AlJ58IBgTaMTbEN03jXiiB2uJ9UXsK3JvtIymT5tWTCTNcjxBwCmpvAFmMsqaNRBZRzrWb4FjuysG/h7TGT7/FsGSQ/PmbiXBuwhd2Hdltcs7wH3D+gGLSrzqWwWAVq8RqVMjF4iKZYM7e0BnGKLAD+h9asGRSo3WV7bQzg7yANeETuZY1G1U3MseriHFveJVdOnTM4XgLg0VYz/OIw99ZXUydRniAU8XfE1H6ddmGySN440b+hqEDC87jrl1dvrU8NomDUca59wbEc/tlxJzWyh7UuWv4bcohnlqFX4L3fE=;+7iV7eZatOkCbC59NpaxjA=="
 ---
 

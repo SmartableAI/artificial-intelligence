@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fleet of six driverless Ford Mondeos to be tested in Oxford for the next five months"
-    excerpt: "Technology firm Oxbotica, spun out of an Oxford University project, has retrofitted the vehicles which are following a nine-mile round trip within the city."
-    publishedDateTime: 2020-10-22T10:26:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8867533/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8867533/amp/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8867533/amp/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 52
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/22/12/34703790-0-image-a-15_1603364583923.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech"
     excerpt: "But the promise of self-driving cars has yet to be realized, though that’s not for the lack of promise or trying. Self-driving, also known as autonomous, cars have been in the zeitgeist since the late 1950s."
     publishedDateTime: 2020-10-22T20:51:00Z

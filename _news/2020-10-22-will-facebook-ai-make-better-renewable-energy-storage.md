@@ -43,6 +43,17 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "IT Giants like Apple, Facebook, and WIMI's Efforts in 5G+AI vision application of Hologram AR"
+    excerpt: "AR has become popular again. It was revealed that Apple is about to launch its AR glasses, called Apple Glass. The glasses look like ordinary"
+    publishedDateTime: 2020-10-27T01:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18066040/it-giants-like-apple-facebook-and-wimis-efforts-in-5g-ai-vision-application-of-hologram-ar"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18066040"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18066040"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 30
 
 secured: "KZpogB9lbroTAMOkrM92wCushMps1FHhj67qsIVWzZdyK8P5i3N7hW5HI7sIVDZZH4tPw75LKtPLcGLkeQ6UIyDcw/fd/VScCgKlpvKxgjpA2P2OKu5Nyp+KlEKOw4V/B2WXhGd74pw2AsmzsHOnQAbUT6tNPDUShU/rRbtlJrOjrWxq+5OLCD5f7/E18ZdBovUdkJeY+pGQKqWZhhAgUkm7OPSTGagDJtVNxuDckyPP7SaUxs/tSu2Ypx4185aQC15gBXhKk9x2XK2NwSvJm/HR8070D/0QcqLYH3rWwTvBb3k5AZDLTF/+OntjkQGEBveR25n0PACZljpM87DQfK/FMwo/nuQBAqKFN5l/Uq4RcRLBhdqr8bAxFd64g/AkxjhG+K5Ho9eJmwjqStcX6ILLEvh3gRSLyo8RunXn6B1kwYW0kJRZwcSheDCSq/xDz6d2YJsex5YZ6eJJJS0HrEd7uKwAwUH01w2C8JMD/TmT2qNhOUIRLnjZ2qRZtvLOkyRZIyZyOnKAO7rX+axyTw==;0SEt/D2tU7Y6dRybAo4lkw=="
 ---

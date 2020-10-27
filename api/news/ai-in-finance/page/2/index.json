@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-25-aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.md",
+      "title": "Aiera CEO on company's machine learning platform, benefits of AI investing",
+      "excerpt": "Ken Sena, cofounder and CEO at Aiera, on the benefits of AI investing, highlighting the company's machine learning platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.html",
+      "originalUrl": "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106717211-16010328336ED2-REQ-092520-WEX-SenaAlTech.jpg?v=1601032832",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-lemonade-cfo-tim-bixby-to-present-at-the-barclays-global-financial-services-conference.md",
       "title": "Lemonade CFO Tim Bixby to Present at the Barclays Global Financial Services Conference",
       "excerpt": "Tim Bixby, Chief Financial Officer of Lemonade (LMND), will present at the Barclays Global Financial Services Conference on Wednesday, September 16, 2",

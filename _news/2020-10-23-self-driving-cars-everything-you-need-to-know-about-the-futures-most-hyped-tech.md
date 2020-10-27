@@ -57,22 +57,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Fleet of six driverless Ford Mondeos to be tested in Oxford for the next five months"
-    excerpt: "Technology firm Oxbotica, spun out of an Oxford University project, has retrofitted the vehicles which are following a nine-mile round trip within the city."
-    publishedDateTime: 2020-10-22T10:26:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8867533/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8867533/amp/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8867533/amp/Fleet-six-driverless-Ford-Mondeos-tested-Oxford-five-months.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 52
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/22/12/34703790-0-image-a-15_1603364583923.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "5EiFy+qIq4F4BnlXhj3/W4FTpflk11waiP8R+g21TDoFnIxMyOXCTq629JE0jVGjLivSomhvt/9U1kT6xRNTSP7+/QwBot6kETxLFH58J+nE6Bm7n2nViv6u6/6y8SgRKMmicOW91qjpV/Zf97/3oJXpeNv73xOh8KB7TYZG6UzBOjoEKv/EkIoTbaahaU+aJ7Qey/3FoH8x4Iyd/eOp7jmj7GMFpT1CUfcnzYGX5m6ZPMXFj4abpQf8/P5uoWwZcOKs0iEm25r9kHEdyN0g0mnTMHjf2gQhwzPFLvAQLqXDE3wf6BK4cTuvtAN9XwfTSVTX0bb2IVzM4Zg8p4hVoMnTKb2/Et4wjyhU/2swHW29yHqxQg5/gcBRGkVvWKgznd7Me2QUSionCYz874CbWND8lGgNPsT9s1khaGY7Yics/ecHQcgcHE70a/bWipjt1gBAFWbW/RVMnSKwtXURX+Gb452jGPVfvgip2zdp3GoNWUBuT4QHHiGbga60EoutH5wGtIB6maG3Qhf3jK7TUA==;QiUD3hpHbCGmo52i+tFzjw=="
 ---

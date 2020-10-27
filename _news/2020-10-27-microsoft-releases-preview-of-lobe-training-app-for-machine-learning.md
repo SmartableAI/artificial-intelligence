@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-preview-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/"
 type: article
 quality: 106
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133199-1020_DataQuality_480x610-ORG.png"
         width: 480
         height: 610
-        isCached: true
-  - title: "Wayve chooses Microsoft Azure to scale AI-based autonomous driving technology"
-    excerpt: "Wayve, the London-based company that’s developing artificial intelligence software for self-driving cars, has signed a deal with Microsoft to use Azure. The UK business, which is at the cutting-edge of autonomous development and is seeing strong growth ..."
-    publishedDateTime: 2020-10-22T09:49:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2020/10/22/wayve-chooses-microsoft-azure-to-scale-ai-based-autonomous-driving-technology/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 66
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Wayve-Computer-Vision-1600x747.jpg"
-        width: 1600
-        height: 747
         isCached: true
   - title: "Microsoft’s new Lobe app lets anyone train AI models"
     excerpt: "Lobe that lets Windows and Mac users create customized artificial intelligence models without writing any code. Th"

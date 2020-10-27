@@ -59,22 +59,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Hackers fool self-driving cars into sudden braking"
-    excerpt: "The car was equipped with Tesla’s latest Autopilot semi-autonomous system but was unable to discern the digital image from a real stop sign, leading it to make a sudden stop that could cause an accident or a traffic jam."
-    publishedDateTime: 2020-10-22T09:40:00Z
-    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2020-10-22-hackers-fool-self-driving-cars-into-sudden-braking/"
-    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2020-10-22-hackers-fool-self-driving-cars-into-sudden-braking/"
-    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2020-10-22-hackers-fool-self-driving-cars-into-sudden-braking/"
-    type: article
-    provider:
-      name: The Daily Dispatch
-      domain: dispatchlive.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/gQQFFqJQusQMSz9jsTtsgT2RYqfamuE5OgHbeDIuyC7J5mF0jAAxMfJgbv2ZufAuA_5y37qVLrauatJuxbRw59jiVJinbbhQ=s1000"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Self-Driving Cars Are the Next Battle In the EV Wars"
     excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
     publishedDateTime: 2020-10-25T12:54:00Z

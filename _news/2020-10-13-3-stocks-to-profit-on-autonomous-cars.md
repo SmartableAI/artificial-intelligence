@@ -1,24 +1,28 @@
 ---
 category: news
 title: "3 Stocks to Profit on Autonomous Cars"
-excerpt: "Chinese tech giant Baidu has been making some significant strides in artificial intelligence and self-driving cars. Last year, it announced that its fleet of 300 driverless cars in China’s ..."
-publishedDateTime: 2020-10-12T18:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-self-driving-cars-1029671149"
-webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-self-driving-cars-1029671149"
+excerpt: "The race to get the world’s first fully functional autonomous vehicle is heating up nicely, with several companies targeting the 2021 launch window. The industry’s progress has been halted ..."
+publishedDateTime: 2020-10-13T06:19:00Z
+originalUrl: "https://investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/"
+webUrl: "https://investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/"
+ampWebUrl: "https://investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/amp/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "q45XuPq4qIH7k8m+AtdnZKQEAzF7+1SFVqYF6s10B1CSlbf32H5MjnL9lkYmZ+VMo8fWe4lhYPF5UCrzHiguIf0pe3Hwh+rE1GUzWXl6JLTDCa3RhcfhosXO4rMV5B3vJCxh1hPSVIbFPcqZtI2shq2SfEgvDSJrXDN/vFl0Fk7NzZOuKSwvdakNnMe/jrFQ16S72Q5YXboKesQ1wyT6ETfiONBk7+k77cW/MIHK7++/Iezo130kGXsZpLVqo6rfrxrr0Zg+M42rNY15wJIvSKQRaK84F61fUNPaUrFxNGfUy/R0a2Rwp6zL8hOD26FlQIG7OfqqIjT6ohN3B25dtP84Og/0RyXIFyVVGMPFwjY=;T/+mGWjN072OHdZzCKK8nQ=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/autonomouscar1600c.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "VHcMWvRq+runZRRNY6EtSqHGsl2VKs90zCLu2A/3F2DZk9/1EK4YwMMAOXmu71FuL3Rc8Qf9qDaF5kQzw69cVsESBoZ0/iwgnigFJ/YHWf0MvHUA9kBSVi1ifOfNQrJAXIettDEJd9IVlKWACqhbz5dm28dI7zDfUaU0vKblI6pGL9BQkIxYcdCzMcogUilTUlosJPMX9gU7qTIYiauGdvLzjelXWllvXUzBje8dC5Dy6m/SWQzOplq+RZl39bLsWvU8d7qAmet47mKCCAjI4EPQf87f+FG3DNsIdqexO61uSfwMmvkGPYuCeT7QQiWtRu2KcgMfuqJWsSpKVVFiVCGHQlp4/fkJTqocLvm8uf4=;+OC2JQemlz+2t1n29CcY7w=="
 ---
 
