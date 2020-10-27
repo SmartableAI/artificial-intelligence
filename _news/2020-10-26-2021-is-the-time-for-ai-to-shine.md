@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
 
 related:
   - title: "Predictions 2021: The Time Is Now For AI To Shine"
@@ -42,6 +41,6 @@ related:
         height: 675
         isCached: true
 
-secured: "eYOpfvzOSVS77FLmC+tj6MfWCfcjeWXN+yUVxARde5lscwtLsKdafHe2yYS2QxNc4qePMhm7eAoJcM/wgtG5lz9Ml87LTsaBz1Csw/v7DI0LW6tBAJqRCenB6jQitA0Qg1U7RQMeUTmrIl69lxqv4KthWRXKLUBbqdmSAFsDaBz+3dXL7D26ZD8Dyh+2xqd2ycA2UikNEkfMpLsV9+i3U/w5E8CtLamxfe+NUepu9f4UEL/EyWn+pVHGDSqdV7/bvxdGpamjVkQkRsmhxGTWIUqplpK0ScnTkO55DkG1jhvBIi4psrmT+9ISpzI4iwRvoEdFf4YoMdXaRU6de4gu3eaLfEp5kBKuUIvRSbt60IB8mImJ+iFIgCpEu9BhAxmc6Iy/XZleyZmmdyd+1YgZTtXzBO/Mak1qsia6dr9xiAPfu781pSqDu1Slrg9KZh7u0zqUCLkFRP0Pdw8BSuEpT89viZL9Fy4indNUw1AQz25/g1n5MEVG1luZz0rRRDOvQsxLT6PmsH+eLSthHWLUJA==;aQK+xWgxjiPlOzo6sk/QFQ=="
+secured: "4Db4OBCNtYwtvPNTB9fesN62v6VW/fMMCgkVADkitaiDvHW2L8IkTMpmLwbHJenDzUcRHfdHp/02mO+uzJS+dWvjTQgxEdCEsW5LRkrD0mv17O2Pn3cTbgfUYiu8Q+71pF9mc5GgMNFSNm+mvlLcMbq2jGdyOI/tmN5qcPnCPL/5hXQ4jbNi55KKZEsv2t7Ff2XpSWJMGAhQp4iD+fS9E3wIyFYAO+wh1cgn+2M5nihF73yJAfBDuCoGiehhbvIzoqjWMr7TCiehRcwRQiJNN28cj1rocTtQIfTfqM8c6wOWbfdHPe/nKdQKYLBXviXTLm/5pRI+KcY9LZoErNIcAXMRCHhRwI4vfhEWk1mDShWqk1uIA+/UzrLOKCTQW22tf2IKcg9J+6pFAxN7Vdx6j+tlQt7CFGr2k8B8d9zY78MbPpD+bK+9CJ70g7F5kBN9fB6+k9pnu0fi/LRVwtdRR5BvKapCatrG7BJzZIjYc10fLKiL027wLiuT0pZtouay7a8rx+rL3pqXRtuGMgO6fw==;u5CTS+UEO6pJiN1KUX5VJg=="
 ---
 

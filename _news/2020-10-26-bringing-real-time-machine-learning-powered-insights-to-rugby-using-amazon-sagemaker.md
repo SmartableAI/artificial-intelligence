@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/bringing-real-time-m
 webUrl: "https://aws.amazon.com/blogs/machine-learning/bringing-real-time-machine-learning-powered-insights-to-rugby-using-amazon-sagemaker/"
 type: article
 quality: 99
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Securing Amazon SageMaker Studio connectivity using a private VPC"
-    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). With a single click, data scientists and developers can quickly spin up Amazon SageMaker Studio Notebooks for exploring datasets and building models. With the new ability to launch Amazon SageMaker"
-    publishedDateTime: 2020-10-22T21:23:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-connectivity-using-a-private-vpc/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/21/2-studio-architecture-vpc.jpg"
-        width: 900
-        height: 467
-        isCached: true
   - title: "Building an NLU-powered search application with Amazon SageMaker and the Amazon ES KNN feature"
     excerpt: "The rise of semantic search engines has made ecommerce and retail businesses search easier for its consumers. Search engines powered by natural language understanding (NLU) allow you to speak or type into a device using your preferred conversational language rather than finding the right keywords for"
     publishedDateTime: 2020-10-26T18:26:59Z

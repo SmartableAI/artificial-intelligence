@@ -135,6 +135,20 @@ related:
         width: 1280
         height: 1280
         isCached: true
+  - title: "Microsoft beats out Amazon, Google for strongest healthcare AI offering, KLAS says"
+    excerpt: "Healthcare providers and insurers consider Microsoft to have the strongest healthcare artificial intelligence offering among the big tech giants, according to a report from healthcare data and IT insights company KLAS. For its \"Healthcare AI 2020\" report ..."
+    publishedDateTime: 2020-10-27T14:39:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/microsoft-beats-out-amazon-google-for-strongest-healthcare-ai-offering-klas-says.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 65
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Microsoft’s new Lobe app lets anyone train AI models"
     excerpt: "Lobe that lets Windows and Mac users create customized artificial intelligence models without writing any code. Th"
     publishedDateTime: 2020-10-26T21:24:00Z

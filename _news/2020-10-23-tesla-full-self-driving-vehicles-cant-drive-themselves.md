@@ -107,6 +107,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla Autopilot safety shows improvement as Full Self Driving fail videos rise"
+    excerpt: "It's also important to note that this information is for Autopilot miles from the previous quarter, so this is not a reflection of Tesla's recently launched Full Self Driving beta rollout. There's an interesting potential parallel that we think will ..."
+    publishedDateTime: 2020-10-27T15:54:00Z
+    webUrl: "https://www.autoblog.com/2020/10/27/tesla-autopilot-full-self-driving-safety/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/10/27/tesla-autopilot-full-self-driving-safety/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/10/27/tesla-autopilot-full-self-driving-safety/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 85
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/10/27105405/Screen-Shot-2020-10-27-at-10.53.36-AM.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
     excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
     publishedDateTime: 2020-10-23T07:06:00Z
@@ -284,17 +300,17 @@ related:
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
-    publishedDateTime: 2020-10-27T12:48:00Z
-    webUrl: "https://www.10tv.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    publishedDateTime: 2020-10-27T14:29:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
     type: article
     provider:
-      name: 10TV.com
-      domain: 10tv.com
+      name: WHAS11 News
+      domain: whas11.com
     quality: 59
     images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+      - url: "https://media.whas11.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -485,17 +501,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
-  - title: "Tesla Testing ‘Full Self-Driving’ Vehicles That Can’t Drive Themselves"
-    excerpt: "Tesla sent out its \"full self-driving\" software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-22T22:37:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2020/10/22/tesla-testing-full-self-driving-vehicles-that-cant-drive-themselves/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/10/22/tesla-testing-full-self-driving-vehicles-that-cant-drive-themselves/amp/"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/10/22/tesla-testing-full-self-driving-vehicles-that-cant-drive-themselves/amp/"
-    type: article
-    provider:
-      name: CBS SF BayArea
-      domain: cbslocal.com
-    quality: 39
   - title: "Tesla rolls out 'full self-driving' software to select Tesla owners"
     excerpt: "Tesla announced the release of their beta software for 'full self-driving' cars to a small group of Tesla owners."
     publishedDateTime: 2020-10-24T18:14:00Z
@@ -634,6 +639,20 @@ related:
       - url: "https://res.infoq.com/news/2020/10/tesla-full-self-driving-beta/en/headerimage/tesla-full-self-driving-beta-header-1603629903593.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "A Telsa Bear Is a Little Less Bearish Because Self-Driving Cars Might Be Real"
+    excerpt: "Michaeli, in his research note, also noted the chance for faster-than-expected development of full self driving cars. That would be a game-changer for Tesla and the industry. Tesla (ticker: TSLA) recently released a test version of its full-self-driving ..."
+    publishedDateTime: 2020-10-27T15:46:00Z
+    webUrl: "https://www.barrons.com/articles/a-telsa-bear-is-a-little-less-bearish-because-self-driving-cars-might-be-real-51603813449"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 21
+    images:
+      - url: "https://images.barrons.com/im-250253/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "6Nwa6meIe6KcIdGHSDzqEAKseaS/9ohPsVdb5eMZ1jlIr8vxm/7YYtlL9qosjNSi1OBusTjoc+T/PplFiph6iAI1MlODIFhMjRppDV3UEb/3fypmKZBBFlVnEHXApPwoWSr203MufU8FN6HxjBjzAXYY66j/wMsj81rIqpbS1e5/mieZF974h06AvQzhMVUe/4hLIw2amUUdfBm0dsl0cmQbtR4psYhhmAyGwu2JmV5xeGY5KcHiNlvplGNmxpq+ybOY7aPS1VicjD0zDClbNbwKKcudXvcP/ySO45ImZMVScBbEKNmygqdR1xz9hKkxZdMG+XxKb2OMXY2YJ4KUY4R1YOkPzDzii9Qf/vKfBO3nn/AN0/T5EEjh+s9wYZRsKDYo2TwwEyLMGGhgAmhzLw1znDej4G43gLRri2PuoL3Zsxam9mUdO79i66Y8kqJzHQVb8a7Bb0Cc06uhNzm4hSbr5FGAemmCzaIpOY4nS21KWkV8u2j1+YW7X67JLc9hk6awZabbETEF9H24VyP91Q==;6toJQJi3f9nbVyj1ECKFAQ=="

@@ -1,29 +1,32 @@
 ---
 category: news
 title: "Lytx Launches Groundbreaking New AI-Powered Features to Help Protect Driver Privacy and Empower Real-Time Self-Correction"
-excerpt: "SAN DIEGO, Oct. 27, 2020 /PRNewswire/ -- Lytx ®, a leading provider of machine vision- and artificial intelligence-powered video telematics ... and accurately identify driving risk. Using precise, cutting-edge technology, this new driver-powered approach ..."
-publishedDateTime: 2020-10-27T13:07:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/lytx-launches-groundbreaking-new-ai-powered-features-to-help-protect-driver-privacy-and-empower-real-time-self-correction-301160474.html"
-webUrl: "https://www.prnewswire.com/news-releases/lytx-launches-groundbreaking-new-ai-powered-features-to-help-protect-driver-privacy-and-empower-real-time-self-correction-301160474.html"
+excerpt: "The Next Generation of Driver-Powered Safety Lytx is adding a number of new capabilities to its safety offerings in support of this driver-powered approach, including: With these new MV+AI-powered ..."
+publishedDateTime: 2020-10-27T15:38:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/lytx-launches-groundbreaking-new-ai-powered-features-to-help-protect-driver-privacy-and-empower-real-time-self-correction-1029726879"
+webUrl: "https://markets.businessinsider.com/news/stocks/lytx-launches-groundbreaking-new-ai-powered-features-to-help-protect-driver-privacy-and-empower-real-time-self-correction-1029726879"
 type: article
-quality: 14
-heat: 14
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1320247/Driver_Empowerment.jpg?p=facebook"
-    width: 1200
-    height: 628
+  - url: "https://mma.prnewswire.com/media/1320247/Driver_Empowerment.jpg"
+    width: 400
+    height: 209
     isCached: true
 
-secured: "hFBJFWNutZpSgeJwl9N6mfEZWJNjYLAkWR8UGB7i1NDy8dln00n5rCK0SZCINAl64m58h+XdJ8JU1Uggy/tiQEsa8YWgbzp1cMks8r/Zx6YpTbe2VSW6Hb+6ift26NTA7rEuZUNe8MckzeMrn3Hpo0ZIY7Qu4H+O08cmhPjznCL8+P1E/FA++k5fWapBdWWQqkH6rNV5FRle8cKC+5WnbS+Iq9qauw7BZzY62nQmsbtbjqaPKPP6vD0vtKTubOWtHJH03qvqq3cSNx9ngbGtAR3Ehv+Kw8ZOzo++SwAeopw5O09hXYkALEJ9D3gBdS+kT13BOyh6bCuo5O5V+q7EOWIFlBfap6ugwCRsI3Dg2Y8=;022rfmDJ2xBBgqaiNQZn1Q=="
+secured: "OeGaRX3lD5Ap4sz54+bIMzY9K1KteLYzGxWcSWvwI8ZIuU1/fhKz2EaQKpEzw4ZcvynZDWMUPloDSnCFdqdk5ZqiVTkOfhUXKGri1tz3ZZOZujGc+qzc0W6r0WXOjzQAu78yNOhoq5YYpzSlnzkO275IHuYtj4gKd+purh6VQMO/Vk2rH0psYuMonj4ydwBgAHFnkDkk4ughMJKNnOWphnKwYXlEvfzKCiyxCH6GvcFAdFnnG84fgDG5vQouzYFGkRR9o8xEsUn8A/niOhmpTao7z92MfRdX9EKICh3liM7mxP+KehUkBut7KVkvda0UbDLc4zb9+eGY21TapJIQsGz4bvwbIcaR9ntgr7vaVWI=;W7NWvnTFdFRx+VfM8uNRqA=="
 ---
 

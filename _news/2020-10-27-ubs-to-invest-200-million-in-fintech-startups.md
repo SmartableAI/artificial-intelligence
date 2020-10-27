@@ -57,20 +57,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Fintech start-ups to get equity-free investments"
-    excerpt: "Five start-ups that are building financial technology (fintech) solutions have been chosen to receive equity-free investments, as well as technical and business mentorship, for one year under the “Fintech for Impact” initiative of ING Bank and UN children’s agency Unicef,"
-    publishedDateTime: 2020-10-22T23:05:00Z
-    webUrl: "https://businessmirror.com.ph/2020/10/22/fintech-start-ups-to-get-equity-free-investments/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 24
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/04/BM-logo-square2.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
 
 secured: "qpQ6h9LgeQQ2DzclM0COUDFS0prWkkBBeIMtNy+QvEXQPJkftw9qygothYF3veS7aM8weZ0LD/exYWfoyYtDpTuxy+aVxrLFT1cEQ78+vq+FFTqGJAhHf6rTLJQHCNUL1p87c08gUige9U2kc1f+W+DQ4FxwfNBOiMjVOfgLRinqzDStudumKTtlfSojpDyHyiSvScm9kVoOzMLPuB4CiMR8JylDzw3pDiZX7zJSPN56INbgxIoFKWF4+I0P+SHOAx8c8j9ilpi/08fitiedG1WhxjhH3+W3aJIX0dgLaMzE6OmQeMhUsLU/nIdyGX3JPLCXRlmfRbptGAyvC4ibNWiQNNbp6Cemlui+sxOd4no=;qExSDPUu61yNOA8eUGjz3Q=="
 ---

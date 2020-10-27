@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The AI that spots Alzheimer's from cookie drawing"
-    excerpt: "A dated line drawing of two children stealing cookies behind their mother's back is being used by an artificial intelligence system to detect the onset of Alzheimer's disease. The system uses voice samples of people describing the scene to predict whether healthy people may get the disease."
-    publishedDateTime: 2020-10-22T22:31:00Z
-    webUrl: "https://www.bbc.com/news/technology-54538228"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-54538228"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54538228"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1010/production/_114921140_oldwoman.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Deep Science: Alzheimer’s screening, forest-mapping drones, machine learning in space, more"
-    excerpt: "Making sure your deep learning network generalizes to data outside its training environment is a key part of any serious ML research. But few attempt to set a model loose on data that’s ..."
-    publishedDateTime: 2020-10-23T21:29:00Z
-    webUrl: "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/"
-    ampWebUrl: "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/mahmoudian-autonomousLO.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "IBM AI model predicts onset of Alzheimer’s disease by analyzing descriptions of a cookie theft"
     excerpt: "The model predicted the onset of Alzheimer's more accurately than standard clinical methods by searching for symptoms in written descriptions of the image."
     publishedDateTime: 2020-10-23T13:27:00Z

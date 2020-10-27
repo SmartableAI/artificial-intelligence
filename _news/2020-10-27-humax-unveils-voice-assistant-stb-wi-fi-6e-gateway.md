@@ -7,7 +7,7 @@ originalUrl: "https://advanced-television.com/2020/10/27/humax-unveils-voice-ass
 webUrl: "https://advanced-television.com/2020/10/27/humax-unveils-voice-assistant-stb-wi-fi-6e-gateway/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Humax introduces voice assistant STB, Wi-Fi 6E gateway at RDK summit"
+    excerpt: "The box includes integrated stereo sound and supports Alexa’s far-field voice recognition with a built-in mic. Humax has a lonf history of RDK device deployment. At the RDK Euro Summit, Humax will also showcase its IP Box integrated with the latest ..."
+    publishedDateTime: 2020-10-27T14:34:00Z
+    webUrl: "https://www.telecompaper.com/news/humax-introduces-voice-assistant-stb-wi-fi-6e-gateway-at-rdk-summit--1359369"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
 
 secured: "A4FX9KZLeaCllyWLnYLZc80WhwKjj+pcG16NlPEDWGsPk77TUX+aKqtNYLqYXr9NEy9eAIdzPxPilrod72v1YQ2ChJKFVgcITurxuUPBC10Cz5eC3YOcCb1C/sLwfmhxbLr94zDGAi8gYcheLJpPGTtKxWPV3OHphEgHgzHcwnxQ9K4dvmjfSQYA2DQo7pnwmr6Xq0lZ6b6EGaI5zSyP9naL4Pmky7kypxsN1vo9GXylLAJ2pX/VipgBtar7sSWNrSnVPBYmFDfhJEccZeGZJVvETqxiHB4p7N3S2uf2VLDV3atDemZcw/5gvM4uwxxp59ZGnnTUVRdw/9fs8XzbQTxSXn3S1QA3O7DDfHTpHo0=;2v+eODgf5DeO0ocpVWUA+Q=="
 ---

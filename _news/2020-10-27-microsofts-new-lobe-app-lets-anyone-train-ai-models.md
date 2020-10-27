@@ -145,6 +145,20 @@ related:
         width: 1280
         height: 1280
         isCached: true
+  - title: "Microsoft beats out Amazon, Google for strongest healthcare AI offering, KLAS says"
+    excerpt: "Healthcare providers and insurers consider Microsoft to have the strongest healthcare artificial intelligence offering among the big tech giants, according to a report from healthcare data and IT insights company KLAS. For its \"Healthcare AI 2020\" report ..."
+    publishedDateTime: 2020-10-27T14:39:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/microsoft-beats-out-amazon-google-for-strongest-healthcare-ai-offering-klas-says.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 65
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Microsoft partners Netflix to help you learn data science, AI"
     excerpt: "Inspired by the new Netflix original titled 'Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."
     publishedDateTime: 2020-10-24T16:23:00Z

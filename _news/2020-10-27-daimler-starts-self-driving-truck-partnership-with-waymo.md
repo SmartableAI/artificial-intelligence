@@ -25,21 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo, Daimler partner to make self-driving trucks"
-    excerpt: "(Reuters) - Alphabet Inc's GOOGL.O autonomous driving technology development unit, Waymo, and a division of Germany's luxury carmaker Daimler AG DAIGn.DE have teamed up to make heavy-duty, self-driving trucks in the United States, the companies said on ..."
-    publishedDateTime: 2020-10-27T13:08:00Z
-    webUrl: "https://www.reuters.com/article/us-daimler-alphabet-autonomous-trucks/waymo-daimler-partner-to-make-self-driving-trucks-idUSKBN27C1UM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C1UM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1UM"
+  - title: "Daimler Teams Up With Waymo On Self-Driving Tractor-Trailer Trucks"
+    excerpt: "Waymo has a new partner. The Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) self-driving subsidiary has inked a deal with Daimler's (OTC:DMLR.Y) heavy-truck unit, in which the two will work to create self-driving tractor-trailers based on Daimler's Freightliner ..."
+    publishedDateTime: 2020-10-27T15:19:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/27/daimler-teams-up-with-waymo-on-self-driving-tracto/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/27/daimler-teams-up-with-waymo-on-self-driving-tracto/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/27/daimler-teams-up-with-waymo-on-self-driving-tracto/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 104
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538980938&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q17N"
-        width: 817
-        height: 545
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596753%2Ffreightliner-cascadia-2020.jpg&w=1200&op=resize"
+        width: 1200
+        height: 743
+        isCached: true
+  - title: "Waymo and Daimler are teaming up to make self-driving trucks"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. An image of a chain link. It symobilizes a website link url."
+    publishedDateTime: 2020-10-27T15:05:00Z
+    webUrl: "https://www.businessinsider.com/waymo-daimler-partner-to-make-self-driving-trucks-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/waymo-daimler-partner-to-make-self-driving-trucks-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-daimler-partner-to-make-self-driving-trucks-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5f98367d861cb70019936a48?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Waymo and Daimler team up to develop self-driving trucks"
+    excerpt: "Daimler is stepping up its plans for autonomous big rigs. Daimler is clearly eager to expand its plans for self-driving trucks. The automotive giant is teaming up with Waymo to develop trucks capable of level 4 autonomy, or full self-driving in specific ..."
+    publishedDateTime: 2020-10-27T14:32:00Z
+    webUrl: "https://www.engadget.com/waymo-daimler-self-driving-truck-partnership-142519288.html"
+    ampWebUrl: "https://www.engadget.com/amp/waymo-daimler-self-driving-truck-partnership-142519288.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-daimler-self-driving-truck-partnership-142519288.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fcfa1c1e0-185a-11eb-b5f3-af33424ecc07&client=amp-blogside-v2&signature=0cb502632f9f81160979add14d77279b61d53dc7"
+        width: 600
+        height: 350
         isCached: true
   - title: "Waymo partners with Daimler to develop self-driving delivery trucks"
     excerpt: "Waymo said it will partner with Daimler to develop self-driving trucks that will be sold to U.S. customers within the next few years."
@@ -89,6 +121,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Waymo, Daimler partner to make self-driving trucks"
+    excerpt: "Alphabet Inc's autonomous driving technology development unit, Waymo, and a division of Germany's luxury carmaker Daimler AG have teamed up to make heavy-duty, self-driving trucks in the United States, the companies said on Tuesday. As part of the deal ..."
+    publishedDateTime: 2020-10-27T14:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/waymo-daimler-partner-to-make-self-driving-trucks-2020-10-27"
+    ampWebUrl: "https://www.nasdaq.com/articles/waymo-daimler-partner-to-make-self-driving-trucks-2020-10-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/waymo-daimler-partner-to-make-self-driving-trucks-2020-10-27?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Waymo and Daimler Forge Self-Driving Truck Alliance"
     excerpt: "Daimler Trucks and Waymo reached a deal to collaborate on the development of self-driving trucks. Waymo, which launched in 2009 as the Google Self-Driving Car Project, will provide its automated technology for a new version of Daimler’s Freightliner Cascadia Class 8 truck."
     publishedDateTime: 2020-10-27T13:03:00Z
@@ -121,6 +164,31 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Daimler and Waymo to develop autonomous Class 8 trucks"
+    excerpt: "The artificial intelligence system has also completed more than 15 billion ... The main focus of autonomous driving has been about enabling driverless passenger cars, but as technology has advanced, the conversation has shifted from solving for the driver ..."
+    publishedDateTime: 2020-10-27T14:23:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21145991/daimler-and-waymo-to-develop-autonomous-class-8-trucks"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 54
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/10/16x9/Cascadia.5f982b14acf95.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
+  - title: "Waymo teams with Daimler on self-driving Freightliner trucks"
+    excerpt: "Autonomous driving companies like Waymo have been shifting their attention to trucks more and more, as the time when self-driving passenger cars are expected gets pushed out into the future. A growing shortage of truck drivers and the potential to improve ..."
+    publishedDateTime: 2020-10-27T14:16:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/10/27/waymo-teams-with-daimler-on-self-driving-trucks.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/10/27/waymo-teams-with-daimler-on-self-driving-trucks.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/10/27/waymo-teams-with-daimler-on-self-driving-trucks.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 54
   - title: "Daimler doubles down on self-driving trucks, starts partnership with Waymo"
     excerpt: "Someday, they may have a choice of self-driving systems. Daimler Trucks has embarked on a new partnership with Waymo, the self-driving technology company spun from Google, in which the two companies will jointly develop and deploy autonomous big rigs."
     publishedDateTime: 2020-10-27T13:26:00Z
@@ -136,6 +204,6 @@ related:
         height: 600
         isCached: true
 
-secured: "UnOKLNT8QWYBp2iCqSIVrWFxlzEpTRM2dVhyvshUjeikiX5jMxM46AqIQdNM+Pjiha6sG4M6vB+U5mDuDmLFMB9yxPj/w8WcH30kcCMDMnbiPqNqMcsn+ZJWCA0ocGY7PpbfX4Lw5yqJwhzIofyQiOeJ+b+c63s4a99OoQsTkH2b6IG2uhJKF/q6rJweY9UAp3cCZ/o1X5JKe1noYdxi3/XrU1NGVt46NLuyZh8wVfIVk4rBeNw+rfFUBH5uyE/BHwSi3qar5fDhCgF7k7RHNoYmOnytz6KElikZJKxOni5t9Gd3BnNRV/sokX6L7Y1FDZPl5v9slshQTgJ4R8w7Lfb3SSh/vJiYtfSSk9Yf2MU=;dVHtP0GRr+YLPQ83ecEV/Q=="
+secured: "bggTaROtNMd23cg+AaY1pGR93JsmHz5NOP0a6AAp/5AYwuYVyGv98bNnnNkg3CqoCoxZbCOT08tZQ48aw27nWNyT1UeaW5dhTq2o7mvcKPxVVUWpsjYSErbfjbSeZ9slgxmcZaigCaUWqfzRLBfq3xBEl7hNt/r7fHuYmP+TCOYjxUW+LV0doiXVdPdgkCRmot586dxHQczL6hW1jUkzO0CTxSAZttd2bwt2iyHK3VHtHlvKdYg/UJEi038lLlWZ+YZ7f6YknfXIY8qyu8du1IIXVF4YCmUU421MuXVIEhBvp8+sTUKcAXZRWGq8yeAi9n2a1BRm5zOvCjY7Hbz9OY4i8QGfiYZFdQwpCbwlbQJPT/Db/hM6qlUSgY9QitfGnqbTVFF+OFjPv07DgnLsXokOKIJIl+6KHzrZntTh3Ta6inZgdZFjNA9y7syIpaLelgTPawVKv2qDEySsMnBPD1Q7nG3qFeF1mgTrmwVSyUc3kUwT9XGTqDmHqV/xEFETqbBcDjFgCg04Hr0QUqzxQg==;SUIc83Dj/wIl/9IHRXmHkA=="
 ---
 

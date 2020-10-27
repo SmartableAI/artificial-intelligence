@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autono
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/IMG1_Founders.jpg?w=1024"
         width: 1024
         height: 395
+        isCached: true
+  - title: "Israeli startup Deci lands $9.1M using AI to train AI to be its best self"
+    excerpt: "Israeli startup Deci secures Seed round aiming to revolutionize Machine-Learning training by powering its neural network platform with AI in the driver seat... Yaneev Avital / 27 Oct 2020 • 3 min read It’s no secret that the last decade has accelerated ..."
+    publishedDateTime: 2020-10-27T14:37:00Z
+    webUrl: "https://www.geektime.com/deci-raises-9-1m/"
+    ampWebUrl: "https://www.geektime.com/deci-raises-9-1m/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/deci-raises-9-1m/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 58
+    images:
+      - url: "https://www.geektime.com/content/images/2020/10/SmarterRobots-iStock-1024x659.jpg"
+        width: 1024
+        height: 659
         isCached: true
   - title: "Deci Raises $9.1M in Seed Funding to Build AI that Crafts Next Generation of AI"
     excerpt: "Deci's deep learning platform automatically gears up neural networks to become top-performing production-grade solutions on any hardware, including CPUs, GPUs, and special-purpose AI chips for edge and mobile. The platform is powered by Deci's patent ..."

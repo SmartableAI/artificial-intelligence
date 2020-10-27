@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/358321"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358321"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn.openpr.com/T/a/Ta23653869_g.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Fintech start-ups to get equity-free investments"
-    excerpt: "Five start-ups that are building financial technology (fintech) solutions have been chosen to receive equity-free investments, as well as technical and business mentorship, for one year under the “Fintech for Impact” initiative of ING Bank and UN children’s agency Unicef,"
-    publishedDateTime: 2020-10-22T23:05:00Z
-    webUrl: "https://businessmirror.com.ph/2020/10/22/fintech-start-ups-to-get-equity-free-investments/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 24
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/04/BM-logo-square2.jpg"
-        width: 1200
-        height: 1200
         isCached: true
   - title: "UBS to invest $200 million in fintech startups"
     excerpt: "we widen our access to fintech start-ups.\" Dargan believes UBS Next will boost the bank's engagement with the startup ecosystem, and put it at the forefront of new technological breakthroughs in public cloud, microservices architecture, and AI Sabine ..."

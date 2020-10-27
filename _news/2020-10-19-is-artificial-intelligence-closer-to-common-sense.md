@@ -3,10 +3,8 @@ category: news
 title: "Is Artificial Intelligence Closer to Common Sense?"
 excerpt: "Intelligent agents lack the common-sense knowledge they need to reason about the world. Traditionally, there have been two unsuccessful approaches to getting computers to reason about the world—symbolic logic and deep learning."
 publishedDateTime: 2020-10-19T12:29:00Z
-originalUrl: "https://www.infoq.com/articles/AI-Closer-Common-Sense/"
-webUrl: "https://www.infoq.com/articles/AI-Closer-Common-Sense/"
-ampWebUrl: "https://www.infoq.com/articles/AI-Closer-Common-Sense/"
-cdnAmpWebUrl: "https://www-infoq-com.cdn.ampproject.org/c/s/www.infoq.com/articles/AI-Closer-Common-Sense/"
+originalUrl: "https://www.infoq.com/articles/AI-Closer-Common-Sense/?topicPageSponsorship=b602ad07-621a-4692-967d-63a35c22a833&itm_source=articles_about_development&itm_medium=link&itm_campaign=development"
+webUrl: "https://www.infoq.com/articles/AI-Closer-Common-Sense/?topicPageSponsorship=b602ad07-621a-4692-967d-63a35c22a833&itm_source=articles_about_development&itm_medium=link&itm_campaign=development"
 type: article
 
 provider:
@@ -14,7 +12,7 @@ provider:
   domain: infoq.com
 
 topics:
-  - AI in Autos
+  - Machine Learning
   - AI
 
 images:
@@ -23,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "6ga5P5MMcVd9fhthJ3UTbmJWiigb1jUYPJbtf+DqDS8jmsYMbrdtj5PEjrcFZuT4CbRYnysc1XG+QL+WnV3SiydaIftLHYn16iKq2BPPF5VgdtE7jir7z85MOX0egmxXEddU1T+7q0ooFamAdCR6cUYmJg7F1E+mHx+fQFpNF+y4vAgffLZjC1lp4QgONoywBCIloH9xt/ZvsdRGZ4rZXn0Bqa188b4AaeRHdSdVbl//T4f5yozfPjx08D55OVxMIt2Gg/u6gdjWSKbqI9+0I4bv5G7JkyuSVtugHTwUEncFan3D4n1LFxdyqXvJPBuBSDeNJ2TiCsU5wQUvfP3HRvZZpY9nk9G1QyOepTlopco=;lPJRk6TWlrGvDPGmBfTY8Q=="
+secured: "rOhXRVn5SU3KGyQHtFk0Ck0F6lzQ35x7pSGejV/FCC8D11gWA4VUkPBqoyLIh1ldpeZ4iR1uHCkj5n2mzccnXv5Oi5bSIILUJ1zIWz5rxh1O0KiYHtW/mWUKlC7n24Jy/Pb3OyFfmLwBOa6wju+YL7WIp/t11HfBmzzO+Ce2HQ6xARMex/OPP8QLtbXyat1O/jfTPkXcixygOTtuuZSd65XSRqjK6wY88WhDMisdllhW90h67mWa3dcnqmiuZJClHrbIdrbmHZNq7xFRmeUWZvcCcsESoQ3U4upY2vqNSULGvq5vMmAw/dDxO87v8twxGuUjdXgdE6Y7ARjRzIpv6YTHdBAVtE2DjAjHXbh3cqI=;1PgWXLakIk0c7R+nCuWvUw=="
 ---
 

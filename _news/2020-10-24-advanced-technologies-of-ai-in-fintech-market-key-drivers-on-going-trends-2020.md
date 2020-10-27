@@ -43,20 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Fintech start-ups to get equity-free investments"
-    excerpt: "Five start-ups that are building financial technology (fintech) solutions have been chosen to receive equity-free investments, as well as technical and business mentorship, for one year under the “Fintech for Impact” initiative of ING Bank and UN children’s agency Unicef,"
-    publishedDateTime: 2020-10-22T23:05:00Z
-    webUrl: "https://businessmirror.com.ph/2020/10/22/fintech-start-ups-to-get-equity-free-investments/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 24
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/04/BM-logo-square2.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "UBS to invest $200 million in fintech startups"
     excerpt: "we widen our access to fintech start-ups.\" Dargan believes UBS Next will boost the bank's engagement with the startup ecosystem, and put it at the forefront of new technological breakthroughs in public cloud, microservices architecture, and AI Sabine ..."
     publishedDateTime: 2020-10-27T10:01:00Z
