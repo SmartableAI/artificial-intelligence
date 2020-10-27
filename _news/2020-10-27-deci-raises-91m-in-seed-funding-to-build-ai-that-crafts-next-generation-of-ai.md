@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 395
         isCached: true
+  - title: "Human API raises $20 million to standardize health records with AI"
+    excerpt: "California-based company developing an AI pipeline that structures health data into a standardized format, this week raised over $20 million. A spokesperson for the startup says the capital will ..."
+    publishedDateTime: 2020-10-27T16:24:00Z
+    webUrl: "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Israeli startup Deci lands $9.1M using AI to train AI to be its best self"
     excerpt: "Israeli startup Deci secures Seed round aiming to revolutionize Machine-Learning training by powering its neural network platform with AI in the driver seat... Yaneev Avital / 27 Oct 2020 • 3 min read It’s no secret that the last decade has accelerated ..."
     publishedDateTime: 2020-10-27T14:37:00Z

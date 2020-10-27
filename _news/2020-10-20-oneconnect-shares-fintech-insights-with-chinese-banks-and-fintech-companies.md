@@ -1,10 +1,10 @@
 ---
 category: news
 title: "OneConnect Shares Fintech Insights with Chinese Banks and Fintech Companies"
-excerpt: "PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (OneConnect, NYSE: OCFT), a leading technology-as-a-service platform for financial institutions,"
+excerpt: "PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (OneConnect, NYSE: OCFT), a leading technology-as-a-service platform for financial institutions, shared its vision of innovation with the Fintech Association of Hong Kong of the Chinese Banking Association of Hong Kong at a recent video conference."
 publishedDateTime: 2020-10-20T09:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697336"
-webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697336"
+originalUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697544"
+webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697544"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "gI8bvwj+W+c7lQP6Nb0JH69EfDGfaQCxnC5pO+OVnJKtiLeh/nyikacsKeOVDYsfb4TFUWu4lPLoSjeNowT5kZMh3DdL5b2TuEHqTH9MRI8UWLJ2W6PhiCoQtV/DLXoGyVpmIu0mfj7HnLFRyG2tJxQnOhMKFs8PL0p4ZOA9jdG8fyiqohSxgI3U5PRoS9cbC+6AK+vAI7yuW+IYzh7iDiOhFS5w87hYiHRF3+MOStIzEqub7UjpPTdAI/QUXPOfKbASlrWvFAvRfC97gp0gf9zpaBlp2kO4vCcYc2fTxzqbL0wEA+OJXUN55R2Mep2AbaMKzo8B4siWusLWXVk6brqclMBt2MtgCdcTrbs6/7Q=;1UE+l4k2HPWZRXGkWhEZ9g=="
+secured: "k1vZ+Lse59NDovaeBOxjcHMU5Ixsd0+f7kYQ6rZW0Pkb6GlAMkVmR78VNXgkWU6HB8v98cV31obYFcC4V60uvXHaIwEO0x1nLXjOsmVplXTaf7ei22lt5SWKG8+wFLStMf9yPP/nPr5wqdSU1wnCEHoNQ1IXUYFoY4YphvEKTo9U+cdvkZTSvsTjNuYNfnp+bgqCxeraT19qN53wRjpAOGV4ItLcDA/RkIMh+MN6ZonYSma9UUoOCT4sCK7RDTBB38o/yiwf0yMJTCvPrPRbBiLsAOo7/VBDZuyG1oVXZe6Hc8ewOF7eTFnARKnWeh89wyP+x5+M6BLug2WOrIza79nWcGBD4IaqP6qbU67i5iA=;rnH+apR0OESaoxliKc4QZQ=="
 ---
 

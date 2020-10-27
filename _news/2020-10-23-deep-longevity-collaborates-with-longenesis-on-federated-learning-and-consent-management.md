@@ -26,17 +26,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Deep Longevity and Longenesis to Partner on Consent Management Integration and Federated Learning Method Development"
-    excerpt: "PRNewswire/ -- Regent Pacific Group Limited (\"Regent Pacific\" or the \"Company\" and together with its subsidiaries, the \"Group\"; SEHK:0575.HK) today announced that Deep Longevity, Inc,, a company recently acquired by the Group which mainly engaged in the development of explainable artificial intelligence systems to track the rate of aging at the molecular,"
-    publishedDateTime: 2020-10-23T00:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deep-longevity-and-longenesis-to-partner-on-consent-management-integration-and-federated-learning-method-development-1029712980"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 11
-
 secured: "P7fMxVNz+QiqY5XViiYVBRXGGJVbRLFuVH4UPFTHaVbdSxua6Oy/ERnbWZ4j3mrkuxbq0K19XDv0ll9N2+VY+zRSv6ExhatjfGA3yL6Jshm4DL78F4KpJHMPXkZ2Zd5A9fiPHQfy6cFkuZR6qGdRIrttUB7qtFu7tkco46PLQnZRcmj8aAuAJApUsxCWqPOFDo/fSkxm97wptcDYK8T9kgZBKwFju1/5zBJpcsV9fvjdRmIKDE1e7+oy5+w7TKLDoeP56hOLMoRmoPhvewPCcBHHifjwvuoAZQgr9A1QOgBYjwWSEAoWixmADTzSMcRQpWygOQgSAAF5aDHUV/t/+MCRQODnGGjsyaafXycV2Ug=;AQWfqKkayUW0NVx2la3Oag=="
 ---
 

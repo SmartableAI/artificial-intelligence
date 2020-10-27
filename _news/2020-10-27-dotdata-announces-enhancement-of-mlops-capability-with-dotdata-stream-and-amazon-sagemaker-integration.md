@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhance
 webUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,50 @@ images:
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "zomato digitizes menus using Amazon Textract and Amazon SageMaker"
+    excerpt: "This post is co-written by Chiranjeev Ghai, ML Engineer at zomato. zomato is a global food-tech company based in India. Are you the kind of person who has very specific cravings? Maybe when the mood hits, you don’t want just any kind of Indian food—you want Chicken Chettinad with a side of paratha, and"
+    publishedDateTime: 2020-10-27T17:08:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 121
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/19/menu_w_yellow_background.jpg"
+        width: 900
+        height: 628
+        isCached: true
+  - title: "Bringing real-time machine learning-powered insights to rugby using Amazon SageMaker"
+    excerpt: "The Guinness Six Nations Championship began in 1883 as the Home Nations Championship among England, Ireland, Scotland, and Wales, with the inclusion of France in 1910 and Italy in 2000. It is among the oldest surviving rugby traditions and one of the best-attended sporting events in the world. The COVID-19"
+    publishedDateTime: 2020-10-26T18:33:01Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bringing-real-time-machine-learning-powered-insights-to-rugby-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/3-Diagram.jpg"
+        width: 900
+        height: 366
+        isCached: true
+  - title: "Building an NLU-powered search application with Amazon SageMaker and the Amazon ES KNN feature"
+    excerpt: "The rise of semantic search engines has made ecommerce and retail businesses search easier for its consumers. Search engines powered by natural language understanding (NLU) allow you to speak or type into a device using your preferred conversational language rather than finding the right keywords for"
+    publishedDateTime: 2020-10-26T18:26:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-an-nlu-powered-search-application-with-amazon-sagemaker-and-the-amazon-es-knn-feature/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 77
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/07/1-1-3.jpg"
+        width: 900
+        height: 463
+        isCached: true
 
 secured: "Edgwl/4L91emVpNjSTkQm7jhsmOA/CEHL3fsbqbTOyP72L0hBPABbkUlpRonfIMIFRV92pQyymYEZ0hHadtrhhzgmbJKiEC4YaX0FBGe/6LhL/us7MFldQuBux3qdhrQ1mc5zUaLD6UO6NFgOZsmkCGEWVjlrN0lmnfLu8rnf5iI3lx9FT73SzyMZmmYddtpWpJfPNcrWwP+EvxlyNfwW3n28ktO0WqaHbEq/7XBISI/QFCsSwO5fy41J3twyN9no9nE08FtO/C/HS7GkKhtmafhbfzFNPEp3LEbbNHurKs8f/d8hbivgPZJF++HGNkFqzkLIR584xkhD8Qts9gRq+9aV59Pa0VY9hdxzqcZsMI=;/Ct3lyQDtpQ/dyFhqVOwVQ=="
 ---

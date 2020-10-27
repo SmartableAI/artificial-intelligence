@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 919
         isCached: true
+  - title: "AI Cures: data-driven clinical solutions for Covid-19"
+    excerpt: "The AI Cures Conference: Data-driven Clinical Solutions for Covid-19 described technologies developed in response to the Covid-19 pandemic and new opportunities for AI solutions for clinical management."
+    publishedDateTime: 2020-10-27T16:31:00Z
+    webUrl: "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 67
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202010/AI-Cures-Conference-panel.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "UCF researcher using artificial intelligence to help detect COVID-19 virtually"
     excerpt: "A reasearcher from the University of Central Florida is part of a breakthrough study doing just that, by using artificial intelligence to spot COVID-19 in a person’s lungs."
     publishedDateTime: 2020-10-24T00:39:00Z

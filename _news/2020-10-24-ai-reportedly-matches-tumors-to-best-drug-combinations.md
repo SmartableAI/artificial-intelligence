@@ -80,20 +80,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "DrugCell: New Experimental AI Platform Matches Tumor to Best Drug Combo"
-    excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA). “That’s because right now we can’t match the right combination of drugs to the right patients in a smart way,"
-    publishedDateTime: 2020-10-22T23:32:00Z
-    webUrl: "https://health.ucsd.edu/news/releases/Pages/2020-10-22-drugcell-new-experimental-ai-platform-matches-tumor-to-best-drug-combo.aspx"
-    type: article
-    provider:
-      name: Scripps News
-      domain: ucsd.edu
-    quality: 39
-    images:
-      - url: "https://health.ucsd.edu/news/releases/PublishingImages/DrugCell_image.jpg"
-        width: 600
-        height: 505
-        isCached: true
 
 secured: "XbrBRKwt4NhlxveW+CG29Q0VuyOOqXcffnX3OPY1FazX08/ufOBtDDqW9jdsBeCrHhBs08YJTQOBnmuAGZ10JkAAI8FypuPx166RsCBm4IDbkmgYoZfdx5eq0YqetgjbuloG/vVix+hcimAmpIRoRcM5F8frynkLG3X7f2HM5JYIGx9EuAaBedRoaWy5+hQT2h8lIWg/GdC6jonirzSBMqYDMNQK/cI18CCIXfuFnCsmu/QTUbBeS8UjavrIf7V/mSW1XrZsuUvG7Oh5CU95N4+yt9WB2ITex+lEh7vAAH7DuITm7dtxtoXnYrtci3lVdfIHXugJGUuHaU8XMwIP2QjUGlOtaMQlHKPszs5TfKX9vEyuCwalBh/cgscEsf93/0nu8d+KcwQvHLXsGpKqSq4wYZ2Jp7ynGpZczEoLrt+TwVQ1miq1fK886lyVC92jk3qnlIv1YjpCSHwxb58dfZdP+zUFdADqXyEL9OsDNaOPrZ5pqbp6oroNDFTT48YqSW6fbWSBP8IBzzgI13r20w==;/96nQhuzLUbc7ony+Cwguw=="
 ---

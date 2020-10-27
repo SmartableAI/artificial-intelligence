@@ -233,36 +233,20 @@ related:
         height: 1815
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-23T00:53:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tesla-full-driving-vehicles-drive-73775477"
+    excerpt: "DETROIT - Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $ ..."
+    publishedDateTime: 2020-10-23T08:05:00Z
+    webUrl: "https://www.cp24.com/lifestyle/tesla-full-self-driving-vehicles-can-t-drive-themselves-1.5156822?cache=yes%3FclipId%3D64268%3FautoPlay%3Dtrue"
+    ampWebUrl: "https://beta.cp24.com/lifestyle/2020/10/22/1_5156822.html"
+    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/lifestyle/2020/10/22/1_5156822.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CP24
+      domain: cp24.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_135a11bded104a2cbee932740c5733a6_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Watch Tesla's Beta of \"Feature Complete Full Self-Driving\""
-    excerpt: "See the included video to watch the beta in action as customer vehicles autonomously navigate through left-hand turns, roundabouts, and more. Although Tesla has said the user interface will be updated as the rewrite is finalized,"
-    publishedDateTime: 2020-10-22T23:54:00Z
-    webUrl: "https://www.thestreet.com/tesla/news/watch-teslas-beta-of-feature-complete-full-self-driving"
-    ampWebUrl: "https://www.thestreet.com/.amp-tesladaily/tesla/news/watch-teslas-beta-of-feature-complete-full-self-driving"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-tesladaily/tesla/news/watch-teslas-beta-of-feature-complete-full-self-driving"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://content.jwplatform.com/thumbs/KqphWFSF-720.jpg"
-        width: 720
-        height: 406
+      - url: "https://beta.ctvnews.ca/cp24/en/lifestyle/2020/10/22/1_5156822/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
         isCached: true
   - title: "We're all guinea pigs for Tesla's latest self-driving tech"
     excerpt: "Tesla is beta-testing its latest self-driving technology with a small group of early adopters, a move that alarms experts and makes every road user — including other motorists, pedestrians and cyclists — unwitting subjects in its ongoing safety experiment."
@@ -314,17 +298,17 @@ related:
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
-    publishedDateTime: 2020-10-27T14:29:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    publishedDateTime: 2020-10-27T12:48:00Z
+    webUrl: "https://www.10tv.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
     type: article
     provider:
-      name: WHAS11 News
-      domain: whas11.com
+      name: 10TV.com
+      domain: 10tv.com
     quality: 59
     images:
-      - url: "https://media.whas11.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+      - url: "https://media.tegna-media.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -359,22 +343,6 @@ related:
       - url: "https://wp-assets.futurism.com/2020/10/reactions-tesla-full-self-driving-beta-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves | Charlotte Observer"
-    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-22T23:16:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article246647313.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article246647313.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article246647313.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 55
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c4d24e44-2e64-4a1f-9e05-98ab2bfcd533/7bb3896d-726a-4129-a4d9-e2742fce53c6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves! Here’s what happened"
     excerpt: "Tesla sent out its ‘full self-driving’ software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the USD 8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
@@ -655,6 +623,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Ve/PKuM9i2csDOYy9zQxER4qAlr/ppbDxO4yUiKfLC242M1Dv+yaIjnpDSC3+G530IM5F73jwijKgB8yHZJU1RYv7WyjSsKI3tZQEzKLLVUdeFiScsvZnLPhlLhjdLnox8t8Jsu41xKzcEyNgKv6tI0szRwTv2yGP8baS/ISyVWgF4eGB/K9mf0Q1ySKcVRa3PntC0yOZ/TzeC2wiieNVw8WYK9kLG7ek0/hD+zbqYMWKXYwH1xZTrWEf4p9n/gL6JaXxjLWhNg7zRzGNLJU1lOjYsHCD1g2ScfLq6F7YY1TIwu0ZMYa/zcAYEbyYuEIPEgEGrXungLGH1UbaIlyNKYgAfnReobvOxH0ICkPCgw=;I5RjHZFk0TfbBUvmfIvMaA=="
+secured: "ZBw7xMTqmKi8ITjAcOE8vQKG88jkAzfkhFnlmKTjtbgF0wQRdMVy6HtRn7I0JnEAMvbFLZH3y3dxjvHsTOsAZj/EQE6NEp+aiwuCNphj+06P2MCynltoslnM7zUAdFtspCgNsXPcHpb+dk8z/ZQVACqvUJO3QayJmfkSfZ/fSRqDVTXMPG8xTQ+SQufM+ga0NeV29JWBxEWEsD7ecO0/3pZoqtCSAhcLVw2CJA/Z+ixyN1zLMFo1d1HLDTcKEGfOrNASSMaUd2j36K++5slxEAM/Ouhkc9llH3mog7VWQl958PKYux6PtP1zkTjuf84PqvX2KgBu8Ty64KgLhgTT8HnzTvTFYsK2I3U0Z6XVwtpPevYDQl0nCpo6hOfSuFzcsUkSKUSYAg9BO1ftTgwuSYRcs7rx4dfEF5T++0ZwTrZNt4wJg2eEm4yjok2DDq3BSgubJHqy846L5VsKIf/WM6R7Ipw/Ixui6gOVeRlglMEE/Hd2MDQ88aed1oRUPKVJXQPIlfmkWGSfGCoOzitZ8w==;nezvuDinNE51jzYVMnUbnw=="
 ---
 

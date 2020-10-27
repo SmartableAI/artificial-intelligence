@@ -1,20 +1,28 @@
 ---
 category: news
-title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
-excerpt: "IBM. \"By partnering with ServiceNow and their market leading Now Platform, clients will be able to use AI to quickly mitigate unforeseen IT incident costs. Watson AIOps with ServiceNow's Now ..."
-publishedDateTime: 2020-10-16T01:25:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
+title: "IBM and ServiceNow help businesses use AI to Automate IT and reduce costs and risk"
+excerpt: "o IBM Watson AIOps uses AI to automate how enterprises detect, diagnose, and respond to, and remediate IT anomalies in real time. The solution is designed to help CIOs make more informed decisions ..."
+publishedDateTime: 2020-10-16T06:48:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-120101600445_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-120101600445_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-120101600445_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-120101600445_1.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "10kwDjcWlw2KxV2NGMVuPNeUNgYXvol2mf+jp/FlNhiAlZAC8GhNRo01koc/i1KLDGWZId8EW3I2o5drpNkV7odEpJVoPeXQX5ZdM5jPQODXob4f8UqSlPEpma5pAP8t1LsMiz46Jcr9xy6i8qdSLb4gGTg58xBRbUZal8zorA/+D2LlG2qSgXWWqHHi8sFKjZnMKfBDEANag26WzVTdRUjYl8mHW/FA6f7KLzFWNc/a2ihYDlUtp6KUN4pCBpBv7vhvrYYikTLUg2kXBaz+narIfaV+lGT0gjNB8FsKm2b0kNDVpgQk+DCTw+4kjg9tKbYZzJZTj5ZDalTEhaYpkou6wgB5hfUiTbo1vMQyPb8=;3Gsubvinpi9OIkO5K5Wwfg=="
+images:
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
+    isCached: true
+
+secured: "AxNy/wzsCqgaSCx8wDRvJNltkStyOaU5wUdqvT0hxDn7fF8nAfACK/RM/WnYvILBgPwuQGnoJSjrlnJkceMxFFFf3MwkiEXPxEZZCILiOH9GLlL6X5dW/N9+eqfv0tqfHV46SWlKHgRA9b0kCydZwDX9lMKeYH5Zh9Sb0kgwlc0/dpazbuA89x2VCzVt8lFlIJr4Vzig08kaqUbXg7Isnj37OefUqg0BOrc9rHrUiYSfcpJEmQieSAY4Ds2MPmtDvt2+cl/VA0l/jBSHVaJNZzvqdhKsTsaupTrwTWpW2xsxbdxfWpzx2KZVuOs2+Tdj2aq+7SZZeS3jSUBa0KmasfTwzcMo9ogCWkeJigi4plQ=;SBCJXBqRhEl2w3jpWQbWsA=="
 ---
 

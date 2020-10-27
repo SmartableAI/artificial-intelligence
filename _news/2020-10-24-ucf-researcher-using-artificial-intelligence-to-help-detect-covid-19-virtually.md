@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 919
         isCached: true
+  - title: "AI Cures: data-driven clinical solutions for Covid-19"
+    excerpt: "The AI Cures Conference: Data-driven Clinical Solutions for Covid-19 described technologies developed in response to the Covid-19 pandemic and new opportunities for AI solutions for clinical management."
+    publishedDateTime: 2020-10-27T16:31:00Z
+    webUrl: "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 67
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202010/AI-Cures-Conference-panel.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Robot Enters COVID-19 Fight"
     excerpt: "A robot initially designed for shipboard firefighting and maintenance tasks has now been enlisted in the fight against COVID-19."
     publishedDateTime: 2020-10-23T14:33:00Z

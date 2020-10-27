@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New deep learning models: Fewer neurons, more intelligence"
-excerpt: "An international research team has developed a new artificial intelligence system based on the brains of tiny animals, such as threadworms. This novel AI-system can control a vehicle with just a few artificial neurons."
-publishedDateTime: 2020-10-13T16:26:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php"
+excerpt: "The team says that system has decisive advantages over previous deep learning models: It copes much better with noisy input, and, because of its simplicity, its mode of operation can be explained ..."
+publishedDateTime: 2020-10-13T16:24:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/iosa-ndl101320.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/iosa-ndl101320.php"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
+    width: 585
+    height: 363
     isCached: true
 
-secured: "azFVmRoklpsTabIIMDoVbT/g4QRmD67y2KdsiNK0sSVp/loqKNBrMDl0CFDTQXT668vNO2XBXp14yUfx8YYoUQjMqrymtlnW8TjNnv6oBSydDbbWgLCaIf1fKqW90zxURvJst7umQr70R/RGVz/PDJbQEHY6hdounYE5iBnxMDVVDRLlxjGHUsdqLKNsQGkEXhN3mLq0g3oOi8ZUsJSwoZRLMhIru+x1HGLtMP8N+Us0UdKvABtZ4pVXnm9XfwkPFIQly7OseiRdeBvQh+sOEWJFREx+pEc3EQNlXfVf0fcuaxyXbLPYRpszkhgWtRZXghwSuMlTLMw2eSKdyIYTuCQ0ucXObXQUxalSEJ7lyoo=;KcG9rVMhOsVtcHWGm49Epw=="
+secured: "kkhg7suYku6g3yGX8COSyadWP8osLPgwYkoFfKLDgihXn9kdKtJQjfkYBSKOM9PmM8DCstYDVmd+zVHGkO+9XfvtEwcYuG0qolQ/EnosWuhoR0zTcQOPtjimAHz5bK3EQ5J07UecIsEkYWcVpe4Pb5mtBRaX77MGfiRoSUAV0H7RAcLhgaYhbpE2KU4xA9bMmWL9q0ct27NBsekls/puZ8QRA5SX/gr8AJrtiLcNLF2aJh4qpOOU0RsaQxbuPK/Usd261Fq+lqH5USQtl6rxjkgVRCY5VCps8ziCMbHi65X2xH4SPwks3HseST4fR67Q4iFdBJo3zHNxzRja5ss/6cUlok2O0vKp5NRYkD7GNLk=;7U0Wjy0SpXWW01bHxD91Hg=="
 ---
 

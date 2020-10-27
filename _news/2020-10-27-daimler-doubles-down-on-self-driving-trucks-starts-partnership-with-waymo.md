@@ -203,6 +203,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 54
+  - title: "Waymo's CEO says its new deal with Daimler to build self-driving semi-trucks underscores its ambition to make way more than robo-taxis"
+    excerpt: "(Waymo was formerly known as the Google self-driving car project before it was spun off as a standalone company under the Alphabet umbrella.) The ride-hailing side of Krafcik's business has come under pressure in 2020 as the coronavirus pandemic forced ..."
+    publishedDateTime: 2020-10-27T17:49:00Z
+    webUrl: "https://www.businessinsider.com/waymos-ceo-says-partnership-with-daimler-doesnt-mean-business-pivot-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/5f9844ea861cb70019936aa8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "cO2Z9b7UxkoLAgPtHyHyzVT+QrNk8t6h0Vvsqpaj5q47cukQRnND+kx7FKcuN3PQ4TzntfhC9xHwKXT6n52fqVGPCF8Ote6vHDSB8Xun+2mQCWPGiU31rotErSmuztUAV1U0ZT3/ytla2FqBgN7Mpb+E0eGG2fR3HON8NLaGRqhZZpHS7pKAWtl01e6CJSaWaNgBIhKVP+xGxo5o2SDwhhj6Cq5W6I+sujBGN2mCajiuzOO0QztMCYMCwQDzEOfB5tEBMdhHIZhfwoQKfAAnC8Mlyt3RxcO+NbBjfjqxuq4w9TdpHOmU7A6drpe5hDxQLfMMxmTyWL1cRff/pr+0qy8lx/2A4VH6fqsSJYmc4lA=;zTzvCa9InoFvSlkTnopEIw=="
 ---

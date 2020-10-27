@@ -1,28 +1,44 @@
 ---
 category: news
 title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
-excerpt: "WASHINGTON, Oct. 27, 2020 /PRNewswire/ -- NOAA's Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA's use of satellite and ..."
-publishedDateTime: 2020-10-27T15:08:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/noaa-and-google-collaborate-to-enhance-weather-forecasting-and-research-with-artificial-intelligence-301160764.html"
-webUrl: "https://www.prnewswire.com/news-releases/noaa-and-google-collaborate-to-enhance-weather-forecasting-and-research-with-artificial-intelligence-301160764.html"
+excerpt: "PRNewswire/ -- NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite and environmental data."
+publishedDateTime: 2020-10-27T15:00:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-environment-and-nature-environment-weather-artificial-intelligence-d1d583ccb76120130b179cdab9e6ed5a"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-environment-and-nature-environment-weather-artificial-intelligence-d1d583ccb76120130b179cdab9e6ed5a"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1320599/Google_NOAA.jpg?p=facebook"
-    width: 958
-    height: 502
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "UtqndnHjdT54wytAkWgDc7s4odHQiL3wFlFEQ/b2Lhb9+K94FqZjrO4qv2pNpldH4exl1F1yTFt3pT/R1CSHK1JOYM2kLNjbd5novVAkJoHbUGe8AaDdyU50mRnjZ8lPnAGeuoxeUE+0mkgZiC3mKtoyt1dFNH7tgJciaxAuKbqgzMR2AoK5gyIuP+pJCnD71nJhxSVUT9jt38xysXAJTeqWTMHc5nb2cyyLZhrzPkZw91trRdaCTfy1lyXWgkTPicqL7y2jFUA5SupKqAF8PPSnQRgQwls+0ermS1x3H4Jd9ayHLYtZmbqmmwwmySnKZdAIpMyHZtVqmnDu+SfeEZWNyyEGWG8PFQZpG7Rz2bE=;t+UNRxOley6SvQG8QBjyww=="
+related:
+  - title: "NOAA and Google to apply machine learning to satellite data"
+    excerpt: "“Strengthening NOAA’s data processing through the use of big data, artificial intelligence, machine learning and other advanced analytical approaches is critical for maintaining and enhancing ..."
+    publishedDateTime: 2020-10-27T16:47:00Z
+    webUrl: "https://spacenews.com/noaa-google-cloud-ota/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 39
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2020/10/rsz_20200807-safires.jpg"
+        width: 879
+        height: 494
+        isCached: true
+
+secured: "isLp0L+ghYzca9rbZbBzP+wKiuUgy7NqJGg/za4Y/QgBKsySkq8SXVOhHOkYnfcx7NAPFkVUpmSLxSpRaAo7u7pNu87oCGgRL8y2vnEQ2dBmzYnhttbBFWh4ZEmE1TO9l53+2BviaoBJCjK7Z5yt1G5TceqEJO7mNk6c4deN/qSHusK73hNEkYtWkdTpBrUKw8Q91/PSLsWKNz7yeUC23zGicpuE4ugq1RrTCncq3lbG/lvMZ7Xbzg5pH7we6DCWUle5GjvErXk+xAoegGFbPkFPTIH7mQB+Gn8RjrspPC1S9dkrRTGqaKEjYKyWerHw6zl564Rrbvu6MmcGZQgBRot+59g4KBeqrp/PjQlnufI=;l3GnVdsb1KbnWWtjiUCO3Q=="
 ---
 

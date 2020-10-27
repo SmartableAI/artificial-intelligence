@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 395
         isCached: true
+  - title: "Human API raises $20 million to standardize health records with AI"
+    excerpt: "California-based company developing an AI pipeline that structures health data into a standardized format, this week raised over $20 million. A spokesperson for the startup says the capital will ..."
+    publishedDateTime: 2020-10-27T16:24:00Z
+    webUrl: "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Deci Raises $9.1M in Seed Funding to Build AI that Crafts Next Generation of AI"
     excerpt: "Deci's deep learning platform automatically gears up neural networks to become top-performing production-grade solutions on any hardware, including CPUs, GPUs, and special-purpose AI chips for edge and mobile. The platform is powered by Deci's patent ..."
     publishedDateTime: 2020-10-27T11:08:00Z
@@ -74,6 +90,6 @@ related:
         height: 315
         isCached: true
 
-secured: "DD3u+xkR4bJdMLp6sney63xJ+wycbnLj1qzUIwgU8PjmFQs+w7tn224Si5v6SqelKEFT5zqPPppVIdgIQ7IKNtxODZtJcAMFkG/0PMkyiOSVrL5K6Ls61GJgJluWGsgGlGRs+6FUYHWWHmoSQNbBWR8WuDflXSrzMUedY3d7MdVKiY82kvcZq2hR8Dcq16KWetDOFKZ8/ANqViCQmz+UtYtqplaL0uadT2nt6y/6QR6/434w5X1Mt3RNqkh2Ee9shxARGEwnYmXKVjIOamP/QMnbx+hWmm+WGQaF10GfwSgWOBYbL/8jk4sewWZf/oxD57mUg14NHjtX3L6cP81OLKoL6yhdqHVStKEgDX3nsZg=;VgAUeOFI8+d+i1YY0qsgGQ=="
+secured: "yBAzb3J6Vc5xTXtPGRJR5/mrNqEskk14vvz7umklFQHwZLHdpJMRfOVamFkBSLIzbgUNMzYAkWUC1uSujvHihxz3c/QB81JhAmPldA3ZXYiDiDbY4OuS6N1pho/8yRCaYKEZkFXJtr2uwc1XqQFVHdo2p9MhNx/+gr73kpAtpvTG3yBSlEQIXARa86w+B7V40wl/sBZ7T7tgdNgDg8COGi9tzX/2r5Tpyi+sa8hdjM3XdkqKwOK7AcHKdeCe60h5kPzN8vsedQytTfBBBq42LiyCR/hS14UZDMDSjtEIX9m6BuiauUCJ7ZBuWD+eoN0Kurjh5yJ+NPm5Ms/f2Kx7ZisiyJdvc2BeOKozjj2onklFgqlWj7u1/F0ZhCL8Oh/6CvPr9IkSFvTZDoVjXloxbMKTaVJQ5l4GfwwWlRwWstyb48tTizMRXPCnk7l27IQdKUeENVDBs/Ymi8lUr9sIz/tJBrw+XrJ4aiHpcwEPRBLIrArKosXlgcb3Mg/XQRHGVt/uCUr2t+HRX6TsdkpgiA==;vK2ENw1RzGJSkvyDZDLjEw=="
 ---
 

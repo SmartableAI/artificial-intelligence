@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-b
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "DrugCell: New Experimental AI Platform Matches Tumor to Best Drug Combo"
-    excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA). “That’s because right now we can’t match the right combination of drugs to the right patients in a smart way,"
-    publishedDateTime: 2020-10-22T23:32:00Z
-    webUrl: "https://health.ucsd.edu/news/releases/Pages/2020-10-22-drugcell-new-experimental-ai-platform-matches-tumor-to-best-drug-combo.aspx"
-    type: article
-    provider:
-      name: Scripps News
-      domain: ucsd.edu
-    quality: 39
-    images:
-      - url: "https://health.ucsd.edu/news/releases/PublishingImages/DrugCell_image.jpg"
-        width: 600
-        height: 505
-        isCached: true
   - title: "AI Reportedly Matches Tumors to Best Drug Combinations"
     excerpt: "University of California San Diego School of Medicine and Moores Cancer Center say they have created a new AI system called DrugCell that reportedly matches tumors to the best drug combinations but does so in way that clearly make sense."
     publishedDateTime: 2020-10-23T20:00:00Z
