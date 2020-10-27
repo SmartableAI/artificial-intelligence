@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Intuit Appoints Tekedra Mawakana, Waymo's Chief Operating Officer, to Board of Directors"
-excerpt: "Mawakana is the COO of Waymo LLC, a subsidiary of Alphabet ... policy related to commerce and advanced applications of artificial intelligence and machine learning. “Tekedra has a deep ..."
-publishedDateTime: 2020-10-20T21:31:00Z
-originalUrl: "https://www.nasdaq.com/press-release/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors"
-webUrl: "https://www.nasdaq.com/press-release/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors"
+excerpt: "Mawakana is the COO of Waymo LLC, a subsidiary of Alphabet ... policy related to commerce and advanced applications of artificial intelligence and machine learning. \"Tekedra has a deep ..."
+publishedDateTime: 2020-10-20T20:22:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/b17984355/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/b17984355/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17984355"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17984355"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "JhNdBn03K0N6sAimrthJFK9jsrlS7qcVNrswRzkmCFBvaZVsl9kNuhSarE6ZeCrnmZHKGm3VRFnzTBToGX3+aUo580iPbU1jN51fAiefTVAE8FM8JD5IRKNSqXG3JxYLOCE7BGBrkhcy8rApJiL4O8NBZaGTS5F2YMTvvy57O0K3q0NBN5W4iBRG9cUGV2oYpzZW8qCEwjKA8RJN67Qwz4EfBQXWh5RBNF2a++wkrVCP/vZM/Lba1Fk4d0mJTrElQD2Vu8/ToYDSvSkIzJRVIAkyOsIY8qnnb85eUavP1PTBwKmxg+sPFcn+MwDrVpHiTTeq5Shb06ZaV70V6sf4KEKUrNWaBBt7SLxR8glKGjg=;XfdyJCdJfY/xVo1yaUZQ7A=="
+secured: "qKfesWxtEJpXWEvRUnxrqVmt44zjtJ+xk3xp2aHsFfJ+hYfKg+HTT3mb11ieBDBn62KT/5Q5ytjxKmCMIFBx6ADVrR/r8DcbDQ0r/qpx19VR4vRvbEde5jZHf9sOyT+36dltLJnr616p2+L9jOqEDkGul8a0/KJdZbs6mQXDqXjAYRSXG1GX8YdhRIDYTLM3+vvXEy+lt9q1mdzyytP9D2TlSOw63SBwbqhK2Q7SO58xlr6kOhzjhd8qciYRtkLLBPi/P5SwoPzeb4Ho/0labDWz0iwNb6nJY3yBuC+qeTC/7XSalYSZOEDw1Lg5BgRDvquT6arkvUjj0NH9H8i6AnvAUHzpfU6X/Duo6hxQ/5A=;ilN7RStrob1cwh/9K+7naQ=="
 ---
 

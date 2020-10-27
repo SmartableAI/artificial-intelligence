@@ -98,20 +98,6 @@ related:
         width: 1182
         height: 690
         isCached: true
-  - title: "USC leads massive new artificial intelligence study of Alzheimer's"
-    excerpt: "Forty co-investigators at 11 research centers will team up to leverage artificial intelligence and machine learning to bolster precision diagnostics, prognosis and the development of new treatments for Alzheimer's disease."
-    publishedDateTime: 2020-10-22T18:51:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uosc-ulm102220.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "5+EMwurITTQxLpy8N1y33G7UtEP5FRCRy6Vy4odTiAxj7KgQlUz/E2pKYrIfh/UGYnLKpOnN1c0D/uH3a1J/UVdJx5VrDjGUbA2GKS1tDKMrJeltpvqgA51Me+ab1bZSihK8HE5uEanAl825+5l7X6yDKxTOHMS6zoSnm8k4kKd+NLX74KSBkqvvV+n6CJ1hbKayR606pi47ujmMOlfVEoTSBA8jtgEPwaD+e3eeP6WiYEEWA7NziXFmsMF3uhueWL//07OW5nNU6JWJAX6zqpvIMiHZ2FC7rpZsVdF688NgX9WTRQlkoCOP0Ctb4xmzg4pbaa586D7uaaC2PI3wYYWcvzX1Ml38UCmFnamBlrs=;+9cQbiTmyD2+CT0mtv9+TA=="
 ---

@@ -41,15 +41,6 @@ related:
         width: 600
         height: 558
         isCached: true
-  - title: "Fintech Provider Quavo, Inc. Launches Fraud and Disputes AI for Financial Institutions"
-    excerpt: "Last month, financial technology provider Quavo, Inc. released their revolutionary dispute management AI, ARIA™ (Automated Reasonable Investigation Agent), for issuing financial institutions and service organizations."
-    publishedDateTime: 2020-10-22T17:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-provider-quavo-inc-launches-fraud-and-disputes-ai-for-financial-institutions-1029711828"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
 
 secured: "xGVgTGXAhTmdNKANJ9PyGg+KEqF9j8TQFpOvmBIKfMcGglaek212ohuP8aXlh0BHNTUWmAH99khS46fdNHwGfAiHrPIk+E3Hkd5TKcw+fZv+ySPNUNJsO9g/AYQntqmWE26mFRKOxDm1kUbAlhjwA4CanDGjYqNIvkIrhnOH9QmuiYZG5Zrxh5/FXgY5Ic/6RQuYzw11Huj1wm2sLc2BgMM7ICo9Xhi1WC8RG4dRXVSUJCe6q3ReSzR00DEY6tN+fm1EuFr92woAuzEkZUnFsFBb1pix/FVB1WqdZY1u/9Xx7ZAIWkAio4YJanK/Hgges6r/p5mWrpodBdppXc6o1HsGKbxhE+NoMLf79uTOELU=;O3KrgnCfPZEI7SpdGzy/Gg=="
 ---

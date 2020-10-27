@@ -37,22 +37,6 @@ related:
         width: 1196
         height: 919
         isCached: true
-  - title: "Microsoft and MITRE release framework to help fend off adversarial AI attacks"
-    excerpt: "Microsoft, MITRE, and 11 other organizations developed a framework to help fend off adversarial machine learning attacks."
-    publishedDateTime: 2020-10-22T17:23:00Z
-    webUrl: "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/"
-    ampWebUrl: "https://venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/microsoft-and-mitre-release-framework-to-help-fend-off-adversarial-ai-attacks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 103
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
-        width: 1200
-        height: 573
-        isCached: true
   - title: "Microsoft develops new machine learning model to detect password spray attacks"
     excerpt: "Microsoft has developed a new machine learning model in order to autonomously detect password spray attacks. The model has vastly improved performance compared to its previous heuristic mechanism."
     publishedDateTime: 2020-10-27T04:56:00Z

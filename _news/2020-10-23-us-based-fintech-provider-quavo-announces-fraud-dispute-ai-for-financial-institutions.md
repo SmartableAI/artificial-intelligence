@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-pr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/amp/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Provider Quavo, Inc. Launches Fraud and Disputes AI for Financial Institutions"
-    excerpt: "Last month, financial technology provider Quavo, Inc. released their revolutionary dispute management AI, ARIA™ (Automated Reasonable Investigation Agent), for issuing financial institutions and service organizations."
-    publishedDateTime: 2020-10-22T17:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-provider-quavo-inc-launches-fraud-and-disputes-ai-for-financial-institutions-1029711828"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "Jumio rolls out new video-based KYC, deployed by UK FinTech Ebury"
     excerpt: "Jumio announced the launch of a new video-based verification solution for financial institutions and other regulated businesses."
     publishedDateTime: 2020-10-23T06:45:00Z

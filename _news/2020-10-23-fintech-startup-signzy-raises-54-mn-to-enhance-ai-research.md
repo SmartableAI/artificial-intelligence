@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/358321"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358321"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://businessmirror.com.ph/wp-content/uploads/2020/04/BM-logo-square2.jpg"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "UBS to invest $200 million in fintech startups"
+    excerpt: "we widen our access to fintech start-ups.\" Dargan believes UBS Next will boost the bank's engagement with the startup ecosystem, and put it at the forefront of new technological breakthroughs in public cloud, microservices architecture, and AI Sabine ..."
+    publishedDateTime: 2020-10-27T10:01:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36828/ubs-to-invest-200-million-in-fintech-startups"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5251.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "UE4kwTq/SoiACALer29B+hndYTORw+JVN8c4jDGZcEqOYDLREsWRRB56Z1u5/1trxIxGHT3dinsbxMlDK9WqlZ+NsxC3O5ugCkAMvkG++6FIH+4REeZXWn2Xh3xlA7UTboI7gZTE0JOr9gAryNmNEb3/+nFa6X2z+JcrL0c2DTrH2wsTbIpRlRtzuR997AfYDnWJomSgIsAQto2tabJyhex1pFDDWuJDGdV15f59DFzY/UBVm6D8s++7RGc4BYUr3IzlqqKgVtDXvtoX5LTL+rFhZRqFuYuoSAFl2vR3Jpjd5OGWUy8fJkEQgXnLvzXh0oS1tW7WcKm0qfhaEpPzy6CkRFclSX7TvC5xuXUdMlt7j0DOzwbw5C43j/Gv0Y3Y3y/32/Y5DFQeInBv5poPCo6Vg7VHB9isGg6dh+oz7S2DzGJT5u//z91TxHE2G+60E+fniqpo7v0CObr86T1HShpu0d4awzJo5lc/iijWZ6FzmFmGvWCiaCPhA2vHtTpm/uQEPC6/Y0bQxqlsnLji0g==;fswIXByVrO5X0/eHq37Jnw=="

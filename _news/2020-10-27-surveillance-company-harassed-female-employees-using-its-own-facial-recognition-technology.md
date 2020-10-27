@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/26/21535089/surveillan
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/26/21535089/surveillance-company-verkada-harassed-female-employees"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "University of Miami Denies It Uses Facial-Recognition Technology"
-    excerpt: "Students at the University of Miami have accused the school’s campus police of using facial recognition to identify them at a protest related to the coronavirus pandemic. Two students claim Dean of Students Ryan Holmes told a handful of campus protesters ..."
-    publishedDateTime: 2020-10-22T18:50:00Z
-    webUrl: "https://www.wsj.com/articles/university-of-miami-denies-it-uses-facial-recognition-technology-11603392194"
-    ampWebUrl: "https://www.wsj.com/amp/articles/university-of-miami-denies-it-uses-facial-recognition-technology-11603392194"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/university-of-miami-denies-it-uses-facial-recognition-technology-11603392194"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-247517/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Men at Facial Recognition Startup Used Its Own Tech to Sexually Harass Coworkers"
     excerpt: "Employees at the Silicon Valley security startup Verkada were reportedly using the company’s own facial recognition-equipped security cameras to take pictures of women who worked at the company ..."
     publishedDateTime: 2020-10-26T19:23:00Z

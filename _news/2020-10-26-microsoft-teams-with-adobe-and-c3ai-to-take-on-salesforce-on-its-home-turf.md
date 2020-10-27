@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-26/microsoft-tea
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106761845-16037308782ED4-REQ-102620-SIEBEL.jpg?v=1603730877"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Microsoft partners with Adobe and c3.ai to launch Salesforce rival"
+    excerpt: "powered by Azure. Microsoft hopes that when combined with Adobe’s speciality in the digital customer experience, and the AI capabilities of c3.ai, the combined system will offer customers a powerful alternative to the biggest players."
+    publishedDateTime: 2020-10-27T11:21:00Z
+    webUrl: "https://www.channelpro.co.uk/news/11941/microsoft-partners-with-adobe-and-c3ai-to-launch-salesforce-rival"
+    type: article
+    provider:
+      name: Channel Pro
+      domain: channelpro.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2020/10/crm_shutterstock.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "7JFeJH2gOLupU6+7DLg0iT2AQ8OFCZhUy/8ED13yaZAdL6dvx+yqp51WQ6EtOFIv3LHZT8svNleDXUszdBAZ26d9J5POEGyV1mtNErdLmQ3bC+oXVGCYOapLTb+aQxyrzcvVCuxw7IiB61gk4mWW0RdcpjRkHGDP4l5HUiyodl5AzRo9my+fqtU9Xx5HksClqM87u1zbz4my6Qr/lR1eSbbtskBLN+Smpxal6sZpljxAO96FMfpO4AFSMRm6gpE9odrrIbmOO3wl3ejWtmRpJrvbWcqGSCmjqTpXUv7k+gF+DZtEf563VitvV8UMhFoH4pJpwzRsvT6a4aDMvr8kjslQehNKd525faE+NcPTQijR4N+tkL4aE4okiDxJb/eyEqGlzDwK/pIoRaGQyAd+R+buFHwaxdaJBLiLvPA8sfsSBgdgaDfqzPzS0Ne/0E4AiPHdF3RcoVX5hitksBlpBeD45hR1somAFzhEZvR0ptGShgesUaqts6+hRJrh76wt1VNJi2YmmHOu5yjAPo838g==;4+sUTmAgCasMbNaH5sGgpg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-54538228"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54538228"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       - url: "https://static.axios.com/img/axios-site/axios-placeholder-16x9.png"
         width: 1182
         height: 690
-        isCached: true
-  - title: "USC leads massive new artificial intelligence study of Alzheimer's"
-    excerpt: "Forty co-investigators at 11 research centers will team up to leverage artificial intelligence and machine learning to bolster precision diagnostics, prognosis and the development of new treatments for Alzheimer's disease."
-    publishedDateTime: 2020-10-22T18:51:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uosc-ulm102220.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "IBM, Pfizer design AI model that can predict Alzheimer's in seemingly healthy patients"
     excerpt: "IBM (IBM +0.4%) and Pfizer (PFE +1.0%) have published research in The Lancet eClinicalMedicine outlining the duo's AI-backed approach to diagnosing Alzheimer's years before symptoms occur.The researches developed an AI model that uses samples of language data (obtained from clinical cognitive verbal tests) to predict with 71% accuracy the eventual onset of the disease within seemingly healthy people who don't have any Alzheimer's risk factors."

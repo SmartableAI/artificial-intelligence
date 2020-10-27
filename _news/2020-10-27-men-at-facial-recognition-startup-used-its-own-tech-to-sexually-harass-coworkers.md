@@ -43,22 +43,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "University of Miami Denies It Uses Facial-Recognition Technology"
-    excerpt: "Students at the University of Miami have accused the school’s campus police of using facial recognition to identify them at a protest related to the coronavirus pandemic. Two students claim Dean of Students Ryan Holmes told a handful of campus protesters ..."
-    publishedDateTime: 2020-10-22T18:50:00Z
-    webUrl: "https://www.wsj.com/articles/university-of-miami-denies-it-uses-facial-recognition-technology-11603392194"
-    ampWebUrl: "https://www.wsj.com/amp/articles/university-of-miami-denies-it-uses-facial-recognition-technology-11603392194"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/university-of-miami-denies-it-uses-facial-recognition-technology-11603392194"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-247517/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "4I9odY1kIdZ7S7EailcXdAyAPWVOmZL7m15f9F5yQGhRMm2giRi0nZq3qE6Q9+Up19zxSIwL2XthWU7wfh/jR9vrr5CzwYeFm666+nzNOHoNO4VX4k9GHwXI8NOC/IF9dWO8/UivSHX1tMwGBXMmxPpyp5Dr8Rdv3ZBwDELu4tO4CAyRPDliMzExuAjsRecLd+tgRZN1YFlYYCL4o4NqsKRx8ULGg3wRJqd57p3fbLosTOemC5iL+rdzikmJEskQgyIyIloGMMZyUfVAADvt9WQ/H2D6rKlQ7ctkvXGXIPXKlipWQbEcpph53ufQXsHnoSYpgEVNOUUPqmd7vv4JRx/40lghTBI4q5JUODhCGGoNAdgwAR1z70VQJSPgYKHpCbI1FsUjufNUjOVwthaakigYNdL1Yj3pFNcO0vsqF4FYR3dMAJvr+1NU3m+QOUAf0EoJj7WR/WaNqI1HFq8r2aV22qfgBGfU3ntbmZfbm8h023nzBp/0Iw/cWi/d+q7OGK/KxVsDDf7YpvSpz3iBRA==;X96Xr+4pAtJ0axLWjW/KKg=="
 ---

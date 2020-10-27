@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "UBS to invest $200 million in fintech startups"
+    excerpt: "we widen our access to fintech start-ups.\" Dargan believes UBS Next will boost the bank's engagement with the startup ecosystem, and put it at the forefront of new technological breakthroughs in public cloud, microservices architecture, and AI Sabine ..."
+    publishedDateTime: 2020-10-27T10:01:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36828/ubs-to-invest-200-million-in-fintech-startups"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5251.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "q/+mbiNH30RiaW540chXIj/5tj0h43DimEEjuqV/G4EYoFqfin4CLu7ETwze6Lxcy7V+H3NLM15ydUR4mV2cc+A098s7AUZInv4X5BShm3H0qynHy25VMzgCGCrfy/uFIMJBqQeYGhzFta0NPm6/opPhViFUbW+wKcfaH4UVjuCy2b2Tyi3m7aT6CcdEdvzV1tkzRJKyoOnSluU3dmEKCMzzuDEQmVwZMBfTtc5juporUfi8oWbw7srAWm/lKrvKwQmFdPm5k/x5S5ivq83Z6Hq9XcfZcNiKHNuThcQRWI+sM+oFkw03kAH1xHXT0rE9iHHkA/wbI1+0MP9HXWXl9dMZs7UPO0vFBf+d++MUU8zMvLUmIaVMm6IivPUvkLKqv8ZfESiS75LaRVruBA/HIadPDMbvE7bZlFRY4VKlpPcf1ZJHKNMnwHSnSvocwqzR0/cMFwoi3VZPV1tKnpxAiRiwWyymhUkFCKgB5i35pPDzsVcf8fAmzUAYaO7wtd2K3BXTxC2znPBzFa6PCRqgGg==;qtCHdIvGP3n9NBbXRB+KjA=="
 ---

@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "On The March: Ant Group, China's Fintech Sensation"
-    excerpt: "With a name belying its giant ambitions, China's Ant Group on Tuesday launched a history-making $34 billion IPO in Hong Kong and Shanghai. Backed by Jack Ma, China's richest man who founded the Alibaba e-commerce empire from his bedroom two decades ago,"
-    publishedDateTime: 2020-10-27T05:45:00Z
-    webUrl: "https://www.ibtimes.com/march-ant-group-chinas-fintech-sensation-3070506"
+    excerpt: "Armed with the data of hundreds of millions of people, boundary-pushing AI and pockets soon to be stuffed with IPO cash, Ant says it intends to keep innovating and rolling into new markets. Domestically, Alipay is pushing facial recognition payments ..."
+    publishedDateTime: 2020-10-27T11:46:00Z
+    webUrl: "https://www.barrons.com/news/on-the-march-ant-group-china-s-fintech-sensation-01603775404"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Barron's
+      domain: barrons.com
     quality: 24
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/27/jack-ma-launched-ant-group-in-2004-with.jpg"
-        width: 1024
-        height: 680
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP7773844587634413035400186115368675316226-politics-china-antgroup-science-ipo-files-technology-computers-ecommerce-jackma-1.jpg"
+        width: 768
+        height: 510
         isCached: true
 
 secured: "VpWT3+KoF7OoK7TbbVoPtt0gLub79+IDM6isVkPOuOTeBE+KVk7CCXSlstBmw2KsZRSSpyV37IajXnmziZU6Xq97eFz98/U2jzjZrf6JrmlilTWfO5RlrXp7MHj5s3sV35OmE9o7iPJmc0pZoLTy0xH6P0RG7Ksd3QY+gmH2a9C00ga5pD5rolY6D8hOimMObASsTesGeZtmU+u1xZH9orrl5RRd2mZWELXAwXk5voqGFfQ/tAeCmWqwfY/iR0E2TJVImkABvscqTQHqzqGTCNNFwGD7NVC+VFI9WMFHVVFYekeGcIOzNENBc6K4bj1ljodPtDxLybXnWuyGwdQ8P07Lb+/2MKk7Yum2DX2rp2Z7x12D84nu3Q/mxRGt3JhTIoMxsFaATWUPNcEB3Qgo/OEcDYvXQdAMrVgeVMOZOxyQioTWMihWp3V117yZuUVn3xTCu5HjmiuzW46HNSPOelR2ydmMXKun/LDb2094FKN0ld0nnJV8FMYrdVp0EkheQnSXYH6uEyUgys9fY1cYRg==;9vPfZ/XfLLp6ygmg/gMlsQ=="
