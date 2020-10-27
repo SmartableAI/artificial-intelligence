@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-26T19:40:00Z
 originalUrl: "https://www.businessinsider.com/the-18-power-players-shaping-googles-burgeoning-healthcare-business-2020-8"
 webUrl: "https://www.businessinsider.com/the-18-power-players-shaping-googles-burgeoning-healthcare-business-2020-8"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Google AI
 
 images:
   - url: "https://i.insider.com/5f36aa7be89ebf001f04492c?width=1200&format=jpeg"

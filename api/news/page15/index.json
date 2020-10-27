@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-13-elon-musk-says-autopilot-self-driving-beta-will-start-next-tuesday.md",
+      "title": "Elon Musk Says Autopilot Self-Driving Beta Will Start Next Tuesday",
+      "excerpt": "After a complete rewrite of Autopilot and specifically the upcoming FSD (Full Self-Driving) feature, Tesla CEO Elon Musk has tweeted that a closed beta test of the system will be rolling out next ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.caranddriver.com/news/a34347927/tesla-autopilot-fsd-self-driving-beta/",
+      "originalUrl": "https://www.caranddriver.com/news/a34347927/tesla-autopilot-fsd-self-driving-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-autopilot-graphic-1555955220.jpg?crop=0.767xw:0.790xh;0.109xw,0&resize=1200:*",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.caranddriver.com/news/amp34347927/tesla-autopilot-fsd-self-driving-beta/",
+      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp34347927/tesla-autopilot-fsd-self-driving-beta/",
+      "publishedDateTime": "2020-10-12T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Car and Driver",
+        "domain": "caranddriver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education.md",
       "title": "How CogAbility and the University of Florida are using Watson to build the future of education",
       "excerpt": "As they do every fall, 55,000 students descended on the University of Florida this year. But with mask and physical distancing guidelines, alterations to policies on campus gatherings, and new behavioral expectations, operating and attending a university during a pandemic is anything but business as",
@@ -1166,58 +1209,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-robotic-interviews-machine-learning-and-the-future-of-workforce-recruitment.md",
-      "title": "Robotic Interviews, Machine Learning And the Future Of Workforce Recruitment",
-      "excerpt": "These would affect all aspects of HR functions such as the way HR professionals on-board and hire people, and the way they train them",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357593",
-      "originalUrl": "https://www.entrepreneur.com/article/357593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602496955-artificial-intelligence-2167835.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357593",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357593",
-      "publishedDateTime": "2020-10-12T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

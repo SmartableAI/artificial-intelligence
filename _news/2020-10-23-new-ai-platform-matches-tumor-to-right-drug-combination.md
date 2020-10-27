@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-b
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,31 @@ images:
     isCached: true
 
 related:
+  - title: "New experimental AI platform matches tumor to best drug combo"
+    excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA)."
+    publishedDateTime: 2020-10-22T20:24:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-experimental-ai-platform-tumor-drug.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-experimental-ai-platform-tumor-drug.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-experimental-ai-platform-tumor-drug.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/drugcellnewe.jpg"
+        width: 600
+        height: 505
+        isCached: true
+  - title: "DrugCell: New experimental AI platform matches tumor to best drug combo"
+    excerpt: "Researchers use experimental artificial intelligence system called DrugCell to predict ... and combinations of drugs to best treat the malignancy. Precision cancer therapy is already available at Moores Cancer Center at UC San Diego Health, where patients ..."
+    publishedDateTime: 2020-10-26T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201026164900.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "DrugCell: New Experimental AI Platform Matches Tumor to Best Drug Combo"
     excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA). “That’s because right now we can’t match the right combination of drugs to the right patients in a smart way,"
     publishedDateTime: 2020-10-22T23:32:00Z

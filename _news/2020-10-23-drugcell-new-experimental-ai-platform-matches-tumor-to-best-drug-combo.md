@@ -41,6 +41,31 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "New experimental AI platform matches tumor to best drug combo"
+    excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA)."
+    publishedDateTime: 2020-10-22T20:24:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-experimental-ai-platform-tumor-drug.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-experimental-ai-platform-tumor-drug.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-experimental-ai-platform-tumor-drug.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/drugcellnewe.jpg"
+        width: 600
+        height: 505
+        isCached: true
+  - title: "DrugCell: New experimental AI platform matches tumor to best drug combo"
+    excerpt: "Researchers use experimental artificial intelligence system called DrugCell to predict ... and combinations of drugs to best treat the malignancy. Precision cancer therapy is already available at Moores Cancer Center at UC San Diego Health, where patients ..."
+    publishedDateTime: 2020-10-26T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201026164900.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "AI Reportedly Matches Tumors to Best Drug Combinations"
     excerpt: "University of California San Diego School of Medicine and Moores Cancer Center say they have created a new AI system called DrugCell that reportedly matches tumors to the best drug combinations but does so in way that clearly make sense."
     publishedDateTime: 2020-10-23T20:00:00Z

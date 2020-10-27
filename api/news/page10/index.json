@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-15-processing-auto-insurance-claims-at-scale-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-ground-truth.md",
+      "title": "Processing auto insurance claims at scale using Amazon Rekognition Custom Labels and Amazon SageMaker Ground Truth",
+      "excerpt": "Computer vision uses machine learning (ML) to build applications that process images or videos. With Amazon Rekognition, you can use pre-trained computer vision models to identify objects, people, text, activities, or inappropriate content. Our customers have use cases that span every industry, including",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Architecture.jpg",
+          "width": 900,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T13:01:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-the-path-to-ethical-ai-starts-with-collaboration.md",
       "title": "The Path to Ethical AI Starts With Collaboration",
       "excerpt": "To the layman, the word-set of ethical AI is a misnomer. AI oftentimes still conjures visions of a dystopian future in which artificial intelligence runs rampant, dominating humankind. Thanks to modern-era entertainment in films such as 2001:A Space Odyssey (HAL 3000) or The Terminator,",
@@ -1109,49 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-built-for-the-fourth-industrial-revolution-cascadia-capital-launches-leading-edge-investment-banking-practice-dedicated-to-the-robotics-automation.md",
-      "title": "Built for the Fourth Industrial Revolution: Cascadia Capital Launches Leading-Edge Investment Banking Practice Dedicated to the Robotics, Automation, and Artificial ...",
-      "excerpt": "Cascadia Capital (“Cascadia”) is tackling the Fourth Industrial Revolution head-on­—leveraging existing internal expertise to launch one of the nation",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201015005266/en/Built-for-the-Fourth-Industrial-Revolution-Cascadia-Capital-Launches-Leading-Edge-Investment-Banking-Practice-Dedicated-to-the-Robotics-Automation-and-Artificial-Intelligence-Sectors",
-      "originalUrl": "https://www.businesswire.com/news/home/20201015005266/en/Built-for-the-Fourth-Industrial-Revolution-Cascadia-Capital-Launches-Leading-Edge-Investment-Banking-Practice-Dedicated-to-the-Robotics-Automation-and-Artificial-Intelligence-Sectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201015005266/en/830406/23/CAscadiaLLClogo_Blue.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

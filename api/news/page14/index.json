@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-13-xilinx-and-splineai-develop-x-ray-classification-deep-learning-model-and-reference-design-on-aws.md",
+      "title": "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS",
+      "excerpt": "The solution’s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and-reference-design-on/article_75dad927-f650-50ba-8fec-bf432dd17330.html",
+      "originalUrl": "https://www.oaoa.com/news/business/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and-reference-design-on/article_75dad927-f650-50ba-8fec-bf432dd17330.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-olive-rolled-out-a-new-ai-powered-healthcare-platform-that-streamlines-revenue-cycle-management.md",
       "title": "Olive rolled out a new AI-powered healthcare platform that streamlines revenue cycle management",
       "excerpt": "Olive debuted a platform that speeds up revenue cycle management processes for healthcare workers—like prior authorizations and patient verifications.",
@@ -1103,49 +1146,6 @@
         "AI",
         "Microsoft AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-elon-musk-says-autopilot-self-driving-beta-will-start-next-tuesday.md",
-      "title": "Elon Musk Says Autopilot Self-Driving Beta Will Start Next Tuesday",
-      "excerpt": "After a complete rewrite of Autopilot and specifically the upcoming FSD (Full Self-Driving) feature, Tesla CEO Elon Musk has tweeted that a closed beta test of the system will be rolling out next ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.caranddriver.com/news/a34347927/tesla-autopilot-fsd-self-driving-beta/",
-      "originalUrl": "https://www.caranddriver.com/news/a34347927/tesla-autopilot-fsd-self-driving-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-autopilot-graphic-1555955220.jpg?crop=0.767xw:0.790xh;0.109xw,0&resize=1200:*",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp34347927/tesla-autopilot-fsd-self-driving-beta/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp34347927/tesla-autopilot-fsd-self-driving-beta/",
-      "publishedDateTime": "2020-10-12T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

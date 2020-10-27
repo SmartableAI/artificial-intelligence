@@ -3,14 +3,11 @@ category: news
 title: "Facebook’s new polyglot AI can translate between 100 languages"
 excerpt: "The model, a culmination of various automated and machine learning techniques, is being open-sourced to the research community."
 publishedDateTime: 2020-10-20T14:00:00Z
-originalUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/"
-webUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/"
+originalUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/?itm_source=parsely-api"
+webUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/?itm_source=parsely-api"
 ampWebUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/"
 type: article
-quality: 76
-heat: -1
-published: false
 
 provider:
   name: MIT Technology Review
@@ -27,24 +24,6 @@ images:
     height: 1206
     isCached: true
 
-related:
-  - title: "Microsoft details T-URLv2 model that can translate between 94 languages"
-    excerpt: "The same week Facebook open-sourced M2M-100, an AI model that can translate between over 100 languages, Microsoft detailed an algorithm of its own — Turing Universal Language Representation (T ..."
-    publishedDateTime: 2020-10-20T15:42:00Z
-    webUrl: "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/"
-    ampWebUrl: "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-
-secured: "NYt4/VTvBFSCJAp55Tm/kIIIibxFbRLUcvCK9rlvh1L1ANN9kYZXF6N3UcTnkI4YpZ3Fk0uxMFE1nkMdvACUvUvS5LL6u7YwEDYpd8nykHnhtl9v3a2TFf8iB3D4royyYnCuhyzJ8VRfjbZ/jCCHUumlc+QrOgm9Pc3FzPd40OqM+huZXeSkgXc4rvurnIUGpwNnKIWuxbLVS5e56LpT8kAY7Z2dqkJbyhtWfRX+z65zCrqlUOksPfK5V2cQxYYo0iIVfSP1JGOEU3uzxtaqpVy5dO15JQb8KxmdkRlaZ6f2Zn/9ylTv96ClVje14P5HXp/q/BhtvFTijizZm0zelEbXdd36tx439ZuMLkaJ3ERx4a0MlpTxrvZ2wMtt8CjeJSfMd3spfxU81DOCcdvwOu1RFBWioMsIKN0QuJ7wmICg4zj8rYbkIWP/Kg6dEs7qHY2qyuIcrdFkFEVtfADmDBm+RUxMBvJ6o3HijntbqLPq7/uon2sUvGGyQcAR7xckVCeNWUZxqZpK/AhcPD+dkQ==;aOAwrThrISl8PXach2M61w=="
+secured: "VBE6P5jlEz3SHKLmJKJs4cSAGBNGVlTBIYxCXuWToLu4+DSSOSq697L576H5yJtmIXj41T8Wuz6ZDXm9oXFAHf6c4tDRC80X9I1QHg+waPuSjY6sCkF9yzMK5FQkyb/aZ55MrHKy7MZiPXv978NlBCpKD1yWZOXgjqbqr0AxLYqWac1qhNqNysm7EPBlgXTtnyTadsJ9eWFgvZhqf7awar5OgJKdcetb9Bwja2YBugS2dpWFXap0rRIH82GNgBVV9QShK6lay8VDtzViJN+2A9YEgJUos81QqPWf6oxB+ZhR1cwJbmUX0X/EeuB6BILcbSqSHlvWxomt0NDZaIesDShtNahXLrZns4C8m5CFJ6Q=;mO0UjQOT/NJ5XfRMifGo5w=="
 ---
 

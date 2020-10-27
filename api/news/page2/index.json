@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-24-in-25-years-new-cars-could-be-unrecognizable-thanks-to-technology.md",
+      "title": "In 25 years, new cars could be unrecognizable thanks to technology",
+      "excerpt": "New battery chemistries, self-driving tech and advanced propulsion systems will revolutionize how we get around.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/future-cars-in-25-years/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/future-cars-in-25-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/TURAoVosw99tOFCESh7UlHj1Snk=/2020/10/16/80cf9355-5cdf-4f7e-91b8-914d29666e3d/25-years-future-cars-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/future-cars-in-25-years/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/future-cars-in-25-years/",
+      "publishedDateTime": "2020-10-24T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-one-key-to-pandemic-retailing-artificial-intelligence.md",
       "title": "One Key to Pandemic Retailing: Artificial Intelligence",
       "excerpt": "AI driven by online data and powerful computing has given retailers new abilities to personalize selling and turn on a dime. It will also play an important role after the pandemic.",
@@ -304,7 +356,7 @@
       "originalUrl": "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1187,58 +1239,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-how-ibm-makes-ai-based-on-trust-fairness-and-explainability.md",
-      "title": "How IBM makes AI based on trust, fairness, and explainability",
-      "excerpt": "It’s all about trust Two things are true about trust: it’s at the core of all successful human relationships, and it’s not an easy thing to attain. Trust contains multitudes of nuance, and when achieved, it can lead to transformational events. The same could be said of artificial intelligence. We have",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-ibm-makes-ai-based-on-trust-fairness-and-explainability/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-ibm-makes-ai-based-on-trust-fairness-and-explainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/AI_trust_leadspace-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T13:58:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-19-odias-globally-deliberate-on-leveraging-aiml-for-odishas-growth.md",
+      "title": "Odias globally deliberate on leveraging AI/ML for Odisha’s growth",
+      "excerpt": "In a virtual conference, Odias working in the area, discussed how Odisha, Odia language and Odia people can benefit from the emerging opportunities created by artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/",
+      "originalUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/orissadiary.com/wp-content/uploads/2020/10/odiaamil.jpg?fit=747%2C334&ssl=1",
+          "width": 747,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/amp/",
+      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/amp/",
+      "publishedDateTime": "2020-10-19T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
       "title": "AI & ML latest: Google disbands another AI ethics committee",
       "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
@@ -1154,58 +1198,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-how-id-study-machine-learning-if-id-be-starting-out-today.md",
-      "title": "How I’d study machine learning — if I’d be starting out today",
-      "excerpt": "I’m underground, back where it all started. Sitting at the hidden cafe where I first met Mike. I’d been studying in my bedroom for the past 9-months and decided to step out of the cave. Half of me was concerned about having to pay $19 for breakfast (unless it’s Christmas,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/image-1-8-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/amp/",
-      "publishedDateTime": "2020-10-16T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

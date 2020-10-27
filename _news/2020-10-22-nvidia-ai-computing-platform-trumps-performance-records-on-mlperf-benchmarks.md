@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia chips again smash AI performance records"
-    excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services."
-    publishedDateTime: 2020-10-22T08:14:00Z
-    webUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
-    ampWebUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 74
-    images:
-      - url: "https://www.sify.com/uploads/nvidia_chip_ians_ukvnDpcacajgj.jpeg"
-        width: 950
-        height: 616
-        isCached: true
   - title: "Nvidia Dominates MLPerf AI Benchmark Competition Again"
     excerpt: "Nvidia said it has extended its lead on the MLPerf Benchmark for AI inference with the company’s A100 GPU chip introduced earlier this year. Nvidia won each of the six application tests for data center and edge computing systems in the second version of MLPerf Inference."
     publishedDateTime: 2020-10-22T20:07:00Z

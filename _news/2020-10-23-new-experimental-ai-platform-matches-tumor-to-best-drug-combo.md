@@ -26,35 +26,58 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe’s new AI experiment syncs your dance moves perfectly to the beat"
-    excerpt: "TikTok has made on-beat dances and movements mainstream. But what if you went offbeat or the video you recorded had some lag to your perfect dance moves. Adobe can fix that for you. The company showed off an AI-powered experiment at its Adobe Max conference that syncs your off-beat movement to the beat of the"
-    publishedDateTime: 2020-10-22T07:18:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/22/adobes-new-ai-experiment-syncs-your-dance-moves-perfectly-to-the-beat/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/22/adobes-new-ai-experiment-syncs-your-dance-moves-perfectly-to-the-beat/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/22/adobes-new-ai-experiment-syncs-your-dance-moves-perfectly-to-the-beat/amp/"
+  - title: "New AI Platform Matches Tumor to Right Drug Combination"
+    excerpt: "DrugCell, a new artificial intelligence system not only matches tumors to the best drug combinations, but does so in a way that makes sense to humans.’ Read More.."
+    publishedDateTime: 2020-10-23T16:51:00Z
+    webUrl: "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: Medindia
+      domain: medindia.net
+    quality: 59
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Screenshot-2020-10-22-at-11.44.08-AM-e1603347346344-796x419.png"
-        width: 796
-        height: 419
+      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Adobe’s latest AI experiments will melt your brain"
-    excerpt: "I’m referring to Adobe’s “Sneaks,” or the UX experiments that Adobe Research is working on that aren’t quite ready to be put into real products yet. These are often powered by Adobe’s reality-altering AI platform called Sensei."
-    publishedDateTime: 2020-10-23T11:00:00Z
-    webUrl: "https://www.fastcompany.com/90567384/adobes-latest-ai-experiments-will-melt-your-brain?ref=hvper.com"
+  - title: "DrugCell: New experimental AI platform matches tumor to best drug combo"
+    excerpt: "Researchers use experimental artificial intelligence system called DrugCell to predict ... and combinations of drugs to best treat the malignancy. Precision cancer therapy is already available at Moores Cancer Center at UC San Diego Health, where patients ..."
+    publishedDateTime: 2020-10-26T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201026164900.htm"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "DrugCell: New Experimental AI Platform Matches Tumor to Best Drug Combo"
+    excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA). “That’s because right now we can’t match the right combination of drugs to the right patients in a smart way,"
+    publishedDateTime: 2020-10-22T23:32:00Z
+    webUrl: "https://health.ucsd.edu/news/releases/Pages/2020-10-22-drugcell-new-experimental-ai-platform-matches-tumor-to-best-drug-combo.aspx"
+    type: article
+    provider:
+      name: Scripps News
+      domain: ucsd.edu
+    quality: 39
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/10/poster-new-adobe-sneaks-2020.jpg"
-        width: 1280
-        height: 720
+      - url: "https://health.ucsd.edu/news/releases/PublishingImages/DrugCell_image.jpg"
+        width: 600
+        height: 505
+        isCached: true
+  - title: "AI Reportedly Matches Tumors to Best Drug Combinations"
+    excerpt: "University of California San Diego School of Medicine and Moores Cancer Center say they have created a new AI system called DrugCell that reportedly matches tumors to the best drug combinations but does so in way that clearly make sense."
+    publishedDateTime: 2020-10-23T20:00:00Z
+    webUrl: "https://www.genengnews.com/news/ai-reportedly-matches-tumors-to-best-drug-combinations/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2020/10/Oct23_2020_Getty_1193684967_WomanScientistPipette-scaled-e1603475555884.jpg"
+        width: 1400
+        height: 1050
         isCached: true
 
 secured: "ngtnknmz3uuFVv7A/ALa3g1W1vHOPlfr1fEwggeU4QlWmcZBw8we53vA5ICIsXDyZnN2+in7VIOhL3IP0lCaaZa0pibk0/s68geyhipNqqdBGqgoXm+ycInml5yl/+VAuv6esxeuu2IVeHxk5D1FhmXum5duYUSryVAlxGr3okcepwzFLaMmioylg5ddG2JgFABTVkO6cL+Zv9mM13YPxBBDtMCGcgd1hhKXA6wxUI2VVV6XEloKMTewzHEScnsJm7AS62VIe8KRWKgKAM/h+hYntRY47JTzDHg6GnZR1xO+8HIRk6LDTtLJ84K4WEX2NaonJX2GAeQNGezQG6CpaNrQJKDmMRHcnD7YsHaooKs=;e5vjDcoFjIW72P/Kv8bjeA=="

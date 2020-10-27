@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-30-how-the-trevor-project-continues-to-support-lgbtq-youth.md",
+      "title": "How The Trevor Project continues to support LGBTQ youth",
+      "excerpt": "This September, National Suicide Prevention Awareness Month feels different. Over the past nine months, LGBTQ youth have experienced unique challenges in relation to COVID-19.The pandemic has amplified existing mental health disparities and created new problems that have impacted the daily lives of many",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3O5A3023_LUKnAQ7.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/amp/",
+      "publishedDateTime": "2020-09-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices.md",
       "title": "Hailo challenges Intel and Google with its new AI modules for edge devices",
       "excerpt": "Hailo, a Tel Aviv-based startup best known for its high-performance AI chips, today announced the launch of its M.2 and Mini PCIe high-AI acceleration modules. Based around its Hailo-8 chip, these new models are meant to be used in edge devices for anything from smart city and smart home solutions",

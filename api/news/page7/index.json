@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-20-google-deepmind-co-founder-out-over-controversy-over-his-ai-projects.md",
+      "title": "Google DeepMind co-founder OUT over 'controversy' over his AI projects",
+      "excerpt": "Google DeepMind co-founder Mustafa Suleyman has been placed on leave abruptly from the secretative AI-focused division of Google, with the reason being controversy \"over some of the projects he led\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/6/7/67247_03_google-deepmind-co-founder-over-controversy-ai-projects_full.png",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/amp.html",
+      "publishedDateTime": "2020-10-19T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-onr-robotics-enter-the-covid-19-fight.md",
       "title": "ONR Robotics enter the COVID-19 fight",
       "excerpt": "A decontamination robot funded by the Office of Naval Research (ONR) and designed by several local universities was recently tested in Richmond Va. The robot--initially designed for shipboard firefighting and maintenance tasks--has now been enlisted in the fight against Covid-19.",
@@ -1164,50 +1207,6 @@
         "Computer Vision",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-odias-globally-deliberate-on-leveraging-aiml-for-odishas-growth.md",
-      "title": "Odias globally deliberate on leveraging AI/ML for Odisha’s growth",
-      "excerpt": "In a virtual conference, Odias working in the area, discussed how Odisha, Odia language and Odia people can benefit from the emerging opportunities created by artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/",
-      "originalUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/orissadiary.com/wp-content/uploads/2020/10/odiaamil.jpg?fit=747%2C334&ssl=1",
-          "width": 747,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/amp/",
-      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/amp/",
-      "publishedDateTime": "2020-10-19T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha Diary",
-        "domain": "orissadiary.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

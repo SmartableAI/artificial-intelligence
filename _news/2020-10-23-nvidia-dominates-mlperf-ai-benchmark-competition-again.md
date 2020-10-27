@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2020/10/nvidia-dominates-mlperf-ai-benchmark
 webUrl: "https://insidehpc.com/2020/10/nvidia-dominates-mlperf-ai-benchmark-competition-again/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia chips again smash AI performance records"
-    excerpt: "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services."
-    publishedDateTime: 2020-10-22T08:14:00Z
-    webUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
-    ampWebUrl: "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 74
-    images:
-      - url: "https://www.sify.com/uploads/nvidia_chip_ians_ukvnDpcacajgj.jpeg"
-        width: 950
-        height: 616
-        isCached: true
   - title: "Nvidia AI Computing Platform Trumps Performance Records on MLPerf Benchmarks"
     excerpt: "NVIDIA Corporation (NASDAQ: NVDA) reported that its AI computing platform has outperformed its performance records"
     publishedDateTime: 2020-10-22T16:43:00Z

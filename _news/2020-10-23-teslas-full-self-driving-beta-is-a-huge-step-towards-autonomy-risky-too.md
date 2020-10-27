@@ -456,20 +456,6 @@ related:
         width: 678
         height: 381
         isCached: true
-  - title: "Tesla launches ‘Full Self Driving’ beta to select drivers"
-    excerpt: "The Early Access Programme serves as testing platform to help fix software bugs Tesla CEO Elon Musk has revealed the company has started rolling out its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers."
-    publishedDateTime: 2020-10-22T07:43:00Z
-    webUrl: "https://www.tribuneindia.com/news/science technology/tesla-launches-full-self-driving-beta-to-select-drivers-159452"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 54
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_1711471991.JPG"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Federal Regulators Are Keeping a Close Watch on Tesla’s “Self-Driving” Beta Test"
     excerpt: "\"The most advanced vehicle technologies available for purchase today provide driver assistance and require a fully attentive human driver at all times performing the driving task and monitoring the surrounding environment."
     publishedDateTime: 2020-10-23T19:14:00Z
@@ -533,20 +519,6 @@ related:
       - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/10/23/h9j7izkikqbybxzyg0vp.png?ar=16%3A9&fit=crop&q=65&w=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Tesla moving ahead on self-driving cars"
-    excerpt: "This week, a group of Tesla drivers was selected to receive a software update that downloaded automatically into their cars, enabling the vehicles to better steer and accelerate without human hands and feet."
-    publishedDateTime: 2020-10-22T08:27:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/oct/22/tesla-moving-ahead-on-self-driving-cars/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/196444798_tesla-1stld-writethru-a0f5868a-13bc-11eb-bc10-40b25382f1be_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 337
         isCached: true
   - title: "Federal regulators watching Tesla's new 'self-driving' software launch"
     excerpt: "Big week for #Tesla: release of new #Autopilot features, cost hike of said features, federal regulators take note, and strong third quarter earnings. #SiliconValley #autotech #selfdrivingcar"

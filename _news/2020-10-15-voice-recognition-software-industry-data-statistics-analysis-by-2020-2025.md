@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.openpr.com/T/a/Ta14631842_g.jpg"
@@ -108,6 +109,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Zb7IUJVJM2xlnbbqu+At+DlBShg/gFaH0qgAu+aOTOmT8qzT9MKTjYIQo6eOvOUwS1yE3z9dyuwYLIQ1IIYxcP9YhhQcrPCgNxIr99EcXb9x3/gYCyqdnAhuYCbjvgeffzEmDidUbO33Bnrtdo5MxGmtihVzRJuj1kDNgvNHbDkH+VUI8lBiQAm14lzReuERQ5HdCCytco7sY6sulAYGKOhDt5yYOCO4v8k087tYRN/ixLgzxTbg5IF3fGDtc/paObMpSwaUAVJBUprgLxwq3UAipFRiDVPDB7GNWU+nJefQTSR1gVlH7wF5Dt1rmajBvOCMwFGmpMNyQhmM/+EOWFLuba+GY6E5H+ZOahrSoq0=;qZn65dicENlOtJXozEw6QQ=="
+secured: "04Zbu3rRpmp+TTywWs/QiCgr/CXUidIHmEPwZCpMRpAjXa7l/nolYMk0UQJ9o1tYKRomS4+iy65kWEKQyYhhqlin+EOq4Sg1KQJLTnJF4LwGUcbJAof6Z11eFys5yPRYDMkQbbgfmLZkRWelVe4xa2vlX7xcbhnwzzPPeUHsXILnRwX9/vrhPlwk9wUxWbkoCBpJPO1xxhGjNep742w2yz1J665TjYVkEDDvKCH2phawXxHq1I08Wz4h5l4SgiX9KaE/YLKJkbr2Ag86LUW8p6fJZp78mz1Qh6Xx80V+Vny/2k3q/bgthsRcqQbdmdENiAznPLJ/H9EsnFOK+90L29pD50CNiv6Qobfu83V8ynRy824DIBFqgdsYzvVnE4Jo1ObiqaGcuQrAdwQMIALxGF+Rns7Lz1C3x34hWPKgxL+7GgaqOCNaGW/I43V3Qqzrtp+TyGyJHHmEGMIptukBtdP4666UaGuxQJgYMbXr87s1Znq/Czq/pbzvK1yECIWvgm3e5sZZzPcTNyx05AeMLA==;7qMkLViH5KulhqxaTG0d1A=="
 ---
 
