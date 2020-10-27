@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-27-the-very-human-labor-that-powers-artificial-intelligence.md",
+      "title": "The Very Human Labor That Powers Artificial Intelligence",
+      "excerpt": "Crowd-working platforms like Amazon’s Mechanical Turk obscure—and exploit—the human labor behind the digital age’s shiny successes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenation.com/article/society/amazon-mturk-artificial-intelligence/",
+      "originalUrl": "https://www.thenation.com/article/society/amazon-mturk-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenation.com/wp-content/uploads/2020/10/keyboard-dark-ss-img.jpg",
+          "width": 1440,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenation.com/article/society/amazon-mturk-artificial-intelligence/tnamp/",
+      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/society/amazon-mturk-artificial-intelligence/tnamp/",
+      "publishedDateTime": "2020-10-27T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation",
+        "domain": "thenation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-can-ai-fix-our-broken-debates.md",
       "title": "Can AI Fix Our Broken Debates?",
       "excerpt": "The second U.S. presidential debate of 2020 was more sedate than the first, with its whining, braying, and general frothing at the mouth. We all remember how the human moderator at the first rumble struggled to cut through to the actual issues that people care about,",
@@ -1299,58 +1343,7 @@
         "IBM AI",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2020-09-25-watson-aiops-is-now-updated-with-new-features.md",
-      "title": "Watson AIOps is now updated with new features",
-      "excerpt": "We have brought Netcool capabilities into Watson AIOps In July, we announced that we were bringing the superb event management, topology and predictive insights capabilities from OMNIbus/Netcool into Watson AIOps. I’m happy to announce that the Watson AIOps is now updated with these new capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/watson-aiops-is-now-updated-with-new-features/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/watson-aiops-is-now-updated-with-new-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/Watson-AIOps-image-for-9-25-blog_v2-1.jpg",
-          "width": 2010,
-          "height": 886,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-25T05:11:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 2
 }

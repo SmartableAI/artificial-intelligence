@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence as a Service"
+    excerpt: "The Artificial Intelligence as a Service market is expected to grow from USD 1.6 Billion in 2019 to USD 13 Billion by 2027, at a Compound Annual Growth Rate (CAGR) of 51% during the forecast period. A comprehensive analysis titled; Artificial Intelligence ..."
+    publishedDateTime: 2020-10-27T12:03:00Z
+    webUrl: "https://www.openpr.com/news/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
+    ampWebUrl: "https://www.openpr.com/amp/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta27780023_g.jpg"
+        width: 550
+        height: 312
+        isCached: true
   - title: "Services Infusing AI into Air, Land, Sea Robots"
     excerpt: "We believe that we have adversaries who are rapidly building up their forces … and are definitely applying AI to their operations,” said Nand Mulchandani, chief technology officer at the Pentagon’s Joint Artificial Intelligence Center."
     publishedDateTime: 2020-10-26T12:06:00Z

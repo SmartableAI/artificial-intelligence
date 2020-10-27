@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomou
 ampWebUrl: "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/"
 type: article
-quality: 89
-heat: 109
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&strip=all"
@@ -48,20 +49,20 @@ related:
         height: 395
         isCached: true
   - title: "Deci Raises $9.1M in Seed Funding to Build AI that Crafts Next Generation of AI"
-    excerpt: "TEL AVIV, Israel, Oct. 27, 2020 /PRNewswire/ -- Deci, the deep learning company dedicated to transforming the AI lifecycle, today announced it has raised $9.1 million in a seed round led by Israel-based VC firm Emerge and global VC fund Square Peg."
-    publishedDateTime: 2020-10-27T11:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
+    excerpt: "Deci's deep learning platform automatically gears up neural networks to become top-performing production-grade solutions on any hardware, including CPUs, GPUs, and special-purpose AI chips for edge and mobile. The platform is powered by Deci's patent ..."
+    publishedDateTime: 2020-10-27T11:08:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true
 
-secured: "RnC2D4Pc7FMcqG14JfZMMYMuQDw5NA6X/cznkeNXeJbPTkVfSboa0Jf9pWhdjFe4s9AZo6mPvJgKsx6UvgWxhpqC0uB2gC+5pvQ4TqH78s8tPAhiVQH5kAOA+TzO2w5xNNC+6xUBWbVPRS/Q8F0CdtutbjrdvlOuZ+SgPQ+4/v0IMrlxZxqTb2qP+eLyHq374wRsLO52cm3Z43S3ixJ5o6hwyCzg9aJpVeTYDI1TKsY5WQdu7l4+C5HiWiCtahL2U9ysmNyT7w3CDSmah/Rh07FMdRhGER3KIqOx6xKn1iw0vp4yN7kZGIZhz2wKHGpEoFa032oPsbKZ/A3PJPwQy17je/6F3alriRtGaP0c5iU=;kR7WBXwjIeo7EZYD1jVbFw=="
+secured: "eNqqzwCvdKPuPLgRJZ+8hz3bVEEtSHYDft4oxrt2y+FRhqr3Pjre9mUsSzjgM/D1MjBHBgKkxCJVy7BKIdNC2G3QxxEDkW7uRWEl/aHu1aYeH6OfWMYIcdZ3PtN54LGEoyhVQ+we8S3ZnZPa7dvYAIFHxVSF/AGk47GEYQ1+VxzefHBhD+U9uiOxxZwLOl+wTwT7/CC7PMKS8ClyFFIncxOkwY+taxyBKwQVst9wAlQswgJt/Lx5EQqVCHHzuQRkFoKTEe0VYsf1/jgGdJTPUgOORuO2IMeXrhYVoUG6PGR1KqATSpabzYehiAzMPvs/5AVSagX/7OCXtmXG7pMrdXHADeply7GHehgy8g9oe6+liu0WmeYVFlO4Ovthbplnn52VCXjAuqGgahmnQNfK33PRpKBwAvHqRTbUITST9HbGRElE0rw5pvBoVcFcRZIc2GPuIR1OQaB4MgFeuVzxtj0udJwyRL9pF2/k/DtM4KR7yyfrMn3knwW3qAWT5MzA53JLKsa5h0yWUbmn7R/J3g==;6AaBDRxqph49UxAc6qb7vw=="
 ---
 

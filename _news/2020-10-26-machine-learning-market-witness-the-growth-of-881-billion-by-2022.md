@@ -37,6 +37,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Natural Language Processing (NLP) in Healthcare Market to Witness Massive Growth | 3M,Linguamatics, Amazon AWS, Nuance Communications"
+    excerpt: "The ‘ Natural Language Processing (NLP) in Healthcare market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies ..."
+    publishedDateTime: 2020-10-27T12:27:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/27/natural-language-processing-nlp-in-healthcare-market-to-witness-massive-growth-3mlinguamatics-amazon-aws-nuance-communications/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 37
 
 secured: "s9Uiu124UvEFSyCuOQQ3bz42zzqGvO9x0loY+UD/zDSW3tL9bMsqj8Va6OZmcnognTBrgsvZOG39tw62bh3dluzIncNTPcJr/wWMYrtdy4W9XgZ/yPYUQ3qqESI1dPui+3DW1Ru5fNtn48io2q90EOTXPoKQ3+elVpW5wjpxCfUFhvVL/2Au0jpisDO5yul0DZKS6QsCt8/OpA8FMDmqWDaiAs/7MX64OK90vddhEdiHY5WsbcINPl7693Kh/T+n9lYOyu//PSKQ5/g3xSR+JJHwh7FX81pLO1j4BgYvHzWrJ2wW+udLPAojCNQsi1s80yWM0gRy6QC0SBdENEBkw4BjX5H+aeNoUi8ifQYB0No=;QKx9WxhGeuS4hMXz9zQS1Q=="
 ---

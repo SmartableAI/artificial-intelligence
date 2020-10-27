@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/police-are-using-facial-recogni
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "T-Factory Is a Store Without Staff Selling Smartphones Using Facial Recognition"
+    excerpt: "Instead, SKT is relying on facial recognition to know who is in the store. Customers register before visiting and can then self check-in on arrival using their face. Once inside, they can purchase ..."
+    publishedDateTime: 2020-10-27T13:51:00Z
+    webUrl: "https://in.pcmag.com/shopping/138854/t-factory-is-a-store-without-staff-selling-smartphones-using-facial-recognition"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 65
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/t/t-factory-/t-factory-is-a-store-without-staff-selling-smartphones-using_tqp5.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "CBSE introduces facial recognition systems for accessing digital documents"
     excerpt: "Using the state-of-the-art facial recognition system, the CBSE will enable students to download their digital academic documents of Class 10 and 12. This computer application matches human face from a digital image already stored in the database."
     publishedDateTime: 2020-10-23T04:17:00Z

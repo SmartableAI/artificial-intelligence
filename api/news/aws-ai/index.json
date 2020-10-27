@@ -166,22 +166,31 @@
       "title": "Ironside Achieves AWS Advanced Consulting Partner Status",
       "excerpt": "The journey to AWS Advanced Consulting Partner status pushed us to gain valuable understanding of AWS and services like Amazon QuickSight, Amazon SageMaker, Amazon Redshift, and more, which ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status",
+      "webUrl": "https://www.businesswire.com/news/home/20201022005343/en/Ironside-Achieves-AWS-Advanced-Consulting-Partner-Status",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005343/en/Ironside-Achieves-AWS-Advanced-Consulting-Partner-Status",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201022005343/en/832585/23/IG_AWSpartner_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18014673",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673",
-      "publishedDateTime": "2020-10-22T06:40:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T06:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -234,9 +243,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
@@ -699,8 +708,8 @@
       "title": "VXG announces platform to receive automated analysis at scale, effectively making any camera a smart camera",
       "excerpt": "For an example, one really has to look no further than Amazon Rekognition, which leverages Machine Learning (ML) to make it easy to identify things like objects, people, or text within videos and images. Outside of the technology industry, however ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
+      "webUrl": "https://www.sourcesecurity.com/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html?ref=nav",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -719,7 +728,7 @@
       "type": "article",
       "ampWebUrl": "https://www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
       "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
-      "publishedDateTime": "2020-10-15T02:37:00-07:00",
+      "publishedDateTime": "2020-10-15T02:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SourceSecurity",
@@ -1054,19 +1063,19 @@
     {
       "path": "_news/2020-10-13-xilinx-and-splineai-develop-x-ray-classification-deep-learning-model-and-reference-design-on-aws.md",
       "title": "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS",
-      "excerpt": "The solution’s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model ...",
+      "excerpt": "Xilinx introduced a medical X-ray classification deep-learning model and a reference design kit, in association with Spline.AI on AWS.",
       "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and-reference-design-on/article_75dad927-f650-50ba-8fec-bf432dd17330.html",
-      "originalUrl": "https://www.oaoa.com/news/business/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and-reference-design-on/article_75dad927-f650-50ba-8fec-bf432dd17330.html",
+      "webUrl": "https://www.businesswire.com/news/home/20201013005224/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201013005224/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
+          "url": "https://mms.businesswire.com/media/20201013005224/en/789319/23/xilinx-logo-full-color_%281%29.jpg",
+          "width": 1200,
+          "height": 627,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1076,11 +1085,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T07:03:00-07:00",
+      "publishedDateTime": "2020-10-13T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

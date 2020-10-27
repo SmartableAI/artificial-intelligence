@@ -1,27 +1,27 @@
 ---
 category: news
 title: "On The March: Ant Group, China's Fintech Sensation"
-excerpt: "Armed with the data of hundreds of millions of people, boundary-pushing AI and pockets soon to be stuffed with IPO cash, Ant says it intends to keep innovating and rolling into new markets. Domestically, Alipay is pushing facial recognition payments ..."
-publishedDateTime: 2020-10-27T11:46:00Z
-originalUrl: "https://www.barrons.com/news/on-the-march-ant-group-china-s-fintech-sensation-01603775404"
-webUrl: "https://www.barrons.com/news/on-the-march-ant-group-china-s-fintech-sensation-01603775404"
+excerpt: "With a name belying its giant ambitions, China's Ant Group on Tuesday launched a history-making $34 billion IPO in Hong Kong and Shanghai. Backed by Jack Ma, China's richest man who founded the Alibaba e-commerce empire from his bedroom two decades ago,"
+publishedDateTime: 2020-10-27T05:45:00Z
+originalUrl: "https://www.ibtimes.com/march-ant-group-chinas-fintech-sensation-3070506"
+webUrl: "https://www.ibtimes.com/march-ant-group-chinas-fintech-sensation-3070506"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP7773844587634413035400186115368675316226-politics-china-antgroup-science-ipo-files-technology-computers-ecommerce-jackma-1.jpg"
-    width: 768
-    height: 510
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/27/jack-ma-launched-ant-group-in-2004-with.jpg"
+    width: 1024
+    height: 680
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: leaprate.com
     quality: 4
 
-secured: "7TqyggCcKoMCFUGXyXQGJshJeZ/Qb6VY5RGOzvmJmN2W9XWahQRydyHVTQ2SKul+9/iIXo+gTbtKjbT04UjyZXwBSbS76X2PoE/qndCktuvkZjuf2d+iTZaIxUe+bzaWjgu3uz+sFSCPFgRFvjwi2wo4oIXHOANVbaRQtMVggtbfbG+pwPjoLNNJm7m347m/8Aq8BsXdNDEis4tWzGdmR255Rk5xbmz8XZSmv7cuSTUMOuaWukBpUP3X+y1CV9mihn8ASR3EF7Eqnlzm9xxW05rDkUMN4k8oEsHEMO6oq7rRBfKnitRsiZ2h4+8wIcY4eE8oWWPPGK1m7M5mJB3bBFmXMePcK1MjdYfhKeDCBxc=;5sFrBVEOT0qPGJRJcP4w2g=="
+secured: "3xb05HfrMFUV+w31CBWdtGZ/ufbF5aWGVkiW3X4fUtaOnRZo91ANQ7L4rOaE9Je/dpe2xoNfIcYDMQ/oFBA69USIamcunG60S5ACbh99mmTgVJ6zLcnti/FbO54UZKxhEW5Rik+WQRjaODfui4ven3+zI9AzXbSihIX9gPU7gDAEhqatpreFMJrude2JnBGzsV+Uc0uo+mDBh6ciTIrhhyjAdpRQH/lMIZ0ZNmcTXTcrNGV/HQMpbstmfbJOgqyu4HPFDtB6PpldKMgq2Yf+jLWoOadaqAqpgOzksr94XTk+c80RVzzzDlCxy3V9tuewxdXrW0acc4hb8cjEUpSjlgUBOpEkjFN92558AV7y+rU=;P/gwM13C7R23hiS3AwyJ/g=="
 ---
 

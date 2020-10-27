@@ -3,8 +3,10 @@ category: news
 title: "Is Artificial Intelligence Closer to Common Sense?"
 excerpt: "Intelligent agents lack the common-sense knowledge they need to reason about the world. Traditionally, there have been two unsuccessful approaches to getting computers to reason about the world—symbolic logic and deep learning."
 publishedDateTime: 2020-10-19T12:29:00Z
-originalUrl: "https://www.infoq.com/articles/AI-Closer-Common-Sense/?topicPageSponsorship=1179&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
-webUrl: "https://www.infoq.com/articles/AI-Closer-Common-Sense/?topicPageSponsorship=1179&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+originalUrl: "https://www.infoq.com/articles/AI-Closer-Common-Sense/"
+webUrl: "https://www.infoq.com/articles/AI-Closer-Common-Sense/"
+ampWebUrl: "https://www.infoq.com/articles/AI-Closer-Common-Sense/"
+cdnAmpWebUrl: "https://www-infoq-com.cdn.ampproject.org/c/s/www.infoq.com/articles/AI-Closer-Common-Sense/"
 type: article
 
 provider:
@@ -12,7 +14,7 @@ provider:
   domain: infoq.com
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
 images:
@@ -21,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "/UxTDiIpmIcOgIJX47vBJBe8XMXNt8/kjyeVHyLHXNdGKEUnrdRsDD6PPqKFPH4To6CAjRALcMfeMhm8ceyJbSFNzTzc1PBRC/WXoZq86UyoNeTPmNOKTwn9AK06gA5i7KCM5plXvatQ/KQv9inFRIflh/buWqOLllJ6ftKCw4EnlfwvEILv/gdnClkLcyd4MF4g84S8XKPdddEemAgIyCpGg/8ulPpf4DGOszyWaGHg2Z0VCvjZ2RFhwcBidFvB7f9HDw3SByWB++HLy4pqI3SUWkyZkVnGHoUF/+ReTQqeQDbCHt2sdQjMVvyEDw+2h6ZrUHnqfwIyOAP2mBj0sU71qnZK7MBM8pdIjzbL+rWf0GAs8sSGffA2L0Ka0a4sZfeVPFlO61jK8sJRGKJgJtWmj+SP3dJnMlh+PUPLb81rj/QH6BHqxeqh63ENKceG4n7oElyc70tlFs8AJiemVqYLFeVy3OhharMch+5p6J5kGPH6M3MnPCXb9DTSquJyWya+OW4opiDqBBccV/KTHA==;EsqSXeQCqydOWitLyl98Fg=="
+secured: "6ga5P5MMcVd9fhthJ3UTbmJWiigb1jUYPJbtf+DqDS8jmsYMbrdtj5PEjrcFZuT4CbRYnysc1XG+QL+WnV3SiydaIftLHYn16iKq2BPPF5VgdtE7jir7z85MOX0egmxXEddU1T+7q0ooFamAdCR6cUYmJg7F1E+mHx+fQFpNF+y4vAgffLZjC1lp4QgONoywBCIloH9xt/ZvsdRGZ4rZXn0Bqa188b4AaeRHdSdVbl//T4f5yozfPjx08D55OVxMIt2Gg/u6gdjWSKbqI9+0I4bv5G7JkyuSVtugHTwUEncFan3D4n1LFxdyqXvJPBuBSDeNJ2TiCsU5wQUvfP3HRvZZpY9nk9G1QyOepTlopco=;lPJRk6TWlrGvDPGmBfTY8Q=="
 ---
 

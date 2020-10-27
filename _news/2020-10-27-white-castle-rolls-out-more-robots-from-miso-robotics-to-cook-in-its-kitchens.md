@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens/amp/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "White Castle expands partnership with Miso Robotics’ Flippy the fry cook robot"
+    excerpt: "White Castle will be implementing the newly revamped commercial version of the Miso Robotics creation — Flippy Robot ... powered drive-thru system with license plate recognition “Artificial intelligence and automation have been an area White Castle ..."
+    publishedDateTime: 2020-10-27T13:39:00Z
+    webUrl: "https://www.nrn.com/news/white-castle-expands-partnership-miso-robotics-flippy-fry-cook-robot"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 50
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/03%20Flippy%20wearing%20White%20Castle%20sleeve_1.jpeg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Flippy the kitchen robot going to more White Castles"
     excerpt: "White Castle plans to bring Flippy the kitchen robot to up to 10 more of its locations. The iconic fast-food hamburger chain — considered the country's first — said it will expand its work with Pasadena,"
     publishedDateTime: 2020-10-27T07:00:00Z

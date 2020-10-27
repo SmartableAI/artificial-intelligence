@@ -25,44 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
-    excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
-    publishedDateTime: 2020-10-22T19:16:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+  - title: "Panasonic Expands Cloud Capabilities for Public Safety Professionals with Microsoft Azure Government Cloud"
+    excerpt: "Virtual Training Event and Expo, Panasonic announced they are working with Microsoft to add security, compliance, infrastructure, and storage to enhance Panasonic’s video redaction automation capabilities for public safety professionals."
+    publishedDateTime: 2020-10-23T14:43:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/panasonic-expands-cloud-capabilities-for-public-safety-professionals-with-microsoft-azure-government-cloud/article_770d18bd-f2cb-566e-94c9-7edd1977219d.html"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 104
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 36
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "C3.ai teams with Microsoft, Adobe on joint enterprise CRM platform"
-    excerpt: "The joint offering is a combination of the Adobe Experience Cloud, the C3 AI Suite and Microsoft Dynamics 365."
-    publishedDateTime: 2020-10-26T17:40:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-  - title: "Microsoft (MSFT) And Honeywell (HON) Partner On AI-Driven Autonomous Controls"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and Honeywell International Inc. (NYSE: HON) have formed a new collaboration. These are the details."
-    publishedDateTime: 2020-10-23T18:26:00Z
-    webUrl: "https://pulse2.com/microsoft-msft-and-honeywell-hon-partner/"
-    ampWebUrl: "https://pulse2.com/microsoft-msft-and-honeywell-hon-partner/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-msft-and-honeywell-hon-partner/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 51
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
     publishedDateTime: 2020-10-26T21:22:00Z
@@ -77,15 +53,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
-    excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure. This SaaS-based, scalable offering"
-    publishedDateTime: 2020-10-26T04:11:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable/article_a85c3d82-fdb3-51fc-8c2d-ac3875a44bfa.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "N6k3iJybMFR5KDHj/8KyFmd3mNKBcjZRqwV7r5kQ718FCISlgdSrv1EtzPhAVqDedmMVBKyHJS9ZgtlRmZs02ffGW95hVJZGaUCg8CaaNvOmLlFXAGgHiYcoL7kGLwxG9AW3VrZ9RQtc+s2B38Z2Kuy537iEB7ORRDaZlQjhBFtKu1+y5dcFTwgCLAEepwGIyMp78T+MLCkOlbBrOrBzVr6wlseLty1a4mJAL7Vvpjsm0ecnudoNt/0Z1fL7oWHqIuP0pSqcLxKnEU2pj67Vwd9ac9UhmECPOTA5bAvuYk4NSBVI6IjJOD3SUVBd0fk+SuKf6/yTndpzbDsHCtEqxI9kTfTf++ov4RHKb+2ZvZY=;GfzZBMOnXmcbq4a8nxBz6A=="
 ---

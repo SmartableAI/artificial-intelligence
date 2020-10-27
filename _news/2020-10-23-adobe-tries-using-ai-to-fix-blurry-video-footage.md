@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/adobe-sharp-shot-213047501.html"
 webUrl: "https://www.engadget.com/adobe-sharp-shot-213047501.html"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/AI-in-Construction.jpg"
         width: 1000
         height: 627
-        isCached: true
-  - title: "Using AI to boost safety for older adults"
-    excerpt: "Assisted Living facility incorporates predictive analysis to mitigate risks for falls and other health conditions, including COVID-19. Enter your user name and password in the fields above to gain ..."
-    publishedDateTime: 2020-10-22T20:10:00Z
-    webUrl: "https://libn.com/2020/10/22/using-ai-to-boost-safety-for-older-adults/"
-    type: article
-    provider:
-      name: Long Island Business News
-      domain: libn.com
-    quality: 37
-    images:
-      - url: "https://libn.com/files/2020/10/The-Bristal-at-Lake-Success-1024x819.jpg"
-        width: 1024
-        height: 819
         isCached: true
 
 secured: "VYOngpQCMrF6wxQUwP/XOgey43SneAUdxGqBdOJcN5otobtoCbfYzZBK2PllowqhHJwjQpcR//L0ashvLH0jY9PjZLybRJrie7yVs/5XjNVjqh/EWFg+JP5H/PAhwUZtO1nZtvN5m+5bbEXyqubdE7aRrGZx4ZylfZ9wdM3yx/bos2c27YblRRkZQZgyHeAQxVfEiJ43cZ2QvcVjNs+LtEcwb4yyHsT4fcN8dTIc2PVE72mYpJYqjQeh9QHh1wbXz5kbmC/FLo3q5VcSHran973BLEPa0GMyONVTA91hECibvEDMD0wTLmZxr6g1Hh4ljYHgw7pbpxOUMtNHH76SbKj2MsRhjkJt0LL3QHHA2fWxo5TVtxxSX9oPGIaoPlzsUdP+B2WsLGFCeXmO1iETFWCACwwZIdjFeoI674LVVwypgyEZmgYhdGfvU47BW5mSTQPy30N6uwHo44QWCQg2n9c5scMsa8gY+97Jkyzh4ImxhU7hVn2FxMGUDtNsPiv0+7Y7faHPB4AC45rf97mn8Q==;LL5lPVtFTybjYlljUvBzNA=="

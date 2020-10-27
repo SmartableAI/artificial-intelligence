@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2169596/cloud-natural-language-processing
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2169596/cloud-natural-language-processing-market-to-witness"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: openpr.com
@@ -38,6 +38,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
+  - title: "Natural Language Processing (NLP) in Healthcare Market to Witness Massive Growth | 3M,Linguamatics, Amazon AWS, Nuance Communications"
+    excerpt: "The ‘ Natural Language Processing (NLP) in Healthcare market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies ..."
+    publishedDateTime: 2020-10-27T12:27:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/27/natural-language-processing-nlp-in-healthcare-market-to-witness-massive-growth-3mlinguamatics-amazon-aws-nuance-communications/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 37
 
 secured: "1okMjnNKTnDntnNv6lOV7iRrD6Jeh2CPimlm7LLhg0ofyVfSyKm6GaCgYQ23PVl0hYGCgSECCNseoXzB936DK9AT3m66VOhL8NXsmhveU2/7FrnPfw1SH8vkxRWsPz3dXLSd2KXqUziCSczHE0fxiyXnkv663WHqlJzILLstwMa2EsmPwOfwR0yNirH5vwVvwSl2UGdVElx4XnmvJv1Pg9xy5b4lwBShuY/7U3Njr5dGJzURYnst/VVf7Qah4TlsnF5YLwrrLN+0JpNRFyGcxWtT4tpAcSkb461Nn7pplbcnhxcgxc2l9GWegDI77zHM4QrMvdVHmgr6Bf3REFcewJ41A/s9iCNE7qwuHuw73ds=;Ci+ikYBF5HEdm6bwUNlzpg=="
 ---

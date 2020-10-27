@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/jumio-rolls-out-new-video-ba
 webUrl: "https://ibsintelligence.com/ibsi-news/jumio-rolls-out-new-video-based-kyc-deployed-by-uk-fintech-ebury/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 300
     height: 300
     isCached: true
-
-related:
-  - title: "U.S.-Based Fintech Provider Quavo Announces Fraud & Dispute AI for Financial Institutions"
-    excerpt: "Quavo Inc., a U.S.-based fintech provider, announced on Thursday it has launched a fraud and dispute artificial intelligence (AI), called Auto Reasonable Investigation Agent (ARIA). The company claims"
-    publishedDateTime: 2020-10-22T19:15:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 50
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/01/Stop-Fraud-600-600x558.png"
-        width: 600
-        height: 558
-        isCached: true
 
 secured: "xGVgTGXAhTmdNKANJ9PyGg+KEqF9j8TQFpOvmBIKfMcGglaek212ohuP8aXlh0BHNTUWmAH99khS46fdNHwGfAiHrPIk+E3Hkd5TKcw+fZv+ySPNUNJsO9g/AYQntqmWE26mFRKOxDm1kUbAlhjwA4CanDGjYqNIvkIrhnOH9QmuiYZG5Zrxh5/FXgY5Ic/6RQuYzw11Huj1wm2sLc2BgMM7ICo9Xhi1WC8RG4dRXVSUJCe6q3ReSzR00DEY6tN+fm1EuFr92woAuzEkZUnFsFBb1pix/FVB1WqdZY1u/9Xx7ZAIWkAio4YJanK/Hgges6r/p5mWrpodBdppXc6o1HsGKbxhE+NoMLf79uTOELU=;O3KrgnCfPZEI7SpdGzy/Gg=="
 ---

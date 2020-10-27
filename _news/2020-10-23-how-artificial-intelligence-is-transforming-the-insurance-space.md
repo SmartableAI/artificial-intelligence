@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "How Artificial Intelligence is Transforming Architecture Industry"
+    excerpt: "Artificial intelligence is transforming the architecture industry by analyzing huge amounts of data, saving time and efforts of architects"
+    publishedDateTime: 2020-10-27T06:40:00Z
+    webUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-is-transforming-architecture-industry/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-2.png"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "MA3IYSzU9kjqUCKxk7YkkyXNkZuxzQd6lfZWWWIOOykWk+20upy4DMuugGTLoVaRThuJplckIx7koNJjXD4M8Ruai3q7ZmKA2mqcS/OMZ+u7oOA1CVA9SyzxVtAFT0/wOI5gwKSyVGIPzicgREg8nMNfNLJniqhjd2ivrcq7ymd+sup9WdCwrA5nVeex7zLjhfOkl0l8jctQgJ8u9iuCC8klZH/pInX4lGZOc6TClYPCMeEyVL8pgKykccriqvSPNjEpFL4l0WUROxU3hyHWggQdy1wKF+T2zCldU+e0/JO05YrtgIqREyTO3NbG9ebgtcGEWiDSfgUpEgv0nfk4P2QNeIvnfjLckGs3hjF+jcE=;LkcCNMO5rK9nlorovvCyog=="
 ---

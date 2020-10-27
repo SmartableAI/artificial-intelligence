@@ -75,38 +75,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "The Next Battle In the EV War Is Self-Driving Cars"
-    excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
-    publishedDateTime: 2020-10-24T15:03:00Z
-    webUrl: "https://www.barrons.com/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
-    ampWebUrl: "https://www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-248921/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Self-Driving Cars Are the Next Battle In the EV Wars"
-    excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
-    publishedDateTime: 2020-10-25T12:54:00Z
-    webUrl: "https://www.barrons.com/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
-    ampWebUrl: "https://www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-248921/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
     excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
     publishedDateTime: 2020-10-24T17:22:00Z

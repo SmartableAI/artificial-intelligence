@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-27-deci-raises-91-million-to-autonomously-optimize-ai-algorithms.md",
+      "title": "Deci raises $9.1 million to autonomously optimize AI algorithms",
+      "excerpt": "which redesigns AI algorithms to run more efficiently on off-the-shelf processors by leveraging the chips’ available memory. Yet another rival, DarwinAI, uses what it calls generative synthesis ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/",
+      "originalUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/",
+      "publishedDateTime": "2020-10-27T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-microsoft-releases-preview-of-lobe-training-app-for-machine-learning.md",
       "title": "Microsoft releases preview of Lobe training app for machine-learning",
       "excerpt": "A public preview of Microsoft's Lobe app is available for Windows and Mac users, and enables them to traing and store machine-learning models locally on their machines.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -63,7 +116,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1412,58 +1465,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers.md",
-      "title": "These free JavaScript for beginners videos from Microsoft are aimed at new developers",
-      "excerpt": "Microsoft's Introduction to JavaScript video series will equip users with the basic skills to start building apps with the popular programming language.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers/",
-      "originalUrl": "https://www.techrepublic.com/article/these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2017/07/21/8a7b06f0-9855-4d12-ab51-5cbd69ba4a28/resize/1200x/61239e117f2d7077a0b5246711e8484b/programmer.jpg",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers/",
-      "publishedDateTime": "2020-10-08T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

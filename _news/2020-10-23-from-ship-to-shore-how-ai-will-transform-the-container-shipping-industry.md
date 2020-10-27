@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
         width: 3608
         height: 2336
+        isCached: true
+  - title: "How Artificial Intelligence is Transforming Architecture Industry"
+    excerpt: "Artificial intelligence is transforming the architecture industry by analyzing huge amounts of data, saving time and efforts of architects"
+    publishedDateTime: 2020-10-27T06:40:00Z
+    webUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-is-transforming-architecture-industry/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-2.png"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "aLjx0ZwytkZ39II+TwhJmtSoYPsD1VGazb0tYw/SssB5Qh3pP/um2DUw6MzP21bCNM8o914VGmM0WQCzR7diJ6InkNDiAd1uQhqJfs5En3ICWfQot8RCWBZl1mEBAmqw1s4ZwPzLmqDR5n19DwEq6eivCN/rYS0At/PtnPSrgjcF7J/4h9L5M9i60tmNFsLmD/M1i7mv3hHl90y+xF83Cc18AevE57qmLmaYdU8lMhZYWRxcJ0vEX6vxPX0iFgHjNAlm3VndywS1juzb0qs51Gruckp2Q2SnUf4KifPpg/bz08i7J7a8nqCDkP3uGYkO+tvdWd/6RKljVxJOTALshEdAj68agEWo1OrmH85mHpWGaXUTq2eAKWWuj4cU8ZQ2F+ekvGcHwRnP9PjyCkcXKqz8eLD7ytPgmjxo0ggyg672SnNBvMtpZh6ucOGY2m2R4o+KTXL8Q7jFXZwlF111jdv0VYfQRf491p1hogV8DByGLEQFdivfhb93jkZ+iPsYyPQJYLvypGQNxPq8FrSk4Q==;nQaqjB9mWEw2zhD2qeCOHA=="

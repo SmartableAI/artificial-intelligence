@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-b
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "New experimental AI platform matches tumor to best drug combo"
+  - title: "Researchers create AI system that matches tumors to best drug combinations"
     excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA)."
-    publishedDateTime: 2020-10-22T20:24:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-experimental-ai-platform-tumor-drug.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-experimental-ai-platform-tumor-drug.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-experimental-ai-platform-tumor-drug.amp"
+    publishedDateTime: 2020-10-23T06:17:00Z
+    webUrl: "https://www.news-medical.net/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: News Medical
+      domain: news-medical.net
     quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/drugcellnewe.jpg"
+      - url: "https://www.news-medical.net/image.axd?picture=2015%2f3%2fTumor_3b927f3db0dd47538f7791b7e005ae6a-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
+    excerpt: "SUNNYVALE, Calif., Oct. 27, 2020 /PRNewswire/ -- Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
+    publishedDateTime: 2020-10-27T12:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-301160206.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
-        height: 505
+        height: 315
         isCached: true
   - title: "DrugCell: New experimental AI platform matches tumor to best drug combo"
     excerpt: "Researchers use experimental artificial intelligence system called DrugCell to predict ... and combinations of drugs to best treat the malignancy. Precision cancer therapy is already available at Moores Cancer Center at UC San Diego Health, where patients ..."

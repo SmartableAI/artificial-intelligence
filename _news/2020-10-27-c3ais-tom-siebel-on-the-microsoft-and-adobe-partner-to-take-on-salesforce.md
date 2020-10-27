@@ -45,6 +45,17 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "C3.ai teams with Microsoft, Adobe on joint enterprise CRM platform"
+    excerpt: "The joint offering is a combination of the Adobe Experience Cloud, the C3 AI Suite and Microsoft Dynamics 365."
+    publishedDateTime: 2020-10-26T17:40:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
   - title: "Microsoft partners with Adobe and c3.ai to launch Salesforce rival"
     excerpt: "powered by Azure. Microsoft hopes that when combined with Adobe’s speciality in the digital customer experience, and the AI capabilities of c3.ai, the combined system will offer customers a powerful alternative to the biggest players."
     publishedDateTime: 2020-10-27T11:21:00Z

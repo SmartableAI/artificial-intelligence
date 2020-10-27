@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence as a Service"
+    excerpt: "The Artificial Intelligence as a Service market is expected to grow from USD 1.6 Billion in 2019 to USD 13 Billion by 2027, at a Compound Annual Growth Rate (CAGR) of 51% during the forecast period. A comprehensive analysis titled; Artificial Intelligence ..."
+    publishedDateTime: 2020-10-27T12:03:00Z
+    webUrl: "https://www.openpr.com/news/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
+    ampWebUrl: "https://www.openpr.com/amp/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta27780023_g.jpg"
+        width: 550
+        height: 312
+        isCached: true
   - title: "Organizations need to understand risks and ethics related to AI"
     excerpt: "Despite highly publicized risks of data-sharing and AI, leadership at many orgs are underestimating the ethics of the technologies they use."
     publishedDateTime: 2020-10-26T05:04:00Z

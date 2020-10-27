@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Deci Raises $9.1M in Seed Funding to Build AI that Crafts Next Generation of AI"
-excerpt: "TEL AVIV, Israel, Oct. 27, 2020 /PRNewswire/ -- Deci, the deep learning company dedicated to transforming the AI lifecycle, today announced it has raised $9.1 million in a seed round led by Israel-based VC firm Emerge and global VC fund Square Peg."
-publishedDateTime: 2020-10-27T11:04:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
-webUrl: "https://www.prnewswire.com/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
+excerpt: "Deci's deep learning platform automatically gears up neural networks to become top-performing production-grade solutions on any hardware, including CPUs, GPUs, and special-purpose AI chips for edge and mobile. The platform is powered by Deci's patent ..."
+publishedDateTime: 2020-10-27T11:08:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: prnewswire.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -34,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&strip=all"
         width: 1200
@@ -57,6 +58,6 @@ related:
         height: 395
         isCached: true
 
-secured: "/VP7JjHXKkIcVgLSExVqeD99fTiVYOIsj7YYNyqD83wooGBgfJ2kt9KTgBgiFSkAiw/vW2Y1AIj5Y4bwEK0tfi8IxBKYawGGNUVEADoJMjNRkVOjALk0vaAAxDjGHbgMLXceFkzCmn8uWrKMmH+VLkGTCdkURYbvJL6HcZov5w7cmQ7IW0Yuj0HFoxTdxFfh93nrD8MIAjMfCW3ke7Cj5WtQ5J+EqXUIlSMnG/IFFvCm99N826VV6Dfjh+dyiLbK0HfI2gzenT+EofRQW+H0VJHuLh18aYtnhMOktjMVfdDaLykmMt8LA77jGWl375Q5ehSakUarrrAPdL5vekrzHxQsNGMgQic2GyCJMxH6Spw=;6pqjcbWWq0Lu9Qoa6mUSgw=="
+secured: "gnc0oqNbh5FIgF+thRZFJ/ETceLfJ4LWvR8GW/kM0279Tw0imgrdXoZsGIRhrIkydwksr/ydtfpo1fGTFRLD39btBy0U7uHor8vY7TNdI5H2IFJ3KDFhLT09PXyLmcEooMUI3+HaF9nBLmMF8+qW3BvLX7qfBbrDHDJ1WYHgEUYZZk9s20EKw5lKsrdxHHMg0OKdrJqUpzAFRpwRN7RUgNrD5RSzfvglxzSJ+zyIP0BWtmcVCU3HdQZKNpIJ3I1B5CyI3hHjFCZE8/IWkXtZYUvpgksRL1yEZFQ9WyeeYeCAzqmzBvBDfPIpBMZnyo5VwD4yoctkt+w0mveT48RjRwU47UGIN6kiyavmIot53Zc=;mJn5Jdm9q3OuEtZYrs2lFw=="
 ---
 

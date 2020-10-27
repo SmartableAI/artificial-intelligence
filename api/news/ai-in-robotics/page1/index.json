@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-27-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
+      "title": "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs",
+      "excerpt": "Without endorsing Singer’s line of reasoning, we might wonder if it can be extended further to an android robot like ... consciousness and intelligence. As real artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
+      "originalUrl": "https://theconversation.com/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/365306/original/file-20201023-13-z1yhk3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=241&fit=crop",
+          "width": 320,
+          "height": 241,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
+      "publishedDateTime": "2020-10-27T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens.md",
       "title": "White Castle rolls out more robots from Miso Robotics to cook in its kitchens",
       "excerpt": "More robots are coming to White Castle ... turned to Miso Robotics’ fry cook in a box to find a solution. “Artificial intelligence and automation have been an area White Castle has wanted ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1304,49 +1347,6 @@
       "provider": {
         "name": "Mint",
         "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-built-for-the-fourth-industrial-revolution-cascadia-capital-launches-leading-edge-investment-banking-practice-dedicated-to-the-robotics-automation.md",
-      "title": "Built for the Fourth Industrial Revolution: Cascadia Capital Launches Leading-Edge Investment Banking Practice Dedicated to the Robotics, Automation, and Artificial ...",
-      "excerpt": "Cascadia Capital (“Cascadia”) is tackling the Fourth Industrial Revolution head-on­—leveraging existing internal expertise to launch one of the nation",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201015005266/en/Built-for-the-Fourth-Industrial-Revolution-Cascadia-Capital-Launches-Leading-Edge-Investment-Banking-Practice-Dedicated-to-the-Robotics-Automation-and-Artificial-Intelligence-Sectors",
-      "originalUrl": "https://www.businesswire.com/news/home/20201015005266/en/Built-for-the-Fourth-Industrial-Revolution-Cascadia-Capital-Launches-Leading-Edge-Investment-Banking-Practice-Dedicated-to-the-Robotics-Automation-and-Artificial-Intelligence-Sectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201015005266/en/830406/23/CAscadiaLLClogo_Blue.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -96,7 +96,7 @@
       "originalUrl": "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -403,6 +403,49 @@
         "AI in Healthcare",
         "IBM AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-the-2nd-china-hangzhou-international-smart-products-expo-and-2020-global-artificial-intelligence-conference-opened-at-hangzhou.md",
+      "title": "The 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference opened at Hangzhou",
+      "excerpt": "HANGZHOU, CHINA / ACCESSWIRE / October 15, 2020 / On October 16, the 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference open",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-2nd-china-hangzhou-international-smart-products-expo-and-2020-global-artificial-intelligence-conference-opened-at-hangzhou-1029686881",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-2nd-china-hangzhou-international-smart-products-expo-and-2020-global-artificial-intelligence-conference-opened-at-hangzhou-1029686881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1340,58 +1383,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development.md",
-      "title": "Healthcare Leaders Pioneer A New Collaboration Model To Transform The Future Of Drug Development",
-      "excerpt": "The reinvention of drug development through partnership was the the theme of this breakthrough discussion of leaders. Through collaboration and use of AI in drug development new barriers can be broken",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/",
-      "originalUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c684c02408a41404d0e10%2F0x0.jpg",
-          "width": 1097,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/amp/",
-      "publishedDateTime": "2020-10-06T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

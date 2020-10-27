@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS"
-excerpt: "The solution’s artificial intelligence (AI) model is trained using Amazon SageMaker and is deployed from cloud to edge using AWS IoT Greengrass, enabling remote machine learning (ML) model ..."
-publishedDateTime: 2020-10-13T14:03:00Z
-originalUrl: "https://www.oaoa.com/news/business/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and-reference-design-on/article_75dad927-f650-50ba-8fec-bf432dd17330.html"
-webUrl: "https://www.oaoa.com/news/business/xilinx-and-spline-ai-develop-x-ray-classification-deep-learning-model-and-reference-design-on/article_75dad927-f650-50ba-8fec-bf432dd17330.html"
+excerpt: "Xilinx introduced a medical X-ray classification deep-learning model and a reference design kit, in association with Spline.AI on AWS."
+publishedDateTime: 2020-10-13T14:02:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201013005224/en/"
+webUrl: "https://www.businesswire.com/news/home/20201013005224/en/"
 type: article
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://mms.businesswire.com/media/20201013005224/en/789319/23/xilinx-logo-full-color_%281%29.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "khgrR9rLKYbMb5eaWZoqicH3iI3nM4DN7WVw06QjqrOMk/j0MiHTE49z/S5w+8woJFV5TCwl3Gc6968akPIr6I+GbO5L8+N6OianPuYLs2d4RnYK6yVnpRoz/9X4KbVUbOp+zxe9vWo2o7pr0npUOfIFmetw5L0RH4hRhxSMch7L/kD7jXrrK5x8B/nZWEFijcYHvBsGvpxMKJAMm9y0IZOgxhrhEgpCvasPiT00/SRI2Bh9ZZVROn9BSAa8VFK/c/2k46LjTqR7UUAFiV+FyefdtkmztaoCmNKLr9Tn3ANVmX9IjWm/VHaid52QMS82WmNWhPtemJkcULnOk3l2hmU0CNqobFH9Q83RL3iQYAw=;sYPhd8zx1h47omf6Ukel/Q=="
+secured: "5Pgvuxqr7zirWl9DMS1ljzgpuLIlz/Xh3/0WAyL8rcbakD783PveDSUPKIcGy4lJ5Bmm+fHAK7MbdJNIKl0SbIB1hgaku4O4g3MJTLVnRFMffp23f0qmnR247YxzRkxARrjqi1wngn1Cv55bWm0ywsTaIVJn55b4DdrD3wCfUtmKxVmRhN7JaMdumttPNLOZ5dd0NDTAWKymoSSalnxs6Ji9Jyrv22KdzkQ/E/RaBVIrve49d4i9xK/u8FB8vUGMDSIO7dy/4nFxjVAsxU13jSvXg6Z5BaecKgPmVxUKGGiYY4nuJ0+M8PHajKuA0nL1dqpvphCZg/b2o5pYqCtsmeyyYrS72DK1D59/Mr+u0Rk=;JBznDPjJUn/2hqVzy5/Xqg=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.thenation.com/article/society/amazon-mturk-artificial-intel
 ampWebUrl: "https://www.thenation.com/article/society/amazon-mturk-artificial-intelligence/tnamp/"
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/society/amazon-mturk-artificial-intelligence/tnamp/"
 type: article
-quality: 59
-heat: 79
+quality: 61
+heat: 81
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.thenation.com/wp-content/uploads/2020/10/keyboard-dark-ss-img.jpg"

@@ -1,29 +1,49 @@
 ---
 category: news
 title: "Computer vision helps find binding sites in drug targets"
-excerpt: "Scientists from the iMolecule group at Skoltech developed BiteNet, a machine learning (ML) algorithm that helps find drug binding sites, i.e. potential drug targets, in proteins. BiteNet can analyze 1,"
-publishedDateTime: 2020-10-27T10:17:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/sios-cvh102620.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/sios-cvh102620.php"
+excerpt: "Scientists from the iMolecule group at Skoltech Center for Computational and Data-Intensive Science and Engineering (CDISE) developed BiteNet, a machine learning (ML) algorithm that helps find drug binding sites,"
+publishedDateTime: 2020-10-27T12:03:00Z
+originalUrl: "https://phys.org/news/2020-10-vision-sites-drug.html"
+webUrl: "https://phys.org/news/2020-10-vision-sites-drug.html"
+ampWebUrl: "https://phys.org/news/2020-10-vision-sites-drug.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-vision-sites-drug.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/medicalapp.jpg"
+    width: 1920
+    height: 1524
     isCached: true
 
-secured: "uTy8KwXrPtuWIsPCkupXYg7qNudT7lToSL/Me8y/NZOPwrC39z5mqpVPhNigqyU0omt6gf11R24k/9z1CfZe9hW+KedcbAEJPTCZjG3e6YLpor36c63XPp6nvqHpJ0j24Lv6X2oQ49wDXF4+FD3IawoY5IgW833I/3az6hjx19dIfych3nAlwmZbIPVM12nalviTiC3uuy4mVgAADKsW5pSQSASZTlr70b7k8ptVtkDskHqsLb53dJ+QcLj5zvot5ltt88mM92390BlQbn8qAaF5sjF3lRmL8Quw3rGHzCrtu39boSeTS64n6jy1f/PGT1lPdAFM6AsrqVIbmHvtfoKwd877l/IPfFz/ympZCPM=;X7UqeSAF3kURtu8G7WdgFQ=="
+related:
+  - title: "Novel machine learning algorithm helps find drug binding sites"
+    excerpt: "Scientists from the iMolecule group at Skoltech Center for Computational and Data-Intensive Science and Engineering (CDISE) developed BiteNet, a machine learning (ML) algorithm that helps find drug binding sites, i.e. potential drug targets, in proteins."
+    publishedDateTime: 2020-10-27T12:32:00Z
+    webUrl: "https://www.news-medical.net/news/20201027/Novel-machine-learning-algorithm-helps-find-drug-binding-sites.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201027/Novel-machine-learning-algorithm-helps-find-drug-binding-sites.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201027/Novel-machine-learning-algorithm-helps-find-drug-binding-sites.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fProtein-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "yazQvFpl5/HWg02fo1DXIh7TFlYYoX66drQm4oS1iNv+Ni2E6NV8BD5gXSh0/88ezdTO952np9k7VtGIVM3QBeDMyA2l7PJx2SYUWKRwHjSwYPgyaMgT7bhd6cKN0kw0HI962sbbrfakWeTXf0t/8HraoyqVPUt2Eq5fqkDbTv0jcR81bBqjVU87wNjMjrTKqhdgSDPu2VX5vFhPO/7DCMtFKx+B0Stfn1YgBmPRuR7cwZxeWP/5aE6PjO2zCuv7GeUCvpK96xzWd2tOvvSKEiPFzwPQ+k7xB5h+ZlVL4hR/393ppTRoI9RCTCD7LxqP8+WJrk6lx6VVcsB5qmfyONLT2wvd0dcWSDI5Iii+ygE=;ilKBCnZU32vdvPsU4ZYENA=="
 ---
 

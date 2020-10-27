@@ -40,27 +40,27 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
   - title: "Deci Raises $9.1M in Seed Funding to Build AI that Crafts Next Generation of AI"
-    excerpt: "TEL AVIV, Israel, Oct. 27, 2020 /PRNewswire/ -- Deci, the deep learning company dedicated to transforming the AI lifecycle, today announced it has raised $9.1 million in a seed round led by Israel-based VC firm Emerge and global VC fund Square Peg."
-    publishedDateTime: 2020-10-27T11:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
+    excerpt: "Deci's deep learning platform automatically gears up neural networks to become top-performing production-grade solutions on any hardware, including CPUs, GPUs, and special-purpose AI chips for edge and mobile. The platform is powered by Deci's patent ..."
+    publishedDateTime: 2020-10-27T11:08:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true
 
-secured: "SjfJVMiD7q2UmVggGtKhenwqsJfRxaMPGdCRjhioPHc9G2pHjdKX7O6VrPLwdKqMx3usMgUTR6eFCG7OpBZEQZZt1ZRI4snGiHCj6KJlrZqadYEO3LunfLmE8yLWAY0ZrMLXPoNVykb9ZGwQlGU0c/oXbOHPI5AlQP6e0PKWVmW29Cohn9jbFHAIvs1Jv+dmtQrB/eE1JTc3qr4rIUL+a3dzlWdoRCVrf0mmpMVff7m8GYy+LrUgwa0a6zSC12547E+iZGsh+oviYUO6oyeL//OYpzJtZHtbUkZsduzB1i+WpDVYKyjyPD63ZzXP19csLdaimPyte5UCIUFtIISbBPagwfv58joMcVtegAZejng=;WNzfwgGdZ0MA7KRemDkXEg=="
+secured: "H7fBFamw0H6SzOACJY5snz4pQ4YWCBYAa7yf5/+BI5ZkdxJRGk4Ur2b/htT8QJ5QcSw5VqCCJfn3klWIwZ53WZSK5wcIYW21IsF06Xr9lGAdazIaJkCNyer5FNOxWtrqyR11kSh9IHVDFDQNIbN1NkGo4HCDjy0BLyqBxwBntxlXlI1Iz8Z5h6b26RUa02LoLy/IJZKbukRqytvkDoQ9Yc/k8fZUF4yQoQmfHO30GfGiFrIGuQs6Z5QzLF/EfWMlIcqjkGeywlUWjTWXjFH8uY9Wxze4hSGt/MHOdS128fyf97LkkZRSoTU9w9KC8BOE3G055RYMupSjYygdn3W9b5aIbmcbh3T3JGvK0d9uJrnRqi++qHGwV48h/RK79NVFyC71rm0nxcBpTxaH5f+2dlccIZjp0W0LrggTlEcCanxaCejCnFXTGvcbo3Mm4q3b7Fs9KRr3izsAEC8xwsMtQ8bSLbfUoEm9hMtl+AUHDwQfz9Z0RCr67qMcHIGSDMmeuxZA1yLDUb85dgcbau8L0A==;8cogase+UuHeOc1Z0FjdHg=="
 ---
 

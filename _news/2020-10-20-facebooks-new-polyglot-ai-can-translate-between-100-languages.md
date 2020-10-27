@@ -3,8 +3,8 @@ category: news
 title: "Facebook’s new polyglot AI can translate between 100 languages"
 excerpt: "The model, a culmination of various automated and machine learning techniques, is being open-sourced to the research community."
 publishedDateTime: 2020-10-20T14:00:00Z
-originalUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/?itm_source=parsely-api"
-webUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/?itm_source=parsely-api"
+originalUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/"
+webUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/"
 ampWebUrl: "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 1206
     isCached: true
 
-secured: "4mj1HEqc5ybSz5aJG6czdwaBCT9qkSW0aWqt0x86cGnQS+58YBEVDSrVsXpuCG3CeSLk8LHSgolA1jpqMDqFrF51qRfXcOqMD+3WCax/RnwuyqCWv9A4ekN6bRlD3/jl9mndwS2+vaXSycWhFy8Hmhkg7fWNHaeX6EKjuKyDHK40vuYZrt58uqH4B0NSanMQYOUCOEBoZlUU1zN/L67DPMNaRSSLQCOQYZh7ghBPGNahjfMN5Wqe0jenzQQGFdpoTGe9JoRW5vg54MvEU+QxGNWaG/IN8Udahg7FwpqdpQJpMteaJ3YVlML7NNJPix1j2QC86w27OhVIc4cOYTVFcYfF0eP+J30aIyKhrhj6hQw=;6qUI0iIcBhDOLNRM19U0Qw=="
+secured: "eRYGnhKVuSgltYEjvuaMDYiA4QgD0oJkeyHXrjxE8XpHmhtMDRfud+le0Y/IUbDploQbGXVAtD8azpFqyVUbdVLApskuGVRGKppo9/hFXNCpDSiQ5zNbHYfy3Ou1gch7ccHZhYrAfVauxw/Sx1lFoPBP0spnp87GkO4CBVq8x3vEr5P/1Sx5yvqTsJWJB02Rqym9TtI4Ob5sm6F3y5ucitKHxclGqzlS6VJQHX38SfwwAcjeUCY6rfCAHNpV214lCxpPjWPttLAy+HVsyV6NPWNOJoI/M+bRwFzuiIXAUkVblEYFlCSD6BrdPc9GUaHJJIMYSNzaOEnPPtDZMHOJ0tOuJ4WxfiemkLn+y/wp0HE=;hfw5TI9A+CjNGF6gI51vKA=="
 ---
 

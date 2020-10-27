@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-26-profiting-from-the-rise-of-robotics.md",
+      "title": "Profiting from the Rise of Robotics",
+      "excerpt": "O f the many hyper-growth themes emerging today, artificial intelligence (AI) and robotics are among those sure to have the most profound impact on day-to-day life. With that stat",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25",
+      "originalUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp",
+      "publishedDateTime": "2020-09-25T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-transforming-enterprises-through-robot-processing-automation.md",
       "title": "Transforming Enterprises Through Robot Processing Automation",
       "excerpt": "Robot Processing Automation (RPA) is the process of automating tasks which are repetitive and are performed by humans using software and hardware in a variety of applications. Unlike cognitive intelligence or deep learning,",

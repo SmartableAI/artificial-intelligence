@@ -48,6 +48,22 @@ related:
         width: 1196
         height: 919
         isCached: true
+  - title: "Microsoft unveils free app to create AI models without writing any code"
+    excerpt: "Credit: Mike Matas, Microsoft Microsoft acquired Lobe in 2018 to make AI development more accessible. After training, the models can be exported to a variety of industry-standard formats and ..."
+    publishedDateTime: 2020-10-27T13:16:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/27/microsoft-unveils-free-app-to-create-ai-models-without-writing-any-code/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/27/microsoft-unveils-free-app-to-create-ai-models-without-writing-any-code/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/27/microsoft-unveils-free-app-to-create-ai-models-without-writing-any-code/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 104
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-27T114913.835-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "With 25 years at Microsoft, Mike Tholfsen is old school — and a champion of education accessibility"
     excerpt: "Long before COVID-19 thrust how we teach and learn using technology into an uncomfortable spotlight, Mike Tholfsen was imagining the tools that would make learning more inclusive and empowering"
     publishedDateTime: 2020-10-24T03:30:00Z
@@ -64,6 +80,17 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Microsoft, Adobe, C3.ai Launch Tool To Help Predict Revenue, Product Demand"
+    excerpt: "(RTTNews) - Microsoft Corp. has joined with Adobe Inc. and enterprise AI software provider C3.ai to launch a new tool that would help customers to accurately forecast revenue and product demand, among other things. The C3 AI CRM powered by Microsoft ..."
+    publishedDateTime: 2020-10-27T13:36:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 82
   - title: "Microsoft Unveils Lobe; Will this Make AI Mainstream?"
     excerpt: "Recent trends such as decentralized cloud computing, adaptation of GPU for general computing, increasing availability of big data sets, and advances in deep learning, a subset of AI machine learning, has spurred a modern-day AI gold rush. Global investment ..."
     publishedDateTime: 2020-10-26T21:50:00Z
@@ -93,6 +120,20 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133199-1020_DataQuality_480x610-ORG.png"
         width: 480
         height: 610
+        isCached: true
+  - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
+    excerpt: "C3.ai, Microsoft Corp. (NASDAQ:MSFT), and Adobe Inc. (NASDAQ:ADBE) today announced the launch of C3 AI® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"
+    publishedDateTime: 2020-10-26T17:18:00Z
+    webUrl: "https://customerthink.com/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 71
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
+        width: 1280
+        height: 1280
         isCached: true
   - title: "Microsoft’s new Lobe app lets anyone train AI models"
     excerpt: "Lobe that lets Windows and Mac users create customized artificial intelligence models without writing any code. Th"

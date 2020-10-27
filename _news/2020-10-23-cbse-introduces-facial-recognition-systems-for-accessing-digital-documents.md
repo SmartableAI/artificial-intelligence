@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "T-Factory Is a Store Without Staff Selling Smartphones Using Facial Recognition"
+    excerpt: "Instead, SKT is relying on facial recognition to know who is in the store. Customers register before visiting and can then self check-in on arrival using their face. Once inside, they can purchase ..."
+    publishedDateTime: 2020-10-27T13:51:00Z
+    webUrl: "https://in.pcmag.com/shopping/138854/t-factory-is-a-store-without-staff-selling-smartphones-using-facial-recognition"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 65
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/t/t-factory-/t-factory-is-a-store-without-staff-selling-smartphones-using_tqp5.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Tiv7wtIWdgdMvqrSq/YBSRzO6mSvaeqf6QJwYfeJjgBWM9x/8Sx8dgL7p9srTC7cQbEMQMEt/Rr497kqi1gKdKZ+3dIZyOyelCyaaVbEPf9bMbysRm7OUa03b8Tmd2LbWNtGP6fpuU+ccgggJrwG1cPQwSJtQLQ/Pdx6TnNtsZvSyCgU+L82SZKwDuUHnXeSAwMmtLUApuIWyqvVd3aM606pzhQMpyU4XaW1GUP8Rs+tJMOtTBCO8iGn5uc3pJ0/UBGS1fe9wSXoXDSlGwjU4tZH7y9YDhdufIVvTymdQeNYM82UMiOx/rqcUpURzEzyS3baMPrA5Nd/XWlbyjfccqJbP6v4MFHTF3AsHXphooY=;pySQdyKvbejEJBFf1ewALg=="
 ---

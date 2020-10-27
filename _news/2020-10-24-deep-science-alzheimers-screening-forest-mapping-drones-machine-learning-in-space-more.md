@@ -63,22 +63,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "AI Predicts Alzheimer’s Disease Years Early using Language"
-    excerpt: "Can linguistics, the scientific study of language, be used to detect Alzheimer’s disease (AD) in cognitively normal people using artificial intelligence (AI)? Scientists from IBM Research and Pfizer created a novel machine learning model that can predict the onset of Alzheimer’s disease years in advance based on linguistics,"
-    publishedDateTime: 2020-10-22T19:49:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202010/ai-predicts-alzheimer-s-disease-years-early-using-language"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202010/ai-predicts-alzheimer-s-disease-years-early-using-language?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202010/ai-predicts-alzheimer-s-disease-years-early-using-language?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-09.png?itok=8uWeigq4"
-        width: 384
-        height: 504
-        isCached: true
   - title: "New AI tool can predict future onset of Alzheimer's disease"
     excerpt: "A new AI model is able to predict future onset of Alzheimer's disease around 7 years in advance of diagnosis using short speech tests, according to a new study published in The Lancet eClinicalMedicine."
     publishedDateTime: 2020-10-23T09:34:00Z
@@ -95,15 +79,6 @@ related:
         width: 1182
         height: 690
         isCached: true
-  - title: "IBM, Pfizer design AI model that can predict Alzheimer's in seemingly healthy patients"
-    excerpt: "IBM (IBM +0.4%) and Pfizer (PFE +1.0%) have published research in The Lancet eClinicalMedicine outlining the duo's AI-backed approach to diagnosing Alzheimer's years before symptoms occur.The researches developed an AI model that uses samples of language data (obtained from clinical cognitive verbal tests) to predict with 71% accuracy the eventual onset of the disease within seemingly healthy people who don't have any Alzheimer's risk factors."
-    publishedDateTime: 2020-10-22T19:27:00Z
-    webUrl: "https://seekingalpha.com/news/3625002-ibm-pfizer-design-ai-model-can-predict-alzheimers-in-seemingly-healthy-patients"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 9
 
 secured: "ctqHIm0LJ6vwhM64y4g1s/+SfVN1Eyxg8bdx0HxxbvopmAPSsVjCRJhM6+rIleRFWNuYFB5wMVNk3cXsZMoS1TQIrgOvxvzehlQoTq8zBOqSfogAqB6fLQVWH9mtki269qgIs20p3QB4AMQ0f3cOtnmbCZRgDwyBigcgiadDExvu6gW8WhqZY1i+ppA8YJTwfWVBzwwYCrUpJgDRwE/8h0TXnDi1KIK83j4IN+eKSXzHjqLD2IFuvs4f9sniEF2ssXCbhK0TDmzwBqFQdf3mUQWrXY9EevKy70CWr6t49J/Pdfy4DJC+KsRcwBVXFDcjiqYNMJQUgiB149b9fIOBVqZWSajISd8R/xzS2rumTosamSY1I47xb/AOsv1G/B6WlZ//7sUOAhJQWfqDkAhBuShy4VQ4ylGlrXK50PdM/TqOlUH6A7ZYG4mr3Ya04GLYwmBGgopYoQ/kAkJDKNamyNt5qyOwTG/A3mdjAWNKF9ErheyxUupNoMixporJ0dMrX9cDqUQD8PusOW1AcxnuvA==;jo8VR2gjugYq1MzBzUV4Aw=="
 ---
