@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/if-a-robot-is-conscious-is-it-ok-to-
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs"
+    excerpt: "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing."
+    publishedDateTime: 2020-10-27T20:30:00Z
+    webUrl: "https://madison.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_2ecc9a46-7fb6-5c59-9de7-75e65073d3c5.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 43
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/2/ec/2ecc9a46-7fb6-5c59-9de7-75e65073d3c5/5f986b782df55.preview.jpg?crop=1000%2C563%2C0%2C89&resize=1000%2C563&order=crop%2Cresize"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "If a robot is conscious, is it OK to turn it off? The moral..."
     excerpt: "As real artificial intelligence technology advances toward Hollywood’s ... Arguably no machine has yet demonstrated that kind of intelligence. This summer, a startup called OPENAI released a new version of its Generative Pre-Training language model."
     publishedDateTime: 2020-10-27T13:11:00Z

@@ -37,6 +37,20 @@ related:
         width: 320
         height: 241
         isCached: true
+  - title: "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs"
+    excerpt: "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing."
+    publishedDateTime: 2020-10-27T20:30:00Z
+    webUrl: "https://madison.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_2ecc9a46-7fb6-5c59-9de7-75e65073d3c5.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 43
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/2/ec/2ecc9a46-7fb6-5c59-9de7-75e65073d3c5/5f986b782df55.preview.jpg?crop=1000%2C563%2C0%2C89&resize=1000%2C563&order=crop%2Cresize"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "SEfnu7frDa5fdq3M/j8HsuJRLio18Bqn2gAYD+ysJ+mysF9iX6En1wNKDRZJB1s7ntn2b7vyKzf90P6HMsk3YuOhr/QPv7B2793qQL9mnKxMpbWZgEkp4bKyttSXPAa7ER1pAS+lGfOzRfJ4W/C2Kmsea3h7Xwp3O1dryCeppiexNiVciNpxkEaVo0EUDJqCZu5l38wD14JkZ3TGjN+oqRYnd22YHzjXuKWMk3QnPsUgIB+WZzI+Qs1dMG2OEEtVXWy3rJcmEtkSl+LUUFOo4LhmsFtu9+WXc7yh6oTclSn4h/nVp0jyzVWwbUpdoniivmhLpJrUPLRVRaEpQw0ooad2TTwRqpv8RY+6o2JdgjI=;qGXJJxQ257X4WWiaCfArRw=="
 ---

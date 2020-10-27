@@ -41,6 +41,20 @@ related:
         width: 950
         height: 474
         isCached: true
+  - title: "NOAA Partners with Google to Boost Weather Forecasts with AI"
+    excerpt: "The roughly $10 million deal will also incorporate new hands-on training opportunities for both entities’ personnel."
+    publishedDateTime: 2020-10-27T19:57:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/10/noaa-partners-google-boost-weather-forecasts-ai/169599/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/10/27/shutterstock_552493561/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
     excerpt: "PRNewswire/ -- NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite and environmental data."
     publishedDateTime: 2020-10-27T15:00:00Z

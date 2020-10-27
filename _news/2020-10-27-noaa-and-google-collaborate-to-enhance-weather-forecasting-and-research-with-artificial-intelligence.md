@@ -54,6 +54,20 @@ related:
         width: 879
         height: 494
         isCached: true
+  - title: "NOAA Partners with Google to Boost Weather Forecasts with AI"
+    excerpt: "The roughly $10 million deal will also incorporate new hands-on training opportunities for both entities’ personnel."
+    publishedDateTime: 2020-10-27T19:57:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/10/noaa-partners-google-boost-weather-forecasts-ai/169599/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/10/27/shutterstock_552493561/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "isLp0L+ghYzca9rbZbBzP+wKiuUgy7NqJGg/za4Y/QgBKsySkq8SXVOhHOkYnfcx7NAPFkVUpmSLxSpRaAo7u7pNu87oCGgRL8y2vnEQ2dBmzYnhttbBFWh4ZEmE1TO9l53+2BviaoBJCjK7Z5yt1G5TceqEJO7mNk6c4deN/qSHusK73hNEkYtWkdTpBrUKw8Q91/PSLsWKNz7yeUC23zGicpuE4ugq1RrTCncq3lbG/lvMZ7Xbzg5pH7we6DCWUle5GjvErXk+xAoegGFbPkFPTIH7mQB+Gn8RjrspPC1S9dkrRTGqaKEjYKyWerHw6zl564Rrbvu6MmcGZQgBRot+59g4KBeqrp/PjQlnufI=;l3GnVdsb1KbnWWtjiUCO3Q=="
 ---

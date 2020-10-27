@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "CBSE introduces facial recognition systems for accessing digital documents"
-    excerpt: "Using the state-of-the-art facial recognition system, the CBSE will enable students to download their digital academic documents of Class 10 and 12. This computer application matches human face from a digital image already stored in the database."
-    publishedDateTime: 2020-10-23T04:17:00Z
-    webUrl: "https://citytoday.news/cbse-introduces-facial-recognition-systems-for-accessing-digital-documents/"
-    type: article
-    provider:
-      name: Mysuru
-      domain: citytoday.news
-    quality: 37
-    images:
-      - url: "https://citytoday.news/wp-content/uploads/2020/10/Page-5-anchor-1-photo-Oct-23-780x405.png"
-        width: 780
-        height: 405
-        isCached: true
 
 secured: "ypfOpzoXRS7xvQfP8rMA/79NFhXvFXJy24TPjwvvoHFLu4HOvRnVsLkyhiusbvMjkeklsmLSxC6ruNJNiM2Rbu0ZAq1MQnFMaSfcEsuhy9Mrcj64TQNwNKIJK3Qm6fS9jcRbWWzEqJOe8dBFBvFMISsAiyJxh0JosIihP4VnmumG5otHa0WkOnpt/ZcaN+MpYKxcg5f6MSxNMGOp3QssHeNiBCyVhgPEvL3/Rh2AYAMeWmT834blBjjNvmXvIYrRnPX5xEcXyh3+nz/L9VMzq7FXwaiXZ8FHfmvnyQ035BKN+b0o2qR1KWX7xn3r63uaUco7DZNUWezSNmqRcbwVHIVFs6aLPgdNDrYDL0H3Nkw=;vmc1y1KEarfgNZny2SETNw=="
 ---

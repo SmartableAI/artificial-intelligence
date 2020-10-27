@@ -25,67 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "How To Bring AI Into Your Service And Support Organization"
-    excerpt: "Deciding where to begin implementing AI-driven service management depends on the biggest challenges your company faces."
-    publishedDateTime: 2020-10-23T13:05:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/amp/"
+  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
+    excerpt: "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
+    publishedDateTime: 2020-10-27T18:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91efa5b69ed05e401bfcdf%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "HelloWoofy is the AI-driven brain that could change how you handle social posting."
-    excerpt: "Sponsored Deals For companies who don’t have the resources to throw their full weight behind social media marketing the way they should, a service like HelloWoofy Social Media Management can be like adding that social media manager they need."
-    publishedDateTime: 2020-10-23T15:05:00Z
-    webUrl: "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/"
-    ampWebUrl: "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/amp/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+  - title: "New AI Platform Matches Tumor to Right Drug Combination"
+    excerpt: "DrugCell, a new artificial intelligence system not only matches tumors to the best drug combinations, but does so in a way that makes sense to humans.’ Read More.."
+    publishedDateTime: 2020-10-23T16:51:00Z
+    webUrl: "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
+      name: Medindia
+      domain: medindia.net
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/sale_31494_article_image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Artificial Intelligence as a Service"
-    excerpt: "The Artificial Intelligence as a Service market is expected to grow from USD 1.6 Billion in 2019 to USD 13 Billion by 2027, at a Compound Annual Growth Rate (CAGR) of 51% during the forecast period. A comprehensive analysis titled; Artificial Intelligence ..."
+  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
+    excerpt: "SUNNYVALE, Calif., Oct. 27, 2020 /PRNewswire/ -- Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
     publishedDateTime: 2020-10-27T12:03:00Z
-    webUrl: "https://www.openpr.com/news/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
-    ampWebUrl: "https://www.openpr.com/amp/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
+    webUrl: "https://www.prnewswire.com/news-releases/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-301160206.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
     images:
-      - url: "https://cdn.openpr.com/T/a/Ta27780023_g.jpg"
-        width: 550
-        height: 312
-        isCached: true
-  - title: "Organizations need to understand risks and ethics related to AI"
-    excerpt: "Despite highly publicized risks of data-sharing and AI, leadership at many orgs are underestimating the ethics of the technologies they use."
-    publishedDateTime: 2020-10-26T05:04:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/26/ai-ethics-risks/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 54
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/07/09093904/ai2.jpg"
-        width: 1280
-        height: 891
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "vU7SoSOHqdursITPAABtrQsxr5J1/exMM7j6MSek02cbDiACMoIrSLildH+5VI4ztY2z+7vwstxUeP+95kYrFrm7aGhTlzOTWGY8jj6LTvmGXNJFxV7yoLQ3PZL30BASEJ1SYa1wHNVcYCqIP+QXMpNC1SFq/mNGJ1ZunnONA91PULTF+QMXhulVjdCttzvOV8PPfHWqIAY4aeTX0Ym9dsAzWs81sVsHG0XnXy1ztJaMFqIVpQHwDKs+Mp1+CmscTwb0ZUxe2ZZeu7/i4IDHqJnlBxJr6EKCBImpKmi3zgiD2H8PqEyj/NdklMOACvOnZooFf3u7sdT5Vls5TP8uR+3xgXuiFw3JjQtRVYj19rT37FUSXqs8i63S4cPlOUcxCqM0v87Nv5fCxPoFkXp4BqGwc0/qqd6bmu5vlyEbTyNvRXyLZzih2LZr0OpMxeNBM4o8hf6hKlSoPcss1SpbnjK1EUNDyMJIIuGAY0fRpy3FgH+Av/dzQ750UEgzOMDDPoncXV3COPTUTQ36S6tglA==;d02EROIO6E/Rk8rJk8I/hw=="

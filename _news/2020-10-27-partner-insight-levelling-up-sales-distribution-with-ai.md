@@ -34,7 +34,7 @@ related:
     provider:
       name: finsmes.com
       domain: finsmes.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://www.finsmes.com/wp-content/uploads/2019/12/gong.png"
         width: 960

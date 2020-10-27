@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
+    excerpt: "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
+    publishedDateTime: 2020-10-27T18:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "New AI Platform Matches Tumor to Right Drug Combination"
     excerpt: "DrugCell, a new artificial intelligence system not only matches tumors to the best drug combinations, but does so in a way that makes sense to humans.’ Read More.."
     publishedDateTime: 2020-10-23T16:51:00Z
@@ -41,44 +50,19 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Researchers create AI system that matches tumors to best drug combinations"
-    excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA)."
-    publishedDateTime: 2020-10-23T06:17:00Z
-    webUrl: "https://www.news-medical.net/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx"
+  - title: "Services Infusing AI into Air, Land, Sea Robots"
+    excerpt: "We believe that we have adversaries who are rapidly building up their forces … and are definitely applying AI to their operations,” said Nand Mulchandani, chief technology officer at the Pentagon’s Joint Artificial Intelligence Center."
+    publishedDateTime: 2020-10-26T12:06:00Z
+    webUrl: "https://www.nationaldefensemagazine.org/articles/2020/10/26/services-infusing-ai-into-air-land-sea-robots"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
+      name: National Defense Magazine
+      domain: nationaldefensemagazine.org
+    quality: 54
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2015%2f3%2fTumor_3b927f3db0dd47538f7791b7e005ae6a-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "DrugCell: New experimental AI platform matches tumor to best drug combo"
-    excerpt: "Researchers use experimental artificial intelligence system called DrugCell to predict ... and combinations of drugs to best treat the malignancy. Precision cancer therapy is already available at Moores Cancer Center at UC San Diego Health, where patients ..."
-    publishedDateTime: 2020-10-26T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201026164900.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "AI Reportedly Matches Tumors to Best Drug Combinations"
-    excerpt: "University of California San Diego School of Medicine and Moores Cancer Center say they have created a new AI system called DrugCell that reportedly matches tumors to the best drug combinations but does so in way that clearly make sense."
-    publishedDateTime: 2020-10-23T20:00:00Z
-    webUrl: "https://www.genengnews.com/news/ai-reportedly-matches-tumors-to-best-drug-combinations/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 39
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2020/10/Oct23_2020_Getty_1193684967_WomanScientistPipette-scaled-e1603475555884.jpg"
-        width: 1400
-        height: 1050
+      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/10/4944270.ashx?h=500&w=878&la=en&hash=BD039AF4149872CB15744860B33582D4DF93FD68"
+        width: 878
+        height: 500
         isCached: true
 
 secured: "usyXWmwBjbJe1OmPXq3oRaBxM1qzlHy7xOsWWqLEdO0YA5kAfNHTwm5SwPYIer2wukYpUaSCo+5FduBAQpsSY1bbUAQ4QknDM0qZhn8FBSzVnoim3wSNkci3UVGP/2iKSc+dUWASZ+huGeWhTQera5KWr1S4LQro+Eu/0vrYofuzzJZLEyqNfLBZQij2MJNoWi/9faVwc8BhgDGuPcDVgPU+jp+TI/poNx8n776YNQMS2mzeywvxUAovXfven7irmsBnTe81q2JZhbZReTCgk5n9Bi8ZKzRuVDDd8aUCWnLJYDRZr5efXCL7Dn44tdAF1Vjp+XNgjZ8lx0Um1PehX5CNbDDkdtd03bgX3Ave9lA=;3PwgvkHWy6JjEQEftR3rYg=="

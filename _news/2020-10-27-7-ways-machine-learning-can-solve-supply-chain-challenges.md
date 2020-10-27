@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/strategy/7-ways-machine-learning-
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063/amp"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

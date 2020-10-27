@@ -1,26 +1,32 @@
 ---
 category: news
 title: "Apple Buys Self-Learning AI Video Startup to Improve Apps"
-excerpt: "Apple Inc. acquired a startup specializing in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services. The Cupertino,"
-publishedDateTime: 2020-10-27T19:42:00Z
-originalUrl: "https://www.bloombergquint.com/business/apple-buys-self-learning-ai-video-startup-to-improve-apps"
-webUrl: "https://www.bloombergquint.com/business/apple-buys-self-learning-ai-video-startup-to-improve-apps"
+excerpt: "Apple Inc. acquired a startup specializing in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services. The Cupertino, California-based technology giant acquired ..."
+publishedDateTime: 2020-10-27T19:39:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
+webUrl: "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
+ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
+cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 87
+heat: 107
+published: true
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-    width: 1200
-    height: 630
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3ljJ6nNqEA8/v1/360x-1.jpg"
+    width: 360
+    height: 240
     isCached: true
 
 related:
@@ -40,7 +46,21 @@ related:
         width: 1600
         height: 1192
         isCached: true
+  - title: "How AI Helps Amazon Improve Sustainable Packaging"
+    excerpt: "Artificial intelligence has helped Amazon boost sustainable packaging options while slashing waste, but there's still room for improvement on this front."
+    publishedDateTime: 2020-10-27T07:25:00Z
+    webUrl: "https://www.triplepundit.com/story/2020/ai-amazon-sustainable-packaging/707721"
+    type: article
+    provider:
+      name: TriplePundit
+      domain: triplepundit.com
+    quality: 39
+    images:
+      - url: "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/amazon%20sustainable%20packaging.jpg?h=bc09f3d1"
+        width: 1500
+        height: 1000
+        isCached: true
 
-secured: "XmPw/0LYZv07Fjw8LvwmvCiaQauXfyjOpVGLOElXf/bNDJZa9REKXwblaO8xLf/uC1ITLFU8WzjhS0/y16mLv22Mx47QBCZ/4bsi2RLoRZ/oE+2ipCshTF3V+c4Pjtk4zLjsNCwC+vHfasy0eEvZxnrYALOIv5BII5yWJO2gb4v58usE4yUbdvnU2nGu/xV7wuW2Yuyrr3xY967cKD6GKzVlYnoUbzRG+i8EbCYFiIxPYw5Yc6BOPGCdiJk4bzed8wYTHMm4448XGm+DZ7YXFRFU4jIh9FYlttxvmFEYmSejK+9DBThRCmWm0QmwE/99T+FCN7hYLiUr9bunoHXF7VpfL0IrU3iTdWtuKFYpTNQ=;rYTk+/HhNo4lrzMoIeealA=="
+secured: "vazuFsw2/Ey10t1/zBrQLLozcHVGWmXKRqFoS4VWm/wKrUEBKGj/PFp/sP726VbwCSGb8LQDMpXv5RJfE7UOEV90XDod0/GLn9iEMXpmJJt+OYGCQJW6gcHIyY9nEh6L0nR1A0HSfp/76T+GNt6PXIsHaZlgdM2pPHmfG6UPaMtSt5Otm3jnBBZceunbnZhZ/QFwYt4EJR4VXrYfQ64qmfnMkvHPllrv9xIBn3FnvB0t7fk5QR3zgLNFoYcACowaUpZcfghoWUvfnHSXww8IFjwOd3/hqB3PfvZo1KMvOSwmmL8BpXWRaQIgp10LPLevcarEZab/BH+jgd+hd+XtCBrPz/OehwvLpcFdGM24MkI=;tn8+txixPaCDoLcI44KORQ=="
 ---
 

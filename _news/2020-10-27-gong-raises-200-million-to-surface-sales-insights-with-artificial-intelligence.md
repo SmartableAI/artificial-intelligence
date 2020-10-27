@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-27T09:20:00Z
 originalUrl: "https://www.finsmes.com/2020/10/gong-raises-200-million-to-surface-sales-insights-with-artificial-intelligence.html"
 webUrl: "https://www.finsmes.com/2020/10/gong-raises-200-million-to-surface-sales-insights-with-artificial-intelligence.html"
 type: article
-quality: 65
-heat: 75
+quality: 67
+heat: 77
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Sales
+  - AWS AI
 
 images:
   - url: "https://www.finsmes.com/wp-content/uploads/2019/12/gong.png"

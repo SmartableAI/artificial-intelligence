@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-27T07:01:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/simplemachines-inc-debuts-first-of-its-kind-high-performance-chip-301160015.html"
 webUrl: "https://www.prnewswire.com/news-releases/simplemachines-inc-debuts-first-of-its-kind-high-performance-chip-301160015.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1320528/SimpleMachines_Logo.jpg?p=facebook"

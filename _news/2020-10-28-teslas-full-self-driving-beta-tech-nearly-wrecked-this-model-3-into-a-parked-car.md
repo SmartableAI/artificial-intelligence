@@ -218,6 +218,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Videos of Tesla's new 'full self-driving' software look futuristic — but show just how far it is from full autonomy"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 There's still no such thing as a self-driving car, but you wouldn't know that from hearing Elon Musk or Tesla talk about their ..."
+    publishedDateTime: 2020-10-27T19:31:00Z
+    webUrl: "https://www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/5f9878b30c60aa00190d4a68?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended"
     excerpt: "Self-driving technology is a holy grail that promises to forever change the way we interact with cars. Thus far, there’s been plenty of hype and excitement, but full vehicles that remove the"
     publishedDateTime: 2020-10-23T17:03:00Z
@@ -298,17 +314,17 @@ related:
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
-    publishedDateTime: 2020-10-27T12:48:00Z
-    webUrl: "https://www.10tv.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    publishedDateTime: 2020-10-27T14:29:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
     type: article
     provider:
-      name: 10TV.com
-      domain: 10tv.com
+      name: WHAS11 News
+      domain: whas11.com
     quality: 59
     images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+      - url: "https://media.whas11.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -537,20 +553,6 @@ related:
         width: 580
         height: 326
         isCached: true
-  - title: "Tesla’s Full Self-Driving Beta Is a Huge Step Towards Autonomy. Risky, Too"
-    excerpt: "Accidents can happen either way. Regardless of which side of the fence you’re on, there can be little arguing that Tesla is making its boldest move yet in the rollout of the Full Self-Driving Beta upgrade. This update, FSD Beta for short, or Autosteer on ..."
-    publishedDateTime: 2020-10-23T04:22:00Z
-    webUrl: "https://www.autoevolution.com/news/teslas-full-self-driving-beta-is-a-huge-step-towards-autonomy-risky-too-150527.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 37
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/teslas-full-self-driving-beta-a-huge-step-towards-autonomy-risky-too-150527-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Tesla: $8K ‘full self-driving’ software upgrade still needs driver supervision"
     excerpt: "Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still ..."
     publishedDateTime: 2020-10-23T06:35:00Z
@@ -621,6 +623,6 @@ related:
         height: 640
         isCached: true
 
-secured: "FZLz1b6yynPC6qF5vAW7mPFpIbNT836H6aOkj39Boo15hb46V1/Aw6xtSaleQwJsWbbWNHslrFFmx8ip6EURUjzFNiTwDjn6HzkTRO6aAXnFEVE7dUxdZbg3N6osCKwNu7VPrQbIVmrs6S8hD5+dcxKcvioc6NkTegJsQoYjVe+ogu7IF+19vApIcMTIEUy1NK6eVj3urKBrCQJ2tOA6c4zidpoOl4zOc++BSjEwq2UJMpbme3O2af1YWXKX+PRTpqKNUn7N97u2G6D/umLlM+bWqQIjUuslLhYnMK8rGENiSLc0DPPWn+xxLBtpurDcfz/af4ehwvk0iBRwND3arYD9yTpYGwMs9ggVBDqkII4=;gEZeNSKEuCdFGhHJ9YevPQ=="
+secured: "iBpKOYi+DmH/VUoPsa8kfw7UMFiA0sfTwCSEy2qSgIicGRQITEkp3qRhEpz9N0zHuQTQ9jbKKGw8HUFIZjGISHdC2mC/YqSZBEcwsL7qi+YQuYkfcdVE8lZMarXMaJVK1Qrng1mkhB9+KkkiwE7eYRNbaEXlhhunx4EfnYQarppoDAEEmEs0MbKLrS+1hbHLEF/Chj7fWx9cqf4d5+VOOFI2VJ/GJ3TLXFY9Ar7Dusf/4Oa1JYGQktK70zMjFXmYTqO3maixQ0uuycuA8KeRF+hSkkJk9PeO8Fe33hF5hkKtvikn3aSFGg9NVvgdE0Fr37ysE4aa6jxFZm+EWbHhNP81dknZ/lSSfjLCe9IdjJfOcRkPl1WtG8U/2Si3rCOS1iYxOU5L125i5exiQGUlDM9TyIfCNfDf6X035yJto70XOsPnbduy3QqhSV+F/tDsSmdYtFsFs/nMREuwLQ0RXiz0Y/REXCsmRFKZ+yAIjnLkX6Q3TwBG7He3bR8+LQnTy5rsU60n8JEo1ijSvxN3Rg==;n1++Vq0G5ovb9GUazEAQqg=="
 ---
 
