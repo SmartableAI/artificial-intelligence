@@ -1055,25 +1055,34 @@
     },
     {
       "path": "_news/2020-10-06-nxp-launches-ai-ethics-initiative.md",
-      "title": "NXP Launches AI Ethics Initiative",
-      "excerpt": "EINDHOVEN, The Netherlands, Oct. 06, 2020 (GLOBE NEWSWIRE) -- NXP Semiconductors N.V. (NASDAQ: NXPI) today publicly launched its AI Ethics initiative, underscoring the company’s commitment to ...",
+      "title": "NXP launches AI Ethics initiative",
+      "excerpt": "Today, NXP launched its AI Ethics initiative, underscoring the company’s commitment to the ethical development of AI components and systems where people work and live, known as the “edge” of computer networks. With secure, power-efficient edge ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/nxp-launches-ai-ethics-initiative-2020-10-06",
-      "originalUrl": "https://www.nasdaq.com/press-release/nxp-launches-ai-ethics-initiative-2020-10-06",
+      "webUrl": "https://www.electronicsweekly.com/news/business/nxp-launches-ai-ethics-initiative-2020-10/",
+      "originalUrl": "https://www.electronicsweekly.com/news/business/nxp-launches-ai-ethics-initiative-2020-10/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/2020/10/06130632/02E799ED-8BB1-4F07-B02E-87E5B2F1B529.jpeg",
+          "width": 2550,
+          "height": 3300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T01:00:00-07:00",
+      "publishedDateTime": "2020-10-06T05:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
         "images": null,
         "publishers": null,
         "authors": null

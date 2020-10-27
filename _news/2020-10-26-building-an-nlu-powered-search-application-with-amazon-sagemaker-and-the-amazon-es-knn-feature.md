@@ -43,6 +43,20 @@ related:
         width: 900
         height: 628
         isCached: true
+  - title: "Optimizing costs for machine learning with Amazon SageMaker"
+    excerpt: "Applications based on machine learning (ML) can provide tremendous business value. Using ML, we can solve some of the most complex engineering problems that previously were infeasible. One of the advantages of running ML on the AWS Cloud is that you can continually optimize your workloads and reduce"
+    publishedDateTime: 2020-10-27T18:31:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Charts-840x630.jpg"
+        width: 840
+        height: 630
+        isCached: true
   - title: "Bringing real-time machine learning-powered insights to rugby using Amazon SageMaker"
     excerpt: "The Guinness Six Nations Championship began in 1883 as the Home Nations Championship among England, Ireland, Scotland, and Wales, with the inclusion of France in 1910 and Italy in 2000. It is among the oldest surviving rugby traditions and one of the best-attended sporting events in the world. The COVID-19"
     publishedDateTime: 2020-10-26T18:33:01Z

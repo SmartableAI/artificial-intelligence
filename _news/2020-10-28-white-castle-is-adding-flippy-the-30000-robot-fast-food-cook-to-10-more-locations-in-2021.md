@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "White Castle will begin testing its automated 'Flippy' cooking robot at 10 more locations"
+    excerpt: "\"Artificial intelligence and automation have been an area White Castle ... Replacing human workers with robots might sound like a good idea on paper, and it might have worked well at one White Castle location, but we wouldn't be surprised if some hurdles ..."
+    publishedDateTime: 2020-10-27T19:11:00Z
+    webUrl: "https://www.techspot.com/news/87314-white-castle-begin-testing-automated-flippy-cooking-robot.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87314-white-castle-begin-testing-automated-flippy-cooking-robot.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87314-white-castle-begin-testing-automated-flippy-cooking-robot.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 80
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-27-image-17.jpg"
+        width: 1680
+        height: 938
+        isCached: true
   - title: "White Castle expands partnership with Miso Robotics’ Flippy the fry cook robot"
     excerpt: "White Castle will be implementing the newly revamped commercial version of the Miso Robotics creation — Flippy Robot ... powered drive-thru system with license plate recognition “Artificial intelligence and automation have been an area White Castle ..."
     publishedDateTime: 2020-10-27T13:39:00Z
@@ -87,6 +103,6 @@ related:
         height: 1309
         isCached: true
 
-secured: "uPpAG+PikcCE1HGaZQ7hRb3sTwn9ttM/6flvLlDekCZmliLGnyJaqKuZaJ0/v7jzntvFMlvDXIpVZ2qQat2AgA0actcpSsT+d48A973P7yzRg+lT9URhmoEcxTfPKN1RC3JwUIq/OGW2dl7pwW0wjx5kDjlMXGvn0WmIQAthE5/greTEYIcY3JC+Sq/zg1AHwlis6V15RijmEdKfuUUvow4jDFBz84K1djGXmnsBONMWzuCN4XQl3UEOzS5IrLQlktuqM192iDgt2/2EvyrNWHtRnuew9GbRND1xP0FWdOwEfa8xi7S9JwRVKlRRg3lI4fMcx6vtasoUT7p1hOkl2GLAaRAH7UWT/xhhMB3x/bI=;BaholB/OXz8B4Uo3AILapQ=="
+secured: "iwBPLIb/xVx8JXCbjIGZiI9vtLdBur4mPZqeeQi2VrLf0Us6TK0+svqrfzcu4+xp9RTwzHxDCfpVNpriZ1zmehlZwky3T4+kx94JjK5xvBiUjdIPjDgSPPehL6cEFjbLFESLmd5uVocWVjlZZJRnmf9gXUqW4dw5qDrppnI83em4gbiwbrbi/5v3q6h8xfgo/cnkwGyhN8Ua0RdLjrklsWaKIlua/GPmrVbzW0cHUiQ2Ox9eoqlpYvhz391OEuRO65BMSDPOkBqQa5SZtlRdoLV3O1i9y5wIW9dc6yEFuvgUwHOxi3wdT7ox8pSRtj9e6CIar8dN+G8ERe9klWjp0oixT886laGA64do2KFgMz6KUfCkugzH4DKo0R5CvHmr4PlOJZ4qQTO8sHQciyo6tOhN3Y/akgSP4oZQoPSq3nlO9SJ/6lCEqv3tBUJzBwIIpm6N51CaQ/z5s7pMYRRhB12F5cXwP0u7H5cSjTMxPxPELrY6GvFS+t8C0Km3dRlPXHnL/BjnbRDmV+tCuoGYeA==;SR/Ic8/kUBi/jv3X9pY4wg=="
 ---
 

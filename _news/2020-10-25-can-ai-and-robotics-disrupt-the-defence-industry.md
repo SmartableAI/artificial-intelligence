@@ -7,8 +7,8 @@ originalUrl: "https://www.analyticsinsight.net/can-ai-and-robotics-disrupt-the-d
 webUrl: "https://www.analyticsinsight.net/can-ai-and-robotics-disrupt-the-defence-industry/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Analytics Insight
@@ -23,6 +23,22 @@ images:
     width: 1500
     height: 844
     isCached: true
+
+related:
+  - title: "The Future of AI, Ethics, and Defense"
+    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
+    publishedDateTime: 2020-10-26T16:25:00Z
+    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
+    type: article
+    provider:
+      name: German Marshall Fund
+      domain: gmfus.org
+    quality: 54
+    images:
+      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
+        width: 1400
+        height: 600
+        isCached: true
 
 secured: "iBjtQ8rdpW4sh1ywzgRyAbI4uqCaHjdAI3CW2kzYXcn+zLhBYSpFOkgnHaszk7CYz8qPxxl68yB1e3jyZJNmQ/XAZBMM0MCrMAbPsmGkgZFplYRj13DSjVAQHuZYr6cW81jWY2xOQqLWpol2lhmodo4xMrYoG8B7I8Oq1H16a8fH3Bjc2VlyOReKyZbTbbXC3NdhIBgk7QGnknnm6LZEn8KfGESAuudExdS7BegKyHF/4BeczrQRIBJGYnS8LzI9PKG/AAuiYCP1WLXoq5RZqpRYNXG2gqlFsTTSLr/NJmqRvAsZxDpWD9iB4vzBS1jfvp1eS+B2aM7uAoXHyAHtdtoprTvOWo7+B+D98D1fPft++gtjqqQ2Dhq6Z3V/Lz/tZBavfW5mxcBF/pK4gRcfyU+m01b2UOkb9BKlSoa8VglBZxXW3Os7Zm2P/RNUuIAvl5YXAWmYv4+cJ4lJx3fMA2L9HbDsM8Zpf2uaTHrfI/p/j3tLmE7p2e8+S4g/bPeu4H3Fsfq3/Xt574vogExarQ==;tMBSU2ZZwsNyuPUBAmWOgA=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/mark-cuban-is-seeking-the-next-generation-
 ampWebUrl: "https://www.wsj.com/amp/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.wsj.net/im-250220/social"
@@ -29,6 +30,6 @@ images:
     height: 640
     isCached: true
 
-secured: "+Q3tsPHUIxS7yN/CO80Z6e232QD6kLjQhaVjuJEfUDv1M4/3DpLJft/Qbx6gtQnLRxw3yOFzDpRwnXHQsS1mGhDYfos83NBTZ856euREVeAMac+0UA4JQpvoN8FXprefdLP076PpR/B+SBtLZtiqCxq6/SXrRmnbCqCgkper8nHVYp6aaZgdOU/57Wv/PRyvsI0TsxEpfOU1WOla7ggBKk1OENxzEwubLAuTaSvBMgPeiOSKyMRB2CW1dvjg4sZntWDUHxt+0BXPdq0+cO+mdeJXHBo56ORCT6eP4zlcVQJz9aUkhINO2wBDUx1/u0j3yK6GMtKCPEOdO8mbozW3le0LCkMNMg2LIRDHqB9PzsM=;npS4tfGTCwU2RxODJDrE0w=="
+secured: "kh0HZjGvNwBDvmUO5YsEiMFZCtlOoubz0u4aaXX89bh9XeGP7oF3BC9oj1RAngSxODnu8AS10PQx8b+diJd6G/0eUgpX/6DHtD0tAAHTyouMdIuIle6a3ImJ4XvC+dim9AsMolb/kb2y5GD2WWASaeeLhl02R6gR587+mAGJGEIdrdc06UAM3G+dhtMqO5gOY1oXaoc8VuDmMam9M9qcbXkcr2CuXyr78hLq2U06PvcxijS/eIO7UUuhm6bw3PbxtlrumttO5776O2XjPX3JTGleXjS4mAPnkyhBkWYtQ/W87Kg/m/QTT9Cm41JqveORy3bryIbP6dbpkh1lV1f5x31pEOZRlpw6WqdE4z7qiHeiaRdRSXGzDokyAURXb6tsNdAiL96tSgY2CC/QEmUsHkJmuPUTb5sDQ3wmSzuLyd5JS4WxWIUgnSAfXs3b/uwU8LIViRUQp5mzDTrIKpfn48OgEl2ch4UkykcF3PAfXaplouM4oFSLdZieuNX+UAs/VFMdrWPMBFwD1gwR0tCPMQ==;7XD5AET1KhcVSDE6+99pfA=="
 ---
 

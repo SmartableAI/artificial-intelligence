@@ -394,6 +394,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tesla’s ‘Full Self Driving’ Beta Tech Nearly Wrecked This Model 3 Into a Parked Car"
+    excerpt: "Tesla's \"Full Self Driving\" update was sent out to an unknown number of beta testers a few days ago, and videos showing the system's performance are being shared around the internet. One such clip, posted by YouTuber Brandon M,"
+    publishedDateTime: 2020-10-27T19:17:00Z
+    webUrl: "https://www.thedrive.com/news/37297/teslas-full-self-driving-beta-tech-nearly-wrecked-this-model-3-into-a-parked-car"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 48
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2020/10/tesla-fsd-moronic-lead.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The Next Battle In the EV War Is Self-Driving Cars"
     excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
     publishedDateTime: 2020-10-24T15:03:00Z
@@ -441,22 +455,6 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/10/Tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-—.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tesla Begins Deploying Full Self-Driving Beta To Select Customers But It Is In No Way ‘Full Self-Driving’"
-    excerpt: "This week, hardcore Tesla fans got complicated feelings in their bathing suit areas as Tesla announced the limited deployment of their new Full Self-Driving (Beta) software, which, based on the name and the hype, sure sounds like it’s a fully autonomous ..."
-    publishedDateTime: 2020-10-23T03:02:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/10/tesla-begins-deploying-full-self-driving-beta-to-select-customers-but-it-is-in-no-way-full-self-driving/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/10/tesla-begins-deploying-full-self-driving-beta-to-select-customers-but-it-is-in-no-way-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/tesla-begins-deploying-full-self-driving-beta-to-select-customers-but-it-is-in-no-way-full-self-driving/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 42
-    images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/10/23/h9j7izkikqbybxzyg0vp.png?ar=16%3A9&fit=crop&q=65&w=1280"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Federal regulators watching Tesla's new 'self-driving' software launch"
     excerpt: "Big week for #Tesla: release of new #Autopilot features, cost hike of said features, federal regulators take note, and strong third quarter earnings. #SiliconValley #autotech #selfdrivingcar"
@@ -623,6 +621,6 @@ related:
         height: 640
         isCached: true
 
-secured: "oahpK5YaXJvGHHcEstvXjdV1gvVCrYspLYGBE9ZKL0qBdebLn38GA5q3xPq5ibCW8ywARFuXb/qi5eytCK17m7g0iNOEdcRvuJX6ml/ME/FIDG6wttHmz5MoDT7SjvFWttBbyeeDyAqO68YB/Q84vQ5saW7CZLE6GaT8EeppjjZTLKYpqB2kHL0K1Gk2IsV584KkYU7bDCfAayGia9lfRK7b3sBxSBOewMuCb6T7uySZO8DVzLYIVZdj93r9aIXZfzXHoq6j9+ci/oFd0iSJzT2hCTlw02nfSKLRw99I/+qH8LJPR53pWft8P74KjnVQEA9k6GIaF+Yzl7pF67hDUEZu69LTXGbCFdwzFDnkcJQ=;5nxW/NXag2Pe9yVjpUKvGg=="
+secured: "yGXYETdesqjgYJwgGP95mOBjl3hbwSx65OQ6RqYZiOF3srD0rBq/L/Z0QCTIvs8ArmmMl8xdXDTzh6BYiodw5cpZLMR36ZxjQ2S9tz8R/7KUgePraabjh1XQaJPJWhqPZrBKDm1ePqvU/Q+GNfwjUVrgLAfwcfK+yXNlZDQU2aRozZBVRH2Lx4L5YBzdPSna024PUvaFufyKQ/4wq5WMA0CjKoq2bL3VtpZ/SKXbFMqFLYa6z+ROMmmeh3xh5X3YbdkG34U4vdVDpefwZbNaMGmCnnb7rxBLGHrro7hIUNOaAvhnrgJmeOAFZ4+JF9ECP3ZegKUNUTFaGanct0VX89o/mzBdqh7h6ijGyS5LTYMOkVe+ggiMSIAST2UawbihVbWJ1E8yrjrbZ1WLKNMKrriQ8PXC44ksX8bqoVj9G6aLCppVzIWOZ4luv84Gc7vGWDQPXr5AUdODwWbDCvSoTM8h87Mc3/SK28zavAIP1tWclyGTZCzw/7XANKfCwDT1hMlmYOcT7S5HJsu56oDOTQ==;m9i3KBljIPJNghKowo7ZjA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-27/eightfold-rec
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 360
     height: 239
     isCached: true
+
+related:
+  - title: "Eightfold AI Raises $125M Series D Funding Round to Provide the Right Career for Everyone in the World"
+    excerpt: "Eightfold AI today announced that it has raised a $125M Series D funding round. The funds will be used to expand and scale Eightfold's leading AI-powered Talent Intelligence Platform, a single solution for managing the entire talent lifecycle."
+    publishedDateTime: 2020-10-27T18:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/eightfold-ai-raises-125m-series-d-funding-round-to-provide-the-right-career-for-everyone-in-the-world-1029726341"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "wlVCQkm/4/K+Nn20B+IaW//T7pp09VP2Q2otB3AM6oisjJu0WOsHrwKZ6CPzKC2gHv3bVBeMYrke6eabua5MT8Ip69J3LW1QaEGj6iW1tCpgciJ/NZAwgXweERhiCSPffBUFKF4A8fU9XwbLxB2DOITnT/vlMATnsPMpDqTG0YTdeIa0qCETh2fA0ciSzn1OtmuvkVkeFhCigZn9zMRUjmB078IZtVy/3zhfFHcclcnLNUwfOY/cWEMkrOER0Pj4vSQaPYA9K5jrfaUbmKhpsaGSv7Zjfwn5TFpT6poeYkr+8/AdC6MKo/GjdeTsWgvHsRUXF7L4xL3wSgMfDJJpnO0baWa7mElr1T3/uodcYGI3mAatdBecJ8FliWWJOeLsMfn1skLnO7WpXCrUkMs775WkkFGdwU7q/PbXkZVUYVNWflgS6bktcfYMhhvQd9Nn3yvCfhaAc61zFEYHg0e5llUDn0gshI2ITvlxLSkS60w4DLbED1AI+9rGGUL/jxn52sI+9npzXNF7HxI6OOaPng==;Ow9iG27x2xHgqWjWsG+H1g=="
 ---

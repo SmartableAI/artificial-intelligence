@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Waymo, Daimler to partner in developing self-driving semi trucks"
-excerpt: "Daimler AG’s <DAIGn.DE> commercial truck unit and Alphabet Inc’s <GOOGL.O> Waymo on Tuesday said they will collaborate on development of self-driving Class 8 semi trucks, applying Waymo’s automated system to Daimler’s Freightliner Cascadia."
-publishedDateTime: 2020-10-27T13:13:00Z
-originalUrl: "https://www.metro.us/waymo-daimler-to-partner/"
-webUrl: "https://www.metro.us/waymo-daimler-to-partner/"
-ampWebUrl: "https://www.metro.us/waymo-daimler-to-partner/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/waymo-daimler-to-partner/amp/"
+excerpt: "In today technology news, we covered about the Waymo, Daimler to partner in developing self-driving semi trucks"
+publishedDateTime: 2020-10-27T16:31:00Z
+originalUrl: "https://www.compsmag.com/news/technology/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks/"
+webUrl: "https://www.compsmag.com/news/technology/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks/"
+ampWebUrl: "https://www.compsmag.com/news/technology/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Windows
+  domain: compsmag.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2020binary_LYNXMPEG9Q17N-BASEIMAGE.jpg"
-    width: 800
-    height: 533
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/US-FCC-lawyer-says-agency-can-change-rules-on-social.jpg"
+    width: 920
+    height: 613
     isCached: true
 
 related:
@@ -150,6 +150,22 @@ related:
         width: 674
         height: 337
         isCached: true
+  - title: "Daimler Trucks and Waymo to partner on self-driving trucks"
+    excerpt: "Oct. 27 (UPI) --Daimler Trucks and Waymo announced a partnership Tuesday to bring self-driving trucks to market. The partnership will combine Waymo's automated driver technology, dubbed \"The World's Most Experience Driver,\" with Daimler Trucks engineering ..."
+    publishedDateTime: 2020-10-27T18:47:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/27/Daimler-Trucks-and-Waymo-to-partner-on-self-driving-trucks/1751603820336/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/27/Daimler-Trucks-and-Waymo-to-partner-on-self-driving-trucks/1751603820336/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/27/Daimler-Trucks-and-Waymo-to-partner-on-self-driving-trucks/1751603820336/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/1751603820336/2020/1/16038230842717/v1.5/Daimler-Trucks-and-Waymo-to-partner-on-self-driving-trucks.jpg"
+        width: 797
+        height: 534
+        isCached: true
   - title: "Daimler and Waymo to develop autonomous Class 8 trucks"
     excerpt: "The artificial intelligence system has also completed more than 15 billion ... The main focus of autonomous driving has been about enabling driverless passenger cars, but as technology has advanced, the conversation has shifted from solving for the driver ..."
     publishedDateTime: 2020-10-27T14:23:00Z
@@ -178,6 +194,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Daimler Trucks teams with Alphabet's Waymo on self-driving technology"
+    excerpt: "Portland's Daimler Trucks North America has worked for years to create an autonomous version of its Freightliner Cascadia semitruck."
+    publishedDateTime: 2020-10-27T16:46:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2020/10/27/daimler-trucks-teams-with-waymo.html"
+    ampWebUrl: "https://www.bizjournals.com/portland/news/2020/10/27/daimler-trucks-teams-with-waymo.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/portland/news/2020/10/27/daimler-trucks-teams-with-waymo.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 54
   - title: "Waymo teams with Daimler on self-driving Freightliner trucks"
     excerpt: "Autonomous driving companies like Waymo have been shifting their attention to trucks more and more, as the time when self-driving passenger cars are expected gets pushed out into the future. A growing shortage of truck drivers and the potential to improve ..."
     publishedDateTime: 2020-10-27T14:16:00Z
@@ -218,6 +245,6 @@ related:
         height: 600
         isCached: true
 
-secured: "OHKuJYyCrjkbODi76svMD0XE4L89xz6Hr171WxOOXLYJq/vtmEmdy0KaVAeAYn8+5kgp8DORTwWI/IbRDisKzIvNN9fMz5kZ/t/4MaJxb33nxlLJrTu2WknAjXUiVGg3UYReahQ7Bq6vF8dKcQUjwrtHVDQ1aUXwlyb4qXdg0z/WMw8p1ppvWG3cKcpYPjxf2+saG3ZNoQjbfV7FoH5UeUYC3jOv/I6n+pnmvPe74dvoQBVgV8YGoxoAn2f1tjbhaZRgua7JpMyxy5x42G31SWJz95mIPE4MBil/OhPyLONGDJ/Jh+k/9Rk6TrGiz9lneoupeS7VC44ZEUAQOmczYzhtRVTV7+aTfjmLVzizi2k=;IBxCLLuznjE2wR7hxXyQiw=="
+secured: "wL9nRJ3VQNiqISs2wiH53HjgI4r5YvSm4m1+netzZPmDUxjNX4OWYkdEnuMBXk+mbbYQFrKU02qWttIBNRtDH+3L0r1GhfGE8EXZBNNo8cyEI3NqbxMFsGNd8dXVBvQOb5QNuxCXiIA1coBcXvOgtQFuJIr1Q3It5cmmTF8HmHzAjkLPflh+UM6rhlJgutZXVkad3dv5E9de9Cz0CEpLKiIG8W6gbA063hZHWFuHtsxa9iPDtOXmzQJYk+5z0qzDQQ4bfFyEuPyNnuKYTHx/SrEUxfgFhfj7w3e8rbNEmJeM7dYmBit4YsiYKzzNMXCmr5sShyRYLegU5Yktc0tr/FB/FLLN+GX6HZUBCuQQtO8=;Xx5Z2vPnlt/hO/XVG3oe2g=="
 ---
 

@@ -15,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
-    width: 600
-    height: 300
-    isCached: true
-
-secured: "cQz6fBuyrcHaQqvdVvommJK0rHBr0Hsy+MBGHJ9cJ1nAjTjRh1VFvU8zZVLNm1w04gldSshmg4LR0eNWEtfpcFjDQyMkLend8e0cWiDhTg99Xtqy/RxqdVFtOpUwbKNsUI3XgN/dJq/c6TYspgtbJehPDchvIOZwyaT7W+Zj+5a4qY++AAhsXfNi5+ugAmmQxApzfdPEx6FTNyKrL08MJep6nL3o1cAqTKsWLkaaeZkW/tMt63qym0V1l18mDb4XbwqqlGuKhvAYUBY2dODajovWSLOrQ7Ewcarw+LswlCD5OIY3JZv7zcl63ccF8YeDsvTdeQc0I28RbxZeZpcOGkqPmEYMsdo6C3ZjeRN1SF4=;BkRbtsBoSapjcamHgn6/5Q=="
+secured: "xzL5F4YGkw98RHG+iSECnFc6W8cIwIvetLkqJJ/H4MQq65YBo7kySiqkn1mzlqPwKBsgL2dClvfuTLrIRwJWQXCPRWDtwq9BJ2Vy1Ruy0rj+ZcgKqAxkpoeky1OFM91lxG0lNEYM0hyuhEAsYdeTy21oQmKMXJKhD/Jse+a7e16HJwfhZjNcI9Dvp/6cMzmEoyUHmD2ogNkvK4VTJhexv6iQjyKSV7qlIhcyyTnJ44FOcZZ9mo56jn+JaDJdvtdLk0Vgg4fbbAx/OXZpZfucuWc1l5Ga+/RhNDGu9sxRTWq1HqkhfDN0oVK+1pPo7lCBStxkySEnJeUv9wfkCUbsti4HVoy7lbejP1BCHw0a2MM=;a/K1wAa01PNnla+Eq+HohA=="
 ---
 

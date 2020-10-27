@@ -7,7 +7,7 @@ originalUrl: "https://spacenews.com/noaa-google-cloud-ota/"
 webUrl: "https://spacenews.com/noaa-google-cloud-ota/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
 
 related:
   - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
+    excerpt: "Public-private partnership between NOAA and Google taps into AI technology to more effectively use satellite and environmental data to improve weather forecasting WASHINGTON, Oct. 27, 2020 — NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite"
+    publishedDateTime: 2020-10-27T17:34:00Z
+    webUrl: "https://gisuser.com/2020/10/noaa-and-google-collaborate-to-enhance-weather-forecasting-and-research-with-artificial-intelligence/"
+    ampWebUrl: "https://gisuser.com/2020/10/noaa-and-google-collaborate-to-enhance-weather-forecasting-and-research-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2020/10/noaa-and-google-collaborate-to-enhance-weather-forecasting-and-research-with-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 44
+    images:
+      - url: "https://mma.prnewswire.com/media/1320599/Google_NOAA.jpg?p=publish&w=950"
+        width: 950
+        height: 474
+        isCached: true
+  - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
     excerpt: "PRNewswire/ -- NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite and environmental data."
     publishedDateTime: 2020-10-27T15:00:00Z
     webUrl: "https://apnews.com/press-release/pr-newswire/technology-environment-and-nature-environment-weather-artificial-intelligence-d1d583ccb76120130b179cdab9e6ed5a"
@@ -40,6 +56,6 @@ related:
         height: 450
         isCached: true
 
-secured: "MNPlJJYNC9q6128U7YmZ/zQHFUIYOWhuG6FGhGufu7xdEsQZHVq9GENowirC1TZZfnBBOtKz/Lu/ggdpiuxQUvreG0pskNADS8hr3hpXnqXdFbtvwOmdufz0s063wzqot6gSKSneZGOaf7HzighAvSOxraCznaDjPjJZDV6wDFsktRKGoTz0q7le+1P+TPfd3VJeMlXSxxI+2jeQ4dSgmlreRJlvHnU3JXNbyzOV76V8AF37KofGAaajji+iO0ZiRTzIBFiAeKpOL/wstxX/BuqDiQv0Ewly4qqdXeaX7grnf8jbjkUWj60cwtRatr+yc2nJmdhPiGEW4M8wA+L9QwSoSZvkPk7igOF+Brwlyfk=;VRYR9cBztzCaMZGpciAVdA=="
+secured: "IE/Ex5TNHwHucBWytsXvk4MS4bX42TIl21Bbh6h9dgK+8IQPZ6SAMO1+h4wHkIZY/Qo9jM0LQ0C29ycEj1yJEPXPLdvNUMdYPMx5CBizI2jNZRo2WJTva9m485Dt/4CLqkSmWX46tHBkTy5A7rknoVVuxjXA3vDnl9WiBAwwqV8FJRr6oXFL3sPf3kes0HWYqgcpbTpcCgROTWG8RWYnge19bz1xBoUn4Nt/r/h9LtVJJbD1gk32GkN80JKKRFU7+uAW/ZioGUCZN7Ako3aKhWU7kWSYDqNyiie/hO8B7O1NvPyJKoIhEvqdobXWuMag0YKM8B34nE10JdJvII4Hla1C55ahHH4rr0eMCCF6+/gDFTbC2K3po/ebk61Ln1LUYNKtMKGDMaALM/Mji2gQc1QVhclG0vo5tBfXD6YvLkp+YouwTcWibXXrJ2oJDMXApDSwNbZvN8eQjMkyHuA7nDUfiUlREcCcq/xSyf94ylnqxKI7rVstbo86BGbXHPH0WpIRjFPyRX+QIYdDjcP+kw==;eshzCHIDgZkOMna5xj4MCA=="
 ---
 
