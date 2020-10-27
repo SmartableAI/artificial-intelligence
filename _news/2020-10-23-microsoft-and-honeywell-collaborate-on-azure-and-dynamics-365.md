@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-az
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -32,11 +32,11 @@ images:
 
 related:
   - title: "C3.ai teams with Microsoft, Adobe on joint enterprise CRM platform"
-    excerpt: "The joint offering is a combination of the Adobe Experience Cloud, the C3 AI Suite and Microsoft Dynamics 365."
-    publishedDateTime: 2020-10-26T17:40:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    excerpt: "along with combined industry and technology expertise, to the oil and gas industry. And in 2018, C3.ai announced a strategic partnership with Microsoft to use Azure as its preferred public cloud platform."
+    publishedDateTime: 2020-10-26T22:46:00Z
+    webUrl: "https://www.zdnet.com/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
     type: article
     provider:
       name: ZDNet
@@ -53,20 +53,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 81
-  - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an"
-    publishedDateTime: 2020-10-22T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/522775/Congruity360_Logo.jpg?p=facebook"
-        width: 2695
-        height: 1414
-        isCached: true
   - title: "Microsoft (MSFT) And Honeywell (HON) Partner On AI-Driven Autonomous Controls"
     excerpt: "Microsoft Corporation (NASDAQ: MSFT) and Honeywell International Inc. (NYSE: HON) have formed a new collaboration. These are the details."
     publishedDateTime: 2020-10-23T18:26:00Z

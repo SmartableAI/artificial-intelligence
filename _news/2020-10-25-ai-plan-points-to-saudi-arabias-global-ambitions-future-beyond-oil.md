@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi Deal With Huawei for Arabic-Specific AI Risks U.S. Ire"
-    excerpt: "Saudi Arabia said it would partner with Huawei Technologies Co. to develop Arabic-language recognition in artificial intelligence and train Saudi experts in the field, potentially putting the kingdom at odds with the U."
-    publishedDateTime: 2020-10-22T11:13:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 87
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTGRJAgjNHN4/v1/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Watch: Saudi Arabia launches artificial intelligence strategy at Global AI Summit"
     excerpt: "Saudi Arabia announced its National Strategy for Data and AI at the Global AI Summit, hosted virtually by the Kingdom, on Wednesday. The strategy was announced by Saudi Data and Artificial Intelligence Authority (SDAIA) President Dr Abdullah bin Sharaf Al-Ghamdi,"
     publishedDateTime: 2020-10-24T02:49:00Z
@@ -56,6 +40,17 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Saudis Launch National Artificial Intelligence Strategy"
+    excerpt: "Speaking at the opening of the kingdom's Global AI Summit, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) - which will spearhead the NSDAI strategy - sai"
+    publishedDateTime: 2020-10-23T00:33:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-21/saudi-launches-national-artificial-intelligence-strategy?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
   - title: "National Center for Artificial Intelligence and Huawei announce MoU to develop Saudi Arabia's AI capabilities"
     excerpt: "NCAI and Huawei will partner on knowledge sharing, upskilling and technology development to build Saudi Arabia's AI expertise"
     publishedDateTime: 2020-10-22T15:24:00Z
@@ -72,6 +67,15 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Saudi Data and Artificial Intelligence Authority develops national AI strategy"
+    excerpt: "Saudi Arabia has launched a national Artificial Intelligence strategy aimed at making it a global leader in the field, as it seeks to diversify its oil-based economy. The National Strategy for Data and Artificial Intelligence (NSDAI) will seek to attract USD 20 billion in foreign and local investments by 2030,"
+    publishedDateTime: 2020-10-26T14:18:00Z
+    webUrl: "https://www.telecompaper.com/news/saudi-data-and-artificial-intelligence-authority-develops-national-ai-strategy--1359097"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 28
   - title: "IBM, Alibaba, and Huawei sign on to help Saudi Arabia's AI push"
     excerpt: "IBM (NYSE:IBM), Alibaba (NYSE:BABA), and Huawei have each signed a memorandum of understanding with Saudi Arabia's artificial intelligence authority."
     publishedDateTime: 2020-10-22T14:02:00Z

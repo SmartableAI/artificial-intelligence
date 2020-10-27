@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/23/imagine-brad-
 webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/23/imagine-brad-pitt-speaking-in-six-different-languages-new-ai-translates-dialogue-in-the-speakers-voice"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1240
     height: 827
     isCached: true
-
-related:
-  - title: "The Left and the Right Speak Different Languages—Literally"
-    excerpt: "Researchers at Carnegie Mellon University collected more than 86.6 million comments from more than 6.5 million users on 200,000 YouTube videos, then analyzed them using an AI technique normally employed to translate between two languages. The researchers ..."
-    publishedDateTime: 2020-10-22T11:52:00Z
-    webUrl: "https://www.wired.com/story/left-right-speak-different-languages-literally/"
-    ampWebUrl: "https://www.wired.com/story/left-right-speak-different-languages-literally/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/left-right-speak-different-languages-literally/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/5f8f6e8cb9910f1848191347/master/pass/business_discourse_1281134658.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
 
 secured: "bBRsCULvZn0NNh+AqwH3dZjfQrrkWhiYy22WRt9ZN0SoXNnqAbwNWARD8cgMTxXO6lk3I4XfLQSn204I7Lo2F46KwtFWCehm2+Bk+KWxBdLWm6JQDp6gN7+MZbB/aYzi4uViUzDzb4ral+qoF2/4Z4n6eH8pfaLmsMeD6J8+m8FmUMzIjr+KRxCnqdgQxWYLfYypsz4xRS3MVaw8X/xD+ZIsXZtvnhftdZuHneuZW6AM+RymBtla9krHYU0oJdLt+Gjg3a+shfCVxpj2yYHxAV/6X6PySD72Bw3H7SdCKSZkkDZK7qmxMEdkmPgU3ceKlKrvqWYFAUq+WjYn4XgkkxWFl+1p+WW4jWBmb0b45fVKxpqB+edmTypAHDOeKs9HsPkBsh11FT6oD0PtoqWZ5tLOlT8wa/C7+WmY1LgfQFEgupLvAMGruQBmFREPoVt5jFQ4F+8/5VR38S0ASQritb/50bw3Sy9o+GPyvC1ZZ4MB0GEkdfm7cpVgu1ZsdddsGrXhOnmD7AbpwTncwCDKYQ==;WsbmV6Nhk+FuiIhGmTBBAA=="
 ---

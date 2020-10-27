@@ -106,20 +106,6 @@ related:
         width: 878
         height: 500
         isCached: true
-  - title: "Survey: Majority of Financial Services Organizations Plan to Invest in Artificial Intelligence (AI) in Marketing to Better Connect with Customers"
-    excerpt: "Powered Copywriting technology, today released the findings of a survey targeting financial services organizations, highlighting the importance of brand language, while emphasizing difficulties in being able to generate high-quality content and an increased focus on artificial intelligence (AI) to alleviate these challenges."
-    publishedDateTime: 2020-10-22T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/survey-majority-of-financial-services-organizations-plan-to-invest-in-artificial-intelligence-ai-in-marketing-to-better-connect-with-customers-301156529.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/1316535/Phrasee_Infographic_AI_Invest_Financial.jpg?p=facebook"
-        width: 5157
-        height: 2700
-        isCached: true
 
 secured: "U0vceSFI4OKiAJDRvimN4SBCK6mST9lauD1esr46jdRWdmBxxaVKcOw+UBDzL+b3GIjeI8u6UY1btaallAVV7d+O/8EXzImeRC0TIPdkMw+YuHkpp4WW/N2DzmfA3QxWjUx0af23MMSc/IL+XQ1XGeDDZHNRlF02IR0uqJkahNjt6BfMjl5hQtBTqCt6XEZzkx7m+dep6yGDF599xGESWGebbDQ3+DgAXzKPropP8dXpD0KSYxqiYn9ymxBDbsaMpeABifEyKU/jdSPAgjozUoSj2yonSSAqNgEGIIrC3ZZAxeEp3ewBOMk4qNPw5YGptV0ssJ+QQ7LCPG/azh3PQAhsE12y9UwIYnswztaGAATJeJYHjJNW9d4UicQMcFlG1N5ZUw3zi3pWxl0Bov+EFzBpjfPziIDnpaFw5rBHziSbD3p/LoXF5VVlczDGaKn0TaFbU+3ECwWHEceMPjGm9ktXipx25/GRgGmZqyB0mt76dAjiIkYT0pZhHih3W3yZlPC9b374otEvxuzE6tGazA==;jYjxlImBQ550XNqrtRrkHQ=="
 ---

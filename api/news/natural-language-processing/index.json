@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -469,8 +469,8 @@
       "title": "Facebook’s new polyglot AI can translate between 100 languages",
       "excerpt": "The model, a culmination of various automated and machine learning techniques, is being open-sourced to the research community.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/?itm_source=parsely-api",
-      "originalUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/?itm_source=parsely-api",
+      "webUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/",
+      "originalUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -503,9 +503,8 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {

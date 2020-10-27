@@ -20,17 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Artsakh women protest outside US Embassy in Yerevan, demand recognition of Artsakh"
-    excerpt: "Women from Artsakh, who had to temporarily resettle in Armenia because of the Azerbaijani-Turkish military aggression, on Wednesday staged a protest outside the US Embassy in Yerevan, calling on the United States to take efforts to recognize Artsakh’s independence."
-    publishedDateTime: 2020-10-22T11:37:00Z
-    webUrl: "https://www.panorama.am/en/news/2020/10/22/Artsakh-women-protest-US-Embassy/2386111"
-    type: article
-    provider:
-      name: Panorama
-      domain: panorama.am
-    quality: 0
-
 secured: "05RKKRU/idqFFXN07+dJRz25/cChj+29IXAWxwZ9fp/hWAd63ywzLQ97sJmgju1pMvO4UH32u5F6cj8XEa3T+Kr+y+q/Temr4TMhdZO9ot7dz/gNbGhxqbVEKSSIPxk1u3rpTAXrR0tDCbxiswTjAgzIaZQAHD1JPLwu3O3plTtx+zrrDdfLMPT7iqqm+sFP9gZWhMU8XRXH7qJRSx5gc5ncUeUajJJKZWJrWSYIAc+qzi5a5M1vA5kjw+7JZ4OACRJIp9ggEZXOwM/TWWIqkiKj2irhkTwx0BGpX7zgzqOpKTe7MCoPztQ+rR4Utg953gnQB/KQsrmC1liAZyHmHqdFyslEm/ra/UnoJdNyKcxxFgMEolzTWgfobziY9zTwyg7K9epNEwzxAgIgOwYyD2nulqoznoXXE+D01DPY64CyvvPS0lH0TUHueq2YI5YFsd9XyAkPMqKyh1PZz6P+rYLE60ZYmg/K7vWe51NbMldJw7x5WlEuNnHBR06O84g8pTLXH4YNBo3UDjFsWz2M6w==;lFBK5lX4+lA+iJ0xIIr8Ng=="
 ---
 

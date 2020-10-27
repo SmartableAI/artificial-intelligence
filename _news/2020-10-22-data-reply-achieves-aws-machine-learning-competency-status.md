@@ -1,22 +1,27 @@
 ---
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
-excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
-publishedDateTime: 2020-10-22T07:30:00Z
-originalUrl: "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/"
-webUrl: "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/"
+excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ..."
+publishedDateTime: 2020-10-22T07:35:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
+webUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
-secured: "F2YorNwpZlb5I/NQoZ47EutGjHCBj/fh4EW42OKnAytn1gMNkvt7JGtubJA7fK8AlJ58IBgTaMTbEN03jXiiB2uJ9UXsK3JvtIymT5tWTCTNcjxBwCmpvAFmMsqaNRBZRzrWb4FjuysG/h7TGT7/FsGSQ/PmbiXBuwhd2Hdltcs7wH3D+gGLSrzqWwWAVq8RqVMjF4iKZYM7e0BnGKLAD+h9asGRSo3WV7bQzg7yANeETuZY1G1U3MseriHFveJVdOnTM4XgLg0VYz/OIw99ZXUydRniAU8XfE1H6ddmGySN440b+hqEDC87jrl1dvrU8NomDUca59wbEc/tlxJzWyh7UuWv4bcohnlqFX4L3fE=;+7iV7eZatOkCbC59NpaxjA=="
+images:
+  - url: "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "YJOIcX9nPfAkjmi+BB33KP5S5TZj50PpHOo36fYUFytZnZuVk6wYVjP/JElb7B8nXAcBbZRiE78UcNG48ylutUxjGJLbt/Fb9jUyJTYHXA7WH8RsCgIzDCJ5t+YR6cPosSCqxRDXxYqY8RF6ymj3GYgEufl48HCHxS1gG4EX04YBU0hg9ONpbHcKFtk5u978j6euBIzcwj0HEs2xsZ2v0k2Bw/ZkIFRNXoR01sx66WgzK3aH2PhInk+XuaGaVfXwOgIpzdpYxSQwfpqij+EeiJtG66ejyp2JgCn8IOdNpWIKIJdMGumZw2nbPatWFHFUNZcY0NbI91cCFgPA8Al1384VL3wWfGQDwKldJlFSOZ0=;RSX4sQahf+jbdFbbki+L8g=="
 ---
 

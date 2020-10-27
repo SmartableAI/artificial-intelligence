@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Microsoft develops new machine learning model to detect password spray attacks"
+    excerpt: "Microsoft has developed a new machine learning model in order to autonomously detect password spray attacks. The model has vastly improved performance compared to its previous heuristic mechanism."
+    publishedDateTime: 2020-10-27T04:56:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 102
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2015/04/shutterstock_222320305a_story.jpg"
+        width: 760
+        height: 506
+        isCached: true
   - title: "With 25 years at Microsoft, Mike Tholfsen is old school — and a champion of education accessibility"
     excerpt: "Long before COVID-19 thrust how we teach and learn using technology into an uncomfortable spotlight, Mike Tholfsen was imagining the tools that would make learning more inclusive and empowering"
     publishedDateTime: 2020-10-24T03:30:00Z
@@ -127,20 +143,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
-  - title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
-    excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge web browser. Like its Chrome and Firefox counterparts,"
-    publishedDateTime: 2020-10-22T13:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-communication-technology-media-mobile-media-application-software-7df5a93e21384e02818f60908ae616ab"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "UcPJ1NWpaNIdmxAv4Z/k9F+axzGfpV85SLr5bmbl+9j1aXp5FaLQ69g6nfqCS61BKjVxnyvaBkF7QnwvVU124M4j/qApQXtYTUjZCnSzXX3OV0dhosBly74Kemq8WAIoW0el22s6NNztlnh0j/l6f8t9hJeSPNi+nyVBLIMVW8f9XxkbE/8oAMFREPwdbACyshzG8H6cnsBJsMz0xwoGq4o4h62DY0G1ttwu1ysOaGrHNd4VyeTCdG4B/jjTCPJr71HGd6JniSSPpMT+HUkw41i9fR4lO+GGt7Lm9TqW73apB6lc3qwcIHINpgOlP3xclkrsXK1qFXn9FjOOLxYvidH/fUYfyMaWMRAT/bHubA50cM9HmVq9qz/UurLE1riZyh7ZdnO7d3VTLVkKQCp7zW6yoP340HH1Ko9qzYmXVI2641hzZpO7kDDMDYOiUytoGos3Lt4YlZrz4Gd4s4CXo70IN7ZEoKy8bb/0Ax4Q8/PXHEaMU6uVlWijUhZSo0jeDy6uhCEC75uA0ahnpe1Ymg==;k7MQKP2EI/C1cEMPfgF1VA=="
 ---

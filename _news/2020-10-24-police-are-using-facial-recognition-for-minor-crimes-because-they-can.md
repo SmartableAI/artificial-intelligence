@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/police-are-using-facial-recogni
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "CBSE Introduces Facial Recognition For Accessing Classes 10, 12 Documents"
-    excerpt: "Now, CBSE students will be able to download their digital documents from DigiLocker without using AADHAR and phone numbers."
-    publishedDateTime: 2020-10-22T12:35:00Z
-    webUrl: "https://www.ndtv.com/education/cbse-introduces-facial-recognition-for-accessing-classes-10-12-documents"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 38
-    images:
-      - url: "https://cache.careers360.mobi/media/presets/860X430/article_images/2020/10/22/digilocker-cbse-result-2020-date.jpg"
-        width: 860
-        height: 430
-        isCached: true
   - title: "CBSE introduces facial recognition systems for accessing digital documents"
     excerpt: "Using the state-of-the-art facial recognition system, the CBSE will enable students to download their digital academic documents of Class 10 and 12. This computer application matches human face from a digital image already stored in the database."
     publishedDateTime: 2020-10-23T04:17:00Z

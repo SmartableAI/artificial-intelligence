@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Microsoft develops new machine learning model to detect password spray attacks"
+    excerpt: "Microsoft has developed a new machine learning model in order to autonomously detect password spray attacks. The model has vastly improved performance compared to its previous heuristic mechanism."
+    publishedDateTime: 2020-10-27T04:56:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 102
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2015/04/shutterstock_222320305a_story.jpg"
+        width: 760
+        height: 506
+        isCached: true
   - title: "C3.ai, Microsoft, and Adobe Combine Forces on C3 AI CRM"
     excerpt: "The joint solution offers an integrated ecosystem that empowers customers to take advantage of leading CRM capabilities along with an integrated ecosystem with Azure, Microsoft 365, and the Microsoft Power Platform. In addition, C3 AI CRM leverages the ..."
     publishedDateTime: 2020-10-26T15:49:00Z
@@ -130,20 +146,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_microsoft.png"
         width: 1280
         height: 719
-        isCached: true
-  - title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
-    excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge web browser. Like its Chrome and Firefox counterparts,"
-    publishedDateTime: 2020-10-22T13:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-communication-technology-media-mobile-media-application-software-7df5a93e21384e02818f60908ae616ab"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "Rs2M1xbuHdeStxyBycHQYcgA4cVSA4QQVQTtqYbugPYNoumVvvMqGYqqRrT0AepnNZXUBVBc/2ibLlcV6/tOaBf80Vkzyd5SkrVHBP7lVebHaSushsDY8BSTv7YWuRJ2IO2F9qpsB58LNghoPtSUuhAotNqDqKW3JuG/ejrOU3XA4cNreHylqGbZW7O3J90A5gdweE13mgu/2m6RGWkIqGDY8IT3811sO9NCcc7AxPGXUI5eGa9vUaT9ioHcySrll3JXpk7a7gzm5EyZi6RAJmYxKTTT6SKDTumpGAHWOf9Opz/ksv8N5U75XqF8xXlYOJgsIs1e3M4JeTJaOHPfWfeJSnreMu5RcNocoM1lafuoxl9/gy/0Bha5AkPc0Zwt97x+0SKzmAH1N/kYitExL5171FjceZlZ5cDOBj1TJiR9T+g17+Vl65axepSDW0eK8KBwYHiUGhkt3i8kEGosxL/UrAplJb1v6W4o4gRjSqAEw9dHfMA6F3lhpkkdnyhChdbnQESsAUGpr5fnS2OFfQ==;6Pf9J2799Sp9msXG1vgRtg=="

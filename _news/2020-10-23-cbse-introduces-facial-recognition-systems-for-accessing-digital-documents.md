@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "CBSE Introduces Facial Recognition For Accessing Classes 10, 12 Documents"
-    excerpt: "Now, CBSE students will be able to download their digital documents from DigiLocker without using AADHAR and phone numbers."
-    publishedDateTime: 2020-10-22T12:35:00Z
-    webUrl: "https://www.ndtv.com/education/cbse-introduces-facial-recognition-for-accessing-classes-10-12-documents"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 38
-    images:
-      - url: "https://cache.careers360.mobi/media/presets/860X430/article_images/2020/10/22/digilocker-cbse-result-2020-date.jpg"
-        width: 860
-        height: 430
-        isCached: true
 
 secured: "Tiv7wtIWdgdMvqrSq/YBSRzO6mSvaeqf6QJwYfeJjgBWM9x/8Sx8dgL7p9srTC7cQbEMQMEt/Rr497kqi1gKdKZ+3dIZyOyelCyaaVbEPf9bMbysRm7OUa03b8Tmd2LbWNtGP6fpuU+ccgggJrwG1cPQwSJtQLQ/Pdx6TnNtsZvSyCgU+L82SZKwDuUHnXeSAwMmtLUApuIWyqvVd3aM606pzhQMpyU4XaW1GUP8Rs+tJMOtTBCO8iGn5uc3pJ0/UBGS1fe9wSXoXDSlGwjU4tZH7y9YDhdufIVvTymdQeNYM82UMiOx/rqcUpURzEzyS3baMPrA5Nd/XWlbyjfccqJbP6v4MFHTF3AsHXphooY=;pySQdyKvbejEJBFf1ewALg=="
 ---

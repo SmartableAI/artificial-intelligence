@@ -310,24 +310,33 @@
     {
       "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
       "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status.",
+      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ...",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/",
-      "originalUrl": "https://www.financialbuzz.com/data-reply-achieves-aws-machine-learning-competency-status/",
+      "webUrl": "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T00:30:00-07:00",
+      "publishedDateTime": "2020-10-22T00:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -337,10 +346,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AWS AI",
         "AI",
-        "Machine Learning",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
@@ -1107,8 +1115,8 @@
       "title": "Is Artificial Intelligence Closer to Common Sense?",
       "excerpt": "Intelligent agents lack the common-sense knowledge they need to reason about the world. Traditionally, there have been two unsuccessful approaches to getting computers to reason about the world—symbolic logic and deep learning.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
-      "originalUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
+      "webUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/?topicPageSponsorship=1179&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design",
+      "originalUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/?topicPageSponsorship=1179&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1142,8 +1150,7 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {

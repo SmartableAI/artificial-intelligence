@@ -38,11 +38,11 @@ related:
         height: 428
         isCached: true
   - title: "C3.ai teams with Microsoft, Adobe on joint enterprise CRM platform"
-    excerpt: "The joint offering is a combination of the Adobe Experience Cloud, the C3 AI Suite and Microsoft Dynamics 365."
-    publishedDateTime: 2020-10-26T17:40:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    excerpt: "along with combined industry and technology expertise, to the oil and gas industry. And in 2018, C3.ai announced a strategic partnership with Microsoft to use Azure as its preferred public cloud platform."
+    publishedDateTime: 2020-10-26T22:46:00Z
+    webUrl: "https://www.zdnet.com/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
     type: article
     provider:
       name: ZDNet
@@ -59,20 +59,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 81
-  - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an"
-    publishedDateTime: 2020-10-22T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/522775/Congruity360_Logo.jpg?p=facebook"
-        width: 2695
-        height: 1414
-        isCached: true
   - title: "Cognizant Acquires Microsoft Azure, AWS Industrial IoT Partner Bright Wolf"
     excerpt: "Cognizant acquires Bright Wolf, a Microsoft Azure & Amazon Web Services (AWS) cloud partner for Industrial Internet of Things (IIoT) solutions."
     publishedDateTime: 2020-10-22T13:45:00Z

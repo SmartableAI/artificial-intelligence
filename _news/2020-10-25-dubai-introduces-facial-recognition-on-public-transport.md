@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/dubai-introduces-facial-recognition
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -165,17 +165,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "CBSE introduces ‘Facial Recognition System’ for accessing digital academic documents of Class 10 and 12"
-    excerpt: "Central Board of Secondary Education (CBSE) has now introduced “Facial Recognition System” for accessing digital documents."
-    publishedDateTime: 2020-10-22T12:34:00Z
-    webUrl: "https://www.hindustantimes.com/education/cbse-introduces-facial-recognition-system-for-accessing-digital-academic-documents-of-class-10-and-12/story-XmoqbgNRCeVD9X91zzxFzM.html"
-    ampWebUrl: "https://m.hindustantimes.com/education/cbse-introduces-facial-recognition-system-for-accessing-digital-academic-documents-of-class-10-and-12/story-XmoqbgNRCeVD9X91zzxFzM_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/education/cbse-introduces-facial-recognition-system-for-accessing-digital-academic-documents-of-class-10-and-12/story-XmoqbgNRCeVD9X91zzxFzM_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 23
 
 secured: "lt6/xaMLFf6Uah3adLaUN0TBO0gm3Dvd5rBG/shybwRg1NzyJcy0hGg019YjaBkkDW5iLPS0Ub/CpZiQNSI0egaxfUVgN4eVcG068uLd5IUQcU6AgGi2i+G6qFP3O2/xuo4qlGiC8DbiGMZ2TS7CKCMACbrksFpaAPePJtQtuBErPYfcdTxFZM7RZANgadooGZezScRDeoxfaSiFkTLWKrWCQBAMBzDiCHtrPdGEIre++S046uLiT7QRuCqwOBcBk4GWloMCquiVN6tSGwt1LC+AH8O2DVQafgH32EtemB5sZK1mmJhYQqxMHJ3NfgBJOURWIw/Hli1Eg+vYWMp2w4TD/IGuQzaMyXLnsmR8/QM=;NIllQpTgbj0M3JdSX9TLfg=="
 ---

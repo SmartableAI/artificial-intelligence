@@ -24,22 +24,6 @@ images:
     height: 2960
     isCached: true
 
-related:
-  - title: "insitro Strengthens Machine Learning-Based Drug Discovery Capabilities with Acquisition of Haystack Sciences"
-    excerpt: "Haystack Sciences, a private company advancing proprietary methods to drive machine-learning enabled drug discovery. Haystack’s approach focuses on synthesizing, breeding and analyzing large, diverse combinatorial chemical libraries encoded by unique DNA sequences called DNA-encoded libraries,"
-    publishedDateTime: 2020-10-22T12:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-biology-c703881d900941108c123c2022f9217e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "0Q1wf1EhOKEXvg9RzcxkhOvCfMjANdJMWqsjEu+agtfsn4VtaVhDDQn5OlTwrxNs2OpfdcIQoHV4zCdf+wwE+S2JiCw7KCoM6O6YtA5yXcZb/FTJqGEw2DSuN+JCg52NVwYn1vj8KML6bwdkXwoa7SE1yMZno8BhZEJKddBllzW8EIgbRwGcRbtSJAO+TB+ThoY9YSYfBNtzqqMOcYtFg/NX69op4Mt42a4nfBafsehfAXqRyrxkJNDejwwI4JI2LeR+X1vQjUxXfYv/95FyXsvygPymhGqqB3hvqLLGI9nPl87qCSavqQnRrFXgBklW2LN1aXOXemUJe++1kU15oB0mcCV1apcJKQ02BUX5GEw=;ZgI35Me89Gn8jQUkvL8mUA=="
 ---
 

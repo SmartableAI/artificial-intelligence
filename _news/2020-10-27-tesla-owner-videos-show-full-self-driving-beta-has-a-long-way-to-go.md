@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full-Self Driving beta lands, but it's about to get more expensive"
-    excerpt: "The FSD beta will roll out to more Tesla owners as early as this weekend, according to CEO Elon Musk, and a price bump's coming."
-    publishedDateTime: 2020-10-22T13:05:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 103
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ beta is here, and it looks scary as hell"
     excerpt: "Or as Tesla warns in its introductory language, “it may do the wrong thing at the worse time.” Frankly, this looks terrifying — not because it seems erratic or malfunctioning, but because of the way it will inevitably be misused."
     publishedDateTime: 2020-10-22T19:25:00Z
@@ -472,6 +456,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "So-called 'Full Self-Driving' can control a car on city streets"
+    excerpt: "Driving' option to $10,000. The feature allows a car to control itself on most roads while the driver stands ready to take over if something goes wrong."
+    publishedDateTime: 2020-10-23T11:37:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/tesla-raising-full-self-driving-price"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/tesla-raising-full-self-driving-price.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/tesla-raising-full-self-driving-price.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 44
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202010/1571/854081161001_6203885162001_6203885048001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla Begins Deploying Full Self-Driving Beta To Select Customers But It Is In No Way ‘Full Self-Driving’"
     excerpt: "This week, hardcore Tesla fans got complicated feelings in their bathing suit areas as Tesla announced the limited deployment of their new Full Self-Driving (Beta) software, which, based on the name and the hype, sure sounds like it’s a fully autonomous ..."
     publishedDateTime: 2020-10-23T03:02:00Z
@@ -608,6 +608,6 @@ related:
       domain: seattletimes.com
     quality: 27
 
-secured: "u1nPY0iKZzRMga+/SOoKUTE2xJjDv4eNC1yG29JP+YAzJjYgKjq87l73LS4jHAbU+JLfDkVzy3LNvpSOw0nAyyr4gCLzWSRPSgpzBvhljYchxttqSewO08K+40VUbe8BMnaOEU2RZXwKsx5wt07m4TmU7l8uuRYvRvYhsd2sk6Jp3ysFsTwd4CPs8jktqm+EI/yz/wsBJ6a930Ox8QQ+UJL3UWrOMMNBjYbyPzdFLBUuqEyzAsuynjOh+0WAgHMGrs7ZRgLbjZe8LuBLSq6TswPabreBPSG4eH/a2bLYKdLHsGpTPadg5qDgHbIv/yUPhGW1o5kOWeonYVjVB8dbB2bqkIDD+MccVbLIKUjbtOk=;5VfAZzcat72v8C8UIVhQZw=="
+secured: "wfEwv2GUmyPBd31K6eML0PSxWfY+maUfl6dXjrR3Ag+6Go/EUenOOnpTxAvh9JswOTnzHz9YLlpo/aKj1ZSFAxmAmP6DLaL68yLsPj/EgSXE+N2HJkay9RR1g/CJkizDzZwl44HU1qw6rtowl516zj26kjEobovW/GkEunH+yO+J6+z3A8As51DqCl8RafMBpyP5g2EB75O8FWpQ2uJR2Kc2rCbZZh51swXOVIeB5KfSkITgTexeAwNUN7lvtOzfEw/9hE4FDFaaeFMbHPTI/Q/pISt5pFDYt3f0x9FBJ2CYrJBOgFZH0Z0GsV6La29S+s96Cix91iX0ZzKmdv91zfKzvA8JNYeVn73OBuB5nbxtmE9VlQsuFqEpU1yPJ1cnAjEdbcAN4WNmCBjM02pYSs6QjOT8rPN57/hT1PEYFOE3ODfcR0idz5OndtpRtQO5lSLPYvkFEmZRJ4965zqcbfGg3wtJvQrGoVe9FyOuSvQMAnF7FFelQAdhsYRVuDP52xRzU8188qgwCZDhj2lDdw==;eBF7jU3rR0dCS3qefaE3eQ=="
 ---
 

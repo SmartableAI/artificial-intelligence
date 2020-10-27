@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/how-to-bring-ai-into-your-service-and-support-organization/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/10/4944270.ashx?h=500&w=878&la=en&hash=BD039AF4149872CB15744860B33582D4DF93FD68"
         width: 878
         height: 500
-        isCached: true
-  - title: "Survey: Majority of Financial Services Organizations Plan to Invest in Artificial Intelligence (AI) in Marketing to Better Connect with Customers"
-    excerpt: "Powered Copywriting technology, today released the findings of a survey targeting financial services organizations, highlighting the importance of brand language, while emphasizing difficulties in being able to generate high-quality content and an increased focus on artificial intelligence (AI) to alleviate these challenges."
-    publishedDateTime: 2020-10-22T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/survey-majority-of-financial-services-organizations-plan-to-invest-in-artificial-intelligence-ai-in-marketing-to-better-connect-with-customers-301156529.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/1316535/Phrasee_Infographic_AI_Invest_Financial.jpg?p=facebook"
-        width: 5157
-        height: 2700
         isCached: true
 
 secured: "d88Ctqzzd9pObvgvqtVCxt3w8A6c/rCXRhoYipcmhYNaP8h1Q61DSAw3IwquSPi5uJafccZv9ZvH+YM7BNHskqrAIZ0rNnqU/d1uM+v7znXFP1qUfPsIMCl/yVZni6YhNBBli+RUaWz9UtXX+MCo4lqmtYSXx1xRq/SQIaKqtkECpEmbkaC//2WuGn0yEeeH0pHE2GFa12XuoT/vgo4a3gualb8I1pd9gm/lg8Gz+vD6bucoMKJ+aRpgkc5srQ86qrUYYEsWGitpiRAECHA4hT4cHJXXVPoFsdjKp/2TmCv3xG7xy4FXiVJXKlRj3xkJrAD9xwOzufm7jO4djQ232+h+vCxAoIiBf7AT1AHuxX7TgYMf5P/1NsGHvBBsq7iwFmVSOzR/ClU2jZkLOEHqBix+2rU9D376agRGQRsQZsO5PUgEIA7m7OC8KkjSXbDvSSRVWK/HXnzPOL+PvS6qIlf14zJAP582X2Ril8wT/T4jXsJWNuqdK82N/tarGsA91ImO+EbPlMeiasH+A//VrA==;B2VpR3TL5GJD2AD3R/T1hw=="

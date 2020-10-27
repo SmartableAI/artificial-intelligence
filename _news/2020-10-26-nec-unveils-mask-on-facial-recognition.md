@@ -165,17 +165,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "CBSE introduces ‘Facial Recognition System’ for accessing digital academic documents of Class 10 and 12"
-    excerpt: "Central Board of Secondary Education (CBSE) has now introduced “Facial Recognition System” for accessing digital documents."
-    publishedDateTime: 2020-10-22T12:34:00Z
-    webUrl: "https://www.hindustantimes.com/education/cbse-introduces-facial-recognition-system-for-accessing-digital-academic-documents-of-class-10-and-12/story-XmoqbgNRCeVD9X91zzxFzM.html"
-    ampWebUrl: "https://m.hindustantimes.com/education/cbse-introduces-facial-recognition-system-for-accessing-digital-academic-documents-of-class-10-and-12/story-XmoqbgNRCeVD9X91zzxFzM_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/education/cbse-introduces-facial-recognition-system-for-accessing-digital-academic-documents-of-class-10-and-12/story-XmoqbgNRCeVD9X91zzxFzM_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 23
 
 secured: "OvP+lAQ1Cb38bcHm8xIF07uBD3h8X1/1i0VGsIliAC57dGsHT8vzZBqnofIf0kG9Iie8snnz+76MMtXTW4S4Y4yv5Wxl0cGDQOdUhLJiFT+V0KbPfKtJRvIrPxSxVHW0AEcj7xAFUc8xojCEd465MOmDueiS5FWs38JShtk9qfmm1DNEuhSfxX8KO4SlPgEs3tAzQvm1AOy2nVMIvouh+3nqDVi/c4pMvOfaYUEAhxBXZ5uNdGmNuIzytSe0LsWdmRiE6qSrvr6QmqOcryoGRINYIkRdVR7bAU7DM6MRC0MPmIqDlJ7tiNdySbpPPJmePwZisw8q+EmtJwFxFUPeeQ3tuH9LenEcxppxfNt5SbViWur65YQrlf//T97cYOswpPNLXlG2klce2ZE8YfhhScpDiwflIf08w29AuPlzxqJlWNW49tDN49i0izsJ5A+Fb2HC45b9oJk1IDMf7tmYBgtDqLJvpoGCvesDKZ6690mYuG9prjJBG6ZMZ0rFFO376DcALZWXX88aAnyHOjTmLQ==;bZv74DnzE6PrfRK5SgOWKw=="
 ---
