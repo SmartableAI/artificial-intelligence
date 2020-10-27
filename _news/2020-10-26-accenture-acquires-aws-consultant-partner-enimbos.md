@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/accenture-acquires-aws-consultant-p
 webUrl: "https://www.crn.com/news/cloud/accenture-acquires-aws-consultant-partner-enimbos"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 399
     height: 399
     isCached: true
-
-related:
-  - title: "Ironside Achieves AWS Advanced Consulting Partner Status"
-    excerpt: "The journey to AWS Advanced Consulting Partner status pushed us to gain valuable understanding of AWS and services like Amazon QuickSight, Amazon SageMaker, Amazon Redshift, and more, which ..."
-    publishedDateTime: 2020-10-22T13:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18014673"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "Reo59g9zihTQuQnqzo+9f7gVPgm3CBntQWynuxYpJ/ZpUbU5cpoLNC4wPieMkwe7zFrzkPfAnSD6jXMLlThNmVlaUuq0AiOqxChUnekdNvZtCJzApqKFq6lXmSu8anuxSdRnsZlC7lVVo8/LeBgik4acYkERVNzllHQTnlZLuKTRzAzOkX+95c9PV/cjQdeY0wp33asy/MeyyPR/G57XNfHkriXbbpYQ2JuqwW8Qt+fv7RSIIp05g26iSYoBn3R1Mc/K+2H4DYDvnInHSLzKWHVJkeTwgp12XpHsLLCyg9Rn/Om8YVnOTY+GP9ERvU5PcsJara7DZZSMOhPxH9RDcDM/z/HawddMpcDL702gmVzKpo3YQyZJ0S8dv4uRaWIfG3n9aIQWo1grfNB9wImGaiQqdxh+3tBrhMIioPBpR2SaDBf0oIN5eq9ty1MM5tNlUi2MdsBMMLgzSjb0yQYjVffnW9jB6S8xMzlkI6iViFkQL634BCaH3Y1lQoIKi8B3wXrKaLmrZ6UceG5sn5C3yA==;b8Bmp9ZiyvvzLNbBYwF9xg=="
 ---

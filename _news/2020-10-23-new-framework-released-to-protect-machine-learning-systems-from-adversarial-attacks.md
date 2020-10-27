@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "A new threat matrix outlines attacks against machine learning systems"
+    excerpt: "A report published last year has noted that most attacks against artificial intelligence (AI) systems are focused on manipulating them (e.g., influencing recommendation systems to favor specific content), but that new attacks using machine learning (ML ..."
+    publishedDateTime: 2020-10-27T07:55:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/27/attacks-machine-learning-systems/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 54
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/27085037/brain-ml.jpg"
+        width: 1280
+        height: 776
+        isCached: true
 
 secured: "UCMwb+Ic6ylTgQZB9lhNYg7AGVFgLWZLYi5CxfE+PzWnm8c9xQDp8wPFLXvTlhZHKhuR45i2CpKJc0VY/ki5OH+y6+Ff5N1xdn1qfR7xN4P+KNW2JjgUFPGLcbwnlkfGIlU4Jjtx1UT8jr9q95O+mPG4/5zPGkyoHKjtoLHAYm5k0HS0b5UDp27NhJR6dQu547SM0Gz+xIM1Vk3H/r+l74SK8u/eC5Cb9GpDwLElorSK025/nJ3Y6VQ/mx34JSuz0c5vp2HzNQSHe4kj5Xy8gbpU1E8YsYQgonVtWzxueUdbwpvbajlR8s9fFtIoOQoNG1Xhz6YK8xnR7OmLmonASzel5rtExQPYDNuzJbMOjYCmBlItf3Mei+mGhRBMr6IuvlHYMfagZawiwHQM4sg+R/Rc0uU/4chInXoM4S6lCN3zLwWj1NIlQdUDzpk8kiP55H8n8EU8Sga6scnzQbnZt0+rEqzRvbM+f75XHn/5TPehlGlq6Y5zw9wVf0V3fyJKkbcNZTdlNGw/GSNGzqCAYw==;476yhx5od/aTjW6cJupwsQ=="
 ---

@@ -64,20 +64,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Amit Aghara Joins Fintech as Chief Technology Officer"
-    excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (Fintech), the leading business solutions provider for the beverage alcohol industry, today announced that Amit Aghara has been appointed to the position of Chief Technology Officer (CTO)."
-    publishedDateTime: 2020-10-22T13:30:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-executive-changes-81887d1b1a2303eccaad7af8bd9779e1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "xGVgTGXAhTmdNKANJ9PyGg+KEqF9j8TQFpOvmBIKfMcGglaek212ohuP8aXlh0BHNTUWmAH99khS46fdNHwGfAiHrPIk+E3Hkd5TKcw+fZv+ySPNUNJsO9g/AYQntqmWE26mFRKOxDm1kUbAlhjwA4CanDGjYqNIvkIrhnOH9QmuiYZG5Zrxh5/FXgY5Ic/6RQuYzw11Huj1wm2sLc2BgMM7ICo9Xhi1WC8RG4dRXVSUJCe6q3ReSzR00DEY6tN+fm1EuFr92woAuzEkZUnFsFBb1pix/FVB1WqdZY1u/9Xx7ZAIWkAio4YJanK/Hgges6r/p5mWrpodBdppXc6o1HsGKbxhE+NoMLf79uTOELU=;O3KrgnCfPZEI7SpdGzy/Gg=="
 ---

@@ -78,17 +78,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM is a step closer to developing accurate AI prediction model for Alzheimer's"
-    excerpt: "In collaboration with Pfizer, Big Blue has developed an AI model using speech samples provided by the Framingham Heart Study."
-    publishedDateTime: 2020-10-22T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-is-a-step-closer-to-developing-accurate-ai-prediction-model-for-alzheimers/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
   - title: "AI Predicts Alzheimer’s Disease Years Early using Language"
     excerpt: "Can linguistics, the scientific study of language, be used to detect Alzheimer’s disease (AD) in cognitively normal people using artificial intelligence (AI)? Scientists from IBM Research and Pfizer created a novel machine learning model that can predict the onset of Alzheimer’s disease years in advance based on linguistics,"
     publishedDateTime: 2020-10-22T19:49:00Z

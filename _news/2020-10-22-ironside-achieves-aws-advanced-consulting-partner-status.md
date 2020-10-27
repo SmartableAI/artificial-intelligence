@@ -8,9 +8,6 @@ webUrl: "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieve
 ampWebUrl: "https://amp.benzinga.com/amp/content/18014673"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Benzinga.com
@@ -20,22 +17,6 @@ topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Accenture Acquires AWS Consultant Partner Enimbos"
-    excerpt: "Accenture acquires AWS cloud consultant partner Enimbos as the IT services powerhouse invests billions in its new Cloud First initiative."
-    publishedDateTime: 2020-10-26T15:48:00Z
-    webUrl: "https://www.crn.com/news/cloud/accenture-acquires-aws-consultant-partner-enimbos"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg"
-        width: 399
-        height: 399
-        isCached: true
-
-secured: "+4LsNp4rQANk+jBmumRmrBaXd66gcONce3Oi9DfVkJd4exLNAXHdq39bAsRLd1XEmbNu/0Mak72AVYzubwGyfWQ5Hf0oJ0VP9lhsWIbY2zbi7gHFoEydpN4RXhwuIkjZ2i8MpSC1A7fOGgOxA+G8JQ4opPTNBJybn4I0gbEhK8Ysciih3S8g+AkoerJURLVNewrUsgafmsjGXBXP/Isdoz1+Pqcp/8RDhUv1s+vmMRLQnDtBCYZiZjzzrYoF4z+jTWuoLc4gcBWwYqhuXmoE5hMdz6ECB9T8Dr9PbgyuSHGL8U3iGtel+51BFWmdsI7TSXZMzONDYcajG6rThfqUq71Jn+HMiCxoXXYNhxHgpxc=;cfH/oyExi8FFpmn4iWMQZQ=="
+secured: "8klJzAijCl0da3EFIVKW+M9K5OkPWgVkp5J+ZdxH4RiIhs+LSF36hzm4NKp4gFZw9pZfNlZnJMVqMu42xXjYaMBXD/4pi1vq5vb7PSW+NxXjIKb34ZZNA+nGtDJXCBbmOsIvfQgng9IvZW3fr8E8zXO00WDmyHa+Gxsqqs1Mk0X1FiBFzJ1njxzmvZ7UHUJ7GyVeFBeFi8WpNnmS/zriStVU+GlmtaQrk3wwFxubbXiV+vfi7DHBBxBeKJxORHM69Yv7nn5w5VdIMa2tyPaIgJ7IfjWQoHQR5PTMslrvqIjA4xKs8J5kU1qOYTbSfnx3rDFMQ5k+bFDNKenfz09vSASW8yGTos/dyS/ldQXz4UA=;Efj461WRLW06BRmq7Wnj1A=="
 ---
 

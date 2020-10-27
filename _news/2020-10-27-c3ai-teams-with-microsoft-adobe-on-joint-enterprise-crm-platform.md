@@ -1,12 +1,12 @@
 ---
 category: news
 title: "C3.ai teams with Microsoft, Adobe on joint enterprise CRM platform"
-excerpt: "along with combined industry and technology expertise, to the oil and gas industry. And in 2018, C3.ai announced a strategic partnership with Microsoft to use Azure as its preferred public cloud platform."
-publishedDateTime: 2020-10-26T22:46:00Z
-originalUrl: "https://www.zdnet.com/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-webUrl: "https://www.zdnet.com/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+excerpt: "The joint offering is a combination of the Adobe Experience Cloud, the C3 AI Suite and Microsoft Dynamics 365."
+publishedDateTime: 2020-10-26T17:40:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
 type: article
 quality: 101
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
   - AI
   - AI in Sales
+  - Microsoft AI
 
 related:
   - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
@@ -64,15 +64,6 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 51
-  - title: "Cognizant Acquires Microsoft Azure, AWS Industrial IoT Partner Bright Wolf"
-    excerpt: "Cognizant acquires Bright Wolf, a Microsoft Azure & Amazon Web Services (AWS) cloud partner for Industrial Internet of Things (IIoT) solutions."
-    publishedDateTime: 2020-10-22T13:45:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/cognizant-buys-microsoft-aws-industrial-iot-partner-bright-wolf/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 49
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ..."
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,"
     publishedDateTime: 2020-10-26T14:01:00Z
@@ -111,6 +102,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "SgE1dg2LaTtWKXf9R6ED7gt64727Lbf1LflbdcJVTU82AOPmazM1EpbUQPh+20WkD9Vs2zinD9y0796qIeRq9gRm/c5KwUL9gHfEWbQII2fSN9ivALeXTTz7n7MFfy0qtpC1p/2GsPxqR+2le+dY1j3MOPIesfnhGiCvFUbBoTPuiQ8FBwqtAy2V3SWQu3OPmtOqwDzhRG/VXqU6fKUcf3RJtebam5L38+oKdCsmgWaF4YjoaR8w2LG4+sJJ8YCft9ybgTFT4nfgOne8PmsKyzNQJ4mpVoew2MjWN253AexICPfHKK3ROLAhZbBLi7Og/6YcNS48/oPbTAi0xiQM6Jo1WU4CRIUZIrZDLLze+a3rKRFTDnyjtvhV/bbLKt6t7WDrQQDaVARL3DVhidpohO6HYPcQknZxxowinhIsUUbNaocIb7HeeggssYzJ9BoxtcAJ1/SfNG5zR425kibR1DqzFNkXCgFpVSOIEGcga6dNa9DkefJXKD5qYIqKQRrAOvyyEqDytFzl0nVILz9pNA==;Ngfmgl0EyiFYWCxPxfz9Rw=="
+secured: "EprJqNbRrikU1IobcxeJkWJDm525gABE2XF21NWEB0NH9ZFTG9patFidCDxGgqnvis7eEkJV0ihftDw5g4jtM1cCFSxUrgw73f14dcvKgcGuv9eTsXNont6X2l6KMA2QAW1DRyM+xdxrFDD7nUSATBNbQeBEq4AbDOckhTM1Gu8O9weTRdEogPtTD6JrVh1eUbfVoCc2vXlgOl1ApOvuRA//z5sl1CK2Qw+pbYE3KGIDEmPZSrVsb7dMxTDv+VK4uq5nfFRS8x0U5UFcGSolk7M0YhF9032i966PVlpUPtrwAxy1xMGTgqdey8YEm9JUionk4pf/39dmajEPcQSOcyg6eSufpLEJGv7ewEAvfM14k/Jx9pc61h0oPxZPMisDEELdNDpmcYjErw8WxM64HW7IWfIBPbi7JZid3xZseX8WIZpSUGrxgAsG16kXrktRIC2ZIOwe/3dIqpt8fdKfIeC3XK5QUtgfB21gFhfsVHJEF0NxsSVw5RP49wyh9rUuL9IXEKfABJ+SaIJX2RwbUg==;RnPweZHvReWKSJekI8pd9A=="
 ---
 

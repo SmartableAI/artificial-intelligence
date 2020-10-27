@@ -7,8 +7,8 @@ originalUrl: "https://www.techjuice.pk/cyberattacks-against-machine-learning-sys
 webUrl: "https://www.techjuice.pk/cyberattacks-against-machine-learning-systems-are-very-common/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: techjuice.pk
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "A new threat matrix outlines attacks against machine learning systems"
+    excerpt: "A report published last year has noted that most attacks against artificial intelligence (AI) systems are focused on manipulating them (e.g., influencing recommendation systems to favor specific content), but that new attacks using machine learning (ML ..."
+    publishedDateTime: 2020-10-27T07:55:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/27/attacks-machine-learning-systems/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 54
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/27085037/brain-ml.jpg"
+        width: 1280
+        height: 776
+        isCached: true
   - title: "New Framework Released to Protect Machine Learning Systems From Adversarial Attacks"
     excerpt: "Microsoft and MITRE Release 'Adversarial ML Threat Matrix' Framework to Protect Machine Learning Systems from Adversarial Attacks."
     publishedDateTime: 2020-10-23T10:53:00Z

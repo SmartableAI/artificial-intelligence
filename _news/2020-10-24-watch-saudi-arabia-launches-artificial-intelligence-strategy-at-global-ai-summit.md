@@ -9,7 +9,7 @@ ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/10/21/Saudi-Arab
 cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 28
-  - title: "IBM, Alibaba, and Huawei sign on to help Saudi Arabia's AI push"
-    excerpt: "IBM (NYSE:IBM), Alibaba (NYSE:BABA), and Huawei have each signed a memorandum of understanding with Saudi Arabia's artificial intelligence authority."
-    publishedDateTime: 2020-10-22T14:02:00Z
-    webUrl: "https://seekingalpha.com/news/3624860-ibm-alibaba-and-huawei-sign-on-to-help-saudi-arabias-ai-push"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 21
 
 secured: "XuuC1O82W8P0bYMc/HSl0N/tVQnAfethv9L6h9poPtKhlVXyQzmqVqRx7VnKWV/kSyhsMRJVBJSMnYEHDxN5WNpLerTcSJ+GSaaT3tjPiqr5ysAbTGpDe24x9ysQvyLjTOWpnDF63Ccy96Cv03fAOstUB5EczjByGTzlGW0KXGijHfpjxVE8j5RP/qNDJcQ14WuOJiwt+miEYalibNm6eW2BXvCZJvFm6UwFdOkIyn3Cfx//l1ND8EiK1195IbT/zFNhkZ02/d/GrYyCjFfYICdQryJt+4NhJ8TnlRU6Z7b+H6UtZYGCTNHlzm1LqiWECoO6Bd0I7mL5iqoyUnXlCP6JVct4f/m495RUtMMDhqD/4Pn7czkTJTZykfqJiWSJi66pe3aTtO9PvPaszPgXTxGFPaXmLwSqvT0ANaDe9lYA4VwlyYUMz/OQJJwVu0DplZvm62Bvrrxz9WuNjsi51/N7ODN3SY7mP+ObNOtKfgrqFnqrj4My/j9BRy/MnEXLj2eNEplqnRRRdsZwZ11cAw==;E/T4+I7ZKjHp2zkBOvod5A=="
 ---

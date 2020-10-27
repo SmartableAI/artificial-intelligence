@@ -57,6 +57,20 @@ related:
         width: 900
         height: 463
         isCached: true
+  - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
+    excerpt: "It’s a challenge to learn a new language, especially once we’re past 18 years old. But Duolingo, self-proclaimed as “the world’s best way to learn a language” and seconded by reviewers at the Wall Street Journal and the New York Times,"
+    publishedDateTime: 2020-10-27T06:26:00Z
+    webUrl: "https://www.linkedin.com/pulse/amazing-ways-duolingo-using-artificial-intelligence-deliver-marr"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 28
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQG8ma-s99VPlQ/article-cover_image-shrink_720_1280/0?e=1609372800&v=beta&t=ZQjGHg2B_6PQm8fGRIvYNzN2emKDW8gv-qTLJqCeoPI"
+        width: 1081
+        height: 720
+        isCached: true
 
 secured: "ejw5MkRkXt932ULCGReyOHOFGfrWevhrVg3IRz6gk/Y3jztnFLhQyJIXOmWJ6JL1+lA7/lBT9XFI74UBQLoL802L1B8nfAHRjZ0gTv/hOVrAv9lK+qbkQ2C14r6OsPCablOmJ9dSgEQBUhN05SejPuCKIaErzQd4bnvDkPbEI+QW4kNav4oDJwdpDS9KD4MYsVAaRyn9iKFRgvrN8Om6p2m1Znb/j2yt/ktt5gUWQm5diNT865ccHnUBhkFzJtJs/b99+QHym+xQq85JSmked4dddepwG82n4gKB0FzcG77LCAiABP00wH/lZGyVnTKM+LIBWx48PiaiI2+6+mi8KPtoTK14mkbNvJNO6J1HN+k=;2KcF9AGDyG+tQgLqyMkyQA=="
 ---

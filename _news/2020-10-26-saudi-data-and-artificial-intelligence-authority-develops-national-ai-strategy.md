@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM, Alibaba, and Huawei sign on to help Saudi Arabia's AI push"
-    excerpt: "IBM (NYSE:IBM), Alibaba (NYSE:BABA), and Huawei have each signed a memorandum of understanding with Saudi Arabia's artificial intelligence authority."
-    publishedDateTime: 2020-10-22T14:02:00Z
-    webUrl: "https://seekingalpha.com/news/3624860-ibm-alibaba-and-huawei-sign-on-to-help-saudi-arabias-ai-push"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 21
 
 secured: "D8BaM3TmTdipi7Qhsm4a5wMFjHh6to0g0QcMWULgWPGRgwewU1TYbSyT6OvXaNgYDjxwJPXoksWK/gdBnLawE7/ta49FrRUE2bH31lduY18KfMxs+jRg78QIgjzMCJXmt7ZQNVW3hh+xy464FrEzvg0S7jjKV3VzVXEzGEtn+QznZpGr3D0aPklzl0/N5Z4nIg4Oh0z1veqHeeMw+j7keCPFBnfYtCYrpF7iPZfFKus+rjRFIdnZkUtaHelTx/C78D/G4daPoEUbSwVCiyRiUyLMw4i+xfuo/cQ0m1uIg8ljhG4VGaSFSLRf7ZCuekeimfRDeGi9726tUVMlRWYbcmvzt2s/bIkhuugHwjzIuHw=;UInOHQeXy9mNiVJv0/tthQ=="
 ---

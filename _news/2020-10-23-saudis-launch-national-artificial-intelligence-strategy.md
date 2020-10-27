@@ -79,15 +79,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 28
-  - title: "IBM, Alibaba, and Huawei sign on to help Saudi Arabia's AI push"
-    excerpt: "IBM (NYSE:IBM), Alibaba (NYSE:BABA), and Huawei have each signed a memorandum of understanding with Saudi Arabia's artificial intelligence authority."
-    publishedDateTime: 2020-10-22T14:02:00Z
-    webUrl: "https://seekingalpha.com/news/3624860-ibm-alibaba-and-huawei-sign-on-to-help-saudi-arabias-ai-push"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 21
 
 secured: "HwykZPSv1BOem71uq3aA3+wtASkFKqy5+WqJ2FBcy2pr5xU8fX+xft4P3hXHloz1zbFiGMh9tQTtmSTOCSzIbHdiT6hdzzIGR2LeGowDJw9CkFUdwuExEv5P6HSFh5/+IgaSX9YAZ0zlxrSNRSBmx/YWaTnT5CxJksH0HfCu8ycHPGCd+efARQaC4D6mwQYToLd1Aqh4uYNegjNwCLLW4nWqD9+7Q6sLBwWOVSiH0EPz7orKSSh1NNF3D2O7OE0XyjcD3nNTSnJ8KQRZNnLHzzyYCXh1SS5g2+ugKJbGvIq+GOdhfhpWzzZuYNifqaY1wBjBIg0dXzrmNPpqSPrcqUAnXN6sTmT/4AHcvbtjEPgRiqXjLa5f+70JV7hTeWFwlDrKBpDkrBXnsNYmRCGSXGbQ3wQ59JC8NrmgBiJ0n/TR8sNQ6wcAIANIxVcItYFwbiNkbr6WqjFKYQzWkZARR0L5ZvwSG1rrRCf03cW2MOxrnduqR9+tbEyzG1CexEZEyXF1v1FttPd5ZqHvpDvPkg==;KWWXEvvCvepEezbyO8v8zg=="
 ---

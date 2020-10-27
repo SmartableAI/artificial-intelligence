@@ -80,6 +80,22 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Microsoft Unveils Lobe; Will this Make AI Mainstream?"
+    excerpt: "Recent trends such as decentralized cloud computing, adaptation of GPU for general computing, increasing availability of big data sets, and advances in deep learning, a subset of AI machine learning, has spurred a modern-day AI gold rush. Global investment ..."
+    publishedDateTime: 2020-10-26T21:50:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202010/microsoft-unveils-lobe-will-make-ai-mainstream"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202010/microsoft-unveils-lobe-will-make-ai-mainstream?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202010/microsoft-unveils-lobe-will-make-ai-mainstream?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 76
+    images:
+      - url: "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-10/pic1548.jpg?itok=0guVq1tZ"
+        width: 320
+        height: 213
+        isCached: true
   - title: "C3.ai, Microsoft, and Adobe Combine Forces on C3 AI CRM"
     excerpt: "The joint solution offers an integrated ecosystem that empowers customers to take advantage of leading CRM capabilities along with an integrated ecosystem with Azure, Microsoft 365, and the Microsoft Power Platform. In addition, C3 AI CRM leverages the ..."
     publishedDateTime: 2020-10-26T15:49:00Z
@@ -148,6 +164,6 @@ related:
         height: 719
         isCached: true
 
-secured: "TkU5D4yfZe6fSA+JTdTPPaPj1M7PwVy9jpjoQR4v5wt+b1OwNbeSUTC+t9WbhE12FnkvzUnj0ULA8AL9G9C2cN3aZYHYcLixB+hWyr5WBkdD0JSjOWcuQ/rt3C3U01rXrOPuogzlEFhiLzzNXUbkXuI75jFar9K2tLcSoJJDJwPhbUhEMCZF7KOQw7Q2heDMmDJXCGpm3F6F8kIU1dq3hHZRpbL4Sspc4EP6M9g4YvwdXLOYMxm/GtJSbZroYBTaIopyPMMtWLUDQCHXPy9DRIKguYcegTSV70xiWvhnV6mivT4C9g8xbQNfyj/fsLCty9pRChSOu4cCzqvLeN+iqa1g1b/ttSko1h+miL2quio=;0EUXQX8qJCQub+1OrPbHcA=="
+secured: "BRA/7LRvj6ddeDM5WI0Xq46XRB1Dxi0Cdfe84W7z8v3YVWlzfpCIFicrrXLW2j8ZQqN35k8wItZl1hBtnggCdfCQ/rSzuIUIxH32J4WGM3Nei78kolw9z4oM0EmwU+VuAOvx5M+T2S3NBlnuPXTUd7vOMja8NfhY+vO6Rr8lKo/XASypnrcLLZUpjQDcdMizOsssJTlOIsyhBgvU+y4GOIvlJk6fzUWxqzcvC62fpjDiixy4PRm7WPRXyp9q9SRkf/sWbJkEbkS6M1pUPpGEKxCG4+RUHvna5utDN9sPS/1qKHpHpyVQw7La4iYyBJQiKj/WS7j5z1VKtYQ69FFxO4j0/5pJQiSsGGHdNOnetrKtUmxDgVi/ryEXuGsySHybqnpCB5JQcct6nyOG+tlfizHg2dSw1TmmwOSVdjWP8dsLA8Oq0U9Ho0ETXhS/jFGzoKuc+4k7DYYbPr5/IwYrtSQtOBdWKUzmGr7Z56gI3e0DOXb3lNMdnq8ERfI5qnOAQCldAuZ/pIMgl8D3R1WPMg==;AdZUelvUZ9J9UkSatrYeGw=="
 ---
 

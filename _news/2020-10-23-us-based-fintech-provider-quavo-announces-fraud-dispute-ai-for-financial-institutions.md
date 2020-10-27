@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-pr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168287-u-s-based-fintech-provider-quavo-announces-fraud-dispute-ai-for-financial-institutions/amp/"
 type: article
 quality: 50
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Amit Aghara Joins Fintech as Chief Technology Officer"
-    excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (Fintech), the leading business solutions provider for the beverage alcohol industry, today announced that Amit Aghara has been appointed to the position of Chief Technology Officer (CTO)."
-    publishedDateTime: 2020-10-22T13:30:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-executive-changes-81887d1b1a2303eccaad7af8bd9779e1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Jumio rolls out new video-based KYC, deployed by UK FinTech Ebury"
     excerpt: "Jumio announced the launch of a new video-based verification solution for financial institutions and other regulated businesses."
