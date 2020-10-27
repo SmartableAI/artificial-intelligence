@@ -2,7 +2,7 @@
 name: "Aptiv"
 overview: "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility."
 type: "profile"
-heat: 211
+heat: 77
 
 website: https://www.aptiv.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Aptiv"
   url: "https://twitter.com/Aptiv"
-  followers: 16784
+  followers: 16783
 
 locations:
   - Dublin, Ireland
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Aptiv"
 
-secured: "kH5EHNIf34Vlljhv8oXfWICPU20YEWfweMPiTZ+2nE8nbDdXmiqr96VCBr1iMV8/AplwWcXo4EqL2dE8uoeNEetlZHDmXFadfIpOX+sCL4Q7YMxPzn8VYC5GjP/yfrKnaydohv9DaRRVVIcMIuntQgvll5Uub3YXqhm2I+tSQtVBpnhX1Isd2ML3ZB65W2b+giznHdIe882Bto3rSdFEVwaS75M6tfyCRsNJAlYvGVRBCM8uHSgDXN+K2Ov0APmMLo2CflWxLaQjpo6Jahj/PyteS+n4EdG2Meu0z6hhDoo7Jb7EV5iYL+ndsm2b8tEoUDG6d7ljiUBwF50c9gSPS4lPCUjqcnbLTECjorghTSNMIEM17lIDNV29FCkCGgpn;07ozS/+MEemlvFSFnch7hQ=="
+secured: "hlEp3JvbtZCiH8BLcGKdHVr8W08OQjcPRtC0alcx8tj2bjx72s4pYU/3p0XSBv9ZVgFTjYJQpRGe9eQBuP+BmiyQXL/fSSVcTgox4r12PToPu8bFS9SwB7ddk77URxxm/kABzQi2cMF5Fi1+GIokcAf6Bc+aDmjv4HBMXWavDOjjQ9BYa4KK1/o07zWk/k5BlWSf/BtMeI1AHt/+S0UP+l8GOgqZLkO4rRdNXEdXGi/wD+bK+AuXz8DaOj7UlRv2e1paQ27kfu6L7JEH14k4RzMEtxrqjhD98thfYtdPs4He6wn83/D2DrCs6Oh79NsM66hWlqL5DRw/h/qZx23T0DJ2LytIphg8+28MLK50MZ+F2uDfbsNDYmmiDi5SsWjYjrQnbGIzFyvcZQCUEhRXcEQcv+UIFZ9OfgzY1Sy+J38=;jPFJZSazV8m9XNL8PMczRg=="
 ---
 
