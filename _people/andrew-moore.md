@@ -10,7 +10,7 @@ website: http://www.cs.cmu.edu/~awm/
 twitter:
   username: awmcmu
   url: https://twitter.com/awmcmu
-  followers: 5877
+  followers: 5879
 
 linkedin:
   url: https://www.linkedin.com/in/andrew-moore-016b751
