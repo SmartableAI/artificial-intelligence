@@ -42,6 +42,20 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
+    excerpt: "The purchase will also deepen Apple's AI expertise, with around 50 engineers and data scientists joining from Vilynx, and the startup's Barcelona office set to become one of Apple's key AI ..."
+    publishedDateTime: 2020-10-27T23:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10-1029729829"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/5f59078de6ff30001d4e7c8e?format=jpeg"
+        width: 2588
+        height: 1941
+        isCached: true
   - title: "How AI Helps Amazon Improve Sustainable Packaging"
     excerpt: "Artificial intelligence has helped Amazon boost sustainable packaging options while slashing waste, but there's still room for improvement on this front."
     publishedDateTime: 2020-10-27T07:25:00Z

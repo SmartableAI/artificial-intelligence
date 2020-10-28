@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/us-military-tests-we
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: TechRepublic
@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning helps hunt for COVID-19 therapies"
-    excerpt: "The group already has one machine learning model at work in the pandemic, predicting consequences of mutations to SARS-CoV-2. Now, Wei’s team has deployed another to help drug developers on their most promising leads for attacking one of the virus’ most compelling targets."
-    publishedDateTime: 2020-10-24T05:26:00Z
-    webUrl: "https://msutoday.msu.edu/news/2020/machine-learning-helps-hunt-for-covid-therapies"
-    type: article
-    provider:
-      name: Michigan State University
-      domain: msu.edu
-    quality: 39
-    images:
-      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/2020/machine-learning-helps-hunt-for-covid-therapies/protease_banner.png"
-        width: 1400
-        height: 600
-        isCached: true
   - title: "COVID-19 Is Redefining Healthcare Innovation"
     excerpt: "\"It's kind of ironic. Data and computers are helping deliver more personalized medicine,\" says Dr. Andrew Masica at State of Reform's North Texas Conference."
     publishedDateTime: 2020-10-26T14:18:00Z

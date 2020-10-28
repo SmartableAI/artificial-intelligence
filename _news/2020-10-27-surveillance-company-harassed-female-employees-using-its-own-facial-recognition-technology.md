@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/26/21535089/surveillan
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/26/21535089/surveillance-company-verkada-harassed-female-employees"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1400
     height: 933
     isCached: true
-
-related:
-  - title: "Men at Facial Recognition Startup Used Its Own Tech to Sexually Harass Coworkers"
-    excerpt: "Employees at the Silicon Valley security startup Verkada were reportedly using the company’s own facial recognition-equipped security cameras to take pictures of women who worked at the company ..."
-    publishedDateTime: 2020-10-26T19:23:00Z
-    webUrl: "https://futurism.com/the-byte/facial-recognition-sexually-harass"
-    ampWebUrl: "https://futurism.com/facial-recognition-sexually-harass/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facial-recognition-sexually-harass/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 54
-    images:
-      - url: "https://wp-assets.futurism.com/2020/10/security-company-used-own-facial-recognition-harass-employees-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "u7bxyHNCZWa/7AnKUkGwiDzvogsmfWQQD50qGh0QaNa/p+G04qmIOnURUBUk3j7AX0B4AIMwMxPQbwYZko//JArl21lrM4pQD/Oy+pYi7qV4TK5YVd/jGGA5UBzYCkS8+l4KEmLiAaBxZYoq90dv+ltETwm4vRAiAwkPxqIrRghKBK4sZMV53lR02ogQ1pF2FvMlcFwPt0uVQRazHa+Zi5VxBzsjOmlz7SbvjnZhkuKuC1g+cJGxBljmgwWcFlbXWz33VrbwoiTnNnrRfTXsQTWZAqX2/lyv0+W9t+lmp5f7zu3OUaJhpJ5a0NxOO2G8OvEUz1nRuHNQRN33DUC+zXqhRp+QALOHTl3AYWjbQHC4GyjZ/68qWJcp0mkmuujrGjHq7+t9f7MFX0UmrA0urMSJTmOJkxMUg2VK5379QS+yVp6TrGKZYC3eq73JZgkWiOapvWiYjS6fX6Gd5hiA4zfSV4ims9I4OyIvEDQ+RRpEP9cLKulzp3IUcuZF4aqZIp3it7DzTXwGTvy3ZLZA7A==;lXtU6c0VUAxbT17rZXyEaQ=="
 ---

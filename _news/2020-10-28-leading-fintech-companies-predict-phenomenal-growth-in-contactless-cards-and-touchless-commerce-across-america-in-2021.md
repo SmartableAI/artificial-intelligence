@@ -1,33 +1,40 @@
 ---
 category: news
 title: "Leading Fintech Companies Predict Phenomenal Growth in Contactless Cards and Touchless Commerce across America in 2021"
-excerpt: "Stock quotes by finanzen.net PHILADELPHIA, Oct. 27, 2020 /PRNewswire/ -- With brick and mortar retail, hospitality, sports and entertainment at a standstill, many business leaders, owners, operators,"
-publishedDateTime: 2020-10-27T17:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/leading-fintech-companies-predict-phenomenal-growth-in-contactless-cards-and-touchless-commerce-across-america-in-2021-1029728658"
-webUrl: "https://markets.businessinsider.com/news/stocks/leading-fintech-companies-predict-phenomenal-growth-in-contactless-cards-and-touchless-commerce-across-america-in-2021-1029728658"
+excerpt: "The event will bring together eight pioneering companies whose combined reach spans across multiple countries and services millions of consumers. This dynamic group of leaders in the payments industry are disrupting the ecosystem through touchless commerce solutions and innovative technologies."
+publishedDateTime: 2020-10-27T17:00:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-virus-outbreak-financial-technology-lung-disease-8cddee96e8eb876a239ab0fd6a276c32/gallery/dd1c4270bcca21f4ee1e100a34beca64"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-virus-outbreak-financial-technology-lung-disease-8cddee96e8eb876a239ab0fd6a276c32/gallery/dd1c4270bcca21f4ee1e100a34beca64"
 type: article
-quality: 30
-heat: 30
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1321255/FreedomPay_Economic_recovery.jpg"
-    width: 400
-    height: 223
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "G1nQMd6ZXf/mk/ZEeroYJuS5MP8hBhCGNoR5gkmu8F1GcMZQGYWmRo7AxAu41O3LvsIV0fjdSiGkSyY5AQ9p5wHlUwW6NxvbNZMKSWejCuFyOf9q2oq3fD8T57Z+h1UmZTxAoQOoDpl58lCri7kSiF2G0HkFmYFHUV4EEwamEPX3oaZDnlYrZ9UIJgToj+CgZGone6o61x+4uzUckO+zw9Lxk8ppjfNAVd8tmq1jcG7ng5H8vJbnphKcUORvkj0XRLo8dL5m0XYOgYmEyDjsHQQMwM2X3F76dO4d3sYe8zHBr5ECq2xWtRxt8vltbNXKlc2imTIARiHGueDZvXla1YIQsF+hK9iT8SeDqFrohHs=;1755/1T2PjTQxhCNrhCHUA=="
+related:
+  - title: "E-Commerce, Fintech, and Cloud: CEOs of Alibaba, Peak Fintech, Logiq and eBay Discuss New Global Growth Opportunities"
+    excerpt: "including the acquisition of an AI technology company, accelerating revenue growth with a run-rate of $40 million, new fintech partnerships in the booming Indonesia market, and plans for NYSE ..."
+    publishedDateTime: 2020-10-27T15:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/e-commerce-fintech-and-cloud-ceos-of-alibaba-peak-fintech-logiq-and-ebay-discuss-new-global-growth-opportunities-1029728325"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 11
+
+secured: "tT4JJfxWbcd89HuZFyDDEFKlvy/qn6u7aCAWklDJRwjPudLmrkwM6Fdq3sIfjmcvzMs7anqQwOikfLDXmBJUwTejN8P1tB3nmSaES/hJHAYMmiJibNUQsK6uu7reqWDhDEe8MjafPb8yhXA+LI1brfoqeP+Op+wBIjLvSlFeqZS+4NPvrNLH4SYe2aq/mXCW6Scx583RyfRkMFV/1VxqVQRdakAFymSCTydZW9JcVQzFdu/lKOG87/gRcOp/baN35jQ7/HUABhEWd6km8zx1ZuURQ7DmTzMcCdvBtjWde4/OH2+YygSsdhlmPSOM19tls1NZ2VsH9Tf0oAmYyDh1MmTUOPRnWnxAM4MV0TGyV7k=;8fx8td7HhH3iIsSY2tPRYg=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-28-covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles.md",
+      "title": "COVID-19 Fails To Move Needle On Consumers’ Disdain For Self-Driving Vehicles",
+      "excerpt": "Carmakers continue to develop self-driving systems and some safety experts continue to tout their potential for saving lives, but the public as a whole expresses very limited interest in buying cars with the technology. At the same time, experts in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/",
+      "originalUrl": "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f989fad0c7ff5233c25a749%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/amp/",
+      "publishedDateTime": "2020-10-27T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-waymo-rolls-out-driverless-taxis-in-phoenix.md",
       "title": "Waymo Rolls Out Driverless Taxis in Phoenix",
       "excerpt": "The company recently announced that its driverless taxi service is now available to ... When it comes to vehicle safety, AV companies are out to show that artificial intelligence (AI) is better than authentic ineptitude. Waymo’s AI “Driver” has ...",
@@ -261,7 +313,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -469,7 +521,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 479,
+      "heat": 459,
       "tags": null,
       "images": [
         {
@@ -560,8 +612,8 @@
       "title": "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech",
       "excerpt": "But the promise of self-driving cars has yet to be realized, though that’s not for the lack of promise or trying. Self-driving, also known as autonomous, cars have been in the zeitgeist since the late 1950s.",
       "sourceUrl": null,
-      "webUrl": "https://www.thedrive.com/cars-101/36937/self-driving-cars",
-      "originalUrl": "https://www.thedrive.com/cars-101/36937/self-driving-cars",
+      "webUrl": "https://www.thedrive.com/cars-101/36937/self-driving-electric-cars",
+      "originalUrl": "https://www.thedrive.com/cars-101/36937/self-driving-electric-cars",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1427,40 +1479,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-velodyne-is-poised-to-be-a-winning-self-driving-play.md",
-      "title": "Velodyne Is Poised to Be a Winning Self-Driving Play",
-      "excerpt": "The validation of Velodyne's technology by multiple, large companies and the positive outlook for LIDAR make Velodyne stock a buy.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/10/velodyne-stock-poised-to-be-a-winning-self-driving-play/",
-      "originalUrl": "https://investorplace.com/2020/10/velodyne-stock-poised-to-be-a-winning-self-driving-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/10/velodyne-stock-poised-to-be-a-winning-self-driving-play/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/velodyne-stock-poised-to-be-a-winning-self-driving-play/amp/",
-      "publishedDateTime": "2020-10-15T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "investorplace.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -53,20 +53,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Robot Enters COVID-19 Fight"
-    excerpt: "A robot initially designed for shipboard firefighting and maintenance tasks has now been enlisted in the fight against COVID-19."
-    publishedDateTime: 2020-10-23T14:33:00Z
-    webUrl: "https://www.defense.gov/Explore/Features/Story/Article/2389691/robot-enters-covid-19-fight/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 39
-    images:
-      - url: "https://media.defense.gov/2020/Oct/21/2002520993/1280/1280/0/080120-N-NO201-0001C.JPG"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "IfRSUwCCDjqlRMHnXyFLdxit6QYZZJYJWF82TpvI0Qpgfn06sOFfnqcnnbHaCpPz0NvIOvAe+Noc2V+PZFTFpQudkYFL1YEvMORIZdiIMCOCWDt84/2xz3KPGMfQWbje40yOFtQ00dmxl4m7o2RO4cp2p0Bo0qEHKW8zwlnKGA3w7Gt+++rVCoZfuw+GT4R6kfxg9qh6FMpnDGDAzS2KadGac8CxpiUo1aDmy+OrHtUCOWhnwtzkHcgz+vWNNGPpy8vT9fI4Qh0+33J1In7xI/nWX55gApxb5t8xihKl8c1Au7uowvu81+NJKfAk36VrDq+ivh3TXy4Imn1yf1cEymDQTCEUMRHuiB1xPR2rp7k=;JKZV6RbcE4mNpw/gtDXFAA=="
 ---

@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
+  - title: "First Responder Tech. Completes Alpha Version of Sentinel Camera & Weapon Detection Computer Vision"
+    excerpt: "Object reference not set to an instance of an object. To find out more about this platform, click here. A developer of WiFi-based technologies to detect and deter mass shooting and terror attacks involving concealed weapons, WPN&CloseCurlyQuote;s portfolio ..."
+    publishedDateTime: 2020-10-27T23:12:00Z
+    webUrl: "https://stockhouse.com/news/newswire/2020/10/27/first-responder-tech-completes-alpha-version-of-sentinel-camera-weapon-detection-computer"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 5
   - title: "First Responder Technologies Completes Alpha Version of Sentinel(TM) Vision Camera and Weapon Detection Computer Vision Model"
     excerpt: "The Sentinel TM Vision Camera is an advanced security camera and computer vision platform that gives users access to innovative weapon detection technology. The camera, which is designed and manufactured by First Responder, interfaces directly with First ..."
     publishedDateTime: 2020-10-27T10:13:00Z

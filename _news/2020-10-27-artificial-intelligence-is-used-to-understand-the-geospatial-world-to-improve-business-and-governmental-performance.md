@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/10/26/artificial-intell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/26/artificial-intelligence-is-used-to-understand-the-geospatial-world-to-improve-business-and-governmental-performance/amp/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Geospatial is a cloud platform for AI-powered imagery analytics"
+    excerpt: "Moreover, satellite imagery and the AI algorithms trained to analyze it ... visualize geospatial data in BigQuery. Microsoft offers Azure Maps, a set of geospatial APIs to add spatial analytics ..."
+    publishedDateTime: 2020-10-27T23:00:00Z
+    webUrl: "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/"
+    ampWebUrl: "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/intel-logo-e1578358513137.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "What the Geospatial Industry is Learning About HPC, AI, and Cloud"
     excerpt: "When it comes to traditional HPC, it has taken a bit longer for cloud and AI to catch on. This is no surprise given the strict performance requirements"
     publishedDateTime: 2020-10-26T15:39:00Z

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
-excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ..."
-publishedDateTime: 2020-10-22T07:35:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
-webUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
+excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
+publishedDateTime: 2020-10-22T07:30:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
@@ -17,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "4QelPCHJc9YxqubgFuwlCEKxJLY0tWDwWkhcZTixoyPT1mGu5OWhEUvN5b9z7GrkEre/joOe0qlPtUeCr3lt7tkoP49MnZJ9bKhXEwFsO5WZ3IlgWYP3WOswO22mlzO9K3HsLuisVIQGEHEaHY4qYBlIhIVud1PpDXLpt19Iq44PaovZVk8W+v5t2iPX2IufIGHz27NHPgNZML4FQ4sNSmM1lHT+RFGvtpzGZ4VU0r6ZUtaHghU7Y7fehmxgAxmRZT62LiHBDjoJJN3uJx6NRK+ikD9jccj/Uia+6imlT1njDTEogGPCUnWGFuor7+e2QCPHhBy9Gmj4M3R0vOpG6fijkm9zbXwa2fz+FwWzvJo=;Q8qMjrhpnt4OT6PbPHugyg=="
+secured: "gd6X6+qguXFFaUlPyHW2xHdVV8S1abOPu6NytxiOEwPUDB93E71qW5zJ69mCrSJkGAhAU11aWHlo393WPkjjA+L0vh+6R4HKl5oynh6IU81rRf6NJQWllRpTSTz1LT6k1PmA2jajvXCiUJJ3em64ZmjYPU3vRRVGUOOAJ1zcHaCbl61BJGYHNkcxs3XJ/k7aj665cC8TpMndRFa0V1hKgllgSSkxNANKJDf7Ar/gsldfS5/Q1c5AoDZXCYauvj4H4bDJbQE7K4GO4kvTHWBScBVsLlfFjhbk1HLt0SJsYb/B9T+5P+i/x2LP/MP5OHc5tu5Iw5/l1i/8p4QVbEatHocALcZ8OYtCLx4sjvqsdQ0=;U2XAcQFSusoqgGH/0cSqFg=="
 ---
 

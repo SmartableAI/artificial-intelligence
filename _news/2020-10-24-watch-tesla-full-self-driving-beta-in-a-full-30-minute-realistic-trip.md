@@ -111,22 +111,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla's release of new 'self-driving' software closely watched by U.S. regulator"
-    excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc's release of a software version intended to allow its cars to drive themselves, saying it stood ready to protect the public against safety risks."
-    publishedDateTime: 2020-10-23T07:06:00Z
-    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN27724V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27724V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27724V"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538480421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1CB"
-        width: 763
-        height: 545
-        isCached: true
   - title: "Tesla Full Self-Driving and Autonomous Driving Levels Explained"
     excerpt: "Full self-driving. That was the key takeaway from Tesla’s (TSLA) report the other night. Dave Bartosiak here with Trending Stocks. You can all kiss your Elon Musk effigies and light a couple candles at your shrines because he has done it again."
     publishedDateTime: 2020-10-23T17:11:00Z
@@ -238,22 +222,6 @@ related:
         width: 3000
         height: 1815
         isCached: true
-  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "DETROIT - Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $ ..."
-    publishedDateTime: 2020-10-23T08:05:00Z
-    webUrl: "https://www.cp24.com/lifestyle/tesla-full-self-driving-vehicles-can-t-drive-themselves-1.5156822?cache=yes%3FclipId%3D64268%3FautoPlay%3Dtrue"
-    ampWebUrl: "https://beta.cp24.com/lifestyle/2020/10/22/1_5156822.html"
-    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/lifestyle/2020/10/22/1_5156822.html"
-    type: article
-    provider:
-      name: CP24
-      domain: cp24.com
-    quality: 59
-    images:
-      - url: "https://beta.ctvnews.ca/cp24/en/lifestyle/2020/10/22/1_5156822/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-        isCached: true
   - title: "We're all guinea pigs for Tesla's latest self-driving tech"
     excerpt: "Tesla is beta-testing its latest self-driving technology with a small group of early adopters, a move that alarms experts and makes every road user — including other motorists, pedestrians and cyclists — unwitting subjects in its ongoing safety experiment."
     publishedDateTime: 2020-10-23T16:14:00Z
@@ -304,17 +272,17 @@ related:
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
-    publishedDateTime: 2020-10-27T14:29:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    publishedDateTime: 2020-10-27T12:48:00Z
+    webUrl: "https://www.10tv.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
     type: article
     provider:
-      name: WHAS11 News
-      domain: whas11.com
+      name: 10TV.com
+      domain: 10tv.com
     quality: 59
     images:
-      - url: "https://media.whas11.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+      - url: "https://media.tegna-media.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

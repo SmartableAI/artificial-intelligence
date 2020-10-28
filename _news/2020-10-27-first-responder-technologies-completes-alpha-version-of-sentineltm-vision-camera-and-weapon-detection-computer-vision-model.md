@@ -37,6 +37,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 5
+  - title: "First Responder Tech. Completes Alpha Version of Sentinel Camera & Weapon Detection Computer Vision"
+    excerpt: "Object reference not set to an instance of an object. To find out more about this platform, click here. A developer of WiFi-based technologies to detect and deter mass shooting and terror attacks involving concealed weapons, WPN&CloseCurlyQuote;s portfolio ..."
+    publishedDateTime: 2020-10-27T23:12:00Z
+    webUrl: "https://stockhouse.com/news/newswire/2020/10/27/first-responder-tech-completes-alpha-version-of-sentinel-camera-weapon-detection-computer"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 5
 
 secured: "SK72IWWydjinznjfHplR0FbPNc/t2t28UaIqJaS6OA5Xb6AMQebVkfWvrLFV+zLVTOsjRQP4hnzJrkURPlzAAsHK8ARnHtVel5Gwcy7MzUd4iYHsHB5Q1c2CLJuu3sr8Myn0IJA2mRdUGkCNM0oa8kF/UJX1bFP9XLOQHeUhSfAXVtG7k2C5vMJ7JdtLwDrRgv/mLUZnXUrFmCFXQlWZT1aBIBLnexH3Qap9oKwJZFdzRSM3KNKyO2xQpnZ0g33p4VEwbu5JOZYpaBTmGZrGSQAtqVY7fvsEgzWwaDm1q//Uq6hCzf1RVqo9QEPGxT5HgIel9Z68vVy+qP9T7GMjGP6oUWd60VvZ57brcLaqxDE=;GW0PE0NxD9BMs2kEQVbqvw=="
 ---

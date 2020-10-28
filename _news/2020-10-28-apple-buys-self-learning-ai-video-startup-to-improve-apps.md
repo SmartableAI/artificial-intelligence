@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-se
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
 type: article
 quality: 87
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://images.macrumors.com/t/Vo_9MuNG9fMJkv1kmMbF-1QiWug=/1600x/https://images.macrumors.com/article-new/2020/10/vilynxacquisition.jpg"
         width: 1600
         height: 1192
+        isCached: true
+  - title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
+    excerpt: "The purchase will also deepen Apple's AI expertise, with around 50 engineers and data scientists joining from Vilynx, and the startup's Barcelona office set to become one of Apple's key AI ..."
+    publishedDateTime: 2020-10-27T23:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10-1029729829"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/5f59078de6ff30001d4e7c8e?format=jpeg"
+        width: 2588
+        height: 1941
         isCached: true
   - title: "How AI Helps Amazon Improve Sustainable Packaging"
     excerpt: "Artificial intelligence has helped Amazon boost sustainable packaging options while slashing waste, but there's still room for improvement on this front."

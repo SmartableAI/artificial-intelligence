@@ -1,20 +1,26 @@
 ---
 category: news
 title: "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
-excerpt: "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment."
-publishedDateTime: 2020-10-14T15:19:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201014005706/en/KNIME-and-H2O.ai-Accelerate-and-Simplify-End-to-end-Data-Science-Automation"
-webUrl: "https://www.businesswire.com/news/home/20201014005706/en/KNIME-and-H2O.ai-Accelerate-and-Simplify-End-to-end-Data-Science-Automation"
+excerpt: "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering ..."
+publishedDateTime: 2020-10-14T16:38:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
+webUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
-secured: "fnYPUPkOUskqPieeJw0SE7xYj16G3/7rZpX/mTnlMq2MSGu2n0uy3E4BFI4HmIyUztd+ZqeH446WwU848oTGIR2Gou3GHFXL0FhMH9Hc+B3YT+LsOXk9b7U0earbboFga18LtvTZuckfO44HXbZG+awDNDA0jt2OStlIoIePiXgtByjjVN3xtXbex8TgH8h6PlAt01eOqQ3fi9ut3wttB9xJJNAx2adYccJzJOc1iTjF7cZ4uOVP17a9okAZ+U4nAgOTmE6ywQaJ7vIJq5uDXffNHGvyJJzUuaRcxeOArrqtGCWMk2HVpfJIWoBafElySvt0/isnVhXGqCpJTmkE5YsUlRLLv6e63cwIzZdMEdg=;IO0NH9/CmgmAVpWSeVDlIw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "6CZaY/QWCIDcmkf6hPPwJUM2r9cVqTUthaMA/su6n6COomhxMFhBreLP1e4VBM8qW4aB6vz8CofaWtzF0gbPZPjxi0GsNb2m0OtEI8iBKyWciLqN7inUq+AjKO79/CYS7FPhV1ptc0p5gyxI11OOsJBlQYlSM4Lz35dnZoXJPgdv6S7VR3rt+NtE6tO3VLQSP0l6pqJwhi5TOcI9Y3YvLVOpwKMxWLqacS2YqfO9TQqSRjugiDX87LV7zjkkbyGXiwhuv8rleVLjp7VPjTS9VvF6JYBZkxXYjdHc6KKkM/agQECX5JWr2QjQ2GGW/wZZX4gCDjPjBq/Yvrbf60ezBbUrxsPpcaOtEHMvUYNHywg=;USKCjNZJWdCcbC2loWxKVA=="
 ---
 

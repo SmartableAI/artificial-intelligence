@@ -46,11 +46,11 @@ related:
         height: 240
         isCached: true
   - title: "C3.ai teams with Microsoft, Adobe on joint enterprise CRM platform"
-    excerpt: "The joint offering is a combination of the Adobe Experience Cloud, the C3 AI Suite and Microsoft Dynamics 365."
-    publishedDateTime: 2020-10-26T17:40:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    excerpt: "along with combined industry and technology expertise, to the oil and gas industry. And in 2018, C3.ai announced a strategic partnership with Microsoft to use Azure as its preferred public cloud platform."
+    publishedDateTime: 2020-10-26T22:46:00Z
+    webUrl: "https://www.zdnet.com/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
     type: article
     provider:
       name: ZDNet

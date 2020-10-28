@@ -36,20 +36,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 59
-  - title: "Machine learning helps hunt for COVID-19 therapies"
-    excerpt: "The group already has one machine learning model at work in the pandemic, predicting consequences of mutations to SARS-CoV-2. Now, Wei’s team has deployed another to help drug developers on their most promising leads for attacking one of the virus’ most compelling targets."
-    publishedDateTime: 2020-10-24T05:26:00Z
-    webUrl: "https://msutoday.msu.edu/news/2020/machine-learning-helps-hunt-for-covid-therapies"
-    type: article
-    provider:
-      name: Michigan State University
-      domain: msu.edu
-    quality: 39
-    images:
-      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/2020/machine-learning-helps-hunt-for-covid-therapies/protease_banner.png"
-        width: 1400
-        height: 600
-        isCached: true
 
 secured: "NQ88CPmYLx6qa9kqF6EtshTxzegrEU93G2px6GKsMeoEqD1Hb+izaPaGAzR0xulA7cN4ffqLFnUPB7TNZJgCK4f1ELbCm8K5U8/ffu3Ttriy8ZWb6t9huKHjI+qDiMy62BGU2y6AosiC8VSuqFjMv/TayGaC4DjtAoC/rDYHbvCykiTL7vBAVVLb73LpB5hjiT3uWUjoUVkQGJu6ltbzNbNZ6OwF4Gf/8OulmkzhN1wgAJsV891IRG7nBQGP+hmFGwzXIgfB1dFa/YWHY8MiCBBia35M7+IJWua9Al2XLXjHIYR/CEbnYaJKiMRXjbbW7BwNS5iNQhSZnsX9z+b7CgIKca0fV6v+Z0EkX3Gi1MY=;Va8nUiDdig4HUPRhoYj3og=="
 ---

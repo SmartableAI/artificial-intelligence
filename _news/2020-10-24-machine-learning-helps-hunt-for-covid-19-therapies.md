@@ -25,30 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "US military tests wearable + AI combination as early warning system for COVID-19 cases"
-    excerpt: "Philips built an algorithm that tracks 165 biomarkers to spot illness when a person is contagious but not showing symptoms yet."
-    publishedDateTime: 2020-10-23T14:05:00Z
-    webUrl: "https://www.techrepublic.com/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-military-tests-wearable-ai-combination-as-early-warning-system-for-covid-19-cases/"
+  - title: "COVID-19 Fails To Move Needle On Consumers’ Disdain For Self-Driving Vehicles"
+    excerpt: "Carmakers continue to develop self-driving systems and some safety experts continue to tout their potential for saving lives, but the public as a whole expresses very limited interest in buying cars with the technology. At the same time, experts in the ..."
+    publishedDateTime: 2020-10-27T22:50:00Z
+    webUrl: "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/"
+    ampWebUrl: "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 59
-  - title: "COVID-19 Is Redefining Healthcare Innovation"
-    excerpt: "\"It's kind of ironic. Data and computers are helping deliver more personalized medicine,\" says Dr. Andrew Masica at State of Reform's North Texas Conference."
-    publishedDateTime: 2020-10-26T14:18:00Z
-    webUrl: "https://www.dmagazine.com/healthcare-business/2020/10/covid-19-is-redefining-healthcare-innovation/"
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f989fad0c7ff5233c25a749%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Self-Driving Cars Can Also Self-Design A Whole New Traffic Code"
+    excerpt: "There has been much debate about how to regulate safety and the initial operation of self-driving cars, and how to even tell how safe they are. Our current “rules of the road” govern by safety and traffic flow. They have been built by observing all the ..."
+    publishedDateTime: 2020-10-27T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/10/27/self-driving-cars-can-also-self-design-a-whole-new-traffic-code/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/10/27/self-driving-cars-can-also-self-design-a-whole-new-traffic-code/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/10/27/self-driving-cars-can-also-self-design-a-whole-new-traffic-code/amp/"
     type: article
     provider:
-      name: D Magazine
-      domain: dmagazine.com
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f97ad8cec4cb02b07e88acc%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Robot Enters COVID-19 Fight"
+    excerpt: "A robot initially designed for shipboard firefighting and maintenance tasks has now been enlisted in the fight against COVID-19."
+    publishedDateTime: 2020-10-23T14:33:00Z
+    webUrl: "https://www.defense.gov/Explore/Features/Story/Article/2389691/robot-enters-covid-19-fight/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
     quality: 39
     images:
-      - url: "https://assets.dmagstatic.com/wp-content/uploads/2015/08/d-logo-square-facebook-default.jpg"
-        width: 345
-        height: 345
+      - url: "https://media.defense.gov/2020/Oct/21/2002520993/1280/1280/0/080120-N-NO201-0001C.JPG"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Ford’s next-gen test Vehicle lays self-driving foundation"
+    excerpt: "Beginning  to roll out this month, Ford and Argo AI‘s fourth-generation self-driving test vehicles are built on the Escape Hybrid platform and feature the latest advancements in sensing and computing technology."
+    publishedDateTime: 2020-10-25T18:59:00Z
+    webUrl: "https://gadget.co.za/fords-next-gen-test-vehicle-lays-self-driving-foundation/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
+    images:
+      - url: "https://gadget.co.za/wp-content/uploads/2020/10/1-QTFqvEO6Ycqd6nqk9Cd-vA.jpeg"
+        width: 700
+        height: 405
         isCached: true
 
 secured: "csmhidehOUriQNFd7rl+77i8EgafaOS2sSgKa1tVpoDc3ETUUcITZ7/ULY1eO2LmwSnwh5yURQ9HG3UXsLFbFSr4R8xtpXaGpLCRLgQJAgeL/Aru6x/kpU+MxQQ2ec7ICYrPAXzYC1M8f+mHiKbWe8iUOBaPAuehZr8tHO4/Qt3O57bsKWgeA2/r4zwGcPEe09OJZISFipPuJw3zNcUkrnsDohTVkGHmR+r9Sj8xC0AS79KxfuKZTnVnZw513EjcApd0dvzk+MtesnM1WOKYBpKti0qGN66y+Lnt0e/DHPo9RD7f2E/xJjALigcSP6vG9NONVyo55YUwUktrAa5pIqnlfA+1QJ9Z4mTk+yty9HzoNDesZZSmSzJZPyHlZYUsvY0wWDWdpJUZ2I8IjWoQjsgWK5A8nYzdTNEE5qyUdcieFev3V6hrxL65YCspgk82IP6S7h5SMD/QoclR7WPE6pX9nlN0q/q1Alhq9v7wBLukp1QGR7/RCrhrmrPXfMtO5KyTi8SYF6DONPyhk8i9+A==;WkjXGoJrGKOWHjNXnHJpsQ=="

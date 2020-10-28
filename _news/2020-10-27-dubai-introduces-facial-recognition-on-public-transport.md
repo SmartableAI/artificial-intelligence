@@ -123,50 +123,6 @@ related:
         width: 466
         height: 262
         isCached: true
-  - title: "Artificial Intelligence Judges Your Face: This Is How Facial Recognition Works"
-    excerpt: "To learn how facial recognition works, checkout this website and give access to the camera of our computer or phone."
-    publishedDateTime: 2020-10-26T15:28:00Z
-    webUrl: "https://techlog360.com/how-facial-recognition-works/"
-    ampWebUrl: "https://techlog360.com/how-facial-recognition-works/amp/"
-    cdnAmpWebUrl: "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/how-facial-recognition-works/amp/"
-    type: article
-    provider:
-      name: techlog360.com
-      domain: techlog360.com
-    quality: 70
-    images:
-      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/10/How-Facial-Recognition-Works.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Dubai To Introduce Facial Recognition Tech In Public Transport To Enhance Security"
-    excerpt: "Dubai is all set to roll out a brand new feature of facial recognition system on public transport in a bid to strengthen security for the local, said officials."
-    publishedDateTime: 2020-10-26T13:25:00Z
-    webUrl: "https://www.republicworld.com/world-news/middle-east/dubai-to-introduce-facial-recognition-tech-in-public-transport-to-enhance-security.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 65
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/oiqzcfwmls1dzeq1_1603716287.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
-        isCached: true
-  - title: "Privacy concerns greet adoption of facial recognition system by India’s secondary education board"
-    excerpt: "India’s Central Board of Secondary Education (CBSE) is introducing a facial recognition system that will henceforth allow tenth and twelfth grade students to easily download academic material, but"
-    publishedDateTime: 2020-10-26T18:29:00Z
-    webUrl: "https://www.biometricupdate.com/202010/privacy-concerns-greet-adoption-of-facial-recognition-system-by-indias-secondary-education-board"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
 
 secured: "PBYo+T0obN2chAoz3XZHafzrsC3uFURI4m8vPP3GqUGStc0hIzoaiuvpGkG7fYsSNtbWxr/iOOuFBZIp1UMVA8ODy+K8yZPOBIeDtgMS04Q1Nr4cbDyYCnoGDdZc99/l9ORBwmMCg/0arLSfa173jxl/LYv7Ah0DGBE34doe9rTXTQyunWUbl5sXuL0M5aUi3u4kMcqkZW72zZihpk0i9Yyy1G2ag5OoRu++kHTG6YJSBd+khvKFhQM/fP9OEstHR5mkQrLPHrHEoutrW9gut4KAe7dvSu80SjTthJfnMakVygm2HHkup1GxJ0eFvrgQQBpbiwlQ7LuuDpXbP229xkQBijEXvnSbwi7U2K5VOUbqF9nA7y2fQ13MyPHnaas2vD3oYdbCemRAmJ+ZhvSM5Ky/fILODtdfWF69/Co+daQyrV2mWXpHHzDzIHb+MUgRnTz70YqO/+OXqf5mjLuKvNB9FiI5MOBNdoqpKVst/3WdISiZj7Y8Y2aFzUu8ZhbEZirdsC2BXBCzDRD4H+iPoA==;2I22YELJCwnWf3IleLKlKQ=="
 ---

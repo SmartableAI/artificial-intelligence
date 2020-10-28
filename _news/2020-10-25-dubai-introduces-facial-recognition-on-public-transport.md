@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/dubai-introduces-facial-recognition
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
 type: article
 quality: 74
-heat: 164
+heat: 134
 published: true
 
 provider:
@@ -122,50 +122,6 @@ related:
       - url: "https://vid.alarabiya.net/images/2020/10/25/1c064d49-8679-4ea3-8df5-502e0dc16e72/1c064d49-8679-4ea3-8df5-502e0dc16e72_16x9_600x338.jpg?width=466"
         width: 466
         height: 262
-        isCached: true
-  - title: "Artificial Intelligence Judges Your Face: This Is How Facial Recognition Works"
-    excerpt: "To learn how facial recognition works, checkout this website and give access to the camera of our computer or phone."
-    publishedDateTime: 2020-10-26T15:28:00Z
-    webUrl: "https://techlog360.com/how-facial-recognition-works/"
-    ampWebUrl: "https://techlog360.com/how-facial-recognition-works/amp/"
-    cdnAmpWebUrl: "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/how-facial-recognition-works/amp/"
-    type: article
-    provider:
-      name: techlog360.com
-      domain: techlog360.com
-    quality: 70
-    images:
-      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/10/How-Facial-Recognition-Works.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Dubai To Introduce Facial Recognition Tech In Public Transport To Enhance Security"
-    excerpt: "Dubai is all set to roll out a brand new feature of facial recognition system on public transport in a bid to strengthen security for the local, said officials."
-    publishedDateTime: 2020-10-26T13:25:00Z
-    webUrl: "https://www.republicworld.com/world-news/middle-east/dubai-to-introduce-facial-recognition-tech-in-public-transport-to-enhance-security.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 65
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/oiqzcfwmls1dzeq1_1603716287.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
-        isCached: true
-  - title: "Privacy concerns greet adoption of facial recognition system by India’s secondary education board"
-    excerpt: "India’s Central Board of Secondary Education (CBSE) is introducing a facial recognition system that will henceforth allow tenth and twelfth grade students to easily download academic material, but"
-    publishedDateTime: 2020-10-26T18:29:00Z
-    webUrl: "https://www.biometricupdate.com/202010/privacy-concerns-greet-adoption-of-facial-recognition-system-by-indias-secondary-education-board"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
         isCached: true
 
 secured: "lt6/xaMLFf6Uah3adLaUN0TBO0gm3Dvd5rBG/shybwRg1NzyJcy0hGg019YjaBkkDW5iLPS0Ub/CpZiQNSI0egaxfUVgN4eVcG068uLd5IUQcU6AgGi2i+G6qFP3O2/xuo4qlGiC8DbiGMZ2TS7CKCMACbrksFpaAPePJtQtuBErPYfcdTxFZM7RZANgadooGZezScRDeoxfaSiFkTLWKrWCQBAMBzDiCHtrPdGEIre++S046uLiT7QRuCqwOBcBk4GWloMCquiVN6tSGwt1LC+AH8O2DVQafgH32EtemB5sZK1mmJhYQqxMHJ3NfgBJOURWIw/Hli1Eg+vYWMp2w4TD/IGuQzaMyXLnsmR8/QM=;NIllQpTgbj0M3JdSX9TLfg=="

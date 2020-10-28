@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2020/10/26/what-will-the-
 webUrl: "https://www.forbes.com/sites/cindygordon/2020/10/26/what-will-the-next-ai-killer-app-be--given-covid-19-impacts/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://news.mit.edu/sites/default/files/images/202010/AI-Cures-Conference-panel.jpg"
         width: 1500
         height: 1000
-        isCached: true
-  - title: "Robot Enters COVID-19 Fight"
-    excerpt: "A robot initially designed for shipboard firefighting and maintenance tasks has now been enlisted in the fight against COVID-19."
-    publishedDateTime: 2020-10-23T14:33:00Z
-    webUrl: "https://www.defense.gov/Explore/Features/Story/Article/2389691/robot-enters-covid-19-fight/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 39
-    images:
-      - url: "https://media.defense.gov/2020/Oct/21/2002520993/1280/1280/0/080120-N-NO201-0001C.JPG"
-        width: 1280
-        height: 853
         isCached: true
   - title: "UCF researcher using artificial intelligence to help detect COVID-19 virtually"
     excerpt: "A reasearcher from the University of Central Florida is part of a breakthrough study doing just that, by using artificial intelligence to spot COVID-19 in a person’s lungs."

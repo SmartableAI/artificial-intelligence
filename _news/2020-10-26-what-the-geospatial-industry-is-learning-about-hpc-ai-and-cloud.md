@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Geospatial is a cloud platform for AI-powered imagery analytics"
+    excerpt: "Moreover, satellite imagery and the AI algorithms trained to analyze it ... visualize geospatial data in BigQuery. Microsoft offers Azure Maps, a set of geospatial APIs to add spatial analytics ..."
+    publishedDateTime: 2020-10-27T23:00:00Z
+    webUrl: "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/"
+    ampWebUrl: "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/intel-logo-e1578358513137.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence Is Used To Understand The Geospatial World To Improve Business And Governmental Performance"
     excerpt: "Geospatial image capture started off small, but has now grown to a massive scale. The addition of AI both improves computer vision and downstream analysis. This is another are where the world around us is being enhanced by artificial intelligence."
     publishedDateTime: 2020-10-26T17:35:00Z

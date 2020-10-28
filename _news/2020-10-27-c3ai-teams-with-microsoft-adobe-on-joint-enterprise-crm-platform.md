@@ -1,12 +1,12 @@
 ---
 category: news
 title: "C3.ai teams with Microsoft, Adobe on joint enterprise CRM platform"
-excerpt: "The joint offering is a combination of the Adobe Experience Cloud, the C3 AI Suite and Microsoft Dynamics 365."
-publishedDateTime: 2020-10-26T17:40:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+excerpt: "along with combined industry and technology expertise, to the oil and gas industry. And in 2018, C3.ai announced a strategic partnership with Microsoft to use Azure as its preferred public cloud platform."
+publishedDateTime: 2020-10-26T22:46:00Z
+originalUrl: "https://www.zdnet.com/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+webUrl: "https://www.zdnet.com/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
 type: article
 quality: 101
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
+  - Microsoft AI
   - AI
   - AI in Sales
-  - Microsoft AI
 
 related:
   - title: "Microsoft Teams With Adobe and C3.ai to Take on Salesforce on Its Home Turf"
@@ -71,6 +71,6 @@ related:
         height: 667
         isCached: true
 
-secured: "MLar1pmJQKulAWKJ+ljz55zNIn9QpemiCH6qqFtmWItVbXcrhzF1hT2YJt5vD1y7TFtdDZuT7SlQU1LPUmCY08eT1eivmME87hujXbbLjb/iXuvs4U6ZYNHoXjsM9lPARuHzehk/gqTpm36SeHYmwfqMGHYXwlgCMswye8Fi7XGYNJ4hIHGQv+2HQLXtZsbqvfvXo019icgAevGJA02cwDnrzV3Ilie1PVmufN7ct/ksYLI45aRTX9/h+3688J8MUjOrixKYahtdjFUBN2AY0oCqpwwf2OW9N47YxtZAjmSBXLmQRjUQmsim159s9aOUG9FWU5GaS1l1/boa/pQn9e5gxDACZ/gpnt02FBPDtwa7BT16/Hrus2mwzzc+GPLHXrRNgoMIYZc+JGwbxvMidSsGsqvumon1pYOnAlaTdAswBPelOlq0VxZTEDiqFe+MDz5OXR78Nzq2c3cbFkgSM6FkBqNNKcwBcw2h8lQz5GM/xCfIX+gPycLNtVvXRHtxkDLgj/Iglcx9luvJG8GaCw==;qNS3XyNB+Go9xiDOvvLR+Q=="
+secured: "DGa7ss6P1c+ONUlZK7pc4hdJuEaPwT8CAq8gLaaEvH9vaQ8THivIDLYsuGK89yBMDazIa3CD8d8L3l7pT/d9yclM/NYXoR8mfIgw5lSsWrAs1LGzmmHCD/OlqUyHnw3XrSJQtaaaZN1UdUN/eFZwnvIi+pWOT0tO1PwiQiXaj4P139KwYQq5OeWODvWqvDJZgE1B0ScLZVoBSYIMu1Hoy8URBYeWMmdL6rl0s962iRUQzTf6l7YZiAtiewpWqcnIKxK6/BX7Gf6lgFeZCm7hsrivz5+RsOTrDYTtzNw04Bl9Mc5AXeNOug64/6rEViuGcPln82AEvnYPNmgP1k0+EJllZV8A0Wd+FIaLKcmWBw70wAxp6gpnBOkd+DEH0MFeCvmYgv5AejKevG8/y91JCHAYiDj11XUFHvppV34pYYFNfOaJzTR+UXJv1gfwfm9Spy/euFq/32EAPjCuiaF0O7VJgZUZcpDfxee0bFRMBnCgv+YbH6G2ehwjuSylZ14QVHuKr9VqkHs/Y1jlZ3Ra0A==;HAYTUGa77rEdVhUQr9JAZg=="
 ---
 

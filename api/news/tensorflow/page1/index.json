@@ -6,8 +6,8 @@
       "title": "Android Studio 4.1 Includes New Database Inspector, Integrated Emulator, TensorFlow Lite Bindings",
       "excerpt": "The latest version of Android official IDE, Android Studio 4.1, is now stable. Besides introducing a new database inspector, integrated emulator, and better TensorFlow Lite support, it improves integration with Dagger and fixes over 2,",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/10/android-studio-4-1-stable/",
-      "originalUrl": "https://www.infoq.com/news/2020/10/android-studio-4-1-stable/",
+      "webUrl": "https://www.infoq.com/news/2020/10/android-studio-4-1-stable/?itm_source=presentations_about_google&itm_medium=link&itm_campaign=google",
+      "originalUrl": "https://www.infoq.com/news/2020/10/android-studio-4-1-stable/?itm_source=presentations_about_google&itm_medium=link&itm_campaign=google",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -40,9 +40,9 @@
         "news"
       ],
       "topics": [
+        "TensorFlow",
         "Google AI",
-        "AI",
-        "TensorFlow"
+        "AI"
       ]
     },
     {

@@ -24,17 +24,6 @@ images:
     height: 1401
     isCached: true
 
-related:
-  - title: "Healthcare Chatbots Market Showcase a Highly Positive Growth Curve in the Near Future | TMR Research Study"
-    excerpt: "Healthcare chatbots are computer programs that help patients with their medical and related queries. This helps in cutting down the burden on the clinical or the medical staff working in a hospital or a healthcare center."
-    publishedDateTime: 2020-10-23T07:19:00Z
-    webUrl: "https://www.medgadget.com/2020/10/healthcare-chatbots-market-showcase-a-highly-positive-growth-curve-in-the-near-future-tmr-research-study.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 1
-
 secured: "emFJaWs8Kyt32tYx8NXk6NQzYyFwZ5xk3Rv6YpbRv6SIj4JZQmqOQvUKokq4YuaJFH2qCSE2EqSXlnE/qtGYTLM6Qq4uTNvYJIpsVXOIxwFoevDb0PhZD8J6NH6PFTJzksYE4zvdO343bVWbx7GHSgpZs7X+q7hbDofPTDPX2kvIiPRX/MNBOxj0cm3IWCGHF/KfzkEngyH/rwV2gS732YfIz89ZUwkqmAD085BbnWqt35NqbRL0g0Esnc955wgxEErsQqe13KTpxTD+dExgS63bdG8yUYwgM/aXhJLY4coRAqHTbxX+ke3C4unQggaDSJLnDNGOftx97VRvuIGVjNhojjhZ/yMaQe471hiz/jc=;3CvYTZ1R2fJs69/iuWI5pg=="
 ---
 

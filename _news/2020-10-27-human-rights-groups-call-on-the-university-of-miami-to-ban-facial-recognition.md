@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/27/human-rights-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/27/human-rights-groups-call-on-the-university-of-miami-to-ban-facial-recognition/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 86
 published: true
 
 provider:
@@ -29,38 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Opinion: The dangers of facial recognition"
-    excerpt: "Recent developments in technology, coupled with the pandemic, have led to increased use of facial recognition software in South"
-    publishedDateTime: 2020-10-26T14:00:00Z
-    webUrl: "https://usustatesman.com/opinion-the-dangers-of-facial-recognition/"
-    ampWebUrl: "https://usustatesman.com/opinion-the-dangers-of-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://usustatesman-com.cdn.ampproject.org/c/s/usustatesman.com/opinion-the-dangers-of-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Utah Statesman
-      domain: usustatesman.com
-    quality: 59
-    images:
-      - url: "https://usustatesman.com/wp-content/uploads/2020/10/dilemma.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "NEC Unveils Mask-on Facial Recognition"
-    excerpt: "Japanese electronics company NEC has developed facial recognition technology that can identify people even when they are wearing a mask -- a breakthrough that promises many practical applications amid the pandemic."
-    publishedDateTime: 2020-10-25T18:39:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/videos/20201023212821053/"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 39
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/videos/20201023213308229_898390_L.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "Z4ilviODV9tigw6bynXPzqhH3xopmDf6FdkP9Upm43RGfT3Ie+PeV30aG8gtUUAV4cLbCZ1Gkx2Huufkt4n2GIZntxEvo9lfKJy1JQBIDjfG9PbeqrKGpJlf2ZKS/c+PsjBKGXMU+MaJZRZT3qRoExsc8kBGbRbNdpCWEp5EB7QTEJ2qmrZJsOo0Zc9/vpr/mGLznnrKUuXdyOiQkX1n1Cuk0z7JTnaLPPyaTAoYkI56dQLDZSUIJN5ATRJbrc4wiKyNLbk+Rqfph4kWQr291Ze0I735ySkJHAjniSrzk1nFjTAfYXR6jG9c60eNeik6Kx2gE1gHyKKsZAaVT7Z3J+m8EC2Oo25llcFHSRwJfa4aN6hGTtneKO+xGrzKI9LGYdkEIJi7f5rPjCuleoHJtrwCIHykgqjF8NUv3Fy4P0Bb55P0tT9qMpz9ZPDXWnquDeaepwCMqZ5kkd/P3qa00XAkGQfcX1LySVD76PJ0I6a+Kp38bERrsI0F5CXkorAm7RD+NfT7/uxw2zU41WDh4g==;gsaiMyFXWJbf/dcLQd193A=="
 ---
