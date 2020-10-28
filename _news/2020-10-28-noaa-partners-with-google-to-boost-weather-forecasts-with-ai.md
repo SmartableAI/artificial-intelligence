@@ -40,20 +40,6 @@ related:
         width: 950
         height: 474
         isCached: true
-  - title: "NOAA and Google to apply machine learning to satellite data"
-    excerpt: "“Strengthening NOAA’s data processing through the use of big data, artificial intelligence, machine learning and other advanced analytical approaches is critical for maintaining and enhancing ..."
-    publishedDateTime: 2020-10-27T16:47:00Z
-    webUrl: "https://spacenews.com/noaa-google-cloud-ota/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 39
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2020/10/rsz_20200807-safires.jpg"
-        width: 879
-        height: 494
-        isCached: true
   - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
     excerpt: "PRNewswire/ -- NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite and environmental data."
     publishedDateTime: 2020-10-27T15:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.crn.com/resources/0262-10ae6f85c9c0-ea4cc5ac5ea6-1000/ai-400.jpg"
         width: 399
         height: 399
-        isCached: true
-  - title: "Now is the time to raise your voice for peace"
-    excerpt: "Nothing that I can do will change the structure of the universe. But maybe, by raising my voice I can help the greatest of all causes — goodwill among men"
-    publishedDateTime: 2020-10-23T17:00:00Z
-    webUrl: "https://www.murfreesboropost.com/opinion/columns/now-is-the-time-to-raise-your-voice-for-peace/article_136d1558-1263-11eb-9b85-470710acfe04.html"
-    type: article
-    provider:
-      name: Murfreesboro Post
-      domain: murfreesboropost.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/murfreesboropost.com/content/tncms/assets/v3/editorial/f/f2/ff2e6078-625a-11ea-8e5d-1f4fbd82e799/5e66cce478060.image.jpg?crop=1118%2C687%2C37%2C61&resize=1025%2C630&order=crop%2Cresize"
-        width: 1025
-        height: 630
         isCached: true
   - title: "AI and the Legal Business Model: Why Time is Up for the Billable Hour"
     excerpt: "If law firms fail to adequately respond to new imperatives, they not only risk losing an important opportunity to grow and scale but perhaps they even threaten their ability to survive at all in the quickly evolving legal landscape."

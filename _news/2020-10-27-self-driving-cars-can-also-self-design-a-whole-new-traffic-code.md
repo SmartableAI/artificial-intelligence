@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Robot Enters COVID-19 Fight"
-    excerpt: "A robot initially designed for shipboard firefighting and maintenance tasks has now been enlisted in the fight against COVID-19."
-    publishedDateTime: 2020-10-23T14:33:00Z
-    webUrl: "https://www.defense.gov/Explore/Features/Story/Article/2389691/robot-enters-covid-19-fight/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 39
-    images:
-      - url: "https://media.defense.gov/2020/Oct/21/2002520993/1280/1280/0/080120-N-NO201-0001C.JPG"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Machine learning helps hunt for COVID-19 therapies"
     excerpt: "The group already has one machine learning model at work in the pandemic, predicting consequences of mutations to SARS-CoV-2. Now, Wei’s team has deployed another to help drug developers on their most promising leads for attacking one of the virus’ most compelling targets."
     publishedDateTime: 2020-10-24T05:26:00Z

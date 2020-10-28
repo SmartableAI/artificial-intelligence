@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Buys Self-Learning AI Video Startup to Improve Apps"
-    excerpt: "Apple Inc. acquired a startup specializing in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services. The Cupertino, California-based technology giant acquired ..."
-    publishedDateTime: 2020-10-27T19:39:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
+  - title: "Apple buys computer vision startup Vilynx for $50 million"
+    excerpt: "Earlier in 2020, Apple reportedly purchased Barcelona startup Vilynx that specialized in artificial intelligence, machine learning, and computer vision. Citing sources familiar with the matter ..."
+    publishedDateTime: 2020-10-27T20:01:00Z
+    webUrl: "https://appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million"
+    ampWebUrl: "https://appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 87
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 59
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3ljJ6nNqEA8/v1/360x-1.jpg"
-        width: 360
-        height: 240
+      - url: "https://photos5.appleinsider.com/gallery/38496-73173-18mOPktnUsnga0uOsSudKuw-xl.jpg"
+        width: 1200
+        height: 671
         isCached: true
   - title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
     excerpt: "The purchase will also deepen Apple's AI expertise, with around 50 engineers and data scientists joining from Vilynx, and the startup's Barcelona office set to become one of Apple's key AI ..."
@@ -56,33 +56,19 @@ related:
         width: 2588
         height: 1941
         isCached: true
-  - title: "How AI Helps Amazon Improve Sustainable Packaging"
-    excerpt: "Artificial intelligence has helped Amazon boost sustainable packaging options while slashing waste, but there's still room for improvement on this front."
-    publishedDateTime: 2020-10-27T07:25:00Z
-    webUrl: "https://www.triplepundit.com/story/2020/ai-amazon-sustainable-packaging/707721"
+  - title: "Apple reportedly acquires AI and vision startup Vilynx for $50M"
+    excerpt: "Apple Inc. is said to have acquired artificial intelligence and vision startup Vilynx Inc. earlier ... Vilynx offered a “powerful AI Brain” that was designed to connect people with content ..."
+    publishedDateTime: 2020-10-28T01:54:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/apple-reportedly-acquires-ai-vision-startup-vilynx-50m/"
     type: article
     provider:
-      name: TriplePundit
-      domain: triplepundit.com
-    quality: 39
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/amazon%20sustainable%20packaging.jpg?h=bc09f3d1"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "Apple Buys AI Startup For $50m In Apparent Effort To Improve Siri"
-    excerpt: "Apple has acquired a Spanish startup specialising in advanced artificial intelligence and computer vision technology in an apparent effort to improve Siri and its corresponding apps. The tech giant bought Barcelona-based Vilynx Inc,"
-    publishedDateTime: 2020-10-28T02:07:00Z
-    webUrl: "https://www.channelnews.com.au/apple-buys-ai-startup-for-50m-in-apparent-effort-to-improve-siri/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 37
     images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/10/siri.jpg"
-        width: 840
-        height: 441
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/vilynx.png"
+        width: 715
+        height: 341
         isCached: true
 
 secured: "7o3C//Lj3HKZt5egNpr4WXlfZcxxQKl2SH7aZFwfA7QpLOPeRtucAXsd21QK8KIEoPdzq1BNub+5yM+bUPI3umZofYbKnqirpyG+cN3xNm/eNrgxAhb47cYuua3z6hEJIniHHBAJC5xm20qfrqb95j4G/Z5vJ8HP/fOCQ2CH6HIUz4ZpKNlHuyf0gvGBx8GLLQxrN+gQjtbbUDMmvlEAFHXnDDKpgXFYAEQ6MZlCrc1CgccINCUDI+cgfGt9p2sPBRJsllpXCu4l+Cc5NNM4RtIAUVP6jGu9EfIU9pHWg49+DHA1nzAcl6yJUYvFXIYWfAe5ec6Ke0dI1asR3ddDtSCST20JN9p8p6SAldMR6igBbFF51LS6AnQS15TkV3KRizWmWP4nb3hrzN3UJBaGY9T2WFyTQzTuiFyMNalmqOYF87U8dPKXv7zqza4a4LPZ8L0hpbgoK9KzSCBJerNgQNCERwXolzuVJ14ZWIrEnW6TgRyfUrfeEpY2wevWmwtmT/oFAnHApGYmANPoHruRBA==;olnmOvtuIuoMFfcOH4gYSw=="

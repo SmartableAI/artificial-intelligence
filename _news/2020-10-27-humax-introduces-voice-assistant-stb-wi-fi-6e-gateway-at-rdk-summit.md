@@ -7,7 +7,7 @@ originalUrl: "https://www.telecompaper.com/news/humax-introduces-voice-assistant
 webUrl: "https://www.telecompaper.com/news/humax-introduces-voice-assistant-stb-wi-fi-6e-gateway-at-rdk-summit--1359369"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Humax introduces RDK-based voice assistant set-top box"
+    excerpt: "Humax has announced the introduction of a voice assistant set-top box and Wi-Fi 6E gateway at the RDK Euro Summit 2020. The set-top box integrates stereo sound and supports Alexa's Far-Field Voice Recognition with a built-in mic."
+    publishedDateTime: 2020-10-28T08:57:00Z
+    webUrl: "https://www.digitaltvnews.net/?p=35344"
+    type: article
+    provider:
+      name: Digital TV News
+      domain: digitaltvnews.net
+    quality: 24
+    images:
+      - url: "https://www.digitaltvnews.net/wp-content/uploads/2020/10/Humax-Virtual-RDK-Summit-2020.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Humax unveils Voice Assistant STB & Wi-Fi 6E gateway"
     excerpt: "which includes integrated stereo sound and supports Alexa’s Far-Field Voice Recognition with a built-in mic. At the RDK Euro Summit, Humax will also showcase its market-ready IP Box integrated with the latest Broadcom solution with 24K DMIPS CPU ..."
     publishedDateTime: 2020-10-27T09:42:00Z

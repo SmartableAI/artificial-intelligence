@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Buys Self-Learning AI Video Startup to Improve Apps"
-    excerpt: "Apple Inc. acquired a startup specializing in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services. The Cupertino, California-based technology giant acquired ..."
-    publishedDateTime: 2020-10-27T19:39:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
+  - title: "Apple buys computer vision startup Vilynx for $50 million"
+    excerpt: "Earlier in 2020, Apple reportedly purchased Barcelona startup Vilynx that specialized in artificial intelligence, machine learning, and computer vision. Citing sources familiar with the matter ..."
+    publishedDateTime: 2020-10-27T20:01:00Z
+    webUrl: "https://appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million"
+    ampWebUrl: "https://appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 87
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 59
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3ljJ6nNqEA8/v1/360x-1.jpg"
-        width: 360
-        height: 240
+      - url: "https://photos5.appleinsider.com/gallery/38496-73173-18mOPktnUsnga0uOsSudKuw-xl.jpg"
+        width: 1200
+        height: 671
         isCached: true
   - title: "Apple Acquires AI Startup Vilynx to Improve Siri"
     excerpt: "Apple earlier this year acquired artificial intelligence startup Vilynx with the aim of improving the Siri voice assistant built into Apple"
@@ -60,33 +60,19 @@ related:
         width: 1600
         height: 1192
         isCached: true
-  - title: "How AI Helps Amazon Improve Sustainable Packaging"
-    excerpt: "Artificial intelligence has helped Amazon boost sustainable packaging options while slashing waste, but there's still room for improvement on this front."
-    publishedDateTime: 2020-10-27T07:25:00Z
-    webUrl: "https://www.triplepundit.com/story/2020/ai-amazon-sustainable-packaging/707721"
+  - title: "Apple reportedly acquires AI and vision startup Vilynx for $50M"
+    excerpt: "Apple Inc. is said to have acquired artificial intelligence and vision startup Vilynx Inc. earlier ... Vilynx offered a “powerful AI Brain” that was designed to connect people with content ..."
+    publishedDateTime: 2020-10-28T01:54:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/apple-reportedly-acquires-ai-vision-startup-vilynx-50m/"
     type: article
     provider:
-      name: TriplePundit
-      domain: triplepundit.com
-    quality: 39
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/amazon%20sustainable%20packaging.jpg?h=bc09f3d1"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "Apple Buys AI Startup For $50m In Apparent Effort To Improve Siri"
-    excerpt: "Apple has acquired a Spanish startup specialising in advanced artificial intelligence and computer vision technology in an apparent effort to improve Siri and its corresponding apps. The tech giant bought Barcelona-based Vilynx Inc,"
-    publishedDateTime: 2020-10-28T02:07:00Z
-    webUrl: "https://www.channelnews.com.au/apple-buys-ai-startup-for-50m-in-apparent-effort-to-improve-siri/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 37
     images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/10/siri.jpg"
-        width: 840
-        height: 441
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/vilynx.png"
+        width: 715
+        height: 341
         isCached: true
 
 secured: "UR08vCNZ7AL1N0agwM+dDMBdXqNJDB497nkzZ/wSsD3pQaP+pFtUj0x2ln3fU0P1hH/gLYTfHvyN95leq4vKRde18pBe+J1RA38KoJIZZHd4qorjq/NpE/ZTUSQK0ddge2wpxvZb3h2pc0wqbEQrJn4he9eLQuhONcPQ088ckJWeDDHlFdpldOQjoNT63Pnme4yRGZNXjQuMW7uXI9Q1APqY3QEj8SOIgFffw+O2DSRANIVr7ZmqLNmFFI+8QLT+2uJdvTgdIjLIrcRVltMEiF8nnUGg4PmFypCftvtcfgSu2qyXEo33F2S32+H4GGpQGxnTXpHmksq1bElXyHcPW30YNpBVCfjWNZuVhLQOvD4=;ZmFCHJyFLan7dq7kqI4VHw=="

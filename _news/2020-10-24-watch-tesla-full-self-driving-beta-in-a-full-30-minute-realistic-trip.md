@@ -96,22 +96,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "We're all guinea pigs for Tesla's latest self-driving tech"
-    excerpt: "Tesla is beta-testing its latest self-driving technology with a small group of early adopters, a move that alarms experts and makes every road user — including other motorists, pedestrians and cyclists — unwitting subjects in its ongoing safety experiment."
-    publishedDateTime: 2020-10-23T16:14:00Z
-    webUrl: "https://www.axios.com/tesla-self-driving-beta-software-6d7210e5-02f2-4b25-9cba-c4a0d816a024.html?ref=hvper.com"
-    ampWebUrl: "https://www.axios.com/tesla-self-driving-beta-software-6d7210e5-02f2-4b25-9cba-c4a0d816a024.html?ref=hvper.com"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/tesla-self-driving-beta-software-6d7210e5-02f2-4b25-9cba-c4a0d816a024.html?ref=hvper.com"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
-    images:
-      - url: "https://images.axios.com/aHdSgZCK4hB-ioOnGeMrDpGczyE=/fit-in/1366x1366/2020/10/23/1603465607532.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Should You Spend $10,000 On Tesla’s Full Self-Driving System?"
     excerpt: "Tesla CEO Elon Musk recently announced the automaker is increasing the price of their Full Self-Driving system by $2,000. That’s a significant jump and brings the system’s price to $10,000. Which begs the question of whether or not it’s worth it."
     publishedDateTime: 2020-10-24T16:45:00Z
@@ -143,22 +127,6 @@ related:
       - url: "https://cdn.motor1.com/images/mgl/y8PYo/s1/tesla-full-self-driving.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Tesla Deployed Full Self-Driving Beta in Some Cars. Here’s How It Works."
-    excerpt: "Last week Monday we gave you a heads up that Tesla would be releasing a beta version of its full self-driving (FSD) capability to some cars this week. It appears Elon Musk’s team has made the deadline;"
-    publishedDateTime: 2020-10-23T16:53:00Z
-    webUrl: "https://www.insidehook.com/daily_brief/vehicles/how-tesla-full-self-driving-beta-works"
-    ampWebUrl: "https://www.insidehook.com/daily_brief/vehicles/how-tesla-full-self-driving-beta-works/amp"
-    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/vehicles/how-tesla-full-self-driving-beta-works/amp"
-    type: article
-    provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 58
-    images:
-      - url: "https://www.insidehook.com/wp-content/uploads/2020/10/Tesla-Self-Driving-Beta.jpg?resize=1200,800"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Tesla rolls out 'full self-driving' software to select Tesla owners"
     excerpt: "Tesla announced the release of their beta software for 'full self-driving' cars to a small group of Tesla owners."

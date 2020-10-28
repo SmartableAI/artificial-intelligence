@@ -22,63 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "AI and machine learning: Powering the next-gen enterprise"
-    excerpt: "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents."
-    publishedDateTime: 2020-10-23T13:57:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/"
+  - title: "Calculating where artificial intelligence can do business"
+    excerpt: "Some recent breakthroughs in artificial intelligence, though striking, can seem of mainly theoretical interest. It is one thing to generate impressive results in a research setting, quite another to apply them in practice."
+    publishedDateTime: 2020-10-25T20:00:00Z
+    webUrl: "https://www.ft.com/content/f82a14c1-66ed-4f24-a809-6d4f111bb2de"
+    ampWebUrl: "https://amp.ft.com/content/f82a14c1-66ed-4f24-a809-6d4f111bb2de"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f82a14c1-66ed-4f24-a809-6d4f111bb2de"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
     images:
-      - url: "https://assets.bbhub.io/professional/sites/10/347789615.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
-  - title: "Video streaming and deep learning: Using Amazon Kinesis Video Streams with Deep Java Library"
-    excerpt: "Amazon Kinesis Video Streams allows you to easily ingest video data from connected devices for processing. One of the most effective ways to process this video data is using the power of deep learning. You can create an efficient service infrastructure to run these computations with a Java server, but"
-    publishedDateTime: 2020-10-27T16:35:01Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
-  - title: "How artificial intelligence and machine learning power content-first newsrooms"
-    excerpt: "By Chris Nguyen, executive vice president, marketing at Naviga Digital is no longer just a nice addition to a newspaper’s success, but an imperative. While print remains a key source of revenue — capturing both subscriptions and advertising — spending too much time on designing and managing printed editions has become an obstacle to digital transformation."
-    publishedDateTime: 2020-10-26T00:07:00Z
-    webUrl: "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/"
-    ampWebUrl: "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/"
-    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/"
-    type: article
-    provider:
-      name: Digiday
-      domain: digiday.com
-    quality: 70
-    images:
-      - url: "https://i1.wp.com/digiday.com/wp-content/uploads/2020/10/Digiday_Naviga_Banner_1440X600-1.jpg?fit=682%2C284&ssl=1"
-        width: 681
-        height: 284
-        isCached: true
-  - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
-    excerpt: "It’s a challenge to learn a new language, especially once we’re past 18 years old. But Duolingo, self-proclaimed as “the world’s best way to learn a language” and seconded by reviewers at the Wall Street Journal and the New York Times,"
-    publishedDateTime: 2020-10-27T06:26:00Z
-    webUrl: "https://www.linkedin.com/pulse/amazing-ways-duolingo-using-artificial-intelligence-deliver-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 28
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQG8ma-s99VPlQ/article-cover_image-shrink_720_1280/0?e=1609372800&v=beta&t=ZQjGHg2B_6PQm8fGRIvYNzN2emKDW8gv-qTLJqCeoPI"
-        width: 1081
-        height: 720
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F57115938-d3d8-4266-a019-013ca36040ee.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "tE3DKflyu7RQCZkZxgQJgvDpx8echsJ7kXhcrGXFAFAucBBGfY1wBP/2Z2M7ogOvvWt8CFjhGVYZ7UulHBs95n7LTP1yuXeLhAIcZ1qdDrLMxMUY4h8XERs71lmFZoU8Mcv7V9G6J7MSBl92pHMCXFjI4n0YWP70x4gwIRlnwit+z33MIIC7/0YPU2iLg2fOco5MFTxiqJMlNUNxkE4Jhk4BN9rJkJmgt9Th8cxRCUSgUo3vezijVSdlJfAUURYmw73H+5RUdDYkwEyrBKTfqriGP0P+FBjXTDqXep46L0sKlF36MKsaFpTOEhm30hPpRFTMk9P4ma61i25N7fOU57yTayIxaXHh+BAkhrsOj04=;FFx+MpH/6p0LikVYBhdGTA=="

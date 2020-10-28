@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 368
         isCached: true
 
-secured: "e6gpoQo0zj4KqqV89/0Lf+JCf+ffykTwGgvBO59TLJYsv0REMmMv4mAmvwsbhIvccyolP3z7Q1Y/CzEyuob/5Hy03nx66xVkr8JrRa0hTKIOtdDw1UZV1H/pwiIekBpDRg1MiUEASWpofl2jsLk8zs08pe0bkhsi7CTK/n/a27vE78/GYhylGjPv0CWjRsLDBWjNupayhAmALs0H5N+6dMwXWO6UxgdXnuVeqSD8esciYHMthmUA3wjNwpBsrJnFsTgcOTc8+D24QtpXENNRliohH5HXLJ6HfUIaTGc2EiY3IO87NuaBVU0myIe2S2kvuw8LXxswDfAH/CrfEONS8xtfTMGIsGVvrwFzruE6iG4=;yx9zkMge8oPS+4Wyhv+Grg=="
+secured: "9ncX0r44V7Dm++KM5Vuri7VNyizivdbC6vwrbh74wwBjdu3jBJdpDx6xZ1o+Su+7PdqkYURHALXMBLPHF7lgH9HNjUImVmoPGnba+wCjgWSv3PmxYW88ZKaQOQvU2DNcD39YvrgR0XffeezgGRK2DYAq5rJzwktng2a5dhcaFVcHTQlscdOcAKGmz39lgYcIFtxjngtZ6T8DPcMmYiVBOfHkleozdeGOdhPVcxjttw9bUxQ7ztlCCeLHjHvVOz4eiWNuTqtC7+UQlLvRYRgGErGZw4enJem9efVmQHiV2luSN3xkmRYYO4s+dKzn2Rs9B2Hrq+5NdPuYfjMsrizgCcvTb/NbnfG/BX9GQZehTn0+Si5lpdq0VNe6idHrNZe2zvxDddjOuQEI5Wr/OFGLtL2Q6Je8vUMjUc98+N/v2F77vpehV1BRHg8ChF4eXLduFCMpHmYx6umh6jShhq69haehScPlpyxHsFO0206Pse9NYYYR3oG9H6TbtxnxgQhTLZsGhU7xxGgIgcMdFj/MWA==;y1grB/dtGeU/6oPazNVEiA=="
 ---
 

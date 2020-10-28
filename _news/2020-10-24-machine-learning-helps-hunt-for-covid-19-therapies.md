@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Robot Enters COVID-19 Fight"
-    excerpt: "A robot initially designed for shipboard firefighting and maintenance tasks has now been enlisted in the fight against COVID-19."
-    publishedDateTime: 2020-10-23T14:33:00Z
-    webUrl: "https://www.defense.gov/Explore/Features/Story/Article/2389691/robot-enters-covid-19-fight/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 39
-    images:
-      - url: "https://media.defense.gov/2020/Oct/21/2002520993/1280/1280/0/080120-N-NO201-0001C.JPG"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Ford’s next-gen test Vehicle lays self-driving foundation"
     excerpt: "Beginning  to roll out this month, Ford and Argo AI‘s fourth-generation self-driving test vehicles are built on the Escape Hybrid platform and feature the latest advancements in sensing and computing technology."
     publishedDateTime: 2020-10-25T18:59:00Z

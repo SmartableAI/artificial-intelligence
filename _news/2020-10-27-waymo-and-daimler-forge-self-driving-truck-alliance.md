@@ -134,6 +134,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Waymo, Daimler partner to make self-driving trucks"
+    excerpt: "Alphabet Inc's autonomous driving technology development unit, Waymo, and a division of Germany's luxury carmaker Daimler AG have teamed up to make heavy-duty, self-driving trucks in the United States,"
+    publishedDateTime: 2020-10-27T18:00:00Z
+    webUrl: "https://www.reuters.com/article/daimler-alphabet-autonomous-trucks-idUSL4N2HH3JP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2HH3JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2HH3JP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
   - title: "Waymo, Daimler to partner in developing self-driving semi trucks"
     excerpt: "In today technology news, we covered about the Waymo, Daimler to partner in developing self-driving semi trucks"
     publishedDateTime: 2020-10-27T16:31:00Z

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
-      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ...",
+      "path": "_news/2020-10-28-mercedes-targets-evolution-rather-than-revolution-in-self-driving-car-push.md",
+      "title": "Mercedes targets evolution rather than revolution in self-driving car push",
+      "excerpt": "(Reuters) — As Tesla touts the cutting-edge nature of its new Full Self Driving software, rival Mercedes-Benz says it has developed a similar system but stops short of allowing members of the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
+      "webUrl": "https://venturebeat.com/2020/10/28/mercedes-targets-evolution-rather-than-revolution-in-self-driving-car-push/",
+      "originalUrl": "https://venturebeat.com/2020/10/28/mercedes-targets-evolution-rather-than-revolution-in-self-driving-car-push/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
-          "width": 1678,
-          "height": 1119,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/Screenshot_2020-10-28-Mercedes-bets-on-evolution-as-Tesla-touts-revolution-in-automated-driving.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 673,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T22:40:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/10/28/mercedes-targets-evolution-rather-than-revolution-in-self-driving-car-push/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/28/mercedes-targets-evolution-rather-than-revolution-in-self-driving-car-push/amp/",
+      "publishedDateTime": "2020-10-28T01:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,8 +50,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -54,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -106,7 +114,7 @@
       "originalUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -202,7 +210,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/10/27/daimler-teams-up-with-waymo-on-self-driving-tracto/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -514,7 +522,7 @@
       "originalUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 278,
+      "heat": 228,
       "tags": null,
       "images": [
         {

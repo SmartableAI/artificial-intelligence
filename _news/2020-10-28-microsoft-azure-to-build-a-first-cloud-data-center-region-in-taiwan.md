@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cl
 webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
 type: article
 quality: 69
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: SiliconANGLE
@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Panasonic Expands Cloud Capabilities for Public Safety Professionals with Microsoft Azure Government Cloud"
-    excerpt: "Virtual Training Event and Expo, Panasonic announced they are working with Microsoft to add security, compliance, infrastructure, and storage to enhance Panasonic’s video redaction automation capabilities for public safety professionals."
-    publishedDateTime: 2020-10-23T14:43:00Z
-    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/panasonic-expands-cloud-capabilities-for-public-safety-professionals-with-microsoft-azure-government-cloud/article_770d18bd-f2cb-566e-94c9-7edd1977219d.html"
+  - title: "Microsoft to Build the First Azure Cloud Data Center in Taiwan"
+    excerpt: "As China continues clashing with US on trade and tightens control in Hong Kong, the cloud giant plans a new strategic foothold in the region."
+    publishedDateTime: 2020-10-26T00:00:00Z
+    webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-build-first-azure-cloud-data-center-taiwan"
     type: article
     provider:
-      name: Rome News-Tribune
-      domain: northwestgeorgianews.com
-    quality: 36
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 69
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/taipei%20skyline%202020%20getty.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ..."
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,"
     publishedDateTime: 2020-10-26T14:01:00Z
-    webUrl: "https://www.dailyrecordnews.com/ap_news/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_64b345bf-344a-53b7-816e-43b32ba52bdb.html"
+    webUrl: "https://www.thedailytimes.com/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_10ca99a4-1e8d-5158-b85f-f01ecf8b6a08.html"
     type: article
     provider:
-      name: Ellensburg Daily Record
-      domain: dailyrecordnews.com
+      name: thedailytimes.com
+      domain: thedailytimes.com
     quality: 34
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
@@ -66,20 +66,6 @@ related:
       - url: "https://mms.businesswire.com/media/20201026005033/en/832810/23/2018_Logo.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
-    excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure."
-    publishedDateTime: 2020-10-26T04:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/798393/Boston_Consulting_Group_Logo.jpg?p=facebook"
-        width: 756
-        height: 396
         isCached: true
 
 secured: "xVfe2rNkfIkgVRyRd1jvsr2AHJjuAXz5irrcx6KwedkEw8y1ikX1xb0B9+W4ocHwR0n7EJrcusz9w6zfN1zwkkKTRjb8zF2qq4ezKqBLc0H3sgjlj9q+c1Zs33xiopluA3uKix6RtaZQkmnFNuyVi9gy8Yp1TmVhs8E5qTMEPJ3+7iy64V2vWXu1rEtJzPnOw6HEKiHDWum6JTJvdCzYvp1b9CrjNEAjuB+pYSnYaEWDotSM4rm9ApVm8Q+sI12jcctPKZjKqt7nTo2lIoI5Ot3i7CX1vq+uWWxcJBc7sfWR7kYgB1wGykVcgFkP5hpRuH6gBE69EX7s0oDZDK1Qd26b+RUASvvnBCW7vJUz3ZE=;0ByIqcJ6tDeoAgW1Ylg6lA=="

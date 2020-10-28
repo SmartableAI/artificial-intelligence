@@ -75,22 +75,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla Full Self-Driving Beta: a collection of video demonstrations by early testers"
-    excerpt: "Driving Beta is starting to reach more cars in the fleet and customers, which are basically being used as testers, are starting to share video demonstrations. Here we share a few of them for a better look at Tesla’s FSD Beta."
-    publishedDateTime: 2020-10-23T13:56:00Z
-    webUrl: "https://electrek.co/2020/10/23/tesla-full-self-driving-beta-video-demonstrations/"
-    ampWebUrl: "https://electrek.co/2020/10/23/tesla-full-self-driving-beta-video-demonstrations/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/23/tesla-full-self-driving-beta-video-demonstrations/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?quality=82&strip=all"
-        width: 1851
-        height: 853
-        isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ beta test has caught the attention of federal safety regulators"
     excerpt: "Federal regulators are keeping their eye on the rollout of Tesla’s “Full Self-Driving” experiment. This week, the automaker began beta testing its latest advanced driver assist software with a select group of customers,"
     publishedDateTime: 2020-10-23T17:57:00Z
@@ -155,51 +139,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended"
-    excerpt: "Self-driving technology is a holy grail that promises to forever change the way we interact with cars. Thus far, there’s been plenty of hype and excitement, but full vehicles that remove the"
-    publishedDateTime: 2020-10-23T17:03:00Z
-    webUrl: "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 65
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/10/teslafsdmain.jpg"
-        width: 3000
-        height: 1815
-        isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
-    publishedDateTime: 2020-10-27T12:48:00Z
-    webUrl: "https://www.10tv.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.10tv.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    publishedDateTime: 2020-10-27T14:29:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
     type: article
     provider:
-      name: 10TV.com
-      domain: 10tv.com
+      name: WHAS11 News
+      domain: whas11.com
     quality: 59
     images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+      - url: "https://media.whas11.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Tesla Bros Are Freaking Out Right Now About the New Full Self-Driving Beta"
-    excerpt: "\"It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road.\""
-    publishedDateTime: 2020-10-23T14:52:00Z
-    webUrl: "https://futurism.com/reactions-tesla-full-self-driving-beta"
-    ampWebUrl: "https://futurism.com/reactions-tesla-full-self-driving-beta/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/reactions-tesla-full-self-driving-beta/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2020/10/reactions-tesla-full-self-driving-beta-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves! Here’s what happened"
     excerpt: "Tesla sent out its ‘full self-driving’ software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the USD 8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
@@ -252,7 +206,7 @@ related:
   - title: "Tesla’s ‘Full Self Driving’ Beta Tech Nearly Wrecked This Model 3 Into a Parked Car"
     excerpt: "Tesla's \"Full Self Driving\" update was sent out to an unknown number of beta testers a few days ago, and videos showing the system's performance are being shared around the internet. One such clip, posted by YouTuber Brandon M,"
     publishedDateTime: 2020-10-27T19:17:00Z
-    webUrl: "https://www.thedrive.com/news/37297/teslas-full-self-driving-beta-tech-nearly-wrecked-this-model-3-into-a-parked-car"
+    webUrl: "https://www.thedrive.com/tech/37297/teslas-full-self-driving-beta-tech-nearly-wrecked-this-model-3-into-a-parked-car"
     type: article
     provider:
       name: The Drive
@@ -276,36 +230,6 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/full-self-driving-beta-release-is-tesla-s-most-irresponsible-move-so-far-150642-7.jpg"
         width: 728
         height: 300
-        isCached: true
-  - title: "Safety Regulator Vows to ‘Closely Monitor’ New Tesla Self-Driving Software"
-    excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc.'s release of a software version intended to allow its cars to drive"
-    publishedDateTime: 2020-10-23T15:09:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/10/23/587801.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 37
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/08/tesla-580x326.jpeg"
-        width: 580
-        height: 326
-        isCached: true
-  - title: "Some Tesla drivers may start testing ‘full self-driving’ software this weekend. Here’s a look at the hype — and the safety fears."
-    excerpt: "Buried on Tesla's website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-23T14:39:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-tesla-autopilot-self-driving-test-20201023-zbuljdk7ibfpnmeowpvpj7u6um-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-tesla-autopilot-self-driving-test-20201023-zbuljdk7ibfpnmeowpvpj7u6um-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-tesla-autopilot-self-driving-test-20201023-zbuljdk7ibfpnmeowpvpj7u6um-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 30
-    images:
-      - url: "https://www.chicagotribune.com/resizer/J77DQNgUXkEX8jUBUBnBo_m67M4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUZS3EYRONEMFKSQVWKZ72CRS4.jpg"
-        width: 1200
-        height: 750
         isCached: true
   - title: "Tesla is putting ‘self-driving’ in the hands of drivers — but critics ask if the tech is ready"
     excerpt: "SAN FRANCISCO — In a year when Tesla might have been forgiven for extending its timeline on a key initiative, Elon Musk is forging ahead with a vision for what he calls “Full Self-Driving.” This past week, a group of drivers was selected to receive a ..."

@@ -34,22 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "New AI Platform Matches Tumor to Right Drug Combination"
-    excerpt: "DrugCell, a new artificial intelligence system not only matches tumors to the best drug combinations, but does so in a way that makes sense to humans.’ Read More.."
-    publishedDateTime: 2020-10-23T16:51:00Z
-    webUrl: "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "usyXWmwBjbJe1OmPXq3oRaBxM1qzlHy7xOsWWqLEdO0YA5kAfNHTwm5SwPYIer2wukYpUaSCo+5FduBAQpsSY1bbUAQ4QknDM0qZhn8FBSzVnoim3wSNkci3UVGP/2iKSc+dUWASZ+huGeWhTQera5KWr1S4LQro+Eu/0vrYofuzzJZLEyqNfLBZQij2MJNoWi/9faVwc8BhgDGuPcDVgPU+jp+TI/poNx8n776YNQMS2mzeywvxUAovXfven7irmsBnTe81q2JZhbZReTCgk5n9Bi8ZKzRuVDDd8aUCWnLJYDRZr5efXCL7Dn44tdAF1Vjp+XNgjZ8lx0Um1PehX5CNbDDkdtd03bgX3Ave9lA=;3PwgvkHWy6JjEQEftR3rYg=="
 ---

@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and machine learning: Powering the next-gen enterprise"
-    excerpt: "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents."
-    publishedDateTime: 2020-10-23T13:57:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bbhub.io/professional/sites/10/347789615.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Video streaming and deep learning: Using Amazon Kinesis Video Streams with Deep Java Library"
     excerpt: "Amazon Kinesis Video Streams allows you to easily ingest video data from connected devices for processing. One of the most effective ways to process this video data is using the power of deep learning. You can create an efficient service infrastructure to run these computations with a Java server, but"
     publishedDateTime: 2020-10-27T16:35:01Z
@@ -57,31 +43,34 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "How artificial intelligence and machine learning power content-first newsrooms"
-    excerpt: "By Chris Nguyen, executive vice president, marketing at Naviga Digital is no longer just a nice addition to a newspaper’s success, but an imperative. While print remains a key source of revenue — capturing both subscriptions and advertising — spending too much time on designing and managing printed editions has become an obstacle to digital transformation."
-    publishedDateTime: 2020-10-26T00:07:00Z
-    webUrl: "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/"
-    ampWebUrl: "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/"
-    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/"
+  - title: "NOAA and Google to apply machine learning to satellite data"
+    excerpt: "“Strengthening NOAA’s data processing through the use of big data, artificial intelligence, machine learning and other advanced analytical approaches is critical for maintaining and enhancing ..."
+    publishedDateTime: 2020-10-27T16:47:00Z
+    webUrl: "https://spacenews.com/noaa-google-cloud-ota/"
     type: article
     provider:
-      name: Digiday
-      domain: digiday.com
-    quality: 70
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 39
     images:
-      - url: "https://i1.wp.com/digiday.com/wp-content/uploads/2020/10/Digiday_Naviga_Banner_1440X600-1.jpg?fit=682%2C284&ssl=1"
-        width: 681
-        height: 284
+      - url: "https://spacenews.com/wp-content/uploads/2020/10/rsz_20200807-safires.jpg"
+        width: 879
+        height: 494
         isCached: true
-  - title: "Making the AI leap: Leading AI experts gather to discuss Singapore's changing business landscape"
-    excerpt: "With the Royal Danish Embassy, Singapore and Cyber Youth Singapore officially supporting the event, global technology experts and solution providers unearthed the new opportunities for AI adoption in Singapore."
-    publishedDateTime: 2020-10-27T08:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/making-the-ai-leap-leading-ai-experts-gather-to-discuss-singapore-s-changing-business-landscape-1029725170"
+  - title: "Biometric Cards, Digital ID, and Machine Learning: This Week’s Top Mobile ID Stories"
+    excerpt: "Mobile ID World's top stories bring us two prominent themes: alternative approaches to digital ID, and biometric cards."
+    publishedDateTime: 2020-10-24T20:54:00Z
+    webUrl: "https://mobileidworld.com/biometric-cards-digital-id-and-machine-learning-this-weeks-top-mobile-id-stories/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Mobile ID News
+      domain: mobileidworld.com
     quality: 34
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock-910132252-2-e1529328362344.jpg"
+        width: 800
+        height: 586
+        isCached: true
 
 secured: "RMWw640rwNU49/UB2kJzLU6Y5+Aqxv2xpf6W7v/iigyFepfkN2ExR4r4lXI0iNvSO5h7WTSm1/MLBoU92tmkd+J7Kizwpgu9NoAKRRNKPbhgwShfQJ76QdA7jF3AcK947K/NY+7vJGXYiTWtjuSj6zO/vs0MzEbznv/on/w+2hZfIikrTcWuvp+csC2bbQSjfHO+mWY0cqsuUJgVR+IwCfmFXSKCkbslAwSZ8yt/yCRIg74R9K+VCInjlN9A8PRcOu1U3G6XspMy3CLWwRi2Xqx9PGLpaEiaD9z8Pa4gzBiKwfDq+UjUBJolDO9KeWmYSrEW0dM6RCeBTx+2b2lznhT5MKxCKkXcxycpCHK6NQ0yoClwMxbS1d7GamNqGjd/1SGVDA2nTsf1d9LuISBF6qHNwKF5kP1EZZN5huT6tqh33k3TfTXH76rtST2CqCg7GT1L3kKZpiYXDrEyOHFPtphCltpd6CTe8wqAlQJlH/XySu0vpjTR0qricFBICXf39AehMD+fswMpzl/b+Ck11Q==;1I0k/TsCPtLuuCrN4pYWjQ=="
 ---

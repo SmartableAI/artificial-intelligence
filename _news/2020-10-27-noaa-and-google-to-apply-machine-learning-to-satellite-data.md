@@ -25,49 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
-    excerpt: "Public-private partnership between NOAA and Google taps into AI technology to more effectively use satellite and environmental data to improve weather forecasting WASHINGTON, Oct. 27, 2020 — NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite"
-    publishedDateTime: 2020-10-27T17:34:00Z
-    webUrl: "https://gisuser.com/2020/10/noaa-and-google-collaborate-to-enhance-weather-forecasting-and-research-with-artificial-intelligence/"
-    ampWebUrl: "https://gisuser.com/2020/10/noaa-and-google-collaborate-to-enhance-weather-forecasting-and-research-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2020/10/noaa-and-google-collaborate-to-enhance-weather-forecasting-and-research-with-artificial-intelligence/amp/"
+  - title: "Video streaming and deep learning: Using Amazon Kinesis Video Streams with Deep Java Library"
+    excerpt: "Amazon Kinesis Video Streams allows you to easily ingest video data from connected devices for processing. One of the most effective ways to process this video data is using the power of deep learning. You can create an efficient service infrastructure to run these computations with a Java server, but"
+    publishedDateTime: 2020-10-27T16:35:01Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library/"
     type: article
     provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 44
+      name: AWS
+      domain: aws.amazon.com
+    quality: 80
     images:
-      - url: "https://mma.prnewswire.com/media/1320599/Google_NOAA.jpg?p=publish&w=950"
-        width: 950
-        height: 474
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
         isCached: true
-  - title: "NOAA Partners with Google to Boost Weather Forecasts with AI"
-    excerpt: "The roughly $10 million deal will also incorporate new hands-on training opportunities for both entities’ personnel."
-    publishedDateTime: 2020-10-27T19:57:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/10/noaa-partners-google-boost-weather-forecasts-ai/169599/"
+  - title: "Biometric Cards, Digital ID, and Machine Learning: This Week’s Top Mobile ID Stories"
+    excerpt: "Mobile ID World's top stories bring us two prominent themes: alternative approaches to digital ID, and biometric cards."
+    publishedDateTime: 2020-10-24T20:54:00Z
+    webUrl: "https://mobileidworld.com/biometric-cards-digital-id-and-machine-learning-this-weeks-top-mobile-id-stories/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 34
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/10/27/shutterstock_552493561/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock-910132252-2-e1529328362344.jpg"
+        width: 800
+        height: 586
         isCached: true
-  - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
-    excerpt: "PRNewswire/ -- NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite and environmental data."
-    publishedDateTime: 2020-10-27T15:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-environment-and-nature-environment-weather-artificial-intelligence-d1d583ccb76120130b179cdab9e6ed5a"
+  - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
+    excerpt: "It’s a challenge to learn a new language, especially once we’re past 18 years old. But Duolingo, self-proclaimed as “the world’s best way to learn a language” and seconded by reviewers at the Wall Street Journal and the New York Times,"
+    publishedDateTime: 2020-10-27T06:26:00Z
+    webUrl: "https://www.linkedin.com/pulse/amazing-ways-duolingo-using-artificial-intelligence-deliver-marr"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 28
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQG8ma-s99VPlQ/article-cover_image-shrink_720_1280/0?e=1609372800&v=beta&t=ZQjGHg2B_6PQm8fGRIvYNzN2emKDW8gv-qTLJqCeoPI"
+        width: 1081
+        height: 720
         isCached: true
 
 secured: "IE/Ex5TNHwHucBWytsXvk4MS4bX42TIl21Bbh6h9dgK+8IQPZ6SAMO1+h4wHkIZY/Qo9jM0LQ0C29ycEj1yJEPXPLdvNUMdYPMx5CBizI2jNZRo2WJTva9m485Dt/4CLqkSmWX46tHBkTy5A7rknoVVuxjXA3vDnl9WiBAwwqV8FJRr6oXFL3sPf3kes0HWYqgcpbTpcCgROTWG8RWYnge19bz1xBoUn4Nt/r/h9LtVJJbD1gk32GkN80JKKRFU7+uAW/ZioGUCZN7Ako3aKhWU7kWSYDqNyiie/hO8B7O1NvPyJKoIhEvqdobXWuMag0YKM8B34nE10JdJvII4Hla1C55ahHH4rr0eMCCF6+/gDFTbC2K3po/ebk61Ln1LUYNKtMKGDMaALM/Mji2gQc1QVhclG0vo5tBfXD6YvLkp+YouwTcWibXXrJ2oJDMXApDSwNbZvN8eQjMkyHuA7nDUfiUlREcCcq/xSyf94ylnqxKI7rVstbo86BGbXHPH0WpIRjFPyRX+QIYdDjcP+kw==;eshzCHIDgZkOMna5xj4MCA=="

@@ -2,24 +2,24 @@
 category: news
 title: "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs"
 excerpt: "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing."
-publishedDateTime: 2020-10-27T20:30:00Z
-originalUrl: "https://tulsaworld.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_bc5f74c8-ba8e-5946-bae1-b6591953187d.html"
-webUrl: "https://tulsaworld.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_bc5f74c8-ba8e-5946-bae1-b6591953187d.html"
+publishedDateTime: 2020-10-27T20:38:00Z
+originalUrl: "https://omaha.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_b32028c8-914e-5795-8c24-6ea2d8784cc1.html"
+webUrl: "https://omaha.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_b32028c8-914e-5795-8c24-6ea2d8784cc1.html"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/b/c5/bc5f74c8-ba8e-5946-bae1-b6591953187d/5f986b3f1f8a7.preview.jpg?crop=1000%2C563%2C0%2C89&resize=1000%2C563&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/32/b32028c8-914e-5795-8c24-6ea2d8784cc1/5f986b4ce8335.preview.jpg?crop=1000%2C563%2C0%2C89&resize=1000%2C563&order=crop%2Cresize"
     width: 1000
     height: 563
     isCached: true
@@ -69,6 +69,6 @@ related:
       domain: middletownpress.com
     quality: 39
 
-secured: "tkrdWqiWCAtYrfeIX+hNSsiwodr5fZ9j6h6NbmHCRI2LvfskiKNtpRnd4OIi/RpG0+ORF6++Gpz5rhY4kTfbYTsP9CvhqYwCu9f3l5DQff1YNyPtWSZAIK6pbmv/S7wqYHPmsPshbKiS6syB8VZ5e6C3+RwfV8Jhm2ISF+BD6wYj3XiXRlcSlblZbd9n0brlSbmAWyZCyb1WYfDKDNmILJImeqqajJviK0zuvNytei0460NOsROqJfASkngUU+L6oHtjSRFlI2OgUPKv3YgnQgCDA5cGvSdCKiIwaKGLa1T6/H0j0N992+t1nfWIBuMFw5DrH6q5GIXjbl6uECWK/t9DuCk3ZjEBCgZADMsfAp+yLYtNf6KKmAPoK9jaIosmFjM+G8n5j+TfOi97/c00akMt21uxjD5rPzq/BQg90KPG9BUBjiSu0IdU0p6eck5jop4MpmW8JZS6xQVRxJemGbD9/2518JEdq0l4HhDw1jaCx8asOzNLbhP44WN6JkFb35tazModbXr329efZjn3Vw==;w1MxxBiKdN9+b5ZA+82RGg=="
+secured: "HxErO0mdJuoCkK/Igj3gQLm0i+RH4VRBEunOThsVUXBXxbd9HaTJ4ccsr35sDAfZjraGEu4ALv54a4Af/rxIg1ho9W/EMmZDbYLm3Qn+BuvNPY39JrOJO3IINP228MDIKQs0ZdPEwqlfUPBhm1l9AUtzNK942l48t6CsQCjMz5UlFldo56NQGMo62L66HyRbA82xGFEwrbZvazclYzS/6rjNP+9jYyKt7Xbfc6mxnT6J+aAXjGLqb+5mtrANCwtB0gsifoDsdK3B4NVeOocIQfSaY4ESU9dUuF/kXFkoLOX1QjZKBjCEUsRsar0MKlrRu29zpZKdX1FkMyF6wpKfppq8ppHOrbMnRCHX2ypEEyE=;h/LOyD+iDgEf32/Ev8Zqqg=="
 ---
 

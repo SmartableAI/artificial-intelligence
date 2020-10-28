@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library/"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 110
+published: true
 
 provider:
   name: AWS
@@ -30,45 +30,34 @@ images:
     isCached: true
 
 related:
-  - title: "AI and machine learning: Powering the next-gen enterprise"
-    excerpt: "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents."
-    publishedDateTime: 2020-10-23T13:57:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/"
+  - title: "NOAA and Google to apply machine learning to satellite data"
+    excerpt: "“Strengthening NOAA’s data processing through the use of big data, artificial intelligence, machine learning and other advanced analytical approaches is critical for maintaining and enhancing ..."
+    publishedDateTime: 2020-10-27T16:47:00Z
+    webUrl: "https://spacenews.com/noaa-google-cloud-ota/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 39
     images:
-      - url: "https://assets.bbhub.io/professional/sites/10/347789615.jpg"
-        width: 1600
-        height: 1067
+      - url: "https://spacenews.com/wp-content/uploads/2020/10/rsz_20200807-safires.jpg"
+        width: 879
+        height: 494
         isCached: true
-  - title: "How artificial intelligence and machine learning power content-first newsrooms"
-    excerpt: "By Chris Nguyen, executive vice president, marketing at Naviga Digital is no longer just a nice addition to a newspaper’s success, but an imperative. While print remains a key source of revenue — capturing both subscriptions and advertising — spending too much time on designing and managing printed editions has become an obstacle to digital transformation."
-    publishedDateTime: 2020-10-26T00:07:00Z
-    webUrl: "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/"
-    ampWebUrl: "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/"
-    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/"
+  - title: "Biometric Cards, Digital ID, and Machine Learning: This Week’s Top Mobile ID Stories"
+    excerpt: "Mobile ID World's top stories bring us two prominent themes: alternative approaches to digital ID, and biometric cards."
+    publishedDateTime: 2020-10-24T20:54:00Z
+    webUrl: "https://mobileidworld.com/biometric-cards-digital-id-and-machine-learning-this-weeks-top-mobile-id-stories/"
     type: article
     provider:
-      name: Digiday
-      domain: digiday.com
-    quality: 70
-    images:
-      - url: "https://i1.wp.com/digiday.com/wp-content/uploads/2020/10/Digiday_Naviga_Banner_1440X600-1.jpg?fit=682%2C284&ssl=1"
-        width: 681
-        height: 284
-        isCached: true
-  - title: "Making the AI leap: Leading AI experts gather to discuss Singapore's changing business landscape"
-    excerpt: "With the Royal Danish Embassy, Singapore and Cyber Youth Singapore officially supporting the event, global technology experts and solution providers unearthed the new opportunities for AI adoption in Singapore."
-    publishedDateTime: 2020-10-27T08:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/making-the-ai-leap-leading-ai-experts-gather-to-discuss-singapore-s-changing-business-landscape-1029725170"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Mobile ID News
+      domain: mobileidworld.com
     quality: 34
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock-910132252-2-e1529328362344.jpg"
+        width: 800
+        height: 586
+        isCached: true
   - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
     excerpt: "It’s a challenge to learn a new language, especially once we’re past 18 years old. But Duolingo, self-proclaimed as “the world’s best way to learn a language” and seconded by reviewers at the Wall Street Journal and the New York Times,"
     publishedDateTime: 2020-10-27T06:26:00Z
