@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://images.axios.com/p5p8jckNc7jnHJDICmx3yWdEXIk=/fit-in/1366x1366/2020/10/24/1603549523713.jpg"
         width: 1366
         height: 768
-        isCached: true
-  - title: "5 Emerging AI And Machine Learning Trends To Watch In 2021"
-    excerpt: "Five emerging artificial intelligence (AI) and machine learning trends include the use of AI and ML in hyperautomation, cybersecurity and Internet of Things (IoT)."
-    publishedDateTime: 2020-10-23T20:35:00Z
-    webUrl: "https://www.crn.com/news/cloud/5-emerging-ai-and-machine-learning-trends-to-watch-in-2021"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 56
-    images:
-      - url: "https://www.crn.com/resources/0262-10ae6f85c9c0-ea4cc5ac5ea6-1000/ai-400.jpg"
-        width: 399
-        height: 399
         isCached: true
   - title: "A|I: The AI Times – The wrong stick"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."

@@ -123,22 +123,6 @@ related:
         width: 678
         height: 381
         isCached: true
-  - title: "Federal Regulators Are Keeping a Close Watch on Tesla’s “Self-Driving” Beta Test"
-    excerpt: "\"The most advanced vehicle technologies available for purchase today provide driver assistance and require a fully attentive human driver at all times performing the driving task and monitoring the surrounding environment."
-    publishedDateTime: 2020-10-23T19:14:00Z
-    webUrl: "https://futurism.com/the-byte/federal-regulators-keeping-close-watch-tesla-self-driving-beta-test"
-    ampWebUrl: "https://futurism.com/federal-regulators-keeping-close-watch-tesla-self-driving-beta-test/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/federal-regulators-keeping-close-watch-tesla-self-driving-beta-test/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 54
-    images:
-      - url: "https://wp-assets.futurism.com/2020/10/federal-regulators-keeping-close-watch-tesla-self-driving-beta-test-1-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Tesla’s ‘Full Self Driving’ Beta Tech Nearly Wrecked This Model 3 Into a Parked Car"
     excerpt: "Tesla's \"Full Self Driving\" update was sent out to an unknown number of beta testers a few days ago, and videos showing the system's performance are being shared around the internet. One such clip, posted by YouTuber Brandon M,"
     publishedDateTime: 2020-10-27T19:17:00Z

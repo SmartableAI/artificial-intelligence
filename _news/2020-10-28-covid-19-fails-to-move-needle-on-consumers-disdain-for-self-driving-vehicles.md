@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f97ad8cec4cb02b07e88acc%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Machine learning helps hunt for COVID-19 therapies"
+    excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
+    publishedDateTime: 2020-10-28T12:22:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/57-machinelearn.jpg"
+        width: 952
+        height: 1231
         isCached: true
   - title: "Machine learning helps hunt for COVID-19 therapies"
     excerpt: "The group already has one machine learning model at work in the pandemic, predicting consequences of mutations to SARS-CoV-2. Now, Wei’s team has deployed another to help drug developers on their most promising leads for attacking one of the virus’ most compelling targets."

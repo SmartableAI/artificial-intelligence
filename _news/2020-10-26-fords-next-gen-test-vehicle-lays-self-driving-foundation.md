@@ -58,6 +58,22 @@ related:
         height: 800
         isCached: true
   - title: "Machine learning helps hunt for COVID-19 therapies"
+    excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
+    publishedDateTime: 2020-10-28T12:22:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/57-machinelearn.jpg"
+        width: 952
+        height: 1231
+        isCached: true
+  - title: "Machine learning helps hunt for COVID-19 therapies"
     excerpt: "The group already has one machine learning model at work in the pandemic, predicting consequences of mutations to SARS-CoV-2. Now, Wei’s team has deployed another to help drug developers on their most promising leads for attacking one of the virus’ most compelling targets."
     publishedDateTime: 2020-10-24T05:26:00Z
     webUrl: "https://msutoday.msu.edu/news/2020/machine-learning-helps-hunt-for-covid-therapies"

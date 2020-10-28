@@ -14,6 +14,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Google AI
 
 images:
   - url: "https://mms.businesswire.com/media/20201008005227/en/828546/23/sisters_SymWord_1128x191_%281%29.jpg"
@@ -21,6 +22,6 @@ images:
     height: 627
     isCached: true
 
-secured: "lkvD9DYdWC6es1GUDXoYEte1WnNwuD9UHts2yisJ37JZGQZu6TYaHsbL73Yw+OPpK74tlwWAga5HgSJs7xUiT4TWJdVSH28RCSa+pAJ3rmrd79+K0p9KPa+CozSmKryJ9OgvHoHDglXTnBwECxx0zvqSYAvseqAkqdio8fx6HnxZ8wcV0HChKsN6aaXGUe/VgaycNdGH3jQtfPtJ3zzj3PUl8CNJ/eT21ObTntVLN+EfshHaJwifQScXxAVmxzWzim2WLXh49AklK/6MffWkb3k7cQFjLk4p0/eh+EVFaUuyAv0JMVz3YQ/RLldRqy4BmQP4J0X59BF1wTGA2JfWHa2y1AiQOqHIPIiLRaUtpFY=;4pzi17N96RiqbxkgD5gQtg=="
+secured: "ZS7I9o2fOsjBRA3gdwjlCHArd2vqkYgcH0iu9hHfWAeq9YZuhnPxyjr2QO1DuEzao1ImdR422y83RdQNdN2OismUir3P7b3h5IQCm/vfPMqgLqf7vrkorH+Nt+uAWzw6oz3PbGohNAZVe3oBz8nLJzZn2LiVrtzHz/tluTbmGnPUJM/V6CfvXh7hdR9hAeT6kT8kYSCJD9fgz65kSULzAIenAs8wtPhPnjswxkZI9LPqkCzsysA8aHHMnSBB69osXzhXowyFEXtAusH1hqKKNIAMXSkDHA1AwKLroeQHk3LNFuTriS96OMasaZruOS0ZK3bx9KSlJ4wkhS1W0S/mIJQo4lOrZl67/oxxzA6fwr4V2KqJy/MUVVICwd7I24apSaWCcU3oYQsTpSfRWwuoJv2F4nmRXnjfJSAjjfSF4I1YNQJyARyw8Sxq83NHwN6Pz7bh0di4R84PHUQY7QnI7vwf3p+pbGnSJGDc+RiMwOLru/GLDIqWB8UeXdGDos/OzKV+SAvNTfMe5WqPueWK+A==;2qg1/VNuiaGiv+KF74kq2A=="
 ---
 

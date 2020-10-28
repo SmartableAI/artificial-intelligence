@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.cmswire.com/-/media/8c8cfc44b55e417ca378738b38312797.ashx?mw=1024"

@@ -35,20 +35,6 @@ related:
         width: 639
         height: 542
         isCached: true
-  - title: "IBM Announces New AI Hardware Research, Red Hat Collaborations"
-    excerpt: "At the IEEE CAS/EDS AI Compute Symposium, IBM Research introduced new technology and partnerships designed to dynamically run massive AI workloads in hybrid clouds: The company said it is developing analog AI,"
-    publishedDateTime: 2020-10-23T20:44:00Z
-    webUrl: "https://insidehpc.com/2020/10/ibm-announces-new-ai-hardware-research-red-hat-collaborations/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/IBM-Red-Hat-1020.webp_.png"
-        width: 537
-        height: 219
-        isCached: true
   - title: "Auntie’s event to explore artificial intelligence"
     excerpt: "We’ve all heard about artificial intelligence. Not a day goes by, in fact, that a story doesn’t move in some format that talks about how wonderful AI is – or how horrible it potentially can be. Michael Kanaan knows all about the topic."
     publishedDateTime: 2020-10-27T18:09:00Z

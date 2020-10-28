@@ -113,6 +113,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Watch The Most Telling Tesla Full Self-Driving Beta Videos To Date"
+    excerpt: "As you can see from these fascinating videos, Tesla's new Full Self-Driving capability rewrite can do some pretty cool tricks, but it's nowhere near ready."
+    publishedDateTime: 2020-10-28T13:13:00Z
+    webUrl: "https://insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/"
+    ampWebUrl: "https://insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/KjQGG/s1/tesla-fsd.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla rolls out 'full self-driving' software to select Tesla owners"
     excerpt: "Tesla announced the release of their beta software for 'full self-driving' cars to a small group of Tesla owners."
     publishedDateTime: 2020-10-24T18:14:00Z

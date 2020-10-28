@@ -54,6 +54,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft sees strong growth in latest financials – as analyst puts Azure bigger than Windows for first time"
+    excerpt: "Microsoft has reported revenues of $37.2 billion (£28.8bn) for its most recent quarter with Azure revenue growth at 48% – as one analyst argued Azure has overtaken Windows numbers for the first time."
+    publishedDateTime: 2020-10-28T13:18:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2020/oct/28/microsoft-sees-strong-growth-in-latest-financials-as-analyst-puts-azure-bigger-than-windows-for-first-time/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 35
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-471179856_k05DHIS.jpg"
+        width: 1254
+        height: 836
+        isCached: true
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ..."
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,"
     publishedDateTime: 2020-10-26T14:01:00Z

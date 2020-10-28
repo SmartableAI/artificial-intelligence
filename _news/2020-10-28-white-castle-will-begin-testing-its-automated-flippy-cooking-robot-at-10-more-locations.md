@@ -89,18 +89,18 @@ related:
       domain: bizjournals.com
     quality: 39
   - title: "White Castle to Expand Implementations with Miso Robotics and Target Up to 10 New Locations Following Pilot"
-    excerpt: "PRNewswire/ -- White Castle®, the world's first fast-food hamburger chain, announced today plans to expand work with Miso Robotics – creators of the"
-    publishedDateTime: 2020-10-27T09:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/white-castle-to-expand-implementations-with-miso-robotics-and-target-up-to-10-new-locations-following-pilot-301160204.html"
+    excerpt: "PRNewswire/ -- White Castle®, the world's first fast-food hamburger chain, announced today plans to expand work with Miso Robotics - creators of the first autonomous"
+    publishedDateTime: 2020-10-27T10:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/white-castle-to-expand-implementations-with-miso-robotics-and-target-up-to-10-new-locations/article_4245635f-f9de-522d-bce9-8b27a2cebf61.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 36
     images:
-      - url: "https://mma.prnewswire.com/media/1320558/Flippy_ROAR_in_White_Castle.jpg?p=facebook"
-        width: 2499
-        height: 1309
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/4e/74ea0957-439c-5642-abc2-335019e8e710/5f97e91836105.image.jpg?resize=400%2C267"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "/fVof4H7IoobG8N96F8ABWi/o+jmSbrVlGb3UrerCy3OeHQaB/6F16ayxKNOIErSlyTTCjoXM2ON3dX4WPiZe4e/1bCnnunwD16L2qPc39Oa8I+i8PPUXSDJHKl17+zmDSys0QZG4xhR1OlE6AkbWKCdeFaO/hnMSfI6AUOzc2znupexG+vtFLNSlsssuYvUvfZ9rJhzmF5y9q6iqrBqAyCida9XRMANcFeltP39Ofu6pNxb6HFzZ8WJaChyHVyJEslfG4K3EgShr+HS6VzQzGu4ORYCKyxgJNH4nomrfXR7dmJqPh+M9keVkbEVVZih5ern+3/DEvZOuCcRzp8rf6vmAbPeuUh5fvd/wJD70vOpaSh9RzLDfQwqwOL5K5GRRT3jdcxt2cEDa+2MesDtmrMynwS1IbrGtS2iqiUOHKGr0p3k1MczYQ1S++HdximE73Oou6bitZrnlcih+FizOx5qy+VXyTRsuAI2WYFIcDCwFCuNoE3DbjC+An1fZ6nKtfF03CV70BeWQDoZ9DtVkw==;2z3QrIpUCgGfHUuB2Gd9Dw=="

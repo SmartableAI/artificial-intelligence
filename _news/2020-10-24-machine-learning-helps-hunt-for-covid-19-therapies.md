@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Machine learning helps hunt for COVID-19 therapies"
+    excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
+    publishedDateTime: 2020-10-28T12:22:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/57-machinelearn.jpg"
+        width: 952
+        height: 1231
+        isCached: true
   - title: "Ford’s next-gen test Vehicle lays self-driving foundation"
     excerpt: "Beginning  to roll out this month, Ford and Argo AI‘s fourth-generation self-driving test vehicles are built on the Escape Hybrid platform and feature the latest advancements in sensing and computing technology."
     publishedDateTime: 2020-10-25T18:59:00Z

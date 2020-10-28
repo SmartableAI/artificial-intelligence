@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/"
 type: article
 quality: 117
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -115,6 +115,22 @@ related:
     quality: 59
     images:
       - url: "https://cdn.motor1.com/images/mgl/y8PYo/s1/tesla-full-self-driving.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Watch The Most Telling Tesla Full Self-Driving Beta Videos To Date"
+    excerpt: "As you can see from these fascinating videos, Tesla's new Full Self-Driving capability rewrite can do some pretty cool tricks, but it's nowhere near ready."
+    publishedDateTime: 2020-10-28T13:13:00Z
+    webUrl: "https://insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/"
+    ampWebUrl: "https://insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/KjQGG/s1/tesla-fsd.jpg"
         width: 1920
         height: 1080
         isCached: true

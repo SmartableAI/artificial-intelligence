@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
-excerpt: "The purchase will also deepen Apple's AI expertise, with around 50 engineers and data scientists joining from Vilynx, and the startup's Barcelona office set to become one of Apple's key AI ..."
-publishedDateTime: 2020-10-27T23:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10-1029729829"
-webUrl: "https://markets.businessinsider.com/news/stocks/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10-1029729829"
+excerpt: "Apple purchased artificial intelligence startup Vilynx earlier this year for approximately $50 million, Bloomberg reported Tuesday. Barcelona-based Vilynx built AI tools that analyze videos with the goal of \"understanding\" what's in them and categorizing that information,"
+publishedDateTime: 2020-10-28T02:07:00Z
+originalUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10"
+webUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10"
+ampWebUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp"
 type: article
-quality: 52
+quality: 72
 heat: -1
 published: false
 
@@ -22,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i.insider.com/5f59078de6ff30001d4e7c8e?format=jpeg"
-    width: 2588
-    height: 1941
+  - url: "https://i.insider.com/5f988b936f5b310011723bd1?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -119,6 +121,6 @@ related:
         height: 341
         isCached: true
 
-secured: "UR08vCNZ7AL1N0agwM+dDMBdXqNJDB497nkzZ/wSsD3pQaP+pFtUj0x2ln3fU0P1hH/gLYTfHvyN95leq4vKRde18pBe+J1RA38KoJIZZHd4qorjq/NpE/ZTUSQK0ddge2wpxvZb3h2pc0wqbEQrJn4he9eLQuhONcPQ088ckJWeDDHlFdpldOQjoNT63Pnme4yRGZNXjQuMW7uXI9Q1APqY3QEj8SOIgFffw+O2DSRANIVr7ZmqLNmFFI+8QLT+2uJdvTgdIjLIrcRVltMEiF8nnUGg4PmFypCftvtcfgSu2qyXEo33F2S32+H4GGpQGxnTXpHmksq1bElXyHcPW30YNpBVCfjWNZuVhLQOvD4=;ZmFCHJyFLan7dq7kqI4VHw=="
+secured: "GN2qhjvXHUWU3LbI+fhb9JoJIqazBHmOcq1Hy9kRl3MhWuGoQtURX1COLvUaMesArThZv35zxkDO/wQzMa77dPrW0TMlH4ADDHb1CmA0jpA0RnGrQ5hNla/+Oh/A3PtOSKR5tam4Rb42JDHaLOMnXeaJRpclmqvzCGjvRMsVFtwaAnZit+4CYiTcnOk6m/2lMAXjM/44VAlCuxGCGdqJE5fG/ewEHo1BaT9s0zcHUqfr4N2ppBbDy1Lfw+kHHa0REv4jRHM8tNTnzmVtCllNZd8NWesx/sFYXK+ctxQNx4LuJ8/Xz13SsQrV0jRyOP57PBszjnJhCTInN/tbZ5+ykl4MVNullwQQvzYXac3e5q0=;Ek4u9ET+Or/h6Ieo1/oXGg=="
 ---
 

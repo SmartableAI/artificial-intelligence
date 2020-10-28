@@ -1,0 +1,87 @@
+---
+category: news
+title: "Machine learning accelerated with dog training technique"
+excerpt: "“I’ve had dogs so I know rewards work and that was the inspiration for how I designed the learning algorithm.” While humans and other animals can learn from trial and error, there is no perfect way to make a machine-learning model adjust efficiently ..."
+publishedDateTime: 2020-10-28T12:57:00Z
+originalUrl: "https://eandt.theiet.org/content/articles/2020/10/machine-learning-accelerated-with-dog-training-technique/"
+webUrl: "https://eandt.theiet.org/content/articles/2020/10/machine-learning-accelerated-with-dog-training-technique/"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: IET
+  domain: theiet.org
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://eandt.theiet.org/media/10084/dog-in-park.jpg?crop=0,0.24450307827616535,0,0.26330255057167978&cropmode=percentage&width=1200&height=450&rnd=132194124370000000"
+    width: 1200
+    height: 450
+    isCached: true
+
+related:
+  - title: "Video streaming and deep learning: Using Amazon Kinesis Video Streams with Deep Java Library"
+    excerpt: "Amazon Kinesis Video Streams allows you to easily ingest video data from connected devices for processing. One of the most effective ways to process this video data is using the power of deep learning. You can create an efficient service infrastructure to run these computations with a Java server, but"
+    publishedDateTime: 2020-10-27T16:35:01Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 80
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "NOAA and Google to apply machine learning to satellite data"
+    excerpt: "“Strengthening NOAA’s data processing through the use of big data, artificial intelligence, machine learning and other advanced analytical approaches is critical for maintaining and enhancing ..."
+    publishedDateTime: 2020-10-27T16:47:00Z
+    webUrl: "https://spacenews.com/noaa-google-cloud-ota/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 39
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2020/10/rsz_20200807-safires.jpg"
+        width: 879
+        height: 494
+        isCached: true
+  - title: "Biometric Cards, Digital ID, and Machine Learning: This Week’s Top Mobile ID Stories"
+    excerpt: "Mobile ID World's top stories bring us two prominent themes: alternative approaches to digital ID, and biometric cards."
+    publishedDateTime: 2020-10-24T20:54:00Z
+    webUrl: "https://mobileidworld.com/biometric-cards-digital-id-and-machine-learning-this-weeks-top-mobile-id-stories/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 34
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock-910132252-2-e1529328362344.jpg"
+        width: 800
+        height: 586
+        isCached: true
+  - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
+    excerpt: "It’s a challenge to learn a new language, especially once we’re past 18 years old. But Duolingo, self-proclaimed as “the world’s best way to learn a language” and seconded by reviewers at the Wall Street Journal and the New York Times,"
+    publishedDateTime: 2020-10-27T06:26:00Z
+    webUrl: "https://www.linkedin.com/pulse/amazing-ways-duolingo-using-artificial-intelligence-deliver-marr"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 28
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQG8ma-s99VPlQ/article-cover_image-shrink_720_1280/0?e=1609372800&v=beta&t=ZQjGHg2B_6PQm8fGRIvYNzN2emKDW8gv-qTLJqCeoPI"
+        width: 1081
+        height: 720
+        isCached: true
+
+secured: "JXKRJ3LPIUtMqPRHZGvB+8JUovKi5WM/M63k1NlrJPBuS0cM4LIysAlCQqCsJ8TBD/fFDLAyXGHorZmyYLHyZ+qGfz6MA4Wu/rvqs0r8teqiE4YLP0YY0+N91eVh49/jarqGpl29UeHvdLBkYU95C6EOi9eZ073BT3woT2Fw4Te0cbZfmG6AVPR8iU8joIcEH3uu2DH2/stRtWn8RAAcPq1q5RsxzhvnxI+2dg4Ytwn9c9zNa20+ekIUcnytrdncUQnxucx3xZKYVam8h/tEwVj7U+NvLGnPdfi3BKVp8hLny7YoW39Bc61WdSFnQcvJ7fnkOj7/xOg+YXodHwV5lur5Gxv1uvAQ+TpQdb5UgXk=;DcSo/23VTvCWENoYV6yX0A=="
+---
+

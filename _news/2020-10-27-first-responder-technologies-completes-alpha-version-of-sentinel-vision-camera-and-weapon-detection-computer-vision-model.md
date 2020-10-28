@@ -1,10 +1,10 @@
 ---
 category: news
 title: "First Responder Technologies Completes Alpha Version of Sentinel™ Vision Camera and Weapon Detection Computer Vision Model"
-excerpt: "CNW/ - First Responder Technologies Inc. (\"First Responder\" or the \"Company\") (CSE: WPN) (OTCQB: WPNNF) (FWB: 3WK), a developer of WiFi-based technologies for detecting concealed weapons and for deterring mass shooting and terror attacks involving concealed weapons,"
-publishedDateTime: 2020-10-27T10:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/first-responder-technologies-completes-alpha-version-of-sentinel-vision-camera-and-weapon-detection-computer-vision-model-1029725526"
-webUrl: "https://markets.businessinsider.com/news/stocks/first-responder-technologies-completes-alpha-version-of-sentinel-vision-camera-and-weapon-detection-computer-vision-model-1029725526"
+excerpt: "The Sentinel TM Vision Camera is an advanced security camera and computer vision platform that gives users access to innovative weapon detection technology. The camera, which is designed and ..."
+publishedDateTime: 2020-10-27T10:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/first-responder-technologies-completes-alpha-version-of-sentinel-vision-camera-and-weapon-detection-computer-vision-model-1029725522"
+webUrl: "https://markets.businessinsider.com/news/stocks/first-responder-technologies-completes-alpha-version-of-sentinel-vision-camera-and-weapon-detection-computer-vision-model-1029725522"
 type: article
 quality: 23
 heat: 23
@@ -51,6 +51,6 @@ related:
       domain: stockhouse.com
     quality: 0
 
-secured: "DHEKE19UNBg4uj6kzqj1msRLZ6xk8yYSC4yFLVk6EXcqUfQQtsRSYdhdmt1QoqRuLvwx3y+vSe02uoiW4vq7wKiMnOb5hhkoiu4+6DLyVnRJLejC3zBaWEQASKDmIRlTlNVPqpDs5dEasJDI+zCmj9vEB8MkVN0uXghU+sc0+3eRHAB2tV8G/1NVGP6GnYOJuBDF0nvYAo89lnopku9GDKuvoImfbmXP8rfyolpC54d74O2pMzP6EwXZ6cvG/U5Csss9a2qxt4CKxnOZoAcHCZPtSeNncmfww6NAdMmtxPaBaRioXvvK6WLK9W8lOd41vBvpUl5sUQBFolTRKjdbNUSXiXgSAChNsU/tKhLqlks=;qPz5Y31SG3YLpJWdR1w0rA=="
+secured: "d359u1gXIkEW4rG4OAMswvvro6s7IpkLQbCw5ZW5SoixDoSqKWvBg3ueSsY0/W/+rqfEty8NZJLYaDlMQ49cn+O8fRyv1gMNo8v4Sq2NDOvDe+fYFvNcwGVu1OA+rEeICq5wb6AvABleQRpMBbG61r6HwQtQlVtiXj3wADTT65gkaT3LHSkkI5EcUEk8VbMjocjJv1R2iVqM19GoOwlumR3j/VHXn0/vxeDh9Rd8V2M/24BMJEdQsQBBPBor6bU/mVarFLMKheHHRI6/Ay4v900uIzRIE4mapD1p018BZD67Z/xztIyimw1kO4Um8OCPKui/gy7O2hS0fqoFX/ZiI8OZwS0X1lkS+CZmVAnvVsc=;mWcGaNCw8jKSLQpntx7mtA=="
 ---
 

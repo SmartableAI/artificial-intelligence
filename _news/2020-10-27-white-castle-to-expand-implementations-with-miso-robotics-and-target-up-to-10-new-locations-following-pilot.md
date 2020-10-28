@@ -1,27 +1,27 @@
 ---
 category: news
 title: "White Castle to Expand Implementations with Miso Robotics and Target Up to 10 New Locations Following Pilot"
-excerpt: "PRNewswire/ -- White Castle®, the world's first fast-food hamburger chain, announced today plans to expand work with Miso Robotics – creators of the"
-publishedDateTime: 2020-10-27T09:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/white-castle-to-expand-implementations-with-miso-robotics-and-target-up-to-10-new-locations-following-pilot-301160204.html"
-webUrl: "https://www.prnewswire.com/news-releases/white-castle-to-expand-implementations-with-miso-robotics-and-target-up-to-10-new-locations-following-pilot-301160204.html"
+excerpt: "PRNewswire/ -- White Castle®, the world's first fast-food hamburger chain, announced today plans to expand work with Miso Robotics - creators of the first autonomous"
+publishedDateTime: 2020-10-27T10:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/white-castle-to-expand-implementations-with-miso-robotics-and-target-up-to-10-new-locations/article_4245635f-f9de-522d-bce9-8b27a2cebf61.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/white-castle-to-expand-implementations-with-miso-robotics-and-target-up-to-10-new-locations/article_4245635f-f9de-522d-bce9-8b27a2cebf61.html"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1320558/Flippy_ROAR_in_White_Castle.jpg?p=facebook"
-    width: 2499
-    height: 1309
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/4e/74ea0957-439c-5642-abc2-335019e8e710/5f97e91836105.image.jpg?resize=400%2C267"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -99,6 +99,6 @@ related:
       domain: bizjournals.com
     quality: 39
 
-secured: "f4v3+Kv77qSOfc7IRycty7WBi8PxCj8XodXc301vCLKx90yJW/mXWK6edjm7KuvoZUBl2i3Cj8VnYRqCoiCueqlbm478t5W2Nry/KdBp7Y9g9Z10oLxWTKuh6DxkspLSOKUNpJrqAIG1CXcJxEK6n/CbiRNvGXH3nuPOKguoEaujQOMYDS3pzSghtCZES/siKL7Djgem8AKr0n50s0Nmqs+OlRWrLGeWGP3DlU0UqiVnNucEUETHSUy3F2FKk65J7wRY1dI19qsU8BRFhu4kjxuAHn/8VdOgmKueu8P8tfeLk4YEHaJyo/2mJqMAmMhkv58qwlEJhOXp2vbFpbvJT/RUMTp/SwwCGjt8udR0Rfc=;yBKym5gv48jUiSa433TNxQ=="
+secured: "mOoc9ujh1gEEzpgXCpskB8+KhS4DpY6aLMqJWPTtqslD2eNPuwRWvJX2EKr9XVlc0Q8nQp71K0TiTxl8dqQ5OMo2RvLOtKMIHyFYh6PztE11xpjGxs1c6vjTFUJ1cf9ENl0L/1GniJX6gNcpacZkBLJqi+aYsph7siDeGvReOl2m52V6v+6hmneh7LkyYAy/qn0oZVnn2/nWHhnQ23TeQVAyUZV8gs+e4zb87dvlqETu6vdD78tNRheNLCD3oMD2HCQXuLESUVT/yV3b481WD6KlKOEbpLV3iLMuPf+3U6O16m/DoA2GZd3++PN1qzhQ7gOtM3J6SKdHFlut757tOkwQGZqcIAzEfcPM3vT/hC0=;RYDOUwjEStQSu64SAD17AQ=="
 ---
 

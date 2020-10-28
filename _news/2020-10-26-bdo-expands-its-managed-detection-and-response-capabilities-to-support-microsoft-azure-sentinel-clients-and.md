@@ -53,6 +53,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft sees strong growth in latest financials – as analyst puts Azure bigger than Windows for first time"
+    excerpt: "Microsoft has reported revenues of $37.2 billion (£28.8bn) for its most recent quarter with Azure revenue growth at 48% – as one analyst argued Azure has overtaken Windows numbers for the first time."
+    publishedDateTime: 2020-10-28T13:18:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2020/oct/28/microsoft-sees-strong-growth-in-latest-financials-as-analyst-puts-azure-bigger-than-windows-for-first-time/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 35
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-471179856_k05DHIS.jpg"
+        width: 1254
+        height: 836
+        isCached: true
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
     publishedDateTime: 2020-10-26T21:22:00Z
@@ -68,6 +82,6 @@ related:
         height: 627
         isCached: true
 
-secured: "IlHqEIZfeBERQBN+oHNIhTmv75TlrWWOrPN1sndf6ic5POt+iaI+cT+8FMgCrIXlWZBnCwEgGevvS4FItDUfPvX+bt2tZ6TNu0508RGIjBMw0vOVC0pt8T0i52FbNYAXrXIpygKDmExV2ExeaTWM4Ds0zs6qx+A5hJxhbL1nS6pa5+MJA08uI0kZqOYoH/Dt39AMc3I67ex37oF59iIF3bp59h32wt+y7bq0rVUBwIciOphezXTQLdRR8ttiIi4U/oqi9wQHu7IhoKA1l9TZvItf4u3JU/I8oUatbLqqckHzaGLGmpQOpfvmw0KWZpSBW6tgWiUD1ncV7Zy34+2s6qsaQbTfsPBKF59fds27vRw=;vanwiyCaFj6DoguBWIKTSQ=="
+secured: "SSR6to7wpaN3qYNFbif98y2KGDCryedzC21u1AgrCqPODAEx2IeIC8QID29AcQfUTt2qOx1FmDMs9pEcmsZ4Dh8w+RIP7vDbbbjna3AVQjXke4dAqLMRVTtiZeJJ+PCejTWkPZ4CA0RMmY4S6HhH/QZkLDd4j5Q54eSnxbB4vzpOJ+ikLXagmVxQ3xpHEF2L1jArdh1Ms87RBKXUNGYtVOHNPi+wpPMaIlC2rf/PNRFLUsgEXn2mC88nL8RNJuXExt0rufWshUWbGqlUqr0sNranCoWBkrPoIjjrJ/j86703UUBEcxU0PPC8diwH/VJCPV/eFqbOf8ns7lJ71jyCdIZ7HnlAjSdQpAKLhMHm2Xn9dvf5F8rcLbxQiMrZdHIP7QhBGneiRzDuc1u62GzoLqDBn1n8YtozxtwwPS3f+EVfToj8CsM5lmrJG92knfVyRQFfw7O+6NZCQl2tRhw7PnNHqa9yn1osL7aQGDLOrpPPuG+1sqOD0JysSpHsfZt0kZcmb8bE88YvmOVrh4vTiQ==;yM9HZQZOmcNqGFd1PjnsAg=="
 ---
 

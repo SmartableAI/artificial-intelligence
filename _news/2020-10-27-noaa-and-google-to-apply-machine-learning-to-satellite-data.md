@@ -39,6 +39,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Machine learning accelerated with dog training technique"
+    excerpt: "“I’ve had dogs so I know rewards work and that was the inspiration for how I designed the learning algorithm.” While humans and other animals can learn from trial and error, there is no perfect way to make a machine-learning model adjust efficiently ..."
+    publishedDateTime: 2020-10-28T12:57:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/10/machine-learning-accelerated-with-dog-training-technique/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/10084/dog-in-park.jpg?crop=0,0.24450307827616535,0,0.26330255057167978&cropmode=percentage&width=1200&height=450&rnd=132194124370000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "Biometric Cards, Digital ID, and Machine Learning: This Week’s Top Mobile ID Stories"
     excerpt: "Mobile ID World's top stories bring us two prominent themes: alternative approaches to digital ID, and biometric cards."
     publishedDateTime: 2020-10-24T20:54:00Z

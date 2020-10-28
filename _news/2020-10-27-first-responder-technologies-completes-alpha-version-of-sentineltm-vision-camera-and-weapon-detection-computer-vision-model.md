@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "First Responder Technologies Completes Alpha Version of Sentinel™ Vision Camera and Weapon Detection Computer Vision Model"
-    excerpt: "CNW/ - First Responder Technologies Inc. (\"First Responder\" or the \"Company\") (CSE: WPN) (OTCQB: WPNNF) (FWB: 3WK), a developer of WiFi-based technologies for detecting concealed weapons and for deterring mass shooting and terror attacks involving concealed weapons,"
-    publishedDateTime: 2020-10-27T10:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/first-responder-technologies-completes-alpha-version-of-sentinel-vision-camera-and-weapon-detection-computer-vision-model-1029725526"
+    excerpt: "The Sentinel TM Vision Camera is an advanced security camera and computer vision platform that gives users access to innovative weapon detection technology. The camera, which is designed and ..."
+    publishedDateTime: 2020-10-27T10:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/first-responder-technologies-completes-alpha-version-of-sentinel-vision-camera-and-weapon-detection-computer-vision-model-1029725522"
     type: article
     provider:
       name: Business Insider

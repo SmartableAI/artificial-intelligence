@@ -84,18 +84,18 @@ related:
         height: 1667
         isCached: true
   - title: "White Castle to Expand Implementations with Miso Robotics and Target Up to 10 New Locations Following Pilot"
-    excerpt: "PRNewswire/ -- White Castle®, the world's first fast-food hamburger chain, announced today plans to expand work with Miso Robotics – creators of the"
-    publishedDateTime: 2020-10-27T09:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/white-castle-to-expand-implementations-with-miso-robotics-and-target-up-to-10-new-locations-following-pilot-301160204.html"
+    excerpt: "PRNewswire/ -- White Castle®, the world's first fast-food hamburger chain, announced today plans to expand work with Miso Robotics - creators of the first autonomous"
+    publishedDateTime: 2020-10-27T10:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/white-castle-to-expand-implementations-with-miso-robotics-and-target-up-to-10-new-locations/article_4245635f-f9de-522d-bce9-8b27a2cebf61.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 36
     images:
-      - url: "https://mma.prnewswire.com/media/1320558/Flippy_ROAR_in_White_Castle.jpg?p=facebook"
-        width: 2499
-        height: 1309
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/4e/74ea0957-439c-5642-abc2-335019e8e710/5f97e91836105.image.jpg?resize=400%2C267"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "ZwP0RXDbQ6VJzuxgQK+nx/yXfgKBn7OwCKu3vYzfaegkVxTit5SZrYFdnfOQDmGvLepcp023PEQNGlqcJhhe2qwSPr5zjGHVXyPcPQWsK+jXKgTZfWnvkAS8hSZ+6KaN0q40YhiHNYSX/px6ghLC6CkbhZZxjm+c4jNZDRqbyDXMztZ955g7oxay8WVBpS/7+dbCNs/I+NxDcayoJMgiPG3GDNhMJv/L3vuCc5UhmFHDlI32xWJUEU1O32tlri1e2xDPxc6neqwmV5q+yjyZW1yx3aXlmykUHpzw0FzGnFtZiv4Ojpz7WY34m7p0kmBBs4hPPGAmtFPI1jSYDTMIDr2r3p0NDiwjZvh5LfkBPa7ajCaZcclBZMkaXlvJwCpsEgauw7GgcZWIewpI1cCieGm657lt/78IHIdz/Aj8idElzA8SRil7yjsFPaP4z8EMyYpezpG660Bn1AXTFY7h3xiAq3vMQpxX3i2r4XbUAVqG1PFg9huCP0+3Ypb0l7CIJWMEHhxHOud1nr0LnxzE0Q==;sTfBLu7rwH6JacEpTVEXbw=="

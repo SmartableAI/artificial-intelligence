@@ -37,20 +37,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "5 Emerging AI And Machine Learning Trends To Watch In 2021"
-    excerpt: "Five emerging artificial intelligence (AI) and machine learning trends include the use of AI and ML in hyperautomation, cybersecurity and Internet of Things (IoT)."
-    publishedDateTime: 2020-10-23T20:35:00Z
-    webUrl: "https://www.crn.com/news/cloud/5-emerging-ai-and-machine-learning-trends-to-watch-in-2021"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 56
-    images:
-      - url: "https://www.crn.com/resources/0262-10ae6f85c9c0-ea4cc5ac5ea6-1000/ai-400.jpg"
-        width: 399
-        height: 399
-        isCached: true
   - title: "A|I: The AI Times – The wrong stick"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2020-10-28T10:02:00Z

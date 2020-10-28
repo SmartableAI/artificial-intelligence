@@ -40,20 +40,6 @@ related:
         width: 639
         height: 542
         isCached: true
-  - title: "IBM Announces New AI Hardware Research, Red Hat Collaborations"
-    excerpt: "At the IEEE CAS/EDS AI Compute Symposium, IBM Research introduced new technology and partnerships designed to dynamically run massive AI workloads in hybrid clouds: The company said it is developing analog AI,"
-    publishedDateTime: 2020-10-23T20:44:00Z
-    webUrl: "https://insidehpc.com/2020/10/ibm-announces-new-ai-hardware-research-red-hat-collaborations/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/IBM-Red-Hat-1020.webp_.png"
-        width: 537
-        height: 219
-        isCached: true
   - title: "Healthcare Artificial Intelligence Market Size"
     excerpt: "Artificial intelligence refers to the simulation of human intelligence in machines that are programmed to think like humans and simulator their actions. Using these technologies, computers can be trained to accomplish specific tasks by processing large ..."
     publishedDateTime: 2020-10-27T17:42:00Z

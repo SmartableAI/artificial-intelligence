@@ -204,6 +204,22 @@ related:
         width: 797
         height: 534
         isCached: true
+  - title: "Waymo and Daimler to build self-driving Freightliner semi truck"
+    excerpt: "Autonomous car technology company Waymo is teaming up with Daimler to build self-driving semitrucks. Continue Reading Below The Alphabet-owned brand will install its Waymo Driver package into Daimler-owned Freightliner Cascadia semis for evaluation ..."
+    publishedDateTime: 2020-10-28T13:42:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/waymo-and-daimler-to-build-self-driving-freightliner-semi-truck"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/waymo-and-daimler-to-build-self-driving-freightliner-semi-truck.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/waymo-and-daimler-to-build-self-driving-freightliner-semi-truck.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 74
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/1808cc53-waymo.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Daimler and Waymo to develop autonomous Class 8 trucks"
     excerpt: "The artificial intelligence system has also completed more than 15 billion ... The main focus of autonomous driving has been about enabling driverless passenger cars, but as technology has advanced, the conversation has shifted from solving for the driver ..."
     publishedDateTime: 2020-10-27T14:23:00Z
@@ -254,6 +270,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 54
+  - title: "Daimler and Waymo partner on self-driving trucks"
+    excerpt: "Benz and one of the biggest truck manufacturers in the world, on Tuesday announced a partnership with Alphabet Inc.-owned self-driving technology startup Waymo. The partnership will see Daimler integrate Waymo's self-driving system,"
+    publishedDateTime: 2020-10-28T13:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1120792_daimler-and-waymo-partner-on-self-driving-trucks"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: "https://images.hgmsites.net/hug/freightliner-cascadia-semi-truck_100685398_h.jpg"
+        width: 1920
+        height: 1298
+        isCached: true
   - title: "Daimler doubles down on self-driving trucks, starts partnership with Waymo"
     excerpt: "Someday, they may have a choice of self-driving systems. Daimler Trucks has embarked on a new partnership with Waymo, the self-driving technology company spun from Google, in which the two companies will jointly develop and deploy autonomous big rigs."
     publishedDateTime: 2020-10-27T13:26:00Z
