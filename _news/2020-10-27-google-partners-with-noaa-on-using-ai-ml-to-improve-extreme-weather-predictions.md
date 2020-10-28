@@ -43,20 +43,6 @@ related:
         width: 1300
         height: 731
         isCached: true
-  - title: "Goshen Center for Cancer Care is second in the nation to offer advanced radiation therapy"
-    excerpt: "At Goshen Center for Cancer Care, thanks to Ethos™ Therapy, artificial intelligence and machine learning can create and adapt plans for physicians' review within minutes – all while the patient remains on the treatment couch. “We are thrilled to ..."
-    publishedDateTime: 2020-10-23T21:34:00Z
-    webUrl: "https://www.wndu.com/2020/10/23/goshen-center-for-cancer-care-is-second-in-the-nation-to-offer-advanced-radiation-therapy/"
-    type: article
-    provider:
-      name: WNDU
-      domain: wndu.com
-    quality: 30
-    images:
-      - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/LIOuyMdkuOqt_FAUl7M4uwemIfc=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/BBJYAIBMVRGSDJ3FJFRLJCVKOM.jpg"
-        width: 980
-        height: 551
-        isCached: true
 
 secured: "ZeNdCZvoeCMMpX3Q2wcdrJu0XiVo0WPUXK3a71ltY0uFpPZdU7Su6GlIbqJ7NOOuM2MQzCzHCp3uiD8SIAF4LU4J3Heqkb/vkKWuDoID7CaGLQE2ZW30xf8FQbFcoVdEplyGp3YJx/yR1yXdABp0vDHpWl5X0iUlArcKicU98hg635o15Qh1gYENejOplyRpP48OWfimk9Qe6TE8NKRyZIezEyPl94XhMd+So9gIO0txkB0vJGHsX25zZnJMZwH6u4ZnkpzKZfEolwtp3d5P1Ejyf116M1J1sjoE/BhfecPElQPNgMe9eWkQBjFrSupPr1RxuccvmLny+C9vOQO8zm16mrvUSYTkrER+NqHNaZz10pGCYgRLMEBPZmLvcPQfNyppYM9Lj0bbI7oDinW4SWj+aA7eqgUyarhyUfnc78gpcLSmVsALDQa6bPPLkQ/PSnbD6u9otnrKDK1wmGfZPSkFLNqpfiC+Fllbmkm/AHVh4malsnv5QQrQDFNqdgDwKnAyxxkzgxUBEcJtgpTC1g==;mGmxevjcS8gmcKorB4Pw2Q=="
 ---

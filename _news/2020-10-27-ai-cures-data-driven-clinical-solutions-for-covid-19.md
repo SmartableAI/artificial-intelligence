@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 919
         isCached: true
+  - title: "In A Post-COVID World, We Need AI More Than Ever"
+    excerpt: "This long-overdue document covers developments in the year since the American AI Initiative kicked off. The report said that American research and development investments in AI “are measured not just by the specific dollar total of the financial ..."
+    publishedDateTime: 2020-10-27T03:37:00Z
+    webUrl: "https://www.defenseone.com/ideas/2020/10/post-covid-world-we-need-ai-more-ever/169531/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 37
+    images:
+      - url: "https://cdn.defenseone.com/media/img/upload/2020/10/26/D1-image-to-post/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "UCF researcher using artificial intelligence to help detect COVID-19 virtually"
     excerpt: "A reasearcher from the University of Central Florida is part of a breakthrough study doing just that, by using artificial intelligence to spot COVID-19 in a person’s lungs."
     publishedDateTime: 2020-10-24T00:39:00Z

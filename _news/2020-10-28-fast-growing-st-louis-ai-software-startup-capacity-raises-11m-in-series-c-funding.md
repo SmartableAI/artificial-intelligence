@@ -36,6 +36,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Startup Robust AI Raises $15 Million in New Funding"
+    excerpt: "Robust AI Inc., a startup developing an artificial intelligence system intended to allow robots to work autonomously in open-ended environments, on Wednesday raised $15 million in venture-capital funding,"
+    publishedDateTime: 2020-10-28T15:19:00Z
+    webUrl: "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-250518/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "KK12u1mz6cmaWXc15Uzy8MYmpKIAz0T92LR/vcqNekjc286cLxOl81KLeJCkPB9BYyd6T7o8wxPufRsTGnKnaiGw8FDixIj+mrEsv6TUyc2Vi4a3bhBZNs4osU0EJo1Zb29p9dpEXZNE6qNCcvPL6tab8Sv7pmUVMvqfgTQJIY3zatDlqGnmH7BR+q9TBRuHIPv4bTlQEqUyj8RN2y24FdFnUrf1AuwChRzV6y/6PtcGHMJeWtYn8OwD0AanTnV9twrAErer106QR9ENBKkRcA1/AjLYw8N3DS2260LFqp/nFxx1Eovg3Wce2uzAyh9a4DQ5aLl0NfkEQFENiBtNXbKQlbGHW6sFH1J5yFMsjxx2nghK+Ck5hEI0h1qSQS6P6fY7CIRXT+zfdMYqdmQ5LZQ/v4laN7OXs80OTW2AKnJHlZ6hPvO9GAbwfksMmGFWZ6anvz05G2gPpEETkUewQTEla9lWQd5n83Fqcf71B87cogMbpNYoJxnArtr4bNQ+/5NMfp81eKTWbo8vlJ+3GA==;5+FlTfogsBd6blbI+HrNPg=="
 ---

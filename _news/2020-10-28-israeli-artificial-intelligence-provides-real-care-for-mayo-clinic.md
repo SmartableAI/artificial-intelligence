@@ -8,8 +8,8 @@ webUrl: "https://www.timesofisrael.com/spotlight/israeli-artificial-intelligence
 ampWebUrl: "https://www.timesofisrael.com/spotlight/israeli-artificial-intelligence-provides-real-care-for-mayo-clinic/amp/"
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/israeli-artificial-intelligence-provides-real-care-for-mayo-clinic/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://static.timesofisrael.com/www/uploads/2020/10/Kira-on-stage-4-640x400.jpg"
@@ -26,6 +27,6 @@ images:
     height: 400
     isCached: true
 
-secured: "FQhvNyqCdV4zDhzPv2xABDePS3fBR1eMgqMtgEn/9pS1Ng9c38SjKQUq1dKFVl69oirr0wNvCP/EwwOIllooEQZh+OC+tKKof4uIbbgADuhWSkfrm5LJH0FaLVudxR+Tup+/c5007cTovTCOnCkHnFQDNFY1jOmxVqrvsmboleAQBnX3AL44FXooe+2PodEvHa6sI1Yd2qz+W56OsSn5n0CCQuM37SbZ4/9+w/MTQjuQ3SnDpySunISD1yNrzmt/lYl3FSz2K/30b6fI7wKswdZtokafPO39w45yr1mEb9JWzd8DAzLgx0srq6+k4ELi2XSZ9bs1kTJy5mu8+LHUx1V6FpAKNriZlOFaN6UfIPo=;5RORCXmJdusYtp8ZgBvOuQ=="
+secured: "DF990YcS97vKByEyA2PKpUEVZkk87cCk3weDllSoiZXKzimf0aR72uj+x3SYMRmrP43YjU2UtM3It1m67DNzX81g8TWUce1C/VfoAb70yCDmLwIwnG8d/7xcVw9eu7lpifanQKCq5do7Unr1U3JptenqGN/fnrzxAeGKoLZp+zEpuB9+/PLi8WR1DYC/f7dSXr8znM2RcsIYleSA0Q9KKIlKfey6PA95r8FPURM2+6uDCNLDqzrFqi6FuHGfQ1Oznu/su4RBgiL4U2W6XhuzEedOBLhVAFYK/U/SxTf2RSmGo50jaxlc8XEcN7leyYKAaGDETND2DoofwsgX6JuD+98DdWkxvnTBPJaAVG3Hv4LwHMAjk5NEw1jwm8TnwKczuNspDHoLnOfNsq4Qt+PiGHLtEA+cbZgJvR348tzmK948hMI0Z5mRkV3OVM6bTwZfgxfv82ntjRJpTQAl4cOhHR/LMdLcRXKYEqiytGAlHtH4MQxWw+NNqBNyvHloKOPvnfeRwSVWsO/KcIAC/0JjYw==;xA9ok2X57eG0IOv4FvaMeA=="
 ---
 

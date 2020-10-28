@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "Artificial Intelligence (AI) is expected to contribute up to US$ 15.7 trillion to global GDP by 2030. AI applications, powered by an influx of big data and advancements in computing power, are positioned to transform major sectors, including healthcare."
-publishedDateTime: 2020-10-27T15:10:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
+excerpt: "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ..."
+publishedDateTime: 2020-10-27T15:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
 type: article
-quality: 39
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
-    width: 1279
-    height: 670
-    isCached: true
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market"
@@ -54,6 +53,6 @@ related:
         height: 670
         isCached: true
 
-secured: "dwLpk34V3qGtJvaw75RpAN82CrUyx7plvbMtTcRlocM76IrCHX34Dt83eZjcOddU0g2imG47OFD35T1loC3v3qahlnPvMZuZUD1bY6i0Dau8SL/pLUXmsduw6JvsTI6WtTXXzCg5QG7hyM/bIpXH5KbF/k93/au4LuV1Fb7+hQ/FDUklmYZzXqIVwGEK/vAahD0x4/bngv4jOD5jTxqBnZ3/qHF2zzb60FTxPLW8qMkYuY5b49Mu8Q3Vj5t0b7WBwzBMWZFfzJDaVNlJl7EHjc5D4sj9xj5usSzQ7b/ExZzOOmKZxPNC574VqnEPhpt6jD1NPbPFSkXuuZlDrCqvGEwPINdDoE9MPB/DQJv+Ru4=;d836VPKVlcWnb1eVJkUHWQ=="
+secured: "CgeI4ZJurmqkMLbkWQLSEQaMI1FkkFlI/RBcxIoIfzZLg0QAG0ra9GyhN3I+OS8LtCTJ7Y7nErW69VDAHvxRr3dcaFGX9+Cg/euU/+yN8c0w2THcG3Scbv07W/iiORWNops4wIkAbBRazy3AqfYhFGWiM9QY+PviRBE8zbpIEXBr79fhXRBM9NGm1SrkO6/32szNmHicNHFN/Mih1j0mp+KbBBYPWkhPIEdv5F0eqMUeDROm7wSZcEqVLYtodMKhZAByTDg+i+BtkkmMnABxKxwknEygxIAdhah7HhuI4WvoDqctRIkhN/BzeqAqO481yzIYOaVIEfCMYCAZxaNG6ODB/kxHIFZ9WdhF6Bu/C7Q=;MJvVdgwEcNLc4jJsB5ygXw=="
 ---
 

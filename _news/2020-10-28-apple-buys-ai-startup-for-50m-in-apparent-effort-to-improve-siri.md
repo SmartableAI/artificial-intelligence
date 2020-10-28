@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
-    excerpt: "Apple purchased artificial intelligence startup Vilynx earlier this year for approximately $50 million, Bloomberg reported Tuesday. Barcelona-based Vilynx built AI tools that analyze videos with the goal of \"understanding\" what's in them and categorizing that information,"
-    publishedDateTime: 2020-10-28T02:07:00Z
-    webUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/5f988b936f5b310011723bd1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Apple buys computer vision startup Vilynx for $50 million"
     excerpt: "Earlier in 2020, Apple reportedly purchased Barcelona startup Vilynx that specialized in artificial intelligence, machine learning, and computer vision. Citing sources familiar with the matter ..."
     publishedDateTime: 2020-10-27T20:01:00Z
@@ -88,6 +72,20 @@ related:
         width: 1000
         height: 682
         isCached: true
+  - title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
+    excerpt: "Apple purchased artificial intelligence startup Vilynx earlier this year for approximately $50 million, Bloomberg reported Tuesday. Barcelona-based Vilynx built AI tools that analyze videos with the goal of \"understanding\" what's in them and categorizing that information,"
+    publishedDateTime: 2020-10-28T02:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10-1029729829"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/5f59078de6ff30001d4e7c8e?format=jpeg"
+        width: 2588
+        height: 1941
+        isCached: true
   - title: "Apple buys self-learning AI video startup to improve apps"
     excerpt: "Apple Inc acquired a startup specialising in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services. The Cupertino, California-based technology giant acquired ..."
     publishedDateTime: 2020-10-28T07:32:00Z
@@ -116,6 +114,15 @@ related:
         width: 715
         height: 341
         isCached: true
+  - title: "Apple roundup: Privacy change hit with French antitrust complaint; acquires video analyzing AI startup"
+    excerpt: "In other Apple news, Bloomberg sources say the company acquired advanced AI and computer vision startup Vilynx for about $50M earlier this year. Vilynx's tech uses AI to understand a video's ..."
+    publishedDateTime: 2020-10-28T14:32:00Z
+    webUrl: "https://seekingalpha.com/news/3627293-apple-roundup-privacy-change-hit-french-antitrust-complaint-acquires-video-analyzing-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 1
 
 secured: "6Q9hLq5IjbXiqWHeH+KwCvVSMmQewTFjHKZDn1YbzrHNZJJuN/K2MvJiWDGBCr5z8dK42ly+d9bw/kYd88RfFf2TwgnzMy+olMw+SpWmcpogK5NfjrebMO/88ZnMlyyLMWJWvWRKzSaH7NmMT8ge8UYQSshXg+5rK+J23LXQYmgEmc14p4jR3K0Z7M469v1k9nfjLWQ1yzYZZlB5irEraDpkheaxb6DIC3H6a2qDgYGLxz5W77dSKQPI00v9/Gar6pCDf6QUtuU65Hr8BzSkrLkiLdb4bXII5xjIQDxhI4ukK9MUJGTffdzUdMQEy0PWRzhPLdB6osQcuijofRdbP8lqCqUEo/ChQHTcLNgfth8=;VLsAn0GdJwuqbueeW0GGeA=="
 ---

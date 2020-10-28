@@ -53,6 +53,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "In A Post-COVID World, We Need AI More Than Ever"
+    excerpt: "This long-overdue document covers developments in the year since the American AI Initiative kicked off. The report said that American research and development investments in AI “are measured not just by the specific dollar total of the financial ..."
+    publishedDateTime: 2020-10-27T03:37:00Z
+    webUrl: "https://www.defenseone.com/ideas/2020/10/post-covid-world-we-need-ai-more-ever/169531/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 37
+    images:
+      - url: "https://cdn.defenseone.com/media/img/upload/2020/10/26/D1-image-to-post/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "IfRSUwCCDjqlRMHnXyFLdxit6QYZZJYJWF82TpvI0Qpgfn06sOFfnqcnnbHaCpPz0NvIOvAe+Noc2V+PZFTFpQudkYFL1YEvMORIZdiIMCOCWDt84/2xz3KPGMfQWbje40yOFtQ00dmxl4m7o2RO4cp2p0Bo0qEHKW8zwlnKGA3w7Gt+++rVCoZfuw+GT4R6kfxg9qh6FMpnDGDAzS2KadGac8CxpiUo1aDmy+OrHtUCOWhnwtzkHcgz+vWNNGPpy8vT9fI4Qh0+33J1In7xI/nWX55gApxb5t8xihKl8c1Au7uowvu81+NJKfAk36VrDq+ivh3TXy4Imn1yf1cEymDQTCEUMRHuiB1xPR2rp7k=;JKZV6RbcE4mNpw/gtDXFAA=="
 ---

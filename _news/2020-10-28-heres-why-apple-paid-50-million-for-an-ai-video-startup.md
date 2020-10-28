@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-5
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
-    excerpt: "Apple purchased artificial intelligence startup Vilynx earlier this year for approximately $50 million, Bloomberg reported Tuesday. Barcelona-based Vilynx built AI tools that analyze videos with the goal of \"understanding\" what's in them and categorizing that information,"
-    publishedDateTime: 2020-10-28T02:07:00Z
-    webUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/5f988b936f5b310011723bd1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Apple buys computer vision startup Vilynx for $50 million"
     excerpt: "Earlier in 2020, Apple reportedly purchased Barcelona startup Vilynx that specialized in artificial intelligence, machine learning, and computer vision. Citing sources familiar with the matter ..."
     publishedDateTime: 2020-10-27T20:01:00Z
@@ -77,6 +61,20 @@ related:
       - url: "https://www.smarteranalyst.com/wp-content/uploads/2020/10/shutterstock_1709503240.jpg"
         width: 1000
         height: 682
+        isCached: true
+  - title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
+    excerpt: "Apple purchased artificial intelligence startup Vilynx earlier this year for approximately $50 million, Bloomberg reported Tuesday. Barcelona-based Vilynx built AI tools that analyze videos with the goal of \"understanding\" what's in them and categorizing that information,"
+    publishedDateTime: 2020-10-28T02:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10-1029729829"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/5f59078de6ff30001d4e7c8e?format=jpeg"
+        width: 2588
+        height: 1941
         isCached: true
   - title: "Apple Buys AI Startup For $50m In Apparent Effort To Improve Siri"
     excerpt: "Apple has acquired a Spanish startup specialising in advanced artificial intelligence and computer vision technology in an apparent effort to improve Siri and its corresponding apps. The tech giant bought Barcelona-based Vilynx Inc,"
@@ -120,6 +118,15 @@ related:
         width: 715
         height: 341
         isCached: true
+  - title: "Apple roundup: Privacy change hit with French antitrust complaint; acquires video analyzing AI startup"
+    excerpt: "In other Apple news, Bloomberg sources say the company acquired advanced AI and computer vision startup Vilynx for about $50M earlier this year. Vilynx's tech uses AI to understand a video's ..."
+    publishedDateTime: 2020-10-28T14:32:00Z
+    webUrl: "https://seekingalpha.com/news/3627293-apple-roundup-privacy-change-hit-french-antitrust-complaint-acquires-video-analyzing-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 1
 
 secured: "notylsOHyNF7GoWY/A15tRZCGbmwK/9Bd67Lp9K5lfe+KhO0bC9T+CUu0wizBpWq9c8PKLzPTOzkxMfzeGWkXV/vP/tTKEpJuC42PD/C+YyXFU66rAOjOpzeUPoNqENAkZgVqWOcrQUSU71cWHWWTg350ko2rNbqr0RnPjby9sbnDT7ee2RajVswBX4o3sHS8y4akqSa9QXC3DbBtxsbV3j/KK75CY/tM4CH/MD/yk8tvwlfxU+RSQXLDVwM8P+LBNRUfbC2l3+MiAk/E7nszSmVtAosjDvN//AsQ7KH/eTM6Eyk+NIlfFCgQPFe1m2ze46wX751njdcZgySx1ToOQQt56whhUzeDZj4+7r/KDI3KOwawnApPOLLCXL7ArcVWFi9XLcgHHTrD8ItbCZedtehhnIMFZCt2aWLZDrBSaKE34JF8SF+65A2+cvoQBxP7J5Hr/mqa5aMpyRaPtq5QiCCT1y0ZxehrlDuc0QvtvYRuMi3fqqy/SdA1B/NV49xRKzV7ijxt6UHGvQSTSudXw==;m0DyIrk9b5txRO/+mUk6Ww=="
 ---

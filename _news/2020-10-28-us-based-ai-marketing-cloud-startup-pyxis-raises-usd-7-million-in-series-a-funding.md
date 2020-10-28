@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/us-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/us-based-ai-marketing-cloud-startup-pyxis-raises-usd-7-million-in-series-a-funding-120102801417_1.html"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup Robust AI Raises $15 Million in New Funding"
+    excerpt: "Robust AI Inc., a startup developing an artificial intelligence system intended to allow robots to work autonomously in open-ended environments, on Wednesday raised $15 million in venture-capital funding,"
+    publishedDateTime: 2020-10-28T15:19:00Z
+    webUrl: "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-250518/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Fast-growing St. Louis AI software startup Capacity raises $11M in Series C funding"
     excerpt: "The startup said its new financing came primarily from existing ... Founded in 2017 by Karandish and fellow entrepreneur Chris Sims, Capacity has developed an AI-enabled “help desk” technology that’s designed to capture and collect a company or ..."
     publishedDateTime: 2020-10-28T13:45:00Z

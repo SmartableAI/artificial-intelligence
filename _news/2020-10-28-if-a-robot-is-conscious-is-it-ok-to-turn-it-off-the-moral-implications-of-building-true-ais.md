@@ -1,24 +1,30 @@
 ---
 category: news
-title: "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs"
-excerpt: "What is the basis upon which something has rights? What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing."
-publishedDateTime: 2020-10-28T02:55:00Z
-originalUrl: "https://www.expressnews.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
-webUrl: "https://www.expressnews.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
-ampWebUrl: "https://www.expressnews.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
-cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
+title: "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs"
+excerpt: "we might wonder if it can be extended further to an android robot like Data. It would require that Data can either feel pain or suffer. And how you answer that depends on how you understand consciousness and intelligence. As real artificial intelligence ..."
+publishedDateTime: 2020-10-28T14:00:00Z
+originalUrl: "https://singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais/"
+webUrl: "https://singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais/"
+ampWebUrl: "https://singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais/amp/"
+cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais/amp/"
 type: article
-quality: 43
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: San Antonio Express-News
-  domain: expressnews.com
+  name: Singularity Hub
+  domain: singularityhub.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://singularityhub.com/wp-content/uploads/2018/01/artificial-intelligence-robot-vs-human-vector-745372390.jpg"
+    width: 1408
+    height: 792
+    isCached: true
 
 related:
   - title: "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs"
@@ -65,6 +71,6 @@ related:
       domain: middletownpress.com
     quality: 39
 
-secured: "oIWGlnSErY9vvt/RklbT3MKWaSVC4/K6wb3IBNLDHP0tEP7Q01fZxZMZAk/wcoXNYAXAgCMA4j8fV3lSj2T7ThceD4QlEfcr0UdI5yyxS92Kdmvv1iBzzO5taySsXcK8Vg/1kZjjMvBIH5zi0e1xa8M+ajcdS1zP1PlQkPkAnNjkKs+yCntC9yfiau9UadPtAELRyK8Yf782qmxpWW5QOY1DUF+4VREZk/vbs4G1VqOpa2O3Uz7CVC+4NNKxOK07gp/LLnoh8YV1tZmMYbt/kRY/JArXAjteSSKudF1DD//Z5N/wI+L/mmuK0x9OWVYRSbknDXxcvjGo5nsZswEYSkt51GqMoA1VE4V1C+/3Hwk=;YYZtgqI7Ap9RPL++zfN7YA=="
+secured: "+EYZm6vl63bbFAktOY3fK5LLjLTiAyVKA18QaHKDh8JEeM0fU5gb1p6NwI7scVi7PaXyNO4+/TGgSMsaWV/e5SAIlVWSYJbiMDTngvKsEbgSGHf+xm+x7ubgLEZUGCqy+9FEXYeVSnVPnBzAnM7xC9kU5euFEewCIlpBUf+Gzb2eZvAm+K3jOqJ0niSvQFmCVZyEquAJ7cpUxbODoxQqZ61qXemW6MUpnxbLgjdp1buwwxtXqUeMVZNT0e6DklTwqBuSnB9K9t0TH1mjp3+v7VVrc3dR/jy4N0ecar0o+St4LQFE1dL2HZB6V/Wy5QB5uzcXfLTYzBZ8wSI0FC7boL64uWWrkJaZebUBZN9KgDo=;m0Vmf5Fs6wDTq7yup33Njg=="
 ---
 

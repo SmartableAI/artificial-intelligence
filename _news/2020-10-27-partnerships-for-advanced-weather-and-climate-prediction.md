@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/partnerships-advanced-weather-clim
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/amp/"
 type: article
 quality: 94
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://9to5google.com/wp-content/uploads/sites/4/2019/04/google_cloud_logo_1.jpg?quality=82&strip=all"
         width: 2500
         height: 1250
-        isCached: true
-  - title: "Goshen Center for Cancer Care is second in the nation to offer advanced radiation therapy"
-    excerpt: "At Goshen Center for Cancer Care, thanks to Ethos™ Therapy, artificial intelligence and machine learning can create and adapt plans for physicians' review within minutes – all while the patient remains on the treatment couch. “We are thrilled to ..."
-    publishedDateTime: 2020-10-23T21:34:00Z
-    webUrl: "https://www.wndu.com/2020/10/23/goshen-center-for-cancer-care-is-second-in-the-nation-to-offer-advanced-radiation-therapy/"
-    type: article
-    provider:
-      name: WNDU
-      domain: wndu.com
-    quality: 30
-    images:
-      - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/LIOuyMdkuOqt_FAUl7M4uwemIfc=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/BBJYAIBMVRGSDJ3FJFRLJCVKOM.jpg"
-        width: 980
-        height: 551
         isCached: true
 
 secured: "a4u88cvS9Qc/KvPIh+izG264W1HSmgag7TeuW5fDWiK5p3pLGsEkQMcFJ/IO0UVhCqfa0+laGZMqfpy1wh/TRx52R5XBmUH5McybdV0x2YdxwAvflq0kvWnLHN1Y3OvTdUBPodNLzXFSxNweQqnCy4N0b5Q5nmYDE53d0UrXAiOrHinQv1UrXBPuoE68Yfty8Vrv3HmOPOAE0Kr+EP4FWYSrn2E//rSfrcwf8ZjSB1eAIqFyKpBNFbQCdWJzIWldNGKHp7FuOeTc2wr8L0N3REVPPDqonKRNSEdRoZQW3ARz0bYN3Y+3gSZPWeIgI3g0NNf1yNsN9MHfxc/Wkf3EGhk6cg9AFdZ0JKZNNTGLvG4=;HXgpW7QJm53Fmj3FT7exJw=="

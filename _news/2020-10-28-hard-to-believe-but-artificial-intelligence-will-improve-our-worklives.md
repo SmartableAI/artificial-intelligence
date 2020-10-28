@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Hiring the people that will put AI to work"
-    excerpt: "Agency investments in artificial intelligence must be accompanied by strategies that rely on data scientists, digital workers and benchmarking."
-    publishedDateTime: 2020-10-23T21:12:00Z
-    webUrl: "https://gcn.com/articles/2020/10/23/future-ai-workers.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Workforce/workforce2.jpg"
-        width: 760
-        height: 368
-        isCached: true
 
 secured: "9ncX0r44V7Dm++KM5Vuri7VNyizivdbC6vwrbh74wwBjdu3jBJdpDx6xZ1o+Su+7PdqkYURHALXMBLPHF7lgH9HNjUImVmoPGnba+wCjgWSv3PmxYW88ZKaQOQvU2DNcD39YvrgR0XffeezgGRK2DYAq5rJzwktng2a5dhcaFVcHTQlscdOcAKGmz39lgYcIFtxjngtZ6T8DPcMmYiVBOfHkleozdeGOdhPVcxjttw9bUxQ7ztlCCeLHjHvVOz4eiWNuTqtC7+UQlLvRYRgGErGZw4enJem9efVmQHiV2luSN3xkmRYYO4s+dKzn2Rs9B2Hrq+5NdPuYfjMsrizgCcvTb/NbnfG/BX9GQZehTn0+Si5lpdq0VNe6idHrNZe2zvxDddjOuQEI5Wr/OFGLtL2Q6Je8vUMjUc98+N/v2F77vpehV1BRHg8ChF4eXLduFCMpHmYx6umh6jShhq69haehScPlpyxHsFO0206Pse9NYYYR3oG9H6TbtxnxgQhTLZsGhU7xxGgIgcMdFj/MWA==;y1grB/dtGeU/6oPazNVEiA=="
 ---
