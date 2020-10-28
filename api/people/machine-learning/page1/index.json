@@ -17,7 +17,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 355584
+        "followers": 355641
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -41,7 +41,7 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 362,
+      "heat": 376,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -67,7 +67,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 539447
+        "followers": 539459
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -102,7 +102,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 305,
+      "heat": 326,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -128,7 +128,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 228378
+        "followers": 228396
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -148,13 +148,69 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 294,
+      "heat": 320,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Yann LeCun",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/christopher-d-manning.md",
+      "title": "Christopher D Manning",
+      "excerpt": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/christopher-d-manning/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/christopher-d-manning/",
+      "type": "profile",
+      "name": "Christopher D Manning",
+      "bio": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
+      "location": "Palo Alto",
+      "website": "https://nlp.stanford.edu/~manning/",
+      "twitter": {
+        "username": "chrmanning",
+        "url": "https://twitter.com/chrmanning",
+        "followers": 72231
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
+        "citations": 143695
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning"
+      ],
+      "heat": 309,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Christopher D Manning",
           "isCached": true
         }
       ],
@@ -174,7 +230,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 368880
+        "followers": 368896
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -208,53 +264,13 @@
         "Computer Vision",
         "AI in Healthcare"
       ],
-      "heat": 247,
+      "heat": 283,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Fei-Fei Li",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/demis-hassabis.md",
-      "title": "Demis Hassabis",
-      "excerpt": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/demis-hassabis/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/demis-hassabis/",
-      "type": "profile",
-      "name": "Demis Hassabis",
-      "bio": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "website": "http://t.co/8B3TFG0hNp",
-      "twitter": {
-        "username": "demishassabis",
-        "url": "https://twitter.com/demishassabis",
-        "followers": 199778
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
-        "citations": 43900
-      },
-      "affiliation": {
-        "path": "",
-        "name": "ac.uk - Homepage",
-        "domain": "ac.uk - Homepage"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 246,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Demis Hassabis",
           "isCached": true
         }
       ],
@@ -273,7 +289,7 @@
       "twitter": {
         "username": "jeffdean",
         "url": "https://twitter.com/jeffdean",
-        "followers": 172875
+        "followers": 172883
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
@@ -302,13 +318,53 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 245,
+      "heat": 273,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Jeff Dean",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/demis-hassabis.md",
+      "title": "Demis Hassabis",
+      "excerpt": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/demis-hassabis/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/demis-hassabis/",
+      "type": "profile",
+      "name": "Demis Hassabis",
+      "bio": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
+      "website": "http://t.co/8B3TFG0hNp",
+      "twitter": {
+        "username": "demishassabis",
+        "url": "https://twitter.com/demishassabis",
+        "followers": 199786
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
+        "citations": 43900
+      },
+      "affiliation": {
+        "path": "",
+        "name": "ac.uk - Homepage",
+        "domain": "ac.uk - Homepage"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 264,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Demis Hassabis",
           "isCached": true
         }
       ],
@@ -326,7 +382,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 94476
+        "followers": 94478
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -344,7 +400,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 225,
+      "heat": 244,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -404,7 +460,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 225,
+          "heat": 244,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -428,7 +484,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 294,
+          "heat": 320,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -441,7 +497,7 @@
         }
       ],
       "size": 3,
-      "heat": 225,
+      "heat": 244,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
@@ -465,7 +521,7 @@
       "twitter": {
         "username": "ilyasut",
         "url": "https://twitter.com/ilyasut",
-        "followers": 59388
+        "followers": 59391
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
@@ -483,110 +539,13 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 216,
+      "heat": 183,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1287174032211603456/vL4_w__Q_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Ilya Sutskever",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/christopher-d-manning.md",
-      "title": "Christopher D Manning",
-      "excerpt": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/christopher-d-manning/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/christopher-d-manning/",
-      "type": "profile",
-      "name": "Christopher D Manning",
-      "bio": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-      "location": "Palo Alto",
-      "website": "https://nlp.stanford.edu/~manning/",
-      "twitter": {
-        "username": "chrmanning",
-        "url": "https://twitter.com/chrmanning",
-        "followers": 72221
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
-        "citations": 143695
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 208,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Christopher D Manning",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/nando-de-freitas.md",
-      "title": "Nando de Freitas",
-      "excerpt": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/nando-de-freitas/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/nando-de-freitas/",
-      "type": "profile",
-      "name": "Nando de Freitas",
-      "bio": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
-      "location": "London, England",
-      "website": "https://t.co/uy8OBWPHze",
-      "twitter": {
-        "username": "NandoDF",
-        "url": "https://twitter.com/NandoDF",
-        "followers": 81725
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
-        "citations": 38816
-      },
-      "affiliation": {
-        "path": "",
-        "name": "google.com - Homepage",
-        "domain": "google.com - Homepage"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 138,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1210841647224897537/_jraFz64_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Nando de Freitas",
           "isCached": true
         }
       ],
@@ -606,7 +565,7 @@
       "twitter": {
         "username": "soumithchintala",
         "url": "https://twitter.com/soumithchintala",
-        "followers": 83370
+        "followers": 83374
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/soumith"
@@ -622,13 +581,54 @@
         "Facebook AI",
         "PyTorch"
       ],
-      "heat": 122,
+      "heat": 176,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Soumith Chintala",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/nando-de-freitas.md",
+      "title": "Nando de Freitas",
+      "excerpt": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/nando-de-freitas/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/nando-de-freitas/",
+      "type": "profile",
+      "name": "Nando de Freitas",
+      "bio": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
+      "location": "London, England",
+      "website": "https://t.co/uy8OBWPHze",
+      "twitter": {
+        "username": "NandoDF",
+        "url": "https://twitter.com/NandoDF",
+        "followers": 81728
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
+        "citations": 38816
+      },
+      "affiliation": {
+        "path": "",
+        "name": "google.com - Homepage",
+        "domain": "google.com - Homepage"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 175,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1210841647224897537/_jraFz64_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Nando de Freitas",
           "isCached": true
         }
       ],
@@ -648,7 +648,7 @@
       "twitter": {
         "username": "lmoroney",
         "url": "https://twitter.com/lmoroney",
-        "followers": 20747
+        "followers": 20746
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/laurence-moroney/"
@@ -659,139 +659,13 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 112,
+      "heat": 147,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1288330700752482304/BfXxtH9Q_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Laurence Moroney",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/alex-smola.md",
-      "title": "Alex Smola",
-      "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/alex-smola/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/alex-smola/",
-      "type": "profile",
-      "name": "Alex Smola",
-      "bio": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "location": "Palo Alto, CA",
-      "website": "http://alex.smola.org/",
-      "twitter": {
-        "username": "smolix",
-        "url": "https://twitter.com/smolix",
-        "followers": 15908
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
-        "citations": 138815
-      },
-      "affiliation": {
-        "path": "",
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ],
-      "heat": 96,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Alex Smola",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/bernhard-scholkopf.md",
-      "title": "Bernhard Schölkopf",
-      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/bernhard-scholkopf/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/bernhard-scholkopf/",
-      "type": "profile",
-      "name": "Bernhard Schölkopf",
-      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "twitter": {
-        "username": "bschoelkopf",
-        "url": "https://twitter.com/bschoelkopf",
-        "followers": 5807
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 155505
-      },
-      "affiliation": {
-        "path": "",
-        "name": "tuebingen.mpg.de",
-        "domain": "tuebingen.mpg.de"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Bernhard Schölkopf",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/andrew-moore.md",
-      "title": "Andrew Moore",
-      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/andrew-moore/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/andrew-moore/",
-      "type": "profile",
-      "name": "Andrew Moore",
-      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "location": "Pittsburgh, PA",
-      "website": "http://www.cs.cmu.edu/~awm/",
-      "twitter": {
-        "username": "awmcmu",
-        "url": "https://twitter.com/awmcmu",
-        "followers": 5878
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
-      },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Andrew Moore",
           "isCached": true
         }
       ],
@@ -811,7 +685,7 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 9446
+        "followers": 9448
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
@@ -827,7 +701,7 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 77,
+      "heat": 124,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
@@ -871,13 +745,205 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 71,
+      "heat": 124,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Oren Etzioni",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/bernhard-scholkopf.md",
+      "title": "Bernhard Schölkopf",
+      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/bernhard-scholkopf/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/bernhard-scholkopf/",
+      "type": "profile",
+      "name": "Bernhard Schölkopf",
+      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "twitter": {
+        "username": "bschoelkopf",
+        "url": "https://twitter.com/bschoelkopf",
+        "followers": 5807
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
+        "citations": 155505
+      },
+      "affiliation": {
+        "path": "",
+        "name": "tuebingen.mpg.de",
+        "domain": "tuebingen.mpg.de"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bernhard Schölkopf",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alexandr-wang.md",
+      "title": "Alexandr Wang",
+      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/alexandr-wang/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/alexandr-wang/",
+      "type": "profile",
+      "name": "Alexandr Wang",
+      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
+      "location": "San Francisco, CA",
+      "website": "https://scale.com/",
+      "twitter": {
+        "username": "alexandr_wang",
+        "url": "https://twitter.com/alexandr_wang",
+        "followers": 9333
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/alexandrwang/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Scale",
+        "domain": "scale.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Autos"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alexandr Wang",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alex-smola.md",
+      "title": "Alex Smola",
+      "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/alex-smola/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/alex-smola/",
+      "type": "profile",
+      "name": "Alex Smola",
+      "bio": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
+      "location": "Palo Alto, CA",
+      "website": "http://alex.smola.org/",
+      "twitter": {
+        "username": "smolix",
+        "url": "https://twitter.com/smolix",
+        "followers": 15908
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
+        "citations": 138815
+      },
+      "affiliation": {
+        "path": "",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ],
+      "heat": 98,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alex Smola",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/rajat-monga.md",
+      "title": "Rajat Monga",
+      "excerpt": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/rajat-monga/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/rajat-monga/",
+      "type": "profile",
+      "name": "Rajat Monga",
+      "bio": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "location": "San Francisco Bay Area",
+      "website": "https://research.google/people/RajatMonga/",
+      "twitter": {
+        "username": "rajatmonga",
+        "url": "https://twitter.com/rajatmonga",
+        "followers": 14213
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rajatmonga/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
+        "citations": 32045
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rajat Monga",
           "isCached": true
         }
       ],
@@ -1305,44 +1371,6 @@
           "width": 116,
           "height": 127,
           "title": "Kalyanmoy Deb",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/leo-breiman.md",
-      "title": "Leo Breiman",
-      "excerpt": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/leo-breiman/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/leo-breiman/",
-      "type": "profile",
-      "name": "Leo Breiman",
-      "bio": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=mXSv_1UAAAAJ",
-        "citations": 162033
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Leo_Breiman"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "berkeley.edu",
-        "domain": "berkeley.edu"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=mXSv_1UAAAAJ&citpid=2",
-          "width": 128,
-          "height": 89,
-          "title": "Leo Breiman",
           "isCached": false
         }
       ],
