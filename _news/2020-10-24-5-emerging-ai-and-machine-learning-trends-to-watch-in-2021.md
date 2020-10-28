@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/5-emerging-ai-and-machine-learning-
 webUrl: "https://www.crn.com/news/cloud/5-emerging-ai-and-machine-learning-trends-to-watch-in-2021"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,77 @@ images:
     width: 399
     height: 399
     isCached: true
+
+related:
+  - title: "2021 is the time for AI to shine"
+    excerpt: "Companies and C-level leaders will tackle kinks in AI head on in 2021, not because they want to but because they have to."
+    publishedDateTime: 2020-10-26T14:53:00Z
+    webUrl: "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Using AI to unlock the genetic secrets of food"
+    excerpt: "The startup Brightseed uses a proprietary AI platform called Forager to predict the likelihood that plants will have useful natural compounds and the likelihood that those phytonutrients will have specific health benefits."
+    publishedDateTime: 2020-10-24T14:37:00Z
+    webUrl: "https://www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
+    ampWebUrl: "https://www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: "https://images.axios.com/p5p8jckNc7jnHJDICmx3yWdEXIk=/fit-in/1366x1366/2020/10/24/1603549523713.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Now is the time to raise your voice for peace"
+    excerpt: "Nothing that I can do will change the structure of the universe. But maybe, by raising my voice I can help the greatest of all causes — goodwill among men"
+    publishedDateTime: 2020-10-23T17:00:00Z
+    webUrl: "https://www.murfreesboropost.com/opinion/columns/now-is-the-time-to-raise-your-voice-for-peace/article_136d1558-1263-11eb-9b85-470710acfe04.html"
+    type: article
+    provider:
+      name: Murfreesboro Post
+      domain: murfreesboropost.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/murfreesboropost.com/content/tncms/assets/v3/editorial/f/f2/ff2e6078-625a-11ea-8e5d-1f4fbd82e799/5e66cce478060.image.jpg?crop=1118%2C687%2C37%2C61&resize=1025%2C630&order=crop%2Cresize"
+        width: 1025
+        height: 630
+        isCached: true
+  - title: "AI and the Legal Business Model: Why Time is Up for the Billable Hour"
+    excerpt: "If law firms fail to adequately respond to new imperatives, they not only risk losing an important opportunity to grow and scale but perhaps they even threaten their ability to survive at all in the quickly evolving legal landscape."
+    publishedDateTime: 2020-10-26T19:55:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/10/26/ai-and-the-legal-business-model-why-time-is-up-for-the-billable-hour/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2018/01/artificial-intelligence-Article-201801021655.jpg"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "AI are the letters to remember for accounts payable"
+    excerpt: "Intelligent automation empowers accounts payable to be more proactive in making strategic contributions to the longevity of the business. With automation and advanced analytics, AP teams can process invoices more quickly. Automation ensures invoices are ..."
+    publishedDateTime: 2020-10-27T15:02:00Z
+    webUrl: "https://www.paymentssource.com/opinion/ai-are-the-letters-to-remember-for-accounts-payable"
+    type: article
+    provider:
+      name: PaymentsSource
+      domain: paymentssource.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/fa45217/2147483647/strip/true/crop/1177x618+0+280/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fd9%2F9b%2F94fe065c45088edd2b55a7b64977%2Ftrapani-michelle-kofax-opinion-pso.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lcYh4n7EIDL7RQ7lfWazJWnwt3fD36RsCreRyGNVkRKhbkAorfFTv1rTzjlgMVUBYLmwizSclyBdqYpk+CUaE5uttnPzTjiMwtnU21Cw1yzd/MjAwCSUip+yLfmAjH0miGyxM0CS/YVtT/XFe8H3t7KkL4BX/Fz7eZ/yrzQ1HraG1OU93LuejQdphQmzTVjAVUfodWxjuGu153zxiOeFsLbJmiiIzNd/Wmn8OfpA4kJEkh99jqNJ24V8YF1Yja/728C9Xg5LEpGfEVp0xveejdu6JHBbe457BWTYg3RpX0m+ZTzlxhOHhYP/hlWK0OR5ExkIfqgBE0qw+EP27LBkhi87i747KjjQJzn/OXMFVdr7s6r/ojGmtmXI5A7cMhIY7LHR6rAWyn6+HadcFxPdLOm2wB/azrTWOqBy4GDf8yKaJxLJCcY+IO1cq7SnvfpNsjSgJyTwznahiFqewJreBP7Uzai6n75MS2Au2UHSBnphZ99yktUZ3U7GVpJ8CzeVJwtmEnU7JLE4eANgKNK/7g==;R0YnkOlpjkZaM+0qSaLFsg=="
 ---

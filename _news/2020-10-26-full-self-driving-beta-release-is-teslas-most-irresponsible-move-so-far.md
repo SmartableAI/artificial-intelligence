@@ -277,17 +277,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Federal regulators watching Tesla's new 'self-driving' software launch"
-    excerpt: "Big week for #Tesla: release of new #Autopilot features, cost hike of said features, federal regulators take note, and strong third quarter earnings. #SiliconValley #autotech #selfdrivingcar"
-    publishedDateTime: 2020-10-23T12:43:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/10/23/federal-regulators-watching-teslas.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/10/23/federal-regulators-watching-teslas.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/10/23/federal-regulators-watching-teslas.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
   - title: "Safety Regulator Vows to ‘Closely Monitor’ New Tesla Self-Driving Software"
     excerpt: "The U.S. auto safety regulator said on Thursday it was closely watching Tesla Inc.'s release of a software version intended to allow its cars to drive"
     publishedDateTime: 2020-10-23T15:09:00Z

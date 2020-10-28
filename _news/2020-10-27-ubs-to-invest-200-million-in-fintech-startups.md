@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Startup Signzy Raises $5.4 Mn to Enhance AI Research"
-    excerpt: "The funding round was led by from Arkam Ventures and Mastercard along with participation from Kalaari Capital and Stellaris Venture Partners"
-    publishedDateTime: 2020-10-23T11:17:00Z
-    webUrl: "https://www.entrepreneur.com/article/358321"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/358321"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358321"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1603451820-SignzyFoundersPicedit.png?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Advanced Technologies Of AI in Fintech Market Key Drivers & On-Going Trends 2020"
     excerpt: "AI in Fintech Market has been riding a progressive growth trail over the recent past The first two quarters of the year 2020 have however witnessed heavy disruptions throughout all the industry facets which are ultimately posing an unprecedented impact"
     publishedDateTime: 2020-10-23T18:14:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://cdn.openpr.com/T/a/Ta23653869_g.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "On The March: Ant Group, China's Fintech Sensation"
+    excerpt: "With a name belying its giant ambitions, China's Ant Group on Tuesday launched a history-making $34 billion IPO in Hong Kong and Shanghai. Backed by Jack Ma, China's richest man who founded the Alibaba e-commerce empire from his bedroom two decades ago,"
+    publishedDateTime: 2020-10-27T05:45:00Z
+    webUrl: "https://www.ibtimes.com/march-ant-group-chinas-fintech-sensation-3070506"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/27/jack-ma-launched-ant-group-in-2004-with.jpg"
+        width: 1024
+        height: 680
         isCached: true
 
 secured: "qpQ6h9LgeQQ2DzclM0COUDFS0prWkkBBeIMtNy+QvEXQPJkftw9qygothYF3veS7aM8weZ0LD/exYWfoyYtDpTuxy+aVxrLFT1cEQ78+vq+FFTqGJAhHf6rTLJQHCNUL1p87c08gUige9U2kc1f+W+DQ4FxwfNBOiMjVOfgLRinqzDStudumKTtlfSojpDyHyiSvScm9kVoOzMLPuB4CiMR8JylDzw3pDiZX7zJSPN56INbgxIoFKWF4+I0P+SHOAx8c8j9ilpi/08fitiedG1WhxjhH3+W3aJIX0dgLaMzE6OmQeMhUsLU/nIdyGX3JPLCXRlmfRbptGAyvC4ibNWiQNNbp6Cemlui+sxOd4no=;qExSDPUu61yNOA8eUGjz3Q=="

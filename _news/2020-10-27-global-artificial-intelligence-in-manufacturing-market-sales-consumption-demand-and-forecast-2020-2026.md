@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2173554/global-artificial-intelligence-in
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173554/global-artificial-intelligence-in-manufacturing-market"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -26,19 +26,6 @@ images:
     width: 780
     height: 405
     isCached: true
-
-related:
-  - title: "IT Robotic Automation Market Set for Rapid Growth and Trend by 2020-2025"
-    excerpt: "According to the national science and technology council of United States the U.S. government invested around $1.1 billion in research and development of artificial intelligence technologies in 2015 due to the significant capabilities of robotic automation ..."
-    publishedDateTime: 2020-10-23T11:51:00Z
-    webUrl: "https://www.openpr.com/news/2169332/it-robotic-automation-market-set-for-rapid-growth-and-trend"
-    ampWebUrl: "https://www.openpr.com/amp/2169332/it-robotic-automation-market-set-for-rapid-growth-and-trend"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2169332/it-robotic-automation-market-set-for-rapid-growth-and-trend"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
 
 secured: "qasf+1ajQRqRtbIBrY4K3xWihwf+yIbdF9yzBA30DY/IYuJ9cH/iEXSCc7UsqhNTDYrbMWbP6GN7C93kULlbnEWgeu7CW7mbpYwpK43i1FUSC/2rhVV9mR9nq2RiblH35fllUsU3VDv/Z0ggcv3pB5fkZ7uVVG1lu4wmxpzgq9xDvddlAf47rtZHrcF/YbYRapFHFG5zZnozbfPTqsRe/r+voaztR7Q1Y5CBJKNYpX1SDR1IEg+Nzp3sm806+Wjp8p9NQGcxuX8ZQ4TDKUPfSwoj8PW+p1dGLLHiOuIqedOWffgVWoBokdTcDyBS8P0LSwqmDiZkELXGEhcJiFDDrUN4mj7PJfzAWEi+dYY0kKXKleeUJEJANytcZMO0enhZvNTTy/v0IoQxvnLGNW9qC9dr5ByMWX6D/RDC9jErKJFQj3BYjmIoMG11YVF5AuRPL2JrAfPE2KRixe10KLDbsr0OFbKtOPmPMot2NbxkNTvFC0bhHZ5/rC8EyNsZBCncpXVG0t98CDWoFG5nRpwOBA==;Swnu2eOufEyxDsuyNvyWPA=="
 ---

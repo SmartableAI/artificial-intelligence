@@ -24,35 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Very Human Labor That Powers Artificial Intelligence"
-    excerpt: "Crowd-working platforms like Amazon’s Mechanical Turk obscure—and exploit—the human labor behind the digital age’s shiny successes."
-    publishedDateTime: 2020-10-27T09:16:00Z
-    webUrl: "https://www.thenation.com/article/society/amazon-mturk-artificial-intelligence/"
-    ampWebUrl: "https://www.thenation.com/article/society/amazon-mturk-artificial-intelligence/tnamp/"
-    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/society/amazon-mturk-artificial-intelligence/tnamp/"
+  - title: "Hard To Believe, But Artificial Intelligence Will Improve Our Worklives"
+    excerpt: "Instead of worrying about job displacement, we should get to work creating the new, high-quality jobs of tomorrow while massively expanding our upskilling and reskilling efforts to transition displaced workers into these new opportunities."
+    publishedDateTime: 2020-10-28T04:26:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/amp/"
     type: article
     provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.thenation.com/wp-content/uploads/2020/10/keyboard-dark-ss-img.jpg"
-        width: 1440
-        height: 907
-        isCached: true
-  - title: "AI and Human Empathy for Fitness and Therapy"
-    excerpt: "When coupled with empathy, implementing AI can positively enhance the fitness industry in a multitude of ways."
-    publishedDateTime: 2020-10-25T11:37:00Z
-    webUrl: "https://www.clubindustry.com/sponsored/ai-and-human-empathy-for-fitness-and-therapy"
-    type: article
-    provider:
-      name: Club Industry
-      domain: clubindustry.com
-    quality: 54
-    images:
-      - url: "https://qtxasset.com/clubindustry/1603388425/Exer-g-Igor%20Alecsander-1263904476.jpg?RbhOVGHwx5mxXjytMu_kftqVIVIjzcSX"
-        width: 2119
-        height: 1415
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98db4a023934f0a2752617%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "QbGsqqskUHktgxCgUw7wT9jHVuzflgDh8Z0QcRvjIlUpeaVQzRnoP4ji1Wa9nnn8/vCHakxDW51AzJxalsWgRPf7bKnYFF30RRt/BAb5cgOXjE0twcTqXPYKUsCnOoHW5q0RG6OBZy7QxqcMkhxN9L45hueytrIvhxSlxCR4ZVcz6FrmZ/6jrsuQLXrXNrvRxNApfQyY/o5jKGZ0ml0vO/LDabR7SdrarCexhVGb+K0t+y+ss5MaWn7UklIP7h6f0OqmpWi9cpH4CcUh89zleiUk2VTvcJOhq3AHwgLDvxxUbwF6LmSLmYR5DNVI3e+WC8Y6MfwLEB626Cd0s1lafEiY7cLvfPPFlA5uFiNqGuc=;5mzPmoGTjbj6gT4f9iVEjw=="

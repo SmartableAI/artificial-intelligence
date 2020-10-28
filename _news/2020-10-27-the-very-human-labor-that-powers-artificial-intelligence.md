@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenation.com/article/society/amazon-mturk-artificial-in
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/society/amazon-mturk-artificial-intelligence/tnamp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://qtxasset.com/clubindustry/1603388425/Exer-g-Igor%20Alecsander-1263904476.jpg?RbhOVGHwx5mxXjytMu_kftqVIVIjzcSX"
         width: 2119
         height: 1415
-        isCached: true
-  - title: "Hiring the people that will put AI to work"
-    excerpt: "Agency investments in artificial intelligence must be accompanied by strategies that rely on data scientists, digital workers and benchmarking."
-    publishedDateTime: 2020-10-23T21:12:00Z
-    webUrl: "https://gcn.com/articles/2020/10/23/future-ai-workers.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Workforce/workforce2.jpg"
-        width: 760
-        height: 368
         isCached: true
 
 secured: "cw53xw5wD8X7fLjUepXXWjKm7+ZENB3vuPoTc8CryfYWcaFKbn72kyVNWheWSzPMw8V/+HcbubF+MybnhlvD5IfyC0cEsUstB1NGiqILTcUm1xIzBRd2pUx5OtILXdAkTubALKgwe+Mn1l3eJCDt7zR6g9UnNTtUcM5EHipyC3mK3tQjek8E5RD7KZasYXdIPxzPcpL7IPEKFSvveyLode0U0K7T+jgWOkKUZNTWa9gC65nx7VVpZ9jmBX/uomJxf8fT0C4kkCgA//pX1NRF+Su4kRZWu4kgmI80lg9wh1UE0Pg5tqyfqD6JG1ffGMcaL07R4Qx9jlWDnkAwSR9bPXygs+laLUlRUrMQiWp7HkKNWjgAl8PZKs2Zcoadc+HQrFOqmiMnmmDCobvKs2hX4Wzn7oCKwi+olP263TWnGEQKlYrNKx/cn3029SE/W2mGgd3I5uKa1HA+taJwYeJ1aQsYuJoKmiA/Gse9nbTL6idMOrQWnEhgG5S+IBWUvwfk3/B4rIiM95sm4si4Mw/bkg==;nuN6VcsiM9SdbMVxEO/Ejw=="

@@ -31,7 +31,7 @@ related:
     provider:
       name: Electrek
       domain: electrek.co
-    quality: 100
+    quality: 117
     images:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?quality=82&strip=all"
         width: 1587

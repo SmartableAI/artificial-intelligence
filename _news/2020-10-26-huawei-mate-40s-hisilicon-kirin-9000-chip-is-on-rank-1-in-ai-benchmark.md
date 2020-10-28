@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-900
 cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Indian Wire
@@ -25,22 +25,6 @@ images:
     width: 920
     height: 470
     isCached: true
-
-related:
-  - title: "Huawei Mate 40’s HiSilicon Kirin 9000 chip ranks 1st in AI Benchmark"
-    excerpt: "Huawei had officially launched the Mate 40 series. The lineup is the latest flagship from the company and feature top notch specs like the HiSilicon Kirin 9000 chip, which has even topped the list in an AI Benchmark."
-    publishedDateTime: 2020-10-23T11:18:00Z
-    webUrl: "https://www.gizmochina.com/2020/10/23/huawei-mate-40-kirin-9000-ranks-1st-ai-benchmark/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/10/Huawei-Kirin-9000-920x470.jpg"
-        width: 920
-        height: 470
-        isCached: true
 
 secured: "ZpLcASiK+0OH598PWSMe+DTW2LGe8KcTfc05nhXHC8RzGI7kPAT0g0RmdRssfyI9CPGgCCjoiA66gnHS7fG5PA15fyizPiWXiytiBezyPDs2pOSt0VTecDYS38RJd5Twbl4fd3Lkv9px8/4hJ9MUlghTi/IZEn8p2of5xF6/rSTv5+b/lR9UXFOnLTLCJGUcDjwBrFZuK/BFeo0/UweqWaCewlEG9mdgRpwRPCMisg9fNkJYGikJV42ry59UAjj21JBzx4jEdb6OYVB0kY640sG5VKhjn1lgyH0dcdLhhSRbWMPw4FfRybDzvJj6xlwFxFpE9zEA6tGJnaUCLft0ArdsiGpGQlssjYFVcX4HzR7Q34zmcMinVr4ehqf3YdAmYdlXlz9g03TuSqHLB8Bbp2Jc9eUODzGIV0edApw4Hwebq0jx2tORDHRrNuu3FYNrz6qY+XwiUfholFHf0WoGyJpjrWrSguePmkE+xGuSsqww4mB0xIRMWPcIQGmDngclgIkG/uV+IMrVIfiwQbqpZw==;SSIlcprwdly888YJ16lqUQ=="
 ---

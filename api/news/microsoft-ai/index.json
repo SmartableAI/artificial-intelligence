@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-28-edge-ai-hardware-market.md",
+      "title": "Edge AI Hardware Market",
+      "excerpt": "Microsoft’s Azure IoT platform is able to process data messaging from millions of building sensors and devices and then use machine learning and AI to help building managers and operators determine what issues should be addressed in what order ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements",
+      "originalUrl": "https://www.openpr.com/news/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta28544591_g.jpg",
+          "width": 639,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements",
+      "publishedDateTime": "2020-10-27T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-microsoft-azure-to-build-a-first-cloud-data-center-region-in-taiwan.md",
       "title": "Microsoft Azure to build a first cloud data center region in Taiwan",
       "excerpt": "Its existing Taiwan Azure hardware systems and infrastructure ... in cloud software and hardware infrastructure for AI, IoT and edge products. Meanwhile, Microsoft’s training initiative in ...",
@@ -1438,59 +1481,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-microsoft-and-partners-aim-to-shrink-the-data-desert-limiting-accessible-ai.md",
-      "title": "Microsoft and partners aim to shrink the ‘data desert’ limiting accessible AI",
-      "excerpt": "One with City University of London is the expansion and eventual public release of the Object Recognition for Blind Image Training project, which is assembling a data set for everyday for ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/12/microsoft-and-partners-aim-to-shrink-the-data-desert-limiting-accessible-ai/",
-      "originalUrl": "https://techcrunch.com/2020/10/12/microsoft-and-partners-aim-to-shrink-the-data-desert-limiting-accessible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Steve-Gleason_2.jpg?w=1024",
-          "width": 1024,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/12/microsoft-and-partners-aim-to-shrink-the-data-desert-limiting-accessible-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/12/microsoft-and-partners-aim-to-shrink-the-data-desert-limiting-accessible-ai/amp/",
-      "publishedDateTime": "2020-10-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI",
         "Microsoft AI"
       ]

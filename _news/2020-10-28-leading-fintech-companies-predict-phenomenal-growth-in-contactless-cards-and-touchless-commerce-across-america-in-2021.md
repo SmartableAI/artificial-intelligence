@@ -34,6 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 11
+  - title: "E-Commerce, Fintech, and Cloud: CEOs of Alibaba, Peak Fintech, Logiq and eBay Discuss New Global Growth Opportunities"
+    excerpt: "https://bit.ly/3g3VUlw Peak Fintech Group (OTC:PKKFF ... We plan to modernize and simplify the experience to drive more purchase frequency by leveraging AI teams to remove friction throughout the buying journey…We’re building up our capabilities ..."
+    publishedDateTime: 2020-10-28T04:41:00Z
+    webUrl: "https://www.nasdaq.com/press-release/e-commerce-fintech-and-cloud%3A-ceos-of-alibaba-peak-fintech-logiq-and-ebay-discuss-new"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 11
 
 secured: "tT4JJfxWbcd89HuZFyDDEFKlvy/qn6u7aCAWklDJRwjPudLmrkwM6Fdq3sIfjmcvzMs7anqQwOikfLDXmBJUwTejN8P1tB3nmSaES/hJHAYMmiJibNUQsK6uu7reqWDhDEe8MjafPb8yhXA+LI1brfoqeP+Op+wBIjLvSlFeqZS+4NPvrNLH4SYe2aq/mXCW6Scx583RyfRkMFV/1VxqVQRdakAFymSCTydZW9JcVQzFdu/lKOG87/gRcOp/baN35jQ7/HUABhEWd6km8zx1ZuURQ7DmTzMcCdvBtjWde4/OH2+YygSsdhlmPSOM19tls1NZ2VsH9Tf0oAmYyDh1MmTUOPRnWnxAM4MV0TGyV7k=;8fx8td7HhH3iIsSY2tPRYg=="
 ---

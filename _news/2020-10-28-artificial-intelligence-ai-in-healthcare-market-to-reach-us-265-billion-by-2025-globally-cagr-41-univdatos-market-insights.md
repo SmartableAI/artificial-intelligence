@@ -40,14 +40,19 @@ related:
         height: 630
         isCached: true
   - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-    excerpt: "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ..."
-    publishedDateTime: 2020-10-27T15:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+    excerpt: "Artificial Intelligence (AI) is expected to contribute up to US$ 15.7 trillion to global GDP by 2030. AI applications, powered by an influx of big data and advancements in computing power, are positioned to transform major sectors, including healthcare."
+    publishedDateTime: 2020-10-27T15:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
+        width: 1279
+        height: 670
+        isCached: true
 
 secured: "ooNL/kwgQF4hXNW+GF7k+vaBcIHAQpbzSqJJD7Xn8KRgnUyDzlQ6q0lyzi+aILncqFqO+5/Tm4LtX3REK6cYu+snUkWa/UsdEU7OVqx6V3sRnKFaBGzZWRVzk0tmd50xcdkChO2zUtOxBbfCmqGOBKm0wNeF/kAriuE8tQPPhzmao5fkAOqF6EEpTW5ADGrhMAVkyrSlC6kjdISe+/RHclYtQd1rvTJkfC5ZO+pL4WrxXTnfbJrJ0z/toXl7sIIZ/SRH5GOSXQFdo/EWM+HGZjjpTxXD6SyxTX/VsEVHuZ8uE81BkbwdCyhCKfUzgMXllw2g+ZGT0gF41FOyaZabXKfKqOTIqOWyNS3hXCH7Mcw=;mAnoWnFiPuAvXaE3NDZJyw=="
 ---

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "AI-powered logo maker, Looka, launches an all-in-one Brand Kit to help entrepreneurs kick-start their business"
-excerpt: "CNW/ - Looka, an AI-powered design platform that has helped over 9.5 million entrepreneurs make a logo, has announced the release of the Brand Kit: an all-in-one branding solution. After designing a logo with Looka,"
-publishedDateTime: 2020-10-27T10:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-logo-maker-looka-launches-an-all-in-one-brand-kit-to-help-entrepreneurs-kick-start-their-business-1029725525"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-logo-maker-looka-launches-an-all-in-one-brand-kit-to-help-entrepreneurs-kick-start-their-business-1029725525"
+excerpt: "PRNewswire/ - Looka, an AI-powered design platform that has helped over 9.5 million entrepreneurs make a logo, has announced the release of the Brand Kit: an all-in-one branding solution. After designing a logo with Looka,"
+publishedDateTime: 2020-10-27T10:00:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-marketing-and-advertising-corporate-news-products-and-services-arts-and-entertainment-72d025740f3e09b77fa5bbc239abe6c2"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-marketing-and-advertising-corporate-news-products-and-services-arts-and-entertainment-72d025740f3e09b77fa5bbc239abe6c2"
 type: article
-quality: 27
-heat: 27
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "0lOHfYL/lsk7Ztcyi8schl/vNrHlZrA4K1fk50/A7MJ9oohJa4fU9iLqNuKPnP61JM2YPcwfkZxZDSFDPNkziu4qbRRzXUwD1a4+6+0D8Zc5UbttIRjlEibRNbJE4IuffpNewTFMbhuYM8uaX6fgeccxrzbZQ60CLG6xpHVvmw4FUmAxq9qDnUI1PXtIeV1JIfz260xJZ6cIhK/OI1oPcU9i1XDKNh6to7ipMjyLZfNUdx603p6OxS0TTx1F5n+FbJxr2Ain6+KTEjy7Ya4xpEfSpsdfyboeXbnwFcE2r5OuIRSFCoarOrUOaSionZxmFD6f7yNEv7HlA/RBM1FVqLnfdRHtrt6YRGNJ8rSoaAM=;zA5vgqXe7CsGNHS/rGssKg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "baJKagECZdPn8TL6f0TxttxShHFukagOCLcpIcaNmLSsx9Qff1WXnlh8Y33Q/3xTJQUkWFY2/1FQXaFxQ3GOhZRsNpiZRk0oTXHlMdr/vbEx68O8tE+P7+UyT9EsDYOOLZOC1Q0+UWat00wEYm4X3RCr1FsLsCVoyBPtoS6SeJooCeUNA/oECcoDnLWaLANLgSDWWzVJhlzK1D0m1NaAC18ZgbXi2kSH/RsnjE+DN6YsJQIUgKkO5pergL0624cJXtf0pnoTRnp7w/Yw6A3fUPF7ge79n7qM37cyl6y38Pa2RnJARzIshZ/lpB8avj/77WERPswjWkDESBOz+DB7xfDHQ3iDwrQbw/tzx9hD8F4=;XPoY/N5DzhX/ll/VX4qwPw=="
 ---
 

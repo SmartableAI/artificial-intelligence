@@ -26,18 +26,32 @@ images:
 
 related:
   - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
-    publishedDateTime: 2020-10-28T02:19:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/"
+    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
+    publishedDateTime: 2020-10-28T05:40:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
         width: 1678
         height: 1119
+        isCached: true
+  - title: "The Future of AI, Ethics, and Defense"
+    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
+    publishedDateTime: 2020-10-26T16:25:00Z
+    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
+    type: article
+    provider:
+      name: German Marshall Fund
+      domain: gmfus.org
+    quality: 54
+    images:
+      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
+        width: 1400
+        height: 600
         isCached: true
 
 secured: "vU7SoSOHqdursITPAABtrQsxr5J1/exMM7j6MSek02cbDiACMoIrSLildH+5VI4ztY2z+7vwstxUeP+95kYrFrm7aGhTlzOTWGY8jj6LTvmGXNJFxV7yoLQ3PZL30BASEJ1SYa1wHNVcYCqIP+QXMpNC1SFq/mNGJ1ZunnONA91PULTF+QMXhulVjdCttzvOV8PPfHWqIAY4aeTX0Ym9dsAzWs81sVsHG0XnXy1ztJaMFqIVpQHwDKs+Mp1+CmscTwb0ZUxe2ZZeu7/i4IDHqJnlBxJr6EKCBImpKmi3zgiD2H8PqEyj/NdklMOACvOnZooFf3u7sdT5Vls5TP8uR+3xgXuiFw3JjQtRVYj19rT37FUSXqs8i63S4cPlOUcxCqM0v87Nv5fCxPoFkXp4BqGwc0/qqd6bmu5vlyEbTyNvRXyLZzih2LZr0OpMxeNBM4o8hf6hKlSoPcss1SpbnjK1EUNDyMJIIuGAY0fRpy3FgH+Av/dzQ750UEgzOMDDPoncXV3COPTUTQ36S6tglA==;d02EROIO6E/Rk8rJk8I/hw=="

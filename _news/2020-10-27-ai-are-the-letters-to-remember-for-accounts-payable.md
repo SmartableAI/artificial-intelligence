@@ -7,7 +7,7 @@ originalUrl: "https://www.paymentssource.com/opinion/ai-are-the-letters-to-remem
 webUrl: "https://www.paymentssource.com/opinion/ai-are-the-letters-to-remember-for-accounts-payable"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,77 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "2021 is the time for AI to shine"
+    excerpt: "Companies and C-level leaders will tackle kinks in AI head on in 2021, not because they want to but because they have to."
+    publishedDateTime: 2020-10-26T14:53:00Z
+    webUrl: "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Using AI to unlock the genetic secrets of food"
+    excerpt: "The startup Brightseed uses a proprietary AI platform called Forager to predict the likelihood that plants will have useful natural compounds and the likelihood that those phytonutrients will have specific health benefits."
+    publishedDateTime: 2020-10-24T14:37:00Z
+    webUrl: "https://www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
+    ampWebUrl: "https://www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: "https://images.axios.com/p5p8jckNc7jnHJDICmx3yWdEXIk=/fit-in/1366x1366/2020/10/24/1603549523713.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "5 Emerging AI And Machine Learning Trends To Watch In 2021"
+    excerpt: "Five emerging artificial intelligence (AI) and machine learning trends include the use of AI and ML in hyperautomation, cybersecurity and Internet of Things (IoT)."
+    publishedDateTime: 2020-10-23T20:35:00Z
+    webUrl: "https://www.crn.com/news/cloud/5-emerging-ai-and-machine-learning-trends-to-watch-in-2021"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 56
+    images:
+      - url: "https://www.crn.com/resources/0262-10ae6f85c9c0-ea4cc5ac5ea6-1000/ai-400.jpg"
+        width: 399
+        height: 399
+        isCached: true
+  - title: "Now is the time to raise your voice for peace"
+    excerpt: "Nothing that I can do will change the structure of the universe. But maybe, by raising my voice I can help the greatest of all causes — goodwill among men"
+    publishedDateTime: 2020-10-23T17:00:00Z
+    webUrl: "https://www.murfreesboropost.com/opinion/columns/now-is-the-time-to-raise-your-voice-for-peace/article_136d1558-1263-11eb-9b85-470710acfe04.html"
+    type: article
+    provider:
+      name: Murfreesboro Post
+      domain: murfreesboropost.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/murfreesboropost.com/content/tncms/assets/v3/editorial/f/f2/ff2e6078-625a-11ea-8e5d-1f4fbd82e799/5e66cce478060.image.jpg?crop=1118%2C687%2C37%2C61&resize=1025%2C630&order=crop%2Cresize"
+        width: 1025
+        height: 630
+        isCached: true
+  - title: "AI and the Legal Business Model: Why Time is Up for the Billable Hour"
+    excerpt: "If law firms fail to adequately respond to new imperatives, they not only risk losing an important opportunity to grow and scale but perhaps they even threaten their ability to survive at all in the quickly evolving legal landscape."
+    publishedDateTime: 2020-10-26T19:55:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/10/26/ai-and-the-legal-business-model-why-time-is-up-for-the-billable-hour/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2018/01/artificial-intelligence-Article-201801021655.jpg"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "uVUZPZgEl8H6QtnmjK0D8UV7X9W1wQpbu6lXnPixc3FQK8YN4T/7KmPrplm0G3P96L1rW20yS12zAHA/hwTBhVKFCm4pLfYKf92iCM5hsBTdX7hS4qTCqZzAG7OmhtM7+sNOg6y4Q3S+/UIeLOTIa3r9U/GqC5AP5pATvi1Lvseae9lpydpX17g1AabQFMYXxEnL9ufoXMujuB5tb2VnBuLEmEEadIwW7WmrW1CCAeBALmIF9o3vhBa4WmEGmxOZcpjA1PGtgABFYDGSi312INzrxZoAYK6TjyemK8bk8vzTIDoN/Chm023nzJQoe25wK/A0p1tpubMtRZn+jVOVe9VUux9/37IHVFHdGn0m5/k=;MX/3GnFxVBC2guEAl0PdRg=="
 ---

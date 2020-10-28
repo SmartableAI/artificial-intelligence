@@ -1,13 +1,13 @@
 ---
 category: news
 title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
-publishedDateTime: 2020-10-28T02:19:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/"
+excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
+publishedDateTime: 2020-10-28T05:40:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 91
 published: true
 
 provider:
@@ -15,8 +15,9 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
@@ -39,7 +40,21 @@ related:
         width: 878
         height: 500
         isCached: true
+  - title: "The Future of AI, Ethics, and Defense"
+    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
+    publishedDateTime: 2020-10-26T16:25:00Z
+    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
+    type: article
+    provider:
+      name: German Marshall Fund
+      domain: gmfus.org
+    quality: 54
+    images:
+      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
+        width: 1400
+        height: 600
+        isCached: true
 
-secured: "9gKKiRVsSs/AHvn9H1aBHLoB5WY1g+W9fQzQBOxBVoDGVTVVSHPDT0LWyRewsfNvVYNggwmITL6s+owQ/Hm5szllR/iapQmC8OOB0llIdO6q595QwRD71KgKhIRYR6zk/Wt2yjvoRCHnMztH7FSjg7cgdrLB25JffZ4XwD3EZi/FzmdvKtmfhWOIrMsP50w+o0gdZFhekcjfY565ic/1+8I2agiW1Q/N2usKTLCQiDgyVBxl2i6QynDQTBXum+SDSKu92iSugCSbbXWEjYjiDCT0noa6aPUJfoWLOclQnY5Br08uydFJZX2qRTz/2AiOpNu95wonIvcCpks125dzCHljRYcrfQWkzwGhs96T0dM=;ny4bnU6yw5rt4egu6H2F1g=="
+secured: "EcQqZM6mV9MnRQkyfn8ocxsLJ+MwOZgf+OeDdVoqmRvoFyoZ2VhEegI25bZFlcVPYEqoTMgAN/vZOCfoDSyigiHcZ8riJAuud+ND8NHLyaByX6FUBvWj6rmoYLDRV6A9wfIIVr8orB7aAZnAblmfRr85l2zn+BzFc5/mB5GtU3SGIC5JacbjBXWwySdPoaXkNNsJ4XgxHNGvCEl8aC0X4W3z8PK1tumIB3BdSq/RqY73hKHAz0NPM6T+WIzD7KkAGbr8gukBFJGj+fq7Vgp1pZjQZud5U2p7DbXPUGY3hkhcCn9m6iozRBEvXOWXzTpU5jkjbVviVUZwvJCy/tZP8l5rbWt3N7+t/rZ0wJM4+og=;OL9auMDIg/bAXjHiznKphw=="
 ---
 

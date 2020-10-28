@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "E-Commerce, Fintech, and Cloud: CEOs of Alibaba, Peak Fintech, Logiq and eBay Discuss New Global Growth Opportunities"
+    excerpt: "https://bit.ly/3g3VUlw Peak Fintech Group (OTC:PKKFF ... We plan to modernize and simplify the experience to drive more purchase frequency by leveraging AI teams to remove friction throughout the buying journey…We’re building up our capabilities ..."
+    publishedDateTime: 2020-10-28T04:41:00Z
+    webUrl: "https://www.nasdaq.com/press-release/e-commerce-fintech-and-cloud%3A-ceos-of-alibaba-peak-fintech-logiq-and-ebay-discuss-new"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 11
   - title: "Leading Fintech Companies Predict Phenomenal Growth in Contactless Cards and Touchless Commerce across America in 2021"
     excerpt: "The event will bring together eight pioneering companies whose combined reach spans across multiple countries and services millions of consumers. This dynamic group of leaders in the payments industry are disrupting the ecosystem through touchless commerce solutions and innovative technologies."
     publishedDateTime: 2020-10-27T17:00:00Z

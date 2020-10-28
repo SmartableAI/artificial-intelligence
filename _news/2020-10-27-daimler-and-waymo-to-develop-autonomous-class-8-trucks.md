@@ -180,6 +180,22 @@ related:
         width: 797
         height: 534
         isCached: true
+  - title: "Waymo, Daimler to partner in developing self-driving semi trucks"
+    excerpt: "Click here to subscribe for free.) Daimler AG's commercial truck unit and Alphabet Inc's Waymo on Tuesday said they will collaborate on development of self-driving Class 8 semi trucks, applying Waymo's automated system to Daimler's Freightliner Cascadia."
+    publishedDateTime: 2020-10-28T05:38:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks/article32960695.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks/article32960695.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks/article32960695.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/7cr5j2/article32960581.ece/ALTERNATES/LANDSCAPE_615/Daimler"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Daimler starts self-driving truck partnership with Waymo"
     excerpt: "Someday, they may have a choice of self-driving systems. Daimler Trucks has embarked on a partnership with Waymo, the self-driving technology company spun from Google, in which the two companies ..."
     publishedDateTime: 2020-10-27T13:48:00Z

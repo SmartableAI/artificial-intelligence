@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2170443/advanced-technologies-of-ai-in-fi
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: openpr.com
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Startup Signzy Raises $5.4 Mn to Enhance AI Research"
-    excerpt: "The funding round was led by from Arkam Ventures and Mastercard along with participation from Kalaari Capital and Stellaris Venture Partners"
-    publishedDateTime: 2020-10-23T11:17:00Z
-    webUrl: "https://www.entrepreneur.com/article/358321"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/358321"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358321"
+  - title: "On The March: Ant Group, China's Fintech Sensation"
+    excerpt: "With a name belying its giant ambitions, China's Ant Group on Tuesday launched a history-making $34 billion IPO in Hong Kong and Shanghai. Backed by Jack Ma, China's richest man who founded the Alibaba e-commerce empire from his bedroom two decades ago,"
+    publishedDateTime: 2020-10-27T05:45:00Z
+    webUrl: "https://www.ibtimes.com/march-ant-group-chinas-fintech-sensation-3070506"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1603451820-SignzyFoundersPicedit.png?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/27/jack-ma-launched-ant-group-in-2004-with.jpg"
+        width: 1024
+        height: 680
         isCached: true
   - title: "UBS to invest $200 million in fintech startups"
     excerpt: "we widen our access to fintech start-ups.\" Dargan believes UBS Next will boost the bank's engagement with the startup ecosystem, and put it at the forefront of new technological breakthroughs in public cloud, microservices architecture, and AI Sabine ..."

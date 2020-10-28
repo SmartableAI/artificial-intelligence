@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-24T20:54:00Z
 originalUrl: "https://mobileidworld.com/biometric-cards-digital-id-and-machine-learning-this-weeks-top-mobile-id-stories/"
 webUrl: "https://mobileidworld.com/biometric-cards-digital-id-and-machine-learning-this-weeks-top-mobile-id-stories/"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mobileidworld.com/wp-content/uploads/iStock-910132252-2-e1529328362344.jpg"
