@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
+      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
+      "excerpt": "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
+          "width": 1678,
+          "height": 1119,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt.md",
       "title": "With Industrial Robots Easier Than Ever To Program, How Do Our Attitudes Toward Automation Adapt?",
       "excerpt": "Whether it's which tasks we can automate, the cost and time necessary for robot automation or how workers can contribute, the rise of easy-to-program robots forces us to rethink our assumptions and strategies for robotic automation.",
@@ -150,58 +193,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-28-build-and-operationalize-machine-learning-models.md",
-      "title": "Build and operationalize machine learning models",
-      "excerpt": "Seamless training, testing, scoring, and model management. Data science and machine learning (ML) have gained prominence in the enterprise digital transformation journey. ML automates decision-making and analytical reasoning capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/209938/build-and-operationalize-machine-learning-models",
-      "originalUrl": "https://www.infoworld.com/resources/209938/build-and-operationalize-machine-learning-models",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-artificial-intelligence-ai-in-healthcare-market-to-reach-us-265-billion-by-2025-globally-cagr-41-univdatos-market.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market",
       "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
@@ -210,7 +201,7 @@
       "originalUrl": "https://www.bloomberg.com/press-releases/2020-10-27/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -262,7 +253,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -358,6 +349,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-tesla-should-sell-its-self-driving-computer-chips-says-commaais-george-hotz.md",
+      "title": "Tesla should sell its self-driving computer chips, says comma.ai’s George Hotz",
+      "excerpt": "George Hotz, CEO of comma.ai, argues that Tesla should sell its self-driving computer chip and create some competition to Nvidia in the process. Hotz rose to fame through his hacking feats as a ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
+      "originalUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?quality=82&strip=all",
+          "width": 1587,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/",
+      "publishedDateTime": "2020-10-27T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster.md",
       "title": "How the IBM Data Science and AI Elite team trains organizations to tackle data science faster",
       "excerpt": "Today, the world looks different — from last year, last month, and even yesterday. The ever-changing status of our surroundings brings new problems, and having the right skills becomes critical to adapting and innovating in the face of these challenges. However, according to The Quant Crunch report,",
@@ -418,7 +461,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -469,7 +512,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -512,7 +555,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1161,7 +1204,7 @@
       "originalUrl": "https://theconversation.com/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1192,58 +1235,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-learning-a-second-language-business-benefits-and-how-to-start-a-program.md",
-      "title": "Learning A Second Language: Business Benefits And How To Start A Program",
-      "excerpt": "Language remains a key organizational building block, whether we are distributed all the way across the world or just next door.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9738fe97804ca61558e810%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/",
-      "publishedDateTime": "2020-10-27T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

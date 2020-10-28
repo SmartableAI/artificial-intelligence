@@ -2,45 +2,27 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2020-09-19-mit-researchers-combine-voice-and-object-recognition-in-new-model.md",
-      "title": "MIT researchers combine voice and object recognition in new model",
-      "excerpt": "Researchers at MIT have developed a new system that combines voice and object recognition capable of identifying an object within an image given only a spoken description of that image.",
+      "path": "_news/2020-09-24-mit-professor-wins-top-ai-award-for-cancer-drug-research.md",
+      "title": "MIT professor wins top AI award for cancer, drug research",
+      "excerpt": "It’s meant to elevate AI advancements to the level of a Nobel Prize or computer science’s Turing Award, while also highlighting AI research ... the encounter on Facebook, and it's gotten ...",
       "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/mit-researchers-combine-voice-and-object-recognition-in-new-model/",
-      "originalUrl": "https://sdtimes.com/ai/mit-researchers-combine-voice-and-object-recognition-in-new-model/",
+      "webUrl": "https://fox59.com/news/mit-professor-wins-top-ai-award-for-cancer-drug-research/",
+      "originalUrl": "https://fox59.com/news/mit-professor-wins-top-ai-award-for-cancer-drug-research/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/09/MIT-Audio-Images_0.jpg",
-          "width": 639,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T17:00:00-07:00",
+      "publishedDateTime": "2020-09-23T14:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,24 +31,24 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-09-19-vision-processing-unit-market-roadmap-for-recovery-from-covid-19growing-adoption-of-deep-learning-and-ai-to-boost-the-market-growth-technavio.md",
-      "title": "Vision Processing Unit Market- Roadmap for Recovery from COVID-19|Growing Adoption of Deep Learning and AI to boost the Market Growth | Technavio",
-      "excerpt": "Technavio has announced its latest market research report titled 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the vision processing unit market and it is poised to grow by USD 892.",
+      "path": "_news/2020-09-24-mouser-electronics-new-intelligent-revolution-series-explores-cutting-edge-applications-in-artificial-intelligence.md",
+      "title": "Mouser Electronics’ New Intelligent Revolution Series Explores Cutting-Edge Applications in Artificial Intelligence",
+      "excerpt": "Mouser Electronics announces The Intelligent Revolution, a captivating new series in Mouser’s award-winning Empowering Innovation Together program.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200918005312/en/Vision-Processing-Unit-Market--Roadmap-for-Recovery-from-COVID-19Growing-Adoption-of-Deep-Learning-and-AI-to-boost-the-Market-Growth-Technavio",
-      "originalUrl": "https://www.businesswire.com/news/home/20200918005312/en/Vision-Processing-Unit-Market--Roadmap-for-Recovery-from-COVID-19Growing-Adoption-of-Deep-Learning-and-AI-to-boost-the-Market-Growth-Technavio",
+      "webUrl": "https://www.businesswire.com/news/home/20200923005723/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20200923005723/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20200918005312/en/822702/23/IRTNTR43075.jpg",
+          "url": "https://mms.businesswire.com/media/20200923005723/en/824095/23/PRINT_EIT_IntelligentRevolution_eBook1.jpg",
           "width": 1200,
           "height": 627,
           "title": null,
@@ -78,7 +60,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T16:15:00-07:00",
+      "publishedDateTime": "2020-09-23T13:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -92,386 +74,26 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped.md",
-      "title": "People’s notions about AI are terrible, an MIT study asks whether they can be helped",
-      "excerpt": "Mistaken notions of AI agency could be helped by hands-on learning, argues MIT scholar Ziv Epstein.  One of the most striking PR moments of the AI age was the sale by Christie's auction house in October,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "originalUrl": "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/09/18/546f7a0b-e18b-497b-a4eb-b54889807168/epstein-2020-two-versions-of-a-story.png",
-          "width": 1516,
-          "height": 1714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "publishedDateTime": "2020-09-18T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-all-the-smart-home-products-you-need.md",
-      "title": "All the Smart Home Products You Need",
-      "excerpt": "Time to upgrade your home. By The New York Times Hello! You’re probably here looking for all of the smart-home devices you read about in Monday’s edition of The Times. We’ve got you covered!",
-      "sourceUrl": null,
-      "webUrl": "http://yann.lecun.com/",
-      "originalUrl": "https://www.nytimes.com/2020/09/18/smarter-living/all-the-smart-home-products-you-need.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://yann.lecun.com/ex/images/lagr-stereo.png",
-          "width": 320,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed.md",
-      "title": "How do we know AI is ready to be in the wild? Maybe a critic is needed",
-      "excerpt": "Can the paradigm of adversarial AI make algorithms safer to send out into the world? Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "originalUrl": "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/18/357e38bc-229d-41eb-b4dd-97f4f31e32f0/sergey-levine-headshot.jpg",
-          "width": 4324,
-          "height": 3684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "publishedDateTime": "2020-09-18T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-a-beginners-guide-to-the-ai-apocalypse-killer-robots.md",
-      "title": "A beginner’s guide to the AI apocalypse: Killer robots",
-      "excerpt": "Welcome to the fifth article in TNW’s guide to the AI apocalypse. In this series we examine some of the most popular doomsday scenarios prognosticated by modern AI experts. Previous articles in this series include: Misaligned Objectives,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/robots_wall-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/amp/",
-      "publishedDateTime": "2020-09-18T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them.md",
-      "title": "AI Weekly: Cutting-edge language models can produce convincing misinformation if we don’t stop them",
-      "excerpt": "Cutting-edge language generation models like GPT-3 are capable of producing convincing falsehoods if not properly curtailed, a new study shows.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/",
-      "originalUrl": "https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/amp/",
-      "publishedDateTime": "2020-09-18T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-baidu-reveals-4-new-artificial-intelligence-technologies.md",
-      "title": "Baidu Reveals 4 New Artificial Intelligence Technologies",
-      "excerpt": "Baidu (NASDAQ:BIDU) recently hosted its annual Baidu World Conference in Beijing to showcase its latest technologies. The theme of this year's conference was the \"Intelligence of Everything,\" with a heavy emphasis on artificial intelligence (AI) technologies in cars,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F592025%2F1.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
-      "publishedDateTime": "2020-09-18T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026.md",
-      "title": "Artificial Intelligence Market Growth Prospects, Key Vendors, Future Scenario Forecast to 2026",
-      "excerpt": "Market Study Report, LLC's latest research report on 'Artificial Intelligence Market' delivers a comprehensive",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026-2020-09-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026-2020-09-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-09-19-this-300-ai-powered-toothbrush-left-me-with-that-post-dentist-just-got-robbed-kind-of-feeling.md",
-      "title": "This $300 AI-Powered Toothbrush Left Me With That Post-Dentist, Just-Got-Robbed Kind of Feeling",
-      "excerpt": "When I purchased my first electric toothbrush about a year and a half ago, a Quip, it felt like an outrageous indulgence. Fifty-five dollars seemed far too steep for something so silly, but I wanted to make a long-term investment in healthy teeth,",
+      "path": "_news/2020-09-24-robot-beats-humans-at-curling-thanks-to-deep-learning-program.md",
+      "title": "Robot beats humans at curling thanks to deep learning program",
+      "excerpt": "Thanks to a new deep learning program, a curling robot, appropriately named Curly, was able to win three out of four matches against curlers from South Korea's national teams.",
       "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139",
-      "originalUrl": "https://gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139",
+      "webUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "originalUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zo1zr178zh9y6rokclmx.jpg",
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5991600873549/2020/1/16008835508632/v1.5/Robot-beats-humans-at-curling-thanks-to-deep-learning-program.jpg",
           "width": 800,
-          "height": 450,
+          "height": 532,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -479,735 +101,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139/amp",
-      "publishedDateTime": "2020-09-18T10:36:00-07:00",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "publishedDateTime": "2020-09-23T11:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters.md",
-      "title": "The AI landscape is shifting from ‘data’ to ‘knowledge.’ Here’s why that matters",
-      "excerpt": "The Artificial Intelligence (AI) revolution was ignited more than half a century ago. In the last decade, AI has grown from an academic scientific field to start being a practical part of our everyday lives.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/05/shutterstock_255260497-796x529.jpg",
-          "width": 796,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/amp/",
-      "publishedDateTime": "2020-09-18T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-conversational-ai-startup-genietalk-bags-angel-investment-of-750k-at-10-mn-valuation.md",
-      "title": "Conversational AI Startup GenieTalk Bags Angel Investment of $750k At $10 Mn Valuation",
-      "excerpt": "The company will deploy the fresh funds for developing phase one of its SaaS-based platform that helps businesses build tailored and personalized AI-powered virtual assistants, referred to as chatbots",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/356409",
-      "originalUrl": "https://www.entrepreneur.com/article/356409",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600454548-Genieteamedit.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356409",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356409",
-      "publishedDateTime": "2020-09-18T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-computer-scientists-work-to-fix-easily-fooled-ai.md",
-      "title": "Computer Scientists Work To Fix Easily Fooled AI",
-      "excerpt": "DINA TEMPLE-RASTON, BYLINE: Artificial intelligence is all about showing ... TEMPLE-RASTON: It works so well that people who are developing driverless cars tapped the brakes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2019/09/18/762046356/u-s-military-researchers-work-to-fix-easily-fooled-ai",
-      "originalUrl": "https://www.npr.org/2019/09/18/762046356/u-s-military-researchers-work-to-fix-easily-fooled-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-radiation-therapy-market-key-players-industry-size-trend-share-and-global-growth-opportunities-forecast-to-2025.md",
-      "title": "Radiation Therapy Market Key Players Industry Size, Trend, Share and Global Growth Opportunities Forecast to 2025",
-      "excerpt": "Radiation Therapy Industry Description Wiseguyreports.Com Adds \"Radiation Therapy -Market Demand, Growth, Opportunities",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/radiation-therapy-market-key-players-industry-size-trend-share-and-global-growth-opportunities-forecast-to-2025-2020-09-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/radiation-therapy-market-key-players-industry-size-trend-share-and-global-growth-opportunities-forecast-to-2025-2020-09-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-marqvision-detects-counterfeit-products-with-deep-learning-and-ai.md",
-      "title": "MarqVision detects counterfeit products with deep learning and AI",
-      "excerpt": "MarqVision, the AI -based SaaS company founded by computer scientists and intellectual property (IP) law experts from Harvard University and MIT, recently launched its brand-protection platform to help brands combat counterfeit products online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/intellectual-property/357164/marqvision-detects-counterfeit-products-with-deep",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/intellectual-property/357164/marqvision-detects-counterfeit-products-with-deep",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1600443362/itpro/Marq_Vision_Inc_2.jpg",
-          "width": 1404,
-          "height": 920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-new-roles-for-clinicians-in-the-age-of-artificial-intelligence.md",
-      "title": "New roles for clinicians in the age of artificial intelligence",
-      "excerpt": "Applications of artificial intelligence in medicine (AIM) include diagnosis generation, therapy selection, healthcare management and disease stratification. AIM focuses on assisting clinicians in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-09/cl-nrf091820.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-09/cl-nrf091820.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling.md",
-      "title": "This Raspberry Pi-powered AI helps robots to sort through your recycling",
-      "excerpt": "A team of engineers built an AI system based on a Raspberry Pi to automate recycling. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "originalUrl": "https://www.zdnet.com/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "publishedDateTime": "2020-09-18T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026.md",
-      "title": "Artificial intelligence (AI) Chips Market by Production, Share, Size, Import, Export and Consumption Forecast and Top Manufacturers by 2026",
-      "excerpt": "Global “Artificial intelligence (AI) Chips Market” report includes overview of industry characteristics, manufacturing technology, industry chain analysis and latest market trends and dynamics. The Artificial intelligence (AI) Chips Market report also explores future trends for supply,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026-2020-09-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026-2020-09-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-pluralsight-named-one-of-the-best-workplaces-for-women-by-great-place-to-work-and-fortune.md",
-      "title": "Pluralsight Named One of the Best Workplaces for Women by Great Place to Work® and Fortune",
-      "excerpt": "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pluralsight-named-one-of-the-best-workplaces-for-women-by-great-place-to-work-and-fortune-1029602775",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pluralsight-named-one-of-the-best-workplaces-for-women-by-great-place-to-work-and-fortune-1029602775",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions.md",
-      "title": "Artificial Intelligence Technology Solutions Announces New Subsidiary Focused on Mobile Robotic Solutions",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce that it has created a new, wholly-owned subsidiary,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722",
-      "publishedDateTime": "2020-09-18T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-realnetworks-strengthens-safrs-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision.md",
-      "title": "RealNetworks Strengthens SAFR's Leadership Team with Appointment of Brad Donaldson as Vice President, Computer Vision",
-      "excerpt": "PRNewswire/ -- RealNetworks, Inc. (Nasdaq: RNWK) today announced the appointment of Brad Donaldson as Vice President, Computer Vision to lead the",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/realnetworks-strengthens-safrs-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision-301133673.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/realnetworks-strengthens-safrs-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision-301133673.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1276673/Brad_Blue.jpg?p=facebook",
-          "width": 1800,
-          "height": 942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028.md",
-      "title": "Artificial Intelligence Chip Market 2020: Industry Trends,Growth, Trends, and Forecast 2028",
-      "excerpt": "The total information and communication technology goods (including computers, peripheral devices, communication",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care.md",
-      "title": "Conversational AI: A Boon For Business, But Choosing The Best Fit Requires Care",
-      "excerpt": "An increasing number of businesses are trialing cognitive artificial intelligence, but that doesn't mean they should jump on board the AI bandwagon with reckless abandon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f63a3454d741880d2c57eaf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/amp/",
-      "publishedDateTime": "2020-09-18T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-using-natural-language-processing-to-improve-customer-satisfaction.md",
-      "title": "Using Natural Language Processing To Improve Customer Satisfaction",
-      "excerpt": "Customers, like everyone else, have short memories in their busy lives. The most recent issue — the one that prompted the customer care call — vividly colors their experience and their impression of the service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f63a2aab1d25898b2a67b21%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/amp/",
-      "publishedDateTime": "2020-09-18T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace.md",
-      "title": "Mphasis is a leading Machine Learning (ML) solutions partner in AWS Marketplace",
-      "excerpt": "PRNewswire/ -- Mphasis (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace-301133749.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace-301133749.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/690233/Mphasis_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "UPI.com",
+        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1219,9 +119,52 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AWS AI"
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-south-korea-tech-giants-expanding-robotics-amid-covid-19.md",
+      "title": "South Korea tech giants expanding robotics amid COVID-19",
+      "excerpt": "South Korea's biggest tech companies are investing in robotics as a solution to the risks of human contact amid the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3121600883704/2020/1/f4b46952582fb33f29de4effbf354249/v1.5/South-Korea-tech-giants-expanding-robotics-amid-COVID-19.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "publishedDateTime": "2020-09-23T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],
-  "nextPage": 40
+  "nextPage": null
 }

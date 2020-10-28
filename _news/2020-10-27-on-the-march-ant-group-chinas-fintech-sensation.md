@@ -24,17 +24,6 @@ images:
     height: 680
     isCached: true
 
-related:
-  - title: "Mark Ellis joins MAP FinTech to lead business expansion and development"
-    excerpt: "Ellis will also lead the regulatory reporting support team under the regulatory consultants, Complyport Limited – MAP FinTech’s strategic regulatory complia"
-    publishedDateTime: 2020-10-23T09:47:00Z
-    webUrl: "https://www.leaprate.com/forex/executives/mark-ellis-joins-map-fintech-to-lead-business-expansion-and-development/"
-    type: article
-    provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 4
-
 secured: "AhZXYkaNPy29wyT9lri117LdoJd26boO2cHe0uYiz/A/1t0B51MiTKoKQVc3Cyuj7evWy5+7g05CD+Sw5++I2MKMYjXMkjV4uN3MQqqByM1PD6x/JYFB3i2ax5xsr9BxLqL/LXoGjsxARs5+zX8JBevyN4jhgpRvj7EqCt5LLsPxp7hZOjMd2SiN3b/L7Kx2gG4kK23YoNHN7gBwfk2CSNnCH5j4Z5rteuXQWpAWLywkQ1YD+gIbEIUQsBmQZU6LCW2yRo8vlrHPacfvizBDPKRZthBOavl4Q2R1hIRSG/lCoaNrpXNkSlMVYBONNtJg86r/Y9NisTtOHhc/5EyEDuDCKBM4/yqcY1o3WVMbnEYLax4pUd4JDderKhfeTLNu3UZOantYBc7PaY+iVgvVj56opDKdW/dHetqDeg/keEAZebjcviZgVEpO/BUYCqb0+pmSUTJY63LiyHmqprl5VXxdV8FDg0VN5HGaKDG2AT4WJVftPzosYa3TaLIHRYx1XNQF2kqIVYjDKrpI49fABw==;lsoQ+oyRGrzJ37v1TVfg9A=="
 ---
 

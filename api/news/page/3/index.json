@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-26-dont-fear-ai-it-will-lead-to-long-term-job-growth.md",
+      "title": "Don't Fear AI. It Will Lead To Long-Term Job Growth.",
+      "excerpt": "COVID-19 has sped up the automation of many tasks, leading some to fear algorithms will take their jobs. But AI is creating more jobs than it destroys.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/",
+      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8fea71775ffb7b81005705%2F0x0.jpg",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/amp/",
+      "publishedDateTime": "2020-10-26T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-how-the-rainbow-ai-chatbot-is-tackling-domestic-abuse.md",
+      "title": "How the rAInbow AI chatbot is tackling domestic abuse",
+      "excerpt": "But now a chatbot called rAInbow aimed at South African users is trying to turn this tide. It invites users to take part in quizzes and stories in order to help them better understand what is and is not abuse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/technology-54569878",
+      "originalUrl": "https://www.bbc.com/news/av/technology-54569878",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p08wf5c1.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T23:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-30000-grant-to-support-uhv-math-robotics-programs.md",
       "title": "$30,000 grant to support UHV math, robotics programs",
       "excerpt": "A $30,000 grant from Alcoa Foundation will allow the University of Houston-Victoria to continue to host public events focused on math, computer science and robotics for middle and high school",
@@ -43,58 +145,6 @@
         "AI in Robotics",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-ford-mustang-mach-e-electric-car-sees-first-firm-dates-tesla-model-y-rival-revs-up-production.md",
-      "title": "Ford Mustang Mach-E Electric Car Sees First Firm Dates: Tesla Model Y Rival Revs Up Production",
-      "excerpt": "E electric are seeing hard production dates. Several people who placed orders for the Ford Electric crossover are receiving notifications of production dates of December 7, 2020, according to posts on the Mustang Mach E Reddit forum and the Mach E Club.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/",
-      "originalUrl": "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f93de099eb2528efb937002%2F0x0.jpg%3FcropX1%3D193%26cropX2%3D1526%26cropY1%3D0%26cropY2%3D750",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/amp/",
-      "publishedDateTime": "2020-10-25T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -158,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -838,6 +888,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-24-watch-early-testers-try-teslas-full-self-driving-mode-for-the-first-time.md",
+      "title": "Watch early testers try Tesla's Full Self-Driving mode for the first time",
+      "excerpt": "On Friday, we finally got a glimpse at a long-awaited feature that Elon Musk rolled out this week for a select group of Tesla owners: Full Self-Driving mode. Only a small group of Tesla-chosen ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives/",
+      "originalUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 288,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F10%252F23%252Fd2%252F48c38dd430d84e6bb64dc47643ea67e7.6a961.jpg%252F1200x630.jpg?signature=Wzt3HAjZm8sE5SgscR16FQXo_fQ=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-early-test-drives.amp",
+      "publishedDateTime": "2020-10-23T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-arcanum-makes-hungarian-heritage-accessible-with-amazon-rekognition.md",
       "title": "Arcanum makes Hungarian heritage accessible with Amazon Rekognition",
       "excerpt": "Arcanum specializes in digitizing Hungarian language content, including newspapers, books, maps, and art. With over 30 years of experience, Arcanum serves more than 30,000 global subscribers with access to Hungarian culture, history, and heritage. Amazon Rekognition Solutions Architects worked with Arcanum",
@@ -1137,109 +1230,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-ai-and-machine-learning-powering-the-next-gen-enterprise.md",
-      "title": "AI and machine learning: Powering the next-gen enterprise",
-      "excerpt": "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bbhub.io/professional/sites/10/347789615.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft.md",
-      "title": "IBM AI model predicts onset of Alzheimer’s disease by analyzing descriptions of a cookie theft",
-      "excerpt": "The model predicted the onset of Alzheimer's more accurately than standard clinical methods by searching for symptoms in written descriptions of the image.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-23T134432.743-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/",
-      "publishedDateTime": "2020-10-23T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

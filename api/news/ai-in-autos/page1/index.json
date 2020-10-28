@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-tesla-should-sell-its-self-driving-computer-chips-says-commaais-george-hotz.md",
+      "title": "Tesla should sell its self-driving computer chips, says comma.ai’s George Hotz",
+      "excerpt": "George Hotz, CEO of comma.ai, argues that Tesla should sell its self-driving computer chip and create some competition to Nvidia in the process. Hotz rose to fame through his hacking feats as a ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
+      "originalUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?quality=82&strip=all",
+          "width": 1587,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/",
+      "publishedDateTime": "2020-10-27T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-waymo-rolls-out-driverless-taxis-in-phoenix.md",
       "title": "Waymo Rolls Out Driverless Taxis in Phoenix",
       "excerpt": "The company recently announced that its driverless taxi service is now available to ... When it comes to vehicle safety, AV companies are out to show that artificial intelligence (AI) is better than authentic ineptitude. Waymo’s AI “Driver” has ...",
@@ -253,58 +305,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-ford-mustang-mach-e-electric-car-sees-first-firm-dates-tesla-model-y-rival-revs-up-production.md",
-      "title": "Ford Mustang Mach-E Electric Car Sees First Firm Dates: Tesla Model Y Rival Revs Up Production",
-      "excerpt": "E electric are seeing hard production dates. Several people who placed orders for the Ford Electric crossover are receiving notifications of production dates of December 7, 2020, according to posts on the Mustang Mach E Reddit forum and the Mach E Club.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/",
-      "originalUrl": "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f93de099eb2528efb937002%2F0x0.jpg%3FcropX1%3D193%26cropX2%3D1526%26cropY1%3D0%26cropY2%3D750",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/amp/",
-      "publishedDateTime": "2020-10-25T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-25-trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules.md",
       "title": "Trying To Prevent Narco Self-Driving Cars That Act As Drug Mules",
       "excerpt": "A recent news story described a narco mini-submarine that was scuttled in shallow waters after three men operating the vessel opted to evacuate and escape as authorities were closing in on them. Reportedly containing an estimated $100 million in cocaine ...",
@@ -313,7 +313,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -448,6 +448,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-watch-early-testers-try-teslas-full-self-driving-mode-for-the-first-time.md",
+      "title": "Watch early testers try Tesla's Full Self-Driving mode for the first time",
+      "excerpt": "On Friday, we finally got a glimpse at a long-awaited feature that Elon Musk rolled out this week for a select group of Tesla owners: Full Self-Driving mode. Only a small group of Tesla-chosen ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives/",
+      "originalUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 288,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F10%252F23%252Fd2%252F48c38dd430d84e6bb64dc47643ea67e7.6a961.jpg%252F1200x630.jpg?signature=Wzt3HAjZm8sE5SgscR16FQXo_fQ=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-early-test-drives.amp",
+      "publishedDateTime": "2020-10-23T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1420,58 +1463,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-how-can-artificial-intelligence-help-in-the-fight-to-remain-secure.md",
-      "title": "How can artificial intelligence help in the fight to remain secure?",
-      "excerpt": "Artificial intelligence (AI) has gone from being science fiction to an increasingly common part of our lives. TV streaming services use AI and machine learning (ML) to make recommendations of what you might like to watch next,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357448/how-can-artificial-intelligence-help-in-the-fight-to",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357448/how-can-artificial-intelligence-help-in-the-fight-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570815737/itpro/2018/01/shutterstock_ai_artificial_intelligence_security.png",
-          "width": 800,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

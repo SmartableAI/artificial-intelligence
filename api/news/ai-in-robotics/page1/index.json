@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
+      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
+      "excerpt": "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
+          "width": 1678,
+          "height": 1119,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt.md",
       "title": "With Industrial Robots Easier Than Ever To Program, How Do Our Attitudes Toward Automation Adapt?",
       "excerpt": "Whether it's which tasks we can automate, the cost and time necessary for robot automation or how workers can contribute, the rise of easy-to-program robots forces us to rethink our assumptions and strategies for robotic automation.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -157,7 +200,7 @@
       "originalUrl": "https://theconversation.com/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -284,6 +327,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-artificial-intelligence-market-worth-19061-billion-by-2025-with-a-growing-cagr-of-366.md",
+      "title": "Artificial Intelligence Market worth $190.61 billion by 2025 with a Growing CAGR of 36.6%",
+      "excerpt": "Artificial Intelligence Market” [222 Pages] Artificial Intelligence Market report categorizes the Global market by Offering (Hardware, Software), Technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/ab18064657/artificial-intelligence-market-worth-190-61-billion-by-2025-with-a-growing-cagr-of-36-6",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/ab18064657/artificial-intelligence-market-worth-190-61-billion-by-2025-with-a-growing-cagr-of-36-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg",
+          "width": 650,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18064657",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18064657",
+      "publishedDateTime": "2020-10-26T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1295,83 +1382,6 @@
       "provider": {
         "name": "southcoasttoday.com",
         "domain": "southcoasttoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-914-in-september.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Down 91.4% in September",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant drop in short interest during the month of September. As of September 30th, there was short interest totalling 3,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html",
-      "originalUrl": "https://theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html/amp",
-      "publishedDateTime": "2020-10-15T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-cascadia-capital-bets-big-on-ai-robotics-and-automation.md",
-      "title": "Cascadia Capital bets big on AI, robotics and automation",
-      "excerpt": "Cascadia Capital is betting big on AI, robotics and automation. “We think it’s where the world is going,” the CEO says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/seattle/news/2020/10/15/cascadia-capital-bets-on-ai-robotics.html",
-      "originalUrl": "https://www.bizjournals.com/seattle/news/2020/10/15/cascadia-capital-bets-on-ai-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/seattle/news/2020/10/15/cascadia-capital-bets-on-ai-robotics.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/10/15/cascadia-capital-bets-on-ai-robotics.amp.html",
-      "publishedDateTime": "2020-10-15T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
         "images": null,
         "publishers": null,
         "authors": null

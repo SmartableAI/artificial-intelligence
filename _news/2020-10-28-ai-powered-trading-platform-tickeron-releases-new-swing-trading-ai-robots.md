@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-trading
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
         width: 300
         height: 250
-        isCached: true
-  - title: "Services Infusing AI into Air, Land, Sea Robots"
-    excerpt: "We believe that we have adversaries who are rapidly building up their forces … and are definitely applying AI to their operations,” said Nand Mulchandani, chief technology officer at the Pentagon’s Joint Artificial Intelligence Center."
-    publishedDateTime: 2020-10-26T12:06:00Z
-    webUrl: "https://www.nationaldefensemagazine.org/articles/2020/10/26/services-infusing-ai-into-air-land-sea-robots"
-    type: article
-    provider:
-      name: National Defense Magazine
-      domain: nationaldefensemagazine.org
-    quality: 54
-    images:
-      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/10/4944270.ashx?h=500&w=878&la=en&hash=BD039AF4149872CB15744860B33582D4DF93FD68"
-        width: 878
-        height: 500
         isCached: true
   - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
     excerpt: "SUNNYVALE, Calif., Oct. 27, 2020 /PRNewswire/ -- Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."

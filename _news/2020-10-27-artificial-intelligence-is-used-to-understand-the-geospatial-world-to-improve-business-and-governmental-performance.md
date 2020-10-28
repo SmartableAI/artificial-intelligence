@@ -62,6 +62,20 @@ related:
         width: 1300
         height: 500
         isCached: true
+  - title: "The Zynga Analytics Platform in 2020"
+    excerpt: "Zynga analytics is a team of over 70 analysts, data scientists, and engineers distributed across 6 counties supporting development and live operations for dozens of mobile games. While our studios leverage a variety of technologies for storing and processing tracking events from our games,"
+    publishedDateTime: 2020-10-26T14:17:00Z
+    webUrl: "https://gamasutra.com/blogs/BenWeber/20201026/372498/The_Zynga_Analytics_Platform_in2020.php"
+    type: article
+    provider:
+      name: Gamasutra
+      domain: gamasutra.com
+    quality: 24
+    images:
+      - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1028926.png"
+        width: 1100
+        height: 1197
+        isCached: true
 
 secured: "ZRGW18GMc3+VOIG4BgoMEb3apyOLVs8NZCy+o8HpjGVpjm5OYkJfVpFUqeQxlfrrDU9VeXjOSSRCoZK6mkimDE9t3/GMUJa1vkfGOubGkduVLfNDnbCVuo1R87lEpkgLO7Sd3zDcGYlXy2fFMSo86WMdIGGUUklpsufUKAXFPb9P34znyo41qrQnsAY0LNzo8ZQbegT1I6UyUQAAThE4mNrABt68jWGCet2Kgc8XZ73qOmTDZM3vI8Fl4jfxA/OSYJL/z8amAA8YSBPe0f8K3KNMDD92g+uuK1bIyQ/emMTg3NQjmgVqyy/x1JkWNZDvFNiX79niWQlfLa5DrXU7VKA2sI+8zNEIzxHjKZkQD7TdkVaa6ui+6tY24EbEKI3h7XcLzy0SjJdVKwJAA954JP+dX2s0k+wVazcHFS14RTlBJOBmANZd+25hIPjsH+ILJpDjxLIYXhdAF4bGwU+/vxwb0q0NXrp+hn/RNL6QloWG3gw/nofZBLmOy8g2yoEPiOWNj4guHrttECpCUXgWWQ==;12KTd4PziJ8s4LGjh2WKoQ=="
 ---

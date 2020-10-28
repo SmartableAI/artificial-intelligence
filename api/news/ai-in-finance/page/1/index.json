@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-26-commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning.md",
+      "title": "Commentary: How Japan’s ABEJA helps large companies operationalize AI, machine learning",
+      "excerpt": "ABEJA has developed proprietary tools to ensure that its AI Consulting engagements do not metastasize into endless ordeals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning",
+      "originalUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/10/Aoaeh_commentary_102120_1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning/amp",
+      "publishedDateTime": "2020-10-26T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-fintech-startup-signzy-raises-54-mn-to-enhance-ai-research.md",
       "title": "Fintech Startup Signzy Raises $5.4 Mn to Enhance AI Research",
       "excerpt": "The funding round was led by from Arkam Ventures and Mastercard along with participation from Kalaari Capital and Stellaris Venture Partners",
@@ -333,19 +377,63 @@
     {
       "path": "_news/2020-10-15-futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities.md",
       "title": "Futurism Reinforces Its Next-Gen Business Commerce Platform With Advanced Machine Learning and Artificial Intelligence Capabilities",
-      "excerpt": "Futurism Technologies, a leading provider of digital transformation solutions, is bringing to life its Futurism Dimensions business",
+      "excerpt": "Futurism Technologies, a leading provider of digital transformation solutions, is bringing to life its Futurism Dimensions business commerce suite with additional artificial intelligence and machine learning capabilities.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-301152696.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-301152696.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-1029681593",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-1029681593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-machine-learning-customer-stories-ebook.md",
+      "title": "Machine Learning Customer Stories eBook",
+      "excerpt": "Machine learning (ML) is creating better business results across nearly every industry—including financial services. While risk management use cases abound, financial institutions of all sizes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/209355/machine-learning-customer-stories-ebook",
+      "originalUrl": "https://www.computerworld.com/resources/209355/machine-learning-customer-stories-ebook",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1312995/Futurism_Logo.jpg?p=facebook",
-          "width": 2148,
-          "height": 1126,
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -355,11 +443,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T15:34:00-07:00",
+      "publishedDateTime": "2020-10-13T16:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Computerworld",
+        "domain": "computerworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1269,110 +1357,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-giant-tech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair.md",
-      "title": "Giant Tech Firms Could Pose Dangers To Financial System, Warns House Fintech Task Force Chair",
-      "excerpt": "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see too-big-to-fail fintechs in the future in a big,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
-      "originalUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f737b36e2e867ffa50a6877%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3071",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/",
-      "publishedDateTime": "2020-09-29T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair.md",
-      "title": "Giant Fech Firms Could Pose Dangers To Financial System Warns House Fintech Task Force Chair",
-      "excerpt": "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see to-big-to-fail fintechs in the future in a big,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
-      "originalUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f737b36e2e867ffa50a6877%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3071",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/",
-      "publishedDateTime": "2020-09-29T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

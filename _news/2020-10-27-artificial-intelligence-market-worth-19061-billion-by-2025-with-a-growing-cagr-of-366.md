@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18064657"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18064657"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Benzinga.com
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Market Witness the Growth of $8.81 Billion by 2022"
+    excerpt: "According to a research report Machine Learning Market by Vertical BFSI Healthcare and Life Sciences Retail Telecommunication Government and Defense Manufacturing Energy and Utilities Deployment Mode Service Organization Size and Region Global Forecast to 2022 The machine learning market size"
+    publishedDateTime: 2020-10-26T13:13:00Z
+    webUrl: "https://www.openpr.com/news/2171781/machine-learning-market-witness-the-growth-of-8-81-billion"
+    ampWebUrl: "https://www.openpr.com/amp/2171781/machine-learning-market-witness-the-growth-of-8-81-billion"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2171781/machine-learning-market-witness-the-growth-of-8-81-billion"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
   - title: "Ground Defense System Market Size Worth USD 68.28 Billion By 2027 | CAGR of 4.8%: Emergen Research"
     excerpt: "The increasing emphasis on battlefield technology upgrade and extensive rise in investment in defense & foreign intelligence are major factors influencing the market growth. - Market"
     publishedDateTime: 2020-10-26T16:04:00Z

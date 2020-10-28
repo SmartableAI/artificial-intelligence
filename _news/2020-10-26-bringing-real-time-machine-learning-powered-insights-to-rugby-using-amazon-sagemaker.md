@@ -86,6 +86,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
+    excerpt: "Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that dotData Stream now fully supports Amazon SageMaker integration, one of the ..."
+    publishedDateTime: 2020-10-28T03:46:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration/article_4616ca05-3b5f-56d4-99a8-5a95e850cbb4.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "I98MGewa+dalLIDSDX1cNUnCZF8w9X3jF6zR8FEMTkZob5cJTjTN4NULtGUq7erKhDBj8hbuD9fe7yNAims0BfdwDwwmfeWJqmchpQsLmzOWqVEkhGSVQPndORbJfzHvxFP2+uzFVQcrFO+UKYqF4RJEQ+Wm3H6nlfUI57hucKv+IQ0u90yUmvrbzOW2vj2hY3mm9qc245FO3kCHbnWXsDAbZCVk848HSJlBMTwVJJgjXSkUxWiMuMatruGsJz2t1QZ+NAUmZUTCQoSAdyQkj8sUScktcogYN9pCi6K0iYZf0uBhp2IwyIn1h945jhhW+vR+bbp8QW0I8P8C+L005/B6/3xoEJnE717g5QQg7I8=;mZzrrp0zUnCQtUZi3NsQ5Q=="
 ---

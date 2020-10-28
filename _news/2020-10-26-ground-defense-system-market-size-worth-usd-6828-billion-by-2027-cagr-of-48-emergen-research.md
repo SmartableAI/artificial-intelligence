@@ -35,6 +35,17 @@ related:
         width: 650
         height: 381
         isCached: true
+  - title: "Machine Learning Market Witness the Growth of $8.81 Billion by 2022"
+    excerpt: "According to a research report Machine Learning Market by Vertical BFSI Healthcare and Life Sciences Retail Telecommunication Government and Defense Manufacturing Energy and Utilities Deployment Mode Service Organization Size and Region Global Forecast to 2022 The machine learning market size"
+    publishedDateTime: 2020-10-26T13:13:00Z
+    webUrl: "https://www.openpr.com/news/2171781/machine-learning-market-witness-the-growth-of-8-81-billion"
+    ampWebUrl: "https://www.openpr.com/amp/2171781/machine-learning-market-witness-the-growth-of-8-81-billion"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2171781/machine-learning-market-witness-the-growth-of-8-81-billion"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
 
 secured: "PgrsHBAyOukP8O9xuS5HD30U2nBGBBup8bu7MimXmDl4P+5ihgZb9vdNNfoqCopsn17MjA1D35qZdgZMyEndrAJJ0ELeuZpyD8ExQRABOtqVClvmDFEu2bdTnghnh62dn5luL1KhL3u22lziYIBi9dZOuIOAJ7Tgk+FxgLRM3s3HC9ZNSNLqTmJ91nILFv/5HmUrtM2l7N5olhngJi9efoeLe1fuTjrOfA1SrIvGYlv5Qm6AGXWddxJBO0uO3NuV17pr/SP9OtVSnxU9TX+y5ySHEo4KqEDcTrk6vo/UT214kl6qBsQYzZMbPgCnQSWJTtmOm0nV2qZ7sug57HzzhCayNujX4DcCjZPTTZ94g7I=;6RiAF5nnylX6E1Q5h8JUKQ=="
 ---

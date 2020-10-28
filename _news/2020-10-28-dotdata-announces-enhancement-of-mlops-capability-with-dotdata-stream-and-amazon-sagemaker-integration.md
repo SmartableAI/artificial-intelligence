@@ -1,0 +1,101 @@
+---
+category: news
+title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
+excerpt: "Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that dotData Stream now fully supports Amazon SageMaker integration, one of the ..."
+publishedDateTime: 2020-10-28T03:46:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration/article_4616ca05-3b5f-56d4-99a8-5a95e850cbb4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration/article_4616ca05-3b5f-56d4-99a8-5a95e850cbb4.html"
+type: article
+quality: 23
+heat: -1
+published: false
+
+provider:
+  name: WFMZ-TV
+  domain: wfmz.com
+
+topics:
+  - AWS AI
+  - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "zomato digitizes menus using Amazon Textract and Amazon SageMaker"
+    excerpt: "This post is co-written by Chiranjeev Ghai, ML Engineer at zomato. zomato is a global food-tech company based in India. Are you the kind of person who has very specific cravings? Maybe when the mood hits, you don’t want just any kind of Indian food—you want Chicken Chettinad with a side of paratha, and"
+    publishedDateTime: 2020-10-27T17:08:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 121
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/19/menu_w_yellow_background.jpg"
+        width: 900
+        height: 628
+        isCached: true
+  - title: "Optimizing costs for machine learning with Amazon SageMaker"
+    excerpt: "Applications based on machine learning (ML) can provide tremendous business value. Using ML, we can solve some of the most complex engineering problems that previously were infeasible. One of the advantages of running ML on the AWS Cloud is that you can continually optimize your workloads and reduce"
+    publishedDateTime: 2020-10-27T18:31:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Charts-840x630.jpg"
+        width: 840
+        height: 630
+        isCached: true
+  - title: "Bringing real-time machine learning-powered insights to rugby using Amazon SageMaker"
+    excerpt: "The Guinness Six Nations Championship began in 1883 as the Home Nations Championship among England, Ireland, Scotland, and Wales, with the inclusion of France in 1910 and Italy in 2000. It is among the oldest surviving rugby traditions and one of the best-attended sporting events in the world. The COVID-19"
+    publishedDateTime: 2020-10-26T18:33:01Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bringing-real-time-machine-learning-powered-insights-to-rugby-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/3-Diagram.jpg"
+        width: 900
+        height: 366
+        isCached: true
+  - title: "Building an NLU-powered search application with Amazon SageMaker and the Amazon ES KNN feature"
+    excerpt: "The rise of semantic search engines has made ecommerce and retail businesses search easier for its consumers. Search engines powered by natural language understanding (NLU) allow you to speak or type into a device using your preferred conversational language rather than finding the right keywords for"
+    publishedDateTime: 2020-10-26T18:26:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-an-nlu-powered-search-application-with-amazon-sagemaker-and-the-amazon-es-knn-feature/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 77
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/07/1-1-3.jpg"
+        width: 900
+        height: 463
+        isCached: true
+  - title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
+    excerpt: "PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced"
+    publishedDateTime: 2020-10-27T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+
+secured: "MAMDktkfaaMEZlW0lRCBJ3lVWmXONzo6fQVv+yKr8944FupoMiWjS3oxjq6JF4XoAOmC9PiQZJQT2HkwvNBB/WDUHGAY6TmQNDZwontOuOOxSKb3Qz3qRzLy7xxsSbm9+r4PBe+Rtvf3aqVdlpITPz4lT4LhU30G1bd0D+VPTfPQwUXAaZkwL48Y1Mr0JzloQ2jWtnEPtp0WZ4trW8NnWQnJvMgd/Xfh4nuwIaqToP1PF6/Z26pcHpihzqbdilHo0OaNpig5gflApty+2OUfGv72IGv0Fjf+fxvtnUe9NYHDPHn+m2dRjYPPzEMUBNeVk5jOxUi3t+T7z0nX4OPpQ6Rtj4MjzFUIR1tGTmu0CdM=;TKTWUKBeZFHXV48PGRVmGw=="
+---
+

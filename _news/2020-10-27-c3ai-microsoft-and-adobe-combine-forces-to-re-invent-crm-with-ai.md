@@ -103,6 +103,22 @@ related:
     quality: 82
   - title: "Microsoft Unveils Lobe; Will this Make AI Mainstream?"
     excerpt: "Recent trends such as decentralized cloud computing, adaptation of GPU for general computing, increasing availability of big data sets, and advances in deep learning, a subset of AI machine learning, has spurred a modern-day AI gold rush. Global investment ..."
+    publishedDateTime: 2020-10-26T00:00:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202010/microsoft-unveils-lobe-will-make-ai-mainstream"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202010/microsoft-unveils-lobe-will-make-ai-mainstream?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202010/microsoft-unveils-lobe-will-make-ai-mainstream?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 76
+    images:
+      - url: "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-10/pic1548.jpg?itok=0guVq1tZ"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "Microsoft Unveils Lobe; Will this Make AI Mainstream?"
+    excerpt: "Recent trends such as decentralized cloud computing, adaptation of GPU for general computing, increasing availability of big data sets, and advances in deep learning, a subset of AI machine learning, has spurred a modern-day AI gold rush. Global investment ..."
     publishedDateTime: 2020-10-26T21:50:00Z
     webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202010/microsoft-unveils-lobe-will-make-ai-mainstream"
     ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202010/microsoft-unveils-lobe-will-make-ai-mainstream?amp"
@@ -130,6 +146,20 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133199-1020_DataQuality_480x610-ORG.png"
         width: 480
         height: 610
+        isCached: true
+  - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
+    excerpt: "C3.ai, Microsoft Corp. (NASDAQ:MSFT), and Adobe Inc. (NASDAQ:ADBE) today announced the launch of C3 AI ® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"
+    publishedDateTime: 2020-10-26T13:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-government-and-politics-north-america-software-industry-c9e7ea2475d8493ea3219b6741721298"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 71
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft beats out Amazon, Google for strongest healthcare AI offering, KLAS says"
     excerpt: "Healthcare providers and insurers consider Microsoft to have the strongest healthcare artificial intelligence offering among the big tech giants, according to a report from healthcare data and IT insights company KLAS. For its \"Healthcare AI 2020\" report ..."

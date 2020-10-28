@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/"
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 796
     height: 417
     isCached: true
-
-related:
-  - title: "New AI tool can predict future onset of Alzheimer's disease"
-    excerpt: "A new AI model is able to predict future onset of Alzheimer's disease around 7 years in advance of diagnosis using short speech tests, according to a new study published in The Lancet eClinicalMedicine."
-    publishedDateTime: 2020-10-23T09:34:00Z
-    webUrl: "https://www.axios.com/azheimers-disease-ai-51c0e478-344d-44e8-9f45-259be303090a.html"
-    ampWebUrl: "https://www.axios.com/azheimers-disease-ai-51c0e478-344d-44e8-9f45-259be303090a.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/azheimers-disease-ai-51c0e478-344d-44e8-9f45-259be303090a.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 57
-    images:
-      - url: "https://static.axios.com/img/axios-site/axios-placeholder-16x9.png"
-        width: 1182
-        height: 690
-        isCached: true
 
 secured: "BtYBcULduP/UDhkdkvuhJAkFKBZy6ZxwWN952HO8mRrvA6Smh5OICv18DbnCG/+bFEf9ISrGx54C5KqlUag4dpxJ8kmqL4BRHoMqPYw8SD1OvH6e6M2hOXjT3A3fyXuvI4I6SwoS9uCedHZ7noZQUTppAQCTDtGkdSktxvx2QCt8AGTvwbafQtpAGq8a12Y67pMTVPXpWVVeGDubdkoBQTykPZUK5bEHhEHeV1Bxbo2GVpn0PkFveSevi/G3j8nz0K/TBO+DdAV4977uALPHjKf2MYi7tLNSJ8WVlWtH4uGXbF69i4m85tuIsEVMh5nY7S/8p9ulyPvx4dnMa1ahpjrrjwhSBmDNjbwo3qw6PNnG41GDRXWt5UVw/A8xpVnteJdzqhISG0HFB8tLTojhaSWWjbx1xikWyfG/ho963VPy1FaZfaNErek/yjwuVNegXzm2Sgrp+yMfhlAmccurB/FyWs4tylU3Tv/4gHF0ELlwBrnryAIR79kWQ9Y6Xd+W5oOBEDMdzvT2urCrHV0Olw==;GiAAVERhOecAnLtnTj8Taw=="
 ---

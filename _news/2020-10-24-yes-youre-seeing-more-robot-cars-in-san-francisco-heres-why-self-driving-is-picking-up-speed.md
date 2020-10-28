@@ -44,6 +44,38 @@ related:
         width: 1200
         height: 641
         isCached: true
+  - title: "The Next Battle In the EV War Is Self-Driving Cars"
+    excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
+    publishedDateTime: 2020-10-24T15:03:00Z
+    webUrl: "https://www.barrons.com/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+    ampWebUrl: "https://www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-248921/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Self-Driving Cars Are the Next Battle In the EV Wars"
+    excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
+    publishedDateTime: 2020-10-25T12:54:00Z
+    webUrl: "https://www.barrons.com/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+    ampWebUrl: "https://www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-248921/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Ford is doubling down on testing self-driving cars in Miami-Dade"
     excerpt: "After landing in Miami-Dade in 2018 with a fleet of self-driving cars, Ford announced Monday that it plans to broaden its presence here as it explores the frontiers of autonomous vehicles. The Michigan-based automaker said it now plans to establish a ..."
     publishedDateTime: 2020-10-27T11:01:00Z

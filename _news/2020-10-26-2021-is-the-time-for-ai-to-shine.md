@@ -25,21 +25,35 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Predictions 2021: The Time Is Now For AI To Shine"
-    excerpt: "AI is transformational. AI is exciting. AI is mysterious. AI is scary. AI is omnipresent. We’ve heard this oscillating narrative over the last few years (and will continue to in the future), but in this unprecedented year,"
-    publishedDateTime: 2020-10-23T09:04:00Z
-    webUrl: "https://www.forbes.com/sites/forrester/2020/10/23/predictions-2021-the-time-is-now-for-ai-to-shine/"
-    ampWebUrl: "https://www.forbes.com/sites/forrester/2020/10/23/predictions-2021-the-time-is-now-for-ai-to-shine/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2020/10/23/predictions-2021-the-time-is-now-for-ai-to-shine/amp/"
+  - title: "From Ship To Shore: How AI Will Transform The Container Shipping Industry"
+    excerpt: "Terminal and independent operators should look to integrate new technology to help maximize port operational efficiency and chassis management."
+    publishedDateTime: 2020-10-23T11:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 86
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9297ba041a7872ff9ba2a3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D311%26cropY2%3D3686"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f918a3f539e033292ee790a%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 801
+        isCached: true
+  - title: "How Artificial Intelligence is Transforming Architecture Industry"
+    excerpt: "Artificial intelligence is transforming the architecture industry by analyzing huge amounts of data, saving time and efforts of architects"
+    publishedDateTime: 2020-10-27T06:40:00Z
+    webUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-is-transforming-architecture-industry/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-2.png"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "SSaqPlPE+euL83weJfcTBt6CsIacVgy+1R2zU7EbgbDUqsBgGbot4jLX1GhCzzBabNkEVI4fILU/9ZqAdwnLq2S+cevCld9QxnMlACKgqJRjbrnqBKb+KoRFIKQ38ek0rbMtiG5tBdlCJefqPgQoGBLE/KbhQ5i/OjwRYrjwDt2fC4YofLt5LvdfX2qS//MqKWoXfBfbBUsQi7+6aNEJJl53C7iWLWpacs8CK/bH4emLTxRz6MSxGL29ytbo5eVCi/L41PbOSQpvxzUcHjallkHxqZTEPq5vUeYZqLKquBWAC+T3QxWCaFETFP0vCvncsU1mjRnFiomGODvtDdGWH+viA1y3vPm9p29sqHIDpmL0Mf+Ie4IPQqZG7bE+yOs2MKQByxjVkJS8uRUHw09ICcYGK9FXQ/HlSyFJcweyEPKBwwqs/hxkv4Q9IRM8tzwJMQ72UH+elX1xXBQBxfg49vJ/TqvL8Hommb2JZculOCQk14X24qCg/QFtxG2Uv7JWsI8OfUVhvwXqNHDb7Nk3Zg==;oGrGm+/FrwpZ4ZQ1syPbbA=="

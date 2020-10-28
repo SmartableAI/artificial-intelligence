@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-men
 webUrl: "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/"
 type: article
 quality: 121
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
+    excerpt: "Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that dotData Stream now fully supports Amazon SageMaker integration, one of the ..."
+    publishedDateTime: 2020-10-28T03:46:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration/article_4616ca05-3b5f-56d4-99a8-5a95e850cbb4.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "8RKh1ONJABNDDAvlN+zMfRYxDkRoWu9XK4+xQZ0pbTZrlzXLnKL5cAT7fb8J8p/Pdmfvh9d/ysMP05+sOl+kgfElGJO1jdkxIbABBb3HcYIKeAtIgcYV1ksSh3EQfjkEBDaWk0SXloTAuLSlRbNQp8FilrZD6UMrQnNREsblhsmsj7Hg2TfLRZO3F0Zt43lUMjAak13cHWQ4WlmgJwdxlA1qA3/SRxePVgwLxO0VH/hPwKePhImdWQo9/CVB3rubDa1e/XV+rM++CIBlS2duTxwWn/EUg0tJ+4KLQAA/va92WvfIBysSp2JELYyYGNiJPiecu1aCAktIpdXTxabpGWYIYpFUAwGS+Il36xqMkj8=;7BHeIlX3EZd+TRemC/w3tg=="

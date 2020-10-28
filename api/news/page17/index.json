@@ -2,6 +2,188 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-10-13-announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity.md",
+      "title": "Announcing advanced Azure Machine Learning nanodegree program with Udacity",
+      "excerpt": "Earlier this year we announced a free ‘introduction to Machine Learning’ course with Udacity, empowering 10,000 scholars from all over the world to learn the basics of machine learning. Today, we announce the new Machine Learning Engineer for Microsoft Azure Nanodegree Program on Udacity—students can",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/",
+      "originalUrl": "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T02:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-imagination-technologies-launches-powervr-multi-core-gpus-for-iot-to-autonomous-cars.md",
+      "title": "Imagination Technologies launches PowerVR multi-core GPUs for IoT to autonomous cars",
+      "excerpt": "And the four families of the GPUs can be used with internet of things devices, low-end to high-end smartphones, cloud computing systems, digital TVs, desktops, and autonomous cars. The new designs are Imagination ‘s latest intellectual property,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/13/imagination-technologies-launches-powervr-multi-core-gpus-for-iot-to-autonomous-cars/",
+      "originalUrl": "https://venturebeat.com/2020/10/13/imagination-technologies-launches-powervr-multi-core-gpus-for-iot-to-autonomous-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/img-PowerVR-GPU-B-Series-BXE.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/13/imagination-technologies-launches-powervr-multi-core-gpus-for-iot-to-autonomous-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/13/imagination-technologies-launches-powervr-multi-core-gpus-for-iot-to-autonomous-cars/amp/",
+      "publishedDateTime": "2020-10-13T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm.md",
+      "title": "CloudCommerce Adds Artificial Intelligence (AI) Layer to SWARM",
+      "excerpt": "( CLWD ), a leading provider of digital advertising solutions, today announced that it has entered into a license agreement with Pattern89 to add its artificial intelligence (AI) technology to SWARM,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-9810f74b52d1cedcdaee6c67344d828a",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-9810f74b52d1cedcdaee6c67344d828a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-3-stocks-to-profit-on-autonomous-cars.md",
+      "title": "3 Stocks to Profit on Autonomous Cars",
+      "excerpt": "The race to get the world’s first fully functional autonomous vehicle is heating up nicely, with several companies targeting the 2021 launch window. The industry’s progress has been halted ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/",
+      "originalUrl": "https://investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/autonomouscar1600c.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-10-12T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-robots-will-watch-learn-and-reason-in-ais-augmented-reality.md",
       "title": "Robots will watch, learn and reason in AI’s augmented reality",
       "excerpt": "Australia has no choice but to step up investment in artificial intelligence, says Anton van den Hengel, whose Adelaide research group was awarded 20m in the federal budget last week to boost Australias position in this highly competitive research field.",
@@ -1018,208 +1200,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai.md",
-      "title": "Snapdocs raises $60 million to expedite mortgage processing with AI",
-      "excerpt": "Snapdocs’ AI algorithms identify which pages can be electronically signed and which require ink, after which they detect where electronic signature tags are needed and apply metadata that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/12/snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/10/12/snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/2b47b5a2-dc97-41b3-b717-99340b453453-e1601998506908.png?w=1200&#038;strip=all",
-          "width": 1199,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/12/snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai/amp/",
-      "publishedDateTime": "2020-10-12T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks.md",
-      "title": "The state of AI in 2020: Biology and healthcare's AI moment, ethics, predictions, and graph neural networks",
-      "excerpt": "Research and industry breakthroughs, ethics, and predictions. This is what AI looks like today, and what it's likely to look like tomorrow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
-      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/10/12/fff374f0-59d9-4c75-8931-70212d1b7506/fda-ml.png",
-          "width": 860,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
-      "publishedDateTime": "2020-10-12T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare",
-        "AI Hardware",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-shrinking-the-data-desert-inside-efforts-to-make-ai-systems-more-inclusive-of-people-with-disabilities.md",
-      "title": "Shrinking the ‘data desert’: Inside efforts to make AI systems more inclusive of people with disabilities",
-      "excerpt": "The post Shrinking the ‘data desert’: Inside efforts to make AI systems more inclusive of people with disabilities appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
-      "originalUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/VizWiz_val_00002306-2-1920x1080-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:45:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-artificial-intelligence-to-hasten-covid-19-detection.md",
-      "title": "Artificial intelligence 'to hasten Covid-19 detection'",
-      "excerpt": "A JAPANESE technology, dubbed \"Genki Medical Imaging,\" is seen to help speed up detection of coronavirus in individuals.The technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sunstar.com.ph/article/1873243/Baguio/Local-News/Artificial-intelligence-to-hasten-Covid-19-detection",
-      "originalUrl": "https://www.sunstar.com.ph/article/1873243/Baguio/Local-News/Artificial-intelligence-to-hasten-Covid-19-detection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sunstar.com.ph/themes/sunstar/images/no-image-sunstar.png",
-          "width": 700,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sunstar.com.ph/ampArticle/1873243",
-      "cdnAmpWebUrl": "https://www-sunstar-com-ph.cdn.ampproject.org/c/s/www.sunstar.com.ph/ampArticle/1873243",
-      "publishedDateTime": "2020-10-12T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sun Star",
-        "domain": "sunstar.com.ph",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

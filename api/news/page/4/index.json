@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-23-ai-and-machine-learning-powering-the-next-gen-enterprise.md",
+      "title": "AI and machine learning: Powering the next-gen enterprise",
+      "excerpt": "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bbhub.io/professional/sites/10/347789615.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft.md",
+      "title": "IBM AI model predicts onset of Alzheimer’s disease by analyzing descriptions of a cookie theft",
+      "excerpt": "The model predicted the onset of Alzheimer's more accurately than standard clinical methods by searching for symptoms in written descriptions of the image.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-23T134432.743-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/",
+      "publishedDateTime": "2020-10-23T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-iflytek-largely-unaffected-by-us-blacklisting-chairman.md",
       "title": "iFlyTek largely unaffected by US blacklisting: chairman",
       "excerpt": "The US-instigated technology war with China has forced homegrown artificial intelligence (AI) firms to focus more on core technological innovation, the founder and chairman of iFlyTek said on Friday,",
@@ -52,7 +155,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -639,6 +742,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-23-dragons-den-and-ibm.md",
+      "title": "Dragon's Den and IBM",
+      "excerpt": "Michele Romanow on IBM Watson: how we should see AI as a competitive advantage. Jessica Rockwood is the VP Development of AI for IT at IBM. Watch as Michele Romanow meets her at the IBM Canada ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/dragonsden-ibm/",
+      "originalUrl": "https://www.cbc.ca/dragonsden-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cbc.ca/dragonsden-ibm/data/frontpage/video--1.jpg?202010221100",
+          "width": 470,
+          "height": 264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-the-monarch-mind-control-mystique.md",
       "title": "The Monarch Mind Control Mystique",
       "excerpt": "But in some cases, the young performer can’t stand the confusing transition from tween star to men’s magazine cover girl and starts to malfunction like the robot she has essentially become.",
@@ -1092,143 +1238,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-ironside-achieves-aws-advanced-consulting-partner-status.md",
-      "title": "Ironside Achieves AWS Advanced Consulting Partner Status",
-      "excerpt": "The journey to AWS Advanced Consulting Partner status pushed us to gain valuable understanding of AWS and services like Amazon QuickSight, Amazon SageMaker, Amazon Redshift, and more, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18014673",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673",
-      "publishedDateTime": "2020-10-22T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-meet-the-ai-thats-really-not-stealing-jobs.md",
-      "title": "Meet The AI That’s (Really) Not Stealing Jobs",
-      "excerpt": "Rather than worrying about AI as a generic, uniform risk to jobs, procurement and supply-chain leaders should explore its potential to supercharge jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a3d131056d8a67471899%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/amp/",
-      "publishedDateTime": "2020-10-22T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-tesla-full-self-driving-beta-lands-but-its-about-to-get-more-expensive.md",
-      "title": "Tesla Full-Self Driving beta lands, but it's about to get more expensive",
-      "excerpt": "The FSD beta will roll out to more Tesla owners as early as this weekend, according to CEO Elon Musk, and a price bump's coming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 493,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "publishedDateTime": "2020-10-22T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

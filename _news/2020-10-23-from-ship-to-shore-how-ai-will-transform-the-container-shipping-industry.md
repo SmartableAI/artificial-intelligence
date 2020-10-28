@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "2021 is the time for AI to shine"
+    excerpt: "Companies and C-level leaders will tackle kinks in AI head on in 2021, not because they want to but because they have to."
+    publishedDateTime: 2020-10-26T14:53:00Z
+    webUrl: "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "How Artificial Intelligence is Transforming Architecture Industry"
     excerpt: "Artificial intelligence is transforming the architecture industry by analyzing huge amounts of data, saving time and efforts of architects"
     publishedDateTime: 2020-10-27T06:40:00Z

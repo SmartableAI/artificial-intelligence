@@ -2,24 +2,24 @@
 category: news
 title: "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs"
 excerpt: "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing."
-publishedDateTime: 2020-10-27T20:38:00Z
-originalUrl: "https://omaha.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_b32028c8-914e-5795-8c24-6ea2d8784cc1.html"
-webUrl: "https://omaha.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_b32028c8-914e-5795-8c24-6ea2d8784cc1.html"
+publishedDateTime: 2020-10-27T20:30:00Z
+originalUrl: "https://tulsaworld.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_bc5f74c8-ba8e-5946-bae1-b6591953187d.html"
+webUrl: "https://tulsaworld.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_bc5f74c8-ba8e-5946-bae1-b6591953187d.html"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/32/b32028c8-914e-5795-8c24-6ea2d8784cc1/5f986b4ce8335.preview.jpg?crop=1000%2C563%2C0%2C89&resize=1000%2C563&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/b/c5/bc5f74c8-ba8e-5946-bae1-b6591953187d/5f986b3f1f8a7.preview.jpg?crop=1000%2C563%2C0%2C89&resize=1000%2C563&order=crop%2Cresize"
     width: 1000
     height: 563
     isCached: true
@@ -41,6 +41,22 @@ related:
         width: 320
         height: 241
         isCached: true
+  - title: "If a Robot is Conscious, is it Okay to Turn it Off?"
+    excerpt: "This summer, a startup called OPENAI released a new version of its Generative Pre-Training language model. GPT-3 is a natural-language-processing system, trained to read and write so that it can be easily understood by people. Named after pioneering AI ..."
+    publishedDateTime: 2020-10-28T02:01:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/10/if-a-robot-is-conscious-is-it-okay-to-turn-it-off/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/10/if-a-robot-is-conscious-is-it-okay-to-turn-it-off/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/if-a-robot-is-conscious-is-it-okay-to-turn-it-off/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 59
+    images:
+      - url: "https://images.theconversation.com/files/365311/original/file-20201023-16-14xtu5x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+        width: 754
+        height: 505
+        isCached: true
   - title: "If a robot is conscious, is it OK to turn it off? The moral..."
     excerpt: "As real artificial intelligence technology advances toward Hollywood’s ... Arguably no machine has yet demonstrated that kind of intelligence. This summer, a startup called OPENAI released a new version of its Generative Pre-Training language model."
     publishedDateTime: 2020-10-27T13:11:00Z
@@ -53,6 +69,6 @@ related:
       domain: middletownpress.com
     quality: 39
 
-secured: "IrayDJo5xknHb9dNC+QiC660KyJdO7HJry4O0Zo9Ye6Rda9kUU5yPD3z0tuYmLKWaieyFXTtp1HyuW7BTECxVsE2Tvp+Ch2h/60VZsAjZdHumxr1n6sI/p+VoipfeO7sWytIIGEpn09RtZxbhQj4h2BLtpeGzSF04dMEP1kQdzOqQ2aBU3g9kp0Lpf9DE3ov0Kw1z93Ls5JzTJTZaisj/L4q+E49gCLu9AR0dqPmSWH2zMXwQaoC5hvWSnNUS/GZWnZ89rK9mEzK/i6bHfUQHoAAZqe0ftrkpHoN3PUGYybwXBB12HalcG7i/0IRelX5ZiSUO1YbBYV8TDOuZ44rLWCsk4HcknTnh3SBU3gYX2g=;V3Nx7Itz5PSMXGZy7ynhag=="
+secured: "oOxlUcxXg8SJ7u5CsYs2y2qD+D/4ER67ZzRfedu27ZAQ9Sbxc/RA+1iB+3C+r84kHVIC6AbbJ9l63+joqjoTQ8H2fh9eOi+arz/N+TIJc+gv1Mq9/n0bA0iDX2L7uBvSqDHs8LMyPszowBjUa7G0OjuxnytQAUAo7u2p2EDUWl04wXVpwzIdcksqwYiGHF4W0pCzckSAzpjKIGEgSThw0EpslUdwcziC2w9rntXpbGbBPEuECEDzC6mlBJ6Vud83yAg1AWS1nW4cyhj4/GBvwIdGTST/XUE3ury8xapdO/vGS7nPcpdNo0riF+WnYkf+ihOwzXBBZ4ZC6dF4k+XZiQfbW7H8V23FSw4ASFnlMBE=;JRVieAl0UtHDZ46sdgOZSw=="
 ---
 

@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "New Framework Released to Protect Machine Learning Systems From Adversarial Attacks"
-    excerpt: "Microsoft and MITRE Release 'Adversarial ML Threat Matrix' Framework to Protect Machine Learning Systems from Adversarial Attacks."
-    publishedDateTime: 2020-10-23T10:53:00Z
-    webUrl: "https://thehackernews.com/2020/10/adversarial-ml-threat-matrix.html"
-    ampWebUrl: "https://thehackernews.com/2020/10/adversarial-ml-threat-matrix.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/10/adversarial-ml-threat-matrix.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 53
-    images:
-      - url: "https://thehackernews.com/images/--vFnUfch2Dk/X5K1DuqUDEI/AAAAAAAAA6U/-MDtXB0eJYA3pUW42QaPKW5nfO1k8411QCLcBGAsYHQ/s728-e1000/machine-learning.jpg"
-        width: 728
-        height: 380
-        isCached: true
 
 secured: "sgAlSYFDT8Fc+AA520KSCiBhICKhf6mHWY1TVsCAbtWkNMCxzBIZTO0a4J/nZpLFKnNtPYC27wNXws7YsZtrXP5P8pb0QVxKspWhzwF7v+k73RtUMSnRGOKOWfzd+faFgLUPWTqhduzOLr361/GwhTQDAxG28ey6lewGaTfs1PPUBMEC3306JtD9u9p6z8nIxosA2qRYzmm1aFwfy0Z2hU7n37MktijbT9g16LUPc9ker5VoikTpDykoFdkAtIcH9XTWpyLXgJBOf+sKYPmY9DZsg5PAkKHBGAVxNzR+SOUD4sNMnCgBfvqhT3s3CGfDdYfqL06BwdtPXmvCU7aIUK4/mUyT3jbqRXpyZlnHhjZVH834V8wFEPs14iNkYOet01IaWzuw/K/qB8XY8jWLJoR6/riDfKIN5P/KYiBK6xcz6KaZzLVLpb6GnvjahSSjHOPKiOIjVPZ7XqmBIkXAcOzFPeNKmg65UL4inm0YKXexKOVhkrBbdFbhvPxwdty8EAxxI9r4+b7CkNgMvpdayA==;zaqmIz2lPH0wi150BeUTcw=="
 ---

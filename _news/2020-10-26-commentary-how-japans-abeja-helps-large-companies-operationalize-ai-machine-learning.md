@@ -9,8 +9,8 @@ ampWebUrl: "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning/amp"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: freightwaves.com
@@ -30,15 +30,15 @@ images:
 related:
   - title: "Build and operationalize machine learning models"
     excerpt: "Seamless training, testing, scoring, and model management. Data science and machine learning (ML) have gained prominence in the enterprise digital transformation journey. ML automates decision-making and analytical reasoning capabilities."
-    publishedDateTime: 2020-10-27T23:54:00Z
-    webUrl: "https://www.infoworld.com/resources/209938/build-and-operationalize-machine-learning-models"
+    publishedDateTime: 2020-10-27T23:50:00Z
+    webUrl: "https://www.networkworld.com/resources/209938/build-and-operationalize-machine-learning-models"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 69
+      name: Network World
+      domain: networkworld.com
+    quality: 39
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+      - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
         width: 300
         height: 300
         isCached: true

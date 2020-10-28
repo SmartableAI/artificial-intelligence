@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AI-powered logo maker, Looka, launches an all-in-one Brand Kit to help entrepreneurs kick-start their business"
-excerpt: "PRNewswire/ - Looka, an AI-powered design platform that has helped over 9.5 million entrepreneurs make a logo, has announced the release of the Brand Kit: an all-in-one branding solution. After designing a logo with Looka,"
-publishedDateTime: 2020-10-27T10:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-marketing-and-advertising-corporate-news-products-and-services-arts-and-entertainment-72d025740f3e09b77fa5bbc239abe6c2"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-marketing-and-advertising-corporate-news-products-and-services-arts-and-entertainment-72d025740f3e09b77fa5bbc239abe6c2"
+excerpt: "CNW/ - Looka, an AI-powered design platform that has helped over 9.5 million entrepreneurs make a logo, has announced the release of the Brand Kit: an all-in-one branding solution. After designing a logo with Looka,"
+publishedDateTime: 2020-10-27T10:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-logo-maker-looka-launches-an-all-in-one-brand-kit-to-help-entrepreneurs-kick-start-their-business-1029725525"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-logo-maker-looka-launches-an-all-in-one-brand-kit-to-help-entrepreneurs-kick-start-their-business-1029725525"
 type: article
-quality: 17
-heat: 17
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "PQq4b57lnpNXzmWEqBLhMFGAvKXBYQKXKBRojMGfNZwoMm35B2+yXdT2THC8QseSpR7PmMqDbDdHEi0tC/FcwOwfxi8orkl+DoSgYsXO1y/RNJDGKwe/v+D5Nx7kxCZwOlnKEij3s65IlS9KsVxGeoCilNHcq1Ex9W4do38D3gKC9bU/SChuk5pEWGA/Go2qLXcn3j3TlJmHD6mwGty/oZq8607mbkV95tTOwqClq3LKQKIRlD1p+y0TorfUazSk4b6JjU1PD8nqD+DoymmUBRiCbyLcwq55d1hVAzag/zTlZbGhqaVpRT2QWo8W/1zISrzJ+D/cLIwqWB6g1on3as/3g2wFykCl7Q5SUuJrgJ8=;24aiRaxGxhXsH/TXTNUeKA=="
+secured: "0lOHfYL/lsk7Ztcyi8schl/vNrHlZrA4K1fk50/A7MJ9oohJa4fU9iLqNuKPnP61JM2YPcwfkZxZDSFDPNkziu4qbRRzXUwD1a4+6+0D8Zc5UbttIRjlEibRNbJE4IuffpNewTFMbhuYM8uaX6fgeccxrzbZQ60CLG6xpHVvmw4FUmAxq9qDnUI1PXtIeV1JIfz260xJZ6cIhK/OI1oPcU9i1XDKNh6to7ipMjyLZfNUdx603p6OxS0TTx1F5n+FbJxr2Ain6+KTEjy7Ya4xpEfSpsdfyboeXbnwFcE2r5OuIRSFCoarOrUOaSionZxmFD6f7yNEv7HlA/RBM1FVqLnfdRHtrt6YRGNJ8rSoaAM=;zA5vgqXe7CsGNHS/rGssKg=="
 ---
 

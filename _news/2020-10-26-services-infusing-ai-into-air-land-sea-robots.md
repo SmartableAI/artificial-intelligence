@@ -25,44 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
-    excerpt: "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
-    publishedDateTime: 2020-10-27T18:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330"
+  - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
+    excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
+    publishedDateTime: 2020-10-28T02:19:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-  - title: "New AI Platform Matches Tumor to Right Drug Combination"
-    excerpt: "DrugCell, a new artificial intelligence system not only matches tumors to the best drug combinations, but does so in a way that makes sense to humans.’ Read More.."
-    publishedDateTime: 2020-10-23T16:51:00Z
-    webUrl: "https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 69
     images:
-      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
-    excerpt: "SUNNYVALE, Calif., Oct. 27, 2020 /PRNewswire/ -- Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
-    publishedDateTime: 2020-10-27T12:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-301160206.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 53
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
+        width: 1678
+        height: 1119
         isCached: true
 
 secured: "vU7SoSOHqdursITPAABtrQsxr5J1/exMM7j6MSek02cbDiACMoIrSLildH+5VI4ztY2z+7vwstxUeP+95kYrFrm7aGhTlzOTWGY8jj6LTvmGXNJFxV7yoLQ3PZL30BASEJ1SYa1wHNVcYCqIP+QXMpNC1SFq/mNGJ1ZunnONA91PULTF+QMXhulVjdCttzvOV8PPfHWqIAY4aeTX0Ym9dsAzWs81sVsHG0XnXy1ztJaMFqIVpQHwDKs+Mp1+CmscTwb0ZUxe2ZZeu7/i4IDHqJnlBxJr6EKCBImpKmi3zgiD2H8PqEyj/NdklMOACvOnZooFf3u7sdT5Vls5TP8uR+3xgXuiFw3JjQtRVYj19rT37FUSXqs8i63S4cPlOUcxCqM0v87Nv5fCxPoFkXp4BqGwc0/qqd6bmu5vlyEbTyNvRXyLZzih2LZr0OpMxeNBM4o8hf6hKlSoPcss1SpbnjK1EUNDyMJIIuGAY0fRpy3FgH+Av/dzQ750UEgzOMDDPoncXV3COPTUTQ36S6tglA==;d02EROIO6E/Rk8rJk8I/hw=="

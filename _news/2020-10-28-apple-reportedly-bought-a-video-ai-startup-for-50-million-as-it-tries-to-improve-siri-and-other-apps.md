@@ -74,6 +74,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Apple Buys AI Startup For $50m In Apparent Effort To Improve Siri"
+    excerpt: "Apple has acquired a Spanish startup specialising in advanced artificial intelligence and computer vision technology in an apparent effort to improve Siri and its corresponding apps. The tech giant bought Barcelona-based Vilynx Inc,"
+    publishedDateTime: 2020-10-28T02:07:00Z
+    webUrl: "https://www.channelnews.com.au/apple-buys-ai-startup-for-50m-in-apparent-effort-to-improve-siri/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 37
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/10/siri.jpg"
+        width: 840
+        height: 441
+        isCached: true
 
 secured: "UR08vCNZ7AL1N0agwM+dDMBdXqNJDB497nkzZ/wSsD3pQaP+pFtUj0x2ln3fU0P1hH/gLYTfHvyN95leq4vKRde18pBe+J1RA38KoJIZZHd4qorjq/NpE/ZTUSQK0ddge2wpxvZb3h2pc0wqbEQrJn4he9eLQuhONcPQ088ckJWeDDHlFdpldOQjoNT63Pnme4yRGZNXjQuMW7uXI9Q1APqY3QEj8SOIgFffw+O2DSRANIVr7ZmqLNmFFI+8QLT+2uJdvTgdIjLIrcRVltMEiF8nnUGg4PmFypCftvtcfgSu2qyXEo33F2S32+H4GGpQGxnTXpHmksq1bElXyHcPW30YNpBVCfjWNZuVhLQOvD4=;ZmFCHJyFLan7dq7kqI4VHw=="
 ---

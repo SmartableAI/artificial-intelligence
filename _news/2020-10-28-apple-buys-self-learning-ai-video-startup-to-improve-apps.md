@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-se
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
 type: article
 quality: 87
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/amazon%20sustainable%20packaging.jpg?h=bc09f3d1"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "Apple Buys AI Startup For $50m In Apparent Effort To Improve Siri"
+    excerpt: "Apple has acquired a Spanish startup specialising in advanced artificial intelligence and computer vision technology in an apparent effort to improve Siri and its corresponding apps. The tech giant bought Barcelona-based Vilynx Inc,"
+    publishedDateTime: 2020-10-28T02:07:00Z
+    webUrl: "https://www.channelnews.com.au/apple-buys-ai-startup-for-50m-in-apparent-effort-to-improve-siri/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 37
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/10/siri.jpg"
+        width: 840
+        height: 441
         isCached: true
 
 secured: "LqaLT0A5V9en5+/1PcTcwDyCB8U+Is+O4f200mKHQCZRTeYgaLRC+IYSiQ4XXckY90RfE+45vwWzXh1SPvGOm4bpLVZJHBfO2LorX71ITgeD7TWZg3qYNEww8lQuOG9Yu0QZfg4iE5bMXEbb2pvjE0ijUQ0te+LOQyPh77LOyjjmUTlhu1W0ohuWb4Awo6z3f2l5IibMTf12Vvbsc3fb5gtmBLY5+DIzGzd/vUuq9BjpY/fWNjyqRXhsMx4hO8A8wvUAi2cDYJCmccV/Ta+wJyhQo1CormnY1TcA4L0s7Nu7fJ5snlhHjwL+yfk2QTAtRmRtPXtot1VceeJ0xTbNvG34rcVDI9aCSpPoeX5cq40=;fBDbOPUCyOm+2gz57Y/OIQ=="

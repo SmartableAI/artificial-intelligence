@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Dragon's Den and IBM"
-excerpt: "Watch as Michele Romanow meets her at the IBM Canada Software Lab for a discussion about IBM Watson, and explains how AI can help Dragons' Den alumni RVezy work smarter as they enter the US market. In just four years,"
-publishedDateTime: 2020-10-22T23:09:00Z
-originalUrl: "https://www.cbc.ca/dragonsden-ibm/index.php"
-webUrl: "https://www.cbc.ca/dragonsden-ibm/index.php"
+excerpt: "Michele Romanow on IBM Watson: how we should see AI as a competitive advantage. Jessica Rockwood is the VP Development of AI for IT at IBM. Watch as Michele Romanow meets her at the IBM Canada ..."
+publishedDateTime: 2020-10-22T23:01:00Z
+originalUrl: "https://www.cbc.ca/dragonsden-ibm/"
+webUrl: "https://www.cbc.ca/dragonsden-ibm/"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
   name: CBC.ca
@@ -24,22 +21,6 @@ images:
     height: 264
     isCached: true
 
-related:
-  - title: "IBM Fails To Impress"
-    excerpt: "I’m publishing this series to discuss a topic that I follow closely - cloud stocks, trends, strategy, acquisitions, and more. Please subscribe to my Cloud Stock Analysis series and never miss an article."
-    publishedDateTime: 2020-10-26T13:40:00Z
-    webUrl: "https://www.linkedin.com/pulse/ibm-fails-impress-sramana-mitra"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHa8SzjB3j_nw/article-cover_image-shrink_600_2000/0?e=1609372800&v=beta&t=lT_rKomRa3fzaKHc3iv2iqPn8-5-FWTN20CRkaln5BQ"
-        width: 791
-        height: 399
-        isCached: true
-
-secured: "GXy1NLbypa+l1t2r9bRTWIhl91tX3Rj7YBBQdYY8SWDXlOL/KKzCVh5BRkaAPJ1CdwOSkTRr19cpKvyX6dDr6MD83wuSPUPQBQFzcoiUuakDVosQ2f7Hl2W1nwjKBGzXI3nf8/egB3XF2AdYqOBVgAkw47WfuuHhRtPFptuFguHKCTaBsEncM5QcZZ/nWWLdY/hRYovqos7Vl4ectU3vHmfAHA9/pzLw+GeRuucZODKt2sHURRXOg11xON7iSgWbjL9oF0NRDtnNBaEE3YbyolSPZWi8EJFrgJF1coKifvTQiG4/5n4NTMW5jo6ax5qBZAjkktE86mMIuYT/p8L/LY+yJZy+LfAocjYOe7MZ67cC55TAHCYgdwX6DnDtWh3KvUFOZGW3f6IVODGGyuvs+W0wV5fBleAdJyQxtt0169rlsTktMEEFXnnEKsiKNhXeObagnIDzGdlBiVKW61Tyjwo8FfasGiX5818JAGXqHQtF5YhdnI8ZTWq9anGeVLkoFEhjtm2ZIWA8gN7Y54LElw==;3wXUx/lk/+zVkCC7ZXpI8w=="
+secured: "8ptVKDYYFpbFJFJogSjj5rehjqj7rOXMp8Uwrw6blWfVf3WyslrI/UpfH36J2Ty2erw+dMFGwHiS/hnI+gDkp2lfhW8EjAdsfsFZoz/oXMIZAwV2Eb4HSUM6ADgsP/m/hf+SUNpI+QI129yRP4WkTbYk2ktDvOisT8S+fsffw+hAmMVRTPbd9X+9K00E35isj++xgBYqKKQjM/WmCyBU8cVWoW44A0a5JLLbuCNNb7CLU2itjHWowPw/iNO7psS+N/jBLqMYjciXhZdJTkufWjMj1TmykfyDln4jWxM6qP+7CwjTxmDlpEDFKYkwdYKjvhKsEHkRkcVkznehFHWKAP0VZjk0jBNJplOt/TAyog4=;XNP2CbVlg9gYBPxwuHfRNw=="
 ---
 
