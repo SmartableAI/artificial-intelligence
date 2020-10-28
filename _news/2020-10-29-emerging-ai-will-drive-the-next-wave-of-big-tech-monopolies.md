@@ -28,14 +28,19 @@ related:
   - title: "Emerging technologies that will advance the retail industry"
     excerpt: "In response to this changing landscape, retailers have brought forward technology investments to accelerate their digital business transformation, particularly in artificial intelligence (AI) technologies with retailers often utilizing AI-enabled third-party vendor applications to solve immediate challenges before moving to more strategic deployments once they gain evidence of the benefits."
     publishedDateTime: 2020-10-28T15:34:00Z
-    webUrl: "https://www.techradar.com/sg/news/emerging-technologies-that-will-advance-the-retail-industry"
-    ampWebUrl: "https://www.techradar.com/sg/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+    webUrl: "https://www.techradar.com/news/emerging-technologies-that-will-advance-the-retail-industry"
+    ampWebUrl: "https://www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
     type: article
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 69
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg"
+        width: 970
+        height: 646
+        isCached: true
 
 secured: "7yKNAJ6bLGyQQEg9RNPRDwfHqCezXjYvyjBgMBv9KkQ2G59p5rQ/wxzSgYsMyWySc6fJXtvbEiLN1YxfsjR3hw2i32tJVaei+D+A3944+3blzIoPU81L8Qh8REGgF1gsQBwtPYqVfTvN+9GKA/KphjAKnkWV9i1jCR3vFlHc7BQV9uGClKaS1qxhjLEg4mMstrgskFR3USQYWgeybfmYydkf3EubyWQxZRuvQ77iXiyn154z4KgosYSxxK6cMk77cY6c4aHVkAGEQlSDvVf2A2MAmUC3W8J4+2WbRumO2fEoNlUQRrH0QdcvvxDBUuoBzdmeQUkg1Jcad2ZfMG1TV3VDTnBE9BUHH/TnF/rye3SW8RuPf6QqsH7nDtjCjKOXhP3H6bFRW+LlVJB3d1k7IOR/R0Y6bWATJRRXwQFKLzVpRXEwbG6ReTHKG2Y+PDzVSLtwU9ub4uitjeAFRj7buFj2tV0VD8GLnebNO41UJiRGgHKCBCRRd+2Wb30CWd17NdXZ2ZGDnl//Xuu1rJ/YIw==;t3TKfuXb+gNZ2B4hSMVo3Q=="
 ---

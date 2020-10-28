@@ -3,13 +3,13 @@ category: news
 title: "Emerging technologies that will advance the retail industry"
 excerpt: "In response to this changing landscape, retailers have brought forward technology investments to accelerate their digital business transformation, particularly in artificial intelligence (AI) technologies with retailers often utilizing AI-enabled third-party vendor applications to solve immediate challenges before moving to more strategic deployments once they gain evidence of the benefits."
 publishedDateTime: 2020-10-28T15:34:00Z
-originalUrl: "https://www.techradar.com/sg/news/emerging-technologies-that-will-advance-the-retail-industry"
-webUrl: "https://www.techradar.com/sg/news/emerging-technologies-that-will-advance-the-retail-industry"
-ampWebUrl: "https://www.techradar.com/sg/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+originalUrl: "https://www.techradar.com/news/emerging-technologies-that-will-advance-the-retail-industry"
+webUrl: "https://www.techradar.com/news/emerging-technologies-that-will-advance-the-retail-industry"
+ampWebUrl: "https://www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
 type: article
-quality: 69
-heat: 79
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -24,6 +24,12 @@ topics:
   - Machine Learning
   - AI
 
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg"
+    width: 970
+    height: 646
+    isCached: true
+
 related:
   - title: "Emerging AI Will Drive The Next Wave Of Big Tech Monopolies"
     excerpt: "Amazon and Apple built their monopolies by having detailed access to their users’ data, which in turn allowed them to build the best AI recommendation systems for their respective ecosystems. In addition, Facebook and Google built their monopolies on the ..."
@@ -37,6 +43,6 @@ related:
       domain: forbes.com
     quality: 69
 
-secured: "K7Djj+Dzq4cQW28Yebhe2xm9JeDVguk96wRKWVyE14GTonqxhMfXfnm8i/V+9IbcVlW7/SGESWBI2HRXVdtndzJomT2EuYM87yjb/91DVYEHwTGjRmJoC3vXZEquIY/m6PIT8Cg7JZHAgiBXdXRdmIE64moQyFh9usubPbmrMsQ2ur8R2H6cddNA/pmfYdc4rnjI9PYhDmYmEnTsBGefPAJCjZrFsFlgQ4d+vovVkrSsf7WGQPsyg75R6TtXlGS8skgrPRn4jkYStrWb8qAk2EeDZZZmwrK5bcLJl4clgaWAt0+NRFemH/XuVpt64377VwgoCCV293cgeRdAASCiSjwGcT6qvgbVPmrmNF/MipZPciD6TS/bm81EOMpOkW6IEGnZcJJsCqfUSRRxoSlkLs2QgbxzGYb4wXJk4m2StzT1LjZ+qNv9FQy8+Mq7blnVjVA6fW+/rFObABN+sTcGKIMPLL0gyy/klk7VfrT6gbJGmRbHhIkpBrgIDO5n3qhwntHX2aEhk+34swyQDIWQoQ==;6ZJfWq25nfOUTnu173nomQ=="
+secured: "ZtfjfC+bI/p7LZuIHppaOYS+0XpZvdO0yczihySeVszaJXXjBJRb/M7KEtsz8K1xHAQJrn5ZNSHq3bevRPUFvu5CkYbdYQ9kIwCGb6O8aqJqad1rM8JCAa3dUm5imlblu0AS6MCrKAka1yeTF++vx6RGgwWfn+c3WUJWgqGNt+4li/r8YdwDOmBYas961re0IaeM3e4A7coyahZ883bfsmjA0D+5CbMvg7+ukuiPMDau2MkhRsg5sJW/DaB9zHUsrojRIl5z0B9/LURWPFGyu6tDiQ8TCFOPux20KNnCL1/AcMVr4xkWPGo+yEh4pb0L9ZM+lh1KIXdrIJLswJ47gCL3YbszKFB+eVLSJQPcLO8=;sl8f67Hgkqc8e45iyU2mBw=="
 ---
 

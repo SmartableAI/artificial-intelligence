@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial intelligence firm Capacity raises $11 million, says revenue tripled this year"
-excerpt: "Log in or Activate your account. David Karandish, founder and chief executive of artificial intelligence company Jane.ai. David Nicklaus is a business columnist for the St. Louis Post-Dispatch. {{description}} Email notifications are only sent once a day ..."
-publishedDateTime: 2020-10-28T17:56:00Z
-originalUrl: "https://www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-raises-11-million-says-revenue-tripled-this-year/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.html"
-webUrl: "https://www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-raises-11-million-says-revenue-tripled-this-year/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.html"
+excerpt: "Capacity, a University City startup that bills itself as a help desk powered by artificial intelligence, has raised $11 million in venture capital. Capacity didn't identify a lead investor when it announced the Series C funding round Wednesday,"
+publishedDateTime: 2020-10-28T19:32:00Z
+originalUrl: "https://www.stltoday.com/business/columns/david-nicklaus/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.html"
+webUrl: "https://www.stltoday.com/business/columns/david-nicklaus/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.html"
 ampWebUrl: "https://www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-raises-11-million-says-revenue-tripled-this-year/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.amp.html"
 cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-raises-11-million-says-revenue-tripled-this-year/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.amp.html"
 type: article
 quality: 63
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,63 @@ images:
     height: 576
     isCached: true
 
-secured: "cO4qU8KkqKcnV/FDTdDr0D2ahsatvHkApxMmvzhujeFgNStWo4ymRkXzw3UAE8/rpj3WqEYpG4YfXsG5kkiGGm8L1OxzemczAZ2lbZllDF4Kkz/8HggJlDVsO7Mrx2D8Tne2ZrVcAgB+fYylD9QNPbusz9cZs3ReRDMzGpjLuHv4xQIkPl6A4kvUbNa+Rup1V6UbSiu3LIyimQwYRLjpJWw30VGLXwSWlASSYtHJ/0BqLP9PP+hFCi45PK9j+Z3PF0ZChwI3gHWIgGaPHhW+wkaQ2uNC+USaODvxm2R299PAysF8XDv34w8qkmmSSHgq9QX5H5iIdpjHBu2S9BDGNrRY7ABDw+7TrXSWbxoI8nA=;qfPP5GklI3yxhaaeY8jqcA=="
+related:
+  - title: "Startup Robust AI Raises $15 Million in New Funding"
+    excerpt: "Robust AI Inc., a startup developing an artificial intelligence system intended to allow robots to work autonomously in open-ended environments, on Wednesday raised $15 million in venture-capital funding,"
+    publishedDateTime: 2020-10-28T15:19:00Z
+    webUrl: "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-250518/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "US Based AI Marketing Cloud Startup Pyxis Raises USD 7 Million in Series A Funding"
+    excerpt: "Pyxis is a unique AI-led marketing cloud start-up headquartered in the US with an office in Bengaluru, India. The start-up has several innovative tools that provide a robust platform for creative"
+    publishedDateTime: 2020-10-28T13:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/us-based-ai-marketing-cloud-startup-pyxis-raises-usd-7-million-in-series-a-funding-120102801417_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/us-based-ai-marketing-cloud-startup-pyxis-raises-usd-7-million-in-series-a-funding-120102801417_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/us-based-ai-marketing-cloud-startup-pyxis-raises-usd-7-million-in-series-a-funding-120102801417_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 68
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/28/full/20201028183935.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Gong Raises $200 Million to Surface Sales Insights with Artificial Intelligence"
+    excerpt: "Founded by Eilon Reshef and Amit Bendov, Gong is also a cloud-based business and uses AI (artificial intelligence) to transcribe and analyze conversations from web-conferencing platforms, like: In August this year, as we already covered, Gong raised $200 ..."
+    publishedDateTime: 2020-10-27T09:20:00Z
+    webUrl: "https://www.finsmes.com/2020/10/gong-raises-200-million-to-surface-sales-insights-with-artificial-intelligence.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 67
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2019/12/gong.png"
+        width: 960
+        height: 960
+        isCached: true
+  - title: "Fast-growing St. Louis AI software startup Capacity raises $11M in Series C funding"
+    excerpt: "The startup said its new financing came primarily from existing ... Founded in 2017 by Karandish and fellow entrepreneur Chris Sims, Capacity has developed an AI-enabled “help desk” technology that’s designed to capture and collect a company or ..."
+    publishedDateTime: 2020-10-28T13:45:00Z
+    webUrl: "https://www.bizjournals.com/stlouis/news/2020/10/28/fast-growing-st-louis-ai-startup-raises-11m.html"
+    ampWebUrl: "https://www.bizjournals.com/stlouis/news/2020/10/28/fast-growing-st-louis-ai-startup-raises-11m.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/stlouis/news/2020/10/28/fast-growing-st-louis-ai-startup-raises-11m.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
+
+secured: "yZFYJ0JPADLO0ETswbaJuuucvwoLrRtUoHfmcNtpt9JGqk+uiTl7m2uQwW88sKEHER6DivMqZllfljBAR/Id9MzWrVG11vj1W5m5hVgv+cYZhmsm2yVGr9gzDaOcHUOIvUU47niePp0XkLBNh21uKK77YHKyQZHZHbwtIZsjgg9xHZ8tr+udR2az7AJFZsg/FMcnJKxROC5D3COh1XyP7NUOrhYEDKGB7dL6E38F5izKID53fVcr+/iV02lDijH2RJOvYgjvPeaSUWEeDwzwmzlyoIht3OMw3Nvx5nqTVS4VdSsh+k9ZwDEMuv0RMqan08z78EiaOUwXv7/m78mbVV+Idr6OfTE5X9jnLh9TI/k=;HO4aLEF0XJA1VMzdlLBTbQ=="
 ---
 

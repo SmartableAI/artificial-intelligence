@@ -47,7 +47,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 51
+    quality: 53
   - title: "Startup Robust.AI, Founded By Cognitive Scientist Gary Marcus And Roboticist Rodney Brooks, Raises $15 Million To Make Building Smarter Robots Easier"
     excerpt: "Robust.AI raised $15 million led by Jazz Ventures to build a cognitive engine for robotics. The goal: To allow people to build robots faster, cheaper and with more reliability."
     publishedDateTime: 2020-10-28T15:08:00Z
@@ -63,6 +63,6 @@ related:
         height: 675
         isCached: true
 
-secured: "V1/am8JG65k8UpisTQaoqkZaaBqsuVPXsIMoDNWJmG0xppF9IKZgoOzJ0/tX3qINNXOsBe+r51qHo6BzT6D+MTd7w24on5M3+s1o/1bH2Ndg0aMWVGYCe2f2Y1B91LL/4l2xjJ8GoO4WVbE9ffMnFI9LZH2/D0W//QNpiD0zd7LWfESsSGPN6kSqnM84bPnm27JCi6wcQeBbOVGFUgx/zPfqWCF7rb59WPY50AfV+Pd93pq+b86bS7uRQvgpuQpP59ffBZR2pAen/nafU2dHm+En/xAGtUZPrwDGpRD3ASktfQlNBbLp2cP2HMrRDHDaJpMhrIzti1ACohfHZK26g4wDiUa6HnSfbAb5UPrvOOA=;JMDCsGBNz+x8ggxet7D/bQ=="
+secured: "UPzG5N1WM/jYS1SIrr7BgifqkbdjkqREMAtXmc3NdcOZ24uXHpAzXUUOTB7OZNMCDv3GM2hPGOJoH7q+OJ9/h73lCvHaPCoIIrRzklKf0RllrPNwZATU2FoHXvYsv6iUZnW6SAQeTWYOq92sIw14M1Xzk2aSsOuO4X5foRaX6WBEpGnb2Jlycy/pdaB6yPw0sVJ1/ZXXst7xNwlpztIsHt5Fm0IpKYyb5wBDBdoQBGFGgBmfebzQEOA3A7JXpRIDBjRdUENVwbpFZAxzoR7HHmfwadE4OPMqAjonUo/br6+Q+Y5sdZ/OMIl/EP1bBsw8Ta5NAJqKD0IHZkTHE3uyWqQZe44z8cfXyAF1V1IW4Pw=;pPGWpkXQWPTVEY9k+7nxcA=="
 ---
 

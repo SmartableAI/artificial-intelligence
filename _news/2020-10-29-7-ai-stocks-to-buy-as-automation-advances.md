@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-28T19:21:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496"
 webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - AI Hardware
 
 related:
   - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"

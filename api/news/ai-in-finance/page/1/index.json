@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-28-learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-expert-led-training.md",
+      "title": "Learn the ins and outs of FinTech and Blockchain with this expert-led training",
+      "excerpt": "The education starts with the basics, so you can build a strong foundational level of understanding before diving into more advanced topics, like AI in Fintech, Robo Advisors, and InsurTech.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-training/",
+      "originalUrl": "https://nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fin.png?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-training/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-training/amp/",
+      "publishedDateTime": "2020-10-28T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning.md",
       "title": "Commentary: How Japan’s ABEJA helps large companies operationalize AI, machine learning",
       "excerpt": "ABEJA has developed proprietary tools to ensure that its AI Consulting engagements do not metastasize into endless ordeals.",
@@ -1294,58 +1337,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-ai-in-fintech-market-precise-outlook-2020-ibm-corporation-intel-corporation-complyadvantagecom-narrative-science.md",
-      "title": "AI In Fintech Market Precise Outlook 2020- IBM Corporation, Intel Corporation, ComplyAdvantage.com, Narrative Science",
-      "excerpt": "Oct 01, 2020 (Market Insight Reports) -- The Global AI In Fintech Market Research Report 2020-2025 is a valuable source of insightful data for business strategists. It provides the industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-precise-outlook-2020--ibm-corporation-intel-corporation-complyadvantagecom-narrative-science-2020-10-01?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-precise-outlook-2020--ibm-corporation-intel-corporation-complyadvantagecom-narrative-science-2020-10-01?mod=mw_quote_news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

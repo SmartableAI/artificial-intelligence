@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Learn More About FinTech and Blockchain for Less Than $40"
+    excerpt: "You’ll learn the ins and outs of Fintech and Blockchain thanks to this training bundle ... Courses will also teach you about Robo-Advisors, InsurTech, Stablecoins and the ins and outs of AI in the financial services industry. And the best part is ..."
+    publishedDateTime: 2020-10-28T20:46:00Z
+    webUrl: "https://www.extremetech.com/deals/316736-learn-more-about-fintech-and-blockchain-for-less-than-40"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/10/sale_48031_primary_image_wide.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "k8HYDqudvV8ZkTCZXUNOMVWONEXkhktV3HABEqxItcc+bboCq7tSdo/fb9omHJ5fwhb7zAXeERaxbC45giPGxG5tR7dZS1ovw8wJI21JhmM6AOrRVkzRr29smEN6KfUv8WPQ3Td4junD6tQs8MDNr+IHHW7rjV/aA7hKReeyGHr43KxmgSd6p+ne8cTqGdbtogtWqlCtkxnaUKI9e5r74eaLdeuTz06w/oAuCzKPgDPW3lCoweoDKN8VIZOzcfxB/s5iG2z6RXZXWbQ+V3jEPeVeMexsgvOa378qv4i3cnrreA0snDoMEAwsvEBCn8r0R81QMsWXBwhNNHD6tiHW27wJ2vIkbFr5oR31p4Q/IOnKBA3Qqjlpp9iFh6evoxeniaY34abOy5weXdsCm+RaUaGbVZmmoj55lrUwjACuvttEDpqEv4IvMtsaAq21wXtToHOD8XlzcYjPosPFFU+cBVvY5dicisTIvnppelIASyPQluVCVtyaTpGEYMufMkcKKqRqNijqdIoSJ5gS+eFozQ==;SWGeKCTa4oMgDcMzzWQj/A=="
 ---

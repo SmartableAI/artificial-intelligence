@@ -36,6 +36,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "Bristol Myers taps machine-learning biotech for help finding ALS drugs"
+    excerpt: "The companies hope Insitro's technology can lead to a deeper understanding of how ALS progresses and, in turn, help them discover better treatments."
+    publishedDateTime: 2020-10-28T16:11:00Z
+    webUrl: "https://www.biopharmadive.com/news/bristol-myers-insitro-machine-learning-ALS-drugs/587923/"
+    type: article
+    provider:
+      name: BioPharma Dive
+      domain: biopharmadive.com
+    quality: 24
+    images:
+      - url: "https://www.biopharmadive.com/user_media/cache/28/22/28229d6bcc81992d4abe0871f95795c2.jpg"
+        width: 770
+        height: 364
+        isCached: true
 
 secured: "tO3a460bd/frhXySkMIrDXnj6UN52muLc1H49yjnYkD67qXON/hqKa+vndGbcjVW9Z+6RIbj+t59XiA7f8p9eI5Ww92bvMnrvbKdeTPjiQl2419jZsxzkFhDiLighhH4xfI5dEffSyZniPnyvJQnfIOSC1uLzKjylu03DlWMN4nKj3SR7WUEX/SsxgW980vpEo1GvrnuXITMCzZ07hCY/HR5LfjgmsH+Q3lWTldcBGEG8Q7xJQlwas5096sqe8bnUJYmB/DTpDm7yrgQTujtFdbSeRstptlEANnqaTfqDpLrITVQybpIbsSA59gT/ur4qEkpnJ4190PqInL/psWHQEm+crFAvH6STUoVc+NgH1E=;IHuAO69HyS3I5P3ME9E/mg=="
 ---

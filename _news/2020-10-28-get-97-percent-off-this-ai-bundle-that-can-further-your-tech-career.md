@@ -24,22 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "This AI-infused writing assistant helps you find the right words"
-    excerpt: "Despite the explosion of technology, writing is still a remarkably old-fashioned process. Whether you’re using a pen and paper or a computer, your brain is on its own in transforming your thoughts into a coherent piece of prose. But an Israeli company ..."
-    publishedDateTime: 2020-10-27T13:42:00Z
-    webUrl: "https://www.fastcompany.com/90568455/writing-suggestions-ai21-wordtune-grammarly-alternative?ref=hvper.com"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/10/p-1-Wordtune-Rewrite-Demo.jpg"
-        width: 1280
-        height: 721
-        isCached: true
-
 secured: "aNeK5XNaSQCbayz/9IqQHlrgYjtsTPZgZhD4hT9R8oVisNwFfP5DDK1foohcpMG79CWC1tAr6F38bDXxJ/PxPGNWyeHFBYhjylZ3CCq14e3T2yCFdVYsCLboTQnxxNtn470qjeSk6vB74grArTMj00ovd2BJaQShiQJHYp4Xlggpqj52/2qiUmPlzY3ty5iuHDSmmr07bMFgUc3ZHCPkEAGF/+fQKk00xgZZhlJyFObqit6kf/Oz9FqPZ3yt/ifplIrz9xo6SgEhMsJBQklM3egPOO2BA0mpew5H8QmXkWJxkT8+fJkhzpo5UMwaTSQW+Y1hW+tCTO9Va000/GlECRhrfAvaqieAamcbDbxA4b6LTaKWsGcRm3+LtImqhppE+JQt+A5zE0wBuu7YNBIr+UUqDVNlh2pu/Tge7fCUsTIerVCf6kNbFRU2iEnAjsJpyUz63c5A2Flv5qyzzVmda0ywsd9zPWJBWdGUwLnTQHLDpu2t4OIe8qxZjDIybd3cyj+K4zf8O0YkekBKFT1hEg==;2/9etMIfzfp9PvjA0Ij9Pg=="
 ---
 

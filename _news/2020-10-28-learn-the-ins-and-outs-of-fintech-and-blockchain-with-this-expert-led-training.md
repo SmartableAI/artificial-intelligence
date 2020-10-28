@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-training/amp/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: New York Post
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Learn More About FinTech and Blockchain for Less Than $40"
+    excerpt: "You’ll learn the ins and outs of Fintech and Blockchain thanks to this training bundle ... Courses will also teach you about Robo-Advisors, InsurTech, Stablecoins and the ins and outs of AI in the financial services industry. And the best part is ..."
+    publishedDateTime: 2020-10-28T20:46:00Z
+    webUrl: "https://www.extremetech.com/deals/316736-learn-more-about-fintech-and-blockchain-for-less-than-40"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/10/sale_48031_primary_image_wide.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Become an Expert on the Future of FinTech and Blockchain with This $40 Bundle"
     excerpt: "The finance world is changing rapidly by the day. Unless you have a financial education, you're likely not up to speed on the fintech developments that are shaping the global economy's financial future."
     publishedDateTime: 2020-10-28T14:48:00Z

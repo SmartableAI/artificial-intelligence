@@ -69,22 +69,6 @@ related:
         width: 760
         height: 506
         isCached: true
-  - title: "With 25 years at Microsoft, Mike Tholfsen is old school — and a champion of education accessibility"
-    excerpt: "Long before COVID-19 thrust how we teach and learn using technology into an uncomfortable spotlight, Mike Tholfsen was imagining the tools that would make learning more inclusive and empowering"
-    publishedDateTime: 2020-10-24T03:30:00Z
-    webUrl: "https://www.geekwire.com/2020/mike-tholfsen/"
-    ampWebUrl: "https://www.geekwire.com/2020/mike-tholfsen/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/mike-tholfsen/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 92
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/Mike-flying-photo-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Microsoft Unveils Lobe; Will this Make AI Mainstream?"
     excerpt: "Recent trends such as decentralized cloud computing, adaptation of GPU for general computing, increasing availability of big data sets, and advances in deep learning, a subset of AI machine learning, has spurred a modern-day AI gold rush. Global investment ..."
     publishedDateTime: 2020-10-26T00:00:00Z

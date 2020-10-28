@@ -63,22 +63,6 @@ related:
         width: 760
         height: 506
         isCached: true
-  - title: "With 25 years at Microsoft, Mike Tholfsen is old school — and a champion of education accessibility"
-    excerpt: "Long before COVID-19 thrust how we teach and learn using technology into an uncomfortable spotlight, Mike Tholfsen was imagining the tools that would make learning more inclusive and empowering"
-    publishedDateTime: 2020-10-24T03:30:00Z
-    webUrl: "https://www.geekwire.com/2020/mike-tholfsen/"
-    ampWebUrl: "https://www.geekwire.com/2020/mike-tholfsen/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/mike-tholfsen/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 92
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/Mike-flying-photo-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Microsoft, Adobe, C3.ai Launch Tool To Help Predict Revenue, Product Demand"
     excerpt: "(RTTNews) - Microsoft Corp. has joined with Adobe Inc. and enterprise AI software provider C3.ai to launch a new tool that would help customers to accurately forecast revenue and product demand, among other things. The C3 AI CRM powered by Microsoft ..."
     publishedDateTime: 2020-10-27T13:36:00Z

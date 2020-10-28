@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-28T14:54:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/247171_web.jpg"
