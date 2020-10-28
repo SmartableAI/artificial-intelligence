@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "FRDMROBOTICS"
   url: "https://twitter.com/FRDMROBOTICS"
-  followers: 397
+  followers: 396
 
 size: 11-50 employees
 yearFounded: 2018
