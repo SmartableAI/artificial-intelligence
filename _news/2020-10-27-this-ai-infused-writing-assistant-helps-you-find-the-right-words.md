@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/90568455/writing-suggestions-ai21-word
 webUrl: "https://www.fastcompany.com/90568455/writing-suggestions-ai21-wordtune-grammarly-alternative?ref=hvper.com"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/10/sale_48032_primary_image_wide.jpg"
         width: 1200

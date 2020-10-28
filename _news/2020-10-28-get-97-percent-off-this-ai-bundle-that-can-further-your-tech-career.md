@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-27T20:00:00Z
 originalUrl: "https://www.extremetech.com/deals/316665-get-97-percent-off-this-ai-bundle-that-can-further-your-tech-career"
 webUrl: "https://www.extremetech.com/deals/316665-get-97-percent-off-this-ai-bundle-that-can-further-your-tech-career"
 type: article
-quality: 37
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.extremetech.com/wp-content/uploads/2020/10/sale_48032_primary_image_wide.jpg"
@@ -39,6 +40,6 @@ related:
         height: 721
         isCached: true
 
-secured: "j5g7/6cPW8iWEamsRWgcr4i+d8GDxnfl8+/XwLwjcjdcc16ubdYYX6G9fu3s7vLj7+jkcQs37kcPtxXE3e/+nEKOcWuIr23UmvRlZ2rN8yyv9P72G7FEawyllwN6jwtZqR92um0JlUzJ1LtfCt8ezmZkKqIKDw1bvUFUptJRfh760CIEco0KoIlVCvW+rQQl9tP7kNrTFpzxOP4V2+nuoPW9FjE6b/l2GYzf8/VBUWjpSOrS5DBnAAkHjh/PZBIVdetbUHV0sIroE3K+d3zYtDHYc6jVcA+6cOKekmgKtvRsPmo+JHlqKBjuxfqOt+/N1zYaWnmKb80a2oyDybqOT1izmf6+3rhTkL50isiWHGM=;UX4PazZx12yj7JyrvCtxLQ=="
+secured: "aNeK5XNaSQCbayz/9IqQHlrgYjtsTPZgZhD4hT9R8oVisNwFfP5DDK1foohcpMG79CWC1tAr6F38bDXxJ/PxPGNWyeHFBYhjylZ3CCq14e3T2yCFdVYsCLboTQnxxNtn470qjeSk6vB74grArTMj00ovd2BJaQShiQJHYp4Xlggpqj52/2qiUmPlzY3ty5iuHDSmmr07bMFgUc3ZHCPkEAGF/+fQKk00xgZZhlJyFObqit6kf/Oz9FqPZ3yt/ifplIrz9xo6SgEhMsJBQklM3egPOO2BA0mpew5H8QmXkWJxkT8+fJkhzpo5UMwaTSQW+Y1hW+tCTO9Va000/GlECRhrfAvaqieAamcbDbxA4b6LTaKWsGcRm3+LtImqhppE+JQt+A5zE0wBuu7YNBIr+UUqDVNlh2pu/Tge7fCUsTIerVCf6kNbFRU2iEnAjsJpyUz63c5A2Flv5qyzzVmda0ywsd9zPWJBWdGUwLnTQHLDpu2t4OIe8qxZjDIybd3cyj+K4zf8O0YkekBKFT1hEg==;2/9etMIfzfp9PvjA0Ij9Pg=="
 ---
 

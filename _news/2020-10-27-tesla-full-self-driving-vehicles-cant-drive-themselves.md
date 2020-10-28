@@ -553,20 +553,6 @@ related:
         width: 580
         height: 326
         isCached: true
-  - title: "Tesla: $8K ‘full self-driving’ software upgrade still needs driver supervision"
-    excerpt: "Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still ..."
-    publishedDateTime: 2020-10-23T06:35:00Z
-    webUrl: "https://www.wraltechwire.com/2020/10/23/tesla-8k-full-self-driving-software-upgrade-still-needs-driver-supervision/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 35
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2017/11/tesla_dashboard_autopilot-2880x1050-1-e1522574545164-1024x489.jpg"
-        width: 1024
-        height: 489
-        isCached: true
   - title: "Some Tesla drivers may start testing ‘full self-driving’ software this weekend. Here’s a look at the hype — and the safety fears."
     excerpt: "Buried on Tesla's website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
     publishedDateTime: 2020-10-23T14:39:00Z
@@ -623,6 +609,6 @@ related:
         height: 640
         isCached: true
 
-secured: "UGzCoOADy3v8hO7x7EByz+V96IzJhQkPu/xXrK5vnuIx2Iy4OpzlRZDZAIRihLA7+lQntIug7wgxvhQrL4vDQ8WxubzCy6SEpCivThfDSLgzpn7X/3/ZKi1FojiSuZhxAPmGknc8RywApvPJiypwmcPromMyaduVNVZtOhwprRPbhiDef60hqkhNtybCaerTKNwsI1G+ToquhvM2vnXXyxi/xd3+X87WkaZlPKWj3BGkm8C6o1m1wH9MyF8FgLBjKZKtDXv3k22c1tQb4WEeB+UUvoHylUtK+xhK2j+mrUZasWVfMZcn+h0qh3+qyrEHS55DE/pz1uQDLZRZ4jQ+o3jKkjJ+I9ZYLks+bod6MSU=;N4LMfJGPZT0EdeVFt3a4sA=="
+secured: "Gg/l3mLszVkbqdOJzYBz2TTUrQaCxXyFzpudI0EWQ0it9ulbnbLzA+ENvtOcD50TyUw5JNKsHhgl/VWlBFx9Eoj5Tu5DaGKVtHNFrNbC4tT0pWgJpjRBaP5+g8egvMzrXRgR7Q4HuSxo/AApNSHWuNZ8w2aqkuBC+SPitHy3zw3/U4eHFacO+N8h2O253fCrT4iFNp43RbBl5eyAGxIyJkLdjB6g+7wltMAFDQENiwkYC2HWI7EcStVFiFGfXJhX2wGNqqOyGmWTNndDig+BZXDCXryXOKv3IDMhwxmvJZ9S02zFmlIOSjvvtWZhcZdfdVSCazW8VCzIUsWjzpNfIsoV9kj8lfkANqpMvebrxsRHNmn1y8SZCh3rbR2DuJbfBs0Y0jnD66o4f/u+jarGZIZTHtiDT+W366IdCvkJAP6LBWtKVsbac5KbbFUmm/kpRrtUcuP/ErymtEu7W+EUR/Cvcyg3X+lHhm0G1yZKYBGiv/lwJc+tDhhhWjI6IAAufMfdp79M7npYDmmz8VZF2Q==;qouRqpLS1irI87mtQpPk7Q=="
 ---
 

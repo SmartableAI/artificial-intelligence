@@ -569,20 +569,6 @@ related:
         width: 580
         height: 326
         isCached: true
-  - title: "Tesla: $8K ‘full self-driving’ software upgrade still needs driver supervision"
-    excerpt: "Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn’t make the vehicles autonomous and drivers still ..."
-    publishedDateTime: 2020-10-23T06:35:00Z
-    webUrl: "https://www.wraltechwire.com/2020/10/23/tesla-8k-full-self-driving-software-upgrade-still-needs-driver-supervision/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 35
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2017/11/tesla_dashboard_autopilot-2880x1050-1-e1522574545164-1024x489.jpg"
-        width: 1024
-        height: 489
-        isCached: true
   - title: "Tesla is putting ‘self-driving’ in the hands of drivers — but critics ask if the tech is ready"
     excerpt: "SAN FRANCISCO — In a year when Tesla might have been forgiven for extending its timeline on a key initiative, Elon Musk is forging ahead with a vision for what he calls “Full Self-Driving.” This past week, a group of drivers was selected to receive a ..."
     publishedDateTime: 2020-10-24T13:06:00Z

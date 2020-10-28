@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Former Fortune 100 CTO joins AI Startup Censia as Advisor"
-excerpt: "Deborah Leff, former Global Leader and Industry CTO for Data Science and AI at IBM, has joined AI startup Censia as a board"
+excerpt: "Deborah Leff, former Global Leader and Industry CTO for Data Science and AI at IBM, has joined AI startup Censia as a board member,"
 publishedDateTime: 2020-10-21T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/former-fortune-100-cto-joins-ai-startup-censia-as-advisor/article_2022fa84-2389-5e3a-9a62-49213ebbcc8c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/former-fortune-100-cto-joins-ai-startup-censia-as-advisor/article_2022fa84-2389-5e3a-9a62-49213ebbcc8c.html"
+originalUrl: "https://www.prnewswire.com/news-releases/former-fortune-100-cto-joins-ai-startup-censia-as-advisor-301156613.html"
+webUrl: "https://www.prnewswire.com/news-releases/former-fortune-100-cto-joins-ai-startup-censia-as-advisor-301156613.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "AZugP84mDSbkmL+nqsTAN2K0XEu8v7B6BU+KSLwBkV0+yJiHdA9vMcHd5GYlVkgJFT6+6pHg6DABXP5QRkwLyf17L7oWUnWTQCHD95PuZmATDTD0/lTTr1tvIKSHDz/Dyzj6zpZ+pQzXlZoaZIGClEYbd5uQ4eAXHllvey8vKvguT/DtcTsFPJKQqvtlk8tKgXSlM2a2bNKmdzboLnP62tRJc+j06dH40E+kQlHrxnVvxXR7XNSQxu4Tp4sbjuQWywZpo9tCOJntU7HHDvYvpAtertVoU7TdNuvyQlJGorfmcVxtivHAXN4n2pugtQkQoWMMzHYEUfL0Dcrg5NdX1oCyRZQYnBdrnUXR3O4cOWw=;7qv4MnqMEURnNdpN4Qko7Q=="
+images:
+  - url: "https://mma.prnewswire.com/media/997139/Censia_Logo.jpg?p=facebook"
+    width: 1423
+    height: 748
+    isCached: true
+
+secured: "75PNbkw1fxb2DBQBrXedJE1MU/3A0MIPrMLypkQciQwQCYzA429op11t6hi7n8kQl1NkT+VDFSn6JG5/7cCYHjzpa0ieUXSjkFXWtC/oktBRwpZNw4Pn2DE5rbsEQG2JB44LXVqnJmjdUHxjYla5Ge54UKrS7lw0Tg7USMVccbCI2Wil3jGD596drGodGmLKhDDcGvCTEw+/XGxhH2JCUBmtj/W2z0sBQHgG+tP0ceJUMdf/4wMvsF5/g2ISqueJ//IYvLNLLBBEBZVjyczaXvxesKzKOS8GKyc0sNQb+IENHcDFP6karIn/iI3gwg1Faqb/wOjkGrqSU0ehJe+R7xJaDAQUTJuAp3KSqhf68Yg=;lG6VodKDVOQpsQ0twUAesQ=="
 ---
 

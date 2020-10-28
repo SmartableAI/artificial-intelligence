@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Humanising Autonomy delivers industry leading VRU perception on Ambarella CVflow® AI vision processors for next-gen dash cams"
-excerpt: "Humanising Autonomy, a predictive AI company, announced today it is working with Ambarella, Inc. (Nasdaq: AMBA) to deliver cutting"
+excerpt: "Humanising Autonomy, a predictive AI company, announced today it is working with Ambarella, Inc. (Nasdaq: AMBA) to deliver cutting edge perception and human behaviour analytics for advanced driver assistance systems (ADAS),"
 publishedDateTime: 2020-10-27T09:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/humanising-autonomy-delivers-industry-leading-vru-perception-on-ambarella-cvflow-ai-vision-processors-for-next-gen-dash-cams-301158379.html"
-webUrl: "https://www.prnewswire.com/news-releases/humanising-autonomy-delivers-industry-leading-vru-perception-on-ambarella-cvflow-ai-vision-processors-for-next-gen-dash-cams-301158379.html"
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-photographic-equipment-and-supplies-manufacturing-consumer-electronics-manufacturing-consumer-products-and-services-consumer-product-manufacturing-479bc3106fb16fe4db31b299c3d9f25c"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-photographic-equipment-and-supplies-manufacturing-consumer-electronics-manufacturing-consumer-products-and-services-consumer-product-manufacturing-479bc3106fb16fe4db31b299c3d9f25c"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "OdIvVYwP5zURJHOS+mitwpvK6bg5FfCflSaXrGAkaNBGmQilR5oylEjv1HSIBmScBK9BaU5T9Q6PnCUKVr61R5O+s8MNsvLryXkvVEiysH5f1GRnMFild/h0Rx+FaPM5uYFNpl+LoB0wQYYagl8uArRh8kDEfYaJv6S+XpjvE7kt2OwaGGyga9fnmTafFlJMnWyqhyI5riG5NQrjVNYm5x6to/fRUWDBkC/0QrCjyktcZ7KO+PccFlYXBWTrbhfh7SO3+B1xXetCrzfRtmjKDqfaClvq2CVdZWjLOtp8XkyUEP0ySzHgjHX5YcHyPKiN8CfvITrHUeN4ixiYPz/oeZk9KYaN4GSlMzSTR+ssee8=;tYgdDhpbdTCiq+N9hrti5w=="
+secured: "ej4ptfmMimdQWD1XArPcOe3v5oySseYcTg10f6TZJerFaf/x2eZslo3S+IG748BmGrsrkD2tBHUwsjqj0h3jwvTexYpx+TEJyHLE+3yDKk7tuWM5m2aS+N/miFqNuAtBQvlTrUNt8fPPY7hgpElCGewDAq9cZSSwj3Vv/FEMLXzd3vN/Dn2KLjCjeiWkzfljLUbNmdSEzSx32CaVbfu/EqUJjQxIUy6Gruls/OE8IYXVzTuR8HeS5dnZKydxiAOdHvOB6WQoYY5gZB3gtD22kcbOvNXwQOgYaqIq2QgSYnRbsPK1SP6D8c4BUqJdjModwdEnhm84tswzbL5ZSsWwug3N9UPFvfZt6g0YhQFgVk0=;aWxzFfUPnpthtd2EekmWXQ=="
 ---
 

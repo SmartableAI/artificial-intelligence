@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "How Artificial Intelligence is Transforming the Insurance Space"
-    excerpt: "When it comes to digitization, the insurance space hasn’t particularly been at the forefront of leading in technological innovation. And it’s only fair as a colossal amount of regulations combined with thousands of users’ sensitive information makes the insurance industry cautious in adopting new technologies."
-    publishedDateTime: 2020-10-23T05:33:00Z
-    webUrl: "https://customerthink.com/how-artificial-intelligence-is-transforming-the-insurance-space/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 41
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
-        width: 3608
-        height: 2336
-        isCached: true
 
 secured: "jjWwCjsWo27CnaTztHb2XpJw04T9Cj8k08WHlKjcMTh9LooZT9bde6Ks1jFYf6hV3SFXRsTLDmKjtfCNMz07y2UO43Al38D3GZLO7cxvOjEIdTPIcur/QE7b5wbe4vTy3B5OM3DNmbg0PzeBt/sc9VeDvwDDZn/X6wR2+E6M7R/+2/so0+8EcNvEg42jwE8c+3IIQ7CPd03aKDExXPU2FHeFJgueBg1QGCTkZbFp+XWUvTSaDc+YfBDhBNuvoRzFujKakoW+VL8wlUrNscA/GwPwPdVdrT01jEJbPkbdaQ8RVMcB2X44n6hQIN13wpTxS3I3DRb3MXVCPuSxnPcVkuAGfxaihwIQVSxwAm5vYDc=;YYtXyxtkK6doyLn6Sy4+Og=="
 ---

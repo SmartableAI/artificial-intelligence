@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/10/201026164900.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/10/201026164900.htm"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Researchers create AI system that matches tumors to best drug combinations"
-    excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA)."
-    publishedDateTime: 2020-10-23T06:17:00Z
-    webUrl: "https://www.news-medical.net/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2015%2f3%2fTumor_3b927f3db0dd47538f7791b7e005ae6a-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI Reportedly Matches Tumors to Best Drug Combinations"
     excerpt: "University of California San Diego School of Medicine and Moores Cancer Center say they have created a new AI system called DrugCell that reportedly matches tumors to the best drug combinations but does so in way that clearly make sense."
     publishedDateTime: 2020-10-23T20:00:00Z

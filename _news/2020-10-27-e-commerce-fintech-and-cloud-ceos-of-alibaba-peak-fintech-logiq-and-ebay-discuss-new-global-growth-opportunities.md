@@ -22,22 +22,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Leading Fintech Companies Predict Phenomenal Growth in Contactless Cards and Touchless Commerce across America in 2021"
-    excerpt: "The event will bring together eight pioneering companies whose combined reach spans across multiple countries and services millions of consumers. This dynamic group of leaders in the payments industry are disrupting the ecosystem through touchless commerce solutions and innovative technologies."
-    publishedDateTime: 2020-10-27T17:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-virus-outbreak-financial-technology-lung-disease-8cddee96e8eb876a239ab0fd6a276c32/gallery/dd1c4270bcca21f4ee1e100a34beca64"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "lY4mkWfjsdBxnH1oI4ZpH8xHqIV3X16su3LsQwnLtY+l9k05zCkfgpnb/JE333REiZyJoknUrzq9VXAby3Ec+VRk6fzvzlOJc8FE7RpEuvJSimZ6NaLaXGmQJ9RDPY0+deIrzoBTqWFn2Ynr9vdyvHX42qhWOIi38yoPwcwUFBDvvsXD6IaQM0LAwJfh1dXhIJLa5CBLeTWFy+clupLoN2kK3dpviiwtQhQuMNU6gCLBPlN25WlzguO+g3R90MrhlDrLdnnY36ElYAmUJPfEczYBp4G2nxgIuY4r/Y739WT04H6+fJsNAlA3cNG9pwVNRknX8yxXpbkeSVPXdJYfacmi0E5+2Rf9aZ2V3q2y2ls=;Ul1xoXaUp5iHWNiD5IE3kQ=="
 ---
 

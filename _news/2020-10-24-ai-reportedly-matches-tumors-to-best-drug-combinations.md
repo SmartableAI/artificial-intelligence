@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers create AI system that matches tumors to best drug combinations"
-    excerpt: "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA)."
-    publishedDateTime: 2020-10-23T06:17:00Z
-    webUrl: "https://www.news-medical.net/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2015%2f3%2fTumor_3b927f3db0dd47538f7791b7e005ae6a-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "DrugCell: New experimental AI platform matches tumor to best drug combo"
     excerpt: "Researchers use experimental artificial intelligence system called DrugCell to predict ... and combinations of drugs to best treat the malignancy. Precision cancer therapy is already available at Moores Cancer Center at UC San Diego Health, where patients ..."
     publishedDateTime: 2020-10-26T00:00:00Z

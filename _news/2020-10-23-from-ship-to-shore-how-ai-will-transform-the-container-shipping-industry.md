@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/from-ship-to-shore-how-ai-will-transform-the-container-shipping-industry/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is Transforming the Insurance Space"
-    excerpt: "When it comes to digitization, the insurance space hasn’t particularly been at the forefront of leading in technological innovation. And it’s only fair as a colossal amount of regulations combined with thousands of users’ sensitive information makes the insurance industry cautious in adopting new technologies."
-    publishedDateTime: 2020-10-23T05:33:00Z
-    webUrl: "https://customerthink.com/how-artificial-intelligence-is-transforming-the-insurance-space/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 41
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
-        width: 3608
-        height: 2336
-        isCached: true
   - title: "How Artificial Intelligence is Transforming Architecture Industry"
     excerpt: "Artificial intelligence is transforming the architecture industry by analyzing huge amounts of data, saving time and efforts of architects"
     publishedDateTime: 2020-10-27T06:40:00Z
