@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Watch early testers try Tesla's Full Self-Driving mode for the first time"
-    excerpt: "On Friday, we finally got a glimpse at a long-awaited feature that Elon Musk rolled out this week for a select group of Tesla owners: Full Self-Driving mode. Only a small group of Tesla-chosen ..."
-    publishedDateTime: 2020-10-23T18:26:00Z
-    webUrl: "https://mashable.com/video/tesla-full-self-driving-early-test-drives/"
-    ampWebUrl: "https://mashable.com/video/tesla-full-self-driving-early-test-drives.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-early-test-drives.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 88
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F10%252F23%252Fd2%252F48c38dd430d84e6bb64dc47643ea67e7.6a961.jpg%252F1200x630.jpg?signature=Wzt3HAjZm8sE5SgscR16FQXo_fQ="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ Is 99.9% There, Just 1,000 Times Further To Go"
     excerpt: "This week, Tesla TSLA released a very limited beta of what Elon Musk has referred to as “feature complete full self-driving” to a chosen subset of their early access customers. It also announced a $2,000 increase in the price of the “FSD in the ..."
     publishedDateTime: 2020-10-23T21:51:00Z
@@ -69,22 +53,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ beta test has caught the attention of federal safety regulators"
-    excerpt: "Federal regulators are keeping their eye on the rollout of Tesla’s “Full Self-Driving” experiment. This week, the automaker began beta testing its latest advanced driver assist software with a select group of customers,"
-    publishedDateTime: 2020-10-23T17:57:00Z
-    webUrl: "https://www.theverge.com/2020/10/23/21530411/teslas-full-self-driving-beta-test-nhtsa"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/23/21530411/teslas-full-self-driving-beta-test-nhtsa"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/23/21530411/teslas-full-self-driving-beta-test-nhtsa"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 79
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/iUedBadAknKFELG0WBqm7ZD4N3k=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67679166/acastro_170727_1883_0001-2.0.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Tesla beta testing \"full self-driving\" system worries drivers, pedestrians — and even owners"
     excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own, it turns out ..."
     publishedDateTime: 2020-10-26T19:50:00Z
@@ -100,22 +68,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3422644/201023-tesla-car-charge-ew-538p_f824f07adced2e84056d1439b9cad104.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Ford Mustang Mach-E Electric Car Sees First Firm Dates: Tesla Model Y Rival Revs Up Production"
-    excerpt: "E electric are seeing hard production dates. Several people who placed orders for the Ford Electric crossover are receiving notifications of production dates of December 7, 2020, according to posts on the Mustang Mach E Reddit forum and the Mach E Club."
-    publishedDateTime: 2020-10-25T19:21:00Z
-    webUrl: "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/"
-    ampWebUrl: "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f93de099eb2528efb937002%2F0x0.jpg%3FcropX1%3D193%26cropX2%3D1526%26cropY1%3D0%26cropY2%3D750"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Videos of Tesla's new 'full self-driving' software look futuristic — but show just how far it is from full autonomy"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 There's still no such thing as a self-driving car, but you wouldn't know that from hearing Elon Musk or Tesla talk about their ..."
@@ -240,6 +192,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/full-self-driving-beta-release-is-tesla-s-most-irresponsible-move-so-far-150642-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "Telsa Releases Full Self-Driving Mode Beta Update"
+    excerpt: "Tesla has enabled new full-self driving features for certain customers. The new features include the ability to automatically steer the vehicle while on city streets, and Tesla plans to increase the price of the package by $2,000 in the near future."
+    publishedDateTime: 2020-10-27T13:01:00Z
+    webUrl: "https://www.infoq.com/news/2020/10/tesla-full-self-driving-beta/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 24
+    images:
+      - url: "https://res.infoq.com/news/2020/10/tesla-full-self-driving-beta/en/headerimage/tesla-full-self-driving-beta-header-1603629903593.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "9UuEgqsS/HrkIfyBCeP7Gz9Oi6ns4esGDV79SRwBBqyQBN9b7mAo5DvQNADY9t0e+jwExetR9pXe8F5aWfakheCtbvlK0UVgrum8vEItpa3YtDZAAJiejOw3GlH+6i66Hi/hX0MfPRwEVlB7+XwvPVNvhc0jEEtXnd7+tkAO+DBigmjTNRl6JHaZykBblXV1cYZ5g//l1ulZT9dwmliUtIZX1di2VGRV0QuNmpqMsi43tKo28kw/kyzXj9HIHZw+zpH1cFvrG3b6E+TX4ouDRq8hqJcnZQyn1q6CZ6FdQSQe1JHbqAek5AlMT/n5TE9vdZy2eMxTAw6jDBZETHrPavB9uJriYiSazILd/8PW3OrnAYm/Om1dmy0MTY6NjpkIKb4hAN6FGDbR0ySmsnMJKfcGojwt5DPj9mg/kxr2WBb2Aovn0/VdFnXyAm3W8FZKMnxYn/egSa3yAwsCSwgalQDkCH28vfNwSeXYDztBLU3sgu7s4QbjX/Nf1LUmf6EacSMDPQI4F83Ydr/x6M2RmA==;/HJFS9YwfMRI0MztF+GQAQ=="

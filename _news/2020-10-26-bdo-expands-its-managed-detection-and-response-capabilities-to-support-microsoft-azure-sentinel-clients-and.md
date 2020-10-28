@@ -3,25 +3,25 @@ category: news
 title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ..."
 excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,"
 publishedDateTime: 2020-10-26T14:01:00Z
-originalUrl: "https://www.thedailytimes.com/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_10ca99a4-1e8d-5158-b85f-f01ecf8b6a08.html"
-webUrl: "https://www.thedailytimes.com/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_10ca99a4-1e8d-5158-b85f-f01ecf8b6a08.html"
+originalUrl: "https://www.dailyrecordnews.com/ap_news/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_64b345bf-344a-53b7-816e-43b32ba52bdb.html"
+webUrl: "https://www.dailyrecordnews.com/ap_news/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_64b345bf-344a-53b7-816e-43b32ba52bdb.html"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: thedailytimes.com
-  domain: thedailytimes.com
+  name: Ellensburg Daily Record
+  domain: dailyrecordnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-    width: 600
-    height: 600
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -68,6 +68,6 @@ related:
         height: 627
         isCached: true
 
-secured: "a3rj9U7RFEumHjcXeneaGygqv6RYMBhwNjD+knxmyCdfkJgB+pfcXD+W7UXmHz86yR2uhomLxt8kSqtyLujpYy0AVfhM9N3nEPyPeoc6UQdaZjrLTb0iuHI1fCbi16TDLYWUjb5/uCeq/d+deZMBmWFgrUKH5QbC5A4ohzbD3kiEaH/VnjZO4LKKTa+QjomD9W74CHo4HIeP7nYNrUE7sv91pz/djUOFU75U0wNp0nVDphHTWc6tD57Rb4A3SudFv8lVsx53OuyVAZ8jpvXonR0plNI5gtbQmV7iMnZ2H6xrGIYnxuHr1W6SOEhTN9GJRTzqYKCcum3qQogpV7o08OTGtEAeGr9gkIxSvs1UBzE=;inrl9P4JD+8WP8aB3v84BA=="
+secured: "IlHqEIZfeBERQBN+oHNIhTmv75TlrWWOrPN1sndf6ic5POt+iaI+cT+8FMgCrIXlWZBnCwEgGevvS4FItDUfPvX+bt2tZ6TNu0508RGIjBMw0vOVC0pt8T0i52FbNYAXrXIpygKDmExV2ExeaTWM4Ds0zs6qx+A5hJxhbL1nS6pa5+MJA08uI0kZqOYoH/Dt39AMc3I67ex37oF59iIF3bp59h32wt+y7bq0rVUBwIciOphezXTQLdRR8ttiIi4U/oqi9wQHu7IhoKA1l9TZvItf4u3JU/I8oUatbLqqckHzaGLGmpQOpfvmw0KWZpSBW6tgWiUD1ncV7Zy34+2s6qsaQbTfsPBKF59fds27vRw=;vanwiyCaFj6DoguBWIKTSQ=="
 ---
 

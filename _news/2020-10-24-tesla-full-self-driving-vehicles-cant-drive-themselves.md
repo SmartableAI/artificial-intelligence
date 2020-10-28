@@ -73,17 +73,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla Full Self-Driving and Autonomous Driving Levels Explained"
-    excerpt: "Full self-driving. That was the key takeaway from Tesla’s (TSLA) report the other night. Dave Bartosiak here with Trending Stocks. You can all kiss your Elon Musk effigies and light a couple candles at your shrines because he has done it again."
-    publishedDateTime: 2020-10-23T17:11:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-full-self-driving-and-autonomous-driving-levels-explained-2020-10-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-full-self-driving-and-autonomous-driving-levels-explained-2020-10-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-full-self-driving-and-autonomous-driving-levels-explained-2020-10-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Tesla debuts ‘Full Self-Driving’ beta, but it comes with a warning"
     excerpt: "Tesla has debuted its much-anticipated \"Full Self-Driving\" (FSD) feature in beta mode, allowing select Tesla owners to experience the next phase of Autopilot."
     publishedDateTime: 2020-10-25T16:22:00Z

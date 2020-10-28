@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Advanced Technologies Of AI in Fintech Market Key Drivers & On-Going Trends 2020"
-    excerpt: "AI in Fintech Market has been riding a progressive growth trail over the recent past The first two quarters of the year 2020 have however witnessed heavy disruptions throughout all the industry facets which are ultimately posing an unprecedented impact"
-    publishedDateTime: 2020-10-23T18:14:00Z
-    webUrl: "https://www.openpr.com/news/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers"
-    ampWebUrl: "https://www.openpr.com/amp/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta23653869_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "On The March: Ant Group, China's Fintech Sensation"
     excerpt: "With a name belying its giant ambitions, China's Ant Group on Tuesday launched a history-making $34 billion IPO in Hong Kong and Shanghai. Backed by Jack Ma, China's richest man who founded the Alibaba e-commerce empire from his bedroom two decades ago,"
     publishedDateTime: 2020-10-27T05:45:00Z

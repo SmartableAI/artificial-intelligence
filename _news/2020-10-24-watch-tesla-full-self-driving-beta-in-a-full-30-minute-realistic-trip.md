@@ -63,17 +63,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla Full Self-Driving and Autonomous Driving Levels Explained"
-    excerpt: "Full self-driving. That was the key takeaway from Tesla’s (TSLA) report the other night. Dave Bartosiak here with Trending Stocks. You can all kiss your Elon Musk effigies and light a couple candles at your shrines because he has done it again."
-    publishedDateTime: 2020-10-23T17:11:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-full-self-driving-and-autonomous-driving-levels-explained-2020-10-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-full-self-driving-and-autonomous-driving-levels-explained-2020-10-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-full-self-driving-and-autonomous-driving-levels-explained-2020-10-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
     publishedDateTime: 2020-10-24T08:28:00Z

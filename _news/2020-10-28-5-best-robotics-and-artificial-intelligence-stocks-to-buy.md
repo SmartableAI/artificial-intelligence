@@ -1,13 +1,13 @@
 ---
 category: news
 title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
-publishedDateTime: 2020-10-28T04:25:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
+excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
+publishedDateTime: 2020-10-28T05:40:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 91
 published: true
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
+  - AI in Autos
   - AI
   - AI in Robotics
 
@@ -39,7 +40,21 @@ related:
         width: 878
         height: 500
         isCached: true
+  - title: "The Future of AI, Ethics, and Defense"
+    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
+    publishedDateTime: 2020-10-26T16:25:00Z
+    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
+    type: article
+    provider:
+      name: German Marshall Fund
+      domain: gmfus.org
+    quality: 54
+    images:
+      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
+        width: 1400
+        height: 600
+        isCached: true
 
-secured: "fzkddg4NqaG7INcIXdTBqi+Atrhj1pHNdA9AFCgpT7yFQ2/Wmdk8s0FQ4jaVU/i3CZ1YIGy5LkyZyoFoR41rnqLk+ShkmmQPYzdlQAMaW5UTQKdMnw9lhfBvkt1wx1X37NmaRjtt9L3P+oCnQaVa9tiN5zVk8+ZHMsUKc/Xe2T4hdYijNoYhgiSetLNOfxC0S7GyWcfo94XTXHHbRQKD15phcUxrwg2xA2lodhjtA5cQ5ItcACXemu/kWPpABQyUkrIaH27pxFCTmDL0Zt32ayCxVMiocf7zvWcpyNIgDC1NT1DLoOUteoHgIZOXvSaa8oKDMwR0QPjVZAev8Fx3Hr1daApcGZ1W5iyglZsTfzQ=;Gf85qv6TrOctUFgQM2nn3g=="
+secured: "t+foNuC5UsXkjNEuVCWb5C0STajnXHM1DbpSqzlBn1rqHz3QYmabWMl3CX1TWJZ5i7pklF58Wy69td1gnmXy8s2FhfN7mTj1dRQ6FncUlJm2rc0INo5eD/Jt1FzWt3m3naS7lQcom9Pp9CKqJxPJhzCydYeztWr1+DGsRPiJUPYBIwTAXUIbBVZlLPI0tyqs0sNW6IGTIMg3s5t4aC6Hd0246qfxwHcpEQ5KHsKYUS7sYzWOPsh2/amiI5uM7lB7p8nYrgRMNwYuv/hVHs9gHuq5JpWLGL04PbMdRIbbQGRdxar2fJE+YylCY+JRb4yT7EqbQcPTt434z5sX5Gljnh6yc7tHO1vOMfMzEDW0Qiw=;efm3zkG1awSVGH9xzh6zVQ=="
 ---
 

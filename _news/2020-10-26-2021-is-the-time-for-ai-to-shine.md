@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.crn.com/resources/0262-10ae6f85c9c0-ea4cc5ac5ea6-1000/ai-400.jpg"
         width: 399
         height: 399
+        isCached: true
+  - title: "A|I: The AI Times – The wrong stick"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2020-10-28T10:02:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-the-wrong-stick/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/09/artificial-intelligence-4389372_12801-1024x682.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "AI and the Legal Business Model: Why Time is Up for the Billable Hour"
     excerpt: "If law firms fail to adequately respond to new imperatives, they not only risk losing an important opportunity to grow and scale but perhaps they even threaten their ability to survive at all in the quickly evolving legal landscape."

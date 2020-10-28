@@ -9,8 +9,8 @@ ampWebUrl: "https://appleinsider.com/articles/20/10/27/apple-buys-computer-visio
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: AppleInsider
@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Acquires AI Startup Vilynx to Improve Siri"
-    excerpt: "Apple earlier this year acquired artificial intelligence startup Vilynx with the aim of improving the Siri voice assistant built into Apple"
-    publishedDateTime: 2020-10-27T19:45:00Z
-    webUrl: "https://www.macrumors.com/2020/10/27/apple-acquires-ai-startup-vilynx-to-improve-siri/"
-    ampWebUrl: "https://www.macrumors.com/2020/10/27/apple-acquires-ai-startup-vilynx-to-improve-siri/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/10/27/apple-acquires-ai-startup-vilynx-to-improve-siri/amp/"
+  - title: "Here's Why Apple Paid $50 Million for an AI Video Startup"
+    excerpt: "Apple (NASDAQ:AAPL) has acquired Vilynx, a company focused on using computer vision and artificial intelligence to analyze a video's audio, visual, and related text elements to un"
+    publishedDateTime: 2020-10-28T10:25:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596947%2Fa-circuit-board-with-a-chip-labeled-ai-at-the-center.jpg&w=1200&op=resize"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Apple Snaps Up AI Video Startup For $50M To Enhance Apps – Report"
+    excerpt: "Apple has bought Barcelona-based startup Vilynx Inc, which specializes in advanced artificial intelligence technology, for $50 million in a move to help"
+    publishedDateTime: 2020-10-28T09:10:00Z
+    webUrl: "https://www.smarteranalyst.com/stock-news/apple-snaps-up-ai-video-startup-for-50m-to-enhance-apps-report/"
+    ampWebUrl: "https://www.smarteranalyst.com/stock-news/apple-snaps-up-ai-video-startup-for-50m-to-enhance-apps-report/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/apple-snaps-up-ai-video-startup-for-50m-to-enhance-apps-report/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
     quality: 57
     images:
-      - url: "https://images.macrumors.com/t/Vo_9MuNG9fMJkv1kmMbF-1QiWug=/1600x/https://images.macrumors.com/article-new/2020/10/vilynxacquisition.jpg"
-        width: 1600
-        height: 1192
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2020/10/shutterstock_1709503240.jpg"
+        width: 1000
+        height: 682
         isCached: true
   - title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
     excerpt: "The purchase will also deepen Apple's AI expertise, with around 50 engineers and data scientists joining from Vilynx, and the startup's Barcelona office set to become one of Apple's key AI ..."
@@ -56,6 +72,34 @@ related:
       - url: "https://i.insider.com/5f59078de6ff30001d4e7c8e?format=jpeg"
         width: 2588
         height: 1941
+        isCached: true
+  - title: "Apple Buys AI Startup For $50m In Apparent Effort To Improve Siri"
+    excerpt: "Apple has acquired a Spanish startup specialising in advanced artificial intelligence and computer vision technology in an apparent effort to improve Siri and its corresponding apps. The tech giant bought Barcelona-based Vilynx Inc,"
+    publishedDateTime: 2020-10-28T02:07:00Z
+    webUrl: "https://www.channelnews.com.au/apple-buys-ai-startup-for-50m-in-apparent-effort-to-improve-siri/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 37
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/10/siri.jpg"
+        width: 840
+        height: 441
+        isCached: true
+  - title: "Apple buys self-learning AI video startup to improve apps"
+    excerpt: "Apple Inc acquired a startup specialising in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services. The Cupertino, California-based technology giant acquired ..."
+    publishedDateTime: 2020-10-28T07:32:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/apple-buys-self-learning-ai-video-startup-to-improve-apps"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/28/915569.jpg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "Apple reportedly acquires AI and vision startup Vilynx for $50M"
     excerpt: "Apple Inc. is said to have acquired artificial intelligence and vision startup Vilynx Inc. earlier ... Vilynx offered a “powerful AI Brain” that was designed to connect people with content ..."

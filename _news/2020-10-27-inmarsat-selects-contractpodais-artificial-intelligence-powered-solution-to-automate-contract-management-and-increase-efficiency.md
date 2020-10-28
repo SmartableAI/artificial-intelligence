@@ -23,6 +23,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Research Suggests AI-Powered Contract Management is Priority for Legal Teams | Morningstar"
+    excerpt: "ContractPodAi®, the award-winning provider of AI-powered contract lifecycle management solutions, today released a new study titled “Why Corporate Counsels Need to Digitally Change: Contract Management Usages and Practices 2020."
+    publishedDateTime: 2020-10-28T09:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201028005381/research-suggests-ai-powered-contract-management-is-priority-for-legal-teams"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 9
+
 secured: "CRomWQYhv3vVHZN442pylNnQj+VpGOI/mxzQV+cXqqmh1bSPklDi4+F8Izc/2y4EaEBqetKlo28CjxL3V9OoLTfMPzOEujiJWOyLWbqCLO2T06lGs7+3J7twuTuQAzlBkUCBaqdnM5nnVY72zhblUKYcRE9wYl8rK+q51vDfie86pGWR+wsYe1j3bszw3v4mnINJdsZ4Jo/+Cw+pWfDFZ99fmMbDDg68EeoVvXI15CkB6zajpS5a/loWfeZRvOXv8ubUvgNT26jx+w79h2sqJpM9FweHmuTuW8MpkaeDt3R4GT1DjdgHG4JH2CLcllYc2mYpouoMJPwEWp6XoFSpZ3QTyZWtXWNGCmlVs8njkSI=;QZiWFetmqAIiZwQDHbKB/w=="
 ---
 

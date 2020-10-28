@@ -24,6 +24,38 @@ images:
     isCached: true
 
 related:
+  - title: "Here's Why Apple Paid $50 Million for an AI Video Startup"
+    excerpt: "Apple (NASDAQ:AAPL) has acquired Vilynx, a company focused on using computer vision and artificial intelligence to analyze a video's audio, visual, and related text elements to un"
+    publishedDateTime: 2020-10-28T10:25:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596947%2Fa-circuit-board-with-a-chip-labeled-ai-at-the-center.jpg&w=1200&op=resize"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Apple buys computer vision startup Vilynx for $50 million"
+    excerpt: "Earlier in 2020, Apple reportedly purchased Barcelona startup Vilynx that specialized in artificial intelligence, machine learning, and computer vision. Citing sources familiar with the matter ..."
+    publishedDateTime: 2020-10-27T20:01:00Z
+    webUrl: "https://appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million"
+    ampWebUrl: "https://appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 59
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/38496-73173-18mOPktnUsnga0uOsSudKuw-xl.jpg"
+        width: 1200
+        height: 671
+        isCached: true
   - title: "Apple Snaps Up AI Video Startup For $50M To Enhance Apps – Report"
     excerpt: "Apple has bought Barcelona-based startup Vilynx Inc, which specializes in advanced artificial intelligence technology, for $50 million in a move to help"
     publishedDateTime: 2020-10-28T09:10:00Z
@@ -40,6 +72,20 @@ related:
         width: 1000
         height: 682
         isCached: true
+  - title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
+    excerpt: "The purchase will also deepen Apple's AI expertise, with around 50 engineers and data scientists joining from Vilynx, and the startup's Barcelona office set to become one of Apple's key AI ..."
+    publishedDateTime: 2020-10-27T23:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10-1029729829"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/5f59078de6ff30001d4e7c8e?format=jpeg"
+        width: 2588
+        height: 1941
+        isCached: true
   - title: "Apple Buys AI Startup For $50m In Apparent Effort To Improve Siri"
     excerpt: "Apple has acquired a Spanish startup specialising in advanced artificial intelligence and computer vision technology in an apparent effort to improve Siri and its corresponding apps. The tech giant bought Barcelona-based Vilynx Inc,"
     publishedDateTime: 2020-10-28T02:07:00Z
@@ -53,6 +99,20 @@ related:
       - url: "https://www.channelnews.com.au/wp-content/uploads/2020/10/siri.jpg"
         width: 840
         height: 441
+        isCached: true
+  - title: "Apple reportedly acquires AI and vision startup Vilynx for $50M"
+    excerpt: "Apple Inc. is said to have acquired artificial intelligence and vision startup Vilynx Inc. earlier ... Vilynx offered a “powerful AI Brain” that was designed to connect people with content ..."
+    publishedDateTime: 2020-10-28T01:54:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/apple-reportedly-acquires-ai-vision-startup-vilynx-50m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/vilynx.png"
+        width: 715
+        height: 341
         isCached: true
 
 secured: "f6ys2I6L5ywXMLjDERq0sUio/Icb5Blz4BuoPo0YwdbSqGj6TWykfnYHdT8zUJiZiTIVmM3Et2M/Z6J5kMtsFtQX/X6bS6HRoh25Df/NQ/5Baof4KJYY0bt/JnY6xYtWyuRiy8evrJVX2DSzSf9qcqqIqju1DiDrr3tveg7A231H9psbrZjVEuUUM3fdq5gDNoNb+UFuL729HkMLnPeDtabJ3qsr2zoVDMAgOBia1WYgvBsxLK+a8ggA0MuL/wW57NEdtB26XDvLYVCIGtjet9bUSjP0HyorqU0aqOwwsjIMfLbCOIldIof7XGQLSCgTE+WtLTJcwzB/32fJPXyeIepeXWWo4EdjfBDkbF6+9X8=;WVuWIe+U/tI+1KMXcHq5Ag=="

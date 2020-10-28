@@ -65,6 +65,20 @@ related:
         width: 399
         height: 399
         isCached: true
+  - title: "A|I: The AI Times – The wrong stick"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2020-10-28T10:02:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-the-wrong-stick/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/09/artificial-intelligence-4389372_12801-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "AI are the letters to remember for accounts payable"
     excerpt: "Intelligent automation empowers accounts payable to be more proactive in making strategic contributions to the longevity of the business. With automation and advanced analytics, AP teams can process invoices more quickly. Automation ensures invoices are ..."
     publishedDateTime: 2020-10-27T15:02:00Z

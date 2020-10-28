@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Waymo, Daimler to partner in developing self-driving semi trucks"
-excerpt: "Click here to subscribe for free.) Daimler AG's commercial truck unit and Alphabet Inc's Waymo on Tuesday said they will collaborate on development of self-driving Class 8 semi trucks, applying Waymo's automated system to Daimler's Freightliner Cascadia."
-publishedDateTime: 2020-10-28T05:38:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks/article32960695.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks/article32960695.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks/article32960695.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks/article32960695.ece/amp/"
+excerpt: "Daimler AG's <DAIGn.DE> commercial truck unit and Alphabet Inc's <GOOGL.O> Waymo on Tuesday said they will collaborate on development of self-driving Class 8 semi trucks, applying Waymo's automated system to Daimler's Freightliner Cascadia."
+publishedDateTime: 2020-10-27T19:19:00Z
+originalUrl: "https://www.reuters.com/article/autos-selfdriving-waymo-daimler-int/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks-idUSKBN27C1V0"
+webUrl: "https://www.reuters.com/article/autos-selfdriving-waymo-daimler-int/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks-idUSKBN27C1V0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C1UM"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1UM"
 type: article
-quality: 74
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thehindu.com/sci-tech/technology/7cr5j2/article32960581.ece/ALTERNATES/LANDSCAPE_615/Daimler"
-    width: 615
-    height: 384
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538989863&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q17N"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -129,6 +133,17 @@ related:
     webUrl: "https://www.nasdaq.com/articles/waymo-daimler-partner-to-make-self-driving-trucks-2020-10-27"
     ampWebUrl: "https://www.nasdaq.com/articles/waymo-daimler-partner-to-make-self-driving-trucks-2020-10-27?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/waymo-daimler-partner-to-make-self-driving-trucks-2020-10-27?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
+  - title: "Daimler Teams Up With Waymo On Self-Driving Tractor-Trailer Trucks"
+    excerpt: "Waymo has a new partner. The Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) self-driving subsidiary has inked a deal with Daimler's (OTC: DMLRY) heavy-truck unit, in which the two will work to create self-driving tractor-trailers based on Daimler's Freightliner ..."
+    publishedDateTime: 2020-10-27T23:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/daimler-teams-up-with-waymo-on-self-driving-tractor-trailer-trucks-2020-10-27?time=1603811701"
+    ampWebUrl: "https://www.nasdaq.com/articles/daimler-teams-up-with-waymo-on-self-driving-tractor-trailer-trucks-2020-10-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/daimler-teams-up-with-waymo-on-self-driving-tractor-trailer-trucks-2020-10-27?amp"
     type: article
     provider:
       name: Nasdaq
@@ -272,6 +287,6 @@ related:
         height: 600
         isCached: true
 
-secured: "N0Y6dhsPbY+IfpzUmeyAmp26Dd4dp3I8zWHcSxVaXj2FT6bpndHoeovsbfbb5T+LUMBvKAZ+ATM9p6XfDOK3299OXJLVwZ3s5g4zPlEIpx/VHMRYd6/eyPBTifB2HukdP7XsTU2DN49lcx+yoHzMjOEWs6RabLSMEDUVIgNDWE+EBuvKFoJ4bTa6qM6SaEi2jTj+5QtCTc7T2KlYhySA5hcZ/nry0jEEla+6FdC4kmIAzjEHaNvb8dttQGIv3Htjl2OSO4uPpLN90+9MoW+H7Q21LzV1uqi3t5yG8gkZr0/t43eskT8WWnucopGwF12ljnbrH113M8JIIMmXN1vIvMlfTgHLbB7kGHoTDNXx34Q=;iQNiuDx/vX/xnI3gfoFzVg=="
+secured: "5AGcGREqEg39uLxafjaOlAKegQjvA0stZ/GpFJVFlhMXUy5Gnx0ES7jnysa22IZ1e0G5e1iH6/Sm4qtDGF2A68rU2ZgHsJLHnQXKbQ6d1znVRuQoAimPNJ3ilqawg+8CA5h4UiOaaeMvKhrgAhpcWNj29WMVvYWapa3i8NcPx+/yxZN2yN7KXW3QMKFNs8/pLQFfEJvSFYPz0Vv3aD2/45aa0YHD/JDnLF99R64VJabwgESPlnboY4cpXLmmSrYUeVEsDBV/JrSx1t87+JCNmkma7aELnsTiquG2sI7+qQuL+/Ow1cGHlH0u30HyAjVvF74CnmFaaNXigSKupJDTjYARX25rfVbjoMLgBQYf1/4=;I1JYLGg4FYWCKSv0o3/2GQ=="
 ---
 

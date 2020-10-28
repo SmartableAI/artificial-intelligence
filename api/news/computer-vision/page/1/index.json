@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-28-apple-buys-computer-vision-startup-vilynx-for-50-million.md",
-      "title": "Apple buys computer vision startup Vilynx for $50 million",
-      "excerpt": "Earlier in 2020, Apple reportedly purchased Barcelona startup Vilynx that specialized in artificial intelligence, machine learning, and computer vision. Citing sources familiar with the matter ...",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million",
-      "originalUrl": "https://appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/38496-73173-18mOPktnUsnga0uOsSudKuw-xl.jpg",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million/amp/",
-      "publishedDateTime": "2020-10-27T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-27-skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision.md",
       "title": "Skan raises $14 million to automate repetitive business processes with computer vision",
       "excerpt": "Skan.ai, an AI-enabled process discovery and operational intelligence platform, today closed $14 million in funding. The company says the proceeds will be put toward accelerating Skan’s go-to ...",
@@ -511,8 +468,8 @@
       "title": "Activists Build Facial Recognition to ID Cops Who Hide Their Badges",
       "excerpt": "In order to hold police accountable when they try to hide their identities, a growing number of activists are developing facial recognition tools that identify cops, The New York Times reports — a striking inversion of the way cops tend to use facial recognition on protestors and suspects.",
       "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/activists-build-facial-recognition-id-cops-hide-badges",
-      "originalUrl": "https://futurism.com/the-byte/activists-build-facial-recognition-id-cops-hide-badges",
+      "webUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
+      "originalUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1489,6 +1446,58 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia.md",
+      "title": "Drone maker Delair spins out its computer vision platform to create Alteia",
+      "excerpt": "In a recognition of how the drone business has shifted in recent years, Delair announced today that it will spin out its drone-data platform into a separate company called Alteia. The new company ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/",
+      "originalUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/Delair.ai_Tablet-e1602535031922.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/amp/",
+      "publishedDateTime": "2020-10-12T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

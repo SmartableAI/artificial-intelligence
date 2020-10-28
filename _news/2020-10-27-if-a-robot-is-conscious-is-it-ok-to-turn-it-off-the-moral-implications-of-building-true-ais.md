@@ -44,19 +44,16 @@ related:
         height: 505
         isCached: true
   - title: "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs"
-    excerpt: "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing."
-    publishedDateTime: 2020-10-27T20:38:00Z
-    webUrl: "https://omaha.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_b32028c8-914e-5795-8c24-6ea2d8784cc1.html"
+    excerpt: "What is the basis upon which something has rights? What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing."
+    publishedDateTime: 2020-10-28T02:55:00Z
+    webUrl: "https://www.expressnews.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
+    ampWebUrl: "https://www.expressnews.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: San Antonio Express-News
+      domain: expressnews.com
     quality: 43
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/32/b32028c8-914e-5795-8c24-6ea2d8784cc1/5f986b4ce8335.preview.jpg?crop=1000%2C563%2C0%2C89&resize=1000%2C563&order=crop%2Cresize"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "If a robot is conscious, is it OK to turn it off? The moral..."
     excerpt: "As real artificial intelligence technology advances toward Hollywood’s ... Arguably no machine has yet demonstrated that kind of intelligence. This summer, a startup called OPENAI released a new version of its Generative Pre-Training language model."
     publishedDateTime: 2020-10-27T13:11:00Z

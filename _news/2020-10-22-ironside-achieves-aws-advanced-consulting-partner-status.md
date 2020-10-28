@@ -2,25 +2,21 @@
 category: news
 title: "Ironside Achieves AWS Advanced Consulting Partner Status"
 excerpt: "The journey to AWS Advanced Consulting Partner status pushed us to gain valuable understanding of AWS and services like Amazon QuickSight, Amazon SageMaker, Amazon Redshift, and more, which ..."
-publishedDateTime: 2020-10-22T13:18:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201022005343/en/Ironside-Achieves-AWS-Advanced-Consulting-Partner-Status"
-webUrl: "https://www.businesswire.com/news/home/20201022005343/en/Ironside-Achieves-AWS-Advanced-Consulting-Partner-Status"
+publishedDateTime: 2020-10-22T13:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18014673"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20201022005343/en/832585/23/IG_AWSpartner_Logo.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "j9IdRpXZQGPE3fgrM0qj2g3xolhfABEP9TlYrS8Ff9MYvoFDBoLdUTsBAcA0V4h4ezTlGPkttw+uI5uuj56ijbzR73Va+k70o/6OTXLrY8AgZhRSJIPp//zQHu4B3pZKEhEWUOCrLHRarfQbjUEdznSRJRLKjMdl/G3BMETdv99VZ1iJkG1FNWu8d4MiggAMO/khaw9DFgmfAjfXzm60NdlTp8L+tmgwu0H3vNDXYtiGGb0Jyja0az1Pa05bqRdGM2Kzg7d4hfz+NoXZYHdsehkHb8MTD6lmsYdXgarm5oFoN7m5g0RsEJDroGRm9IlzG7jG1xuHZzDq8YhPuTYZJPfdJKqP8gjdTDZ1DBttu/w=;Z+aC1PP4xd2UVXt7ijYE8A=="
+secured: "80i5EKq3uc1044Z7UioF8jx5Uk9ngRPVsy3WSGk/XDecf57l/8hDUkazesVeWVJbkIAkEZxhqCed/Eg+Rof8eSojFAMdsSbRnAddHf92Vey1MLaETDQ6BMCmuxmfNfkPaxjwwGImgcN1yU8dyv5TOVy+Mw3LsvQ9dP5Wsm2y8jTjwVAhQYY48Oh8thfUnNkWsx7/ZV/7nP1X6YQwANYbMIp5SiWxMpwQyZ6R8OuzgHjxz3yu9vcU7FXc1xUc0kFBYt+/WZrlFHK7I3WXhwk/aGvCK00JTXmmiIItuWg0CaqbuHTu3H70MWkQ+Ty9vUDIuMdEwNXdd2Iuuxvb9bGVvR0/jpXxhwxjzeY7t9ECWWw=;qpgT5YOovRJOtYE4GLveWQ=="
 ---
 

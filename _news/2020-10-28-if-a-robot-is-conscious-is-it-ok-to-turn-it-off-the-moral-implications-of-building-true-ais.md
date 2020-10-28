@@ -1,28 +1,24 @@
 ---
 category: news
 title: "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs"
-excerpt: "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing."
-publishedDateTime: 2020-10-27T20:38:00Z
-originalUrl: "https://omaha.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_b32028c8-914e-5795-8c24-6ea2d8784cc1.html"
-webUrl: "https://omaha.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_b32028c8-914e-5795-8c24-6ea2d8784cc1.html"
+excerpt: "What is the basis upon which something has rights? What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing."
+publishedDateTime: 2020-10-28T02:55:00Z
+originalUrl: "https://www.expressnews.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
+webUrl: "https://www.expressnews.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
+ampWebUrl: "https://www.expressnews.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
+cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: San Antonio Express-News
+  domain: expressnews.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/32/b32028c8-914e-5795-8c24-6ea2d8784cc1/5f986b4ce8335.preview.jpg?crop=1000%2C563%2C0%2C89&resize=1000%2C563&order=crop%2Cresize"
-    width: 1000
-    height: 563
-    isCached: true
 
 related:
   - title: "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs"
@@ -69,6 +65,6 @@ related:
       domain: middletownpress.com
     quality: 39
 
-secured: "HxErO0mdJuoCkK/Igj3gQLm0i+RH4VRBEunOThsVUXBXxbd9HaTJ4ccsr35sDAfZjraGEu4ALv54a4Af/rxIg1ho9W/EMmZDbYLm3Qn+BuvNPY39JrOJO3IINP228MDIKQs0ZdPEwqlfUPBhm1l9AUtzNK942l48t6CsQCjMz5UlFldo56NQGMo62L66HyRbA82xGFEwrbZvazclYzS/6rjNP+9jYyKt7Xbfc6mxnT6J+aAXjGLqb+5mtrANCwtB0gsifoDsdK3B4NVeOocIQfSaY4ESU9dUuF/kXFkoLOX1QjZKBjCEUsRsar0MKlrRu29zpZKdX1FkMyF6wpKfppq8ppHOrbMnRCHX2ypEEyE=;h/LOyD+iDgEf32/Ev8Zqqg=="
+secured: "oIWGlnSErY9vvt/RklbT3MKWaSVC4/K6wb3IBNLDHP0tEP7Q01fZxZMZAk/wcoXNYAXAgCMA4j8fV3lSj2T7ThceD4QlEfcr0UdI5yyxS92Kdmvv1iBzzO5taySsXcK8Vg/1kZjjMvBIH5zi0e1xa8M+ajcdS1zP1PlQkPkAnNjkKs+yCntC9yfiau9UadPtAELRyK8Yf782qmxpWW5QOY1DUF+4VREZk/vbs4G1VqOpa2O3Uz7CVC+4NNKxOK07gp/LLnoh8YV1tZmMYbt/kRY/JArXAjteSSKudF1DD//Z5N/wI+L/mmuK0x9OWVYRSbknDXxcvjGo5nsZswEYSkt51GqMoA1VE4V1C+/3Hwk=;YYZtgqI7Ap9RPL++zfN7YA=="
 ---
 
