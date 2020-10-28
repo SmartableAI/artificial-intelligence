@@ -6,9 +6,9 @@ publishedDateTime: 2020-10-28T15:19:00Z
 originalUrl: "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500"
 webUrl: "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 69
+heat: 99
+published: true
 
 provider:
   name: Wall Street Journal
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.wsj.net/im-250518/social"
@@ -44,6 +45,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Gong Raises $200 Million to Surface Sales Insights with Artificial Intelligence"
+    excerpt: "Founded by Eilon Reshef and Amit Bendov, Gong is also a cloud-based business and uses AI (artificial intelligence) to transcribe and analyze conversations from web-conferencing platforms, like: In August this year, as we already covered, Gong raised $200 ..."
+    publishedDateTime: 2020-10-27T09:20:00Z
+    webUrl: "https://www.finsmes.com/2020/10/gong-raises-200-million-to-surface-sales-insights-with-artificial-intelligence.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 67
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2019/12/gong.png"
+        width: 960
+        height: 960
+        isCached: true
   - title: "Fast-growing St. Louis AI software startup Capacity raises $11M in Series C funding"
     excerpt: "The startup said its new financing came primarily from existing ... Founded in 2017 by Karandish and fellow entrepreneur Chris Sims, Capacity has developed an AI-enabled “help desk” technology that’s designed to capture and collect a company or ..."
     publishedDateTime: 2020-10-28T13:45:00Z
@@ -56,6 +71,6 @@ related:
       domain: bizjournals.com
     quality: 31
 
-secured: "e+NUAxfa8fGJbHi8rV00J/wHMb+GT9oT/v9pduktwXDEtrl/eboi5MQlEtFbArKp8OF4giVPUr7WLoDJY1jJ6QQHlEQTxXZbFeRPxehZMZwnZJRulMow1TJQRx+5EJOet+6/yEpW0cc8VwBH8tCvlWpp9zOslXKWjJt8eOvCBaJGhZEPzR41QDAhsxlUqcAB+7v0fQENieLBdr2ecmn6XI+O/CGjJb5bqlc+kIp70rnou3J+NhBGp5THYskGNe9YqheNLiBbLk1LBk6kFwJ7er1A3lymyHKQepJeaIdXVOp18J9EDdL+/yjshbAcqRhzqWTBaK7L7tbRRiJrYVpMzZuf5rKXQ+YsU/tmm7Z1UYo=;CRcHuc07fbDByhZW18eIYQ=="
+secured: "hx/adEhbR+8LJp5kKPdtFFapOuLjvqTEFzO57YKZ3iSbg2mRqgssrCTF0rRRiJHnWl2Y3A2tXtZP8u0/l2iDRFRrNPu0LX2KbynpEUNkDwX/kYAKnzaO/rBORzn2qsxoyI/xAOhPk2YN90xVt+Of21y759h9kYLpw8Lkoe+OdkJdR7JnNK3+SIeQcBhazaVGb8n33cMi1HwACJvV05C782ib5HrNMbtQD062jX3aXtGcsU1coCfhILe+bQNJWXUNWOoeAwHq9T65ioccUw2WGy+B1edhBJVS5YijSVmZcKFBbMTBQV7quAoHW7ZntmnMve9hmc5/idjTKbQ21IcV8fwp2+qj9v5oGenooPRTcjU9VpA0QQVUuOwMccr3M1aK1rBW/QMmIL6gxkbhf0Dl6TvpPbYy8PybwDgAprPDx3Vp6pM7j7Y/BrAqtmFkZt1DdTR/peK8jQZyy9mh3l0ehtujK4tfAenJWpYfaSbwTohWASVZz7H1nNf85yhmeDm+eOlQ/GcbFwER8XMZ5DVEJA==;YcBCE+W8d5zGss9ZDAPbig=="
 ---
 

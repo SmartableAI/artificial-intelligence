@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-
 webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -15,8 +15,8 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
@@ -39,6 +39,15 @@ related:
         width: 878
         height: 500
         isCached: true
+  - title: "7 AI Stocks to Buy as Automation Advances"
+    excerpt: "By the time talks start to center around AI stocks ... In present times, also consider Amazon’s use of AI and robotics within its warehouses. These little robots never tire, rarely stop and ..."
+    publishedDateTime: 2020-10-28T19:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "Startup Robust.AI, Founded By Cognitive Scientist Gary Marcus And Roboticist Rodney Brooks, Raises $15 Million To Make Building Smarter Robots Easier"
     excerpt: "Robust.AI raised $15 million led by Jazz Ventures to build a cognitive engine for robotics. The goal: To allow people to build robots faster, cheaper and with more reliability."
     publishedDateTime: 2020-10-28T15:08:00Z
@@ -47,13 +56,13 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 28
+    quality: 45
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934290cb19cefacf98fd1b%2F0x0.jpg%3FcropX1%3D20%26cropX2%3D3264%26cropY1%3D338%26cropY2%3D2162"
         width: 1200
         height: 675
         isCached: true
 
-secured: "qxYu9jVeUPHYR6kQT6y+MlyRxKlBwe/boob1UZkg91BkF8xfp+h4qjB99+gqDjyaAYZiwJtMr2yWnQAEnCY0cuc/Lb3RisDcupjU5MBRb4FwkmLxoK8O0xzj0ShWJ1htSseCoHQdFy/hQqZ9nbzlVjCH5brHv7AUCP5q5Q+IwTwES/CZsNIwiRxQf5O4Suq2rNrssYtT4KkWAQG0w8k/mbgOVd+MuQABvW89tNiLhu3OuQ6aCOZCB65MNUPH6KUQI9vyLNmy/EYrtl9ZI77/AsreiUxdp34VngrVRMhJHICTcKhxcmH/1HLFs6STENItOBK/P1x4jq9w1WBJh9gQgz9OHxln5R/DdPT+g2n/zng=;R2gMrDeaX2V5Sfh31Uedew=="
+secured: "V1/am8JG65k8UpisTQaoqkZaaBqsuVPXsIMoDNWJmG0xppF9IKZgoOzJ0/tX3qINNXOsBe+r51qHo6BzT6D+MTd7w24on5M3+s1o/1bH2Ndg0aMWVGYCe2f2Y1B91LL/4l2xjJ8GoO4WVbE9ffMnFI9LZH2/D0W//QNpiD0zd7LWfESsSGPN6kSqnM84bPnm27JCi6wcQeBbOVGFUgx/zPfqWCF7rb59WPY50AfV+Pd93pq+b86bS7uRQvgpuQpP59ffBZR2pAen/nafU2dHm+En/xAGtUZPrwDGpRD3ASktfQlNBbLp2cP2HMrRDHDaJpMhrIzti1ACohfHZK26g4wDiUa6HnSfbAb5UPrvOOA=;JMDCsGBNz+x8ggxet7D/bQ=="
 ---
 

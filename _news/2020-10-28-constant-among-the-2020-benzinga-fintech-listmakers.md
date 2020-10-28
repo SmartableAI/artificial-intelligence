@@ -1,0 +1,43 @@
+---
+category: news
+title: "Constant among the 2020 Benzinga Fintech Listmakers"
+excerpt: "It’s been an award-winning autumn so far for Constant. A week after it received a 2020 AI TechAward, the fintech and automated loss mitigation provider announced on Wednesday that it has been named to the 2020 Benzinga Global Fintech Listmakers."
+publishedDateTime: 2020-10-28T15:33:00Z
+originalUrl: "https://www.autoremarketing.com/autofinjournal/constant-among-2020-benzinga-fintech-listmakers"
+webUrl: "https://www.autoremarketing.com/autofinjournal/constant-among-2020-benzinga-fintech-listmakers"
+type: article
+quality: 4
+heat: -1
+published: false
+
+provider:
+  name: Auto Remarketing
+  domain: autoremarketing.com
+
+topics:
+  - AI in Finance
+  - AI
+
+related:
+  - title: "Constant Named to the 2020 Benzinga Fintech Listmakers"
+    excerpt: "The official Benzinga Fintech Listmakers comprises 250 carefully ... please contact Mary Beltrante at mbeltrante@constant.ai or (207) 807-0212 Constant leverages extensive experience in debt ..."
+    publishedDateTime: 2020-10-28T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/constant-named-to-the-2020-benzinga-fintech-listmakers-1029733210"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "AST's Astrella® Receives Prestigious Benzinga Fintech Awards Finalist Recognition"
+    excerpt: "AST, through its Private Company Solutions affiliate, is honored to announce that their Astrella platform has been named a Benzinga finalist as Best AI Platform. Benzinga Fintech finalists comprise carefully vetted and renowned companies across 27 categories and executives who are striving to revolutionize the fintech industry."
+    publishedDateTime: 2020-10-28T16:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ast-s-astrella-receives-prestigious-benzinga-fintech-awards-finalist-recognition-1029735830"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
+
+secured: "LBdZ1QbTjKTpXSldg/osuZlviRtqKfwUdH0E6HNmYu2cNijkozzvy4tvK1D5TLCfMXsQ/Km2Bry8RYLIbwOfaoTeIX+hlg3eVEL+AKoGcLpd5/9PuUdHxBxViqOtGYFQy2m4PjCNgj+RYl923hv/lBTLEcRRA5tqsTXadesQQdULSqN1zcB9ljq7nsb1ncqcDNjIsvdMgih81Rc1yucpesaLMSQ6NQHEpXLa9DsHhAGdtjBv+Z+zUn9rIX1ppxoc+PaUoFnscDLcdHjp2b8nETwcSjQDqhZWlZyPQV5VoRIv7fwdNaKntFr2FvH9JG+KHbiZDt3cHt2+oMSR9yNlB1nMTRLFwa9jSsaZwtrp/9BaEYPfzJ6pnCiJ2aDUoj6z7aaWTQ2W8dhg9ryzmC/euWa6LHZRtS1PAjI1qUyl/kDXeMcqzETtAfciwy4i/lT3zXxvvFwDRtZCdq1P1jcXK8lf2HgAD6mduSBhi+MILsaAX83cHP8xrW+xZIYsfM0yc3wxAM6P2Zy4+QPf3+9sLg==;eEFaPXw/omxlPssPKJ37hg=="
+---
+

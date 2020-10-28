@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/business-wire/20201028005094/rene
 webUrl: "https://www.morningstar.com/news/business-wire/20201028005094/renesas-extends-ra-mcu-family-with-ra6t1-mcu-group-for-motor-control-and-ai-based-endpoint-predictive-maintenance"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 480
     height: 270
     isCached: true
-
-related:
-  - title: "Using AI for Predictive Maintenance, Employee Development"
-    excerpt: "Maximo from IBM Watson can use \"true AI\" software to implement predictive maintenance and AR-assisted repair using the sensors that come standard on CNC machine tools. According to Dr. Stephan Biller, vice president of product management at IBM Watson and ..."
-    publishedDateTime: 2020-10-24T00:00:00Z
-    webUrl: "https://www.mmsonline.com/articles/using-ai-for-predictive-maintenance-employee-development"
-    type: article
-    provider:
-      name: Modern Machine Shop
-      domain: mmsonline.com
-    quality: 39
-    images:
-      - url: "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/mms/2019-mms/mms-0819-feature-ibm-1.jpg;maxWidth=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "S/Xa5osfhCykGwSIH/MS2Wrpme+HhtbiGyyDXyFsIQu+59ODHyqPrY8kH3fjC/MaIkVGFkH2XdEi/CLvaa7je6j0qKQxt+nlkVNZe7SVtb9rJGgrlzYsV9KJquGvBgJVdjFgyAKWjKJEpJCIlYBfFFnyKAlP5DFROQUGSfdgYgQboGZ/FcOx/Ds5BUVkkPim9jw/o0vy/AaziMZos7DpqaV8eyzFFiv7el69UenrMWtbjSggVUL6MEtgeHmBb2XrFaBMeArFW5xrEYyuwZjpnkfbPbPogGRqRbL2Cc/yZkcB3sHXrhUKfRpAgUhBuHU4snMLBIjeaR8KSpR073U59kjpyfGHESo7B+jlpakxSe4=;MgXO5QKdBRDUxoN4Di0N1Q=="
 ---

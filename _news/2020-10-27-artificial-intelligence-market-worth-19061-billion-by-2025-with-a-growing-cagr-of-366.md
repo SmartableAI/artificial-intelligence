@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18064657/artificial-inte
 ampWebUrl: "https://amp.benzinga.com/amp/content/18064657"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18064657"
 type: article
-quality: 52
-heat: 72
+quality: 54
+heat: 74
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AWS AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg"

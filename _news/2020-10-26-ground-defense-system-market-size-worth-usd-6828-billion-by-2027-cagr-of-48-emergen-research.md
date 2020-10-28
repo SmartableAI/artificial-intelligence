@@ -29,7 +29,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg"
         width: 650

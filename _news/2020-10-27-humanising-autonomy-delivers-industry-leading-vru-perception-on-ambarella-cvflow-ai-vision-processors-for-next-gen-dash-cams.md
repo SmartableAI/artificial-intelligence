@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-27T09:00:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/business-photographic-equipment-and-supplies-manufacturing-consumer-electronics-manufacturing-consumer-products-and-services-consumer-product-manufacturing-479bc3106fb16fe4db31b299c3d9f25c"
 webUrl: "https://apnews.com/press-release/pr-newswire/business-photographic-equipment-and-supplies-manufacturing-consumer-electronics-manufacturing-consumer-products-and-services-consumer-product-manufacturing-479bc3106fb16fe4db31b299c3d9f25c"
 type: article
-quality: 14
-heat: 14
+quality: 12
+heat: 12
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-  - Computer Vision
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -25,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "tt2CwEoEC8CzBEDTPicl03JdEI+LTCox5ah9YVG6VeYNKGCkxt2VmdleDGH7/QsjTUtqqZYkz9rsidS+nIBH4xhoiTXU/t134bUalpHbaC59fWebX+V4oSjHgBeghRoTyYWQJjGGXCUDpd0JdS6iNuHAFJopkJ9gq9Cy8ZhLtjzhJZdyhEpZ58G9+JIPKaK7LFEi8P67MR5yLhZ/RHUboVYuhkjDySETcLHQKLYcpZySTmiP74ICC5tLaLwPM3/aMAt81YsjPqRo7EOc73kT6mH+zkNaARKj1AHIMxGKRBxJ0zINYdT3XuT0uElvz2sfMicIA52a3179f1eanV26fG0Gzs1qRg6dcfbD+LPPa18=;+mrHe+9+wXXqxZ0bAqfkNA=="
+secured: "5i+30PycUt4VizxNQTxRLoYulNCtsEFy4WLIcwgCGEubCixx1c/MeBXMk28m0NIDuPI+sqRB0LdPZU9/jrOAbTNSJS02j9uuzl4aREMkw32mPiYDJ4d/Zk2eCVaOYhfinHq6CpWzJuo4Iqnr6DX3+E9UqOwo2PhrrI6bN0TsjshQZDgoZDcE5M8HhKYhwcoJgIEvo2TyTGfDN1hMOSkiusj1jBdz+xwPBH8EJl3YCLR07pPYjWqjlZmsBpEmvW+TuGGEvYTnuAFoXaG9RrOdQ5sSiTbatVZ8PPID69n2yKDnp5x43GVpMgMOvp5K8OzvOovHTe5dYKsq/FtP46+CmbC8YjNZdOq8ujNZVYJ3U4E=;yTElm+KYo6SiNEQGveDpaQ=="
 ---
 

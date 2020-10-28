@@ -24,51 +24,77 @@ images:
     isCached: true
 
 related:
-  - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
-    excerpt: "Public-private partnership between NOAA and Google taps into AI technology to more effectively use satellite and environmental data to improve weather forecasting WASHINGTON, Oct. 27, 2020 — NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite"
-    publishedDateTime: 2020-10-27T17:34:00Z
-    webUrl: "https://gisuser.com/2020/10/noaa-and-google-collaborate-to-enhance-weather-forecasting-and-research-with-artificial-intelligence/"
-    ampWebUrl: "https://gisuser.com/2020/10/noaa-and-google-collaborate-to-enhance-weather-forecasting-and-research-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2020/10/noaa-and-google-collaborate-to-enhance-weather-forecasting-and-research-with-artificial-intelligence/amp/"
+  - title: "Exploring AI for radiotherapy planning with Mayo Clinic"
+    excerpt: "More than 18 million new cancer cases are diagnosed globally each year, and radiotherapy is one of the most common cancer treatments—used to treat over halfof cancers in the United States. But planning for a course of radiotherapy treatment is often a time-consuming and manual process for clinicians."
+    publishedDateTime: 2020-10-28T16:30:00Z
+    webUrl: "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/"
+    ampWebUrl: "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/"
     type: article
     provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 44
-    images:
-      - url: "https://mma.prnewswire.com/media/1320599/Google_NOAA.jpg?p=publish&w=950"
-        width: 950
-        height: 474
-        isCached: true
-  - title: "NOAA Partners with Google to Boost Weather Forecasts with AI"
-    excerpt: "The roughly $10 million deal will also incorporate new hands-on training opportunities for both entities’ personnel."
-    publishedDateTime: 2020-10-27T19:57:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/10/noaa-partners-google-boost-weather-forecasts-ai/169599/"
+      name: Google
+      domain: blog.google
+    quality: 89
+  - title: "Israeli artificial intelligence provides real care for Mayo Clinic"
+    excerpt: "Diagnostic Robotics, an Israeli medical data analytics startup, uses artificial intelligence to assess patients’ needs and help them through the diagnostic journey, saving time, stress and potentially millions of dollars."
+    publishedDateTime: 2020-10-28T13:58:00Z
+    webUrl: "https://www.timesofisrael.com/spotlight/israeli-artificial-intelligence-provides-real-care-for-mayo-clinic/"
+    ampWebUrl: "https://www.timesofisrael.com/spotlight/israeli-artificial-intelligence-provides-real-care-for-mayo-clinic/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/israeli-artificial-intelligence-provides-real-care-for-mayo-clinic/amp/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 61
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/10/27/shutterstock_552493561/open-graph.jpg"
-        width: 400
+      - url: "https://static.timesofisrael.com/www/uploads/2020/10/Kira-on-stage-4-640x400.jpg"
+        width: 640
         height: 400
         isCached: true
-  - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
-    excerpt: "PRNewswire/ -- NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite and environmental data."
-    publishedDateTime: 2020-10-27T15:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-environment-and-nature-environment-weather-artificial-intelligence-d1d583ccb76120130b179cdab9e6ed5a"
+  - title: "Mayo Clinic, Google announce AI initiative for radiation therapy"
+    excerpt: "More than a year after announcing it’s 10-year strategic partnership with Google, Mayo Clinic and Google announced Wednesday that the duo would focus on using artificial intelligence to better plan radiation therapy. Radiation therapy experts from Mayo ..."
+    publishedDateTime: 2020-10-28T16:55:00Z
+    webUrl: "https://www.postbulletin.com/newsmd/health-news/6735765-Mayo-Clinic-Google-announce-AI-initiative-for-radiation-therapy"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.postbulletin.com/incoming/6471342-8dy0po-Mayo-Clinic-logo/alternates/BASE_LANDSCAPE/Mayo%20Clinic%20logo"
+        width: 1140
+        height: 712
         isCached: true
+  - title: "Mayo, Google want to speed radiation therapy planning with AI"
+    excerpt: "Mayo Clinic and Google Health on Wednesday launched a joint research project to study whether artificial intelligence can automate aspects of radiation therapy planning. Radiation therapy is common cancer treatment that involves using X-ray, proton or ..."
+    publishedDateTime: 2020-10-28T16:39:00Z
+    webUrl: "https://www.modernhealthcare.com/care-delivery/mayo-google-want-speed-radiation-therapy-planning-ai"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
+  - title: "Mayo Clinic, Google announce AI effort to boost radiation therapy for cancer"
+    excerpt: "Mayo Clinic and Google Health have announced they will use artificial intelligence to improve radiation therapy planning for cancer care. The project is the first initiative in a 10-year strategic partnership between the Rochester,"
+    publishedDateTime: 2020-10-28T16:30:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/mayo-clinic-google-announce-ai-effort-to-boost-radiation-therapy-for-cancer"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 31
+  - title: "Google Health partners with Mayo Clinic on using AI to help speed up cancer treatment planning"
+    excerpt: "Google Health and Mayo Clinic are now exploring how to leverage AI during the cancer radiotherapy treatment process to speed"
+    publishedDateTime: 2020-10-28T17:30:00Z
+    webUrl: "https://9to5google.com/2020/10/28/google-mayo-ai-cancer/"
+    ampWebUrl: "https://9to5google.com/2020/10/28/google-mayo-ai-cancer/amp/"
+    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/10/28/google-mayo-ai-cancer/amp/"
+    type: article
+    provider:
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 27
 
-secured: "Z6XrWIO+/ThLPxrw4TBZZ18m07HqwhmWhaDssQPe+3qf4ya/nASQM7jWL63/U0NMXmqfvSxy8eLEnIA2/O1G3oRa6GcScrATOn1/ALkgo9HQ33rqMZIBUmDB3plYnTYhWGHVEpz8EA0xQt/uW9JV+u/J/P4s/iQ65KACSc4gQUShng7vrtvh84t8qUgHtWTDiNg4zu3ns05JABkI361P+eajwNasCsaHsWRKMoxcGaGUbie/F5uvWmAw1XGkguTg3tXpOrw2fSE5nnBk64iar8VnCRxa9kW8PFHWEuiRTxFLZF1iiqktNeDyugrdqpMxFIzyK65cYBlrrgwyJGA3IilAqwVaLrRs8ovf0L5TbLo=;QFBP13ZDNEWlgAOcj8en6w=="
+secured: "ebzT2F1z5QYHfqu4/g8Kl7cnEl0Q5gsBliy3/c6qFEXQV4OVnpW+xUHuacVBp1njeowfagnSYMAuQQ0MCeT2lKQyt4NJalYT55zbYsHHKkTmjGR+p6vo1Nd/uvYDcj+jbhtCGaV9ABt9i1BFv0DJcdjvS/Bw+tj+h7QVxol8upsSa5Kl4Xh9jMMP1WGUFLzBSlUIWgJpMuHvBd5/rT2L+CQy2lSHlLBjZv00m6YI0tU+Oa3lI9DXFcyX51lp08y+3YkGFpm0kV7CDgi2QrKmQdkwpFEvn1mq6hVrP+dNBdTR04KNh8nBqkeJot+kr4hUDOwwId/VwtMEBeXTbBt2Ogz58YIqqXnuidQAomU4IxL2EwdLaimNW+5BL6PPc6lxpqMZmCsiAOKEhcgRtu1xirhtNLvdmbaBHVDN9kbxVt6km2lzOB0wUXvmbDqxz3b7xe03ab3nanmbePJNqO73Z9KdP0Epr0lTQ8piui8qt/KFzXNQYTItbT13wJEfT1mheFJkuPsCNCuDJDpSAGQlOA==;3oCyeKx5eid6478ei0CVRw=="
 ---
 

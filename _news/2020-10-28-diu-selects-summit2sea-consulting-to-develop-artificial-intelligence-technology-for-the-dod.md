@@ -19,9 +19,9 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
   - AI
   - AI in Robotics
+  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg"
@@ -29,6 +29,6 @@ images:
     height: 400
     isCached: true
 
-secured: "qXfgs4/bgqOhYUBzADOx7nzBE3rKQNoR7uX6LTl7vGDW8rqpZKsAME2vW31Mci/TMUVMjOUJf0eRLNWO19nxWtCw1E672MsFUHYSQlmrKLPROXVJsHHKKdH+CwC6ocsbjS3pGgDcriTw4QXYIwPMD2Y0rU2OoVxO7V5c7GhdSGCFT7Z3nAqdXLhEBrMUnPEQuWb3awymoY5OrEvOn/gDqsceFS7TiPmjeNhh6qh+rqhiIpwkMKoEV49RRcqIsedLLNT3ucM0ngP5wLuEl+vthYQnPERDl1RRJiD5Nq/qS0eNcaFqxWGISlL+Af7K/3hb7n+4iFKT0mJ/yEsx3+nLKyRJ5Y25bJGTs4lCR73FYRk=;IpUahtnipt80exYFPzFPLw=="
+secured: "Q5VWeM2bYn8p1SdNrbMNSMkF+f33CLhpHPCKePziT9683BDm8K7nhAKIFobPlB+hkdUvDP61ud0ff9T6D1kK0Fk6cSYPqp3G29EcMC1lN31Ix3lCJqDKj7jjfRKiaJpC1YDSSzdgIWaD6LqhWWezHroxt1OWTE8AsDslBwaIi4zggNIyOeUFMyA2XKjI0559eSOqvvddbkLBvVvDlcOIBOlmdEHIPz0Hk5GIlLcjD+IL+WQ1VVojddMnOJ/W+xQFrslOdXNu8bCpAimQU/pVnE9R7Hd/15c8nl5PbABIKzfoLkvTim2OzOMZCmXKiNoLQIngdaFSpLZzHaWF9ZVcL/LeSC6YgzL20+3QD3xzjlk=;09+JhtccF0MttFIkhaHsGg=="
 ---
 

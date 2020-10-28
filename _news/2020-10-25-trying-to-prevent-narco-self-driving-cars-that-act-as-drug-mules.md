@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -95,6 +95,17 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "The Big Gamble on Self Driving Cars"
+    excerpt: "In this episode, Jim discusses the self-driving car, a staple of sci-fi books and movies and predicted by automakers as far back as the 1930's, as was shown in a 1935 Chevy promotional film. With Cruise Automation’s application with the California DMV ..."
+    publishedDateTime: 2020-10-28T16:00:00Z
+    webUrl: "https://www.engineering.com/AdvancedManufacturing/ArticleID/20881/The-Big-Gamble-on-Self-Driving-Cars.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20881.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20881.html"
+    type: article
+    provider:
+      name: Engineering
+      domain: engineering.com
+    quality: 39
   - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
     excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
     publishedDateTime: 2020-10-24T17:22:00Z
@@ -123,6 +134,17 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "The chemistry behind self-driving cars"
+    excerpt: "Self-driving, electric cars have been touted as the next big thing in transportation. While this technology has progressed in recent years, experts caution that automakers will need the chemical industry to help make it a reality."
+    publishedDateTime: 2020-10-28T18:02:00Z
+    webUrl: "https://phys.org/news/2020-10-chemistry-self-driving-cars.html"
+    ampWebUrl: "https://phys.org/news/2020-10-chemistry-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-chemistry-self-driving-cars.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 24
   - title: "How Self-Driving Trucks would Show a New Direction to the Trucking Industry"
     excerpt: "Autonomous vehicles are no longer limited to mere theory. They are already becoming popular among people, and self-driving trucks are expected to make their way onto the roads in the years to come. A survey discovered that more than 50 percent of small ..."
     publishedDateTime: 2020-10-26T07:01:00Z

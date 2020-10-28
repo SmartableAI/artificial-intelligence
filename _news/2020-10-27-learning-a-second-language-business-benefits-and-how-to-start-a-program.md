@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-lan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Learning the language of sugars"
+    excerpt: "To trace this history of glycan sequence development and identify meaningful trends and patterns, the research team turned to machine learning algorithms -- specifically, natural language processing (NLP), which has previously demonstrated success in ..."
+    publishedDateTime: 2020-10-28T17:07:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/wifb-ltl102620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 6
 
 secured: "SRUdj1Euhhs8ibYBzDsQHpBAMV2ykJcZaaHG1peEXm83gEsIydfkrIcZ6kEZr6A8YqEfBsHo9rNxdVnDfTfS29luSly04KsPAFZM0m4YfLooFW89h/hcPW833zNmFtcvEkfZsNn327wL116yi5dCg/UVxUKXSb86U2qHxoBvZKWG4kJD+HfSyXX0/EG+hYxvOjjwu6lJqy5poBmNhZNUA/7edQK5hTAJFRECw+/AXXknHcHIaFYkcVwZHroxujOIU23Gc1j7/uw5dogeAO9lw/b4kRQV/wFmpwBffmsVUHRugG9ceIffB/06MlvANVrb7ex1W3BnQO63ObB4903kQieu+LvoZWGKzHqXaFIL2vw=;Tx1AQf8mUl3ECP83ACQ+2A=="
 ---

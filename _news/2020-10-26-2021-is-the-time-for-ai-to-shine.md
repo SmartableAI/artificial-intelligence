@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
 type: article
-quality: 69
-heat: 109
+quality: 71
+heat: 111
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Robotics
 
 related:
   - title: "Using AI to unlock the genetic secrets of food"

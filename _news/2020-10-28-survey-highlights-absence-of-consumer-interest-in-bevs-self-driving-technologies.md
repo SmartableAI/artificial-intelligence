@@ -7,7 +7,7 @@ originalUrl: "https://www.tdworld.com/distributed-energy-resources/article/21146
 webUrl: "https://www.tdworld.com/distributed-energy-resources/article/21146109/survey-highlights-absence-of-consumer-interest-in-bevs-selfdriving-technologies"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Self-driving semi travels across Ohio in test run"
+    excerpt: "On interstates and the turnpike, the lead truck was driven manually while the driver of the second truck engaged its automated platooning technology."
+    publishedDateTime: 2020-10-28T18:01:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2020/10/28/self-driving-semi-technology-lead-truck-test-run-across-ohio/3749218001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3749218001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3749218001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PPOC/fc11697a-25ac-4c28-ac27-1ea68c005da9-IMG_0252f8f40dd0-ba7c-4f63-bb61-41f10373595b.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving shuttle takes on traffic"
+    excerpt: "MERRIFIELD, Va. -- The future of transportation arrived in northern Virginia, looking like a big blue toaster on wheels that seats six and drives itself through the region's notorious traffic. State and local officials debuted the Relay system Thursday, an ..."
+    publishedDateTime: 2020-10-24T08:08:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/oct/24/self-driving-shuttle-takes-on-traffic/?business"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2020/10/24/resized_150246-4d1shuttle1024rgb_47-31042_t600.JPG?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
 
 secured: "UfGscXSlhIqUMKUPB0TFD9lDZaAoX7S/YZXO/ctnv47Y5xsFznfU0Aw5Do81HPYRbq51iq8Qtn72bDJP4MDac0JCM2KBPvXq4W334U8r+M6BhX3NW3w15lAJn+k3rJTewycZNeMarVFOtKdatmCpoh9XPFBz3XSYJS68RytMIrZQoiLfN+7TAZu04xSUkUE71ISv5VPKmK26DC4Z8YKfnBnZlCJGmW9uIOF/to7iDHKsmbxhmEz2dPnZ1xNArq20prt8rV48ElhzfBmrfxq4rDv3P7my4kUFsgBUXQSzb7ZIygHk5aKJ5SP+GOJWJ78IYnMUQlDabgU16ATX/aEfXy8PgRTDE83yyWPqgKumso4=;+ltUUoR/I1+wnj/p+D6jGQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-build-firs
 webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-build-first-azure-cloud-data-center-taiwan"
 type: article
 quality: 69
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Data Center Knowledge
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft announces its first Azure data center region in Taiwan"
+    excerpt: "After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia,"
+    publishedDateTime: 2020-10-28T17:03:00Z
+    webUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/"
+    ampWebUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 99
   - title: "Microsoft Azure to build a first cloud data center region in Taiwan"
     excerpt: "Its existing Taiwan Azure hardware systems and infrastructure ... in cloud software and hardware infrastructure for AI, IoT and edge products. Meanwhile, Microsoft’s training initiative in ..."
     publishedDateTime: 2020-10-28T00:46:00Z

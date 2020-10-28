@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/us-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/us-based-ai-marketing-cloud-startup-pyxis-raises-usd-7-million-in-series-a-funding-120102801417_1.html"
 type: article
 quality: 68
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Standard
@@ -35,11 +35,25 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://images.wsj.net/im-250518/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Gong Raises $200 Million to Surface Sales Insights with Artificial Intelligence"
+    excerpt: "Founded by Eilon Reshef and Amit Bendov, Gong is also a cloud-based business and uses AI (artificial intelligence) to transcribe and analyze conversations from web-conferencing platforms, like: In August this year, as we already covered, Gong raised $200 ..."
+    publishedDateTime: 2020-10-27T09:20:00Z
+    webUrl: "https://www.finsmes.com/2020/10/gong-raises-200-million-to-surface-sales-insights-with-artificial-intelligence.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 67
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2019/12/gong.png"
+        width: 960
+        height: 960
         isCached: true
   - title: "Fast-growing St. Louis AI software startup Capacity raises $11M in Series C funding"
     excerpt: "The startup said its new financing came primarily from existing ... Founded in 2017 by Karandish and fellow entrepreneur Chris Sims, Capacity has developed an AI-enabled “help desk” technology that’s designed to capture and collect a company or ..."

@@ -7,7 +7,7 @@ originalUrl: "https://www.investmentweek.co.uk/sponsored/4022296/partner-insight
 webUrl: "https://www.investmentweek.co.uk/sponsored/4022296/partner-insight-levelling-sales-distribution-ai"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 370
     height: 229
     isCached: true
-
-related:
-  - title: "Gong Raises $200 Million to Surface Sales Insights with Artificial Intelligence"
-    excerpt: "Founded by Eilon Reshef and Amit Bendov, Gong is also a cloud-based business and uses AI (artificial intelligence) to transcribe and analyze conversations from web-conferencing platforms, like: In August this year, as we already covered, Gong raised $200 ..."
-    publishedDateTime: 2020-10-27T09:20:00Z
-    webUrl: "https://www.finsmes.com/2020/10/gong-raises-200-million-to-surface-sales-insights-with-artificial-intelligence.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 67
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2019/12/gong.png"
-        width: 960
-        height: 960
-        isCached: true
 
 secured: "AMBbc5SuGOKIvhnoe6Ymp38rTUupusMH10r07xPx3+oSXN1oCKH4+UFdg/t+b3+8ouGW05SY4z4sRf0++rfybspzAdzCVNQpUQuXS/TTL1huY+JsC3YgFPFPsueckHMuoExEnN+M/1II10r3SnXzOgxkd5+ss8W3sKQNdd09j5yn6vserwjLKtddX0CkzIvykdHKLnelhYaBDhIEnPgqbtRUZV8jRWmmQmbgfB0E69G4Dlo3DfLNrmRyvoODHEW9hWJhNpawMhOys1fpfHXwnEajEdQGzruEzX48VJCPNQYJoxLXEUCvnrGSK2G8/i+tvjiZkVBh9r8ECEOzVzqwSpFZzxTfQ4nt/Zn2bsGGRR3MgGfG1ukM4K+FrKItQW7QWjGJtmWP64pibzvBl+6xImj9SkRTQz/GwCIV7W1A1CLzw3Kj0pf8ZRcuofCShTDs9q4+lm7AMj9d5OwrHXnDWE3UWNkI2nNRrFs18XSRrUVweGUdSDIjvJrwfxmHwHS9knbeuCqVLN85yc2WzE7WmQ==;ERjhL7cB/seitznqg8tBbA=="
 ---

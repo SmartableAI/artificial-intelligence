@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft announces its first Azure data center region in Taiwan"
+    excerpt: "After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia,"
+    publishedDateTime: 2020-10-28T17:03:00Z
+    webUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/"
+    ampWebUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 99
   - title: "Microsoft to Build the First Azure Cloud Data Center in Taiwan"
     excerpt: "As China continues clashing with US on trade and tightens control in Hong Kong, the cloud giant plans a new strategic foothold in the region."
     publishedDateTime: 2020-10-26T00:00:00Z

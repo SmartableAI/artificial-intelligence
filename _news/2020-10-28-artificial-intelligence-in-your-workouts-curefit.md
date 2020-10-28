@@ -8,8 +8,8 @@ webUrl: "https://kdvr.com/on-air/colorados-best/artificial-intelligence-in-your-
 ampWebUrl: "https://kdvr.com/on-air/colorados-best/artificial-intelligence-in-your-workouts-cure-fit/amp/"
 cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/on-air/colorados-best/artificial-intelligence-in-your-workouts-cure-fit/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://kdvr.com/wp-content/uploads/sites/11/2020/10/cure.fit-app.jpg?w=1280"

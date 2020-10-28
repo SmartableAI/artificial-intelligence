@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoblog.com/amp/2020/10/27/tesla-autopilot-full-self-dr
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/10/27/tesla-autopilot-full-self-driving-safety/"
 type: article
 quality: 85
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://i.insider.com/5f9878b30c60aa00190d4a68?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves! Here’s what happened"
-    excerpt: "Tesla sent out its ‘full self-driving’ software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the USD 8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-24T01:45:00Z
-    webUrl: "https://www.orissapost.com/tesla-full-self-driving-vehicles-cant-drive-themselves-heres-what-happened/"
-    ampWebUrl: "https://www.orissapost.com/tesla-full-self-driving-vehicles-cant-drive-themselves-heres-what-happened/"
-    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/tesla-full-self-driving-vehicles-cant-drive-themselves-heres-what-happened/"
-    type: article
-    provider:
-      name: orissapost.com
-      domain: orissapost.com
-    quality: 55
-    images:
-      - url: "https://www.orissapost.com/wp-content/uploads/2019/12/105773926-1551733568737model-3-red-driving-sunset.jpg"
-        width: 678
-        height: 381
         isCached: true
   - title: "Tesla’s ‘Full Self Driving’ Beta Tech Nearly Wrecked This Model 3 Into a Parked Car"
     excerpt: "Tesla's \"Full Self Driving\" update was sent out to an unknown number of beta testers a few days ago, and videos showing the system's performance are being shared around the internet. One such clip, posted by YouTuber Brandon M,"

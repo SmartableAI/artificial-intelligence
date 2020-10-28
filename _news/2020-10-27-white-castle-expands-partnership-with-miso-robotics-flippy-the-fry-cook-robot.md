@@ -73,6 +73,17 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Miso Robotics Says White Castle is Expanding Flippy into More Locations"
+    excerpt: "“Artificial intelligence and automation have been an area White Castle ... us on that path – and we couldn’t be more pleased to continue our work with Miso Robotics and pave the way for greater adoption of cutting-edge technology in the fast ..."
+    publishedDateTime: 2020-10-28T17:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/168480-miso-robotics-says-white-castle-is-expanding-flippy-into-more-locations/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168480-miso-robotics-says-white-castle-is-expanding-flippy-into-more-locations/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168480-miso-robotics-says-white-castle-is-expanding-flippy-into-more-locations/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
   - title: "Flippy the kitchen robot going to more White Castles"
     excerpt: "White Castle plans to bring Flippy the kitchen robot to up to 10 more of its locations. The iconic fast-food hamburger chain — considered the country's first — said it will expand its work with Pasadena,"
     publishedDateTime: 2020-10-27T07:00:00Z

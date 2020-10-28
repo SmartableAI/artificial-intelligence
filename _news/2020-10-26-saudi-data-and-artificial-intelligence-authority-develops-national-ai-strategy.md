@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Watch: Saudi Arabia launches artificial intelligence strategy at Global AI Summit"
-    excerpt: "Saudi Arabia announced its National Strategy for Data and AI at the Global AI Summit, hosted virtually by the Kingdom, on Wednesday. The strategy was announced by Saudi Data and Artificial Intelligence Authority (SDAIA) President Dr Abdullah bin Sharaf Al-Ghamdi,"
-    publishedDateTime: 2020-10-24T02:49:00Z
-    webUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside"
-    ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside"
-    type: article
-    provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 69
-    images:
-      - url: "https://vid.alarabiya.net/images/2020/10/21/597d46c8-746e-4be9-b4a0-39a135399dca/597d46c8-746e-4be9-b4a0-39a135399dca_16x9_600x338.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "AI plan points to Saudi Arabia's global ambitions, future beyond oil"
     excerpt: "Saudi Arabia’s national AI strategy aims to not only fuel deployment of new technology and economic opportunities, but to elevate the nation’s geopolitical status."
     publishedDateTime: 2020-10-25T02:17:00Z

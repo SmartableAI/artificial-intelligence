@@ -40,20 +40,6 @@ related:
         width: 950
         height: 474
         isCached: true
-  - title: "NOAA exploring artificial intelligence pilots with Google Cloud"
-    excerpt: "The National Oceanic and Atmospheric Administration plans to improve weather forecasting by more effectively using satellite and environmental data in a series of pilots with Google Cloud. Google entered into a three-year other transaction authority (OTA) agreement with the National Environmental Satellite,"
-    publishedDateTime: 2020-10-28T14:17:00Z
-    webUrl: "https://www.fedscoop.com/noaa-ai-pilots-google-cloud/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/10/25415885187_da1c79ca54_k.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
     excerpt: "PRNewswire/ -- NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite and environmental data."
     publishedDateTime: 2020-10-27T15:00:00Z

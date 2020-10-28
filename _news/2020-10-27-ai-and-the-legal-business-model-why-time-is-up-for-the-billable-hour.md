@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 69
+    quality: 71
   - title: "Using AI to unlock the genetic secrets of food"
     excerpt: "The startup Brightseed uses a proprietary AI platform called Forager to predict the likelihood that plants will have useful natural compounds and the likelihood that those phytonutrients will have specific health benefits."
     publishedDateTime: 2020-10-24T14:37:00Z

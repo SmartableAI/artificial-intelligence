@@ -56,20 +56,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "UCF researcher using artificial intelligence to help detect COVID-19 virtually"
-    excerpt: "A reasearcher from the University of Central Florida is part of a breakthrough study doing just that, by using artificial intelligence to spot COVID-19 in a person’s lungs."
-    publishedDateTime: 2020-10-24T00:39:00Z
-    webUrl: "https://www.wftv.com/news/local/ucf-researcher-using-artificial-intelligence-help-detect-covid-19-virtually/BXPALXY4TNHSRMRLKYYJWVNYMI/"
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 35
-    images:
-      - url: "https://www.wftv.com/resizer/fZky0k75pByk2OQIsyJnkKAPfcA=/1200x628/d1hfln2sfez66z.cloudfront.net/10-23-2020/t_79d926331a8640389e88bd20fced70aa_name_REAX_UCF_ART_INTEL_DETECT_COVID_transfer_frame_851.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "hJ83BTaaBjMnVjyDQA72KF9DLwmjFQ1Sh9+PSaG3bRLcJGWcHqZI6S4qkuVE+hy/UpGbCefCpy68ZLcSVuWL3A6Er/uM+/qM6+bPOjIHDPPpCTWWZJ736I/5UxpnSeL/gvgBakCbPjbdcYVmaV4mZLQwStzr/Rl0lNyA5wvg3Le+JwtrOutZ001iTfyC1c2vUskISBXHRvZaBCq4IucJ0qMbOMU1YMoTp/PQz9aLir5gCfxLVKJagFmm+qY5SGtmpY19j+u7aOQ+NiFWzyKmTONxG6EEPugtFYPyj/E3/UmzRPUSiTd+F9xreKY/76ZOiPpNw1Vva5SvP5s2sfFgUhhRJMO9UAHpI/Q4sod4iAo=;aCUJKdHicdmA89I0aFAUUg=="
 ---

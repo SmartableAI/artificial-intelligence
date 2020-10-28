@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla ‘full self-driving’ vehicles can’t drive themselves! Here’s what happened"
-    excerpt: "Tesla sent out its ‘full self-driving’ software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the USD 8,000 system doesn’t make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-24T01:45:00Z
-    webUrl: "https://www.orissapost.com/tesla-full-self-driving-vehicles-cant-drive-themselves-heres-what-happened/"
-    ampWebUrl: "https://www.orissapost.com/tesla-full-self-driving-vehicles-cant-drive-themselves-heres-what-happened/"
-    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/tesla-full-self-driving-vehicles-cant-drive-themselves-heres-what-happened/"
-    type: article
-    provider:
-      name: orissapost.com
-      domain: orissapost.com
-    quality: 55
-    images:
-      - url: "https://www.orissapost.com/wp-content/uploads/2019/12/105773926-1551733568737model-3-red-driving-sunset.jpg"
-        width: 678
-        height: 381
-        isCached: true
   - title: "Tesla beta testing “full self-driving” system worries drivers, pedestrians — and even owners – Jaweb"
     excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own,"
     publishedDateTime: 2020-10-26T19:53:00Z

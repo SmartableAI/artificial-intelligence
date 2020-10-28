@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence Pioneer Diveplane Secures Additional Financing from Calibrate Ventures"
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net RALEIGH, N.C., Oct. 27, 2020 /PRNewswire/ -- Diveplane, the company keeping the humanity in artificial intelligence (AI ..."
-publishedDateTime: 2020-10-27T15:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-pioneer-diveplane-secures-additional-financing-from-calibrate-ventures-1029726903"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-pioneer-diveplane-secures-additional-financing-from-calibrate-ventures-1029726903"
+excerpt: "Diveplane, the company keeping the humanity in artificial intelligence (AI), today announced that it has secured additional financing"
+publishedDateTime: 2020-10-27T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-pioneer-diveplane-secures-additional-financing-from-calibrate-ventures-301160222.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-pioneer-diveplane-secures-additional-financing-from-calibrate-ventures-301160222.html"
 type: article
-quality: 37
-heat: 37
+quality: 25
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1008515/Diveplane_Logo.jpg?p=facebook"
+    width: 1554
+    height: 815
+    isCached: true
 
 related:
   - title: "Raleigh artificial intelligence startup Diveplane lands additional capital"
@@ -38,6 +39,6 @@ related:
         height: 434
         isCached: true
 
-secured: "LbjTdKJOyvR8I7S+fIyxTCEOduYoMPxzhdbWno0r3OwRLSlZ9YEGSzOFZFKmQEvzdLE48tTbJYc/BIT+x0UoTtH6q0g/+9kJEGIyci+n8AUBNo61ZuVipk8LDiZ8Lyt1cUGchdODUcfRtmPn7qBP2tCWaxsT3cEAV0sIWNBSoHOnmIpgXi2kOtmJxvy1emEfoz96q69aXqhxdX3Ie9mgr50DB3Omin7gMAPBE0hJfv+kGUyo7wMEzIIUQFz0YTw30EZjjHy7Qn46y4WK6e126qeg+wyZWBuT2iBMOGRS3WnViGUk9nTDdnnwj57aIcBmNruzg8ujrgn8Qcyx33NngXOr2560fPvp0bhfCVGb6Nw=;dPd4JAq8aut2tv+R/cUlCQ=="
+secured: "rQGTxniJMKZCFmk03RSxLJAVGI0yk8wy6XxHoJheMKicESI/2RlYX1j9Ehkci72lYj3OyzbjRQ2+yD4OLIBdQFp9hTpSGasBPFuk0BfrX2+pUf9jjktbQ0xCbTCO3H39h59sWj3o4q6Oyu0CGn7HS0g3W3GwTIqDaaRqSHCoyRphZxCH3Od95FRAaFZKOR2cgtw45I8211rrcZJnD3qPqLHRTobqGuJGhiqrZ9Oii/cgRn2psTqsi2t93gPkMHJAeDbCCMfMzWUFSWoAEMXHzK7TrqTtfiXasRnNSgxr+jikIOf9atFrbgt+o1n6s5XwYXec8YjuRU0X3H3tDeYmbEK7+Cws7Taw/mm+JzdGtk0=;U112FHiOsND3gwS7ykA54A=="
 ---
 

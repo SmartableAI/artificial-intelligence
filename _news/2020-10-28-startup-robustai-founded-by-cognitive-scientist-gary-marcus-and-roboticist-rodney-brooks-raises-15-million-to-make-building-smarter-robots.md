@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-28T15:08:00Z
 originalUrl: "https://www.forbes.com/sites/amyfeldman/2020/10/28/startup-robustai-founded-by-cognitive-scientist-gary-marcus-and-roboticist-rodney-brooks-raises-15-million-to-make-building-smarter-robots-easier/"
 webUrl: "https://www.forbes.com/sites/amyfeldman/2020/10/28/startup-robustai-founded-by-cognitive-scientist-gary-marcus-and-roboticist-rodney-brooks-raises-15-million-to-make-building-smarter-robots-easier/"
 type: article
-quality: 28
+quality: 45
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934290cb19cefacf98fd1b%2F0x0.jpg%3FcropX1%3D20%26cropX2%3D3264%26cropY1%3D338%26cropY2%3D2162"
@@ -56,7 +57,16 @@ related:
         width: 878
         height: 500
         isCached: true
+  - title: "7 AI Stocks to Buy as Automation Advances"
+    excerpt: "By the time talks start to center around AI stocks ... In present times, also consider Amazon’s use of AI and robotics within its warehouses. These little robots never tire, rarely stop and ..."
+    publishedDateTime: 2020-10-28T19:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
 
-secured: "JIa5AJAzN2oCRoj2AVNv2P7/l/FS3TFTNOKFzDTEqfpHT3Fv3/8tehqlA9IdFO8Fcpe0Wsv/l3FLb7yF2A0aCKQLcpIUh8W573Z3s0eES6t5I/Rx+1Bg1gpcRUPgAHBn2gPJcXEp1/oVSuxBUewtzOJmSxmE+J1sbyuww5Ihg8CeJH0BNTsQs9tb1rLvMNW4wF0Khn5aDItUfyA2em2N5RhsmAHyE+jA7C5lL5coZ6fUUf3ibY6eU50oWfBTL+HJPbmpcrMvZOpViH2VawHxj36wWMmP4d3tJH+PnMQTfzKbGnvX3AjJxBgDJBYc5tNl3pi6gLDaipJVHAXEe/d7eEj2vUXYY9fPigkoZEHI0zg=;uTxhKkABKnjci+qoTOIFiw=="
+secured: "iqYo3szF8zenOchpOYLjVXBWD3qRrWrX3VFCQ2SvNOY1XIT7XKazmJl7XBX9vG/iKzm3if5V+m5C0PUXVg1t2wQRAyU679lskUKJhbppBF2Sq1Lsm+djCoG+JDaYk4wiXWhL+kd5bDso8hSo+vVzZ4TdopsSGm1szcr8MsxMcDI0GhcBL80p8nxSjpy3EEfZJeCJClW0xsVIPyqQkOaubJshuaNjwfwqfkEltroNx9noTgy8FLcPGj8aqxDquh3nRVKaduaU08RqwnFoOyk/0EwOFfa+fXaR94uH0VMFHFio5VuJeO9yZ3qkUuiTpMXOwvVnQZltdVjzsZbmTHxSaVrImzaILxaQMmvQXri51jlSJYoBc6VtVeh3DwgNj8FsjrU6G+gcnSdB81/jy/0qEBonLucdI7Xbhqf4ZuXAKvUKr6alcwzpbTOC3QC1ygF0E3SnjYucViZRZXkxY0AI0BY1kNWYLcoeYHVMdRtvadOWb4g9n/TSQfoendGgXw8bAp/TLoTdyli2qhUbHzqDWQ==;VNLAr9HBVhTRXxoydEIMJQ=="
 ---
 

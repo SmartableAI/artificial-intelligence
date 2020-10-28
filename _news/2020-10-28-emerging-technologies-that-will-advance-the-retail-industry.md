@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Emerging technologies that will advance the retail industry"
-excerpt: "Services include natural language processing (NLP), sentiment analysis, image recognition and autoML model creation. Companies that began their digital transformations early in the pandemic are paving the way forward for retail late-comers who are looking ..."
-publishedDateTime: 2020-10-28T15:45:00Z
-originalUrl: "https://www.techradar.com/nz/news/emerging-technologies-that-will-advance-the-retail-industry"
-webUrl: "https://www.techradar.com/nz/news/emerging-technologies-that-will-advance-the-retail-industry"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+excerpt: "In response to this changing landscape, retailers have brought forward technology investments to accelerate their digital business transformation, particularly in artificial intelligence (AI) technologies with retailers often utilizing AI-enabled third-party vendor applications to solve immediate challenges before moving to more strategic deployments once they gain evidence of the benefits."
+publishedDateTime: 2020-10-28T15:34:00Z
+originalUrl: "https://www.techradar.com/sg/news/emerging-technologies-that-will-advance-the-retail-industry"
+webUrl: "https://www.techradar.com/sg/news/emerging-technologies-that-will-advance-the-retail-industry"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
 type: article
-quality: 89
-heat: 89
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -24,12 +24,19 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg"
-    width: 970
-    height: 646
-    isCached: true
+related:
+  - title: "Emerging AI Will Drive The Next Wave Of Big Tech Monopolies"
+    excerpt: "Amazon and Apple built their monopolies by having detailed access to their users’ data, which in turn allowed them to build the best AI recommendation systems for their respective ecosystems. In addition, Facebook and Google built their monopolies on the ..."
+    publishedDateTime: 2020-10-28T18:16:00Z
+    webUrl: "https://www.forbes.com/sites/edstacey/2020/10/28/emerging-ai-will-drive-the-next-wave-of-big-tech-monopolies/"
+    ampWebUrl: "https://www.forbes.com/sites/edstacey/2020/10/28/emerging-ai-will-drive-the-next-wave-of-big-tech-monopolies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edstacey/2020/10/28/emerging-ai-will-drive-the-next-wave-of-big-tech-monopolies/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
 
-secured: "hBeGNeVu3Gf9/Hwe057jSM3w31nuuTcCQSs7UUw8S9gs02r70bH2k/RDTkeYW0GkJOlk4ZcqWXq0dVSLQzvBaCkOIsbBCBiS/dFxAcaYdk9zYJ+r6E5eDimMO0Iwa6YVhQdjrOPmsFtHfqv/eQ9+0p21EI3aUWmcj69ZMYRAyfOul8CxClzsxfpa6emA/YIg4eekjApsq9fITx4NH6KwCv6GtdeaQQmxRKH508Cnt75llaNXTBvGu32oATV1ko9Er2LdKgwKPpjEX5c24u9MKWN9B2oJzr20aCLYeYDNytFtitF24p24ph92hYmr3ctpOrFLFPyI2Es8/uYCSlo6HZc7z7cmi5wlkSGluFFbUys=;eHskfkXeOdz6BbXNKvpEvg=="
+secured: "H3lP3b/KQ4gv7MtLuGoT8jZZn65ZjtqTlEgD9ijUeEK/QvONoYK/Dn9Apc7Dt774mAxStwd4d6Frq7GNQ9Wt7m/CopOK5ZgTUJEp6lQAANGktzEyd8z8onvGw2Tmul98vT0kqHRug1QkTZpqLVzhGtA8SaUFnxUecJz1gmxGHgnsVsyeXqcox9eHWjcxjO2ZXVS0trjDDRx3lRoznD+g+AEG1N8lAWeGWukdTZZy6AQ/+cXnGb4OCEySxXHEzXbxOP+3jLK+iDiYwB5GLxKLvHnRfDAgKLv+pqd+yh8C7MFDThZhW9IN1rIsp5EqgHHkmdInRl6mv0vDr0YeYpQ7BDekXBn2Ws4mYVAU/VocSELyZb6eznsaTd5idRsg0/hya+uqvT58+KOj7gyXrnVVn4WXKyp5Rr9E86GXY5ZKOITFBSWDk4rKfKWRkepXse6+I267AU0BxerVVR5WE98E0b2m17oIeHiywXC2oHs52VQHXzJ04Xg//reIeOoiB9RfxC7OhJgp9JsqFFYV1wifTw==;PWqGiwRmXyzE8wy0/acxDA=="
 ---
 

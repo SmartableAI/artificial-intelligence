@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Startup Robust AI Raises $15 Million in New Funding"
+    excerpt: "Robust AI Inc., a startup developing an artificial intelligence system intended to allow robots to work autonomously in open-ended environments, on Wednesday raised $15 million in venture-capital funding,"
+    publishedDateTime: 2020-10-28T15:19:00Z
+    webUrl: "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-250518/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "US Based AI Marketing Cloud Startup Pyxis Raises USD 7 Million in Series A Funding"
     excerpt: "Pyxis is a unique AI-led marketing cloud start-up headquartered in the US with an office in Bengaluru, India. The start-up has several innovative tools that provide a robust platform for creative"
     publishedDateTime: 2020-10-28T13:30:00Z
@@ -36,19 +50,19 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Startup Robust AI Raises $15 Million in New Funding"
-    excerpt: "Robust AI Inc., a startup developing an artificial intelligence system intended to allow robots to work autonomously in open-ended environments, on Wednesday raised $15 million in venture-capital funding,"
-    publishedDateTime: 2020-10-28T15:19:00Z
-    webUrl: "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500"
+  - title: "Gong Raises $200 Million to Surface Sales Insights with Artificial Intelligence"
+    excerpt: "Founded by Eilon Reshef and Amit Bendov, Gong is also a cloud-based business and uses AI (artificial intelligence) to transcribe and analyze conversations from web-conferencing platforms, like: In August this year, as we already covered, Gong raised $200 ..."
+    publishedDateTime: 2020-10-27T09:20:00Z
+    webUrl: "https://www.finsmes.com/2020/10/gong-raises-200-million-to-surface-sales-insights-with-artificial-intelligence.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: finsmes.com
+      domain: finsmes.com
     quality: 67
     images:
-      - url: "https://images.wsj.net/im-250518/social"
-        width: 1280
-        height: 640
+      - url: "https://www.finsmes.com/wp-content/uploads/2019/12/gong.png"
+        width: 960
+        height: 960
         isCached: true
 
 secured: "KK12u1mz6cmaWXc15Uzy8MYmpKIAz0T92LR/vcqNekjc286cLxOl81KLeJCkPB9BYyd6T7o8wxPufRsTGnKnaiGw8FDixIj+mrEsv6TUyc2Vi4a3bhBZNs4osU0EJo1Zb29p9dpEXZNE6qNCcvPL6tab8Sv7pmUVMvqfgTQJIY3zatDlqGnmH7BR+q9TBRuHIPv4bTlQEqUyj8RN2y24FdFnUrf1AuwChRzV6y/6PtcGHMJeWtYn8OwD0AanTnV9twrAErer106QR9ENBKkRcA1/AjLYw8N3DS2260LFqp/nFxx1Eovg3Wce2uzAyh9a4DQ5aLl0NfkEQFENiBtNXbKQlbGHW6sFH1J5yFMsjxx2nghK+Ck5hEI0h1qSQS6P6fY7CIRXT+zfdMYqdmQ5LZQ/v4laN7OXs80OTW2AKnJHlZ6hPvO9GAbwfksMmGFWZ6anvz05G2gPpEETkUewQTEla9lWQd5n83Fqcf71B87cogMbpNYoJxnArtr4bNQ+/5NMfp81eKTWbo8vlJ+3GA==;5+FlTfogsBd6blbI+HrNPg=="
