@@ -32,7 +32,7 @@ related:
     provider:
       name: Massachusetts Institute of Technology
       domain: mit.edu
-    quality: 50
+    quality: 52
     images:
       - url: "https://news.mit.edu/sites/default/files/images/202010/MIT-Cough-Recordings-01-PRESS.jpg"
         width: 1350
@@ -53,6 +53,6 @@ related:
         height: 345
         isCached: true
 
-secured: "NICqUA2Tc82R9539nQvZK9XbumRK6gQsGiGklXSxao6U6h4P7w7tR3aFLpn23B8BbQ7NuYrkYlmt4KEAr4B13IhFWyiAHEioQID3OcHqx72BadVRUDvEW0c2GNzVZuqjY7ffOdEJ1Z44bxaySlUIhc/qAKO+yr2xk8xJU0ipN3dtBLSUnqSRxBY4CU4DkEXLB2gio3MJKv5isMmuRekFcjpR+9u6KmLbVC+34nUfWa+Sorh6QjyE2Fwl7w8jiYYIiMeLNju1YQ/RDDNXF1sFERJHpXjkFDkhi/2icvC5px/dVWdaF5nP2F1dJGMTB5wROEcA+aaMUn/8nFwjITmUb9KK/8nwcmleBf9a0DKtj1E=;slgGUCsfZZewfnEq0l5/oQ=="
+secured: "yfNfwYDkSfu3CqZxKFeIh/IC5A/ZwzpLpL7hK6x28qWNsq0r4JMsOYM0XvUOR0QK8mfG6m6Egy97d+D5iJsCIu68HCFKegiaNutqbC6IyDHWmjzplQ9t5Cy238FYRMYUszeskTdLX9mspaGCUy53PP5ElLrhEflazq6BFRTLrU8np0C0K74RR62TAVkPTp43N2sFnuey9P2vvFDAmL6IlKvEg3aY2ER+qZ91abaPoVb+2jrcqLpD0WS5FtJMebphNi50+0TYgf6WRI4opLeBgj1vG4vyh3oDzSA0FgqVLSACtbo5tf+moStc4kWPlP8e6Bu/70hMp4Nr15h568uInP70f7lNqHUdBTJFgpBvDUY=;84c7LeQFS7Y497nrPSOB3A=="
 ---
 

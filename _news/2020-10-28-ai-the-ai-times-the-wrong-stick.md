@@ -36,22 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 71
-  - title: "Using AI to unlock the genetic secrets of food"
-    excerpt: "The startup Brightseed uses a proprietary AI platform called Forager to predict the likelihood that plants will have useful natural compounds and the likelihood that those phytonutrients will have specific health benefits."
-    publishedDateTime: 2020-10-24T14:37:00Z
-    webUrl: "https://www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
-    ampWebUrl: "https://www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/ai-food-health-nutrition-brightseed-3dde4449-a311-4a14-97d3-ee85ab5d9458.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 57
-    images:
-      - url: "https://images.axios.com/p5p8jckNc7jnHJDICmx3yWdEXIk=/fit-in/1366x1366/2020/10/24/1603549523713.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "AI and the Legal Business Model: Why Time is Up for the Billable Hour"
     excerpt: "If law firms fail to adequately respond to new imperatives, they not only risk losing an important opportunity to grow and scale but perhaps they even threaten their ability to survive at all in the quickly evolving legal landscape."
     publishedDateTime: 2020-10-26T19:55:00Z

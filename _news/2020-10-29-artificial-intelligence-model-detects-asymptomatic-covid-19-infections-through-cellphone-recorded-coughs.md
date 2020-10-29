@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-29T04:06:00Z
 originalUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
 webUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
 type: article
-quality: 50
-heat: 70
+quality: 52
+heat: 72
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202010/MIT-Cough-Recordings-01-PRESS.jpg"
@@ -57,6 +58,6 @@ related:
         height: 450
         isCached: true
 
-secured: "/SG+n5JUunObF8ISsiD0k/Z8SvR5/m4eJAYdKuBwO7K3Z7ZIInGyezUYqvYU0obdxkk/pipfHYaX+TvoYjihgwWhI23aSHH7z64Z+eHdZS79xRiVXx7CoFZrUv74TTHv3EW438J40GkwV7O4AFsz+Bt2z9HIPMsq2wTO+zQhu9gtsNHkD5U9vf/9D++FKie3bkI+EzPbFIfBk8f2+5wXHKqVzMTCOLWLEVmWxHLEP8urCgGb0FzNDrUYH5L9P5gR3aifyIlljiUKMO0cDi71GlL33VmMCNjGkS1uSVusJ4n0eXQ6ouDqH5Ehx57zxgUDWyzDNQWykO88tr+hWac0pbJuNRcyGM3fwCMqcmpgp9k=;rHJv4/wMRNR1kOcP0Pr9LA=="
+secured: "aDcGg1b7BHE5JNhbHbfIWfWWdLUF3YIwGbG3jn9Ko3udzlf4XtOcUSe6ittpgQb1TE+P83Og4djc3MaxY/0QHS+JrRqilUmunPEu4ZLu7QsQ0xwWvFfQLnfBEWYcj85Xxqk0i8LVL1kPFr20eZaPgOPuVYh0vHJhFEHQ/sDgKz9cl+ECFBcSjy029EcoQC8z0Ki62anJTS+8knowH6Wn0vXBvjnXzhV8sCtYrnWKYr1B24SzptfSSKtGLVH/oZIn5p1BD1+AoHMKWv8z44XwAO2c0/3YZcU2vXZK3UVFD31J7++FvD5sS7iCKyxQQrgLWTtIFxZZsf9gRttM5EOo0loM/z6O/IGdL7H2NEGpAkpZ7FiB2Ve8VLf8cNO8APySiJHmu7COhaWLLv76iPWF9lusr6nvjMtsl1DKrBIVgRP6M+mzKBs1mRHKpUHLPVtDE/KraMLgYcAsCfBjgCpSvc20pEFpZ7K9n43iy2+KVB1/2CZSM0m4GIlnUIsxByK1dqVwE8hrfoixH2Dpcy9n4A==;8vjWjAYgkL3Y/FkoXEy5Dg=="
 ---
 

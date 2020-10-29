@@ -68,6 +68,20 @@ related:
         width: 879
         height: 494
         isCached: true
+  - title: "A Machine Learning-Based Approach To Formality Equivalence Checking"
+    excerpt: "After all, it is using machine learning! Machine learning is the process that powers many of the services we use today— recommendation systems like those on Netflix, YouTube, and Spotify; search engines like Google and Baidu; social-media feeds like ..."
+    publishedDateTime: 2020-10-29T07:03:00Z
+    webUrl: "https://semiengineering.com/a-machine-learning-based-approach-to-formality-equivalence-checking/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/Synopsys_ML-formality-equivalence-checking-fig1.png?fit=1662%2C1050&#038;ssl=1"
+        width: 1662
+        height: 1050
+        isCached: true
   - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
     excerpt: "It’s a challenge to learn a new language, especially once we’re past 18 years old. But Duolingo, self-proclaimed as “the world’s best way to learn a language” and seconded by reviewers at the Wall Street Journal and the New York Times,"
     publishedDateTime: 2020-10-27T06:26:00Z

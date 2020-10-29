@@ -1,13 +1,13 @@
 ---
 category: news
 title: "An IBM exec on how robots and AI have transformed human resources jobs and why the company is tapping into the $148 billion HR tech market"
-excerpt: "CHROs \"need to be able to operate as a strategic advisor to larger businesses,\" said Amy Wright, managing partner for talent and transformation."
-publishedDateTime: 2020-10-26T14:59:00Z
-originalUrl: "https://www.businessinsider.com/ibm-hr-tech-market-upskilling-training-chatbot-bias-ai-2020-10"
-webUrl: "https://www.businessinsider.com/ibm-hr-tech-market-upskilling-training-chatbot-bias-ai-2020-10"
+excerpt: "Stock quotes by finanzen.net Business Insider Hispanolistic/ HR departments are getting better at using technology – but many aren't quite as tech savvy as they should be. That's according to new research from IBM,"
+publishedDateTime: 2020-10-26T14:32:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-hr-tech-market-upskilling-training-chatbot-bias-ai-2020-10-1029721680"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-hr-tech-market-upskilling-training-chatbot-bias-ai-2020-10-1029721680"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -19,14 +19,15 @@ provider:
       height: 50
 
 topics:
+  - IBM AI
   - AI
 
 images:
-  - url: "https://i.insider.com/5e5ffa14fee23d5555452d88?width=600&format=jpeg&auto=webp"
-    width: 600
-    height: 450
+  - url: "https://i.insider.com/5e5ffa14fee23d5555452d88?format=jpeg"
+    width: 1779
+    height: 1334
     isCached: true
 
-secured: "odGLMT7LpYvqSGx3LZGgrrZOSQhf3QRFMWqWIYQ9uGI6P6qEU4Uuzzlop6tUFEVCBb/qD97hllU956scTUVqUcOm8zItSjSsTFuAdXw19NcK17kiYWAiywDydaUJ7crHbbYTWGWpFtfdCzdHy1TY3Ucj5fYlxFSs+NS8Zbwwr+/8Gqb6yP9ojIDeAYo4sYetPfnHhxSYKLszboNg7d0XZsZ9DCdTdYhk3lmLhYI65sbuuw0aHyE/a0IPnsjEadnmzwAzPFzQF6pk15rBT6TtPGZ1evDlrLmEeue3gLuFDCtdEAuRGCu2BNR49MZJArYoCNI8/3uHZMv8oTJN0N256M4vFU4PPohLBWbBsIrFIyM=;ZhPiyGwdXXxZw5ODTEwBNw=="
+secured: "tpGNUJSeaTPIzaAzS/9YOAkSd6APG1AfZzE1ZhJ9aWOPKeKy1dA7Gr+HMRZ2yS8LaIyzSDP10f9ztfGLKM+WGgXo/Esc1bJvrSW9wen9UlDwANKDUiJy5Xsmfaq6PH/7KGfSwE3pqEo7Vj2uk5BRnDeGPTzITqPYaNyZOlh/MRnIH82ICopQqNtD35vFnF57XuieUNWO1kJpv3yVvi+AsmNCNzUdpkSonIPyFYGP2in0bHTD61jSDBvJ5J3xhhv3SXzXqcy3fcu/98AQaY27Uk75akBr26mGY3SMaLdbToL/bQuzneYRSSqObziNhMWC2QSHEuxghUisrcQKLTXJ9/QgjOE10blLlZ60Q+G/vE8=;3cu16m2/fEJh4OUokoCZbQ=="
 ---
 

@@ -2,6 +2,205 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-13-when-ai-hurts-people-who-is-held-responsible.md",
+      "title": "When AI hurts people, who is held responsible?",
+      "excerpt": "How to determine whether a human was at fault when AI plays a role in a person’s injury or death is no easy task. If AI is in control and something goes wrong, when is it the human’s fault and ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/",
+      "originalUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/12/uber-self-driving-car-transportation.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/",
+      "publishedDateTime": "2020-10-12T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector.md",
+      "title": "Google updates Android Studio with better TensorFlow Lite support and a new database inspector",
+      "excerpt": "Google launched version 4.1 of Android Studio, its IDE for developing Android apps, into its stable channel today. As usual for Android Studio, the minor uptick in version numbers doesn’t quite do the update justice.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/",
+      "originalUrl": "https://techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/02/00100dPORTRAIT_00100_BURST20190225082039558_COVER.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/amp/",
+      "publishedDateTime": "2020-10-12T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-teslas-full-self-driving-beta-releases-to-some-drivers-on-october-20th.md",
+      "title": "Tesla's 'Full Self-Driving' beta releases to some drivers on October 20th",
+      "excerpt": "A small group of Tesla drivers will get the chance to test the company's 'Full Self-Driving' rewrite next week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
+      "originalUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F3b890af0-0cab-11eb-aff2-f11b123b62a1&client=amp-blogside-v2&signature=d1805af9a493dbf66adae49607fe3512a7edbe41",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html",
+      "publishedDateTime": "2020-10-12T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-intel-india-sets-up-centre-for-artificial-intelligence.md",
+      "title": "Intel India sets up centre for artificial intelligence",
+      "excerpt": "Intel India said it had partnered IIIT Hyderabad, Public Health Foundation of India and the Telangana government to unveil a research centre to focus on leveraging artificial intelligence (AI) to solve India’s population-scale challenges in sectors such as healthcare and smart mobility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece",
+      "originalUrl": "https://www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/business/i18ihs/article32837596.ece/ALTERNATES/LANDSCAPE_615/TH13BURAVISHANKARPRASAD",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece/amp/",
+      "publishedDateTime": "2020-10-12T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-android-studio-41-simplifies-using-tensorflow-lite-models-and-android-emulator.md",
       "title": "Android Studio 4.1 simplifies using TensorFlow Lite models and Android Emulator",
       "excerpt": "Version 4.1 includes easier implementation of on-device TensorFlow Lite models, the ability to run Android Emulator directly in the IDE, and support for foldable form factors. There’s also a new ...",
@@ -1004,197 +1203,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-sagie-davidovich-on-the-future-of-ai-and-ethics.md",
-      "title": "Sagie Davidovich on the future of AI and ethics",
-      "excerpt": "Artificial intelligence is moving beyond just predicting the future to shaping it to our will, although ethics are extremely important to this brave new world.That’s according to Sagie Davidovich, the chief executive and co-founder of Israel-based AI leader,",
-      "sourceUrl": null,
-      "webUrl": "https://www.innovationaus.com/sagie-davidovich-on-the-future-of-ai-and-ethics/",
-      "originalUrl": "https://www.innovationaus.com/sagie-davidovich-on-the-future-of-ai-and-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.innovationaus.com/wp-content/uploads/2020/10/Abstract_Tunnel_1644528388_OP.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Innovation",
-        "domain": "innovationaus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-robotic-interviews-machine-learning-and-the-future-of-workforce-recruitment.md",
-      "title": "Robotic Interviews, Machine Learning And the Future Of Workforce Recruitment",
-      "excerpt": "These would affect all aspects of HR functions such as the way HR professionals on-board and hire people, and the way they train them",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357593",
-      "originalUrl": "https://www.entrepreneur.com/article/357593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602496955-artificial-intelligence-2167835.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357593",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357593",
-      "publishedDateTime": "2020-10-12T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-robotics-startup-miko-raises-inr-23-cr-from-stride-ventures-angel-investors.md",
-      "title": "Robotics Startup Miko raises INR 23 Cr From Stride Ventures, Angel Investors",
-      "excerpt": "This infusion comes after the startup had raised INR 15.98 Cr from investors such as WNS group CEO and NASSCOM’s chairman Keshav Rurugesh, Inderjit Kaur Arora, Suresh Subramani, Giridhar Sanjeevi and a few others last year.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/miko-raises-inr-23-cr-from-stride-ventures-angel-investors/",
-      "originalUrl": "https://inc42.com/buzz/miko-raises-inr-23-cr-from-stride-ventures-angel-investors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-11-1.jpg",
-          "width": 1020,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/miko-raises-inr-23-cr-from-stride-ventures-angel-investors/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/miko-raises-inr-23-cr-from-stride-ventures-angel-investors/amp/",
-      "publishedDateTime": "2020-10-12T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-can-robots-help-people-with-their-mental-health.md",
-      "title": "Can Robots Help People With Their Mental Health?",
-      "excerpt": "A study found that most think robots can support their mental health better than people, but experts say there are crucial human qualities technology can’t replicate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
-      "originalUrl": "https://www.vice.com/en/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f83e97aaac519009b0749a8/lede/1602481457528-photos-hobby-jibmsms4ka-unsplash.jpeg?crop=1xw:0.7805xh;0xw,0.1098xh",
-          "width": 4468,
-          "height": 2510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
-      "publishedDateTime": "2020-10-12T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

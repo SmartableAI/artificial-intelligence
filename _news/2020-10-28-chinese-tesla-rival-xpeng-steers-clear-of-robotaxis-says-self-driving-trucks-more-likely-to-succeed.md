@@ -197,17 +197,6 @@ related:
         width: 728
         height: 300
         isCached: true
-  - title: "Tesla is putting ‘self-driving’ in the hands of drivers — but critics ask if the tech is ready"
-    excerpt: "SAN FRANCISCO — In a year when Tesla might have been forgiven for extending its timeline on a key initiative, Elon Musk is forging ahead with a vision for what he calls “Full Self-Driving.” This past week, a group of drivers was selected to receive a ..."
-    publishedDateTime: 2020-10-24T13:06:00Z
-    webUrl: "https://www.seattletimes.com/business/tesla-is-putting-self-driving-in-the-hands-of-drivers-but-critics-ask-if-the-tech-is-ready/"
-    ampWebUrl: "https://www.seattletimes.com/business/tesla-is-putting-self-driving-in-the-hands-of-drivers-but-critics-ask-if-the-tech-is-ready/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-is-putting-self-driving-in-the-hands-of-drivers-but-critics-ask-if-the-tech-is-ready/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 27
   - title: "The chemistry behind self-driving cars"
     excerpt: "Self-driving, electric cars have been touted as the next big thing in transportation. While this technology has progressed in recent years, experts caution that automakers will need the chemical industry to help make it a reality."
     publishedDateTime: 2020-10-28T18:02:00Z

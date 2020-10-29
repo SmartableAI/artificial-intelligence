@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library/"
 type: article
 quality: 80
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://spacenews.com/wp-content/uploads/2020/10/rsz_20200807-safires.jpg"
         width: 879
         height: 494
+        isCached: true
+  - title: "A Machine Learning-Based Approach To Formality Equivalence Checking"
+    excerpt: "After all, it is using machine learning! Machine learning is the process that powers many of the services we use today— recommendation systems like those on Netflix, YouTube, and Spotify; search engines like Google and Baidu; social-media feeds like ..."
+    publishedDateTime: 2020-10-29T07:03:00Z
+    webUrl: "https://semiengineering.com/a-machine-learning-based-approach-to-formality-equivalence-checking/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/Synopsys_ML-formality-equivalence-checking-fig1.png?fit=1662%2C1050&#038;ssl=1"
+        width: 1662
+        height: 1050
         isCached: true
   - title: "Biometric Cards, Digital ID, and Machine Learning: This Week’s Top Mobile ID Stories"
     excerpt: "Mobile ID World's top stories bring us two prominent themes: alternative approaches to digital ID, and biometric cards."

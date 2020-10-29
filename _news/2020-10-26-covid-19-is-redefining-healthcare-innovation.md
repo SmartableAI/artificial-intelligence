@@ -33,7 +33,7 @@ related:
     provider:
       name: Massachusetts Institute of Technology
       domain: mit.edu
-    quality: 50
+    quality: 52
     images:
       - url: "https://news.mit.edu/sites/default/files/images/202010/MIT-Cough-Recordings-01-PRESS.jpg"
         width: 1350

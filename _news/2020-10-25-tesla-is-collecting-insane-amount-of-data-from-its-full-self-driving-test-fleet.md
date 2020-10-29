@@ -47,22 +47,6 @@ related:
         width: 1587
         height: 706
         isCached: true
-  - title: "Watch Tesla Full Self-Driving Beta in a full 30-minute realistic trip"
-    excerpt: "Driving Beta trying to handle a full 30-minute trip in a realistic environment. Earlier this week, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature."
-    publishedDateTime: 2020-10-24T14:41:00Z
-    webUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/"
-    ampWebUrl: "https://electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/24/tesla-full-self-driving-beta-30-minute-realistic-trip-video/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-beta-hero.jpg?quality=82&strip=all"
-        width: 3584
-        height: 1742
-        isCached: true
   - title: "Tesla debuts ‘Full Self-Driving’ beta, but it comes with a warning"
     excerpt: "Tesla has debuted its much-anticipated \"Full Self-Driving\" (FSD) feature in beta mode, allowing select Tesla owners to experience the next phase of Autopilot."
     publishedDateTime: 2020-10-25T16:22:00Z
