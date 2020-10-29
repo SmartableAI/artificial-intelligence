@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Artificial intelligence can help to improve prognosis and treatment for glioblastoma"
-excerpt: "In the first study of its kind in cancer, researchers have applied artificial intelligence to measure the amount of muscle in patients with brain tumours to help improve prognosis and treatment. The research will be presented at the National Cancer Research Institute Virtual Showcase,"
-publishedDateTime: 2020-10-29T00:04:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/ncri-aic102720.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/ncri-aic102720.php"
+excerpt: "In the first study of its kind in cancer, researchers have applied artificial intelligence to measure the amount of muscle in patients with brain tumours to help improve prognosis and treatment."
+publishedDateTime: 2020-10-29T08:23:00Z
+originalUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-prognosis-treatment-glioblastoma.html"
+webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-prognosis-treatment-glioblastoma.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-prognosis-treatment-glioblastoma.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-prognosis-treatment-glioblastoma.amp"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Artificial Intelligence Helps Improve Treatment for Brain Tumor"
@@ -56,6 +52,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "r1B9wU6hHx6mb/mECW+ioVXz0oDnXb11XBGUMWNTxzgDhcw9kA2MZNYvIguEvxAqq6tSDnE2sIHcIxhE/8XmfF/8aVFLNgOUfSe48BEQ2FYqCTXTL/ZZZB4rExiOwgJvFLqQ+muVYbPbbzL1lJyR0X6vrUgDlyjNLIyXSC+gxexHbGji+1ZBfBDGTv+DMm/ZpQhCoVDrUU4BRZ7DssTsHJUVkIBZdYTxtZZnRudVq83uTkOBJbbiMxlhI1qwdWJaWQti0FZmvcjMf/PnFEGMaU8vfvB9rsaV1PWP56EA7zrT+GymIdn8e1UwXBBzTgkPBEM4JQW4BYlND+UA1kR0jlEJUbSDczj6g8swQBrmUyo=;rA/ieDxqidFWn5S/8QPung=="
+secured: "y/D7PI0z57VxqVuyePWXmFbZuJBI+6cx2Fog35vWiUHgguhjybOkB/vp4DOk63zv070uYv0ncykuVXvAJpAfdqv7wojN7FKmlfzRFUQtYGBQtr6MjUWDm9merPgHL3Gwq//+c6Ykkg+B1TvGxBV+Sl3SYeW2koSw4DnsPYBVrKjKo7NYhTWEQt96bFXEm1fpBPD4xNVCmmTmPOtOn1+poesTd8QasT5MrIWCvbT+ri/GZ5a35forUPycZuX3o2kng/h6M+mxsxISKEd0dF9DHssrcYRnRE8bNgmJwJuoM4xtcP/hZhQSZ/tMAY2y4l7lp8757ruD042+sao186WVxyHyGMsr9vVhQ6Dn3pwMhok=;DFzYmCcVW5QQIi33XqpRxQ=="
 ---
 

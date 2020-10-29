@@ -333,10 +333,10 @@
     {
       "path": "_news/2020-10-20-oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies.md",
       "title": "OneConnect Shares Fintech Insights with Chinese Banks and Fintech Companies",
-      "excerpt": "PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (OneConnect, NYSE: OCFT), a leading technology-as-a-service platform for financial institutions,",
+      "excerpt": "PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (OneConnect, NYSE: OCFT), a leading technology-as-a-service platform for financial institutions, shared its vision of innovation with the Fintech Association of Hong Kong of the Chinese Banking Association of Hong Kong at a recent video conference.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697336",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697336",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201020cn63848/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201020cn63848/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -346,21 +346,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T02:26:00-07:00",
+      "publishedDateTime": "2020-10-20T02:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

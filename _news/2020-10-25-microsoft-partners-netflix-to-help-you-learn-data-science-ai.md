@@ -212,20 +212,6 @@ related:
         width: 1259
         height: 708
         isCached: true
-  - title: "Microsoft partners Netflix to help you learn data science, AI"
-    excerpt: "Inspired by the new Netflix original titled 'Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."
-    publishedDateTime: 2020-10-24T16:23:00Z
-    webUrl: "https://menafn.com/1101010061/Microsoft-partners-Netflix-to-help-you-learn-data-science-AI"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2020-10/24/I_7fec8981-3image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Microsoft’s Turing Language Model Can Now Interpret 94 Languages"
     excerpt: "Microsoft detailed the Turing multilingual language model (T-ULRv2) and announced that the AI model has achieved the top rank at the Google XTREME public leaderboard."
     publishedDateTime: 2020-10-26T08:34:00Z

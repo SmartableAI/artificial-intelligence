@@ -52,6 +52,20 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Google and the Mayo Clinic to use AI to better target radiation therapy"
+    excerpt: "Google and the Mayo Clinic will build an artificial intelligence tool to guide the targeting of radiation therapy in cancer patients."
+    publishedDateTime: 2020-10-28T00:00:00Z
+    webUrl: "https://www.statnews.com/2020/10/28/google-mayo-clinic-ai-to-better-target-radiation-therapy/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 54
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2015/12/AP_141085435168-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "NOAA exploring artificial intelligence pilots with Google Cloud"
     excerpt: "The National Oceanic and Atmospheric Administration plans to improve weather forecasting by more effectively using satellite and environmental data in a series of pilots with Google Cloud. Google entered into a three-year other transaction authority (OTA) agreement with the National Environmental Satellite,"
     publishedDateTime: 2020-10-28T14:17:00Z

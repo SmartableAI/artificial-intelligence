@@ -1,26 +1,28 @@
 ---
 category: news
-title: "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk"
-excerpt: "IBM. \"By partnering with ServiceNow and their market leading Now Platform, clients will be able to use AI to quickly mitigate unforeseen IT incident costs. Watson AIOps with ServiceNow's Now ..."
-publishedDateTime: 2020-10-16T01:25:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html"
+title: "IBM and ServiceNow help businesses use AI to Automate IT and reduce costs and risk"
+excerpt: "o IBM Watson AIOps uses AI to automate how enterprises detect, diagnose, and respond to, and remediate IT anomalies in real time. The solution is designed to help CIOs make more informed decisions ..."
+publishedDateTime: 2020-10-16T06:48:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-120101600445_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-120101600445_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-120101600445_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-120101600445_1.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
     isCached: true
 
-secured: "4EV/ErxNczh6NvEAvZxChygPAm7Y30Jcj85E0T4rhKSR5hrdNC26/hYQ9TphIIbB/8ZY1wEWHXSXiWUAPLKGdKw7DFRQRV4hPC0W6wXguQwkbJ3n+Vu7g+ivYJS37dWMbVB97Y8kVyu2Zjp8xnBMz+d6XICrBdlmfcyBiPeSfIpRl1j7dbgRxvseYSPXRGWskqQ8wDnTooMmQDFxJlz8Es0GOOcLjJaNKxVoVIXjibbWgeKuxV0c56iu4bHeP/ztsweKGzhHY17CddElTOkifUkvUKm5czc96Xg4B7PMg4GKjS8YX027Fj0KhQgoKc4AfCYUlKh4s1YhhwFZDL2zVrlkMt2dnGHDFGuvFeUE8g8=;EF2qqblKtm23+VKsp7etBQ=="
+secured: "9l+wfZwHBOu2WCvfcYUbzdYklB2ucEnspxWDSwsNrDn6Zv+1iOw2YNYDbhbSYYlmd71AivjqbH5MiVZLlqckf1n5sgzPcIxzQEnRMnE8ryeGdAINo41oKXt4541nBpMQ2NXRm3Dz/D/EoEm4VqTFNAC7kasPxexlO69JnScficcWubFGwwG0vMiFjzlq/E+7tA/K2vNlMtMtoBQujcQicggWD6UHA8pA/CRWT+iM8MTAbSo2dIkVzI6/LyD/XAfiwmfKAntpFmIlHXdQ2jReasrW9W2B0cVk+QOOQf8ceQAJ4F54N8Wg6AVb+TVR4HsohVh2JCetu7UTabJ/fnas74KNLOdLoeWD7M7IMbVx8nU=;WsBy6OQ3JHa67+CzTolecQ=="
 ---
 

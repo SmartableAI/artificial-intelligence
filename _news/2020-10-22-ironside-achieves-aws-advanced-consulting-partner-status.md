@@ -2,25 +2,21 @@
 category: news
 title: "Ironside Achieves AWS Advanced Consulting Partner Status"
 excerpt: "The journey to AWS Advanced Consulting Partner status pushed us to gain valuable understanding of AWS and services like Amazon QuickSight, Amazon SageMaker, Amazon Redshift, and more, which ..."
-publishedDateTime: 2020-10-22T09:15:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201022005343/en/Ironside-Achieves-AWS-Advanced-Consulting-Partner-Status"
-webUrl: "https://www.businesswire.com/news/home/20201022005343/en/Ironside-Achieves-AWS-Advanced-Consulting-Partner-Status"
+publishedDateTime: 2020-10-22T13:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18014673"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20201022005343/en/832585/23/IG_AWSpartner_Logo.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "RpCyO5kP4DejyxIPPIDmmny1uYBNIykODTWvYViByopBEtWIpRBSpLVUDjSwy1qil0oIbN/Dr4nvQGD6I/hw1mYuCBQTrYWgLRQYEneT52rSdzHnSoYcdCwoN6SxMKGezatxBPQ9RLYaBAz7EK+RcS44n4cZ8MidYsepWAWCW6PDdz1OdfM6Oc2XN6+e3EQhsmz8gt2xrYqs1YxlS9IY0FO/FHKAUwbceQVC1DbFFPFoBt8uN5VBSPsPK+cZAUsjM97CTK1VnkpKNTsMw0dS4zRxx705fMFaG1KG5nhuONaSVd/FLa0yPrqLX7P/mb6tW886Wey+kEQ9zIAR28kxJjjcRUA9vN0y91yh88yIq/A=;uxJRcLptOHiuims7r4MZrg=="
+secured: "UONIhxJ3Qg9AcYeI46IE/Fl7r1lYtp8buFILBZHJYWq54nHQ8IgZuYAgHSvaHlFXb168DXRo4G4JtgXWzKrKGY/A7D8qy68gs9lxxN2kVxDifIGnczLKyo+aTwpE0KDp//bVEJptis8RefeJF6Dauc29I1fCXXjLEGRbgGyJH38OdJlItvVmyui1xFmx3hW2Tvw9MRFgAokQYTzUrKkpNw3+Nd/KAneVg5whL/AYb2PMAJG/gRYMKjcgXfl1+lBu2SyTAFaaatqp4lPCQKU4WxfQnsrKE6VxX6tonCXCQaYJ7YShRthTEGv74dP9wCE0DafmpRr7fX6UlGxpgq1qWroXaq1xhUSwdv0n7mnXwGA=;SYLM5Mf+n1u08PRIPmLCuw=="
 ---
 

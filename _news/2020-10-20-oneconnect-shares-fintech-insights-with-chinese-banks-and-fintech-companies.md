@@ -1,24 +1,20 @@
 ---
 category: news
 title: "OneConnect Shares Fintech Insights with Chinese Banks and Fintech Companies"
-excerpt: "PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (OneConnect, NYSE: OCFT), a leading technology-as-a-service platform for financial institutions,"
-publishedDateTime: 2020-10-20T09:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697336"
-webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697336"
+excerpt: "PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (OneConnect, NYSE: OCFT), a leading technology-as-a-service platform for financial institutions, shared its vision of innovation with the Fintech Association of Hong Kong of the Chinese Banking Association of Hong Kong at a recent video conference."
+publishedDateTime: 2020-10-20T09:07:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20201020cn63848/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20201020cn63848/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "B98CnGqw5q18FyuKwtCl7dOeHu5iEqitGeFVSab+Pzf7Z1QlCcC8FbOdrREWIUyqTuC0g7U1AaA1SlzhpxiC8v4RfZyLslIFssyKMlfM0vtbGRi3Az6aPRW4UAdYsIyqLgjvfPVs8bjFkAX2pBxVmnqeVJtcSGdjKeIkrENwrBKcw84II1zv2EctsYMWXSKmPYXsvZ8BJ3Kp7HMdNlTp5F6JalVXP6eoCgnpLlrTfT87wPmtTZiiepbFrxqcr1n6pkAKaKGitvFS8vLKmBLKkcVI8Z+8MtloFUwqTD8ZrXYamS+Fg2TRxm7Ucqg+DKN3m1ob1dLvQjKF8Wkt6LE9+RxWOp9aK4ULV7FlyYCRrAU=;NxN259wDyAhN6XQApXsZ4w=="
+secured: "Zhy6Jhi7pqSfBb4+MxllBYU3Uf+utt/D0rDL5MILB4dZtvEVN241Korng5RdMk16W/0Xw9oIEZk1EYEFbwGBUVyYt4ZiYt3BVXDDCFN/VcQd/XwG7benn3VnSfhzmed8AVz2LstW3Ns7QSsBYX5uxsVITnmo14VJQ39EHUgRhr+L1x2JwQsOvUul2fcNNgY1EqRmdjWkALUghLiibuo2kd13tfIjfHoht9oDCgr5WTKL8IxO/eC1qbHO7pUkbXJhAX4W8DABykgi4Wq6GYJ+IvH6tovVvroz+xBG8a2QdW8hNCRSe/QUcBrt2rs9SCX8NfdIWUdz3ThCFM+PwzI8zRQh7Nqk6sBSHvqF45MzrTQ=;TeC81JT8aqL2yFHiQ5ORQg=="
 ---
 

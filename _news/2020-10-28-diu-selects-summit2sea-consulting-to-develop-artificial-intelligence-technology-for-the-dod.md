@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit
 webUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     height: 400
     isCached: true
 
-secured: "y3lj1nSb+QQS7HsTzgXmlY/eAYEfD+t/+CuDc8KzZvoYjDGyFBFRn4i37MNbxGcpYehgYZH/4jy1dw8rPzp5sdViKZ473pACo0BKWRViWqvw3jcjaiWkHMwAIqVprGVBYBLporVkfygIEwZDPqu3tVv20SSG+6rrXOwtA1fBGDF47ksf/WiiBVZvJyCC7Ybe8vZyn4NaGxX4a/sK+2MRC+Luq0loT3Lbmh3eLVrhKLoGEBQGrmf0xi5n2ijLt8qCk6HKPw0FenYQc2pC0Ru4Wkg767G1xnlN/TRBjPeE7ehRVXZmeZNw73wkNNVFfsLXcRw+F/WQ9FayC1ckxMETOkaUw4m1cuyRNi9BiSpC6Ng=;MG3QFwVc6xZoNLG3xY/CHg=="
+related:
+  - title: "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD"
+    excerpt: "Summit2Sea Consulting, has been selected by the Department of Defense (DoD) to prototype the Humanless Unmatched Transaction (HUnT) solution for the DoD."
+    publishedDateTime: 2020-10-29T09:46:00Z
+    webUrl: "https://www.breezejmu.org/news/state/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod/article_f0a9a343-06dd-5ae2-a694-19268b696af4.html"
+    type: article
+    provider:
+      name: The Breeze
+      domain: breezejmu.org
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/breezejmu.org/content/tncms/assets/v3/editorial/b/07/b07688e5-7f62-5461-b2f4-302635c2093a/5f9980eb47af3.image.jpg?resize=340%2C400"
+        width: 340
+        height: 400
+        isCached: true
+
+secured: "f1L/WJvpi81NmJRGdFh7jwZczFchNziM9EnJ9mk/XfH9rwXG01ZJih+Oi0p1NTmOgg6k97s1paUhGWL9/51QfCQFHEAqGkBefzIjxY7FftS/+R+mgCaZLR/I95eTiEQbBe1ToF4UMwE9xvBBX4opAtjebRtYC2vcrSlhijZrzpu8RpyTNp5Ius3I5SbOCDDDUkj7fWkINsA3X0KtU87v4DPcvqrAlwbSIyeBn5lQK7eYmzJ5hF4aclkbCQXnP5ud9Zwz2DUevGpVPcAnVwzjqsoiT23oV/SxmYzLfJ7c27gOd/XgyWWyjVXSBRPfbsggEk5adVApDdpxPjfCF88MT7afPZy+lKfYETZPZWV4p3Q=;W2qiM4V0CBVMJhl1F/oxWw=="
 ---
 

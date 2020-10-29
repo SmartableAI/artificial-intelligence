@@ -68,22 +68,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "Should You Spend $10,000 On Tesla’s Full Self-Driving System?"
-    excerpt: "Tesla CEO Elon Musk recently announced the automaker is increasing the price of their Full Self-Driving system by $2,000. That’s a significant jump and brings the system’s price to $10,000. Which begs the question of whether or not it’s worth it."
-    publishedDateTime: 2020-10-24T16:45:00Z
-    webUrl: "https://www.carscoops.com/2020/10/should-you-spend-10000-on-teslas-full-self-driving-system/"
-    ampWebUrl: "https://www.carscoops.com/2020/10/should-you-spend-10000-on-teslas-full-self-driving-system/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/10/should-you-spend-10000-on-teslas-full-self-driving-system/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 59
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2019/09/37cd2aaf-tesla-smart-summon.gif"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Tesla's Self-Driving Beta Fleet Is Generating An Immense Amount Of Data"
     excerpt: "Many experts warn against Tesla's approach to self-driving tech. It's too early in the game to know who's right, but relying on data should be a positive."
     publishedDateTime: 2020-10-26T14:22:00Z

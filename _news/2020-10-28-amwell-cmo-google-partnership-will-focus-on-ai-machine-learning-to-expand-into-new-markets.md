@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-28T16:17:00Z
 originalUrl: "https://www.fiercehealthcare.com/tech/amwell-cmo-google-partnership-will-focus-ai-machine-learning-to-expand-into-new-markets"
 webUrl: "https://www.fiercehealthcare.com/tech/amwell-cmo-google-partnership-will-focus-ai-machine-learning-to-expand-into-new-markets"
 type: article
-quality: 25
-heat: 25
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "ud2kPkMq0OSnOwEysRE8QJQ4xjHpBdNne8KV+JAkWjpwc7LG8Hqi0q/UCJpNX/B53diMhZpgcwDBwdFVw2iC1RBz04E224j71gQaO0Xfxk+62eAZA0Npcu54k1uJ5lpOIJNIiYYVfNrb6E1FJvmWdlpWpI2o0E+f4Wmyng7Se5rzc6Hl57KNsNZ5tPtEwXuh7ObVFonkta3X6B2pKTdrZt5QeIZG0EWis9V9Lq3zNFYUkFi8AU0j5ISExbJIE930LMTPFR+6ejWd6z16RFXeDoSgAVFoPQJ5zPmYEltYsuA9INKanQSl50oluRPoINRb5U70UURgqvsctT/gWm6TbR+/PX4FFZ1HM3b4Ol+ybqM=;WmIdxl3n8BZVfM2hqMlQLw=="
+images:
+  - url: "https://qtxasset.com/fiercehealthcare/1603898484/WomanOnCouch2_DrPhillipsSplit.jpg?ga7V06kYxUhRbWNsKpTwpb7i.A5CPbND"
+    width: 4000
+    height: 2667
+    isCached: true
+
+secured: "lbCNsp+8wHj2m0KMvje1kPRn7mCxaLXb6r87PWpPyWNhPO/gRp+IUNqE3TUVUOgdtgth5B2rTBTKm1XUbtz31RD9dT4wiJ2s3Fg9IF10VtEVopJ0lZx+OxHLymxZgVQe7KrAfYwokAR3fWeuV/pEpxEWEf8X2WTFRN3PYx10thWTaW9Qf/Xbg2q/OXMrw2n4yDsq7s4Bi/R1DlRJwh32JE4v8RS51pCNJQqE+cIptR1b79YHbYxI7o38uou9IllvAR1iNjtDZMDiLOGh9dipeTT2mDuH7/mYRY6IWdu7TswLKS7JKeU+iWw3lpICvC4kG/8Acg3ARfwZQpGF5z4SUcT9TxGuWLTnn1V5LtulKco=;u8ZE+6XEyzuu1JBtm8HepQ=="
 ---
 

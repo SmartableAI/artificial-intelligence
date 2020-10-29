@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-preview-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/"
 type: article
 quality: 106
-heat: 256
+heat: 246
 published: true
 
 provider:
@@ -206,20 +206,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/RE4vhVe.jpg"
         width: 1259
         height: 708
-        isCached: true
-  - title: "Microsoft partners Netflix to help you learn data science, AI"
-    excerpt: "Inspired by the new Netflix original titled 'Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."
-    publishedDateTime: 2020-10-24T16:23:00Z
-    webUrl: "https://menafn.com/1101010061/Microsoft-partners-Netflix-to-help-you-learn-data-science-AI"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2020-10/24/I_7fec8981-3image_story.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Microsoft partners Netflix to help you learn data science, AI"
     excerpt: "Inspired by the new Netflix original titled ‘Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."
