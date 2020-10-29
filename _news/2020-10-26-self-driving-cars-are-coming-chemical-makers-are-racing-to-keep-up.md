@@ -68,20 +68,6 @@ related:
       name: Engineering
       domain: engineering.com
     quality: 39
-  - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
-    excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
-    publishedDateTime: 2020-10-24T17:22:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 28
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/70/25/20153683/5/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "How Self-Driving Trucks would Show a New Direction to the Trucking Industry"
     excerpt: "Autonomous vehicles are no longer limited to mere theory. They are already becoming popular among people, and self-driving trucks are expected to make their way onto the roads in the years to come. A survey discovered that more than 50 percent of small ..."
     publishedDateTime: 2020-10-26T07:01:00Z

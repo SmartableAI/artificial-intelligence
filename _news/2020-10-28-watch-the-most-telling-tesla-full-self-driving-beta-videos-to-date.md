@@ -86,20 +86,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tesla rolls out 'full self-driving' software to select Tesla owners"
-    excerpt: "Tesla announced the release of their beta software for 'full self-driving' cars to a small group of Tesla owners."
-    publishedDateTime: 2020-10-24T18:14:00Z
-    webUrl: "https://www.khq.com/news/tesla-rolls-out-full-self-driving-software-to-select-tesla-owners/article_b80b1032-1624-11eb-bf09-0797e3d48355.html"
-    type: article
-    provider:
-      name: KHQ
-      domain: khq.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/khq.com/content/tncms/assets/v3/editorial/0/60/060777ce-e487-11e9-9cff-d7d7f7bc650d/5d93b1f72532a.image.jpg?crop=480%2C360%2C80%2C0&resize=480%2C360&order=crop%2Cresize"
-        width: 480
-        height: 360
-        isCached: true
   - title: "People are really going nuts over Tesla’s Full Self-Driving Beta"
     excerpt: "Driving Beta to a select number of Tesla drivers. Essentially, the new feature will allow drivers to all but let Tesla take the wheel to get them to their desired destination. Now, obviously, you should still pay attention to the road and have your hands on the steering wheel,"
     publishedDateTime: 2020-10-26T16:03:00Z

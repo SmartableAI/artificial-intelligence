@@ -32,13 +32,13 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg"
         width: 340
         height: 400
         isCached: true
 
-secured: "vbgKy3BJeOxywINsl5m5uHZIxl6hzIE4ktzN19UZdO65EVQ6PEdmL+QPuo+quQ5T5CcYPOcBxz9f8SleAZd8UZ2gZO28g+U7xM9qVxq19wsaDpE7aZTWRmEAsvKnxOJcTBzjUwJDIUYeV2HSK1uNaze/zYVbY9oE93IEsMf46pwwUOqNkg3Jgs6PXZ3+R0OZL0KqmYZjSHbWZ9PNfk/4xnhTQ6yETw4k5dbRaJmD2YESalfVmXaT8KyJ3e1GsCNcvn2X4jB3kQi1EfgKMJwnlFj4VygzGOHdeVJY7pSvK/+sOS+7EN1h1ASlWHvCsbuIQjVg50Y/7PeCKMHumPKHukDttbQCO9WzibgzrUIvNn4=;Z7H1h45/tMq7EJY9quhwcA=="
+secured: "xrIrvfTLHmWbrXWtEl4dpdfi4/BScE9qXK5ijxFP3G9KOdKQ2Nz73DLlVLxTe4reFn5YlJSkrjFHtl6FveiSUqV/OLTCttQb4odjg32E9ZW6xFrlopd13KHPPECld11AALKSm/GQp4kgNhj4OZFpycTeT2mJByxnABYlyrfkNP5d9P230HfxekqwW3gCwLbmcRAl1rMF0tSjA/d+Tln6vkoPxkhDYyvEqTszE93XIrIR0YEkBXiFarUdXNcwZqRFiPoFiCjoBvJ+oqN0JwF7IiJ5PPEZKo1ebbLATkZsjZnJLk8xlsYhUYPd1ipVEaXxdugwi23GPaSwTkQ54FdIzQx4oWQn6eOfMQXtelRZ8O3LPCBguXsRfWw9cI7feOlg9Tm38SqA1NJpY4P3ZMnppLPqqhIaaQxOSLDg24iFQVAAAPcxsp1ELByDxx67P82UAXphmEEJRMxQrpR6qVUvBQplCZEv+zrLtFB19hjQpwO3eqUUAKYT7LlnVxOZBs/KmT7rpgs3k3gfYqbJ7sVDyA==;pNqL59AkcnqUSKj/NJ19SQ=="
 ---
 

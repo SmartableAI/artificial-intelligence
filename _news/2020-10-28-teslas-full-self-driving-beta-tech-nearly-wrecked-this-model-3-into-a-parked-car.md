@@ -121,22 +121,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Tesla 'full self-driving' comes under fire: 'This is actively misleading people'"
-    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. The conflicting messages have experts in the field accusing Tesla of deceptive, irresponsible marketing that could make the roads more dangerous as the system is rolled out to as many as 1 million electric vehicle drivers by the end of the year."
-    publishedDateTime: 2020-10-24T17:44:00Z
-    webUrl: "https://www.autoblog.com/2020/10/24/tesla-full-self-driving-misleading/"
-    ampWebUrl: "https://www.autoblog.com/amp/2020/10/24/tesla-full-self-driving-misleading/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/10/24/tesla-full-self-driving-misleading/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 54
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-10/0fd8d580-e4ab-11e9-a22d-01d4756e572b"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Ford is doubling down on testing self-driving cars in Miami-Dade"
     excerpt: "After landing in Miami-Dade in 2018 with a fleet of self-driving cars, Ford announced Monday that it plans to broaden its presence here as it explores the frontiers of autonomous vehicles. The Michigan-based automaker said it now plans to establish a ..."
     publishedDateTime: 2020-10-27T11:01:00Z

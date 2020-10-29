@@ -95,6 +95,20 @@ related:
         width: 1081
         height: 720
         isCached: true
+  - title: "Amesite Launches New Plug-and-Play Course Creation for Remote Learning and Business Training"
+    excerpt: "PRNewswire/ -- Amesite Inc. (Nasdaq: AMST), an artificial intelligence software company providing online learning ecosystems for business, higher education, and K-12, announced today the release of its new Course Manager capability,"
+    publishedDateTime: 2020-10-29T10:55:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-professional-services-educational-technology-distance-learning-b34d01cc63aa616bd1f8afa546adc91b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "fnqyJ0BIbqyzwqWgyClpuKhMgw2RoiVpYJ5s0Y4cpkPHUkBNs4dt+KbThR2ls7D9Zc7J59KrcMUVISbL1UdD4qTJg0EN5MB6CcL6OZPiuE7yXe/pxCyIyLPNei4LQbHxmxC+mRJfj+WHaOcvWWbRvvaHM1lVSfvyw+oAhHroU7B5tIy7/4RFrOQzntYm7FhluFbVCwzpnSrLmJqEdqiEHiNx2oYuDZg49cm79JiU1Yd/jn30mCh5ucNk1vqrpQgMhkJt7xIIlFHyu5XK4bXPSYV2VGZAkuvvzkIifD+/9q0Qs1eYyWUE33DW4IISGai6iotQMLBh6lvcRrCRp4monC59NExxefigQlQcm0n6GRzjnRhIp2DDkuxw3admAQmSwqD81YRn3grVznmXeOQLY8b+yJtYh97b2lkVT7nPGsAR+N9mxaqviBqTg7sMpxOX06NFMB01f/xFeWNpzGHwOXV8bWA0yP4Kva5jZW2RbQrOxbuq7JJQhc+nV0c/sZihoc2N1Z+cjH0DC1AHdcI6vg==;nBCABxGF138dRL5ZNfidaA=="
 ---

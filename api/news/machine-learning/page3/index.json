@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-14-deep-learning-market-growing-application-of-deep-learning-to-boost-the-market-growth-technavio.md",
+      "title": "Deep Learning Market | Growing Application of Deep Learning to Boost the Market Growth | Technavio",
+      "excerpt": "LONDON--(BUSINESS WIRE)--The deep learning market size is poised to grow by USD 7.2 billion during 2020-2024, progressing at a CAGR of almost 45% throughout the forecast period, according to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201013006083/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201013006083/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201013006083/en/830001/23/IRTNTR41147.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-machine-learning-customer-stories-ebook.md",
       "title": "Machine Learning Customer Stories eBook",
       "excerpt": "Machine learning (ML) is creating better business results across nearly every industry—including financial services. While risk management use cases abound, financial institutions of all sizes ...",
@@ -1313,49 +1356,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-deep-learning-takes-on-synthetic-biology.md",
-      "title": "Deep learning takes on synthetic biology",
-      "excerpt": "Deep learning takes on synthetic biology Computational algorithms enable identification and optimization of RNA-based tools for myriad applications Date: October 7, 2020 Source: Wyss Institute for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201007085615.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201007085615.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library/"
 type: article
 quality: 80
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQG8ma-s99VPlQ/article-cover_image-shrink_720_1280/0?e=1609372800&v=beta&t=ZQjGHg2B_6PQm8fGRIvYNzN2emKDW8gv-qTLJqCeoPI"
         width: 1081
         height: 720
+        isCached: true
+  - title: "Amesite Launches New Plug-and-Play Course Creation for Remote Learning and Business Training"
+    excerpt: "PRNewswire/ -- Amesite Inc. (Nasdaq: AMST), an artificial intelligence software company providing online learning ecosystems for business, higher education, and K-12, announced today the release of its new Course Manager capability,"
+    publishedDateTime: 2020-10-29T10:55:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-professional-services-educational-technology-distance-learning-b34d01cc63aa616bd1f8afa546adc91b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "MMAAbLAgLKezeGopQ3lXd9MymabGzHIGzgeEiVfYV+R7aeen26WOP7wasxjqF5xonO/yrQ2lhbzwYKJ43upIVdnHOIMol+nc3Hw5tAklHHjCicNPXd/KEmhHtTpmII7/+Vj0akCW+pxJ7oYXkhiLLWYC8Y/IMmA6W4O6pNcM63Ki/pcfcRGpKQcJblmbwV1L+2u+gIdsscmS5P3prPLrFu9azX9Xi68QcdlHE9kKXVu7ZEYQtvTSyRsDqUPZIrvaw4sTLT7n6HLDOIUtFDipKktFtAnSHNnxJVjPi4F2MfCNk+Fwhy2FrU6W6oMG5phm+ImNtWlpL3Pe04akJUOMUkhZFH+ySHir4xqW6x3TGY4=;XTO60pAnT2VaE5YSZVS6gQ=="

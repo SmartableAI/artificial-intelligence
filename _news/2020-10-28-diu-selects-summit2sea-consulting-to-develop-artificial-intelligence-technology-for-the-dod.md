@@ -6,9 +6,9 @@ publishedDateTime: 2020-10-28T14:24:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
 webUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg"

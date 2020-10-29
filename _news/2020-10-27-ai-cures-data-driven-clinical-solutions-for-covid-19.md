@@ -56,6 +56,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Global Image Recognition in CPG Market 2020 and the COVID-19 Impact on the Industry"
+    excerpt: "face recognition, product classification, and license plate recognition. The image recognition in CPG market in Asia-Pacific (APAC) is expected to grow at the highest CAGR during the forecast period. North America accounts for the highest share in the ..."
+    publishedDateTime: 2020-10-29T11:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-image-recognition-in-cpg-market-2020-and-the-covid-19-impact-on-the-industry-301162721.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "hJ83BTaaBjMnVjyDQA72KF9DLwmjFQ1Sh9+PSaG3bRLcJGWcHqZI6S4qkuVE+hy/UpGbCefCpy68ZLcSVuWL3A6Er/uM+/qM6+bPOjIHDPPpCTWWZJ736I/5UxpnSeL/gvgBakCbPjbdcYVmaV4mZLQwStzr/Rl0lNyA5wvg3Le+JwtrOutZ001iTfyC1c2vUskISBXHRvZaBCq4IucJ0qMbOMU1YMoTp/PQz9aLir5gCfxLVKJagFmm+qY5SGtmpY19j+u7aOQ+NiFWzyKmTONxG6EEPugtFYPyj/E3/UmzRPUSiTd+F9xreKY/76ZOiPpNw1Vva5SvP5s2sfFgUhhRJMO9UAHpI/Q4sod4iAo=;aCUJKdHicdmA89I0aFAUUg=="
 ---

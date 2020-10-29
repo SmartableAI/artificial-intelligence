@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
 type: article
 quality: 86
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://robbreport.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-28-at-12.jpg?w=1000"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Tesla 'full self-driving' comes under fire: 'This is actively misleading people'"
-    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. The conflicting messages have experts in the field accusing Tesla of deceptive, irresponsible marketing that could make the roads more dangerous as the system is rolled out to as many as 1 million electric vehicle drivers by the end of the year."
-    publishedDateTime: 2020-10-24T17:44:00Z
-    webUrl: "https://www.autoblog.com/2020/10/24/tesla-full-self-driving-misleading/"
-    ampWebUrl: "https://www.autoblog.com/amp/2020/10/24/tesla-full-self-driving-misleading/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/10/24/tesla-full-self-driving-misleading/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 54
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-10/0fd8d580-e4ab-11e9-a22d-01d4756e572b"
-        width: 800
-        height: 450
         isCached: true
   - title: "Tesla’s ‘Full Self Driving’ Beta Tech Nearly Wrecked This Model 3 Into a Parked Car"
     excerpt: "Tesla's \"Full Self Driving\" update was sent out to an unknown number of beta testers a few days ago, and videos showing the system's performance are being shared around the internet. One such clip, posted by YouTuber Brandon M,"
