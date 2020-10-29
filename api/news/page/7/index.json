@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-22-the-2020-data-and-ai-landscape.md",
+      "title": "The 2020 data and AI landscape",
+      "excerpt": "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
+      "originalUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
+      "publishedDateTime": "2020-10-21T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials.md",
       "title": "Ben-Gurion University Researchers Develop Machine Learning Platform to Streamline Clinical Trials",
       "excerpt": "Gurion University of the Negev (BGU) have developed a novel platform to streamline clinical trials, lower costs, and increase the efficiency and success rate of the drug or medical device development process.",
@@ -1193,57 +1246,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-a-harvard-professor-and-his-students-have-raised-14-million-to-quash-adversarial-ai-attacks.md",
-      "title": "A Harvard Professor And His Students Have Raised $14 Million To Quash Adversarial AI Attacks",
-      "excerpt": "Robust Intelligence is leaving stealth with a $14 million funding round led by Sequoia and a plan to become the firewall for the AI age.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/10/21/robust-intelligence-adversarial-machine-learning-series-a-sequoia/",
-      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2020/10/21/robust-intelligence-adversarial-machine-learning-series-a-sequoia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8feb7cc1fbeea0e3cb0c99%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1277%26cropY1%3D75%26cropY2%3D793",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/10/21/robust-intelligence-adversarial-machine-learning-series-a-sequoia/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/10/21/robust-intelligence-adversarial-machine-learning-series-a-sequoia/amp/",
-      "publishedDateTime": "2020-10-21T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

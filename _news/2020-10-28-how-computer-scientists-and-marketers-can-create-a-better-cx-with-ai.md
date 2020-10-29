@@ -1,22 +1,20 @@
 ---
 category: news
 title: "How computer scientists and marketers can create a better CX with AI"
-excerpt: "A failure to incorporate behavioral insight into technological developments may undermine consumers' experiences with AI."
-publishedDateTime: 2020-10-28T15:29:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/10/201028082948.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/10/201028082948.htm"
+excerpt: "Researchers from Erasmus University, The Ohio State University, York University, and London Business School published a new paper in the Journal of Marketing that examines the tension between AI's benefits and costs and then offers recommendations to guide managers and scholars investigating these challenges."
+publishedDateTime: 2020-10-28T08:14:00Z
+originalUrl: "https://phys.org/news/2020-10-scientists-cx-ai.html"
+webUrl: "https://phys.org/news/2020-10-scientists-cx-ai.html"
+ampWebUrl: "https://phys.org/news/2020-10-scientists-cx-ai.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-scientists-cx-ai.amp"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
@@ -33,7 +31,18 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 39
+  - title: "Australians have low trust in artificial intelligence and want it to be better regulated"
+    excerpt: "A new report shows Australians on the whole don't know a lot about how AI is used today, have little trust in the technology, and believe it should be carefully regulated."
+    publishedDateTime: 2020-10-28T17:28:00Z
+    webUrl: "https://theconversation.com/australians-have-low-trust-in-artificial-intelligence-and-want-it-to-be-better-regulated-148262"
+    ampWebUrl: "https://theconversation.com/amp/australians-have-low-trust-in-artificial-intelligence-and-want-it-to-be-better-regulated-148262"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/australians-have-low-trust-in-artificial-intelligence-and-want-it-to-be-better-regulated-148262"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 30
 
-secured: "E4Dj8pHUHKvYpBEi73hjP/f5+PaGDF450yXvYIq9IGpJKDulzpV8l+9LW+KjldgIQo956B8Je6S5G9regB7AUrLILgXMjQ12A2Ofz0lkogv9jrujRrOTyEOsogDOTxUfj74H8bWfcE+OjbmEHGIxcDx585yJp+O1mTwrYZuVNex1Xvx5+mIp4iMnHpzszQTezICZC5Rwd9ueBWVRpWtxKo9lzclw+SYA7YrRy8XDtp4HEUKkbHqZQgyIGbSn51rPicD1S+rElfpf+nhBjpFeI63M7v2pWRwmBNKlnUDADUrB32Uwrgby3HEuBKtjs4ulY8LF/dS7rWRHVJmDf34nMV1N41ZPOsPcwa6u8opubIg=;XPyRra6kvXdVJhA6nDrKCA=="
+secured: "dWYJvx38Nvb1eiBX1A0gQkHMyFo3uZvexUpDHKiDKFLqdG7pkUYZsljUOnkupEAsnOip0BFsJKoNR69xjWmGp2aK37nvcA7fI5rW6hQhF0Ymu44rMVIOAko6EpS8MAZ3Py3RVLY15dmnx/XO9ZNBrC6B2kaeuFiRZ+9SJ7z1iAbMi4A4xk86z30hDuvnkX33IQI42wMqj7h1/L2e8bi6U3wuriDoFdfSYnV6YI31q8BT5aUwOr7FN9x9cs8CV8e9CoOn6zrWXyNXK7ywNGvHaZmbnL4Tp6/uZhO3mOsfI9Fv/4+XBRCh1/AxXhSsoBCfIcwADuKlBR+wcdcUz+Z8vCEAJIayaVO/5nKGkEl7LY8=;JtbzWd9P37HAig945uGx1Q=="
 ---
 

@@ -1,24 +1,29 @@
 ---
 category: news
-title: "Microsoft, Adobe, C3.ai Launch Tool To Help Predict Revenue, Product Demand"
-excerpt: "(RTTNews) - Microsoft Corp. has joined with Adobe Inc. and enterprise AI software provider C3.ai to launch a new tool that would help customers to accurately forecast revenue and product demand, among other things. The C3 AI CRM powered by Microsoft ..."
-publishedDateTime: 2020-10-27T13:36:00Z
-originalUrl: "https://www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27"
-webUrl: "https://www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27"
-ampWebUrl: "https://www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27?amp"
+title: "Microsoft launches its industry-focused Cloud for Healthcare platform"
+excerpt: "It later sold its interest in Caradigm before establishing a healthcare-focused artificial intelligence research unit, called Healthcare NexT, in 2017. Show your support for our mission with our ..."
+publishedDateTime: 2020-10-29T01:18:00Z
+originalUrl: "https://siliconangle.com/2020/10/28/microsoft-launches-industry-focused-cloud-healthcare-platform/"
+webUrl: "https://siliconangle.com/2020/10/28/microsoft-launches-industry-focused-cloud-healthcare-platform/"
 type: article
-quality: 82
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
+  - AI in Healthcare
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/RE4vhVe.jpg"
+    width: 1259
+    height: 708
+    isCached: true
 
 related:
   - title: "Microsoft releases preview of Lobe training app for machine-learning"
@@ -69,6 +74,17 @@ related:
         width: 760
         height: 506
         isCached: true
+  - title: "Microsoft, Adobe, C3.ai Launch Tool To Help Predict Revenue, Product Demand"
+    excerpt: "(RTTNews) - Microsoft Corp. has joined with Adobe Inc. and enterprise AI software provider C3.ai to launch a new tool that would help customers to accurately forecast revenue and product demand, among other things. The C3 AI CRM powered by Microsoft ..."
+    publishedDateTime: 2020-10-27T13:36:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 82
   - title: "Inspired by Netflix original movie, Microsoft wants to teach you AI and Machine Learning"
     excerpt: "Microsoft has come to terms with Netflix to teach learners concepts in data science, machine learning, and artificial intelligence (AI)."
     publishedDateTime: 2020-10-29T01:09:00Z
@@ -187,20 +203,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Microsoft launches its industry-focused Cloud for Healthcare platform"
-    excerpt: "It later sold its interest in Caradigm before establishing a healthcare-focused artificial intelligence research unit, called Healthcare NexT, in 2017. Show your support for our mission with our ..."
-    publishedDateTime: 2020-10-29T01:18:00Z
-    webUrl: "https://siliconangle.com/2020/10/28/microsoft-launches-industry-focused-cloud-healthcare-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/RE4vhVe.jpg"
-        width: 1259
-        height: 708
-        isCached: true
   - title: "Microsoft partners Netflix to help you learn data science, AI"
     excerpt: "Inspired by the new Netflix original titled 'Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."
     publishedDateTime: 2020-10-24T16:23:00Z
@@ -241,6 +243,6 @@ related:
         height: 719
         isCached: true
 
-secured: "WgNDrg9dZ3lM2WVBYfdthuy2pqzve9oIJ2mjxjkIo8tqCsgWlmGZrUgWRz+qymY2qnM2ZM+6RcPbHsy6gmhF8CtJ8IWZ5+K7EyL8wqKo/tPXl903Lh1jJywLNzGYWcxyMHvA1a/jB+Cr93BSAsEFJJg46rolCvPBBvxBYMYKwGdwDm1/ZpBleQqEctqqLWE/LW7yuFBoCwP2IcPkFigVQVMKDJ9kG/y7xF7E5p03+ajVwUOLNpicN6So+ZFI6Pu5H17QzhBjYAwFmNkTNEy9YgHQBu1jZ130SavzNKOMqt2YI8XVHAatq5QsAH+1RwZlG+Z472F54cNilGgwbRFESEEpj9PJMLiAO1LlmQ3FY1U=;btosO1pamAx5mC5FL2uM/g=="
+secured: "qcOo0JiP2vHmDooAiz1h3406xeM4fMar65epdYDDTvP8OlgZ4c4/GP14qYQYlfHBYWTcJM0Bta3dTnCN//6Bg8zMCCqSLesqB6AC7KfQxJoAUe1iZNsXU3/bagSEL08bXCtfYLseGwIRukE6Uhuc4NdWeDzVfC2pirc/mnWq5G37qwYI4icZqxC+A9UqJiZ/pUhNZo8RivNBoRd+mhJMRsKk9u8peyj7wmXRCPVJs03kjt/hf1EleqZDNkKMsiz5D6ZJwYtJL2+fhonKaZoaxZD68dz/cnZdqtNwXeMNxYmXKJbCHdP5QA/xCxjqe9q4nQMu/Xii04pFMK3FTzbox+XsgZNjf2M9jqcWIh9pvm0=;FwIerzfw6+Tw7avg0kIxAQ=="
 ---
 

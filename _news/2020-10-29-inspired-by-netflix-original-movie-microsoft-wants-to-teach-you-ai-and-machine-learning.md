@@ -189,6 +189,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Microsoft launches its industry-focused Cloud for Healthcare platform"
+    excerpt: "It later sold its interest in Caradigm before establishing a healthcare-focused artificial intelligence research unit, called Healthcare NexT, in 2017. Show your support for our mission with our ..."
+    publishedDateTime: 2020-10-29T01:18:00Z
+    webUrl: "https://siliconangle.com/2020/10/28/microsoft-launches-industry-focused-cloud-healthcare-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/RE4vhVe.jpg"
+        width: 1259
+        height: 708
+        isCached: true
   - title: "Microsoft partners Netflix to help you learn data science, AI"
     excerpt: "Inspired by the new Netflix original titled 'Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."
     publishedDateTime: 2020-10-24T16:23:00Z
@@ -229,6 +243,6 @@ related:
         height: 719
         isCached: true
 
-secured: "AuJRdbcUmgDTomMYfCdH7Ap8Xb7ea7SurzPkUgxYFWrtOBv+zHYsKh5jD1P5kJDc6EGyNWHX6v6z52WJgzFjTGjFynWWQR9gcDrvp+ry7l8TMCl9v8Z/QInMu1EEQ3cZKdjr0MwOXwQ8sXek1y+g4Xgxgo1UazRdB+kxK7xKlAoRBLqCYqvLmu307DwkLx+b5G/j/9rqO0CqEdFu8e275WZT1JcpLBpduuZ4ceoslzRRGq8/2mD13vUCMgYTL0ICnrV6VdvaVmPtd2QsVmqB7ODG8Z+/g/xn3HBPscYhaYcz/PYDl6RFXqXJrDD5sWpIFtWzTR28wNRy3uHAxm6NFNd6D3DpOKMdKho4DKmKj4Q=;oGG7GV6tYOqBxEseFVTl9g=="
+secured: "oQK8Fob3XbLPSaDltuRV7209OK1h6ysrnSx6hAhNJjDPeBxNqJcpCYVrsjduaHdJobro8SiJLaJw6mhd8lHEpyO/wQekIf2rr8pSoHOZcR2vPQyG+tvYz5T5AcsdBsMzD7BDIKfT0JYdw7htkvUUivXt8n+E6pDvRxUi1skQ6p4AYBTgwI7oJQJ2xGYEy45V/bfn3edWD6bwh886qo+NzTcbaDaPVCzKWXmylgq9TlATiqnpJ+2GsbDWnyqbQY0LljV76sOWi6YX5Q/L2RojhQ3wUx9QPJ3A5K9ht3cHP1eej3kz1rxYVTA+mYLNDME4aEYCLnlQcdkmD+iK2ShjAAhxHvDnAkDm0nS+GpsE2ity/8pLJLF3GEmTPayISyvvrJspHSjHitSa7uW3K9VW/2bWmDINBo7QogmlWjmKCZVRXwQVVPehja1+qLPmUNUunRqcaLtKAmHb9dOSoowwmJeUWb8lZTCYfFB0VKQ426qDkrTjpyU2JF7h/oI+ecy5rxnmScr9WRcKMQfuSTv9og==;5Qi2T90QZkDD7tFPwG3pLg=="
 ---
 

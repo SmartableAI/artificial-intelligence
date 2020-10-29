@@ -3,8 +3,8 @@ category: news
 title: "Global server shipments to drop in 4Q20, says Digitimes Research"
 excerpt: "Global server shipments, after reaching the peak of 2020 in the second quarter, are estimated to have slipped 6% sequentially in the third quarter and to drop another 12% in the fourth quarter, as a result of the coronavirus pandemic disrupting the buying pattern,"
 publishedDateTime: 2020-10-28T07:57:00Z
-originalUrl: "https://www.digitimes.com/news/a20201028PD203.html"
-webUrl: "https://www.digitimes.com/news/a20201028PD203.html"
+originalUrl: "https://www.digitimes.com/news/a20201028PD203.html?chid=9"
+webUrl: "https://www.digitimes.com/news/a20201028PD203.html?chid=9"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 427
     isCached: true
 
-secured: "4Y53q59twY7d/K/XaIlBBkZ8LNbdI7Yg64n9ZlGN31koQWt5YHyugjuqynAcKRsPYIIC4QLH+WvhFKqJhgyPdrxR//71YUjxT2iL43fA6ldFFLQK7LDwsQJATrwd1cU81hEA0ZJRVrcbiQ1hIZZqiDUksZPYwKDfdSoJ4LCTXNMWIwBoKFW7nquzLGLlFMnkWghkRjtVHppp9ToqrR5+GvIxldSQzS6IA+aygzBMXT70ts/6jjsOFtjTCm8VXx9zuIrJwuZVeOxXp3M8t7hCrUyJpUcyBI/7UUiKR4LmwNykp1Ry8kK360Y2suI1frut8+IhGH6akhIf3gVQkPX+/c3TUJnw1lD9nJOyMwAJb+A=;M60m62HN9Rzb3JlI7Nw0Zg=="
+secured: "vG1jmpZMUyLCchbWclHPdD2kNCHjgDHkfo3kP4BEGNsrxJa/dcFhhm4ssA2NHAClvbIFwqg/qD7H+PXxO0yhzLy5FxRbh6LzL5mrSFDoCAi2DRPTKotYah0PjNl80brOUoN0sb+pVr3Q5d5LYRHK/+Emv5zkEVEIxeGlMi0sPIyItZtBBo44dyVW4ct6hWdMdKnzBFCWwoYFahlr1NXpcw95giqsYOm29D/Iwiexlg3UaMsvWXhLVvn5+8VcUdEu9zYb42XdFH0CGzSWhgmiO4T2vHBUusfzOugn3n/M5oD/8NI+wmwD8F7O4D5hE0qqkX4V5ndh/N8R3qy/fwdZp1XPU4sFV4ytl9iWuYGsHBc=;fHuYnt1nijUiKiDGCfsOuw=="
 ---
 

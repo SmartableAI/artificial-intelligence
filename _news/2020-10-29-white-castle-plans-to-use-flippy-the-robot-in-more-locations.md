@@ -1,24 +1,34 @@
 ---
 category: news
-title: "Flippy the kitchen robot going to more White Castles"
-excerpt: "White Castle plans to bring Flippy the kitchen robot to up to 10 more of its locations. The iconic fast-food hamburger chain — considered the country's first — said it will expand its work with Pasadena,"
-publishedDateTime: 2020-10-27T07:00:00Z
-originalUrl: "https://www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.html"
-webUrl: "https://www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.html"
-ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.amp.html"
-cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.amp.html"
+title: "White Castle Plans To Use Flippy The Robot In More Locations"
+excerpt: "When you order French fries or onion rings at one of 10 White Castle locations, a robot may help prepare the food. White Castle announced it is expanding the use of Flippy Robot-on-a-Rail (ROAR) to more locations in the United States."
+publishedDateTime: 2020-10-29T03:09:00Z
+originalUrl: "https://www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/"
+webUrl: "https://www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/"
+ampWebUrl: "https://www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/amp/"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99c8da4ee98a8e098ef80f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D116%26cropY2%3D2804"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "White Castle rolls out more robots from Miso Robotics to cook in its kitchens"
@@ -52,22 +62,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F4c4ba8b0-1517-11eb-bbef-af00bd4d0adb&client=amp-blogside-v2&signature=05b6c4fd5bd26f566516f92d0f50c667127f4b24"
         width: 600
         height: 350
-        isCached: true
-  - title: "White Castle Plans To Use Flippy The Robot In More Locations"
-    excerpt: "When you order French fries or onion rings at one of 10 White Castle locations, a robot may help prepare the food. White Castle announced it is expanding the use of Flippy Robot-on-a-Rail (ROAR) to more locations in the United States."
-    publishedDateTime: 2020-10-29T03:09:00Z
-    webUrl: "https://www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/"
-    ampWebUrl: "https://www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99c8da4ee98a8e098ef80f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D116%26cropY2%3D2804"
-        width: 1200
-        height: 800
         isCached: true
   - title: "White Castle will begin testing its automated 'Flippy' cooking robot at 10 more locations"
     excerpt: "\"Artificial intelligence and automation have been an area White Castle ... Replacing human workers with robots might sound like a good idea on paper, and it might have worked well at one White Castle location, but we wouldn't be surprised if some hurdles ..."
@@ -126,6 +120,17 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Flippy the kitchen robot going to more White Castles"
+    excerpt: "White Castle plans to bring Flippy the kitchen robot to up to 10 more of its locations. The iconic fast-food hamburger chain — considered the country's first — said it will expand its work with Pasadena,"
+    publishedDateTime: 2020-10-27T07:00:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.html"
+    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
   - title: "White Castle to Expand Implementations with Miso Robotics and Target Up to 10 New Locations Following Pilot"
     excerpt: "PRNewswire/ -- White Castle®, the world's first fast-food hamburger chain, announced today plans to expand work with Miso Robotics - creators of the first autonomous"
     publishedDateTime: 2020-10-27T10:00:00Z
@@ -141,6 +146,6 @@ related:
         height: 267
         isCached: true
 
-secured: "ZwP0RXDbQ6VJzuxgQK+nx/yXfgKBn7OwCKu3vYzfaegkVxTit5SZrYFdnfOQDmGvLepcp023PEQNGlqcJhhe2qwSPr5zjGHVXyPcPQWsK+jXKgTZfWnvkAS8hSZ+6KaN0q40YhiHNYSX/px6ghLC6CkbhZZxjm+c4jNZDRqbyDXMztZ955g7oxay8WVBpS/7+dbCNs/I+NxDcayoJMgiPG3GDNhMJv/L3vuCc5UhmFHDlI32xWJUEU1O32tlri1e2xDPxc6neqwmV5q+yjyZW1yx3aXlmykUHpzw0FzGnFtZiv4Ojpz7WY34m7p0kmBBs4hPPGAmtFPI1jSYDTMIDr2r3p0NDiwjZvh5LfkBPa7ajCaZcclBZMkaXlvJwCpsEgauw7GgcZWIewpI1cCieGm657lt/78IHIdz/Aj8idElzA8SRil7yjsFPaP4z8EMyYpezpG660Bn1AXTFY7h3xiAq3vMQpxX3i2r4XbUAVqG1PFg9huCP0+3Ypb0l7CIJWMEHhxHOud1nr0LnxzE0Q==;sTfBLu7rwH6JacEpTVEXbw=="
+secured: "Hi+CY7UqIM8wEXOs2O49K2jsHQQwQxh+w+drm3kVgElXvvKRTIJDpe+EgSgRRtZIM6sdKM6RL4SZV+OjJSkC9wfVSGC9T/B5pCKn7ioY41DlHK9H2MXoayrr2+wL6Gy5U4Qxz1TtXb+o8Q9zsC1oSMjlQHiBbev+yACBuj3hHh/tZbea6MdiF0D/xR0LLAtl1UGZ8ZMi7yByANW3m7hTyKlgZra5/HFFTY1zW/P7EuT75mfiTfZnkE7DpqXnanp6MT1D55yRBcs3h/v8hE+4/UlEgpavv9eX8KHRNJ4nZABUvuKhoc4u94sqLBf1hkfXSCV6EeFvOwcYwADbCpiSNsXVekeIcgTUTCxh/ZsULFM=;yaf51nmyW9EcM7D+RLzs8w=="
 ---
 

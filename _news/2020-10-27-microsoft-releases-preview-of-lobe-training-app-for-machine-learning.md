@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-preview-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/"
 type: article
 quality: 106
-heat: 246
+heat: 256
 published: true
 
 provider:
@@ -192,6 +192,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/microsoft-2.png"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Microsoft launches its industry-focused Cloud for Healthcare platform"
+    excerpt: "It later sold its interest in Caradigm before establishing a healthcare-focused artificial intelligence research unit, called Healthcare NexT, in 2017. Show your support for our mission with our ..."
+    publishedDateTime: 2020-10-29T01:18:00Z
+    webUrl: "https://siliconangle.com/2020/10/28/microsoft-launches-industry-focused-cloud-healthcare-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/RE4vhVe.jpg"
+        width: 1259
+        height: 708
         isCached: true
   - title: "Microsoft partners Netflix to help you learn data science, AI"
     excerpt: "Inspired by the new Netflix original titled 'Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."

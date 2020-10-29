@@ -3,8 +3,8 @@ category: news
 title: "New artificial intelligence feature to detect guns through surveillance video"
 excerpt: "There's a new development Wednesday that adds artificial intelligence that can detect guns in security video. The new dimension of artificial intelligence, or AI, has the potential to prevent a ..."
 publishedDateTime: 2020-10-29T01:07:00Z
-originalUrl: "https://abc7news.com/technology/new-artificial-intelligence-identifies-guns-in-security-video/7431778/"
-webUrl: "https://abc7news.com/technology/new-artificial-intelligence-identifies-guns-in-security-video/7431778/"
+originalUrl: "https://abc7news.com/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
+webUrl: "https://abc7news.com/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
 ampWebUrl: "https://abc7news.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
 cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8dIdi3kdnCuQ22lkk9j+k9rKsRWckR8+w5UqGVGY1Uj+PgtADCvw9+BZWx0qJrL6rqAhXG3gV8g5Cs+a9nltGNI9NXlJSe9BAvLBFwJUKqyfp1GGWEegz12U6UVFFMpAPDrCs0fnfUqwtOLnSeIKOnKE+EgRBCqtKb9G3ueGFO+2oc6QTHmGFWvny1ZKGZwOQGc4XE/6R3FGIX5bapbyIkA3G9Tl1XcyRCovY2i54OixQzCX1GkoI2S4hav/SHVHaNvUuC/S5lNdYY0a44seoWwr4Ly93I0U1oul+sASqV3p0N5WpVXO5t+qbtADObVeCD8VRgBq+qwdbED3X8QiYxM4h9GSD6wG7ERFL0oahMs=;RETDCZ7cWLn4vVMvTCqlfQ=="
+secured: "UYi5dTULjqnjMfowyHjM7SfcjV0E1GltWZTiOWkEPoCp8o8vSwDI8m4UYD/qb1l/UFXz9Y04MPZnicrlpcsi9QSLrQUMvDy7DVgz3jEYKfyNTkDm9Qc59O2AC9hDEPp4/Zbj888jaJELEBxH9alRe9hJ9Q5WKPXWbhXw7sU8npVzt8JkAVpTbaLzubgXgYYZWq+SVFsCbNYLvyVEzxE4s++IRGGPR7qNAtL/XkngpRyYVAMm1rDVtCX0u3m6b2nh/feDqekHElGX96MY2kmSNXvkltiFI3Nck/W+wV+KTH+8JYRHXXUEPvIZagfob64vOMkOw5Iy2DNuHAxCNbZuoqwNBvMOJUpacruqnP6dRMg=;lg+9D72NFDRzkOZY8Ch/Aw=="
 ---
 
