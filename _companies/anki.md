@@ -2,7 +2,7 @@
 name: "Anki"
 overview: "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI."
 type: "profile"
-heat: 65
+heat: 0
 
 website: https://www.anki.com
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ABFcdwfU3F0"
 
-secured: "fXuF07FbfMNbI2T3DuSuwJ8a34ibN6snxi35W3h+EOl6Lmzohq9LK/v2Gzk7MxnQQKuhLzn7KhdCuiV52iiGKPuPWrvMDMrUpxxr4K5aXhj0Q0TT/5B9jNa0xEdTlD7rIDzPqT0hZ5vQlWZ7Pu77sx3wxZTnGKUPuapl5eQniAMJLIicowDYfGzXHzvZQllxR7FoMY5KNzsqgAnibAB3O+JsFBgUEAM9850lpXM38uSWHO68adGt+fgV/msrK6VJGLFrRLNTiM8b/WPQJs/8XUrZ/2YIWE8nwvB19vTh6zH7eRPtKU1ASbflV42PhfTZaERC8na/EzGZfRueh8H9nW6tfcNNzVwUnsEg8mW04Ru/nzGumZzgalJN/R69p8Hc54NYitP0NWODMrvJAq22L/E5xqIUqplcPuLLcmqlreI=;oX8PWdrQ7VP8tOKm0l4EZQ=="
+secured: "Aq9oBr+28ziFSwN1TF75IvNwnYPOZrr0+lXAECi1xhI3JM8R85+w3Hic5DXUijiOdllNzgIswqKWEM24ihV0WxGPE27v9wr7LEdDAagnQLBhp7BlIgI57XWA9RmK26jJ03oV7G2xRfRqUTixGo23HB9YrDVy7YBQr9YbdT+jS4U9Y88sYPzk1/kTSMr4tA1TK4uo43aUPSL/YPU7Id4HWaD1OFFPEqKJmJSTdE7pf6HRlQ6crn4OChX2nnDiQXAvWt6sDCD2r+OeZ/hEgjXzw7C2GZRi33OiZKBuK3Z4QwQfX0cnPq7+JLF305qluDNBLO+k9M7QToDtdApN5YLf8RfADlgHGlVnGqjzzXPMj/3HrqL+R6Z9JIDjqV9OgbKHKQIHXcVqInYRrh6d2Y2QFWrCTCjhqv9iz6iEHc6YXUw=;S6l2XMMT5OeTRfCTt9zxRA=="
 ---
 

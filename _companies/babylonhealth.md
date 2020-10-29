@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "babylonhealth"
   url: "https://twitter.com/babylonhealth"
-  followers: 12391
+  followers: 12392
 
 size: 1,001-5,000 employees
 yearFounded: 2013
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Babylon Health"
 
-secured: "exncaYEjrfNgdtPqH8W3FUIMOxoLY9OKMDW4jpXbS1EcTNbXdVgZfNZx5EAM0b1oD4iAOk1MKjg2SQjmLKSHKGfeeXkvedtdyPR43Wa3/srrm3xYxn2H1fkgnjGPGCFpOh0iAh4uVNMsHCkk+DxW8TmKEyMn1kqWfeVmiuWju5gBV1Ig3w25QzSoy1l8wuzbSYsA1+SX6KjGg2AJ3ZNTxUB/oOvR1+q6gMACvX+4E+SN45o5mPsdnC+Lp9PxUaX58GpFe25jWBVQbS9Dhd0hTERPVFPfo/+55ORQQXkMiWcYVTZ+BLVEVCfYb6S8SddNvyNHpS6n4SAWE8f7NoCKnp5q41SbhvmCgm21PZUCwP3xJvvbyvCH5IdYKQff8tsUZ9UwriqMAQrtkCZe7D6Z08r9ZruTMd1erVK4EGZtQXI=;YX6z4oWjRhvQHHYZFmZi+w=="
+secured: "bWFRr5UA6oCiIONsMovaeDYZfWio/wieWYvJV3J9ACzS/paBqmjmSU4kpk+Iz0RDdZPTU45IO7rHAKjLiRcgWRFvIOcHQJr+bMDDOJbw2B8tmoh0ORHOdsai5riqXp8gCa1mjg8UsBvCP0HzlNbjFaFTKvXvvE/1x8bE+qVNOUN+iL2KEJ74srB1IoQ9IUwr7lPqY9FJjo0bDDZhExmVifN5utWEdFsYty0WF9EnUNMU8wcJjB8mkaA58NtFvVjiwUtBE4qKH7quT7jAhQK1qR+wtPEnMBFL2CSTNhRUyBJWPBkLW56/wH7ps6iJ9gjoVsJdiYqNMjLFrL9YsP0CdMv62QQgsT9CY9u8VDqesIyd0MRgaZhDstZMSrUIbNjzUrNC8SgS6NmifZI7VtNXFaMhviiaJOpufv0IZY47cww=;nz2MGqAMZTVHmsoiCl/hyQ=="
 ---
 
