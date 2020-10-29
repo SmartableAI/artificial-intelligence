@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 6408527
+        "followers": 6408963
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -75,7 +75,7 @@
       "twitter": {
         "username": "appannie",
         "url": "https://twitter.com/appannie",
-        "followers": 45072
+        "followers": 45109
       },
       "yearFounded": 0,
       "locations": [
@@ -117,7 +117,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1535729
+        "followers": 1535772
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -299,7 +299,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 482418
+        "followers": 482433
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -348,7 +348,7 @@
       "twitter": {
         "username": "facebookai",
         "url": "https://twitter.com/facebookai",
-        "followers": 98286
+        "followers": 98289
       },
       "size": "10,001+ employees",
       "yearFounded": 2004,
@@ -401,7 +401,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 63152
+        "followers": 63158
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -465,7 +465,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 59568
+        "followers": 59570
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -499,6 +499,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/uber.md",
+      "title": "Uber",
+      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
+      "type": "profile",
+      "name": "Uber",
+      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "website": "https://www.uber.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/uber"
+      },
+      "twitter": {
+        "username": "Uber",
+        "url": "https://twitter.com/Uber",
+        "followers": 1047471
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Global"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 247,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Uber",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/deeplearning.ai.md",
       "title": "deeplearning.ai",
       "excerpt": "deeplearning.ai is making a world-class AI education accessible to people around the globe. deeplearning.ai was founded by Andrew Ng, a global leader in AI.",
@@ -518,7 +556,7 @@
       "twitter": {
         "username": "deeplearningai_",
         "url": "https://twitter.com/deeplearningai_",
-        "followers": 47501
+        "followers": 47498
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -570,7 +608,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 31151
+        "followers": 31155
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -621,7 +659,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 75125
+        "followers": 75139
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -680,7 +718,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 523693
+        "followers": 523703
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -722,7 +760,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 20655
+        "followers": 20660
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -806,7 +844,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 56870
+        "followers": 56873
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -863,7 +901,7 @@
       "twitter": {
         "username": "cisco",
         "url": "https://twitter.com/cisco",
-        "followers": 713306
+        "followers": 713314
       },
       "size": "10,001+ employees",
       "yearFounded": 1984,
@@ -890,44 +928,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/uber.md",
-      "title": "Uber",
-      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
-      "type": "profile",
-      "name": "Uber",
-      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "website": "https://www.uber.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/uber"
-      },
-      "twitter": {
-        "username": "Uber",
-        "url": "https://twitter.com/Uber",
-        "followers": 1047453
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Global"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 194,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Uber",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/cruise.md",
       "title": "Cruise",
       "excerpt": "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ.",
@@ -947,7 +947,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 15952
+        "followers": 15953
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -1010,7 +1010,7 @@
       "twitter": {
         "username": "rev",
         "url": "https://twitter.com/rev",
-        "followers": 7841
+        "followers": 7844
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -1217,7 +1217,7 @@
       "twitter": {
         "username": "meet_cleo",
         "url": "https://twitter.com/meet_cleo",
-        "followers": 13255
+        "followers": 13257
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -1273,7 +1273,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 8330
+        "followers": 8331
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -1385,7 +1385,7 @@
       "twitter": {
         "username": "h2oai",
         "url": "https://twitter.com/h2oai",
-        "followers": 20686
+        "followers": 20685
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1440,7 +1440,7 @@
       "twitter": {
         "username": "capitalcom",
         "url": "https://twitter.com/capitalcom",
-        "followers": 8521
+        "followers": 8522
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1678,7 +1678,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 4252
+        "followers": 4251
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -1733,7 +1733,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 8323
+        "followers": 8324
       },
       "yearFounded": 0,
       "locations": [
@@ -1786,7 +1786,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 12217
+        "followers": 12218
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
