@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-27-7-ways-machine-learning-can-solve-supply-chain-challenges.md",
+      "title": "7 Ways Machine Learning Can Solve Supply Chain Challenges",
+      "excerpt": "This is where Machine Learning in Supply Chain can help breathe a sigh of relief! Integrating machine learning in supply chain management can help automate a number of mundane tasks and allow the enterprises to focus on more strategic and impactful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063",
+      "originalUrl": "https://www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2020/10/eca083cd-ml-in-supply-chain-cover-e1591361678184-900x479.jpg",
+          "width": 900,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063/amp",
+      "publishedDateTime": "2020-10-27T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-waymo-rolls-out-driverless-taxis-in-phoenix.md",
       "title": "Waymo Rolls Out Driverless Taxis in Phoenix",
       "excerpt": "The company recently announced that its driverless taxi service is now available to ... When it comes to vehicle safety, AV companies are out to show that artificial intelligence (AI) is better than authentic ineptitude. Waymo’s AI “Driver” has ...",
@@ -252,7 +295,7 @@
       "originalUrl": "https://blog.google/inside-google/life-at-google/how-eurovision-inspired-research-interns-project/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1201,51 +1244,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-artificial-intelligence-market-worth-19061-billion-by-2025-with-a-growing-cagr-of-366.md",
-      "title": "Artificial Intelligence Market worth $190.61 billion by 2025 with a Growing CAGR of 36.6%",
-      "excerpt": "Artificial Intelligence Market” [222 Pages] Artificial Intelligence Market report categorizes the Global market by Offering (Hardware, Software), Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/ab18064657/artificial-intelligence-market-worth-190-61-billion-by-2025-with-a-growing-cagr-of-36-6",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/ab18064657/artificial-intelligence-market-worth-190-61-billion-by-2025-with-a-growing-cagr-of-36-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg",
-          "width": 650,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18064657",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18064657",
-      "publishedDateTime": "2020-10-26T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI",
-        "AI in Healthcare"
       ]
     }
   ],

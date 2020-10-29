@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-30-artificial-intelligence-helps-in-early-diagnosis-of-alzheimers.md",
+      "title": "Artificial Intelligence Helps in Early Diagnosis of Alzheimer's",
+      "excerpt": "Machine-learning algorithm detects early stages of Alzheimer's through functional magnetic resonance imaging, said researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm",
+      "publishedDateTime": "2020-10-29T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-microsoftmitre-group-declares-war-on-machine-learning-vulnerabilities-with-adversarial-ml-threat-matrix.md",
       "title": "Microsoft/MITRE group declares war on machine learning vulnerabilities with Adversarial ML Threat Matrix",
       "excerpt": "Attacks on machine learning are far more common than many security analysts admit and most are unprepared to deal with them. The extraordinary advances in machine learning that drive the increasing accuracy and reliability of artificial intelligence ...",
@@ -400,7 +443,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -824,7 +867,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configuring-your-amazon-kendra-confluence-server-connector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -876,7 +919,7 @@
       "originalUrl": "https://stupiddope.com/2020/10/28/otis-ai-powered-digital-marketing-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -920,7 +963,7 @@
       "originalUrl": "https://www.forbes.com/sites/advisoruk/2020/10/28/the-long-road-to-automated-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -972,7 +1015,7 @@
       "originalUrl": "https://www.openpr.com/news/2175181/global-artificial-intelligence-in-healthcare-market-2020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1142,40 +1185,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-the-future-of-robotics-is-bright-with-arkq.md",
-      "title": "The Future of Robotics is Bright with ARKQ",
-      "excerpt": "Robotics and artificial intelligence are making machines smarter and more capable than ever before, allowing robots to take on increasingly sophisticated tasks for faster and more accurate production. Declining computer chip costs and improving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28",
-      "originalUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28?amp",
-      "publishedDateTime": "2020-10-28T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

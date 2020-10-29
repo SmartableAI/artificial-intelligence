@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-
 webUrl: "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster/"
 type: article
 quality: 108
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/07/09093904/ai2.jpg"
         width: 1280
         height: 891
+        isCached: true
+  - title: "How the Army plans to revolutionize tanks with artificial intelligence"
+    excerpt: "At a time when the military is obsessed with robotics, artificial intelligence and next generation networks, operating a tank relies entirely on manual inputs from highly trained operators. “Currently, tank crews use a very manual process to detect ..."
+    publishedDateTime: 2020-10-29T20:39:00Z
+    webUrl: "https://www.navytimes.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Navy Times
+      domain: navytimes.com
+    quality: 39
+    images:
+      - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "CZ08DHleZB3sL839tpaxrdmT40aeyqQoRS4aenK+0dIUtuidNaiLceu5ic1lr4KBVahvwEfwDRCH6QTpADXEsXq38TpdvrfCG3V3fiL6tx3mdfZvOaqA+3jViXDVy5xGIpBnyUAW3ztBPIfcQ0OAgoF2DdGmxUQLrt5Deqr4yjPpM7qoWpSi6b7bZiYUCbSd1EXr0DXVSoXo3LkZvce9esWwNC9q2yzftg2JBSjAs0aHnHzUL8WAeD0OMUCz2nl/9N35NdJXw6GSwfmBSIsR7oxB83X44j2c9tvVFIvba5lyMkcovvkrq3tTUs4Kd4NIg6edhF+88h7U7/ZAxxD4VPW4OD00v7mSwDSK0QTbVvE=;9gmTRb3DGpFF1etchG2Kqw=="

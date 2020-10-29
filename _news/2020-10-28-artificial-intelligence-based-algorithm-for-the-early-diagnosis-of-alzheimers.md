@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence Helps in Early Diagnosis of Alzheimer's"
+    excerpt: "Machine-learning algorithm detects early stages of Alzheimer's through functional magnetic resonance imaging, said researchers."
+    publishedDateTime: 2020-10-29T20:37:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Detecting Alzheimer’s Earlier with the Help of Machine-Learning Algorithm"
     excerpt: "Scientists from Texas Tech University now report they developed a type of deep-learning algorithm known as a convolutional neural network (CNN) that can differentiate among the fMRI signals of healthy people, people with mild cognitive impairment ..."
     publishedDateTime: 2020-10-29T12:09:00Z

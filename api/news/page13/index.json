@@ -1121,19 +1121,19 @@
     {
       "path": "_news/2020-10-16-cambridge-technology-attains-aws-well-architected-partner-status.md",
       "title": "Cambridge Technology Attains AWS Well-Architected Partner Status",
-      "excerpt": "Cambridge Technology Inc, a global business & technology services company, proudly announced that it has achieved the AWS Well-Architected Partner status, recognizing that it",
+      "excerpt": "AWS Well-Architected Partners have the skills ... IT problems by leveraging its competencies and expertise in Artificial Intelligence, Cloud, Big Data, IoT, DevOps, and SaaS & App Development ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-technology-attains-aws-well-architected-partner-status/article_b752153b-13ff-5dc5-8e3d-2ade530b22ab.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-technology-attains-aws-well-architected-partner-status/article_b752153b-13ff-5dc5-8e3d-2ade530b22ab.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/cambridge-technology-attains-aws-well-architected-partner-status-301153712.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/cambridge-technology-attains-aws-well-architected-partner-status-301153712.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/b4/4b414b6f-ab7d-515f-8cdc-57b31e971160/5f88c7e59e6f7.image.jpg?resize=400%2C209",
-          "width": 400,
-          "height": 209,
+          "url": "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg?p=facebook",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1143,11 +1143,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T14:36:00-07:00",
+      "publishedDateTime": "2020-10-15T14:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

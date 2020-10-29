@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-29T18:44:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2020/10/201028134036.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/10/201028134036.htm"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Learning A Second Language: Business Benefits And How To Start A Program"

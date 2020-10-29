@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/29/intel-acquires-ai-software-optimi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/intel-sigopt.jpg"
         width: 843
         height: 562
+        isCached: true
+  - title: "Intel to acquire AI hyperparameter optimization startup SigOpt"
+    excerpt: "The startup’s platform allows developers to specify the property of their AI that they wish to improve, for instance its accuracy, and then create an “optimization loop” to fine-tune it ..."
+    publishedDateTime: 2020-10-29T20:06:00Z
+    webUrl: "https://siliconangle.com/2020/10/29/intel-acquire-ai-hyperparameter-optimization-startup-sigopt/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/intel-1-1.png"
+        width: 718
+        height: 400
         isCached: true
 
 secured: "MXJsUUrrGRlMLD3rMXuHeJq6jv8aq5Xez7qAMZrwA477+4M6v5a44gd8KsJLpXxQ09InTSeYzgUuTLmA6gZk1H3MeLZuoOn8sTjDH66oxAvvyS9QL2tr84GE3miIYebWPGGnZkJxGJY2D3Zq7zAFmmpMA+Lkv67b5BJGwMTM9gTYzKx0MxhkUSOWwNBkavIILFeKI/qJFaPqvCelZANxWpBW+bctSbkqgWgj9gAcAQE30mJskIdZKyTPKwm7rTYC3tGWBZ5J4M9vGYxZGhOjhrRrpA+syjAaQnKIgjZnTCA8hgTLf6ikmy/jILjGHH0aaQJ86LhHNPcbW+40GBMzYSHQVVm/xlHhTgs3Ne1f2S8FuvJbfa1w16yMun7gfnywuyTJYZVvrMZE5njny7b1blEL+2AoiUT8Eo710oKsFW6cdlDam7+36BhUW6Ow11Vy3AcjUaImb/YGnrJEczMBcUR9zAA9embu9/ygdwT4NVYtk4beyuLiEa7XEPagZa/+TYkTVdoxxK7o7d0Hl1DNZw==;U8bLc8ab7cvuAb/ML530IA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/news/detecting-alzheimers-earlier-with-
 webUrl: "https://www.genengnews.com/news/detecting-alzheimers-earlier-with-the-help-of-machine-learning-algorithm/"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Helps in Early Diagnosis of Alzheimer's"
+    excerpt: "Machine-learning algorithm detects early stages of Alzheimer's through functional magnetic resonance imaging, said researchers."
+    publishedDateTime: 2020-10-29T20:37:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Artificial intelligence-based algorithm for the early diagnosis of Alzheimer's"
     excerpt: "They developed a type of deep-learning algorithm known as a convolutional neural network (CNN) that can differentiate among the fMRI signals of healthy people, people with mild cognitive impairment, and people with AD. CNNs can autonomously extract ..."
     publishedDateTime: 2020-10-28T16:26:00Z

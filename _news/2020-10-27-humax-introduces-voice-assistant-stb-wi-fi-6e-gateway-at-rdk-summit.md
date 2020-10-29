@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Humax introduces Voice Assistant STB"
+    excerpt: "Humax has introduced a new Voice Assistant set-top box and Wi-Fi 6E gateway at the virtual RDK Euro Summit 2020."
+    publishedDateTime: 2020-10-29T20:20:00Z
+    webUrl: "https://www.broadbandtvnews.com/2020/10/29/humax-introduces-voice-assistant-stb/"
+    type: article
+    provider:
+      name: Broadband TV News
+      domain: broadbandtvnews.com
+    quality: 24
+    images:
+      - url: "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/10/image-8.png?fit=1200%2C642&ssl=1"
+        width: 1200
+        height: 642
+        isCached: true
   - title: "Humax unveils Voice Assistant STB & Wi-Fi 6E gateway"
     excerpt: "which includes integrated stereo sound and supports Alexa’s Far-Field Voice Recognition with a built-in mic. At the RDK Euro Summit, Humax will also showcase its market-ready IP Box integrated with the latest Broadcom solution with 24K DMIPS CPU ..."
     publishedDateTime: 2020-10-27T09:42:00Z

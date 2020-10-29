@@ -119,6 +119,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "CBP Debuts Facial Recognition Technology for International Passengers at LAX"
+    excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
+    publishedDateTime: 2020-10-29T21:06:00Z
+    webUrl: "https://www.nbclosangeles.com/news/local/cbp-debuts-facial-recognition-technology-for-international-passengers-at-lax/2451682/"
+    ampWebUrl: "https://www.nbclosangeles.com/news/local/cbp-debuts-facial-recognition-technology-for-international-passengers-at-lax/2451682/?amp"
+    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/cbp-debuts-facial-recognition-technology-for-international-passengers-at-lax/2451682/?amp"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 56
+    images:
+      - url: "https://media.nbclosangeles.com/2020/10/GettyImages-1281763052.jpg?resize=1024%2C675"
+        width: 1024
+        height: 675
+        isCached: true
   - title: "Men at Facial Recognition Startup Used Its Own Tech to Sexually Harass Coworkers"
     excerpt: "Employees at the Silicon Valley security startup Verkada were reportedly using the company’s own facial recognition-equipped security cameras to take pictures of women who worked at the company ..."
     publishedDateTime: 2020-10-26T19:23:00Z

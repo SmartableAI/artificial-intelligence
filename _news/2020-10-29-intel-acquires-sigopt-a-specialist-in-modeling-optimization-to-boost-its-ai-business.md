@@ -63,6 +63,20 @@ related:
         width: 843
         height: 562
         isCached: true
+  - title: "Intel to acquire AI hyperparameter optimization startup SigOpt"
+    excerpt: "The startup’s platform allows developers to specify the property of their AI that they wish to improve, for instance its accuracy, and then create an “optimization loop” to fine-tune it ..."
+    publishedDateTime: 2020-10-29T20:06:00Z
+    webUrl: "https://siliconangle.com/2020/10/29/intel-acquire-ai-hyperparameter-optimization-startup-sigopt/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/intel-1-1.png"
+        width: 718
+        height: 400
+        isCached: true
 
 secured: "iwr49RVismUCAwN2wkVtzhLgQ0jnPo5YRzYeVK7GMXY4GrKDqVvdwkQLm2OG33v9GZPjSIdeoPHAv3k4s6fAuiAnUfDhlicWF5bWtKpV3WVmDJatsSnoN0BADCEIrclVGb0oBXz9Diwa3fLnpR1NFoJYF75n2il7KIYEMM3rYX256wGs6pp1JQFAcuXpnzKcZv6rioiXmN3t0E7WDz9fgD39vfQSugdGVT3g/Cca8a+/Th3uS8eauUQkyJTAowR+3F0wzoVapAbkwQi2KS//jTJyjmbShkZXbzPVyK7dSz7XWCePqbL3z0x5DcLQLGxaPjU/kk6FVSWrsTYDXcbhegTzahvL3krfbjedaUuNSwo=;ZsAWgq+2eFRNMF2bYG7sig=="
 ---

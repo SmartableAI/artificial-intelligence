@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/emerging-technologies-that-wil
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
