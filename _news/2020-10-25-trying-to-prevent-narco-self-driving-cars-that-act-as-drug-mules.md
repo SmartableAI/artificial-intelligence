@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
-    excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
-    publishedDateTime: 2020-10-24T11:08:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Self-driving-cars-in-San-Francisco-Cruise-15671419.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 48
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/70/25/20153683/5/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
   - title: "The Next Battle In the EV War Is Self-Driving Cars"
     excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
     publishedDateTime: 2020-10-24T15:03:00Z

@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Apple buys self-learning AI video startup to improve apps"
-excerpt: "Apple Inc acquired a startup specialising in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services. The Cupertino, California-based technology giant acquired ..."
-publishedDateTime: 2020-10-28T07:32:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/apple-buys-self-learning-ai-video-startup-to-improve-apps"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/apple-buys-self-learning-ai-video-startup-to-improve-apps"
+title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
+excerpt: "Apple's purchase of Barcelona-based Vilynx follows its spree of AI acquisitions earlier this year as the company looks to expand its footprint."
+publishedDateTime: 2020-10-29T05:11:00Z
+originalUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10"
+webUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10"
+ampWebUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp"
 type: article
-quality: 37
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2020/10/28/915569.jpg"
-    width: 1240
-    height: 826
+  - url: "https://i.insider.com/5f988b936f5b310011723bd1?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -39,22 +45,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596947%2Fa-circuit-board-with-a-chip-labeled-ai-at-the-center.jpg&w=1200&op=resize"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
-    excerpt: "Apple's purchase of Barcelona-based Vilynx follows its spree of AI acquisitions earlier this year as the company looks to expand its footprint."
-    publishedDateTime: 2020-10-29T05:11:00Z
-    webUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/5f988b936f5b310011723bd1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Apple buys computer vision startup Vilynx for $50 million"
     excerpt: "Earlier in 2020, Apple reportedly purchased Barcelona startup Vilynx that specialized in artificial intelligence, machine learning, and computer vision. Citing sources familiar with the matter ..."
@@ -116,6 +106,20 @@ related:
         width: 840
         height: 441
         isCached: true
+  - title: "Apple buys self-learning AI video startup to improve apps"
+    excerpt: "Apple Inc acquired a startup specialising in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services. The Cupertino, California-based technology giant acquired ..."
+    publishedDateTime: 2020-10-28T07:32:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/apple-buys-self-learning-ai-video-startup-to-improve-apps"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/28/915569.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Apple reportedly acquires AI and vision startup Vilynx for $50M"
     excerpt: "Apple Inc. is said to have acquired artificial intelligence and vision startup Vilynx Inc. earlier ... Vilynx offered a “powerful AI Brain” that was designed to connect people with content ..."
     publishedDateTime: 2020-10-28T01:54:00Z
@@ -140,6 +144,6 @@ related:
       domain: seekingalpha.com
     quality: 1
 
-secured: "f6ys2I6L5ywXMLjDERq0sUio/Icb5Blz4BuoPo0YwdbSqGj6TWykfnYHdT8zUJiZiTIVmM3Et2M/Z6J5kMtsFtQX/X6bS6HRoh25Df/NQ/5Baof4KJYY0bt/JnY6xYtWyuRiy8evrJVX2DSzSf9qcqqIqju1DiDrr3tveg7A231H9psbrZjVEuUUM3fdq5gDNoNb+UFuL729HkMLnPeDtabJ3qsr2zoVDMAgOBia1WYgvBsxLK+a8ggA0MuL/wW57NEdtB26XDvLYVCIGtjet9bUSjP0HyorqU0aqOwwsjIMfLbCOIldIof7XGQLSCgTE+WtLTJcwzB/32fJPXyeIepeXWWo4EdjfBDkbF6+9X8=;WVuWIe+U/tI+1KMXcHq5Ag=="
+secured: "vaFQ1uBbtkSIHxKJnFFt6EJtktBUVvtq3yciMhyn7f1akuvAS6w7wNibVevQsSN79uOMkIqjmQE0hUtnEX+gWwuLkyznreLtPtv1quLT3vE/N/2qemq8cxz93kg3JrbXTdZa0hveV8eryGsp/x0rqNOnTJzN+4lEZToSj8mHZWmXUnlA7nUlMh7b0oUrKFQGUBTCx0JnR5dtgIsJIv8z+BjGMK00epJoHTi/mOvKm1rJ/KLN5yXIAzn9WtojJzraGL03LoHZe78lJc59ZF9VrgxU4FQ+QymczojQY35q2qX5KP2vdik0Y6vTwBvvAkOB/mPm5zFUTw+Y/YUpoNhS1rDlFh3988kVRnicyURVEzY=;XunMTjCH+UsoLq7ulMWTXQ=="
 ---
 

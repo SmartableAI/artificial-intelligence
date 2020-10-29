@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Police are using facial recognition for minor crimes because they can"
-    excerpt: "Law enforcement is tapping the tech for low-level crimes like shoplifting, because there are no limits. But the tool often makes errors."
-    publishedDateTime: 2020-10-24T12:06:00Z
-    webUrl: "https://www.cnet.com/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/police-are-using-facial-recognition-for-minor-crimes-because-they-can/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/9S5f_XMCKYD4FKVdlgLgOJNQlI0=/1200x630/2020/10/23/f1d69bbc-1345-40f4-9139-ef38598f86af/gettyimages-1184155312.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Dubai To Introduce Facial Recognition Tech In Public Transport To Enhance Security"
     excerpt: "Dubai is all set to roll out a brand new feature of facial recognition system on public transport in a bid to strengthen security for the local, said officials."
     publishedDateTime: 2020-10-26T13:25:00Z

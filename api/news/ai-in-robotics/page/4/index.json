@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-09-30-robots-in-nigeria-fg-to-boost-artificial-intelligence.md",
-      "title": "Robots in Nigeria: FG to boost Artificial Intelligence",
-      "excerpt": "The federal government on Tuesday announced that it has developed initiatives for the adoption of Artificial Intelligence technology in Nigeria. The",
-      "sourceUrl": null,
-      "webUrl": "https://dailypost.ng/2020/09/29/robots-in-nigeria-fg-to-boost-artificial-intelligence/",
-      "originalUrl": "https://dailypost.ng/2020/09/29/robots-in-nigeria-fg-to-boost-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailypost.ng/wp-content/uploads/2020/08/qSpQo4Ww.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailypost.ng/2020/09/29/robots-in-nigeria-fg-to-boost-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://dailypost-ng.cdn.ampproject.org/c/s/dailypost.ng/2020/09/29/robots-in-nigeria-fg-to-boost-artificial-intelligence/",
-      "publishedDateTime": "2020-09-29T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Post Nigeria",
-        "domain": "dailypost.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders.md",
       "title": "Tickeron Releases AI Robots and AI Screener Tools To Support And Assist Forex Traders",
       "excerpt": "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, uses its revolutionary new AI-powered features, AI Robots and AI Screener, to provide Forex traders with the information and analysis necessary to be successful.",
