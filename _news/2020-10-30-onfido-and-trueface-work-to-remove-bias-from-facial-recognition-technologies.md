@@ -41,6 +41,22 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Facial Biometrics To Be Used On Travelers Entering U.S. At LAX"
+    excerpt: "In a bid to automate the screening of international travelers, U.S. Customs and Border Protection will use facial recognition tech at LAX."
+    publishedDateTime: 2020-10-29T19:53:00Z
+    webUrl: "https://patch.com/california/los-angeles/facial-biometrics-be-used-travelers-entering-u-s-lax"
+    ampWebUrl: "https://patch.com/california/los-angeles/amp/29049695/facial-biometrics-to-be-used-on-travelers-entering-u-s-at-lax"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/los-angeles/amp/29049695/facial-biometrics-to-be-used-on-travelers-entering-u-s-at-lax"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: "https://patch.com/img/cdn20/users/73734/20201029/034410/styles/patch_image/public/faciola-biolemtrics___29154145589.png?width=984"
+        width: 984
+        height: 738
+        isCached: true
   - title: "Biometrics experts discuss facial recognition research on demographic effects and bias"
     excerpt: "Many if not all commercial facial recognition algorithms seem to share common roots that make them susceptible to demographic performance differentials, or bias, but also suggest a common fix,"
     publishedDateTime: 2020-10-27T19:25:00Z
@@ -56,6 +72,6 @@ related:
         height: 1005
         isCached: true
 
-secured: "cfOMKUeC/Eb0W2plU1Nzf3xhtdGJilAAjmfn8qAMxiHvejyjhZs0R9uLQkJ0EWFxH44twfPQe9BwQ6KCQQJEuC5ZxFEeiIIdf3MX1mvsrzGOSYApbkrgFnMfF/pjxGzZuTo2n1s0/jc6JMdgmUpVcnyFo48Gjdqe+iq8fmE8sCY0NRFZ3gw0S2auaS2B2QzU2B0ptNdELvt8e56ejrC29lx1j7un8TA+kF3vczaRnaporFMGc3F0HVcfhuJ9ut8pMpPFMtTbaDS0xmBAloIG5T73hh/YNIPtRAQEzjZ/bSm3fLC/jaYT6LSyQR7mJpVVaPP1BnmDZv3kdkIKpQznDF40lZq0nYbMztvPi95Ysb0=;W8Fhtboey5f18moKkigMOQ=="
+secured: "FG/tfq8iWIeFF69kXCWRrWGiRiGUn9/56huD2aftIHmJ8eh/D8kVE0FhLAVJqlWdGcHry9PWBu8f6mHGsMyKMIVHT78I5GoSiXQaMmbSNxsF3Pz+UtW/aPdPSbiXgXjjFoeqbbKA7vzCgosnZSKm/+U2408BXxhkAxYGFIGfmm5GIfy3GEsMRDg/8rqANPTcdZPtg/ZjbZhgtTkbQI5/mxIXNULPmfs7Lqer8bp5CDjJVL2/L5gx+31cBZKnT63uHUbFgNYdjEOcmk3VIfT/0JQfDLVk+9HCtRjP7NdrUReOm6x6tvORBfgT0cmFA3y0IjyoojEHygVPTUGszL4mdLzje9BJpIrZDWFJPN1UqYsTCGpAlt56scOgyYl5T1yII4PkBh6PEdxbEt5xUhHgiE9Xom2DHUY/b0F9cy60v8J76qqxHHDTlPjux/goipdqrbusBmsazwQbcgib+tEeRNucyt6XgncNyAk8y8edGhw6IfmzPuAzXDhv5wsN/kRh7GIYxDKeK0FyxKlp7XVSNA==;VEb7ZarkUqegknyHDx84ew=="
 ---
 

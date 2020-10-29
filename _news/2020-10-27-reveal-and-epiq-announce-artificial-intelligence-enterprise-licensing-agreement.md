@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Reveal and Epiq Announce Artificial Intelligence Enterprise Licensing Agreement"
+    excerpt: "The new enterprise license provides all Epiq clients with expanded access to Reveal's artificial intelligence platform with Reveal's recently announced acquisition of NexLP, a leader in the legal artificial intelligence space."
+    publishedDateTime: 2020-10-29T19:14:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2754037"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 33
+    images:
+      - url: "https://www.law.com/assets/master-template/images/close-btn.png"
+        width: 256
+        height: 256
+        isCached: true
+
 secured: "UGLjtUbdG2NNv19uzKKEQweUhZkiCVNTgYa4xKJNlHnzor5X+RwjbxkSAyLcxgu+4w1BhZ+/KRK7GQc2uZMju6R5lf/89uQvuHYpCSfipRv9LnAX9/6tx7SuZhPr4nssI3y/HlsTSGhaplz0QAMmwoPoFJSfzghFiqzmUDv84G8F+OrX/GSoWmjvt27Z+/mw8cz5dRAld4SZxHqFQ7QnYStZApZmw2TPnVNebP1kJD/DYpRMOWXGnQWumaNrO8CnfvFh1ZvFAX75HZbLj9L7kPuuTHV417Bj5WTs/SwyAFCaSRuniyacur1BN4Cxs6vsYbkQnlKd9N3B7QvW+3Yntcgm+Z+3ehHcQox3eHBpNCg=;Tu87TSq/kF0slyW9V3Cocg=="
 ---
 

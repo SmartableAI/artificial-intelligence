@@ -2,6 +2,144 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-10-09-daily-crunch-waymo-opens-up-driverless-ride-hailing.md",
+      "title": "Daily Crunch: Waymo opens up driverless ride-hailing",
+      "excerpt": "Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for. The big story: Waymo opens up driverless ride-hailing Waymo hit a major milestone today: It’s",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/",
+      "originalUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/waymo.jpeg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/",
+      "publishedDateTime": "2020-10-08T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-health-care.md",
+      "title": "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Health Care",
+      "excerpt": "“Validation and security of AI algorithms is a major concern prior to their implementation ... in the control of the healthcare institution via their Azure confidential computing cloud infrastructure. The data will be placed into a secure enclave within ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucsf.edu/news/2020/10/418736/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics",
+      "originalUrl": "https://www.ucsf.edu/news/2020/10/418736/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucsf.edu/sites/default/files/field/image/news/laptop-computer-hands.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UC San Francisco",
+        "domain": "ucsf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-wisekey-secures-ensuritys-passwordless-access-to-microsoft-windows-and-azure-ad.md",
+      "title": "WISeKey Secures Ensurity’s Passwordless Access to Microsoft Windows and Azure AD",
+      "excerpt": "WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ: WKEY), a leading global cybersecurity and IoT",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-hyderabad-industrial-products-and-services-electronic-parts-manufacturing-76582e121f95b9ed762a212150e1c70f",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-hyderabad-industrial-products-and-services-electronic-parts-manufacturing-76582e121f95b9ed762a212150e1c70f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise.md",
       "title": "The secrets of small data: How machine learning finally reached the enterprise",
       "excerpt": "Transfer learning and collective learning enable enterprises to build machine learning models using small data when big data isn't available.",
@@ -1013,153 +1151,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-introducing-ifrs-17-software-with-machine-learning.md",
-      "title": "Introducing IFRS 17 Software With Machine Learning",
-      "excerpt": "Data is universally indicated as the key challenge in IFRS 17 implementations. \"We designed our IFRS 17 solution from start to finish with",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/introducing-ifrs-17-software-with-machine-learning-301148539.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/introducing-ifrs-17-software-with-machine-learning-301148539.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1308815/3Blocks_software.jpg?p=facebook",
-          "width": 900,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts.md",
-      "title": "arXiv now allows researchers to submit code with their manuscripts",
-      "excerpt": "Papers with Code was initially founded in part by members of Facebook AI Research. Last year, Facebook and Papers with Code launched PyTorch Hub to encourage reproducibility. In the past year or ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/machine_learning.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/amp/",
-      "publishedDateTime": "2020-10-08T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them.md",
-      "title": "Nine Big Hurdles Of Adopting Artificial Intelligence (And How To Overcome Them)",
-      "excerpt": "Artificial intelligence is an extremely valuable tool that can save your business time, energy and money. However, implementing AI can be a big challenge for any company. From choosing the right AI-powered tool to setting up the right data inputs and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dce40f79d0a361086b5fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
-      "publishedDateTime": "2020-10-08T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -133,6 +133,22 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Microsoft Improves Password Spray Attack Detection Using Machine Learning"
+    excerpt: "Microsoft on Monday announced that it has developed a new algorithm based on machine learning that improves password spray detection in Azure Active Directory (Azure AD)."
+    publishedDateTime: 2020-10-28T19:17:00Z
+    webUrl: "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html"
+    ampWebUrl: "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 75
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2020/10/passwords.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
     excerpt: "C3.ai, Microsoft Corp. (NASDAQ:MSFT), and Adobe Inc. (NASDAQ:ADBE) today announced the launch of C3 AI ® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"
     publishedDateTime: 2020-10-26T13:00:00Z

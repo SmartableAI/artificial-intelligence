@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-30-microsoftmitre-group-declares-war-on-machine-learning-vulnerabilities-with-adversarial-ml-threat-matrix.md",
+      "title": "Microsoft/MITRE group declares war on machine learning vulnerabilities with Adversarial ML Threat Matrix",
+      "excerpt": "Attacks on machine learning are far more common than many security analysts admit and most are unprepared to deal with them. The extraordinary advances in machine learning that drive the increasing accuracy and reliability of artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/microsoftmitre-group-declares-war-machine-learning-vulnerabilities-adversarial-ml-threat-matrix",
+      "originalUrl": "https://diginomica.com/microsoftmitre-group-declares-war-machine-learning-vulnerabilities-adversarial-ml-threat-matrix",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-08/cybersecurity.jpg",
+          "width": 1644,
+          "height": 1052,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/microsoftmitre-group-declares-war-machine-learning-vulnerabilities-adversarial-ml-threat-matrix?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/microsoftmitre-group-declares-war-machine-learning-vulnerabilities-adversarial-ml-threat-matrix?amp",
+      "publishedDateTime": "2020-10-29T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-microsoft-announces-its-first-azure-data-center-region-in-taiwan.md",
       "title": "Microsoft announces its first Azure data center region in Taiwan",
       "excerpt": "After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia,",
@@ -10,7 +54,7 @@
       "originalUrl": "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -158,7 +202,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 266,
       "tags": null,
       "images": [
         {
@@ -591,6 +635,49 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-microsoft-announces-azure-space-along-with-new-partnership-with-spacex.md",
+      "title": "Microsoft announces Azure Space along with new partnership with SpaceX",
+      "excerpt": "Microsoft today announced that it’s making its Azure cloud-computing services to the space industry. As a part of this announcement, the company also revealed a new partnership with SpaceX to",
+      "sourceUrl": null,
+      "webUrl": "https://www.onmsft.com/news/microsoft-announces-azure-space-along-with-new-partnership-with-spacex",
+      "originalUrl": "https://www.onmsft.com/news/microsoft-announces-azure-space-along-with-new-partnership-with-spacex",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.onmsft.com/wp-content/uploads/2020/10/Microsoft-Azure-Space.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "On MSFT",
+        "domain": "onmsft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1369,111 +1456,6 @@
         "AI",
         "Microsoft AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als.md",
-      "title": "Microsoft partners with Team Gleason to build a computer vision dataset for ALS",
-      "excerpt": "The organizations hope to foster innovation in computer vision and broaden the potential for connectivity and communication for people with accessibility challenges. Microsoft and Team Gleason ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/",
-      "originalUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/microsoft-logo.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/",
-      "publishedDateTime": "2020-10-12T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-shrinking-the-data-desert-inside-efforts-to-make-ai-systems-more-inclusive-of-people-with-disabilities.md",
-      "title": "Shrinking the ‘data desert’: Inside efforts to make AI systems more inclusive of people with disabilities",
-      "excerpt": "The post Shrinking the ‘data desert’: Inside efforts to make AI systems more inclusive of people with disabilities appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
-      "originalUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/VizWiz_val_00002306-2-1920x1080-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:45:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

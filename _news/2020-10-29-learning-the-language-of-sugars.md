@@ -36,6 +36,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Learning the language of sugars"
+    excerpt: "A team has now created a new suite of deep learning and bioinformatics tools that enable the comprehensive study of glycan sequences, providing insights into their functions and improving our understanding of infectious diseases. We're told from a young ..."
+    publishedDateTime: 2020-10-29T18:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201028134036.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "8XwVNtboCADhCRAWpxzjaObSq9eVtf0h6y+HEhOTooyh0gToZaCWFkfaRiwC0dnDQZ4jBzR7oOIQx6ez/KUsu/O+jI72IFxCNK7maScQT603Mu4M+U7KR7tQETJK1+LxjCJFAFotT9/p4oYeNwzBrNaIF7IBeky0JFKK0ecZUFaDRsi4MQ9kKToas4t067ZU1g1ykTSVPCcMWlEbYoALxftDDtmDlrP24Kp7KySdJMIbp3G3qKV5qh+aM5NoG+Yu50OilmS0KLyt9e0aX4MzhzrCWC6td6iSRcvjnoVPVs4+va1WcxnkWsZEBNSufDL0fm2v843C3w835Ddg1CWSpGWulgZXYWVxOaHwY1uoNB0=;voixXZLj6w4GizGIyOEJ+w=="
 ---

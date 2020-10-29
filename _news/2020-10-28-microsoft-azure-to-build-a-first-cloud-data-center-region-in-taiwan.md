@@ -50,6 +50,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
+    excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
+    publishedDateTime: 2020-10-28T03:00:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/28/attackiq-microsoft-azure-sentinel/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 53
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Microsoft sees strong growth in latest financials – as analyst puts Azure bigger than Windows for first time"
     excerpt: "Microsoft has reported revenues of $37.2 billion (£28.8bn) for its most recent quarter with Azure revenue growth at 48% – as one analyst argued Azure has overtaken Windows numbers for the first time."
     publishedDateTime: 2020-10-28T13:18:00Z
@@ -67,16 +81,16 @@ related:
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ..."
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,"
     publishedDateTime: 2020-10-26T14:01:00Z
-    webUrl: "https://www.thedailytimes.com/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_10ca99a4-1e8d-5158-b85f-f01ecf8b6a08.html"
+    webUrl: "https://www.dailyrecordnews.com/ap_news/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_64b345bf-344a-53b7-816e-43b32ba52bdb.html"
     type: article
     provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
+      name: Ellensburg Daily Record
+      domain: dailyrecordnews.com
     quality: 34
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-        width: 600
-        height: 600
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"

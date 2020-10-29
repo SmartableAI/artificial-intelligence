@@ -26,32 +26,18 @@ images:
 
 related:
   - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
-    publishedDateTime: 2020-10-28T05:40:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+    excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
+    publishedDateTime: 2020-10-28T04:25:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 71
+    quality: 69
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
         width: 1678
         height: 1119
-        isCached: true
-  - title: "The Future of AI, Ethics, and Defense"
-    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
-    publishedDateTime: 2020-10-26T16:25:00Z
-    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
-    type: article
-    provider:
-      name: German Marshall Fund
-      domain: gmfus.org
-    quality: 54
-    images:
-      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
-        width: 1400
-        height: 600
         isCached: true
   - title: "7 AI Stocks to Buy as Automation Advances"
     excerpt: "By the time talks start to center around AI stocks ... In present times, also consider Amazon’s use of AI and robotics within its warehouses. These little robots never tire, rarely stop and ..."

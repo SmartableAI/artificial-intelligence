@@ -2,19 +2,19 @@
 category: news
 title: "Self-driving semi travels across Ohio in test run"
 excerpt: "On interstates and the turnpike, the lead truck was driven manually while the driver of the second truck engaged its automated platooning technology."
-publishedDateTime: 2020-10-28T18:01:00Z
-originalUrl: "https://www.cincinnati.com/story/news/2020/10/28/self-driving-semi-technology-lead-truck-test-run-across-ohio/3749218001/"
-webUrl: "https://www.cincinnati.com/story/news/2020/10/28/self-driving-semi-technology-lead-truck-test-run-across-ohio/3749218001/"
-ampWebUrl: "https://amp.cincinnati.com/amp/3749218001"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3749218001"
+publishedDateTime: 2020-10-28T17:57:00Z
+originalUrl: "https://www.dispatch.com/story/news/2020/10/28/self-driving-semi-technology-lead-truck-test-run-across-ohio/3749218001/"
+webUrl: "https://www.dispatch.com/story/news/2020/10/28/self-driving-semi-technology-lead-truck-test-run-across-ohio/3749218001/"
+ampWebUrl: "https://amp.dispatch.com/amp/3749218001"
+cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3749218001"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: Columbus Dispatch
+  domain: dispatch.com
 
 topics:
   - AI in Autos
@@ -51,6 +51,6 @@ related:
       domain: triblive.com
     quality: 2
 
-secured: "xlS+KOeExu6cP0f1UUcib7kX5xJLiaskkLqCcTrESPHybptcVnM0brqJ68ZsF9H6LgZDAAJL1vJGA0weoJhX/BQCHP8nqngjKge6pYkBDEiYb3hI/uTmcz/N/E5x7nxPEhLxKKgwwoRP/mt9Xa1lh3cE7vNqWhap/XsWEEGRLpdNAF5hj4xnpByf6zA/hs9xzxGmUhhbEywNzxwR5FUO9xvu5TfmU+AFIm+1A2Vq27Duq6kjSynbAZ4I2fLLfiJUQwmFRdfwL4Z7qAvW6to/FMFCR9kV2ZeWBJTUukYS05NE93aeBEYldSE80HwHOUAaZ+KbfNc2idy4+J8ZPKGgfArqjwyyiI/iesiRkx1ZuM8=;8UEuv2JocE091ljkhVqlCA=="
+secured: "9it8xKePD2FUUKVnn9O7qsQrheoEkYVu4uHNwiiV4IvkHy0jlWCErFA/zCdVYQxSZjGRPBawmujy+rKQ6yZAomubtiHb/JSfsEyUgKwC05TIBDceojyMvS59SwburX5CrXbncQE/+1uPx9zpZULzse3gddMK5dEaj5xET/cIvGnvlpV0rM8eSFp6Nyc+v4+HwWAuYS/80fGIRpjJkgQRwg0PMgvfaZb1q6FiuVSjjjzUDhDvWVpCmJG/Sma1053V/avvtet1tRcEPnCVtea1jeAw4jqQmxGe7l4uAPL8PJM6eN9u/wktDn3cY1EU7GABIF8dA8b5urY8sht6OAGTR//a0FHEiQvA5w60mD4iZrI=;V72Go3NiS1UTk9XmYW54+Q=="
 ---
 

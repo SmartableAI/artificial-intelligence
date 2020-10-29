@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-lan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Learning the language of sugars"
+    excerpt: "A team has now created a new suite of deep learning and bioinformatics tools that enable the comprehensive study of glycan sequences, providing insights into their functions and improving our understanding of infectious diseases. We're told from a young ..."
+    publishedDateTime: 2020-10-29T18:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201028134036.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Learning the language of sugars"
     excerpt: "To trace this history of glycan sequence development and identify meaningful trends and patterns, the research team turned to machine learning algorithms -- specifically, natural language processing (NLP), which has previously demonstrated success in ..."
     publishedDateTime: 2020-10-28T17:07:00Z

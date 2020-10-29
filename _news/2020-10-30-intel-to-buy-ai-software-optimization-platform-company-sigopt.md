@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/m-a/20/10/18124547/intel-to-buy-ai-software-op
 ampWebUrl: "https://amp.benzinga.com/amp/content/18124547"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18124547"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.benzinga.com/files/images/story/2012/intel-sigopt.jpg"
@@ -59,6 +60,6 @@ related:
         height: 696
         isCached: true
 
-secured: "o2M2si0vlNhhSZTjczp6RCxq5QK8cdfHyDEH8JYd/zmmULx7rXlj05/oSecwvNAiawsuYj3p32Cq8CVwWOHlg0gPf4MgElWnLYM4p0L7/fgMCyS+3uP49kOKSykVQKs/rSHFELC6TbM51mg8SRC0lDuHElyqgNqBXlryl5g7pa6MAIzlpxw1WFAwieAycr2KqH1aAlw+VG2uSvcBgM+3JnDY/VDlAd2z9SVF+pW2LetsQ3XCovGyQYI9LEA6jDtuamajreCgvm+vcorLoxbcBTJpdOLbu+v4iFrcrIUmY1LgPjIpPHGC6n72bmS/gU+e1h3bYEiCqJoHzl1uvISeUNwF8Te6eTFqRXAr+8fJUEo=;0kt2id3cO7BaAAczeHTbFg=="
+secured: "PKZ18NZyXpbKEzeWZ37WCcBeZPoAAbiiArrK2qKSqp5MeEskwOJAbR/rvq5GspM/t78mCqSsFCduyrHvYoGIVmazzTVyri/o5kArSQSvGLg2AwpQO3hsj4uAw5X6QmSghXFPVs8xlKWrxeM1J65zw0PLqyEAnj0jG2sFBzFACs4MNpG5eiR3oRLo40X0seGvmA1A1l8e8evp5DEtsty/rXHg9wg9rOOPosI8OI4qR0FG/k1uZ9uZux07RiS8QgSkY4CSmaIU7CbDW4J8jMgfo/0S42iGWMaYeRmDLYWjFh7cg+rXaIksUj+uoa8jyrk1UYzDu/OG7cY43tHWsHp6gJ1zMWQWfNAG/3bbfzQA/zwR/IkKL2PPPDxbY9SBd9tLtdvmFNdllqs+bsHCphDJ0Vmb5eCnMY+85vE9VJuM6SNP5rleFZmcnOf8M9SiPIihS/MgCvgbJaVIjfXZUPI4d0Lz6ytcfutk3N7jNoy9cLDC+YLye5du/5H9yanS1F8sPMd+2q+XNi+89faOyEmfpA==;lXL1/6nKs/7ELYUnoK/Iwg=="
 ---
 

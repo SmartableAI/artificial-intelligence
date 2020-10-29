@@ -262,50 +262,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
-      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
-          "width": 1678,
-          "height": 1119,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles.md",
       "title": "COVID-19 Fails To Move Needle On Consumers’ Disdain For Self-Driving Vehicles",
       "excerpt": "Carmakers continue to develop self-driving systems and some safety experts continue to tout their potential for saving lives, but the public as a whole expresses very limited interest in buying cars with the technology. At the same time, experts in the ...",
@@ -1480,6 +1436,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-companies-will-spend-50-billion-on-artificial-intelligence-this-year-with-little-to-show-for-it.md",
+      "title": "Companies Will Spend $50 Billion On Artificial Intelligence This Year With Little To Show For It",
+      "excerpt": "Despite an AI investing boom, only 10% of companies report significant financial returns from the technology, new research shows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidjeans/2020/10/20/bcg-mit-report-shows-companies-will-spend-50-billion-on-artificial-intelligence-with-few-results/",
+      "originalUrl": "https://www.forbes.com/sites/davidjeans/2020/10/20/bcg-mit-report-shows-companies-will-spend-50-billion-on-artificial-intelligence-with-few-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8dd3a6f8378d611348a0ce%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidjeans/2020/10/20/bcg-mit-report-shows-companies-will-spend-50-billion-on-artificial-intelligence-with-few-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2020/10/20/bcg-mit-report-shows-companies-will-spend-50-billion-on-artificial-intelligence-with-few-results/amp/",
+      "publishedDateTime": "2020-10-20T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

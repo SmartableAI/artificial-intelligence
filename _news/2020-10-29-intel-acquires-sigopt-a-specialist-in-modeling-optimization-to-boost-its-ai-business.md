@@ -57,7 +57,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.benzinga.com/files/images/story/2012/intel-sigopt.jpg"
         width: 843

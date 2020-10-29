@@ -41,6 +41,22 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Facial Biometrics To Be Used On Travelers Entering U.S. At LAX"
+    excerpt: "In a bid to automate the screening of international travelers, U.S. Customs and Border Protection will use facial recognition tech at LAX."
+    publishedDateTime: 2020-10-29T19:53:00Z
+    webUrl: "https://patch.com/california/los-angeles/facial-biometrics-be-used-travelers-entering-u-s-lax"
+    ampWebUrl: "https://patch.com/california/los-angeles/amp/29049695/facial-biometrics-to-be-used-on-travelers-entering-u-s-at-lax"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/los-angeles/amp/29049695/facial-biometrics-to-be-used-on-travelers-entering-u-s-at-lax"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: "https://patch.com/img/cdn20/users/73734/20201029/034410/styles/patch_image/public/faciola-biolemtrics___29154145589.png?width=984"
+        width: 984
+        height: 738
+        isCached: true
   - title: "Onfido and Trueface work to remove bias from facial recognition technologies"
     excerpt: "Onfido and Trueface held two separate webinars at the International Face Performance Conference (IFPC) on Thursday, focusing on reducing bias from facial recognition applications. At the"
     publishedDateTime: 2020-10-29T17:56:00Z

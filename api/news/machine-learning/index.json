@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-30-microsoftmitre-group-declares-war-on-machine-learning-vulnerabilities-with-adversarial-ml-threat-matrix.md",
+      "title": "Microsoft/MITRE group declares war on machine learning vulnerabilities with Adversarial ML Threat Matrix",
+      "excerpt": "Attacks on machine learning are far more common than many security analysts admit and most are unprepared to deal with them. The extraordinary advances in machine learning that drive the increasing accuracy and reliability of artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/microsoftmitre-group-declares-war-machine-learning-vulnerabilities-adversarial-ml-threat-matrix",
+      "originalUrl": "https://diginomica.com/microsoftmitre-group-declares-war-machine-learning-vulnerabilities-adversarial-ml-threat-matrix",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-08/cybersecurity.jpg",
+          "width": 1644,
+          "height": 1052,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/microsoftmitre-group-declares-war-machine-learning-vulnerabilities-adversarial-ml-threat-matrix?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/microsoftmitre-group-declares-war-machine-learning-vulnerabilities-adversarial-ml-threat-matrix?amp",
+      "publishedDateTime": "2020-10-29T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-the-alignment-problem-linking-machine-learning-and-human-values.md",
       "title": "“The Alignment Problem”, Linking Machine Learning And Human Values",
       "excerpt": "As the subtitle states, it’s an attempt to discuss fuzzier aspects of human value with the growing relevance of machine learning (ML). By ML, the author almost exclusively means neural networks. Overall, it was a good book. As with most, though ...",
@@ -56,20 +100,20 @@
     {
       "path": "_news/2020-10-29-workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance.md",
       "title": "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance",
-      "excerpt": "Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc. (NASDAQ: WDAY), a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning (ML)-driven predictive forecasts for ...",
+      "excerpt": "Workday Inc., a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning- driven predictive forecasts for Workday Adaptive Planning,",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-0",
-      "originalUrl": "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-0",
+      "webUrl": "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing",
+      "originalUrl": "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T09:27:00-07:00",
+      "publishedDateTime": "2020-10-29T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -83,9 +127,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI",
-        "AI in Finance"
+        "Machine Learning"
       ]
     },
     {
@@ -428,7 +472,7 @@
       "originalUrl": "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -532,7 +576,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 266,
       "tags": null,
       "images": [
         {
@@ -867,34 +911,34 @@
     {
       "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
       "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status.",
+      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T00:30:00-07:00",
+      "publishedDateTime": "2020-10-22T00:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1423,49 +1467,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-with-deep-learning-algorithms-standard-ct-technology-produces-spectral-images.md",
-      "title": "With deep learning algorithms, standard CT technology produces spectral images",
-      "excerpt": "In research published today in , a team of engineers from Rensselaer Polytechnic Institute demonstrate how a deep learning algorithm can be applied to a conventional computerized tomography (CT) scan in order to produce images that would typically require a higher level of imaging technology known as dual-energy CT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/rpi-wdl101920.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/rpi-wdl101920.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

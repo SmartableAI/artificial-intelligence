@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-28-emerging-technologies-that-will-advance-the-retail-industry.md",
+      "title": "Emerging technologies that will advance the retail industry",
+      "excerpt": "In response to this changing landscape, retailers have brought forward technology investments to accelerate their digital business transformation, particularly in artificial intelligence (AI) technologies with retailers often utilizing AI-enabled third-party vendor applications to solve immediate challenges before moving to more strategic deployments once they gain evidence of the benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "originalUrl": "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "publishedDateTime": "2020-10-28T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-expert-led-training.md",
       "title": "Learn the ins and outs of FinTech and Blockchain with this expert-led training",
       "excerpt": "The education starts with the basics, so you can build a strong foundational level of understanding before diving into more advanced topics, like AI in Fintech, Robo Advisors, and InsurTech.",
@@ -433,50 +485,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
-      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
-          "width": 1678,
-          "height": 1119,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-hard-to-believe-but-artificial-intelligence-will-improve-our-worklives.md",
       "title": "Hard To Believe, But Artificial Intelligence Will Improve Our Worklives",
       "excerpt": "Instead of worrying about job displacement, we should get to work creating the new, high-quality jobs of tomorrow while massively expanding our upskilling and reskilling efforts to transition displaced workers into these new opportunities.",
@@ -524,6 +532,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
+      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
+      "excerpt": "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
+          "width": 1678,
+          "height": 1119,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -901,7 +952,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1175,49 +1226,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-waymo-rolls-out-driverless-taxis-in-phoenix.md",
-      "title": "Waymo Rolls Out Driverless Taxis in Phoenix",
-      "excerpt": "The company recently announced that its driverless taxi service is now available to ... When it comes to vehicle safety, AV companies are out to show that artificial intelligence (AI) is better than authentic ineptitude. Waymo’s AI “Driver” has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20871/Waymo-Rolls-Out-Driverless-Taxis-in-Phoenix.aspx",
-      "originalUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20871/Waymo-Rolls-Out-Driverless-Taxis-in-Phoenix.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit,q_auto,f_auto/waymo_lssub5.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.engineering.com/amp/20871.html",
-      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20871.html",
-      "publishedDateTime": "2020-10-27T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering",
-        "domain": "engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
