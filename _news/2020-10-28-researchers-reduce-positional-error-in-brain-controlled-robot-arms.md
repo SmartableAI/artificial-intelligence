@@ -43,6 +43,20 @@ related:
         width: 960
         height: 641
         isCached: true
+  - title: "Record Number of Health Systems Choose Viz.ai's AI-Powered Synchronized Stroke Care Solution to Improve Patient Outcomes"
+    excerpt: "Today, on World Stroke Day, many prominent health systems such as Banner Health, Ohio State University Medical Center, Atrium"
+    publishedDateTime: 2020-10-29T12:06:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/record-number-of-health-systems-choose-viz-ais-ai-powered-synchronized-stroke-care-solution-to/article_0d4585ee-bfe2-571c-978a-67c68e30d7e8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/66/666fbd84-9824-5347-becf-d8f08dd0924c/5f9abd7ebcb6a.image.jpg?resize=400%2C208"
+        width: 400
+        height: 208
+        isCached: true
 
 secured: "0/UNU46w8qHQ3X2dMHvygs/w0tEmwavgug9MZlD6T35baDUPGuBYBb7eeN3w3boESHsitSeWiccaTs3yoY+2Z25QcVvhwkUhw6eOx9qNWsTIngCH8wMkYp2vEHigeK2lbO6aywknXVL0MN+eLkMIau1Ct33nlcwk+Ps4KI5wqGVsobf0Y2i/3rS6w2nbwexXq2YPAIgiTUh7PGz3VPM7D9hJpyvtbLGZ4z+8pz/0hgzb7Hs15PTXIo2fkwcZOiDsAQEEjh/ccqwcay5t1Sr1T8Xwe83ebijqUX0A9zYPwFrMUPhLEBBWYVFhckQmV3dF6pmZYheTKgiprwVBnA97i/JmvxhB52tXR0h5o7vQyTs=;zORjxTbOC369qPbJzq/62w=="
 ---

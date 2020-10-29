@@ -2,6 +2,187 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-26-huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark.md",
+      "title": "Huawei Mate 40’s HiSilicon Kirin 9000 Chip Is On Rank 1 In AI Benchmark",
+      "excerpt": "Huawei has officially introduced the Mate 40 series. The lineup is the latest flagship of the brand and is featuring top-notch specifications",
+      "sourceUrl": null,
+      "webUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/",
+      "originalUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theindianwire.com/wp-content/uploads/2020/10/SAVE_20201026_015401.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/?amp",
+      "cdnAmpWebUrl": "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/?amp",
+      "publishedDateTime": "2020-10-26T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Wire",
+        "domain": "theindianwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-how-the-rainbow-ai-chatbot-is-tackling-domestic-abuse.md",
+      "title": "How the rAInbow AI chatbot is tackling domestic abuse",
+      "excerpt": "But now a chatbot called rAInbow aimed at South African users is trying to turn this tide. It invites users to take part in quizzes and stories in order to help them better understand what is and is not abuse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/technology-54569878",
+      "originalUrl": "https://www.bbc.com/news/av/technology-54569878",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p08wf5c1.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T23:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms.md",
+      "title": "How artificial intelligence and machine learning power content-first newsrooms",
+      "excerpt": "By Chris Nguyen, executive vice president, marketing at Naviga Digital is no longer just a nice addition to a newspaper’s success, but an imperative. While print remains a key source of revenue — capturing both subscriptions and advertising — spending too much time on designing and managing printed editions has become an obstacle to digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/",
+      "originalUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/digiday.com/wp-content/uploads/2020/10/Digiday_Naviga_Banner_1440X600-1.jpg?fit=682%2C284&ssl=1",
+          "width": 681,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/",
+      "cdnAmpWebUrl": "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/",
+      "publishedDateTime": "2020-10-25T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digiday",
+        "domain": "digiday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-30000-grant-to-support-uhv-math-robotics-programs.md",
+      "title": "$30,000 grant to support UHV math, robotics programs",
+      "excerpt": "A $30,000 grant from Alcoa Foundation will allow the University of Houston-Victoria to continue to host public events focused on math, computer science and robotics for middle and high school",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/news/30-000-grant-to-support-uhv-math-robotics-programs/article_bd86a028-13de-11eb-94c0-5fb7be856e28.html",
+      "originalUrl": "https://www.victoriaadvocate.com/news/30-000-grant-to-support-uhv-math-robotics-programs/article_bd86a028-13de-11eb-94c0-5fb7be856e28.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/0/b4/0b42eab4-f34e-11e8-aa1f-f32a7a8d25be/5bfefdbc06708.image.jpg?resize=500%2C625",
+          "width": 500,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-ford-mustang-mach-e-electric-car-sees-first-firm-dates-tesla-model-y-rival-revs-up-production.md",
       "title": "Ford Mustang Mach-E Electric Car Sees First Firm Dates: Tesla Model Y Rival Revs Up Production",
       "excerpt": "E electric are seeing hard production dates. Several people who placed orders for the Ford Electric crossover are receiving notifications of production dates of December 7, 2020, according to posts on the Mustang Mach E Reddit forum and the Mach E Club.",
@@ -300,49 +481,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-can-ai-and-robotics-disrupt-the-defence-industry.md",
-      "title": "Can AI and Robotics Disrupt the Defence Industry?",
-      "excerpt": "The defence industry has acquired high-profile robotics, built partnerships with companies investing more in startups. Some defence contractors embrace AI and robotics companies as crucial subcontractors to bridge between DoD and Silicon Valley.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/can-ai-and-robotics-disrupt-the-defence-industry/",
-      "originalUrl": "https://www.analyticsinsight.net/can-ai-and-robotics-disrupt-the-defence-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/AI-in-Defense.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-24T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1077,152 +1215,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen.md",
-      "title": "AI security: This project aims to spot attacks against critical systems before they happen",
-      "excerpt": "Microsoft has unveiled a new open-source \"matrix\" that hopes to identify all the existing attacks that threaten the security of machine learning applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
-      "originalUrl": "https://www.zdnet.com/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-security-this-project-aims-to-spot-attacks-against-critical-systems-before-they-happen/",
-      "publishedDateTime": "2020-10-23T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive.md",
-      "title": "Predictions Rosy For ‘Roadschooling’ Whence Self-Driving Cars Arrive",
-      "excerpt": "The moment that you arrive at a landmark location provides ample time to stretch your legs and see new sights. For those stuck at home, it is the same four walls, day after day, week after week. Some twists and turns are to be expected while doing the road adventure approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8cc61ec0a769024976968d%2F0x0.jpg%3FcropX1%3D1787%26cropX2%3D5571%26cropY1%3D197%26cropY2%3D2508",
-          "width": 1200,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/amp/",
-      "publishedDateTime": "2020-10-23T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting.md",
-      "title": "HelloWoofy is the AI-driven brain that could change how you handle social posting.",
-      "excerpt": "Sponsored Deals For companies who don’t have the resources to throw their full weight behind social media marketing the way they should, a service like HelloWoofy Social Media Management can be like adding that social media manager they need.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/",
-      "originalUrl": "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/sale_31494_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/amp/",
-      "publishedDateTime": "2020-10-23T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

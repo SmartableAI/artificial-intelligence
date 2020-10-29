@@ -9,7 +9,7 @@ ampWebUrl: "https://gisuser.com/2020/10/noaa-and-google-collaborate-to-enhance-w
 cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2020/10/noaa-and-google-collaborate-to-enhance-weather-forecasting-and-research-with-artificial-intelligence/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "NOAA Partners with Google to Boost Weather Forecasts with AI"
-    excerpt: "The roughly $10 million deal will also incorporate new hands-on training opportunities for both entities’ personnel."
-    publishedDateTime: 2020-10-27T19:57:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/10/noaa-partners-google-boost-weather-forecasts-ai/169599/"
+  - title: "Otter.ai announces Zoom live video captioning to enhance virtual collaboration"
+    excerpt: "The company notes that this feature could reduce the risk of workplace miscommunication and increase telecommuter productivity and inclusiveness in the remote work era."
+    publishedDateTime: 2020-10-29T13:00:00Z
+    webUrl: "https://www.techrepublic.com/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/10/27/shutterstock_552493561/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 63
   - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
     excerpt: "PRNewswire/ -- NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite and environmental data."
     publishedDateTime: 2020-10-27T15:00:00Z

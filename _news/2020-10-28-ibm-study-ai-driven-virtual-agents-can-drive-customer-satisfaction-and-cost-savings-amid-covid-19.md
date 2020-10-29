@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence model detects asymptomatic Covid-19 infections through cellphone-recorded coughs"
-    excerpt: "An artificial intelligence model can detect people who are asymptomatic with Covid-19, through cellphone-recorded coughs. The work was led by Brian Subirana and colleagues at the MIT Auto-ID Lab."
-    publishedDateTime: 2020-10-29T04:06:00Z
-    webUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
+  - title: "Artificial intelligence model detects asymptomatic COVID-19 infections through cellphone-recorded coughs"
+    excerpt: "Asymptomatic people who are infected with COVID-19 exhibit, by definition, no discernible physical symptoms of the disease. They are thus less likely to seek out testing for the virus, and could unknowingly spread the infection to others."
+    publishedDateTime: 2020-10-29T13:45:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.amp"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 52
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 42
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202010/MIT-Cough-Recordings-01-PRESS.jpg"
-        width: 1350
-        height: 900
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/53-artificialin.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "V0S+Q4qCxT3H5pdNbcDYqiSCqOvt6MM/plLdUBQul3/lXCxiynAk8kVi6ms0ubyl7ovcP+lcp3UZUVpBOzPaTp7widnjMF+xZidcX0LHQbqMLmDVXmRNbORxCdS9wKpXvqY9vC5lUY+O5OuOVq6LPI8wPGyqUnuEale7L1VjD6B7HJZRNMbrVl3zJF+TKau5OLdSRBI09dp52n2O0kgmzPNeW3+R8AParddQC9WfOqHEoaMFQOsv3FULHBGT3wWXT4Lfadl57QENCspeMZ72erd08g6BEVWYVIKSlNsXvEoBQMr+5GTXJ2IZEr//C5bFCCafI0qbw2p/+sGY6s37IHbGg6I8op/B4NJFRktVZgM=;D73Pkig1jQlWLf/kJrbh9g=="

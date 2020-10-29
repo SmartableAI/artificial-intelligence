@@ -2,6 +2,214 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-28-hard-to-believe-but-artificial-intelligence-will-improve-our-worklives.md",
+      "title": "Hard To Believe, But Artificial Intelligence Will Improve Our Worklives",
+      "excerpt": "Instead of worrying about job displacement, we should get to work creating the new, high-quality jobs of tomorrow while massively expanding our upskilling and reskilling efforts to transition displaced workers into these new opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98db4a023934f0a2752617%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/amp/",
+      "publishedDateTime": "2020-10-27T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt.md",
+      "title": "With Industrial Robots Easier Than Ever To Program, How Do Our Attitudes Toward Automation Adapt?",
+      "excerpt": "Whether it's which tasks we can automate, the cost and time necessary for robot automation or how workers can contribute, the rise of easy-to-program robots forces us to rethink our assumptions and strategies for robotic automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1adfa7960582d2951cc914%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/amp/",
+      "publishedDateTime": "2020-10-27T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-best-facial-recognition-security-cameras-for-2020.md",
+      "title": "Best facial recognition security cameras for 2020",
+      "excerpt": "Select home security cameras have facial recognition, an advanced option that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2020/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2020/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2020/",
+      "publishedDateTime": "2020-10-27T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics.md",
+      "title": "Intel Geospatial is a cloud platform for AI-powered imagery analytics",
+      "excerpt": "Moreover, satellite imagery and the AI algorithms trained to analyze it ... visualize geospatial data in BigQuery. Microsoft offers Azure Maps, a set of geospatial APIs to add spatial analytics ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/",
+      "originalUrl": "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/intel-logo-e1578358513137.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/amp/",
+      "publishedDateTime": "2020-10-27T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles.md",
       "title": "COVID-19 Fails To Move Needle On Consumers’ Disdain For Self-Driving Vehicles",
       "excerpt": "Carmakers continue to develop self-driving systems and some safety experts continue to tout their potential for saving lives, but the public as a whole expresses very limited interest in buying cars with the technology. At the same time, experts in the ...",
@@ -62,7 +270,7 @@
       "originalUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -202,6 +410,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-canadians-confidence-in-electric-vehicles-dropping-says-report.md",
+      "title": "Canadians' confidence in electric vehicles dropping, says report",
+      "excerpt": "Most new-car shoppers still lack confidence in electric cars, and a whopping 67 per cent of Canadians haven’t ever driven one, according to a new study by J.D. Power. The J.D. Power 2020 Q1 Mobility Confidence Index Study,",
+      "sourceUrl": null,
+      "webUrl": "https://driving.ca/auto-news/news/canadians-confidence-in-electric-vehicles-dropping-says-report",
+      "originalUrl": "https://driving.ca/auto-news/news/canadians-confidence-in-electric-vehicles-dropping-says-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2020/02/nissan_ev.jpg?w=800&crop=1&strip=all#038;h=260",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://driving.ca/auto-news/news/canadians-confidence-in-electric-vehicles-dropping-says-report/amp",
+      "cdnAmpWebUrl": "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/canadians-confidence-in-electric-vehicles-dropping-says-report/amp",
+      "publishedDateTime": "2020-10-27T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "driving.ca",
+        "domain": "driving.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker.md",
       "title": "zomato digitizes menus using Amazon Textract and Amazon SageMaker",
       "excerpt": "This post is co-written by Chiranjeev Ghai, ML Engineer at zomato. zomato is a global food-tech company based in India. Are you the kind of person who has very specific cravings? Maybe when the mood hits, you don’t want just any kind of Indian food—you want Chicken Chettinad with a side of paratha, and",
@@ -255,58 +505,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-mark-cuban-is-seeking-the-next-generation-of-ai-superstars.md",
-      "title": "Mark Cuban Is Seeking the Next Generation of AI ‘Superstars’",
-      "excerpt": "The billionaire investor is funding AI bootcamps aimed at young people in low-income communities. “We don’t recognize how much talent is there.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551",
-      "originalUrl": "https://www.wsj.com/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-250220/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551",
-      "publishedDateTime": "2020-10-27T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-27-video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library.md",
       "title": "Video streaming and deep learning: Using Amazon Kinesis Video Streams with Deep Java Library",
       "excerpt": "Amazon Kinesis Video Streams allows you to easily ingest video data from connected devices for processing. One of the most effective ways to process this video data is using the power of deep learning. You can create an efficient service infrastructure to run these computations with a Java server, but",
@@ -315,7 +513,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -368,7 +566,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -1047,213 +1245,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-how-ai-can-help-protect-users-from-abusive-and-negative-behavior.md",
-      "title": "How AI can help protect users from abusive and negative behavior",
-      "excerpt": "With the increase in online chat, I set out to learn how AI can help ensure user-generated content is moderated so that all users are safe from abusive and negative behavior. To answer that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/GettyImages-1158225795.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/amp/",
-      "publishedDateTime": "2020-10-27T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-deci-raises-91-million-to-autonomously-optimize-ai-algorithms.md",
-      "title": "Deci raises $9.1 million to autonomously optimize AI algorithms",
-      "excerpt": "which redesigns AI algorithms to run more efficiently on off-the-shelf processors by leveraging the chips’ available memory. Yet another rival, DarwinAI, uses what it calls generative synthesis ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/",
-      "publishedDateTime": "2020-10-27T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision.md",
-      "title": "Skan raises $14 million to automate repetitive business processes with computer vision",
-      "excerpt": "Skan.ai, an AI-enabled process discovery and operational intelligence platform, today closed $14 million in funding. The company says the proceeds will be put toward accelerating Skan’s go-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/amp/",
-      "publishedDateTime": "2020-10-27T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-eightfold-recruiting-software-startup-reaches-1-billion-value.md",
-      "title": "Eightfold Recruiting Software Startup Reaches $1 Billion Value",
-      "excerpt": "Recruiting software startup Eightfold AI said it was valued at $1 billion in a $125 million financing round led by General Catalyst.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwPF2wRC.Ws0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "publishedDateTime": "2020-10-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

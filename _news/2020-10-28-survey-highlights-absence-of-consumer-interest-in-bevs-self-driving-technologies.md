@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving trucks from Pittsburgh deliver food to needy in Ohio, Michigan"
+    excerpt: "Two self-driving trucks delivered more than 40,000 pounds of food last week from the Greater Pittsburgh Community Food Bank to needy families in Toledo, Ohio. The delivery was part of a test drive featuring two human-guided,"
+    publishedDateTime: 2020-10-29T12:31:00Z
+    webUrl: "https://triblive.com/business/technology/self-driving-trucks-from-pittsburgh-deliver-food-to-needy-in-ohio-michigan/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 2
 
 secured: "UfGscXSlhIqUMKUPB0TFD9lDZaAoX7S/YZXO/ctnv47Y5xsFznfU0Aw5Do81HPYRbq51iq8Qtn72bDJP4MDac0JCM2KBPvXq4W334U8r+M6BhX3NW3w15lAJn+k3rJTewycZNeMarVFOtKdatmCpoh9XPFBz3XSYJS68RytMIrZQoiLfN+7TAZu04xSUkUE71ISv5VPKmK26DC4Z8YKfnBnZlCJGmW9uIOF/to7iDHKsmbxhmEz2dPnZ1xNArq20prt8rV48ElhzfBmrfxq4rDv3P7my4kUFsgBUXQSzb7ZIygHk5aKJ5SP+GOJWJ78IYnMUQlDabgU16ATX/aEfXy8PgRTDE83yyWPqgKumso4=;+ltUUoR/I1+wnj/p+D6jGQ=="
 ---

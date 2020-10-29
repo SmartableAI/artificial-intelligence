@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - Computer Vision
+  - AWS AI
 
 images:
   - url: "https://cnet4.cbsistatic.com/img/9S5f_XMCKYD4FKVdlgLgOJNQlI0=/1200x630/2020/10/23/f1d69bbc-1345-40f4-9139-ef38598f86af/gettyimages-1184155312.jpg"

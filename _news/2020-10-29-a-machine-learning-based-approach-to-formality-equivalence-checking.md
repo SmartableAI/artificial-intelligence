@@ -67,20 +67,6 @@ related:
         width: 879
         height: 494
         isCached: true
-  - title: "Biometric Cards, Digital ID, and Machine Learning: This Week’s Top Mobile ID Stories"
-    excerpt: "Mobile ID World's top stories bring us two prominent themes: alternative approaches to digital ID, and biometric cards."
-    publishedDateTime: 2020-10-24T20:54:00Z
-    webUrl: "https://mobileidworld.com/biometric-cards-digital-id-and-machine-learning-this-weeks-top-mobile-id-stories/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 34
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/iStock-910132252-2-e1529328362344.jpg"
-        width: 800
-        height: 586
-        isCached: true
   - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
     excerpt: "It’s a challenge to learn a new language, especially once we’re past 18 years old. But Duolingo, self-proclaimed as “the world’s best way to learn a language” and seconded by reviewers at the Wall Street Journal and the New York Times,"
     publishedDateTime: 2020-10-27T06:26:00Z

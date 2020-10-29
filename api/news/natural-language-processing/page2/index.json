@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-12-ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of-thats-debatable.md",
+      "title": "IBM Watson Demonstrates New Natural Language Processing Advancement in Premiere of \"That's Debatable\"",
+      "excerpt": "To generate the key points, the system utilizes four steps: Language can present a unique challenge for the business world – each company and industry has its own vernacular that evolves in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of",
+      "originalUrl": "https://www.nasdaq.com/press-release/ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-can-facial-recognition-tech-boost-asias-biometric-acceptance.md",
       "title": "Can facial recognition tech boost Asia’s biometric acceptance?",
       "excerpt": "Biometric facial recognition technology is becoming increasingly accepted, including in Southeast Asia where it has shown potential.",
@@ -1320,58 +1355,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-staying-compliant-in-any-language.md",
-      "title": "Staying compliant in any language",
-      "excerpt": "Financial professionals communicate in multiple languages –– including with slang and emojis, and firms need to remain compliant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/staying-compliant-in-any-language/",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/staying-compliant-in-any-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bbhub.io/professional/sites/10/364516538-e1601022466247.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-25T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

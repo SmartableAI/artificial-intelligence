@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Artificial intelligence model detects asymptomatic Covid-19 infections through cellphone-recorded coughs"
-excerpt: "An artificial intelligence model can detect people who are asymptomatic with Covid-19, through cellphone-recorded coughs. The work was led by Brian Subirana and colleagues at the MIT Auto-ID Lab."
-publishedDateTime: 2020-10-29T04:06:00Z
-originalUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
-webUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
+title: "Artificial intelligence model detects asymptomatic COVID-19 infections through cellphone-recorded coughs"
+excerpt: "Asymptomatic people who are infected with COVID-19 exhibit, by definition, no discernible physical symptoms of the disease. They are thus less likely to seek out testing for the virus, and could unknowingly spread the infection to others."
+publishedDateTime: 2020-10-29T13:45:00Z
+originalUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.html"
+webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.amp"
 type: article
-quality: 52
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Massachusetts Institute of Technology
-  domain: mit.edu
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://news.mit.edu/sites/default/files/images/202010/MIT-Cough-Recordings-01-PRESS.jpg"
-    width: 1350
-    height: 900
+  - url: "https://scx2.b-cdn.net/gfx/news/2020/53-artificialin.jpg"
+    width: 900
+    height: 600
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 225
         isCached: true
 
-secured: "aDcGg1b7BHE5JNhbHbfIWfWWdLUF3YIwGbG3jn9Ko3udzlf4XtOcUSe6ittpgQb1TE+P83Og4djc3MaxY/0QHS+JrRqilUmunPEu4ZLu7QsQ0xwWvFfQLnfBEWYcj85Xxqk0i8LVL1kPFr20eZaPgOPuVYh0vHJhFEHQ/sDgKz9cl+ECFBcSjy029EcoQC8z0Ki62anJTS+8knowH6Wn0vXBvjnXzhV8sCtYrnWKYr1B24SzptfSSKtGLVH/oZIn5p1BD1+AoHMKWv8z44XwAO2c0/3YZcU2vXZK3UVFD31J7++FvD5sS7iCKyxQQrgLWTtIFxZZsf9gRttM5EOo0loM/z6O/IGdL7H2NEGpAkpZ7FiB2Ve8VLf8cNO8APySiJHmu7COhaWLLv76iPWF9lusr6nvjMtsl1DKrBIVgRP6M+mzKBs1mRHKpUHLPVtDE/KraMLgYcAsCfBjgCpSvc20pEFpZ7K9n43iy2+KVB1/2CZSM0m4GIlnUIsxByK1dqVwE8hrfoixH2Dpcy9n4A==;8vjWjAYgkL3Y/FkoXEy5Dg=="
+secured: "tP6HDZQGXKYLaT0+ufPJzDcKuo9F9uMRdZuvFxsryfl1j0DAtBpOz/TCAxp9Zf9/13Jwi2Z/dmV/pXaCjphNdCcCGTsEfB7xt/7Nlk+VRXOA2fYJazXw7tkXEiW2iDIfVjtQblKgNPKRVOM6xqxWVGCOI0tb1hKxqjJkNth/g9vdVeji6PsUvVz1MsTTIBFt4VgLdCUBeY1HwHdggCYUYYFMaCcxY0gokG7xvoQTD9O1oClnOntol/4Ifjn+iZOJ9shRG4Un8zqH4wWNd/AiZOir6eBrH6gLOUenscqTX4agwepnsC4MC5UNmiN3CSC7h8i7iP4RQcEslTMT1Hw3Pd0n68mSNTnFSay19in3ERY=;YKqx+kCHAP2okBF1FDCVJw=="
 ---
 

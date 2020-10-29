@@ -2,6 +2,162 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-22-cruise-gm-to-seek-us-okay-for-self-driving-vehicle-without-pedal-steering-wheel.md",
+      "title": "Cruise, GM to seek U.S. okay for self-driving vehicle without pedal, steering wheel",
+      "excerpt": "Self-driving car maker Cruise said on Wednesday it and majority shareholder General Motors Co would seek U.S. regulatory approval in coming months to deploy a limited number of Cruise Origin vehicles without steering wheels or pedals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-autonomous-cruise-nhtsa-idUSKBN2762SP",
+      "originalUrl": "https://www.reuters.com/article/us-autonomous-cruise-nhtsa-idUSKBN2762SP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538353675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1PD",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2762SP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762SP",
+      "publishedDateTime": "2020-10-21T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-facebook-is-developing-a-way-to-type-using-vr-on-tabletops.md",
+      "title": "Facebook is developing a way to type using VR on tabletops",
+      "excerpt": "Facebook Reality Labs' latest research project, being presented at the Symposium on User Interface and Software Technology, demonstrates hand-typing on a desk at up to 73 words per minute. The project isn't ready for Oculus Quest VR headsets yet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
+      "originalUrl": "https://www.cnet.com/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/CR8VckH_PQuQB_a1B_LRE-ROb9Q=/1200x630/2020/10/21/b81c65ac-f9f5-4d53-a672-74afeb77c6f0/frl-vr-typing-screenshot.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
+      "publishedDateTime": "2020-10-21T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-best-facial-recognition-security-cameras-of-2020.md",
+      "title": "Best facial recognition security cameras of 2020",
+      "excerpt": "Select home security cameras have facial recognition, an advanced feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020/",
+      "publishedDateTime": "2020-10-21T19:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-saudi-launches-national-artificial-intelligence-strategy.md",
       "title": "Saudi launches national artificial intelligence strategy",
       "excerpt": "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said.",
@@ -1090,161 +1246,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-landing-ai-launches-product-inspection-platform-for-manufacturers.md",
-      "title": "Landing AI launches product inspection platform for manufacturers",
-      "excerpt": "and created the AI Startup fund to invest $175 million in AI startups. “I feel like this is where the field of AI needs to go: Rather than highly-skilled engineers at Landing AI or Google or ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/",
-      "originalUrl": "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/landinglens.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/amp/",
-      "publishedDateTime": "2020-10-21T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-kite-expands-its-ai-code-completions-from-2-to-13-programming-languages.md",
-      "title": "Kite expands its AI code completions from 2 to 13 programming languages",
-      "excerpt": "Kite's AI code completion supports programming languages Python, JavaScript, TypeScript, Java, HTML, CSS, Go, C, C#, C++, Objective C, Kotlin, and Scala.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/",
-      "originalUrl": "https://venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/kite-11-more-programming-languages.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/amp/",
-      "publishedDateTime": "2020-10-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-activists-turn-facial-recognition-tools-against-the-police.md",
-      "title": "Activists Turn Facial Recognition Tools Against the Police",
-      "excerpt": "met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery; they would also prevent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/21/business/21coprecognition-01/21coprecognition-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html",
-      "publishedDateTime": "2020-10-21T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

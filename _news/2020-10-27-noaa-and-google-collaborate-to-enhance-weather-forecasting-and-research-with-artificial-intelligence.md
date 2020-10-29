@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "Otter.ai announces Zoom live video captioning to enhance virtual collaboration"
+    excerpt: "The company notes that this feature could reduce the risk of workplace miscommunication and increase telecommuter productivity and inclusiveness in the remote work era."
+    publishedDateTime: 2020-10-29T13:00:00Z
+    webUrl: "https://www.techrepublic.com/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 63
   - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
     excerpt: "Public-private partnership between NOAA and Google taps into AI technology to more effectively use satellite and environmental data to improve weather forecasting WASHINGTON, Oct. 27, 2020 — NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite"
     publishedDateTime: 2020-10-27T17:34:00Z
@@ -39,20 +50,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1320599/Google_NOAA.jpg?p=publish&w=950"
         width: 950
         height: 474
-        isCached: true
-  - title: "NOAA Partners with Google to Boost Weather Forecasts with AI"
-    excerpt: "The roughly $10 million deal will also incorporate new hands-on training opportunities for both entities’ personnel."
-    publishedDateTime: 2020-10-27T19:57:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/10/noaa-partners-google-boost-weather-forecasts-ai/169599/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/10/27/shutterstock_552493561/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "isLp0L+ghYzca9rbZbBzP+wKiuUgy7NqJGg/za4Y/QgBKsySkq8SXVOhHOkYnfcx7NAPFkVUpmSLxSpRaAo7u7pNu87oCGgRL8y2vnEQ2dBmzYnhttbBFWh4ZEmE1TO9l53+2BviaoBJCjK7Z5yt1G5TceqEJO7mNk6c4deN/qSHusK73hNEkYtWkdTpBrUKw8Q91/PSLsWKNz7yeUC23zGicpuE4ugq1RrTCncq3lbG/lvMZ7Xbzg5pH7we6DCWUle5GjvErXk+xAoegGFbPkFPTIH7mQB+Gn8RjrspPC1S9dkrRTGqaKEjYKyWerHw6zl564Rrbvu6MmcGZQgBRot+59g4KBeqrp/PjQlnufI=;l3GnVdsb1KbnWWtjiUCO3Q=="

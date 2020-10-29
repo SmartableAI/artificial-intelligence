@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-07-ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games.md",
+      "title": "EA CEO teases new machine learning and AI features for next-gen games",
+      "excerpt": "EA's new experimental technologies like AI/machine learning will start manifesting in next-gen PlayStation 5, Xbox Series X games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/7/5/75521_6_ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games_full.png",
+          "width": 1200,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html",
+      "publishedDateTime": "2020-10-06T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-deep-learning-takes-on-synthetic-biology.md",
       "title": "Deep learning takes on synthetic biology",
       "excerpt": "Deep learning takes on synthetic biology Computational algorithms enable identification and optimization of RNA-based tools for myriad applications Date: October 7, 2020 Source: Wyss Institute for ...",
@@ -1411,50 +1454,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-ai-chipmaker-hailo-accelerates-deep-learning-at-the-edge.md",
-      "title": "AI chipmaker Hailo accelerates deep learning at the edge",
-      "excerpt": "Artificial intelligence chip company Hailo Technologies Ltd. said today it’s launching two new acceleration modules that will boost the processing capabilities of edge devices that run its specialist hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/09/30/ai-chipmaker-hailo-accelerates-deep-learning-edge/",
-      "originalUrl": "https://siliconangle.com/2020/09/30/ai-chipmaker-hailo-accelerates-deep-learning-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -26,14 +26,14 @@ topics:
 
 related:
   - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
-    publishedDateTime: 2020-10-28T04:25:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
+    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
+    publishedDateTime: 2020-10-28T05:40:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
         width: 1678
@@ -52,6 +52,20 @@ related:
       - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/10/4944270.ashx?h=500&w=878&la=en&hash=BD039AF4149872CB15744860B33582D4DF93FD68"
         width: 878
         height: 500
+        isCached: true
+  - title: "The Future of AI, Ethics, and Defense"
+    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
+    publishedDateTime: 2020-10-26T16:25:00Z
+    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
+    type: article
+    provider:
+      name: German Marshall Fund
+      domain: gmfus.org
+    quality: 54
+    images:
+      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
+        width: 1400
+        height: 600
         isCached: true
   - title: "Startup Robust.AI, Founded By Cognitive Scientist Gary Marcus And Roboticist Rodney Brooks, Raises $15 Million To Make Building Smarter Robots Easier"
     excerpt: "Robust.AI raised $15 million led by Jazz Ventures to build a cognitive engine for robotics. The goal: To allow people to build robots faster, cheaper and"

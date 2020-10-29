@@ -97,58 +97,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-mark-cuban-is-seeking-the-next-generation-of-ai-superstars.md",
-      "title": "Mark Cuban Is Seeking the Next Generation of AI ‘Superstars’",
-      "excerpt": "The billionaire investor is funding AI bootcamps aimed at young people in low-income communities. “We don’t recognize how much talent is there.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551",
-      "originalUrl": "https://www.wsj.com/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-250220/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551",
-      "publishedDateTime": "2020-10-27T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-27-deci-raises-91-million-to-autonomously-optimize-ai-algorithms.md",
       "title": "Deci raises $9.1 million to autonomously optimize AI algorithms",
       "excerpt": "which redesigns AI algorithms to run more efficiently on off-the-shelf processors by leveraging the chips’ available memory. Yet another rival, DarwinAI, uses what it calls generative synthesis ...",
@@ -1493,6 +1441,49 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-microsoft-azure-synapse-raises-the-data-management-bar.md",
+      "title": "Microsoft Azure Synapse Raises the Data Management Bar",
+      "excerpt": "First some basics on what Azure Synapse is. Azure Synapse is an analytics service that brings enterprise data into analytics and machine learning. Formerly known as Azure SQL Data Warehouse ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/882e9d6b9f3c4eb082dd739d9a12cceb.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/",
+      "publishedDateTime": "2020-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

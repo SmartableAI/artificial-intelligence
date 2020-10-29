@@ -130,6 +130,20 @@ related:
         width: 715
         height: 341
         isCached: true
+  - title: "Apple Inc. acquires a video AI start-up for USD 50 million to improve Siri & other applications"
+    excerpt: "Apple has acquired a Video-based Artificial Intelligence Start-up that goes by the name of Vilynx. The deal was worth $50 million. Learn more"
+    publishedDateTime: 2020-10-29T13:34:00Z
+    webUrl: "https://techstory.in/apple-inc-acquires-a-video-ai-start-up-for-usd-50-million-to-improve-siri-other-applications/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 25
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2020/10/Copia-de-PLANTILLA-PORTADA-750X450-2020-10-28T101153.618.jpg"
+        width: 750
+        height: 450
+        isCached: true
   - title: "Apple roundup: Privacy change hit with French antitrust complaint; acquires video analyzing AI startup"
     excerpt: "In other Apple news, Bloomberg sources say the company acquired advanced AI and computer vision startup Vilynx for about $50M earlier this year. Vilynx's tech uses AI to understand a video's ..."
     publishedDateTime: 2020-10-28T14:32:00Z

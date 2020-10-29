@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
 type: article
 quality: 86
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -111,6 +111,17 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "As Tesla full self-driving goes beta, Autopilot is rated a 'distant second' to GM's Super Cruise"
+    excerpt: "Tesla's Autopilot loses out in the Consumer Reports ratings over its handling of unresponsive drivers. A decade after Google launched its self-driving car project now known as Waymo, the idea of a fully autonomous car remains elusive – even for Tesla owners,"
+    publishedDateTime: 2020-10-29T13:33:00Z
+    webUrl: "https://www.zdnet.com/article/as-tesla-full-self-driving-goes-beta-autopilot-is-rated-a-distant-second-to-gms-super-cruise/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/as-tesla-full-self-driving-goes-beta-autopilot-is-rated-a-distant-second-to-gms-super-cruise/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/as-tesla-full-self-driving-goes-beta-autopilot-is-rated-a-distant-second-to-gms-super-cruise/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 56
   - title: "Tesla’s ‘Full Self Driving’ Beta Tech Nearly Wrecked This Model 3 Into a Parked Car"
     excerpt: "Tesla's \"Full Self Driving\" update was sent out to an unknown number of beta testers a few days ago, and videos showing the system's performance are being shared around the internet. One such clip, posted by YouTuber Brandon M,"
     publishedDateTime: 2020-10-27T19:17:00Z

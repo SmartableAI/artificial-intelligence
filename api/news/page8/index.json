@@ -2,6 +2,161 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-21-landing-ai-launches-product-inspection-platform-for-manufacturers.md",
+      "title": "Landing AI launches product inspection platform for manufacturers",
+      "excerpt": "and created the AI Startup fund to invest $175 million in AI startups. “I feel like this is where the field of AI needs to go: Rather than highly-skilled engineers at Landing AI or Google or ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/",
+      "originalUrl": "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/landinglens.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/amp/",
+      "publishedDateTime": "2020-10-21T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-kite-expands-its-ai-code-completions-from-2-to-13-programming-languages.md",
+      "title": "Kite expands its AI code completions from 2 to 13 programming languages",
+      "excerpt": "Kite's AI code completion supports programming languages Python, JavaScript, TypeScript, Java, HTML, CSS, Go, C, C#, C++, Objective C, Kotlin, and Scala.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/",
+      "originalUrl": "https://venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/kite-11-more-programming-languages.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/amp/",
+      "publishedDateTime": "2020-10-21T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-activists-turn-facial-recognition-tools-against-the-police.md",
+      "title": "Activists Turn Facial Recognition Tools Against the Police",
+      "excerpt": "met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery; they would also prevent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/21/business/21coprecognition-01/21coprecognition-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html",
+      "publishedDateTime": "2020-10-21T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-if-the-future-of-skincare-is-ai-generated-serums-ill-pass.md",
       "title": "If the Future of Skincare Is AI-Generated Serums I'll Pass",
       "excerpt": "The beauty industry is hoping AI can fuel a new revolution. But so far its just watery gels I'm not sure actually work.",
@@ -1050,144 +1205,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors.md",
-      "title": "Intuit Appoints Tekedra Mawakana, Waymo's Chief Operating Officer, to Board of Directors",
-      "excerpt": "Mawakana is the COO of Waymo LLC, a subsidiary of Alphabet ... policy related to commerce and advanced applications of artificial intelligence and machine learning. \"Tekedra has a deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b17984355/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b17984355/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17984355",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17984355",
-      "publishedDateTime": "2020-10-20T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
-      "title": "Neural pathway crucial to successful rapid object recognition in primates",
-      "excerpt": "Rapid recurrent processing in the ventrolateral prefrontal cortex (vlPFC) helps primates quickly identify objects, according to research from MIT's McGovern Institute and Center for Brains, Minds, and Machines.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
-      "originalUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202010/Ko-DiCarlo-Neuron-edited_0.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-salesforces-simulation-cards-spell-out-uses-risks-and-bias-to-make-ai-models-more-transparent.md",
-      "title": "Salesforce’s Simulation Cards spell out uses, risks, and bias to make AI models more transparent",
-      "excerpt": "Salesforce's Simulation Cards aim to bring transparency to historically black-box published AI and machine learning simulations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/20/salesforces-simulation-cards-spell-out-uses-risks-and-bias-to-make-ai-models-more-transparent/",
-      "originalUrl": "https://venturebeat.com/2020/10/20/salesforces-simulation-cards-spell-out-uses-risks-and-bias-to-make-ai-models-more-transparent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/salesforce-tower-indianapolis-e1571779672792.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/20/salesforces-simulation-cards-spell-out-uses-risks-and-bias-to-make-ai-models-more-transparent/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/salesforces-simulation-cards-spell-out-uses-risks-and-bias-to-make-ai-models-more-transparent/amp/",
-      "publishedDateTime": "2020-10-20T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

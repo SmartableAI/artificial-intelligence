@@ -85,20 +85,6 @@ related:
         width: 1662
         height: 1050
         isCached: true
-  - title: "Biometric Cards, Digital ID, and Machine Learning: This Week’s Top Mobile ID Stories"
-    excerpt: "Mobile ID World's top stories bring us two prominent themes: alternative approaches to digital ID, and biometric cards."
-    publishedDateTime: 2020-10-24T20:54:00Z
-    webUrl: "https://mobileidworld.com/biometric-cards-digital-id-and-machine-learning-this-weeks-top-mobile-id-stories/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 34
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/iStock-910132252-2-e1529328362344.jpg"
-        width: 800
-        height: 586
-        isCached: true
   - title: "Amesite Launches New Plug-and-Play Course Creation for Remote Learning and Business Training"
     excerpt: "PRNewswire/ -- Amesite Inc. (Nasdaq: AMST), an artificial intelligence software company providing online learning ecosystems for business, higher education, and K-12, announced today the release of its new Course Manager capability,"
     publishedDateTime: 2020-10-29T10:55:00Z

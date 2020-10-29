@@ -1,13 +1,13 @@
 ---
 category: news
 title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
-publishedDateTime: 2020-10-28T04:25:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
+excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
+publishedDateTime: 2020-10-28T05:40:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
 type: article
-quality: 69
-heat: 99
+quality: 71
+heat: 111
 published: true
 
 provider:
@@ -15,8 +15,9 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
@@ -38,6 +39,20 @@ related:
       - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/10/4944270.ashx?h=500&w=878&la=en&hash=BD039AF4149872CB15744860B33582D4DF93FD68"
         width: 878
         height: 500
+        isCached: true
+  - title: "The Future of AI, Ethics, and Defense"
+    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
+    publishedDateTime: 2020-10-26T16:25:00Z
+    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
+    type: article
+    provider:
+      name: German Marshall Fund
+      domain: gmfus.org
+    quality: 54
+    images:
+      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
+        width: 1400
+        height: 600
         isCached: true
   - title: "7 AI Stocks to Buy as Automation Advances"
     excerpt: "By the time talks start to center around AI stocks ... In present times, also consider Amazon’s use of AI and robotics within its warehouses. These little robots never tire, rarely stop and ..."
@@ -63,6 +78,6 @@ related:
         height: 2448
         isCached: true
 
-secured: "OVqLrcDrNGxOQFtxbZvYoKZAwO2vO+y2jTtegQaade4F4lW7+y76BhLPYnOAkqYwHmmgxx0XQ4xc50ZPwmQDE3JSf7PE5C/aXza+izxEwQdJc2Fk7C6G/h4fDXXLPQ40KVhnMedzSIDMTx4i/PGnheKwL4j0a/IFJE4UhMbZQZ8EhOjtGqkNm6PpPewKLDqPCgSifX/jM9WPtJEhmoCsoH12hxAPLDM28uSV8Dl2loLciHcKmNTQqJ8RHwsv/z2c1QZwQgyTSHVo87D2VeVkCAj5rlC3hSStkSbB6CNqAzKa608Y+DqrJvRK6Z7oXh6Nox+1H9IstBoYreCjYT+ScvQ9d1++yXBTciIQao9kk5w=;cl0MJ3jeGaLqbWQwv/rXPg=="
+secured: "PBi8CCk7RsgH+LsimuYl467KiOYT19zwQRbN7BxIiZOlGZFUTV9umF4NdVs++jFsKH+hwjOOH3Xt8DBcBZzb9Zh7puyi/yemBpbS7y+zSE0AXvremFAMwCaCnQWQC+0oOoBaOv7zEz8X30te4QfTX7I5iNKKlbGGgTB/5OmmyHPuZ3X5NgKT1yBCDVsytJtym/n2Uk+nJ2GC/fvsho/P7pf6Slah8r/RCAQScktFJiA4657AUJBGz8jYyNi2mlfzefIQZHW4f488NWGNm6Y3EOzcK2cLgWGNPC8szMRSaBJfCPNesE753zVwxEVIXw04Uj1n8ZN8QCXP2gwb3NFex1rtezgTrHgGD8aUc5K5hk0=;u5fh99LtWtKKpX/XURCV8A=="
 ---
 

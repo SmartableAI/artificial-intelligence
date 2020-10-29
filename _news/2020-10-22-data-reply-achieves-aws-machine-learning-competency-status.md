@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
-excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
-publishedDateTime: 2020-10-22T07:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3"
+excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ..."
+publishedDateTime: 2020-10-22T07:35:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
+webUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -17,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "2xyPw0BgwuyqmO40fDjbfyhfVnTEY2HlqA8RNbTAde+toajM/IqRMr0dwZbonk86awJCh1AfocaSztgQZeftMct1qSfqfkq2SPjppENEjsyK8brnrHiaTM54/zHH5oEf9/jo6nrsKWuqUy5ZzKvVKtm2zqKtrncgQeQIXCz/OYrtr3kRtFLdDOkhMLgjvqJEP1iLBxxB8+g2Vglnq8yayKHF4RSbfaYBwH97i16wolaMr0mWXHmVS98Kr/ErHw0uYE4J2RgBIk9vwHZCGxiUpOhDuMMg/GE+eY36FyjL/F3TFiCGwUPBWpBcvCRahFMPqdBXzVcUb9NjH5mjNTPElNcumXqZcwW1I4vS89rdIK0=;H/qGnkMlBRUSmeoNA45kWQ=="
+secured: "J3YyCENveVmp+90DMHj09jJZFvBGD5PKGjXGH9r/QFqvUaX62Fnsd+H+voQJt/jmhVJGw67xlIgr0umhI5yibj9dzDfz2v4tbTSakF3Lz43lfZ/etrarZ0SI44qoRK++/XJBrxgslwGowH6pz3mA/dt7VjFdIGfxkozcr4fB3UcrMdU+bZB5XM6zpu2ggds1/Kf2JV3inCFwfD9nbsf5oyGYIFuHt3cV0PA4woEbxX5bzfKz0hn9N1qh0xY7+m2dz+0Fa/MhPwS/yADBlalVuyP8s+mHWdOIigtbaznY6MMupXElZe8qmYHV9POYw2TqypOG9qeC23harAPXuIEJSlMQIXVzUqii3v1IAsjVhS0=;bnSLQ6ZehA+mzUmfHSGqUw=="
 ---
 

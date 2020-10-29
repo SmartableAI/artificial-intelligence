@@ -7,8 +7,8 @@ originalUrl: "https://nationalinterest.org/blog/reboot/ethics-killing-ai-171473"
 webUrl: "https://nationalinterest.org/blog/reboot/ethics-killing-ai-171473"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: The National Interest
@@ -26,22 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "There's No Turning Back on AI in the Military"
-    excerpt: "with commercial technologies like cloud and AI—all to shoot down cruise missiles in split seconds—is a harbinger of things to come. Are there disproportionate safety and ethics challenges ahead for the US? Yes. And ours will be the higher road."
-    publishedDateTime: 2020-10-24T20:57:00Z
-    webUrl: "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/"
-    ampWebUrl: "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/amp"
+  - title: "Ethics vs. compliance in AI"
+    excerpt: "The Defense Department is focused on implementing its ethics principles for artificial intelligence, especially when it comes to health-related data. But tech experts warn against conflating ethics as just another compliance checklist. Jane Pinelis ..."
+    publishedDateTime: 2020-10-27T19:16:00Z
+    webUrl: "https://defensesystems.com/articles/2020/10/27/ai-defense-ethics-compliance.aspx"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: Defense Systems
+      domain: defensesystems.com
+    quality: 54
     images:
-      - url: "https://media.wired.com/photos/5f876aa8bdbbaee370e7cd80/master/pass/OpEd-AI-Airforce-190304-F-NH566-9002.jpg"
-        width: 2400
-        height: 1597
+      - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIprocesses.png"
+        width: 620
+        height: 300
         isCached: true
+  - title: "AI journalism and Professional Code of Ethics"
+    excerpt: "I have started talking about Artificial Intelligence journalism, the technologies of the Fourth Industrial Revolution, and why we need code of ethics for AI journalism, and standards of professional conduct and policies to control all of these technologies."
+    publishedDateTime: 2020-10-26T16:39:00Z
+    webUrl: "https://www.gulftoday.ae/opinion/2020/10/26/ai-journalism-and-professional-code-of-ethics"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 36
 
 secured: "tr5Vo/kuWuqrvbhSQviBy7lsATNjAdbRo8cJZn/7/TgqSoh8lUz4CYvLv882vNh1kPlbIY2ofFkpLmqX802ZxfXD7Kmj2YlONmgMknIJpNaOE+Y/rp4UeNotrdhABHZ3yLWhn2ZDADRPt5c9OlgxYXOd7NMyMrRilzUQgouA0/xAsNoW4yA8WCU7DSES7vSHx1UUO4D/wk209hOwgMQdVOu6L5uyp+rVNQwIptEjrEvG5BQniW0xmRI/2ZVQsdeH9HIwYP4D+ZQ7iRqG1TmpeEIoBceImE4JfrbkDwz1tj7MdW0ay+ku75cmsNz8DJEuQpXZTQcZ9BGSYbMBUCtmJitmdP3in5F/iE/ZxqdO7oY=;AAc+4NovTn9ypU10C1CtQA=="
 ---

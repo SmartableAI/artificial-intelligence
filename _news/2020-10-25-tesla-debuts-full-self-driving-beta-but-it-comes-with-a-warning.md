@@ -41,22 +41,6 @@ related:
         width: 1587
         height: 706
         isCached: true
-  - title: "Tesla is collecting insane amount of data from its Full Self-Driving test fleet"
-    excerpt: "Tesla is already collecting large amounts of data from the vehicles owners in its Full Self-Driving beta test fleet. It is already releasing a new update improving on the release earlier this week."
-    publishedDateTime: 2020-10-24T19:10:00Z
-    webUrl: "https://electrek.co/2020/10/24/tesla-collecting-insane-amount-data-full-self-driving-test-fleet/"
-    ampWebUrl: "https://electrek.co/2020/10/24/tesla-collecting-insane-amount-data-full-self-driving-test-fleet/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/24/tesla-collecting-insane-amount-data-full-self-driving-test-fleet/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 85
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-data.jpg?quality=82&strip=all"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla's Self-Driving Beta Fleet Is Generating An Immense Amount Of Data"
     excerpt: "Many experts warn against Tesla's approach to self-driving tech. It's too early in the game to know who's right, but relying on data should be a positive."
     publishedDateTime: 2020-10-26T14:22:00Z

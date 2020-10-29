@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Joseph Spatarella, Successful Fintech Executive, Has Joined Prolific Banking Inc. as Chief Client Success Officer"
-excerpt: "Spatarella, with extensive banking and fintech experience in Treasury & Cash Management, has joined Prolific Banking Inc. to lead the demand side of this new fintech. Mr. Spatarella brings decades of strategy,"
-publishedDateTime: 2020-10-28T13:02:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/joseph-spatarella-successful-fintech-executive-has-joined-prolific-banking-inc-as-chief-client-success-officer-1029733801"
-webUrl: "https://markets.businessinsider.com/news/stocks/joseph-spatarella-successful-fintech-executive-has-joined-prolific-banking-inc-as-chief-client-success-officer-1029733801"
+excerpt: "Spatarella, with extensive banking and fintech experience in Treasury & Cash Management, has joined Prolific Banking Inc. to lead the demand side"
+publishedDateTime: 2020-10-28T12:43:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/joseph-spatarella-successful-fintech-executive-has-joined-prolific-banking-inc-as-chief-client-success-officer/article_454095c1-866b-5476-9216-cdf101e57fb4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/joseph-spatarella-successful-fintech-executive-has-joined-prolific-banking-inc-as-chief-client-success-officer/article_454095c1-866b-5476-9216-cdf101e57fb4.html"
 type: article
-quality: 28
-heat: 28
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "PFt4cfvLAmdP3lx04afS7WbaKJooCk4WQqFI4o+x/Q6mO0Rt1FtHrP6DSI+orzXXptT8a6Wni6HleOp9Vmk+crfbaJ9hR5zAcPU43dEMu9ZYc9Jgv5rV8KBXyfc+JJ+jJtXoF20H0g24ojoyM7TTLRCT+1N6rOBQK/I3PmfN4c/KczryJiRCZZggFGRu5HDj1B/Dd3UNmjPlm9wUABZzrLO/PzfesmRpbSEA/sUn/UIwx1lqylyyXUGeeapCTq/b5xnns0Q2wENQikATyf+Y7OEK/Z/vh53b6Sib155FtrUD3Bfh1f19zVH7DzlILkgYUAnzm9imsB2o6EhPnbO4iQ4HwNN+ZM2GQM+FoRhG7ko=;GTxxJ6S3X8zeWA3f52UV8A=="
+secured: "ZLxLTaAV70GlgjPIylwWDLFB14UYfkgvwDAbdsstZ3PzBehhlAPFCh7tYgUNW/+uO9S35FvDyuvtdaeJKX81sVBV39SugXyZKLlHS+HiscOn54FJu9r1JCQEV7C8jYIpZZWj0ckmUMVscJ8oB5QjGIP2fK50z6+pVvcgMKAlaDtn8Ww2Q7UeV0OnVQDTiyQDrzoeJqOWHy+mm18vnEw++3ekQNWeC6BFKyJkvII9032gkugnY2EmdOJCRX3ipQJntpxJ1xLxY0GSEWA+JBbWIdeUWpfldVubDqCyxAzXeBTEnTe2ephUJEAahN3MRRhyB278dUOh8Wb4DsxOfx7txsFCt1gGNlDq7NtEJ+MyuYFWXCI9vsIcUZOiyzznQ3QTNctxdjgd9EcyvDslyPH2vhO7szAGN8twHoDuS+r5VmK/qAXk8Iv5Q8RBM8Uya+wB2knDdi5hCcfxbEyLA6eNZjIy1Lazwv8lM0iLA3AS/TDjtM7s33yDyZ6Zx4pinVU6hist2mE/OoA07uKQ0qcDNw==;Oxqe/cIEhiLxi7CKJ2mcbw=="
 ---
 

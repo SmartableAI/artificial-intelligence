@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-29-the-next-generation-of-artificial-intelligence-part-2.md",
+      "title": "The Next Generation Of Artificial Intelligence (Part 2)",
+      "excerpt": "Like artificial intelligence more broadly ... albeit with further innovations to today’s neural networks. “Some people think we need to invent something completely new to face these challenges, and maybe go back to classical AI to deal with things ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9a2608695ad7ade6fce902%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D0%26cropY2%3D697",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/amp/",
+      "publishedDateTime": "2020-10-29T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-say-hello-to-otis-a-game-changing-ai-powered-machine-learning-digital-marketing-assistant.md",
       "title": "Say Hello to Otis, A Game-Changing AI Powered & Machine Learning Digital Marketing Assistant",
       "excerpt": "Every now and then a dope technology comes around that shakes the whole game to its core. This is that moment. Meet Otis. Designed for entrepreneurs and business owners who are passionate about",
@@ -149,7 +202,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -684,19 +737,19 @@
     {
       "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
       "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status.",
+      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3",
+      "webUrl": "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg",
+          "width": 1200,
+          "height": 627,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -706,11 +759,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T00:30:00-07:00",
+      "publishedDateTime": "2020-10-22T00:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1429,49 +1482,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-nxp-announces-expansion-of-its-scalable-machine-learning-portfolio-and-capabilities.md",
-      "title": "NXP Announces Expansion of its Scalable Machine Learning Portfolio and Capabilities",
-      "excerpt": "Zone Technologies to expand eIQ™ Machine Learning development environment ; NXP is the lead technology partner for Arm Ethos-U65 microNP",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-environment-and-nature-products-and-services-6f4e200e99d899de383bcce5d6463cf6",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-environment-and-nature-products-and-services-6f4e200e99d899de383bcce5d6463cf6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
