@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Here's Why Apple Paid $50 Million for an AI Video Startup"
-    excerpt: "Apple (NASDAQ:AAPL) has acquired Vilynx, a company focused on using computer vision and artificial intelligence to analyze a video's audio, visual, and related text elements to un"
-    publishedDateTime: 2020-10-28T10:25:00Z
-    webUrl: "https://www.fool.com/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
+  - title: "Apple Buys Self-Learning AI Video Company to Improve Apps"
+    excerpt: "Apple Inc. acquired a startup specializing in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services."
+    publishedDateTime: 2020-10-27T19:22:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 87
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596947%2Fa-circuit-board-with-a-chip-labeled-ai-at-the-center.jpg&w=1200&op=resize"
-        width: 1200
-        height: 900
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3ljJ6nNqEA8/v1/360x-1.jpg"
+        width: 360
+        height: 240
         isCached: true
   - title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
     excerpt: "Apple's purchase of Barcelona-based Vilynx follows its spree of AI acquisitions earlier this year as the company looks to expand its footprint."
@@ -56,21 +56,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Apple buys computer vision startup Vilynx for $50 million"
-    excerpt: "Earlier in 2020, Apple reportedly purchased Barcelona startup Vilynx that specialized in artificial intelligence, machine learning, and computer vision. Citing sources familiar with the matter ..."
-    publishedDateTime: 2020-10-27T20:01:00Z
-    webUrl: "https://appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million"
-    ampWebUrl: "https://appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/10/27/apple-buys-computer-vision-startup-vilynx-for-50-million/amp/"
+  - title: "Apple Acquires AI Startup Vilynx to Improve Siri"
+    excerpt: "Apple earlier this year acquired artificial intelligence startup Vilynx with the aim of improving the Siri voice assistant built into Apple"
+    publishedDateTime: 2020-10-27T19:45:00Z
+    webUrl: "https://www.macrumors.com/2020/10/27/apple-acquires-ai-startup-vilynx-to-improve-siri/"
+    ampWebUrl: "https://www.macrumors.com/2020/10/27/apple-acquires-ai-startup-vilynx-to-improve-siri/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/10/27/apple-acquires-ai-startup-vilynx-to-improve-siri/amp/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
+      name: MacRumors
+      domain: macrumors.com
+    quality: 57
     images:
-      - url: "https://photos5.appleinsider.com/gallery/38496-73173-18mOPktnUsnga0uOsSudKuw-xl.jpg"
-        width: 1200
-        height: 671
+      - url: "https://images.macrumors.com/t/Vo_9MuNG9fMJkv1kmMbF-1QiWug=/1600x/https://images.macrumors.com/article-new/2020/10/vilynxacquisition.jpg"
+        width: 1600
+        height: 1192
         isCached: true
   - title: "Apple Snaps Up AI Video Startup For $50M To Enhance Apps – Report"
     excerpt: "Apple has bought Barcelona-based startup Vilynx Inc, which specializes in advanced artificial intelligence technology, for $50 million in a move to help"
@@ -116,20 +116,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Apple reportedly acquires AI and vision startup Vilynx for $50M"
-    excerpt: "Apple Inc. is said to have acquired artificial intelligence and vision startup Vilynx Inc. earlier ... Vilynx offered a “powerful AI Brain” that was designed to connect people with content ..."
-    publishedDateTime: 2020-10-28T01:54:00Z
-    webUrl: "https://siliconangle.com/2020/10/27/apple-reportedly-acquires-ai-vision-startup-vilynx-50m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/vilynx.png"
-        width: 715
-        height: 341
-        isCached: true
   - title: "Apple Inc. acquires a video AI start-up for USD 50 million to improve Siri & other applications"
     excerpt: "Apple has acquired a Video-based Artificial Intelligence Start-up that goes by the name of Vilynx. The deal was worth $50 million. Learn more"
     publishedDateTime: 2020-10-29T13:34:00Z
@@ -144,15 +130,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Apple roundup: Privacy change hit with French antitrust complaint; acquires video analyzing AI startup"
-    excerpt: "In other Apple news, Bloomberg sources say the company acquired advanced AI and computer vision startup Vilynx for about $50M earlier this year. Vilynx's tech uses AI to understand a video's ..."
-    publishedDateTime: 2020-10-28T14:32:00Z
-    webUrl: "https://seekingalpha.com/news/3627293-apple-roundup-privacy-change-hit-french-antitrust-complaint-acquires-video-analyzing-ai"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 1
 
 secured: "6Q9hLq5IjbXiqWHeH+KwCvVSMmQewTFjHKZDn1YbzrHNZJJuN/K2MvJiWDGBCr5z8dK42ly+d9bw/kYd88RfFf2TwgnzMy+olMw+SpWmcpogK5NfjrebMO/88ZnMlyyLMWJWvWRKzSaH7NmMT8ge8UYQSshXg+5rK+J23LXQYmgEmc14p4jR3K0Z7M469v1k9nfjLWQ1yzYZZlB5irEraDpkheaxb6DIC3H6a2qDgYGLxz5W77dSKQPI00v9/Gar6pCDf6QUtuU65Hr8BzSkrLkiLdb4bXII5xjIQDxhI4ukK9MUJGTffdzUdMQEy0PWRzhPLdB6osQcuijofRdbP8lqCqUEo/ChQHTcLNgfth8=;VLsAn0GdJwuqbueeW0GGeA=="
 ---

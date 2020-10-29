@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recogn
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: openpr.com
@@ -27,23 +27,30 @@ images:
     isCached: true
 
 related:
-  - title: "Face recognition tech to mark MCC workers’ attendance"
-    excerpt: "Mysuru: In a first-of-its-kind move in the state, Mysuru City Corporation (MCC) will introduce attendance system based on face-recognition technology ."
-    publishedDateTime: 2020-10-24T22:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/mysuru/face-recognition-tech-to-mark-mcc-workers-attendance/articleshow/78850636.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/mysuru/face-recognition-tech-to-mark-mcc-workers-attendance/amp_articleshow/78850636.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/mysuru/face-recognition-tech-to-mark-mcc-workers-attendance/amp_articleshow/78850636.cms"
+  - title: "Speech Recognition Market Size is Projected to Reach USD 29.28 Billion by 2026 | Valuates Reports"
+    excerpt: "Speech Recognition Market by Deployment Mode (On Cloud, On Premise), By End Use (Automotive, Consumer Electronics, Healthcare,"
+    publishedDateTime: 2020-10-27T13:40:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-839949080.html"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
     images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
         isCached: true
+  - title: "Hangzhou may ban mandatory collection of facial recognition scans in residential communities, marking China’s first"
+    excerpt: "A visitor tries facial recognition payment in a smart store in Wuzhen Town of Tongxiang, east China's Zhejiang Province, Nov. 6, 2018. (Xinhua/Huang Zongzhi) The East China city of Hangzhou may ban property management companies from requiring residents to ..."
+    publishedDateTime: 2020-10-28T16:26:00Z
+    webUrl: "https://www.globaltimes.cn/content/1204981.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 0
 
-secured: "BQ8ty+T2Pplm8PpWW6c5mS401z9ZtaXtdmw+ulhHtIZNsW6q4R7figxxoyVwX0RhRbNn6aNzLDu9hXEw3Vae76K0yAXkzNBbyMJm5N2DOPcPiKTEMHC2IUeq+aRrYYDuBZyBdIYG1V6EpCNN2cRXpVBgVO2j9gUVYA1dj0oDCz1Ege4Aatkrvr4Llo7z4D+w+P6VQxEi7BYN3ByoUJELcuqbp/Ct1vQ2G02eFXJtXuESuMFPxFMPwrx84TWyrYW6mP9isWLlKue1mJfAPby+wSpeN+SZahWYt0uHNQ1CFT1svIMglMQ2H53oMoNVb5bKIolRmmrHewhQ0HhSQch4bQbE2WptTMopP+VcGV93ghs=;SjSwTANWm58wC72RasM7+Q=="
+secured: "SjXKewI/uwVQIeqju0L+q8FCem8aa+jp0MN9vOzx6sZdSLA4OlOYSwCi4S+5xjjqG+okoYYQiDLLvYLUjWY1tVny2/Jut2ms3ujkGiw9AmeQy2KtYIafmFlSb2bUmWOHO1OTLSK0hqtqXPiwQHI8IH+tuYampP9TDpkcpXmUUd9+mmEP91pH5PDhkyGNAuspkPTIj63NYA7sW0fRmJQvamGG2tFEP7XbCCbZCR1k9hNkSmRIbDTWTbOS2S/7TI5t7ITQxCxgpA1GtLj917MuTFwDmoi7rdyr8nrrHu54N+eJwikfHdhjhxz9pYZxMPWPxJlNOi7TKEUutCEiis57/pW06YoY/t8rnw7fURR2MvHCiY66QYPlM+uMSLGMVvcjyJO54cw1Mc9qwU37Eu1CcngwYEShppsWqgepBVmTp8sDsf8Fl9aOFRCDwfuWGf8QZFm3nrceETV9RcsPjnF+7Rw7iWharLHYokXLqOvyU1gCzwOMzAcXwhpIxx+IWbdmlIerPoW1g8FhydGPleWS9w==;hp0u2MIH87aA1VmBuzfRMg=="
 ---
 

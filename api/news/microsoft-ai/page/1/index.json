@@ -53,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -749,6 +749,49 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-udacity-microsoft-launch-nanodegree-programme-to-skill-students.md",
+      "title": "Udacity, Microsoft launch 'Nanodegree' programme to skill students",
+      "excerpt": "The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learning (ML ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-udacity-microsoft-launch-nanodegree-programme-to-skill-students-657232",
+      "originalUrl": "https://www.indiatvnews.com/technology/news-udacity-microsoft-launch-nanodegree-programme-to-skill-students-657232",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/microsoft-1602776417.jpg",
+          "width": 1199,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-udacity-microsoft-launch-nanodegree-programme-to-skill-students-657232",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-udacity-microsoft-launch-nanodegree-programme-to-skill-students-657232",
+      "publishedDateTime": "2020-10-15T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1441,49 +1484,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-microsoft-azure-synapse-raises-the-data-management-bar.md",
-      "title": "Microsoft Azure Synapse Raises the Data Management Bar",
-      "excerpt": "First some basics on what Azure Synapse is. Azure Synapse is an analytics service that brings enterprise data into analytics and machine learning. Formerly known as Azure SQL Data Warehouse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/882e9d6b9f3c4eb082dd739d9a12cceb.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/",
-      "publishedDateTime": "2020-10-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Building a real-time conversational analytics platform for Amazon Lex bots"
+    excerpt: "Conversational interfaces like chatbots have become an important channel for brands to communicate with their customers, partners, and employees. They offer faster service, 24/7 availability, and lower service costs. By analyzing your bot’s customer conversations, you can discover challenges in user"
+    publishedDateTime: 2020-10-29T15:36:36Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-real-time-conversational-analytics-platform-for-amazon-lex-bots/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/22/4-DashBoard.jpg"
+        width: 900
+        height: 491
+        isCached: true
   - title: "What the Geospatial Industry is Learning About HPC, AI, and Cloud"
     excerpt: "When it comes to traditional HPC, it has taken a bit longer for cloud and AI to catch on. This is no surprise given the strict performance requirements"
     publishedDateTime: 2020-10-26T15:39:00Z

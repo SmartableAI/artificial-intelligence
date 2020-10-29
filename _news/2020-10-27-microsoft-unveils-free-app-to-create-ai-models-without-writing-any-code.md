@@ -217,6 +217,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "Microsoft’s Intriguing Partnership With Tom Siebel’s C3 AI"
+    excerpt: "I’m publishing this series to discuss a topic that I follow closely - cloud stocks, trends, strategy, acquisitions, and more. Please subscribe to my Cloud Stock Analysis series and never miss an article."
+    publishedDateTime: 2020-10-29T15:27:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsofts-intriguing-partnership-tom-siebels-c3-ai-sramana-mitra"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEk3c2TKNcTpA/article-cover_image-shrink_600_2000/0?e=1609372800&v=beta&t=7VyRNuBZBXsYjrH0kpMP0xfLa6Uy3l71gBnfVVW_xiA"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Microsoft’s Turing Language Model Can Now Interpret 94 Languages"
     excerpt: "Microsoft detailed the Turing multilingual language model (T-ULRv2) and announced that the AI model has achieved the top rank at the Google XTREME public leaderboard."
     publishedDateTime: 2020-10-26T08:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
 type: article
 quality: 86
-heat: 206
+heat: 226
 published: true
 
 provider:
@@ -94,6 +94,38 @@ related:
       - url: "https://media.whas11.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Tesla to begin rollout of self-driving beta"
+    excerpt: "Experience the best self-driving car tech with Tesla. Although, the beta version update is only for customers in Early Access Program, everyone will be benefited with high-tech by the end of 2020."
+    publishedDateTime: 2020-10-29T14:12:00Z
+    webUrl: "https://www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/"
+    ampWebUrl: "https://www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/amp/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 59
+    images:
+      - url: "https://www.technowize.com/wp-content/uploads/2020/10/Tesla-beta-image.png"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Tesla’s Full Self-Driving $2k price increase takes effect"
+    excerpt: "Driving suite has increased in price by $2,000 from $8,000 to $10,000, as CEO Elon Musk announced last week. Musk announced the price increase last week on the heels of the FSD Beta release on October 20th,"
+    publishedDateTime: 2020-10-29T15:17:00Z
+    webUrl: "https://www.teslarati.com/tesla-full-self-driving-price-2020-10k/"
+    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-price-2020-10k/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-price-2020-10k/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 59
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2020/10/tesla-full-self-driving-neural-network-1024x501.jpg"
+        width: 1024
+        height: 501
         isCached: true
   - title: "Consumer Reports Finds GM’s Self-Driving Tech Superior to Tesla’s Autopilot"
     excerpt: "Tesla’s Autopilot may be stealing more headlines as of late, but according to new findings from Consumer Reports, GM’s version is leagues ahead. Consumer advocate publication Consumer Reports recently conducted a test featuring a lineup of 17 vehicles with active driving assistance systems,"

@@ -228,6 +228,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "Microsoft’s Intriguing Partnership With Tom Siebel’s C3 AI"
+    excerpt: "I’m publishing this series to discuss a topic that I follow closely - cloud stocks, trends, strategy, acquisitions, and more. Please subscribe to my Cloud Stock Analysis series and never miss an article."
+    publishedDateTime: 2020-10-29T15:27:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsofts-intriguing-partnership-tom-siebels-c3-ai-sramana-mitra"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEk3c2TKNcTpA/article-cover_image-shrink_600_2000/0?e=1609372800&v=beta&t=7VyRNuBZBXsYjrH0kpMP0xfLa6Uy3l71gBnfVVW_xiA"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "UcPJ1NWpaNIdmxAv4Z/k9F+axzGfpV85SLr5bmbl+9j1aXp5FaLQ69g6nfqCS61BKjVxnyvaBkF7QnwvVU124M4j/qApQXtYTUjZCnSzXX3OV0dhosBly74Kemq8WAIoW0el22s6NNztlnh0j/l6f8t9hJeSPNi+nyVBLIMVW8f9XxkbE/8oAMFREPwdbACyshzG8H6cnsBJsMz0xwoGq4o4h62DY0G1ttwu1ysOaGrHNd4VyeTCdG4B/jjTCPJr71HGd6JniSSPpMT+HUkw41i9fR4lO+GGt7Lm9TqW73apB6lc3qwcIHINpgOlP3xclkrsXK1qFXn9FjOOLxYvidH/fUYfyMaWMRAT/bHubA50cM9HmVq9qz/UurLE1riZyh7ZdnO7d3VTLVkKQCp7zW6yoP340HH1Ko9qzYmXVI2641hzZpO7kDDMDYOiUytoGos3Lt4YlZrz4Gd4s4CXo70IN7ZEoKy8bb/0Ax4Q8/PXHEaMU6uVlWijUhZSo0jeDy6uhCEC75uA0ahnpe1Ymg==;k7MQKP2EI/C1cEMPfgF1VA=="
 ---

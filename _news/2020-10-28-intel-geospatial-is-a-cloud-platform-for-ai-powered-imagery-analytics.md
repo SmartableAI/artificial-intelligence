@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Building a real-time conversational analytics platform for Amazon Lex bots"
+    excerpt: "Conversational interfaces like chatbots have become an important channel for brands to communicate with their customers, partners, and employees. They offer faster service, 24/7 availability, and lower service costs. By analyzing your bot’s customer conversations, you can discover challenges in user"
+    publishedDateTime: 2020-10-29T15:36:36Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-real-time-conversational-analytics-platform-for-amazon-lex-bots/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/22/4-DashBoard.jpg"
+        width: 900
+        height: 491
+        isCached: true
   - title: "Artificial Intelligence Is Used To Understand The Geospatial World To Improve Business And Governmental Performance"
     excerpt: "Geospatial image capture started off small, but has now grown to a massive scale. The addition of AI both improves computer vision and downstream analysis. This is another are where the world around us is being enhanced by artificial intelligence."
     publishedDateTime: 2020-10-26T17:35:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-29-intel-acquires-ai-software-optimization-platform-sigopt.md",
+      "title": "Intel acquires AI software optimization platform SigOpt",
+      "excerpt": "Intel today announced it will acquire SigOpt, a San Francisco-based startup developing a platform to optimize AI software models ... at BlackBerry developer Research in Motion, FourSquare ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/",
+      "originalUrl": "https://venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/amp/",
+      "publishedDateTime": "2020-10-29T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-institutional-bias-and-lower-acceptance-rates-for-women-inside-the-ai-conference-review-process.md",
       "title": "Institutional bias and lower acceptance rates for women: Inside the AI conference review process",
       "excerpt": "Interestingly, their research did not find a significant bias toward large tech companies such as Google, Facebook, and Microsoft, which house reputable AI researchers. At first glance ...",

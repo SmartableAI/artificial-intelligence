@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/exploring-ai-radiotherapy-plan
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://www.postbulletin.com/incoming/6471342-8dy0po-Mayo-Clinic-logo/alternates/BASE_LANDSCAPE/Mayo%20Clinic%20logo"
         width: 1140
         height: 712
+        isCached: true
+  - title: "Mayo Clinic, Google to Create Artificial Intelligence for Cancer Care"
+    excerpt: "The research partnership will aim to develop artificial intelligence tools to improve the efficiency of radiotherapy and cancer care."
+    publishedDateTime: 2020-10-29T14:43:00Z
+    webUrl: "https://healthitanalytics.com/news/mayo-clinic-google-to-create-artificial-intelligence-for-cancer-care"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1127125431.jpeg"
+        width: 700
+        height: 431
         isCached: true
   - title: "NOAA exploring artificial intelligence pilots with Google Cloud"
     excerpt: "The National Oceanic and Atmospheric Administration plans to improve weather forecasting by more effectively using satellite and environmental data in a series of pilots with Google Cloud. Google entered into a three-year other transaction authority (OTA) agreement with the National Environmental Satellite,"

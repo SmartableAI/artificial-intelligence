@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-19-googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast.md",
+      "title": "Google's $100 Linux Coral Dev Board mini quietly launches – but sells out fast",
+      "excerpt": "Google's Coral Dev Board mini briefly goes on sale before selling out but Google still says the board is coming soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
+      "originalUrl": "https://www.zdnet.com/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/33ed63ff-17eb-4bee-b177-c9bf59502a0e/coraldevboardminia.jpg",
+          "width": 1029,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
+      "publishedDateTime": "2020-10-19T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-nxp-announces-expansion-of-its-scalable-machine-learning-portfolio-and-capabilities.md",
       "title": "NXP Announces Expansion of its Scalable Machine Learning Portfolio and Capabilities",
       "excerpt": "Zone Technologies to expand eIQ™ Machine Learning development environment ; NXP is the lead technology partner for Arm Ethos-U65 microNP",
@@ -1063,7 +1115,7 @@
     {
       "path": "_news/2020-10-14-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
       "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
-      "excerpt": "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering ...",
+      "excerpt": "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment.",
       "sourceUrl": null,
       "webUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
       "originalUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
@@ -1099,9 +1151,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1263,49 +1314,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-ai-and-deep-learning-can-analyze-rash-selfies-for-better-lyme-disease-detection.md",
-      "title": "AI and deep learning can analyze 'rash selfies' for better Lyme disease detection",
-      "excerpt": "Johns Hopkins Medicine and Johns Hopkins Applied Research Laboratory (APL) researchers have shown that cell phone images of rashes taken by patients can be evaluated using artificial intelligence (AI) and deep learning (DL) technologies to more accurately detect and identify the erythema migrans (EM) skin redness associated with acute Lyme disease.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-10-ai-deep-rash-selfies-lyme.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-10-ai-deep-rash-selfies-lyme.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/aianddeeplea.jpg",
-          "width": 801,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-10-ai-deep-rash-selfies-lyme.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-ai-deep-rash-selfies-lyme.amp",
-      "publishedDateTime": "2020-10-14T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

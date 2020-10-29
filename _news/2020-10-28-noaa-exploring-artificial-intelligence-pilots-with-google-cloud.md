@@ -79,6 +79,20 @@ related:
         width: 1140
         height: 712
         isCached: true
+  - title: "Mayo Clinic, Google to Create Artificial Intelligence for Cancer Care"
+    excerpt: "The research partnership will aim to develop artificial intelligence tools to improve the efficiency of radiotherapy and cancer care."
+    publishedDateTime: 2020-10-29T14:43:00Z
+    webUrl: "https://healthitanalytics.com/news/mayo-clinic-google-to-create-artificial-intelligence-for-cancer-care"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1127125431.jpeg"
+        width: 700
+        height: 431
+        isCached: true
   - title: "Mayo, Google want to speed radiation therapy planning with AI"
     excerpt: "Mayo Clinic and Google Health on Wednesday launched a joint research project to study whether artificial intelligence can automate aspects of radiation therapy planning. Radiation therapy is common cancer treatment that involves using X-ray, proton or ..."
     publishedDateTime: 2020-10-28T16:39:00Z

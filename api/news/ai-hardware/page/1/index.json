@@ -360,6 +360,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-23-flex-logix-announces-working-silicon-of-ai-edge-inference-chip.md",
+      "title": "Flex Logix Announces Working Silicon of AI Edge Inference Chip",
+      "excerpt": "InferX X1 offers ideal performance of neural network models such as object detection and recognition, and other neural network models, for robotics, industrial automation, medical imaging, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded-computing.com/news/flex-logix-announces-working-silicon-of-ai-edge-inference-chip",
+      "originalUrl": "https://www.embedded-computing.com/news/flex-logix-announces-working-silicon-of-ai-edge-inference-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.formstack.com%2Fuploads%2F3411018%2F76219803%2F678670875%2F76219803_siz240dt_pr16167991-2003_300dpi_logo.jpg&size=1&version=1603405160&sig=ec028f986191b1daa82cf86e3ce0130c&default=hubs%2Ftilebg-blogs.jpg",
+          "width": 500,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-telesense-raises-102-million-to-monitor-crops-with-ai-and-sensors.md",
       "title": "TeleSense raises $10.2 million to monitor crops with AI and sensors",
       "excerpt": "TeleSense, a startup developing AI-powered software and sensors for predicting the quality of crops in storage and transit, has raised $10.2 million. The company says the proceeds will be put ...",
@@ -1424,49 +1467,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-imagination-technologies-takes-aim-at-data-centers-with-new-chip-designs.md",
-      "title": "Imagination Technologies takes aim at data centers with new chip designs",
-      "excerpt": "Imagination Technologies on Tuesday released new chip technology that it hopes will help it expand into the market for data center chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2",
-      "originalUrl": "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2H31H2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2H31H2",
-      "publishedDateTime": "2020-10-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

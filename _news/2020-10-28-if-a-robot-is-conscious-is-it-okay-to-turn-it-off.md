@@ -59,6 +59,20 @@ related:
         width: 1408
         height: 792
         isCached: true
+  - title: "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs"
+    excerpt: "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing."
+    publishedDateTime: 2020-10-29T14:28:00Z
+    webUrl: "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 43
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/6ohFLYheDXySc0pdYKJcrL/43ee6a352bbfc134a12bb1a8cd95cf07/times-arrow-part-i-hd-0301.jpg?w=650&h=433&fit=fill"
+        width: 650
+        height: 433
+        isCached: true
   - title: "If a robot is conscious, is it OK to turn it off? The moral..."
     excerpt: "As real artificial intelligence technology advances toward Hollywood’s ... Arguably no machine has yet demonstrated that kind of intelligence. This summer, a startup called OPENAI released a new version of its Generative Pre-Training language model."
     publishedDateTime: 2020-10-27T13:11:00Z
