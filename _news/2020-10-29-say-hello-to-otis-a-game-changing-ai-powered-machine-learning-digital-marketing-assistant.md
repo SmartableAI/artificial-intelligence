@@ -7,7 +7,7 @@ originalUrl: "https://stupiddope.com/2020/10/28/otis-ai-powered-digital-marketin
 webUrl: "https://stupiddope.com/2020/10/28/otis-ai-powered-digital-marketing-assistant/"
 type: article
 quality: 60
-heat: 70
+heat: 71
 published: true
 
 provider:

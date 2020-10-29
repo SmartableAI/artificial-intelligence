@@ -1,13 +1,13 @@
 ---
 category: news
 title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
-publishedDateTime: 2020-10-28T04:25:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
+excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
+publishedDateTime: 2020-10-28T05:40:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
 type: article
-quality: 69
-heat: 99
+quality: 71
+heat: 111
 published: true
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
+  - AI in Autos
   - AI
   - AI in Robotics
 
@@ -39,6 +40,20 @@ related:
         width: 878
         height: 500
         isCached: true
+  - title: "The Future of AI, Ethics, and Defense"
+    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
+    publishedDateTime: 2020-10-26T16:25:00Z
+    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
+    type: article
+    provider:
+      name: German Marshall Fund
+      domain: gmfus.org
+    quality: 54
+    images:
+      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
+        width: 1400
+        height: 600
+        isCached: true
   - title: "7 AI Stocks to Buy as Automation Advances"
     excerpt: "By the time talks start to center around AI stocks ... In present times, also consider Amazon’s use of AI and robotics within its warehouses. These little robots never tire, rarely stop and ..."
     publishedDateTime: 2020-10-28T19:21:00Z
@@ -49,20 +64,20 @@ related:
       domain: businessinsider.com
     quality: 53
   - title: "Startup Robust.AI, Founded By Cognitive Scientist Gary Marcus And Roboticist Rodney Brooks, Raises $15 Million To Make Building Smarter Robots Easier"
-    excerpt: "Robust.AI raised $15 million led by Jazz Ventures to build a cognitive engine for robotics. The goal: To allow people to build robots faster, cheaper and with more reliability."
-    publishedDateTime: 2020-10-28T15:08:00Z
-    webUrl: "https://www.forbes.com/sites/amyfeldman/2020/10/28/startup-robustai-founded-by-cognitive-scientist-gary-marcus-and-roboticist-rodney-brooks-raises-15-million-to-make-building-smarter-robots-easier/"
+    excerpt: "Robust.AI raised $15 million led by Jazz Ventures to build a cognitive engine for robotics. The goal: To allow people to build robots faster, cheaper and"
+    publishedDateTime: 2020-10-28T15:06:00Z
+    webUrl: "https://www.newsoneplace.com/35211081911/ai-startup-robust"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 15
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934290cb19cefacf98fd1b%2F0x0.jpg%3FcropX1%3D20%26cropX2%3D3264%26cropY1%3D338%26cropY2%3D2162"
-        width: 1200
-        height: 675
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f934290cb19cefacf98fd1b/0x0.jpg?cropX1=20&cropX2=3264&cropY1=338&cropY2=2162"
+        width: 3264
+        height: 2448
         isCached: true
 
-secured: "fP9SwU9FlbCBPjWpuMrx5ntOXEL/VCJFaUGAc0KVXfYTZlyPmuJYlsy7Mft/8DtPIrososkaWpfXbMOfh0VXXV2RoEX+KGnqcy7OO8NOeL1vqBIjKl6VJ9Bf6Otb7cGOMVPwsm68Ve9AzOplDeqhLLvOH05H+l0PuWFxS0XylULMm//rKUnbmll00q6IWuCAHKEnejJcFw+kKHyTo29lCfGpQqTtZDF6oVan+Ec71oT3jqVgcwDVdAWgPFgf0Z2TkUeiYJ3AiKdPzoQbJ4c391utZj6nhksViP/G/pogotSDh+JXntd+XNV9lHjf3lij9shj5WY7dh6QBzWO3ZZQYWyEEqRMpQZjtGagF+a3hBs=;wiHaWrPCfQQJxszNz9B84g=="
+secured: "2CCvao7F1AdwiwQ/aIwOf/wuBLtbCyytEpWO5L0MgpDmRLhw4dzXU1sezXwH/w7tJIlij3x7Kesz1eBm3HI2mosI0WXd6NQy+w845SXoDj8FuO2mGDqivCMnngtPUeIN7tYx1D1l+/QoeyJkKaVY3Cz5ktUzj9Yd1NW7FZYPl+vuDOv3GaJd4NHHCDt/UPAEsJWhmEa4dcAwuHwRvHtQBBHTX7Hwwe4cVDYHOkgW64F73WUx7HHq8Rg03p/oT3WJv/8QsBdKSZihRGrEFcvNFHeGmNJkW3gcIhE4Joz5WT10XzfYlSZVdyQHX7d6ap0IwacyqqzHuUe0sB7Zu2PLTx2yYrYm3hVPM/MVjVdrXIw=;nl+zAF8ZaOcddAqAY7gcLg=="
 ---
 

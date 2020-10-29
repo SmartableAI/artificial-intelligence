@@ -73,17 +73,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and drivers still have to supervise it."
-    publishedDateTime: 2020-10-24T08:28:00Z
-    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-vehicles-cant-drive-themselves-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "Should You Spend $10,000 On Tesla’s Full Self-Driving System?"
     excerpt: "Tesla CEO Elon Musk recently announced the automaker is increasing the price of their Full Self-Driving system by $2,000. That’s a significant jump and brings the system’s price to $10,000. Which begs the question of whether or not it’s worth it."
     publishedDateTime: 2020-10-24T16:45:00Z

@@ -2,7 +2,7 @@
 category: news
 title: "Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19"
 excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net New York, Oct. 08, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Computer Vision Market ..."
-publishedDateTime: 2020-10-08T22:38:04Z
+publishedDateTime: 2020-10-08T22:38:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022"
 webUrl: "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022"
 type: article
@@ -19,6 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "Mdow5f/FIEPYb2XiDHKCl4Dsv2emcuZWUEeeZdOBeSzb0JK6u5lN91zTvVSaa8uYy3zUbSoTveRrVRljzFwjyta4FlF8+ni4kJRJIUILlyNu8oIOV8VZXbR5O0cZ1PCz8GhONjCC+YudbGNdkXNR1VK/X6LJQ/hj9sT0wjOCKgSNNzW13YldUq9IZUoqpCtVaeWTiAm6OCbbqv/CfSvDh1eKMDCh4D/UA9vwr7vXQSsuEYBtuEg4eu6gEwiiZYvVKY48lrGJAsVZdg3eA6YaNEph3asDhsAqVHIZNN58dHyST/rI+v19Cz1dKW4A94iAs/q0RGzSP7EM7zk/b7tDr4C4NNp7ZCZRpx/gygtGeMo=;A+dYK/dBm9rOeNgs9Xq9bg=="
+secured: "h6p+rfcGPEXeZr1oTIX5W7Y4LCWIFDkxeZM6f2qldJtkT6SSg0tq3LqEXJ/jccNxX3FLH32TDFSrHPxYPuUjiAhJ2qrWcjlqprwL1HRBePDTYRJ/ep4i45+FifcTriiAsr4AlrTJtjcIND4StjHjYK7iRwN5jaDNpEF6TV2Iz9w/HxVO/ZdM5pxCsvVHI1GrVnZUAzXgKWI0xiODy3Ym+g27NRxvv1KB8gymel9lws1sovSPkJUjG3R7t9r62HfA6QUyZxrJCNEMq0r/7vRn0Lc+YnsA+PcsQ40ayLi6mKEdRIuvQP29TSTqzx6Hp73z1CbxdNLblGDSWH7lFNwpG502Ks0412gAW4thv/xdlrI=;78tRjdP62DMG6GKNiELUDA=="
 ---
 

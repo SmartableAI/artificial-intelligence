@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-25-want-to-invest-in-self-driving-cars-these-are-the-2-stocks-youll-want-to-own.md",
+      "title": "Want to Invest in Self-Driving Cars? These Are the 2 Stocks You'll Want to Own",
+      "excerpt": "While many companies are working on autonomous vehicles, only a couple are ready to let theirs hit the road in the real world without human backup drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/fc490c290584e81b2214cc869c7d78ba.png",
+          "width": 720,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
+      "publishedDateTime": "2020-10-25T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-the-ai-lords-of-sports-how-the-sportstech-is-changing-business-world.md",
       "title": "The AI Lords Of Sports: How The SportsTech Is Changing Business World",
       "excerpt": "Next time you watch a sports game, consider that virtually every component of it has been digitized with emerging technology. Even more incredible, sports have become the pioneers in analytics and AI that now drive change in the business world.",
@@ -92,49 +144,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-can-ai-and-robotics-disrupt-the-defence-industry.md",
-      "title": "Can AI and Robotics Disrupt the Defence Industry?",
-      "excerpt": "The defence industry has acquired high-profile robotics, built partnerships with companies investing more in startups. Some defence contractors embrace AI and robotics companies as crucial subcontractors to bridge between DoD and Silicon Valley.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/can-ai-and-robotics-disrupt-the-defence-industry/",
-      "originalUrl": "https://www.analyticsinsight.net/can-ai-and-robotics-disrupt-the-defence-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/AI-in-Defense.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-24T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },

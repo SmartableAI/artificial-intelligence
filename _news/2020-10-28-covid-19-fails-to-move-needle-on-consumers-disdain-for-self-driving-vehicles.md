@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/amp/"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f97ad8cec4cb02b07e88acc%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
-    publishedDateTime: 2020-10-27T14:29:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 59
-    images:
-      - url: "https://media.whas11.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Machine learning helps hunt for COVID-19 therapies"
     excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."

@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-27T15:38:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/lytx-launches-groundbreaking-new-ai-powered-features-to-help-protect-driver-privacy-and-empower-real-time-self-correction-1029726879"
 webUrl: "https://markets.businessinsider.com/news/stocks/lytx-launches-groundbreaking-new-ai-powered-features-to-help-protect-driver-privacy-and-empower-real-time-self-correction-1029726879"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mma.prnewswire.com/media/1320247/Driver_Empowerment.jpg"

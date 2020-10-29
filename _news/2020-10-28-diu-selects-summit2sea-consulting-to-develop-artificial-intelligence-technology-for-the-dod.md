@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-28T14:24:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
 webUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
 type: article
-quality: 61
-heat: 61
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI in Robotics
-  - AWS AI
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg"
@@ -29,6 +28,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Q5VWeM2bYn8p1SdNrbMNSMkF+f33CLhpHPCKePziT9683BDm8K7nhAKIFobPlB+hkdUvDP61ud0ff9T6D1kK0Fk6cSYPqp3G29EcMC1lN31Ix3lCJqDKj7jjfRKiaJpC1YDSSzdgIWaD6LqhWWezHroxt1OWTE8AsDslBwaIi4zggNIyOeUFMyA2XKjI0559eSOqvvddbkLBvVvDlcOIBOlmdEHIPz0Hk5GIlLcjD+IL+WQ1VVojddMnOJ/W+xQFrslOdXNu8bCpAimQU/pVnE9R7Hd/15c8nl5PbABIKzfoLkvTim2OzOMZCmXKiNoLQIngdaFSpLZzHaWF9ZVcL/LeSC6YgzL20+3QD3xzjlk=;09+JhtccF0MttFIkhaHsGg=="
+secured: "RFweNZmc6cpAfjrrrrxRXxPWGzmjvlPNYYc7/4RubmceQ2qc2LL7SlPziA2b/sQ2mPAiUDbHG9xXCsJSwgenDrIlA1BXh/BlHHq57SirQchrNUC1jJEEnI+m9Z0MfVGyXJOM0+Uahw0BPtMS8xrV0ghKM7qu4TVQXFbgaHNuHUX+DMtMbCMscsaVUWQj21RZfKs+b7Pby5/54d2SQrTX68kwooldjUfH5Bnr8AaJdw+LGl0geUXCGDvPXtElHsso/43fKQN+aG6xxzNfxCL3QgBRUEHemrMstVJPJOJeM4X6fsjpdDHwwEOEpodFERPGIswGeBRZHxQ6fIkwdu1bn1t95+6AT8Jz7Z++AGjcSuU=;ol3HVsPuI5aaw1mDIlPRBw=="
 ---
 

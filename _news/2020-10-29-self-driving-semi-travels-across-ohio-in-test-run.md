@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving shuttle takes on traffic"
-    excerpt: "MERRIFIELD, Va. -- The future of transportation arrived in northern Virginia, looking like a big blue toaster on wheels that seats six and drives itself through the region's notorious traffic. State and local officials debuted the Relay system Thursday, an ..."
-    publishedDateTime: 2020-10-24T08:08:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/oct/24/self-driving-shuttle-takes-on-traffic/?business"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2020/10/24/resized_150246-4d1shuttle1024rgb_47-31042_t600.JPG?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Survey Highlights Absence of Consumer Interest in BEVs, Self-Driving Technologies"
     excerpt: "However, many automakers are investing heavily in electrification and self-driving technology despite an absence of substantive consumer interest in either, according to the recently released J.D. Power 2020 Q3 Mobility Confidence Index Study fueled by SurveyMonkey."
     publishedDateTime: 2020-10-28T15:22:00Z

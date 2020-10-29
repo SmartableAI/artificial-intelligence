@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-preview-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/"
 type: article
 quality: 106
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 82
+  - title: "Inspired by Netflix original movie, Microsoft wants to teach you AI and Machine Learning"
+    excerpt: "Microsoft has come to terms with Netflix to teach learners concepts in data science, machine learning, and artificial intelligence (AI)."
+    publishedDateTime: 2020-10-29T01:09:00Z
+    webUrl: "https://news.thewindowsclub.com/inspired-by-netflix-original-movie-microsoft-wants-to-teach-you-ai-103867/"
+    ampWebUrl: "https://news.thewindowsclub.com/inspired-by-netflix-original-movie-microsoft-wants-to-teach-you-ai-103867/amp/"
+    cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/inspired-by-netflix-original-movie-microsoft-wants-to-teach-you-ai-103867/amp/"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 82
+    images:
+      - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/10/Over-the-Moon-Netflix-Microsoft.jpg"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Microsoft Unveils Lobe; Will this Make AI Mainstream?"
     excerpt: "Recent trends such as decentralized cloud computing, adaptation of GPU for general computing, increasing availability of big data sets, and advances in deep learning, a subset of AI machine learning, has spurred a modern-day AI gold rush. Global investment ..."
     publishedDateTime: 2020-10-26T00:00:00Z

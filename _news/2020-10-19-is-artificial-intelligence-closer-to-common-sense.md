@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://res.infoq.com/articles/AI-Closer-Common-Sense/en/headerimage/AI-Closer-Common-Sense-h-1602793884272.jpeg"

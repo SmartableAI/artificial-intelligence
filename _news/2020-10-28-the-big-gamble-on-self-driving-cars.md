@@ -85,22 +85,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Ford is doubling down on testing self-driving cars in Miami-Dade"
-    excerpt: "After landing in Miami-Dade in 2018 with a fleet of self-driving cars, Ford announced Monday that it plans to broaden its presence here as it explores the frontiers of autonomous vehicles. The Michigan-based automaker said it now plans to establish a ..."
-    publishedDateTime: 2020-10-27T11:01:00Z
-    webUrl: "https://www.miamiherald.com/news/business/article246728241.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/business/article246728241.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article246728241.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 44
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/d8c13d6b-7856-494e-9971-e37ddc10c652/c3add766-c8dc-42cf-9b32-f380f6083365/1280x720/match/image.jpg"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "Yes, you’re seeing more robot cars in San Francisco. Here’s why self-driving is picking up speed"
     excerpt: "Robot cars are revving up, but are still far from meeting predictions that self-driving vehicles would be mainstream by 2020. Cruise, Waymo and Lyft are among those doing extensive testing in San Francisco."
     publishedDateTime: 2020-10-24T17:22:00Z
@@ -129,17 +113,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "The chemistry behind self-driving cars"
-    excerpt: "Self-driving, electric cars have been touted as the next big thing in transportation. While this technology has progressed in recent years, experts caution that automakers will need the chemical industry to help make it a reality."
-    publishedDateTime: 2020-10-28T18:02:00Z
-    webUrl: "https://phys.org/news/2020-10-chemistry-self-driving-cars.html"
-    ampWebUrl: "https://phys.org/news/2020-10-chemistry-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-chemistry-self-driving-cars.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 24
   - title: "How Self-Driving Trucks would Show a New Direction to the Trucking Industry"
     excerpt: "Autonomous vehicles are no longer limited to mere theory. They are already becoming popular among people, and self-driving trucks are expected to make their way onto the roads in the years to come. A survey discovered that more than 50 percent of small ..."
     publishedDateTime: 2020-10-26T07:01:00Z

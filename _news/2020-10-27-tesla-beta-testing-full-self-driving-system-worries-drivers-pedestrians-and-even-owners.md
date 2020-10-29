@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla's Full Self-Driving beta is a reminder autonomous cars don't yet exist"
+    excerpt: "Driving beta running with drivers behind the wheel bring a moment of pause. The videos seen here show off what I'm sure are just a tiny sliver of incidents Tesla owners experienced since the technology starting rolling out to cars in beta form last week."
+    publishedDateTime: 2020-10-27T15:41:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Autopilot safety shows improvement as Full Self Driving fail videos rise"
     excerpt: "It's also important to note that this information is for Autopilot miles from the previous quarter, so this is not a reflection of Tesla's recently launched Full Self Driving beta rollout. There's an interesting potential parallel that we think will ..."
     publishedDateTime: 2020-10-27T15:54:00Z
@@ -59,6 +75,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
+    excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
+    publishedDateTime: 2020-10-27T14:29:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 59
+    images:
+      - url: "https://media.whas11.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Consumer Reports Finds GM’s Self-Driving Tech Superior to Tesla’s Autopilot"
     excerpt: "Tesla’s Autopilot may be stealing more headlines as of late, but according to new findings from Consumer Reports, GM’s version is leagues ahead. Consumer advocate publication Consumer Reports recently conducted a test featuring a lineup of 17 vehicles with active driving assistance systems,"
     publishedDateTime: 2020-10-28T21:16:00Z
@@ -75,6 +107,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Tesla 'full self-driving' comes under fire: 'This is actively misleading people'"
+    excerpt: "Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. The conflicting messages have experts in the field accusing Tesla of deceptive, irresponsible marketing that could make the roads more dangerous as the system is rolled out to as many as 1 million electric vehicle drivers by the end of the year."
+    publishedDateTime: 2020-10-24T17:44:00Z
+    webUrl: "https://www.autoblog.com/2020/10/24/tesla-full-self-driving-misleading/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/10/24/tesla-full-self-driving-misleading/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/10/24/tesla-full-self-driving-misleading/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 54
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-10/0fd8d580-e4ab-11e9-a22d-01d4756e572b"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tesla’s ‘Full Self Driving’ Beta Tech Nearly Wrecked This Model 3 Into a Parked Car"
     excerpt: "Tesla's \"Full Self Driving\" update was sent out to an unknown number of beta testers a few days ago, and videos showing the system's performance are being shared around the internet. One such clip, posted by YouTuber Brandon M,"
     publishedDateTime: 2020-10-27T19:17:00Z
@@ -88,6 +136,22 @@ related:
       - url: "https://api.thedrive.com/wp-content/uploads/2020/10/tesla-fsd-moronic-lead.jpg?quality=85"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Ford is doubling down on testing self-driving cars in Miami-Dade"
+    excerpt: "After landing in Miami-Dade in 2018 with a fleet of self-driving cars, Ford announced Monday that it plans to broaden its presence here as it explores the frontiers of autonomous vehicles. The Michigan-based automaker said it now plans to establish a ..."
+    publishedDateTime: 2020-10-27T11:01:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article246728241.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article246728241.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article246728241.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 44
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/d8c13d6b-7856-494e-9971-e37ddc10c652/c3add766-c8dc-42cf-9b32-f380f6083365/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
         isCached: true
   - title: "Tesla beta testing “full self-driving” system worries drivers, pedestrians — and even owners – Jaweb"
     excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own,"
@@ -130,6 +194,31 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 27
+  - title: "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed"
+    excerpt: "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng Motors is less bullish on the prospect. “They have to make a ..."
+    publishedDateTime: 2020-10-28T11:16:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/28/915555.jpg"
+        width: 1240
+        height: 697
+        isCached: true
+  - title: "The chemistry behind self-driving cars"
+    excerpt: "Self-driving, electric cars have been touted as the next big thing in transportation. While this technology has progressed in recent years, experts caution that automakers will need the chemical industry to help make it a reality."
+    publishedDateTime: 2020-10-28T18:02:00Z
+    webUrl: "https://phys.org/news/2020-10-chemistry-self-driving-cars.html"
+    ampWebUrl: "https://phys.org/news/2020-10-chemistry-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-chemistry-self-driving-cars.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 24
 
 secured: "PyOihrfJ/oui5jNg1KkGq3ZBazHxj5vEa2ILoBpHH/mNkfVSdIByA6++S5hyNvLqoKSd0+ljGQSfqW6jmUXuY6MKC9qVoEDfzblVqzR+IHoh3/iqRjLfIHXkgqOIT348UZtc8EM0k41FsOHIIwMIqspG9QtKPvsU51DUgfwDkrAdgbO7WjjBUxFOxjicIFCUshFqzXEzilAjbQipdJyevPlh2weTu5zimnXWc52JZl74xJFG7iDxhYFdKbBM7G6cyxF100HCMghIxFuzSBhIZH5+lU9WiQLU6i+2w1+Y3h4rTLRVlYj3L8P1vebQbbtN/To+nBaZVj1554sXfwr65RtxIjRTqD5Omy9ak5VOAkh0N22g1V2Mvn1k24u/3je/TEuF6SENiId8K2uf7RlX0ouASyO1IQN+H/gkpXPxyUNu650drgOqHbU4z9q4ZRH4vaZnq8oy9zLDRR6Kkpb7Eel043Zjwfng/xIBN3nYPnbQ3Fqq3v2I+PILf/QMxe2HMpRUqsCsAqQJANhj+C1ulQ==;4BPAl6Ufi+44nn5pd+hahw=="
 ---

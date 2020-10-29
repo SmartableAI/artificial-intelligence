@@ -7,7 +7,7 @@ originalUrl: "https://www.triplepundit.com/story/2020/ai-amazon-sustainable-pack
 webUrl: "https://www.triplepundit.com/story/2020/ai-amazon-sustainable-packaging/707721"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1500
     height: 1000
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Helps Improve Treatment for Brain Tumor"
+    excerpt: "In patients with glioblastoma (brain tumor) artificial intelligence measures the amount of muscle to help improve prognosis and treatment, said researchers."
+    publishedDateTime: 2020-10-29T00:39:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 74
+    images:
+      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Artificial intelligence can help to improve prognosis and treatment for glioblastoma"
+    excerpt: "In the first study of its kind in cancer, researchers have applied artificial intelligence to measure the amount of muscle in patients with brain tumours to help improve prognosis and treatment. The research will be presented at the National Cancer Research Institute Virtual Showcase,"
+    publishedDateTime: 2020-10-29T00:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/ncri-aic102720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 32
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "qQQ0EezxC7z/SvdDi31ETDbnVCKbix36+6eW24vSvOYYG3fc+ZhUIuu+rIIqJuALpG2s+BnErApw4g3oQiuBC0QfHhXc8RIpR4589p6ESFuVScRN4PbsLNKp44dr1E3ndwe6rC8/Dc1kOt2jeZ8mvVmFExLSlQxr9wHrSoJab9URHY+j9BWvwl0++T8Ejgd+2N62ZQ9Vrz7gTp0xtxCxlWPfDoT1zU0JwmiR6VkKpkOlOG+5+p0H7SSpUSCgY+Ai90n4Nu4OuhycsIBG6z0Ky+D8wp4fzQl3lhT/J4dombuBVnnjBnlEi11RjtdLi3iBkNtYB0PmWlxcsDxxeuwdHaMaiaRvX1C1pOEbyM8B21zbxxVxRhqaN/RotT25IkQhDfB2DtPWMZKOZFB5O8/muUPPC9EJ9CfiID2C4rzeu74yRfzQkj9RtBUxkqJwWmw5iff9MuEk1mvLwI72yeFZ5px+bbw+RtyuUxGNSELcJos6fBRi7JGJ6VvPbgkuTehMaqQ/wZYCn4YGnnFOS4WkQg==;HTNCtaPqpfaiLGTJeXwoKQ=="
 ---
