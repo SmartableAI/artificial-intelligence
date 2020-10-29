@@ -75,19 +75,21 @@ related:
         width: 952
         height: 1231
         isCached: true
-  - title: "Machine learning helps hunt for COVID-19 therapies"
-    excerpt: "The group already has one machine learning model at work in the pandemic, predicting consequences of mutations to SARS-CoV-2. Now, Wei’s team has deployed another to help drug developers on their most promising leads for attacking one of the virus’ most compelling targets."
-    publishedDateTime: 2020-10-24T05:26:00Z
-    webUrl: "https://msutoday.msu.edu/news/2020/machine-learning-helps-hunt-for-covid-therapies"
+  - title: "Deep learning models help hunt for COVID-19 drugs"
+    excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
+    publishedDateTime: 2020-10-28T23:45:00Z
+    webUrl: "https://www.news-medical.net/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
     type: article
     provider:
-      name: Michigan State University
-      domain: msu.edu
-    quality: 39
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
     images:
-      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/2020/machine-learning-helps-hunt-for-covid-therapies/protease_banner.png"
-        width: 1400
-        height: 600
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fPandemic-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Ford’s next-gen test Vehicle lays self-driving foundation"
     excerpt: "Beginning  to roll out this month, Ford and Argo AI‘s fourth-generation self-driving test vehicles are built on the Escape Hybrid platform and feature the latest advancements in sensing and computing technology."

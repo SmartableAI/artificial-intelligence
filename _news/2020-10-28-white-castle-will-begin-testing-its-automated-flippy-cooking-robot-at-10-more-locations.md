@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Flippy robots will cook sliders in 10 more White Castle locations"
+    excerpt: "Rail — showed promising results in its pilot with White Castle, enough for the burger chain to sign on to deploying the robot in 10 more locations. Back in September, they formally started a pilot program to test Flippy at one White Castle location,"
+    publishedDateTime: 2020-10-27T09:41:00Z
+    webUrl: "https://www.engadget.com/flippy-robot-white-castle-expansion-090002507.html?ref=hvper.com"
+    ampWebUrl: "https://www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F4c4ba8b0-1517-11eb-bbef-af00bd4d0adb&client=amp-blogside-v2&signature=05b6c4fd5bd26f566516f92d0f50c667127f4b24"
+        width: 600
+        height: 350
+        isCached: true
   - title: "White Castle is adding Flippy the $30,000 robot fast-food cook to 10 more locations in 2021"
     excerpt: "Miso Robotics' Flippy works as a kitchen assistant, moving along a rail, and can cook 19 different items, requiring fewer human cooks in the kitchen."
     publishedDateTime: 2020-10-27T17:42:00Z

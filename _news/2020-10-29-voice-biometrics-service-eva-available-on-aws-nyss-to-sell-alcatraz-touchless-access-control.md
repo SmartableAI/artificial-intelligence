@@ -22,7 +22,7 @@ related:
   - title: "Leading Fintech Companies Predict Phenomenal Growth in Contactless Cards and Touchless Commerce across America in 2021"
     excerpt: "The event will bring together eight pioneering companies whose combined reach spans across multiple countries and services millions of consumers. This dynamic group of leaders in the payments industry are disrupting the ecosystem through touchless commerce solutions and innovative technologies."
     publishedDateTime: 2020-10-27T17:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-virus-outbreak-financial-technology-lung-disease-8cddee96e8eb876a239ab0fd6a276c32/gallery/dd1c4270bcca21f4ee1e100a34beca64"
+    webUrl: "https://apnews.com/article/technology-business-virus-outbreak-financial-technology-lung-disease-8cddee96e8eb876a239ab0fd6a276c32"
     type: article
     provider:
       name: Associated Press

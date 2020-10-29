@@ -1,27 +1,23 @@
 ---
 category: news
 title: "A New IDC MarketScape Assesses Eleven Providers of Advanced Machine Learning Platforms"
-excerpt: "A new IDC MarketScape assesses eleven companies offering the tools and frameworks for developing advanced machine learning (ML) models and solutions."
+excerpt: "International Data Corporation (IDC) today published a new assessment of eleven companies offering the tools and frameworks for developing advanced machine learning (ML)"
 publishedDateTime: 2020-10-07T12:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201007005511/en/A-New-IDC-MarketScape-Assesses-Eleven-Providers-of-Advanced-Machine-Learning-Platforms"
-webUrl: "https://www.businesswire.com/news/home/20201007005511/en/A-New-IDC-MarketScape-Assesses-Eleven-Providers-of-Advanced-Machine-Learning-Platforms"
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/b17817028/a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/b17817028/a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17817028"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17817028"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://mms.businesswire.com/media/20201007005511/en/784701/23/IDC_2017_logo_horiz.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "7Rc951EpeX7gvgB+InTO60rJgdHh5elaZE/HG9zopYr9Mak2PrMSZCa67qqB78c/02Fo71aODkRVPMCTdNDTZMNvIumm3Ivs7WIoMH7tyU33b0GeVTQJFNKu6QfIbuDApQSkLqiJzrpjftcpHWPrc69dskjJHmjIlqL4pI+TBuSMCMhRMHP2p7ADbXOEgLiuEPRWdXJBiKA0pYg+yyUQRjgT7eCbsB7g4PDIk1NbX37v9EhGErX92E33N/sLrEBgCwPWHbizqRicT3hU2AJIV7cx5qbY0y8KrQ2v42iXyDZ1JUoztADNot+0WsFnvKXSjWGZHlvieZCzywIxF5dtLFMbBh81GVNn62a43mR/jek=;sD5xEPcFt4CYPTdwnTyuHw=="
+secured: "tTcCZKz5582SWP4wLMd+PuE6PYg0lS3+Fm1d1q244BjfSHnnFgvetiLGlT61Bvfb4EpfcG6NHF8+NdOtGfDWnlnoyhy94Fo9h34acsdml9ZDwNliFaSRlBclVCoFKIpdmHGEi3Xr8IN4x7Vyjiv5jz5YY3XpYtFA2QIB6X/KEVtDxM0+fkv22CNVM2GZXu2fhMDmt0pqOUW7Rs5C104wrdB4FH9i8bPCesmxGfvX9YjY5r8Vy/EAH2LKKjP//ww0rpdbj9zveM/kFIbA64ulE+uPtcC1P1CF4VwyQD5GcvmpbpxM76dXTbG+1X0bVnwVOeAaeG7kPIXuVOtnZQDMVa3N6/ZxdTthkvT9cghbHcY=;I/Sq4E5MS9hRAJp0+YiNlg=="
 ---
 

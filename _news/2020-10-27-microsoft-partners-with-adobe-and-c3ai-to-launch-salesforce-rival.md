@@ -52,6 +52,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 101
+  - title: "Salesforce's Paula Goldman on Navigating the Ethical Issues in AI"
+    excerpt: "The ethics of AI have become an important business and reputation issue in light of the Covid-19 pandemic and public protests. Paula Goldman shares how companies can address the ethical perils of biased algorithms,"
+    publishedDateTime: 2020-10-28T18:35:00Z
+    webUrl: "https://www.wsj.com/video/events/salesforce-paula-goldman-on-navigating-the-ethical-issues-in-ai/E649BA6A-18FB-4367-8C37-EB268A01B278.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "http://m.wsj.net/video/20201028/102820ai4ethical/102820ai4ethical_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "C3.ai's Tom Siebel on the Microsoft and Adobe partner to take on Salesforce"
     excerpt: "Tom Siebel, C3.ai CEO, joins \"Squawk Alley\" to discuss the company's partnership with Microsoft and Adobe to take on Salesforce."
     publishedDateTime: 2020-10-26T19:34:00Z

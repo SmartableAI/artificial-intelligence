@@ -37,6 +37,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Flippy robots will cook sliders in 10 more White Castle locations"
+    excerpt: "Rail — showed promising results in its pilot with White Castle, enough for the burger chain to sign on to deploying the robot in 10 more locations. Back in September, they formally started a pilot program to test Flippy at one White Castle location,"
+    publishedDateTime: 2020-10-27T09:41:00Z
+    webUrl: "https://www.engadget.com/flippy-robot-white-castle-expansion-090002507.html?ref=hvper.com"
+    ampWebUrl: "https://www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F4c4ba8b0-1517-11eb-bbef-af00bd4d0adb&client=amp-blogside-v2&signature=05b6c4fd5bd26f566516f92d0f50c667127f4b24"
+        width: 600
+        height: 350
+        isCached: true
   - title: "White Castle will begin testing its automated 'Flippy' cooking robot at 10 more locations"
     excerpt: "\"Artificial intelligence and automation have been an area White Castle ... Replacing human workers with robots might sound like a good idea on paper, and it might have worked well at one White Castle location, but we wouldn't be surprised if some hurdles ..."
     publishedDateTime: 2020-10-27T19:11:00Z

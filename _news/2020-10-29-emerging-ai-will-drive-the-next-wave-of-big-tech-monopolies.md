@@ -28,9 +28,9 @@ related:
   - title: "Emerging technologies that will advance the retail industry"
     excerpt: "In response to this changing landscape, retailers have brought forward technology investments to accelerate their digital business transformation, particularly in artificial intelligence (AI) technologies with retailers often utilizing AI-enabled third-party vendor applications to solve immediate challenges before moving to more strategic deployments once they gain evidence of the benefits."
     publishedDateTime: 2020-10-28T15:34:00Z
-    webUrl: "https://www.techradar.com/news/emerging-technologies-that-will-advance-the-retail-industry"
-    ampWebUrl: "https://www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+    webUrl: "https://www.techradar.com/sg/news/emerging-technologies-that-will-advance-the-retail-industry"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
     type: article
     provider:
       name: TechRadar

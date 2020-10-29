@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/broad
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/broadridges-ltx-and-charles-river-development-to-take-corporate-bond-trading-to-the-next-level/article_c8724e72-4ece-5ea2-8121-17e84ef975b4.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,19 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Broadridge’s AI Digital Trading Platform LTX Integrates With Charles River Investment Management Solution"
-    excerpt: "U.S.-based fintech Broadridge Financial Solutions announced on Tuesday its new artificial intelligence (AI)-driven digital trading platform, LTX, has been integrated with the Charles River Investment Management Solution (Charles River IMS. According to ..."
-    publishedDateTime: 2020-10-27T12:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/168452-broadridges-ai-digital-trading-platform-ltx-integrates-with-charles-river-investment-management-solution/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168452-broadridges-ai-digital-trading-platform-ltx-integrates-with-charles-river-investment-management-solution/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168452-broadridges-ai-digital-trading-platform-ltx-integrates-with-charles-river-investment-management-solution/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 22
 
 secured: "j6abyZbxnNEzm75plW+RoUjmkZhnVDX7U40mFncRCYTCk5e/6hGWd61Zj2dGDCTwKcGWIs+LhUhOf5tn/xJfKd8lCGhehsby9xAxh6vmLBWb3/aBO8aXF+nCnpUwRxp0nrzq7Ux/XBLGfqyMxOaTBlPPvb+xGVPF8Kk0iIjvCwrekNA8y4UaupSAx9KCl17XRQRRMZpgmE/BxBpioyKJ1xF3U8qv1EDwQV+pnrkUgAvsEmhPUz1lMB1pvOLbeWTgHUsRXs84N+vdgZgzfjnzTm+Vgt+wdwTDr+WRL/dp8YiXa3Ia2vbVFeSBRVnUZDbgh8Oz/R0pM/myZZ/7H0E834af2FAs+GoDfvCbBFRlRkA=;Qh1n4FMbl+Uv9mQbYI2z2Q=="
 ---

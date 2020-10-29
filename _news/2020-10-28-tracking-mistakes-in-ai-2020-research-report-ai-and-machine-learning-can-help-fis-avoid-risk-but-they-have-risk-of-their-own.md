@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Tracking Mistakes in AI, 2020 Research Report - AI and Machine Learning Can Help FIs Avoid Risk - but They Have Risk of Their Own"
-excerpt: "Using Vigilance to Avoid Errors\" report has been added to ResearchAndMarkets.com's offering. This latest research Report, Tracking Mistakes in AI: Use Vigilance to Avoid Errors, discusses modes in which data models can deliver biased results,"
-publishedDateTime: 2020-10-28T14:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tracking-mistakes-in-ai-2020-research-report----ai-and-machine-learning-can-help-fis-avoid-risk---but-they-have-risk-of-their-own-301161710.html"
-webUrl: "https://www.prnewswire.com/news-releases/tracking-mistakes-in-ai-2020-research-report----ai-and-machine-learning-can-help-fis-avoid-risk---but-they-have-risk-of-their-own-301161710.html"
+excerpt: "AI and Machine Learning Can Help FIs Avoid Risk - but They Have Risk of Their Own DUBLIN, Oct. 28, 2020 /PRNewswire/ -- The \"Tracking Mistakes in AI: Using Vigilance to Avoid Errors\" report has been added to ResearchAndMarkets."
+publishedDateTime: 2020-10-28T14:54:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tracking-mistakes-in-ai-2020-research-report-ai-and-machine-learning-can-help-fis-avoid-risk-but-they-have-risk-of-their-own-1029735267"
+webUrl: "https://markets.businessinsider.com/news/stocks/tracking-mistakes-in-ai-2020-research-report-ai-and-machine-learning-can-help-fis-avoid-risk-but-they-have-risk-of-their-own-1029735267"
 type: article
-quality: 25
-heat: 25
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
-
-secured: "uOzfXstrJrweWAkKWdv/1c8FR9R3/5FfmWX0smKjff3456Y7sA5gv3CHGYR8RUN1rwHhgCbc9Kn3ZBjT6IZmEY2mBvFclk+cfApBaNIeQckRAl3id3DRIbrYCO6bvNO/gslMjsCps2Ii6hLfEMvcFPfuWWqrAnDscomplL/eviNJiGThicsFWy4UQbG6LM4ZM8Xdxk2C2AxBIyScjd+lL+jSZb1BaPV1itYegjqJy5Sg6m81oTBCG2lOumAmTmXgdxzeUjxy7zRNJpKXTgxznbdoLiYDn/dAylxELWLt4IxrVW7YsDlem374Qo3TZGBkPlJiiKfyXwrrJs+viE8lilTzHtNTkCAGs5CO921gYYk=;SeMZXZ1fnsU4o9c04MN2qg=="
+secured: "j2xtzcSFdVUIIJLGVZ+W7r3Pm4VsbniPp1+/0ROR6fZ26ei0VnSkOABCeOxN4rZDtPJC2aRiOjs+FCsA3jA1f82npzTqn0gTG2la+NQaL3zOHkNAAjlWaiaT5BkjoskCByE2zfKOwDXcxMVx2czEDrrRW4QCKgO/biVBz65TUWoYxA/mTwMbJ7Wcy20jYL1MBRtaBhWawITkTECtrJRIwCynScIOnuI1rqt1DGJTutoqgRwH8rjid51A7BQQsfJxBreYSL+HatBoqlgAz+POGMAfcv2ErHC7JGSd1mTxZAfHnezl52FSCXZNexR+MPjrYtxzeM3meplmE5OYrM9B5sAxUw/WQddOvyTeMgAu5M0=;rnGjqi/cOAitRmm1R+loGQ=="
 ---
 
