@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "deeplearningai_"
   url: "https://twitter.com/deeplearningai_"
-  followers: 47468
+  followers: 47477
 
 size: 11-50 employees
 yearFounded: 2017
