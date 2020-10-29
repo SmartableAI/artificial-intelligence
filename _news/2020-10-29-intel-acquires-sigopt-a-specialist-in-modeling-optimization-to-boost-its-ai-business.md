@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Intel To Buy AI Software Optimization Platform Company SigOpt"
+    excerpt: "Intel Corporation (NASDAQ: INTC) announced Thursday a deal to bolster its expertise in artificial intelligence, an up-and-coming technology. What Happened: Intel said it"
+    publishedDateTime: 2020-10-29T17:00:00Z
+    webUrl: "https://www.benzinga.com/m-a/20/10/18124547/intel-to-buy-ai-software-optimization-platform-company-sigopt"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18124547"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18124547"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/intel-sigopt.jpg"
+        width: 843
+        height: 562
+        isCached: true
 
 secured: "iwr49RVismUCAwN2wkVtzhLgQ0jnPo5YRzYeVK7GMXY4GrKDqVvdwkQLm2OG33v9GZPjSIdeoPHAv3k4s6fAuiAnUfDhlicWF5bWtKpV3WVmDJatsSnoN0BADCEIrclVGb0oBXz9Diwa3fLnpR1NFoJYF75n2il7KIYEMM3rYX256wGs6pp1JQFAcuXpnzKcZv6rioiXmN3t0E7WDz9fgD39vfQSugdGVT3g/Cca8a+/Th3uS8eauUQkyJTAowR+3F0wzoVapAbkwQi2KS//jTJyjmbShkZXbzPVyK7dSz7XWCePqbL3z0x5DcLQLGxaPjU/kk6FVSWrsTYDXcbhegTzahvL3krfbjedaUuNSwo=;ZsAWgq+2eFRNMF2bYG7sig=="
 ---

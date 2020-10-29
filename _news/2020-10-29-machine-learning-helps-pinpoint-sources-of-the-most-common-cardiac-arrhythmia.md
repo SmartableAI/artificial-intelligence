@@ -41,6 +41,22 @@ related:
         width: 734
         height: 549
         isCached: true
+  - title: "Machine learning helps pinpoint sources of the most common cardiac arrhythmia"
+    excerpt: "Researchers from Skoltech and their US colleagues have designed a new machine learning-based approach for detecting atrial fibrillation drivers, small patches of the heart muscle that are hypothesized to cause this most common type of cardiac arrhythmia."
+    publishedDateTime: 2020-10-29T17:19:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-machine-sources-common-cardiac-arrhythmia.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-machine-sources-common-cardiac-arrhythmia.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-sources-common-cardiac-arrhythmia.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/58-machinelearn.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "af9Ox09+u3BBdo15D4R7zsqCFihioZvPYee7qdNnlxqMuCH5oz9q2g3/5GYthUilua7it75UhNQ/pNdSUH80qnKrJc99RGpiPCEubES84vHdCPN02bTPH2zihjEL66NAVRU2FzZ8dMp+PdyOXz833V9gHOWU1HSYZZVUq4IClwefSXRQJbJ/u2zrmnjpuBj+BXlNVWo60B1lBk9OWkVo2Fu+qPdk4wofPjwpsirJ7X4g2mzj2exoaS3APV1OSDdVuvqIDURpOnkunEQVgVNl2mo/FwY6dhUg7+oZrC8EFF5i/oNCQiSRY62ASGaRcg7x3qb0vdV3bd09jmEjP0kieAUCeivp0pGra7gUYRE9L8A=;xp8Gg+Rf+IxTNPfyc16nQQ=="
 ---

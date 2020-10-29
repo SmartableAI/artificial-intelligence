@@ -20,13 +20,13 @@ topics:
 
 related:
   - title: "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance"
-    excerpt: "Combining Workday Prism Analytics and Workday Financial Management creates an intelligent data foundation that also fuels ML-enabled transactions and processes. Machine Learning Powers Intelligent ..."
-    publishedDateTime: 2020-10-29T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-1029741015"
+    excerpt: "Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc. (NASDAQ: WDAY), a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning (ML)-driven predictive forecasts for ..."
+    publishedDateTime: 2020-10-29T16:27:00Z
+    webUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-0"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 52
   - title: "Workday, Inc.: Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance"
     excerpt: "Advances in Managing Data Create New Levels of Insight and Performance Accountability for Today's Agile OrganizationsPLEASANTON, Calif., Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc ("
@@ -37,6 +37,20 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 14
+  - title: "Verint and Avaya Expand Partnership to Bring AI-Based Knowledge Management to Organizations Worldwide, for Better Employee and Customer Experiences"
+    excerpt: "Oct 28, 2020-- Verint ® Systems Inc. (Nasdaq: VRNT), The Customer Engagement Company ™, today announced an expanded partnership with Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration,"
+    publishedDateTime: 2020-10-28T12:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-north-carolina-durham-artificial-intelligence-1bf60992fae84d5a85c960108e31964b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "bNPIj7vxvk5wyOMySnbnJyc9UH6AWXb1hdKzdcsU0UJ2hiFf2A2/5USFdmrrI7n/LgLtMi+cgDqnxIS+vCaHFh36l6LNYbJrezRRt7NsiuhQheIog0KM4oLsz1cYUnH3JCoIVhn2Mrc/4CmYcnzkWdhw4VevhiDjWdZs+LvYixk7C1hIrzi6UR1Iq3nzcwWt0O+aJkEeDXM48fkHB8NsNY6qttzQBnCjQK0nS8SG/rlCXBF9z9fDOMY6YPNdOGRS+AFmFCFXjmleHnEDm6zb60Xo5TAOd5CEZj6w4xmBKaiIvDmjoEAJ/oRXO97EqI4Fw11hCAbHhxd0Qr43lWGCAWHnivarEL90twnNv8dPhXM=;I4pW+GyqP7X95T4X4NgysA=="
 ---

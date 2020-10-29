@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2020/10/tesla-full-self-driving-beta/"
 webUrl: "https://www.infoq.com/news/2020/10/tesla-full-self-driving-beta/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,78 @@ images:
     isCached: true
 
 related:
-  - title: "A Telsa Bear Is a Little Less Bearish Because Self-Driving Cars Might Be Real"
-    excerpt: "Michaeli, in his research note, also noted the chance for faster-than-expected development of full self driving cars. That would be a game-changer for Tesla and the industry. Tesla (ticker: TSLA) recently released a test version of its full-self-driving ..."
-    publishedDateTime: 2020-10-27T15:46:00Z
-    webUrl: "https://www.barrons.com/articles/a-telsa-bear-is-a-little-less-bearish-because-self-driving-cars-might-be-real-51603813449"
+  - title: "Tesla officially increases price of its Full Self-Driving Kickstarter campaign to $10,000"
+    excerpt: "Tesla has now officially increased the price of its Full Self-Driving package to $10,000 in the US. That’s quite a price for a model that most closely resembles a Kickstarter campaign. In a Kickstarter campaign,"
+    publishedDateTime: 2020-10-29T16:21:00Z
+    webUrl: "https://electrek.co/2020/10/29/tesla-officially-increases-price-of-its-full-self-driving-kickstarter-campaign-to-10000/"
+    ampWebUrl: "https://electrek.co/2020/10/29/tesla-officially-increases-price-of-its-full-self-driving-kickstarter-campaign-to-10000/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/29/tesla-officially-increases-price-of-its-full-self-driving-kickstarter-campaign-to-10000/amp/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 21
+      name: Electrek
+      domain: electrek.co
+    quality: 95
     images:
-      - url: "https://images.barrons.com/im-250253/social"
-        width: 1280
-        height: 640
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?quality=82&strip=all"
+        width: 1851
+        height: 853
+        isCached: true
+  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
+    excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
+    publishedDateTime: 2020-10-27T14:29:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 59
+    images:
+      - url: "https://media.whas11.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Tesla’s Full Self-Driving $2k price increase takes effect"
+    excerpt: "Driving suite has increased in price by $2,000 from $8,000 to $10,000, as CEO Elon Musk announced last week. Musk announced the price increase last week on the heels of the FSD Beta release on October 20th,"
+    publishedDateTime: 2020-10-29T15:17:00Z
+    webUrl: "https://www.teslarati.com/tesla-full-self-driving-price-2020-10k/"
+    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-price-2020-10k/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-price-2020-10k/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 59
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2020/10/tesla-full-self-driving-neural-network-1024x501.jpg"
+        width: 1024
+        height: 501
+        isCached: true
+  - title: "As Tesla full self-driving goes beta, Autopilot is rated a 'distant second' to GM's Super Cruise"
+    excerpt: "Tesla's Autopilot loses out in the Consumer Reports ratings over its handling of unresponsive drivers. A decade after Google launched its self-driving car project now known as Waymo, the idea of a fully autonomous car remains elusive – even for Tesla owners,"
+    publishedDateTime: 2020-10-29T13:33:00Z
+    webUrl: "https://www.zdnet.com/article/as-tesla-full-self-driving-goes-beta-autopilot-is-rated-a-distant-second-to-gms-super-cruise/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/as-tesla-full-self-driving-goes-beta-autopilot-is-rated-a-distant-second-to-gms-super-cruise/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/as-tesla-full-self-driving-goes-beta-autopilot-is-rated-a-distant-second-to-gms-super-cruise/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 56
+  - title: "Full Self-Driving Beta Release Is Tesla's Most Irresponsible Move so Far"
+    excerpt: "Tesla released its Full Self-Driving Beta enhanced driver's aid system (please note the contradiction) last week, so expect a lot of the owners picked for the experiment - sorry, trial run - to test it out on the street."
+    publishedDateTime: 2020-10-26T11:31:00Z
+    webUrl: "https://www.autoevolution.com/news/full-self-driving-beta-release-is-tesla-s-most-irresponsible-move-so-far-150642.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 38
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/full-self-driving-beta-release-is-tesla-s-most-irresponsible-move-so-far-150642-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "9EUQaDE2gZAI6+JJGTIfM5oDsHb/IO3hxwxTuQhIqF4/oX41YD55eTQbWU0x625dHHFHpw7vq7I1gTXFSB1c4/HO8hVUiYmvB9lYrOYvzi+0akwsEwZnfcg6jKcWmzCsDWXeRyujA9r4c6f0hbmRlab27t0p/n8tnhCjFZ0qoHGV9Dg1xNAIIWumO6pSmJilqdA6ldsyo6pmqOP7J+6CPyehbneLy8R3E754qPhLqXHIpCQipiPKgZvkWYUY+fh5+X7n2vcvlHcrjQKp7EwNwIKRtmAMNuzGnBZM2BZ7nNCavPvEtbzwvGCV+lqbA3VROpG/ptSI5mdR+ybUSBor5DDJo3XcjY/CUuODMrozceU=;U5zUBErINrVMm8cRBfoBZw=="

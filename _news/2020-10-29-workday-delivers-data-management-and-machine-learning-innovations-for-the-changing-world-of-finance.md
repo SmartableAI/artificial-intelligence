@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance"
-excerpt: "Combining Workday Prism Analytics and Workday Financial Management creates an intelligent data foundation that also fuels ML-enabled transactions and processes. Machine Learning Powers Intelligent ..."
-publishedDateTime: 2020-10-29T13:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-1029741015"
-webUrl: "https://markets.businessinsider.com/news/stocks/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-1029741015"
+excerpt: "Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc. (NASDAQ: WDAY), a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning (ML)-driven predictive forecasts for ..."
+publishedDateTime: 2020-10-29T16:27:00Z
+originalUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-0"
+webUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-0"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
+  - AI in Finance
 
 related:
   - title: "Data Management Best Practices for Machine Learning"
@@ -42,7 +38,21 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 14
+  - title: "Verint and Avaya Expand Partnership to Bring AI-Based Knowledge Management to Organizations Worldwide, for Better Employee and Customer Experiences"
+    excerpt: "Oct 28, 2020-- Verint ® Systems Inc. (Nasdaq: VRNT), The Customer Engagement Company ™, today announced an expanded partnership with Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration,"
+    publishedDateTime: 2020-10-28T12:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-north-carolina-durham-artificial-intelligence-1bf60992fae84d5a85c960108e31964b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "7Rk6FhNxD1TT0WKZIdASrlT9GGKcroVkmTpPpQ0nZrQyZztNJ9nLppqUHaF1mi8I3JymqHVr4YhmzyA4T18kqUuPoDcKqyhdN+y5TJVEjIhCALoxJlrjQIBj4MAbAjLrXn1J6vitEOEzijBRp+HRSrsvGncvWsqB5nfN1EYbuU0C2Q3PLohvj1mrS6jAfuB4qWN5ORt3ArlrBE2E6Rfz4NjMdjX8HqtMQu+5OSdPHy9C23cIWblqWkX2/B14cXBv/P3OXulDai3HA35CU7tdc985M1yJ1GuRcGSiA9NEf93BnF0HTtdBrPexXVB5mBjkJFq7vnWhU1Ky6N3cxCcGMNZ1peiEe/2qSTm9UGF8UDQ=;RzL9dGupDrQsfpIZLJTu8w=="
+secured: "V4jtQT/UCnUppRcUAxRG+cJsUm1oaoxKiEfJQW/SZOzS3pVYMEL2K9KHdI6eu28Z0cwZUWno6xEWZdCOg1/PkQ2LkVtaikRbBmIRmpcjN8axad1IKf7tc+fa5EHNaDvsu7jLz/6t7zDMUSvOr8aVop/fbH6QvSKID3WJof0iGvjtk1oauGfbNxG9qJck+OPTuKslLAtPAb8Ol3EzvOqU3bncpdEudrXd96My1wOrbf4/DTNjnfNXw5dX9S+ssCBfDuU2gjfy+qFBKpj5Pt5TY1LCMxTmJ5Ybxxhilnv4t/pREFqOy4EZ4WLEpAV0ZMGd6akPMaVSI8gV7btYvBrGaOpWr49EgSlUopp9CfPvUdc=;qCaN36u4lMYCGmQa3ytoKA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/29/intel-acquires-ai-software-optimi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,7 +47,23 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Intel To Buy AI Software Optimization Platform Company SigOpt"
+    excerpt: "Intel Corporation (NASDAQ: INTC) announced Thursday a deal to bolster its expertise in artificial intelligence, an up-and-coming technology. What Happened: Intel said it"
+    publishedDateTime: 2020-10-29T17:00:00Z
+    webUrl: "https://www.benzinga.com/m-a/20/10/18124547/intel-to-buy-ai-software-optimization-platform-company-sigopt"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18124547"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18124547"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/intel-sigopt.jpg"
+        width: 843
+        height: 562
+        isCached: true
 
-secured: "xhO+o9LOZbKsWT5xmMirbo2i2MrDNqArxzdH7p9eKQNLfuymPFfjSp1wVq9ZlX3RJ5U4aJKC3YX6NTuj5mgTLoh9cj21sCpAFKfFebH/olB5uHLvRoWKVLn7Dbrb3Ohy6PJ+cwCGAHmgOCQED1/e5BT6ToNwcj7smJ6Osdbv13Yl6d7wu6SvwF/nxrMh/MvzneEjbd2rLYsp3ugxgUZiLxSO/fbC041ubBuUGMZRT4yha8NmTbO6K3yhooWCVnQwmfg0cg5WbZxvv+jOtIGEda9zN/ScxY+tZ1dTuJyk5/siy2PZYv57dSkbUKar6Ut+Z0mv+ytNVGTYSbV7+cfb6i7OMI6Y6K5yPadiHVJrrKU=;KjNU9o6xhaN1vcxJ8cIJ8g=="
+secured: "DQmhQ0JXoxeFn9PKO5sJr86S93PpZ1ulzTh53/vJiSgY5jWn2tSUFgIAq5ZZwVRU9NAyNddybaeiSyQvPjnexJDdOkgrPkQ0lhFgXK9ZTRrF8756fhJWtK6ILHB+6R5J4bJH30UNVcpiAIsG4CKlYGNaf0ujzhW1LMgvjDbz9k1twldmTXbs/wms5NmQaeXf6/kMiyALsOORtkJ7tC3a+H3V99A7wk0bbu5FZ9Wi6hcpfdxTqDOnyrAKsNS4gNQX4BD68+o5gVr5pSYH30Pd/EYY+joXqY84vgWEfUvei+iUjcokSK0p5nfq3vs+GmQvMoPUZmOZTuHudf1SudKv/neo7bJ9Mwguvggdu2Hm1bwzZHZVwh3t7qmjJbRja7m+LvInkd2IVUxo5rfwcjwsUpZB2SYrNzl8DZiNJwVivfkxDXqniY3fnCf0kzF4Z0Is5yTjtLWkjt3q+5aq8bNinWioNY2Hj8f5MF9kTCxzxaH3fPoWHy22TY6o2fd9zNooaHa1P/d1NIj+URwExiumkA==;yBbBdoM3+IIxLNWccJpmaA=="
 ---
 

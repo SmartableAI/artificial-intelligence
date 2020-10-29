@@ -4,34 +4,25 @@
     {
       "path": "_news/2020-10-29-workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance.md",
       "title": "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance",
-      "excerpt": "Combining Workday Prism Analytics and Workday Financial Management creates an intelligent data foundation that also fuels ML-enabled transactions and processes. Machine Learning Powers Intelligent ...",
+      "excerpt": "Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc. (NASDAQ: WDAY), a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning (ML)-driven predictive forecasts for ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-1029741015",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-1029741015",
+      "webUrl": "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-0",
+      "originalUrl": "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T06:13:00-07:00",
+      "publishedDateTime": "2020-10-29T09:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -40,9 +31,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Machine Learning",
         "AI",
-        "Machine Learning"
+        "AI in Finance"
       ]
     },
     {

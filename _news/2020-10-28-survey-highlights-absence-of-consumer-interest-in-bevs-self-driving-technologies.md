@@ -27,14 +27,14 @@ images:
 related:
   - title: "Self-driving semi travels across Ohio in test run"
     excerpt: "On interstates and the turnpike, the lead truck was driven manually while the driver of the second truck engaged its automated platooning technology."
-    publishedDateTime: 2020-10-28T17:57:00Z
-    webUrl: "https://www.dispatch.com/story/news/2020/10/28/self-driving-semi-technology-lead-truck-test-run-across-ohio/3749218001/"
-    ampWebUrl: "https://amp.dispatch.com/amp/3749218001"
-    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3749218001"
+    publishedDateTime: 2020-10-28T18:01:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2020/10/28/self-driving-semi-technology-lead-truck-test-run-across-ohio/3749218001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3749218001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3749218001"
     type: article
     provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 44
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/28/PPOC/fc11697a-25ac-4c28-ac27-1ea68c005da9-IMG_0252f8f40dd0-ba7c-4f63-bb61-41f10373595b.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"

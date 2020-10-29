@@ -7,7 +7,7 @@ originalUrl: "https://www.barrons.com/articles/a-telsa-bear-is-a-little-less-bea
 webUrl: "https://www.barrons.com/articles/a-telsa-bear-is-a-little-less-bearish-because-self-driving-cars-might-be-real-51603813449"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Telsa Releases Full Self-Driving Mode Beta Update"
-    excerpt: "Tesla has enabled new full-self driving features for certain customers. The new features include the ability to automatically steer the vehicle while on city streets, and Tesla plans to increase the price of the package by $2,000 in the near future."
-    publishedDateTime: 2020-10-27T13:01:00Z
-    webUrl: "https://www.infoq.com/news/2020/10/tesla-full-self-driving-beta/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 24
-    images:
-      - url: "https://res.infoq.com/news/2020/10/tesla-full-self-driving-beta/en/headerimage/tesla-full-self-driving-beta-header-1603629903593.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ZBw7xMTqmKi8ITjAcOE8vQKG88jkAzfkhFnlmKTjtbgF0wQRdMVy6HtRn7I0JnEAMvbFLZH3y3dxjvHsTOsAZj/EQE6NEp+aiwuCNphj+06P2MCynltoslnM7zUAdFtspCgNsXPcHpb+dk8z/ZQVACqvUJO3QayJmfkSfZ/fSRqDVTXMPG8xTQ+SQufM+ga0NeV29JWBxEWEsD7ecO0/3pZoqtCSAhcLVw2CJA/Z+ixyN1zLMFo1d1HLDTcKEGfOrNASSMaUd2j36K++5slxEAM/Ouhkc9llH3mog7VWQl958PKYux6PtP1zkTjuf84PqvX2KgBu8Ty64KgLhgTT8HnzTvTFYsK2I3U0Z6XVwtpPevYDQl0nCpo6hOfSuFzcsUkSKUSYAg9BO1ftTgwuSYRcs7rx4dfEF5T++0ZwTrZNt4wJg2eEm4yjok2DDq3BSgubJHqy846L5VsKIf/WM6R7Ipw/Ixui6gOVeRlglMEE/Hd2MDQ88aed1oRUPKVJXQPIlfmkWGSfGCoOzitZ8w==;nezvuDinNE51jzYVMnUbnw=="
 ---
