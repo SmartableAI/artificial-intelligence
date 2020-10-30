@@ -1,0 +1,51 @@
+---
+category: news
+title: "Watch a self-driving Roborace car drive directly into a wall"
+excerpt: "Roborace team SIT Acronis Autonomous suffered an embarrassment in round one of the Season Beta 1.1 race after its self-driving car abruptly drove directly into a wall. It’s not certain what led to the mishap, but track conditions clearly weren’t at ..."
+publishedDateTime: 2020-10-29T15:36:00Z
+originalUrl: "https://www.engadget.com/roborace-self-driving-race-car-drives-into-wall-142758048.html"
+webUrl: "https://www.engadget.com/roborace-self-driving-race-car-drives-into-wall-142758048.html"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fb825ca40-19ed-11eb-bb3b-04bd00ecab5d&client=amp-blogside-v2&signature=254fb6ed3de8a2aa597ee4257fa5042443c273a1"
+    width: 945
+    height: 630
+    isCached: true
+
+related:
+  - title: "Watch a Roborace self-driving race car crash right into a wall"
+    excerpt: "One of the first broadcast Roborace events didn't go quite as planned for one of the teams participating. Just as Acronis SIT's self-driving race car was set to take off from the starting line, it decided to bin itself straight into the wall."
+    publishedDateTime: 2020-10-29T15:29:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/roborace-self-driving-race-car-crash/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/roborace-self-driving-race-car-crash/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborace-self-driving-race-car-crash/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/mp-902epm2AsldIeTz4XzeQMn9Q=/2020/10/29/50481e40-eba3-4ad0-82ca-4d4eab6dcd61/ogi-robo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "UrvZHM+G51yZLfLDYidGMmXPh1Bp6zfsbltypWwtEfl8oapaoFCUxCoWSfG3zbXZmvb8ZkkkjQvPRuOj1U8bDlObisjWbVwENS86DNHCIxWByR2DNMtOthIDvRMEv+ygE5vjaLAfoPi5GSAtwCPZbpbF0f6OcYkmF4LAa38Shj65BOc8sY7FBAVysD19Sf74HG8ZgegRAmI+7CeI1zDyPwwq8fB4Jk5+pjoa8G7OCBQJzGcU+Tx4c87R58/JJlBffgxICSwR6c2sHcHkY3zyQ+ye6O1ZFU4JO5mVWITUVQ4eVTigD2d70l7uC5z9aSKNi9baDr9RMAHI+/Ha3vtinNZUKJLRq6fhCLo5CBo9azI=;IqM8USJkuLJR4O/sY9deBw=="
+---
+

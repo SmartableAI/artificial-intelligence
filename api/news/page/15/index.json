@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-15-commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail.md",
+      "title": "Commentary: Savitude and StyleSage leverage AI, machine learning in fashion retail",
+      "excerpt": "Fashion industry incumbents that have failed to adopt technology to strengthen their business models are at significant risk, particularly as the pandemic accelerates a number of trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail",
+      "originalUrl": "https://www.freightwaves.com/news/commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/10/Savitude.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail/amp",
+      "publishedDateTime": "2020-10-15T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
       "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
       "excerpt": "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerin",
@@ -1072,49 +1115,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-kb-home-launches-company-wide-ai-powered-chatbot-platform-designed-to-deliver-a-modern-real-time-online-customer-experience.md",
-      "title": "KB Home Launches Company-wide AI-powered Chatbot Platform Designed to Deliver a Modern, Real-time, Online Customer Experience",
-      "excerpt": "KB Home launches company-wide AI-powered chatbot platform designed to deliver a modern, real-time, online customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201014005255/en/KB-Home-Launches-Company-wide-AI-powered-Chatbot-Platform-Designed-to-Deliver-a-Modern-Real-time-Online-Customer-Experience/?feedref=JjAwJuNHiystnCoBq_hl-a2-DX8EjssEmMYWAmn7L6JnP4KQ0-VuR_Ed1_p6a8aSQvj2g8ZtgMSWm4nAO4sO4nr0TKd7CILvKt8KtThduJU_d6mxM68GteRxmy6jDm8WOZiG4SwpSv6tLEhMuQ8iTnO1u3OvtUKtPLlU5Ry9otk%3D",
-      "originalUrl": "https://www.businesswire.com/news/home/20201014005255/en/KB-Home-Launches-Company-wide-AI-powered-Chatbot-Platform-Designed-to-Deliver-a-Modern-Real-time-Online-Customer-Experience/?feedref=JjAwJuNHiystnCoBq_hl-a2-DX8EjssEmMYWAmn7L6JnP4KQ0-VuR_Ed1_p6a8aSQvj2g8ZtgMSWm4nAO4sO4nr0TKd7CILvKt8KtThduJU_d6mxM68GteRxmy6jDm8WOZiG4SwpSv6tLEhMuQ8iTnO1u3OvtUKtPLlU5Ry9otk%3D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201014005255/en/668370/23/New_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

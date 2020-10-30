@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-23-teslas-full-self-driving-beta-is-here.md",
+      "title": "Tesla's Full Self-Driving Beta Is Here",
+      "excerpt": "While Tesla's (NASDAQ:TSLA) third-quarter earnings report may be the primary focus when it comes to the electric-car maker's stock this week, the company also quietly rolled out a beta release of its full self-driving mode to a small group of drivers -- a technology that could eventually morph into an incredibly valuable asset for Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 459,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596184%2Ftesla-full-self-driving-mode.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
+      "publishedDateTime": "2020-10-23T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-cloud-natural-language-processing-market-to-witness-astonishing-growth-with.md",
       "title": "Cloud Natural Language Processing Market to Witness Astonishing Growth with",
       "excerpt": "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Cloud Natural Language Processing Market various segments and emerging territory. The research report presents a ...",
@@ -1151,40 +1203,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-congruity360-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Congruity360 Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

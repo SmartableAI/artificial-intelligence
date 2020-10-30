@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-25-why-you-have-to-pay-attention-to-the-indian-startup-scene.md",
+      "title": "Why you have to pay attention to the Indian startup scene",
+      "excerpt": "Welcome back to The TechCrunch Exchange. Data shows that India’s venture capital scene has grown sharply in recent years. Let's dig in.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/24/why-you-have-to-pay-attention-to-the-indian-startup-scene/",
+      "originalUrl": "https://techcrunch.com/2020/10/24/why-you-have-to-pay-attention-to-the-indian-startup-scene/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/24/why-you-have-to-pay-attention-to-the-indian-startup-scene/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/24/why-you-have-to-pay-attention-to-the-indian-startup-scene/amp/",
+      "publishedDateTime": "2020-10-24T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-in-25-years-new-cars-could-be-unrecognizable-thanks-to-technology.md",
       "title": "In 25 years, new cars could be unrecognizable thanks to technology",
       "excerpt": "New battery chemistries, self-driving tech and advanced propulsion systems will revolutionize how we get around.",
@@ -1181,58 +1232,6 @@
         "AI",
         "AI in Robotics",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-teslas-full-self-driving-beta-is-here.md",
-      "title": "Tesla's Full Self-Driving Beta Is Here",
-      "excerpt": "While Tesla's (NASDAQ:TSLA) third-quarter earnings report may be the primary focus when it comes to the electric-car maker's stock this week, the company also quietly rolled out a beta release of its full self-driving mode to a small group of drivers -- a technology that could eventually morph into an incredibly valuable asset for Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 459,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596184%2Ftesla-full-self-driving-mode.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "publishedDateTime": "2020-10-23T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

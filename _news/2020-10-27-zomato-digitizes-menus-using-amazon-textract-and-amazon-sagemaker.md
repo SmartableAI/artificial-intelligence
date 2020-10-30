@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-men
 webUrl: "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/"
 type: article
 quality: 121
-heat: 172
+heat: 171
 published: true
 
 provider:

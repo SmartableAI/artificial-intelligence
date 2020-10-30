@@ -2,6 +2,60 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-19-go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence.md",
+      "title": "Go Beyond Artificial Intelligence: Why Your Business Needs Augmented Intelligence",
+      "excerpt": "When algorithms learn from our data, they mimic these imperfections and magnify the bias. There is ongoing research in AI to improve fairness and ethics. However, no amount of model engineering will make algorithms perfect. In the real world, if we are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8d63159b88f08f91ffea5b%2F0x0.jpg%3FcropX1%3D45%26cropX2%3D9480%26cropY1%3D0%26cropY2%3D5304",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/amp/",
+      "publishedDateTime": "2020-10-19T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold.md",
       "title": "4 AI Stocks That Will Surge in 2021 as Artificial Intelligence Takes Hold",
       "excerpt": "Artificial intelligence (AI) is creeping into our everyday lives, often without us realizing it. Today, AI can be found in the digital assistants we use such as Apple’s (NASDAQ: AAPL) Siri and Amazon’s (NASDAQ: AMZN) Alexa to check our schedules and search for things on the internet;",
@@ -1141,58 +1195,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-your-ai-may-be-ethical-but-is-it-prudent.md",
-      "title": "Your AI May Be Ethical, But Is It Prudent?",
-      "excerpt": "Legal is onboard. Your AI is morally defensible. But is it a bad idea? With so many unintended consequences to consider, how do you determine whether your AI deserves to exist?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/",
-      "originalUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89cf900c8f22bbbae126cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5082%26cropY1%3D127%26cropY2%3D2986",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/amp/",
-      "publishedDateTime": "2020-10-16T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

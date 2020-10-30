@@ -135,6 +135,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
+    excerpt: "And a recent mishap at an autonomous racing event showcased just how challenging self-driving technology can be. Roborace — a new autonomous racing series that's still in its testing phase ..."
+    publishedDateTime: 2020-10-29T22:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-roborace-race-car-drove-straight-into-wall-2020-10-1029744243"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://i.insider.com/5f9b302e6f5b310011724515?format=jpeg"
+        width: 2264
+        height: 1390
+        isCached: true
   - title: "Ford is doubling down on testing self-driving cars in Miami-Dade"
     excerpt: "After landing in Miami-Dade in 2018 with a fleet of self-driving cars, Ford announced Monday that it plans to broaden its presence here as it explores the frontiers of autonomous vehicles. The Michigan-based automaker said it now plans to establish a ..."
     publishedDateTime: 2020-10-27T11:01:00Z

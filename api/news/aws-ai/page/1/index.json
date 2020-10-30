@@ -114,7 +114,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -400,19 +400,19 @@
     {
       "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
       "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status.",
+      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3",
+      "webUrl": "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg",
+          "width": 1200,
+          "height": 627,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -422,11 +422,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T00:30:00-07:00",
+      "publishedDateTime": "2020-10-22T00:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,59 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-10-04-many-top-ai-researchers-get-financial-backing-from-big-tech.md",
+      "title": "Many Top AI Researchers Get Financial Backing From Big Tech",
+      "excerpt": "Abdalla found that more than half of tenure-track AI faculty at four prominent universities who disclose their funding sources have received some sort of backing from Big Tech. Abdalla says he doesn’t believe any of those faculty are acting unethically ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/",
+      "originalUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f73d8fe8f19c83a58c68524/master/pass/Big-Tech-Influence.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp",
+      "publishedDateTime": "2020-10-04T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-deepmind-creates-new-research-unit-to-explore-ethics-of-ai.md",
       "title": "DeepMind creates new research unit to explore ethics of AI",
       "excerpt": "DeepMind has announced that they are launching a new research unit called DeepMind Ethics & Society, aimed at helping the company explore the impacts of artificial intelligence in the real world.",
@@ -1135,49 +1188,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-lilt-to-provide-connectors-to-popular-translation-management-systems.md",
-      "title": "Lilt to provide connectors to popular translation management systems",
-      "excerpt": "Lilt, an AI-powered language service provider, announced that it now natively integrates with popular translation management systems (TMS) including SDL TMS, SDL Worldserver, XTM Cloud, and Smartling. These new connectors allow customers to streamline the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143169",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143169",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

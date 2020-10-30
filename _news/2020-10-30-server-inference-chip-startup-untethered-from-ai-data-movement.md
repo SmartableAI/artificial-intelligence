@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "Google AI executive sees a world of trillions of devices untethered from human care"
-    excerpt: "That effort is called TensorFlow Lite Micro, or TF Micro. Warden and colleagues built on the existing TensorFlow Lite framework that exports trained machine learning models to run on embedded devices. While TF Lite removes some of the complexity of ..."
-    publishedDateTime: 2020-10-29T17:08:00Z
-    webUrl: "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+    excerpt: "Google says hardware in embedded devices needs to improve to make possible a world of peel-and-stick sensors free of wall power and human maintenance."
+    publishedDateTime: 2020-10-29T17:04:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 65
+    quality: 61
 
 secured: "Fw6h982T3CJ1gCbttd7DBSZDjPx2s07Luh0cVima2kgjAZ1qO4KQUgkJoVY8CPJKWW0Vkw0sSOjdFJfcFVu4/ctx74vcGLoyE7Fpe9zQ0qfRWspIlpJykolfFUyNfH+NcoSJTr7+zl9oIswSlq6iSCeCtoidQAlBx3hhU0oxnMjtH94UUICt6zB6mfNR3CQXLyT7b03oD0hI+aQ3CyVkVaa6XBXKkRPaUsZx5cRfhWptKrB7Qh3PAhw42y279LBYJU+z5aVdh1Nn8ZBNgiS8aU1u+s4vPlSVOtmf1gpFyy2WQjKY44PoA6NGzUrlNbyqPjUGo7Xv3DK/O45FS9afetHjgnoYGCNKhlwFogtP9taagY1PheaxnrjXPBj0AIhQva9LCbxX82rbfpVovMfY6YWeu9M8Xr2/32gN/zBtIy0VxG5Sh54GUdbdHKZIkMAUpkoU10AfeM9ARGUX74jl8h8gATfgT9DdaMhYDvbH1dr9JHYz5FisWQaWWyRReKpUdf4qMrqqI6+7OpgyErCzMQ==;zPqBtA9MsB3aUAP/4S6aYg=="
 ---

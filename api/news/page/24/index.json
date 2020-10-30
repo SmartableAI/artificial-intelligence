@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-10-08-neocis-raises-72-million-for-its-dental-surgery-robot.md",
+      "title": "Neocis raises $72 million for its dental surgery robot",
+      "excerpt": "Dental robotics startup Neocis today closed a $70 million ... “The Yomi planning software … leverages AI techniques to guide the surgeon in planning the case safely, for example providing ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/",
+      "originalUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/5691c254-4278-461b-a205-a055fd5ccdc2-e1601933697251.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/amp/",
+      "publishedDateTime": "2020-10-08T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-introducing-ifrs-17-software-with-machine-learning.md",
       "title": "Introducing IFRS 17 Software With Machine Learning",
       "excerpt": "Data is universally indicated as the key challenge in IFRS 17 implementations. \"We designed our IFRS 17 solution from start to finish with",
@@ -1117,59 +1169,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots.md",
-      "title": "Startups joining SK Telecom’s accelerator include AI-driven mapping and vision for delivery robots",
-      "excerpt": "We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless carrier,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/",
-      "originalUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/installation-2.png?w=480",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/amp/",
-      "publishedDateTime": "2020-10-07T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

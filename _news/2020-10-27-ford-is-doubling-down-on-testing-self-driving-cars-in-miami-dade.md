@@ -137,6 +137,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
+    excerpt: "And a recent mishap at an autonomous racing event showcased just how challenging self-driving technology can be. Roborace — a new autonomous racing series that's still in its testing phase ..."
+    publishedDateTime: 2020-10-29T22:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-roborace-race-car-drove-straight-into-wall-2020-10-1029744243"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://i.insider.com/5f9b302e6f5b310011724515?format=jpeg"
+        width: 2264
+        height: 1390
+        isCached: true
   - title: "Tesla beta testing “full self-driving” system worries drivers, pedestrians — and even owners – Jaweb"
     excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own,"
     publishedDateTime: 2020-10-26T19:53:00Z

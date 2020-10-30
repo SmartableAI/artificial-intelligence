@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Google AI executive sees a world of trillions of devices untethered from human care"
-excerpt: "That effort is called TensorFlow Lite Micro, or TF Micro. Warden and colleagues built on the existing TensorFlow Lite framework that exports trained machine learning models to run on embedded devices. While TF Lite removes some of the complexity of ..."
-publishedDateTime: 2020-10-29T17:08:00Z
-originalUrl: "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-webUrl: "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+excerpt: "Google says hardware in embedded devices needs to improve to make possible a world of peel-and-stick sensors free of wall power and human maintenance."
+publishedDateTime: 2020-10-29T17:04:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
 type: article
-quality: 65
+quality: 61
 heat: -1
 published: false
 
@@ -21,9 +21,7 @@ provider:
       height: 50
 
 topics:
-  - Google AI
   - AI
-  - AI Hardware
 
 related:
   - title: "Server Inference Chip Startup Untethered from AI Data Movement"
@@ -43,6 +41,6 @@ related:
         height: 500
         isCached: true
 
-secured: "pm+LazyZuhnMcwSrTKJuBrEbQICInFQuDGa5cYIhiP7Jprhzki1CKyJSQscUGsGima0oaBS/4Is1vVRGUEXJysw5gYWWJkAAPuHpjZ0Lw5KC1cdvs1iVOBvseFzTAIhRVOWVhPc0L8PnYIYgJHC3YEfpPFB7UtVCxHp9PCmzNtuc8zrTat+W6fPdHInOWVyCdVkvfs9FdoiLCg/fGRk0+MHSvKK1OvXLysXp0EMvhkPghl0b1Y2ZGR01gOoTZPoRe/ibYamvHReQIqLeK/Y9h9xdY7jZU8rWhANLSKqZhlbahUsRQnXApEw/Q0wqnaFTVlWSjJJOExljdC6LxneidZ6fMHBaxHbRdMpd9PfQ2x1xg3JAz4K2Agl7he2d2RT8N6u0RQPoYIqqSFq6N2vRJ5OhaCqT2XEUdEvDxDYtNcj3HLfFZEDXX8pwkMWHjXdhe3uxvviFWHI+kghDcoXuclowLWaf9f6YlAxfGPcrO/Gco3dpmNw7WJx6PSjmmKJXGHVcH3Jhu/Vn3XtvIiQIAA==;gxk+bg9Zwh/uQLVS7A/7qw=="
+secured: "ZKvPgobZj+3ZCKHJwG7+/QQaMJqjf443wWEH5p4VhLLh5r7MBS+WIysXPRYr3wtNJZWgnA5U3Z+SeYUoQFSGns5dCoYZqNKJM1CFa/BYlCpWZp4BoIL5QqAC52w8pR7tAI7wGfVcvgcvNDZ01GlneVqHcVRcFFN1m3sYtEgPlh0hVzR/b/V1WcFwtLwBw6dffhX4mytw0/ALN1PmnVczHVbE5ILXIfcetpos+3p6ChImeQYtyfTg+2vsocawm63qjaBN5B/hdFMmi4Yojc7xGdEQJMNdF1j/jJQo+LbYuNWDVMw+3wbN6Et1ZReVGfgis5XPS8KC6pPUWttrj90XaXvqD8goyOTUjdy+cv3DGO4x+E/wcQT32ZzV9JQufjlebx1jnEoTSfJDjmmc5cIfIcf+CEsuI2MjfjW911TX+zb6LqZZdAkPRoOwKv5dvAlfqCEy8wyIzV/S712bJA2kEEBQEPG9ceqfvcJcD8DsglJx9xTixvHWKoQ9CmpdmcJ3fxeL3sj9cJtFBMVIM9dBzg==;C9VEUuWun6EOmmEJln7JJw=="
 ---
 

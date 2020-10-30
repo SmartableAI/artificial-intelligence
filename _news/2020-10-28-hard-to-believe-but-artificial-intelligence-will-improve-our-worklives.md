@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

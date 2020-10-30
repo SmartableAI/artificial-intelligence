@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-28-exploring-ai-for-radiotherapy-planning-with-mayo-clinic.md",
+      "title": "Exploring AI for radiotherapy planning with Mayo Clinic",
+      "excerpt": "More than 18 million new cancer cases are diagnosed globally each year, and radiotherapy is one of the most common cancer treatments—used to treat over halfof cancers in the United States. But planning for a course of radiotherapy treatment is often a time-consuming and manual process for clinicians.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/",
+      "originalUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/",
+      "publishedDateTime": "2020-10-28T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-the-future-of-robotics-is-bright-with-arkq.md",
       "title": "The Future of Robotics is Bright with ARKQ",
       "excerpt": "Robotics and artificial intelligence are making machines smarter and more capable than ever before, allowing robots to take on increasingly sophisticated tasks for faster and more accurate production. Declining computer chip costs and improving ...",
@@ -277,7 +320,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -519,50 +562,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
-      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
-          "width": 1678,
-          "height": 1119,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-hard-to-believe-but-artificial-intelligence-will-improve-our-worklives.md",
       "title": "Hard To Believe, But Artificial Intelligence Will Improve Our Worklives",
       "excerpt": "Instead of worrying about job displacement, we should get to work creating the new, high-quality jobs of tomorrow while massively expanding our upskilling and reskilling efforts to transition displaced workers into these new opportunities.",
@@ -571,7 +570,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -610,6 +609,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
+      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
+      "excerpt": "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
+          "width": 1678,
+          "height": 1119,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -674,7 +716,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -1072,7 +1114,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1167,58 +1209,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist.md",
-      "title": "Tesla's Full Self-Driving beta is a reminder autonomous cars don't yet exist",
-      "excerpt": "Driving beta running with drivers behind the wheel bring a moment of pause. The videos seen here show off what I'm sure are just a tiny sliver of incidents Tesla owners experienced since the technology starting rolling out to cars in beta form last week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/",
-      "publishedDateTime": "2020-10-27T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

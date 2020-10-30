@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2020/"
 type: article
 quality: 106
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -167,6 +167,20 @@ related:
       - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/videos/20201023213308229_898390_L.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Facial Recognition For International Passengers at LAX"
+    excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
+    publishedDateTime: 2020-10-29T22:46:00Z
+    webUrl: "https://mynewsla.com/life/2020/10/29/facial-recognition-for-international-passengers-at-lax/"
+    type: article
+    provider:
+      name: MyNewsLA
+      domain: mynewsla.com
+    quality: 39
+    images:
+      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
+        width: 583
+        height: 300
         isCached: true
   - title: "Election 2020: Third-party candidates in uphill battle for recognition, votes look to sow seeds for future"
     excerpt: "A cast of characters pushed for a viable third-party option not aligned with the red or blue for U.S. voters when they hit the stage for the first-ever Independent National Convention this weekend."

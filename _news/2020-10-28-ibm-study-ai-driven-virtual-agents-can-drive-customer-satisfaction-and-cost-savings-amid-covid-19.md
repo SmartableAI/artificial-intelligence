@@ -2,30 +2,26 @@
 category: news
 title: "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19"
 excerpt: "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology."
-publishedDateTime: 2020-10-28T14:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274"
+publishedDateTime: 2020-10-28T14:30:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0"
 type: article
-quality: 55
-heat: 65
+quality: 25
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1322193/IBM_AI_Study.jpg"
-    width: 400
-    height: 225
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -45,7 +41,21 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "COVID-19 Is Redefining Healthcare Innovation"
+    excerpt: "\"It's kind of ironic. Data and computers are helping deliver more personalized medicine,\" says Dr. Andrew Masica at State of Reform's North Texas Conference."
+    publishedDateTime: 2020-10-26T14:18:00Z
+    webUrl: "https://www.dmagazine.com/healthcare-business/2020/10/covid-19-is-redefining-healthcare-innovation/"
+    type: article
+    provider:
+      name: D Magazine
+      domain: dmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.dmagstatic.com/wp-content/uploads/2015/08/d-logo-square-facebook-default.jpg"
+        width: 345
+        height: 345
+        isCached: true
 
-secured: "V0S+Q4qCxT3H5pdNbcDYqiSCqOvt6MM/plLdUBQul3/lXCxiynAk8kVi6ms0ubyl7ovcP+lcp3UZUVpBOzPaTp7widnjMF+xZidcX0LHQbqMLmDVXmRNbORxCdS9wKpXvqY9vC5lUY+O5OuOVq6LPI8wPGyqUnuEale7L1VjD6B7HJZRNMbrVl3zJF+TKau5OLdSRBI09dp52n2O0kgmzPNeW3+R8AParddQC9WfOqHEoaMFQOsv3FULHBGT3wWXT4Lfadl57QENCspeMZ72erd08g6BEVWYVIKSlNsXvEoBQMr+5GTXJ2IZEr//C5bFCCafI0qbw2p/+sGY6s37IHbGg6I8op/B4NJFRktVZgM=;D73Pkig1jQlWLf/kJrbh9g=="
+secured: "fRWBkOTZc/+SaV+Mpxonk8PwQg46MBn1n1cTxTJP7kus3tslXeBS9Ug99vizUzOnvXIVKtg66WT35P480Ew1G92K4N9Xlbqn0oy1PIaBHI2mvssPGV9G09D8RppwKbWT/7Hj7opbCLlZMIBb0x1QQyUeI1T+6+nTklXMPYO6eaCBQKwnn5qmzrSgghWMIx9MqLZRA7lLmPABrZvrjA22kmVUQPkGA+uywG0gYZKHQzw/6HI1TBObafRAp5KxIUV7rSarb28Zaegpnp2nxfVtYmCgsuBU3kZH2XBgs1y/ujICpRWoqcXCNBJII0+qK+j8IBlV73LJrD4EjRfEBRlBt8queJye65pzSEuBlKF1fsI=;vC5wlSgxFIpgbfhdr8FoIA=="
 ---
 

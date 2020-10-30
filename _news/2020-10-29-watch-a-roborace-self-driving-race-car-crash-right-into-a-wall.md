@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/roborace-self-driving-race-car-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborace-self-driving-race-car-crash/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Watch a self-driving Roborace car drive directly into a wall"
+    excerpt: "Roborace team SIT Acronis Autonomous suffered an embarrassment in round one of the Season Beta 1.1 race after its self-driving car abruptly drove directly into a wall. It’s not certain what led to the mishap, but track conditions clearly weren’t at ..."
+    publishedDateTime: 2020-10-29T15:36:00Z
+    webUrl: "https://www.engadget.com/roborace-self-driving-race-car-drives-into-wall-142758048.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 54
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fb825ca40-19ed-11eb-bb3b-04bd00ecab5d&client=amp-blogside-v2&signature=254fb6ed3de8a2aa597ee4257fa5042443c273a1"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "JlXgo404wj2SxFUyhL5mcQOfpDfnlDdGk11/Dp42tzQvc8nbn56RXrDxknTJnEQRT9TApZ6QEciBWlNZyKuW1lwvDzv5P6ooTlxERjcDM/3uQhW34BeKPDVUhMBWTbYQcRe4E9EiCCwL108OXl/q0fNaqHDndR0kuU/1PwdKq+PNLePeiQOQ7BX3sAG6F4L7wmUKKl9snSlylW2Drss5UwxphGnhvFWk8WZnRcDkbn4ArY91PMvZdvJeexwR6kp5O7AuxtIIwSMs9T29vAxzdXEZWJSOTWUr11Ak6lnBBIJv6M14ZN7ykTynpgUDENjx2GBzHw4azKBzZ1LdXTWyiM+leDIyZnMRRlps3gyq9cFWfA/qj5SEXm6C0QlWZZLoi+Ib7j4vDdu4IeOx595zwoQfqg0Xk6PzIS0l7uF4i28mKfJD6EAR4LGsglhO1cvWcNpQOAtxz/XyZthYOwIbT68/ZU2qgNKtO2YZtaPQINYOqxrDECKKm4Cyu1gPgYKKc/Lhogx6OPQnKmLw3Bkvcw==;b2UwVfiG5ZL7Oa0Jx8c6mA=="
 ---

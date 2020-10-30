@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-30-trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research.md",
+      "title": "Trump faces executive order lawsuit as critical race theory fuels AI research",
+      "excerpt": "Google AI ethics co-lead Meg Mitchell told VentureBeat in a meeting with journalists last week. “This was a bit of an intervention with our first social scientists. So our team has been able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/29/trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research/",
+      "originalUrl": "https://venturebeat.com/2020/10/29/trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1228809983.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/29/trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research/amp/",
+      "publishedDateTime": "2020-10-29T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-the-ethics-of-killing-an-ai.md",
       "title": "The Ethics of Killing an AI",
       "excerpt": "Named after pioneering AI researcher Alan Turing, the Turing test helps determine when an AI is intelligent. Can a person conversing with a hidden AI tell whether it’s an AI or a human being? If he can’t,",
@@ -1373,59 +1425,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars.md",
-      "title": "Fast-Tracking AI Ethics Is Dicey And Shortsighted, Especially For Self-Driving Cars",
-      "excerpt": "There seems to be quite a rush to get AI systems out-the-door these days. Unfortunately, there is a devilish price to be paid in such a rush to judgment and the associated misguided assumption that the soonest AI is the best kind of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F488653868%2F0x0.jpg",
-          "width": 1200,
-          "height": 1107,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-10-01T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
       ]
     }
   ],

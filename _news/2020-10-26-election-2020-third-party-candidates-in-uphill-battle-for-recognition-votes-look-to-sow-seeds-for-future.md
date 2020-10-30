@@ -179,6 +179,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Facial Recognition For International Passengers at LAX"
+    excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
+    publishedDateTime: 2020-10-29T22:46:00Z
+    webUrl: "https://mynewsla.com/life/2020/10/29/facial-recognition-for-international-passengers-at-lax/"
+    type: article
+    provider:
+      name: MyNewsLA
+      domain: mynewsla.com
+    quality: 39
+    images:
+      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
+        width: 583
+        height: 300
+        isCached: true
 
 secured: "hmnwcBqLA+NZH09iy9H3GbNr+/QsK9uDKA8vtd3zGdvEKEoSaUqaHPY7VlfRTl0Ny5Fo0izq9lGC73NmGxsbTat/RyRjuNwWkB/C/JLjx2C4ttKvrpVM52brIE0Y3T9OfGUxVBEUzCrEU2/pNEIdXaLRGKhVnjJqR3+oxaCqUqgayB9PGURhVEoG7f5To37HT0fHHdLP55Vj76H+vV6HZK9/p9YnEdqca3URlYmIOygQa4p31XsJSmKn8RtwFxHInJHjp/bIKxiT9X2PLyY2GvA2OSefswpl0b6SNxjPS7MS8FWQBAdyKI2bBqjon/0MNlEHIm8sYSvZHgWet31yzuJ1FhW8xL0IVVoMhXbWt2voCZH3XKwOAW5NxD5zBn8C3gb7xXI3+4bYux1DrRSZ8ucsvmq2drMaskV6bhPuQu/9O+HqfonyAL7OBK+d1RoWCdXQtWA+e4dyxuvhk8JLOFooppy9VwGqnLpxV0/X/UkGM0ZHB4DOj8BgpKjhchNJH3mL6T3YkTXUiF19a4SwCA==;TzkocMkyd9WYhxeoivYZwQ=="
 ---

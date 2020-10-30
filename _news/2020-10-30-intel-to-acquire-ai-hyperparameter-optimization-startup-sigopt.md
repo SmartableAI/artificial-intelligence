@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-29T20:06:00Z
 originalUrl: "https://siliconangle.com/2020/10/29/intel-acquire-ai-hyperparameter-optimization-startup-sigopt/"
 webUrl: "https://siliconangle.com/2020/10/29/intel-acquire-ai-hyperparameter-optimization-startup-sigopt/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/intel-1-1.png"
