@@ -336,17 +336,31 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Daimler invests in lidar company Luminar ahead of self-driving truck launch"
+    excerpt: "In its announcement, Daimler said it will work with Luminar to help realize a goal of having a semi-trailer truck capable of handling highway situations on sale within the coming"
+    publishedDateTime: 2020-10-30T17:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130140_daimler-invests-in-lidar-company-luminar-ahead-of-self-driving-truck-launch"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 37
+    images:
+      - url: "https://images.hgmsites.net/hug/daimler-self-driving-semi-trailer-truck-prototype_100767932_h.jpg"
+        width: 1920
+        height: 1038
+        isCached: true
   - title: "Daimler invests in lidar startup Luminar to bolster self-driving truck effort"
     excerpt: "Daimler’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from Alphabet Inc."
-    publishedDateTime: 2020-10-30T13:40:00Z
-    webUrl: "https://www.autonews.com/mobility-report/daimler-invests-lidar-startup-luminar-bolster-self-driving-truck-effort"
+    publishedDateTime: 2020-10-30T14:23:00Z
+    webUrl: "https://europe.autonews.com/automakers/daimler-invests-lidar-startup-luminar-bolster-self-driving-truck-effort"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 36
     images:
-      - url: "https://s3-prod.autonews.com/styles/800x600/s3/ANE_170619841_AR_-1_UAAHVBCOZQPU.jpg"
+      - url: "https://s3-prod-europe.autonews.com/styles/800x600/s3/ANE_170619841_AR_-1_UAAHVBCOZQPU.jpg"
         width: 800
         height: 600
         isCached: true
@@ -358,6 +372,17 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Luminar gets financial backing from Daimler to help with self-driving truck tech"
+    excerpt: "Daimler Truck AG is taking a minority stake in Palo Alto-based Luminar Technologies Inc. to help develop technology that will allow it to develop self-driving trucks, the companies announced Friday. In a news release with a dual dateline of Palo Alto and ..."
+    publishedDateTime: 2020-10-30T14:56:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 34
 
 secured: "/AUx9IA+xI6Xw0y2qGlP89BhiUq8OTx8a4G/TrpFNxcUHlCwCxrtpH7N5S2a+J70TpznGHF48pBDIQZ6e+ZyFYaaJEc9zoKQr6gMrd1kcijf2zqGfQ8o7zHyYv4FbMJKU5SvRF82DuNtxL6D6eRLT+KsfycuBca7avABvv0cRz8bZfr27Ec9iBYtE6On1gsGmsYTJUtUa1jZaRGbL6Qoqexy+A1VnEDV3Ijg8XnuW9iy9PGZxUsRx39w+iLyNc0rO8MslYOi3Xw5uyvKmE09U99aZQ8M5kKZHdRxcQr7rMsc5+bj71J0pkTh/0Z42vL+/JC7llPj9mbbOif/cukRjz9txtFqZY6yrVN5OaQJh01GPugchBp0mtvtBGUgJ5lVB2HakBYDx8pe5W3z2rPtOuw2ESZLKrXqh79MqFvOwa8uijazqVBNXJYZCYXBhv9FnvFNmX+HmtG1A9P4NjGwXDOKR3VSyVCUmNckPbTztKfwQCjFeyYjzidzPPFvGZMaiKzZM8Z7dfgYED1+WEgTQQ==;tIpWWWtMG1PdBKaJdZdDHg=="

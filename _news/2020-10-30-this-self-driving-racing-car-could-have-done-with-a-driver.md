@@ -47,6 +47,38 @@ related:
         width: 1587
         height: 706
         isCached: true
+  - title: "Tesla's 'Full Self-Driving' is now a lot pricier"
+    excerpt: "Elon Musk wasn't kidding. Tesla's Full Self-Driving (FSD) set of features has become more expensive, increasing from $8,000 to $10,000. Musk has long held the view that FSD will become far more ..."
+    publishedDateTime: 2020-10-30T15:34:00Z
+    webUrl: "https://mashable.com/article/tesla-fsd-10000/"
+    ampWebUrl: "https://mashable.com/article/tesla-fsd-10000.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-10000.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F10%252F30%252Fbe%252F50e6cde1da7646e095c807f054da230e.9c26b.jpg%252F1200x630.jpg?signature=B1josSNIuhq320I9HGHojg22qJc="
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Watch Tesla Full Self-Driving Beta’s performance from the sky with scary near-miss"
+    excerpt: "Today, we take a look at an interesting new video showing Tesla Full Self-Driving Beta’s performance from the sky in a new drone video with a scary near-miss. As we reported last week, Tesla has started pushing the first version of its “Full Self-Driving” feature that autonomously navigates on both city streets and highways."
+    publishedDateTime: 2020-10-30T16:18:00Z
+    webUrl: "https://electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/"
+    ampWebUrl: "https://electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 83
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-test-drone.jpg?quality=82&strip=all"
+        width: 3480
+        height: 1494
+        isCached: true
   - title: "Tesla's Self-Driving Beta Fleet Is Generating An Immense Amount Of Data"
     excerpt: "Many experts warn against Tesla's approach to self-driving tech. It's too early in the game to know who's right, but relying on data should be a positive."
     publishedDateTime: 2020-10-26T14:22:00Z

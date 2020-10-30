@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How the Army plans to revolutionize tanks with artificial intelligence"
+    excerpt: "With the Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
+    publishedDateTime: 2020-10-30T17:42:00Z
+    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 39
+    images:
+      - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "YvlrFJFbqYp1NmDgCo/SteDJDtMShdQaJE4n7lpg84KdlTPeaag3aPZIADM/qCGlgVUE9DTRFwpsCsbM+uuFJfmBB+axob4GE6lTqadOMWq9VkCscxNswA5/2xVUD8V007BBJhTBpNQjfSsL/d5fTeOVm38Lfz4cVLbnoJ6AemX/90VUYYV0AOHrNTE2tYmSPC33LZVeb2t5LrC3NWArg9z1NXl3bpkTt7xY/4DilwNSG4s/sDQxyE2a3W91GNb7YsCYTgVaheU93It0aXpajDALa4WpCcjhz5oQe6h69aWcGeCEq2NJh0wimDptgZUZY8TZg/MTNPV7PmkXmW+t6hA2q7eM9jIMnEExtcfW6JD+R4LoTewTh8khZRX4JVdCrrS1GlY4fdQWRVXvHV1eMvpFHq/4ffAijmMZjMkVfp5PYWZTKaNBHWYLGjas4+fLqWu0RZChrBOKBqgOuLWwu1X4yV5a6yX0LPYlqdiaskXrlcK0nAOp0i/YcCdWo7yGsOGrOQpiCKUBkpXQZU/f+g==;pOcXUScY042RxiFY0/vicg=="
 ---

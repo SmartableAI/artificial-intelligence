@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Racecar Hits Accelerator, Immediately Crashes Into Wall"
+    excerpt: "A self-driving racecar had a terrible start during the first-ever live broadcast of Roborace, a competition in which autonomous electric racecars go head to head As soon as it started its lap ..."
+    publishedDateTime: 2020-10-30T16:40:00Z
+    webUrl: "https://futurism.com/the-byte/self-driving-racecar-immediately-crashes-into-wall"
+    ampWebUrl: "https://futurism.com/self-driving-racecar-immediately-crashes-into-wall/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-racecar-immediately-crashes-into-wall/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2020/10/self-driving-race-car-takes-off-immediately-crashes-into-wall-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "/PoTQNwSdKzp18HOOEcz5fwXbqm5WJTwrLPJxhBfbyVfveUox2r8veWZbrpxPOh7zmcgnzNf3lvW2KWMz53BzpbJ4uo56za2juESnXxdaSNLfFCCFILkts2qJ+JUEol/DIaSJ+3koIgk2MPeaDGvgTiNnr187Nnj7WpNY5sl31ZcRdwnRQH7ZKqM2HF/fZRAFfeACaNUkKAk1z/qnOaVTokO4IXXCGP4mMRgW431Gkz01mm3cym73UluFc29nvBoagPLpQgBEhMKSabiXMsE/3xWvG35SzooefhwbX+Stc6ewGQWFHNBMWJc0Vzq0y0croaBuwsehab1hrqfdU4pDjqow9BYj1Mr049M3l1NUokIOoXlN1bpyYz6Cv6BeaQtMjHsvDaYkrnH7HpDrusO5wYkgmxb+F/qaHiO8gDLUrpwuVyNrymFYYNufnf0dGAkScE56BgsCfavUmwC/LA5BqQmb6zPvimjzqLe9MF09pYYjmhgcL2IEC3c0zFupxFwF61wXj+Mujz3OKnerFOswA==;5Z0SUGOXha1RnaEd8f1PzA=="
 ---

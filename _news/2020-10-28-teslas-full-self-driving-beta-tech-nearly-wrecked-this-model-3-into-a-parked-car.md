@@ -73,6 +73,22 @@ related:
         width: 1851
         height: 853
         isCached: true
+  - title: "Tesla bumps up the price of its Full Self-Driving tech to $10,000"
+    excerpt: "Even for the wealthier individuals that most Tesla vehicles are targeting, an extra $2,000 might be a tough pill to swallow, especially when the technology is"
+    publishedDateTime: 2020-10-30T16:13:00Z
+    webUrl: "https://www.techspot.com/news/87376-tesla-bumps-up-price-full-self-driving-tech.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87376-tesla-bumps-up-price-full-self-driving-tech.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87376-tesla-bumps-up-price-full-self-driving-tech.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-30-image-11.jpg"
+        width: 1680
+        height: 868
+        isCached: true
   - title: "Tesla's Full Self-Driving beta is a reminder autonomous cars don't yet exist"
     excerpt: "Driving beta running with drivers behind the wheel bring a moment of pause. The videos seen here show off what I'm sure are just a tiny sliver of incidents Tesla owners experienced since the technology starting rolling out to cars in beta form last week."
     publishedDateTime: 2020-10-27T15:41:00Z
@@ -214,6 +230,22 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2020/10/tesla-full-self-driving-neural-network-1024x501.jpg"
         width: 1024
         height: 501
+        isCached: true
+  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
+    excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
+    publishedDateTime: 2020-10-30T14:15:00Z
+    webUrl: "https://www.9news.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.9news.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    type: article
+    provider:
+      name: KUSA
+      domain: 9news.com
+    quality: 59
+    images:
+      - url: "https://media.9news.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Tesla's Full Self-Driving Beta 'Learns' Roundabouts And Speed Bumps"
     excerpt: "Tesla's FSD system is \"learning.\" As you can see, it appears to make corrections once test drivers \"teach\" it."

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Texas Taps Artificial Intelligence to Expand Access for Low-Income and First-Generation Students"
-excerpt: "High school students across the state of Texas have a new resource to guide them through the college application process, thanks to a"
-publishedDateTime: 2020-10-30T14:49:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/texas-taps-artificial-intelligence-to-expand-access-for-low-income-and-first-generation-students/article_e1592f47-ae5a-5762-9b68-5c774bc5392e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/texas-taps-artificial-intelligence-to-expand-access-for-low-income-and-first-generation-students/article_e1592f47-ae5a-5762-9b68-5c774bc5392e.html"
+excerpt: "High school students across the state of Texas have a new resource to guide them through the college application process, thanks to"
+publishedDateTime: 2020-10-30T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/texas-taps-artificial-intelligence-to-expand-access-for-low-income-and-first-generation-students-301163845.html"
+webUrl: "https://www.prnewswire.com/news-releases/texas-taps-artificial-intelligence-to-expand-access-for-low-income-and-first-generation-students-301163845.html"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/89/c8953a2c-6e57-588e-84bb-4ab50a662a99/5f9c0fd3a0876.image.jpg?resize=400%2C208"
-    width: 400
-    height: 208
-    isCached: true
-
-secured: "53DFASBD2PutEI0xZV5VGAC3szXfR6fiAA0xIZFGKCKHOO3KsJYxrfRStB9Jw89O/PESJmyuxCnnyWW8033t1hx9Ob5EFhHHws5sODypKze8/fC/RklHyS5aI2HFcbKVKJWL9PxFZn07lpfOPx61T3CwymzTRcXYR++aUhMvy1pdBycj6kO25HSywIGFbS2WEo1//1BHlU9cl1MJ89l0pZuP3hgMdhDmQ1+AYWqdBvPzGTbtF7NMNdVpCpQuQIQLziB9TLnSdPS2HlwXr9mALFw89JZo1aU4280Cm3S9iDxriU2eUGxyyefOoVpxdcGSRmBul4Y1DggYaol3X5+/uTvzTKCUh8lzl3KtXkVPfpA=;x3WB5LxrrRvOE3iPbPY7Vg=="
+secured: "t5Ei8AOnyyjAimziG/ODywf1G1IP+eYNG8Qox2lGR1P4CN/lTDyQ6zAMo0RX+lc9gClRL306+euj8mKhIPdLkXfsqF+Z1lvm7iGvmWk+fn4Ku02xkGG9czzzIsj8RqY3Q3E5hREv82rPH998ehnC4AOXDLzB221FH2N7iuwnljRYoatUyagmu9lIsU7qH4/NWua7urVGZPT6ukqPc+aEEI87yvZr/09NE9O49HtfwbMUqw5sLxOt/DU6AUCIi5hZlXZ8VC0SIabO/Q/F24JTVaY047m0gQvYy2+HYHp9jCDS3V3OgPw00o2K3K1D/3qDSLggktOT+jTm4ZMGA8OVN683tppiXbwHxhFrVEPtjRE=;2YocmpKQjtGn96G2vohuiA=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Daimler invests in lidar startup Luminar to bolster self-driving truck effort"
 excerpt: "Daimler’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from Alphabet Inc."
-publishedDateTime: 2020-10-30T13:40:00Z
-originalUrl: "https://www.autonews.com/mobility-report/daimler-invests-lidar-startup-luminar-bolster-self-driving-truck-effort"
-webUrl: "https://www.autonews.com/mobility-report/daimler-invests-lidar-startup-luminar-bolster-self-driving-truck-effort"
+publishedDateTime: 2020-10-30T14:23:00Z
+originalUrl: "https://europe.autonews.com/automakers/daimler-invests-lidar-startup-luminar-bolster-self-driving-truck-effort"
+webUrl: "https://europe.autonews.com/automakers/daimler-invests-lidar-startup-luminar-bolster-self-driving-truck-effort"
 type: article
 quality: 36
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/styles/800x600/s3/ANE_170619841_AR_-1_UAAHVBCOZQPU.jpg"
+  - url: "https://s3-prod-europe.autonews.com/styles/800x600/s3/ANE_170619841_AR_-1_UAAHVBCOZQPU.jpg"
     width: 800
     height: 600
     isCached: true
@@ -342,6 +342,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Daimler invests in lidar company Luminar ahead of self-driving truck launch"
+    excerpt: "In its announcement, Daimler said it will work with Luminar to help realize a goal of having a semi-trailer truck capable of handling highway situations on sale within the coming"
+    publishedDateTime: 2020-10-30T17:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130140_daimler-invests-in-lidar-company-luminar-ahead-of-self-driving-truck-launch"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 37
+    images:
+      - url: "https://images.hgmsites.net/hug/daimler-self-driving-semi-trailer-truck-prototype_100767932_h.jpg"
+        width: 1920
+        height: 1038
+        isCached: true
   - title: "Waymo strikes self-driving lorry deal with Daimler Trucks"
     excerpt: "Waymo is partnering commercial vehicle group Daimler Trucks to power big-rig lorries, as Alphabet’s driverless technology unit moves its technology beyond carrying passengers to hauling freight. John Krafcik,"
     publishedDateTime: 2020-10-27T13:07:00Z
@@ -350,6 +364,17 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Luminar gets financial backing from Daimler to help with self-driving truck tech"
+    excerpt: "Daimler Truck AG is taking a minority stake in Palo Alto-based Luminar Technologies Inc. to help develop technology that will allow it to develop self-driving trucks, the companies announced Friday. In a news release with a dual dateline of Palo Alto and ..."
+    publishedDateTime: 2020-10-30T14:56:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 34
   - title: "Waymo and Daimler to build self-driving trucks"
     excerpt: "Daimler Trucks and autonomous driving technology vendor Waymo are partnering to deploy self-driving SAE Level 4 trucks for future transportation logistics operations. The initial collaboration will combine Waymo’s automated driving technology with a new version of Daimler’s Freightliner Cascadia to enable autonomous driving."
@@ -361,6 +386,6 @@ related:
       domain: globalspec.com
     quality: 34
 
-secured: "H01wbKVJjtQZaHTsBoOQAVdwWWy/+OaixiThBl+GmF+amsEIRIuCePWOKdXGbSx9e+z4UvNth/0rqq802+NpIPqWkWfsx1wsB8lUlw2gO/f2vC3eOg9Kxi1lWAx1LDCh31sQhCiHOLs4dfQ+fA3OInNLKS5F3RKlfbA1tmRr+dwgH6HTD6V8EAZzzwp8gl4QdyLCzLfBBuQO6OW123tJr/ZK1dZKGgMSJtpokbcfxeu1xy6Axj34IiJyuyDXsQXrXrGJhBQ3ISuSC1+D5YXVg491keAnYg4nKltjbxys/zTOWTJLW+1/uH96sd6fMtXRqoXUXkG0uaavsDRyxXj3HKzlVrCqz4LnemmCCWZ4OSQ=;DvJJJhFC3C+HudgIlR1POQ=="
+secured: "1LA6q9Jozduzjpr4O3RyB6JQ2TRe8Cg6v1UpSc7NGPHcIHxxjA6LrXx5rxoBlJ55K9VKkBpjevgEnqCSpVyUyzWYC9b4jHwGmN+VORqlAX3nV50TYOK+OlioxKAzCZt96/Utl2tpmTTpCNCfZvvVrig0WGaJWOZwBFyv0F1Y+NsjRhZBfNxiP/EFK+ye1yAljAM0fusBeHRYgyjjWyfBrXQF0Kcfb+XWOhuECGk+n59YHgMcRIg1qykwG8GFNWJNDgB7hC5O+Yf+/X0ApalVEn5uqqWJEuxQ8RpXrQL/nwK1BOJ9sROrNcgKPvW7dvg0tMarwhICaHY04wHHqofIaplWH3YOGbnCRvTi0prao9E=;/MY0x+AR1TGOXCG9WdvM3A=="
 ---
 

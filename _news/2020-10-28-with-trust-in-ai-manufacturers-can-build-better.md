@@ -48,6 +48,17 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 30
+  - title: "Woman Extradited From Australia To Face Charges In 2017 Fatal Hit-And-Run"
+    excerpt: "Andrea Chan Reyes fled the U.S. after the fatal crash, and lived in Hong Kong and Australia, where she was arrested. Suzie Suh reports."
+    publishedDateTime: 2020-10-30T17:22:00Z
+    webUrl: "https://lasvegas.cbslocal.com/video/4834175-woman-extradited-from-australia-to-face-charges-in-2017-fatal-hit-and-run/"
+    ampWebUrl: "https://lasvegas.cbslocal.com/video/4834175-woman-extradited-from-australia-to-face-charges-in-2017-fatal-hit-and-run/amp/"
+    cdnAmpWebUrl: "https://lasvegas-cbslocal-com.cdn.ampproject.org/c/s/lasvegas.cbslocal.com/video/4834175-woman-extradited-from-australia-to-face-charges-in-2017-fatal-hit-and-run/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 23
 
 secured: "/7Ff2gvMvY5hnGZ9oszfaD5qpZJPJm2UChvdvy1E9TeR9Fmhs6r0wccEKbg5UGrdFNTbJNkY0aNuTMi6r5iUxDJDu66sf2JIINppZ2H5Jj5BSLjq8QOZzRarxpMO2kvUKdK5YFvx0CZb7TTrR3xrhgWNWr4AevYtYju6ugEHC8nczbS331fZiQHWk52WMfDKSu1sGyBT+zS7WI1EntCy6dZbLtHklszRCbdiQbxBrjM3Au0gxb/tqykwTwtxr6kKa8JJecrn/MzTZnCWGO1vnlN2ddFrc64J1XOnTMPqBDc4ZyDcY9rf09U1QJVMfVUPsl15b2wBmYqN7N5xwVb3Yz0HnCSHSB3APnjd4qoETwkiW48Nw9914as5BSIK7sGfePvzJwGF1aYDVhAY3GB81FliYx4arBVHPVLlzAu2a7fW8VhYqYdzlPIScDG9XxOEV3ca9xR+zrkGnT9ceWUIHIuzrVmZlcgYQ/t8yPuMs5EDLihRUC2NTVub5Io4FeyddVfrEpsGdPJNIpdw8ypDKA==;hmLv9606zMhoESus3CUKDQ=="
 ---

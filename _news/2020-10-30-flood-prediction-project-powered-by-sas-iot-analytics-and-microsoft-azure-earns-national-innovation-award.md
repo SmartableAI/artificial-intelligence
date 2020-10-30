@@ -30,20 +30,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 99
-  - title: "Microsoft to Build the First Azure Cloud Data Center in Taiwan"
-    excerpt: "As China continues clashing with US on trade and tightens control in Hong Kong, the cloud giant plans a new strategic foothold in the region."
-    publishedDateTime: 2020-10-26T00:00:00Z
-    webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-build-first-azure-cloud-data-center-taiwan"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 69
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/taipei%20skyline%202020%20getty.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft Azure to build a first cloud data center region in Taiwan"
     excerpt: "Its existing Taiwan Azure hardware systems and infrastructure ... in cloud software and hardware infrastructure for AI, IoT and edge products. Meanwhile, Microsoft’s training initiative in ..."
     publishedDateTime: 2020-10-28T00:46:00Z
