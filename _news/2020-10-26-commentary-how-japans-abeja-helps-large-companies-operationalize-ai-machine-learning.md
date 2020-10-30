@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning/amp"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Commentary: Recognition is key to domestic violence"
+    excerpt: "Arkansas has been ranked among the top 10 states in the \"When Men Kill Women\" report published annually by the Violence Policy Center. It's a Natural State disgrace. The rankings the past four years have been: sixth in 2017,"
+    publishedDateTime: 2020-10-30T05:58:00Z
+    webUrl: "https://www.newstribune.com/news/opinion/story/2020/oct/30/commentary-recognition-key-domestic-violence/847176/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 4
 
 secured: "opymN0yfpPXgUpecYUzneBoBKpA+kkUqew3h1sIWouQaVgzQFO6ST1DQQQAlVUBXlYaDu5dwcHpv7Uo4IMa0LU+uhsbxBQYJZNE1BlN6rFrG7yxSqt5J8tZHYWLt8m2ONIRmb9gwieQsohdSzYiGvP2kfDh5fsZCCvN0nZ7by83fGmrLtFOBGA0Ne4V0YN61FntGHZwhlOPEpcpN/A54xyF06iexuq5zavU3BtTI89hXIcD4S4MyfGoBbZZRAt9fUmRktT10ADk4FtZAe8AsiL48izsfL4zEALlZPTtWTRcxH9qcPSn/bC9sCdw5bu3718pYLFoCl2xBnM/7BQE6gqCXs37Lv9LVCSH8Fyl9ey8zJuEqNW2Kmco+8MA/wOH72HDOpLrXqXtnnZq2WnE98yW28v9FD7v9+x+94sPRYQAPwWr91V/c5L/JysRAPN1Wi0NxfNiQj/se1+0xQ4V6RZ5HupGKR3cqhdADGZhcstfMwEeLSUR9CsAMgIftyR4nQ8m2/8nLQVBVxzXH9zkeYQ==;R+wZN9DJsmAvRiYZkaszLQ=="
 ---

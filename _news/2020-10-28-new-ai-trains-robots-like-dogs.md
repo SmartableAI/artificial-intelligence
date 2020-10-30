@@ -49,20 +49,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Grades, And Artificial Intelligence"
-    excerpt: "If you ask about your grade, I’ll gladly tell you that you’re doing well in the course, or that you really need to do better, as the case may be. More specifically than that I will not say. The main reason for this is that if I were a hiring manager at ..."
-    publishedDateTime: 2020-10-29T19:24:00Z
-    webUrl: "https://www.science20.com/fred_phillips/grades_and_artificial_intelligence-251477"
-    type: article
-    provider:
-      name: Science 2.0
-      domain: science20.com
-    quality: 37
-    images:
-      - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"
-        width: 300
-        height: 261
-        isCached: true
 
 secured: "P/GYxeDeMbaau9p4KPyiWAoj28eWF114ubOaeHGdN9BDS/6QUNbWrUvW0BmYgtvN9UA1IbwRfPtQN+o1KGJgtJwIzBfQ1oMTCl1nCAVUCV9qY5bRpbWMwXDO8kWYAJxGDtERggaTIjmaf1t3m53Sxew+vMWzb+PbeTOaqF0qNwkB9frYlPprCbvM6AEarsSdL7i8UfAOcamatXR4WFt+TRzKec2ToxUaLGHmMGGDvE5ccBxVqQuVJRYQMPY7t5pyjPeKVjIHr1T7okKJVKVNWgMOZepmYa2qCNaL5Lb96oI40zPIbSHzaWqr+x1B+aQfhCbm1j68yuHH5pHnq6FkVWf15Rosfx7gC4H+CYy65txDrf4Gjwx6j6ETBnNsKR2mCUPP5SXcBUz9k9ueF3f3rIu0FDuhdWFpPk/gxiKslibUhZWZp9YxavUIOtMg8/2PP1m7EQV0z/nXR0ECzfoLHDhDoadAdcS52YuEWBObbtY+UQm+XMDuW6TfhRER5oofzBFH/LPu2+92e1Y/HGgU0g==;ctM00fmVegnK9Gmf4AidmA=="
 ---

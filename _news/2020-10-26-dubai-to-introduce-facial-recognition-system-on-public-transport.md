@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai Introduces Facial Recognition On Public Transport"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition."
-    publishedDateTime: 2020-10-25T12:32:00Z
-    webUrl: "https://www.barrons.com/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
-    ampWebUrl: "https://www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP5132118745041328236684635701140320891084-transport-diplomacy-uae-security-dubai-technology-1.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "Coming soon: Facial recognition system for Dubai Metro stations"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday as a new simulation and training facility was launched for the Transport Security Department in the emirate. The Hamdan Smart Station for ..."
     publishedDateTime: 2020-10-25T17:41:00Z
@@ -107,21 +91,21 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Dubai introduces facial recognition on public transport ahead of global Expo"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
-    publishedDateTime: 2020-10-25T12:42:00Z
-    webUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-    ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+  - title: "Face Recognition Systems Market"
+    excerpt: "According to Market Growth Insight, the Face Recognition Systems Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX% over the near future. The report delivers thorough analysis of the key drivers, opportunities ..."
+    publishedDateTime: 2020-10-29T11:34:00Z
+    webUrl: "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
     type: article
     provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 71
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
     images:
-      - url: "https://vid.alarabiya.net/images/2020/10/25/1c064d49-8679-4ea3-8df5-502e0dc16e72/1c064d49-8679-4ea3-8df5-502e0dc16e72_16x9_600x338.jpg?width=466"
-        width: 466
-        height: 262
+      - url: "https://cdn.openpr.com/T/a/Ta29239767_g.jpg"
+        width: 750
+        height: 350
         isCached: true
 
 secured: "5x5q4KU8PUpzLpk4kA7447rColIYkQsTBrl3q1vL10MYj99pi2y5inrg2079NLDD5d8OzRp41AmcsQQsE5+ix5yq6iZdg6HNxaQirpHy0OB9vI9fu0A7UvQLUyjm1v1uQXIBi4GKx0iCJOpFarvKcl2QriopPNKchPSxZgSrlFF9n3zXGQmAXXhxW33a755kjTsnqzcIoKYVEpUPOFSEh+bFUOQiMESWy80II4Jk4qBYyQQUq4h3t7zFhuHuUsTv8p20OKWCb42P55Tcs1KQf9zR6f/JerZZsaJcMQ0G7hiEnx4xD+DzqhAL9k6/dayjyf+rfrDJ1eu4yUKUHYMDQGIcI0Ue/bChUZy2bqF8gmI=;xHxoQHN74N9NK8kySxIk0w=="

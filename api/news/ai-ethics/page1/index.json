@@ -98,50 +98,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-the-very-human-labor-that-powers-artificial-intelligence.md",
-      "title": "The Very Human Labor That Powers Artificial Intelligence",
-      "excerpt": "Crowd-working platforms like Amazon’s Mechanical Turk obscure—and exploit—the human labor behind the digital age’s shiny successes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenation.com/article/society/amazon-mturk-artificial-intelligence/",
-      "originalUrl": "https://www.thenation.com/article/society/amazon-mturk-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenation.com/wp-content/uploads/2020/10/keyboard-dark-ss-img.jpg",
-          "width": 1440,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenation.com/article/society/amazon-mturk-artificial-intelligence/tnamp/",
-      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/society/amazon-mturk-artificial-intelligence/tnamp/",
-      "publishedDateTime": "2020-10-27T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Nation",
-        "domain": "thenation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-25-theres-no-turning-back-on-ai-in-the-military.md",
       "title": "There's No Turning Back on AI in the Military",
       "excerpt": "with commercial technologies like cloud and AI—all to shoot down cruise missiles in split seconds—is a harbinger of things to come. Are there disproportionate safety and ethics challenges ahead for the US? Yes. And ours will be the higher road.",
@@ -1401,6 +1357,49 @@
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
       "publishedDateTime": "2020-10-02T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-mit-report-how-ai-changes-the-world.md",
+      "title": "MIT Report How AI changes the world",
+      "excerpt": "Building Workforce Skills for AI As the world becomes more digital, artificial intelligence (AI) is increasingly critical to the way we do business. Leaders are no longer deciding",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
+      "publishedDateTime": "2020-10-02T05:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",

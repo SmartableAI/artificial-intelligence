@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai Introduces Facial Recognition On Public Transport"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition."
-    publishedDateTime: 2020-10-25T12:32:00Z
-    webUrl: "https://www.barrons.com/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
-    ampWebUrl: "https://www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP5132118745041328236684635701140320891084-transport-diplomacy-uae-security-dubai-technology-1.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "Coming soon: Facial recognition system for Dubai Metro stations"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday as a new simulation and training facility was launched for the Transport Security Department in the emirate. The Hamdan Smart Station for ..."
     publishedDateTime: 2020-10-25T17:41:00Z
@@ -107,21 +91,21 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Dubai introduces facial recognition on public transport ahead of global Expo"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
-    publishedDateTime: 2020-10-25T12:42:00Z
-    webUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-    ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+  - title: "Face Recognition Systems Market"
+    excerpt: "According to Market Growth Insight, the Face Recognition Systems Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX% over the near future. The report delivers thorough analysis of the key drivers, opportunities ..."
+    publishedDateTime: 2020-10-29T11:34:00Z
+    webUrl: "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
     type: article
     provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 71
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
     images:
-      - url: "https://vid.alarabiya.net/images/2020/10/25/1c064d49-8679-4ea3-8df5-502e0dc16e72/1c064d49-8679-4ea3-8df5-502e0dc16e72_16x9_600x338.jpg?width=466"
-        width: 466
-        height: 262
+      - url: "https://cdn.openpr.com/T/a/Ta29239767_g.jpg"
+        width: 750
+        height: 350
         isCached: true
 
 secured: "gUfvNO2Ag8MjqAYdm8MkKtRUS44Z4qwmnxL2ywhLyDt41qIjuZnUJvykvNGYDGvYCEM4zPcO9/fZKS8G488UnEiXdx9srQbn+gx8OkMEiMKmEnfdGQVCr5skXp77PPUSPlZf4PsT9YHFJSRkpJ/nq5soJvWTjY54K00nrCASwlse0BJenbbIrSTXNfqadw9QaVoFpOI8dbbQ7d1tRSD6YUvzqGgdODzK8V2hXlR67C6jmuHGGZt8l2q+zhZfE+DpCJGb2NbaUCo23Vv8UrekEsaZYCsdCdvYY2FdRkfSdUifk7yLXbaK5u0vx9Y2bCjOflmmDhCeFsjZ2vT8nC+C8YNBRdZMi/SyWBGn8Cmma98EIidNa1TIkUGRV/TVrYAMo9wxMw/otT97+7sz0SvpwX8X/w7S6NAwTp6vF7vu/9b5JZJwtDxvUikg2R2BVrsPyCgPnMCMxDMIGfWDqmTjww0Iyr4K+dcfejIx2jo8KXsUMjfYXIPqRdtFbHMp3rXiEGWhGNjg8l/kkkWaxsmB1A==;sVAQIzxGmsXaohMEejJnJw=="

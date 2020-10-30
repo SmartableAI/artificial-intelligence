@@ -24,44 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
-    excerpt: "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
-    publishedDateTime: 2020-10-27T18:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330"
+  - title: "Grimes and Endel made an AI-powered lullaby"
+    excerpt: "Synth-pop artist and Cyberpunk 2077 cast member Grimes has teamed up with mood music startup Endel to create an AI-powered soundscape designed to help you drift off. \"AI Lullaby\" blends vocals and original music from Grimes with personalized sounds that an algorithm in real-time."
+    publishedDateTime: 2020-10-28T18:00:00Z
+    webUrl: "https://www.engadget.com/grimes-endel-ai-powered-lullaby-174840113.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-  - title: "New AI Trains Robots Like Dogs"
-    excerpt: "Can robots be trained with positive reinforcement just like dogs? Reinforcement learning is an artificial intelligence (AI) concept inspired by behavioral psychology. Researchers at Johns Hopkins University have developed a new method to train robots that efficiently improves upon state-of-the-art reinforcement learning artificial intelligence algorithms,"
-    publishedDateTime: 2020-10-28T00:00:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202010/new-ai-trains-robots-dogs"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202010/new-ai-trains-robots-dogs?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202010/new-ai-trains-robots-dogs?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
+      name: Engadget
+      domain: engadget.com
+    quality: 67
     images:
-      - url: "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-10/picd342.jpg?itok=DtmpARtY"
-        width: 320
-        height: 219
-        isCached: true
-  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
-    excerpt: "SUNNYVALE, Calif., Oct. 27, 2020 /PRNewswire/ -- Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
-    publishedDateTime: 2020-10-27T12:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-301160206.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 53
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Ff9846a00-1943-11eb-9d32-9025de2f2370&client=amp-blogside-v2&signature=f9cf7ac75b95c6a09a0c8be6bbb882d306848937"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "15OdabzbqQIpLtRHlBtNyrYuG9YsIrMW43BGzABUfYg4MVcLjL266B2E7FnTEZDzuevdz+6s/Y65wzwoFiQuf5XBb/FGnDaVhJWR1/9IrSWqGb780N2oK2QG7QjuJ74PTR91z+McnVkw7uNPHna0QHwJPEf8BxiOP5MFcd1Gw/i5Vhocasi1xUywH3EAMeGLCw3QPzpLLywM+x2fR1l9AZLgeH+1dRgeiLpDsf9inYCEJUQ/ZvtT5RHG3jOL+zTJ7il6dfD4akbebFXjnqmkYuLzM8VC6UYGUxkh0iGvjqTXH5o4mn/PxzhQEJaul7Se3VN/rg+/M4bIz+Cl0bFsKYXRMonR2Ht2BdO0P+UWf9U=;QQj9tANflN9gGypZW6hdIQ=="

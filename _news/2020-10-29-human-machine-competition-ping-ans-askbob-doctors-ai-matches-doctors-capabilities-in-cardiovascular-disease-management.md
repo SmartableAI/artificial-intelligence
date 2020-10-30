@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-29T08:26:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-cardiovascular-disease-greater-china-4ed71dab2e8b82182f87cbb20b66bb6f"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-cardiovascular-disease-greater-china-4ed71dab2e8b82182f87cbb20b66bb6f"
 type: article
-quality: 11
-heat: 11
+quality: 13
+heat: 13
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

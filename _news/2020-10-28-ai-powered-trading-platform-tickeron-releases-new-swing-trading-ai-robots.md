@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-trading
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Grades, And Artificial Intelligence"
-    excerpt: "If you ask about your grade, I’ll gladly tell you that you’re doing well in the course, or that you really need to do better, as the case may be. More specifically than that I will not say. The main reason for this is that if I were a hiring manager at ..."
-    publishedDateTime: 2020-10-29T19:24:00Z
-    webUrl: "https://www.science20.com/fred_phillips/grades_and_artificial_intelligence-251477"
-    type: article
-    provider:
-      name: Science 2.0
-      domain: science20.com
-    quality: 37
-    images:
-      - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"
-        width: 300
-        height: 261
         isCached: true
 
 secured: "VWMk4Hc2fUB6JKelWkLs0n8qihJKxmrwuIEf+mASuQIlPKHHSOp2Tuwmc7OJDvg4lgIXtjPzfaq6Amppx+ZkxjWlG2r4Xav2Z9zBW/XFCaUBPrmcDBYB1DICtIKuB99HCN3PrP5LWudQD4x/K0S0ciyc6tzOd9KrXCXD1U5pDqqL80lNCHQu80WXOrZxeKLGrY2JuPNwKm3sw0Cf3aWOGfPw4HEvr/wbKY0yMWkokkrV4NapgXyQ0MU+0M7EPK9+a+PA8kMCBN0SPPqXc0RjXztpSidYcPhmlLgfX0N59kSITjvfya9OsKbkUvrFsCc3Bc7y4TRXwhBZBBnuogMd4gEXZnvN+uvE/v31MdRKXBI=;M28Amf3chvjl+SaKbNbIYw=="

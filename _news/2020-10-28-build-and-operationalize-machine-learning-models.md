@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Commentary: Recognition is key to domestic violence"
+    excerpt: "Arkansas has been ranked among the top 10 states in the \"When Men Kill Women\" report published annually by the Violence Policy Center. It's a Natural State disgrace. The rankings the past four years have been: sixth in 2017,"
+    publishedDateTime: 2020-10-30T05:58:00Z
+    webUrl: "https://www.newstribune.com/news/opinion/story/2020/oct/30/commentary-recognition-key-domestic-violence/847176/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 4
 
 secured: "gfpJjxe9H0u/5a5jVXA3rPTvx+J6GCTVGl13x+YH3KZH+5M0Wj5t7pTuRPXAXzy5bGIAGczzuHSkbKqoYTgq0PQM7VJ4t5jWTS5aKKq7h0936bgQe0nRMQnRjsEbcJ8jxzr+LFLuC12gIoXzilleUCzFSBhRwPmiLYoTmKkWzMqRIaKrl4hssrTc2vyDqfbrZX9KDjaNLWWE8RaReJqGJY5JXhyngkGkI8XF4uAUKuYapdXoU0eEcvGVQ0DC2043C1JjVc0jhPf676ofxxtSIw4dsz7UMsUGq3iiBvLPFXXG4KwYI8Q97a4sDa+gXdks+tcBX2gRtv8soH1P/X9FaJlEfXywT7gNQF1NsbWmaSs=;paFSHTC5bcT6Q+u38BBk+A=="
 ---

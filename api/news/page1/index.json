@@ -730,49 +730,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-face-recognition-systems-market.md",
-      "title": "Face Recognition Systems Market",
-      "excerpt": "According to Market Growth Insight, the Face Recognition Systems Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX% over the near future. The report delivers thorough analysis of the key drivers, opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
-      "originalUrl": "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta29239767_g.jpg",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
-      "publishedDateTime": "2020-10-29T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-29-sibros-to-accelerate-adoption-of-advanced-vehicle-connectivity-solutions-on-aws.md",
       "title": "Sibros To Accelerate Adoption Of Advanced Vehicle Connectivity Solutions On AWS",
       "excerpt": "Deep-connected vehicle platform Sibros announced on Wednesday its collaboration with Amazon Web Services (AWS) to accelerate the adoption ... diagnostics and artificial intelligence (AI)-powered analytics. The company also securely manages all in-vehicle ...",
@@ -833,7 +790,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/29/mastercard-and-capital-one-talk-conversational-ai-and-why-fintech-of-every-size-must-invest-vb-live/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1159,6 +1116,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-grimes-and-endel-made-an-ai-powered-lullaby.md",
+      "title": "Grimes and Endel made an AI-powered lullaby",
+      "excerpt": "Synth-pop artist and Cyberpunk 2077 cast member Grimes has teamed up with mood music startup Endel to create an AI-powered soundscape designed to help you drift off. \"AI Lullaby\" blends vocals and original music from Grimes with personalized sounds that an algorithm in real-time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/grimes-endel-ai-powered-lullaby-174840113.html",
+      "originalUrl": "https://www.engadget.com/grimes-endel-ai-powered-lullaby-174840113.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Ff9846a00-1943-11eb-9d32-9025de2f2370&client=amp-blogside-v2&signature=f9cf7ac75b95c6a09a0c8be6bbb882d306848937",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },

@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-10-27-ai-improves-control-of-robot-arms.md",
-      "title": "AI Improves Control of Robot Arms",
-      "excerpt": "A team of Stanford researchers has developed a novel way to control assistive robotic arms that is both more intuitive and faster than existing approaches. New AI enabled robot controllers allowed sub",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2020/10/ai-improves-control-of-robot-arms.html",
-      "originalUrl": "https://www.nextbigfuture.com/2020/10/ai-improves-control-of-robot-arms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2020/10/airobotarms.jpg",
-          "width": 960,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2020/10/ai-improves-control-of-robot-arms.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/10/ai-improves-control-of-robot-arms.html?amp",
-      "publishedDateTime": "2020-10-27T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-27-mits-autonomous-boat-takes-on-amsterdams-vast-canal-network.md",
       "title": "MIT’s autonomous boat takes on Amsterdam’s vast canal network",
       "excerpt": "MIT has tested a new version of its autonomous \"Roboat\" on Amsterdam's canals. It could be used to transport people, ship goods, or even clean up waterways.",
@@ -495,7 +452,7 @@
       "originalUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -971,6 +928,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-26-coming-soon-facial-recognition-system-for-dubai-metro-stations.md",
+      "title": "Coming soon: Facial recognition system for Dubai Metro stations",
+      "excerpt": "Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday as a new simulation and training facility was launched for the Transport Security Department in the emirate. The Hamdan Smart Station for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations",
+      "originalUrl": "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.khaleejtimes.com/storyimage/KT/20201025/ARTICLE/201029285/AR/0/AR-201029285.jpg&NCS_modified=20201025182405&exif=.jpg",
+          "width": 1194,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations",
+      "publishedDateTime": "2020-10-25T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-researchers-suggest-ai-can-learn-common-sense-from-animals.md",
       "title": "Researchers suggest AI can learn common sense from animals",
       "excerpt": "AI practitioners can draw lessons from scientists working with animals to train reinforcement learning agents, a recent paper found.",
@@ -1031,7 +1031,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {

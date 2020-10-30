@@ -9,8 +9,8 @@ ampWebUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recog
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Khaleej Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai Introduces Facial Recognition On Public Transport"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition."
-    publishedDateTime: 2020-10-25T12:32:00Z
-    webUrl: "https://www.barrons.com/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
-    ampWebUrl: "https://www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/dubai-introduces-facial-recognition-on-public-transport-01603621805"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP5132118745041328236684635701140320891084-transport-diplomacy-uae-security-dubai-technology-1.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "Dubai introduces facial recognition on public transport"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
     publishedDateTime: 2020-10-26T00:05:00Z
@@ -107,21 +91,21 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Dubai introduces facial recognition on public transport ahead of global Expo"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has ..."
-    publishedDateTime: 2020-10-25T12:42:00Z
-    webUrl: "https://english.alarabiya.net/en/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-    ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/25/Dubai-introduces-facial-recognition-on-public-transport-ahead-of-global-Expo"
+  - title: "Face Recognition Systems Market"
+    excerpt: "According to Market Growth Insight, the Face Recognition Systems Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX% over the near future. The report delivers thorough analysis of the key drivers, opportunities ..."
+    publishedDateTime: 2020-10-29T11:34:00Z
+    webUrl: "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
     type: article
     provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 71
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
     images:
-      - url: "https://vid.alarabiya.net/images/2020/10/25/1c064d49-8679-4ea3-8df5-502e0dc16e72/1c064d49-8679-4ea3-8df5-502e0dc16e72_16x9_600x338.jpg?width=466"
-        width: 466
-        height: 262
+      - url: "https://cdn.openpr.com/T/a/Ta29239767_g.jpg"
+        width: 750
+        height: 350
         isCached: true
 
 secured: "nxssKjB6vGw8uaUnXyECyfMAPzqYaqzQf5PfTdRF4cL2GMaqOdmGqP2bYkBicHttQrTeAbHGujp9/ps7ih4I1rFBcrqv8apBZbEs1yTco+61+AdSSvaRGxNXIiX8ylXWafMWk42Tuuttv+FjJ96zwSqPHDgG2Obtz3r0sfNopxiZFhHv8QL05UlPoPDmtWsk5a9aitwbuF6qOQSyP0RsF2s8e34wrmGQcnU1NcIPQkiLiZ+aJOSsuigf89X6X/LF0ws60WCF6w2vocQW+nOnX4Bbi62GIrpHk/chHHR61Q+WZZZTgxddnwK+3B89hyHDgonSQytQEjRUcBBilO/h6XbsJ4E9SDoSYsLFEES/P6htNYt+ylyt7PRn8iME43qsVig7BRUnJfG6sIv/JzAGlaPEIRLVFeFuafwrQ/87Pajrr0nzuEFi/jr0ZWdei4if9vw14vadMjXTUeq9nsNf0IwbKF+fgPrN5wRFeFVaj/FsRs3ffOCLwRMCVhAHKLX6UxkKVzFxZ+Yug4eeb5WhGg==;i+FyduBBNonGmL1GWKh4EA=="

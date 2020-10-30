@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Are the Next Battle In the EV Wars"
-    excerpt: "Xpeng, a U.S.-listed Chinese electric vehicle maker, hosted an analyst event Saturday morning, focused on smart vehicles that drive themselves. The event comes on the heels of Tesla’s test release of its full self-driving mode."
-    publishedDateTime: 2020-10-25T12:54:00Z
-    webUrl: "https://www.barrons.com/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
-    ampWebUrl: "https://www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/xpeng-talks-about-self-driving-in-wake-of-teslas-autonomous-driving-test-51603555409"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-248921/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The Big Gamble on Self Driving Cars"
     excerpt: "In this episode, Jim discusses the self-driving car, a staple of sci-fi books and movies and predicted by automakers as far back as the 1930's, as was shown in a 1935 Chevy promotional film. With Cruise Automation’s application with the California DMV ..."
     publishedDateTime: 2020-10-28T16:00:00Z
