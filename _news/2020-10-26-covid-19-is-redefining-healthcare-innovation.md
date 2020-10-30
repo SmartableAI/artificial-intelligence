@@ -7,7 +7,7 @@ originalUrl: "https://www.dmagazine.com/healthcare-business/2020/10/covid-19-is-
 webUrl: "https://www.dmagazine.com/healthcare-business/2020/10/covid-19-is-redefining-healthcare-innovation/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence model detects asymptomatic COVID-19 infections through cellphone-recorded coughs"
-    excerpt: "Asymptomatic people who are infected with COVID-19 exhibit, by definition, no discernible physical symptoms of the disease. They are thus less likely to seek out testing for the virus, and could unknowingly spread the infection to others."
-    publishedDateTime: 2020-10-29T13:45:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.amp"
+  - title: "Offices struggle with COVID-19 social distancing measures"
+    excerpt: "“If you have people coming into the office, it’s very rare for them consistently to be six feet apart,” said Kanav Dhir, the head of product at VergeSense, a company that has 30,000 object-recognition sensors deployed in office buildings around the ..."
+    publishedDateTime: 2020-10-26T14:03:00Z
+    webUrl: "https://www.benefitnews.com/articles/offices-struggle-with-covid-19-social-distancing-measures"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 42
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 24
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/53-artificialin.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19"
-    excerpt: "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology."
-    publishedDateTime: 2020-10-28T14:30:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://arizent.brightspotcdn.com/dims4/default/b691839/2147483647/strip/true/crop/3963x2081+0+280/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F91%2F19%2Fcd62628042a18e8d45ef4d745f8a%2F365426587.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NQ88CPmYLx6qa9kqF6EtshTxzegrEU93G2px6GKsMeoEqD1Hb+izaPaGAzR0xulA7cN4ffqLFnUPB7TNZJgCK4f1ELbCm8K5U8/ffu3Ttriy8ZWb6t9huKHjI+qDiMy62BGU2y6AosiC8VSuqFjMv/TayGaC4DjtAoC/rDYHbvCykiTL7vBAVVLb73LpB5hjiT3uWUjoUVkQGJu6ltbzNbNZ6OwF4Gf/8OulmkzhN1wgAJsV891IRG7nBQGP+hmFGwzXIgfB1dFa/YWHY8MiCBBia35M7+IJWua9Al2XLXjHIYR/CEbnYaJKiMRXjbbW7BwNS5iNQhSZnsX9z+b7CgIKca0fV6v+Z0EkX3Gi1MY=;Va8nUiDdig4HUPRhoYj3og=="

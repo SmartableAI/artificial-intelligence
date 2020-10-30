@@ -33,6 +33,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "New AI Trains Robots Like Dogs"
+    excerpt: "Can robots be trained with positive reinforcement just like dogs? Reinforcement learning is an artificial intelligence (AI) concept inspired by behavioral psychology. Researchers at Johns Hopkins University have developed a new method to train robots that efficiently improves upon state-of-the-art reinforcement learning artificial intelligence algorithms,"
+    publishedDateTime: 2020-10-28T00:00:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202010/new-ai-trains-robots-dogs"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202010/new-ai-trains-robots-dogs?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202010/new-ai-trains-robots-dogs?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-10/picd342.jpg?itok=DtmpARtY"
+        width: 320
+        height: 219
+        isCached: true
   - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
     excerpt: "SUNNYVALE, Calif., Oct. 27, 2020 /PRNewswire/ -- Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
     publishedDateTime: 2020-10-27T12:03:00Z

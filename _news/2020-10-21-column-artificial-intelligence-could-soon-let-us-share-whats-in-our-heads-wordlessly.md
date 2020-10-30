@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/thepilot.com/content/tncms/custom/image/131e72c6-2bfb-11e5-9b9f-070bd3599e11.jpg"

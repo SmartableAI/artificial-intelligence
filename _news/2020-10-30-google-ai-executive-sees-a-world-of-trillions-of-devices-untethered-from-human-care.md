@@ -8,9 +8,9 @@ webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/goog
 ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
 type: article
-quality: 61
-heat: -1
-published: false
+quality: 83
+heat: 93
+published: true
 
 provider:
   name: ZDNet
@@ -22,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/10/29/470db163-bd0f-42db-884d-a81b219a724d/warden-2020-what-tinyml-needs-from-hardware.png"
+    width: 3331
+    height: 1816
+    isCached: true
 
 related:
   - title: "Server Inference Chip Startup Untethered from AI Data Movement"
@@ -41,6 +48,6 @@ related:
         height: 500
         isCached: true
 
-secured: "ZKvPgobZj+3ZCKHJwG7+/QQaMJqjf443wWEH5p4VhLLh5r7MBS+WIysXPRYr3wtNJZWgnA5U3Z+SeYUoQFSGns5dCoYZqNKJM1CFa/BYlCpWZp4BoIL5QqAC52w8pR7tAI7wGfVcvgcvNDZ01GlneVqHcVRcFFN1m3sYtEgPlh0hVzR/b/V1WcFwtLwBw6dffhX4mytw0/ALN1PmnVczHVbE5ILXIfcetpos+3p6ChImeQYtyfTg+2vsocawm63qjaBN5B/hdFMmi4Yojc7xGdEQJMNdF1j/jJQo+LbYuNWDVMw+3wbN6Et1ZReVGfgis5XPS8KC6pPUWttrj90XaXvqD8goyOTUjdy+cv3DGO4x+E/wcQT32ZzV9JQufjlebx1jnEoTSfJDjmmc5cIfIcf+CEsuI2MjfjW911TX+zb6LqZZdAkPRoOwKv5dvAlfqCEy8wyIzV/S712bJA2kEEBQEPG9ceqfvcJcD8DsglJx9xTixvHWKoQ9CmpdmcJ3fxeL3sj9cJtFBMVIM9dBzg==;C9VEUuWun6EOmmEJln7JJw=="
+secured: "edpBokQvjijK3WjWt2rocjirAzfse7PwuhcuVgQFi5belrs/Yr4EcX303YH6EKnz9SlSnVuTO6xe+PQSa9fO36a+3AWWsRn1zy0frOpmK6Z9JllUx9chgKfULY7moTMH0pTXI588rBv/DDJxvPCGfE455EMCKeY8QiSlHnwG3WT9B9JM9HibX1hcaiPyTOU6+Qw1tV7pr1AyHSJYIWPxjutu7EldwywimvJmJFhAKK749Mtc4pIEf/sz3XsjcqQG0nQ9sWmH3HcNM5BiEqHt6w6ttOpUX1pLyLEb9RWdhxfelIc+PA+OBWQ44fOv3TVFZPWRrOcjfGolalpvp4Knc0LzCiN8o0noCXccIXSNSWo=;KujnUQuUeQU3KyLrXGO9fQ=="
 ---
 

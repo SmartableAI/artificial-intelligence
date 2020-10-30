@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/27/daimler-teams-up-with-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/27/daimler-teams-up-with-waymo-on-self-driving-tracto/"
 type: article
 quality: 104
-heat: 304
+heat: 314
 published: true
 
 provider:
@@ -316,6 +316,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Waymo strikes self-driving lorry deal with Daimler Trucks"
+    excerpt: "Waymo is partnering commercial vehicle group Daimler Trucks to power big-rig lorries, as Alphabet’s driverless technology unit moves its technology beyond carrying passengers to hauling freight. John Krafcik,"
+    publishedDateTime: 2020-10-27T13:07:00Z
+    webUrl: "https://www.ft.com/content/a0dff370-94d0-4bfc-a24b-0b5bf0873765"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "wnFK2E8H6+dSb4YG4lOqUUEFCX/2QpK9X3sn9DuUqEQ3e9uUHtaSFk0IcvurFSTGuCaMqA9n3vh+G+SPrbrjQre8DKMpkMwj/v1t2LJA0rAM1bQzKhp1+UxKGVKeJ+Sgk0cbNny8LgOd+m/Grx1uwDez40qU6rntu/eSyoL7ADlKkaqo0uI0ONMy68uxSpZrNQbm9NRU1FQibUqfdSQENyoeiTZbhK/EDnfwtblRkpGgXnfALcpbr09AHNL5WXb/K4Vj8gDZ/yftIr5ezrYkpsMTGlsQPbpUxNBUlyi7C/XF92qffPyiDM5Ai5kWj19WEhGeGAHTuoXKyXNVgyEmrsAjopEOW2l14KCmAfe17GJcVVxpVn9JKAgaOxwMarNdfRNCBTqKYegzQ72yMf1zSaOFb0sX7GbSTs2bMHew9Mg6n4/r7Cj8guiJLu5mfPtRD2zlImAYaUQQc4eeDxFdUL8BsV/YqKnbzz67AZiqPNvDzy9HDLuvwnZWx+JlrCf6gQah2BiC/i3Z2R+NqVpxQg==;17HDo9Ho46easPV3oczcdA=="
 ---

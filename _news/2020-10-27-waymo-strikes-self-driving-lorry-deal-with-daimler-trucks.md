@@ -1,34 +1,22 @@
 ---
 category: news
-title: "Waymo and Daimler are teaming up to make self-driving trucks"
-excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. An image of a chain link. It symobilizes a website link url."
-publishedDateTime: 2020-10-27T15:05:00Z
-originalUrl: "https://www.businessinsider.com/waymo-daimler-partner-to-make-self-driving-trucks-2020-10"
-webUrl: "https://www.businessinsider.com/waymo-daimler-partner-to-make-self-driving-trucks-2020-10"
-ampWebUrl: "https://www.businessinsider.com/waymo-daimler-partner-to-make-self-driving-trucks-2020-10?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-daimler-partner-to-make-self-driving-trucks-2020-10?amp"
+title: "Waymo strikes self-driving lorry deal with Daimler Trucks"
+excerpt: "Waymo is partnering commercial vehicle group Daimler Trucks to power big-rig lorries, as Alphabet’s driverless technology unit moves its technology beyond carrying passengers to hauling freight. John Krafcik,"
+publishedDateTime: 2020-10-27T13:07:00Z
+originalUrl: "https://www.ft.com/content/a0dff370-94d0-4bfc-a24b-0b5bf0873765"
+webUrl: "https://www.ft.com/content/a0dff370-94d0-4bfc-a24b-0b5bf0873765"
 type: article
-quality: 104
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Financial Times
+  domain: ft.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://i.insider.com/5f98367d861cb70019936a48?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
   - title: "Daimler Teams Up With Waymo On Self-Driving Tractor-Trailer Trucks"
@@ -46,6 +34,22 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596753%2Ffreightliner-cascadia-2020.jpg&w=1200&op=resize"
         width: 1200
         height: 743
+        isCached: true
+  - title: "Waymo and Daimler are teaming up to make self-driving trucks"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. An image of a chain link. It symobilizes a website link url."
+    publishedDateTime: 2020-10-27T15:05:00Z
+    webUrl: "https://www.businessinsider.com/waymo-daimler-partner-to-make-self-driving-trucks-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/waymo-daimler-partner-to-make-self-driving-trucks-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-daimler-partner-to-make-self-driving-trucks-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5f98367d861cb70019936a48?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Waymo and Daimler team up to develop self-driving trucks"
     excerpt: "Daimler is stepping up its plans for autonomous big rigs. Daimler is clearly eager to expand its plans for self-driving trucks. The automotive giant is teaming up with Waymo to develop trucks capable of level 4 autonomy, or full self-driving in specific ..."
@@ -316,16 +320,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Waymo strikes self-driving lorry deal with Daimler Trucks"
-    excerpt: "Waymo is partnering commercial vehicle group Daimler Trucks to power big-rig lorries, as Alphabet’s driverless technology unit moves its technology beyond carrying passengers to hauling freight. John Krafcik,"
-    publishedDateTime: 2020-10-27T13:07:00Z
-    webUrl: "https://www.ft.com/content/a0dff370-94d0-4bfc-a24b-0b5bf0873765"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
-secured: "c0sTsQImkHZ2+WEcBoLIayD2hVvPvsvJcXCm2HOZna7IPBLCpqPJqyjJIVz4EUDGcc4vTE9T5GD29+hacpkyC4WefPYGU9JsimLMky+is5lheunBkLpCZgkN6A0peNCyUF5qyaCq7XNXBVR6HdgFl0L4BVVM6mhXQt7/DU9eIatPfob544K79huYOKFFqLXhTNwnVBeyoBfF7WCfPvRaaUUyItTyueAbzpKNPKC6ByvcsvpGfyyEqxJiho0Vt8S7qRLH7JcYXslxmI4m5E1tJjcC4ZeyUrerqPjN7IEafW8pJxPrf2JuQwhxJTTNG0m1OX4AjiyhvtDJ7bb+GdcoiPwAsp434FTl57wxNpRC4tBtzHa3B08pHg8oXzpspNO4U8HD3IzN8MdrKBu4URQSrgtMNGqpsQPKSFCyJWl/cWRn+Wc4PAbsFxfgkWGj1qB1h/W4y0fZC0x7xU65+kRAbJuxwqrNqeDQsh6GsoxDcVWkgbuH9FFI6Iuns7B8JSahTl1QKNcFpEYNZgpzhRMjEQ==;MjAU1ejU1gUGFxLOPOd3AQ=="
+secured: "EW2rccCQIQFLgnOJt7prjTg0uaEoKiksBjLjwGb4zfbPKqT4qgHG8uuZtT7ir/fUkK/4hg38Cfmh9PGnyKzX1zmyZRoV22aaqdIQ1JP75f5WfHYOSG/azcD6V2BoAIVUypftwMLMDkcYmbrSDE+5BRbFkS/YEni4ErODk0NbiTfzKTmQsBxBQjDkWTTxMTiRSmWG+e3hP4Tx9b0PaaDTJS5cqV5+LF+zfMIWzN1CFJAWubb70wTn+e75MTLFHWnsFC+dFTLNR0DSAzDZjzEw1sEi4AtH/h+tazF5ZopPGpqSe/3fwdiuMl4T+3WdfLjVAeydCAl5x4Q0GM1/AJMiTqfm7aWF8iMoX2tTcX2RxqhVDb2mCu0br23/fxzc9VAxxT1YPF1BxBzWAoni1ASxTnxGGHNpKWBiA0qFU802U2ybbDg3q9BnB+aQDU+d+NY8+H0C05XaHlVUpCv6SF0rvtfDC4w9M3OjjhWIz5N+vXsT7hicSa8QnFdi3mc2imbWjqp6nJ1hECgBbtSRNfkP/w==;AeZYvlmQ63a7lyt8nASpMg=="
 ---
 

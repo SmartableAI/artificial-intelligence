@@ -1,18 +1,18 @@
 ---
 category: news
 title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
-excerpt: "PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that dotData Stream now fully supports Amazon SageMaker integration,"
-publishedDateTime: 2020-10-27T12:30:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-computing-and-information-technology-data-management-376b9d4dc51b9da6e765375bfa3474d0"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-computing-and-information-technology-data-management-376b9d4dc51b9da6e765375bfa3474d0"
+excerpt: "SAN MATEO, Calif., Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that ..."
+publishedDateTime: 2020-10-27T12:38:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
+webUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
 type: article
 quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
@@ -20,9 +20,9 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -97,6 +97,6 @@ related:
         height: 720
         isCached: true
 
-secured: "6xNhiwm5ZooZ7F39xOQJiIvPNj4QeRI5aUyz3L/rzjmx5967wEd/f4D2z/K/18ukHrDa4AfYmGJZHbsfXIzBVw3JiZUm+HtC2CxCukWSk3pbgBGIQHe6fxIafejr9xrGWv6AxSOGLQ55igdLord8ikMUslTdHQwIQqfQG7jFSmtYAORw7p6xTOaJCVqXnWQzacd2NKNJJx1otB6El4cKJWwPxU4w+0txoLIQqtlZDle9aflW58KzWuUeMzoRviyAu9aQYojdqMQ901mVBDSLg+5bAoZrtIYyf2AVRWDc3gMjNhEYhI3UQMrYmZOOyLWFnqedLetonlNvAjvdRfpeB33JJ8JEijfEMrvAGCFHZzA=;pCJvmQ5czIqbmBf6uX8ogg=="
+secured: "eswrzUBrWfk6fVP7TrNYgHgwnPfOei4lTEMWz0QW/w6uJstBJ9NFCOjhoF5LrPTIrRe+AurUMUUfXHX0kesGW0X/sc34IlFDh75xgtHvxP5OoPNUrU1t4i20G8sbQVhDysjkeopDE+yMyfBJltshqDOzOba3WDePZ0lEzlmbq0osrGL2MmZINSPh9Dp7gFdz5ITyRFGZT2GiXYcdv3MeibW2NmS09XAx8XEVmZGG+DXsX3jbmIrwOY92flyu9XDNxqfTs985WkXO7pmpS6p+fPvA1ysG8GGU06o0zNBFb76OVVOl1yVFafXWFZuSdmb7xdiSp54buuRam2UnzcQ2zKdqjrNjhY7wr/GqYBm3V60=;iRL3VHljHG26inAHXs5UTg=="
 ---
 

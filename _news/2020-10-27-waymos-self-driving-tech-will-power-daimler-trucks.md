@@ -312,6 +312,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Waymo strikes self-driving lorry deal with Daimler Trucks"
+    excerpt: "Waymo is partnering commercial vehicle group Daimler Trucks to power big-rig lorries, as Alphabet’s driverless technology unit moves its technology beyond carrying passengers to hauling freight. John Krafcik,"
+    publishedDateTime: 2020-10-27T13:07:00Z
+    webUrl: "https://www.ft.com/content/a0dff370-94d0-4bfc-a24b-0b5bf0873765"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "x1hEKiIRuwdk8b7pAI8gRCOHKGXlza6UH6M1/PwLpj/zWc7zsjhS/hpODLLcD0EMlvHLyvjcgw6Dt41R9wAI8Uq3gNs86yrqnMvop6rSbnroOs/VGlXK+TkBUOyVZwAVDxBy1HzA8PlHgk9aiw3739FofjwK2s8uZFIZ81ut805YYUZPHrGrqsgBfa6Nlx0VNial5fFT3VeMNIbaUArZ3C+kPATDd0mcF7J+HVMfXRcAzR2JfowsFRozkSkw68JWWyG1z0F3meHCvSIP4o1GkDJ3NSSEys2WNcZ06WF6BCuaNti2byf5m9Z4CUqLhrrNNbiGubgAOTRlcT8BMzPFfAPADlv5ubOmBDBjDAKOHx0=;fy8Kc1Fmhyuv8i4GGDtCAA=="
 ---

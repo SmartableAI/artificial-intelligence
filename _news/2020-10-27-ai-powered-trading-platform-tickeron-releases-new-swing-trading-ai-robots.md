@@ -34,6 +34,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "New AI Trains Robots Like Dogs"
+    excerpt: "Can robots be trained with positive reinforcement just like dogs? Reinforcement learning is an artificial intelligence (AI) concept inspired by behavioral psychology. Researchers at Johns Hopkins University have developed a new method to train robots that efficiently improves upon state-of-the-art reinforcement learning artificial intelligence algorithms,"
+    publishedDateTime: 2020-10-28T00:00:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202010/new-ai-trains-robots-dogs"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202010/new-ai-trains-robots-dogs?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202010/new-ai-trains-robots-dogs?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-10/picd342.jpg?itok=DtmpARtY"
+        width: 320
+        height: 219
+        isCached: true
   - title: "Grades, And Artificial Intelligence"
     excerpt: "If you ask about your grade, I’ll gladly tell you that you’re doing well in the course, or that you really need to do better, as the case may be. More specifically than that I will not say. The main reason for this is that if I were a hiring manager at ..."
     publishedDateTime: 2020-10-29T19:24:00Z
