@@ -182,6 +182,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Data Diversity Challenges Impact Facial Recognition AI Algorithm Biases"
+    excerpt: "While facial recognition technologies offer huge opportunities to Federal agencies, overcoming algorithmic biases with the help of diverse data sets is essential for full deployment, industry experts said Oct."
+    publishedDateTime: 2020-10-30T19:31:00Z
+    webUrl: "https://www.meritalk.com/articles/data-diversity-challenges-impact-facial-recognition-ai-algorithm-biases/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 54
+    images:
+      - url: "https://cdn.meritalk.com/wp-content/uploads/2016/02/kate-headshot.png"
+        width: 619
+        height: 618
+        isCached: true
   - title: "Facial Recognition For International Passengers at LAX"
     excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
     publishedDateTime: 2020-10-29T22:46:00Z

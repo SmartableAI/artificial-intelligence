@@ -1,26 +1,24 @@
 ---
 category: news
 title: "How computer scientists and marketers can create a better CX with AI"
-excerpt: "A failure to incorporate behavioral insight into technological developments may undermine consumers' experiences with AI."
-publishedDateTime: 2020-10-28T15:29:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/10/201028082948.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/10/201028082948.htm"
+excerpt: "Researchers from Erasmus University, The Ohio State University, York University, and London Business School published a new paper in the Journal of Marketing that examines the tension between AI's benefits and costs and then offers recommendations to guide managers and scholars investigating these challenges."
+publishedDateTime: 2020-10-28T08:14:00Z
+originalUrl: "https://phys.org/news/2020-10-scientists-cx-ai.html"
+webUrl: "https://phys.org/news/2020-10-scientists-cx-ai.html"
+ampWebUrl: "https://phys.org/news/2020-10-scientists-cx-ai.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-scientists-cx-ai.amp"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
-secured: "uKPBU9GtkvKTshfQntpDD+wXk7caYAxFmW5j98RZriLZa8TVwI69j+5W2QYoUnuxEP1HCn+PUlsI9Eb8qsnsio9IDcXUBt/Xr3cAqlvKwthcln/LPftMvXruklz9458hqI0BFYRGbuD6PYw3FLQqp8qpB+rRgq/4Hv0uERskfNECsFEIz5pA15i06g25lgmHfL0zdBgkMMCJGOZq2HnqFcsFe2N4FZmt099t2qhk0SAKZzjS7teT+Zb2Opl8gRqCcaMAW/p2yuwR8MeQyaktRIM+aYO0aoxpVmbcNC3qpX1OAwxXVj7AhLeRoBY18IEDmqCg+QXc4TlvWmhiHDSFLDyhrL6TJiR/ebqbIav4QnA=;JeS/E7IjJVCo9N5V2Rss6w=="
+secured: "H3e0U3+nHFGvzNLm2XqqQeHejuP9nMmGr4ATO6qaBieiokKy4ITkmOLeJvOyA476Dtxczpitz8bngCjvuf0oh8+AMkfTS/cPsKPezfk3D0tI0rqvIz5BB86Xe4aSu5sY5niwmhBTHBQwhfkoBbBTV5JHeJJgweQEppW9xLzw9NOcbuj2SEneBAkgBMnl9tB+JgdQbpjczNgMORQ6svmFV/Qhl6Iz0EhdMnXGHd/G5Dp8rDOKd+kXmyRPfjZtmzeeNqRwkdyXbeC4n09oCJu5QvD1mVWUJ2K8ZVYfSWPD9ZcVYiSiMpiXPspJJNupMYIoViCrh03rIoKYvW8ZeFwTkyK43z6XhIjd6yzTonjLuIQ=;V9PkWjQrOnblsNrsvTGBcQ=="
 ---
 

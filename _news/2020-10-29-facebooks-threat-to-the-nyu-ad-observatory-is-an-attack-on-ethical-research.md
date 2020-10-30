@@ -67,6 +67,20 @@ related:
         width: 1912
         height: 1149
         isCached: true
+  - title: "Five Days of Facebook Fact-Checking"
+    excerpt: "Mark Zuckerberg, Facebook’s CEO, has been back in Congress this week to talk about the need to reform how social-media platforms moderate content—a realm within which Facebook is trying to establish a “best in class” reputation."
+    publishedDateTime: 2020-10-30T19:29:00Z
+    webUrl: "https://www.cjr.org/analysis/five-days-of-facebook-fact-checking.php"
+    type: article
+    provider:
+      name: Columbia Journalism Review
+      domain: cjr.org
+    quality: 24
+    images:
+      - url: "https://cdn.cjr.org/wp-content/uploads/2020/10/PastedGraphic-6-1-800x419.jpg?122376"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "sEi9SKcuNWSdJn5K0aWK3aVSbuo2SyUgaEwI6PXVMGDnEmDYDbLVG8slvSv4qMzCCdDhMFqvsuIdpxzdrzyfWyNVcDDw+sWR50ohz5KyWL62Hv7qzDXctoio0VKgEriUXqlmVZYknayUPslsEsCG8tA0ga9hebc008lOOYMWwXpfnhuL/IlAkbaoZqyGsa14hHVYtVFyzPhlYC6c+tVoP9QXFfDz5lAQ6cdSImCrc1zLnCisw+K0+Pwus+A9t2Nj4ePIvlKW7sEC31id/DlgOA56qC3HFBQlGNRz7XjfZ8YYwZtsXy3yGYf69p+NMSbSwQLesXRMlg+it2tIOn3H5KOueBcvWPO3U6YxLVY7/25msaIpQQq8atsElKIpedi6Kx5C2G0VMuhsCPjOp7otWnWpLHpvEiBa0ifL6WeNDKmkQNOk/6EiNqyZZ7oEymlCcbNMmzZ85Z+KwdS30B7UzcSGVAq7qqJCfa4mw9Uc8Ric8mo4UOYe5NEQiQno9Cqy9qjoZ/mTG9T0g4n+AiVjrA==;PZ6+KEENrhLbpgiQ5Fxa7A=="
 ---

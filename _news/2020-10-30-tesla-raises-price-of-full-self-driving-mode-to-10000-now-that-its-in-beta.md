@@ -47,6 +47,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Watch Tesla's 'Full Self-Driving' mode fail on San Francisco's twistiest street"
+    excerpt: "Tesla's new \"Full Self-Driving\" mode (that isn't actually fully autonomous, and still requires drivers to hold the wheel and pay attention) just got owned by a famous San Francisco street."
+    publishedDateTime: 2020-10-30T18:51:00Z
+    webUrl: "https://mashable.com/video/tesla-full-self-driving-fail/"
+    ampWebUrl: "https://mashable.com/video/tesla-full-self-driving-fail.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-fail.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 100
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F10%252F30%252Fb4%252F88af5ff4d0ac41279273c9231a242c21.6b105.jpg%252F1200x630.jpg?signature=qaP-B1dV49N-9EOQPgPCcRl2Hng="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla officially increases price of its Full Self-Driving Kickstarter campaign to $10,000"
     excerpt: "Tesla has now officially increased the price of its Full Self-Driving package to $10,000 in the US. That’s quite a price for a model that most closely resembles a Kickstarter campaign. In a Kickstarter campaign,"
     publishedDateTime: 2020-10-29T16:21:00Z
@@ -253,6 +269,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
+    excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
+    publishedDateTime: 2020-10-30T18:21:00Z
+    webUrl: "https://www.king5.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 59
+    images:
+      - url: "https://media.king5.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Consumer Reports Finds GM’s Self-Driving Tech Superior to Tesla’s Autopilot"
     excerpt: "Tesla’s Autopilot may be stealing more headlines as of late, but according to new findings from Consumer Reports, GM’s version is leagues ahead. Consumer advocate publication Consumer Reports recently conducted a test featuring a lineup of 17 vehicles with active driving assistance systems,"
     publishedDateTime: 2020-10-28T21:16:00Z
@@ -355,6 +387,6 @@ related:
         height: 630
         isCached: true
 
-secured: "PS7LXMuWc2iWlE3TJjwD1jkJZlxWiWgF1HDa4R5UvBvYI1dxf5X6fjnyCfLznGZ8PEy0ktdWMlhnjTJyw9VpXAKU6tdGU9NIg7KKoVfdHVJj/7EfrmPkLt8qJiTfBlNmp7bBRU6IkFV3Rt9yuN399uKtRBKFNKwutdSgIWDZppPTBuBgpv0uqI0+/MES1uECt7aJ/S97yzdWNXem51+xlsvqWqorqCDMoQ7qQ9OQBmDKMfm0mNrrwcFMmdPypfRHl1cKD0EXSD+jBmUmtXwL2C44hYMecS4PNJEfj6CFjlisgBJUD8WED0g07W0OIBwECIHOt5r8FdLDdtFalLbMsYH9y+43KriRJw/kgiEjiCE=;F7bzxXHgqTSY/IB/X+mraw=="
+secured: "6WioVmmlTs9NB4LL2aVzaU4yqv74q5OyHHhc5GgjjdeYDmFtPKlQ4Zc7Qaw/QXtFSY4NvxOALDcxvo7un3lWTZItwfht6ivQ+4cQol+jQa0I1V4dn1+Y3gwiGfuMxwS7Q9prRWW2KA80zcSPgImVFZ9dXTfLpcZyAXF20YM8HPziKWikFLX47Ld5aqiuVWxUwpGlEpyt/OwNfPnba9fRAuFKWr1YZ/TJLUuI+6lnCvB6vEAyclbjjYtFj/kCeDaxzdl8w5xGtwbEQ3PdvEVLuIKPzx/i62bPMFlXm0RlXtIgXwZnq37pR9VvDic5yJTtzFQfZo+nLAnqV2d49I+YEHmmcnEz1SqWAuoF7uySNMLbezJR6B0b8Myxpn7yJOO09uFnEXgdBmo7SkpKEe4HYezAQeMPWIZN1GnH4g659/4y9ByyEtTwlz6d17uyghLedbptLieBuVieD57HLwcfxjSQSxwBW8YRYhbTm8aXG31CHSNvpWPU1/JnLp0QFQjwpIIrigvGR6wf6aZPtnCxeA==;6oEe/isq8dpUyN23GAAuXw=="
 ---
 

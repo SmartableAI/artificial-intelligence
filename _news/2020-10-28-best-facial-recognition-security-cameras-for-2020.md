@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2020/"
 type: article
 quality: 106
-heat: 226
+heat: 236
 published: true
 
 provider:
@@ -171,6 +171,20 @@ related:
       - url: "https://wp-assets.futurism.com/2020/10/security-company-used-own-facial-recognition-harass-employees-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Data Diversity Challenges Impact Facial Recognition AI Algorithm Biases"
+    excerpt: "While facial recognition technologies offer huge opportunities to Federal agencies, overcoming algorithmic biases with the help of diverse data sets is essential for full deployment, industry experts said Oct."
+    publishedDateTime: 2020-10-30T19:31:00Z
+    webUrl: "https://www.meritalk.com/articles/data-diversity-challenges-impact-facial-recognition-ai-algorithm-biases/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 54
+    images:
+      - url: "https://cdn.meritalk.com/wp-content/uploads/2016/02/kate-headshot.png"
+        width: 619
+        height: 618
         isCached: true
   - title: "Privacy concerns greet adoption of facial recognition system by India’s secondary education board"
     excerpt: "India’s Central Board of Secondary Education (CBSE) is introducing a facial recognition system that will henceforth allow tenth and twelfth grade students to easily download academic material, but"

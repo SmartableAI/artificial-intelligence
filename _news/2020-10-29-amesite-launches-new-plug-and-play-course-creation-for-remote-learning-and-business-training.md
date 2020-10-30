@@ -25,76 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Video streaming and deep learning: Using Amazon Kinesis Video Streams with Deep Java Library"
-    excerpt: "Amazon Kinesis Video Streams allows you to easily ingest video data from connected devices for processing. One of the most effective ways to process this video data is using the power of deep learning. You can create an efficient service infrastructure to run these computations with a Java server, but"
-    publishedDateTime: 2020-10-27T16:35:01Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library/"
+  - title: "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance"
+    excerpt: "Workday Inc., a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning- driven predictive forecasts for Workday Adaptive Planning,"
+    publishedDateTime: 2020-10-29T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
-  - title: "Machine learning accelerated with dog training technique"
-    excerpt: "“I’ve had dogs so I know rewards work and that was the inspiration for how I designed the learning algorithm.” While humans and other animals can learn from trial and error, there is no perfect way to make a machine-learning model adjust efficiently ..."
-    publishedDateTime: 2020-10-28T12:57:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/10/machine-learning-accelerated-with-dog-training-technique/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 52
+  - title: "Workday Adds Data Management and Machine Learning Innovations"
+    excerpt: "Workday Accounting Center enables customers to ingest operational data, enrich it with meaningful attributes, and transform it into accounting. This allows customers to manage operational and financial data from multiple sources with a single point of"
+    publishedDateTime: 2020-10-30T15:30:00Z
+    webUrl: "https://www.cpapracticeadvisor.com/accounting-audit/news/21160701/workday-adds-data-management-and-machine-learning-innovations"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 54
-    images:
-      - url: "https://eandt.theiet.org/media/10084/dog-in-park.jpg?crop=0,0.24450307827616535,0,0.26330255057167978&cropmode=percentage&width=1200&height=450&rnd=132194124370000000"
-        width: 1200
-        height: 450
-        isCached: true
-  - title: "NOAA and Google to apply machine learning to satellite data"
-    excerpt: "“Strengthening NOAA’s data processing through the use of big data, artificial intelligence, machine learning and other advanced analytical approaches is critical for maintaining and enhancing ..."
-    publishedDateTime: 2020-10-27T16:47:00Z
-    webUrl: "https://spacenews.com/noaa-google-cloud-ota/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
+      name: CPA Practice Advisor
+      domain: cpapracticeadvisor.com
     quality: 39
     images:
-      - url: "https://spacenews.com/wp-content/uploads/2020/10/rsz_20200807-safires.jpg"
-        width: 879
-        height: 494
+      - url: "https://img.cpapracticeadvisor.com/files/base/cygnus/cpa/image/2020/10/Workdaylogo.png.imgw.720.720_1_.5f9c308d5ac0a.png?auto=format&fit=max&w=1200"
+        width: 1000
+        height: 1000
         isCached: true
-  - title: "A Machine Learning-Based Approach To Formality Equivalence Checking"
-    excerpt: "After all, it is using machine learning! Machine learning is the process that powers many of the services we use today— recommendation systems like those on Netflix, YouTube, and Spotify; search engines like Google and Baidu; social-media feeds like ..."
-    publishedDateTime: 2020-10-29T07:03:00Z
-    webUrl: "https://semiengineering.com/a-machine-learning-based-approach-to-formality-equivalence-checking/"
+  - title: "Data Management Best Practices for Machine Learning"
+    excerpt: "Machine learning is on the rise at businesses hungry for greater automation and intelligence. A recent study fielded amongst the subscribers of DBTA found that 48% currently have machine learning initiatives underway with another 20% considering adoption."
+    publishedDateTime: 2020-10-27T07:10:00Z
+    webUrl: "https://www.dbta.com/Webinars/1549-Data-Management-Best-Practices-for-Machine-Learning.htm"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/Synopsys_ML-formality-equivalence-checking-fig1.png?fit=1662%2C1050&#038;ssl=1"
-        width: 1662
-        height: 1050
-        isCached: true
-  - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
-    excerpt: "It’s a challenge to learn a new language, especially once we’re past 18 years old. But Duolingo, self-proclaimed as “the world’s best way to learn a language” and seconded by reviewers at the Wall Street Journal and the New York Times,"
-    publishedDateTime: 2020-10-27T06:26:00Z
-    webUrl: "https://www.linkedin.com/pulse/amazing-ways-duolingo-using-artificial-intelligence-deliver-marr"
+      name: dbta.com
+      domain: dbta.com
+    quality: 19
+  - title: "Workday, Inc.: Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance"
+    excerpt: "Advances in Managing Data Create New Levels of Insight and Performance Accountability for Today's Agile OrganizationsPLEASANTON, Calif., Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc ("
+    publishedDateTime: 2020-10-29T12:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/51093865-workday-inc-workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-399.htm"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 28
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQG8ma-s99VPlQ/article-cover_image-shrink_720_1280/0?e=1609372800&v=beta&t=ZQjGHg2B_6PQm8fGRIvYNzN2emKDW8gv-qTLJqCeoPI"
-        width: 1081
-        height: 720
-        isCached: true
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 14
 
 secured: "yJMUVUFMFRPWyHyM6GYFDLXV9HxioI/vmQ4HGMDrsRrEU5rULSRlJ2FMgcG94ykUfkYshSIy7eEYehQzUf8pfIkaU/gHkLirUKqQzx87uAU57QIbwqTOYBwDNSXRcz1HolOmIQfAQmZId3A/g47zNlJxqyodhMQeb2jqyPIaE1mA+Hfnrxsh1UdPhnbVKmbTuu9dNav99uQ6KJzN7I8kFRPsXzGy6DQmJoeVAT/Ewr2A3qOpNpqZBdZ73VCLC3YybiJJImMSi0TSJMfLiKvuHjeIXf0dvlH6oj1kp/FD73bFSrt9GpAJISacMHwHF59dgXVa+K0dQxB47Xxv4JWb2k53sPge0VxRA7XnbEsMYyM=;+p+mSLXKnjjwfZqhZuq8rw=="
 ---

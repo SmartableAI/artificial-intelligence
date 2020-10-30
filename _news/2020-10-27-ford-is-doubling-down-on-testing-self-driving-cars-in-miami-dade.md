@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 741
         isCached: true
+  - title: "Self-driving car tests begin on Oxford's roads"
+    excerpt: "Trials for six autonomous vehicles start as part of a government-backed research scheme into hands-free driving."
+    publishedDateTime: 2020-10-30T09:35:00Z
+    webUrl: "https://www.bbc.co.uk/news/amp/uk-england-oxfordshire-54744656"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-england-oxfordshire-54744656"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-england-oxfordshire-54744656"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 44
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D785/production/_115137155_driverlesscar.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Baidu's self-driving taxis start passenger services in Beijing"
     excerpt: "Chinese internet search giant Baidu Inc officially opened Apollo Go Robotaxi, its self-driving taxi service, to the public in Beijing, becoming the first company to carry passengers in autonomous vehicles in the capital."
     publishedDateTime: 2020-10-26T12:45:00Z

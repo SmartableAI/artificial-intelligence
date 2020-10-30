@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 741
         isCached: true
+  - title: "Self-driving car tests begin on Oxford's roads"
+    excerpt: "Trials for six autonomous vehicles start as part of a government-backed research scheme into hands-free driving."
+    publishedDateTime: 2020-10-30T09:35:00Z
+    webUrl: "https://www.bbc.co.uk/news/amp/uk-england-oxfordshire-54744656"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-england-oxfordshire-54744656"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-england-oxfordshire-54744656"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 44
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D785/production/_115137155_driverlesscar.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "USTW68NaYrc2qD7/eDbtAH2V3r9XWsQx6XlRZXVgSgFIZX2UqbYfsu2Ov2vyTA1TUpDWFL12NNzlko9TNyxDUmjH195cHjL9h8l2bTjs+G9wY6BY4jdjEdRakjuZ/qU+Mw3gDuYKa4xZI+dRPVzIo2WoJ2J08fOhZxd7Tg+mk7ibrWnXAgWgpLOTr0LFPur+lueUW3Dpjm48uG/p/MT6rC/D5qb3uzr/82QhV+y5vc/xBQIA+BOf8BHPpHVNHQu5ocq4sJSlc1lC0dQSAh7WRnzidlbgp/Q8fyXW86ybEBQK3rOtJUWof4aIdkRH9l6X0TI4IFnBlYJnM696h96KLPN9pRUaceNrSYr0Xuu9lYo=;iJ+2XuuZbzB9trIqAiOlYw=="
 ---

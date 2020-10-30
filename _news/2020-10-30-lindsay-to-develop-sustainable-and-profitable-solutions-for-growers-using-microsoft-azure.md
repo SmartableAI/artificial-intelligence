@@ -188,6 +188,20 @@ related:
         width: 1280
         height: 1280
         isCached: true
+  - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
+    excerpt: "C3.ai, Microsoft Corp., and Adobe Inc. today announced the launch of C3 AI® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"
+    publishedDateTime: 2020-10-28T10:07:00Z
+    webUrl: "https://whattheythink.com/news/103085-c3ai-microsoft-adobe-combine-forces-re-invent-crm-ai/"
+    type: article
+    provider:
+      name: WhatTheyThink
+      domain: whattheythink.com
+    quality: 71
+    images:
+      - url: "https://d3impqwjfkw0cn.cloudfront.net/img/opengraph-default-whattheythink.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft beats out Amazon, Google for strongest healthcare AI offering, KLAS says"
     excerpt: "Healthcare providers and insurers consider Microsoft to have the strongest healthcare artificial intelligence offering among the big tech giants, according to a report from healthcare data and IT insights company KLAS. For its \"Healthcare AI 2020\" report ..."
     publishedDateTime: 2020-10-27T14:39:00Z

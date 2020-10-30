@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/30/ai-evo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/30/ai-evolutions-and-revolutions-in-2021/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/10/Mercedes-targets-evolution-rather-than-revolution-in-self-driving-car-push.jpg"
         width: 1200
         height: 673
+        isCached: true
+  - title: "Part of the revolution: Black representation in AI and quantum information"
+    excerpt: "Black scientists need to be in the room when AI algorithms are developed, and as a physics community, we need to be discussing the ethics of our role in that work. Like AI, quantum information science and engineering (QISE) is a rapidly evolving field with ..."
+    publishedDateTime: 2020-10-30T16:12:00Z
+    webUrl: "https://physicsworld.com/a/part-of-the-revolution-black-representation-in-ai-and-quantum-information/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 37
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2020/10/fig1-635x357.png"
+        width: 635
+        height: 357
         isCached: true
 
 secured: "WKBoyEKb0EXE+6RmWScKykCY9LLbCx1ZPBCL06wUvDcB55u2j5ysPFOWnh7ag4qq/PMLHxdRm1jJue0lyR75xxwOrugT1nEv7er+i1lRrORQktMP/UO3NiwSw5MtC663/fYOx+gNueM8KNKuBBCd9YBaTXbyS7/srgkDAPr08Uv1d/thSNvAnRkv6Jzv4LLq3Nu1Yzmi0mswbTm9JXx+FZh6I92Jey/fcTY7A8uAp7e5ypc2al59r9IdfSgWYAZuL2TKZxZAc0luNIRXqeJFCMUf5C4D5W+lnnZmQGuTwD74saQJ4yb/5KzdZYqhHBglEQcMoPyBW8qtEGJTjLy6kAzZq4HQ5aIM3sGTtr5QZTr/53ZIs+wKf+yWHSws4u0G+k3hZB8vSJ51+Jbk+VHeWO0q0diw85sR6voyb1k92rPfGQ0RJqcG/3PpnLJQ9Sjukt3zSKY/4QtObSTu4Zjd4zxvTnIEs9ujiH2fVOBJAUWrrB3fCtTTo6SubkltM4j2D0wgvPJDoCoMLEAVNiLWxg==;O2u0y8U1I8WYwN7vBc83sw=="

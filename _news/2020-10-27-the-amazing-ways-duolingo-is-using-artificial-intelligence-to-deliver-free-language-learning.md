@@ -29,76 +29,40 @@ images:
     isCached: true
 
 related:
-  - title: "Video streaming and deep learning: Using Amazon Kinesis Video Streams with Deep Java Library"
-    excerpt: "Amazon Kinesis Video Streams allows you to easily ingest video data from connected devices for processing. One of the most effective ways to process this video data is using the power of deep learning. You can create an efficient service infrastructure to run these computations with a Java server, but"
-    publishedDateTime: 2020-10-27T16:35:01Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library/"
+  - title: "Learning A Second Language: Business Benefits And How To Start A Program"
+    excerpt: "Language remains a key organizational building block, whether we are distributed all the way across the world or just next door."
+    publishedDateTime: 2020-10-27T11:36:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
-  - title: "Machine learning accelerated with dog training technique"
-    excerpt: "“I’ve had dogs so I know rewards work and that was the inspiration for how I designed the learning algorithm.” While humans and other animals can learn from trial and error, there is no perfect way to make a machine-learning model adjust efficiently ..."
-    publishedDateTime: 2020-10-28T12:57:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/10/machine-learning-accelerated-with-dog-training-technique/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 54
-    images:
-      - url: "https://eandt.theiet.org/media/10084/dog-in-park.jpg?crop=0,0.24450307827616535,0,0.26330255057167978&cropmode=percentage&width=1200&height=450&rnd=132194124370000000"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9738fe97804ca61558e810%2F0x0.jpg"
         width: 1200
-        height: 450
+        height: 800
         isCached: true
-  - title: "NOAA and Google to apply machine learning to satellite data"
-    excerpt: "“Strengthening NOAA’s data processing through the use of big data, artificial intelligence, machine learning and other advanced analytical approaches is critical for maintaining and enhancing ..."
-    publishedDateTime: 2020-10-27T16:47:00Z
-    webUrl: "https://spacenews.com/noaa-google-cloud-ota/"
+  - title: "Learning the language of sugars"
+    excerpt: "A team has now created a new suite of deep learning and bioinformatics tools that enable the comprehensive study of glycan sequences, providing insights into their functions and improving our understanding of infectious diseases. We're told from a young ..."
+    publishedDateTime: 2020-10-29T18:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201028134036.htm"
     type: article
     provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 39
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2020/10/rsz_20200807-safires.jpg"
-        width: 879
-        height: 494
-        isCached: true
-  - title: "A Machine Learning-Based Approach To Formality Equivalence Checking"
-    excerpt: "After all, it is using machine learning! Machine learning is the process that powers many of the services we use today— recommendation systems like those on Netflix, YouTube, and Spotify; search engines like Google and Baidu; social-media feeds like ..."
-    publishedDateTime: 2020-10-29T07:03:00Z
-    webUrl: "https://semiengineering.com/a-machine-learning-based-approach-to-formality-equivalence-checking/"
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 36
+  - title: "Learning the language of sugars"
+    excerpt: "To trace this history of glycan sequence development and identify meaningful trends and patterns, the research team turned to machine learning algorithms -- specifically, natural language processing (NLP), which has previously demonstrated success in ..."
+    publishedDateTime: 2020-10-28T17:07:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/wifb-ltl102620.php"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/Synopsys_ML-formality-equivalence-checking-fig1.png?fit=1662%2C1050&#038;ssl=1"
-        width: 1662
-        height: 1050
-        isCached: true
-  - title: "Amesite Launches New Plug-and-Play Course Creation for Remote Learning and Business Training"
-    excerpt: "PRNewswire/ -- Amesite Inc. (Nasdaq: AMST), an artificial intelligence software company providing online learning ecosystems for business, higher education, and K-12, announced today the release of its new Course Manager capability,"
-    publishedDateTime: 2020-10-29T10:55:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-professional-services-educational-technology-distance-learning-b34d01cc63aa616bd1f8afa546adc91b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 6
 
 secured: "RMWw640rwNU49/UB2kJzLU6Y5+Aqxv2xpf6W7v/iigyFepfkN2ExR4r4lXI0iNvSO5h7WTSm1/MLBoU92tmkd+J7Kizwpgu9NoAKRRNKPbhgwShfQJ76QdA7jF3AcK947K/NY+7vJGXYiTWtjuSj6zO/vs0MzEbznv/on/w+2hZfIikrTcWuvp+csC2bbQSjfHO+mWY0cqsuUJgVR+IwCfmFXSKCkbslAwSZ8yt/yCRIg74R9K+VCInjlN9A8PRcOu1U3G6XspMy3CLWwRi2Xqx9PGLpaEiaD9z8Pa4gzBiKwfDq+UjUBJolDO9KeWmYSrEW0dM6RCeBTx+2b2lznhT5MKxCKkXcxycpCHK6NQ0yoClwMxbS1d7GamNqGjd/1SGVDA2nTsf1d9LuISBF6qHNwKF5kP1EZZN5huT6tqh33k3TfTXH76rtST2CqCg7GT1L3kKZpiYXDrEyOHFPtphCltpd6CTe8wqAlQJlH/XySu0vpjTR0qricFBICXf39AehMD+fswMpzl/b+Ck11Q==;1I0k/TsCPtLuuCrN4pYWjQ=="
 ---

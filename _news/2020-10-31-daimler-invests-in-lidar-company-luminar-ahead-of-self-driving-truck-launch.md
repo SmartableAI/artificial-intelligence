@@ -153,6 +153,22 @@ related:
         width: 360
         height: 270
         isCached: true
+  - title: "Daimler Trucks’ self-driving haulage finds a key part of its autonomous vision"
+    excerpt: "Daimler Trucks just gone done inking a collaboration with Waymo, and now it’s picking out cutting edge sensors for its self-driving haulage as the pieces slot into place for autonomy. The German automaker announced earlier this week that it would be ..."
+    publishedDateTime: 2020-10-30T19:31:00Z
+    webUrl: "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/"
+    ampWebUrl: "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 85
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/10/Daimler_Truck_Luminar.jpg"
+        width: 1680
+        height: 1049
+        isCached: true
   - title: "Waymo, Daimler partner to make self-driving trucks"
     excerpt: "Alphabet Inc's autonomous driving technology development unit, Waymo, and a division of Germany's luxury carmaker Daimler AG have teamed up to make heavy-duty, self-driving trucks in the United States, the companies said on Tuesday. As part of the deal ..."
     publishedDateTime: 2020-10-27T14:35:00Z
@@ -342,6 +358,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Daimler teams up with lidar maker Luminar for self-driving trucks"
+    excerpt: "Daimler AG’s truck business, the world’s biggest manufacturer of commercial vehicles, today said that it’s teaming up with lidar maker Luminar Technologies Inc. to develop self-driving trucks."
+    publishedDateTime: 2020-10-30T19:44:00Z
+    webUrl: "https://siliconangle.com/2020/10/30/daimler-teams-lidar-maker-luminar-self-driving-trucks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/daimler.jpg"
+        width: 1000
+        height: 558
+        isCached: true
   - title: "Daimler invests in lidar startup Luminar to bolster self-driving truck effort"
     excerpt: "Daimler’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from Alphabet Inc."
     publishedDateTime: 2020-10-30T14:23:00Z
@@ -386,6 +416,6 @@ related:
       domain: globalspec.com
     quality: 34
 
-secured: "lGTzeL5AOQ/rPhv9/H4xs5EEfQqNr40Ba8IRXwc1Z3ey+NHUhxYNfUPzxu/y2Xfe7UfIgROiT4U11nm7L8Dfm8FMHgue2c2kUF6qLQUxX3TkbM8HAjU1ttoaM+uPDQ6+/R4llfgkS+jzZAMVdLHdNvkbZ5IkCKhW2RVjh4OndvjYo2ssKUlamTkHITKZl1WnEbkuUJ0VzXmoL2cxdsJ+acxaMqiPY+tpVlllccGArxvRQv21O8tpZ1n6V6kh7XyGL87BtOWLVHAH3Brzpqc7mfTfhOFmvWUQGVz2Ln1VG5I88uxO7AI9d6UXiyYcXHqfdCxrs6YBsEIUCMjWvOOz9OgAPoOX9DsSoG1V+IhQPyA=;5ZaR/BfsRgeU11/SGCWtbA=="
+secured: "xRdhR4834qkiEnQVjCpxN5pn1aM0aBLqIt6HqqA2CkFsq8XpsIFr9Itze7pt87fPEaqyEOLXHE1DxVHEIfyrtlcEWRieiS776jb949P7yLZXHdAN0ZUZlCRh5E8pSa58mnO2So18NbPl7+zQcLts6/oAZUqAfNqXdateycnDECEm+G00U/eHVXeC+hhVHAdytZbAZ3H1CEgtbtb1PylftJnHyVtuJSHqZJ4OTYX8mu+pXe0+g/fOS+FjzTBNdy9q2RO/ppKS3YQ3KiNCiHVGQSBel2z0kpj0c6br83FYPdMJEVIWh2/kA0wxMQXrT21d9HUpubz7OgIiX3aKFPYOKoLk/zx2Ljh7Lf7dYRoiHQbtXsSe10o7ebFBKP4L9ox0VjVtc8M9TBT2gdPJrUmS4/SHfNdsLfGq2l62xTeK9Sh+hi80IIW8gOhX7gX0wBFDPoXRmAudZj+DHtRGsJNcj+35A0HW4o5oPlszUPkW4yWsVlCFj86zWAhQV9cxfda3skhjVRE9ZedDjBVT40vrvg==;w+uuzPtt5WGj+XwbCm5TwQ=="
 ---
 
