@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-30T13:03:00Z
 originalUrl: "https://www.eejournal.com/industry_news/samsung-and-verisilicon-enable-blaize-to-meet-aggressive-time-to-market-goals-for-new-ai-edge-processor/"
 webUrl: "https://www.eejournal.com/industry_news/samsung-and-verisilicon-enable-blaize-to-meet-aggressive-time-to-market-goals-for-new-ai-edge-processor/"
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"

@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-managem
 webUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Workday Adds Data Management and Machine Learning Innovations"
+    excerpt: "Workday Accounting Center enables customers to ingest operational data, enrich it with meaningful attributes, and transform it into accounting. This allows customers to manage operational and financial data from multiple sources with a single point of"
+    publishedDateTime: 2020-10-30T15:30:00Z
+    webUrl: "https://www.cpapracticeadvisor.com/accounting-audit/news/21160701/workday-adds-data-management-and-machine-learning-innovations"
+    type: article
+    provider:
+      name: CPA Practice Advisor
+      domain: cpapracticeadvisor.com
+    quality: 39
+    images:
+      - url: "https://img.cpapracticeadvisor.com/files/base/cygnus/cpa/image/2020/10/Workdaylogo.png.imgw.720.720_1_.5f9c308d5ac0a.png?auto=format&fit=max&w=1200"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "Data Management Best Practices for Machine Learning"
     excerpt: "Machine learning is on the rise at businesses hungry for greater automation and intelligence. A recent study fielded amongst the subscribers of DBTA found that 48% currently have machine learning initiatives underway with another 20% considering adoption."
     publishedDateTime: 2020-10-27T07:10:00Z

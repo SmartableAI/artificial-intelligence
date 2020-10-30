@@ -28,6 +28,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 52
+  - title: "Workday Adds Data Management and Machine Learning Innovations"
+    excerpt: "Workday Accounting Center enables customers to ingest operational data, enrich it with meaningful attributes, and transform it into accounting. This allows customers to manage operational and financial data from multiple sources with a single point of"
+    publishedDateTime: 2020-10-30T15:30:00Z
+    webUrl: "https://www.cpapracticeadvisor.com/accounting-audit/news/21160701/workday-adds-data-management-and-machine-learning-innovations"
+    type: article
+    provider:
+      name: CPA Practice Advisor
+      domain: cpapracticeadvisor.com
+    quality: 39
+    images:
+      - url: "https://img.cpapracticeadvisor.com/files/base/cygnus/cpa/image/2020/10/Workdaylogo.png.imgw.720.720_1_.5f9c308d5ac0a.png?auto=format&fit=max&w=1200"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "Workday, Inc.: Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance"
     excerpt: "Advances in Managing Data Create New Levels of Insight and Performance Accountability for Today's Agile OrganizationsPLEASANTON, Calif., Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc ("
     publishedDateTime: 2020-10-29T12:05:00Z

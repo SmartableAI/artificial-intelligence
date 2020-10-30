@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ..."
-publishedDateTime: 2020-10-27T15:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+excerpt: "Artificial Intelligence (AI) is expected to contribute up to US$ 15.7 trillion to global GDP by 2030. AI applications, powered by an influx of big data and advancements in computing power, are positioned to transform major sectors, including healthcare."
+publishedDateTime: 2020-10-27T00:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
 type: article
-quality: 51
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
+    width: 1279
+    height: 670
+    isCached: true
 
 related:
   - title: "Global Artificial Intelligence in Healthcare Market"
@@ -133,6 +134,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "l1lU8pYCOCTPTG7WF5svWDGcxg/DQZPOdYeMzmtrH1Kb6QaB+sD9ORPpaof2XGCYx7NbFogpJcdLusgMYWKVDaMw/Aie3rdKpmhQ6Az8hvAMLtX8l07X/Gdzc+PXwVgc0+EdpHxfIfBwi0AOuomKFkOwwg6Os0eHsTsV4mcnu85gm+fMw2BUn9kiRd9Z/hb/YLZlaimZX46FIBTHgqbXb9qqoKVwY+F8NW1MVdvBECGxLKn8NbBmB8IC7ILXbt8P1pMtUDeWDMWZuQQMEbqJZUHAMe4L4meqZFkGgU4HdXKl1ZIbgQ1kJRLTSv+mZZ+bVkv+HHk1fIDZn04BP746psQTNpFcVZZcUlAWNlIm3xM=;lnIZVc9VpPHTDY8yzcyJ5Q=="
+secured: "/GqzNL5ysKtXOyeFyQvEW09kJRV08TV18kPo7nKMsuN6Sg5vz+ykhlsF+m/aj0faHOj/bubHk6uEAhhWNW0b/f6LJ7SqRmkZgese81a0L2PHGPtC+wNZMxUoBRL9ozoDMxIroUWyjYuHltUuVi5TKM0vzQ4d1lyMqZVh14bMrUQiDK9R4CNmti1vEoNu+yUT7BLMBUW0abi74IZRac+VeXQl0Nk3TccJPIeSJctwoxtV2FgZiF42dBZFIpWCt32beqDLens4yrOyC2x3iAQ/ottOwENVh1kF8Og9FL9xjOhxxwKGyOhhzcdnIyrzd+h6mkW7VizUZnUFb1d26DOt/HdozGcZWolOStSisMuUY2I=;2a4DyZ56xXGJlRCH4wEAQw=="
 ---
 

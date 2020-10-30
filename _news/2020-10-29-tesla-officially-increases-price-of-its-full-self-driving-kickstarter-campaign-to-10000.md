@@ -47,6 +47,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Tesla raises price of Full Self-Driving mode to $10,000 now that it's in beta"
+    excerpt: "Elon Musk warned that Tesla would hike the price of Full Self-Driving now that it’s in beta, and he’s being true to his word. The Verge reports Tesla has raised the cost of the package to $10,000 in the US for both new car buyers and upgrades,"
+    publishedDateTime: 2020-10-30T13:30:00Z
+    webUrl: "https://www.engadget.com/tesla-raises-full-self-driving-price-132658526.html"
+    ampWebUrl: "https://www.engadget.com/amp/tesla-raises-full-self-driving-price-132658526.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-raises-full-self-driving-price-132658526.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 101
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fc23c1040-1aae-11eb-9acb-4b8d39a25eae&client=amp-blogside-v2&signature=b0f48ec61612f35b33d4c0713a1a5f023581c1a1"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Tesla's Full Self-Driving beta is a reminder autonomous cars don't yet exist"
     excerpt: "Driving beta running with drivers behind the wheel bring a moment of pause. The videos seen here show off what I'm sure are just a tiny sliver of incidents Tesla owners experienced since the technology starting rolling out to cars in beta form last week."
     publishedDateTime: 2020-10-27T15:41:00Z

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Tesla beta testing \"full self-driving\" system worries drivers, pedestrians — and even owners"
-excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own, it turns out ..."
-publishedDateTime: 2020-10-26T19:50:00Z
-originalUrl: "https://www.nbcnews.com/business/autos/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-n1244787"
-webUrl: "https://www.nbcnews.com/business/autos/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-n1244787"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244787"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244787"
+title: "Tesla raises price of Full Self-Driving mode to $10,000 now that it's in beta"
+excerpt: "Elon Musk warned that Tesla would hike the price of Full Self-Driving now that it’s in beta, and he’s being true to his word. The Verge reports Tesla has raised the cost of the package to $10,000 in the US for both new car buyers and upgrades,"
+publishedDateTime: 2020-10-30T13:30:00Z
+originalUrl: "https://www.engadget.com/tesla-raises-full-self-driving-price-132658526.html"
+webUrl: "https://www.engadget.com/tesla-raises-full-self-driving-price-132658526.html"
+ampWebUrl: "https://www.engadget.com/amp/tesla-raises-full-self-driving-price-132658526.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-raises-full-self-driving-price-132658526.html"
 type: article
-quality: 78
+quality: 101
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3422644/201023-tesla-car-charge-ew-538p_f824f07adced2e84056d1439b9cad104.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fc23c1040-1aae-11eb-9acb-4b8d39a25eae&client=amp-blogside-v2&signature=b0f48ec61612f35b33d4c0713a1a5f023581c1a1"
+    width: 600
+    height: 350
     isCached: true
 
 related:
@@ -42,22 +46,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/Q2hKU1xHrSqpHBvLshBWf7i9NuI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67712901/acastro_180430_1777_tesla_0001.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Tesla raises price of Full Self-Driving mode to $10,000 now that it's in beta"
-    excerpt: "Elon Musk warned that Tesla would hike the price of Full Self-Driving now that it’s in beta, and he’s being true to his word. The Verge reports Tesla has raised the cost of the package to $10,000 in the US for both new car buyers and upgrades,"
-    publishedDateTime: 2020-10-30T13:30:00Z
-    webUrl: "https://www.engadget.com/tesla-raises-full-self-driving-price-132658526.html"
-    ampWebUrl: "https://www.engadget.com/amp/tesla-raises-full-self-driving-price-132658526.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-raises-full-self-driving-price-132658526.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 101
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fc23c1040-1aae-11eb-9acb-4b8d39a25eae&client=amp-blogside-v2&signature=b0f48ec61612f35b33d4c0713a1a5f023581c1a1"
-        width: 600
-        height: 350
         isCached: true
   - title: "Tesla officially increases price of its Full Self-Driving Kickstarter campaign to $10,000"
     excerpt: "Tesla has now officially increased the price of its Full Self-Driving package to $10,000 in the US. That’s quite a price for a model that most closely resembles a Kickstarter campaign. In a Kickstarter campaign,"
@@ -106,6 +94,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/10/27105405/Screen-Shot-2020-10-27-at-10.53.36-AM.png"
         width: 800
         height: 450
+        isCached: true
+  - title: "Tesla beta testing \"full self-driving\" system worries drivers, pedestrians — and even owners"
+    excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own, it turns out ..."
+    publishedDateTime: 2020-10-26T19:50:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-n1244787"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244787"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244787"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 78
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3422644/201023-tesla-car-charge-ew-538p_f824f07adced2e84056d1439b9cad104.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Watch this self-driving race car hilariously smash into a wall"
     excerpt: "Autonomous cars are the future, apparently. Watch this self-driving car race series and decide for yourself how far along the tech is."
@@ -319,6 +323,6 @@ related:
         height: 630
         isCached: true
 
-secured: "PyOihrfJ/oui5jNg1KkGq3ZBazHxj5vEa2ILoBpHH/mNkfVSdIByA6++S5hyNvLqoKSd0+ljGQSfqW6jmUXuY6MKC9qVoEDfzblVqzR+IHoh3/iqRjLfIHXkgqOIT348UZtc8EM0k41FsOHIIwMIqspG9QtKPvsU51DUgfwDkrAdgbO7WjjBUxFOxjicIFCUshFqzXEzilAjbQipdJyevPlh2weTu5zimnXWc52JZl74xJFG7iDxhYFdKbBM7G6cyxF100HCMghIxFuzSBhIZH5+lU9WiQLU6i+2w1+Y3h4rTLRVlYj3L8P1vebQbbtN/To+nBaZVj1554sXfwr65RtxIjRTqD5Omy9ak5VOAkh0N22g1V2Mvn1k24u/3je/TEuF6SENiId8K2uf7RlX0ouASyO1IQN+H/gkpXPxyUNu650drgOqHbU4z9q4ZRH4vaZnq8oy9zLDRR6Kkpb7Eel043Zjwfng/xIBN3nYPnbQ3Fqq3v2I+PILf/QMxe2HMpRUqsCsAqQJANhj+C1ulQ==;4BPAl6Ufi+44nn5pd+hahw=="
+secured: "PS7LXMuWc2iWlE3TJjwD1jkJZlxWiWgF1HDa4R5UvBvYI1dxf5X6fjnyCfLznGZ8PEy0ktdWMlhnjTJyw9VpXAKU6tdGU9NIg7KKoVfdHVJj/7EfrmPkLt8qJiTfBlNmp7bBRU6IkFV3Rt9yuN399uKtRBKFNKwutdSgIWDZppPTBuBgpv0uqI0+/MES1uECt7aJ/S97yzdWNXem51+xlsvqWqorqCDMoQ7qQ9OQBmDKMfm0mNrrwcFMmdPypfRHl1cKD0EXSD+jBmUmtXwL2C44hYMecS4PNJEfj6CFjlisgBJUD8WED0g07W0OIBwECIHOt5r8FdLDdtFalLbMsYH9y+43KriRJw/kgiEjiCE=;F7bzxXHgqTSY/IB/X+mraw=="
 ---
 

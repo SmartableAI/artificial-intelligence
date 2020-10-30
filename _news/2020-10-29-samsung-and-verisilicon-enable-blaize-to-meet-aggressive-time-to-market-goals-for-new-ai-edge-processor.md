@@ -33,7 +33,7 @@ related:
     provider:
       name: Electronic Engineering Journal
       domain: eejournal.com
-    quality: 21
+    quality: 23
     images:
       - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
         width: 512
