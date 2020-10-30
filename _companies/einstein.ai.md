@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "einstein_ai"
   url: "https://twitter.com/einstein_ai"
-  followers: 130
+  followers: 129
 
 
 topics:
