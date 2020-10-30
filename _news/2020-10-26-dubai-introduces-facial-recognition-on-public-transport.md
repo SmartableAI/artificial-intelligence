@@ -9,7 +9,7 @@ ampWebUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-tech
 cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai set to introduce facial recognition system on public transport"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
-    publishedDateTime: 2020-10-25T20:26:00Z
-    webUrl: "https://www.business-standard.com/article/international/dubai-set-to-introduce-facial-recognition-system-on-public-transport-120102600046_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/dubai-set-to-introduce-facial-recognition-system-on-public-transport-120102600046_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/dubai-set-to-introduce-facial-recognition-system-on-public-transport-120102600046_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 74
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/26/full/1593115870-6713.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Dubai to introduce facial recognition system on public transport"
     excerpt: "DUBAI: Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has proven its effectiveness to identify suspicious ..."
     publishedDateTime: 2020-10-26T03:26:00Z

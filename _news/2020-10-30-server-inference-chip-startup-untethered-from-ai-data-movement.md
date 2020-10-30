@@ -37,7 +37,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/10/29/470db163-bd0f-42db-884d-a81b219a724d/warden-2020-what-tinyml-needs-from-hardware.png"
         width: 3331

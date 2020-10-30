@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-adv
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
 type: article
 quality: 71
-heat: 101
+heat: 81
 published: true
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
-    publishedDateTime: 2020-10-28T04:25:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 69
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
-        width: 1678
-        height: 1119
-        isCached: true
   - title: "Artificial Intelligence as a Service"
     excerpt: "The Artificial Intelligence as a Service market is expected to grow from USD 1.6 Billion in 2019 to USD 13 Billion by 2027, at a Compound Annual Growth Rate (CAGR) of 51% during the forecast period. A comprehensive analysis titled; Artificial Intelligence ..."
     publishedDateTime: 2020-10-27T12:03:00Z
@@ -51,20 +37,6 @@ related:
       - url: "https://cdn.openpr.com/T/a/Ta27780023_g.jpg"
         width: 550
         height: 312
-        isCached: true
-  - title: "Grades, And Artificial Intelligence"
-    excerpt: "If you ask about your grade, I’ll gladly tell you that you’re doing well in the course, or that you really need to do better, as the case may be. More specifically than that I will not say. The main reason for this is that if I were a hiring manager at ..."
-    publishedDateTime: 2020-10-29T19:24:00Z
-    webUrl: "https://www.science20.com/fred_phillips/grades_and_artificial_intelligence-251477"
-    type: article
-    provider:
-      name: Science 2.0
-      domain: science20.com
-    quality: 37
-    images:
-      - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"
-        width: 300
-        height: 261
         isCached: true
 
 secured: "vuEYwCTxwrlEvJ97Bd+X/8bRpBjBVdw7mQxOAuemQhY0qiSHhqw3M542jgTWbuCcgDQOINSC9WKPskaBAsy3FLGLuZ45hj08N1yoLT14AWx9aCDpuc27MhRqlTD9onjrCPK+5cuevtWNmT8XyyQnaBcCI/DtNgjEs0KkmXmcG6Gzl/IinXH3PIcSleIOj3iA30a/M9iMaHip9dKRl+D05SAEMJZPt31UmWaHW/jzRfdu5L7HrcLzSCgUHLN4A9C5tsURmcwx7mqWPav17iJxnlmnlHb47bD2PntTLGeRJyhCBa40WG/71KMrTafgJsEgA+yUAOHMnfpNn9XfBU7TYvu4/BvF8e/oRrtfsmBiU6A=;MXArahrylcSecVLsoZ8MAQ=="

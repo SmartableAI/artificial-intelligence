@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/"
 type: article
 quality: 117
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://api.thedrive.com/wp-content/uploads/2020/10/oop_970x546.jpg?quality=85"
         width: 1940
         height: 1092
+        isCached: true
+  - title: "Tesla increases price of Full Self-Driving to $10,000"
+    excerpt: "Tesla continues to raise the price of its Full Self-Driving (FSD) electronic driver-assist feature. The company raised the price to $10,000 this week, up from $8,000 previously. The feature cost $ ..."
+    publishedDateTime: 2020-10-30T12:40:00Z
+    webUrl: "https://motorauthority.com/news/1130135_tesla-increases-price-of-full-self-driving-to-10-000"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/2020-tesla-model-x_100736314_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "YCQb7yJ6BBcfn8OW54MAHQ+A8POBjF2nzhYRJKO+kJdhaAHuO+Gbasqnlst4mW1i+RF/EFj8XW10SjqxkYeHcbjMXjJ0ODQLsjFhR9q8lUXrZQfchTkGlrUDrFMu6LiDCJXYp8ZYc0+Iiv0F/zj32gKjS0ZABu10eQdH9bx6X1XhIjjmGPi4KTEsGsV3BdRR/cia1d/xc5D2b0JgUBnYIuWdi1m+kx3uFqzzKqM4gTjMFCl+b/AHmOOzbP4yIOiro4g2+cWbYMp/0E0KUsTW1vgf+KQrleAf8rtLv8AfaNLBVrxyHEwkbRgTwH0Np2AyBtPFf6Nk9avR1A138pUNVOE2nz3AURZy19Cb8QlLbsWqtDM2kbTO2BaVoFa4p92JMPf81Y2ad4CVORKyFJ1J5AWOZyKfJxMWD/3EeGmwE6SBeAbxSgMn6sp3JdFx34BQnlLqTio6AEOfFDMtc44AfJ+9D9LXEnQqjVxorXXLFCbBNU4o6mXyB7bznmL2NSnWDG8JhAZncvDKr0IfTBoq0A==;nPK22tCD+ZBDSAoOloRiFg=="

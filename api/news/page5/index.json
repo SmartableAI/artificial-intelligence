@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-10-26-30000-grant-to-support-uhv-math-robotics-programs.md",
-      "title": "$30,000 grant to support UHV math, robotics programs",
-      "excerpt": "A $30,000 grant from Alcoa Foundation will allow the University of Houston-Victoria to continue to host public events focused on math, computer science and robotics for middle and high school",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/news/30-000-grant-to-support-uhv-math-robotics-programs/article_bd86a028-13de-11eb-94c0-5fb7be856e28.html",
-      "originalUrl": "https://www.victoriaadvocate.com/news/30-000-grant-to-support-uhv-math-robotics-programs/article_bd86a028-13de-11eb-94c0-5fb7be856e28.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/0/b4/0b42eab4-f34e-11e8-aa1f-f32a7a8d25be/5bfefdbc06708.image.jpg?resize=500%2C625",
-          "width": 500,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-25T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-ford-mustang-mach-e-electric-car-sees-first-firm-dates-tesla-model-y-rival-revs-up-production.md",
       "title": "Ford Mustang Mach-E Electric Car Sees First Firm Dates: Tesla Model Y Rival Revs Up Production",
       "excerpt": "E electric are seeing hard production dates. Several people who placed orders for the Ford Electric crossover are receiving notifications of production dates of December 7, 2020, according to posts on the Mustang Mach E Reddit forum and the Mach E Club.",
@@ -1215,6 +1171,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting.md",
+      "title": "HelloWoofy is the AI-driven brain that could change how you handle social posting.",
+      "excerpt": "Sponsored Deals For companies who don’t have the resources to throw their full weight behind social media marketing the way they should, a service like HelloWoofy Social Media Management can be like adding that social media manager they need.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/",
+      "originalUrl": "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/sale_31494_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/amp/",
+      "publishedDateTime": "2020-10-23T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

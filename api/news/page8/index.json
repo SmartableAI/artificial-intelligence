@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-10-22-facebook-is-developing-a-way-to-type-using-vr-on-tabletops.md",
-      "title": "Facebook is developing a way to type using VR on tabletops",
-      "excerpt": "Facebook Reality Labs' latest research project, being presented at the Symposium on User Interface and Software Technology, demonstrates hand-typing on a desk at up to 73 words per minute. The project isn't ready for Oculus Quest VR headsets yet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
-      "originalUrl": "https://www.cnet.com/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/CR8VckH_PQuQB_a1B_LRE-ROb9Q=/1200x630/2020/10/21/b81c65ac-f9f5-4d53-a672-74afeb77c6f0/frl-vr-typing-screenshot.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
-      "publishedDateTime": "2020-10-21T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-22-best-facial-recognition-security-cameras-of-2020.md",
       "title": "Best facial recognition security cameras of 2020",
       "excerpt": "Select home security cameras have facial recognition, an advanced feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ...",
@@ -1245,6 +1193,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-kite-expands-its-ai-code-completions-from-2-to-13-programming-languages.md",
+      "title": "Kite expands its AI code completions from 2 to 13 programming languages",
+      "excerpt": "Kite's AI code completion supports programming languages Python, JavaScript, TypeScript, Java, HTML, CSS, Go, C, C#, C++, Objective C, Kotlin, and Scala.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/",
+      "originalUrl": "https://venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/kite-11-more-programming-languages.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/amp/",
+      "publishedDateTime": "2020-10-21T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

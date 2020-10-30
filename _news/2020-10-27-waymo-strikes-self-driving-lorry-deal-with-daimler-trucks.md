@@ -131,6 +131,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Daimler Invests in Lidar Startup to Bolster Self-Driving Truck Effort"
+    excerpt: "Daimler AG’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from a unit of Google parent Alphabet Inc. Daimler Truck AG ..."
+    publishedDateTime: 2020-10-30T11:58:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 89
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivAEZ0L1V7mU/v0/360x-1.jpg"
+        width: 360
+        height: 270
+        isCached: true
   - title: "Waymo, Daimler partner to make self-driving trucks"
     excerpt: "Alphabet Inc's autonomous driving technology development unit, Waymo, and a division of Germany's luxury carmaker Daimler AG have teamed up to make heavy-duty, self-driving trucks in the United States, the companies said on Tuesday. As part of the deal ..."
     publishedDateTime: 2020-10-27T14:35:00Z
@@ -320,6 +336,29 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Daimler invests in lidar startup Luminar to bolster self-driving truck effort"
+    excerpt: "Daimler’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from Alphabet Inc."
+    publishedDateTime: 2020-10-30T13:40:00Z
+    webUrl: "https://www.autonews.com/mobility-report/daimler-invests-lidar-startup-luminar-bolster-self-driving-truck-effort"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.autonews.com/styles/800x600/s3/ANE_170619841_AR_-1_UAAHVBCOZQPU.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Waymo and Daimler to build self-driving trucks"
+    excerpt: "Daimler Trucks and autonomous driving technology vendor Waymo are partnering to deploy self-driving SAE Level 4 trucks for future transportation logistics operations. The initial collaboration will combine Waymo’s automated driving technology with a new version of Daimler’s Freightliner Cascadia to enable autonomous driving."
+    publishedDateTime: 2020-10-30T12:46:00Z
+    webUrl: "https://insights.globalspec.com/article/15320/waymo-and-daimler-to-build-self-driving-trucks"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
 
 secured: "EW2rccCQIQFLgnOJt7prjTg0uaEoKiksBjLjwGb4zfbPKqT4qgHG8uuZtT7ir/fUkK/4hg38Cfmh9PGnyKzX1zmyZRoV22aaqdIQ1JP75f5WfHYOSG/azcD6V2BoAIVUypftwMLMDkcYmbrSDE+5BRbFkS/YEni4ErODk0NbiTfzKTmQsBxBQjDkWTTxMTiRSmWG+e3hP4Tx9b0PaaDTJS5cqV5+LF+zfMIWzN1CFJAWubb70wTn+e75MTLFHWnsFC+dFTLNR0DSAzDZjzEw1sEi4AtH/h+tazF5ZopPGpqSe/3fwdiuMl4T+3WdfLjVAeydCAl5x4Q0GM1/AJMiTqfm7aWF8iMoX2tTcX2RxqhVDb2mCu0br23/fxzc9VAxxT1YPF1BxBzWAoni1ASxTnxGGHNpKWBiA0qFU802U2ybbDg3q9BnB+aQDU+d+NY8+H0C05XaHlVUpCv6SF0rvtfDC4w9M3OjjhWIz5N+vXsT7hicSa8QnFdi3mc2imbWjqp6nJ1hECgBbtSRNfkP/w==;AeZYvlmQ63a7lyt8nASpMg=="
 ---

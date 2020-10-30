@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-training/amp/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -27,6 +27,73 @@ images:
     isCached: true
 
 related:
+  - title: "Blockchain aims to solve AI ethics and bias issues"
+    excerpt: "Gartner research has revealed that organizations deploying AI grew from 4 to 14 percent over the past two years so protecting data transparency, trustworthiness, and ethics in the multi-billion dollar AI industry is critical. The European Union are ..."
+    publishedDateTime: 2020-10-30T11:35:00Z
+    webUrl: "https://www.zdnet.com/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+  - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
+    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
+    publishedDateTime: 2020-10-28T05:40:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 71
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
+        width: 1678
+        height: 1119
+        isCached: true
+  - title: "The Ethics of Killing an AI"
+    excerpt: "Named after pioneering AI researcher Alan Turing, the Turing test helps determine when an AI is intelligent. Can a person conversing with a hidden AI tell whether it’s an AI or a human being? If he can’t,"
+    publishedDateTime: 2020-10-28T08:00:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/ethics-killing-ai-171473"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 56
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-07-09T000000Z_1114634064_RC2EPH9URISA_RTRMADP_3_CHINA-TECH.JPG"
+        width: 1800
+        height: 1199
+        isCached: true
+  - title: "The Future of AI, Ethics, and Defense"
+    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
+    publishedDateTime: 2020-10-26T16:25:00Z
+    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
+    type: article
+    provider:
+      name: German Marshall Fund
+      domain: gmfus.org
+    quality: 54
+    images:
+      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
+        width: 1400
+        height: 600
+        isCached: true
+  - title: "Ethics vs. compliance in AI"
+    excerpt: "The Defense Department is focused on implementing its ethics principles for artificial intelligence, especially when it comes to health-related data. But tech experts warn against conflating ethics as just another compliance checklist. Jane Pinelis ..."
+    publishedDateTime: 2020-10-27T19:16:00Z
+    webUrl: "https://defensesystems.com/articles/2020/10/27/ai-defense-ethics-compliance.aspx"
+    type: article
+    provider:
+      name: Defense Systems
+      domain: defensesystems.com
+    quality: 54
+    images:
+      - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIprocesses.png"
+        width: 620
+        height: 300
+        isCached: true
   - title: "Learn More About FinTech and Blockchain for Less Than $40"
     excerpt: "You’ll learn the ins and outs of Fintech and Blockchain thanks to this training bundle ... Courses will also teach you about Robo-Advisors, InsurTech, Stablecoins and the ins and outs of AI in the financial services industry. And the best part is ..."
     publishedDateTime: 2020-10-28T20:46:00Z
@@ -40,6 +107,20 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/10/sale_48031_primary_image_wide.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Grades, And Artificial Intelligence"
+    excerpt: "If you ask about your grade, I’ll gladly tell you that you’re doing well in the course, or that you really need to do better, as the case may be. More specifically than that I will not say. The main reason for this is that if I were a hiring manager at ..."
+    publishedDateTime: 2020-10-29T19:24:00Z
+    webUrl: "https://www.science20.com/fred_phillips/grades_and_artificial_intelligence-251477"
+    type: article
+    provider:
+      name: Science 2.0
+      domain: science20.com
+    quality: 37
+    images:
+      - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"
+        width: 300
+        height: 261
         isCached: true
   - title: "Become an Expert on the Future of FinTech and Blockchain with This $40 Bundle"
     excerpt: "The finance world is changing rapidly by the day. Unless you have a financial education, you're likely not up to speed on the fintech developments that are shaping the global economy's financial future."

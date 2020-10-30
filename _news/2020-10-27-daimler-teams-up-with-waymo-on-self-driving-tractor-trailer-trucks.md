@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/27/daimler-teams-up-with-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/27/daimler-teams-up-with-waymo-on-self-driving-tracto/"
 type: article
 quality: 104
-heat: 314
+heat: 344
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/JPKyygg3mYJjuzkLmuaC39AQQT8=/2020/10/26/bccd1433-8938-402b-88d5-c212c160aa07/ogi-cascadia.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Daimler Invests in Lidar Startup to Bolster Self-Driving Truck Effort"
+    excerpt: "Daimler AG’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from a unit of Google parent Alphabet Inc. Daimler Truck AG ..."
+    publishedDateTime: 2020-10-30T11:58:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 89
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivAEZ0L1V7mU/v0/360x-1.jpg"
+        width: 360
+        height: 270
         isCached: true
   - title: "Waymo, Daimler partner to make self-driving trucks"
     excerpt: "Alphabet Inc's autonomous driving technology development unit, Waymo, and a division of Germany's luxury carmaker Daimler AG have teamed up to make heavy-duty, self-driving trucks in the United States, the companies said on Tuesday. As part of the deal ..."
@@ -316,6 +332,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Daimler invests in lidar startup Luminar to bolster self-driving truck effort"
+    excerpt: "Daimler’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from Alphabet Inc."
+    publishedDateTime: 2020-10-30T13:40:00Z
+    webUrl: "https://www.autonews.com/mobility-report/daimler-invests-lidar-startup-luminar-bolster-self-driving-truck-effort"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.autonews.com/styles/800x600/s3/ANE_170619841_AR_-1_UAAHVBCOZQPU.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Waymo strikes self-driving lorry deal with Daimler Trucks"
     excerpt: "Waymo is partnering commercial vehicle group Daimler Trucks to power big-rig lorries, as Alphabet’s driverless technology unit moves its technology beyond carrying passengers to hauling freight. John Krafcik,"
     publishedDateTime: 2020-10-27T13:07:00Z
@@ -324,6 +354,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Waymo and Daimler to build self-driving trucks"
+    excerpt: "Daimler Trucks and autonomous driving technology vendor Waymo are partnering to deploy self-driving SAE Level 4 trucks for future transportation logistics operations. The initial collaboration will combine Waymo’s automated driving technology with a new version of Daimler’s Freightliner Cascadia to enable autonomous driving."
+    publishedDateTime: 2020-10-30T12:46:00Z
+    webUrl: "https://insights.globalspec.com/article/15320/waymo-and-daimler-to-build-self-driving-trucks"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 34
 
 secured: "wnFK2E8H6+dSb4YG4lOqUUEFCX/2QpK9X3sn9DuUqEQ3e9uUHtaSFk0IcvurFSTGuCaMqA9n3vh+G+SPrbrjQre8DKMpkMwj/v1t2LJA0rAM1bQzKhp1+UxKGVKeJ+Sgk0cbNny8LgOd+m/Grx1uwDez40qU6rntu/eSyoL7ADlKkaqo0uI0ONMy68uxSpZrNQbm9NRU1FQibUqfdSQENyoeiTZbhK/EDnfwtblRkpGgXnfALcpbr09AHNL5WXb/K4Vj8gDZ/yftIr5ezrYkpsMTGlsQPbpUxNBUlyi7C/XF92qffPyiDM5Ai5kWj19WEhGeGAHTuoXKyXNVgyEmrsAjopEOW2l14KCmAfe17GJcVVxpVn9JKAgaOxwMarNdfRNCBTqKYegzQ72yMf1zSaOFb0sX7GbSTs2bMHew9Mg6n4/r7Cj8guiJLu5mfPtRD2zlImAYaUQQc4eeDxFdUL8BsV/YqKnbzz67AZiqPNvDzy9HDLuvwnZWx+JlrCf6gQah2BiC/i3Z2R+NqVpxQg==;17HDo9Ho46easPV3oczcdA=="

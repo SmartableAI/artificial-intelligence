@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intell
 ampWebUrl: "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/amp/"
 type: article
-quality: 82
-heat: 82
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ab250fe11cd3ec3ad8215%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 775
     isCached: true
 
-secured: "IQ0QgZsdcTizijPXC9rmhPZrSRMuUclLj6jp2QI/9NT4lVvlD5qvIdU3L5/vvrHw+Giz/mSh5uaZT+odexnXkugd5j9JgxQcgWl3Aw2v1aXxhjQfxoG/tIjDksQDJiBrimAMCnfjrGiDSoVDeWTe4lLe5zCKbmZ+OLQxfeaNdQMVH7g5rJJaTDZkJal8DrGEpS/5coTlbMKr38n2tt1p3wZDCcAMV8VodEm6PXf9DdvQarHAvffvQsD/DHZeX57wm+8XjC7JfthFwes5nmL3UZdJ/oDB5MMVY9o8a5PT+MhrXJ3Glw5c6srVa/dkGbKTYd1i20qCBc4IJoJYWMj52ypZexqt7aOde1+dzpm/kO8=;NOFoc8VqMhojX2rGUVz9FQ=="
+secured: "X/DRO08iq3vJy9rx/5xZvsCnHeyB6vH0kyUW683Umuxlp6HxQHDLXa438VXIUGwaNe9IgucKF5wvBW1O9cWgh3mjxO+HeQk3lvs/1Dy1tD6vcCw8xkF5OtG5Epp61/tHsq4WtXuDfLwKWinBav5MPTbIFudZIdW7I/AEiWesz8DNy72Bx3okPS4DuScqDt5KPiU9+GfvrdPA+Tsb/USBQxWYdvY6h/dMK8RR4SdoMIXeJFcezkRR0nu3RK6MkpDAWSqTHR3S28cA0gpz7MoysswcTTfcgtaUJ94T8IKvO+dTsn/Mr86WBup3VLUK6XYr2BbfPXjMGPa4DUg2Qlod7pQgVjGGxbEFpwrDDsduqFnJQoEBwz2vicXpN2tX6JTdwIc/glWkEPAAKt3ADheB9AOJDubq5inhZuP0ZKwrz+WLDW5yyqAKbXyaKV/6MPJAm4D7mk7hn24v6LIBahN6Ynkj4Iw8PksMi8Ht9ux4b7uyyD0eMKfMYIAZPAqgz4S3A4YSWUv5vUSZ7fwGBcl2/g==;79LQr50VgmlLsxhfB1ejWw=="
 ---
 

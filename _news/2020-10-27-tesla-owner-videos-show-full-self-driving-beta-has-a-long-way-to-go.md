@@ -103,6 +103,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Tesla increases price of Full Self-Driving to $10,000"
+    excerpt: "Tesla continues to raise the price of its Full Self-Driving (FSD) electronic driver-assist feature. The company raised the price to $10,000 this week, up from $8,000 previously. The feature cost $ ..."
+    publishedDateTime: 2020-10-30T12:40:00Z
+    webUrl: "https://motorauthority.com/news/1130135_tesla-increases-price-of-full-self-driving-to-10-000"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/2020-tesla-model-x_100736314_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "wfEwv2GUmyPBd31K6eML0PSxWfY+maUfl6dXjrR3Ag+6Go/EUenOOnpTxAvh9JswOTnzHz9YLlpo/aKj1ZSFAxmAmP6DLaL68yLsPj/EgSXE+N2HJkay9RR1g/CJkizDzZwl44HU1qw6rtowl516zj26kjEobovW/GkEunH+yO+J6+z3A8As51DqCl8RafMBpyP5g2EB75O8FWpQ2uJR2Kc2rCbZZh51swXOVIeB5KfSkITgTexeAwNUN7lvtOzfEw/9hE4FDFaaeFMbHPTI/Q/pISt5pFDYt3f0x9FBJ2CYrJBOgFZH0Z0GsV6La29S+s96Cix91iX0ZzKmdv91zfKzvA8JNYeVn73OBuB5nbxtmE9VlQsuFqEpU1yPJ1cnAjEdbcAN4WNmCBjM02pYSs6QjOT8rPN57/hT1PEYFOE3ODfcR0idz5OndtpRtQO5lSLPYvkFEmZRJ4965zqcbfGg3wtJvQrGoVe9FyOuSvQMAnF7FFelQAdhsYRVuDP52xRzU8188qgwCZDhj2lDdw==;eBF7jU3rR0dCS3qefaE3eQ=="
 ---

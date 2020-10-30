@@ -189,6 +189,22 @@ related:
         width: 1024
         height: 501
         isCached: true
+  - title: "Tesla's Full Self-Driving Beta 'Learns' Roundabouts And Speed Bumps"
+    excerpt: "Tesla's FSD system is \"learning.\" As you can see, it appears to make corrections once test drivers \"teach\" it."
+    publishedDateTime: 2020-10-30T13:43:00Z
+    webUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/"
+    ampWebUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/0106m/s1/tesla-fsd-speed-bumps.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Consumer Reports Finds GM’s Self-Driving Tech Superior to Tesla’s Autopilot"
     excerpt: "Tesla’s Autopilot may be stealing more headlines as of late, but according to new findings from Consumer Reports, GM’s version is leagues ahead. Consumer advocate publication Consumer Reports recently conducted a test featuring a lineup of 17 vehicles with active driving assistance systems,"
     publishedDateTime: 2020-10-28T21:16:00Z
@@ -229,6 +245,22 @@ related:
       - url: "https://api.thedrive.com/wp-content/uploads/2020/10/tesla-fsd-moronic-lead.jpg?quality=85"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Race car drivers had a lot of fun making fun of self-driving race car driving straight into wall"
+    excerpt: "Race car drivers took to social media to point out their job security after video showed a self-driving race car drive itself into a wall."
+    publishedDateTime: 2020-10-30T06:06:00Z
+    webUrl: "https://thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
+    ampWebUrl: "http://amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
+    cdnAmpWebUrl: "https://amp-thecomeback-com.cdn.ampproject.org/c/amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
+    type: article
+    provider:
+      name: The Comeback
+      domain: thecomeback.com
+    quality: 46
+    images:
+      - url: "https://cdn1.thecomeback.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-29-at-11.58.31-PM-1024x567.png"
+        width: 1024
+        height: 567
         isCached: true
   - title: "Tesla beta testing “full self-driving” system worries drivers, pedestrians — and even owners – Jaweb"
     excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own,"

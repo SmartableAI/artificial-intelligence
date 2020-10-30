@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
 type: article
 quality: 104
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -189,6 +189,22 @@ related:
         width: 1024
         height: 501
         isCached: true
+  - title: "Tesla's Full Self-Driving Beta 'Learns' Roundabouts And Speed Bumps"
+    excerpt: "Tesla's FSD system is \"learning.\" As you can see, it appears to make corrections once test drivers \"teach\" it."
+    publishedDateTime: 2020-10-30T13:43:00Z
+    webUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/"
+    ampWebUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/0106m/s1/tesla-fsd-speed-bumps.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Consumer Reports Finds GM’s Self-Driving Tech Superior to Tesla’s Autopilot"
     excerpt: "Tesla’s Autopilot may be stealing more headlines as of late, but according to new findings from Consumer Reports, GM’s version is leagues ahead. Consumer advocate publication Consumer Reports recently conducted a test featuring a lineup of 17 vehicles with active driving assistance systems,"
     publishedDateTime: 2020-10-28T21:16:00Z
@@ -229,6 +245,22 @@ related:
       - url: "https://api.thedrive.com/wp-content/uploads/2020/10/tesla-fsd-moronic-lead.jpg?quality=85"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Race car drivers had a lot of fun making fun of self-driving race car driving straight into wall"
+    excerpt: "Race car drivers took to social media to point out their job security after video showed a self-driving race car drive itself into a wall."
+    publishedDateTime: 2020-10-30T06:06:00Z
+    webUrl: "https://thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
+    ampWebUrl: "http://amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
+    cdnAmpWebUrl: "https://amp-thecomeback-com.cdn.ampproject.org/c/amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
+    type: article
+    provider:
+      name: The Comeback
+      domain: thecomeback.com
+    quality: 46
+    images:
+      - url: "https://cdn1.thecomeback.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-29-at-11.58.31-PM-1024x567.png"
+        width: 1024
+        height: 567
         isCached: true
   - title: "Tesla beta testing “full self-driving” system worries drivers, pedestrians — and even owners – Jaweb"
     excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own,"
@@ -275,6 +307,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hGCIUVmRwlybfXDmDjMkrMhZS8ByoabcAfa6nuy0Vy+zJhv4txzYKdAAln8EyKTezLEEKdJ8JKFGorFnzfTZJMzUX8X5YLhXj8iMEUtd0UQRVMxRN1RWpuPJRx15MpkFi2xxTnxAewgwIM1g77vq79FAdrBq+87tovciBbfpZC/Mu90wBLfbb9PvgKn9AbM+r2Lf5M2DsNgO5k0Ad8pgmzBhBXYXW9KkgFC322tUAD2UpeIv4rEnhtz3MYmc6PoYWiqKA35siwu08QoFqozOckvLf+WiQxWFpwp3yaZEnmCYirKF7SWd7Mdm7X16apzvstVrpISjZlaL1kzniQHsJDQLv5PFFE77/WIEE1+NELE=;navhbgat/FhVzUJt+DR7FQ=="
+secured: "7rk7O6/oJK4UwsDHjK/Mqm5GoClKg2PIYF6XALK58YLFllb4qTszVNWtGGf+PhxcewFJsgXoZ8WpMHs+jOATLyZansmrPh3ne0R8wn6JbtTbfNs6XoMWUb8ZLvbjMmD1VAs60xRmOc/WqCY6GfDEFaxVQ2IMx60K4wk1hYSkOgQ0SQzPU2QHjA1iAkdc97qIlBiPOEMhuC3ZvmVItVh+lwE74CzH8VeTNnj8izYXqN7ylfjFjQeNVC3skor8xZpQFn+3QYU5yqK9wJFHQOhOgO70fXNvICx3M7NkAN67oo/uvdKdnUG/ZsjZjtMgLk2NgouQPI4M8c/sy9xjalU8UdhjJ86OjPkLJv6IDepP3bALZeTWCGHXGGcqK2CoaxvAy+B3stab0GV9jrY9XQKLeasdSHwE+cHUCgEh3PXcYhAIHL9i+/8OcGc0eERhYRDMXI+V8L+VR/TCDFFmz2OD6nF36eN7wx9zK8IaPPwvCmt0mBW1P3JocKR5HPACAf9NE7Ix1N/7NTgOizqLg0AOmg==;c1m5sYF8b1awS8Pnynye5Q=="
 ---
 

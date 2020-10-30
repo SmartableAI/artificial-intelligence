@@ -2,57 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2020-10-08-headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m.md",
-      "title": "Headroom, which uses AI to supercharge videoconferencing, raises $5M",
-      "excerpt": "Videoconferencing has become a cornerstone of how many of us work these days — so much so that one leading service, Zoom, has graduated into verb status because of how much it’s getting used. But does that mean videoconferencing works as well as it should?",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-4.25.11-PM.png?w=1024",
-          "width": 1024,
-          "height": 975,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/amp/",
-      "publishedDateTime": "2020-10-08T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-08-adobe-brings-more-ai-powered-tools-to-photoshop-and-premiere-elements-2021.md",
       "title": "Adobe brings more AI-powered tools to Photoshop and Premiere Elements 2021",
       "excerpt": "The 2021 versions of Photoshop Elements and Premiere Elements are now available, and Adobe has added a number of AI-powered features to them. Those apps are Adobe’s streamlined versions of Photoshop and Premiere,",
@@ -1170,6 +1119,49 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.md",
+      "title": "MediaTek Launches AI-Enabled MT9602 Chip to Power Premium Smart TVs",
+      "excerpt": "MediaTek officially unveiled the high performance Smart TV SoC MT9602 with comprehensive features enabling modern 4K HDR displays. The new SoC is designed to de",
+      "sourceUrl": null,
+      "webUrl": "https://technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html",
+      "originalUrl": "https://technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technuter.com/wp-content/uploads/2020/04/MediaTek.jpg",
+          "width": 351,
+          "height": 286,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html/amp",
+      "cdnAmpWebUrl": "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html/amp",
+      "publishedDateTime": "2020-10-08T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technuter.com",
+        "domain": "technuter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],
