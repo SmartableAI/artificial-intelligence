@@ -64,6 +64,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Azure to build its first cloud data center region in Taiwan"
+    excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
+    publishedDateTime: 2020-10-27T20:43:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-28T03:00:00Z
@@ -106,6 +120,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
+    excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."
+    publishedDateTime: 2020-10-30T06:52:00Z
+    webUrl: "https://www.newswiretoday.com/news/174030/Flood-Prediction-Project-Powered-by-SAS-IoT-Analytics-and-Microsoft-Azure-Earns-National-Innovation-Award/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 17
 
 secured: "7xTpjVwLMQLNFokPWr8QGK5wFhhsGAcbAyTWev3Rzl4uJrfJ1/nccNeSiOIJTJPvGD3UEeuqmnlGRMYXeVeT1zOMIR7Bt7Fo5GC8QuC38ntO4xbgYaraidNOba8Z+4o6XMjy2d68YTX/ynySpk59+eHCCOUbvGfd8JBsaO4dlQe7NgKvAtXL4NmjNPFQlKOzWiYMbP/7WRsHK/EOt1F8r6JRV7oUD+5bDPiTYYu3Fmv/rDOeosEkvQRUF1X0TMQc9JVa0W2HLUz9zv6eNnqNPk1kQeDRYgGnAn3rzQwr1rtwf8lVkms7758Bj0Tcv2+csqlK7sRJzkwuq0b0vy6+/3Phxh0Ij2nBoZruJtcDRtM=;aj7FvUId2Qpzn6bIHYsXVg=="
 ---

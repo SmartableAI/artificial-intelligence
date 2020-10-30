@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-i
 webUrl: "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934290cb19cefacf98fd1b%2F0x0.jpg%3FcropX1%3D20%26cropX2%3D3264%26cropY1%3D338%26cropY2%3D2162"
         width: 1200
         height: 675
+        isCached: true
+  - title: "US Based AI Marketing Cloud Startup Pyxis Raises $7 Million in Series A Funding"
+    excerpt: "Pyxis is a unique AI-led marketing cloud start-up headquartered in the US with an office in Bengaluru, India. The start-up has several innovative tools that provide a robust platform for creative automation and actionable marketing research analytics."
+    publishedDateTime: 2020-10-30T06:26:00Z
+    webUrl: "https://www.nyoooz.com/news/bengaluru/1519693/us-based-ai-marketing-cloud-startup-pyxis-raises-7-million-in-series-a-funding/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 50
+    images:
+      - url: "https://www.nyoooz.com/df-images/bengaluru/df-bengaluru-4.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Fast-growing St. Louis AI software startup Capacity raises $11M in Series C funding"
     excerpt: "The startup said its new financing came primarily from existing ... Founded in 2017 by Karandish and fellow entrepreneur Chris Sims, Capacity has developed an AI-enabled “help desk” technology that’s designed to capture and collect a company or ..."

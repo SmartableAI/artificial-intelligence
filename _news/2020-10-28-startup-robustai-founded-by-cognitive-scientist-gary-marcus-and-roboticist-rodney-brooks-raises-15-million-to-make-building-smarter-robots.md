@@ -26,19 +26,30 @@ images:
 
 related:
   - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
-    publishedDateTime: 2020-10-28T05:40:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+    excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
+    publishedDateTime: 2020-10-28T04:25:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 71
+    quality: 69
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
         width: 1678
         height: 1119
         isCached: true
+  - title: "7 AI Stocks to Buy as Automation Advances"
+    excerpt: "Oxford academics Carl Benedikt Frey and Michael Osborne estimated that 47% of American jobs are at high risk of automation by the mid-2030s, so it’s closer than we think. Many investors aren’t sure what the technology is or what AI stocks to buy in anticipation of its rise."
+    publishedDateTime: 2020-10-28T19:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28"
+    ampWebUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Services Infusing AI into Air, Land, Sea Robots"
     excerpt: "We believe that we have adversaries who are rapidly building up their forces … and are definitely applying AI to their operations,” said Nand Mulchandani, chief technology officer at the Pentagon’s Joint Artificial Intelligence Center."
     publishedDateTime: 2020-10-26T12:06:00Z
@@ -67,15 +78,6 @@ related:
         width: 1400
         height: 600
         isCached: true
-  - title: "7 AI Stocks to Buy as Automation Advances"
-    excerpt: "By the time talks start to center around AI stocks ... In present times, also consider Amazon’s use of AI and robotics within its warehouses. These little robots never tire, rarely stop and ..."
-    publishedDateTime: 2020-10-28T19:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
 
 secured: "GDtnPccA+toXoyIAnIWGVbGJIZYeAnSBHuKhB6ihrtG7I/r143fB6tlH8qpm0KYAqID4+GJhJIrG4wb2ox9ycwH3Z6CAt1P33FAofIlw+Rd6fTExBHwoO/8xpKiH6kVfdECzaLllMV830muTMbaxP9vdn/J4PvvvsYq8bWZfp269O7zEFaqobLzrjY89AmX6E0ZyvIbnd98lVEfxu40cEXtYqWWWdxIfm3Vzi67pBncX/5F4muqOVJvJgh/fYoEjEmtm7QykoEj8dAemw7DXKLj3vGwoJpT4/S7N4Pxu0pLxRRkmpf8vqp3RqnYhRFKy8iAMmfMw5FHL8edaR/iMtrQuZFX+0vmiSdVQGDWL0P8=;7zVY1YNhM7N+nnru3qjQrw=="
 ---

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
-publishedDateTime: 2020-10-28T05:40:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
+publishedDateTime: 2020-10-28T04:25:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
+webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
 type: article
-quality: 71
-heat: 111
+quality: 69
+heat: 109
 published: true
 
 provider:
@@ -15,9 +15,8 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
@@ -26,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "7 AI Stocks to Buy as Automation Advances"
+    excerpt: "Oxford academics Carl Benedikt Frey and Michael Osborne estimated that 47% of American jobs are at high risk of automation by the mid-2030s, so it’s closer than we think. Many investors aren’t sure what the technology is or what AI stocks to buy in anticipation of its rise."
+    publishedDateTime: 2020-10-28T19:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28"
+    ampWebUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Services Infusing AI into Air, Land, Sea Robots"
     excerpt: "We believe that we have adversaries who are rapidly building up their forces … and are definitely applying AI to their operations,” said Nand Mulchandani, chief technology officer at the Pentagon’s Joint Artificial Intelligence Center."
     publishedDateTime: 2020-10-26T12:06:00Z
@@ -54,15 +64,6 @@ related:
         width: 1400
         height: 600
         isCached: true
-  - title: "7 AI Stocks to Buy as Automation Advances"
-    excerpt: "By the time talks start to center around AI stocks ... In present times, also consider Amazon’s use of AI and robotics within its warehouses. These little robots never tire, rarely stop and ..."
-    publishedDateTime: 2020-10-28T19:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
   - title: "Startup Robust.AI, Founded By Cognitive Scientist Gary Marcus And Roboticist Rodney Brooks, Raises $15 Million To Make Building Smarter Robots Easier"
     excerpt: "Robust.AI raised $15 million led by Jazz Ventures to build a cognitive engine for robotics. The goal: To allow people to build robots faster, cheaper and"
     publishedDateTime: 2020-10-28T15:06:00Z
@@ -78,6 +79,6 @@ related:
         height: 2448
         isCached: true
 
-secured: "hbrtWFmh38UPu47ksxP13+rXVll067iIilwq6wu+mGXqQWbIzQxkHAQ/SVOVltiPtTkWsIhI0K/xdxmXS2bT/23ZnAQLfA/ar2uWqSyQGoLgSGbpBzAV2ZB2xMlwyPUDAaMDoom6OKi+kNS7tEh4beOODy7x9hPIB5lY1LOJSA1NJy248r6BYSBU+Wx7CuECo+0wc5XK0/Q2dRoeUH+0O8AGvbCNFyhR5yMpyIpLX9dZcoy9LQveynfRl5QwVr+eIYB0tMgeNGupzk5CTFd1m2z43EkNCfHXOnv7MMqR2h3JlUFYcLZ49ycVDT+8/KvPemkkNnCWpq5jo0jEmFGY2LYaZ4tiy3uoAqzcJQJGxjo=;5Bru2QUaOp5pghzhPvLUTg=="
+secured: "nHceU3JoECWO2qUohxnAs5vkneJ82iyZsl0ifY+Nl6xl3KaMvv6HcLeyKD6LyqZxlLxFLXXFuWqjsx2rU8HDNXYy2ScrIKe22gJpmuLXChQXpx2h+TpPmYEDQz1MtECIY/eJTSoUTyqyZZiJSBNu+bo6OQSdMBNsEkHYJ2VK1dw/s33PNO2yEQz51SmrnqFxxHzLJf9UeHE3X7bLNYKmQd3xIBotMeN2ev/WOP4ZJw8EeSkPOgfl2EAMtDSFO58yhCOEqNwDfpSzNPEzM+4FihHHBFGwDp7eC3OEYDkBFYQiPK/PRJN+44p/GAVxeJFAxH2qFzIel5MM8eVfLsdWOCgbqQxkbL99AeImGgbxkPQ=;8TgU6OPymchK75BCqOghmw=="
 ---
 

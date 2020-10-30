@@ -50,6 +50,17 @@ related:
         width: 320
         height: 219
         isCached: true
+  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
+    excerpt: "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
+    publishedDateTime: 2020-10-30T07:55:00Z
+    webUrl: "https://www.finyear.com/AI-Powered-Trading-Platform-Tickeron-Releases-New-Swing-Trading-AI-Robots_a43087.html"
+    ampWebUrl: "https://www.finyear.com/AI-Powered-Trading-Platform-Tickeron-Releases-New-Swing-Trading-AI-Robots_a43087.amp.html"
+    cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/AI-Powered-Trading-Platform-Tickeron-Releases-New-Swing-Trading-AI-Robots_a43087.amp.html"
+    type: article
+    provider:
+      name: FinYear
+      domain: finyear.com
+    quality: 53
 
 secured: "usyXWmwBjbJe1OmPXq3oRaBxM1qzlHy7xOsWWqLEdO0YA5kAfNHTwm5SwPYIer2wukYpUaSCo+5FduBAQpsSY1bbUAQ4QknDM0qZhn8FBSzVnoim3wSNkci3UVGP/2iKSc+dUWASZ+huGeWhTQera5KWr1S4LQro+Eu/0vrYofuzzJZLEyqNfLBZQij2MJNoWi/9faVwc8BhgDGuPcDVgPU+jp+TI/poNx8n776YNQMS2mzeywvxUAovXfven7irmsBnTe81q2JZhbZReTCgk5n9Bi8ZKzRuVDDd8aUCWnLJYDRZr5efXCL7Dn44tdAF1Vjp+XNgjZ8lx0Um1PehX5CNbDDkdtd03bgX3Ave9lA=;3PwgvkHWy6JjEQEftR3rYg=="
 ---

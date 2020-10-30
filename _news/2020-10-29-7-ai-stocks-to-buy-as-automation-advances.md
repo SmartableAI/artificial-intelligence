@@ -1,39 +1,35 @@
 ---
 category: news
 title: "7 AI Stocks to Buy as Automation Advances"
-excerpt: "By the time talks start to center around AI stocks ... In present times, also consider Amazon’s use of AI and robotics within its warehouses. These little robots never tire, rarely stop and ..."
-publishedDateTime: 2020-10-28T19:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496"
-webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496"
+excerpt: "Oxford academics Carl Benedikt Frey and Michael Osborne estimated that 47% of American jobs are at high risk of automation by the mid-2030s, so it’s closer than we think. Many investors aren’t sure what the technology is or what AI stocks to buy in anticipation of its rise."
+publishedDateTime: 2020-10-28T19:52:00Z
+originalUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28"
+webUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28"
+ampWebUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
 type: article
-quality: 53
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
   - AI
-  - AI in Autos
-  - AI Hardware
 
 related:
   - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
-    publishedDateTime: 2020-10-28T05:40:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+    excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
+    publishedDateTime: 2020-10-28T04:25:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 71
+    quality: 69
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
         width: 1678
@@ -82,6 +78,6 @@ related:
         height: 2448
         isCached: true
 
-secured: "KXGVMEbXEUEbBAVrEy9bzrW97UEGsCmlz2jF0Ef0a/GJuxHlVyLPhY7MQX4/WiE6afq7keVqNZJJkidfTlNykCG2P+KoE8iR39nj1HmzkMtjJLgw3RYuRzQW+sKcd6mhB3r85ay6NXv21ffeu0zHNCdpPyypFp0DI6SB6Q67F9qEoJ00ELX7c1You2sZ8aPuuXvE2dhKoUywYAiDS9LuBeuUHnV44qYEsfIGgaQtjbscH3ICJNrGzh4XrzVRwQfcq4uFfVncwrO32hIacn1Pjm0jI6Qdfoa0AtTw53JLAyBSKE3NPWXL8xbpB9E7QqCDCKq34eDX8yscKcA76e34SusQXdcmBbtoR3L6sTKfnv7Bn719NHyoffVPY1tEXvTSOmSK6xltOqKVacB3xWnmfcs05zYEjxvPlnwTwBnj7mT1FK87NjtNwtId6DNXchuUgXEumu4P2ae58zRp1wvge7yNQctZ732vs2BS9w6naEvZkJoOyhXV3nTtTxUMxOC+Yt+i7M5Z1zXGD99K9pBlPw==;YtBM2oxbIOo1YSPN+l4BLw=="
+secured: "vuEYwCTxwrlEvJ97Bd+X/8bRpBjBVdw7mQxOAuemQhY0qiSHhqw3M542jgTWbuCcgDQOINSC9WKPskaBAsy3FLGLuZ45hj08N1yoLT14AWx9aCDpuc27MhRqlTD9onjrCPK+5cuevtWNmT8XyyQnaBcCI/DtNgjEs0KkmXmcG6Gzl/IinXH3PIcSleIOj3iA30a/M9iMaHip9dKRl+D05SAEMJZPt31UmWaHW/jzRfdu5L7HrcLzSCgUHLN4A9C5tsURmcwx7mqWPav17iJxnlmnlHb47bD2PntTLGeRJyhCBa40WG/71KMrTafgJsEgA+yUAOHMnfpNn9XfBU7TYvu4/BvF8e/oRrtfsmBiU6A=;MXArahrylcSecVLsoZ8MAQ=="
 ---
 

@@ -40,13 +40,13 @@ related:
         height: 498
         isCached: true
   - title: "How the Army plans to revolutionize tanks with artificial intelligence"
-    excerpt: "At a time when the military is obsessed with robotics, artificial intelligence and next generation networks, operating a tank relies entirely on manual inputs from highly trained operators. “Currently, tank crews use a very manual process to detect ..."
-    publishedDateTime: 2020-10-29T20:39:00Z
-    webUrl: "https://www.navytimes.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
+    excerpt: "At a time when the military is enamored with robotics, artificial intelligence and next generation networks, operating a tank relies entirely on manual inputs from highly trained operators. “Currently, tank crews use a very manual process to detect ..."
+    publishedDateTime: 2020-10-30T06:24:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
     type: article
     provider:
-      name: Navy Times
-      domain: navytimes.com
+      name: Defense News
+      domain: defensenews.com
     quality: 39
     images:
       - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"

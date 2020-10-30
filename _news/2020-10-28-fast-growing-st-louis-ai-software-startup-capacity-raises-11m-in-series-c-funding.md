@@ -94,6 +94,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US Based AI Marketing Cloud Startup Pyxis Raises $7 Million in Series A Funding"
+    excerpt: "Pyxis is a unique AI-led marketing cloud start-up headquartered in the US with an office in Bengaluru, India. The start-up has several innovative tools that provide a robust platform for creative automation and actionable marketing research analytics."
+    publishedDateTime: 2020-10-30T06:26:00Z
+    webUrl: "https://www.nyoooz.com/news/bengaluru/1519693/us-based-ai-marketing-cloud-startup-pyxis-raises-7-million-in-series-a-funding/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 50
+    images:
+      - url: "https://www.nyoooz.com/df-images/bengaluru/df-bengaluru-4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "KK12u1mz6cmaWXc15Uzy8MYmpKIAz0T92LR/vcqNekjc286cLxOl81KLeJCkPB9BYyd6T7o8wxPufRsTGnKnaiGw8FDixIj+mrEsv6TUyc2Vi4a3bhBZNs4osU0EJo1Zb29p9dpEXZNE6qNCcvPL6tab8Sv7pmUVMvqfgTQJIY3zatDlqGnmH7BR+q9TBRuHIPv4bTlQEqUyj8RN2y24FdFnUrf1AuwChRzV6y/6PtcGHMJeWtYn8OwD0AanTnV9twrAErer106QR9ENBKkRcA1/AjLYw8N3DS2260LFqp/nFxx1Eovg3Wce2uzAyh9a4DQ5aLl0NfkEQFENiBtNXbKQlbGHW6sFH1J5yFMsjxx2nghK+Ck5hEI0h1qSQS6P6fY7CIRXT+zfdMYqdmQ5LZQ/v4laN7OXs80OTW2AKnJHlZ6hPvO9GAbwfksMmGFWZ6anvz05G2gPpEETkUewQTEla9lWQd5n83Fqcf71B87cogMbpNYoJxnArtr4bNQ+/5NMfp81eKTWbo8vlJ+3GA==;5+FlTfogsBd6blbI+HrNPg=="
 ---

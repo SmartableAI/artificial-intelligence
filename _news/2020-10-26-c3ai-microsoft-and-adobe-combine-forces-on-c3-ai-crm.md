@@ -149,6 +149,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "No Coding Experience Necessary: Microsoft Offers DIY Tool To Build AI Models"
+    excerpt: "Microsoft wants to make it easier for anyone to build machine learning systems through the release of a newly revamped app that caters to people with little or no coding experience. Microsoft Lobe, which is available in public preview this week, allows ..."
+    publishedDateTime: 2020-10-29T01:22:00Z
+    webUrl: "https://www.adweek.com/performance-marketing/no-coding-experience-necessary-microsoft-offers-diy-tool-to-build-ai-models/"
+    ampWebUrl: "https://www.adweek.com/performance-marketing/no-coding-experience-necessary-microsoft-offers-diy-tool-to-build-ai-models/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/performance-marketing/no-coding-experience-necessary-microsoft-offers-diy-tool-to-build-ai-models/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 73
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-28-at-4.23.00-PM-1024x548.jpg"
+        width: 1024
+        height: 548
+        isCached: true
   - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
     excerpt: "C3.ai, Microsoft Corp. (NASDAQ:MSFT), and Adobe Inc. (NASDAQ:ADBE) today announced the launch of C3 AI ® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"
     publishedDateTime: 2020-10-26T13:00:00Z

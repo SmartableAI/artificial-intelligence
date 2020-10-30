@@ -73,15 +73,6 @@ related:
         width: 780
         height: 405
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-    excerpt: "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ..."
-    publishedDateTime: 2020-10-27T15:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "Leosys AI mobile eye care solution taps smart healthcare opportunities in Southeast Asia"
     excerpt: "Leosys began its efforts in 2014 to develop an AI-based preventive healthcare platform for ophthalmoscopic eye exam through a collaboration project with Industrial Technology Research Institute (ITRI)."
     publishedDateTime: 2020-10-27T01:44:00Z
@@ -119,6 +110,15 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 34
+  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
+    excerpt: "Artificial Intelligence (AI) is expected to contribute up to US$ 15.7 trillion to global GDP by 2030. AI applications, powered by an influx of big data and advancements in computing power, are positioned to transform major sectors, including healthcare."
+    publishedDateTime: 2020-10-27T15:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
   - title: "Global Artificial Intelligence in Healthcare Market to Surpass US$ 74,650.7 Million by 2027, Says Coherent Market Insights (CMI)"
     excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
     publishedDateTime: 2020-10-27T13:56:00Z

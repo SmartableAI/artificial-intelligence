@@ -65,6 +65,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Azure to build its first cloud data center region in Taiwan"
+    excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
+    publishedDateTime: 2020-10-27T20:43:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft sees strong growth in latest financials – as analyst puts Azure bigger than Windows for first time"
     excerpt: "Microsoft has reported revenues of $37.2 billion (£28.8bn) for its most recent quarter with Azure revenue growth at 48% – as one analyst argued Azure has overtaken Windows numbers for the first time."
     publishedDateTime: 2020-10-28T13:18:00Z
@@ -107,6 +121,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
+    excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."
+    publishedDateTime: 2020-10-30T06:52:00Z
+    webUrl: "https://www.newswiretoday.com/news/174030/Flood-Prediction-Project-Powered-by-SAS-IoT-Analytics-and-Microsoft-Azure-Earns-National-Innovation-Award/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 17
 
 secured: "dl4P+bRGPbUtvWwGkTwcCIxYajhKtCUjLi/b+Ewbw9HSpdRnmwIRO2tAfHrFSywLnGDSveB+tNfQ3OAYfjOlg3Kb7fiFRidb2Dyeykjt7ayOlAEcO9K2c+sfvVbkgMZaj5VFriLHNRzTGLquvdZ7HDqWrmshlfcDi7wF2GS1+FmqCGBvkI++Bt52meEuMmQ0GWcZeR0IuA1ddySwdxBUqAvq8NlVbUZZRo9sXQttR+foi427l39THszvdNu+xEudU9+Sl177YTNYU/knsju6/pdmRFb5+VMDjvTpTsI88Qesgs1j/hHvxxg0lIM2NKlTlKOrFtsx+GzLin+v+WiwCMtUMNTzj5nT1qt4tQ5k7jc=;Puud81DejPZnJsnG915Uaw=="
 ---

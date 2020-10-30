@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-trading
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -53,6 +53,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
+    excerpt: "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
+    publishedDateTime: 2020-10-30T07:55:00Z
+    webUrl: "https://www.finyear.com/AI-Powered-Trading-Platform-Tickeron-Releases-New-Swing-Trading-AI-Robots_a43087.html"
+    ampWebUrl: "https://www.finyear.com/AI-Powered-Trading-Platform-Tickeron-Releases-New-Swing-Trading-AI-Robots_a43087.amp.html"
+    cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/AI-Powered-Trading-Platform-Tickeron-Releases-New-Swing-Trading-AI-Robots_a43087.amp.html"
+    type: article
+    provider:
+      name: FinYear
+      domain: finyear.com
+    quality: 53
 
 secured: "VWMk4Hc2fUB6JKelWkLs0n8qihJKxmrwuIEf+mASuQIlPKHHSOp2Tuwmc7OJDvg4lgIXtjPzfaq6Amppx+ZkxjWlG2r4Xav2Z9zBW/XFCaUBPrmcDBYB1DICtIKuB99HCN3PrP5LWudQD4x/K0S0ciyc6tzOd9KrXCXD1U5pDqqL80lNCHQu80WXOrZxeKLGrY2JuPNwKm3sw0Cf3aWOGfPw4HEvr/wbKY0yMWkokkrV4NapgXyQ0MU+0M7EPK9+a+PA8kMCBN0SPPqXc0RjXztpSidYcPhmlLgfX0N59kSITjvfya9OsKbkUvrFsCc3Bc7y4TRXwhBZBBnuogMd4gEXZnvN+uvE/v31MdRKXBI=;M28Amf3chvjl+SaKbNbIYw=="
 ---

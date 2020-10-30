@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azur
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
 type: article
 quality: 99
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
   - title: "Microsoft Azure to build a first cloud data center region in Taiwan"
     excerpt: "Its existing Taiwan Azure hardware systems and infrastructure ... in cloud software and hardware infrastructure for AI, IoT and edge products. Meanwhile, Microsoft’s training initiative in ..."
     publishedDateTime: 2020-10-28T00:46:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft Azure to build its first cloud data center region in Taiwan"
+    excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
+    publishedDateTime: 2020-10-27T20:43:00Z
     webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
     type: article
     provider:
@@ -109,6 +123,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
+    excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."
+    publishedDateTime: 2020-10-30T06:52:00Z
+    webUrl: "https://www.newswiretoday.com/news/174030/Flood-Prediction-Project-Powered-by-SAS-IoT-Analytics-and-Microsoft-Azure-Earns-National-Innovation-Award/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 17
 
 secured: "7c712/qj8eRlO8zwv4jFc86eOSITMmnTWV8hxE3h9hg80nMBoqiXDc8bIkfV/lNcv0jJjfZ1sfLSEu5JhTLKgGOxbtv0iZ5gQVd/bz32JpEa9Dl7ncyTqYLD6p+3uJrWP+s18gR6n1flKpqWUXpLPwy5VeGaV6GoKKL8LtSt9xxLDrlaoWdyGayDW3AxIGambxof5CAY9m6I2eutsFF3ea9LDrRFWDdY2XCEIUfiR+9FCQ3vDHO76iIN3AKlwJNM3fLaK+L1+TndRBUuD3gRI8ymvOQKvJ7oM8TFUV/z06PgWLXB4LjFD3iwxHvYQ0ID5MEI92JOTkvtRVSpE97uuZElDsq43s9Y7qyv5m1sOol6GRZYE819hHlRVV4p/NssqP1HRyLAm9uzFjIuBK1+2gqsdg+pA2q4trSAr4zKsiEl0x8SByeTWIwdSr5Ljf0Kffcs7agSnN956UOftIVcZqcnSLVzu77VhxTjJe+OFwLKO9OUP0/wSKHLF+oWcgW4alxtlbGcHSVeL9u1atT+vQ==;EWBNUr8lanQF0JTl+yHJHg=="
 ---

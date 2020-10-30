@@ -72,20 +72,6 @@ related:
         height: 366
         isCached: true
   - title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
-    excerpt: "Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to deploy machine learning (ML) models quickly. Now, with simple point-and-click ..."
-    publishedDateTime: 2020-10-27T12:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
     excerpt: "Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that dotData Stream now fully supports Amazon SageMaker integration, one of the ..."
     publishedDateTime: 2020-10-28T03:46:00Z
     webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration/article_4616ca05-3b5f-56d4-99a8-5a95e850cbb4.html"
@@ -98,6 +84,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
+    excerpt: "PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that dotData Stream now fully supports Amazon SageMaker integration,"
+    publishedDateTime: 2020-10-27T12:30:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-computing-and-information-technology-data-management-376b9d4dc51b9da6e765375bfa3474d0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "mu0vfWGPRKIHBXWE3FLDpR94gBrPvligHMAiQLQA5Aqtayn+CyMC5lwxiPTgj/ITV/HDre2KSlpT1PuAoW2dME39MX/vAMF1LD4Fgjg/trysEilFYEr84UTBnbg6tebXWUVv1BVolsgl5D5bmwFJh/BIdmRSNGsA8BkDCakKRsIm9LrK2MRJJZNf7X7u5U5xFh37lRzMWaCNVvoiBN0GWRre9yxgbbwOR0WrFjgMa/5ocfi+L7TBxGCPFmqKW8KnMZw55lVNfwUW8Cw3E3Q1vNdOWrm7BGVGhZxfLX/OB2oWX5+pWmqXuXNlvW+bZhio9XDr4F3KdUsW2rvgYdLgAIvAxGp3qDubZKR5xniI2TM=;F9xxi2J/JYB7bN7pqpuQJA=="

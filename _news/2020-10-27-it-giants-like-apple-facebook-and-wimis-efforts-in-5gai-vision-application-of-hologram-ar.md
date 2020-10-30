@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18066040"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18066040"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,52 @@ topics:
   - Facebook AI
   - AI
   - AI Hardware
+
+related:
+  - title: "Google and Facebook look for life beyond advertising"
+    excerpt: "Movements made by Google into other markets like hardware and artificial intelligence should be taken with a pinch of cynicism too, as many of its acquisitions act as conduits for its first and most valuable product. A thinly veiled confirmation that ..."
+    publishedDateTime: 2020-10-30T06:02:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/10/07/Businessman-with-money-and-a-Google-logo-for-a-head_trans_NvBQzQNjv4BqIdUlPYoxLQG5nHXVd2JxiNcCUzMnBOjo0aMZ-3kW9eg.jpg"
+        width: 675
+        height: 422
+        isCached: true
+  - title: "Facebook’s threat to the NYU Ad Observatory is an attack on ethical research"
+    excerpt: "Facebook may defend its actions on the grounds of user privacy, but its real concern is losing control of how the company is scrutinized."
+    publishedDateTime: 2020-10-29T13:03:00Z
+    webUrl: "https://www.niemanlab.org/2020/10/facebooks-threat-to-the-nyu-ad-observatory-is-an-attack-on-ethical-research/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 38
+    images:
+      - url: "https://www.niemanlab.org/images/facebook-thumbs-down-700x474.jpg"
+        width: 700
+        height: 474
+        isCached: true
+  - title: "Cloud and ad spending lift earnings at Amazon, Alphabet and Facebook"
+    excerpt: "The big three internet giants today revealed improved earnings despite and in some cases because of the COVID-19 pandemic, as advertising and cloud computing growth buoyed third-quarter results. As online ads saw a rebound,"
+    publishedDateTime: 2020-10-29T21:10:00Z
+    webUrl: "https://siliconangle.com/2020/10/29/cloud-ad-spending-lift-earnings-amazon-alphabet-facebook/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/sky-3096055_1920-artjoao-pixabay.jpg"
+        width: 1912
+        height: 1149
+        isCached: true
 
 secured: "U2RQikBizZdP9Iv+BjISW1SfSseM2dGo92sh5LMUzHQS4HmArpWWKUY5HkjF/YuEHKsxplHbvzBQOcsVwvnRryL+TcjB9KxfMJ4kggpqq2c+VU/f2HYEUr1WZwF3c4xGaHyv7ZGYMs9g23A4h3TfMKSVtOwbRbWEhclIpEGpGqKB9fE5RzPjblSjK29tZ+xoeQoPI6PZ9n5opZt1vyfWS5CEjSrO3JpS7p5Lnd5tOIuV2UCHAgXPFCzRBhDLcugiNEYal7wnv+BIoatd+0njx57I3l1rR2l9c4q0mIiCWMLDaA7IDxjdFJCdVkYKYuPOz3kIJifw/cuvxyiJs8enjXdbY1dJzWNRN35G3JLiFkk=;RImdLg6g1odZ/p7PCm6CTQ=="
 ---

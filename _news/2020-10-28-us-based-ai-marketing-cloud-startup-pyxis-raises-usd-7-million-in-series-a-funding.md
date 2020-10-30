@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US Based AI Marketing Cloud Startup Pyxis Raises $7 Million in Series A Funding"
+    excerpt: "Pyxis is a unique AI-led marketing cloud start-up headquartered in the US with an office in Bengaluru, India. The start-up has several innovative tools that provide a robust platform for creative automation and actionable marketing research analytics."
+    publishedDateTime: 2020-10-30T06:26:00Z
+    webUrl: "https://www.nyoooz.com/news/bengaluru/1519693/us-based-ai-marketing-cloud-startup-pyxis-raises-7-million-in-series-a-funding/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 50
+    images:
+      - url: "https://www.nyoooz.com/df-images/bengaluru/df-bengaluru-4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fast-growing St. Louis AI software startup Capacity raises $11M in Series C funding"
     excerpt: "The startup said its new financing came primarily from existing ... Founded in 2017 by Karandish and fellow entrepreneur Chris Sims, Capacity has developed an AI-enabled “help desk” technology that’s designed to capture and collect a company or ..."
     publishedDateTime: 2020-10-28T13:45:00Z

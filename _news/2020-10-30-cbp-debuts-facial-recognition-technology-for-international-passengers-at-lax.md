@@ -119,6 +119,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "LAX debuts facial recognition technology for international travelers"
+    excerpt: "U.S. Customs and Border Protection officials announced the implementation of a facial-recognition process at LAX."
+    publishedDateTime: 2020-10-30T06:10:00Z
+    webUrl: "https://abc7.com/lax-cbp-international-travelers-facial-recognition/7459789/"
+    ampWebUrl: "https://abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 59
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7462194_102920-kabc-4pm-lax-travel-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Men at Facial Recognition Startup Used Its Own Tech to Sexually Harass Coworkers"
     excerpt: "Employees at the Silicon Valley security startup Verkada were reportedly using the company’s own facial recognition-equipped security cameras to take pictures of women who worked at the company ..."
     publishedDateTime: 2020-10-26T19:23:00Z
