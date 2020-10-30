@@ -41,6 +41,47 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch this self-driving race car hilariously smash into a wall"
+    excerpt: "Autonomous cars are the future, apparently. Watch this self-driving car race series and decide for yourself how far along the tech is."
+    publishedDateTime: 2020-10-30T09:10:00Z
+    webUrl: "https://thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/"
+    ampWebUrl: "https://thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 74
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/crash-acronis-autonomous-car-ev-future-track-grassi-roborace-devbot-796x447.png"
+        width: 796
+        height: 447
+        isCached: true
+  - title: "The Big Gamble on Self Driving Cars"
+    excerpt: "In this episode, Jim discusses the self-driving car, a staple of sci-fi books and movies and predicted by automakers as far back as the 1930's, as was shown in a 1935 Chevy promotional film. With Cruise Automation’s application with the California DMV ..."
+    publishedDateTime: 2020-10-28T16:00:00Z
+    webUrl: "https://www.engineering.com/AdvancedManufacturing/ArticleID/20881/The-Big-Gamble-on-Self-Driving-Cars.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20881.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20881.html"
+    type: article
+    provider:
+      name: Engineering
+      domain: engineering.com
+    quality: 39
+  - title: "Self-driving cars are coming. Chemical makers are racing to keep up"
+    excerpt: "Chemistry matters. Join us to get the news you need. Yes! I want to get the latest chemistry news from C&EN in my inbox every week. ACS values your privacy. By submitting your information, you are ..."
+    publishedDateTime: 2020-10-25T18:59:00Z
+    webUrl: "https://cen.acs.org/business/consumer-products/Self-driving-cars-coming-Chemical/98/i41"
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 24
+    images:
+      - url: "https://acs-h.assetsadobe.com/is/image//content/dam/cen/98/41/WEB/09841-cover-nuro.jpg/?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "O6Mc63iEcJRk5KnXFjTiqKQcnl1+Qdkvddku4Z/nV/ewGoHBxQWhPwx6renFhSf6llKvfaPRpJkR5tauGgVfE867DbH1FiTkL2hz2bYWq+RW5S6VN3Nh3e5CxPPh+8hi4xAQeNBr2+kjQf17nf9dsG50CUUMuW1cuPZNOz++AYvGgK457ECyVa/vK+fonXUfepdb3KZjKETXMwL7ETdfy5a2hHZql+1fwkMYg2e1TazcitcQNMosQl/iIfVRVishE+3r8vQiYRY939dw7CQopqFMg94HAq7En82GCdPxUOCy9e/Tz+NAfKQeUhrVdH/aH57GfxEAiVkG5Wb3CGFF1bK36wTh3ukdP6REqS1/HHI=;Tvyv+lQzH7qL8BcXSfuAaQ=="
 ---

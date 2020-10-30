@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
-    publishedDateTime: 2020-10-28T04:25:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
+    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
+    publishedDateTime: 2020-10-28T05:40:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
         width: 1678
@@ -49,7 +49,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
   - title: "Services Infusing AI into Air, Land, Sea Robots"
     excerpt: "We believe that we have adversaries who are rapidly building up their forces … and are definitely applying AI to their operations,” said Nand Mulchandani, chief technology officer at the Pentagon’s Joint Artificial Intelligence Center."
     publishedDateTime: 2020-10-26T12:06:00Z

@@ -59,17 +59,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla debuts ‘Full Self-Driving’ beta, but it comes with a warning"
-    excerpt: "Tesla has debuted its much-anticipated \"Full Self-Driving\" (FSD) feature in beta mode, allowing select Tesla owners to experience the next phase of Autopilot."
-    publishedDateTime: 2020-10-25T16:22:00Z
-    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-beta/"
-    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-beta/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-beta/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
   - title: "Tesla's Self-Driving Beta Fleet Is Generating An Immense Amount Of Data"
     excerpt: "Many experts warn against Tesla's approach to self-driving tech. It's too early in the game to know who's right, but relying on data should be a positive."
     publishedDateTime: 2020-10-26T14:22:00Z

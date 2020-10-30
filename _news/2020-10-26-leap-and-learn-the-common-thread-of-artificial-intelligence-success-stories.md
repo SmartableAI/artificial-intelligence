@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Forbes
@@ -30,37 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers suggest AI can learn common sense from animals"
-    excerpt: "AI practitioners can draw lessons from scientists working with animals to train reinforcement learning agents, a recent paper found."
-    publishedDateTime: 2020-10-25T15:47:00Z
-    webUrl: "https://venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/"
-    ampWebUrl: "https://venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/amp/"
+  - title: "AI and Machine Learning Awards - and the winners are..."
+    excerpt: "Every vendor seemingly has an AI-based tool, or is using machine learning to solve common problems. The challenge is how to sort fact from fiction - or, to put it more charitably, find the absolute best of the best. We launched the AI & Machine Learning ..."
+    publishedDateTime: 2020-10-29T12:31:00Z
+    webUrl: "https://www.computing.co.uk/news/4022464/ai-machine-learning-awards-winners"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Computing
+      domain: computing.co.uk
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/andre-noboa-xrQZadbxPc0-unsplash.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Researchers suggest AI can learn common sense from animals – Jaweb"
-    excerpt: "AI researchers developing reinforcement learning agents could learn a lot from animals. That’s according to recent analysis by Google’s DeepMind, Imperial College London, and University of Cambridge researchers assessing AI and non-human animals."
-    publishedDateTime: 2020-10-25T16:18:00Z
-    webUrl: "https://elmoudjaweb.com/researchers-suggest-ai-can-learn-common-sense-from-animals-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/researchers-suggest-ai-can-learn-common-sense-from-animals-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/researchers-suggest-ai-can-learn-common-sense-from-animals-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/10/Researchers-suggest-AI-can-learn-common-sense-from-animals-–.jpg"
-        width: 1200
-        height: 600
+      - url: "https://www.computing.co.uk/api/v1/wps/57d95c6/1c65ac15-9090-4335-8498-21ccf8ae6044/4/AI-Machine-Learning-Awards-trophies-2-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
 secured: "NeiVTH3VySIf0RhycWlbsWxwp/0AcyXSrij15O1AqMhchx9KMxoRQB3jVk890SL2AZRC159mNvOhGn5hmwIPX67SO8qLSffoK4OdtqEkRvQBHlAUTjMSO+DBr0yYUE9L7PXkeYlQbhuQVGT+Px4rlKHmlODjh/Gvs6bLE4pEEvw/XHLSseP9WrUXxv4VUl2D/CEscBZkJZ7PWJ42sGu8h3d4BvR+zjuNG9x3jfr0J17WD41XL+H/Xe+YI+AtlEc2rYacoqGbSQ5+K6kGZrj3FSyW4kTk3Ikzh55eb4mgyQlpXjR42qhHP4Ryq69VNJRIVnbOHcTpEqLw0Zrny0Je1tVW4x2M5fyIVa5J25NQmR5jAdq9QDSKOS6SovLMux9gTIZlxPGKajTS8Nb8PwGhXGDvvPw7N2uU4M/1xvq4EUbvbbF4krchLb7ZSBvJiSITFOQe/JALI/vsuKG5xqdOUxpjxZVTgBCiMxihGzuE6WUbOVrit63RCku8UqIkr0EjXajhVjf0gaqSELjDc/kW+Q==;pLRhFIGPLqAWLlHXeVRPrQ=="

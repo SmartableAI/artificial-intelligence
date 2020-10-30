@@ -1,22 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "Artificial Intelligence (AI) is expected to contribute up to US$ 15.7 trillion to global GDP by 2030. AI applications, powered by an influx of big data and advancements in computing power, are positioned to transform major sectors, including healthcare."
-publishedDateTime: 2020-10-27T15:08:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
+excerpt: "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ..."
+publishedDateTime: 2020-10-27T15:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
 type: article
-quality: 19
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Global Artificial Intelligence in Healthcare Market"
@@ -128,6 +133,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "Tvd/SE4IHj4BsstHf/VH7kXCLcX6oJnxnmOgkoLcmcmis03hp22P39yT/2V4iy9NFbnktnTvD0vc1eFrfDMXQPpFaxsF+xgwPy08SD6guxrDc1HnY7skuTWQKTKkaWNXZce2VjvrNkgeNOr+UpPcVNG1WtCZNqSW7+ORoXq4CzmnRIPH7cbgfatgpUduD84LMk+jShOdevZvs8wPekUDcKtX7i8JEFoTuSYDQRS6l5VHu+iYLdOnVcd8amjf36qYZCdM8zMACR3xhA+mJL91z6yHImUMG3XBHsd7VqJjHZ6mFEBPE/jdJFL+Nf4Lfyo4I3slcshPF9dRK9b96YTbjgMwZKUh72K3HjAZzzJBiZA=;ANAmlsFR0BYq+s5FQ4KEYQ=="
+secured: "/Z4dbCdhP2JXO7qlUaUk1MfKCGDdgUey+j+Kmem8DdqiDvh9Pgx5BXokadOz7EVHOFa5GXJrhJ7YRgo9HWUk+fytyFJvhURhDzVlF6cGJ5w0TpM1j4ug3xtweWRVK16NU1ZjoYbFQWHvwti498L3i+WebCM3hotVRN/ZN/9P70dZe/F6X8vPKbtmODunbkEdJ7pmr7GR8uPvtgtrAFUkXyXO2PHw0L589tqwsh7jztGaC/l2TDiXpITZE4sf2hzQzAEokuXttkNXi0eLfVBEtH8rmuMXJ/lUxTpF10KSBdcvhtztTf5ssxxoLUMtzFzvWaaYfuneVNPOdVyEsg+2dt+olDP6YY2tetrCVRVdKI0=;MYs9L2wb/MR1y0wICyfccQ=="
 ---
 

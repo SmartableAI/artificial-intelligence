@@ -81,6 +81,15 @@ related:
         width: 639
         height: 542
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
+    excerpt: "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ..."
+    publishedDateTime: 2020-10-27T15:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "Leosys AI mobile eye care solution taps smart healthcare opportunities in Southeast Asia"
     excerpt: "Leosys began its efforts in 2014 to develop an AI-based preventive healthcare platform for ophthalmoscopic eye exam through a collaboration project with Industrial Technology Research Institute (ITRI)."
     publishedDateTime: 2020-10-27T01:44:00Z
@@ -118,15 +127,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 34
-  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-    excerpt: "Artificial Intelligence (AI) is expected to contribute up to US$ 15.7 trillion to global GDP by 2030. AI applications, powered by an influx of big data and advancements in computing power, are positioned to transform major sectors, including healthcare."
-    publishedDateTime: 2020-10-27T15:08:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
 
 secured: "MBmM++hs5uSTLECu8rSFj3IxQ/YHDnSwhX6zn0CkMIsz7rGQRPh69/hyDV2b62OmjYCvTZkuwgsLJ1YjHrjgqUwli43MfEMTpLN//WqPLZL8mxdSjSh5wVQWxFdx14fesiCJA0bM2mVg3/bK96O5BQUALMoR38JcVLXgiWI+FReJ9H8X98I9kiQnBfGp6nBTS2+563qxTHAn4T34HO3yGTkYm5KuZGgrVvs6SrdIlw5j4ciCNy2E5pczZTxtZRq1RXoAs0FrBdrlWoJ4bCXbGxbIYjr1diwQk1kLY7EZfYpdX0POfjbtPxF69ypGTSkgwc1nHOJ7HSPaqmfwJtU3BWHUXo+Mh5yzSalmZnibYls=;LC99Akpy0jnsk0XfUIxw+Q=="
 ---

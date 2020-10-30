@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Artificial intelligence model detects asymptomatic COVID-19 infections through cellphone-recorded coughs"
-excerpt: "Asymptomatic people who are infected with COVID-19 exhibit, by definition, no discernible physical symptoms of the disease. They are thus less likely to seek out testing for the virus, and could unknowingly spread the infection to others."
-publishedDateTime: 2020-10-29T13:45:00Z
-originalUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.html"
-webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-asymptomatic-covid-infections.amp"
+title: "Artificial intelligence model detects asymptomatic Covid-19 infections through cellphone-recorded coughs"
+excerpt: "An artificial intelligence model can detect people who are asymptomatic with Covid-19, through cellphone-recorded coughs. The work was led by Brian Subirana and colleagues at the MIT Auto-ID Lab."
+publishedDateTime: 2020-10-29T04:06:00Z
+originalUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
+webUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
 type: article
-quality: 42
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Massachusetts Institute of Technology
+  domain: mit.edu
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2020/53-artificialin.jpg"
-    width: 900
-    height: 600
+  - url: "https://news.mit.edu/sites/default/files/images/202010/MIT-Cough-Recordings-01-PRESS.jpg"
+    width: 1350
+    height: 900
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 225
         isCached: true
 
-secured: "6txOph1l7KZDDOl0MwaX1mJPlDJ/FYCyIduGNWVVlVdTOWbjEMsbscP8D1b3YiI7I+FGfrwQyJQO2Cu0/0zqYu5LjYOh8oCBd3C0EzzRKCT0ZLoeWUGrbR/6+phxM9J/9TuVxcIJNYbSwhgn6ZL69tXCy8XuYuyhafeyd7eQZZTZ3vn4j//JkoSrmnETikfYJkbUxfATjhhmBJaPBpSN9u7LmXauZRRe1wJDX03Ujof0j3BSqPfQ/28zsdoK2JNr/s1oYna7HSJXpeWXvG+pZw/yTduoPI5f8YIMpRdG1YnRHC4JOO50Rj+f88UyoxrQyP0NicIqgkSYwG/cBe+DP/K5gPlBuQKklgKsaN0yt7+jFFITeFhkQg6VE8du5HQlAcwRqQBQ8TcVNZaC8Z/HYM3zEEIaj6ITnfgb3F57+vsxU2Tc0Fp2QChH2DFyXT3qCKjnFzsSA+149i565XYJY9of5A+54dSmWd0gew878/yffsMIqh7W6qADndCbuvY5IIduQa40IWy5Geoccfuq1A==;3e7qXVsSdhg3eLig+ftSpw=="
+secured: "9ioBjzbhKVN4gcF2lqYV6Pr3xlrWYv/48mLWZg+uLDlYOZwMLaIZPnvU/zndQRjEcaQqVFVpR0Qw5pamny8n9jfGNwwr/5WKZAF9K2ugqSHxJgcD+KsRWlCUIv6TXPNC3zGfb4atxgJQv99QvpmYNCwjUfmCgtKRXm9GYLOPuUw+yOzbg7YqRiKoBPfCBcxrEhTrSISj0rjhUwOaw0aK7y8SVpgMchUx4Lla2otnC86uqzw0WwnyqppQvcPwXn15Q1rrwR1s6NAcB3hgz+86z+9f/Lhb3MDt3NzXLQkTGQTnbEwtT9T2b093jSYR7vkffcdKQcxrwd/bdnX3+1i9uFOST7OIJzYf02HP9+OWCgk=;TRrs6/o2Ya7wJyiOIK2L6Q=="
 ---
 

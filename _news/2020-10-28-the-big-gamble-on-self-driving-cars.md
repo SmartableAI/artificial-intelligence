@@ -21,21 +21,37 @@ topics:
   - AI
 
 related:
-  - title: "Trying To Prevent Narco Self-Driving Cars That Act As Drug Mules"
-    excerpt: "A recent news story described a narco mini-submarine that was scuttled in shallow waters after three men operating the vessel opted to evacuate and escape as authorities were closing in on them. Reportedly containing an estimated $100 million in cocaine ..."
-    publishedDateTime: 2020-10-25T15:34:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/"
+  - title: "Daylight Savings Time Could Miraculously Be Saved By Self-Driving Cars"
+    excerpt: "Here’s today’s intriguing question: Will the advent of AI-based true self-driving cars potentially “solve” the car crash-related concerns entailing Daylight Savings Time and obviate the need to necessarily cancel DST due to car crashes? Let’s ..."
+    publishedDateTime: 2020-10-29T16:07:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90c97b4f7c7f4774a83f34%2F0x0.jpg%3FcropX1%3D233%26cropX2%3D4337%26cropY1%3D93%26cropY2%3D2284"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99f9cf900674c6d06d4c35%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6240%26cropY1%3D316%26cropY2%3D3826"
         width: 1200
-        height: 641
+        height: 675
+        isCached: true
+  - title: "Watch this self-driving race car hilariously smash into a wall"
+    excerpt: "Autonomous cars are the future, apparently. Watch this self-driving car race series and decide for yourself how far along the tech is."
+    publishedDateTime: 2020-10-30T09:10:00Z
+    webUrl: "https://thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/"
+    ampWebUrl: "https://thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 74
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/crash-acronis-autonomous-car-ev-future-track-grassi-roborace-devbot-796x447.png"
+        width: 796
+        height: 447
         isCached: true
   - title: "Self-driving cars are coming. Chemical makers are racing to keep up"
     excerpt: "Chemistry matters. Join us to get the news you need. Yes! I want to get the latest chemistry news from C&EN in my inbox every week. ACS values your privacy. By submitting your information, you are ..."
@@ -51,19 +67,19 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "How Self-Driving Trucks would Show a New Direction to the Trucking Industry"
-    excerpt: "Autonomous vehicles are no longer limited to mere theory. They are already becoming popular among people, and self-driving trucks are expected to make their way onto the roads in the years to come. A survey discovered that more than 50 percent of small ..."
-    publishedDateTime: 2020-10-26T07:01:00Z
-    webUrl: "https://www.cioapplications.com/news/how-selfdriving-trucks-would-show-a-new-direction-to-the-trucking-industry-nid-6719.html"
+  - title: "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech"
+    excerpt: "In recent years, newly miniaturized sensors like radar, sonar, and Lidar, along with the advancement of computer technology, and artificial intelligence, self-driving cars have reentered the ..."
+    publishedDateTime: 2020-10-26T23:21:00Z
+    webUrl: "https://www.thedrive.com/cars-101/36937/self-driving-cars"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 22
+      name: The Drive
+      domain: thedrive.com
+    quality: 19
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/rus3n450.jpg"
-        width: 450
-        height: 308
+      - url: "https://api.thedrive.com/wp-content/uploads/2017/01/gettyimages-609845728.jpg?quality=85"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "zAk1olb3c1ewEtngZ9v5KWbEeJi4v7gIip8Jp47dfHbxgzkFsICpTvu9TjVlTidkNhtlgGlPk9E5n1353kXAJnNMV3B0rrnRpn2/rAVU8taU5njmjw/rUOXtaxtyGTQHkaNcJlQGvliF98kIwCR5nnGu3PvGG/DNM8A+IM2psjMuQnFxHdjeyKiOPCtWd8HffPTyaWXtPfbhdPOR3OCfxUqLULCX1G1ZJ/AyULkrKVGiPn8Iq50baOmDzPjxH8gQ/4Cod7VABxVcZTVkObpNIWo5Ro5BBKHq9/EbUOt/8D+kqrf/s69x4yrxUJ9jJ0uVUWj0qDqn/IoANb5XZoqra7HReLZFrU5RcGnuNJVmfr/7jJ1gZyaqyoAQH1HsxIvSN9MSwZGbxLBOF73hU3efkU0B8bS+uAkk7vQyuS+fMkDAIgmVye7XxzsXmvU7gMM8ZUzdAirXIugeDC/HG2gc5/S0KQ+rQ9FcXSJKgvOYCa7iEM0caMRWPeZAgUxw19BufMA6riPiZwMJ+mzW0foXlg==;KAhWCV3I54O/qiMhk5BwgQ=="
