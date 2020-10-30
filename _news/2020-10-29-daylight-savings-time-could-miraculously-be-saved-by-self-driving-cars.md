@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech"
+    excerpt: "In recent years, newly miniaturized sensors like radar, sonar, and Lidar, along with the advancement of computer technology, and artificial intelligence, self-driving cars have reentered the ..."
+    publishedDateTime: 2020-10-26T23:21:00Z
+    webUrl: "https://www.thedrive.com/cars-101/36937/self-driving-cars"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 19
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2017/01/gettyimages-609845728.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "F9bUWcp3wx6uWS+TSq/GAdJ5dm952zSzWtTdkJ+1MIxq6ONRjlT5VbO+98fQax+ovZ2gJgaR0+RUnwAGgAAaIfh8FxdWh7fXSC55uA01tEO9mz7NXFDQULXq2eaVkoqAzwYQBvMVvl0oOlvfiUgzG/vR89FJJMWE2v68UPcuZFb3HJnNxQk0snnsH5ANTVGLld5cF7Q1uRLJ7qtuijMkCnx8OBKFi2t/qdJ3TRCdyqUYhhCC++PL4lVwtsRQS/gR0cHsdYFZJ6RTbfnWxB30ixFDDn8ksnV3WW1M+cHqlGIxKpt5s3H1uWxdOZXdQqRXWXoWJu+yyl47jdnh0GhxGDA9QsOAsyeACLwp0QFst9zxt3KNh5HUCn1Y6aKLj0QNs4DKQ68RITVB4g6Oi2qD7CPG+qZjf6yL1Dm5visTwv8wq7qgZOERUlnEyOeyzzsYyYmdCM6QM/a9Qi5YE54EMBmg5+QzDUHnVLyP0PLdh2qokufJF0s82BtvePigAHzOkRxNpuLVAZzxIaq2vPsqgw==;xCSSA8fP6rdAl+Ea2HO18Q=="
 ---

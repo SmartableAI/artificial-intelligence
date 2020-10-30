@@ -222,17 +222,6 @@ related:
         width: 1259
         height: 708
         isCached: true
-  - title: "Microsoft partners Netflix to help you learn data science, AI"
-    excerpt: "Inspired by the new Netflix original titled ‘Over the Moon, Microsoft has launched three new modules that guide learners through beginning concepts in data science, machine learning and artificial intelligence (AI)."
-    publishedDateTime: 2020-10-25T09:08:00Z
-    webUrl: "https://www.sify.com/news/microsoft-partners-netflix-to-help-you-learn-data-science-ai-news-national-ukyiOwihagcca.html"
-    ampWebUrl: "https://www.sify.com/news/microsoft-partners-netflix-to-help-you-learn-data-science-ai-news-national-ukyiOwihagcca.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/microsoft-partners-netflix-to-help-you-learn-data-science-ai-news-national-ukyiOwihagcca.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
   - title: "Microsoft’s Intriguing Partnership With Tom Siebel’s C3 AI"
     excerpt: "I’m publishing this series to discuss a topic that I follow closely - cloud stocks, trends, strategy, acquisitions, and more. Please subscribe to my Cloud Stock Analysis series and never miss an article."
     publishedDateTime: 2020-10-29T15:27:00Z

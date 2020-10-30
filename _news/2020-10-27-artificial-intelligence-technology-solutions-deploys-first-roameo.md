@@ -1,24 +1,21 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Deploys First ROAMEO"
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX), is pleased to announce that its wholly-owned subsidiary ..."
-publishedDateTime: 2020-10-27T16:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-deploys-first-roameo-1029726722"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-deploys-first-roameo-1029726722"
+excerpt: "Artificial Intelligence Technology Solutions, Inc., is pleased to announce that its wholly-owned subsidiary Robotic Assistance Devices, Inc. has deployed their first ROAMEO unit at a Fortune 500 client on the East Coast."
+publishedDateTime: 2020-10-27T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/artificial-intelligence-technology-solutions-deploys-first-roameo-2020-10-27"
+webUrl: "https://www.nasdaq.com/press-release/artificial-intelligence-technology-solutions-deploys-first-roameo-2020-10-27"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AI in Robotics
   - AI
 
 related:
@@ -30,8 +27,8 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 46
+    quality: 48
 
-secured: "01HS07eNW7CQ3+TOQq1P1g8ZQsSLxQoJylu3d6J10XRLLL0rw4rJRa7Y3i3MPswde86gJR95RgrfyJ/OFgwPRlcePrsdcLNpMwG4xBjkJcCpNuDr5G1uwrZe7ZEm33N++nMlV/g0LlC5+LlZKLhz9l32HGv5rqVd4sAuS8xJWdzDXOp4nIBIe0TpRkTGEpJPUI+N1o2y39tdBaYagTjhYAetWYP2K1T+puio1vhH9lI5+zngmcHcp5onDLHbNeL4p2ti461JuEkf/QiPbhELiT3CyE1uw9mj/ic/d0vxRptzwKbyLIRKiCHpm0VHJmYWzzJvNJ9M1r6mgY8lvXSVMkQD6QC3VgU5p7fmOQq32Y8=;qYrbqvrxfZZoxCwi+TDOOA=="
+secured: "sXrcWP5QfJsNQ2piksMItJuSPD57sdfYIN8fNmKnYkndqQSy++FJK1B9uvhvQjluXM0E5uIoDuxkLVsShwbjHZsl9YttIILONvgjkhIicVO4ttUX1wKSZqS0Lx2adDdoX/T/wfzrDYgn42GjDjJ30Byy6x2FIKj6cPWGDk5swaaOKYmD0OG695dzkKdzraT18NdKCCTrIzy5DOMu7nFcgdTKca+HQrq8cEpW5NL3jxzo2LAWB5cMknwln+fIxCJFdafINajYOconexsP22+xVyITp9ZriZvQkxT5t4eE3K50IHK79m7dOkMZDAe6MX7eVBlZDIav99A93++X4hvxajtMkL87rJuwH2i472ClD5k=;SC+erszOqw2Thd+sqhQZtA=="
 ---
 

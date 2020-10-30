@@ -1,7 +1,7 @@
 ---
 category: news
 title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
-excerpt: "SAN MATEO, Calif., Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that ..."
+excerpt: "Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to deploy machine learning (ML) models quickly. Now, with simple point-and-click ..."
 publishedDateTime: 2020-10-27T12:38:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
 webUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
@@ -15,9 +15,9 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - Machine Learning
-  - AI
   - AWS AI
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
@@ -97,6 +97,6 @@ related:
         height: 720
         isCached: true
 
-secured: "eswrzUBrWfk6fVP7TrNYgHgwnPfOei4lTEMWz0QW/w6uJstBJ9NFCOjhoF5LrPTIrRe+AurUMUUfXHX0kesGW0X/sc34IlFDh75xgtHvxP5OoPNUrU1t4i20G8sbQVhDysjkeopDE+yMyfBJltshqDOzOba3WDePZ0lEzlmbq0osrGL2MmZINSPh9Dp7gFdz5ITyRFGZT2GiXYcdv3MeibW2NmS09XAx8XEVmZGG+DXsX3jbmIrwOY92flyu9XDNxqfTs985WkXO7pmpS6p+fPvA1ysG8GGU06o0zNBFb76OVVOl1yVFafXWFZuSdmb7xdiSp54buuRam2UnzcQ2zKdqjrNjhY7wr/GqYBm3V60=;iRL3VHljHG26inAHXs5UTg=="
+secured: "9CZqun8vBdyVqhF8Sya+ub4SV9nVpnytIz+8qzMeLRmzlsBoUleluiel5NNa1WGuUgYeRcaPfde+LMnPtwED6PX7vr7w/j02TfMpmFyr08/nIn5LOvb5d/9JLnBXd5Ukpk2vB7xygTOdArDG6dr/Ojnuz6F39P03YyjDbujJgIyhrvTa++UDEjUDEYVAJiFhjrlAta89QiYNt/eirn9CR1ckynKQjd7KpAWn4sHibs0Lq9lIdJdJUJI5DfoVeheDB97+XWm+g2Oq3y1OqDsyNUuUfEPPSomvjnw070NM0Us3yshiUARPkzC0HEDxRovaYrmN5oZn26Ili0RFC/YJBrujgUys80TPnGRF8g760Sc=;M+ws4zsTTbEGit2ZRTR4aw=="
 ---
 

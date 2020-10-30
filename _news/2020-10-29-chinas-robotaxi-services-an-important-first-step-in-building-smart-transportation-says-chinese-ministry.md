@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3107572/chinas-robotaxi-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3107572/chinas-robotaxi-services-important-first-step-building-smart"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Transport Ministry Supports Self-Driving Pilot Projects in Beijing, Shanghai, Hebei"
+    excerpt: "China’s transport ministry has said it supports pilot projects in frontier fields of smart transport such as autonomous driving and vehicle-road synergy in the cities of Beijing and Shanghai as well as Hebei province."
+    publishedDateTime: 2020-10-28T11:33:00Z
+    webUrl: "https://www.yicaiglobal.com/news/transport-ministry-supports-self-driving-pilot-projects-in-beijing-shanghai-hebei"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 33
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/transport-ministry-supports-self-driving-pilot-projects-in-beijing-shanghai-hebei/8912044003164160.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "aCD3AzvaRXIqdFpXH+DdOxK3epOrVzjRvfxgHhgn3kyFReAA4/YvHVLy+sC03VEUv76SxiJAcTpErtB/EZ4LGhx788aSaN3l5r540mFV5LGWdulER4Hip/BNqjOg4Ki+1UrxWx+lG90EpUInZORVhlEZcRKorS3s4TKfRZ3iefmptVHydgMYKT/Hgq4MDbBLMOa2HFCG17XnGSbpOGfbXCo08+AoS2icaI5IM4j5nfkSVcaUZJnM2SFnARNG2/ICCIwr1S7LA+Y6vkc83XJZXXUESpugcqvbgitKt1dCwk1sb2kUARRJY+zl0OJDIPI21JMegjQiG2q/RDUZidGwlUz3Sy11dC6OBdCu4gc6jtugX7HeYb2Kkvh7dhF4aT1i9Ogh9CFNJeaT/f4XR8J/Zt5XoPZZI9T++mwEU/d8CfS9b44drpcGyXQEGa8m/J/6XdFknXEUOiMQTXctnlyN7k339ObLu93njMlt0BcGyLff10cv5qtP+NQw6PeKgYUd3hKiRTXAiDXWRyhEkVeUBg==;lKlK+bBXsvVt6G/lkc4o9g=="
 ---
