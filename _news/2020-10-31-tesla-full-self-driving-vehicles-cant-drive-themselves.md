@@ -43,6 +43,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Want 'Full Self Driving' Mode on Your Tesla? Get Ready to Fork Over $10,000"
+    excerpt: "The price hike was expected now that the Full Self Driving (FSD) capability is in beta. It's likely to increase more as the feature improves, so Tesla is hoping buyers will take advantage of it now."
+    publishedDateTime: 2020-10-30T21:22:00Z
+    webUrl: "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000"
+    ampWebUrl: "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 102
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02kdtIiBEkRPNAkOLHK6m0v-1.1604092224.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Tesla raises price of Full Self-Driving mode to $10,000 now that it's in beta"
     excerpt: "Elon Musk warned that Tesla would hike the price of Full Self-Driving now that it’s in beta, and he’s being true to his word. The Verge reports Tesla has raised the cost of the package to $10,000 in the US for both new car buyers and upgrades,"
     publishedDateTime: 2020-10-30T13:30:00Z
@@ -106,6 +122,22 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-30-image-11.jpg"
         width: 1680
         height: 868
+        isCached: true
+  - title: "Waymo releases Phoenix area self-driving car incident score card"
+    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous vehicles there had been involved in 18 minor incidents since 2019 during tests and actual rides."
+    publishedDateTime: 2020-10-30T19:11:00Z
+    webUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int/waymo-releases-phoenix-area-self-driving-car-incident-score-card-idUSKBN27F23R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F23R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F23R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539430698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T1AD"
+        width: 818
+        height: 545
         isCached: true
   - title: "Tesla's Full Self-Driving beta is a reminder autonomous cars don't yet exist"
     excerpt: "Driving beta running with drivers behind the wheel bring a moment of pause. The videos seen here show off what I'm sure are just a tiny sliver of incidents Tesla owners experienced since the technology starting rolling out to cars in beta form last week."
@@ -383,6 +415,6 @@ related:
         height: 630
         isCached: true
 
-secured: "HTi1qrwGOlAAiylRltjydFSAdlPmHIrvZ7PmC1kVN+9WLCv1UCdHEBOsPHNpsqhpABef/rk8BuydeaoI8tSDb8icaTizvMrk8WE1o1ywY7Q7Dpkz/JkW4k04lO3lwEn3OzqJcnAkZq5ntcto5rb+iqj317g9fkoBNe12WucpVH031I1fIvrjTPEFdsZ3mjoBX8rl9XIeKWgS5WwmkZGSgwxmoQV365e8ecaY0wIDLSNJB3BALcqQWlameKo3HVrnrrZhGePKXI7W0l0+q4g1PwRRoDLOrWVRsDjhvYsy2pdUyKr+BSdGFRSDXZ8iQNRrhqVx1RTC/6rEVADtZoDF0aTrbmS32NF70orElN2gtpQ=;Z1RBP9yrEHUd2uewYvbK6w=="
+secured: "7lBSlP2vnvDKz0CkZvUG+Y+R1umDxNoGfeqzB3ajYywoskU+hotSk/M+JTepaUUSWHkyfJXJUU9slZh3vJ7TtdNAi85EPKuAMujMnQBfRB5LovHCt6B33ixd3c1HKb29S4lHPr2dyx+TwHLavVSCmUilEBk2WVfUItcGgYH0qb/DIefyVhYCeYsLOJxCbJfCFlvjoTZixDRkVVdoLI5aHrz046PiYmJiVw2TonIOCxHH2oBnG5/EzZXKJiS/Wdab3Saz6Bu4Fzp+zxWzp0Tnj6Jbgiznw3OcX8DdzUKtDzcl70o21Gx00IjV+ecEKrDcglRKzOa8KVfPRM5aAC3UALXjmy979osYiDhyLguv00GlCuZ8zsJIePs4GVKaH5Umb/lVwgYBwBA99gjmrHiVhbCv4aC08m9e4xmoMsCvXH2FP/NrRBJAENMEf5wBxxSlxznhpgb38idx8Z0XepcIxJOHm2sfR8hhpmePed5imZFFQR5Ahad5aIYg+1MYWzFMKEJmBQIDndJkssDgT1/kkA==;YphLmNm10ETZC/yNXI68eA=="
 ---
 

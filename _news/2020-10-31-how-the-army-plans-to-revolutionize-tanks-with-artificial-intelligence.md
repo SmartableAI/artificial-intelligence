@@ -54,14 +54,14 @@ related:
         height: 891
         isCached: true
   - title: "How the Army plans to revolutionize tanks with artificial intelligence"
-    excerpt: "At a time when the military is enamored with robotics, artificial intelligence and next generation networks, operating a tank relies entirely on manual inputs from highly trained operators. “Currently, tank crews use a very manual process to detect ..."
-    publishedDateTime: 2020-10-30T06:24:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
+    excerpt: "Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
+    publishedDateTime: 2020-10-29T20:35:00Z
+    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 39
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 37
     images:
       - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
         width: 1200

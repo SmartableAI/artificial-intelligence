@@ -1,21 +1,20 @@
 ---
 category: news
 title: "How the Army plans to revolutionize tanks with artificial intelligence"
-excerpt: "At a time when the military is enamored with robotics, artificial intelligence and next generation networks, operating a tank relies entirely on manual inputs from highly trained operators. “Currently, tank crews use a very manual process to detect ..."
-publishedDateTime: 2020-10-30T06:24:00Z
-originalUrl: "https://www.defensenews.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
-webUrl: "https://www.defensenews.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
+excerpt: "Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
+publishedDateTime: 2020-10-29T20:35:00Z
+originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
+webUrl: "https://www.c4isrnet.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: C4ISRNET
+  domain: c4isrnet.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -68,6 +67,6 @@ related:
         height: 630
         isCached: true
 
-secured: "eG5MKdfgn4BnOmlI4JzGX6VPJwrFv8KRhsMpAJNV9WfdP5+dhls9D8rO3NgSyo4U7X18nqn8b6H3/CLtQJMhShMo2NZbuQwEg2DTKmhpP7RIxqdAn5w1+jc6KyMW/1hIx6s59pbKpRUHj3ISmerQjFb84jfKqX9x/RVbSz6F4+XjxvvFvnede/L5+jpDm0awbO0Hrh3f7Wpjuzh8uOJGH2oV5c1eSK6YRCN8MShPfPKAXn57EdhIvsFyExaO2BHaepi7AsSAIiVaqe53SMYK8xQ8QnJerMuqy8BGZ81o41kxZL1sMfI6w3aYgKLYQSnuv1JDhE8xRQ1AaMtVRoyef4Rn3bSfepl2+p8/C1E1+3X3KC9wVZvQFatBmXes8Y5xv1GLkCjnZoV6+b+SGobEHuOYcCCZVVXARA+flMRPTpWusk2djWj3TALUZNs0FmcJxG5muO3OVM5lUKx0K6Fb83Jk6K+n3Qj3RySFGK391cTTOIWsDpq0lEJFPwa5o7eVlR2rZI9CvFi4O3b48PZE3g==;hUZxT/F8Mz/cGVQ0GrFrdQ=="
+secured: "he1EbZGhwZbE3r5v4elXgobv2ebp2WCjwtJq0XQwVhcZPXl1+p8sL234JRuJ4ZSjMTySu78MeWV4+Mp3dQYeKtmttw2Af9tGd9in3QnhXahS9uKbGnbYwfVx13LZrEBvWT6zmhtgc1t7A98TSEWl09/b8oCYaXXGV947XR4pHynLbA3CbOJBP6JvJCCNQdIRFqQygOnu9EkAlYBpnFLnfLh4YaNm4sciqJhQomgwOx4ImE0RExbSd6/itgzVfcjJQH1nW2xAMDvX3MZ6/fIZbuYFNYRE2qBppRiaVTbPDHCMj6YZYJvDzwdroHJ83Y65wndia40u6dknzu+PQZZIdT7JlIEDAo2X5hIUycFg2a0=;fWXy7M2dy3UJzJCtQ3bJAQ=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
-publishedDateTime: 2020-10-28T02:39:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/"
+excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
+publishedDateTime: 2020-10-28T05:40:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
@@ -26,11 +27,11 @@ images:
 
 related:
   - title: "Blockchain aims to solve AI ethics and bias issues"
-    excerpt: "Gartner research has revealed that organizations deploying AI grew from 4 to 14 percent over the past two years so protecting data transparency, trustworthiness, and ethics in the multi-billion dollar AI industry is critical. The European Union are ..."
-    publishedDateTime: 2020-10-30T11:35:00Z
-    webUrl: "https://www.zdnet.com/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+    excerpt: "Many Machine Learning and AI algorithms are centralized, with no transparency in the process. Now a blockchain-based start-up aims to improve transparency bias in business workflows"
+    publishedDateTime: 2020-10-30T10:36:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
     type: article
     provider:
       name: ZDNet
@@ -137,6 +138,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "DIFCixjBQ/Y9GBY7O+Mor4fhMFmLwi302q5bKcpYrTOM1iE4FWsAw8V7EeeZ+7m/aJwBrF3qfcYESOxt7J384U7GFnaP5lO3WbN1Cs+y2pVJP4FVgiEPkCZ1uKlrT/V0ReQsQ7H0qcPf0fpGwNUCPJDRGK3mCQET1adAHFjHBlVAHrMKfXuKHC992pOTWMZRSBb871+sSyhzOigzcMqDVlq7GUjk29Hq+zRF00noZJJo32Qz2nCs3HzTdNzSmHzMd47+B8wYoqMzgixgg9rqv+gHTYk7X0D7xpchxxB+a5fvzIDXFwc9mdbq4WUAwjivD3rouUBAD6ZkS+FNh0AhjwAiny9nN8dGCaf7lFCmgS4=;gMfHciJ0oaE/ub82kkhX9g=="
+secured: "7PY4BWbE3HPFskewixRZoe3Kg0dH3NM2AoaTeQeE+wdtm3mD1ANhUc0GuxOVXE5x2wG5Xafzw9ObVvcrdsfD2aCNi/IF9FxDOg2mJ8G6RjulmD7+SGQiQJl0dlVo/U6vShSLjw+D/zCSkKSU+p2RgEW7BkgaExivvuFWm0fakQVMXIyKvN+3B9yW3ZP1laALFUwjMfqOWB0/BU+qBGNa/LmGTo0r81yteDWbC7l8gQbLc1cUU1DqsZBAJEGGAWMWGS+pTQl/t4w+kkeQPcR3V4xQul21YVQ790yYetUmJhffchonrLNkbjWva+1MKby2rIr7v+syZ5erTkSqcd195t2rwcN36bGbkLoFWUsi3bY=;CNqGyUMe0fWhvacDjFiAjQ=="
 ---
 

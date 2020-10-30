@@ -3,25 +3,23 @@ category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
 excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ..."
 publishedDateTime: 2020-10-22T07:35:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
-webUrl: "https://www.businesswire.com/news/home/20201022005065/en/Data-Reply-Achieves-AWS-Machine-Learning-Competency-Status"
+originalUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
+webUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://mms.businesswire.com/media/20201022005065/en/832234/23/Data_Reply_-_LOGO_RGB.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "jLZvEwEFro83zx7IW7wOYZQQANd0pJHPMEq9pdAG6V1HVN6pmdhcCc+HvuUngz6WEIWQkdt0xT0wlzGb3Z49wWH2MM1wqfOp9gex812fPVJIDsI6/VzxNH9eniHjQTZxPGQQKwy9tkLbD8r1FyyZCCEXtpg5YNHEBExegtccDU1FH8jg/FLKNye3/PTkm0Nxjz29CMuELfKJ3Jm6tVq2ecxDNtfJ0MyEw0SFYMZswZnyBBvXtn1kRcFe8FHX4uKZ/pMSToWl8r2ld8lPrKY/tarrWgBL/QpQlLEQVDqQPXs7Fz80xv4/H44trw5EHNLgeaFOF9YMTtlQdonBpRUid+51A3G5zbnV3BqST0Ggun8=;IsfSg1WEW/7Ep+fb8941GQ=="
+secured: "1ZVy9s0YQ3z8HS8Pga1/djX/5ePoHolk0d6ojBki+Antxmq2m18s5syewEc5OFELzlgm12Z8zf4M5UoUald+c2PJSz/EFYRzNjJgokS9Gi4YL24qVs8D+xW4ZVGTt+QXxmFjU2ETFkNnaw6YqTTooxwuB8KtJ9+ab2YBHBkXzyJNFUTqY9n3wU9j6f9hcr6fVTXy3vBO9H1x67fgGdo2de4MqmtxOE4QyDKCDEDX10PLKk/Wpcc4V129qfPm6RHBgahGeG91nOzCRoo3wzV84jyaSdsYX/dB9AYxJ2UOrpQ8VmowsCXbToqlRKIInaR/r6xoPlwN9S+S9sAXGXa1cQafpHq8EHYxXceieo7uxIk=;O6TR7rrBYIw9Or7Qy521jg=="
 ---
 

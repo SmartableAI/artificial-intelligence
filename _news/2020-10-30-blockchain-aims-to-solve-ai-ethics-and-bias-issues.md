@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Blockchain aims to solve AI ethics and bias issues"
-excerpt: "Gartner research has revealed that organizations deploying AI grew from 4 to 14 percent over the past two years so protecting data transparency, trustworthiness, and ethics in the multi-billion dollar AI industry is critical. The European Union are ..."
-publishedDateTime: 2020-10-30T11:35:00Z
-originalUrl: "https://www.zdnet.com/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
-webUrl: "https://www.zdnet.com/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+excerpt: "Many Machine Learning and AI algorithms are centralized, with no transparency in the process. Now a blockchain-based start-up aims to improve transparency bias in business workflows"
+publishedDateTime: 2020-10-30T10:36:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
 type: article
 quality: 84
 heat: 164
@@ -26,14 +26,14 @@ topics:
 
 related:
   - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
-    publishedDateTime: 2020-10-28T02:39:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/"
+    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
+    publishedDateTime: 2020-10-28T05:40:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
         width: 1678
@@ -140,6 +140,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "ThxY9FOgniKq80Dbiqwru6PvYKm69JmCBYgnEyROUp9wnRCFkoUcjnHD+Ba8BRWHYGUr1xqTwU8EDbHgOjH35T7LNDsB88Gayt25m4Yx6HoEG78Q5DLcGQJSgOuNsfhDyE+2h815DgbGZQEIH7+U/AHyVEyhtABOrUuKHhQVB7pLoTnGt3h6YYRay++FwThSwXQGoOuyhoJQzpUK3JWAsi6hgNQqIrAeXLPI62zsbgG2eaUSdJKuxOxtldei9hG5BfyOGpbLDZKhFBiof/vQHTnnukMqsLgZvl6czo8vhG8FJ5Qh/DdceeW1/1gAUV1FE048IQJAXH6l4B21QAvPiqqQ2R8mbkGHhf9oQcN3qDwVd99mzMpEJU9Bd0l0xNUc1AJPbQTavXrOQFOI9+qGA4CyXQO+0c73BosO4vEmoee/C33a1S46yNBF5vi4Q3v8YZgXGMOVZHiGL7+S7NdJKbTGBjXhNY/yE8BAoxA9dJt7WwkOBVbWhZ6QEWLVVTZZaS6ZVBqZb5ooCY0gRN4z4Q==;LUvxJnnpIRxdXZ+YxsXffA=="
+secured: "obobZ26QwbiPu2dlDaExl3MmePdSwBRDChDS1r2fW5/pWxK9YyZfBwJmVmH1efC6lia1Tfdq+Ur0TqkmFDilUiQJEBphUbmsLfP8sTKyekxfhluPf5XsK++BjUjitfk+fHHyjXulIf0hGRX73tDZR/c28CqZw4JkBi3g7NXXAb2Q45ebsCS4LAFupNEmA8AoYg4LHvJtX2QDqkzT+sWwOmyLqCvDYDJd2H8gUuj0RfAC+UypdcI6tT/MxRGR1W1CHV9HLrRrWtLtfVD/I6Q8gtIq9QqY1W3uz+oQv3rdK/VxH+AV2yBJFo2PfWp6tBKNwMeVgOZ0fJ5rWTrb2UXw8HwyyOgusOYZTioIcYMgafkdI1eL0E9hc3gscs3hHKffIl8Irx1IRlceSOAfN7kO/JTvpgcnOCKzdfy9Ft0JTRFHT6zzVexrfQbFaxFaFh67QenaF1giRNKjbGYbNeITvsY9JYs0qdYXBvpYYcDSjLCjHiaE3lsYOgzzb5V++N+ZEh5N2uqBT04Qh0KnABBvDg==;RsNmXdTlVz8NKG0M4oxsQA=="
 ---
 

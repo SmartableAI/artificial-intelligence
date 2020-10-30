@@ -47,6 +47,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Want 'Full Self Driving' Mode on Your Tesla? Get Ready to Fork Over $10,000"
+    excerpt: "The price hike was expected now that the Full Self Driving (FSD) capability is in beta. It's likely to increase more as the feature improves, so Tesla is hoping buyers will take advantage of it now."
+    publishedDateTime: 2020-10-30T21:22:00Z
+    webUrl: "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000"
+    ampWebUrl: "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 102
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02kdtIiBEkRPNAkOLHK6m0v-1.1604092224.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Watch Tesla's 'Full Self-Driving' mode fail on San Francisco's twistiest street"
     excerpt: "Tesla's new \"Full Self-Driving\" mode (that isn't actually fully autonomous, and still requires drivers to hold the wheel and pay attention) just got owned by a famous San Francisco street."
     publishedDateTime: 2020-10-30T18:51:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-30-image-11.jpg"
         width: 1680
         height: 868
+        isCached: true
+  - title: "Waymo releases Phoenix area self-driving car incident score card"
+    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous vehicles there had been involved in 18 minor incidents since 2019 during tests and actual rides."
+    publishedDateTime: 2020-10-30T19:11:00Z
+    webUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int/waymo-releases-phoenix-area-self-driving-car-incident-score-card-idUSKBN27F23R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F23R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F23R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539430698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T1AD"
+        width: 818
+        height: 545
         isCached: true
   - title: "Tesla's Full Self-Driving beta is a reminder autonomous cars don't yet exist"
     excerpt: "Driving beta running with drivers behind the wheel bring a moment of pause. The videos seen here show off what I'm sure are just a tiny sliver of incidents Tesla owners experienced since the technology starting rolling out to cars in beta form last week."

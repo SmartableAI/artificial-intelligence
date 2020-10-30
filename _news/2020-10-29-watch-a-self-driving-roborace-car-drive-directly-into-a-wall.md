@@ -61,6 +61,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Self-Driving Race Car’s Run Ends With Immediate Crash"
+    excerpt: "What happens when the high-tech world of self-driving cars meets the high-stakes world of auto racing? The answer, it turns out, is not particularly optimistic for either one. In a year that’s seen auto racing of all kinds,"
+    publishedDateTime: 2020-10-30T21:41:00Z
+    webUrl: "https://www.insidehook.com/daily_brief/vehicles/self-driving-race-car-crashes-roborace"
+    ampWebUrl: "https://www.insidehook.com/daily_brief/vehicles/self-driving-race-car-crashes-roborace/amp"
+    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/vehicles/self-driving-race-car-crashes-roborace/amp"
+    type: article
+    provider:
+      name: InsideHook
+      domain: insidehook.com
+    quality: 44
+    images:
+      - url: "https://www.insidehook.com/wp-content/uploads/2020/10/roborace-2018.jpg?fit=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "/PoTQNwSdKzp18HOOEcz5fwXbqm5WJTwrLPJxhBfbyVfveUox2r8veWZbrpxPOh7zmcgnzNf3lvW2KWMz53BzpbJ4uo56za2juESnXxdaSNLfFCCFILkts2qJ+JUEol/DIaSJ+3koIgk2MPeaDGvgTiNnr187Nnj7WpNY5sl31ZcRdwnRQH7ZKqM2HF/fZRAFfeACaNUkKAk1z/qnOaVTokO4IXXCGP4mMRgW431Gkz01mm3cym73UluFc29nvBoagPLpQgBEhMKSabiXMsE/3xWvG35SzooefhwbX+Stc6ewGQWFHNBMWJc0Vzq0y0croaBuwsehab1hrqfdU4pDjqow9BYj1Mr049M3l1NUokIOoXlN1bpyYz6Cv6BeaQtMjHsvDaYkrnH7HpDrusO5wYkgmxb+F/qaHiO8gDLUrpwuVyNrymFYYNufnf0dGAkScE56BgsCfavUmwC/LA5BqQmb6zPvimjzqLe9MF09pYYjmhgcL2IEC3c0zFupxFwF61wXj+Mujz3OKnerFOswA==;5Z0SUGOXha1RnaEd8f1PzA=="
 ---

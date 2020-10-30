@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/roborace-self-driving-race-car-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborace-self-driving-race-car-crash/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://wp-assets.futurism.com/2020/10/self-driving-race-car-takes-off-immediately-crashes-into-wall-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Self-Driving Race Car’s Run Ends With Immediate Crash"
+    excerpt: "What happens when the high-tech world of self-driving cars meets the high-stakes world of auto racing? The answer, it turns out, is not particularly optimistic for either one. In a year that’s seen auto racing of all kinds,"
+    publishedDateTime: 2020-10-30T21:41:00Z
+    webUrl: "https://www.insidehook.com/daily_brief/vehicles/self-driving-race-car-crashes-roborace"
+    ampWebUrl: "https://www.insidehook.com/daily_brief/vehicles/self-driving-race-car-crashes-roborace/amp"
+    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/vehicles/self-driving-race-car-crashes-roborace/amp"
+    type: article
+    provider:
+      name: InsideHook
+      domain: insidehook.com
+    quality: 44
+    images:
+      - url: "https://www.insidehook.com/wp-content/uploads/2020/10/roborace-2018.jpg?fit=1024%2C683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "JlXgo404wj2SxFUyhL5mcQOfpDfnlDdGk11/Dp42tzQvc8nbn56RXrDxknTJnEQRT9TApZ6QEciBWlNZyKuW1lwvDzv5P6ooTlxERjcDM/3uQhW34BeKPDVUhMBWTbYQcRe4E9EiCCwL108OXl/q0fNaqHDndR0kuU/1PwdKq+PNLePeiQOQ7BX3sAG6F4L7wmUKKl9snSlylW2Drss5UwxphGnhvFWk8WZnRcDkbn4ArY91PMvZdvJeexwR6kp5O7AuxtIIwSMs9T29vAxzdXEZWJSOTWUr11Ak6lnBBIJv6M14ZN7ykTynpgUDENjx2GBzHw4azKBzZ1LdXTWyiM+leDIyZnMRRlps3gyq9cFWfA/qj5SEXm6C0QlWZZLoi+Ib7j4vDdu4IeOx595zwoQfqg0Xk6PzIS0l7uF4i28mKfJD6EAR4LGsglhO1cvWcNpQOAtxz/XyZthYOwIbT68/ZU2qgNKtO2YZtaPQINYOqxrDECKKm4Cyu1gPgYKKc/Lhogx6OPQnKmLw3Bkvcw==;b2UwVfiG5ZL7Oa0Jx8c6mA=="

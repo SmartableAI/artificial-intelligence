@@ -43,6 +43,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Addressing Legitimate Concerns About Government Use of Facial Recognition Technologies"
+    excerpt: "Facial recognition systems have generated a significant amount of controversy over their potential to create an unblinking, discriminatory surveillance system across the United States. A closer examination reveals that the best-crafted facial recognition ..."
+    publishedDateTime: 2020-10-30T21:28:00Z
+    webUrl: "https://www.heritage.org/civil-rights/report/addressing-legitimate-concerns-about-government-use-facial-recognition"
+    type: article
+    provider:
+      name: The Heritage Foundation
+      domain: heritage.org
+    quality: 31
+    images:
+      - url: "https://www.heritage.org/themes/heritage/src/images/bell.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OwgvgwPo3X+D8oVTNrjTyPn4EpsK1zxEx3hx4oHy4fMwBUpNdVAt1a9pkdXuP/g/nyXmEDNDYKRcBLNWbHUUMzfrZxY8AOTIXH/ZvRxWSAejh0eyJ+HDxDQMSrtTY9KU7RHQimedIaypwiFcE4excikJQ3bRo3x09OPAcLd5CIh4Ov9WP1N9ItcEwVHXuDLFf9ZPQh7j/nMbLOjD9BOUtbwfDV6nEXZ32jHLZRMFPz1wMJNKjMw3AzJPms3T8/R94U7XDygXgNBL2vVqG8gApXsUtWHKqwoL8E2iu56y+oL9FB6Rj9PBgm7sjASQFoGytp/z89F6QzVYPEP/P7+HLGl/EpJXsT81nRhHxpDyQms=;fPu8bDIr9m/ebWOt7f6v4Q=="
 ---
