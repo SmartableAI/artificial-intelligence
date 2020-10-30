@@ -181,20 +181,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "NEC Unveils Mask-on Facial Recognition"
-    excerpt: "Japanese electronics company NEC has developed facial recognition technology that can identify people even when they are wearing a mask -- a breakthrough that promises many practical applications amid the pandemic."
-    publishedDateTime: 2020-10-25T18:39:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/videos/20201023212821053/"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 39
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/videos/20201023213308229_898390_L.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Facial Recognition For International Passengers at LAX"
     excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
     publishedDateTime: 2020-10-29T22:46:00Z
@@ -226,6 +212,6 @@ related:
         height: 720
         isCached: true
 
-secured: "MvgGv8OL9KKTKD5QQ2/X7/68wBG+3f8P9/mv33/XQNb5RsX1APgIZfofzhqb/3VXo2nuMlD62Tb4v6AtRj3xCv2ISN74/rGJCGd3CpJ9sut5fmI1kSiThijt3jNBfFqCkmij16g4hqKWhCwTA4kZjkP4KKlfdnL7D1P9eDaC21AUgeMb1lrTRLED6o0aC82mbNRSujbSa28lzgnNUq0tLZ/mUhdO7Jf0SF3CoY38PAn/sygJuCMFKDIgVgiHkq/n44OTDWQsH6moSEXTitwsFiC8rWe8hHy/BvVFgNlHP4Nxm6MrBkZV7SgyrQKuSxQH6LJ/GVUKbUPhaOJhktSYTanSfkn6hlz93C48iEW5taM=;j0z9VFmcSp6hzuV3Ovlh6g=="
+secured: "L0kAIao85ZvGBIOpo1sIay1iV/8oaKtqMPvdZNTg4kajh3ZrQPHBGH00UrXyG53CAC6YDB06yIrYb/K0SjOX02qOlMAqOTOOQQx4YkJA4lNVIAx1RsuKF1m1hnIPl39L0B0toCNUcVM8YWuklgjGpiH97DZBW62onDcJT2CblUbh2AJLDzhcxoubD5Lo6syc6SzU/O1jDoHObHPBpLZUYlUNmgKNiDGqup1lPjM8LPjkvhFWfwmZN8kFblPmQTH+mXXUixMyEUDVr83xKWZz06PikRNRw0jt6Nc0bNQGvwz2LxfNgMRpqpwm7H+E18xzUuL6MFcgozCJpi/E3Hm4n3rXKbyhMYVAjqZVRV42+MxJw+9VpqVvohg/zhN50H+GVX113+OoG47IJtgNoPGDTwQG7k2G/3vtt4RPyLfQjAVpqaDmMXsmo0zRKQLNmsntd9scGYkoXt9aqaBptjHTVNP8QbhivcUUG9Qm8fTZqzcPb1X5j8wkekaHBa9+LtDmd7CSlLze43mNttDEXq4xIA==;hq01fIkVBDN06dqPkR//JQ=="
 ---
 

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Coming soon: Facial recognition system for Dubai Metro stations"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday as a new simulation and training facility was launched for the Transport Security Department in the emirate. The Hamdan Smart Station for ..."
-    publishedDateTime: 2020-10-25T17:41:00Z
-    webUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
-    ampWebUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 74
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20201025/ARTICLE/201029285/AR/0/AR-201029285.jpg&NCS_modified=20201025182405&exif=.jpg"
-        width: 1194
-        height: 776
-        isCached: true
   - title: "Dubai introduces facial recognition on public transport"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
     publishedDateTime: 2020-10-26T00:05:00Z
@@ -90,22 +74,6 @@ related:
       - url: "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/04/AP20097250765995-scaled.jpg?fit=1200%2C801&ssl=1"
         width: 1200
         height: 801
-        isCached: true
-  - title: "Face Recognition Systems Market"
-    excerpt: "According to Market Growth Insight, the Face Recognition Systems Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX% over the near future. The report delivers thorough analysis of the key drivers, opportunities ..."
-    publishedDateTime: 2020-10-29T11:34:00Z
-    webUrl: "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta29239767_g.jpg"
-        width: 750
-        height: 350
         isCached: true
 
 secured: "gUfvNO2Ag8MjqAYdm8MkKtRUS44Z4qwmnxL2ywhLyDt41qIjuZnUJvykvNGYDGvYCEM4zPcO9/fZKS8G488UnEiXdx9srQbn+gx8OkMEiMKmEnfdGQVCr5skXp77PPUSPlZf4PsT9YHFJSRkpJ/nq5soJvWTjY54K00nrCASwlse0BJenbbIrSTXNfqadw9QaVoFpOI8dbbQ7d1tRSD6YUvzqGgdODzK8V2hXlR67C6jmuHGGZt8l2q+zhZfE+DpCJGb2NbaUCo23Vv8UrekEsaZYCsdCdvYY2FdRkfSdUifk7yLXbaK5u0vx9Y2bCjOflmmDhCeFsjZ2vT8nC+C8YNBRdZMi/SyWBGn8Cmma98EIidNa1TIkUGRV/TVrYAMo9wxMw/otT97+7sz0SvpwX8X/w7S6NAwTp6vF7vu/9b5JZJwtDxvUikg2R2BVrsPyCgPnMCMxDMIGfWDqmTjww0Iyr4K+dcfejIx2jo8KXsUMjfYXIPqRdtFbHMp3rXiEGWhGNjg8l/kkkWaxsmB1A==;sVAQIzxGmsXaohMEejJnJw=="

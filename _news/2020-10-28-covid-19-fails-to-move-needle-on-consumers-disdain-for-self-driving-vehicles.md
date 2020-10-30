@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fPandemic-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "Ford’s next-gen test Vehicle lays self-driving foundation"
-    excerpt: "Beginning  to roll out this month, Ford and Argo AI‘s fourth-generation self-driving test vehicles are built on the Escape Hybrid platform and feature the latest advancements in sensing and computing technology."
-    publishedDateTime: 2020-10-25T18:59:00Z
-    webUrl: "https://gadget.co.za/fords-next-gen-test-vehicle-lays-self-driving-foundation/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
-    images:
-      - url: "https://gadget.co.za/wp-content/uploads/2020/10/1-QTFqvEO6Ycqd6nqk9Cd-vA.jpeg"
-        width: 700
-        height: 405
         isCached: true
 
 secured: "Oq5ITqk3aRYFv5XWwdWxPIH0QeD1vYbPu10PSwsL9Qu7JzoWOSr/hj1ibKhNK67T0VMOgc4Rh+tgijdStmPdw1EHmGWrNaaoz0KW92DsDxH+Te01p6z6u7nqgOnGqUd/JqEC6+i8xpnCfYyBWjNe/tCe6wCh8uWgzFIjMeLP+2K56YboYDufnf4ZgEpanBZm3d6kWlRvF6TC+h3a1xEUdtz5EJGMUYvCDCF9ePbIzU22xbA8xx634mWBFUg7XlJR/+txuA4J73Qju1jO7U+mD+TdQl4RGEjtPjKoUAc567ByFw0aEAlvbzj/YKdCgNGvj/iymaMQi7jozGCrN2w+ZmQl7DKG27lvVR4M+BSvB5qO9JM35f0XrXokJ1YOu/HpmVNCurHAlXOcJHkYK7fwWqfc+ckItnl9+vJh70KdSHI0YoUHRg7kXTUl1OHFotgx4Q4+ZMQ21Z4kf7Uj8vtTYWUseyfEIw7Bice1olOFAUeVSBLcvP1T6/QrWPOp7TgB7IcI7bvirhlbBwQo3NlysQ==;7J40sIIQG2Ez/DKN+Jpy3Q=="

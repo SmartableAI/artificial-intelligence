@@ -110,6 +110,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 31
+  - title: "Startup Robust.AI, Founded By Cognitive Scientist Gary Marcus And Roboticist Rodney Brooks, Raises $15 Million To Make Building Smarter Robots Easier"
+    excerpt: "Robust.AI raised $15 million led by Jazz Ventures to build a cognitive engine for robotics. The goal: To allow people to build robots faster, cheaper and"
+    publishedDateTime: 2020-10-28T15:06:00Z
+    webUrl: "https://www.newsoneplace.com/35211081911/ai-startup-robust"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 15
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f934290cb19cefacf98fd1b/0x0.jpg?cropX1=20&cropX2=3264&cropY1=338&cropY2=2162"
+        width: 3264
+        height: 2448
+        isCached: true
 
 secured: "UPTbdbRHwi85vkWFHvD2egGCqV1wzIp3NKITAE5SHFcy7FddUVTL1VRlCJijSRipPhDJyx7v41qLwZUqLkQ/MrPt18uTEjXXzfyvgjkrLFtF2AFLQ0rMTaM5ON0fKg1QDXtpKg2G4Tei6243ooL7GTI/gAGUp4FSuE80NDLidq0JQ4Gc3HTVXs3x+QyeUXt4VbhL804kHkUi9HXUXBE4cBHdTL9VE/tvwBvGOeYwao9kPuOZKuRKKtaZAmWQErF9qvrvdYUPiaGsq7VXgXFuhx3tu5mDOXFLggYHzS2N5jW0S1YPWulXJTR5l/wBL8yymIsXONdB03roB5z+XGOyDWFzJwHvjo02U8WeKBWRPEE=;KmzA3Y431z9A7A3zlpLv2w=="
 ---

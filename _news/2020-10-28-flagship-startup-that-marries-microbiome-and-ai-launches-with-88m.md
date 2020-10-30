@@ -2,12 +2,14 @@
 category: news
 title: "Flagship startup that marries microbiome and AI launches with $88M"
 excerpt: "Life sciences investor Flagship Pioneering has focused heavily on artificial intelligence and the microbiome over the last couple of years. Its latest startup hopes to combine the two."
-publishedDateTime: 2020-10-28T13:00:00Z
-originalUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2020/10/28/microbiome-and-ai-startup-senda-launches.html"
-webUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2020/10/28/microbiome-and-ai-startup-senda-launches.html"
+publishedDateTime: 2020-10-28T12:02:00Z
+originalUrl: "https://www.bizjournals.com/boston/news/2020/10/28/microbiome-and-ai-startup-senda-launches.html"
+webUrl: "https://www.bizjournals.com/boston/news/2020/10/28/microbiome-and-ai-startup-senda-launches.html"
+ampWebUrl: "https://www.bizjournals.com/boston/news/2020/10/28/microbiome-and-ai-startup-senda-launches.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/10/28/microbiome-and-ai-startup-senda-launches.amp.html"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +19,6 @@ provider:
 topics:
   - AI
 
-secured: "aOHTWWy7tLP5C0e/Pod+ws3x/qed9jqj7jRYgEfybNEV4opL7eMvz0oCcmvitJ77YVT2z9pfv4f9H5ox+AVoH0Gt1bH8kmYBMpPRAQEkhLzpA8sr0NflM3aG8nvUPa+FX/NYmN+Hh0laeuMGByaKS1QVjBcpC6am0E8XKF3tSf6gpCcuRgW9ZvOnDg3oWdaim1dkz7JIn1yzsgTcAaVbhkmBkyi2avl2YEoxdMp6iQiW0KZZ++lU02TEWZsn7EOC9eNuVQNHRETlTCaFwPKf/xxtJBtH839tEgNBJMeIK+683cVxT6eLRNvWPS0OQKTc7eZMW7hAUa/LCVLb+kgWNqUCwthz3T1qOBzUgix8O4RJmQww5X4bWPGxkA8zATkeb+dvEeW9t0cF0TFwKIJBAstxr6brJ6GpTSj02ZF1h4D0yXDz+DwjVdImAXeRWHRISu1VoHfjevsbplj0/sbia0iibSeFfaQcFTqsO7eu9Sv5mxYl51oTYnDeq4bg4ZDFQzLBkuhet9aCNHtA3/x5pQ==;S8AiCkx8Z8R1eHT61lhUhw=="
+secured: "hnoCFG+JOk37xDCGTxhV/fsAEzdoeBcfjnlYdihHmkMxK1jrJmUivKWF6HnAtdoTmCS7MUgR5baIULqZ8LFDBdndGFM7L+7A1v8I7UhPwQhDtivi3CXeQX2wvFpIYWK6l5VshKSnMxS8tYrTEPKlWbrtBwuygCmmiuyy5OOQx/cjDnyq5nExtyZMevh5FAdepJ3+F6qjUdSfxrFle5SJZRozu342LY8J/nIGitoShsv64Hnx+NxDV9EVzqzTGSK9EFpDuJy0UcJdtjRdrGT40fpxglSsNEtXzBwBrakbf57k3qiyf0hp8P4GWC+HgcwC+5rzgH78aus6szv1P7MZEAGkJOOe8QM1/eCvQbh3+jZ1/da4OnaxifPrX+5NaomqBgaOSppsf6isntcrrlq623IjRN3kxs4NAYznKAQH7KzWidUxRBkuMh8ZuYYsUMmYhk7piaMOGjMEm8aKPiog6sllNWAe2lR10yeK9FQ2i0pfHERH4kb3VTsc/h+7Pb5AyQMsSvlY749GwBQxqQfV1Q==;5pWP3bXtrtGJj67GSs1+jw=="
 ---
 

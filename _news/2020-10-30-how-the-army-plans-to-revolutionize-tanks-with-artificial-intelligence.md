@@ -1,20 +1,21 @@
 ---
 category: news
 title: "How the Army plans to revolutionize tanks with artificial intelligence"
-excerpt: "with the Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army) Even as the U.S. Army attempts to integrate cutting edge technologies into its ..."
-publishedDateTime: 2020-10-30T06:14:00Z
-originalUrl: "https://www.federaltimes.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
-webUrl: "https://www.federaltimes.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
+excerpt: "At a time when the military is enamored with robotics, artificial intelligence and next generation networks, operating a tank relies entirely on manual inputs from highly trained operators. “Currently, tank crews use a very manual process to detect ..."
+publishedDateTime: 2020-10-30T06:24:00Z
+originalUrl: "https://www.defensenews.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Federal Times
-  domain: federaltimes.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -53,6 +54,6 @@ related:
         height: 891
         isCached: true
 
-secured: "BZU0VdiuUFKLQT5AnK+xLVXDhuA5mc6Zc+BfD5FJiI+TLZdRwFSMinOSyENmmrpRQ65O4t5CoORjUXdu1wvl/X/2LxFSI0+VNd79tsvIhVPVhqNttFm+3WuZAeNEeKQsur0+McbZbSwU7H79eSJaxDehUw1RNzaZa0En8e29bQiPeR+bMc1hZ5ZTtEwGr4or+1kaoLspj7GxsZqzWnlyZMaMNQ/39Jmkk0EmbvQrlrxKQNx+qJT9Oi4AMU25VlubNxxm5TParnmHzQztp0m3x9XlmsxRinpGowBoHbaNfgG8uxzSuF7FmCPYvtvV+/vwVhS1pJT3nwqFSQeAf1bnLBYOurU0A6XE6l0ECSkhyvg=;2dvFk8l/yG/hwFUZMXVElQ=="
+secured: "Wz7FWD9AomGZz49LSYcCKYj9cENf4IsTMNG7XLW1HhyvY/gC+CTYcYWRoZUe/XXv3e2bW84zjFRZ6sodJxr4xIf3nJXOKPE8tognwyJt6D/MrpYSgV7vT5zSEdHxYHo9YFBlqmoWuwy3Gk9QNNFlmV2GPlbequiJNwXaJROohnJpHqyJMqLZ6SGKGu3dIeOcKrrpxU83LXFMSnZXu1RbIq2zItq690TL0NTKnnZn1JXT9NuZqZN3Vyq5Vtt3YPg8PEoRCliFGdv9hhsTDf86UgoJUt6jQycSIui2gs2bgWkLFxWl1RbLKIIEYPp8VQsP/Huabygtz2CFqyW8b1JhrIbmlixbKXKThGAasDbZwX0=;2L62vapXAISKVWWzGy4UYA=="
 ---
 

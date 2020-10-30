@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
 webUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Massachusetts Institute of Technology
@@ -29,21 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19"
-    excerpt: "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology."
-    publishedDateTime: 2020-10-28T14:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274"
+  - title: "COVID-19 Is Redefining Healthcare Innovation"
+    excerpt: "\"It's kind of ironic. Data and computers are helping deliver more personalized medicine,\" says Dr. Andrew Masica at State of Reform's North Texas Conference."
+    publishedDateTime: 2020-10-26T14:18:00Z
+    webUrl: "https://www.dmagazine.com/healthcare-business/2020/10/covid-19-is-redefining-healthcare-innovation/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
+      name: D Magazine
+      domain: dmagazine.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1322193/IBM_AI_Study.jpg"
-        width: 400
-        height: 225
+      - url: "https://assets.dmagstatic.com/wp-content/uploads/2015/08/d-logo-square-facebook-default.jpg"
+        width: 345
+        height: 345
+        isCached: true
+  - title: "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19"
+    excerpt: "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology."
+    publishedDateTime: 2020-10-28T14:30:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
-secured: "9ioBjzbhKVN4gcF2lqYV6Pr3xlrWYv/48mLWZg+uLDlYOZwMLaIZPnvU/zndQRjEcaQqVFVpR0Qw5pamny8n9jfGNwwr/5WKZAF9K2ugqSHxJgcD+KsRWlCUIv6TXPNC3zGfb4atxgJQv99QvpmYNCwjUfmCgtKRXm9GYLOPuUw+yOzbg7YqRiKoBPfCBcxrEhTrSISj0rjhUwOaw0aK7y8SVpgMchUx4Lla2otnC86uqzw0WwnyqppQvcPwXn15Q1rrwR1s6NAcB3hgz+86z+9f/Lhb3MDt3NzXLQkTGQTnbEwtT9T2b093jSYR7vkffcdKQcxrwd/bdnX3+1i9uFOST7OIJzYf02HP9+OWCgk=;TRrs6/o2Ya7wJyiOIK2L6Q=="
+secured: "heD/dMThXkfAsytiQCVZlav32QQLeq9dTQSVfYXsgplTNrDqY2H6fXCVmVzlJKqFhIhdro4H3WTexP/eJ8B8hZ0rGabXe3DKVTSRvsH8Wxg2noUXSRmLIjyIWMAzFLPRTs8tfpjL+KNduMhTKmmkaaQaZcK3SSTq2+HgJJ9XwsAS73tp0Me9AU1kC5htDoX3mc34GoM50tWGbnpDE23606gyjH7qsuF1gyLz28g0MCkQaNgRsvcbmb8BiJH1olyJmWckKttdHKoYwQOe4646u5ByojcacsIh2H1itx6+AknBTWMT2MsLC20SouLKAIt84v/xAeOMWZdcK/+vKDvqPldVkkmb8Hc0A+LqFF04fg4QXofxyzCT7uYOaucdpIteQ1+wBOk+WCmC8cWPzjEk5Y9917N43Y+NBOf1se0dfWXGZzM6KIr4X9FiuuaSuh1JUB4bFEA77Sb9xUzKSk96TjttoqEzLHeiaXxBeiTvZsol7amguq3Nde4FsFhPEx/0e1rVpxJi6O6qKQltm/Pfnw==;HDzzZerlWVR9P2EtNi2iew=="
 ---
 

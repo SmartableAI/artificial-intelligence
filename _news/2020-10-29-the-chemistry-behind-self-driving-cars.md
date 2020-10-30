@@ -21,115 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Tesla's Full Self-Driving beta is a reminder autonomous cars don't yet exist"
-    excerpt: "Driving beta running with drivers behind the wheel bring a moment of pause. The videos seen here show off what I'm sure are just a tiny sliver of incidents Tesla owners experienced since the technology starting rolling out to cars in beta form last week."
-    publishedDateTime: 2020-10-27T15:41:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
+  - title: "Daylight Savings Time Could Miraculously Be Saved By Self-Driving Cars"
+    excerpt: "Here’s today’s intriguing question: Will the advent of AI-based true self-driving cars potentially “solve” the car crash-related concerns entailing Daylight Savings Time and obviate the need to necessarily cancel DST due to car crashes? Let’s ..."
+    publishedDateTime: 2020-10-29T16:07:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99f9cf900674c6d06d4c35%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6240%26cropY1%3D316%26cropY2%3D3826"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla Autopilot safety shows improvement as Full Self Driving fail videos rise"
-    excerpt: "It's also important to note that this information is for Autopilot miles from the previous quarter, so this is not a reflection of Tesla's recently launched Full Self Driving beta rollout. There's an interesting potential parallel that we think will ..."
-    publishedDateTime: 2020-10-27T15:54:00Z
-    webUrl: "https://www.autoblog.com/2020/10/27/tesla-autopilot-full-self-driving-safety/"
-    ampWebUrl: "https://www.autoblog.com/amp/2020/10/27/tesla-autopilot-full-self-driving-safety/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/10/27/tesla-autopilot-full-self-driving-safety/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 85
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/10/27105405/Screen-Shot-2020-10-27-at-10.53.36-AM.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Tesla beta testing \"full self-driving\" system worries drivers, pedestrians — and even owners"
-    excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own, it turns out ..."
-    publishedDateTime: 2020-10-26T19:50:00Z
-    webUrl: "https://www.nbcnews.com/business/autos/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-n1244787"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244787"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244787"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 78
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3422644/201023-tesla-car-charge-ew-538p_f824f07adced2e84056d1439b9cad104.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Videos of Tesla's new 'full self-driving' software look futuristic — but show just how far it is from full autonomy"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 There's still no such thing as a self-driving car, but you wouldn't know that from hearing Elon Musk or Tesla talk about their ..."
-    publishedDateTime: 2020-10-27T19:31:00Z
-    webUrl: "https://www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/5f9878b30c60aa00190d4a68?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Tesla to begin rollout of self-driving beta"
-    excerpt: "Experience the best self-driving car tech with Tesla. Although, the beta version update is only for customers in Early Access Program, everyone will be benefited with high-tech by the end of 2020."
-    publishedDateTime: 2020-10-29T14:12:00Z
-    webUrl: "https://www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/"
-    ampWebUrl: "https://www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/amp/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 59
-    images:
-      - url: "https://www.technowize.com/wp-content/uploads/2020/10/Tesla-beta-image.png"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Consumer Reports Finds GM’s Self-Driving Tech Superior to Tesla’s Autopilot"
-    excerpt: "Tesla’s Autopilot may be stealing more headlines as of late, but according to new findings from Consumer Reports, GM’s version is leagues ahead. Consumer advocate publication Consumer Reports recently conducted a test featuring a lineup of 17 vehicles with active driving assistance systems,"
-    publishedDateTime: 2020-10-28T21:16:00Z
-    webUrl: "https://robbreport.com/motors/cars/gms-self-driving-tech-beats-tesla-in-consumer-reports-test-1234577947/"
-    ampWebUrl: "https://robbreport.com/motors/cars/gms-self-driving-tech-beats-tesla-in-consumer-reports-test-1234577947/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/gms-self-driving-tech-beats-tesla-in-consumer-reports-test-1234577947/amp/"
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 57
-    images:
-      - url: "https://robbreport.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-28-at-12.jpg?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Tesla’s ‘Full Self Driving’ Beta Tech Nearly Wrecked This Model 3 Into a Parked Car"
-    excerpt: "Tesla's \"Full Self Driving\" update was sent out to an unknown number of beta testers a few days ago, and videos showing the system's performance are being shared around the internet. One such clip, posted by YouTuber Brandon M,"
-    publishedDateTime: 2020-10-27T19:17:00Z
-    webUrl: "https://www.thedrive.com/tech/37297/teslas-full-self-driving-beta-tech-nearly-wrecked-this-model-3-into-a-parked-car"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 48
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2020/10/tesla-fsd-moronic-lead.jpg?quality=85"
-        width: 1920
-        height: 1080
+        height: 675
         isCached: true
   - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
     excerpt: "And a recent mishap at an autonomous racing event showcased just how challenging self-driving technology can be. Roborace — a new autonomous racing series that's still in its testing phase ..."
@@ -145,51 +51,30 @@ related:
         width: 2264
         height: 1390
         isCached: true
-  - title: "Ford is doubling down on testing self-driving cars in Miami-Dade"
-    excerpt: "After landing in Miami-Dade in 2018 with a fleet of self-driving cars, Ford announced Monday that it plans to broaden its presence here as it explores the frontiers of autonomous vehicles. The Michigan-based automaker said it now plans to establish a ..."
-    publishedDateTime: 2020-10-27T11:01:00Z
-    webUrl: "https://www.miamiherald.com/news/business/article246728241.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/business/article246728241.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article246728241.html"
+  - title: "The Big Gamble on Self Driving Cars"
+    excerpt: "In this episode, Jim discusses the self-driving car, a staple of sci-fi books and movies and predicted by automakers as far back as the 1930's, as was shown in a 1935 Chevy promotional film. With Cruise Automation’s application with the California DMV ..."
+    publishedDateTime: 2020-10-28T16:00:00Z
+    webUrl: "https://www.engineering.com/AdvancedManufacturing/ArticleID/20881/The-Big-Gamble-on-Self-Driving-Cars.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20881.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20881.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 44
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/d8c13d6b-7856-494e-9971-e37ddc10c652/c3add766-c8dc-42cf-9b32-f380f6083365/1280x720/match/image.jpg"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "Tesla beta testing “full self-driving” system worries drivers, pedestrians — and even owners – Jaweb"
-    excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own,"
-    publishedDateTime: 2020-10-26T19:53:00Z
-    webUrl: "https://elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/?amp"
+      name: Engineering
+      domain: engineering.com
+    quality: 39
+  - title: "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech"
+    excerpt: "In recent years, newly miniaturized sensors like radar, sonar, and Lidar, along with the advancement of computer technology, and artificial intelligence, self-driving cars have reentered the ..."
+    publishedDateTime: 2020-10-26T23:21:00Z
+    webUrl: "https://www.thedrive.com/cars-101/36937/self-driving-cars"
     type: article
     provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 44
+      name: The Drive
+      domain: thedrive.com
+    quality: 19
     images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/10/Tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-—.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed"
-    excerpt: "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng Motors is less bullish on the prospect. “They have to make a ..."
-    publishedDateTime: 2020-10-28T11:16:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/28/915555.jpg"
-        width: 1240
-        height: 697
+      - url: "https://api.thedrive.com/wp-content/uploads/2017/01/gettyimages-609845728.jpg?quality=85"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "q+JWYJUHMWRDVgznspZsFci9JvmT7ATFZD8BO+pGKullZxLqI15LcvnH57tGxsBXy4u6IC9bBnR45dRtGWwnLvn+NQ2uv+F7d+qNt0mf0y6I1EFStfGEjZx/iHrrOZniHDIp2EOm8xbUfbq+sh5ePmqrwZFND9DysHIFo8x+hXOIYwwfsgg2CoQDQ54UUFnoFxhh2XIRd3c2wVZ1RlHfOXYbw1cMbweB4yK4LydMvzqDTf3yu3SdV2T7bujAgVvckg4rEx/38rj1s2NBFUK97NbC1JUplbxr53hRYA9MJgxhmHKMz+Yl2HZGgcdsx/i94sRkmNjVFW7/q6WZcD98GCuLaq0KxsOj72peYu3NO5g=;+Ma6AtPyXyOEDsh3eftrmQ=="

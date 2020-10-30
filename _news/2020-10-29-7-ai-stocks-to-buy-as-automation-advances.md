@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-adv
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Nasdaq
@@ -23,60 +23,48 @@ topics:
 
 related:
   - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
-    publishedDateTime: 2020-10-28T05:40:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+    excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
+    publishedDateTime: 2020-10-28T04:25:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 71
+    quality: 69
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
         width: 1678
         height: 1119
         isCached: true
-  - title: "Services Infusing AI into Air, Land, Sea Robots"
-    excerpt: "We believe that we have adversaries who are rapidly building up their forces … and are definitely applying AI to their operations,” said Nand Mulchandani, chief technology officer at the Pentagon’s Joint Artificial Intelligence Center."
-    publishedDateTime: 2020-10-26T12:06:00Z
-    webUrl: "https://www.nationaldefensemagazine.org/articles/2020/10/26/services-infusing-ai-into-air-land-sea-robots"
+  - title: "Artificial Intelligence as a Service"
+    excerpt: "The Artificial Intelligence as a Service market is expected to grow from USD 1.6 Billion in 2019 to USD 13 Billion by 2027, at a Compound Annual Growth Rate (CAGR) of 51% during the forecast period. A comprehensive analysis titled; Artificial Intelligence ..."
+    publishedDateTime: 2020-10-27T12:03:00Z
+    webUrl: "https://www.openpr.com/news/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
+    ampWebUrl: "https://www.openpr.com/amp/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
     type: article
     provider:
-      name: National Defense Magazine
-      domain: nationaldefensemagazine.org
-    quality: 54
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
     images:
-      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/10/4944270.ashx?h=500&w=878&la=en&hash=BD039AF4149872CB15744860B33582D4DF93FD68"
-        width: 878
-        height: 500
+      - url: "https://cdn.openpr.com/T/a/Ta27780023_g.jpg"
+        width: 550
+        height: 312
         isCached: true
-  - title: "The Future of AI, Ethics, and Defense"
-    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
-    publishedDateTime: 2020-10-26T16:25:00Z
-    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
+  - title: "Grades, And Artificial Intelligence"
+    excerpt: "If you ask about your grade, I’ll gladly tell you that you’re doing well in the course, or that you really need to do better, as the case may be. More specifically than that I will not say. The main reason for this is that if I were a hiring manager at ..."
+    publishedDateTime: 2020-10-29T19:24:00Z
+    webUrl: "https://www.science20.com/fred_phillips/grades_and_artificial_intelligence-251477"
     type: article
     provider:
-      name: German Marshall Fund
-      domain: gmfus.org
-    quality: 54
+      name: Science 2.0
+      domain: science20.com
+    quality: 37
     images:
-      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
-        width: 1400
-        height: 600
-        isCached: true
-  - title: "Startup Robust.AI, Founded By Cognitive Scientist Gary Marcus And Roboticist Rodney Brooks, Raises $15 Million To Make Building Smarter Robots Easier"
-    excerpt: "Robust.AI raised $15 million led by Jazz Ventures to build a cognitive engine for robotics. The goal: To allow people to build robots faster, cheaper and"
-    publishedDateTime: 2020-10-28T15:06:00Z
-    webUrl: "https://www.newsoneplace.com/35211081911/ai-startup-robust"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 15
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f934290cb19cefacf98fd1b/0x0.jpg?cropX1=20&cropX2=3264&cropY1=338&cropY2=2162"
-        width: 3264
-        height: 2448
+      - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"
+        width: 300
+        height: 261
         isCached: true
 
 secured: "vuEYwCTxwrlEvJ97Bd+X/8bRpBjBVdw7mQxOAuemQhY0qiSHhqw3M542jgTWbuCcgDQOINSC9WKPskaBAsy3FLGLuZ45hj08N1yoLT14AWx9aCDpuc27MhRqlTD9onjrCPK+5cuevtWNmT8XyyQnaBcCI/DtNgjEs0KkmXmcG6Gzl/IinXH3PIcSleIOj3iA30a/M9iMaHip9dKRl+D05SAEMJZPt31UmWaHW/jzRfdu5L7HrcLzSCgUHLN4A9C5tsURmcwx7mqWPav17iJxnlmnlHb47bD2PntTLGeRJyhCBa40WG/71KMrTafgJsEgA+yUAOHMnfpNn9XfBU7TYvu4/BvF8e/oRrtfsmBiU6A=;MXArahrylcSecVLsoZ8MAQ=="

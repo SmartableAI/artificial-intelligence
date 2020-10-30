@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-i
 webUrl: "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 31
+  - title: "Startup Robust.AI, Founded By Cognitive Scientist Gary Marcus And Roboticist Rodney Brooks, Raises $15 Million To Make Building Smarter Robots Easier"
+    excerpt: "Robust.AI raised $15 million led by Jazz Ventures to build a cognitive engine for robotics. The goal: To allow people to build robots faster, cheaper and"
+    publishedDateTime: 2020-10-28T15:06:00Z
+    webUrl: "https://www.newsoneplace.com/35211081911/ai-startup-robust"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 15
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f934290cb19cefacf98fd1b/0x0.jpg?cropX1=20&cropX2=3264&cropY1=338&cropY2=2162"
+        width: 3264
+        height: 2448
+        isCached: true
 
 secured: "IDwaQTIx695Wm7avw+7OifLIvNRx/q3DGijop5uK9jOiUAP+VXo9vE0/VYUp/pBQTOxdeBj4JryKwrVUUz+oeEK245VHod5lbu0xwxhHnYVTGQ3rbqJUw4k8ZHCjvmWL9lx9tUsF/rEnStRUcIu0neb/jGcfFKsGhXC3DVwB5JXuyVtJt4iVD/rBkVqwcXWWPyF68yL59l1AFbHVIAmuxY1/FUug/C4WZYjnxSLbHkDjvhXdnwTf6XfVgQOjzSs5jGyPVmPo0u4qYGROhqW3lTfOxM7gQK6iIxS3ofgN0q4tRekJeQJaLkFRtMaFCkTN5nM3HhJABdkJRFih/GuCwfFGb5np+9dr0GiBXvvtB8S54S90BC5lKldwNqYTpE3Ylaq7hYVzA1x1mj8t/rl/Qlhs0OHmBjzQqU+eydiqqhO33SLmrCGCpfQo7KmvHEQC37/FFcYrXJN7VaSAjcmq9THz3WC0hFdV2qdSAgKHP751jzQnMdiqAHxc+1a551DMgjQJnU7eu2vreM+Db/68XQ==;TYyD32sva5VnxcJnT+uvTQ=="
 ---

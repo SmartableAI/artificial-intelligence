@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Tesla raises price of ‘Full Self-Driving’ option to $10,000"
+    excerpt: "Tesla’s “Full Self-Driving” option, which currently enables Autopilot features like changing lanes on highways and automatic car parking, now costs $10,000, or $2,000 more than before. The price rise only covers the US for now, where the company’s ..."
+    publishedDateTime: 2020-10-30T10:26:00Z
+    webUrl: "https://www.theverge.com/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 104
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Q2hKU1xHrSqpHBvLshBWf7i9NuI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67712901/acastro_180430_1777_tesla_0001.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Tesla officially increases price of its Full Self-Driving Kickstarter campaign to $10,000"
     excerpt: "Tesla has now officially increased the price of its Full Self-Driving package to $10,000 in the US. That’s quite a price for a model that most closely resembles a Kickstarter campaign. In a Kickstarter campaign,"
     publishedDateTime: 2020-10-29T16:21:00Z
@@ -40,6 +56,100 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?quality=82&strip=all"
         width: 1851
         height: 853
+        isCached: true
+  - title: "Tesla's Full Self-Driving beta is a reminder autonomous cars don't yet exist"
+    excerpt: "Driving beta running with drivers behind the wheel bring a moment of pause. The videos seen here show off what I'm sure are just a tiny sliver of incidents Tesla owners experienced since the technology starting rolling out to cars in beta form last week."
+    publishedDateTime: 2020-10-27T15:41:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tesla Autopilot safety shows improvement as Full Self Driving fail videos rise"
+    excerpt: "It's also important to note that this information is for Autopilot miles from the previous quarter, so this is not a reflection of Tesla's recently launched Full Self Driving beta rollout. There's an interesting potential parallel that we think will ..."
+    publishedDateTime: 2020-10-27T15:54:00Z
+    webUrl: "https://www.autoblog.com/2020/10/27/tesla-autopilot-full-self-driving-safety/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/10/27/tesla-autopilot-full-self-driving-safety/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/10/27/tesla-autopilot-full-self-driving-safety/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 85
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/10/27105405/Screen-Shot-2020-10-27-at-10.53.36-AM.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Tesla beta testing \"full self-driving\" system worries drivers, pedestrians — and even owners"
+    excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own, it turns out ..."
+    publishedDateTime: 2020-10-26T19:50:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-n1244787"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244787"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244787"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 78
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3422644/201023-tesla-car-charge-ew-538p_f824f07adced2e84056d1439b9cad104.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Watch this self-driving race car hilariously smash into a wall"
+    excerpt: "Autonomous cars are the future, apparently. Watch this self-driving car race series and decide for yourself how far along the tech is."
+    publishedDateTime: 2020-10-30T09:10:00Z
+    webUrl: "https://thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/"
+    ampWebUrl: "https://thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 74
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/crash-acronis-autonomous-car-ev-future-track-grassi-roborace-devbot-796x447.png"
+        width: 796
+        height: 447
+        isCached: true
+  - title: "Tesla is now beta-testing self-driving software on public roads"
+    excerpt: "Tesla considers it to be beta software and says it's not intended for fully autonomous operation. Drivers are expected to keep their eyes on the road and hands on the wheel at all times. To understand the new software,"
+    publishedDateTime: 2020-10-30T11:45:00Z
+    webUrl: "https://arstechnica.com/cars/2020/10/tesla-is-now-beta-testing-self-driving-software-on-public-roads/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/10/tesla_jeeesus-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Videos of Tesla's new 'full self-driving' software look futuristic — but show just how far it is from full autonomy"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 There's still no such thing as a self-driving car, but you wouldn't know that from hearing Elon Musk or Tesla talk about their ..."
+    publishedDateTime: 2020-10-27T19:31:00Z
+    webUrl: "https://www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/5f9878b30c60aa00190d4a68?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
@@ -57,6 +167,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Tesla to begin rollout of self-driving beta"
+    excerpt: "Experience the best self-driving car tech with Tesla. Although, the beta version update is only for customers in Early Access Program, everyone will be benefited with high-tech by the end of 2020."
+    publishedDateTime: 2020-10-29T14:12:00Z
+    webUrl: "https://www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/"
+    ampWebUrl: "https://www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/amp/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 59
+    images:
+      - url: "https://www.technowize.com/wp-content/uploads/2020/10/Tesla-beta-image.png"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Tesla’s Full Self-Driving $2k price increase takes effect"
     excerpt: "Driving suite has increased in price by $2,000 from $8,000 to $10,000, as CEO Elon Musk announced last week. Musk announced the price increase last week on the heels of the FSD Beta release on October 20th,"
     publishedDateTime: 2020-10-29T15:17:00Z
@@ -72,6 +198,52 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2020/10/tesla-full-self-driving-neural-network-1024x501.jpg"
         width: 1024
         height: 501
+        isCached: true
+  - title: "Consumer Reports Finds GM’s Self-Driving Tech Superior to Tesla’s Autopilot"
+    excerpt: "Tesla’s Autopilot may be stealing more headlines as of late, but according to new findings from Consumer Reports, GM’s version is leagues ahead. Consumer advocate publication Consumer Reports recently conducted a test featuring a lineup of 17 vehicles with active driving assistance systems,"
+    publishedDateTime: 2020-10-28T21:16:00Z
+    webUrl: "https://robbreport.com/motors/cars/gms-self-driving-tech-beats-tesla-in-consumer-reports-test-1234577947/"
+    ampWebUrl: "https://robbreport.com/motors/cars/gms-self-driving-tech-beats-tesla-in-consumer-reports-test-1234577947/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/gms-self-driving-tech-beats-tesla-in-consumer-reports-test-1234577947/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 57
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-28-at-12.jpg?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Tesla’s ‘Full Self Driving’ Beta Tech Nearly Wrecked This Model 3 Into a Parked Car"
+    excerpt: "Tesla's \"Full Self Driving\" update was sent out to an unknown number of beta testers a few days ago, and videos showing the system's performance are being shared around the internet. One such clip, posted by YouTuber Brandon M,"
+    publishedDateTime: 2020-10-27T19:17:00Z
+    webUrl: "https://www.thedrive.com/tech/37297/teslas-full-self-driving-beta-tech-nearly-wrecked-this-model-3-into-a-parked-car"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 48
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2020/10/tesla-fsd-moronic-lead.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tesla beta testing “full self-driving” system worries drivers, pedestrians — and even owners – Jaweb"
+    excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own,"
+    publishedDateTime: 2020-10-26T19:53:00Z
+    webUrl: "https://elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 44
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/10/Tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-—.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Full Self-Driving Beta Release Is Tesla's Most Irresponsible Move so Far"
     excerpt: "Tesla released its Full Self-Driving Beta enhanced driver's aid system (please note the contradiction) last week, so expect a lot of the owners picked for the experiment - sorry, trial run - to test it out on the street."

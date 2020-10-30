@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/reboot/ethics-killing-ai-171473"
 webUrl: "https://nationalinterest.org/blog/reboot/ethics-killing-ai-171473"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Future of AI, Ethics, and Defense"
+    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
+    publishedDateTime: 2020-10-26T16:25:00Z
+    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
+    type: article
+    provider:
+      name: German Marshall Fund
+      domain: gmfus.org
+    quality: 54
+    images:
+      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
+        width: 1400
+        height: 600
+        isCached: true
   - title: "Ethics vs. compliance in AI"
     excerpt: "The Defense Department is focused on implementing its ethics principles for artificial intelligence, especially when it comes to health-related data. But tech experts warn against conflating ethics as just another compliance checklist. Jane Pinelis ..."
     publishedDateTime: 2020-10-27T19:16:00Z

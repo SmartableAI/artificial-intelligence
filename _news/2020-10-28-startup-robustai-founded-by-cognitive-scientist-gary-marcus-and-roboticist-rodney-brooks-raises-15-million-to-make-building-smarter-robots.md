@@ -25,59 +25,105 @@ images:
     isCached: true
 
 related:
-  - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
-    publishedDateTime: 2020-10-28T05:40:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+  - title: "Startup Robust AI Raises $15 Million in New Funding"
+    excerpt: "Robust AI Inc., a startup developing an artificial intelligence system intended to allow robots to work autonomously in open-ended environments, on Wednesday raised $15 million in venture-capital funding,"
+    publishedDateTime: 2020-10-28T15:19:00Z
+    webUrl: "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 71
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
     images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
-        width: 1678
-        height: 1119
+      - url: "https://images.wsj.net/im-250518/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "7 AI Stocks to Buy as Automation Advances"
-    excerpt: "Oxford academics Carl Benedikt Frey and Michael Osborne estimated that 47% of American jobs are at high risk of automation by the mid-2030s, so it’s closer than we think. Many investors aren’t sure what the technology is or what AI stocks to buy in anticipation of its rise."
-    publishedDateTime: 2020-10-28T19:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28"
-    ampWebUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
+  - title: "US Based AI Marketing Cloud Startup Pyxis Raises USD 7 Million in Series A Funding"
+    excerpt: "Pyxis is a unique AI-led marketing cloud start-up headquartered in the US with an office in Bengaluru, India. The start-up has several innovative tools that provide a robust platform for creative"
+    publishedDateTime: 2020-10-28T13:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/us-based-ai-marketing-cloud-startup-pyxis-raises-usd-7-million-in-series-a-funding-120102801417_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/us-based-ai-marketing-cloud-startup-pyxis-raises-usd-7-million-in-series-a-funding-120102801417_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/us-based-ai-marketing-cloud-startup-pyxis-raises-usd-7-million-in-series-a-funding-120102801417_1.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 71
-  - title: "Services Infusing AI into Air, Land, Sea Robots"
-    excerpt: "We believe that we have adversaries who are rapidly building up their forces … and are definitely applying AI to their operations,” said Nand Mulchandani, chief technology officer at the Pentagon’s Joint Artificial Intelligence Center."
-    publishedDateTime: 2020-10-26T12:06:00Z
-    webUrl: "https://www.nationaldefensemagazine.org/articles/2020/10/26/services-infusing-ai-into-air-land-sea-robots"
-    type: article
-    provider:
-      name: National Defense Magazine
-      domain: nationaldefensemagazine.org
-    quality: 54
+      name: Business Standard
+      domain: business-standard.com
+    quality: 68
     images:
-      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/10/4944270.ashx?h=500&w=878&la=en&hash=BD039AF4149872CB15744860B33582D4DF93FD68"
-        width: 878
-        height: 500
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/28/full/20201028183935.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "The Future of AI, Ethics, and Defense"
-    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
-    publishedDateTime: 2020-10-26T16:25:00Z
-    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
+  - title: "Gong Raises $200 Million to Surface Sales Insights with Artificial Intelligence"
+    excerpt: "Founded by Eilon Reshef and Amit Bendov, Gong is also a cloud-based business and uses AI (artificial intelligence) to transcribe and analyze conversations from web-conferencing platforms, like: In August this year, as we already covered, Gong raised $200 ..."
+    publishedDateTime: 2020-10-27T09:20:00Z
+    webUrl: "https://www.finsmes.com/2020/10/gong-raises-200-million-to-surface-sales-insights-with-artificial-intelligence.html"
     type: article
     provider:
-      name: German Marshall Fund
-      domain: gmfus.org
-    quality: 54
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 67
     images:
-      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
-        width: 1400
-        height: 600
+      - url: "https://www.finsmes.com/wp-content/uploads/2019/12/gong.png"
+        width: 960
+        height: 960
         isCached: true
+  - title: "Artificial intelligence firm Capacity raises $11 million, says revenue tripled this year"
+    excerpt: "Capacity, a University City startup that bills itself as a help desk powered by artificial intelligence, has raised $11 million in venture capital. Capacity didn't identify a lead investor when it announced the Series C funding round Wednesday,"
+    publishedDateTime: 2020-10-28T19:32:00Z
+    webUrl: "https://www.stltoday.com/business/columns/david-nicklaus/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.html"
+    ampWebUrl: "https://www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-raises-11-million-says-revenue-tripled-this-year/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-raises-11-million-says-revenue-tripled-this-year/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 63
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/99/b99e8a5f-2800-5d1c-a427-9029fbb1b1f2/5f99a5370a81d.image.jpg?crop=1265%2C712%2C18%2C188&resize=1024%2C576&order=crop%2Cresize"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Startup Founded By Cognitive Scientist Gary Marcus And Roboticist Rodney Brooks Raises $15 Million To Make Building Smarter Robots Easier"
+    excerpt: "Robust.AI raised $15 million led by Jazz Ventures to build a cognitive engine for robotics. The goal: To allow people to build robots faster, cheaper and with more reliability."
+    publishedDateTime: 2020-10-29T00:23:00Z
+    webUrl: "https://www.forbes.com/sites/amyfeldman/2020/10/28/startup-robustai-founded-by-cognitive-scientist-gary-marcus-and-roboticist-rodney-brooks-raises-15-million-to-make-building-smarter-robots-easier/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934290cb19cefacf98fd1b%2F0x0.jpg%3FcropX1%3D20%26cropX2%3D3264%26cropY1%3D338%26cropY2%3D2162"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "US Based AI Marketing Cloud Startup Pyxis Raises $7 Million in Series A Funding"
+    excerpt: "Pyxis is a unique AI-led marketing cloud start-up headquartered in the US with an office in Bengaluru, India. The start-up has several innovative tools that provide a robust platform for creative automation and actionable marketing research analytics."
+    publishedDateTime: 2020-10-30T06:26:00Z
+    webUrl: "https://www.nyoooz.com/news/bengaluru/1519693/us-based-ai-marketing-cloud-startup-pyxis-raises-7-million-in-series-a-funding/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 50
+    images:
+      - url: "https://www.nyoooz.com/df-images/bengaluru/df-bengaluru-4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fast-growing St. Louis AI software startup Capacity raises $11M in Series C funding"
+    excerpt: "The startup said its new financing came primarily from existing ... Founded in 2017 by Karandish and fellow entrepreneur Chris Sims, Capacity has developed an AI-enabled “help desk” technology that’s designed to capture and collect a company or ..."
+    publishedDateTime: 2020-10-28T13:45:00Z
+    webUrl: "https://www.bizjournals.com/stlouis/news/2020/10/28/fast-growing-st-louis-ai-startup-raises-11m.html"
+    ampWebUrl: "https://www.bizjournals.com/stlouis/news/2020/10/28/fast-growing-st-louis-ai-startup-raises-11m.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/stlouis/news/2020/10/28/fast-growing-st-louis-ai-startup-raises-11m.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
 
 secured: "GDtnPccA+toXoyIAnIWGVbGJIZYeAnSBHuKhB6ihrtG7I/r143fB6tlH8qpm0KYAqID4+GJhJIrG4wb2ox9ycwH3Z6CAt1P33FAofIlw+Rd6fTExBHwoO/8xpKiH6kVfdECzaLllMV830muTMbaxP9vdn/J4PvvvsYq8bWZfp269O7zEFaqobLzrjY89AmX6E0ZyvIbnd98lVEfxu40cEXtYqWWWdxIfm3Vzi67pBncX/5F4muqOVJvJgh/fYoEjEmtm7QykoEj8dAemw7DXKLj3vGwoJpT4/S7N4Pxu0pLxRRkmpf8vqp3RqnYhRFKy8iAMmfMw5FHL8edaR/iMtrQuZFX+0vmiSdVQGDWL0P8=;7zVY1YNhM7N+nnru3qjQrw=="
 ---

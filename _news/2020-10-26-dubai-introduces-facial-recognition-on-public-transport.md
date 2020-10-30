@@ -9,8 +9,8 @@ ampWebUrl: "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-tech
 cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Al-Monitor
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Coming soon: Facial recognition system for Dubai Metro stations"
-    excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday as a new simulation and training facility was launched for the Transport Security Department in the emirate. The Hamdan Smart Station for ..."
-    publishedDateTime: 2020-10-25T17:41:00Z
-    webUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
-    ampWebUrl: "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 74
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20201025/ARTICLE/201029285/AR/0/AR-201029285.jpg&NCS_modified=20201025182405&exif=.jpg"
-        width: 1194
-        height: 776
-        isCached: true
   - title: "Dubai set to introduce facial recognition system on public transport"
     excerpt: "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,"
     publishedDateTime: 2020-10-25T20:26:00Z
@@ -90,22 +74,6 @@ related:
       - url: "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/04/AP20097250765995-scaled.jpg?fit=1200%2C801&ssl=1"
         width: 1200
         height: 801
-        isCached: true
-  - title: "Face Recognition Systems Market"
-    excerpt: "According to Market Growth Insight, the Face Recognition Systems Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX% over the near future. The report delivers thorough analysis of the key drivers, opportunities ..."
-    publishedDateTime: 2020-10-29T11:34:00Z
-    webUrl: "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta29239767_g.jpg"
-        width: 750
-        height: 350
         isCached: true
 
 secured: "32kG47QeofTHPdLwYGlGUqTfFkUmZadjc7pETazb94RW4SnOBflsX14Pvo2aR5/ECzdEFOaM3XLaqPhc14Tv1Xh9vS0Blbmb/v4DSegXKcssNr57OkTz6+Q7xYMyeyN9izklSjmbN4Jp48gYyKECS8+wErg0fE1gHLPkkCQVzOjtlfTMr92pUSCTKSReGDxRgTycOSruDjIKN51g/LjAOpmyAdHhjHXPRE8pIOhIJEo8GxJuv1scgsubcJPypws8wotp7rFKDd+bEsAzvPfwdWtccauyfL8DJn55PAOCzXaZlO+jvdDvq3fO2TK1yGoSj61L35r80FSDk1VVfq1aS4BulyVgiyIK/PGNd5wcPxGC73sLDyqPCKqZvWvdKOfT9EO2BnH408w4PfHN3cruuIoWlxKSvvPURBzOMoVOP6ab6xPLyBil04oC/PqDKR5wPpUQoVLNq0MBx2erbEjJQ31NJzyjPJc+sjG0IfQfnw/1jXhmq7wjvbgCAWfgBKultiy7lcSpjJgS/puOf0eAFQ==;7LeXtFGo9oIZopd7Pe6K3A=="

@@ -39,6 +39,20 @@ related:
         width: 1800
         height: 1199
         isCached: true
+  - title: "The Future of AI, Ethics, and Defense"
+    excerpt: "GMF's Karen Kornbluh moderates a discussion the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation with Ash Carter, Reid Hoffman, and Fei-Fei Li hosted by the Council on Foreign Relations."
+    publishedDateTime: 2020-10-26T16:25:00Z
+    webUrl: "https://www.gmfus.org/commentary/future-ai-ethics-and-defense"
+    type: article
+    provider:
+      name: German Marshall Fund
+      domain: gmfus.org
+    quality: 54
+    images:
+      - url: "https://www.gmfus.org/sites/default/files/styles/hero_header/public/images/shutterstock_651441421.jpg?itok=-C2ZFQcu"
+        width: 1400
+        height: 600
+        isCached: true
   - title: "AI journalism and Professional Code of Ethics"
     excerpt: "I have started talking about Artificial Intelligence journalism, the technologies of the Fourth Industrial Revolution, and why we need code of ethics for AI journalism, and standards of professional conduct and policies to control all of these technologies."
     publishedDateTime: 2020-10-26T16:39:00Z

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Evolutions And Revolutions In 2021"
+    excerpt: "As I watch 2021 approach, I have both trepidation and hope. I have concern over the multitude of ways in which the world will change around me, but I also have hope for the promising opportunities in our future."
+    publishedDateTime: 2020-10-30T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/30/ai-evolutions-and-revolutions-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/30/ai-evolutions-and-revolutions-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/30/ai-evolutions-and-revolutions-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac26e14d92913a5ba9182%2F0x0.jpg"
+        width: 1200
+        height: 696
+        isCached: true
   - title: "Mercedes targets evolution rather than revolution in self-driving car push"
     excerpt: "(Reuters) — As Tesla touts the cutting-edge nature of its new Full Self Driving software, rival Mercedes-Benz says it has developed a similar system but stops short of allowing members of the ..."
     publishedDateTime: 2020-10-28T08:25:00Z
@@ -59,22 +75,15 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Mercedes-Benz throws in the towel for self-driving efforts: ‘We can no longer win’"
-    excerpt: "Mercedes-Benz made headlines when it unveiled the F-015 research vehicle, a stunning, futuristic concept car that could navigate itself without a human driver. The excitement brought by the vehicle was palpable,"
-    publishedDateTime: 2020-10-26T14:14:00Z
-    webUrl: "https://www.teslarati.com/tesla-fsd-beta-mecrcdes-benz-quits-autonomous-driving/"
-    ampWebUrl: "https://www.teslarati.com/tesla-fsd-beta-mecrcdes-benz-quits-autonomous-driving/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-beta-mecrcdes-benz-quits-autonomous-driving/amp/"
+  - title: "Artificial Intelligence Technology Solutions Renews Largest Dealer Agreement"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is pleased to announce that its wholly-owned subsidiary ..."
+    publishedDateTime: 2020-10-29T14:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-renews-largest-dealer-agreement-1029741041"
     type: article
     provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 38
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/10/mercedes-benz-f015-1024x643.jpg"
-        width: 1024
-        height: 643
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
 
 secured: "p1AGqjS0XL3+pbLGxAdwrj/NBGYwM0iW2JUZkx2kJCUmtKW83uQVwYvuNi9RDwkfmaqcy2P6pWE5XUn5prV6knY6HO+uDMIbSCfMx1ELfP3hpi0Exl0WwtvmSMbqXC2mrGmKjq773JnmthXGFCKmj0yqxW9nPKdPlVUkE0zoSYSf37jzBe1QMmvU0L2PYY2UcWb6gtc0po9gzARE0gGpyEKHkn3FV0wIbZ5P3wNEvGGIbf9zH43Te0LztT4ujajL5hpZ9NIdgv+zHSW2FK8lrWOWaYNloNfaZ783GG+uz3nz4stjmo8i55Z7qNRnTGWDjo0eOgVprWFjNJFqVIC78XubLX3acFGlVC9yM85+NLSczGDf8w0cIwq0ZLTFqEmQ9OGrKbxNxBsAORHfD+FyaDB+UKv9c6PEB4Go+WY5S5PMqZckn+zorSDcHRi5ekpvUJW+2z7F+VHjbLrMyP4K8b3ohuP/OLprSib/WHr02nMpO86Lb2BOIeCkCXPUuVBzosKNb49IAy3TrI/ITtbYig==;y3BKlWtuS/0+wqI6TEdYSQ=="
 ---

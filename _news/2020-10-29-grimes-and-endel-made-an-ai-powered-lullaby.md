@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/grimes-endel-ai-powered-lullaby-174840113
 webUrl: "https://www.engadget.com/grimes-endel-ai-powered-lullaby-174840113.html"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,20 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "Grades, And Artificial Intelligence"
-    excerpt: "If you ask about your grade, I’ll gladly tell you that you’re doing well in the course, or that you really need to do better, as the case may be. More specifically than that I will not say. The main reason for this is that if I were a hiring manager at ..."
-    publishedDateTime: 2020-10-29T19:24:00Z
-    webUrl: "https://www.science20.com/fred_phillips/grades_and_artificial_intelligence-251477"
+  - title: "Grimes Contributes “AI Lullaby” to Algorithmic Mood Music Startup"
+    excerpt: "Grimes has partnered with Endel—an algorithm-based mood music startup—for a collaborative new project called “AI Lullaby.” Featuring original music and vocals from Grimes, it’s available ..."
+    publishedDateTime: 2020-10-28T14:18:00Z
+    webUrl: "https://pitchfork.com/news/grimes-contributes-ai-lullaby-to-algorithmic-mood-music-startup/"
+    ampWebUrl: "https://pitchfork.com/news/grimes-contributes-ai-lullaby-to-algorithmic-mood-music-startup/amp/"
+    cdnAmpWebUrl: "https://pitchfork-com.cdn.ampproject.org/c/s/pitchfork.com/news/grimes-contributes-ai-lullaby-to-algorithmic-mood-music-startup/amp/"
     type: article
     provider:
-      name: Science 2.0
-      domain: science20.com
-    quality: 37
+      name: Pitchfork
+      domain: pitchfork.com
+    quality: 57
     images:
-      - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"
-        width: 300
-        height: 261
+      - url: "https://media.pitchfork.com/photos/5f984e5a41f5fbd885689a1a/2:1/w_648/Grimes-Endel.jpg"
+        width: 648
+        height: 324
         isCached: true
+  - title: "Grimes Joins Endel for AI-Powered Lullaby Soundscapes"
+    excerpt: "Artist Grimes has just released news that she has joined with music startup Endel to create an AI-generated lullaby. “AI Lullaby” will take Grimes’ vocals and incorporate them with an algorithm for a real-time soothing soundscape."
+    publishedDateTime: 2020-10-30T10:00:00Z
+    webUrl: "https://hypebeast.com/2020/10/grimes-endel-ai-powered-lullaby-info"
+    ampWebUrl: "https://hypebeast.com/2020/10/grimes-endel-ai-powered-lullaby-info?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/10/grimes-endel-ai-powered-lullaby-info?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 37
 
 secured: "NbvWDARk4QjFRw1m81IRqjOrAdvDbBO3qmqPCKq8przS5y/B28Myuu4eypadKNvDX4DFzvlbQQbXBR/lAyPiOpUwyU3PEUDMqJ+vdKNuyhVESF4BF3nPP06PYy8yxdIO7g/CH+inGv3emZZ4UR2h5mNYbghYYvsVYolcslKb3duJX+7Lj44iOzQpuZgjbQbQSms7xd9z5TjktGOCZrUE9mGWIfgdlhCW5sgn5Fj6dHW50wsywyGQYvYPmLfNs0IXnUtjXTut1NF6brjeH+g9xuwz3yPRrA0gxf4v3dWq4WhWTNRoFAxLv2fecSH+EZNOThbOhVXaG+kC7O8cIVRds988UoiPKarf3Czy/GM87tQ=;6XDOxfvSNd+LvO4XzqH5Yg=="
 ---

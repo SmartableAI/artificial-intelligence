@@ -207,6 +207,15 @@ related:
         width: 1280
         height: 1280
         isCached: true
+  - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
+    excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete ..."
+    publishedDateTime: 2020-10-30T10:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
   - title: "Microsoft’s new Lobe app lets anyone train AI models"
     excerpt: "Lobe that lets Windows and Mac users create customized artificial intelligence models without writing any code. Th"
     publishedDateTime: 2020-10-26T21:24:00Z
