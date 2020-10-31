@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/robot-boats-from-mit
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robot-boats-from-mit-can-now-carry-passengers/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "MIT researchers create a self-driving 'Roboat' that can carry two passengers"
-    excerpt: "The boat, aptly named \"Roboat II\" (taking the name of its predecessor, the original Roboat), is the product of five years of experimentation over at MIT's Computer Science and Artificial Intelligence ... or even act as self-driving water taxis that ..."
-    publishedDateTime: 2020-10-26T17:39:00Z
-    webUrl: "https://www.techspot.com/news/87292-mit-researchers-create-self-driving-roboat-can-carry.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87292-mit-researchers-create-self-driving-roboat-can-carry.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87292-mit-researchers-create-self-driving-roboat-can-carry.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 71
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-26-image-11.jpg"
-        width: 1680
-        height: 996
-        isCached: true
 
 secured: "eeHWupJTWAdHluqB59S5ybOkHVMbvbT/6/WXjdP3g3MwRAtp720KImWHHFgg3gInuujVLzjCt/fHW1M4bxW6FThAMvQm+5eWtNd9z/g1z/REdkw6EgbrbrgZckkBxwzZUrs2SlA9FdR4MUcTdxWGy/04zabI13bEWLWYZaqi5DLiYuX9fCvXo1iuH2ZVSIN1Mo1O6YEccKe7r3MQO8rpNHzIVejCzI7szEs6034zag3n8LJanTSVgm7x0vLXQfjFuMoKu7QtLshVwVZ3MxbiAWw3wY6zo4TYnMUqTUMcdRWM1VgoUvE+67ibt0H3OcJiMmMnsPhZ3M/XSD+RKuzbkrP60HX8oBojICu++XjmyuyNk0gM2nYRyHkeJhvgJjGi++r5NArEqbIz75414ZzOR1c5fobGKRe7h7lUA5IFJkuEm8/HyS3RaYS+rUYh9V+mWntQqDgbG577j8LeXZqg4j0uuSjQBdms3hTgGMzUyEuWx1wXavA6z8WHj8Ffz1ytZUcLT58RNIhtmaiGyKKesw==;nkbeOJiNAwfUGXpLVaIVXA=="
 ---

@@ -61,17 +61,19 @@ related:
         isCached: true
   - title: "Machine learning helps hunt for COVID-19 therapies"
     excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
-    publishedDateTime: 2020-10-28T15:38:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/msu-mlh102820.php"
+    publishedDateTime: 2020-10-28T12:22:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/57-machinelearn.jpg"
+        width: 952
+        height: 1231
         isCached: true
 
 secured: "HFawqXiG+nbl8OWmJfZzW9D2iAgkorUR3Dw7TfRls9mpzT/IAhgVNwYkdIcWM0tpK05DFNDEFiQnYHSpUmIuo+kAPjfNtQzCP/bH1JNttptlz5Q2zR6F6+HKQI72PUy/XApT854dAT1ah+q+5BNiTF6xW5C5/TNI/qTewZ894mh+Cse4zvGK5WCih8dEU6A8BdjIm8zKGr8Ln/91Hg5VPGfRvcdgT9I5aLItHBxp5d7a8M0HBxlFgMrV0RkG8KFA+weBUVXhb4S6xQcec587vW9vqhIcrLfcal9B6lsQ0ocBwOgRWUwP8iLb440QhHQDACHbGGMTPrTfvm8se+EGUgyvdyOM/Ir9td7JYnS0EmM=;tdJ2JUpuwAp3QMpsMKKt3A=="

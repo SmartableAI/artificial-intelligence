@@ -149,20 +149,6 @@ related:
         width: 619
         height: 618
         isCached: true
-  - title: "Privacy concerns greet adoption of facial recognition system by India’s secondary education board"
-    excerpt: "India’s Central Board of Secondary Education (CBSE) is introducing a facial recognition system that will henceforth allow tenth and twelfth grade students to easily download academic material, but"
-    publishedDateTime: 2020-10-26T18:29:00Z
-    webUrl: "https://www.biometricupdate.com/202010/privacy-concerns-greet-adoption-of-facial-recognition-system-by-indias-secondary-education-board"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
 
 secured: "jElJpZq6c9rR/UOzltYfEl/13/ho/epK1GmBSYEZJcUnaVtDMg3NVPvp9k/n6L2u9FhiDoVgwpNrX2mW2aZRwlemkMTjMa3VJMlF1PmMbiupNKE8/uHaktkhNaT84vi8JIKlJv+xjCPOyj6eiTWVzr1R4xmt3vHoeTxQlfxBkWvalsU6dMI/5voESc0HDbcYe22TsYZoyboMoK+Fr2ARCUoRC7KyblyZkFqjuERw9vVbMTTWS0kzyzm0kxmQduKXCNc4XpPNzG0rdaKK+s1HlLjx4IRBYLvPiclksri9G3RodmGk42CCOm3lptPwGGQV29hJZHPZOyvb+aa7veQCDU7g0NDT7NczavMfoLOKSBw=;hidJz9PeteSrMCIVcmdmKg=="
 ---

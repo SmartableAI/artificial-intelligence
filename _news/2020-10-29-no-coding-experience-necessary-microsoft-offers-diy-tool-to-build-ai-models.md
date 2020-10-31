@@ -44,22 +44,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Microsoft releases preview of Lobe training app for machine-learning"
-    excerpt: "A public preview of Microsoft's Lobe app is available for Windows and Mac users, and enables them to traing and store machine-learning models locally on their machines."
-    publishedDateTime: 2020-10-26T18:56:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 106
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/10/26/12706ff8-b427-454d-a2aa-9db241810bd5/lobemachinelearningtraining.jpg"
-        width: 1196
-        height: 919
-        isCached: true
   - title: "Microsoft unveils free app to create AI models without writing any code"
     excerpt: "Credit: Mike Matas, Microsoft Microsoft acquired Lobe in 2018 to make AI development more accessible. After training, the models can be exported to a variety of industry-standard formats and ..."
     publishedDateTime: 2020-10-27T13:16:00Z
@@ -76,17 +60,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "C3.ai teams with Microsoft, Adobe on joint enterprise CRM platform"
-    excerpt: "The joint offering is a combination of the Adobe Experience Cloud, the C3 AI Suite and Microsoft Dynamics 365."
-    publishedDateTime: 2020-10-26T17:40:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
   - title: "Microsoft Lobe to train AI, machine learning models without writing code"
     excerpt: "Microsoft has announced the availability of Lobe, a desktop app to train artificial intelligence (AI) and machine learning (ML) models."
     publishedDateTime: 2020-10-31T05:50:00Z
@@ -159,20 +132,6 @@ related:
       - url: "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-10/pic1548.jpg?itok=0guVq1tZ"
         width: 320
         height: 213
-        isCached: true
-  - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
-    excerpt: "C3.ai, Microsoft Corp. (NASDAQ:MSFT), and Adobe Inc. (NASDAQ:ADBE) today announced the launch of C3 AI® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"
-    publishedDateTime: 2020-10-26T17:18:00Z
-    webUrl: "https://customerthink.com/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 71
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
-        width: 1280
-        height: 1280
         isCached: true
   - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
     excerpt: "C3.ai, Microsoft Corp., and Adobe Inc. today announced the launch of C3 AI® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"

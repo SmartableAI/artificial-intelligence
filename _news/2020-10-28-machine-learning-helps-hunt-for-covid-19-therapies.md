@@ -2,26 +2,28 @@
 category: news
 title: "Machine learning helps hunt for COVID-19 therapies"
 excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
-publishedDateTime: 2020-10-28T15:38:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/msu-mlh102820.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/msu-mlh102820.php"
+publishedDateTime: 2020-10-28T12:22:00Z
+originalUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.html"
+webUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/2020/57-machinelearn.jpg"
+    width: 952
+    height: 1231
     isCached: true
 
 related:
@@ -74,6 +76,6 @@ related:
         height: 480
         isCached: true
 
-secured: "faIJUd964aDRadKzKuvI87dgW7jF6AuvL07ukE4WpiylSmZa5YBkl883r7m3FtkZGDKGlN88RCjQNxugZEOUXHUJv1GNdnzEgu56n310/eIa7zM9bMvXLOg1jvUkQnKKJOgDVKdDiWahoIJBCmQGq7x7Iuh47p3wN1GFpu6bs7hZJ3fjFZQeF/DCOvN2MRSbG3p24FQyIWlQNnCTCEOjUxeExX+cqrxjQqit9osoEJ12W7ovs1CYvN4SML476UEbvTS1k69FzOB/b0jXa5SKP8TzutnZoxD02WeiY7coKiX0xB2p1lRj2oiXqexRfNYUf3gomW0tKJNcV4Fr5yssmYW7qGze+UYmGTznxK9vk00=;hmjEg+1Y1TWdM99JX8UEuQ=="
+secured: "oOZaYyuZ3AwlmjyMeECy1dsJ9q9mViJ7MWCCgojEAQ80Z4E8wOewmOaLsjp1ihVR5Qkfqam5KOKgErhS9E7X6eNXg23Y6y6QLfAUAi8BQxDO3wVlOlhH8IOb4zMBTkAqoZQeMmFwI/5DAna+AvU/w6TQ+ZZySTi+j9VevbgZdtqc+OJLZ7vtPeaaflwLwvGzXNEAsyzXg7J1uWdYET4UyeU9vecIfi0QpoyjfMjR7C1FlzAe/F0YK2ajFpVlDVxIMThqLCBbg1hsUUmNxoXbIwsS48nrpClLpXpXvwSYh9dPrOL19aa79hIb0JGdmQfTMmkboPjzM+9JsBib6JUK0ODAkr6q5hR2vCDgM1yBvnk=;jVFid7ZZDy6B9N8QVIdlww=="
 ---
 

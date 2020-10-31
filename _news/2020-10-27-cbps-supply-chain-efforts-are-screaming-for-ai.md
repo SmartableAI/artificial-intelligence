@@ -7,7 +7,7 @@ originalUrl: "https://www.fedscoop.com/cbp-supply-chain-ai/"
 webUrl: "https://www.fedscoop.com/cbp-supply-chain-ai/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,33 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI's Potential to Manage the Supply Chain"
+    excerpt: "Perhaps AI's most notable potential, however, is its role in the supply chain industry. AI has changed the supply chain process from reactive to proactive, which creates a larger change in how data-driven processes will operate in the future."
+    publishedDateTime: 2020-10-30T11:00:00Z
+    webUrl: "https://www.technewsworld.com/story/AIs-Potential-to-Manage-the-Supply-Chain-86903.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 37
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2020-robot-on-keyboard.jpg"
+        width: 620
+        height: 370
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) In Supply Chain Market Size 2020 Top Manufacturers, Share, Opportunities and Forecast to 2026"
+    excerpt: "The Zion Market Research added a new report “Artificial Intelligence (AI) In Supply Chain Market: By Technology (Machine Learning, Computer Vision, Natural Language Processing, and Others), By Application (Supply Chain Planning, Warehouse Management ..."
+    publishedDateTime: 2020-10-30T10:18:00Z
+    webUrl: "https://www.openpr.com/news/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
 
 secured: "35Ias6KsVGgYJLzGkZhwoXkD1HC6XPCWZMM1vGDz+3WS8uAQmZ+NKcleJSDR35L9I8qZ/VTrILAfY8X6EbV7PmTsCvSg+MZbj9BnQSEE9f/LC4XA9zlrdd1TWR4GH/T3L+kEysJ/uDo2aZsvqiIshsB8qgwkHYFTSefwBfuJcjpB9URZddJuFSWZTYjZUgBZ0v3sG9Dr2En7X0qo6CcrD2ZRmWQwIuxy/AXShNQJNe6dcaSCIsYlmimvHFJUe68wz1pBP7+CXcjq5jW/ndG1kSlhdADrNQgcre4AdxtAeOyHlQjBm6MsQf3qWHn87N2OKmaINKc8d52NV0Qq9lKCa1cmIfOY2RLcE77wdlVhG5A=;kFkcr/bqyjW8bMbXt7SMWg=="
 ---

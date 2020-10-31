@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial Intelligence Is Used To Understand The Geospatial World To Improve Business And Governmental Performance"
-    excerpt: "Geospatial image capture started off small, but has now grown to a massive scale. The addition of AI both improves computer vision and downstream analysis. This is another are where the world around us is being enhanced by artificial intelligence."
-    publishedDateTime: 2020-10-26T17:35:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2020/10/26/artificial-intelligence-is-used-to-understand-the-geospatial-world-to-improve-business-and-governmental-performance/"
-    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/10/26/artificial-intelligence-is-used-to-understand-the-geospatial-world-to-improve-business-and-governmental-performance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/26/artificial-intelligence-is-used-to-understand-the-geospatial-world-to-improve-business-and-governmental-performance/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
-        width: 876
-        height: 548
-        isCached: true
 
 secured: "qh6k+Uh2gp5NvPJ8tu/XdobJUCdwjE6W3NyKFbijX64t0GxqGO2ZTHtATAtcGUDEKjeU1JSXFjAnPHksdzIJcaGjGx9uyvHb2QraTYAdBz+5we5RN7L0cMpEA+a4EUUTjArYR11yDS1aRpz/VjtVs/OfoslUV4S/WWgxOU6P7Y6lxkRtelYcSZxVZu1qQJmAcQixForjGKZJ/czxB6MYUdi9APQvd35CZyOB4fpM/Hdd2agxvDVSm4X+FnBxPQI2e7CSMpkATaJCcqxtrpphWaNwYo1IlTHcQtQNW2/x+hpEkzhlHhQznqawhjw6j35gERdfL/zpgziayOYHaiI6y9AltJovT7A2gPR7bPuX5nY=;Zda01b8bQkCnEzgiGXaAyw=="
 ---
