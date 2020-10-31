@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SukiHQ"
   url: "https://www.twitter.com/SukiHQ"
-  followers: 1553
+  followers: 1552
 
 size: 11-50 employees
 yearFounded: 2017
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "/XJJqUcw6rTJAof2qvUzQKAVJHRuNcxv0WO9Uu5DrOTZ2k+U2A1IwGNNHXdiisGH7WhjZDejELsec2grwhtnqLyrMLLjfi5KbHA93LA67UXysnlDcGmeDejWefpoDHAUcdfxDS1UqWyAfje2RiysSzrbLJPuER8B/HEsh7LZxN9xNTyMYLbg3mF/OaDEB7DhQrd+RL//uF1sMteP0UmoUeBwFc6y1GGiY6QYtZ1R5SjcSw2LGSVUCCoLaLaWYi1F11+ovqxHTWK3iOkGBt3puYp5yW4pTdgXDULTWycVeQeWQEUl98BDV6Lqhs7ZTIvyHhACwHaxsfSPXKDhdLtxwvGOg0xRcP0XCC0eQ0aO5/66ilClrCZBUZGFmLkreoj7lJ5LOPgo4vNOn+Xf0wgWkGw5cEKVWRWViUGJUnniVNs=;P6oFpwVmEXdNLfKgxbRT2g=="
+secured: "9JXG+gV7Od9fR4FKfdTIvyofsV4T99rLAv9rTFPPsYmWWBxp3dFQqm00sD00BHMegtlPEZFa7wgRiHvWK0RW7PNvphnWhlUQNM8w8QMbzsDhbpGNuQbDkDFijmIt7gYR7Ud7RciijDkj6ZfYsYhAiEtMoKoZJKHfUZbKMq88sJKzSqQnxiBg/iUu4/ahQcRImUgpzt78ObcH+CQbCmo4WKHlnEChOMlbSyGpgj1tGDImhouLZ7fK3qoi2wVDjkUnb5iMirrcSUBvqt2/O8P6Qi19fOUWyvmZERAptaiGt/o7HEhlDhzhCmUBuvuag24sIHZCTSI8Bx5Fopru+PPVhuoG/DM57LG8hkWRKcsHK30KfSCCjb/FEb2hkssMAGbfi4NTpIkOMnDvzIUespriljmH4ia+JtNP8Z2GLXQ5R9A=;JfKSIWN/NwlwU+CV3I8vBQ=="
 ---
 

@@ -21,7 +21,7 @@ crunchbase:
 twitter:
   username: "getnarrative"
   url: "https://twitter.com/getnarrative"
-  followers: 24388
+  followers: 24389
 
 size: 11-50 employees
 yearFounded: 2012
@@ -46,6 +46,6 @@ images:
     isCached: true
     title: "Narrative"
 
-secured: "cixYBJXL9gwidZdk3hy4hEpbYKl+nF356bivHxWQVLZMFbO2Rxx+sG7bXZMfwyY54+ddsF/Df3x1GEd4VMmfgMWakgQmGycxVu90VRy8SMAUG+V+5jbArPP043U2h/DMO01VuzPk0TOqQga4fRw/eQkTb2bPrJhClxuSGyWSbRQIv+KFrRXMVl70ikKFcSIpe/JqGPVp75OJSN8CLari9jMHKkz1N+PlV9Pb5y30A3FJKRay6j1Nok8P9Pldrz071EHorSXYz8VluclsFwCqrrR59AIgTcvComrrClUB2rfeIDhgqiLl+o2fwGhjQxaR9xHHmtYgsSBJouqCG2BxmxrqTM//NzAUwKLi7f7oVPPNho1oamdwf6uWpwvLtJ8/DKwWvyWIc/uZnyQjV67UWE/GU4eD+1LPgQ5G/Z5bjWU=;SmHkZFevrxBptruRjqXv3w=="
+secured: "RxWH1gKuZNeoIcLBdvw25cYr0kvoxCiCmOvwtj09dHGcfU41WMCy8z1Pt9QARTqbdEquCjWF1IwTSPQd8SGuRK08U6uGn1IV9tZJKoO4ZR2rOSQLtvfylgis05s11/UL/F6bqzusWhF6Aeo2qFhZLTfOBxxQ2y10X6oGPqeQUUMjxTDGH47qo7rZnu2ztEzBMigWBod8t0B4may7RMKjUmCKGgQYjX2L6Zn5EUbVlHeNbz9QrfvobR0KJ5gFh+0T9bdn25xOuVvNQKVJxqOe/ei3FF/M0VrwQkXm+6nRP5nDDuzbJyw+LE/8xO8sp1517zyzxF5St7PyLBODcmy+zZ7Wx/3AYSsAP0EfgmHUhbweYLcDEgeIM2xadylg8gP9vFk1WVNXeqoI/63pMkFtXjy81EVGy15EiyG7ZxhHPwA=;8W7tqCePPaceeGu2P5gsVg=="
 ---
 
