@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Mediktor"
   url: "https://twitter.com/Mediktor"
-  followers: 2567
+  followers: 2568
 
 size: 11-50 employees
 yearFounded: 2011
