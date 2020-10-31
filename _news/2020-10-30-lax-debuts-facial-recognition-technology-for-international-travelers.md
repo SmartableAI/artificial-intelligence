@@ -105,22 +105,6 @@ related:
         width: 1024
         height: 675
         isCached: true
-  - title: "Men at Facial Recognition Startup Used Its Own Tech to Sexually Harass Coworkers"
-    excerpt: "Employees at the Silicon Valley security startup Verkada were reportedly using the company’s own facial recognition-equipped security cameras to take pictures of women who worked at the company ..."
-    publishedDateTime: 2020-10-26T19:23:00Z
-    webUrl: "https://futurism.com/the-byte/facial-recognition-sexually-harass"
-    ampWebUrl: "https://futurism.com/facial-recognition-sexually-harass/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facial-recognition-sexually-harass/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 54
-    images:
-      - url: "https://wp-assets.futurism.com/2020/10/security-company-used-own-facial-recognition-harass-employees-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Data Diversity Challenges Impact Facial Recognition AI Algorithm Biases"
     excerpt: "While facial recognition technologies offer huge opportunities to Federal agencies, overcoming algorithmic biases with the help of diverse data sets is essential for full deployment, industry experts said Oct."
     publishedDateTime: 2020-10-30T19:31:00Z
@@ -150,6 +134,6 @@ related:
         height: 300
         isCached: true
 
-secured: "xOuC/FmlFRMeb+UbX+i1PRnPYUzXS3lukUz+Kj/c2PhYm7/hlQ30DcVR9lwmCspWBdutfapjjiEfMUaqTJPSxSKfg8LoMcVauFpVGFKlC3LFZbWm1zi3sRBYq2lHjbTFe8CHP2hGaA5X1sRVVMq82vZLR2l1ZNAZFrZAtBQ6ZjkJfsqTS9lNhZ8lqtD2jjIfm+uzUWTstPgWgkeLfLoMjDAyDdEVEAU2W+wKhd0EXoRJrWu1tgCLdIL/IinxbhsbPcjwoy2QnYKwPkku9n/EdpNcwRzkXVw0noSwnOaBdlwIgvo+7w+5lKcIJ+sFLWTJjOJIG4SmHkCAQaT1y+3k8cVzZaEbE6mUfT7eTUhi/tA=;K2zrOZgO+DUOdbFZhJHfvw=="
+secured: "REMJLrUJs5Co7bFL1UxfuNF6XUOtBJCxyXNTuts9QMqiAIv+hWUOmNFYkvvf4gcRTSIbVSKnUSjYVu/WpOIKYQDOwtzPNELywlY8BgWi+VSQuHnwveyOMDkdOLJGvQ+wChE+5lKaWOAFNME/Aq7A8WzaGMDR/bZYx/ri/fWovSRwSBu+GzorsZ8AtATVdgcrlxf0WLkFHyQVNsQvt5eQsrfuN8JdTU8rRxhWf/HdkS6J2+KUAfjhefIKh6xE22oURLY8P6ejhvxDbHxq0KSwILcvMwAZFCjFBj0QZPQWVAqBZdyQaSmGDpulaDHLEP50Qzui4eJSg6KB/NdykY/jwJsTuRevi7kbeyItmsiyUV6c3+5mzcP3/uSEZWtPqkAMENqo5n9F3N0U+3mz4XiGed4+0wmPfMHNnh7pYlI/bXl+Jnxgx735bzF13P/yEfLFc+HVv+bSNq0YptAlKCsnTWyLgtvPmRshBEOBiMxBCo39mT2DdmNF3OQoZ+1qihxqCW2u2dUrh/KUwOgZKCiLvQ==;UTN7HmCabuptLujvFXmADQ=="
 ---
 

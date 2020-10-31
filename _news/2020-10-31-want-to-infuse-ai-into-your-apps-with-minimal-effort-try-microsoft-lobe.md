@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
 type: article
 quality: 109
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/10/Microsoft-Lobe.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "C3.ai's Tom Siebel on the Microsoft and Adobe partner to take on Salesforce"
-    excerpt: "Tom Siebel, C3.ai CEO, joins \"Squawk Alley\" to discuss the company's partnership with Microsoft and Adobe to take on Salesforce."
-    publishedDateTime: 2020-10-26T19:34:00Z
-    webUrl: "https://www.cnbc.com/video/2020/10/26/c3ais-tom-siebel-on-the-microsoft-and-adobe-partner-to-take-on-salesforce.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106761845-16037308782ED4-REQ-102620-SIEBEL.jpg?v=1603730877"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft, Adobe, C3.ai Launch Tool To Help Predict Revenue, Product Demand"
     excerpt: "(RTTNews) - Microsoft Corp. has joined with Adobe Inc. and enterprise AI software provider C3.ai to launch a new tool that would help customers to accurately forecast revenue and product demand, among other things. The C3 AI CRM powered by Microsoft ..."

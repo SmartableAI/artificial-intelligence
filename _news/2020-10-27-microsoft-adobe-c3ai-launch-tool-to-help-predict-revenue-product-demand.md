@@ -69,20 +69,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "C3.ai's Tom Siebel on the Microsoft and Adobe partner to take on Salesforce"
-    excerpt: "Tom Siebel, C3.ai CEO, joins \"Squawk Alley\" to discuss the company's partnership with Microsoft and Adobe to take on Salesforce."
-    publishedDateTime: 2020-10-26T19:34:00Z
-    webUrl: "https://www.cnbc.com/video/2020/10/26/c3ais-tom-siebel-on-the-microsoft-and-adobe-partner-to-take-on-salesforce.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106761845-16037308782ED4-REQ-102620-SIEBEL.jpg?v=1603730877"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Inspired by Netflix original movie, Microsoft wants to teach you AI and Machine Learning"
     excerpt: "Microsoft has come to terms with Netflix to teach learners concepts in data science, machine learning, and artificial intelligence (AI)."
     publishedDateTime: 2020-10-29T01:09:00Z

@@ -119,22 +119,6 @@ related:
         width: 1024
         height: 675
         isCached: true
-  - title: "Men at Facial Recognition Startup Used Its Own Tech to Sexually Harass Coworkers"
-    excerpt: "Employees at the Silicon Valley security startup Verkada were reportedly using the company’s own facial recognition-equipped security cameras to take pictures of women who worked at the company ..."
-    publishedDateTime: 2020-10-26T19:23:00Z
-    webUrl: "https://futurism.com/the-byte/facial-recognition-sexually-harass"
-    ampWebUrl: "https://futurism.com/facial-recognition-sexually-harass/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facial-recognition-sexually-harass/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 54
-    images:
-      - url: "https://wp-assets.futurism.com/2020/10/security-company-used-own-facial-recognition-harass-employees-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Data Diversity Challenges Impact Facial Recognition AI Algorithm Biases"
     excerpt: "While facial recognition technologies offer huge opportunities to Federal agencies, overcoming algorithmic biases with the help of diverse data sets is essential for full deployment, industry experts said Oct."
     publishedDateTime: 2020-10-30T19:31:00Z

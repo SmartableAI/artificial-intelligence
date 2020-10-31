@@ -191,22 +191,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla beta testing \"full self-driving\" system worries drivers, pedestrians — and even owners"
-    excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own, it turns out ..."
-    publishedDateTime: 2020-10-26T19:50:00Z
-    webUrl: "https://www.nbcnews.com/business/autos/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-n1244787"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244787"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244787"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 78
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3422644/201023-tesla-car-charge-ew-538p_f824f07adced2e84056d1439b9cad104.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Tesla is now beta-testing self-driving software on public roads"
     excerpt: "Tesla considers it to be beta software and says it's not intended for fully autonomous operation. Drivers are expected to keep their eyes on the road and hands on the wheel at all times. To understand the new software,"
     publishedDateTime: 2020-10-30T11:45:00Z
@@ -405,22 +389,6 @@ related:
       - url: "https://cdn1.thecomeback.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-29-at-11.58.31-PM-1024x567.png"
         width: 1024
         height: 567
-        isCached: true
-  - title: "Tesla beta testing “full self-driving” system worries drivers, pedestrians — and even owners – Jaweb"
-    excerpt: "Tesla appeared to live up to the long-standing promise of CEO Elon Musk when it released a “Full Self-Driving” version of its Autopilot system last week — except the software upgrade isn’t capable of fully driving on its own,"
-    publishedDateTime: 2020-10-26T19:53:00Z
-    webUrl: "https://elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-and-even-owners-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 44
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/10/Tesla-beta-testing-full-self-driving-system-worries-drivers-pedestrians-—.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Telsa Releases Full Self-Driving Mode Beta Update"
     excerpt: "Tesla has enabled new full-self driving features for certain customers. The new features include the ability to automatically steer the vehicle while on city streets, and Tesla plans to increase the price of the package by $2,000 in the near future."
