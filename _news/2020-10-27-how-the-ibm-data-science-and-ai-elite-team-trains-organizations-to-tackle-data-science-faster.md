@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-
 webUrl: "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster/"
 type: article
 quality: 108
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Organizations need to understand risks and ethics related to AI"
-    excerpt: "Despite highly publicized risks of data-sharing and AI, leadership at many orgs are underestimating the ethics of the technologies they use."
-    publishedDateTime: 2020-10-26T05:04:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/26/ai-ethics-risks/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 54
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/07/09093904/ai2.jpg"
-        width: 1280
-        height: 891
-        isCached: true
   - title: "How the Army plans to revolutionize tanks with artificial intelligence"
     excerpt: "With the Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
     publishedDateTime: 2020-10-30T17:42:00Z

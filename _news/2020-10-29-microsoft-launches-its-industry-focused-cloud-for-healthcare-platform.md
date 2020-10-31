@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Want To Infuse AI Into Your Apps With Minimal Effort? Try Microsoft Lobe"
+    excerpt: "But AutoML is an extension of the cloud-based ML PaaS offerings demanding the skills of using tools such as Amazon SageMaker, Azure ML, Google AI Platform, and IBM Watson Studio. The AutoML tools expect developers to be familiar with the ML PaaS."
+    publishedDateTime: 2020-10-30T17:53:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/?sh=3f285d437a72"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf8a2dbc46c0b82a29403%2F0x0.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Microsoft releases preview of Lobe training app for machine-learning"
     excerpt: "A public preview of Microsoft's Lobe app is available for Windows and Mac users, and enables them to traing and store machine-learning models locally on their machines."
     publishedDateTime: 2020-10-26T18:56:00Z
@@ -58,37 +74,46 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Want To Infuse AI Into Your Apps With Minimal Effort? Try Microsoft Lobe"
-    excerpt: "But AutoML is an extension of the cloud-based ML PaaS offerings demanding the skills of using tools such as Amazon SageMaker, Azure ML, Google AI Platform, and IBM Watson Studio. The AutoML tools expect developers to be familiar with the ML PaaS."
-    publishedDateTime: 2020-10-30T17:53:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/?sh=3f285d437a72"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
+  - title: "Microsoft Teams With Adobe and C3.ai to Take on Salesforce on Its Home Turf"
+    excerpt: "Microsoft Corp. is teaming with Adobe Inc. and C3.ai, the company of customer-software pioneer Tom Siebel, in another bid to better compete with Salesforce.com Inc., the market leader for such programs."
+    publishedDateTime: 2020-10-26T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf8a2dbc46c0b82a29403%2F0x0.jpg"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "Microsoft develops new machine learning model to detect password spray attacks"
-    excerpt: "Microsoft has developed a new machine learning model in order to autonomously detect password spray attacks. The model has vastly improved performance compared to its previous heuristic mechanism."
-    publishedDateTime: 2020-10-27T04:56:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 102
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2015/04/shutterstock_222320305a_story.jpg"
-        width: 760
-        height: 506
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCRYcRiao68M/v0/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "C3.ai teams with Microsoft, Adobe on joint enterprise CRM platform"
+    excerpt: "The joint offering is a combination of the Adobe Experience Cloud, the C3 AI Suite and Microsoft Dynamics 365."
+    publishedDateTime: 2020-10-26T17:40:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-teams-with-microsoft-adobe-on-joint-enterprise-crm-platform/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+  - title: "C3.ai's Tom Siebel on the Microsoft and Adobe partner to take on Salesforce"
+    excerpt: "Tom Siebel, C3.ai CEO, joins \"Squawk Alley\" to discuss the company's partnership with Microsoft and Adobe to take on Salesforce."
+    publishedDateTime: 2020-10-26T19:34:00Z
+    webUrl: "https://www.cnbc.com/video/2020/10/26/c3ais-tom-siebel-on-the-microsoft-and-adobe-partner-to-take-on-salesforce.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 82
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106761845-16037308782ED4-REQ-102620-SIEBEL.jpg?v=1603730877"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft, Adobe, C3.ai Launch Tool To Help Predict Revenue, Product Demand"
     excerpt: "(RTTNews) - Microsoft Corp. has joined with Adobe Inc. and enterprise AI software provider C3.ai to launch a new tool that would help customers to accurately forecast revenue and product demand, among other things. The C3 AI CRM powered by Microsoft ..."
@@ -117,6 +142,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "SAP’s AI Chief Leads Effort to Infuse Artificial Intelligence Across Products"
+    excerpt: "Feiyu Xu, a former Lenovo executive, became SAP’s first global head of AI in May and plans to lead a ‘holistic AI strategy.’"
+    publishedDateTime: 2020-10-26T10:32:00Z
+    webUrl: "https://www.wsj.com/articles/saps-ai-chief-leads-effort-to-infuse-artificial-intelligence-across-products-11603704600"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 79
+    images:
+      - url: "https://images.wsj.net/im-249072/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft Unveils Lobe; Will this Make AI Mainstream?"
     excerpt: "Recent trends such as decentralized cloud computing, adaptation of GPU for general computing, increasing availability of big data sets, and advances in deep learning, a subset of AI machine learning, has spurred a modern-day AI gold rush. Global investment ..."
     publishedDateTime: 2020-10-26T21:50:00Z
@@ -132,22 +171,6 @@ related:
       - url: "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-10/pic1548.jpg?itok=0guVq1tZ"
         width: 320
         height: 213
-        isCached: true
-  - title: "Microsoft Improves Password Spray Attack Detection Using Machine Learning"
-    excerpt: "Microsoft on Monday announced that it has developed a new algorithm based on machine learning that improves password spray detection in Azure Active Directory (Azure AD)."
-    publishedDateTime: 2020-10-28T19:17:00Z
-    webUrl: "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html"
-    ampWebUrl: "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 75
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2020/10/passwords.jpeg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "No Coding Experience Necessary: Microsoft Offers DIY Tool To Build AI Models"
     excerpt: "Microsoft wants to make it easier for anyone to build machine learning systems through the release of a newly revamped app that caters to people with little or no coding experience. Microsoft Lobe, which is available in public preview this week, allows ..."
@@ -221,15 +244,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-    excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete ..."
-    publishedDateTime: 2020-10-30T10:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
   - title: "Microsoft beats out Amazon, Google for strongest healthcare AI offering, KLAS says"
     excerpt: "Healthcare providers and insurers consider Microsoft to have the strongest healthcare artificial intelligence offering among the big tech giants, according to a report from healthcare data and IT insights company KLAS. For its \"Healthcare AI 2020\" report ..."
     publishedDateTime: 2020-10-27T14:39:00Z
@@ -258,6 +272,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Microsoft partners with Adobe and c3.ai to launch Salesforce rival"
+    excerpt: "powered by Azure. Microsoft hopes that when combined with Adobe’s speciality in the digital customer experience, and the AI capabilities of c3.ai, the combined system will offer customers a powerful alternative to the biggest players."
+    publishedDateTime: 2020-10-27T11:21:00Z
+    webUrl: "https://www.channelpro.co.uk/news/11941/microsoft-partners-with-adobe-and-c3ai-to-launch-salesforce-rival"
+    type: article
+    provider:
+      name: Channel Pro
+      domain: channelpro.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2020/10/crm_shutterstock.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft’s Intriguing Partnership With Tom Siebel’s C3 AI"
     excerpt: "I’m publishing this series to discuss a topic that I follow closely - cloud stocks, trends, strategy, acquisitions, and more. Please subscribe to my Cloud Stock Analysis series and never miss an article."
     publishedDateTime: 2020-10-29T15:27:00Z
@@ -271,20 +299,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEk3c2TKNcTpA/article-cover_image-shrink_600_2000/0?e=1609372800&v=beta&t=7VyRNuBZBXsYjrH0kpMP0xfLa6Uy3l71gBnfVVW_xiA"
         width: 640
         height: 480
-        isCached: true
-  - title: "Microsoft’s Turing Language Model Can Now Interpret 94 Languages"
-    excerpt: "Microsoft detailed the Turing multilingual language model (T-ULRv2) and announced that the AI model has achieved the top rank at the Google XTREME public leaderboard."
-    publishedDateTime: 2020-10-26T08:34:00Z
-    webUrl: "https://analyticsindiamag.com/microsofts-turing-language-model-can-now-interpret-94-languages/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_microsoft.png"
-        width: 1280
-        height: 719
         isCached: true
 
 secured: "DAQPaKcg0NqroCja4d0ljPKoUA7Lyr5ILug3NnFKdRlNGvguhgJvB7FacRtOJM6/Pes4X/rRLACPT7tu2Zy2T6fmVtfnfbHKpWY3oERsSjdDB2Hj/RtbDTNdSVWtbx9bYIgQgySmJWIsgG9FXOJS0m+KuSnR9lGU+dcvZByI+PV9dUhEcWbZ4BrlmjIsYcCZkGfFuE56fniZYyx/+xH0MngaI3oX/yLrDmcdJ/w6143h0tY8OEceBQBGqAbCcb6+2XtY250lLi85ZF7XrNjF7SdXpl5GicXGRnazrl2B1onbj1wcIDnEwyfa0AkhaukfND4joxmZzTUAo85N6W/UtdI/5/kud39mKF+HVS/bFR3mcquWkbnSDtbwgzILdlem+2Dypzu/74hCc2J/Pzpa4joHmzt2hoiACURvoOjDalXb4JMe7fU+n1e4Orj0gPc3w3LvTCSaUiW7gR231A5NgIZTU3BsZD6jb2JZDjhMPhhLXOEZUCKzcAAzrmhZe2KDyTjMf9lv/HR6gjKcVjz8Sw==;h5EYu3HwLJZ5Y0YvG9gGKg=="

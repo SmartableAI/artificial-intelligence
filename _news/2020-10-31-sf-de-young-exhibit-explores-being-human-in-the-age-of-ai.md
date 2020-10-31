@@ -8,8 +8,8 @@ webUrl: "https://www.mercurynews.com/2020/10/30/sf-de-young-exhibit-explores-bei
 ampWebUrl: "https://www.mercurynews.com/2020/10/30/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai/amp/"
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/30/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/SJM-L-UNCANNY-1105-01.jpg?w=1024&h=576"
@@ -25,6 +26,6 @@ images:
     height: 576
     isCached: true
 
-secured: "x4DZoPrUHgITTq/HAiE+nIolpmlt2j9oUJ8R8diFBUXn3Sh2kbenRr02rY9SKlL4csvkPnW1UiEZHrnOuJBJ0ANp0yEcwn7zLGzfeOMmOTJxAHOq8sS8YZpw0aIQXHgZrRFUmUaWLJ6iZof8GbJtuf6AKKdbLwjGXzrYAvMhFKRfKhjdmIjR8L8qsVKPKmOAa5I0kajUPltj5G+kFr88YHpYBdyFW7gJhckaqGwtWN+3RkrrvIB7ZOBkcSK9JeL8mHz4Owhwy2jYUG2IsXdw+EUCAPJtOo9pf1jOby0Cr5kv/+rg3LqK9yypw9/4UWzZujlF3P2uOQnn2lO6KCwqIbC5HKMKHhVDr7+omOeSmtA=;7sqy0hpX4QCv9ckUCk+GsQ=="
+secured: "FR0d1U7qRbYSujPx7Gc69MNjirDbX1YAmII+nQV9+VAjuWWZ2oidWm1lDlH9XeK5awfbVGjQ7KidlkactPXD1Ix9N4NTwe3e4IKGAr5pc1OeP8V1lU0Mr+HMNTt7LK1D/B90GireIauZ1Oft35Zn7jQ6UnOFlb3+3yxdURzlthDc8kolLpmUUXuaGWlPWWkQOsReoT2wNtkZEJ4RUmtAHZPA4EUJO/WMfJJ079byEtqcJriNTpojgwSKXjBTRYe3QZf5BnBGdEBZD8xedYhoth7QJvql/trLAQ1ZNvp72cUR6ndeqT1aKhVCKsUxkqPr6/8Omjcq226GtO2BnmKTSvmMEuBxsWlexgJk4Tw4Q/SBn8pCg8z+RdUK2r3JwzzcTVFjvqXJ+qcUOvsF18/ny1+G4HNzqV28vQkOemhn1v9Myhgn2SVqx/blK2fbCfSv4H/fI2nlBZn+KFL/nRQ/bGxv+UNVDdbRASGAIUUwQBOL4oeJkTzTQ0ITtato7dORXJwMKgstonWBnmhVIWxjWQ==;Qyg1vdCE7eW1RjqEH4xIgA=="
 ---
 

@@ -29,14 +29,19 @@ related:
       domain: businessinsider.com
     quality: 34
   - title: "AST's Astrella® Receives Prestigious Benzinga Fintech Awards Finalist Recognition"
-    excerpt: "AST, through its Private Company Solutions affiliate, is honored to announce that their Astrella platform has been named a Benzinga finalist as Best AI Platform. Benzinga Fintech finalists comprise carefully vetted and renowned companies across 27 categories and executives who are striving to revolutionize the fintech industry."
-    publishedDateTime: 2020-10-28T16:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ast-s-astrella-receives-prestigious-benzinga-fintech-awards-finalist-recognition-1029735830"
+    excerpt: "NEW YORK, Oct. 28, 2020 /PRNewswire/ -- AST, through its Private Company Solutions affiliate, is honored to announce that their Astrella platform has been named a Benzinga finalist as Best AI Platform. Benzinga Fintech finalists comprise carefully ..."
+    publishedDateTime: 2020-10-28T12:26:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/asts-astrella-receives-prestigious-benzinga-fintech-awards-finalist-recognition-301161985.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1213146/AST_Logo.jpg?p=facebook"
+        width: 717
+        height: 377
+        isCached: true
 
 secured: "LBdZ1QbTjKTpXSldg/osuZlviRtqKfwUdH0E6HNmYu2cNijkozzvy4tvK1D5TLCfMXsQ/Km2Bry8RYLIbwOfaoTeIX+hlg3eVEL+AKoGcLpd5/9PuUdHxBxViqOtGYFQy2m4PjCNgj+RYl923hv/lBTLEcRRA5tqsTXadesQQdULSqN1zcB9ljq7nsb1ncqcDNjIsvdMgih81Rc1yucpesaLMSQ6NQHEpXLa9DsHhAGdtjBv+Z+zUn9rIX1ppxoc+PaUoFnscDLcdHjp2b8nETwcSjQDqhZWlZyPQV5VoRIv7fwdNaKntFr2FvH9JG+KHbiZDt3cHt2+oMSR9yNlB1nMTRLFwa9jSsaZwtrp/9BaEYPfzJ6pnCiJ2aDUoj6z7aaWTQ2W8dhg9ryzmC/euWa6LHZRtS1PAjI1qUyl/kDXeMcqzETtAfciwy4i/lT3zXxvvFwDRtZCdq1P1jcXK8lf2HgAD6mduSBhi+MILsaAX83cHP8xrW+xZIYsfM0yc3wxAM6P2Zy4+QPf3+9sLg==;eEFaPXw/omxlPssPKJ37hg=="
 ---

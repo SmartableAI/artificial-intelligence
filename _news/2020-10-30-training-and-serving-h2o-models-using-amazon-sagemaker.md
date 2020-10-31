@@ -1,14 +1,14 @@
 ---
 category: news
-title: "zomato digitizes menus using Amazon Textract and Amazon SageMaker"
-excerpt: "This post is co-written by Chiranjeev Ghai, ML Engineer at zomato. zomato is a global food-tech company based in India. Are you the kind of person who has very specific cravings? Maybe when the mood hits, you don’t want just any kind of Indian food—you want Chicken Chettinad with a side of paratha, and"
-publishedDateTime: 2020-10-27T17:08:58Z
-originalUrl: "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/"
-webUrl: "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/"
+title: "Training and serving H2O models using Amazon SageMaker"
+excerpt: "Model training and serving steps are two essential pieces of a successful end-to-end machine learning (ML) pipeline. These two steps often require different software and hardware setups to provide the best mix for a production environment. Model training is optimized for a low-cost, feasible total run"
+publishedDateTime: 2020-10-30T23:43:01Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-serving-h2o-models-using-amazon-sagemaker/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-serving-h2o-models-using-amazon-sagemaker/"
 type: article
-quality: 121
-heat: 181
-published: true
+quality: 104
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -21,15 +21,28 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Natural Language Processing
 
 images:
-  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/19/menu_w_yellow_background.jpg"
-    width: 900
-    height: 628
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/26/1-SolutionArchitecture-1-811x630.jpg"
+    width: 811
+    height: 630
     isCached: true
 
 related:
+  - title: "zomato digitizes menus using Amazon Textract and Amazon SageMaker"
+    excerpt: "This post is co-written by Chiranjeev Ghai, ML Engineer at zomato. zomato is a global food-tech company based in India. Are you the kind of person who has very specific cravings? Maybe when the mood hits, you don’t want just any kind of Indian food—you want Chicken Chettinad with a side of paratha, and"
+    publishedDateTime: 2020-10-27T17:08:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 121
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/19/menu_w_yellow_background.jpg"
+        width: 900
+        height: 628
+        isCached: true
   - title: "Optimizing costs for machine learning with Amazon SageMaker"
     excerpt: "Applications based on machine learning (ML) can provide tremendous business value. Using ML, we can solve some of the most complex engineering problems that previously were infeasible. One of the advantages of running ML on the AWS Cloud is that you can continually optimize your workloads and reduce"
     publishedDateTime: 2020-10-27T18:31:07Z
@@ -42,20 +55,6 @@ related:
     images:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Charts-840x630.jpg"
         width: 840
-        height: 630
-        isCached: true
-  - title: "Training and serving H2O models using Amazon SageMaker"
-    excerpt: "Model training and serving steps are two essential pieces of a successful end-to-end machine learning (ML) pipeline. These two steps often require different software and hardware setups to provide the best mix for a production environment. Model training is optimized for a low-cost, feasible total run"
-    publishedDateTime: 2020-10-30T23:43:01Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-serving-h2o-models-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/26/1-SolutionArchitecture-1-811x630.jpg"
-        width: 811
         height: 630
         isCached: true
   - title: "Bringing real-time machine learning-powered insights to rugby using Amazon SageMaker"
@@ -115,6 +114,6 @@ related:
         height: 720
         isCached: true
 
-secured: "8RKh1ONJABNDDAvlN+zMfRYxDkRoWu9XK4+xQZ0pbTZrlzXLnKL5cAT7fb8J8p/Pdmfvh9d/ysMP05+sOl+kgfElGJO1jdkxIbABBb3HcYIKeAtIgcYV1ksSh3EQfjkEBDaWk0SXloTAuLSlRbNQp8FilrZD6UMrQnNREsblhsmsj7Hg2TfLRZO3F0Zt43lUMjAak13cHWQ4WlmgJwdxlA1qA3/SRxePVgwLxO0VH/hPwKePhImdWQo9/CVB3rubDa1e/XV+rM++CIBlS2duTxwWn/EUg0tJ+4KLQAA/va92WvfIBysSp2JELYyYGNiJPiecu1aCAktIpdXTxabpGWYIYpFUAwGS+Il36xqMkj8=;7BHeIlX3EZd+TRemC/w3tg=="
+secured: "9zIg1kWhQmROmxiIrQzzjgDZ08t7R2S4Mp3UYnQMUAH0JgJhYqK1a93BVK/gXfhleD7XDzq0xYFdBYVsR14cWrobmv+VJJ0tMkITMGEgLdimo3FkKSh8K2KQ6XvDGxQuuodx2aPl7Dj1Cy4bN4L01djuUuzUlqcMo+XefLG/0uneh4mE0SypqNtYeGVLH58fGivNmxP8H/1jyPcmNYbjSCh7V5vG0UjoH76jlLDTRFdT7qxjWHupg6GOBaL/1HtW0ZJBCnEnkjXnvtOux90mYwJYjmj3RGFH9He5eN/v2b67XBlTOT45cDpoogu0Wie4wIT3aBTuMhR+8vo+HHAJnHrIiVUhbYugIVBANqTeaLs=;TSzCh1k5l1F/KPLLJAwqpQ=="
 ---
 

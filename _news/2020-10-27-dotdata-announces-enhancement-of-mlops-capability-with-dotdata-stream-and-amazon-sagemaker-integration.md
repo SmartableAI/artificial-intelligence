@@ -54,6 +54,20 @@ related:
         width: 840
         height: 630
         isCached: true
+  - title: "Training and serving H2O models using Amazon SageMaker"
+    excerpt: "Model training and serving steps are two essential pieces of a successful end-to-end machine learning (ML) pipeline. These two steps often require different software and hardware setups to provide the best mix for a production environment. Model training is optimized for a low-cost, feasible total run"
+    publishedDateTime: 2020-10-30T23:43:01Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-serving-h2o-models-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/26/1-SolutionArchitecture-1-811x630.jpg"
+        width: 811
+        height: 630
+        isCached: true
   - title: "Bringing real-time machine learning-powered insights to rugby using Amazon SageMaker"
     excerpt: "The Guinness Six Nations Championship began in 1883 as the Home Nations Championship among England, Ireland, Scotland, and Wales, with the inclusion of France in 1910 and Italy in 2000. It is among the oldest surviving rugby traditions and one of the best-attended sporting events in the world. The COVID-19"
     publishedDateTime: 2020-10-26T18:33:01Z

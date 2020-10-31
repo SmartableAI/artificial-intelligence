@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/advisoruk/2020/10/28/the-long-road-to-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisoruk/2020/10/28/the-long-road-to-automated-cars/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/inside-google/life-at-google/how-eurovision-insp
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/life-at-google/how-eurovision-inspired-research-interns-project/amp/"
 type: article
 quality: 94
-heat: 95
+heat: 94
 published: true
 
 provider:

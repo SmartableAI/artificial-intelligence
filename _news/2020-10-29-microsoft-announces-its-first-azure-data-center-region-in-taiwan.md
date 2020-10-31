@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azur
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
 type: article
 quality: 99
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-471179856_k05DHIS.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ..."
-    excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,"
-    publishedDateTime: 2020-10-26T14:01:00Z
-    webUrl: "https://www.thedailytimes.com/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_10ca99a4-1e8d-5158-b85f-f01ecf8b6a08.html"
-    type: article
-    provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
-    quality: 34
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-        width: 600
-        height: 600
         isCached: true
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"

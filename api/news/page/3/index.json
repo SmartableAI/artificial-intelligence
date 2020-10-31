@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-28-the-ai-company-helping-the-pentagon-assess-disinfo-campaigns.md",
+      "title": "The AI Company Helping the Pentagon Assess Disinfo Campaigns",
+      "excerpt": "Primer can quickly sort through hundreds of sources to identify, say, Russian interference in Azerbaijan. It sells its tech to Walmart too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-helping-pentagon-assess-disinfo-campaigns/",
+      "originalUrl": "https://www.wired.com/story/ai-helping-pentagon-assess-disinfo-campaigns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f98b1c3e4fe02a20082e855/master/pass/business-ai-intelligence.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-helping-pentagon-assess-disinfo-campaigns/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-helping-pentagon-assess-disinfo-campaigns/amp",
+      "publishedDateTime": "2020-10-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-heres-why-apple-paid-50-million-for-an-ai-video-startup.md",
       "title": "Here's Why Apple Paid $50 Million for an AI Video Startup",
       "excerpt": "Apple (NASDAQ:AAPL) has acquired Vilynx, a company focused on using computer vision and artificial intelligence to analyze a video's audio, visual, and related text elements to un",
@@ -476,7 +527,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -559,6 +610,39 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-ai-apis-chatbots-and-nudges-building-a-financial-wellness-platform.md",
+      "title": "AI, APIs, Chatbots and Nudges: Building a Financial Wellness Platform",
+      "excerpt": "The financial services industry is in the midst of a rapidly developing alliance between behavioral science and next generational digital technology – an alchemical mix of behavioral finance and Nudge Theory with AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-apis-chatbots-and-nudges%3A-building-a-financial-wellness-platform-2020-10-27",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-apis-chatbots-and-nudges%3A-building-a-financial-wellness-platform-2020-10-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-apis-chatbots-and-nudges%3A-building-a-financial-wellness-platform-2020-10-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-apis-chatbots-and-nudges%3A-building-a-financial-wellness-platform-2020-10-27?amp",
+      "publishedDateTime": "2020-10-27T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -664,7 +748,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -717,7 +801,7 @@
       "originalUrl": "https://www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -959,7 +1043,7 @@
       "originalUrl": "https://blog.google/inside-google/life-at-google/how-eurovision-inspired-research-interns-project/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1154,101 +1238,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-rtx-3070-review-a-500-gpu-that-matches-the-1200-rtx-2080-ti.md",
-      "title": "RTX 3070 review: A $500 GPU that matches the $1,200 RTX 2080 Ti",
-      "excerpt": "The sweet spot for GPUs over the last half-decade is the $500 ... And even if it looks as nice, will it run well without something like AI-power machine learning image algorithms?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/rtx-3070-review-the-500-gaming-sweet-spot/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/rtx-3070-review-the-500-gaming-sweet-spot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/RTX-3070.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/rtx-3070-review-the-500-gaming-sweet-spot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/rtx-3070-review-the-500-gaming-sweet-spot/amp/",
-      "publishedDateTime": "2020-10-27T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
-      "title": "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs",
-      "excerpt": "Without endorsing Singer’s line of reasoning, we might wonder if it can be extended further to an android robot like ... consciousness and intelligence. As real artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
-      "originalUrl": "https://theconversation.com/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/365306/original/file-20201023-13-z1yhk3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=241&fit=crop",
-          "width": 320,
-          "height": 241,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
-      "publishedDateTime": "2020-10-27T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -343,7 +343,7 @@
       "originalUrl": "https://stupiddope.com/2020/10/28/otis-ai-powered-digital-marketing-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -387,7 +387,7 @@
       "originalUrl": "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -525,7 +525,7 @@
       "originalUrl": "https://www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -664,21 +664,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-microsoft-releases-preview-of-lobe-training-app-for-machine-learning.md",
-      "title": "Microsoft releases preview of Lobe training app for machine-learning",
-      "excerpt": "A public preview of Microsoft's Lobe app is available for Windows and Mac users, and enables them to traing and store machine-learning models locally on their machines.",
+      "path": "_news/2020-10-27-microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks.md",
+      "title": "Microsoft develops new machine learning model to detect password spray attacks",
+      "excerpt": "Microsoft has developed a new machine learning model in order to autonomously detect password spray attacks. The model has vastly improved performance compared to its previous heuristic mechanism.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/",
+      "webUrl": "https://www.neowin.net/news/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks",
+      "originalUrl": "https://www.neowin.net/news/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 142,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/10/26/12706ff8-b427-454d-a2aa-9db241810bd5/lobemachinelearningtraining.jpg",
-          "width": 1196,
-          "height": 919,
+          "url": "https://cdn.neow.in/news/images/uploaded/2015/04/shutterstock_222320305a_story.jpg",
+          "width": 760,
+          "height": 506,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -686,16 +686,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/",
-      "publishedDateTime": "2020-10-26T11:56:00-07:00",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/",
+      "publishedDateTime": "2020-10-26T21:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Neowin",
+        "domain": "neowin.net",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

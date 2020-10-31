@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/emerging-technologies-that-wil
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
       domain: forbes.com
     quality: 69
 
-secured: "NRqIY9AA66CIG8C5QAHhTlMUsuR7etJ2ZP0YjWp6jNOF2kJHhf6fDMEkGMVK5f0hWH2Iso7SvtOUgNR2Mq8qr0+nQiiwOUQxh26VmuSmZWL0X5XREg7za1ZKlifcxZ2qDhswihPV5e7tcEImS4UfbBoYDYYck0kVGBqm9mSkQqcTdJE+XECy+ZDqJcFvqF7Rn4pV8Psh0KkmGveKcGF8nUnD1oyj0y85gb8L+6qj/uHClBU8Gl8LQwUILM7vM25jkPojbFmLiuGfUWrzufz1EBLMuiO1RKRuEGHtUUwyIoBVeM5wZjYeA5Vk6srggptMyhbLooxou3cziDGdY7jiv4TBPxREIV/7IflHJFdhnXE=;TfYK3AenSdPPngFqrYqfIg=="
+secured: "UEcqRUepEIIpBoQxfh9WX0bCFFUl9hi3yDpyrr33wrdNU6BqtIn9dRgXQGwxTN8D2xNm0pyVn2EAcq2mOJEqxHoVIfnqJi0eD+PT9tGUqRAToo+E7HYbSX7n4xhkQUP9jOdJD1J+x4PC4+XIdVoZjuYBf/ZYNeUXGHxOvDs6B4L18BDKfARcz8okhJGhMhJ9VYEJIyrdMZi8EL9HYviKQ5X5E3UQ+jzf1eLyxgnzOI9BOjh3Tf4abF489EBfXXRwG8u2sWHjXgK10uDH2W2ywZE4gNGHMjDOQS/dEh24BuSMgGO7QtnAzjh9Q/pbQlhoEc0/G7MmXHraBSx9tBwEiAbQrrxxEu1J0qQ9mLJjlcHZL9c7Wz8WLWdHBVnbsWfFM2uysr7Md2QXInNgWgRUAjal33XG2JM2tf+3vb0i05WwNWxWHQTCtL8n5BXN5pTBmJcwkCZHGEFYA4bKzLc7Uz5hhkVbKvYN+uDExDcfFt2AYwZ+OaqfvVhxWc33Q5WGjRK8aJjHoHLTLxxhk3xY3A==;tq3C/ypoOnqkBsi+g3/vnw=="
 ---
 

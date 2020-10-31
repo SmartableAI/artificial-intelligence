@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Friday: How Artificial Intelligence Plays A Role In Flu Prevention"
-excerpt: "Dr. Ravi Johar, chief medical officer of UnitedHealthcare of Missouri, explains how health officials are getting a handle on what to expect where this flu season — and how that data is driving their decisions."
-publishedDateTime: 2020-10-29T22:22:00Z
-originalUrl: "https://news.stlpublicradio.org/show/st-louis-on-the-air/2020-10-29/friday-how-artificial-intelligence-plays-a-role-in-flu-prevention"
-webUrl: "https://news.stlpublicradio.org/show/st-louis-on-the-air/2020-10-29/friday-how-artificial-intelligence-plays-a-role-in-flu-prevention"
+excerpt: "This interview will be on “St. Louis on the Air” at noon hour on Friday. This story will be updated after the show. You can listen live. Every year health"
+publishedDateTime: 2020-10-29T23:04:00Z
+originalUrl: "https://www.kbia.org/post/friday-how-artificial-intelligence-plays-role-flu-prevention"
+webUrl: "https://www.kbia.org/post/friday-how-artificial-intelligence-plays-role-flu-prevention"
 type: article
-quality: 37
-heat: 37
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: KWMU
-  domain: stlpublicradio.org
+  name: KBIA
+  domain: kbia.org
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/d37f740/2147483647/strip/true/crop/3891x2043+0+73/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F81%2F30d4e42340e4b43a4899cc1e68e4%2F1005-covid-cs.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "mgin7qgNOqbMzXBdaTd72fY2MAcaDWyuGjJXGmiL0Nx9LMrDdzeD4t2PLdBNwCo2uOouT0KJTvMM/gfKENHGxAnQoSKtWd0ETzylD2jSJ3pNg6xgLd866PsdK+Ncf8KNzP+4FIXLFxnWywN0cc5a2g593IF2ylQNZ/1rPhQAXfvvEupQcBFXS6iZUCNK/k2xa2+Tc6WW7tPcRXck16SfQ0FbhljHZHngyBHHwfyy27v6vsUpgprrt95n3CjxzxnGYxSHiG3qJcnYnw9rP8bDRdkR+8veKZ9tI6qLjMMPYPDs3pALGBlNzb+FFehuIVWmmB8nwlmJvx98AVEtbuaYLHU4Z/RsGlB8ooEO+rTE0Cg=;Vbycjy0ncGHeyJZbirPWJg=="
+secured: "BrUTiu9qdzo7JJOJVhGCnqWUQrNN293fTZaJH58TiZ+KggYThVKY1uB1ICJQ1QVl5yARDGGvt56m06pWZz4YubF+IJD3o7D+nIqJ2DRU6gCe5h/UJ/F5DlvYWmRoSXGA9lB6qyc5B73zqIUXjjLn20dRhyyC6ndsH4i0rRYwO1dUvCfSt1QS9YIgPn1awvGs5e0tO3fLgmiusdxmupMF5MPLAMXlv+DuQGsjZ90oI3KnZTnYx/J7QWVqMH3GZPqyPxmn+KOWJUxKrrjxYOWDadutVjLOvPGC7e5iF+2FynZUMA4Tv25iKWaV31WfyvUJYRdk2VZwb1LYrxYrTZTiI9DNznJ8u9T3QbgM7ePYfyA=;BUThZhEnH/wtGkxQA/fWVQ=="
 ---
 

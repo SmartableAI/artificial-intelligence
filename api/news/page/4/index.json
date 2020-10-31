@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-27-rtx-3070-review-a-500-gpu-that-matches-the-1200-rtx-2080-ti.md",
+      "title": "RTX 3070 review: A $500 GPU that matches the $1,200 RTX 2080 Ti",
+      "excerpt": "The sweet spot for GPUs over the last half-decade is the $500 ... And even if it looks as nice, will it run well without something like AI-power machine learning image algorithms?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/27/rtx-3070-review-the-500-gaming-sweet-spot/",
+      "originalUrl": "https://venturebeat.com/2020/10/27/rtx-3070-review-the-500-gaming-sweet-spot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/RTX-3070.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/27/rtx-3070-review-the-500-gaming-sweet-spot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/rtx-3070-review-the-500-gaming-sweet-spot/amp/",
+      "publishedDateTime": "2020-10-27T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
+      "title": "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs",
+      "excerpt": "Without endorsing Singer’s line of reasoning, we might wonder if it can be extended further to an android robot like ... consciousness and intelligence. As real artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
+      "originalUrl": "https://theconversation.com/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/365306/original/file-20201023-13-z1yhk3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=241&fit=crop",
+          "width": 320,
+          "height": 241,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453",
+      "publishedDateTime": "2020-10-27T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-learning-a-second-language-business-benefits-and-how-to-start-a-program.md",
       "title": "Learning A Second Language: Business Benefits And How To Start A Program",
       "excerpt": "Language remains a key organizational building block, whether we are distributed all the way across the world or just next door.",
@@ -564,6 +659,59 @@
       ]
     },
     {
+      "path": "_news/2020-10-27-microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks.md",
+      "title": "Microsoft develops new machine learning model to detect password spray attacks",
+      "excerpt": "Microsoft has developed a new machine learning model in order to autonomously detect password spray attacks. The model has vastly improved performance compared to its previous heuristic mechanism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks",
+      "originalUrl": "https://www.neowin.net/news/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2015/04/shutterstock_222320305a_story.jpg",
+          "width": 760,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/",
+      "publishedDateTime": "2020-10-26T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-surveillance-company-harassed-female-employees-using-its-own-facial-recognition-technology.md",
       "title": "Surveillance company harassed female employees using its own facial recognition technology",
       "excerpt": "A surveillance startup in Silicon Valley is being accused of sexism and discrimination after a sales director used the company’s facial recognition system to harass female workers. Verkada, which was valued in January at $1.",
@@ -743,59 +891,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-microsoft-releases-preview-of-lobe-training-app-for-machine-learning.md",
-      "title": "Microsoft releases preview of Lobe training app for machine-learning",
-      "excerpt": "A public preview of Microsoft's Lobe app is available for Windows and Mac users, and enables them to traing and store machine-learning models locally on their machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/10/26/12706ff8-b427-454d-a2aa-9db241810bd5/lobemachinelearningtraining.jpg",
-          "width": 1196,
-          "height": 919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-preview-of-lobe-training-app-for-machine-learning/",
-      "publishedDateTime": "2020-10-26T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1092,58 +1187,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-microsoft-teams-with-adobe-and-c3ai-to-take-on-salesforce-on-its-home-turf.md",
-      "title": "Microsoft Teams With Adobe and C3.ai to Take on Salesforce on Its Home Turf",
-      "excerpt": "Microsoft Corp. is teaming with Adobe Inc. and C3.ai, the company of customer-software pioneer Tom Siebel, in another bid to better compete with Salesforce.com Inc., the market leader for such programs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCRYcRiao68M/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf",
-      "publishedDateTime": "2020-10-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-from-beekeepers-to-ocean-mappers-lobe-aims-to-make-it-easy-for-anyone-to-train-machine-learning-models.md",
       "title": "From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models",
       "excerpt": "The post From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models appeared first on The AI Blog.\n",
@@ -1194,57 +1237,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-saps-ai-chief-leads-effort-to-infuse-artificial-intelligence-across-products.md",
-      "title": "SAP’s AI Chief Leads Effort to Infuse Artificial Intelligence Across Products",
-      "excerpt": "Feiyu Xu, a former Lenovo executive, became SAP’s first global head of AI in May and plans to lead a ‘holistic AI strategy.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/saps-ai-chief-leads-effort-to-infuse-artificial-intelligence-across-products-11603704600",
-      "originalUrl": "https://www.wsj.com/articles/saps-ai-chief-leads-effort-to-infuse-artificial-intelligence-across-products-11603704600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-249072/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
