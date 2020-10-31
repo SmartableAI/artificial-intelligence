@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Google AI executive sees a world of trillions of devices untethered from human care"
-excerpt: "Everything you need to know about AI An executive guide to artificial intelligence ... The Linley Fall Processor Conference, hosted by chip analysts The Linley Group. Warden offered the assembled, mostly chip industry executives, a wish list, as he ..."
-publishedDateTime: 2020-10-30T06:21:00Z
-originalUrl: "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-webUrl: "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+excerpt: "Google says hardware in embedded devices needs to improve to make possible a world of peel-and-stick sensors free of wall power and human maintenance."
+publishedDateTime: 2020-10-29T17:04:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
 type: article
-quality: 83
-heat: 93
+quality: 81
+heat: 91
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -48,6 +47,6 @@ related:
         height: 500
         isCached: true
 
-secured: "RUEotawdiVjs2JWFCh3c+IiGN7Z6MfPA6UomyLTcITIxDYUJizh2RXKuXI/BQejWwxUR6kv4gHNPrDhsYXW0oomZOHzDzg4eFa2y2LPRQDMtxhS1K1WnzdjhWshBhPYjjNLyWvdHuvGAVEOZDolcwu8Q/EfMkZGLsB8+M3maur7nqG+FaAhcbh3J2YfJhEQ5oTdYUnleyHtBLfRH/3XMsWgDQt1BTAFYBZ/xxZR+x67dE3sPUCW1fb2N+M3nvIzmFNNRkUcL1x7CbM2f2Id2lZsD4Joro1FAjb31VFVvwwRYnPnd6U1qCzPcXVtfXFIwFB+D66IrnJpoFPFCoqGRMKKpi3rUlL4e4Tb9757xGTA=;m0wpwx5YP6W0BYtaz0rshQ=="
+secured: "9nKxSo7QGQDxFK8WLsu1ZrcxgtGs/CdrQ9R8mITEMQs8eHBkuiYgajgHvY8+tv8TQ6d8QzwTuH1pEoTvl0Jo5B1jcs5T0F+ECdPAzl5juOskOrDiB/WAfjkzTU4LHPiuw2F2CHVxavJd2W38x1cO1Sbd23RgHFAYM1pDE9TJFZ1++VDifvqSUq+8ovgePtiFgbKxsFD/ETGXpNTNQp29POM7bBKB+gEP/eueIAuAXy2/1yjGollshDQYNSqnnrDi2qFkWCHX7PDq7lTxCC6lbwqSia7RLY6lcmqk2nwuTFlPUMASx2zX16P7Yc0sVuXJjZio/VSKDTTD5w1+2/AHtsxv9jnjhVmXUIz3zZ3ldjI=;yaG5t+xnKBNeAY8LQF14nw=="
 ---
 

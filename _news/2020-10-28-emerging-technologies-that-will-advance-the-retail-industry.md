@@ -3,10 +3,10 @@ category: news
 title: "Emerging technologies that will advance the retail industry"
 excerpt: "In response to this changing landscape, retailers have brought forward technology investments to accelerate their digital business transformation, particularly in artificial intelligence (AI) technologies with retailers often utilizing AI-enabled third-party vendor applications to solve immediate challenges before moving to more strategic deployments once they gain evidence of the benefits."
 publishedDateTime: 2020-10-28T15:34:00Z
-originalUrl: "https://www.techradar.com/news/emerging-technologies-that-will-advance-the-retail-industry"
-webUrl: "https://www.techradar.com/news/emerging-technologies-that-will-advance-the-retail-industry"
-ampWebUrl: "https://www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+originalUrl: "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry"
+webUrl: "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry"
+ampWebUrl: "https://www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
 type: article
 quality: 89
 heat: 99
@@ -43,6 +43,6 @@ related:
       domain: forbes.com
     quality: 69
 
-secured: "Ila/vN8RJeeHdrGegpf+3BOaAJwM49u7rabmNhEM6PqqYMi5x/xCx5mWTvaeARKDiT0hMcyISl6Dia1c2rJilp5Ux53N8zFOLvIlQSphGieDZa6SAr/dcSBvwoBKwWseFBa/Dmoi+QAZnjFcRExd7Iq5mBBviSqw7sIItc8t+fsO1e93eFcGYpnW8lN1gSrrVH4XEeOSPwR86piFLql+CLULnFotaW1Z24j7BLoxkzDVvn6y5SGPUaO4X3aZxBxn4UI0vRMR3DfTPIANzGV2tUncG80TRCb8HCD4a2GQ3e3Q8MXoBWzutjqqSJQg62relu+/z2awcaBkpkARBWl0W/pkUSqOLFxiwm0OryYNM6kdi7jWkpLvGNjPR34BeBI6wYeY4dIEzWd4q+JJaGukLY4L+hnWWmrrWyCN75C8OBr144ksUIcDpyeBviRzuisct7qAvwJKgsY+VZ9U9lcl2RR6qcU4NTloJk9APZokFQIv7XVLua0jxc3ffjHE8pQabHwZMf4dVXMncTg3luufQQ==;FWa0ujLlyXlQd9sgvYpqSA=="
+secured: "u/Nhg8WskrPrOPYNcGYUuLLZ76dCqOJAIIsnaTx5d8atqEnkDs4owo/42+o18kn3MDK04+dbJumTnns1teKtb8Qo2Sj/jxcTk/JWSINwhrNw5uuQfTa/bjD1P2S+FOEb0+YnB3S6fplW+Kzbj+MbvT2XpEtUDGwVLdr9kYxGl6FLpkf/BI9a6Shkbw7olgHov4az0iHtpM1Ug2Lfo85Me4EphPFnXNEhdiapsvClNguymzKZD7YwHuEmWyLjfXufU5N3O7NDWstDnQf9Ftm11dQllaPM9AouEsXF539HWjyq0111XHF8QpGOrty19+cNsoX9hQTqQH6X38cb5lHTYO9b1W84cOK80ylk0llVf2M=;+f3LLQ60IwYiqAUTy1cO9w=="
 ---
 

@@ -78,20 +78,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
-    excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
-    publishedDateTime: 2020-10-26T21:22:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 23
-    images:
-      - url: "https://mms.businesswire.com/media/20201026005033/en/832810/23/2018_Logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
     excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."
     publishedDateTime: 2020-10-30T06:52:00Z

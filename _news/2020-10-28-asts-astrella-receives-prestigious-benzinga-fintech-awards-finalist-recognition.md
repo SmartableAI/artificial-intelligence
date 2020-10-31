@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AST's Astrella® Receives Prestigious Benzinga Fintech Awards Finalist Recognition"
-excerpt: "NEW YORK, Oct. 28, 2020 /PRNewswire/ -- AST, through its Private Company Solutions affiliate, is honored to announce that their Astrella platform has been named a Benzinga finalist as Best AI Platform. Benzinga Fintech finalists comprise carefully ..."
-publishedDateTime: 2020-10-28T12:26:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/asts-astrella-receives-prestigious-benzinga-fintech-awards-finalist-recognition-301161985.html"
-webUrl: "https://www.prnewswire.com/news-releases/asts-astrella-receives-prestigious-benzinga-fintech-awards-finalist-recognition-301161985.html"
+excerpt: "AST, through its Private Company Solutions affiliate, is honored to announce that their Astrella platform has been named a Benzinga finalist as Best AI Platform. Benzinga Fintech finalists comprise carefully vetted and renowned companies across 27 categories and executives who are striving to revolutionize the fintech industry."
+publishedDateTime: 2020-10-28T16:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ast-s-astrella-receives-prestigious-benzinga-fintech-awards-finalist-recognition-1029735830"
+webUrl: "https://markets.businessinsider.com/news/stocks/ast-s-astrella-receives-prestigious-benzinga-fintech-awards-finalist-recognition-1029735830"
 type: article
-quality: 19
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1213146/AST_Logo.jpg?p=facebook"
-    width: 717
-    height: 377
-    isCached: true
 
 related:
   - title: "Constant Named to the 2020 Benzinga Fintech Listmakers"
@@ -44,6 +42,6 @@ related:
       domain: autoremarketing.com
     quality: 4
 
-secured: "mo7YspQr8HPNUS4qAiOszGdCMMdasSrHjG79bzKobwXrGQl3XnkdiGiKCeOvU9pF7z+mir9SfO7SXvNvGg7ySaGYe18dxm2goKkYdcwI5n3r1VWzqWbXusADR5n7V2v7fis/Ns9CeWrGqgPhMLULLy7fB4uTAKxLiew5sY94rdKzUPp4ywKMO00Fx+UNW+c/cG8Niu+Ro3jNxQP8H60KkA38dd6O/4KCgnXuJr4sbYKByK3CQfxFB5twayBEXcXgieAXKBnvTvc7q9Q2Qb6X0NmMvFOkTQxpFD3rsWazY8/XGN8EWfw2UvoGL7wNlCjML2zxlh1QjCtoRIpw8osXb72ZMmvzQQLI148rKzpSP9Q=;K8b3dg6xIjC+fWSB7ZTqBQ=="
+secured: "XHpoVfGuofe7P99nQ7L53GWpLwEdSBdkQxN2NuYSpxFlrPgJbu8TZixUFxo6xeD32GULbPnZ871WyaDXZp0ZrXC0qobDQxLE61FBc9LCSai035VKvuIBtrpKEokohpdBp4b3MCHM7GmacgmiLVF2b0QAThXdUsCI8MPZNOdvpBEJIuyR40DOz5NMKlS7527t1MlTu1/pS3d4AK3dD4kA8YhL/g4WtwhLtJK1a43rZjZZDLYuwXg9cMIkVNCmmMijzF5C36lT5bOkG+KoknJGIfpVyDTDwYEwqGoC62dH/A7rIC5Qx9jDn+pz52oWeBTvKWTp2SuqaHIx6hBtzbfITftJS9wwCTQr65UMKMN+870=;b4AgHw8KVLyOiF54BQedMA=="
 ---
 

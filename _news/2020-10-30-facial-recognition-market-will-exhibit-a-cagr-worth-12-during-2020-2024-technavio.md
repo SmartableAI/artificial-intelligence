@@ -7,7 +7,7 @@ originalUrl: "https://www.oaoa.com/news/business/facial-recognition-market-will-
 webUrl: "https://www.oaoa.com/news/business/facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio/article_6c58d87d-7061-50fb-a01c-6c306c2eab19.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market worth $190.61 billion by 2025 with a Growing CAGR of 36.6%"
-    excerpt: "Artificial Intelligence Market” [222 Pages] Artificial Intelligence Market report categorizes the Global market by Offering (Hardware, Software), Technology"
-    publishedDateTime: 2020-10-26T21:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18064657/artificial-intelligence-market-worth-190-61-billion-by-2025-with-a-growing-cagr-of-36-6"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18064657"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18064657"
+  - title: "Technavio Research: Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio"
+    excerpt: "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register"
+    publishedDateTime: 2020-10-30T06:02:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/51101299-technavio-research-facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio-004.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 22
     images:
-      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg"
-        width: 650
-        height: 381
+      - url: "https://mms.businesswire.com/media/20201029006337/en/834930/4/IRTNTR44231.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Global Artificial Intelligence of Things (Technology & Solutions) Markets 2020-2025: Market will Reach $65.9 Billion by 2025, Growing at 39.1% CAGR"
     excerpt: "AIoT Market by Technology and Solutions 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This AIoT market report provides an analysis of technologies, leading companies and solutions."

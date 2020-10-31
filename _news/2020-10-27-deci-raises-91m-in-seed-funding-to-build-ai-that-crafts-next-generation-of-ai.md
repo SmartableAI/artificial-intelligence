@@ -2,9 +2,9 @@
 category: news
 title: "Deci Raises $9.1M in Seed Funding to Build AI that Crafts Next Generation of AI"
 excerpt: "Deci's deep learning platform automatically gears up neural networks to become top-performing production-grade solutions on any hardware, including CPUs, GPUs, and special-purpose AI chips for edge and mobile. The platform is powered by Deci's patent ..."
-publishedDateTime: 2020-10-27T11:08:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
+publishedDateTime: 2020-10-27T11:04:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
+webUrl: "https://www.prnewswire.com/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
 type: article
 quality: 35
 heat: -1
@@ -90,6 +90,6 @@ related:
         height: 659
         isCached: true
 
-secured: "gnc0oqNbh5FIgF+thRZFJ/ETceLfJ4LWvR8GW/kM0279Tw0imgrdXoZsGIRhrIkydwksr/ydtfpo1fGTFRLD39btBy0U7uHor8vY7TNdI5H2IFJ3KDFhLT09PXyLmcEooMUI3+HaF9nBLmMF8+qW3BvLX7qfBbrDHDJ1WYHgEUYZZk9s20EKw5lKsrdxHHMg0OKdrJqUpzAFRpwRN7RUgNrD5RSzfvglxzSJ+zyIP0BWtmcVCU3HdQZKNpIJ3I1B5CyI3hHjFCZE8/IWkXtZYUvpgksRL1yEZFQ9WyeeYeCAzqmzBvBDfPIpBMZnyo5VwD4yoctkt+w0mveT48RjRwU47UGIN6kiyavmIot53Zc=;mJn5Jdm9q3OuEtZYrs2lFw=="
+secured: "/vHZuJ7EISl9dC3/kK2iA+IdWZto5ohbBArOsAZJ0uWchnbAmJVaxhgMtn4P9pedmy6lsdjk1U701kQgDkZgu1KpNBup/ohH7RB6xv9TaUd+OVuq3hDjIDypRCBxvXBWlXdPjsh+dT1yNQLeYwOobG70IOM7p+YgeBGft01fcYb3bkCjfmMyWYiFPK61aqir3I3brp0q9HiEBPzV2k3gqQzCWxYUZRFgljjLf/Yw0o/Thx8onGO8JYqi89l/0o0fnXam6Vimir0eo5ItLM8TGAKAJOF4AGBTILpC93ujJAB6ZE1OxuAahcbNb8YDgTaxn49847U9lNH6WeX8B2AN2KCRAyU0X17JVWgrRxLjxVs=;6soLmM0ooRTXlLI6IDczeg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/10/29/cadillac-fairview-br
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/10/29/cadillac-fairview-broke-privacy-laws-by-using-facial-recognition-technology-at-malls-investigators-conclude.html"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -27,33 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Surveillance company harassed female employees using its own facial recognition technology"
-    excerpt: "A surveillance startup in Silicon Valley is being accused of sexism and discrimination after a sales director used the company’s facial recognition system to harass female workers. Verkada, which was valued in January at $1."
-    publishedDateTime: 2020-10-26T21:58:00Z
-    webUrl: "https://www.theverge.com/2020/10/26/21535089/surveillance-company-verkada-harassed-female-employees"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/26/21535089/surveillance-company-verkada-harassed-female-employees"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/26/21535089/surveillance-company-verkada-harassed-female-employees"
+  - title: "Cadillac Fairview's use of facial recognition tech at malls, including in Metro Vancouver, violated privacy laws: report"
+    excerpt: "The company collected “more than five million biometric representations of individual shoppers' faces, which it had retained for no discernible reason”."
+    publishedDateTime: 2020-10-29T20:02:00Z
+    webUrl: "https://www.straight.com/tech/cadillac-fairviews-use-of-facial-recognition-tech-at-malls-including-in-metro-vancouver"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 79
+      name: The Georgia Straight
+      domain: straight.com
+    quality: 29
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/0s0r8ctNcMwFgFaAO7dH-wN2fXE=/0x0:7952x5304/1400x933/filters:focal(3340x2016:4612x3288):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67692463/Verkada_Camera_Indoor.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Addressing Legitimate Concerns About Government Use of Facial Recognition Technologies"
-    excerpt: "Facial recognition systems have generated a significant amount of controversy over their potential to create an unblinking, discriminatory surveillance system across the United States. A closer examination reveals that the best-crafted facial recognition ..."
-    publishedDateTime: 2020-10-30T21:28:00Z
-    webUrl: "https://www.heritage.org/civil-rights/report/addressing-legitimate-concerns-about-government-use-facial-recognition"
-    type: article
-    provider:
-      name: The Heritage Foundation
-      domain: heritage.org
-    quality: 31
-    images:
-      - url: "https://www.heritage.org/themes/heritage/src/images/bell.png"
+      - url: "https://www.straight.com/files/v3/styles/gs_feature/public/images/20/10/cfpacificcentre.jpg?itok=E2at_pur"
         width: 1200
         height: 630
         isCached: true

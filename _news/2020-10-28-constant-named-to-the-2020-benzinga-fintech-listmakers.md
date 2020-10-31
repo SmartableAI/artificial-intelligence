@@ -24,19 +24,14 @@ topics:
 
 related:
   - title: "AST's Astrella® Receives Prestigious Benzinga Fintech Awards Finalist Recognition"
-    excerpt: "NEW YORK, Oct. 28, 2020 /PRNewswire/ -- AST, through its Private Company Solutions affiliate, is honored to announce that their Astrella platform has been named a Benzinga finalist as Best AI Platform. Benzinga Fintech finalists comprise carefully ..."
-    publishedDateTime: 2020-10-28T12:26:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/asts-astrella-receives-prestigious-benzinga-fintech-awards-finalist-recognition-301161985.html"
+    excerpt: "AST, through its Private Company Solutions affiliate, is honored to announce that their Astrella platform has been named a Benzinga finalist as Best AI Platform. Benzinga Fintech finalists comprise carefully vetted and renowned companies across 27 categories and executives who are striving to revolutionize the fintech industry."
+    publishedDateTime: 2020-10-28T16:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ast-s-astrella-receives-prestigious-benzinga-fintech-awards-finalist-recognition-1029735830"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1213146/AST_Logo.jpg?p=facebook"
-        width: 717
-        height: 377
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "Constant among the 2020 Benzinga Fintech Listmakers"
     excerpt: "It’s been an award-winning autumn so far for Constant. A week after it received a 2020 AI TechAward, the fintech and automated loss mitigation provider announced on Wednesday that it has been named to the 2020 Benzinga Global Fintech Listmakers."
     publishedDateTime: 2020-10-28T15:33:00Z

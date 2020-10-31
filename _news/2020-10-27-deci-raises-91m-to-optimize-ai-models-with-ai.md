@@ -80,8 +80,8 @@ related:
         isCached: true
   - title: "Deci Raises $9.1M in Seed Funding to Build AI that Crafts Next Generation of AI"
     excerpt: "Deci's deep learning platform automatically gears up neural networks to become top-performing production-grade solutions on any hardware, including CPUs, GPUs, and special-purpose AI chips for edge and mobile. The platform is powered by Deci's patent ..."
-    publishedDateTime: 2020-10-27T11:08:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
+    publishedDateTime: 2020-10-27T11:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/deci-raises-9-1m-in-seed-funding-to-build-ai-that-crafts-next-generation-of-ai-301160365.html"
     type: article
     provider:
       name: PR Newswire

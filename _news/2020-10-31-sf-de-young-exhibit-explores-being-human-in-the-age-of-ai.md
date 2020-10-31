@@ -1,31 +1,31 @@
 ---
 category: news
 title: "SF de Young exhibit explores ‘Being Human in the Age of AI’"
-excerpt: "The de Young Museum cleared out its cavernous contemporary art galleries, painted many of the walls black, and set up a harrowing tour through the landscape of artificial intelligence in ... how promising start-ups “have been transformed into ..."
-publishedDateTime: 2020-10-30T21:31:00Z
-originalUrl: "https://www.mercurynews.com/2020/10/30/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai/"
-webUrl: "https://www.mercurynews.com/2020/10/30/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai/"
-ampWebUrl: "https://www.mercurynews.com/2020/10/30/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/30/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai/amp/"
+excerpt: "Subtitled “Being Human in the Age of AI,” it suggests we’re in a precarious balance with intelligent machines. The term “uncanny valley” was introduced by a Japanese engineer to describe the uncertainty we may encounter with the arrival of human-like robots or thinking devices."
+publishedDateTime: 2020-10-31T04:29:00Z
+originalUrl: "https://www.eastbaytimes.com/2020/10/30/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai/"
+webUrl: "https://www.eastbaytimes.com/2020/10/30/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai/"
+ampWebUrl: "https://www.eastbaytimes.com/2020/10/30/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/10/30/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai/amp/"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/SJM-L-UNCANNY-1105-01.jpg?w=1024&h=576"
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/10/SJM-L-UNCANNY-1105-01-1.jpg?w=1024&h=576"
     width: 1024
     height: 576
     isCached: true
 
-secured: "QqXsbTm7o0UcjxTNoNGnutFdFCJsYQSfeo3mvaoD2YcD5IPokfv/DyzqD8m0+noHDgkhFORAN/dEnD+j0/r4KF/eG48CbBcfg8F8GDWPsJp1YEUUYnHQ93QIEn9SElufsPtwQqGR2kMvF78efpXQgK9C/fstgeSI676sGc6Fd3UfbcfPEr2PbF2C6oULcfEiGFbXi7Es0IjM1GtERxkAS0fo5UPzp6dmEeIzCbUKwEdmlWM+fMxTAY8WGBMZGeCmUtiQifCK/0nbx0ZJHOOgr2cdUeqLV/XauRjxchZGizugHoNDzNnfycyUjOYeMYGQexRkpx0T2ksdkeVJ+Jyu5zgDolubrdqsM3RENUcEneM78eXe0oGo+aoHKqyovSl31chRH0YvFtIWwZg8vq4Uyc1n4OsBAnv43rP6pTAEHX6hZ3ld64ZlYcXDbebPcbOvg8vtnsDsqrDQFFZrbPmQ8dBouXLLLAh8xpV4xueR0rHE8KED2oE3aTFy1pf5fY8IjqlbrEZ8weSWOuGAQrZqxg==;f1KWJ+O+sBtkNPTTkIDtlg=="
+secured: "ziBf1H6HcsLVa67yAEgfK8MeXqggN88qO4GazdPf3NhBB/4sn+5rvf2KPObF+MLXZV3/m5MoOTWxCodd+ovbEDqfy/eJKOmiagEXkIJho00OzqDFfMMcxGJiDu66dtebXXMMTxNM5eFV7MCip/Q+SnPxlRXPssLeuH5d3D8nOnAq5pQupbQ0Cpc+pTUlfIyvlqNhX7SvXf9J6fnAoaHkTHS575hbWdphYiP/j+lYhK6yQqOOj6FI1vU4b1V5IU7ac8jSp/1AWduDrg9NGnrXHe7Ze/odj76Rr8fpf2wGzYmuL4j0do7FGp2SUVAjyyDApnBgw/ZHkNhuBYoeidRDtrTRloH8sv5dW4ut6s5PKxE=;Vl7QVQkZhfGNJkDocjo0Jg=="
 ---
 
