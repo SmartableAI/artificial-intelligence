@@ -79,6 +79,22 @@ related:
         width: 3480
         height: 1494
         isCached: true
+  - title: "Tesla pushes new Full Self-Driving Beta update, Elon Musk says could slash interventions by a third"
+    excerpt: "Tesla has started pushing a new software update under its Full Self-Driving Beta program and CEO Elon Musk says it could already cut driver interventions by a third. It has been less than two ..."
+    publishedDateTime: 2020-10-31T16:56:00Z
+    webUrl: "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/"
+    ampWebUrl: "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 75
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all"
+        width: 2774
+        height: 1122
+        isCached: true
   - title: "Watch The Most Telling Tesla Full Self-Driving Beta Videos To Date"
     excerpt: "As you can see from these fascinating videos, Tesla's new Full Self-Driving capability rewrite can do some pretty cool tricks, but it's nowhere near ready."
     publishedDateTime: 2020-10-28T13:13:00Z

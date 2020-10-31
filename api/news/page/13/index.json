@@ -2,6 +2,60 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-19-go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence.md",
+      "title": "Go Beyond Artificial Intelligence: Why Your Business Needs Augmented Intelligence",
+      "excerpt": "When algorithms learn from our data, they mimic these imperfections and magnify the bias. There is ongoing research in AI to improve fairness and ethics. However, no amount of model engineering will make algorithms perfect. In the real world, if we are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8d63159b88f08f91ffea5b%2F0x0.jpg%3FcropX1%3D45%26cropX2%3D9480%26cropY1%3D0%26cropY2%3D5304",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/amp/",
+      "publishedDateTime": "2020-10-19T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-appvance-collaborates-with-tech-mahindra-to-power-artificial-intelligence-driven-testing-practice.md",
       "title": "Appvance collaborates with Tech Mahindra to Power Artificial Intelligence-Driven Testing Practice",
       "excerpt": "Appvance, the inventor and leader in AI (Artificial Intelligence)-driven testing technology announced today that it has formed a strategic partnership with",
@@ -1123,58 +1177,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-ai-localization-tool-claims-to-translate-your-words-in-your-voice.md",
-      "title": "AI localization tool claims to translate your words in your voice",
-      "excerpt": "Localization is a tricky issue for all content creators. It can take significant time and resources to make their work fully accessible to folks who speak different languages. One company thinks it has cracked part of that code with an artificial intelligence system that automatically translates speech into other languages in the same speaker’s voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
-      "originalUrl": "https://www.engadget.com/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fe8457890-0fe0-11eb-9ad6-9785dab366ce&client=amp-blogside-v2&signature=42e2cbb5af0ac7376c4143e4322a5319d3229a26",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
-      "publishedDateTime": "2020-10-16T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

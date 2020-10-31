@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-31-waymo-shares-in-depth-details-of-self-driving-car-activity-in-phoenix.md",
+      "title": "Waymo shares in-depth details of self-driving car activity in Phoenix",
+      "excerpt": "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
+      "originalUrl": "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Feda031a0-1b7e-11eb-aeff-c6d8e3737344&client=amp-blogside-v2&signature=64755fdb1c313a1eb2bd21d17cef2c2065e20715",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
+      "publishedDateTime": "2020-10-31T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation.md",
+      "title": "Intel Iris Xe Max GPU arrives in 11th-gen mobile chips to boost gaming, creation",
+      "excerpt": "Intel offers a little something extra as incentive: Deep Link, which allows a system to combine the integrated and discrete Xe GPU's processing power for creative tasks like AI inferencing and ... over models with Nvidia MX chips. Iris Xe Max also adds ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
+      "originalUrl": "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/qNcMO68S_2r4fGl59xhilygsFIw=/1200x630/2020/10/21/992143a0-3303-449c-9a49-a650e2bf34f8/acer-swift-3x-05.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
+      "publishedDateTime": "2020-10-31T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-31-ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration.md",
       "title": "AI Weekly: In a chaotic year, AI is quietly accelerating the pace of space exploration",
       "excerpt": "And last week, Intel, the European Space Agency (ESA), and startup Ubotica detailed what they claim is the first AI-powered satellite to orbit Earth: the desktop-sized PhiSat-1. It aims to solve ...",
@@ -307,58 +411,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-waymo-pulls-back-the-curtain-on-61-million-miles-of-self-driving-car-data-in-phoenix.md",
-      "title": "Waymo pulls back the curtain on 6.1 million miles of self-driving car data in Phoenix",
-      "excerpt": "Over 21 months in Arizona, Waymo’s vehicles were involved in 47 collisions and near-misses, none of which resulted in injuries In its first report on its autonomous vehicle operations in Phoenix, Arizona,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google",
-      "originalUrl": "https://www.theverge.com/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/0rCtvcMvE9CVhAYv64lC5YBQ4yw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67713914/vpavic_181128_3122_0115.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google",
-      "publishedDateTime": "2020-10-30T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -714,6 +766,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-30-google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care.md",
+      "title": "Google AI executive sees a world of trillions of devices untethered from human care",
+      "excerpt": "Everything you need to know about AI An executive guide to artificial intelligence ... The Linley Fall Processor Conference, hosted by chip analysts The Linley Group. Warden offered the assembled, mostly chip industry executives, a wish list, as he ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
+      "originalUrl": "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/10/29/470db163-bd0f-42db-884d-a81b219a724d/warden-2020-what-tinyml-needs-from-hardware.png",
+          "width": 3331,
+          "height": 1816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
+      "publishedDateTime": "2020-10-29T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research.md",
       "title": "Trump faces executive order lawsuit as critical race theory fuels AI research",
       "excerpt": "Google AI ethics co-lead Meg Mitchell told VentureBeat in a meeting with journalists last week. “This was a bit of an intervention with our first social scientists. So our team has been able to ...",
@@ -904,57 +1008,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-30-google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care.md",
-      "title": "Google AI executive sees a world of trillions of devices untethered from human care",
-      "excerpt": "Google says hardware in embedded devices needs to improve to make possible a world of peel-and-stick sensors free of wall power and human maintenance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/10/29/470db163-bd0f-42db-884d-a81b219a724d/warden-2020-what-tinyml-needs-from-hardware.png",
-          "width": 3331,
-          "height": 1816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "publishedDateTime": "2020-10-29T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-30-robot-boats-from-mit-can-now-carry-passengers.md",
       "title": "Robot boats from MIT can now carry passengers",
       "excerpt": "The latest \"Roboat\" is an autonomous vehicle that's about six feet long and is being tested for use in Amsterdam.",
@@ -1110,7 +1163,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1202,58 +1255,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-intel-acquires-ai-software-optimization-platform-sigopt.md",
-      "title": "Intel acquires AI software optimization platform SigOpt",
-      "excerpt": "Intel today announced it will acquire SigOpt, a San Francisco-based startup developing a platform to optimize AI software models ... at BlackBerry developer Research in Motion, FourSquare ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/",
-      "originalUrl": "https://venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/amp/",
-      "publishedDateTime": "2020-10-29T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

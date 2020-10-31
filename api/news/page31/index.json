@@ -2,6 +2,49 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-10-05-raise-2020-a-mega-virtual-summit-on-artificial-intelligence.md",
+      "title": "RAISE 2020: A mega virtual summit on Artificial Intelligence",
+      "excerpt": "RAISE 2020, a mega virtual summit on Artificial Intelligence will be inaugurated today by Prime Minister Narendra Modi at 7 pm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "originalUrl": "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.oneindia.com/img/400x99/2020/10/raise-1601867009.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "publishedDateTime": "2020-10-04T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oneindia",
+        "domain": "oneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-vcs-say-aurora-and-tusimple-are-among-the-self-driving-startups-best-poised-to-become-the-next-waymo.md",
       "title": "VCs say Aurora and TuSimple are among the self-driving startups best poised to become the next Waymo",
       "excerpt": "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Self-driving taxis have taken longer to reach widespread adoption than experts predicted during the 2010s. That may be why venture ...",
@@ -1143,58 +1186,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.md",
-      "title": "The HP Spectre x360 14 gets a lush OLED display and a lot more AI smarts",
-      "excerpt": "The new HP Spectre x360 14 features OLED, while the Spectre x360 13 and Envy x360 upgrade to 11th-gen Tiger Lake processors",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
-      "originalUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/10/hp-spectre-x360-14-front-facing_natural-silver-100860561-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
-      "publishedDateTime": "2020-10-02T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

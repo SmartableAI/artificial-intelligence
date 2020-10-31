@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-27-partnerships-for-advanced-weather-and-climate-prediction.md",
+      "title": "Partnerships for advanced weather and climate prediction",
+      "excerpt": "When I was a child, growing up on an almond farm in central California, the day always began by turning on the radio and listening to the forecasters talking about temperature, precipitation, and something called “evapotranspiration rate.” I didn’t know what all those terms meant at the time, but I could",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/",
+      "originalUrl": "https://blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20200914-5storms.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/amp/",
+      "publishedDateTime": "2020-10-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-researchers-find-language-models-do-a-poor-job-of-following-basic-instructions.md",
       "title": "Researchers find language models do a poor job of following basic instructions",
       "excerpt": "beginning with “turking” tasks where a model must create valid examples of popular natural language processing datasets. (This is meant to simulate tasks commonly done by laypeople on ...",
@@ -364,7 +416,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1199,50 +1251,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-2021-is-the-time-for-ai-to-shine.md",
-      "title": "2021 is the time for AI to shine",
-      "excerpt": "Companies and C-level leaders will tackle kinks in AI head on in 2021, not because they want to but because they have to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/",
-      "originalUrl": "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/",
-      "publishedDateTime": "2020-10-26T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

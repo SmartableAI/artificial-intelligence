@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
-    excerpt: "And a recent mishap at an autonomous racing event showcased just how challenging self-driving technology can be. Roborace — a new autonomous racing series that's still in its testing phase ..."
-    publishedDateTime: 2020-10-29T22:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-roborace-race-car-drove-straight-into-wall-2020-10-1029744243"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://i.insider.com/5f9b302e6f5b310011724515?format=jpeg"
-        width: 2264
-        height: 1390
-        isCached: true
   - title: "The chemistry behind self-driving cars"
     excerpt: "Self-driving, electric cars have been touted as the next big thing in transportation. While this technology has progressed in recent years, experts caution that automakers will need the chemical industry to help make it a reality."
     publishedDateTime: 2020-10-28T18:02:00Z
@@ -62,20 +48,6 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 24
-  - title: "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech"
-    excerpt: "In recent years, newly miniaturized sensors like radar, sonar, and Lidar, along with the advancement of computer technology, and artificial intelligence, self-driving cars have reentered the ..."
-    publishedDateTime: 2020-10-26T23:21:00Z
-    webUrl: "https://www.thedrive.com/cars-101/36937/self-driving-cars"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 19
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2017/01/gettyimages-609845728.jpg?quality=85"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "zAk1olb3c1ewEtngZ9v5KWbEeJi4v7gIip8Jp47dfHbxgzkFsICpTvu9TjVlTidkNhtlgGlPk9E5n1353kXAJnNMV3B0rrnRpn2/rAVU8taU5njmjw/rUOXtaxtyGTQHkaNcJlQGvliF98kIwCR5nnGu3PvGG/DNM8A+IM2psjMuQnFxHdjeyKiOPCtWd8HffPTyaWXtPfbhdPOR3OCfxUqLULCX1G1ZJ/AyULkrKVGiPn8Iq50baOmDzPjxH8gQ/4Cod7VABxVcZTVkObpNIWo5Ro5BBKHq9/EbUOt/8D+kqrf/s69x4yrxUJ9jJ0uVUWj0qDqn/IoANb5XZoqra7HReLZFrU5RcGnuNJVmfr/7jJ1gZyaqyoAQH1HsxIvSN9MSwZGbxLBOF73hU3efkU0B8bS+uAkk7vQyuS+fMkDAIgmVye7XxzsXmvU7gMM8ZUzdAirXIugeDC/HG2gc5/S0KQ+rQ9FcXSJKgvOYCa7iEM0caMRWPeZAgUxw19BufMA6riPiZwMJ+mzW0foXlg==;KAhWCV3I54O/qiMhk5BwgQ=="
 ---

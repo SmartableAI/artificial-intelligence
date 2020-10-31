@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
-excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ..."
-publishedDateTime: 2020-10-22T07:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
-webUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
+excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
+publishedDateTime: 2020-10-22T07:30:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "kkVoFjnPPbM/QQxChqiAw5HlU1sFsyGBfB17Nxe9WDqBoyr1CevWype/is5IMTbYzC7RZH1XL5NNETp6URbJd4nQ8to2shYUE66qy8vYAWDrao5Q+ZwhMkmx52828CSBK5Z2JYi7aWGi1RoXqXpKxWSWKoOFt2GQT/36HN+XIcbJuKhdN6hV/ImXHFUUZLBOK5D8cav14YT2MpxEl5EtWiz5d24FbE3t8Pkr1GfAEMgefv5vxs12IJsplqbKbI6Qmt4gtf3O8MrRLizNMlxsMdkZ/gfLNMEiTui4/myHrYEpimoRyMaELe0YK6+o//sIHJJXcTBqt4r2OsZgA8Dnzv02lZft05aZCuSwYysWtzw=;rQX/D+7GyVGmGFTUqG3qsQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "cVtB/4EYQWS+Fof2zbtWXQanAB17ektAWJ0fJb1uAZKSJRi/8uWZ0V8Lmz+t72liF8jhZJcSt6cDibV4yFdLoqbRyCLt6vMhB49tuBhgj7PAWVHZV+2jM7cZgNOEbNWEZOFNekZWExdVH18NNK78AIR5iBFomFJPOIEiBhBkDY2aJvW4TUQvljdVYDk4Qw895pgu9HyhyXYAkwWauw/N3tIlA5djBaAlWU9HYxBuWeyoX3rvZBw1VqCu4UA8vsM/2Zmu83Qi7mGka8BlwB0UVAZD/A4eapusKjKjWavoEo1s7ec/iWAPxn0m87/CUZNDYDDqiJcgZz3CYvpo/aQjPMu1PnZI7gge4wPuV8PdtUA=;tS1Pm/Bl/TKri9sdXQYxtg=="
 ---
 

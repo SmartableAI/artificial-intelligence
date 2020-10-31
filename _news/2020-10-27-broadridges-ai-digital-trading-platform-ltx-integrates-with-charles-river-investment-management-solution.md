@@ -21,20 +21,17 @@ topics:
   - AI
 
 related:
-  - title: "IMT SoDA Software Simplifies Artificial Intelligence and Machine Learning in the Cloud with Dalet Ooyala Flex Integration"
-    excerpt: "IMT Software, a division of Integrated Media Technologies, Inc. (IMT), today announced an API-based integrated solution with Dalet’s Ooyala Flex Media Platform that provides seamless and automated data movement to simplify the secure transfer of artificial intelligence and machine learning workflow content to the cloud."
-    publishedDateTime: 2020-10-27T15:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-73b6b46757804f09833ca51a303fee08"
+  - title: "Clarity AI raises $15M to scale its social impact investment platform"
+    excerpt: "The fintech said it will further develop its technology and artificial intelligence, as well as integrate with leading financial services platforms."
+    publishedDateTime: 2020-10-30T03:26:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2020/10/29/clarity-raises-15m-to-scale-investment-platform.html"
+    ampWebUrl: "https://www.bizjournals.com/newyork/news/2020/10/29/clarity-raises-15m-to-scale-investment-platform.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/newyork/news/2020/10/29/clarity-raises-15m-to-scale-investment-platform.amp.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
 
 secured: "l/wjE6VxQ7J+L9RDXztNQ4NIZb7P+JtGqB8atz1Fk7uXHuzi86D+3WsphtCImIOBna6Yh5ZWXS9UQGQm2ZoDXRDif+Crd+x/IhYWKqP1nQ2KZeH1wYJFPDmWKWAgN2+kOecahaAusmpUkYKjX7gz2T9DPlqTRF73qFsieadw8HFoTmzuYIAFt9g/pp0UeqqeYSYb0XP/Wzj+RPk950W3sNU8Y6CHJ5L0LTUNifVOFBh7Pnjk277lHHa7yOR+wwyTGWnpjCx2fetJ6v3lN2wntDyoELegCo/Iq0+0HVoLmz6F0xY6I/DYBUGGavjbadjLM1Dh2jmlWJaNxGHn6YmnVad9/Ug3ISAWDaabpiKoYPyx8mIFvwk6NK/amP0T/HauKt73Y5pSO+GlrUbfROuJqOiG5BXZQcCzLzAVY5To6bwhaCQvZe35FB6Y3+Edu1SjrUZedhh2SkSeeWWgBuKVcnS+IruG/kX6/sLj/yHnos6JNQd68Jdr6UcNaU2i8fBCWy0dCMcZLsOW0gLjzw6AUQ==;FDsjxNhg3i8d9tQ8XP/Emg=="
 ---

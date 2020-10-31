@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
-    excerpt: "And a recent mishap at an autonomous racing event showcased just how challenging self-driving technology can be. Roborace — a new autonomous racing series that's still in its testing phase ..."
-    publishedDateTime: 2020-10-29T22:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-roborace-race-car-drove-straight-into-wall-2020-10-1029744243"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://i.insider.com/5f9b302e6f5b310011724515?format=jpeg"
-        width: 2264
-        height: 1390
-        isCached: true
   - title: "The Big Gamble on Self Driving Cars"
     excerpt: "In this episode, Jim discusses the self-driving car, a staple of sci-fi books and movies and predicted by automakers as far back as the 1930's, as was shown in a 1935 Chevy promotional film. With Cruise Automation’s application with the California DMV ..."
     publishedDateTime: 2020-10-28T16:00:00Z
@@ -67,20 +53,6 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 24
-  - title: "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech"
-    excerpt: "In recent years, newly miniaturized sensors like radar, sonar, and Lidar, along with the advancement of computer technology, and artificial intelligence, self-driving cars have reentered the ..."
-    publishedDateTime: 2020-10-26T23:21:00Z
-    webUrl: "https://www.thedrive.com/cars-101/36937/self-driving-cars"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 19
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2017/01/gettyimages-609845728.jpg?quality=85"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "F9bUWcp3wx6uWS+TSq/GAdJ5dm952zSzWtTdkJ+1MIxq6ONRjlT5VbO+98fQax+ovZ2gJgaR0+RUnwAGgAAaIfh8FxdWh7fXSC55uA01tEO9mz7NXFDQULXq2eaVkoqAzwYQBvMVvl0oOlvfiUgzG/vR89FJJMWE2v68UPcuZFb3HJnNxQk0snnsH5ANTVGLld5cF7Q1uRLJ7qtuijMkCnx8OBKFi2t/qdJ3TRCdyqUYhhCC++PL4lVwtsRQS/gR0cHsdYFZJ6RTbfnWxB30ixFDDn8ksnV3WW1M+cHqlGIxKpt5s3H1uWxdOZXdQqRXWXoWJu+yyl47jdnh0GhxGDA9QsOAsyeACLwp0QFst9zxt3KNh5HUCn1Y6aKLj0QNs4DKQ68RITVB4g6Oi2qD7CPG+qZjf6yL1Dm5visTwv8wq7qgZOERUlnEyOeyzzsYyYmdCM6QM/a9Qi5YE54EMBmg5+QzDUHnVLyP0PLdh2qokufJF0s82BtvePigAHzOkRxNpuLVAZzxIaq2vPsqgw==;xCSSA8fP6rdAl+Ea2HO18Q=="
 ---

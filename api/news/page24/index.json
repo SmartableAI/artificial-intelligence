@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-10-09-ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league.md",
+      "title": "IBM Inks Its First-Ever Esports Deal With The Overwatch League",
+      "excerpt": "Blizzard will tap into IBM’s cloud, Watson AI and machine-learning knowhow to 'power interactive and analytical content.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/",
+      "originalUrl": "https://www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7fda7f41d095658868aa45%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/amp/",
+      "publishedDateTime": "2020-10-08T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-imposter-idd-with-facial-recognition-technology-at-local-airport.md",
       "title": "Imposter ID'd With Facial Recognition Technology At Local Airport",
       "excerpt": "With the help of the Simplified Arrival process, customs officials detected a traveler's mismatched documents at Washington Dulles Airport.",
@@ -1136,39 +1188,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-in-video-trump-calls-his-covid-19-a-blessing-from-god.md",
-      "title": "In video, Trump calls his COVID-19 ‘a blessing from God’",
-      "excerpt": "Click here to refresh this page. President Trump made the stunning announcement ... But before President Donald Trump’s coronavirus diagnosis earlier this week Biden had not disclosed full details of his testing protocol or the results of each test.",
-      "sourceUrl": null,
-      "webUrl": "https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
-      "originalUrl": "https://www.msn.com/en-us/news/politics/white-house-chief-of-staff-mark-meadows-ignored-virus-rules-at-wedding-report-says/ar-BB19DZtG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:54:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
-        "domain": "ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

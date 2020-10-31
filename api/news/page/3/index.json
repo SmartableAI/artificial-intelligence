@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-28-the-best-robo-advisors-of-november-2020.md",
+      "title": "The best robo-advisors of November 2020",
+      "excerpt": "Robo-advisors are online financial investment platforms that create and manage an investment portfolio based on your individual needs and financial goals, no human advisor required. You don't need to have a lot of investing know-how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/personal-finance/best-robo-advisor-of-november-2020/",
+      "originalUrl": "https://www.cnet.com/personal-finance/best-robo-advisor-of-november-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/uShYdwQko5eYPhe2Tt1VvSwpYKI=/1200x630/2020/04/09/c02495f4-cfae-4366-95ba-8ecd3c8b444f/gettyimages-1192218172.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-robo-advisor-of-november-2020/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-robo-advisor-of-november-2020/",
+      "publishedDateTime": "2020-10-28T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed.md",
       "title": "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed",
       "excerpt": "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng Motors is less bullish on the prospect. “They have to make a ...",
@@ -527,7 +579,7 @@
       "originalUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1181,58 +1233,6 @@
       "type": "article",
       "ampWebUrl": "https://blog.google/inside-google/life-at-google/how-eurovision-inspired-research-interns-project/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/life-at-google/how-eurovision-inspired-research-interns-project/amp/",
-      "publishedDateTime": "2020-10-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-partnerships-for-advanced-weather-and-climate-prediction.md",
-      "title": "Partnerships for advanced weather and climate prediction",
-      "excerpt": "When I was a child, growing up on an almond farm in central California, the day always began by turning on the radio and listening to the forecasters talking about temperature, precipitation, and something called “evapotranspiration rate.” I didn’t know what all those terms meant at the time, but I could",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/",
-      "originalUrl": "https://blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20200914-5storms.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/amp/",
       "publishedDateTime": "2020-10-27T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

@@ -29,57 +29,53 @@ images:
     isCached: true
 
 related:
-  - title: "Daylight Savings Time Could Miraculously Be Saved By Self-Driving Cars"
-    excerpt: "Here’s today’s intriguing question: Will the advent of AI-based true self-driving cars potentially “solve” the car crash-related concerns entailing Daylight Savings Time and obviate the need to necessarily cancel DST due to car crashes? Let’s ..."
-    publishedDateTime: 2020-10-29T16:07:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/"
+  - title: "Waymo shares in-depth details of self-driving car activity in Phoenix"
+    excerpt: "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology."
+    publishedDateTime: 2020-10-31T16:36:00Z
+    webUrl: "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
+    ampWebUrl: "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Engadget
+      domain: engadget.com
+    quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99f9cf900674c6d06d4c35%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6240%26cropY1%3D316%26cropY2%3D3826"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Feda031a0-1b7e-11eb-aeff-c6d8e3737344&client=amp-blogside-v2&signature=64755fdb1c313a1eb2bd21d17cef2c2065e20715"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Waymo pulls back the curtain on 6.1 million miles of self-driving car data in Phoenix"
+    excerpt: "Over 21 months in Arizona, Waymo’s vehicles were involved in 47 collisions and near-misses, none of which resulted in injuries In its first report on its autonomous vehicle operations in Phoenix, Arizona,"
+    publishedDateTime: 2020-10-30T14:06:00Z
+    webUrl: "https://www.theverge.com/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 97
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/0rCtvcMvE9CVhAYv64lC5YBQ4yw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67713914/vpavic_181128_3122_0115.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Self-driving semi travels across Ohio in test run"
+    excerpt: "On interstates and the turnpike, the lead truck was driven manually while the driver of the second truck engaged its automated platooning technology."
+    publishedDateTime: 2020-10-28T17:57:00Z
+    webUrl: "https://www.dispatch.com/story/news/2020/10/28/self-driving-semi-technology-lead-truck-test-run-across-ohio/3749218001/"
+    ampWebUrl: "https://amp.dispatch.com/amp/3749218001"
+    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3749218001"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PPOC/fc11697a-25ac-4c28-ac27-1ea68c005da9-IMG_0252f8f40dd0-ba7c-4f63-bb61-41f10373595b.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The Big Gamble on Self Driving Cars"
-    excerpt: "In this episode, Jim discusses the self-driving car, a staple of sci-fi books and movies and predicted by automakers as far back as the 1930's, as was shown in a 1935 Chevy promotional film. With Cruise Automation’s application with the California DMV ..."
-    publishedDateTime: 2020-10-28T16:00:00Z
-    webUrl: "https://www.engineering.com/AdvancedManufacturing/ArticleID/20881/The-Big-Gamble-on-Self-Driving-Cars.aspx"
-    ampWebUrl: "https://mobile.engineering.com/amp/20881.html"
-    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20881.html"
-    type: article
-    provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 39
-  - title: "The chemistry behind self-driving cars"
-    excerpt: "Self-driving, electric cars have been touted as the next big thing in transportation. While this technology has progressed in recent years, experts caution that automakers will need the chemical industry to help make it a reality."
-    publishedDateTime: 2020-10-28T18:02:00Z
-    webUrl: "https://phys.org/news/2020-10-chemistry-self-driving-cars.html"
-    ampWebUrl: "https://phys.org/news/2020-10-chemistry-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-chemistry-self-driving-cars.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 24
-  - title: "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech"
-    excerpt: "In recent years, newly miniaturized sensors like radar, sonar, and Lidar, along with the advancement of computer technology, and artificial intelligence, self-driving cars have reentered the ..."
-    publishedDateTime: 2020-10-26T23:21:00Z
-    webUrl: "https://www.thedrive.com/cars-101/36937/self-driving-cars"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 19
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2017/01/gettyimages-609845728.jpg?quality=85"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "dyUiSlLfz3owvIzG43I35oUGRBq+cIgvUQYrIZRvXiAQWU4n3Q7R8AE+pgwqgAZ3Uy2j2bdt9gnU1/K+PUU3OUasg/0qG4jizVx3xuA6+EwY1HBWlFGci2MnlV5sKNw2PHHDuIvfmsaWB2NZWIZBTU/mIosC5Ydp+/oXDsjaIi0qD5GmuVjx/rX1ZZxtGflOXGoD2EdswIapl7PMOV48j0GnsU5BsMfiDGescXLqGLjVCdtfkk766f6WD4SjpSofxI6LXdLEh0FnuA63nBDB7tEsExghXwBKXLJjy7w/fmYmuXOe8ZMiLyToaJ5ZeCrVK64BMEQfKQgvDFCflfLbjbftnYwDELB5rxW4mpiwiN+rg6VtW2e+rXQ0uquy2ok/E3QcB2JoRFTtk/6NzXosuf7WaB0b4xkZoMokfxbv5mifOMnqE5DRRewhDLjg8C0H2NAQa6jDWVnRud4h9/T69Ocic0/AE/zXzWjytVGPQAD0Kdh83wr94tC4oqLVkBZgyC/HBl+VZYUcf4kOKiGvVg==;QhMtmSpaOKcExuZswAvSxg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/business/local-companies/2020/10/27/mckin
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/local-companies/2020/10/27/mckinney-based-ai-company-expands-headquarters-looks-to-add-20-jobs/?outputType=amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI startup looks to double size of team with McKinney EDC grant funding"
-    excerpt: "Following funding from the McKinney Economic Development Corporation, tech startup Alanna.ai is looking to expand its offices and headcount in the city."
-    publishedDateTime: 2020-10-27T00:10:00Z
-    webUrl: "https://www.bizjournals.com/dallas/inno/stories/fundings/2020/10/26/alannaai-randall-nelson-hoyt-mann.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "LOiQTqRSqXTKmZLDxmboxVDUb8e3QVXAc1s9NFEc2/Cj6hVZliTOU8r5o6oquQFq+rcx1qdZUjhw6ak2ZvunPbn8RDRoOIpwD4YKKQLsCgV+KYcD6PyJk6Q3xZCFMafoGD238UJPQ37qguk1LDuFQlk5wDCeud3mYHypKYIhjC1yMM8GLWnsXNHnE3L4wSENmZyYXwjwm99OwzQonBXy/yFVMi2lsQw91p5PEXuPZzltTNZNRuVQgwXZmF22rXJ3bAu7ZvAGHUCpGOeJo0HuJbFHZELtyTKYmlYOVcq01yEdj0O6Fzw2Ttiy4j+O5q60DS/IzmsaIiQhKJClAMqaLVPWn1H12gQGoAoXiI/FaEA=;n0LqQ3KMf410un2lOawQ2A=="
 ---

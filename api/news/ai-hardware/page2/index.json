@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-15-recap-the-2020-ai-hw-summit.md",
+      "title": "Recap: The 2020 AI HW Summit",
+      "excerpt": "One of the companies that did make some big disclosures at the event was stealthy startup SambaNova. Much like the UK’s GraphCore, SambaNova and its inference processing platform focus on solving some of the largest AI models, including natural language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-hw-summit/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-hw-summit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8735e73053aa8ee6859662%2F0x0.jpg",
+          "width": 877,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-hw-summit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-hw-summit/amp/",
+      "publishedDateTime": "2020-10-14T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone.md",
+      "title": "Saturn Cloud Enables Easy and Powerful NVIDIA GPU Computing For Everyone",
+      "excerpt": "Today, Saturn Cloud, the GPU data science company, announces the launch of Saturn Cloud Hosted, an open platform for multi-node multi-GPU computing in the cloud. The platform is available to anyone and everyone: corporations,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
+      "publishedDateTime": "2020-10-13T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-apple-unveils-99-homepod-mini-with-u1-proximity-chip.md",
       "title": "Apple unveils $99 HomePod mini with U1 proximity chip",
       "excerpt": "The HomePod mini is Apple's second smart speaker, and uses the U1 chip for communicating with nearby Apple devices.",
@@ -1309,101 +1405,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-02T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.md",
-      "title": "The HP Spectre x360 14 gets a lush OLED display and a lot more AI smarts",
-      "excerpt": "The new HP Spectre x360 14 features OLED, while the Spectre x360 13 and Envy x360 upgrade to 11th-gen Tiger Lake processors",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
-      "originalUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/10/hp-spectre-x360-14-front-facing_natural-silver-100860561-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
-      "publishedDateTime": "2020-10-02T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-modzy-presenting-at-nvidia-gpu-technology-conference.md",
-      "title": "Modzy Presenting at NVIDIA GPU Technology Conference",
-      "excerpt": "BETHESDA, Md.--(BUSINESS WIRE)--Modzy, the leading enterprise AI platform, today announced that it will be a Global Diamond sponsor of the upcoming NVIDIA GPU Technology Conference (GTC), with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201002005412/en/Modzy-Presenting-at-NVIDIA-GPU-Technology-Conference",
-      "originalUrl": "https://www.businesswire.com/news/home/20201002005412/en/Modzy-Presenting-at-NVIDIA-GPU-Technology-Conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201002005412/en/827132/23/Modzy_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
