@@ -8,7 +8,7 @@ webUrl: "https://elmoudjaweb.com/an-automated-trading-firm-turns-its-machine-lea
 ampWebUrl: "https://elmoudjaweb.com/an-automated-trading-firm-turns-its-machine-learning-expertise-to-venture-capital-investing-jaweb/?amp"
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/an-automated-trading-firm-turns-its-machine-learning-expertise-to-venture-capital-investing-jaweb/?amp"
 type: article
-quality: 45
+quality: 47
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://elmoudjaweb.com/wp-content/uploads/2020/10/An-automated-trading-firm-turns-its-machine-learning-expertise-to.jpg"
@@ -42,6 +43,6 @@ related:
         height: 273
         isCached: true
 
-secured: "8WKy7cj/6LKIoWndSRwzezr7P6aJASoRtA6hb9DNSUUHPC2whBmn066LKvcawcM3LnAultRWh1Hrw6O28gfL+hZpnQWQ0OEXhLFC25VFarHO3Nc600k6jRqYaRnbspmxnhMYySZI1k0Gt0umFLipCi7NtJdHk1dVyzS1TTQwdWxiziHfNMGmA46zMTlmNbVeeG0chpmV9UHilR7CTIR7oMsQ23oJcTXSnGdyOQpCO27VDKhXfNliasQepz5mEj/zJN8wnccM1HLc+N2tilVGPthQbn5r7Jy+L0WjAKiAHHVjA+wRCG2PiF68v7S4Z10rcnIc25sAndgZFxpu1LFwQ+ao849cDoNwt4TdQmTt6Oc=;BT/B1F0EL9ETz81vDk7NZQ=="
+secured: "u/Cod4k0ImfSk7X2XXSReneRUdCGhP3WANirsBA+flSNhwyDuS102eKa37BSvx1zNugXXbl6s2W/zU4pO3z5jLHIABZJeGKQ3uTycRQ44X4Db1pDX/oRK0U3H2/9xHVQEh9LnocIxpkA65o0JDWfyCrVTw10lb2/QvNxK2r6dL2D+UXBqvoSjnUkY/P55bVQftO8DpxLC7wpZtav5GO9IAWIf4RHds6ay68E1/n9HX6VqBC1z+yWdO8yxd/Tjbi4z+5f435ApO5ambv9Aeoy/Psu6blUorhMFc8OkYq+aAwaPte4T/C9tqhMzc39JVS5/EB5+CljKzurjF4cbkJ1gHhnB1fceMOPnA5IZ8hw4+gAgo5l9nVPoi/BrRHe71cI90FT71NYmKcVVkCHgnq2HvNJHDoS8v8rNVofuBaHAr6N+oUdEd1GMAzaCfo5gpPagFoW3RYwmAR+OYFrRBLzEmJiqxBjb1/KkXC8aVrkK8Tqcs0opapMyjcN4mJKsXlaE2Bobt8QTQ+zqgObUdO+4A==;dYvj4QS+55P5GhO9K+VOJA=="
 ---
 

@@ -96,16 +96,16 @@ related:
         height: 545
         isCached: true
   - title: "Intel Launches Its First Discrete GPU for Laptops, the Iris Xe Max"
-    excerpt: "(Credit: Intel) The GPU—also known as the DG1 ... Topaz Labs' Gigapixel AI, and XSplit Gamecaster will be able to tap Deep Link, and support for more third-party software is arriving in the ..."
-    publishedDateTime: 2020-10-31T16:11:00Z
-    webUrl: "https://in.pcmag.com/graphics-cards/138965/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max"
+    excerpt: "The chip giant also tipped news of an early-2021 card version of the GPU for PC makers to employ in lower-cost desktops."
+    publishedDateTime: 2020-10-31T15:01:00Z
+    webUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 69
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/i/intel-laun/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-x_rpsw.1200.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/intel-laun/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-x_zwcq.1200.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -120,6 +120,20 @@ related:
     quality: 69
     images:
       - url: "https://sm.pcmag.com/t/pcmag_au/opinions/i/iris-xe-ma/iris-xe-max-5-things-you-need-to-know-about-intels-first-dis_cdqb.1200.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Iris Xe Max: 5 Things You Need to Know About Intel's First Discrete GPU"
+    excerpt: "Intel's Iris Xe Max, debuting on laptops first, is the first discrete graphics solution from the chip giant, but its purpose and feature focus may surprise you."
+    publishedDateTime: 2020-10-31T17:00:00Z
+    webUrl: "https://uk.pcmag.com/graphics-cards/129732/iris-xe-max-5-things-you-need-to-know-about-intels-first-discrete-gpu"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/opinions/i/iris-xe-ma/iris-xe-max-5-things-you-need-to-know-about-intels-first-dis_zxg2.1200.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -152,6 +166,6 @@ related:
         height: 451
         isCached: true
 
-secured: "ONyT0BYUrUydgKBLqRBMkDX112AcJxf2xrn0psYAaqEuirvE019S3sFEyClEuY3ePkaMnRpjZ8Ui1FKlwJ5kqu5JX2j4A/yq9psbSDSPpHOk8Ohyl8oCcxUsG67NEnWTd9ADjj4fO9m/Ywq2UBhsZ32RRX2JDOsxcNk6H51r0352zXTCUET32sfC8YB9nqVN1p6j+h7Lp3vkvbTxD3ShRVN4ezOYDAStRVrlcS2o2rHXsOOPipzidpWQT1ZujIDFGtSafHc1E121Yfle1Shuk9Hk2Izy3XChcCROnpFRR4NzQwwEVE4V3edPgv1+6aSE5JBiI0zyWWH3Te+V1b4j/J/MmMJiRBOg/YQOK9ikOPs=;c+Xb81Aupob4i7svXChivg=="
+secured: "yAEWJCgPvxwZ+qrNtucj5LXk3AkhC0ejVIl5LA35PuwK0KaklWW1TYzqvp0kN3Y7vzsqhLsfe6u/xoXS08cauDS/gS4AfW8Z6BPMEjjt937zJPKe3mcV3oqW0jUsCQhlMvVpvnF6sRlMItSQls0yyIQ2qjQZhBntfUnTym7gtQNPtFnbrQkylHN8qytChrY3iZcl58I/NL8HXOmJnkdrPvS/WjGe6khEx16m5iIaVsB2cPsr7rfCie0mFWMUT1XjuUS7mfm0xqEHRFOEdy1CHOqahgjyiuzJ2D1Rufncp2hJ+hru0ZAOOuKZ0IXK+82x//Jq2wTG7c62aPJNos0xZH7t0xkmzifpRAVp+ZLeMvTiJZ3W8vuUFWk8AJm71kSiD8HIsfj7v68q66sV2MXWw7PeRz5zn6ydf5eL0gpX7rDqPzgR6dbF1NeSOcvDFrk2ICCBqo8+gdBGWpWiOfLTaREBFDPXC2DyAkdo2iLTqCPQYCaehhDuYgfay/BRnP2it6v9AjkpuHGhIId1L4ewXQ==;BqChFG8RG3DN1ajdATVMag=="
 ---
 

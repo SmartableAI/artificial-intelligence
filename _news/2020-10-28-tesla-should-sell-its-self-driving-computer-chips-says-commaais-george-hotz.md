@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/"
 type: article
 quality: 117
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
       - url: "https://images.hgmsites.net/hug/2020-tesla-model-x_100736314_h.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed"
+    excerpt: "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng ..."
+    publishedDateTime: 2020-10-28T11:16:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/28/915555.jpg"
+        width: 1240
+        height: 697
         isCached: true
 
 secured: "YCQb7yJ6BBcfn8OW54MAHQ+A8POBjF2nzhYRJKO+kJdhaAHuO+Gbasqnlst4mW1i+RF/EFj8XW10SjqxkYeHcbjMXjJ0ODQLsjFhR9q8lUXrZQfchTkGlrUDrFMu6LiDCJXYp8ZYc0+Iiv0F/zj32gKjS0ZABu10eQdH9bx6X1XhIjjmGPi4KTEsGsV3BdRR/cia1d/xc5D2b0JgUBnYIuWdi1m+kx3uFqzzKqM4gTjMFCl+b/AHmOOzbP4yIOiro4g2+cWbYMp/0E0KUsTW1vgf+KQrleAf8rtLv8AfaNLBVrxyHEwkbRgTwH0Np2AyBtPFf6Nk9avR1A138pUNVOE2nz3AURZy19Cb8QlLbsWqtDM2kbTO2BaVoFa4p92JMPf81Y2ad4CVORKyFJ1J5AWOZyKfJxMWD/3EeGmwE6SBeAbxSgMn6sp3JdFx34BQnlLqTio6AEOfFDMtc44AfJ+9D9LXEnQqjVxorXXLFCbBNU4o6mXyB7bznmL2NSnWDG8JhAZncvDKr0IfTBoq0A==;nPK22tCD+ZBDSAoOloRiFg=="

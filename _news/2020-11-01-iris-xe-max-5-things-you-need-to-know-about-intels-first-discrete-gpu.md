@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Intel introduces Iris Xe MAX Graphics with discrete GPU and Intel Deep link"
-excerpt: "This framework helps maximize CPU performance and boost artificial intelligence (AI) creation performance ... can also deliver 1080p gaming at par with Nvidia GeForce MX350 GPU. Intel has added Game Sharpening and Instant Game Tuning as well which will ..."
-publishedDateTime: 2020-10-31T16:54:00Z
-originalUrl: "https://www.techradar.com/in/news/intel-iris-xe-max-graphics-launch"
-webUrl: "https://www.techradar.com/in/news/intel-iris-xe-max-graphics-launch"
-ampWebUrl: "https://www.techradar.com/in/amp/news/intel-iris-xe-max-graphics-launch"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/intel-iris-xe-max-graphics-launch"
+title: "Iris Xe Max: 5 Things You Need to Know About Intel's First Discrete GPU"
+excerpt: "Intel's Iris Xe Max, debuting on laptops first, is the first discrete graphics solution from the chip giant, but its purpose and feature focus may surprise you."
+publishedDateTime: 2020-10-31T17:00:00Z
+originalUrl: "https://uk.pcmag.com/graphics-cards/129732/iris-xe-max-5-things-you-need-to-know-about-intels-first-discrete-gpu"
+webUrl: "https://uk.pcmag.com/graphics-cards/129732/iris-xe-max-5-things-you-need-to-know-about-intels-first-discrete-gpu"
 type: article
-quality: 87
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
+  name: PC Magazine
+  domain: pcmag.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,7 +23,7 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/6i3iRYCSdheSouvvHuTt6R-1200-80.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_uk/opinions/i/iris-xe-ma/iris-xe-max-5-things-you-need-to-know-about-intels-first-dis_zxg2.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -62,6 +60,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/10/intel-tiger-lake-core-iris-xe-max-logo-100864467-large.jpg"
         width: 1199
         height: 854
+        isCached: true
+  - title: "Intel introduces Iris Xe MAX Graphics with discrete GPU and Intel Deep link"
+    excerpt: "This framework helps maximize CPU performance and boost artificial intelligence (AI) creation performance ... can also deliver 1080p gaming at par with Nvidia GeForce MX350 GPU. Intel has added Game Sharpening and Instant Game Tuning as well which will ..."
+    publishedDateTime: 2020-10-31T16:54:00Z
+    webUrl: "https://www.techradar.com/in/news/intel-iris-xe-max-graphics-launch"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/intel-iris-xe-max-graphics-launch"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/intel-iris-xe-max-graphics-launch"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/6i3iRYCSdheSouvvHuTt6R-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Intel Iris Xe Max GPU is launched, helping thin laptops deliver impressive gaming"
     excerpt: "offering up to a 20% performance boost for the processor versus a laptop with an Nvidia MX350 GPU, Intel claims. Deep Link promises a major boost in content creation workloads, and also with video encoding. We’re talking 7x faster AI-based creation ..."
@@ -123,20 +137,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Iris Xe Max: 5 Things You Need to Know About Intel's First Discrete GPU"
-    excerpt: "Intel's Iris Xe Max, debuting on laptops first, is the first discrete graphics solution from the chip giant, but its purpose and feature focus may surprise you."
-    publishedDateTime: 2020-10-31T17:00:00Z
-    webUrl: "https://uk.pcmag.com/graphics-cards/129732/iris-xe-max-5-things-you-need-to-know-about-intels-first-discrete-gpu"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/opinions/i/iris-xe-ma/iris-xe-max-5-things-you-need-to-know-about-intels-first-dis_zxg2.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel Launches Iris Xe Max Discrete GPU With New ‘Deep Link’ Feature"
     excerpt: "Intel announced the launch of Iris Xe Max, its first Xe discrete GPU, which will use the company's new Intel Deep Link framework that aggregates CPU and GPUs to accelerate performance."
     publishedDateTime: 2020-10-31T16:27:00Z
@@ -166,6 +166,6 @@ related:
         height: 451
         isCached: true
 
-secured: "vG8uxgeiBfkqAzycALExG9iUbZXKUUP5mecIEUtV/EWNSHLcSDBgDgSsots1yd+iU9iPFbG3jfFXlpRL1gtAP8+FGoTwhl25zScypZbgQQ8+kyb3IVCGivDgbtuHix98hyLwogcT6FSUxM5edYB73VyMWy+WZI0i37dAmVWR8hW2s3bUjVKXdUf0YDzU4Dl6oW9wP9yerbVULtuoMffIsVDu7Vsn32oDXqpxgqifN2ouoM8uo68lO/PH4jEWsun8Mhg4QcaK5Hqf1/OUtlRJO6jE7gT+fdnjjGKmSyLsC8QAHiSgTnFYi4Azxc2b/DRZcG17gBRPyoOedRWqz7F8oWUVuELGibHwq/QsTt5kSMpMMCMVdB5ab/ZcQnfyVgad/HM8z3kDFFsAjQHHhRPKrt6RKNElr9/3ZdSRvSiTl3+xjrwB/e1W4TI+NJNUjs+IOnbHqaJgs4e5LQhSKvCYzMH7/amKZSpFGCp3/121rsx+Hg5TR0W2wV76IX18/WWE4ECEsQ6GCB79a2nas1uaQg==;MWjiU6fkXCGYlqlweaR4tA=="
+secured: "v5z1I5FyttgELu3yfVkCxSsEsvwanYY8jltJBQH2CLzd85P4BQx2EB25ddVtHRj444w+n5rnyKx1G8zowp+jcGyoI/SUPCPWCsaRvgIB8GBWK2UnrmrMkCA87STSNjAdi4K8mxCpGX7GnLfw2g6jg8YUs9h6zs29MBAb5P+1qV4yzxjjo1TobdAzN39EWHM87giJfb4wiL44ItVsgE0HEkxtJApjl3BtVMgiVwg++hxyDSmNPU8x6/dYZ7DghQg026k931gv0uva1pjIhjUj/zmJRUC44QGSuuauLAGhj+Ou35LWL82BCS8RzM0S7uPIzvOils46AjLEUQrqgconqWlCRpXNSxQH1xnxfBARoIc=;/OFx11QZG0lE6AiOoloRMw=="
 ---
 

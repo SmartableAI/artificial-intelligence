@@ -40,7 +40,7 @@ related:
     provider:
       name: Elmoudjaweb
       domain: elmoudjaweb.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/10/An-automated-trading-firm-turns-its-machine-learning-expertise-to.jpg"
         width: 1200

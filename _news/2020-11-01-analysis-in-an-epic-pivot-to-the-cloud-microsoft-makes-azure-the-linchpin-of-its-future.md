@@ -64,6 +64,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
+    excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete end-to-end monitoring and control capabilities, and ..."
+    publishedDateTime: 2020-10-30T10:47:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 60
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-28T03:00:00Z
@@ -102,6 +116,6 @@ related:
       domain: newswiretoday.com
     quality: 17
 
-secured: "7LyWkFUWFG2SBgVAVcJQq4xEYybNnrBFLyX+ItF3NDVRK/TkYdDZnJeJrW+oa1R05xfwSZYrYYMoS/BvRCI4XJOY2ggkkvQv/yoTqqdRw2AY0hjiWIAJ7qEX8Ngs3UCMbQHZA7qdW/n7RShmitIuCsQFaZQiDJcmtyMQKx7HEAhxcAcAJmcIsRyEhI9344+S27bsTm5/tE2sL/znG4Vi9Y+uBY8G51/UvsBijSbVYj9AvzD+cW4jp06VbNjbU3Eq9Ui8ZgBFKz3/hxj+6/ky+gnBZWddPtWFxsQS2wyDMNHHU/VECgCNMRDkxCS3YzlAHLkID/VHCWLr5lqvM2ufm45Edfoch3Pv26wIRW//2QM=;InARGZBcdg8P1Bwvkm8nWg=="
+secured: "iRvFGd8up6pnoTK9MaxRoJc8EHQhfvX/oxCSAVKkBsLSXdDuhZnpK4gTp3BKna5dU7+5LUVQE9mz5EQRJNipNCLC3QlfOJG2XdVk+9fuUpNZBkDfQE9+3TfCFakvIwzmmUQlLDk16GoAptpyxo6JR1sL7ieUPQmMDqATi4ZdnL73gFSsQK58dYdf982XBXhYDFNSXqLM2bxo+UDS36L3gPXT5k3XwOix+vPH9M0upRAxLlI/6wKNIIXNdW6z69hr6dyjWQW8VHrbDe11ADYwlaKF7qbaD4i6JGxjadUT5n9++JwF3eMGcSegjXRc4Cw/fWPy6o/0p9YF6AnkwZuhPkK++Ivg8eTicYEBbZChA7wnOP22La1SvZiG98+f54exBgC1M3hd011rTaF24kKlb02WfOiVpNHYJfDHIpkHMpI6rLsiV97yYxdptLL5lRjrBXNeKhdngO4Urzp8dCqdkUXxVAPQSlphLEL+VGXlZlKVUJCG+SZDjukLIji4UvE/yhD2RsfiyUTV/MF0MRbdeg==;R+/jTrD4j09aLDV2+nIfAA=="
 ---
 

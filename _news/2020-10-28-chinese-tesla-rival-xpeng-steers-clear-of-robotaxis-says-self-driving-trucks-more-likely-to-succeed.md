@@ -1,67 +1,141 @@
 ---
 category: news
 title: "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed"
-excerpt: "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng Motors is less bullish on the prospect. “They have to make a ..."
+excerpt: "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng ..."
 publishedDateTime: 2020-10-28T11:16:00Z
-originalUrl: "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis"
-webUrl: "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis"
-ampWebUrl: "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis"
-cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis"
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed"
 type: article
-quality: 74
-heat: 94
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: South China Morning Post
-  domain: scmp.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/28/15c96424-18cf-11eb-8f67-a484f6db61a1_image_hires_142109.jpg?itok=umrS2udr&v=1603866075"
-    width: 1200
-    height: 630
+  - url: "https://apicms.thestar.com.my/uploads/images/2020/10/28/915555.jpg"
+    width: 1240
+    height: 697
     isCached: true
 
 related:
-  - title: "China’s robotaxi services an important first step in building smart transportation, says Chinese ministry"
-    excerpt: "China’s transport ministry backed autonomous driving as an essential part in building a nationwide smart transport system and said it encourages cities and companies to roll out pilot programmes including robotaxis and V2X (vehicle-to-everything) systems."
-    publishedDateTime: 2020-10-29T06:04:00Z
-    webUrl: "https://www.scmp.com/tech/start-ups/article/3107572/chinas-robotaxi-services-important-first-step-building-smart"
-    ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3107572/chinas-robotaxi-services-important-first-step-building-smart"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3107572/chinas-robotaxi-services-important-first-step-building-smart"
+  - title: "Tesla should sell its self-driving computer chips, says comma.ai’s George Hotz"
+    excerpt: "George Hotz, CEO of comma.ai, argues that Tesla should sell its self-driving computer chip and create some competition to Nvidia in the process. Hotz rose to fame through his hacking feats as a ..."
+    publishedDateTime: 2020-10-27T21:49:00Z
+    webUrl: "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/"
+    ampWebUrl: "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 57
+      name: Electrek
+      domain: electrek.co
+    quality: 117
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/29/9e978c36-199c-11eb-8f67-a484f6db61a1_image_hires_140810.jpg?itok=pqytat8y&v=1603951698"
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?quality=82&strip=all"
+        width: 1587
+        height: 706
+        isCached: true
+  - title: "Tesla's 'Full Self-Driving' is now a lot pricier"
+    excerpt: "Elon Musk wasn't kidding. Tesla's Full Self-Driving (FSD) set of features has become more expensive, increasing from $8,000 to $10,000. Musk has long held the view that FSD will become far more ..."
+    publishedDateTime: 2020-10-30T15:34:00Z
+    webUrl: "https://mashable.com/article/tesla-fsd-10000/"
+    ampWebUrl: "https://mashable.com/article/tesla-fsd-10000.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-10000.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F10%252F30%252Fbe%252F50e6cde1da7646e095c807f054da230e.9c26b.jpg%252F1200x630.jpg?signature=B1josSNIuhq320I9HGHojg22qJc="
         width: 1200
         height: 630
         isCached: true
-  - title: "Watch a self-driving Roborace car drive directly into a wall"
-    excerpt: "Roborace team SIT Acronis Autonomous suffered an embarrassment in round one of the Season Beta 1.1 race after its self-driving car abruptly drove directly into a wall. It’s not certain what led to the mishap, but track conditions clearly weren’t at ..."
-    publishedDateTime: 2020-10-29T15:36:00Z
-    webUrl: "https://www.engadget.com/roborace-self-driving-race-car-drives-into-wall-142758048.html"
+  - title: "Watch Tesla Full Self-Driving Beta’s performance from the sky with scary near-miss"
+    excerpt: "Today, we take a look at an interesting new video showing Tesla Full Self-Driving Beta’s performance from the sky in a new drone video with a scary near-miss. As we reported last week, Tesla has started pushing the first version of its “Full Self-Driving” feature that autonomously navigates on both city streets and highways."
+    publishedDateTime: 2020-10-30T16:18:00Z
+    webUrl: "https://electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/"
+    ampWebUrl: "https://electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 54
+      name: Electrek
+      domain: electrek.co
+    quality: 83
     images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fb825ca40-19ed-11eb-bb3b-04bd00ecab5d&client=amp-blogside-v2&signature=254fb6ed3de8a2aa597ee4257fa5042443c273a1"
-        width: 945
-        height: 630
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-test-drone.jpg?quality=82&strip=all"
+        width: 3480
+        height: 1494
+        isCached: true
+  - title: "Tesla pushes new Full Self-Driving Beta update, Elon Musk says could slash interventions by a third"
+    excerpt: "Tesla has started pushing a new software update under its Full Self-Driving Beta program and CEO Elon Musk says it could already cut driver interventions by a third. It has been less than two ..."
+    publishedDateTime: 2020-10-31T16:56:00Z
+    webUrl: "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/"
+    ampWebUrl: "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 75
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all"
+        width: 2774
+        height: 1122
+        isCached: true
+  - title: "This self-driving racing car could have done with a driver"
+    excerpt: "Roborace is described as “the world’s first autonomous competition for human and A.I. teams, using self-driving technology in immersive environments.” Competitors use the same electric drivetrains and chassis, with each team tasked with designing and ..."
+    publishedDateTime: 2020-10-30T05:40:00Z
+    webUrl: "https://www.digitaltrends.com/cars/watch-this-self-driving-racing-car-slam-straight-into-a-wall/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/watch-this-self-driving-racing-car-slam-straight-into-a-wall/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-this-self-driving-racing-car-slam-straight-into-a-wall/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/roborace-accident-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Watch The Most Telling Tesla Full Self-Driving Beta Videos To Date"
+    excerpt: "As you can see from these fascinating videos, Tesla's new Full Self-Driving capability rewrite can do some pretty cool tricks, but it's nowhere near ready."
+    publishedDateTime: 2020-10-28T13:13:00Z
+    webUrl: "https://insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/"
+    ampWebUrl: "https://insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/KjQGG/s1/tesla-fsd.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tesla increases price of Full Self-Driving to $10,000"
+    excerpt: "Tesla continues to raise the price of its Full Self-Driving (FSD) electronic driver-assist feature. The company raised the price to $10,000 this week, up from $8,000 previously. The feature cost $ ..."
+    publishedDateTime: 2020-10-30T12:40:00Z
+    webUrl: "https://motorauthority.com/news/1130135_tesla-increases-price-of-full-self-driving-to-10-000"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/2020-tesla-model-x_100736314_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
-secured: "68I982LmapVAcJDyjPs0ad5RyUqhXxZzClAsbEEQFXOacXUcyu9SSyralJR4xHy3d17eWECX6mar/gUvXl68l0NX6fdW3D27PRaFf9n4Y7o6S7gP/XdkWzKR5uXMkkbVGLVotIRDYgRscA2PmkoLInl2akaJKK9FaSeJ0MjJig08C6o6TAk3WAE2YM/zY53eMvqDKsg/OYkzed40vWkL7dIm/dqA5M6oPGYw/qkzuwfaHzd8Rs+BkJUXMPhF3QcKIpOzZZJbQLY/zlvn38ppODlbnUfyLouPnY4jBO+SOmMlvyL6hqUiduQrDp8kA2fiDgoppQ2tpjIkvo632l6oKYTTWL78jaPdO3j5sEjRd2euq6IaA0lkQueGiPEYrWu0PZUbXiuhdPtaHG9wgr9Kz0TTtpKX4tW+87B8I5T8NgMwQTCJNt1YnXssw81jdsEXhBHZqNPnv98p6JpaMC7v5jFoVDJ80Hsj2MOse7jhYQQeubXFZQLePFDCaqcPp5goSUw7dYHSNun59uK4yyZv9A==;UMDE6LmR+8KTVaE5Q3zAIQ=="
+secured: "qv+1ZYWhMpuuE80yIQqdtgzdzdUGLme5K68gTqpNlrSDAEDtnhIgLNdM0VbWAIsQDUAYiAk/iIpFVgXMUMYsVPcDcZ8FWWsNLfAM8EyITWqfVMNszGRyLPQwnQi1oO9Bzxj1TxrKyZy5nGGcxpvg8u70h74XwYhn2z5WZp36P4hm6nMWfaEbqtDvEBOOAieAWlD/4iu/YMwsKEtGlumJX0t9h6ohnfbQp6JKVi3x+3aT0WUxfZmEEzxKeIrABVaNWwElDVJAqyyCgBzyzAOMt02Lfb0Nl/rhm6Y5HFDfKGdKmFP2uN1AcPx9hCv1LclWPpt9QHJdvQ0JHbHHBgvhxiNlZYrIFwcovP8Xhk1dIQc=;Y240GNTI8+UkG5zqOU3TVw=="
 ---
 

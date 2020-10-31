@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3107572/chinas-robotaxi-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3107572/chinas-robotaxi-services-important-first-step-building-smart"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed"
-    excerpt: "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng Motors is less bullish on the prospect. “They have to make a ..."
-    publishedDateTime: 2020-10-28T11:16:00Z
-    webUrl: "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis"
-    ampWebUrl: "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis"
+  - title: "Transport Ministry Supports Self-Driving Pilot Projects in Beijing, Shanghai, Hebei"
+    excerpt: "China’s transport ministry has said it supports pilot projects in frontier fields of smart transport such as autonomous driving and vehicle-road synergy in the cities of Beijing and Shanghai as well as Hebei province."
+    publishedDateTime: 2020-10-28T11:33:00Z
+    webUrl: "https://www.yicaiglobal.com/news/transport-ministry-supports-self-driving-pilot-projects-in-beijing-shanghai-hebei"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 74
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 33
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/28/15c96424-18cf-11eb-8f67-a484f6db61a1_image_hires_142109.jpg?itok=umrS2udr&v=1603866075"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Watch a self-driving Roborace car drive directly into a wall"
-    excerpt: "Roborace team SIT Acronis Autonomous suffered an embarrassment in round one of the Season Beta 1.1 race after its self-driving car abruptly drove directly into a wall. It’s not certain what led to the mishap, but track conditions clearly weren’t at ..."
-    publishedDateTime: 2020-10-29T15:36:00Z
-    webUrl: "https://www.engadget.com/roborace-self-driving-race-car-drives-into-wall-142758048.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 54
-    images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fb825ca40-19ed-11eb-bb3b-04bd00ecab5d&client=amp-blogside-v2&signature=254fb6ed3de8a2aa597ee4257fa5042443c273a1"
-        width: 945
-        height: 630
+      - url: "http://img.yicaiglobal.com/cdn/news/transport-ministry-supports-self-driving-pilot-projects-in-beijing-shanghai-hebei/8912044003164160.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "aCD3AzvaRXIqdFpXH+DdOxK3epOrVzjRvfxgHhgn3kyFReAA4/YvHVLy+sC03VEUv76SxiJAcTpErtB/EZ4LGhx788aSaN3l5r540mFV5LGWdulER4Hip/BNqjOg4Ki+1UrxWx+lG90EpUInZORVhlEZcRKorS3s4TKfRZ3iefmptVHydgMYKT/Hgq4MDbBLMOa2HFCG17XnGSbpOGfbXCo08+AoS2icaI5IM4j5nfkSVcaUZJnM2SFnARNG2/ICCIwr1S7LA+Y6vkc83XJZXXUESpugcqvbgitKt1dCwk1sb2kUARRJY+zl0OJDIPI21JMegjQiG2q/RDUZidGwlUz3Sy11dC6OBdCu4gc6jtugX7HeYb2Kkvh7dhF4aT1i9Ogh9CFNJeaT/f4XR8J/Zt5XoPZZI9T++mwEU/d8CfS9b44drpcGyXQEGa8m/J/6XdFknXEUOiMQTXctnlyN7k339ObLu93njMlt0BcGyLff10cv5qtP+NQw6PeKgYUd3hKiRTXAiDXWRyhEkVeUBg==;lKlK+bBXsvVt6G/lkc4o9g=="

@@ -1,63 +1,121 @@
 ---
 category: news
 title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
-publishedDateTime: 2020-10-30T10:45:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-corporate-news-environment-and-nature-734d597e03cb3667b0d8a9f1c5008832"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-corporate-news-environment-and-nature-734d597e03cb3667b0d8a9f1c5008832"
+excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete end-to-end monitoring and control capabilities, and ..."
+publishedDateTime: 2020-10-30T10:47:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
+webUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
 type: article
 quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
-  - title: "Microsoft develops new machine learning model to detect password spray attacks"
-    excerpt: "Microsoft has developed a new machine learning model in order to autonomously detect password spray attacks. The model has vastly improved performance compared to its previous heuristic mechanism."
-    publishedDateTime: 2020-10-27T04:56:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/"
+  - title: "Microsoft announces its first Azure data center region in Taiwan"
+    excerpt: "After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia,"
+    publishedDateTime: 2020-10-28T17:03:00Z
+    webUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/"
+    ampWebUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 102
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 99
+  - title: "Microsoft Azure to build a first cloud data center region in Taiwan"
+    excerpt: "Its existing Taiwan Azure hardware systems and infrastructure ... in cloud software and hardware infrastructure for AI, IoT and edge products. Meanwhile, Microsoft’s training initiative in ..."
+    publishedDateTime: 2020-10-28T00:46:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2015/04/shutterstock_222320305a_story.jpg"
-        width: 760
-        height: 506
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Microsoft Improves Password Spray Attack Detection Using Machine Learning"
-    excerpt: "Microsoft on Monday announced that it has developed a new algorithm based on machine learning that improves password spray detection in Azure Active Directory (Azure AD)."
-    publishedDateTime: 2020-10-28T19:17:00Z
-    webUrl: "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html"
-    ampWebUrl: "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp"
+  - title: "Microsoft Azure to build its first cloud data center region in Taiwan"
+    excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
+    publishedDateTime: 2020-10-27T20:43:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
     type: article
     provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 75
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
     images:
-      - url: "https://www.techworm.net/wp-content/uploads/2020/10/passwords.jpeg"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
+    excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
+    publishedDateTime: 2020-10-28T03:00:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/28/attackiq-microsoft-azure-sentinel/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 53
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
         width: 1200
-        height: 675
+        height: 627
         isCached: true
+  - title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
+    excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
+    publishedDateTime: 2020-10-31T18:43:00Z
+    webUrl: "https://siliconangle.com/2020/10/31/analysis-epic-pivot-cloud-microsoft-makes-azure-linchpin-future/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 45
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/AdobeStock_321471082_Editorial_Use_Only-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Microsoft sees strong growth in latest financials – as analyst puts Azure bigger than Windows for first time"
+    excerpt: "Microsoft has reported revenues of $37.2 billion (£28.8bn) for its most recent quarter with Azure revenue growth at 48% – as one analyst argued Azure has overtaken Windows numbers for the first time."
+    publishedDateTime: 2020-10-28T13:18:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2020/oct/28/microsoft-sees-strong-growth-in-latest-financials-as-analyst-puts-azure-bigger-than-windows-for-first-time/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 35
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-471179856_k05DHIS.jpg"
+        width: 1254
+        height: 836
+        isCached: true
+  - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
+    excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."
+    publishedDateTime: 2020-10-30T06:52:00Z
+    webUrl: "https://www.newswiretoday.com/news/174030/Flood-Prediction-Project-Powered-by-SAS-IoT-Analytics-and-Microsoft-Azure-Earns-National-Innovation-Award/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 17
 
-secured: "4FUBsxGxG99rIS9EVKoxnf9yVx2PhPluO3C+sI39TsrKPQ8gFQ+F6T6v0yyfP3Zk98x1x2cq2pHFBa067LRWTWFH7W+ul46dySuiWREFa3X1W9QpQ4kltlCd/Ye7ZTjCzQtHVPOvPg/eP3br3PFZVxT6Gf3Zn97Jh/Ax4UcvVMM/uIzroa2TpgWiPo5tHWSG5N8A237qk6K498kw6XOFcxdo0tImDc5iSxgyaRb1G7/Vwxdvic38p5Dsn0cuXGI+MqH3KD2WnGng7tQzxaiBLxNRx2+5hhyAUYCCCj9+GK1mTj2X/bZXCgi2OjUnWvjebEXkz+LlRPq2AlCVHAJkkTPsNOENLHXFtcarPLjQj4M=;Sn7tIGzIENcmfC9Rlbxs9w=="
+secured: "UUvgm7QmtHsYXlfqYwIWPEYLAc+lUJBU6yirn2cGkL1+k3QT3guY6z7dz/NcNwih7kHVYMUs2aqH2mPT5Q0gX/tGARMlXzHyVJQFANzsrViJ4Un/PAg5VO/miwYaV/AP0xMasVhnZzzUhlbUykaSkNt9f4JZUk0IJ4abwzDNjZBdTvjOJZ5jS+dHEX4/qR7Z2GnfSUrpkc/e7REa7qfqmXQVC1Z3Vy1xQTPujb21RGj6SLMAdrs593k46lyANgegf6BMjJ8K2YkxR4SjpRglQqprxxIJFFpWyaW6d5s1G3zq1Siwhp12JTrS60KE8b6pzS8eJkQm2/iJQJP20l6AMp2wtTRIudcW1RZel/XMCuo=;4gbbQmaGPYPH9p1+GgFQ2Q=="
 ---
 

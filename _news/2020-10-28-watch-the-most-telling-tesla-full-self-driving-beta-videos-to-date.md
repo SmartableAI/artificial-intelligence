@@ -121,6 +121,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed"
+    excerpt: "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng ..."
+    publishedDateTime: 2020-10-28T11:16:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/28/915555.jpg"
+        width: 1240
+        height: 697
+        isCached: true
 
 secured: "ZyWhk2+Mb/877vo31Fq2r0MTujlzpeO2zZcV20lrkZ0nRrGPEPqeS5UdG/CUVToFUZC/863I4FpKlotyB0uv/RTJn6jAz6dC5UnrNBNEZaCfV+kI3Rv6BPcA8qAQ31ih3wc71ugOfaIg/jeNHGCQ/CmhenNFpG0MNm06IBV0g/R2w++tyiMvebndvVX0gsymAj+H0HYkQyKvqmodkUpyVebUlbV10VQzrsn8HIkhedZkc2bEXaApqugaTDY7CHE7Bj39YDKLHaoCRY6R4aGzg915h+KfQqEf1xjIqSPSou1RMki7ncfK+K4OsaanDZDPx2kIqxU5rwQMlz0+1vVzcDhpBMRLPHJUfRQzzxcdgOtJ7k5gfxa6W/UiHbQBk6EMbnq19+kxBA/424oEgAeHWQvSPBkN/TOVnw94Y2plj8LQPhUXXFBkgwoCpRSPtPVjOJvX71d4GkuJ2rNHkjURIjtLrIviTfDOnBztcHiYDX+OqhP1ODR+UFVj9x/CBm8pofgrEVCcc03LK5+Q5/CtnQ==;fThhwGt+p0Him3YzT9LiEA=="
 ---
