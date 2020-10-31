@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
 type: article
 quality: 109
-heat: 299
+heat: 289
 published: true
 
 provider:
@@ -133,20 +133,6 @@ related:
       - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/10/Over-the-Moon-Netflix-Microsoft.jpg"
         width: 700
         height: 394
-        isCached: true
-  - title: "SAP’s AI Chief Leads Effort to Infuse Artificial Intelligence Across Products"
-    excerpt: "Feiyu Xu, a former Lenovo executive, became SAP’s first global head of AI in May and plans to lead a ‘holistic AI strategy.’"
-    publishedDateTime: 2020-10-26T10:32:00Z
-    webUrl: "https://www.wsj.com/articles/saps-ai-chief-leads-effort-to-infuse-artificial-intelligence-across-products-11603704600"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 79
-    images:
-      - url: "https://images.wsj.net/im-249072/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Microsoft Unveils Lobe; Will this Make AI Mainstream?"
     excerpt: "Recent trends such as decentralized cloud computing, adaptation of GPU for general computing, increasing availability of big data sets, and advances in deep learning, a subset of AI machine learning, has spurred a modern-day AI gold rush. Global investment ..."

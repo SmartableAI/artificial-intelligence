@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbcafrica.com/africa-press-office/2020/10/27/merck-fo
 webUrl: "https://www.cnbcafrica.com/africa-press-office/2020/10/27/merck-foundation-announces-the-winners-of-stay-at-home-media-recognition-awards-2020-for-democratic-republic-of-the-congo/"
 type: article
 quality: 0
-heat: 10
+heat: 0
 published: false
 
 provider:

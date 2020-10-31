@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-73b6b46757804f09833ca51a303fee08"
 type: article
 quality: 29
-heat: 39
+heat: 29
 published: false
 
 provider:

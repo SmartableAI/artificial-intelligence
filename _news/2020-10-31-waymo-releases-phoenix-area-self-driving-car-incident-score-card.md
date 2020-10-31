@@ -127,6 +127,22 @@ related:
         width: 1680
         height: 868
         isCached: true
+  - title: "Tesla Hikes Up the Price of 'Full Self-Driving' Option to $10,000"
+    excerpt: "Tesla bumped up the price of its \"full self-driving\" from $8,000 to $10,000 on Friday, and odds are this won’t be the last price hike Tesla owners see."
+    publishedDateTime: 2020-10-31T01:17:00Z
+    webUrl: "https://gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197"
+    ampWebUrl: "https://gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nhmzpjpkgvvsqawmqowb.jpg"
+        width: 800
+        height: 451
+        isCached: true
   - title: "Tesla's Full Self-Driving beta is a reminder autonomous cars don't yet exist"
     excerpt: "Driving beta running with drivers behind the wheel bring a moment of pause. The videos seen here show off what I'm sure are just a tiny sliver of incidents Tesla owners experienced since the technology starting rolling out to cars in beta form last week."
     publishedDateTime: 2020-10-27T15:41:00Z
@@ -344,6 +360,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 56
+  - title: "Tesla Hikes Up the Price of ‘Full Self-Driving’ Option to $US10,000 ($14,241)"
+    excerpt: "While the tech powering it is no doubt impressive, to call it “full self-driving” isn’t entirely accurate. Tesla warns users of its beta program that the software still requires vigilant monitoring and that “it may do the wrong thing at the worse ..."
+    publishedDateTime: 2020-10-31T01:18:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/10/tesla-hikes-up-the-price-of-full-self-driving-option-to-us10000-14241/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/10/tesla-hikes-up-the-price-of-full-self-driving-option-to-us10000-14241/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/tesla-hikes-up-the-price-of-full-self-driving-option-to-us10000-14241/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 56
+    images:
+      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/10/31/nhmzpjpkgvvsqawmqowb-scaled.jpg?ar=16%3A9&fit=crop&q=65&w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla’s ‘Full Self Driving’ Beta Tech Nearly Wrecked This Model 3 Into a Parked Car"
     excerpt: "Tesla's \"Full Self Driving\" update was sent out to an unknown number of beta testers a few days ago, and videos showing the system's performance are being shared around the internet. One such clip, posted by YouTuber Brandon M,"
     publishedDateTime: 2020-10-27T19:17:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2177064/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
 type: article
 quality: 25
-heat: 35
+heat: 25
 published: false
 
 provider:

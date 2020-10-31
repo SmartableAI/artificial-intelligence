@@ -210,7 +210,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/?sh=3f285d437a72",
       "featuredContent": null,
       "highlight": null,
-      "heat": 297,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -252,7 +252,8 @@
         "Microsoft AI",
         "AI",
         "AWS AI",
-        "IBM AI"
+        "IBM AI",
+        "Machine Learning"
       ]
     },
     {
@@ -264,7 +265,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-covid-19-simulator-and-machine-learning-toolkit-for-predicting-covid-19-spread/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -523,7 +524,7 @@
       "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -618,7 +619,7 @@
       "originalUrl": "https://www.theverge.com/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 374,
       "tags": null,
       "images": [
         {

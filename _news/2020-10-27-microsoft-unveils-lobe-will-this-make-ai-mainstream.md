@@ -38,7 +38,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 107
+    quality: 109
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf8a2dbc46c0b82a29403%2F0x0.jpg"
         width: 1000
@@ -143,20 +143,6 @@ related:
       - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/10/Over-the-Moon-Netflix-Microsoft.jpg"
         width: 700
         height: 394
-        isCached: true
-  - title: "SAP’s AI Chief Leads Effort to Infuse Artificial Intelligence Across Products"
-    excerpt: "Feiyu Xu, a former Lenovo executive, became SAP’s first global head of AI in May and plans to lead a ‘holistic AI strategy.’"
-    publishedDateTime: 2020-10-26T10:32:00Z
-    webUrl: "https://www.wsj.com/articles/saps-ai-chief-leads-effort-to-infuse-artificial-intelligence-across-products-11603704600"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 79
-    images:
-      - url: "https://images.wsj.net/im-249072/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "No Coding Experience Necessary: Microsoft Offers DIY Tool To Build AI Models"
     excerpt: "Microsoft wants to make it easier for anyone to build machine learning systems through the release of a newly revamped app that caters to people with little or no coding experience. Microsoft Lobe, which is available in public preview this week, allows ..."

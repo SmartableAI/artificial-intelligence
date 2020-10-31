@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/e-commerce-fintech
 webUrl: "https://markets.businessinsider.com/news/stocks/e-commerce-fintech-and-cloud-ceos-of-alibaba-peak-fintech-logiq-and-ebay-discuss-new-global-growth-opportunities-1029728325"
 type: article
 quality: 11
-heat: 21
+heat: 11
 published: false
 
 provider:

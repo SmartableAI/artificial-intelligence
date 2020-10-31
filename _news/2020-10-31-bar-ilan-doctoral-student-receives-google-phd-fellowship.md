@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-new
 type: article
 quality: 44
 heat: 44
+published: false
 
 provider:
   name: The Jerusalem Post Blogs
@@ -25,6 +26,6 @@ images:
     height: 428
     isCached: true
 
-secured: "jsyHQ0KJN3rWSmSKoqUipGz0mhQdq44VQBOTVEY4Rhfl/n7qMedwC/f2k1JGpqGb0aEeD17ht5bnB9CGyglduy/dgVWS1DHr32ekz6JOMbxCmB8GFM2lO5nwntz+ZtNqkxZYv3dHURRM4pC3HUGfWCpEdz/UBHfHXCoLeRJZKuby8qIvv2V+r8XW8IZ99UPHetgT1oeCJH2/kgOlroNnqVqLbHFpr+vflFBC6LRUCKGSv/tFkz6PLTVIt+NhB5Wlp+b8F9IzCnWBpjMZEkM3BtAj8oEk2O6/kv6Ckw6keBR9I+QIAEX1aB5SpqX26wyiVLXtOI9sMqI0U7ZWO/MxeiKmcU6gKUcF6EVGbodxEqk=;DDM4kOsNq+VAhK1Yqemjew=="
+secured: "skgnqrk8EMy1CbPZu9E5iWJUbcQbQWDjUzsG3GmEpBDqrNDfnrFfnVIiFlVIEau7AaX98z9v68SgUK/gK+N3MX69xg5yNjXMRK6ZK7JKsJERZIGGbbhjYEBvId12haqLgiYzBeeeYtnSIQB2DXKCY6PzixHh2y7jTfnloe3E5icdIzgJs3dlg0/iznr96vnXA8yOKFOiGaba+dbbSRHDILn3eC34/mBE6yadqqPQQ9SfkTHKpwBhYRwDGB65xchampPszvx9y5p4K+Sx4pttMZyqmNiOvUoTfQSjNb41IRYsx6DlJw5DEJA4bUeaMFraMHuvudCKYQfvvTvl4FO5PTuWMst0FvcxQq42feqBwE39/6msqa7jru+nasu+C6KFsD++D+AVIWIcsa5F5Gs5e9XWLfL+4w9kNlOiG5svYVp8+P6B0gWodRJ3/FWCqQhQE6nYcRW8QWzNATF4qVa3W/Xxz7w0iGxdiV9S6La0eA4eu2TF0lwvhS6251FDL/1qLx5Aw+r/Ro9H4k3mc8d0tw==;sepPGDv83NC5sSD+fOKqtw=="
 ---
 

@@ -28,17 +28,17 @@ images:
 related:
   - title: "New artificial intelligence feature to detect guns through surveillance video"
     excerpt: "The company Omnilert is rolling out new technology that allows security cameras to identify a gun, and alert guards in the area of the potential threat. The hope is to use this tool in schools, airports,"
-    publishedDateTime: 2020-10-29T13:39:00Z
-    webUrl: "https://abc13.com/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
-    ampWebUrl: "https://abc13.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
+    publishedDateTime: 2020-10-29T13:40:00Z
+    webUrl: "https://abc11.com/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
+    ampWebUrl: "https://abc11.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
     type: article
     provider:
-      name: abc13.com
-      domain: abc13.com
+      name: WTVD
+      domain: abc11.com
     quality: 54
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/7432096_102820-kgo-security-cameras-omilert-img_Image_00-00-06,11.jpg"
+      - url: "https://cdn.abcotvs.com/dip/images/5964951_022420-kgo-no-guns-img_Image_00-00-55,05.jpg"
         width: 1280
         height: 720
         isCached: true

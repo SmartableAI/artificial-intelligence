@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2020/10/30/google-facebook-lo
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/amp/"
 type: article
 quality: 44
-heat: 84
+heat: 44
 published: false
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/amp/"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Startup Skan Secures $14 Million Through Series A Funding Round Led By Cathay Innovation"
+    excerpt: "Skan, the AI-enabled process discovery and operational intelligence, recently announced it secured $14 million through its Series A funding round, which was led by Cathay Innovation with participation from Citi Ventures, Zetta Ventures, Bloomberg Beta ..."
+    publishedDateTime: 2020-10-31T02:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Money-Dollars-Benjamin-5-600x450.jpeg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Skan Using Artificial Intelligence to Optimize Business Processes"
     excerpt: "Skan, an AI-enabled process discovery and operational intelligence company, has closed on $14 million in Series A funding.  The startup's technology synthesizes the digital traces of all human and screen interactions to uncover how work and processes such as underwriting,"
     publishedDateTime: 2020-10-27T00:00:00Z

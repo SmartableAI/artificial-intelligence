@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.miamiherald.com/news/business/article246728241.html"
 cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article246728241.html"
 type: article
 quality: 44
-heat: 74
+heat: 44
 published: false
 
 provider:

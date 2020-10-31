@@ -7,7 +7,8 @@ originalUrl: "https://healthitanalytics.com/news/machine-learning-predicts-atria
 webUrl: "https://healthitanalytics.com/news/machine-learning-predicts-atrial-fibrillation-hospital-readmissions"
 type: article
 quality: 39
-heat: 39
+heat: -1
+published: false
 
 provider:
   name: Analytics
@@ -23,6 +24,24 @@ images:
     height: 400
     isCached: true
 
-secured: "737smp2OHf9c2NyDmxH6Knzluk08wAahSC48R3pFjhNZjdINHpxJXgfylb+D4Ex4A2cO9tQBXaIrTlIYPJctZ3Hc1uIMO4Fl9VXgLBbcC1BxnT/D6SXkLIsL0VftsRyApK3FsrmzLWzE2ozHTdqG+Ad57phLMkwmBSQOZZ/uji3nDj+b9dY2Ll5kbZDhdqqNTTjYIdm2U0wFoUwLxlSiyzFRqoqGiwWx71BUANnvXwSBiBnTk4/xE9oAImXdXFI9y3OWGviZVfOSLpIyEXsQG/MP27T7/J7IgWUT8ItMFJ9TtEyrbV2zuh+QnPlYXmbyA5B60CdrZ0FDGJu+DCD6CHpiDyHFnPwLLmn+m0goECw=;Grod+AQ6pQHShBdh60Nu5g=="
+related:
+  - title: "Artificial Intelligence Platform Reduces Hospital Admissions By Over 50% In Trial"
+    excerpt: "An artificial intelligence-based diagnostic tool has reduced hospital admissions by 51% among elderly patients identified by the tool as being high-risk, according to results of a trial released by health care provider Clare Medical."
+    publishedDateTime: 2020-10-30T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/"
+    ampWebUrl: "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ab250fe11cd3ec3ad8215%2F0x0.jpg"
+        width: 1200
+        height: 775
+        isCached: true
+
+secured: "bWojk8/HAZSPK4e7NcNa2xcRntidIM4ajXJR7bNKMjJwVOi6UusfK9ZcebG/kKrAlFNWc39P/BjufuLL+vIMA4Mn3hSgK0S5UHj4bhm0ioo6fIrQuwFv7YKHjZKCM0jl3cUEKwP/fZejKQj5nGRXIEQGqq3nbnAN0H89D4PWqsmaEkVE2E4rz3WbWAp4h2TzsnWyPH2Dmtdu/QNttSjzVf3x1ErKNqPTVCGgMneT5MoLT43f18VNnXP9api2B5z3s9HnNjaZ80XOQQBxZHe+yoJCTePPYz1tPbMMGcz2b0KakVYNoz3WG26ZgDXH88heceuz1yyNUemB5qy4ZtNfspmDrwf7AGejC+4DA1iZzWOylOT7uuJEwMPW+AHpw+P+ADIhHijfMwDIF2LPWoXrV65QSwLgAqcfKU0dsKJsoO9WWTqpK8vVGIDsYI7FelYAEPoNOWMc7JYPnC08cbQrCrDSBnHPI6+qoeaIzDMuTiNnCrFdCvACdbryZcTJ+azZXE7FgmAZt+lLUwpXdHLjCg==;asEX4ZloFGVM37rj+BoVXA=="
 ---
 

@@ -8,6 +8,7 @@ webUrl: "https://www.assetservicingtimes.com/assetservicesnews/article.php?artic
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: Asset Servicing Times

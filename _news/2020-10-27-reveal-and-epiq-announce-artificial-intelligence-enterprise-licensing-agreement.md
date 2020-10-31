@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-l
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-licensing-agreements-corporate-news-technology-issues-8781b28e3195995f76b0e76b73714533"
 type: article
 quality: 33
-heat: 43
+heat: 33
 published: false
 
 provider:

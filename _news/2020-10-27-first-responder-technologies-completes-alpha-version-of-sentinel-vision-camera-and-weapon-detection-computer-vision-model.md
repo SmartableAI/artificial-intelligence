@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/first-responder-te
 webUrl: "https://markets.businessinsider.com/news/stocks/first-responder-technologies-completes-alpha-version-of-sentinel-vision-camera-and-weapon-detection-computer-vision-model-1029725526"
 type: article
 quality: 23
-heat: 53
+heat: 23
 published: false
 
 provider:

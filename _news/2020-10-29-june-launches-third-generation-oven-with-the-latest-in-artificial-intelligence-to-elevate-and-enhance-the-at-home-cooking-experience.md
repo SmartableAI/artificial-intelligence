@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/june-launches-thir
 webUrl: "https://markets.businessinsider.com/news/stocks/june-launches-third-generation-oven-with-the-latest-in-artificial-intelligence-to-elevate-and-enhance-the-at-home-cooking-experience-1029734021"
 type: article
 quality: 16
-heat: 26
+heat: 16
 published: false
 
 provider:

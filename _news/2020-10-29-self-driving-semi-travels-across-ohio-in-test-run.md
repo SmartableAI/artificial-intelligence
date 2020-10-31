@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.dispatch.com/amp/3749218001"
 cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3749218001"
 type: article
 quality: 44
-heat: 64
+heat: 44
 published: false
 
 provider:

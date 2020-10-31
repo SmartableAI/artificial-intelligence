@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Startup Skan Secures $14 Million Through Series A Funding Round Led By Cathay Innovation"
+    excerpt: "Skan, the AI-enabled process discovery and operational intelligence, recently announced it secured $14 million through its Series A funding round, which was led by Cathay Innovation with participation from Citi Ventures, Zetta Ventures, Bloomberg Beta ..."
+    publishedDateTime: 2020-10-31T02:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Money-Dollars-Benjamin-5-600x450.jpeg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "FQIyMvs7W0TFPUVEWbViJkVYCB4OP+LA5CrxffrUPfYfHNq5w51ux4TjZYAD88ozSK7YnPcNPkJQEyGg1r7o/O9avekGngHiZcliEyBkkAkpA6DF7Hr0ohEa/VSxHUunPmYyhitqVhFuPg0SnDzuXJ4zZFy5Awch3RMUgHjri/Ex/F2HnDfHvOLVl4F+AXn1RKnfzyCBNqk8nDqX3HFwzmI570HwZhxJtCcqnXkLeY3JEmUJbromrzuC89Al9O9Fp2QmE9iZxqk8m1RPWuKID4Ece5Xbc0Dk7ufghyVvDAtd4daFDDo/TkmaPqHfNRdDj817/dZHzt2vLDPlDdEI71XNV+MvmbtNw+a2PXilbS7VdF72edZO6e8dXjGVGF34kcVjhFc/soWFhCe5JHgQ/W0ui8Wv1SBA09tNxwJKe/9v3mryGiirOV3cb+yeJ3MGDuLkqAMBfRv3z0Cb6+RUJ4GTsTga+mBrhfh4yQYdcxx796EuziOUIpiZxL0n/XTxqqniSi5wLox6iIlQEzf2MQ==;agcz4l7CtRdYqjDiWNWnyQ=="
 ---

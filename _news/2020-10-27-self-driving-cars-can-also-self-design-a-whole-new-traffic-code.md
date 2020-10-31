@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Machine learning helps hunt for COVID-19 therapies"
-    excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
-    publishedDateTime: 2020-10-28T12:22:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/57-machinelearn.jpg"
-        width: 952
-        height: 1231
-        isCached: true
   - title: "Deep learning models help hunt for COVID-19 drugs"
     excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
     publishedDateTime: 2020-10-28T23:45:00Z
@@ -78,6 +62,20 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fPandemic-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Machine learning helps hunt for COVID-19 therapies"
+    excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
+    publishedDateTime: 2020-10-28T15:38:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/msu-mlh102820.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "WxHI9Manxj9v1kKFkBfFSYNDRCCaLwSf6sYL2NY9++YpRb2idavgo48oiMBXxLbRGj4Wie6XSvTKmflQIbIt2DJxsV6GHJAK35w6hIZlAHG4BPEu7GEF1noK0SMNyMGTwgobVU+nP0GEW/s0SIhpW8O75Dk9g3zmaFuNAtJCZC+q5eeQuUo991fGi8ge7yjf9ZpZxnKqn9YhlrWW3WVvZOO/0OSBH97ja7FffrsDAJmRUDxGv/q8+g60P0vt+yRi6Y7LSqVyqAXGjJq7+17+ur/a1u1uQQOVsXeFXTMddLWC38WTQOXBeAY4lg27fQx+FpzVS8lFOM303co4T57MONG5vVJYwGjDRWDJ9El9SmA=;1hb6uiGAT6nKn5lnYC379g=="

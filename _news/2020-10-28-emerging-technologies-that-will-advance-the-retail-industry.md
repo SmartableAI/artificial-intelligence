@@ -9,7 +9,8 @@ ampWebUrl: "https://www.techradar.com/amp/news/emerging-technologies-that-will-a
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
 type: article
 quality: 89
-heat: 89
+heat: 99
+published: true
 
 provider:
   name: TechRadar
@@ -29,6 +30,19 @@ images:
     height: 646
     isCached: true
 
-secured: "mtPGUVq8NEQvtX9evj68MewwGVN7gh0An0s4kx8Th419zwa/FuVzW6t40OY70bpNomlveNZOVTAIaoGxxgJWrWbrO2IyHrtSZp5dTxIz42R4l2eBz+bxEexrmXNLD0cjTIMdu8/g4HUzbjtVHQwWiiUS74HsMPR3lMpG2DXfwKT3Y1P9wc+u/IlMy6NHhK73M32XPj6EphBDNDvSXwlYwjQ/6/oVXlNZBmbJ5+FSj+/i9zrRqA85Le9sZDv9jMR8gPvG4BSL30EjqJ/MMEjfvWc0SDSQq/EuII8J8WBxCd7cfaWRpiPvieeiWotgv6YY6BVTdJ315wu9enYhNBFLfieTXjjFedv+YWYVF4iE4Kg=;mMDtPaXIqEEBlykI0S+Z4g=="
+related:
+  - title: "Emerging AI Will Drive The Next Wave Of Big Tech Monopolies"
+    excerpt: "Amazon and Apple built their monopolies by having detailed access to their users’ data, which in turn allowed them to build the best AI recommendation systems for their respective ecosystems. In addition, Facebook and Google built their monopolies on the ..."
+    publishedDateTime: 2020-10-28T18:16:00Z
+    webUrl: "https://www.forbes.com/sites/edstacey/2020/10/28/emerging-ai-will-drive-the-next-wave-of-big-tech-monopolies/"
+    ampWebUrl: "https://www.forbes.com/sites/edstacey/2020/10/28/emerging-ai-will-drive-the-next-wave-of-big-tech-monopolies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edstacey/2020/10/28/emerging-ai-will-drive-the-next-wave-of-big-tech-monopolies/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+
+secured: "Ila/vN8RJeeHdrGegpf+3BOaAJwM49u7rabmNhEM6PqqYMi5x/xCx5mWTvaeARKDiT0hMcyISl6Dia1c2rJilp5Ux53N8zFOLvIlQSphGieDZa6SAr/dcSBvwoBKwWseFBa/Dmoi+QAZnjFcRExd7Iq5mBBviSqw7sIItc8t+fsO1e93eFcGYpnW8lN1gSrrVH4XEeOSPwR86piFLql+CLULnFotaW1Z24j7BLoxkzDVvn6y5SGPUaO4X3aZxBxn4UI0vRMR3DfTPIANzGV2tUncG80TRCb8HCD4a2GQ3e3Q8MXoBWzutjqqSJQg62relu+/z2awcaBkpkARBWl0W/pkUSqOLFxiwm0OryYNM6kdi7jWkpLvGNjPR34BeBI6wYeY4dIEzWd4q+JJaGukLY4L+hnWWmrrWyCN75C8OBr144ksUIcDpyeBviRzuisct7qAvwJKgsY+VZ9U9lcl2RR6qcU4NTloJk9APZokFQIv7XVLua0jxc3ffjHE8pQabHwZMf4dVXMncTg3luufQQ==;FWa0ujLlyXlQd9sgvYpqSA=="
 ---
 

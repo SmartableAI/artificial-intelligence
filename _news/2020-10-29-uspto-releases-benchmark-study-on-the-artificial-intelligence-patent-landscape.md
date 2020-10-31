@@ -7,7 +7,7 @@ originalUrl: "https://www.ipwatchdog.com/2020/10/28/uspto-benchmark-study-artifi
 webUrl: "https://www.ipwatchdog.com/2020/10/28/uspto-benchmark-study-artificial-intelligence-patent-landscape/id=126847/"
 type: article
 quality: 33
-heat: 43
+heat: 33
 published: false
 
 provider:
