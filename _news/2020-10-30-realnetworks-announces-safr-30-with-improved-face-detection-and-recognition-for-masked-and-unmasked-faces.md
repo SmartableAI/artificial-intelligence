@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/realnetworks-announces-safr-
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/realnetworks-announces-safr-3-0-improved-co-1554987129-ga-npr.1603975546.html"
 type: article
 quality: 26
-heat: 26
+heat: 36
 published: false
 
 provider:

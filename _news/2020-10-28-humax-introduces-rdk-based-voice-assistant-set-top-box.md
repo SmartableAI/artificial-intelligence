@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaltvnews.net/?p=35344"
 webUrl: "https://www.digitaltvnews.net/?p=35344"
 type: article
 quality: 24
-heat: 24
+heat: 54
 published: false
 
 provider:

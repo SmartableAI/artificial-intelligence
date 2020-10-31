@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20201028005909/en/Samsung-a
 webUrl: "https://www.businesswire.com/news/home/20201028005909/en/Samsung-and-VeriSilicon-Enable-Blaize-to-Meet-Aggressive-Time-to-Market-Goals-for-New-AI-Edge-Processor"
 type: article
 quality: 23
-heat: 23
+heat: 33
 published: false
 
 provider:

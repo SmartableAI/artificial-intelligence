@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/will-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/will-artificial-intelligence-take-over-divorce-law-not-really/article_9df47d4f-af22-57fc-b1a1-53e465401052.html"
 type: article
 quality: 37
-heat: 37
+heat: 47
 published: false
 
 provider:

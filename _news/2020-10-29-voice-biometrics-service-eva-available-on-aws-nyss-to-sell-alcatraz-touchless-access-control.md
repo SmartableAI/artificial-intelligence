@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202010/voice-biometrics-service-ev
 webUrl: "https://www.biometricupdate.com/202010/voice-biometrics-service-eva-available-on-aws-nyss-to-sell-alcatraz-touchless-access-control"
 type: article
 quality: 23
-heat: 23
+heat: 33
 published: false
 
 provider:

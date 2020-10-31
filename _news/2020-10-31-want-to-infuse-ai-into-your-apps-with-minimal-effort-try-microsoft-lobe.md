@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
 type: article
-quality: 107
-heat: 297
+quality: 109
+heat: 299
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - AWS AI
   - IBM AI
+  - Machine Learning
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf8a2dbc46c0b82a29403%2F0x0.jpg"

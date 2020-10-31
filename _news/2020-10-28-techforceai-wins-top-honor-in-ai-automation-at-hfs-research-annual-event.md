@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2174985/techforce-ai-wins-top-honor-in-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2174985/techforce-ai-wins-top-honor-in-ai-automation-at-hfs-research"
 type: article
 quality: 38
-heat: 38
+heat: 48
 published: false
 
 provider:

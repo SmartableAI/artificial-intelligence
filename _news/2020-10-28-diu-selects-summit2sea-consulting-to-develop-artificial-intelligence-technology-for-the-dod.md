@@ -1,49 +1,28 @@
 ---
 category: news
 title: "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD"
-excerpt: "Summit2Sea Consulting, has been selected by the Department of Defense (DoD) to prototype the Humanless Unmatched Transaction (HUnT) solution for the DoD. \"The solution builds data pipelines to financial transactions to train a Machine Learning model that directs corrective actions to robot workers,"
-publishedDateTime: 2020-10-28T14:24:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
-webUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
+excerpt: "Summit2Sea Consulting, has been selected by the Department of Defense (DoD) to prototype the Humanless Unmatched Transaction (HUnT)"
+publishedDateTime: 2020-10-28T14:06:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html"
+webUrl: "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 29
+heat: 29
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Robotics
+  - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg"
-    width: 340
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1230710/Summit2Sea_Consulting.jpg?p=publish&w=950"
+    width: 600
+    height: 600
     isCached: true
 
-related:
-  - title: "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD"
-    excerpt: "Summit2Sea Consulting, has been selected by the Department of Defense (DoD) to prototype the Humanless Unmatched Transaction (HUnT) solution for the DoD."
-    publishedDateTime: 2020-10-29T09:46:00Z
-    webUrl: "https://www.breezejmu.org/news/state/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod/article_f0a9a343-06dd-5ae2-a694-19268b696af4.html"
-    type: article
-    provider:
-      name: The Breeze
-      domain: breezejmu.org
-    quality: 27
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/breezejmu.org/content/tncms/assets/v3/editorial/b/07/b07688e5-7f62-5461-b2f4-302635c2093a/5f9980eb47af3.image.jpg?resize=340%2C400"
-        width: 340
-        height: 400
-        isCached: true
-
-secured: "KaJqrHedtHD8iDTiPWCVBRZla52V2G3gmVIL4QWw8IimPmh0Ri1u/nnNjg9VR0x7iihCCLd6v/XOHFQQkb7IYXmaVRu3cInlQlnq1X5F2QJ1QRNpbVhZo4i5koHchf7wEwJTW7LXxroOKxQevfNtjgqih0zCWmxPr9H3N3j3Zkoz/4Pqy+uqpn2QwAxIL7V/xhppx1KgBCM/gbGnVPuOtEgT/4DWUbhHaffFEaddSKxzP7mOC1+rSQax+a3u4oYWYeGpFklR4bYKn5WODcNJdxL3xsDea1QyU3gxOTTfyv7N81kIwrbJeXOUZnmpPWiKvJ+d7ZyNeBLQ6FwAatKvOh7hZ+kYC+bTapjq4KUZaG0=;9LXTYmXTrteHiroHNlODrA=="
+secured: "HiZI2bggIRyfBFnHRpIs+H4/NXKjkUdMDYpnQ/zw5emEp2s/XG3yV9mvUR84NVBWOVABA3HoxWxAOLUTjK7vW2dhJu5BwVFHXshSg+okJhRxlyLzLc4+a31pksy9OPqnof6kzQfwgd+pliLLoceLSJup85B498EitT+d+zEqdC6pD2pmkvggZ3S/kgjmF0+TqF97KUzD/B+QBWREtknooQOoODBC1BlWY4LKfI4he64bOW2Flb4Zmk685/VWHPrNMbl1Rnu+GOhCoweo5+Sf664foUHmc4K03rBzaoJXs9hpeOc6QxMgIs0zbexLbnOV/t7B10T6uRwnN1g5PaDeyxGHdvJbXB/nsMvcKu/AMu4=;gJnmCCViQpJfzyyBxlO4nw=="
 ---
 

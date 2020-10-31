@@ -39,6 +39,20 @@ related:
         width: 900
         height: 485
         isCached: true
+  - title: "Deploying and using the Document Understanding Solution"
+    excerpt: "Based on our day to day experience, the information we consume is entirely digital. We read the news on our mobile devices far more than we do from printed copy newspapers. Tickets for sporting events, music concerts, and airline travel are stored in apps on our phones. One could go weeks or longer without"
+    publishedDateTime: 2020-10-31T01:12:54Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploying-and-using-the-document-understanding-solution/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/Deploying-and-using-the-Document-Understanding-Solution-1-JPG.jpg"
+        width: 800
+        height: 393
+        isCached: true
   - title: "COVID-19 Is Redefining Healthcare Innovation"
     excerpt: "\"It's kind of ironic. Data and computers are helping deliver more personalized medicine,\" says Dr. Andrew Masica at State of Reform's North Texas Conference."
     publishedDateTime: 2020-10-26T14:18:00Z

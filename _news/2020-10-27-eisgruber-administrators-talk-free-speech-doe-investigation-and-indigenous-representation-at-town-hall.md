@@ -7,7 +7,7 @@ originalUrl: "https://www.dailyprincetonian.com/article/2020/10/town-hall-racism
 webUrl: "https://www.dailyprincetonian.com/article/2020/10/town-hall-racism-princeton-free-speech?fbclid=IwAR0JteQgRB3dnhYsHx662A4INT99YZFrursIveeO2IPmbcx-sr0UpgjfMFU"
 type: article
 quality: 7
-heat: 7
+heat: 17
 published: false
 
 provider:

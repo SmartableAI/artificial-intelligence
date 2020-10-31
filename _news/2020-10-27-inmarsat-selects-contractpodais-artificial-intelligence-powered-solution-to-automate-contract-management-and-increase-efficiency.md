@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-communication-technology-satellite-telecommunications-services-590c3f565ef14af68ff0484e8d0d2f4e"
 type: article
 quality: 23
-heat: 23
+heat: 33
 published: false
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/constant-named-to-
 webUrl: "https://markets.businessinsider.com/news/stocks/constant-named-to-the-2020-benzinga-fintech-listmakers-1029733210"
 type: article
 quality: 34
-heat: 34
+heat: 54
 published: false
 
 provider:

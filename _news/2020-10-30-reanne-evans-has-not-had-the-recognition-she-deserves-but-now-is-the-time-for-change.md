@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2020/10/30/reanne-evans-has-not-had-the-recognit
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/10/30/reanne-evans-has-not-had-the-recognition-she-deserves-but-now-is-the-time-for-change-13503144/amp/"
 type: article
 quality: 37
-heat: 37
+heat: 47
 published: false
 
 provider:

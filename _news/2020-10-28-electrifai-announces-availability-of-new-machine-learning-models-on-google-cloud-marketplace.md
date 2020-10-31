@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-avai
 webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-availability-of-new-machine-learning-models-on-google-cloud-marketplace-301161550.html"
 type: article
 quality: 43
-heat: 43
+heat: 53
 published: false
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ai-i
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ai-investment-dollars-how-much-money-healthcare-organizations-are-pouring-into-new-projects.html"
 type: article
 quality: 43
-heat: 43
+heat: 53
 published: false
 
 provider:

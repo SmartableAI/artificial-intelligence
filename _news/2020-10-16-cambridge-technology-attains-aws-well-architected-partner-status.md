@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg?p=facebook"
-    width: 1200
-    height: 628
+  - url: "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg?p=publish&w=950"
+    width: 950
+    height: 497
     isCached: true
 
-secured: "ibwXWFniHef3DHvQVBXyCQvkAs4VwP+Hm2G0P2Bystv6CYU1DwT0YUAp+xdIjgCaq/RyOnbjNRB3GrslHtfjP41VdVK2JANOQlkXluNtu76zbuxVwd9mU5r0hkbGxtdLANsciC4jo2dk976OTxAMNYDlBmmb0b5UmreLsvRw18JFvV2nuhwI4a9b1GZRh/rztPhf/gBsFfdlZdjKZVhNU+UrzStwWNfSVS6qXTu9nTdkdpp6I+pLI44Z1wzCmAAgCC4OdznhYgG215cDD8G2b7Fg04i2rh/46d2J3Xrg/krWVhXakAioeSiI/GfQCpeYl+tnCCEy/E0PFfTd8QkyT+kR7bK4FhQP0tKZcaVO9cA=;ShKjn8NpuBBuOj20805J2w=="
+secured: "jAy88Nput2UMV+XaDrdCfA7jatQJlKPI6dPph1wbfml50CUth8o/dM2HjdW+n/kr9jrTaO81H1pkuEraa2MiJZKIeFn3W3cnM2bVI89Yuw7/p1sC0Dr39Mq4Sj5eYX0xUJaAPEmly6JffmfGa0zlV34/+RgtwyK1qcGo7dWkoIiJNXV1AwMjf9SzIAKa7oLbW1b6LfbmB/VtzfGLxYmMcU6Aqf6MsbuGurv5vOhh3Zc6ML2NlEsYe00JdXi84SbTb/ukvGyZusjx7HIhjzRSvlGKb2EVKFB+A0XdY/jHzLTQgXvQ1FlCI/tIT53HpdNp0O6Z6STzG+Lc+dmAelm5MwPq1j4bq4hZYHhCgF89Sf4=;36Juypn2DtMgsduqJ5tfUw=="
 ---
 

@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Artificial Intelligence Search Technology Will be Used to Help Modernize US Federal Pathology Facility"
-excerpt: "Technology developed by Canadian researchers has been adopted by the Joint Pathology Center (JPC), which has the world’s largest collection of preserved human tissue samples. The v=center will use an artificial intelligence (AI) search engine to index and search its digital archive as part of a"
-publishedDateTime: 2020-10-28T18:00:00Z
-originalUrl: "https://www.pr.com/press-release/824263"
-webUrl: "https://www.pr.com/press-release/824263"
+excerpt: "The v=center will use an artificial intelligence (AI ... the leading pathology reference centre for the US federal government and part of the US Defense Health Agency. In the last century, it has collected more than 55 million glass slides and 35 million ..."
+publishedDateTime: 2020-10-28T17:54:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/r18102022/artificial-intelligence-search-technology-will-be-used-to-help-modernize-us-federal-pathology-faci"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/r18102022/artificial-intelligence-search-technology-will-be-used-to-help-modernize-us-federal-pathology-faci"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18102022"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18102022"
 type: article
-quality: 1
-heat: 1
-published: false
+quality: 23
+heat: 23
 
 provider:
-  name: PR
-  domain: pr.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "nRg7ouNLBONt/1NfeR3fSi9VPBgahspX6uIzXgcEPlaXywxZvCOpf2hBTOMvN4EyLOIH85pXewF0qfpeKZJ/gboLUKJOM1mDq9c0mtGUvnNULt0sTaT5TOTAsQjMmf9yE4F0mKUevhvY6wsOBmygjWKbEeVKzH4eAuWNU6BQlWnjf+VEZVqdZc8GKLQPIYDpzEwDnDSyoWQuby18WEBouitfAo55a5qHLK3gxIAJmfagqhvM9fyYn+PkNpR31c3EoGko3Vec9saGWG1/mb2GsbQp9Re33Y8RGRED6ZetIuqrr9RBJj0s6htwvLnVIsdee6Xn+TOtwyiyBnGYUrfle/yc6eqGqDBJ94p3ltfYnPI=;F6/uFK/NICRjNBZqPtw+tg=="
+secured: "0EShUoXc5B5wuhNc3Brpamuqazq5V7lJUqa5YDyzMERV2464wVIsW6nuBFotAsIT5HK985xYkoA7sm1Xlah9qblmvVIJ390imBQUT4vaBmUEildLWSJiX8F7hvbanmwpMkq7x0KaScEJdezCh0s9Q54To8mYQT6E0EmiyTfy70faLwnig1B7sJa/KsdKE1UrQZ7wJemLUuz8KP0gpF1Ff+8KzLtdKZdkngc3Sw6VnEUEYqY5jD0SbbchrD2yw1zcjABruyUb5kvRcxEa01xiTTinXx+kM+8xU49xG8pF69RnlRjeE7gokSDFab6uVni6uzxssbobd4VnYA81YrxP2Yrcf9Wa4nvYtZ9k3rMWJHM=;Ox44umgdIJEmaiDmvRCRww=="
 ---
 

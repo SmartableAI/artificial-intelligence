@@ -58,27 +58,18 @@ related:
         height: 675
         isCached: true
   - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-    excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete ..."
-    publishedDateTime: 2020-10-30T10:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
+    excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete end-to-end monitoring and control capabilities, and ..."
+    publishedDateTime: 2020-10-30T10:47:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-  - title: "Microsoft’s Turing Language Model Can Now Interpret 94 Languages"
-    excerpt: "Microsoft detailed the Turing multilingual language model (T-ULRv2) and announced that the AI model has achieved the top rank at the Google XTREME public leaderboard."
-    publishedDateTime: 2020-10-26T08:34:00Z
-    webUrl: "https://analyticsindiamag.com/microsofts-turing-language-model-can-now-interpret-94-languages/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 60
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_microsoft.png"
-        width: 1280
-        height: 719
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "7xTpjVwLMQLNFokPWr8QGK5wFhhsGAcbAyTWev3Rzl4uJrfJ1/nccNeSiOIJTJPvGD3UEeuqmnlGRMYXeVeT1zOMIR7Bt7Fo5GC8QuC38ntO4xbgYaraidNOba8Z+4o6XMjy2d68YTX/ynySpk59+eHCCOUbvGfd8JBsaO4dlQe7NgKvAtXL4NmjNPFQlKOzWiYMbP/7WRsHK/EOt1F8r6JRV7oUD+5bDPiTYYu3Fmv/rDOeosEkvQRUF1X0TMQc9JVa0W2HLUz9zv6eNnqNPk1kQeDRYgGnAn3rzQwr1rtwf8lVkms7758Bj0Tcv2+csqlK7sRJzkwuq0b0vy6+/3Phxh0Ij2nBoZruJtcDRtM=;aj7FvUId2Qpzn6bIHYsXVg=="
