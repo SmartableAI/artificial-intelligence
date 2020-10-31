@@ -43,12 +43,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/company/uber/</loc>
-    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/ai/company/deeplearning.ai/</loc>
     <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,6 +74,12 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/ubtrobot/</loc>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/company/uber/</loc>
     <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -230,6 +230,12 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/affirm/</loc>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/company/aptiv/</loc>
     <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -751,6 +757,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/ai/company/korbit.ai/</loc>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/ai/company/lexmachina/</loc>
     <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -764,6 +776,12 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/megvii/</loc>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/company/metabiota/</loc>
     <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -812,24 +830,6 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/trint/</loc>
-    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/company/aptiv/</loc>
-    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/company/metabiota/</loc>
-    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/company/squirrelai/</loc>
     <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -1129,12 +1129,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/company/korbit.ai/</loc>
-    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/ai/company/kreditech/</loc>
     <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1357,6 +1351,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/ai/company/squirrelai/</loc>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/ai/company/standard.ai/</loc>
     <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1460,12 +1460,6 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/zenrobotics/</loc>
-    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/company/knewton/</loc>
     <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -1706,6 +1700,12 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/invoca/</loc>
+    <lastmod>2020-10-26T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/company/knewton/</loc>
     <lastmod>2020-10-26T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
