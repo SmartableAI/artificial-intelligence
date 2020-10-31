@@ -59,20 +59,6 @@ related:
         width: 1408
         height: 792
         isCached: true
-  - title: "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs"
-    excerpt: "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing."
-    publishedDateTime: 2020-10-29T14:28:00Z
-    webUrl: "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 43
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/6ohFLYheDXySc0pdYKJcrL/43ee6a352bbfc134a12bb1a8cd95cf07/times-arrow-part-i-hd-0301.jpg?w=650&h=433&fit=fill"
-        width: 650
-        height: 433
-        isCached: true
   - title: "If a robot is conscious, is it OK to turn it off? The moral..."
     excerpt: "As real artificial intelligence technology advances toward Hollywood’s ... Arguably no machine has yet demonstrated that kind of intelligence. This summer, a startup called OPENAI released a new version of its Generative Pre-Training language model."
     publishedDateTime: 2020-10-27T13:11:00Z
@@ -84,6 +70,15 @@ related:
       name: The Middletown Press
       domain: middletownpress.com
     quality: 39
+  - title: "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs"
+    excerpt: "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing."
+    publishedDateTime: 2020-10-29T14:28:00Z
+    webUrl: "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of?ref=hvper.com"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 23
 
 secured: "e4lFbScXC2uHv1N86n2aXGZyFZQZW9jH6k07PCEmntZJON7KPSyRCdrv3JqgzLy4WumH6D7kGmbUo/6HMEG8yRIvkPyNyIHDKJp8WEuzN89AfzllCvxl4oh9bmj9NgYf9fq9udKdqF2dqjmyf6cDmutWT1wgyjJSPE38twobMupIzfD/4n/PS0Ly9EQB48Bjs0jOIks7ME9ycu/vm/8l0jeVERWM7LS2+91uNdyYr/zbHMuTJkaaoVg+EuxGlYNgsD3GyHpxV5EDigajB3vahqfHwzYGR7rgeA3htm4YiB7VvU/0kpd3hCBsPiq/ZPl5ErU5qK3oiahYAH9DZF4gxzRYUbP1O3Bu7O8cWecD+qpZxRJ+6HZOqybQaM+RGUthOeHtkk6LF/qyp1kUkH3Xv5jSMb+JHjD27LfXBkc+3qLUP44xqQ+oX8rLkfGGzYl/YyoCjwNmm2J6HOCqs8EI9xMXDFeEXpf3+Ie4n9vfPMw10N2ZA2bxtk6L32QLq8jSV0iu652lZQcSdRHl+3Y11Q==;h+5jHZitSF2n0Y4nQjBbtg=="
 ---

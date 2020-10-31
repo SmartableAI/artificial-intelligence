@@ -3,10 +3,10 @@ category: news
 title: "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs"
 excerpt: "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing."
 publishedDateTime: 2020-10-29T14:28:00Z
-originalUrl: "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of"
-webUrl: "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of"
+originalUrl: "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of?ref=hvper.com"
+webUrl: "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of?ref=hvper.com"
 type: article
-quality: 43
+quality: 23
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://images.ctfassets.net/cnu0m8re1exe/6ohFLYheDXySc0pdYKJcrL/43ee6a352bbfc134a12bb1a8cd95cf07/times-arrow-part-i-hd-0301.jpg?w=650&h=433&fit=fill"
-    width: 650
-    height: 433
-    isCached: true
 
 related:
   - title: "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs"
@@ -85,6 +79,6 @@ related:
       domain: middletownpress.com
     quality: 39
 
-secured: "tqk2lV6Ua8Jd9FF9LXI7XXIF2A7x6DaopyFWZsK4HGKg+Hrc+cw1oeaGRaVmwT5+n83Lu3KojMO2+Wdfa+EDi99BspdUCsSkL0HNAUIogYKbOUBsvVtjbA8xnWWwuRCGyrTX4d/XclBYa+mq4oy7LdImTXFk+hhpb2fTK9MSBCOQtYEykhk3laycYEYu86GjO1Y1jqfA62wQQ7ltx2oqVQetRXw6K70O0PhnTpjsHlQaVvt8IEgW1fK4sOrsvZ5adipT35M/oX4L2e5/lz9w1wtzSB/LcLNpEuLbsK7ZuNEf1GQWATUqUloMeSvOAOuQ5D90V9tRDhVWNdolOe6adySxdVSM9IvanTfcURsMvxAApGWwQ+hOUgyZFtc9IhdUP8Rb5KuP2u728KXikxoxYOEx1wg6+/ObuDGzl+UI6rtzcd5+pr4ZVvnIceQSwbm05m+evJTr1yNk5H6IBllmz1TgtWkda03H5fAUJCPauHEqXuhE5JZJK2RPZSeiYZEaZiKdbmJOt/kQk8DPV7Rc7g==;6EF40XtWT2q04S5SpPnISg=="
+secured: "wXrLm6aqZO4pNH42Q23GznZ8FAq4evzA5j89IJUq4alf2nps6h8pnbqgEXTkFFwZ3JSJUj7Cb9U0EXAX9NLVbOjEoIMaUYAHAdAgwb1UmRLGZ28EvNv3mNdVHMZa8OiIxrVc6D8FXtU6kCVEb0H7ApmqYah//WzMacEEL8BR5oRIXwkrgBX0z4NPyIrsNxdiJ2REhteu/0h0geUi4WBWwxpT8GTXjxvwSm10vr0n8SPIS3pqkJqqI8gVLFslU4fNeQXs4r+nxSBH+nFgCvu/8p3SM64fqqXmpj0rYL0Qfn3/OOmE0HWF3LDpmyRIy8caY+3qXIBJxImpByDRElgyAuUXLm9G8BwmzQzmC5wUZL0vhwTZMvu4PsI5/G7nnr7yHN7u6CHzrsShkcYE+DqUNkgJ3IqIr3gcWA7Dp0QKMvdYIj+5eWuL1TNfOiMP+oAYpACFuk/kBo3nAEaIDSxEnRRfbUq+Ih9f/nemnjrrWmkcf/y+eTO5OTH+owmUCJ2UtJsDgdZWadSyCqFIFzhhyw==;up1xfmEyKGUtC9ACOohXuA=="
 ---
 

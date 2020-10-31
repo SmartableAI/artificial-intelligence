@@ -59,20 +59,6 @@ related:
         width: 1280
         height: 741
         isCached: true
-  - title: "Baidu's self-driving taxis start passenger services in Beijing"
-    excerpt: "Chinese internet search giant Baidu Inc officially opened Apollo Go Robotaxi, its self-driving taxi service, to the public in Beijing, becoming the first company to carry passengers in autonomous vehicles in the capital."
-    publishedDateTime: 2020-10-26T12:45:00Z
-    webUrl: "https://www.helsinkitimes.fi/china-news/18224-baidu-s-self-driving-taxis-start-passenger-services-in-beijing.html?tmpl=component&layout=default&page="
-    type: article
-    provider:
-      name: Helsinki Times
-      domain: helsinkitimes.fi
-    quality: 39
-    images:
-      - url: "https://www.helsinkitimes.fi/images/1CNZ/car.jpg"
-        width: 1198
-        height: 799
-        isCached: true
 
 secured: "NCozRbaLPfO7iYTAilt23kuB4IgniZHRQPLNp571qJ09hpDsWxRYGGlxiEKd8XKqjZgUEw8t8VECBP/pDFKk+x7HYtJBVU8WUK3oLVDOG6QBScyZoiYKa5dvDuPaRQPMmWSnqWZwLtCv6VYTvvHzQEJxBn1NBLtJv9G/yBUHx31nON3YUVGrDmKhR0vX4Y0WIvPFcqPSUg+CV/pVPbhU43L1/FnkIQdo6DjH+82B2pS57at5IzwQNdanaRr30cu1i8DH95caYAn9O+QZ8yBX7lZWTe1joct8b7Sxo+NstXfONpgqWImvJn3EO6/yg96AuUv7HJ017jiDPjomRlHzQovRqQcQk5wq6usurgelcndvQf2M9rFJZKKXyHF9d/4HmluO5SsRsWkvWkRnCApvamrCyf50ZDIKeVX5AzVkWeN1Qr4zyb/OYeGxJ/5Gmq4ejg10LsNUrDms28j061iPnQZgI9YOqQUWjt4MgMNX4JbKbDA1krJJqHu0H7zdbuZNGOlHfKhddiqc7SFqqS+Z0Q==;kh4obCcmwnl5h7pP0IZChA=="
 ---

@@ -422,20 +422,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Full Self-Driving Beta Release Is Tesla's Most Irresponsible Move so Far"
-    excerpt: "Tesla released its Full Self-Driving Beta enhanced driver's aid system (please note the contradiction) last week, so expect a lot of the owners picked for the experiment - sorry, trial run - to test it out on the street."
-    publishedDateTime: 2020-10-26T11:31:00Z
-    webUrl: "https://www.autoevolution.com/news/full-self-driving-beta-release-is-tesla-s-most-irresponsible-move-so-far-150642.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 38
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/full-self-driving-beta-release-is-tesla-s-most-irresponsible-move-so-far-150642-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Telsa Releases Full Self-Driving Mode Beta Update"
     excerpt: "Tesla has enabled new full-self driving features for certain customers. The new features include the ability to automatically steer the vehicle while on city streets, and Tesla plans to increase the price of the package by $2,000 in the near future."
     publishedDateTime: 2020-10-27T13:01:00Z
@@ -450,6 +436,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla hikes price of 'Full Self-Driving' option to $10,000"
+    excerpt: "Soon after the launch of the 'Full Self Driving (FSD) set of features to a limited number of expert and careful drivers, the electric car maker Tesla has increased the price of the new option to $10,000 from $8,000. The price of the 'Full Self-Driving ..."
+    publishedDateTime: 2020-10-31T05:40:00Z
+    webUrl: "https://www.dailypioneer.com/2020/trending-news/tesla-hikes-price-of--full-self-driving--option-to--10-000.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 19
 
 secured: "bMzsJ39/3BVhQy/DbL8l3504hNU1Z0HPZFpZh88ZhjlecHlUSlkLHaZAQpwzXrzdaS4mpQFb3iSSGeMzSA/aeIrzU70NaZK3xCADXbGGn+Lc1f6dmj3EJ6tylRoWg/WwINCVKyTty1T+7EPAO5DTqXW73Sz+PsVsoVsEzzR4X4qpGgxzqvPv4c68CigyeduPf/aD5FnvvZFz0GSa4CCzENiPWQTiY3o1x50rC3XonIoQpN5qOLB1jTpR0WW6pR8JJrB9bh7xvvaxMfNwnNkHXjtCE00AZAVEudSXHg1/bZTyG/kwxrz/k/eVdsO4YF4Ov4Od49Pf1bKiJln9KUZEI2YlgBHNlSMbdjWAi+AAGWWQz6JR6qrcKxBmiev5NN+2i0vPvfCTwgLoxEkjRj3SlUtwRKEzQmExS9KJ1zEWEF6fUoVJg9GtE1Y2O1D/TrZEWQkmS1as1khs4r6/71ySZEqh7biCp1UwoClFp4mrewGMBfSJQDU1TX58TqgnlJBxNlWLeghWA/4kV/SVzQOMsQ==;/HQoSE2KmxerHWziBuvSqQ=="
 ---

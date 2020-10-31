@@ -41,17 +41,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Gesture Recognition Market: Global Industry to Reach USD 38 Billion by 2026"
-    excerpt: "According to the Facts and Factors Research Report the global gesture recognition market in 2019 was approximately USD 9 Billion The market is expected to grow at a CAGR of 23 and is anticipated to reach around USD 38 Billion"
-    publishedDateTime: 2020-10-26T12:48:00Z
-    webUrl: "https://www.openpr.com/news/2171701/gesture-recognition-market-global-industry-to-reach-usd-38"
-    ampWebUrl: "https://www.openpr.com/amp/2171701/gesture-recognition-market-global-industry-to-reach-usd-38"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2171701/gesture-recognition-market-global-industry-to-reach-usd-38"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 22
   - title: "Hangzhou may ban mandatory collection of facial recognition scans in residential communities, marking China’s first"
     excerpt: "A visitor tries facial recognition payment in a smart store in Wuzhen Town of Tongxiang, east China's Zhejiang Province, Nov. 6, 2018. (Xinhua/Huang Zongzhi) The East China city of Hangzhou may ban property management companies from requiring residents to ..."
     publishedDateTime: 2020-10-28T16:26:00Z

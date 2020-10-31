@@ -45,32 +45,18 @@ related:
         height: 506
         isCached: true
   - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-    excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete end-to-end monitoring and control capabilities, and ..."
-    publishedDateTime: 2020-10-30T10:47:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
+    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
+    publishedDateTime: 2020-10-30T10:45:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-corporate-news-environment-and-nature-734d597e03cb3667b0d8a9f1c5008832"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 60
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ..."
-    excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,"
-    publishedDateTime: 2020-10-26T14:01:00Z
-    webUrl: "https://www.thedailytimes.com/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_10ca99a4-1e8d-5158-b85f-f01ecf8b6a08.html"
-    type: article
-    provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
-    quality: 34
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-        width: 600
-        height: 600
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "zbyXvCQgZfFLho9QhqA0je9qV8HHfSU+hlvsu08cmduK6ihAAqolkTuxzwL5NuDyoh0u/6YSczKgqlpU3IjXufKmo5LDZVTGhESkbo4KyTMWZks34jOvXyWPDcmk3SFKD9uuw9t54bnQppZr43g0oBFkJZUa1CjkfNBvX1SSPo48I0kK1lxbalbbZQX1m+R9fEVQfC8tbLE7CMxu9fwPEwNBBEyaoXqx1ydwohnBJuRrJmx93MwtsJj/4DJk2mXHXhBa3h56mnhezjs3kduA8EIbqVx2/nryQ86FFtQ8FBoVWFWPxZqZsGqYUGWBttrKv09zUbe88BPn68zG8E1Yvg/wmcWbbY7/+r6tb5kB7rY=;SGkDxwTOzJQ6nVEw82FS9Q=="

@@ -3,25 +3,31 @@ category: news
 title: "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed"
 excerpt: "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng Motors is less bullish on the prospect. “They have to make a ..."
 publishedDateTime: 2020-10-28T11:16:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed"
+originalUrl: "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis"
+webUrl: "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis"
+ampWebUrl: "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 74
+heat: 94
+published: true
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: South China Morning Post
+  domain: scmp.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2020/10/28/915555.jpg"
-    width: 1240
-    height: 697
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/28/15c96424-18cf-11eb-8f67-a484f6db61a1_image_hires_142109.jpg?itok=umrS2udr&v=1603866075"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -41,21 +47,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Transport Ministry Supports Self-Driving Pilot Projects in Beijing, Shanghai, Hebei"
-    excerpt: "China’s transport ministry has said it supports pilot projects in frontier fields of smart transport such as autonomous driving and vehicle-road synergy in the cities of Beijing and Shanghai as well as Hebei province."
-    publishedDateTime: 2020-10-28T11:33:00Z
-    webUrl: "https://www.yicaiglobal.com/news/transport-ministry-supports-self-driving-pilot-projects-in-beijing-shanghai-hebei"
+  - title: "Watch a self-driving Roborace car drive directly into a wall"
+    excerpt: "Roborace team SIT Acronis Autonomous suffered an embarrassment in round one of the Season Beta 1.1 race after its self-driving car abruptly drove directly into a wall. It’s not certain what led to the mishap, but track conditions clearly weren’t at ..."
+    publishedDateTime: 2020-10-29T15:36:00Z
+    webUrl: "https://www.engadget.com/roborace-self-driving-race-car-drives-into-wall-142758048.html"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 33
+      name: Engadget
+      domain: engadget.com
+    quality: 54
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/transport-ministry-supports-self-driving-pilot-projects-in-beijing-shanghai-hebei/8912044003164160.jpg"
-        width: 720
-        height: 480
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fb825ca40-19ed-11eb-bb3b-04bd00ecab5d&client=amp-blogside-v2&signature=254fb6ed3de8a2aa597ee4257fa5042443c273a1"
+        width: 945
+        height: 630
         isCached: true
 
-secured: "uGOHnfyw85wFQL8VqRbaglL+kaISpbDUdZxRh6JlxGgqH8k9r2PB2rv65uoD5VGJgSq2PJWfXoUfRXHYJ1ngaBXzEw3bmTjF6mdgOyqcO07zHcRKyD7PpfTaUEVjIckJDtRqUoPUJ7SLf4BZ8ba8F1HjRVwfUBXZ0W26Djx+YmYNAu5GqDWY2WIDRcxJ52ELtuCmcA5kM2G76e/vCYEptWz+ZAQcZ3Y1dOMM6D7QdQrfaj6/rm0IKYzx7XqC4okdsckrZp/KWi2gBE1wdE84zbHfN1seTxWTHisR42Gd50xBayhbT7mEWiDrOaPrpILLqF5yQst8kUpZFa7TmHjUCRFwaH7BUApJ0CD30Wl93qsjbjKVOhma4HjmwcIgrT5QlxgRzDWMyMbfW7jBIiDKdJ9xCRtpaZo5A6MaW9DyS4+b5JszPSz8c4TUK8PCSNPJp8E7aqJ4GfHwhn530pVj9h4+db+ZeOMaoORoJqWisP8SwqyPxvNBMV7sMYB+zyyzaps53tKPbn4ct/Zz77TqMA==;0xuyWSXQHhx5pa6c8cPXsw=="
+secured: "Z6iPnkxMMGQHHXZrM698lvFDvxB2/QNqzkg37G/u3oxTlV3uMvGGrOwc3FGb8YFRfRgK6y+UCrA76mC26F3jZnt6GiVbzIR5FMXM9qstBM+uy3Hu/RL5Q7auQGcp8+gP0KvNczAeXLxOtZjTIP+hBAn5Ie/RVSKLKGVocdB8lEVQWCyd+8Uzw00vMTT7o8KQHVQaP1ONoIlB/71ZVbgfZHpPKXL2+P8++S8ykKt+R2ckGfbVWUgKmNUDBMX6VkC25YETSMNpwTXi/F8IFwBxrz5Cp9n3YBudNqDXT0ICPNXGT77ie9V17DBrsyhoAA870vjD+E14BctaqN+IdpbeLAzIdPN5HboVEUjSvDNvg3A=;z3S5TUdt03BAl6aSJEG5Ow=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete end-to-end monitoring and control capabilities, and ..."
-publishedDateTime: 2020-10-30T10:47:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
-webUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
+excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
+publishedDateTime: 2020-10-30T10:45:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-corporate-news-environment-and-nature-734d597e03cb3667b0d8a9f1c5008832"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-corporate-news-environment-and-nature-734d597e03cb3667b0d8a9f1c5008832"
 type: article
 quality: 60
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -57,21 +57,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ..."
-    excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,"
-    publishedDateTime: 2020-10-26T14:01:00Z
-    webUrl: "https://www.thedailytimes.com/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_10ca99a4-1e8d-5158-b85f-f01ecf8b6a08.html"
-    type: article
-    provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
-    quality: 34
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
 
-secured: "FvjX5uYiVKivRJ/ET+0SWH4+o5vAgPWGjSOo2fHOGl0II0hFR5cjp4iQrBzHAQkfBA99EpUE9GyU6vY6z5EJCOX0uMr6Nc1Fw/HT2nyedrtgsnASUvPFhDKOTR750i8B/oPJT3RA2Veq0Ui/hf4SM2GpIgX6T3WlI1sbQHN0ucNf+S5BrE+i3GrHYzuEcAUiRYim8toVvyZqgMZnkrjjWdZtWOh2KQR8KqHS8XwjrJS7rrseaQZhaK92KJ3/BEZpBaRRRts+EWPOihqXJydTRv6bToxWn7WFp7GvXGen/k+HlRQpHp4lWMGABbhhV1B6Wn+kqPtsn6PydqTtLCq/Fmy6ODv3CCZBLGbzZ8rbZxU=;mwisvgCAgK/LIojhm5P6Ug=="
+secured: "4FUBsxGxG99rIS9EVKoxnf9yVx2PhPluO3C+sI39TsrKPQ8gFQ+F6T6v0yyfP3Zk98x1x2cq2pHFBa067LRWTWFH7W+ul46dySuiWREFa3X1W9QpQ4kltlCd/Ye7ZTjCzQtHVPOvPg/eP3br3PFZVxT6Gf3Zn97Jh/Ax4UcvVMM/uIzroa2TpgWiPo5tHWSG5N8A237qk6K498kw6XOFcxdo0tImDc5iSxgyaRb1G7/Vwxdvic38p5Dsn0cuXGI+MqH3KD2WnGng7tQzxaiBLxNRx2+5hhyAUYCCCj9+GK1mTj2X/bZXCgi2OjUnWvjebEXkz+LlRPq2AlCVHAJkkTPsNOENLHXFtcarPLjQj4M=;Sn7tIGzIENcmfC9Rlbxs9w=="
 ---
 

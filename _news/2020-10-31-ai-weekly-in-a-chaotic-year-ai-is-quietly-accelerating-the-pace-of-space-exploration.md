@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/30/ai-weekly-in-a-chaotic-year-ai-is
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/30/ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 90
 published: true
 
 provider:

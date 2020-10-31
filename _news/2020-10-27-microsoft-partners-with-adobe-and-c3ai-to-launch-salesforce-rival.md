@@ -73,22 +73,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Microsoft Teams With Adobe and C3.ai to Take on Salesforce on Its Home Turf"
-    excerpt: "Microsoft Corp. is teaming with Adobe Inc. and C3.ai, the company of customer-software pioneer Tom Siebel, in another bid to better compete with Salesforce.com Inc., the market leader for such programs."
-    publishedDateTime: 2020-10-26T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-26/microsoft-teams-with-adobe-and-c3-ai-to-take-on-salesforce-on-its-home-turf"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 102
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCRYcRiao68M/v0/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "C3.ai teams with Microsoft, Adobe on joint enterprise CRM platform"
     excerpt: "The joint offering is a combination of the Adobe Experience Cloud, the C3 AI Suite and Microsoft Dynamics 365."
     publishedDateTime: 2020-10-26T17:40:00Z
@@ -100,6 +84,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 101
+  - title: "Microsoft Lobe to train AI, machine learning models without writing code"
+    excerpt: "Microsoft has announced the availability of Lobe, a desktop app to train artificial intelligence (AI) and machine learning (ML) models."
+    publishedDateTime: 2020-10-31T05:50:00Z
+    webUrl: "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/"
+    ampWebUrl: "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/"
+    cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 90
+    images:
+      - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/10/Microsoft-Lobe.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "C3.ai's Tom Siebel on the Microsoft and Adobe partner to take on Salesforce"
     excerpt: "Tom Siebel, C3.ai CEO, joins \"Squawk Alley\" to discuss the company's partnership with Microsoft and Adobe to take on Salesforce."
     publishedDateTime: 2020-10-26T19:34:00Z
@@ -186,20 +186,6 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133199-1020_DataQuality_480x610-ORG.png"
         width: 480
         height: 610
-        isCached: true
-  - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
-    excerpt: "C3.ai, Microsoft Corp. (NASDAQ:MSFT), and Adobe Inc. (NASDAQ:ADBE) today announced the launch of C3 AI ® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"
-    publishedDateTime: 2020-10-26T13:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-government-and-politics-north-america-software-industry-c9e7ea2475d8493ea3219b6741721298"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 71
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
     excerpt: "C3.ai, Microsoft Corp. (NASDAQ:MSFT), and Adobe Inc. (NASDAQ:ADBE) today announced the launch of C3 AI® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"

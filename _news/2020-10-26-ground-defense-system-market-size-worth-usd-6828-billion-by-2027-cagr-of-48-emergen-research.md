@@ -35,17 +35,6 @@ related:
         width: 650
         height: 381
         isCached: true
-  - title: "Machine Learning Market Witness the Growth of $8.81 Billion by 2022"
-    excerpt: "According to a research report Machine Learning Market by Vertical BFSI Healthcare and Life Sciences Retail Telecommunication Government and Defense Manufacturing Energy and Utilities Deployment Mode Service Organization Size and Region Global Forecast to 2022 The machine learning market size"
-    publishedDateTime: 2020-10-26T13:13:00Z
-    webUrl: "https://www.openpr.com/news/2171781/machine-learning-market-witness-the-growth-of-8-81-billion"
-    ampWebUrl: "https://www.openpr.com/amp/2171781/machine-learning-market-witness-the-growth-of-8-81-billion"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2171781/machine-learning-market-witness-the-growth-of-8-81-billion"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
   - title: "Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio"
     excerpt: "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register an incremental growth of USD 3.35 bn, at a CAGR of ..."
     publishedDateTime: 2020-10-30T08:11:00Z

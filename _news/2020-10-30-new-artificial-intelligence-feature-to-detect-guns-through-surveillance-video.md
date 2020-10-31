@@ -2,14 +2,14 @@
 category: news
 title: "New artificial intelligence feature to detect guns through surveillance video"
 excerpt: "The company Omnilert is rolling out new technology that allows security cameras to identify a gun, and alert guards in the area of the potential threat. The hope is to use this tool in schools, airports,"
-publishedDateTime: 2020-10-29T19:19:00Z
-originalUrl: "https://abc7chicago.com/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
-webUrl: "https://abc7chicago.com/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
+publishedDateTime: 2020-10-29T22:28:00Z
+originalUrl: "https://abc7chicago.com/technology/new-artificial-intelligence-identifies-guns-in-security-video/7431778/"
+webUrl: "https://abc7chicago.com/technology/new-artificial-intelligence-identifies-guns-in-security-video/7431778/"
 ampWebUrl: "https://abc7chicago.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
 cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -28,21 +28,16 @@ images:
 related:
   - title: "New artificial intelligence feature to detect guns through surveillance video"
     excerpt: "The company Omnilert is rolling out new technology that allows security cameras to identify a gun, and alert guards in the area of the potential threat. The hope is to use this tool in schools, airports,"
-    publishedDateTime: 2020-10-29T13:40:00Z
-    webUrl: "https://abc11.com/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
-    ampWebUrl: "https://abc11.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
+    publishedDateTime: 2020-10-29T13:39:00Z
+    webUrl: "https://abc13.com/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
+    ampWebUrl: "https://abc13.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
     type: article
     provider:
-      name: WTVD
-      domain: abc11.com
-    quality: 54
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/5964951_022420-kgo-no-guns-img_Image_00-00-55,05.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: abc13.com
+      domain: abc13.com
+    quality: 34
 
-secured: "VGFNKyXNlHdLr9xvb48hL9ycLMPeGlmEYWqWU2WdqPDdKZspaJCNkKiB9qjlDxu4G5hq74OUcXEnunhSynsn98b/gtXRapvCJHhJffNwOwuCWFpcKEpnQHhAsV79y44FTTb1+OImQ2cckQTB+Ik1LXT6I56YMGduyaUgIDJseG3LwESBvsFCvEZ47bew0Pt2Jq2pe7K8iDNWhlD0XRCyPq2/5Jcr8NZJ9hEh9y0LxaPo0HpzCQCry7H/3Eg/DnbBwb67Kri4Ct2uTzSXti4T8pA2tBt4yEYpdO7Urx8O7YbaIhwbmG7TODhsdYAFYDb2yuSDrB8A/Lt1BXlFQLeKCJuWNbvC2mrDBVqzcajMsXbHSS0HQLRiLKIK3CdQZwfS6UkHJUDqihTQrLPazgly++BByS/7KusLq40xr6GEOrqcvc/wciKTJmwTeLYUI4edN3YVJVvYA/nBU7cwctZ/Z7aamGJiddfaNr1IoMiGfJdVlBw9+eC2yQAMCVcwwFmvDN4r/Esbt3AuPvQrhtKf2g==;/IffAf4gdjnNk8bxpPecuQ=="
+secured: "cHTaPV/UdFbBbSVfrRp+N32f/PkdOTYEjq4iQC3kg2kSab6qMKbBL/rcR1bKEZWyO3VJel/refpnyf72z7qo3njENfJZC13Yo059gLmY1lZgOfgH/+RCgmvt3VNwIQaF+RDJ8dxJBf1VoBR3R5r0j8x1Q1kkgISIweFJ7A4g8rZlwahgdMPpUE7eVb+EIcoTlqlcz9XtyC+LjAUyAIKn9jKDzqTaLWHbPE/1/VTlDtU7yLau/im5sA6wg0l+f93WpaBMd7gxXeBe8pB+mdaEtdo7SqxwqdsMY03fOIPbEelgKxrszHYZ7pq6foTJYQxxWbBewM3YHgm9z5b8pIOAL0AFCMMSzGMvmg8F+Fme6Dk=;EDpli0DZakgKb8ahAAS/aQ=="
 ---
 

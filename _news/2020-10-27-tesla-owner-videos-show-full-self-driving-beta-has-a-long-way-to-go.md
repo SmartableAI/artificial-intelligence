@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's Self-Driving Beta Fleet Is Generating An Immense Amount Of Data"
-    excerpt: "Many experts warn against Tesla's approach to self-driving tech. It's too early in the game to know who's right, but relying on data should be a positive."
-    publishedDateTime: 2020-10-26T14:22:00Z
-    webUrl: "https://insideevs.com/news/450886/tesla-full-self-driving-beta-generating-reams-data/"
-    ampWebUrl: "https://insideevs.com/news/450886/tesla-full-self-driving-beta-generating-reams-data/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/450886/tesla-full-self-driving-beta-generating-reams-data/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/y8PYo/s1/tesla-full-self-driving.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Watch The Most Telling Tesla Full Self-Driving Beta Videos To Date"
     excerpt: "As you can see from these fascinating videos, Tesla's new Full Self-Driving capability rewrite can do some pretty cool tricks, but it's nowhere near ready."
     publishedDateTime: 2020-10-28T13:13:00Z

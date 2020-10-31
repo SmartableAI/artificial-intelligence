@@ -43,34 +43,6 @@ related:
         width: 900
         height: 485
         isCached: true
-  - title: "COVID-19 Is Redefining Healthcare Innovation"
-    excerpt: "\"It's kind of ironic. Data and computers are helping deliver more personalized medicine,\" says Dr. Andrew Masica at State of Reform's North Texas Conference."
-    publishedDateTime: 2020-10-26T14:18:00Z
-    webUrl: "https://www.dmagazine.com/healthcare-business/2020/10/covid-19-is-redefining-healthcare-innovation/"
-    type: article
-    provider:
-      name: D Magazine
-      domain: dmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.dmagstatic.com/wp-content/uploads/2015/08/d-logo-square-facebook-default.jpg"
-        width: 345
-        height: 345
-        isCached: true
-  - title: "Offices struggle with COVID-19 social distancing measures"
-    excerpt: "“If you have people coming into the office, it’s very rare for them consistently to be six feet apart,” said Kanav Dhir, the head of product at VergeSense, a company that has 30,000 object-recognition sensors deployed in office buildings around the ..."
-    publishedDateTime: 2020-10-26T14:03:00Z
-    webUrl: "https://www.benefitnews.com/articles/offices-struggle-with-covid-19-social-distancing-measures"
-    type: article
-    provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 24
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/b691839/2147483647/strip/true/crop/3963x2081+0+280/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F91%2F19%2Fcd62628042a18e8d45ef4d745f8a%2F365426587.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "RBFB+J+pzzL04VVsUEbi+DLBo7b2UaVmZEgYHS2VcaS0zvhzQKAV8BECIpqD4HjVkcJm+5H7czI8gz5eNPfKJWkgrDfwhgDz+fJhxTHfWjA3jqUJXtNIO3ruonl31088/bTSfZKxmpAWnzrQMip/dPB9Od7mbtO699LNKQxZUIIZplG0PAoFszopR4BZeFI4C/vB3P+H6z8BHrbnUdUZjKu1S7uGS+jAfMdL1HZlXXgh2HMUrGhAPv/KxWbfj1UHyKuwoN3UEFNEgKa+tLBLRSkdhiSPATZqGT9Em1sAb7Idh9KxRaAsCa09iBeH8e+xO5k1kdqHGsoemnNmuINZJ8ZoQvPp6snubswQ0lM71X8=;WZUEOTHBG7q0GCbNGl/NAQ=="
 ---

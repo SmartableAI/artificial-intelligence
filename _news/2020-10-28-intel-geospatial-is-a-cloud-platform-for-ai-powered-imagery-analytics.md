@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/shutterstock_1624010191.jpg"
         width: 1300
         height: 500
-        isCached: true
-  - title: "The Zynga Analytics Platform in 2020"
-    excerpt: "Zynga analytics is a team of over 70 analysts, data scientists, and engineers distributed across 6 counties supporting development and live operations for dozens of mobile games. While our studios leverage a variety of technologies for storing and processing tracking events from our games,"
-    publishedDateTime: 2020-10-26T14:17:00Z
-    webUrl: "https://gamasutra.com/blogs/BenWeber/20201026/372498/The_Zynga_Analytics_Platform_in2020.php"
-    type: article
-    provider:
-      name: Gamasutra
-      domain: gamasutra.com
-    quality: 24
-    images:
-      - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1028926.png"
-        width: 1100
-        height: 1197
         isCached: true
 
 secured: "HCYDr+tVFAyh/KHvQxVPu4sXRGihX580kfSef4k5Kr97fq52i+RNXwZTgPsjPrssAv4pvhATxryitAfvKIr7+H6J7Ks/mvZn/pyw8StgcBBeWKBOtL5sSkYq3FdByaD5fNsO3GlwJ6AfkU9GymNX0rB7qkVaApjfraF94nZnBcJDV2DDDokX0Mn0y2eZoMGur5RA3YDw6EJRiDBwOoODP6m3AkG2wsEOB+1v4xuAJF/GtuF2DGeuONXMX5jjkJsoRvSopsubwxRqhwUqvGFszG6GrJ5kVp1sPwCIgNPEG97tdehqbLDu28v/6/3CT4uKDvFzyBtZ8iLgzdN/QmkOlXiMux6V4oaqKeOfVaVUZBSo9jlxhTy0iMMLsckuGMGuwgAhyx5sAg0pagOHEXvs8oyhP696t1rcTz6HK4aiaT4JrmczYrXlvSZTDlswW868ceYoGfkESRMEvlObrvw6plDVuy1ZzrqlO8Oac2esjMt4eRwpkcGXdZi4z1Q3Vaqjy8iCrWMVNlDAQuqTQQnEQg==;9dHY3x4fOljc6ERuWjYJCg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/legaltechnews/2020/10/26/ai-and-the-legal-busi
 webUrl: "https://www.law.com/legaltechnews/2020/10/26/ai-and-the-legal-business-model-why-time-is-up-for-the-billable-hour/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,47 +22,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "2021 is the time for AI to shine"
-    excerpt: "Companies and C-level leaders will tackle kinks in AI head on in 2021, not because they want to but because they have to."
-    publishedDateTime: 2020-10-26T14:53:00Z
-    webUrl: "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 71
-  - title: "A|I: The AI Times – The wrong stick"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2020-10-28T10:02:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-the-wrong-stick/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 39
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/09/artificial-intelligence-4389372_12801-1024x682.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "AI are the letters to remember for accounts payable"
-    excerpt: "Intelligent automation empowers accounts payable to be more proactive in making strategic contributions to the longevity of the business. With automation and advanced analytics, AP teams can process invoices more quickly. Automation ensures invoices are ..."
-    publishedDateTime: 2020-10-27T15:02:00Z
-    webUrl: "https://www.paymentssource.com/opinion/ai-are-the-letters-to-remember-for-accounts-payable"
-    type: article
-    provider:
-      name: PaymentsSource
-      domain: paymentssource.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/fa45217/2147483647/strip/true/crop/1177x618+0+280/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fd9%2F9b%2F94fe065c45088edd2b55a7b64977%2Ftrapani-michelle-kofax-opinion-pso.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "rJNK1cvff8X65bD2kjJkvd3M4ln9X/+xRFfKRkchCTUPWpOLzOjKCSy+syculuadRhpNSRYxRqxOYO4ZZxRiNgOZmQiWgDnawfJ9V67M9j9NJpd7gI3jLHmMtwlFbosTraLEMju9GH+nGaIJ4ALgiPkVjyrN2AraZgjkQRY1vtNYPMaYSH37AQ2x5Y55gcjd41nF9U/EdNmiB0hZL4kGTfVTalMdvIECl6d1gBmnqMSn17v68mt5AE9t/Edqy6WGBkR64SKicfR/CmmANv7Db5XGUsrePHsdcdl4vMSydG6XP0FYzpsGq1stajm3pXz5z0Jy1qB0Zoi2KuEgVCCImlCE/k2jaGiNr1OLXMnudwdDgocSzGAlIstaFizC267Z4Tl15EqKNBWy5Wgk4Sius1F7FpnQjngOOAkN2jTCwAheOoRcrvhK7GImIFje4hhJVCcoWsD+YL+3ZMBicssh5+9BLwIosfBR7SehbW+iBGvHrWxHnW4VaP0XnVqnGLVuThvGJS4Sru+9d07LmaWEzw==;FNjEeAYZXQxkNs9+ouDsCw=="
 ---
