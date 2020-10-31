@@ -107,20 +107,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tesla Owner Videos Show 'Full Self-Driving' Beta Has a Long Way to Go"
-    excerpt: "Tesla warned its testers that the car could do \"the wrong thing at the worst time.\" Videos show the car swerving in traffic and stopping mid-turn."
-    publishedDateTime: 2020-10-27T02:33:00Z
-    webUrl: "https://www.thedrive.com/news/37282/tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 39
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2020/10/oop_970x546.jpg?quality=85"
-        width: 1940
-        height: 1092
-        isCached: true
   - title: "Tesla increases price of Full Self-Driving to $10,000"
     excerpt: "Tesla continues to raise the price of its Full Self-Driving (FSD) electronic driver-assist feature. The company raised the price to $10,000 this week, up from $8,000 previously. The feature cost $ ..."
     publishedDateTime: 2020-10-30T12:40:00Z

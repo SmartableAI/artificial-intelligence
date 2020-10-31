@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "First Responder Technologies Completes Alpha Version of Sentineltm Vision Camera and Weapon Detection Computer Vision Model"
+    excerpt: "First Responder Technologies Inc. (“First Responder” or the “Company”) (CSE: WPN | OTCQB: WPNNF | FWB: 3WK), a developer of WiFi-based"
+    publishedDateTime: 2020-10-27T11:26:00Z
+    webUrl: "https://www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123.html"
+    ampWebUrl: "https://www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123/amp"
+    cdnAmpWebUrl: "https://www-sharewise-com.cdn.ampproject.org/c/s/www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123/amp"
+    type: article
+    provider:
+      name: sharewise.com
+      domain: sharewise.com
+    quality: 33
+    images:
+      - url: "https://d1rf73nqj6wzfm.cloudfront.net/assets/0125-c6c561f58331c85fbd72996709e8402db48dba8d4cd7beff3c5c75c82fdb64a0.JPG"
+        width: 3216
+        height: 2136
+        isCached: true
   - title: "First Responder Technologies Completes Alpha Version of Sentinel™ Vision Camera and Weapon Detection Computer Vision Model"
     excerpt: "CNW/ - First Responder Technologies Inc. (\"First Responder\" or the \"Company\") (CSE: WPN) (OTCQB: WPNNF) (FWB: 3WK), a developer of WiFi-based technologies for detecting concealed weapons and for deterring mass shooting and terror attacks involving concealed weapons,"
     publishedDateTime: 2020-10-27T10:15:00Z
@@ -37,15 +53,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 5
-  - title: "First Responder Technologies Completes Alpha Version of Sentinel(TM) Vision Camera and Weapon Detection Computer Vision Model"
-    excerpt: "The Sentinel TM Vision Camera is an advanced security camera and computer vision platform that gives users access to innovative weapon detection technology. The camera, which is designed and manufactured by First Responder, interfaces directly with First ..."
-    publishedDateTime: 2020-10-27T10:13:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/10/27/first-responder-technologies-completes-alpha-version-of-sentinel-tm-vision"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "bmFuBeAZuhrlNAwy4wXw26bCVkXwN6/is85BIYXUddzPtT/dW/UkGzkzr7fnj2KFQCog1M0ng1cVLCIcgbUp6F5v3WDfoTmGsK1oq+IOWliiybQ1DL2vyDLxlz5+ngclEKmN6H9Twehe9zzyw073HIQEFZ2cWRdkmR0ofZqNo+a+AbFbMhbYlVZXqMw7xyOfUYL0M7/Ml1lVwzPKUtGHz/sHptmaqPZIQw0atXYHq+kQ/5k5Hn8X1DPIelgvb0uyJdTmU+RdZ/jGzfQy/Dy4NDoCogtQCkPz8WAjym6YFPB5y3VZJRPLwR6M0ZjHvwX/QVVwUNcwwnX3XpZAYShpWuYvd8QW5JKj3SUpgYTiTHI=;/LMu3TciFhr86iK9gtyWUA=="
 ---

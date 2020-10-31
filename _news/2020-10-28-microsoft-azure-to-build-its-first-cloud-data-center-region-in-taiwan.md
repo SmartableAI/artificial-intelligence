@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
+    excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
+    publishedDateTime: 2020-10-31T18:43:00Z
+    webUrl: "https://siliconangle.com/2020/10/31/analysis-epic-pivot-cloud-microsoft-makes-azure-linchpin-future/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 45
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/AdobeStock_321471082_Editorial_Use_Only-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft sees strong growth in latest financials – as analyst puts Azure bigger than Windows for first time"
     excerpt: "Microsoft has reported revenues of $37.2 billion (£28.8bn) for its most recent quarter with Azure revenue growth at 48% – as one analyst argued Azure has overtaken Windows numbers for the first time."
     publishedDateTime: 2020-10-28T13:18:00Z

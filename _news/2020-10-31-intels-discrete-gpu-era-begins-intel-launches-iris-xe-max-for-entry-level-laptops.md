@@ -89,6 +89,22 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Intel Accelerates Content Creation And Gaming With Iris Xe MAX Mobile GPU And Deep Link Tech"
+    excerpt: "The true differentiation that Intel is bringing to laptops with Iris Xe MAX is a technology it calls Deep Link."
+    publishedDateTime: 2020-10-31T19:07:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9daf8d005f33325dff7961%2F0x0.jpg"
+        width: 1000
+        height: 676
+        isCached: true
   - title: "Intel Launches Its First Discrete GPU for Laptops, the Iris Xe Max"
     excerpt: "(Credit: Intel) The GPU—also known as the DG1 ... Topaz Labs' Gigapixel AI, and XSplit Gamecaster will be able to tap Deep Link, and support for more third-party software is arriving in the ..."
     publishedDateTime: 2020-10-31T16:11:00Z
@@ -100,6 +116,20 @@ related:
     quality: 69
     images:
       - url: "https://sm.pcmag.com/t/pcmag_in/news/i/intel-laun/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-x_rpsw.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Iris Xe Max: 5 Things You Need to Know About Intel's First Discrete GPU"
+    excerpt: "Intel's Iris Xe Max, debuting on laptops first, is the first discrete graphics solution from the chip giant, but its purpose and feature focus may surprise you."
+    publishedDateTime: 2020-10-31T08:00:00Z
+    webUrl: "https://au.pcmag.com/graphics-cards/83652/iris-xe-max-5-things-you-need-to-know-about-intels-first-discrete-gpu"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/opinions/i/iris-xe-ma/iris-xe-max-5-things-you-need-to-know-about-intels-first-dis_cdqb.1200.png"
         width: 1200
         height: 675
         isCached: true
@@ -118,6 +148,6 @@ related:
         height: 457
         isCached: true
 
-secured: "zxvNk5HvwFVMSuAa4MxurTKDCRfKfAzATIoVlc7T0JmDr/x4F/YutFtG4spcUfXkxNLU4Q9PN195fBjza5P3gXsv7zICr9r+73crZ7WqGN4pKTjNcM9uOVeUlY5l06ZxaYt7XVxtM0x4seMtrwQtTex5uMKtcPrPgYOla6Vk5vHmS52FTboC/9PJvoNZX2vBMgGa+knpakSJtsVJuQS9sheY5nKnf+iKUhpRcC0z1SS4VdAICgGYJBSUtMkTcYXTCz/dpX23mKA2n7Blgcp5xoXvblK1Vk2WtP+GInbNvjg6u9jOKWvwUG+m/cFQuFyulfScswLQIJfiCmFsmvDJr89MisVNxI5qNt/v5TbhT8A=;dOnF95LbV6GXFGUcarZA8A=="
+secured: "Kdzn3ZXeYGcEI2jq49fcxjZrZfk1mN3j/gDe7n6YCa3eGoK64RKllYZogw2VSIY4psQjtng1+b5eOvFUhwieBHSTC1BzKQr3sTwo9OCeszUcjh8LUIJrXKI938WyV3C52YGVFUHEqgx+aBTONO3mHOr85r9Ty237+m15J6SVlnQu06KsRrVIIkKoqnNTY9Euf5NvT/JLT/7FOWzMgCKo6M/wMSeia1p0mXq46VFkfCwkRPf7MjBAKJDaZhRYBDqYARhiPauEcOuaZnN9APP1wV8hydCkLanUC1bcTvtrfZxZwD4mokFQtijWySHmGALzHNMp69ci8B1Bsi+jIz0k94yQoJFcQBsIEK9HP/+XXZqA7ou2YIUnGHQJcHTZ06sYFJfxwgLPyoW3ernaTxRVjji5VV5ov4HfWYVi0K/KhOPGPa81/SiJgd1jCHG0Xltjq3kfo0lPS9goTI/LugXrBojcJZ8yjo2/OCSmBhlziJjYHZo8gT6A+EfG6+5XKdpi+6qGlnnzTteyWxLfqxNtyg==;jcATBsSIOtmeq8TFST8SIA=="
 ---
 

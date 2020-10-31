@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/roborace-self-driving-race-car-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborace-self-driving-race-car-crash/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Roborace Crash Proves Self-Driving Cars Still Not Yet Ready For Prime Time"
+    excerpt: "In case you haven’t read it elsewhere, what happened was thus: The UK-based Roborace holds events every year where six teams compete with electric cars in a three-lap time-trial through what’s referred to as a “metaverse.” The cars in this race are ..."
+    publishedDateTime: 2020-10-31T18:06:00Z
+    webUrl: "https://www.forbes.com/sites/joshmax/2020/10/31/roborace-crash-proves-self-driving-cars-still-not-yet-ready-for-prime-time/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 52
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9da62aa9255117dfd1798f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-Driving Racecar Hits Accelerator, Immediately Crashes Into Wall"
     excerpt: "A self-driving racecar had a terrible start during the first-ever live broadcast of Roborace, a competition in which autonomous electric racecars go head to head As soon as it started its lap ..."
     publishedDateTime: 2020-10-30T16:40:00Z

@@ -93,6 +93,36 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Intel Accelerates Content Creation And Gaming With Iris Xe MAX Mobile GPU And Deep Link Tech"
+    excerpt: "The true differentiation that Intel is bringing to laptops with Iris Xe MAX is a technology it calls Deep Link."
+    publishedDateTime: 2020-10-31T19:07:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9daf8d005f33325dff7961%2F0x0.jpg"
+        width: 1000
+        height: 676
+        isCached: true
+  - title: "Iris Xe Max: 5 Things You Need to Know About Intel's First Discrete GPU"
+    excerpt: "Intel's Iris Xe Max, debuting on laptops first, is the first discrete graphics solution from the chip giant, but its purpose and feature focus may surprise you."
+    publishedDateTime: 2020-10-31T08:00:00Z
+    webUrl: "https://au.pcmag.com/graphics-cards/83652/iris-xe-max-5-things-you-need-to-know-about-intels-first-discrete-gpu"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/opinions/i/iris-xe-ma/iris-xe-max-5-things-you-need-to-know-about-intels-first-dis_cdqb.1200.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel Launches Iris Xe Max Discrete GPU With New ‘Deep Link’ Feature"
     excerpt: "Intel announced the launch of Iris Xe Max, its first Xe discrete GPU, which will use the company's new Intel Deep Link framework that aggregates CPU and GPUs to accelerate performance."
     publishedDateTime: 2020-10-31T16:27:00Z
@@ -122,6 +152,6 @@ related:
         height: 451
         isCached: true
 
-secured: "n3hy9v8/GcfBq6HhXYBHNmCp3t0HgBwgkuV8fSFdoC8B43+2rF6ErZykAWAWn04gCy5zkY4192+2KJClnH0xDKcm3UuOA0NvutyL0gFFpAZ3YC22av06rFDD++FRVq/vi9YU5FUAXd34X95zY3eN1AosKRimpLx0fUN/O3zi/wJGvaY6yuRVTt5Fn0fLfhoS6CbPvDvSVHMAQghZus4fw3WsWGH5hPMQc3VhZtf/JxmeinGiJrvty++Kv1zWzD7vuim6jiT6whm+dA63HS2GczP4lTueW4bQHJ0Uh5YdfHeS/3i2ZTNOdZ7sjqrVDfq3guZ4M4W8yL2aZDdchmAJKk03PZSJnRrTGu5ChO/A5x8=;eKQ+djREUc5HdK0fOeasRQ=="
+secured: "SpzuGreFjYMtjkcJ4k53eXifkoSUouteOnVAMHtQtJU3M8pc1vZISjJzyByiLoVO1PU0CFOcjvLdy669Bq8W8Trc+5LYOQz0/xnqNXTAMcbRCa1tmsF8Xv72LouK/YyfApr8b4ubBTVK1IzGVL1WRRQVS7NaDzu0xVRUbQPWDOwZKMlgie88hTvYLLjPAbduhbtzc44ITQy3cSrlKYo1OCbU3jQxBytJ6vQ288lJDE9JsK1eJif7/dXjHrxnLtMfKV6VcqgFmELOtxbyo+jxa9mXdxL/aIZAkamzsrNqOCJI4qfry+p3CJyIreuOg+Hm7OO49Vra3cCt5RgCHmAQNnJYlIIjGEtDbxcbwL+5FIZUv5xYdfZa8Rkjd7tho6c842T8m3Q/YYWrwpa+LPS9BgHsi9qF6xnKhi+Ezw37+rejFL/E2GXxXtuMPaIstP2QgGIGF30O/03fZiSOXRHaHqTMi+opTk/O9+5Z4kCHGQsowSwlz23yEeOHDWN7opoYOYMq9PmvuvjIVsu+dBX3hQ==;3s06r3i7W8UabCQjr/gjDA=="
 ---
 

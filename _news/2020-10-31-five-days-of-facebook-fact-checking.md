@@ -66,17 +66,6 @@ related:
         width: 700
         height: 474
         isCached: true
-  - title: "IT Giants like Apple, Facebook, and WIMI's Efforts in 5G+AI vision application of Hologram AR"
-    excerpt: "AR has become popular again. It was revealed that Apple is about to launch its AR glasses, called Apple Glass. The glasses look like ordinary"
-    publishedDateTime: 2020-10-27T01:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18066040/it-giants-like-apple-facebook-and-wimis-efforts-in-5g-ai-vision-application-of-hologram-ar"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18066040"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18066040"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 30
   - title: "Cloud and ad spending lift earnings at Amazon, Alphabet and Facebook"
     excerpt: "The big three internet giants today revealed improved earnings despite and in some cases because of the COVID-19 pandemic, as advertising and cloud computing growth buoyed third-quarter results. As online ads saw a rebound,"
     publishedDateTime: 2020-10-29T21:10:00Z

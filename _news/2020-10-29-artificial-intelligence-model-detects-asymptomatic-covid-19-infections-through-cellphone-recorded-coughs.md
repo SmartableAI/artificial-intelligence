@@ -45,17 +45,17 @@ related:
         isCached: true
   - title: "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19"
     excerpt: "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology."
-    publishedDateTime: 2020-10-28T14:30:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0"
+    publishedDateTime: 2020-10-28T14:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1322193/IBM_AI_Study.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "heD/dMThXkfAsytiQCVZlav32QQLeq9dTQSVfYXsgplTNrDqY2H6fXCVmVzlJKqFhIhdro4H3WTexP/eJ8B8hZ0rGabXe3DKVTSRvsH8Wxg2noUXSRmLIjyIWMAzFLPRTs8tfpjL+KNduMhTKmmkaaQaZcK3SSTq2+HgJJ9XwsAS73tp0Me9AU1kC5htDoX3mc34GoM50tWGbnpDE23606gyjH7qsuF1gyLz28g0MCkQaNgRsvcbmb8BiJH1olyJmWckKttdHKoYwQOe4646u5ByojcacsIh2H1itx6+AknBTWMT2MsLC20SouLKAIt84v/xAeOMWZdcK/+vKDvqPldVkkmb8Hc0A+LqFF04fg4QXofxyzCT7uYOaucdpIteQ1+wBOk+WCmC8cWPzjEk5Y9917N43Y+NBOf1se0dfWXGZzM6KIr4X9FiuuaSuh1JUB4bFEA77Sb9xUzKSk96TjttoqEzLHeiaXxBeiTvZsol7amguq3Nde4FsFhPEx/0e1rVpxJi6O6qKQltm/Pfnw==;HDzzZerlWVR9P2EtNi2iew=="

@@ -2,6 +2,197 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-10-07-if-steve-jobs-built-an-ai-company.md",
+      "title": "If Steve Jobs Built An AI Company",
+      "excerpt": "One of Steve Jobs’ favorite analogies was between a bicycle and its intellectual equivalent - the personal computer. AI is the e-bike for our minds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/",
+      "originalUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c91d652b0b9046292c711%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D771%26cropY2%3D4912",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/amp/",
+      "publishedDateTime": "2020-10-07T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-halloween-trick-or-treating-in-an-era-of-self-driving-cars.md",
+      "title": "Halloween Trick-Or-Treating In An Era Of Self-Driving Cars",
+      "excerpt": "Halloween in an era of self-driving cars. getty. Halloween is almost here! Even if this year’s celebrations might be somewhat less extravagant and require added care and precaut",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d052055c26817fc4463ad%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4164%26cropY1%3D14%26cropY2%3D2789",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
+      "publishedDateTime": "2020-10-07T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-deep-learning-in-computer-vision-market-business.md",
+      "title": "Deep Learning in Computer Vision Market Business",
+      "excerpt": "Deep Learning in Computer Vision marketing report has been structured by keeping in mind all the foremost aspects of the market research that put forth market landscape simply into focus Market segmentation is a significant parameter that categorises the market",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2151587/deep-learning-in-computer-vision-market-business-investment",
+      "originalUrl": "https://www.openpr.com/news/2151587/deep-learning-in-computer-vision-market-business-investment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta07735633_g.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2151587/deep-learning-in-computer-vision-market-business-investment",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2151587/deep-learning-in-computer-vision-market-business-investment",
+      "publishedDateTime": "2020-10-07T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare.md",
+      "title": "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare",
+      "excerpt": "“Validation and security of AI algorithms is a major concern prior ... in the control of the healthcare institution via their Azure confidential computing cloud infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare/article_51dace0e-a59b-57b9-8d5b-1af98a6788dc.html",
+      "originalUrl": "https://www.oaoa.com/news/business/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare/article_51dace0e-a59b-57b9-8d5b-1af98a6788dc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
@@ -985,177 +1176,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-meet-the-winners-of-raise-2020-how-investors-identify-unicorn-startups.md",
-      "title": "Meet the winners of RAISE 2020; How investors identify unicorn startups",
-      "excerpt": "Winners of the government-organised AI Solution Challenge showcased their solutions in the AI Startup Pitchfest today. 'Startup India Showcase' will be used to spread awareness and capture details ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/10/winners-raise-2020-investors-identify-unicorn-startup-ai",
-      "originalUrl": "https://yourstory.com/2020/10/winners-raise-2020-investors-identify-unicorn-startup-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/a0bad530ce5d11e9a3fb4360e4b9139b/Untitleddesign10-16019201173281-1601997903510.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/10/winners-raise-2020-investors-identify-unicorn-startup-ai/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/winners-raise-2020-investors-identify-unicorn-startup-ai/amp",
-      "publishedDateTime": "2020-10-06T17:37:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-applying-artificial-intelligence-to-science-education.md",
-      "title": "Applying artificial intelligence to science education",
-      "excerpt": "A new review highlights the potential of machine learning--a subset of artificial intelligence -- in science education. A new review published in the Journal of Research in Science Teaching ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201007085624.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201007085624.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-deep-learning-takes-on-synthetic-biology.md",
-      "title": "Deep learning takes on synthetic biology",
-      "excerpt": "Deep learning takes on synthetic biology Computational algorithms enable identification and optimization of RNA-based tools for myriad applications Date: October 7, 2020 Source: Wyss Institute for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201007085615.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201007085615.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-prosthetic-arm-can-sense-touch-move-with-wearers-thoughts.md",
-      "title": "Prosthetic Arm Can Sense Touch, Move with Wearer's Thoughts",
-      "excerpt": "The team published a paper on its work in the journal Science Robotics. Researchers tested the technology they developed for the LUKE Arm on Keven Walgamott, who lost his hand and part of his arm in an accident 17 years ago. Walgamott said he could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts",
-      "originalUrl": "https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/prostheticarm_0.jpg",
-          "width": 973,
-          "height": 1028,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-15-deep-neural-networks-show-promise-for-predicting-future-self-harm-based-on-clinical-notes.md",
+      "title": "Deep neural networks show promise for predicting future self-harm based on clinical notes",
+      "excerpt": "The team used complex artificial neural networks, a form of artificial intelligence also known as deep learning, to analyze unstructured, textual data in the electronic health record. Deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/2-deepneuralne.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-deep-neural-networks-future-self-harm.amp",
+      "publishedDateTime": "2020-10-14T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities.md",
       "title": "Futurism Reinforces Its Next-Gen Business Commerce Platform With Advanced Machine Learning and Artificial Intelligence Capabilities",
       "excerpt": "Futurism Technologies, a leading provider of digital transformation solutions, is bringing to life its Futurism Dimensions business",
@@ -401,19 +444,19 @@
     {
       "path": "_news/2020-10-14-deep-learning-market-growing-application-of-deep-learning-to-boost-the-market-growth-technavio.md",
       "title": "Deep Learning Market | Growing Application of Deep Learning to Boost the Market Growth | Technavio",
-      "excerpt": "The deep learning market size is poised to grow by USD 7.2 billion during 2020-2024, progressing at a CAGR of almost 45% throughout the forecast period, according to the latest report by Technavio.",
+      "excerpt": "LONDON--(BUSINESS WIRE)--The deep learning market size is poised to grow by USD 7.2 billion during 2020-2024, progressing at a CAGR of almost 45% throughout the forecast period, according to the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b17896663/deep-learning-market-growing-application-of-deep-learning-to-boost-the-market-growth-technavio",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b17896663/deep-learning-market-growing-application-of-deep-learning-to-boost-the-market-growth-technavio",
+      "webUrl": "https://www.businesswire.com/news/home/20201013006083/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201013006083/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20201013006083/en/830001/4/IRTNTR41147.jpg",
-          "width": 480,
-          "height": 271,
+          "url": "https://mms.businesswire.com/media/20201013006083/en/830001/23/IRTNTR41147.jpg",
+          "width": 1200,
+          "height": 627,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -421,13 +464,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17896663",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17896663",
-      "publishedDateTime": "2020-10-14T00:14:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T22:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1307,50 +1350,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
-      "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
-      "excerpt": "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves artificial intelligence (AI) to the edge without performance compromises in battery-powered internet of things (IoT) devices.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
-      "publishedDateTime": "2020-10-08T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

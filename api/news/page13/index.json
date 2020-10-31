@@ -2,6 +2,180 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-19-nxp-announces-expansion-of-its-scalable-machine-learning-portfolio-and-capabilities.md",
+      "title": "NXP Announces Expansion of its Scalable Machine Learning Portfolio and Capabilities",
+      "excerpt": "Zone Technologies to expand eIQ™ Machine Learning development environment ; NXP is the lead technology partner for Arm Ethos-U65 microNP",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-environment-and-nature-products-and-services-6f4e200e99d899de383bcce5d6463cf6",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-environment-and-nature-products-and-services-6f4e200e99d899de383bcce5d6463cf6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-is-artificial-intelligence-closer-to-common-sense.md",
+      "title": "Is Artificial Intelligence Closer to Common Sense?",
+      "excerpt": "Intelligent agents lack the common-sense knowledge they need to reason about the world. Traditionally, there have been two unsuccessful approaches to getting computers to reason about the world—symbolic logic and deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
+      "originalUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/AI-Closer-Common-Sense/en/headerimage/AI-Closer-Common-Sense-h-1602793884272.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
+      "cdnAmpWebUrl": "https://www-infoq-com.cdn.ampproject.org/c/s/www.infoq.com/articles/AI-Closer-Common-Sense/",
+      "publishedDateTime": "2020-10-19T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml.md",
+      "title": "How to Create a More Inclusive Customer Experience Through AI and ML",
+      "excerpt": "Eighty-four percent of consumers say being treated like a person, not a number, is very important to winning their business. However, there is a clear frustration amongst businesses in driving ROI, as 80% of marketers are on track to abandon personalization efforts by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
+      "originalUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2020/10/machine-learning-experience.jpg",
+          "width": 2440,
+          "height": 1627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp",
+      "publishedDateTime": "2020-10-19T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy.md",
+      "title": "Deep Learning Model Developed to Identify Appropriate Lung Cancer Therapy",
+      "excerpt": "Researchers are developing a noninvasive, method to analyze a non-small cell lung cancer mutations and biomarkers to determine the best course of treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/",
+      "originalUrl": "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.genengnews.com/wp-content/uploads/2018/11/Apr6_2018_Getty_490025288_LungCancer.jpg",
+          "width": 2000,
+          "height": 1547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence.md",
       "title": "Go Beyond Artificial Intelligence: Why Your Business Needs Augmented Intelligence",
       "excerpt": "When algorithms learn from our data, they mimic these imperfections and magnify the bias. There is ongoing research in AI to improve fairness and ethics. However, no amount of model engineering will make algorithms perfect. In the real world, if we are ...",
@@ -987,196 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition.md",
-      "title": "Automatically detecting personal protective equipment on persons in images using Amazon Rekognition",
-      "excerpt": "Workplace safety hazards can exist in many different forms: sharp edges, falling objects, flying sparks, chemicals, noise, and a myriad of other potentially dangerous situations. Safety regulators such as Occupational Safety and Health Administration (OSHA) and European Commission often require that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Person.jpg",
-          "width": 900,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T14:12:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-ai-weekly-us-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests.md",
-      "title": "AI Weekly: U.S. lawmakers decry the chilling effect of federal surveillance at protests",
-      "excerpt": "There’s a thread that runs through police violence against Black people and connects to overpolicing, onerous and problematic tactics like facial recognition, AI-powered predictive policing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/",
-      "originalUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/protest-surveillance-GettyImages-1279056199.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/amp/",
-      "publishedDateTime": "2020-10-16T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-thought-powered-wheelchair-could-return-mobility-to-people-with-paralysis.md",
-      "title": "Thought-Powered Wheelchair Could Return Mobility To People With Paralysis",
-      "excerpt": "as demonstrated by a new study in which monkeys were able to navigate a robotic wheelchair using a brain chip. Now, this isn’t actually the first time that a mind-controlled wheelchair has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "originalUrl": "https://www.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/996b801a-a195-589b-9a62-61ed0ac2a71c/default-1464385738-205-thought-powered-wheelchair-could-return-mobility-to-people-with-paralysis.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "publishedDateTime": "2020-10-16T13:02:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-machine-learning-ai-in-search.md",
-      "title": "Machine Learning & AI in Search",
-      "excerpt": "Regular readers will likely wonder what more I could have to say about machine learning (ML) in search, after having written How Machine Learning In Search Works just a few months ago. Let me ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
-      "originalUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/09/sej-ml-dan-featured-5f735c4c450d3.jpg",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
-      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
-      "publishedDateTime": "2020-10-16T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -121,20 +121,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tesla Owner Videos Show 'Full Self-Driving' Beta Has a Long Way to Go"
-    excerpt: "Tesla warned its testers that the car could do \"the wrong thing at the worst time.\" Videos show the car swerving in traffic and stopping mid-turn."
-    publishedDateTime: 2020-10-27T02:33:00Z
-    webUrl: "https://www.thedrive.com/news/37282/tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 39
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2020/10/oop_970x546.jpg?quality=85"
-        width: 1940
-        height: 1092
-        isCached: true
 
 secured: "VrJ5AbA3T/nlYg8yRKAkxvHiNwdv9odH/GEBOVwt2mxL/ai9wjrA5S6zwwaDkkeekIt7mYXrtmyHl42R17lp6wO2/D9RfVQzjaZXeilvugEO2pVp+uvrYT+oDixfDRmgj+/oc8AWosSOaku4sDVcIAhavtvYzL4Ifg5UM1QAQl5aYHkSMWepR7ESETLIjhPVNF4WAlO4OkqkJfAqu8/+u0Phmazg84ch79heSpOAgMD0I3wd/OBvMTuJuKW3R4iS7upc+aCGFCTj/ebDXDpirr/bzb5i5QqcpaQnG7RkfTmjnLp+ZcMMNlMEdUCkIBJDqPMVr5ZFfC1RlNr7JoWdEIr97Tw1RKntmQRlBKSsBuk=;ynn16UHGpQYn2YnDOnjO5Q=="
 ---
