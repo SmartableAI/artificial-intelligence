@@ -41,15 +41,6 @@ related:
         width: 650
         height: 381
         isCached: true
-  - title: "Ground Defense System Market Size Worth USD 68.28 Billion By 2027 | CAGR of 4.8%: Emergen Research"
-    excerpt: "The increasing emphasis on battlefield technology upgrade and extensive rise in investment in defense & foreign intelligence are major factors influencing the market growth. - Market"
-    publishedDateTime: 2020-10-26T16:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/51056593-ground-defense-system-market-size-worth-usd-68-28-billion-by-2027-cagr-of-4-8-emergen-research-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "jaNxl8ZnvTnCeQuVARsHbw/FsYtn2G67RWpVW8QOQPeJIhIcdhK3EZzxxfpOlxTU5GglPOkZHxOOeTiGgdK0/RY0C7lk4IuKscCVf7HrjPDlEamoyw31yGuxBniPheTloPpltm5svHIHdUDXINb7POTh2DvyCAm43RrIQmozZijrA5+vQkeNdSCjaZVCZ+Irog3FLSsiuRyU7uwU6XJRF9fYUlTp9D+Tkt24F0BicpUOzvAZtRR5fl5ZDeGIf4fu/wvAp0BxYo6/NMTSDQJ7D9x6eacn4wuhDLHPhrB6EUyhcbRiQHUCvKwWvwKFf86AO3/83pwnP6CqkftnlqImuwvQ5GrxQNMRkypuFLef9Kw=;3TM/IZSWpFaN2SMvedMBMg=="
 ---

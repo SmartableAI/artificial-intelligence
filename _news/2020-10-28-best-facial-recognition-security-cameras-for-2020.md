@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2020/"
 type: article
 quality: 106
-heat: 216
+heat: 196
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://www.baltimoresun.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg"
         width: 1200
         height: 801
-        isCached: true
-  - title: "Artificial Intelligence Judges Your Face: This Is How Facial Recognition Works"
-    excerpt: "To learn how facial recognition works, checkout this website and give access to the camera of our computer or phone."
-    publishedDateTime: 2020-10-26T15:28:00Z
-    webUrl: "https://techlog360.com/how-facial-recognition-works/"
-    ampWebUrl: "https://techlog360.com/how-facial-recognition-works/amp/"
-    cdnAmpWebUrl: "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/how-facial-recognition-works/amp/"
-    type: article
-    provider:
-      name: techlog360.com
-      domain: techlog360.com
-    quality: 70
-    images:
-      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/10/How-Facial-Recognition-Works.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "T-Factory Is a Store Without Staff Selling Smartphones Using Facial Recognition"
     excerpt: "Instead, SKT is relying on facial recognition to know who is in the store. Customers register before visiting and can then self check-in on arrival using their face. Once inside, they can purchase ..."
@@ -183,22 +167,6 @@ related:
       - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
         width: 583
         height: 300
-        isCached: true
-  - title: "Election 2020: Third-party candidates in uphill battle for recognition, votes look to sow seeds for future"
-    excerpt: "A cast of characters pushed for a viable third-party option not aligned with the red or blue for U.S. voters when they hit the stage for the first-ever Independent National Convention this weekend."
-    publishedDateTime: 2020-10-26T16:46:00Z
-    webUrl: "https://www.foxbusiness.com/politics/the-first-ever-independent-national-convention-why-third-party-candidates-spend-big-on-impossible-presidential-campaigns"
-    ampWebUrl: "https://www.foxbusiness.com/politics/the-first-ever-independent-national-convention-why-third-party-candidates-spend-big-on-impossible-presidential-campaigns.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/the-first-ever-independent-national-convention-why-third-party-candidates-spend-big-on-impossible-presidential-campaigns.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 26
-    images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202010/1974/854081161001_6201933732001_6201932559001-vs.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "DApVZV6S3sTPACAi2SwGVeSrFXDaKnHr7I5iQLKs265iCLry8qeu/t3jz9FBTAatm/QOxF781dp2fIgMGlNZluNzM6vSpi79EyPSPfgRl3Rwqav+0z8UrVe2ds6G62Ja/8wPoUAtqHgFbsAWYQPZuuGJiRhiTNU/pWJC3EeA1esHUuchA74lnNxSIer8HPjvao8DrjqHAwEuN/cGW1Ee3QAiZeGpuH6WPsmMCs3XlEP2er6OEoo49C7sHHdJqdhgsm6rtDCH4Qhv7SP+alvJspcMaBjVwMY0OgCln4/vJLCabFbxoG3t3Glyve6x1Ir/ciYBZkRGIfqhF8ykQbykSMk6TrQHv8y0mSOJtFv121vK+hxTQN/mVWD77HiNAFVt/o9d0mObKpm4P1WG0T3wsBQ2qzcRcgWpnMJbGF7G300BCwVefR0uVE6mz/iApoMVqAyrt30qB/S7iFpkWBbzRZ6YaevDA0gVTVQTRW60gX/WvFKkpUE5WqPJJnOEhntPTjOXTbKWXgEsEdB+0UZ44w==;+GVCioqurdvHeFfED/33mQ=="

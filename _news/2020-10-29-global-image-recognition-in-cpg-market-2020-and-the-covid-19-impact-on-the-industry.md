@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/global-image-recognition-
 webUrl: "https://www.prnewswire.com/news-releases/global-image-recognition-in-cpg-market-2020-and-the-covid-19-impact-on-the-industry-301162721.html"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -25,47 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "What Will The Next AI Killer App Be Given Covid-19 Impacts?"
-    excerpt: "This blog explores the increasing mental health risks, rise of loneliness and the introduces the value of affective computing where voice and emotion will make invaluable contributions."
-    publishedDateTime: 2020-10-26T15:42:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2020/10/26/what-will-the-next-ai-killer-app-be--given-covid-19-impacts/"
+  - title: "Autonomous Cars Global Market Report – Covid-19 Growth And Change, Opportunities And Strategies, 2020 - 2030"
+    excerpt: "An autonomous car, which is also known as a driverless car, is a vehicle capable of guiding itself with minimum or no human involvement. An autonomous car uses a wide range of technology including cameras, sensors, GPS, radars, artificial intelligence and ..."
+    publishedDateTime: 2020-10-29T14:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/g18120684/autonomous-cars-global-market-report-covid-19-growth-and-change-opportunities-and-strategies-2020-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18120684"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18120684"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f95dce16079e862a88df866%2F0x0.jpg"
-        width: 1200
-        height: 919
-        isCached: true
-  - title: "AI Cures: data-driven clinical solutions for Covid-19"
-    excerpt: "The AI Cures Conference: Data-driven Clinical Solutions for Covid-19 described technologies developed in response to the Covid-19 pandemic and new opportunities for AI solutions for clinical management."
-    publishedDateTime: 2020-10-27T16:31:00Z
-    webUrl: "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
+  - title: "Merck Foundation \"Stay at Home\" Media Recognition Awards 2020 Recognized the Best of COVID-19 Reportage From the Democratic Republic of the Congo"
+    excerpt: "“I am very happy to announce the winners of “Stay at Home” Media Recognition Awards ... look forward to a long-term association to further raise awareness and be the voice of the voiceless, particularly during such a global health pandemic.”"
+    publishedDateTime: 2020-10-27T11:55:00Z
+    webUrl: "https://www.businesswireindia.com/merck-foundation-stay-at-home-media-recognition-awards-2020-recognized-the-best-of-covid-19-reportage-from-the-democratic-republic-of-the-congo-70116.html"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 67
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 0
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202010/AI-Cures-Conference-panel.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "In A Post-COVID World, We Need AI More Than Ever"
-    excerpt: "This long-overdue document covers developments in the year since the American AI Initiative kicked off. The report said that American research and development investments in AI “are measured not just by the specific dollar total of the financial ..."
-    publishedDateTime: 2020-10-27T03:37:00Z
-    webUrl: "https://www.defenseone.com/ideas/2020/10/post-covid-world-we-need-ai-more-ever/169531/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 37
-    images:
-      - url: "https://cdn.defenseone.com/media/img/upload/2020/10/26/D1-image-to-post/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/images/merck_70116.jpg"
+        width: 700
+        height: 700
         isCached: true
 
 secured: "P9CtCz4F+zivlW8d0pROPuW8V19pDy+N6jtjZIe09CaiYAbTrAnc6CGqPfJaogZRW593WDHXHUlmqrzjLtP04khd6TMaEQJCOUcWo6ekQkEsoIgjEpO7k0EyKxAkSqlTu541BqWP7/gHdbCY4/1wN1/2pyYcaXn5k03eQTCRw+oa+jSsfMt2cqCLgQAtUUTsIlYQyyy7/qXOC9metIPSJLuWZrtm2psaYVZorTIC+RYXS+y4NYxhpjW4USeM+5m3GFQLCoDSHzH9KvG5B6RmvpzKoalRPfPfnvrM9dm7rJxzbm89jtDKtDQdIdvPRZ2dDWqB3CWUiQL1rWCjJYM6ZIS8jZjqKIh4TrgHEgrSdac=;bsfKpvTOam2RdCTA/c+SEw=="

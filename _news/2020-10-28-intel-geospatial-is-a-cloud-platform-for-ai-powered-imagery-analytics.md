@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
         width: 876
         height: 548
-        isCached: true
-  - title: "What the Geospatial Industry is Learning About HPC, AI, and Cloud"
-    excerpt: "When it comes to traditional HPC, it has taken a bit longer for cloud and AI to catch on. This is no surprise given the strict performance requirements"
-    publishedDateTime: 2020-10-26T15:39:00Z
-    webUrl: "https://www.nextplatform.com/2020/10/26/what-the-geospatial-industry-is-learning-about-hpc-ai-and-cloud/"
-    ampWebUrl: "https://www.nextplatform.com/2020/10/26/what-the-geospatial-industry-is-learning-about-hpc-ai-and-cloud/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/10/26/what-the-geospatial-industry-is-learning-about-hpc-ai-and-cloud/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/shutterstock_1624010191.jpg"
-        width: 1300
-        height: 500
         isCached: true
 
 secured: "HCYDr+tVFAyh/KHvQxVPu4sXRGihX580kfSef4k5Kr97fq52i+RNXwZTgPsjPrssAv4pvhATxryitAfvKIr7+H6J7Ks/mvZn/pyw8StgcBBeWKBOtL5sSkYq3FdByaD5fNsO3GlwJ6AfkU9GymNX0rB7qkVaApjfraF94nZnBcJDV2DDDokX0Mn0y2eZoMGur5RA3YDw6EJRiDBwOoODP6m3AkG2wsEOB+1v4xuAJF/GtuF2DGeuONXMX5jjkJsoRvSopsubwxRqhwUqvGFszG6GrJ5kVp1sPwCIgNPEG97tdehqbLDu28v/6/3CT4uKDvFzyBtZ8iLgzdN/QmkOlXiMux6V4oaqKeOfVaVUZBSo9jlxhTy0iMMLsckuGMGuwgAhyx5sAg0pagOHEXvs8oyhP696t1rcTz6HK4aiaT4JrmczYrXlvSZTDlswW868ceYoGfkESRMEvlObrvw6plDVuy1ZzrqlO8Oac2esjMt4eRwpkcGXdZi4z1Q3Vaqjy8iCrWMVNlDAQuqTQQnEQg==;9dHY3x4fOljc6ERuWjYJCg=="

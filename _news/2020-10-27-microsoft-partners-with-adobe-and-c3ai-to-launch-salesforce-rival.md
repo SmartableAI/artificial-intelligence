@@ -173,20 +173,6 @@ related:
         width: 1024
         height: 548
         isCached: true
-  - title: "C3.ai, Microsoft, and Adobe Combine Forces on C3 AI CRM"
-    excerpt: "The joint solution offers an integrated ecosystem that empowers customers to take advantage of leading CRM capabilities along with an integrated ecosystem with Azure, Microsoft 365, and the Microsoft Power Platform. In addition, C3 AI CRM leverages the ..."
-    publishedDateTime: 2020-10-26T15:49:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143560"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 71
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133199-1020_DataQuality_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
     excerpt: "C3.ai, Microsoft Corp. (NASDAQ:MSFT), and Adobe Inc. (NASDAQ:ADBE) today announced the launch of C3 AI® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"
     publishedDateTime: 2020-10-26T17:18:00Z

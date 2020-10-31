@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
 type: article
 quality: 109
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -165,20 +165,6 @@ related:
       - url: "https://www.adweek.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-28-at-4.23.00-PM-1024x548.jpg"
         width: 1024
         height: 548
-        isCached: true
-  - title: "C3.ai, Microsoft, and Adobe Combine Forces on C3 AI CRM"
-    excerpt: "The joint solution offers an integrated ecosystem that empowers customers to take advantage of leading CRM capabilities along with an integrated ecosystem with Azure, Microsoft 365, and the Microsoft Power Platform. In addition, C3 AI CRM leverages the ..."
-    publishedDateTime: 2020-10-26T15:49:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143560"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 71
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133199-1020_DataQuality_480x610-ORG.png"
-        width: 480
-        height: 610
         isCached: true
   - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
     excerpt: "C3.ai, Microsoft Corp. (NASDAQ:MSFT), and Adobe Inc. (NASDAQ:ADBE) today announced the launch of C3 AI® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"

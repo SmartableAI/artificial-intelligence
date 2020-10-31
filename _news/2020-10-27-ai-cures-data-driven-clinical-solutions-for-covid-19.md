@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-
 webUrl: "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Massachusetts Institute of Technology
@@ -28,47 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "What Will The Next AI Killer App Be Given Covid-19 Impacts?"
-    excerpt: "This blog explores the increasing mental health risks, rise of loneliness and the introduces the value of affective computing where voice and emotion will make invaluable contributions."
-    publishedDateTime: 2020-10-26T15:42:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2020/10/26/what-will-the-next-ai-killer-app-be--given-covid-19-impacts/"
+  - title: "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19"
+    excerpt: "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology."
+    publishedDateTime: 2020-10-28T14:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f95dce16079e862a88df866%2F0x0.jpg"
-        width: 1200
-        height: 919
-        isCached: true
-  - title: "In A Post-COVID World, We Need AI More Than Ever"
-    excerpt: "This long-overdue document covers developments in the year since the American AI Initiative kicked off. The report said that American research and development investments in AI “are measured not just by the specific dollar total of the financial ..."
-    publishedDateTime: 2020-10-27T03:37:00Z
-    webUrl: "https://www.defenseone.com/ideas/2020/10/post-covid-world-we-need-ai-more-ever/169531/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 37
-    images:
-      - url: "https://cdn.defenseone.com/media/img/upload/2020/10/26/D1-image-to-post/open-graph.jpg"
+      - url: "https://mma.prnewswire.com/media/1322193/IBM_AI_Study.jpg"
         width: 400
-        height: 400
+        height: 225
         isCached: true
-  - title: "Global Image Recognition in CPG Market 2020 and the COVID-19 Impact on the Industry"
-    excerpt: "face recognition, product classification, and license plate recognition. The image recognition in CPG market in Asia-Pacific (APAC) is expected to grow at the highest CAGR during the forecast period. North America accounts for the highest share in the ..."
-    publishedDateTime: 2020-10-29T11:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-image-recognition-in-cpg-market-2020-and-the-covid-19-impact-on-the-industry-301162721.html"
+  - title: "Artificial intelligence model detects asymptomatic Covid-19 infections through cellphone-recorded coughs"
+    excerpt: "An artificial intelligence model can detect people who are asymptomatic with Covid-19, through cellphone-recorded coughs. The work was led by Brian Subirana and colleagues at the MIT Auto-ID Lab."
+    publishedDateTime: 2020-10-29T04:06:00Z
+    webUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 52
     images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://news.mit.edu/sites/default/files/images/202010/MIT-Cough-Recordings-01-PRESS.jpg"
+        width: 1350
+        height: 900
         isCached: true
 
 secured: "hJ83BTaaBjMnVjyDQA72KF9DLwmjFQ1Sh9+PSaG3bRLcJGWcHqZI6S4qkuVE+hy/UpGbCefCpy68ZLcSVuWL3A6Er/uM+/qM6+bPOjIHDPPpCTWWZJ736I/5UxpnSeL/gvgBakCbPjbdcYVmaV4mZLQwStzr/Rl0lNyA5wvg3Le+JwtrOutZ001iTfyC1c2vUskISBXHRvZaBCq4IucJ0qMbOMU1YMoTp/PQz9aLir5gCfxLVKJagFmm+qY5SGtmpY19j+u7aOQ+NiFWzyKmTONxG6EEPugtFYPyj/E3/UmzRPUSiTd+F9xreKY/76ZOiPpNw1Vva5SvP5s2sfFgUhhRJMO9UAHpI/Q4sod4iAo=;aCUJKdHicdmA89I0aFAUUg=="

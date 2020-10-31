@@ -7,7 +7,7 @@ originalUrl: "https://www.computing.co.uk/news/4022464/ai-machine-learning-award
 webUrl: "https://www.computing.co.uk/news/4022464/ai-machine-learning-awards-winners"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Leap And Learn: The Common Thread Of Artificial Intelligence Success Stories"
-    excerpt: "Enterprises seeing real success with artificial intelligence have something in common: they are capable of learning quickly from their successes or failures and re-applying those lessons into their mainstream of their businesses."
-    publishedDateTime: 2020-10-26T16:18:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/"
+  - title: "AI are the letters to remember for accounts payable"
+    excerpt: "Intelligent automation empowers accounts payable to be more proactive in making strategic contributions to the longevity of the business. With automation and advanced analytics, AP teams can process invoices more quickly. Automation ensures invoices are ..."
+    publishedDateTime: 2020-10-27T15:02:00Z
+    webUrl: "https://www.paymentssource.com/opinion/ai-are-the-letters-to-remember-for-accounts-payable"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: PaymentsSource
+      domain: paymentssource.com
+    quality: 37
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1154231467%2F0x0.jpg"
+      - url: "https://arizent.brightspotcdn.com/dims4/default/fa45217/2147483647/strip/true/crop/1177x618+0+280/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fd9%2F9b%2F94fe065c45088edd2b55a7b64977%2Ftrapani-michelle-kofax-opinion-pso.jpg"
         width: 1200
-        height: 663
+        height: 630
         isCached: true
 
 secured: "p2scJt3HkfkhTlDZQUHEvfzEjsVIiNqcIuWF4xpEsW0s3YnjcIpWIRdXXNvB3eGRZi51zJTrVwVtIPhQc2nW03zsaC8Ivzl3BRqSse23beH1E6RL1UzFpAwZu5ALmcTocuoQQBN4RiUcSyfPC2WvORlxRomCqklivwMVgLbD3tPVCEuw3xrdXMSqpaqGebXs1wNRe/SdCWldgm3p2tgHroLaCfNPW+v838iPITa5ez+9tGZQKzAsYVemyukUiJwW+EIsl1Zex6V8hkw26IHl0H7OhpnlYAFYIiaxZo1th//Js6xHYV3IpA5cHz1PDYj4hSVLJbqptN5VaR5EcHgpCgXM/2z/UOTWVpNwaAMrtBk=;nZUgnPJzDQspuUvGYhbdEA=="

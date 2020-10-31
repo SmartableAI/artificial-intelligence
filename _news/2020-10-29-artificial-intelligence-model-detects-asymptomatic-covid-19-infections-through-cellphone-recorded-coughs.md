@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Cures: data-driven clinical solutions for Covid-19"
+    excerpt: "The AI Cures Conference: Data-driven Clinical Solutions for Covid-19 described technologies developed in response to the Covid-19 pandemic and new opportunities for AI solutions for clinical management."
+    publishedDateTime: 2020-10-27T16:31:00Z
+    webUrl: "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 67
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202010/AI-Cures-Conference-panel.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19"
     excerpt: "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology."
     publishedDateTime: 2020-10-28T14:54:00Z

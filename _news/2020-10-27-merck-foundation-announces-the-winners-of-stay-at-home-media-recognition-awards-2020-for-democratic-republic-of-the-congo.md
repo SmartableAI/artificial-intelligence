@@ -18,22 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Merck Foundation \"Stay at Home\" Media Recognition Awards 2020 Recognized the Best of COVID-19 Reportage From the Democratic Republic of the Congo"
-    excerpt: "“I am very happy to announce the winners of “Stay at Home” Media Recognition Awards ... look forward to a long-term association to further raise awareness and be the voice of the voiceless, particularly during such a global health pandemic.”"
-    publishedDateTime: 2020-10-27T11:55:00Z
-    webUrl: "https://www.businesswireindia.com/merck-foundation-stay-at-home-media-recognition-awards-2020-recognized-the-best-of-covid-19-reportage-from-the-democratic-republic-of-the-congo-70116.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 0
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/images/merck_70116.jpg"
-        width: 700
-        height: 700
-        isCached: true
-
 secured: "mGbPbQm5qJdHRUjzmVIIBzGk/jmIcPdnSiiyksPMGAcuENvUHuFWf+rCaWHIXvy3jWjkxTW5/VHgdiamM7XDWCrjAhnBrn1mJSLc0mM9hk4uDJUovQkDmjibrxkD1QZLTdIPSbIUEwQXokIeN6OYU5OQ/d/mLA5gjaO+z0//x3nJCWU1/yj0b9pbxS3OzgJ6ssD7mvaUjqMH2cf3le4zVdflKxBLpbWmsjAuNlynPpbhNpA7aDSVRMLCudGAN+JJ47YSy5BiOD23gjFBf78bq5YfZudJVCZTC58/UbswhF8teFSEqzGK7syFZ82mdvEM0+iWqlCupA6qbYqpz2qxofdKieQiIFohE7sR58kUWn0=;o+1zFHp1/QR1ePht9GMNIQ=="
 ---
 

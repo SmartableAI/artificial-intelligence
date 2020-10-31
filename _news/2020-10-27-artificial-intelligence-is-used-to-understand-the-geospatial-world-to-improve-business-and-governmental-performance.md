@@ -60,22 +60,6 @@ related:
         width: 900
         height: 491
         isCached: true
-  - title: "What the Geospatial Industry is Learning About HPC, AI, and Cloud"
-    excerpt: "When it comes to traditional HPC, it has taken a bit longer for cloud and AI to catch on. This is no surprise given the strict performance requirements"
-    publishedDateTime: 2020-10-26T15:39:00Z
-    webUrl: "https://www.nextplatform.com/2020/10/26/what-the-geospatial-industry-is-learning-about-hpc-ai-and-cloud/"
-    ampWebUrl: "https://www.nextplatform.com/2020/10/26/what-the-geospatial-industry-is-learning-about-hpc-ai-and-cloud/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/10/26/what-the-geospatial-industry-is-learning-about-hpc-ai-and-cloud/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/shutterstock_1624010191.jpg"
-        width: 1300
-        height: 500
-        isCached: true
 
 secured: "ZRGW18GMc3+VOIG4BgoMEb3apyOLVs8NZCy+o8HpjGVpjm5OYkJfVpFUqeQxlfrrDU9VeXjOSSRCoZK6mkimDE9t3/GMUJa1vkfGOubGkduVLfNDnbCVuo1R87lEpkgLO7Sd3zDcGYlXy2fFMSo86WMdIGGUUklpsufUKAXFPb9P34znyo41qrQnsAY0LNzo8ZQbegT1I6UyUQAAThE4mNrABt68jWGCet2Kgc8XZ73qOmTDZM3vI8Fl4jfxA/OSYJL/z8amAA8YSBPe0f8K3KNMDD92g+uuK1bIyQ/emMTg3NQjmgVqyy/x1JkWNZDvFNiX79niWQlfLa5DrXU7VKA2sI+8zNEIzxHjKZkQD7TdkVaa6ui+6tY24EbEKI3h7XcLzy0SjJdVKwJAA954JP+dX2s0k+wVazcHFS14RTlBJOBmANZd+25hIPjsH+ILJpDjxLIYXhdAF4bGwU+/vxwb0q0NXrp+hn/RNL6QloWG3gw/nofZBLmOy8g2yoEPiOWNj4guHrttECpCUXgWWQ==;12KTd4PziJ8s4LGjh2WKoQ=="
 ---

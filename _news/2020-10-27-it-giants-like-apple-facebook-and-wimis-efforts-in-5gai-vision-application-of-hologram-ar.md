@@ -38,6 +38,17 @@ related:
         width: 675
         height: 422
         isCached: true
+  - title: "Facebook, Apple, Tesla, and WIMI, Key Players in the Hologram AR Market"
+    excerpt: "Mobius Trend releases a research report “Facebook, Apple, Tesla, and WIMI, Key Players in the Hologram AR Market”. Recently, Facebook announced"
+    publishedDateTime: 2020-10-31T02:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18154652/facebook-apple-tesla-and-wimi-key-players-in-the-hologram-ar-market"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18154652"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18154652"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
   - title: "Facebook’s threat to the NYU Ad Observatory is an attack on ethical research"
     excerpt: "Facebook may defend its actions on the grounds of user privacy, but its real concern is losing control of how the company is scrutinized."
     publishedDateTime: 2020-10-29T13:03:00Z

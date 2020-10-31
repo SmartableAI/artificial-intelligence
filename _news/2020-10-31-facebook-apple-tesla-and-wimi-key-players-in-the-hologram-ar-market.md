@@ -1,29 +1,25 @@
 ---
 category: news
-title: "Facebook’s threat to the NYU Ad Observatory is an attack on ethical research"
-excerpt: "Facebook may defend its actions on the grounds of user privacy, but its real concern is losing control of how the company is scrutinized."
-publishedDateTime: 2020-10-29T13:03:00Z
-originalUrl: "https://www.niemanlab.org/2020/10/facebooks-threat-to-the-nyu-ad-observatory-is-an-attack-on-ethical-research/"
-webUrl: "https://www.niemanlab.org/2020/10/facebooks-threat-to-the-nyu-ad-observatory-is-an-attack-on-ethical-research/"
+title: "Facebook, Apple, Tesla, and WIMI, Key Players in the Hologram AR Market"
+excerpt: "Mobius Trend releases a research report “Facebook, Apple, Tesla, and WIMI, Key Players in the Hologram AR Market”. Recently, Facebook announced"
+publishedDateTime: 2020-10-31T02:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/ab18154652/facebook-apple-tesla-and-wimi-key-players-in-the-hologram-ar-market"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18154652/facebook-apple-tesla-and-wimi-key-players-in-the-hologram-ar-market"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18154652"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18154652"
 type: article
-quality: 38
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Nieman Journalism Lab
-  domain: niemanlab.org
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Facebook AI
   - AI
-  - AI Ethics
-
-images:
-  - url: "https://www.niemanlab.org/images/facebook-thumbs-down-700x474.jpg"
-    width: 700
-    height: 474
-    isCached: true
+  - AI in Autos
 
 related:
   - title: "Google and Facebook look for life beyond advertising"
@@ -42,17 +38,20 @@ related:
         width: 675
         height: 422
         isCached: true
-  - title: "Facebook, Apple, Tesla, and WIMI, Key Players in the Hologram AR Market"
-    excerpt: "Mobius Trend releases a research report “Facebook, Apple, Tesla, and WIMI, Key Players in the Hologram AR Market”. Recently, Facebook announced"
-    publishedDateTime: 2020-10-31T02:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18154652/facebook-apple-tesla-and-wimi-key-players-in-the-hologram-ar-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18154652"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18154652"
+  - title: "Facebook’s threat to the NYU Ad Observatory is an attack on ethical research"
+    excerpt: "Facebook may defend its actions on the grounds of user privacy, but its real concern is losing control of how the company is scrutinized."
+    publishedDateTime: 2020-10-29T13:03:00Z
+    webUrl: "https://www.niemanlab.org/2020/10/facebooks-threat-to-the-nyu-ad-observatory-is-an-attack-on-ethical-research/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 38
+    images:
+      - url: "https://www.niemanlab.org/images/facebook-thumbs-down-700x474.jpg"
+        width: 700
+        height: 474
+        isCached: true
   - title: "IT Giants like Apple, Facebook, and WIMI's Efforts in 5G+AI vision application of Hologram AR"
     excerpt: "AR has become popular again. It was revealed that Apple is about to launch its AR glasses, called Apple Glass. The glasses look like ordinary"
     publishedDateTime: 2020-10-27T01:14:00Z
@@ -93,6 +92,6 @@ related:
         height: 419
         isCached: true
 
-secured: "sEi9SKcuNWSdJn5K0aWK3aVSbuo2SyUgaEwI6PXVMGDnEmDYDbLVG8slvSv4qMzCCdDhMFqvsuIdpxzdrzyfWyNVcDDw+sWR50ohz5KyWL62Hv7qzDXctoio0VKgEriUXqlmVZYknayUPslsEsCG8tA0ga9hebc008lOOYMWwXpfnhuL/IlAkbaoZqyGsa14hHVYtVFyzPhlYC6c+tVoP9QXFfDz5lAQ6cdSImCrc1zLnCisw+K0+Pwus+A9t2Nj4ePIvlKW7sEC31id/DlgOA56qC3HFBQlGNRz7XjfZ8YYwZtsXy3yGYf69p+NMSbSwQLesXRMlg+it2tIOn3H5KOueBcvWPO3U6YxLVY7/25msaIpQQq8atsElKIpedi6Kx5C2G0VMuhsCPjOp7otWnWpLHpvEiBa0ifL6WeNDKmkQNOk/6EiNqyZZ7oEymlCcbNMmzZ85Z+KwdS30B7UzcSGVAq7qqJCfa4mw9Uc8Ric8mo4UOYe5NEQiQno9Cqy9qjoZ/mTG9T0g4n+AiVjrA==;PZ6+KEENrhLbpgiQ5Fxa7A=="
+secured: "ScCnmch8LEsIjn2YCx7FHWXXjpAIXSmF3ly6PbrOw585VveH3Vx8a8xfeg+Aapuwqhib8RDlLQdQdUyCAgZsKmlTWlMPrK8INvppOKR8SSVagrikvYgnbKhbdr5HzqrCGL8HdJlTqEQAxY2qcyos99qh+nbmWjgf1b0GDVDO9mVb5z2NVVtri9QE4izXLliIEltfgyt0Sq59zQpbRBVNVk1m2LUYPcH6mpvYYrJVKywp3TKpGnhAmNOQZDJUBMiPu1SzmYc+GkxUjD5En8s7LRjq4qOQtAyhjMvEAIgnYRdffTwsgQ1iMYVDLEJtSn0xpPletQiAKQvFEMF7i2ZCox8aCb/wX1oxzgQWzOlCuUQ=;3uYiJydHVO3OS7tYh2RNMw=="
 ---
 

@@ -160,20 +160,6 @@ related:
         width: 1024
         height: 548
         isCached: true
-  - title: "C3.ai, Microsoft, and Adobe Combine Forces on C3 AI CRM"
-    excerpt: "The joint solution offers an integrated ecosystem that empowers customers to take advantage of leading CRM capabilities along with an integrated ecosystem with Azure, Microsoft 365, and the Microsoft Power Platform. In addition, C3 AI CRM leverages the ..."
-    publishedDateTime: 2020-10-26T15:49:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143560"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 71
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133199-1020_DataQuality_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
     excerpt: "C3.ai, Microsoft Corp. (NASDAQ:MSFT), and Adobe Inc. (NASDAQ:ADBE) today announced the launch of C3 AI® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"
     publishedDateTime: 2020-10-26T17:18:00Z
@@ -273,6 +259,6 @@ related:
         height: 480
         isCached: true
 
-secured: "y9c3gwYr5gY3P6NWH8ZGHLyiHg8sKEuEWVbFvnbbnmHeSD4BLOZtmysVq2ZzZzpq/QucaEGgNI86hvzaklirWAeM8VLVyCzyGfGZcFB0mwmCz+RszFR2y2dB0gQ5u370I+/mXOeZpx4q/Q8RVDAnxyIOxNLrFG+njwYjfM2r8ffsbjlrLt7cM7hppwQxFEAIbFDI9O4Y12F+5cF0vf3DoCp/Fcd5veKIqWflqI0373nl/5vM2LkVUAfyt6xW72u1oZqlHZ+1cahzROE/uLqOnfSS/HpCsV/bUqW7f8Pb1yrDKbtcfFZhmqVefoJji/ZZD9Yi8IkhfwoCNud8UPIj13Y7J7BehKeo5L050wOd4p0=;uJ9nnj1dHwgaPg2IBV2XSg=="
+secured: "v3iVh6/YaN785lT3KCkX4XXrDTVAELu/DULxDXldnCfCvFTrxYPtV+ATpiTv0zHJD8/MCBORZYc5osqhX8+mKDUY7OjaB3ofI5bFvol2C4EXki0pchdAHERbsjgRfZUBPFXxx44QUdn7NMLZEMo2xTgiGFeVObA1XvrLz2NNeA7SjGiMnTRKCPHXBo2O0rRw9mTE2zX4E9RAj9q7GsfU8lRkm8iZBxmXHxS93ujxyBHMUAzfCvVJChDxKXlwxbyoPH3APkW7oD0yfVMbqiU+1MxBR1lcxvI7qWELDCUMPucxx4FmJfcUAGXWy2hd2obzaHBtbOFvDqPokQjpEZkORhH2nYmipDHvGp/Xna/DKbSdMtbA/LmBlzf7hlSOM13qWB1upAyGIgXt7tOVGZXnA3P9zGtbKS1pIGvOfBA2lyjMmGU8YrhLk/zNqb97W9oRN1syAekmXdEDO7HdDrGgEKsfQ6HLCRbnnQ/C9UoXFlGewwXjO8DjKHF43ShusNQkCLGUeuLMkEdrzYUbrbwU1w==;NFuROnRbcAUEKNcQNh5q+w=="
 ---
 

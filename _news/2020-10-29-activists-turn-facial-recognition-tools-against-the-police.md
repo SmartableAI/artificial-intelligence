@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Artificial Intelligence Judges Your Face: This Is How Facial Recognition Works"
-    excerpt: "To learn how facial recognition works, checkout this website and give access to the camera of our computer or phone."
-    publishedDateTime: 2020-10-26T15:28:00Z
-    webUrl: "https://techlog360.com/how-facial-recognition-works/"
-    ampWebUrl: "https://techlog360.com/how-facial-recognition-works/amp/"
-    cdnAmpWebUrl: "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/how-facial-recognition-works/amp/"
-    type: article
-    provider:
-      name: techlog360.com
-      domain: techlog360.com
-    quality: 70
-    images:
-      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/10/How-Facial-Recognition-Works.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "T-Factory Is a Store Without Staff Selling Smartphones Using Facial Recognition"
     excerpt: "Instead, SKT is relying on facial recognition to know who is in the store. Customers register before visiting and can then self check-in on arrival using their face. Once inside, they can purchase ..."
     publishedDateTime: 2020-10-27T13:51:00Z
@@ -178,22 +162,6 @@ related:
       - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
         width: 583
         height: 300
-        isCached: true
-  - title: "Election 2020: Third-party candidates in uphill battle for recognition, votes look to sow seeds for future"
-    excerpt: "A cast of characters pushed for a viable third-party option not aligned with the red or blue for U.S. voters when they hit the stage for the first-ever Independent National Convention this weekend."
-    publishedDateTime: 2020-10-26T16:46:00Z
-    webUrl: "https://www.foxbusiness.com/politics/the-first-ever-independent-national-convention-why-third-party-candidates-spend-big-on-impossible-presidential-campaigns"
-    ampWebUrl: "https://www.foxbusiness.com/politics/the-first-ever-independent-national-convention-why-third-party-candidates-spend-big-on-impossible-presidential-campaigns.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/the-first-ever-independent-national-convention-why-third-party-candidates-spend-big-on-impossible-presidential-campaigns.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 26
-    images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202010/1974/854081161001_6201933732001_6201932559001-vs.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "aMThSJGXvPAg8ATl6+TkmXUcG7Oivpy/wjx2MrguRIMGkCBd6oHASIy+k3W8XJMpb8duLe+Lm9j31QfhOe8WfhXa7WP6m4fVIUhq7yieZxVTDx5S5RKjlamCXT2ldPyMHnywOHkWvdoQLKWQM3l7F2wNxk4C8Haqm1Vy1aDN2ldTUVUhARkv7AdEqJs9/9fEsLs7C/3pGHiM/tPglaM77MYkoEbnQgdaxTCCF5dRmO7Nss+9Et21MOyCt+6t8WTDd0UBpTTvaXril3fcF+k0MkpQxhF77jfI95gtnl4V0yfgxV2ZUdgdYY7oWjzE0Fq0+K473feQ3or+pCLX/NzzM08hlolyE9EcPYJsUx5JRm5r13TSHnvx1v2casNPhrpV73M7zuIodJkO0CjuUdT8H1juKl9nXtLBQQOS+f+RSDW8o02jO4HZiBHu3HAZXgiauNoVPn4dwNtgyrY3BgwZ1v/aH2nzm/M0y2XTPw1ZcJR2rV/YiZ9QD8ZTpSSaCuSSQ5MNaROFPSJ4LMWmw7I2iA==;nHUgBj+1fUUOAKIafkGi9Q=="
