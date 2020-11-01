@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais/amp/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "If a Robot is Conscious, is it Okay to Turn it Off?"
-    excerpt: "This summer, a startup called OPENAI released a new version of its Generative Pre-Training language model. GPT-3 is a natural-language-processing system, trained to read and write so that it can be easily understood by people. Named after pioneering AI ..."
-    publishedDateTime: 2020-10-28T02:01:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/10/if-a-robot-is-conscious-is-it-okay-to-turn-it-off/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/10/if-a-robot-is-conscious-is-it-okay-to-turn-it-off/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/if-a-robot-is-conscious-is-it-okay-to-turn-it-off/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 59
-    images:
-      - url: "https://images.theconversation.com/files/365311/original/file-20201023-16-14xtu5x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 505
-        isCached: true
   - title: "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs"
     excerpt: "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing."
     publishedDateTime: 2020-10-29T14:28:00Z

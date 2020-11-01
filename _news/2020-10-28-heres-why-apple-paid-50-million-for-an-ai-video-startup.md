@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-5
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/10/28/915569.jpg"
         width: 1240
         height: 826
-        isCached: true
-  - title: "Apple reportedly acquires AI and vision startup Vilynx for $50M"
-    excerpt: "Apple Inc. is said to have acquired artificial intelligence and vision startup Vilynx Inc. earlier ... Vilynx offered a “powerful AI Brain” that was designed to connect people with content ..."
-    publishedDateTime: 2020-10-28T01:54:00Z
-    webUrl: "https://siliconangle.com/2020/10/27/apple-reportedly-acquires-ai-vision-startup-vilynx-50m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/vilynx.png"
-        width: 715
-        height: 341
         isCached: true
   - title: "Apple Inc. acquires a video AI start-up for USD 50 million to improve Siri & other applications"
     excerpt: "Apple has acquired a Video-based Artificial Intelligence Start-up that goes by the name of Vilynx. The deal was worth $50 million. Learn more"

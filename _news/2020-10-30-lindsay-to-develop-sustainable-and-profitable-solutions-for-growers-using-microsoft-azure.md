@@ -32,20 +32,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 99
-  - title: "Microsoft Azure to build a first cloud data center region in Taiwan"
-    excerpt: "Its existing Taiwan Azure hardware systems and infrastructure ... in cloud software and hardware infrastructure for AI, IoT and edge products. Meanwhile, Microsoft’s training initiative in ..."
-    publishedDateTime: 2020-10-28T00:46:00Z
-    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 69
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-28T03:00:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best facial recognition security cameras for 2020"
-    excerpt: "Select home security cameras have facial recognition, an advanced option that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ..."
-    publishedDateTime: 2020-10-28T00:46:00Z
-    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2020/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2020/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2020/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Activists turn facial recognition tools against the police"
     excerpt: "In early September, the City Council in Portland, Oregon, met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery;"
     publishedDateTime: 2020-10-29T15:55:00Z
@@ -104,20 +88,6 @@ related:
       - url: "https://media.nbclosangeles.com/2020/10/GettyImages-1281763052.jpg?resize=1024%2C675"
         width: 1024
         height: 675
-        isCached: true
-  - title: "Data Diversity Challenges Impact Facial Recognition AI Algorithm Biases"
-    excerpt: "While facial recognition technologies offer huge opportunities to Federal agencies, overcoming algorithmic biases with the help of diverse data sets is essential for full deployment, industry experts said Oct."
-    publishedDateTime: 2020-10-30T19:31:00Z
-    webUrl: "https://www.meritalk.com/articles/data-diversity-challenges-impact-facial-recognition-ai-algorithm-biases/"
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 54
-    images:
-      - url: "https://cdn.meritalk.com/wp-content/uploads/2016/02/kate-headshot.png"
-        width: 619
-        height: 618
         isCached: true
 
 secured: "jElJpZq6c9rR/UOzltYfEl/13/ho/epK1GmBSYEZJcUnaVtDMg3NVPvp9k/n6L2u9FhiDoVgwpNrX2mW2aZRwlemkMTjMa3VJMlF1PmMbiupNKE8/uHaktkhNaT84vi8JIKlJv+xjCPOyj6eiTWVzr1R4xmt3vHoeTxQlfxBkWvalsU6dMI/5voESc0HDbcYe22TsYZoyboMoK+Fr2ARCUoRC7KyblyZkFqjuERw9vVbMTTWS0kzyzm0kxmQduKXCNc4XpPNzG0rdaKK+s1HlLjx4IRBYLvPiclksri9G3RodmGk42CCOm3lptPwGGQV29hJZHPZOyvb+aa7veQCDU7g0NDT7NczavMfoLOKSBw=;hidJz9PeteSrMCIVcmdmKg=="

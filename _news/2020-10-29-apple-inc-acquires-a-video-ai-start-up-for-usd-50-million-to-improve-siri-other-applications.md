@@ -114,20 +114,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Apple reportedly acquires AI and vision startup Vilynx for $50M"
-    excerpt: "Apple Inc. is said to have acquired artificial intelligence and vision startup Vilynx Inc. earlier ... Vilynx offered a “powerful AI Brain” that was designed to connect people with content ..."
-    publishedDateTime: 2020-10-28T01:54:00Z
-    webUrl: "https://siliconangle.com/2020/10/27/apple-reportedly-acquires-ai-vision-startup-vilynx-50m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/vilynx.png"
-        width: 715
-        height: 341
-        isCached: true
   - title: "Apple roundup: Privacy change hit with French antitrust complaint; acquires video analyzing AI startup"
     excerpt: "In other Apple news, Bloomberg sources say the company acquired advanced AI and computer vision startup Vilynx for about $50M earlier this year. Vilynx's tech uses AI to understand a video's ..."
     publishedDateTime: 2020-10-28T14:32:00Z
