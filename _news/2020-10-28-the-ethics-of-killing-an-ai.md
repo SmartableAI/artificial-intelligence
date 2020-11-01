@@ -37,20 +37,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
-    publishedDateTime: 2020-10-28T05:40:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 71
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
-        width: 1678
-        height: 1119
-        isCached: true
   - title: "Learn the ins and outs of FinTech and Blockchain with this expert-led training"
     excerpt: "The education starts with the basics, so you can build a strong foundational level of understanding before diving into more advanced topics, like AI in Fintech, Robo Advisors, and InsurTech."
     publishedDateTime: 2020-10-28T15:34:00Z

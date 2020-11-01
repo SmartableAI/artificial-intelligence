@@ -41,36 +41,6 @@ related:
         width: 420
         height: 315
         isCached: true
-  - title: "Edge AI Hardware Market"
-    excerpt: "Microsoft’s Azure IoT platform is able to process data messaging from millions of building sensors and devices and then use machine learning and AI to help building managers and operators determine what issues should be addressed in what order ..."
-    publishedDateTime: 2020-10-28T03:59:00Z
-    webUrl: "https://www.openpr.com/news/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements"
-    ampWebUrl: "https://www.openpr.com/amp/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta28544591_g.jpg"
-        width: 639
-        height: 542
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-    excerpt: "UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning,"
-    publishedDateTime: 2020-10-28T02:48:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
-        width: 1279
-        height: 670
-        isCached: true
 
 secured: "1S4/C2y70ydAQzXltHPPqZ+NqHWS8rez0eXYZnzYEn0LT4ZQRbMN3gRQK9OnhWJJbw3acOU4gxJiGRvfUfBaKr2zJ0WwfxZVTvOJLMjx7dhlNqDqn7txSQlWAkjU6ybivI0qVTxSwvfvCWb8gC10+2Jr3ssQLIy30NpdLbaxK5m5/M7Kgehis9TdEjkAm2v1hWsDoDqSIeiQuxzjc1SpqAUYXJzseyflUrBBxggQ0SLKd23wEfXzLbD0/qKl0u1rUPmYtIuCypJMfWOZfjin0mH3qONjWAoid6r2qzG7uZPwfkR13i/EaxPjlvFbvVMMHoXp/bi1Y3uzFpb53b4ugYHSARevuxu8uzm7Sk2F0vhCG2cBFaZ82fQHslykZ35fuOTzbvzKkRX3RWUV00/ROEVtKW5EPeco4d1YG1xV3WoC1rqtQDycFINSooiJO42VaFpCwd1Rwwszw574wp/sBAfRIyIFCCEPH6BKdqfnKoAjoXIvHHBC4u3to38L0FBx1otlNx7byU5GeczKAJil7w==;rcl8eHTu/o1rHvJCZRSzWQ=="
 ---

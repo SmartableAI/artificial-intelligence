@@ -47,20 +47,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 60
-  - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
-    excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
-    publishedDateTime: 2020-10-28T03:00:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/28/attackiq-microsoft-azure-sentinel/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 53
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Microsoft sees strong growth in latest financials – as analyst puts Azure bigger than Windows for first time"
     excerpt: "Microsoft has reported revenues of $37.2 billion (£28.8bn) for its most recent quarter with Azure revenue growth at 48% – as one analyst argued Azure has overtaken Windows numbers for the first time."
     publishedDateTime: 2020-10-28T13:18:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2175181/global-artificial-intelligence-in
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175181/global-artificial-intelligence-in-healthcare-market-2020"
 type: article
 quality: 74
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Edge AI Hardware Market"
-    excerpt: "Microsoft’s Azure IoT platform is able to process data messaging from millions of building sensors and devices and then use machine learning and AI to help building managers and operators determine what issues should be addressed in what order ..."
-    publishedDateTime: 2020-10-28T03:59:00Z
-    webUrl: "https://www.openpr.com/news/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements"
-    ampWebUrl: "https://www.openpr.com/amp/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta28544591_g.jpg"
-        width: 639
-        height: 542
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-    excerpt: "UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning,"
-    publishedDateTime: 2020-10-28T02:48:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
-        width: 1279
-        height: 670
-        isCached: true
   - title: "Record Number of Health Systems Choose Viz.ai's AI-Powered Synchronized Stroke Care Solution to Improve Patient Outcomes"
     excerpt: "Today, on World Stroke Day, many prominent health systems such as Banner Health, Ohio State University Medical Center, Atrium"
     publishedDateTime: 2020-10-29T12:06:00Z

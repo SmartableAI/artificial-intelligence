@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azur
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
 type: article
 quality: 99
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 60
-  - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
-    excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
-    publishedDateTime: 2020-10-28T03:00:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/28/attackiq-microsoft-azure-sentinel/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 53
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
     excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
     publishedDateTime: 2020-10-31T18:43:00Z

@@ -62,34 +62,6 @@ related:
         width: 1000
         height: 682
         isCached: true
-  - title: "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps"
-    excerpt: "Apple purchased artificial intelligence startup Vilynx earlier this year for approximately $50 million, Bloomberg reported Tuesday. Barcelona-based Vilynx built AI tools that analyze videos with the goal of \"understanding\" what's in them and categorizing that information,"
-    publishedDateTime: 2020-10-28T02:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10-1029729829"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/5f59078de6ff30001d4e7c8e?format=jpeg"
-        width: 2588
-        height: 1941
-        isCached: true
-  - title: "Apple Buys AI Startup For $50m In Apparent Effort To Improve Siri"
-    excerpt: "Apple has acquired a Spanish startup specialising in advanced artificial intelligence and computer vision technology in an apparent effort to improve Siri and its corresponding apps. The tech giant bought Barcelona-based Vilynx Inc,"
-    publishedDateTime: 2020-10-28T02:07:00Z
-    webUrl: "https://www.channelnews.com.au/apple-buys-ai-startup-for-50m-in-apparent-effort-to-improve-siri/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 37
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/10/siri.jpg"
-        width: 840
-        height: 441
-        isCached: true
   - title: "Apple buys self-learning AI video startup to improve apps"
     excerpt: "Apple Inc acquired a startup specialising in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services. The Cupertino, California-based technology giant acquired ..."
     publishedDateTime: 2020-10-28T07:32:00Z
