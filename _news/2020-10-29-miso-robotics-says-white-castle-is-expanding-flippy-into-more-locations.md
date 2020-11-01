@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "White Castle rolls out more robots from Miso Robotics to cook in its kitchens"
-    excerpt: "More robots are coming to White Castle ... turned to Miso Robotics’ fry cook in a box to find a solution. “Artificial intelligence and automation have been an area White Castle has wanted ..."
-    publishedDateTime: 2020-10-27T09:02:00Z
-    webUrl: "https://techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens/"
-    ampWebUrl: "https://techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 101
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/white-castle-robot-arms.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Flippy robots will cook sliders in 10 more White Castle locations"
     excerpt: "Rail — showed promising results in its pilot with White Castle, enough for the burger chain to sign on to deploying the robot in 10 more locations. Back in September, they formally started a pilot program to test Flippy at one White Castle location,"
     publishedDateTime: 2020-10-27T09:41:00Z

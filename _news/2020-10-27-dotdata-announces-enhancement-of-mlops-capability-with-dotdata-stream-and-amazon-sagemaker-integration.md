@@ -1,7 +1,7 @@
 ---
 category: news
 title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
-excerpt: "SAN MATEO, Calif., Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that ..."
+excerpt: "Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to deploy machine learning (ML) models quickly. Now, with simple point-and-click ..."
 publishedDateTime: 2020-10-27T12:38:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
 webUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
@@ -15,9 +15,9 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - Machine Learning
-  - AI
   - AWS AI
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
@@ -83,6 +83,6 @@ related:
         height: 720
         isCached: true
 
-secured: "QdDwCdsk0nciOBi2n7bsYddITEHGmRgcXkwgfci4kyrs14ge03LuXaXK67ZG2viM4Kb1JivonqEi7zK0MhVxBP6xBceB4nbRi4TjQ0FyS83vySemDNEJ3RMmFFMDATGr/ltIvEz9jClmIJCbbltvx7gQr+Wv2XQk6B+BVmrGv7p+F0hunxELst05tHiwkA6pbxXhl6ftvOUHwOvW+J5IygeFrOEis3+IvxZ7zBbEQB2kRUYTmQh2DhctD4d4JDqei3dxaP08ROpHH8C3v12xbkC5aDndpYVUSes9V5jRXtT4RqCIIfP6pyfQ/GOxTylVVbbyyq0D0G2wJnmzrpwMO/C9RDhPf00QtoL82/3phx8=;EQJjOYuKU9F7Zf6wUZyweA=="
+secured: "NiVDr0Z0BlyqVzDWV5CGkio8mtx5kkVpYjSTl0XZD20CXSuRfgRNwTF48GYNiRaPJbxllWK88mZR6013SfnW19Pv3L97VwAoMhMNhNEp10iSJu47g7B+XZkt/tuGHjdQ7As53KlrmFm2iG0SPKsmn7+IJFceo4K5AOpRdoLS5sNSSDTApzYdF/1HpupFEbz45+ZCOA++0tuAptqfhGfYQfmi1aoUZlBVJg4zGmVK+weh3bOzPqqkhqcEpWUGdflww5gtKn3F+zVaFVIB6W17QFju129Ek4ADczg5Sawvs09m4JKkQKAkiERtvBJsqUz9lStOT/pUP0G9wGdX8d2ZIp7tC383o0EMaBj5XYspSyQ=;+x/zTOljF10m2/fotyiNtw=="
 ---
 

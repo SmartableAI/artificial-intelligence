@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-impr
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Helps Amazon Improve Sustainable Packaging"
-    excerpt: "Artificial intelligence has helped Amazon boost sustainable packaging options while slashing waste, but there's still room for improvement on this front."
-    publishedDateTime: 2020-10-27T07:25:00Z
-    webUrl: "https://www.triplepundit.com/story/2020/ai-amazon-sustainable-packaging/707721"
-    type: article
-    provider:
-      name: TriplePundit
-      domain: triplepundit.com
-    quality: 39
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/amazon%20sustainable%20packaging.jpg?h=bc09f3d1"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Artificial intelligence can help to improve prognosis and treatment for glioblastoma"
     excerpt: "In the first study of its kind in cancer, researchers have applied artificial intelligence to measure the amount of muscle in patients with brain tumours to help improve prognosis and treatment."
     publishedDateTime: 2020-10-29T08:23:00Z

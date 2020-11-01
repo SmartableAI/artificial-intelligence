@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-managem
 webUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Data Management Best Practices for Machine Learning"
-    excerpt: "Machine learning is on the rise at businesses hungry for greater automation and intelligence. A recent study fielded amongst the subscribers of DBTA found that 48% currently have machine learning initiatives underway with another 20% considering adoption."
-    publishedDateTime: 2020-10-27T07:10:00Z
-    webUrl: "https://www.dbta.com/Webinars/1549-Data-Management-Best-Practices-for-Machine-Learning.htm"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 19
   - title: "Workday, Inc.: Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance"
     excerpt: "Advances in Managing Data Create New Levels of Insight and Performance Accountability for Today's Agile OrganizationsPLEASANTON, Calif., Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc ("
     publishedDateTime: 2020-10-29T12:05:00Z

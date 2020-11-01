@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Google AI executive sees a world of trillions of devices untethered from human care"
-excerpt: "Google says hardware in embedded devices needs to improve to make possible a world of peel-and-stick sensors free of wall power and human maintenance."
-publishedDateTime: 2020-10-29T17:04:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+excerpt: "Everything you need to know about AI An executive guide to artificial intelligence ... The Linley Fall Processor Conference, hosted by chip analysts The Linley Group. Warden offered the assembled, mostly chip industry executives, a wish list, as he ..."
+publishedDateTime: 2020-10-30T06:21:00Z
+originalUrl: "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+webUrl: "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
 type: article
-quality: 61
-heat: -1
-published: false
+quality: 83
+heat: 93
+published: true
 
 provider:
   name: ZDNet
@@ -21,7 +21,14 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/10/29/470db163-bd0f-42db-884d-a81b219a724d/warden-2020-what-tinyml-needs-from-hardware.png"
+    width: 3331
+    height: 1816
+    isCached: true
 
 related:
   - title: "Server Inference Chip Startup Untethered from AI Data Movement"
@@ -41,6 +48,6 @@ related:
         height: 500
         isCached: true
 
-secured: "0MoloexQnnAwi1Bk/lAwAsMKfdTsHGIjoQuPP2zyaJraD8rq3iP/VzgG87yoKoYvPxHX/r9V5m8QBRW5K5zTAz4dRYmEMqlmKf6WjwJFob+S3K/67ZLlN5vID/Z7KfMtm6aMRM9mi2wDKi/r5eyYoIcVIqUVu+95wCCUkBgdX1ee81sFn7advr1PxYpKk15Hspev14Ly5/GkxAlqAyNHH/GVeSfD2aK6yI0xVGFODyG0KMwgCZLOPRIuwCgTbqgLFasDBdCqPhC+HpinsF/3y2+ZWSJ+nZ5jzYwoU4g1JFnprlqzc+nDwe3+9o6xmYRgbFXJN8dz6f3RtRtFfJE+lGkzmJbjTl+8A+Me9VgWGsAgc8S6cSRJQeePPMRAXVvLyqBUAchxLi37zYKCDpijPFkJlNncsX3W399AGrrL/zNjLCej+hlzW+NMnJuaiFA7k2Cp7cXaSyXWV4yScjfDU0eFwsaLMtHqemStE/Hk5/qsaMLgkpX7SDL8IacInQXfFLiQCuvzuuhCqd5+FReiig==;33hjhwU5Fg+48pAGvUjibA=="
+secured: "MnTGqmjJc1u0qnsiyYHrpNv9H7yqIH4ZkVUlEr5iXukcHNZFDwJ1c/C4ZO4p3RogVKwnTimViCRWlW/lyzsDEuVbIefwBr3Z3NQCnWT1k8Y9guMHV0wWgxjzv02cuj1dlOEs/OSdBrf1cyNhTGdltHXeLUgd9f+bF+lhrAtf1jAmy0qKgtwtgSa3WST7dKFilcm9sTN1UqdIs83a3V2qCNE/H1l2Hv8tQOB159miqGIGfdY/t8Z/kMEb5JNvM1dBRk/Nuadfefnnu+3Z23mIMkDdrhOcsxpEf3ilnDl7fI8ia3945nwVS/JvLMSpUn3CVno2IiKzP8Isb1g2Ix5OaYGUL+jpklNcRCuT1TcQ4+M=;6FRgseDRLt90+DcCbbW6IA=="
 ---
 

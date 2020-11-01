@@ -3,10 +3,10 @@ category: news
 title: "Blockchain aims to solve AI ethics and bias issues"
 excerpt: "Many Machine Learning and AI algorithms are centralized, with no transparency in the process. Now a blockchain-based start-up aims to improve transparency bias in business workflows"
 publishedDateTime: 2020-10-30T10:36:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+originalUrl: "https://www.zdnet.com/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+webUrl: "https://www.zdnet.com/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
 type: article
 quality: 84
 heat: 154
@@ -26,14 +26,14 @@ topics:
 
 related:
   - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
-    publishedDateTime: 2020-10-28T02:39:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/"
+    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
+    publishedDateTime: 2020-10-28T05:40:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
         width: 1678
@@ -126,6 +126,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "XI1O0rfSppVFZnYOhjxCQpnDu67khGfzzOa4uBNlXleHWjNv/W4at192O8K9tKNgWkfzFaHIeVUHcr5XC1KyOayUatNuBHUMsxQLV66eS8UP9TMhAyHWKpnigKBQiWkOQnUr49IlY+vaW64br9PTfVWKTe29cTyQl5WLUnlw6gXVPKV94jmCd4HrUvJTIFND/Btb3G8gk1174A3gT1jfbevxLHWcT2RPhvtPPli75VOzLUbviJ8TZ9iCVo306Jh3yixi/4v+P/vjuanuNgyxD4DyYu82LZtEYdyC+nAPadiRDVNkG6WkeqvxG0PHuZWqE4UuqvSCNeCKWrgef1cKKJVJciu6vwZ0r2EQ+XQyCjidrepQsF+zPrNcvS3FT0O0gQIXMUdY5vXnGuRSlFDyymlSoRLUStJ4oIhg1F7cdBsKyLSQ6WUfKXcDiuANS0QGf1bpFOD9cH1YK6ftOkPkgXner7OBRKkZxQxm76ZO07QDL9R7vA5zbelD5atGkRu8Nylh6Ws5WKeCD78YzJTBGg==;vEwvqK9KtyByR0epDsLB9w=="
+secured: "iWBrrVoZ0WXGpzmlQccn7GldPn69C2uofDYOIafrWXlzDZSyuMzAc2PM50wYf7t05lClnXpLZQKGe2owbVZ6p/6qeEwj246qr82JqEqhURncALY32QGaNLhRrxl1h8W3yuXL6ySKMrbm7WNMOuBbAxSSdhNgFlWtHmQIq9sLJYyFSZdyKD+n3I8U2d6E+gyYGjsq/VsTN7JlDlyD2Y/dAptzguBcTm0s/NRxFwIY2wlvDXjUYlIWiJBhaOZmaT7kwnR15VSmVD50XYIpuyOpCoqVkL0BTUxDnG7YpimwlhD2w34/bxnIXfsvHJsGsbN+GH937O/A/I8gzcyz+IUFpoxbSkYtO2OcbF2KlfGpU1jQjFEqluH9VS2BKV2OvJRzEM7h6UW/WeLUJiksUNLd58jJPiO0KRQvqxMNyKoE/ocg+d+KQJKeUzqg5LL3BghG7sUg4nhNclnBklR68LeTfcyVKomUhDO16sU24EbndxrGjgpYwn5i4dEKCOVggMYjlQct2arHIub7QpRC6Q7kVA==;rvE6SLLseROlpNiHI2Rarg=="
 ---
 

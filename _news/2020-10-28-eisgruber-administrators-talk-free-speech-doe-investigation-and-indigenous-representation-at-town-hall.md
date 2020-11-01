@@ -7,7 +7,7 @@ originalUrl: "https://www.dailyprincetonian.com/article/2020/10/town-hall-racism
 webUrl: "https://www.dailyprincetonian.com/article/2020/10/town-hall-racism-princeton-free-speech"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "Eisgruber, administrators talk free speech, DOE investigation, and Indigenous representation at town hall"
-    excerpt: "The event began with discussion of the Department of Education’s (DOE) civil rights investigation into the University."
-    publishedDateTime: 2020-10-27T07:25:00Z
-    webUrl: "https://www.dailyprincetonian.com/article/2020/10/town-hall-racism-princeton-free-speech?fbclid=IwAR0JteQgRB3dnhYsHx662A4INT99YZFrursIveeO2IPmbcx-sr0UpgjfMFU"
-    type: article
-    provider:
-      name: The Daily Princetonian
-      domain: dailyprincetonian.com
-    quality: 7
-    images:
-      - url: "https://snworksceo.imgix.net/pri/0c56d222-b0f5-43e5-bf1c-30fe92fee0a3.sized-1000x1000.jpeg?w=800&h=600"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "zLexJTmpAWVoAuh64TK9wA+puTaTBL/gI8dALZYiVpy1xhtJF0MtqB4wClLkr13HXU/+B60yRbZjbpcdzg2A15U1m5GFcEcQLIN75XOtJxc+O9Ny/b2xT1TC4f1CufwrL2GKJPx5+NU0lVDEKeiMqsGzWQmY4W7F/dCxVrMp5eIbAlK6k1jdGwnCB0OZ6KPuks7i8eslv3Dofy/BNG+y6iQsr4O5ij7vyzpJ5Tyem0Kg/gNyI5s3UYUlZ1PP3vnwKJNpFyiaMwCg2AY+WMIVibZIUlRM2CHY93GkE9LO4Pn2kZ0g4xysECArwIjuSIGA6QqT99iJoLqNv/kiHjQgJgmZbwM7iB6YcjectzXpUil9dhSLfmcoCvmPF8b4i9z7c3vG7WojnEKUKLxqIZjNJXQuN+CWa35+JfV0To6Ju85Xbge/z4+JGe4y+mK5BHN+Kc3pSN/AYdnzy0dTIV0KffZodTIofa2Bw/8egLhMFb+/r+0FwAw1EZkReece2rFOv9dj89M9GwT8wnV3TO/7PA==;qhZ8gQ0CDZJno9oL4/s8oQ=="
 ---

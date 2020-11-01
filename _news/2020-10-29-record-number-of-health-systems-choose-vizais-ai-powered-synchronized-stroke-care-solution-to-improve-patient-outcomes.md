@@ -25,38 +25,100 @@ images:
     isCached: true
 
 related:
-  - title: "AI Improves Control of Robot Arms"
-    excerpt: "A team of Stanford researchers has developed a novel way to control assistive robotic arms that is both more intuitive and faster than existing approaches. New AI enabled robot controllers allowed sub"
-    publishedDateTime: 2020-10-27T07:42:00Z
-    webUrl: "https://www.nextbigfuture.com/2020/10/ai-improves-control-of-robot-arms.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2020/10/ai-improves-control-of-robot-arms.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/10/ai-improves-control-of-robot-arms.html?amp"
+  - title: "Global Artificial Intelligence in Healthcare Market"
+    excerpt: "DBMR has added a new report titled Global Artificial Intelligence in Healthcare Market with data Tables for historical and forecast years represented with Chats & Graphs spread through Pages with easy to understand detailed analysis. Global Artificial ..."
+    publishedDateTime: 2020-10-28T18:08:00Z
+    webUrl: "https://www.openpr.com/news/2175181/global-artificial-intelligence-in-healthcare-market-2020"
+    ampWebUrl: "https://www.openpr.com/amp/2175181/global-artificial-intelligence-in-healthcare-market-2020"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175181/global-artificial-intelligence-in-healthcare-market-2020"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
+      name: openpr.com
+      domain: openpr.com
     quality: 74
     images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2020/10/airobotarms.jpg"
-        width: 960
-        height: 641
+      - url: "https://cdn.openpr.com/T/a/Ta28369455_g.jpg"
+        width: 420
+        height: 315
         isCached: true
-  - title: "Researchers reduce positional error in brain-controlled robot arms"
-    excerpt: "In this case, when the subject notices the robotic arm does not reach the position they originally ... moving ever closer to realizing sophisticated, mind controlled physical symptoms that will drastically improve the quality of life of individuals with ..."
-    publishedDateTime: 2020-10-28T00:01:00Z
-    webUrl: "https://www.news-medical.net/news/20201028/Researchers-reduce-positional-error-in-brain-controlled-robot-arms.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201028/Researchers-reduce-positional-error-in-brain-controlled-robot-arms.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201028/Researchers-reduce-positional-error-in-brain-controlled-robot-arms.aspx"
+  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-10-27T23:50:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-10-27/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 74
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 73
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Manufacturing Market: Sales, Consumption, Demand and Forecast 2020-2026"
+    excerpt: "Artificial Intelligence in Manufacturing market report has been added to the Market Growth Insight with addition of the recent news and developments taken place in the market. The Artificial Intelligence in Manufacturing market is anticipated to grow at a ..."
+    publishedDateTime: 2020-10-27T14:31:00Z
+    webUrl: "https://www.openpr.com/news/2173554/global-artificial-intelligence-in-manufacturing-market"
+    ampWebUrl: "https://www.openpr.com/amp/2173554/global-artificial-intelligence-in-manufacturing-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173554/global-artificial-intelligence-in-manufacturing-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta27178329_g.jpg"
+        width: 780
+        height: 405
+        isCached: true
+  - title: "Edge AI Hardware Market"
+    excerpt: "Microsoft’s Azure IoT platform is able to process data messaging from millions of building sensors and devices and then use machine learning and AI to help building managers and operators determine what issues should be addressed in what order ..."
+    publishedDateTime: 2020-10-28T03:59:00Z
+    webUrl: "https://www.openpr.com/news/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements"
+    ampWebUrl: "https://www.openpr.com/amp/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta28544591_g.jpg"
+        width: 639
+        height: 542
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
+    excerpt: "UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning,"
+    publishedDateTime: 2020-10-28T02:48:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
+        width: 1279
+        height: 670
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market Size"
+    excerpt: "Artificial intelligence refers to the simulation of human intelligence in machines that are programmed to think like humans and simulator their actions. Using these technologies, computers can be trained to accomplish specific tasks by processing large ..."
+    publishedDateTime: 2020-10-27T17:42:00Z
+    webUrl: "https://www.medgadget.com/2020/10/at-41-8-cagr-healthcare-artificial-intelligence-market-share-with-latest-trends-and-research-development-report-to-2025-intel-nvidia-siemens-healthineers-ibm-microsoft.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 34
+  - title: "Global Artificial Intelligence in Healthcare Market to Surpass US$ 74,650.7 Million by 2027, Says Coherent Market Insights (CMI)"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2020-10-27T13:56:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201027005517/global-artificial-intelligence-in-healthcare-market-to-surpass-us-746507-million-by-2027-says-coherent-market-insights-cmi"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 5
 
 secured: "1S4/C2y70ydAQzXltHPPqZ+NqHWS8rez0eXYZnzYEn0LT4ZQRbMN3gRQK9OnhWJJbw3acOU4gxJiGRvfUfBaKr2zJ0WwfxZVTvOJLMjx7dhlNqDqn7txSQlWAkjU6ybivI0qVTxSwvfvCWb8gC10+2Jr3ssQLIy30NpdLbaxK5m5/M7Kgehis9TdEjkAm2v1hWsDoDqSIeiQuxzjc1SpqAUYXJzseyflUrBBxggQ0SLKd23wEfXzLbD0/qKl0u1rUPmYtIuCypJMfWOZfjin0mH3qONjWAoid6r2qzG7uZPwfkR13i/EaxPjlvFbvVMMHoXp/bi1Y3uzFpb53b4ugYHSARevuxu8uzm7Sk2F0vhCG2cBFaZ82fQHslykZ35fuOTzbvzKkRX3RWUV00/ROEVtKW5EPeco4d1YG1xV3WoC1rqtQDycFINSooiJO42VaFpCwd1Rwwszw574wp/sBAfRIyIFCCEPH6BKdqfnKoAjoXIvHHBC4u3to38L0FBx1otlNx7byU5GeczKAJil7w==;rcl8eHTu/o1rHvJCZRSzWQ=="
 ---

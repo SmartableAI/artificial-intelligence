@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/51065532-beha
 webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/51065532-behavox-ltd-behavox-voice-recognition-and-speech-processing-technology-successfully-interprets-50-year-old-apollo-11-space-tapes-004.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Behavox Voice Recognition and Speech Processing Technology Successfully Interprets 50-Year-Old Apollo 11 Space Tapes"
-    excerpt: "Behavox conducted this analysis to demonstrate how its voice recognition and speech processing solutions are suited to seamlessly analyze any communications data, regardless of how poor, grainy or muffled their quality. In doing so, Behavox was able to ..."
-    publishedDateTime: 2020-10-27T08:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/behavox-voice-recognition-and-speech-processing-technology-successfully-interprets-50"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 11
 
 secured: "wAGTCEzMUljMr4A6I7iD5NGHs6bYwgH5aB0sTs5AHz8ottw173Tc1Mnj6PBfEImVyRWNa9fkC9CP6Iz4mBU6mT+IthZEi7DcMzPdduPu0o666j7ax+nm4N60W7oHHvwOcCkIGuyhSaEvMl9/0oPLHwCEQB9tpVs0HpwlXnqitX/j4MKrDP7ELC3MB5qKo29KjWN46pwKvpq84aQzPl6frzVsVlDgn7Q2i3WxHB5tm5XdDreEnY3rlCRd3MtaToAQUEWKHmC9YdApfKKXu1gvCz+St6GBd88KTqEX8aIbzioETzj4/oHj8Ldha0qjCaqs+pIzEKmFbYr7AaNnQ3n3wHcN1b5dMlmUNRKBRBuSLiE=;OTGv5qZwYau4jMiLmBuGfA=="
 ---

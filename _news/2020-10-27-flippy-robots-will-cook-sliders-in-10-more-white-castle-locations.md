@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/flippy-robot-white-castle-expansion-090
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: Engadget
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "White Castle rolls out more robots from Miso Robotics to cook in its kitchens"
-    excerpt: "More robots are coming to White Castle ... turned to Miso Robotics’ fry cook in a box to find a solution. “Artificial intelligence and automation have been an area White Castle has wanted ..."
-    publishedDateTime: 2020-10-27T09:02:00Z
-    webUrl: "https://techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens/"
-    ampWebUrl: "https://techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 101
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/white-castle-robot-arms.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "White Castle Plans To Use Flippy The Robot In More Locations"
     excerpt: "When you order French fries or onion rings at one of 10 White Castle locations, a robot may help prepare the food. White Castle announced it is expanding the use of Flippy Robot-on-a-Rail (ROAR) to more locations in the United States."
     publishedDateTime: 2020-10-29T03:09:00Z

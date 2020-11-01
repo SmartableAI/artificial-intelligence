@@ -20,19 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Trump’s remarks hinted potential US recognition of Artsakh independence, Armenian top lawmakers say"
-    excerpt: "“Donald Trump today hinted in New Hampshire that the United States could recognize the independence of Artsakh,” the Armenian lawmakers said and quoted Trump’s speech. “Armenia, you know Armenia? We’re working on that. You know we’re workin"
-    publishedDateTime: 2020-10-27T08:30:00Z
-    webUrl: "https://armenpress.am/eng/news/1032756/trumpE28099s-remarks-hinted-potential-us-recognition-of-artsakh-independence-armenian-top-lawmakers-say.html"
-    ampWebUrl: "https://armenpress.am/eng/amp/1032756"
-    cdnAmpWebUrl: "https://armenpress-am.cdn.ampproject.org/c/s/armenpress.am/eng/amp/1032756"
-    type: article
-    provider:
-      name: Armenpress
-      domain: armenpress.am
-    quality: 10
-
 secured: "a5Wy9T9TTk9S9Rs2BefyZL29wABBV9l2Sg/JiCTCIGdwuu+Ck7EmgW4vlbytHAA8+9tMwMIdGGaoOr+x2OHRoO512Cfyx1aSEGXjONO70MO3COUc1OmguugxGIsFUaO2K53UPOKmiAP7X2W+tT5t7/J6te+cYrSEKjYoIBd1Vh5qeYN3Dn54euyvtl6eTuGchXDFnOWOlDJxqS5NkQOzI4j12uNooUnbQ9EXmibzYTlox7bZvO7NNYdCw6dJTzgOidvUZPb4OesXkdZHxpH3DJbvu3Mi/kQHqwXJ+50NsZ/jlZRdqGxZR6AUu4o0J/8q2mB3sEUR8k5gGHcRSmIX7gMSgEp0WRYsmls/qvG9THc=;FFVJWQtsBENOsh8+GV4JjA=="
 ---
 

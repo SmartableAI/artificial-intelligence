@@ -57,15 +57,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Data Management Best Practices for Machine Learning"
-    excerpt: "Machine learning is on the rise at businesses hungry for greater automation and intelligence. A recent study fielded amongst the subscribers of DBTA found that 48% currently have machine learning initiatives underway with another 20% considering adoption."
-    publishedDateTime: 2020-10-27T07:10:00Z
-    webUrl: "https://www.dbta.com/Webinars/1549-Data-Management-Best-Practices-for-Machine-Learning.htm"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 19
 
 secured: "tElnQ1QHje4tI5yWU8bXQEbnNSAkXW2/TsfLzR9TcfPHhohqMCSdu25bu4nMzh2xiDclMaSzz1xel8XxhK1vQbfiAOfR4FtwRj3pfwdEiCEytjTmc6GAcCK9ls01rrRa1l6gmPKW5PZ27YuWusiPHOCU8SfYhjBbi018l+OH5vTMmdmmdDMjMFvWNq9C+8mmppFCONAejI8yFt+ojspJINDszUC5OxvPZ0Gpl5CaNKXeAV2YK0Yhul3Q5/wp0JBXc9dlRtrAQEb2CnYU791S2BE0kwKh8/d6nvM9khr5BCMs/7YQdwGM8uWT8f5ZYy7pUsShXclKUjVflQZpfWunyjbl4xVH5WTEcc7RI39H4JI=;Wk/qXsAohEeU2OlgkEUbVQ=="
 ---

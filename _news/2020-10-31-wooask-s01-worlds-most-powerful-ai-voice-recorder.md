@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Wooask S01 - World's Most Powerful AI Voice Recorder"
-excerpt: "Andy Lee, Founder & CEO of Wooask, a leading customized AI translation solution provider, is introducing a new product,"
-publishedDateTime: 2020-10-30T18:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/n18149887/wooask-s01-worlds-most-powerful-ai-voice-recorder"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/n18149887/wooask-s01-worlds-most-powerful-ai-voice-recorder"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18149887"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18149887"
+excerpt: "Wooask S01 AI Voice Recorder, a powerful technology that fits in your pocket, record, transcribe and translate everywhere. Artificial Intelligence is changing the way we produce and access information. Speech recognition and the understanding of language ..."
+publishedDateTime: 2020-10-30T18:43:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/wooask-s01---worlds-most-powerful-ai-voice-recorder-301164060.html"
+webUrl: "https://www.prnewswire.com/news-releases/wooask-s01---worlds-most-powerful-ai-voice-recorder-301164060.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "2+lKKLwnRhrdCI6Kzuhh+v+54hHaPFG66k6mp+50xi3IRW4FL9LjdBYyaW3NBPb5RzD1qlvE+kqCZyU+LdY+io8wh7aujYRC2iBIvIoekqTjqGN1qdKLfNBK+CVPcRh95Gc4CzVDJhxHtAOvIF9MYfhKlegG/1O/7Xroohgbk10iwEwHXWkdyXb8DK49IjofhX+YEMeXNRwe9sX9dzrZ5uqbdL0eJD2bZLhuROjc44cRO2OKNKDmaJhN1ysc3gO1vTxDmfTAhfd/Jc1BhVAPbdLniGIZhwiE+xNwPeAd1Mx2JhRDUjxMaYtSRA1BTJ3HKXfic70NRqFry5QryYBLagkXYggiCfdN2S8TuIht1pk=;tgdLI9TdLK3lCAYiJWeg6g=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "Zaj7ofN+l+8+YR9gHmmufcLtT6s6YBNorhjGmV34bD3TqR87f5l/TO/BkcWmZ9i3lDJqRXjkn2DrWKPmj50pOqVZPEoKa11aRXXzCdzVTfTmEDHiaEqPY4VQ7s37d+moA+RYBl93hc8nettlPZPmFtP4xI52+TSOCxoRh440cTivYw9GeyaLyFBmPlqAmLN/eK/l22sgmIBwj3KaohTNlgAtTQTiUVrxmKutc7QJ8jTYwrTwncCM35DD/2usBTHUSGtarnOMvnUIMOQG+00oxt2GJqTf8pCGURQHg87h0CjowtGc3zlmq9rQ0ZokBWP3mWAR6bsbPj+YHbdrzKVuHI/wAbpA2jbvq+YjdmRrRkY=;MNmU0NqiOXhJVJAIeB5ENw=="
 ---
 

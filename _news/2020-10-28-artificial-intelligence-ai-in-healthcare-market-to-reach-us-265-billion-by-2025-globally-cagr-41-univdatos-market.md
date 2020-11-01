@@ -78,15 +78,6 @@ related:
         height: 542
         isCached: true
   - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-    excerpt: "robotic personal assistants and big data analytics. Healthcare is poised to accelerate investments in AI over the next few years. On an estimate, artificial intelligence in healthcare raised a ..."
-    publishedDateTime: 2020-10-27T15:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
     excerpt: "UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning,"
     publishedDateTime: 2020-10-28T02:48:00Z
     webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
@@ -109,6 +100,20 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 34
+  - title: "Record Number of Health Systems Choose Viz.ai's AI-Powered Synchronized Stroke Care Solution to Improve Patient Outcomes"
+    excerpt: "Today, on World Stroke Day, many prominent health systems such as Banner Health, Ohio State University Medical Center, Atrium"
+    publishedDateTime: 2020-10-29T12:06:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/record-number-of-health-systems-choose-viz-ais-ai-powered-synchronized-stroke-care-solution-to/article_0d4585ee-bfe2-571c-978a-67c68e30d7e8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/66/666fbd84-9824-5347-becf-d8f08dd0924c/5f9abd7ebcb6a.image.jpg?resize=400%2C208"
+        width: 400
+        height: 208
+        isCached: true
   - title: "Global Artificial Intelligence in Healthcare Market to Surpass US$ 74,650.7 Million by 2027, Says Coherent Market Insights (CMI)"
     excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
     publishedDateTime: 2020-10-27T13:56:00Z

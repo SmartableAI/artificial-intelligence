@@ -37,20 +37,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "How AI Helps Amazon Improve Sustainable Packaging"
-    excerpt: "Artificial intelligence has helped Amazon boost sustainable packaging options while slashing waste, but there's still room for improvement on this front."
-    publishedDateTime: 2020-10-27T07:25:00Z
-    webUrl: "https://www.triplepundit.com/story/2020/ai-amazon-sustainable-packaging/707721"
-    type: article
-    provider:
-      name: TriplePundit
-      domain: triplepundit.com
-    quality: 39
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/amazon%20sustainable%20packaging.jpg?h=bc09f3d1"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "y/D7PI0z57VxqVuyePWXmFbZuJBI+6cx2Fog35vWiUHgguhjybOkB/vp4DOk63zv070uYv0ncykuVXvAJpAfdqv7wojN7FKmlfzRFUQtYGBQtr6MjUWDm9merPgHL3Gwq//+c6Ykkg+B1TvGxBV+Sl3SYeW2koSw4DnsPYBVrKjKo7NYhTWEQt96bFXEm1fpBPD4xNVCmmTmPOtOn1+poesTd8QasT5MrIWCvbT+ri/GZ5a35forUPycZuX3o2kng/h6M+mxsxISKEd0dF9DHssrcYRnRE8bNgmJwJuoM4xtcP/hZhQSZ/tMAY2y4l7lp8757ruD042+sao186WVxyHyGMsr9vVhQ6Dn3pwMhok=;DFzYmCcVW5QQIi33XqpRxQ=="
 ---
