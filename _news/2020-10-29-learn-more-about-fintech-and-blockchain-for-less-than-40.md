@@ -37,14 +37,14 @@ related:
       domain: zdnet.com
     quality: 84
   - title: "5 Best Robotics and Artificial Intelligence Stocks To Buy"
-    excerpt: "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ..."
-    publishedDateTime: 2020-10-28T05:40:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/"
+    excerpt: "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ..."
+    publishedDateTime: 2020-10-28T02:39:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 71
+    quality: 69
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg"
         width: 1678
@@ -79,20 +79,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fin.png?w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Ethics vs. compliance in AI"
-    excerpt: "The Defense Department is focused on implementing its ethics principles for artificial intelligence, especially when it comes to health-related data. But tech experts warn against conflating ethics as just another compliance checklist. Jane Pinelis ..."
-    publishedDateTime: 2020-10-27T19:16:00Z
-    webUrl: "https://defensesystems.com/articles/2020/10/27/ai-defense-ethics-compliance.aspx"
-    type: article
-    provider:
-      name: Defense Systems
-      domain: defensesystems.com
-    quality: 54
-    images:
-      - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIprocesses.png"
-        width: 620
-        height: 300
         isCached: true
   - title: "Grades, And Artificial Intelligence"
     excerpt: "If you ask about your grade, I’ll gladly tell you that you’re doing well in the course, or that you really need to do better, as the case may be. More specifically than that I will not say. The main reason for this is that if I were a hiring manager at ..."

@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo, Daimler to partner in developing self-driving semi trucks"
-    excerpt: "Daimler AG's <DAIGn.DE> commercial truck unit and Alphabet Inc's <GOOGL.O> Waymo on Tuesday said they will collaborate on development of self-driving Class 8 semi trucks, applying Waymo's automated system to Daimler's Freightliner Cascadia."
-    publishedDateTime: 2020-10-27T19:19:00Z
-    webUrl: "https://www.reuters.com/article/autos-selfdriving-waymo-daimler-int/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks-idUSKBN27C1V0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C1UM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1UM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538989863&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q17N"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Waymo shares in-depth details of self-driving car activity in Phoenix"
-    excerpt: "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology."
-    publishedDateTime: 2020-10-31T16:36:00Z
-    webUrl: "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
-    ampWebUrl: "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Feda031a0-1b7e-11eb-aeff-c6d8e3737344&client=amp-blogside-v2&signature=64755fdb1c313a1eb2bd21d17cef2c2065e20715"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Waymo pulls back the curtain on 6.1 million miles of self-driving car data in Phoenix"
-    excerpt: "Over 21 months in Arizona, Waymo’s vehicles were involved in 47 collisions and near-misses, none of which resulted in injuries In its first report on its autonomous vehicle operations in Phoenix, Arizona,"
-    publishedDateTime: 2020-10-30T14:06:00Z
-    webUrl: "https://www.theverge.com/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 97
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/0rCtvcMvE9CVhAYv64lC5YBQ4yw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67713914/vpavic_181128_3122_0115.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Daimler Invests in Lidar Startup to Bolster Self-Driving Truck Effort"
     excerpt: "Daimler AG’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from a unit of Google parent Alphabet Inc. Daimler Truck AG ..."
     publishedDateTime: 2020-10-30T11:58:00Z
@@ -88,22 +40,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivAEZ0L1V7mU/v0/360x-1.jpg"
         width: 360
         height: 270
-        isCached: true
-  - title: "Waymo releases Phoenix area self-driving car incident score card"
-    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous vehicles there had been involved in 18 minor incidents since 2019 during tests and actual rides."
-    publishedDateTime: 2020-10-30T19:11:00Z
-    webUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int/waymo-releases-phoenix-area-self-driving-car-incident-score-card-idUSKBN27F23R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F23R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F23R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539430698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T1AD"
-        width: 818
-        height: 545
         isCached: true
   - title: "Daimler Trucks’ self-driving haulage finds a key part of its autonomous vision"
     excerpt: "Daimler Trucks just gone done inking a collaboration with Waymo, and now it’s picking out cutting edge sensors for its self-driving haulage as the pieces slot into place for autonomy. The German automaker announced earlier this week that it would be ..."
@@ -132,36 +68,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
-    excerpt: "Until spring this year, Waymo’s self-driving vehicles were in their testing phase and were used in up to 10% of the firm’s rides. The pandemic forced the company to shutter its doors and temporarily suspend on-road testing, but it is now back online ..."
-    publishedDateTime: 2020-10-30T23:59:00Z
-    webUrl: "https://www.forbes.com/sites/peterlyon/2020/10/31/waymo-and-other-self-driving-car-companies-readying-real-world-driverless-transportation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9e1ae8b307dfb172a46190%2F0x0.jpg"
-        width: 1199
-        height: 798
-        isCached: true
-  - title: "Daimler Trucks and Waymo to partner on self-driving trucks"
-    excerpt: "Oct. 27 (UPI) --Daimler Trucks and Waymo announced a partnership Tuesday to bring self-driving trucks to market. The partnership will combine Waymo's automated driver technology, dubbed \"The World's Most Experience Driver,\" with Daimler Trucks engineering ..."
-    publishedDateTime: 2020-10-27T18:47:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/10/27/Daimler-Trucks-and-Waymo-to-partner-on-self-driving-trucks/1751603820336/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/27/Daimler-Trucks-and-Waymo-to-partner-on-self-driving-trucks/1751603820336/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/27/Daimler-Trucks-and-Waymo-to-partner-on-self-driving-trucks/1751603820336/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 74
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/1751603820336/2020/1/16038230842717/v1.5/Daimler-Trucks-and-Waymo-to-partner-on-self-driving-trucks.jpg"
-        width: 797
-        height: 534
-        isCached: true
   - title: "Waymo and Daimler to build self-driving Freightliner semi truck"
     excerpt: "Autonomous car technology company Waymo is teaming up with Daimler to build self-driving semitrucks. Continue Reading Below The Alphabet-owned brand will install its Waymo Driver package into Daimler-owned Freightliner Cascadia semis for evaluation ..."
     publishedDateTime: 2020-10-28T13:42:00Z
@@ -177,64 +83,6 @@ related:
       - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/1808cc53-waymo.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Daimler and Waymo partner on self-driving trucks"
-    excerpt: "Benz and one of the biggest truck manufacturers in the world, on Tuesday announced a partnership with Alphabet Inc.-owned self-driving technology startup Waymo. The partnership will see Daimler integrate Waymo's self-driving system,"
-    publishedDateTime: 2020-10-28T13:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1120792_daimler-and-waymo-partner-on-self-driving-trucks"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: "https://images.hgmsites.net/hug/freightliner-cascadia-semi-truck_100685398_h.jpg"
-        width: 1920
-        height: 1298
-        isCached: true
-  - title: "Race car drivers had a lot of fun making fun of self-driving race car driving straight into wall"
-    excerpt: "Race car drivers took to social media to point out their job security after video showed a self-driving race car drive itself into a wall."
-    publishedDateTime: 2020-10-30T06:06:00Z
-    webUrl: "https://thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
-    ampWebUrl: "http://amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
-    cdnAmpWebUrl: "https://amp-thecomeback-com.cdn.ampproject.org/c/amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
-    type: article
-    provider:
-      name: The Comeback
-      domain: thecomeback.com
-    quality: 46
-    images:
-      - url: "https://cdn1.thecomeback.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-29-at-11.58.31-PM-1024x567.png"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
-    excerpt: "Just after Alphabet-owned Waymo started its driverless taxi service to the public in Phoenix, other autonomous vehicle developers are following suit with"
-    publishedDateTime: 2020-11-01T02:25:00Z
-    webUrl: "https://www.newsoneplace.com/35575211911/waymo-car-companies"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 45
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f9e1ae8b307dfb172a46190/0x0.jpg"
-        width: 4256
-        height: 2832
-        isCached: true
-  - title: "Waymo Issues Self-Driving Car Incident Score Card for Phoenix Area"
-    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous"
-    publishedDateTime: 2020-10-30T15:40:00Z
-    webUrl: "https://www.insurancejournal.com/news/west/2020/10/30/588935.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 39
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2018/02/some-nebraska-lawmakers-580x349.jpg"
-        width: 580
-        height: 349
         isCached: true
   - title: "Daimler teams up with lidar maker Luminar for self-driving trucks"
     excerpt: "Daimler AG’s truck business, the world’s biggest manufacturer of commercial vehicles, today said that it’s teaming up with lidar maker Luminar Technologies Inc. to develop self-driving trucks."
@@ -274,15 +122,6 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 34
-  - title: "Waymo and Daimler to build self-driving trucks"
-    excerpt: "Daimler Trucks and autonomous driving technology vendor Waymo are partnering to deploy self-driving SAE Level 4 trucks for future transportation logistics operations. The initial collaboration will combine Waymo’s automated driving technology with a new version of Daimler’s Freightliner Cascadia to enable autonomous driving."
-    publishedDateTime: 2020-10-30T12:46:00Z
-    webUrl: "https://insights.globalspec.com/article/15320/waymo-and-daimler-to-build-self-driving-trucks"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
     quality: 34
 
 secured: "xRdhR4834qkiEnQVjCpxN5pn1aM0aBLqIt6HqqA2CkFsq8XpsIFr9Itze7pt87fPEaqyEOLXHE1DxVHEIfyrtlcEWRieiS776jb949P7yLZXHdAN0ZUZlCRh5E8pSa58mnO2So18NbPl7+zQcLts6/oAZUqAfNqXdateycnDECEm+G00U/eHVXeC+hhVHAdytZbAZ3H1CEgtbtb1PylftJnHyVtuJSHqZJ4OTYX8mu+pXe0+g/fOS+FjzTBNdy9q2RO/ppKS3YQ3KiNCiHVGQSBel2z0kpj0c6br83FYPdMJEVIWh2/kA0wxMQXrT21d9HUpubz7OgIiX3aKFPYOKoLk/zx2Ljh7Lf7dYRoiHQbtXsSe10o7ebFBKP4L9ox0VjVtc8M9TBT2gdPJrUmS4/SHfNdsLfGq2l62xTeK9Sh+hi80IIW8gOhX7gX0wBFDPoXRmAudZj+DHtRGsJNcj+35A0HW4o5oPlszUPkW4yWsVlCFj86zWAhQV9cxfda3skhjVRE9ZedDjBVT40vrvg==;w+uuzPtt5WGj+XwbCm5TwQ=="

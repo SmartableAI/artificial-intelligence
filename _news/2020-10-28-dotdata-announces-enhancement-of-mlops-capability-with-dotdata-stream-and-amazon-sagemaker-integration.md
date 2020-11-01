@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Optimizing costs for machine learning with Amazon SageMaker"
-    excerpt: "Applications based on machine learning (ML) can provide tremendous business value. Using ML, we can solve some of the most complex engineering problems that previously were infeasible. One of the advantages of running ML on the AWS Cloud is that you can continually optimize your workloads and reduce"
-    publishedDateTime: 2020-10-27T18:31:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Charts-840x630.jpg"
-        width: 840
-        height: 630
-        isCached: true
   - title: "Training and serving H2O models using Amazon SageMaker"
     excerpt: "Model training and serving steps are two essential pieces of a successful end-to-end machine learning (ML) pipeline. These two steps often require different software and hardware setups to provide the best mix for a production environment. Model training is optimized for a low-cost, feasible total run"
     publishedDateTime: 2020-10-30T23:43:01Z

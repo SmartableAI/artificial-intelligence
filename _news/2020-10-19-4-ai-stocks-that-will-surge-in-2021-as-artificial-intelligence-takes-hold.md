@@ -1,23 +1,28 @@
 ---
 category: news
 title: "4 AI Stocks That Will Surge in 2021 as Artificial Intelligence Takes Hold"
-excerpt: "Artificial intelligence (AI) is creeping into our everyday lives, often without us realizing it. Today, AI can be found in the digital assistants we use such as Apple’s (NASDAQ: AAPL) Siri and Amazon’s (NASDAQ: AMZN) Alexa to check our schedules and search for things on the internet;"
-publishedDateTime: 2020-10-19T10:31:00Z
-originalUrl: "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19"
-webUrl: "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19"
-ampWebUrl: "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19?amp"
+excerpt: "With artificial intelligence poised to take off as a critical tech component, here are four leading AI stocks that are likely to surge in 2021 and beyond as the future is built around us."
+publishedDateTime: 2020-10-19T10:37:00Z
+originalUrl: "https://investorplace.com/2020/10/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021/"
+webUrl: "https://investorplace.com/2020/10/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021/"
+ampWebUrl: "https://investorplace.com/2020/10/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021/amp/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
-  - AI in Healthcare
 
-secured: "aF0/igpTrykLfnSaH6iF4tgPnTY9Q1e/4w9wxcTaYtG3Qb9Y9uxA8rOQh/Fga2Ufyksys4ChiiSyUqZCke4HQcFuymn/hASTTksvBhDDznUp4Bkuf2cvzTskEeA4l6jVY9L7ryeAN1HlD3/9HbfHJN8QN6ipyQkI0jR6bw0puIbgbCc2nXNS+mIXu9KltIHXkGEpJRXMhSkDPJRs/GTDc6/ioiWQanNdQrv5kmsuaVG1+6miXfNwV6/ck6rAMcpD8k2YGK80MO5xRAbBUxomzCkrSNCR+ZpWEBT/T08iuPkAl8qW/apepvaQOhMp8jlc7KXNV7Vok5Ovr2AUdKvDKgYbdWHespUnaKktBxPeiak=;fmgYxm/ISiObM7fgL7s/xQ=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "dmtbhOOESZWlYb8dsh8mz/rvkvZMBQCuZxmTi7ClTVD1abBZCMUh4yakoQQA/F3Sef1GMgBo9lRgJ80ETF+VPkDW3e0WGrGANDiCUG03fwdc5Pa/YlPGWa2Y0Fv3anxRFRcYW7AoAW9BUmb5RqZGBm/pwmPL99Deby0AgvawxLqVAwrtz6fCZ84eKx4TfHhWDJnuu0UIv+LtRRIaZibJuUqLiPL8QOMw6Gxi62dp1nTumc+62+ifKRiNy36ApPPdpgsg49qrVWQUJW/RIRigVBmR9g2nVdFxcfT4GNkx9qn5+zk6N31i/BVh9h0mCEaFhgCZ4GjHCIXrjZjLtlBiBq0u2cYuTmtzZ40w0xnAZUA=;B2PFFSJK5MpWTc3JM8z2SQ=="
 ---
 

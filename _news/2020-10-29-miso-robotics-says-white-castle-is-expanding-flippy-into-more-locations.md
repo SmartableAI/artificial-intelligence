@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "White Castle will begin testing its automated 'Flippy' cooking robot at 10 more locations"
-    excerpt: "\"Artificial intelligence and automation have been an area White Castle ... Replacing human workers with robots might sound like a good idea on paper, and it might have worked well at one White Castle location, but we wouldn't be surprised if some hurdles ..."
-    publishedDateTime: 2020-10-27T19:11:00Z
-    webUrl: "https://www.techspot.com/news/87314-white-castle-begin-testing-automated-flippy-cooking-robot.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87314-white-castle-begin-testing-automated-flippy-cooking-robot.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87314-white-castle-begin-testing-automated-flippy-cooking-robot.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 80
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-27-image-17.jpg"
-        width: 1680
-        height: 938
-        isCached: true
 
 secured: "4Z3DFvw5KtTUnZyFdZdDTjs5KCj11sc3guL/jt3+bqntikggdM+pTI732ZJSnwZN4mQmPyHTr8h3woi/TMoqRlcYeiw5RHpb6BdodTD/tduYXx5m7ZPVOBJQwOuuB65PD+xIpqHxS+FsbLRmSdANOsv87G6ADsO6kiAaPEBU29qYOT3n1m/E6FnqLuXZYre2XwrBocfcL6FnhX3LprB43htZWvRyEq8P10gKZcPmhDmZvZS5Me0TjZ9GpXa5Q0Pi6v7LAA2X4I8kOav+o4RLXnSxq+UUGgMYncXn5szWIs5DX2rwR4ROtohUu5lvMU+AWxM98KAFOXboUdcWe4mLRD/Uw8INPxCWKMIWEFBGlQZy9/OqbAsxpo4cMDj6j+ul3OQloaUYNp1w9UfgmrgR8IHIn0AS9q/N1Xd4z+2WxExgWtniCYrc4uVCT0TBpM3aMOwmxBhrxEjTMlf4Nkc8JJ1hnInmWFPQP23xcWU0qT9kOW9ZF4Jl62NHsr9B0/bstZ0bKIltLkxujUaKvvEWoQ==;VxVcvK4yMHrKh4uUcUDIGw=="
 ---

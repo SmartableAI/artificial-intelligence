@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
-    excerpt: "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
-    publishedDateTime: 2020-10-27T18:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "New AI Trains Robots Like Dogs"
     excerpt: "Can robots be trained with positive reinforcement just like dogs? Reinforcement learning is an artificial intelligence (AI) concept inspired by behavioral psychology. Researchers at Johns Hopkins University have developed a new method to train robots that efficiently improves upon state-of-the-art reinforcement learning artificial intelligence algorithms,"
     publishedDateTime: 2020-10-28T00:00:00Z

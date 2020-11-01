@@ -1,7 +1,7 @@
 ---
 category: news
 title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
-excerpt: "Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to deploy machine learning (ML) models quickly. Now, with simple point-and-click ..."
+excerpt: "SAN MATEO, Calif., Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that ..."
 publishedDateTime: 2020-10-27T12:38:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
 webUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
@@ -12,9 +12,9 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
@@ -22,6 +22,6 @@ images:
     height: 315
     isCached: true
 
-secured: "Qbsbwn97d5lxdeO6PwYt6+n2AzoHesSufGOpqnaIGxI4U4/ylMFpKSzMGGqdeFB40+tR9xl5grIL3PrnU5EgFT3EcNq4SD7ULjfKWpTCM/K6G87N/8tog8iVYSPLDNJHEG5dYqU3V7cjyslUBY4QxBc8COflFyLMyO1QU9IEogAEUzfqSAQ7YtmgjMjjF8W28HPTUbwZx+e8MixGaKlqbF8EzpObr5+yKg4QfntBJo2PUw6qMqMUBmfwMIvxVJZMTDv3r3Nj1aPDDafJL8UV1po/CoSbbA3Bo68wPGDsG+VUyRTraazOT1+54DlxmQRbr+Se0fL4JOn5O/850MRkq9Woyyvkl3SYN14DfWRucLM=;BMpAgEF76znkPWjXMoObOg=="
+secured: "kuHcIQlOPrimARnDBB+XVU7RCKqHcSH2a2MN33tQJiR7RgPG8JKQBnNig3npAd23v1liJdKXXkzO4WSzztIaWRmg/qq6iPIE352NzCFS8EERlTgwqDdjoTaz9SGuiDl722y7j5/pR4aj9ENIiKY3ldAr9y9Xo9SgLoBRyFICGPj+qY4Ff8QweiTop/y5FmNJ0BocASUtIN+71cE5UazuYXNj5YgzfCU1N9oVe6zef1F09CpTbvChE5WfrFf4KlhfdPqyoyxC3cCpqJek42HxmYpTcAiz0ILIcIwf4lFBc5qW6htpkIPeukGgqonbbXNXo08LJU8tKcaps4+azK9+eGw8byyMTsOQxP3GUCWRX9s=;k7Lsk55/hRl5+chpwGaRYg=="
 ---
 

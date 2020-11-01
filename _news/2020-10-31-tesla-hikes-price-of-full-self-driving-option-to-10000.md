@@ -131,6 +131,36 @@ related:
         width: 800
         height: 451
         isCached: true
+  - title: "Waymo releases Phoenix area self-driving car incident score card"
+    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous vehicles there had been involved in 18 minor incidents since 2019 during tests and actual rides."
+    publishedDateTime: 2020-10-30T19:11:00Z
+    webUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int/waymo-releases-phoenix-area-self-driving-car-incident-score-card-idUSKBN27F23R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F23R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F23R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539430698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T1AD"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
+    excerpt: "Until spring this year, Waymo’s self-driving vehicles were in their testing phase and were used in up to 10% of the firm’s rides. The pandemic forced the company to shutter its doors and temporarily suspend on-road testing, but it is now back online ..."
+    publishedDateTime: 2020-10-30T23:59:00Z
+    webUrl: "https://www.forbes.com/sites/peterlyon/2020/10/31/waymo-and-other-self-driving-car-companies-readying-real-world-driverless-transportation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9e1ae8b307dfb172a46190%2F0x0.jpg"
+        width: 1199
+        height: 798
+        isCached: true
   - title: "Watch this self-driving race car hilariously smash into a wall"
     excerpt: "Autonomous cars are the future, apparently. Watch this self-driving car race series and decide for yourself how far along the tech is."
     publishedDateTime: 2020-10-30T09:10:00Z
@@ -160,22 +190,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/10/tesla_jeeesus-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Videos of Tesla's new 'full self-driving' software look futuristic — but show just how far it is from full autonomy"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 There's still no such thing as a self-driving car, but you wouldn't know that from hearing Elon Musk or Tesla talk about their ..."
-    publishedDateTime: 2020-10-27T19:31:00Z
-    webUrl: "https://www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/5f9878b30c60aa00190d4a68?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Tesla to begin rollout of self-driving beta"
     excerpt: "Experience the best self-driving car tech with Tesla. Although, the beta version update is only for customers in Early Access Program, everyone will be benefited with high-tech by the end of 2020."
@@ -300,19 +314,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tesla’s ‘Full Self Driving’ Beta Tech Nearly Wrecked This Model 3 Into a Parked Car"
-    excerpt: "Tesla's \"Full Self Driving\" update was sent out to an unknown number of beta testers a few days ago, and videos showing the system's performance are being shared around the internet. One such clip, posted by YouTuber Brandon M,"
-    publishedDateTime: 2020-10-27T19:17:00Z
-    webUrl: "https://www.thedrive.com/tech/37297/teslas-full-self-driving-beta-tech-nearly-wrecked-this-model-3-into-a-parked-car"
+  - title: "Race car drivers had a lot of fun making fun of self-driving race car driving straight into wall"
+    excerpt: "Race car drivers took to social media to point out their job security after video showed a self-driving race car drive itself into a wall."
+    publishedDateTime: 2020-10-30T06:06:00Z
+    webUrl: "https://thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
+    ampWebUrl: "http://amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
+    cdnAmpWebUrl: "https://amp-thecomeback-com.cdn.ampproject.org/c/amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
     type: article
     provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 48
+      name: The Comeback
+      domain: thecomeback.com
+    quality: 46
     images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2020/10/tesla-fsd-moronic-lead.jpg?quality=85"
-        width: 1920
-        height: 1080
+      - url: "https://cdn1.thecomeback.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-29-at-11.58.31-PM-1024x567.png"
+        width: 1024
+        height: 567
         isCached: true
 
 secured: "JVgS1h1y9Wa1c2ShqSZnr2qbL4usEW2PAUxFK0NkS/lpldlH19gr7A4GcxzRDu+6ftD1Bkcgk/s3lNATwh8qeewexKsADz9z3P09EkPjWxO3V+oqIaLGGg6bPMLKkmlNnOCyuDup/d+vITsDcwaVhI1Rhy/LQp8gfEzEwkIbTTg2kwMGYfEANA1RGWRJf48QzNapuG2W+cZsdIthylToEsaqQ33AFE1RUt7l/S5/+9Qzg7kE8c5zDORMhZr3FekyqpDye3qBQtIHOQBIj2EGeYDx/mpPFQGVKb+/Ca5qaaNa+2lD1WkSyDuHxqQJxspeXkRbuU3J0w+89Jdpe+0Q4u52oW8UI9XPw+/qla5FWVsJ6iM4a0xlatzybglllD7OLsPTm0AViN3EKEqM4TABrbQKch5/kTv8uHOVc0A8mrIyps0RJRpdocBmN2I2hcelKJMHCdjg7rONQtEWzkiMVk126TNJADO4zAvAC6vPLugXQmQ1RxgnT/gp2nruuq9tnJ0axyw2zT2ZnR0vIVaQEg==;ubMausXGyhGkMu6X/J3Gmw=="

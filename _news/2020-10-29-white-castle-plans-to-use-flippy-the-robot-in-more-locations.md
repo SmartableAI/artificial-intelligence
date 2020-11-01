@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-pla
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "White Castle will begin testing its automated 'Flippy' cooking robot at 10 more locations"
-    excerpt: "\"Artificial intelligence and automation have been an area White Castle ... Replacing human workers with robots might sound like a good idea on paper, and it might have worked well at one White Castle location, but we wouldn't be surprised if some hurdles ..."
-    publishedDateTime: 2020-10-27T19:11:00Z
-    webUrl: "https://www.techspot.com/news/87314-white-castle-begin-testing-automated-flippy-cooking-robot.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87314-white-castle-begin-testing-automated-flippy-cooking-robot.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87314-white-castle-begin-testing-automated-flippy-cooking-robot.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 80
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-27-image-17.jpg"
-        width: 1680
-        height: 938
-        isCached: true
   - title: "Miso Robotics Says White Castle is Expanding Flippy into More Locations"
     excerpt: "“Artificial intelligence and automation have been an area White Castle ... us on that path – and we couldn’t be more pleased to continue our work with Miso Robotics and pave the way for greater adoption of cutting-edge technology in the fast ..."
     publishedDateTime: 2020-10-28T17:30:00Z

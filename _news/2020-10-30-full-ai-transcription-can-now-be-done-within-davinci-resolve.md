@@ -28,9 +28,9 @@ images:
 
 related:
   - title: "Simon Says to provide its AI transcription tools for Resolve"
-    excerpt: "Transcribe, translate, and edit clips and captions with in sync frame-accurate video and text in DaVinci Resolve"
-    publishedDateTime: 2020-10-30T13:21:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143680"
+    excerpt: "Simon Says, an AI-based transcription, captioning, and translation platform for video professionals, announced its seamless integration with Blackmagic’s DaVinci Resolve for macOS. Users can now find meaningful dialogue, in any language, and receive the ..."
+    publishedDateTime: 2020-10-30T13:09:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/Simon-Says-to-provide-its-AI-transcription-tools-for-Resolve-143680.aspx"
     type: article
     provider:
       name: KMWorld Magazine

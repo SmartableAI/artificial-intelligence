@@ -2,30 +2,26 @@
 category: news
 title: "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD"
 excerpt: "Summit2Sea will leverage AWS Sagemaker, a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly ..."
-publishedDateTime: 2020-10-28T14:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
-webUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
+publishedDateTime: 2020-10-28T14:07:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html"
+webUrl: "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html"
 type: article
-quality: 59
-heat: 69
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg"
-    width: 340
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg?p=facebook"
+    width: 3721
+    height: 1948
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "12HbtJmbVN90XImDvxyLjNfQfhWCOoESOYK853qhZezVymqrkIWl2LYa4iYtQgFyuRpn7VlUVuKuQISf3DbFr7KDRQ9lH4+KnI94414oVknUgcyiHg3wTHMrPDujoUNSherlDv0FiOLTxNccbCD97ldt6HvQPQw91kHJkIE0RCAtG4ekdvFYPByUdWMDUHoP+Y/TpMJ5Gcleplz8BPbDWT+aNKNC2PcRbvOp0G8496yl3eqs1JPrjN+6NoH78AoafFE8l1gKLBt2VcidJv4tnYqEHajSlNR59WwOMNHd0i2bCtW1izb7gJgcJyaMCznqDZmlUeElWlZ4OJ9lP0kuEguy0DLUxNekyybNr2GkABQ=;MXIWM/A8gHaLTl9uLCcSXA=="
+secured: "RCZRS4PQ/eU6fZ8x6Dw8tH00PW2DKPKVuSQzcy8Yy6scD9ulTnsce/qSP0xZjWfL+i1Au2w112TunFqco0yvvgNMwJrZCayTLWmCkdTv3S9hfVV5iUvNlK8gfB8jegN7+hqcfz8JFIvL2Fr4Jd82nJZGk/tNfW2NcUeimT+CVlACuZHEuv2QaaVub/1qtGx26rWekIV4SJwanDz/U4DS8sN/6sNdHlWdpz1K3GRjStDmtbmk1h1ytmVS8AnqJxnf5pXQmumkETkwEIQvDwaXrh4uUZfTkhfT044VWcT8a22eRHWWBT8xV3A2NWTOp9kxY399ts+hKQNynoVntHN37F3yHL4gHJ1v+J9tOhRst74=;cXZvxXSdjV/j7+X911GWSQ=="
 ---
 
