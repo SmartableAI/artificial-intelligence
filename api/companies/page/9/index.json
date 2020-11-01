@@ -4,60 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_companies/people.ai.md",
-      "title": "people.ai",
-      "excerpt": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/people.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/people.ai/",
-      "type": "profile",
-      "name": "people.ai",
-      "overview": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
-      "website": "https://people.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/people.ai",
-        "followers": 5568
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/people-ai"
-      },
-      "twitter": {
-        "username": "ppl_ai",
-        "url": "https://twitter.com/ppl_ai",
-        "followers": 1440
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "people.ai",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_200_200/0?e=1594857600&v=beta&t=xUGGT3HKPtEDdlL-EkldUHNT897W-AcUvmaGaG67E84",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/pinpoint.md",
       "title": "Pinpoint",
       "excerpt": "Pinpoint delivers a new kind of performance intelligence—one that synthesizes the work activity in your delivery tools, and applies data science to unlock faster, smarter engineering.",
@@ -516,7 +462,7 @@
       "twitter": {
         "username": "realtime_i",
         "url": "https://twitter.com/realtime_i",
-        "followers": 810
+        "followers": 811
       },
       "size": "2-10 employees",
       "yearFounded": 2016,
@@ -1119,7 +1065,7 @@
       "twitter": {
         "username": "SoundHoundInc",
         "url": "https://twitter.com/SoundHoundInc",
-        "followers": 499
+        "followers": 500
       },
       "yearFounded": 0,
       "locations": [
@@ -1256,7 +1202,7 @@
       "twitter": {
         "username": "SukiHQ",
         "url": "https://www.twitter.com/SukiHQ",
-        "followers": 1551
+        "followers": 1552
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1462,6 +1408,51 @@
         }
       ],
       "heat": 50,
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/vian.ai.md",
+      "title": "Vianai",
+      "excerpt": "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vian.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/vian.ai/",
+      "type": "profile",
+      "name": "Vianai",
+      "overview": "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI.",
+      "website": "https://www.vian.ai",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/vianai/",
+        "followers": 2550
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/vianai"
+      },
+      "twitter": {
+        "username": "VianaiSystems",
+        "url": "https://twitter.com/VianaiSystems",
+        "followers": 583
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2019,
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1171969525803184128/cFAPYNRR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Vianai",
+          "isCached": true
+        }
+      ],
       "content": "\r\n"
     }
   ],

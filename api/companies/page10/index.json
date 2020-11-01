@@ -4,51 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_companies/vian.ai.md",
-      "title": "Vianai",
-      "excerpt": "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vian.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/vian.ai/",
-      "type": "profile",
-      "name": "Vianai",
-      "overview": "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI.",
-      "website": "https://www.vian.ai",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/vianai/",
-        "followers": 2550
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vianai"
-      },
-      "twitter": {
-        "username": "VianaiSystems",
-        "url": "https://twitter.com/VianaiSystems",
-        "followers": 583
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2019,
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1171969525803184128/cFAPYNRR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Vianai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/vicarious.md",
       "title": "Vicarious",
       "excerpt": "Vicarious is developing artificial general intelligence for robots. By combining insights from generative probabilistic models and systems neuroscience, our architecture trains faster, adapts more readily, and generalizes more broadly than AI approaches commonly used today.",
@@ -393,6 +348,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/actioniq.md",
+      "title": "ActionIQ",
+      "excerpt": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/actioniq/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/actioniq/",
+      "type": "profile",
+      "name": "ActionIQ",
+      "overview": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
+      "website": "https://www.actioniq.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/actioniq"
+      },
+      "twitter": {
+        "username": "ActionIQinc",
+        "url": "https://twitter.com/ActionIQinc",
+        "followers": 1074
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1308162295256809475/DaNzK3jh_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "ActionIQ",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/aera-technology.md",
       "title": "Aera Technology",
       "excerpt": "Aera Technology delivers the Cognitive Operating System™ that enables the Self-Driving Enterprise™. Aera understands how businesses work; makes real-time recommendations; predicts outcomes; and acts autonomously. Using proprietary data crawling, industry models, machine learning and artificial intelligence, Aera is revolutionizing how people relate to data and how organizations function. ",
@@ -412,7 +405,7 @@
       "twitter": {
         "username": "Aera_Technology",
         "url": "https://twitter.com/Aera_Technology",
-        "followers": 2451
+        "followers": 2450
       },
       "size": "201-500 employees",
       "yearFounded": 2017,
@@ -549,7 +542,7 @@
       "twitter": {
         "username": "babylonhealth",
         "url": "https://twitter.com/babylonhealth",
-        "followers": 12390
+        "followers": 12389
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -693,7 +686,7 @@
       "twitter": {
         "username": "clearbit",
         "url": "https://twitter.com/clearbit",
-        "followers": 3817
+        "followers": 3815
       },
       "yearFounded": 0,
       "locations": [
@@ -1066,7 +1059,7 @@
       "twitter": {
         "username": "owkinscience",
         "url": "https://www.twitter.com/owkinscience",
-        "followers": 2126
+        "followers": 2127
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1240,7 +1233,7 @@
       "twitter": {
         "username": "sensetime_ai",
         "url": "https://twitter.com/sensetime_ai",
-        "followers": 1263
+        "followers": 1264
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2018,
@@ -1359,7 +1352,7 @@
       "twitter": {
         "username": "textio",
         "url": "https://twitter.com/textio",
-        "followers": 7760
+        "followers": 7762
       },
       "size": "51-200 employees",
       "yearFounded": 2014,

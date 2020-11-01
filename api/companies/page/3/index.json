@@ -4,102 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_companies/zoox.md",
-      "title": "Zoox",
-      "excerpt": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zoox/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/zoox/",
-      "type": "profile",
-      "name": "Zoox",
-      "overview": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
-      "website": "https://zoox.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/zoox-inc/",
-        "followers": 34477
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zoox"
-      },
-      "twitter": {
-        "username": "zoox",
-        "url": "https://twitter.com/zoox",
-        "followers": 12219
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Foster City, CA",
-        "Foster City, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ],
-      "heat": 82,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1278198998164070400/cPxyXqbm_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Zoox",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEgbqUNpxBKXA/company-logo_200_200/0?e=1594857600&v=beta&t=Qz3F_9WWnSE1yL6RemembLAt5DXfYKEVUdN7elFlHAw",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/tanium.md",
-      "title": "Tanium",
-      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
-      "type": "profile",
-      "name": "Tanium",
-      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "website": "https://www.tanium.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tanium"
-      },
-      "twitter": {
-        "username": "Tanium",
-        "url": "https://twitter.com/Tanium",
-        "followers": 6025
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Emeryville, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Tanium",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/baidu.md",
       "title": "Baidu",
       "excerpt": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
@@ -119,7 +23,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 52837
+        "followers": 52843
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -449,7 +353,7 @@
       "twitter": {
         "username": "StarshipRobots",
         "url": "https://twitter.com/StarshipRobots",
-        "followers": 9540
+        "followers": 9541
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -967,44 +871,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/zscaler.md",
-      "title": "Zscaler",
-      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zscaler/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/zscaler/",
-      "type": "profile",
-      "name": "Zscaler",
-      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
-      "website": "https://www.zscaler.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zscaler"
-      },
-      "twitter": {
-        "username": "zscaler",
-        "url": "https://twitter.com/zscaler",
-        "followers": 8605
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/926547845867454465/yHExar4j_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Zscaler",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/anduril.md",
       "title": "Anduril Industries",
       "excerpt": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
@@ -1024,7 +890,7 @@
       "twitter": {
         "username": "anduriltech",
         "url": "https://twitter.com/anduriltech",
-        "followers": 6541
+        "followers": 6539
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -1189,7 +1055,7 @@
       "twitter": {
         "username": "enlitic",
         "url": "https://twitter.com/enlitic",
-        "followers": 4804
+        "followers": 4803
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1304,7 +1170,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 38239
+        "followers": 38238
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -1992,44 +1858,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/actioniq.md",
-      "title": "ActionIQ",
-      "excerpt": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/actioniq/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/actioniq/",
-      "type": "profile",
-      "name": "ActionIQ",
-      "overview": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
-      "website": "https://www.actioniq.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/actioniq"
-      },
-      "twitter": {
-        "username": "ActionIQinc",
-        "url": "https://twitter.com/ActionIQinc",
-        "followers": 1074
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1308162295256809475/DaNzK3jh_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "ActionIQ",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/bluehexagon.ai.md",
       "title": "Blue Hexagon",
       "excerpt": "Blue Hexagon is a deep learning innovator focused on protecting organizations from cyberthreats. We've built the industry's first real-time deep learning platform for network threat protection. We have a world class team of deep learning and security experts innovating and setting a new standard for cyber defense. We are headquartered in Sunnyvale, CA.",
@@ -2078,6 +1906,209 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQEreDMnmV-z6w/company-logo_200_200/0?e=1594857600&v=beta&t=wEesu17QpHr1GYg57sKuCfRsPlE6KDIRoEw86J4VU5s",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/zscaler.md",
+      "title": "Zscaler",
+      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zscaler/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zscaler/",
+      "type": "profile",
+      "name": "Zscaler",
+      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "website": "https://www.zscaler.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zscaler"
+      },
+      "twitter": {
+        "username": "zscaler",
+        "url": "https://twitter.com/zscaler",
+        "followers": 8604
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/926547845867454465/yHExar4j_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Zscaler",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/affirm.md",
+      "title": "Affirm",
+      "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/affirm/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/affirm/",
+      "type": "profile",
+      "name": "Affirm",
+      "overview": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
+      "website": "https://www.affirm.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/affirm/",
+        "followers": 28762
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/affirm"
+      },
+      "twitter": {
+        "username": "Affirm",
+        "url": "https://twitter.com/Affirm",
+        "followers": 8383
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Ex1KJSLIoKU"
+        }
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1278359063999344640/nk4ooHme_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Affirm",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aidoc.md",
+      "title": "Aidoc",
+      "excerpt": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aidoc/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aidoc/",
+      "type": "profile",
+      "name": "Aidoc",
+      "overview": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
+      "website": "http://aidoc.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/aidoc-inc/",
+        "followers": 57
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aidoc"
+      },
+      "twitter": {
+        "username": "aidocmed",
+        "url": "https://twitter.com/aidocmed",
+        "followers": 1798
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2008,
+      "locations": [
+        "Los Angeles, CA",
+        "Richmond Hill, Ontario"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=r3g_VCI2B4U"
+        }
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aidoc",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/amperity.md",
+      "title": "Kaskada",
+      "excerpt": "Amperity, the leading Customer Data and Identity Platform, helps the world’s most loved brands take control of their customer data. Leveraging machine learning and cloud-scale, Amperity is revolutionizing customer identity resolution and data management, and provides the core customer data foundation for Alaska Airlines, Starbucks, Gap Inc, Moët Hennessy USA, Wynn Las Vegas, Nordstrom, Kendra Scott, Lucky Brand, Sounders, Stanley, and many more.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/amperity/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/amperity/",
+      "type": "profile",
+      "name": "Kaskada",
+      "overview": "Amperity, the leading Customer Data and Identity Platform, helps the world’s most loved brands take control of their customer data. Leveraging machine learning and cloud-scale, Amperity is revolutionizing customer identity resolution and data management, and provides the core customer data foundation for Alaska Airlines, Starbucks, Gap Inc, Moët Hennessy USA, Wynn Las Vegas, Nordstrom, Kendra Scott, Lucky Brand, Sounders, Stanley, and many more.",
+      "website": "https://amperity.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/amperity",
+        "followers": 2981
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/amperity"
+      },
+      "twitter": {
+        "username": "amperity",
+        "url": "https://twitter.com/amperity",
+        "followers": 709
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Seattle, WA",
+        "Seattle, Washington"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1232794861432168449/0yO5mYI1_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Kaskada",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFFbzRWQxMeuQ/company-logo_200_200/0?e=1594857600&v=beta&t=jFeI3EKCzQObwBPn-0g1UHE0snS-325yHw4GEFUELcs",
           "width": 400,
           "height": 400,
           "title": "logo",

@@ -23,7 +23,7 @@
       "twitter": {
         "username": "SentinelOne",
         "url": "https://twitter.com/SentinelOne",
-        "followers": 9806
+        "followers": 9805
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -106,44 +106,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/activecampaign.md",
-      "title": "ActiveCampaign",
-      "excerpt": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/activecampaign/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/activecampaign/",
-      "type": "profile",
-      "name": "ActiveCampaign",
-      "overview": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
-      "website": "https://www.activecampaign.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/activecampaign"
-      },
-      "twitter": {
-        "username": "ActiveCampaign",
-        "url": "https://twitter.com/ActiveCampaign",
-        "followers": 10664
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Chicago, IL"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 106,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1148237111012843521/qZNppe_4_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "ActiveCampaign",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/h2o.ai.md",
       "title": "H2O.ai",
       "excerpt": "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai.",
@@ -218,7 +180,7 @@
       "twitter": {
         "username": "lemonade_inc",
         "url": "https://twitter.com/lemonade_inc",
-        "followers": 20309
+        "followers": 20311
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -271,7 +233,7 @@
       "twitter": {
         "username": "RethinkRobotics",
         "url": "https://twitter.com/RethinkRobotics",
-        "followers": 30405
+        "followers": 30403
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -384,7 +346,7 @@
       "twitter": {
         "username": "graphcoreai",
         "url": "https://twitter.com/graphcoreai",
-        "followers": 6188
+        "followers": 6190
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -484,7 +446,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 25465
+        "followers": 25466
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -540,7 +502,7 @@
       "twitter": {
         "username": "moveworks",
         "url": "https://twitter.com/moveworks",
-        "followers": 2728
+        "followers": 2729
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -755,7 +717,7 @@
       "twitter": {
         "username": "flatironhealth",
         "url": "https://twitter.com/flatironhealth",
-        "followers": 9956
+        "followers": 9957
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -866,7 +828,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 2919
+        "followers": 2920
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -969,7 +931,7 @@
       "twitter": {
         "username": "solvemit",
         "url": "https://www.twitter.com/solvemit",
-        "followers": 14601
+        "followers": 14604
       },
       "yearFounded": 0,
       "locations": [
@@ -1187,7 +1149,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 4271
+        "followers": 4273
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -1514,7 +1476,7 @@
       "twitter": {
         "username": "benevolent_ai",
         "url": "https://twitter.com/benevolent_ai",
-        "followers": 6222
+        "followers": 6224
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1619,7 +1581,7 @@
       "twitter": {
         "username": "qctrlHQ",
         "url": "https://twitter.com/qctrlHQ",
-        "followers": 2360
+        "followers": 2361
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1673,7 +1635,7 @@
       "twitter": {
         "username": "tempuslabs",
         "url": "https://www.twitter.com/tempuslabs",
-        "followers": 3239
+        "followers": 3243
       },
       "size": "501-1,000 employees",
       "yearFounded": 2015,
@@ -1703,6 +1665,64 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHsYEwltlLFzw/company-logo_200_200/0?e=1594857600&v=beta&t=4QibS8tNUJadb3fhRviDqj8MlZMxXO17PKnIg-Fmte8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/zoox.md",
+      "title": "Zoox",
+      "excerpt": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zoox/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zoox/",
+      "type": "profile",
+      "name": "Zoox",
+      "overview": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
+      "website": "https://zoox.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/zoox-inc/",
+        "followers": 34477
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zoox"
+      },
+      "twitter": {
+        "username": "zoox",
+        "url": "https://twitter.com/zoox",
+        "followers": 12217
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Foster City, CA",
+        "Foster City, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ],
+      "heat": 82,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1278198998164070400/cPxyXqbm_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Zoox",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEgbqUNpxBKXA/company-logo_200_200/0?e=1594857600&v=beta&t=Qz3F_9WWnSE1yL6RemembLAt5DXfYKEVUdN7elFlHAw",
           "width": 400,
           "height": 400,
           "title": "logo",

@@ -4,35 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_companies/cinnamon.is.md",
-      "title": "Cinnamon",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/cinnamon.is/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/cinnamon.is/",
-      "type": "profile",
-      "name": "Cinnamon",
-      "overview": "",
-      "website": "http://cinnamon.is",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cinnamon"
-      },
-      "yearFounded": 0,
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=fKCQE1Gx0y8"
-        }
-      ],
-      "heat": 50,
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/clarifai.md",
       "title": "Clarifai",
       "excerpt": "Clarifai is headquartered in New York City and was founded in 2013 by Matthew Zeiler to bring the world’s best image recognition technology to market. Our first image recognition systems held the top 5 spots for classifying objects in images in the ImageNet 2013 competition. Since then Clarifai’s deep learning systems have improved orders of magnitude in speed, vocabulary size, memory footprint and have expanded beyond images to extract knowledge from all forms of data.",
@@ -746,7 +717,7 @@
       "twitter": {
         "username": "driveai_",
         "url": "https://twitter.com/driveai_",
-        "followers": 9078
+        "followers": 9075
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1005,7 +976,7 @@
       "twitter": {
         "username": "fetchrobotics",
         "url": "https://twitter.com/fetchrobotics",
-        "followers": 6813
+        "followers": 6811
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1062,7 +1033,7 @@
       "twitter": {
         "username": "fraugster",
         "url": "https://twitter.com/fraugster",
-        "followers": 765
+        "followers": 764
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1475,6 +1446,52 @@
         "Europe",
         "FinTech",
         "Blockchain"
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/iris.ai.md",
+      "title": "Iris.ai",
+      "excerpt": "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/iris.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/iris.ai/",
+      "type": "profile",
+      "name": "Iris.ai",
+      "overview": "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG",
+      "website": "https://iris.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/iris-ai"
+      },
+      "twitter": {
+        "username": "theirisai",
+        "url": "https://twitter.com/theirisai",
+        "followers": 2882
+      },
+      "yearFounded": 0,
+      "locations": [
+        "London, England"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=rgmchbwHKHE"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/695689454300872704/Kc3D5Y6I_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Iris.ai",
+          "isCached": true
+        }
       ],
       "content": "\r\n"
     }

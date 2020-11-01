@@ -4,176 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_companies/anki.md",
-      "title": "Anki",
-      "excerpt": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anki/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/anki/",
-      "type": "profile",
-      "name": "Anki",
-      "overview": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
-      "website": "https://www.anki.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/anki/",
-        "followers": 8465
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/anki"
-      },
-      "twitter": {
-        "username": "anki",
-        "url": "https://twitter.com/anki",
-        "followers": 26888
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ABFcdwfU3F0"
-        }
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1287810463980556288/gEbM3DSA_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Anki",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/armorblox.md",
-      "title": "Deep 6 AI",
-      "excerpt": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/armorblox/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/armorblox/",
-      "type": "profile",
-      "name": "Deep 6 AI",
-      "overview": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "website": "https://www.armorblox.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-6-ai/",
-        "followers": 2942
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/armorblox"
-      },
-      "twitter": {
-        "username": "armorblox",
-        "url": "https://twitter.com/armorblox",
-        "followers": 271
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Cupertino, CA",
-        "Pasadena, CA",
-        "Pasadena, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1098146632820973568/HZsk3Drw_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Deep 6 AI",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/care.ai.md",
-      "title": "care.ai",
-      "excerpt": "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/care.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/care.ai/",
-      "type": "profile",
-      "name": "care.ai",
-      "overview": "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered.",
-      "website": "https://care.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/careai/",
-        "followers": 183
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/care-ai"
-      },
-      "twitter": {
-        "username": "caredotai",
-        "url": "https://twitter.com/caredotai",
-        "followers": 399
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2019,
-      "locations": [
-        "Orlando, FL",
-        "Orlando, Florida"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=DWTje5pDap0"
-        }
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1166114647180812288/iWPPi_wm_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "care.ai",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQE2U7Qc6g0wKQ/company-logo_200_200/0?e=1594857600&v=beta&t=vIG3AvYSZPdUVZRvDUoOvS7renFb2xtAFGLOg-zbWwA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/casetext.md",
       "title": "Casetext",
       "excerpt": "Casetext, the most widely used A.I. legal research technology, has been adopted across the legal market from the largest Am Law100 law firms to solo practices. Its award-winning technology offers both conventional search functionality and its CARA A.I. powered contextual search, focuses on the context of your research to help you find on-point authorities faster. Founded by a team of former litigators from top law firms, as well as Ph.D. data scientists and leading A.I. engineers, Casetext helps legal researchers find the best cases, faster, including many that they would otherwise miss. For more information, visit www.casetext.com or contact our team at contact@casetext.com.",
@@ -348,7 +178,7 @@
       "twitter": {
         "username": "Cortica",
         "url": "https://twitter.com/Cortica",
-        "followers": 469
+        "followers": 468
       },
       "size": "51-200 employees",
       "yearFounded": 2007,
@@ -403,7 +233,7 @@
       "twitter": {
         "username": "deeplens_ai",
         "url": "https://twitter.com/deeplens_ai",
-        "followers": 503
+        "followers": 504
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -623,7 +453,7 @@
       "twitter": {
         "username": "fundbox",
         "url": "https://twitter.com/fundbox",
-        "followers": 7766
+        "followers": 7767
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1119,7 +949,7 @@
       "twitter": {
         "username": "nurobots",
         "url": "https://www.twitter.com/nurobots",
-        "followers": 2686
+        "followers": 2685
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -1226,7 +1056,7 @@
       "twitter": {
         "username": "persado",
         "url": "https://www.twitter.com/persado",
-        "followers": 5484
+        "followers": 5485
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -1597,6 +1427,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/tanium.md",
+      "title": "Tanium",
+      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
+      "type": "profile",
+      "name": "Tanium",
+      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "website": "https://www.tanium.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tanium"
+      },
+      "twitter": {
+        "username": "Tanium",
+        "url": "https://twitter.com/Tanium",
+        "followers": 6026
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Emeryville, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tanium",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/trueface.ai.md",
       "title": "Trueface.ai",
       "excerpt": "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns.",
@@ -1647,6 +1515,97 @@
           "width": 400,
           "height": 400,
           "title": "Trueface.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/uptake.md",
+      "title": "Uptake Technologies",
+      "excerpt": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uptake/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/uptake/",
+      "type": "profile",
+      "name": "Uptake Technologies",
+      "overview": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
+      "website": "https://www.uptake.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/uptake-3"
+      },
+      "twitter": {
+        "username": "uptake",
+        "url": "https://twitter.com/uptake",
+        "followers": 5305
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Chicago, IL"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/938090041146036225/nHB1EQ6B_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Uptake Technologies",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/wasterobotic.md",
+      "title": "Waste Robotics",
+      "excerpt": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/wasterobotic/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/wasterobotic/",
+      "type": "profile",
+      "name": "Waste Robotics",
+      "overview": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
+      "website": "https://wasterobotic.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/wasterobotics/",
+        "followers": 287
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/waste-robotics"
+      },
+      "twitter": {
+        "username": "dirtyjobrobot",
+        "url": "https://twitter.com/dirtyjobrobot",
+        "followers": 306
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Québec, Québec"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=QbKA9uNgzYQ"
+        }
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/793405645873479682/RvYzd1Xi_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Waste Robotics",
           "isCached": true
         }
       ],
