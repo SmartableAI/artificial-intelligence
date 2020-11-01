@@ -3,8 +3,8 @@ category: news
 title: "AI in Fintech Market May Set New Growth Story | Microsoft, Google, Salesforce.com"
 excerpt: "Oct 19, 2020<p>Latest Research Study on  Market published by AMA, offers a detailed overview of the factors influencing the global business scope. Global AI in Fintech Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
 publishedDateTime: 2020-10-20T11:30:00Z
-originalUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom"
-webUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom"
+originalUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom?src=Rss"
+webUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom?src=Rss"
 type: article
 
 provider:
@@ -17,11 +17,11 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-    width: 300
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?620664"
+    width: 375
     height: 250
     isCached: true
 
-secured: "Q1BTiWtH1PNgxHIvVmQvR7s/f1P/pmfVRvW95pevd8Gzgf1KRuuVgx6PVQTC7N/BQExwXZBIkhwDCMtWyJzr8LTf3voCYiaETG3cNWHNgS8zh1qAWol/wJruS1AP8sLU9juEBNrmF/CL/26L5dv2PnMHO+Wf3goU8t8PsORZeXYYNX6YkNP7R+ErSP2bfX+NFguSTFtRgiZQ8Iea1mXETDKXOZXFiJzgOyXWFgnUCW5h4AMn39NT/6M5380jPUVuOy1LnHrRtqlSJoi3Satz0KX8+/qBqB2gYFzil9XIjZ4C9lEPiwOgCR0/wPnTN5tK4Vq9BFpo3sfrrEvZMvwGLk7tZCj1hUGww3JPdpl+9uw=;iY4UhsKeMXw4KNWgjqfZkQ=="
+secured: "0gsi2xPEbTLYzE/LU03syzBL0s+asAk4vIibLqHJcs4Wqod6pHdeq6ISIdCoi4EPo8fWZ8+Zii/tzV+w9cJceARHtASzBOCkQ5QsGoyvmEuJKPYIxVvC9ikMW5DLFGkb4V2hxoLCm5w2wiPsH5N8o3B9935g4WgH71b7MNAKw5SzNFRjrbRG+GmIf+glRk5w+UIbqiTXsROh5SEUmvuku5czP/jcgzIAxdjdTcOd0DdYc02wcR+mwwT//krNBvBilLmRBnXppKRkJmVA+elRoRJ4ggypSQQ7K2eRTxxAUnfzhH+RNq/I0DAYTkuXoUJfdH4EN/Ojjbsx723VaBKHTWEtAJ6Zou5ulTvwMb/EmTg=;0ZmJKDWzJkxUa8mfu5/qKw=="
 ---
 

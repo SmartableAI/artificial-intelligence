@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/57-machinelearn.jpg"
         width: 952
         height: 1231
-        isCached: true
-  - title: "Deep learning models help hunt for COVID-19 drugs"
-    excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
-    publishedDateTime: 2020-10-28T23:45:00Z
-    webUrl: "https://www.news-medical.net/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fPandemic-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
 
 secured: "Oq5ITqk3aRYFv5XWwdWxPIH0QeD1vYbPu10PSwsL9Qu7JzoWOSr/hj1ibKhNK67T0VMOgc4Rh+tgijdStmPdw1EHmGWrNaaoz0KW92DsDxH+Te01p6z6u7nqgOnGqUd/JqEC6+i8xpnCfYyBWjNe/tCe6wCh8uWgzFIjMeLP+2K56YboYDufnf4ZgEpanBZm3d6kWlRvF6TC+h3a1xEUdtz5EJGMUYvCDCF9ePbIzU22xbA8xx634mWBFUg7XlJR/+txuA4J73Qju1jO7U+mD+TdQl4RGEjtPjKoUAc567ByFw0aEAlvbzj/YKdCgNGvj/iymaMQi7jozGCrN2w+ZmQl7DKG27lvVR4M+BSvB5qO9JM35f0XrXokJ1YOu/HpmVNCurHAlXOcJHkYK7fwWqfc+ckItnl9+vJh70KdSHI0YoUHRg7kXTUl1OHFotgx4Q4+ZMQ21Z4kf7Uj8vtTYWUseyfEIw7Bice1olOFAUeVSBLcvP1T6/QrWPOp7TgB7IcI7bvirhlbBwQo3NlysQ==;7J40sIIQG2Ez/DKN+Jpy3Q=="

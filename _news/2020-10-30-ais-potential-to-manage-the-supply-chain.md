@@ -3,11 +3,11 @@ category: news
 title: "AI's Potential to Manage the Supply Chain"
 excerpt: "Perhaps AI's most notable potential, however, is its role in the supply chain industry. AI has changed the supply chain process from reactive to proactive, which creates a larger change in how data-driven processes will operate in the future."
 publishedDateTime: 2020-10-30T11:00:00Z
-originalUrl: "https://www.technewsworld.com/story/86903.html?__hstc=95181763.e7a751b17a67c8ce9742ce1936309d6e.1604224873499.1604224873499.1604224873499.1&__hssc=95181763.1.1604224873502&__hsfp=2357084245"
-webUrl: "https://www.technewsworld.com/story/86903.html?__hstc=95181763.e7a751b17a67c8ce9742ce1936309d6e.1604224873499.1604224873499.1604224873499.1&__hssc=95181763.1.1604224873502&__hsfp=2357084245"
+originalUrl: "https://www.technewsworld.com/story/AIs-Potential-to-Manage-the-Supply-Chain-86903.html"
+webUrl: "https://www.technewsworld.com/story/AIs-Potential-to-Manage-the-Supply-Chain-86903.html"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: -1
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: technewsworld.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -36,18 +35,7 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
-  - title: "Global Artificial Intelligence (AI) In Supply Chain Market Size 2020 Top Manufacturers, Share, Opportunities and Forecast to 2026"
-    excerpt: "The Zion Market Research added a new report “Artificial Intelligence (AI) In Supply Chain Market: By Technology (Machine Learning, Computer Vision, Natural Language Processing, and Others), By Application (Supply Chain Planning, Warehouse Management ..."
-    publishedDateTime: 2020-10-30T10:18:00Z
-    webUrl: "https://www.openpr.com/news/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
 
-secured: "/PgLPE1Y3iXzCOH0sDWYmTcrqUUCvFQpNm9M1G4JhgO2NMj2ff99AeWHKj/KQ+PXnB8HyR+rz5Ha1mB+bOKimJNNWMqzyrvb99DJgA5URqDfjM+XpGiFmHZinCfHy5NZDbZ02aPRbR/gE3pp9ce5MxGi1pnP/dcCVDgX5JQ6y2n+GJZdSbUp5eYfWWXU0+WI0OSdddaACRZxsvBEr/s1vR629fmubzPdnlqBBOOoVvYzBgHLUKdWPvRStv1KwEHsLbftdIp2EPID9xzadrThQE6e36+wq5SL57EIRriZMKxWhQ1CkOJGp0Kzt15Sk/JAq8yim2CZo3bqh/+DCt3MlgVlAwvNR9C/d1waGCWh9UU=;0o3iePONhef6vcN2lK0Y5A=="
+secured: "3QzulU3RX9SUJG1pMEiJDy4BhdsPhx9KgM7oCUNe/xNUbtnKHFEYWVeIslhIW8wXNBINqoS9ghn/Uw+r6WheRLFJUJdIh2WJfSGMxUa/IU65sJdXyEjIKQs+yoLhZOOdhEUKl3F2pacNBYgagapYYRgdUeLcZvAB9MKiA+lAWenfVdmiEbQY9ZuRCDqnxKDvU/sHX3xCkTNCxWVHL6N2aCrF87yJdXEV5TvKW/DRm7uES8zdyiRYagTbV/JdOdR85DfIslc4ktTgrV8UuCa8r7F3cBglEX7nVf8+sZ8CmzLM9MZ20zAkexuplstDfkB4QenpVC0UGJuZmYpY63+vdgQgIGRmhkHMSMZbNRrR2+g=;2CDjMkl9kKfHJAoEsgReMQ=="
 ---
 

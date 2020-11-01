@@ -47,6 +47,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "This self-driving racing car could have done with a driver"
+    excerpt: "Roborace is described as “the world’s first autonomous competition for human and A.I. teams, using self-driving technology in immersive environments.” Competitors use the same electric drivetrains and chassis, with each team tasked with designing and ..."
+    publishedDateTime: 2020-10-30T05:40:00Z
+    webUrl: "https://www.digitaltrends.com/cars/watch-this-self-driving-racing-car-slam-straight-into-a-wall/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/watch-this-self-driving-racing-car-slam-straight-into-a-wall/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-this-self-driving-racing-car-slam-straight-into-a-wall/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/roborace-accident-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Daimler and Waymo partner on self-driving trucks"
     excerpt: "Benz and one of the biggest truck manufacturers in the world, on Tuesday announced a partnership with Alphabet Inc.-owned self-driving technology startup Waymo. The partnership will see Daimler integrate Waymo's self-driving system,"
     publishedDateTime: 2020-10-28T13:00:00Z

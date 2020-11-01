@@ -1,28 +1,22 @@
 ---
 category: news
 title: "4 AI Stocks That Will Surge in 2021 as Artificial Intelligence Takes Hold"
-excerpt: "With artificial intelligence poised to take off as a critical tech component, here are four leading AI stocks that are likely to surge in 2021 and beyond as the future is built around us."
-publishedDateTime: 2020-10-19T10:37:00Z
-originalUrl: "https://investorplace.com/2020/10/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021/"
-webUrl: "https://investorplace.com/2020/10/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021/"
-ampWebUrl: "https://investorplace.com/2020/10/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/4-ai-stocks-ibm-nvda-googl-tcehy-that-will-surge-in-2021/amp/"
+excerpt: "Artificial intelligence (AI) is creeping into our everyday lives, often without us realizing it. Today, AI can be found in the digital assistants we use such as Apple’s (NASDAQ: AAPL) Siri and Amazon’s (NASDAQ: AMZN) Alexa to check our schedules and search for things on the internet;"
+publishedDateTime: 2020-10-19T10:31:00Z
+originalUrl: "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19"
+webUrl: "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19"
+ampWebUrl: "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19?amp"
 type: article
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "dmtbhOOESZWlYb8dsh8mz/rvkvZMBQCuZxmTi7ClTVD1abBZCMUh4yakoQQA/F3Sef1GMgBo9lRgJ80ETF+VPkDW3e0WGrGANDiCUG03fwdc5Pa/YlPGWa2Y0Fv3anxRFRcYW7AoAW9BUmb5RqZGBm/pwmPL99Deby0AgvawxLqVAwrtz6fCZ84eKx4TfHhWDJnuu0UIv+LtRRIaZibJuUqLiPL8QOMw6Gxi62dp1nTumc+62+ifKRiNy36ApPPdpgsg49qrVWQUJW/RIRigVBmR9g2nVdFxcfT4GNkx9qn5+zk6N31i/BVh9h0mCEaFhgCZ4GjHCIXrjZjLtlBiBq0u2cYuTmtzZ40w0xnAZUA=;B2PFFSJK5MpWTc3JM8z2SQ=="
+secured: "zK1wBqWuDCgF0KZz/3ALJ/dWd+0FIob4Zy+suuW/+8IC/QPcS0UHTPBqfuIVdmdVhrX+2dal/k1Fhsgq+fSXiWmpQ/YhT/LejXl6r6UhUZRdaZrUA+MwN2k1jiG94PblPoYvMB29XGO6GB4V5dfCyPNLgjix7bqFXp3NwB7RzKM0RCulB6l2A7SG5sbPaTnMb9mtQAlakagZ/UlSl1Ff7RARTvGHTP2FfybqT34VWk/qZZ9WKERtHJiGY+junVMg0srzSGjQkkgP+rETBRZ1ciRsrAAJbdvUpuEG9bDU0oNHGcYvGppSXlrdVuv/o09N45GhY7GP7txSrVIdLBIx1eGKa0g8KG3EmcBjezFZCLs=;t7fQqlzVtYqprKffhl7XEQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activ
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/0rCtvcMvE9CVhAYv64lC5YBQ4yw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67713914/vpavic_181128_3122_0115.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "This self-driving racing car could have done with a driver"
+    excerpt: "Roborace is described as “the world’s first autonomous competition for human and A.I. teams, using self-driving technology in immersive environments.” Competitors use the same electric drivetrains and chassis, with each team tasked with designing and ..."
+    publishedDateTime: 2020-10-30T05:40:00Z
+    webUrl: "https://www.digitaltrends.com/cars/watch-this-self-driving-racing-car-slam-straight-into-a-wall/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/watch-this-self-driving-racing-car-slam-straight-into-a-wall/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-this-self-driving-racing-car-slam-straight-into-a-wall/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/roborace-accident-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Daimler and Waymo partner on self-driving trucks"
     excerpt: "Benz and one of the biggest truck manufacturers in the world, on Tuesday announced a partnership with Alphabet Inc.-owned self-driving technology startup Waymo. The partnership will see Daimler integrate Waymo's self-driving system,"

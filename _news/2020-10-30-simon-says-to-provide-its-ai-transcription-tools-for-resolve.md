@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Simon Says to provide its AI transcription tools for Resolve"
-excerpt: "Simon Says, an AI-based transcription, captioning, and translation platform for video professionals, announced its seamless integration with Blackmagic’s DaVinci Resolve for macOS. Users can now find meaningful dialogue, in any language, and receive the ..."
-publishedDateTime: 2020-10-30T13:09:00Z
-originalUrl: "https://www.kmworld.com/Articles/News/News/Simon-Says-to-provide-its-AI-transcription-tools-for-Resolve-143680.aspx"
-webUrl: "https://www.kmworld.com/Articles/News/News/Simon-Says-to-provide-its-AI-transcription-tools-for-Resolve-143680.aspx"
+excerpt: "Transcribe, translate, and edit clips and captions with in sync frame-accurate video and text in DaVinci Resolve"
+publishedDateTime: 2020-10-30T13:21:00Z
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143680"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143680"
 type: article
 quality: 39
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 787
         isCached: true
 
-secured: "Qh/4DTgEpEUzVR/4iJ0H0d/qLj5R4x8ZIVH/cD8ijyhRR+vnib7Ywdl9DquCG6rGRXRCbRpr5jRdmWalVYvux7Jebit0lqACC9lExVCcFdNOtdZhNDiYo510HluDhxqxP5vHQUsNcG1e/jgRoUVZq+l+FsMviIjAFkgpRjvuSAyGlhl5KEBZ60R0BOyOp7UJW4Cznw0zx5dsiUz3bqERD/pgpVKiF/XWpQZ6bT4Sec+wraCiwLz1OBtV42aZrArYbzoMxDL+poMS4kG7GDNq1L1Ik0IcQ/hsIYWhlrkrtxfCPuERlRDdoHEn6nz44WfZY2W7yF2VC1NFPRzYulto1+AVUZtNygyh+p1xeUGRgnU=;xkpX10+IeLkQbXPz52RG9g=="
+secured: "hWMCFOiqLX60U8yrXSWuKDY4HNHHGG8PvhAfhBnfGq3sPtdsgpyIEWW8bBgktxA9OFPEHF+LTfQOeTvEpmyUN20RxOrTXp0bHe0j2B2IAQzHuHFyKXf+XB6Nev3kbqujaWqZKoKZ9vBGC7yCcIvoG/wa/4UjRsMTSoCJY+4GsdOQ+sKNq40XR77+GHyjx2GQg5UdbyAUC6MuwgkSY/hdgmW5Czn2jHUv7KCBEHHWqPe2eIgG1YFMy09JP7pglm0l6cBpeRmka0tJO4mu+so+a7HYemGDkBdGzg1Zapt4jD9/Ty5Hpe2bM+1C6XPT2sZq5qVfHlPZAeePC9j9zn/DnREPjmh1UsqcnfO7qmRX/7Q=;UW+9hQBLLmQlHk/TcgKnHg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azur
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
 type: article
 quality: 99
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -28,20 +28,6 @@ related:
   - title: "Microsoft Azure to build a first cloud data center region in Taiwan"
     excerpt: "Its existing Taiwan Azure hardware systems and infrastructure ... in cloud software and hardware infrastructure for AI, IoT and edge products. Meanwhile, Microsoft’s training initiative in ..."
     publishedDateTime: 2020-10-28T00:46:00Z
-    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 69
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft Azure to build its first cloud data center region in Taiwan"
-    excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
-    publishedDateTime: 2020-10-27T20:43:00Z
     webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
     type: article
     provider:

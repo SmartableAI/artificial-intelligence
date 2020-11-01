@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "AI revolution: The jobs to be replaced by Artificial Intelligence in next decade REVEALED"
-    excerpt: "ARTIFICIAL INTELLIGENCE (AI) is about to revolutionise the world's workforce in the coming years, a landmark new survey has revealed."
-    publishedDateTime: 2020-10-27T20:12:00Z
-    webUrl: "https://www.express.co.uk/news/science/1352962/ai-revolution-jobs-to-be-replaced-artificial-intelligence-next-decade-2030-evg"
-    ampWebUrl: "https://www.express.co.uk/news/science/1352962/ai-revolution-jobs-to-be-replaced-artificial-intelligence-next-decade-2030-evg/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1352962/ai-revolution-jobs-to-be-replaced-artificial-intelligence-next-decade-2030-evg/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 65
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-revolution-jobs-to-be-replaced-artificial-intelligence-next-decade-2030-1352962.jpg?r=1603831715006"
-        width: 590
-        height: 350
-        isCached: true
   - title: "Artificial Intelligence Technology Solutions Renews Largest Dealer Agreement"
     excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is pleased to announce that its wholly-owned subsidiary ..."
     publishedDateTime: 2020-10-29T14:41:00Z
@@ -82,6 +66,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "How the Army plans to revolutionize tanks with artificial intelligence"
+    excerpt: "With the Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
+    publishedDateTime: 2020-10-30T17:42:00Z
+    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 39
+    images:
+      - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mercedes targets evolution rather than revolution in self-driving car push – Jaweb"
     excerpt: "As Tesla touts the cutting-edge nature of its new Full Self Driving software, rival Mercedes-Benz says it has developed a similar system but stops short of allowing members of the public to take it on urban roads."
     publishedDateTime: 2020-10-28T09:16:00Z
@@ -97,6 +95,20 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/10/Mercedes-targets-evolution-rather-than-revolution-in-self-driving-car-push.jpg"
         width: 1200
         height: 673
+        isCached: true
+  - title: "How the Army plans to revolutionize tanks with artificial intelligence"
+    excerpt: "Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
+    publishedDateTime: 2020-10-29T20:35:00Z
+    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 37
+    images:
+      - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "AGkIJNfoUyUrpAQVXqhIBg3+2Wgz56pRR3RT6AStMoW4k81HwWCJvPpW/RGoZkpghDrnK8gGyGLjKwBElKpS7Ff3SObzvMLen3Sw7DcN4Zi/dqBw68Dt2tzv2vTW8Fp1XIluOX13Oe3sqBAyf4epBx3AiLBxqCDk88xLmr8FWy/jhkBwDcZnIUwzqTa8Txhb9k/HfiQaBsVkkzv41vPH6nHX7l3Vv4QcV37sbt3l4zIQOh65Js2u9vJivoe3p07LO2KOtM9K5guvTsb7yRkC9FMMnXqclIr+iIjj01Ze2YfS15I7kzdnU3V7j2Sz3Lq4aAsq9OMNLVhrR2555o688g714qq6E7w5KEiXTciMnE3YZWu5Iwi0fUELOhxuBhQcGYvyNmsxc+jiOwhUqcABa8mkB6QDZSn53SXVght5DXgWRdEgNyVDLOENIdUMJHRzb+pTepBmRzh6sCEbjX4CmbW6AynMuKvp2luckEygiKOWT5S/ng/M/hC3Lvfz33cQzR6+2uLKr25oT0YbbsgInQ==;nMxsJVR0+wa5YlpZvClsCg=="

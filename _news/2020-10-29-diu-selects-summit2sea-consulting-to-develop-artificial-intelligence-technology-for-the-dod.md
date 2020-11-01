@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD"
-    excerpt: "Summit2Sea will leverage AWS Sagemaker, a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly ..."
-    publishedDateTime: 2020-10-28T14:07:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html"
+    excerpt: "Summit2Sea Consulting, has been selected by the Department of Defense (DoD) to prototype the Humanless Unmatched Transaction (HUnT) solution for the DoD. \"The solution builds data pipelines to financial transactions to train a Machine Learning model that directs corrective actions to robot workers,"
+    publishedDateTime: 2020-10-28T14:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg?p=facebook"
-        width: 3721
-        height: 1948
+      - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg"
+        width: 340
+        height: 400
         isCached: true
 
 secured: "xrIrvfTLHmWbrXWtEl4dpdfi4/BScE9qXK5ijxFP3G9KOdKQ2Nz73DLlVLxTe4reFn5YlJSkrjFHtl6FveiSUqV/OLTCttQb4odjg32E9ZW6xFrlopd13KHPPECld11AALKSm/GQp4kgNhj4OZFpycTeT2mJByxnABYlyrfkNP5d9P230HfxekqwW3gCwLbmcRAl1rMF0tSjA/d+Tln6vkoPxkhDYyvEqTszE93XIrIR0YEkBXiFarUdXNcwZqRFiPoFiCjoBvJ+oqN0JwF7IiJ5PPEZKo1ebbLATkZsjZnJLk8xlsYhUYPd1ipVEaXxdugwi23GPaSwTkQ54FdIzQx4oWQn6eOfMQXtelRZ8O3LPCBguXsRfWw9cI7feOlg9Tm38SqA1NJpY4P3ZMnppLPqqhIaaQxOSLDg24iFQVAAAPcxsp1ELByDxx67P82UAXphmEEJRMxQrpR6qVUvBQplCZEv+zrLtFB19hjQpwO3eqUUAKYT7LlnVxOZBs/KmT7rpgs3k3gfYqbJ7sVDyA==;pNqL59AkcnqUSKj/NJ19SQ=="

@@ -43,6 +43,22 @@ related:
         width: 900
         height: 485
         isCached: true
+  - title: "Artificial intelligence and covid-19: Can the machines save us?"
+    excerpt: "The Stanford-trained data scientist did not have a particular hypothesis, but he was hoping the artificial intelligence would pinpoint ... existing racial gaps and other disparities in health care. One of the biggest challenges has been that much data ..."
+    publishedDateTime: 2020-11-01T14:02:00Z
+    webUrl: "https://www.washingtonpost.com/health/covid-19-artificial-intelligence/2020/10/30/7486db84-1485-11eb-bc10-40b25382f1be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/covid-19-artificial-intelligence/2020/10/30/7486db84-1485-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/covid-19-artificial-intelligence/2020/10/30/7486db84-1485-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "RBFB+J+pzzL04VVsUEbi+DLBo7b2UaVmZEgYHS2VcaS0zvhzQKAV8BECIpqD4HjVkcJm+5H7czI8gz5eNPfKJWkgrDfwhgDz+fJhxTHfWjA3jqUJXtNIO3ruonl31088/bTSfZKxmpAWnzrQMip/dPB9Od7mbtO699LNKQxZUIIZplG0PAoFszopR4BZeFI4C/vB3P+H6z8BHrbnUdUZjKu1S7uGS+jAfMdL1HZlXXgh2HMUrGhAPv/KxWbfj1UHyKuwoN3UEFNEgKa+tLBLRSkdhiSPATZqGT9Em1sAb7Idh9KxRaAsCa09iBeH8e+xO5k1kdqHGsoemnNmuINZJ8ZoQvPp6snubswQ0lM71X8=;WZUEOTHBG7q0GCbNGl/NAQ=="
 ---

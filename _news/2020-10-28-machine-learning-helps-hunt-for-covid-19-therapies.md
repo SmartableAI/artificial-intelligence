@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Deep learning models help hunt for COVID-19 drugs"
-    excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
-    publishedDateTime: 2020-10-28T23:45:00Z
-    webUrl: "https://www.news-medical.net/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fPandemic-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "GE/Virn3ZjicFZP/i5nQrgXACMwO+sYgIoktdb2l+YGXYyjafjSLOalYtI7NwaOQXRaXRQ7TH6nE1V93MDXF3u15PG783jF7x1OfbQZgCNfGkWyhD6knIO3QDEj2PKkY9M1Tp/UyCrhh2gbrQhW8LKkTohQaYEXVsxagVP82JXN9eY/rLEr2lYrFWIfiaKrxkvLQkk49X98WIb1ktksK5rsXuUbiIKLcQNRzpNKKH9AVHr6HB3A6AT7XBUS0dExKZMKIReob8DVa600XU9lMQ1l+Fcmbjb3LQIxfv3WInAlv+8N01MqtA7JhgFmy2KC7Evhd27Slmpm+yZ+sc+J/yVA2kINB+RDTCuj/DV+eidicjaImR1ktocqkRpGC2sxtMKYqbN49uzA3Vikxb3/24louPwqwSDAwYj2Xj6RGgTC5bIhsT7FNHUJgsegj9SNc0gmgDVlvtKfqbG9lMSd72O5Dbd/xMdb/697T3luk25FT8chJZyhRDxIca00VieYjrWQLwO+dDZzl+qJcJA3B+Q==;pN+o6JEHiLejz2rkHWaT0Q=="
 ---

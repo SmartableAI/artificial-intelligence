@@ -31,114 +31,91 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla should sell its self-driving computer chips, says comma.ai’s George Hotz"
-    excerpt: "George Hotz, CEO of comma.ai, argues that Tesla should sell its self-driving computer chip and create some competition to Nvidia in the process. Hotz rose to fame through his hacking feats as a ..."
-    publishedDateTime: 2020-10-27T21:49:00Z
-    webUrl: "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/"
-    ampWebUrl: "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/"
+  - title: "Waymo shares in-depth details of self-driving car activity in Phoenix"
+    excerpt: "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology."
+    publishedDateTime: 2020-10-31T16:36:00Z
+    webUrl: "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
+    ampWebUrl: "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 117
+      name: Engadget
+      domain: engadget.com
+    quality: 104
     images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?quality=82&strip=all"
-        width: 1587
-        height: 706
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Feda031a0-1b7e-11eb-aeff-c6d8e3737344&client=amp-blogside-v2&signature=64755fdb1c313a1eb2bd21d17cef2c2065e20715"
+        width: 600
+        height: 350
         isCached: true
-  - title: "Tesla's 'Full Self-Driving' is now a lot pricier"
-    excerpt: "Elon Musk wasn't kidding. Tesla's Full Self-Driving (FSD) set of features has become more expensive, increasing from $8,000 to $10,000. Musk has long held the view that FSD will become far more ..."
-    publishedDateTime: 2020-10-30T15:34:00Z
-    webUrl: "https://mashable.com/article/tesla-fsd-10000/"
-    ampWebUrl: "https://mashable.com/article/tesla-fsd-10000.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-10000.amp"
+  - title: "Waymo pulls back the curtain on 6.1 million miles of self-driving car data in Phoenix"
+    excerpt: "Over 21 months in Arizona, Waymo’s vehicles were involved in 47 collisions and near-misses, none of which resulted in injuries In its first report on its autonomous vehicle operations in Phoenix, Arizona,"
+    publishedDateTime: 2020-10-30T14:06:00Z
+    webUrl: "https://www.theverge.com/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
+      name: The Verge
+      domain: theverge.com
+    quality: 97
     images:
-      - url: "https://mondrian.mashable.com/2020%252F10%252F30%252Fbe%252F50e6cde1da7646e095c807f054da230e.9c26b.jpg%252F1200x630.jpg?signature=B1josSNIuhq320I9HGHojg22qJc="
-        width: 1200
-        height: 630
+      - url: "https://cdn.vox-cdn.com/thumbor/0rCtvcMvE9CVhAYv64lC5YBQ4yw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67713914/vpavic_181128_3122_0115.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "Watch Tesla Full Self-Driving Beta’s performance from the sky with scary near-miss"
-    excerpt: "Today, we take a look at an interesting new video showing Tesla Full Self-Driving Beta’s performance from the sky in a new drone video with a scary near-miss. As we reported last week, Tesla has started pushing the first version of its “Full Self-Driving” feature that autonomously navigates on both city streets and highways."
-    publishedDateTime: 2020-10-30T16:18:00Z
-    webUrl: "https://electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/"
-    ampWebUrl: "https://electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-test-drone.jpg?quality=82&strip=all"
-        width: 3480
-        height: 1494
-        isCached: true
-  - title: "Tesla pushes new Full Self-Driving Beta update, Elon Musk says could slash interventions by a third"
-    excerpt: "Tesla has started pushing a new software update under its Full Self-Driving Beta program and CEO Elon Musk says it could already cut driver interventions by a third. It has been less than two ..."
-    publishedDateTime: 2020-10-31T16:56:00Z
-    webUrl: "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/"
-    ampWebUrl: "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 75
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all"
-        width: 2774
-        height: 1122
-        isCached: true
-  - title: "Watch The Most Telling Tesla Full Self-Driving Beta Videos To Date"
-    excerpt: "As you can see from these fascinating videos, Tesla's new Full Self-Driving capability rewrite can do some pretty cool tricks, but it's nowhere near ready."
-    publishedDateTime: 2020-10-28T13:13:00Z
-    webUrl: "https://insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/"
-    ampWebUrl: "https://insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/KjQGG/s1/tesla-fsd.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Tesla increases price of Full Self-Driving to $10,000"
-    excerpt: "Tesla continues to raise the price of its Full Self-Driving (FSD) electronic driver-assist feature. The company raised the price to $10,000 this week, up from $8,000 previously. The feature cost $ ..."
-    publishedDateTime: 2020-10-30T12:40:00Z
-    webUrl: "https://motorauthority.com/news/1130135_tesla-increases-price-of-full-self-driving-to-10-000"
+  - title: "Daimler and Waymo partner on self-driving trucks"
+    excerpt: "Benz and one of the biggest truck manufacturers in the world, on Tuesday announced a partnership with Alphabet Inc.-owned self-driving technology startup Waymo. The partnership will see Daimler integrate Waymo's self-driving system,"
+    publishedDateTime: 2020-10-28T13:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1120792_daimler-and-waymo-partner-on-self-driving-trucks"
     type: article
     provider:
       name: Motor Authority
       domain: motorauthority.com
-    quality: 39
+    quality: 54
     images:
-      - url: "https://images.hgmsites.net/hug/2020-tesla-model-x_100736314_h.jpg"
+      - url: "https://images.hgmsites.net/hug/freightliner-cascadia-semi-truck_100685398_h.jpg"
         width: 1920
-        height: 1080
+        height: 1298
         isCached: true
-  - title: "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed"
-    excerpt: "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng ..."
-    publishedDateTime: 2020-10-28T11:16:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed"
+  - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
+    excerpt: "And a recent mishap at an autonomous racing event showcased just how challenging self-driving technology can be. Roborace — a new autonomous racing series that's still in its testing phase ..."
+    publishedDateTime: 2020-10-29T22:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-roborace-race-car-drove-straight-into-wall-2020-10-1029744243"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/28/915555.jpg"
-        width: 1240
-        height: 697
+      - url: "https://i.insider.com/5f9b302e6f5b310011724515?format=jpeg"
+        width: 2264
+        height: 1390
         isCached: true
+  - title: "Self-driving semi travels across Ohio in test run"
+    excerpt: "On interstates and the turnpike, the lead truck was driven manually while the driver of the second truck engaged its automated platooning technology."
+    publishedDateTime: 2020-10-28T17:57:00Z
+    webUrl: "https://www.dispatch.com/story/news/2020/10/28/self-driving-semi-technology-lead-truck-test-run-across-ohio/3749218001/"
+    ampWebUrl: "https://amp.dispatch.com/amp/3749218001"
+    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3749218001"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PPOC/fc11697a-25ac-4c28-ac27-1ea68c005da9-IMG_0252f8f40dd0-ba7c-4f63-bb61-41f10373595b.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Waymo and Daimler to build self-driving trucks"
+    excerpt: "Daimler Trucks and autonomous driving technology vendor Waymo are partnering to deploy self-driving SAE Level 4 trucks for future transportation logistics operations. The initial collaboration will combine Waymo’s automated driving technology with a new version of Daimler’s Freightliner Cascadia to enable autonomous driving."
+    publishedDateTime: 2020-10-30T12:46:00Z
+    webUrl: "https://insights.globalspec.com/article/15320/waymo-and-daimler-to-build-self-driving-trucks"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
 
 secured: "irxBEO2239Rd+hXaR8twuLWC8HZPoJqfZkmqahoWMlgvnHJkTQ59rE5puTw3Sd9Rsq+Q0RMQf6pANQlYoyetp2GWoZQCGTcxl2oMP84+qEo89OAVNgomtwWyXX3wOJ/ImrfLlUMQE+w2LUugoUWUeV4Su1gEiceQx4tpL+jXHLxfjzMKtAAyaJ0fzcgTtEqCD5Qg74CjJx7JH7pgrV0AzbsZxduveAg5CMNMNLTHqYaSDz6HBc2OsYSVvRlUbwhWclbcj8hf4Ssdz4lWv8eQBI5ZVWql5L/pZTIi6QfcDRl6EXSn9uxR+ZaSQmxq8jC2n0vDAGC2nJHoUoBrd0+Xcs72Gcxivj29kDEkWq3x3Cj6dMKuo2MZUn4hieDT8uG9nby85zPeF4AddXGAi3rQGA7bJIhzMuQYHfNILN9Fb3sYNzpAjz3Rd56/YwGe8luz2nIxkZN+8SHtdlP+eH5HYmI5cQhAoo5wilVXvq5cY7jctxyRhh4ajeyJgGFiBSUp+bvn1veljxx3g3MBgglO/w==;qK1GDGbNwHD360pQiSVzLA=="
 ---

@@ -56,21 +56,19 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "AI revolution: The jobs to be replaced by Artificial Intelligence in next decade REVEALED"
-    excerpt: "ARTIFICIAL INTELLIGENCE (AI) is about to revolutionise the world's workforce in the coming years, a landmark new survey has revealed."
-    publishedDateTime: 2020-10-27T20:12:00Z
-    webUrl: "https://www.express.co.uk/news/science/1352962/ai-revolution-jobs-to-be-replaced-artificial-intelligence-next-decade-2030-evg"
-    ampWebUrl: "https://www.express.co.uk/news/science/1352962/ai-revolution-jobs-to-be-replaced-artificial-intelligence-next-decade-2030-evg/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1352962/ai-revolution-jobs-to-be-replaced-artificial-intelligence-next-decade-2030-evg/amp"
+  - title: "How the Army plans to revolutionize tanks with artificial intelligence"
+    excerpt: "With the Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
+    publishedDateTime: 2020-10-30T17:42:00Z
+    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 65
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 39
     images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-revolution-jobs-to-be-replaced-artificial-intelligence-next-decade-2030-1352962.jpg?r=1603831715006"
-        width: 590
-        height: 350
+      - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Mercedes targets evolution rather than revolution in self-driving car push – Jaweb"
     excerpt: "As Tesla touts the cutting-edge nature of its new Full Self Driving software, rival Mercedes-Benz says it has developed a similar system but stops short of allowing members of the public to take it on urban roads."
@@ -87,6 +85,20 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/10/Mercedes-targets-evolution-rather-than-revolution-in-self-driving-car-push.jpg"
         width: 1200
         height: 673
+        isCached: true
+  - title: "How the Army plans to revolutionize tanks with artificial intelligence"
+    excerpt: "Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
+    publishedDateTime: 2020-10-29T20:35:00Z
+    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 37
+    images:
+      - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Part of the revolution: Black representation in AI and quantum information"
     excerpt: "Black scientists need to be in the room when AI algorithms are developed, and as a physics community, we need to be discussing the ethics of our role in that work. Like AI, quantum information science and engineering (QISE) is a rapidly evolving field with ..."
