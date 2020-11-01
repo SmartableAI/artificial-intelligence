@@ -21,34 +21,33 @@ topics:
   - AI
 
 related:
-  - title: "Global Image Recognition in CPG Market 2020 and the COVID-19 Impact on the Industry"
-    excerpt: "face recognition, product classification, and license plate recognition. The image recognition in CPG market in Asia-Pacific (APAC) is expected to grow at the highest CAGR during the forecast period. North America accounts for the highest share in the ..."
-    publishedDateTime: 2020-10-29T11:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-image-recognition-in-cpg-market-2020-and-the-covid-19-impact-on-the-industry-301162721.html"
+  - title: "Trending Report on Artificial Intelligence in Insurance Market by Growth, Demand & Opportunities & Forecast to 2027"
+    excerpt: "The artificial intelligence in insurance is disrupting every step across the insurance value chain AI technologies such as deep learning and machine learning machine vision natural language processing NLP and robotic automation have the capability to reimagine the entire insurance"
+    publishedDateTime: 2020-10-27T11:22:00Z
+    webUrl: "https://www.openpr.com/news/2173041/trending-report-on-artificial-intelligence-in-insurance-market"
+    ampWebUrl: "https://www.openpr.com/amp/2173041/trending-report-on-artificial-intelligence-in-insurance-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173041/trending-report-on-artificial-intelligence-in-insurance-market"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
     images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://cdn.openpr.com/T/a/Ta27510758_g.jpg"
+        width: 626
+        height: 469
         isCached: true
-  - title: "Merck Foundation \"Stay at Home\" Media Recognition Awards 2020 Recognized the Best of COVID-19 Reportage From the Democratic Republic of the Congo"
-    excerpt: "“I am very happy to announce the winners of “Stay at Home” Media Recognition Awards ... look forward to a long-term association to further raise awareness and be the voice of the voiceless, particularly during such a global health pandemic.”"
-    publishedDateTime: 2020-10-27T11:55:00Z
-    webUrl: "https://www.businesswireindia.com/merck-foundation-stay-at-home-media-recognition-awards-2020-recognized-the-best-of-covid-19-reportage-from-the-democratic-republic-of-the-congo-70116.html"
+  - title: "Global Artificial Intelligence (AI) In Supply Chain Market Size 2020 Top Manufacturers, Share, Opportunities and Forecast to 2026"
+    excerpt: "The Zion Market Research added a new report “Artificial Intelligence (AI) In Supply Chain Market: By Technology (Machine Learning, Computer Vision, Natural Language Processing, and Others), By Application (Supply Chain Planning, Warehouse Management ..."
+    publishedDateTime: 2020-10-30T10:18:00Z
+    webUrl: "https://www.openpr.com/news/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 0
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/images/merck_70116.jpg"
-        width: 700
-        height: 700
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
 
 secured: "DSaL8kY8YMPn01gbCQrPdDcuHx8Of9ZoqhU/Pcz/bJFiGVs0Zsw5+V9/SIpdWIWUFHYQWMA7KslZf3m3Sdh2qF/jf+A3ZCBhZgoEjlvQHT3Jdkk7QKu7EZDWld+vQ3AegmYAI8GIZSTbhAX2iHQnqZ1Ugtg5ej/mYsoCTDGb3HKisEjKLGD4t34cW52bL8ka8I37z0t5EeEMvVqkMPN80vpQ/SqIZMNhjCIYAMGW2oAHl2YnfdHDftoS7SqgC3Jz0UFioQReiczS3fkgGeW6mcIgUq2NNMLObEU94PPTQC5r6gMWOxD/456gUivdgXIcobTfpUtO8U2LI0ltCA9HPToDTqOngLNJU2/fEI2RtKg=;4A1NKSEKg0KuQRB6u1NvKw=="
 ---

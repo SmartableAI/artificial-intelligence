@@ -624,6 +624,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-21-intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors.md",
+      "title": "Intuit Appoints Tekedra Mawakana, Waymo's Chief Operating Officer, to Board of Directors",
+      "excerpt": "Mawakana is the COO of Waymo LLC, a subsidiary of Alphabet ... policy related to commerce and advanced applications of artificial intelligence and machine learning. “Tekedra has a deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors/article_e5a747f3-8b85-5e32-a0b4-4fee6efdbff3.html",
+      "originalUrl": "https://www.oaoa.com/news/business/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors/article_e5a747f3-8b85-5e32-a0b4-4fee6efdbff3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-ford-escape-hybrid-becomes-companys-latest-self-driving-car-prototype.md",
       "title": "Ford Escape Hybrid becomes company's latest self-driving car prototype",
       "excerpt": "The Escape Hybrid will also serve Ford's future autonomous ride-hailing service. Feast your eyes on Ford's latest self-driving car prototype. If it looks a lot like a Ford Escape Hybrid, well, that's because it is.",
@@ -716,40 +759,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors.md",
-      "title": "Intuit Appoints Tekedra Mawakana, Waymo's Chief Operating Officer, to Board of Directors",
-      "excerpt": "Mawakana is the COO of Waymo LLC, a subsidiary of Alphabet ... policy related to commerce and advanced applications of artificial intelligence and machine learning. \"Tekedra has a deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b17984355/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b17984355/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17984355",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17984355",
-      "publishedDateTime": "2020-10-20T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {

@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "On The March: Ant Group, China's Fintech Sensation"
-    excerpt: "With a name belying its giant ambitions, China's Ant Group on Tuesday launched a history-making $34 billion IPO in Hong Kong and Shanghai. Backed by Jack Ma, China's richest man who founded the Alibaba e-commerce empire from his bedroom two decades ago,"
-    publishedDateTime: 2020-10-27T05:45:00Z
-    webUrl: "https://www.ibtimes.com/march-ant-group-chinas-fintech-sensation-3070506"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/27/jack-ma-launched-ant-group-in-2004-with.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-
 secured: "gkJtZXrLeiNL56MfVT7VgeJvzCbUuEPjRK/1X7H/qbd8vwd/NmsbiCT9RyGhSm53vi3rjyTu/UZqbfTZVZ1E0k3Wvm5pABopzrgt6IZm4u+2rZ8Q5HNfPGVdCHM1Sk+vYlU4pa8IUrZd61mlLnlwpcjlhyDAevNR8rzDY03Kxq+LYtaC/96AwDcxjzCyIprxXWPXl26aqC1a/niWPZUHSMZ96G08KKLFGX8hRTOL/Ls7hRukFNIEu81ywKf0a0fJ0K38e1i0o3a8e5vkktWG0pj95alBpTCoiNZX3v+XkVL7zpXkE4+0ADLc8TINy9JYQnd/bktGdYANY+Ux33hgoFAmmqMbdRJ+9x6M0nbA34INaIkD54LdEFiz3keU7W+Yj131rdgX6q1+tcnLGK6//ktHYfcmr9jSsdEITZN//pi+jZi5MQVucfDI+3XiipKObVU5trahob3WJxrJtyeSpLA0gP5TzKG0C3GSslY6SpGrPZVMEcE6X5JpkkNCO16bcGODmePCiwHqQPhSh71bmw==;q+yHw6N/NI+EKpsz1NL9PA=="
 ---
 

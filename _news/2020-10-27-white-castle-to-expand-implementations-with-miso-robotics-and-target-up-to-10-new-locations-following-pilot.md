@@ -130,17 +130,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Flippy the kitchen robot going to more White Castles"
-    excerpt: "White Castle plans to bring Flippy the kitchen robot to up to 10 more of its locations. The iconic fast-food hamburger chain — considered the country's first — said it will expand its work with Pasadena,"
-    publishedDateTime: 2020-10-27T07:00:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.html"
-    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
 
 secured: "mOoc9ujh1gEEzpgXCpskB8+KhS4DpY6aLMqJWPTtqslD2eNPuwRWvJX2EKr9XVlc0Q8nQp71K0TiTxl8dqQ5OMo2RvLOtKMIHyFYh6PztE11xpjGxs1c6vjTFUJ1cf9ENl0L/1GniJX6gNcpacZkBLJqi+aYsph7siDeGvReOl2m52V6v+6hmneh7LkyYAy/qn0oZVnn2/nWHhnQ23TeQVAyUZV8gs+e4zb87dvlqETu6vdD78tNRheNLCD3oMD2HCQXuLESUVT/yV3b481WD6KlKOEbpLV3iLMuPf+3U6O16m/DoA2GZd3++PN1qzhQ7gOtM3J6SKdHFlut757tOkwQGZqcIAzEfcPM3vT/hC0=;RYDOUwjEStQSu64SAD17AQ=="
 ---

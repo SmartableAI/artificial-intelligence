@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ..."
+excerpt: "robotic personal assistants and big data analytics. Healthcare is poised to accelerate investments in AI over the next few years. On an estimate, artificial intelligence in healthcare raised a ..."
 publishedDateTime: 2020-10-27T15:16:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
 webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
+  - AI in Robotics
   - AI
   - AI in Healthcare
 
@@ -119,6 +119,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "SF3AoO6P/UZxSfDAeCoCKxzDIYEunW7MPc++21HM9MyRFjbIJ+JXrwPCrJ9o8KYRdkXwFrjt98bh4yRhPTf7wel0SieX5FLRK9BImcSz1VlMSb0S8eIpora6HjQaQDmxdb+7YP2TJMsIDhbmIrOxFhWkKTo+bWV9gLf4ROFNCA7E23NAST/gYYXzTURxEUHYgA6FJpspmxka19jaxq6G/gVhprJXg2bIX9a1GVLXgjoKJq5g+TKrRB148DYu5YtECYVn4N9Pngc+cnES/4wU6XR2aR9K6GvnHVfl1JUQr1zZi9Gm+QptRZfu/C/E42SVpRn7447yrNI1Wxhp1vO2ULMjsuWIFXzSGdW9KWprmFM=;56qsF6eLkZSVjW4NxWUlzg=="
+secured: "UvxMdHikUCwQ2cNAZtKFXB6/gmeGQ9v1A9ppjR4K3bIoPhQbvlideCrjCEAgp4tlk6GZa6JsjNXeUgwkPzwAYeGfdgo7UK1FIvgM/YNPwepM5Al8uhzS2ahC24ZTGN0rJzbvA+Nr0Q4Y96WEjl/yu+tKTe9L58GgW95cVU/CE5fqJ46oKzZfa1rXkLp9dWbCGWetkAopvkuCowr1DCCKOmjR6YnBZmGm0AE28iIff+Ts7ag1S86bRpFVVwnhTHpDF4E9GDN4Wk6C13l0iWhI/6bbnmL3guaqhnBp/XjZirVipOWxvqFs3i20tul+7kXfeCFmGyARJU2O999SUVRLVsTjeDBkWWuvDXu4E7Ssupc=;lFFf4X7v7tkLHZbgDv7qMw=="
 ---
 

@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous Cars Global Market Report – Covid-19 Growth And Change, Opportunities And Strategies, 2020 - 2030"
-    excerpt: "An autonomous car, which is also known as a driverless car, is a vehicle capable of guiding itself with minimum or no human involvement. An autonomous car uses a wide range of technology including cameras, sensors, GPS, radars, artificial intelligence and ..."
-    publishedDateTime: 2020-10-29T14:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/g18120684/autonomous-cars-global-market-report-covid-19-growth-and-change-opportunities-and-strategies-2020-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18120684"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18120684"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
   - title: "Merck Foundation \"Stay at Home\" Media Recognition Awards 2020 Recognized the Best of COVID-19 Reportage From the Democratic Republic of the Congo"
     excerpt: "“I am very happy to announce the winners of “Stay at Home” Media Recognition Awards ... look forward to a long-term association to further raise awareness and be the voice of the voiceless, particularly during such a global health pandemic.”"
     publishedDateTime: 2020-10-27T11:55:00Z

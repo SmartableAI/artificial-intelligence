@@ -1,12 +1,12 @@
 ---
 category: news
 title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
-excerpt: "Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to deploy machine learning (ML) models quickly. Now, with simple point-and-click ..."
+excerpt: "SAN MATEO, Calif., Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that ..."
 publishedDateTime: 2020-10-27T12:38:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
 webUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
 type: article
-quality: 23
+quality: 40
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AWS AI
+  - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
@@ -82,6 +83,6 @@ related:
         height: 720
         isCached: true
 
-secured: "FLAykr9NGDe2aflecDjDuP8vd2equOUvvX8WjgIL+OVkbIoDnWNFMA8qzXcYgOpNRCz6lyPkovLCaHm+iHYVJE8gMLvI9//grQoHLe+9XVCnPeciERbEiyduh060SJmoEMHBBkgMAjvcjm0bHRZG66YQu989r6vEoyM25pwnNenzxvPHOOInfQ1vp4LWXIWx72nTY+9pgWAU72/ZRLM9edOgQMoin5SnGigy7CA5rwHA0Od49pNVBXm/HNB34C+CtibZ9StqW5q32bZPSEPxM+lNT6Gk7p6TBpbRP22N+v+gja9iojN1REkGgRpmEyyIlo8Isw7JmVAc0c1lsbiohdvk+6+yoMjhfPRuMDYFBKo=;JznD2sFVI0cYnqkDQtpB+Q=="
+secured: "QdDwCdsk0nciOBi2n7bsYddITEHGmRgcXkwgfci4kyrs14ge03LuXaXK67ZG2viM4Kb1JivonqEi7zK0MhVxBP6xBceB4nbRi4TjQ0FyS83vySemDNEJ3RMmFFMDATGr/ltIvEz9jClmIJCbbltvx7gQr+Wv2XQk6B+BVmrGv7p+F0hunxELst05tHiwkA6pbxXhl6ftvOUHwOvW+J5IygeFrOEis3+IvxZ7zBbEQB2kRUYTmQh2DhctD4d4JDqei3dxaP08ROpHH8C3v12xbkC5aDndpYVUSes9V5jRXtT4RqCIIfP6pyfQ/GOxTylVVbbyyq0D0G2wJnmzrpwMO/C9RDhPf00QtoL82/3phx8=;EQJjOYuKU9F7Zf6wUZyweA=="
 ---
 

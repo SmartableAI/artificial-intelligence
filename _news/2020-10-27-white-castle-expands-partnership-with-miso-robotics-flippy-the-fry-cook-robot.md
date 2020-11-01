@@ -116,17 +116,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 54
-  - title: "Flippy the kitchen robot going to more White Castles"
-    excerpt: "White Castle plans to bring Flippy the kitchen robot to up to 10 more of its locations. The iconic fast-food hamburger chain — considered the country's first — said it will expand its work with Pasadena,"
-    publishedDateTime: 2020-10-27T07:00:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.html"
-    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/10/27/flippy-kitchen-robot-more-white-castles.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
   - title: "White Castle to Expand Implementations with Miso Robotics and Target Up to 10 New Locations Following Pilot"
     excerpt: "PRNewswire/ -- White Castle®, the world's first fast-food hamburger chain, announced today plans to expand work with Miso Robotics - creators of the first autonomous"
     publishedDateTime: 2020-10-27T10:00:00Z

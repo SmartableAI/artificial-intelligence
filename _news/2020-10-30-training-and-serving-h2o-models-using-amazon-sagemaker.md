@@ -58,6 +58,20 @@ related:
         height: 630
         isCached: true
   - title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
+    excerpt: "SAN MATEO, Calif., Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that ..."
+    publishedDateTime: 2020-10-27T12:38:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
     excerpt: "Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that dotData Stream now fully supports Amazon SageMaker integration, one of the ..."
     publishedDateTime: 2020-10-28T03:46:00Z
     webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration/article_4616ca05-3b5f-56d4-99a8-5a95e850cbb4.html"
@@ -70,20 +84,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
-    excerpt: "Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to deploy machine learning (ML) models quickly. Now, with simple point-and-click ..."
-    publishedDateTime: 2020-10-27T12:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "9zIg1kWhQmROmxiIrQzzjgDZ08t7R2S4Mp3UYnQMUAH0JgJhYqK1a93BVK/gXfhleD7XDzq0xYFdBYVsR14cWrobmv+VJJ0tMkITMGEgLdimo3FkKSh8K2KQ6XvDGxQuuodx2aPl7Dj1Cy4bN4L01djuUuzUlqcMo+XefLG/0uneh4mE0SypqNtYeGVLH58fGivNmxP8H/1jyPcmNYbjSCh7V5vG0UjoH76jlLDTRFdT7qxjWHupg6GOBaL/1HtW0ZJBCnEnkjXnvtOux90mYwJYjmj3RGFH9He5eN/v2b67XBlTOT45cDpoogu0Wie4wIT3aBTuMhR+8vo+HHAJnHrIiVUhbYugIVBANqTeaLs=;TSzCh1k5l1F/KPLLJAwqpQ=="

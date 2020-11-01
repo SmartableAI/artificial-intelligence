@@ -32,17 +32,6 @@ related:
         width: 620
         height: 370
         isCached: true
-  - title: "Global Artificial Intelligence (AI) In Supply Chain Market Size 2020 Top Manufacturers, Share, Opportunities and Forecast to 2026"
-    excerpt: "The Zion Market Research added a new report “Artificial Intelligence (AI) In Supply Chain Market: By Technology (Machine Learning, Computer Vision, Natural Language Processing, and Others), By Application (Supply Chain Planning, Warehouse Management ..."
-    publishedDateTime: 2020-10-30T10:18:00Z
-    webUrl: "https://www.openpr.com/news/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
 
 secured: "35Ias6KsVGgYJLzGkZhwoXkD1HC6XPCWZMM1vGDz+3WS8uAQmZ+NKcleJSDR35L9I8qZ/VTrILAfY8X6EbV7PmTsCvSg+MZbj9BnQSEE9f/LC4XA9zlrdd1TWR4GH/T3L+kEysJ/uDo2aZsvqiIshsB8qgwkHYFTSefwBfuJcjpB9URZddJuFSWZTYjZUgBZ0v3sG9Dr2En7X0qo6CcrD2ZRmWQwIuxy/AXShNQJNe6dcaSCIsYlmimvHFJUe68wz1pBP7+CXcjq5jW/ndG1kSlhdADrNQgcre4AdxtAeOyHlQjBm6MsQf3qWHn87N2OKmaINKc8d52NV0Qq9lKCa1cmIfOY2RLcE77wdlVhG5A=;kFkcr/bqyjW8bMbXt7SMWg=="
 ---

@@ -656,6 +656,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-18-sensiml-to-present-at-st-developers-conference.md",
+      "title": "SensiML to Present at ST Developers Conference",
+      "excerpt": "Learn how the SensiML Analytics Toolkit, TensorFlow Lite, and ST's SensorTile.Box can provide a powerful and flexible IoT development arsenal for innovating new smart wearables, IoT, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook",
+          "width": 2059,
+          "height": 1079,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-17T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-duplex-is-getting-smarter-and-making-life-a-little-easier.md",
       "title": "Duplex is getting smarter and making life a little easier",
       "excerpt": "In 2018, we introduced Duplex, our AI technology that uses natural conversation to get things done. Since then, we’ve been exploring how conversational technology can be both easy to interact with and  help people save more time. Today, during our Search On event, we shared an update on how Duplex and",
@@ -1439,58 +1482,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-make-your-everyday-smarter-with-jacquard.md",
-      "title": "Make your everyday smarter with Jacquard",
-      "excerpt": "Technology is most helpful when it’s frictionless. That is why we believe that computing should power experiences through the everyday things around you—an idea we call “ambient computing.” That’s why we developed the Jacquard platform to deliver ambient computing in a familiar, natural way: By building",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/",
-      "originalUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-02_at_1.07.46_PM.max-1200x1200.png",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/atap/jacquard-samsonite-backpacks/amp/",
-      "publishedDateTime": "2020-10-05T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-10-08-world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips.md",
+      "title": "World Sight Day 2020: Blink More Often To Prevent Computer Vision Syndrome; Know More Expert Tips",
+      "excerpt": "This dependence on gadgets worsened during the COVID-19 pandemic. This has led to increased incidents of computer vision syndrome or digital eye strain usually presents as one or more of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/health/world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips-2306974",
+      "originalUrl": "https://www.ndtv.com/health/world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips-2306974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-10/l0cbgoho_eyes-_625x300_07_October_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/health/world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips-2306974?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/health/world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips-2306974?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-10-08T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-nec-oncoimmunity-as-and-oslo-university-hospital-team-up-to-develop-a-diagnostic-for-covid-19-using-artificial-intelligence.md",
       "title": "NEC OncoImmunity AS and Oslo University Hospital Team Up to Develop a Diagnostic for COVID-19 Using Artificial Intelligence",
       "excerpt": "NEC OncoImmunity AS (NOI), a subsidiary of NEC Corporation (NEC), and Oslo University Hospital (OUH) are pleased to announce that they have recently been awarded a prestigious grant from the Research Council of Norway (RCN) to develop an artificial intelligence (AI) platform that will enable the rapid design of T-cell diagnostics for emerging or endemic infectious diseases.",
@@ -1118,58 +1161,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-fernanda-viegas-puts-people-at-the-heart-of-ai.md",
-      "title": "Fernanda Viégas puts people at the heart of AI",
-      "excerpt": "When Fernanda Viégas was in college, it took three years with three different majors before she decided she wanted to study graphic design and art history. And even then, she couldn’t have imagined the job she has today: building artificial intelligence and machine learning with fairness and transparency",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/fernanda-viegas-ai/",
-      "originalUrl": "https://blog.google/inside-google/googlers/fernanda-viegas-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fernanda_Viegas_social_share.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/fernanda-viegas-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/fernanda-viegas-ai/amp/",
-      "publishedDateTime": "2020-10-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

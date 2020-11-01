@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/otter-ai-announces-z
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1320599/Google_NOAA.jpg?p=publish&w=950"
         width: 950
         height: 474
+        isCached: true
+  - title: "Otter.ai Launches Live Video Captioning for Zoom Users to Boost Remote Working"
+    excerpt: "Captions and live transcripts used by virtual workers and deaf and accessibility communities. (Graphic:) To experience this new feature, an option to use captions for live video calls and webinars will now appear within Zoom for Otter for Business and Zoom Pro subscribers or higher."
+    publishedDateTime: 2020-10-29T23:16:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201029006139/otterai-launches-live-video-captioning-for-zoom-users-to-boost-remote-working"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 33
+    images:
+      - url: "https://mms.businesswire.com/media/20201029006139/en/834878/4/Otter_caption_image_10_28_20.jpg"
+        width: 480
+        height: 240
         isCached: true
   - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
     excerpt: "PRNewswire/ -- NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite and environmental data."

@@ -39,17 +39,6 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Autonomous Cars Global Market Report – Covid-19 Growth And Change, Opportunities And Strategies, 2020 - 2030"
-    excerpt: "An autonomous car, which is also known as a driverless car, is a vehicle capable of guiding itself with minimum or no human involvement. An autonomous car uses a wide range of technology including cameras, sensors, GPS, radars, artificial intelligence and ..."
-    publishedDateTime: 2020-10-29T14:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/g18120684/autonomous-cars-global-market-report-covid-19-growth-and-change-opportunities-and-strategies-2020-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18120684"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18120684"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
 
 secured: "sF3kms8bcP5HO2+3AH8riuo5P+RjYqTH76hxh8xVxSGt07pi9ElCYVrb6hKvfgq0oBMnXmUUs887c1X3Rm4DmAadVGmTJ5ZgZsgCiUEz2GiWkxtcCvIWRetBCILup0ZM2adY1CYp4DZkVeZSSM5TNxsJPkMu3rNLYeL1bQYVUE9/xfVuESIemhtjrUqytyWZ/1w1opNimvdZY9DLIIBRgL2VJ5kDOi+uPbyaPoS+ouWmTbbm6UjPeA/RK89PpZXxRZnyFECNuga0TdDaI/xNpIn+r1FcdhPvo/UC5flwCAYSpDuyR/h9AGRnfI/mF0jQOO9lD45hHgzgkbP7UkF0T+r49hSYQmdLCNbvxOz0GiA=;+K9PJv6DvPkFhHsWzOTkJw=="
 ---

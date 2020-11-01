@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-10-15-sicks-deep-learning-brings-simplicity-to-complex-ai-inspection.md",
+      "title": "SICK’s Deep Learning Brings Simplicity to Complex AI Inspection",
+      "excerpt": "SICK has launched a suite of Deep Learning apps and services to simplify machine vision quality inspection for challenging components, assemblies, surfaces or food produce, especially those that have previously defied automation and remained ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theengineer.co.uk/supplier-network/product/sicks-deep-learning-brings-simplicity-to-complex-ai-inspection/",
+      "originalUrl": "https://www.theengineer.co.uk/supplier-network/product/sicks-deep-learning-brings-simplicity-to-complex-ai-inspection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theengineer.markallengroup.com/production/2020/10/im0090846.jpg",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Engineer",
+        "domain": "theengineer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-vxg-announces-platform-to-receive-automated-analysis-at-scale-effectively-making-any-camera-a-smart-camera.md",
       "title": "VXG announces platform to receive automated analysis at scale, effectively making any camera a smart camera",
       "excerpt": "For an example, one really has to look no further than Amazon Rekognition, which leverages Machine Learning (ML) to make it easy to identify things like objects, people, or text within videos and images. Outside of the technology industry, however ...",
@@ -1122,58 +1165,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-facebook-plans-to-use-ai-to-help-fight-climate-change.md",
-      "title": "Facebook plans to use AI to help fight climate change",
-      "excerpt": "The social network teams up with Carnegie Mellon University to find new ways to store and use renewable energy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
-      "originalUrl": "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/DLI_wPn6SSXK7hKxFajKVx567f0=/1200x630/2019/12/30/913bf7f7-7ec0-4894-bb35-3807a65e36bb/facebook-logo-phone-4597.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
-      "publishedDateTime": "2020-10-14T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

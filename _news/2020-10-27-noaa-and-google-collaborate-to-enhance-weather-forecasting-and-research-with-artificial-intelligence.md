@@ -51,6 +51,20 @@ related:
         width: 950
         height: 474
         isCached: true
+  - title: "Otter.ai Launches Live Video Captioning for Zoom Users to Boost Remote Working"
+    excerpt: "Captions and live transcripts used by virtual workers and deaf and accessibility communities. (Graphic:) To experience this new feature, an option to use captions for live video calls and webinars will now appear within Zoom for Otter for Business and Zoom Pro subscribers or higher."
+    publishedDateTime: 2020-10-29T23:16:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201029006139/otterai-launches-live-video-captioning-for-zoom-users-to-boost-remote-working"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 33
+    images:
+      - url: "https://mms.businesswire.com/media/20201029006139/en/834878/4/Otter_caption_image_10_28_20.jpg"
+        width: 480
+        height: 240
+        isCached: true
 
 secured: "isLp0L+ghYzca9rbZbBzP+wKiuUgy7NqJGg/za4Y/QgBKsySkq8SXVOhHOkYnfcx7NAPFkVUpmSLxSpRaAo7u7pNu87oCGgRL8y2vnEQ2dBmzYnhttbBFWh4ZEmE1TO9l53+2BviaoBJCjK7Z5yt1G5TceqEJO7mNk6c4deN/qSHusK73hNEkYtWkdTpBrUKw8Q91/PSLsWKNz7yeUC23zGicpuE4ugq1RrTCncq3lbG/lvMZ7Xbzg5pH7we6DCWUle5GjvErXk+xAoegGFbPkFPTIH7mQB+Gn8RjrspPC1S9dkrRTGqaKEjYKyWerHw6zl564Rrbvu6MmcGZQgBRot+59g4KBeqrp/PjQlnufI=;l3GnVdsb1KbnWWtjiUCO3Q=="
 ---

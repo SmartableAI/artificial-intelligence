@@ -45,20 +45,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 36
-  - title: "The Amazing Ways Duolingo Is Using Artificial Intelligence To Deliver Free Language Learning"
-    excerpt: "It’s a challenge to learn a new language, especially once we’re past 18 years old. But Duolingo, self-proclaimed as “the world’s best way to learn a language” and seconded by reviewers at the Wall Street Journal and the New York Times,"
-    publishedDateTime: 2020-10-27T06:26:00Z
-    webUrl: "https://www.linkedin.com/pulse/amazing-ways-duolingo-using-artificial-intelligence-deliver-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 28
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQG8ma-s99VPlQ/article-cover_image-shrink_720_1280/0?e=1609372800&v=beta&t=ZQjGHg2B_6PQm8fGRIvYNzN2emKDW8gv-qTLJqCeoPI"
-        width: 1081
-        height: 720
-        isCached: true
 
 secured: "8XwVNtboCADhCRAWpxzjaObSq9eVtf0h6y+HEhOTooyh0gToZaCWFkfaRiwC0dnDQZ4jBzR7oOIQx6ez/KUsu/O+jI72IFxCNK7maScQT603Mu4M+U7KR7tQETJK1+LxjCJFAFotT9/p4oYeNwzBrNaIF7IBeky0JFKK0ecZUFaDRsi4MQ9kKToas4t067ZU1g1ykTSVPCcMWlEbYoALxftDDtmDlrP24Kp7KySdJMIbp3G3qKV5qh+aM5NoG+Yu50OilmS0KLyt9e0aX4MzhzrCWC6td6iSRcvjnoVPVs4+va1WcxnkWsZEBNSufDL0fm2v843C3w835Ddg1CWSpGWulgZXYWVxOaHwY1uoNB0=;voixXZLj6w4GizGIyOEJ+w=="
 ---

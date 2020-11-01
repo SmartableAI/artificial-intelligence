@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-adv
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
 type: article
 quality: 71
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -22,6 +22,22 @@ topics:
   - AI in Autos
 
 related:
+  - title: "The State Of AI Adoption In Financial Services"
+    excerpt: "IDC predicts worldwide revenues for artificial i (AI) software, hardware and services will reach $156.5B in 2020, increasing 12.3% over 2019. The global AI finte"
+    publishedDateTime: 2020-10-31T23:26:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9da9913b4215b47e037243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5798%26cropY1%3D0%26cropY2%3D4300"
+        width: 1200
+        height: 890
+        isCached: true
   - title: "Artificial Intelligence as a Service"
     excerpt: "The Artificial Intelligence as a Service market is expected to grow from USD 1.6 Billion in 2019 to USD 13 Billion by 2027, at a Compound Annual Growth Rate (CAGR) of 51% during the forecast period. A comprehensive analysis titled; Artificial Intelligence ..."
     publishedDateTime: 2020-10-27T12:03:00Z
@@ -38,6 +54,15 @@ related:
         width: 550
         height: 312
         isCached: true
+  - title: "Video: Automation to drive evolution of financial services"
+    excerpt: "In this bobsguide video, sponsored by FactSet, Drake Bushnell, VP director of content and technology solutions strategy at FactSet and Byron Bianco, managing director of BMO Capital Markets discussed how the use of data will change the financial services industry."
+    publishedDateTime: 2020-10-27T10:02:00Z
+    webUrl: "https://www.bobsguide.com/guide/news/2020/Oct/27/video-automation-to-drive-evolution-of-financial-services/"
+    type: article
+    provider:
+      name: Bobs Guide
+      domain: bobsguide.com
+    quality: 4
 
 secured: "vuEYwCTxwrlEvJ97Bd+X/8bRpBjBVdw7mQxOAuemQhY0qiSHhqw3M542jgTWbuCcgDQOINSC9WKPskaBAsy3FLGLuZ45hj08N1yoLT14AWx9aCDpuc27MhRqlTD9onjrCPK+5cuevtWNmT8XyyQnaBcCI/DtNgjEs0KkmXmcG6Gzl/IinXH3PIcSleIOj3iA30a/M9iMaHip9dKRl+D05SAEMJZPt31UmWaHW/jzRfdu5L7HrcLzSCgUHLN4A9C5tsURmcwx7mqWPav17iJxnlmnlHb47bD2PntTLGeRJyhCBa40WG/71KMrTafgJsEgA+yUAOHMnfpNn9XfBU7TYvu4/BvF8e/oRrtfsmBiU6A=;MXArahrylcSecVLsoZ8MAQ=="
 ---

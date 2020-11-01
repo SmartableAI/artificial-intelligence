@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-01-the-state-of-ai-adoption-in-financial-services.md",
+      "title": "The State Of AI Adoption In Financial Services",
+      "excerpt": "IDC predicts worldwide revenues for artificial i (AI) software, hardware and services will reach $156.5B in 2020, increasing 12.3% over 2019. The global AI finte",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9da9913b4215b47e037243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5798%26cropY1%3D0%26cropY2%3D4300",
+          "width": 1200,
+          "height": 890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/amp/",
+      "publishedDateTime": "2020-10-31T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-an-automated-trading-firm-turns-its-machine-learning-expertise-to-venture-capital-investing.md",
       "title": "An automated trading firm turns its machine learning expertise to venture capital investing",
       "excerpt": "XTX executives say their trading edge is in machine learning—algorithms that automatically learn and improve from data without being re-programmed. XTX is heavy on computing, but light on ...",
@@ -380,8 +432,8 @@
       "title": "AI in Fintech Market May Set New Growth Story | Microsoft, Google, Salesforce.com",
       "excerpt": "Oct 19, 2020<p>Latest Research Study on  Market published by AMA, offers a detailed overview of the factors influencing the global business scope. Global AI in Fintech Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom?src=Rss",
-      "originalUrl": "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom?src=Rss",
+      "webUrl": "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom",
+      "originalUrl": "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1288,41 +1340,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-and-digital-workplaces.md",
-      "title": "CEO's of VEEV, WORK, LGIQ, DOCRF Discuss New Growth Opportunities in Cloud-Based Healthcare, Fintech, and Digital Workplaces",
-      "excerpt": "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/g17754942/ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-an",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/g17754942/ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-an",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17754942",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17754942",
-      "publishedDateTime": "2020-10-02T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

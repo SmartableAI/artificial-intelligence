@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Deep Learning Market | Growing Application of Deep Learning to Boost the Market Growth | Technavio"
-excerpt: "The deep learning market size is poised to grow by USD 7.2 billion during 2020-2024, progressing at a CAGR of almost 45% throughout the forecast period, according to the latest report by Technavio."
-publishedDateTime: 2020-10-14T07:14:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/b17896663/deep-learning-market-growing-application-of-deep-learning-to-boost-the-market-growth-technavio"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/b17896663/deep-learning-market-growing-application-of-deep-learning-to-boost-the-market-growth-technavio"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17896663"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17896663"
+excerpt: "LONDON--(BUSINESS WIRE)--The deep learning market size is poised to grow by USD 7.2 billion during 2020-2024, progressing at a CAGR of almost 45% throughout the forecast period, according to the ..."
+publishedDateTime: 2020-10-14T05:28:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201013006083/en/"
+webUrl: "https://www.businesswire.com/news/home/20201013006083/en/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201013006083/en/830001/4/IRTNTR41147.jpg"
-    width: 480
-    height: 271
+  - url: "https://mms.businesswire.com/media/20201013006083/en/830001/23/IRTNTR41147.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "tkgWaF3BU5AbLDDmCMlRIDYBH1TzCHYiQBYGUKS2cFg7pfigVclCRwfmFEuWRIUIWy6rOxldyWH1I6s+HHL0dTunr4i15rjZtx7a8ss31rUh8xmwA+8aUG05k5xQn+aXGnu3rTD0MkImVKUA2aGdkRnj7nEF4+L9V/xYNlLNKgqt61dpL9Y8ztfVuU8PTEtuB8H5R0GP+HbrE+Lp9xkKdmLhVeI6qDes1iUKbHxe+KzBIFSppBzJiXQUEyvfjFHaHjxUK663DZfQ6X3yPMFvJhU87tJP20zKGlkiOSbZkYFvNZUUXeU1kNrfvt900D5v2xsA+1yIMkCc3fs1DvM/gAm6jKmHpm6hZb15LEmASY8=;cP2RlatvBRaWds38iLEt3Q=="
+secured: "JqpDT0NugEN3Sd9OOx3XXK0VYPuBI28mtXmwV9CZqq8DBGixwqd++f36cs+1XSUp9IVJelcSQ7uhkJNZaQq8HU3KDJby9el2okimST3nKywB7bAUQ5VbqpkT7/1DvJTfVKkgzSSEvp4+qj2a7Yr1ukKtjpfF5/aqdvyF9s3/9NOpDjDN2IbK4TINfB7n+1Iyh+HfwDukxMTnoBSz/luUTMj1a7Qoo+mmR8IkrOZVSVDfF7roq48WjPOAOwJ8XMa0x1Y23KI7yFf9nL4phD2PUtqVu2qoNanYhC9tMHQQ6XmxLjrdKw98rr+d0QdV+eX0q9zFcSU3b4xC8L3iDEunmNEU2dKWAqUDl67dL8KLp3E=;td78g+XGmagrYJSToCh1rA=="
 ---
 

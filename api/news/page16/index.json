@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-15-biped-robot-maker-agility-raises-20-million.md",
+      "title": "Biped robot maker Agility raises $20 million",
+      "excerpt": "Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out of the lab and into the workplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
+      "originalUrl": "https://www.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701GG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG",
+      "publishedDateTime": "2020-10-15T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-project-euphonias-new-step-1000-hours-of-speech-recordings.md",
       "title": "Project Euphonia’s new step: 1,000 hours of speech recordings",
       "excerpt": "Muratcan Cicek, a PhD candidate at UC Santa Cruz, worked as a summer intern on Google’s Project Euphonia, which aims to improve computers’ abilities to understand impaired speech. This work was especially relevant and important for Muratcan, who was born with cerebral palsy and has a severe speech impairment.Before",
@@ -1084,49 +1127,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-sicks-deep-learning-brings-simplicity-to-complex-ai-inspection.md",
-      "title": "SICK’s Deep Learning Brings Simplicity to Complex AI Inspection",
-      "excerpt": "SICK has launched a suite of Deep Learning apps and services to simplify machine vision quality inspection for challenging components, assemblies, surfaces or food produce, especially those that have previously defied automation and remained ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theengineer.co.uk/supplier-network/product/sicks-deep-learning-brings-simplicity-to-complex-ai-inspection/",
-      "originalUrl": "https://www.theengineer.co.uk/supplier-network/product/sicks-deep-learning-brings-simplicity-to-complex-ai-inspection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theengineer.markallengroup.com/production/2020/10/im0090846.jpg",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Engineer",
-        "domain": "theengineer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
