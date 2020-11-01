@@ -7,7 +7,7 @@ originalUrl: "https://www.computing.co.uk/news/4022464/ai-machine-learning-award
 webUrl: "https://www.computing.co.uk/news/4022464/ai-machine-learning-awards-winners"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 370
     height: 229
     isCached: true
-
-related:
-  - title: "AI are the letters to remember for accounts payable"
-    excerpt: "Intelligent automation empowers accounts payable to be more proactive in making strategic contributions to the longevity of the business. With automation and advanced analytics, AP teams can process invoices more quickly. Automation ensures invoices are ..."
-    publishedDateTime: 2020-10-27T15:02:00Z
-    webUrl: "https://www.paymentssource.com/opinion/ai-are-the-letters-to-remember-for-accounts-payable"
-    type: article
-    provider:
-      name: PaymentsSource
-      domain: paymentssource.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/fa45217/2147483647/strip/true/crop/1177x618+0+280/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fd9%2F9b%2F94fe065c45088edd2b55a7b64977%2Ftrapani-michelle-kofax-opinion-pso.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "p2scJt3HkfkhTlDZQUHEvfzEjsVIiNqcIuWF4xpEsW0s3YnjcIpWIRdXXNvB3eGRZi51zJTrVwVtIPhQc2nW03zsaC8Ivzl3BRqSse23beH1E6RL1UzFpAwZu5ALmcTocuoQQBN4RiUcSyfPC2WvORlxRomCqklivwMVgLbD3tPVCEuw3xrdXMSqpaqGebXs1wNRe/SdCWldgm3p2tgHroLaCfNPW+v838iPITa5ez+9tGZQKzAsYVemyukUiJwW+EIsl1Zex6V8hkw26IHl0H7OhpnlYAFYIiaxZo1th//Js6xHYV3IpA5cHz1PDYj4hSVLJbqptN5VaR5EcHgpCgXM/2z/UOTWVpNwaAMrtBk=;nZUgnPJzDQspuUvGYhbdEA=="
 ---

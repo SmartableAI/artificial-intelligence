@@ -69,20 +69,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "White Castle expands partnership with Miso Robotics’ Flippy the fry cook robot"
-    excerpt: "White Castle will be implementing the newly revamped commercial version of the Miso Robotics creation — Flippy Robot ... powered drive-thru system with license plate recognition “Artificial intelligence and automation have been an area White Castle ..."
-    publishedDateTime: 2020-10-27T13:39:00Z
-    webUrl: "https://www.nrn.com/news/white-castle-expands-partnership-miso-robotics-flippy-fry-cook-robot"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 50
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/03%20Flippy%20wearing%20White%20Castle%20sleeve_1.jpeg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "4Z3DFvw5KtTUnZyFdZdDTjs5KCj11sc3guL/jt3+bqntikggdM+pTI732ZJSnwZN4mQmPyHTr8h3woi/TMoqRlcYeiw5RHpb6BdodTD/tduYXx5m7ZPVOBJQwOuuB65PD+xIpqHxS+FsbLRmSdANOsv87G6ADsO6kiAaPEBU29qYOT3n1m/E6FnqLuXZYre2XwrBocfcL6FnhX3LprB43htZWvRyEq8P10gKZcPmhDmZvZS5Me0TjZ9GpXa5Q0Pi6v7LAA2X4I8kOav+o4RLXnSxq+UUGgMYncXn5szWIs5DX2rwR4ROtohUu5lvMU+AWxM98KAFOXboUdcWe4mLRD/Uw8INPxCWKMIWEFBGlQZy9/OqbAsxpo4cMDj6j+ul3OQloaUYNp1w9UfgmrgR8IHIn0AS9q/N1Xd4z+2WxExgWtniCYrc4uVCT0TBpM3aMOwmxBhrxEjTMlf4Nkc8JJ1hnInmWFPQP23xcWU0qT9kOW9ZF4Jl62NHsr9B0/bstZ0bKIltLkxujUaKvvEWoQ==;VxVcvK4yMHrKh4uUcUDIGw=="
 ---

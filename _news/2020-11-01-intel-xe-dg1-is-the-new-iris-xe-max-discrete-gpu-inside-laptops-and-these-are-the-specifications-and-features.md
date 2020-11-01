@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Intel Accelerates Content Creation And Gaming With Iris Xe MAX Mobile GPU And Deep Link Tech"
-excerpt: "The true differentiation that Intel is bringing to laptops with Iris Xe MAX is a technology it calls Deep Link."
-publishedDateTime: 2020-10-31T19:07:00Z
-originalUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/"
-webUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/"
-ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/amp/"
+title: "Intel Xe DG1 Is The New ‘Iris Xe Max’ Discrete GPU Inside Laptops And These Are The Specifications And Features"
+excerpt: "Intel recently confirmed it was shipping out the Intel Xe DG1 GPU that the company had been building in-house. It is now confirmed that Intel has"
+publishedDateTime: 2020-11-01T01:00:00Z
+originalUrl: "https://appuals.com/intel-xe-dg1-is-the-new-iris-xe-max-discrete-gpu-inside-laptops-and-these-are-the-specifications-and-features/"
+webUrl: "https://appuals.com/intel-xe-dg1-is-the-new-iris-xe-max-discrete-gpu-inside-laptops-and-these-are-the-specifications-and-features/"
 type: article
-quality: 78
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: appuals.com
+  domain: appuals.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9daf8d005f33325dff7961%2F0x0.jpg"
-    width: 1000
-    height: 676
+  - url: "https://cdn.appuals.com/wp-content/uploads/2020/10/images-1.jpeg"
+    width: 739
+    height: 415
     isCached: true
 
 related:
@@ -94,6 +88,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/8zcrXFmwqGhotbwYirbJee-1200-80.jpg"
         width: 970
         height: 545
+        isCached: true
+  - title: "Intel Accelerates Content Creation And Gaming With Iris Xe MAX Mobile GPU And Deep Link Tech"
+    excerpt: "The true differentiation that Intel is bringing to laptops with Iris Xe MAX is a technology it calls Deep Link."
+    publishedDateTime: 2020-10-31T19:07:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9daf8d005f33325dff7961%2F0x0.jpg"
+        width: 1000
+        height: 676
         isCached: true
   - title: "Intel Launches Its First Discrete GPU for Laptops, the Iris Xe Max"
     excerpt: "The chip giant also tipped news of an early-2021 card version of the GPU for PC makers to employ in lower-cost desktops."
@@ -165,21 +175,7 @@ related:
         width: 678
         height: 451
         isCached: true
-  - title: "Intel Xe DG1 Is The New ‘Iris Xe Max’ Discrete GPU Inside Laptops And These Are The Specifications And Features"
-    excerpt: "Intel recently confirmed it was shipping out the Intel Xe DG1 GPU that the company had been building in-house. It is now confirmed that Intel has"
-    publishedDateTime: 2020-11-01T01:00:00Z
-    webUrl: "https://appuals.com/intel-xe-dg1-is-the-new-iris-xe-max-discrete-gpu-inside-laptops-and-these-are-the-specifications-and-features/"
-    type: article
-    provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 19
-    images:
-      - url: "https://cdn.appuals.com/wp-content/uploads/2020/10/images-1.jpeg"
-        width: 739
-        height: 415
-        isCached: true
 
-secured: "yAEWJCgPvxwZ+qrNtucj5LXk3AkhC0ejVIl5LA35PuwK0KaklWW1TYzqvp0kN3Y7vzsqhLsfe6u/xoXS08cauDS/gS4AfW8Z6BPMEjjt937zJPKe3mcV3oqW0jUsCQhlMvVpvnF6sRlMItSQls0yyIQ2qjQZhBntfUnTym7gtQNPtFnbrQkylHN8qytChrY3iZcl58I/NL8HXOmJnkdrPvS/WjGe6khEx16m5iIaVsB2cPsr7rfCie0mFWMUT1XjuUS7mfm0xqEHRFOEdy1CHOqahgjyiuzJ2D1Rufncp2hJ+hru0ZAOOuKZ0IXK+82x//Jq2wTG7c62aPJNos0xZH7t0xkmzifpRAVp+ZLeMvTiJZ3W8vuUFWk8AJm71kSiD8HIsfj7v68q66sV2MXWw7PeRz5zn6ydf5eL0gpX7rDqPzgR6dbF1NeSOcvDFrk2ICCBqo8+gdBGWpWiOfLTaREBFDPXC2DyAkdo2iLTqCPQYCaehhDuYgfay/BRnP2it6v9AjkpuHGhIId1L4ewXQ==;BqChFG8RG3DN1ajdATVMag=="
+secured: "wdkK0AiJi4yKfQUVwYH72Bb4bR95cka4xeYPlcATvXqEavVqhJ0JZ03txKRU+KJmMZgy9L28vqsZ23uCz0fXgEq4zFz77bpoYYWsQbHcyEpKVSDxKvCvx+8mRHq/UAMIq98xxYtqhv4HgrDiIdhRYQi0GFZAyFOQ0KpsRyAnc07SAj6478yNNwfqHUePojMuxhg35H8EJ1qF20uIVlHrbyWjHF15ODK0Eb56facK9eSyNYdtn6vn/IyoNBi7GrB45p2JIpMZ6Vm/aQKRF5aOqr+fBUTJDRW3sZIAGJfcSf5b72SQKGvw4FDEMlXjx98UCL5xGCCMr219WrkHMw+vuUH6jTwelSPfAPaSdRsiU50=;VYBWj0xU2z9kQ2cyx7FT9w=="
 ---
 

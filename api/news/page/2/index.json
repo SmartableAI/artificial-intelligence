@@ -349,7 +349,7 @@
       "originalUrl": "https://www.techrepublic.com/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 73,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -444,7 +444,7 @@
       "originalUrl": "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -591,7 +591,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -727,50 +727,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-say-hello-to-otis-a-game-changing-ai-powered-machine-learning-digital-marketing-assistant.md",
-      "title": "Say Hello to Otis, A Game-Changing AI Powered & Machine Learning Digital Marketing Assistant",
-      "excerpt": "Every now and then a dope technology comes around that shakes the whole game to its core. This is that moment. Meet Otis. Designed for entrepreneurs and business owners who are passionate about",
-      "sourceUrl": null,
-      "webUrl": "https://stupiddope.com/2020/10/28/otis-ai-powered-digital-marketing-assistant/",
-      "originalUrl": "https://stupiddope.com/2020/10/28/otis-ai-powered-digital-marketing-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stupiddope.com/wp-content/uploads/2020/10/pexels-photo-1765033.jpeg",
-          "width": 2250,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stupidDOPE",
-        "domain": "stupiddope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
       ]
     },
     {
@@ -965,7 +921,7 @@
       "originalUrl": "https://www.openpr.com/news/2175181/global-artificial-intelligence-in-healthcare-market-2020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1186,6 +1142,40 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-the-future-of-robotics-is-bright-with-arkq.md",
+      "title": "The Future of Robotics is Bright with ARKQ",
+      "excerpt": "Robotics and artificial intelligence are making machines smarter and more capable than ever before, allowing robots to take on increasingly sophisticated tasks for faster and more accurate production. Declining computer chip costs and improving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28",
+      "originalUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28?amp",
+      "publishedDateTime": "2020-10-28T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

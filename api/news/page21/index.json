@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-10-13-these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020.md",
+      "title": "These 19 companies are racing to put driverless cars on the road by 2020",
+      "excerpt": "Ford and Chinese company Baidu recently invested $150 million in Velodyne, a manufacturer of a LiDAR system that allows self-driving cars to see the world around them. Ford showed its driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
+      "originalUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-53758040,width-640,resizemode-4,imgsize-1036801/tesla-is-aiming-to-have-its-driverless-technology-ready-by-2018-.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-four-ways-ai-can-improve-revenue-operations.md",
       "title": "Four Ways AI Can Improve Revenue Operations",
       "excerpt": "How can RevOps best drive value, profit, and growth? The answer lies in a strong foundation of advanced analytics and AI.",
@@ -1129,59 +1172,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-android-studio-41-simplifies-using-tensorflow-lite-models-and-android-emulator.md",
-      "title": "Android Studio 4.1 simplifies using TensorFlow Lite models and Android Emulator",
-      "excerpt": "Version 4.1 includes easier implementation of on-device TensorFlow Lite models, the ability to run Android Emulator directly in the IDE, and support for foldable form factors. There’s also a new ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/",
-      "originalUrl": "https://venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/android_studio_wide-e1494818664896.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/amp/",
-      "publishedDateTime": "2020-10-12T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

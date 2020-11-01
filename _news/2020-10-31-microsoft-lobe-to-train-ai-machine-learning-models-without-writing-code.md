@@ -44,33 +44,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Microsoft unveils free app to create AI models without writing any code"
-    excerpt: "Credit: Mike Matas, Microsoft Microsoft acquired Lobe in 2018 to make AI development more accessible. After training, the models can be exported to a variety of industry-standard formats and ..."
-    publishedDateTime: 2020-10-27T13:16:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/27/microsoft-unveils-free-app-to-create-ai-models-without-writing-any-code/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/27/microsoft-unveils-free-app-to-create-ai-models-without-writing-any-code/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/27/microsoft-unveils-free-app-to-create-ai-models-without-writing-any-code/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 104
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-27T114913.835-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Microsoft, Adobe, C3.ai Launch Tool To Help Predict Revenue, Product Demand"
-    excerpt: "(RTTNews) - Microsoft Corp. has joined with Adobe Inc. and enterprise AI software provider C3.ai to launch a new tool that would help customers to accurately forecast revenue and product demand, among other things. The C3 AI CRM powered by Microsoft ..."
-    publishedDateTime: 2020-10-27T13:36:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-adobe-c3.ai-launch-tool-to-help-predict-revenue-product-demand-2020-10-27?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 82
   - title: "Inspired by Netflix original movie, Microsoft wants to teach you AI and Machine Learning"
     excerpt: "Microsoft has come to terms with Netflix to teach learners concepts in data science, machine learning, and artificial intelligence (AI)."
     publishedDateTime: 2020-10-29T01:09:00Z
@@ -116,20 +89,6 @@ related:
       - url: "https://d3impqwjfkw0cn.cloudfront.net/img/opengraph-default-whattheythink.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft beats out Amazon, Google for strongest healthcare AI offering, KLAS says"
-    excerpt: "Healthcare providers and insurers consider Microsoft to have the strongest healthcare artificial intelligence offering among the big tech giants, according to a report from healthcare data and IT insights company KLAS. For its \"Healthcare AI 2020\" report ..."
-    publishedDateTime: 2020-10-27T14:39:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/microsoft-beats-out-amazon-google-for-strongest-healthcare-ai-offering-klas-says.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 65
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "Microsoft launches its industry-focused Cloud for Healthcare platform"
     excerpt: "It later sold its interest in Caradigm before establishing a healthcare-focused artificial intelligence research unit, called Healthcare NexT, in 2017. Show your support for our mission with our ..."

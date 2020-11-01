@@ -51,17 +51,6 @@ related:
         width: 754
         height: 505
         isCached: true
-  - title: "If a robot is conscious, is it OK to turn it off? The moral..."
-    excerpt: "As real artificial intelligence technology advances toward Hollywood’s ... Arguably no machine has yet demonstrated that kind of intelligence. This summer, a startup called OPENAI released a new version of its Generative Pre-Training language model."
-    publishedDateTime: 2020-10-27T13:11:00Z
-    webUrl: "https://www.middletownpress.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
-    ampWebUrl: "https://www.middletownpress.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
-    cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
-    type: article
-    provider:
-      name: The Middletown Press
-      domain: middletownpress.com
-    quality: 39
 
 secured: "wXrLm6aqZO4pNH42Q23GznZ8FAq4evzA5j89IJUq4alf2nps6h8pnbqgEXTkFFwZ3JSJUj7Cb9U0EXAX9NLVbOjEoIMaUYAHAdAgwb1UmRLGZ28EvNv3mNdVHMZa8OiIxrVc6D8FXtU6kCVEb0H7ApmqYah//WzMacEEL8BR5oRIXwkrgBX0z4NPyIrsNxdiJ2REhteu/0h0geUi4WBWwxpT8GTXjxvwSm10vr0n8SPIS3pqkJqqI8gVLFslU4fNeQXs4r+nxSBH+nFgCvu/8p3SM64fqqXmpj0rYL0Qfn3/OOmE0HWF3LDpmyRIy8caY+3qXIBJxImpByDRElgyAuUXLm9G8BwmzQzmC5wUZL0vhwTZMvu4PsI5/G7nnr7yHN7u6CHzrsShkcYE+DqUNkgJ3IqIr3gcWA7Dp0QKMvdYIj+5eWuL1TNfOiMP+oAYpACFuk/kBo3nAEaIDSxEnRRfbUq+Ih9f/nemnjrrWmkcf/y+eTO5OTH+owmUCJ2UtJsDgdZWadSyCqFIFzhhyw==;up1xfmEyKGUtC9ACOohXuA=="
 ---

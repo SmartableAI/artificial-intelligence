@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais/amp/"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 754
         height: 505
         isCached: true
-  - title: "If a robot is conscious, is it OK to turn it off? The moral..."
-    excerpt: "As real artificial intelligence technology advances toward Hollywood’s ... Arguably no machine has yet demonstrated that kind of intelligence. This summer, a startup called OPENAI released a new version of its Generative Pre-Training language model."
-    publishedDateTime: 2020-10-27T13:11:00Z
-    webUrl: "https://www.middletownpress.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
-    ampWebUrl: "https://www.middletownpress.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
-    cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
-    type: article
-    provider:
-      name: The Middletown Press
-      domain: middletownpress.com
-    quality: 39
   - title: "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs"
     excerpt: "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing."
     publishedDateTime: 2020-10-29T14:28:00Z

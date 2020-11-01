@@ -1,26 +1,113 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "Artificial Intelligence (AI) is expected to contribute up to US$ 15.7 trillion to global GDP by 2030. AI applications, powered by an influx of big data and advancements in computing power, are positioned to transform major sectors, including healthcare."
-publishedDateTime: 2020-10-27T00:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
+excerpt: "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ..."
+publishedDateTime: 2020-10-27T15:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
 type: article
+quality: 51
+heat: -1
+published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
+  - AI in Healthcare
 
-images:
-  - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
-    width: 1279
-    height: 670
-    isCached: true
+related:
+  - title: "Global Artificial Intelligence in Healthcare Market"
+    excerpt: "DBMR has added a new report titled Global Artificial Intelligence in Healthcare Market with data Tables for historical and forecast years represented with Chats & Graphs spread through Pages with easy to understand detailed analysis. Global Artificial ..."
+    publishedDateTime: 2020-10-28T18:08:00Z
+    webUrl: "https://www.openpr.com/news/2175181/global-artificial-intelligence-in-healthcare-market-2020"
+    ampWebUrl: "https://www.openpr.com/amp/2175181/global-artificial-intelligence-in-healthcare-market-2020"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175181/global-artificial-intelligence-in-healthcare-market-2020"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta28369455_g.jpg"
+        width: 420
+        height: 315
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-10-27T23:50:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-10-27/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 73
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge AI Hardware Market"
+    excerpt: "Microsoft’s Azure IoT platform is able to process data messaging from millions of building sensors and devices and then use machine learning and AI to help building managers and operators determine what issues should be addressed in what order ..."
+    publishedDateTime: 2020-10-28T03:59:00Z
+    webUrl: "https://www.openpr.com/news/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements"
+    ampWebUrl: "https://www.openpr.com/amp/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173906/edge-ai-hardware-market-growth-to-be-fuelled-by-advancements"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta28544591_g.jpg"
+        width: 639
+        height: 542
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
+    excerpt: "UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning,"
+    publishedDateTime: 2020-10-28T02:48:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
+        width: 1279
+        height: 670
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market Size"
+    excerpt: "Artificial intelligence refers to the simulation of human intelligence in machines that are programmed to think like humans and simulator their actions. Using these technologies, computers can be trained to accomplish specific tasks by processing large ..."
+    publishedDateTime: 2020-10-27T17:42:00Z
+    webUrl: "https://www.medgadget.com/2020/10/at-41-8-cagr-healthcare-artificial-intelligence-market-share-with-latest-trends-and-research-development-report-to-2025-intel-nvidia-siemens-healthineers-ibm-microsoft.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 34
+  - title: "Record Number of Health Systems Choose Viz.ai's AI-Powered Synchronized Stroke Care Solution to Improve Patient Outcomes"
+    excerpt: "Today, on World Stroke Day, many prominent health systems such as Banner Health, Ohio State University Medical Center, Atrium"
+    publishedDateTime: 2020-10-29T12:06:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/record-number-of-health-systems-choose-viz-ais-ai-powered-synchronized-stroke-care-solution-to/article_0d4585ee-bfe2-571c-978a-67c68e30d7e8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/66/666fbd84-9824-5347-becf-d8f08dd0924c/5f9abd7ebcb6a.image.jpg?resize=400%2C208"
+        width: 400
+        height: 208
+        isCached: true
 
-secured: "DdqVxPzt4xUfMiLZNW19jkIDQvT2Z+q18BzPRVTHA5XDGAiNHg0JWLDXpB4PsKDB0yCqAs2UaK0hRi2P1SMlLDuSJJZFXZy7bio82YjTOA08G0TvCkwCXjFbjMOya4yDuhKL5ZyB2nDTCpXN7qozD11rs/g+/jwJDxOcosRDdDtWrsy7ftzqZBRbOFyHnu0wUFoJ3B7ofU52OFyUo9CTR9du7kV3Mynur9aeHzQvxNu49SuPhgVA+pWQ0Nx58p/yQmWbAfpyZb+knot6+b7tZYRcLKY8crVZEKnso5j1LZh0kqBdpuMHHhEvX90bGrLPL4weus/CJigVzly1UJxzQXUI+ZZjt4+a6Wi1bLQR1IU=;bFKEvJD+2og5tF1VQkP1pA=="
+secured: "KsGRX9Ceg2qxnbB9SSgDgUcSjMnEpwT/ijfVXhh09qxMexAciYxNcWBGiY0KUqt4dFuhNHHe5Mp9rUh6XK028HpGdOZla5IdoG+LMOj8n9h5CErALmUwxzt7YlAVKGaVhXeoNvXw1x+ErGFHVROtIa3A80CiEN889eoGSbo3s6vfKkSh6qOUhlZWs8Uc/aYYTXhB/7ZdYi/9mf8g0kQf8kNs9c2uDtpSHn0KOes9rCBY7fTaAAQrxG5i/g/YJqPNR2EGg1vKvSyYfk2omzTuwQgsnFm8xoQyp6cS1IDlLSJaZfDgqUkjXE/RVlOCg1SWdC2Bavo8wfOJbHZzIrilzDzklVsRhqrhIjyXVuvQVPE=;stfJ5lOvK4Zu9lieRAFahw=="
 ---
 

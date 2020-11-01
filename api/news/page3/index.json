@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-28-the-future-of-robotics-is-bright-with-arkq.md",
-      "title": "The Future of Robotics is Bright with ARKQ",
-      "excerpt": "Robotics and artificial intelligence are making machines smarter and more capable than ever before, allowing robots to take on increasingly sophisticated tasks for faster and more accurate production. Declining computer chip costs and improving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28",
-      "originalUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28?amp",
-      "publishedDateTime": "2020-10-28T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-emerging-technologies-that-will-advance-the-retail-industry.md",
       "title": "Emerging technologies that will advance the retail industry",
       "excerpt": "In response to this changing landscape, retailers have brought forward technology investments to accelerate their digital business transformation, particularly in artificial intelligence (AI) technologies with retailers often utilizing AI-enabled third-party vendor applications to solve immediate challenges before moving to more strategic deployments once they gain evidence of the benefits.",
@@ -148,7 +114,7 @@
       "originalUrl": "https://singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -483,7 +449,7 @@
       "originalUrl": "https://www.forbes.com/sites/deepalikhanna/2020/10/28/harnessing-ai-to-reset-the-future-how-to-channel-ai-for-social-good/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -637,7 +603,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1206,6 +1172,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-human-api-raises-20-million-to-standardize-health-records-with-ai.md",
+      "title": "Human API raises $20 million to standardize health records with AI",
+      "excerpt": "California-based company developing an AI pipeline that structures health data into a standardized format, this week raised over $20 million. A spokesperson for the startup says the capital will ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/amp/",
+      "publishedDateTime": "2020-10-27T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

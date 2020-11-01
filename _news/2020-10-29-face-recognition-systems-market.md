@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recogn
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Speech Recognition Market Size is Projected to Reach USD 29.28 Billion by 2026 | Valuates Reports"
-    excerpt: "Speech Recognition Market by Deployment Mode (On Cloud, On Premise), By End Use (Automotive, Consumer Electronics, Healthcare,"
-    publishedDateTime: 2020-10-27T13:40:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-839949080.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
   - title: "Hangzhou may ban mandatory collection of facial recognition scans in residential communities, marking China’s first"
     excerpt: "A visitor tries facial recognition payment in a smart store in Wuzhen Town of Tongxiang, east China's Zhejiang Province, Nov. 6, 2018. (Xinhua/Huang Zongzhi) The East China city of Hangzhou may ban property management companies from requiring residents to ..."
     publishedDateTime: 2020-10-28T16:26:00Z

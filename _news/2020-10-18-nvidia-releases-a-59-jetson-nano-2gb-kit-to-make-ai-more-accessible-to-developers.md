@@ -1,14 +1,11 @@
 ---
 category: news
 title: "NVIDIA Releases a $59 Jetson Nano 2GB Kit to Make AI More Accessible to Developers"
-excerpt: "However, as developers, learning AI skills for professional programming has been difficult. The barrier is the GPU. Most deep learning algorithms and frameworks are designed to run on the GPU. They are too slow on the CPU. Yet, most computers are CPU-based."
-publishedDateTime: 2020-10-18T01:35:00Z
-originalUrl: "https://www.infoq.com/news/2020/10/nvidia-jetson-nano-2gb/?topicPageSponsorship=1407&itm_source=presentations_about_development&itm_medium=link&itm_campaign=development"
-webUrl: "https://www.infoq.com/news/2020/10/nvidia-jetson-nano-2gb/?topicPageSponsorship=1407&itm_source=presentations_about_development&itm_medium=link&itm_campaign=development"
+excerpt: "However, as developers, learning AI skills for professional programming has been difficult. The barrier is the GPU. Most deep learning algorithms and frameworks are designed to run on the GPU."
+publishedDateTime: 2020-10-17T20:28:00Z
+originalUrl: "https://www.infoq.com/news/2020/10/nvidia-jetson-nano-2gb/"
+webUrl: "https://www.infoq.com/news/2020/10/nvidia-jetson-nano-2gb/"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
   name: InfoQ
@@ -19,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.infoq.com/statics_s1_20201020-0324/styles/static/images/logo/logo-big.jpg"
+  - url: "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg"
     width: 1200
     height: 630
     isCached: true
 
-secured: "NZ7m5c8bXu9HCdQY4McCeZFQwosU+31/rRqMVX/C3AD6jGGuarxEEVraM0sqTzvotqcbbAqIvthsZidvnr9fHzmdVJ9zKs61ijVWSrL875s1bMDgpOFVT2wPrAlvLBjrd62tHJMnHmdJP1g4namT3vtHEwBpYiaNkFRUtxYy7VATNqfeaAbRpAqwR7XxHU8ALKAhVevkgaqJORoAzuKh4t+cFkmjF/nhoxTq/nKjq8XqmvsMKsnbDZ87sU28yq1nlJM253cjEQHw9i8Cc7SHw1tYNCZCPgAhT0qog3X5aV2pHCZltfLkV8WVtnfCPkHzLVYT7BTw0dYcLfc280ORLaLPySEWkJgKA2x0LBpbV8PMxmaJWSFPnlPP0e+ns5lZGKfs04GFgEg6uPe9DNhrdBbdZH0oz9hWblljPGqjcOYRcA+TTCz98XrfW5eEx6FKgqtv/P/8JovbFXFChxMWGFnjYnwR56XAETQK5CsGg3vrT/Z7ewN3dNrJfznOgpjIulTh8WNdilbDwG+c7ceuxw==;tqL3EzsjdHPpwBsXDksYPg=="
+secured: "QDzE8ZyZ8pVGxVVFuaSD5L45rGYmd6WvwTxjtBeZplpzMH5iuyAHHJV7D7wietitI0sw4u26tDwqQHeMTmtxh8N/KcnuRVsM7JVQ4awo6xKS5WlJnPaLiqv75HX3AZ+YH4JnVjKraH17rEHkp1lxXKimaeX62pvOIoJm9dkMTwFjsyJE661+SncwWC0I8KLMc+m3XMU020QFDg/yvLsSCQut+FC9Py55ZtkUaqXei+kTpX3wjOH224Ko/4wlFGR7aiajak8txeOkqmmQOf9EScXcMClV6eSE/JY41qaBRbMeKPLqob3/jA1HIu4XqLQZShtoYZSeGfFtD3rWT4zCFbc2en4Q65Df+xO4qraUVXY=;YZchI04UhgDfaKm1SUooRA=="
 ---
 

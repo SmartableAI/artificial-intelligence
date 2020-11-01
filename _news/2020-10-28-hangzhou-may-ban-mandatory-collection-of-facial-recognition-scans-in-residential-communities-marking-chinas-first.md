@@ -35,20 +35,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Speech Recognition Market Size is Projected to Reach USD 29.28 Billion by 2026 | Valuates Reports"
-    excerpt: "Speech Recognition Market by Deployment Mode (On Cloud, On Premise), By End Use (Automotive, Consumer Electronics, Healthcare,"
-    publishedDateTime: 2020-10-27T13:40:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-839949080.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
   - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
     excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
     publishedDateTime: 2020-10-30T10:00:00Z

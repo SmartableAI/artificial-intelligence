@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/"
 type: article
 quality: 99
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -164,6 +164,20 @@ related:
       - url: "https://images.anandtech.com/doci/16210/Xe_Max_Car_678x452.jpg"
         width: 678
         height: 451
+        isCached: true
+  - title: "Intel Xe DG1 Is The New ‘Iris Xe Max’ Discrete GPU Inside Laptops And These Are The Specifications And Features"
+    excerpt: "Intel recently confirmed it was shipping out the Intel Xe DG1 GPU that the company had been building in-house. It is now confirmed that Intel has"
+    publishedDateTime: 2020-11-01T01:00:00Z
+    webUrl: "https://appuals.com/intel-xe-dg1-is-the-new-iris-xe-max-discrete-gpu-inside-laptops-and-these-are-the-specifications-and-features/"
+    type: article
+    provider:
+      name: appuals.com
+      domain: appuals.com
+    quality: 19
+    images:
+      - url: "https://cdn.appuals.com/wp-content/uploads/2020/10/images-1.jpeg"
+        width: 739
+        height: 415
         isCached: true
 
 secured: "8hRWW4umtglXjIOlDym2L+jYRyHA7Cxn2W4JUf6H9K8MHL838khxvJD3E3XyAy9aPpNkvaaTsHQSr1kTC5Ed8N0V5r6D/Gu2mXnarI4SaG2EQf0sajCNuvwfP01zHLdP16IHRGuF5x818kzuV2jRPSf2TOd0eNGajB1cM+OQOlM4FmiiklVjbFztLEA4pokb3d+2GHFXWuDOdEw1gky6zCm/UrNs4W4RpHz7j/EcAFeXnsZlqsJiqh7l3HJlA35NrmzIrGUAWOZsq5BiZOsNHU7B0Mzvl8Hv4mMgvjSqo7TW3VUA//F/bkAsbdcWRSIWDxqYiBIC0t/e46KabHehSlMdEil36y4W5DGaPNdxQMAPVLwte7EFScq+7dIvylWpHHotnHf6T7/4PBMesVhszf34WL8NBW+9wqrUawoAcTrAftdbBfUXJ0RZJ241jX3Hxr6qLk2s7X+QCCGu6uTBL4qBE2KmRWghft9z0r4lnIXrKDzQsor1aS1n9tY3o0ShLHW1tyqjBPofDpnbKaP6UQ==;G6cVrbRuMFEpscZzZW6klw=="

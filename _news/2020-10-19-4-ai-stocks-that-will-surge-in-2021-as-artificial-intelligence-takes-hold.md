@@ -16,7 +16,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg"
@@ -24,6 +23,6 @@ images:
     height: 900
     isCached: true
 
-secured: "j06LJ8hl1cy4mqM1u1s8Res23ry7EsTrSib6vo8TbPoS8Gw6ENF3551SW2QmlSda+UWDGAyN424akYTnbxy/yuDN0vhe2U4ZWmUGHby2B+Jgnf/61m2FmQvI1+p1sPGHiUpCsIHFz2G4Mtza2et5TPF1MS6Gqs8rMykFlWWxOv5du5v3aBUxe67vwb5PHlrx9JmrdAjb/eQE8WAFzS5vqdpS4DrmpxpjZIwuSy2DVPQNkyJoEP+HyS/KbXe7l5N9jvd617qOf9IJX1ft2YHy8fmGRQeZqcLVX7YRJHaWqVzgSdl5Ie0caav2L8uK6thxRvnJl0imyYDJRRGA3GsFcIAq3QZ5ncTdXQga2i53ZnI=;p1cggXP5+JdBYIkhk+EOUg=="
+secured: "VCzIZ+PibuS5exE0FwjKROmpTRVrIvhwDqLp+u84xSwcrlvL/jidX7+cPTUEXd1uvwkgEwE1M00b7DHpBjaRON/8pLt7GFZFGdPbKYJAthAjcTF7M0tuVWOUFBuGS0N3IkHmPBdrSQV0fangNNoC+qkedsaiJVBs/Fuva4Y0AJ6Bs3dp3sAEHpQJ77hM/WzdHtWOGTQqW2eopXS6MnhnuBC7VxOwFwD2+4mH6d6jBTMi7i7ZbkLWt3jtYF6tBp59MjJeHpBtHRL6hDHUFZ0B5rGK6P1nwx0YQlZRbwDb+oJg2thunGAPbPMSleQIxADfJHpQA5Hqp7Qw+dZyXFusNfgCQUMko/gE+okRh4szdRk=;mvwcF772lLah0YPrEVolMA=="
 ---
 

@@ -22,22 +22,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Raleigh artificial intelligence startup Diveplane lands additional capital"
-    excerpt: "RALEIGH – Diveplane, the two-year-old artificial intelligence startup in Raleigh that’s led by former Epic ... rest of the Diveplane team in achieving their mission of keeping AI understandable.” The funding comes after industry recorgnition for ..."
-    publishedDateTime: 2020-10-27T14:38:00Z
-    webUrl: "https://www.wraltechwire.com/2020/10/27/raleigh-artificial-intelligence-startup-diveplane-lands-additional-capital/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 35
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
-
 secured: "D7oqKZZA53toQT3oxsHtcqyqlTxKN7tkzJpLHMh2d7p9/KLdnZouxI4/aW60cuusP9SdnLSFW+jRTYyCGPZIGlf6AU5ZqOr1iSm++QTHNLpyvgmlEilIbr2IhjBU+isxqkwXaevWi1TLhX6sP62V9z1ONr5LGu38LoIWkXkeKVUmMYTwQDco1xICcf4wKgGK38YokI3x6JFCqFaMzNOMP0wpcS+XxaBG6euXBSo5uzkReE2+41uRcYHnMFo4D55KdQD+JA8EjuCQ/Q7ef0CvCC+KA0OwNDKgdqIDxIJ40umkZX+5uQUnuTNBTwFIk+YOBnQv2RtDxOZOLzxX1alGiVIuSTw5UeVgB9NmZccscUQ=;DbKG1wIXUwSQ+1c9f0CMvg=="
 ---
 

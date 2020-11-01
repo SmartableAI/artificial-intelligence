@@ -27,44 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Otter.ai announces Zoom live video captioning to enhance virtual collaboration"
-    excerpt: "The company notes that this feature could reduce the risk of workplace miscommunication and increase telecommuter productivity and inclusiveness in the remote work era."
-    publishedDateTime: 2020-10-29T13:00:00Z
-    webUrl: "https://www.techrepublic.com/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
+  - title: "Google partners with NOAA on using AI, ML to improve extreme weather predictions"
+    excerpt: "Google already has a number of weather efforts, and this month launched an AI partnership with the National Oceanic and Atmospheric Administration (NOAA) Satellite and Information Service (NESDIS ..."
+    publishedDateTime: 2020-10-27T15:55:00Z
+    webUrl: "https://9to5google.com/2020/10/27/google-ai-noaa-weather/"
+    ampWebUrl: "https://9to5google.com/2020/10/27/google-ai-noaa-weather/amp/"
+    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/10/27/google-ai-noaa-weather/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 63
-  - title: "Otter.ai Launches Live Video Captioning for Zoom Users to Boost Remote Working"
-    excerpt: "Captions and live transcripts used by virtual workers and deaf and accessibility communities. (Graphic:) To experience this new feature, an option to use captions for live video calls and webinars will now appear within Zoom for Otter for Business and Zoom Pro subscribers or higher."
-    publishedDateTime: 2020-10-29T23:16:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201029006139/otterai-launches-live-video-captioning-for-zoom-users-to-boost-remote-working"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 33
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 69
     images:
-      - url: "https://mms.businesswire.com/media/20201029006139/en/834878/4/Otter_caption_image_10_28_20.jpg"
-        width: 480
-        height: 240
+      - url: "https://9to5google.com/wp-content/uploads/sites/4/2019/04/google_cloud_logo_1.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1250
         isCached: true
-  - title: "NOAA and Google Collaborate to Enhance Weather Forecasting and Research with Artificial Intelligence"
-    excerpt: "PRNewswire/ -- NOAA’s Satellite and Information Service (NESDIS) has signed an agreement with Google to explore the benefits of Artificial Intelligence (AI) and Machine Learning (ML) for enhancing NOAA’s use of satellite and environmental data."
-    publishedDateTime: 2020-10-27T15:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-environment-and-nature-environment-weather-artificial-intelligence-d1d583ccb76120130b179cdab9e6ed5a"
+  - title: "NOAA Partners with Google to Boost Weather Forecasts with AI"
+    excerpt: "The roughly $10 million deal will also incorporate new hands-on training opportunities for both entities’ personnel."
+    publishedDateTime: 2020-10-27T19:57:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/10/noaa-partners-google-boost-weather-forecasts-ai/169599/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/10/27/shutterstock_552493561/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "4pK1Y4gzoTEaei2yc98AZLn9PqWXicHQM871LyscTinfmGYYnyEX36Yv7i9+Wbxdndo+9JoFmWyzqmXbctVwzCm5lW/pr2KiG6MnihgpzoZ0pGWsg9aODZJtquYVRev5+uY+w5EPYTAV0d4EjtdJHpweX58nvi4wxjgwIGSbZRcuHDN3vt620ZdKEfWsd/hZeJJwN5NCrTCHnUQY1Wbv99YctMP4krL9hqa1gtqUFHXuRT0IQy2TS+X8aEArefHgUJCMM/mlwVp2ELfFx+PXkopkTZId9BU6JO07ZbbpGkmkJNSbJ48RS/HdyB+ufQUJi/Chn6WgBVoOK0a7gERZHCFDpEGAH5OfKBu8vizXQ+E=;h6ojK4R5MxPCqTT9FUKM7g=="

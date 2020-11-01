@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -95,58 +95,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care.md",
-      "title": "Google AI executive sees a world of trillions of devices untethered from human care",
-      "excerpt": "Everything you need to know about AI An executive guide to artificial intelligence ... The Linley Fall Processor Conference, hosted by chip analysts The Linley Group. Warden offered the assembled, mostly chip industry executives, a wish list, as he ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "originalUrl": "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/10/29/470db163-bd0f-42db-884d-a81b219a724d/warden-2020-what-tinyml-needs-from-hardware.png",
-          "width": 3331,
-          "height": 1816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "publishedDateTime": "2020-10-29T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1199,6 +1147,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-nvidia-releases-a-59-jetson-nano-2gb-kit-to-make-ai-more-accessible-to-developers.md",
+      "title": "NVIDIA Releases a $59 Jetson Nano 2GB Kit to Make AI More Accessible to Developers",
+      "excerpt": "However, as developers, learning AI skills for professional programming has been difficult. The barrier is the GPU. Most deep learning algorithms and frameworks are designed to run on the GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/10/nvidia-jetson-nano-2gb/",
+      "originalUrl": "https://www.infoq.com/news/2020/10/nvidia-jetson-nano-2gb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-17T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {

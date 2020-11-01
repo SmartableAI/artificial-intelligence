@@ -23,17 +23,6 @@ images:
     height: 1707
     isCached: true
 
-related:
-  - title: "New benchmark USPTO study finds artificial intelligence in U.S. patents rose by more than 100% since 2002"
-    excerpt: "WASHINGTON — The number of artificial intelligence (AI) patent applications received annually by the United States Patent and Trademark Office (USPTO) more than doubled from 2002 to 2018, according to a new report published today by the USPTO ..."
-    publishedDateTime: 2020-10-27T13:59:00Z
-    webUrl: "https://www.uspto.gov/about-us/news-updates/new-benchmark-uspto-study-finds-artificial-intelligence-us-patents-rose-more"
-    type: article
-    provider:
-      name: United States Patent and Trademark Office
-      domain: uspto.gov
-    quality: 0
-
 secured: "WvBk4oVQa33T+PNqnCrwXH5pgZyNstA3XPP94Rrz7LKIJBBuVyVbzc/Fl7QpAr0A68aoDkvaTy8bigzulZ3Gdve9JJX2xvp6OqYTB7rndZJJndBTwAngPVH6iYsxJfl7XoYDLrT+iXcpNjd1spPhC+g7KI3q6kztJtPpoIJVx3Aod6bS0lsUf+L3eukKbr6FvtLFKP12T/PkaXZWqZyIyxXFn/LcXPYj0wKPfk4bRJBMKyzO38jrJ8BGrvrfKQXAHs7ufup+Ka+rzRZ6q/OMrcsr6HY/rSYidi0vp3+YUusWYlSlb+wmPB2wUE9bhQorFMm+xxV0iD7KUi3lmhlNkWV4SH8YC2Hl3e3c3QMSKKvZtqi13FlRLLPaJ2Nu12cR6ZcNwGa1itvLv5TMEvfFnRRA/sTzt0G2IBcdk0S1FbxuV3MrPqPcVR67wQ5A5Y/wQG2csh9c+ITQgBQyTF8S8cGoO3meKSF4J0hHRLdmNPl9+cr2Cj729ZgbMNJnIA4vDA3bbBCbw+76MBi7J+njkQ==;lr13RIUrrUNTibMVkmUDsA=="
 ---
 

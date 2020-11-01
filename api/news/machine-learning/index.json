@@ -63,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/?sh=3f285d437a72",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -443,50 +443,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-say-hello-to-otis-a-game-changing-ai-powered-machine-learning-digital-marketing-assistant.md",
-      "title": "Say Hello to Otis, A Game-Changing AI Powered & Machine Learning Digital Marketing Assistant",
-      "excerpt": "Every now and then a dope technology comes around that shakes the whole game to its core. This is that moment. Meet Otis. Designed for entrepreneurs and business owners who are passionate about",
-      "sourceUrl": null,
-      "webUrl": "https://stupiddope.com/2020/10/28/otis-ai-powered-digital-marketing-assistant/",
-      "originalUrl": "https://stupiddope.com/2020/10/28/otis-ai-powered-digital-marketing-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stupiddope.com/wp-content/uploads/2020/10/pexels-photo-1765033.jpeg",
-          "width": 2250,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stupidDOPE",
-        "domain": "stupiddope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2020-10-29-microsoft-improves-password-spray-attack-detection-using-machine-learning.md",
       "title": "Microsoft Improves Password Spray Attack Detection Using Machine Learning",
       "excerpt": "Microsoft on Monday announced that it has developed a new algorithm based on machine learning that improves password spray detection in Azure Active Directory (Azure AD).",
@@ -666,6 +622,49 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-google-partners-with-noaa-on-using-ai-ml-to-improve-extreme-weather-predictions.md",
+      "title": "Google partners with NOAA on using AI, ML to improve extreme weather predictions",
+      "excerpt": "Google already has a number of weather efforts, and this month launched an AI partnership with the National Oceanic and Atmospheric Administration (NOAA) Satellite and Information Service (NESDIS ...",
+      "sourceUrl": null,
+      "webUrl": "https://9to5google.com/2020/10/27/google-ai-noaa-weather/",
+      "originalUrl": "https://9to5google.com/2020/10/27/google-ai-noaa-weather/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://9to5google.com/wp-content/uploads/sites/4/2019/04/google_cloud_logo_1.jpg?quality=82&strip=all",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5google.com/2020/10/27/google-ai-noaa-weather/amp/",
+      "cdnAmpWebUrl": "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/10/27/google-ai-noaa-weather/amp/",
+      "publishedDateTime": "2020-10-27T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Google",
+        "domain": "9to5google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1203,10 +1202,10 @@
     {
       "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
       "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ...",
+      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1214,23 +1213,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T00:35:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18008856",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008856",
+      "publishedDateTime": "2020-10-22T01:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

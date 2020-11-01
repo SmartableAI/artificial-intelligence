@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "T-Factory Is a Store Without Staff Selling Smartphones Using Facial Recognition"
-    excerpt: "Instead, SKT is relying on facial recognition to know who is in the store. Customers register before visiting and can then self check-in on arrival using their face. Once inside, they can purchase ..."
-    publishedDateTime: 2020-10-27T13:51:00Z
-    webUrl: "https://in.pcmag.com/shopping/138854/t-factory-is-a-store-without-staff-selling-smartphones-using-facial-recognition"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/t/t-factory-/t-factory-is-a-store-without-staff-selling-smartphones-using_tqp5.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "CBP Debuts Facial Recognition Technology for International Passengers at LAX"
     excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
     publishedDateTime: 2020-10-29T21:06:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.hpcwire.com/off-the-wire/lightmatter-introduces-rack-o
 webUrl: "https://www.hpcwire.com/off-the-wire/lightmatter-introduces-rack-on-chip-interconnect-to-increase-performance-and-reduce-energy/"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 405
     height: 228
     isCached: true
-
-related:
-  - title: "Lightmatter details Passage, a light-based chip interconnect that enables 1Tbps data transfers"
-    excerpt: "Lightmatter says that Passage, which allows arrays of heterogeneous chips including processors, graphics cards, memory, and AI accelerators to communicate with each other, operates at ..."
-    publishedDateTime: 2020-10-27T15:02:00Z
-    webUrl: "https://venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/"
-    ampWebUrl: "https://venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 94
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/2d3585e0-3f62-4759-bf51-85ee9f7404af-e1597264833261.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "vlrvQpXsLsraWvWfYdYafYkAsczCnWe+enkrScg1DiTHrU9mPhjEYNrleLdZJ0fO2ijHbD7SszMqU61V1gEXeWJkbprl7hWCi1qWmOtsG6swmsKYO/T/PCfJf6295YlsuTwFaONE6sIaSnQHBLRKzhv+2WbYazW6ueHnCr/xIXxLX+g4mYkKHg5UsVNIzdMEh7OLK5UsFP/d5n6gF/atlMLx7YKgz3U1A3nsbdxRjvRWyZBmbojXP1elm5GsAY5J6qLHfGs+d/d9NaLoERMITTSBXf9LfOdNg9Uu3VonCNgfFQGdTAOdbXNL/EYmz4wWijIPEgZfxFAJc1rEbk/9fONxUJ38ohOVKqySXZo+4scFrY3KqQKtBvDm3BfGFpHU3fhuEgjUoKSwuF9vA6i80BzQlD9J9huZaojVaSkfG3S10QJx5fu/u4jW/oTkyweKiRNRgnKsxOnx0KkYserD+lmw1mLnssBrmrzdSl9Dkg+ozH3KQ1/iDeRBLocUtCMf5K0ag3UPPWXhe8MTngmk5g==;QrLt2/Wyd/hVJQGmdNIAjw=="
 ---

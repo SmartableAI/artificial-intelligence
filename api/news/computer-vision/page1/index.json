@@ -53,7 +53,7 @@
       "originalUrl": "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -96,7 +96,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -138,6 +138,49 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-first-responder-technologies-completes-alpha-version-of-sentineltm-vision-camera-and-weapon-detection-computer-vision-model.md",
+      "title": "First Responder Technologies Completes Alpha Version of Sentineltm Vision Camera and Weapon Detection Computer Vision Model",
+      "excerpt": "First Responder Technologies Inc. (“First Responder” or the “Company”) (CSE: WPN | OTCQB: WPNNF | FWB: 3WK), a developer of WiFi-based",
+      "sourceUrl": null,
+      "webUrl": "https://www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123.html",
+      "originalUrl": "https://www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rf73nqj6wzfm.cloudfront.net/assets/0125-c6c561f58331c85fbd72996709e8402db48dba8d4cd7beff3c5c75c82fdb64a0.JPG",
+          "width": 3216,
+          "height": 2136,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123/amp",
+      "cdnAmpWebUrl": "https://www-sharewise-com.cdn.ampproject.org/c/s/www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123/amp",
+      "publishedDateTime": "2020-10-27T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sharewise.com",
+        "domain": "sharewise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1379,58 +1422,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-minneapolis-will-consider-facial-recognition-ban.md",
-      "title": "Minneapolis Will Consider Facial Recognition Ban",
-      "excerpt": "The motion could signal a wave of reforms over the use of military and surveillance equipment following the killing of George Floyd by Minneapolis police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_us/article/epdgdj/minneapolis-will-consider-facial-recognition-ban",
-      "originalUrl": "https://www.vice.com/en_us/article/epdgdj/minneapolis-will-consider-facial-recognition-ban",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f88c3d9132c4c00955e9a51/lede/1602798956435-gettyimages-1214222455.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NjkyNjk1MTE0MjEzMTk4eGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -141,6 +141,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-18-nvidia-releases-a-59-jetson-nano-2gb-kit-to-make-ai-more-accessible-to-developers.md",
+      "title": "NVIDIA Releases a $59 Jetson Nano 2GB Kit to Make AI More Accessible to Developers",
+      "excerpt": "However, as developers, learning AI skills for professional programming has been difficult. The barrier is the GPU. Most deep learning algorithms and frameworks are designed to run on the GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/10/nvidia-jetson-nano-2gb/",
+      "originalUrl": "https://www.infoq.com/news/2020/10/nvidia-jetson-nano-2gb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-17T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-sensiml-to-present-at-st-developers-conference.md",
       "title": "SensiML to Present at ST Developers Conference",
       "excerpt": "Learn how the SensiML Analytics Toolkit, TensorFlow Lite, and ST's SensorTile.Box can provide a powerful and flexible IoT development arsenal for innovating new smart wearables, IoT, and ...",
@@ -1135,49 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-machine-learning-depends-on-data-scientists-to-handle-the-ml-configurations-and-data-inputs.md",
-      "title": "Machine learning depends on data scientists to handle the ML configurations and data inputs",
-      "excerpt": "AutoML addresses the challenges of machine learning analysis by eliminating labor intensive tasks and undertakes the automation of machine learning applications to create better ML models",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/automl-alleviates-process-machine-learning-analysis/",
-      "originalUrl": "https://www.analyticsinsight.net/automl-alleviates-process-machine-learning-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Machine-Learning-4.jpg",
-          "width": 1680,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

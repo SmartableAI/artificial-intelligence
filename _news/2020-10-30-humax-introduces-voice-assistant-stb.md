@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Humax introduces voice assistant STB, Wi-Fi 6E gateway at RDK summit"
-    excerpt: "The box includes integrated stereo sound and supports Alexa’s far-field voice recognition with a built-in mic. Humax has a lonf history of RDK device deployment. At the RDK Euro Summit, Humax will also showcase its IP Box integrated with the latest ..."
-    publishedDateTime: 2020-10-27T14:34:00Z
-    webUrl: "https://www.telecompaper.com/news/humax-introduces-voice-assistant-stb-wi-fi-6e-gateway-at-rdk-summit--1359369"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
 
 secured: "kQD9tBEuKf8p9j2Id2TZVFwWcSQGRo/mvsFUTdfaBndnyvJP3A2hp5BBRndlOzDkyh6ODX6+ET2zaOHe4MsnwGPivt4kVnuDMtpE2yVyx24oNOrq5FpyvM6iSU0WZTL6N6WO8ITWXdpZ2o9nH63WXPdZ9uRqtGnyExAQyI5WT/9XnPqtqeGOyqeTwlyotXVixnl1QBzTgwsm3EqmVMzK8ClBIwYUiuoEkCY1hc8iGrlhnT75fDwEPwT1wkrG2Mg0jwxZsgSQDwdSlYD0NxtHqdsPmiuc1ZXbQ/nMLbfYqtIqApvvnz/NUz2VLm7D1c4nrB/mUMmLg/Ay0xIg0uR4qzPlpxedg3iGMFBdDF7CBoUdTHYfKgyelQeZrvb/5gqxFZGugEBdg95tUDzPzepjW9XJDIbL0iQaQWyBceSMqvuY9MLCLlmke6JhSqd9PyhG9EzbGNEqBITCatq2Q8e5u5YcYuox3b7peksIndtVLWpPZJohmPhnYIzJT58bR34PUdWUrtK/Dceu3GxTVBffRg==;eSY8Ny9+93qvdnC4eN1Ydw=="
 ---

@@ -74,20 +74,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 54
-  - title: "White Castle expands partnership with Miso Robotics’ Flippy the fry cook robot"
-    excerpt: "White Castle will be implementing the newly revamped commercial version of the Miso Robotics creation — Flippy Robot ... powered drive-thru system with license plate recognition “Artificial intelligence and automation have been an area White Castle ..."
-    publishedDateTime: 2020-10-27T13:39:00Z
-    webUrl: "https://www.nrn.com/news/white-castle-expands-partnership-miso-robotics-flippy-fry-cook-robot"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 50
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/03%20Flippy%20wearing%20White%20Castle%20sleeve_1.jpeg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "iwBPLIb/xVx8JXCbjIGZiI9vtLdBur4mPZqeeQi2VrLf0Us6TK0+svqrfzcu4+xp9RTwzHxDCfpVNpriZ1zmehlZwky3T4+kx94JjK5xvBiUjdIPjDgSPPehL6cEFjbLFESLmd5uVocWVjlZZJRnmf9gXUqW4dw5qDrppnI83em4gbiwbrbi/5v3q6h8xfgo/cnkwGyhN8Ua0RdLjrklsWaKIlua/GPmrVbzW0cHUiQ2Ox9eoqlpYvhz391OEuRO65BMSDPOkBqQa5SZtlRdoLV3O1i9y5wIW9dc6yEFuvgUwHOxi3wdT7ox8pSRtj9e6CIar8dN+G8ERe9klWjp0oixT886laGA64do2KFgMz6KUfCkugzH4DKo0R5CvHmr4PlOJZ4qQTO8sHQciyo6tOhN3Y/akgSP4oZQoPSq3nlO9SJ/6lCEqv3tBUJzBwIIpm6N51CaQ/z5s7pMYRRhB12F5cXwP0u7H5cSjTMxPxPELrY6GvFS+t8C0Km3dRlPXHnL/BjnbRDmV+tCuoGYeA==;SR/Ic8/kUBi/jv3X9pY4wg=="
 ---
