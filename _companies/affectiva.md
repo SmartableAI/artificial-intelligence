@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "affectiva"
   url: "https://twitter.com/affectiva"
-  followers: 11130
+  followers: 11131
 
 size: 51-200 employees
 yearFounded: 2009
